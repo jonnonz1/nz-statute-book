@@ -1,5 +1,5 @@
 # Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014
-_Consolidation as at 2014-06-30_
+_Consolidation as at 2016-02-24_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014.
@@ -36,7 +36,7 @@ This Act is the Taxation (Annual Rates, Employee Allowances, and Remedial Matter
 (29) Section 34 comes into force on 1 January 2015.
 (30) Sections 9, 10, 12, 14, 15, 16, 24, 25, 26, 35, 42, 44, 46, 51, 52, 61, 64, 65(1), 68, 71, 72, 102, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 120, 125, 137, 138, 139, 144(3), (5), (9), (10), (11), (12), (13), (24), (25), (26), (31), (33), (34), (35), (36), (43), (44), (48), and (49), 149, 158, 192(4) and (7), 206, 207, 208, 209, 210, 211, 212, 213, 214, and 215 come into force on 1 April 2015.
 (31) Section 155 comes into force on 1 April 2016 or on an earlier date set by Order in Council.
-(32) Section 32(2) comes into force on the earlier of––
+(32) Section 32(2) comes into force on the earlier of—
   (a) the date appointed by the Governor-General by Order in Council to bring into force new Part 10 of the Housing Restructuring and Tenancy Matters Act 1992, as described in the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013; and
   (b) 14 April 2016.
 
@@ -60,7 +60,7 @@ Replace section BB 3(2), other than the heading, with:
   (5B) A foreign account information-sharing agreement is subject to Part 11B of the Tax Administration Act 1994.
 
 ### 7 New section CB 15B inserted (When land acquired)
-(1) After section CB 15, insert:When land acquiredGeneral ruleFirst exception: acquisition of land by company to be formedSecond exception: further land from exercise of optionRelationship with subparts FB and FCcompany, estate, interest, land.
+(1) After section CB 15, insert:When land acquiredGeneral ruleFirst exception: acquisition of land by company to be formedSecond exception: further land from exercise of optionRelationship with subparts FB and FCcompany, estate, interest, land
   (1) For the purposes of this subpart, a person acquires an estate, interest, or option that is land (the land) on the date that begins a period in which the person has an estate or interest in, or an option to acquire, the land, alone or jointly or in common with another person.
   (2) If a person, on behalf of a company to be formed, enters an agreement under which the company will have land, the company is treated, for the purposes of this subpart in relation to the land, as existing from when the person enters the agreement.
   (3) If a person who has an estate or interest in land has subsequently, as a consequence of the person's exercise of an option, another estate or interest (the other land interest) in the same land, the person is treated for the purposes of this subpart as having the other land interest from the time of the exercise of the option.
@@ -68,7 +68,7 @@ Replace section BB 3(2), other than the heading, with:
 (2) Subsection (1) applies for disposals of land occurring on or after 22 November 2013.
 
 ### 8 Section CB 26 amended (Disposal of certain shares by portfolio investment entities)
-(1) After section CB 26(1)(a), insert:.
+(1) After section CB 26(1)﻿(a), insert:
   (ab) the share is not in a listed PIE; and
 (2) In section CB 26, in the list of defined terms, insert listed PIE.
 
@@ -77,7 +77,7 @@ After section CC 1(2B), insert:Exception for amount from grant of easement
   (2C) An amount is not income of the owner of a fee simple estate in land if the amount is derived as consideration for the grant, for the duration of the estate, of an easement over the land and is not a periodic payment.
 
 ### 10 Section CC 1B replaced (Consideration for agreement to grant, renew, extend, or transfer leasehold estate or licence)
-(1) Replace section CC 1B with:Consideration relating to grant, renewal, extension, or transfer of leasehold estate or licenceWhen this section appliesIncomeException for payment as consideration for transfer of land rightException for tenant or licensee of residential premisesException for payment of capital contributionamount, associated, capital contribution, estate, general permission, income, land, leasehold estate, own, pay.
+(1) Replace section CC 1B with:Consideration relating to grant, renewal, extension, or transfer of leasehold estate or licenceWhen this section appliesIncomeException for payment as consideration for transfer of land rightException for tenant or licensee of residential premisesException for payment of capital contributionamount, associated, capital contribution, estate, general permission, income, land, leasehold estate, own, pay
   (1) This section applies when a person (the payee) derives an amount—
     (a) in relation to a right (the land right) that is
       (i) a leasehold estate not including a perpetual right of renewal:
@@ -100,7 +100,7 @@ After section CC 1(2B), insert:Exception for amount from grant of easement
 ### 11 Section CC 1C amended (Consideration for agreement to surrender leasehold estate or terminate licence)
 (1) Replace section CC 1C(1), other than the heading, with:
   (1) This section applies when—
-    (a) a person (the payee) is the owner of––
+    (a) a person (the payee) is the owner of—
       (i) an estate in land from which is granted a right (the land right) that is a leasehold estate not including a perpetual right of renewal, or is a licence to use land:
       (ii) the land right; and
     (b) derives an amount as consideration for the agreement by the payee to the surrender or termination of the land right.
@@ -118,7 +118,7 @@ In section CD 32(2), replace section CE 1(1B) (Amounts derived in connection wit
 (5) Subsections (1) to (4) apply for the 2008–09 and later income years.
 
 ### 14 Section CE 1 amended (Amounts derived in connection with employment)
-(1) After section CE 1(1)(b), insert:.
+(1) After section CE 1(1)﻿(b), insert:
   ((bb)) the value of accommodation referred to in sections CE 1B to CE 1E:
 (2) Repeal section CE 1(1B).
 (3) Replace section CE 1(2), other than the heading, with:
@@ -143,7 +143,7 @@ In section CD 32(2), replace section CE 1(1B) (Amounts derived in connection wit
     (b) apply for income years that do not precede the 2015–16 income year.
 
 ### 15 New sections CE 1B to CE 1E inserted
-After section CE 1, insert:General rule: accommodation provided by employers Value of accommodationValue of accommodation allowancesPayments and reimbursementsAdjustments to values Adjustments: allowances and amounts paidExceptionsaccommodation, amount, business, employer, employment, expenditure on account of an employee, income, payException: overseas accommodationRelevant local rentalWhen overseas rental is less than New Zealand equivalentWhen location in New Zealand is uncertainaccommodation, amount, New ZealandException: accommodation provided by Defence ForceWhen this section appliesMarket rental valueNational benchmark properties and discountsThree-yearly reviewaccommodation, amount, Commissioner, payException: accommodation provided to ministers of religionIncomeLimited amountDefinition of items in formulaAdjustmentsPart-yearMeaning of minister of religionaccommodation, amount, business, income year, minister of religion.
+After section CE 1, insert:General rule: accommodation provided by employersValue of accommodationValue of accommodation allowancesPayments and reimbursementsAdjustments to values Adjustments: allowances and amounts paidExceptionsaccommodation, amount, business, employer, employment, expenditure on account of an employee, income, payException: overseas accommodationRelevant local rentalWhen overseas rental is less than New Zealand equivalentWhen location in New Zealand is uncertainaccommodation, amount, New ZealandException: accommodation provided by Defence ForceWhen this section appliesMarket rental valueNational benchmark properties and discountsThree-yearly reviewaccommodation, amount, Commissioner, payException: accommodation provided to ministers of religionIncomeLimited amountDefinition of items in formulaAdjustmentsPart-yearMeaning of minister of religionaccommodation, amount, business, income year, minister of religion
   (1) The value of accommodation provided to a person is income of the person when it is provided in relation to their employment or service. The value is an amount equal to the market rental value of the accommodation.
   (2) The value of an accommodation allowance provided to a person is income of the person when it is provided in relation to their employment or service. The value is equal to the amount of the allowance paid to the person.
   (3) An amount paid for or towards the provision of accommodation for a person, whether as expenditure on account of an employee or as a reimbursement, is income of the person when it is paid in relation to their employment or service.
@@ -153,14 +153,14 @@ After section CE 1, insert:General rule: accommodation provided by employers Val
       (ii) if the persons referred to in that subsection who are sharing in the accommodation agree with the person providing the accommodation, apportioned on another reasonable basis:
     (b) when the person to whom the accommodation is provided contributes towards their occupation of the accommodation, the amount may be reduced by the amount contributed:
     (c) when the person to whom the accommodation is provided uses part of the accommodation wholly or mainly for work purposes related to their employment or service, the amount may be apportioned between business use and private use.
-  (5) Subsection (4)(b) and (c) may apply to adjust the value of an accommodation allowance or an amount paid for or towards the provision of accommodation under subsections (2) and (3).
+  (5) Subsection (4)﻿(b) and (c) may apply to adjust the value of an accommodation allowance or an amount paid for or towards the provision of accommodation under subsections (2) and (3).
   (6) Sections CE 1C and CE 1E override this section.
   (1) Despite section CE 1B(1), if accommodation is provided at or near a work location that is overseas, the value of the accommodation is an amount equal to the relevant market rental value of accommodation in New Zealand. The relevant market rental value is determined taking into account—
     (a) the location where the person would be likely to work for their employer in New Zealand; and
     (b) the equivalent accommodation in New Zealand that the person would be likely to occupy; and
     (c) the average or median market rental value in the vicinity of the location referred to in paragraph (a).
   (2) For the purposes of subsection (1), if the value of the accommodation in the overseas location is less than the New Zealand equivalent market rental value, the value that must be used is the value in the overseas location.
-  (3) For the purposes of subsection (1)(a), if the location where the person would be likely to work for their employer in New Zealand is uncertain, the relevant market rental value is taken as either the average market rental value or the median market rental value, as applicable, for the whole of New Zealand.
+  (3) For the purposes of subsection (1)﻿(a), if the location where the person would be likely to work for their employer in New Zealand is uncertain, the relevant market rental value is taken as either the average market rental value or the median market rental value, as applicable, for the whole of New Zealand.
   (1) This section applies for the purposes of section CE 1B(1) when accommodation is provided to a person who is a member of the Defence Force by the Navy, Army, or Air Force, as those terms are defined in the Defence Act 1990.
   (2) The market rental value of the accommodation is an amount equal to the lesser of—
     (a) the market rental value for the accommodation; and
@@ -170,7 +170,7 @@ After section CE 1, insert:General rule: accommodation provided by employers Val
     (b) the types of accommodation represented by the benchmark properties:
     (c) a market rental value for each type of accommodation in the benchmark properties:
     (d) a discount applying to each type of accommodation in the benchmark properties.
-  (4) A determination under subsection (3)(c) and (d) must be reviewed every 3 years. Either the Commissioner or the Chief of the Defence Force may instigate the review.
+  (4) A determination under subsection (3)﻿(c) and (d) must be reviewed every 3 years. Either the Commissioner or the Chief of the Defence Force may instigate the review.
   (1) Despite section CE 1B(1) and to the extent described in subsection (2), the value of accommodation that is provided to a person who is a minister of religion is income of the person when the property in which the accommodation is provided is supplied by the religious society or organisation of which they are a minister.
   (2) The amount of income for an income year is calculated using the formula—remuneration × (1 – adjustment) + excess rental.
   (3) In the formula,—
@@ -179,7 +179,7 @@ After section CE 1, insert:General rule: accommodation provided by employers Val
     (c) excess rental is the amount that is not less than zero that is the difference between—
       (i) the market rental value for the income year of the accommodation provided; and
       (ii) the market rental value for the income year of accommodation that is reasonably commensurate with the duties of the person as a minister and for the location in which they perform their duties.
-  (4) An adjustment referred to in subsection (3)(b) is as follows:
+  (4) An adjustment referred to in subsection (3)﻿(b) is as follows:
     (a) if the person to whom the accommodation is provided uses part of the accommodation wholly or mainly for work purposes related to their duties as a minister, the amount is apportioned between that business use and private use:
     (b) if more than 1 person referred to in subsection (1) shares in the accommodation provided, the amount is apportioned equally between them.
   (5) For the purposes of this section, if accommodation is provided for part of an income year, the reference to income year is read as a reference to the relevant part of the income year.
@@ -191,7 +191,7 @@ After section CE 1, insert:General rule: accommodation provided by employers Val
     (b) does not include a member of a religious society or order referred to in section CW 25 (Value of board for religious society members).
 
 ### 16 Section CE 5 amended (Meaning of expenditure on account of an employee)
-(1) Replace section CE 5(3)(b) and (bb) with:.
+(1) Replace section CE 5(3)﻿(b) and (bb) with:
   (b) an amount paid under—
     (i) sections CW 16B to CW 16F (which relate to accommodation expenditure):
     (ii) section CW 17B (Relocation payments):
@@ -199,7 +199,7 @@ After section CE 1, insert:General rule: accommodation provided by employers Val
     (iv) section CW 17CB (Payments for certain work-related meals):
     (v) section CW 17CC (Payments for distinctive work clothing):
     (vi) section CW 18 (Allowance for additional transport costs):
-(2) Replace section CE 5(3)(c) with:.
+(2) Replace section CE 5(3)﻿(c) with:
   (c) expenditure, other than an amount to which paragraph (a) applies, that an employee pays in connection with their employment or service to the extent to which—
     (i) the amount of the expenditure is incurred by or on behalf of their employer; and
     (ii) the employee pays the amount on their employer's behalf:
@@ -210,11 +210,11 @@ After section CG 2(4), insert:Relationship with sections CG 2B to CG 2E
   (5) Sections CG 2B to CG 2E override this section.
 
 ### 18 New sections CG 2B to CG 2E inserted
-(1) After section CG 2, insert:Remitted amounts on discharge from bankruptcyWhen this section appliesIncomeDefinition of items in formulaTiming of incomeRelationship with section CG 2amount, Commissioner, deduction, income, income year, loss balance, tax loss component, tax year.
+(1) After section CG 2, insert:Remitted amounts on discharge from bankruptcyWhen this section appliesIncomeDefinition of items in formulaTiming of incomeRelationship with section CG 2amount, Commissioner, deduction, income, income year, loss balance, tax loss component, tax year
   (1) This section applies when a person to whom section CG 2(1) applies is discharged from bankruptcy.
-  (2) An amount to which the remission or cancellation applies is income of the person, but only to the extent of the lesser of––
+  (2) An amount to which the remission or cancellation applies is income of the person, but only to the extent of the lesser of—
     (a) the total of the amounts to which the remission or cancellation applies; and
-    (b) either––
+    (b) either—
       (i) the amount of the person's loss balance at the end of the tax year corresponding to the income year immediately before the income year in which the discharge occurs (the preceding tax year loss balance), if the Commissioner has not claimed a provable debt referred to in section 231(1) of the Insolvency Act 2006 in relation to the person; or
       (ii) the amount calculated using the following formula, if the Commissioner has claimed a provable debt referred to in section 231(1) of the Insolvency Act 2006 in relation to the person:loss balance – debt adjustment.
   (3) In the formula,—
@@ -222,7 +222,7 @@ After section CG 2(4), insert:Relationship with sections CG 2B to CG 2E
     (b) debt adjustment is the amount of the adjustment made by the Commissioner to the person's loss balance under section 177C of the Tax Administration Act 1994.
   (4) The income is treated as derived on the first day of the income year in which the person is discharged from bankruptcy.
   (5) This section overrides section CG 2.
-(2) Before section CG 3, insert:Remitted and other amounts: companies in liquidationWhen this section appliesIncome of profit companyTiming of incomeNo application to financial arrangementsRelationship with other provisionsamount, company, deduction, financial arrangement, group of companies, income, liquidation, net income, net loss, pay, tax loss, tax loss component, tax yearRemitted and other amounts: companies leaving groupsWhen this section appliesIncome of profit companyTiming of incomeWhen subsection (5) appliesCommissioner's discretion No application to financial arrangementsRelationship with other provisionsamount, arrangement, Commissioner, company, deduction, financial arrangement, group of companies, income, liquidation, net income, net loss, pay, tax loss, tax loss component, tax yearRemitted and other amounts: income apportionment When this section appliesApportionmentLimited amountDefault apportionmentCompanies in groupApplication to consolidated groupsamount, company, consolidated group, group of companies, income, tax loss, tax year.
+(2) Before section CG 3, insert:Remitted and other amounts: companies in liquidationWhen this section appliesIncome of profit companyTiming of incomeNo application to financial arrangementsRelationship with other provisionsamount, company, deduction, financial arrangement, group of companies, income, liquidation, net income, net loss, pay, tax loss, tax loss component, tax yearRemitted and other amounts: companies leaving groupsWhen this section appliesIncome of profit companyTiming of incomeWhen subsection (5) appliesCommissioner's discretion No application to financial arrangementsRelationship with other provisionsamount, arrangement, Commissioner, company, deduction, financial arrangement, group of companies, income, liquidation, net income, net loss, pay, tax loss, tax loss component, tax yearRemitted and other amounts: income apportionmentWhen this section appliesApportionmentLimited amountDefault apportionmentCompanies in groupApplication to consolidated groupsamount, company, consolidated group, group of companies, income, tax loss, tax year
   (1) This section applies when—
     (a) a company that is part of a group of companies (company A) is allowed a deduction for an amount that it is liable to pay; and
     (b) company A's liability for the amount is later remitted or cancelled, wholly or partly; and
@@ -248,9 +248,9 @@ After section CG 2(4), insert:Relationship with sections CG 2B to CG 2E
       (i) either company C or company D, or both, leave the group; and
       (ii) at the date of the departure, company C is in liquidation, receivership, or does not satisfy the solvency test set out in section 4 of the Companies Act 1993; and
     (f) the liability referred to in paragraph (a) remains unpaid at the date on which either company C or company D, or both, leaves the group.
-  (2) An amount equal to the amount of the unpaid liability referred to in subsection (1)(f) is income of company D.
+  (2) An amount equal to the amount of the unpaid liability referred to in subsection (1)﻿(f) is income of company D.
   (3) Company D is treated as deriving the income immediately before the date on which either company C or company D, or both, leaves the group.
-  (4) Subsection (5) applies for the purposes of subsection (1)(e)(ii) when—
+  (4) Subsection (5) applies for the purposes of subsection (1)﻿(e)﻿(ii) when—
     (a) a transaction results in an amount being received by a creditor of company C within a period of 2 years before either company C or company D, or both, leaves the group; and
     (b) the payment of the amount reduces, in whole or in part, the liability of company C so that company C satisfies the solvency test set out in section 4 of the Companies Act 1993.
   (5) The Commissioner may treat company C as not satisfying the solvency test set out in section 4 of the Companies Act 1993 if the Commissioner considers—
@@ -265,7 +265,7 @@ After section CG 2(4), insert:Relationship with sections CG 2B to CG 2E
     (a) an amount of income is treated as having been derived by a company under section CG 2C or CG 2D; and
     (b) in relation to the income, some or all of a tax loss of a company that is part of a group of companies has been made available to more than 1 company in the group.
   (2) The company that is treated as deriving the income may choose to apportion the income among other companies in the group.
-  (3) The amount of the income referred to in subsection (2) must be no more than the total tax loss referred to in section CG 2C(1)(e) or CG 2D(1)(d), as applicable, for all previous tax years.
+  (3) The amount of the income referred to in subsection (2) must be no more than the total tax loss referred to in section CG 2C(1)﻿(e) or CG 2D(1)﻿(d), as applicable, for all previous tax years.
   (4) If the company that is treated as deriving the income does not make an apportionment under subsection (2), the income must be divided equally among the companies in the group.
   (5) For the purposes of subsections (2) and (4),—
     (a) the company that made the tax loss available is treated as excluded from the group:
@@ -278,7 +278,7 @@ After section CG 2(4), insert:Relationship with sections CG 2B to CG 2E
   (c) company D leaves the group of companies.
 
 ### 19 New section CG 7B inserted (Disposals or applications after earlier deductions)
-(1) After section CG 7, insert:Disposals or applications after earlier deductionsWhen this section appliesIncome: affecting cost in section EE 25, base value in section EE 57Lesser of total deductions and consideration from disposal Deductions in acquiring propertydeduction, dispose, income, plant variety rights.
+(1) After section CG 7, insert:Disposals or applications after earlier deductionsWhen this section appliesIncome: affecting cost in section EE 25, base value in section EE 57Lesser of total deductions and consideration from disposal Deductions in acquiring propertydeduction, dispose, income, plant variety rights
   (1) This section applies when a person—
     (a) has a deduction under section DB 19, DB 37, or DB 40BA (which relate to expenditure on abortive or failed applications) for expenditure; and
     (b) acquires property (the application property) as a result of the expenditure; and
@@ -287,9 +287,9 @@ After section CG 2(4), insert:Relationship with sections CG 2B to CG 2E
     (a) subsection (3), if the application property is disposed of for consideration, in the income year of the disposal; or
     (b) subsection (4), if the application property is used in the lodging of a patent application with a complete specification or in obtaining the grant of a resource consent or plant variety rights, in the income year of the lodgment or grant.
   (3) The amount is—
-    (a) the amount of the consideration derived for the disposal that is not income under another provision of this Act, if that amount is less than the total amount of deductions referred to in subsection (1)(a); or
-    (b) the total amount of deductions referred to in subsection (1)(a), if paragraph (a) does not apply.
-  (4) The amount is the total amount of deductions referred to in subsection (1)(a) for expenditure incurred in acquiring the application property.
+    (a) the amount of the consideration derived for the disposal that is not income under another provision of this Act, if that amount is less than the total amount of deductions referred to in subsection (1)﻿(a); or
+    (b) the total amount of deductions referred to in subsection (1)﻿(a), if paragraph (a) does not apply.
+  (4) The amount is the total amount of deductions referred to in subsection (1)﻿(a) for expenditure incurred in acquiring the application property.
 (2) Subsection (1) applies for the 2014–15 and later income years.
 
 ### 20 Section CT 1 amended (Disposal of exploratory material or petroleum mining asset)
@@ -303,18 +303,18 @@ Replace section CT 7(2), other than the heading, with:
     (b) an underground gas storage facility as that term is defined in section 2 of the Crown Minerals Act 1991.
 
 ### 22 New section CV 17 inserted (Non-exempt charities: taxation of tax-exempt accumulation)
-After section CV 16, insert:Non-exempt charities: taxation of tax-exempt accumulationday of final decision, person, income, income year, year.
+After section CV 16, insert:Non-exempt charities: taxation of tax-exempt accumulationday of final decision, person, income, income year, year
   An amount of income of a person under section HR 12 (Non-exempt charities: taxation of tax-exempt accumulation) is income of the person for the income year that contains the day 1 year after the day of final decision.
 
 ### 23 Section CV 19 amended (Additional income for certain imputation credits)
 (1) Replace section CV 19(2), other than the heading, with:
-  (2) For the income year to which the LE 1(4B) income relates, the person derives an amount of income equal to the amount of the tax credit for the imputation credit under section LE 8B (Dividend from certain FIF interests) except if the LE 1(4B) income relates to FIF income or loss calculated under––
+  (2) For the income year to which the LE 1(4B) income relates, the person derives an amount of income equal to the amount of the tax credit for the imputation credit under section LE 8B (Dividend from certain FIF interests) except if the LE 1(4B) income relates to FIF income or loss calculated under—
     (a) the comparative value method; or
     (b) the deemed rate of return method.
 (2) In section CV 19, in the list of defined terms, insert comparative value method, deemed rate of return method, FIF income, and FIF loss.
 
 ### 24 New sections CW 16B to CW 16F inserted
-(1) After section CW 16, insert:Accommodation expenditure: out-of-town secondments and projectsWhen this section appliesExclusionsExempt incomeEstimated expenditureDefinitions for this section accommodation, amount, associated person, company, distant workplace, employee, employer, employment, employment income, exempt income, group of companies, out-of-town secondment, pay, period of continuous work, project of limited duration, workplaceTime periods for certain accommodation expenditureTime limits: out-of-town secondmentsTime limits: projects of limited durationWhen subsection (4) applies: time limits when expectations changePeriod of exemptionTime limits in exceptional circumstancesAvoidance provisionaccommodation, amount, distant workplace, employee, employer, employment, out-of-town secondment, pay, period of continuous work, project of limited duration, workplaceAccommodation expenditure: conferences and overnight staysWhen this section appliesExclusionsExempt incomeExtended meaning of period of continuous work accommodation, amount, employee, employer, employment, employment income, exempt income, period of continuous work Accommodation expenditure: new employeesdistant workplace, employee, employer, out-of-town secondment, workplaceAccommodation expenditure: multiple workplaces When this section appliesExclusionsExempt incomeaccommodation, amount, distant workplace, employee, employer, employment, employment income, exempt income, pay, workplace.
+(1) After section CW 16, insert:Accommodation expenditure: out-of-town secondments and projectsWhen this section appliesExclusionsExempt incomeEstimated expenditureDefinitions for this section accommodation, amount, associated person, company, distant workplace, employee, employer, employment, employment income, exempt income, group of companies, out-of-town secondment, pay, period of continuous work, project of limited duration, workplaceTime periods for certain accommodation expenditureTime limits: out-of-town secondmentsTime limits: projects of limited durationWhen subsection (4) applies: time limits when expectations changePeriod of exemptionTime limits in exceptional circumstancesAvoidance provisionaccommodation, amount, distant workplace, employee, employer, employment, out-of-town secondment, pay, period of continuous work, project of limited duration, workplaceAccommodation expenditure: conferences and overnight staysWhen this section appliesExclusionsExempt incomeExtended meaning of period of continuous work accommodation, amount, employee, employer, employment, employment income, exempt income, period of continuous work Accommodation expenditure: new employeesdistant workplace, employee, employer, out-of-town secondment, workplaceAccommodation expenditure: multiple workplacesWhen this section appliesExclusionsExempt incomeaccommodation, amount, distant workplace, employee, employer, employment, employment income, exempt income, pay, workplace
   (1) This section applies when—
     (a) the employment duties of an employee require them to work at a distant workplace on an out-of town secondment or a project of limited duration; and
     (b) the period of the employee's employment or service at the distant workplace is a period of continuous work; and
@@ -326,7 +326,7 @@ After section CV 16, insert:Non-exempt charities: taxation of tax-exempt accumul
     (a) to an amount that is the value provided or expenditure incurred by the employer when, under the terms of the their employment, the employee would be entitled to a greater amount of employment income, should the employee choose, or have chosen, not to receive the benefit of the amount:
     (b) in relation to an out-of-town secondment, to a new employee of the employer.
   (3) The amount that is the value provided or expenditure incurred by the employer is exempt income of the employee.
-  (4) For the purposes of subsection (1)(c)(ii),—
+  (4) For the purposes of subsection (1)﻿(c)﻿(ii),—
     (a) an employer may make, for a relevant period, a reasonable estimate of the amount of expenditure likely to be incurred on an employee's accommodation; and
     (b) the amount estimated is treated as if it were the amount incurred during the period to which the estimate relates.
   (5) In this section and sections CW 16C to CW 16F, CW 17CB, CZ 29, and CZ 30 (which relate to accommodation expenditure), as applicable,—
@@ -364,7 +364,7 @@ After section CV 16, insert:Non-exempt charities: taxation of tax-exempt accumul
     (b) the terms of the placement of the employee meet the requirements of an out-of-town secondment or project of limited duration, as applicable, other than the requirement related to the limitation on the length of the period for which the employee is to remain at the distant workplace; and
     (c) the expectation of their employer at the start of the period is that the duration of the secondment or project will exceed the applicable time limit; and
     (d) during the period, the employer revises their expectation of the period for the secondment or project, reducing its expected duration, and as a consequence, the requirements of an out-of-town secondment or project of limited duration, as applicable, are fully met.
-  (4) Section CW 16B applies to the amount that is the value provided or expenditure incurred by the employer for the remainder of the period for which the employee is required to remain at the distant workplace under the out-of-town secondment or project of limited duration. For these purposes, the period starts on the date on which the employer revises their expectation, and ends at the earliest of the dates referred to in subsection (1)(a) to (d) or (2)(a) to (d), as applicable.
+  (4) Section CW 16B applies to the amount that is the value provided or expenditure incurred by the employer for the remainder of the period for which the employee is required to remain at the distant workplace under the out-of-town secondment or project of limited duration. For these purposes, the period starts on the date on which the employer revises their expectation, and ends at the earliest of the dates referred to in subsection (1)﻿(a) to (d) or (2)﻿(a) to (d), as applicable.
   (5) A time limit does not apply if exceptional circumstances arise beyond the control of the employer and employee that require the employee to remain at the distant workplace after the period expires. Examples are a natural disaster or medical emergency. However, an extension of time must be limited to the period for which the employee is unable, because of the exceptional circumstances, to leave the distant workplace.
   (6) For the purposes of determining whether a time limit under this section applies, a break in a period of continuous work at a distant workplace is ignored if a reason, that is more than incidental, for the cessation of the employment or service is to allow a further period of exemption under section CW 16B or CZ 29 (Accommodation expenditure: Canterbury earthquake relief).
   (1) This section applies when—
@@ -377,7 +377,7 @@ After section CV 16, insert:Non-exempt charities: taxation of tax-exempt accumul
   (2) This section does not apply to an amount that is the value provided or expenditure incurred by the employer when, under the terms of their employment, the employee would be entitled to a greater amount of employment income, should the employee choose, or have chosen, not to receive the benefit of the amount.
   (3) The amount that is the value provided or expenditure incurred by the employer is exempt income of the employee.
   (4) For the purposes of this section, a period of continuous work may include a period in which an employee's duties of employment require them to stay for 1 or more nights at a location that is not distant from their regular workplace.
-  Despite section CW 16B(2)(b), section CW 16B applies to a new employee in the following circumstances:
+  Despite section CW 16B(2)﻿(b), section CW 16B applies to a new employee in the following circumstances:
     (a) when the employer intends, at the time of employing the new employee, that the new employee would work permanently at a workplace of the employer that is not a distant workplace, but instead requires the employee to work temporarily at another of their workplaces that is a distant workplace:
     (b) the new employee is on an out-of-town secondment to work—
       (i) for a person with whom the employer has a continuing commercial affiliation or working relationship, and for the purposes of section CW 16B, the person is treated as the employer; and
@@ -412,7 +412,7 @@ After section CV 16, insert:Non-exempt charities: taxation of tax-exempt accumul
 (3) In section CW 17, in the list of defined terms, insert Commissioner, employment, employment income, and tax.
 
 ### 26 New section CW 17CB inserted (Payments for certain work-related meals)
-After section CW 17C, insert:Payments for certain work-related meals Exempt incomeInclusions: work-related eventsInclusions: meals when travelling on businessExclusion: salary sacrificeTime limitMeasuring period Time limits in exceptional circumstancesRelationship with FBT rulesaccommodation, amount, business, employee, employer, employment, employment income, exempt income, fringe benefit, fringe benefit tax rules, pay, workplace.
+After section CW 17C, insert:Payments for certain work-related mealsExempt incomeInclusions: work-related eventsInclusions: meals when travelling on businessExclusion: salary sacrificeTime limitMeasuring period Time limits in exceptional circumstancesRelationship with FBT rulesaccommodation, amount, business, employee, employer, employment, employment income, exempt income, fringe benefit, fringe benefit tax rules, pay, workplace
   (1) When the employment duties of an employee require them to work away from their employer's workplace, expenditure that the employer incurs for or on behalf of the employee for a meal for the employee is exempt income of the employee. For these purposes, expenditure includes a reimbursement payment or a meal allowance.
   (2) For the purposes of subsection (1), a meal includes—
     (a) food and drink that the employee consumes as part of a working meal arranged as part of or as an alternative to a formal meeting for business discussions:
@@ -435,7 +435,7 @@ After section CW 17C, insert:Payments for certain work-related meals Exempt inco
   (8) To the extent to which the expenditure of an employer described in subsection (1) gives rise to a fringe benefit, the fringe benefit tax rules override this section.
 
 ### 27 New section CW 17CC inserted (Payments for distinctive work clothing)
-After section CW 17C, insert:Payments for distinctive work clothingExempt incomeDistinctive work clothingCertain plain clothes includedExempt amountamount, distinctive work clothing, employee, employer, employment, exempt income, pay.
+After section CW 17C, insert:Payments for distinctive work clothingExempt incomeDistinctive work clothingCertain plain clothes includedExempt amountamount, distinctive work clothing, employee, employer, employment, exempt income, pay
   (1) An amount that an employer pays to or on behalf of an employee for distinctive work clothing for the employee is exempt income of the employee.
   (2) For the purposes of this section, distinctive work clothing has the meaning set out in section CX 30 (Distinctive work clothing).
   (3) Despite subsection (2), for the purposes of subsection (4), the wearing of distinctive work clothing by an employee includes the wearing of plain clothes that would normally be worn for private purposes if—
@@ -453,29 +453,29 @@ In section CW 38(3), replace as a trustee with as a trustee, other than an amoun
 In section CW 39(3), replace as a trustee with as a trustee, other than an amount distributed as beneficiary income to a beneficiary who derives the amount as exempt income.
 
 ### 30 Section CW 41 amended (Charities: non-business income)
-(1) Before section CW 41(1)(a), insert:.
+(1) Before section CW 41(1)﻿(a), insert:
   (aa) an amount of income derived by a person who is removed from the register of charitable entities (the register) under the Charities Act 2005, if it is derived in the period starting with the day they are registered on the register and ending with the earlier of the following days:
     (i) the day on which the person does not comply with the person's rules contained in the register:
     (ii) the day of final decision:
-(2) In section CW 41(5)(c), replace unavailable. with unavailable:, and insert:
+(2) In section CW 41(5)﻿(c), replace unavailable. with unavailable:, and insert:
   (d) a person who is removed from the register, in the period starting with the day they are registered on the register and ending with the earlier of the following days:
     (i) the day on which the person does not comply with the person's rules contained in the register:
     (ii) the day of final decision.
 (3) In section CW 41, in the list of defined terms, insert day of final decision.
-(4) Subsections (1), (2), and (3) apply for a person––
+(4) Subsections (1), (2), and (3) apply for a person—
   (a) for the 2014–15 and subsequent income years; and
   (b) for an income year before the 2014–15 income year, but only for the first income year and subsequent income years for which the person files a return of income on the basis that these subsections apply for the relevant income year.
 
 ### 31 Section CW 42 amended (Charities: business income)
-(1) In section CW 42(5), replace subsection (1)(c) with subsection (1)(c) and section CW 42B(2)(c) and (4).
-(2) In section CW 42(6), replace subsection (5) with subsection (5) and section CW 42B(2)(c) and (4).
-(3) In section CW 42(7), replace subsection (1)(c) with subsection (1)(c) and section CW 42B(2)(c) and (5).
-(4) In section CW 42(8), replace subsection (1)(c) with subsection (1)(c) and section CW 42B(2)(c) and (6).
+(1) In section CW 42(5), replace subsection (1)﻿(c) with subsection (1)﻿(c) and section CW 42B(2)﻿(c) and (4).
+(2) In section CW 42(6), replace subsection (5) with subsection (5) and section CW 42B(2)﻿(c) and (4).
+(3) In section CW 42(7), replace subsection (1)﻿(c) with subsection (1)﻿(c) and section CW 42B(2)﻿(c) and (5).
+(4) In section CW 42(8), replace subsection (1)﻿(c) with subsection (1)﻿(c) and section CW 42B(2)﻿(c) and (6).
 
 ### 32 New section CW 42B inserted (Community housing trusts and companies)
-(1) After section CW 42, insert:Community housing trusts and companiesExempt incomeDefinitionDefinition: exceptionControl over activitiesNo controlBenefit or advantageamount, charitable purpose, community housing entity, exempt income, income, income year, tax charity.
+(1) After section CW 42, insert:Community housing trusts and companiesExempt incomeDefinitionDefinition: exceptionControl over activitiesNo controlBenefit or advantageamount, charitable purpose, community housing entity, exempt income, income, income year, tax charity
   (1) An amount of income derived by a community housing entity is exempt income.
-  (2) In this section and section LD 3 (Meaning of charitable or other public benefit gift), community housing entity means a trust and its trustees, or a company (as applicable, the entity), whose activities are predominantly the provision of housing (the activities), and––
+  (2) In this section and section LD 3 (Meaning of charitable or other public benefit gift), community housing entity means a trust and its trustees, or a company (as applicable, the entity), whose activities are predominantly the provision of housing (the activities), and—
     (a) the activities are not carried on for the private pecuniary profit of any individual; and
     (b) all profit is retained by the entity, or distributed or applied to—
       (i) community housing entities that meet the requirements to derive exempt income under this section:
@@ -483,57 +483,57 @@ In section CW 39(3), replace as a trustee with as a trustee, other than an amoun
       (iii) tax charities:
       (iv) persons to whom distributions would be in accordance with charitable purposes; and
     (c) no person with some control over the activities is able to direct or divert, to their own benefit or advantage, an amount derived from the activities.
-  (3) Despite subsection (2), community housing entity does not include a trust and its trustees, or a company (as applicable, the entity) if––
+  (3) Despite subsection (2), community housing entity does not include a trust and its trustees, or a company (as applicable, the entity) if—
     (a) less than 85% of the beneficiaries or clients of the entity are, at the time of first becoming beneficiaries or clients, persons, or classes of persons, described in regulations made under section 225D of the Tax Administration Act 1994 (the regulations):
     (b) the provision of housing to beneficiaries or clients who, at the time of first becoming beneficiaries or clients, are persons, or classes of persons, described in the regulations (the regulated people) is substantially different from the provision of housing to beneficiaries and clients who, at the time of first becoming beneficiaries or clients, are not regulated people.
-  (4) For the purposes of subsection (2)(c), for an income year, a person is treated as having some control over the activities, and as being able to direct or divert amounts from the activities to their own benefit or advantage if, in the tax year, they are described in section CW 42(5)(a) and (b) and (6) (Charities: business income).
-  (5) For the purposes of subsection (2)(c), a person described in section CW 42(7)(a) and (b) is not treated as having some control merely because of the factors in section CW 42(7)(a) and (b).
-  (6) For the purposes of subsection (2)(c), a benefit or advantage to a person includes a benefit or advantage included under section CW 42(8).
-(2) Before section CW 42B(2)(a), insert: .
-  (aa) the trust and its trustee or the company, as the case may be, are a registered community housing provider under the Housing Restructuring and Tenancy Matters Act 1992; and
+  (4) For the purposes of subsection (2)﻿(c), for an income year, a person is treated as having some control over the activities, and as being able to direct or divert amounts from the activities to their own benefit or advantage if, in the tax year, they are described in section CW 42(5)﻿(a) and (b) and (6) (Charities: business income).
+  (5) For the purposes of subsection (2)﻿(c), a person described in section CW 42(7)﻿(a) and (b) is not treated as having some control merely because of the factors in section CW 42(7)﻿(a) and (b).
+  (6) For the purposes of subsection (2)﻿(c), a benefit or advantage to a person includes a benefit or advantage included under section CW 42(8).
+(2) Before section CW 42B(2)﻿(a), insert:
+  (aa) the entity is a registered community housing provider under the Housing Restructuring and Tenancy Matters Act 1992; and
 
 ### 33 Section CW 46 amended (Bodies promoting amateur games and sports)
 (1) In section CW 46, in the words before the paragraphs, replace or association with association, or trustee or trustees of a trust (the promoter).
 (2) In section CW 46(a), replace club, society, or association with promoter.
-(3) In section CW 46(c),––
+(3) In section CW 46(c),—
   (a) replace club, society, or association with promoter; and
   (b) replace shareholder with shareholder, beneficiary.
 (4) In section CW 46, in the list of defined terms, insert beneficiary and trustee.
 (5) Subsections (1) to (4) apply for the 2010–11 and later income years.
 
 ### 34 Section CW 57 amended (Non-resident company involved in exploration and development activities)
-(1) Replace section CW 57(1)(a) and (b) with:
+(1) Replace section CW 57(1)﻿(a) and (b) with:
   (a) starts on 1 January 2015; and
   (b) ends on 31 December 2019.
-(2) In section CW 57(2), replace the definition of exploration and development activities with:.
-  - **exploration and development activities** ––
+(2) In section CW 57(2), replace the definition of exploration and development activities with:
+  - **exploration and development activities** —
     (a) means the following activities undertaken for the purposes of identifying and developing exploitable petroleum deposits or occurrences in an offshore permit area:
       (i) operating a ship to provide seismic or electromagnetic survey readings:
       (ii) drilling an exploratory well or other well; but
     (b) does not include using a drilling rig of modular construction that is installed on an existing offshore platform
 
 ### 35 Section CX 19 amended (Benefits provided instead of allowances)
-In section CX 19(1)(c), replace section CW 17B (Relocation payments) with sections CW 16B to CW 16F, CW 17B, CW 17CB, and CW 17CC (which relate to certain expenditure of an employer on an employee's accommodation, work-related meals, relocation, and clothing).
+In section CX 19(1)﻿(c), replace section CW 17B (Relocation payments) with sections CW 16B to CW 16F, CW 17B, CW 17CB, and CW 17CC (which relate to certain expenditure of an employer on an employee's accommodation, work-related meals, relocation, and clothing).
 
 ### 36 Section CZ 23 amended (Employee benefits for Canterbury earthquake relief: exempt income)
 (1) In section CZ 23(2), delete as defined in section CE 1(2) (Amounts derived in connection with employment).
 (2) In section CZ 23, in the list of defined terms, insert accommodation.
 
 ### 37 New section CZ 29 inserted (Accommodation expenditure: Canterbury earthquake relief)
-(1) Before Part D, insert:Accommodation expenditure: Canterbury earthquake reliefWhen this section appliesExempt incomeProject periods: basis of time limitsDefinitions for this section Relationship with section CZ 30Related provisionsaccommodation, amount, Canterbury earthquakes, distant workplace, employee, employer, exempt income, greater Christchurch, land, pay, period of continuous work, project of limited duration, rebuilding, recovery.
+(1) Before Part D, insert:Accommodation expenditure: Canterbury earthquake reliefWhen this section appliesExempt incomeProject periods: basis of time limitsDefinitions for this section Relationship with section CZ 30Related provisionsaccommodation, amount, Canterbury earthquakes, distant workplace, employee, employer, exempt income, greater Christchurch, land, pay, period of continuous work, project of limited duration, rebuilding, recovery
   (1) This section applies for the purposes of section CW 16B (Accommodation expenditure: out-of-town secondments and projects) when—
     (a) the employment duties of an employee require them to work on a project of limited duration for rebuilding or recovery, including the repair and reconstruction of land, infrastructure, and other property in greater Christchurch as a result of the Canterbury earthquakes; and
     (b) the distant workplace is a workplace in greater Christchurch.
   (2) The value provided or expenditure incurred by the employer of the employee for or in relation to the accommodation is exempt income of the employee.
-  (3) Despite paragraph (c)(iii) of the definition of project of limited duration and section CW 16C(2)(d) (Time periods for certain accommodation expenditure), for the purposes of this section, the 3-year limit is ignored and is replaced by the following:
+  (3) Despite paragraph (c)﻿(iii) of the definition of project of limited duration and section CW 16C(2)﻿(d) (Time periods for certain accommodation expenditure), for the purposes of this section, the 3-year limit is ignored and is replaced by the following:
     (a) 5 years, if the employee starts work at the distant workplace in the period commencing on 4 September 2010 and ending on 31 March 2015:
     (b) 4 years, if the employee starts work at the distant workplace in the period commencing on 1 April 2015 and ending on 31 March 2016:
     (c) 3 years, if the employee starts work at the distant workplace in the period commencing on 1 April 2016 and ending on 31 March 2017:
     (d) 3 years, if the employee starts work at the distant workplace in the period commencing on 1 April 2017 and ending on 31 March 2018:
     (e) 3 years, if the employee starts work at the distant workplace in the period commencing on 1 April 2018 and ending on 31 March 2019.
   (4) For the purposes of this section and section CW 16C,—
-    (a) in subsection (3)(a), the time limit is determined by whether the actual period of continuous work of the employee at the distant workplace is for a period of no more than 5 years:
-    (b) in subsection (3)(b) to (e), the time limits apply based on the employer's expectation of the employee's involvement in the project.
+    (a) in subsection (3)﻿(a), the time limit is determined by whether the actual period of continuous work of the employee at the distant workplace is for a period of no more than 5 years:
+    (b) in subsection (3)﻿(b) to (e), the time limits apply based on the employer's expectation of the employee's involvement in the project.
   (5) In this section, Canterbury earthquakes, greater Christchurch, rebuilding, and recovery have the meanings given in section 4 of the Canterbury Earthquake Recovery Act 2011.
   (6) Section CZ 30 does not apply to modify the application of this section.
   (7) For the purposes of this section, the commencement and application provisions in sections 2 and 24 of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 are treated as—
@@ -542,7 +542,7 @@ In section CX 19(1)(c), replace section CW 17B (Relocation payments) with sectio
 (2) Subsection (1) applies for a person's income year that includes 4 September 2010 and for all later income years.
 
 ### 38 New section CZ 30 inserted (Transitional provision: application of certain accommodation provisions)
-(1) After section CZ 29, insert:Transitional provision: application of certain accommodation provisionsWhen this section appliesTransitional period: accommodationTransitional period: work-related mealsBasis of time limits for and after transitional periodRelated provisionsaccommodation, distant workplace, employee, employer, out-of-town secondment, period of continuous work, project of limited duration, tax.
+(1) After section CZ 29, insert:Transitional provision: application of certain accommodation provisionsWhen this section appliesTransitional period: accommodationTransitional period: work-related mealsBasis of time limits for and after transitional periodRelated provisionsaccommodation, distant workplace, employee, employer, out-of-town secondment, period of continuous work, project of limited duration, tax
   (1) This section applies for the purposes of sections CE 1B, CW 16B to CW 16F, and CW 17CB (which relate to expenditure on accommodation and work-related meals) when an employer provides accommodation or incurs expenditure that meets the requirements of those provisions in the period that starts on 1 January 2011 or 1 April 2011, as applicable, and ends on 31 March 2015.
   (2) Despite the commencement and application provisions in the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 relating to the accommodation provisions, the employer may choose to apply those provisions to the expenditure incurred in the period, but only if they have not, before 6 December 2012, taken a tax position that the accommodation expenditure is taxable.
   (3) Despite the commencement and application provisions in the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 relating to the work-related meal provisions, the employer may choose to apply those provisions to expenditure incurred in the period on work-related meals, but only if they have not already taken a tax position that the expenditure is taxable.
@@ -555,16 +555,16 @@ In section CX 19(1)(c), replace section CW 17B (Relocation payments) with sectio
 (2) Subsection (1) applies for a person's income year that includes 1 January 2011 and for later income years.
 
 ### 39 New section CZ 31 inserted (Accommodation expenditure: New Zealand Defence Force)
-After section CZ 30, insert:Accommodation expenditure: New Zealand Defence ForceWhen this section appliesMarket valueaccommodation, amount, employment.
+After section CZ 30, insert:Accommodation expenditure: New Zealand Defence ForceWhen this section appliesMarket valueaccommodation, amount, employment
   (1) This section applies for the period that starts on 6 December 2012 and ends on 31 March 2015 for the purposes of section CE 1(1B) (Amounts derived in connection with employment) when—
     (a) accommodation is provided to a person who is a member of the Defence Force by the Navy, Army, or Air Force, as those terms are defined in the Defence Act 1990; and
     (b) the accommodation is provided in relation to the employment or service of the person.
   (2) The value is an amount equal to the rent paid by the person for the accommodation.
 
 ### 40 New section CZ 32 inserted (Treatment of certain petroleum storage facilities)
-After section CZ 31, insert:Treatment of certain petroleum storage facilitiesWhen this section appliesIncomeDefinition of items in formulaTransitional provision for certain facilitiesamount, deduction, income year, petroleum miner, petroleum mining asset, petroleum mining permit.
+After section CZ 31, insert:Treatment of certain petroleum storage facilitiesWhen this section appliesIncomeDefinition of items in formulaTransitional provision for certain facilitiesamount, deduction, income year, petroleum miner, petroleum mining asset, petroleum mining permit
   (1) This section applies for an income year when a petroleum miner disposes of an underground gas storage facility in relation to which they have been allowed a deduction under section DT 5 (Petroleum development expenditure) for expenditure incurred before the date of enactment of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014.
-  (2) Despite section CT 1(2) (Disposal of exploratory material or petroleum mining asset), the miner has an amount of income from the disposal of the storage facility for the income year calculated using the formula—past expenditure×amount on disposal.total expenditure
+  (2) Despite section CT 1(2) (Disposal of exploratory material or petroleum mining asset), the miner has an amount of income from the disposal of the storage facility for the income year calculated using the formula—(past expenditure ÷ total expenditure) × amount on disposal.
   (3) In the formula,—
     (a) past expenditure is the total amount of expenditure that the miner incurs in relation to the storage facility for which they have been allowed a deduction under section DT 5:
     (b) total expenditure is the sum of—
@@ -574,14 +574,14 @@ After section CZ 31, insert:Treatment of certain petroleum storage facilitiesWhe
   (4) Despite section CT 7(2) (Meaning of petroleum mining asset), an underground gas storage facility covered by petroleum mining permit number 52278 is a petroleum mining asset to the extent to which the expenditure incurred by the permit holder relates to activities specified in the work programme set out in schedule 3 of the permit. Permit number 52278 includes a replacement or supplementary permit to the extent to which it covers activities specified in the work programme in schedule 3 of permit 52278.
 
 ### 41 Section DB 1 amended (Taxes, other than GST, and penalties)
-After section DB 1(1)(b), insert:.
+After section DB 1(1)﻿(b), insert:
   (bb) an amount withheld under section 1471 or 1472 of the Internal Revenue Code of 1986 (USA), as amended from time to time:
 
 ### 42 Section DB 10 amended (Interest or expenditure connected to profit-related or substituting debentures)
 (1) In the heading to section DB 10, delete or substituting.
 (2) In section DB 10(2), replace either a profit-related debenture or a substituting debenture with a profit-related debenture.
 (3) In section DB 10, in the list of defined terms, delete substituting debenture.
-(4) Subsections (1), (2), and (3) do not apply, for an income year, to a debenture that a person is party to, if––
+(4) Subsections (1), (2), and (3) do not apply, for an income year, to a debenture that a person is party to, if—
   (a) the debenture is issued under an arrangement entered into before 22 November 2013; and
   (b) a binding ruling on the application of section FA 2(5) was issued to the person in relation to the arrangement; and
   (c) the binding ruling would continue to apply but for the repeal of the substituting debenture rule by the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (the Act); and
@@ -605,16 +605,16 @@ After section DB 1(1)(b), insert:.
 (4) Subsections (2) and (3) apply for the 2014–15 and later income years.
 
 ### 44 Section DB 20B amended (Consideration for agreement to grant, renew, extend, or transfer leasehold estate or licence)
-(1) In section DB 20B(1)(a), replace a leasehold estate, or a licence with a leasehold estate not including a perpetual right of renewal, or is a licence.
+(1) In section DB 20B(1)﻿(a), replace a leasehold estate, or a licence with a leasehold estate not including a perpetual right of renewal, or is a licence.
 (2) Subsection (1) applies to an amount incurred on or after 1 April 2015.
 
 ### 45 Section DB 20C amended (Consideration for agreement to surrender leasehold estate or terminate licence)
-(1) In section DB 20C(1)(a), replace a leasehold estate or licence with a leasehold estate not including a perpetual right of renewal or is a licence.
+(1) In section DB 20C(1)﻿(a), replace a leasehold estate or licence with a leasehold estate not including a perpetual right of renewal or is a licence.
 (2) Subsection (1) applies to an amount incurred on or after 1 April 2013.
 
 ### 46 Section DB 25 amended (Cancellation of shares held as revenue account property)
 (1) In section DB 25, in the list of defined terms, delete profit-related debenture and substituting debenture.
-(2) Subsection (1) does not apply, for an income year, to a debenture that a person is party to, if––
+(2) Subsection (1) does not apply, for an income year, to a debenture that a person is party to, if—
   (a) the debenture is issued under an arrangement entered into before 22 November 2013; and
   (b) a binding ruling on the application of section FA 2(5) was issued to the person in relation to the arrangement; and
   (c) the binding ruling would continue to apply but for the repeal of the substituting debenture rule by the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (the Act); and
@@ -633,7 +633,7 @@ After section DB 1(1)(b), insert:.
 (4) Subsections (2) and (3) apply for the 2014–15 and later income years.
 
 ### 48 New section DB 40BA inserted (Expenses in application for plant variety rights)
-(1) After section DB 40, insert:Expenses in application for plant variety rightsDeductionTiming of deductionLink with subpart DAcapital limitation, deduction, fixed life intangible property, general limitation, general permission, income year, plant variety rights.
+(1) After section DB 40, insert:Expenses in application for plant variety rightsDeductionTiming of deductionLink with subpart DAcapital limitation, deduction, fixed life intangible property, general limitation, general permission, income year, plant variety rights
   (1) A person who incurs expenditure for the purpose of applying for the grant of plant variety rights and does not obtain the grant because the application is not lodged or is withdrawn, or because the grant is refused, is allowed a deduction for the expenditure—
     (a) that the person incurs in relation to the application or intended application; and
     (b) that would have been part of the cost of fixed life intangible property, or otherwise a deduction, if the application or intended application had been granted; and
@@ -653,7 +653,7 @@ After section DB 1(1)(b), insert:.
   (b) in a tax return filed before 22 November 2013.
 
 ### 50 New heading and sections DB 63 to DB 63C inserted
-(1) After section DB 62, insert:Miscellaneous company administration costsExpenses in paying dividendsDeductionLink with subpart DAcapital limitation, company, deduction, dividend, general limitation, general permissionPeriodic company registration feesDeductionLink with subpart DAcapital limitation, company, deduction, general limitation, general permission, listed company, recognised exchangeMeetings of shareholdersDeductionNo deductionLink with subpart DAcapital limitation, company, deduction, general limitation, general permission, shareholder.
+(1) After section DB 62, insert:Miscellaneous company administration costsExpenses in paying dividendsDeductionLink with subpart DAcapital limitation, company, deduction, dividend, general limitation, general permissionPeriodic company registration feesDeductionLink with subpart DAcapital limitation, company, deduction, general limitation, general permission, listed company, recognised exchangeMeetings of shareholdersDeductionNo deductionLink with subpart DAcapital limitation, company, deduction, general limitation, general permission, shareholder
   (1) A company is allowed a deduction for expenditure incurred in—
     (a) authorising, allocating, or processing the payment of a dividend:
     (b) resolving a dispute concerning a matter referred to in paragraph (a).
@@ -666,7 +666,7 @@ After section DB 1(1)(b), insert:.
 (2) Subsection (1) applies for the 2014–15 and later income years.
 
 ### 51 Section DD 4 amended (Employment-related activities)
-In section DD 4(3)(a), replace CW 17B and CW 17C (which relate to relocation expenses, expenditure on overtime meals, and sustenance allowances) with CW 17B, CW 17C, and CW 17CB (which relate to relocation expenses and expenditure on meals).
+In section DD 4(3)﻿(a), replace CW 17B and CW 17C (which relate to relocation expenses, expenditure on overtime meals, and sustenance allowances) with CW 17B, CW 17C, and CW 17CB (which relate to relocation expenses and expenditure on meals).
 
 ### 52 Section DD 10 amended (Interpretation: reimbursement and apportionment)
 In section DD 10(a), replace CW 17B and CW 17C with CW 17B, CW 17C, and CW 17CB.
@@ -678,19 +678,19 @@ In section DD 10(a), replace CW 17B and CW 17C with CW 17B, CW 17C, and CW 17CB.
 (4) Subsection (2) applies for the 2013–14 and later income years.
 
 ### 54 Section DG 9 amended (Apportionment formula)
-(1) Replace section DG 9(3)(a) with:.
+(1) Replace section DG 9(3)﻿(a) with:
   ((a)) expenditure is the total expenditure or loss that is incurred by the person for an income year in relation to the asset, other than expenditure that is related solely to—
     (i) the income-earning use of the asset as described in section DG 7:
     (ii) the private use of the asset:
     (iii) the capital use of the asset:
-(2) In section DG 9(3)(b), delete under section CW 8B(3) (Certain amounts derived from use of assets).
-(3) Subsections (1) and (2) apply for the 2013–14 and later income years for an item of property referred to in section DG 3(2)(a)(i), and for the 2014–15 and later income years for an item of property referred to in section DG 3(2)(a)(ii) and (iii).
+(2) In section DG 9(3)﻿(b), delete under section CW 8B(3) (Certain amounts derived from use of assets).
+(3) Subsections (1) and (2) apply for the 2013–14 and later income years for an item of property referred to in section DG 3(2)﻿(a)﻿(i), and for the 2014–15 and later income years for an item of property referred to in section DG 3(2)﻿(a)﻿(ii) and (iii).
 
 ### 55 Section DG 11 amended (Interest expenditure: close companies)
-(1) Replace section DG 11(8)(a) with:.
+(1) Replace section DG 11(8)﻿(a) with:
   (a) for land, including an improvement to land, the amount given under subsection (8B):
 (2) After section DG 11(8), insert:Asset value for land, including improvements to land
-  (8B) For the purposes of subsection (8)(a), the asset value is the following amount, as applicable:
+  (8B) For the purposes of subsection (8)﻿(a), the asset value is the following amount, as applicable:
     (a) the amount given by the later of either—
       (i) its most recent capital value or annual value as set by the relevant local authority; or
       (ii) its cost on acquisition or, if the transaction involves an associated person, its market value:
@@ -698,13 +698,13 @@ In section DD 10(a), replace CW 17B and CW 17C with CW 17B, CW 17C, and CW 17CB.
     (c) if different activities are carried out on the land on a single certificate of title within the meaning of the Land Transfer Act 1952, the value applying under paragraph (a) or (b), as applicable, adjusted as follows:
       (i) by multiplying the value by the percentage that the area of land that is the portion of the land used in relation to the asset to which this subpart applies bears to the total land area described in the certificate of title:
       (ii) by a valuation that is or has been made by a registered valuer no more than 3 years before the end of the income year, of the portion of land used in relation to the asset to which this subpart applies.
-(3) Subsections (1) and (2) apply for the 2013–14 and later income years for an item of property referred to in section DG 3(2)(a)(i), and for the 2014–15 and later income years for an item of property referred to in section DG 3(2)(a)(ii) and (iii).
+(3) Subsections (1) and (2) apply for the 2013–14 and later income years for an item of property referred to in section DG 3(2)﻿(a)﻿(i), and for the 2014–15 and later income years for an item of property referred to in section DG 3(2)﻿(a)﻿(ii) and (iii).
 
 ### 56 Section DG 16 amended (Quarantined expenditure when asset activity negative)
-(1) Replace section DG 16(1)(b)(i) with:.
+(1) Replace section DG 16(1)﻿(b)﻿(i) with:
   (i) for land, including an improvement to land, the amount given under subsection (1B):
 (2) After section DG 16(1), insert:Amount for land, including improvements to land
-  (1B) For the purposes of subsection (1)(b)(i), the amount is the following amount, as applicable:
+  (1B) For the purposes of subsection (1)﻿(b)﻿(i), the amount is the following amount, as applicable:
     (a) the amount given by the later of either—
       (i) its most recent capital value or annual value as set by the relevant local authority; or
       (ii) its cost on acquisition or, if the transaction involves an associated person, its market value:
@@ -712,11 +712,11 @@ In section DD 10(a), replace CW 17B and CW 17C with CW 17B, CW 17C, and CW 17CB.
     (c) if different activities are carried out on the land on a single certificate of title within the meaning of the Land Transfer Act 1952, the value applying under paragraph (a) or (b), as applicable, adjusted as follows:
       (i) by multiplying the value by the percentage that the area of land that is the portion of the land used in relation to the asset to which this subpart applies bears to the total land area described in the certificate of title:
       (ii) by a valuation that is or has been made by a registered valuer no more than 3 years before the end of the income year, of the portion of land used in relation to the asset to which this subpart applies.
-(3) Subsections (1) and (2) apply for the 2013–14 and later income years for an item of property referred to in section DG 3(2)(a)(i), and for the 2014–15 and later income years for an item of property referred to in section DG 3(2)(a)(ii) and (iii).
+(3) Subsections (1) and (2) apply for the 2013–14 and later income years for an item of property referred to in section DG 3(2)﻿(a)﻿(i), and for the 2014–15 and later income years for an item of property referred to in section DG 3(2)﻿(a)﻿(ii) and (iii).
 
 ### 57 Section DG 17 amended (Allocation of amounts quarantined under section DG 16)
-(1) In section DG 17(3)(a), replace total amount of income derived with total amount of income, other than an amount of exempt income, derived.
-(2) Subsection (1) applies for the 2013–14 and later income years for an item of property referred to in section DG 3(2)(a)(i), and for the 2014–15 and later income years for an item of property referred to in section DG 3(2)(a)(ii) and (iii).
+(1) In section DG 17(3)﻿(a), replace total amount of income derived with total amount of income, other than an amount of exempt income, derived.
+(2) Subsection (1) applies for the 2013–14 and later income years for an item of property referred to in section DG 3(2)﻿(a)﻿(i), and for the 2014–15 and later income years for an item of property referred to in section DG 3(2)﻿(a)﻿(ii) and (iii).
 
 ### 58 Section DZ 21 amended (Expenditure on certain assets before 31 March 2013)
 (1) Replace the heading to section DZ 21 with Transfer in 2013–14 income year of assets to which subpart DG applies.
@@ -728,7 +728,7 @@ In section DD 10(a), replace CW 17B and CW 17C with CW 17B, CW 17C, and CW 17CB.
       (ii) used the asset for the purposes for which the company used it; and
       (iii) used the depreciation method used by the company in relation to the asset; and
       (iv) been allowed a deduction for an amount of depreciation loss that the company has been allowed since the company's acquisition of the asset.
-  ((3)) For the purposes of subsection (2), if more than 1 shareholder referred to in subsection (1)(b) acquires the asset, their share of the cost of the asset and the amount of depreciation loss is based on the proportion of their voting interests in the company.
+  ((3)) For the purposes of subsection (2), if more than 1 shareholder referred to in subsection (1)﻿(b) acquires the asset, their share of the cost of the asset and the amount of depreciation loss is based on the proportion of their voting interests in the company.
 (3) In section DZ 21, in the list of defined terms, insert deduction, depreciation loss, pay, and voting interest.
 (4) Subsections (1) and (2) apply for the 2013–14 and later income years. However, subsections (1) and (2) do not apply in relation to an asset when a shareholder who acquires the asset disposes of it before the date of introduction of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Bill.
 
@@ -743,7 +743,7 @@ The examples provided in subparts DG and DZ are amended as indicated in the sche
 (1) Replace section DP 8(3) with:Relationship with section FA 2B
   (3) Section FA 2B (Stapled debt securities) does not apply to a qualifying debenture.
 (2) In section DP 8, in the list of defined terms, delete substituting debenture.
-(3) Subsections (1) and (2) do not apply, for an income year, to a debenture that a person is party to, if––
+(3) Subsections (1) and (2) do not apply, for an income year, to a debenture that a person is party to, if—
   (a) the debenture is issued under an arrangement entered into before 22 November 2013; and
   (b) a binding ruling on the application of section FA 2(5) was issued to the person in relation to the arrangement; and
   (c) the binding ruling would continue to apply but for the repeal of the substituting debenture rule by the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (the Act); and
@@ -757,38 +757,38 @@ The examples provided in subparts DG and DZ are amended as indicated in the sche
 (3) Subsection (1) applies for the 2014–15 and later income years.
 
 ### 63 Section DU 11 amended (Meaning of mining development expenditure: exclusion of operational expenditure)
-(1) In section DU 11(4)(c), replace create an asset with create, or contribute to the creation of, an asset.
+(1) In section DU 11(4)﻿(c), replace create an asset with create, or contribute to the creation of, an asset.
 (2) Subsection (1) applies for the 2014–15 and later income years.
 
 ### 64 Section EA 3 amended (Prepayments)
 In section EA 3(7), replace CW 17, CW 17B, CW 17C, and CW 18 with CW 16B to CW 16F, CW 17, CW 17B, CW 17C, CW 17CB, CW 17CC, and CW 18.
 
 ### 65 Section EE 7 amended (What is not depreciable property?)
-(1) After section EE 7(a), insert:.
+(1) After section EE 7(a), insert:
   (ab) a lease of land with a perpetual right of renewal:
 (2) In section EE 7(c), replace subpart EB (Valuation of trading stock (including dealer's livestock) with subpart EC (Valuation of livestock).
 (3) Subsection (2) applies for the 2008–09 and later income years.
 
 ### 66 Section EE 25 amended (Depreciation loss for plant variety rights application granted in 2005–06 or later income year)
-(1) Replace section EE 25(3)(a) with:.
+(1) Replace section EE 25(3)﻿(a) with:
   (a) cost is the cost to the person of the plant variety rights application, including an amount incurred for the purpose of lodging an earlier application and giving rise under section CG 7B (Disposals or applications after earlier deductions) to a corresponding amount of income relating to the plant variety rights application:
 (2) Subsection (1) applies for the 2014–15 and later income years.
 
 ### 67 Section EE 57 amended (Base value in section EE 56 when none of sections EE 58, EE 59, and EZ 22(1) applies)
-(1) After section EE 57(3)(c), insert:.
+(1) After section EE 57(3)﻿(c), insert:
   (cb) expenditure is included in it if the item is a patent application, a patent, plant variety rights, or a resource consent under the Resource Management Act 1991 and the expenditure has given rise under section CG 7B (Disposals or applications after earlier deductions) to a corresponding amount of income relating to the item; and
 (2) Subsection (1) applies for the 2014–15 and later income years.
 
 ### 68 Section EE 67 amended (Other definitions)
 (1) In section EE 67, definition of legal life, paragraph (a), replace paragraphs (b) and (c) with paragraphs (b) to (d).
-(2) In section EE 67, definition of legal life, paragraph (c)(ii), replace granted with granted:.
-(3) In section EE 67, after the definition of legal life, paragraph (c), insert:.
+(2) In section EE 67, definition of legal life, paragraph (c)﻿(ii), replace granted with granted:.
+(3) In section EE 67, after the definition of legal life, paragraph (c), insert:
   (d) for a person and a right (a land right) that is a leasehold estate, or a licence to use land, means the number of years, months, and days for which the person or an associated person has an owner's interest in the land right, or in a consecutive or successive land right, under the contract or statute that creates the owner's interest, determined—
     (i) when the person acquires the owner's interest; and
     (ii) assuming that the person or associated person exercises rights of renewal, extension, or further grant that are either essentially unconditional or conditional on the payment of predetermined fees
 
 ### 69 Section EG 1 amended (Election to use balance date used in foreign country)
-(1) In section EG 1(6), replace A person who has made an election is treated as making the same election for all later income years with An election made by a person under subsection (2) applies for the income year referred to in subsection (1)(c) and all later income years.
+(1) In section EG 1(6), replace A person who has made an election is treated as making the same election for all later income years with An election made by a person under subsection (2) applies for the income year referred to in subsection (1)﻿(c) and all later income years.
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 70 Section EI 4B amended (Consideration for agreement to grant, renew, extend, or transfer leasehold estate or licence)
@@ -806,7 +806,7 @@ In section EA 3(7), replace CW 17, CW 17B, CW 17C, and CW 18 with CW 16B to CW 1
     (a) divide the income into 6 equal portions; and
     (b) allocate a portion to the income year in which they derive the amount; and
     (c) similarly allocate a portion to each of the next 5 income years.
-(2) In section EI 7(3)(a), replace give a notice to the Commissioner requesting the Commissioner to make the allocation with notify the Commissioner of their election.
+(2) In section EI 7(3)﻿(a), replace give a notice to the Commissioner requesting the Commissioner to make the allocation with notify the Commissioner of their election.
 (3) After section EI 7(4), insert:Transitional provision: 2015–16 and later income years
   (5) Despite subsection (2), when a person has derived an amount of income to which this section applies before the 2015–16 income year, and all or part of that amount remains unallocated at the start of that income year, the person must—
     (a) if the period of 5 income years after the income year of derivation has expired by the start of the 2015–16 income year, allocate the remaining amount to the 2015–16 income year; or
@@ -839,7 +839,7 @@ In section EA 3(7), replace CW 17, CW 17B, CW 17C, and CW 18 with CW 16B to CW 1
 (3) Subsections (1) and (2) apply for the 2014–15 and later income years.
 
 ### 74 Section EJ 20E amended (Certain mining expenditure spread on the basis of units of production)
-(1) In section EJ 20E(4)(a), replace the total mining development expenditure with the total amount of the mineral miner's expenditure described in section DU 6(1)(a).
+(1) In section EJ 20E(4)﻿(a), replace the total mining development expenditure with the total amount of the mineral miner's expenditure described in section DU 6(1)﻿(a).
 (2) In section EJ 20E, in the list of defined terms, delete mining development expenditure.
 (3) Subsection (1) applies for the 2014–15 and later income years.
 
@@ -862,56 +862,56 @@ In section EA 3(7), replace CW 17, CW 17B, CW 17C, and CW 18 with CW 16B to CW 1
     (i) in a return of income received by the Commissioner before 14 April 2014:
     (ii) under a determination or binding ruling made by the Commissioner before 14 April 2014; and
   (b) chooses after 14 April 2014 to continue taking the tax position.
-(6) Subsection (3) applies for a person and an excepted financial arrangement on and after 17 July 2013, except if the person takes a tax position for the excepted financial arrangement referred to in subsection (5)(a) and chooses under subsection (5)(b) to continue taking the tax position.
+(6) Subsection (3) applies for a person and an excepted financial arrangement on and after 17 July 2013, except if the person takes a tax position for the excepted financial arrangement referred to in subsection (5)﻿(a) and chooses under subsection (5)﻿(b) to continue taking the tax position.
 
 ### 76 Section EW 15D amended (IFRS financial reporting method)
-(1) Before section EW 15D(2)(b), insert:.
+(1) Before section EW 15D(2)﻿(b), insert:
   (ae) if the financial arrangement is a foreign ASAP, or is an IFRS designated FX hedge for a foreign ASAP, sections EW 32 and EW 33B apply to value, for IFRS rules, the relevant property or service. Section EW 33B also provides rules for subsequently adjusting the treatment of the relevant hedge:
-(2) Replace section EW 15D(2B)(b) with:
+(2) Replace section EW 15D(2B)﻿(b) with:
   (b) the person uses for the other financial arrangement a method that is not the IFRS financial reporting method.
 (3) In section EW 15D, in the list of defined terms, insert foreign ASAP and FX hedge.
-(4) Subsections (1), (2), and (3) apply for a financial arrangement entered into by a person––
+(4) Subsections (1), (2), and (3) apply for a financial arrangement entered into by a person—
   (a) in the 2014–15 income year and later income years, unless paragraph (b) applies:
-  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and––
+  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and—
     (i) the first income year is the 2011–12, 2012–13, 2013–14, or 2014–15 income year; and
     (ii) the person uses IFRSs to prepare financial statements or to report for financial arrangements for the first income year.
 
 ### 77 Section EW 15F amended (Expected value method)
-(1) After section EW 15F(1)(b), insert:.
+(1) After section EW 15F(1)﻿(b), insert:
   (bb) the financial arrangement is not a foreign ASAP; and
 (2) In section EW 15F, in the list of defined terms, insert foreign ASAP.
-(3) Subsections (1) and (2) apply for a financial arrangement entered into by a person––
+(3) Subsections (1) and (2) apply for a financial arrangement entered into by a person—
   (a) in the 2014–15 income year and later income years, unless paragraph (b) applies:
-  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and––
+  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and—
     (i) the first income year is the 2011–12, 2012–13, 2013–14, or 2014–15 income year; and
     (ii) the person uses IFRSs to prepare financial statements or to report for financial arrangements for the first income year.
 
 ### 78 Section EW 15G amended (Modified fair value method)
-(1) After section EW 15G(1)(b), insert:.
+(1) After section EW 15G(1)﻿(b), insert:
   (bb) the financial arrangement is not a foreign ASAP; and
 (2) In section EW 15G, in the list of defined terms, insert foreign ASAP.
-(3) Subsections (1) and (2) apply for a financial arrangement entered into by a person––
+(3) Subsections (1) and (2) apply for a financial arrangement entered into by a person—
   (a) in the 2014–15 income year and later income years, unless paragraph (b) applies:
-  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and––
+  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and—
     (i) the first income year is the 2011–12, 2012–13, 2013–14, or 2014–15 income year; and
     (ii) the person uses IFRSs to prepare financial statements or to report for financial arrangements for the first income year.
 
 ### 79 Section EW 15H amended (Mandatory use of some determinations)
-(1) Repeal section EW 15H(1)(d).
-(2) Subsection (1) applies for a financial arrangement entered into by a person––
+(1) Repeal section EW 15H(1)﻿(d).
+(2) Subsection (1) applies for a financial arrangement entered into by a person—
   (a) in the 2014–15 income year and later income years, unless paragraph (b) applies:
-  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and––
+  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and—
     (i) the first income year is the 2011–12, 2012–13, 2013–14, or 2014–15 income year; and
     (ii) the person uses IFRSs to prepare financial statements or to report for financial arrangements for the first income year.
 
 ### 80 Section EW 15I amended (Mandatory use of yield to maturity method for some arrangements)
-(1) Replace section EW 15I(1)(b)(iii) with:
+(1) Replace section EW 15I(1)﻿(b)﻿(iii) with:
   (iii) is a foreign ASAP that is life financial reinsurance; or
   (iv) is an agreement for the sale and purchase of property or services that is not a foreign ASAP.
 (2) In section EW 15I, in the list of defined terms, insert foreign ASAP and life financial reinsurance.
-(3) Subsections (1) and (2) apply for a financial arrangement entered into by a person––
+(3) Subsections (1) and (2) apply for a financial arrangement entered into by a person—
   (a) in the 2014–15 income year and later income years, unless paragraph (b) applies:
-  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and––
+  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and—
     (i) the first income year is the 2011–12, 2012–13, 2013–14, or 2014–15 income year; and
     (ii) the person uses IFRSs to prepare financial statements or to report for financial arrangements for the first income year.
 
@@ -926,24 +926,24 @@ In section EA 3(7), replace CW 17, CW 17B, CW 17C, and CW 18 with CW 16B to CW 1
 (4) After section EW 32(7), insert:Relationship with subject matter
   (8) Sections EZ 75 and EZ 76 (which relate to some ASAPs before the 2014–15 income year) override this section.
 (5) In section EW 32, in the list of defined terms, insert 12 month ASAP, foreign ASAP, FX hedge, IFRS, and rights date.
-(6) Subsections (1), (2), (3), and (5) apply for a financial arrangement entered into by a person––
+(6) Subsections (1), (2), (3), and (5) apply for a financial arrangement entered into by a person—
   (a) in the 2014–15 income year and later income years, unless paragraph (b) applies:
-  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and––
+  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and—
     (i) the first income year is the 2011–12, 2012–13, 2013–14, or 2014–15 income year; and
     (ii) the person uses IFRSs to prepare financial statements or to report for financial arrangements for the first income year.
 
 ### 82 New sections EW 33B and EW 33C inserted
-(1) After section EW 33, insert:Foreign ASAPs: designated FX hedgesWhen this section appliesWhen this section appliesValue: IFRSValue: non-IFRSFX hedge amounts attributed to value: No double-counting, no separate spreading or base price adjustmentRelationship with subject matterdepreciable property, financial arrangement, foreign ASAP, IFRS, IFRS designated FX hedge, non-IFRS designated FX hedge, revenue account property, spreading methodConsideration in foreign currency: some agreements for sale and purchaseWhen this section appliesSpot ratesamount, consideration, financial arrangement, income year, New Zealand, person, return of income.
-  (1) This section applies when, for a person's financial arrangement, section EW 32(2B) applies, and––
+(1) After section EW 33, insert:Foreign ASAPs: designated FX hedgesWhen this section appliesWhen this section appliesValue: IFRSValue: non-IFRSFX hedge amounts attributed to value: No double-counting, no separate spreading or base price adjustmentRelationship with subject matterdepreciable property, financial arrangement, foreign ASAP, IFRS, IFRS designated FX hedge, non-IFRS designated FX hedge, revenue account property, spreading methodConsideration in foreign currency: some agreements for sale and purchaseWhen this section appliesSpot ratesamount, consideration, financial arrangement, income year, New Zealand, person, return of income
+  (1) This section applies when, for a person's financial arrangement, section EW 32(2B) applies, and—
     (a) the financial arrangement is a foreign ASAP that relates to:
       (i) property that is or will be depreciable property or revenue account property; or
       (ii) services, the sale or purchase of which, as relevant for the person, gives rise to assessable income or deductions under this Act outside of the financial arrangements rules; and
     (b) the person holds an IFRS designated FX hedge in relation to the financial arrangement.
-  (2) This section applies when, for a person's financial arrangement, section EW 32(2C), (2D), or (2E) applies, and––
+  (2) This section applies when, for a person's financial arrangement, section EW 32(2C), (2D), or (2E) applies, and—
     (a) the financial arrangement is a foreign ASAP that relates to:
       (i) property that is or will be depreciable property or revenue account property; or
       (ii) services, the sale or purchase of which, as relevant for the person, gives rise to assessable income or deductions under this Act outside of the financial arrangements rules; and
-    (b) the person has made, at the time of filing a return of income for the income year in which they enter into the financial arrangement or at the time of filing a return of income for an earlier income year, an irrevocable election in writing to apply this section to all financial arrangements for property and services described in paragraph (a)(i) and (ii); and
+    (b) the person has made, at the time of filing a return of income for the income year in which they enter into the financial arrangement or at the time of filing a return of income for an earlier income year, an irrevocable election in writing to apply this section to all financial arrangements for property and services described in paragraph (a)﻿(i) and (ii); and
     (c) the person holds a non-IFRS designated FX hedge in relation to the financial arrangement.
   (3) For a financial arrangement described in subsection (1) the value under section EW 32 of the relevant property or services is modified by the amount attributed under IFRS rules to that value on account of the relevant IFRS designated FX hedge.
   (4) For a financial arrangement described in subsection (2) the value under section EW 32 of the relevant property or services is modified by the amount that would be the base price adjustment for the relevant non-IFRS designated FX hedge in the absence of this section.
@@ -954,9 +954,9 @@ In section EA 3(7), replace CW 17, CW 17B, CW 17C, and CW 18 with CW 16B to CW 1
   (3) If no spot rate is available for an amount under the financial arrangement, because the amount is deferred into an income year after a person's current income year and that deferral is for a day after the person is required to file a return of income for the current income year, then the person may use for the amount—
     (a) the spot rate at the end of the current income year; or
     (b) the spot rate on the date an amount of consideration is paid or payable, if it is paid or payable within 93 days of the end of the current income year.
-(2) Subsection (1) applies for a financial arrangement entered into by a person––
+(2) Subsection (1) applies for a financial arrangement entered into by a person—
   (a) in the 2014–15 income year and later income years, unless paragraph (b) applies:
-  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and––
+  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and—
     (i) the first income year is the 2011–12, 2012–13, 2013–14, or 2014–15 income year; and
     (ii) the person uses IFRSs to prepare financial statements or to report for financial arrangements for the first income year.
 
@@ -965,22 +965,22 @@ In section EA 3(7), replace CW 17, CW 17B, CW 17C, and CW 18 with CW 16B to CW 1
 (2) In section EW 35(2), replace property with property or services.
 
 ### 84 Section EX 5 amended (Direct control interests)
-(1) Replace section EX 5(1)(c) with:.
+(1) Replace section EX 5(1)﻿(c) with:
   (c) a right to—
     (i) receive any income of the company for the accounting period in which the time falls; or
     (ii) have the income of the company for the accounting period in which the time falls dealt with in their interest or on their behalf:
-(2) Replace section EX 5(1)(d) with:
+(2) Replace section EX 5(1)﻿(d) with:
   (d) a right to—
     (i) receive any of the value of the net assets of the company, if they are distributed; or
     (ii) have the net value of the assets, if they are distributed, dealt with in their interest or on their behalf.
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 85 Section EX 9 amended (Direct income interests)
-(1) Replace section EX 9(1)(c) with:.
+(1) Replace section EX 9(1)﻿(c) with:
   (c) a right to—
     (i) receive any income of the company for the accounting period in which the time falls; or
     (ii) have the income of the company for the accounting period in which the time falls dealt with in their interest or on their behalf:
-(2) Replace section EX 9(1)(d) with:
+(2) Replace section EX 9(1)﻿(d) with:
   (d) a right to—
     (i) receive any of the value of the net assets of the company, if they are distributed; or
     (ii) have the net value of the assets, if they are distributed, dealt with in their interest or on their behalf.
@@ -989,13 +989,13 @@ In section EA 3(7), replace CW 17, CW 17B, CW 17C, and CW 18 with CW 16B to CW 1
 ### 86 Section EX 20B amended (Attributable CFC amount)
 (1) In section EX 20B(1), replace the formula with:gross + arrangement – apportioned funding income.
 (2) In section EX 20B(2), replace subsections (3) and (4) with subsections (3) to (4B).
-(3) Replace section EX 20B(3)(c) with:.
+(3) Replace section EX 20B(3)﻿(c) with:
   (c) an amount that is a deductible foreign equity distribution or a distribution for fixed-rate equity and is not a distribution from an associated non-attributing active CFC:
 (4) After section EX 20B(4), insert:Apportioned funding incomeDefinition of items in formulaFunding incomeFunding fractionAsset fraction
   (4B) Apportioned funding income is,—
     (a) if the CFC is an entity carrying on a business of banking or insurance or is directly or indirectly controlled by such an entity, zero:
     (b) if paragraph (a) does not apply, the amount calculated using the formula—funding income × funding fraction × (1 – asset fraction).
-  (4C) The items in the formula in subsection (4B)(b) are defined in subsections (4D) to (4F).
+  (4C) The items in the formula in subsection (4B)﻿(b) are defined in subsections (4D) to (4F).
   (4D) Funding income is the total of the amounts in the accounting period that are included in the items gross and arrangement and relate to a financial arrangement—
     (a) that provides funds for the CFC; and
     (b) for which there is no reasonable expectation, when the CFC enters the financial arrangement or when the terms of the financial arrangement are changed, that the CFC will have from the financial arrangement amounts that would be income for the CFC exceeding in total the amounts that would be deductions for the CFC, during—
@@ -1007,18 +1007,18 @@ In section EA 3(7), replace CW 17, CW 17B, CW 17C, and CW 18 with CW 16B to CW 1
 
 ### 87 Section EX 20C amended (Net attributable CFC income or loss)
 (1) In section EX 20C(2), replace the formula with:attributable CFC – apportioned funding costs – other deductions.
-(2) Repeal section EX 20C(3)(b).
+(2) Repeal section EX 20C(3)﻿(b).
 (3) Replace section EX 20C(4), other than the heading, with:
-  (4) The items in the formula in subsection (3)(c) are defined in subsections (6), (10), and (11).
+  (4) The items in the formula in subsection (3)﻿(c) are defined in subsections (6), (10), and (11).
 (4) Repeal section EX 20C(5).
-(5) Replace section EX 20C(7)(b) with:
+(5) Replace section EX 20C(7)﻿(b) with:
   (b) group funding is the lesser of the item funding and the total of amounts, each of which is the outstanding balance for a financial arrangement, a fixed-rate foreign equity, or a share giving a right to a deductible foreign equity distribution,—
     (i) under which the CFC provides funds to another CFC associated with the CFC under section YB 2 (Two companies) or to a FIF for which the interest holder uses the attributable FIF income method and that is associated with the CFC under section YB 2; and
     (ii) that produces for the CFC an amount that is included in the item arrangement under section EX 20B(4) or is a deductible foreign equity distribution or a distribution for fixed-rate foreign equity.
 (6) Subsections (1) to (5) apply for income years beginning on or after 1 July 2009.
 
 ### 88 Section EX 20D amended (Adjustment of cost fraction for excessively debt funded CFC)
-(1) Replace section EX 20D(7)(b) with:
+(1) Replace section EX 20D(7)﻿(b) with:
   (b) if the interest holder chooses to rely on this paragraph and the item total CFC's assets is greater than the item total CFC's debts, the lesser of the item total CFC's debts and the total of amounts, each of which is the outstanding balance for a financial arrangement, a fixed-rate foreign equity, or a share giving a right to a deductible foreign equity distribution,—
     (i) under which the CFC provides funds to another CFC associated with the CFC under section YB 2 (Two companies) or to a FIF for which the interest holder uses the attributable FIF income method and that is associated with the CFC under section YB 2; and
     (ii) that produces for the CFC an amount that is included in the item arrangement under section EX 20B(4) or is a deductible foreign equity distribution or a distribution for fixed-rate foreign equity.
@@ -1028,58 +1028,58 @@ In section EA 3(7), replace CW 17, CW 17B, CW 17C, and CW 18 with CW 16B to CW 1
 In section EX 21B(4), after if the person, insert , or a member of a wholly-owned group to which the person belongs,.
 
 ### 90 Section EX 21D amended (Non-attributing active CFC: default test)
-(1) Replace section EX 21D(1)(a) with:.
+(1) Replace section EX 21D(1)﻿(a) with:
   (a) each of which is subject to the laws of the same country or territory and—
     (i) has a taxed CFC connection with the country or territory:
     (ii) would be a non-attributing active CFC if not treated as part of a test group and would have a taxed CFC connection with the country or territory in the absence of paragraph (c) of the definition of taxed CFC connection; and
-(2) Replace section EX 21D(1)(b) with:.
+(2) Replace section EX 21D(1)﻿(b) with:
   (b) in each of which an income interest of more than 50% is held by—
     (i) the interest holder:
     (ii) companies that are all members of a wholly-owned group of companies that includes the interest holder; and
-(3) After section EX 21D(9)(c), insert:.
-  (cb) income that is derived from a fixed establishment by a member of the test group and is not an attributable CFC amount, if the member is included in the test group under subsection (1)(a)(ii):
+(3) After section EX 21D(9)﻿(c), insert:
+  (cb) income that is derived from a fixed establishment by a member of the test group and is not an attributable CFC amount, if the member is included in the test group under subsection (1)﻿(a)﻿(ii):
 (4) In section EX 21D, list of defined terms, insert fixed establishment, and wholly-owned group of companies.
 (5) Subsections (1) to (3) apply for income years beginning on or after 1 July 2009.
 
 ### 91 Section EX 21E amended (Non-attributing active CFC: test based on accounting standard)
-(1) Replace section EX 21E(2)(b) with:.
+(1) Replace section EX 21E(2)﻿(b) with:
   (b) each company is subject to the laws of the same country or territory and—
     (i) has a taxed CFC connection with the country or territory:
     (ii) would be a non-attributing active CFC if not treated as part of a test group and would have a taxed CFC connection with the country or territory in the absence of paragraph (c) of the definition of taxed CFC connection; and
-(2) Replace section EX 21E(2)(c) with:.
+(2) Replace section EX 21E(2)﻿(c) with:
   (c) an income interest of more than 50% is held in each company by—
     (i) the interest holder:
     (ii) companies that are all members of a wholly-owned group of companies that includes the interest holder; and
-(3) Repeal section EX 21E(3)(b).
-(4) In section EX 21E(4)(g)(ii), replace standard. with standard; and.
-(5) After section EX 21E(4)(g), insert:
+(3) Repeal section EX 21E(3)﻿(b).
+(4) In section EX 21E(4)﻿(g)﻿(ii), replace standard. with standard; and.
+(5) After section EX 21E(4)﻿(g), insert:
   (h) a numerator that is a negative number is treated as being zero.
-(6) Repeal section EX 21E(7)(f)(iii).
-(7) After section EX 21E(7)(f), insert:.
+(6) Repeal section EX 21E(7)﻿(f)﻿(iii).
+(7) After section EX 21E(7)﻿(f), insert:
   (fb) a foreign exchange gain or loss on—
     (i) a financial asset other than a derivative as defined in NZIAS 39 or a share that is not revenue account property, if subparagraph (ii) does not apply; or
     (ii) a financial asset or financial liability other than a derivative as defined in NZIAS 39 or a share that is not revenue account property, for a CFC for which foreign exchange gains and losses from financial assets are not readily distinguishable by an interest holder from foreign exchange gains and losses from financial liabilities:
-(8) In section EX 21E(9)(cb), replace financial asset with financial asset or financial liability.
-(9) Repeal section EX 21E(10)(c)(iii).
-(10) After section EX 21E(10)(c), insert:.
+(8) In section EX 21E(9)﻿(cb), replace financial asset with financial asset or financial liability.
+(9) Repeal section EX 21E(10)﻿(c)﻿(iii).
+(10) After section EX 21E(10)﻿(c), insert:
   (cb) a foreign exchange gain or loss on—
     (i) a financial asset other than a derivative as defined in NZIAS 39 or a share that is not revenue account property, if subparagraph (ii) does not apply; or
     (ii) a financial asset or financial liability other than a derivative as defined in NZIAS 39 or a share that is not revenue account property, for a CFC for which foreign exchange gains and losses from financial assets are not readily distinguishable by an interest holder from foreign exchange gains and losses from financial liabilities:
-(11) After section EX 21E(12)(d), insert:.
-  (db) income that is derived from a fixed establishment by a member of the test group and is not an attributable CFC amount, if the member is included in the test group under subsection (2)(b)(ii):
+(11) After section EX 21E(12)﻿(d), insert:
+  (db) income that is derived from a fixed establishment by a member of the test group and is not an attributable CFC amount, if the member is included in the test group under subsection (2)﻿(b)﻿(ii):
 (12) In section EX 21E, list of defined terms, insert financial asset, financial liability, fixed establishment, and wholly-owned group of companies.
 (13) Subsections (1) to (7) and (9) to (11) apply for income years beginning on or after 1 July 2009.
 
 ### 92 Section EX 22 amended (Non-attributing Australian CFCs)
-(1) In section EX 22(1)(b)(ii), replace units. with units; and.
-(2) After section EX 22(1)(b), insert:
+(1) In section EX 22(1)﻿(b)﻿(ii), replace units. with units; and.
+(2) After section EX 22(1)﻿(b), insert:
   (c) the CFC is not a unit trust or is a unit trust subject under Australian law to income tax on its income in the same way as a company.
 (3) Subsections (1) and (2) apply for income years beginning on or after 1 July 2014.
 
 ### 93 Section EX 35 amended (Exemption for interest in FIF resident in Australia)
-(1) After section EX 35(c), insert:.
+(1) After section EX 35(c), insert:
   (cb) the FIF is not a unit trust or is a unit trust subject under Australian law to income tax on its income in the same way as a company; and
-(2) In section EX 35(b)(iii), replace governments of other territories with governments of other countries or territories.
+(2) In section EX 35(b)﻿(iii), replace governments of other territories with governments of other countries or territories.
 (3) Subsection (1) applies for income years beginning on or after 1 July 2014.
 
 ### 94 Section EX 46 amended (Limits on choice of calculation methods)
@@ -1087,62 +1087,62 @@ In section EX 46(11), replace fair dividend rate with fair dividend rate method.
 
 ### 95 Section EX 50 amended (Attributable FIF income method)
 (1) In section EX 50(6), replace the words before the formula with If the FIF has an income interest in a foreign company for the accounting period and, as a result, the person has an indirect income interest (an indirect attributing interest) in the foreign company that would be an attributing interest for the person if held as a direct income interest, the person has additional FIF income or loss calculated using the formula—.
-(2) In section EX 50(7)(b), replace the words before the subparagraphs with FIF's FIF income or loss is the FIF's FIF income or loss for the period from foreign companies in which the person has an indirect attributing interest, calculated under the rules in section EX 58(4) and (5) as if—.
+(2) In section EX 50(7)﻿(b), replace the words before the subparagraphs with FIF's FIF income or loss is the FIF's FIF income or loss for the period from foreign companies in which the person has an indirect attributing interest, calculated under the rules in section EX 58(4) and (5) as if—.
 (3) Subsections (1) and (2) apply for the 2014–15 and later income years.
 
 ### 96 Section EX 51 amended (Comparative value method)
-(1) Replace section EX 51(6)(a) with—.
+(1) Replace section EX 51(6)﻿(a) with—
   (a) all expenditure, if any, that—
     (i) the person incurs in acquiring or increasing the interest:
     (ii) another person incurs on behalf of the person referred to in subparagraph (i) in relation to the interest:
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 97 Section EX 58 amended (Additional FIF income or loss if CFC owns FIF)
-(1) After section EX 58(1)(a), insert:.
+(1) After section EX 58(1)﻿(a), insert:
   (ab) as a result of an income interest of the CFC in a FIF, the person has an indirect income interest (an indirect attributing interest) in the FIF that would be an attributing interest for the person if held as a direct income interest; and
-(2) Replace section EX 58(3)(b) with:
+(2) Replace section EX 58(3)﻿(b) with:
   (b) CFC's FIF income or loss is the CFC's FIF income or loss for the period, calculated under subsections (4) and (5), from FIFs in which the person has an indirect attributing interest.
-(3) Replace section EX 58(4)(b) and (c) with:
+(3) Replace section EX 58(4)﻿(b) and (c) with:
   (b) otherwise apply the calculation rules in section EX 44 to EX 61 to the CFC and the CFC's interest in the FIF; and
   (c) apply the FIF loss ring-fencing rules in section DN 8 (Ring-fencing cap on deduction: attributable FIF income method) to the CFC and the CFC's interest in the FIF.
 (4) In section EX 58, in the list of defined terms, insert direct income interest.
 (5) Subsections (1) to (3) apply for the 2014–15 and later income years.
 
 ### 98 Section EZ 23B amended (Property acquired after depreciable property affected by Canterbury earthquakes)
-(1) In section EZ 23B(5)(b), replace affected property with affected class.
-(2) In section EZ 23B(5)(c), replace affected property with affected class.
+(1) In section EZ 23B(5)﻿(b), replace affected property with affected class.
+(2) In section EZ 23B(5)﻿(c), replace affected property with affected class.
 
 ### 99 Section EZ 32D amended (Value of asset fraction: CFC with excessive debt funding and loan entered before 21 June 2012)
-(1) In section EZ 32D(2), replace section EX 20C(3)(b)(ii) with section EX 20B(4B)(b) in each place where it occurs.
+(1) In section EZ 32D(2), replace section EX 20C(3)﻿(b)﻿(ii) with section EX 20B(4B)﻿(b) in each place where it occurs.
 (2) In section EZ 32D(3),—
   (a) in the heading, replace section EX 20C with section EX 20B:
-  (b) replace section EX 20C(3)(b)(ii) with section EX 20B(4B)(b).
+  (b) replace section EX 20C(3)﻿(b)﻿(ii) with section EX 20B(4B)﻿(b).
 (3) Subsections (1) and (2) apply for income years beginning on or after 1 July 2009.
 
 ### 100 New sections EZ 75 and EZ 76 inserted
-Before Part F, insert:Consideration for property or services: IFRS foreign ASAPs before 2014–15 income yearWhen this section appliesTreatmentTreatment: modification for spot rate revaluationamount, financial arrangement, foreign ASAP, FX hedge, IFRS, income yearConsideration for property or services: non-IFRS foreign ASAPs before 2014–15 income yearWhen this section appliesTreatmentamount, financial arrangement, foreign ASAP, FX hedge, IFRS, income year.
-  (1) This section applies when a person uses IFRSs to prepare financial statements and to report for financial arrangements, and––
+Before Part F, insert:Consideration for property or services: IFRS foreign ASAPs before 2014–15 income yearWhen this section appliesTreatmentTreatment: modification for spot rate revaluationamount, financial arrangement, foreign ASAP, FX hedge, IFRS, income yearConsideration for property or services: non-IFRS foreign ASAPs before 2014–15 income yearWhen this section appliesTreatmentamount, financial arrangement, foreign ASAP, FX hedge, IFRS, income year
+  (1) This section applies when a person uses IFRSs to prepare financial statements and to report for financial arrangements, and—
     (a) the person has a financial arrangement that is a foreign ASAP (the financial arrangement) for which section EW 32 (Consideration for agreement for sale and purchase (ASAP) of property or services, hire purchase agreement, specified option, or finance lease) applies to value the relevant property or services; and
     (b) the person enters into the financial arrangement before the end of the 2013–14 income year; and
     (c) for the financial arrangement, the person has filed returns of income in accordance with this section for the 2013–14 income year and every earlier income year.
-  (2) The person, applying sections 81 and 82 of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 as if in force, may––
+  (2) The person, applying sections 81 and 82 of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 as if in force, may—
     (a) treat sections EW 32 and EW 33B (Foreign ASAPs: designated FX hedges) as applying to the financial arrangement for the 2013–14 income year and every earlier income year; or
     (b) treat section EW 32 as applying, but excluding section EW 33B. The value of the relevant property or services under IFRS rules is modified by excluding an amount attributed under IFRS rules from the value on account of FX hedges.
   (3) Despite subsection (2), a treatment under that subsection may be modified to allow the addition and subtraction, from the value of the property or services, of amounts arising from spot rate revaluation of payments already made at the time the property or services are recognised under IFRS rules.
-  (1) This section applies when a person does not use IFRSs to prepare financial statements and to report for financial arrangements, and––
+  (1) This section applies when a person does not use IFRSs to prepare financial statements and to report for financial arrangements, and—
     (a) the person has a financial arrangement that is a foreign ASAP (the financial arrangement) for which section EW 32 applies to value the relevant property or services; and
     (b) the person enters into the financial arrangement before the end of the 2013–14 income year; and
     (c) for the financial arrangement, the person has filed returns of income in accordance with this section for the 2013–14 income year and every earlier income year.
   (2) The person, applying sections 81 and 82 of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 as if in force, may treat sections EW 32 and EW 33C (which relate to certain financial arrangements) as applying to the financial arrangement for the 2013–14 income year and every earlier income year. Section EW 33B (Foreign ASAPs: designated FX hedges) is excluded.
 
 ### 101 New section EZ 77 inserted (Substituting debentures repeal: transitional rules)
-After section EZ 76, insert:Substituting debentures repeal: transitional rulesWhen this section appliesSubstituting debenture: last dayFinancial arrangement: first daySubsections (2) and (3) modifiedContinuityconsideration, continuity provisions, financial arrangement, financial arrangements rules, income year, market value interest, substituting debenture, voting interest.
+After section EZ 76, insert:Substituting debentures repeal: transitional rulesWhen this section appliesSubstituting debenture: last dayFinancial arrangement: first daySubsections (2) and (3) modifiedContinuityconsideration, continuity provisions, financial arrangement, financial arrangements rules, income year, market value interest, substituting debenture, voting interest
   (1) This section applies if a person has a substituting debenture when the application of section 102 of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (the repealing Act) repeals section FA 2(5) and a financial arrangement arises.
-  (2) On 31 March 2015––
+  (2) On 31 March 2015—
     (a) the substituting debenture is treated as cancelled; and
     (b) an amount equal to the debenture's outstanding principal and outstanding accrued interest is treated as paid to the holder, for the cancellation, by the debenture's issuer.
-  (3) On 1 April 2015, the debenture's issuer and holder are treated as entering into the financial arrangement on the same terms and conditions as the debenture described in subsection (2), except that the amount of principal treated as advanced to the issuer is an amount equal to the amount described in subsection (2)(b).
-  (4) If the repeal of section FA 2(5) arises because a debenture that a person is party to fails to meet a requirement described in section 102(5) of the repealing Act, then––
+  (3) On 1 April 2015, the debenture's issuer and holder are treated as entering into the financial arrangement on the same terms and conditions as the debenture described in subsection (2), except that the amount of principal treated as advanced to the issuer is an amount equal to the amount described in subsection (2)﻿(b).
+  (4) If the repeal of section FA 2(5) arises because a debenture that a person is party to fails to meet a requirement described in section 102(5) of the repealing Act, then—
     (a) subsection (2) is modified to apply on the last day of the tax year immediately before the tax year that corresponds to the income year in which the failure to meet a requirement occurs; and
     (b) subsection (3) is modified to apply on the first day of the tax year that corresponds to the income year in which the failure to meet a requirement occurs.
   (5) A change in voting interest or market value interest that arises from the application of section 102 of the repealing Act is ignored for the purposes of the continuity provisions.
@@ -1152,7 +1152,7 @@ After section EZ 76, insert:Substituting debentures repeal: transitional rulesWh
 (2) In section FA 2(2), replace either a profit-related debenture or a substituting debenture is denied a deduction under section DB 10 (Interest or expenditure connected to profit-related or substituting with a profit-related debenture is denied a deduction under section DB 10 (Interest or expenditure connected to profit-related.
 (3) Repeal section FA 2(5) and (7).
 (4) In section FA 2, in the list of defined terms, delete substituting debenture.
-(5) Subsections (1), (2), (3), and (4) do not apply, for an income year, to a debenture that a person is party to, if––
+(5) Subsections (1), (2), (3), and (4) do not apply, for an income year, to a debenture that a person is party to, if—
   (a) the debenture is issued under an arrangement entered into before 22 November 2013; and
   (b) a binding ruling on the application of section FA 2(5) was issued to the person in relation to the arrangement; and
   (c) the binding ruling would continue to apply but for the repeal of the substituting debenture rule by the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (the Act); and
@@ -1163,7 +1163,7 @@ After section EZ 76, insert:Substituting debentures repeal: transitional rulesWh
 In section FB 15, replace EC 4C with EC 4C (which relate to livestock).
 
 ### 104 Section FC 5 amended (Land transferred to close relatives)
-(1) Replace section FC 5(3)(b) with:
+(1) Replace section FC 5(3)﻿(b) with:
   (b) all other expenditure incurred by the person, the deceased person, or the administrator or executor of the deceased person, as applicable, for which no deduction has been allowed.
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
@@ -1181,14 +1181,14 @@ In section FB 15, replace EC 4C with EC 4C (which relate to livestock).
 (3) Subsection (1) applies for the 2015–16 and later income years.
 
 ### 106 Section FE 2 amended (When this subpart applies)
-(1) After section FE 2(1)(c), insert:.
+(1) After section FE 2(1)﻿(c), insert:
   (cb) a company that is resident in New Zealand if the company has members who make up a non-resident owning body for the company—
     (i) holding total ownership interests in the company of 50% or more, determined as if the members in the non-resident owning body were associated persons:
     (ii) having control of the company by any other means:
   (cc) a company that is resident in New Zealand if a trustee who meets the requirements of paragraph (d) or (db)—
     (i) holds total ownership interests in the company of 50% or more:
     (ii) has control of the company by any other means:
-(2) Replace section FE 2(1)(d) with:.
+(2) Replace section FE 2(1)﻿(d) with:
   (d) the trustee of a trust if 50% or more of the value of settlements made on the trust is from settlements made by—
     (i) a non-resident or an associated person of a non-resident:
     (ii) a person who is described in paragraphs (a) to (cc) or would be described by this paragraph or paragraph (db) if settlements made by the trustee and powers of appointment or removal held by the trustee were ignored:
@@ -1196,14 +1196,14 @@ In section FB 15, replace EC 4C with EC 4C (which relate to livestock).
   (db) the trustee of a trust if a person described in paragraphs (a) to (cc), or would be described by this paragraph or paragraph (d) if settlements made by the trustee and powers of appointment or removal held by the trustee were ignored, has the power to appoint or remove a trustee of the trust other than for the purpose of protecting a security interest:
 (3) Replace section FE 2(4), other than the heading, with:
   (4) A resident of New Zealand and a relative who is a non-resident are not associated persons—
-    (a) in relation to a company for the purposes of subsection (1)(b)(ii), if the non-resident does not have a direct or indirect ownership interest in the company:
-    (b) in relation to a trust for the purposes of subsection (1)(d)(i), if the non-resident has not made a settlement on the trust.
+    (a) in relation to a company for the purposes of subsection (1)﻿(b)﻿(ii), if the non-resident does not have a direct or indirect ownership interest in the company:
+    (b) in relation to a trust for the purposes of subsection (1)﻿(d)﻿(i), if the non-resident has not made a settlement on the trust.
 (4) In section FE 2, in the list of defined terms, insert non-resident owning body and ownership interest.
 (5) Subsections (1) to (3) apply for the 2015–16 and later income years.
 
 ### 107 Section FE 3 amended (Interest apportionment for individuals)
-(1) In section FE 3(1)(a), replace the words before subparagraph (i) with the New Zealand group of a natural person other than a trustee is made up of the person and all associated persons who—.
-(2) Replace section FE 3(1)(b) and (c) with:
+(1) In section FE 3(1)﻿(a), replace the words before subparagraph (i) with the New Zealand group of a natural person other than a trustee is made up of the person and all associated persons who—.
+(2) Replace section FE 3(1)﻿(b) and (c) with:
   (b) the amount of the total assets of a natural person is calculated excluding the person's private and domestic assets:
   (c) the New Zealand group of a trustee is made up of the trustee and all companies identified under section FE 27 as being under the control of the trustee, other than a company with a New Zealand parent not determined under section FE 26(4D):
   (d) the worldwide group of a trustee is made up of the trustee's New Zealand group.
@@ -1211,14 +1211,14 @@ In section FB 15, replace EC 4C with EC 4C (which relate to livestock).
 (4) Subsections (1) and (2) apply for the 2015–16 and later income years.
 
 ### 108 Section FE 4 amended (Some definitions)
-(1) In section FE 4, after the heading, insert:Definitions.
-(2) In section FE 4, insert, in appropriate alphabetical order:.
+(1) In section FE 4, after the heading, insert:Definitions
+(2) In section FE 4, insert, in appropriate alphabetical order:
   - **linked trustee** , for a person, is a trustee to whom the person has provided money under a settlement or arrangement
-  - **non-resident owning body** , for a company and an income year, means a group consisting of 2 or more members who are each a non-resident or a person meeting the requirements of section FE 2(1)(cc), (d), or (db) and who each hold ownership interests in the company or have a linked trustee holding ownership interests in the company such that,—
+  - **non-resident owning body** , for a company and an income year, means a group consisting of 2 or more members who are each a non-resident or a person meeting the requirements of section FE 2(1)﻿(cc), (d), or (db) and who each hold ownership interests in the company or have a linked trustee holding ownership interests in the company such that,—
     (a) if the company, for each member of the group, owes money to the member (the member debt), or to the member's linked trustee (the trustee debt), or to a company (the subsidiary) in which the member or a linked trustee has ownership interests (the subsidiary debt),—
       (i) the member debt for a member, expressed as a fraction of the total member debt for the company, corresponds to the ownership interests or direct ownership interests held by the member, expressed as a fraction of the ownership interests or direct ownership interests held by the members of the group:
       (ii) the requirements of subparagraph (i) would be met if each of 1 or more members of the group were treated as holding the ownership interests in the company held by the member, and by linked trustees, and were treated as being owed the member debt, the trustee debt, and an amount for a subsidiary debt equal to the product of the subsidiary debt and the ownership interest held in the subsidiary:
-    (b) the company is not a widely-held company and the company is funded for the income year under an arrangement between the members of the group concerning debt (the member-linked funding) under financial arrangements meeting the requirements of section FE 18(3B)(b)(i) to (iii) for the members:
+    (b) the company is not a widely-held company and the company is funded for the income year under an arrangement between the members of the group concerning debt (the member-linked funding) under financial arrangements meeting the requirements of section FE 18(3B)﻿(b)﻿(i) to (iii) for the members:
     (c) the company has member-linked funding provided in a way recommended to, or implemented for, the members as a group by a person
 (3) In section FE 4, after the definition of reporting bank, insert as subsection (2):Types of ownership interest
   (2) For the purposes of the definition of non-resident owning body, in determining the relationship between the amount of a company's debt relating to a member and the level of the ownership interests in the company relating to the member, the level of each type of ownership interest in the company is considered, despite section FE 39.
@@ -1241,7 +1241,7 @@ In section FB 15, replace EC 4C with EC 4C (which relate to livestock).
 (1) After section FE 14(3), insert:When entity is part of more than 1 groupDetermining New Zealand group for common member's debts and assetsDetermining worldwide group for common member's debts and assets
   (3B) If an entity (the common member) is, under sections FE 3 and FE 26 to FE 29, a member or part of a member of different New Zealand groups, the debts and assets of the common member are included under this subpart in the total group debt and total group assets of not more than 1 New Zealand group and in no worldwide group other than the worldwide group determined using that New Zealand group.
   (3C) For the purposes of subsection (3B), the debts and assets of the common member referred to in subsection (3B) are included with the debts and assets of the other members of the New Zealand group—
-    (a) given by section FE 26, in the absence of section FE 26(2)(bb) and (bc), (3)(d), (4D), and (6), for the common member; or
+    (a) given by section FE 26, in the absence of section FE 26(2)﻿(bb) and (bc), (3)﻿(d), (4D), and (6), for the common member; or
     (b) if paragraph (a) does not specify 1 New Zealand group, chosen by the excess debt entity to which the interest apportionment rules are being applied for the common member and the excess debt entity.
   (3D) For the purposes of subsection (3B), the debts and assets of the common member referred to in subsection (3B) are included with the debts and assets of the other members of the worldwide group given by sections FE 31 to FE 36B for the common member and the common member's New Zealand group under subsection (3C).
 (2) Subsection (1) applies for the 2015–16 and later income years.
@@ -1271,8 +1271,8 @@ In section FB 15, replace EC 4C with EC 4C (which relate to livestock).
 ### 112 Section FE 18 amended (Measurement of debts and assets of worldwide group)
 (1) Replace section FE 18(3) with:Measurement of amountsFinancial arrangements removed from measurement of amounts
   (3) Despite subsection (1), an excess debt entity must measure the amount of total group debt by applying section FE 15 as if—
-    (a) section FE 15(1)(a) excluded from the measurement a financial arrangement meeting the requirements of subsection (3B); and
-    (b) section FE 15(1)(a)(ii) required the financial arrangement to give rise to an amount that would be allowed as a deduction to the natural person or to the entity, or another group member, if the entity or group member were resident in New Zealand.
+    (a) section FE 15(1)﻿(a) excluded from the measurement a financial arrangement meeting the requirements of subsection (3B); and
+    (b) section FE 15(1)﻿(a)﻿(ii) required the financial arrangement to give rise to an amount that would be allowed as a deduction to the natural person or to the entity, or another group member, if the entity or group member were resident in New Zealand.
   (3B) A financial arrangement is removed from the measurement of total group debt for an excess debt entity that is not an excess debt outbound company if—
     (a) there is a person (the owner) who is not a member of the group and—
       (i) has an ownership interest in a member of the group:
@@ -1283,8 +1283,8 @@ In section FB 15, replace EC 4C with EC 4C (which relate to livestock).
       (iii) provides, or undertakes to provide, funds for the use of a person who agrees to provide funds under the financial arrangement; and
     (c) the owner has direct ownership interests in a member of the group of 5% or more; and
     (d) the financial arrangement is not traded on an exchange that would be a recognised exchange if paragraphs (c) to (e) of the definition of recognised exchange referred to financial arrangements as well as to shares and options over shares.
-(2) In section FE 18(5)(a), replace subparagraph (iii) with:.
-  (iii) all members of the entity's worldwide group, not including the entity, are resident in New Zealand and the entity's worldwide group is not determined under either of sections FE 3(1)(d) and FE 31D; or
+(2) In section FE 18(5)﻿(a), replace subparagraph (iii) with:
+  (iii) all members of the entity's worldwide group, not including the entity, are resident in New Zealand and the entity's worldwide group is not determined under either of sections FE 3(1)﻿(d) and FE 31D; or
 (3) In section FE 18, in the list of defined terms, insert associated person, deduction, excess debt outbound company, financial arrangement, ownership interest, recognised exchange, settlor, and trustee.
 (4) Subsections (1) and (2) apply for the 2015–16 and later income years.
 
@@ -1297,22 +1297,22 @@ In section FB 15, replace EC 4C with EC 4C (which relate to livestock).
 (6) Subsections (2) and (4) apply for the 2015–16 and later income years.
 
 ### 114 Section FE 26 amended (Identifying New Zealand parent)
-(1) After section FE 26(2)(b), insert:.
+(1) After section FE 26(2)﻿(b), insert:
   (bb) the entity is resident in New Zealand, and meets the requirements of none of the other paragraphs, and has a non-resident owning body having a direct ownership interest of 50% or more in the entity and not having a member (a tax-return member)—
     (i) carrying on business in New Zealand through a fixed establishment in New Zealand:
     (ii) deriving income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax is unavailable under all relevant double tax agreements; or
   (bc) the entity is a non-resident owning body; or
-(2) Replace section FE 26(3)(c) and (d) with:.
+(2) Replace section FE 26(3)﻿(c) and (d) with:
   (c) if company A is a non-resident, a non-resident has a direct ownership in company A; and
   (d) if company A is resident in New Zealand,—
     (i) a non-resident has a direct ownership interest in company A and ownership interests of 50% or more in the entity and company A; or
     (ii) the requirements of subparagraph (i) are not met and a group of non-residents is a non-resident owning body for the entity and for company A, and has ownership interests of 50% or more in the entity and company A, and no such non-resident owning body for the entity and for company A has a tax-return member; and
-(3) In section FE 26(4)(c), replace a non-resident with a non-resident, or non-resident owning body,.
+(3) In section FE 26(4)﻿(c), replace a non-resident with a non-resident, or non-resident owning body,.
 (4) After section FE 26(4B), insert:Non-resident owning bodyControlling trustee
   (4C) If subsections (2) to (4B) do not apply and the entity is resident in New Zealand and has a non-resident owning body, the non-resident owning body is the entity's New Zealand parent if the non-resident owning body has—
     (a) a direct ownership interest of 50% or more in the entity; and
     (b) a tax-return member.
-  (4D) If an excess debt entity meets the requirements of section FE 2(1)(cc) and the New Zealand parent of the entity cannot be determined in the absence of this subsection and subsection (6), the New Zealand parent of the entity is the trustee referred to in section FE 2(1)(cc).
+  (4D) If an excess debt entity meets the requirements of section FE 2(1)﻿(cc) and the New Zealand parent of the entity cannot be determined in the absence of this subsection and subsection (6), the New Zealand parent of the entity is the trustee referred to in section FE 2(1)﻿(cc).
 (5) In section FE 26(6), replace subsection (3), (4), or (4B) with 1 of subsections (3) to (4D).
 (6) Replace section FE 26(7) with:Determining ownership interests in subsections (3) to (4C)
   (7) In subsections (3) to (4C), ownership interests are determined under sections FE 38 to FE 41, but for the purposes of identifying a New Zealand parent,—
@@ -1322,8 +1322,8 @@ In section FB 15, replace EC 4C with EC 4C (which relate to livestock).
 (8) Subsections (1) to (6) apply for the 2015–16 and later income years.
 
 ### 115 New section FE 31D inserted (Worldwide group for entity with New Zealand parent depending on non-resident owning body)
-(1) After section FE 31C, insert:Worldwide group for entity with New Zealand parent depending on non-resident owning bodycompany, ownership interest.
-  A worldwide group for an entity that would not have a New Zealand parent under section FE 26(2) and (3) in the absence of section FE 26(2)(bb), (3)(d)(ii), and (4C), and for a company in which such an entity has an ownership interest of more than 50%, is made up of—
+(1) After section FE 31C, insert:Worldwide group for entity with New Zealand parent depending on non-resident owning bodycompany, ownership interest
+  A worldwide group for an entity that would not have a New Zealand parent under section FE 26(2) and (3) in the absence of section FE 26(2)﻿(bb), (3)﻿(d)﻿(ii), and (4C), and for a company in which such an entity has an ownership interest of more than 50%, is made up of—
     (a) the entity; and
     (b) the entity's New Zealand group.
 (2) Subsection (1) applies for the 2015–16 and later income years.
@@ -1346,10 +1346,10 @@ In section FB 15, replace EC 4C with EC 4C (which relate to livestock).
 (4) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 118 Section FO 5 amended (Amalgamations and remitted liabilities)
-(1) In section FO 5, after the section heading, insert:Treatment of liabilities generally.
+(1) In section FO 5, after the section heading, insert:Treatment of liabilities generally
 (2) In section FO 5, replace “CG 2 (Remitted amounts)” with “CG 2, CG 2C (which relate to remitted amounts)”.
 (3) In section FO 5, insert:Treatment of liabilities on liquidation
-  (2) Despite subsection (1), when an amalgamating company to which section CG 2C applies has liabilities that are required to be assumed under section FO 4(2)(b), section CG 2C applies—
+  (2) Despite subsection (1), when an amalgamating company to which section CG 2C applies has liabilities that are required to be assumed under section FO 4(2)﻿(b), section CG 2C applies—
     (a) to the amalgamated company as if it were company A; and
     (b) in the same way to the amalgamated company that is an amalgamating company in a subsequent amalgamation; and
     (c) from the date of the amalgamation or a subsequent amalgamation to the date on which the liabilities are met.
@@ -1361,7 +1361,7 @@ In section FB 15, replace EC 4C with EC 4C (which relate to livestock).
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 120 New heading and new section GB 51 inserted
-After section GB 50, insert:Arrangements involving interest apportionment rulesProportionality between amount of debt and ownership interestsWhen this section appliesArrangement disregardedcompany, ownership interest.
+After section GB 50, insert:Arrangements involving interest apportionment rulesProportionality between amount of debt and ownership interestsWhen this section appliesArrangement disregardedcompany, ownership interest
   (1) This section applies when—
     (a) a person has ownership interests in a company or a trustee who is a linked trustee for the person under section FE 4 (Some definitions) has ownership interests in the company; and
     (b) an arrangement affects the relationship between the level of an ownership interest in the company relating to the person and the company's debt relating to the person; and
@@ -1376,19 +1376,19 @@ After section GB 50, insert:Arrangements involving interest apportionment rulesP
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 122 Section HC 27 amended (Who is a settlor?)
-In section HC 27(3B)(b), replace section CE 1(d) with section CE 1(1)(d) (Amounts derived in connection with employment).
+In section HC 27(3B)﻿(b), replace section CE 1(d) with section CE 1(1)﻿(d) (Amounts derived in connection with employment).
 
 ### 123 Section HC 30 amended (Treatment of foreign trusts when settlor becomes resident)
-In section HC 30(4)(a), replace date of the election with election expiry date.
+In section HC 30(4)﻿(a), replace date of the election with election expiry date.
 
 ### 124 Section HC 31 amended (When existing trusts come into tax base)
-(1) Repeal HC 31(1)(b).
+(1) Repeal HC 31(1)﻿(b).
 (2) After section HC 31(1), insert:When this section does not apply
   (1B) This section does not apply if the relevant change in circumstances is a charitable trust failing to meet the requirements to derive exempt income under section CW 41 or CW 42 (which relate to charities). Instead, see sections HR 11 and HR 12 (which relate to non-exempt charities).
 
 ### 125 Section HD 14 amended (Companies issuing debentures)
-(1) In section HD 14(2)(a), delete or substituting debenture.
-(2) Subsection (1) does not apply, for an income year, to a debenture that a person is party to, if––
+(1) In section HD 14(2)﻿(a), delete or substituting debenture.
+(2) Subsection (1) does not apply, for an income year, to a debenture that a person is party to, if—
   (a) the debenture is issued under an arrangement entered into before 22 November 2013; and
   (b) a binding ruling on the application of section FA 2(5) was issued to the person in relation to the arrangement; and
   (c) the binding ruling would continue to apply but for the repeal of the substituting debenture rule by the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (the Act); and
@@ -1397,20 +1397,20 @@ In section HC 30(4)(a), replace date of the election with election expiry date.
 
 ### 126 Section HF 11 amended (Choosing to become Maori Authority)
 Replace section HF 11(3), other than the heading, with:
-  (3) The election takes effect on––
+  (3) The election takes effect on—
     (a) the first day of the income year in which the person's notice is given; or
     (b) the first day of the next income year, if the person nominates that date in the notice; or
     (c) the day on which the person does not comply with the person's rules contained in the register of charities under the Charities Act 2005, if the person nominates that date in the notice.
 
 ### 127 Section HM 1 amended (Outline of subpart and relationship with other Parts)
-In section HM 1(2)(i), replace DB 54 (Treatment of credits for investment fees) with DB 54 (No deductions for fees relating to interests in multi-rate PIEs).
+In section HM 1(2)﻿(i), replace DB 54 (Treatment of credits for investment fees) with DB 54 (No deductions for fees relating to interests in multi-rate PIEs).
 
 ### 128 New heading and section HR 11 inserted
-After section HR 10, insert:Non-exempt charities: cessation of tax-exempt statusNon-exempt charities: initial tax baseWhen this section appliesEstablishing cost of propertyConsideration for financial arrangementsDefinition of items in formulaPrepaymentsInformationcharitable purposes, consideration, financial arrangement, financial arrangements rules, income, tax charity, trading stock.
+After section HR 10, insert:Non-exempt charities: cessation of tax-exempt statusNon-exempt charities: initial tax baseWhen this section appliesEstablishing cost of propertyConsideration for financial arrangementsDefinition of items in formulaPrepaymentsInformationcharitable purposes, consideration, financial arrangement, financial arrangements rules, income, tax charity, trading stock
   (1) This section applies on and after the day that a person ceases to meet the requirements to derive exempt income under section CW 41 or CW 42 (which relate to charities) (the date of cessation).
   (2) For the purposes of this Act, for the person, the cost of premises, plant, equipment, and trading stock is the value that would be used at the date of cessation under this Act if section CW 41 or CW 42 never applied.
   (3) For the purposes of this Act, the consideration for a financial arrangement of the person is the value calculated using the following formula:consideration paid to person + expenditure– consideration paid by person – income.
-  (4) In the formula,––
+  (4) In the formula,—
     (a) consideration paid to person is the consideration that is paid to the person before the date of cessation:
     (b) expenditure is the expenditure that would have been incurred under the financial arrangements rules before the date of cessation:
     (c) consideration paid by person is the consideration that is paid by the person before the date of cessation:
@@ -1419,7 +1419,7 @@ After section HR 10, insert:Non-exempt charities: cessation of tax-exempt status
   (6) For the purpose of applying this section, the person may use information from their annual returns contained on the register of charitable entities under the Charities Act 2005, if they have no other information that is more readily available.
 
 ### 129 New section HR 12 inserted (Non-exempt charities: taxation of tax-exempt accumulation)
-(1) After section HR 11, insert:Non-exempt charities: taxation of tax-exempt accumulationWhen this section appliesWhen this section does not applyTaxation of tax-exempt accumulationMeaning of net assetsday of final decision, exempt income, income, net assets.
+(1) After section HR 11, insert:Non-exempt charities: taxation of tax-exempt accumulationWhen this section appliesWhen this section does not applyTaxation of tax-exempt accumulationMeaning of net assetsday of final decision, exempt income, income, net assets
   (1) This section applies on and after the day of final decision (the end date).
   (2) This section does not apply if the person—
     (a) meets, on the day before the end date, the requirements to derive exempt income under a provision in subpart CW excluding section CW 41 or CW 42 (which relate to charities):
@@ -1427,24 +1427,25 @@ After section HR 10, insert:Non-exempt charities: cessation of tax-exempt status
   (3) The person has an amount of income, derived on the day that is a year after the end date, equal to the greater of zero or the value of net assets that the person held on the end date, but ignoring—
     (a) assets distributed or applied in the year after the end date, for charitable purposes; and
     (b) assets distributed or applied in the year after the end date, in accordance with the person's rules contained on the register; and
-    (c) assets received from the Crown––
+    (c) assets received from the Crown—
       (i) to settle a Treaty of Waitangi claim:
       (ii) in accordance with the Maori Fisheries Act 2004; and
     (d) assets, other than money, gifted or left to the person when the person met the requirements to derive exempt income under section CW 41 or CW 42.
   (4) In this section, net assets means the assets of the person held on the end date, less the liabilities of the person on the end date.
-(2) Subsection (1) applies––
-  (a) on and after 1 April 2015, unless paragraph (b) applies:
-  (b) on and after 14 April 2014, if the person is removed from the register of charitable entities before 1 April 2015 because section 32(1)(f) of the Charities Act 2005 applies.
+(2) Subsection (1) applies—
+  (a) on and after 1 April 2015, unless paragraph (b) or (c) applies:
+  (b) on and after 14 April 2014, if the person is removed from the register of charitable entities before 1 April 2015 because section 32(1)﻿(f) of the Charities Act 2005 applies:
+  (c) on and after 1 April 2017, if the person’s activities involve the provision of housing as part of achieving the person’s objectives and purposes and paragraph (b) does not apply.
 
 ### 130 Section IW 1 amended (Shortfall penalties)
 In section IW 1(3), replace the penalty imposed on the company with the penalty imposed on the company or on another company in the group.
 
 ### 131 Section LD 3 amended (Meaning of charitable or other public benefit gift)
-(1) After section LD 3(2)(a), insert:
-  (ab) an entity that, but for this paragraph, no longer meets the requirements of this subsection, but only for the period starting on the day it fails to meet those requirements and ending on the later of––
+(1) After section LD 3(2)﻿(a), insert:
+  (ab) an entity that, but for this paragraph, no longer meets the requirements of this subsection, but only for the period starting on the day it fails to meet those requirements and ending on the later of—
     (i) the day the entity is removed from the register of charitable entities under the Charities Act 2005:
     (ii) the day on which all reasonably contemplated administrative appeals and Court proceedings, including appeal rights, are finalised or exhausted in relation to the person's charitable status.
-(2) After section LD 3(2)(ab), insert:.
+(2) After section LD 3(2)﻿(ab), insert:
   (ac) a community housing entity, if the gift is made in a tax year that the entity meets the requirements to derive exempt income under section CW 42B (Community housing trusts and companies):
 (3) In section LD 3, in the list of defined terms, insert community housing entity.
 
@@ -1453,7 +1454,7 @@ In section IW 1(3), replace the penalty imposed on the company with the penalty 
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 133 Section LJ 5 amended (Calculation of New Zealand tax)
-(1) In section LJ 5(3)(c), replace section BD 4(1) to (3) with section BC 4(1) to (3).
+(1) In section LJ 5(3)﻿(c), replace section BD 4(1) to (3) with section BC 4(1) to (3).
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 134 Subpart LZ amended (Terminating provisions)
@@ -1468,10 +1469,10 @@ In section MB 7B(2),—
   (b) replace such fringe benefits with such benefits.
 
 ### 137 Section MB 13 amended (Family scheme income from other payments)
-(1) After section MB 13(2)(b), insert:.
+(1) After section MB 13(2)﻿(b), insert:
   (bb) a repayment of a loan or of a mistaken or misdirected payment:
   (bc) a refund of a payment, including a refund of overpaid tax, student loan payments, or child support payments:
-  (bd) a payment, other than a payment by a trustee, from the person's ownership of an investment activity or business, and the payment––
+  (bd) a payment, other than a payment by a trustee, from the person's ownership of an investment activity or business, and the payment—
     (i) is received on capital account; and
     (ii) is not a loan:
   (be) a payment from a deceased's estate:
@@ -1480,30 +1481,30 @@ In section MB 7B(2),—
 (3) Subsection (1) applies for the 2015–16 and later income years.
 
 ### 138 Section RD 5 amended (Salary or wages)
-In section RD 5(8), replace section CE 1(1B) (Amounts derived in connection with employment) with section CE 1(1)(bb) (Amounts derived in connection with employment).
+In section RD 5(8), replace section CE 1(1B) (Amounts derived in connection with employment) with section CE 1(1)﻿(bb) (Amounts derived in connection with employment).
 
 ### 139 Section RD 6 amended (Certain benefits and payments)
-In section RD 6(1)(a), replace an accommodation benefit treated as income under section CE 1(1B) (Amounts derived in connection with employment with a benefit treated as income under section CE 1(1)(bb) (Amounts derived in connection with employment.
+In section RD 6(1)﻿(a), replace an accommodation benefit treated as income under section CE 1(1B) (Amounts derived in connection with employment with a benefit treated as income under section CE 1(1)﻿(bb) (Amounts derived in connection with employment.
 
 ### 140 Section RE 2 amended (Resident passive income)
-(1) In section RE 2(3)(h), replace 1994. with 1994:, and after section RE 2(3)(h), insert:
+(1) In section RE 2(3)﻿(h), replace 1994. with 1994:, and after section RE 2(3)﻿(h), insert:
   (i) interest arising because section EI 2 (Interest from inflation-indexed instruments) applies to an inflation-indexed instrument.
 (2) In section RE 2, in the list of defined terms, insert inflation-indexed instrument.
 
 ### 141 Section RE 14 amended (Non-cash dividends other than certain share issues)
-(1) Replace the formula in section RE 14(2) with:tax rate × dividend paid−tax paid or credit attached.(1 − tax rate)
+(1) Replace the formula in section RE 14(2) with:(tax rate × dividend paid ÷ (1 − tax rate)) − tax paid or credit attached.
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 142 New section RE 18B (Capital value increase under inflation-indexed instruments: RWT cap)
-After section RE 18, insert:Capital value increase under inflation-indexed instruments: RWT capFormula for subsection (1)(b)Definition of items in formula in subsection (2)Formula for subsection (3)(a)Definition of items in formula in subsection (4)amount, inflation-indexed instrument, interest, money lent, pay.
+After section RE 18, insert:Capital value increase under inflation-indexed instruments: RWT capFormula for subsection (1)﻿(b)Definition of items in formula in subsection (2)Formula for subsection (3)﻿(a)Definition of items in formula in subsection (4)amount, inflation-indexed instrument, interest, money lent, pay
   (1) For an interest payment under an inflation-indexed instrument, the payer is obliged, in addition to withholding under section RE 12, to withhold and pay to the Commissioner the lesser of the following amounts of tax:
     (a) the net amount of the interest payment (the current coupon payment) remaining after the withholding of RWT under section RE 12:
     (b) the amount given by the formula in subsection (2).
-  (2) The formula for the purposes of subsection (1)(b) is:CV increase × tax rate.
+  (2) The formula for the purposes of subsection (1)﻿(b) is:CV increase × tax rate.
   (3) In the formula in subsection (2),—
     (a) CV increase is the amount calculated under the formula in subsection (4), if it is positive:
     (b) tax rate is the basic rate set out in schedule 1, part D, clause 3 or 4 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
-  (4) The formula for the purposes of subsection (3)(a) is:CV current coupon payment− CV previous coupon payment.
+  (4) The formula for the purposes of subsection (3)﻿(a) is:CV current coupon payment − CV previous coupon payment.
   (5) In the formula in subsection (4),—
     (a) CV current coupon payment is an amount that is or will be payable for the money lent under the instrument, to the extent to which the amount has accrued at the time of the current coupon payment and the amount is determined by a fixed relationship to 1 or more indices of general price inflation in New Zealand:
     (b) CV previous coupon payment is—
@@ -1512,141 +1513,141 @@ After section RE 18, insert:Capital value increase under inflation-indexed instr
 
 ### 143 Section RF 2 amended (Non-resident passive income)
 (1) After section RF 2(1), insert:Inclusion: Capital value increase under inflation-indexed instruments
-  (1B) Non-resident passive income includes an amount, arising at the time of a relevant coupon payment (the current coupon payment) equal to the amount given by the formula in section RE 18B(4) (Capital value increase under inflation-indexed instruments: RWT cap) in relation to the current coupon payment, if that current coupon payment is––
+  (1B) Non-resident passive income includes an amount, arising at the time of a relevant coupon payment (the current coupon payment) equal to the amount given by the formula in section RE 18B(4) (Capital value increase under inflation-indexed instruments: RWT cap) in relation to the current coupon payment, if that current coupon payment is—
     (a) non-resident passive income under subsection (1); and
     (b) in relation to an inflation-indexed instrument.
-(2) After section RF 2(2)(a), insert:.
+(2) After section RF 2(2)﻿(a), insert:
   (b) interest arising because section EI 2 (Interest from inflation-indexed instruments) applies to an inflation-indexed instrument:
 (3) In section RF 2, in the list of defined terms, insert inflation-indexed instrument.
 
 ### 144 Section YA 1 amended (Definitions)
 (1) This section amends section YA 1.
-(2) Insert, in appropriate alphabetical order:.
+(2) Insert, in appropriate alphabetical order:
   - **12 month ASAP** —
-    (a) means an agreement for the sale and purchase of property or services (ASAP) for which an amount paid or payable for property or services is pre-paid (the prepayment) by reference to the rights date, and the prepayment is paid 12 months or more before the rights date, except if the prepayment is only––
+    (a) means an agreement for the sale and purchase of property or services (ASAP) for which an amount paid or payable for property or services is pre-paid (the prepayment) by reference to the rights date, and the prepayment is paid 12 months or more before the rights date, except if the prepayment is only—
       (i) a payment for progress made on either making or constructing property, or providing services:
       (ii) a deposit for property or services paid within the first 3 months of the ASAP that, when aggregated with all other deposits paid within those first 3 months, totals 10% or less of the amount paid or payable for property or services; and
-    (b) means an ASAP for which an amount paid or payable for property or services is delayed (the deferment) and the deferment is paid 12 months or more after the rights date, except if the deferment is only––
+    (b) means an ASAP for which an amount paid or payable for property or services is delayed (the deferment) and the deferment is paid 12 months or more after the rights date, except if the deferment is only—
       (i) an earnout amount based on business performance after the sale and purchase of property or services:
       (ii) an adjustment to the amount paid or payable for the property or service under a warranty:
       (iii) an adjustment to the amount paid or payable for the property or service on account of working capital
-(3) Replace the definition of accommodation with:.
+(3) Replace the definition of accommodation with:
   - **accommodation** ,—
     (a) in section CX 28 (Accommodation), includes the use of a house or living premises, or the use of part of a house or living premises, whether permanent or temporary:
     (b) is defined in section CE 1(2) for the purposes of sections CE 1B to CE 1E, CW 16B to CW 16F, CW 17CB, CZ 23, CZ 29, and CZ 30 (which relate to accommodation provided in connection with employment)
-(4) Insert, in appropriate alphabetical order:.
+(4) Insert, in appropriate alphabetical order:
   - **Canterbury earthquakes** is defined in section CZ 29(5) (Accommodation expenditure: Canterbury earthquake relief) for the purposes of that section
-(5) In the definition of capital contribution, in paragraph (a)(iii), replace CC 1B with CC 1B (Consideration relating to grant, renewal, extension, or transfer of leasehold estate or licence).
-(6) In the definition of charitable organisation, after paragraph (a), insert:.
+(5) In the definition of capital contribution, in paragraph (a)﻿(iii), replace CC 1B with CC 1B (Consideration relating to grant, renewal, extension, or transfer of leasehold estate or licence).
+(6) In the definition of charitable organisation, after paragraph (a), insert:
   (ab) includes a person who has been removed from the register of charitable entities (the register) under the Charities Act 2005, but only for the period starting on the day the person is registered on the register and ending on the earlier of the last day of the following periods:
     (i) the quarter, or income year if section RD 60 (Close company option) applies, in which the person does not comply with their rules contained in the register:
     (ii) the quarter, or income year if section RD 60 applies, in which the day of final decision falls; and
-(7) Insert, in appropriate alphabetical order:.
+(7) Insert, in appropriate alphabetical order:
   - **community housing entity** is defined in section CW 42B (Community housing trusts and companies)
-(8) Insert, in appropriate alphabetical order:.
-  - **day of final decision** means the later of––
+(8) Insert, in appropriate alphabetical order:
+  - **day of final decision** means the later of—
     (a) the day the relevant person is removed from the register of charitable entities under the Charities Act 2005:
     (b) the day on which all reasonably contemplated administrative appeals and Court proceedings, including appeal rights, are finalised or exhausted in relation to the person's charitable status
-(9) Insert, in appropriate alphabetical order:.
+(9) Insert, in appropriate alphabetical order:
   - **distant workplace** is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects) for the purposes of that section, the definition of , and sections CW 16C, CW 16E, CW 16F, CW 17CB, and CZ 29 (which relate to time limits for accommodation expenditure and the application of the rules to new employees)
 (10) In the definition of distinctive work clothing, replace that section with that section and section CW 17CC (Payment for distinctive work clothing).
-(11) In the definition of employee,—.
+(11) In the definition of employee,—
   (a) in paragraph (b), replace CW 17B, CW 17C, and CW 18 with and CW 17B to CW 18B:
   (b) after paragraph (ab), insert:
-  (ac) despite paragraph (a), in sections CE 1, CE 1B, and CW 16B to CW 16F (which relate to accommodation provided in connection with employment), includes an employee provided with accommodation or an accommodation payment as described in section CE 1(3)(a) (Amounts derived in connection with employment):
-(12) In the definition of employer, after paragraph (d), insert:.
-  (db) is defined in section CE 1(3)(a) (Amounts derived in connection with employment) for the purposes of that section and sections CE 1B, and CW 16B to CW 16F (which relate to accommodation provided in connection with employment)
+  (ac) despite paragraph (a), in sections CE 1, CE 1B, and CW 16B to CW 16F (which relate to accommodation provided in connection with employment), includes an employee provided with accommodation or an accommodation payment as described in section CE 1(3)﻿(a) (Amounts derived in connection with employment):
+(12) In the definition of employer, after paragraph (d), insert:
+  (db) is defined in section CE 1(3)﻿(a) (Amounts derived in connection with employment) for the purposes of that section and sections CE 1B, and CW 16B to CW 16F (which relate to accommodation provided in connection with employment)
 (13) In the definition of excluded fixed rate security, delete substituting debenture or.
-(14) Insert, in appropriate alphabetical order:.
+(14) Insert, in appropriate alphabetical order:
   - **financial liability** has the same meaning as in NZIAS 32
-(15) Insert, in appropriate alphabetical order:.
+(15) Insert, in appropriate alphabetical order:
   - **foreign account information-sharing agreement** means a double tax agreement that facilitates the exchange of information named Agreement between the Government of the United States of America and the Government of New Zealand to Improve International Tax Compliance and to Implement FATCA
-(16) Insert, in appropriate alphabetical order:.
+(16) Insert, in appropriate alphabetical order:
   - **foreign ASAP** means a financial arrangement that is an agreement for the sale and purchase of property or services and, at the time the ASAP is entered into 50% or more of the consideration in New Zealand dollars is in a foreign currency, measured using spot rates at that time
-(17) Insert, in appropriate alphabetical order:.
+(17) Insert, in appropriate alphabetical order:
   - **foreign crew of fishing vessels instructions** means the immigration instructions for foreign crew of fishing vessels, certified under section 22(1) of the Immigration Act 2009
-(18) Insert, in appropriate alphabetical order:.
+(18) Insert, in appropriate alphabetical order:
   - **FX hedge** means a financial arrangement that is a hedge of foreign exchange risk
-(19) Insert, in appropriate alphabetical order:.
+(19) Insert, in appropriate alphabetical order:
   - **greater Christchurch** is defined in section CZ 29(5) (Accommodation expenditure: Canterbury earthquake relief) for the purposes of that section
-(20) In the definition of hire purchase agreement, replace paragraph (a)(i) with:.
+(20) In the definition of hire purchase agreement, replace paragraph (a)﻿(i) with:
   (i) an agreement under which goods are let or hired with an option to purchase, however the agreement describes the payments:
-(21) In the definition of hire purchase agreement, in paragraph (d), replace (a) or (b) with (a)(i) or (a)(ii).
-(22) Insert, in appropriate alphabetical order:.
+(21) In the definition of hire purchase agreement, in paragraph (d), replace (a) or (b) with (a)﻿(i) or (a)﻿(ii).
+(22) Insert, in appropriate alphabetical order:
   - **IFRS designated FX hedge** means a FX hedge that is designated, under IFRS rules, as a hedge for a foreign ASAP for which section EW 32(2B) (Consideration for agreement for sale and purchase (ASAP) of property or services, hire purchase agreement, specified option, or finance lease) applies
-(23) Insert, in appropriate alphabetical order:.
+(23) Insert, in appropriate alphabetical order:
   - **inflation-indexed instrument** means an instrument under which a person lends money and an amount payable for the money lent is determined by a fixed relationship to 1 or more indices of general price inflation in New Zealand
-(24) In the definition of land provisions, after paragraph (b), insert:.
+(24) In the definition of land provisions, after paragraph (b), insert:
   (bba) section CC 1B (Consideration relating to grant, renewal, extension, or transfer of leasehold estate or licence):
   (bbab) section EE 67 (Other definitions):
-(25) In the definition of lease, in paragraph (d), replace subparagraph (v) with:.
+(25) In the definition of lease, in paragraph (d), replace subparagraph (v) with:
   (v) includes an arrangement for the leasing of a personal property lease asset to the lessee or an associated person under 2 or more consecutive or successive leases, treated for this purpose as 1 lease, if the entitlement of the lessee or associated person to each consecutive or successive lease is, when the lessee enters the arrangement, essentially unconditional or conditional on the payment of predetermined fees; and
-(26) In the definition of lease, replace paragraph (f) with:.
+(26) In the definition of lease, replace paragraph (f) with:
   (f) in the financial arrangements rules, means—
     (i) a lease as described in paragraph (d):
     (ii) an arrangement relating to property that is land, livestock, or bloodstock and that would be a lease as described in paragraph (d) if the property were a personal property lease asset:
     (iii) an occupation right agreement as defined in the Retirement Villages Act 2003
-(27) Insert, in appropriate alphabetical order:.
+(27) Insert, in appropriate alphabetical order:
   - **minister of religion** is defined in section CE 1E(6) (Exception: accommodation provided to ministers of religion) for the purposes of that section
 (28) In the definition of net asset balance, replace DG 11(7) with DG 11(7) (Interest expenditure: close companies).
-(29) Insert, in appropriate alphabetical order:.
+(29) Insert, in appropriate alphabetical order:
   - **net assets** is defined in section HR 12 (Non-exempt charities: taxation of tax-exempt accumulation) for the purposes of that section
-(30) Insert, in appropriate alphabetical order:.
-  - **non-IFRS designated FX hedge** means a forward contract for the sale or purchase of foreign currency––
+(30) Insert, in appropriate alphabetical order:
+  - **non-IFRS designated FX hedge** means a forward contract for the sale or purchase of foreign currency—
     (a) for which a person uses Determination G14B: forward contracts for foreign exchange and commodities: an expected value approach under the financial arrangements rules; and
-    (b) entered into by the person after the start of the first income year for which an election described in section EW 33B(2)(b) (Foreign ASAPs: designated FX hedges) applies; and
-    (c) entered into by the person for the sole purpose of hedging the foreign exchange risk of a foreign ASAP for which section EW 32(2C), (2D), or (2E) applies, and the person enters into the foreign ASAP after the start of the first income year for which an election described in section EW 33B(2)(b) applies
-(31) Insert, in appropriate alphabetical order:.
+    (b) entered into by the person after the start of the first income year for which an election described in section EW 33B(2)﻿(b) (Foreign ASAPs: designated FX hedges) applies; and
+    (c) entered into by the person for the sole purpose of hedging the foreign exchange risk of a foreign ASAP for which section EW 32(2C), (2D), or (2E) applies, and the person enters into the foreign ASAP after the start of the first income year for which an election described in section EW 33B(2)﻿(b) applies
+(31) Insert, in appropriate alphabetical order:
   - **non-resident owning body** is defined in section FE 4 (Some definitions)
-(32) Replace the definition of non-resident seasonal worker with:.
+(32) Replace the definition of non-resident seasonal worker with:
   - **non-resident seasonal worker** means a non-resident person for whom immigration instructions, certified under section 22 of the Immigration Act 2009, allow them to be employed in New Zealand under—
     (a) the recognised seasonal employer (RSE) instructions; or
     (b) the foreign crew of fishing vessels instructions
-(33) Insert, in appropriate alphabetical order:.
+(33) Insert, in appropriate alphabetical order:
   - **out-of-town secondment** is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects) for the purposes of that section and sections CW 16C, CW 16E, and CZ 29 (which relate to time limits for accommodation expenditure and the application of the rules to new employees)
-(34) Replace the definition of ownership interest with:.
+(34) Replace the definition of ownership interest with:
   - **ownership interest** , in a company,—
     (a) means—
       (i) a voting interest in the company determined by applying section YC 4(2) (Look-through rule for corporate shareholders):
       (ii) a market value interest in the company determined by applying section YC 4(5):
     (b) for the purposes of subpart FE (Interest apportionment on thin capitalisation), is measured under sections FE 38 to FE 41 (which provide for the measurement of ownership interests in companies)
-(35) Insert, in appropriate alphabetical order:.
+(35) Insert, in appropriate alphabetical order:
   - **period of continuous work** —
     (a) is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects) for the purposes of that section and sections CW 16C, CW 16D, and CZ 29 (which relate to certain employment and accommodation expenditure); and
     (b) is given an extended meaning in section CW 16D(4) (Accommodation expenditure: conferences and overnight stays) for the purposes of that section
-(36) Insert, in appropriate alphabetical order:.
+(36) Insert, in appropriate alphabetical order:
   - **project of limited duration** is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects) for the purposes of that section and sections CW 16C and CZ 29 (which relate to certain accommodation expenditure and the time limits applying to that expenditure)
-(37) Insert, in appropriate alphabetical order:.
+(37) Insert, in appropriate alphabetical order:
   - **real property** includes a permit as defined in the Crown Minerals Act 1991
-(38) Insert, in appropriate alphabetical order:.
+(38) Insert, in appropriate alphabetical order:
   - **rebuilding** is defined in section CZ 29(5) (Accommodation expenditure: Canterbury earthquake relief) for the purposes of that section
-(39) Replace the definition of recognised seasonal employment scheme with:.
+(39) Replace the definition of recognised seasonal employment scheme with:
   - **recognised seasonal employment scheme** means the recognised seasonal employer scheme described in immigration instructions certified under section 22(1) of the Immigration Act 2009
-(40) Replace the definition of recognised seasonal employment scheme with:.
+(40) Replace the definition of recognised seasonal employment scheme with:
   - **recognised seasonal employer (RSE) instructions** means the recognised seasonal employer (RSE) instructions, certified under section 22(1) of the Immigration Act 2009
-(41) Insert, in appropriate alphabetical order:.
+(41) Insert, in appropriate alphabetical order:
   - **recovery** is defined in section CZ 29(5) (Accommodation expenditure: Canterbury earthquake relief) for the purposes of that section
-(42) Insert, in appropriate alphabetical order:.
+(42) Insert, in appropriate alphabetical order:
   - **rights date** means, for an agreement for the sale and purchase of property or services, the date on which the first right in the property is transferred or the services are provided
 (43) Delete the definition of substituting debenture.
-(44) Insert, in appropriate alphabetical order:.
+(44) Insert, in appropriate alphabetical order:
   - **workplace** is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects) for the purposes of that section and sections CW 16C to CW 16F, CW 17CB, and CZ 29 (which relate to certain accommodation and employment expenditure)
 (45) Subsection (20) applies for the 2008–09 and later income years. However, subsection (20) does not apply to a person in relation to a tax position taken by them—
   (a) in the period from 1 April 2008 to the date of introduction of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Bill; and
   (b) relating to the application of the Goods and Services Tax Act 1985 to hire purchase agreements; and
   (c) relying on the provisions of the definition of hire purchase agreement as it was before the amendment made by subsection (20).
-(46) Subsections (2), (22), (30), and (42) apply for a financial arrangement entered into by a person––
+(46) Subsections (2), (22), (30), and (42) apply for a financial arrangement entered into by a person—
   (a) in the 2014–15 income year and later income years, unless paragraph (b) applies:
-  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and––
+  (b) in an income year (the first income year) and later income years, if the person files a return of income for the first income year on the basis that this section applies to a financial arrangement entered into in the first income year, and—
     (i) the first income year is the 2011–12, 2012–13, 2013–14, or 2014–15 income year; and
     (ii) the person uses IFRSs to prepare financial statements or to report for financial arrangements for the first income year.
-(47) Subsection (6) applies for a person––
+(47) Subsection (6) applies for a person—
   (a) for the 2014–15 and subsequent income years; and
   (b) for an income year before the 2014–15 income year, but only for the first income year and subsequent income years for which the person files a return of income on the basis that subsection (6) applies for the relevant income year.
 (48) Subsection (26) applies, for a person and an occupation right agreement, to an occupation right agreement entered by the person on or after 1 April 2015.
 (49) Subsections (3), (9), (10), (11), (12), (27), (35), (36), and (44) apply for the 2015–16 and later income years.
 (50) Subsections (4), (19), (38), and (41) apply for a person's income year that includes 4 September 2010 and for all later income years.
-(51) Subsections (13) and (43) do not apply, for an income year, to a debenture that a person is party to, if––
+(51) Subsections (13) and (43) do not apply, for an income year, to a debenture that a person is party to, if—
   (a) the debenture is issued under an arrangement entered into before 22 November 2013; and
   (b) a binding ruling on the application of section FA 2(5) was issued to the person in relation to the arrangement; and
   (c) the binding ruling would continue to apply but for the repeal of the substituting debenture rule by the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (the Act); and
@@ -1654,7 +1655,7 @@ After section RE 18, insert:Capital value increase under inflation-indexed instr
   (e) the person makes an irrevocable election in writing, received by the Commissioner on or before 31 July 2014, that the repeal of the substituting debenture rule in the Act does not apply to their debenture.
 
 ### 145 Section YB 11 amended (Trustee and person with power of appointment or removal)
-(1) In section YB 11(2), replace paragraph (b) with:.
+(1) In section YB 11(2), replace paragraph (b) with:
   (b) is subject to a professional code of conduct, and disciplinary process intended to enforce compliance with the code, of an approved organisation as that term is defined in section 3(1) of the Tax Administration Act 1994, for such providers of professional services; and
 (2) Subsection (1) applies for the purposes of—
   (a) provisions other than the land provisions, for the 2010–11 and later income years:
@@ -1666,11 +1667,11 @@ After section RE 18, insert:Capital value increase under inflation-indexed instr
 (2) In section YD 1, in the list of defined terms, replace recognised seasonal employment scheme with recognised seasonal employer (RSE) instructions.
 
 ### 147 Schedule 14 amended (Depreciable intangible property)
-(1) Replace schedule 14, item 10, with:“10a consent granted under the Resource Management Act 1991 to do something that otherwise would contravene sections 12 to 15B of that Act (other than a consent for a reclamation), being a consent granted in or after—“(a)the 1996–97 tax year, if the consent relates to sections 12 to 15 of that Act; or“(b)the 2014–15 income year, if the consent relates to sections 15A and 15B of that Act.”.
+(1) Replace schedule 14, item 10, with:The following table is small in size and has 3 columns. This table is an amendment to the table in Schedule 14 of the Income Tax Act 2007 and should be read with that table to provide understanding of the context.“10a consent granted under the Resource Management Act 1991 to do something that otherwise would contravene sections 12 to 15B of that Act (other than a consent for a reclamation), being a consent granted in or after—“(a)the 1996–97 tax year, if the consent relates to sections 12 to 15 of that Act; or“(b)the 2014–15 income year, if the consent relates to sections 15A and 15B of that Act.”
 (2) Subsection (1) applies for the 2014–15 and later income years.
 
 ### 148 Schedule 20 amended (Expenditure on farming, horticultural, aquacultural, and forestry improvements)
-(1) In schedule 20, parts A to G, column 3,––
+(1) In schedule 20, parts A to G, column 3,—
   (a) replace 6 with 5 in each place where it appears:
   (b) replace 12 with 10 in each place where it appears:
   (c) replace 24 with 20 in each place where it appears.
@@ -1686,49 +1687,49 @@ After section RE 18, insert:Capital value increase under inflation-indexed instr
 Sections 151 to 183 amend the Tax Administration Act 1994.
 
 ### 151 Section 3 amended (Interpretation)
-(1) In section 3(1), replace the definition of competent authority with:.
-  - **competent authority** ––
+(1) In section 3(1), replace the definition of competent authority with:
+  - **competent authority** —
     (a) has the meaning provided in a double tax agreement or in a tax recovery agreement; and
     (b) includes the Commissioner
-(2) In section 3(1), insert, in appropriate alphabetical order:.
+(2) In section 3(1), insert, in appropriate alphabetical order:
   - **foreign account information-sharing agreement** has the same meaning as in section YA 1 of the Income Tax Act 2007
-(3) In section 3(1), insert, in appropriate alphabetical order:.
+(3) In section 3(1), insert, in appropriate alphabetical order:
   - **inflation-indexed instrument** has the same meaning as in section YA 1 of the Income Tax Act 2007
-(4) In section 3(1), insert, in the appropriate alphabetical order:.
+(4) In section 3(1), insert, in the appropriate alphabetical order:
   - **non-resident seasonal worker** has the meaning given in section YA 1 of the Income Tax Act 2007
-(5) In section 3(1), insert, in appropriate alphabetical order:.
+(5) In section 3(1), insert, in appropriate alphabetical order:
   - **relief company** means, in relation to a taxpayer, a company in which—
     (a) the taxpayer owns 50% or more of the shares:
     (b) the taxpayer and 1 other person jointly own 50% or more of the shares:
     (c) the taxpayer is a shareholder-employee, and the company satisfies paragraphs (a) and (c) of the definition of close company in section YA 1 of the Income Tax Act 2007
-(6) In section 3(1), replace the definition of tax return with:.
-  - **tax return––**
+(6) In section 3(1), replace the definition of tax return with:
+  - **tax return—**
     (a) means a form or document that a taxpayer is required to complete and return to the Commissioner, whether in electronic or written form and whether provided in relation to a period or not; and
     (b) includes a tax form issued by another taxpayer that the taxpayer provides to the Commissioner; but
     (c) does not include the prescribed form or electronic format under section 185K
 
 ### 152 Section 22 amended (Keeping of business and other records)
-After section 22(2)(lb), insert:.
+After section 22(2)﻿(lb), insert:
   (lc) the person’s compliance with Part 11B; and
 
 ### 153 Section 25 amended (RWT withholding certificates)
-In section 25(6)(d)(iii), replace rate. with rate; and, and after section 25(6)(d), insert:
-  (e) if, for an inflation-indexed instrument, the recipient derives an interest payment for which RWT is capped by the application of section RE 18B(1)(a) of the Income Tax Act 2007,—
+In section 25(6)﻿(d)﻿(iii), replace rate. with rate; and, and after section 25(6)﻿(d), insert:
+  (e) if, for an inflation-indexed instrument, the recipient derives an interest payment for which RWT is capped by the application of section RE 18B(1)﻿(a) of the Income Tax Act 2007,—
     (i) a statement to that effect; and
     (ii) a statement that the recipient may be required to file a return of income.
 
 ### 154 Section 33A amended (Annual returns of income not required)
 (1) In section 33A(1B), delete employed under the recognised seasonal employment scheme.
-(2) After section 33A(2)(h), insert:
-  (i) for an inflation-indexed instrument, derives an interest payment for which RWT is capped by the application of section RE 18B(1)(a) of the Income Tax Act 2007.
+(2) After section 33A(2)﻿(h), insert:
+  (i) for an inflation-indexed instrument, derives an interest payment for which RWT is capped by the application of section RE 18B(1)﻿(a) of the Income Tax Act 2007.
 
 ### 155 Section 33AA amended (Exceptions to requirement for return of income)
-After section 33AA(1)(l), insert:.
-  (lb) for an inflation-indexed instrument, derives no interest payment for which RWT is capped by the application of section RE 18B(1)(a) of the Income Tax Act 2007; and
+After section 33AA(1)﻿(l), insert:
+  (lb) for an inflation-indexed instrument, derives no interest payment for which RWT is capped by the application of section RE 18B(1)﻿(a) of the Income Tax Act 2007; and
 
 ### 156 Section 51 amended (RWT withholding reconciliation statements)
-After section 51(2)(f), insert:.
-  (g) if, for an inflation-indexed instrument, the recipient derives an interest payment for which RWT is capped by the application of section RE 18B(1)(a) of the Income Tax Act 2007, a statement to that effect; and
+After section 51(2)﻿(f), insert:
+  (g) if, for an inflation-indexed instrument, the recipient derives an interest payment for which RWT is capped by the application of section RE 18B(1)﻿(a) of the Income Tax Act 2007, a statement to that effect; and
 
 ### 157 Section 81A amended (Disclosure of information under approved information sharing agreement)
 In section 81A, replace in force. with in force. The information sharing agreement may extend a restricted information sharing provision in this Act, as contemplated by the Privacy Act 1993, without further authority than this section.
@@ -1746,46 +1747,46 @@ After section 91AAS, insert:Determinations relating to certain employment expend
     (b) states where copies of the determination can be obtained.
 
 ### 159 Section 93 amended (Assessment of FBT)
-In section 93(2)(b), replace sections 109, 111, and 113 with sections 111 and 113.
+In section 93(2)﻿(b), replace sections 109, 111, and 113 with sections 111 and 113.
 
 ### 160 Section 94 amended (Assessment of qualifying company election tax and additional tax)
-(1) In section 94(2)(b), replace sections 109, 111, and 113 with sections 111 and 113.
-(2) In section 94(2)(c), replace income tax with amount assessed.
+(1) In section 94(2)﻿(b), replace sections 109, 111, and 113 with sections 111 and 113.
+(2) In section 94(2)﻿(c), replace income tax with amount assessed.
 
 ### 161 Section 95 amended (Assessment of withdrawal tax)
-In section 95(2)(b), replace sections 109, 111, and 113 with sections 111 and 113.
+In section 95(2)﻿(b), replace sections 109, 111, and 113 with sections 111 and 113.
 
 ### 162 Section 97 amended (Assessment of imputation penalty tax)
-In section 97(3)(a), replace those sections with sections 111 and 113.
+In section 97(3)﻿(a), replace those sections with sections 111 and 113.
 
 ### 163 Section 97B amended (Assessment of Maori authority distribution penalty tax)
-In section 97B(3)(a), replace those sections with sections 111 and 113.
+In section 97B(3)﻿(a), replace those sections with sections 111 and 113.
 
 ### 164 Section 98 amended (Assessment of ESCT)
-In section 98(2)(a), replace those sections with sections 111 and 113.
+In section 98(2)﻿(a), replace those sections with sections 111 and 113.
 
 ### 165 Section 98B amended (Assessment of retirement scheme contribution withholding tax)
-In section 98B(3)(a), replace those sections with sections 111 and 113.
+In section 98B(3)﻿(a), replace those sections with sections 111 and 113.
 
 ### 166 Section 99 amended (Assessment of RWT)
-(1) In section 99(2)(a), replace income tax for any year with amount assessed.
-(2) In section 99(2)(b), replace sections 109, 111, and 113 with sections 111 and 113.
+(1) In section 99(2)﻿(a), replace income tax for any year with amount assessed.
+(2) In section 99(2)﻿(b), replace sections 109, 111, and 113 with sections 111 and 113.
 
 ### 167 Section 100 amended (Assessment of NRWT)
-In section 100(3)(b), replace sections 109, 111, and 113 with sections 111 and 113.
+In section 100(3)﻿(b), replace sections 109, 111, and 113 with sections 111 and 113.
 
 ### 168 Section 101 amended (Assessment of further income tax)
-In section 101(2)(a), replace those sections with sections 111 and 113.
+In section 101(2)﻿(a), replace those sections with sections 111 and 113.
 
 ### 169 Section 101B amended (Assessment of imputation additional tax)
-In section 101B(2)(a), replace those sections with sections 111 and 113.
+In section 101B(2)﻿(a), replace those sections with sections 111 and 113.
 
 ### 170 Section 141B amended (Unacceptable tax position)
 (1) In section 141B(2), replace income tax with income tax as defined in section YA 1 of the Income Tax Act 2007, but ignoring the effect of section RA 2 of that Act,.
 (2) Subsection (1) applies for tax positions taken on or after 1 April 2008.
 
 ### 171 Section 141EB amended (Promoter penalties)
-(1) In section 141EB(3),––
+(1) In section 141EB(3),—
   (a) replace shareholders of a loss-attributing qualifying company with owners of an effective look-through interest for a look-through company (the LTC); and
   (b) replace the loss-attributing qualifying company with the LTC.
 (2) Subsection (1) applies for income years starting on or after 1 April 2011.
@@ -1796,20 +1797,20 @@ In section 101B(2)(a), replace those sections with sections 111 and 113.
 
 ### 173 Section 142A amended (New due date for payment of tax that is not a penalty)
 (1) In section 142A(1), replace the words before paragraph (a) with This section applies if the Commissioner makes for a taxpayer, other than by an assessment (an electronic default assessment) made in the absence of a return and to which section 106(2) applies,—.
-(2) Replace section 142A(1)(a) with:.
+(2) Replace section 142A(1)﻿(a) with:
   (a) an assessment (the new assessment) of tax for the taxpayer, if the taxpayer has not been assessed earlier for the tax, except by an electronic default assessment:
-(3) Insert in section 142A(1)(b), before subparagraph (i),—.
+(3) Insert in section 142A(1)﻿(b), before subparagraph (i),—
   (ia) to which paragraph (a) does not apply; and
-(4) Repeal section 142A(3)(ab).
+(4) Repeal section 142A(3)﻿(ab).
 
 ### 174 Section 143 amended (Absolute liability offences)
-(1) After section 143(1)(a), insert:.
+(1) After section 143(1)﻿(a), insert:
   (ab) fails to register with a foreign government agency as required by Part 11B; or
 (2) After section 143(2), insert:
-  (2B) No person may be convicted of an offence against subsection (1)(ab) if the relevant failure to register occurred through no fault of the person.
+  (2B) No person may be convicted of an offence against subsection (1)﻿(ab) if the relevant failure to register occurred through no fault of the person.
 
 ### 175 Section 143A amended (Knowledge offences)
-After section 143A(1)(a), insert:.
+After section 143A(1)﻿(a), insert:
   (ab) knowingly fails to register with a foreign government agency as required by Part 11B; or
 
 ### 176 Section 173B amended (Definitions)
@@ -1817,10 +1818,10 @@ In section 173B, delete the definition of competent authority.
 
 ### 177 Section 176 amended (Recovery of tax by Commissioner)
 After section 176(2), insert:
-  (3) Despite subsection (2)(b), the Commissioner may take steps preparatory to, or necessary to, bankrupt the taxpayer, including debt proceedings in the District Court or the High Court.
+  (3) Despite subsection (2)﻿(b), the Commissioner may take steps preparatory to, or necessary to, bankrupt the taxpayer, including debt proceedings in the District Court or the High Court.
 
 ### 178 Section 177 amended (Taxpayer may apply for financial relief)
-(1) In section 177(1)(a), replace outstanding tax would place the taxpayer with the taxpayer's outstanding tax or a relief company's outstanding tax would place the taxpayer, being a natural person,.
+(1) In section 177(1)﻿(a), replace outstanding tax would place the taxpayer with the taxpayer's outstanding tax or a relief company's outstanding tax would place the taxpayer, being a natural person,.
 (2) Replace section 177(1B) with:
   (1B) For the purposes of this section, the Commissioner must consider the taxpayer's financial position at the date on which the application for financial relief is made.
 
@@ -1831,9 +1832,9 @@ Replace section 177A with:How to apply serious hardship provisions
     (b) for the purposes of section 177, the Commissioner may accept the taxpayer's request for financial relief on the basis of a claim that recovery of the taxpayer's outstanding tax or a relief company's outstanding tax would place the taxpayer, being a natural person, in serious hardship:
     (c) for the purposes of section 177B, an instalment arrangement entered into by a taxpayer or a relief company would place the taxpayer, being a natural person, in serious hardship:
     (d) for the purposes of section 177C, recovery of the outstanding tax would place the taxpayer, being a natural person, in serious hardship.
-  (2) The Commissioner makes a decision under this section by determining whether financial information, after allowing for payment of a relevant amount of outstanding tax, and subject to subsections (3) and (4), shows that the taxpayer would, after the application under section 177 (the application), likely have significant financial difficulties because, after the application,––
+  (2) The Commissioner makes a decision under this section by determining whether financial information, after allowing for payment of a relevant amount of outstanding tax, and subject to subsections (3) and (4), shows that the taxpayer would, after the application under section 177 (the application), likely have significant financial difficulties because, after the application,—
     (a) the taxpayer or their dependant has a serious illness:
-    (b) the taxpayer would likely be unable to meet––
+    (b) the taxpayer would likely be unable to meet—
       (i) minimum living expenses estimated according to normal community standards of cost and quality:
       (ii) the cost of medical treatment for an illness or injury of the taxpayer, or of their dependant:
       (iii) the cost of education for their dependant:
@@ -1847,13 +1848,13 @@ In section 177B(1), replace a taxpayer to the extent that the arrangement would 
 ### 181 Section 177C amended (Write-off of tax by Commissioner)
 (1) After section 177C(1), insert:
   (1BA) The Commissioner may use, as a ground for deciding whether or not to write off the outstanding tax of a taxpayer or of a relief company, the basis that recovery of the outstanding tax would place the taxpayer, being a natural person, in serious hardship. The Commissioner is not required to write off the outstanding tax if the ground exists.
-(2) In section 177C(7)(a) replace was written off with was written off is a natural person who.
-(3) In section 177C(7)(b) replace company with relief company.
+(2) In section 177C(7)﻿(a) replace was written off with was written off is a natural person who.
+(3) In section 177C(7)﻿(b) replace company with relief company.
 
 ### 182 New Part 11B inserted (Foreign account information-sharing agreements)
 After Part 11, insert:Foreign account information-sharing agreementsPurposePermitted choices in relation to foreign account information-sharing agreementsObligations related to foreign account information-sharing agreements: registrationObligations related to foreign account information-sharing agreements: due diligenceObligations related to foreign account information-sharing agreements: information for NZ competent authorityObligations related to foreign account information-sharing agreements: information for third partiesInformation provided in form prescribed by CommissionerForeign account information-sharing agreements: anti-avoidanceTimeframes not specified
   The purpose of this Part is to give effect to and implement foreign account information-sharing agreements.
-  (1) This section applies for a person, as described in a foreign account information-sharing agreement (the agreement), if––
+  (1) This section applies for a person, as described in a foreign account information-sharing agreement (the agreement), if—
     (a) the agreement describes or contemplates a choice or a course of action or inaction (a permitted choice) in relation to them:
     (b) a choice made by the New Zealand government under the agreement allows, as described or contemplated in the agreement, the person a permitted choice.
   (2) The person is authorised to make, do, or not do, as described or contemplated by the agreement, the permitted choice, and to do or not do anything necessarily incidental to giving effect to the permitted choice.
@@ -1871,22 +1872,22 @@ After Part 11, insert:Foreign account information-sharing agreementsPurposePermi
   (1) A person, as described in a foreign account information-sharing agreement (the agreement), must obtain and provide information to the New Zealand competent authority if that information and its providing and obtaining is described or contemplated in the agreement in relation to the person, and including obtaining and providing—
     (a) the information that the New Zealand competent authority is obliged to obtain and exchange with a foreign competent authority:
     (b) other information that the person is authorised to obtain and provide to the New Zealand competent authority.
-  (2) Information described in subsection (1) must be obtained and provided in accordance with––
+  (2) Information described in subsection (1) must be obtained and provided in accordance with—
     (a) the agreement; and
     (b) regulations made by Order in Council by the Governor-General for the purposes of this Part under section 224.
   (1) A person, as described in a foreign account information-sharing agreement (the agreement), must obtain and provide information to a foreign competent authority if that information and its providing and obtaining is described or contemplated in the agreement in relation to the person, and it is validly requested from the person by the foreign competent authority.
   (2) A person, as described in the agreement, must obtain and provide information to a third party if that information and its providing and obtaining is described or contemplated in the agreement in relation to the person, and the person is authorised to obtain and provide it to the third party (for example: an agreement may contemplate a choice to provide certain information to a third party. If the person chooses to provide that information, section 185F applies to authorise that choice. The person would then have to provide that information to the third party in accordance with their choice and the agreement).
-  (3) Information described in subsections (1) and (2) must be obtained and provided in accordance with––
+  (3) Information described in subsections (1) and (2) must be obtained and provided in accordance with—
     (a) the agreement; and
     (b) regulations made by Order in Council by the Governor-General for the purposes of this Part under section 224.
-  The information in section 185I(1)(a) and (b) must be provided to the New Zealand competent authority in the prescribed form or electronic format.
+  The information in section 185I(1)﻿(a) and (b) must be provided to the New Zealand competent authority in the prescribed form or electronic format.
   If a person enters into an arrangement, and a main purpose of the person in entering into the arrangement is to avoid an obligation under this Part, then the arrangement is treated as having no effect for the purposes of applying this Part.
-  (1) If an instrument described in section 185I(2)(a) and (b) does not specify, or is discretionary as to, the period to which the information in section 185I(1)(a) and (b) must relate, then the information must relate to a tax year.
-  (2) If an instrument described in section 185I(2)(a) and (b) does not specify, or is discretionary as to, a time when the information in section 185I(1)(a) and (b) must be provided, then the information must be provided within 3 months of the end of the period that the information relates to.
+  (1) If an instrument described in section 185I(2)﻿(a) and (b) does not specify, or is discretionary as to, the period to which the information in section 185I(1)﻿(a) and (b) must relate, then the information must relate to a tax year.
+  (2) If an instrument described in section 185I(2)﻿(a) and (b) does not specify, or is discretionary as to, a time when the information in section 185I(1)﻿(a) and (b) must be provided, then the information must be provided within 3 months of the end of the period that the information relates to.
 
 ### 183 New section 225D inserted (Regulations: community housing trusts and companies)
 After section 225C, insert:Regulations: community housing trusts and companies
-  (1) The Governor-General may, from time to time, by Order in Council make regulations, on the combined recommendation of the Minister of Revenue and the Minister for Housing, specifying persons or classes of person, using all, some, or a combination of all or some, of the factors listed in subsection (2), that are counted as beneficiaries or clients, as the case may be, of entities for the purposes of section CW 42B(3)(a) of the Income Tax Act 2007.
+  (1) The Governor-General may, from time to time, by Order in Council make regulations, on the combined recommendation of the Minister of Revenue and the Minister for Housing, specifying persons or classes of person, using all, some, or a combination of all or some, of the factors listed in subsection (2), that are counted as beneficiaries or clients, as the case may be, of entities for the purposes of section CW 42B(3)﻿(a) of the Income Tax Act 2007.
   (2) The factors that may be used to specify persons or classes of persons for the purposes of subsection (1) are—
     (a) geographic location of persons in New Zealand:
     (b) the composition of households persons live in:
@@ -1898,11 +1899,11 @@ After section 225C, insert:Regulations: community housing trusts and companies
 Sections 185 to 195 amend the Goods and Services Tax Act 1985.
 
 ### 185 Section 2 amended (Interpretation)
-(1) In section 2(1), in the definition of commercial dwelling, replace paragraph (b)(ii) with:.
-  (ii) a dwelling referred to in paragraph (b)(iii) of the definition of dwelling:
-(2) In section 2(1), in the definition of dwelling, in paragraph (b)(ii), replace the premises; and with the premises: and insert:.
-  (iii) despite paragraph (a)(ii), a residential unit in a retirement village or rest home when the consideration paid or payable for the supply of accommodation in the unit is for the right to occupy the unit; and
-(3) In section 2(1), in the definition of resident, after paragraph (b), insert:.
+(1) In section 2(1), in the definition of commercial dwelling, replace paragraph (b)﻿(ii) with:
+  (ii) a dwelling referred to in paragraph (b)﻿(iii) of the definition of dwelling:
+(2) In section 2(1), in the definition of dwelling, in paragraph (b)﻿(ii), replace the premises; and with the premises: and insert:
+  (iii) despite paragraph (a)﻿(ii), a residential unit in a retirement village or rest home when the consideration paid or payable for the supply of accommodation in the unit is for the right to occupy the unit; and
+(3) In section 2(1), in the definition of resident, after paragraph (b), insert:
   (c) the effect of the rules in section YD 1(4) and (6) of that Act are ignored in determining the residence or non-residence of a natural person, and residence is treated as—
     (i) starting on the day immediately following the relevant day that triggers residence under section YD 1(3) of that Act; or
     (ii) ending on the day immediately following the relevant day that triggers non-residence under section YD 1(5) of that Act
@@ -1915,36 +1916,36 @@ Sections 185 to 195 amend the Goods and Services Tax Act 1985.
 In section 3(2), in the definition of life insurance contract, replace Schedule 1, Part 5 of the Accident Insurance Act 1998 with Schedule 1, Part 4 of the Accident Compensation Act 2001.
 
 ### 187 Section 6 amended (Meaning of term taxable activity)
-(1) In section 6(3)(b),—
+(1) In section 6(3)﻿(b),—
   (a) replace director of a company: with director of a company, subject to subsection (4); or:
   (b) repeal the proviso.
-(2) In section 6(3)(c)(iii), replace other body with other body, subject to subsection (4).
+(2) In section 6(3)﻿(c)﻿(iii), replace other body with other body, subject to subsection (4).
 (3) After section 6(3), insert:
-  (4) Despite subsection (3)(b) and (c)(iii), if a director, member, or other person referred to in those paragraphs is paid a fee or another amount in relation to their engagement, occupation, or employment in circumstances in which they are required to account for the payment to their employer, the payment is treated as consideration for a supply of services by the employer to the person who made the payment to the director, member, or other person.
-  (5) For the purposes of subsections (3)(b), (c)(iii), and (4), if a person in carrying on a taxable activity, accepts an office, any services supplied by that person as holder of that office are deemed to be supplied in the course or furtherance of that taxable activity.
+  (4) Despite subsection (3)﻿(b) and (c)﻿(iii), if a director, member, or other person referred to in those paragraphs is paid a fee or another amount in relation to their engagement, occupation, or employment in circumstances in which they are required to account for the payment to their employer, the payment is treated as consideration for a supply of services by the employer to the person who made the payment to the director, member, or other person.
+  (5) For the purposes of subsections (3)﻿(b), (c)﻿(iii), and (4), if a person in carrying on a taxable activity, accepts an office, any services supplied by that person as holder of that office are deemed to be supplied in the course or furtherance of that taxable activity.
 
 ### 188 Section 11 amended (Zero-rating of goods)
-(1) In section 11(1)(p)(ii), replace is not registered with not a registered person.
+(1) In section 11(1)﻿(p)﻿(ii), replace is not registered with not a registered person.
 (2) In section 11(8D),—
-  (a) in paragraph (a), replace chargeable with tax at 0% with under subsection (1)(mb) if it meets the requirements set out in that subsection:
-  (b) in the introductory words in paragraph (b), replace chargeable with tax at 0% with under subsection (1)(mb), despite meeting the requirements set out in that subsection:
-  (c) in paragraph (b)(ii), replace an amount is paid or payable under the agreement for the supply in advance of, or contemporaneously with, the supply being made, that with for an amount paid or payable under the agreement for the supply in advance of, or contemporaneously with, the supply being made, the payment.
-(3) In section 11(8D)(b)(ii)(C), replace under the agreement. with under the agreement:, and insert:
-  (c) a supply of an interest in land by way of a procurement by a third party of an existing lease is a supply under subsection (1)(mb) if it meets the requirements set out in that subsection.
+  (a) in paragraph (a), replace chargeable with tax at 0% with under subsection (1)﻿(mb) if it meets the requirements set out in that subsection:
+  (b) in the introductory words in paragraph (b), replace chargeable with tax at 0% with under subsection (1)﻿(mb), despite meeting the requirements set out in that subsection:
+  (c) in paragraph (b)﻿(ii), replace an amount is paid or payable under the agreement for the supply in advance of, or contemporaneously with, the supply being made, that with for an amount paid or payable under the agreement for the supply in advance of, or contemporaneously with, the supply being made, the payment.
+(3) In section 11(8D)﻿(b)﻿(ii)﻿(C), replace under the agreement. with under the agreement:, and insert:
+  (c) a supply of an interest in land by way of a procurement by a third party of an existing lease is a supply under subsection (1)﻿(mb) if it meets the requirements set out in that subsection.
 (4) Subsection (2) applies to supplies made on or after 1 April 2011.
 
 ### 189 Section 11A amended (Zero-rating of services)
-(1) After section 11A(1)(m), insert:.
+(1) After section 11A(1)﻿(m), insert:
   (maa) the services are supplied—
-    (i) directly in connection with goods, the supply of which is subject to section 11(1)(p); and
+    (i) directly in connection with goods, the supply of which is subject to section 11(1)﻿(p); and
     (ii) to a recipient who, when the services are performed, is a non-resident and not a registered person; or
 (2) After section 11A(3), insert:
-  (3B) For the purpose of subsection (1)(k), outside New Zealand, for a natural person, includes a minor presence in New Zealand that is not directly in connection with the supply.
+  (3B) For the purpose of subsection (1)﻿(k), outside New Zealand, for a natural person, includes a minor presence in New Zealand that is not directly in connection with the supply.
 
 ### 190 Section 20 amended (Calculation of tax payable)
 (1) In section 20(3K), replace (3C), with (3C), and the definitions of percentage actual use and percentage intended use in section 21G(1),.
 (2) After section 20(3L), insert:
-  (3LB) Subsection (3LC) applies for the purposes of subsection (3) and despite subsection (3L), when a non-resident person who is registered under section 54B has paid tax under section 12(1) in relation to the importation of goods. However, subsection (3LC) does not apply if the non-resident person––
+  (3LB) Subsection (3LC) applies for the purposes of subsection (3) and despite subsection (3L), when a non-resident person who is registered under section 54B has paid tax under section 12(1) in relation to the importation of goods. However, subsection (3LC) does not apply if the non-resident person—
     (a) is the person in New Zealand who receives the goods; and
     (b) is not delivering the goods to another person in New Zealand.
   (3LC) The recipient of the goods in New Zealand is treated as having paid the tax required to be paid under section 12(1), and the non-resident person is treated as not having paid the tax.
@@ -1959,11 +1960,11 @@ After section 21F, insert:Treatment when use changes to total taxable or non-tax
     (c) the total taxable use or non-taxable use remains unchanged for an unbroken period that is—
       (i) the remainder of the adjustment period in which the use was changed; and
       (ii) the adjustment period following the period in which the use was changed.
-  (2) If the use changes to total taxable use, the person's adjustment for the adjustment period referred to in subsection (1)(c)(ii) is an amount of input tax calculated using the formula—full input tax deduction − actual deduction.
+  (2) If the use changes to total taxable use, the person's adjustment for the adjustment period referred to in subsection (1)﻿(c)﻿(ii) is an amount of input tax calculated using the formula—full input tax deduction − actual deduction.
   (3) In the formula,—
-    (a) full input tax deduction is the total amount of input tax on the supply, after taking into account any nominal GST component chargeable under section 20(3J)(a)(i):
-    (b) actual deduction is the amount of deduction already claimed, taking into account adjustments made up to the end of the adjustment period referred to in subsection (1)(c)(ii).
-  (4) If the use changes to total non-taxable use, the person's adjustment for the adjustment period referred to in subsection (1)(c)(ii) is an amount of output tax that is equal to the amount of the person's actual deduction as described in subsection (3)(b).
+    (a) full input tax deduction is the total amount of input tax on the supply, after taking into account any nominal GST component chargeable under section 20(3J)﻿(a)﻿(i):
+    (b) actual deduction is the amount of deduction already claimed, taking into account adjustments made up to the end of the adjustment period referred to in subsection (1)﻿(c)﻿(ii).
+  (4) If the use changes to total non-taxable use, the person's adjustment for the adjustment period referred to in subsection (1)﻿(c)﻿(ii) is an amount of output tax that is equal to the amount of the person's actual deduction as described in subsection (3)﻿(b).
 
 ### 192 Section 21HB amended (Transitional rule related to treatment of dwellings)
 (1) In section 21HB, in the heading replace rule with rules.
@@ -1972,7 +1973,7 @@ After section 21F, insert:Treatment when use changes to total taxable or non-tax
   (b) replace acquired or produced before 1 April 2011 with acquired or produced in the period between 1 October 1986 and 1 April 2011.
 (3) After section 21HB(3), insert:
   (4) A person who is required to treat a dwelling as a commercial dwelling because of the amendments to the definitions of commercial dwelling and dwelling made by section 4(3) and (4) of the Taxation (GST and Remedial Matters) Act 2010 may choose not to treat a supply of accommodation in a dwelling affected by the amendments as a taxable supply.
-  (5) Subsection (4) does not apply if the total value of the person's supplies of accommodation in dwellings affected by the amendments exceeds the threshold set out in section 51(1)(a).
+  (5) Subsection (4) does not apply if the total value of the person's supplies of accommodation in dwellings affected by the amendments exceeds the threshold set out in section 51(1)﻿(a).
 (4) After section 21HB(5), insert:
   (6) Subsection (7) applies to a person who—
     (a) is required to treat a dwelling as a commercial dwelling because of the amendments to the definitions of commercial dwelling and dwelling made by section 4(3) and (4) of the Taxation (GST and Remedial Matters) Act 2010; and
@@ -1991,8 +1992,8 @@ In section 25(4), replace “paragraphs (a), (aa), (b)” with “paragraphs (a)
 In section 46(1B), replace when a registered person is non-resident, with for a non-resident person who is registered under section 54B,.
 
 ### 195 Section 54C amended (Non-residents: cancellation of registration)
-(1) In section 54C(3)(a), replace the first day of the third period with the last day of the second period.
-(2) In section 54C(3)(b), replace apply to become a registered person again with apply again for registration under section 54B.
+(1) In section 54C(3)﻿(a), replace the first day of the third period with the last day of the second period.
+(2) In section 54C(3)﻿(b), replace apply to become a registered person again with apply again for registration under section 54B.
 
 ### 196 Income Tax Act 2004 amended
 Sections 197 to 204 amend the Income Tax Act 2004.
@@ -2015,40 +2016,40 @@ Sections 197 to 204 amend the Income Tax Act 2004.
 (2) Subsection (1) applies for the 2005–06 and later income years.
 
 ### 200 Section EG 1 amended (Election to use balance date used in foreign country)
-(1) In section EG 1(6), replace A person who has made an election is treated as making the same election for all later income years with An election made by a person under subsection (2) applies for the income year referred to in subsection (1)(c) and all later income years.
+(1) In section EG 1(6), replace A person who has made an election is treated as making the same election for all later income years with An election made by a person under subsection (2) applies for the income year referred to in subsection (1)﻿(c) and all later income years.
 (2) Subsection (1) applies for the 2005–06 and later income years.
 
 ### 201 Section EX 5 amended (Direct control interests)
-(1) Replace section EX 5(1)(c) with:.
+(1) Replace section EX 5(1)﻿(c) with:
   (c) a right to—
     (i) receive any income of the company for the accounting period in which the time falls; or
     (ii) have the income of the company for the accounting period in which the time falls dealt with in their interest or on their behalf:
-(2) Replace section EX 5(1)(d) with:
+(2) Replace section EX 5(1)﻿(d) with:
   (d) a right to—
     (i) receive any of the value of the net assets of the company, if they are distributed; or
     (ii) have the net value of the assets, if they are distributed, dealt with in their interest or on their behalf.
 (3) Subsections (1) and (2) apply for the 2005–06 and later income years.
 
 ### 202 Section EX 9 amended (Direct income interests)
-(1) Replace section EX 9(1)(c) with:.
+(1) Replace section EX 9(1)﻿(c) with:
   (c) a right to—
     (i) receive any income of the company for the accounting period in which the time falls; or
     (ii) have the income of the company for the accounting period in which the time falls dealt with in their interest or on their behalf:
-(2) Replace section EX 9(1)(d) with:
+(2) Replace section EX 9(1)﻿(d) with:
   (d) a right to—
     (i) receive any of the value of the net assets of the company, if they are distributed; or
     (ii) have the net value of the assets, if they are distributed, dealt with in their interest or on their behalf.
 (3) Subsections (1) and (2) apply for the 2005–06 and later income years.
 
 ### 203 Section EX 44 amended (Comparative value method)
-(1) Replace section EX 44(6)(a) with:.
+(1) Replace section EX 44(6)﻿(a) with:
   (a) all expenditure, if any, that—
     (i) the person incurs in acquiring or increasing the interest:
     (ii) another person incurs on behalf of the person referred to in subparagraph (i) in relation to the interest:
 (2) Subsection (1) applies for the 2005–06 and later income years.
 
 ### 204 Section OB 1 amended (Definitions)
-(1) In section OB 1, in the definition of hire purchase agreement, replace paragraph (a) with:.
+(1) In section OB 1, in the definition of hire purchase agreement, replace paragraph (a) with:
   (a) an agreement under which goods are let or hired with an option to purchase, however the agreement describes the payments; and
 (2) Subsection (1) applies for the 2005–06 and later income years. However, subsection (1) does not apply to a person in relation to a tax position taken by them—
   (a) in the period from 1 April 2005 to the date of introduction of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Bill; and
@@ -2062,7 +2063,7 @@ Sections 206 to 215 amend the Child Support Act 1991.
 In section 2(1), repeal the definition of election period.
 
 ### 207 Section 9 amended (Social security beneficiaries must apply for formula assessment)
-In section 9(1)(c), replace is not with is not already.
+In section 9(1)﻿(c), replace is not with is not already.
 
 ### 208 Section 40 amended (Estimated taxable income)
 (1) In section 40(1), replace notice to the Commissioner with notice to the Commissioner given before or during a child support year.
@@ -2071,9 +2072,9 @@ In section 9(1)(c), replace is not with is not already.
 ### 209 Section 44 amended (End-of-year reconciliation)
 Replace section 44(2) with:
   (2) The income amount to be used for the assessment is,—
-    (a) if the actual taxable income earned by the person during the year is equal to or less than the year-to-date income specified in the notice of election, the value of any adjustments made under section 41(1)(b); or
+    (a) if the actual taxable income earned by the person during the year is equal to or less than the year-to-date income specified in the notice of election, the value of any adjustments made under section 41(1)﻿(b); or
     (b) if the actual taxable income earned by the person during the year is more than the year-to-date income specified in the notice of election, the lesser of the following:
-      (i) the person's actual taxable income earned in the election period (which is the actual taxable income earned in the full year less the year-to-date income specified in a notice of election), annualised in accordance with the formula in subsection (3) (which gives the annualised actual taxable income in the election period), and adjusted in accordance with section 41(1)(b):
+      (i) the person's actual taxable income earned in the election period (which is the actual taxable income earned in the full year less the year-to-date income specified in a notice of election), annualised in accordance with the formula in subsection (3) (which gives the annualised actual taxable income in the election period), and adjusted in accordance with section 41(1)﻿(b):
       (ii) the person's original adjusted taxable income.
 
 ### 210 Section 65 amended (Child support voluntary agreement no bar to application for formula assessment)
@@ -2092,9 +2093,9 @@ Repeal section 92(3A).
 ### 213 Section 98 amended (Minimum liability in respect of child support)
 (1) Replace section 98(2) with:
   (2) Subsection (2A) applies when—
-    (a) an order would, but for this section, operate in a child support year so as to reduce the annual rate of child support payable under a formula assessment below the minimum annual rate for that year under section 72(1)(a); and
+    (a) an order would, but for this section, operate in a child support year so as to reduce the annual rate of child support payable under a formula assessment below the minimum annual rate for that year under section 72(1)﻿(a); and
     (b) the child support payable is payable under the formula assessment in respect of more than 1 receiving carer.
-  (2A) When this subsection applies, the annual rate of child support payable in the child support year to each receiving carer is the minimum annual rate under section 72(1)(a) divided between the receiving carers on the basis of the number of qualifying children of the liable parent that each receiving carer provides care for.
+  (2A) When this subsection applies, the annual rate of child support payable in the child support year to each receiving carer is the minimum annual rate under section 72(1)﻿(a) divided between the receiving carers on the basis of the number of qualifying children of the liable parent that each receiving carer provides care for.
 (2) In section 98(3), replace (2) with (2A).
 
 ### 214 Section 142 amended (Payment of formula assessment child support to custodians who are social security beneficiaries)
