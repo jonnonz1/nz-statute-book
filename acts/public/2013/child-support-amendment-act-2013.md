@@ -1,5 +1,5 @@
 # Child Support Amendment Act 2013
-_Consolidation as at 2014-12-07_
+_Consolidation as at 2016-02-24_
 
 ### 1 Title
 This Act is the Child Support Amendment Act 2013.
@@ -8,7 +8,8 @@ This Act is the Child Support Amendment Act 2013.
 (1) Sections 6, 31, and 32 come into force on the day after the date of Royal assent.
 (2) Sections 18, 19, and 19A come into force on 1 April 2014.
 (3) Sections in Part 1 not referred to in subsection (1) or (2) come into force on 1 April 2015.
-(4) Part 2 comes into force on 1 April 2016.
+(4) Sections 40(1), 41, 42, 44, and 45 come into force on the day after the date on which the Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Act 2016 receives the Royal assent.
+(5) The rest of Part 2 comes into force on 1 April 2016.
 
 ### 3 Principal Act amended
 This Act amends the Child Support Act 1991.
@@ -20,7 +21,7 @@ The Long Title is repealed.
 
 ### 5 Interpretation
 (1) Section 2(1) is amended by repealing the following definitions: child support percentage, eligible applicant, eligible custodian, income amount order, last relevant tax year, liable parent, principal provider of ongoing daily care, qualifying custodian, relevant average weekly earnings amount, shared custody child, substantially equal sharing of ongoing daily care, and taxable income.
-(2) Section 2(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
+(2) Section 2(1) is amended by inserting the following definitions in their appropriate alphabetical order:
   - **adjusted taxable income** has the meaning in section 35
   - **annual amount of child support** means the amount payable in a child support year by a liable parent in respect of a qualifying child
   - **annual rate of child support** means the total amount payable in a child support year by a liable parent in respect of all of his or her qualifying children
@@ -57,7 +58,7 @@ The following section is inserted after section 3:Transitional and savings provi
 ### 7 Objects
 (1) Section 4 is amended by repealing paragraph (c).
 (2) Section 4(d) is amended by omitting according to their capacity to provide financial support and substituting according to their relative capacity to provide financial support and their relative levels of provision of care.
-(3) Section 4 is amended by inserting the following paragraph after paragraph (f):.
+(3) Section 4 is amended by inserting the following paragraph after paragraph (f):
   (fa) to affirm the right of carers who provide significant care to children to receive financial support in respect of those children from a parent or parents of the children:
 (4) Section 4(g) is amended by omitting caregivers and substituting carers.
 (5) Section 4(h) is amended by omitting between custodial and non-custodial parents and substituting between parents and, where applicable, carers.
@@ -76,10 +77,10 @@ The following section is inserted after section 4:Overview of child support paya
 **Amendments to Part 1 (liability to pay)**
 
 ### 9 Children who qualify for child support
-(1) Section 5 is amended by repealing paragraph (a) and substituting the following paragraph:.
+(1) Section 5 is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) is under the age of 18, or is aged 18 and enrolled at and attending a school; and
 (2) Section 5 is amended by adding the following subsections as subsections (2), (3), and (4):
-  (2) In subsection (1)(a), school means—
+  (2) In subsection (1)﻿(a), school means—
     (a) a registered school (as defined in section 2(1) of the Education Act 1989); or
     (b) an overseas school.
   (3) A child who is enrolled at a registered school and attends it until the end of the school's academic year is deemed to be enrolled at and attending the school until 31 December in that year.
@@ -200,10 +201,10 @@ Sections 29 to 36 and the heading above section 32 are repealed and the followin
     (a) assess the annual amount of child support payable by the liable parent in that child support year in respect of each of his or her qualifying children; and
     (b) assess the annual rate of child support payable by the liable parent in that child support year in respect of all of his or her qualifying children; and
     (c) where the application for a formula assessment was made in the previous child support year, make such assessments in relation to the previous child support year.
-  (2) Before, or as soon as practicable after, the start of each later child support year in which child support continues, or appears likely to continue, to be payable in respect of any qualifying child of the parent, the Commissioner must make the assessments referred to in subsection (1)(a) and (b) in relation to that later child support year.
+  (2) Before, or as soon as practicable after, the start of each later child support year in which child support continues, or appears likely to continue, to be payable in respect of any qualifying child of the parent, the Commissioner must make the assessments referred to in subsection (1)﻿(a) and (b) in relation to that later child support year.
   (3) Every assessment must be done in accordance with this Part and Part 5.
   (1) The formula for assessing the annual amount of child support payable under a formula assessment by a liable parent in a child support year in respect of a qualifying child is the parent's income percentage minus the parent's care cost percentage, multiplied by the child expenditure amount for the child. This formula can be expressed as—(i% − c%) × pwhere—i%is the liable parent's income percentage determined under section 33c%is the liable parent's care cost percentage determined under section 16pis the child expenditure amount for a qualifying child.
-  (2) The child expenditure amount for a qualifying child in a child support year is—enwhere—eis the amount, determined in accordance with the child expenditure table applying to that child support year, that applies to the parent in respect of the child on the basis of—nis the number of children in the same child support group as the child.
+  (2) The child expenditure amount for a qualifying child in a child support year is— enwhere—eis the amount, determined in accordance with the child expenditure table applying to that child support year, that applies to the parent in respect of the child on the basis of—nis the number of children in the same child support group as the child.
     (a) the combined child support income amounts of both parents of the child; and
     (b) the number of children in the child's child support group; and
     (c) the age group of those children
@@ -222,8 +223,8 @@ Sections 29 to 36 and the heading above section 32 are repealed and the followin
       (iii) the amount payable in respect of a receiving carer under section 36A, but only if it is less thaneach of the amounts referred to in subparagraph (i) or (ii).
   (3) The multi-group cap for a child is the amount determined as follows:(100% − c%) × mwhere—c%is the parent's care cost percentage in relation to the childmis the multi-group cost of the child, as determined under section 36(4).
   (4) The purpose of the multi-group cap is to avoid liable parents paying more in child support than they would pay if all the children for whom they are liable to pay child support were living together.
-  If, after assessing the annual amount of child support payable by a liable parent in respect of each of his or her qualifying children, the Commissioner determines that the total amount payable by the parent is less than the minimum annual rate referred to in section 72(1)(a), the Commissioner must, despite sections 30 and 31(2),—
-    (a) assess the parent's annual rate of child support as the minimum annual rate referred to in section 72(1)(a); and
+  If, after assessing the annual amount of child support payable by a liable parent in respect of each of his or her qualifying children, the Commissioner determines that the total amount payable by the parent is less than the minimum annual rate referred to in section 72(1)﻿(a), the Commissioner must, despite sections 30 and 31(2),—
+    (a) assess the parent's annual rate of child support as the minimum annual rate referred to in section 72(1)﻿(a); and
     (b) determine the proportion of that minimum annual rate of child support that is payable in respect of each receiving carer, on the basis of the number of qualifying children of the liable parent that each carer provides care for.
   A parent's income percentage, in relation to a qualifying child, is the percentage figure derived by dividing the person's child support income amount (as determined under section 34) by the sum of the child support income amounts, in relation to that child, of all the parents of the child.
   (1) A parent's child support income amount for a child support year in relation to a child is the person's adjusted taxable income (determined under section 35) for the relevant tax year minus each of the following:
@@ -258,18 +259,18 @@ Sections 29 to 36 and the heading above section 32 are repealed and the followin
   (3) The version of the appropriate schedule of the Social Security Act 1964 that applies in a child support year is the version in force on 1 January in the immediately preceding child support year.
   (4) The Commissioner must ensure that notice of the applicable living allowances under this section that apply to the current and (if applicable) the previous child support year is available at all reasonable times on an Internet site maintained by or on behalf of the Inland Revenue Department.
   (1) For the purpose of calculating a parent's child support income amount under section 34 in a child support year, a parent is entitled to a dependent child allowance in respect of each of his or her dependent children.
-  (2) The amount of a parent's dependent child allowance, in relation to each dependent child, is—c% ×enwhere—c%is the care cost percentage of the parent in relation to the dependent child (being the percentage that would be determined under section 16 if the child were a qualifying child)eis the amount, determined in accordance with the child expenditure table applying to that child support year, that applies to the parent in respect of the dependent child on the basis of—nis the total number of the parent's dependent children.
+  (2) The amount of a parent's dependent child allowance, in relation to each dependent child, is— c% ×enwhere—c%is the care cost percentage of the parent in relation to the dependent child (being the percentage that would be determined under section 16 if the child were a qualifying child)eis the amount, determined in accordance with the child expenditure table applying to that child support year, that applies to the parent in respect of the dependent child on the basis of—nis the total number of the parent's dependent children.
     (a) the child support income amount of the parent alone, with that amount being treated as the adjusted taxable income of the parent, minus the parent's living allowance; and
     (b) the total number of the parent's dependent children; and
     (c) the age group of those children
   (3) In this section, a person's dependent child means a child of whom the person is a parent (within the meaning in section 7) and who—
     (a) is maintained as a member of the parent's family and for whom the parent provides at least 28% of the ongoing daily care; and
     (b) is not a child in relation to whom any person is a liable parent or receiving carer, or for whom, under the law of another country, any person is required to make payments that are of the same nature as child support; and
-    (c) meets the requirements of section 5(1)(a) to (c) (which describe which children qualify for child support).
+    (c) meets the requirements of section 5(1)﻿(a) to (c) (which describe which children qualify for child support).
   (1) This section applies to a parent who has more than 1 child support group.
   (2) For the purpose of calculating a parent's child support income amount in relation to a particular child (child C) in a child support year, a parent to whom this section applies is entitled to a multi-group allowance in relation to child C.
   (3) The multi-group allowance in relation to child C is the sum of the multi-group costs of each child (child D) of the parent who is not in the same child support group as child C.
-  (4) The multi-group cost of child D is—enwhere—eis the amount, determined in accordance with the child expenditure table applying to the relevant child support year, that applies to the parent in respect of child D—nis the total number of children of the parent in all the parent's child support groups.
+  (4) The multi-group cost of child D is— enwhere—eis the amount, determined in accordance with the child expenditure table applying to the relevant child support year, that applies to the parent in respect of child D—nis the total number of children of the parent in all the parent's child support groups.
     (a) on the basis of the child support income amount of that parent alone, with that amount being treated as the adjusted taxable income of the parent, minus the parent's living allowance and the sum of any dependent child allowances to which the parent is entitled; and
     (b) as if—
       (i) child D were one of n children; and
@@ -281,7 +282,7 @@ Sections 29 to 36 and the heading above section 32 are repealed and the followin
   (3) However, no child support is payable under subsection (2) in respect of a receiving carer of a qualifying child if the receiving carer provides less than 35% of ongoing daily care to the child.
   (1) This section applies if, in respect of a qualifying child, there are 1 or 2 receiving carers, and neither of them is a parent of the child.
   (2) If the liable parent is liable to pay child support in respect of just 1 non-parent receiving carer, the amount of child support payable in respect of that carer is the annual amount of child support payable by the liable parent for the child.
-  (3) If the liable parent is liable to pay child support in respect of 2 non-parent receiving carers, the amount of child support payable in respect of each carer is—f ×c%g%where—fis the annual amount of child support payable by the liable parent for the childc%is the care cost percentage of the receiving carer in relation to the childg%is the combined care cost percentages of both the receiving carers of the child, in relation to the child.
+  (3) If the liable parent is liable to pay child support in respect of 2 non-parent receiving carers, the amount of child support payable in respect of each carer is— f ×c%g%where—fis the annual amount of child support payable by the liable parent for the childc%is the care cost percentage of the receiving carer in relation to the childg%is the combined care cost percentages of both the receiving carers of the child, in relation to the child.
   (1) This section applies if, in respect of a qualifying child, there are 2 receiving carers, where 1 of them is a parent of the child and the other is a non-parent carer of the child.
   (2) The amount of child support payable in respect of the receiving parent (person P) is—
     (a) the amount of annual child support that person P would pay if the difference between person P's income percentage and care cost percentage (which, under the formula in section 30, is a negative percentage) were a positive percentage; or
@@ -301,7 +302,7 @@ Sections 29 to 36 and the heading above section 32 are repealed and the followin
 ### 13 New heading and sections 40AA to 45 substituted
 Sections 40 to 45 and the heading above section 40 are repealed and the following heading and sections are substituted:Estimate of taxable incomeInterpretation for purposes of sections 40 to 45Estimated taxable incomeEffect of electionRevocation of election and subsequent electionsEffect of revocation of electionEnd-of-year reconciliationDetermining income amount if no tax return filedPenalty if estimated income less than 80% of actual income
   In sections 40 to 45, unless the context otherwise requires,—
-    - **annualised estimated taxable income** means the amount that a person estimates will be their taxable income in an election period, annualised (if the estimate does not cover a full child support year) in accordance with the following formula:a× 365bwhere—ais the person’s estimated taxable income for the election periodbis the number of days in the election period
+    - **annualised estimated taxable income** means the amount that a person estimates will be their taxable income in an election period, annualised (if the estimate does not cover a full child support year) in accordance with the following formula: a× 365bwhere—ais the person’s estimated taxable income for the election periodbis the number of days in the election period
     - **election** means an election, made by a person under section 40, to have the person’s estimated taxable income, instead of their original taxable income, applied for the purpose of calculating the person’s adjusted taxable income for an election period
     - **election period** , in relation to a child support year to which an election relates, means,—
       (a) if notice of the election is given under section 40 before the start of the child support year, the child support year; and
@@ -344,10 +345,10 @@ Sections 40 to 45 and the heading above section 40 are repealed and the followin
   (2) The revocation of an election does not prevent the Commissioner making a determination under Part 5A, 6A, or 6B, or the court making an order under Part 7, or a person making a further election.
   (1) For the purpose of determining whether a person has, or has been, underpaid or overpaid child support in an election period, after the end of the child support year to which an election relates, the Commissioner must complete an assessment for the person based on the income amount determined under subsection (2).
   (2) The income amount to be used for the assessment is the least of the following:
-    (a) the person's actual taxable income earned in the election period (which is the actual taxable income earned in the full year less the year-to-date income specified in a notice of election), annualised in accordance with the formula in subsection (3) (which gives the annualised actual taxable income in the election period), and adjusted in accordance with section 41(1)(b):
+    (a) the person's actual taxable income earned in the election period (which is the actual taxable income earned in the full year less the year-to-date income specified in a notice of election), annualised in accordance with the formula in subsection (3) (which gives the annualised actual taxable income in the election period), and adjusted in accordance with section 41(1)﻿(b):
     (b) the person's original adjusted taxable income:
-    (c) the value of any adjustments made under section 41(1)(b), but only in the case where the actual taxable income earned by the person during the year is equal to or less than the year-to-date income specified in the notice of election.
-  (3) The formula for annualising a person's actual taxable income in an election period is—a× 365bwhere—ais the actual taxable income earned during the election periodbis the number of days in the election period.
+    (c) the value of any adjustments made under section 41(1)﻿(b), but only in the case where the actual taxable income earned by the person during the year is equal to or less than the year-to-date income specified in the notice of election.
+  (3) The formula for annualising a person's actual taxable income in an election period is— a× 365bwhere—ais the actual taxable income earned during the election periodbis the number of days in the election period.
   (4) After comparing the result of the assessment done under subsection (1) with the results obtained under section 41, the Commissioner must take whatever steps are necessary to ensure that the correct amount of child support is assessed for the child support year.
   (5) A reconciliation under this section is subject to any income amount order that applies during all or any part of an election period.
   (1) This section applies if the Commissioner cannot determine the person's actual taxable income during a child support year because the person, having been required to provide a return of income in respect of the tax year that corresponds to the child support year, has failed to provide it within 28 days of the requirement to provide it.
@@ -372,11 +373,11 @@ Sections 40 to 45 and the heading above section 40 are repealed and the followin
 **Amendments to Part 5 (procedures)**
 
 ### 14 Minimum rate of child support or domestic maintenance
-(1) Section 72(1) is amended by repealing paragraph (a) and substituting the following paragraph:.
+(1) Section 72(1) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) child support payable under a formula assessment by a liable parent in respect of all of his or her children is,—
     (i) for the child support year commencing on 1 April 2013, $871:
     (ii) for each later child support year, the minimum annual rate of child support under this paragraph for the immediately preceding child support year, adjusted by the applicable inflation percentage:
-(2) Section 72(1)(b) is amended by omitting qualifying custodian and substituting receiving carer.
+(2) Section 72(1)﻿(b) is amended by omitting qualifying custodian and substituting receiving carer.
 
 ### 15 New section 82 substituted
 Section 82 is repealed and the following section substituted:Parents and receiving carers to advise Commissioner of changes
@@ -392,14 +393,14 @@ Section 82 is repealed and the following section substituted:Parents and receivi
       (i) in relation to a liable parent, where the change has the effect of increasing the amount of the parent's child support liability:
       (ii) in relation to a receiving carer, where the change has the effect of decreasing the amount of child support payable in respect of that carer:
       (iii) where notice of the change is received by the Commissioner within 28 days after the date on which the change occurred; or
-    (b) on the date on which the Commissioner receives notice of the change, in either of the following cases (unless paragraph (a)(iii) applies):
+    (b) on the date on which the Commissioner receives notice of the change, in either of the following cases (unless paragraph (a)﻿(iii) applies):
       (i) in relation to a liable parent, where the change has the effect of decreasing the amount of the parent's child support liability:
       (ii) in relation to a receiving carer, where the change has the effect of increasing the amount of child support payable in respect of that carer.
   (3) Every notification of a change must be accompanied by such documentation as the Commissioner requires.
   (4) The Commissioner may disregard subsection (2), and may determine the date on which a particular change in living circumstances is to be treated as having occurred, in any case where 2 or more people give notice under this section relating to the same change, and the application of subsection (2) would result in the same change having to be treated as having occurred on different days in relation to different people.
 
 ### 16 Commissioner to give effect to changed circumstances
-Section 86(1) is amended by repealing paragraphs (a) and (b) and substituting the following paragraphs:.
+Section 86(1) is amended by repealing paragraphs (a) and (b) and substituting the following paragraphs:
   (a) that the liability of a liable parent to pay child support to a carer in respect of the child has ceased in accordance with section 25 or 62; or
   (b) that an event or change of circumstances has occurred that alters the respective liability or entitlement of any parent or carer of the qualifying child,—
 
@@ -472,26 +473,26 @@ Sections 88 and 89 are repealed and the following sections substituted:Notice of
 
 ### 18 Exemption for long-term hospital patients
 Section 89C is amended by inserting the following subsection after subsection (1):
-  (1A) For the purposes of subsection (1)(a), a liable person's income during a period of long-term hospitalisation does not include any amounts received by the person during that hospitalisation for, or in respect of, any time up to and including the day on which the period of hospitalisation began.
+  (1A) For the purposes of subsection (1)﻿(a), a liable person's income during a period of long-term hospitalisation does not include any amounts received by the person during that hospitalisation for, or in respect of, any time up to and including the day on which the period of hospitalisation began.
 
 ### 19 Exemption for long-term prisoners
 Section 89D is amended by inserting the following subsection after subsection (1):
-  (1A) For the purposes of subsection (1)(a), a liable person's income during a period of long-term imprisonment does not include any amounts received by the person during that imprisonment for, or in respect of, any time up to and including the day on which the period of imprisonment began.
+  (1A) For the purposes of subsection (1)﻿(a), a liable person's income during a period of long-term imprisonment does not include any amounts received by the person during that imprisonment for, or in respect of, any time up to and including the day on which the period of imprisonment began.
 
 ### 19A Section 89F amended (Exemption does not apply at any time during child support year if income criteria not met at any time during relevant period)
-(1) In section 89F(1)(a)(i), after income, insert (subject to section 89C(1A)).
-(2) In section 89F(1)(a)(ii), after income, insert (subject to sections 89C(1A) and 89D(1A)).
+(1) In section 89F(1)﻿(a)﻿(i), after income, insert (subject to section 89C(1A)).
+(2) In section 89F(1)﻿(a)﻿(ii), after income, insert (subject to sections 89C(1A) and 89D(1A)).
 
 **Amendments to Part 6 (objections)**
 
 ### 20 Objections to appealable decisions
-(1) Section 90(1) is amended by repealing paragraphs (a) and (b) and substituting the following paragraphs:.
+(1) Section 90(1) is amended by repealing paragraphs (a) and (b) and substituting the following paragraphs:
   (a) a decision to make, or refuse to make, a formula assessment of child support:
   (b) a decision under section 14 establishing the proportion of ongoing daily care that a carer provides to a qualifying child:
   (ba) a decision as to whether a particular child is or is not a dependent child of a person:
-(2) Section 90(1) is amended by repealing paragraph (d) and substituting the following paragraph:.
+(2) Section 90(1) is amended by repealing paragraph (d) and substituting the following paragraph:
   (d) a decision that a penalty has been imposed by operation of section 45 or 134:
-(3) Section 90(1) is amended by inserting the following paragraph after paragraph (h):.
+(3) Section 90(1) is amended by inserting the following paragraph after paragraph (h):
   (ha) a decision made under section 82(4) determining the date on which a change in living circumstances occurred:
 
 ### 21 Objections to assessments
@@ -501,13 +502,13 @@ Section 89D is amended by inserting the following subsection after subsection (1
 
 ### 22 Requirements in relation to objections
 Section 92 is amended by inserting the following subsection after subsection (3):
-  (3A) An objection against a decision referred to in section 90(1)(b) (about the proportion of care that a carer provides to a child) must be based only on the information that was before the Commissioner at the time the decision establishing the proportion of care was made.
+  (3A) An objection against a decision referred to in section 90(1)﻿(b) (about the proportion of care that a carer provides to a child) must be based only on the information that was before the Commissioner at the time the decision establishing the proportion of care was made.
 
 **Amendments to Part 6A**
 
 ### 22A Application for determination
 (1) Section 96B(1) is amended by omitting A qualifying custodian or a liable parent and substituting Any liable parent or receiving carer of a qualifying child.
-(2) Section 96B(2)(a) is amended by omitting , the qualifying custodian, and the liable parent concerned.
+(2) Section 96B(2)﻿(a) is amended by omitting , the qualifying custodian, and the liable parent concerned.
 (3) Section 96B is amended by repealing subsection (3) and substituting the following subsection:
   (3) The parties to the application are—
     (a) the applicant; and
@@ -528,10 +529,10 @@ Section 96Q is amended by repealing subsection (2) and substituting the followin
 Sections 100 and 101 are repealed.
 
 ### 25 Matters as to which court must be satisfied before making order
-(1) Section 105(2)(b) is amended by repealing subparagraph (i) and substituting the following subparagraph:.
+(1) Section 105(2)﻿(b) is amended by repealing subparagraph (i) and substituting the following subparagraph:
   (i) of high costs incurred by a parent or a receiving carer in enabling a parent or receiving carer to have contact with the child; or
 (2) Section 105 is amended by repealing subsection (3) and substituting the following subsection:
-  (3) For the purposes of subsection (2)(b)(i), costs incurred in enabling a parent or receiving carer to have contact with the child are not to be taken to be high unless the total of those costs during a child support year is more than 5% of the adjusted taxable income for the year of the person incurring the costs.
+  (3) For the purposes of subsection (2)﻿(b)﻿(i), costs incurred in enabling a parent or receiving carer to have contact with the child are not to be taken to be high unless the total of those costs during a child support year is more than 5% of the adjusted taxable income for the year of the person incurring the costs.
 
 ### 26 Orders that may be made
 Section 106 is amended by repealing subsection (1) and substituting the following subsection:
@@ -551,7 +552,7 @@ Section 106 is amended by repealing subsection (1) and substituting the followin
 
 ### 27 Discretionary relief if debt uplifted
 (1) The heading to section 135F is amended by inserting waived or before uplifted.
-(2) Section 135F is amended by repealing paragraph (a) and substituting the following paragraph:.
+(2) Section 135F is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) the payee has—
     (i) waived under section 179A the right to the payment to which the penalty relates; or
     (ii) uplifted under section 180 the debt to which the penalty relates; and
@@ -584,7 +585,7 @@ Section 237 is repealed and the following section substituted:Rounding of amount
     (a) late payment penalties:
     (b) the amounts identified in the child expenditure table approved under section 36D:
     (c) the living allowances as identified in section 35A(2):
-    (d) the minimum annual rate of child support referred to in section 72(1)(a).
+    (d) the minimum annual rate of child support referred to in section 72(1)﻿(a).
   (2) Except as provided elsewhere in this Act, the Commissioner may round any other amount referred to in, or arrived at in accordance with, this Act to a whole dollar or to any amount less than a whole dollar.
   (3) If an amount that is rounded to a whole dollar consists of a number of whole dollars and 50 cents, the amount must be rounded down to the nearest whole dollar.
 
@@ -608,11 +609,11 @@ The principal Act is amended by inserting after Schedule 1 the Schedules 2 and 3
 The principal Act is consequentially amended in the manner set out in Schedule 3.
 
 ### 35 Consequential amendment to Adoption Act 1955
-Section 16(6) of the Adoption Act 1955 is amended by omitting section 25(1)(b)(iii) and substituting section 25(2)(b).
+Section 16(6) of the Adoption Act 1955 is amended by omitting section 25(1)﻿(b)﻿(iii) and substituting section 25(2)﻿(b).
 
 ### 36 Consequential amendment to Births, Deaths, Marriages, and Relationships Registration Act 1995
 (1) This section amends the Births, Deaths, Marriages, and Relationships Registration Act 1995.
-(2) In Schedule 1A, item relating to the Inland Revenue Department, in the row relating to birth information, marriage information, civil union information, and name change information, the column relating to purpose, after paragraph (b), insert:
+(2) In Schedule 1A, item relating to the Inland Revenue Department, in the row relating to birth information, marriage information, civil union information, and name change information, the column relating to purpose, after paragraph (b), insert:The following table is small in size and has 3 columns. This table is an amendment to the table in Schedule 1A of the Births, Deaths, Marriages, and Relationships Registration Act 1995 and should be read with that table to provide understanding of the context.
   (c) for child support purposes, details of the parentage, birth, and death of qualifying children or dependent children
 
 ## Part 2 — Departures from formula assessment, collection, penalties, and relief
@@ -623,12 +624,12 @@ Section 16(6) of the Adoption Act 1955 is amended by omitting section 25(1)(b)(i
 (1) Section 105(2) is amended by adding ; or and also by adding the following paragraph:
   (d) that, at any time within 3 years starting on the date on which the child's parents ceased to live together in a marriage, civil union, or de facto relationship, the application in relation to the child of the provisions of this Act relating to formula assessment of child support would result in an unjust and inequitable determination of the level of financial support to be provided by the liable parent for the child because a re-establishment costs situation exists under subsection (7).
 (2) Section 105 is amended by adding the following subsections:
-  (7) A re-establishment costs situation exists under this subsection for the purposes of subsection (2)(d) if, and only if,—
+  (7) A re-establishment costs situation exists under this subsection for the purposes of subsection (2)﻿(d) if, and only if,—
     (a) the adjusted taxable income of a parent of the child for the child support year concerned includes a proportion that is—
       (i) no more than 30% of that income; and
       (ii) income from work done by that parent and that, in quantity or nature or both, is additional to work that he or she did before the child's parents ceased to live together in a marriage, civil union, or de facto relationship; and
     (b) some or all of that proportion of that income is used, or needs to be used, by a parent of the child in that child support year to meet, wholly or partly, actual and reasonable costs incurred to re-establish himself or herself, and any child or other person that he or she has a duty to maintain, after the child's parents ceased to live together in a marriage, civil union, or de facto relationship.
-  (8) In computing, for the purposes of subsection (2)(d), the 3-year period after the child's parents ceased to live together in a marriage, civil union, or de facto relationship, the court may exclude a period or periods of resumed cohabitation with, or each with, the sole or main motive of reconciliation if that period does not exceed, or those periods in aggregate do not exceed, 3 months.
+  (8) In computing, for the purposes of subsection (2)﻿(d), the 3-year period after the child's parents ceased to live together in a marriage, civil union, or de facto relationship, the court may exclude a period or periods of resumed cohabitation with, or each with, the sole or main motive of reconciliation if that period does not exceed, or those periods in aggregate do not exceed, 3 months.
 
 **Amendments to Part 8 (automatic deduction)**
 
@@ -639,18 +640,18 @@ Sections 129 to 131 and the heading above section 129 are repealed and the follo
     (a) the Commissioner considers automatic deduction under Part 10 of that financial support (or of that part of it) to be administratively inappropriate:
     (b) the Commissioner grants recognition under section 131(3) of qualifying payments for the child's direct benefit made by the automatic deduction person:
     (c) the automatic deduction person is, in the Commissioner's discretion, permitted for cultural reasons, privacy reasons, or other exceptional reasons to pay that financial support (or that part of it) by a payment method or methods (other than automatic deduction under Part 10) acceptable to the Commissioner.
-  (3) The Commissioner's discretion under subsection (2)(c) is exercisable on an application for the purpose or on the Commissioner's own motion.
+  (3) The Commissioner's discretion under subsection (2)﻿(c) is exercisable on an application for the purpose or on the Commissioner's own motion.
   (4) Automatic deduction person, in this section and section 130, means (subject to subsections (5) to (7)) a person who is 1 or more of the following:
     (a) a person who is a PAYE or ACC income recipient, but only if or to the extent that he or she is not a person who is in receipt of a benefit specified in paragraph (c) or a grant specified in paragraph (d):
     (b) a person who, on or after 1 April 2016, defaults in a payment of financial support under this Act:
     (c) a person who is in receipt of a benefit under the Social Security Act 1964, the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, Part 6 of the Veterans' Support Act 2014, or the New Zealand Superannuation and Retirement Income Act 2001:
     (d) a person who is in receipt of a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998.
-  (5) PAYE or ACC income recipient, in subsection (4)(a), means a person whose income is or includes either or both of the following:
+  (5) PAYE or ACC income recipient, in subsection (4)﻿(a), means a person whose income is or includes either or both of the following:
     (a) income specified in paragraph (a) of the definition of withholding income in section 2(1):
     (b) earnings related compensation (as defined in section 82(9) of the Tax Administration Act 1994).
-  (6) A person mentioned in subsection (4)(a) to (d) is an automatic deduction person regardless of whether the person's liability to pay that financial support arises before, on, or after 1 April 2016.
-  (7) A person mentioned in subsection (4)(a), (c), and (d) is an automatic deduction person regardless of whether the person defaults or has defaulted in a payment or payments of that financial support.
-  (8) Automatic deduction required by subsection (1) in respect of a person specified in subsection (4)(c) must be from an instalment of a benefit to which the person is or may become entitled under the Act or Part specified in subsection (4)(c).
+  (6) A person mentioned in subsection (4)﻿(a) to (d) is an automatic deduction person regardless of whether the person's liability to pay that financial support arises before, on, or after 1 April 2016.
+  (7) A person mentioned in subsection (4)﻿(a), (c), and (d) is an automatic deduction person regardless of whether the person defaults or has defaulted in a payment or payments of that financial support.
+  (8) Automatic deduction required by subsection (1) in respect of a person specified in subsection (4)﻿(c) must be from an instalment of a benefit to which the person is or may become entitled under the Act or Part specified in subsection (4)﻿(c).
   All financial support that a person is required by this Act to pay on or after 1 April 2016 must be paid by a payment method or methods (other than automatic deduction under Part 10) acceptable to the Commissioner to the extent that either or both of the following apply:
     (a) the person is not an automatic deduction person (as defined in section 129(4) to (7)):
     (b) the Commissioner under section 129(1) considers payment of financial support referred to in section 129(1) by way of automatic deduction under Part 10 to be inappropriate.
@@ -661,7 +662,7 @@ Sections 129 to 131 and the heading above section 129 are repealed and the follo
   (3) The Commissioner may, to enable the liable parent to pay some of the child support for a child that this Act requires the liable parent to pay in a child support year, recognise under this section 1 or more payments—
     (a) on an application for the purpose in a form acceptable to the Commissioner; and
     (b) if, and only if, there is compliance with the conditions in section 131A.
-  (4) The Commissioner may, in the Commissioner's discretion (and despite section 131A(1)(e)(i)), recognise under subsection (3), for child support for a child in respect of a child support year, a payment made within the last 12 months.
+  (4) The Commissioner may, in the Commissioner's discretion (and despite section 131A(1)﻿(e)﻿(i)), recognise under subsection (3), for child support for a child in respect of a child support year, a payment made within the last 12 months.
   (5) If asked to recognise a payment (or under section 131B to amend or revoke recognition of a payment) under subsection (3), the Commissioner may require a parent or carer of the child to produce any evidence that the Commissioner, in his or her discretion, considers appropriate to enable the Commissioner to decide whether to do so.
   (6) Recognition under subsection (3) that involves a particular liable parent may be applied for and granted under this section even though earlier recognition of that kind was applied for and granted but ceased or was revoked under section 131B.
   (7) For the purposes of section 96 (which identifies matters with respect to which Part 6 does not confer any right of objection), all decisions under this section and sections 131A and 131B are matters left by those sections to the discretion of the Commissioner.
@@ -673,7 +674,7 @@ Sections 129 to 131 and the heading above section 129 are repealed and the follo
     (e) the Commissioner is satisfied, on the basis of information available to the Commissioner, that—
       (i) each payment to be recognised is a qualifying payment for the child's direct benefit made at a time that is within 12 months before the time that the Commissioner receives the application for recognition; and
       (ii) the amount of the payment or payments to be recognised is at least 10% of the child support liability for the child for the child support year at the time that the application for recognition is made.
-  (2) An agreement referred to in subsection (1)(b) complies with this subsection if it—
+  (2) An agreement referred to in subsection (1)﻿(b) complies with this subsection if it—
     (a) is in a form acceptable to, and contains all the material information required by, the Commissioner; and
     (b) identifies the payments that the parties to the agreement want to be recognised; and
     (c) identifies the child to whom those payments relate; and
@@ -725,12 +726,12 @@ Section 134 is repealed and the following sections are substituted:Penalties for
 
 ### 40 Interpretation for purposes of sections 135A to 135O
 (1) The heading to section 135 is amended by omitting 135A and substituting 135AA.
-(2) Section 135 is amended by repealing the definitions of incremental penalty and initial late payment penalty and substituting the following definitions:.
+(2) Section 135 is amended by repealing the definitions of incremental penalty and initial late payment penalty and substituting the following definitions:
   - **incremental penalty** means a penalty that is imposed—
-    (a) before 1 April 2016 under section 134(1)(b) or (c) (as repealed by the Child Support Amendment Act 2013); or
+    (a) before 1 April 2016 under section 134(1)﻿(b) or (c) (as repealed by the Child Support Amendment Act 2013); or
     (b) on or after 1 April 2016 under section 134(4), (5), or (6) (as substituted by the Child Support Amendment Act 2013)
   - **initial late payment penalty** means a penalty that is imposed—
-    (a) before 1 April 2016 under section 134(1)(a) (as repealed by the Child Support Amendment Act 2013); or
+    (a) before 1 April 2016 under section 134(1)﻿(a) (as repealed by the Child Support Amendment Act 2013); or
     (b) on or after 1 April 2016 under section 134(2) or (3) (as substituted by the Child Support Amendment Act 2013)
 
 **Amendment to Part 8 (payment agreements)**
@@ -761,24 +762,26 @@ The following section is inserted after section 135F:Discretionary relief from i
   (2) The Commissioner may grant relief to the liable person in the manner prescribed by section 135A in respect of the incremental penalties of the liable person that were unpaid at the time a payment agreement was entered into if the Commissioner is satisfied that recovery of those incremental penalties would do either or both of the following:
     (a) place the liable person in serious hardship (as defined in section 135G(3)):
     (b) involve an inefficient use of the Commissioner's resources.
-  (3) Before making a decision under subsection (2)(b), the Commissioner must have regard to the matters referred to in sections 6 and 6A of the Tax Administration Act 1994.
+  (3) Before making a decision under subsection (2)﻿(b), the Commissioner must have regard to the matters referred to in sections 6 and 6A of the Tax Administration Act 1994.
 
 ### 44 Discretionary relief for residual incremental penalty debt
 (1) The heading to section 135G is amended by omitting for residual incremental penalty debt and substituting from payment of incremental penalties.
-(2) Section 135G(1)(a) is amended by inserting some or before all of the financial support debt and initial late payment penalties to which the incremental penalties relate.
-(3) Section 135G(3) is amended by inserting and sections 135GA(2)(b)(i) and 180A(1)(b)(i) after In this section.
+(2) Section 135G(1)﻿(a) is amended by inserting some or before all of the financial support debt and initial late payment penalties to which the incremental penalties relate.
+(3) Section 135G(3) is amended by inserting and sections 135GA and 180A(1)﻿(b)﻿(i) after In this section.
 
 ### 45 New section 135GA inserted
 The following section is inserted after section 135G:Discretionary relief for residual penalty-only debt
   (1) The Commissioner may grant relief to a liable person from the payment of initial late payment penalties or incremental penalties or both in the manner prescribed by section 135A if—
     (a) the liable person has paid, or had written off in accordance with this Act, all of the liable person's financial support debt; and
-    (b) the Commissioner is satisfied that recovery of those penalties would involve an inefficient use of the Commissioner's resources.
+    (b) the Commissioner is satisfied that recovery of those penalties would do either or both of the following:
+      (i) place the liable person in serious hardship (as defined in section 135G(3)):
+      (ii) involve an inefficient use of the Commissioner’s resources.
   (2) The Commissioner may grant relief to a liable person from the payment of initial late payment penalties or incremental penalties or both in the manner prescribed by section 135A if—
-    (a) the Commissioner has under section 180A written off all of the benefit component of an amount of child support (as defined in section 180A(2)) that is payable by the liable person to the Crown under this Act; and
-    (b) the Commissioner is satisfied that those penalties relate to, or arise from, all of that written-off benefit component, and that recovery of those penalties would do either or both of the following:
-      (i) place the liable parent in serious hardship (as defined in section 135G(3)):
+    (a) the Commissioner has under section 180A written off some or all of the benefit component of an amount of child support (as defined in section 180A(2)) that is payable by the liable person to the Crown under this Act; and
+    (b) the Commissioner is satisfied that those penalties relate to, or arise from, some or all of that written-off benefit component, and that recovery of those penalties would do either or both of the following:
+      (i) place the liable person in serious hardship (as defined in section 135G(3)):
       (ii) involve an inefficient use of the Commissioner's resources.
-  (3) Before making a decision under subsection (1)(b) or (2)(b), the Commissioner must have regard to the matters referred to in sections 6 and 6A of the Tax Administration Act 1994.
+  (3) Before making a decision under subsection (1)﻿(b) or (2)﻿(b), the Commissioner must have regard to the matters referred to in sections 6 and 6A of the Tax Administration Act 1994.
 
 **Amendment to Part 8 (mandatory relief from initial late payment penalties)**
 
@@ -787,28 +790,28 @@ Section 135H is repealed and the following sections are inserted:Relief from ini
   (1) The Commissioner must write off an initial late payment penalty if satisfied that—
     (a) that penalty was imposed in respect of a debt that is or includes the first payment of financial support payable by the liable person under a formula assessment, voluntary agreement, or order of the court issued or made before, on, or after 1 April 2016; and
     (b) a payment arrangement was entered into or made on or after 1 April 2016 and within the 3 months that began on the date of issue or making of the assessment, agreement, or order under which that first payment is payable, and has been fully or substantially complied with in accordance with subsection (5).
-  (2) The payment arrangement referred to in subsection (1)(b) must be a payment agreement specified in subsection (3) or a deduction notice specified in subsection (4).
+  (2) The payment arrangement referred to in subsection (1)﻿(b) must be a payment agreement specified in subsection (3) or a deduction notice specified in subsection (4).
   (3) The payment agreement is one that the liable person entered into with the Commissioner to pay, in 1 sum or 2 or more instalments of specified amounts,—
-    (a) the first payment mentioned in subsection (1)(a); and
-    (b) other payments of financial support that were or would become payable (under the assessment, agreement, or order mentioned in subsection (1)(a), or any other assessment, voluntary agreement, or order of the court) by the liable person.
+    (a) the first payment mentioned in subsection (1)﻿(a); and
+    (b) other payments of financial support that were or would become payable (under the assessment, agreement, or order mentioned in subsection (1)﻿(a), or any other assessment, voluntary agreement, or order of the court) by the liable person.
   (4) The deduction notice is one that the Commissioner gave a person under section 154 in relation to the liable person in order to collect, in 1 sum or 2 or more deductions and payments,—
-    (a) the first payment mentioned in subsection (1)(a); and
-    (b) other payments of financial support that were or would become payable (under the assessment, agreement, or order mentioned in subsection (1)(a) or any other assessment, voluntary agreement, or order of the court) by the liable person.
-  (5) The payment arrangement referred to in subsection (1)(b) has been fully or substantially complied with in accordance with this subsection if the arrangement has operated for a period that the Commissioner considers reasonable and—
+    (a) the first payment mentioned in subsection (1)﻿(a); and
+    (b) other payments of financial support that were or would become payable (under the assessment, agreement, or order mentioned in subsection (1)﻿(a) or any other assessment, voluntary agreement, or order of the court) by the liable person.
+  (5) The payment arrangement referred to in subsection (1)﻿(b) has been fully or substantially complied with in accordance with this subsection if the arrangement has operated for a period that the Commissioner considers reasonable and—
     (a) it is a payment agreement, and to date there has been either no default in the payment in accordance with that agreement of the 1 sum, or every one of the 2 or more instalments, specified in subsection (3), or only default of that kind to an extent, or arising from a cause, that the Commissioner considers reasonable; or
     (b) it is a deduction notice, and to date there has been either no default in the making in accordance with that notice of every one of the 2 or more deductions and payments specified in subsection (4), or only default of that kind to an extent, or arising from a cause, that the Commissioner considers reasonable.
   (6) If an initial late payment penalty written off under subsection (1) has been paid in whole or in part, the Commissioner must refund to the liable person the whole or part of the penalty paid.
   (1) The Commissioner must write off an initial late payment penalty if satisfied that—
     (a) that penalty was imposed in respect of a debt that is or includes the first payment of financial support payable by the liable person under a formula assessment, voluntary agreement, or order of the court issued or made before, on, or after 1 April 2016; and
     (b) a payment arrangement was entered into or made on or after 26 September 2006 and before 1 April 2016 and within the 3 months that began on the date of issue or making of the assessment, agreement, or order under which that first payment is payable, and has been fully complied with in accordance with subsection (5).
-  (2) The payment arrangement referred to in subsection (1)(b) must be a payment agreement specified in subsection (3) or a deduction notice specified in subsection (4).
+  (2) The payment arrangement referred to in subsection (1)﻿(b) must be a payment agreement specified in subsection (3) or a deduction notice specified in subsection (4).
   (3) The payment agreement is one that the liable person entered into with the Commissioner to pay, in 1 sum or 2 or more instalments of specified amounts,—
-    (a) the first payment mentioned in subsection (1)(a); and
-    (b) other payments of financial support that were or would become payable (under the assessment, agreement, or order mentioned in subsection (1)(a), or any other assessment, voluntary agreement, or order of the court) by the liable person.
+    (a) the first payment mentioned in subsection (1)﻿(a); and
+    (b) other payments of financial support that were or would become payable (under the assessment, agreement, or order mentioned in subsection (1)﻿(a), or any other assessment, voluntary agreement, or order of the court) by the liable person.
   (4) The deduction notice is one that the Commissioner gave a person under section 154 in relation to the liable person in order to collect, in 1 sum or 2 or more deductions and payments,—
-    (a) the first payment mentioned in subsection (1)(a); and
-    (b) other payments of financial support that were or would become payable (under the assessment, agreement, or order mentioned in subsection (1)(a) or any other assessment, voluntary agreement, or order of the court) by the liable person.
-  (5) The payment arrangement referred to in subsection (1)(b) has been fully complied with in accordance with this subsection if—
+    (a) the first payment mentioned in subsection (1)﻿(a); and
+    (b) other payments of financial support that were or would become payable (under the assessment, agreement, or order mentioned in subsection (1)﻿(a) or any other assessment, voluntary agreement, or order of the court) by the liable person.
+  (5) The payment arrangement referred to in subsection (1)﻿(b) has been fully complied with in accordance with this subsection if—
     (a) it is a payment agreement, and the 1 sum, or every one of the 2 or more instalments, specified in subsection (3) is paid in full in accordance with that agreement; or
     (b) it is a deduction notice, and every one of the 2 or more deductions and payments specified in subsection (4) is made in accordance with that notice.
   (6) If an initial late payment penalty written off under subsection (1) has been paid in whole or in part, the Commissioner must refund to the liable person the whole or part of the penalty paid.
@@ -877,7 +880,7 @@ Section 151A is repealed.
 (2) Section 152(b) is amended by inserting or 151AA(8) after section 151(3).
 
 ### 56 Relief in case of exemption granted to liable person
-Section 152A(1)(a) is amended by inserting or 151AA after section 151.
+Section 152A(1)﻿(a) is amended by inserting or 151AA after section 151.
 
 ### 57 New section 152B inserted
 Section 152B (as inserted by section 28 of this Act) is repealed and the following section substituted: Offsetting child support payments
@@ -901,8 +904,8 @@ Section 154(1) is amended by omitting section 130 or section 131 and substitutin
 ### 59 Payee may uplift financial support debt
 Section 180 is amended by repealing subsection (2) and substituting the following subsection:
   (2) This section does not entitle an election to be made in relation to an amount of child support payable to a payee, other than pursuant to a lump sum order made under section 109,—
-    (a) under subsection (1)(a), if the amount of child support was payable in respect of a period during which the payee was a social security beneficiary (as defined in section 2(1)); or
-    (b) under subsection (1)(b), if the payee—
+    (a) under subsection (1)﻿(a), if the amount of child support was payable in respect of a period during which the payee was a social security beneficiary (as defined in section 2(1)); or
+    (b) under subsection (1)﻿(b), if the payee—
       (i) is a social security beneficiary (as so defined) at the time of making the election; or
       (ii) is not a social security beneficiary (as so defined) at the time of making the election, and does not also at the same time elect that the liability of the liable parent to pay child support is to end under section 27, 64, or 70.
 
@@ -913,7 +916,7 @@ The following sections are inserted after section 180:Commissioner may write off
     (b) the Commissioner is satisfied that recovery of that part or, as the case requires, all, of the benefit component of the amount of child support would do either or both of the following:
       (i) place the liable person in serious hardship (as defined in section 135G(3)):
       (ii) involve an inefficient use of the Commissioner's resources.
-  (2) The benefit component of an amount of child support, in subsection (1), means so much of that amount as is not payable to the receiving carer under section 142(1)(f).
+  (2) The benefit component of an amount of child support, in subsection (1), means so much of that amount as is not payable to the receiving carer under section 142(1)﻿(f).
   (1) The Commissioner may write off some or all of an amount of child support debt that is payable by the estate of a liable person to the Crown under this Act, and that is unpaid and in arrear, if—
     (a) the liable person has died; and
     (b) the Commissioner is satisfied that the liable person's estate is insufficient to pay the part, or all, of the amount.
@@ -931,21 +934,21 @@ Section 206 is amended by adding the following subsection as subsection (2):
 ### 62 New section 276 substituted
 Section 276 (as added by section 31 of this Act and amended by the Taxation (Annual Rates, Foreign Superannuation, and Remedial Matters) Act 2014) is repealed and the following section substituted:Transitional and savings provisions relating to amendments to Act
   (1) The transitional and savings provisions set out in Schedule 1, which relate to amendments to this Act that come into force on and after 1 April 2015, have effect for the purposes of this Act.
-  (2) The transitional and savings provisions relating to, or to the provisions of, the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 1 specified in the second column of that table:Amendment Act or provisions of itSchedule 1 PartChild Support Amendment Act 2013: Part 1 (except sections 6, 18, 19, 19A, 31, and 32)Part 1Child Support Amendment Act 2013: Part 2Part 2
+  (2) The transitional and savings provisions relating to, or to the provisions of, the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 1 specified in the second column of that table:The following table is small in size and has 2 columns. Column 1 is headed Amendment Act or provisions of it. Column 2 is headed Schedule 1 Part.Amendment Act or provisions of itSchedule 1 PartChild Support Amendment Act 2013: Part 1 (except sections 6, 18, 19, 19A, 31, and 32)Part 1Child Support Amendment Act 2013: Part 2Part 2
 
 **Amendments to Schedule 1**
 
 ### 63 Schedule 1 amended
-(1) Schedule 1 (as inserted by section 32 of this Act) is amended by inserting the following Part heading before clause 1:Child Support Amendment Act 2013: Provisions relating to amendments effective on 1 April 2015.
+(1) Schedule 1 (as inserted by section 32 of this Act) is amended by inserting the following Part heading before clause 1:Child Support Amendment Act 2013: Provisions relating to amendments effective on 1 April 2015
 (2) Schedule 1 (as inserted by section 32 of this Act) is amended by adding the following Part:Child Support Amendment Act 2013: Provisions relating to amendments effective on 1 April 2016Amendments to Part 7 (grounds for departure from formula assessment)Amendments to Part 8 (penalties imposed under section 134 before 1 April 2016)
-  Section 105(2)(d), (7), and (8) (as substituted or added on 1 April 2016 by the Child Support Amendment Act 2013) apply only to the following made on or after 1 April 2016:
+  Section 105(2)﻿(d), (7), and (8) (as substituted or added on 1 April 2016 by the Child Support Amendment Act 2013) apply only to the following made on or after 1 April 2016:
     (a) applications under section 96B:
     (b) applications under section 104.
   (1) Section 134 (as substituted on 1 April 2016 by the Child Support Amendment Act 2013) does not limit or affect a person's liability to pay any penalties imposed in respect of the same debt under section 134 (as in force before 1 April 2016).
   (2) The reference in section 134(1) (as substituted on 1 April 2016) to a financial support debt incurred before 1 April 2016 includes any initial late payment penalties or incremental penalties or both that are imposed under section 134(1) (as in force before 1 April 2016) in respect of, and that are deemed under section 134(2) (as in force before 1 April 2016) to be of the same nature as, that debt.
-  (3) An initial late payment penalty (seventh day after due date) under section 134(3) (as substituted on 1 April 2016) must not be imposed on a financial support debt on which an initial late payment penalty under section 134(1)(a) (as in force before 1 April 2016) was imposed on or after 25 March 2016.
-  (4) Section 134(4) (as substituted on 1 April 2016) applies to a financial support debt on which an initial late payment penalty under section 134(1)(a) (as in force before 1 April 2016) was imposed on or after 1 March 2016.
-  (5) Section 134(5) or (6) (as substituted on 1 April 2016) applies (as the case requires) to a financial support debt on which an incremental penalty under (as the case requires) section 134(1)(b) or (c) (as in force before 1 April 2016) was imposed on or after 1 March 2016.
+  (3) An initial late payment penalty (seventh day after due date) under section 134(3) (as substituted on 1 April 2016) must not be imposed on a financial support debt on which an initial late payment penalty under section 134(1)﻿(a) (as in force before 1 April 2016) was imposed on or after 25 March 2016.
+  (4) Section 134(4) (as substituted on 1 April 2016) applies to a financial support debt on which an initial late payment penalty under section 134(1)﻿(a) (as in force before 1 April 2016) was imposed on or after 1 March 2016.
+  (5) Section 134(5) or (6) (as substituted on 1 April 2016) applies (as the case requires) to a financial support debt on which an incremental penalty under (as the case requires) section 134(1)﻿(b) or (c) (as in force before 1 April 2016) was imposed on or after 1 March 2016.
   (6) The Commissioner may, in the Commissioner's discretion, grant relief from initial late payment penalties, incremental penalties, or both, imposed on a person under section 134 (as substituted on 1 April 2016) if satisfied that the relief is necessary or desirable to prevent unfairness arising from corresponding equivalent penalties also having been imposed on the person under section 134 (as in force before 1 April 2016).
 
 ## Schedule 1 — New Schedule 1 inserted
