@@ -1,5 +1,5 @@
 # Finance Act (No 2) 1990
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2016-02-24_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -17,7 +17,7 @@ In this Act, unless the context otherwise requires,—
   - **Post Office bonus bonds** means Post Office bonus bonds issued pursuant to the Post Office Act 1959 before 1 April 1987.
 
 ### 3 Meaning of approved unit trust
-(1) In this Act approved unit trust means a unit trust (within the meaning of section YA 1 of the Income Tax Act 2007) of which the Bank is the manager under which net income is distributed among the unit holders, in whole or in part, by prizes determined by ballot and which is approved for the purposes of this Act by the Minister by notice in the Gazette.
+(1) In this Act approved unit trust means a unit trust (within the meaning of section YA 1 of the Income Tax Act 2007, but ignoring paragraph (b)﻿(x) of the definition of unit trust) of which the Bank is the manager under which net income is distributed among the unit holders, in whole or in part, by prizes determined by ballot and which is approved for the purposes of this Act by the Minister by notice in the Gazette.
 (2) The Minister shall not approve, under subsection (1), a unit trust that makes provision for interests to be held by persons who become unit holders by reason only of having been the holders of bonus bonds or Post Office bonus bonds unless—
   (a) the Minister is satisfied that the rights conferred on those persons are not, subject to this Act, substantially different from the rights which those persons had as the holders of those bonds; and
   (b) the unit trust deed provides that, for at least 2 years after the appointed day, the unit trust is required, if requested to do so, to buy back or redeem those interests deemed to have been issued to those persons.
