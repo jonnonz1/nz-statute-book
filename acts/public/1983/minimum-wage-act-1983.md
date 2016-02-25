@@ -1,5 +1,5 @@
 # Minimum Wage Act 1983
-_Consolidation as at 2014-04-23_
+_Consolidation as at 2016-02-25_
 
 > An Act to consolidate and amend the law relating to minimum wages
 
@@ -37,13 +37,13 @@ This Act shall bind the Crown.
 (2) A rate prescribed under subsection (1) must not be less than 80% of the minimum adult rate prescribed under section 4 and may be prescribed as—
   (a) a monetary amount; or
   (b) a percentage of the minimum adult rate.
-(3) If a minimum starting-out rate is prescribed under subsection (1) by reference to a factor specified in subsection (1)(c)(i) or (ii) (or both), an employer of a worker to whom that rate applies—
+(3) If a minimum starting-out rate is prescribed under subsection (1) by reference to a factor specified in subsection (1)﻿(c)﻿(i) or (ii) (or both), an employer of a worker to whom that rate applies—
   (a) may pay the worker in accordance with that rate only until the earlier of—
     (i) the date on which the worker has completed 6 months' continuous employment (or any shorter period of continuous employment specified in the order) with any employer or the worker's current employer (as the case requires):
-    (ii) the day before the date on which the worker ceases to satisfy one or both of the criteria in subsection (1)(a) and (b); and
+    (ii) the day before the date on which the worker ceases to satisfy one or both of the criteria in subsection (1)﻿(a) and (b); and
   (b) then must pay the worker no less than the minimum adult rate prescribed under section 4.
 (4) To avoid doubt, if more than 1 minimum starting-out rate prescribed under subsection (1) applies to a worker, only the higher or the highest rate applies.
-(5) For the purposes of subsection (1)(c)(i), a worker is to be treated as having been continuously paid a specified social security benefit—
+(5) For the purposes of subsection (1)﻿(c)﻿(i), a worker is to be treated as having been continuously paid a specified social security benefit—
   (a) whether or not the benefit has been reduced due to any sanction imposed under the Social Security Act 1964 or for any other reason:
   (b) during any period when the benefit was suspended under the Social Security Act 1964 for any reason.
 (6) In this section,—
@@ -52,7 +52,7 @@ This Act shall bind the Crown.
     (b) includes any employment undertaken by the worker before—
       (i) the worker turns 16:
       (ii) the commencement of the Minimum Wage (Starting-out Wage) Amendment Act 2013
-  - **continuously paid 1 or more specified social security benefits** , in relation to a worker to whom an Order in Council made under subsection (1)(c)(i) applies, includes any time spent by the worker on 1 or more specified social security benefits before the worker reached the age defined in the order
+  - **continuously paid 1 or more specified social security benefits** , in relation to a worker to whom an Order in Council made under subsection (1)﻿(c)﻿(i) applies, includes any time spent by the worker on 1 or more specified social security benefits before the worker reached the age defined in the order
   - **specified social security benefit** means any of the following benefits paid or payable under the Social Security Act 1964:
     (a) domestic purposes benefit:
     (b) emergency benefit:
@@ -94,13 +94,13 @@ Notwithstanding anything to the contrary in any enactment, award, collective agr
   (a) the worker is significantly and demonstrably limited by a disability in carrying out the requirements of his or her work; and
   (b) any reasonable accommodations that could have been made to facilitate carrying out the requirements of the work have been considered by the employer and the worker; and
   (c) it is reasonable and appropriate to grant the permit.
-(2) To avoid doubt, nothing in subsection (1)(b) limits or affects any legal obligations that the employer has towards a worker.
+(2) To avoid doubt, nothing in subsection (1)﻿(b) limits or affects any legal obligations that the employer has towards a worker.
 (3) A permit—
   (a) comes into force on the date it is issued or any other date as stated in the permit; and
   (b) remains in force for the period stated in the permit.
 (4) While a permit remains in force, the rate of wages stated in the permit is taken to be the minimum rate of wages prescribed under this Act for the worker.
 (5) A Labour Inspector may revoke a permit at any time if the Inspector considers it is no longer reasonable and appropriate for the permit to remain in force.
-(6) In this section, disability has the same meaning as in section 21(1)(h) of the Human Rights Act 1993.
+(6) In this section, disability has the same meaning as in section 21(1)﻿(h) of the Human Rights Act 1993.
 
 ### 8A Wages and time records
 (1) Every employer who employs any worker whose wages or rates of wages are prescribed or paid pursuant to this Act shall keep a record (called the wages and time record) showing, in the case of each such worker,—
@@ -130,7 +130,8 @@ This Act shall not apply to—
   (a)
   (b) apprentices bound by an indenture of apprenticeship entered into under the Maori Housing Amendment Act 1938, the New Zealand Railways Corporation Act 1981, the Defence Act 1971, the Post Office Act 1959, or the State Services Act 1962, or under any other Act:
   (c)
-  (d) inmates of any charitable institution (not being persons residing on the premises by reason only of their being employed therein) who, as such inmates, do any work in or in connection with the institution.
+  (d) inmates of any charitable institution (not being persons residing on the premises by reason only of their being employed therein) who, as such inmates, do any work in or in connection with the institution:
+  (e) employees to whom the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016 applies, in respect of travel between clients (as defined in section 4 of that Act) undertaken by those employees.
 
 ### 10 Penalties and jurisdiction
 Every person who makes default in the full payment of any wages payable by that person under this Act and every person who fails to otherwise comply with the requirements of this Act is liable to a penalty recoverable by a Labour Inspector, and imposed by the Employment Relations Authority, under the Employment Relations Act 2000.
