@@ -1,5 +1,5 @@
 # Holidays Act 2003
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2016-02-25_
 
 ### 1 Title
 This Act is the Holidays Act 2003.
@@ -47,7 +47,7 @@ The purpose of this Act is to promote balance between work and other aspects of 
     (b) does not include a payment that the employer is bound, by the employee's employment agreement, to pay the employee, even though—
       (i) the amount to be paid is not specified in that employment agreement and the employer may determine the amount to be paid; or
       (ii) the employer is required under that employment agreement to make the payment only if certain conditions are met
-  - **employee** has the same meaning as in section 6 (except subsection (1)(b)(ii)) of the Employment Relations Act 2000
+  - **employee** has the same meaning as in section 6 (except subsection (1)﻿(b)﻿(ii)) of the Employment Relations Act 2000
   - **existing collective agreement** means a collective agreement that was entered into before 1 April 2004
   - **existing employment agreement** means an employment agreement that is entered into before 1 April 2004
   - **existing individual employment agreement** means an individual employment agreement that was entered into before 1 April 2004
@@ -109,7 +109,7 @@ This Act—
     (iii) any one-off or exceptional payments:
     (iv) any discretionary payments that the employer is not bound, under the terms of the employee’s employment agreement, to pay the employee:
     (v) any payment of any employer contribution to a superannuation scheme for the benefit of the employee.
-(2) If it is not possible to determine an employee’s ordinary weekly pay under subsection (1), the pay must be calculated in accordance with the following formula:a − bcwhere—ais the employee’s gross earnings for—bis the total amount of payments described in subsection (1)(c)(i) to (iii)cis 4.
+(2) If it is not possible to determine an employee’s ordinary weekly pay under subsection (1), the pay must be calculated in accordance with the following formula:The following table is small in size and contains a formula.a − bcwhere—ais the employee’s gross earnings for—bis the total amount of payments described in subsection (1)﻿(c)﻿(i) to (iii)cis 4.
   (i) the 4 calendar weeks before the end of the pay period immediately before the calculation is made; or
   (ii) if, the employee’s normal pay period is longer than 4 weeks, that pay period immediately before the calculation is made
 (3) However, an employment agreement may specify a special rate of ordinary weekly pay for the purpose of calculating annual holiday pay if the rate is equal to, or greater than, what would otherwise be calculated under subsection (1) or subsection (2).
@@ -123,14 +123,14 @@ This Act—
     (iii) the cash value of any board or lodgings provided by the employer to the employee; but
   (c) excludes any payment of any employer contribution to a superannuation scheme for the benefit of the employee.
 (2) However, an employment agreement may specify a special rate of relevant daily pay for the purpose of calculating payment for a public holiday, an alternative holiday, sick leave, or bereavement leave if the rate is equal to, or greater than, the rate that would otherwise be calculated under subsection (1).
-(3) To avoid doubt, if subsection (1)(a) is to be applied in the case of a public holiday, the amount of pay does not include any amount that would be added by virtue of section 50(1)(a) (which relates to the requirement to pay time and a half).
+(3) To avoid doubt, if subsection (1)﻿(a) is to be applied in the case of a public holiday, the amount of pay does not include any amount that would be added by virtue of section 50(1)﻿(a) (which relates to the requirement to pay time and a half).
 
 ### 9A Average daily pay
 (1) An employer may use an employee's average daily pay for the purposes of calculating payment for a public holiday, an alternative holiday, sick leave, or bereavement leave if—
   (a) it is not possible or practicable to determine an employee's relevant daily pay under section 9(1); or
   (b) the employee's daily pay varies within the pay period when the holiday or leave falls.
-(2) The employee's average daily pay must be calculated in accordance with the following formula:abwhere—ais the employee's gross earnings for the 52 calendar weeks before the end of the pay period immediately before the calculation is madebis the number of whole or part days during which the employee earned those gross earnings, including any day on which the employee was on a paid holiday or paid leave; but excluding any other day on which the employee did not actually work.
-(3) To avoid doubt, if subsection (2) is to be applied in the case of a public holiday, the amount of pay does not include any amount that would be added by virtue of section 50(1)(a) (which relates to the requirement to pay time and a half).
+(2) The employee's average daily pay must be calculated in accordance with the following formula:The following table is small in size and contains a formula.abwhere—ais the employee's gross earnings for the 52 calendar weeks before the end of the pay period immediately before the calculation is madebis the number of whole or part days during which the employee earned those gross earnings, including any day on which the employee was on a paid holiday or paid leave; but excluding any other day on which the employee did not actually work.
+(3) To avoid doubt, if subsection (2) is to be applied in the case of a public holiday, the amount of pay does not include any amount that would be added by virtue of section 50(1)﻿(a) (which relates to the requirement to pay time and a half).
 
 ### 10 Cash value of board or lodgings included in ordinary weekly pay and relevant daily pay
 (1) For the purposes of section 8 and section 9, the ordinary weekly pay or relevant daily pay (as the case may be) of an employee includes the cash value of any board or lodgings provided by an employer to the employee—
@@ -139,6 +139,11 @@ This Act—
 (2) Despite subsection (1), the ordinary weekly pay or relevant daily pay of an employee does not include the cash value of any board or lodgings provided by an employer to the employee—
   (a) if the work done by the employee requires the employee to stay overnight in a residence other than the employee’s usual place of residence; or
   (b) if the board or lodgings are provided because of special circumstances.
+
+### 10A Treatment of payments made under Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016
+For the purposes of sections 8, 9, and 14, the ordinary weekly pay, relevant daily pay, or gross earnings (as the case may be) of an employee—
+  (a) includes payments made to the employee under section 14 of the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016; but
+  (b) excludes payments made to the employee under section 19 of the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016.
 
 ### 11 Labour Inspector may determine ordinary weekly pay, relevant daily pay, and average daily pay
 (1) This section applies if an employer and employee cannot agree on the amount of the employee's—
@@ -212,8 +217,8 @@ The purpose of this subpart is to—
     (iv) receiving weekly compensation under the Injury Prevention, Rehabilitation, and Compensation Act 2001 or former Act as well as, or instead of, payment from the employer; or
     (v) on unpaid sick leave or unpaid bereavement leave; or
     (vi) on unpaid leave for any other reason for a period of no more than 1 week; but
-  (b) unless otherwise agreed, does not include any other unpaid leave, being leave other than that referred to in paragraph (a)(v) and (vi).
-(3) If, for the purposes of subsection (2)(b), an employer and employee agree that any period of unpaid leave of more than 1 week is to be included in the employee’s 12 months of continuous employment, the divisor of 52 to be used for the purposes of calculating the employee’s average weekly earnings must be reduced by the number of whole or part weeks greater than 1 week that the employee was on the unpaid leave.
+  (b) unless otherwise agreed, does not include any other unpaid leave, being leave other than that referred to in paragraph (a)﻿(v) and (vi).
+(3) If, for the purposes of subsection (2)﻿(b), an employer and employee agree that any period of unpaid leave of more than 1 week is to be included in the employee’s 12 months of continuous employment, the divisor of 52 to be used for the purposes of calculating the employee’s average weekly earnings must be reduced by the number of whole or part weeks greater than 1 week that the employee was on the unpaid leave.
 (4) An employee's entitlement to annual holidays remains in force until the employee has—
   (a) taken all of the entitlement as paid holidays; or
   (b) been paid out under section 28B for the entitlement in the entitlement year.
@@ -257,7 +262,7 @@ An employer may allow an employee to take an agreed portion of the employee’s 
     (ii) the employee’s average weekly earnings for—
       (A) the 12 months immediately before the end of the last pay period before the annual holiday if the employee has worked for the employer for not less than 12 months; or
       (B) the period of employment before the end of the last pay period before the annual holiday if the employee has worked for the employer for less than 12 months.
-(3) To avoid doubt, for the purposes of subsection (2)(b)(ii)(B), the divisor of 52 for the purpose of calculating the employee’s average weekly earnings is to be reduced so that it represents the number of whole or part weeks that the employee worked for the employer in the period of employment.
+(3) To avoid doubt, for the purposes of subsection (2)﻿(b)﻿(ii)﻿(B), the divisor of 52 for the purpose of calculating the employee’s average weekly earnings is to be reduced so that it represents the number of whole or part weeks that the employee worked for the employer in the period of employment.
 
 ### 23 Calculation of annual holiday pay if employment ends within 12 months
 (1) Subsection (2) applies if—
@@ -293,7 +298,7 @@ To avoid doubt,—
 (1) An employer must pay an employee for an annual holiday before the holiday is taken unless—
   (a) the employer and employee agree that the employee is to be paid in the pay that relates to the period during which the holiday is taken; or
   (b) the employee’s employment has come to an end.
-(2) If subsection (1)(b) applies, the employer must pay the annual holiday pay in the pay that relates to the employee’s final period of employment.
+(2) If subsection (1)﻿(b) applies, the employer must pay the annual holiday pay in the pay that relates to the employee’s final period of employment.
 
 ### 28 When annual holiday pay may be paid with employee’s pay
 (1) Despite section 27, an employer may regularly pay annual holiday pay with the employee’s pay if—
@@ -303,8 +308,8 @@ To avoid doubt,—
   (b) the employee agrees in his or her employment agreement; and
   (c) the annual holiday pay is paid as an identifiable component of the employee’s pay; and
   (d) the annual holiday pay is paid at a rate not less than 8% of the employee’s gross earnings.
-(2) If an employee to whom subsection (1)(a)(i) applies is employed by the same employer beyond 12 months on a series of fixed-term agreements of less than 12 months each, the employer and employee may agree that the employee is to be paid in accordance with subsection (1) regardless of the number of agreements.
-(3) If the fixed-term agreement of an employee to whom subsection (1)(a)(i) applies is followed by permanent employment with the same employer, the employee—
+(2) If an employee to whom subsection (1)﻿(a)﻿(i) applies is employed by the same employer beyond 12 months on a series of fixed-term agreements of less than 12 months each, the employer and employee may agree that the employee is to be paid in accordance with subsection (1) regardless of the number of agreements.
+(3) If the fixed-term agreement of an employee to whom subsection (1)﻿(a)﻿(i) applies is followed by permanent employment with the same employer, the employee—
   (a) becomes entitled to paid annual holidays at the end of 12 months’ continuous employment (including the period of that fixed-term agreement) under section 16; but
   (b) the amount of the holiday pay that the employee is entitled to be paid for the holidays is reduced by the amount that the employee has already received under subsection (1).
 (4) If an employer has incorrectly paid annual holiday pay with an employee’s pay in circumstances where subsection (1) does not apply and the employee’s employment has continued for 12 months or more, then, despite those payments, the employee becomes entitled to annual holidays in accordance with section 16 and paid in accordance with this subpart.
@@ -328,7 +333,7 @@ To avoid doubt,—
   (b) includes a period of 12 months continuous employment described in section 16(2).
 
 ### 28B Payment for annual holidays paid out
-(1) If an employer agrees to pay out a portion of the employee's annual holidays under section 28A(3)(c), the employer must pay the employee for that portion—
+(1) If an employer agrees to pay out a portion of the employee's annual holidays under section 28A(3)﻿(c), the employer must pay the employee for that portion—
   (a) in accordance with section 21(2); and
   (b) as soon as practicable after the employer has agreed to the employee's request under that provision.
 (2) If an employer has incorrectly paid out a portion of the employee's annual holidays where the employee did not make a request for the payment, the employee's entitlement to take the portion of annual holidays concerned remains in force as if the payment had not been made.
@@ -521,12 +526,12 @@ ExampleAn employee is to work from 10 pm on 24 April to 6 am on Anzac Day and fr
 (3) If an employer adopts a policy under subsection (1), sections 44A and 44B do not apply in relation to any parts of the employer's business to which the policy applies.
 
 ### 45 Transfer of public holidays over Christmas and New Year
-(1) For the purposes of this subpart, if any of the public holidays listed in section 44(1)(a) to (d)—
+(1) For the purposes of this subpart, if any of the public holidays listed in section 44(1)﻿(a) to (d)—
   (a) falls on a Saturday and the day would otherwise be a working day for the employee, the public holiday must be treated as falling on that day:
   (b) falls on a Saturday and the day would not otherwise be a working day for the employee, the public holiday must be treated as falling on the following Monday:
   (c) falls on a Sunday and the day would otherwise be a working day for the employee, the public holiday must be treated as falling on that day:
   (d) falls on a Sunday and the day would not otherwise be a working day for the employee, the public holiday must be treated as falling on the following Tuesday.
-(2) To avoid doubt, this section does not entitle an employee to more than 4 public holidays for the days listed in section 44(1)(a) to (d).
+(2) To avoid doubt, this section does not entitle an employee to more than 4 public holidays for the days listed in section 44(1)﻿(a) to (d).
 
 ### 45A Transfer of Waitangi Day and ANZAC Day public holidays
 (1) For the purposes of this subpart, if Waitangi Day or ANZAC Day—
@@ -567,7 +572,7 @@ If an employee does not work on a public holiday and the day would otherwise be 
 (1) If an employee works (in accordance with his or her employment agreement) on any part of a public holiday, the employer must pay the employee the greater of—
   (a) the portion of the employee’s relevant daily pay or average daily pay (less any penal rates) that relates to the time actually worked on the day plus half that amount again; or
   (b) the portion of the employee’s relevant daily pay that relates to the time actually worked on the day.
-(2) In subsection (1)(a), penal rates—
+(2) In subsection (1)﻿(a), penal rates—
   (a) means an identifiable additional amount that is payable to compensate the employee for working on a particular day of the week or a public holiday; but
   (b) does not include, for example, any additional payment for a sixth or seventh day of work.
 (3) This section is subject to section 51.
@@ -631,7 +636,7 @@ An employer must pay an employee for a public holiday in the pay that relates to
   (b) be a day that would otherwise be a working day for the employee; and
   (c) be a whole working day off work for the employee, regardless of the amount of time the employee actually worked on the public holiday; and
   (d) not be taken on a public holiday.
-(2) If an employer and employee cannot agree under subsection (1)(a) on when an alternative holiday is to be taken, the day must be taken on a date determined, on a reasonable basis, by the employer.
+(2) If an employer and employee cannot agree under subsection (1)﻿(a) on when an alternative holiday is to be taken, the day must be taken on a date determined, on a reasonable basis, by the employer.
 (3) If subsection (2) applies, the employer must give the employee at least 14 days' notice of the requirement to take the alternative holiday.
 
 ### 58 When employee may be required to take alternative holiday
@@ -672,7 +677,7 @@ An employer must pay an employee for a public holiday in the pay that relates to
 (2) If this section applies,—
   (a) the public holiday must continue to be treated as a public holiday and not as sick leave or bereavement leave for the employee; and
   (b) to avoid doubt, the employee—
-    (i) must be paid for the day in accordance with section 49 and is not entitled to be paid at time and a half in accordance with section 50(1)(a); and
+    (i) must be paid for the day in accordance with section 49 and is not entitled to be paid at time and a half in accordance with section 50(1)﻿(a); and
     (ii) is not entitled to an alternative holiday under section 56.
 
 ### Subpart 4 — Sick leave and bereavement leave
@@ -685,14 +690,14 @@ The purpose of this subpart is to provide all employees with a minimum entitleme
 ### 63 Entitlement to sick leave and bereavement leave
 (1) An employee is entitled to sick leave and bereavement leave in accordance with this subpart—
   (a) after the employee has completed 6 months’ current continuous employment with the employer; or
-  (b) if, in the case of an employee to whom subsection (1)(a) does not apply, the employee has, over a period of 6 months, worked for the employer for—
+  (b) if, in the case of an employee to whom subsection (1)﻿(a) does not apply, the employee has, over a period of 6 months, worked for the employer for—
     (i) at least an average of 10 hours a week during that period; and
     (ii) no less than 1 hour in every week during that period or no less than 40 hours in every month during that period.
 (2) Sick leave and bereavement leave must be provided—
-  (a) to an employee to whom subsection (1)(a) applies, for—
+  (a) to an employee to whom subsection (1)﻿(a) applies, for—
     (i) the 12-month period of continuous employment beginning at the end of the 6-month period specified in that subsection; and
     (ii) each subsequent 12 months of current continuous employment:
-  (b) to an employee to whom subsection (1)(b) applies, for—
+  (b) to an employee to whom subsection (1)﻿(b) applies, for—
     (i) the 12-month period of employment beginning at the end of the 6-month period specified in that subsection; and
     (ii) each subsequent 12-month period of employment as long as the circumstances referred to in subparagraphs (i) and (ii) of that subsection continue to apply.
 (3) However, an employer and employee may agree that—
@@ -735,7 +740,7 @@ An employee is not entitled to be paid for any sick leave that has not been take
 (4) To avoid doubt,—
   (a) this section does not prevent an employer who is otherwise legally authorised to so require, from requiring an employee to establish that there are no relevant health and safety reasons or hygiene reasons that would prevent the employee from working:
   (b) subsection (1) or subsection (1A) does not give the employer the right to require the employee to obtain the proof from a person specified by the employer.
-(5) In this section, medical practitioner means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+(5) In this section, medical practitioner means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
 
 **Bereavement leave**
 
@@ -751,15 +756,15 @@ An employee is not entitled to be paid for any sick leave that has not been take
     (vi) grandchild:
     (vii) spouse’s or partner’s parent; or
   (b) on the death of any other person if the employer accepts, having regard to relevant factors such as those set out in subsection (3), that the employee has suffered a bereavement as a result of the death.
-(3) For the purposes of subsection (2)(b), relevant factors include—
+(3) For the purposes of subsection (2)﻿(b), relevant factors include—
   (a) the closeness of the association between the employee and the deceased person:
   (b) whether the employee has to take significant responsibility for all or any of the arrangements for the ceremonies relating to the death:
   (c) any cultural responsibilities of the employee in relation to the death.
 
 ### 70 Duration of bereavement leave
 (1) An employer must allow an employee to take—
-  (a) 3 days’ bereavement leave for each type of bereavement described in section 69(2)(a); and
-  (b) 1 day’s bereavement leave for a bereavement described in section 69(2)(b).
+  (a) 3 days’ bereavement leave for each type of bereavement described in section 69(2)﻿(a); and
+  (b) 1 day’s bereavement leave for a bereavement described in section 69(2)﻿(b).
 (2) If an employee suffers more than 1 bereavement at the same time, he or she may take the amount of bereavement leave specified in subsection (1) in respect of each bereavement.
 
 **Payment for sick leave and bereavement leave**
@@ -795,7 +800,7 @@ An employee is not entitled to be paid for any sick leave that has not been take
   (c) a representative of a union of which the employee is a member:
   (d) an employer:
   (e) a Labour Inspector.
-(2) An employee’s entitlement to annual holidays, public holidays, sick leave, or bereavement leave that are in addition to entitlements under this Act may be enforced only by the persons listed in subsection (1)(a) to (c).
+(2) An employee’s entitlement to annual holidays, public holidays, sick leave, or bereavement leave that are in addition to entitlements under this Act may be enforced only by the persons listed in subsection (1)﻿(a) to (c).
 
 ### 75 Penalty for non-compliance
 (1) An employer who fails to comply with any of the provisions listed in subsection (2) is liable,—
