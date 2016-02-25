@@ -1,5 +1,5 @@
 # Housing Act 1955
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2016-02-25_
 
 > An Act to consolidate and amend the Housing Act 1919 and certain other enactments of the Parliament of New Zealand relating to State housing
 
@@ -14,6 +14,7 @@ This Act may be cited as the Housing Act 1955.
   - **dwelling** means any building or part of a building that is suitable for residential accommodation of any kind; and includes every garage, shed, and other building used in connection therewith; but does not include the land appurtenant to a dwelling
   - **local authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **Minister** means the Minister of Housing
+  - **Ministry** means the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act
   - **owner** , in relation to any land in respect of which there is registered an easement certificate issued under section 25, means the person (including the Crown) for the time being entitled to the rack rent thereof or who would be so entitled if the land were let at a rack rent; and does not include the Crown in any case where any agreement for sale or licence to occupy under section 16 or section 17 is for the time being in force in respect of the land
   - **pipeline** means any system of pipes for the passage or disposal of water or storm water or sewage; and includes a septic tank system and a communal water supply system
   - **State housing land** means land that is for the time being held or set apart for State housing purposes; and includes land that at any material date was held or set apart for the purposes of Part 1 of the Housing Act 1919
@@ -22,6 +23,15 @@ This Act may be cited as the Housing Act 1955.
     (b) for schemes of development and subdivision into sites for dwellings:
     (c) for motorways, roads, streets, access ways, service lanes, reserves, pumping stations, drainage and water works, river and flood protection works, and other works upon or for the benefit of the land so acquired or the occupiers thereof.
 (2) While an agreement for sale under section 16 remains in force in respect of any land, the land shall be deemed not to be State housing land. If any such agreement is rescinded, the land (if then belonging to the Crown) shall thereupon be deemed to be State housing land.
+
+### 2A Minister may exclusively administer land declared subject to this section
+(1) The Minister may, after notifying the Corporation and by notice in the Gazette, declare any State housing land or class of State housing land (including any dwellings, other buildings, and chattels on that land) to be land that is subject to this section (section 2A land).
+(2) The effect of a declaration is that the Minister, to the exclusion of the Corporation, has and may perform and exercise the functions, powers, and duties of the Corporation under this Act in respect of section 2A land.
+(3) However, sections 32 to 34 do not apply in respect of section 2A land.
+(4) The Corporation is not responsible or liable for the Minister’s performance or exercise of functions, powers, or duties under subsection (2).
+(5) A declaration made under subsection (1) is a disallowable instrument but not a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) All amounts payable to the Crown in respect of section 2A land (including all amounts that, if this Act had not been passed, would have been payable into the Housing Account (if any)) must be paid to a Crown Bank Account.
+(7) The Ministry must include in its annual report under section 43 of the Public Finance Act 1989 a report on the operations in respect of section 2A land for the relevant financial year.
 
 ## Part 1 — State houses
 
