@@ -1,5 +1,5 @@
 # Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2015-05-28_
+_Consolidation as at 2016-02-25_
 
 > An Act to—aprovide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbprovide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcprovide for related matters, income-related rents, information matching, and other tenancy matters
 
@@ -229,6 +229,7 @@ The shareholding Ministers and the company may agree pursuant to section 22 that
 (2) Notwithstanding any other provision of this Act, no land for the time being administered by the Department of Conservation under the Conservation Act 1987 or under any enactment specified in Schedule 1 to that Act shall be vested in the company pursuant to this Part.
 (3) All land that is subject to the Housing Act 1955 and that is vested in the company pursuant to this Part shall cease to be subject to that Act from the date of that vesting unless otherwise expressly provided by this Act or any other Act.
 (4) Nothing in sections 40 to 42 of the Public Works Act 1981 shall apply to the vesting of land in the company pursuant to this Part.
+(4A) To avoid doubt, sections 40 to 42 of the Public Works Act 1981 do not apply (and have never applied) to the sale or disposal by the company of land vested in the company pursuant to this Part.
 (5) Nothing in this Part or in any vesting of land in the company pursuant to this Part shall derogate from the provisions of section 10 or section 11 of the Crown Minerals Act 1991.
 
 ### 28 Title to land vested in company
