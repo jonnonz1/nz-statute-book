@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2016-03-01_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -55,7 +55,7 @@ _Consolidation as at 2014-07-01_
   - **decision** includes requirement
   - **delegated prescriber** means a health practitioner to whom a delegated prescribing order has been issued
   - **delegated prescribing order** means a written instruction, issued in accordance with regulations by an authorised prescriber, authorising a health practitioner to prescribe prescription medicines
-  - **delegated prescribing rights** means prescribing rights granted by regulations made under section 105(1)(qaa)
+  - **delegated prescribing rights** means prescribing rights granted by regulations made under section 105(1)﻿(qaa)
   - **dentifrice** means any substance or mixture of substances used or represented for use for the purpose of cleansing the mouths or teeth (natural or artificial) of human beings; and includes any denture fixative
   - **dentist** means a health practitioner who is, or is deemed to be, registered with the Dental Council of New Zealand established by the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of dentistry
   - **designated prescriber** means a person, other than a practitioner, nurse practitioner, optometrist, or a registered midwife, who—
@@ -98,16 +98,16 @@ _Consolidation as at 2014-07-01_
   - **nurse practitioner** means a health practitioner—
     (a) who is, or is deemed to be, registered with the Nursing Council as a practitioner of the profession of nursing; and
     (b) for whom the Nursing Council has authorised a scope of practice that includes prescribing medicines
-  - **Nursing Council** means the Nursing Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003
+  - **Nursing Council** means the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003
   - **officer** means—
     (a) any officer of the Ministry of Health:
     (b) any person appointed under section 15 to be an officer
   - **optometrist** means a person—
     (a) who is, or is deemed to be, registered with the Optometrists and Dispensing Opticians Board as a practitioner of optometry; and
     (b) for whom the Optometrists and Dispensing Opticians Board has authorised a scope of practice that includes prescribing medicines
-  - **Optometrists and Dispensing Opticians Board** means the Optometrists and Dispensing Opticians Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003
+  - **Optometrists and Dispensing Opticians Board** means the Optometrists and Dispensing Opticians Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003
   - **pack** means to enclose in a container for the purpose of sale or supply
-  - **package** , in relation to any medicine or medical device, means any box, packet, or other receptacle in which 1 or more containers of the medicine or device, are or are to be enclosed; and, where any such box, packet, or other receptacle is or is to be itself enclosed in 1 or more other boxes, packets, or other receptacles, includes every such box, packet, or other receptacle
+  - **package** , in relation to any medicine or medical device, means any box, packet, or other receptacle in which 1 or more containers of the medicine or device are or are to be enclosed; and, where any such box, packet, or other receptacle is or is to be itself enclosed in 1 or more other boxes, packets, or other receptacles, includes every such box, packet, or other receptacle
   - **pharmacist** means a health practitioner who is, or is deemed to be, registered with the Pharmacy Council established by the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of pharmacy
   - **pharmacy** means a place where pharmacy practice is carried on
   - **pharmacy practice** includes, without limitation, the following:
@@ -271,7 +271,7 @@ This Act shall bind the Crown.
   (b) 2 persons, to be nominated by the Pharmaceutical Society of New Zealand:
   (c) 2 persons, being officers of the Ministry of Health, one of whom shall be appointed as chairman.
 (4) The members of the Committee shall hold office—
-  (a) in the case of any member appointed under subsection (3)(c), during the pleasure of the Minister:
+  (a) in the case of any member appointed under subsection (3)﻿(c), during the pleasure of the Minister:
   (b) in the case of any other member, for a term of 3 years, subject to subsection (5), but any such member may be reappointed for 1 further term.
 (5) Any member of the Committee may at any time be removed from office by the Minister for disability, neglect of duty, or misconduct proved to the satisfaction of the Minister, or may at any time resign his office by writing addressed to the Minister.
 (6) If any member of the Committee dies, resigns, or is removed from office, the vacancy so created shall be filled in the manner in which the appointment to the vacant office was originally made, and in the case of a vacancy in the office of a nominated member, every person so appointed shall be appointed for the residue of the term for which his predecessor was appointed.
@@ -391,7 +391,7 @@ The Minister shall provide every committee appointed under section 8, and the Me
   (c) be addressed to the Director-General:
   (ca) be accompanied by the prescribed fee:
   (d) state, or be accompanied by a statement of, the particulars specified in subsection (2).
-(2) The particulars required by subsection (1)(d) are the following:
+(2) The particulars required by subsection (1)﻿(d) are the following:
   (a) the business address of the person in whose name the application is made, and, where that person is not the manufacturer of the medicine and of each of the principal ingredients of the medicine, the true name and business address of each such manufacturer:
   (b) the name under which the medicine will be distributed:
   (c) details of the method of manufacture of the medicine:
@@ -445,7 +445,7 @@ In this section, and in sections 23B and 23C, unless the context otherwise requi
     (a) a person who makes or has made, as the case may be, an application; and
     (b) a person on whose behalf an application is, or has been, made, as the case may be
   - **application** means an application for the consent of the Minister under section 20, or for the provisional consent of the Minister under section 23, in relation to a medicine
-  - **commencement date** means the date this section, and sections 23B, and 23C come into force
+  - **commencement date** means the date this section and sections 23B and 23C come into force
   - **confidential information** includes—
     (a) trade secrets; and
     (b) information that has commercial value that would be, or would be likely to be, diminished by disclosure
@@ -485,7 +485,7 @@ Where the Minister receives, or received not more than 5 years before the commen
     (ii) if that disclosure or use is, in the opinion of the Minister, necessary to protect the health or safety of members of the public; or
   (b) if, in the opinion of the Minister, the relevant committee, adviser, government department, statutory body, or person will take reasonable steps to ensure the confidential supporting information is kept confidential, disclose that confidential supporting information to—
     (i) an advisory or technical committee appointed under section 8; or
-    (ii) the Medicines Classifications Committee appointed under section 9; or
+    (ii) the Medicines Classification Committee appointed under section 9; or
     (iii) the Medicines Review Committee established under section 10; or
     (iv) any adviser for the purpose of obtaining advice about the medicine to which the confidential supporting information relates; or
     (v) a government department or statutory body for the purposes of the government department or statutory body; or
@@ -494,7 +494,7 @@ Where the Minister receives, or received not more than 5 years before the commen
     (ii) the Food and Agriculture Organisation:
     (iii) any regulatory agency of a WTO country:
     (iv) any person or organisation, or a person or organisation within a class or classes of persons or organisations, approved by regulations made under this Act.
-(2) The power to grant consent under subsection (1)(a)(i) may be exercised by a person other than the applicant referred to in that subsection if—
+(2) The power to grant consent under subsection (1)﻿(a)﻿(i) may be exercised by a person other than the applicant referred to in that subsection if—
   (a) that applicant—
     (i) has notified the Minister in writing that that other person may grant that consent; and
     (ii) has not notified the Minister in writing that that person's authority to grant that consent has been withdrawn; or
@@ -631,7 +631,7 @@ Notwithstanding anything in section 17 or section 18, but subject to the other p
   (c) set out the true name of the applicant; and
   (ca) be accompanied by the prescribed fee; and
   (d) state, or be accompanied by a statement of, the particulars set out in subsection (3).
-(3) The particulars required by subsection (2)(d) are the following:
+(3) The particulars required by subsection (2)﻿(d) are the following:
   (a) the nature of the medicine, its identifying name or mark, and its chemical formula:
   (b) the purpose of the trial:
   (c) the names and qualifications of the investigators who will conduct the trial, and their curricula vitae:
@@ -668,7 +668,7 @@ Notwithstanding anything in section 17 or section 18, but subject to the other p
 (3) Subsection (1) shall not authorise a person to manufacture, sell, supply, pack, or label a medicine—
   (a) at any place, if that person's principal or employer is not authorised by or under this Act to manufacture, sell, supply, pack, or label (as the case may require) medicines at that place; or
   (b) otherwise than in accordance with any conditions, imposed by or under this Act, to which that person's principal or employer is subject.
-(4) Subsection (3)(a) does not apply in respect of any authority conferred by section 26 on a pharmacist or on a pharmacist employed or engaged by a person who is not a pharmacist but who holds a licence to operate a pharmacy.
+(4) Subsection (3)﻿(a) does not apply in respect of any authority conferred by section 26 on a pharmacist or on a pharmacist employed or engaged by a person who is not a pharmacist but who holds a licence to operate a pharmacy.
 
 ### 32 Exemptions for natural therapists and others
 Notwithstanding sections 17 and 20 to 24 or anything in any licence, but subject to the other provisions of this Act and to any regulations made under this Act, any natural therapist or other person may manufacture, pack, label, sell by retail, or supply in circumstances corresponding to retail sale, any medicine that neither is nor contains—for administration to a particular person after being requested by or on behalf of that person to use his own judgment as to the treatment required.
@@ -747,7 +747,7 @@ Section 17 does not apply in respect of the sale by wholesale of a medicine that
 
 ### 40 Compliance with standards
 (1) If a standard is prescribed in respect of a medicine, or a medical device, or the ingredient of a medicine, no person shall, in the course of any business, sell or supply any substance or article under a name that is likely to cause the person to whom the substance or article is sold or supplied to believe that that person is purchasing or otherwise acquiring that medicine, or that medical device, or a substance containing that ingredient, unless the substance or article, or the ingredient of the substance or article, complies with the standard.
-(2) If a persons sells an article to a purchaser in response to a request for a medicine or a medical device of a kind for which a standard is prescribed, he shall be deemed to sell a medicine or medical device of that kind and under such a description as is specified in subsection (1) unless he clearly notifies the purchaser at the time of sale that the article is not of that kind.
+(2) If a person sells an article to a purchaser in response to a request for a medicine or a medical device of a kind for which a standard is prescribed, he shall be deemed to sell a medicine or medical device of that kind and under such a description as is specified in subsection (1) unless he clearly notifies the purchaser at the time of sale that the article is not of that kind.
 (3) Notwithstanding that a medicine, or a medical device, or an ingredient of a medicine, otherwise conforms with the standard prescribed for that medicine, medical device, or ingredient, it shall be deemed not to conform with that standard if anything has been added to it—
   (a) the addition of which is not expressly required or permitted by regulations made under this Act; or
   (b) in a quantity or proportion greater or lesser than that so required or permitted; or
@@ -816,7 +816,7 @@ No person may operate any pharmacy that is not for the time being under the imme
     (iii) is of the prescribed character or type; and
     (iv) is labelled in the prescribed manner; and
   (b) if the container is enclosed in a package that is required to be of a prescribed character or type, or to be labelled in a prescribed manner, the package is of that character or type, or is labelled in that manner.
-(2) Notwithstanding subsection (1)(a)(ii), where—the container need not be of a type that can be readily and effectively resealed.
+(2) Notwithstanding subsection (1)﻿(a)﻿(ii), where—the container need not be of a type that can be readily and effectively resealed.
   (a) the container bears a label with directions to the effect that the whole of the contents must be used immediately on opening; and
   (b) the quantity and nature of the contents are such that it is unlikely that less than the whole of the contents will be used on any one occasion—
 (3) Every person commits an offence against this Act who contravenes subsection (1).
@@ -844,7 +844,7 @@ No person may operate any pharmacy that is not for the time being under the imme
 (5) Every person commits an offence against this Act who, without reasonable excuse, contravenes any of the provisions of this section.
 
 ### 47A Effect of grant of delegated prescribing rights
-If regulations made under sections 105(1)(qaa) and 105D grant delegated prescribing rights to a class of registered health professional,—
+If regulations made under sections 105(1)﻿(qaa) and 105D grant delegated prescribing rights to a class of registered health professional,—
   (a) an authorised prescriber who is not a designated prescriber may, in accordance with the regulations, issue a delegated prescribing order to a specified person belonging to that class of registered health professional; and
   (b) the person to whom the delegated prescribing order is issued (the delegated prescriber) may prescribe specified prescription medicines, or a specified class or description of prescription medicines, in accordance with the terms of his or her delegated prescribing order.
 
@@ -915,7 +915,7 @@ If regulations made under sections 105(1)(qaa) and 105D grant delegated prescrib
   (d) that, in the case of an application made by a natural person on his own behalf, the applicant, or, in the case of an application made on behalf of a body corporate, every person proposed to be a responsible person for the purposes of the licence applied for, has a sufficient knowledge of the obligations of a licensee and of the hazards associated with the medicines in which it is proposed to deal:
   (e) that the premises and equipment that the applicant proposes to use are suitable and adequate for the purposes for which the licence is sought:
   (f) that adequate arrangements have been made or are to be made for the making, maintaining, and safekeeping of adequate records in respect of medicines that are manufactured, stored, packed, labelled, or sold in pursuance of the licence or, in the case of an application for a licence to operate a pharmacy, in respect of medicines that are manufactured, stored, packed, labelled, or sold on the premises or in any other place for which the licence to operate is sought.
-(1A) In determining, under subsection (1)(b), whether an applicant is a fit and proper person or of good repute (as the case requires), the licensing authority may take into account, among other things,—
+(1A) In determining, under subsection (1)﻿(b), whether an applicant is a fit and proper person or of good repute (as the case requires), the licensing authority may take into account, among other things,—
   (a) any conviction of the applicant for—
     (i) an offence under this Act, or regulations made under it; or
     (ii) an offence under the Misuse of Drugs Act 1975, or regulations made under it; or
@@ -928,7 +928,7 @@ If regulations made under sections 105(1)(qaa) and 105D grant delegated prescrib
   (b) is subject to—
     (i) any conditions that the licensing authority thinks fit; and
     (ii) any conditions specified in regulations.
-(4A) The licensing authority may, by written notice to the holder of a licence, revoke or amend any condition imposed under subsection (4)(b)(i) or add any new condition.
+(4A) The licensing authority may, by written notice to the holder of a licence, revoke or amend any condition imposed under subsection (4)﻿(b)﻿(i) or add any new condition.
 (5) A licence to sell a medicine may be combined with a licence to pack that medicine.
 (6) If in any case the licensing authority is satisfied that the holder of a licence has failed or is failing to comply with any conditions attached to the licence, the licensing authority may cancel the licence.
 (6AA) The licensing authority may not cancel a licence under subsection (6) unless the holder has been given a reasonable opportunity to be heard, or to make written submissions, in relation to the matter.
@@ -949,7 +949,7 @@ If regulations made under sections 105(1)(qaa) and 105D grant delegated prescrib
   (e) a licence to operate a pharmacy authorises the establishment of the pharmacy and the carrying on of pharmacy practice in the pharmacy.
 (2) A licence to sell medicines by retail shall not authorise the sale by retail, or the supply in circumstances corresponding to retail sale, of any prescription medicine or any restricted medicine.
 (3) A licence is subject to—
-  (a) any conditions imposed by the licensing authority under section 51(4)(b)(i) or (4A); and
+  (a) any conditions imposed by the licensing authority under section 51(4)﻿(b)﻿(i) or (4A); and
   (b) any conditions specified in regulations.
 (4) Except as may be permitted by the terms of the licence, or by any regulations made under this Act, a licence shall not authorise the manufacture, packing and labelling, or sale of a medicine elsewhere than in the premises specified or described in the licence.
 
@@ -976,10 +976,10 @@ If regulations made under sections 105(1)(qaa) and 105D grant delegated prescrib
 (4) If, after giving the holder of a licence to operate a pharmacy whose licence is suspended under subsection (2) a reasonable opportunity to be heard and after considering any evidence adduced or submissions made by the licensee, the licensing authority is satisfied that the holder satisfies all of the criteria set out in subsection (1), the licensing authority must reinstate the licence.
 
 ### 55B Licensing authority may require further information
-(1) The licensing authority, may for 1 or more of the purposes set out in subsection (2), require an applicant for a licence to operate a pharmacy to supply information additional to that contained in the application.
+(1) The licensing authority may, for 1 or more of the purposes set out in subsection (2), require an applicant for a licence to operate a pharmacy to supply information additional to that contained in the application.
 (2) The purposes referred to in subsection (1) are—
   (a) the determination of the nature of the interest held by any person in the pharmacy:
-  (b) the assessment required by section 51(1)(b) (which requires an applicant who is an individual to be a fit and proper person and an applicant who is a body corporate to be of good repute):
+  (b) the assessment required by section 51(1)﻿(b) (which requires an applicant who is an individual to be a fit and proper person and an applicant who is a body corporate to be of good repute):
   (c) the assessment required by section 55A(1).
 (3) If the applicant fails to supply the information requested within 30 days of the date of the request, or within any further time allowed by the licensing authority, the application lapses.
 
@@ -996,7 +996,7 @@ It is a condition of every licence to operate a pharmacy that the holder of the 
   (c) it is deemed to have been issued with a licence under section 114A(2); or
   (d) the pharmacy is in a hospital owned or operated by the company; or
   (e) it is a company that, at the commencement of this section, was lawfully operating a pharmacy.
-(3) Subsection (2)(e) ceases to apply to a company if there is or are a change or changes in the ownership of shares representing 25% of the share capital of the company after the commencement of this section.
+(3) Subsection (2)﻿(e) ceases to apply to a company if there is or are a change or changes in the ownership of shares representing 25% of the share capital of the company after the commencement of this section.
 (4) For the purposes of subsection (2), pharmacist includes an administrator of the estate of a deceased pharmacist, and an assignee within the meaning of the Insolvency Act 2006 of the estate of a pharmacist, until—
   (a) the expiry of the period of 1 year after the date of the death of the deceased pharmacist, or the date on which the pharmacist was adjudicated bankrupt, has expired; or
   (b) subject to any conditions that the licensing authority proposes, the expiry of any extended period or periods permitted by the licensing authority.
@@ -1057,7 +1057,7 @@ In this Part, unless the context otherwise requires,—
   (f) is false, or is likely to mislead any other person, with regard to the nature, quality, strength, purity, composition, origin, age, uses, or effects of medicines or medical devices of that description, kind, or class or of any ingredient or component thereof; or
   (g) directly or by implication states or suggests that medicines or medical devices of that description, kind, or class, cannot harm any person, or any person belonging to a particular class of persons, or is not habit-forming.
 (2) For the purposes of subsection (1), any words that must be included in an advertisement in order to avoid a contravention of that subsection shall, where they appear in an advertisement published by television or otherwise in a transitory manner on a screen, be disregarded unless they are exposed in clearly legible lettering for a length of time sufficient to enable them to be read by the ordinary viewer.
-(3) For the purposes of subsection (1)(f), a medical advertisement shall be deemed to be likely to mislead any person with regard to the uses or effects of medicines or medical devices of a particular description, kind, or class, or of any ingredient or component thereof, if it is likely to mislead with regard to—
+(3) For the purposes of subsection (1)﻿(f), a medical advertisement shall be deemed to be likely to mislead any person with regard to the uses or effects of medicines or medical devices of a particular description, kind, or class, or of any ingredient or component thereof, if it is likely to mislead with regard to—
   (a) any purposes for which medicines or medical devices of that description, kind, or class, or any ingredient or component thereof, can be used with reasonable safety; or
   (b) any purposes for which such medicines or medical devices, or any such ingredient or component, cannot be so used; or
   (c) any effects that such medicines or medical devices, or any such ingredient or component, when used, or when used in any particular way referred to in the advertisement, produce or are intended to produce.
@@ -1085,8 +1085,8 @@ In this Part, unless the context otherwise requires,—
 (5) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who contravenes subsection (1).
 
 ### 60 Exemption for certain advertisements
-Without limiting any power to make regulations under this Act, nothing in section 57(1)(g) or section 58 or section 59 shall apply to any medical advertisement that—
-  (a) is distributed only to persons referred to in section 58(1)(c)(ii); or
+Without limiting any power to make regulations under this Act, nothing in section 57(1)﻿(g) or section 58 or section 59 shall apply to any medical advertisement that—
+  (a) is distributed only to persons referred to in section 58(1)﻿(c)﻿(ii); or
   (b) is contained in a publication that in the ordinary course circulates solely or principally, or is distributed solely or principally, to those persons; or
   (c) not being an advertisement relating to a prescription medicine, or a restricted medicine, or a pharmacy-only medicine, is distributed solely to persons claiming to be available for consultation by other persons for therapeutic purposes and to persons privately consulting them.
 
@@ -1102,7 +1102,7 @@ Without limiting any power to make regulations under this Act, nothing in sectio
   (b) prohibiting the advertising of any specified description of medicine, or kind of medical device, or method of treatment, or of any specified class of medicine, medical device, or method of treatment, in any medical advertisement, or a particular class of medical advertisement, and prohibiting, or requiring and regulating, the mention in any medical advertisement of such matters relating to the composition, properties, nomenclature, origin, and use of medicines of the description or medical devices of the kind or the method of treatment advertised, as may be prescribed:
   (c) enabling the Minister to require, after consultation with such organisations as appear to him to represent any class or classes of persons whose interests might be affected by the requirement, the insertion of particular words specified by the Minister in, or the omission of particular words or other matter so specified from, any particular medical advertisement or class of medical advertisement, and to give directions with respect to the location, size, and appearance of any such insertion and with respect to other matters incidental thereto, and providing a right of appeal in respect of any such requirement or direction:
   (d) generally regulating medical advertisements or any particular class of medical advertisements, or medical advertisements relating to medicines of a particular description, or to medical devices of a particular kind, or to a particular method of treatment, or relating to particular classes of medicines, medical devices, or methods of treatment.
-(2) Any regulations made under subsection (1)(a)—
+(2) Any regulations made under subsection (1)﻿(a)—
   (a) shall be made only on the recommendation of the Minister after consultation with such organisations or bodies as the Minister considers likely to be substantially affected by the regulations; and
   (b) shall be designed to achieve a fair and balanced indication of the potential effects of the medicine or medical device or method of treatment advertised; and
   (c) shall not require the disclosure of information that may reasonably be regarded as confidential, or that cannot reasonably be expected to be in the possession of the person on whose behalf the advertisement is published, or the inclusion of which in the advertisement is otherwise impracticable.
@@ -1144,7 +1144,7 @@ Without limiting any power to make regulations under this Act, nothing in sectio
 (6) If any article seized under section 63 is not destroyed or otherwise disposed of under this section, it shall be returned to the person from whom it was seized when the officer concerned is satisfied of the matters referred to in subsection (3).
 
 ### 65 District Court may order return of property or compensation
-(1) Any person claiming an interest in any substance or article seized under section 63(2)(i), may, within 7 days thereafter, apply to a District Court for an order—
+(1) Any person claiming an interest in any substance or article seized under section 63(2)﻿(i), may, within 7 days thereafter, apply to a District Court for an order—
   (a) that the seizure be disallowed and that the article be returned or otherwise made available to him:
   (b) that the Crown shall pay to him such sum by way of compensation for any depreciation in the value of the substance or article resulting from its seizure, detention, or removal as the court thinks fit.
 (2) On any such application, the court may dismiss it, or, subject to subsections (3) and (4), order—and any such order may be made upon and subject to such terms and conditions as the court thinks fit.
@@ -1220,17 +1220,17 @@ No prosecutor or witness in any prosecution under this Act shall be compelled to
     (i) seize and detain the goods; or
     (ii) order the goods returned by the importer to their place of origin, or some other place outside New Zealand, at the expense of the importer; or
     (iii) permit the goods to be released subject to such conditions as he may specify, including a condition that a new label be substituted for any label on each or any package comprising part of the consignment:
-  (g) nothing in paragraph (c) or paragraph (d) or paragraph (f)(iii) shall limit or affect the Customs and Excise Act 1996.
+  (g) nothing in paragraph (c) or paragraph (d) or paragraph (f)﻿(iii) shall limit or affect the Customs and Excise Act 1996.
 (2) Where an officer seizes any goods under this section, he shall serve notice of his action on the importer of the goods; and, if the goods are still under the control of the Customs, he shall also serve a copy of the notice on the Customs who shall ensure that the goods are not delivered from the control of the Customs without the written consent of the officer.
 (3) Where any goods are seized under this section, section 65 shall apply with all necessary modifications.
 (4) It shall be the duty of all officers of the Customs to assist in carrying out the provisions of this section, and to prevent the introduction into New Zealand of anything contrary to this Act; and for that purpose they may, in respect of anything so introduced or attempted to be introduced, exercise all the powers conferred by the Customs and Excise Act 1996 in the case of uncustomed or prohibited goods.
 
 ### 73 Certain matters presumed
 (1) In any prosecution for an offence against this Act or against any regulations made under this Act, it shall be presumed, until the contrary is proved, that the contents of a container conform with any purported description of the contents shown on any label attached to the container.
-(2) In any prosecution for an offence against this Act or against any regulations made under this Act involving any medicine that is a new medicine by virtue of section 3(3)(c), it shall be presumed that the medicine is a new medicine until the contrary is proved.
+(2) In any prosecution for an offence against this Act or against any regulations made under this Act involving any medicine that is a new medicine by virtue of section 3(3)﻿(c), it shall be presumed that the medicine is a new medicine until the contrary is proved.
 
 ### 74 Certificates of Director-General or Medical Officer of Health
-(1) In any proceedings under this Act, a copy of a record or an extract therefrom made by an officer pursuant to this Act and certified to be a true copy by the officer who made it pursuant to section 63(2)(h) or the person who was caused by the Director-General or the Medical Officer of Health to make it pursuant to section 66(2) shall be deemed to be a true and correct copy until the contrary is proved.
+(1) In any proceedings under this Act, a copy of a record or an extract therefrom made by an officer pursuant to this Act and certified to be a true copy by the officer who made it pursuant to section 63(2)﻿(h) or the person who was caused by the Director-General or the Medical Officer of Health to make it pursuant to section 66(2) shall be deemed to be a true and correct copy until the contrary is proved.
 (2) In any proceedings under this Act, a certificate purporting to be signed by a licensing authority—shall, without proof of the signature of the licensing authority, be sufficient evidence until the contrary is proved of the facts set out in the certificate.
   (a) relating to any contents of the register kept under section 55; or
   (b) stating that on a date specified in the certificate the name of any person did not appear in the said register as a licensee, or any particulars specified in the certificate did not appear in the said register—
@@ -1411,9 +1411,9 @@ Except as provided in section 96, this Act shall not apply to related products.
 (1) Sections 20 to 22, and 35, with all necessary modifications, shall apply to new related products in the same manner and to the same extent as they apply to new medicines.
 (2) Subsections (1) and (2) of section 24 shall apply to every material change made in respect of a related product in the same manner and to the same extent as they apply to material changes in respect of medicines, subject to the following modifications:
   (a) the reference in subsection (1) to the efficacy of the medicine shall be read as a reference only to the efficacy of the related product for a therapeutic purpose:
-  (b) subsection (2)(a) shall be read as applying only to the recommended dosage or the recommended manner of administration or use for a therapeutic purpose:
-  (c) subsection (2)(b) shall be read as applying only to any labelling or descriptive matter relating to a therapeutic purpose:
-  (d) subsection (2)(c) and subsection (2)(d) shall be read as applying only to a material change that is relevant to a therapeutic purpose.
+  (b) subsection (2)﻿(a) shall be read as applying only to the recommended dosage or the recommended manner of administration or use for a therapeutic purpose:
+  (c) subsection (2)﻿(b) shall be read as applying only to any labelling or descriptive matter relating to a therapeutic purpose:
+  (d) subsection (2)﻿(c) and subsection (2)﻿(d) shall be read as applying only to a material change that is relevant to a therapeutic purpose.
 (3) Subsections (3) to (6) of section 24, and sections 37, 40, and 44, Parts 4 and 5 (except section 83), Part 6, and sections 98 and 107, with all necessary modifications, shall apply to related products in the same manner and to the same extent as they apply to medicines.
 (4) All or any of the powers conferred by paragraphs (f), (g), (h), (i), (k), (l), and (y) of subsection (1) of section 105 may be exercised in respect of related products, and the powers conferred by paragraph (k) of that subsection may be exercised in respect of any ingredient of any related product, as they may be exercised in respect of medicines; and for this purpose subsections (2) to (4) of that section shall, so far as they are applicable, apply in respect of related products and ingredients of related products and kinds of related products as they apply in respect of medicines and descriptions of medicines.
 
@@ -1465,32 +1465,32 @@ In this Part, unless the context otherwise requires,—
   (b) after obtaining that advice, may resume his or her consideration of the application on the basis of that advice.
 
 ### 96F Advice on applicability of criteria
-(1) For the purpose of obtaining advice of the kind referred to in section 96E(3)(a) in relation to an application, the Minister may do any 1 or more of the following:
+(1) For the purpose of obtaining advice of the kind referred to in section 96E(3)﻿(a) in relation to an application, the Minister may do any 1 or more of the following:
   (a) establish a committee to advise on the criteria in question:
   (b) request a body or a committee or an association of persons formed or recognised by or under an enactment to advise on the criteria in question:
   (c) request the person who made the application under section 96G (in this section referred to as the applicant) to obtain advice on the criteria in question from a committee consisting of persons nominated by the Minister.
-(2) A committee or body or an association of persons that is to provide advice for the purposes of section 96E(3)(a) may provide that advice only after it has—
+(2) A committee or body or an association of persons that is to provide advice for the purposes of section 96E(3)﻿(a) may provide that advice only after it has—
   (a) given interested parties and members of the public a reasonable opportunity to make submissions in writing or orally, or both; and
   (b) taken any such submissions into account.
-(3) Sections 74 to 86 of the New Zealand Public Health and Disability Act 2000 apply, with all necessary modifications, to the establishment and procedures of a committee that is to be established or that has been established under subsection (1)(a) as if it were an inquiry board under that Act.
-(4) The Minister may agree with an applicant whose application relates to the work of a committee, body, or association established or requested under subsection (1)(a) or (b) that the applicant will pay, or contribute towards the payment of, any costs incurred or to be incurred by the committee or body or association in the examination of aspects of the applicant's application that, in the Minister's opinion, could have significant commercial benefits (whether or not that examination also benefits the public).
-(5) The Minister may agree with an applicant whose application relates to the work of a committee of persons nominated by the Minister under subsection (1)(c) that the Minister will pay, or contribute towards the payment of, any costs incurred or to be incurred by the committee in the examination of aspects of the applicant's application that, in the Minister's opinion, are likely to benefit the public (whether or not that examination also has commercial benefits).
+(3) Sections 74 to 86 of the New Zealand Public Health and Disability Act 2000 apply, with all necessary modifications, to the establishment and procedures of a committee that is to be established or that has been established under subsection (1)﻿(a) as if it were an inquiry board under that Act.
+(4) The Minister may agree with an applicant whose application relates to the work of a committee, body, or association established or requested under subsection (1)﻿(a) or (b) that the applicant will pay, or contribute towards the payment of, any costs incurred or to be incurred by the committee or body or association in the examination of aspects of the applicant's application that, in the Minister's opinion, could have significant commercial benefits (whether or not that examination also benefits the public).
+(5) The Minister may agree with an applicant whose application relates to the work of a committee of persons nominated by the Minister under subsection (1)﻿(c) that the Minister will pay, or contribute towards the payment of, any costs incurred or to be incurred by the committee in the examination of aspects of the applicant's application that, in the Minister's opinion, are likely to benefit the public (whether or not that examination also has commercial benefits).
 (6) If the Minister is, under subsection (4), attempting to reach an agreement with the applicant, the Minister may direct the committee, body, or association concerned not to consider any matters relating to the applicant's application until agreement under subsection (4) has been reached; and the committee or body or association must give effect to that direction.
 
 ### 96G Applications
 (1) A person may, by application to the Minister, request the Minister to grant an authorisation under section 96C or to recommend an authorisation under section 96D(1).
 (2) An application under subsection (1) must be in a form approved by the Director-General and must be accompanied by the prescribed fee.
-(3) If the Minister has, under section 96F(1)(c), requested a person who applies under subsection (1) to obtain any advice, the Minister may defer consideration of the person's application until the person has obtained that advice.
+(3) If the Minister has, under section 96F(1)﻿(c), requested a person who applies under subsection (1) to obtain any advice, the Minister may defer consideration of the person's application until the person has obtained that advice.
 
 ### 96H No compensation
 No compensation is payable by the Crown to any person for any loss or damage arising from the restrictions imposed by section 96B.
 
 ### 96I Enforcement powers
-(1) Sections 63(1), 63(2)(a) to (d), (h), (k), and (3), 66, 68, 74(1), and 85 apply to any investigation or, as the case requires, any prosecution of an offence against section 96B as if—
+(1) Sections 63(1), 63(2)﻿(a) to (d), (h), (k), and (3), 66, 68, 74(1), and 85 apply to any investigation or, as the case requires, any prosecution of an offence against section 96B as if—
   (a) medical device included any substance or thing used as part of, or in connection with, a specified biotechnical procedure (within the meaning of this Part):
-  (b) there were inserted in section 63(2)(a), after the word manufactured, the word used,:
-  (c) there were inserted in section 63(2)(b), after the word manufacture, the word use,:
-  (d) there were inserted in section 66(1)(a), after the word sale, the words or for use in a specified biotechnical procedure (within the meaning of Part 7A):
+  (b) there were inserted in section 63(2)﻿(a), after the word manufactured, the word used,:
+  (c) there were inserted in section 63(2)﻿(b), after the word manufacture, the word use,:
+  (d) there were inserted in section 66(1)﻿(a), after the word sale, the words or for use in a specified biotechnical procedure (within the meaning of Part 7A):
   (e) there were inserted in section 66(1), after the words dealing with the importation, the word use,.
 (2) To avoid any doubt, subsection (1) does not limit the application of any of sections 75, 76, 79, and 84 to any matter concerning, or arising out of, the commission, investigation, or prosecution of an offence against section 96B.
 
@@ -1545,7 +1545,7 @@ The Governor-General may from time to time, by Order in Council, add to or omit 
     (ii) the information that must accompany or be contained in the application; and
     (iii) the manner in which the application must be determined by the decision-maker; and
     (iv) any matters that the decision-maker must take into account when determining the application:
-  (aa) approving persons or organisations, or classes of persons or organisations, for the purposes of section 23C(1)(c)(iv):
+  (aa) approving persons or organisations, or classes of persons or organisations, for the purposes of section 23C(1)﻿(c)﻿(iv):
   (b) prescribing qualifications for and conditions of licences under this Act; and providing for or regulating the custody, production, suspension, or revocation of licences:
   (c) permitting the manufacture, packing, labelling, administration, sale, or supply of medicines otherwise than pursuant to a licence under this Act and otherwise than in accordance with an authority conferred by this Act, subject to such conditions or restrictions (if any) as may be prescribed by or imposed under the regulations:
   (d) prohibiting, limiting, restricting, or imposing conditions on, either generally or in relation to particular cases or classes of case, or particular descriptions or classes of medicines, or particular classes of person, the prescribing, manufacture, packing, labelling, administration, sale, or supply of medicines pursuant to any provision of this Act:
@@ -1586,7 +1586,7 @@ The Governor-General may from time to time, by Order in Council, add to or omit 
   (a) if the regulations refer to a particular edition of a specified publication, the reference shall be construed as including all amendments, additions, and deletions made to that edition and published before the date on which the regulations are made:
   (b) if the regulations do not refer to a particular edition of a specified publication, the reference shall be construed as applying to the edition of the specified publication in force when the regulations are made, so long as that edition remains in force, and thereafter to every subsequent edition of that publication for the time being in force, and as extending to all amendments, additions, and deletions made to any such edition and published whether before, on, or after the date on which the regulations are made.
 (5) All or any of the powers conferred by paragraphs (g), (h), (k), and (l) of subsection (1) may be exercised in respect of any cosmetic or dentifrice (whether or not it is a related product within the meaning of Part 7).
-(5A) For the purposes of subsection (1)(qa),—
+(5A) For the purposes of subsection (1)﻿(qa),—
   (a) specified prescription medicines means prescription medicines specified by the Director-General by notice in the Gazette; and
   (b) specified class or description of prescription medicines means a class or description of prescription medicines specified by the Director-General by notice in the Gazette.
 (5B) Before issuing a notice under subsection (5A), the Director-General must consult with those organisations or bodies that appear to the Director-General to be representative of persons likely to be substantially affected by the notice.
@@ -1594,7 +1594,7 @@ The Governor-General may from time to time, by Order in Council, add to or omit 
 (7) For the purposes of subsection (6) any goods purchased before the said date for importation into New Zealand shall be deemed to be part of the purchaser's stock-in-trade in New Zealand.
 
 ### 105A Regulations relating to veterinarians and authorised prescribers who are not designated prescribers
-(1) Without limiting the generality of section 105(1)(d), regulations may be made under that provision—
+(1) Without limiting the generality of section 105(1)﻿(d), regulations may be made under that provision—
   (a) requiring any veterinarian, or authorised prescriber who is not a designated prescriber, or a specified class of such persons, before commencing for the first time to prescribe prescription medicines or prescription medicines of a specified class or description, to satisfy 1 or more of the following requirements:
     (i) to obtain any specified qualification or any qualification specified from time to time by notice in the Gazette by the Minister, or by the relevant professional organisation:
     (ii) to undertake specified training or any training specified from time to time by notice in the Gazette by the Minister, or by the relevant professional organisation:
@@ -1608,8 +1608,8 @@ The Governor-General may from time to time, by Order in Council, add to or omit 
   (b) in any other case, the responsible authority for the health profession to which the person belongs.
 
 ### 105B Regulations relating to designated prescribers
-(1) Without limiting the generality of section 105(1)(d) or (qa), regulations may be made under section 105(1)(qa)—
-  (a) requiring any person who belongs to any class of registered health professional authorised to prescribe prescription medicines of any specified class or description by regulations made under section 105(1)(qa), or a specified class of such persons, before commencing for the first time to prescribe prescription medicines or prescription medicines of a specified class or description, to satisfy 1 or more of the following requirements:
+(1) Without limiting the generality of section 105(1)﻿(d) or (qa), regulations may be made under section 105(1)﻿(qa)—
+  (a) requiring any person who belongs to any class of registered health professional authorised to prescribe prescription medicines of any specified class or description by regulations made under section 105(1)﻿(qa), or a specified class of such persons, before commencing for the first time to prescribe prescription medicines or prescription medicines of a specified class or description, to satisfy 1 or more of the following requirements:
     (i) to obtain any specified qualification or any qualification specified from time to time by notice in the Gazette by the Minister, or by the relevant professional organisation:
     (ii) to undertake specified training or any training specified from time to time by notice in the Gazette by the Minister, or by the relevant professional organisation:
     (iii) to demonstrate, to the satisfaction of the relevant professional organisation, that the person is sufficiently knowledgeable to safely prescribe prescription medicines or prescription medicines of a specified class or description:
@@ -1621,15 +1621,15 @@ The Governor-General may from time to time, by Order in Council, add to or omit 
 
 ### 105C Orders in Council providing for exemption from, or modifications of, restrictions on pharmacy ownership and operation
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
-  (a) exempt any person or class of person from any of the requirements of section 55D(2)(a) or section 55E(1)(a):
-  (b) modify the application of the provisions of section 55D(2)(a) or section 55E(1)(a) in respect of any person or class of person.
+  (a) exempt any person or class of person from any of the requirements of section 55D(2)﻿(a) or section 55E(1)﻿(a):
+  (b) modify the application of the provisions of section 55D(2)﻿(a) or section 55E(1)﻿(a) in respect of any person or class of person.
 (2) The Minister must not recommend the making of any Order in Council under subsection (1) unless in the opinion of the Minister—
   (a) health services or access to those services will be improved by the making of that Order in Council; and
   (b) the making of that Order in Council is necessary to meet the needs of the community in the particular location of the pharmacy or proposed pharmacy.
 (3) The Minister's reasons for making the recommendation must be included in, or appended to, the Order in Council.
 
 ### 105D Regulations relating to delegated prescribers
-Without limiting the generality of section 105(1)(d) or (qaa), regulations may be made under section 105(1)(qaa)—
+Without limiting the generality of section 105(1)﻿(d) or (qaa), regulations may be made under section 105(1)﻿(qaa)—
   (a) granting delegated prescribing rights to any class of registered health professional:
   (b) regulating the issue of delegated prescribing orders by authorised prescribers:
   (c) specifying the responsibilities of authorised prescribers who issue delegated prescribing orders:
@@ -1655,7 +1655,7 @@ Without limiting the generality of section 105(1)(d) or (qaa), regulations may b
 
 ### 106 Minister may classify medicines by notice in the Gazette
 (1) The Minister may, by notice in the Gazette, declare any medicine to be a prescription medicine or a restricted medicine or a pharmacy-only medicine.
-(2) To the extent that any such notice is inconsistent with any provisions of any regulations made under section 105(1)(j), those provisions shall cease to have effect while the notice remains in force.
+(2) To the extent that any such notice is inconsistent with any provisions of any regulations made under section 105(1)﻿(j), those provisions shall cease to have effect while the notice remains in force.
 (3) Every notice given under this section shall, unless sooner revoked by the Minister, remain in force for a period of 6 months commencing with the date on which it comes into force, and shall then cease to have effect.
 
 ### 107 Power to obtain information for purposes of regulations
@@ -1732,10 +1732,10 @@ The enactments specified in Schedule 2 are hereby repealed.
 (2) The Director-General—
   (a) may make copies of the proposed material available in any other way that he or she considers appropriate in the circumstances; and
   (b) must, if paragraph (a) applies, give notice in the Gazette stating that the proposed material is available in other ways and giving details of where or how it can be accessed or obtained.
-(3) The Director-General may comply with subclause (1)(c) (if applicable) by providing a hypertext link from an Internet site maintained by or on behalf of the Ministry of Health to a copy of the proposed material that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
+(3) The Director-General may comply with subclause (1)﻿(c) (if applicable) by providing a hypertext link from an Internet site maintained by or on behalf of the Ministry of Health to a copy of the proposed material that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
 (4) The references in this clause to material include, if the material is not in an official New Zealand language, as well as the material itself, an accurate translation of the material in an official New Zealand language.
 (5) A failure to comply with this clause does not invalidate regulations that incorporate material by reference in reliance on section 105F.
-(6) For the purposes of subclause (1)(c), the Director-General may not rely on section 66 of the Copyright Act 1994 as authority to make the proposed material available on an Internet site.
+(6) For the purposes of subclause (1)﻿(c), the Director-General may not rely on section 66 of the Copyright Act 1994 as authority to make the proposed material available on an Internet site.
 
 ### 2 Access to material incorporated by reference
 (1) This clause applies if regulations incorporating material by reference in reliance on section 105F are made.
@@ -1751,12 +1751,12 @@ The enactments specified in Schedule 2 are hereby repealed.
 (3) The Director-General—
   (a) may make copies of the incorporated material available in any other way that he or she considers appropriate in the circumstances; and
   (b) must, if paragraph (a) applies, give notice in the Gazette stating that the incorporated material is available in other ways and giving details of where or how it can be accessed or obtained.
-(4) The Director-General may comply with subclause (2)(c) (if applicable) by providing a hypertext link from an Internet site maintained by or on behalf of the Ministry of Health to a copy of the incorporated material that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
+(4) The Director-General may comply with subclause (2)﻿(c) (if applicable) by providing a hypertext link from an Internet site maintained by or on behalf of the Ministry of Health to a copy of the incorporated material that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
 (5) The references in this clause to material are to—
   (a) material incorporated by reference in the regulations; and
   (b) if the material is not in an official New Zealand language, the material itself together with an accurate translation of the material in an official New Zealand language.
 (6) A failure to comply with this clause does not invalidate regulations that incorporate material by reference.
-(7) For the purposes of subclause (2)(c), the Director-General may not rely on section 66 of the Copyright Act 1994 as authority to make the incorporated material available on an Internet site.
+(7) For the purposes of subclause (2)﻿(c), the Director-General may not rely on section 66 of the Copyright Act 1994 as authority to make the incorporated material available on an Internet site.
 
 ### 3 Effect of material incorporated by reference
 (1) This clause applies to material incorporated by reference in regulations in reliance on section 105F.
@@ -1784,14 +1784,14 @@ The enactments specified in Schedule 2 are hereby repealed.
 ### 7 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
 [Repealed]
 
-### 8 Application of Standards Act 1988, other enactments, and rules of law not affected
-Nothing in this schedule affects the application of sections 22 to 25 of the Standards Act 1988, any other enactment, or any rule of law.
+### 8 Application of Standards and Accreditation Act 2015, other enactments, and rules of law not affected
+Nothing in this schedule affects the application of sections 29 to 32 of the Standards and Accreditation Act 2015, any other enactment, or any rule of law.
 
 ### 1 Title
 This Act is the Human Assisted Reproductive Technology Act 2004.
 
 ### 2 Commencement
-(1) Part 1, subpart 1 of Part 2, the provisions of section 67 (other than subsection (2)(c)(ii) to (v)), sections 68 to 75, the provisions of section 76(1), sections 77, 79 to 85, and 87, and Schedules 1 and 2 come into force on the day after the date on which this Act receives the Royal assent.
+(1) Part 1, subpart 1 of Part 2, the provisions of section 67 (other than subsection (2)﻿(c)﻿(ii) to (v)), sections 68 to 75, the provisions of section 76(1), sections 77, 79 to 85, and 87, and Schedules 1 and 2 come into force on the day after the date on which this Act receives the Royal assent.
 (2) The rest of this Act comes into force on the expiry of 9 months after the date on which it receives the Royal assent.
 
 ## Part 4 — Enforcement and miscellaneous provisions
