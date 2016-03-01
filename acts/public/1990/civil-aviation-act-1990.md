@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-03-01_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -1091,7 +1091,7 @@ Without limiting the power conferred by section 28, the Minister may make ordina
 (6) All material incorporated by reference under subsection (1) or (2) must be made available at the Civil Aviation Registry for inspection by the public free of charge.
 (7) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
 (8) Nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
-(9) Subsections (1) to (8) do not affect the application of sections 22 to 25 of the Standards Act 1988.
+(9) Subsections (1) to (8) do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
 ### 37 Exemption power of Director
 (1) The Director may, if he or she considers it appropriate and upon such conditions as he or she considers appropriate, exempt any person, aircraft, aeronautical product, aerodrome, or aviation related service from any specified requirement in any rule made under section 28, 29A, 29B, or 30.
