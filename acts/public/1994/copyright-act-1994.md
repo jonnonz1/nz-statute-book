@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2015-09-30_
+_Consolidation as at 2016-03-01_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -449,6 +449,7 @@ Copyright in a typographical arrangement of a published edition expires at the e
   (a) in which the Crown copyright has not been assigned to another person; and
   (b) that is incorporated by reference in a work referred to in subsection (1).
 (1B) Except as specified in subsection (1A), nothing in subsection (1) affects copyright in any work that is incorporated by reference in a work referred to in subsection (1).
+(1C) Subsection (1A) does not affect copyright in any New Zealand Standard (as that term is defined in the Standards and Accreditation Act 2015).
 (2) Subsection (1) shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different paragraphs of that subsection.
 
 ### 28 Copyright vesting in certain international organisations
