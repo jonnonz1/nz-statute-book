@@ -1,5 +1,5 @@
 # Crown Proceedings Act 1950
-_Consolidation as at 2014-12-07_
+_Consolidation as at 2016-03-01_
 
 > An Act to consolidate and amend the law relating to the civil liabilities and rights of the Crown and officers of the Crown, and to civil proceedings by and against the Crown
 
@@ -51,17 +51,20 @@ This Act is subject to the Limitation Act 2010, and to any other enactment that�
 (2) The enactments mentioned in Schedule 1 shall bind the Crown.
 
 ### 6 Liability of the Crown in tort
-(1) Subject to the provisions of this Act and any other Act, and except as provided in subsection (4A), the Crown shall be subject to all those liabilities in tort to which, if it were a private person of full age and capacity, it would be subject—
+(1) Subject to the provisions of this Act and any other Act, and except as provided in subsection (4A) or (4B), the Crown shall be subject to all those liabilities in tort to which, if it were a private person of full age and capacity, it would be subject—
   (a) in respect of torts committed by its servants or agents;
   (b) in respect of any breach of those duties which a person owes to his or her servants or agents at common law by reason of being their employer; and
   (c) in respect of any breach of the duties attaching at common law to the ownership, occupation, possession, or control of property:
   provided that no proceedings shall lie against the Crown by virtue of paragraph (a) in respect of any act or omission of a servant or agent of the Crown unless the act or omission would apart from the provisions of this Act have given rise to a cause of action in tort against that servant or agent or his or her estate.
 (2) Where the Crown is bound by a statutory duty which is binding also upon persons other than the Crown and its officers, then, subject to the provisions of this Act, the Crown shall, in respect of a failure to comply with that duty, be subject to all those liabilities in tort (if any) to which it would be so subject if it were a private person of full age and capacity.
 (3) Where any functions are conferred or imposed upon an officer of the Crown as such either by any rule of the common law or by statute, and that officer commits a tort while performing or purporting to perform those functions, the liabilities of the Crown in respect of the tort shall be such as they would have been if those functions had been conferred or imposed solely by virtue of instructions lawfully given by the Crown.
-(4) Except as provided in subsection (4A), any enactment which negatives or limits the amount of the liability of any government department or officer of the Crown in respect of any tort committed by that department or officer shall, in the case of proceedings against the Crown under this section in respect of a tort committed by that department or officer, apply in relation to the Crown as it would have applied in relation to that department or officer if the proceedings against the Crown had been proceedings against that department or officer.
+(4) Except as provided in subsection (4A) or (4B), any enactment which negatives or limits the amount of the liability of any government department or officer of the Crown in respect of any tort committed by that department or officer shall, in the case of proceedings against the Crown under this section in respect of a tort committed by that department or officer, apply in relation to the Crown as it would have applied in relation to that department or officer if the proceedings against the Crown had been proceedings against that department or officer.
 (4A) Despite certain Crown servants being immune from liability under section 86 of the State Sector Act 1988,—
   (a) a court may find the Crown itself liable in tort in respect of the actions or omissions of those servants; and
   (b) for the purpose of determining whether the Crown is so liable, the court must disregard the immunity in section 86.
+(4B) Despite specified persons being immune from liability under section 351 of the Food Act 2014,—
+  (a) a court may find the Crown itself liable in tort in respect of the actions or omissions of those persons; and
+  (b) for the purpose of determining whether the Crown is so liable, the court must disregard the immunity in section 351.
 (5) No proceedings shall lie against the Crown by virtue of this section in respect of anything done or omitted to be done by any person while discharging or purporting to discharge any responsibilities of a judicial nature vested in him or her, or any responsibilities which he or she has in connection with the execution of judicial process.
 
 ### 7 Provisions as to industrial property
