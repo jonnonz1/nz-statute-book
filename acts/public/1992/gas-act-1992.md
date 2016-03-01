@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2014-06-17_
+_Consolidation as at 2016-03-01_
 
 > Title
 
@@ -81,7 +81,7 @@ The purposes of this Act are—
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means, subject to any enactment, the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **official standard** , in relation to a gas code of practice, means—
-    (a) a New Zealand Standard within the meaning of the Standards Act 1988; and
+    (a) a New Zealand Standard within the meaning of the Standards and Accreditation Act 2015; and
     (b) a standard specification prescribed by any standards organisation within the meaning of that Act
   - **pipe** includes tubes, hoses, and associated fittings
   - **pipeline owner** means a person that owns pipelines for the conveyance of gas
@@ -117,7 +117,7 @@ The purposes of this Act are—
 
 ### 3 Application
 (1) Subject to subsection (2), and except as expressly provided elsewhere in this Act, or in any other Act, this Act shall apply to every gas distributor, every gas retailer, and every consumer.
-(2) Nothing in this Act (other than sections 54(1)(n)(ii) and 55) applies to—
+(2) Nothing in this Act (other than sections 54(1)﻿(n)﻿(ii) and 55) applies to—
   (a) any gas in circumstances in which any of the following enactments, or any regulations made under any of those enactments, apply:
     (i) the Crown Minerals Act 1991:
     (ii) the Shipping and Seamen Act 1952:
@@ -129,7 +129,7 @@ The purposes of this Act are—
   (f) any gas appliance designed to be fuelled exclusively from a container not exceeding 120 millilitres in capacity:
   (g) any container used, or designed or intended to be used, for the storage of gas:
   (h) any liquefied petroleum gas that is in a liquid form and is in a pipe.
-(3) Despite subsection (2)(d), that paragraph does not apply in relation to Part 4A and, accordingly, Part 4A applies to any gas used as a feedstock.
+(3) Despite subsection (2)﻿(d), that paragraph does not apply in relation to Part 4A and, accordingly, Part 4A applies to any gas used as a feedstock.
 
 ### 4 Act to bind the Crown
 This Act binds the Crown.
@@ -162,8 +162,8 @@ This Act binds the Crown.
 (4) Without limiting subsection (3), the Secretary has the powers necessary to carry out the functions in a specified provision in relation to a specified matter in accordance with this Act.
 (5) WorkSafe and the Secretary must work co-operatively to ensure that their functions under this Act and any regulations made under this Act are carried out in an effective and efficient manner.
 (6) In this section,—
-  - **specified matter** means a matter that is specified in a Gazette notice under subsection (2)(a)
-  - **specified provision** means a provision that is specified in a Gazette notice under subsection (2)(b).
+  - **specified matter** means a matter that is specified in a Gazette notice under subsection (2)﻿(a)
+  - **specified provision** means a provision that is specified in a Gazette notice under subsection (2)﻿(b).
 
 ### 6B WorkSafe and Secretary must share information
 (1) WorkSafe must provide information to the Secretary if the information is necessary or desirable for the Secretary to carry out his or her functions under this Act.
@@ -214,7 +214,7 @@ This Act binds the Crown.
 (4) This section shall apply notwithstanding anything to the contrary in section 52 of the Government Roading Powers Act 1989.
 
 ### 10 Objections to WorkSafe's requirements
-(1) Every person who is affected by any notice given under section 7(4)(e) or section 9(1) or section 9(2), or any requirement made under section 9(3), may, within 15 working days after receiving the notice or being made subject to the requirement, object to that notice or requirement.
+(1) Every person who is affected by any notice given under section 7(4)﻿(e) or section 9(1) or section 9(2), or any requirement made under section 9(3), may, within 15 working days after receiving the notice or being made subject to the requirement, object to that notice or requirement.
 (2) Every objection under subsection (1) shall be made by lodging a written notice of objection with the Registrar of the District Court nearest to the place where the notice was given or the requirement made, or, with the consent of WorkSafe, with the Registrar of any other District Court.
 (3) Every notice of objection shall specify the grounds of the objection.
 (4) The objector shall cause a copy of the notice of objection to be served on WorkSafe, either before or immediately after it is lodged with the Registrar.
@@ -464,17 +464,17 @@ Sections 33 and 34 shall apply notwithstanding anything to the contrary in secti
   (a) not less than 1 month has elapsed since the publication in the Gazette of a notice of the intention of WorkSafe to apply for approval; and
   (b) the Minister has consulted such persons as will be affected by the code or amendment or revocation, or representatives of those persons, and they have had the opportunity to consider its possible effects and to comment on those effects to the Minister; and
   (c) the Minister has considered any comments made to the Minister concerning those effects.
-(3) The Minister may approve a gas code of practice or any amendment or revocation of that code without complying with the requirements of subsection (2)(a) or (b) if the Minister is satisfied that sufficient consultation has already taken place in respect of the matters in the code or amendment or revocation.
+(3) The Minister may approve a gas code of practice or any amendment or revocation of that code without complying with the requirements of subsection (2)﻿(a) or (b) if the Minister is satisfied that sufficient consultation has already taken place in respect of the matters in the code or amendment or revocation.
 (4) When the Minister approves a gas code of practice or an amendment or revocation of that code, the Minister shall—
   (a) publish a notice of the approval in the Gazette; and
   (b) show the date of the approval on the code, amendment, or revocation and promulgate it in such manner as the Minister thinks fit.
-(5) The fact that the Minister has published in the Gazette a notice under subsection (4)(a) shall be conclusive proof that the requirements of this section have been complied with in respect of the approval specified in the notice.
+(5) The fact that the Minister has published in the Gazette a notice under subsection (4)﻿(a) shall be conclusive proof that the requirements of this section have been complied with in respect of the approval specified in the notice.
 
 ### 40 Availability of codes
 (1) WorkSafe shall ensure that copies of all gas codes of practice, and all amendments to such codes, that are for the time being in force are available—
   (a) for inspection by members of the public free of charge; and
   (b) for purchase by members of the public at a reasonable price.
-(2) The notice of approval published in the Gazette pursuant to section 39(4)(a) shall show, in relation to the code, or the amendment to a code, to which it relates, a place at which copies of the code or, as the case requires, the amendment are available for inspection free of charge and for purchase.
+(2) The notice of approval published in the Gazette pursuant to section 39(4)﻿(a) shall show, in relation to the code, or the amendment to a code, to which it relates, a place at which copies of the code or, as the case requires, the amendment are available for inspection free of charge and for purchase.
 
 ### 41 Emergency amendment of code
 (1) If WorkSafe considers it essential in the interests of safety or ensuring the continuity of the supply or distribution of gas to amend any gas code of practice forthwith, WorkSafe may issue an emergency amendment to the code and promulgate it in such manner as WorkSafe thinks fit.
@@ -516,7 +516,7 @@ The purpose of this Part is to provide for the governance of the gas industry.
 (6) This section is intended only as a guide to the general scheme and effect of this Part.
 
 ### 43C Outline of regulation-making powers
-(1) In this subpart, the principal regulation-making powers are as follows:Type of regulationsHow they can be madeRegulations for terms and conditions of access to Maui pipelineRegulations on retail and consumer issuesThey can be made at any time, (whether or not the industry body has been approved, or the Commission is established, or has made a recommendation).Regulations on wholesale marketRegulations on gas processing facilitiesRegulations on transmission, and distribution of gas (other than on terms and conditions of access to Maui pipeline)They can be made only if—
+(1) In this subpart, the principal regulation-making powers are as follows:The following table is small in size and contains 2 columns. Column 1 is headed Type of regulations. Column 2 is headed How they can be made.Type of regulationsHow they can be madeRegulations for terms and conditions of access to Maui pipelineRegulations on retail and consumer issuesThey can be made at any time, (whether or not the industry body has been approved, or the Commission is established, or has made a recommendation).Regulations on wholesale marketRegulations on gas processing facilitiesRegulations on transmission, and distribution of gas (other than on terms and conditions of access to Maui pipeline)They can be made only if—
   (a) an industry body is approved (and then only to implement the effect of a recommendation by that body); or
   (b) the Commission is established (and then only for transitional purposes or to implement the effect of a recommendation by the Commission).
 (2) This section is intended only as a guide to the general scheme and effect of the principal regulation-making powers in this Part.
@@ -576,7 +576,7 @@ The dispute resolution scheme may resolve disputes between members of the disput
 (5) The Minister of Consumer Affairs may amend or revoke an individual exemption, by issuing a notice in the Gazette that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Minister—
   (a) has given notice of the proposed amendment or revocation to the exempt person (where possible) and given the person a reasonable opportunity to comment on the proposal; and
   (b) is satisfied that the amendment or revocation is necessary or desirable in order to meet the purpose of the dispute resolution scheme.
-(6) To avoid doubt, an individual exemption notice issued under subsection (3)(b) is not a regulation for any purpose.
+(6) To avoid doubt, an individual exemption notice issued under subsection (3)﻿(b) is not a regulation for any purpose.
 (7) The Ministry must include on its Internet site a list of all current class and individual exemptions.
 
 ### 43EB Compliance with rules and binding settlements
@@ -585,7 +585,7 @@ The dispute resolution scheme may resolve disputes between members of the disput
   (a) comply with the rules of the scheme:
   (b) comply with a binding settlement determined by the scheme in response to a complaint:
   (c) comply with a binding settlement determined by the scheme in an indemnity dispute.
-(3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court’s order under subsection (2)(b) may modify the terms of the binding settlement, provided that the modification results in a binding settlement that could have been made under the dispute resolution scheme.
+(3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court’s order under subsection (2)﻿(b) may modify the terms of the binding settlement, provided that the modification results in a binding settlement that could have been made under the dispute resolution scheme.
 (4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.
 (5) A reference in this section to a member includes a reference to a person who was a member of the dispute resolution scheme at the relevant time but is no longer a member at the time of the application or order.
 
@@ -657,12 +657,12 @@ The dispute resolution scheme may resolve disputes between members of the disput
 
 ### 43I Which gas governance regulations can be made if there is no industry body or Commission
 If there is no industry body and no Commission, the Minister may recommend only—
-  (a) regulations prescribing terms and conditions for access to the Maui pipeline under section 43F(2)(c):
+  (a) regulations prescribing terms and conditions for access to the Maui pipeline under section 43F(2)﻿(c):
   (b) regulations under section 43G, section 43H, section 43S, or section 43T.
 
 ### 43J Which gas governance regulations can be made if there is industry body but no Commission
 (1) If there is an industry body but no Commission, the Minister may recommend only—
-  (a) regulations prescribing terms and conditions for access to the Maui pipeline under section 43F(2)(c):
+  (a) regulations prescribing terms and conditions for access to the Maui pipeline under section 43F(2)﻿(c):
   (b) other gas governance regulations under section 43F but only if the recommendation—
     (i) implements the effect of a recommendation of the industry body; and
     (ii) does not differ from that recommendation in any material way (for example, other than in matters of drafting style or minor detail):
@@ -685,7 +685,7 @@ If there is a Commission, the Minister may recommend any gas governance regulati
 (2) However, subsection (1) does not apply to the Minister if the Minister’s recommendation—
   (a) implements the effect of a recommendation of the industry body or the Commission; and
   (b) does not differ from that recommendation in any material way (for example, other than in matters of drafting style or minor detail).
-(3) Before making a recommendation concerning regulations under section 43G(2)(a) to (h) or section 43H, the Minister must consult with the Minister of Consumer Affairs.
+(3) Before making a recommendation concerning regulations under section 43G(2)﻿(a) to (h) or section 43H, the Minister must consult with the Minister of Consumer Affairs.
 (4) This section is subject to section 43P in the case of urgent regulations.
 (5) A regulation that is found by a court to be invalid solely because of a contravention of this section may not be declared to be invalid with effect earlier than 6 months after the date of the declaration.
 
@@ -695,7 +695,7 @@ If there is a Commission, the Minister may recommend any gas governance regulati
   (b) sections 43ZZN and 43ZZO apply to a recommendation of the Commission:
   (c) the industry body or the Commission must undertake an assessment under section 43N before making a recommendation:
   (d) the Minister must, before making a recommendation for gas governance regulations for which a recommendation of the industry body is not required under section 43J, have regard to any recommendation that the industry body may have made about those regulations.
-(2) Subsection (1)(c) is subject to section 43P in the case of urgent regulations.
+(2) Subsection (1)﻿(c) is subject to section 43P in the case of urgent regulations.
 
 ### 43N Assessment of proposed gas governance regulations
 (1) Before making a recommendation to the Minister for a gas governance regulation, the industry body or the Commission must—
@@ -706,7 +706,7 @@ If there is a Commission, the Minister may recommend any gas governance regulati
     (iii) any other matters that the industry body or the Commission considers relevant; and
   (c) ensure that the objective of the regulation is unlikely to be satisfactorily achieved by any reasonably practicable means other than the making of the regulation (for example, by education, information, or voluntary compliance); and
   (d) prepare a statement of the proposal for the purpose of consultation under section 43L(1).
-(2) The statement of the proposal referred to in subsection (1)(d) must contain—
+(2) The statement of the proposal referred to in subsection (1)﻿(d) must contain—
   (a) a detailed statement of the proposal; and
   (b) a statement of the reasons for the proposal; and
   (c) an assessment of the reasonably practicable options, including the proposal, identified under subsection (1); and
@@ -905,7 +905,7 @@ The purpose of this subpart is to provide for co-regulation of the gas industry 
   (a) has a material financial interest in an industry participant; or
   (b) is a director, officer, member, employee, or trustee of an industry participant; or
   (c) is otherwise directly or indirectly materially interested in an industry participant.
-(4) The references to industry participants in subsection (2)(a) and (e) do not include service providers appointed under any gas governance regulations.
+(4) The references to industry participants in subsection (2)﻿(a) and (e) do not include service providers appointed under any gas governance regulations.
 
 ### 43ZM Revocation of approval of industry body
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, revoke any approval given under section 43ZL.
@@ -938,7 +938,7 @@ The objectives of the industry body, in recommending gas governance regulations 
 
 ### 43ZP What Minister can do with industry body recommendations about wholesale market, processing facilities, transmission, and distribution of gas
 (1) The Minister must decide, within 90 days of receiving a recommendation from the industry body in relation to gas governance regulations under section 43F, either to accept or reject the recommendation.
-(2) Subsection (1) does not apply to regulations made under section 43F(2)(c) prescribing terms and conditions for access to the Maui pipeline.
+(2) Subsection (1) does not apply to regulations made under section 43F(2)﻿(c) prescribing terms and conditions for access to the Maui pipeline.
 (3) The Minister must publish a notice in the Gazette stating his or her decision under subsection (1) and explaining the reasons for it or where copies of that explanation may be obtained.
 
 **Industry body statement of intent**
@@ -1223,7 +1223,7 @@ Every person who, being a person that owns or operates a gas supply system, brea
   (c) entry shall be made at reasonable times:
   (d) the person entering shall carry a warrant of authority or be working under the immediate control of a person holding such authority, which shall be produced on initial entry and, if requested, at any subsequent time:
   (e) entry into a dwellinghouse must be authorised by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on an application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
-(1A) Subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of an application for, and issue of, a warrant under subsection (1)(e).
+(1A) Subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of an application for, and issue of, a warrant under subsection (1)﻿(e).
 (2) The conditions specified in subsection (1) shall not apply where the entry is necessary in circumstances of probable danger to life or property or where entry is necessary to maintain the continuity or safety of the supply and distribution of gas.
 (3) Nothing in this section shall restrict rights of access in order to obtain consent to enter the land or premises for the authorised purpose in respect of which entry is required.
 (4) Notwithstanding any other provision of this Act, no provision in this Act or in any regulations made under section 54 giving any person the power to enter any land or premises without the consent of the owner or occupier shall authorise any person to enter or search any restricted area within a defence area (within the meaning of the Defence Act 1990) unless the person entering has a security clearance approved by the person in charge of the area.
@@ -1301,7 +1301,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 (6) The Minister, before recommending the making of any regulations under this section, must consult the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011 about the contents of such regulations and shall take into account any submissions made by that Authority.
 
 ### 54A Regulations that prescribe requirements for safety management systems
-(1) Regulations made under section 54(1)(bb) must provide for requirements relating to—
+(1) Regulations made under section 54(1)﻿(bb) must provide for requirements relating to—
   (a) the systematic identification of—
     (i) existing hazards; and
     (ii) new hazards (if possible before, and otherwise as, they arise); and
@@ -1309,14 +1309,14 @@ Every person commits an offence and is liable on conviction to a fine not exceed
   (c) the regular assessment of each hazard identified; and
   (d) the documentation of the safety management system; and
   (e) the audit of the safety management system.
-(2) Regulations made under section 54(1)(bb) for the purposes of subsection (1)(b) may include, for example, requirements relating to—
+(2) Regulations made under section 54(1)﻿(bb) for the purposes of subsection (1)﻿(b) may include, for example, requirements relating to—
   (a) the design, construction, operation, maintenance, and inspection of the gas supply system; and
   (b) security and the control of access to the gas supply system; and
   (c) the skills, knowledge, and experience of persons who do, or assist in doing, work on or in connection with the gas supply system; and
   (d) the implementation and management of contingency plans for emergency situations that may affect, or be affected by, the gas supply system; and
   (e) processes for the ongoing improvement of safety in connection with the gas supply system; and
   (f) the investigation of accidents that involve or affect the gas supply system.
-(3) Regulations made under section 54(1)(bb) for the purposes of subsection (1)(e) may include, for example, requirements relating to—
+(3) Regulations made under section 54(1)﻿(bb) for the purposes of subsection (1)﻿(e) may include, for example, requirements relating to—
   (a) who may conduct audits; and
   (b) how often audits must be conducted; and
   (c) the outcomes and objectives of audits.
@@ -1326,12 +1326,12 @@ Every person commits an offence and is liable on conviction to a fine not exceed
     (i) serious harm to any member of the public; or
     (ii) significant damage to property owned by a person other than the person that owns or operates the gas supply system; and
   (b) includes—
-    (i) a situation where a person’s behaviour may present a significant risk of the matters referred to in paragraph (a)(i) or (ii); and
+    (i) a situation where a person’s behaviour may present a significant risk of the matters referred to in paragraph (a)﻿(i) or (ii); and
     (ii) without limitation, a situation described in subparagraph (i) resulting from physical or mental fatigue, drugs, alcohol, traumatic shock, or another temporary condition that affects a person’s behaviour.
 
 ### 54B Miscellaneous provisions relating to regulations that prescribe requirements for safety management systems
 (1) To avoid doubt, a person required by a safety management system to take all practicable steps is required to take those steps only in respect of circumstances that the person knows or ought reasonably to know about.
-(2) Different requirements may be prescribed under section 54(1)(bb) in respect of different classes of persons.
+(2) Different requirements may be prescribed under section 54(1)﻿(bb) in respect of different classes of persons.
 
 **Regulations—Information disclosure**
 
@@ -1367,8 +1367,8 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 (1) Every person who is required by regulations made under section 55 to make available statements and information shall supply to the Secretary—
   (a) a copy of all statements and information, made available to the public pursuant to regulations made under that section, which statements and information must be supplied within 5 working days after the statements and information are first made so available:
   (b) any further statements, reports, agreements, particulars, and other information requested in writing by the Secretary for the purpose of monitoring the person’s compliance with those regulations.
-(2) Every person to whom a request is made pursuant to subsection (1)(b) shall comply with that request within 30 days after receiving the request or within such further period as the Secretary in any particular case may allow.
-(3) All statements, reports, agreements, particulars, and information supplied to the Secretary under paragraph (a) or paragraph (b) of subsection (1) shall be verified by statutory declaration in the form and by the persons prescribed by regulations made under section 55(1)(f).
+(2) Every person to whom a request is made pursuant to subsection (1)﻿(b) shall comply with that request within 30 days after receiving the request or within such further period as the Secretary in any particular case may allow.
+(3) All statements, reports, agreements, particulars, and information supplied to the Secretary under paragraph (a) or paragraph (b) of subsection (1) shall be verified by statutory declaration in the form and by the persons prescribed by regulations made under section 55(1)﻿(f).
 
 ### 56A Reasonable charge may be imposed for providing copies of statements
 (1) Any person who is required by regulations made under section 55 to provide copies of statements and information, on request, to the public, may charge for providing those copies.
@@ -1396,7 +1396,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 ### 57 Other offences
 (1) Every person commits an offence against this section who—
   (a) fails, without reasonable excuse, to comply with any information disclosure requirements prescribed in regulations made under section 55; or
-  (b) fails, without reasonable excuse, to comply with the requirements of section 56(1)(a) or section 56(1)(b) or section 56(2) or section 56(3).
+  (b) fails, without reasonable excuse, to comply with the requirements of section 56(1)﻿(a) or section 56(1)﻿(b) or section 56(2) or section 56(3).
 (2) Every person commits an offence against this section who makes a false declaration when supplying any statement, report, agreement, particulars, or information pursuant to section 56.
 (3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
 (4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000.
@@ -1427,7 +1427,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (2) An infringement notice may be served on a person—
   (a) by delivering it, or a copy of it, personally to the person who appears to have committed the infringement offence; or
   (b) by sending it, or a copy of it, by post, addressed to the person at the person’s last known place of residence or business.
-(3) An infringement notice sent under subsection (2)(b) must be treated as having been served on the person on the date it was posted.
+(3) An infringement notice sent under subsection (2)﻿(b) must be treated as having been served on the person on the date it was posted.
 (4) An infringement notice must be in the prescribed form and must contain—
   (a) details of the alleged infringement offence that are sufficient to fairly inform a person of the time, place, and nature of the alleged infringement offence; and
   (b) the amount of the infringement fee; and
@@ -1488,7 +1488,7 @@ Amendment(s) incorporated in the Act(s).
     (ii) stating the reason or reasons that the Minister proposes recommending the making of the Order in Council or stating where copies of that statement may be obtained; and
     (iii) inviting members of the public to make submissions on the proposal; and
     (iv) stating the last date on which the Minister will receive submissions on the proposal (which date must be no less than 28 days after the date of the notice's publication); and
-  (b) the Minister has considered all submissions on the proposal that are received by him or her on or before the date stated under paragraph (a)(iv); and
+  (b) the Minister has considered all submissions on the proposal that are received by him or her on or before the date stated under paragraph (a)﻿(iv); and
   (c) at least 3 months have expired since the date of the notice's publication; and
   (d) no more than 6 months have expired since the date of the notice's publication or, if the Minister renews the period by notice in the Gazette before the end of that 6 months, no more than 12 months have expired since the date of the notice's publication.
 (2) If the Minister of Energy commences a notice and submission process under subsection (1) but subsequently decides not to recommend the making of an Order in Council, he or she must publish a further notice in the Gazette stating that decision and terminating the notice and submission process, as soon as practicable after making that decision.
