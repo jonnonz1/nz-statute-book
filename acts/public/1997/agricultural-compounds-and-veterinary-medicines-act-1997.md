@@ -1,5 +1,5 @@
 # Agricultural Compounds and Veterinary Medicines Act 1997
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-03-01_
 
 > An Act to reform and restate the law relating to agricultural compounds, and to repeal—athe Stock Foods Act 1946; andbthe Fertilisers Act 1960; andcthe Animal Remedies Act 1967; anddthe Fertilisers Act 1982
 
@@ -123,8 +123,8 @@ The purpose of this Act is to—
   (a) directly by the Director-General when an agricultural compound is registered or exempted from the requirement to be registered; or
   (b) generally, by regulations.
 (4) The Director-General may also issue notices that set out the technical detail of how compliance with conditions imposed by regulations can be achieved.
-(5) This Act, by its subject matter, has a relationship with other Acts such as the Animal Products Act 1999, the Food Act 1981, the Wine Act 2003, the Animal Welfare Act 1999, the Biosecurity Act 1993, the Medicines Act 1981, and the Hazardous Substances and New Organisms Act 1996. Generally, the outcomes for which this Act regulates are those set under the other related Acts. For example:
-  (a) maximum residue limits for food products are set under the Food Act 1981; while
+(5) This Act, by its subject matter, has a relationship with other Acts such as the Animal Products Act 1999, the Food Act 2014, the Wine Act 2003, the Animal Welfare Act 1999, the Biosecurity Act 1993, the Medicines Act 1981, and the Hazardous Substances and New Organisms Act 1996. Generally, the outcomes for which this Act regulates are those set under the other related Acts. For example:
+  (a) maximum residue limits for food products are set under the Food Act 2014; while
   (b) this Act assesses and controls agricultural compounds to ensure the Food Act residue limit is not breached.
 
 ### 4B Border information supplied using JBMS must be supplied in approved form and manner
@@ -135,7 +135,9 @@ The purpose of this Act is to—
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
   (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
-(4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
+(4) In this section,—
+  - **border information** and have the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993
+  - **Ministry** has the meaning given in section 41A(1) of the Biosecurity Act 1993 and also has the meaning given in section 2(1) of this Act.
 
 ## Part 2 — Importation, manufacture, and sale of agricultural compounds
 
@@ -1177,7 +1179,7 @@ Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applica
   (c) personates or falsely represents himself or herself to be an ACVM officer, a recognised agency, or a recognised person; or
   (d) without reasonable excuse obstructs or hinders an ACVM officer, a recognised agency, or a recognised person in the exercise or performance of any functions, powers, or duties conferred or imposed by or under this Act; or
   (e) interferes with any samples taken or tests carried out for the purposes of this Act.
-(3) Every veterinarian commits an offence who knowingly fails to provide any client with information to prevent the occurrence, in any primary produce from any animal treated with an agricultural compound, of residues of that compound which contravene any requirements of the Dairy Industry Act 1952, the Meat Act 1981, the Animal Products Act 1999, or the Food Act 1981 or any regulations or notices in force under those Acts.
+(3) Every veterinarian commits an offence who knowingly fails to provide any client with information to prevent the occurrence, in any primary produce from any animal treated with an agricultural compound, of residues of that compound which contravene any requirements of the Dairy Industry Act 1952, the Meat Act 1981, the Animal Products Act 1999, or the Food Act 2014 or any regulations or notices in force under those Acts.
 (4) Every person commits an offence against this Act who—
   (a) contravenes any provision of any regulations made under this Act:
   (b) contravenes any provision of sections 98, 99, 100, 102, 114, 116, and 117.
@@ -1457,8 +1459,16 @@ The registration of any trade name product under section 21 or section 27, or th
 (2) Subsection (1) does not apply in respect of any Order in Council if the Minister considers it desirable in the public interest that the Order in Council be made urgently.
 (3) A failure to comply with subsection (1) does not affect the validity of any Order in Council made under this Act.
 
-### 79 Relationship to other Acts
-Nothing in this Act affects the requirements of the Animal Welfare Act 1999, the Misuse of Drugs Act 1975, the Wild Animal Control Act 1977, the Food Act 1981, the Wine Act 2003, the Health Act 1956 (despite section 138 of that Act), the Medicines Act 1981, the Biosecurity Act 1993, the Hazardous Substances and New Organisms Act 1996, or the Animal Products Act 1999 in relation to any substance, mixture of substances, or biological compound.
+### 79 Relationship with other Acts
+Nothing in this Act affects the requirements of any of the following Acts in relation to any substance, mixture of substances, or biological compound:
+  (a) Misuse of Drugs Act 1975:
+  (b) Wild Animal Control Act 1977:
+  (c) Medicines Act 1981:
+  (d) Biosecurity Act 1993:
+  (e) Hazardous Substances and New Organisms Act 1996:
+  (f) Animal Products Act 1999:
+  (g) Animal Welfare Act 1999:
+  (h) Food Act 2014.
 
 ### 80 Correction of errors
 Where any mistake exists in the register or in any other document made or issued under this Act, the Director-General may correct the mistake; and, for that purpose, may require the registrant or any holder of an approval to produce the certificate of registration or any other document held by the registrant or holder of the approval.
