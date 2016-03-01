@@ -1,5 +1,5 @@
 # National Animal Identification and Tracing Act 2012
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the National Animal Identification and Tracing Act 2012.
@@ -1017,7 +1017,7 @@ The explanatory note of an Order in Council made under section 67(2) must indica
   (f) a specific edition of a work of reference that the Director-General or the NAIT organisation considers is accepted internationally or by an industry as a standard one to refer to on the subject matter of the particular work:
   (g) a register established by or under this Act.
 (2) If material is incorporated by reference in regulations or standards made under this Act, Schedule 3 applies to that material.
-(3) However, if the incorporated material is a New Zealand Standard (as defined in section 2 of the Standards Act 1988), that Act applies.
+(3) However, if the incorporated material is a New Zealand Standard (as defined in section 4(1) of the Standards and Accreditation Act 2015), that Act applies.
 
 **Transitional provisions**
 
@@ -1379,7 +1379,7 @@ An application for a search warrant must contain or be accompanied by a statemen
 **Issuing of search warrants**
 
 ### 34 Restrictions on issue of search warrant
-(1) An issuing officer may issue a search warrant on application by a NAIT officer, if the issuing officer is satisfied that there are reasonable grounds—
+(1) An issuing officer may issue a search warrant on application by a NAIT officer if the issuing officer is satisfied that there are reasonable grounds—
   (a) to suspect that an offence against this Act has been, is being, or will be committed; and
   (b) to believe that the search will find evidence in respect of the offence.
 (2) An issuing officer must not issue a warrant to seize any thing held by a lawyer that is a communication of a kind to which legal professional privilege normally applies, unless the issuing officer is satisfied that there is a prima facie case that the thing was made, received, compiled, or prepared—
