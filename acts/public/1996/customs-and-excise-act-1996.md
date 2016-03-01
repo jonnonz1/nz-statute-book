@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-03-01_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -2176,7 +2176,7 @@ An entity must not access, transmit information to, or receive information from,
   (a) Agricultural Compounds and Veterinary Medicines Act 1997:
   (b) Animal Products Act 1999:
   (c) Biosecurity Act 1993:
-  (d) Food Act 1981:
+  (d) Food Act 2014:
   (e) Hazardous Substances and New Organisms Act 1996:
   (f) Human Assisted Reproductive Technology Act 2004:
   (g) Immigration Advisers Licensing Act 2007:
@@ -4310,7 +4310,7 @@ In this section and sections 282E to 282L, unless the context otherwise requires
       (i) to achieve the purpose of Part 3 of that Act; or
       (ii) for the administration of Part 3 of that Act:
     (c) any function, duty, or power imposed or conferred on the Ministry by or under any of the following Acts in relation to the effective management of risks associated with the movement of goods, persons, or craft into or out of New Zealand:
-      (i) the Food Act 1981:
+      (i) the Food Act 2014:
       (ii) the Hazardous Substances and New Organisms Act 1996:
       (iii) the Agricultural Compounds and Veterinary Medicines Act 1997:
       (iv) the Animal Products Act 1999:
@@ -4605,7 +4605,7 @@ An amendment to, or replacement of, provisions incorporated under section 287A h
   (c) an Act that is specified by regulations under section 165A of the Biosecurity Act 1993 to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1) of that Act (see section 7E(3)﻿(b) of that Act); or
   (d) the Agricultural Compounds and Veterinary Medicines Act 1997 (see section 4B(3)﻿(b) of that Act); or
   (e) the Animal Products Act 1999 (see section 6A(3)﻿(b) of that Act); or
-  (f) the Food Act 1981 (see section 8AAA(3)﻿(b) of that Act); or
+  (f) the Food Act 2014 (see section 132 of that Act); or
   (g) the Hazardous Substances and New Organisms Act 1996 (see section 97AA(3)﻿(b) of that Act); or
   (h) the Wine Act 2003 (see section 113A(3)﻿(b) of that Act).
 (2) The power to prescribe forms under this section includes the power to prescribe electronic message formats to be used for the electronic transmission of data to or between computers.
@@ -5021,7 +5021,7 @@ Changeover, in clauses 2 and 3, means the beginning of the day immediately after
     (ii) their cost of acquisition or of the lease thereof incurred by the person related to the buyer, where they were acquired or leased by the buyer from a person related to the buyer at the time they were so acquired or leased, but who did not produce them and are not generally available to the public; or
     (iii) the cost to the public of obtaining them where they are available generally to the public; or
     (iv) the cost of production thereof where they were produced by the buyer or a person related to the buyer at the time of their production.
-(3) For the purposes of paragraph (c) of subclause (1), the expression carrier media does not include integrated circuits, semi-conductors and similar devices, or articles incorporating such circuits or devices; and the expression data or instructions does not include sound, cinematic, or video recordings.
+(3) For the purposes of paragraph (c) of subclause (1), the expression carrier media does not include integrated circuits, semiconductors and similar devices, or articles incorporating such circuits or devices; and the expression data or instructions does not include sound, cinematic, or video recordings.
 (4) Where any adjustment in terms of the foregoing subclause cannot, in the opinion of the chief executive, be made because of the lack of sufficient information, the transaction value of the goods being valued cannot be determined under clause 2.
 
 ### 4 Transaction value of identical goods as Customs value
