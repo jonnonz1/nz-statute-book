@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -3299,8 +3299,8 @@ Material incorporated by reference in regulations that expires, or that is revok
 ### 176 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
 [Repealed]
 
-### 177 Application of Standards Act 1988 not affected
-Sections 169 to 176 do not affect the application of sections 22 to 25 of the Standards Act 1988.
+### 177 Application of Standards and Accreditation Act 2015 not affected
+Sections 169 to 176 do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
 ### 178 Recovery of fees or charges
 (1) A fee or charge that is not paid in accordance with regulations made under this Part may be recovered from the person liable to pay the fee or charge by the EPA in any court of competent jurisdiction.
