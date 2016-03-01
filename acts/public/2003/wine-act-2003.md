@@ -1,5 +1,5 @@
 # Wine Act 2003
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Wine Act 2003.
@@ -26,12 +26,16 @@ The objects of this Act are to—
   - **Director-General** means the chief executive of the Ministry
   - **export eligibility requirements** means those requirements imposed on exports of any class, kind, or description of wine by regulations made under section 38
   - **exporter** means a person who exports any wine from New Zealand for reward or for purposes of trade; and includes the New Zealand agent or representative of that exporter
+  - **extension product** means a product to which all the following apply:
+    (a) it is food, wine vinegar, or commodity-based spirits; and
+    (b) it is made by a winemaker; and
+    (c) it is made at the place or area covered by the winemaker’s wine standards management plan or subject to an exemption under section 6 or 11 from the requirement to have such a plan; and
+    (d) it is produced from wine or partially fermented commodities; and
+    (e) it has been processed in such a way that it is not wine or a wine product
   - **financial year** means a period of 12 months beginning on 1 July in any year and ending on 30 June in the following year
   - **fit for intended purpose** , used in relation to wine, is described in subsection (2)
-  - **Food Act regime** means the alternative regimes under the Food Act 1981 that consist of, or relate to,—
-    (a) Part 1A of that Act and food safety programmes:
-    (b) the Food Hygiene Regulations 1974
-  - **food safety programme** means an appropriate food safety programme within the meaning of the Food Act 1981, being a programme whose adoption gives rise to an exemption from the Food Hygiene Regulations 1974 under Part 1A of that Act
+  - **Food Act regime** means the regime under the Food Act 2014
+  - **food control plan** has the meaning given to it in the Food Act 2014
   - **fruit wine or vegetable wine** , subject to subsection (3), means the product prepared from the complete or partial fermentation of any fruit, vegetables, grains, cereals, or preparations of fruit, vegetables, grains, or cereals, other than that produced solely from grapes
   - **grape wine** , subject to subsection (3), means the product of the complete or partial fermentation of fresh grapes, or a mixture of that product and products derived solely from grapes
   - **hazard** means a biological, chemical, or physical agent that—
@@ -55,12 +59,18 @@ The objects of this Act are to—
   - **mead** , subject to subsection (3), means the product prepared from the complete or partial fermentation of honey
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means the Ministry that has, with the authority of the Prime Minister, for the time being assumed responsibility for the administration of this Act
-  - **New Zealand food standard** means a food standard issued under Part 2A of the Food Act 1981
+  - **national programme** has the meaning given to it in the Food Act 2014
+  - **New Zealand food standard** means a food standard issued under the Food Act 2014
   - **notice of recognition** means, as applicable,—
     (a) a notice of recognition given to a recognised agency or a recognised person in accordance with section 82(1)﻿(b); or
     (b) a notification given to a recognised class in accordance with section 82(1)﻿(c)﻿(i)
   - **official assurance** has the meaning given by section 42
   - **operator** , in relation to a wine business, means the owner or other person in control of the business
+  - **partial process product** means a product to which all the following apply:
+    (a) it is food, juice, or verjuice; and
+    (b) it results from the processing of commodities without their undergoing fermentation; and
+    (c) it is made by a winemaker; and
+    (d) it is made at the place or area covered by the winemaker’s wine standards management plan or subject to an exemption under section 6 or 11 from the requirement to have such a plan
   - **permissible functions and activities** means verification functions and activities and other specialist functions and activities that may be carried out by a recognised agency, recognised person, or recognised class of persons for the purposes of this Act, and includes—
     (a) verification functions and activities in relation to wine standards management plans:
     (b) other verification functions and activities in relation to export requirements:
@@ -110,13 +120,13 @@ The objects of this Act are to—
     (a) makes wine; or
     (b) exports wine
   - **wine officer** , or , means a person appointed as a wine officer under section 55; and includes the Director-General
-  - **wine product** , subject to subsection (3), means a food (as defined in the Food Act 1981) containing no less than 700 ml/L of wine which has been formulated, processed, modified, or mixed with other foods such that it is not wine
+  - **wine product** , subject to subsection (3), means a food (as defined in the Food Act 2014) containing no less than 700 ml/L of wine which has been formulated, processed, modified, or mixed with other foods such that it is not wine
   - **wine standard** , or , means a standard prescribed under subpart 2 of Part 2 that specifies criteria that must be met to determine fitness for its intended purpose of any class or description of wine
   - **wine standards management plan** has the meaning given by section 8, and, except in subpart 1 of Part 2, is to be taken to refer to a registered wine standards management plan
   - **winemaker** means a person who, for reward (otherwise than as an employee) or for purposes of trade, makes wine.
 (2) In this Act, fit for intended purpose, used in relation to wine, means wine that has been made in accordance with the requirements of this Act and that meets any relevant wine standards and associated specifications set under subpart 2 of Part 2 and any relevant New Zealand food standards.
 (3) The Governor-General may, by Order in Council, amend or substitute the definitions of fruit wine or vegetable wine, grape wine, label, mead, and wine product to ensure consistency with New Zealand food standards.
-(4) Nothing in the definitions of fruit wine or vegetable wine, grape wine, mead, or wine product prevents the addition of any foods, food additives, or processing aids to such products if that addition to the particular product is permitted under the Food Act 1981.
+(4) Nothing in the definitions of fruit wine or vegetable wine, grape wine, mead, or wine product prevents the addition of any foods, food additives, or processing aids to such products if that addition to the particular product is permitted under the Food Act 2014.
 
 **Application of Act generally**
 
@@ -167,13 +177,7 @@ The following persons must operate under a registered wine standards management 
   (b) such other persons as may be specified by Order in Council under section 12 as requiring to operate under a wine standards management plan.
 
 ### 10 Winemakers with associated wine products or food business
-(1) Winemakers who make wine products may, in respect of their wine product operations, either—
-  (a) include those operations in their registered wine standards management plan for their winemaking operations; or
-  (b) comply with the Food Act regime for their wine product operations.
-(2) Winemakers who also make or retail food products must both—
-  (a) have a registered wine standards management plan for their winemaking operations; and
-  (b) comply with the Food Act regime in respect of their food product operations.
-(3) Where wine product operations are included in a wine standards management plan under subsection (1), then, unless the context otherwise requires, all the provisions of this Act apply to the wine product concerned as if it were wine.
+[Repealed]
 
 ### 11 Limited exemption from requirement to have wine standards management plan
 (1) The Director-General may, by notice under section 120, exempt in whole or in part any winemaker or person required under section 12 to have a wine standards management plan from the requirement to operate under a wine standards management plan—
@@ -251,6 +255,50 @@ An operator of a wine standards management plan has the following duties:
   (c) the applicant for the approval has obtained the consent or otherwise taken into account the views of any person whose business or part-business is to be covered by the plan.
 (3) The approval may be given subject to conditions.
 (4) Application for approval under this section must be made by the operator of the wine standards management plan, either at the time of application for its registration under section 18, or as an application for amendment under section 22(3).
+
+**Relationship between Food Act regime and wine standards management plans**
+
+### 15A Persons involved with both food and wine
+(1) This section applies to winemakers who make extension products, partial process products, or wine products.
+(2) The winemakers may choose to apply subsection (3) or (4).
+(3) Winemakers who choose to apply this subsection must include all their operations in their registered food control plans or register all their operations under a national programme. The Food Act 2014, and its provisions on verification, apply to their products.
+(4) Winemakers who choose to apply this subsection must include all their operations in their registered wine standards management plans. This Act, and its provisions on verification, apply to their products as if they were wine.
+(5) Winemakers who also make food, or sell it at retail, must, subject to section 27 of the Food Act 2014, do both the following:
+  (a) comply with the Food Act regime for their food operations; and
+  (b) comply with their wine standards management plans for all their winemaking operations.
+
+### 15B Application for intermittent use of food control plan as wine standards management plan
+(1) An operator of a food control plan may apply to the Director-General to register a food control plan (food plan) as a wine standards management plan (wine plan) for use intermittently.
+(2) The application—
+  (a) must be made in a manner approved by the Director-General; and
+  (b) must be accompanied by the prescribed fee (if any); and
+  (c) is subject to sections 18 to 20 as if it were made under section 18.
+(3) The Director-General must impose conditions on registration specifying—
+  (a) the times during which the food plan’s operator may use the plan; and
+  (b) the manner in which the food plan’s operator may use the plan; and
+  (c) the notice that the food plan’s operator must give of the food plan’s being in use.
+(4) The Director-General must also impose a condition on registration specifying whether and to what extent the food plan is subject to the verification requirements of this Act or the Food Act 2014. In setting the condition, the Director-General must take into account—
+  (a) the desirability of continuity in verification services, functions, or requirements; and
+  (b) export eligibility requirements.
+(5) The Director-General must—
+  (a) advise the applicant of the conditions that the Director-General has imposed under subsections (3) and (4) and section 19(2); and
+  (b) give the applicant the opportunity to withdraw the application.
+(6) The Director-General must as soon as practicable after registration notify the following persons of the fact and conditions of registration:
+  (a) the applicant; and
+  (b) the applicant’s verifier or verification agency (if applicable); and
+  (c) the applicant’s verifier or verification agency under the Food Act 2014; and
+  (d) either—
+    (i) the chief executive of the agency for the time being responsible for the administration of the Food Act 2014; or
+    (ii) the relevant territorial authority.
+
+### 15C Intermittent use of food control plan as wine standards management plan
+(1) This section applies when a food control plan (food plan) is registered as a wine standards management plan (wine plan) under section 15B.
+(2) While an operator is using the registered food plan, the operator is treated as a person who—
+  (a) is required to have a wine plan for the operations for which the operator is using the registered food plan; and
+  (b) is not required to comply with the Food Act regime for the operations for which the operator is using the registered food plan.
+(3) While an operator is not using the registered food plan,—
+  (a) the operator is treated as a person who is required to comply with the Food Act regime; and
+  (b) this Act does not apply to the operator.
 
 **Registration of wine standards management plans**
 
@@ -376,6 +424,12 @@ A person who is required to operate under a wine standards management plan must 
   (d) the operations to which the suspension applies; and
   (e) any conditions or requirements in relation to the suspension.
 (4) If the Director-General considers it necessary in the circumstances, and after having notified the operator of the proposed extension and the reasons for it, and having given the operator a reasonable opportunity to be heard, the period of suspension may be extended once for such further period not exceeding 3 months as the Director-General notifies to the operator in writing before the expiry of the original suspension.
+(4A) The operator of a registered wine standards management plan may suspend all or any operations under the plan for a minimum of 3 months and a maximum of 12 months.
+(4B) An operator who suspends a plan under subsection (4A) must give the Director-General a notice in writing stating—
+  (a) the date on which the suspension starts, which must be a date after the date of the notice; and
+  (b) the date on which the suspension ends; and
+  (c) which operations are suspended; and
+  (d) how the operator intends to deal with any affected product.
 (5) The Director-General must notify the appropriate recognised verifying agency of a suspension under this section.
 (6) The Director-General may notify any suspension under this section in the Gazette.
 (7) A suspension under this section does not affect any other actions that the Director-General may take under this Act.
@@ -434,8 +488,10 @@ This subpart provides for—
 ### 31 Application of standards and specifications
 Standards and specifications set under this subpart may apply in respect of any class, kind, or description of wine, person or business, process or operation, equipment or other thing, premises or place, or area, and may apply regardless of whether or not a wine standards management plan is in place or is required in respect of the relevant wine, person or business, process or operation, premises or place, or area.
 
-### 32 Application to wine products
-Standards and specifications set under this subpart may apply to wine products that are made or required to be made under a registered wine standards management plan pursuant to section 10(1)﻿(a) or section 12 as if they were wine, and, for this purpose, in this subpart wine includes wine products.
+### 32 Application to extension products, partial process products, and wine products
+(1) This section applies to extension products, partial process products, and wine products that are made or required to be made under a registered wine standards management plan under section 12 or 15A.
+(2) Standards and specifications set under this subpart may apply to the products as if they were wine.
+(3) In this subpart, wine includes the products.
 
 ### 33 Regulations may prescribe standards
 (1) Regulations may be made under section 119, on the recommendation of the Minister, that prescribe—
@@ -1401,9 +1457,11 @@ The explanatory note of regulations made under section 89 must indicate that—
   (b) an assistant of a wine officer; or
   (c) any recognised agency, recognised person, or other authorised person—
 (2) A person commits an offence who, with intent to deceive, personates or pretends to be a wine officer or recognised verifying agency, or a person referred to in subsection (1)﻿(c).
-(3) A person who commits an offence against this section is liable on conviction to a fine not exceeding—
-  (a) $250,000, in the case of a body corporate; or
-  (b) $50,000, in the case of an individual.
+(3) A person who commits an offence against this section is liable,—
+  (a) for a body corporate, to a fine not exceeding $250,000:
+  (b) for an individual, to—
+    (i) imprisonment for a term not exceeding 3 months; and
+    (ii) a fine not exceeding $50,000.
 
 ### 102 Offence of breach of duty
 (1) A person commits an offence who, without reasonable excuse,—
@@ -1525,7 +1583,9 @@ A person who is required by or under section 112 to keep records or any other in
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
   (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
-(4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
+(4) In this section,—
+  - **border information** and have the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993
+  - **Ministry** has the meaning given in section 41A(1) of the Biosecurity Act 1993 and also has the meaning given in section 4(1) of this Act.
 
 **Right of review**
 
@@ -1621,6 +1681,9 @@ A person who is required by or under section 112 to keep records or any other in
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) exempting under section 6 any winemaker from the ambit of the Act or from the requirement to operate under a wine standards management plan:
   (b) prescribing requirements, criteria, specifications, procedures, and related matters in relation to wine standards management plans and the amending and updating of wine standards management plans:
+  (ba) for the purposes of section 15B, specifying criteria for determining whether all or any class or classes of registered food control plans are to be subject to the verification regime of this Act or the Food Act 2014:
+  (bb) for the purposes of section 15B, if it is appropriate to allow exemptions in the interests of avoiding unnecessary or undesirable duplication of equivalent duties or matters under this Act and the Food Act 2014, exempting persons from compliance with specified requirements imposed under either Act, or providing for their exemption, whether wholly, partly, or conditionally:
+  (bc) for the purposes of section 15B, prescribing any other matters relating to the registration of food control plans as wine standards management plans:
   (c) prescribing wine standards, including criteria, specifications, and other related matters, in accordance with subpart 2 of Part 2:
   (d) prescribing export eligibility requirements under section 38, and procedures and requirements in relation to them:
   (e) prescribing procedures and requirements relating to the registration of exporters:
