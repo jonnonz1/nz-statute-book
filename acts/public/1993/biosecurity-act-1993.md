@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-03-01_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -1316,7 +1316,7 @@ The Director-General must not take any action under sections 37, 37A, or 37B wit
       (i) to achieve the purpose of this Part; or
       (ii) for the administration of this Part:
     (c) any function, duty, or power imposed or conferred on the Ministry by or under any of the following Acts in relation to the effective management of risks associated with the movement of goods, persons, or craft into or out of New Zealand:
-      (i) the Food Act 1981:
+      (i) the Food Act 2014:
       (ii) the Hazardous Substances and New Organisms Act 1996:
       (iii) the Agricultural Compounds and Veterinary Medicines Act 1997:
       (iv) the Animal Products Act 1999:
@@ -4145,7 +4145,7 @@ In sections 142M to 142S,—
 ### 142S Effect of other enactments
 (1) Part 2 of the Legislation Act 2012 does not apply to material incorporated in a biosecurity document.
 (2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material, but the requirement in section 41 to present a disallowable instrument to the House of Representatives does not apply to material incorporated in regulations.
-(3) Sections 22 to 25 of the Standards Act 1988 are not affected by sections 142L to 142R.
+(3) Sections 29 to 32 of the Standards and Accreditation Act 2015 are not affected by sections 142L to 142R.
 
 ## Part 7 — Exigency actions
 
