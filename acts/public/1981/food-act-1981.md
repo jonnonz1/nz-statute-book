@@ -1,5 +1,5 @@
 # Food Act 1981
-_Consolidation as at 2014-06-24_
+_Consolidation as at 2016-03-01_
 
 > An Act to consolidate and amend the law relating to the sale of food
 
@@ -138,7 +138,7 @@ The Director-General must from time to time designate an employee as Director fo
   (b) for the time being generally approved in writing by the Director-General.
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)(j) of the Customs and Excise Act 1996.
+  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
 (4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
 
 ## Part 1A — Exemptions from Food Hygiene Regulations 1974
@@ -155,7 +155,7 @@ The purpose of this Part is to facilitate a voluntary transition from compliance
   (ba) dairy processors (as defined in section 4(1) of the Animal Products Act 1999):
   (c) subject to subsection (2), secondary processors of animal products that are food who have, in accordance with section 34 of the Animal Products Act 1999, registered a food safety programme as a risk management programme for the purpose of operating under the 2 programmes alternatively or intermittently.
 (2) A person who is subject to any regulated control scheme under the Animal Products Act 1999 is also exempt from the requirements of the Food Hygiene Regulations 1974, and therefore from the application of this Part, in respect of any operations that are covered by the regulated control scheme, unless the regulated control scheme specifically states that such operations are not to be treated as exempt from the Food Act regime.
-(3) The exemption from the requirements of this Part or of the Food Hygiene Regulations 1974 of secondary processors referred to in subsection (1)(c) relates only to operations carried out under the registered risk management programme in accordance with the terms and conditions of its registration.
+(3) The exemption from the requirements of this Part or of the Food Hygiene Regulations 1974 of secondary processors referred to in subsection (1)﻿(c) relates only to operations carried out under the registered risk management programme in accordance with the terms and conditions of its registration.
 (4) Any food safety programme that is so registered as a risk management programme is to be subject to whichever audit or verification regime is specified for it under section 34(3) of the Animal Products Act 1999.
 (5) The terms primary processor and secondary processor have the meanings given by section 4 of the Animal Products Act 1999.
 
@@ -275,7 +275,7 @@ Notwithstanding anything in this Part, the Director-General may, if he or she th
   (a) that the applicant has adopted a food safety programme; but
   (b) that no guidelines are in force that set standard criteria which that food safety programme must satisfy; and
   (c) that the application otherwise satisfies the requirements of paragraphs (d) and (e) of subsection (1),—
-(3) Where, pursuant to section 8O(3) or section 8X(1)(b), the Director-General directs a territorial authority to grant an exemption, the territorial authority shall, in accordance with that direction, grant the exemption accordingly.
+(3) Where, pursuant to section 8O(3) or section 8X(1)﻿(b), the Director-General directs a territorial authority to grant an exemption, the territorial authority shall, in accordance with that direction, grant the exemption accordingly.
 
 ### 8O Applications referred to Director-General
 (1) Where, pursuant to section 8N(2), an application is referred to the Director-General, the Director-General shall decide whether or not the food safety programme adopted by the applicant is appropriate.
@@ -307,11 +307,11 @@ Notwithstanding anything in this Part, the Director-General may, if he or she th
 (4) Subject to subsections (5) and (6), the territorial authority may at any time, by written notice to the holder of an exemption, revoke, amend, or add to any conditions imposed pursuant to subsection (3).
 (5) Except where the terms or conditions of an exemption are varied,—the territorial authority shall not vary the terms or conditions of any exemption under this section without first giving the holder of the exemption a reasonable opportunity to make written submissions to the territorial authority in relation to the matter.
   (a) pursuant to subsection (2) or subsection (4), on the application of the holder of the exemption and in accordance with the terms of that application; or
-  (b) at the direction of the Director-General given under subsection (6)(b),—
+  (b) at the direction of the Director-General given under subsection (6)﻿(b),—
 (6) Where a territorial authority grants an exemption on the direction of the Director-General given under section 8O(3),—
   (a) the territorial authority shall not vary the terms or conditions of that exemption under this section except with the agreement of the Director-General:
   (b) the territorial authority shall, if directed to do so by the Director-General, vary the terms or conditions of that exemption under this section in accordance with that direction.
-(7) The Director-General shall not give a direction pursuant to subsection (6)(b) in relation to an exemption without first giving the holder of the exemption a reasonable opportunity to make written submissions to the Director-General in relation to the matter.
+(7) The Director-General shall not give a direction pursuant to subsection (6)﻿(b) in relation to an exemption without first giving the holder of the exemption a reasonable opportunity to make written submissions to the Director-General in relation to the matter.
 
 ### 8R Duration of exemption
 (1) A territorial authority may specify in any exemption granted by it under section 8N that the exemption is to have effect indefinitely or for a stated period.
@@ -668,7 +668,7 @@ Where,—that person shall, within 14 days of so ceasing to be the approved audi
 **Miscellaneous provision**
 
 ### 8ZZG Other exemption powers not affected
-Nothing in this Part limits section 42(1)(z) or any regulations made pursuant to that provision.
+Nothing in this Part limits section 42(1)﻿(z) or any regulations made pursuant to that provision.
 
 ## Part 2 — Sales and advertisements
 
@@ -829,7 +829,7 @@ The purposes of this Part are—
   (a) any specified food, person, activity, or matter:
   (b) any specified class or classes of food, person, activity, or matter:
   (c) the same class of food, person, activity, or matter in different circumstances.
-(2) Without limiting the generality of subsection (1)(b), a class of food may be defined by reference to the country, region, or locality in which the food is produced, or from which that food is imported or otherwise obtained.
+(2) Without limiting the generality of subsection (1)﻿(b), a class of food may be defined by reference to the country, region, or locality in which the food is produced, or from which that food is imported or otherwise obtained.
 (3) No food standard shall be invalid because it—
   (a) confers any discretion upon, or allows any matter to be determined or approved by, the Minister or any other person; or
   (b) allows the Minister, the Director-General, or any other person to impose requirements as to the performance of any activities.
@@ -1052,10 +1052,10 @@ Where, during the transition period,—that person shall, on request by any othe
   (h) mark, fasten, seal, or otherwise secure on any premises—and direct the owner of the plant, machinery, equipment, or other article to refrain from using it and to detain it for such time as may be necessary to obtain results of analysis or (where analysis is not appropriate) to take any necessary remedial action, but in no case longer than 14 days:
     (i) any plant, machinery, or equipment that is used or intended to be used on those premises for the preparation or packing of any food and that the officer reasonably believes may render any food injurious to health or may taint any food; or
     (ii) any other article to which this section applies,—
-  (i) seize and detain any article to which this section applies, not being an article of a kind referred to in paragraph (h)(i), by means of or in relation to which the officer reasonably believes an offence against this Act or against any regulations made under this Act has been committed:
+  (i) seize and detain any article to which this section applies, not being an article of a kind referred to in paragraph (h)﻿(i), by means of or in relation to which the officer reasonably believes an offence against this Act or against any regulations made under this Act has been committed:
   (j) seize and detain any advertising material or labelling material that contravenes or does not comply with the requirements of this Act or any regulations or food standards made under this Act relating to advertisements or labels:
   (k) take photographs of any premises or vehicle, or any article to which this section applies, or any other thing, where or by means of or in relation to which the officer reasonably believes an offence against this Act or against any regulations made under this Act has been committed.
-(2A) Subject to sections 14 and 16, the provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, sections 118, 119, 125(4), 131(5)(f), and 133, and subparts 6 and 8) apply in respect of any seizure and detention under subsection (2)(i) or (j).
+(2A) Subject to sections 14 and 16, the provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, sections 118, 119, 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8) apply in respect of any seizure and detention under subsection (2)﻿(i) or (j).
 (3) On demand by any person in any premises or vehicle, or claiming any interest in any article, in or in respect of which any power is exercised under this section, the officer exercising the power shall identify himself and produce evidence that he is an officer.
 (4)
 
@@ -1066,7 +1066,7 @@ Where, during the transition period,—that person shall, on request by any othe
   (c) examine any article to which section 12 applies:
   (d) seize and detain any food or appliance by means of or in relation to which the inspector reasonably believes an offence against any of paragraphs (a) to (d) of section 9(4) or against section 11Q or against any regulations made under this Act has been committed:
   (e) take photographs of any premises or vehicle, or any article to which section 12 applies, or any other thing, where or by means of or in relation to which the inspector reasonably believes any such offence has been committed.
-(1A) Subject to sections 14 and 16, the provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, sections 118, 119, 125(4), 131(5)(f), and 133, and subparts 6 and 8) apply in respect of any seizure and detention under subsection (1)(d).
+(1A) Subject to sections 14 and 16, the provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, sections 118, 119, 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8) apply in respect of any seizure and detention under subsection (1)﻿(d).
 (2) Section 12(3), with all necessary modifications, shall apply in respect of the exercise by a local authority inspector of any powers under this section.
 (3) Every local authority—
   (a) must give to the designated officer designated for the district of the local authority all reports on the exercise in its district of the powers under this section of local authority inspectors that the designated officer asks for; and
@@ -1077,7 +1077,7 @@ Where, during the transition period,—that person shall, on request by any othe
 (2) Subject to subsection (3), where any article is—it may, at the option of the officer or local authority inspector concerned, be detained in the premises or vehicle where it was ordered to be detained or seized, or removed to another place and detained there, at the expense of the owner at the time of the order or seizure.
   (a) ordered to be detained under paragraph (h) of subsection (2) of section 12; or
   (b) seized under paragraph (i) or paragraph (j) of that subsection; or
-  (c) seized under section 13(1)(d),—
+  (c) seized under section 13(1)﻿(d),—
 (3) An officer or local authority inspector shall release any article seized or ordered by him to be detained under section 12 or section 13 when he is satisfied—
   (a) that all the provisions of this Act and of any regulations and food standards made under this Act, to the extent that they are material, have been complied with in respect of the article; and
   (b) that the article is fit for the purpose for which it is intended to be sold or used.
@@ -1177,7 +1177,7 @@ Notwithstanding sections 12 to 14, an officer or a local authority inspector may
 (4) No certificate of an analyst and no other evidence of an analysis under this Act shall be ruled inadmissible or disregarded by reason only of the fact that any of the provisions of this Act or of any regulations or food standards made under this Act relating to the taking or analysing of samples have not been strictly complied with, if there has been reasonable compliance with those provisions.
 
 ### 24 Special provisions relating to imported consignments
-(1) Where, in any port, any officer takes any sample under section 20 from any imported consignment of any substance reasonably believed by him to be food, or takes any appliance under section 12(2)(e)(ii) or section 20, from any imported consignment the following provisions shall apply:
+(1) Where, in any port, any officer takes any sample under section 20 from any imported consignment of any substance reasonably believed by him to be food, or takes any appliance under section 12(2)﻿(e)﻿(ii) or section 20, from any imported consignment the following provisions shall apply:
   (a) the officer shall forthwith notify the importer that he has taken the sample or appliance:
   (b) subject to paragraphs (c) and (d), an officer shall direct the Customs to detain the remainder of the consignment in the port under the control of the Customs, at the expense of the importer, until the analysis or examination has been completed:
   (c) any such consignment may, with the approval of an officer, be removed at the expense of the importer from the port to a specified place if the importer undertakes in writing, in a form approved by the officer, that he will detain the consignment for such time as may be necessary to obtain results of analysis or to complete an examination:
@@ -1187,7 +1187,7 @@ Notwithstanding sections 12 to 14, an officer or a local authority inspector may
     (i) seize and detain the goods; or
     (ii) order the goods returned by the importer to their place of origin, or some other place outside New Zealand, at the expense of the importer; or
     (iii) permit the goods to be released subject to such conditions as he may specify, including a condition that a new label be substituted for any label on each or any package comprising part of the consignment:
-  (g) nothing in paragraph (c) or paragraph (d) or paragraph (f)(iii) shall limit or affect the Customs and Excise Act 1996.
+  (g) nothing in paragraph (c) or paragraph (d) or paragraph (f)﻿(iii) shall limit or affect the Customs and Excise Act 1996.
 (2) Where an officer seizes any goods under this section, he shall serve notice of his action on the importer of the goods; and, if the goods are still under the control of the Customs, he shall also serve a copy of the notice on the Customs who shall ensure that the goods are not delivered from the control of the Customs without the written consent of the officer.
 (3) Where any goods are seized under this section, section 16 shall apply with all necessary modifications.
 (4) It shall be the duty of all officers of the Customs to assist in carrying out the provisions of this section, and to prevent the introduction into New Zealand of anything contrary to this Act; and for that purpose they may, in respect of anything so introduced or attempted to be introduced, exercise all the powers conferred by the Customs and Excise Act 1996 in the case of uncustomed or prohibited goods.
