@@ -1,5 +1,5 @@
 # Geographical Indications (Wine and Spirits) Registration Act 2006
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Geographical Indications (Wine and Spirits) Registration Act 2006.
@@ -152,7 +152,7 @@ The Registrar must not register a foreign geographical indication that is not, o
 (1) The restrictions in sections 14 to 17 do not apply, and the Registrar may register a geographical indication that is identical or confusingly similar to a trade mark, if—
   (a) the owner of the trade mark has consented to its registration as a geographical indication; or
   (b) the Registrar considers that the geographical indication may co-exist with the trade mark.
-(2) In making a decision under subsection (1)(b), the Registrar must have regard to the following factors:
+(2) In making a decision under subsection (1)﻿(b), the Registrar must have regard to the following factors:
   (a) the geographical indication's history of use in good faith in New Zealand:
   (b) recognition of the geographical indication in New Zealand as a geographical indication:
   (c) the legitimate interests of the owner of the trade mark and of third parties:
@@ -390,8 +390,8 @@ The decision to which an appeal under this Act relates remains in full force pen
   (a) the Surveyor-General (or the Surveyor-General's representative) acting in his or her capacity as Surveyor-General:
   (b) a member of the New Zealand Geographic Board, who is not the Surveyor-General, acting in his or her capacity as a member of that board:
   (c) 1 or more persons who, in the Registrar's opinion, have appropriate knowledge of the wine or spirits industry, as the case may be.
-(3) Subsection (2)(a) or (b) does not apply if the matter on which the Registrar requires advice does not relate to boundaries or place names respectively.
-(4) In appointing a person under subsection (2)(c), the Registrar must first consult the relevant national and regional organisations representing the wine or spirits industry, as the case may be.
+(3) Subsection (2)﻿(a) or (b) does not apply if the matter on which the Registrar requires advice does not relate to boundaries or place names respectively.
+(4) In appointing a person under subsection (2)﻿(c), the Registrar must first consult the relevant national and regional organisations representing the wine or spirits industry, as the case may be.
 (5) The Registrar may appoint as members of the committee any other persons who, in the opinion of the Registrar, have appropriate knowledge or expertise in relation to the matter to be considered by the committee.
 (6) A member of the committee may resign office by notice in writing to the Registrar.
 
@@ -428,8 +428,8 @@ Nothing in this Act affects a geographical indication that is not a registered g
 ### 59 Act does not affect Wine Act 2003
 Nothing in this Act affects the operation of the Wine Act 2003.
 
-### 60 Act does not affect New Zealand (Australia New Zealand Food Standards Code) Food Standards 2002
-Nothing in this Act affects the operation of the New Zealand (Australia New Zealand Food Standards Code) Food Standards 2002.
+### 60 Act does not affect joint food standards
+Nothing in this Act affects the operation of any joint food standard adopted under the Food Act 2014.
 
 ### 61 Act does not limit Fair Trading Act 1986
 Nothing in this Act limits the operation of the Fair Trading Act 1986.
@@ -439,9 +439,9 @@ The Geographical Indications Act 1994 is repealed.
 
 ### 63 Trade Marks Act 2002 amended
 (1) Section 5(1) of the Trade Marks Act 2002 is amended by repealing the definitions of geographical indication, protected geographical indication, and specified goods.
-(2) Section 5(1) of the Trade Marks Act 2002 is amended by inserting the following definition after the definition of register:.
+(2) Section 5(1) of the Trade Marks Act 2002 is amended by inserting the following definition after the definition of register:
   - **registered geographical indication** has the same meaning as in section 7(1) of the Geographical Indications (Wine and Spirits) Registration Act 2006
-(3) Section 11 of the Trade Marks Act 2002 is amended by inserting the following paragraph after paragraph (a):.
+(3) Section 11 of the Trade Marks Act 2002 is amended by inserting the following paragraph after paragraph (a):
   (ab) are subject to any rights arising out of a registered geographical indication; and
 (4) The Trade Marks Act 2002 is amended by repealing section 20 and substituting the following section:Trade mark that contains registered geographical indication must not be registered
   (1) The Commissioner must not register a trade mark that—
@@ -463,5 +463,5 @@ The Geographical Indications Act 1994 is repealed.
 ### 64 Other consequential amendments
 (1) Section 8 of the New Zealand Geographic Board Act 1946 is amended by inserting the following subsection after subsection (1):
   (1A) The Board also has the functions given to it by the Geographical Indications (Wine and Spirits) Registration Act 2006.
-(2) Part 2 of Schedule 1 of the Ombudsmen Act 1975 is amended by inserting the following item in its appropriate alphabetical order:Geographical indications committees established under the Geographical Indications (Wine and Spirits) Registration Act 2006.
+(2) Part 2 of Schedule 1 of the Ombudsmen Act 1975 is amended by inserting the following item in its appropriate alphabetical order:Geographical indications committees established under the Geographical Indications (Wine and Spirits) Registration Act 2006
 (3) Schedule 1 of the Trans-Tasman Mutual Recognition Act 1997 is amended by omitting the item Geographical Indications Act 1994 and substituting the item Geographical Indications (Wine and Spirits) Registration Act 2006.
