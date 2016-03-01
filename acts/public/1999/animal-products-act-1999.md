@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-03-01_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -104,11 +104,9 @@ The object of this Act is to—
   - **finfish** has the same meaning as in the Fisheries Act 1996
   - **fish** means finfish and shellfish
   - **fit for intended purpose** , used in relation to any animal product, is described in section 5
-  - **Food Act regime** means the alternative regimes under the Food Act 1981 that consist of, or relate to,—
-    (a) Part 1A of that Act and food safety programmes:
-    (b) the Food Hygiene Regulations 1974
-  - **food safety programme** means an appropriate food safety programme within the meaning of the Food Act 1981, being a programme whose adoption gives rise to an exemption from the Food Hygiene Regulations 1974 under Part 1A of that Act
-  - **Food Standards Code** means the code incorporated into New Zealand law by the New Zealand (Australia New Zealand Food Standards Code) Food Standards 2002 and issued by the Minister under section 11C of the Food Act 1981
+  - **Food Act regime** means the regime under the Food Act 2014
+  - **food control plan** has the meaning given to it in the Food Act 2014
+  - **Food Standards Code** has the same meaning as adopted joint food standard under the Food Act 2014
   - **game estate** has the meaning given it by section 65B
   - **hazard** means a biological, chemical, or physical agent that—
     (a) is in or has the potential to be in animal material or product, or is or has the potential to be a condition of animal material or product; and
@@ -124,6 +122,7 @@ The object of this Act is to—
   - **milk** means the mammary secretion of milking animals
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means the Ministry of Agriculture and Forestry or such other Ministry as has, with the authority of the Prime Minister, for the time being assumed responsibility for the administration of this Act
+  - **national programme** has the meaning given to it in the Food Act 2014
   - **notice of recognition** means, as applicable,—
     (a) a notice of recognition given to a recognised agency or a recognised person in accordance with section 112(1)﻿(b); or
     (b) a notification given to a recognised class in accordance with section 112(1)﻿(c)﻿(i)
@@ -175,10 +174,11 @@ The object of this Act is to—
     (b) is processed either by its catcher or by another person under section 69, and not in compliance with Parts 2 to 4;—
   - **registered exporter** means an exporter currently registered under Part 5
   - **registered risk management programme** means a risk management programme that is currently registered under Part 2
-  - **regulated animal product** means animal material or product for trade or export that is processed, or has been or is required to be processed, in accordance with Parts 2 to 4 (or with the Food Act 1981); and does not include any homekill or recreational catch product, or any product processed by a homekill or recreational catch service provider that ceases to be regulated animal product in terms of section 72
+  - **regulated animal product** means animal material or product for trade or export that is processed, or has been or is required to be processed, in accordance with Parts 2 to 4 (or with the Food Act 2014); and does not include any homekill or recreational catch product, or any product processed by a homekill or recreational catch service provider that ceases to be regulated animal product in terms of section 72
   - **regulated control scheme** means a scheme of a kind described in section 38, and includes an emergency control scheme instituted under section 41
   - **rendering** means the breaking down of animal tissues into constituent fat and protein elements, whether by the application of heat and pressure or otherwise
   - **retail butcher** includes any type of butchery engaged in retail trade in regulated animal products
+  - **risk-based measure** has the meaning given to it in the Food Act 2014
   - **risk factors** means—
     (a) risks from hazards to animal or human health:
     (b) risks from false or misleading labelling:
@@ -230,7 +230,9 @@ Except where the context otherwise requires,—
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
   (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
-(4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
+(4) In this section,—
+  - **border information** and have the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993
+  - **Ministry** has the meaning given in section 41A(1) of the Biosecurity Act 1993 and also has the meaning given in section 4(1) of this Act.
 
 **Application of Act generally**
 
@@ -239,7 +241,7 @@ Except where the context otherwise requires,—
   (a) all animal material, whether alive or dead, including the material of mammals, birds, fish, reptiles, amphibians, insects, and other creatures and entities:
   (b) all products, both edible and non-edible, derived in whole or in part from animal material, including products derived from mammals, birds, fish, reptiles, amphibians, insects, and other creatures and entities.
 (2) The specific requirements of this Act apply principally to animal material and animal products that are intended for human or animal consumption, but may also apply or be made to apply to animal material and products intended for other purposes.
-(3) This Act applies to the processing of animal products that are also foods within the meaning of the Food Act 1981 to the extent provided in sections 32 to 34.
+(3) This Act applies to the processing of animal products that are also foods within the meaning of the Food Act 2014 to the extent provided in sections 32 to 34.
 (4) This Act applies to the processing of animals that are homekill or recreational catch in the manner specified in Part 6.
 
 ### 8 Products and material excluded from ambit of Act
@@ -288,7 +290,7 @@ The object of this Part is to provide, as the main means for ensuring that anima
 (3A) Nothing in subsection (3) prevents a risk management programme for a particular business or part of a business from being based on a template, a model, or a code of practice, if in the view of the Director-General the template, model, or code of practice is valid and appropriate for businesses of that kind.
 (4) A risk management programme for each type of animal material or product, each type of process or operation, and each set of premises or place may be formulated as a single stand-alone programme, or may form part of a larger risk management programme that applies to 1 or more materials, products, processes, operations, places, or premises within the same business or operation.
 (4A) A risk management programme may also apply to 1 or more comparable animal product businesses in cases where the Director-General has given approval under section 17A.
-(5) A food safety programme may be registered as a risk management programme in accordance with section 34.
+(5) A food control plan may be registered as a risk management programme in accordance with section 34.
 
 ### 13 Who must have a risk management programme?
 (1) Subject to subsection (3), the following persons must operate under a registered risk management programme, whether as the registered holder of the programme or as a business to which the programme applies under section 17A, in respect of their production or processing of animal material or animal product:
@@ -298,7 +300,7 @@ The object of this Part is to provide, as the main means for ensuring that anima
   (d) such other persons as may be specified by Order in Council under section 15 as requiring to operate under a risk management programme.
 (2) While a secondary processor of animal products intended for export to an overseas market for which an official assurance under Part 5 is required is not obliged by subsection (1) to have a registered risk management programme,—
   (a) such a person should be aware of the implications of not having a programme as set out in section 33; and
-  (b) if the person elects under section 32 to operate under a registered risk management programme, or to register a food safety programme as a risk management programme under section 34 for the purposes of certain operations, they will be treated as a person who is required to have a registered risk management programme in respect of the animal products or operations concerned.
+  (b) if the person elects under section 32 to operate under a registered risk management programme, or to register a food control plan as a risk management programme under section 34 for the purposes of certain operations, they will be treated as a person who is required to have a registered risk management programme in respect of the animal products or operations concerned.
 (3) Nothing in subsection (1) requires a person to operate under a risk management programme in respect of—
   (a) the primary production of animal material (subject to any order under section 15):
   (b) the transporting of animal material prior to primary processing (subject to any order under section 15):
@@ -366,7 +368,7 @@ The object of this Part is to provide, as the main means for ensuring that anima
   (f) establishment of procedures for the ongoing confirmation that the risk management programme is effective in managing the hazards:
   (g) appropriate and auditable documentation and record keeping.
 (4) A proposed risk management programme must also make appropriate provision for verification activities and the rights of recognised risk management programme verifiers, as specified by the Director-General by notice under section 167.
-(5) A risk management programme may contain, as a component part, an appropriate food safety programme within the meaning of the Food Act 1981, provided the food safety programme is registered as a risk management programme under section 34.
+(5) A risk management programme may contain, as a component part, an appropriate food control plan within the meaning of the Food Act 2014 or components of a national programme.
 
 ### 17A Multi-business risk management programmes
 (1) A registered risk management programme may apply to more than 1 business, if the Director-General approves.
@@ -386,7 +388,7 @@ The object of this Part is to provide, as the main means for ensuring that anima
 ### 18 Register of risk management programmes
 (1) The Director-General must keep and maintain a register of risk management programmes that records—
   (a) all risk management programmes registered under this Part; and
-  (b) matters relating to the registration of food safety programmes as risk management programmes under section 34.
+  (b) matters relating to the registration of food control plans as risk management programmes under section 34.
 (2) The purpose of the register is—
   (a) to enable members of the public to know what business operations are subject to risk management programmes, and who is responsible for various functions under those programmes; and
   (b) to facilitate the ability of the Director-General to ensure that all traded animal products are fit for intended purpose, and in particular to manage any emergency situation; and
@@ -407,9 +409,9 @@ The register of risk management programmes must contain the following particular
   (d) the types of animal material and animal product to which the programme applies:
   (e) the principal categories of processing and other operations carried out under the programme:
   (f) the location (if appropriate) and type of premises or place to which the programme applies (or, if more appropriate, a place where the general public can obtain up-to-date information of the location and type of premises or place to which the programme applies):
-  (g) the name of the recognised risk management programme verifying agency (and, if appropriate in the case of a food safety programme registered as a risk management programme under section 34, the approved auditor under the Food Act 1981) responsible for the verification function under the programme:
+  (g) the name of the recognised risk management programme verifying agency responsible for the verification function under the programme:
   (h) identification of any risk management programme whose registration amounts to an election under section 32:
-  (i) identification of any food safety programme that is registered as a risk management programme under section 34:
+  (i) identification of any food control plan that is registered as a risk management programme under section 34:
   (j) the date on which the most recent amendment to the risk management programme has been registered under section 25:
   (k) the date of any update of the risk management programme under section 26:
   (l) the date (and period, if appropriate) of any suspension of operations under the programme or any deregistration or surrender of registration of the programme:
@@ -443,13 +445,15 @@ The register of risk management programmes must contain the following particular
   (b) the applicant is a fit and proper person to operate an animal product business, taking into account whether the applicant or any directors or managers of the business concerned have been convicted, whether in New Zealand or overseas, of any offence relating to fraud or dishonesty, or relating to management control or business activities in respect of businesses of a kind (whether in New Zealand or elsewhere) that are regulated under this Act; and
   (c) the business, or its operator, is resident in New Zealand within the meaning of section YD 1 or YD 2 (excluding section YD 2(2)) of the Income Tax Act 2007.
 (1A) Nothing in subsection (1) requires the Director-General to register a risk management programme that purports to apply to a business or part-business of a person other than the applicant if the Director-General has not approved the programme's coverage of that business or part-business under section 17A.
-(2) Registration may be subject to such reasonable conditions as the Director-General may specify, including conditions relating to the commencement of operations under the programme.
+(2) Registration may be subject to any reasonable conditions that the Director-General specifies. The conditions may include, but are not limited to, conditions relating to the commencement of operations under the programme.
 (3) The Director-General must, as soon as practicable after registering a risk management programme, supply the applicant with—
   (a) a notice of registration; and
   (b) a notice of any conditions imposed under subsection (2); and
   (c) a registration number or other unique identifier; and
   (d) an authorised copy of the registered risk management programme.
-(3A) The Director-General may, at any time during the 12-month period following the commencement of operations under a registered risk management programme, by written notice to the operator concerned, impose further conditions as if they were imposed on registration under subsection (2), or amend or revoke any conditions imposed under that subsection.
+(3A) The Director-General may, at any time, give the operator a notice in writing—
+  (a) imposing further conditions as if they were imposed on registration under subsection (2); or
+  (b) amending or revoking any conditions imposed under that subsection.
 (4) The Director-General must, as soon as practicable after registering a risk management programme, supply the operator's recognised risk management programme verifying agency with an authorised copy of the registered risk management programme.
 (5) Registration of a programme under this section continues in force until the programme is deregistered under section 28 or its registration is surrendered under section 29.
 
@@ -512,6 +516,12 @@ The register of risk management programmes must contain the following particular
   (d) the operations to which the suspension applies; and
   (e) any conditions or requirements in relation to the suspension.
 (4) If the Director-General considers it necessary in the circumstances, and after having notified the operator of the proposed extension and the reasons for it and having given the operator a reasonable opportunity to be heard, the period of suspension may be extended for such further period not exceeding 3 months as the Director-General notifies to the operator in writing before the expiry of the original suspension.
+(4A) The operator of a registered risk management programme may suspend all or any operations under the programme for a minimum of 3 months and a maximum of 12 months.
+(4B) An operator who suspends a programme under subsection (4A) must give the Director-General a notice in writing stating—
+  (a) the date on which the suspension starts, which must be a date after the date of the notice; and
+  (b) the date on which the suspension ends; and
+  (c) which operations are suspended; and
+  (d) how the operator intends to deal with any affected animal material or product.
 (5) The Director-General must notify the appropriate recognised risk management programme verifying agency of any suspension under this section.
 (6) The Director-General may notify any suspension under this section in the Gazette.
 (7) A suspension under this section does not affect any other actions that the Director-General may take under this Act.
@@ -529,9 +539,15 @@ The register of risk management programmes must contain the following particular
     (ii) the premises or place where the relevant operations are carried out; or
     (iii) the material or product being produced or processed; or
     (iv) the type of production or processing being carried out.
-(2) The Director-General may not deregister a risk management programme under this section unless he or she has first—
-  (a) notified the operator of the programme (whether orally or in writing) of the intention to deregister and the reason for deregistration; and
-  (b) given the operator an opportunity to be heard.
+(2) The Director-General may deregister a risk management programme under this section only if—
+  (a) the Director-General has given the operator of the programme notice orally or in writing—
+    (i) saying that the Director-General intends to deregister the programme; and
+    (ii) stating the reason for deregistration; and
+    (iii) setting a reasonable date by which the operator must respond to the Director-General; and
+    (iv) stating that the operator’s response may be made orally or in writing; and
+  (b) the Director-General—
+    (i) has heard any representations that the operator wants to make; or
+    (ii) has received no response from the operator by the date set.
 (3) Where the Director-General determines to deregister a risk management programme, the Director-General must—
   (a) give written notice of that fact to the operator of the programme, giving reasons and specifying the date on which the deregistration takes effect (which may not be earlier than the date of notification); and
   (b) notify the appropriate recognised risk management programme verifying agency of that fact.
@@ -562,12 +578,12 @@ Where there is any conflict between the requirements of a registered risk manage
 **Relationship between Food Act regime and risk management programmes**
 
 ### 31 Object of sections 32 to 34
-The object of sections 32 to 34 is to recognise the general equivalence of food safety programmes and risk management programmes, and to minimise the problems of overlap of 2 separate legislative regimes, by—
+The object of sections 32 to 34 is to recognise the general equivalence of food control plans and risk management programmes, and to minimise the problems of overlap of 2 separate legislative regimes, by—
   (a) allowing, in section 32, a secondary processor of an animal product which is a food to elect to operate solely under a risk management programme and this Act, rather than under the equivalent Food Act regime (particularly where the food is for export, and may require official assurances); and
-  (b) providing, in section 34, for the registration of food safety programmes as risk management programmes, and allowing switching between programmes in the case of persons who wish to operate principally under one regime, but may also need or wish to operate from time to time under the other regime in respect of all or part of their operations.
+  (b) providing, in section 34, for the registration of food control plans as risk management programmes, and allowing switching between plans and programmes in the case of persons who wish to operate principally under one regime, but may also need or wish to operate from time to time under the other regime in respect of all or part of their operations.
 
 ### 32 Secondary processors of animal products which are food may elect to operate under risk management programme
-(1) A secondary processor of an animal product which is a food within the meaning of the Food Act 1981 may elect under this section to operate under a registered risk management programme rather than under a food safety programme or under the Food Hygiene Regulations 1974 in respect of that product.
+(1) A secondary processor of an animal product which is a food within the meaning of the Food Act 2014 may elect under this section to operate under a registered risk management programme rather than under the applicable risk-based measure under the Food Act 2014 in respect of that product.
 (2) An election under this section—
   (a) is made by notifying it to the Director-General, whether at the time the secondary processor applies for registration of a risk management programme or in such other manner as the Director-General may approve; and
   (b) takes effect when the risk management programme of the secondary processor is registered, or is notified in the register as taking effect.
@@ -577,7 +593,7 @@ The object of sections 32 to 34 is to recognise the general equivalence of food 
   (b) the Food Act regime does not apply to the matters covered by the registered risk management programme.
 (5) An election under this section is to be treated as revoked if the secondary processor surrenders the risk management programme under section 29, and subsection (4) of this section ceases to apply on and from the date stated in the register.
 (6) When the Director-General has registered a secondary processor's risk management programme following an election of the processor under this section, the Director-General must—
-  (a) notify the chief executive of the agency for the time being responsible for the administration of the Food Act 1981 and any relevant territorial authority (as defined in section 8B of the Food Act 1981) of the election; and
+  (a) notify the chief executive of the agency for the time being responsible for the administration of the Food Act 2014 and any relevant territorial authority (as defined in section 8(1) of the Food Act 2014) of the election; and
   (b) note the election on the register of risk management programmes in accordance with section 19.
 (7) Where an election is treated as revoked by subsection (5), the Director-General must similarly notify the chief executive and relevant territorial authority referred to in subsection (6)﻿(a), and must note the revocation on the register.
 
@@ -585,30 +601,30 @@ The object of sections 32 to 34 is to recognise the general equivalence of food 
 (1) Where a secondary processor operates under the Food Act regime rather than under a risk management programme in relation to any animal product that is for export, and overseas market access requirements as notified or made available by the Director-General under section 60 apply to that product,—
   (a) the product must meet the requirements imposed by or under this Act for the giving of official assurances, if any official assurance is to be given under this Act in relation to the product; and
   (b) if it does not, it cannot be the subject of an official assurance under this Act.
-(2) For the purposes of subsection (1)﻿(a), the secondary processor must operate under either a registered risk management programme or a food safety programme that is registered as a risk management programme in accordance with section 34, and meet such additional requirements as may be notified or made available under section 60.
+(2) For the purposes of subsection (1)﻿(a), the secondary processor must operate under either a registered risk management programme or a food control plan that is registered as a risk management programme in accordance with section 34, and meet such additional requirements as may be notified or made available under section 60.
 
 ### 34 Alternate or intermittent use of risk management programmes and food safety programmes
-(1) A secondary processor who wishes to have a food safety programme recognised as a risk management programme to be operated on an intermittent basis may apply to the Director-General for registration of the programme as a risk management programme.
+(1) A secondary processor who wishes to have a food control plan recognised as a risk management programme to be operated on an intermittent basis may apply to the Director-General for registration of the plan as a risk management programme.
 (2) The application must be in a manner approved by the Director-General and be accompanied by the prescribed fee (if any), and sections 20(2) to 23 apply to any such application as if it were an application under section 20(1).
-(3) Where a food safety programme is registered as a risk management programme,—
+(3) Where a food control plan is registered as a risk management programme,—
   (a) its operator may operate under it only at the times and in the manner, and on the giving of such notification, as may be specified in conditions (if any) imposed under section 22; and
-  (b) during, or in respect of matters occurring during, any period when the operator operates under the programme as a risk management programme,—
+  (b) during, or in respect of matters occurring during, any period when the operator operates under the plan as a risk management programme,—
     (i) for the purposes of this Act the operator is to be treated in respect of those operations as a person who is required to have a risk management programme in respect of those operations; and
     (ii) subject to any regulations made under this section, the Food Act regime does not apply to those operations; and
   (c) during, or in respect of matters occurring during any period when the operator does not so operate, the operator is to be treated as subject to the Food Act regime, and, subject to any regulations made under this section, this Part does not apply in relation to that period or matters occurring during it; and
-  (d) despite anything in this Act or the Food Act 1981, the risk management programme is subject to whichever audit or verification regime is specified by the Director-General under subsection (4).
+  (d) despite anything in this Act or the Food Act 2014, the risk management programme is subject to whichever audit or verification regime is specified by the Director-General under subsection (4).
 (4) In imposing conditions on registration under section 22(3), the Director-General—
-  (a) must specify whether and to what extent the programme is to be subject to the verification requirements of this Act or the audit requirements of the Food Act 1981; and
-  (b) in making such a specification, is to have regard to the desirability of continuity in audit or verification services, functions, or requirements and to any overseas market access requirements notified or made available under section 60; and
-  (c) may impose such other conditions as are reasonable in light of the operator's proposed use of the programme.
-(5) Before registering a food safety programme as a risk management programme, the Director-General must advise the applicant of the conditions of the proposed registration and give the applicant the opportunity to withdraw the application.
-(6) On registering a programme, the Director-General must as soon as practicable notify the fact and the conditions of the registration to—
+  (a) must specify whether and to what extent the plan is to be subject to the verification requirements of this Act or the Food Act 2014; and
+  (b) in making such a specification, is to have regard to the desirability of continuity in verification services, functions, or requirements and to any overseas market access requirements notified or made available under section 60; and
+  (c) may impose such other conditions as are reasonable in light of the operator's proposed use of the plan.
+(5) Before registering a food control plan as a risk management programme, the Director-General must advise the applicant of the conditions of the proposed registration and give the applicant the opportunity to withdraw the application.
+(6) On registering a plan, the Director-General must as soon as practicable notify the fact and the conditions of the registration to—
   (a) the applicant; and
-  (b) the chief executive of the agency for the time being responsible for the administration of the Food Act 1981, or the relevant territorial authority; and
+  (b) the chief executive of the agency for the time being responsible for the administration of the Food Act 2014, or the relevant territorial authority; and
   (c) the applicant's recognised risk management programme verifying agency (if applicable); and
-  (d) the applicant's approved auditor under the Food Act 1981.
-(7) Regulations and specifications made under sections 166 and 167 may provide for matters relating to the registration of food safety programmes as risk management programmes under this Act. Such regulations may—
-  (a) specify or set criteria for determining whether all or any 1 or more classes of such programmes are to be subject to the verification regime of this Act or the audit regime of the Food Act 1981; and
+  (d) the applicant's verifier or verification agency under the Food Act 2014.
+(7) Regulations and specifications made under sections 166 and 167 may provide for matters relating to the registration of food control plans as risk management programmes under this Act. Such regulations may—
+  (a) specify or set criteria for determining whether all or any 1 or more classes of such plans are to be subject to the verification regime of this Act or the Food Act 2014; and
   (b) exempt persons or provide for their exemption, whether wholly, partially, or conditionally, from compliance with specified requirements imposed by or under either Act, where such exemptions are appropriate in the interests of avoiding unnecessary or undesirable duplication of equivalent duties or matters under the 2 Acts.
 
 **References to recognised risk management programme verifying agency**
@@ -917,7 +933,7 @@ If a person acting under the delegated authority of the Director-General refuses
 
 ### 60B Exemption from requirements of food standards where appropriate
 (1) The Director-General may, by notice under section 167, where satisfied that it is appropriate to do so having regard to the requirements of the relevant overseas market,—
-  (a) exempt from the requirements of any food standards issued under Part 2A of the Food Act 1981 or any standards specified by notice under section 167 of this Act any 1 or more classes or descriptions of animal material or animal product that is intended for export from New Zealand to any destination other than Australia:
+  (a) exempt from the requirements of any food standards issued under the Food Act 2014 or any standards specified by notice under section 167 of this Act any 1 or more classes or descriptions of animal material or animal product that is intended for export from New Zealand to any destination other than Australia:
   (b) exempt from the requirements of any such food standards that apply only in New Zealand any 1 or more classes or descriptions of animal material or animal product that is intended for export to Australia.
 (2) Regulations made under section 166 may also provide for exemptions of a kind referred to in subsection (1)﻿(a) or (b).
 
@@ -1288,7 +1304,7 @@ The Director-General may delegate under section 41 of the State Sector Act 1988 
 
 ### 87 Power of entry
 (1) An animal product officer may, for the purpose of determining whether or not any person is complying with this Act or any animal material or animal product or associated thing is in compliance with the requirements of this Act, without a warrant enter any place (other than a dwellinghouse or marae) at, in, or from which—
-  (a) any primary producer operates, or any animal product business that is subject to a risk management programme or a regulated control scheme or a food safety programme that is also registered as a risk management programme is operated; or
+  (a) any primary producer operates, or any animal product business that is subject to a risk management programme or a regulated control scheme or a food control plan that is also registered as a risk management programme is operated; or
   (b) any kind of goods that is or includes animal material or product is processed for sale or sold; or
   (c) any registered exporter operates; or
   (d) any listed homekill or recreational catch service provider operates; or
@@ -2084,11 +2100,13 @@ The explanatory note of regulations made under section 118 must indicate that—
 (1) A person commits an offence against this Act who threatens, assaults, or intentionally obstructs or hinders—who is acting in the exercise or performance of a function, power, or duty under this Act or under any risk management programme.
   (a) any animal product officer, official assessor, or recognised risk management programme verifier; or
   (b) an assistant of such a person; or
-  (c) any recognised agency, recognised person, or other authorised person (including a person having functions or powers under the Food Act 1981 in relation to a food safety programme that is registered as a risk management programme pursuant to section 34),—
+  (c) any recognised agency, recognised person, or other authorised person (including a person having functions or powers under the Food Act 2014),—
 (2) A person commits an offence against this Act who, with intent to deceive, personates or pretends to be an animal product officer, official assessor, recognised risk management programme verifier or recognised risk management programme verifying agency, or a person referred to in subsection (1)﻿(c).
-(3) A person who commits an offence against this section is liable on conviction to a fine not exceeding—
-  (a) $250,000, in the case of a body corporate; or
-  (b) $50,000, in the case of an individual.
+(3) A person who commits an offence against this section is liable,—
+  (a) for a body corporate, to a fine not exceeding $250,000:
+  (b) for an individual, to—
+    (i) imprisonment for a term not exceeding 3 months; and
+    (ii) a fine not exceeding $50,000.
 
 ### 134 Offence of breach of duty
 (1) A person commits an offence who, without reasonable excuse,—
@@ -2096,23 +2114,10 @@ The explanatory note of regulations made under section 118 must indicate that—
   (b) being a recognised agency, breaches or fails to carry out any of the duties specified in section 112G; or
   (c) being a recognised person, breaches or fails to carry out any of the duties specified in section 112H; or
   (d) being a registered exporter, breaches or fails to carry out any of the duties specified in section 51.
-(2) A person who commits an offence under subsection (1) is liable on conviction—
-  (a) in the case of a breach or failure in relation to any of the duties specified in subsection (3), to—
-    (i) in the case of a body corporate, a fine not exceeding $200,000:
-    (ii) in the case of an individual, a fine not exceeding $50,000:
-  (b) in any other case, to—
-    (i) in the case of a body corporate, a fine not exceeding $100,000:
-    (ii) in the case of an individual, a fine not exceeding $25,000.
-(3) The duties that attract a penalty referred to in subsection (2)﻿(a) are as follows:
-  (a) for operators of risk management programmes, the duties specified in—
-    (i) section 16(1)﻿(c) (ensuring operations under a programme are adequately implemented and resourced):
-    (ii) section 16(1)﻿(d) (ensuring operations under a programme are commensurate with capability and capacity of premises or place, facilities, equipment, and staff, etc):
-    (iii) section 16(1)﻿(e) (giving recognised agencies and recognised persons appropriate freedom and access for their functions and activities):
-  (b) for recognised persons, the duties specified in—
-    (i) section 112H(c) (maintaining impartiality and independence):
-    (ii) section 112H(e) (reporting required matters to Ministry):
-    (iii)
-  (c) for exporters, the duties specified in section 51(b) (export only material or products that meet relevant standards and specifications, and relevant overseas market access requirements).
+(2) A person who commits an offence under subsection (1) is liable on conviction to—
+  (a) in the case of a body corporate, a fine not exceeding $200,000:
+  (b) in the case of an individual, a fine not exceeding $50,000.
+(3)
 
 ### 135 Failure to comply with Act, etc
 (1) A person commits an offence who, without reasonable excuse, fails to comply with—
@@ -2151,7 +2156,7 @@ In any proceedings for an offence against this Act relating to the sale of anima
     (iv) a specified operation was or was not suspended under section 27 or section 58; or
     (v) any official assurance, or any statement under section 83, had or had not been given in respect of any animal material or animal product or consignment; or
     (vi) a named person had or had not made an election under section 32 to operate under a registered risk management programme; or
-    (vii) a specified food safety programme was or was not registered as a risk management programme, with specified conditions, pursuant to section 34; or
+    (vii) a specified food control plan was or was not registered as a risk management programme, with specified conditions, pursuant to section 34; or
     (viii) a specified document was or was not a copy of an official assurance given under this Act; or
     (ix) a specified document was or was not a copy of a registered risk management programme; or
     (x) a specified document was or was not a copy of a notice or direction given under this Act; or
@@ -2216,7 +2221,7 @@ Where a body corporate is convicted of an offence against this Act, every direct
   (b) by any rules made under section 157,—
 
 ### 148 Notification of application
-(1) Except as provided in section 151 (which relates to temporary compliance orders), the Director-General must serve notice of the application on every person directly affected by the application.
+(1) Except as provided in section 151 (which relates to interim compliance orders), the Director-General must serve notice of the application on every person directly affected by the application.
 (2) The notice must be served within 5 working days after the date on which the application is filed in the District Court, or within such further time as a District Court may allow.
 
 ### 149 Right to be heard
@@ -2331,7 +2336,7 @@ A person who is required by or under section 159 to keep records or any other in
   (b) on demand from the Director-General, any animal product officer, or any official assessor, provide access to all relevant information required to be kept under this Act in the person's possession with respect to any animal material or animal product or thing subject to this Act or any associated thing.
 
 ### 161 Disclosure of information for purpose of ensuring product safety, etc
-(1) The purpose of this section is to ensure that government agencies and other persons and agencies involved in risk management programmes, food safety programmes, or in the administration of other requirements imposed by or under this Act, are able to disclose to each other such information as is desirable or necessary to ensure—
+(1) The purpose of this section is to ensure that government agencies and other persons and agencies involved in risk management programmes, regulated control schemes, risk-based measures, or in the administration of other requirements imposed by or under this Act, are able to disclose to each other such information as is desirable or necessary to ensure—
   (a) the health or well-being of producers, processors, consumers, and users of animal material and products; or
   (b) the fitness for intended purpose of animal products; or
   (c) the integrity and reputation of New Zealand exports of animal material and products, and the integrity of official assurances given under this Act.
@@ -2349,7 +2354,7 @@ A person who is required by or under section 159 to keep records or any other in
     (iva) the Marine Farming Act 1971:
     (ivb) the Standards and Accreditation Act 2015:
     (v) the Meat Act 1981:
-    (vi) the Food Act 1981:
+    (vi)
     (vii) the Medicines Act 1981:
     (viii) the Biosecurity Act 1993:
     (viiia) the National Animal Identification and Tracing Act 2012:
@@ -2359,12 +2364,16 @@ A person who is required by or under section 159 to keep records or any other in
     (xi) the Agricultural Compounds and Veterinary Medicines Act 1997:
     (xia) the Animal Welfare Act 1999:
     (xib) the Dairy Industry Restructuring Act 2001:
+    (xic) the Local Government Act 2002:
+    (xid) the Wine Act 2003:
+    (xie) the Food Act 2014:
     (xii) any other Act enacted in substitution for any of the above enactments:
   (b) any primary producer, processor, transporter of animal material or product, or exporter:
   (c) any recognised risk management programme verifier or recognised risk management programme verifying agency:
   (d) any other person or body having functions or duties under this Act:
-  (e) any other person or body having an involvement in 1 or more risk management programmes or food safety programmes whose proper performance of their functions or duties depends on the supply of the relevant information:
-  (f) any management agency that is charged with the administration of pest management plans or pathway management plans under the Biosecurity Act 1993.
+  (e) any other person or body having an involvement in 1 or more risk management programmes or food control plans whose proper performance of their functions or duties depends on the supply of the relevant information:
+  (f) any management agency that is charged with the administration of pest management plans or pathway management plans under the Biosecurity Act 1993:
+  (g) a territorial authority, as defined in the Local Government Act 2002.
 
 **Right of review**
 
@@ -2458,7 +2467,7 @@ A person who is required by or under section 159 to keep records or any other in
 
 ### 166 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) prescribing requirements, criteria, specifications, procedures, and related matters in relation to risk management programmes and the amending and updating of risk management programmes, and to elections to operate under a risk management programme under section 32 or the registration of a food safety programme as a risk management programme under section 34:
+  (a) prescribing requirements, criteria, specifications, procedures, and related matters in relation to risk management programmes and the amending and updating of risk management programmes, and to elections to operate under a risk management programme under section 32 or the registration of a food control plan as a risk management programme under section 34:
   (b) prescribing requirements, criteria, specifications, and other related matters in respect of regulated control schemes in accordance with section 38:
   (c) prescribing animal product standards, including criteria, specifications, and other related matters, in accordance with section 44:
   (d) prescribing exemptions for any class of consignment, animal material or product, or person for the purposes of section 50, including prescribing conditions in respect of any such exemption and authorising the Director-General to exempt or impose conditions in relation to any consignment, animal material or product, or person of a prescribed class:
