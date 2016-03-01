@@ -1,5 +1,5 @@
 # Legislation Act 2012
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Legislation Act 2012.
@@ -654,8 +654,8 @@ An instrument that determines or alters the temporal application of rights or ob
 ### 56 Application of subpart 1 of this Part to instrument incorporating material by reference
 An instrument that incorporates material by reference in reliance on section 49 is a disallowable instrument for the purposes of subpart 1 of this Part.
 
-### 57 Application of Standards Act 1988, other enactments, and rules of law not affected
-Nothing in this subpart affects the application of sections 22 to 25 of the Standards Act 1988, any other enactment, or any rule of law.
+### 57 Application of Standards and Accreditation Act 2015, other enactments, and rules of law not affected
+Nothing in this subpart affects the application of sections 29 to 32 of the Standards and Accreditation Act 2015, any other enactment, or any rule of law.
 
 ## Part 4 — Parliamentary Counsel Office
 
