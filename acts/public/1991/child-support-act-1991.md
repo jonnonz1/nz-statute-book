@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2016-02-25_
+_Consolidation as at 2016-03-01_
 
 > Title
 
@@ -94,7 +94,7 @@ _Consolidation as at 2016-02-25_
     (c) where the person is a sole parent within the meaning of the Social Security Act 1964 and the application for the benefit was made after 24 July 1990,—
       (i)
       (ii) a supported living payment granted under section 40B on the ground of sickness, injury, disability, or total blindness of that Act:
-      (iii) jobseeker support:
+      (iii) subject to subsection (1A), jobseeker support:
       (iv)
       (v) young parent payment:
     (d) where the person is a sole parent within the meaning of the Social Security Act 1964 and the application for the benefit was made on or after 1 August 1991, an emergency benefit granted under section 61 of that Act,—
@@ -109,6 +109,7 @@ _Consolidation as at 2016-02-25_
   - **withholding income** means—
     (a) income from employment that has a New Zealand source that is subject to the PAYE rules (as defined in section YA 1 of the Income Tax Act 2007):
     (b) interest or a dividend that has a New Zealand source that is subject to the RWT rules (as defined in section YA 1 of the Income Tax Act 2007).
+(1A) The reference to jobseeker support in paragraph (c)﻿(iii) of the definition of social security benefit in subsection (1) does not include jobseeker support granted under section 88C(2) or (3) of the Social Security Act 1964.
 (2) Unless otherwise specified, the application of any provision of this Act to a person, assessment, payment, or other matter shall be determined in respect of each day in a child support year, and any assessment or other calculation shall be made on the basis of the circumstances existing in relation to that day.
 (3) For the purposes of this Act, a tax year corresponds with a child support year if,—
   (a) in relation to a person whose income is assessed under the Tax Administration Act 1994, the tax year ends on the last day of the child support year:
@@ -3737,6 +3738,10 @@ After the commencement date, if any person applies for a variation of a court or
 (4) This clause expires and is repealed on 1 April 2017.
 
 ### Part 1A — Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Act 2016
+
+### 8AA Amendment of definition of social security benefit in section 2
+(1) The amendments made by section 4(3) and (4) of the Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Act 2016 (the 2016 Act) apply in relation to jobseeker support granted under section 88C(2) or (3) of the Social Security Act 1964 whether the grant is made before, on, or after the day referred to in section 2(2)﻿(d) of the 2016 Act.
+(2) In relation to times before that day, this Act applies on and after that day as if those amendments had not been made.
 
 ### 8A Amendment of sections 4A, 8, and 13 and insertion of new section 13A (applications for formula assessments)
 The amendments made by sections 6 to 9 of the Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Act 2016 apply only in relation to applications for formula assessments made after the date on which that Act receives the Royal assent.
