@@ -1,5 +1,5 @@
 # Biosecurity (Border Processing—Trade Single Window) Amendment Act 2014
-_Consolidation as at 2014-03-24_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Biosecurity (Border Processing—Trade Single Window) Amendment Act 2014.
@@ -36,7 +36,7 @@ After section 7D, insert:Border information supplied using JBMS must be supplied
       (ii) if the Act is one specified by regulations under section 165A to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1), under that Act (as modified by this section) by the chief executive of the department of State responsible for the Act's administration.
   (3) The approved form and manner referred to in subsection (2)—
     (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
-    (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)(j) of the Customs and Excise Act 1996.
+    (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
 
 ### 5 Section 17 amended (Notice of craft's intended arrival in New Zealand)
 (1) In the heading to section 17(5), after notices, insert , and supporting documentation.
@@ -55,7 +55,7 @@ After section 17, insert:Inward cargo reportCraft and cargo to which section app
     (a) an emergency or an urgent situation has arisen; and
     (b) the emergency or the urgent situation creates a risk of significant harm to human health, the environment, or the economy; and
     (c) the earlier giving of the report is necessary to avoid or mitigate the risk.
-  (4) This section does not limit, and is not limited by, section 17(11)(b)(iii).
+  (4) This section does not limit, and is not limited by, section 17(11)﻿(b)﻿(iii).
   (5) A person is, for this section's purposes, responsible for the carriage of cargo on a craft only if the person (whether or not the person owns, or has any proprietary interest of any kind in, all or any part of the cargo) is—
     (a) the person in charge of the craft; or
     (b) a cargo aggregator (as defined in subsection (11)) who, in the course of that cargo aggregator's business, has (in or outside New Zealand territory) arranged for the carriage of the cargo on the craft under a shared space, or other negotiated volume of cargo, arrangement with the craft's owner or operator.
@@ -68,7 +68,7 @@ After section 17, insert:Inward cargo reportCraft and cargo to which section app
   (8) The report must be accompanied by such supporting documents (being documents each of which is genuine, not erroneous, and not misleading) as the Director-General may require.
   (9) The prescribed information relating to the cargo, or supporting documents required under subsection (8), or both, may differ depending on the class or description of the craft.
   (10) The person who is carrying out the duty to give the report must ensure that it is given in an approved form and manner.
-  (11) Cargo aggregator, in subsection (5)(b), means a person who, for reward, aggregates cargo (being cargo to be carried for different people) for carriage together on a craft—
+  (11) Cargo aggregator, in subsection (5)﻿(b), means a person who, for reward, aggregates cargo (being cargo to be carried for different people) for carriage together on a craft—
     (a) in bulk cargo containers, or otherwise; and
     (b) under a shared space, or other negotiated volume of cargo, arrangement with the craft's owner or operator.
 
@@ -113,7 +113,7 @@ Before section 41G, insert:Application of sections 41G to 41I
 In section 41I(1), replace biosecurity-related with Ministry-related.
 
 ### 10 Section 140 amended (Contents of levy order)
-Replace section 140(1)(g) and (h) with:.
+Replace section 140(1)﻿(g) and (h) with:.
   (g) on the rate of levy,—
     (i) whether there is to be a single rate or 2 or more different rates; and
     (ii) if there are to be 2 or more different rates, the things to which the different rates apply; and
@@ -121,7 +121,7 @@ Replace section 140(1)(g) and (h) with:.
   (h) how each actual rate of the levy is to be set (if, or insofar as, the order does not set each actual rate); and
 
 ### 11 Section 154N amended (Section 154N offences)
-In section 154N(12)(a), after 17,, insert 17A,.
+In section 154N(12)﻿(a), after 17,, insert 17A,.
 
 ### 12 New section 154NA inserted (Section 154NA offence relating to failure to update information supplied in advance)
 After section 154N, insert:Section 154NA offence relating to failure to update information supplied in advanceApplicationPenalty: section 157(8) and (9)
@@ -134,10 +134,10 @@ After section 154N, insert:Section 154NA offence relating to failure to update i
 
 ### 13 Section 157 amended (Penalties)
 After section 157(7), insert:
-  (8) Every person who commits an offence against section 154NA(2), and in doing so under section 154NA(2)(a) ought reasonably to have known that the information had become erroneous or misleading in a material particular, is liable on conviction,—
+  (8) Every person who commits an offence against section 154NA(2), and in doing so under section 154NA(2)﻿(a) ought reasonably to have known that the information had become erroneous or misleading in a material particular, is liable on conviction,—
     (a) in the case of an individual, to a fine not exceeding $1,000; or
     (b) in the case of a body corporate, to a fine not exceeding $5,000.
-  (9) Every person who commits an offence against section 154NA(2), and in doing so under section 154NA(2)(a) knew that the information had become erroneous or misleading in a material particular, is liable on conviction,—
+  (9) Every person who commits an offence against section 154NA(2), and in doing so under section 154NA(2)﻿(a) knew that the information had become erroneous or misleading in a material particular, is liable on conviction,—
     (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $10,000; or
     (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -185,7 +185,7 @@ After section 7E (as inserted by section 4 of this Act), insert:Duty to use JBMS
   (b) for the time being generally approved in writing by the Director-General.
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)(j) of the Customs and Excise Act 1996.
+  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
 (4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
 
 ### 6A Border information supplied using JBMS must be supplied in approved form and manner
@@ -195,7 +195,7 @@ After section 7E (as inserted by section 4 of this Act), insert:Duty to use JBMS
   (b) for the time being generally approved in writing by the Director-General.
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)(j) of the Customs and Excise Act 1996.
+  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
 (4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
 
 ### 8AAA Border information supplied using JBMS must be supplied in approved form and manner
@@ -205,7 +205,7 @@ After section 7E (as inserted by section 4 of this Act), insert:Duty to use JBMS
   (b) for the time being generally approved in writing by the Director-General.
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)(j) of the Customs and Excise Act 1996.
+  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
 (4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
 
 ### 97AA Border information supplied using JBMS must be supplied in approved form and manner
@@ -215,7 +215,7 @@ After section 7E (as inserted by section 4 of this Act), insert:Duty to use JBMS
   (b) for the time being generally approved in writing by the chief executive of the department of State responsible for the administration of the Biosecurity Act 1993.
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)(j) of the Customs and Excise Act 1996.
+  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
 (4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
 
 ### 113A Border information supplied using JBMS must be supplied in approved form and manner
@@ -225,7 +225,7 @@ After section 7E (as inserted by section 4 of this Act), insert:Duty to use JBMS
   (b) for the time being generally approved in writing by the Director-General.
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)(j) of the Customs and Excise Act 1996.
+  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
 (4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
 
 ### 4C Duty to use JBMS to supply border information
@@ -233,14 +233,20 @@ After section 7E (as inserted by section 4 of this Act), insert:Duty to use JBMS
 (2) After the commencement of this section, the only ways in which a person can comply with the requirement are—
   (a) by using the JBMS; or
   (b) by using another means for the time being generally or specifically approved in writing by the Director-General.
-(3) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993, and Director-General has, in this section, the meaning given by section 2(1) of this Act.
+(3) In this section,—
+  - **border information** and have the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993
+  - **Director-General** has the meaning given in section 2(1) of this Act
+  - **Ministry** has the meaning given in section 41A(1) of the Biosecurity Act 1993 and also has the meaning given in section 2(1) of this Act.
 
 ### 6B Duty to use JBMS to supply border information
 (1) This section applies to a requirement by or under this Act to supply to the Ministry any border information.
 (2) After the commencement of this section, the only ways in which a person can comply with the requirement are—
   (a) by using the JBMS; or
   (b) by using another means for the time being generally or specifically approved in writing by the Director-General.
-(3) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993, and Director-General has, in this section, the meaning given by section 4(1) of this Act.
+(3) In this section,—
+  - **border information** and have the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993
+  - **Director-General** has the meaning given in section 4(1) of this Act
+  - **Ministry** has the meaning given in section 41A(1) of the Biosecurity Act 1993 and also has the meaning given in section 4(1) of this Act.
 
 ### 8AAB Duty to use JBMS to supply border information
 (1) This section applies to a requirement by or under this Act to supply to the Ministry any border information.
@@ -261,4 +267,7 @@ After section 7E (as inserted by section 4 of this Act), insert:Duty to use JBMS
 (2) After the commencement of this section, the only ways in which a person can comply with the requirement are—
   (a) by using the JBMS; or
   (b) by using another means for the time being generally or specifically approved in writing by the Director-General.
-(3) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993, and Director-General has, in this section, the meaning given by section 4(1) of this Act.
+(3) In this section,—
+  - **border information** and have the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993
+  - **Director-General** has the meaning given in section 4(1) of this Act
+  - **Ministry** has the meaning given in section 41A(1) of the Biosecurity Act 1993 and also has the meaning given in section 4(1) of this Act.
