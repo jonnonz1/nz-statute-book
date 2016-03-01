@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2015-10-31_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -2150,8 +2150,8 @@ Material incorporated by reference in regulations that expires or that is revoke
 (5) A failure to comply with this section does not invalidate regulations that incorporate material by reference.
 (6) For the purposes of subsection (2)﻿(c), the chief executive may not rely on section 66 of the Copyright Act 1994 as authority to make the incorporated material available on an Internet site.
 
-### 155 Application of Standards Act 1988 not affected
-Sections 150 to 154 do not affect the application of sections 22 to 25 of the Standards Act 1988.
+### 155 Application of Standards and Accreditation Act 2015 not affected
+Sections 150 to 154 do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
 ### 156 Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
 The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference.
