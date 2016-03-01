@@ -1,5 +1,5 @@
 # Standards Act 1988
-_Consolidation as at 2006-12-01_
+_Consolidation as at 2016-03-01_
 
 > An Act to consolidate and amend the law relating to standards; and to repeal the Standards Act 1965
 
@@ -42,7 +42,7 @@ This Act binds the Crown.
   (a) not more than 4 shall be persons appointed by the Minister:
   (b) not more than 8 shall be persons appointed by the Minister in accordance with subsection (2) or subsection (4).
   (c)
-(2) When appointing members under subsection (1)(b), the Minister must appoint from nominations made by nominating bodies as set out in regulations made under section 26.
+(2) When appointing members under subsection (1)﻿(b), the Minister must appoint from nominations made by nominating bodies as set out in regulations made under section 26.
 (3) Nothing in subsection (2) shall be construed as preventing any 2 or more of the bodies specified in the regulations from agreeing on a joint nomination.
 (4) If insufficient nominations have been submitted to the Minister under subsection (2) within a period specified by the Minister, the Minister, to the extent of the insufficiency, may appoint any person or persons to be a member or members of the Council without nomination.
 (5) In appointing members of the Council, the Minister shall have regard to—
