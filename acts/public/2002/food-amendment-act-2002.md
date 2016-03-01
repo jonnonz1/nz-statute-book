@@ -1,5 +1,5 @@
 # Food Amendment Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 (1) This Act is the Food Amendment Act 2002.
