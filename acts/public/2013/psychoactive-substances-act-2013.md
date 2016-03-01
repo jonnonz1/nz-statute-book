@@ -1,5 +1,5 @@
 # Psychoactive Substances Act 2013
-_Consolidation as at 2014-05-08_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Psychoactive Substances Act 2013.
@@ -150,7 +150,7 @@ In this Act, unless the context otherwise requires,—
   (c) a medicine within the meaning of section 3 of the Medicines Act 1981 or a related product within the meaning of section 94 of that Act:
   (d) a herbal remedy (within the meaning of section 2(1) of the Medicines Act 1981):
   (e) a dietary supplement (within the meaning of regulation 2A of the Dietary Supplements Regulations 1985):
-  (f) any food (within the meaning of section 2 of the Food Act 1981):
+  (f) anything that is ordinarily used or represented for use as food or drink for human beings:
   (g) any alcohol, unless the alcohol contains a psychoactive substance as defined in subsection (1) or (2) that is not alcohol:
   (h) any tobacco product (within the meaning of section 2(1) of the Smoke-free Environments Act 1990), unless the tobacco product contains a psychoactive substance as defined in subsection (1) or (2) that is not tobacco:
   (i) a substance, mixture, preparation, article, device, or thing that is, or that is of a kind that is, or belongs to a class that is, declared by the Governor-General by Order in Council made under section 99 not to be a psychoactive substance for the purposes of this Act.
@@ -168,7 +168,7 @@ In this Act, unless the context otherwise requires,—
   (a) to evaluate, with regard to the results of trials, psychoactive products to assess whether they should be approved for use by individuals; and
   (b) to advise the Authority about whether a psychoactive product should or should not be approved for use by individuals; and
   (c) to increase public awareness of the advisory committee's work in relation to psychoactive substances, for example, by the timely release of papers, reports, and recommendations.
-(3) For the purposes of subsection (2)(a), the matters that the advisory committee must have regard to in evaluating psychoactive products include—
+(3) For the purposes of subsection (2)﻿(a), the matters that the advisory committee must have regard to in evaluating psychoactive products include—
   (a) the specific effects of the product, including pharmacological, psychoactive, and toxicological effects; and
   (b) the risks, if any, to public health; and
   (c) the potential for use of the product to cause death; and
@@ -195,7 +195,7 @@ In this Act, unless the context otherwise requires,—
 (11) The advisory committee must provide the Minister with a written annual report of its operations.
 
 ### 12 Advisory committee not to have regard to results of trials involving animals
-(1) In performing the function set out in section 11(2)(a), the advisory committee must not have regard to the results of a trial that involves the use of an animal.
+(1) In performing the function set out in section 11(2)﻿(a), the advisory committee must not have regard to the results of a trial that involves the use of an animal.
 (2) However, the advisory committee may have regard to the results of a trial undertaken overseas that involves the use of an animal if the advisory committee considers that the trial shows that the psychoactive product would pose more than a low risk of harm to individuals using the product.
 
 ## Part 2 — Psychoactive substances and approved products
@@ -236,12 +236,12 @@ In this Act, unless the context otherwise requires,—
   (b) the application does not contain materially false or misleading information; and
   (c) for an application made by an individual, the applicant is a fit and proper person to hold the licence; and
   (d) for an application made on behalf of a body corporate, the body corporate is of good repute.
-(2) In determining under subsection (1)(c) or (d) whether an applicant is a fit and proper person to hold a licence or a body corporate of good repute, the Authority must take into account—
+(2) In determining under subsection (1)﻿(c) or (d) whether an applicant is a fit and proper person to hold a licence or a body corporate of good repute, the Authority must take into account—
   (a) whether the applicant has been convicted of a relevant offence; and
   (b) whether there has been a serious or repeated failure by the applicant to comply with any requirement of this Act; and
   (c) whether there are other grounds for considering that the applicant is likely to fail to comply with any requirement of this Act; and
   (d) any other matter that the Authority considers relevant.
-(3) For the purposes of subsection (2)(a), relevant offence means—
+(3) For the purposes of subsection (2)﻿(a), relevant offence means—
   (a) an offence against this Act; or
   (b) an offence against the Misuse of Drugs Act 1975 or the Misuse of Drugs Amendment Act 2005 or any regulations made under those Acts; or
   (c) an offence against the Medicines Act 1981; or
@@ -290,7 +290,7 @@ A licence may not be transferred to, or vest by operation of law in, a person ot
 (1) If the Authority proposes to refuse to grant a licence, the Authority must give the applicant—
   (a) written notice that clearly informs the applicant of the grounds for the proposed refusal; and
   (b) a reasonable opportunity to make written submissions.
-(2) If, after considering any submissions provided by the applicant under subsection (1)(b), the Authority decides to refuse to grant the licence, the Authority must, as soon as practicable, give the applicant written notice of—
+(2) If, after considering any submissions provided by the applicant under subsection (1)﻿(b), the Authority decides to refuse to grant the licence, the Authority must, as soon as practicable, give the applicant written notice of—
   (a) the decision and the reasons for it; and
   (b) the applicant's right to appeal the decision under section 45.
 
@@ -360,13 +360,13 @@ A licence may not be transferred to, or vest by operation of law in, a person ot
 (2) For the purpose of assessing whether the manufacturing facility complies with the code and, if applicable, any conditions of the licence to manufacture, the Authority may do 1 or both of the following:
   (a) conduct an audit of the manufacturing facility at any time:
   (b) to the extent that the Authority considers applicable, recognise an audit of the manufacturing facility conducted by another person under another enactment or for any other purpose.
-(3) The Authority may conduct an audit under subsection (2)(a) in any manner that the Authority considers is appropriate and consistent with the principles of this Act.
+(3) The Authority may conduct an audit under subsection (2)﻿(a) in any manner that the Authority considers is appropriate and consistent with the principles of this Act.
 
 ### 31 Authorised person may enter manufacturing facility
 (1) The Authority may authorise a person (an authorised person) to enter a manufacturing facility during the normal business hours of the facility and to exercise any power set out in this section for the purpose of—
   (a) assessing an application for a licence to manufacture; or
   (b) assessing whether the manufacturing facility is complying with the code of manufacturing practice or any conditions of a licence to manufacture.
-(2) For the purpose of subsection (1)(a) or (b), an authorised person may—
+(2) For the purpose of subsection (1)﻿(a) or (b), an authorised person may—
   (a) open containers and packages and inspect the contents:
   (b) request, gather, or secure evidence, take samples of any psychoactive substances, and test or analyse or arrange for the testing or analysis of such samples:
   (c) inspect, inquire about, or copy any documents or other records (including documents or other records in an electronic form) relating to the obligations imposed under this Act or the regulations:
@@ -441,7 +441,7 @@ The Authority may issue a compliance notice to any person whose manufacturing fa
     (i) complies with the requirements of section 33; and
     (ii) does not contain any materially false or misleading information; and
   (b) the degree of harm that the product poses to individuals using the product is no more than a low risk of harm.
-(2) To avoid doubt, if the Authority is unable to satisfy itself of the matter in subsection (1)(b), the Authority must refuse to approve a psychoactive product as an approved product.
+(2) To avoid doubt, if the Authority is unable to satisfy itself of the matter in subsection (1)﻿(b), the Authority must refuse to approve a psychoactive product as an approved product.
 (3) In deciding whether or not to approve a psychoactive product as an approved product, the Authority must not have regard to any particulars, information, documents, or other material relating to any trial that the advisory committee must not have regard to under section 12.
 
 **Conditions of approval**
@@ -456,7 +456,7 @@ The Authority may issue a compliance notice to any person whose manufacturing fa
 (1) If the Authority proposes to refuse to approve a psychoactive product as an approved product, the Authority must give the applicant—
   (a) written notice that clearly informs the applicant of the grounds for the proposed refusal; and
   (b) a reasonable opportunity to make written submissions.
-(2) If, after considering any submissions provided by the applicant under subsection (1)(b), the Authority decides to refuse to approve the product, the Authority must, as soon as practicable, give the applicant written notice of—
+(2) If, after considering any submissions provided by the applicant under subsection (1)﻿(b), the Authority decides to refuse to approve the product, the Authority must, as soon as practicable, give the applicant written notice of—
   (a) the decision and the reasons for it; and
   (b) the applicant's right to appeal against the decision under section 45.
 
@@ -838,7 +838,7 @@ All infringement fees paid in respect of infringement offences must be paid into
     (i) all enforcement powers; or
     (ii) only specified enforcement powers; or
     (iii) all enforcement powers except certain specified powers; and
-  (c) all limitations and restrictions (if any) that are imposed on the person's exercise of enforcement powers under subsection (5)(c).
+  (c) all limitations and restrictions (if any) that are imposed on the person's exercise of enforcement powers under subsection (5)﻿(c).
 
 **Enforcement powers**
 
@@ -859,8 +859,8 @@ All infringement fees paid in respect of infringement offences must be paid into
   (a) refuse or fail to admit to any retail premises any enforcement officer or constable who demands entry under subsection (1); or
   (b) delay unreasonably in admitting to any retail premises any enforcement officer or constable who demands entry under subsection (1).
 (4) The licence holder or any other person appearing to be in charge of the retail premises (or any part of the premises) must not, without reasonable excuse, refuse or fail—
-  (a) to produce the licence or any records when required to do so under subsection (2)(a); or
-  (b) to provide any assistance or information when required to do so under subsection (2)(b).
+  (a) to produce the licence or any records when required to do so under subsection (2)﻿(a); or
+  (b) to provide any assistance or information when required to do so under subsection (2)﻿(b).
 (5) A person who contravenes subsection (3) or (4) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 79 Warranted power to enter and search
@@ -875,10 +875,10 @@ All infringement fees paid in respect of infringement offences must be paid into
 (2) The enforcement officer or constable may,—
   (a) if he or she has reasonable grounds to believe that the person who sold the approved product is at the place, require that person to give the enforcement officer or constable his or her name and address and date of birth; or
   (b) if the person who is believed to have sold the approved product is not present at the place, require any other person appearing to be in charge of the place (or any part of the place) to give the officer or constable the name and address and date of birth of the person who the enforcement officer or constable has reasonable grounds to believe sold the product.
-(3) An enforcement officer or a constable who suspects that a person referred to in subsection (2)(a) is under the age of 17 years must not require that person to give the officer or constable his or her name and address and date of birth unless—
+(3) An enforcement officer or a constable who suspects that a person referred to in subsection (2)﻿(a) is under the age of 17 years must not require that person to give the officer or constable his or her name and address and date of birth unless—
   (a) there is no other person who appears to be in charge of the place; or
   (b) there is another person who appears to be in charge of the place, but the enforcement officer or constable suspects that that other person is also under the age of 17 years.
-(4) If an enforcement officer or a constable suspects that a person referred to in subsection (2)(b) is under the age of 17 years, the enforcement officer or constable must not require that person to give the name and address and date of birth of any other person if the other person is in the place concerned and appears to be of or over the age of 17 years.
+(4) If an enforcement officer or a constable suspects that a person referred to in subsection (2)﻿(b) is under the age of 17 years, the enforcement officer or constable must not require that person to give the name and address and date of birth of any other person if the other person is in the place concerned and appears to be of or over the age of 17 years.
 (5) The powers conferred by this section must be used only for, and only to the extent necessary for, finding out the name and address of (or, if the address is not within the knowledge of the person asked, the name and any other identifying information within that person's knowledge and relating to) a person the enforcement officer or constable believes to have sold an approved product to a person under the age of 18 years.
 
 ### 81 Power to demand information where offence against section 48, 50, or 71 suspected
@@ -907,7 +907,7 @@ All infringement fees paid in respect of infringement offences must be paid into
 **International controlled delivery of psychoactive substances**
 
 ### 84 International controlled delivery of psychoactive substances
-(1) An enforcement officer, a constable, a Customs officer, or an officer of a relevant law enforcement agency with which there is an agreement of the kind referred to in subsection (3)(a) who is involved in an international controlled delivery—
+(1) An enforcement officer, a constable, a Customs officer, or an officer of a relevant law enforcement agency with which there is an agreement of the kind referred to in subsection (3)﻿(a) who is involved in an international controlled delivery—
   (a) does not commit an offence under this Act by reason of taking part in the international controlled delivery; and
   (b) unless he or she is acting in bad faith, is not subject to any criminal or civil liability as a result of taking part in the international controlled delivery.
 (2) Subsection (1) does not affect the liability of any person charged with an offence under this Act.
@@ -1027,7 +1027,7 @@ The methods by which costs may be recovered under this subpart are as follows:
   (b) specify the persons liable for the payment of the fees or charges:
   (c) exempt any person or classes of persons from paying the fees or charges:
   (d) provide for waivers or refunds of the whole or any part of fees or charges.
-(3) If an exemption is provided under subsection (2)(c), the reasons for it must be set out in the explanatory note of the regulations.
+(3) If an exemption is provided under subsection (2)﻿(c), the reasons for it must be set out in the explanatory note of the regulations.
 
 ### 96 Regulations imposing levies
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for the payment of a levy.
@@ -1040,7 +1040,7 @@ The methods by which costs may be recovered under this subpart are as follows:
   (f) exempt any person or classes of persons from paying the levy:
   (g) provide for waivers or refunds of the whole or any part of the levy:
   (h) provide for any other matters necessary or desirable to set, calculate, administer, collect, and enforce the levy.
-(3) If an exemption is provided under subsection (2)(f), the reasons for it must be set out in the explanatory note of the regulations.
+(3) If an exemption is provided under subsection (2)﻿(f), the reasons for it must be set out in the explanatory note of the regulations.
 
 ### 97 Failure to pay fee, charge, or levy
 (1) This section applies if a fee, charge, or levy imposed by regulations made under section 95 or 96 is wholly or partly unpaid 20 working days after a request for payment.
@@ -1111,7 +1111,7 @@ The Governor-General may, by Order in Council, make regulations for 1 or more of
     (ii) the manner of disposal of psychoactive substances:
     (iii) the storage of approved products for the purposes of sale, for example, a restriction on the maximum amount of any approved product that may be stored in any premises at any one time or a requirement that sellers of an approved product must store it at or below a certain temperature:
     (iv) the display of approved products inside retail premises for the purposes of sale, for example, restrictions on approved products being displayed in any particular place or a requirement that approved products not be visible from the street:
-  (n) prescribing a telephone service for the purposes of section 58(2)(d):
+  (n) prescribing a telephone service for the purposes of section 58(2)﻿(d):
   (o) prescribing the persons or organisations or class of persons or organisations to whom the Authority may disclose confidential supporting information under section 36(3):
   (p) prescribing the procedure of the advisory committee and the appeals committee:
   (q) prescribing requirements for specified persons to keep records under this Act and the period of time for which those records must be retained:
@@ -1178,20 +1178,20 @@ The application, savings, and transitional provisions set out in Schedule 1 have
 
 ### 108 Amendments to Search and Surveillance Act 2012
 (1) This section amends the Search and Surveillance Act 2012.
-(2) In section 45(1)(b), after Arms Act 1983, insert ; or.
-(3) After section 45(1)(b), insert:
+(2) In section 45(1)﻿(b), after Arms Act 1983, insert ; or.
+(3) After section 45(1)﻿(b), insert:
   (c) against section 25, 26, or 70 of the Psychoactive Substances Act 2013.
-(4) In section 45(2)(b), after Arms Act 1983, insert ; or.
-(5) After section 45(2)(b), insert:
+(4) In section 45(2)﻿(b), after Arms Act 1983, insert ; or.
+(5) After section 45(2)﻿(b), insert:
   (c) against section 25, 26, or 70 of the Psychoactive Substances Act 2013.
 
 **Amendments to Children, Young Persons, and Their Families Act 1989**
 
 ### 109 Amendments to Children, Young Persons, and Their Families Act 1989
 (1) This section amends the Children, Young Persons, and Their Families Act 1989.
-(2) After section 272(3)(b), insert:.
+(2) After section 272(3)﻿(b), insert:
   (ba) an infringement offence against the Psychoactive Substances Act 2013; or
-(3) In section 272(5), replace subsection (3)(c), where a young person is charged with with subsection (3)(ba) or (c), where a young person is charged with an infringement offence referred to in subsection (3)(ba) or.
+(3) In section 272(5), replace subsection (3)﻿(c), where a young person is charged with with subsection (3)﻿(ba) or (c), where a young person is charged with an infringement offence referred to in subsection (3)﻿(ba) or.
 
 **Consequential amendments and revocation**
 
@@ -1243,7 +1243,7 @@ In this schedule,—
   (c) be accompanied by—
     (i) the information specified in subclause (3); and
     (ii) the appropriate fee payable for an application for an interim licence specified in clause 10.
-(3) For the purposes of subclause (2)(c)(i), the information is—
+(3) For the purposes of subclause (2)﻿(c)﻿(i), the information is—
   (a) a statutory declaration made by the applicant stating that the applicant—
     (i) was, during the period of not less than 28 days immediately before the commencement of this Act, in the business of importing, manufacturing, researching, or selling psychoactive substances or products to which this schedule applies; and
     (ii) is aware of any conditions or other requirements pertaining to the licence and agrees to comply with them; and
@@ -1252,18 +1252,18 @@ In this schedule,—
 (4) The Authority may, as the Authority thinks fit, waive the fee payable for an application for an interim licence, in whole or in part, in any particular case or class of cases.
 
 ### 8 Application of subparts 1 and 3 of Part 2 to interim licence
-Subparts 1 and 3 of Part 2 (except sections 13 and 16(1)(a)) apply, with any necessary modifications,—
+Subparts 1 and 3 of Part 2 (except sections 13 and 16(1)﻿(a)) apply, with any necessary modifications,—
   (a) to an application for an interim licence as if it were an application made under section 13; and
   (b) to an interim licence granted in accordance with paragraph (a).
 
 ### 9 Duration of interim licence
-(1) An interim licence granted under clause 8 is deemed to be cancelled 28 days after the date on which regulations made under sections 95 and 101(1)(a) come into force unless, within that period, the holder of the interim licence makes a full application under section 13 for a licence to carry out the activity to which the interim licence relates.
+(1) An interim licence granted under clause 8 is deemed to be cancelled 28 days after the date on which regulations made under sections 95 and 101(1)﻿(a) come into force unless, within that period, the holder of the interim licence makes a full application under section 13 for a licence to carry out the activity to which the interim licence relates.
 (2) If the holder of the interim licence complies with subclause (1), the interim licence continues in force until the date on which the full application under section 13 is determined under this Act, and the interim licence is then deemed to be cancelled.
 
 **Fees**
 
 ### 10 Fees payable for interim licence
-The fee payable for an application for an interim licence is the fee specified in the second column of the following table opposite the licence specified in the first column:Interim licenceFee ($) (including GST)Interim licence to import psychoactive substances500Interim licence to manufacture psychoactive substances500Interim licence to research psychoactive substances500Interim licence to sell psychoactive substances that are not approved products500
+The fee payable for an application for an interim licence is the fee specified in the second column of the following table opposite the licence specified in the first column:The following table is small in size and has 2 columns. Column 1 is headed Interim licence. Column 2 is headed Fee ($) (including GST).Interim licenceFee ($) (including GST)Interim licence to import psychoactive substances500Interim licence to manufacture psychoactive substances500Interim licence to research psychoactive substances500Interim licence to sell psychoactive substances that are not approved products500
 
 **Interim approvals of psychoactive products and interim licences to sell psychoactive products granted interim approval revoked**
 
@@ -1294,7 +1294,7 @@ Every interim approval granted in respect of a psychoactive product under clause
   (c) an offence under section 71.
 
 ### 13 Revocation of interim licences to sell psychoactive products granted interim approval
-(1) Every interim licence granted under clause 7(1)(e) and (f) (before those paragraphs were repealed by section 8 of the Psychoactive Substances Amendment Act 2014) is revoked.
+(1) Every interim licence granted under clause 7(1)﻿(e) and (f) (before those paragraphs were repealed by section 8 of the Psychoactive Substances Amendment Act 2014) is revoked.
 (2) Despite the revocation of interim licences under subclause (1), a wholesaler or retailer who held an interim licence immediately before this clause came into force—
   (a) must comply with the recall order issued in accordance with clause 12 as if the wholesaler or retailer continued to hold the licence; and
   (b) is, for the purposes of section 88, to be treated as if it continued to hold the licence until the close of the 14th day after the commencement of this clause.
@@ -1308,22 +1308,22 @@ For the avoidance of doubt, and regardless of the outcome of any appeal under su
 **Enforcement powers**
 
 ### 15 Power to enter and search retail premises
-(1) This clause applies in relation to the retail premises of every holder of an interim licence granted under clause 7(1)(e) (before that paragraph was repealed by section 8 of the Psychoactive Substances Amendment Act 2014) and revoked by clause 13.
+(1) This clause applies in relation to the retail premises of every holder of an interim licence granted under clause 7(1)﻿(e) (before that paragraph was repealed by section 8 of the Psychoactive Substances Amendment Act 2014) and revoked by clause 13.
 (2) An enforcement officer or a constable may, for the purpose of ensuring or enforcing compliance with the recall order issued in accordance with clause 12, exercise any powers under section 78 in relation to those retail premises until the close of the 14th day after the date of the commencement of this clause as if the interim licence concerned had not been revoked.
 (3) Section 78, as modified by subclause (2), applies in relation to those retail premises.
 
 **Moratorium on processing applications under section 13 or 33 until regulations in force**
 
 ### 16 Moratorium on processing applications for licences under section 13
-(1) The Authority must not process any application for a licence of a kind described in section 13(1)(a) to (d) (whether the application is made before or after the commencement of this clause) until regulations under section 95 prescribing the fees or charges for applications for licences of that kind come into force.
-(2) The Authority must not process any application for a licence of a kind described in section 13(1)(e) or (f) (whether the application is made before or after the commencement of this clause) until both of the following have come into force:
+(1) The Authority must not process any application for a licence of a kind described in section 13(1)﻿(a) to (d) (whether the application is made before or after the commencement of this clause) until regulations under section 95 prescribing the fees or charges for applications for licences of that kind come into force.
+(2) The Authority must not process any application for a licence of a kind described in section 13(1)﻿(e) or (f) (whether the application is made before or after the commencement of this clause) until both of the following have come into force:
   (a) regulations under section 95 prescribing the fees or charges for applications for licences of that kind; and
-  (b) regulations under section 101(1)(a) prescribing the particulars, information, documents, samples, or other material that must accompany or be contained in applications for licences of that kind.
+  (b) regulations under section 101(1)﻿(a) prescribing the particulars, information, documents, samples, or other material that must accompany or be contained in applications for licences of that kind.
 
 ### 17 Moratorium on processing applications for approval of psychoactive product under section 33
 The Authority must not process any application for approval of a psychoactive product under section 33 (whether the application is made before or after the commencement of this clause) until both of the following have come into force:
   (a) regulations under section 95 prescribing the fees or charges for applications for approval of psychoactive products; and
-  (b) regulations under section 101(1)(a) prescribing the particulars, information, documents, samples, or other material that must accompany or be contained in applications for approval of psychoactive products.
+  (b) regulations under section 101(1)﻿(a) prescribing the particulars, information, documents, samples, or other material that must accompany or be contained in applications for approval of psychoactive products.
 
 **No compensation or damages**
 
@@ -1340,8 +1340,8 @@ No compensation or damages are payable by the Crown for any loss or damage arisi
 (1) A psychoactive substance is not hazardous for the purposes of the Act if—
   (a) the substance is an approved product; or
   (b) the substance—
-    (i) meets the minimum degree of hazard specified in clause 2(1)(s) of Schedule 4; and
-    (ii) only meets the minimum degree of hazard specified in clause 2(1)(s) of Schedule 4 because of its psychoactive properties; and
+    (i) meets the minimum degree of hazard specified in clause 2(1)﻿(s) of Schedule 4; and
+    (ii) only meets the minimum degree of hazard specified in clause 2(1)﻿(s) of Schedule 4 because of its psychoactive properties; and
     (iii) does not meet any other minimum degree of hazard of the intrinsic hazardous substance properties specified in regulation 7.
 (2) In this regulation,—
   - **approved product** has the same meaning as in section 8 of the Psychoactive Substances Act 2013
