@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2015-12-01_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -2334,6 +2334,20 @@ Regulations under section 259 may do any or all of the following:
 (1) A council may not make a bylaw under this Act that purports to have the effect of requiring a building to achieve performance criteria additional to, or more restrictive than, those specified in the Building Act 2004 or the building code.
 (2) For the purposes of this section, building, building code, and performance criteria have the meanings given to them by the Building Act 2004.
 
+### 152A Effect of Food Act 2014 on bylaws
+(1) This section applies to the following documents:
+  (a) the Food Act 2014:
+  (b) regulations under the Food Act 2014:
+  (c) adopted joint food standards under the Food Act 2014:
+  (d) domestic food standards under the Food Act 2014:
+  (e) notices under the Food Act 2014:
+  (f) directions given by the chief executive of the Ministry under the Food Act 2014.
+(2) If a bylaw made by a council is inconsistent with a document,—
+  (a) the document prevails and the bylaw has no effect to the extent of the inconsistency; and
+  (b) the council must amend or revoke the bylaw to remove the inconsistency.
+(3) The council need not use the special consultative procedure set out in section 83 to amend or revoke the bylaw to remove the inconsistency, despite anything in this Act.
+(4) A council must not make a bylaw that is inconsistent with a document.
+
 **The Crown bound by certain bylaws**
 
 ### 153 The Crown bound by certain bylaws
@@ -4425,7 +4439,7 @@ All applications, actions, appeals, proceedings, and other matters under any Act
 (2) Subsection (1) does not limit the provisions of the Interpretation Act 1999.
 
 ### 310 Saving in respect of bylaws of Transit New Zealand
-The repeal of section 684(1)﻿(38) to (40) and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by Transit New Zealand under section 61(3) of the Transit New Zealand Act 1989 or the power of the New Zealand Transport Agency to make further bylaws under section 61(3) of Government Roading Powers Act 1989.
+The repeal of section 684(1)﻿(38) to (40) and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by Transit New Zealand under section 61(3) of the Transit New Zealand Act 1989 or the power of the New Zealand Transport Agency to make further bylaws under section 61(3) of the Government Roading Powers Act 1989.
 
 ### 311 Savings in respect of bylaws made in respect of government roads
 The repeal of section 684(1)﻿(38) to (40) and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by the Minister of Transport under section 48(2) of the Transit New Zealand Act 1989 or the power of the Minister of Transport to make further bylaws under section 48(2) of that Act.
