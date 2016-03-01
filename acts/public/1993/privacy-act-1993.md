@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2015-08-03_
+_Consolidation as at 2016-03-01_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1768,6 +1768,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Financial Reporting Act 2013 | Section 36N |
 | Financial Service Providers (Registration and Dispute Resolution) Act 2008 | Section 24 |
 | Fisheries Act 1996 | Sections 98 and 124 |
+| Food Act 2014 | Clauses 2, 5, 8, 11, and 14 of Schedule 5 |
 | Friendly Societies and Credit Unions Act 1982 | Sections 5, 40, and 130 |
 | Gambling Act 2003 | Section 204 |
 | Health and Safety in Employment Act 1992 | Section 19ZZB |
