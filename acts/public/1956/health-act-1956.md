@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2015-10-21_
+_Consolidation as at 2016-03-01_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -727,7 +727,7 @@ In this Part, unless the context otherwise requires,—
       (ii) in the case of water available for supply, water that is—
         (A) held out by its supplier as being suitable for drinking and other forms of domestic and food preparation use, whether in New Zealand or overseas; or
         (B) supplied to people known by its supplier to have no reasonably available and affordable source of water suitable for drinking and other forms of domestic and food preparation use other than the supplier and to be likely to use some of it for drinking and other forms of domestic and food preparation use; but
-    (b) while standards applying to bottled water are in force under the Food Act 1981, does not include—
+    (b) while standards applying to bottled water are in force under the Food Act 2014, does not include—
       (i) any bottled water that is covered by those standards; or
       (ii) any bottled water that is exported; and
     (c) to avoid doubt, does not include any water used by animals or for irrigation purposes that does not enter a dwellinghouse or other building in which water is drunk by people or in which other domestic and food preparation use occurs
@@ -1370,7 +1370,7 @@ No drinking-water emergency declaration may remain in force for longer than 28 d
 (1) A drinking-water emergency—
   (a) may be declared even if an emergency has been declared under another enactment:
   (b) remains in force in accordance with section 69ZZB, even if an emergency has been declared under another enactment.
-(2) Despite subsection (1), if an emergency is declared under the Civil Defence Emergency Management Act 2002 or the Hazardous Substances and New Organisms Act 1996, unless the Director-General directs otherwise, any designated officer is, when exercising any powers conferred by section 69ZZD, subject to the direction of—
+(2) Despite subsection (1), if an emergency is declared under the Civil Defence Emergency Management Act 2002 or the Hazardous Substances and New Organisms Act 1996, unless the Director-General directs otherwise, any designated officer is, when exercising any powers conferred by section 69ZZD, subject to the direction of,—
   (a) in the case of an emergency declared under the Civil Defence Emergency Management Act 2002, the Controller (within the meaning of section 4 of the Civil Defence Emergency Management Act 2002); or
   (b) in the case of an emergency declared under the Hazardous Substances and New Organisms Act 1996, the relevant office-holder who appointed the enforcement officer who declared the emergency.
 
@@ -1674,7 +1674,7 @@ The Director-General may, for the purpose of protecting the public, publish stat
 
 ### 69ZZZE Relationship between this Part and other enactments
 This Part does not apply to any water—
-  (a) supplied for food preparation use that is regulated under the Food Act 1981; or
+  (a) supplied for food preparation use that is regulated under the Food Act 2014; or
   (b) that is subject to regulations or specifications made or issued under the Animal Products Act 1999 or the Wine Act 2003.
 
 ## Part 3 — Infectious and notifiable diseases
@@ -2544,8 +2544,8 @@ Standards incorporated by reference in regulations that expire or that are revok
 ### 112ZN Application of Regulations (Disallowance) Act 1989 to standards incorporated by reference
 [Repealed]
 
-### 112ZO Application of Standards Act 1988 not affected
-Sections 112ZG to 112ZN do not affect the application of sections 22 to 25 of the Standards Act 1988.
+### 112ZO Application of Standards and Accreditation Act 2015 not affected
+Sections 112ZG to 112ZM do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
 ### 112ZP Offences
 (1) Every person commits an offence against this Act who, without reasonable excuse, fails to comply with the requirements of any of section 112J(1), section 112Y(1), (3)﻿(e), or (4)﻿(b), or section 112Z.
@@ -2776,7 +2776,7 @@ For the purposes of this Act any medical officer of health, or any health protec
 (1) A person who, in pursuance or intended pursuance of any of the provisions of this Act, does any act, or fails or refuses to do any act, shall not be under any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, or mistake of law or fact, or on any other ground, unless he has acted, or failed or refused to act, in bad faith or without reasonable care.
 (2) No proceedings, civil or criminal, shall be brought against any person in any court in respect of any act, failure, or refusal, to which subsection (1) applies except by leave of a Judge of the High Court, and such leave shall not be granted unless the Judge is satisfied that there is substantial ground for the contention that the person against whom it is sought to bring the proceedings has acted, or failed or refused to act, in bad faith or without reasonable care.
 (3) Notice of any application under subsection (2) shall be given to the person against whom it is sought to bring the proceedings, and that person shall be entitled to be heard against the application.
-(4) Leave to bring such proceedings shall not be granted unless application for such leave is made within 6 months after the act, failure, or refusal, complained of, or, in the case of a continuance of injury or damage, within 6 months after the ceasing of the injury or damage.
+(4) Leave to bring such proceedings shall not be granted unless application for such leave is made within 6 months after the act, failure, or refusal complained of, or, in the case of a continuance of injury or damage, within 6 months after the ceasing of the injury or damage.
 (5) In granting leave to bring any such proceedings as aforesaid, the Judge may limit the time within which such leave may be exercised.
 (6) This section does not apply in respect of any person who does or omits to do any act in connection with the performance or exercise of a function or power under Part 2A.
 
