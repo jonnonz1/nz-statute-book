@@ -1,5 +1,5 @@
 # Standards and Accreditation Act 2015
-_Consolidation as at 2015-10-20_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Standards and Accreditation Act 2015.
