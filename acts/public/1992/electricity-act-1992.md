@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2016-03-01_
 
 > Title
 
@@ -84,7 +84,7 @@ The purposes of this Act are—
   - **Minister** means the Minister of the Crown who, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **official standard** means—
-    (a) a New Zealand Standard within the meaning of the Standards Act 1988:
+    (a) a New Zealand Standard within the meaning of the Standards and Accreditation Act 2015:
     (b) a standard specification prescribed by any standards organisation within the meaning of that Act
   - **place** means—
     (a) the whole or any part of any land, house, shop, factory, premises, or building:
