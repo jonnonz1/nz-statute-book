@@ -1,5 +1,5 @@
 # Human Tissue Act 2008
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Human Tissue Act 2008.
@@ -88,7 +88,7 @@ In this Act, unless the context otherwise requires,—
   - **informed objection** has the meaning given to it by section 9
   - **inspector** , in relation to a school of anatomy, means a person appointed under section 80 to be an inspector of that school of anatomy
   - **marae** includes the area of land on which all buildings such as the wharenui (meeting house), the wharekai (dining room), ablution blocks, and any other associated buildings are situated
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003
   - **medicine** means a medicine within the meaning of the Medicines Act 1981
   - **Minister** means the Minister of Health
   - **national organ and tissue donor register** means any register established or recognised by regulations under section 78
@@ -225,7 +225,7 @@ This Act binds the Crown.
   (b) ascertaining whether the national organ and tissue donor register includes any relevant informed consent or informed objection.
 
 ### 15 Responsible person must help if consulted
-The responsible person must, if consulted under section 14(2)(a) by a person who proposes to collect or use human tissue, take all reasonably practicable steps to help that person to comply with section 14(1).
+The responsible person must, if consulted under section 14(2)﻿(a) by a person who proposes to collect or use human tissue, take all reasonably practicable steps to help that person to comply with section 14(1).
 
 ### 16 Act does not require collection or use
 Nothing in this Act requires any person to collect or use human tissue.
@@ -247,7 +247,7 @@ A person collecting or using human tissue must take into account, so far as they
 (2) Subsection (1) does not apply to collection or use—
   (a) for a purpose specified in section 20; or
   (b) for a purpose that is an offence against, or prohibited by, any law (other than sections 22, 23, and 24).
-(3) An example of collection or use of the kind referred to in subsection (2)(b) is any collection or use that is an improper or indecent interference with, or offering of an indignity to, any dead human body or human remains, whether buried or not, contrary to section 150(b) of the Crimes Act 1961.
+(3) An example of collection or use of the kind referred to in subsection (2)﻿(b) is any collection or use that is an improper or indecent interference with, or offering of an indignity to, any dead human body or human remains, whether buried or not, contrary to section 150(b) of the Crimes Act 1961.
 
 ### 20 Informed consent not required for collection or use for specified purposes
 Informed consent is not required for collection or use of human tissue for any of the following purposes:
@@ -360,7 +360,7 @@ The death of a person does not affect the validity of any informed consent given
     (i) no consent has been given under paragraph (a); and
     (ii) no informed objection has been raised by that individual.
 (4) Informed consent to which this section applies may be given by the following people in the following circumstances:
-  (a) a member of the immediate family of the individual referred to in subsection (3)(a) and on its behalf after that individual’s death:
+  (a) a member of the immediate family of the individual referred to in subsection (3)﻿(a) and on its behalf after that individual’s death:
   (b) a close available relative of that individual after his or her death, if—
     (i) no consent has been given under paragraph (a); and
     (ii) no informed objection has been raised on behalf of that individual’s immediate family.
@@ -411,7 +411,7 @@ Informed consent or an informed objection must, for the purposes of sections 31,
 ### Subpart 4 — Further provisions on consent or objections by, or on behalf of, nominees, immediate family, and close available relatives
 
 ### 39 Nominations and consent or objections by nominees
-(1) An individual may, for the purposes of this Act, nominate 1 or more nominees if the individual is, under section 31(2)(a) or 32(3)(a), entitled to give informed consent, or to raise an informed objection, to collection or use of human tissue that is, or is from, his or her body.
+(1) An individual may, for the purposes of this Act, nominate 1 or more nominees if the individual is, under section 31(2)﻿(a) or 32(3)﻿(a), entitled to give informed consent, or to raise an informed objection, to collection or use of human tissue that is, or is from, his or her body.
 (2) A nomination in respect of an individual to whom subsection (1) applies may, whether or not that individual is capable, be made, amended, revoked, or revoked and replaced by any person who is, under a law other than this Act, entitled to give consent on that individual’s behalf.
 (3) Section 38(3) gives examples of persons who may be authorised, under a law other than this Act, to give consent on that individual’s behalf.
 (4) A nomination must be made with the nominee’s written consent, and can be ended at any time by the nominee giving written notice to that effect to the individual.
@@ -447,7 +447,7 @@ A person giving informed consent or raising an informed objection or overriding 
   (b) it does not matter whether a will is valid (as defined in section 7 of that Act).
 
 ### 44 Written consent or objection on behalf of immediate family may include details of consultation, etc
-Informed consent or an informed objection given or raised in writing, in accordance with section 43(1)(a), and given or raised by a member, and on behalf, of the immediate family of a dead individual, under section 40, may include details of either or both of the following:
+Informed consent or an informed objection given or raised in writing, in accordance with section 43(1)﻿(a), and given or raised by a member, and on behalf, of the immediate family of a dead individual, under section 40, may include details of either or both of the following:
   (a) the steps taken to consult required by section 40(a):
   (b) the grounds for the belief required by section 40(c).
 
@@ -479,7 +479,7 @@ Informed consent or an informed objection given or raised in writing, in accorda
   (c) that both paragraphs (a) and (b) apply.
 (2) The person may collect or use, in accordance with any informed consent required by this Act, tissue that is, or is from, the body, only with the approval of the coroner or other competent legal authority concerned.
 (3) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if—
-  (a) the person intentionally or knowingly collects or uses tissue that is, or is from, a body, and the person knows, or ought reasonably to know, what is specified in subsection (1)(a), (b), or (c); and
+  (a) the person intentionally or knowingly collects or uses tissue that is, or is from, a body, and the person knows, or ought reasonably to know, what is specified in subsection (1)﻿(a), (b), or (c); and
   (b) that act contravenes subsection (2).
 
 ### 49 Post-mortems must be performed by, or in accordance with instructions of, medical practitioners
@@ -550,7 +550,7 @@ In sections 57 to 65, unless the context otherwise requires,—
       (ii) any substance containing a fraction of blood, a human organ, human bone marrow, human tissue, or human haematopoietic stem cells that the Governor-General by Order in Council declares not to be blood for the purposes of sections 57 to 65
   - **controlled human substance** —
     (a) means—
-      (i) human bone marrow (other than human bone marrow referred to in paragraph (a)(ii) of the definition of blood in this section) that may be used therapeutically or in the preparation of a substance for therapeutic use; or
+      (i) human bone marrow (other than human bone marrow referred to in paragraph (a)﻿(ii) of the definition of blood in this section) that may be used therapeutically or in the preparation of a substance for therapeutic use; or
       (ii) a constituent of human bone marrow described in subparagraph (i); or
       (iii) any other substance of the human body that may be used therapeutically or in the preparation of a substance for therapeutic use and that the Governor-General by Order in Council declares to be included in this definition; but
     (b) does not include—
@@ -581,7 +581,7 @@ In sections 57 to 65, unless the context otherwise requires,—
   (a) an appointed entity that is authorised to collect blood and controlled human substances from persons or bodies or both; or
   (b) an employee or agent of an appointed entity who is authorised by the entity to collect blood or controlled human substances on behalf of the entity, if the entity has the power to authorise employees or agents to do so.
 (4) For the purposes of subsection (3), an appointed entity is authorised to collect blood and controlled human substances, and has the power to authorise employees and agents of the entity to do so, unless the notice by which the entity is appointed provides otherwise.
-(5) Every appointed entity described in subsection (3)(a) and every employee or agent described in subsection (3)(b) who collects blood or any controlled human substance must give due recognition to the fact that the blood or controlled human substance has been donated.
+(5) Every appointed entity described in subsection (3)﻿(a) and every employee or agent described in subsection (3)﻿(b) who collects blood or any controlled human substance must give due recognition to the fact that the blood or controlled human substance has been donated.
 
 ### 58 Consideration not generally to be provided for collection of blood or controlled human substance for administration to another person
 (1) No person may, except under an exemption under section 60, provide financial or other consideration for the collection of blood or a controlled human substance from a person, or from the body of a person, for administration to another person.
@@ -684,7 +684,7 @@ An authorised person who believes on reasonable grounds that there is a place (t
     (ii) any document or record (whether in electronic or other form) in the place and that is believed on reasonable grounds to relate to any collection or use of human tissue:
   (c)
   (d) search for and seize—
-    (i) any equipment or device referred to in paragraph (b)(i):
+    (i) any equipment or device referred to in paragraph (b)﻿(i):
     (ii) any human tissue:
     (iii) any document or record (whether in electronic or other form) in the place and that is believed on reasonable grounds to relate to any collection or use of human tissue:
   (e) use any force for gaining entry to the place and for breaking open any article or thing that is in the place, being force that is reasonable in the circumstances and applied in a manner that is calculated to avoid adverse effects on any human tissue.
@@ -695,7 +695,7 @@ An authorised person who believes on reasonable grounds that there is a place (t
 (3)
 
 ### 69 Entry of dwellinghouses and marae
-(1) An authorised person must not enter a dwellinghouse or marae under section 68(1)(a), except—
+(1) An authorised person must not enter a dwellinghouse or marae under section 68(1)﻿(a), except—
   (a) with the consent of an occupier of the dwellinghouse or marae; or
   (b) with the authority of a search warrant issued under subsection (2).
 (2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made by an authorised person in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act, issue a search warrant in respect of a dwellinghouse or marae if satisfied that there are reasonable grounds to believe that in that house or marae—
@@ -713,7 +713,7 @@ An authorised person who believes on reasonable grounds that there is a place (t
 [Repealed]
 
 ### 72 Disposal of property seized
-Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any property seized by an authorised person under section 68(1)(d), subject to the following provisions:
+Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any property seized by an authorised person under section 68(1)﻿(d), subject to the following provisions:
   (a)
   (b)
   (c)
@@ -776,12 +776,12 @@ The Governor-General may, by Order in Council, authorise the establishment of a 
 ### 81 Term of office
 An inspector continues in office until some other person is appointed in his or her place, unless the inspector ceases to hold that office earlier because he or she—
   (a) resigns from it with the consent of the Director-General; or
-  (b) was appointed to it under section 80(1) and (2)(a) and ceases to be a member of the police; or
+  (b) was appointed to it under section 80(1) and (2)﻿(a) and ceases to be a member of the police; or
   (c) dies; or
   (d) is removed from it under section 82.
 
 ### 82 Removal of inspectors who are not members of police
-(1) If satisfied that 1 or more of the grounds for removal exist in relation to the inspector, the Director-General may at any time, by notice to the inspector, remove from office an inspector appointed under section 80(1) and (2)(b).
+(1) If satisfied that 1 or more of the grounds for removal exist in relation to the inspector, the Director-General may at any time, by notice to the inspector, remove from office an inspector appointed under section 80(1) and (2)﻿(b).
 (2) The grounds for removal are incapacity affecting performance of duty, neglect of duty, and misconduct.
 (3) Before removing an inspector from office, the Director-General must give the inspector a reasonable opportunity to make submissions, or be heard, or both, on the proposed removal.
 (4) The removal takes effect at the later of the following times:
@@ -822,11 +822,11 @@ An inspector may, at any reasonable time, visit and inspect the school of anatom
 
 ### 87 Land Transport Act 1998 amended
 (1) This section amends the Land Transport Act 1998.
-(2) Section 28(1)(i) is repealed.
+(2) Section 28(1)﻿(i) is repealed.
 (3) The following section is inserted after section 28A:Transitional provision for driver licences showing organ donor information about holders, etc
   (1) Organ donor information (if applicable) about the holder continues to be shown on a driver licence, despite the repeals and revocations effected by sections 87 and 88 of the Human Tissue Act 2008, until the licence is renewed or replaced under Part 12 of the Land Transport (Driver Licensing) Rule 1999.
   (2) This section does not limit or affect section 199(9) to (11).
-(4) Section 199(2)(q) is repealed.
+(4) Section 199(2)﻿(q) is repealed.
 (5) Section 199(5) is repealed; and section 199(7) and (8) are consequentially amended by omitting any of subsections (4) to (6) and substituting in each case subsection (4) or (6).
 (6) Section 199 is amended by inserting the following subsections after subsection (8):
   (9) The national register may, but need not, continue to show organ donor information, despite the repeals and revocations effected by sections 87 and 88 of the Human Tissue Act 2008, while that information continues to be shown on the relevant driver licence in accordance with section 28B.
@@ -837,7 +837,7 @@ An inspector may, at any reasonable time, visit and inspect the school of anatom
 
 ### 88 Land Transport (Driver Licensing) Rule 1999 amended
 (1) This section amends the Land Transport (Driver Licensing) Rule 1999.
-(2) Rules 9(h) and 63(1)(k) are revoked.
+(2) Rules 9(h) and 63(1)﻿(k) are revoked.
 
 ### 89 Commencement of sections 87 and 88
 (1) Subsections (1) and (5) of section 87 (which repeal a provision under which medical practitioners are entitled, without payment of a fee, to organ donor information from the national register of all driver licences) come into force on a date to be appointed by the Governor-General by Order in Council.
@@ -850,7 +850,7 @@ An inspector may, at any reasonable time, visit and inspect the school of anatom
 
 ### 90 Interpretation
 (1) This section amends the Health and Disability Commissioner Act 1994.
-(2) Section 2(1) is amended by inserting the following definition in its appropriate alphabetical order:.
+(2) Section 2(1) is amended by inserting the following definition in its appropriate alphabetical order:
   - **health treatment** , to avoid doubt, includes treatment of a person () that is, or is related to, the taking of human tissue from A for all or any of the following purposes:
     (a) transplantation, or another therapeutic purpose, for the benefit of 1 or more persons other than A:
     (b) educational purposes or research purposes
@@ -860,10 +860,10 @@ An inspector may, at any reasonable time, visit and inspect the school of anatom
 ### 91 Regulations
 (1) This section amends the Human Assisted Reproductive Technology Act 2004.
 (2) Section 76 is amended by inserting the following subsections after subsection (1):
-  (1A) Regulations under subsection (1)(a)(i) may prescribe requirements (not inconsistent with this Act, the Health and Disability Commissioner (Code of Health and Disability Services Consumers’ Rights) Regulations 1996, or the Human Tissue Act 2008) for informed consent for collection of gametes, embryos, or both—
+  (1A) Regulations under subsection (1)﻿(a)﻿(i) may prescribe requirements (not inconsistent with this Act, the Health and Disability Commissioner (Code of Health and Disability Services Consumers’ Rights) Regulations 1996, or the Human Tissue Act 2008) for informed consent for collection of gametes, embryos, or both—
     (a) from dead individuals; and
     (b) in connection with, or for the purposes of, the performance of assisted reproductive procedures, the conduct of human reproductive research, or any other lawful use or uses of the gametes, embryos, or both.
-  (1B) Subsection (1A) does not limit subsection (1)(a)(i) or the power under section 6 to declare procedures or treatments not to be established procedures if they involve the use of gametes or embryos collected from a person, who has since died, who did not consent to the specific use of the gametes or embryos before that person’s death.
+  (1B) Subsection (1A) does not limit subsection (1)﻿(a)﻿(i) or the power under section 6 to declare procedures or treatments not to be established procedures if they involve the use of gametes or embryos collected from a person, who has since died, who did not consent to the specific use of the gametes or embryos before that person’s death.
 
 **Consequential amendments and repeals**
 
@@ -892,8 +892,8 @@ The Acts listed in Schedule 6 are amended in the manner indicated in that schedu
   (c) University of Otago School of Anatomy Order 1969 (SR 1969/278) (Wellington Hospital):
   (d) University of Otago School of Anatomy Order 1988 (SR 1988/206) (Christchurch Hospital).
 (3) Every inspector of a school of anatomy who was in office immediately before the repeal of the Human Tissue Act 1964 continues in office after that repeal as if appointed by the Director-General—
-  (a) under section 80(1) and (2)(a), if the inspector is a member of the police; and
-  (b) under section 80(1) and (2)(b), in every other case.
+  (a) under section 80(1) and (2)﻿(a), if the inspector is a member of the police; and
+  (b) under section 80(1) and (2)﻿(b), in every other case.
 (4) Every direction by the Minister to an inspector of a school of anatomy under section 8(1) of the Human Tissue Act 1964 and in force on the repeal of that Act must after that repeal be treated as a direction by the Director-General under section 83, and may be amended, revoked, or revoked and replaced under that section accordingly.
 
 ### 97 Existing holdings of human tissue
@@ -979,7 +979,7 @@ The Acts and Regulations Publication Act 1989 does not apply to—
 (1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires standards that are incorporated by reference in regulations to be laid before the House of Representatives.
 (2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subclause (1) of this clause, applies to regulations under section 74 or 75 that incorporate standards by reference.
 
-### 9 Application of Standards Act 1988 not affected
-Clauses 1 to 8 do not affect the application of sections 22 to 25 of the Standards Act 1988.
+### 9 Application of Standards and Accreditation Act 2015 not affected
+Clauses 1 to 8 do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
 ## Schedule 6 — Consequential amendments
