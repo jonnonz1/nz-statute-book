@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -40,7 +40,7 @@ The purpose of this Act is to—
   - **application period** means a period set by new co-op as an application period under section 75
   - **approved restructuring day** , in relation to LIC, means 1 June 2002 or any earlier date in the restructuring plan that is approved by the Minister
   - **associated person** has the meaning given by subsection (2)
-  - **base milk price** , in relation to a season, means the price per kilogram of milksolids that is set by new co-op for that season
+  - **base milk price** , in relation to a season, means the price per kilogram of milk solids that is set by new co-op for that season
   - **Board** means the New Zealand Dairy Board established under the Dairy Board Act 1961; and, on and after the conversion date, means the company into which the Board converts
   - **Board’s constitution** means the constitution of the Board that was adopted on 5 November 1996 (as amended on 2 December 1997)
   - **capital notes** means the notes issued or to be issued by new co-op (or a wholly-owned subsidiary of new co-op) and defined as capital notes in the constitution of new co-op
@@ -89,7 +89,7 @@ The purpose of this Act is to—
     (e) a person who has a direct or indirect financial interest in a farm that supplies milk to new co-op:
     (f) a person who has a relevant interest in new co-op fund securities
   - **independent processor** —
-    (a) means a processor of milk or milksolids or dairy products who is not an associated person of new co-op; and
+    (a) means a processor of milk or milk solids or dairy products who is not an associated person of new co-op; and
     (b) includes New Zealand Dairy Foods Limited and any associated person of that company other than new co-op
   - **initial licence** means each licence conferred on the Board by section 24
   - **initial period** has the meaning given by section 24
@@ -114,7 +114,7 @@ The purpose of this Act is to—
   - **marae** includes the area of land on which all buildings such as wharenui (meeting houses), wharekai (dining rooms), ablution blocks, and any other associated buildings are situated
   - **market maker in co-operative shares** means a person who is continuously active in making bids and offers on co-operative shares on the licensed market on which those shares are quoted during the periods that the licensed market is in operation
   - **milk price manual** means the manual that must be maintained by new co-op under section 150F
-  - **milksolids** means the milk-fat and protein components of raw milk
+  - **milk solids** means the milk-fat and protein components of raw milk
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **new co-op** means the amalgamated company under the new co-op amalgamation; and includes any company resulting from a further amalgamation involving new co-op
@@ -427,7 +427,7 @@ For the purpose of determining and monitoring compliance with the rules set out 
 [Repealed]
 
 ### 29L Disposal of property seized under search warrant
-Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any property seized by a constable under a search warrant and, with any necessary modifications, to property seized under a search warrant by the chief executive, or a person authorised by the chief executive, subject to the following provisions:
+Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any property seized by a constable under a search warrant and, with any necessary modifications, to property seized under a search warrant by the chief executive, or a person authorised by the chief executive, subject to the following provision:
   (a)
   (b)
   (c)
@@ -769,7 +769,7 @@ The intention of this subpart is to promote the following principles:
 (4) New co-op must set a June price for a co-operative share to apply as at 1 June in each season.
 
 ### 77A Price must be fair value
-The price of a co-operative share set by new co-op under section 77(1) must be fair value calculated by using the following formula:assets − debts=priceshareswhere—
+The price of a co-operative share set by new co-op under section 77(1) must be fair value calculated by using the following formula:(assets − debts) ÷ shares = pricewhere—
   - **assets** means the present value of the forecast free cash flows expected to be generated from the operation of new co-op's assets; and
   - **debts** means the aggregate fair market value of new co-op's interest-bearing debt; and
   - **shares** means the total number of co-operative shares on issue.
@@ -902,7 +902,7 @@ New co-op must not require payment from a new entrant or a shareholding farmer f
 **Exceptions**
 
 ### 94 Minimal supply: first exception
-New co-op may reject an application by a new entrant or a shareholding farmer if the supply of milksolids obtainable from milk to be supplied by the applicant in a season is less than 10 000 kilograms.
+New co-op may reject an application by a new entrant or a shareholding farmer if the supply of milk solids obtainable from milk to be supplied by the applicant in a season is less than 10 000 kilograms.
 
 ### 95 Transport costs: second exception
 (1) New co-op may reject an application by a new entrant if the cost of transporting the milk of the new entrant exceeds the highest cost of transporting another shareholding farmer’s milk.
@@ -1007,7 +1007,7 @@ New co-op must ensure that redeemable preference shares issued by it under secti
 ### 107 Regulation of supply contracts for raw milk
 (1) New co-op must offer new entrants contracts for milk supply as shareholding farmers for 1 season.
 (2) New co-op may offer new entrants and shareholding farmers longer-term contracts for milk supply if new co-op complies with subsection (3).
-(3) New co-op must ensure that, at all times, 33% or a greater percentage of the milksolids produced within a 160 kilometre radius of any point in New Zealand—
+(3) New co-op must ensure that, at all times, 33% or a greater percentage of the milk solids produced within a 160 kilometre radius of any point in New Zealand—
   (a) is supplied under contracts with independent processors; or
   (b) is supplied under contracts with new co-op that—
     (i) expire or may be terminated by the supplier at the end of the current season without penalty to the supplier; and
@@ -1204,8 +1204,8 @@ Sections 109A to 109M expire and are repealed,—
   (d) allow new co-op to require independent processors to give new co-op advance notice of their requirements for the goods or services to which regulations under paragraph (a) or (ba) apply, prescribe the maximum period of advance notice that it may require, and authorise new co-op to require buyers to buy the amount of goods or services specified in an advance notice; and
   (e) empower the Commerce Commission to fix a discount rate in calculating the price of goods or services regulated under this section; and
   (f) require new co-op and independent processors to provide—
-    (i) periodic returns of milksolids collected from dairy farmers:
-    (ii) periodic forecasts of milksolids expected to be collected from dairy farmers; and
+    (i) periodic returns of milk solids collected from dairy farmers:
+    (ii) periodic forecasts of milk solids expected to be collected from dairy farmers; and
   (g) authorise new co-op to perform obligations imposed by the regulations through an associated person.
 (2) Regulations made under subsection (1) must not require new co-op to supply a total amount of goods or services that exceeds, in the Minister’s opinion, 5% of the amount of those goods or services produced by, or supplied to, new co-op, as the case may be.
 (2A) For the purpose of any regulations made under subsection (1), unless the context of the regulations otherwise requires, a body is an interconnected body of an independent processor if—
@@ -1455,8 +1455,8 @@ Proceedings brought under this Part are in addition to any proceedings brought u
 
 ### 147 Minister to certify that market share thresholds met
 (1) Subsection (2) applies if the Minister is satisfied, on the basis of the information reported to the Minister under subsection (4), that independent processors have, directly or indirectly, collected—
-  (a) 20% or more of milksolids on or from dairy farms in the North Island of New Zealand in a season; or
-  (b) 20% or more of milksolids on or from dairy farms in the South Island of New Zealand in a season.
+  (a) 20% or more of milk solids on or from dairy farms in the North Island of New Zealand in a season; or
+  (b) 20% or more of milk solids on or from dairy farms in the South Island of New Zealand in a season.
 (2) If this subsection applies, the Minister must, as the case may be, sign a certificate that states that—
   (a) the market share threshold for the North Island of New Zealand has been met; or
   (b) the market share threshold for the South Island of New Zealand has been met; or
@@ -1467,7 +1467,7 @@ Proceedings brought under this Part are in addition to any proceedings brought u
     (i) in the Gazette; and
     (ii) on the Ministry's Internet site.
 (4) For the purposes of subsection (1), new co-op and each independent processor—
-  (a) must, in the form prescribed by the chief executive by notice in the Gazette and published on the Ministry's Internet site, but subject to any exemptions granted in the notice, keep a record of the total amount in kilograms of milksolids collected, directly or indirectly, on or from dairy farms in—
+  (a) must, in the form prescribed by the chief executive by notice in the Gazette and published on the Ministry's Internet site, but subject to any exemptions granted in the notice, keep a record of the total amount in kilograms of milk solids collected, directly or indirectly, on or from dairy farms in—
     (i) the North Island of New Zealand in each season; and
     (ii) the South Island of New Zealand in each season; and
   (b) must, if requested by the Minister, provide the information specified in paragraph (a) to the Minister,—
@@ -2008,12 +2008,12 @@ Despite section 165(1), section 45(2) and (3) of the Dairy Board Act 1961 contin
 ## Schedule 5B — Rules for allocation of export licences to multiple participants for designated markets in Schedule 5A
 
 ### 1
-Export licences are allocated to eligible participants on the basis of the percentage of total milksolids collected by eligible participants, or their employees, contractors, or agents, directly from dairy farmers in New Zealand in the most recent season for which data is available, or the average of the 2 or 3 most recent seasons.
+Export licences are allocated to eligible participants on the basis of the percentage of total milk solids collected by eligible participants, or their employees, contractors, or agents, directly from dairy farmers in New Zealand in the most recent season for which data is available, or the average of the 2 or 3 most recent seasons.
 
 ### 2
-To be eligible to receive a share of export licences, participants must collect (or a participant’s employees, contractors, or agents may collect) and acquire legal title in at least 0.1% of total milksolids collected from dairy farmers in New Zealand, based on—
-(a) the most representative data of total milksolids collected in New Zealand, in the latest year for which data is available prior to an allocation period; and
-(b) milksolids collection data submitted by each eligible participant by statutory declaration for—
+To be eligible to receive a share of export licences, participants must collect (or a participant’s employees, contractors, or agents may collect) and acquire legal title in at least 0.1% of total milk solids collected from dairy farmers in New Zealand, based on—
+(a) the most representative data of total milk solids collected in New Zealand, in the latest year for which data is available prior to an allocation period; and
+(b) milk solids collection data submitted by each eligible participant by statutory declaration for—
   (i) the most recent season; and
   (ii) the previous season (if a participant wishes to use an average of the most recent 2 seasons for the purpose of assessing his or her eligibility to receive a share of export licences); and
   (iii) the season immediately prior to the season referred to in subparagraph (ii) (if a participant wishes to use an average of the most recent 3 seasons for the purpose of assessing his or her eligibility to receive a share of export licences).
@@ -2127,8 +2127,8 @@ In this schedule,—
 ### 9 Regulations (Disallowance) Act 1989
 [Repealed]
 
-### 10 Standards Act 1988
-Nothing in this schedule affects the application of sections 22 to 25 of the Standards Act 1988.
+### 10 Standards and Accreditation Act 2015
+Nothing in this schedule affects the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
 ## Schedule 6 — Orders revoked
 
