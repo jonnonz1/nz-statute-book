@@ -1,5 +1,5 @@
 # Veterinarians Act 2005
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Veterinarians Act 2005.
@@ -91,13 +91,13 @@ This Act binds the Crown.
 
 ### 8 Recognition of institutions and academic qualifications
 (1) The Council must publish a notice in the Gazette declaring—
-  (a) the institutions and the degrees or diplomas offered by those institutions that are recognised for the purposes of section 6(1)(a); and
-  (b) the assessment programmes, and post-graduate study or training approved by the Council for the purposes of section 6(1)(b).
-(2) Before publishing a notice under subsection (1)(a), the Council must satisfy itself that an institution provides a course of instruction in veterinary science that, in relation to each degree or diploma,—
+  (a) the institutions and the degrees or diplomas offered by those institutions that are recognised for the purposes of section 6(1)﻿(a); and
+  (b) the assessment programmes, and post-graduate study or training approved by the Council for the purposes of section 6(1)﻿(b).
+(2) Before publishing a notice under subsection (1)﻿(a), the Council must satisfy itself that an institution provides a course of instruction in veterinary science that, in relation to each degree or diploma,—
   (a) provides tuition at a level that is acceptable to the Council; and
   (b) provides assessment or examination at a level that is acceptable to the Council; and
   (c) leads to a degree or diploma in veterinary science that is acceptable to the Council.
-(3) If the Council considers that an institution, or a degree or diploma offered by the institution, included in a declaration under subsection (1)(a) no longer satisfies the criteria in subsection (2), the Council must, by notice in the Gazette, amend or revoke the declaration or relevant part of the declaration.
+(3) If the Council considers that an institution, or a degree or diploma offered by the institution, included in a declaration under subsection (1)﻿(a) no longer satisfies the criteria in subsection (2), the Council must, by notice in the Gazette, amend or revoke the declaration or relevant part of the declaration.
 (4) Subsection (3) does not affect the registration or continued registration of a person that the Council has accepted for registration on the basis of a degree or diploma from an institution prior to the revocation or amendment of the recognition status of the institution or the degree or diploma.
 
 **Disqualification from registration**
@@ -195,7 +195,7 @@ When considering an application for registration, the Council may, in relation t
   (c) issue the applicant with—
     (i) a certificate of provisional registration; and
     (ii) a practising certificate for the period of the provisional registration (subject to the conditions of practice that the Council considers appropriate, if any).
-(4) Despite subsection (3)(a), the Council may renew a person's certificate of provisional registration and practising certificate, once only, for a further period not exceeding 3 months.
+(4) Despite subsection (3)﻿(a), the Council may renew a person's certificate of provisional registration and practising certificate, once only, for a further period not exceeding 3 months.
 (5) The Council may, at any time, cancel the registration of a person under this section, but must give the person written notice of and reasons for the cancellation.
 
 ### 16 Change from provisional to full registration
@@ -265,7 +265,7 @@ A person whose registration is cancelled or suspended must deliver his or her ce
 (5) The Registrar must, on payment of the prescribed fee,—
   (a) issue a certificate of registration to any registered person:
   (b) supply a certified copy of an entry in the register to any person requesting it.
-(6) Information entered in the register under subsection (2)(c) and (e)(iii) does not form part of the register for the purposes of subsection (3) or subsection (5)(b).
+(6) Information entered in the register under subsection (2)﻿(c) and (e)﻿(iii) does not form part of the register for the purposes of subsection (3) or subsection (5)﻿(b).
 
 ### 23 Alterations to register
 (1) The Registrar must promptly amend the information in the register,—
@@ -333,7 +333,7 @@ A practising certificate continues in force until the close of the date of its e
   (b) the application complies with section 24(2).
 (2) Despite section 28, the applicant's existing practising certificate continues in force until the earlier of—
   (a) the date that a new certificate is issued under section 26(1); or
-  (b) the date that the Council notifies the applicant under section 26(3)(d) that it is not satisfied that he or she meets the requirements for the issue of a new certificate.
+  (b) the date that the Council notifies the applicant under section 26(3)﻿(d) that it is not satisfied that he or she meets the requirements for the issue of a new certificate.
 
 ### 29 Surrender of certificate if certificate is cancelled or suspended
 A person whose practising certificate is cancelled or suspended must deliver his or her practising certificate to the Registrar no later than 10 working days after the date on which a notice of cancellation or suspension has been given to the person.
@@ -472,10 +472,10 @@ In the performance and exercise of its decision-making functions and powers unde
 (1) A complaints assessment committee may, in addition to providing a statement about a specified person to the Council under section 43, recommend to it that until the Council has conducted a medical assessment, the Council—
   (a) suspend the specified person's practising certificate; or
   (b) impose conditions of practice on the specified person.
-(2) The committee may make a recommendation under subsection (1)(a) only if it is satisfied on reasonable grounds that—
+(2) The committee may make a recommendation under subsection (1)﻿(a) only if it is satisfied on reasonable grounds that—
   (a) the specified person cannot practise satisfactorily as a veterinarian because of a mental or physical condition; and
   (b) because the specified person may continue to practise as a veterinarian, it is necessary in the public interest to suspend the specified person's practising certificate.
-(3) The committee may make a recommendation under subsection (1)(b) only if it is satisfied that—
+(3) The committee may make a recommendation under subsection (1)﻿(b) only if it is satisfied that—
   (a) the specified person cannot practise satisfactorily as a veterinarian because of a mental or physical condition; but
   (b) despite this it would not be contrary to the public interest to allow the specified person to continue to practise subject to conditions of practice.
 (4) The committee must immediately notify the specified person in writing (with reasons) that a recommendation has been made.
@@ -487,7 +487,7 @@ In the performance and exercise of its decision-making functions and powers unde
     (i) the specified person cannot practise satisfactorily as a veterinarian because of a mental or physical condition; but
     (ii) despite this it would not be contrary to the public interest to allow the specified person to continue to practise subject to conditions of practice; or
   (c) refuse to suspend or impose conditions of practice on the specified person, and require the committee to continue its procedure under section 43.
-(6) However, if the Council acts under subsection (5)(a) or (b), it must complete the medical assessment no later than 50 working days after the suspension or conditions take effect.
+(6) However, if the Council acts under subsection (5)﻿(a) or (b), it must complete the medical assessment no later than 50 working days after the suspension or conditions take effect.
 (7) The suspension or conditions of practice, as the case may be, cease to apply—
   (a) if the Council does not complete the medical assessment before the end of the 50-working day period; and
   (b) without any further action being taken by the Council or the specified person.
@@ -502,7 +502,7 @@ In the performance and exercise of its decision-making functions and powers unde
 (4) After considering the committee's recommendation, the Council must—
   (a) suspend the specified person's practising certificate or impose conditions of practice on the person, if it is satisfied on reasonable grounds that it is necessary in the public interest to do so; or
   (b) refuse to suspend or impose conditions of practice on the specified person, and require the committee to continue its procedure under section 43.
-(5) However, if the Council acts under subsection (4)(a), it must complete the disciplinary hearing or the competence assessment, or both, no later than 50 working days after the suspension or conditions take effect.
+(5) However, if the Council acts under subsection (4)﻿(a), it must complete the disciplinary hearing or the competence assessment, or both, no later than 50 working days after the suspension or conditions take effect.
 (6) The suspension or conditions of practice, as the case may be, cease to apply—
   (a) if the Council does not complete the disciplinary hearing or competence assessment, or both, before the end of the 50-working day period; and
   (b) without any further action being taken by the Council or the specified person.
@@ -545,8 +545,8 @@ For the purposes of a disciplinary hearing, the Council has the powers of a comm
     (ii) the whole or any part of any paper, document, or record produced at a hearing:
     (iii) the name of or any particulars about the specified person who is the subject of a hearing, or any other person:
   (c) decide a hearing, including any question arising during the hearing, in private.
-(3) An order made under subsection (2)(b) continues in force until the sooner of the date specified in the order (if any) or the date of its revocation. However, a person may apply at any time to the Council for the order to be revoked.
-(4) Subsection (2)(b)(iii) does not apply in relation to the publication of the effect of an order under section 54(2).
+(3) An order made under subsection (2)﻿(b) continues in force until the sooner of the date specified in the order (if any) or the date of its revocation. However, a person may apply at any time to the Council for the order to be revoked.
+(4) Subsection (2)﻿(b)﻿(iii) does not apply in relation to the publication of the effect of an order under section 54(2).
 (5) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, without lawful excuse, breaches any order made by the Council under subsection (2).
 
 ### 50 Grounds for discipline of specified person
@@ -585,18 +585,18 @@ For the purposes of a disciplinary hearing, the Council has the powers of a comm
   (g) order that the specified person be censured:
   (h) order that the specified person may, for a period not exceeding 3 years, practise only subject to the conditions of practice specified in the order:
   (i) order the specified person to pay,—
-    (i) in any case to which section 50(1)(b) or (c) applies, a fine not exceeding $30,000; and
-    (ii) in any case to which section 50(1)(d) applies, a fine not exceeding $10,000:
+    (i) in any case to which section 50(1)﻿(b) or (c) applies, a fine not exceeding $30,000; and
+    (ii) in any case to which section 50(1)﻿(d) applies, a fine not exceeding $10,000:
   (j) if the matter arises from a complaint, order—
     (i) that any professional fee paid or owing to the specified person by the complainant be refunded, reduced, or waived:
     (ii) that the specified person pay the complainant's costs and expenses for the hearing by the Council and any inquiries made by the complaints assessment committee.
-(2) No fine may be imposed under subsection (1)(i) in relation to an act or omission that constitutes an offence for which the specified person has been convicted by a court.
+(2) No fine may be imposed under subsection (1)﻿(i) in relation to an act or omission that constitutes an offence for which the specified person has been convicted by a court.
 (3) The Council may order that the specified person pay the costs and expenses of, and incidental to, the disciplinary hearing and any investigation made by the complaints assessment committee.
 (4) The Registrar must note the action taken by the Council in the register, and the Council may publicly notify the action in any other way it thinks fit.
-(5) An application by a specified person to whom subsection (1)(a)(ii) applies to have his or her name restored to the register must be treated for the purposes of this Act as if it were an application under section 10.
+(5) An application by a specified person to whom subsection (1)﻿(a)﻿(ii) applies to have his or her name restored to the register must be treated for the purposes of this Act as if it were an application under section 10.
 
 ### 52 Non-payment of fines or costs
-If money payable by a specified person under section 51(1)(i), (1)(j), or (3) remains unpaid for 60 days or more, the Council may—
+If money payable by a specified person under section 51(1)﻿(i), (1)﻿(j), or (3) remains unpaid for 60 days or more, the Council may—
   (a) cancel the person's registration; or
   (b) suspend the person's registration until the person pays the money and, if he or she does not do so within 12 months, cancel his or her registration; or
   (c) cancel the person's practising certificate; or
@@ -729,7 +729,7 @@ For the purposes of a competence assessment, the Council may inspect a specified
   (a) the date stated in the relevant notice under section 62(1):
   (b) the date on which the Council is satisfied that the specified person has completed, in relation to the condition, the requirement or requirements stated in the relevant notice under section 62(1):
   (c) the date on which the Council is satisfied that the specified person is able to comply with the relevant minimum standards of practice without the imposition of the condition.
-(2) If subsection (1)(b) or (c) applies, the Council must give written notice to the specified person that the condition of practice is removed.
+(2) If subsection (1)﻿(b) or (c) applies, the Council must give written notice to the specified person that the condition of practice is removed.
 (3) The notice must be served on the specified person and takes effect as from the date on which the notice is served.
 (4) Subsection (1) is subject to sections 44(7), 45(6), and 56(2).
 
@@ -812,10 +812,10 @@ The Council's functions are—
   (c) to promote and encourage high standards of professional education and conduct among veterinarians:
   (d) to consider reciprocal arrangements with registration bodies in other countries:
   (e) to register persons, issue practising certificates, assess whether persons meet the requirements for continued registration or eligibility for a practising certificate, and perform the other functions relating to registration and practising requirements in accordance with Part 2, including—
-    (i) to determine the institutions and the degrees and diplomas offered by those institutions that are recognised for the purposes of section 6(1)(a); and
-    (ii) to approve assessment programmes, post-graduate study, and post-graduate training for the purposes of section 6(1)(b)(ii) and (iii); and
+    (i) to determine the institutions and the degrees and diplomas offered by those institutions that are recognised for the purposes of section 6(1)﻿(a); and
+    (ii) to approve assessment programmes, post-graduate study, and post-graduate training for the purposes of section 6(1)﻿(b)﻿(ii) and (iii); and
     (iii) to designate branches of veterinary science as branches in which veterinarians may practise as specialists for the purposes of section 7(1); and
-    (iv) to determine the form and content of applications for the purposes of sections 10(a) and (b) and 24(2)(a) and (b):
+    (iv) to determine the form and content of applications for the purposes of sections 10(a) and (b) and 24(2)﻿(a) and (b):
   (f) to keep and maintain the register and carry out the other functions relating to the register in accordance with Part 2:
   (g) to receive, investigate, and hear complaints about, inquire into the conduct of, make assessments of, and discipline specified persons under Part 3:
   (h) to investigate offences and bring prosecutions under the Act:
@@ -823,7 +823,7 @@ The Council's functions are—
     (i) a person's fitness to practise as a veterinarian:
     (ii) the maintenance, examination, or improvement of the overall competence of a veterinarian to practise:
   (j) to prescribe—
-    (i) examinations for the purposes of section 6(1)(b)(i):
+    (i) examinations for the purposes of section 6(1)﻿(b)﻿(i):
     (ii)
     (iii) the form of the register and the information to be contained in the register under section 22:
     (iv)
@@ -918,7 +918,7 @@ A registrar of a court who knows that a person convicted in the court is a veter
     (ii) the Animal Products Act 1999; or
     (iii) the Animal Welfare Act 1999; or
     (iv) the Biosecurity Act 1993; or
-    (v) the Food Act 1981; or
+    (v) the Food Act 2014; or
     (vi) the Hazardous Substances and New Organisms Act 1996; or
     (vii) the Medicines Act 1981; or
     (viii) the Misuse of Drugs Act 1975; or
@@ -972,8 +972,8 @@ References in any enactment to a veterinarian or a veterinary practitioner or a 
   (a) by delivering it personally to the person; or
   (b) by posting it to the person at that person's usual place of residence.
 (2) A summons must,—
-  (a) if it is to be served under subsection (1)(a), be served at least 48 hours before the attendance of the witness is required:
-  (b) if it is to be served under subsection (1)(b), be served at least 10 days before the attendance of the witness is required.
+  (a) if it is to be served under subsection (1)﻿(a), be served at least 48 hours before the attendance of the witness is required:
+  (b) if it is to be served under subsection (1)﻿(b), be served at least 10 days before the attendance of the witness is required.
 (3) A document, notice, or summons that is posted is treated as having been served when it would have been delivered in the ordinary course of post.
 
 **Fees**
@@ -1005,7 +1005,7 @@ In prescribing fees under section 97, the Council must be guided by the followin
 
 ### 99 Consultation with veterinarians and other registered persons on fee increases
 (1) The Council must take reasonable steps to consult all veterinarians and other registered persons before gazetting a notice under section 97 that will increase any fees payable to the Council.
-(2) Subsection (1) does not apply to a notice under section 97(1)(a) or (h).
+(2) Subsection (1) does not apply to a notice under section 97(1)﻿(a) or (h).
 
 ### 100 Further provisions relating to fees
 (1) The Council may amend or revoke a notice under section 97, by notice in the Gazette, as if the amendment or revocation were itself a notice under section 97.
@@ -1038,7 +1038,7 @@ The Veterinarians Act 1994 (1994 No 107) is repealed.
 (1) The following regulations are revoked:
   (a) the Veterinarians (Elections) Regulations 1995 (SR 1995/134):
   (b) the Veterinarians (Fees) Regulations 1999 (SR 1999/432).
-(2) Despite subsection (1)(b), fees that became payable to the Council under the Veterinarians (Fees) Regulations 1999 before the commencement of this section continue to be due and payable as if those regulations had not been revoked.
+(2) Despite subsection (1)﻿(b), fees that became payable to the Council under the Veterinarians (Fees) Regulations 1999 before the commencement of this section continue to be due and payable as if those regulations had not been revoked.
 
 ### 105 Consequential amendments
 The enactments specified in Schedule 2 are consequentially amended in the manner indicated in that schedule.
@@ -1161,7 +1161,7 @@ If there is no chairperson or, for any reason, the chairperson is unable to perf
   (a) if there is a chairperson and he or she is present, the chairperson; or
   (b) if there is no chairperson or he or she is not present, the deputy chairperson; or
   (c) in any other case, a member chosen by the members present to be chairperson of the meeting.
-(2) A person chosen under subclause (1)(c) may exercise all the functions, duties, and powers of the chairperson for the purposes of the meeting.
+(2) A person chosen under subclause (1)﻿(c) may exercise all the functions, duties, and powers of the chairperson for the purposes of the meeting.
 
 ### 14 Voting at meetings
 (1) Each member has 1 vote.
