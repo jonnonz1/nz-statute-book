@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2015-01-01_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -19,8 +19,8 @@ This Act is the Building Act 2004.
   (e) Part 4:
   (f) Part 5 (except sections 414 and 415, 429 to 448, and 450):
   (g) Schedule 3.
-(2) The rest of this Act comes into force on 31 March 2005 (except sections 45(1)(e) and 45(2) to 45(4) and 84 to 89).
-(3) Sections 45(1)(e) and 45(2) to 45(4) and 84 to 89 come into force on 30 November 2010.
+(2) The rest of this Act comes into force on 31 March 2005 (except sections 45(1)﻿(e) and 45(2) to 45(4) and 84 to 89).
+(3) Sections 45(1)﻿(e) and 45(2) to 45(4) and 84 to 89 come into force on 30 November 2010.
 
 **Purpose and principles**
 
@@ -130,7 +130,7 @@ In this Act, unless the context otherwise requires,—
   - **building code** means the regulations made under section 400
   - **building consent** means a consent to carry out building work granted by a building consent authority under section 49
   - **building consent accreditation body** means the person referred to in section 248(2)
-  - **building consent authority** means a person whose name is entered in the register referred to in section 273(1)(a)
+  - **building consent authority** means a person whose name is entered in the register referred to in section 273(1)﻿(a)
   - **building levy** means a levy payable under section 53
   - **building method or product** has the meaning given to it by section 20
   - **building work** —
@@ -174,7 +174,7 @@ In this Act, unless the context otherwise requires,—
   - **energy work** means—
     (a) gasfitting; or
     (b) prescribed electrical work
-  - **energy work certificate** means a certificate of the kind referred to in section 19(1)(e)
+  - **energy work certificate** means a certificate of the kind referred to in section 19(1)﻿(e)
   - **estimated value** , in relation to building work, means the estimated aggregate of the consideration, determined in accordance with section 10 of the Goods and Services Tax Act 1985, of all goods and services to be supplied for the building work
   - **falsework** , in relation to building work or the maintenance of a building,—
     (a) means any temporary structure or framework used to support materials, equipment, or an assembly; and
@@ -212,8 +212,8 @@ In this Act, unless the context otherwise requires,—
   - **medium potential impact dam** means a dam that has been classified under section 134B as having medium potential impact
   - **Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act
-  - **minor customisation** , in relation to an application for a building consent that incorporates plans and specifications that have national multiple-use approval, means a minor modification, addition, or variation to those plans and specifications that is permitted by regulations made under section 402(1)(kc)
-  - **minor variation** means a minor modification, addition, or variation to a building consent that is permitted by regulations made under section 402(1)(kd)
+  - **minor customisation** , in relation to an application for a building consent that incorporates plans and specifications that have national multiple-use approval, means a minor modification, addition, or variation to those plans and specifications that is permitted by regulations made under section 402(1)﻿(kc)
+  - **minor variation** means a minor modification, addition, or variation to a building consent that is permitted by regulations made under section 402(1)﻿(kd)
   - **national multiple-use approval** means an approval issued by the chief executive under section 30F
   - **natural hazard** has the meaning given to it by section 71
   - **network utility operator** means a person who—
@@ -328,12 +328,12 @@ In this Act, unless the context otherwise requires,—
   (c) includes any 2 or more buildings that, on completion of building work, are intended to be managed as one building with a common use and a common set of ownership arrangements; and
   (d) includes the non-moving parts of a cable car attached to or servicing a building; and
   (e) after 30 March 2008, includes the moving parts of a cable car attached to or servicing a building.
-(2) Subsection (1)(b)(i) only applies if—
-  (a) the mechanical, electrical, or other system is attached to the structure referred to in subsection (1)(a); and
+(2) Subsection (1)﻿(b)﻿(i) only applies if—
+  (a) the mechanical, electrical, or other system is attached to the structure referred to in subsection (1)﻿(a); and
   (b) the system—
     (i) is required by the building code; or
     (ii) if installed, is required to comply with the building code.
-(3) Subsection (1)(c) only applies in relation to—
+(3) Subsection (1)﻿(c) only applies in relation to—
   (a) subpart 2 of Part 2; and
   (b) a building consent; and
   (c) a code compliance certificate; and
@@ -415,7 +415,7 @@ Under this Act, the chief executive—
   (d) issues code compliance certificates; and
   (e) issues compliance schedules.
 (2) Under this Act, a territorial authority—
-  (a) performs the functions of a building consent authority set out in subsection (1)(a) (including the issue of building consents subject to a waiver or modification of the building code) if—
+  (a) performs the functions of a building consent authority set out in subsection (1)﻿(a) (including the issue of building consents subject to a waiver or modification of the building code) if—
     (i) the territorial authority is also a building consent authority; and
     (ii) an owner applies to the territorial authority for a building consent; and
   (b) issues project information memoranda; and
@@ -454,8 +454,8 @@ Under this Act, a regional authority—
   (b) the building consent authority and territorial authority are responsible for performing functions under this Act relating to the parts of the building that are not a dam.
 (3) For the purposes of subsection (1),—
   (a) sections 31 to 39 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority included a reference to a regional authority; and
-  (b) sections 40 to 116 (except section 114(2)(c)), 216 to 218, 220 to 228, 232, 276 to 281, 363A, 371A to 371C, and 374 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority were a reference to a regional authority.
-(4) For the purposes of subsection (2), sections 31 to 116 (except section 114(2)(c)), 216 to 218, 220 to 232, 276 to 281, 363A, and 374 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority included a reference to a regional authority.
+  (b) sections 40 to 116 (except section 114(2)﻿(c)), 216 to 218, 220 to 228, 232, 276 to 281, 363A, 371A to 371C, and 374 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority were a reference to a regional authority.
+(4) For the purposes of subsection (2), sections 31 to 116 (except section 114(2)﻿(c)), 216 to 218, 220 to 232, 276 to 281, 363A, and 374 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority included a reference to a regional authority.
 (5) The building consent authority and territorial authority must do everything reasonably practicable to liaise with the regional authority in performing functions or duties, or exercising powers, in relation to a building that includes a dam.
 
 ### Subpart 4 — Outline of responsibilities under this Act
@@ -627,7 +627,7 @@ The chief executive must ensure that—
 (2) The powers are—
   (a) to grant a building consent for building work; or
   (b) to issue a code compliance certificate for building work.
-(3) However, subsection (2)(b) does not apply if the building consent to which the code compliance certificate relates was granted before the ban under section 26 came into force.
+(3) However, subsection (2)﻿(b) does not apply if the building consent to which the code compliance certificate relates was granted before the ban under section 26 came into force.
 
 **Procedural requirements for acceptable solutions, verification methods, warnings, and bans**
 
@@ -646,7 +646,7 @@ The chief executive must ensure that—
   (c) publicly notify a statement of proposal; and
   (d) give persons an opportunity to make submissions on the statement of proposal; and
   (e) consider those submissions.
-(3) For the purposes of subsection (2)(c), the chief executive must notify—
+(3) For the purposes of subsection (2)﻿(c), the chief executive must notify—
   (a) where copies of the statement of proposal may be obtained; and
   (b) that submissions on the statement of proposal may be made to the chief executive by a specified date (which date must not be less than 10 working days after the date of the public notification).
 (4) The statement of proposal must contain—
@@ -715,7 +715,7 @@ The chief executive must ensure that—
 (1) The chief executive must, after accepting for processing an application for a national multiple-use approval, decide whether to—
   (a) issue the national multiple-use approval; or
   (b) refuse to issue the national multiple-use approval.
-(2) If regulations made under section 402(1)(kb) are in force, the chief executive must make the decision referred to in subsection (1) within the period of time prescribed in those regulations.
+(2) If regulations made under section 402(1)﻿(kb) are in force, the chief executive must make the decision referred to in subsection (1) within the period of time prescribed in those regulations.
 (3) The chief executive may require further reasonable information in respect of an application for a national multiple-use approval before making the decision referred to in subsection (1), and any prescribed period of time within which that decision must be made is suspended until the chief executive receives that information.
 
 ### 30F Issue of national multiple-use approval
@@ -779,8 +779,8 @@ An owner may apply to a territorial authority for a project information memorand
     (i) the territorial authority is authorised to refuse or impose under any Act (except this Act); and
     (ii) are likely to be relevant to the design and construction of the proposed building; and
   (c) any other information that the territorial authority (acting as agent for a network utility operator by prior agreement with that network utility operator) requires in respect of proposed connections to public utilities from the proposed building work.
-(2) The territorial authority may not make a requirement under subsection (1)(b) if more than 10 working days have elapsed since the date on which the territorial authority received the application.
-(3) For the purposes of subsection (1)(b), the authorisations and requirements referred to in that subsection include, without limitation, authorisations and requirements in respect of—
+(2) The territorial authority may not make a requirement under subsection (1)﻿(b) if more than 10 working days have elapsed since the date on which the territorial authority received the application.
+(3) For the purposes of subsection (1)﻿(b), the authorisations and requirements referred to in that subsection include, without limitation, authorisations and requirements in respect of—
   (a) the intended use of the proposed building; and
   (b) the location and external dimensions of the proposed building; and
   (c) provisions to be made—
@@ -790,8 +790,8 @@ An owner may apply to a territorial authority for a project information memorand
   (d) precautions to be taken if building work is carried out over any existing drains or sewers or in close proximity to wells or water mains.
 
 ### 34 Issue of project information memorandum
-(1) A territorial authority must issue a project information memorandum within 20 working days after receiving an application under section 31(1)(a) or section 32.
-(2) However, if the territorial authority requires any information under section 33(1)(b) or (c), the period specified in subsection (1) is suspended until it receives the information.
+(1) A territorial authority must issue a project information memorandum within 20 working days after receiving an application under section 31(1)﻿(a) or section 32.
+(2) However, if the territorial authority requires any information under section 33(1)﻿(b) or (c), the period specified in subsection (1) is suspended until it receives the information.
 (3) The territorial authority must issue the project information memorandum within 10 working days after receiving that information.
 (4) A territorial authority may, within the period specified in subsection (1) or, if applicable, in subsection (3), reissue a project information memorandum if the territorial authority—
   (a) considers, on reasonable grounds, that the project information memorandum contains an error or omission; or
@@ -877,7 +877,7 @@ If a project information memorandum contains information previously supplied to 
   (c) restating, for the purpose of clarity, any building work or class of building work listed in Schedule 1.
 
 ### 42 Owner must apply for certificate of acceptance if building work carried out urgently
-(1) If, in reliance on section 41(1)(c), building work is carried out without a building consent having been obtained in respect of that work, the owner must, as soon as practicable after completion of the building work, apply for a certificate of acceptance under section 96.
+(1) If, in reliance on section 41(1)﻿(c), building work is carried out without a building consent having been obtained in respect of that work, the owner must, as soon as practicable after completion of the building work, apply for a certificate of acceptance under section 96.
 (2) A person commits an offence if the person fails to apply for a certificate of acceptance in accordance with subsection (1).
 (3) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
 
@@ -893,7 +893,7 @@ If a project information memorandum contains information previously supplied to 
     (ii) if it did not comply with the building code immediately before the building work began, continues to comply at least to the same extent as it did then comply:
   (c) the building work does not breach any other enactment:
   (d) the building to which the building work relates is not a building that is required to be licensed under the Hazardous Substances and New Organisms Act 1996.
-(3) In subsection (1)(b), authorised person means a person who is authorised under the Plumbers, Gasfitters, and Drainlayers Act 2006 to do the work, except for a person who is authorised under section 15, 16, 19, or 25 of that Act.
+(3) In subsection (1)﻿(b), authorised person means a person who is authorised under the Plumbers, Gasfitters, and Drainlayers Act 2006 to do the work, except for a person who is authorised under section 15, 16, 19, or 25 of that Act.
 
 ### 43 Building consent not required for energy work
 (1) Energy work does not require a building consent.
@@ -959,7 +959,7 @@ If a project information memorandum contains information previously supplied to 
 ### 45B Changes to plans and specifications that have national multiple-use approval
 (1) When applying for a building consent in reliance on plans and specifications for which a national multiple-use approval has been issued, or for an amendment to such a building consent under section 45(4), changes may be made to those plans and specifications if—
   (a) the changes are permitted under the terms of the national multiple-use approval; or
-  (b) the changes are minor customisations permitted by regulations made under section 402(1)(kc).
+  (b) the changes are minor customisations permitted by regulations made under section 402(1)﻿(kc).
 (2) If any other changes are made to the plans and specifications referred to in subsection (1), the national multiple-use approval does not apply.
 
 ### 46 Copy of certain applications for building consent must be provided to New Zealand Fire Service Commission
@@ -1016,7 +1016,7 @@ If a building consent authority refuses to grant an application for a building c
 (2) The issue of a building consent does not, of itself,—
   (a) relieve the owner of the building or proposed building to which the building consent relates of any duty or responsibility under any other Act relating to or affecting the building or proposed building; or
   (b) permit the construction, alteration, demolition, or removal of the building or proposed building if that construction, alteration, demolition, or removal would be in breach of any other Act.
-(3) If a building consent authority does not, within the time limit for granting the building consent, receive from the territorial authority any document or information required for compliance with subsection (1)(b) or (ba), the building consent authority may grant the building consent despite that subsection.
+(3) If a building consent authority does not, within the time limit for granting the building consent, receive from the territorial authority any document or information required for compliance with subsection (1)﻿(b) or (ba), the building consent authority may grant the building consent despite that subsection.
 (4) However, the building consent authority must, on receiving the document or information referred to in subsection (3), provide the owner with the document or information.
 
 ### 52 Lapse of building consent
@@ -1035,7 +1035,7 @@ A building consent lapses and is of no effect if the building work to which it r
   (b) must be paid—
     (i) to the building consent authority as the agent of the chief executive; and
     (ii) at the time the building consent is granted.
-(3) Subsection (2)(a)(ii) is subject to section 431.
+(3) Subsection (2)﻿(a)﻿(ii) is subject to section 431.
 (4) The chief executive may, in his or her discretion, refund all or part of the levy if the building consent lapses by paying the refund to the applicant or to the relevant building consent authority.
 
 ### 54 Building consent authority must advise applicant of amount of levy payable
@@ -1055,12 +1055,12 @@ If a levy has already been paid for building work for which a building consent i
 
 ### 58 Liability to pay levy: building consent authority
 (1) A building consent authority, on the grant of a building consent, becomes liable to the territorial authority for the levy payable under section 53 in relation to the building work to which the building consent relates.
-(2) A building consent authority must pay the levy to the territorial authority at the same time that it provides, under section 238(2)(d), copies of information about the collection of that levy.
+(2) A building consent authority must pay the levy to the territorial authority at the same time that it provides, under section 238(2)﻿(d), copies of information about the collection of that levy.
 (3) A person commits an offence if the person fails to pay the levy in accordance with this section.
 (4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
 
 ### 59 Liability to pay levy: territorial authority
-(1) A territorial authority, on granting a building consent or on receiving all or any of the information specified in section 238(1)(c), becomes liable to the chief executive for the levy payable under section 53 in relation to the building work to which the building consent relates.
+(1) A territorial authority, on granting a building consent or on receiving all or any of the information specified in section 238(1)﻿(c), becomes liable to the chief executive for the levy payable under section 53 in relation to the building work to which the building consent relates.
 (2) The total amount of the levy for which a territorial authority becomes liable is due and payable to the chief executive by the 20th day of the month following the month in which the relevant building consent was granted.
 (3) Every payment of the levy must be accompanied by a certificate of the territorial authority, or of an officer or agent of the territorial authority, that states that the payment is correct—
   (a) according to the financial records of the territorial authority; and
@@ -1079,7 +1079,7 @@ If a levy has already been paid for building work for which a building consent i
     (ii) for the period of each month, or part of a month, starting on the date payment is due and ending on the date payment is made.
 
 ### 62 Territorial authority may recover unpaid levies from applicant for building consent
-(1) The consequence specified in subsection (2) applies if an applicant for a building consent fails to pay a levy or part of a levy under section 53 by the time referred to in section 53(2)(b)(ii).
+(1) The consequence specified in subsection (2) applies if an applicant for a building consent fails to pay a levy or part of a levy under section 53 by the time referred to in section 53(2)﻿(b)﻿(ii).
 (2) The consequence is that the territorial authority may recover, as a debt due from the applicant, the amount of those levies and any interest on that amount calculated—
   (a) in monthly instalments at the monthly basic lending rate of the territorial authority's bank; and
   (b) for the period of each month, or part of a month, starting on the date payment is due and ending on the date payment is made.
@@ -1105,7 +1105,7 @@ If a levy has already been paid for building work for which a building consent i
     (ii) financial records; and
   (b) examine those records; and
   (c) make copies of those records.
-(3) A territorial authority must, on being advised of a requirement under subsection (2)(a), comply immediately with that requirement.
+(3) A territorial authority must, on being advised of a requirement under subsection (2)﻿(a), comply immediately with that requirement.
 (4) The chief executive's authorised officers or agents must report to the chief executive the result of any examination that they have conducted under subsection (2).
 
 ### 65 Chief executive may enter into agreements for auditing certain information
@@ -1141,7 +1141,7 @@ If a territorial authority grants a building consent subject to a waiver or modi
 (2) If this section applies,—
   (a) the application must be made to a territorial authority; and
   (b) the territorial authority must refer the part of the application that relates to energy work to the chief executive.
-(3) If any part of the application is referred to the chief executive under subsection (2)(b), the chief executive must—
+(3) If any part of the application is referred to the chief executive under subsection (2)﻿(b), the chief executive must—
   (a) consult with the chief executive of the department of State responsible for the administration of the Gas Act 1992 and the Electricity Act 1992; and
   (b) decide—
     (i) whether to grant the waiver or modification in relation to the energy work; and
@@ -1178,8 +1178,8 @@ Despite section 71, a building consent authority that is a territorial authority
   (a) in the case of an application made by, or on behalf of, the Crown, the appropriate Minister and the Surveyor-General; and
   (b) in the case of an application made by, or on behalf of, the owners of Māori land, the Registrar of the Maori Land Court; and
   (c) in any other case, the Registrar-General of Land.
-(2) The notification under subsection (1)(a) or (b) must be accompanied by a copy of any project information memorandum that has been issued and that relates to the building consent in question.
-(3) The notification under subsection (1)(c) must identify the natural hazard concerned.
+(2) The notification under subsection (1)﻿(a) or (b) must be accompanied by a copy of any project information memorandum that has been issued and that relates to the building consent in question.
+(3) The notification under subsection (1)﻿(c) must identify the natural hazard concerned.
 
 ### 74 Steps after notification
 (1) On receiving a notification under section 73,—
@@ -1187,9 +1187,9 @@ Despite section 71, a building consent authority that is a territorial authority
   (b) the Registrar-General of Land must record, as an entry on the certificate of title to the land on which the building work is carried out,—
     (i) that a building consent has been granted under section 72; and
     (ii) particulars that identify the natural hazard concerned.
-(2) If an entry has been recorded on a duplicate of the certificate of title referred to in subsection (1)(b) under section 641A of the Local Government Act 1974 or section 36 of the former Act, the Registrar-General of Land does not need to record another entry on the duplicate.
+(2) If an entry has been recorded on a duplicate of the certificate of title referred to in subsection (1)﻿(b) under section 641A of the Local Government Act 1974 or section 36 of the former Act, the Registrar-General of Land does not need to record another entry on the duplicate.
 (3) Subsection (4) applies if a building consent authority determines that any of the following entries is no longer required:
-  (a) an entry referred to in subsection (1)(b):
+  (a) an entry referred to in subsection (1)﻿(b):
   (b) an entry under section 641A of the Local Government Act 1974:
   (c) an entry under section 36 of the former Act.
 (4) The building consent authority must notify the Surveyor-General, the Registrar of the Maori Land Court, or the Registrar-General of Land, as the case may be, who must amend his or her records or remove the entry from the certificate of title.
@@ -1206,7 +1206,7 @@ Despite section 71, a building consent authority that is a territorial authority
 (1) Section 75 does not apply if—
   (a) the owner proposes to construct a building with party walls that will be on the boundaries of the allotments referred to in that section; or
   (b) the owner has applied to the Registrar-General of Land under section 82 for the Registrar's consent to the preparation of a plan (as defined by that section).
-(2) Section 82 applies if subsection (1)(b) applies.
+(2) Section 82 applies if subsection (1)﻿(b) applies.
 
 ### 77 Building consent must not be granted until condition is imposed under section 75
 (1) A building consent authority must not grant a building consent for building work to which section 75 applies until the territorial authority has issued the certificate under section 75(2).
@@ -1260,10 +1260,10 @@ If an entry referred to in section 78(1) is recorded on the certificates of titl
     (i) authenticated by the territorial authority; and
     (ii) signed by the owner; and
   (b) the certificate must be lodged with the Registrar-General of Land.
-(4) If a certificate referred to in subsection (3)(b) is lodged with the Registrar-General of Land, he or she must record an appropriate entry on—
+(4) If a certificate referred to in subsection (3)﻿(b) is lodged with the Registrar-General of Land, he or she must record an appropriate entry on—
   (a) the certificate of title for each allotment or part of the allotment; and
   (b) any mortgage, charge, or lien whose application was extended to additional land under section 80.
-(5) If subsection (4)(b) applies, any mortgage, charge, or lien whose application was extended to additional land under section 80 ceases to apply to that additional land.
+(5) If subsection (4)﻿(b) applies, any mortgage, charge, or lien whose application was extended to additional land under section 80 ceases to apply to that additional land.
 (6) The Registrar-General of Land does not need to record the entry on the duplicate certificate of title unless that duplicate has had an entry recorded on it under—
   (a) section 78; or
   (b) section 643 of the Local Government Act 1974; or
@@ -1282,7 +1282,7 @@ All restricted building work must be carried out or supervised by a licensed bui
 (2) A person who is a licensed building practitioner commits an offence if he or she—
   (a) carries out restricted building work and is not licensed to carry out restricted building work of that kind; or
   (b) supervises restricted building work and is not licensed to carry out or supervise the carrying out of restricted building work of that kind.
-(3) Subsection (1) and (2)(a) do not apply to a person to whom the owner-builder exemption applies in respect of the restricted building work in question.
+(3) Subsection (1) and (2)﻿(a) do not apply to a person to whom the owner-builder exemption applies in respect of the restricted building work in question.
 (4) A person who commits an offence under this section is liable to a fine not exceeding $20,000.
 
 ### 86 Offence to engage another person to carry out or supervise restricted building work if person is not licensed building practitioner
@@ -1302,12 +1302,12 @@ All restricted building work must be carried out or supervised by a licensed bui
 ### 87 Owner must notify names of licensed building practitioners engaged in restricted building work
 (1) Before restricted building work commences under a building consent, the owner must give the building consent authority written notice of the name of every licensed building practitioner who—
   (a) is engaged to carry out, or supervise, the restricted building work under the building consent; and
-  (b) was not stated in the application for the building consent under section 45(1)(e).
+  (b) was not stated in the application for the building consent under section 45(1)﻿(e).
 (2) After any restricted building work commences under a building consent, the owner must give the building consent authority a written notice if—
   (a) a licensed building practitioner ceases to be engaged to carry out, or supervise, the restricted building work under the building consent; or
   (b) another licensed building practitioner is engaged to carry out, or supervise, the restricted building work.
 (3) The notice under subsection (2) must—
-  (a) state that 1 or both of the circumstances specified in subsection (2)(a) and (b) apply; and
+  (a) state that 1 or both of the circumstances specified in subsection (2)﻿(a) and (b) apply; and
   (b) be given as soon as practicable; and
   (c) name the other licensed building practitioner concerned (if any).
 (4) This section does not apply in the case of a licensed building practitioner who, as an unpaid friend or family member of an owner-builder, is engaged to assist the owner-builder in carrying out restricted building work.
@@ -1320,7 +1320,7 @@ All restricted building work must be carried out or supervised by a licensed bui
   (b) when the owner-builder ceases to carry out the restricted building work.
 (4) A notice under this section must—
   (a) be in the prescribed form; and
-  (b) if it is a notice required under subsection (2) or (3)(a), be accompanied by a statutory declaration as to owner-builder status; and
+  (b) if it is a notice required under subsection (2) or (3)﻿(a), be accompanied by a statutory declaration as to owner-builder status; and
   (c) be given—
     (i) before the building work begins, if it is a notice required by subsection (2):
     (ii) as soon as practicable, if it is a notice required by subsection (3).
@@ -1335,7 +1335,7 @@ All restricted building work must be carried out or supervised by a licensed bui
 (4) A record of work given under subsection (1) does not, of itself,—
   (a) create any liability in relation to any matter to which the record of work relates; or
   (b) give rise to any civil liability to the owner that would not otherwise exist if the licensed building practitioner were not required to provide the record of work.
-(5) Subsection (4) does not limit section 362I(1)(c).
+(5) Subsection (4) does not limit section 362I(1)﻿(c).
 
 **Other provisions relating to building work generally**
 
@@ -1367,10 +1367,10 @@ The purpose of this subpart is to enable homeowners to build and alter their own
   (b) resides, or intends to reside, in the household unit in relation to which the restricted building work is carried out; and
   (c) carries out the restricted building work himself or herself or with the assistance of his or her unpaid friends and family members; and
   (d) has not, under the owner-builder exemption, carried out restricted building work in relation to a different household unit within the previous 3 years.
-(2) For the purposes of subsection (1)(b), reside includes temporarily reside.
+(2) For the purposes of subsection (1)﻿(b), reside includes temporarily reside.
 
 ### 90C Meaning of relevant interest
-For the purposes of section 90B(1)(a), relevant interest, in relation to the land or the building on which restricted building work is carried out, means a legal or equitable interest in the land or building; and includes—
+For the purposes of section 90B(1)﻿(a), relevant interest, in relation to the land or the building on which restricted building work is carried out, means a legal or equitable interest in the land or building; and includes—
   (a) a right of occupancy of the land or building or part of the building; or
   (b) a right, power, or privilege over, or in connection with, the land or building.
 
@@ -1408,7 +1408,7 @@ For the purposes of section 90B(1)(a), relevant interest, in relation to the lan
 (1) A building consent authority must decide whether to issue a code compliance certificate for building work to which a building consent relates within—
   (a) 20 working days after the date specified in subsection (2); or
   (b) any further period after the date specified in subsection (2) that may be agreed between the owner and the building consent authority concerned.
-(2) The date referred to in subsection (1)(a) and (b) is—
+(2) The date referred to in subsection (1)﻿(a) and (b) is—
   (a) the date on which an application for a code compliance certificate is made under section 92; or
   (b) if no application is made, the expiry of—
     (i) 2 years after the date on which the building consent for the building work was granted; or
@@ -1467,7 +1467,7 @@ An application for a certificate of acceptance must—
     (ii) if the regulations do not so require, required by the territorial authority; and
   (c) contain or be accompanied by any other information that the territorial authority reasonably requires; and
   (d) be accompanied by any fees and charges imposed by the territorial authority under section 219; and
-  (e) in the case of an application under section 96(1)(a), be accompanied by any fees, charges, or levies that would have been payable had the owner, or the owner's predecessor in title, applied for a building consent before carrying out the building work; and
+  (e) in the case of an application under section 96(1)﻿(a), be accompanied by any fees, charges, or levies that would have been payable had the owner, or the owner's predecessor in title, applied for a building consent before carrying out the building work; and
   (f) if a project information memorandum for the building work has been issued under section 34, be accompanied by the project information memorandum; and
   (g) if a compliance schedule is required as a result of the building work, have attached to it a list of all specified systems for the building; or
   (h) if an amendment to an existing compliance schedule is required as a result of the building work, have attached to it a list of all specified systems that are being—
@@ -1543,7 +1543,7 @@ If a territorial authority refuses to grant an application for a certificate of 
   (a) state and describe each of the specified systems covered by the compliance schedule, including a statement of the type and (if known) make of each specified system; and
   (b) state the performance standards for the specified systems; and
   (c) describe the inspection, maintenance, and reporting procedures to be followed by independently qualified persons or other persons in respect of the specified systems to ensure that those systems are capable of, and are, performing to the performance standards.
-(2) For the purposes of subsection (1)(c), the inspection, maintenance, and reporting procedures of the compliance schedule may be identified—
+(2) For the purposes of subsection (1)﻿(c), the inspection, maintenance, and reporting procedures of the compliance schedule may be identified—
   (a) by description in the compliance schedule; or
   (b) by reference to—
     (i) a prescribed acceptable solution or prescribed verification method in a regulation referred to in section 20; or
@@ -1577,7 +1577,7 @@ An owner of a building for which a compliance schedule has been issued must ensu
   (b) as a result of an amendment to this Act or any regulation made under it, the compliance schedule—
     (i) no longer complies with the requirements of this Act or any regulations made under it; or
     (ii) contains information that is no longer required under this Act or any regulations made under it.
-(2A) An application under subsection (2)(b) must be made before the next anniversary of the issue of the compliance schedule following the amendment of the Act or regulation that results in the compliance schedule becoming non-compliant or containing information that is no longer required.
+(2A) An application under subsection (2)﻿(b) must be made before the next anniversary of the issue of the compliance schedule following the amendment of the Act or regulation that results in the compliance schedule becoming non-compliant or containing information that is no longer required.
 (3) The owner must—
   (a) apply for the amendment in the prescribed form; and
   (b) provide any information that the territorial authority reasonably requires in relation to the application; and
@@ -1621,10 +1621,10 @@ An owner of a building for which a compliance schedule has been issued must ensu
   (b) displays a false or misleading building warrant of fitness; or
   (c) displays a building warrant of fitness otherwise than in accordance with this section.
 (6) A person who commits an offence under this section is liable on conviction to a fine not exceeding $20,000.
-(7) In subsection (3)(d), a reference to an independently qualified person is a reference to the independently qualified person or independently qualified persons who carried out or supervised the inspection, maintenance, and reporting procedures stated in the compliance schedule during the previous 12 months.
+(7) In subsection (3)﻿(d), a reference to an independently qualified person is a reference to the independently qualified person or independently qualified persons who carried out or supervised the inspection, maintenance, and reporting procedures stated in the compliance schedule during the previous 12 months.
 
 ### 109 Territorial authority must consider recommendation to amend compliance schedule
-A territorial authority must, in relation to a recommendation made by an independently qualified person under section 108(3)(d) for a compliance schedule to be amended,—
+A territorial authority must, in relation to a recommendation made by an independently qualified person under section 108(3)﻿(d) for a compliance schedule to be amended,—
   (a) give the owner of the building concerned a reasonable opportunity to make written submissions on the recommendation; and
   (b) consider those submissions (if any); and
   (c) decide whether to—
@@ -1743,12 +1743,12 @@ In sections 118 to 120, unless the context otherwise requires, building includes
     (ii) a standard specification that is in substitution for the standard specification referred to in paragraph (a) that is adopted by the order.
 (2) A standard specification to which this section applies is to be taken as an acceptable solution.
 (3) The Governor-General may, by Order in Council made on the recommendation of the Minister, adopt—
-  (a) an amendment to the standard specification referred to in subsection (1)(a); or
+  (a) an amendment to the standard specification referred to in subsection (1)﻿(a); or
   (b) a standard specification that is in substitution for the standard specification referred to in that subsection.
-(4) The Minister must, no later than 6 months after the date on which an amendment or a standard specification is promulgated by the Standards Council,—
+(4) The Minister must, no later than 6 months after the date on which an amendment or a standard specification is promulgated by the NZ Standards Organisation,—
   (a) make a recommendation under subsection (3) in relation to the amendment or standard specification; or
   (b) decide not to make a recommendation.
-(5) In this section, Standards Council means the Standards Council continued in existence under section 3 of the Standards Act 1988.
+(5) In this section, NZ Standards Organisation has the meaning given to it in section 4(1) of the Standards and Accreditation Act 2015.
 
 ### 120 Symbols of access must be displayed
 If any provision required by section 118 is made at a building in compliance with that section, a notice or sign that indicates in accordance with the international symbols of access that provision is made for the needs of persons with disabilities must be displayed outside the building or so as to be visible from outside it.
@@ -1763,7 +1763,7 @@ If any provision required by section 118 is made at a building in compliance wit
     (i) injury or death (whether by collapse or otherwise) to any persons in it or to persons on other property; or
     (ii) damage to other property; or
   (b) in the event of fire, injury or death to any persons in the building or to persons on other property is likely.
-(2) For the purpose of determining whether a building is dangerous in terms of subsection (1)(b), a territorial authority—
+(2) For the purpose of determining whether a building is dangerous in terms of subsection (1)﻿(b), a territorial authority—
   (a) may seek advice from members of the New Zealand Fire Service who have been notified to the territorial authority by the Fire Service National Commander as being competent to give advice; and
   (b) if the advice is sought, must have due regard to the advice.
 
@@ -1805,13 +1805,13 @@ A building is insanitary for the purposes of this Act if the building—
 (3) This section does not limit the powers of a territorial authority.
 
 ### 125 Requirements for notice requiring building work or restricting entry
-(1) A notice issued under section 124(2)(c) must—
+(1) A notice issued under section 124(2)﻿(c) must—
   (a) be in writing; and
   (b) be fixed to the building in question; and
   (c) be given in the form of a copy to the persons listed in subsection (2); and
   (d) state the time within which the building work must be carried out, which must not be less than a period of 10 days after the notice is given or a period reasonably sufficient to obtain a building consent if one is required, whichever period is longer; and
   (e) state whether the owner of the building must obtain a building consent in order to carry out the work required by the notice.
-(1A) A notice issued under section 124(2)(d)—
+(1A) A notice issued under section 124(2)﻿(d)—
   (a) must be in writing; and
   (b) must be fixed to the building in question; and
   (c) must be given in the form of a copy to the persons listed in subsection (2); and
@@ -1827,7 +1827,7 @@ A building is insanitary for the purposes of this Act if the building—
 (3) However, the notice, if fixed on the building, is not invalid because a copy of it has not been given to any or all of the persons referred to in subsection (2).
 
 ### 126 Territorial authority may carry out work
-(1) A territorial authority may apply to a District Court for an order authorising the territorial authority to carry out building work if any work required under a notice issued by the territorial authority under section 124(2)(c) is not completed, or not proceeding with reasonable speed, within—
+(1) A territorial authority may apply to a District Court for an order authorising the territorial authority to carry out building work if any work required under a notice issued by the territorial authority under section 124(2)﻿(c) is not completed, or not proceeding with reasonable speed, within—
   (a) the time stated in the notice; or
   (b) any further time that the territorial authority may allow.
 (2) Before the territorial authority applies to a District Court under subsection (1), the territorial authority must give the owner of the building not less than 10 days' written notice of its intention to do so.
@@ -1837,19 +1837,19 @@ A building is insanitary for the purposes of this Act if the building—
   (c) the amount recoverable by the territorial authority becomes a charge on the land on which the work was carried out.
 
 ### 127 Building work includes demolition of building
-Any work required or authorised to be done under section 124(2)(c) or section 126 may include the demolition of all or part of a building.
+Any work required or authorised to be done under section 124(2)﻿(c) or section 126 may include the demolition of all or part of a building.
 
 ### 128 Prohibition on using dangerous, affected, earthquake-prone, or insanitary building
 (1) This section applies if a territorial authority has done any of the following:
-  (a) put up a hoarding or fence in relation to a building under section 124(2)(a):
-  (b) attached a notice warning people not to approach a building under section 124(2)(b):
-  (c) issued a notice restricting entry to a building under section 124(2)(d).
-(2) In any case to which this section applies, and except as permitted by section 124(2)(d), no person may—
+  (a) put up a hoarding or fence in relation to a building under section 124(2)﻿(a):
+  (b) attached a notice warning people not to approach a building under section 124(2)﻿(b):
+  (c) issued a notice restricting entry to a building under section 124(2)﻿(d).
+(2) In any case to which this section applies, and except as permitted by section 124(2)﻿(d), no person may—
   (a) use or occupy the building; or
   (b) permit another person to use or occupy the building.
 
 ### 128A Offences in relation to dangerous, affected, earthquake-prone, or insanitary buildings
-(1) A person who fails to comply with a notice issued under section 124(2)(c) that is given to that person under section 125(2)—
+(1) A person who fails to comply with a notice issued under section 124(2)﻿(c) that is given to that person under section 125(2)—
   (a) commits an offence; and
   (b) is liable to a fine not exceeding $200,000.
 (2) A person who fails to comply with section 128(2)—
@@ -1879,7 +1879,7 @@ Any work required or authorised to be done under section 124(2)(c) or section 12
   (a) the owner of the building concerned notifies the territorial authority that—
     (i) the owner does not dispute the entry into the owner's land; and
     (ii) confirmation of the warrant by a District Court is not required; and
-  (b) the owner pays the costs referred to in section 129(3)(a).
+  (b) the owner pays the costs referred to in section 129(3)﻿(a).
 
 **Policy on dangerous, earthquake-prone, and insanitary buildings**
 
@@ -1928,8 +1928,8 @@ For the purposes of this Act and any regulations made under it, the height of a 
 ### 133C Obligation to notify regional authority of classifiable or referable dam and change of ownership
 (1) The owner of a classifiable or referable dam must notify the regional authority in whose region the dam is situated of the size and location of the dam.
 (2) The owner must notify the regional authority,—
-  (a) in the case of a dam commissioned before the commencement of the regulations referred to in section 135(2)(a), within 3 months after the commencement of those regulations; or
-  (b) in the case of a dam commissioned after the commencement of the regulations referred to in section 135(2)(a), within 3 months after the dam is commissioned.
+  (a) in the case of a dam commissioned before the commencement of the regulations referred to in section 135(2)﻿(a), within 3 months after the commencement of those regulations; or
+  (b) in the case of a dam commissioned after the commencement of the regulations referred to in section 135(2)﻿(a), within 3 months after the dam is commissioned.
 (3) If the ownership of a classifiable or referable dam that must be notified under subsection (1) changes, the transferring owner must notify the regional authority of the change of ownership within 3 months of the change.
 
 **Classification of dams**
@@ -1972,7 +1972,7 @@ A person to whom section 134 applies who fails to classify the dam in accordance
   (b) if the dam is commissioned after the commencement of this Part, 3 months after the date on which the dam was commissioned.
 
 ### 135A Certifying engineer must notify regional authority and owner if dam dangerous
-(1) An engineer engaged to provide a certificate for the purposes of section 135(1)(b), 142(1)(b), or 150(2)(f) must notify the regional authority and the owner of the dam if he or she believes that the dam is dangerous.
+(1) An engineer engaged to provide a certificate for the purposes of section 135(1)﻿(b), 142(1)﻿(b), or 150(2)﻿(f) must notify the regional authority and the owner of the dam if he or she believes that the dam is dangerous.
 (2) The notice must be—
   (a) in writing; and
   (b) given within 5 working days after the engineer forms the belief in question.
@@ -1982,13 +1982,13 @@ A person to whom section 134 applies who fails to classify the dam in accordance
 (1) A regional authority must, as soon as practicable after receiving a classification given by an owner to a dam under section 135, give written notice to the owner as to whether the regional authority—
   (a) approves the classification; or
   (b) refuses to approve the classification.
-(2) A regional authority may refuse to approve a classification only if the regional authority is satisfied, on reasonable grounds, that the engineer who provided the certificate referred to in section 135(1)(b) is not a recognised engineer.
+(2) A regional authority may refuse to approve a classification only if the regional authority is satisfied, on reasonable grounds, that the engineer who provided the certificate referred to in section 135(1)﻿(b) is not a recognised engineer.
 
 ### 137 Dam classification provided to regional authority by accredited dam owner deemed to have been approved
 Despite sections 134 to 136,—
   (a) an accredited dam owner is not required to—
     (i) submit a classification given to a dam by the accredited dam owner for audit; and
-    (ii) provide the regional authority with the certificate referred to in section 135(1)(b); and
+    (ii) provide the regional authority with the certificate referred to in section 135(1)﻿(b); and
   (b) the classification given to a dam by the accredited dam owner is deemed, on receipt of the classification by the regional authority, to have been approved by that regional authority under section 136.
 
 ### 138 Regional authority must require re-audit of dam classification that it refuses to approve
@@ -1996,12 +1996,12 @@ Despite sections 134 to 136,—
   (a) the regional authority must direct the owner to have the classification audited by a recognised engineer; and
   (b) the owner must, within the time required by subsection (2), submit to the regional authority—
     (i) a re-audited classification; and
-    (ii) a certificate from the recognised engineer that meets the requirements in section 135(1)(b).
+    (ii) a certificate from the recognised engineer that meets the requirements in section 135(1)﻿(b).
 (2) The time required is—
   (a) 15 working days after the date on which the regional authority refused to approve the classification; or
   (b) any later date that the regional authority in any particular case may allow.
 (3) Subsection (1) and section 136 apply, with all necessary modifications, to a re-audited classification.
-(4) A person commits an offence if the person fails to comply with a regional authority's direction under subsection (1)(a).
+(4) A person commits an offence if the person fails to comply with a regional authority's direction under subsection (1)﻿(a).
 (5) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
 
 ### 139 Owner must review dam classification
@@ -2049,13 +2049,13 @@ A dam safety assurance programme must—
 (1) A regional authority must, as soon as practicable after receiving a dam safety assurance programme, give written notice to the relevant owner as to whether the regional authority—
   (a) approves the dam safety assurance programme; or
   (b) refuses to approve the dam safety assurance programme.
-(2) A regional authority may refuse to approve a dam safety assurance programme only if the regional authority is satisfied, on reasonable grounds, that the engineer who provided the certificate referred to in section 142(1)(b) is not a recognised engineer.
+(2) A regional authority may refuse to approve a dam safety assurance programme only if the regional authority is satisfied, on reasonable grounds, that the engineer who provided the certificate referred to in section 142(1)﻿(b) is not a recognised engineer.
 
 ### 144 Dam safety assurance programme provided to regional authority by accredited dam owner deemed to have been approved
 Despite sections 140 to 143,—
   (a) an accredited dam owner is not required to—
     (i) submit the owner's dam safety assurance programme for audit; and
-    (ii) provide the regional authority with the certificate referred to in section 142(1)(b); and
+    (ii) provide the regional authority with the certificate referred to in section 142(1)﻿(b); and
   (b) the dam safety assurance programme provided to the regional authority by the accredited dam owner is deemed, on its receipt by the regional authority, to have been approved by that regional authority under section 143.
 
 ### 145 Regional authority must require re-audit of dam safety assurance programme that it refuses to approve
@@ -2063,12 +2063,12 @@ Despite sections 140 to 143,—
   (a) the regional authority must direct the owner of the dam concerned to have the dam safety assurance programme audited by a recognised engineer; and
   (b) the owner must, within the time required by subsection (2), submit to the regional authority—
     (i) a re-audited dam safety assurance programme; and
-    (ii) a certificate from the recognised engineer that meets the requirements of section 142(1)(b).
+    (ii) a certificate from the recognised engineer that meets the requirements of section 142(1)﻿(b).
 (2) The time required is—
   (a) 15 working days after the date on which the regional authority refused to approve the dam safety assurance programme; or
   (b) any later date that the regional authority in any particular case may allow.
 (3) Subsection (1) and section 143 apply, with all necessary modifications, to a re-audited dam safety assurance programme.
-(4) A person commits an offence if the person fails to comply with a direction under subsection (1)(a).
+(4) A person commits an offence if the person fails to comply with a direction under subsection (1)﻿(a).
 (5) A person who commits an offence under this section is liable on conviction to a fine not exceeding $10,000.
 
 ### 146 Review of dam safety assurance programme
@@ -2119,7 +2119,7 @@ An owner of a dam for which a dam safety assurance programme has been approved, 
   (c) has—
     (i) the prescribed qualifications; and
     (ii) the prescribed competencies.
-(2) In subsection (1)(a), financial interest does not include—
+(2) In subsection (1)﻿(a), financial interest does not include—
   (a) involvement in the construction of the dam as a fully paid engineer; or
   (b) entitlement to a fee for undertaking an audit; or
   (c) employment or engagement as an engineer by the owner of the dam concerned.
@@ -2186,11 +2186,11 @@ The owner of a dam who has reasonable grounds for believing that the dam is, or 
   (b) attach in a prominent place on, or adjacent to, the dam a notice that warns people not to approach the dam:
   (c) give written notice requiring work to be carried out on the dam, within a time stated in the notice (which must not be less than 10 days after the notice is given under section 155), to reduce or remove the danger.
 (2) This section does not limit the powers of a regional authority under this Part.
-(3) A person commits an offence if the person fails to comply with a notice given under subsection (1)(c).
+(3) A person commits an offence if the person fails to comply with a notice given under subsection (1)﻿(c).
 (4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000.
 
 ### 155 Requirements for notice given under section 154
-(1) A notice given under section 154(1)(c) must—
+(1) A notice given under section 154(1)﻿(c) must—
   (a) be fixed to the dam concerned; and
   (b) state whether the owner of the dam must obtain a building consent in order to carry out the work required by the notice.
 (2) A copy of the notice must be given to—
@@ -2203,7 +2203,7 @@ The owner of a dam who has reasonable grounds for believing that the dam is, or 
 (3) However, the notice, if fixed on the dam, is not invalid because a copy of it has not been given to any or all of the persons referred to in subsection (2).
 
 ### 156 Regional authority may carry out work
-(1) A regional authority may apply to a District Court for an order authorising the regional authority to carry out building work if any work required under a notice given by the regional authority under section 154(1)(c) is not completed, or not proceeding with reasonable speed, within—
+(1) A regional authority may apply to a District Court for an order authorising the regional authority to carry out building work if any work required under a notice given by the regional authority under section 154(1)﻿(c) is not completed, or not proceeding with reasonable speed, within—
   (a) the time stated in the notice; or
   (b) any further time that the regional authority may allow.
 (2) Before the regional authority applies to a District Court under subsection (1), the regional authority must give the owner of the dam not less than 10 days' written notice of its intention to do so.
@@ -2231,10 +2231,10 @@ The owner of a dam who has reasonable grounds for believing that the dam is, or 
   (a) the owner of the dam concerned notifies the regional authority that—
     (i) the owner does not dispute the entry into the owner's land; and
     (ii) confirmation of the warrant by a District Court is not required; and
-  (b) the owner pays the costs referred to in section 157(3)(a).
+  (b) the owner pays the costs referred to in section 157(3)﻿(a).
 
 ### 159 Building work includes decommissioning and demolition of dam
-Any work required or authorised to be carried out under section 154(1)(c), or action taken under section 157, may include the decommissioning and demolition of a dam.
+Any work required or authorised to be carried out under section 154(1)﻿(c), or action taken under section 157, may include the decommissioning and demolition of a dam.
 
 ### 160 Power of regional authority not limited
 The provisions of sections 154 to 159 are in addition to, and do not limit, the powers of a regional authority under section 157.
@@ -2307,13 +2307,13 @@ In this subpart, unless the context otherwise requires,—
 (2) After the building work has been inspected under subsection (1), the territorial authority or regional authority must, by written notice to the specified person concerned, either—
   (a) confirm that the notice to fix has been complied with; or
   (b) refuse to confirm that the notice to fix has been complied with.
-(3) The territorial authority or regional authority must, on giving the confirmation under subsection (2)(a), forward a copy of the confirmation to the responsible authority that issued the notice to fix (if that responsible authority is different from the territorial authority or regional authority).
-(4) If the territorial authority or regional authority refuses, under subsection (2)(b), to confirm that a notice to fix has been complied with, the territorial authority or regional authority must—
+(3) The territorial authority or regional authority must, on giving the confirmation under subsection (2)﻿(a), forward a copy of the confirmation to the responsible authority that issued the notice to fix (if that responsible authority is different from the territorial authority or regional authority).
+(4) If the territorial authority or regional authority refuses, under subsection (2)﻿(b), to confirm that a notice to fix has been complied with, the territorial authority or regional authority must—
   (a) give the specified person concerned written notice of—
     (i) the refusal; and
     (ii) the reasons for the refusal; and
   (b) issue a further notice to fix in respect of the building work.
-(5) Section 164 applies to a notice to fix issued under subsection (4)(b).
+(5) Section 164 applies to a notice to fix issued under subsection (4)﻿(b).
 
 ### 168 Offence not to comply with notice to fix
 (1) A person commits an offence if the person fails to comply with a notice to fix.
@@ -2366,7 +2366,7 @@ The chief executive must, in performing his or her functions, consult with,—
     (i) take into account the need for members of the panel to have among them a breadth of experience and expertise, and knowledge of, or experience in, matters that come within the panel's function (including, without limitation, matters that relate to consumer, cultural, disability, energy efficiency, health and safety, heritage, or sustainable development issues); and
     (ii) ensure that there is an appropriate balance in the membership of the panel so that the members represent a broad range of interests, rather than the interests of a particular group; and
     (iii) consult, as the chief executive considers appropriate, persons who have an expertise or interest in matters that come within the panel's function.
-(3) The chief executive may, at any time, co-opt suitable persons onto the panel if doing so is necessary for the purposes of subsection (2)(b)(i) and (ii).
+(3) The chief executive may, at any time, co-opt suitable persons onto the panel if doing so is necessary for the purposes of subsection (2)﻿(b)﻿(i) and (ii).
 (4) The terms on which a member of the panel is appointed are the terms set by the chief executive when appointing the member.
 (5) A member must not be appointed for a term that exceeds 3 years, but may be reappointed for 1 more term.
 (6) A member of the panel may resign by written notice to the chief executive.
@@ -2425,14 +2425,14 @@ In sections 177 to 190, party, in relation to a determination, means any or all 
 (1) A party may apply to the chief executive for a determination in relation to either or both of the following:
   (a) whether particular matters comply with the building code:
   (b) the exercise, failure or refusal to exercise, or proposed or purported exercise by an authority in subsection (2), (3), or (4) of a power of decision to which this paragraph applies by virtue of that subsection.
-(2) Subsection (1)(b) applies to any power of decision of a building consent authority in respect of all or any of the following:
+(2) Subsection (1)﻿(b) applies to any power of decision of a building consent authority in respect of all or any of the following:
   (a) a building consent:
   (b) an extension under section 52(b) of the period during which building work must be commenced before a building consent lapses:
-  (c) an extension under section 93(2)(b)(ii) of the period during which the authority must decide whether to issue a code compliance certificate:
+  (c) an extension under section 93(2)﻿(b)﻿(ii) of the period during which the authority must decide whether to issue a code compliance certificate:
   (d) a code compliance certificate:
   (e) a compliance schedule:
   (f) a notice to fix.
-(3) Subsection (1)(b) applies to any power of decision of a territorial authority in respect of, or under, all or any of the following:
+(3) Subsection (1)﻿(b) applies to any power of decision of a territorial authority in respect of, or under, all or any of the following:
   (a) any waiver or modification of the building code under section 67:
   (b) a certificate of acceptance under section 96:
   (c) an exemption from building consent requirements under paragraph (k) of Schedule 1:
@@ -2441,8 +2441,8 @@ In sections 177 to 190, party, in relation to a determination, means any or all 
   (f) sections 112, 113, 115, and 116 (which relate to alterations to, or changes in the use of, a building) and 124 and 129 (which relate to dangerous, earthquake-prone, and insanitary buildings):
   (g) a certificate for public use under section 363A:
   (h) a certificate under section 224(f) of the Resource Management Act 1991.
-(4) Subsection (1)(b) applies to any power of decision under this Act of a regional authority in respect of a dam.
-(5) Nothing in this section limits or affects section 70(4) or 446(1)(c).
+(4) Subsection (1)﻿(b) applies to any power of decision under this Act of a regional authority in respect of a dam.
+(5) Nothing in this section limits or affects section 70(4) or 446(1)﻿(c).
 
 ### 178 Requirements for application for determination
 (1) An application for a determination must—
@@ -2506,7 +2506,7 @@ The chief executive must, within 10 working days after the date on which he or s
 (2) The time required is—
   (a) 60 working days after the date on which the chief executive receives the application; or
   (b) any further time that the chief executive and the parties may agree.
-(3) If the chief executive requires a party to provide documents under section 186(3)(a), the period specified in subsection (2)(a) does not include the period that—
+(3) If the chief executive requires a party to provide documents under section 186(3)﻿(a), the period specified in subsection (2)﻿(a) does not include the period that—
   (a) starts on the day on which the chief executive makes that requirement; and
   (b) ends on the earlier of—
     (i) the day on which the party complies with that requirement; or
@@ -2524,7 +2524,7 @@ The chief executive must, within 10 working days after the date on which he or s
   (b) must require—
     (i) the applicant to provide each of the other parties (if any) with copies of the application and any documents accompanying the application; and
     (ii) the applicant or another party to provide each of the other parties with copies of any documents provided under paragraph (a).
-(4) If the applicant or another party fails to comply with a requirement to provide documents under subsection (3)(a) within the period specified by the chief executive, the chief executive may, at the expiry of that period, make the determination without receiving the documents.
+(4) If the applicant or another party fails to comply with a requirement to provide documents under subsection (3)﻿(a) within the period specified by the chief executive, the chief executive may, at the expiry of that period, make the determination without receiving the documents.
 (5) A submission in respect of an application for a determination received by the chief executive before the chief executive has determined the matter must be considered by the chief executive.
 
 ### 187 Chief executive may engage persons to assist with determination
@@ -2543,7 +2543,7 @@ The chief executive must, within 10 working days after the date on which he or s
 (3) A determination may incorporate—
   (a) waivers or modifications of the building code; and
   (b) conditions that a territorial authority or regional authority, as the case may be, is able to grant or impose.
-(4) Subsection (1) is subject to section 181(2)(b).
+(4) Subsection (1) is subject to section 181(2)﻿(b).
 
 ### 189 Clarification of determination
 The chief executive may, within 20 working days after making a determination, amend the determination to clarify it if—
@@ -2562,14 +2562,14 @@ The chief executive may, within 20 working days after making a determination, am
 **Power of chief executive to register persons as building consent authorities for purposes of this Act**
 
 ### 191 Chief executive may enter person's name in register of building consent authorities
-The chief executive may, on the application of a person made in accordance with section 194, enter the person's name in the register of building consent authorities kept under section 273(1)(a).
+The chief executive may, on the application of a person made in accordance with section 194, enter the person's name in the register of building consent authorities kept under section 273(1)﻿(a).
 
 ### 192 Criteria for registration
 (1) Before entering a person's name in the register of building consent authorities, the chief executive must be satisfied that—
   (a) the person holds a current accreditation from a building consent accreditation body appointed under section 248; and
   (b) the person meets the prescribed criteria and standards for registration; and
   (c) in the case of a person who wishes to be registered as a building consent authority but who is not a territorial authority or a regional authority, the person has adequate means to cover any civil liabilities that may arise in the performance of the functions of a building consent authority.
-(2) In considering whether a person has adequate means to cover any civil liabilities under subsection (1)(c), the chief executive may have regard to whether the person—
+(2) In considering whether a person has adequate means to cover any civil liabilities under subsection (1)﻿(c), the chief executive may have regard to whether the person—
   (a) holds an insurance policy that meets the minimum terms and conditions prescribed by regulations made under section 402; or
   (b) holds an insurance policy under a scheme of insurance approved by regulations made under section 402; or
   (c) has put in place any arrangements that provide for effective consumer protection (for example, by giving a bond or having a guarantor).
@@ -2629,7 +2629,7 @@ The chief executive must, as soon as practicable after receiving an application 
 (2) As soon as practicable after receiving a complaint, the chief executive must—
   (a) inform the building consent authority concerned of the complaint; and
   (b) decide whether to accept or decline the complaint.
-(2A) The chief executive, in considering whether to accept or decline a complaint under subsection (2)(b), is not required to seek any information or submission from the building consent authority, and the building consent authority is not entitled to proffer any information or submission at that stage.
+(2A) The chief executive, in considering whether to accept or decline a complaint under subsection (2)﻿(b), is not required to seek any information or submission from the building consent authority, and the building consent authority is not entitled to proffer any information or submission at that stage.
 (3) The chief executive must, immediately after making a decision under subsection (2),—
   (a) give written notice of the decision to the person who made the complaint and the building consent authority concerned; and
   (b) if the chief executive decides to accept the complaint, proceed to investigate the complaint.
@@ -2670,7 +2670,7 @@ The chief executive must, as soon as practicable after receiving an application 
     (i) suspend the authority's registration and record the suspension in the appropriate register accordingly; or
     (ii) if the chief executive considers that the circumstances warrant it, revoke the authority's registration and remove the authority's name from the register of building consent authorities:
   (e) in the case of a territorial authority or regional authority, recommend to the Minister that the Minister appoint 1 or more persons to act in the place of the territorial authority or, as the case may be, the regional authority in relation to all or any of its functions.
-(3) If subsection (2)(e) applies, sections 277 to 281 apply with all necessary modifications.
+(3) If subsection (2)﻿(e) applies, sections 277 to 281 apply with all necessary modifications.
 (4) If the chief executive takes any action referred to in subsection (2), he or she must give written notice of the action to the building consent authority and the reasons for the action.
 
 **Further powers of chief executive**
@@ -2730,7 +2730,7 @@ An authorised person supplied with a warrant under section 206—
   (a) to provide to the chief executive, within the time and in the manner specified in the notice, any information or class of information specified in the notice; or
   (b) to produce to the chief executive, or to a person specified in the notice who is acting on behalf of the chief executive in accordance with the notice, any document or class of documents specified in the notice (within the time and in the manner specified in the notice); or
   (c) if necessary, to reproduce, or assist in reproducing, in usable form, information recorded or stored in any documents or classes of documents specified in the notice (within the time and in the manner specified in the notice).
-(2) Information provided in response to a notice under subsection (1)(a) must be provided in the manner specified in the notice.
+(2) Information provided in response to a notice under subsection (1)﻿(a) must be provided in the manner specified in the notice.
 (3) If a document is produced in response to a notice under subsection (1), the chief executive, or the person to whom the document is produced, may—
   (a) inspect and make records of that document; and
   (b) take copies of the document or of extracts from the document.
@@ -2749,26 +2749,26 @@ A person who fails to comply with a notice served on that person under section 2
     (ii) take any action referred to in section 203; or
     (iii) refuse to issue a national multiple-use approval.
 (2) The persons are,—
-  (a) in the case of an appeal under subsection (1)(a) or (aa),—
+  (a) in the case of an appeal under subsection (1)﻿(a) or (aa),—
     (i) the applicant for the determination; or
     (ii) any other party; or
-  (b) in the case of an appeal under subsection (1)(b)(i), the applicant for registration; or
-  (c) in the case of an appeal under subsection (1)(b)(ii), the building consent authority concerned; or
-  (d) in the case of an appeal under subsection (1)(b)(iii), the applicant for the national multiple-use approval.
+  (b) in the case of an appeal under subsection (1)﻿(b)﻿(i), the applicant for registration; or
+  (c) in the case of an appeal under subsection (1)﻿(b)﻿(ii), the building consent authority concerned; or
+  (d) in the case of an appeal under subsection (1)﻿(b)﻿(iii), the applicant for the national multiple-use approval.
 
 ### 209 Procedure for commencing appeal
 (1) An appeal under section 208 must be made—
   (a) by the appellant filing a notice of appeal with the Registrar of the District Court within 15 working days after,—
-    (i) in the case of an appeal under section 208(1)(a), the date of the determination or the date on which the chief executive amends the determination by way of clarification under section 189; or
-    (ia) in the case of an appeal under section 208(1)(aa), the date of the written direction given by the chief executive under section 190; or
-    (ii) in the case of an appeal under section 208(1)(b), the date of the relevant decision of the chief executive; and
+    (i) in the case of an appeal under section 208(1)﻿(a), the date of the determination or the date on which the chief executive amends the determination by way of clarification under section 189; or
+    (ia) in the case of an appeal under section 208(1)﻿(aa), the date of the written direction given by the chief executive under section 190; or
+    (ii) in the case of an appeal under section 208(1)﻿(b), the date of the relevant decision of the chief executive; and
   (b) otherwise in accordance with the District Courts Rules (except to any extent that those rules are inconsistent with this section).
-(2) The Registrar of the District Court may extend the time for making an appeal under section 208(1)(a) if the chief executive amends the determination by way of clarification under section 189.
+(2) The Registrar of the District Court may extend the time for making an appeal under section 208(1)﻿(a) if the chief executive amends the determination by way of clarification under section 189.
 
 ### 210 Steps after appeal is commenced
 (1) Either before or immediately after an appeal under section 208 is made, the appellant must serve a copy of the notice of appeal on—
   (a) the chief executive; and
-  (b) in the case of an appeal under section 208(1)(a) or (aa), any other party.
+  (b) in the case of an appeal under section 208(1)﻿(a) or (aa), any other party.
 (2) A person served with the notice under subsection (1) who wishes to appear on the appeal must give notice of the person's intention to appear to—
   (a) the appellant; and
   (b) the Registrar of the District Court; and
@@ -2831,7 +2831,7 @@ A territorial authority must, for the purpose of ensuring that it complies with 
     (ii) building consents:
     (iii) if applicable, the specified intended life of the building:
     (iv) code compliance certificates:
-    (iva) records of work and certificates of work provided by licensed building practitioners under section 45(2) or 88(1)(a):
+    (iva) records of work and certificates of work provided by licensed building practitioners under section 45(2) or 88(1)﻿(a):
     (ivb) statutory declarations provided by owner-builders:
     (ivc) if applicable, the specified intended life of the building:
     (v) compliance schedules:
@@ -2844,8 +2844,8 @@ A territorial authority must, for the purpose of ensuring that it complies with 
   (f) information on how the territorial authority dealt with each of the complaints referred to in paragraph (e); and
   (g) all information provided to the territorial authority by a building consent authority under section 238.
 (3) A territorial authority must keep the information referred to in—
-  (a) subsections (1) and (2)(a) to (d) and (g), at least for the life of the building to which the information relates; and
-  (b) subsection (2)(e) and (f), at least for 10 years from when each complaint was received by the territorial authority.
+  (a) subsections (1) and (2)﻿(a) to (d) and (g), at least for the life of the building to which the information relates; and
+  (b) subsection (2)﻿(e) and (f), at least for 10 years from when each complaint was received by the territorial authority.
 
 ### 217 Access to certain information kept by territorial authority
 (1) A person—
@@ -2858,7 +2858,7 @@ A territorial authority must, for the purpose of ensuring that it complies with 
     (ii) the owner of the building to which the plan or specification relates:
     (iii) any subsequent owner of that building; and
   (c) is subject to any prescribed limits.
-(3) The reason referred to in subsection (2)(b) is any requirement of the owner of the building relating to the security of the building.
+(3) The reason referred to in subsection (2)﻿(b) is any requirement of the owner of the building relating to the security of the building.
 (4) A territorial authority—
   (a) must make photocopying facilities available to persons who wish to access information under subsection (1); and
   (b) may charge a reasonable fee for the use of those facilities.
@@ -3034,7 +3034,7 @@ This subpart applies to a building consent authority that—
     (iv) compliance schedules:
     (iva) if applicable, the intended life of the building:
     (ivb) statutory declarations provided by an owner-builder:
-    (ivc) records of work and certificates of work provided by licensed building practitioners under section 45(2) or 88(1)(a):
+    (ivc) records of work and certificates of work provided by licensed building practitioners under section 45(2) or 88(1)﻿(a):
     (v) building warrants of fitness:
     (vi) energy work certificates:
     (vii) notices to fix:
@@ -3162,7 +3162,7 @@ An application for accreditation under section 250 must—
 (2) An accreditation may be revoked only if the building consent accreditation body or the chief executive—
   (a) is satisfied that the building consent authority no longer meets the prescribed criteria and standards for accreditation; and
   (b) has first given the building consent authority concerned a reasonable opportunity to be heard.
-(3) Despite subsection (2)(a), the building consent accreditation body or the chief executive must not revoke the accreditation of a building consent authority if—
+(3) Despite subsection (2)﻿(a), the building consent accreditation body or the chief executive must not revoke the accreditation of a building consent authority if—
   (a) the prescribed criteria and standards for accreditation are amended; and
   (b) the building consent authority no longer meets those criteria and standards solely as a result of the amendments.
 (4) The limit in subsection (3) applies only during the period of 3 months after the date on which the amendments come into force.
@@ -3215,7 +3215,7 @@ A dam owner accreditation body may charge an accredited dam owner the prescribed
 (2) An accreditation may be revoked only if the dam owner accreditation body or the chief executive—
   (a) is satisfied that the accredited dam owner no longer meets the prescribed criteria and standards; and
   (b) has first given the accredited dam owner concerned a reasonable opportunity to be heard.
-(3) Despite subsection (2)(a), the dam owner accreditation body or the chief executive must not revoke the accreditation of a dam owner if—
+(3) Despite subsection (2)﻿(a), the dam owner accreditation body or the chief executive must not revoke the accreditation of a dam owner if—
   (a) the prescribed criteria and standards for accreditation are amended; and
   (b) the accredited dam owner no longer meets those criteria and standards solely as a result of the amendments.
 (4) The limit in subsection (3) applies only during the period of 3 months after the date on which the amendments come into force.
@@ -3226,7 +3226,7 @@ A dam owner accreditation body may charge an accredited dam owner the prescribed
   (a) in the manner notified by the chief executive to the dam owner accreditation body from time to time; and
   (b) within 7 days after the grant or revocation to which it relates.
 (3) The chief executive must, on receiving notification under subsection (1),—
-  (a) in the case of a notice that accreditation has been granted, enter the name of the dam owner on the register kept under section 273(1)(c); or
+  (a) in the case of a notice that accreditation has been granted, enter the name of the dam owner on the register kept under section 273(1)﻿(c); or
   (b) in the case of a notice that accreditation has been revoked, remove the name of the dam owner from that register.
 
 ### Subpart 7 — Responsibilities of product certification accreditation body
@@ -3253,7 +3253,7 @@ A dam owner accreditation body may charge an accredited dam owner the prescribed
 **Audit fees**
 
 ### 262A Fees for audits
-A product certification accreditation body may charge an accredited product certification body the prescribed fee (if any) for an audit conducted under section 262(1)(a) by the product certification accreditation body on the accredited product certification body.
+A product certification accreditation body may charge an accredited product certification body the prescribed fee (if any) for an audit conducted under section 262(1)﻿(a) by the product certification accreditation body on the accredited product certification body.
 
 **Accreditation of product certification bodies**
 
@@ -3366,8 +3366,8 @@ The purpose of each register is—
   (b) to facilitate the compliance, audit, and other supporting and administrative functions of the chief executive under this Act.
 
 ### 275 Content of register of building consent authorities
-The register of building consent authorities referred to in section 273(1)(a) must, in addition to the names of the building consent authorities, contain the following information:
-  (a) details of any limits imposed by the chief executive, under section 203(2)(c), on the functions that those authorities may perform:
+The register of building consent authorities referred to in section 273(1)﻿(a) must, in addition to the names of the building consent authorities, contain the following information:
+  (a) details of any limits imposed by the chief executive, under section 203(2)﻿(c), on the functions that those authorities may perform:
   (b) any prescribed information:
   (c) in the case of building consent authorities that are not territorial authorities, the scope of accreditation of each of those authorities.
 
@@ -3399,7 +3399,7 @@ The register of building consent authorities referred to in section 273(1)(a) mu
 (2) If the Minister makes an appointment under that section, he or she must, in determining whether the appointment should be renewed,—
   (a) consider the matter specified in subsection (1); and
   (b) revoke the appointment and direct the territorial authority to resume the performance of its functions or duties, or the exercise of its powers, under this Act if he or she considers that the territorial authority is capable of doing so.
-(3) If subsection (2)(b) applies, the Minister must give the person appointed under section 277 notice of the revocation of that person's appointment.
+(3) If subsection (2)﻿(b) applies, the Minister must give the person appointed under section 277 notice of the revocation of that person's appointment.
 
 ### 279 Effect of appointment
 If a person is appointed under section 277,—
@@ -3532,7 +3532,7 @@ An application to become licensed under this subpart must be made to the Registr
 
 ### 289 Duty to produce evidence of being licensed
 A licensed building practitioner must, if asked by any person, produce for inspection by the person either—
-  (a) the evidence of being licensed sent to the licensed building practitioner under section 288(1)(b); or
+  (a) the evidence of being licensed sent to the licensed building practitioner under section 288(1)﻿(b); or
   (b) a copy of that evidence.
 
 ### 290 Term of being licensed
@@ -3785,13 +3785,13 @@ A licensed building practitioner must—
   (d) order that the person be censured:
   (e) order that the person undertake training specified in the order:
   (f) order that the person pay a fine not exceeding $10,000.
-(2) The Board may take only 1 type of action in subsection (1)(a) to (d) in relation to a case, except that it may impose a fine under subsection (1)(f) in addition to taking the action under subsection (1)(b) or (d).
-(3) No fine may be imposed under subsection (1)(f) in relation to an act or omission that constitutes an offence for which the person has been convicted by a court.
+(2) The Board may take only 1 type of action in subsection (1)﻿(a) to (d) in relation to a case, except that it may impose a fine under subsection (1)﻿(f) in addition to taking the action under subsection (1)﻿(b) or (d).
+(3) No fine may be imposed under subsection (1)﻿(f) in relation to an act or omission that constitutes an offence for which the person has been convicted by a court.
 (4) In any case to which section 317 applies, the Board may order that the person must pay the costs and expenses of, and incidental to, the inquiry by the Board.
 (5) In addition to requiring the Registrar to notify in the register an action taken by the Board under this section, the Board may publicly notify the action in any other way it thinks fit.
 
 ### 319 Non-payment of fines or costs
-If money payable by a person under section 318(1)(f) or (4) remains unpaid for 60 days or more after the date of the order, the Board may—
+If money payable by a person under section 318(1)﻿(f) or (4) remains unpaid for 60 days or more after the date of the order, the Board may—
   (a) cancel the person's licensing and direct the Registrar to remove the person's name from the register; or
   (b) suspend the person's licensing until the person pays the money and, if he or she does not do so within 12 months, cancel his or her licensing and direct the Registrar to remove his or her name from the register.
 
@@ -3832,8 +3832,8 @@ If money payable by a person under section 318(1)(f) or (4) remains unpaid for 6
   (a) by delivering it personally to the person summoned; or
   (b) by posting it to the person summoned at that person's usual place of residence.
 (2) A summons must,—
-  (a) if it is to be served under subsection (1)(a), be served at least 48 hours before the attendance of the witness is required:
-  (b) if it is to be served under subsection (1)(b), be served at least 10 days before the attendance of the witness is required.
+  (a) if it is to be served under subsection (1)﻿(a), be served at least 48 hours before the attendance of the witness is required:
+  (b) if it is to be served under subsection (1)﻿(b), be served at least 10 days before the attendance of the witness is required.
 (3) A summons that is posted is treated as having been served when it would have been delivered in the ordinary course of post.
 
 ### 325 Witnesses' fees, allowances, and expenses
@@ -3945,7 +3945,7 @@ The Building Practitioners Board is established.
   (b) to receive, investigate, and hear complaints about, and to inquire into the conduct of, and discipline, licensed building practitioners in accordance with subpart 2; and
   (c) to hear appeals against certain decisions of the Registrar in accordance with subpart 2; and
   (d) to review and report to the Minister on the performance of the functions and duties, and the exercise of the powers, of the Board under this Act in accordance with this subpart.
-(2) The Board may, in accordance with clause 34 of Schedule 3, delegate any or all of its functions under subsection (1)(b) or (c) to a subcommittee of the Board appointed under that clause.
+(2) The Board may, in accordance with clause 34 of Schedule 3, delegate any or all of its functions under subsection (1)﻿(b) or (c) to a subcommittee of the Board appointed under that clause.
 
 ### 344 Composition of Board
 (1) The Board must have at least 6 members, but not more than 8 members.
@@ -3988,7 +3988,7 @@ The Minister must present a copy of the annual report given to him or her under 
 (2) However, a request may be refused if—
   (a) withholding the information is necessary to protect the privacy of any person (including a deceased person); and
   (b) there would, under the Official Information Act 1982, be good reason for withholding the information if—
-    (i) the request had been made under section 12 of that Act and section 9(2)(a) of that Act applied; and
+    (i) the request had been made under section 12 of that Act and section 9(2)﻿(a) of that Act applied; and
     (ii) the need to protect the privacy of any person were not outweighed by the Minister's need to have the information in order to discharge the Minister's ministerial duties; and
   (c) the information relates to a particular matter in respect of which the Board or any person appointed or employed by the Board is required to act judicially.
 
@@ -4088,17 +4088,17 @@ Nothing in this Part limits or derogates from the provisions of the Fair Trading
   (a) the prescribed disclosure information (if any); and
   (b) a prescribed checklist (if any).
 (3) The disclosure information and the checklist must each be in the form prescribed by regulations (if any).
-(4) A person who contravenes subsection (2)(a) or (b) commits an infringement offence and is liable to a fine not exceeding $2,000.
-(5) A person commits an offence who, in any communication or document required to be made or given under subsection (2)(a), knowingly makes a statement that is false or misleading in a material particular or knowingly makes a material omission.
+(4) A person who contravenes subsection (2)﻿(a) or (b) commits an infringement offence and is liable to a fine not exceeding $2,000.
+(5) A person commits an offence who, in any communication or document required to be made or given under subsection (2)﻿(a), knowingly makes a statement that is false or misleading in a material particular or knowingly makes a material omission.
 (6) A person who commits an offence under subsection (5) is liable on conviction to a fine not exceeding $20,000.
 
 ### 362E Purpose of regulations under section 362D
-(1) The purpose of regulations prescribing disclosure information under section 362D(2)(a) is to give a client information about a building contractor, and the prescribed disclosure information may include (but is not limited to) information relating to the following:
+(1) The purpose of regulations prescribing disclosure information under section 362D(2)﻿(a) is to give a client information about a building contractor, and the prescribed disclosure information may include (but is not limited to) information relating to the following:
   (a) the legal status of the building contractor, for example, whether the building contractor is an individual, a partnership, or a limited liability company:
   (b) the dispute history of the building contractor:
   (c) the skills, qualifications, and licensing status of the building practitioners who will be doing the building work:
   (d) if the building contractor is a limited liability company, the role of each director and the business history of each director.
-(2) The purpose of regulations prescribing a checklist under section 362D(2)(b) is to provide guidance to a client on the matters that a client should take into consideration when entering into a residential building contract, and the prescribed checklist may include (but is not limited to) the following:
+(2) The purpose of regulations prescribing a checklist under section 362D(2)﻿(b) is to provide guidance to a client on the matters that a client should take into consideration when entering into a residential building contract, and the prescribed checklist may include (but is not limited to) the following:
   (a) an explanation of the legal obligations of both the client and the building contractor in relation to the building work:
   (b) an outline of the risks associated with payment in advance of completion of the building work:
   (c) a summary of dispute resolution options:
@@ -4129,7 +4129,7 @@ Nothing in this Part limits or derogates from the provisions of the Fair Trading
   (d) the timeframe for performing the contract:
   (e) the payment process.
 (3) The regulations may,—
-  (a) if there is no written contract as required by section 362F(2)(a), stipulate that 1 or more prescribed specified clauses (if any) are taken to be included in the contract; and
+  (a) if there is no written contract as required by section 362F(2)﻿(a), stipulate that 1 or more prescribed specified clauses (if any) are taken to be included in the contract; and
   (b) if there is a written contract but it does not include a matter specified by the regulations, stipulate that 1 or more prescribed specified clauses (if any) are taken to be included in the contract.
 (4) Subsection (3) applies despite any provision to the contrary in any agreement or contract.
 
@@ -4144,7 +4144,7 @@ Nothing in this Part limits or derogates from the provisions of the Fair Trading
 (2) For the purposes of sections 362I to 362K, a contract by or on behalf of an on-seller for the sale of 1 or more household units—
   (a) is taken to be a contract for the building work already carried out or still to be carried out in building the household unit or units; and
   (b) is taken to incorporate as the obligations of the on-seller the obligations of the building contractor under a residential building contract.
-(3) In subsection (1)(a)(ii), on-seller means a person who does any of the following things in relation to a household unit for the purpose of on-selling the household unit:
+(3) In subsection (1)﻿(a)﻿(ii), on-seller means a person who does any of the following things in relation to a household unit for the purpose of on-selling the household unit:
   (a) builds the household unit by himself or herself or with the assistance of others:
   (b) in trade arranges for the household unit to be built or acquires the household unit from a person who built it or arranged for it to be built:
   (c) acquires the household unit in a transaction that is intended to defeat the purpose and effect of subsection (2).
@@ -4184,7 +4184,7 @@ A provision of an agreement or instrument that purports to restrict or remove th
 (1) A person who has the benefit of an implied warranty set out in section 362I has the remedies set out in sections 362M to 362P for breach of that warranty.
 (2) In sections 362M to 362P, the person who has the benefit of an implied warranty—
   (a) is called the client; and
-  (b) except for the purposes of section 362M(3)(b) or 362N(2)(b), includes the owner of the building or land in respect of which building work was carried out under a contract to which the implied warranty applies, whether or not that person was a party to the contract.
+  (b) except for the purposes of section 362M(3)﻿(b) or 362N(2)﻿(b), includes the owner of the building or land in respect of which building work was carried out under a contract to which the implied warranty applies, whether or not that person was a party to the contract.
 (3) In sections 362M to 362P, the person who is liable to remedy the breach is called the building contractor.
 (4) Nothing in this section limits or derogates from any remedy for defective building work expressly provided for in a residential building contract, and nothing in any residential building contract limits or derogates from any of the remedies set out in sections 362M to 362P.
 
@@ -4206,18 +4206,18 @@ A provision of an agreement or instrument that purports to restrict or remove th
 ### 362O Meaning of substantial breach
 For the purposes of section 362N, a breach of warranty is substantial if—
   (a) a reasonable client fully acquainted with the nature and extent of the breach would not have entered into the residential building contract; or
-  (b) in any case to which section 362I(1)(f) applies, the building work—
+  (b) in any case to which section 362I(1)﻿(f) applies, the building work—
     (i) is unfit for the particular purpose stated in the residential building contract; or
     (ii) is of such a nature and quality that it cannot be expected to produce the desired result stated in the residential building contract; or
   (c) the building work is unsafe.
 
 ### 362P Rules applying to cancellation
-(1) The cancellation of a contract under section 362M(3)(b) or 362N(2)(b) does not take effect—
+(1) The cancellation of a contract under section 362M(3)﻿(b) or 362N(2)﻿(b) does not take effect—
   (a) before the time at which the cancellation is made known to the building contractor; or
   (b) where it is not reasonably practicable to communicate with the building contractor, before the time at which the client indicates, by means that are reasonable in the circumstances, the client's intention to cancel the contract.
 (2) Subject to subsection (3), the cancellation may be made known by words, or by conduct indicating an intention to cancel, or both, and it is not necessary to use any particular form of words, so long as the intention to cancel is made known.
 (3) Where it is reasonably practicable to communicate with the building contractor, subsection (2) takes effect subject to any provision in the contract requiring notice of cancellation in writing.
-(4) Sections 8(3) and (4) and 9 of the Contractual Remedies Act 1979 apply, with all necessary modifications, to the cancellation of a contract under section 362M(3)(b) or 362N(2)(b).
+(4) Sections 8(3) and (4) and 9 of the Contractual Remedies Act 1979 apply, with all necessary modifications, to the cancellation of a contract under section 362M(3)﻿(b) or 362N(2)﻿(b).
 
 **Remedy of defect notified within 1 year of completion**
 
@@ -4244,7 +4244,7 @@ For the purposes of section 362N, a breach of warranty is substantial if—
     (iii) the owner of the building or land in respect of which the building work was carried out, whether or not that person was a party to the building contract or contract of sale; but
   (b) does not include a building contractor in that capacity contracting with another building contractor (for example, a contractor and subcontractor).
 (2) In section 362Q, on-seller has the same meaning as in section 362H(3).
-(3) In section 362Q(1)(d), building work carried out on behalf of a building contractor includes building work carried out on behalf of the building contractor by any of the following persons:
+(3) In section 362Q(1)﻿(d), building work carried out on behalf of a building contractor includes building work carried out on behalf of the building contractor by any of the following persons:
   (a) an employee of the building contractor:
   (b) another contractor:
   (c) a subcontractor:
@@ -4433,7 +4433,7 @@ In this section and sections 371 to 374,—
 (2) An infringement notice may be served—
   (a) by an enforcement officer (not necessarily the person who issued the notice) personally delivering it (or a copy of it) to the person alleged to have committed the infringement offence; or
   (b) by post addressed to the person's last known place of residence or business.
-(3) An infringement notice sent to a person under subsection (2)(b) must be treated as having been served on that person when it was posted.
+(3) An infringement notice sent to a person under subsection (2)﻿(b) must be treated as having been served on that person when it was posted.
 
 ### 373 Form of infringement notices
 An infringement notice must be in the prescribed form and must contain the following particulars:
@@ -4499,7 +4499,7 @@ The continued existence of anything, or the intermittent repetition of any actio
 
 ### 382 Terms of injunction or order
 (1) An injunction may be granted, or an order may be made, under section 381—
-  (a) restraining the person concerned from engaging in the conduct described in section 381(1)(a) or (b) or (c); or
+  (a) restraining the person concerned from engaging in the conduct described in section 381(1)﻿(a) or (b) or (c); or
   (b) for the purpose of ensuring that the person does not engage in that conduct.
 (2) The injunction may be granted and the order made on any other terms that the District Court considers appropriate.
 (3) In the case of a building that does not comply with the provisions of the building code, the injunction or order may be issued in respect of the owner of the building, whether or not the owner has committed an offence against section 40 or section 168, and without prejudice to the liability of any other person.
@@ -4515,7 +4515,7 @@ On an application under section 381(1), the District Court may direct the chief 
 (2) Subsection (1) applies whether or not it appears to the District Court that the person intends to engage again, or to continue to engage, in conduct of the kind referred to in that subsection.
 
 ### 385 Application of section 381 to Crown organisation
-(1) Despite section 17(1)(a) of the Crown Proceedings Act 1950,—
+(1) Despite section 17(1)﻿(a) of the Crown Proceedings Act 1950,—
   (a) the District Court may, under section 381, grant an injunction against a Crown organisation, but only in its own name; and
   (b) for the purposes of imposing or enforcing an injunction referred to in paragraph (a), the Crown organisation, if not a body corporate, is to be treated as if it were a separate legal personality.
 (2) If the District Court grants an injunction against a Crown organisation, the provisions of sections 381 to 384 apply with all necessary modifications.
@@ -4538,8 +4538,8 @@ On an application under section 381(1), the District Court may direct the chief 
 
 ### 387 Liability for acts of employees or agents of Crown organisations
 (1) Section 386 does not apply if a person acting as agent or employee of a Crown organisation commits an offence under this Act.
-(2) If an offence referred to in section 6(1)(a) of the Crown Organisations (Criminal Liability) Act 2002 is committed by a person acting as the agent or employee of a Crown organisation, the Crown organisation must (without affecting the personal liability of the agent or employee) be treated for all legal purposes as having committed that offence.
-(3) Despite subsection (2), if proceedings for an offence referred to in section 6(1)(a) of the Crown Organisations (Criminal Liability) Act 2002 are brought against a Crown organisation in reliance on subsection (2), it is a good defence if the Crown organisation proves that—
+(2) If an offence referred to in section 6(1)﻿(a) of the Crown Organisations (Criminal Liability) Act 2002 is committed by a person acting as the agent or employee of a Crown organisation, the Crown organisation must (without affecting the personal liability of the agent or employee) be treated for all legal purposes as having committed that offence.
+(3) Despite subsection (2), if proceedings for an offence referred to in section 6(1)﻿(a) of the Crown Organisations (Criminal Liability) Act 2002 are brought against a Crown organisation in reliance on subsection (2), it is a good defence if the Crown organisation proves that—
   (a) the organisation took all reasonable steps to remedy any effects of the act or omission constituting the offence; and
   (b) either—
     (i) no person involved in the management of the organisation knew or could reasonably be expected to have known that the offence was to be or was being committed; or
@@ -4588,7 +4588,7 @@ Any civil proceedings against a building consent authority in respect of the per
   (a) an acceptable solution or a verification method:
   (b) a determination made by the chief executive under subpart 1 of Part 3:
   (c) a current product certificate issued under subpart 7 of Part 3:
-  (ca) a current national multiple-use approval issued under section 30F (including, in any particular case, any minor customisations permitted by regulations made under section 402(1)(kc)):
+  (ca) a current national multiple-use approval issued under section 30F (including, in any particular case, any minor customisations permitted by regulations made under section 402(1)﻿(kc)):
   (d) a code compliance certificate issued under section 95:
   (e) a certificate issued under any regulations made under the Electricity Act 1992 or the Gas Act 1992.
 (2) Subsection (3) applies if—
@@ -4626,7 +4626,7 @@ Any civil proceedings against a building consent authority in respect of the per
   (a) by delivering it personally to an employee of the organisation at its head office or principal place of business; or
   (b) by delivering it at the organisation's head office or principal place of business, including by fax; or
   (c) in accordance with a method agreed with the organisation.
-(5) A notice or other document sent by post to a person in accordance with subsection (1)(d) must be treated as having been received by that person at the time at which the letter would have been delivered in the ordinary course of post.
+(5) A notice or other document sent by post to a person in accordance with subsection (1)﻿(d) must be treated as having been received by that person at the time at which the letter would have been delivered in the ordinary course of post.
 
 ### 395 Notices in relation to Māori land
 Part 10 of Te Ture Whenua Maori Act 1993 applies to the service of notices under this Act on owners of Māori land, except that the period fixed for anything to be done by the owners must not be extended by more than 14 working days under section 181(4) of that Act, unless otherwise provided by the territorial authority or the regional authority concerned.
@@ -4732,14 +4732,14 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (q) defining moderate flood for the purposes of section 153:
   (qa) defining earthquake threshold event for the purposes of section 153A:
   (qb) defining flood threshold event for the purposes of section 153A:
-  (r) prescribing the minimum terms and conditions of an insurance policy for the purposes of section 192(2)(a):
-  (s) providing for the approval of schemes of insurance for the purposes of section 192(2)(b):
+  (r) prescribing the minimum terms and conditions of an insurance policy for the purposes of section 192(2)﻿(a):
+  (s) providing for the approval of schemes of insurance for the purposes of section 192(2)﻿(b):
   (t) prescribing the criteria and standards that an applicant must meet to be accredited as—
     (i) a building consent authority; or
     (ii)
     (iii) a dam owner; or
     (iv) a product certification body:
-  (ta) prescribing the fees payable for an audit under section 249(a), 257(a), or 262(1)(a), or the rate at which, or method by which, those fees are to be calculated:
+  (ta) prescribing the fees payable for an audit under section 249(a), 257(a), or 262(1)﻿(a), or the rate at which, or method by which, those fees are to be calculated:
   (u) prescribing the criteria and standards that a product certification body must apply in determining applications for a product certificate under section 269 (which must include, without limitation, criteria and standards about the effects on human health of particular building methods or products):
   (v) determining or fixing scales of charges or other criteria for the purpose of fixing charges by the chief executive under Part 3:
   (w) prescribing—
@@ -4751,21 +4751,21 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (x) specifying criteria and standards that a dam owner must apply in—
     (i) classifying dams; or
     (ii) preparing a dam safety assurance programme:
-  (xa) prescribing disclosure information for the purposes of section 362D(2)(a) and the form of that disclosure information:
-  (xb) prescribing a checklist for the purposes of section 362D(2)(b) and the form of that checklist:
-  (xc) prescribing the minimum price for building work for the purposes of section 362D(1)(a) or prescribing the methodology for calculating that minimum price, or both:
+  (xa) prescribing disclosure information for the purposes of section 362D(2)﻿(a) and the form of that disclosure information:
+  (xb) prescribing a checklist for the purposes of section 362D(2)﻿(b) and the form of that checklist:
+  (xc) prescribing the minimum price for building work for the purposes of section 362D(1)﻿(a) or prescribing the methodology for calculating that minimum price, or both:
   (xd) prescribing the minimum price for building work for the purposes of section 362F(1) or prescribing the methodology for calculating that minimum price, or both:
-  (xe) prescribing the content of, or information or clauses or terms that must be contained in, a residential building contract for the purposes of section 362F(2)(c):
+  (xe) prescribing the content of, or information or clauses or terms that must be contained in, a residential building contract for the purposes of section 362F(2)﻿(c):
   (xf) prescribing any or all of the information and documentation for the purposes of section 362T(2):
   (y) specifying infringement offences for the purposes of this Act:
   (z) setting the infringement fee for each infringement offence (which may not exceed $20,000):
   (za) prescribing the forms that must be used for issuing an infringement notice:
   (zb) prescribing, for the purposes of section 362V(2), the form and content of the written agreement referred to in that subsection:
   (zc) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) The fees and charges prescribed under subsection (1)(d) must be reasonable, having regard to the need to recover the costs incurred by the Registrar in performing his or her functions under this Act.
+(2) The fees and charges prescribed under subsection (1)﻿(d) must be reasonable, having regard to the need to recover the costs incurred by the Registrar in performing his or her functions under this Act.
 
-### 402A Chief executive must review regulations made under section 402(1)(kb)
-The chief executive must, within 2 years after the commencement of regulations made under section 402(1)(kb),—
+### 402A Chief executive must review regulations made under section 402(1)﻿(kb)
+The chief executive must, within 2 years after the commencement of regulations made under section 402(1)﻿(kb),—
   (a) review the prescribed period of time within which the chief executive must decide whether to issue a national multiple-use approval; and
   (b) prepare for the Minister a report on the findings of that review.
 
@@ -4784,7 +4784,7 @@ The chief executive must, within 2 years after the commencement of regulations m
 (5) A failure to comply with this section does not affect the validity of any Order in Council or regulations made.
 
 ### 404 Certain regulations must not come into force earlier than specified date
-Any regulations made under section 402(1)(n) must not come into force earlier than the date on which sections 45(1)(e) and 45(2) to 45(4) and 84 to 89 come into force.
+Any regulations made under section 402(1)﻿(n) must not come into force earlier than the date on which sections 45(1)﻿(e) and 45(2) to 45(4) and 84 to 89 come into force.
 
 **Incorporation of material by reference**
 
@@ -4824,10 +4824,10 @@ Material incorporated by reference in an instrument that expires or that is revo
 (1) This section applies if—
   (a) the Minister proposes to make a recommendation for—
     (i) regulations to be made under this Act that incorporate material by reference; or
-    (ii) regulations under section 406(c)(i) that state that an amendment to, or replacement of, material incorporated by reference in regulations has legal effect as part of the regulations; or
+    (ii) regulations under section 406(c)﻿(i) that state that an amendment to, or replacement of, material incorporated by reference in regulations has legal effect as part of the regulations; or
   (b) the chief executive proposes to—
     (i) issue an acceptable solution or a verification method that incorporates material by reference; or
-    (ii) publish, under section 406(c)(ii), a notice in the Gazette that adopts an amendment to, or replacement of, material incorporated by reference in an acceptable solution or a verification method.
+    (ii) publish, under section 406(c)﻿(ii), a notice in the Gazette that adopts an amendment to, or replacement of, material incorporated by reference in an acceptable solution or a verification method.
 (2) Before doing any of the things referred to in subsection (1), the Minister or, as the case may be, the chief executive must—
   (a) make copies of the material proposed to be incorporated by reference or the proposed amendment to, or replacement of, material incorporated by reference (proposed material) available for inspection during working hours for a reasonable period, free of charge, at the Ministry's office in Wellington; and
   (b) make copies of the proposed material available for purchase at a reasonable price at the Ministry's office in Wellington; and
@@ -4861,7 +4861,7 @@ Material incorporated by reference in an instrument that expires or that is revo
     (iii) copies of the material can be purchased at all of the Ministry's offices and the location of those offices; and
     (iv) the material referred to in paragraph (c) is available for inspection during working hours, free of charge, at all of the Ministry's offices and the location of those offices; and
     (v) if copies of the material are made available under paragraph (d), the material is available in other ways and details of where or how it can be accessed or obtained.
-(1A) Subsection (1)(c) does not apply to any material that relates only to product standards or product testing standards.
+(1A) Subsection (1)﻿(c) does not apply to any material that relates only to product standards or product testing standards.
 (2) The material is—
   (a) material incorporated by reference in an instrument:
   (b) any amendment to, or replacement of, that material that is incorporated in the instrument or the material referred to in paragraph (a) with the amendments or replacement material incorporated:
@@ -4876,8 +4876,8 @@ Material incorporated by reference in an instrument that expires or that is revo
 ### 412 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
 [Repealed]
 
-### 413 Application of Standards Act 1988 not affected
-Sections 405 to 412 do not affect the application of sections 22 to 25 of the Standards Act 1988.
+### 413 Application of Standards and Accreditation Act 2015 not affected
+Sections 405 to 412 do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
 **Amendments and repeal**
 
@@ -4912,7 +4912,7 @@ The enactments specified in Schedule 4 are amended in the manner indicated in th
     (iii) the building control provisions of the Act (for example, the provisions relating to building consents, code compliance certificates, and compliance schedules) come into force; and
   (d) between 30 November 2004 and 31 May 2006, persons who held an approval as a building certifier under the former Act may apply to be registered as a building consent authority under section 191; and
   (e) between 30 November 2004 and 31 May 2006, territorial authorities and regional authorities must apply to be registered under section 191; and
-  (f) on and after the date specified in section 450(3)(b)(ii), only building consent authorities that are registered under section 191 may perform functions relating to building control; and
+  (f) on and after the date specified in section 450(3)﻿(b)﻿(ii), only building consent authorities that are registered under section 191 may perform functions relating to building control; and
   (g) on 30 November 2010,—
     (i) the requirement that restricted building work must be carried out or supervised by a licensed building practitioner comes into force; and
     (ii) the transitional period ends.
@@ -4996,7 +4996,7 @@ If, before the commencement of this section, a person is liable to pay a levy un
   (b) this Act applies to the levy in all respects.
 
 ### 431 Transitional provision for rate of building levy under this Act
-(1) Despite section 53(2)(a)(ii), the building levy must, during the period specified in subsection (2), be calculated at the rate set out in clause 2 of the Building Industry Authority Levy Order 1995.
+(1) Despite section 53(2)﻿(a)﻿(ii), the building levy must, during the period specified in subsection (2), be calculated at the rate set out in clause 2 of the Building Industry Authority Levy Order 1995.
 (2) The period is the period that—
   (a) begins on the commencement of Part 2; and
   (b) ends on the commencement of the first Order in Council that sets the prescribed rate of the building levy.
@@ -5007,10 +5007,10 @@ If, before the commencement of this section, a person is liable to pay a levy un
   (b) an application for a building consent is made under section 33 of the former Act and the building consent has not been granted or refused; or
   (c) an application for the accreditation of any proprietary item (being a material, method of construction, design, or component relating to building work) is made under section 58 of the former Act but is not determined or withdrawn.
 (2) On and from the commencement of this section,—
-  (a) the application referred to in subsection (1)(a) must be treated as if it were an application, as the case may be, under section 31 or section 32; and
-  (b) the application referred to in subsection (1)(b) must be treated as if it were an application under section 45; and
-  (c) the application referred to in subsection (1)(c) must be determined as if this Act had not been passed.
-(3) For the purposes of subsection (2)(c),—
+  (a) the application referred to in subsection (1)﻿(a) must be treated as if it were an application, as the case may be, under section 31 or section 32; and
+  (b) the application referred to in subsection (1)﻿(b) must be treated as if it were an application under section 45; and
+  (c) the application referred to in subsection (1)﻿(c) must be determined as if this Act had not been passed.
+(3) For the purposes of subsection (2)﻿(c),—
   (a) section 59 of the former Act remains in force as if this Act had not been passed; and
   (b) a certificate of accreditation issued under that section must be treated as if it were a product certificate issued under section 269.
 
@@ -5030,12 +5030,12 @@ If, before the commencement of this section, a person is liable to pay a levy un
 ### 435 Transitional provision for notices issued under former Act
 (1) This section applies to any of the following notices issued before the commencement of this section:
   (a) a notice to rectify under section 42 of the former Act (including a notice that is deemed to be a notice to rectify under section 45(4) or section 46(5) of that Act):
-  (b) a notice under section 65(1)(b) of the former Act requiring work to be done on a dangerous building:
+  (b) a notice under section 65(1)﻿(b) of the former Act requiring work to be done on a dangerous building:
   (c) a notice under section 65(2) of the former Act requiring work to be done on an insanitary building:
-  (d) a notice under section 66(3)(b) of the former Act requiring work to be done on an earthquake-prone building.
+  (d) a notice under section 66(3)﻿(b) of the former Act requiring work to be done on an earthquake-prone building.
 (2) On and from the commencement of this section, a notice to which this section applies must,—
-  (a) in the case of the notice referred to in subsection (1)(a), be treated as if it were a notice given under section 164 of this Act; and
-  (b) in the case of the notice referred to in subsection (1)(b) or (c) or (d), be treated as if it were a notice given under section 124(1)(c) of this Act.
+  (a) in the case of the notice referred to in subsection (1)﻿(a), be treated as if it were a notice given under section 164 of this Act; and
+  (b) in the case of the notice referred to in subsection (1)﻿(b) or (c) or (d), be treated as if it were a notice given under section 124(1)﻿(c) of this Act.
 
 ### 436 Transitional provision for code compliance certificates in respect of building work carried out under building consent granted under former Act
 (1) This section applies to building work carried out under a building consent granted under section 34 of the former Act.
@@ -5110,7 +5110,7 @@ Every approved building certifier has until 31 May 2006 to apply to be registere
   (a) sections 54 to 57 of the former Act remain in force as if this Act had not been passed; and
   (b) a building consent authority must accept, under section 19(1), a building certificate issued under section 56 of the former Act as establishing compliance with the building code; and
   (c) a party may apply, under section 177, for a determination in relation to a decision by an approved building certifier to issue, or refuse to issue, a building certificate or a code compliance certificate.
-(2) For the purposes of subsection (1)(c), sections 176 to 190 apply with all necessary modifications.
+(2) For the purposes of subsection (1)﻿(c), sections 176 to 190 apply with all necessary modifications.
 (3) In this section, party—
   (a) has the meaning given by section 176; and
   (b) includes an approved building certifier.
@@ -5137,14 +5137,14 @@ A territorial authority or a regional authority must, by 31 May 2006, apply to b
     (ii) 31 March 2009.
 (3A) A territorial authority that is registered under section 191 must, until the time specified in subsection (3B), act as a building consent authority in relation to a dam within the territorial authority's district.
 (3B) The time is the earlier of the following:
-  (a) the close of the day before the date specified in subsection (3)(b)(ii); and
+  (a) the close of the day before the date specified in subsection (3)﻿(b)﻿(ii); and
   (b) the time at which the regional authority whose region includes the territorial authority's district—
     (i) is registered under section 191; or
     (ii) transfers its functions as a building consent authority in relation to dams in that district to another regional authority, under subpart 4 of Part 3 of this Act or subpart 2 of Part 3 of the Local Government Act 2002.
 (3C) If a territorial authority acts as a building consent authority under subsection (1) or (3A),—
   (a) the territorial authority must be taken to have all the functions, duties, and powers of a building consent authority under this Act; and
   (b) this Act applies with all necessary modifications.
-(3D) The Governor-General may, by Order in Council, before the date specified in subsection (3)(b)(ii), specify a later date in substitution for that date.
+(3D) The Governor-General may, by Order in Council, before the date specified in subsection (3)﻿(b)﻿(ii), specify a later date in substitution for that date.
 (3E) An order made under subsection (3D) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (4) This section overrides sections 14 and 193.
 
