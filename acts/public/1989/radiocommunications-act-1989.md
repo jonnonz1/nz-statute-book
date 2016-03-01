@@ -1,5 +1,5 @@
 # Radiocommunications Act 1989
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2016-03-01_
 
 > An Act to provide for the management of the radio frequency spectrum
 
@@ -30,10 +30,10 @@ This Act may be cited as the Radiocommunications Act 1989.
   - **harmful interference** means interference which endangers the functioning of a radionavigation service, or of other safety services, or seriously degrades, obstructs, or repeatedly interrupts radiocommunications
   - **inappropriate receiver** means a receiver prescribed as an inappropriate receiver by regulations made under section 134(1B)
   - **induction** means the process by which one electrical conductor having electrical or magnetic properties causes like properties in another electrical conductor, either with or without direct conduct with that other electrical conductor
-  - **infringement fee** , in relation to an infringement offence, means the amount fixed by regulations made under section 134(1)(jb) as the infringement fee for the offence
+  - **infringement fee** , in relation to an infringement offence, means the amount fixed by regulations made under section 134(1)﻿(jb) as the infringement fee for the offence
   - **infringement offence** means—
     (a) an offence under section 24A:
-    (b) an offence prescribed as an infringement offence in regulations made under section 134(1)(ja)
+    (b) an offence prescribed as an infringement offence in regulations made under section 134(1)﻿(ja)
   - **instrument** means an instrument in any of the forms prescribed by regulations made under this Act for the purposes of any of the provisions of Parts 2 to 10
   - **interference** —
     (a) means the effect of radio waves owing to 1 or more emissions, radiations, or inductions, or any combination of 1 or more of those things, on the reception of radiocommunications; but
@@ -447,14 +447,14 @@ If any notice of transfer purports to transfer management rights in respect of a
   (b) the right to transmit on a frequency band within the range of frequencies specified in the manager's record of management rights; or
   (c) the right to have no harmful interference from co-channel emissions in the protection area on a frequency band within the range of frequencies specified in the manager's record of management rights,—
 (2) A spectrum licence is not valid until that licence is registered.
-(3) Any spectrum licence created under subsection (1)(b) may be specified as a general user spectrum licence for the purposes of section 55A.
+(3) Any spectrum licence created under subsection (1)﻿(b) may be specified as a general user spectrum licence for the purposes of section 55A.
 
 ### 49 Contents of spectrum licence
 (1) Every spectrum licence must specify—
   (a) the name and address of the rightholder; and
   (b) the frequency band within which radio waves may be transmitted; and
-  (c) except for licences granted or reserved under section 48(1)(b), the protection area; and
-  (d) except for licences granted or reserved under section 48(1)(c), any unwanted emission limits applying to emissions from a radio transmitter or transmitters; and
+  (c) except for licences granted or reserved under section 48(1)﻿(b), the protection area; and
+  (d) except for licences granted or reserved under section 48(1)﻿(c), any unwanted emission limits applying to emissions from a radio transmitter or transmitters; and
   (e) the commencement date of the spectrum licence, being a date not earlier than the commencement date of the record of management rights to which the spectrum licence relates; and
   (f) the expiry date of the spectrum licence, being a date not later than the expiry date of the record of management rights to which the spectrum licence relates; and
   (g) whether the spectrum licence may be transferred to another person by the rightholder with or without the consent of the manager; and
@@ -496,10 +496,10 @@ Every spectrum licence to which section 48 applies shall be given a reference nu
   (b) is transmitting in accordance with that agreement—
 
 ### 55A Transmissions in accordance with general user spectrum licences
-(1) This section applies to every spectrum licence created under section 48(1)(b) that is specified as a general user spectrum licence in accordance with section 48(3).
+(1) This section applies to every spectrum licence created under section 48(1)﻿(b) that is specified as a general user spectrum licence in accordance with section 48(3).
 (2) A general user spectrum licence grants to every person permission to transmit radio waves on the frequency band specified in the general user spectrum licence if that person complies with—
   (a) any conditions specified in the record of management rights in relation to which the general user spectrum licence is registered; and
-  (b) any conditions specified in the spectrum licence under section 49(1)(j); and
+  (b) any conditions specified in the spectrum licence under section 49(1)﻿(j); and
   (c) Schedule 1.
 (3) No person transmitting radio waves in accordance with a general user spectrum licence may transmit unwanted emissions on any frequency within the range of frequencies to which the unwanted emission limit specified in the general user spectrum licence applies, at a level greater than is specified in that general user spectrum licence as the unwanted emission limit applying to that frequency.
 (4) No person transmitting radio waves in accordance with a general user spectrum licence may transmit unwanted emissions on any frequency that is not within the frequency band or the range of frequencies to which any unwanted emission limit specified in the general user spectrum licence applies, at a level greater than the power floor applying to that frequency in accordance with the record of management rights relating to that frequency at the time the general user spectrum licence was registered.
@@ -779,7 +779,7 @@ If, on any application under section 87, the Registrar is satisfied that the app
     (i) the management rights in relation to any such radio frequencies; or
     (ii) any spectrum licence—
 (2) Every caveat lodged under subsection (1) shall contain a statement of the grounds on which the caveat is lodged.
-(3) No caveat may be lodged pursuant to subsection (1)(a) in respect of any entitlement or beneficial interest arising or claimed to have arisen before the commencement of this Act.
+(3) No caveat may be lodged pursuant to subsection (1)﻿(a) in respect of any entitlement or beneficial interest arising or claimed to have arisen before the commencement of this Act.
 
 ### 90 Service of notices as to caveats
 Every notice relating to a caveat and any proceedings in respect of a caveat, if served at the place appointed in the caveat, shall be deemed duly served.
@@ -842,7 +842,7 @@ Subject to any spectrum licence granted by the manager, every manager shall have
 ### 101 Requirements to be complied with in exercise of rights
 (1) Every rightholder, in exercising rights under section 99, shall comply with—
   (a) any conditions specified in the record of management rights in relation to which the rightholder's spectrum licence is registered; and
-  (b) any conditions specified in the spectrum licence pursuant to section 49(1)(j); and
+  (b) any conditions specified in the spectrum licence pursuant to section 49(1)﻿(j); and
   (c) the requirements specified in Schedule 1.
 (2) Every person who fails to comply with subsection (1) shall be deemed not to be acting in accordance with the person's rights as rightholder for the purposes of section 103.
 
@@ -861,7 +861,7 @@ Subject to any spectrum licence granted by the manager, every manager shall have
 ### 104 Transmission under radio licence not affected
 Nothing in section 103 prevents any person from transmitting radio waves in accordance with—
   (a) a radio licence; or
-  (b) an exemption exempting that transmission of radio waves from any requirement to be licensed, being an exemption granted by or under any regulations made under section 116(1)(c).
+  (b) an exemption exempting that transmission of radio waves from any requirement to be licensed, being an exemption granted by or under any regulations made under section 116(1)﻿(c).
 
 ## Part 12 — Interference
 
@@ -895,7 +895,7 @@ Where a radio licence or a spectrum licence has been granted and registered but 
   (a) the action specified in the notice given under subsection (1) has not been taken; and
   (b) the claimant continues to believe that the respondent's transmissions have caused or contributed to, or are causing or contributing to, harmful interference in the protection area of the claimant, and that the action that is specified in the notice is justified; and
   (c) the claimant, the respondent, and the Secretary have not agreed on a method of reaching an agreement to deal with the harmful interference or to refer the matter to arbitration.
-(2B) Despite subsection (2)(a), if a claimant has made a request under subsection (2A), sections 109 to 109C apply.
+(2B) Despite subsection (2)﻿(a), if a claimant has made a request under subsection (2A), sections 109 to 109C apply.
 (3) Where the harmful interference which is the subject of the notice under subsection (1) endangers the functioning of the claimant's radionavigation service or other safety service, the claimant may also serve a copy of the notice on the Secretary, and the Secretary may, in his or her discretion, direct the claimant or the respondent, or both, to take action forthwith, including ceasing transmissions, until the matter is resolved in accordance with sections 108 to 109A and section 109C.
 (4) A notice given under subsection (1) must state—
   (a) the nature of the harmful interference experienced; and
@@ -911,7 +911,7 @@ Where a radio licence or a spectrum licence has been granted and registered but 
   (a) the action specified in the notice has not been taken; and
   (b) the claimant continues to believe that the respondent's transmissions have caused or contributed to, or are causing or contributing to, harmful interference in the protection area of the claimant, and that the action which is specified in the notice is justified; and
   (c) the claimant and the respondent have not agreed on a method of reaching an agreement to deal with the harmful interference or to refer the matter to arbitration,—
-(7) Where the claimant and the respondent agree on a method of reaching an agreement to deal with the harmful interference under subsection (5)(c), but no agreement is reached within 20 working days of a notice properly given under subsection (1), the claimant may, following the expiry of that 20-working day period, by notice in the prescribed form to the Secretary, request the Secretary to refer the matter to arbitration under section 109.
+(7) Where the claimant and the respondent agree on a method of reaching an agreement to deal with the harmful interference under subsection (5)﻿(c), but no agreement is reached within 20 working days of a notice properly given under subsection (1), the claimant may, following the expiry of that 20-working day period, by notice in the prescribed form to the Secretary, request the Secretary to refer the matter to arbitration under section 109.
 
 ### 109 Reference to arbitration by Secretary
 (1) Where the Secretary receives a request under section 108(2A), (6), or (7), and the Secretary is satisfied that—the Secretary may refer the matter to arbitration and, except as provided in sections 109A and 109C, the provisions of the Arbitration Act 1996 apply as though the claimant and the respondent had agreed to refer the matter to arbitration.
@@ -924,7 +924,7 @@ Where a radio licence or a spectrum licence has been granted and registered but 
 (2) The reference by the Secretary may specify the matters that would otherwise be included in an arbitration agreement, and that reference is an arbitration agreement for the purposes of the Arbitration Act 1996.
 
 ### 109A Matters relevant to arbitration
-(1) Article 28(4) of Schedule 1 of the Arbitration Act 1996 does not apply to matters referred to arbitration under section 108(5)(d) or section 109; instead, the arbitral tribunal's decision must seek to balance the reasonable expectations, rights, and duties of the claimant and the respondent or other persons, without compromising public safety, and having regard to—
+(1) Article 28(4) of Schedule 1 of the Arbitration Act 1996 does not apply to matters referred to arbitration under section 108(5)﻿(d) or section 109; instead, the arbitral tribunal's decision must seek to balance the reasonable expectations, rights, and duties of the claimant and the respondent or other persons, without compromising public safety, and having regard to—
   (a) the costs and effects of possible alternative solutions; and
   (b) the technical compatibility between the claimant's receiver and the respondent's transmitter as determined by—
     (i) the nature and characteristics of the rights described in the licences concerned; and
@@ -968,7 +968,7 @@ Every person who contravenes a direction given by the Secretary under section 10
 (4) Every licence issued in accordance with regulations made under this Part includes a requirement that any person transmitting under that radio licence must comply with Schedule 1.
 
 ### 112 Secretary to have regard to Government policy
-(1) In the exercise of his or her functions, duties, and powers under section 111 or under any regulations made under section 116(1)(a), the Secretary shall have regard to the general policy of the Government in relation to the functions, duties, and powers of the Secretary under that section or, as the case may be, those regulations as that policy is communicated to the Secretary from time to time by notice in writing by the Minister, and shall comply with any directions given by the Minister to the Secretary by notice in writing pursuant to such policy.
+(1) In the exercise of his or her functions, duties, and powers under section 111 or under any regulations made under section 116(1)﻿(a), the Secretary shall have regard to the general policy of the Government in relation to the functions, duties, and powers of the Secretary under that section or, as the case may be, those regulations as that policy is communicated to the Secretary from time to time by notice in writing by the Minister, and shall comply with any directions given by the Minister to the Secretary by notice in writing pursuant to such policy.
 (2) Nothing in subsection (1) authorises the Minister to give a direction under that subsection in respect of the grant of a particular radio licence.
 (3) Without limiting the generality of subsection (1), but subject to subsection (2), the Minister may, pursuant to subsection (1),—
   (a) give a direction in respect of any particular class or classes of radio licence:
@@ -983,7 +983,7 @@ Every person who contravenes a direction given by the Secretary under section 10
 ### 113 Offences
 Every person commits an offence under this Act who transmits radio waves, otherwise than—
   (a) under, or in conformity with, the terms and conditions of a radio licence issued under section 111; or
-  (b) in accordance with regulations made under section 116(1)(c) exempting the transmission of radio waves from the need to obtain a radio licence.
+  (b) in accordance with regulations made under section 116(1)﻿(c) exempting the transmission of radio waves from the need to obtain a radio licence.
 
 ### 114 Presumptions
 (1) For the purposes of section 113, any person who erects, constructs, establishes, maintains, or is in possession of any radio transmitter is presumed to have used the radio transmitter unless and until the contrary is proved.
@@ -1035,11 +1035,11 @@ Every person commits an offence under this Act who transmits radio waves, otherw
 **Powers to obtain evidence**
 
 ### 120 Powers to obtain evidence
-(1) Subject to this section, any employee of the Ministry of Economic Development authorised in writing by the Secretary for the purpose, or a constable, may, where there are reasonable grounds for believing that any person has committed or is committing an offence against this Act or against any regulations made under section 134(1)(g), at any time in the day or night, enter upon and search any premises, building, aircraft, ship, carriage, vehicle, box, receptacle, or place and—
+(1) Subject to this section, any employee of the Ministry of Economic Development authorised in writing by the Secretary for the purpose, or a constable, may, where there are reasonable grounds for believing that any person has committed or is committing an offence against this Act or against any regulations made under section 134(1)﻿(g), at any time in the day or night, enter upon and search any premises, building, aircraft, ship, carriage, vehicle, box, receptacle, or place and—
   (a) inspect and remove any documents in the possession of, or under the control of, any person, and take copies of or extracts from any such documents; and
   (b) inspect and remove any radio apparatus or interfering equipment in the possession of, or under the control of, any person.
 (2) No person shall exercise the powers conferred by subsection (1) unless the person obtains a warrant authorising that person to exercise those powers in accordance with subsection (3).
-(3) Where any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) is satisfied, on application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that any person has committed or is committing an offence against this Act, or against any regulations made under section 134(1)(g), that issuing officer may, by warrant, authorise an employee of the Ministry of Economic Development authorised for the purpose, or a constable, to exercise the powers conferred by subsection (1) in relation to any premises, building, aircraft, ship, carriage, vehicle, box, receptacle, or place specified in the warrant.
+(3) Where any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) is satisfied, on application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that any person has committed or is committing an offence against this Act, or against any regulations made under section 134(1)﻿(g), that issuing officer may, by warrant, authorise an employee of the Ministry of Economic Development authorised for the purpose, or a constable, to exercise the powers conferred by subsection (1) in relation to any premises, building, aircraft, ship, carriage, vehicle, box, receptacle, or place specified in the warrant.
 (4) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
 
 ### 121 Powers conferred by warrant
@@ -1082,7 +1082,7 @@ Where any person is alleged to have committed an infringement offence, that pers
   (a) by attaching an infringement notice, or a copy of an infringement notice, to the equipment to which the notice relates; or
   (b) by delivering it personally to the person who appears to have committed the infringement offence; or
   (c) by sending it by post addressed to that person at that person's last known place of residence or business.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person by post under subsection (2)(c) is deemed to have been served on the person when it would have been delivered in the ordinary course of post.
+(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person by post under subsection (2)﻿(c) is deemed to have been served on the person when it would have been delivered in the ordinary course of post.
 (4) Every infringement notice must be in the prescribed form and must contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence:
   (b) the amount of the infringement fee for that offence:
@@ -1129,7 +1129,7 @@ Where any person is alleged to have committed an infringement offence, that pers
   (b) radio apparatus of any class or classes:
   (c) any system for the effecting of radiocommunication, whether by transmission or reception, or both.
 (2) Any reference standard may be in like manner amended or revoked at any time.
-(3) Any reference standard may adopt as a standard or specification any New Zealand Standard within the meaning of the Standards Act 1988, or any specified part of any such New Zealand Standard.
+(3) Any reference standard may adopt as a standard or specification any New Zealand Standard or any part of a New Zealand Standard (as that term is defined in the Standards and Accreditation Act 2015).
 
 ### 133A Offence to disclose contents of radiocommunications
 (1) Every person commits an offence against this Act who receives a radiocommunication and who, knowing that the radiocommunication was not intended for that person,—
@@ -1184,7 +1184,7 @@ Where any person is alleged to have committed an infringement offence, that pers
 (1A) Different fees and different forms may be prescribed for different infringement offences.
 (1B) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, make regulations declaring receivers of any kind to be inappropriate receivers for the purposes of this Act.
 (1C) The Minister may only make a recommendation under subsection (1B) if the Minister is satisfied that the type of receiver concerned will or may compromise the optimal utilisation of the radio frequency spectrum.
-(1D) The power to regulate in relation to interfering equipment, susceptible equipment, or other equipment under subsection (1)(g) includes the power to regulate in relation to such equipment that is, or may be, exported from New Zealand pursuant to the Conformity Cooperation Agreement.
+(1D) The power to regulate in relation to interfering equipment, susceptible equipment, or other equipment under subsection (1)﻿(g) includes the power to regulate in relation to such equipment that is, or may be, exported from New Zealand pursuant to the Conformity Cooperation Agreement.
 (2) Without limiting the Interpretation Act 1999, no regulation made under this section shall be invalid because it leaves any matter to the discretion of the Secretary or any other person or because it authorises the Secretary or any other person to give any consent or approval or to set any standard on or subject to conditions to be approved by the Secretary.
 (3) The Conformity Cooperation Agreement (including any amendments made to that agreement in accordance with it) and any standards or rules referred to in the Conformity Cooperation Agreement may be incorporated by reference in regulations made in reliance on subsection (1D).
 (4) The provisions of Schedule 8 apply to material incorporated by reference in regulations made in reliance on subsection (1D).
@@ -1226,7 +1226,7 @@ Where any person is alleged to have committed an infringement offence, that pers
 (5) The notice must specify—
   (a) that the spectrum licence is cancelled; and
   (b) the date from which the cancellation is to apply.
-(6) As soon as practicable after receiving a notice under subsection (3)(b), the Registrar must ensure that the details specified in the notice are sent, by electronic or other means, to the rightholder.
+(6) As soon as practicable after receiving a notice under subsection (3)﻿(b), the Registrar must ensure that the details specified in the notice are sent, by electronic or other means, to the rightholder.
 
 **Distress calls**
 
@@ -1238,7 +1238,7 @@ Nothing in this Act shall prohibit any person in distress from using any means a
 ### 138 Application of Commerce Act 1986 to acquisition or disposition of management rights or licence in relation to radio frequencies
 (1) Subject to subsections (2) and (3), for the purposes of section 47 of the Commerce Act 1986, management rights in relation to radio frequencies and spectrum licences created under section 48 shall be deemed to be assets of a business.
 (2) Nothing in subsection (1) applies in respect of the acquisition, by the Crown, of the management rights in relation to any radio frequencies where those management rights are acquired by the Crown—
-  (a) on the recording, under section 10(2), of a record of management rights in relation to the frequencies to which those rights relate; or
+  (a) on the recording, under section 10(2), of a record of management rights in relation to the frequencies to which those rights relate.
   (b)
 (3) Nothing in subsection (1) applies in respect of the acquisition, by any person, of any management rights or any spectrum licence, where those management rights or that spectrum licence are or is acquired by that person pursuant to any right conferred on that person by Part 16.
 
@@ -1298,13 +1298,13 @@ Without limiting sections 140 and 141, any document made or any thing whatsoever
     (i) is the holder of a radio licence in relation to that frequency, being a radio licence that was issued to that person in order to enable that person to exercise that person's rights under a sound-radio warrant under the Broadcasting Act 1976 of which that person was the holder at the close of 30 June 1989; or
     (ii) is the holder of a radio licence in relation to that frequency, being a radio licence granted to that person pursuant to section 95(2) of the Broadcasting Act 1989; or
     (iii) is entitled, pursuant to section 95(2) of the Broadcasting Act 1989, to be granted a radio licence in relation to that frequency.
-(2) The television services to which subsection (1)(a) applies are—
+(2) The television services to which subsection (1)﻿(a) applies are—
   (a) the service known as TV1:
   (b) the service known as TV2:
   (c) the service known as TV3.
 
 ### 146A Transfer of rights of incumbents in relation to television services
-(1) Subject to subsection (2), a person who is the incumbent in relation to a frequency to which section 145 applies, being a frequency used for the purposes of any television service to which section 146(1)(a) applies, may transfer that person's rights as the incumbent to any other person.
+(1) Subject to subsection (2), a person who is the incumbent in relation to a frequency to which section 145 applies, being a frequency used for the purposes of any television service to which section 146(1)﻿(a) applies, may transfer that person's rights as the incumbent to any other person.
 (2) A transfer to which subsection (1) applies shall not take effect unless the Secretary, at the written request of the incumbent, issues to the transferee the radio apparatus licences in relation to the frequency.
 (3) When a transfer to which subsection (1) applies takes effect, the transferee—
   (a) shall become the incumbent in relation to the frequency; and
@@ -1313,7 +1313,7 @@ Without limiting sections 140 and 141, any document made or any thing whatsoever
     (ii) perform the obligations imposed on the incumbent by this Part.
 
 ### 147 Broadcasting Tribunal to certify incumbents
-(1) No person shall be entitled, by virtue of being an incumbent under section 146(1)(b), to be granted any spectrum licence under section 145 in relation to any frequency unless that person holds a certificate issued by the Broadcasting Tribunal certifying that the person—
+(1) No person shall be entitled, by virtue of being an incumbent under section 146(1)﻿(b), to be granted any spectrum licence under section 145 in relation to any frequency unless that person holds a certificate issued by the Broadcasting Tribunal certifying that the person—
   (a) at the close of 30 June 1989, held a sound-radio warrant under the Broadcasting Act 1976 in relation to that frequency; or
   (b) is or was entitled, pursuant to section 95(2) of the Broadcasting Act 1989, to be granted a radio licence in relation to that frequency.
 (2) The Broadcasting Tribunal shall, on application made on the form provided for the purpose by the Tribunal, issue a certificate certifying whether or not the applicant—
@@ -1333,12 +1333,12 @@ Without limiting sections 140 and 141, any document made or any thing whatsoever
   (a) an annual levy calculated in accordance with section 150; or
   (b) the amount calculated in accordance with section 151.
 (2) The payment or payments required by subsection (1) are in addition to any fees payable in respect of the spectrum licence under any regulations made under section 135.
-(3) The payment required by subsection (1)(b) shall be payable,—
-  (a) in the case of any spectrum licence issued in relation to a frequency to which section 146(1)(b) applies, on 30 June 1992:
-  (b) in the case of any spectrum licence issued in relation to a frequency to which section 146(1)(a) applies, on 30 September 1995.
+(3) The payment required by subsection (1)﻿(b) shall be payable,—
+  (a) in the case of any spectrum licence issued in relation to a frequency to which section 146(1)﻿(b) applies, on 30 June 1992:
+  (b) in the case of any spectrum licence issued in relation to a frequency to which section 146(1)﻿(a) applies, on 30 September 1995.
 
 ### 150 Payment of annual levy
-(1) The annual levy payable pursuant to section 149(1)(a) by an incumbent in respect of each spectrum licence granted to that person pursuant to section 145—
+(1) The annual levy payable pursuant to section 149(1)﻿(a) by an incumbent in respect of each spectrum licence granted to that person pursuant to section 145—
   (a) shall be payable in respect of each financial year during which that person holds that spectrum licence; and
   (b) shall be an amount equal to 1.5% of the gross income of that person in the financial year in respect of which the levy is payable; and
   (c) shall be paid not later than 6 months after the end of the financial year to which it relates.
@@ -1349,20 +1349,20 @@ Without limiting sections 140 and 141, any document made or any thing whatsoever
   (b) shall be accompanied by a certificate signed by an auditor and stating whether or not, in that auditor's opinion, the return represents a true and fair statement of the gross income of the incumbent.
 
 ### 151 Lump sum payment
-(1) The amount payable pursuant to section 149(1)(b) by an incumbent in respect of each spectrum licence granted to that person pursuant to section 145 shall be an amount ascertained in accordance with the following formula:a × bwhere—ais 1.5% of the gross income of the incumbent for the year ending on 31 December 1991; andbis 4.87.
-(2) Notwithstanding anything in subsection (1), but subject to subsection (5), where a spectrum licence is granted to any person pursuant to section 145 by virtue of that person being an incumbent under section 146(1)(b), the amount payable pursuant to section 149(1)(b) by that incumbent in respect of that spectrum licence shall be—whichever is the smaller.
+(1) The amount payable pursuant to section 149(1)﻿(b) by an incumbent in respect of each spectrum licence granted to that person pursuant to section 145 shall be an amount ascertained in accordance with the following formula:a × bwhere—ais 1.5% of the gross income of the incumbent for the year ending on 31 December 1991; andbis 4.87.
+(2) Notwithstanding anything in subsection (1), but subject to subsection (5), where a spectrum licence is granted to any person pursuant to section 145 by virtue of that person being an incumbent under section 146(1)﻿(b), the amount payable pursuant to section 149(1)﻿(b) by that incumbent in respect of that spectrum licence shall be—whichever is the smaller.
   (a) the amount calculated in accordance with subsection (1); or
   (b) the amount calculated in accordance with subsection (3),—
-(3) The amount referred to in subsection (2)(b) is the amount that is 50% of the average amount payable to the Secretary by way of consideration for all other comparable spectrum licences—
+(3) The amount referred to in subsection (2)﻿(b) is the amount that is 50% of the average amount payable to the Secretary by way of consideration for all other comparable spectrum licences—
   (a) that have applying to them a receive coverage area that in the case of each spectrum licence covers not less than 90% of the receive coverage area applying to the spectrum licence granted to the incumbent; and
   (b) that are disposed of by the Crown before 1 January 1992 by way of competitive tender.
 (4) For the purposes of subsection (3), a comparable spectrum licence is—
   (a) where the frequency in relation to which the incumbent is granted a spectrum licence pursuant to section 145 is within the range of frequencies that are not less than 526.5 kHz and do not exceed 1606.5 kHz, any other spectrum licence that relates to any frequency that is within that range of frequencies:
   (b) where the frequency in relation to which the incumbent is granted a spectrum licence pursuant to section 145 is within the range of frequencies that are not less than 88.5 MHz and do not exceed 100.0 MHz, any other spectrum licence that relates to any frequency that is within that range of frequencies.
-(5) Subsection (2) does not apply where no comparable spectrum licence is disposed of before the date referred to in subsection (3)(b).
+(5) Subsection (2) does not apply where no comparable spectrum licence is disposed of before the date referred to in subsection (3)﻿(b).
 
 ### 152 Return to accompany lump sum payment
-(1) Every payment made pursuant to section 149(1)(b) by an incumbent shall be accompanied by a return of the gross income of the incumbent for the year ending on 31 December 1991.
+(1) Every payment made pursuant to section 149(1)﻿(b) by an incumbent shall be accompanied by a return of the gross income of the incumbent for the year ending on 31 December 1991.
 (2) The return—
   (a) shall be in such form and contain such particulars as the Secretary may require; and
   (b) shall be accompanied by a certificate signed by an auditor and stating whether or not, in that auditor's opinion, the return represents a true and fair statement of the gross income of the incumbent for the period referred to in subsection (1).
@@ -1396,11 +1396,11 @@ In sections 155 to 161, unless the context otherwise requires, the term incumben
   (a) an annual levy calculated in accordance with section 158; or
   (b) the amount calculated in accordance with section 159.
 (2) The payment or payments required by subsection (1) are in addition to any fees payable in respect of that person's registration under any regulations made under section 135.
-(3) The payment required by subsection (1)(b) shall be payable on 30 June 1992.
+(3) The payment required by subsection (1)﻿(b) shall be payable on 30 June 1992.
 (4) Where, pursuant to section 155, the incumbent is registered as manager in respect of 2 or more frequencies, the payment or payments required by subsection (1) shall be payable in respect of 1 registration only.
 
 ### 158 Payment of annual levy
-(1) The annual levy payable pursuant to section 157(1)(a) by the incumbent in respect of that person's registration, pursuant to section 155, as manager in respect of any frequency to which section 155 applies—
+(1) The annual levy payable pursuant to section 157(1)﻿(a) by the incumbent in respect of that person's registration, pursuant to section 155, as manager in respect of any frequency to which section 155 applies—
   (a) shall be payable in respect of each financial year during which that person is registered, pursuant to section 155, as manager in respect of any such frequency; and
   (b) shall be an amount equal to 1.5% of the gross income of the incumbent in the financial year in respect of which the levy is payable, being gross income in respect of the provision of any services that involve the exercise of the rights conferred by any spectrum licence granted pursuant to the incumbent's management rights in relation to any such frequency; and
   (c) shall be paid not later than 6 months after the end of the financial year to which it relates.
@@ -1411,17 +1411,17 @@ In sections 155 to 161, unless the context otherwise requires, the term incumben
   (b) shall be accompanied by a certificate signed by an auditor and stating whether or not, in that auditor's opinion, the return represents a true and fair statement of the gross income of the incumbent.
 
 ### 159 Lump sum payment
-(1) The amount payable pursuant to section 157(1)(b) by the incumbent in respect of the incumbent's registration, pursuant to section 155, in respect of any frequency to which section 155 applies shall be an amount ascertained in accordance with the following formula:a × bwhere—ais 1.5% of the gross income of the incumbent for the year ending on 31 December 1991, being gross income in respect of the provision of any services that involve the exercise of the rights conferred by any spectrum licence granted pursuant to the incumbent's management rights in relation to any frequency to which section 155 applies; andbis 4.87.
-(2) Notwithstanding anything in subsection (1), where the management rights in relation to the frequencies of the AMPS A Band are disposed of by the Crown by way of competitive tender before 1 January 1992, the amount payable pursuant to section 157(1)(b) by an incumbent in respect of the incumbent's registration, pursuant to section 155, in respect of any frequency to which section 155 applies shall be—whichever is the smaller.
+(1) The amount payable pursuant to section 157(1)﻿(b) by the incumbent in respect of the incumbent's registration, pursuant to section 155, in respect of any frequency to which section 155 applies shall be an amount ascertained in accordance with the following formula:a × bwhere—ais 1.5% of the gross income of the incumbent for the year ending on 31 December 1991, being gross income in respect of the provision of any services that involve the exercise of the rights conferred by any spectrum licence granted pursuant to the incumbent's management rights in relation to any frequency to which section 155 applies; andbis 4.87.
+(2) Notwithstanding anything in subsection (1), where the management rights in relation to the frequencies of the AMPS A Band are disposed of by the Crown by way of competitive tender before 1 January 1992, the amount payable pursuant to section 157(1)﻿(b) by an incumbent in respect of the incumbent's registration, pursuant to section 155, in respect of any frequency to which section 155 applies shall be—whichever is the smaller.
   (a) the amount calculated in accordance with subsection (1); or
   (b) the amount calculated in accordance with subsection (3),—
-(3) The amount referred to in subsection (2)(b) is the amount that is 50% of the total amount payable to the Secretary by way of consideration for the management rights in relation to the frequencies of the AMPS A Band that are disposed of by the Crown by way of competitive tender before 1 January 1992.
+(3) The amount referred to in subsection (2)﻿(b) is the amount that is 50% of the total amount payable to the Secretary by way of consideration for the management rights in relation to the frequencies of the AMPS A Band that are disposed of by the Crown by way of competitive tender before 1 January 1992.
 (4) For the purposes of subsections (2) and (3), the frequencies of the AMPS A Band are as follows:
   (a) the frequencies that are within the range of frequencies that are not less than 825.0150 MHz and do not exceed 835.005 MHz; and
   (b) the frequencies that are within the range of frequencies that are not less than 870.0150 MHz and do not exceed 880.005 MHz.
 
 ### 160 Return to accompany lump sum payment
-(1) Every payment made pursuant to section 157(1)(b) by an incumbent shall be accompanied by a return of the gross income of the incumbent for the year ending on 31 December 1991.
+(1) Every payment made pursuant to section 157(1)﻿(b) by an incumbent shall be accompanied by a return of the gross income of the incumbent for the year ending on 31 December 1991.
 (2) The return—
   (a) shall be in such form and contain such particulars as the Secretary may require; and
   (b) shall be accompanied by a certificate signed by an auditor and stating whether or not, in that auditor's opinion, the return represents a fair and accurate statement of the gross income of the incumbent for the period referred to in subsection (1).
@@ -1460,23 +1460,23 @@ In sections 155 to 161, unless the context otherwise requires, the term incumben
   (a) an annual fee of $81; or
   (b) the amount calculated in accordance with section 166.
 (2) The payment or payments required by subsection (1) are in addition to any fees payable in respect of the spectrum licence under any regulations made under section 135.
-(3) The payment required by subsection (1)(b) shall be payable on 30 June 1992.
+(3) The payment required by subsection (1)﻿(b) shall be payable on 30 June 1992.
 
 ### 165 Payment of annual fee
-(1) The annual fee payable pursuant to section 164(1)(a) by a person in respect of each spectrum licence granted to that person pursuant to section 162—
+(1) The annual fee payable pursuant to section 164(1)﻿(a) by a person in respect of each spectrum licence granted to that person pursuant to section 162—
   (a) shall be payable in respect of each financial year during which that person holds that spectrum licence; and
   (b) shall be paid not later than 3 months after the end of the financial year to which it relates.
 (2) Where, during any financial year, a person holds such a spectrum licence for a period that is less than the whole of that financial year, the annual fee payable by that person shall be reduced in proportion to that period.
 
 ### 166 Lump sum payment
-(1) The amount payable pursuant to section 164(1)(b) by a person (in this section referred to as the incumbent) in respect of each spectrum licence granted to the incumbent pursuant to section 162 shall be—whichever is the smaller.
+(1) The amount payable pursuant to section 164(1)﻿(b) by a person (in this section referred to as the incumbent) in respect of each spectrum licence granted to the incumbent pursuant to section 162 shall be—whichever is the smaller.
   (a) $395; or
   (b) the amount calculated in accordance with subsection (2),—
-(2) The amount referred to in subsection (1)(b) is the amount that is 50% of the average amount payable to the Secretary by way of consideration for all comparable licences that are disposed of by the Crown before 1 January 1992 by way of competitive tender.
+(2) The amount referred to in subsection (1)﻿(b) is the amount that is 50% of the average amount payable to the Secretary by way of consideration for all comparable licences that are disposed of by the Crown before 1 January 1992 by way of competitive tender.
 (3) For the purposes of subsection (2), a comparable spectrum licence, in relation to the spectrum licence granted to the incumbent pursuant to section 162, is a spectrum licence—
   (a) that relates to any frequency to which section 162 applies; and
   (b) that relates to a base repeater apparatus that is located not more than 5 kilometres from the base repeater apparatus to which the spectrum licence granted to the incumbent relates.
-(4) Subsection (1)(b) does not apply where no comparable spectrum licence is disposed of before the date referred to in subsection (2).
+(4) Subsection (1)﻿(b) does not apply where no comparable spectrum licence is disposed of before the date referred to in subsection (2).
 
 ### 167 Transferee liable for payments
 Where the rightholder's rights pursuant to a spectrum licence granted to any person pursuant to section 162 are transferred to any other person, any payment that would have been required by section 164 to be made in respect of that spectrum licence by the first-mentioned person if those rights had not been transferred shall be payable by the transferee, and sections 164 to 166 shall apply accordingly as if the transferee were the first-mentioned person.
@@ -1521,7 +1521,7 @@ Where any body or organisation is specified in Schedule 7 as the operator on a f
 ### 172 Amendment of advertising restrictions, etc
 The Minister may, from time to time, by notice in the Gazette, revoke, vary, or add to—
   (a) any restrictions that, by virtue of section 171, are deemed to be incorporated into any radio licence:
-  (b) any conditions that, by virtue of section 170(3)(b), apply to any spectrum licence.
+  (b) any conditions that, by virtue of section 170(3)﻿(b), apply to any spectrum licence.
 
 **Transitional rights of other licenceholders under Part 13**
 
@@ -1555,12 +1555,12 @@ The Minister may, from time to time, by notice in the Gazette, revoke, vary, or 
     (i) in the case of a licence that relates to the service known as the FM Concert Programme, that service:
     (ii) in the case of a licence that relates to the service known as National Radio, that service,—
   (b) that no advertising programme shall be broadcast on the frequency to which the licence relates when that frequency is used for the purposes of any service referred to in paragraph (a) or paragraph (b) of section 174(1).
-(3) Nothing in subsection (2)(b) prevents the inclusion in any programme of a credit in respect of a sponsorship or underwriting arrangement entered into in relation to that programme.
+(3) Nothing in subsection (2)﻿(b) prevents the inclusion in any programme of a credit in respect of a sponsorship or underwriting arrangement entered into in relation to that programme.
 
 ### 176 Conditions to lapse if public funding ceases
 (1) If public funds cease to be made available for the purpose of the service known as the FM Concert Programme or the service known as National Radio, then as from the specified date,—
   (a) the conditions deemed by section 175 to be incorporated in every radio licence or spectrum licence that relates to any frequency used for the purpose of the operation of the service shall lapse; and
-  (b) there shall be payable to the Secretary, in respect of each such licence (being a licence granted pursuant to section 174), by the holder of the licence, the annual levy referred to in section 149(1)(a), and the provisions of sections 149, 150, and 153 shall apply, as if the licence had been granted to the rightholder pursuant to section 145.
+  (b) there shall be payable to the Secretary, in respect of each such licence (being a licence granted pursuant to section 174), by the holder of the licence, the annual levy referred to in section 149(1)﻿(a), and the provisions of sections 149, 150, and 153 shall apply, as if the licence had been granted to the rightholder pursuant to section 145.
 (2) For the purposes of subsection (1), the specified date shall be either—
   (a) the date specified in any contract by which public funds are made available for the purposes of the service known as the FM Concert Programme or the service known as National Radio as the date on which public funds shall cease to be made available; or
   (b) where there is no contract of the kind referred to in paragraph (a), the last day of the financial year during which public funds were made available for the purposes of the service known as the FM Concert Programme or the service known as National Radio during that financial year.
@@ -1571,12 +1571,12 @@ The Minister may, from time to time, by notice in the Gazette, revoke, vary, or 
   (a) that the first priority for the use of the frequency to which the spectrum licence relates shall be the broadcasting of the proceedings of the House of Representatives pursuant to any agreement for the time being in force between the rightholder and any other person:
   (b)
   (c) that the rightholder shall pay to the Secretary an annual levy calculated in accordance with subsection (3), which levy is in addition to any fees payable in respect of the spectrum licence under any regulations made under section 135.
-(3) The annual levy payable pursuant to subsection (2)(c) by the rightholder—
+(3) The annual levy payable pursuant to subsection (2)﻿(c) by the rightholder—
   (a) shall be payable in respect of each financial year during which the rightholder holds any spectrum licence to which this section applies; and
   (b) shall be an amount equal to 1.5% of the gross income of the rightholder in the financial year in respect of which the levy is payable, being gross income derived from the provision of all services involving the exercise of the rights conferred by any spectrum licence to which this section applies (other than income derived from the provision of any service referred to in paragraph (a) of subsection (2)); and
   (c) shall be paid not later than 6 months after the end of the financial year to which it relates.
-(4) Subsections (2) to (4) of section 150 shall, with all necessary modifications, apply in respect of the levy payable pursuant to subsection (2)(c) as if the levy were payable pursuant to section 149(1)(a).
-(5) For the purposes of subsection (3)(b), the term gross income has the meaning given to that term by section 144.
+(4) Subsections (2) to (4) of section 150 shall, with all necessary modifications, apply in respect of the levy payable pursuant to subsection (2)﻿(c) as if the levy were payable pursuant to section 149(1)﻿(a).
+(5) For the purposes of subsection (3)﻿(b), the term gross income has the meaning given to that term by section 144.
 
 ### 178 Conditions of licences relating to 2YB service
 (1) This section applies to every spectrum licence that is granted, pursuant to section 174, to Radio New Zealand in relation to the frequencies used for the purposes of the operation of the service known as 2YB.
@@ -1584,12 +1584,12 @@ The Minister may, from time to time, by notice in the Gazette, revoke, vary, or 
   (a) that in relation to the service known as Wellington Access Radio, provision will be made for that service on the frequency to which the spectrum licence relates, being provision that, taken overall, is no less favourable than the provision afforded to that service on that frequency in the year 1989:
   (b)
   (c) that the rightholder shall pay to the Secretary an annual levy calculated in accordance with subsection (3), which levy is in addition to any fees payable in respect of the spectrum licence under any regulations made under section 135.
-(3) The annual levy payable pursuant to subsection (2)(c) by the rightholder—
+(3) The annual levy payable pursuant to subsection (2)﻿(c) by the rightholder—
   (a) shall be payable in respect of each financial year during which the rightholder holds any spectrum licence to which this section applies; and
   (b) shall be an amount equal to 1.5% of the gross income of the rightholder in the financial year in respect of which the levy is payable, being gross income derived from the provision of all services involving the exercise of the rights conferred by any spectrum licence to which this section applies (other than income derived from the provision of any service referred to in paragraph (a) of subsection (2)); and
   (c) shall be paid not later than 6 months after the end of the financial year to which it relates.
-(4) Subsections (2) to (4) of section 150 shall, with all necessary modifications, apply in respect of the levy payable pursuant to subsection (2)(c) as if the levy were payable pursuant to section 149(1)(a).
-(5) For the purposes of subsection (3)(b), the term gross income has the meaning given to that term by section 144.
+(4) Subsections (2) to (4) of section 150 shall, with all necessary modifications, apply in respect of the levy payable pursuant to subsection (2)﻿(c) as if the levy were payable pursuant to section 149(1)﻿(a).
+(5) For the purposes of subsection (3)﻿(b), the term gross income has the meaning given to that term by section 144.
 
 **Crown not entitled to transitional rights**
 
@@ -1624,11 +1624,11 @@ Notwithstanding anything in sections 145 to 178, nothing in this Part shall conf
   (b) that person creates, in respect of that frequency, any licence (being a licence to which section 48(a) applies) for the purposes of exercising any rights previously exercised by that person pursuant to the radio apparatus licence that related to that frequency immediately before a record of management rights was recorded pursuant to section 10(2) in relation to that frequency,—
 
 ### 182 Payments inclusive of goods and services tax
-The amount of any payment required to be made by section 149 or section 157 or section 164 or section 177(2)(c) or section 178(2)(c), whether that amount is specified in any of those sections or is calculated in accordance with any of the provisions of this Part, is inclusive of goods and services tax under the Goods and Services Tax Act 1985.
+The amount of any payment required to be made by section 149 or section 157 or section 164 or section 177(2)﻿(c) or section 178(2)﻿(c), whether that amount is specified in any of those sections or is calculated in accordance with any of the provisions of this Part, is inclusive of goods and services tax under the Goods and Services Tax Act 1985.
 
 ### 183 Recovery of payments
-(1) Any payment required by section 149 or section 157 or section 164 or section 177(2)(c) or section 178(2)(c) that is not paid in accordance with this Act may be recovered from the person liable at the suit of the Secretary in any court of competent jurisdiction.
-(2) Where any person fails wholly or in part to make any payment required by section 149 or section 157 or section 164 or section 177(2)(c) or section 178(2)(c) to be made to the Secretary by that person, an amount equal to the total for the time being unpaid to the Secretary in respect of that payment, and in respect of any judgment obtained for that payment (including any costs, fees, or expenses included in the judgment or otherwise payable by that person to the Secretary in respect of the judgment) shall be a charge on all the real and personal property of that person.
+(1) Any payment required by section 149 or section 157 or section 164 or section 177(2)﻿(c) or section 178(2)﻿(c) that is not paid in accordance with this Act may be recovered from the person liable at the suit of the Secretary in any court of competent jurisdiction.
+(2) Where any person fails wholly or in part to make any payment required by section 149 or section 157 or section 164 or section 177(2)﻿(c) or section 178(2)﻿(c) to be made to the Secretary by that person, an amount equal to the total for the time being unpaid to the Secretary in respect of that payment, and in respect of any judgment obtained for that payment (including any costs, fees, or expenses included in the judgment or otherwise payable by that person to the Secretary in respect of the judgment) shall be a charge on all the real and personal property of that person.
 (3) The provisions of section 169 of the Tax Administration Act 1994 (other than subsections (1) and (10)) shall, with all necessary modifications, apply in respect of any charge created by subsection (2) as if that charge were a charge created by that section and as if every reference in those provisions to the Commissioner were a reference to the Secretary.
 (4)
 (5)
@@ -1736,8 +1736,8 @@ Material incorporated by reference in regulations that expires or is revoked, or
 ### 7 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
 [Repealed]
 
-### 8 Application of Standards Act 1988 not affected
-Clauses 1 to 7 do not affect the application of sections 22 to 25 of the Standards Act 1988.
+### 8 Application of Standards and Accreditation Act 2015 not affected
+Clauses 1 to 7 do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
 ### 1 Title
 (1) This Act is the Radiocommunications Amendment Act 2000.
