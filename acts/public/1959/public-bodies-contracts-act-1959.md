@@ -1,5 +1,5 @@
 # Public Bodies Contracts Act 1959
-_Consolidation as at 2015-10-21_
+_Consolidation as at 2016-03-01_
 
 > An Act to make provision for the making of contracts by local authorities and other public bodies
 
@@ -102,7 +102,6 @@ This Act may be cited as the Public Bodies Contracts Act 1959.
 | Rural Electrical Reticulation Council | Electricity Act 1992 (1992 No 122) |
 | South Canterbury Wallaby Board | Agricultural Pests Destruction Amendment Act 1971 (1971 No 74) |
 | Sport and Recreation New Zealand | Sport and Recreation New Zealand Act 2002 (2002 No 38) |
-| Standards Council | Standards Act 1988 (1988 No 5) |
 | University Grants Committee | Universities Act 1961 (1961 No 54) |
 | Veterinary Council of New Zealand | Veterinarians Act 2005 (2005 No 126) |
 | Wairarapa Cadet Training Farm Trust Board | Taratahi Agricultural Training Centre (Wairarapa) Act 1969 (1969 No 138) |
