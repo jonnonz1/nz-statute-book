@@ -1,5 +1,5 @@
 # Standards Amendment Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Standards Amendment Act 2006.
@@ -20,18 +20,18 @@ The following section is inserted after section 2:Act binds the Crown
 
 ### 6 Membership of Council
 (1) Section 4(2) is repealed and the following subsection substituted:
-  (2) When appointing members under subsection (1)(b), the Minister must appoint from nominations made by nominating bodies as set out in regulations made under section 26.
+  (2) When appointing members under subsection (1)﻿(b), the Minister must appoint from nominations made by nominating bodies as set out in regulations made under section 26.
 (2) Section 4(3) is amended by omitting specified in paragraph (a), paragraph (b), paragraph (c), paragraph (d), paragraph (e), or paragraph (f) of that subsection and substituting specified in the regulations.
 
 ### 7 Functions of Council
 (1) Section 10(1) is amended by adding ; or and also by adding the following paragraphs:
   (e) minimising environmental risks; or
   (f) promoting social responsibility.
-(2) Section 10(2) is amended by inserting the following paragraph after paragraph (c):.
+(2) Section 10(2) is amended by inserting the following paragraph after paragraph (c):
   (ca) to recommend specifications other than standards:
-(3) Section 10(2)(d) is amended by adding and other specifications.
-(4) Section 10(2)(h) is amended by inserting and other specifications after standards.
-(5) Section 10(2)(i) is amended by adding or that the Minister may direct it to perform in accordance with section 112 of the Crown Entities Act 2004.
+(3) Section 10(2)﻿(d) is amended by adding and other specifications.
+(4) Section 10(2)﻿(h) is amended by inserting and other specifications after standards.
+(5) Section 10(2)﻿(i) is amended by adding or that the Minister may direct it to perform in accordance with section 112 of the Crown Entities Act 2004.
 
 ### 8 New heading and section 26 inserted
 The following heading and section are inserted after section 25:RegulationsRegulations
