@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2013-08-27_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -33,7 +33,7 @@ This Act is the Coroners Act 2006.
     (ii) to determine related matters such as whether to prohibit the making public of evidence and whether to authorise the making public of certain particulars of deaths suspected or found to be self-inflicted deaths; and
     (iii) on completing it, to complete and sign a certificate of findings in relation to the death; and
   (f) to give members and representatives of the immediate family of the person who is, or of a person who is suspected to be, the dead person concerned, and certain others, notice of significant matters in the carrying out of the duties and processes required by law to be performed or followed in relation to the death.
-(2) The 3 purposes referred to in subsection (1)(e)(i) are—
+(2) The 3 purposes referred to in subsection (1)﻿(e)﻿(i) are—
   (a) to establish, so far as possible,—
     (i) that a person has died; and
     (ii) the person's identity; and
@@ -104,8 +104,8 @@ In this Act, unless the context otherwise requires,—
   - **death in official custody or care** means a death described in any of paragraphs (e) to (l) of section 13(1) (deaths that must be reported under section 14(2))
   - **designated coroner** , in relation to a death,—
     (a) means the coroner designated by the chief coroner under section 133 to receive reports of, and perform every other part of the coroner's role in relation to, all deaths in the area in which the death occurred or that fall into another specified class into which the death falls; and
-    (b) includes a replacement designated coroner designated by the chief coroner under sections 16(2)(a) and 133
-  - **doctor** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+    (b) includes a replacement designated coroner designated by the chief coroner under sections 16(2)﻿(a) and 133
+  - **doctor** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **immediate family** , in relation to a dead person,—
     (a) means members of the dead person's family, whānau, or other culturally recognised family group, who—
       (i) were in a close relationship with the person; or
@@ -113,7 +113,7 @@ In this Act, unless the context otherwise requires,—
     (b) to avoid doubt, includes persons whose relationship to the dead person is, or is through 1 or more relationships that are, that or those of—
       (i) spouse, civil union partner, or de facto partner of the dead person:
       (ii) child, parent, guardian, grandparent, brother, or sister of the dead person:
-      (iii) stepchild, stepparent, stepbrother, or stepsister of the dead person
+      (iii) stepchild, step-parent, stepbrother, or stepsister of the dead person
   - **inquest** means a hearing held by a coroner in connection with an inquiry opened and conducted by a coroner under Part 3
   - **inquiry** means an inquiry into a death opened and conducted by a coroner under Part 3; and includes any related inquest held by the coroner
   - **investigation** , in relation to a death and a coroner, means every function, power, or duty the coroner may or must perform or exercise in relation to the death, including, without limitation, the coroner's functions, powers, or duties relating to—
@@ -134,7 +134,7 @@ In this Act, unless the context otherwise requires,—
     (d) the Director or a Deputy Director or a district inspector as defined in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
     (e) a district inspector as defined in section 5(1) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
     (f) the Health and Disability Commissioner appointed under section 8 of the Health and Disability Commissioner Act 1994:
-    (g) the Director or an officer as defined in section 2 of the Food Act 1981:
+    (g) a food safety officer as defined in section 8(1) of the Food Act 2014:
     (h) an inspector appointed under section 29(1) of the Health and Safety in Employment Act 1992:
     (i) the New Zealand Transport Agency established by section 93 of the Land Transport Management Act 2003:
     (j) a Medical Officer of Health under the Health Act 1956:
@@ -145,7 +145,7 @@ In this Act, unless the context otherwise requires,—
     (o) an inquiry to which section 6 of the Inquiries Act 2013 applies
   - **pathologist** —
     (a) means a doctor who is competent to perform post-mortems because his or her scope of practice (as defined in section 5(1) of the Health Practitioners Competence Assurance Act 2003) includes the branch of medicine of pathology; and
-    (b) in relation to a post-mortem directed under section 31, means the pathologist directed to perform the post-mortem; and includes another pathologist who, with a coroner's authorisation under section 38(1)(b), is attending, participating in, and helping with, the post-mortem
+    (b) in relation to a post-mortem directed under section 31, means the pathologist directed to perform the post-mortem; and includes another pathologist who, with a coroner's authorisation under section 38(1)﻿(b), is attending, participating in, and helping with, the post-mortem
   - **post-mortem** means a post-mortem examination
   - **relief coroner** means a person appointed under section 104
   - **Remuneration Authority** means the Authority established by section 4(1) of the Remuneration Authority Act 1977
@@ -153,7 +153,7 @@ In this Act, unless the context otherwise requires,—
   - **Secretary** means the chief executive of the responsible department
   - **specified recommendations or comments** means, in relation to a death, recommendations or comments by the designated coroner on either or both of the following:
     (a) the avoidance of circumstances similar to those in which the death occurred:
-    (b) the way in which any people should act in circumstances of that kind
+    (b) the way in which any person should act in circumstances of that kind
   - **vehicle** means a conveyance for use on land, whether or not it is also capable of being used on or over water.
 
 ### 10 Coroner defined
@@ -167,7 +167,7 @@ In this Act, unless the context otherwise requires,—
   (c) section 107 (concurrent office or employment):
   (d) sections 105(5) and 110(4) (resignation as chief coroner but not as coroner):
   (e) section 112 (resignation).
-(3) In the following sections, coroner does not, except as provided in section 109(2)(a), include a person who (under section 8(d) of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge:
+(3) In the following sections, coroner does not, except as provided in section 109(2)﻿(a), include a person who (under section 8(d) of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge:
   (a) section 108 (coroners act full-time unless authorised to act part-time):
   (b) section 109 (maximum number of coroners):
   (c) section 110 (salaries and allowances):
@@ -214,7 +214,7 @@ This Act binds the Crown.
   (a) an aircraft registered in New Zealand under the Civil Aviation Act 1990; or
   (b) a New Zealand ship (as defined in section 2(1) of the Maritime Transport Act 1994); or
   (c) an aircraft or ship of the Armed Forces (as defined in section 2(1) of the Armed Forces Discipline Act 1971).
-(3) Subsection (1)(e) and (f) and (h) to (j) apply to a death whether or not it occurred in the institution, residence, hospital, facility, or prison concerned.
+(3) Subsection (1)﻿(e) and (f) and (h) to (j) apply to a death whether or not it occurred in the institution, residence, hospital, facility, or prison concerned.
 
 ### 14 Reporting of deaths to police
 (1) A person who finds a body in New Zealand must report that finding to a member of the police as soon as practicable unless excused from doing so by subsection (3).
@@ -234,11 +234,11 @@ This Act binds the Crown.
 (3) A member of the police is not required by subsection (2) to report a death if he or she believes that the death is already known to, or will be reported by another member of the police to, the coroner, or a coroner, to whom the death is required by that subsection to be reported.
 
 ### 16 Chief coroner to designate replacement designated coroner or report death to original designated coroner
-(1) A coroner who is not the chief coroner but to whom a finding or death is reported under section 15(2)(b) must report it to the chief coroner as soon as practicable.
-(2) As soon as practicable after a finding or death is reported to him or her under section 15(2)(b) or subsection (1) of this section, the chief coroner must—
+(1) A coroner who is not the chief coroner but to whom a finding or death is reported under section 15(2)﻿(b) must report it to the chief coroner as soon as practicable.
+(2) As soon as practicable after a finding or death is reported to him or her under section 15(2)﻿(b) or subsection (1) of this section, the chief coroner must—
   (a) designate another coroner under section 133 as the designated coroner for the death concerned; and
   (b) report that death to that coroner.
-(3) However, if the designated coroner referred to in section 15(2)(a) has, since the report under section 15(2)(b), become available, then instead of acting under subsection (2) of this section the chief coroner may cause the death concerned to be reported under section 15(2)(a) to that designated coroner.
+(3) However, if the designated coroner referred to in section 15(2)﻿(a) has, since the report under section 15(2)﻿(b), become available, then instead of acting under subsection (2) of this section the chief coroner may cause the death concerned to be reported under section 15(2)﻿(a) to that designated coroner.
 
 ### 17 Investigations by police
 (1) If a death has been reported to a coroner under section 15, the Commissioner of Police must cause to be made all investigations—
@@ -251,13 +251,13 @@ This Act binds the Crown.
 ### 18 When police have exclusive right to custody of body
 (1) The New Zealand Police has an exclusive right to custody of the body concerned—
   (a) from the time when a member of the police first suspects on reasonable grounds that a death to which section 13 applies may have occurred; and
-  (b) until the death is reported to the designated coroner under section 15(2)(a) or section 16(2)(b) and the designated coroner therefore has, under section 19, an exclusive right to custody of the body.
-(2) Despite subsection (1)(b), the New Zealand Police must ensure the death is reported to the designated coroner under section 15(2)(a) or section 16(2)(b) as soon as practicable.
+  (b) until the death is reported to the designated coroner under section 15(2)﻿(a) or section 16(2)﻿(b) and the designated coroner therefore has, under section 19, an exclusive right to custody of the body.
+(2) Despite subsection (1)﻿(b), the New Zealand Police must ensure the death is reported to the designated coroner under section 15(2)﻿(a) or section 16(2)﻿(b) as soon as practicable.
 (3) Nothing in this section affects when that exclusive right can be and is exercised by or on behalf of the New Zealand Police, or prevents the New Zealand Police from exercising on behalf of the designated coroner his or her right under section 19.
 
 ### 19 When designated coroner has exclusive right to custody of body
 (1) The designated coroner has an exclusive right to custody of the body concerned—
-  (a) from the time when a death has been reported to him or her under section 15(2)(a) or section 16(2)(b); and
+  (a) from the time when a death has been reported to him or her under section 15(2)﻿(a) or section 16(2)﻿(b); and
   (b) until he or she authorises the release of the body under section 42.
 (2) Nothing in this section affects when that exclusive right can be and is exercised by or on behalf of the designated coroner.
 
@@ -271,7 +271,7 @@ A coroner is not required to view any body.
 
 ### 22 Representative for liaison with immediate family
 (1) This section applies to—
-  (a) a death reported to a coroner under section 15(2)(a) or section 16(2)(b) (the death); and
+  (a) a death reported to a coroner under section 15(2)﻿(a) or section 16(2)﻿(b) (the death); and
   (b) the immediate family of the person who is, or of a person who is suspected to be, the dead person concerned (the immediate family).
 (2) To facilitate effective liaison with the immediate family on the duties and processes required by law to be performed or followed in relation to the death, the coroner may, on a request by, or on behalf of, the immediate family, recognise and, after recognition, liaise mainly with, 1 or more representatives of the immediate family.
 (3) The coroner may recognise under this section only the smallest number of representatives necessary to represent fairly the interests of all the different members of the immediate family.
@@ -279,18 +279,18 @@ A coroner is not required to view any body.
 (5) Nothing in this section requires the performance or exercise of functions, powers, or duties in relation to the death to be delayed until a representative is recognised, or until his or her details are given to the coroner.
 
 ### 23 Coroner must give family representative, immediate family, and certain others notice of significant matters
-(1) A coroner to whom a death has been reported under section 15(2)(a) or section 16(2)(b) must take all reasonable steps to give the following notice, as soon as practicable, of significant matters in the carrying out of the duties and processes required by law to be performed or followed in relation to the death:
+(1) A coroner to whom a death has been reported under section 15(2)﻿(a) or section 16(2)﻿(b) must take all reasonable steps to give the following notice, as soon as practicable, of significant matters in the carrying out of the duties and processes required by law to be performed or followed in relation to the death:
   (a) any representatives recognised under section 22 of the immediate family of the person who is, or of a person who is suspected to be, the dead person concerned:
   (b) every member of the immediate family of that person (being a member of that immediate family who has asked to be notified of matters under this section, and has given the coroner contact details for that purpose, because his or her interests are not represented by a representative recognised under section 22):
   (c) any other people or organisations the coroner considers have an interest in the death apart from any interest in common with the public, and whose contact details are available to the coroner.
-(2) A failure to comply with this section or section 50(1)(b) (which relates to family, etc, being notified of the retention, and of the right to request the return, of retained body parts or bodily samples) does not affect the validity of any action taken by or on behalf of the coroner.
+(2) A failure to comply with this section or section 50(1)﻿(b) (which relates to family, etc, being notified of the retention, and of the right to request the return, of retained body parts or bodily samples) does not affect the validity of any action taken by or on behalf of the coroner.
 
 ### 24 Significant matters referred to in section 23(1)
 The significant matters referred to in section 23(1) include, without limitation:
-  (a) for people specified in section 23(1)(a) and (b) only, the right to object to a proposed post-mortem if, under section 33, specified family members have that right:
+  (a) for people specified in section 23(1)﻿(a) and (b) only, the right to object to a proposed post-mortem if, under section 33, specified family members have that right:
   (b) a direction by the coroner that a post-mortem of the body concerned be performed:
   (c) the coroner's reasons for directing that a post-mortem be performed:
-  (d) for people specified in section 23(1)(a) and (b) only, the retention or proposed retention of a body part or bodily sample, under section 48(2)(a) or (b) and for the purposes of the post-mortem (and, in particular, the matters in section 50(2) and (3)):
+  (d) for people specified in section 23(1)﻿(a) and (b) only, the retention or proposed retention of a body part or bodily sample, under section 48(2)﻿(a) or (b) and for the purposes of the post-mortem (and, in particular, the matters in section 50(2) and (3)):
   (e) that a copy of the pathologist's report on a post-mortem can be obtained under section 27:
   (f) the opening of an inquiry:
   (g) the date, time, and place fixed for an inquest:
@@ -298,7 +298,7 @@ The significant matters referred to in section 23(1) include, without limitation
 
 ### 25 Viewing, touching, or remaining with or near body in coroner's custody
 (1) This section applies to a body if—
-  (a) a death has been reported to a coroner under section 15(2)(a) or section 16(2)(b); and
+  (a) a death has been reported to a coroner under section 15(2)﻿(a) or section 16(2)﻿(b); and
   (b) the coroner's exclusive right to custody of the body, under section 19, is being exercised by him or her or on his or her behalf; and
   (c) 1 or more people to whom subsection (2) applies wish to view, touch, or remain with or near the body.
 (2) This subsection applies to the following people:
@@ -312,7 +312,7 @@ The significant matters referred to in section 23(1) include, without limitation
 ### 26 Matters to be taken into account under section 25(3)
 (1) The coroner must take into account the matters specified in subsection (2) in determining—
   (a) whether to authorise a person under section 25(3) to view, touch, or remain with or near the body; and
-  (b) any conditions imposed under section 25(3)(b) on the person's viewing, touching, or remaining with or near the body.
+  (b) any conditions imposed under section 25(3)﻿(b) on the person's viewing, touching, or remaining with or near the body.
 (2) The matters referred to in subsection (1) are—
   (a) any concerns the New Zealand Police or, if a post-mortem of the body has been directed under section 31, the pathologist may have about a pathologist's ability to determine the cause of death being limited by people viewing, touching, or remaining with or near the body:
   (b) all risks of contamination of evidence if the death appears to have been, or may appear later to have been, a result of conduct that constitutes a criminal offence:
@@ -329,7 +329,7 @@ The significant matters referred to in section 23(1) include, without limitation
   (b) the coroner has possession of the pathologist's report on the post-mortem; and
   (c) a member of the person's family asks the coroner, after the completion of the post-mortem, for a copy of the report; and
   (d) the copy of the report is not, and does not (because of alterations or deletions) contain in legible form, information that the coroner has been asked by the New Zealand Police to withhold in order to avoid prejudicing the prevention, detection, investigation, prosecution, and punishment of criminal offences relating to the death concerned or its circumstances.
-(2) A copy of the report (whether it is, or contains, information withheld under subsection (1)(d), or not) may be requested, and made available, in accordance with section 29.
+(2) A copy of the report (whether it is, or contains, information withheld under subsection (1)﻿(d), or not) may be requested, and made available, in accordance with section 29.
 
 ### 28 Any person may access specified certificates and notices
 (1) On a written request for the purpose made to the responsible department, any person may, without charge, during ordinary office hours inspect and, on payment of the charge (if any) fixed by an officer or employee of the responsible department under section 30, obtain a copy of a certificate or notice given to the Secretary under this Act and that is—
@@ -338,7 +338,7 @@ The significant matters referred to in section 23(1) include, without limitation
   (c) a certificate under section 93 of a coroner's interim findings in relation to a death (which includes a written statement of the reasons for those findings); or
   (d) a certificate under section 94 of a coroner's findings in relation to a death (which includes a written statement of the reasons for those findings).
 (2) A copy may be obtained under subsection (1) despite a prohibition under section 74 (which empowers the coroner to prohibit the making public of evidence given at any part of inquiry proceedings), but nothing in this section permits a person to make public any information in contravention of section 71 (which relates to restrictions on the making public of details of self-inflicted deaths).
-(3) Subsections (1) and (2) apply to the following certificates and notices given to the Secretary under the Coroners Act 1988 (but, for the purposes of this subsection, the references in subsection (2) to sections 74 and 71 must be read as references to sections 25(2)(b) and 29 of that Act respectively):
+(3) Subsections (1) and (2) apply to the following certificates and notices given to the Secretary under the Coroners Act 1988 (but, for the purposes of this subsection, the references in subsection (2) to sections 74 and 71 must be read as references to sections 25(2)﻿(b) and 29 of that Act respectively):
   (a) a notice under section 20(2) of that Act of a coroner's decision not to hold an inquest under that Act:
   (b) a notice under section 28(7) of that Act of a coroner's decision not to open or resume an inquest under that Act:
   (c) a certificate under section 31 of that Act of a coroner's findings in relation to a death.
@@ -353,7 +353,7 @@ The significant matters referred to in section 23(1) include, without limitation
 (3) Nothing in this section authorises—
   (a) the publication of a document contrary to a prohibition under section 74 (which empowers the coroner to prohibit the making public of evidence given at any part of inquiry proceedings); or
   (b) the publication of any information in contravention of section 71 (which relates to restrictions on the making public of details of self-inflicted deaths).
-(4) Subsections (1) to (3) apply to the following (but, for the purposes of this subsection, the references in subsection (3) to sections 74 and 71 must be read as references to sections 25(2)(b) and 29 of the Coroners Act 1988 respectively):
+(4) Subsections (1) to (3) apply to the following (but, for the purposes of this subsection, the references in subsection (3) to sections 74 and 71 must be read as references to sections 25(2)﻿(b) and 29 of the Coroners Act 1988 respectively):
   (a) depositions transmitted to the Secretary under section 24(2) of the Coroners Act 1951; and
   (b) any document that is not a certificate or notice specified in section 28(3) but was given by a coroner to the Secretary under the Coroners Act 1988.
 
@@ -372,7 +372,7 @@ The significant matters referred to in section 23(1) include, without limitation
 (1) A coroner may direct a pathologist to perform a post-mortem of a body—
   (a) for the purpose of enabling the coroner to decide whether to open an inquiry into the death concerned; or
   (b) if the coroner is to open, or has opened and not completed, an inquiry into the death concerned.
-(2) If a coroner proposes to direct a post-mortem under this section, section 33 (right in some cases to object to post-mortem) may apply to that post-mortem and section 34(1)(d) (procedure for objections under section 33) may prohibit the coroner from directing that the post-mortem be performed.
+(2) If a coroner proposes to direct a post-mortem under this section, section 33 (right in some cases to object to post-mortem) may apply to that post-mortem and section 34(1)﻿(d) (procedure for objections under section 33) may prohibit the coroner from directing that the post-mortem be performed.
 (3) The pathologist must be a listed pathologist.
 (4) The pathologist must not be a doctor who, to the coroner's knowledge, was a doctor who attended the person concerned immediately before death.
 (5) If, in accordance with section 37, the coroner so directs, the pathologist must perform the post-mortem immediately.
@@ -408,7 +408,7 @@ In deciding whether to direct a post-mortem under section 31, a coroner must hav
 (2) If, 24 hours after the coroner determines that members of the immediate family have, under section 33, a right to object to the post-mortem, the coroner has received objections under section 33, he or she must as soon as practicable—
   (a) decide whether he or she still wishes to direct under section 31 that the post-mortem be performed; and
   (b) advise the objectors accordingly.
-(3) The coroner may direct under section 31 that the post-mortem be performed if, 48 hours after the objectors were advised under subsection (2)(b) that the coroner still wishes to direct that the post-mortem be performed, none of them has lodged an objection under this subsection in the High Court.
+(3) The coroner may direct under section 31 that the post-mortem be performed if, 48 hours after the objectors were advised under subsection (2)﻿(b) that the coroner still wishes to direct that the post-mortem be performed, none of them has lodged an objection under this subsection in the High Court.
 (4) In calculating the 48-hour period in subsection (3), hours count only if they are hours of working days.
 (5) An objection under subsection (3) is lodged by originating application in the manner provided by the High Court Rules (as defined in section 2 of the Judicature Act 1908).
 
@@ -447,7 +447,7 @@ In deciding whether to direct a post-mortem under section 31, a coroner must hav
   (f) any other doctor, or person training to be a doctor, if authorised to attend (for training purposes, or for any other purposes specified) by a coroner on an application for the purpose by or on behalf of the pathologist directed to perform the post-mortem:
   (g) a member of the police:
   (h) any other person, if authorised to attend by a coroner.
-(2) No doctor, nurse, or funeral director is responsible for the conduct of, or may participate in otherwise than by observing, a post-mortem just because he or she attends the post-mortem as a representative in accordance with subsection (1)(d) or (e).
+(2) No doctor, nurse, or funeral director is responsible for the conduct of, or may participate in otherwise than by observing, a post-mortem just because he or she attends the post-mortem as a representative in accordance with subsection (1)﻿(d) or (e).
 
 ### 39 Definitions for section 38
 In section 38 and this section,—
@@ -455,8 +455,8 @@ In section 38 and this section,—
     (a) with a national qualification in funeral directing or embalming or both; or
     (b) recognised as a funeral director by a body of persons whose business is, or includes, disposing of bodies
   - **national qualification** means a qualification registered on the National Qualifications Framework
-  - **National Qualifications Framework** means the framework for national qualifications in secondary schools and in post-school education and training developed by the Qualifications Authority under section 253(1)(c) of the Education Act 1989
-  - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
+  - **National Qualifications Framework** means the framework for national qualifications in secondary schools and in post-school education and training developed by the Qualifications Authority under section 253(1)﻿(c) of the Education Act 1989
+  - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
   - **Qualifications Authority** means the New Zealand Qualifications Authority established by Part 20 of the Education Act 1989.
 
 ### 40 Coroner may require person's doctor to report
@@ -473,7 +473,7 @@ A coroner may, by written notice to a doctor who attended a person before death,
   (b) until the authorised post-mortem has been completed, no coroner may—
     (i) give any directions under section 20 relating to the removal of the body; or
     (ii) authorise the release of the body under section 42.
-(5) The following sections apply to a direction under subsection (4)(a) as if it were a direction by a coroner under section 20:
+(5) The following sections apply to a direction under subsection (4)﻿(a) as if it were a direction by a coroner under section 20:
   (a) sections 128 to 130 (warrant for removal of body):
   (b) section 131 (power to seize evidence relevant to post-mortem):
   (c) section 136 (non-compliance with direction about removal of body).
@@ -487,7 +487,7 @@ A coroner may, by written notice to a doctor who attended a person before death,
 **Release of bodies, and retention and return of body parts and bodily samples**
 
 ### 42 Release of bodies
-(1) A coroner to whom a death has been reported under section 15(2)(a) or section 16(2)(b) must, if not prohibited from doing so by section 43 or 44, authorise the release of the body concerned as soon as he or she is satisfied that it is no longer necessary to withhold it from family members.
+(1) A coroner to whom a death has been reported under section 15(2)﻿(a) or section 16(2)﻿(b) must, if not prohibited from doing so by section 43 or 44, authorise the release of the body concerned as soon as he or she is satisfied that it is no longer necessary to withhold it from family members.
 (2) The coroner may, if not prohibited from doing so by section 43 or 44, authorise the release of the body.
 (3) The coroner's authorisation must be—
   (a) given by written notice in the prescribed form; and
@@ -529,13 +529,13 @@ A coroner may authorise the release of a child under section 42 (and references 
   (b) the retention is, in the pathologist's opinion, necessary for the purposes of the post-mortem, and is authorised by the coroner in accordance with section 49; or
   (c) the pathologist explained to the family members or other people to whom the body is to be released that the pathologist proposed to retain the part or sample for a specified purpose and none of those members or people objected to the pathologist's proposal.
 
-### 49 Coroner's authorisation under section 48(2)(b)
-A coroner may authorise the retention of a body part or bodily sample under section 48(2)(b) only in writing signed by the coroner, and only if the pathologist has first notified the coroner in writing of—
+### 49 Coroner's authorisation under section 48(2)﻿(b)
+A coroner may authorise the retention of a body part or bodily sample under section 48(2)﻿(b) only in writing signed by the coroner, and only if the pathologist has first notified the coroner in writing of—
   (a) the part or sample proposed to be retained; and
   (b) the reasons for, and likely duration of, the proposed retention.
 
 ### 50 Coroner must notify family, etc, of retention, and of right to request return, of retained parts and samples
-(1) If a part or sample has been, or is to be, retained under section 48(2)(a) or (b) , the coroner must, on or before releasing the body,—
+(1) If a part or sample has been, or is to be, retained under section 48(2)﻿(a) or (b) , the coroner must, on or before releasing the body,—
   (a) notify the family members or other people to whom the body is or is to be released of the retention or proposed retention of the part or sample; and
   (b) comply with section 23 (coroner must give family representative, immediate family, and certain others notice of significant matters) in relation to the retention or proposed retention of the part or sample.
 (2) The notice required by subsection (1) of the retention or proposed retention of the part or sample must—
@@ -547,8 +547,8 @@ A coroner may authorise the retention of a body part or bodily sample under sect
   (a) have the right to request, under this section, the return (to the extent permitted by this Act) of the part or sample once it is no longer needed, and to the extent that it has not been destroyed in the course of use, for the purpose for which it is to be, or has been, retained; and
   (b) may exercise that right at any time within 5 working days after having been advised of it.
 
-### 51 Pathologists proposing to retain parts or samples under section 48(2)(c) must advise of right to request return
-In ascertaining whether the family members or other people to whom the body is to be released object to a proposal under section 48(2)(c) to retain a part or sample for a specified purpose, the pathologist must advise them that, if they do not object to the proposal, they—
+### 51 Pathologists proposing to retain parts or samples under section 48(2)﻿(c) must advise of right to request return
+In ascertaining whether the family members or other people to whom the body is to be released object to a proposal under section 48(2)﻿(c) to retain a part or sample for a specified purpose, the pathologist must advise them that, if they do not object to the proposal, they—
   (a) have the right to request, under this section, the return (to the extent permitted by this Act) of the part or sample once it is no longer needed, and to the extent that it has not been destroyed in the course of use, for that purpose; and
   (b) may exercise that right at any time within 5 working days after having been advised of it.
 
@@ -566,7 +566,7 @@ In ascertaining whether the family members or other people to whom the body is t
 
 ### 54 Restrictions on return and disposal
 (1) A part or sample referred to in section 53 or 55 may be retained, or may be returned subject to specified conditions (for example, conditions relating to the storage of the part or sample in a sealed container) if, in the pathologist's opinion, returning it, or returning it otherwise than subject to the specified conditions, would endanger the health or safety of the public or a member of the public.
-(2) No part or sample referred to in section 53 or 55 or section 56 may be returned or disposed of under that section unless—
+(2) No part or sample referred to in sections 53, 55, or 56 may be returned or disposed of under that section unless—
   (a) the coroner has first confirmed in writing that the return or disposal (as the case requires) of the part or sample appears unlikely to prejudice the prevention, detection, investigation, prosecution, and punishment of criminal offences relating to the death concerned or its circumstances; and
   (b) the return or disposal is otherwise lawful.
 
@@ -619,7 +619,7 @@ In ascertaining whether the family members or other people to whom the body is t
 (5) This section overrides section 57 (purposes of inquiries), but is subject to section 68 (procedure if person charged with offence).
 
 ### 59 Jurisdiction of coroners to open inquiries
-A coroner to whom a death is reported under section 15(2)(a) or section 16(2)(b) must not open an inquiry into it unless—
+A coroner to whom a death is reported under section 15(2)﻿(a) or section 16(2)﻿(b) must not open an inquiry into it unless—
   (a) the body of the person concerned is in New Zealand; or
   (b) the coroner is satisfied that it is likely that the person concerned is dead, and that the person's body—
     (i) is destroyed, irrecoverable, or lost; but
@@ -629,7 +629,7 @@ A coroner to whom a death is reported under section 15(2)(a) or section 16(2)(b)
     (ii) the Solicitor-General has authorised the coroner to open an inquiry into the death.
 
 ### 60 Deaths into which inquiries must be opened
-(1) A coroner to whom a death is reported under section 15(2)(a) or section 16(2)(b) must open and conduct an inquiry into it—
+(1) A coroner to whom a death is reported under section 15(2)﻿(a) or section 16(2)﻿(b) must open and conduct an inquiry into it—
   (a) if it appears to have been—
     (i) self-inflicted; or
     (ii) a death in official custody or care (as defined in section 9); or
@@ -637,17 +637,17 @@ A coroner to whom a death is reported under section 15(2)(a) or section 16(2)(b)
 (2) This section is subject to section 59 (jurisdiction of coroners to open inquiries) and section 61 (deaths where coroner may decide not to open inquiries).
 
 ### 61 Deaths where coroner may decide not to open inquiries
-(1) The coroner to whom a death has been reported under section 15(2)(a) or section 16(2)(b) may decide not to open an inquiry into it if satisfied that—
+(1) The coroner to whom a death has been reported under section 15(2)﻿(a) or section 16(2)﻿(b) may decide not to open an inquiry into it if satisfied that—
   (a) the death occurred outside New Zealand, or was caused by matters arising outside New Zealand; and
   (b) an inquiry or investigation into it has been or will be conducted outside New Zealand.
-(2) The coroner to whom a death has been reported under section 15(2)(a) or section 16(2)(b) may decide not to open an inquiry into it if satisfied that the death occurred outside New Zealand, and otherwise than on or from—
+(2) The coroner to whom a death has been reported under section 15(2)﻿(a) or section 16(2)﻿(b) may decide not to open an inquiry into it if satisfied that the death occurred outside New Zealand, and otherwise than on or from—
   (a) an aircraft registered in New Zealand under the Civil Aviation Act 1990; or
   (b) a New Zealand ship (as defined in section 2(1) of the Maritime Transport Act 1994); or
   (c) an aircraft or ship of the Armed Forces (as defined in section 2(1) of the Armed Forces Discipline Act 1971).
 (3) This section is subject to sections 95 to 97 (inquiries or further inquiries ordered by Solicitor-General or High Court).
 
 ### 62 Other deaths
-(1) The coroner to whom a death has been reported under section 15(2)(a) or section 16(2)(b) must decide whether or not to open and conduct an inquiry into it.
+(1) The coroner to whom a death has been reported under section 15(2)﻿(a) or section 16(2)﻿(b) must decide whether or not to open and conduct an inquiry into it.
 (2) This section is subject to the following sections:
   (a) section 59 (jurisdiction of coroners to open inquiries):
   (b) section 60 (deaths into which inquiries must be opened):
@@ -677,7 +677,7 @@ In deciding whether to open and conduct an inquiry, a coroner must have regard t
 (1) An inquiry the High Court or Solicitor-General orders to be opened under any of sections 95 to 97 is conducted by—
   (a) the coroner specified in the order under that section; or
   (b) the coroner authorised by the chief coroner if the order concerned specifies that the inquiry is to be opened and conducted by a coroner authorised by the chief coroner.
-(2) Every other inquiry is conducted by the coroner to whom the death concerned has been reported under section 15(2)(a) or section 16(2)(b) (coroner A) unless under subsection (3) the chief coroner authorises a coroner other than coroner A to conduct the inquiry, in which case the other coroner conducts the inquiry instead of coroner A.
+(2) Every other inquiry is conducted by the coroner to whom the death concerned has been reported under section 15(2)﻿(a) or section 16(2)﻿(b) (coroner A) unless under subsection (3) the chief coroner authorises a coroner other than coroner A to conduct the inquiry, in which case the other coroner conducts the inquiry instead of coroner A.
 (3) The chief coroner may authorise a coroner other than coroner A to conduct an inquiry to which subsection (2) applies if the chief coroner is satisfied that—
   (a) coroner A has a personal interest in the inquiry; or
   (b) it is necessary or desirable that coroner A not conduct the inquiry because of his or her workload, or his or her expertise or lack of expertise in particular areas; or
@@ -689,7 +689,7 @@ A coroner who opens an inquiry under any of sections 60, 62, and 65, or in accor
   (b) the Secretary.
 
 ### 68 Procedure if person charged with offence
-(1) This subsection applies to a coroner to whom a death has been reported under section 15(2)(a) or section 16(2)(b) and who—
+(1) This subsection applies to a coroner to whom a death has been reported under section 15(2)﻿(a) or section 16(2)﻿(b) and who—
   (a) has been informed that some person has been, or may be, charged with a criminal offence relating to the death or its circumstances; and
   (b) is satisfied that to open or (as the case requires) proceed with an inquiry might prejudice the person.
 (2) A coroner to whom subsection (1) applies may—
@@ -704,9 +704,9 @@ A coroner who opens an inquiry under any of sections 60, 62, and 65, or in accor
 (6) Criminal proceedings are finally concluded for the purposes of this section if no appeal (or, as the case requires, no further appeal) can be made in the course of the proceedings unless the High Court, Court of Appeal, or Supreme Court grants an extension of time.
 
 ### 69 Procedure if some other investigation to be conducted
-(1) This subsection applies to a coroner to whom a death has been reported under section 15(2)(a) or section 16(2)(b) and who is satisfied that—
+(1) This subsection applies to a coroner to whom a death has been reported under section 15(2)﻿(a) or section 16(2)﻿(b) and who is satisfied that—
   (a) an investigation into the death or the circumstances in which it occurred is being or is likely to be conducted under some enactment other than this Act; and either
-  (b) the matters specified in section 57(2)(a) to (e) (purposes of inquiries) are likely to be established in respect of the death by an investigation of that kind; or
+  (b) the matters specified in section 57(2)﻿(a) to (e) (purposes of inquiries) are likely to be established in respect of the death by an investigation of that kind; or
   (c) to open or continue with an inquiry would be likely to prejudice the investigation or any person interested in it.
 (2) A coroner to whom subsection (1) applies may—
   (a) postpone opening an inquiry into the death; or
@@ -714,7 +714,7 @@ A coroner who opens an inquiry under any of sections 60, 62, and 65, or in accor
 (3) A coroner who has under subsection (2) postponed or adjourned an inquiry may open or resume it if satisfied that—
   (a) an investigation into the death or the circumstances in which it occurred is not likely to be conducted under any enactment other than this Act; or
   (b) an investigation of that kind is being or is to be conducted, but—
-    (i) the matters specified in section 57(2)(a) to (e) (purposes of inquiries) are unlikely to be established in respect of the death by the investigation; and
+    (i) the matters specified in section 57(2)﻿(a) to (e) (purposes of inquiries) are unlikely to be established in respect of the death by the investigation; and
     (ii) to open or resume the inquiry will not prejudice the investigation or any person interested in it.
 (4) This section does not limit section 119.
 
@@ -722,7 +722,7 @@ A coroner who opens an inquiry under any of sections 60, 62, and 65, or in accor
 (1) This subsection applies to an inquiry postponed or adjourned under either of the following sections:
   (a) section 68 (procedure if person charged with offence):
   (b) section 69 (procedure if some other investigation to be conducted).
-(2) A coroner may decide not to open or resume an inquiry to which subsection (1) applies if satisfied that the matters specified in section 57(2)(a) to (e) (purposes of inquiries) have been adequately established in respect of the death concerned in the course of the criminal proceedings or investigation concerned.
+(2) A coroner may decide not to open or resume an inquiry to which subsection (1) applies if satisfied that the matters specified in section 57(2)﻿(a) to (e) (purposes of inquiries) have been adequately established in respect of the death concerned in the course of the criminal proceedings or investigation concerned.
 (3) Subsection (2) applies whether or not the criminal proceedings are finally concluded (as defined in section 68(6)) and overrides section 60 (deaths into which inquiries must be opened).
 (4) A coroner who decides under subsection (2) not to open or resume an inquiry must give the Secretary written notice of the decision.
 
@@ -734,7 +734,7 @@ A coroner who opens an inquiry under any of sections 60, 62, and 65, or in accor
 (2) If a coroner has found a death to be self-inflicted, no person may, without a coroner's authority or permission under section 72, make public a particular of the death other than—
   (a) the name, address, and occupation of the person concerned; and
   (b) the fact that the coroner has found the death to be self-inflicted.
-(3) The only grounds on which a coroner may under this section authorise the making public of particulars of the death (other than those specified in subsection (2)(a) and (b)) are that the making public of particulars of that kind is unlikely to be detrimental to public safety.
+(3) The only grounds on which a coroner may under this section authorise the making public of particulars of the death (other than those specified in subsection (2)﻿(a) and (b)) are that the making public of particulars of that kind is unlikely to be detrimental to public safety.
 (4) In determining whether the grounds specified in subsection (3) are made out, a coroner must have regard to—
   (a) the characteristics of the person who is, or is suspected to be, the dead person concerned; and
   (b) matters specified in any relevant practice notes issued under section 132 by the chief coroner; and
@@ -742,7 +742,7 @@ A coroner who opens an inquiry under any of sections 60, 62, and 65, or in accor
 
 ### 72 Permission referred to in section 71(2)
 For the purposes of section 71(2), this section gives permission for—
-  (a) the publication by the Independent Police Conduct Authority, under section 34(1)(b) of the Independent Police Conduct Authority Act 1988, of a report that includes a particular of the death; and
+  (a) the publication by the Independent Police Conduct Authority, under section 34(1)﻿(b) of the Independent Police Conduct Authority Act 1988, of a report that includes a particular of the death; and
   (b) the publication by the Commissioner of Police, under section 34(2) of that Act, of an opinion or recommendation under section 27 or 28 of that Act, or a part of any such opinion or recommendation, that includes a particular of the death; and
   (c) the making public by a person of a particular of the death contained in any such report, opinion, recommendation, or part of an opinion or recommendation, published under that Act.
 
@@ -770,11 +770,11 @@ If satisfied that it is in the interests of justice, decency, public order, or p
 (4) The Judge may (as the case requires), in the Judge's absolute discretion and on any ground the Judge thinks fit,—
   (a) confirm the refusal, or revoke it and issue an authority; or
   (b) confirm, modify, or revoke the prohibition.
-(5) An authority may be issued under subsection (4)(a) unconditionally, or subject to conditions the Judge thinks fit.
+(5) An authority may be issued under subsection (4)﻿(a) unconditionally, or subject to conditions the Judge thinks fit.
 
 ### 76 People from whom evidence generally to be heard
 (1) For the purposes of an inquiry, a coroner must (at an inquest or otherwise) receive evidence from any person—
-  (a) who offers, in respect of the death concerned, evidence relevant to any matter required by section 57(2)(a) to (e) (purposes of inquiries) to be established; or
+  (a) who offers, in respect of the death concerned, evidence relevant to any matter required by section 57(2)﻿(a) to (e) (purposes of inquiries) to be established; or
   (b) whom the coroner thinks it appropriate to examine.
 (2) The evidence received may be expert evidence.
 (3) Subsection (1) is subject to the rest of this Act.
@@ -784,8 +784,8 @@ If satisfied that it is in the interests of justice, decency, public order, or p
 (2) A coroner to whom subsection (1) applies may, instead of holding an inquest, hold a hearing on the papers and make chambers findings if the coroner—
   (a) gives notice under section 81 (date, etc, and notice of inquest) of the coroner's proposal to hold a hearing on the papers and make chambers findings, as if that proposal were an inquest; and
   (b) has, at or after the end of the period referred to in subsection (3), received no notification of an intention to give evidence in person from a person who, under section 76, is a person from whom evidence is generally to be heard for the purposes of an inquiry.
-(3) The notice given under subsection (2)(a) must state the period (which must be a period that the coroner considers reasonable in the circumstances) within which a person to whom the notice is to be given may notify the coroner of an intention to give evidence in person.
-(4) A coroner who has given notice under subsection (2)(a) must hold an inquest instead of holding a hearing on the papers and making chambers findings if he or she receives a notification of the kind referred to in subsection (2)(b).
+(3) The notice given under subsection (2)﻿(a) must state the period (which must be a period that the coroner considers reasonable in the circumstances) within which a person to whom the notice is to be given may notify the coroner of an intention to give evidence in person.
+(4) A coroner who has given notice under subsection (2)﻿(a) must hold an inquest instead of holding a hearing on the papers and making chambers findings if he or she receives a notification of the kind referred to in subsection (2)﻿(b).
 
 ### 78 Protection for witnesses and counsel
 The following have the same privileges and immunities as witnesses and counsel in courts of law:
@@ -857,7 +857,7 @@ A person who gives evidence at an inquest—
 ### 89 Others who may cross-examine at inquest
 (1) The following people may, personally or by counsel, attend an inquest and cross-examine witnesses:
   (a) any person to be given notice under section 23 (coroner must give family representative, immediate family, and certain others notice of significant matters); and
-  (b) any person notified of the date, time, and place of the inquest under section 81(1)(b) (either alone, or as applied by section 81(2)(c)).
+  (b) any person notified of the date, time, and place of the inquest under section 81(1)﻿(b) (either alone, or as applied by section 81(2)﻿(c)).
 (2) This section is subject to sections 86 and 87, and does not affect the coroner's powers to regulate the procedure of, or maintain order at, the inquest.
 
 ### 90 Evidence by written statement confirmed by witness
@@ -984,7 +984,7 @@ The Governor-General may appoint another coroner to act as chief coroner until t
 (4) The Attorney-General may (after consultation with the Minister) authorise a coroner to act part-time only—
   (a) at the request of the coroner; and
   (b) with the concurrence of the chief coroner.
-(5) In considering whether to concur under subsection (4)(b), the chief coroner must have regard to the need for coronial investigations to be conducted in an orderly and expeditious way.
+(5) In considering whether to concur under subsection (4)﻿(b), the chief coroner must have regard to the need for coronial investigations to be conducted in an orderly and expeditious way.
 (6) A coroner who is authorised to act part-time must resume acting full-time at the end of the authorised part-time period.
 (7) The basis on which a coroner acts must not be altered during the term of the coroner's appointment without the coroner's consent, but consent under this subsection is not necessary if the alteration is required by subsection (6).
 (8) Nothing in this section applies to a person who (under section 8(d) of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge.
@@ -1072,7 +1072,7 @@ The Governor-General may appoint another coroner to act as chief coroner until t
   (a) to give the coroner any information or class of information specified in the notice; or
   (b) to produce to the coroner, or to a person specified in the notice acting on the coroner's behalf in accordance with the notice, any document or class of documents or other thing specified in the notice.
 (2) The person on whom the notice is served must give or produce a thing (whether the thing is information, a class of information, a document, a class of documents, or any other thing) sought by the notice, except to the extent that the person is excused from doing so by section 121.
-(3) Information given in response to a notice under subsection (1)(a) must be given in writing and,—
+(3) Information given in response to a notice under subsection (1)﻿(a) must be given in writing and,—
   (a) if given by a natural person, must be signed by the person; and
   (b) if given by a body corporate, must be signed by an officer authorised to sign on behalf of the body corporate.
 (4) This section does not limit or affect a coroner's powers under any other enactment, for example, under section 28 (coroner may call for report on fatal accident) of the Health and Safety in Employment Act 1992.
@@ -1126,8 +1126,8 @@ A person may withhold a thing sought by a warrant under section 122 if, and to t
 
 ### 126 Review of dismissal of claim that section 121(2) applies
 (1) A person may, within 5 working days of the dismissal, apply to a High Court Judge for a review of the dismissal if—
-  (a) the person made a claim of the kind specified in section 121(1)(a) or section 125(a) or section 127(4); and
-  (b) the claim was dismissed by a coroner or a District Court Judge, as provided in section 121(1)(b) or section 125(b) or section 127(4)(a)(i) or (ii).
+  (a) the person made a claim of the kind specified in section 121(1)﻿(a) or section 125(a) or section 127(4); and
+  (b) the claim was dismissed by a coroner or a District Court Judge, as provided in section 121(1)﻿(b) or section 125(b) or section 127(4)﻿(a)﻿(i) or (ii).
 (2) The claim must, for the purposes of sections 121 and 125 and 127, be treated as not having been dismissed by the coroner or District Court Judge for the 5 working days referred to in subsection (1) of this section.
 (3) The High Court Judge may (as the case requires), in the Judge's absolute discretion and on any ground the Judge thinks fit, confirm, modify, or revoke the dismissal.
 
@@ -1177,7 +1177,7 @@ A warrant under section 128 authorises a member of the police executing the warr
 (1) To help to inform, and to achieve consistency in, coronial decision-making and other coronial conduct, the chief coroner may issue to coroners written practice notes (not inconsistent with this Act).
 (2) Section 6 requires a coroner, in performing or exercising a function, power, or duty, to have regard to any practice note issued under this section that is relevant to the performance or exercise of the function, power, or duty.
 (3) Practice notes under this section may specify matters to which coroners must have regard in—
-  (a) determining whether to authorise the making public of certain details of self-inflicted deaths (see section 71(4)(b)):
+  (a) determining whether to authorise the making public of certain details of self-inflicted deaths (see section 71(4)﻿(b)):
   (b) recommending to the chief coroner that a specialist adviser be appointed to sit with and help the coroner at an inquest (see section 83(2)):
   (c) holding joint inquests (see section 84(3)):
   (d) calling for investigations or examinations, or commissioning reports (see section 118(2)).
@@ -1201,7 +1201,7 @@ Every person commits an offence against this section, and is liable on convictio
   (a) a doctor's report required under section 40:
   (b) a witness's evidence put into writing, read over to or by the witness, and signed by the witness, in accordance with section 79(3):
   (c) reports commissioned by a coroner under section 118:
-  (d) documents prepared under section 120(1)(a) (coroner may by written notice require person to supply information or documents or other things).
+  (d) documents prepared under section 120(1)﻿(a) (coroner may by written notice require person to supply information or documents or other things).
 
 ### 136 Non-compliance with direction about removal of body
 Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $2,000, who—
@@ -1273,7 +1273,7 @@ The chief coroner's functions under section 7.
 ## Schedule 3 — Arrangements effective on and after 1 July 2007
 
 ### 1
-In this schedule, former Act means the Coroners Act 1988, and former coroner,—
+In this schedule, former Act means the Coroners Act 1988, and former coroner—
 (a) means a person who, immediately before the repeal of the former Act by section 143, held office under the former Act as a coroner or deputy coroner; and
 (b) in clauses 7, 8, 14 to 16, and 18, includes a person who, at any time before the repeal of the former Act,—
   (i) held office under the former Act as a coroner or deputy coroner; or
