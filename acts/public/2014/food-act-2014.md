@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Food Act 2014.
