@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-03-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -1886,7 +1886,7 @@ No exercise or purported exercise by the Minister of any power conferred on the 
   (d) any whitebait, sports fish, ornamental fish, or unwanted aquatic life; or
   (e) fish, aquatic life, or seaweed by any person in accordance with an authorisation given under the Marine Reserves Act 1971; or
   (f) seaweed of the class Rhodophyceae while it is unattached and cast ashore; or
-  (g) samples of fish, aquatic life, or seaweed under the authority of section 20 of the Food Act 1981 by an officer as defined in that Act or by a person assisting such an officer; or
+  (g) samples of fish, aquatic life, or seaweed under the authority of sections 304 and 312 of the Food Act 2014 by a food safety officer as defined in that Act or by a person assisting such an officer; or
   (h) samples of fish, aquatic life, or seaweed under the authority of section 6 of the Meat Act 1981 by an inspector as defined in that Act or by a person assisting such an inspector; or
   (ha) samples of fish, aquatic life, or seaweed under the authority of Part 7 of the Animal Products Act 1999 by an animal product officer or official assessor as defined in that Act, or by a person assisting such an officer or assessor; or
   (i) fish, aquatic life, or seaweed under the authority of a foreign fishing vessel licence issued under section 83; or
