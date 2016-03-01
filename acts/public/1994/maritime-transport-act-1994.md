@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2015-10-31_
+_Consolidation as at 2016-03-01_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -4799,7 +4799,7 @@ Before making any emergency rule under section 37 or section 391, the Director s
   (c) standards, requirements, or rules—
     (i) of any classification society or similar organisation; or
     (ii) of any maritime sporting or maritime recreational organisation; or
-    (iii) of Standards New Zealand, or a body or organisation outside New Zealand that has functions corresponding to the functions of the New Zealand Standards Council; or
+    (iii) of the NZ Standards Organisation, or a body or organisation outside New Zealand that has functions corresponding to the functions of the NZ Standards Organisation; or
     (iv) of a specialist body or organisation:
   (d) any other material or document that, in the opinion of the Minister or the Director, is too large or impractical to be printed as part of the rule.
 (2) Material may be incorporated by reference in a rule—
@@ -4819,7 +4819,7 @@ Before making any emergency rule under section 37 or section 391, the Director s
   (f) if copies of the material are available in other ways, the details of where or how the material can be accessed or obtained.
 (7) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
 (8) Nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
-(9) Subsections (1) to (8) do not affect the application of sections 22 to 24 of the Standards Act 1988.
+(9) Subsections (1) to (8) do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
 **Powers of entry**
 
