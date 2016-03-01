@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2015-09-01_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -693,7 +693,7 @@ The holder of an on-licence issued for premises or an off-licence (other than an
   (a) premises that are or form part of a supermarket or grocery shop; and
   (b) premises that can be reached from a supermarket or grocery shop without leaving it.
 (3) In subsection (1),—
-  - **appropriate New Zealand food standard** , in relation to any kind of alcohol, means the standard for alcohol of that kind that is for the time being in force under section 11C of the Food Act 1981
+  - **appropriate New Zealand food standard** , in relation to any kind of alcohol, means the standard for alcohol of that kind that is for the time being in force under the Food Act 2014
   - **beer** means the product, characterised by the presence of hops or preparations of hops, prepared by the yeast fermentation of an aqueous extract of malted or unmalted cereals, or both
   - **fruit or vegetable wine** —
     (a) means the product prepared from the complete or partial fermentation of any or all of the following:
