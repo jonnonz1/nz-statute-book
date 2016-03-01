@@ -1,5 +1,5 @@
 # Food Amendment Act (No 2) 1996
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2016-03-01_
 
 > An Act to amend the Food Act 1981
 
