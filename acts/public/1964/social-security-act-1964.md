@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-03-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -2321,7 +2321,7 @@ It is the duty of the chief executive to take all reasonable steps to assist any
     (iii) a supported living payment on the ground of sickness, injury, disability, or total blindness, under section 40B; or
     (iiia)
     (iv)
-    (v) jobseeker support; or
+    (v) jobseeker support, except where granted under section 88C(2) or (3); or
     (va) a young parent payment; or
     (vi) an emergency benefit granted, on an application made after 31 July 1991, under section 61; and
   (c) who, in respect of any dependent child in the care of the beneficiary, fails or refuses—
@@ -3196,7 +3196,7 @@ In this Part, unless the context otherwise requires,—
   - **evidential drug test** , for a person, means a drug test that, when undertaken by the person, complies with a standard that is—
     (a) a standard for drug tests for evidential purposes; and
     (b) a New Zealand standard, joint Australian/New Zealand standard, or other national or international standard; and
-    (c) prescribed (whether under sections 22 to 25 of the Standards Act 1988, or otherwise) in regulations made under section 132
+    (c) prescribed (whether under sections 29 to 32 of the Standards and Accreditation Act 2015, or otherwise) in regulations made under section 132
   - **fail** , for a person and a drug test, means,—
     (a) if the drug test is a screening drug test or an evidential drug test, not to pass the drug test; or
     (b) if the drug test is an evidential drug test, to waive in the situation specified in section 102B(4), and so under that section be taken for the purposes of this Act to have failed, that evidential drug test
