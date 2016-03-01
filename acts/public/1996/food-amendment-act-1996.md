@@ -1,5 +1,5 @@
 # Food Amendment Act 1996
-_Consolidation as at 1996-06-24_
+_Consolidation as at 2016-03-01_
 
 > An Act to amend the Food Act 1981
 
@@ -35,13 +35,13 @@ This section inserted s 11AA of the principal Act.
 This section inserted Part 2A of the principal Act.
 
 ### 10 Powers of officers
-This section amended s 12(2)(g) and (j) of the principal Act.
+This section amended s 12(2)﻿(g) and (j) of the principal Act.
 
 ### 11 Powers of local authority inspectors
-This section amended s 13(1)(d) of the principal Act.
+This section amended s 13(1)﻿(d) of the principal Act.
 
 ### 12 Further provisions relating to seizure and detention of articles
-This section amended s 14(3)(a) of the principal Act.
+This section amended s 14(3)﻿(a) of the principal Act.
 
 ### 13 Power to issue search warrant even though offence not imprisonable
 This section inserted s 15A of the principal Act.
@@ -53,7 +53,7 @@ This section amended s 17(1) of the principal Act.
 This section amended s 23(4) of the principal Act.
 
 ### 16 Special provisions relating to imported consignments
-This section amended s 24(1)(f) of the principal Act.
+This section amended s 24(1)﻿(f) of the principal Act.
 
 ### 17 Jurisdiction of District Courts
 (1) This subsection amended s 27(1) of the principal Act.
@@ -61,14 +61,14 @@ This section amended s 24(1)(f) of the principal Act.
 
 ### 18 Copy of analyst's certificate or report to be served with summons
 (1) This subsection inserted s 27A of the principal Act.
-(2) This subsection amended s 23(2)(a) of the principal Act.
+(2) This subsection amended s 23(2)﻿(a) of the principal Act.
 (3) This subsection amended s 33(1) of the principal Act.
 
 ### 19 General penalty
 This section amended s 28 of the principal Act.
 
 ### 20 Liability of principal for acts of agents, etc
-This section substituted s 29(2)(a) of the principal Act.
+This section substituted s 29(2)﻿(a) of the principal Act.
 
 ### 21 Strict liability
 This section amended s 30 of the principal Act.
@@ -109,7 +109,7 @@ This section amended Part 2 of Schedule 1 to the Summary Proceedings Act 1957.
 ### 31 Power to issue food standards between passage and commencement of this Act
 (1) Subject to this section, the power conferred by section 11C of the principal Act (as inserted by section 9 of this Act) to issue food standards may be exercised at any time after the date of commencement of this section as if Part 2A of the principal Act (as so inserted) came into force on that date.
 (2) The following provisions apply with respect to the issuing of food standards in reliance on this section:
-  (a) The Minister shall not issue food standards in reliance on this section unless the Minister is satisfied that it is necessary to do so for the purpose of giving effect to the provisions of Annex D(3)(a) of the Australia-New Zealand Joint Food Standards Agreement:
+  (a) The Minister shall not issue food standards in reliance on this section unless the Minister is satisfied that it is necessary to do so for the purpose of giving effect to the provisions of Annex D(3)﻿(a) of the Australia-New Zealand Joint Food Standards Agreement:
   (b) No food standards may be issued in reliance on this section after the 1st day of July 1996:
   (c) No food standards issued in reliance on this section may be expressed to come into force before the 1st day of July 1996:
   (d) Nothing in section 11E(2) of the principal Act (as inserted by section 9 of this Act) shall apply with respect to the issuing of food standards in reliance on this section:
