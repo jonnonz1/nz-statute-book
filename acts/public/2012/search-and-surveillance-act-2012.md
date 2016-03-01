@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2015-05-07_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -57,10 +57,10 @@ This Act is the Search and Surveillance Act 2012.
   - **Judge** means a District Court Judge or a Judge of the High Court
   - **law enforcement agency** means any department of State, Crown entity, local authority, or other body that employs or engages enforcement officers as part of its functions
   - **local authority** means a local authority within the meaning of section 5(1) of the Local Government Act 2002
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)⁠(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **non-business context** means a context other than a business context
   - **non-private premises** means premises, or part of a premises, to which members of the public are frequently permitted to have access, and includes any part of a hospital, bus station, railway station, airport, or shop
-  - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)⁠(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
+  - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
   - **Police article** has the same meaning as in section 4 of the Policing Act 2008
   - **Police bail** has the same meaning as in Part 2 of the Bail Act 2000
   - **Police employee** has the same meaning as in section 4 of the Policing Act 2008
@@ -168,7 +168,7 @@ A constable may stop a vehicle without a warrant to arrest a person if the const
   (c) search the vehicle to locate property that is evidential material in relation to any offence in respect of which the vehicle was stopped under section 9, if the person referred to in section 9—
     (i) has been arrested; or
     (ii) is seen fleeing from the vehicle before he or she can be arrested.
-(2) Before conducting a search under a power conferred by subsection (1)⁠(c), a constable must tell the driver the object of the proposed search, if the driver is not the person referred to in section 9.
+(2) Before conducting a search under a power conferred by subsection (1)﻿(c), a constable must tell the driver the object of the proposed search, if the driver is not the person referred to in section 9.
 
 ### Subpart 3 — Warrantless searches of people who are to be locked up in Police custody
 
@@ -198,7 +198,7 @@ A constable may stop a vehicle without a warrant to arrest a person if the const
 (1) All money and every item of property taken from a person under section 11 must be returned to him or her when he or she is released from custody, except for the following:
   (a) any money or property that, in the opinion of a constable, may need to be given in evidence in proceedings arising out of a charge brought against the person:
   (b) any money or property whose possession may, in the opinion of a constable, constitute an offence.
-(2) Despite subsection (1), when a person described in section 11(1) is released from Police custody and is placed in the custody of another person, all money and every item of property taken from him or her under section 11 (other than money or property of a kind described in subsection (1)⁠(a) or (b)) must, if practicable, be delivered—
+(2) Despite subsection (1), when a person described in section 11(1) is released from Police custody and is placed in the custody of another person, all money and every item of property taken from him or her under section 11 (other than money or property of a kind described in subsection (1)﻿(a) or (b)) must, if practicable, be delivered—
   (a) to the person into whose custody he or she is released; or
   (b) to the person in charge of the facility, if he or she is being released from Police custody in order to be held in custody in the facility.
 (3) Subsection (1) is subject to an order made under—
@@ -323,13 +323,13 @@ A constable conducting a search of a place or vehicle under section 20 may, with
 In this subpart,—
   - **disabling substance** means any anaesthetising or other substance produced to use for disabling a person, or intended for such use by the person who has it with him or her means any article made or altered to use for causing bodily injury, or intended for such use by the person who has it with him or her.
 
-### 27 Searching people in public places without search warrant if offence against section 202A(4)⁠(a) of Crimes Act 1961 suspected
-A constable who has reasonable grounds to suspect that a person is committing an offence against section 202A(4)⁠(a) of the Crimes Act 1961 (which relates to possession of knives, offensive weapons, and disabling substances) may, without a warrant, search the person.
+### 27 Searching people in public places without search warrant if offence against section 202A(4)﻿(a) of Crimes Act 1961 suspected
+A constable who has reasonable grounds to suspect that a person is committing an offence against section 202A(4)﻿(a) of the Crimes Act 1961 (which relates to possession of knives, offensive weapons, and disabling substances) may, without a warrant, search the person.
 
 ### 28 Stopping and searching vehicles without warrant if offence against section 202A of Crimes Act 1961 suspected
 (1) A constable who has reasonable grounds to suspect that the circumstances in subsection (2) exist in relation to a vehicle may search the vehicle.
 (2) The circumstances are that—
-  (a) a person travelling in the vehicle or who has alighted from it is committing an offence against section 202A(4)⁠(a) of the Crimes Act 1961 (which relates to possession of knives, offensive weapons, and disabling substances); and
+  (a) a person travelling in the vehicle or who has alighted from it is committing an offence against section 202A(4)﻿(a) of the Crimes Act 1961 (which relates to possession of knives, offensive weapons, and disabling substances); and
   (b) the vehicle contains a knife, offensive weapon, or disabling substance.
 
 ### Subpart 10 — Warrantless search of vehicle for stolen property
@@ -364,7 +364,7 @@ Any constable may do any or all of the following when a road block is authorised
   (a) establish a road block at the place specified in the authorisation:
   (b) stop vehicles at or in the vicinity of the road block:
   (c) require any person in or on any vehicle stopped by the road block who the constable has reasonable grounds to suspect has committed an offence punishable by imprisonment to state any or all of his or her name, address, and date of birth:
-  (d) search the vehicle for the purpose of locating a person referred to in section 30(2)⁠(a)⁠(i) or (ii), if the constable or any other constable has reasonable grounds to believe that the person is in or on the vehicle.
+  (d) search the vehicle for the purpose of locating a person referred to in section 30(2)﻿(a)﻿(i) or (ii), if the constable or any other constable has reasonable grounds to believe that the person is in or on the vehicle.
 
 ### Subpart 12 — Examination orders
 
@@ -516,9 +516,9 @@ Nothing in this Part affects the common law defence of necessity as it applies t
   (b) covert audio recording of a voluntary oral communication between 2 or more persons made with the consent of at least 1 of them:
   (c) activities carried out under the authority of an interception warrant issued under—
     (i) section 4A(1) or (2), 4IB(1) or (2), or 4ID(1) of the New Zealand Security Intelligence Service Act 1969; or
-    (ii) section 15A(1)⁠(a) of the Government Communications Security Bureau Act 2003:
+    (ii) section 15A(1)﻿(a) of the Government Communications Security Bureau Act 2003:
   (d) activities carried out by the enforcement officer's use of a surveillance device, if that use is authorised under any enactment other than this Act.
-(2) Subsection (1)⁠(b) does not prevent an enforcement officer from applying for a warrant authorising covert audio recording in the circumstances set out in that subsection.
+(2) Subsection (1)﻿(b) does not prevent an enforcement officer from applying for a warrant authorising covert audio recording in the circumstances set out in that subsection.
 
 ### 48 Surveillance device warrant need not be obtained for use of surveillance device in some situations of emergency or urgency
 (1) An enforcement officer who is in any 1 or more of the situations set out in subsection (2) may use a surveillance device for a period not exceeding 48 hours from the time the surveillance device is first used without obtaining a surveillance device warrant, if—
@@ -541,7 +541,7 @@ Nothing in this Part affects the common law defence of necessity as it applies t
     (i) to suspect that an offence has been committed, or is being committed, or is about to be committed in relation to a controlled drug specified or described in Schedule 1, Part 1 of Schedule 2, or Part 1 of Schedule 3 of the Misuse of Drugs Act 1975, or to a precursor substance specified or described in Part 3 of Schedule 4 of that Act; and
     (ii) to believe that use of the surveillance device would obtain evidential material in relation to the offence:
   (f) the enforcement officer has reasonable grounds—
-    (i) to believe that a person is in possession of any 1 or more of the things described in section 81(2)⁠(a) to (d); and
+    (i) to believe that a person is in possession of any 1 or more of the things described in section 81(2)﻿(a) to (d); and
     (ii) to believe that use of the surveillance device is necessary to facilitate the thing's seizure.
 (3) An enforcement officer using, or intending to use, a surveillance device in accordance with subsection (1) may do any or all of the following, using any force that is reasonable in the circumstances to do so, in order to install, maintain, or remove the surveillance device, or to access and use electricity to power the surveillance device:
   (a) enter any premises, area, or vehicle:
@@ -561,7 +561,7 @@ Nothing in this Part affects the common law defence of necessity as it applies t
   (f) the name, address, or other description of the person, place, vehicle, or other thing that is the object of the proposed surveillance:
   (g) a description of the evidential material believed to be able to be obtained by use of the surveillance device:
   (h) the period for which the warrant is sought.
-(2) If the enforcement officer cannot provide all the information required under subsection (1)⁠(f) and (g), the application must instead state the circumstances in which the surveillance is proposed to be undertaken in enough detail to identify the parameters of, and objectives to be achieved by, the proposed use of the surveillance device.
+(2) If the enforcement officer cannot provide all the information required under subsection (1)﻿(f) and (g), the application must instead state the circumstances in which the surveillance is proposed to be undertaken in enough detail to identify the parameters of, and objectives to be achieved by, the proposed use of the surveillance device.
 (3) The applicant must disclose in the application—
   (a) the details of any other applications for a search warrant or a surveillance device warrant that the applicant knows to have been made within the previous 3 months in respect of the person, place, vehicle, or other thing proposed as the object of the surveillance; and
   (b) the result of that application or those applications.
@@ -574,8 +574,8 @@ Nothing in this Part affects the common law defence of necessity as it applies t
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Justice, approve a specified law enforcement agency other than the Police to do either or both of the following:
   (a) to carry out visual trespass surveillance:
   (b) to use interception devices.
-(2) The Minister of Justice may recommend the making of an Order in Council under subsection (1)⁠(a), following consultation with the Minister of Police, if he or she is satisfied that it is appropriate for the agency to carry out visual trespass surveillance, and that the agency has the technical capability, and the policies and procedures in place, so that the surveillance can be carried out in a manner that ensures the safety of the people involved in the surveillance.
-(3) The Minister of Justice may recommend the making of an Order in Council under subsection (1)⁠(b), following consultation with the Minister of Police, if he or she is satisfied that it is appropriate for the agency to use interception devices, and that the agency has—
+(2) The Minister of Justice may recommend the making of an Order in Council under subsection (1)﻿(a), following consultation with the Minister of Police, if he or she is satisfied that it is appropriate for the agency to carry out visual trespass surveillance, and that the agency has the technical capability, and the policies and procedures in place, so that the surveillance can be carried out in a manner that ensures the safety of the people involved in the surveillance.
+(3) The Minister of Justice may recommend the making of an Order in Council under subsection (1)﻿(b), following consultation with the Minister of Police, if he or she is satisfied that it is appropriate for the agency to use interception devices, and that the agency has—
   (a) the technical capability to intercept private communications in a manner that ensures the reliability of any information obtained through the use of an interception device; and
   (b) policies and procedures in place to ensure that the integrity of any information obtained through the use of an interception device is preserved; and
   (c) the expertise—
@@ -635,8 +635,8 @@ A Judge must not issue a surveillance device warrant that is primarily intended 
     (i) enter any premises, area, or vehicle specified in the warrant:
     (ii) break open or interfere with any vehicle or other thing:
     (iii) temporarily remove any vehicle or other thing from any place where it is found and return it to that place.
-(4) Despite subsection (3)⁠(d) and (e), if the Judge has not been provided in the application, or otherwise, with the information specified in those provisions because the applicant is unable to provide it, the warrant must instead state the details (as provided under section 52(2) or otherwise) of the circumstances in which the surveillance is to be undertaken in enough detail to identify the parameters of, and objectives to be achieved by, the use of the surveillance device.
-(5) Despite subsection (1)⁠(c), a Judge may issue a further surveillance device warrant in respect of the same suspected offence in regard to which the Judge, or another Judge, has previously issued a surveillance device warrant.
+(4) Despite subsection (3)﻿(d) and (e), if the Judge has not been provided in the application, or otherwise, with the information specified in those provisions because the applicant is unable to provide it, the warrant must instead state the details (as provided under section 52(2) or otherwise) of the circumstances in which the surveillance is to be undertaken in enough detail to identify the parameters of, and objectives to be achieved by, the use of the surveillance device.
+(5) Despite subsection (1)﻿(c), a Judge may issue a further surveillance device warrant in respect of the same suspected offence in regard to which the Judge, or another Judge, has previously issued a surveillance device warrant.
 
 **Carrying out authorised surveillance activities and evidential material relevant to other offences**
 
@@ -666,7 +666,7 @@ Section 105 (relating to the transmission of search warrants) and section 107 (r
 (1) A person who carries out the activities authorised by a surveillance device warrant must provide a surveillance device warrant report within 1 month after the expiry of the period for which the warrant is in force, as specified in the warrant, to the Judge who issued the warrant or, if that Judge is unable to act, to a Judge of the same court as the Judge who issued the warrant.
 (2) The surveillance device warrant report must contain the following information:
   (a) whether carrying out the activities authorised by the surveillance device warrant resulted in obtaining evidential material:
-  (b) whether or not the evidential material obtained as a result of carrying out the activities authorised by the warrant was evidential material specified in the warrant in accordance with section 55(3)⁠(e):
+  (b) whether or not the evidential material obtained as a result of carrying out the activities authorised by the warrant was evidential material specified in the warrant in accordance with section 55(3)﻿(e):
   (c) the circumstances in which the surveillance device was used:
   (d) whether any criminal proceedings have been brought or are under consideration as a result of evidential material obtained under the warrant:
   (e) any other information stated in the warrant as being required for inclusion in the surveillance device warrant report.
@@ -675,9 +675,9 @@ Section 105 (relating to the transmission of search warrants) and section 107 (r
 (1) An enforcement officer who uses a surveillance device under the authority of section 48 must provide a report to a Judge within 1 month after the date of the last day of any period of 48 hours or less over which the surveillance device was used.
 (2) The report made under subsection (1) must contain the following information:
   (a) whether the use of the surveillance device resulted in—
-    (i) obtaining evidential material of the relevant offence (in the case of use of a surveillance device in a situation set out in section 48(2)⁠(a), (d), or (e)); or
-    (ii) preventing the offending from being committed or continuing, or averting the emergency (in the case of use of a surveillance device in a situation set out in section 48(2)⁠(b)); or
-    (iii) facilitating the seizure of the arms (in the case of use of a surveillance device in a situation set out in section 48(2)⁠(c)); and
+    (i) obtaining evidential material of the relevant offence (in the case of use of a surveillance device in a situation set out in section 48(2)﻿(a), (d), or (e)); or
+    (ii) preventing the offending from being committed or continuing, or averting the emergency (in the case of use of a surveillance device in a situation set out in section 48(2)﻿(b)); or
+    (iii) facilitating the seizure of the arms (in the case of use of a surveillance device in a situation set out in section 48(2)﻿(c)); and
   (b) the circumstances in which the surveillance device was used.
 (3) A Judge who receives a report under subsection (1) may require the enforcement officer who used the surveillance device to supply further information regarding the circumstances surrounding the use of the surveillance device.
 
@@ -686,7 +686,7 @@ Section 105 (relating to the transmission of search warrants) and section 107 (r
   (a) give directions as to the destruction or retention of the material obtained as a result of the surveillance:
   (b) if he or she considers that the surveillance activities carried out were in breach of any of the conditions of the warrant's issue, or of any applicable statutory provision, report on the breach to the chief executive of the relevant agency:
   (c) order that the subject of the surveillance be notified.
-(2) The Judge must not make an order under subsection (1)⁠(c) unless he or she is satisfied—
+(2) The Judge must not make an order under subsection (1)﻿(c) unless he or she is satisfied—
   (a) that the circumstances set out in subsection (3) exist; and
   (b) that—
     (i) the warrant should not have been issued; or
@@ -702,7 +702,7 @@ Section 105 (relating to the transmission of search warrants) and section 107 (r
   (a) give directions as to the destruction or retention of the material obtained as a result of the use of the surveillance device:
   (b) if he or she considers that the use of the surveillance device was not authorised under section 48, report accordingly to the chief executive of the relevant agency:
   (c) order that the subject of the surveillance be notified.
-(2) The Judge must not make an order under subsection (1)⁠(c) unless he or she is satisfied that—
+(2) The Judge must not make an order under subsection (1)﻿(c) unless he or she is satisfied that—
   (a) the circumstances set out in subsection (3) exist; and
   (b) use of the surveillance device was a serious breach of the criteria set out in section 48.
 (3) The circumstances are that the public interest in notification outweighs any potential prejudice to any 1 or more of the following:
@@ -721,7 +721,7 @@ Section 105 (relating to the transmission of search warrants) and section 107 (r
   (b) until the later of a maximum period of 3 years, or any further period specified in an order made under subsection (2), if—
     (i) no criminal proceedings have commenced in relation to any offence in respect of which the data was collected; but
     (ii) the data is required for an ongoing investigation by the agency.
-(2) A Judge may make an order extending by no more than a further 2 years the period for which raw surveillance data may be retained by the agency in the circumstances in subsection (1)⁠(b)⁠(i) and (ii) if—
+(2) A Judge may make an order extending by no more than a further 2 years the period for which raw surveillance data may be retained by the agency in the circumstances in subsection (1)﻿(b)﻿(i) and (ii) if—
   (a) the agency applies for the order before the expiry of the initial 3-year period; and
   (b) the Judge is satisfied that the data is required for that ongoing investigation.
 (3) Excerpts from raw surveillance data may be retained by the law enforcement agency that collected it in accordance with an order made by a Judge on application by the agency.
@@ -731,7 +731,7 @@ Section 105 (relating to the transmission of search warrants) and section 107 (r
 (5) An order made under subsection (2) or (3) may be made subject to any condition specified in the order that the Judge issuing it considers reasonable.
 (6) Information that is obtained from raw surveillance data but that does not itself constitute raw surveillance data may be retained by the law enforcement agency that collected it if there are reasonable grounds to suspect that the information may be relevant to an ongoing or future investigation by the agency.
 (7) This section is subject to—
-  (a) any direction given under section 61(1)⁠(a) or 62(1)⁠(a); and
+  (a) any direction given under section 61(1)﻿(a) or 62(1)﻿(a); and
   (b) any enactment requiring the retention of information that is part of a court record.
 
 ### 64 Disposal of raw surveillance data, excerpts, and information obtained
@@ -813,7 +813,7 @@ An issuing officer may make a production order against a person if satisfied, on
 
 ### 75 Form and content of production order
 (1) A production order must be in the prescribed form, if any, and must require the person against whom it is made (person A)—
-  (a) to give the enforcement officer who applied for the order, or a person identified in the order, any documents described in the order that are in the possession or under the control of person A, and, if section 71(2)⁠(g)⁠(ii) applies to the order, documents described in the order that come into the possession or under the control of person A while the order is in force; and
+  (a) to give the enforcement officer who applied for the order, or a person identified in the order, any documents described in the order that are in the possession or under the control of person A, and, if section 71(2)﻿(g)﻿(ii) applies to the order, documents described in the order that come into the possession or under the control of person A while the order is in force; and
   (b) if any of those documents are not, or are no longer, in the possession or under the control of person A, to disclose, to the best of person A's knowledge or belief, the location of those documents to the enforcement officer who applied for the order or to the person identified in the order.
 (2) The production order must set out the following:
   (a) the name of person A:
@@ -853,7 +853,7 @@ In this subpart, unless the context otherwise requires, craft, package, and vehi
   (a) a controlled drug:
   (b) a precursor substance:
   (c) a package in relation to which the Customs officer has replaced all or a portion of any controlled drug or precursor substance:
-  (d) evidential material in relation to the commission of an offence under section 6(1)⁠(a) or 12AB of the Misuse of Drugs Act 1975.
+  (d) evidential material in relation to the commission of an offence under section 6(1)﻿(a) or 12AB of the Misuse of Drugs Act 1975.
 
 ### Subpart 4 — Warrantless powers of entry and search incidental to arrest or detention
 
@@ -1051,7 +1051,7 @@ An issuing officer must not issue a warrant to seize any thing held by a lawyer 
   (h) the period during which the warrant may be executed, being—
     (i) a period specified by the issuing officer not exceeding 14 days from the date of issue; or
     (ii) if the issuing officer is satisfied that a period of longer than 14 days is necessary for execution, a period specified by the issuing officer not exceeding 30 days from the date of issue:
-  (i) any conditions specified by the issuing officer under subsection (3)⁠(b):
+  (i) any conditions specified by the issuing officer under subsection (3)﻿(b):
   (j) if the warrant may be executed on more than 1 occasion, the number of times that the warrant may be executed:
   (k) if the warrant is intended to authorise a remote access search (for example, a search of a thing such as an Internet data storage facility that is not situated at a physical location) the access information that identifies the thing to be searched remotely:
   (l) an explanation of the availability of relevant privileges and an outline of how any of those privileges may be claimed (where applicable):
@@ -1060,10 +1060,10 @@ An issuing officer must not issue a warrant to seize any thing held by a lawyer 
     (ii) in the case of any other search authorised by this Act or any enactment specified in column 2 of the Schedule to which section 119 applies, any person found in the place or vehicle to be searched may be searched if there are reasonable grounds to believe that an item being searched for is on that person.
 (5) A search warrant may authorise the search of more than 1 place, vehicle, or thing.
 (6) An issuing officer may not issue a search warrant authorising the remote access search of a thing unless he or she is satisfied that the thing is not located at a physical address that a person can enter and search.
-(7) A person is not required, as a consequence of a condition imposed under subsection (3)⁠(b)⁠(ii), to give any information tending to incriminate the person.
+(7) A person is not required, as a consequence of a condition imposed under subsection (3)﻿(b)﻿(ii), to give any information tending to incriminate the person.
 
 ### 104 Issuing officer may require search warrant report
-(1) An issuing officer may impose a condition under section 103(3)⁠(b) requiring the employer of any person to whom a search warrant is issued to provide that issuing officer with a search warrant report within a specified period.
+(1) An issuing officer may impose a condition under section 103(3)﻿(b) requiring the employer of any person to whom a search warrant is issued to provide that issuing officer with a search warrant report within a specified period.
 (2) A search warrant report must contain the following information:
   (a) whether the search warrant was executed:
   (b) whether the execution of the search warrant resulted in the seizure of evidential material, and, if so, whether that material was material—
@@ -1150,12 +1150,12 @@ Every person called on to assist a person executing a search warrant authorising
 
 ### 115 Limitation on exercise of powers
 (1) The powers conferred by sections 110 to 114 are subject to—
-  (a) any conditions imposed under section 103(3)⁠(b) by an issuing officer who issues a search warrant:
+  (a) any conditions imposed under section 103(3)﻿(b) by an issuing officer who issues a search warrant:
   (b) subpart 5 of this Part (which relates to privilege and confidentiality).
 (2) The powers conferred by section 118(1) to detain a person may only be exercised by a person who has power to arrest the person to be detained—
   (a) for a suspected offence to which the search relates; or
   (b) for a suspected offence to which evidential material that is discovered in the course of the search relates.
-(3) To avoid doubt, the powers conferred by sections 110(c) and 113(2)⁠(b) do not authorise the application of force to any person.
+(3) To avoid doubt, the powers conferred by sections 110(c) and 113(2)﻿(b) do not authorise the application of force to any person.
 
 **Giving directions**
 
@@ -1202,7 +1202,7 @@ Every person called on to assist a person executing a search warrant authorising
 (2) If any person who may exercise a power of arrest is searching a place or vehicle, he or she may search any person found at the place or in or on the vehicle, or who arrives at the place or stops at, or enters, or tries to enter or get into or onto the vehicle, if the person conducting the search—
   (a) has reasonable grounds to suspect that the person is in possession of a dangerous item that poses a threat to safety; and
   (b) believes that immediate action is needed to address that threat.
-(3) If any item referred to in subsection (2)⁠(a) is seized, it must, unless possession of the item constitutes an offence, be returned to the person from whom it was taken either—
+(3) If any item referred to in subsection (2)﻿(a) is seized, it must, unless possession of the item constitutes an offence, be returned to the person from whom it was taken either—
   (a) once the search has been completed; or
   (b) when the person who conducted the search is satisfied that there is no longer any threat to safety.
 
@@ -1210,7 +1210,7 @@ Every person called on to assist a person executing a search warrant authorising
 (1) If any person who may exercise a power of arrest intends to conduct a search of a person or vehicle, but that person or vehicle leaves before the search is undertaken or completed, the person who intended to conduct the search may,—
   (a) on apprehending the person or vehicle, search the person or vehicle; and
   (b) enter any place for the purpose of apprehending the person or vehicle.
-(2) A person may not exercise the powers conferred by subsection (1)⁠(a) or (b) unless—
+(2) A person may not exercise the powers conferred by subsection (1)﻿(a) or (b) unless—
   (a) the person was freshly pursuing the person to be searched from the location of the intended search when the person was apprehended; and
   (b) the person intending to conduct the search has reasonable grounds to believe that relevant evidential material is still on the person who is to be searched or in or on the vehicle.
 
@@ -1273,10 +1273,10 @@ Every person called on to assist a person executing a search warrant authorising
   (l) may use any reasonable measures to access a computer system or other data storage device, that the person being searched is carrying or that is in the person's physical possession or immediate control, if any intangible material that is the subject of the search may be in that computer system or other device; and
   (m) if any intangible material accessed under paragraph (l) is the subject of the search or may otherwise be lawfully seized, may copy that material (including by means of previewing, cloning, or other forensic methods either before or after removal for examination); and
   (n) may take photographs, sound and video recordings, and drawings of any thing carried or in the physical possession or immediate control of the person if the person exercising the power has reasonable grounds to believe that the photographs or sound or video recordings or drawings may be relevant to the purposes of the search.
-(2) Subsection (1)⁠(a), (b), and (c) do not apply in respect of a search conducted under section 11(3).
+(2) Subsection (1)﻿(a), (b), and (c) do not apply in respect of a search conducted under section 11(3).
 (3) A person who carries out a strip search, rub-down search, or any other personal search must conduct the search with decency and sensitivity and in a manner that affords to the person being searched the degree of privacy and dignity that is consistent with achieving the purpose of the search.
 (4) If a person exercises a power to search a person, or searches a person with his or her consent, the person exercising the power must ensure that an inventory of any items seized as a result of the search is prepared promptly and that a copy is given to the person searched.
-(5) Nothing in subsection (1)⁠(f) permits a person carrying out a rub-down search under sections 85 to 87 (rub-down search of arrested or detained person) to carry out a more intrusive search than is described in those sections.
+(5) Nothing in subsection (1)﻿(f) permits a person carrying out a rub-down search under sections 85 to 87 (rub-down search of arrested or detained person) to carry out a more intrusive search than is described in those sections.
 
 ### 126 Guidelines and rules about use of strip searching
 (1) The chief executive of a law enforcement agency that employs persons who may exercise a power, under an enactment, to search a person must issue guidelines to those employees concerning the circumstances (if any) under which a strip search may be conducted by any of those employees.
@@ -1333,7 +1333,7 @@ If an enforcement officer exercises a power to stop a vehicle, he or she must, i
     (ii) if the power is exercised without a warrant, the name of the enactment under which the search is taking place and the reason for the search under that enactment unless it is impracticable to do so in the circumstances.
 (2) The person exercising the search power is not required to comply with subsection (1) if he or she has reasonable grounds to believe that—
   (a) no person is lawfully present in or on the place, vehicle, or other thing to be searched; or
-  (b) compliance with subsection (1)⁠(a) would—
+  (b) compliance with subsection (1)﻿(a) would—
     (i) endanger the safety of any person; or
     (ii) prejudice the successful exercise of the entry and search power; or
     (iii) prejudice ongoing investigations.
@@ -1354,7 +1354,7 @@ If an enforcement officer exercises a power to stop a vehicle, he or she must, i
   (a) the following persons may not be treated as the occupier of the place or the person in charge of a vehicle or other thing:
     (i) any person who is under 14 years of age (unless section 95(2) applies to that person):
     (ii) any person who the person executing the warrant has reasonable grounds to believe is not the occupier of the place or person in charge of the vehicle or other thing:
-  (b) every reference to a copy of the authority referred to in subsection (1)⁠(b) means, in a case where a search is undertaken without a search warrant, written advice about the enactment that authorises the search.
+  (b) every reference to a copy of the authority referred to in subsection (1)﻿(b) means, in a case where a search is undertaken without a search warrant, written advice about the enactment that authorises the search.
 (7) Subsections (4) and (5) are subject to sections 134 and 135.
 (8) This section does not apply to a remote access search.
 (9) For the purposes of this section, search includes an entry under section 7 or 8.
@@ -1366,19 +1366,19 @@ If an enforcement officer exercises a power to stop a vehicle, he or she must, i
     (i) the date and time of the commencement and completion of the search:
     (ii) the name and unique identifier of the person who had overall responsibility for that search:
     (iii) the address of the office to which inquiries should be made.
-(2) If the person conducting the search is unable to deliver the electronic message required by subsection (1) (or it is returned undelivered), the person must take all reasonable steps to identify the user of the thing searched and to send the information referred to in subsection (1)⁠(a) and (b) to that person.
+(2) If the person conducting the search is unable to deliver the electronic message required by subsection (1) (or it is returned undelivered), the person must take all reasonable steps to identify the user of the thing searched and to send the information referred to in subsection (1)﻿(a) and (b) to that person.
 
 ### 133 Inventory of items seized
 (1) The person who carries out a search must, at the time he or she seizes any thing, or as soon as practicable after the seizure of any thing, and in any case not later than 7 days after that seizure, provide to the occupier of the place, or the person in charge of the vehicle or other thing, from where the seizure took place, and to every other person who the person who carried out the search has reason to believe is the owner of the thing that was seized,—
   (a) written notice specifying what was seized; and
-  (b) a copy of the authority referred to in section 131(1)⁠(b).
-(2) A written notice referred to in subsection (1)⁠(a)—
+  (b) a copy of the authority referred to in section 131(1)﻿(b).
+(2) A written notice referred to in subsection (1)﻿(a)—
   (a) must contain information about the extent to which a person from whom a thing was seized or the owner of the thing has a right to apply—
     (i) to have access to the thing; or
     (ii) to have access to any document relating to the application for a search warrant or the exercise of any other search power that led to the seizure; and
   (b) must contain information about the right to bring a claim that any privileged or confidential information has been seized; but
   (c) need not be provided to the occupier of the place or person in charge of the vehicle or other thing from which the seizure took place, if the person who carries out the search is satisfied that none of the items seized are owned by that person.
-(3) If the occupier of the place or person in charge of the vehicle or other thing is not present at the time of seizure, a written notice referred to in subsection (1)⁠(a) and a copy of the authority referred to in section 131(1)⁠(b) may be provided to that person by leaving the notice in a prominent position at the place, or in or on the vehicle or other thing.
+(3) If the occupier of the place or person in charge of the vehicle or other thing is not present at the time of seizure, a written notice referred to in subsection (1)﻿(a) and a copy of the authority referred to in section 131(1)﻿(b) may be provided to that person by leaving the notice in a prominent position at the place, or in or on the vehicle or other thing.
 (4) Subsection (1) is subject to subsections (2) and (3).
 (5) This section is subject to sections 134 and 135.
 
@@ -1424,7 +1424,7 @@ If an enforcement officer exercises a power to stop a vehicle, he or she must, i
   (a) for a dishonest purpose; or
   (b) to enable or aid any person to commit or plan to commit what the person claiming the privilege knew, or ought reasonably to have known, to be an offence.
 (3) For the purposes of this subpart, the appropriate court is,—
-  (a) in any case that involves the applicability of the rights of journalists recognised by subsection (1)⁠(i), the High Court:
+  (a) in any case that involves the applicability of the rights of journalists recognised by subsection (1)﻿(i), the High Court:
   (b) in any other case, the District Court.
 
 ### 137 Lawyers' trust accounts
@@ -1564,8 +1564,8 @@ Any person who wishes to claim privilege in respect of any thing seized or sough
     (i) the withdrawal or dismissal of the proceedings; or
     (ii) subject to sections 156 and 159, the completion of the proceedings:
   (f) the seized or produced thing is disposed of under section 160.
-(2) Once the relevant event stated in subsection (1)⁠(a) to (e) occurs, the person in whose custody the property is must immediately release the thing in his or her custody,—
-  (a) in the case of a subsection (1)⁠(a), (d), or (e) event, to the owner or to a person entitled to possession; or
+(2) Once the relevant event stated in subsection (1)﻿(a) to (e) occurs, the person in whose custody the property is must immediately release the thing in his or her custody,—
+  (a) in the case of a subsection (1)﻿(a), (d), or (e) event, to the owner or to a person entitled to possession; or
   (b) in the case of any other event, in the manner required by this Act.
 (3) However, if the thing is seized or produced in relation to more than 1 alleged offence, the person in whose custody the property is need not release the property until the first of the events described in subsection (1) has occurred in relation to each and every alleged offence.
 (4) This section is subject to sections 153 and 163.
@@ -1615,7 +1615,7 @@ If a photograph or a copy of a seized or produced thing will be adequate for inv
 (6) If any person refuses an application under subsection (1), he or she must inform the applicant of the decision in writing.
 
 ### 157 Failure to comply with bond or conditions
-(1) If a person to whom a seized or produced thing is released or who is given access to it under section 156 fails to comply with any bond, surety, or condition imposed under subsection (5)⁠(b) of that section,—
+(1) If a person to whom a seized or produced thing is released or who is given access to it under section 156 fails to comply with any bond, surety, or condition imposed under subsection (5)﻿(b) of that section,—
   (a) the thing may be seized again, or required to be produced, or the ability to access the thing ended at the direction of the person who released it or provided access to it; and
   (b) the person who released it or provided access to it may apply to the District Court for an order for estreat of the bond.
 (2) If any person applies for an order for estreat of the bond, the Registrar of the District Court must—
@@ -1757,7 +1757,7 @@ If there is any inconsistency between any of sections 164 to 167 and the provisi
   (e) any prescribed search or surveillance, or search or surveillance of a prescribed kind, in any prescribed area or an area of a prescribed kind.
 
 ### 172 Information to be included in report on surveillance device warrants and declaratory orders
-The information required to be included in an annual report by section 170(1)⁠(f) or 171(1)⁠(e) is the following:
+The information required to be included in an annual report by section 170(1)﻿(f) or 171(1)﻿(e) is the following:
   (a) the number of applications for surveillance device warrants and declaratory orders granted or refused in the period covered by the report:
   (b) the number of surveillance device warrants granted in the period covered by the report that authorised the use of a surveillance device, and the number in respect of each kind of surveillance device:
   (c) the number of declaratory orders made in the period covered by the report that related to the use of a device, technique, procedure, or activity, and the number in respect of each device, technique, procedure, or activity:
@@ -1801,7 +1801,7 @@ Every person commits an offence and is liable on conviction to imprisonment for 
   (a) fails to stop as soon as practicable when required to do so by an enforcement officer exercising a power to stop or search a vehicle; and
   (b) knows or ought reasonably to know that the person exercising the power is an enforcement officer.
 (2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months who—
-  (a) fails to comply with a requirement made by a constable under section 10(1)⁠(a) or 32(c); and
+  (a) fails to comply with a requirement made by a constable under section 10(1)﻿(a) or 32(c); and
   (b) knows or ought reasonably to know that the person imposing the requirement is a constable.
 (3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months who—
   (a) fails to comply with a requirement made by an enforcement officer under section 128; and
@@ -1854,7 +1854,7 @@ Every person commits an offence and is liable on conviction to imprisonment for 
   (c) by sending it by prepaid post addressed to the person at the usual or last known place of residence or business of the person.
 (2) Where an order or notice is to be served on a corporation for the purposes of this subpart, service on an officer of the corporation, or on the registered office of the corporation, in accordance with subsection (1) is deemed to be service on the corporation.
 (3) Where an order or notice is to be served on a partnership for the purposes of this subpart, service on any one of the partners in accordance with subsection (1) or (2) is deemed to be service on the partnership.
-(4) Where an order or notice is sent by post to a person in accordance with subsection (1)⁠(c), the order or notice is deemed, in the absence of proof to the contrary, to have been given on the third day after the day on which it was posted.
+(4) Where an order or notice is sent by post to a person in accordance with subsection (1)﻿(c), the order or notice is deemed, in the absence of proof to the contrary, to have been given on the third day after the day on which it was posted.
 (5) This section is subject to any other section of this Act that makes different provision for the service of orders or notices.
 
 ## Part 5 — Amendments, repeals, and miscellaneous provisions
@@ -1876,7 +1876,7 @@ Section 64 is amended by repealing subsections (3) and (4) and substituting the 
   (b) omitting in the form set out in Schedule 1.
 (2) Section 69(1) is amended by inserting the following paragraph after paragraph (b):
   (ba) any trade name product or agricultural compound manufactured or imported in breach of the provisions of this Act:
-(3) Section 69(1)⁠(c) is amended by omitting paragraph (a) or paragraph (b) and substituting paragraph (a), (b), or (ba).
+(3) Section 69(1)﻿(c) is amended by omitting paragraph (a) or paragraph (b) and substituting paragraph (a), (b), or (ba).
 (4) Section 69 is amended by repealing subsections (2) to (4) and substituting the following subsections:
   (2) Subject to subsection (3) and section 70, the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
   (3) Despite subsection (2), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
@@ -1891,7 +1891,7 @@ Section 70 is amended by repealing subsections (1) to (4) and substituting the f
 (1) Section 71(1) is repealed and the following subsection substituted:
   (1) Subject to subsection (3), subparts 1, 5, 6, 7, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized by any constable under a search warrant issued under section 69 and, with the necessary modifications, in respect of any property seized by any ACVM officer under such a warrant.
 (2) Section 71(2) is repealed.
-(3) Section 71(3) is amended by omitting 70(1)⁠(f)⁠(ii) and substituting 70(1).
+(3) Section 71(3) is amended by omitting 70(1)﻿(f)﻿(ii) and substituting 70(1).
 (4) Section 71 is amended by adding the following subsection:
   (4) If any person is convicted of an offence to which the seized property relates, the court may, if it thinks fit, order that the item be disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the Commissioner of Police or the Director-General.
 
@@ -1916,8 +1916,8 @@ Sections 190 to 193 amend the Animal Products Act 1999.
 
 ### 191 Power to examine, etc
 (1) Section 88 is amended by repealing subsection (2) and substituting the following subsection:
-  (2) The provisions of Part 4 of the Search and Surveillance Act 2012 (other than subparts 2, 3, and 8, and sections 118 and 119) apply in respect of the exercise of powers under subsection (1)⁠(a) or (b).
-(2) Section 88(3) is amended by inserting (other than under subsection (1)⁠(a) or (b)) after this section.
+  (2) The provisions of Part 4 of the Search and Surveillance Act 2012 (other than subparts 2, 3, and 8, and sections 118 and 119) apply in respect of the exercise of powers under subsection (1)﻿(a) or (b).
+(2) Section 88(3) is amended by inserting (other than under subsection (1)﻿(a) or (b)) after this section.
 
 ### 192 New section 91A inserted
 The following section is inserted after section 91:Disposal of seized animals prior to commencement or determination of proceedings
@@ -1946,7 +1946,7 @@ The following section is inserted after section 91:Disposal of seized animals pr
     (g) whether any person will suffer material loss, and the extent of that loss, if the animal or animals are or are not sold:
     (h) the fitness for purpose of any animal products derived from the seized animal or animals:
     (i) any other matters the court considers relevant.
-  (5) If an animal is or animals are sold under an order made under subsection (2)⁠(a) or animal products are sold under an order made under subsection (2)⁠(c), the proceeds of sale (if any) must be held by the Ministry (after deducting (in order) the costs of transport and processing, the cost of sale, any sums required to be paid to a security holder or any other person under a condition of the order for sale, and any costs incurred by the Crown in caring for the animal or animals or providing veterinary treatment to that animal or those animals).
+  (5) If an animal is or animals are sold under an order made under subsection (2)﻿(a) or animal products are sold under an order made under subsection (2)﻿(c), the proceeds of sale (if any) must be held by the Ministry (after deducting (in order) the costs of transport and processing, the cost of sale, any sums required to be paid to a security holder or any other person under a condition of the order for sale, and any costs incurred by the Crown in caring for the animal or animals or providing veterinary treatment to that animal or those animals).
   (6) The Ministry must, unless the proceeds of sale are otherwise forfeited to the Crown or the owner of the animal or animals is unknown or cannot be contacted, pay the proceeds of sale to the owner as soon as practicable—
     (a) after the determination of the proceedings for an offence involving that animal or those animals; or
     (b) after a decision is taken not to commence any such proceedings.
@@ -1976,8 +1976,8 @@ The following section is inserted after section 91:Disposal of seized animals pr
 Sections 195 to 198 amend the Animal Welfare Act 1999.
 
 ### 195 Amendments to sections 130 to 136
-(1) Section 130(1)⁠(a) is amended by inserting (including, if necessary, destroying or arranging for the destruction of the animal) after animal.
-(2) Section 130(1)⁠(b) is amended by adding (including, if necessary, destroying or arranging for the destruction of the animal).
+(1) Section 130(1)﻿(a) is amended by inserting (including, if necessary, destroying or arranging for the destruction of the animal) after animal.
+(2) Section 130(1)﻿(b) is amended by adding (including, if necessary, destroying or arranging for the destruction of the animal).
 (3) Section 131(1) is amended by omitting District Court Judge or Justice or Community Magistrate or any Registrar (not being a member of the police) who, on an application in writing made on oath and substituting issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act.
 (4) Section 131 is amended by repealing subsection (3) and substituting the following subsections:
   (3) The provisions of Part 4 of the Search and Surveillance Act 2012 apply, subject to subsection (4) and sections 133(2) and (4), 136, and 136A.
@@ -1990,7 +1990,7 @@ Sections 195 to 198 amend the Animal Welfare Act 1999.
     (b) with the necessary modifications, any thing seized by an inspector (including any animal seized by an inspector under the authority of a search warrant issued under section 131 and any animal of which an inspector takes possession under section 127(5)).
 (8) Section 136 is amended by repealing subsection (2) and substituting the following subsection:
   (2) Despite anything in subpart 6 of Part 4 of the Search and Surveillance Act 2012, a constable or an inspector who has custody of an animal may place that animal in the care of any other person.
-(9) Section 136(3) is amended by omitting section 199(3) of the Summary Proceedings Act 1957 and substituting section 154(2)⁠(c) of the Search and Surveillance Act 2012.
+(9) Section 136(3) is amended by omitting section 199(3) of the Summary Proceedings Act 1957 and substituting section 154(2)﻿(c) of the Search and Surveillance Act 2012.
 
 ### 196 New section 136A inserted
 The following section is inserted after section 136:Disposal of animals seized or taken into custody prior to commencement or determination of proceedings
@@ -2020,7 +2020,7 @@ The following section is inserted after section 136:Disposal of animals seized o
     (g) whether it is reasonable or practicable for the Ministry or an approved organisation to retain possession of and care for the animal or animals until the determination of the proceedings relating to the animal or animals:
     (h) whether any person will suffer material or other loss, and the extent of that loss, if the animal or animals are sold:
     (i) any other matters the court considers relevant.
-  (5) If an animal is sold under the authority of an order under subsection (2)⁠(a), the proceeds of sale (if any) must be held by the Ministry or an approved organisation (after deducting (in order) the costs of sale, any sums required to be paid to a security holder or any other person under a condition of the order for sale, and any costs incurred by the Crown or approved organisation in caring for the animal or animals or providing veterinary treatment to that animal or those animals).
+  (5) If an animal is sold under the authority of an order under subsection (2)﻿(a), the proceeds of sale (if any) must be held by the Ministry or an approved organisation (after deducting (in order) the costs of sale, any sums required to be paid to a security holder or any other person under a condition of the order for sale, and any costs incurred by the Crown or approved organisation in caring for the animal or animals or providing veterinary treatment to that animal or those animals).
   (6) The Ministry or approved organisation referred to in subsection (5) must, unless the proceeds of sale are forfeited to the Crown under section 172(1) or the owner of the animal is unknown or cannot be contacted, pay the proceeds of sale to the owner as soon as practicable—
     (a) after the determination of the proceedings for an offence involving that animal or those animals; or
     (b) after a decision is taken not to commence any such proceedings.
@@ -2067,14 +2067,14 @@ Section 172 is amended by repealing subsections (1) and (1A) and substituting th
 
 ### 201 Amendments to Anti-Money Laundering and Countering Financing of Terrorism Act 2009
 (1) This section amends the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
-(2) Section 114(4)⁠(c) is amended by omitting 149C(1) and (2), and 149D and substituting and 149C(1).
+(2) Section 114(4)﻿(c) is amended by omitting 149C(1) and (2), and 149D and substituting and 149C(1).
 (3) Section 117 is amended by repealing subsection (2) and substituting the following subsection:
   (2) The application must be made by an enforcement officer in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
 (4) Section 117(3) is amended by omitting A District Court Judge, Justice of the Peace, Community Magistrate, or Registrar and substituting An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012).
 (5) Section 117 is amended by repealing subsections (4), (5), and (6) and substituting the following subsection:
   (4) The provisions of subparts 1, 3, and 9 of Part 4 of the Search and Surveillance Act 2012 apply.
 (6) Section 118(1) is amended by repealing paragraphs (a), (b), and (e).
-(7) Section 118(1)⁠(c) is amended by omitting and seize.
+(7) Section 118(1)﻿(c) is amended by omitting and seize.
 (8) Section 118(3) is repealed and the following subsection substituted:
   (3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3 and sections 118, 119, and 130) apply.
 (9) Sections 119 to 122, 125 to 128, and 129 are repealed.
@@ -2083,7 +2083,7 @@ Section 172 is amended by repealing subsections (1) and (1A) and substituting th
 
 ### 202 Amendments to Aviation Crimes Act 1972
 (1) This section amends the Aviation Crimes Act 1972.
-(2) Section 13(1)⁠(b) is amended by adding and that a search of the first-mentioned person will disclose evidential material about that offence,.
+(2) Section 13(1)﻿(b) is amended by adding and that a search of the first-mentioned person will disclose evidential material about that offence,.
 (3) Section 13 is amended by repealing subsections (3) and (4) and substituting the following subsection:
   (4) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for subpart 3) apply.
 
@@ -2099,7 +2099,7 @@ Section 172 is amended by repealing subsections (1) and (1A) and substituting th
 (5) Section 111(1) is amended by omitting a District Court Judge, a Justice of the Peace, a Community Magistrate, or a Registrar (not being a member of the Police), who, on the written application (made on oath) of and substituting an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application (made in the manner provided by subpart 3 of Part 4 of that Act) by.
 (6) Section 111 is amended by adding the following subsection:
   (6) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for sections 118 and 119) apply.
-(7) Section 112(1)⁠(a)⁠(ii) is amended by inserting or copy of the warrant after warrant in each place where it appears.
+(7) Section 112(1)﻿(a)﻿(ii) is amended by inserting or copy of the warrant after warrant in each place where it appears.
 (8) Section 118(2) is amended by omitting Section 199 of the Summary Proceedings Act 1957 and substituting Subpart 6 of Part 4 of the Search and Surveillance Act 2012.
 (9) Section 118 is amended by adding the following subsection:
   (3) The provisions of subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
@@ -2128,7 +2128,7 @@ Sections 207 to 209 amend the Children, Young Persons, and Their Families Act 19
 (1) Section 445A is amended by—
   (a) omitting section 39 or section 40 or; and
   (b) omitting or section 386 of this Act.
-(2) Section 445B(2) is amended by omitting section 39, 40, 122, 157(2), 205(2)⁠(b), 296C, or 386 and substituting section 122, 157(2), 205(2)⁠(b), or 296C.
+(2) Section 445B(2) is amended by omitting section 39, 40, 122, 157(2), 205(2)﻿(b), 296C, or 386 and substituting section 122, 157(2), 205(2)﻿(b), or 296C.
 
 ### 209 New section 445D inserted
 The following section is inserted after section 445C:Certain provisions of Search and Surveillance Act 2012 apply to some warrants
@@ -2191,7 +2191,7 @@ Sections 214 to 219 amend the Criminal Proceeds (Recovery) Act 2009.
 ### 216 New section 114 substituted
 Section 114 is repealed and the following section substituted:Application of Part 4 of Search and Surveillance Act 2012
   (1) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 6) apply in respect of every search warrant applied for, or issued, under this Act.
-  (2) The provisions of subpart 6 of Part 4 of that Act apply to evidence seized under sections 101(2)⁠(a), and 102(2)⁠(b) and (c).
+  (2) The provisions of subpart 6 of Part 4 of that Act apply to evidence seized under sections 101(2)﻿(a), and 102(2)﻿(b) and (c).
 
 ### 217 Sections 115 to 122 repealed
 Sections 115 to 122 are repealed.
@@ -2210,39 +2210,39 @@ Sections 221 to 229 amend the Customs and Excise Act 1996.
 
 ### 221 Amendments to sections 139 to 141 of Customs and Excise Act 1996
 (1) Section 139 is amended by adding the following subsections:
-  (5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power conferred by subsection (1)⁠(d).
-  (6) Despite subsection (5), sections 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
-(2) Section 140(2) is amended by omitting subsection (1) and substituting subsection (1)⁠(a) to (c).
+  (5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power conferred by subsection (1)﻿(d).
+  (6) Despite subsection (5), sections 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+(2) Section 140(2) is amended by omitting subsection (1) and substituting subsection (1)﻿(a) to (c).
 (3) Section 140 is amended by adding the following subsections:
-  (3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power conferred by subsection (1)⁠(d).
-  (4) Despite subsection (3), sections 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
-(4) Section 141 is amended by omitting section 139 or section 140 and substituting section 139(1)⁠(a) to (c) or 140(1)⁠(a) to (c).
+  (3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power conferred by subsection (1)﻿(d).
+  (4) Despite subsection (3), sections 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+(4) Section 141 is amended by omitting section 139 or section 140 and substituting section 139(1)﻿(a) to (c) or 140(1)﻿(a) to (c).
 
 ### 222 Searching vehicles
 Section 144 is amended by adding the following subsections:
   (6) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3) apply in respect of a search undertaken under this section.
-  (7) Despite subsection (5), sections 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+  (7) Despite subsection (5), sections 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 
 ### 223 Amendments to sections 149A to 149D of Customs and Excise Act 1996
 (1) Section 149A(3) is amended by omitting 149D and substituting 149C.
 (2) Section 149B(4) to (6) are repealed.
 (3) Section 149B is amended by adding the following subsections:
   (8) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the powers conferred by this section.
-  (9) Despite subsection (8), sections 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+  (9) Despite subsection (8), sections 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 (4) Section 149BA(1) is amended by omitting believe and substituting suspect.
 (5) Section 149BA(3) is repealed.
 (6) Section 149BA is amended by repealing subsection (5) and substituting the following subsections:
   (5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the powers conferred by this section.
-  (6) Despite subsection (5), sections 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+  (6) Despite subsection (5), sections 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 (7) Section 149C is amended by repealing subsection (2) and substituting the following subsections:
   (2) The provisions of subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
-  (3) Despite subsection (2), sections 125(4), 131(5)⁠(f), and 133, and subpart 6 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+  (3) Despite subsection (2), sections 125(4), 131(5)﻿(f), and 133, and subpart 6 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 (8) Section 149D is repealed.
 
 ### 224 Examination of goods no longer subject to control of Customs
 Section 152 is amended by inserting the following subsections after subsection (3):
   (3A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the powers conferred by this section.
-  (3B) Despite subsection (3A), sections 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+  (3B) Despite subsection (3A), sections 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 
 ### 225 Amendments to sections 165 to 167 of Customs and Excise Act 1996
 (1) The heading to section 165 is amended by omitting search and substituting inspection.
@@ -2252,7 +2252,7 @@ Section 152 is amended by inserting the following subsections after subsection (
 (5) Section 167(1) is amended by omitting A District Court Judge, Justice of the Peace, Community Magistrate, or Registrar (not being a constable) may issue a search warrant in the prescribed form if he or she is satisfied, on an application by a Customs officer in writing made on oath and substituting An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant if he or she is satisfied, on an application by a Customs officer made in the manner provided in subpart 3 of Part 4 of that Act.
 (6) Section 167 is amended by repealing subsections (2) to (4) and substituting the following subsections:
   (2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
-  (3) Despite subsection (2), sections 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+  (3) Despite subsection (2), sections 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 
 ### 226 Amendments to section 172 and repeal of sections 168 to 171, and 173 of Customs and Excise Act 1996
 (1) Sections 168 to 171 and 173 are repealed.
@@ -2276,14 +2276,14 @@ The following section is inserted after section 175C:Seizure and detention of ce
     (b) retain the goods or documents pending further investigation:
     (c) treat the goods or documents as forfeited within the meaning of this Act.
   (3) The appropriate person referred to in subsection (2) is,—
-    (a) if the Customs officer believes that subsection (1)⁠(a) applies, a constable; or
-    (b) if the Customs officer believes that subsection (1)⁠(b) applies, an Inspector of Publications within the meaning of the Films, Videos, and Publications Classification Act 1993.
-  (4) Once goods or documents have been delivered to a person under subsection (2)⁠(a), responsibility for those goods or documents passes to that person.
+    (a) if the Customs officer believes that subsection (1)﻿(a) applies, a constable; or
+    (b) if the Customs officer believes that subsection (1)﻿(b) applies, an Inspector of Publications within the meaning of the Films, Videos, and Publications Classification Act 1993.
+  (4) Once goods or documents have been delivered to a person under subsection (2)﻿(a), responsibility for those goods or documents passes to that person.
   (5) The provisions of subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
-  (6) Despite subsection (5), sections 125(4), 131(5)⁠(f), and 133, and subpart 6 of Part 4 of the Search and Surveillance Act 2012 do not apply to any forfeited goods (within the meaning of this Act).
+  (6) Despite subsection (5), sections 125(4), 131(5)﻿(f), and 133, and subpart 6 of Part 4 of the Search and Surveillance Act 2012 do not apply to any forfeited goods (within the meaning of this Act).
 
 ### 229 Amendments to Part 17 of Customs and Excise Act 1996
-(1) Section 286(1)⁠(aa) is repealed.
+(1) Section 286(1)﻿(aa) is repealed.
 (2) Section 305A(1) is amended by omitting 167, and 171 and substituting and 167.
 
 **Amendments to Dairy Industry Restructuring Act 2001**
@@ -2310,7 +2310,7 @@ The following section is inserted after section 175C:Seizure and detention of ce
 Sections 232 and 233 amend the Dog Control Act 1996.
 
 ### 232 Power of entry
-(1) Section 14(3)⁠(a) is amended by omitting a District Court Judge on written application on oath and substituting an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on application by a dog control officer in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
+(1) Section 14(3)﻿(a) is amended by omitting a District Court Judge on written application on oath and substituting an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on application by a dog control officer in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
 (2) Section 14 is amended by adding the following subsections:
   (5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 3, 5, and 6) apply.
   (6) Despite subsection (5), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
@@ -2324,7 +2324,7 @@ Sections 232 and 233 amend the Dog Control Act 1996.
     (b) any employee of the local authority that employs or engages the dog ranger or dog control officer.
 (3) Section 56 is amended by adding the following subsection:
   (5) The provisions of subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of an authority applied for or issued under subsection (3).
-(4) Section 57(6)⁠(b) is amended by omitting he or she is authorised in writing to do so by a Justice, who must not grant an authority unless the Justice and substituting he or she is authorised to enter by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), made on application by the dog ranger or dog control officer in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, who must not issue a warrant unless the issuing officer.
+(4) Section 57(6)﻿(b) is amended by omitting he or she is authorised in writing to do so by a Justice, who must not grant an authority unless the Justice and substituting he or she is authorised to enter by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), made on application by the dog ranger or dog control officer in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, who must not issue a warrant unless the issuing officer.
 (5) Section 57 is amended by inserting the following subsections after subsection (6):
   (6A) None of the following persons may act as an issuing officer under this section:
     (a) the mayor or any elected member of the local authority that employs or engages the dog ranger or dog control officer; or
@@ -2399,7 +2399,7 @@ Section 118 is repealed.
 (3) Section 29(3) is amended by—
   (a) omitting A Judge of the High Court or a District Court Judge may issue a search warrant in relation to a place, vehicle, or other thing, on application and substituting An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant in relation to a place, vehicle, or thing, on an application made in the manner provided by subpart 3 of Part 4 of that Act; and
   (b) omitting the Judge and substituting the issuing officer.
-(4) Section 29(3)⁠(b) is amended by omitting specified in the application.
+(4) Section 29(3)﻿(b) is amended by omitting specified in the application.
 (5) Section 29(4) is amended by omitting and Schedule 2.
 (6) The definitions of evidential material, thing, and vehicle in section 29(4) are repealed.
 (7) Section 29 is amended by repealing subsection (5) and substituting the following subsection:
@@ -2429,7 +2429,7 @@ Section 199 is repealed and the following sections are substituted:Powers of ent
       (iii) examine any record, authority, approval, permission, licence, or authority in that thing or at that place that may be relevant to monitoring compliance with this Act or any regulations made under this Act; or
       (iv) examine any article, gear, container, apparatus, device, or thing relating to the taking, sale, purchase, farming, or possession of any fish, aquatic life, or seaweed that is in that thing or at that place:
     (b) enter, pass across, or remain upon any land for the purpose of observing any public place, including by the use of a visual surveillance device:
-    (c) stop any person and examine any thing referred to in paragraph (a)⁠(i) to (iv) that is in the possession of that person:
+    (c) stop any person and examine any thing referred to in paragraph (a)﻿(i) to (iv) that is in the possession of that person:
     (d) for the purposes of any examination under paragraph (a) or (c),—
       (i) open, or direct any person to open, any thing that may be examined; and
       (ii) take any sample of a thing that may be examined, for forensic or other scientific testing:
@@ -2482,10 +2482,10 @@ Schedule 7 is repealed.
 ### 253 Amendments to Food Act 1981
 (1) This section amends the Food Act 1981.
 (2) Section 12 is amended by inserting the following subsection after subsection (2):
-  (2A) Subject to sections 14 and 16, the provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, sections 118, 119, 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8) apply in respect of any seizure and detention under subsection (2)⁠(i) or (j).
+  (2A) Subject to sections 14 and 16, the provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, sections 118, 119, 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8) apply in respect of any seizure and detention under subsection (2)﻿(i) or (j).
 (3) Section 13 is amended by inserting the following subsection after subsection (1):
-  (1A) Subject to sections 14 and 16, the provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, sections 118, 119, 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8) apply in respect of any seizure and detention under subsection (1)⁠(d).
-(4) Section 14(4)⁠(a) is amended by omitting employed by the Ministry.
+  (1A) Subject to sections 14 and 16, the provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, sections 118, 119, 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8) apply in respect of any seizure and detention under subsection (1)﻿(d).
+(4) Section 14(4)﻿(a) is amended by omitting employed by the Ministry.
 (5) Section 15A is amended by omitting section 198 of the Summary Proceedings Act 1957 and substituting section 6 of the Search and Surveillance Act 2012.
 (6) Section 15A is amended by adding the following subsection as subsection (2):
   (2) An officer who is authorised in writing by the Director-General to apply for search warrants in relation to the offences referred to in subsection (1) may apply for such a warrant under section 6 of the Search and Surveillance Act 2012 as if that officer were a constable.
@@ -2596,7 +2596,7 @@ Sections 56 and 57 are repealed and the following sections substituted:Purposes 
     (c) require a person of a kind described in paragraph (a) to produce for inspection relevant documents in that person's possession or under that person's control:
     (d) inspect and take copies of documents referred to in paragraph (c):
     (e) retain documents referred to in paragraph (c), if there are grounds for believing that they are evidence of the commission of an offence.
-  (2) If a requirement is made of a person under subsection (1)⁠(c), the person must immediately comply with that requirement.
+  (2) If a requirement is made of a person under subsection (1)﻿(c), the person must immediately comply with that requirement.
   (3) The provisions of subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
 
 ### 262 Amendments to sections 58 to 61 of Immigration Advisers Licensing Act 2007
@@ -2613,7 +2613,7 @@ The following section is inserted after section 61:Search warrant
   (2) The Registrar may exercise the powers of a constable to apply for a search warrant under section 6 of the Search and Surveillance Act 2012 in relation to an offence under this Act.
 
 ### 264 Other amendments to Immigration Advisers Licensing Act 2007
-(1) Section 62(3)⁠(c) is amended by omitting or 58.
+(1) Section 62(3)﻿(c) is amended by omitting or 58.
 (2) Section 69(1) is amended by omitting or 58 in each place where it appears.
 
 **Amendments to Insurance (Prudential Supervision) Act 2010**
@@ -2672,7 +2672,7 @@ The following section is inserted after section 61:Search warrant
       (i) an enforcement officer has been freshly pursuing the vehicle; or
       (ii) it is likely that a person was about to remove, conceal, destroy, or dispose of the vehicle; or
       (iii) an enforcement officer believes on reasonable grounds that the vehicle was about to be used in the commission of a crime; and
-    (b) if, because of the time of the day or the locality, it was impracticable to obtain a warrant without creating an opportunity for the person to do anything referred to in paragraph (a)⁠(ii) or (iii).
+    (b) if, because of the time of the day or the locality, it was impracticable to obtain a warrant without creating an opportunity for the person to do anything referred to in paragraph (a)﻿(ii) or (iii).
 (4) Section 119(5) is amended by omitting apply on oath to a District Court Judge and substituting apply, in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, to an issuing officer (within the meaning of section 3 of that Act),.
 (5) Section 119 is amended by repealing subsection (6) and substituting the following subsection:
   (6) The provisions of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers in subsections (3) and (5) (except for subpart 3 of that Part in relation to subsection (3)).
@@ -2684,8 +2684,8 @@ Sections 270 and 271 amend the Local Government Act 2002.
 
 ### 270 Seizure of property from private land
 (1) Section 165(1) is amended by omitting A judicial officer and substituting An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012).
-(2) Section 165(2)⁠(a) is amended by omitting in writing and on oath and substituting in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
-(3) Section 165(2)⁠(b) is amended by omitting judicial officer and substituting issuing officer.
+(2) Section 165(2)﻿(a) is amended by omitting in writing and on oath and substituting in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
+(3) Section 165(2)﻿(b) is amended by omitting judicial officer and substituting issuing officer.
 (4) Section 165 is amended by repealing subsections (3) and (4) and substituting the following subsections:
   (3) None of the following persons may act as an issuing officer under this section:
     (a) the mayor or any elected member of the local authority:
@@ -2699,9 +2699,9 @@ Sections 270 and 271 amend the Local Government Act 2002.
 (2) Section 167(1) is amended by omitting or section 165.
 (3) Section 168(1) is amended by inserting seized and impounded under section 164 after dispose of property.
 (4) Section 171(2) and (3) are repealed.
-(5) Section 172(3)⁠(a) is amended by omitting a District Court Judge on written application on oath and substituting an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act.
+(5) Section 172(3)﻿(a) is amended by omitting a District Court Judge on written application on oath and substituting an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act.
 (6) Section 172 is amended by repealing subsection (4) and substituting the following subsections:
-  (4) Subject to subsections (3)⁠(b) and (5), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+  (4) Subject to subsections (3)﻿(b) and (5), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
   (5) Despite subsection (4), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
 (7) Section 173 is amended by repealing subsection (2) and substituting the following subsection:
   (2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, and sections 118 and 119) apply.
@@ -2749,7 +2749,7 @@ Section 14 is repealed and the following section substituted:Officer may obtain 
 ### 276 Amendments to Marine Reserves Act 1971
 (1) This section amends the Marine Reserves Act 1971.
 (2) Section 18 is amended by adding the following subsection:
-  (3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of any entry and search conducted under subsection (1)⁠(d).
+  (3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of any entry and search conducted under subsection (1)﻿(d).
 (3) Section 18A is amended by repealing subsection (3) and substituting the following subsection:
   (3) Subject to subsection (2), the provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply.
 (4) Sections 18B to 18F are repealed.
@@ -2948,13 +2948,13 @@ Sections 297 and 298 amend the Reserve Bank of New Zealand Act 1989.
   (3) Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) applies.
 
 ### 298 Further amendments to Reserve Bank of New Zealand Act 1989
-(1) Section 157ZM(1) is amended by omitting A Judge of the High Court or a District Court Judge may issue a search warrant in terms of clause 5 of Schedule 4 to a person appointed under section 157ZJ(2)⁠(b) if the Judge and substituting An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant to a person appointed under section 157ZJ(2)⁠(b) if the issuing officer.
+(1) Section 157ZM(1) is amended by omitting A Judge of the High Court or a District Court Judge may issue a search warrant in terms of clause 5 of Schedule 4 to a person appointed under section 157ZJ(2)﻿(b) if the Judge and substituting An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant to a person appointed under section 157ZJ(2)﻿(b) if the issuing officer.
 (2) Section 157ZM is amended by repealing subsection (2) and substituting the following subsection:
   (2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
-(3) Section 157ZN(1)⁠(b) is amended by omitting ; and.
-(4) Section 157ZN(1)⁠(c) is repealed.
-(5) Section 157ZN(3)⁠(b) is repealed.
-(6) Section 157ZN(3)⁠(c) is amended by omitting or a search warrant issued under section 157ZM.
+(3) Section 157ZN(1)﻿(b) is amended by omitting ; and.
+(4) Section 157ZN(1)﻿(c) is repealed.
+(5) Section 157ZN(3)﻿(b) is repealed.
+(6) Section 157ZN(3)﻿(c) is amended by omitting or a search warrant issued under section 157ZM.
 (7) Schedule 4 is repealed.
 
 **Amendments to Reserves Act 1977**
@@ -3005,7 +3005,7 @@ Sections 297 and 298 amend the Reserve Bank of New Zealand Act 1989.
 (1) This section amends the Tax Administration Act 1994.
 (2) Section 3(1) is amended by repealing the definition of judicial officer and substituting the following definition:
   - **issuing officer** is defined in sections 16(7) and 16C(8) for the purposes of those sections
-(3) Section 16(2) is amended by omitting The occupier of land and substituting Despite section 103(3)⁠(b)⁠(ii) of the Search and Surveillance Act 2012, the occupier of land.
+(3) Section 16(2) is amended by omitting The occupier of land and substituting Despite section 103(3)﻿(b)﻿(ii) of the Search and Surveillance Act 2012, the occupier of land.
 (4) Section 16(4) is amended by omitting A judicial officer who, on written application made on oath and substituting An issuing officer who, on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
 (5) Section 16(5) is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) is valid for a period not exceeding 14 days from the date of its issue or a period not exceeding 30 days from the date of its issue if the issuing officer is satisfied that a period of longer than 14 days is necessary for execution; and
@@ -3055,22 +3055,22 @@ Sections 297 and 298 amend the Reserve Bank of New Zealand Act 1989.
 Sections 306 and 307 amend the Waste Minimisation Act 2008.
 
 ### 306 Amendments to Waste Minimisation Act 2008
-(1) Section 65(3)⁠(b) is amended by omitting an enforcement officer acting under section 78 or in each place where it appears.
+(1) Section 65(3)﻿(b) is amended by omitting an enforcement officer acting under section 78 or in each place where it appears.
 (2) Sections 77 and 78 are repealed.
 (3) Section 79 is amended by inserting the following subsection after subsection (2):
   (2A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3 and sections 118 and 119) apply.
 (4) Section 80 is amended by repealing subsection (2) and substituting the following subsection:
   (2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on the application of an enforcement officer made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act, issue a warrant authorising the enforcement officer to enter the dwellinghouse or marae specified in the application.
 (5) Section 80(3) is amended by omitting judicial officer and substituting issuing officer.
-(6) Section 80(3)⁠(a)⁠(ii) is amended by omitting ; and.
-(7) Section 80(3)⁠(b) is repealed.
+(6) Section 80(3)﻿(a)﻿(ii) is amended by omitting ; and.
+(7) Section 80(3)﻿(b) is repealed.
 (8) Section 80 is amended by inserting the following subsection after subsection (3):
   (3A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply as if a warrant issued under subsection (2) were a search warrant.
 
 ### 307 Other amendments to Waste Minimisation Act 2008
 (1) Section 82(1) is amended by omitting A judicial officer and substituting An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012).
-(2) Section 82(2)⁠(a) is amended by omitting in writing and on oath and substituting in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
-(3) Section 82(2)⁠(b) is amended by omitting judicial officer and substituting issuing officer.
+(2) Section 82(2)﻿(a) is amended by omitting in writing and on oath and substituting in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
+(3) Section 82(2)﻿(b) is amended by omitting judicial officer and substituting issuing officer.
 (4) Section 82 is amended by repealing subsection (3) and substituting the following subsections:
   (3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply as if a warrant issued under subsection (1) were a search warrant.
   (4) An enforcement officer executing a warrant issued under this section must be accompanied by a member of the Police.
@@ -3110,7 +3110,7 @@ Sections 306 and 307 amend the Waste Minimisation Act 2008.
 
 ### 309 Amendments to Wildlife Act 1953
 (1) This section amends the Wildlife Act 1953.
-(2) The proviso to section 39(1)⁠(f) is amended by—
+(2) The proviso to section 39(1)﻿(f) is amended by—
   (a) omitting Justice or Community Magistrate who is satisfied on oath that there is probable cause to suspect and substituting issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied on reasonable grounds; and
   (b) omitting at such time or times in the day or night as are mentioned in the warrant, but no such warrant shall continue in force for more than 14 days from the date thereof.
 (3) Section 39 is amended by adding the following subsection:
@@ -3190,7 +3190,7 @@ Sections 306 and 307 amend the Waste Minimisation Act 2008.
 (2) Section 159(1) is amended by repealing paragraph (e) and substituting the following paragraph:
   (e) entry into a dwellinghouse must be authorised by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on an application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
 (3) Section 159 is amended by adding the following subsection:
-  (5) Subparts 1, 3, 5, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of an application for, and issue of, a warrant under subsection (1)⁠(e).
+  (5) Subparts 1, 3, 5, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of an application for, and issue of, a warrant under subsection (1)﻿(e).
 
 **Amendments to Fair Trading Act 1986**
 
@@ -3207,13 +3207,13 @@ Sections 306 and 307 amend the Waste Minimisation Act 2008.
 
 ### 317 Amendments to Forests Act 1949
 (1) This section amends the Forests Act 1949.
-(2) Section 67D(1)⁠(e) is amended by substituting in accordance with section 67S and the provisions of subparts 1, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 for under section 67S.
+(2) Section 67D(1)﻿(e) is amended by substituting in accordance with section 67S and the provisions of subparts 1, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 for under section 67S.
 (3) Section 67R is amended by adding the following subsection as subsection (2):
   (2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for subparts 2 and 3, sections 118 and 119, and subparts 5 and 8) apply.
 (4) Section 67S is amended by repealing subsections (1), and (3) to (7).
 (5) Section 71B(1) is amended by omitting subject to the following conditions and substituting subject to Part 4 of the Search and Surveillance Act 2012 and to the following conditions.
-(6) Section 71B(1)⁠(b) to (d) and (f) are repealed.
-(7) Section 71B(1)⁠(e) is amended by omitting on oath by an authorised person to a District Court Judge, Justice of the Peace, Community Magistrate, or Registrar or Deputy Registrar of any Court and substituting in the manner provided for an application for a search warrant in Part 4 of the Search and Surveillance Act 2012 by an authorised person to an issuing officer.
+(6) Section 71B(1)﻿(b) to (d) and (f) are repealed.
+(7) Section 71B(1)﻿(e) is amended by omitting on oath by an authorised person to a District Court Judge, Justice of the Peace, Community Magistrate, or Registrar or Deputy Registrar of any Court and substituting in the manner provided for an application for a search warrant in Part 4 of the Search and Surveillance Act 2012 by an authorised person to an issuing officer.
 (8) Section 71B(2) is amended by inserting and the conditions set out in Part 4 of the Search and Surveillance Act 2012 relating to time of entry, notification of intention to enter, and evidence of identification or authorisation to enter, after that subsection,.
 (9) Section 71B is amended by adding the following subsections:
   (3) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
@@ -3230,7 +3230,7 @@ Sections 306 and 307 amend the Waste Minimisation Act 2008.
 (5) Section 50(1) is amended by repealing paragraph (e) and substituting the following paragraph:
   (e) entry into a dwellinghouse must be authorised by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on an application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
 (6) Section 50 is amended by inserting the following subsection after subsection (1):
-  (1A) Subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of an application for, and issue of, a warrant under subsection (1)⁠(e).
+  (1A) Subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of an application for, and issue of, a warrant under subsection (1)﻿(e).
 
 **Amendments to International Energy Agreement Act 1976**
 
@@ -3298,11 +3298,11 @@ Section 11 is repealed and the following section substituted:Search warrants
 (6) Sections 202B, 224, 225, the heading above section 314A, sections 314A to 314D, and sections 317 to 317B are repealed.
 (7) Section 216F is amended by repealing subsection (1) and substituting the following subsection:
   (1) An unlawful disclosure is the intentional and unauthorised disclosure of any information gained when undertaking maintenance of a communication service.
-(8) Section 216F(2) is amended by omitting subsection (1)⁠(b)⁠(i) and substituting subsection (1).
+(8) Section 216F(2) is amended by omitting subsection (1)﻿(b)﻿(i) and substituting subsection (1).
 (9) Part 11A is repealed.
-(10) Section 216B(2)⁠(b) is amended by repealing subparagraph (i) and substituting the following subparagraph:
+(10) Section 216B(2)﻿(b) is amended by repealing subparagraph (i) and substituting the following subparagraph:
   (i) the Search and Surveillance Act 2012; or
-(11) Section 216B(2)⁠(b) is amended by repealing subparagraph (iv).
+(11) Section 216B(2)﻿(b) is amended by repealing subparagraph (iv).
 (12) Section 216B(3) is repealed.
 (13) Section 216B(7) is amended by omitting an interception warrant and substituting a surveillance device warrant issued under the Search and Surveillance Act 2012.
 
@@ -3320,16 +3320,16 @@ Section 11 is repealed and the following section substituted:Search warrants
   (a) the item relating to section 137(2) of the Animal Welfare Act 1999; and
   (b) the item relating to section 61(1) of the Arms Act 1983; and
   (c) the item relating to section 46(4) of the Conservation Act 1987; and
-  (d) the items relating to sections 16(1)⁠(a), 16(1)⁠(b), 20, and 21(a) of the Driftnet Prohibition Act 1991; and
-  (e) the item relating to section 118(5)⁠(a) of the Films, Videos, and Publications Classification Act 1993; and
-  (f) the item relating to section 51(5)⁠(a) of the Financial Transactions Reporting Act 1996; and
-  (g) the items relating to sections 207(4), 208(1), 209(a), 209(b), and 210(1)⁠(a), and 210(2) of the Fisheries Act 1996; and
+  (d) the items relating to sections 16(1)﻿(a), 16(1)﻿(b), 20, and 21(a) of the Driftnet Prohibition Act 1991; and
+  (e) the item relating to section 118(5)﻿(a) of the Films, Videos, and Publications Classification Act 1993; and
+  (f) the item relating to section 51(5)﻿(a) of the Financial Transactions Reporting Act 1996; and
+  (g) the items relating to sections 207(4), 208(1), 209(a), 209(b), and 210(1)﻿(a), and 210(2) of the Fisheries Act 1996; and
   (h) the items relating to sections 67S(3), 67S(4), 67S(6), and 67S(7) of the Forests Act 1949; and
   (i) the items relating to Schedule 2 of the Insurance (Prudential Supervision) Act 2010; and
-  (j) the items relating to sections 18A(3), 18B(1), 18C(a), 18C(b), 18D(1)⁠(a), and 18D(2) of the Marine Reserves Act 1971; and
+  (j) the items relating to sections 18A(3), 18B(1), 18C(a), 18C(b), 18D(1)﻿(a), and 18D(2) of the Marine Reserves Act 1971; and
   (k) the item relating to section 18A(4) of the Misuse of Drugs Act 1975; and
   (l) the items relating to sections 21(2) and 23(2) of the Misuse of Drugs Amendment Act 1978; and
-  (m) the item relating to section 140(1)⁠(a) of the Motor Vehicle Sales Act 2003; and
+  (m) the item relating to section 140(1)﻿(a) of the Motor Vehicle Sales Act 2003; and
   (n) the items relating to the Telecommunications (Residual Provisions) Act 1987; and
   (o) the item relating to section 54(6) of the Unsolicited Electronic Messages Act 2007.
 
@@ -3347,7 +3347,7 @@ Section 17A is repealed and the following section substituted:Sections 121, 128,
 ### 330 Health Act 1956 amended
 (1) This section amends the Health Act 1956.
 (2) Section 71A is amended by repealing subsection (5) and substituting the following subsection:
-  (5) Sections 128, 129, and 177 of the Search and Surveillance Act 2012, with any necessary modifications, apply to the powers conferred by subsection (2)⁠(c).
+  (5) Sections 128, 129, and 177 of the Search and Surveillance Act 2012, with any necessary modifications, apply to the powers conferred by subsection (2)﻿(c).
 
 **Amendments to Misuse of Drugs Act 1975**
 
@@ -3377,11 +3377,11 @@ Section 36(1) is amended by omitting 149C(1) and (2), 149D, 151, 152, 161, 165 t
 
 ### 334 Misuse of Drugs Amendment Act 1978 amended
 (1) This section amends the Misuse of Drugs Amendment Act 1978.
-(2) Section 12(1)⁠(b) is amended by omitting package or goods and substituting package, goods, or mail.
+(2) Section 12(1)﻿(b) is amended by omitting package or goods and substituting package, goods, or mail.
 (3) Section 12 is amended by inserting the following paragraphs after paragraph (b):
   (ba) allow the package, goods, or mail to be delivered by a person who has agreed to co-operate with Customs; or
   (bb) deliver the package, goods, or mail; or
-(4) Section 12(1)⁠(c) is amended by omitting goods or mail and substituting package, goods, or mail.
+(4) Section 12(1)﻿(c) is amended by omitting goods or mail and substituting package, goods, or mail.
 (5) Section 12(2) is amended by omitting goods or mail in each place where it appears and substituting in each case package, goods, or mail.
 (6) Sections 12A to 12C are repealed.
 (7) Sections 14 to 29 are repealed.
@@ -3414,7 +3414,7 @@ Section 36(1) is amended by omitting 149C(1) and (2), 149D, 151, 152, 161, 165 t
 
 ### 337 Summary Proceedings Act 1957 amended
 (1) This section amends the Summary Proceedings Act 1957.
-(2) Section 3(1)⁠(h) is repealed.
+(2) Section 3(1)﻿(h) is repealed.
 (3) The heading above section 198 and sections 198 to 200 are repealed.
 (4) The heading above section 200A and sections 200A to 200P are repealed.
 (5) Part 2 of Schedule 1 is amended by inserting the following item after the item relating to the Sales Tax Act 1974:The following table is small and has 3 columns.Search and Surveillance Act 2012173Failing to comply with examination order174Failing to comply with production order
@@ -3423,7 +3423,7 @@ Section 36(1) is amended by omitting 149C(1) and (2), 149D, 151, 152, 161, 165 t
 
 ### 338 Amendments to Summary Proceedings Amendment Act (No 2) 2011
 (1) This section amends the Summary Proceedings Amendment Act (No 2) 2011.
-(2) The items relating to sections 198B(6) and 199(4)⁠(a) of the principal Act in the Schedule are omitted.
+(2) The items relating to sections 198B(6) and 199(4)﻿(a) of the principal Act in the Schedule are omitted.
 
 **Amendment to Telecommunications Act 2001**
 
@@ -3454,7 +3454,7 @@ The Telecommunications (Residual Provisions) Act 1987 (1987 No 116) is repealed.
   (b) prescribing procedures to be followed for the purposes of making and resolving claims of privilege under subpart 5 of Part 4:
   (c) authorising a chief executive to omit from any annual report information about search or surveillance generally, or of a particular kind, or in a particular area, or in an area of a particular kind:
   (d) providing for any other matters contemplated by the Act, necessary for its administration, or necessary for giving it full effect.
-(2) Regulations made under subsection (1)⁠(a) may do any or all of the following:
+(2) Regulations made under subsection (1)﻿(a) may do any or all of the following:
   (a) prescribe different forms of warrant or order for use under different enactments:
   (b) prescribe any form of warrant or order by listing the minimum information requirements to be included:
   (c) authorise a chief executive or any other specified person or class of person to authorise variations in the language, provisions, or format of any form of warrant or order in the warrant or order:
@@ -3467,10 +3467,10 @@ The Telecommunications (Residual Provisions) Act 1987 (1987 No 116) is repealed.
 (2) For the purposes of section 171, the period to be reported on in the first annual report published after the commencement of that section begins with the commencement of that section and ends with the end of the financial year or other period ordinarily the subject of the report.
 
 ### 344 Disclosure of prior warrants in applications for surveillance device warrants made in transitional period
-In the period commencing on the date of commencement of section 49(3)⁠(a) and ending 3 months later, section 49(3)⁠(a) must be read as if for the words within the previous 3 months there were substituted the words since the commencement of this subsection.
+In the period commencing on the date of commencement of section 49(3)﻿(a) and ending 3 months later, section 49(3)﻿(a) must be read as if for the words within the previous 3 months there were substituted the words since the commencement of this subsection.
 
 ### 345 Disclosure of prior warrants in applications for search warrants
-In the period commencing on the date of commencement of section 98(3)⁠(a) and ending 3 months later, section 98(3)⁠(a) must be read as if for the words within the previous 3 months there were substituted the words since the commencement of this subsection.
+In the period commencing on the date of commencement of section 98(3)﻿(a) and ending 3 months later, section 98(3)﻿(a) must be read as if for the words within the previous 3 months there were substituted the words since the commencement of this subsection.
 
 ### 346 Transitional provision relating to Part 11A of Crimes Act 1961
 (1) Despite the repeal of Part 11A of the Crimes Act 1961 by this Act,—
@@ -3518,7 +3518,7 @@ In the period commencing on the date of commencement of section 98(3)⁠(a) and 
   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)⁠(c) does not limit the provisions of the Interpretation Act 1999.
+(2) Subsection (1)﻿(c) does not limit the provisions of the Interpretation Act 1999.
 (3) In this section,—
   - **authorising Act** means an Act amended by Part 5
   - **continuing warrant** means a warrant or other authority issued under an authorising Act—
@@ -3530,7 +3530,7 @@ In the period commencing on the date of commencement of section 98(3)⁠(a) and 
 (1) Until any provision of this Act specified in subsection (2) (a specified provision) comes into force, the provision is deemed to be in force for the purposes only of any other provision of this Act that—
   (a) is in force; and
   (b) refers to the specified provision.
-(2) The specified provisions are sections 14(2) and 18(2), the definition of document in section 79, sections 81(2)⁠(a) to (d), 98(2), 99 to 101, 105, and 107, and columns 1 and 2 of the Schedule.
+(2) The specified provisions are sections 14(2) and 18(2), the definition of document in section 79, sections 81(2)﻿(a) to (d), 98(2), 99 to 101, 105, and 107, and columns 1 and 2 of the Schedule.
 
 ### 353 Certain provisions limited to matters covered in subpart 1 of Part 3 during transitional period
 (1) Until the date on which provisions of this Act are, for the first time, brought into force under section 2(2) or (3), any provision specified in subsection (2) (a specified provision) applies only to the extent that it is applicable to matters covered in subpart 1 of Part 3.
@@ -3538,11 +3538,11 @@ In the period commencing on the date of commencement of section 98(3)⁠(a) and 
 
 ### 354 Transitional provision relating to Criminal Procedure Act 2011
 Until the commencement date (within the meaning of section 394 of the Criminal Procedure Act 2011),—
-  (a) section 13(3)⁠(b) must be read as if the reference to section 377 of the Criminal Procedure Act 2011 were a reference to section 404 of the Crimes Act 1961; and
-  (b) section 18(3)⁠(a) must be read as if the reference to a category 3 or category 4 offence were a reference to an indictable offence; and
-  (c) section 18(3)⁠(b) must be read as if the reference to a category 3 or category 4 offence were a reference to an indictable offence; and
-  (d) section 24(4)⁠(c) must be read as if the reference to the Criminal Procedure Act 2011 were a reference to the Summary Proceedings Act 1957; and
-  (e) section 48(2)⁠(d)⁠(i) must be read as if the reference to a category 3 or category 4 offence were a reference to an indictable offence; and
+  (a) section 13(3)﻿(b) must be read as if the reference to section 377 of the Criminal Procedure Act 2011 were a reference to section 404 of the Crimes Act 1961; and
+  (b) section 18(3)﻿(a) must be read as if the reference to a category 3 or category 4 offence were a reference to an indictable offence; and
+  (c) section 18(3)﻿(b) must be read as if the reference to a category 3 or category 4 offence were a reference to an indictable offence; and
+  (d) section 24(4)﻿(c) must be read as if the reference to the Criminal Procedure Act 2011 were a reference to the Summary Proceedings Act 1957; and
+  (e) section 48(2)﻿(d)﻿(i) must be read as if the reference to a category 3 or category 4 offence were a reference to an indictable offence; and
   (f) section 107(2) must be read as if the reference to section 204 of the Summary Proceedings Act 1957 and section 379 of the Criminal Procedure Act 2011 were a reference only to section 204 of the Summary Proceedings Act 1957; and
   (g) sections 173(2) and 174(2) must be read as if the offences prescribed in those sections were triable on indictment; and
   (h) sections 175, 176, 177, 178, and 179(3) must be read as if the offences prescribed in those sections were punishable on summary conviction.
@@ -3618,23 +3618,23 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 146 | High Court may declare the nature, extent, and value of any person's interest in property specified in a foreign forfeiture order | All (except subpart 6) |
 | Crown Minerals Amendment Act 2013 | 99B | Enforcement officer authorised by Minister may inspect place or structure (other than dwellinghouse or marae) to determine whether permit, Crown Minerals Act 1991, or regulations made under that Act being complied with. | All (except sections 118 and 119) |
 |  | 99C | Constable or enforcement officer authorised by Minister may obtain and execute search warrant to enter and search place or vehicle for evidence of offence against Crown Minerals Act 1991 or regulations made under that Act. | All (except sections 118 and 119 in the case of an enforcement officer) |
-| Customs and Excise Act 1996 | 139(1)⁠(d) | Customs officer and authorised person may board craft if officer or authorised person has reasonable cause to suspect craft is involved in offence against Customs and Excise Act 1996 or is carrying dutiable, uncustomed, prohibited, or forfeited goods | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)⁠(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
-|  | 140 | Customs officer and authorised person may search craft if officer or authorised person has reasonable cause to suspect craft is involved in offence against Customs and Excise Act 1996 or is carrying dutiable, uncustomed, prohibited, or forfeited goods | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)⁠(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
-|  | 144 | Customs officer or, in certain cases, constable may stop and detain vehicle to search it for various kinds of goods | Subparts 1 and 4 to 10 (except that sections 125(4), 131(5)⁠(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
-|  | 149B | Customs officer or, in certain cases, constable may search person if officer or constable has reasonable cause to suspect that certain items are hidden on or about that person and are evidence that the person has committed or is about to commit certain offences against Customs and Excise Act 1996 | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)⁠(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
-|  | 149BA | Customs officer or constable may search a person for dangerous items if officer or constable has reasonable grounds to believe that items posing threat to safety are on or about the person | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)⁠(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
-|  | 149C | Customs officer or constable may seize certain things found during search under section 149B or 149BA of Customs and Excise Act 1996 | Subparts 1, 5, 6, 7, 9, and 10 (except that sections 125(4), 131(5)⁠(f), and 133 and subpart 6 do not apply to forfeited goods) |
-|  | 152 | Customs officer may, on direction of chief executive, inspect goods no longer under control of Customs if chief executive has reasonable grounds to suspect goods are goods in respect of which offence has been committed, or that are forfeited to the Crown, under Customs and Excise Act 1996 | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)⁠(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
-|  | 167(1) | Customs officer may obtain and execute search warrant to enter any place or thing to search for evidence of contravention of Customs and Excise Act 1996 or anything that is unlawfully imported or exported, or that is used for the purpose of unlawful exportation or importation of goods | All (except that sections 125(4), 131(5)⁠(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
+| Customs and Excise Act 1996 | 139(1)﻿(d) | Customs officer and authorised person may board craft if officer or authorised person has reasonable cause to suspect craft is involved in offence against Customs and Excise Act 1996 or is carrying dutiable, uncustomed, prohibited, or forfeited goods | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)﻿(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
+|  | 140 | Customs officer and authorised person may search craft if officer or authorised person has reasonable cause to suspect craft is involved in offence against Customs and Excise Act 1996 or is carrying dutiable, uncustomed, prohibited, or forfeited goods | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)﻿(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
+|  | 144 | Customs officer or, in certain cases, constable may stop and detain vehicle to search it for various kinds of goods | Subparts 1 and 4 to 10 (except that sections 125(4), 131(5)﻿(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
+|  | 149B | Customs officer or, in certain cases, constable may search person if officer or constable has reasonable cause to suspect that certain items are hidden on or about that person and are evidence that the person has committed or is about to commit certain offences against Customs and Excise Act 1996 | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)﻿(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
+|  | 149BA | Customs officer or constable may search a person for dangerous items if officer or constable has reasonable grounds to believe that items posing threat to safety are on or about the person | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)﻿(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
+|  | 149C | Customs officer or constable may seize certain things found during search under section 149B or 149BA of Customs and Excise Act 1996 | Subparts 1, 5, 6, 7, 9, and 10 (except that sections 125(4), 131(5)﻿(f), and 133 and subpart 6 do not apply to forfeited goods) |
+|  | 152 | Customs officer may, on direction of chief executive, inspect goods no longer under control of Customs if chief executive has reasonable grounds to suspect goods are goods in respect of which offence has been committed, or that are forfeited to the Crown, under Customs and Excise Act 1996 | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)﻿(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
+|  | 167(1) | Customs officer may obtain and execute search warrant to enter any place or thing to search for evidence of contravention of Customs and Excise Act 1996 or anything that is unlawfully imported or exported, or that is used for the purpose of unlawful exportation or importation of goods | All (except that sections 125(4), 131(5)﻿(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
 |  | 175C | Customs officer may seize or detain goods suspected to be certain risk goods or evidence of commission of certain offences, if those goods are discovered in the course of exercising powers of inspection, search, or examination under Customs and Excise Act 1996 | All (except subparts 2 and 3) |
-|  | 175D | Customs officer may seize and detain goods or documents (located in the course of exercising any power of search, inspection, or examination under Customs and Excise Act 1996) that he or she has reasonable cause to suspect are evidence of any of specified list of offences under Misuse of Drugs Act 1975 or Films, Videos, and Publications Classification Act 1993 | Subparts 1, 5, 6, 7, 9, and 10 (except that sections 125(4), 131(5)⁠(f), and 133 and subpart 6 do not apply to forfeited goods) |
+|  | 175D | Customs officer may seize and detain goods or documents (located in the course of exercising any power of search, inspection, or examination under Customs and Excise Act 1996) that he or she has reasonable cause to suspect are evidence of any of specified list of offences under Misuse of Drugs Act 1975 or Films, Videos, and Publications Classification Act 1993 | Subparts 1, 5, 6, 7, 9, and 10 (except that sections 125(4), 131(5)﻿(f), and 133 and subpart 6 do not apply to forfeited goods) |
 | Dairy Industry Restructuring Act 2001 | 29I(1) | Constable or chief executive of Ministry of Agriculture and Forestry or person authorised by chief executive may obtain and execute search warrant to search for evidence of offence against section 31(3) of Dairy Industry Restructuring Act 2001 | All (except that sections 118 and 119 apply to constables only) |
 | Dog Control Act 1996 | 14(1) to (3) | Dog control officer who has good cause to suspect that offence against Dog Control Act 1996 or bylaw under that Act is being committed may enter land or premises, and inspect any dog, and, if authorised by that Act, seize or take custody of dog (note: warrant must be obtained to enter dwellinghouse) | Subparts 1, 2, 4, and 7 to 10 (except that sections 118 and 119 apply to constables only) |
 |  | 56(3) | Dog ranger or dog control officer may enter dwellinghouse to remove barking dog (following non-compliance with remedial notice) if he or she obtains warrant to enter | Subparts 1, 3, 7, 9, and 10 |
-|  | 57(6)⁠(b) | Dog ranger or dog control officer may enter dwellinghouse to seize dog that has attacked persons or animals if he or she has warrant to enter (note: entry may be without warrant in exigent circumstances) | Subparts 1, 3, 7, 9, and 10 |
+|  | 57(6)﻿(b) | Dog ranger or dog control officer may enter dwellinghouse to seize dog that has attacked persons or animals if he or she has warrant to enter (note: entry may be without warrant in exigent circumstances) | Subparts 1, 3, 7, 9, and 10 |
 | Driftnet Prohibition Act 1991 | 13(1) and (2) | Enforcement officer may exercise powers of entry and variety of other powers for purposes of enforcing Driftnet Prohibition Act 1991 | Subparts 1, 4, 5, 7, 9, and 10 |
 |  | 15 | Enforcement officer may seize property | Subparts 1, 5, 6, 7, 9, and 10 |
-| Electricity Act 1992 | 159(1)⁠(e) | Dwellinghouse may be entered under general power of entry conferred by Electricity Act 1992 if warrant authorising entry to that dwellinghouse is obtained by person exercising power | Subparts 1, 3, 5, 7, 9, and 10 |
+| Electricity Act 1992 | 159(1)﻿(e) | Dwellinghouse may be entered under general power of entry conferred by Electricity Act 1992 if warrant authorising entry to that dwellinghouse is obtained by person exercising power | Subparts 1, 3, 5, 7, 9, and 10 |
 | Electricity Industry Act 2010 | 47(1) | Employee of Authority may obtain and execute warrant to search any place for purpose of ascertaining whether industry participant is in breach of Act, regulations, or Code | All (except sections 118 and 119) |
 | Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 | 141(1) and (2) | Enforcement officer may enter and inspect a place, vehicle, vessel, or structure to determine whether Act, regulations, marine consent, abatement notice, or enforcement order are being complied with | All (except subparts 2 and 8 and sections 118 and 119) |
 | Extradition Act 1999 | 83(2) | Issuing officer may issue search warrant to constable to search for evidence of extradition offence | All (except subpart 6) |
@@ -3649,10 +3649,26 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 199A | Fishery officer may enter, examine, and search any thing that relates to suspected offence against Fisheries Act 1996 | All (except subparts 3 and 8) |
 |  | 200(1) | Fishery officer may enter dwellinghouse or surrounds or Māori reservation (under power conferred elsewhere in Fisheries Act 1996) if authorised to do so by issuing officer | Subparts 1, 3, 7, 9, and 10 |
 |  | 207(1) | Property seized by fishery officer in relation to suspected offence against Fisheries Act 1996 may be held | Subparts 1, 5, 6, 7, 9, and 10 |
-| Food Act 1981 | 12(1) and (2) | Food officer may seize and detain articles and advertising material or labelling material reasonably believed to be in contravention of Food Act 1981 or, as applicable, any food standards or regulations made under that Act | All (except subparts 2, 3, 6, and 8 and sections 118, 119, 125(4), 131(5)⁠(f), and 133) |
-|  | 13(1) | Local authority inspector and any assistant under his or her direction may seize and detain any food or appliance related to certain suspected offences under Food Act 1981 | All (except subparts 2, 3, 6, and 8 and sections 118, 119, 125(4), 131(5)⁠(f), and 133) |
-|  | 15A | Authorised officer may apply for search warrant in relation to specified offences | Section 6 |
-| Forests Act 1949 | 67D(1)⁠(e) | Timber seized by Secretary (chief executive of Ministry of Agriculture and Forestry) or forestry officer may be disposed of in accordance with Part 4 of the Search and Surveillance Act 2012 | Subparts 1, 6, 7, 9, and 10 |
+| Food Act 2014 | 282 | Chief executive may give directions to complete and supply declaration | Subpart 5 of Part 4 |
+|  | 283 | Chief executive may give directions to impose movement or related controls | Subpart 5 of Part 4 |
+|  | 292 | Chief executive may require production of information | Subpart 5 of Part 4 |
+|  | 293 | Chief executive may require production of information | Subpart 5 of Part 4 |
+|  | 294 | Verifiers' rights of access and certain other powers | Subpart 5 of Part 4 |
+|  | 295 | Recognised person may exercise right of access to places, information, documents, etc | Subpart 5 of Part 4 |
+|  | 299 | Use of equipment by food safety officers to facilitate entry and search | Section 110(e) |
+|  | 300 | Food safety officer may copy documents, etc | Subpart 5 of Part 4 |
+|  | 306 | Food safety officer may seize, condemn, and require disposal | Part 4 (other than subparts 2, 3, 6, and 8 and sections 118, 119, 125(4), 131(5)﻿(f), and 133) |
+|  | 308 | Food safety officer may ask about documents, etc | Subpart 5 of Part 4 |
+|  | 309 | Food safety officer must identify himself or herself | Section 131 |
+|  | 311 | Food safety officer may enter places without search warrant | Part 4 (other than subparts 2, 3, 6, and 8 and sections 118 and 119) |
+|  | 322 | Requirements about applications for search warrant | Sections 98 to 100 |
+|  | 323 | Issuing officer's power to issue search warrant | Sections 102 to 104 and 107, and subpart 5 of Part 4 |
+|  | 325 | How search warrant can be transmitted | Section 105 |
+|  | 326 | Search powers under warrant | Section 110 |
+|  | 327 | How search powers to be carried out | Sections 106, 111 to 114, 115(1)﻿(b) and (3), 116 to 130, 131(1) to (5), 132, 133, 134, and 135 |
+|  | 328 | How seized property may be disposed of | Part 4 (other than subparts 2, 3, 4, and 8) |
+|  | 329 | Documents relating to search warrant must be retained | Section 101 |
+| Forests Act 1949 | 67D(1)﻿(e) | Timber seized by Secretary (chief executive of Ministry of Agriculture and Forestry) or forestry officer may be disposed of in accordance with Part 4 of the Search and Surveillance Act 2012 | Subparts 1, 6, 7, 9, and 10 |
 |  | 67R | Secretary (chief executive of Ministry of Agriculture and Forestry) and any forestry officer may enter various places to inspect indigenous timber from indigenous forest land and may seize indigenous timber involved in a contravention of Forests Act 1949 | All (except subparts 2, 3, 5, and 8 and sections 118 and 119) |
 |  | 71B(1) | Various powers of entry conferred by Forests Act 1949 are subject to specified statutory restrictions (including all of Part 4 of Search and Surveillance Act 2012) | All (except that sections 118 and 119 apply to constables only) |
 | Gambling Act 2003 | 335(1) | Gambling inspector may, while in casino, seize any gambling equipment, device, or thing that inspector has reasonable grounds to believe is evidence of offence against sections 351 to 353 of Gambling Act 2003 | All (except subpart 3) |
@@ -3670,7 +3686,7 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 72 | Property seized may be forfeited to Crown on conviction | Subpart 6 |
 | Immigration Act 2009 | 285A | Immigration officer may perform search of person coming into New Zealand from another country | Sections 123 to 126 and subpart 7 |
 |  | 293A | Immigration officer may apply for and execute search warrant | All (except that sections 118 and 119 apply only if warrant is executed by constable) |
-| Immigration Advisers Licensing Act 2007 | 57(1)⁠(e) | Person authorised by Registrar who enters premises for purposes of administering licensing regime may retain certain documents if there are grounds for believing they are evidence of commission of offence | Subparts 1, 5, 6, 7, 9, and 10 |
+| Immigration Advisers Licensing Act 2007 | 57(1)﻿(e) | Person authorised by Registrar who enters premises for purposes of administering licensing regime may retain certain documents if there are grounds for believing they are evidence of commission of offence | Subparts 1, 5, 6, 7, 9, and 10 |
 |  | 61(1) | Person may obtain entry warrant for dwellinghouse if there are reasonable grounds to believe that immigration adviser, former immigration adviser, or applicant for licence as immigration adviser has worked there, and obtaining entry warrant is only practicable way in which to obtain entry | Subparts 1, 3, and 9 |
 |  | 61A | Registrar may apply for a search warrant in relation to an offence under the Act | Section 6 |
 | Insurance (Prudential Supervision) Act 2010 | 132(1) | Investigator may enter and search any place by consent or with warrant for purposes of investigating affairs of licensed insurer or associated person | All (except sections 118 and 119) |
@@ -3694,7 +3710,7 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 | Marine Mammals Protection Act 1978 | 13(1) | Marine mammals officer who has reason to believe or suspect that offence against Marine Mammals Protection Act 1978 has been committed may enter, inspect, and examine any vehicle, vessel, aircraft, or hovercraft | All (except subpart 3) |
 |  | 13(5) | Marine mammal officers may exercise certain powers of seizure | Subparts 1, 5, 6, 7, 9, and 10 |
 |  | 14(1) | Marine mammals officer may obtain and execute search warrant to search for evidence of offence against Marine Mammals Protection Act 1978 or of any preparation to commit such offence | All |
-| Marine Reserves Act 1971 | 18(1)⁠(d) | Ranger may, if he or she reasonably believes that person has committed offence against Marine Reserves Act 1971 or any regulations made under that Act, stop any vessel, vehicle, or aircraft or parcel, package, luggage, or other container in transit and may enter or open and search any such thing | All (except subpart 3) |
+| Marine Reserves Act 1971 | 18(1)﻿(d) | Ranger may, if he or she reasonably believes that person has committed offence against Marine Reserves Act 1971 or any regulations made under that Act, stop any vessel, vehicle, or aircraft or parcel, package, luggage, or other container in transit and may enter or open and search any such thing | All (except subpart 3) |
 |  | 18A | Ranger may, if he or she believes there has been breach of Marine Reserves Act 1971 or any regulations made under that Act, exercise certain seizure powers | All (except subpart 3) |
 | Maritime Security Act 2004 | 51(4) | Authorised person may obtain and execute search warrant to search certain persons and their personal effects or a ship if issuing officer is satisfied that there are reasonable grounds to believe offence against Maritime Security Act 2004 has been, is being, or is likely to be committed | All (except that sections 118 and 119 apply to constables only) |
 | Maritime Transport Act 1994 | 454 | Authorised person may obtain and execute warrant to inspect dwellinghouse or marae for purposes of carrying out his or her functions, duties, or powers under Maritime Transport Act 1994 if issuing officer is satisfied that entry is essential to enable inspection to be carried out | All (except subpart 2 and that sections 118 and 119 apply to constables only) |
@@ -3720,7 +3736,7 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 | Psychoactive Substances Act 2013 | 77 | Constable may enter and search a place (except private premises), vehicle, or other thing without a warrant to search for evidence of offences against Psychoactive Substances Act 2013 | All (except subpart 3) |
 |  | 79 | Enforcement officer or constable may obtain and execute search warrant to search for evidence of offences against Psychoactive Substances Act 2013 | All (except sections 118 and 119 apply to constables only) |
 | Radiation Protection Act 1965 | 24(2) | Authorised officer of Ministry of Health who is refused entry to building believed to have radioactive material or irradiating apparatus or who believes that offence has been committed against Radiation Protection Act 1965 may obtain and execute search warrant | All (except that sections 118 and 119 apply to constables only) |
-| Radiocommunications Act 1989 | 120 | Authorised Ministry of Economic Development employee or constable may obtain warrant to enter and inspect and remove certain documents if issuing officer is satisfied that a person has committed or is committing offence against Radiocommunications Act 1989 or any regulations made under section 134(1)⁠(g) of that Act | All (except sections 118 and 119) |
+| Radiocommunications Act 1989 | 120 | Authorised Ministry of Economic Development employee or constable may obtain warrant to enter and inspect and remove certain documents if issuing officer is satisfied that a person has committed or is committing offence against Radiocommunications Act 1989 or any regulations made under section 134(1)﻿(g) of that Act | All (except sections 118 and 119) |
 | Reserve Bank of New Zealand Act 1989 | 66I | Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that certain information supplied to Reserve Bank is false or misleading, or that a person has failed to comply with certain statutory requirements under Reserve Bank of New Zealand Act 1989 | All (except sections 118 and 119) |
 |  | 106(1) | Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that there has been non-compliance with any of certain provisions in Part 5 of Reserve Bank of New Zealand Act 1989 | All (except sections 118 and 119) |
 |  | 106(2) | Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that it is necessary to do so for purpose of determining whether to execute statutory powers conferred by section 113 or 117 of Reserve Bank of New Zealand Act 1989 | All (except sections 118 and 119) |
@@ -3730,8 +3746,8 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 | Resource Management Act 1991 | 334(1) | Constable or enforcement officer may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that at, in, on, over, or under any place or vehicle there is any thing in respect of which imprisonable offence under Resource Management Act 1991 or any regulations made under that Act has been committed or any thing that is evidence of such offence or that is intended to be used to commit such offence | All (except that sections 118 and 119 apply to constables only) |
 | Road User Charges Act 2012 | 79 | Constable may obtain and execute a search warrant for evidence of offences against Road User Charges Act 2012 | All (except sections 118 and 119 apply to constables only) |
 | Sale and Supply of Alcohol Act 2012 | 270 | Constable may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that certain contraventions of Sale and Supply of Alcohol Act 2012 are occurring | All |
-| Tax Administration Act 1994 | 16 | Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may have full and free access to things described in section 16 of Tax Administration Act 1994 for purpose of inspection as described in that section, including making extracts and copies | Subparts 1, 3, 4, 7, 9, and 10 (except sections 102, 103(3)⁠(b)⁠(ii), 103(4)⁠(g), 103(7), 115(1)⁠(b), 118, 119, and 130(4)) |
-|  | 16C(2) | Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may obtain and execute warrant to remove books and documents from place and retain them for full and complete inspection if issuing officer is satisfied that this may be required to enable applicant to exercise his or her functions under section 16 of Tax Administration Act 1994 | Subparts 1, 3, 4, 7, 9, and 10 (except sections 102, 103(3)⁠(b)⁠(ii), 103(4)⁠(g), 103(7), 115(1)⁠(b), 118, 119, and 130(4)) |
+| Tax Administration Act 1994 | 16 | Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may have full and free access to things described in section 16 of Tax Administration Act 1994 for purpose of inspection as described in that section, including making extracts and copies | Subparts 1, 3, 4, 7, 9, and 10 (except sections 102, 103(3)﻿(b)﻿(ii), 103(4)﻿(g), 103(7), 115(1)﻿(b), 118, 119, and 130(4)) |
+|  | 16C(2) | Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may obtain and execute warrant to remove books and documents from place and retain them for full and complete inspection if issuing officer is satisfied that this may be required to enable applicant to exercise his or her functions under section 16 of Tax Administration Act 1994 | Subparts 1, 3, 4, 7, 9, and 10 (except sections 102, 103(3)﻿(b)﻿(ii), 103(4)﻿(g), 103(7), 115(1)﻿(b), 118, 119, and 130(4)) |
 | Trade in Endangered Species Act 1989 | 37(1) | Officer who has reasonable grounds to believe that breach of Trade in Endangered Species Act 1989 or of any regulations made under that Act has occurred may exercise certain entry, inspection, and related powers | All (except subpart 3) |
 |  | 38(1) and (2) | Officer may obtain and execute search warrant to enter and search dwellinghouse or marae if issuing officer is satisfied that there is in that place specimen of endangered, threatened, or exploited species in respect of which offence against Trade in Endangered Species Act 1989 may have been committed, or that there is evidence of such offence at that place or a thing intended to be used for purpose of committing offence | All |
 | Unsolicited Electronic Messages Act 2007 | 51(4) | Enforcement officer may obtain and execute search warrant to search place or thing if there are reasonable grounds for believing that civil liability event has been, or is being, committed at place or thing or that there is on, over, or under place or thing anything that is evidence of civil liability event | All (except that sections 118 and 119 apply to constables only) |
@@ -3746,6 +3762,6 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 14(1) and (2) | Warranted officer may obtain and execute warrant to enter dwellinghouse for purpose of detecting offence if issuing officer is satisfied that there is probable cause to suspect that offence against Wild Animal Control Act 1977 has been, or is being, committed there | All (except sections 118 and 119) |
 | Wildlife Act 1953 | 39(1) | Ranger may exercise variety of entry, seizure, stopping, and related powers in connection with enforcement of Wildlife Act 1953 | All (except sections 118 and 119) |
 | Wine Act 2003 | 62(1) and (2) | Wine officer may enter any premises (other than dwellinghouse or marae) for purposes of determining whether Wine Act 2003 is being complied with | Subparts 1, 4, 7, 9, and 10 (except sections 118 and 119) |
-|  | 63(1)⁠(a) and (b) | Wine officer may exercise range of examination and inquiry powers at any place he or she may enter under section 62 of Wine Act 2003 | All (except subparts 2, 3, and 8 and sections 118 and 119) |
+|  | 63(1)﻿(a) and (b) | Wine officer may exercise range of examination and inquiry powers at any place he or she may enter under section 62 of Wine Act 2003 | All (except subparts 2, 3, and 8 and sections 118 and 119) |
 |  | 65(1) | Wine officer or constable may obtain and execute search warrant at any place if issuing officer is satisfied that there are reasonable grounds for believing that there is at place a thing in respect of which offence under Wine Act 2003 has been, or is being, committed or thing that is being used, or is intended for use, in commission of such offence, or that is evidence of such offence | All (except sections 118 and 119) |
 |  | 68 | Property seized under search warrant issued under section 65 of Wine Act 2003 may be disposed of | Subparts 1, 5, 6, 7, 9, and 10 |
