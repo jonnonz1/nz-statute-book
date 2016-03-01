@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-03-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -3805,7 +3805,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
 ### 165 Incorporation by reference
 (1) The following, whether in written or electronic form, may be incorporated by reference in a rule made by the Minister, the Governor-General, or the Agency:
   (a) standards, requirements, or recommended practices of another State or an international organisation:
-  (b) standards, requirements, or rules of the New Zealand Standards Association, or a body or organisation outside New Zealand that has functions corresponding to the functions of the New Zealand Standards Council:
+  (b) standards, requirements, or rules of the NZ Standards Organisation, or a body or organisation outside New Zealand that has functions corresponding to the functions of the NZ Standards Organisation:
   (c) material formulated by a specialist public sector organisation or a specialist private sector organisation:
   (d) any other material or document that, in the opinion of the Minister or the Agency, is too large or impractical to be printed as part of the rule.
 (2) Material may be incorporated by reference in a rule—
@@ -3825,7 +3825,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
 (6) All material incorporated by reference under subsection (1) or (2) must be made available at the Agency for inspection by the public free of charge.
 (7) The Legislation Act 2012 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
 (8)
-(9) Subsections (1) to (8) do not affect the application of sections 22 to 25 of the Standards Act 1988.
+(9) Subsections (1) to (8) do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
 ### 166 Agency may grant exemptions
 (1) The Agency may, if the Agency considers it appropriate and upon such conditions as the Agency considers appropriate, exempt a person, vehicle, rail vehicle, or land transport related service from a specified requirement in a rule made under this Part.
