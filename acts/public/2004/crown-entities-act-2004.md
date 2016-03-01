@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2015-10-21_
+_Consolidation as at 2016-03-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1943,7 +1943,6 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | New Zealand Symphony Orchestra |  |  |  |  |  |
 | Public Trust | ✓ | ✓ | ✓ | ✓ |  |
 | Retirement Commissioner |  |  |  |  |  |
-| Standards Council |  |  |  |  |  |
 | Te Reo Whakapuaki Irirangi (Māori Broadcasting Funding Agency) |  |  |  |  |  |
 | Te Taura Whiri I Te Reo Māori (Māori Language Commission) |  |  |  |  |  |
 
