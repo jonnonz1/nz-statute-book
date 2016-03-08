@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2016-03-08_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -92,7 +92,7 @@ The purpose of this Act is—
     (a) a nuclear weapon or other nuclear explosive device; or
     (b) a radioactive material dispersal device; or
     (c) a radiation-emitting device
-  - **radioactive material** has the same meaning as in section 2(1) of the Radiation Protection Act 1965
+  - **radioactive material** has the meaning given in Article 1 of the Nuclear Terrorism Convention
   - **relevant date** has the meaning given to it in section 69(4)
   - **relevant place, facility, or system** has the meaning given to it in section 7(2)
   - **relevant State** has the meaning given to it in section 66(3)
@@ -275,6 +275,7 @@ This Act binds the Crown.
     (i) that causes death, injury, or disease to any person or substantial damage to property; or
     (ii) with intent to cause, or being reckless as to whether it causes death, injury, or disease to any person or substantial damage to property; or
     (iii) that causes, or is likely to cause, substantial damage to the environment; or
+  (aa) without lawful authority, carries, sends, transports, or otherwise moves nuclear material into or out of New Zealand; or
   (b) commits theft, as defined in section 219 of the Crimes Act 1961, of nuclear material knowing that it was nuclear material; or
   (c) fraudulently obtains nuclear material, knowing that it was nuclear material; or
   (d) makes a demand for nuclear material by threat, or by use of force, or by any other form of intimidation with intent to steal it; or
@@ -299,7 +300,7 @@ A person commits an offence and is liable on conviction to a term of imprisonmen
     (i) with intent to cause death or serious injury to any person or substantial damage to property or to the environment; or
     (ii) with intent to compel any person, international organisation, or State to do, or refrain from doing an act; or
   (c) threatens to commit an offence set out in paragraph (b); or
-  (d) unlawfully and intentionally demands radioactive material by threat, in circumstances that indicate the credibility of the threat; or
+  (d) unlawfully and intentionally demands by threat, in circumstances that indicate the credibility of the threat, or by use of force or by any other form of intimidation, any radioactive material, radioactive device, or nuclear facility; or
   (e) by use of force,—
     (i) uses or threatens to use radioactive material or a radioactive device; or
     (ii) uses or damages or threatens to use or damage a nuclear facility.
