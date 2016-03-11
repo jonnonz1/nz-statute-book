@@ -1,5 +1,5 @@
 # International Finance Agreements Act 1961
-_Consolidation as at 2015-12-11_
+_Consolidation as at 2016-03-11_
 
 > Title
 
@@ -103,13 +103,6 @@ Articles 44 to 48 and 50 of the Convention (which relate to privileges and immun
 | --- | --- | --- |
 |  | (ii) | The Fund may levy a charge for stand-by or similar arrangements. The Fund may decide that the charge for an arrangement shall be offset against the service charge levied under (i) above on purchases under the arrangement. |
 
-| (i) | (i) | Each appointed Executive Director shall be entitled to cast the number of votes allotted under Section 5 of this Article to the member appointing him. |
-| --- | --- | --- |
-|  | (ii) | If the votes allotted to a member that appoints an Executive Director under (c) above were cast by an Executive Director together with the votes allotted to other members as a result of the last regular election of Executive Directors, the member may agree with each of the other members that the number of votes allotted to it shall be cast by the appointed Executive Director. A member making such an agreement shall not participate in the election of Executive Directors. |
-|  | (iii) | Each elected Executive Director shall be entitled to cast the number of votes which counted towards his election. |
-|  | (iv) | When the provisions of Section 5(b) of this Article are applicable, the votes which an Executive Director would otherwise be entitled to cast shall be increased or decreased correspondingly. All the votes which an Executive Director is entitled to cast shall be cast as a unit. |
-|  | (v) | When the suspension of the voting rights of a member is terminated under Article XXVI, Section 2(b), and the member is not entitled to appoint an Executive Director, the member may agree with all the members that have elected an Executive Director that the number of votes allotted to that member shall be cast by such Executive Director, provided that, if no regular election of Executive Directors has been conducted during the period of the suspension, the Executive Director in whose election the member had participated prior to the suspension, or his successor elected in accordance with paragraph 3(c)﻿(i) of Schedule L or with (f) above, shall be entitled to cast the number of votes allotted to the member. The member shall be deemed to have participated in the election of the Executive Director entitled to cast the number of votes allotted to the member. |
-
 | (f) | (i) | The Fund may establish an Investment Account for the purposes of this subsection (f). The assets of the Investment Account shall be held separately from the other accounts of the General Department. |
 | --- | --- | --- |
 |  | (ii) | The Fund may decide to transfer to the Investment Account a part of the proceeds of the sale of gold in accordance with Article V, Section 12(g) and, by a seventy percent majority of the total voting power, may decide to transfer to the Investment Account, for immediate investment, currencies held in the General Resources Account. The amount of these transfers shall not exceed the total amount of the general reserve and the special reserve at the time of the decision. |
@@ -148,7 +141,7 @@ Articles 44 to 48 and 50 of the Convention (which relate to privileges and immun
 | Iceland | 1 |  |  |
 | *The quota of Denmark shall be determined by the Fund after the Danish Government has declared its readiness to sign this Agreement but before signature takes place. |  |  |  |
 
-| 1. | (a) | Each member that appoints an Executive Director and each group of members that has the number of votes allotted to them cast by an elected Executive Director shall appoint to the Council one Councillor, who shall be a Governor, Minister in the government of a member, or person of comparable rank, and may appoint not more than seven Associates. The Board of Governors may change, by an eighty-five percent majority of the total voting power, the number of Associates who may be appointed. A Councillor or Associate shall serve until a new appointment is made or until the next regular election of Executive Directors, whichever shall occur sooner. |
+| 1. | (a) | Each member or group of members that has the number of votes allotted to it or them cast by an Executive Director shall appoint to the Council one Councillor, who shall be a Governor, Minister in the government of a member, or person of comparable rank, and may appoint not more than seven Associates. The Board of Governors may change, by an eighty-five percent majority of the total voting power, the number of Associates who may be appointed. A Councillor or Associate shall serve until a new appointment is made or until the next regular election of Executive Directors, whichever shall occur sooner. |
 | --- | --- | --- |
 |  | (b) | Executive Directors, or in their absence their Alternates, and Associates shall be entitled to attend meetings of the Council, unless the Council decides to hold a restricted session. Each member and each group of members that appoints a Councillor shall appoint an Alternate who shall be entitled to attend a meeting of the Council when the Councillor is not present, and shall have full power to act for the Councillor. |
 | 2. | (a) | The Council shall supervise the management and adaptation of the international monetary system, including the continuing operation of the adjustment process and developments in global liquidity, and in this connection shall review developments in the transfer of real resources to developing countries. |
@@ -161,8 +154,8 @@ Articles 44 to 48 and 50 of the Convention (which relate to privileges and immun
 |  | (b) | For decisions by the Council on matters pertaining exclusively to the Special Drawing Rights Department only Councillors appointed by a member that is a participant or a group of members at least one member of which is a participant shall be entitled to vote. Each of these Councillors shall be entitled to cast the number of votes allotted to the member which is a participant that appointed him or to the members that are participants in the group of members that appointed him, and may cast the votes allotted to a participant with which arrangements have been made pursuant to the last sentence of 3(b) above. |
 |  | (c) | The Council may by regulation establish a procedure whereby the Executive Board may obtain a vote of the Councillors on a specific question without a meeting of the Council when in the judgment of the Executive Board an action must be taken by the Council which should not be postponed until the next meeting of the Council and which does not warrant the calling of a special meeting. |
 |  | (d) | Article IX, Section 8 shall apply to Councillors, their Alternates, and Associates, and to any other person entitled to attend a meeting of the Council. |
-|  | (e) | For the purposes of (b) and 3(b) above, an agreement under Article XII, Section 3(i)﻿(ii) by a member, or by a member that is a participant, shall entitle a Councillor to vote and cast the number of votes allotted to the member. |
-|  | (f) | When an Executive Director is entitled to cast the number of votes allotted to a member pursuant to Article XII, Section 3(i)﻿(v), the Councillor appointed by the group whose members elected such Executive Director shall be entitled to vote and cast the number of votes allotted to such member. The member shall be deemed to have participated in the appointment of the Councillor entitled to vote and cast the number of votes allotted to the member. |
+|  | (e) | When an Executive Director is entitled to cast the number of votes allotted to a member pursuant to Article XII, Section 3(i)﻿(iii), the Councillor appointed by the group whose members elected such Executive Director shall be entitled to vote and cast the number of votes allotted to such member. The member shall be deemed to have participated in the appointment of the Councillor entitled to vote and cast the number of votes allotted to the member. |
+|  | (f) | [Repealed] |
 | 6. |  | The first sentence of Article XII, Section 2(a) shall be deemed to include a reference to the Council. |
 
 | During the first basic period the rules for reconstitution shall be as follows: |  |  |  |
@@ -199,11 +192,11 @@ Articles 44 to 48 and 50 of the Convention (which relate to privileges and immun
 | 1. | The member shall not: |  |  |
 | --- | --- | --- | --- |
 |  | (a) | participate in the adoption of a proposed amendment of this Agreement, or be counted in the total number of members for that purpose, except in the case of an amendment requiring acceptance by all members under Article XXVIII(b) or pertaining exclusively to the Special Drawing Rights Department; |  |
-|  | (b) | appoint a Governor or Alternate Governor, appoint or participate in the appointment of a Councillor or Alternate Councillor, or appoint, elect, or participate in the election of an Executive Director. |  |
+|  | (b) | appoint a Governor or Alternate Governor, appoint or participate in the appointment of a Councillor or Alternate Councillor, or elect, or participate in the election of an Executive Director. |  |
 | 2. | The number of votes allotted to the member shall not be cast in any organ of the Fund. They shall not be included in the calculation of the total voting power, except for purposes of: (a) the acceptance of a proposed amendment pertaining exclusively to the Special Drawing Rights Department and (b) the calculation of basic votes pursuant to Article XII, Section 5(a)﻿(i). |  |  |
 | 3. | (a) | The Governor and Alternate Governor appointed by the member shall cease to hold office. |  |
 |  | (b) | The Councillor and Alternate Councillor appointed by the member, or in whose appointment the member has participated, shall cease to hold office, provided that, if such Councillor was entitled to cast the number of votes allotted to other members whose voting rights have not been suspended, another Councillor and Alternate Councillor shall be appointed by such other members under Schedule D, and, pending such appointment, the Councillor and Alternate Councillor shall continue to hold office, but for a maximum of 30 days from the date of the suspension. |  |
-|  | (c) | The Executive Director appointed or elected by the member, or in whose election the member has participated, shall cease to hold office, unless such Executive Director was entitled to cast the number of votes allotted to other members whose voting rights have not been suspended. In the latter case: |  |
+|  | (c) | The Executive Director elected by the member, or in whose election the member has participated, shall cease to hold office, unless such Executive Director was entitled to cast the number of votes allotted to other members whose voting rights have not been suspended. In the latter case: |  |
 |  |  | (i) | if more than 90 days remain before the next regular election of Executive Directors, another Executive Director shall be elected for the remainder of the term by such other members by a majority of the votes cast; pending such election, the Executive Director shall continue to hold office, but for a maximum of 30 days from the date of suspension; |
 |  |  | (ii) | if not more than 90 days remain before the next regular election of Executive Directors, the Executive Director shall continue to hold office for the remainder of the term. |
 |  |  | The member shall be entitled to send a representative to attend any meeting of the Board of Governors, the Council, or the Executive Board, but not any meeting of their committees, when a request made by, or a matter particularly affecting, the member is under consideration. |  |
@@ -631,7 +624,7 @@ Articles 44 to 48 and 50 of the Convention (which relate to privileges and immun
 | Zimbabwe | 236 | 2.36 |
 | Total | 40,527 | 405.27 |
 | Total: Categories One and Two | 100,000 | 1,000.00 |
-| * Countries listed under Category Two are developing member countries for the purposes of this Convention. |  |  |
+| * Countries listed under Category Two are developing member countries for the purpose of this Convention. |  |  |
 
 ## Schedule 8 — Articles of Agreement of the Asian Infrastructure Investment Bank
 
