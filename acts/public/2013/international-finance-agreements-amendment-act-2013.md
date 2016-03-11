@@ -1,5 +1,5 @@
 # International Finance Agreements Amendment Act 2013
-_Consolidation as at 2013-02-26_
+_Consolidation as at 2016-03-11_
 
 ### 1 Title
 This Act is the International Finance Agreements Amendment Act 2013.
