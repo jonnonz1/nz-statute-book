@@ -1,5 +1,5 @@
 # Weathertight Homes Resolution Services Act 2006
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2016-03-14_
 
 ### 1 Title
 This Act is the Weathertight Homes Resolution Services Act 2006.
@@ -147,7 +147,7 @@ In this Act, unless the context otherwise requires,—
   - **owner** , in relation to a dwellinghouse, includes a shareholder of a company, the principal purpose of which is to own the dwellinghouse or the dwellinghouses within the company-share complex concerned
   - **parties** , in relation to a claim, means the claimant and any 1 or more respondents in relation to that claim
   - **prescribed** means prescribed by regulations under this Act
-  - **relevant mental distress** , in relation to a claim, means mental distress suffered as a consequence of all or any of the damage, deficiencies, loss of value, and penetration of water specified in section 50(1)(a) to (e)
+  - **relevant mental distress** , in relation to a claim, means mental distress suffered as a consequence of all or any of the damage, deficiencies, loss of value, and penetration of water specified in section 50(1)﻿(a) to (e)
   - **representative** ,—
     (a) for the owners of dwellinghouses in a company-share complex, means the company; and
     (b) for the owners of dwellinghouses in a cross-lease complex, means any person (whether one of those owners or not) authorised (whether to replace another person earlier so authorised or not) under section 19 or 20, to take action under this Act in respect of dwellinghouses, common areas, or both, in that complex; and
@@ -276,7 +276,7 @@ The representative of some or all of the owners of dwellinghouses in a multi-uni
   (c) each owner has given the representative a written notice—
     (i) authorising the representative to bring and resolve a claim (unless the person concerned is taken to be the representative under subsection (2), in which case that kind of authorisation is not required); and
     (ii) authorising invasive testing by an assessor relating to the owner's dwellinghouse.
-(2) A person is taken to be the representative of the owner of 1 or more dwellinghouses in a stand-alone complex for the purpose of a claim under this section (without any written authorisation under subsection (1)(c)(i) or section 27(1)(b)(i) or (2)(b)(i)) if—
+(2) A person is taken to be the representative of the owner of 1 or more dwellinghouses in a stand-alone complex for the purpose of a claim under this section (without any written authorisation under subsection (1)﻿(c)﻿(i) or section 27(1)﻿(b)﻿(i) or (2)﻿(b)﻿(i)) if—
   (a) each dwellinghouse in respect of which the claim is made is owned by that owner; and
   (b) the person is that owner or, if that owner is a body corporate, a member or officer of that body corporate.
 (3) This Act, with all necessary modifications, applies to a claim under subsection (1) in respect of 2 or more dwellinghouses as if those dwellinghouses were a single dwellinghouse owned by the owner or owners concerned.
@@ -336,7 +336,7 @@ The provisions of this Act (other than those of sections 22(6) and 23(7)) do not
 ### 26 Adding further owners to representative claims in respect of multi-unit complexes or stand-alone complexes
 (1) Before adjudication of a claim under section 19 or 21 has been initiated, the representative can, in the way stated in section 27(1), add the owner of a dwellinghouse in the multi-unit complex or stand-alone complex concerned to the claim.
 (2) After adjudication of a claim under section 19 or 21 has been initiated, a further owner of a dwellinghouse in the multi-unit complex or stand-alone complex concerned can, in the way stated in section 27(2), be added to the claim by the representative, but only with the tribunal's consent.
-(3) The owner of a dwellinghouse in the stand-alone complex concerned must not be added under subsection (1) or (2) to a claim under section 21 unless section 21(1)(b)(i) or (ii) applies to the dwellinghouse.
+(3) The owner of a dwellinghouse in the stand-alone complex concerned must not be added under subsection (1) or (2) to a claim under section 21 unless section 21(1)﻿(b)﻿(i) or (ii) applies to the dwellinghouse.
 (4) If an assessor's report relating to the multi-unit complex or stand-alone complex concerned has already been completed when the owner is added then, having regard to the claim concerned and any evidence already obtained, the chief executive may do, or the tribunal may request the chief executive to do, one of the following:
   (a) have a further assessment done, and provide an addendum to the original assessor's report; or
   (b) proceed without having a further assessment done.
@@ -356,7 +356,7 @@ The provisions of this Act (other than those of sections 22(6) and 23(7)) do not
 
 ### 28 Withdrawal of authority
 (1) The owner of a dwellinghouse in a multi-unit complex may at any time, by written notice to the representative concerned, withdraw the owner's authority under subparagraphs (i) and (ii) of section 19(a).
-(2) The owner of a dwellinghouse in a stand-alone complex may at any time, by written notice to the representative concerned, withdraw the owner's authority under subparagraphs (i) and (ii) of section 21(1)(c) or, if applicable, the owner's authority as representative under section 21(1)(c)(ii) and (2).
+(2) The owner of a dwellinghouse in a stand-alone complex may at any time, by written notice to the representative concerned, withdraw the owner's authority under subparagraphs (i) and (ii) of section 21(1)﻿(c) or, if applicable, the owner's authority as representative under section 21(1)﻿(c)﻿(ii) and (2).
 (3) The withdrawal of the authority does not affect the ability of the representative to proceed with the claim concerned.
 (4) The effect of the withdrawal of the authority is that the claim—
   (a) ceases to relate to the dwellinghouse concerned; but
@@ -372,7 +372,7 @@ The provisions of this Act (other than those of sections 22(6) and 23(7)) do not
 (2) The effect of a change in the ownership of a dwellinghouse to which a claim under section 19 or 21 relates is that the claim ceases to relate to that dwellinghouse; but—
   (a) the claim may proceed in respect of the other dwellinghouses to which it relates; and
   (b) the new owner may be added to the claim under section 26.
-(3) Subsection (2)(b) is subject to subsections (1) to (3) of section 26.
+(3) Subsection (2)﻿(b) is subject to subsections (1) to (3) of section 26.
 (4) For the purposes of this section, a change in the ownership of a dwellinghouse arising out of an agreement for its sale and purchase occurs on the day on which the sale and purchase is settled.
 (5) Change in the ownership of a dwellinghouse, in this section,—
   (a) does not include a change of that kind occurring by operation of law; and
@@ -399,20 +399,20 @@ For the purposes of a claim under section 19 or 20 or 21, this Act applies, unle
 (1) An owner of a dwellinghouse who wishes to bring a claim in respect of it may apply to the chief executive—
   (a) to have an assessor's report prepared in respect of it; or
   (b) to have an assessor's report that was prepared in respect of it on the application of a former owner approved as suitable for the owner's claim.
-(2) On receiving an application under subsection (1)(a) or (b) that complies with all applicable requirements in sections 34 to 36, the chief executive must make an initial assessment as to whether the information in the application indicates that the claim meets or is capable of meeting the eligibility criteria.
+(2) On receiving an application under subsection (1)﻿(a) or (b) that complies with all applicable requirements in sections 34 to 36, the chief executive must make an initial assessment as to whether the information in the application indicates that the claim meets or is capable of meeting the eligibility criteria.
 (3) If the chief executive considers that the information does indicate that the claim meets or is capable of meeting those criteria, the chief executive must arrange for an assessor's report to be prepared on the claim.
 (4) If the chief executive does not consider that the information indicates that the claim meets or is capable of meeting those criteria, the chief executive must—
   (a) decline to arrange for an assessor's report to be prepared; and
   (b) advise the claimant of that decision and the reasons for it.
 
 ### 33 Restriction if assessor's report prepared for claim brought in respect of dwellinghouse by former owner
-(1) An owner of a dwellinghouse in respect of which an assessor's report has already been prepared in relation to a claim brought in respect of the dwellinghouse by a former owner must not apply to the chief executive under section 32(1)(a) unless—
-  (a) the owner or some former owner has applied to the chief executive under section 32(1)(b); and
+(1) An owner of a dwellinghouse in respect of which an assessor's report has already been prepared in relation to a claim brought in respect of the dwellinghouse by a former owner must not apply to the chief executive under section 32(1)﻿(a) unless—
+  (a) the owner or some former owner has applied to the chief executive under section 32(1)﻿(b); and
   (b) the chief executive has refused to approve the assessor's report already prepared as suitable for the owner's or former owner's claim.
-(2) This section overrides section 32(1)(a).
+(2) This section overrides section 32(1)﻿(a).
 
-### 34 Requirements for application under section 32(1)(a)
-(1) An application under section 32(1)(a) to have an assessor's report prepared must be accompanied by the prescribed fee (if any); and
+### 34 Requirements for application under section 32(1)﻿(a)
+(1) An application under section 32(1)﻿(a) to have an assessor's report prepared must be accompanied by the prescribed fee (if any); and
   (a) must be in the approved form (if any); and
   (b) must be accompanied by all permissions necessary to enable an assessor to inspect the inside and outside of the building concerned, and to conduct any testing (invasive or not) he or she considers necessary, at a time reasonably convenient to him or her; and
   (c) in the case of a claim that satisfies the criteria in section 15, must be accompanied by the statutory declaration referred to in section 36(a); and
@@ -423,8 +423,8 @@ For the purposes of a claim under section 19 or 20 or 21, this Act applies, unle
   (b) eligibility assessor's reports.
 (3) Paragraphs (c) to (e) of subsection (1) do not apply to a full assessor's report in respect of a claim if an eligibility assessor's report in respect of the claim has already been prepared.
 
-### 35 Requirements for application under section 32(1)(b)
-An application under section 32(1)(b) to have an assessor's report approved as suitable—
+### 35 Requirements for application under section 32(1)﻿(b)
+An application under section 32(1)﻿(b) to have an assessor's report approved as suitable—
   (a) must be in the approved form (if any); and
   (b) must be accompanied by the prescribed fee (if any); and
   (c) in the case of a claim that satisfies the criteria in section 15, must be accompanied by the statutory declaration referred to in section 36(a); and
@@ -432,7 +432,7 @@ An application under section 32(1)(b) to have an assessor's report approved as s
   (e) in the case of a claim that satisfies the criteria in section 18, must be accompanied by the statutory declaration referred to in section 36(c).
 
 ### 36 Statutory declarations required
-Sections 34(1)(c) to (e) and 35(c) to (e) require the following statutory declarations:
+Sections 34(1)﻿(c) to (e) and 35(c) to (e) require the following statutory declarations:
   (a) in the case of a claim that satisfies the criteria in section 15, a statutory declaration made by the owner (or, if the owner is a body corporate, an officer or member of the owner) of the dwellinghouse concerned that—
     (i) to the best of his or her knowledge, the penetration of water concerned has not caused damage to any common area, or any other dwellinghouse, in the multi-unit complex concerned; and
     (ii) he or she does not suspect, and knows of no reason for suspecting, that the penetration of water concerned has caused damage to any common area, or any other dwellinghouse, in that complex; and
@@ -522,7 +522,7 @@ Within 20 working days after receiving the copy of an assessor's report stating 
 (1) If an assessor has been unable to inspect the inside and outside of the dwellinghouse or building concerned, and to conduct any testing (invasive or not) he or she considers necessary, at a time reasonably convenient to him or her (whether because the permissions provided are inadequate or have been withdrawn, or for any other reason), the chief executive may authorise him or her—
   (a) to abandon the assessment process until the necessary inspection and testing can be done; or
   (b) in the case of a claim under section 19 or 21, if the chief executive thinks it appropriate to do so, to abandon the assessment process in relation to the dwellinghouse or building, and complete it in relation to the other dwellinghouses or buildings (or both) to which the claim concerned relates.
-(2) An authorisation under subsection (1)(b) has the effect that the claim concerned—
+(2) An authorisation under subsection (1)﻿(b) has the effect that the claim concerned—
   (a) ceases to relate to the dwellinghouse or building in relation to which the chief executive has authorised the assessor concerned to abandon the assessment process; but
   (b) may proceed in respect of the other dwellinghouses or buildings (or both) to which it relates.
 
@@ -554,7 +554,7 @@ Within 20 working days after receiving the copy of an assessor's report stating 
   (e) deficiencies that are likely in future to enable the penetration of water into the building concerned.
 (2) Remedy, in subsection (1), includes (without limitation) general damages (for example, for relevant mental distress).
 (3) Subsections (1) and (2)—
-  (a) are not limited or affected by subsection (2)(d), (3)(d), or (4)(d) of section 42; but
+  (a) are not limited or affected by subsection (2)﻿(d), (3)﻿(d), or (4)﻿(d) of section 42; but
   (b) are subject to section 91 (which relates to costs of adjudication proceedings).
 
 **Lower-value claims**
@@ -564,7 +564,7 @@ Within 20 working days after receiving the copy of an assessor's report stating 
   (a) the claimant has applied to the chief executive in the manner required by that subsection for lower-value claims dispute resolution assistance; and
   (b) no application has yet been made to the tribunal to have the claim adjudicated.
 (2) Under section 60(7), if a claim is a lower-value claim, a claimant who would otherwise have the right under section 60(1) to apply to the tribunal to have the claim adjudicated must not apply to have the claim adjudicated unless the claimant has—
-  (a) applied under section 80(2)(a) for lower-value claims dispute resolution assistance; and
+  (a) applied under section 80(2)﻿(a) for lower-value claims dispute resolution assistance; and
   (b) received from the chief executive a certificate that he or she is satisfied that the claimant has made reasonable attempts to resolve the claim under the lower-value claims dispute resolution assistance process.
 (3) Under section 83, if, in any particular case, no application has yet been made to the tribunal to have a lower-value claim adjudicated, the chief executive may, if satisfied that the parties are near resolution of, and likely to resolve, the dispute, if allowed more time, allow for the claim a maximum period of mediation longer than the period stated in section 82.
 (4) Section 58 states aims that the tribunal must try to achieve in relation to the adjudication of a lower-value claim.
@@ -617,9 +617,9 @@ Within 20 working days after receiving the copy of an assessor's report stating 
   (a) must—
     (i) notify the claimant that it intends to terminate the claim; and
     (ii) notify the claimant of the grounds (as stated in paragraph (b) of that subsection) on which it intends to terminate the claim; and
-    (iii) notify the claimant that he or she has a reasonable time within which to comment on whether the tribunal is justified in being satisfied of the matter stated in paragraph (b)(ii) of that subsection; and
+    (iii) notify the claimant that he or she has a reasonable time within which to comment on whether the tribunal is justified in being satisfied of the matter stated in paragraph (b)﻿(ii) of that subsection; and
     (iv) consider any comments made by the claimant within a reasonable time of being notified under subparagraph (iii); and
-  (b) if still satisfied of the matter stated in paragraph (b)(ii) of that subsection, must terminate the claim.
+  (b) if still satisfied of the matter stated in paragraph (b)﻿(ii) of that subsection, must terminate the claim.
 (5) The termination of a claim under subsection (4) does not prevent the bringing of any claim under section 19 or the adding of the owner of a dwellinghouse to some other claim under section 26.
 
 ### 54 Application of section 37 if claim terminated under section 52(4) or 53(4)
@@ -696,14 +696,14 @@ Within 20 working days after receiving the copy of an assessor's report stating 
     (ii) proceedings under section 177 of the Building Act 2004.
 (6) Subsection (5) does not limit the power of any party to apply for proceedings to be transferred to adjudication under section 120 or agree that they be transferred under section 121.
 (7) If a claim is a lower-value claim, a claimant who would otherwise have the right to apply to the tribunal to have it adjudicated must not apply to have it adjudicated unless the claimant has—
-  (a) applied under section 80(2)(a) for lower-value claims dispute resolution assistance; and
+  (a) applied under section 80(2)﻿(a) for lower-value claims dispute resolution assistance; and
   (b) received from the chief executive a certificate that he or she is satisfied that the claimant has made reasonable attempts to resolve the claim under the lower-value claims dispute resolution assistance process.
 (8) A claimant who would otherwise have the right to apply to the tribunal to have a claim adjudicated must not apply to have it adjudicated unless—
   (a) the claimant has a full assessor's report in respect of the claim; or
   (b) the work needed to make the dwellinghouse concerned weathertight and repair the damage in respect of which the claim is brought has been done, and the claimant holds receipts for all payments required to be made for that work.
 
 ### 61 Effect on other dispute resolution procedures
-(1) If a claimant who has applied to the tribunal to have a claim adjudicated under this Act initiates proceedings of a kind referred to in section 60(5)(a) or (b) during the course of the adjudication,—
+(1) If a claimant who has applied to the tribunal to have a claim adjudicated under this Act initiates proceedings of a kind referred to in section 60(5)﻿(a) or (b) during the course of the adjudication,—
   (a) the claimant must notify the tribunal; and
   (b) that notification is to be treated as a notice of withdrawal under section 67, and that section applies accordingly.
 (2) Nothing in this Act prevents the other parties to an adjudication from submitting any matter in relation to a claim to another dispute resolution procedure (for example, to the courts, to arbitration, or to mediation).
@@ -724,13 +724,13 @@ Within 20 working days after receiving the copy of an assessor's report stating 
   (d) the names and addresses of the parties to the adjudication; and
   (e) if available, the addresses that the parties have specified for the service of notices.
 (4) Every copy of the application that is served on another party to the adjudication must be accompanied by a copy of the assessor's report that relates to the claim, and may be accompanied by any other documents.
-(5) Until the commencement of the first regulations prescribing a fee for the purposes of subsection (2)(b), this Act has effect as if a fee of $400 is prescribed.
+(5) Until the commencement of the first regulations prescribing a fee for the purposes of subsection (2)﻿(b), this Act has effect as if a fee of $400 is prescribed.
 
 ### 63 Status and effect of adjudication proceedings under other enactments
 Adjudication proceedings—
   (a) must be treated as proceedings for the purposes of section 76 of the Insolvency Act 2006; and
   (b) must be treated as actions or proceedings for the purposes of section 42 of the Corporations (Investigation and Management) Act 1989; and
-  (c) must be treated as legal proceedings for the purposes of sections 248 and 321(1)(b) of the Companies Act 1993.
+  (c) must be treated as legal proceedings for the purposes of sections 248 and 321(1)﻿(b) of the Companies Act 1993.
 
 **Other provisions relating to adjudication**
 
@@ -804,7 +804,7 @@ Every counsel appearing before the tribunal has the same privileges and immuniti
   (k) after considering advice from the mediator, and being satisfied that the parties are near resolution of and likely to resolve their dispute if allowed more time, allow, for a claim whose referral to mediation it has consented to, a maximum period of mediation longer than the period stated in section 82:
   (l) issue any other reasonable directions relating to the conduct of the proceedings.
 (2) The parties to adjudication proceedings must comply with any request or direction of the tribunal made or given under this section.
-(3) If the owner or occupier referred to in subsection (1)(h) is a party to the proceedings concerned, his or her consent must not be unreasonably withheld.
+(3) If the owner or occupier referred to in subsection (1)﻿(h) is a party to the proceedings concerned, his or her consent must not be unreasonably withheld.
 (4) The tribunal also has the powers specified in Part 2 of Schedule 3.
 
 ### 74 Parties' failures to act do not affect tribunal's powers to determine claim
@@ -866,9 +866,9 @@ Nothing in this Act prevents any person seeking and using mediation services oth
   (b) may receive any information, statement, admission, document, or other material, in any way that he or she thinks fit, whether or not it would be admissible in judicial proceedings.
 (3) A mediator does not have power to determine any matter, even if the mediator is required to do so by the parties.
 (4) A mediation process—
-  (a) may not continue beyond any maximum period set for it under section 73(1)(j); and
+  (a) may not continue beyond any maximum period set for it under section 73(1)﻿(j); and
   (b) may not in any case continue beyond the applicable maximum period stated in section 82.
-(5) Subsection (4) is subject to sections 73(1)(k) and 83.
+(5) Subsection (4) is subject to sections 73(1)﻿(k) and 83.
 
 ### 82 Time-frames for mediation
 The following maximum periods apply to mediation:
@@ -996,7 +996,7 @@ If, in any particular case, no application has yet been made to the tribunal to 
 (2) A determination under subsection (1)—
   (a) has effect as if it were a determination made by the tribunal for the purposes of this Act; and
   (b) is a final determination of the claim.
-(3) Subsection (2)(b) does not prevent any proceedings between the claimant and respondent to the adjudication to which the appeal relates from being heard and determined at the same time as the appeal.
+(3) Subsection (2)﻿(b) does not prevent any proceedings between the claimant and respondent to the adjudication to which the appeal relates from being heard and determined at the same time as the appeal.
 
 ### 96 Effect of appeal on tribunal's determination
 An appeal under section 93 does not operate as a stay of the tribunal's determination unless a District Court Judge or, as the case may be, a High Court Judge on application so determines.
@@ -1053,7 +1053,7 @@ The duties, functions, and powers of the tribunal are performed and exercised by
 (1) A member who, in performing and exercising the duties, functions, and powers of the tribunal, has a conflict of interest, must—
   (a) disclose it to the parties to the adjudication proceedings concerned; and
   (b) withdraw from those proceedings unless those parties agree otherwise.
-(2) A party who under subsection (1)(b) agrees to a member's continuing to act forfeits any right to object to the member's acting on the basis of any conflict of interest disclosed by the member under subsection (1)(a) before the party agreed.
+(2) A party who under subsection (1)﻿(b) agrees to a member's continuing to act forfeits any right to object to the member's acting on the basis of any conflict of interest disclosed by the member under subsection (1)﻿(a) before the party agreed.
 
 ### 105 Members not compellable witnesses
 A member may not be required to give evidence in any civil proceedings on anything connected with an adjudication that has come to his or her knowledge in the course of adjudication proceedings.
@@ -1070,13 +1070,13 @@ A member may not be required to give evidence in any civil proceedings on anythi
 
 ### 107 Chair may delegate duties
 (1) The chair may delegate to another member all or any of the chair's duties under the following sections:
-  (a) section 27(2)(a) (approval of form of application for tribunal's consent under section 26(2)):
+  (a) section 27(2)﻿(a) (approval of form of application for tribunal's consent under section 26(2)):
   (b) section 49 (reconsideration of chief executive's decision on whether claim meets eligibility criteria):
   (c) section 62(1) and (3) (approval of form of application for adjudication):
   (d) section 64 (assignment of member to act as tribunal):
   (e) section 101(3) (presiding over tribunal):
   (f) section 106 (manner of provision of adjudication services):
-  (g) section 113(1)(a) (written approval of chair to referral of question of law to High Court):
+  (g) section 113(1)﻿(a) (written approval of chair to referral of question of law to High Court):
   (h) section 114 (practice directions):
   (i) section 117(d) (approval of manner of sending notice or other document as sufficient service or sufficient giving of it for purposes of Act or regulations):
   (j) section 124(2) (notification to territorial authorities for land information memorandum purposes):
@@ -1115,12 +1115,12 @@ If 2 or more adjudication proceedings are pending, the tribunal may, with the wr
   (c) for any other reason it is desirable that the person should be joined as a respondent.
 (2) The tribunal may make an order under subsection (1) on the application of any party or on its own initiative.
 (3) If the tribunal makes an order under subsection (1),—
-  (a) it must also order the claimant to serve a notice that complies with section 62(2)(a), (3), and (4) on—
+  (a) it must also order the claimant to serve a notice that complies with section 62(2)﻿(a), (3), and (4) on—
     (i) the person joined as a respondent; and
     (ii) the other parties to the adjudication; and
     (iii) the department; and
   (b) section 66 then applies to the person joined as a respondent.
-(4) Subsection (3)(a) does not require a claimant to give a copy of the assessor's report to any person other than the newly joined respondent, or to pay a further fee under section 62(2)(b).
+(4) Subsection (3)﻿(a) does not require a claimant to give a copy of the assessor's report to any person other than the newly joined respondent, or to pay a further fee under section 62(2)﻿(b).
 
 ### 112 Removal of party from proceedings
 (1) The tribunal may, on the application of any party or on its own initiative, order that a person be struck out as a party to adjudication proceedings if the tribunal considers it fair and appropriate in all the circumstances to do so.
@@ -1276,7 +1276,7 @@ The purpose of this Part is to facilitate the repair of leaky buildings by provi
     (b) a credit support facility that is in the form of a guarantee or indemnity given to a lender under section 125I(2) in respect of—
       (i) any loan advanced by the lender to a claimant for the sole purpose of meeting the balance of the agreed repair costs of a dwellinghouse that are not otherwise covered by the financial contributions referred to in paragraph (a):
       (ii) any loan advanced by the lender to a claimant as a result of the restructuring or refinancing of the loan described in subparagraph (i)
-  - **lender** means a financial institution of a type specified under section 125J(1)(a) that satisfies the criteria specified for it under section 125J(1)(b)
+  - **lender** means a financial institution of a type specified under section 125J(1)﻿(a) that satisfies the criteria specified for it under section 125J(1)﻿(b)
   - **qualifying claimant** means a claimant who—
     (a) has an eligible claim in respect of a dwellinghouse; and
     (b) meets the contribution criteria that are specified by the chief executive by notice in the Gazette in respect of the package of financial assistance measures
@@ -1335,7 +1335,7 @@ An application under section 125C must be made no later than the expiry of the p
   (a) the claimant receives the first payment from the additional contributing party under the contribution agreement, if the contribution from that additional contributing party under the agreement is in the form of a financial contribution:
   (b) the provision of a service by the additional contributing party under the contribution agreement is completed, if the contribution from that additional contributing party under the agreement is in the form of the provision of a service to the claimant:
   (c) the supply of goods by the additional contributing party under the contribution agreement is completed, if the contribution from that additional contributing party under the agreement is in the form of the supply of goods to the claimant.
-(5) If the contribution from an additional contributing party under a contribution agreement is a combination of the forms described in subsection (4), a restriction under subsection (1) or (2) takes effect in respect of the additional contributing party at the earliest time that any of subsection (4)(a) to (c) applies.
+(5) If the contribution from an additional contributing party under a contribution agreement is a combination of the forms described in subsection (4), a restriction under subsection (1) or (2) takes effect in respect of the additional contributing party at the earliest time that any of subsection (4)﻿(a) to (c) applies.
 
 **Effect of contribution agreement on civil proceedings relating to dwellinghouse**
 
@@ -1396,7 +1396,7 @@ The Weathertight Homes Resolution Services Act 2002 (2002 No 47) (the former Act
 
 ### 127 Consequential amendments
 (1) The Building Act 2004 is amended—
-  (a) by omitting from section 398(2)(b) 2002 and substituting 2006; and
+  (a) by omitting from section 398(2)﻿(b) 2002 and substituting 2006; and
   (b) by repealing so much of Part 1 of Schedule 4 (enactments amended) as relates to the former Act.
 (2) Section 27(2) of the Construction Contracts Act 2002 is amended—
   (a) by omitting an adjudicator and substituting a member; and
@@ -1404,15 +1404,15 @@ The Weathertight Homes Resolution Services Act 2002 (2002 No 47) (the former Act
   (c) by omitting or adjudicator in each place where it appears and substituting in each case or member.
 (3) The item relating to the former Act in Part 1 of Schedule 2 of the Insolvency Act 2006 is amended—
   (a) by omitting 2002 (2002 No 47) and substituting 2006 (2006 No 84); and
-  (b) by omitting 55(2)(a) and substituting 63(a); and
+  (b) by omitting 55(2)﻿(a) and substituting 63(a); and
   (c) by omitting 24 and substituting 32; and
   (d) by omitting sections 31 to 35 and substituting section 76; and
   (e) by omitting 4(2) of the Schedule and substituting 5(2) of Schedule 3.
 (4) The Legal Services Act 2000 is amended—
   (a) by omitting from the definition of civil proceedings in section 4(1) sections 22 to 55 of the Weathertight Homes Resolution Services Act 2002 and substituting subparts 5, 7, 8, and 9 of Part 1 of the Weathertight Homes Resolution Services Act 2006; and
-  (b) by omitting from section 7(1)(p) an adjudicator and substituting the tribunal; and
-  (c) by omitting from section 7(1)(p) 2002 and substituting 2006.
-(5) Section 44A(2) of the Local Government Official Information and Meetings Act 1987 is amended by inserting the following paragraph after paragraph (e):.
+  (b) by omitting from section 7(1)﻿(p) an adjudicator and substituting the tribunal; and
+  (c) by omitting from section 7(1)﻿(p) 2002 and substituting 2006.
+(5) Section 44A(2) of the Local Government Official Information and Meetings Act 1987 is amended by inserting the following paragraph after paragraph (e):
   (ea) information notified to the territorial authority under section 124 of the Weathertight Homes Resolution Services Act 2006:
 (6) Schedule 4 (officers whose remuneration is to be determined by Authority) of the Remuneration Authority Act 1977 is amended by inserting the following item after the item relating to the members of the Waitangi Tribunal:The chair of the tribunal under the Weathertight Homes Resolution Services Act 2006.
 
@@ -1580,8 +1580,8 @@ This subpart applies to a claim (the claim) if, before the transition date,—
   (b) under the former Act as modified by section 148A.
 (2) Subsection (1) does not prevent the claimant from withdrawing the claim before it has been disposed of under the former Act.
 (3) Withdrawal of the kind contemplated by subsection (2) may be done at the claimant's discretion, and without complying with section 30 of the former Act, but may be done for the purpose only of enabling the claimant, as soon as is practicable,—
-  (a) to make an application to the tribunal, under section 62, to have the withdrawn claim adjudicated, in accordance with section 150 or 153(1)(a); or
-  (b) to be part of, or to join, a new claim, brought, under section 19, 20, or 21, in respect of the same dwellinghouse, common areas, or both, in accordance with section 153(1)(b).
+  (a) to make an application to the tribunal, under section 62, to have the withdrawn claim adjudicated, in accordance with section 150 or 153(1)﻿(a); or
+  (b) to be part of, or to join, a new claim, brought, under section 19, 20, or 21, in respect of the same dwellinghouse, common areas, or both, in accordance with section 153(1)﻿(b).
 (4) Subsection (3) does not limit the application to the claim of section 30 of the former Act.
 
 ### 148A How former Act modified for section 148(1)
@@ -1592,10 +1592,10 @@ The former Act must for the purposes of section 148(1) be treated as if it had b
   (a) the person who, under subsection (6), is to be taken for the purposes of this section to be, and to have the duties, functions, and powers of, the chief adjudicator; or
   (b) one of the persons who, at the close of the day before the transition date, held under the former Act the office of adjudicator but not also the office of chief adjudicator; or
   (c) one of the persons appointed as adjudicators in accordance with subsection (3) or (4).
-(2) The adjudicators referred to in subsection (1)(b) remain in office for the period reasonably necessary to enable them to exercise and perform their duties, functions, and powers in respect of claims to which this section applies.
-(3) However, if any of the adjudicators referred to in subsection (1)(b) resigns or is removed from office before the end of the period referred to in subsection (2), another adjudicator may be appointed, under section 24(2) and (3) of the former Act (as if those subsections had not been repealed), for the same period and purposes for which that adjudicator would otherwise have remained in office.
-(4) To enable claims to which this section applies to be dealt with in accordance with section 148 by adjudicators additional to those referred to in subsection (1)(b) or appointed in accordance with subsection (3), additional adjudicators of that kind may be appointed under section 24(2) and (3) of the former Act (as if those subsections had not been repealed).
-(5) To avoid doubt, adjudicators referred to in subsection (1)(b) or appointed in accordance with subsection (3) or (4) are paid salaries and allowances in accordance with clause 5 of the Schedule of the former Act.
+(2) The adjudicators referred to in subsection (1)﻿(b) remain in office for the period reasonably necessary to enable them to exercise and perform their duties, functions, and powers in respect of claims to which this section applies.
+(3) However, if any of the adjudicators referred to in subsection (1)﻿(b) resigns or is removed from office before the end of the period referred to in subsection (2), another adjudicator may be appointed, under section 24(2) and (3) of the former Act (as if those subsections had not been repealed), for the same period and purposes for which that adjudicator would otherwise have remained in office.
+(4) To enable claims to which this section applies to be dealt with in accordance with section 148 by adjudicators additional to those referred to in subsection (1)﻿(b) or appointed in accordance with subsection (3), additional adjudicators of that kind may be appointed under section 24(2) and (3) of the former Act (as if those subsections had not been repealed).
+(5) To avoid doubt, adjudicators referred to in subsection (1)﻿(b) or appointed in accordance with subsection (3) or (4) are paid salaries and allowances in accordance with clause 5 of the Schedule of the former Act.
 (6) For the purposes of this section, and until it is no longer reasonably necessary for those purposes, the person who holds office as the chair (whether because section 156(1) applies to the person or otherwise) is to be taken to be, and to have the duties, functions, and powers of, the chief adjudicator.
 (7) This section does not limit section 148(1).
 
@@ -1628,11 +1628,11 @@ The former Act must for the purposes of section 148(1) be treated as if it had b
 (2) This section applies even if the claim does not comply with section 13 (eligibility criteria).
 
 ### 154 How Part 1 applies to adjudication of withdrawn claim under former Act in respect of multi-unit complex
-(1) If, under section 153(1)(a), the claimant applies to the tribunal to have the withdrawn claim adjudicated, Part 1 applies to the application for adjudication, to the adjudication, and to all later steps, in respect of the withdrawn claim, as if it were a claim brought under this Act.
+(1) If, under section 153(1)﻿(a), the claimant applies to the tribunal to have the withdrawn claim adjudicated, Part 1 applies to the application for adjudication, to the adjudication, and to all later steps, in respect of the withdrawn claim, as if it were a claim brought under this Act.
 (2) This section is subject to section 138 (which relates to consolidation of adjudication of claims relating to multi-unit complexes, and applies to the claim as if it were one to which subpart 4 of this Part applies), and also to section 152.
 
 ### 155 How Part 1 applies to new claim in respect of same dwellinghouse, etc, in multi-unit complex
-(1) If, under section 153(1)(b), the claimant is part of, or joins, a new claim brought, in respect of the same dwellinghouse, common areas, or both, under section 19, 20, or 21, Part 1 applies to the new claim.
+(1) If, under section 153(1)﻿(b), the claimant is part of, or joins, a new claim brought, in respect of the same dwellinghouse, common areas, or both, under section 19, 20, or 21, Part 1 applies to the new claim.
 (2) Subsection (1) is subject to subsections (3) to (6).
 (3) The application for adjudication of the new claim need not be accompanied by the prescribed fee (if any).
 (4) The tribunal may consider any written evidence (including an assessor's report) submitted for the adjudication, under the former Act, of the withdrawn claim.
@@ -1647,7 +1647,7 @@ The former Act must for the purposes of section 148(1) be treated as if it had b
   (a) for a term that, immediately before that commencement, represented the remainder of that person's term as chief adjudicator; and
   (b) subject to the conditions of employment that applied to the person as chief adjudicator immediately before that commencement; and
   (c) subject to any determination made under clause 6(1) of Schedule 3, with any determination of that kind prevailing if, and to the extent that, it is more favourable to the person than any of the conditions of employment referred to in paragraph (b).
-(3) The Remuneration Authority is not obliged to make a determination under clause 6(1) of Schedule 3 of the salary and allowances of the person to whom subsection (1) applies before the time when that person's salary and allowances would have been next reviewed under the conditions of employment referred to in subsection (2)(b).
+(3) The Remuneration Authority is not obliged to make a determination under clause 6(1) of Schedule 3 of the salary and allowances of the person to whom subsection (1) applies before the time when that person's salary and allowances would have been next reviewed under the conditions of employment referred to in subsection (2)﻿(b).
 
 ### 157 Chair's role before transition date
 (1) Before the transition date, the person to whom section 156(1) applies—
@@ -1673,6 +1673,27 @@ This Act does not limit or affect the exercise, in accordance with section 11 of
   (c) designate or provide employees of the Ministry to act as other officers of the tribunal under section 108(2) or (4):
   (d) any other act or thing for the purposes of any other provision of Part 1.
 
+### Subpart 8 — Validations connected to 2011 Gazette notice
+
+### 161 Validation of clauses 1B and 1C of 2011 Gazette notice
+Clauses 1B and 1C of the 2011 Gazette notice were validly made and have always been valid.
+
+### 162 Certain decisions not invalid because of lack of agreement by participating territorial authority
+(1) A decision referred to in subsection (2) is not invalid merely because a participating territorial authority did not agree to the claimant receiving a financial contribution under the package of financial assistance measures.
+(2) This subsection refers to a decision, made before 23 February 2015, that a claimant was not a qualifying claimant because the criteria in clause 1B or 1C of the 2011 Gazette notice were not met.
+
+### 163 Certain applications continue on basis of law as amended
+(1) This section applies to an application made under section 125C but not decided before the commencement of this section.
+(2) For the purposes of determining the application, the amendments made by the Weathertight Homes Resolution Services Amendment Act 2016 must be treated as having been in force on and from the time the application was made.
+
+### 164 Amendments to 2011 Gazette notice
+(1) This section amends the 2011 Gazette notice.
+(2) Delete all the words after the heading Contribution Criteria: Financial Assistance Package and before the heading Definitions.
+(3) In clause 1, delete To qualify for a contribution from the Crown, all of the criteria in this clause 1 must be met:.
+(4) Revoke clauses 1B and 1C.
+(5) In clause 2, delete Subject to clause 2C, to qualify for a contribution from a Participating Territorial Authority:.
+(6) Revoke clause 2A.
+
 ## Schedule 1 — Overview of types of claims by owners of dwellinghouses
 
 ## Schedule 2 — Overview of types of claims by representatives of multi-unit complexes
@@ -1688,7 +1709,7 @@ This Act does not limit or affect the exercise, in accordance with section 11 of
 (1) Except as otherwise provided in this schedule, a member—
   (a) holds office for a term not exceeding 3 years; and
   (b) may be reappointed.
-(2) A member's term of office referred to in subclause (1)(a) must be stated in the notice of appointment.
+(2) A member's term of office referred to in subclause (1)﻿(a) must be stated in the notice of appointment.
 
 ### 3 Oath of office
 Each member must, before entering on the exercise of any of his or her functions under this Act, swear or affirm before a Judge of the High Court that he or she will faithfully and impartially perform his or her duties as a member.
@@ -1794,11 +1815,11 @@ This Act comes into force on the day after the date on which it receives the Roy
   (c) claims adjudication of which was initiated under the Weathertight Homes Resolution Services Act 2002 (in this Act called the former Act) before the transition date and that,—
     (i) under section 149 of the principal Act must, if they are not withdrawn before they are disposed of under the former Act, be dealt with in accordance with section 148 of the principal Act by a person specified in section 149(1) of the principal Act; and
     (ii) are not withdrawn, terminated, or otherwise disposed of before the commencement of this Act.
-(2) The claims in subsection (1)(a) and (b) include claims—
+(2) The claims in subsection (1)﻿(a) and (b) include claims—
   (a) brought under the former Act; and
-  (b) of the kind specified in subsection (1)(c); and
+  (b) of the kind specified in subsection (1)﻿(c); and
   (c) that are withdrawn and adjudicated under the principal Act in accordance with section 150 or 153, and subject to the relevant modifications specified in subpart 6 of Part 2, of the principal Act.
-(3) A reference in subsection (1)(b) to a claim brought under the principal Act includes a claim to which subpart 3, 4, or 5 of Part 2 of the principal Act applies, and therefore to which Part 1 of the principal Act applies—
+(3) A reference in subsection (1)﻿(b) to a claim brought under the principal Act includes a claim to which subpart 3, 4, or 5 of Part 2 of the principal Act applies, and therefore to which Part 1 of the principal Act applies—
   (a) as if it were a claim brought under the principal Act; and
   (b) subject to the relevant modifications specified in subpart 3, 4, or 5 of Part 2 of the principal Act.
 (4) A claim disposed of through resolution by a determination of the tribunal, an adjudicator, or a person specified in section 149(1) of the principal Act is disposed of for the purposes of subsection (1) even if that determination is or may be subject to an appeal, a review proceeding, or both.
