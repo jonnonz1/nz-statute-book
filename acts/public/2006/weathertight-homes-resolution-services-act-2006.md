@@ -1,5 +1,5 @@
 # Weathertight Homes Resolution Services Act 2006
-_Consolidation as at 2016-03-14_
+_Consolidation as at 2016-03-15_
 
 ### 1 Title
 This Act is the Weathertight Homes Resolution Services Act 2006.
@@ -33,7 +33,12 @@ In general terms, this Act provides for the following matters:Purpose, overviews
   (g) subpart 6 of Part 1 provides for access to a special mediation service that is available to dwellinghouse owners with eligible claims. The claimant and any of the other parties against whom the claim is made may agree to refer the claim to mediation, with provision for binding settlements by agreement:
   (h) subpart 9 of Part 1 sets out various miscellaneous matters that underpin the substantive provisions of Part 1:
   (ha) Part 1A provides for certain matters relating to the provision of a package of financial assistance measures to facilitate the repair of leaky buildings:
-  (i) subparts 1 to 7 of Part 2 repeal the Weathertight Homes Resolution Services Act 2002, make consequential amendments, and specify how Part 1 applies to, and who is to deal with, claims under that former Act that have not been disposed of before the transition date.
+  (i) Part 2—
+    (i) repeals the Weathertight Homes Resolution Services Act 2002; and
+    (ii) makes consequential amendments; and
+    (iii) specifies how Part 1 of this Act applies to, and who is to deal with, claims under the Weathertight Homes Resolution Services Act 2002 that have not been disposed of before the transition date (1 April 2007); and
+    (iv) validates certain matters in relation to the 2011 Gazette notice; and
+    (v) deems certain claims to be eligible claims under the Act.
 
 ### 5 Overviews of types of claims
 (1) A diagrammatic overview of the types of claims under this Act by owners of dwellinghouses is set out in Schedule 1.
@@ -1236,7 +1241,8 @@ The Governor-General may from time to time, by Order in Council, make regulation
 The purpose of this Part is to facilitate the repair of leaky buildings by providing for certain matters relating to the provision of a package of financial assistance measures to qualifying claimants.
 
 ### 125B Interpretation
-(1) In this Part, unless the context otherwise requires,—
+(1) In this Part and subpart 8 of Part 2, unless the context otherwise requires,—
+  - **2011 Gazette notice** means the notice published in the Gazette on 28 July 2011, at pp 3198 and 3199, issued under this Act and entitled Contribution Criteria: Financial Assistance Package
   - **additional contributing party** —
     (a) means either or both of the following:
       (i) the relevant territorial authority, if it agrees to—
@@ -1277,9 +1283,8 @@ The purpose of this Part is to facilitate the repair of leaky buildings by provi
       (i) any loan advanced by the lender to a claimant for the sole purpose of meeting the balance of the agreed repair costs of a dwellinghouse that are not otherwise covered by the financial contributions referred to in paragraph (a):
       (ii) any loan advanced by the lender to a claimant as a result of the restructuring or refinancing of the loan described in subparagraph (i)
   - **lender** means a financial institution of a type specified under section 125J(1)﻿(a) that satisfies the criteria specified for it under section 125J(1)﻿(b)
-  - **qualifying claimant** means a claimant who—
-    (a) has an eligible claim in respect of a dwellinghouse; and
-    (b) meets the contribution criteria that are specified by the chief executive by notice in the Gazette in respect of the package of financial assistance measures
+  - **participating territorial authority** means the relevant territorial authority if it has agreed to participate in the package of financial assistance measures
+  - **qualifying claimant** has the meaning given in section 125BA
   - **relevant territorial authority** , in relation to a dwellinghouse, means the territorial authority for the district in which the dwellinghouse is situated
   - **repair** —
     (a) means any repair to a dwellinghouse that is the subject of a contribution agreement that the parties to the agreement have agreed is directly necessary to—
@@ -1287,7 +1292,29 @@ The purpose of this Part is to facilitate the repair of leaky buildings by provi
       (ii) make the dwellinghouse weathertight; and
     (b) includes demolishing the dwellinghouse and rebuilding or re-erecting it, if provided for under the contribution agreement
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002.
-(2) In this Part, unless the context otherwise requires, approved, chief executive, civil proceedings, claim, claimant, court of competent jurisdiction, damages, department, dwellinghouse, eligible claim, leaky building, and Minister have the meanings given to them by section 8.
+(2) In this Part and subpart 8 of Part 2, unless the context otherwise requires, approved, chief executive, civil proceedings, claim, claimant, court of competent jurisdiction, damages, department, dwellinghouse, eligible claim, leaky building, and Minister have the meanings given to them by section 8.
+
+### 125BA Meaning of qualifying claimant
+(1) In this Part, qualifying claimant means a claimant who has an eligible claim in respect of a dwellinghouse and who—
+  (a) meets—
+    (i) the contribution criteria specified by the chief executive in either clause 1 of the 2011 Gazette notice (as amended by the Weathertight Homes Resolution Services Amendment Act 2016) or any other notice in the Gazette that the chief executive has issued for the purposes of setting contribution criteria; and
+    (ii) the contribution criteria specified in subsection (2); or
+  (b) in the chief executive’s opinion, is taking all reasonable steps to meet the contribution criteria described in paragraph (a).
+(2) The contribution criteria referred to in subsection (1)﻿(a)﻿(ii) are as follows:
+  (a) if the claimant has applied for adjudication under this Act (regardless of whether the claimant has commenced mediation or adjudication) and the relevant participating territorial authority was either named as a party in the application or later joined to the application, then—
+    (i) the participating territorial authority must agree to the claimant receiving a financial contribution under the package of financial assistance measures; and
+    (ii) the claimant must withdraw from adjudication in accordance with section 67; and
+  (b) if the claimant has applied for or is involved in any other civil proceedings relating to the weathertightness of the dwellinghouse to which the relevant participating territorial authority is named as a party, or has been joined as a party,—
+    (i) the participating territorial authority must agree to the claimant receiving a financial contribution under the package of financial assistance measures; and
+    (ii) the claimant must discontinue the civil proceedings entirely; and
+    (iii) if the claimant has applied for mediation or adjudication under the Act in respect of the same dwellinghouse, the claimant must also comply with paragraph (a)﻿(ii).
+(3) To avoid doubt, a claimant is not required to withdraw an application for adjudication under subsection (2)﻿(a), or to discontinue civil proceedings under subsection (2)﻿(b), until all other applicable criteria that a person needs to meet in order to become a qualifying claimant are met.
+
+**Eligibility for financial assistance measures**
+
+### 125BB Eligibility for financial assistance measures
+(1) All qualifying claimants are eligible for financial assistance measures from the Crown.
+(2) Only those qualifying claimants who also meet the criteria specified in clause 2 of the 2011 Gazette notice (or the equivalent clause in any other Gazette notice) are eligible for financial assistance measures from participating territorial authorities.
 
 **Applications for financial assistance measures**
 
@@ -1693,6 +1720,26 @@ Clauses 1B and 1C of the 2011 Gazette notice were validly made and have always b
 (4) Revoke clauses 1B and 1C.
 (5) In clause 2, delete Subject to clause 2C, to qualify for a contribution from a Participating Territorial Authority:.
 (6) Revoke clause 2A.
+
+### Subpart 9 — Certain claimants deemed to have eligible claims
+
+### 165 Meaning of affected claimant
+In section 166, affected claimant means a person to whom the following circumstances apply:
+  (a) the person brought a claim under section 9 in respect of the construction or alteration of a dwellinghouse for which—
+    (i) 1 or more code compliance certificates were issued for the relevant building work; and
+    (ii) the certificate or certificates were issued before 1 January 2012; and
+  (b) the claim was brought within the period of 10 years immediately before the day on which the code compliance certificate was issued (or, if more than 1 certificate was issued, the day on which the final certificate was issued); and
+  (c) the chief executive or the chair decided, within the period starting on 1 April 2007 and ending on 10 June 2014, that the claim was not an eligible claim; and
+  (d) the sole reason for the chief executive’s or the chair’s decision was that the claim failed to satisfy the criteria in, as the case may be, section 14(a), 15(c), 16(a), 17(a), or 18(c); and
+  (e) in reaching that decision, the chief executive or the chair treated the date on which the dwellinghouse was constructed or altered as a date earlier than the date on which the code compliance certificate for the relevant building work was issued (or, if more than 1 certificate was issued, the date on which the final certificate was issued); and
+  (f) on the commencement of this section, the person still owned the dwellinghouse.
+
+### 166 Affected claimants deemed to have eligible claims
+(1) An affected claimant is deemed to have an eligible claim under this Act in respect of the dwellinghouse concerned, and the provisions of this Act and the 2011 Gazette notice (as amended by the Weathertight Homes Resolution Services Amendment Act 2016) apply accordingly, subject to the rest of this section.
+(2) A claim must be treated as eligible on and from the date on which the claim would have been an eligible claim if the chief executive or the chair had originally decided the claim in the person’s favour.
+(3) Clause 1G of the 2011 Gazette notice does not apply to an affected claimant.
+(4) A claim must be treated as satisfying the requirements of clause 1H(i) and (ii) and I(i) and (ii) of the 2011 Gazette notice.
+(5) To avoid doubt, this section does not automatically confer on an affected claimant the status of a qualifying claimant.
 
 ## Schedule 1 — Overview of types of claims by owners of dwellinghouses
 
