@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-03-18_
 
 > Title
 
@@ -1052,11 +1052,13 @@ Part 10 of the Employment Relations Act 2000 applies to the extent applicable an
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms for the purposes of this Act:
   (aa) prescribing the manner in which an application for, or other notices relating to, a parental leave payment must be made:
-  (ab) prescribing the information that employees and employers must give in, or the documents that employees or employers must attach to, an application for, or other notice relating to, a parental leave payment:
+  (ab) prescribing the information that must be given in, or the documents that must be attached to, an application for, or other notice relating to, a parental leave payment:
   (aba) prescribing the information that self-employed persons must give in, or the documents that self-employed persons must attach to, an application for, or other notices relating to, a parental leave payment:
-  (ac) prescribing the way in which adjustments must be made under section 71N and making the adjustments required under that section:
+  (abb) prescribing the evidence that must be provided to an employer by an employee who requests parental leave in respect of a child to whom the employee, or the employee’s spouse or partner, does not give birth:
+  (abc) prescribing the information that must be given in, or the documents that must be attached to, an application for, or other notice relating to, a preterm baby payment:
+  (ac)
   (ad) increasing the amount under section 71O:
-  (ada) setting the amount under section 71OA, including the amount that applies on 1 July 2006:
+  (ada)
   (ae) extending the class or classes of person entitled to a parental leave payment under Part 7A:
   (b) prescribing procedures and practices for the implementation of this Act:
   (c) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
@@ -1123,6 +1125,18 @@ The Maternity Leave and Employment Protection Act 1980 is hereby repealed.
   (c) in the case of adoption, the date on which the employee or self-employed person, or his or her spouse or partner, with a view to adoption, assumes the care of the child is on or after 1 April 2016.
 (2) An employee or self-employed person to whom the amendments referred to in subclause (1) apply may, before 1 April 2016,—
   (a) give notice of a wish to take parental leave, in which case the employee may begin his or her parental leave before 1 April 2016 as if those amendments were already in force; and
+  (b) apply for a parental leave payment under Part 7A as if those amendments were already in force.
+
+### Part 3 — Transitional provisions relating to amendments to this Act made by Parental Leave and Employment Protection Amendment Act 2016
+
+### 3 Application of Parental Leave and Employment Protection Amendment Act 2016
+(1) The amendments made by the Parental Leave and Employment Protection Amendment Act 2016 apply to a person who takes parental leave or applies for a parental leave payment in respect of a child if,—
+  (a) in the case of a child born to the person or to the person’s spouse or partner,—
+    (i) the expected date of delivery of the child is on or after 1 April 2016; or
+    (ii) the child is born on or after 1 April 2016; or
+  (b) in any other case, the person or his or her spouse or partner becomes the primary carer in respect of a child on or after 1 April 2016.
+(2) A person to whom the amendments referred to in subclause (1) apply may, before 1 April 2016,—
+  (a) give notice of a request to take parental leave, in which case the person may begin his or her parental leave before 1 April 2016 as if those amendments were already in force; and
   (b) apply for a parental leave payment under Part 7A as if those amendments were already in force.
 
 ## Schedule 1 — Change of employer
