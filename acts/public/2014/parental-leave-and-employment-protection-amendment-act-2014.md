@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Amendment Act 2014
-_Consolidation as at 2014-05-19_
+_Consolidation as at 2016-03-18_
 
 ### 1 Title
 This Act is the Parental Leave and Employment Protection Amendment Act 2014.
@@ -34,19 +34,19 @@ In section 1A(c), replace 14 weeks with 16 weeks.
 In section 19A(3), replace 14 weeks with 16 weeks.
 
 ### 9 Section 19B amended (Extension of partner's/paternity leave of adoptive parent)
-In section 19B(2)(a), replace 14 weeks with 16 weeks.
+In section 19B(2)﻿(a), replace 14 weeks with 16 weeks.
 
 ### 10 Section 26 amended (Duration of extended leave)
 In section 26(2), replace 14 weeks with 16 weeks.
 
 ### 11 Section 27 amended (Extended leave to be shared between parents)
-In section 27(2)(c), replace 14 weeks with 16 weeks.
+In section 27(2)﻿(c), replace 14 weeks with 16 weeks.
 
 ### 12 Section 32 amended (Requirements where extended leave sought)
-In section 32(d)(i), replace 14 weeks with 16 weeks.
+In section 32(d)﻿(i), replace 14 weeks with 16 weeks.
 
 ### 13 Section 45 amended (Early ending and extension of parental leave)
-In section 45(4)(a) and (c)(i), replace 14 weeks with 16 weeks.
+In section 45(4)﻿(a) and (c)﻿(i), replace 14 weeks with 16 weeks.
 
 ### 14 Section 71A amended (Purpose)
 In section 71A, replace 14 weeks with 16 weeks.
@@ -55,10 +55,10 @@ In section 71A, replace 14 weeks with 16 weeks.
 In section 71J(a) and (b), replace 14 weeks with 16 weeks.
 
 ### 16 Section 71L amended (End of parental leave payment for employees)
-In section 71L(1)(a), replace 14 weeks with 16 weeks.
+In section 71L(1)﻿(a), replace 14 weeks with 16 weeks.
 
 ### 17 Section 71LA amended (End of parental leave payment for self-employed persons)
-In section 71LA(1)(a), replace 14 weeks with 16 weeks.
+In section 71LA(1)﻿(a), replace 14 weeks with 16 weeks.
 
 ### 18 Regulations amended
 The Parental Leave and Employment Protection Regulations 2002 are amended in the manner set out in Schedule 2.
@@ -73,34 +73,34 @@ In section 1A(c), replace 16 weeks with 18 weeks.
 (2) In section 9(2), replace 10 weeks with 12 weeks.
 
 ### 21 Section 19A amended (Extension of partner's/paternity leave entitlements for spouses or partners of employees in certain circumstances)
-In section 19A(3), replace 16 weeks with 18 weeks.
+[Repealed]
 
 ### 22 Section 19B amended (Extension of partner's/paternity leave of adoptive parent)
-In section 19B(2)(a), replace 16 weeks with 18 weeks.
+[Repealed]
 
 ### 23 Section 26 amended (Duration of extended leave)
-In section 26(2), replace 16 weeks with 18 weeks.
+[Repealed]
 
 ### 24 Section 27 amended (Extended leave to be shared between parents)
-In section 27(2)(c), replace 16 weeks with 18 weeks.
+[Repealed]
 
 ### 25 Section 32 amended (Requirements where extended leave sought)
-In section 32(d)(i), replace 16 weeks with 18 weeks.
+[Repealed]
 
 ### 26 Section 45 amended (Early ending and extension of parental leave)
-In section 45(4)(a) and (c)(i), replace 16 weeks with 18 weeks.
+In section 45(4)﻿(a), replace 16 weeks with 18 weeks.
 
 ### 27 Section 71A amended (Purpose)
-In section 71A, replace 16 weeks with 18 weeks.
+[Repealed]
 
 ### 28 Section 71J amended (Duration of parental leave payment)
 In section 71J(a) and (b), replace 16 weeks with 18 weeks.
 
 ### 29 Section 71L amended (End of parental leave payment for employees)
-In section 71L(1)(a), replace 16 weeks with 18 weeks.
+[Repealed]
 
 ### 30 Section 71LA amended (End of parental leave payment for self-employed persons)
-In section 71LA(1)(a), replace 16 weeks with 18 weeks.
+[Repealed]
 
 ### 31 Regulations amended
 The Parental Leave and Employment Protection Regulations 2002 are amended in the manner set out in Schedule 3.
