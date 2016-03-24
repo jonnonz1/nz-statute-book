@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2015-09-30_
+_Consolidation as at 2016-03-24_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -1101,7 +1101,7 @@ If the bankrupt defaults in making a payment required under section 147, the onu
 (3) The assets and their maximum value are—
   (a) the bankrupt's necessary tools of trade—the maximum value is fixed in the Assignee's discretion:
   (b) necessary household furniture and effects, including clothing, for the bankrupt and his or her relatives and dependants—the maximum value is fixed in the Assignee's discretion:
-  (c) motor vehicle—$5,000.
+  (c) motor vehicle—$6,000.
 (4) For the purposes of this section, the value of an asset is the value that the Assignee in his or her discretion places on it.
 (5) The Governor-General may, by Order in Council, amend subsection (3)﻿(c) by increasing the maximum value, to take account of any rise in the all groups index number of the Consumer Price Index.
 
@@ -1121,7 +1121,7 @@ If the bankrupt has died, a relative or dependant of the bankrupt, who has been 
 The Assignee may make an allowance out of the property of the bankrupt to the bankrupt or any relative or dependant of the bankrupt for the support of the bankrupt and his or her relatives and dependants.
 
 ### 164 Assignee may allow bankrupt to retain money
-(1) The Assignee may allow the bankrupt to retain, for the immediate maintenance of the bankrupt and his or her relatives and dependants, any money up to a maximum of $1,000 that the bankrupt has in the bankrupt's possession or in a bank account at the time of adjudication.
+(1) The Assignee may allow the bankrupt to retain, for the immediate maintenance of the bankrupt and his or her relatives and dependants, any money up to a maximum of $1,200 that the bankrupt has in the bankrupt's possession or in a bank account at the time of adjudication.
 (2) The Governor-General may, by Order in Council, amend subsection (1) by increasing the maximum amount that the Assignee may allow the bankrupt to retain, to take account of any rise in the Consumer Price Index.
 
 ### Subpart 5 — Powers of Assignee and court to examine bankrupt and others
@@ -1634,7 +1634,7 @@ After 1 year after the discharge of the bankrupt, the Assignee may dispose of th
   (c) require further evidence in support of the claim.
 
 ### 235 Assignee must give creditor notice of grounds of rejection
-If the Assignee rejects a creditor's claim, or part of it, the Assignee must as soon as practicable give the creditor notice of the Assignee's grounds for rejecting the claim.
+If the Assignee rejects a creditor's claim, or part of it, the Assignee must, as soon as practicable, give the creditor notice of the Assignee's grounds for rejecting the claim.
 
 ### 236 Assignee's power to obtain evidence of debt
 (1) The Assignee may summon for examination, and examine (on oath or otherwise), any of the following persons:
@@ -2460,7 +2460,7 @@ The Assignee may make a summary instalment order on the application of—
 
 ### 343 Assignee may make summary instalment order
 (1) The Assignee may make a summary instalment order if the Assignee is satisfied that—
-  (a) the debtor's total unsecured debts (excluding any student loan balance) that would be provable in the debtor's bankruptcy are not more than $40,000; and
+  (a) the debtor's total unsecured debts (excluding any student loan balance) that would be provable in the debtor's bankruptcy are not more than $47,000; and
   (b) the debtor is unable immediately to pay those debts.
 (2) Before making the order, the Assignee must allow the debtor or a creditor to make representations, if the debtor or creditor wants to do so.
 (3) A summary instalment order is not invalid if the total amount of the debts proved is more than the amount specified in subsection (1)﻿(a), but in that case—
@@ -2594,7 +2594,7 @@ This subpart sets out a procedure for dealing with a debtor who has no realisabl
   (a) the debtor has no realisable assets; and
   (b) the debtor has not previously been admitted to the no asset procedure; and
   (c) the debtor has not previously been adjudicated bankrupt; and
-  (d) the debtor has total debts (excluding any student loan balance) that are not less than $1,000 and not more than $40,000; and
+  (d) the debtor has total debts (excluding any student loan balance) that are not less than $1,000 and not more than $47,000; and
   (e) under a prescribed means test, the debtor does not have the means of repaying any amount towards those debts.
 (2) In this section, realisable assets does not include the assets that a bankrupt is allowed to retain under section 158, but does include any assets (for example, gifted assets) that might be recoverable by the Assignee if the debtor were adjudicated bankrupt on the date of application for entry to the no asset procedure and if the irregular transaction provisions in subpart 7 of Part 3 applied.
 (3) The amounts in subsection (1)﻿(d) may be varied by the Governor-General by Order in Council to take account of increases in the all groups index number of the Consumer Price Index.
