@@ -1,5 +1,5 @@
 # Wages Protection Act 1983
-_Consolidation as at 2015-03-06_
+_Consolidation as at 2016-04-01_
 
 > An Act to consolidate and amend the law relating to the payment of wages and salaries
 
@@ -9,13 +9,17 @@ _Consolidation as at 2015-03-06_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **employer** means a person employing any worker or workers; and includes any manager, foreman, clerk, agent, or other person engaged on behalf of that person in the hiring, employment, or supervision of the service or work of any worker
+  - **employer** has the same meaning as in section 5 of the Employment Relations Act 2000
+  - **employment agreement** has the same meaning as in section 5 of the Employment Relations Act 2000
   - **financial institution** means a financial institution within the meaning of section 2 of the Reserve Bank of New Zealand Act 1989; and includes the Post Office Savings Bank and the Reserve Bank of New Zealand
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **money** , in relation to any wages, means any New Zealand coin or New Zealand banknotes, or combination of both, the tender of which in respect of the payment of those wages is legal tender
   - **specified cheque** , in relation to the payment of wages to any worker, means a cheque payable to, or to the order of, that worker
   - **wages** means salary or wages; and includes time and piece wages, and overtime, bonus, or other special payments agreed to be paid to a worker for the performance of service or work; and also includes any part of any wages
   - **worker** has the same meaning as that given to the term employee by section 6 of the Employment Relations Act 2000; and, in relation to any employer, means a worker employed by that employer.
+
+### 2A Provisions affecting application of amendments to this Act
+The Schedule contains application, savings, and transitional provisions relating to amendments made to this Act on or after 1 April 2016.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -24,12 +28,16 @@ This Act shall bind the Crown.
 Subject to sections 5(1) and 6(2), an employer shall, when any wages become payable to a worker, pay the entire amount of those wages to that worker without deduction.
 
 ### 5 Deductions with worker's consent
-(1) An employer may, for any lawful purpose,—make deductions from wages payable to that worker.
-  (a) with the written consent of a worker; or
-  (b) on the written request of a worker—
+(1) An employer may, for a lawful purpose, make deductions from wages payable to a worker—
+  (a) with the written consent of the worker (including consent in a general deductions clause in the worker’s employment agreement); or
+  (b) on the written request of the worker.
+(1A) An employer must not make a specific deduction in accordance with a general deductions clause in a worker’s employment agreement without first consulting the worker.
 (2) A worker may vary or withdraw a consent given or request made by that worker for the making of deductions from that worker's wages, by giving the employer written notice to that effect; and in that case, that employer shall—cease making or vary, as the case requires, the deductions concerned.
   (a) within 2 weeks of receiving that notice, if practicable; and
   (b) as soon as is practicable, in every other case,—
+
+### 5A Unreasonable deductions
+An employer must not make a deduction under section 5 from wages payable to a worker if the deduction is unreasonable.
 
 ### 6 Employer may recover overpayments in certain circumstances
 (1) In this section,—
@@ -54,10 +62,10 @@ Subject to sections 5(1) and 6(2), an employer shall, when any wages become paya
     (iii) not later than the first day upon which that worker attends one of that worker's workplaces after the next pay day during normal working hours, in the case of a worker with 2 or more fixed workplaces who did not attend any of them during normal working hours on the next pay day:
     (iv) not later than the next pay day, in every other case; and
   (d) that overpayment is recovered not later than 2 months after that notice is given.
-(4) The validity of a notice purportedly given under subsection (3)(b) shall not be affected by the fact that—
+(4) The validity of a notice purportedly given under subsection (3)﻿(b) shall not be affected by the fact that—
   (a) it does not specify the amount of the overpayment concerned but specifies only the day on which that overpayment was made and the actions that led to its being an overpayment:
   (b) it is one of a number of identical notices given to a group of workers to only some of whom an overpayment has been made, and provides that it applies to the worker to whom it has been given only if an overpayment has been made to that worker.
-(5) To avoid doubt, subsection (4) does not apply to a notice referred to in subsection (3)(ba).
+(5) To avoid doubt, subsection (4) does not apply to a notice referred to in subsection (3)﻿(ba).
 
 ### 7 Wages to be payable in money
 Subject to sections 8 to 10, an employer shall pay the wages of every worker in money only.
@@ -66,7 +74,7 @@ Subject to sections 8 to 10, an employer shall pay the wages of every worker in 
 The Crown, or a local authority, may pay to a worker by specified cheque any wages that have become payable to that worker.
 
 ### 9 Agreement as to manner of payment of wages
-(1) An employer may,—pay to that worker by postal order, money order, specified cheque, or lodgment at a financial institution to the credit of an account standing in the name of that worker or in the name of that worker and some other person or persons jointly, any wages that have become payable to that worker.
+(1) An employer may,—pay to that worker by postal order, money order, specified cheque, or lodgement at a financial institution to the credit of an account standing in the name of that worker or in the name of that worker and some other person or persons jointly, any wages that have become payable to that worker.
   (a) with the written consent of a worker; or
   (b) on the written request of a worker,—
 (2) A worker may vary or withdraw a consent given or request made by that worker under subsection (1) by giving the employer written notice to that effect; and in that case, that employer shall—commence paying that worker in money, or in some other manner in accordance with subsection (1).
@@ -76,8 +84,8 @@ The Crown, or a local authority, may pay to a worker by specified cheque any wag
 ### 10 Payment where worker absent
 Where any wages become payable to a worker who is for the time being absent from the proper or usual place for their payment, that worker's employer may pay them to that worker by postal order, money order, or specified cheque.
 
-### 11 Worker may recover wages
-(1) Subject to subsections (2) and (3), a worker may recover from that worker's employer, by action in the Employment Relations Authority, established by the Employment Relations Act 2000, in the prescribed manner,—
+### 11 Recovery of wages
+(1) Subject to subsections (2) and (3), a worker, or a Labour Inspector on behalf of a worker, may recover from that worker's employer, by action in the Employment Relations Authority, established by the Employment Relations Act 2000, in the prescribed manner,—
   (a) any deduction made (otherwise than pursuant to section 6) by that employer from wages that have been paid, or but for that deduction would have been paid, by that employer to that worker, if—
     (i) that deduction was not consented to, or requested by, that worker in writing; or
     (ii) the making of that deduction was consented to, or requested by, that worker in writing; but the consent or request concerned was obtained by threat of dismissal, or otherwise by duress:
@@ -85,18 +93,34 @@ Where any wages become payable to a worker who is for the time being absent from
 (2) No action under subsection (1) shall be brought after the expiration of 6 years from the date on which the cause of action concerned arose.
 (3) No such action shall be brought in respect of any cause of action that arose more than 2 years before the commencement of this Act.
 
+### 11A Proceedings by Labour Inspector or worker to recover arrears of wages from person involved in failure to comply
+(1) A Labour Inspector or a worker may recover from a person who is not the worker’s employer any arrears of wages that the worker is entitled to if—
+  (a) the worker is entitled to the wages under this Act; and
+  (b) the wages are unpaid due to non-compliance with this Act; and
+  (c) the person from whom the wages are sought to be recovered is a person involved in the non-compliance.
+(2) However, unpaid wages may be recovered under subsection (1) only,—
+  (a) in the case of recovery by a worker, with the prior leave of the Authority or court; and
+  (b) to the extent that the worker’s employer is unable to pay the wages.
+(3) A Labour Inspector, worker, or person concerned may recover from a person involved in non-compliance with section 12A any premium paid in breach of that section.
+(4) However, a premium may be recovered under subsection (3) only,—
+  (a) in the case of recovery by a worker or person concerned, with the prior leave of the Authority or court; and
+  (b) to the extent that the employer concerned is unable to pay the premium.
+(5) For the purposes of subsections (1) and (3), a person is involved in the non-compliance if the person would be treated as a person involved in a breach within the meaning of section 142W of the Employment Relations Act 2000.
+
 ### 12 Employer not to stipulate as to mode of spending wages
 No employer shall impose any requirement on any worker as to any place or manner in which or any person with whom that worker shall expend wages received by that worker, or dismiss any worker on account of any place or manner in which or any person with whom that worker expends those wages.
 
 ### 12A No premium to be charged for employment
-(1) No employer shall seek or receive any premium in respect of the employment of any person, whether the premium is sought or received from the person employed or proposed to be employed or from any other person.
+(1) No employer or person engaged on behalf of the employer shall seek or receive any premium in respect of the employment of any person, whether the premium is sought or received from the person employed or proposed to be employed or from any other person.
 (2) Where an employer receives any amount of money in contravention of subsection (1), whether by way of deduction from wages or otherwise, then, irrespective of any penalty to which the employer thereby becomes liable, the person by whom the money was paid or, as the case may be, from whose wages it was deducted, may recover that amount from the employer as a debt due to the person; and civil proceedings for the recovery of the amount may be instituted in the Employment Relations Authority by the person or, notwithstanding any disability to which the person is subject, by a Labour Inspector designated under section 223 of the Employment Relations Act 2000 on behalf of the person.
 (3) Any such proceedings instituted by any Labour Inspector may be continued or conducted by the same or any other Labour Inspector.
 
 ### 13 Penalties
-Where—that employer is liable, at the suit of the worker or of a Labour Inspector designated under section 223 of the Employment Relations Act 2000, to a penalty imposed under that Act by the Employment Relations Authority.
+(1) Where—that employer, and every person involved in the contravention or failure, is liable to a penalty imposed under the Employment Relations Act 2000 by the Employment Relations Authority.
   (a) any payment is made by or on behalf of any employer in contravention of this Act; or
   (b) any employer or any person on that employer's behalf contravenes or fails to comply with any of the provisions of this Act,—
+(2) A worker or a Labour Inspector may recover a penalty under subsection (1), but the worker may recover a penalty only in relation to the employer.
+(3) For the purposes of subsection (1), a person is involved in the contravention or failure if the person would be treated as a person involved in a breach within the meaning of section 142W of the Employment Relations Act 2000.
 
 ### 14 Employer may have actual offender charged
 [Repealed]
@@ -118,3 +142,12 @@ Any contract for the payment of wages by cheque, draft, or order in writing for 
 
 ### 19 Consequential repeals
 The Wages Protection Act 1964 and the Wages Protection Amendment Act 1983 are hereby consequentially repealed.
+
+## Schedule  — Application, savings, and transitional provisions relating to amendments made to this Act on or after 1 April 2016
+
+### 1 Interpretation
+In this schedule, 2016 Act means the Wages Protection Amendment Act 2016.
+
+### 2 Application, savings, and transitional provisions arising from 2016 Act
+(1) Section 5A (as inserted by section 7 of the 2016 Act) applies only to deductions made after the commencement of that Act and, in relation to deductions made under an employment agreement, applies whether the employment agreement was made before, on, or after the commencement of that Act.
+(2) The amendments made by the 2016 Act do not apply to conduct that occurred before the commencement of that Act.
