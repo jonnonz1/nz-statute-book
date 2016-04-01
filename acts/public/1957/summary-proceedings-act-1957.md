@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2015-06-06_
+_Consolidation as at 2016-04-01_
 
 > Title
 
@@ -51,6 +51,7 @@ _Consolidation as at 2015-06-06_
     (ha) section 105C of the Credit Contracts and Consumer Finance Act 2003; or
     (i) section 162 of the Animal Welfare Act 1999; or
     (j) section 357 of the Gambling Act 2003; or
+    (ja) section 235A of the Employment Relations Act 2000; or
     (ja) section 74 of the Psychoactive Substances Act 2013; or
     (k) any provision of any other Act providing for the use of the infringement notice procedure under section 21
   - **infringement offence** means any offence under any Act in respect of which a person may be issued with an infringement notice
