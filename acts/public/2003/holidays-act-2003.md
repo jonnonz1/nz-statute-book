@@ -1,5 +1,5 @@
 # Holidays Act 2003
-_Consolidation as at 2016-02-25_
+_Consolidation as at 2016-04-01_
 
 ### 1 Title
 This Act is the Holidays Act 2003.
@@ -82,6 +82,9 @@ The purpose of this Act is to promote balance between work and other aspects of 
   (a) an employee, in relation to an employer, means a person employed by the employer:
   (b) an employer, in relation to an employee, means the employee’s employer.
 
+### 5A Provisions affecting application of amendments to this Act
+Schedule 1AA contains application, savings, and transitional provisions relating to amendments made to this Act on or after 1 April 2016.
+
 ### 6 Relationship between Act and employment agreements
 (1) Each entitlement provided to an employee by this Act is a minimum entitlement.
 (2) This Act does not prevent an employer from providing an employee with enhanced or additional entitlements (whether specified in an employment agreement or otherwise) on a basis agreed with the employee.
@@ -111,7 +114,7 @@ This Act—
     (v) any payment of any employer contribution to a superannuation scheme for the benefit of the employee.
 (2) If it is not possible to determine an employee’s ordinary weekly pay under subsection (1), the pay must be calculated in accordance with the following formula:The following table is small in size and contains a formula.a − bcwhere—ais the employee’s gross earnings for—bis the total amount of payments described in subsection (1)﻿(c)﻿(i) to (iii)cis 4.
   (i) the 4 calendar weeks before the end of the pay period immediately before the calculation is made; or
-  (ii) if, the employee’s normal pay period is longer than 4 weeks, that pay period immediately before the calculation is made
+  (ii) if the employee’s normal pay period is longer than 4 weeks, that pay period immediately before the calculation is made
 (3) However, an employment agreement may specify a special rate of ordinary weekly pay for the purpose of calculating annual holiday pay if the rate is equal to, or greater than, what would otherwise be calculated under subsection (1) or subsection (2).
 
 ### 9 Meaning of relevant daily pay
@@ -329,8 +332,8 @@ To avoid doubt,—
   (a) may decline an employee's request; and
   (b) is not required to provide the employee with a reason for declining the request.
 (5) In this section, entitlement year—
-  (a) means a period of 12 months continuous employment beginning on the anniversary of the employee's employment; and
-  (b) includes a period of 12 months continuous employment described in section 16(2).
+  (a) means a period of 12 months’ continuous employment beginning on the anniversary of the employee's employment; and
+  (b) includes a period of 12 months’ continuous employment described in section 16(2).
 
 ### 28B Payment for annual holidays paid out
 (1) If an employer agrees to pay out a portion of the employee's annual holidays under section 28A(3)﻿(c), the employer must pay the employee for that portion—
@@ -803,7 +806,7 @@ An employee is not entitled to be paid for any sick leave that has not been take
 (2) An employee’s entitlement to annual holidays, public holidays, sick leave, or bereavement leave that are in addition to entitlements under this Act may be enforced only by the persons listed in subsection (1)﻿(a) to (c).
 
 ### 75 Penalty for non-compliance
-(1) An employer who fails to comply with any of the provisions listed in subsection (2) is liable,—
+(1) An employer who fails to comply with any of the provisions listed in subsection (2), and every person who is involved in the failure to comply, is liable,—
   (a) if the employer is an individual, to a penalty not exceeding $10,000:
   (b) if the employer is a company or other body corporate, to a penalty not exceeding $20,000.
 (2) The provisions are—
@@ -812,26 +815,48 @@ An employee is not entitled to be paid for any sick leave that has not been take
   (ba) sections 28A and 28B (which relate to a request by an employee for a portion of his or her annual holidays to be paid out and payment for that portion):
   (c) section 46, sections 49 to 56, section 60, and section 61(3) (which relate to an employee’s entitlement to, and payment for, public holidays and alternative holidays):
   (d) section 63, section 65, and sections 69 to 72 (which relate to an employee’s entitlement to, and payment for, sick leave and bereavement leave):
-  (e) section 83 (which relates to the failure to keep or provide access to a holiday and leave record).
+  (e) section 81 (which relates to an employer’s obligation to keep a holiday and leave record):
+  (f) section 82 (which relates to requests for access to a holiday and leave record).
+(3) For the purposes of subsection (1), a person is involved in a failure to comply if the person would be treated as a person involved in a breach within the meaning of section 142W of the Employment Relations Act 2000.
 
-### 76 Proceedings by Labour Inspector for penalty
-(1) A Labour Inspector is the only person who may bring an action in the Authority against an employer to recover a penalty under section 75.
+### 76 Proceedings by Labour Inspector or employee concerned for penalty
+(1) A Labour Inspector and the employee concerned are the only persons who may bring an action in the Authority against an employer to recover a penalty under section 75.
+(1A) However, only a Labour Inspector may bring an action in the Authority against a person involved in a failure to comply in order to recover a penalty under section 75.
 (2) A claim for 2 or more penalties against the same employer may be joined in the same action.
 (3) A claim for a penalty may be heard in conjunction with any proceedings for the recovery of holiday pay or leave pay.
 (4) After hearing an action for recovery of a penalty, the Authority may—
   (a) give judgment for the amount claimed; or
   (b) give judgment for an amount that is less than the amount claimed; or
   (c) dismiss the action.
-(5) An action for the recovery of a penalty must be commenced within 12 months after the earlier of when the cause of action became known, or should reasonably have become known, to the Labour Inspector.
+(5) An action for the recovery of a penalty must be commenced within 12 months after the earlier of when the cause of action became known, or should reasonably have become known, to the Labour Inspector or employee concerned.
+(5A) Despite subsection (5), if a court refuses to make a pecuniary penalty order under section 142E of the Employment Relations Act 2000, an action for the recovery of a penalty in relation to the same matter must be commenced within 3 months after the refusal.
 (6) A penalty that is recovered must be paid,—
   (a) if, and to the extent, ordered by the Authority, to any person the Authority specifies; or
   (b) in any other case, into court and then into a Crown Bank Account.
+
+### 76A Matters Authority to have regard to in determining amount of penalty
+In determining an appropriate penalty under section 76, the Authority or the court (as the case may be) must have regard to all relevant matters, including—
+  (a) the purpose stated in section 3 and, to the extent relevant, the object stated in section 3 of the Employment Relations Act 2000; and
+  (b) the matters referred to in section 133A(b) to (g) of the Employment Relations Act 2000.
+
+### 76B Chief executive or Labour Inspector may enforce payment of penalty
+The chief executive or a Labour Inspector may recover in a District Court as a debt due to the Crown any penalty ordered by the Authority or the court under section 76 to be paid to the Crown.
 
 ### 77 Proceedings by Labour Inspector to recover arrears of pay
 (1) A Labour Inspector may take proceedings on behalf of an employee to recover unpaid holiday pay or leave pay that the employee is entitled to under this Act.
 (2) If a Labour Inspector takes proceedings under subsection (1), the Labour Inspector must not issue a demand notice under section 224 of the Employment Relations Act 2000 in respect of the same pay.
 (3) Section 131 of the Employment Relations Act 2000 applies, with all necessary modifications, to proceedings taken under subsection (1).
 (4) An action initiated or taken under this Act by a Labour Inspector may be completed by another Labour Inspector.
+
+### 77A Proceedings by Labour Inspector or employee to recover arrears of pay from person involved in failure to comply
+(1) A Labour Inspector or an employee may recover from a person who is not the employee’s employer any unpaid holiday pay or leave pay that the employee is entitled to if—
+  (a) the employee is entitled to unpaid holiday pay or leave pay under this Act; and
+  (b) the holiday pay or leave pay is unpaid due to non-compliance with this Act; and
+  (c) the person from whom the pay is sought to be recovered is a person involved in the non-compliance.
+(2) However, unpaid holiday pay or leave pay may be recovered under subsection (1) only,—
+  (a) in the case of recovery by an employee, with the prior leave of the Authority or court; and
+  (b) to the extent that the employee’s employer is unable to pay the holiday pay or leave pay.
+(3) For the purposes of subsection (1), a person is involved in the non-compliance if the person would be treated as a person involved in a breach within the meaning of section 142W of the Employment Relations Act 2000.
 
 ### 78 Powers of Labour Inspector
 For the purposes of this Act, every Labour Inspector has, in addition to any powers conferred by this Act, all the powers that a Labour Inspector has under the Employment Relations Act 2000.
@@ -847,11 +872,11 @@ Before making a determination under this Act, a Labour Inspector must—
 **Holiday and leave record**
 
 ### 81 Holiday and leave record
-(1) An employer must keep a holiday and leave record that complies with this section.
-(2) The holiday and leave record must contain the following information for each employee:
+(1)
+(2) An employer must at all times keep a holiday and leave record showing, in the case of each employee employed by the employer, the following information:
   (a) the name of the employee:
   (b) the date on which the employee’s employment commenced:
-  (c) the days on which the employee actually works, if the information is relevant to the calculation of entitlements or payment for entitlements under this Act:
+  (c) the number of hours worked each day in a pay period and the pay for those hours:
   (d) the employee’s current entitlement to annual holidays:
   (e) the date on which the employee last became entitled to annual holidays:
   (f) the employee’s current entitlement to sick leave:
@@ -872,6 +897,12 @@ Before making a determination under this Act, a Labour Inspector must—
 (3) The holiday and leave record must be kept—
   (a) in written form; or
   (b) in a form or in a manner that allows the information in the record to be easily accessed and converted into written form.
+(3A) If an employee’s number of hours worked each day in a pay period and the pay for those hours are agreed and the employee works those hours (the usual hours), it is sufficient compliance with subsection (2)﻿(c) if those usual hours and pay are stated in—
+  (a) the employee’s wages and time record kept under section 130 of the Employment Relations Act 2000; or
+  (b) the employee’s employment agreement; or
+  (c) a roster or any other document or record used in the normal course of the employee’s employment.
+(3B) In subsection (3A), the usual hours of an employee who is remunerated by way of salary include any additional hours worked by the employee in accordance with the employee’s employment agreement.
+(3C) Despite subsection (3B), the employer must record any additional hours worked that need to be recorded to enable the employer to comply with the employer’s general obligation under section 4B(1) of the Employment Relations Act 2000.
 (4) Information entered in the holiday and leave record must be kept for not less than 6 years after the date on which the information is entered.
 (5) The holiday and leave record may be kept so as to form part of the wages and time record required to be kept under section 130 of the Employment Relations Act 2000.
 
@@ -947,6 +978,14 @@ Any holiday to which an employee had, before the commencement of this section, b
 ### 91 Repeals and consequential amendments
 (1) The enactments specified in Schedule 2 are repealed.
 (2) The enactments specified in Schedule 3 are amended in the manner indicated in that schedule.
+
+## Schedule 1AA — Application, savings, and transitional provisions relating to amendments made to this Act on or after 1 April 2016
+
+### 1 Interpretation
+In this schedule, 2016 Act means the Holidays Amendment Act 2016.
+
+### 2 Application, savings, and transitional provisions arising from 2016 Act
+The amendments made by the 2016 Act do not apply to conduct that occurred before the commencement of that Act.
 
 ## Schedule 1 — Modifications to subpart 1 of Part 2 to increase minimum entitlement to annual holidays from 1 April 2007
 
