@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-04-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -247,11 +247,17 @@ Every person exercising or performing a function, duty or power under this Act m
     (c) does not include a Government occupational pension
   - **overseas pensioner** means a person to whom an overseas pension has been granted
   - **parent** , for the purposes of the definition of the term living with a parent, means a parent, or a guardian, or a person acting as a parent
-  - **part-time work** means work that averages not less than 15 hours a week when calculated over a period of the preceding 3 months—
-    (a) under a contract of service, whether on time or piece rates; or
-    (b) as a self-employed person in any business, profession, trade, manufacture, or undertaking
+  - **part-time work** means employment that is not full-time employment, but is employment—
+    (a) that is—
+      (i) under a contract of service, whether on time or piece rates; or
+      (ii) as a self-employed person in any business, profession, trade, manufacture, or undertaking; and
+    (b) that—
+      (i) averages not less than 15 hours each week over a 3-month period of employment or over the period of employment if that period is shorter than 3 months,—
+        (A) in relation to a person granted jobseeker support on the ground of sickness, injury, or disability; or
+        (B) for the purposes of sections 11E(2), 88F, 88H(2)﻿(b), and 88I(2)﻿(b); or
+      (ii) averages not less than 20 hours each week over a 3-month period of employment or over the period of employment if that period is shorter than 3 months, in any other case
   - **part-time work-tested beneficiary** means—
-    (a) a person with a youngest dependent child aged 5 or older, but under 14 years, who is—
+    (a) a person with a youngest dependent child aged 3 or older, but under 14 years, who is—
       (i) a work-tested spouse or partner; or
       (ii) a work-tested sole parent support beneficiary; or
       (iii)
@@ -321,10 +327,10 @@ Every person exercising or performing a function, duty or power under this Act m
     (e)
   - **work-tested sole parent support beneficiary** means a person—
     (a) who has been granted sole parent support under section 20D; and
-    (b) whose youngest dependent child is aged 5 years or older
+    (b) whose youngest dependent child is aged 3 years or older
   - **work-tested spouse or partner** means a person—
     (a) who—
-      (i) has no dependent child under 5 years (or has no dependent child at all); and
+      (i) has no dependent child under 3 years (or has no dependent child at all); and
       (ii) is not subject to obligations under section 171; and
       (iii) has not been granted an exemption from the work test; and
     (b) who—
@@ -375,7 +381,7 @@ Every person exercising or performing a function, duty or power under this Act m
 
 ### 3C Transitional and savings provisions relating to amendments to this Act
 (1) The transitional and savings provisions set out in Schedule 32, which relate to amendments to this Act that come into force on or after 1 July 2001, have effect for the purposes of this Act.
-(2) The transitional and savings provisions relating to, or to the provisions of, the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 32 specified in the second column of that table:The following table has 2 columns. Column 1 is headed Amendment Act or provisions of it and column 2 is headed Schedule 32 Part.Amendment Act or provisions of itSchedule 32 PartSocial Security Amendment Act 2001Part 1Social Security (Benefit Categories and Work Focus) Amendment Act 2013Part 2Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014Part 3
+(2) The transitional and savings provisions relating to, or to the provisions of, the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 32 specified in the second column of that table:The following table has 2 columns. Column 1 is headed Amendment Act or provisions of it and column 2 is headed Schedule 32 Part.Amendment Act or provisions of itSchedule 32 PartSocial Security Amendment Act 2001Part 1Social Security (Benefit Categories and Work Focus) Amendment Act 2013Part 2Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014Part 3Social Security Amendment Act (No 2) 2015Part 4
 
 ### 4 Social Security Department
 [Repealed]
@@ -1435,7 +1441,7 @@ The purpose of sections 60GAE and 60GAF is to improve the financial and social o
   (b) he or she is ordinarily resident in that country.
 (2) An additional dependent child aged 1 or over must not be included in the determination for the purposes of the definitions of part-time work-tested beneficiary, work-tested sole parent support beneficiary, and work-tested spouse or partner in section 3(1) and section 60Q(1) or for the purposes of section 20D(1)﻿(c) (which relates to eligibility for sole parent support) of—
   (a) the age of the youngest dependent child of the beneficiary parent concerned; and
-  (b) whether the beneficiary parent concerned has a dependent child or children under 5 or 14 (and if so, how many).
+  (b) whether the beneficiary parent concerned has a dependent child or children under 3 or 14 (and if so, how many).
 (3) Subsection (2) may apply to 2 or more additional dependent children of the same beneficiary parent.
 (3A) In applying subsection (2) to a beneficiary of a kind specified in one of the following paragraphs for the purposes only of section 20D(1)﻿(c) (which relates to eligibility for sole parent support), An additional dependent child aged 1 or over must be read as An additional dependent child at all times after that child is born:
   (a) a beneficiary transferred to jobseeker support by clause 2(11) of Schedule 32:
@@ -1563,14 +1569,14 @@ The purposes of section 60Q are—
 
 ### 60Q Certain obligations may be placed on beneficiaries and their spouses and partners
 (1) This section applies to every person (other than a person who is a work-tested beneficiary or is for the time being exempted under section 105) who—
-  (a) is the recipient of a benefit under section 20D (sole parent support) and has a youngest dependent child under the age of 5 years; or
+  (a) is the recipient of a benefit under section 20D (sole parent support) and has a youngest dependent child under the age of 3 years; or
   (b)
   (ba) is a sole parent with a dependent child under the age of 1 year, and is a recipient of a benefit under section 88B (jobseeker support) instead of a benefit under section 20D (sole parent support) solely because that child is an additional dependent child (within the meaning of section 60GAE(1)); or
   (bb) is the recipient of a benefit under section 40B (supported living payment on the ground of sickness, injury, disability, or total blindness) if the chief executive is satisfied that the person has the capacity to comply with obligations under subsection (3); or
   (bc) is the recipient of a benefit under section 40D (supported living payment on the ground of caring for patient requiring care) if the chief executive is satisfied that the person has the capacity to comply with requirements under subsection (3); or
   (c) is the spouse or partner of a person who—
     (i) is the recipient of an emergency benefit, a supported living payment, or jobseeker support; and
-    (ii) has a youngest dependent child aged under 5 years.
+    (ii) has a youngest dependent child aged under 3 years.
 (1A) This section also applies (despite subsection (1)) to a person who—
   (a) is a work-tested beneficiary (other than one to whom subsection (1)﻿(ba) applies); and
   (b) has been granted under section 88I a deferral of the person's work test obligations.
@@ -1697,7 +1703,7 @@ A person must comply with the person's social obligations under section 60RA(3) 
   (a) the spouse or partner of a person granted an emergency benefit at a work-test couple rate; or
   (b) a person (being a person who is under the age of 60) granted an emergency benefit under regulations made under section 155.
 (1A) The chief executive may, by notice in writing, require the spouse or partner of a person granted an emergency benefit at a work-test couple rate to comply with the work test if the chief executive is satisfied that it is appropriate and reasonable to require that spouse or partner to seek, undertake, and be available for—
-  (a) part-time work, in the case of a spouse or partner whose youngest dependent child is aged 5 or older but under 18 years; or
+  (a) part-time work, in the case of a spouse or partner whose youngest dependent child is aged 3 or older but under 14 years; or
   (b) full-time employment, in any other case.
 (2) A person to whom this section applies—
   (a) must comply with—
@@ -2028,12 +2034,16 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
 ### 61HA Annual CPI adjustment of rates of certain benefits
 (1) In this section, CPI means the consumers price index-all groups published by Statistics New Zealand.
 (2) The rates of benefits set out in Schedules 3, 3A, 4, 6, 9, 16, and 26 (other than any rate of incentive payment), and in clause 1 of Schedule 22 must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate is the rate at that date adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December 1 year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
+(2A) Despite subsection (2), if any rate of benefit referred to in that subsection is increased on 1 April 2016 by the Social Security Amendment Act (No 2) 2015,—
+  (a) the adjustment to that rate of benefit as at 1 April 2016 required by subsection (2) is to that rate as at 31 March 2016; and
+  (b) the amount by which the rate was increased by the Social Security Amendment Act (No 2) 2015 on 1 April 2016 is additional to the adjustment referred to in paragraph (a).
 (3) The adjustments (by any percentage movement upwards in the CPI) required under subsection (2) as at 1 April in any year from 2011 to 2017 (inclusive) must, despite subsections (1) and (2), be calculated,—
   (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the consumers price index-all groups published by Statistics New Zealand; and
   (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.
 (4) An adjustment under subsection (2) must not reduce the weekly amounts of benefits payable under those schedules.
 (5) Every Order in Council made under subsection (2) comes into force or is considered to come into force on 1 April of the calendar year in which it is made, and applies to benefits payable on and after that date.
 (6) Section 61H(2) and (5) applies to every Order in Council made under subsection (2) as if that order were made under that section.
+(7) Subsection (2A) is repealed on 30 April 2016, and this subsection is repealed immediately after.
 
 ### 61I Areas for accommodation supplement purposes may be altered by Order in Council
 (1) The Governor-General may by Order in Council, amend the definitions of the terms Area 1, Area 2, and Area 3—
@@ -3667,8 +3677,8 @@ A notice may be given under section 113 to a person—
   (d) the chief executive considers that the person has, without a good and sufficient reason, failed to undergo an assessment that the person is required to undergo under section 100B; or
   (e) the person is a work-tested beneficiary, and the chief executive considers that the person has, without a good and sufficient reason, failed to comply with any of the work test obligations as set out in section 102A (including, without limitation, any drug testing obligations under section 102B(1) that, under section 102A(1A), are included in, and form part of, a work test obligation under section 102A(1)﻿(a), (c), or (f)﻿(ii) or (iv)); or
   (f) the person is required by this paragraph to be treated as a person to whom paragraph (e) applies because the person fails, without good and sufficient reason, to apply for suitable employment that requires candidates to undertake drug tests; or
-  (g) the person is required by this paragraph to be treated as a person to whom paragraph (e) applies because the person is a full-time work-tested beneficiary who leaves, without good and sufficient reason, or is dismissed for misconduct from, part-time work or employment averaging less than 15 hours a week; or
-  (h) the person is required by this paragraph to be treated as a person to whom paragraph (e) applies because the person is a part-time work-tested beneficiary who leaves, without good and sufficient reason, or is dismissed for misconduct from, employment averaging less than 15 hours a week; or
+  (g) the person is required by this paragraph to be treated as a person to whom paragraph (e) applies because the person is a full-time work-tested beneficiary who leaves, without good and sufficient reason, or is dismissed for misconduct from, part-time work or employment averaging less than part-time work; or
+  (h) the person is required by this paragraph to be treated as a person to whom paragraph (e) applies because the person is a part-time work-tested beneficiary who leaves, without good and sufficient reason, or is dismissed for misconduct from, employment averaging less than part-time work; or
   (i) the person is a beneficiary granted an exemption from the work test, and the chief executive considers that the person has, without a good and sufficient reason, failed to attend an interview as required under section 105(5).
 (2) Section 60H(6) and (7) (which relate to dealing with voluntary unemployment or loss of employment through misconduct, etc) apply with all necessary modifications to a person to whom subsection (1)﻿(g) or (h) of this section applies.
 (3) A work-tested beneficiary who indicates that he or she would fail a drug test that an employer would require for an opportunity of suitable employment is for the purposes of subsection (1)﻿(f) taken to be a person who fails, without good and sufficient reason, to apply for suitable employment that requires candidates to undertake drug tests (and therefore to be a person required by subsection (1)﻿(f) to be treated as a person to whom subsection (1)﻿(e) applies).
@@ -5002,7 +5012,7 @@ The chief executive may assign a contracted service provider to a young person,�
 
 ## Schedule 3 — Rates of generally abolished former widows' benefits under section 21 as saved by clause 3 of Schedule 32 for reciprocity agreement applicants or recipients
 
-| 1 | To a beneficiary with 1 or more dependent children | $300.98 a week, subject to Income Test 1 |
+| 1 | To a beneficiary with 1 or more dependent children | $325.98 a week, subject to Income Test 1 |
 | --- | --- | --- |
 | 2 | To a beneficiary without any dependent children | $218.86 a week, subject to Income Test 1 |
 | 3 | For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children. |  |
@@ -5010,7 +5020,7 @@ The chief executive may assign a contracted service provider to a young person,�
 ## Schedule 3A — Rate of sole parent support
 
 ### 1
-To a beneficiary with 1 or more dependent children: $300.98 a week, subject to Income Test 1.
+To a beneficiary with 1 or more dependent children: $325.98 a week, subject to Income Test 1.
 
 ### 2
 For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children.
@@ -5036,17 +5046,17 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
 | 1 | (a) | To a single beneficiary under the age of 18 years without dependent children | $212.54 a week, subject to Income Test 1 |
 | --- | --- | --- | --- |
 |  | (b) | To any other single beneficiary without dependent children | $262.64 a week, subject to Income Test 1 |
-|  | (c) | To a single beneficiary with 1 or more dependent children | $345.02 a week, subject to Income Test 1 |
-|  | (d) | [Repealed] |  |
-|  | (e) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $218.86 a week, subject to Income Test 2 |
-|  | (f) | To a beneficiary (with or without dependent children) receiving a supported living payment under section 40B on the ground of sickness, injury, disability, or total blindness who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $218.86 a week, increased by $218.86 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1 |
-|  | (g) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a veteran's pension | $218.86 a week, subject to Income Test 1 |
-|  | (h) | To a beneficiary (with or without dependent children) receiving a supported living payment under section 40D on the ground of caring for a patient requiring care, if the beneficiary is married or in a civil union, or in a de facto relationship, and the beneficiary's spouse or partner is not granted a benefit in his or her own right | $218.86 a week, subject to Income Test 1 |
+|  | (c) | To a single beneficiary with 1 or more dependent children | $370.02 a week, subject to Income Test 1 |
+|  | (d) | To a beneficiary who is married, in a civil union, or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit other than a veteran’s pension | $218.86 a week, increased by—i$25 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children and the beneficiary’s spouse or partner has not been granted a main benefit under this Act, the total rate to be subject to Income Test 2; orii$12.50 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children and the beneficiary’s spouse or partner has been granted a main benefit under this Act, the total rate to be subject to Income Test 2 |
+|  | (e) | To a beneficiary who is married, in a civil union, or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a veteran’s pension | $218.86 a week, increased by $25 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children, the total rate to be subject to Income Test 1 |
+|  | (f) | To a beneficiary receiving a supported living payment under section 40B on the ground of sickness, injury, disability, or total blindness who is married, in a civil union, or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $218.86 a week, increased by $218.86 a week in respect of his or her spouse or partner and a further $25 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children, the total rate to be subject to Income Test 1 |
+|  | (g) | To a beneficiary receiving a supported living payment under section 40D on the ground of caring for a patient requiring care, if the beneficiary is married, in a civil union, or in a de facto relationship and the beneficiary’s spouse or partner is not granted a benefit in his or her own right | $218.86 a week, increased by $25 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children, the total rate to be subject to Income Test 1 |
+|  | (h) | [Repealed] |  |
 | provided that, in computing the income of any beneficiary receiving a supported living payment under section 40B for the purpose of this schedule, the chief executive shall— |  |  |  |
 |  | (a) | disregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; and |  |
 |  | (b) | disregard all of the income of a totally blind beneficiary earned by the beneficiary's own efforts. |  |
 | 2 |  | Maximum amount from all sources where subsidy paid on earnings of blind beneficiary, in every case | $348.86 a week, increased by $43.78 a week if the beneficiary is a single person |
-| 3 |  | Despite paragraphs (e), (g), and (h) of clause 1, the rate of a supported living payment on the ground of caring for a patient requiring care under any of those paragraphs must not be less than the rates that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive the benefit on those grounds; but the rate of benefit payable by virtue of this clause must not exceed $218.86 a week. |  |
+| 3 |  | Despite clause 1(d), (e), and (g), the rate of a supported living payment on the ground of caring for a patient requiring care under any of those paragraphs must not be less than the rates that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive the benefit on those grounds; but the rate of benefit payable under this clause must not exceed—a$218.86 a week if the beneficiary and his or her spouse or partner have no dependent children; orb$243.86 a week if the beneficiary and his or her spouse have 1 or more dependent children. |  |
 
 ## Schedule 7 — Rates of miners' benefits and miners' widows' benefits
 
@@ -5063,11 +5073,11 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
 |  |  | (i) | by clause 2(9) and (11) of Schedule 32; or |  |
 |  |  | (ii) | by clause 10(6) and (8) of Schedule 32 |  |
 |  | (b) | To any other single beneficiary without dependent children |  | $210.13 a week, subject to Income Test 3 |
-|  | (ba) | To any single beneficiary whose youngest dependent child is aged at least 14 years (including, without limitation, any such beneficiary who is a beneficiary of a kind specified in clause 5A(a), (b), or (c), and see also the chief executive's discretion (to disregard specified income used to meet the cost of childcare) under clause 5B) |  | $300.98 a week, subject to Income Test 1 |
-|  | (c) | To any other single beneficiary with 1 or more dependent children |  | $300.98 a week, subject to Income Test 1 |
-|  | (d) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) |  | $175.10 a week, subject to Income Test 4 |
-|  | (e) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is not granted a benefit in his or her own right |  | $175.10 a week, increased by $175.10 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 3 |
-|  | (f) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a veteran's pension |  | $175.10 a week, subject to Income Test 3 |
+|  | (ba) | To any single beneficiary whose youngest dependent child is aged at least 14 years (including, without limitation, any such beneficiary who is a beneficiary of a kind specified in clause 5A(a), (b), or (c), and see also the chief executive's discretion (to disregard specified income used to meet the cost of childcare) under clause 5B) |  | $325.98 a week, subject to Income Test 1 |
+|  | (c) | To any other single beneficiary with 1 or more dependent children |  | $325.98 a week, subject to Income Test 1 |
+|  | (d) | To a beneficiary who is married, in a civil union, or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit other than a veteran’s pension |  | $175.10 a week, increased by—i$25 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children and the beneficiary’s spouse or partner has not been granted a main benefit under this Act, the total rate to be subject to Income Test 4; orii$12.50 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children and the beneficiary’s spouse or partner has been granted a main benefit under this Act, the total rate to be subject to Income Test 4 |
+|  | (e) | To a beneficiary who is married, in a civil union, or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a veteran’s pension |  | $175.10 a week, increased by $25 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children, the total rate to be subject to Income Test 3 |
+|  | (f) | To a beneficiary who is married, in a civil union, or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right |  | $175.10 a week, increased by $175.10 a week in respect of his or her spouse or partner and a further $25 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children, the total rate to be subject to Income Test 3 |
 |  | (g) | [Repealed] |  |  |
 |  | (h) | [Repealed] |  |  |
 |  | (i) | [Repealed] |  |  |
@@ -5075,7 +5085,7 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
 | 2 | Maximum increase in respect of a housekeeper |  |  | $175.10 a week |
 | 3 | [Repealed] |  |  |  |
 | 4 | [Repealed] |  |  |  |
-| 5 | Special rate of benefit for persons to whom section 88M(4) applies |  |  | $175.10 a week, subject to Income Test 4 |
+| 5 | Special rate of benefit for persons to whom section 88M(4) applies |  |  | $175.10 a week, increased by $12.50 a week if the beneficiary has 1 or more dependent children, the total rate to be subject to Income Test 4 |
 | 5A | A single beneficiary whose youngest dependent child is aged at least 14 years, referred to in clause 1(ba), includes, without limitation, any such beneficiary who is— |  |  |  |
 |  | (a) | a beneficiary who (as a person with a dependent child aged under 14 years) was on 15 July 2013 transferred by clause 2(6) and (8) of Schedule 32 to sole parent support that after 14 July 2013 and under section 20H(1) and (2) expired, and was replaced with jobseeker support that commenced, on the date that the beneficiary's youngest dependent child turned 14 years old; or |  |  |
 |  | (b) | a beneficiary who (as a person without a dependent child aged under 14 years) was on 15 July 2013 transferred to jobseeker support by clause 2(9) and (11) of Schedule 32; or |  |  |
@@ -5103,7 +5113,7 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
 
 ## Schedule 16 — Rates of generally abolished former DPB for solo parents under section 27B as saved by clause 3 of Schedule 32 for reciprocity agreement applicants or recipients
 
-| 1 | To a beneficiary with 1 or more dependent children | $300.98 a week, subject to Income Test 1 |
+| 1 | To a beneficiary with 1 or more dependent children | $325.98 a week, subject to Income Test 1 |
 | --- | --- | --- |
 | 2 | To a beneficiary without any dependent children | $218.86 a week, subject to Income Test 1 |
 | 3 | For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children. |  |
@@ -5194,10 +5204,10 @@ In determining the base rate in relation to a person in respect of any period th
 |  | $ |
 | --- | --- |
 | 1For a single young person without dependent children. | 175.10 a week subject to clause 10 |
-| 2For a single young person who—is aged 16 to 17 years; andis living with or being financially supported by a parent or guardian; andhas a dependent child or children. | 140.08 a week subject to clause 10 |
-| 3For any other single young person with a dependent child or children. | 300.98 a week subject to clause 10 |
+| 2For a single young person who—is aged 16 to 17 years; andis living with or being financially supported by a parent or guardian; andhas a dependent child or children. | 165.08 a week subject to clause 10 |
+| 3For any other single young person with a dependent child or children. | 325.98 a week subject to clause 10 |
 | 4For a young person who is married, in a civil union, or in a de facto relationship and is without dependent children. | 175.10 a week subject to clause 11 |
-| 5For a young person who is married, in a civil union, or in a de facto relationship and has a dependent child or children. | 175.10 a week subject to clause 11 |
+| 5For a young person who is married, in a civil union, or in a de facto relationship and has a dependent child or dependent children | 175.10 a week, increased by—i25 a week if the young person’s spouse or partner is not receiving a young parent payment, the total rate to be subject to clause 11; orii12.50 a week if the young person’s spouse or partner is receiving a young parent payment, the total rate to be subject to clause 11 |
 
 |  | $ |
 | --- | --- |
@@ -5367,8 +5377,8 @@ The chief executive must convert an assessment made under clauses 3 to 5 to a we
 |  |  | Per week |
 | --- | --- | --- |
 | 10 | For a single person aged 16 or 17 years without dependent children | $518.76 |
-| 11 | For any other single person without dependent children | $616.71 |
-| 12 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $914.71 |
+| 11 | For any other single person without dependent children | $629.04 |
+| 12 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $933.59 |
 | 13 | For a sole parent with 1 dependent child | $723.49 |
 | 14 | For any other sole parent | $762.26 |
 
@@ -5701,6 +5711,18 @@ Nothing in section 74AA(1)﻿(c) (as replaced on 15 July 2013) applies on or aft
   (a) in excess of the amount to which the person is by law entitled or to which the person has no entitlement; and
   (b) before that commencement.
 (2) The decision or determination is not required by section 86(1BA) (as inserted by section 10(2) of the Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014) to be amended, reviewed, or replaced until the chief executive determines as soon as is reasonably practicable after that commencement to amend, review, or replace it under that section (as so inserted).
+
+### Part 4 — Social Security Amendment Act (No 2) 2015
+
+### 21 Regulations for provision of financial assistance to financially disadvantaged persons
+(1) The purpose of this clause is to enable the making of regulations authorising the provision of financial assistance to any persons who are financially disadvantaged as an unintended consequence of the net effects of the amendments made by the Social Security Amendment Act (No 2) 2015, the Education Amendment Act (No 2) 2015, the Taxation (Support for Children in Hardship) Act 2015, and any related regulations or other instruments.
+(2) The chief executive may from time to time grant to a person referred to in subclause (1) financial assistance—
+  (a) of the prescribed kind and in the prescribed amount; and
+  (b) for the prescribed period; and
+  (c) in accordance with the prescribed criteria; and
+  (d) in accordance with any other requirements set out in the regulations made under subclause (3).
+(3) The Governor-General may from time to time, by Order in Council, make regulations for the purposes of this clause.
+(4) Regulations made under subclause (3) must state the date on and after which they are to have effect (which may be a date earlier than the date on which they were made).
 
 ### 1 Short Title
 This Act may be cited as the Social Security Amendment Act 1972, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
