@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2016-02-24_
+_Consolidation as at 2016-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -433,7 +433,7 @@ _Consolidation as at 2016-02-24_
     (j) the balance of a tax account or memorandum account of any type or description, or a debit or credit to such an account:
     (k) the estimation of the provisional tax payable:
     (l) whether the taxpayer must request an income statement or respond to an income statement issued by the Commissioner:
-    (m) the application of section 33A(1):
+    (m) the application of section 33AA:
     (n) a right to a tax credit:
     (o) the amount of a subsidy claimed under section RP 4 of the Income Tax Act 2007 to a listed PAYE intermediary
   - **tax recovery agreement** is defined in section 173B
@@ -1177,7 +1177,7 @@ An information holder who is required to disclose information in relation to a p
     (ii) the record is kept by a person authorised by the Commissioner under subsection (8) to keep records for taxpayers that include the taxpayer.
 (2B) A taxpayer referred to in subsection (2)﻿(e) who is required by subsection (2) to retain records is not required to retain those records for a period of more than 7 years after the end of the income year to which the records relate.
 (2C) If there are more than 1 resident foreign trustee of a foreign trust, the resident foreign trustees may appoint one of themselves as an agent for the purposes of keeping the records required by subsection (2).
-(3) A taxpayer to whom section 33A applies and who is required by subsection (2) to retain records of income of that taxpayer from which tax has been withheld or deducted at source need retain those records only until the expiry of 12 months after the end of the income year in which the income was received by the taxpayer.
+(3) A taxpayer who meets the requirements of section 33AA(1), or is issued an income statement or required to request or be issued an income statement, and who is required by subsection (2) to retain records of income of that taxpayer from which tax has been withheld or deducted at source need retain those records only until the expiry of 12 months after the end of the income year in which the income was received by the taxpayer.
 (4) This section shall not require the retention of any records—
   (a) in respect of which the Commissioner has given notice that retention is not required:
   (b) of a company which has been liquidated:
@@ -1294,7 +1294,7 @@ An information holder who is required to disclose information in relation to a p
 An employee who receives a PAYE income payment of an income-tested benefit and a PAYE income payment that does not consist of an income-tested benefit may choose, for their non-benefit income, a tax code set out in section 24B(3)﻿(bb), (c), (d), or (e) that is relevant to their circumstances.
 
 ### 24D Tax code for parental leave payment
-The tax code applying to an employee’s parental leave payment under Part 7A of the Parental Leave and Employment Protection Act 1987 is their tax code before the parental leave from their employment started unless the employee provides a further tax code notification.
+[Repealed]
 
 ### 24E Tax code for employment as private domestic worker
 An employee who wishes to have a tax code for their employment as a private domestic worker may provide their tax code notification to the Commissioner.
@@ -1759,94 +1759,70 @@ For the purposes of section 32E(2)﻿(i), when the person is part of a group of 
 **Returns, etc**
 
 ### 33 Returns of income
-(1) In each tax year, a taxpayer, other than a taxpayer to whom section 33A applies or a multi-rate PIE that calculates income tax using the exit calculation or quarterly calculation option under sections HM 42 and HM 43 of the Income Tax Act 2007, must furnish to the Commissioner a return of income in the prescribed form for the preceding tax year, together with such other particulars as may be prescribed.
+(1) In each tax year, a taxpayer, other than a person who meets the requirements of section 33AA(1), or is issued an income statement or required to request or be issued an income statement, or a multi-rate PIE that calculates income tax using the exit calculation or quarterly calculation option under sections HM 42 and HM 43 of the Income Tax Act 2007, must furnish to the Commissioner a return of income in the prescribed form for the preceding tax year, together with such other particulars as may be prescribed.
 (1B) In an income year, a trust, society or institution to which section CW 41 or CW 42 of the Income Tax Act 2007 applies, may furnish to the Commissioner a return of income in the prescribed form for the preceding tax year, together with such other particulars as may be prescribed if the trust, society or institution receives a taxable Maori authority distribution.
 (1C) A multi-rate PIE or a proxy for an investor in the entity that calculates income tax using the exit calculation or quarterly calculation options under sections HM 42 and HM 43 of that Act must provide returns for which the entity is responsible under section 57B.
 (2) A return must contain a notice of the assessment required to be made under section 92.
 (3) Subsection (2) does not apply if subsection (1B) applies.
 (4) The nominated company for a consolidated group is treated as a taxpayer for the purposes of this section. A company that is a member of a consolidated group in a tax year must not provide a separate return for a tax year, but this restriction applies only to a tax year, or a part of a tax year, in which the company is part of the group.
 
+### 33AA Exceptions to requirement for return of income
+(1) A natural person is not required to furnish a return of income for a tax year if, for the corresponding income year, the person—
+  (a) derives no assessable income other than income meeting the requirements of subsection (2); and
+  (b) derives no income from employment for which an amount of tax that is withheld or deducted is determined under a special tax code certificate issued under section 24F; and
+  (c) derives from schedular payments a total amount of $200 or less, not including an amount or proportion of an amount for which the Commissioner has made a determination under section RD 8(3) of the Income Tax Act 2007; and
+  (d) derives no beneficiary income or has assessable income of $200 or less; and
+  (e) derives no income for providing personal services to a claimant under the Accident Compensation Act 2001 or meets the requirements of section 33C; and
+  (f) is at all times—
+    (i) a New Zealand resident:
+    (ii) a non-resident deriving no income with a source in New Zealand other than non-resident passive income referred to in section RF 2(3) of the Income Tax Act 2007; and
+  (g) is not a provisional taxpayer; and
+  (h) is a cash basis person; and
+  (i) has no tax loss balance or tax loss component, other than a tax loss component under section LE 2 of the Income Tax Act 2007; and
+  (j) has no loss balance; and
+  (k) has not carried forward to the tax year a tax credit under section LE 3 of the Income Tax Act 2007; and
+  (l) at no time holds an RWT exemption certificate under section 32E; and
+  (lb) for an inflation-indexed instrument, derives no interest payment for which RWT is capped by the application of section RE 18B(1)﻿(a) of the Income Tax Act 2007; and
+  (m) is not required under section 44 to furnish a return of income; and
+  (n) is not considered by the Commissioner to be a person who should furnish a return of income; and
+  (o) is not issued a family notice of entitlement for any part of the tax year; and
+  (p) is not living in a marriage, civil union, or de facto relationship, with a person who—
+    (i) is issued with a family notice of entitlement for any part of the tax year:
+    (ii) is paid by the chief executive of the administering department a family assistance credit for which the amount of family credit abatement under section MD 13 of the Income Tax Act 2007 is greater than zero.
+(2) A person’s assessable income meets the requirements of this subsection if the assessable income,—
+  (a) except for a total of $200 or less, consists of—
+    (i) income from employment that is subject to the PAYE rules:
+    (ii) interest or a dividend that is subject to the RWT rules:
+    (iii) interest or a dividend that does not have a New Zealand source:
+    (iv) a taxable Maori authority distribution:
+    (v) a schedular payment; and
+  (b) includes a total of $200 or less of amounts referred to in subsection (3).
+(3) The amounts relevant to subsection (2)﻿(b) for a person and an income year are—
+  (a) an amount of income for which the obligations under the PAYE rules of the person are not met:
+  (b) an amount of income from which the combined tax and earner-related payment is not withheld correctly:
+  (c) an amount of interest or a dividend that is resident passive income to which section RE 3(1)﻿(c) of the Income Tax Act 2007 applies, other than interest for which an RWT withholding certificate was not required under section 25(7), and from which RWT is withheld at a rate other than—
+    (i) 0.175, if the person's annual gross income is more than $14,000 and not more than $48,000; or
+    (ii) 0.300, if the person's annual gross income is more than $48,000 and not more than $70,000; or
+    (iii) 0.330, if the person's annual gross income is more than $70,000:
+  (d) an amount of income from employment that is an extra pay from which tax is withheld at a rate other than—
+    (i) 0.175, if the person's annual gross income is more than $14,000 and not more than $48,000; or
+    (ii) 0.300, if the person's annual gross income is more than $48,000 and not more than $70,000; or
+    (iii) 0.330, if the person's annual gross income is more than $70,000:
+  (e) an amount of income from employment that is secondary employment earnings from which tax is withheld at a rate other than—
+    (i) 0.175, if the person's annual gross income is more than $14,000 and not more than $48,000; or
+    (ii) 0.300, if the person's annual gross income is more than $48,000 and not more than $70,000; or
+    (iii) 0.330, if the person's annual gross income is more than $70,000:
+  (f) a taxable Maori authority distribution if the person's annual gross income is more than $48,000:
+  (g) an amount of interest, a dividend, or a taxable Maori authority distribution if the person is required to pay financial support in the tax year under the Child Support Act 1991:
+  (h) an amount of interest or a dividend that does not have a New Zealand source and is not resident passive income to which section RE 3(1)﻿(c) of the Income Tax Act 2007 applies:
+  (i) an amount of salary or wages from employment as an election day worker, if the worker has used the EDW tax code:
+  (j) an amount of salary or wages from employment as casual agricultural employee, if the worker has used the CAE tax code.
+(4)
+(5)
+(6)
+
 ### 33A Annual returns of income not required
-(1) A natural person is not required to furnish a return of income for a tax year and will not receive an income statement from the Commissioner for the year if, in the corresponding income year, the person—
-  (a) had assessable income for the tax year that was derived only from—
-    (i) income from employment that is subject to the PAYE rules; or
-    (ii) interest or a dividend that is subject to the RWT rules; or
-    (iii) interest or a dividend that does not have a New Zealand source; or
-    (iiib) a taxable Maori authority distribution; or
-    (iiic) a schedular payment; or
-    (iv) a source or sources other than those listed in subparagraphs (i) to (iiic) and the total amount derived is $200 or less; and
-  (b) derives a total of $200 or less of—
-    (i) income that is subject to the PAYE rules in relation to which the person's obligations under those rules are not met; and
-    (ii)
-    (iii) income from employment from which the earner premium or earner levy is not withheld or deducted correctly; and
-    (iv) interest or a dividend that is resident passive income to which section RE 3(1)﻿(c) of the Income Tax Act 2007 applies (other than interest for which an RWT withholding certificate did not have to be prepared under section 25(7)), from which RWT has been withheld at a rate other than that specified in—
-      (AA)
-      (AAA) Schedule 1, Part D, table 2, row 5 or 6 of the Income Tax Act 2007 if that person's annual gross income is more than $14,000 but not more than $48,000; or
-      (A) Schedule 1, Part D, table 2, row 4 of the Income Tax Act 2007 if that person’s annual gross income is more than $48,000 but not more than $70,000; or
-      (BA)
-      (B) Schedule 1, Part D, table 2, row 1, 2, or 3 of the Income Tax Act 2007 if that person’s annual gross income is more than $70,000; and
-    (v) income from employment being extra emoluments from which tax has been withheld at a rate other than that specified in—
-      (AA)
-      (AAA) Schedule 2, Part B, row 2 of the Income Tax Act 2007 if that person's annual gross income is more than $14,000 but not more than $48,000; or
-      (A) Schedule 2, Part B, table 1, row 3 of the Income Tax Act 2007 if that person's annual gross income is more than $48,000 but not more than $70,000; or
-      (BA)
-      (B) Schedule 2, Part B, table 1, row 4 of the Income Tax Act 2007 if that person's annual gross income is more than $70,000; and
-    (vi) income from employment being secondary employment earnings from which tax has been withheld at a rate other than that specified in—
-      (AA)
-      (AAA) Schedule 2, Part A, clause 4 of the Income Tax Act 2007 if that person's annual gross income is more than $14,000 but not more than $48,000; or
-      (A) Schedule 2, Part A, clause 5 of the Income Tax Act 2007 if that person's annual gross income is more than $48,000 but not more than $70,000; or
-      (BA)
-      (B) Schedule 2, Part A, clause 6 of the Income Tax Act 2007 if that person's annual gross income is more than $70,000; and
-    (via)
-    (vib) taxable Maori authority distributions if the person's annual gross income is more than $48,000; and
-    (vii) interest, dividends, or taxable Maori authority distributions, if the person is required to pay financial support in the tax year under the Child Support Act 1991; and
-    (viii)
-    (ix) salary or wages from employment as an election day worker, if the worker has used the EDW tax code; and
-    (ixa) salary or wages from employment as a casual agricultural employee, if the employee has used the CAE tax code; and
-    (ixb)
-    (ixc)
-    (x) interest or a dividend that—
-      (A) does not have a New Zealand source; and
-      (B) was not resident passive income to which section RE 3(1)﻿(c) of the Income Tax Act 2007 applies; and
-    (xi) attributed PIE income that is not excluded income; and
-  (c) does not receive income from employment from which an amount of tax is withheld or deducted and the amount is determined in whole or in part by a special tax code certificate issued under section 24F; and
-  (d) is not issued a family notice of entitlement for any part of the tax year; and
-  (e) is not living in a marriage, civil union, or de facto relationship, with a person who is issued with a family notice of entitlement for any part of the tax year; and
-  (f) or the person with whom the natural person lives in a marriage, civil union, or de facto relationship, is not paid by the chief executive of the administering department a family assistance credit for which the amount of family credit abatement under section MD 13 of the Income Tax Act 2007 is greater than zero; and
-  (g)
-  (h)
-  (i)
-  (j)
-(1B) A natural person is not required to furnish a return of income for a tax year and will not receive an income statement from the Commissioner for the year if, in the corresponding income year, the person is a non-resident seasonal worker.
-(2) Subsection (1) does not apply to a natural person who, in the tax year—
-  (a) is a non-resident; or
-  (b) is a provisional taxpayer; or
-  (c) is not a cash basis person; or
-  (cb)
-  (d) derives from schedular payments a total amount of more than $200 that is not—
-    (i) an amount or proportion of a schedular payment for which the Commissioner has made a determination under section RD 8(3) of the Income Tax Act 2007:
-    (ii) income that is a personal service rehabilitation payment for a claimant under the Accident Compensation Act 2001; or
-  (dba) derives assessable income of more than $200 that includes beneficiary income; or
-  (db)
-  (e) has a tax loss or tax loss component, other than a tax loss component under section LE 2 of the Income Tax Act 2007; or
-  (f) has a loss balance; or
-  (g) has carried forward to the income year a tax credit under section LE 3 of the Income Tax Act 2007; or
-  (h) held an RWT exemption certificate under section 32E at any time in the tax year; or
-  (i) for an inflation-indexed instrument, derives an interest payment for which RWT is capped by the application of section RE 18B(1)﻿(a) of the Income Tax Act 2007.
-  (j)
-  (k)
-  (kb)
-  (l)
-  (m)
-  (n)
-  (o)
-(2B) Subsection (1) does not apply to a natural person who, at any time,—
-  (a) is required under section 44 to furnish a return of income for the tax year; or
-  (b) leaves New Zealand and contacts the Commissioner for an assessment for the tax year; or
-  (c) is a person who the Commissioner considers should furnish a return of income for the tax year.
-(3) A person to whom subsection (2) or subsection (2B) applies for a tax year is required to furnish a return of income for that year and is not a person to whom an income statement is required to be issued.
-(4) Subject to section 80D, the Commissioner may not issue an income statement to a person to whom subsection (1) applies.
-(5) The Commissioner may issue an income statement to a natural person to whom none of section 33A(1), (2) and (2B) applies.
+[Repealed]
 
 ### 33B Return not required for certain scheduler gross income
 [Repealed]
@@ -1856,7 +1832,10 @@ A natural person who derives income in an income year for providing personal ser
   (a) a personal service rehabilitation payment is made for the claimant and for the personal services; and
   (b) the taxable income of the person does not exceed $14,000 for the tax year; and
   (c) tax is withheld at the rate of 10.5% from the personal service rehabilitation payment; and
-  (d) the person is not required to furnish a return of income under section 33A(1) for the tax year, ignoring for the purposes of that section income from providing personal services for which personal service rehabilitation payments are made.
+  (d) the person meets the requirements of section 33AA(1) for the tax year, ignoring for the purposes of that section income from providing personal services for which personal service rehabilitation payments are made.
+
+### 33D Return not required for non-resident seasonal worker
+A person who is a non-resident seasonal worker in an income year corresponding to a tax year is not required to furnish a return of income for the tax year and will not receive an income statement from the Commissioner for the year.
 
 ### 34 Presumption as to authority of person making return
 A return purporting to be made by or on behalf of any person shall for all purposes be deemed to have been made by that person or by that person's authority, as the case may be, unless the contrary is proved.
@@ -2005,7 +1984,7 @@ An employer that is not required to furnish an employer monthly schedule electro
 (6)
 
 ### 38 Returns to annual balance date
-(1) Instead of furnishing a tax year return under section 33 on the basis of a corresponding income year that ends on 31 March, a taxpayer (other than a taxpayer to whom section 33A(1) or (5) applies) may, with the consent of the Commissioner, elect to furnish a return based on a corresponding income year that ends with the date of the annual balance of the taxpayer's accounts.
+(1) Instead of furnishing a tax year return under section 33 on the basis of a corresponding income year that ends on 31 March, a taxpayer (other than a person who meets the requirements of section 33AA(1), or is issued an income statement or required to request or be issued an income statement,) may, with the consent of the Commissioner, elect to furnish a return based on a corresponding income year that ends with the date of the annual balance of the taxpayer's accounts.
 (1B) A multi-rate PIE that does not calculate and pay tax using the provisional tax calculation option under section HM 44 of the Income Tax Act 2007 must not make an election under subsection (1).
 (2)
 (3) Any election made by a taxpayer for the purposes of this section shall continue in force unless and until it is altered by the taxpayer with the prior approval in writing of the Commissioner.
@@ -2057,10 +2036,11 @@ An employer that is not required to furnish an employer monthly schedule electro
 (3) Subsection (4) applies if, apart from this section, a person is not required to furnish a return of income for a tax year and—
   (a) for the whole or part of the tax year the person is issued with a family notice of entitlement under subparts MA to MF and MZ of the Income Tax Act 2007; or
   (b) after the end of the income year, the person applies to the Commissioner for a family assistance credit or a minimum family tax credit for that tax year.
-(4) A person must furnish a return to the Commissioner for the tax year whether or not the person derived income in the tax year, together with—
-  (a)
-  (b) such other details as may be prescribed or required by the Commissioner.
-(5) The provisions of this Act, so far as they are applicable and with any necessary modifications, apply to every return furnished or required to be furnished under subsection (4) as if the return were furnished or required to be furnished under section 33.
+(4) Whether or not the person derived income in the tax year, the person must furnish to the Commissioner a return for the tax year, in the form prescribed by the Commissioner, providing—
+  (a) details of each family assistance credit paid to the person in the tax year; and
+  (b) the information relevant to the calculation of the person's family scheme income for the tax year; and
+  (c) other information required by the Commissioner.
+(5)
 (6) A person who is eligible for a tax credit under subparts MA to MF and MZ of the Income Tax Act 2007 in an income year, or would be eligible if their spouse, civil union partner, or de facto partner were not a transitional resident, and who would otherwise be a transitional resident in an income year may apply not to be a transitional resident under section HR 8(4) of that Act.
 (7) A notice of election under section HR 8(4) must be—
   (a) in a form acceptable to the Commissioner; and
@@ -2133,8 +2113,8 @@ An employer that is not required to furnish an employer monthly schedule electro
 (1) The executor or administrator of a deceased taxpayer must furnish the same returns of income and make the same assessments that the taxpayer was required to furnish or make, or would have been required to furnish or make, if the taxpayer had remained alive.
 (2) The Commissioner may from time to time require the executor or administrator to furnish such further returns of income for the deceased taxpayer as the Commissioner considers necessary.
 (3) Income tax assessed in respect of a deceased taxpayer, whether or not under subsection (1), is to be treated as a liability incurred by the deceased taxpayer during their lifetime, and the executor or administrator of the taxpayer is liable for the same accordingly.
-(4) The executor or administrator of a deceased taxpayer must request the Commissioner to issue an income statement if the taxpayer would have been a person to whom section 33A(5) refers if the taxpayer had remained alive and the Commissioner has not issued an income statement.
-(5) The executor or administrator of a deceased taxpayer may request the Commissioner to issue an income statement if the taxpayer would have been a person to whom section 33A(1) applied if the taxpayer had remained alive.
+(4) The executor or administrator of a deceased taxpayer must request the Commissioner to issue an income statement if the taxpayer would have been required under section 80D(2) to apply for an income statement if the taxpayer had remained alive and the Commissioner has not issued an income statement.
+(5) The executor or administrator of a deceased taxpayer may request the Commissioner to issue an income statement if the taxpayer would have met the requirements of section 33AA(1) if the taxpayer had remained alive.
 
 ### 43A Non-active companies may be excused from filing returns
 (1) A company is not required to furnish a return of income in respect of any tax year if the company—
@@ -2819,19 +2799,21 @@ In addition to the returns mentioned in sections 33, 41 to 44, 63, and 79, every
 
 ### 80A Application
 (1) This Part applies to a natural person who derives income from employment, or receives interest and dividends, and who—
-  (a) is a person to whom section 33A(5) applies; or
-  (b) is a person exempted under section 33A from the requirement to furnish an annual return of income or to be issued an income statement and who asks the Commissioner to issue an income statement under section 80C(4); or
-  (c) is a person exempted under section 33A from the requirement to furnish an annual return of income and is a person to whom an income statement is not required to be issued but who has been issued an income statement under section 80D(2).
+  (a) is a person who—
+    (i) is not exempted under section 33AA from the requirement to furnish an annual return of income; and
+    (ii) meets the requirements of section 33AA(1)﻿(k) to (n); or
+  (b) is a person exempted under section 33AA from the requirement to furnish an annual return of income or to be issued an income statement and who asks the Commissioner to issue an income statement under section 80C(4); or
+  (c) is a person exempted under section 33AA from the requirement to furnish an annual return of income and is a person to whom an income statement is not required to be issued but who has been issued an income statement under section 80D(2).
 (2) This Part applies to the 1999–2000 and subsequent tax years.
 
 ### 80B Notification required that taxpayer not subject to this Part
-(1) A natural person who receives an income statement and who is not subject to this Part in a tax year because the person derived income other than from employment, interest or dividends, or who is a person to whom section 33A(2) applies, must inform the Commissioner that the person is not (for that tax year) subject to this Part.
+(1) A natural person who receives an income statement and who is not subject to this Part in a tax year because the person does not meet the requirements of section 33AA(1), must inform the Commissioner that the person is not (for that tax year) subject to this Part.
 (2) The information required must be received by the Commissioner no later than the person's terminal tax date for the tax year to which the income statement relates.
 (3)
 (4) An income statement to which section 80B(1) refers is to be regarded as not having been issued.
 
 ### 80C Requests for income statements
-A person to whom section 33A(1) applies may, at any time after the end of the person's tax year, request the issue of an income statement relating to that year.
+A person who meets the requirements of section 33AA(1) may, at any time after the end of the person's tax year, request the issue of an income statement relating to that year.
 
 ### 80D Commissioner must issue income statement
 (1) For each income year, the Commissioner must issue an income statement to a person who the Commissioner considers—
@@ -2842,8 +2824,8 @@ A person to whom section 33A(1) applies may, at any time after the end of the pe
   (b) did not derive in the tax year any income that is not referred to in paragraph (a); and
   (c) is a person—
     (i)
-    (ii) to whom section 33A(1) does apply and who requests the Commissioner to issue an income statement:
-    (iii) to whom section 33A(1) does apply and who, because the person’s employer is not required to withhold an amount of tax for a PAYE income payment to the person, is required by section RD 4(2) of the Income Tax Act 2007 to provide to the Commissioner an employer monthly schedule relating to a PAYE income payment that the person derived in the tax year.
+    (ii) who meets the requirements of section 33AA(1) and who requests the Commissioner to issue an income statement:
+    (iii) who meets the requirements of section 33AA(1) and who, because the person’s employer is not required to withhold an amount of tax for a PAYE income payment to the person, is required by section RD 4(2) of the Income Tax Act 2007 to provide to the Commissioner an employer monthly schedule relating to a PAYE income payment that the person derived in the tax year.
 (2) Despite subsection (1), the Commissioner may issue an income statement to a person, or require a person to apply for an income statement, at any time if the Commissioner considers the person has received income in a tax year.
 (3) The Commissioner may issue more than 1 income statement in respect of a tax year to a person.
 
@@ -2870,7 +2852,7 @@ A person to whom section 33A(1) applies may, at any time after the end of the pe
 (6) If the Commissioner accepts as correct the information given by the person under subsection (1), the Commissioner must issue another income statement that incorporates that information.
 (6A) Subsection (6) does not apply if—
   (a) the taxpayer receives an income statement due to incorrect information held by the Commissioner; and
-  (b) section 33A(1) applies to the taxpayer; and
+  (b) the taxpayer meets the requirements of section 33AA(1); and
   (c) the taxpayer has not requested an income statement.
 (7) If the Commissioner does not accept as correct all the information given by the person under subsection (1), the Commissioner may issue to the person a further income statement or an assessment that includes those particulars in section 80E that the Commissioner accepts as being applicable to the person.
 
@@ -3249,7 +3231,9 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
     (ii) that is communicated to that person for the purposes of section 85K:
   (t) communicating to any person who is an employee of the Treasury (as defined in section 2 of the Public Finance Act 1989), any information communicated to that person for the purposes of section LH 15 of the Income Tax Act 2007:
   (u) communicating to a person's fund provider under section 220B of the KiwiSaver Act 2006 any information specified in that section for the purposes set out in the section:
-  (v) communicating to the chief executive, or an authorised employee, of Land Information New Zealand under section 156J of the Land Transfer Act 1952 any information specified in subsection (1) of that section for the purpose set out in that subsection.
+  (v) communicating to the chief executive, or an authorised employee, of Land Information New Zealand under section 156J of the Land Transfer Act 1952 any information specified in subsection (1) of that section for the purpose set out in that subsection:
+  (w) communicating to an officer, employee, or agent of Callaghan Innovation, information for the purpose of administering subpart MX of the Income Tax Act 2007:
+  (x) communicating to an officer, employee, or agent of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Research, Science, and Technology Act 2010, information for the purpose of administering subpart MX of the Income Tax Act 2007.
 (5) For the purposes of this section, unless the context otherwise requires, every reference to the New Zealand Superannuation Act 1974 shall be deemed to include a reference to Part 1 of the Superannuation Schemes Act 1976, and every reference to the New Zealand Superannuation Corporation shall be deemed to include a reference to the National Provident Fund Board in relation to its functions under Part 1 of the Superannuation Schemes Act 1976.
 (6) In this section, unless the context otherwise requires, legal personal representative, in relation to any person, means—
   (a) the executor, original or by representation, or an administrator for the time being of a deceased person:
@@ -3544,26 +3528,26 @@ Where information is supplied to the Commissioner under section 85B(2), the Comm
 
 ### 85H Disclosure of information for purposes of Parental Leave and Employment Protection Act 1987
 (1) The purpose of this section is to facilitate the exchange of information between the Commissioner and the responsible department for the purposes of providing to the responsible department, applicant information that the Commissioner considers necessary to enable the responsible department to—
-  (a) verify an entitlement to parental leave payments:
-  (b) investigate possible overpayment of parental leave payments.
-(2) For the purpose of subsection (1), an employee or agent of the responsible department who is authorised to do so by the chief executive of the responsible department may from time to time supply to the Commissioner information that is held by the responsible department in relation to an applicant, or the spouse of an applicant, for a parental leave payment.
-(3) For the purpose of subsection (1), the Commissioner may compare applicant information contained in an application for payment of paid parental leave made under section 71I of the Parental Leave and Employment Protection Act 1987, or compare applicant information supplied under subsection (2), and information held by the Commissioner that relates to the applicant.
+  (a) verify an entitlement to parental leave payments or preterm baby payments:
+  (b) investigate possible overpayment of parental leave payments or preterm baby payments.
+(2) For the purpose of subsection (1), an employee or agent of the responsible department who is authorised to do so by the chief executive of the responsible department may from time to time supply to the Commissioner information that is held by the responsible department in relation to an applicant, or the spouse of an applicant, for a parental leave payment or preterm baby payment.
+(3) For the purpose of subsection (1), the Commissioner may compare applicant information contained in an application for payment of paid parental leave or for preterm baby payments made under section 71I of the Parental Leave and Employment Protection Act 1987, or compare applicant information supplied under subsection (2), and information held by the Commissioner that relates to the applicant.
 (4) Where the Commissioner has made a comparison under subsection (3), the Commissioner may communicate applicant information to the chief executive of the responsible department if the Commissioner considers the communication to be necessary for the purposes set out in subsection (1).
 (5) In this section and in section 85I,—
-  - **applicant** means a person who has made an application for a parental leave payment under section 71I of the Parental Leave and Employment Protection Act 1987
+  - **applicant** means a person who has made an application for a parental leave payment or preterm baby payment under section 71I of the Parental Leave and Employment Protection Act 1987
   - **applicant information** , for an applicant, means—
-    (a) information that relates to the circumstances of the applicant that are relevant to the eligibility of the applicant for parental leave payments under Part 7A of the Parental Leave and Employment Protection Act 1987:
+    (a) information that relates to the circumstances of the applicant that are relevant to the eligibility of the applicant for parental leave payments or preterm baby payments under Part 7A of the Parental Leave and Employment Protection Act 1987:
     (b) the applicant's name and tax file number:
     (c) the name and tax file number of the applicant's employer
   - **parental leave** has the meaning in section 2 of the Parental Leave and Employment Protection Act 1987
   - **responsible department** means the department for the time being responsible for the administration of the Parental Leave and Employment Protection Act 1987.
 
 ### 85I Use of Parental Leave and Employment Protection Act 1987 and parental tax credit information to determine entitlement
-(1) For the purpose of section 71G(1) of the Parental Leave and Employment Protection Act 1987, if the Commissioner as a delegate under section 71ZA of that Act receives an application for parental leave payments in relation to a child, the Commissioner may—
+(1) For the purpose of section 71G(1) of the Parental Leave and Employment Protection Act 1987, if the Commissioner as a delegate under section 71ZA of that Act receives an application for parental leave payments or preterm baby payments in relation to a child, the Commissioner may—
   (a) compare applicant information and information held by the Commissioner:
-  (b) refuse the application for payment of parental leave if a comparison under paragraph (a) indicates that the employee or his or her spouse has received a payment of parental tax credit in respect of the child.
+  (b) refuse the application for payment of parental leave or for preterm baby payments if a comparison under paragraph (a) indicates that the employee or his or her spouse has received a payment of parental tax credit in respect of the child.
 (2) The Commissioner may treat information obtained while acting as a delegate of the responsible department under section 71ZA of the Parental Leave and Employment Protection Act 1987 as information obtained for the purposes of administering the Inland Revenue Acts.
-(3) The Commissioner may refuse or recover a parental tax credit under section MD 11 of the Income Tax Act 2007 in respect of a child if a parental leave payment under Part 7A of the Parental Leave and Employment Protection Act 1987 is to be paid or has been paid to the applicant in respect of the child.
+(3) The Commissioner may refuse or recover a parental tax credit under section MD 11 of the Income Tax Act 2007 in respect of a child if a parental leave payment or preterm baby payment under Part 7A of the Parental Leave and Employment Protection Act 1987 is to be paid or has been paid to the applicant in respect of the child.
 
 ### 85J Disclosure of information for administration of Australian wine producer rebate
 (1) The purpose of this section is to facilitate the exchange of information between the Commissioner and the Australian Taxation Office and the New Zealand Customs Service for the purpose of administering the entitlements of New Zealand resident wine producers to Australian wine producer rebates.
@@ -4829,9 +4813,7 @@ The fact that there has been an application for a private ruling or a product ru
 (2) An assessment under this section is made on the date on which the taxpayer's return of income is received at an office of the department.
 (3)
 (4)
-(5) This section does not apply to a taxpayer—
-  (a) in respect of whom a tax credit identified in subparts MA to MF and MZ of the Income Tax Act 2007 is calculated by the Commissioner; and
-  (b) for the tax year to which the tax credit relates.
+(5)
 (6) This section does not apply to a taxpayer—
   (a) in respect of whom the Commissioner has made an assessment; and
   (b) for the tax year to which the assessment relates.
@@ -4841,7 +4823,7 @@ The fact that there has been an application for a private ruling or a product ru
 [Repealed]
 
 ### 92AA Assessment for tax credits under Part M of Income Tax Act 2007
-The Commissioner must make an income tax assessment for a tax year for a taxpayer who has a tax credit identified in Part M of the Income Tax Act 2007 for the year.
+[Repealed]
 
 ### 92AB Assessments of liabilities of shareholders of qualifying companies
 (1) The Commissioner may assess the liability of a shareholder who has agreed under section HA 8 of the Income Tax Act 2007 to be personally liable for their share of the income tax payable by a qualifying company.
@@ -5207,6 +5189,7 @@ An assessment made by the Commissioner is not invalidated—
 
 ### 120B Persons excluded
 Nothing in this Part applies to—
+  (aa)
   (a) a person (other than an employer and the Commissioner) specified in section 157A in relation to the person's obligations under a tax law specified in that section:
   (b) a liable person in relation to child support (both as defined in the Child Support Act 1991):
   (bb) an employer in relation to amounts of compulsory employer contributions that must be paid under Part 3, subpart 3A of the KiwiSaver Act 2006 to the Commissioner, including an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of that Act:
@@ -5926,7 +5909,7 @@ The purposes of this Part are—
 (4) The non-electronic filing penalty is the greater of $250 or $1 for each employee employed at any time during the month to which the employer monthly schedule relates.
 
 ### 139B Late payment penalty
-(1) This section applies to a taxpayer if and to the extent that the taxpayer does not pay by the due date (the default date) an amount of tax (the unpaid tax), calculated by the taxpayer as payable or for which the taxpayer is assessed, and—
+(1) This section applies to a taxpayer if and to the extent to which the taxpayer does not pay by the due date (the default date) an amount of tax (the unpaid tax), calculated by the taxpayer as payable or for which the taxpayer is assessed, and—
   (a) the unpaid tax is provisional tax or a penalty relating to a failure to pay provisional tax:
   (b) ignoring any failure to pay for which a penalty or interest is remitted under section 183AA, the taxpayer has failed to pay on time an amount of tax due for payment in the period—
     (i) beginning with the later of 1 April 2008 and the day 2 years before the default date; and
