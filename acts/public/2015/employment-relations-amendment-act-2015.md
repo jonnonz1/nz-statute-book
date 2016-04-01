@@ -1,5 +1,5 @@
 # Employment Relations Amendment Act 2015
-_Consolidation as at 2015-09-04_
+_Consolidation as at 2016-04-01_
 
 ### 1 Title
 This Act is the Employment Relations Amendment Act 2015.
@@ -15,8 +15,8 @@ This Act amends the Employment Relations Act 2000 (the principal Act).
 In section 67B(3), replace section 103(1)﻿(b) to (g) with section 103(1)﻿(b) to (h).
 
 ### 5 Section 103 amended (Personal grievance)
-After section 103(1)﻿(g), insert:
-  (h) that the employee’s employer has, in relation to the employee,—
+After section 103(1)﻿(i), insert:
+  (j) that the employee’s employer has, in relation to the employee,—
     (i) engaged in adverse conduct for a prohibited health and safety reason; or
     (ii) contravened section 92 of the Health and Safety at Work Act 2015 (which prohibits coercion or inducement).
 
