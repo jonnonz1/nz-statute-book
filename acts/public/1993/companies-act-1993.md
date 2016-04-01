@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2015-11-07_
+_Consolidation as at 2016-04-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -1700,6 +1700,7 @@ A company must have 1 or more directors (see section 10(d)).
   (e) a person who is prohibited from being a director or promoter of or being concerned or taking part in the management of a company under section 382, 383, 385, or 385AA:
   (eaa) a person who is prohibited from being a general partner or promoter of, or being concerned or taking part in the management of, a limited partnership under section 103A, 103B, 103D, or 103E of the Limited Partnerships Act 2008:
   (ea) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Financial Markets Conduct Act 2013 or the Takeovers Act 1993:
+  (eab) in the case of a company that is an employer, a person who is prohibited from being an officer of an employer under sections 142M and 142N(1)﻿(b) of the Employment Relations Act 2000:
   (eb) a person who is prohibited from 1 or more of the following under an order made, or a notice given, under a law of a prescribed country, State, or territory outside New Zealand:
     (i) being a director of an overseas company:
     (ii) being a promoter of an overseas company:
