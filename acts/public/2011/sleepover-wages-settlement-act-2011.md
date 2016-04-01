@@ -1,5 +1,5 @@
 # Sleepover Wages (Settlement) Act 2011
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2016-04-01_
 
 ### 1 Title
 This Act is the Sleepover Wages (Settlement) Act 2011.
@@ -15,7 +15,7 @@ This Act comes into force on the day after the date on which it receives the Roy
   (b) to provide for a staged progression towards full compliance with the Minimum Wage Act 1983 in respect of the wages payable to certain employees who perform sleepovers; and
   (c) to provide a mechanism for extending the application of subparts 1 and 2 of Part 2 to other employers that are funded through a Vote and to those employers' employees to enable, among other things, disputes that involve the same, or substantially the same, issue as that described in paragraph (a) to be settled.
 (2) To those ends, this Act—
-  (a) gives legal effect to certain aspects of the terms of the settlement of the parties referred to in subsection (1)(a); and
+  (a) gives legal effect to certain aspects of the terms of the settlement of the parties referred to in subsection (1)﻿(a); and
   (b) extinguishes certain claims for sleepover wages in respect of sleepovers performed before the commencement of this Act; and
   (c) creates entitlements to back wages for certain sleepovers; and
   (d) provides for a staged progression of payments for sleepovers towards the minimum hourly rate prescribed under the Minimum Wage Act 1983; and
@@ -181,7 +181,7 @@ An employer must pay any back wages for a sleepover that are payable to an emplo
 (2) An employer must pay any amount payable to the employee under subsection (1) no later than 2 months after the date of commencement of this Act.
 
 ### 22 Entitlement to be paid minimum hourly rates for sleepovers performed after commencement of this Act
-(1) An employer must pay an employee to whom this subpart applies for each hour of sleepover that the employee performs during the period specified in the first column of the following table at the minimum hourly rate opposite that period specified in the second column of the following table:Specified periodMinimum hourly ratePeriod beginning on the commencement of this Act and ending with the close of 30 June 201250% of the applicable minimum hourly ratePeriod beginning on 1 July 2012 and ending with the close of 24 December 201275% of the applicable minimum hourly ratePeriod beginning on 25 December 2012 and ending with the close of 30 June 2013100% of the applicable minimum hourly rate
+(1) An employer must pay an employee to whom this subpart applies for each hour of sleepover that the employee performs during the period specified in the first column of the following table at the minimum hourly rate opposite that period specified in the second column of the following table:The following table is small in size and has 2 columns. Column 1 is headed Specified period. Column 2 is headed Minimum hourly rate.Specified periodMinimum hourly ratePeriod beginning on the commencement of this Act and ending with the close of 30 June 201250% of the applicable minimum hourly ratePeriod beginning on 1 July 2012 and ending with the close of 24 December 201275% of the applicable minimum hourly ratePeriod beginning on 25 December 2012 and ending with the close of 30 June 2013100% of the applicable minimum hourly rate
 (2) On and after 1 July 2013, an employer must pay an employee to whom this subpart applies for each hour of a sleepover performed by the employee at not less than the rate of minimum hourly wage that applies under the Minimum Wage Act 1983.
 (3) To avoid doubt, this section does not limit or affect any deductions that may lawfully be made to an amount payable under subsection (1) or (2).
 
@@ -205,7 +205,7 @@ In sections 24 to 28,—
   (b) only subpart 2 in relation to the following to whom that subpart does not otherwise apply:
     (i) any other employer; and
     (ii) that other employer's employees.
-(2) An Order in Council made under subsection (1) may, subject to subsection (3) and section 25, 26, 27, or 28 (as the case may be), modify or extend any provisions of subparts 1 and 2 for either or both of the purposes stated in section 3(1)(a) and (b) as if they related to the other employer and that other employer's employees.
+(2) An Order in Council made under subsection (1) may, subject to subsection (3) and section 25, 26, 27, or 28 (as the case may be), modify or extend any provisions of subparts 1 and 2 for either or both of the purposes stated in section 3(1)﻿(a) and (b) as if they related to the other employer and that other employer's employees.
 (3) An Order in Council made under subsection (1) must not provide for a process for achieving a staged progression to the minimum hourly rate of wage that applies under the Minimum Wage Act 1983 if that process will result in the other employer's employees receiving payment for a sleepover at less than the rate they were receiving from the other employer immediately before the Order in Council is made.
 (4) An Order in Council made under subsection (1)—
   (a) may specify a date in accordance with section 25(b) or 26(a) that is before, on, or after the date on which the Order in Council comes into force; but
@@ -252,11 +252,11 @@ An Order in Council made under section 24 is a legislative instrument and a disa
 (2) If the dispute is not disposed of between the employee and the employee's employer,—
   (a) the parties may access mediation services provided under section 144 of the Employment Relations Act 2000 and, subject to subsection (3), sections 145 to 154 of that Act apply to the mediation services provided to the parties:
   (b) proceedings to resolve the dispute may be commenced before the Employment Relations Authority in accordance with section 158 of the Employment Relations Act 2000.
-(3) Despite subsection (2)(a), section 148A(2) of the Employment Relations Act 2000 does not apply in relation to any agreed terms of settlement in which a party agrees to forgo all, or part, of that party's minimum entitlements to the extent permitted by this Act.
-(4) In subsection (3), minimum entitlements has the same meaning as in section 5 of the Employment Relations Act 2000.
+(3) Despite subsection (2)﻿(a), section 148A(2) of the Employment Relations Act 2000 does not apply in relation to any agreed terms of settlement in which a party agrees to forgo all, or part, of that party's minimum entitlements to the extent permitted by this Act.
+(4) In subsection (3), minimum entitlements means wages or holiday pay or other money payable by the employer to the employee under the Holidays Act 2003 or the Minimum Wage Act 1983.
 
 ### 31 Application of Employment Relations Act 2000
-(1) If proceedings are commenced before the Employment Relations Authority in accordance with section 30(2)(b),—
+(1) If proceedings are commenced before the Employment Relations Authority in accordance with section 30(2)﻿(b),—
   (a) the Authority has all the powers and functions it has under the Employment Relations Act 2000; and
   (b) the provisions of the Employment Relations Act 2000 and of any regulations made under that Act apply, with any necessary modifications, to the extent that those provisions are relevant to the resolution of the dispute.
 (2) Without limiting subsection (1), the following provisions of the Employment Relations Act 2000 apply, with any necessary modifications:
@@ -266,14 +266,16 @@ An Order in Council made under section 24 is a legislative instrument and a disa
   (d) sections 214 to 215 (which relate to appeals to the Court of Appeal and Supreme Court on questions of law).
 
 ### 32 Enforcement of orders and judgments
-An order made or judgment given by the Employment Relations Authority or the Employment Court under section 31 may be filed in any District Court and is then enforceable in the same manner as an order made or judgment given by the District Court.
+(1) An order made or judgment given by the Employment Relations Authority or the Employment Court under section 31 may be filed in any District Court and is then enforceable in the same manner as an order made or judgment given by the District Court.
+(2) To avoid doubt, an order imposing a fine is enforceable under Part 3 of the Summary Proceedings Act 1957.
+(3) In an order imposing a fine under section 140(6) of the Employment Relations Act 2000, the order may direct that the whole or any part of the fine must be paid to the employee concerned.
 
 **Enforcement of obligations under Act**
 
 ### 33 Penalty for non-compliance
 (1) An employer who fails to comply with an obligation imposed on the employer by this Act is liable to a penalty imposed by the Employment Relations Authority.
 (2) For the purposes of subsection (1), the following provisions of the Employment Relations Act 2000 apply, with any necessary modifications, in relation to a penalty imposed under that subsection:
-  (a) section 135 (which relates to the amount and recovery of penalties):
+  (a) section 135 (which relates to the amount and recovery of penalties) and section 135A (which relates to the Chief Executive or a Labour Inspector enforcing payment of a penalty):
   (b) sections 137 to 140 (which relate to compliance orders made by the Employment Relations Authority or the Employment Court).
 
 **Savings**
