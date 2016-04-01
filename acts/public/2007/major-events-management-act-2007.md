@@ -1,5 +1,5 @@
 # Major Events Management Act 2007
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2016-04-01_
 
 ### 1 Title
 This Act is the Major Events Management Act 2007.
@@ -562,7 +562,7 @@ If more than 1 person is interested in the goods, material, or object to which a
   (b) make any other order that it thinks fit.
 
 ### 63 Position where no order made under section 57
-If the court decides that no order should be made under section 57, the person who had possesion, custody, or control of the goods, material, or object before they were or it was delivered up is entitled to their or its return.
+If the court decides that no order should be made under section 57, the person who had possession, custody, or control of the goods, material, or object before they were or it was delivered up is entitled to their or its return.
 
 ### Subpart 5 — Criminal offences
 
@@ -675,36 +675,42 @@ The Flags, Emblems, and Names Protection Act 1981 is amended by repealing sectio
 
 ### Part 1 — Emblems
 
-| THE FIVE RING OLYMPIC SYMBOL(as depicted below, or in black) |
+| THE FIVE RING OLYMPIC SYMBOL |
 | --- |
+| (as depicted below, or in black) |
 
-| THE FIVE RING OLYMPIC SYMBOL WITH A FERN LEAF(as depicted below, or in black, with or without the words “New Zealand” or “New Zealand Olympic Committee” or any abbreviation or combination of those words) |
+| THE FIVE RING OLYMPIC SYMBOL WITH A FERN LEAF |
 | --- |
+| (as depicted below, or in black, with or without the words New Zealand or New Zealand Olympic Committee or any abbreviation or combination of those words) |
 
-| THE FIVE RING OLYMPIC SYMBOL WITH A FERN LEAF AND THE WORDS “NEW ZEALAND”(as depicted below) |
+| GOLDIE THE OFFICIAL NEW ZEALAND OLYMPIC MASCOT |
 | --- |
+| (as depicted below, or in any other form, colours, or pose, with or without any sporting equipment, with or without the New Zealand Flag or any flag picturing the five Olympic rings, and with or without words or other symbols) |
 
-| “GOLDIE” THE OFFICIAL NEW ZEALAND OLYMPIC MASCOT(as depicted below, or in any other form, colours, or pose, with or without any sporting equipment, with or without the New Zealand Flag or any flag picturing the five Olympic rings, and with or without words or other symbols) |
+| THE OLYMPIC FLAME SYMBOL |
 | --- |
+| (as depicted below, or in any other form, colours, context, or position, or in a hand-held torch with the Five Ring Olympic symbol, whether or not the Five Ring Olympic symbol is on a flag, and whether or not the torch and symbol are with the New Zealand Flag, or a Fern Leaf, or both) |
 
-| THE OLYMPIC FLAME SYMBOL(as depicted below, or in any other form, colours, context, or position, or in a hand-held torch with the Five Ring Olympic symbol, whether or not the Five Ring Olympic symbol is on a flag, and whether or not the torch and symbol are with the New Zealand Flag, or a Fern Leaf, or both) |
+| THE NEW ZEALAND COMMONWEALTH GAMES SYMBOL |
 | --- |
+| (as depicted below, or in black) |
 
-| THE NEW ZEALAND COMMONWEALTH GAMES SYMBOL (as depicted below, or in black) |
+| THE COMMONWEALTH GAMES FEDERATION EMBLEM |
 | --- |
+| (as depicted below, or in black) |
 
-| THE NEW ZEALAND COMMONWEALTH YOUTH GAMES EMBLEM(as depicted below, or in black) |
+| THE COMMONWEALTH GAMES FEDERATION THE BAR EMBLEM |
 | --- |
+| (as depicted below, or in any colours) |
 
-| THE NEW ZEALAND YOUTH OLYMPIC FESTIVAL EMBLEM(as depicted below, or in black) |
+| THE GAME ON! EMBLEM |
 | --- |
-
-| THE COMMONWEALTH GAMES FEDERATION EMBLEM(as depicted below, or in black) |
-| --- |
+| (as depicted below, or in any colours) |
 
 ### Part 2 — Words that are names
 
-### 1 Commonwealth Games
+### 1 Comité International Olympique
+Commonwealth Games
 Five Ring Olympic symbol
 Five Ring Olympic symbol with a Fern Leaf
 International Olympic Committee
@@ -730,24 +736,30 @@ Olympic Gold
 
 | Column A | Column B |
 | --- | --- |
-| Commonwealth | Innsbruck |
-| Games | London |
-| Olympiad | Sochi |
-| Olympian | Glasgow |
-| Olympic | Rio de Janeiro |
-| Olympics | Rio |
-| Winter Olympics | 2012 |
-|  | 2014 |
-|  | 2016 |
-|  | First |
-|  | 1st |
-|  | I |
-|  | Twentieth |
-|  | 20th |
-|  | XXth |
-|  | 26th |
-|  | Twenty-sixth |
-|  | XXVIth |
-|  | 29th |
-|  | Twenty-ninth |
-|  | XXIXth |
+| Commonwealth | Rio de Janeiro |
+| Games | Rio |
+| Olympiad | Buenos Aires |
+| Olympian | Gold Coast |
+| Olympic | PyeongChang |
+| Olympics | Tokyo |
+| Winter Olympics | 2016 |
+|  | 2018 |
+|  | 2020 |
+|  | II |
+|  | 2nd |
+|  | Second |
+|  | III |
+|  | 3rd |
+|  | Third |
+|  | XXI |
+|  | 21st |
+|  | Twenty-first |
+|  | XXIII |
+|  | 23rd |
+|  | Twenty-third |
+|  | XXXI |
+|  | 31st |
+|  | Thirty-first |
+|  | XXXII |
+|  | 32nd |
+|  | Thirty-second |
