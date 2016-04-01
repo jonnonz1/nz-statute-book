@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2016-02-24_
+_Consolidation as at 2016-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -2135,7 +2135,7 @@ Income
   (c) an income-tested benefit:
   (d)
   (e) a New Zealand superannuation payment:
-  (f) a parental leave payment paid under Part 7A of the Parental Leave and Employment Protection Act 1987:
+  (f) a parental leave payment or preterm baby payment paid under Part 7A of the Parental Leave and Employment Protection Act 1987:
   (g) a pension:
   (h) a veteran’s pension:
   (i) a retirement lump sum paid under Part 5, subpart 7 of the Veterans’ Support Act 2014:
@@ -9683,14 +9683,14 @@ Link with subpart DA
 ### DZ 19 Attributed CFC loss carried back under section EZ 32C
 [Repealed]
 
-### DZ 20 Expenditure incurred while income-earning activity interrupted by Canterbury earthquake
+### DZ 20 Expenditure incurred while income-earning activity interrupted by Canterbury earthquake)
 When this section applies
-(1) This section applies for a person and an income year (the current year) before the 2016–17 income year when—
+(1) This section applies for a person and an income year (the current year) before the 2019–20 income year when—
   (a) the person has an income-earning activity in greater Christchurch (as defined in section 4 of the Canterbury Earthquake Recovery Act 2011) immediately before a Canterbury earthquake (as defined in that section); and
   (b) the activity is interrupted for a period (the period of interruption) as a result of the Canterbury earthquake; and
   (c) in the current year, during the period of interruption, the person incurs expenditure or loss (the interruption expenditure) in meeting an obligation relating to the income-earning activity; and
   (d) the interruption expenditure does not meet the requirements of the general permission for the person and the income-earning activity but would do so but for the interruption; and
-  (e) the person resumes the income-earning activity in an income year (the resumption year) before the 2016–17 income year.
+  (e) the person resumes the income-earning activity in an income year (the resumption year) before the 2019–20 income year.
 Deduction for interruption expenditure
 (2) The person is allowed a deduction for the interruption expenditure.
 Timing of deduction
@@ -14011,7 +14011,7 @@ Application of this subpart
     (ii) the person determines the market value for each of a number of periods making up the income year:
   (b) attributing interests in a FIF for which the person—
     (i) calculates FIF income using the fair dividend rate method; and
-    (ii) uses section EX 53 (Fair dividend rate method for unit-valuing funds and others by choice).
+    (ii) uses section EX 53 (Fair dividend rate periodic method).
 Specific rules
 (2) In this subpart,—
   (a) section EM 2 provides rules for who this subpart applies to:
@@ -14108,7 +14108,7 @@ Definition of items in formula
   (a) FDR portions' value is the market value of a person's fair dividend rate hedge portions at the start of a relevant valuation period in New Zealand currency:
   (b) valuation period is the number of days in whichever of the following periods is relevant:
     (i) the period described in section EM 1(1)﻿(a)﻿(ii):
-    (ii) the unit valuation period described in section EX 53 (Fair dividend rate method for unit-valuing funds and others by choice):
+    (ii) the unit valuation period described in section EX 53 (Fair dividend rate periodic method):
   (c) days in the year is the number of days in the income year in which the relevant period falls.
 
 ### EM 7 Quarterly test of fair dividend rate hedge portions
@@ -15886,7 +15886,7 @@ Requirements for item other deductions
   (a) the amounts do not relate to a financial arrangement or share and—
     (i) are incurred for the purpose of deriving an attributable CFC amount; and
     (ii) are not incurred for the purpose of deriving an amount that is not an attributable CFC amount; and
-    (iii) are deductions of the CFC:
+    (iii) correspond to amounts that would be deductions of the CFC after the adjustments that would be made under sections CH 2 and DB 50 (which relate to adjustments for prepayments) if the CFC were a resident:
   (b) the amounts relate to financial arrangements or shares referred to in the definition of the item funding in subsection (7)﻿(a) and exceed in total the amount given by multiplying the items funding costs and funding fraction, used in calculating the item apportioned funding costs under subsection (3)﻿(c):
   (c) the amounts—
     (i) do not relate to financial arrangements that provide funds for the CFC; and
@@ -16931,15 +16931,35 @@ Losses from some attributing interests not subject to rule
 No total FIF loss from other attributing interests
 (8) If, in the absence of this subsection, the person would have under subsection (1) a total FIF loss for the income year from all the person's affected interests, the FIF loss for the income year for the person from each affected interest is reduced to the extent necessary for the total FIF loss from the affected interests to be zero.
 
-### EX 52 Fair dividend rate method: usual method
+### EX 52A Fair dividend rate method: use of different forms
+When this section applies
+(1) This section applies when a person calculates FIF income from an attributing interest in a FIF for an income year (the current year) under the fair dividend rate method.
+When person must use fair dividend rate periodic method
+(2) A person must use the fair dividend rate periodic method under section EX 53 for the attributing interest for the current year if the person—
+  (a) is a unit trust or other entity that—
+    (i) makes investments for the benefit of other persons (the investors); and
+    (ii) assigns each investor an interest in a proportion of the net returns from the investments; and
+    (iii) determines the value of each investor’s interests for each of a number of periods making up the income year:
+  (b) for the attributing interest, uses the fair dividend rate periodic method for the income year ending before the beginning of the current year and uses the fair dividend rate annual method under section EX 52 for an income year included in the period that is the shortest of—
+    (i) the 4-year period ending before the beginning of the current year:
+    (ii) the period from the beginning of the income year in which the person acquired the attributing interest and ending before the beginning of the current year:
+    (iii) the period from the beginning of the 2015–16 income year and ending before the beginning of the current year.
+When person must use fair dividend rate annual method
+(3) A person must use the fair dividend rate annual method for the attributing interest for the current year if the person uses for the attributing interest—
+  (a) the fair dividend rate annual method for the income year ending before the beginning of the current year; and
+  (b) the fair dividend rate periodic method for an income year included in the period that is the shortest of—
+    (i) the 4-year period ending before the beginning of the current year:
+    (ii) the period from the beginning of the income year in which the person acquired the attributing interest and ending before the beginning of the current year:
+    (iii) the period from the beginning of the 2015–16 income year and ending before the beginning of the current year.
+
+### EX 52 Fair dividend rate annual method
 When this section applies
 (1) This section applies when a person—
   (a) calculates FIF income from an attributing interest in a FIF for an income year under the fair dividend rate method; and
-  (b) is neither—
-    (i) a unit-valuing fund that is subject to section EX 53; nor
-    (ii) another person that determines the market value of the attributing interest for each period of a day in the income year and that chooses to apply the method in section EX 53.
+  (b) is not required under section EX 52A to use the fair dividend rate periodic method; and
+  (c) does not choose under section EX 53 to use the fair dividend rate periodic method.
 FIF income
-(2) The person's total FIF income for the income year from the attributing interests in FIFs (the FDR interests) for which the person uses the fair dividend rate method is calculated using the formula in subsection (3).
+(2) The person's total FIF income for the income year from the attributing interests in FIFs (the FDR interests) for which the person uses the fair dividend rate annual method is calculated using the formula in subsection (3).
 FIF income formula
 (3) The formula is—(0.05 × opening value) + quick sale adjustment.
 Definition of items in FIF income formula
@@ -16960,18 +16980,18 @@ When quick sale adjustment required
   (b) later disposes of or reduces the FDR interest.
 Quick sale adjustment
 (7) Quick sale adjustment is the lesser of—
-  (a) the total of the amounts (the peak holding method amount) calculated for each FDR interest using the formula in subsection (8):
-  (b) the total of the amounts (the quick sale gain amount) calculated for each FDR interest using the formula in subsection (12), treating a negative total as being zero.
+  (a) the total of the amounts (the peak holding method amount) calculated for each FDR interest from the shareholding for the FDR interest using the formula in subsection (8):
+  (b) the total of the amounts (the quick sale gain amount) calculated for each FDR interest from the shareholding for the FDR interest using the formula in subsection (12), treating a negative total as being zero.
 Peak holding method amount formula
 (8) The formula is—0.05 × peak holding differential × average cost.
 Definition of items in formula
 (9) The items in the formula in subsection (8) are defined in subsections (10) and (11).
 Peak holding differential
 (10) Peak holding differential is,—
-  (a) if no share reorganisation occurs in the income year, the lesser of—
+  (a) if no share reorganisation affecting the shareholding for the FDR interest occurs in the income year, the lesser of—
     (i) the difference between the greatest shareholding in the year and the shareholding at the start of the year:
     (ii) the difference between the greatest shareholding in the year and the shareholding at the end of the year; or
-  (b) if a share reorganisation occurs in the income year, the amount calculated under section EX 54 for the year.
+  (b) if a share reorganisation affecting the shareholding for the FDR interest occurs in the income year, the amount calculated under section EX 54 for the year.
 Average cost
 (11) Average cost is—
   (a) if no share reorganisation occurs in the income year, the total amount of expenditure that the person incurs in acquiring or increasing during the income year the attributing interest in the FIF divided by the total for the year of the shareholding increase in the attributing interest in the FIF for each acquisition or increase; or
@@ -16990,25 +17010,19 @@ LIFO for identifying attributing interests disposed of
 Treatment of transaction under section EX 63 or EX 67
 (14B) For the purposes of subsection (7), if the person is treated as disposing of or acquiring an attributing interest in an income year under section EX 63(5) or EX 67, the disposal or acquisition is ignored.
 Treatment of attributing interests subject to returning share transfer
-(14C) If an attributing interest in a FIF is an original share subject to a returning share transfer, for the purposes of a person using the fair dividend rate method to calculate FIF income, the attributing interest is treated as held by the share supplier.
+(14C) If an attributing interest in a FIF is an original share subject to a returning share transfer, for the purposes of a person using the fair dividend rate annual method to calculate FIF income, the attributing interest is treated as held by the share supplier.
 Meaning of shareholding
 (15) In this section, shareholding means the number of shares or units in an attributing interest.
 
-### EX 53 Fair dividend rate method for unit-valuing funds and others by choice
-When this section applies: first case
-(1) This section applies when a person—
-  (a) calculates FIF income from an attributing interest in a FIF for an income year under the fair dividend rate method; and
-  (b) is a unit trust or other entity (the fund) that—
-    (i) makes investments for the benefits of other persons (the investors); and
-    (ii) assigns each investor an interest (the unit) in a proportion of the net returns from the investments; and
-    (iii) determines the value of the investor’s units for each of a number of periods (the unit valuation periods) making up the income year.
+### EX 53 Fair dividend rate periodic method
+When this section applies
+(1) This section applies when a person (the interest holder), who calculates under the fair dividend rate method the FIF income from an attributing interest in a FIF for an income year,—
+  (a) is required under section EX 52A to use the fair dividend rate periodic method:
+  (b) determines the market value of the attributing interest for each period of a day (the unit valuation period) in the income year and—
+    (i) is not required to use the fair dividend rate periodic method; and
+    (ii) chooses to use the fair dividend rate periodic method.
 When this section applies: second case
-(1B) This section applies also when a person—
-  (a) calculates FIF income from an attributing interest in a FIF for an income year under the fair dividend rate method; and
-  (b) the person is not subject to subsection (1); and
-  (c) the person—
-    (i) determines the market value of the attributing interest for each period of a day (the unit valuation period) in the income year; and
-    (ii) chooses that this section applies.
+(1B)
 FIF income
 (2) The total FIF income for the income year of the fund or person (the interest holder) from the attributing interests in FIFs (the FDR interests) for which the fund or person uses the fair dividend rate method is the total of the amounts calculated using the formula in subsection (3) for each unit valuation period.
 Formula
@@ -18951,92 +18965,19 @@ Relationship to subpart EE
 (15) This section overrides subpart EE (Depreciation).
 
 ### EZ 23C Insurance for Canterbury earthquake damage of property: treatment as disposal and reacquisition
-When this section applies
-(1) This section applies for a person and an item of depreciable property and an income year (the current year) before the 2016–17 income year when—
-  (a) the item is damaged by a Canterbury earthquake as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011; and
-  (b) the person is entitled to an amount of insurance or compensation for the damage to the item; and
-  (c) the item is assessed by the payer of the insurance or compensation (the insurer) as uneconomic to repair; and
-  (d) the damage does not meet the requirements of section EE 47(4) (Events for purposes of section EE 44).
-Treatment as disposal and reacquisition of item
-(2) The person is treated as, on the date of the Canterbury earthquake,—
-  (a) disposing of the item for the amount of insurance or compensation; and
-  (b) reacquiring the item for zero consideration.
-Relationship with section EE 52
-(3) This section overrides section EE 52 (Amount of depreciation recovery income when compensation received).
+[Repealed]
 
 ### EZ 23D Insurance for Canterbury earthquake damage of property: limit on depreciation recovery income
-When this section applies
-(1) This section applies for a person and an item of depreciable property and an income year (the current year) before the 2016–17 income year when—
-  (a) the item is damaged by a Canterbury earthquake as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011; and
-  (b) the person is entitled to an amount of insurance or compensation for the damage to the item; and
-  (c) the damage does not meet the requirements of section EE 47(4) (Events for purposes of section EE 44); and
-  (d) section EZ 23C does not apply for the item.
-Limit on depreciation recovery income under section EE 52
-(2) If the person would derive depreciation recovery income under section EE 52 (Amount of depreciation recovery income when compensation received) in an income year for the item in the absence of this section, the person derives in the income year an amount of depreciation recovery income equal to the lesser of—
-  (a) the amount of depreciation recovery income under section EE 52 that the person would derive in the income year for the item in the absence of this section:
-  (b) the total of the amounts of depreciation loss for which the person has been allowed deductions for the item.
-Relationship with section EE 52
-(3) This section overrides section EE 52.
+[Repealed]
 
 ### EZ 23E Item treated as available for use if access restricted due to Canterbury earthquake
-An item of depreciable property is treated for an income year as being available for use while access to the item is affected by a restriction imposed due to the effects of a Canterbury earthquake (as defined in section 4 of the Canterbury Earthquake Recovery Act 2011), if—
-  (a) the item was used or available for use immediately before the restriction was imposed; and
-  (b) the item would be used or available for use in the absence of the restriction; and
-  (c) the income year is the 2015–16 or an earlier income year.
+[Repealed]
 
 ### EZ 23F Insurance for Canterbury earthquake damage causing disposal: optional timing rule for income, deductions
-When this section applies
-(1) This section applies for a person and an item of depreciable property when—
-  (a) the item is damaged by a Canterbury earthquake as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011; and
-  (b) the damage—
-    (i) results in the item being affected by a disposal and reacquisition under section EZ 23C; or
-    (ii) meets the requirements of section EE 47(4) (Events for purposes of section EE 44); and
-  (c) the person is entitled to an amount of insurance or compensation for the damage to the item; and
-  (d) the person chooses to apply this section for all items of depreciable property meeting the requirements of paragraphs (a) to (c).
-Attribution of income from insurance and disposal
-(2) If the amount of insurance or compensation for the damage (the insurance receipt) is derived or able to be reasonably estimated before the end of the 2015–16 income year, the person's income from the insurance receipt and the consideration derived from the disposal of the item is attributed to the earlier of—
-  (a) the 2015–16 income year:
-  (b) the first income year in which—
-    (i) the amount of the cost of disposing of the item (the disposal cost) is or has been incurred or able to be reasonably estimated; and
-    (ii) the insurance receipt is or has been derived or able to be reasonably estimated; and
-    (iii) the consideration from the disposal of the item is or has been derived or able to be reasonably estimated.
-Attribution of deductions
-(3) If the disposal cost is incurred or able to be reasonably estimated before the end of the 2015–16 income year, the person's deductions for the disposal cost and for depreciation loss under section EE 48 (Effect of disposal or event) are attributed to the earlier of—
-  (a) the 2015–16 income year:
-  (b) the first income year in which—
-    (i) the disposal cost is or has been incurred or able to be reasonably estimated; and
-    (ii) the insurance receipt is or has been derived or able to be reasonably estimated; and
-    (iii) the consideration from the disposal of the item is or has been derived or able to be reasonably estimated.
-Relationship with other sections
-(4) This section overrides sections EE 1, EE 22, and EE 48 (which state when depreciation loss and depreciation recovery income arise) in relation to the timing of the person's—
-  (a) income from the insurance receipt and consideration from the disposal of the item:
-  (b) deductions for the disposal cost and depreciation loss.
+[Repealed]
 
 ### EZ 23G Insurance for repairs of Canterbury earthquake damage: optional timing rule for income, deductions
-When this section applies
-(1) This section applies for a person and an item of depreciable property when—
-  (a) the item is damaged by a Canterbury earthquake as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011; and
-  (b) the damage—
-    (i) does not result in the item being subject to a disposal and reacquisition under section EZ 23C; and
-    (ii) does not meet the requirements of section EE 47(4) (Events for purposes of section EE 44); and
-  (c) the person is entitled to an amount of insurance or compensation for the damage to the item; and
-  (d) the person chooses to apply this section for all items of depreciable property meeting the requirements of paragraphs (a) to (c).
-Attribution of income from insurance
-(2) If the amount of insurance or compensation for the damage (the insurance receipt) is derived or able to be reasonably estimated before the end of the 2015–16 income year, the person's income from the insurance receipt is attributed to the earlier of—
-  (a) the 2015–16 income year:
-  (b) the first income year in which—
-    (i) the amount of expenditure for total repair of the damage (the repair cost) is or has been incurred or able to be reasonably estimated; and
-    (ii) the insurance receipt is or has been derived or able to be reasonably estimated.
-Attribution of deductions for repairs
-(3) If the repair cost is incurred or able to be reasonably estimated before the end of the 2015–16 income year, the person's deductions for the repair cost are attributed to the earlier of—
-  (a) the 2015–16 income year:
-  (b) the first income year in which—
-    (i) the repair cost is or has been incurred or able to be reasonably estimated; and
-    (ii) the insurance receipt is or has been derived or able to be reasonably estimated.
-Relationship with other sections
-(4) This section overrides sections CG 4, EE 22, and EE 52 (which provide for receipts of insurance or indemnity payments) in relation to the timing of the person's—
-  (a) income from the insurance receipt:
-  (b) deductions for the repair cost.
+[Repealed]
 
 **Definitions**
 
@@ -19967,6 +19908,94 @@ When this section applies
   (b) the person does not allocate, for the financial arrangement, an amount of equity or other comprehensive income to the 2014–15 income year that the person would be required to allocate if the requirement referred to in paragraph (a) applied for the 2014–15 income year.
 Change of spreading method
 (2) The change from the non-allocation treatment described in subsection (1)﻿(b) to the allocation treatment described in subsection (1)﻿(a) is treated as a change of spreading method for the 2015–16 income year under section EW 26(2) (Change of spreading method). Sections EW 26(3) and (4) and EW 27 (Spreading method adjustment formula) apply accordingly, but section EW 26(6) does not apply.
+
+### EZ 70 Insurance for Canterbury earthquake damage of property: treatment as disposal and reacquisition
+When this section applies
+(1) This section applies for a person and an item of depreciable property and an income year before the 2019–20 income year when—
+  (a) the item is damaged by a Canterbury earthquake as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011; and
+  (b) the person is entitled to an amount of insurance or compensation for the damage to the item; and
+  (c) the item is assessed by the payer of the insurance or compensation (the insurer) as uneconomic to repair; and
+  (d) the damage does not meet the requirements of section EE 47(4) (Events for purposes of section EE 44).
+Treatment as disposal and reacquisition of item
+(2) The person is treated as, on the date of the Canterbury earthquake,—
+  (a) disposing of the item for the amount of insurance or compensation; and
+  (b) reacquiring the item for zero consideration.
+Relationship with section EE 52
+(3) This section overrides section EE 52 (Amount of depreciation recovery income when compensation received).
+
+### EZ 71 Insurance for Canterbury earthquake damage of property: limit on depreciation recovery income
+When this section applies
+(1) This section applies for a person and an item of depreciable property and an income year before the 2019–20 income year when—
+  (a) the item is damaged by a Canterbury earthquake as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011; and
+  (b) the person is entitled to an amount of insurance or compensation for the damage to the item; and
+  (c) the damage does not meet the requirements of section EE 47(4) (Events for purposes of section EE 44); and
+  (d) section EZ 70 does not apply for the item.
+Limit on depreciation recovery income under section EE 52
+(2) If the person would derive depreciation recovery income under section EE 52 (Amount of depreciation recovery income when compensation received) in an income year for the item in the absence of this section, the person derives in the income year an amount of depreciation recovery income equal to the lesser of—
+  (a) the amount of depreciation recovery income under section EE 52 that the person would derive in the income year for the item in the absence of this section:
+  (b) the total of the amounts of depreciation loss for which the person has been allowed deductions for the item.
+Relationship with section EE 52
+(3) This section overrides section EE 52.
+
+### EZ 72 Item treated as available for use if access restricted due to Canterbury earthquake
+An item of depreciable property is treated for an income year as being available for use while access to the item is affected by a restriction imposed due to the effects of a Canterbury earthquake (as defined in section 4 of the Canterbury Earthquake Recovery Act 2011), if—
+  (a) the item was used or available for use immediately before the restriction was imposed; and
+  (b) the item would be used or available for use in the absence of the restriction; and
+  (c) the income year is the 2018–19 or an earlier income year.
+
+### EZ 73 Insurance for Canterbury earthquake damage causing disposal: optional timing rule for income, deductions
+When this section applies
+(1) This section applies for a person and an item of depreciable property when—
+  (a) the item is damaged by a Canterbury earthquake as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011; and
+  (b) the damage—
+    (i) results in the item being affected by a disposal and reacquisition under section EZ 70; or
+    (ii) meets the requirements of section EE 47(4) (Events for purposes of section EE 44); and
+  (c) the person is entitled to an amount of insurance or compensation for the damage to the item; and
+  (d) the person chooses to apply this section for all items of depreciable property meeting the requirements of paragraphs (a) to (c).
+Attribution of income from insurance and disposal
+(2) If the amount of insurance or compensation for the damage (the insurance receipt) is derived or able to be reasonably estimated before the end of the 2018–19 income year, the person's income from the insurance receipt and the consideration derived from the disposal of the item is attributed to the earlier of—
+  (a) the 2018–19 income year:
+  (b) the first income year in which—
+    (i) the amount of the cost of disposing of the item (the disposal cost) is or has been incurred or able to be reasonably estimated; and
+    (ii) the insurance receipt is or has been derived or able to be reasonably estimated; and
+    (iii) the consideration from the disposal of the item is or has been derived or able to be reasonably estimated.
+Attribution of deductions
+(3) If the disposal cost is incurred or able to be reasonably estimated before the end of the 2018–19 income year, the person's deductions for the disposal cost and for depreciation loss under section EE 48 (Effect of disposal or event) are attributed to the earlier of—
+  (a) the 2018–19 income year:
+  (b) the first income year in which—
+    (i) the disposal cost is or has been incurred or able to be reasonably estimated; and
+    (ii) the insurance receipt is or has been derived or able to be reasonably estimated; and
+    (iii) the consideration from the disposal of the item is or has been derived or able to be reasonably estimated.
+Relationship with other sections
+(4) This section overrides sections EE 1, EE 22, and EE 48 (which state when depreciation loss and depreciation recovery income arise) in relation to the timing of the person's—
+  (a) income from the insurance receipt and consideration from the disposal of the item:
+  (b) deductions for the disposal cost and depreciation loss.
+
+### EZ 74 Insurance for repairs of Canterbury earthquake damage: optional timing rule for income, deductions
+When this section applies
+(1) This section applies for a person and an item of depreciable property when—
+  (a) the item is damaged by a Canterbury earthquake as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011; and
+  (b) the damage—
+    (i) does not result in the item being subject to a disposal and reacquisition under section EZ 70; and
+    (ii) does not meet the requirements of section EE 47(4) (Events for purposes of section EE 44); and
+  (c) the person is entitled to an amount of insurance or compensation for the damage to the item; and
+  (d) the person chooses to apply this section for all items of depreciable property meeting the requirements of paragraphs (a) to (c).
+Attribution of income from insurance
+(2) If the amount of insurance or compensation for the damage (the insurance receipt) is derived or able to be reasonably estimated before the end of the 2018–19 income year, the person's income from the insurance receipt is attributed to the earlier of—
+  (a) the 2018–19 income year:
+  (b) the first income year in which—
+    (i) the amount of expenditure for total repair of the damage (the repair cost) is or has been incurred or able to be reasonably estimated; and
+    (ii) the insurance receipt is or has been derived or able to be reasonably estimated.
+Attribution of deductions for repairs
+(3) If the repair cost is incurred or able to be reasonably estimated before the end of the 2018–19 income year, the person's deductions for the repair cost are attributed to the earlier of—
+  (a) the 2018–19 income year:
+  (b) the first income year in which—
+    (i) the repair cost is or has been incurred or able to be reasonably estimated; and
+    (ii) the insurance receipt is or has been derived or able to be reasonably estimated.
+Relationship with other sections
+(4) This section overrides sections CG 4, EE 22, and EE 52 (which provide for receipts of insurance or indemnity payments) in relation to the timing of the person's—
+  (a) income from the insurance receipt:
+  (b) deductions for the repair cost.
 
 ### EZ 75 Consideration for property or services: IFRS foreign ASAPs before 2014–15 income year
 When this section applies
@@ -22898,6 +22927,19 @@ When this section applies
   (c) the arrangement has an effect of defeating the intent and application of the international tax rules.
 Treatment of election
 (2) The Commissioner may treat the election as having been made or not made, as applicable, to the extent appropriate to prevent the effect of the arrangement.
+
+### GB 15BA CFC income or loss: arrangements for inclusion of CFC in test group
+When this section applies
+(1) This section applies when—
+  (a) for a person and 2 or more accounting periods, a CFC is not a non-attributing active CFC unless the person chooses to test the CFC together with other CFCs as a group (the test group) under—
+    (i) section EX 21D (Non-attributing active CFC: default test); or
+    (ii) section EX 21E (Non-attributing active CFC: test based on accounting standard); and
+  (b) the person enters into an arrangement to—
+    (i) choose to include the CFC in the test group for 1 of the accounting periods; and
+    (ii) not choose to include the CFC in the test group for another of the accounting periods; and
+  (c) the effect of the arrangement in the absence of this section would be that the person had less net attributable CFC income when the CFC was in the test group and greater net attributable CFC losses when the CFC was not in the test group.
+Treatment of election
+(2) The Commissioner may treat an election as having been made or not made, as appropriate to prevent the arrangement having the effect referred to in subsection (1)﻿(c).
 
 ### GB 15B Supplies affecting default test for non-attributing active CFC
 When this section applies
@@ -29853,7 +29895,7 @@ Modifications to weekly employment
 (2) For the purposes of subsection (1),—
   (a) a person who is employed in a pay period that is longer than 1 week is treated as undertaking the employment activities to a uniform daily extent for the period:
   (b) a person who is employed becomes incapacitated as described in subsection (3) and is unable to undertake employment in a week in which but for the incapacity they would be employed for the number of hours set out in subsection (1)﻿(a) and (b) is treated as having been employed for the hours referred to:
-  (c) a person who is taking parental leave under the Parental Leave and Employment Protection Act 1987 for which a parental leave payment under Part 7A of that Act is payable, is treated as employed in the week for the number of hours for which they would have worked but for the period of parental leave:
+  (c) a person is treated as employed in any week in relation to which the person receives parental leave payments or preterm baby payments under Part 7A of the Parental Leave and Employment Protection Act 1987 for the number of hours that the person would have worked in a week that the person normally worked in their last period of employment before that week:
   (d) a person who receives or will receive weekly compensation from the Accident Compensation Corporation, Veterans' Affairs New Zealand, or both, as a surviving spouse or partner of a deceased claimant is treated as being employed, during the week to which that compensation relates, for the number of hours that the deceased claimant would have been employed for in a week before dying, but for their incapacity. The number of hours under this paragraph are in addition to the person's own hours.
 Incapacity
 (3) The incapacity referred to in subsection (2)﻿(b) and (d) is an incapacity due to—
@@ -30379,7 +30421,7 @@ Income
 Exclusions from income
 (3) The following PAYE income payments are excluded from income under subsection (2):
   (a) a payment referred to in paragraphs (a) to (c) of the definition of accident compensation earnings-related payment:
-  (b) a PAYE income payment referred to in section RD 5(6)﻿(a) (Salary or wages), other than a parental leave payment referred to in section CF 1 (Benefits, pensions, compensation, and government grants):
+  (b) a PAYE income payment referred to in section RD 5(6)﻿(a) (Salary or wages), other than a parental leave payment or preterm baby payment referred to in section CF 1 (Benefits, pensions, compensation, and government grants):
   (c) a PAYE income payment referred to in section RD 5(6)﻿(bb), (bc), or (bd):
   (d) a schedular payment that is a contract payment for a contract activity or service of a non-resident contractor:
   (e) an amount paid as a result of incapacity, suffered before 1 January 2006, due to personal injury by accident within the meaning of section 26 of the Accident Compensation Act 2001.
@@ -30399,7 +30441,7 @@ Formula
 (2) The formula is—(amount A + amount B × (children − 3)) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) amount A is $3,120:
+  (a) amount A is $3,770:
   (b) amount B is $780:
   (c) children is the greater of—
     (i) 3; and
@@ -30416,7 +30458,7 @@ When this section applies
   (a) a person qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) in relation to a dependent child; and
   (b) neither the person nor their spouse, civil union partner, or de facto partner receives—
     (i) a social assistance payment or has a suspended entitlement to an income-tested benefit at any time during the first 70 days after the date of the dependent child’s birth (the parental entitlement period); or
-    (ii) a parental leave payment under Part 7A of the Parental Leave and Employment Protection Act 1987 at any time for the child.
+    (ii) a parental leave payment or preterm baby payment under Part 7A of the Parental Leave and Employment Protection Act 1987 at any time for the child.
 Entitlement
 (2) The person is entitled to a parental tax credit for the parental entitlement period.
 If dependent child dies during parental entitlement period
@@ -30428,7 +30470,7 @@ When another person cares for dependent child
 Relationship with section 2B of Parental Leave and Employment Protection Act 1987
 (5) Section 2B of the Parental Leave and Employment Protection Act 1987 applies for the purposes of subsection (1)﻿(b) if a person—
   (a) gives birth to 2 or more children as a result of 1 pregnancy; or
-  (b) assumes the care of 2 or more children with a view to adoption.
+  (b) becomes the primary carer (as defined in the Parental Leave and Employment Protection Act 1987) in respect of 2 or more children within a 4-week period.
 Payment of parental tax credit
 (6) The parental tax credit is paid to the person either—
   (a) as a tax credit in an end-of-year assessment; or
@@ -30458,8 +30500,8 @@ Formula
 Definition of items in formula
 (3) In the formula,—
   (a) full-year abatement is,—
-    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $36,350, 21.25 cents for each complete dollar of the excess; or
-    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $36,350, 21.25 cents for each complete dollar of the excess:
+    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $36,350, 22.5 cents for each complete dollar of the excess; or
+    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $36,350, 22.5 cents for each complete dollar of the excess:
   (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14.
 When 70-day period includes 31 March
 (4) If a person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) receives instalments of the parental tax credit in a 70-day period that includes 31 March, the formula is applied so that—
@@ -30509,7 +30551,7 @@ Formula
 (2) The formula is—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $23,036:
+  (a) prescribed amount is $23,764:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -30741,7 +30783,7 @@ Overpayment
   (a) added to the tax payable by the person for the tax year; and
   (b) recoverable by the Commissioner under section 80KLB of the Tax Administration Act 1994 as if it were tax payable by the person for the tax year.
 Underpayment
-(3) For an underpayment of the entitlement, an amount equal to the shortfall is used to satisfy the person's income tax liability, and any balance remaining is treated as tax paid in excess and available for use under section LA 7(2) (Remaining refundable credits: tax credits under social policy schemes).
+(3) For an underpayment of the entitlement, an amount equal to the shortfall is used to satisfy the person's income tax liability, and any balance remaining is treated as tax paid in excess and available for use under section LA 7(2) (Remaining refundable credits: tax credits for social policy and other initiatives).
 
 ### MF 7 Orders in Council
 What may be done by Order in Council
@@ -35145,7 +35187,7 @@ Threshold or election
 Exclusions
 (2) Despite subsection (1), the following persons do not pay provisional tax:
   (a) a company that does not have a fixed establishment in New Zealand and is not treated as resident in New Zealand:
-  (b) a person referred to in section 33A(1) of the Tax Administration Act 1994:
+  (b) a person who meets the requirements of section 33AA(1) of the Tax Administration Act 1994:
   (c) a non-resident contractor who has not been given an exemption certificate by the Commissioner for the tax year:
   (d) a multi-rate PIE that does not choose to calculate and pay tax using the provisional tax calculation option under section HM 44 (Provisional tax calculation option).
 No obligation
@@ -35396,6 +35438,7 @@ Requirement to discontinue use of GST ratio
 (1) Despite section RC 16, a person must stop using a GST ratio for a tax year and must apply section RC 18(4) or (5) if—
   (a) their GST registration ends under section 52 of the Goods and Services Tax Act 1985 in the tax year; or
   (b) they no longer qualify under section RC 16(2) as a result of an amended assessment of their income tax liability or their GST liability for the preceding tax year; or
+  (bb) their residual income tax, as disclosed in a return of income filed in the tax year, means they no longer meet the requirements of section RC 16(2); or
   (c) they no longer qualify under section RC 16(3) as a result of a change in their taxable period.
 No GST return
 (2) A person must not use, or must stop using, a GST ratio for a tax year if they—
@@ -35429,14 +35472,15 @@ Date on which use of GST ratio stopped
 (3) For the purposes of subsection (1)﻿(b), the date on which the person stops using a GST ratio is, as applicable,—
   (a) the date their GST registration ends; or
   (b) the date of the amended assessment of their income tax liability or GST liability for the preceding tax year; or
+  (bb) the date the person’s return of income referred to in section RC 17(1)﻿(bb) is received by the Commissioner; or
   (c) the effective date of a change in taxable period; or
   (d) the last day of the period in which a return is liable to be provided under the Goods and Services Tax Act 1985.
 Changing method before date of instalment A
-(4) If the person is unable or decides not to use a GST ratio before the date of instalment A, they may choose to determine the amount of provisional tax payable under section RC 5(2), (3) or (5). The person is treated as never having chosen to use the GST ratio method and, for the purposes of section 120KE(5) of the Tax Administration Act 1994, as never having changed the way they determine an amount of provisional tax under this section.
+(4) If the person is unable or decides not to use a GST ratio before the date of instalment A, and section RC 3(3) does not apply, they may choose to determine the amount of provisional tax payable under section RC 5(2), (3) or (5). The person is treated as never having chosen to use the GST ratio method and, for the purposes of section 120KE(5) of the Tax Administration Act 1994, as never having changed the way they determine an amount of provisional tax under this section.
 Changing method after instalment date
-(5) If the person is unable or decides not to use the GST ratio after an instalment date, they must determine the amount of provisional tax payable on instalment for the remainder of the income year under section RC 5(5) using the estimation method. For this purpose, the person may provide the estimate in writing or by telephone.
+(5) If the person is unable or decides not to use the GST ratio after an instalment date, and section RC 3(3) does not apply, they must determine the amount of provisional tax payable on instalment for the remainder of the income year under section RC 5(5) using the estimation method. For this purpose, the person may provide the estimate in writing or by telephone.
 Date of application when method changed
-(6) If the person changes their calculation method under subsection (4) or (5), the date on which the change applies may be a future date agreed between the person and the Commissioner.
+(6) If the person changes their calculation method under subsection (4) or (5), and the change is not required by section RC 17(1)﻿(bb), the date on which the change applies may be a future date agreed between the person and the Commissioner.
 Other consequences of changing method
 (7) For the purposes of this section,—
   (a) the number of instalments and the instalment dates remaining for an income year depend on—
@@ -35869,8 +35913,8 @@ Certain benefits and grants
   (bf) weekly compensation paid under Part 4, subpart 5 of the Veterans’ Support Act 2014:
   (bg) weekly compensation or aggregated payments, as applicable, paid under schedule 2, part 4, clause 54, 55, 58, or 59 of the Veterans’ Support Act 2014:
   (c) a basic grant and independent circumstances grant made under regulations made under section 193 of the Education Act 1964, section 303 of the Education Act 1989, or an enactment substituted for those sections.
-Parental leave payments
-(7) A parental leave payment made under Part 7A of the Parental Leave and Employment Protection Act 1987 is included in salary or wages.
+Parental leave and preterm baby payments
+(7) A parental leave payment or preterm baby payment made under Part 7A of the Parental Leave and Employment Protection Act 1987 is included in salary or wages.
 Accommodation benefits
 (8) A benefit treated as income under section CE 1(1)﻿(bb) (Amounts derived in connection with employment) is included in salary or wages.
 Cash contributions
@@ -54413,13 +54457,14 @@ This Act is the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Ac
 (2) Subsection (1) does not apply for a tax position that is inconsistent with subsection (1) and that is taken in a tax return filed before the date on which the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Bill was introduced.
 
 ### 154 Definitions
-((1)–(24)) Amendment(s) incorporated in the Act(s).
-(25) In the definition of non-filing taxpayer, paragraph (a), to whom section 33A(1) of the Tax Administration Act 1994 applies is replaced by who meets the requirements of section 33AA(1) of the Tax Administration Act 1994.
-((26)–(41)) Amendment(s) incorporated in the Act(s).
+(1) This section amends section YA 1.
+((2)–(41)) Amendment(s) incorporated in the Act(s).
 (42) Subsections (3) and (4) apply for the 2011–12 and later tax years, except for a tax position that is—
   (a) inconsistent with subsections (3) and (4); and
   (b) taken in a tax return filed before the date on which the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Bill is first considered by a committee of the whole House.
-((43)–(45)) Amendment(s) incorporated in the Act(s).
+(43) Subsections (7) and (11) apply for the 2008–09 and later income years.
+(44) Subsection (8) applies for income years beginning on or after 1 July 2009.
+(45) Subsections (34) and (35) apply for income years beginning on or after the date on which the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 receives the Royal assent.
 
 ### 1 Title
 This Act is the Taxation (Annual Rates, Foreign Superannuation, and Remedial Matters) Act 2014.
