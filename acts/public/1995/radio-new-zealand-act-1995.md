@@ -1,5 +1,5 @@
 # Radio New Zealand Act 1995
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2016-04-02_
 
 > An Act to facilitate the restructuring of Radio New Zealand Limited
 
@@ -9,9 +9,9 @@ _Consolidation as at 2013-12-05_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Charter** means the Charter of the public radio company as expressed in section 7
+  - **Charter** means the Charter of the public radio company as expressed in section 8
   - **constitution** means the constitution (within the meaning of the Companies Act 1993) of the public radio company
-  - **Crown entity subsidiary** has the same meaning as in the second column of section 7(1)(c) of the Crown Entities Act 2004
+  - **Crown entity subsidiary** has the same meaning as in the second column of section 7(1)﻿(c) of the Crown Entities Act 2004
   - **existing company** means the company that, at the commencement of this Act, is the State enterprise known as Radio New Zealand Limited
   - **governor** means any person who is appointed as a director of the public radio company in accordance with section 14
   - **public radio company** means the company that, at the commencement of this Act, is known as New Zealand Public Radio Limited
@@ -35,36 +35,83 @@ This Act binds the Crown.
 
 **Charter and principles of public radio company**
 
-### 7 Charter
-(1) The functions of the public radio company shall be to provide innovative, comprehensive, and independent broadcasting services of a high standard and, without limiting the generality of the foregoing, to provide—
-  (a) programmes which contribute towards intellectual, scientific, and cultural, spiritual, and ethical development, promote informed debate, and stimulate critical thought; and
-  (b) a range of New Zealand programmes, including information, special interest, and entertainment programmes, and programmes which reflect New Zealand's cultural diversity, including Maori language and culture; and
-  (c) programmes which provide for varied interests and a full range of age groups within the community, including information, educational, special interest, and entertainment programmes; and
-  (d) programmes which encourage and promote the musical, dramatic, and other performing arts, including programmes featuring New Zealand and international composers, performers, and artists; and
-  (e) a nationwide service providing programming of the highest quality to as many New Zealanders as possible, thereby engendering a sense of citizenship and national identity; and
-  (f) comprehensive, independent, impartial, and balanced national news services and current affairs, including items with a regional perspective; and
-  (g) comprehensive, independent, impartial and balanced international news services and current affairs; and
-  (ga) an international radio service to the South Pacific (Radio New Zealand International), which may include a range of programmes in English and Pacific languages; and
-  (h) archiving of programmes which are likely to be of historical interest in New Zealand.
-(2) In providing broadcasting services, the public radio company shall take account of—
-  (a) recognised standards of excellence; and
-  (b) its responsibility as the provider of an independent national broadcasting service to provide a balance between programmes of wide appeal and programmes of interest to minority audiences; and
-  (c) the broadcasting services provided by other broadcasters; and
-  (d) surveys, commissioned annually, of persons who are members of its current audiences to establish whether those members consider that the quality and quantity of its services are being maintained in accordance with subsection (1); and
-  (e) surveys, commissioned from time to time, of persons who are not members of its current audiences.
-(2A) The public radio company must, as part of its annual report, inform the shareholding Ministers of—
-  (a) the objectives and results of the annual surveys of its current audiences under subsection (2)(d); and
-  (b) the objectives and results of any surveys of people not in its current audiences under subsection (2)(e); and
-  (c) the measures, if any, it has taken in response to those results.
-(3) Subsections (1) and (2) constitute the Charter of the public radio company.
-(4) The Charter shall be reviewed by the House of Representatives at 5-yearly intervals.
+### 7 Public radio company to give effect to Charter
+The public radio company must give effect to its Charter.
 
-### 8 Principles of operation
-(1) The public radio company shall, in fulfilling its Charter, exhibit a sense of social responsibility by having regard to the interests of the community in which it operates and by endeavouring to accommodate or encourage those interests when able to do so.
-(2) The public radio company shall, in fulfilling its Charter, operate in a financially responsible manner so that it maintains its financial viability.
-(3) For the purposes of subsection (2), the public radio company is financially viable if—
-  (a) the activities of the company generate, on the basis of generally accepted accounting principles, an adequate rate of return on shareholders' funds; and
-  (b) the company is operating as a successful going concern.
+### 8 Charter
+The Charter of the public radio company is as follows:
+Purpose
+(1) As an independent public service broadcaster, the public radio company's purpose is to serve the public interest.
+(2) Freedom of thought and expression are foundations of democratic society and the public radio company as a public service broadcaster plays an essential role in exercising these freedoms.
+(3) The public radio company fosters a sense of national identity by contributing to tolerance and understanding, reflecting and promoting ethnic, cultural, and artistic diversity and expression.
+(4) The public radio company provides reliable, independent, and freely accessible news and information.
+Delivery
+(5) In achieving its purpose, the public radio company must endeavour to provide services of the highest quality, which—
+  (a) are predominantly and distinctively of New Zealand:
+  (b) inform, entertain, and enlighten the people of New Zealand:
+  (c) are challenging, innovative, and engaging:
+  (d) foster critical thought, and informed and wide-ranging debate:
+  (e) stimulate, support, and reflect the diversity of cultural expression, including drama, comedy, literature, and the performing arts:
+  (f) stimulate, support, and reflect a wide range of music, including New Zealand composition and performance:
+  (g) reflect New Zealand’s cultural identity, including Māori language and culture:
+  (h) provide awareness of the world and of New Zealand’s place in it:
+  (i) provide comprehensive, independent, accurate, impartial, and balanced regional, national, and international news and current affairs:
+  (j) provide programmes which balance special interest with those of wide appeal, recognising the interests of all age groups:
+  (k) contribute towards intellectual and spiritual development:
+  (l) include an international service to the South Pacific in both English and Pacific languages:
+  (m) take account of services provided by other broadcasters:
+  (n) take advantage of the most effective means of delivery:
+  (o) preserve and archive broadcasting material of historical interest.
+
+### 8A Principles of operation
+(1) The public radio company must, in fulfilling its Charter, exhibit a sense of social responsibility by—
+  (a) having regard to the interests of the community in which it operates; and
+  (b) endeavouring to accommodate or encourage those interests when able to do so.
+(2) The public radio company must, in fulfilling its Charter, ensure that it is not influenced by the commercial interests of other parties.
+(3) The public radio company must, in fulfilling its Charter, ensure that it operates in a financially responsible manner and, for this purpose, that it—
+  (a) prudently manages its assets and liabilities; and
+  (b) endeavours to ensure—
+    (i) its long-term financial viability; and
+    (ii) that it acts as a successful going concern.
+
+### 8B Commercial-free broadcasting
+(1) The public radio company must, in fulfilling its Charter, provide its services in a commercial-free manner.
+(2) Subsection (1) is subject to subsection (3).
+(3) The public radio company may provide 1 or more of the services specified in subsection (4), if the provision of the service or services—
+  (a) is consistent with its role as a public broadcaster; and
+  (b) does not impact adversely on the provision of its services under its Charter; and
+  (c) is a fair and appropriate use of public funds.
+(4) Subsection (3) applies to the following:
+  (a) providing media services to countries outside New Zealand, other than Radio New Zealand International or any radio services that might replace, in whole or in part, Radio New Zealand International:
+  (b) authorising other providers of media services (whether by sale or licensing) to broadcast or publish content that has already been broadcast or published in a commercial-free manner by the public radio company:
+  (c) arranging for providers of delivery platforms to provide access to live broadcasts of the content of the public radio company, but only if—
+    (i) the content is free to access on the public radio company’s services; and
+    (ii) the content is commercial-free, whether or not the delivery platforms are free to access; and
+    (iii) any advertising or sponsorship on the delivery platforms is not expressly or impliedly presented as advertising or sponsorship carried or endorsed by the public radio company (other than announcements of the public radio company’s own services).
+(5) In this section,—
+  - **commercial-free**
+    (a) means—
+      (i) free to access; and
+      (ii) without advertising and sponsorship; but
+    (b) to avoid doubt, does not include announcements by the public radio company of its own services
+  - **delivery platform** —
+    (a) means any method of transmitting audio, visual, or audiovisual content; and
+    (b) includes (but is not limited to) Internet sites, applications, and software.
+
+### 8C Review of Charter
+(1) The House of Representatives must periodically review the Charter.
+(2) The first review must be undertaken and completed as soon as practicable after 5 years after the commencement of the Radio New Zealand Amendment Act 2016.
+(3) A subsequent review must be undertaken and completed as soon as practicable after the fifth anniversary of the later of the dates specified in subsection (4).
+(4) For the purposes of subsection (3), the dates are—
+  (a) the date on which the select committee that reviews the Charter presents its report to the House of Representatives:
+  (b) the date on which any subsequent legislation that amends the Charter comes into force.
+
+### 8D Reporting
+(1) The public radio company must include in its annual report required by section 150 of the Crown Entities Act 2004 an assessment of the extent to which its performance fulfils its Charter.
+(2) In making the assessment, the public radio company must take into account—
+  (a) research relating to a representative selection of members of the public (including persons who are not members of its current audience); and
+  (b) the measures, if any, it has taken as a result of the research.
+(3) For the purposes of subsection (2)﻿(a), the public radio company must undertake or obtain the research on a regular basis, but at least once a year.
 
 ### 9 Personnel policy
 [Repealed]
@@ -76,7 +123,7 @@ This Act binds the Crown.
 
 ### 11 Ministers and their role
 (1)
-(2) The shareholding Ministers shall exercise or perform the powers, duties, and functions conferred or imposed on them with respect to the public radio company in a manner that is consistent with the Charter of the company and the principles of operation of the company (as expressed in section 8).
+(2) The shareholding Ministers shall exercise or perform the powers, duties, and functions conferred or imposed on them with respect to the public radio company in a manner that is consistent with the Charter of the company and with sections 8A and 8B.
 (3) The shareholding Ministers may, by written notice to the board of the public radio company, determine the amount of dividend payable by the public radio company to the Crown in respect of any financial year or years.
 (4) Before giving any notice under subsection (3), the shareholding Ministers must—
   (a) have regard to the functions and principles of operation of the public radio company; and
@@ -110,7 +157,7 @@ This Act binds the Crown.
 
 ### 15 Role of governors
 (1)
-(2) The governors of the public radio company shall exercise or perform the powers, duties, and functions conferred or imposed on them with respect to the company in a manner that is consistent with the Charter of the company and the principles of operation of the company (as expressed in section 8).
+(2) The governors of the public radio company shall exercise or perform the powers, duties, and functions conferred or imposed on them with respect to the company in a manner that is consistent with the Charter of the company and with sections 8A and 8B.
 
 **Crown entity**
 
