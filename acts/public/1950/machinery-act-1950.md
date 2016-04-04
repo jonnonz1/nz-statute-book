@@ -1,5 +1,5 @@
 # Machinery Act 1950
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2016-04-04_
 
 > An Act to make provision for the inspection of certain kinds of machinery and for the safety of persons working with machinery to which the Act applies
 
@@ -256,7 +256,7 @@ In any case where in the opinion of an Inspector any provision of this Act is no
 (3) When the Minister approves a code of practice, or any amendment or revocation of a code of practice, he shall—
   (a) publish a notice of his approval in the Gazette; and
   (b) cause that code of practice or amendment or revocation to be promulgated in such manner as he thinks fit.
-(4) Publication in the Gazette of a notice under subsection (3)(a) shall be conclusive evidence that the requirements of this section have been complied with in respect of the approval specified in the notice.
+(4) Publication in the Gazette of a notice under subsection (3)﻿(a) shall be conclusive evidence that the requirements of this section have been complied with in respect of the approval specified in the notice.
 (5) Where any person is charged with an offence in respect of a failure to comply with any provision of this Act, the court may, in determining whether that person has failed to comply with the provision, have regard to any code of practice in force pursuant to subsection (1) at the time of the alleged failure relating to matters of the kind to which the provision relates.
 
 ### 26C Proof of codes of practice
