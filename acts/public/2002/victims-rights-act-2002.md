@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2014-12-06_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -40,7 +40,7 @@ In this Act, unless the context otherwise requires,—
       (i) committed against the victim (or committed against a child or young person of whom the victim is a parent or legal guardian); or
       (ii) through which, or by means of which, the victim (or a child or young person of whom the victim is a parent or legal guardian) suffered physical injury or emotional harm, or loss of, or damage to, property; or
       (iii) that resulted in the death of a member of the victim's immediate family, or in a member of the victim's immediate family being incapable; and
-    (b) includes an alleged offence (whether or not a person is convicted of the offence) committed against the victim (or committed against a child or young person of whom the victim is a parent or legal guardian), or that has affected the victim (or a child or young person of whom the victim is a parent or legal guardian) in any of the ways referred to in paragraph (a)(ii) or (iii)
+    (b) includes an alleged offence (whether or not a person is convicted of the offence) committed against the victim (or committed against a child or young person of whom the victim is a parent or legal guardian), or that has affected the victim (or a child or young person of whom the victim is a parent or legal guardian) in any of the ways referred to in paragraph (a)﻿(ii) or (iii)
   - **offender** , in relation to a victim,—
     (a) means a person convicted of the crime or offence that affected the victim; and
     (b) in section 9 (which relates to meetings requested by victims) and sections 17AA to 27 (which relate to victim impact statements), includes a person found guilty of, or who pleads guilty to, that crime or offence
@@ -53,7 +53,7 @@ In this Act, unless the context otherwise requires,—
     (ba) a person whom the victim nominates by notice in writing as his or her support person (not being a person accused of the offence, or the offender):
     (c) a Social Worker (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) if—
       (i) the victim is a child or young person who is in the custody or under the guardianship or in the care of the chief executive or another person under that Act; or
-      (ii) the victim is a child who is not married or in a civil union and who is placed under the guardianship of the court by an order under section 31(1)(a) of the Care of Children Act 2004, and the Social Worker is appointed the agent of the court by an order under section 31(1)(b) or section 33(1)(c)(ii) of that Act:
+      (ii) the victim is a child who is not married or in a civil union and who is placed under the guardianship of the court by an order under section 31(1)﻿(a) of the Care of Children Act 2004, and the Social Worker is appointed the agent of the court by an order under section 31(1)﻿(b) or section 33(1)﻿(c)﻿(ii) of that Act:
     (d) a welfare guardian of the victim, or manager of the property of the victim, appointed under the Protection of Personal and Property Rights Act 1988:
     (e) an attorney appointed by the victim under a power of attorney described in section 95 of the Protection of Personal and Property Rights Act 1988 if—
       (i) the matter is one relating to the personal care and welfare of the victim in relation to which the attorney is authorised to act under the power of attorney; and
@@ -136,7 +136,7 @@ Sections 7 to 9, and the principles in them guiding the treatment of victims, do
     (iii) any finding that the charge was not proved; or
     (iv) any acquittal or deemed acquittal; or
     (v) any grant of free pardon.
-(2) The events referred to in subsection (1)(d) are—
+(2) The events referred to in subsection (1)﻿(d) are—
   (a) the first appearance in court, in connection with the offence, of the person accused of the offence:
   (b) any preliminary hearing relating to the offence:
   (c) any trial relating to the offence:
@@ -208,8 +208,8 @@ The purpose of a victim impact statement is to—
   (b) any loss of, or damage to, property suffered by the victim through, or by means of, the offence; and
   (c) any other effects of the offence on the victim; and
   (d) any other matter consistent with the purpose of victim impact statements set out in section 17AB.
-(3) If a person is a victim in terms of paragraph (a)(iii) of the definition of victim in section 4, then a reference in subsection (2)(a) to (c) of this section to the victim includes a reference to the child or young person concerned.
-(4) If a person is a victim in terms of paragraph (a)(iv) of the definition of victim in section 4 because a member of that person's immediate family is incapable, then a reference in subsection (2)(a) to (c) of this section to the victim includes a reference to the incapable person concerned.
+(3) If a person is a victim in terms of paragraph (a)﻿(iii) of the definition of victim in section 4, then a reference in subsection (2)﻿(a) to (c) of this section to the victim includes a reference to the child or young person concerned.
+(4) If a person is a victim in terms of paragraph (a)﻿(iv) of the definition of victim in section 4 because a member of that person's immediate family is incapable, then a reference in subsection (2)﻿(a) to (c) of this section to the victim includes a reference to the incapable person concerned.
 
 ### 18 Procedure before ascertaining information from victim
 The prosecutor must make all reasonable efforts to ensure, before information is ascertained from a victim under section 17,—
@@ -217,7 +217,7 @@ The prosecutor must make all reasonable efforts to ensure, before information is
     (i) that the information is being ascertained for a victim impact statement; and
     (ii) that the victim must ensure that any information that he or she gives is true; and
     (iii) that the information must be recorded, and may be verified in the way stated in section 19(3) or (4); and
-  (b) that the victim is informed about who may properly see or make or keep copies of the victim impact statement, and about the orders, directions, and conditions, relating to disclosure and distribution of it, that may be made under sections 24(3)(b), 25, and 27; and
+  (b) that the victim is informed about who may properly see or make or keep copies of the victim impact statement, and about the orders, directions, and conditions, relating to disclosure and distribution of it, that may be made under sections 24(3)﻿(b), 25, and 27; and
   (c) that any views the victim has on whether the prosecutor should apply for orders, directions, or conditions of that kind, are ascertained.
 
 ### 19 Form and verification of information ascertained
@@ -306,7 +306,7 @@ A judicial officer must not take into account in sentencing the offender a part 
 (1) The judicial officer may, on his or her own initiative or on an application for the purpose by the prosecutor, give directions, or impose conditions, that—
   (a) relate to the disclosure and distribution of a victim impact statement; and
   (b) may be necessary to protect the victim's physical safety or security, emotional welfare, and privacy; and
-  (c) are not inconsistent with section 23(1) or (2) or with any order made under section 24(3)(b) or section 25.
+  (c) are not inconsistent with section 23(1) or (2) or with any order made under section 24(3)﻿(b) or section 25.
 (2) Under subsection (1), the judicial officer may—
   (a) give directions or impose conditions about the copying of the statement, including the number of copies that may be made:
   (b) give directions to, or impose conditions on, the people to whom the statement may be disclosed or distributed:
@@ -315,7 +315,7 @@ A judicial officer must not take into account in sentencing the offender a part 
   (e) direct that all or any part of the statement not be published, either generally or by a specified person:
   (f) impose conditions on the publication of all or any part of the statement:
   (g) give directions, and impose conditions, about any other matters to do with the disclosure and distribution of the statement that the judicial officer considers necessary or appropriate in the circumstances.
-(3) No direction given, or condition imposed, under subsection (1) may be in the same terms or have the same effect as an order made under section 24(3)(b) or section 25.
+(3) No direction given, or condition imposed, under subsection (1) may be in the same terms or have the same effect as an order made under section 24(3)﻿(b) or section 25.
 
 **Victim's views on application for order prohibiting permanently publication of name of accused or offender**
 
@@ -362,13 +362,13 @@ As soon as practicable after a victim comes into contact with the New Zealand Po
 (2) The Commissioner of Police must, as soon as practicable,—
   (a) inform the victim of the matters required by subsections (3) to (5); and
   (b) inform a support person of the victim of the matters required by subsection (6).
-(3) The Commissioner of Police must inform the victim that the victim has the right to ask to be given any notice under sections 34 to 38 and that, if he or she asks to be given such notices, then the victim must at the same time give to the New Zealand Police his or her address in accordance with section 32B(1)(c)(i).
+(3) The Commissioner of Police must inform the victim that the victim has the right to ask to be given any notice under sections 34 to 38 and that, if he or she asks to be given such notices, then the victim must at the same time give to the New Zealand Police his or her address in accordance with section 32B(1)﻿(c)﻿(i).
 (4) The Commissioner of Police must inform the victim that if the victim asks to be given any notice under sections 34 to 38 and gives the New Zealand Police his or her address, then the victim may also be given notice under the following provisions:
   (a) section 39:
   (b) section 20 of the Prisoners' and Victims' Claims Act 2005.
 (5) The Commissioner of Police must inform the victim that—
   (a) the victim may appoint a representative under section 40 to request and receive on his or her behalf any notice given under sections 34 to 39; and
-  (b) if the victim appoints a representative, the victim or his or her representative must give to the New Zealand Police the name and address of the representative in accordance with section 32B(1)(c)(ii).
+  (b) if the victim appoints a representative, the victim or his or her representative must give to the New Zealand Police the name and address of the representative in accordance with section 32B(1)﻿(c)﻿(ii).
 (6) If the Commissioner of Police knows, or ought reasonably to know, that the victim is not, or may not be, capable alone of doing any of the following, the Commissioner must inform a support person of the victim that a representative of the victim may be appointed under section 42:
   (a) asking for, receiving, or understanding a notice under any of sections 34 to 39; and
   (b) appointing a representative under section 40.
@@ -387,7 +387,7 @@ As soon as practicable after determining that the offence that affected the vict
 As soon as practicable after receiving a notice under section 32 in respect of a victim, the Secretary must inform the victim that—
   (a) the victim may appoint a representative under section 40; and
   (b) the victim, or his or her representative, has the right to request to be given any notice under sections 34 to 38; and
-  (c) the victim, or his or her representative, at the same time as exercising the right in paragraph (b), must give to the New Zealand Police an address under section 32B(1)(c)(i) or (ii).
+  (c) the victim, or his or her representative, at the same time as exercising the right in paragraph (b), must give to the New Zealand Police an address under section 32B(1)﻿(c)﻿(i) or (ii).
 
 **Sections 34 to 38 and 47 apply only to certain victims who request notice and give address**
 
@@ -400,7 +400,7 @@ As soon as practicable after receiving a notice under section 32 in respect of a
   (c) at the same time as the victim, or the victim's representative, makes a request under paragraph (b), the New Zealand Police is given—
     (i) the victim's address; or
     (ii) the name and address of the victim's representative.
-(2) Section 34 also applies to a victim (to whom subsection (1)(a) applies but not subsection (1)(b) and (c)) if—
+(2) Section 34 also applies to a victim (to whom subsection (1)﻿(a) applies but not subsection (1)﻿(b) and (c)) if—
   (a) the victim's views have been ascertained under section 30 about the release on bail of the person accused of the offence or the offender; and
   (b) the victim, or the victim's representative, has—
     (i) requested the New Zealand Police to ensure that the victim is given notice under section 34; and
@@ -411,14 +411,14 @@ As soon as practicable after receiving a notice under section 32 in respect of a
 **Victim's address to be forwarded in certain cases**
 
 ### 33 Address of victim or victim's representative to be forwarded in certain cases
-(1) If a victim or the victim's representative has made a request under section 32B(1)(b) and complied with section 32B(1)(c), the Commissioner of Police must forward to the persons specified in subsection (2) the following information:
+(1) If a victim or the victim's representative has made a request under section 32B(1)﻿(b) and complied with section 32B(1)﻿(c), the Commissioner of Police must forward to the persons specified in subsection (2) the following information:
   (a) the victim's name and address; or
   (b) the victim's name and the name and address of the victim's representative.
 (2) The persons referred to in subsection (1) are—
   (a) the chief executive of the Department of Corrections, if—
     (i) the person accused of the offence or, as the case requires, the offender is or becomes liable to be detained in a prison in connection with the offence and the Commissioner has not already forwarded a copy of the address under paragraph (b); or
     (ii) the offender has been sentenced to home detention:
-  (b) the Director-General of Health, if the person accused of the offence or, as the case requires, the offender is or becomes liable to be detained in a hospital or facility in connection with the offence, his or her liability to detention is of a kind referred to in section 37(1)(a) or (b), and the Commissioner has not already forwarded a copy of the address under paragraph (a).
+  (b) the Director-General of Health, if the person accused of the offence or, as the case requires, the offender is or becomes liable to be detained in a hospital or facility in connection with the offence, his or her liability to detention is of a kind referred to in section 37(1)﻿(a) or (b), and the Commissioner has not already forwarded a copy of the address under paragraph (a).
 (3) The chief executive of the Department of Corrections must forward to the Director-General of Health the information that the chief executive of the Department of Corrections has received under subsection (1) if the offender, having been liable to be detained in a prison in connection with the offence, becomes liable to be detained—
   (a) in a hospital following an application under section 45(2) of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or under an arrangement under section 46 of that Act; or
   (b) in a facility following an application under section 29(1) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
@@ -426,8 +426,8 @@ As soon as practicable after receiving a notice under section 32 in respect of a
 (5) An address required to be forwarded under this section must be forwarded as soon as practicable after the requirement arises.
 
 ### 33A Notification of change of address of victim or representative
-(1) A victim may change his or her address given under section 32B(1)(c)(i) or (2)(b)(ii)(A) by notifying in writing the persons specified in subsection (3) of that change.
-(2) A victim or the victim's representative may change the representative's address given under section 32B(1)(c)(ii) or (2)(b)(ii)(B) by notifying in writing the persons specified in subsection (3) of that change.
+(1) A victim may change his or her address given under section 32B(1)﻿(c)﻿(i) or (2)﻿(b)﻿(ii)﻿(A) by notifying in writing the persons specified in subsection (3) of that change.
+(2) A victim or the victim's representative may change the representative's address given under section 32B(1)﻿(c)﻿(ii) or (2)﻿(b)﻿(ii)﻿(B) by notifying in writing the persons specified in subsection (3) of that change.
 (3) The persons referred to in subsections (1) and (2) are any of the following persons who would be likely to give the victim or the victim's representative a notice under any of sections 34 to 38:
   (a) the Commissioner of Police:
   (b) the chief executive of the Department of Corrections:
@@ -444,7 +444,7 @@ As soon as practicable after receiving a notice under section 32 in respect of a
   (c) if the notification has been forwarded under paragraph (b), inform the victim or the victim's representative from whom the notification was received—
     (i) that this has been done; and
     (ii) of the name of Person B.
-(6) Person B who has been forwarded a notification under subsection (4)(a) or (5)(a) must confirm to the victim or the victim's representative, as the case may be,—
+(6) Person B who has been forwarded a notification under subsection (4)﻿(a) or (5)﻿(a) must confirm to the victim or the victim's representative, as the case may be,—
   (a) receipt of the notification from Person A; and
   (b) that any future change of address should be notified under subsection (1) or (2) to Person B.
 
@@ -470,7 +470,7 @@ As soon as practicable after receiving a notice under section 32 in respect of a
     (ii) the chief executive of the Department of Corrections:
     (iii) the Director-General of Health; and
   (b) request each of those persons to supply the full name and address of any victim of the offence, or the victim's representative, in respect of whom the person has received an address under any of sections 32B to 33A.
-(2) As soon as practicable after receiving a request under subsection (1)(b), a person must—
+(2) As soon as practicable after receiving a request under subsection (1)﻿(b), a person must—
   (a) respond to that request; and
   (b) if possible, supply that information.
 
@@ -488,7 +488,7 @@ As soon as practicable after receiving a notice under section 32 in respect of a
   (b) if the person accused of the offence or, as the case requires, the offender has been released on bail, any terms or conditions of release imposed at any time that—
     (i) relate to the safety and security of the victim, or of 1 or more members of the victim's immediate family, or of both; or
     (ii) require the accused or offender not to associate with, or not to contact, the victim, or 1 or more members of the victim's immediate family, or both; and
-  (c) if any term or condition of release referred to in paragraph (b)(i) or (ii) is by order of the court or Registrar varied, revoked, or substituted with any other term or condition, the detail of that order; and
+  (c) if any term or condition of release referred to in paragraph (b)﻿(i) or (ii) is by order of the court or Registrar varied, revoked, or substituted with any other term or condition, the detail of that order; and
   (d) if an application for release on bail has been made and the hearing of that application has been adjourned, the date to which the hearing has been adjourned.
 (2) In this section, release on bail includes a release on bail—
   (a) until the hearing of proceedings:
@@ -517,8 +517,8 @@ As soon as practicable after receiving a notice under section 32 in respect of a
   (a) means detention in a prison (or in a Police station or other place of confinement, in accordance with section 35 of the Corrections Act 2004); and
   (b) includes, if a child or young person is serving a sentence of imprisonment, detention of the child or young person under that sentence in a residence of the kind referred to in section 34A of the Corrections Act 2004; but
   (c) does not include—
-    (i) detention of a child or young person in Police custody, or in the custody of the chief executive, an Iwi Social Service, or a Cultural Social Service, and pending hearing, under section 238(1)(d) or (e) of the Children, Young Persons, and Their Families Act 1989; and
-    (ii) detention of a kind referred to in section 37(1)(a) or (b) of this Act.
+    (i) detention of a child or young person in Police custody, or in the custody of the chief executive, an Iwi Social Service, or a Cultural Social Service, and pending hearing, under section 238(1)﻿(d) or (e) of the Children, Young Persons, and Their Families Act 1989; and
+    (ii) detention of a kind referred to in section 37(1)﻿(a) or (b) of this Act.
 
 ### 35A Notice of cessation of, or absconding from, or death during, home detention of offender
 The chief executive of the Department of Corrections must give a victim to whom this section applies—
@@ -548,14 +548,14 @@ The chief executive of the Department of Corrections must give a victim to whom 
 ### 37 Notice of discharge, leave of absence, or escape or death of accused or offender who is compulsorily detained in hospital or facility
 (1) Without limiting sections 29 and 32B, this section applies to a victim only if the person accused of the offence or, as the case requires, the offender, is liable to be detained in a hospital or facility in connection with the offence and, when his or her liability of that kind began, he or she was liable to be detained in a hospital or facility—
   (a) as a special patient as defined in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or as a special care recipient as defined in section 6(2) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
-  (b) under an order made under section 25(1)(a) or (b) or section 34(1)(b) of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
+  (b) under an order made under section 25(1)﻿(a) or (b) or section 34(1)﻿(b) of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
 (2) The Director-General of Health must give a victim to whom this section applies—
   (a) reasonable prior notice of an impending discharge of the person or offender; and
   (b) reasonable prior notice of the first unescorted leave of absence from the hospital or facility granted to the person or offender under a leave provision; and
   (ba) reasonable prior notice of the first unescorted overnight leave of absence granted to the person or offender under a leave provision; and
   (c) notice, as soon as practicable, of every escape by the person or offender; and
   (d) notice, as soon as practicable, of the death (whether within or outside a hospital or facility) of the person or offender.
-(3) To avoid doubt, in subsection (2)(b),—
+(3) To avoid doubt, in subsection (2)﻿(b),—
   - **facility** includes the land on which the facility is situated
   - **hospital** includes the land on which the hospital is situated.
 (4) In this section, leave provision means any of the following provisions:
@@ -567,7 +567,7 @@ The chief executive of the Department of Corrections must give a victim to whom 
   (a) was, when his or her liability to detention in a hospital or facility began, liable to be detained—
     (i) following an application under section 45(2) of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or under an arrangement under section 46 of that Act; or
     (ii) following an application under section 29(1) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
-    (iii) under an order under section 34(1)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; and
+    (iii) under an order under section 34(1)﻿(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; and
   (b) ceases, under section 48 of the Mental Health (Compulsory Assessment and Treatment) Act 1992, to be a special patient within the meaning of that Act or ceases, under section 69 of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, to be a special care recipient within the meaning of that Act.
 (2) If this section applies, the Director-General of Health must, instead of complying with section 37(2), give the victim notice, as soon as practicable, that the offender is no longer liable to detention for the sentence imposed for the offence.
 
@@ -580,7 +580,7 @@ The chief executive of the Department of Corrections must give a victim to whom 
     (i) the Minister is considering suspending or cancelling the liability for deportation of the criminal offender; or
     (ii) the criminal offender has appealed against his or her liability for deportation to the Immigration and Protection Tribunal; and
   (b) request the specified person to provide to the chief executive the address of the victim of the offence, or of the victim's representative.
-(3) A specified person must, as soon as practicable after receiving a request under subsection (2)(b), comply with that request if—
+(3) A specified person must, as soon as practicable after receiving a request under subsection (2)﻿(b), comply with that request if—
   (a) that address has been given or forwarded to the specified person under sections 32B to 33A; and
   (b) the specified person has not forwarded that address under section 33 to any other specified person.
 (4) For the purposes of subsection (2), each of the following persons is a specified person:
@@ -590,7 +590,7 @@ The chief executive of the Department of Corrections must give a victim to whom 
 (5) If the victim’s address is given to the chief executive under subsection (2),—
   (a) the chief executive must, if practicable, give the victim notice that the Minister is considering cancelling or suspending the deportation liability of the offender under section 172 of the Immigration Act 2009; and
   (b) if a deportation liability notice has been served and the offender concerned appeals against that liability for deportation on humanitarian grounds under section 206 of that Act, the chief executive must give the victim’s address to the Immigration and Protection Tribunal, and that Tribunal must give the victim prior notice of the hearing of the appeal.
-(6) Failure to comply with subsection (2) or (5) does not invalidate any decision of the kind referred to in subsection (5)(a) or a decision on an appeal of the kind referred to in subsection (5)(b).
+(6) Failure to comply with subsection (2) or (5) does not invalidate any decision of the kind referred to in subsection (5)﻿(a) or a decision on an appeal of the kind referred to in subsection (5)﻿(b).
 
 **Representatives for notice**
 
@@ -634,7 +634,7 @@ A notice appointing, or terminating the appointment of, a representative, takes 
   (b) by posting it, or delivering it by courier or otherwise, to the victim at a postal address (for example, one of a house or office, letterbox, rural delivery box, document exchange box, or private box at a postal outlet) he or she gave as part of his or her address; or
   (c) by sending it by fax machine to a fax number given by the victim as part of his or her address; or
   (d) by sending it by email to the victim at the email address he or she gave as part of his or her address.
-(2) If, as required by section 41(b), information is to be given to the representative of a victim, it is sufficient compliance with that requirement to give the information by any of the means set out in subsection (1)(a) to (d) and all references in those paragraphs to the victim are to be read as references to the representative.
+(2) If, as required by section 41(b), information is to be given to the representative of a victim, it is sufficient compliance with that requirement to give the information by any of the means set out in subsection (1)﻿(a) to (d) and all references in those paragraphs to the victim are to be read as references to the representative.
 (3) Nothing in subsection (1) or (2) prevents notice from being given by any other means.
 
 **Participation in process under Parole Act 2002**
@@ -660,10 +660,10 @@ A victim to whom this section applies may make submissions to the Minister of Im
   (b) an Ombudsman, in accordance with the Ombudsmen Act 1975, if the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right, may be the subject of a complaint under that Act:
   (c) the Independent Police Conduct Authority, in accordance with the Independent Police Conduct Authority Act 1988, if the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right, is a constable:
   (d) the Privacy Commissioner, in accordance with the Privacy Act 1993, if the matter involves, or may involve, an action that is, or appears to be, an interference with the privacy of the victim or person.
-(3) Any person who receives a complaint under subsection (2)(a) must deal with the complaint promptly and fairly.
+(3) Any person who receives a complaint under subsection (2)﻿(a) must deal with the complaint promptly and fairly.
 
 ### 50 Other ways in which rights may be enforced
-(1) Except as provided in subsection (2), neither section 49 nor this section limits the ways in which rights conferred by the specified provisions (as defined in section 49(1)(a)) may be enforced.
+(1) Except as provided in subsection (2), neither section 49 nor this section limits the ways in which rights conferred by the specified provisions (as defined in section 49(1)﻿(a)) may be enforced.
 (2) No person (for example, the Crown in right of New Zealand) may be required (for example, by any court, tribunal, or other body) to pay any money (whether by way of damages, compensation, or otherwise) to any other person just because of a breach of any of the specified provisions.
 (3) An example of the operation of subsection (2) is that the Human Rights Review Tribunal (as defined in section 2(1) of the Privacy Act 1993) may require the payment of money in respect of conduct that is, or may be, a breach of any of the specified provisions, if that conduct also constitutes an interference with the privacy of an individual.
 
@@ -676,7 +676,7 @@ A victim to whom this section applies may make submissions to the Minister of Im
 (2) The agencies referred to in subsection (1) are—
   (a) the Crown Law Office:
   (b) the Department of Corrections:
-  (c) the Department of Labour:
+  (c) the Ministry of Business, Innovation, and Employment:
   (d) the Ministry of Justice:
   (e) the Ministry of Social Development:
   (f) the New Zealand Police.
