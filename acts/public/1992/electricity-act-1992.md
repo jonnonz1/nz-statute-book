@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-04-04_
 
 > Title
 
@@ -21,12 +21,6 @@ The purposes of this Act are—
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **all practicable steps** , in relation to achieving any result in any circumstances, means all steps to achieve the result that it is reasonably practicable to take in the circumstances, having regard to—
-    (a) the nature and severity of the serious harm or significant property damage that may be suffered if the result is not achieved; and
-    (b) the current state of knowledge about the likelihood that harm or damage of that nature and severity will be suffered if the result is not achieved; and
-    (c) the current state of knowledge about harm or damage of that nature; and
-    (d) the current state of knowledge about the means available to achieve the result, and about the likely efficacy of each of those means; and
-    (e) the availability and cost of each of those means
   - **applicable minimum standards for registration** means the minimum standards for registration that—
     (a) apply in relation to the relevant class of registration; and
     (b) are prescribed under Part 10
@@ -81,7 +75,7 @@ The purposes of this Act are—
   - **lines** means works that are used or intended to be used for the conveyance of electricity
   - **local authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **maintain** includes to repair; and has a corresponding meaning
-  - **Minister** means the Minister of the Crown who, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **Minister** , in any provision of this Act, means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of that provision
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **official standard** means—
     (a) a New Zealand Standard within the meaning of the Standards and Accreditation Act 2015:
@@ -106,6 +100,14 @@ The purposes of this Act are—
     (e) the testing or certification or inspection or supervision of the work described in paragraphs (a) to (d)
   - **price** includes valuable consideration in any form, whether direct or indirect; and also includes any consideration that in effect relates to the acquisition of goods or services or the acquisition or disposition of any interest in land, although ostensibly relating to any other matter or thing
   - **provisional licence** means a provisional licence issued under section 93
+  - **reasonably practicable** , in relation to a duty to ensure health and safety or to protect property, means that which is, or was, at a particular time, reasonably able to be done in relation to ensuring health and safety or protecting property, taking into account and weighing up all relevant matters, including—
+    (a) the likelihood of the hazard or the risk concerned occurring; and
+    (b) the degree of harm or damage that might result from the hazard or risk; and
+    (c) what the person concerned knows, or ought reasonably to know, about—
+      (i) the hazard or risk; and
+      (ii) ways of eliminating or minimising the risk; and
+    (d) the availability and suitability of ways to eliminate or minimise the risk; and
+    (e) after assessing the extent of the risk and the available ways of eliminating or minimising the risk, the cost associated with available ways of eliminating or minimising the risk, including whether the cost is grossly disproportionate to the risk
   - **register** means the register kept under Part 10
   - **registered person** means a person who, for the time being,—
     (a) is registered under subpart 1 of Part 10; or
@@ -122,9 +124,7 @@ The purposes of this Act are—
   - **serious harm** means—
     (a) death; or
     (b) injury that consists of or includes loss of consciousness; or
-    (c) injury that necessitates the person suffering the injury—
-      (i) being admitted to hospital; or
-      (ii) receiving medical treatment from a health practitioner who is, or is deemed to be, registered with an authority established or continued by section 114 of the Health Practitioners Competence Assurance Act 2003 as a practitioner of a particular health profession
+    (c) a notifiable injury or illness as defined in section 23 of the Health and Safety at Work Act 2015
   - **supervision** , in relation to any work, means that the work is undertaken under such control and direction of a person authorised under this Act to do the work or, in the case of section 76, a person authorised to supervise work under that section as is sufficient to ensure—
     (a) that the work is performed competently; and
     (b) that while the work is being undertaken, appropriate safety measures are adopted; and
@@ -304,7 +304,7 @@ Subject to section 13, where a notice of objection is lodged under section 9, th
 (5) Every notice under this section shall be in the prescribed form (if any) and shall contain such particulars as are prescribed (if any).
 (6) Notification of an accident in accordance with either or both of the following provisions is compliance with subsection (3):
   (a) section 17(3) of the Gas Act 1992:
-  (b) section 25(3) of the Health and Safety in Employment Act 1992.
+  (b) section 56 of the Health and Safety at Work Act 2015.
 
 ### 16A Transfer of accident information
 (1) In this section, specified matter means a matter that is specified in a Gazette notice under section 5A(2).
@@ -314,7 +314,7 @@ Subject to section 13, where a notice of objection is lodged under section 9, th
 ### 17 Interference with scene of accident
 (1) No person shall interfere in any way with the scene of any accident to which section 16 applies without the permission of WorkSafe, or if WorkSafe is not present, a constable or a member of a fire brigade, except to the extent that the person believes is necessary to avoid or minimise further injury or damage or to restore the safe supply of electricity.
 (2) Where any person does interfere in any way with the scene of any accident to which section 16 applies, the person shall as soon as practicable notify WorkSafe of the action the person has taken.
-(3) Nothing in subsection (1) applies in respect of any person who is investigating the accident pursuant to the Health and Safety in Employment Act 1992.
+(3) Nothing in subsection (1) applies in respect of any person who is investigating the accident pursuant to the Health and Safety at Work Act 2015.
 
 ### 18 Inquiries into accidents
 (1) WorkSafe may conduct an inquiry into any accident to which section 16 applies to establish the cause of the accident.
@@ -578,8 +578,8 @@ In any regulations made under section 169, any electrical code of practice or am
   (a) a copy of an emergency amendment of an electrical code of practice purporting to have been issued by WorkSafe shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 40 on the date shown on it as the date of issue:
   (b) a certificate under the hand of the Minister that the Minister has continued such an amendment in force until a date specified in the certificate shall, in the absence of proof to the contrary, be sufficient evidence that the amendment has been continued in force until that date under section 40(3).
 (3) In any proceedings for an offence against this Act or against any regulations made under section 169,—
-  (a) any requirement or standard prescribed in an electrical code of practice by reference to any official standard (not being a New Zealand Standard) may be proved by the production of a copy of that official standard certified to be correct by WorkSafe:
-  (b) judicial notice shall be taken of the signature of WorkSafe.
+  (a) any requirement or standard prescribed in an electrical code of practice by reference to any official standard (not being a New Zealand Standard) may be proved by the production of a copy of that official standard certified to be correct by the chairperson of WorkSafe:
+  (b) judicial notice shall be taken of a signature purporting to be the signature of the chairperson of WorkSafe.
 
 ### 43 Codes promulgated under Electricity Act 1968
 Every electrical code of practice promulgated under the Electricity Act 1968 that was in force immediately before 1 April 1993 is deemed to be in force under this Part, and may be amended and revoked accordingly.
@@ -648,7 +648,8 @@ All electricity distributed by an electricity distributor shall comply with such
 All works, electrical installations, and electrical appliances shall be of such quality and standard, and shall be constructed, maintained, and operated in accordance with such safety requirements, as are prescribed by regulations made under section 169.
 
 ### 61A Electricity generators and electricity distributors must have safety management systems
-(1) Every electricity generator and every electricity distributor that owns or operates an electricity supply system must implement and maintain, in accordance with regulations made under section 169, a safety management system that requires all practicable steps to be taken to prevent the electricity supply system from presenting a significant risk of—
+(1) Every electricity generator and every electricity distributor that owns or operates an electricity supply system must implement and maintain, in accordance with regulations made under section 169, a safety management system.
+(1A) The safety management system must prevent, so far as is reasonably practicable, the electricity supply system from presenting a significant risk of—
   (a) serious harm to any member of the public; or
   (b) significant damage to property owned by a person other than the electricity generator or electricity distributor.
 (2) For the purposes of this Act, electricity supply system means,—
@@ -1951,7 +1952,7 @@ The provisions set out in Schedule 2 apply to the Board.
   (a) entry to the land or premises shall only be made by the person specified in the relevant provision or any other person that the person so specified authorises in writing, either specifically or as a member of a class so authorised:
   (b) reasonable notice of the intention to enter shall be given unless the giving of the notice would defeat the purpose of the entry:
   (c) entry shall be made at reasonable times:
-  (d) the person entering shall carry a warrant of authority or be working under the immediate control of a person holding such authority, which shall be produced on intitial entry and, if requested, at any subsequent time:
+  (d) the person entering shall carry a warrant of authority or be working under the immediate control of a person holding such authority, which shall be produced on initial entry and, if requested, at any subsequent time:
   (e) entry into a dwellinghouse must be authorised by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on an application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
 (2) The conditions specified in subsection (1) shall not apply where the entry is necessary in circumstances of probable danger to life or property or where entry is necessary to maintain the continuity or safety of the supply and distribution of electricity.
 (3) Nothing in this section shall restrict rights of access in order to obtain consent to enter the land or premises for the authorised purposes in respect of which entry is required.
@@ -1996,17 +1997,17 @@ Every person who, being an electricity generator or an electricity distributor, 
 (1) Every person commits an offence if—
   (a) the person takes an action knowing that the action is reasonably likely to cause serious harm to any person or significant property damage; and
   (b) the action is contrary to a provision of this Act; and
-  (c) the person fails to take all practicable steps to prevent the serious harm or significant property damage.
+  (c) the person fails to prevent, so far as is reasonably practicable, the serious harm or significant property damage.
 (2) Every person commits an offence if—
   (a) the person fails to take an action knowing that the failure to take the action is reasonably likely to cause serious harm to any person or significant property damage; and
   (b) the person is required by this Act to take the action; and
-  (c) the person fails to take all practicable steps to prevent the serious harm or significant property damage.
+  (c) the person fails to prevent, so far as is reasonably practicable, the serious harm or significant property damage.
 (3) Every person who commits an offence under this section is liable on conviction to—
   (a) imprisonment for a term of not more than 2 years; or
   (b) a fine of not more than $100,000 in the case of an individual, or $500,000 in the case of a body corporate; or
   (c) both.
 (4) A person charged with an offence under this section may be convicted of an offence under any other section in this Act as if the person had been charged under that section.
-(5) To avoid doubt, a person required by this section to take all practicable steps is required to take those steps only in respect of circumstances that the person knows, or ought reasonably to know, about.
+(5) To avoid doubt, a person required by this section to prevent, so far as is reasonably practicable, serious harm or significant property damage is required to take action only in respect of circumstances that the person knows, or ought reasonably to know, about.
 (6) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011 a charging document may be filed at any time in respect of an offence under this section.
 
 ### 163D Other offences
@@ -2179,7 +2180,7 @@ WorkSafe and the Registrar must pay all infringement fees received into a Crown 
   (b) provide that proof of compliance with—shall be proof of compliance with such provisions of the regulations as are specified in the regulations.
     (i) any electrical code of practice, or any part of such a code; or
     (ia) any official standard, or any part of an official standard; or
-    (ii) any approved code of practice for the time being in force pursuant to section 20A of the Health and Safety in Employment Act 1992, or any part of any such approved code of practice,—
+    (ii) any approved code of practice for the time being in force pursuant to section 222 of the Health and Safety at Work Act 2015, or any part of any such approved code of practice,—
 (2A) Regulations may require compliance with an official standard (or a specified part of an official standard) that relates to the subject matter of the regulations by referring to it in the regulations (with any additions or variations that may be specified in the regulations).
 (2B) That official standard (or the specified part), as it existed on the date of the inclusion (but with any specified additions or variations), is then deemed to form part of the regulations.
 (2C) In subsections (2), (2A), and (2B), official standard may be treated as including, for the purposes of subsections (1)﻿(2)﻿(b) and (c), (7A), and (8)﻿(aa) and (c), the Conformity Cooperation Agreement (including any amendments made to that agreement in accordance with it) and any standards or rules referred to in the Conformity Cooperation Agreement.
@@ -2194,7 +2195,7 @@ WorkSafe and the Registrar must pay all infringement fees received into a Crown 
   (a) the systematic identification of—
     (i) existing hazards; and
     (ii) new hazards (if possible before, and otherwise as, they arise); and
-  (b) the taking of all practicable steps to eliminate, isolate, or minimise those hazards; and
+  (b) the elimination, isolation, or minimisation of those hazards, so far as is reasonably practicable; and
   (c) the regular assessment of each hazard identified; and
   (d) the documentation of the safety management system; and
   (e) the audit of the safety management system.
@@ -2219,8 +2220,16 @@ WorkSafe and the Registrar must pay all infringement fees received into a Crown 
     (ii) without limitation, a situation described in subparagraph (i) resulting from physical or mental fatigue, drugs, alcohol, traumatic shock, or another temporary condition that affects a person's behaviour.
 
 ### 169B Miscellaneous provisions relating to regulations that prescribe requirements for safety management systems
-(1) To avoid doubt, a person required by a safety management system to take all practicable steps is required to take those steps only in respect of circumstances that the person knows, or ought reasonably to know, about.
+(1) To avoid doubt, a person required by a safety management system to eliminate, isolate, or minimise hazards so far as is reasonably practicable is required to take action only in respect of circumstances that the person knows, or ought reasonably to know, about.
 (2) Different requirements may be prescribed under section 169(1)﻿(3A) in respect of different classes of electricity generators or electricity distributors.
+
+**Safe work instruments—Legal effect**
+
+### 169C Legal effect of safe work instruments
+(1) For the purposes of this Act, a safe work instrument made under section 227 of the Health and Safety at Work Act 2015 has legal effect only to the extent that any regulations made under this Act refer to it.
+(2) For the purposes of subsection (1), regulations may refer to—
+  (a) a particular safe work instrument as amended or replaced from time to time; or
+  (b) any safe work instrument that may be made for the purposes of regulations (even if the instrument is not or has not been made at the time the regulations are made).
 
 **Regulations—Information disclosure**
 
