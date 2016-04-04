@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2016-04-01_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -1098,7 +1098,7 @@ The object of this Part is—
 ### 67B Effect of trial provision under section 67A
 (1) This section applies if an employer terminates an employment agreement containing a trial provision under section 67A by giving the employee notice of the termination before the end of the trial period, whether the termination takes effect before, at, or after the end of the trial period.
 (2) An employee whose employment agreement is terminated in accordance with subsection (1) may not bring a personal grievance or legal proceedings in respect of the dismissal.
-(3) Neither this section nor a trial provision prevents an employee from bringing a personal grievance or legal proceedings on any of the grounds specified in section 103(1)﻿(b) to (g).
+(3) Neither this section nor a trial provision prevents an employee from bringing a personal grievance or legal proceedings on any of the grounds specified in section 103(1)﻿(b) to (h).
 (4) An employee whose employment agreement contains a trial provision is, in all other respects (including access to mediation services), to be treated no differently from an employee whose employment agreement contains no trial provision or contains a trial provision that has ceased to have effect.
 (5) Subsection (4) applies subject to the following provisions:
   (a) in observing the obligation in section 4 of dealing in good faith with the employee, the employer is not required to comply with section 4(1A)﻿(c) in making a decision whether to terminate an employment agreement under this section; and
@@ -2634,6 +2634,9 @@ An employee who believes that he or she has a personal grievance may pursue that
   (g) that the employee's employer has failed to comply with a requirement of Part 6A; or
   (h) that the employee has been disadvantaged by the employee’s employment agreement not being in accordance with section 67C, 67D, 67G, or 67H; or
   (i) that the employee’s employer has contravened section 67F or 67G(4).
+  (j) that the employee’s employer has, in relation to the employee,—
+    (i) engaged in adverse conduct for a prohibited health and safety reason; or
+    (ii) contravened section 92 of the Health and Safety at Work Act 2015 (which prohibits coercion or inducement).
 (2) For the purposes of this Part, a representative, in relation to an employer and in relation to an alleged personal grievance, means a person—
   (a) who is employed by that employer; and
   (b) who either—
@@ -2655,7 +2658,7 @@ An employee who believes that he or she has a personal grievance may pursue that
   (b) did not result in the employee being treated unfairly.
 
 ### 104 Discrimination
-(1) For the purposes of section 103(1)﻿(c), an employee is discriminated against in that employee's employment if the employee's employer or a representative of that employer, by reason directly or indirectly of any of the prohibited grounds of discrimination specified in section 105, or by reason directly or indirectly of that employee's refusal to do work under section 28A of the Health and Safety in Employment Act 1992, or involvement in the activities of a union in terms of section 107,—
+(1) For the purposes of section 103(1)﻿(c), an employee is discriminated against in that employee's employment if the employee's employer or a representative of that employer, by reason directly or indirectly of any of the prohibited grounds of discrimination specified in section 105, or involvement in the activities of a union in terms of section 107,—
   (a) refuses or omits to offer or afford to that employee the same terms of employment, conditions of work, fringe benefits, or opportunities for training, promotion, and transfer as are made available for other employees of the same or substantially similar qualifications, experience, or skills employed in the same or substantially similar circumstances; or
   (b) dismisses that employee or subjects that employee to any detriment, in circumstances in which other employees employed by that employer on work of that description are not or would not be dismissed or subjected to such detriment; or
   (c) retires that employee, or requires or causes that employee to retire or resign.
@@ -2715,7 +2718,7 @@ An employee who believes that he or she has a personal grievance may pursue that
   (e) had submitted another personal grievance to that employee's employer; or
   (f) had been allocated, had applied to take, or had taken any employment relations education leave under this Act; or
   (g) was a delegate of other employees in dealing with the employer on matters relating to the employment of those employees.
-(2) An employee who is representing employees under the Health and Safety in Employment Act 1992, whether as a health and safety representative or a site health and safety representative (as those terms are defined in that Act) or otherwise, is to be treated as if he or she were a delegate of other employees for the purposes of subsection (1)﻿(g).
+(2)
 
 ### 108 Sexual harassment
 (1) For the purposes of sections 103(1)﻿(d) and 123(d), an employee is sexually harassed in that employee's employment if that employee's employer or a representative of that employer—
@@ -2749,11 +2752,26 @@ For the purposes of sections 103(1)﻿(e) and 123(d), an employee is racially ha
     (vii) not to participate in the formation of a union or employees organisation.
 (2) In this section and in section 103(1)﻿(f), employees organisation means any group, society, association, or other collection of employees other than a union, however described and whether incorporated or not, that exists in whole or in part to further the employment interests of the employees belonging to it.
 
-### 110A Membership of KiwiSaver scheme or complying superannuation fund
-[Repealed]
+### 110A Adverse conduct for prohibited health and safety reason
+(1) For the purposes of this Part, an employer engages in adverse conduct for a prohibited health and safety reason if the employer or a representative of the employer, for a prohibited health and safety reason,—
+  (a) dismisses an employee; or
+  (b) refuses or omits to offer or afford to the employee the same terms of employment, conditions of work, fringe benefits, or opportunities for training, promotion, and transfer as are made available to other employees of the same or substantially similar qualifications, experience, or skills employed in the same or substantially similar circumstances; or
+  (c) subjects the employee to any detriment in circumstances in which other employees employed by the employer in work of that description are not or would not be subjected to such detriment; or
+  (d) retires the employee, or requires or causes the employee to retire or resign.
+(2) For the purposes of subsection (1), conduct described in that section is engaged in for a prohibited health and safety reason if it is engaged in for a reason described in section 89 of the Health and Safety at Work Act 2015.
+(3) An employer may be found to have engaged in adverse conduct for a prohibited health and safety reason only if the prohibited health and safety reason was a substantial reason for the conduct.
+(4) For the purposes of subsection (3), a prohibited health and safety reason is presumed to be a substantial reason for the conduct unless the employer proves, on the balance of probabilities, that the reason was not a substantial reason for the conduct.
+(5) It is a defence to an action for a personal grievance under section 103(1)﻿(h)﻿(i) if the employer proves that—
+  (a) the conduct was reasonable in the circumstances; and
+  (b) a substantial reason for the conduct was to comply with the requirements of the Health and Safety at Work Act 2015 or other relevant health and safety legislation (as defined in section 16 of that Act).
+(6) For the purposes of this section,—
+  (a) an employer also engages in adverse conduct if the employer or a representative of the employer, in relation to the employee,—
+    (i) organises to take any action referred to in subsection (1) or threatens to organise or take that action; or
+    (ii) requests, instructs, induces, encourages, authorises, or assists another person to engage in adverse conduct for a prohibited health and safety reason:
+  (b) detriment includes anything that has a detrimental effect on the employee’s employment, job performance, or job satisfaction.
 
 ### 111 Definitions relating to personal grievances
-Each of the terms personal grievance, discrimination, sexual harassment, racial harassment, and duress have in any employment agreement the meanings given to those terms by sections 103, 104, 105, 106, 107, 108, 109, and 110 unless the employment agreement gives an extended meaning to the term.
+Each of the terms personal grievance, discrimination, sexual harassment, racial harassment, duress, and adverse conduct for prohibited health and safety reason have in any employment agreement the meanings given to those terms by sections 103, 104, 105, 106, 107, 108, 109, 110, and 110A unless the employment agreement gives an extended meaning to the term.
 
 ### 112 Choice of procedures
 (1) Where the circumstances giving rise to a personal grievance by an employee are also such that that employee would be entitled to make a complaint under the Human Rights Act 1993, the employee may take 1, but not both, of the following steps:
@@ -2993,20 +3011,20 @@ The chief executive or a Labour Inspector may recover in a District Court as a d
     (viii) clauses 5 and 6 of Schedule 1 of the Broadcasting Act 1989; or
     (ix) sections 83, 83A, and 83B of the Fire Service Act 1975; or
     (x) clauses 18, 19, and 21 of Schedule 5 of the Accident Compensation Act 2001; or
-    (xi) Part 2A (other than section 19G) and Schedule 1A of the Health and Safety in Employment Act 1992; or
+    (xi)
   (b) any order, determination, direction, or requirement made or given under this Act by the Authority or a member or officer of the Authority.
 (2) Where this section applies, the Authority may, in addition to any other power it may exercise, by order require, in or in conjunction with any matter before the Authority under this Act to which that person is a party or in respect of which that person is a witness, that person to do any specified thing or to cease any specified activity, for the purpose of preventing further non-observance of or non-compliance with that provision, order, determination, direction, or requirement.
 (3) The Authority must specify a time within which the order is to be obeyed.
 (4) The following persons may take action against another person by applying to the Authority for an order of the kind described in subsection (2):
-  (a) any person (being an employee, employer, union, or employer organisation) who alleges that that person has been affected by non-observance or non-compliance of the kind described in subsection (1):
-  (b) a health and safety inspector appointed under section 29 of the Health and Safety in Employment Act 1992 who alleges that there has been non-observance or non-compliance of the kind described in subsection (1)﻿(a)﻿(xi).
+  (a) any person (being an employee, employer, union, or employer organisation) who alleges that that person has been affected by non-observance or non-compliance of the kind described in subsection (1).
+  (b)
 
 ### 138 Further provisions relating to compliance order by Authority
 (1) The power given to the Authority by section 137(2) may be exercised by the Authority—
   (a) of its own motion; or
   (b) on the application of—
     (i) any party to the matter; or
-    (ii) in the case of section 137(4)﻿(b), a health and safety inspector, or
+    (ii)
     (iii) in the case of sections 223C, 223D(6), and 225(4)﻿(c), a Labour Inspector.
 (2) Before exercising its power under section 137(2) in relation to a person who is not a party to the matter, the Authority must give that person an opportunity to appear or be represented before the Authority.
 (3) Any time specified by the Authority under section 137 may from time to time be extended by the Authority on the application of the person who is required to obey the order.
