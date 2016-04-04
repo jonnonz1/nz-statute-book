@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -143,7 +143,7 @@ All persons exercising functions in relation to the development and implementati
 **National Controller**
 
 ### 10 Delegation of certain functions and powers of Director to National Controller
-(1) The Director may, in writing, either generally or particularly, delegate to any person the functions and powers of the Director referred to in sections 8(2)(h) and 9(2)(a) for the purposes of dealing with any state of national emergency.
+(1) The Director may, in writing, either generally or particularly, delegate to any person the functions and powers of the Director referred to in sections 8(2)﻿(h) and 9(2)﻿(a) for the purposes of dealing with any state of national emergency.
 (2) The Director may exercise the power of delegation at any time, whether or not a state of national emergency is in force or is imminent.
 (3) A person to whom functions and powers are delegated under this section is, while the delegation is in force, the National Controller, and has all the powers conferred on the National Controller by this Act.
 (4) If no delegation has been made under this section, the Director is the National Controller and has all the powers conferred on the National Controller by this Act.
@@ -159,9 +159,9 @@ All persons exercising functions in relation to the development and implementati
 
 ### 12 Local authorities to establish Civil Defence Emergency Management Groups
 (1) Within 6 months after the date of the commencement of this Act,—
-  (a) every regional council and every territorial authority within that region must unite to establish a Civil Defence Emergency Management Group for the purposes of this Act as a joint standing committee under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002:
+  (a) every regional council and every territorial authority within that region must unite to establish a Civil Defence Emergency Management Group for the purposes of this Act as a joint standing committee under clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002:
   (b) subject to paragraph (c), a unitary authority must establish a Civil Defence Emergency Management Group for the purposes of this Act for the district of that unitary authority alone:
-  (c) instead of establishing a Civil Defence Emergency Management Group in accordance with paragraph (b), a unitary authority may unite with a unitary authority or unitary authorities that border it, or a regional council that borders it, or all or any of them, to establish a Civil Defence Emergency Management Group for the purposes of this Act as a joint standing committee under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002.
+  (c) instead of establishing a Civil Defence Emergency Management Group in accordance with paragraph (b), a unitary authority may unite with a unitary authority or unitary authorities that border it, or a regional council that borders it, or all or any of them, to establish a Civil Defence Emergency Management Group for the purposes of this Act as a joint standing committee under clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002.
 (2) Clause 30(5) or (7) of Schedule 7 of the Local Government Act 2002 must not be read as permitting, during a term of local government or as a consequence of a local government election, the discharge or reconstitution of a Civil Defence Emergency Management Group established for the purposes of this Act.
 (3) Nothing in this section requires the Minister of Local Government to be a member of a Civil Defence Emergency Management Group.
 
@@ -209,14 +209,14 @@ Each member of a Civil Defence Emergency Management Group—
   (j) participate in the development of the national civil defence emergency management strategy and the national civil defence emergency management plan:
   (k) promote civil defence emergency management in its area that is consistent with the purpose of this Act.
 (2) A Group also has any other functions that are conferred or imposed by or under this Act or any other enactment.
-(3) For the purposes of subsection (1)(g) and (h), legislative provisions relevant to the purpose of this Act include, but are not limited to, the provisions in the following Acts that may be relevant to civil defence emergency management:
+(3) For the purposes of subsection (1)﻿(g) and (h), legislative provisions relevant to the purpose of this Act include, but are not limited to, the provisions in the following Acts that may be relevant to civil defence emergency management:
   (a) Biosecurity Act 1993:
   (b) Building Act 2004:
   (c) Fire Service Act 1975:
   (d) Forest and Rural Fires Act 1977:
   (e) Hazardous Substances and New Organisms Act 1996:
   (f) Health Act 1956:
-  (g) Health and Safety in Employment Act 1992:
+  (g) Health and Safety at Work Act 2015:
   (h) Local Government Act 1974:
   (ha) Local Government Act 2002:
   (i) Maritime Transport Act 1994:
@@ -266,8 +266,8 @@ Each member of a Civil Defence Emergency Management Group—
   (b) each territorial authority whose district is completely within the affected regional council or unitary authority must be a member of the Group of which that regional council or unitary authority is a member:
   (c) each territorial authority whose district is in the district of 2 or more affected regional councils or unitary authorities must, after consulting with the relevant regional councils or unitary authorities, join any one, but only 1, of the Groups of which the relevant regional councils or unitary authorities are members:
   (d) each territorial authority whose district is extended into the district of another regional council or unitary authority must, after consulting with the relevant regional councils or unitary authorities, join any one, but only 1, of the Groups of which the relevant regional councils or unitary authorities are members.
-(3) A territorial authority's decision to join a particular Group under subsection (2)(c) or (d) is irrevocable, and must be made within 2 months of the establishment of the Group.
-(4) If a territorial authority's decision under subsection (2)(c) or (d) is not made before the expiry of the time limit in subsection (3), the Minister must direct the territorial authority to join one of the relevant Groups.
+(3) A territorial authority's decision to join a particular Group under subsection (2)﻿(c) or (d) is irrevocable, and must be made within 2 months of the establishment of the Group.
+(4) If a territorial authority's decision under subsection (2)﻿(c) or (d) is not made before the expiry of the time limit in subsection (3), the Minister must direct the territorial authority to join one of the relevant Groups.
 (5) A territorial authority that is subject to a ministerial direction under subsection (4) must comply with that direction.
 
 ### 23 Establishment of administering authorities
@@ -277,12 +277,12 @@ Each member of a Civil Defence Emergency Management Group—
 (4) If the unitary authorities fail to reach an agreement, the Minister must—
   (a) appoint one of the unitary authorities as the administering authority; or
   (b) direct 1, some, or all of the unitary authorities to establish their own Groups.
-(5) A unitary authority that is subject to a ministerial direction under subsection (4)(b) must comply with that direction.
+(5) A unitary authority that is subject to a ministerial direction under subsection (4)﻿(b) must comply with that direction.
 (6) If a Group has 2 or more unitary authorities as members, the unitary authorities may change the administering authority for their Group only if the Minister approves, in writing, an application from the respective unitary authorities to change the administering authority for their Group.
 
 ### 24 Functions and costs of administering authorities and chief executives of administering authorities
 (1) An administering authority established under section 23 and, as appropriate, the chief executive of that authority are responsible for the provision of administrative and related services that may from time to time be required by the relevant Civil Defence Emergency Management Group.
-(2) The administrative and related services referred to in subsection (1) include services required for the purposes of the Local Government Act 2002, this Act, or any other Act, regulation, or bylaw that applies to the conduct of a joint standing committee under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002.
+(2) The administrative and related services referred to in subsection (1) include services required for the purposes of the Local Government Act 2002, this Act, or any other Act, regulation, or bylaw that applies to the conduct of a joint standing committee under clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002.
 (3) The cost of the administrative and related services must be agreed from time to time by each Group.
 (4) Unless the members of a Group agree otherwise, the costs agreed under subsection (3) must be divided equally among the members and each member must pay 1 share of the cost.
 
@@ -434,8 +434,8 @@ All persons exercising functions in relation to the development of civil defence
     (iv) any specific alternatives to the proposed plan that the person making the submission wishes to recommend:
   (e) a list of places where a copy of the proposed plan may be purchased or inspected:
   (f) an address for submissions.
-(3) The Minister may comply with subsection (1)(c) by providing a hypertext link from an Internet site maintained by or on behalf of the responsible department to a copy of the proposed plan that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
-(4) For the purposes of subsection (1)(c), the Minister may not rely on section 66 of the Copyright Act 1994 as authority to make available on an Internet site any material that is proposed to be incorporated by reference.
+(3) The Minister may comply with subsection (1)﻿(c) by providing a hypertext link from an Internet site maintained by or on behalf of the responsible department to a copy of the proposed plan that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
+(4) For the purposes of subsection (1)﻿(c), the Minister may not rely on section 66 of the Copyright Act 1994 as authority to make available on an Internet site any material that is proposed to be incorporated by reference.
 (5) In this section, proposed plan includes material incorporated by reference in the plan under section 40, together with a translation in an official New Zealand language, where that material is not in an official New Zealand language.
 
 ### 42 National civil defence emergency management plan must not be inconsistent with national civil defence emergency management strategy
@@ -503,7 +503,7 @@ The Director must, within 12 months after the commencement of this Act, issue th
   (c) ensure that any person who makes written submissions on the proposal within the period specified in the notice given under paragraph (a) is given a reasonable opportunity to be heard by the body to which the submissions are made; and
   (d) make all written submissions on the proposal available to the public unless there is some good reason in law why it should not do so; and
   (e) ensure that the final decision in relation to the proposal is made at a meeting of the Group.
-(2) The period specified under subsection (1)(b)—
+(2) The period specified under subsection (1)﻿(b)—
   (a) must not be less than 1 month; and
   (b) unless the Group otherwise directs, must not be more than 3 months.
 
@@ -516,7 +516,7 @@ Every Civil Defence Emergency Management Group must prepare and approve its firs
 
 ### 55 Currency of civil defence emergency management group plan
 A civil defence emergency management group plan—
-  (a) takes effect on the date of the final decision taken under section 52(1)(e); and
+  (a) takes effect on the date of the final decision taken under section 52(1)﻿(e); and
   (b) remains operative for the period specified in the plan, but if the plan is not replaced before the close of that period it continues in force until replaced.
 
 **Review and amendment of civil defence emergency management group plans**
@@ -745,7 +745,7 @@ A warrant issued under section 78 must—
 (1) If a constable seizes any information or document under section 80, the constable must—
   (a) give it to the Director, a Controller, or a person authorised by a Civil Defence Emergency Management Group; or
   (b) if it is no longer required for the purpose for which it was seized, return it to the person from whom it was seized.
-(2) Any person to whom a constable gives any information or document under subsection (1)(a) must return it to the person from whom it was seized when the information is no longer required for the purpose for which it was seized.
+(2) Any person to whom a constable gives any information or document under subsection (1)﻿(a) must return it to the person from whom it was seized when the information is no longer required for the purpose for which it was seized.
 
 ### 82 Certain information not to be disclosed or seized
 (1) No requirement to give information that is imposed under section 76 requires any person to give—
@@ -860,8 +860,8 @@ A person commits an offence who intentionally fails to comply with any prohibiti
 (1) A person commits an offence who—
   (a) intentionally fails to comply with any direction given to him or her under section 90(2); or
   (b) intentionally fails to provide assistance under section 90(6).
-(2) It is a defence in any proceedings for an offence against subsection (1)(a) if the court is satisfied that the Controller or the constable did not have reasonable grounds for believing that in all the circumstances of the case the direction requisitioning property was necessary for the preservation of human life.
-(3) It is a defence in any proceedings for an offence against subsection (1)(b) if the court is satisfied that the person had reasonable grounds for not providing assistance.
+(2) It is a defence in any proceedings for an offence against subsection (1)﻿(a) if the court is satisfied that the Controller or the constable did not have reasonable grounds for believing that in all the circumstances of the case the direction requisitioning property was necessary for the preservation of human life.
+(3) It is a defence in any proceedings for an offence against subsection (1)﻿(b) if the court is satisfied that the person had reasonable grounds for not providing assistance.
 
 ### 102 Failure to comply with direction
 A person commits an offence who intentionally fails to comply with a direction given under section 91(a).
@@ -966,7 +966,7 @@ If a state of emergency is declared under this Act, the Resource Management Act 
 (3) Nothing in this section is to be construed as imposing on the employer of any person any obligation to pay to him or her any remuneration in respect of any period of absence from his or her employment on civil defence emergency management duties.
 
 ### 113 Recovery of costs by Civil Defence Emergency Management Groups
-Subject to any agreement entered into between them, if a Civil Defence Emergency Management Group agrees to undertake civil defence emergency management at the request of another Civil Defence Emergency Management Group under section 17(1)(f), it may recover as a debt due to it from that other Group all actual and reasonable costs and expenses incurred for that civil defence emergency management.
+Subject to any agreement entered into between them, if a Civil Defence Emergency Management Group agrees to undertake civil defence emergency management at the request of another Civil Defence Emergency Management Group under section 17(1)﻿(f), it may recover as a debt due to it from that other Group all actual and reasonable costs and expenses incurred for that civil defence emergency management.
 
 ### 114 Service of documents
 (1) If a document under this Act is to be served on a person, it may be served—
@@ -976,7 +976,7 @@ Subject to any agreement entered into between them, if a Civil Defence Emergency
 (2) If a notice or other document is to be served on a body (whether incorporated or not) for the purposes of this Act, service on an officer of the body, or on the registered office of the body, in accordance with subsection (1) must be treated as service on the body.
 (3) If a notice or other document is to be served on a Civil Defence Emergency Management Group for the purposes of this Act, service on the chairperson of the Group or the administering authority of the Group must be treated as service on the Group.
 (4) If a notice or other document is to be served on a partnership for the purposes of this Act, service on any one of the partners in accordance with subsection (1) must be treated as service on the partnership.
-(5) If a notice or other document is sent by post to a person in accordance with subsection (1)(c), it must be treated, in the absence of proof to the contrary, as having been received by the person at the time at which the letter would have been delivered in the ordinary course of the post.
+(5) If a notice or other document is sent by post to a person in accordance with subsection (1)﻿(c), it must be treated, in the absence of proof to the contrary, as having been received by the person at the time at which the letter would have been delivered in the ordinary course of the post.
 
 ### 115 Regulations
 The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
