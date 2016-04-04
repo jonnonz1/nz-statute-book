@@ -1,5 +1,5 @@
 # Crown Organisations (Criminal Liability) Act 2002
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Crown Organisations (Criminal Liability) Act 2002.
@@ -10,7 +10,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 ### 3 Purpose
 The purpose of this Act is to—
   (a) implement recommendations of the report of the Royal Commission of Inquiry into the collapse of a viewing platform at Cave Creek near Punakaiki on the West Coast (the Noble report):
-  (b) enable the prosecution of Crown organisations for offences under the Building Act 2004, the Health and Safety in Employment Act 1992, and the Resource Management Act 1991:
+  (b) enable the prosecution of Crown organisations for offences under the Building Act 2004, the Health and Safety at Work Act 2015, and the Resource Management Act 1991:
   (c) enable injunctions to be granted requiring Crown organisations to comply with the Building Act 2004:
   (d) make related amendments to other enactments.
 
@@ -41,7 +41,7 @@ This Act binds the Crown.
 ### 6 Prosecutions against Crown organisations
 (1) A Crown organisation may be prosecuted (by the bringing of proceedings in the manner provided for in the Criminal Procedure Act 2011) for any of the following offences:
   (a) an offence against the Building Act 2004:
-  (b) an offence under section 49 or section 50 of the Health and Safety in Employment Act 1992:
+  (b) an offence under the Health and Safety at Work Act 2015:
   (c) an offence against the Resource Management Act 1991:
   (d) an offence against the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012:
   (e) an offence against Part 3 of the Vulnerable Children Act 2014.
@@ -49,7 +49,7 @@ This Act binds the Crown.
 
 ### 7 Legal status of certain Crown organisations
 A Crown organisation that is not a body corporate has a separate legal personality for the purposes of—
-  (a) compliance with the obligations imposed by the Building Act 2004, the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, the Health and Safety in Employment Act 1992, the Resource Management Act 1991, or Part 3 of the Vulnerable Children Act 2014; and
+  (a) compliance with the obligations imposed by the Building Act 2004, the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, the Health and Safety at Work Act 2015, the Resource Management Act 1991, or Part 3 of the Vulnerable Children Act 2014; and
   (b) the bringing, hearing, and determination of proceedings against it for an offence referred to in section 6; and
   (c) the imposition of sentence if that organisation is convicted; and
   (d) the enforcement of any sentence imposed on that organisation.
@@ -58,8 +58,8 @@ A Crown organisation that is not a body corporate has a separate legal personali
 (1) Proceedings brought against a Crown organisation for an offence referred to in section 6 must, as far as practicable, be brought, heard, and determined in the same manner as proceedings against a body corporate for an offence of the same kind.
 (2) Proceedings brought against a Crown organisation for an offence referred to in section 6 must be instituted against the organisation in its own name, and must not cite the Crown as a defendant.
 (3) A Crown organisation is liable on conviction for an offence referred to in section 6 to the same penalties that could be imposed on any body corporate convicted of the same offence.
-(4) Despite subsection (3), a court may not sentence a Crown organisation to pay a fine in respect of an offence referred to in section 6.
-(5) This section is subject to section 54 of the Health and Safety in Employment Act 1992, sections 176 and 246 of the Criminal Procedure Act 2011, and section 4(9) of the Resource Management Act 1991.
+(4) Despite subsection (3), a court may not sentence a Crown organisation to pay a fine in respect of an offence referred to in section 6(1)﻿(a), (c), or (d).
+(5) This section is subject to sections 176 and 246 of the Criminal Procedure Act 2011 and section 4(9) of the Resource Management Act 1991.
 
 ### 9 Rights and privileges of Crown organisations
 (1) A Crown organisation that is charged with an offence referred to in section 6 has, in relation to the charge and the hearing and determination of the charge, the same rights and privileges as a body corporate charged with an offence of the same kind.
@@ -69,7 +69,7 @@ A Crown organisation that is not a body corporate has a separate legal personali
 (1) Despite section 9 and any other enactment or rule of law, no person may invoke the privilege against self-incrimination on behalf of a Crown organisation as a ground for refusing—
   (a) to give any evidence or produce any thing at the hearing of proceedings against a Crown organisation for an offence referred to in section 6; or
   (b) to supply information or make a statement in response to any request or requirement to supply information or make a statement made under—
-    (i) section 31 of the Health and Safety in Employment Act 1992; or
+    (i) section 168 of the Health and Safety at Work Act 2015; or
     (ii) section 19 of the Ombudsmen Act 1975; or
     (iii) section 91 of the Privacy Act 1993; or
     (iv) section 26 of the Public Finance Act 1977; or
@@ -86,7 +86,7 @@ A Crown organisation that is not a body corporate has a separate legal personali
 No person is immune from prosecution for an offence referred to in section 6 by reason that the person is an employee or agent of the Crown, or a contractor engaged to provide services to the Crown, or is acting in any other capacity for, or on behalf of, the Crown.
 
 ### 12 Appropriation
-(1) Any reparation, compensation, or costs imposed by a court on a department or Office of Parliament as a consequence of the prosecution of that organisation for an offence referred to in section 6 may be paid by that organisation out of its funds without further appropriation than this section.
+(1) Any reparation, compensation, fine, or costs imposed by a court on a department or Office of Parliament as a consequence of the prosecution of that organisation for an offence referred to in section 6 may be paid by that organisation out of its funds without further appropriation than this section.
 (2) In subsection (1), department has the same meaning as in section 2(1) of the Public Finance Act 1989.
 
 ## Part 2 — Amendments to other Acts
