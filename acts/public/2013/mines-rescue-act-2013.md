@@ -1,5 +1,5 @@
 # Mines Rescue Act 2013
-_Consolidation as at 2013-11-18_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Mines Rescue Act 2013.
@@ -16,7 +16,7 @@ This Act comes into force on 16 December 2013.
   - **authorised person** means a person who is authorised by the chief executive to exercise the powers conferred by section 13
   - **board** means the board recognised under section 7
   - **chief executive** means the chief executive of the department
-  - **coal** has the same meaning as in section 19L of the Health and Safety in Employment Act 1992
+  - **coal** has the same meaning as in clause 1 of Schedule 3 of the Health and Safety at Work Act 2015
   - **department** means the department of State that, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **emergency response protocol** means the protocol issued by WorkSafe under section 19
   - **financial year** means a period of 12 months ending with 31 March
@@ -34,26 +34,26 @@ This Act comes into force on 16 December 2013.
       (i) the person appointed to manage and control the mining operation by the owner of the land where the mining operation is being carried out; or
       (ii) the owner of the land where the mining operation is being carried out, if no such person has been appointed
   - **mine worker** means a person who works in a mining operation, either as an employee or as a self-employed person
-  - **mineral** has the same meaning as in section 19L of the Health and Safety in Employment Act 1992
+  - **mineral** has the same meaning as in clause 1 of Schedule 3 of the Health and Safety at Work Act 2015
   - **mines rescue brigade** means a group of persons organised by the board to provide rescue services during emergencies at mining operations
   - **Minister** means the Minister of the Crown who, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **rescue station** —
     (a) means a site that serves as an operational base for the functions specified in section 8(a) to (c); and
     (b) includes a site for the management and administration of the board
-  - **tourist mining operation** has the same meaning as in section 19L of the Health and Safety in Employment Act 1992
+  - **tourist mining operation** has the same meaning as in clause 1 of Schedule 3 of the Health and Safety at Work Act 2015
   - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
 (2) In Part 1,—
   - **mining operation** —
-    (a) means a mining operation (within the meaning of section 19M of the Health and Safety in Employment Act 1992) but only to the extent that the mining operation is—
+    (a) means a mining operation (within the meaning of clause 2 of Schedule 3 of the Health and Safety at Work Act 2015) but only to the extent that the mining operation is—
       (i) associated with the extraction of coal; or
       (ii) associated with the extraction of minerals and where any person works below ground; but
-    (b) only includes a tunnelling operation (within the meaning of section 19O of that Act) to the extent that the tunnelling operation relates to a tunnel or shaft that is, or is intended to be, at least 150 metres long; and
+    (b) only includes a tunnelling operation (within the meaning of clause 4 of Schedule 3 of that Act) to the extent that the tunnelling operation relates to a tunnel or shaft that is, or is intended to be, at least 150 metres long; and
     (c) does not include a tourist mining operation.
 (3) In Part 2,—
   - **emergency** means an incident at a mining operation that has resulted, or may result, in the death of any person
   - **mining operation** —
-    (a) means a mining operation (within the meaning of section 19M of the Health and Safety in Employment Act 1992) where any person works below ground; but
-    (b) only includes a tunnelling operation (within the meaning of section 19O of that Act) to the extent that the tunnelling operation relates to a tunnel or shaft that is, or is intended to be, at least 150 metres long; and
+    (a) means a mining operation (within the meaning of clause 2 of Schedule 3 of the Health and Safety at Work Act 2015) where any person works below ground; but
+    (b) only includes a tunnelling operation (within the meaning of clause 4 of Schedule 3 of that Act) to the extent that the tunnelling operation relates to a tunnel or shaft that is, or is intended to be, at least 150 metres long; and
     (c) does not include a tourist mining operation.
 
 ### 5 Act binds the Crown
@@ -119,8 +119,8 @@ The Minister must be satisfied that the board comprises—
     (iii) the remuneration of the persons.
 (7) If, for a financial year, the amount of levy that has been paid to the board exceeds the board’s direct and indirect costs in performing the functions specified in section 8(a), (b), and (d), the surplus may be held by the board as a reserve to enable it to meet any immediate costs it incurs in performing the function specified in section 8(c).
 (8) Before making a recommendation under subsection (1), the Minister must consult the board and the persons responsible for paying the levy.
-(9) Before determining the expected costs under subsection (5)(a), the board must consult the persons responsible for paying the levy.
-(10) A notice under subsection (5)(b) is not a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(9) Before determining the expected costs under subsection (5)﻿(a), the board must consult the persons responsible for paying the levy.
+(10) A notice under subsection (5)﻿(b) is not a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
 
 ### 11 Board to account for levy
 (1) As soon as practicable after the end of a financial year in which a levy has been paid to the board, the board must prepare the following for the year:
@@ -130,7 +130,7 @@ The Minister must be satisfied that the board comprises—
   (d) all other statements necessary to show fully—
     (i) the board's financial position as a result of money paid as levy in the year; and
     (ii) the financial results of all of the board's activities involving the use of the money paid as levy in the year or the use of assets the board has at the end of the year as a result of money paid as levy in the year.
-(2) If, under section 10(5)(a), the board is required to determine the expected costs for the financial year following the financial year to which the statements relate, the board must include, with the statements, all information necessary to show how the expected costs have been calculated.
+(2) If, under section 10(5)﻿(a), the board is required to determine the expected costs for the financial year following the financial year to which the statements relate, the board must include, with the statements, all information necessary to show how the expected costs have been calculated.
 (3) On or before 1 July after the end of a financial year, the board must—
   (a) ensure that the statements are independently audited; and
   (b) provide the audited statements to the chief executive and to levy payers.
@@ -181,7 +181,7 @@ The Minister must be satisfied that the board comprises—
 (3) The Minister may recommend the making of an order revoking the appointment of a commissioner only if satisfied, on reasonable grounds, that—
   (a) the board is able to perform its functions without substantial difficulties; or
   (b) it is necessary to appoint a new commissioner.
-(4) While an order is in force under subsection (1)(a),—
+(4) While an order is in force under subsection (1)﻿(a),—
   (a) the commissioner has the functions specified in section 8, and, in relation to the performance of those functions, has and may exercise the board's powers; and
   (b) the board must not perform the functions.
 
@@ -224,7 +224,7 @@ The Minister must be satisfied that the board comprises—
   (c) in accordance with the emergency response protocol, to co-ordinate the activities of—
     (i) persons and agencies undertaking or supporting any rescue or response operation:
     (ii) other agencies providing emergency services, including, if relevant, fire and ambulance services, the New Zealand Police, and the board.
-(4) In performing his or her functions, the incident controller must consult other relevant persons or agencies, including the persons and agencies described in subsection (3)(c).
+(4) In performing his or her functions, the incident controller must consult other relevant persons or agencies, including the persons and agencies described in subsection (3)﻿(c).
 
 ### 21 Mine operator, site senior executive, and mine worker must comply with incident controller's directions
 (1) The following persons must comply with any reasonable direction of the incident controller:
