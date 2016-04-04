@@ -1,5 +1,5 @@
 # Prostitution Reform Act 2003
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Prostitution Reform Act 2003.
@@ -79,8 +79,8 @@ No contract for the provision of, or arranging the provision of, commercial sexu
 (3) A person who provides or receives commercial sexual services must take all other reasonable steps to minimise the risk of acquiring or transmitting sexually transmissible infections.
 (4) Every person who contravenes subsection (1), subsection (2), or subsection (3) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
-### 10 Application of Health and Safety in Employment Act 1992
-(1) A sex worker is at work for the purposes of the Health and Safety in Employment Act 1992 while providing commercial sexual services.
+### 10 Application of Health and Safety at Work Act 2015
+(1) A sex worker is at work for the purposes of the Health and Safety at Work Act 2015 while providing commercial sexual services.
 (2) However, nothing in this Act (including subsection (1)) limits that Act or any regulations or approved codes of practice under that Act.
 
 **Advertising restrictions**
@@ -118,7 +118,7 @@ Without limiting section 145 of the Local Government Act 2002, a territorial aut
 (1) When considering an application for a resource consent under the Resource Management Act 1991 for a land use relating to a business of prostitution, a territorial authority must have regard to whether the business of prostitution—
   (a) is likely to cause a nuisance or serious offence to ordinary members of the public using the area in which the land is situated; or
   (b) is incompatible with the existing character or use of the area in which the land is situated.
-(2) Having considered the matters in subsection (1)(a) and (b) as well as the matters it is required to consider under the Resource Management Act 1991, the territorial authority may, in accordance with sections 104A to 104D of that Act, grant or refuse to grant a resource consent, or, in accordance with section 108 of that Act, impose conditions on any resource consent granted.
+(2) Having considered the matters in subsection (1)﻿(a) and (b) as well as the matters it is required to consider under the Resource Management Act 1991, the territorial authority may, in accordance with sections 104A to 104D of that Act, grant or refuse to grant a resource consent, or, in accordance with section 108 of that Act, impose conditions on any resource consent granted.
 (3) Subsection (1) does not limit or affect the operation of the Resource Management Act 1991 in any way, and it may be overriden, with respect to particular areas within a district, by the provisions of a district plan or proposed district plan.
 
 **Protections for sex workers**
@@ -151,7 +151,7 @@ Without limiting section 145 of the Local Government Act 2002, a territorial aut
 (2) A person's entitlements under the Injury Prevention, Rehabilitation, and Compensation Act 2001 may not be lost or affected in any other way by his or her being capable of working as a sex worker if he or she refuses to do, or to continue to do, that kind of work.
 (3) In this section, refusal means a refusal to do this kind of work in general, rather than a refusal of a particular job or at a particular time.
 
-**Application of Immigration Act 1987**
+**Application of Immigration Act 2009**
 
 ### 19 Application of Immigration Act 2009
 (1) No visa may be granted under the Immigration Act 2009 to a person on the basis that the person—
@@ -162,7 +162,7 @@ Without limiting section 145 of the Local Government Act 2002, a territorial aut
   (a) provide commercial sexual services; or
   (b) act as an operator of a New Zealand business of prostitution; or
   (c) invest in a New Zealand business of prostitution.
-(3) It is sufficient reason for the Minister of Immigration or an immigration officer to determine that a temporary entry class visa holder is liable for deportation under section 157 of the Immigration Act 2009 if the Minister or the officer believes, on reasonable grounds, that the holder is engaged in any of the things listed in subsection (2)(a) to (c) of this section.
+(3) It is sufficient reason for the Minister of Immigration or an immigration officer to determine that a temporary entry class visa holder is liable for deportation under section 157 of the Immigration Act 2009 if the Minister or the officer believes, on reasonable grounds, that the holder is engaged in any of the things listed in subsection (2)﻿(a) to (c) of this section.
 (4) Any conditions of a resident visa are deemed not to have been met and the resident is liable for deportation under section 159 of the Immigration Act 2009 if the Minister of Immigration or an immigration officer determines that the holder of a resident visa acts as an operator of, or invests in, a New Zealand business of prostitution.
 (5) This section applies to all visas and permits held and all requirements and conditions imposed under the Immigration Act 1987 or the Immigration Act 2009, whether granted or imposed before or after the commencement of this section.
 
@@ -308,7 +308,7 @@ Every person commits an offence, and is liable on conviction to a fine not excee
 (1) A person who is disqualified from holding a certificate may apply in writing to the Registrar for an order waiving the disqualification.
 (2) On receipt of an application, the Registrar must—
   (a) refer the application to a District Court Judge for determination; and
-  (b) send a copy of the application to the Commissioner of Police for a report on the matters referred to in subsection (4)(b).
+  (b) send a copy of the application to the Commissioner of Police for a report on the matters referred to in subsection (4)﻿(b).
 (3) The Commissioner of Police must provide a report to the Registrar within 3 weeks of receipt of the request, and the Registrar must immediately forward a copy of the report to the applicant.
 (4) A District Court Judge may make an order waiving a disqualification if he or she is satisfied that—
   (a) the applicant's offending was of a nature, or occurred so long ago, that it ought no longer to be a barrier to obtaining a certificate; and
@@ -384,7 +384,7 @@ Every person commits an offence, and is liable on conviction to a fine not excee
   (g) 3 persons nominated by the New Zealand Prostitutes Collective (or, if there is no New Zealand Prostitutes Collective, by any other body that the Minister of Justice considers represents the interests of sex workers).
 (3) The Minister of Justice may, on the recommendation of a member's nominator, remove a member from office for inability to perform the members' duties, misconduct by the member, or any other just cause proved to the satisfaction of the nominator.
 (4) The member is not entitled to compensation or other payment relating to removal from office.
-(5) The Prostitution Law Review Committee ceases to exist on a date appointed by the Minister of Justice, by notice in the Gazette, that is after the date of its report to the Minister under section 42(1)(b)(vii).
+(5) The Prostitution Law Review Committee ceases to exist on a date appointed by the Minister of Justice, by notice in the Gazette, that is after the date of its report to the Minister under section 42(1)﻿(b)﻿(vii).
 
 ### 44 Other provisions on appointment, removal, term, and resignation of members
 (1) A member must be appointed or removed by written notice to the member and his or her nominator.
