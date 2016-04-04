@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-04-04_
 
 > Title
 
@@ -19,12 +19,6 @@ The purposes of this Act are—
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **all practicable steps** , in relation to achieving any result in any circumstances, means all steps to achieve the result that it is reasonably practicable to take in the circumstances, having regard to—
-    (a) the nature and severity of the serious harm or significant property damage that may be suffered if the result is not achieved; and
-    (b) the current state of knowledge about the likelihood that harm or damage of that nature and severity will be suffered if the result is not achieved; and
-    (c) the current state of knowledge about harm or damage of that nature; and
-    (d) the current state of knowledge about the means available to achieve the result, and about the likely efficacy of each of those means; and
-    (e) the availability and cost of each of those means
   - **authorised** means authorised by the Secretary
   - **biogas** means the mixture of gases that is produced by anaerobic microbial decomposition of organic matter and that principally comprises methane and carbon dioxide together with lesser amounts of hydrogen sulphide, water vapour, or other gases
   - **Board** means the Plumbers, Gasfitters, and Drainlayers Board continued under the Plumbers, Gasfitters, and Drainlayers Act 2006
@@ -92,6 +86,14 @@ The purposes of this Act are—
   - **pleasure vessel** has the same meaning as in section 2(1) of the Shipping and Seamen Act 1952
   - **point of supply** , in relation to any place, means the point of supply of that place as prescribed by regulations made under section 54
   - **price** includes valuable consideration in any form, whether direct or indirect; and also includes any consideration that in effect relates to the acquisition of goods or services or the acquisition or disposition of any interest in land, although ostensibly relating to any other matter or thing
+  - **reasonably practicable** , in relation to a duty to ensure health and safety or to protect property, means that which is, or was, at a particular time, reasonably able to be done in relation to ensuring health and safety or protecting property, taking into account and weighing up all relevant matters, including—
+    (a) the likelihood of the hazard or the risk concerned occurring; and
+    (b) the degree of harm or damage that might result from the hazard or risk; and
+    (c) what the person concerned knows, or ought reasonably to know, about—
+      (i) the hazard or risk; and
+      (ii) ways of eliminating or minimising the risk; and
+    (d) the availability and suitability of ways to eliminate or minimise the risk; and
+    (e) after assessing the extent of the risk and the available ways of eliminating or minimising the risk, the cost associated with available ways of eliminating or minimising the risk, including whether the cost is grossly disproportionate to the risk
   - **relocatable building** means any structure designed or adapted for human occupation that is designed to be relocatable; but does not include any tent
   - **road** has the same meaning as in section 315 of the Local Government Act 1974; and includes a road under the jurisdiction of any local authority; and also includes a public footpath; and also includes a State highway within the meaning of section 2(1) of the Government Roading Powers Act 1989; but does not include—
     (a) a private road within the meaning of section 315 of the Local Government Act 1974; or
@@ -104,7 +106,7 @@ The purposes of this Act are—
     (a) death; or
     (b) harm that incapacitates, or is likely to incapacitate, the person suffering harm for 48 hours or more; or
     (c) harm that incapacitates, or is likely to incapacitate, the person suffering harm due to the inhalation of carbon monoxide; or
-    (d) harm of the kinds and descriptions that are serious harm under the Health and Safety in Employment Act 1992
+    (d) a notifiable injury or illness as defined in section 23 of the Health and Safety at Work Act 2015
   - **telecommunications line** means any line within the meaning of the Telecommunications Act 2001
   - **worker** means any person who is employed or engaged (whether under a contract of service or a contract for services) to do any work for hire or reward
   - **working day** means any day of the week other than—
@@ -270,7 +272,7 @@ Subject to section 14, where a notice of objection is lodged under section 10, t
 (5) Every notice under this section shall be in the prescribed form (if any) and shall contain such particulars as are prescribed (if any).
 (6) Notification of an accident in accordance with either or both of the following provisions is compliance with subsection (3):
   (a) section 16(3) of the Electricity Act 1992:
-  (b) section 25(3) of the Health and Safety in Employment Act 1992.
+  (b) section 56 of the Health and Safety at Work Act 2015.
 
 ### 17A Transfer of accident information
 (1) In this section, specified matter means a matter that is specified in a Gazette notice under section 6A(2).
@@ -280,7 +282,7 @@ Subject to section 14, where a notice of objection is lodged under section 10, t
 ### 18 Interference with scene of accident
 (1) No person shall interfere in any way with the scene of any accident to which section 17 applies without the permission of WorkSafe, or if WorkSafe is not present, a constable or a member of a fire brigade, except to the extent that the person believes is necessary to avoid or minimise further injury or damage or to restore the safe supply of gas.
 (2) Where any person does interfere in any way with the scene of any accident to which section 17 applies, the person shall as soon as practicable notify WorkSafe of the action the person has taken.
-(3) Nothing in subsection (1) applies in respect of any person who is investigating the accident pursuant to the Health and Safety in Employment Act 1992.
+(3) Nothing in subsection (1) applies in respect of any person who is investigating the accident pursuant to the Health and Safety at Work Act 2015.
 
 ### 19 Inquiries into accidents
 (1) WorkSafe may conduct an inquiry into any accident to which section 17 applies to establish the cause of the accident.
@@ -495,8 +497,8 @@ In any regulations made under section 54, any gas code of practice or amendment 
   (a) a copy of an emergency amendment of a gas code of practice purporting to have been issued by WorkSafe shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 41 on the date shown on it as the date of issue:
   (b) a certificate under the hand of the Minister that the Minister has continued such an amendment in force until a date specified in the certificate shall, in the absence of proof to the contrary, be sufficient evidence that the amendment has been continued in force until that date under section 41(3).
 (3) In any proceedings for an offence against this Act or against any regulations made under section 54,—
-  (a) any requirement or standard prescribed in any gas code of practice by reference to any official standard (not being a New Zealand Standard) may be proved by the production of a copy of such official standard certified to be correct by WorkSafe:
-  (b) judicial notice shall be taken of the signature of WorkSafe.
+  (a) any requirement or standard prescribed in any gas code of practice by reference to any official standard (not being a New Zealand Standard) may be proved by the production of a copy of such official standard certified to be correct by the chairperson of WorkSafe:
+  (b) judicial notice shall be taken of a signature purporting to be the signature of the chairperson of WorkSafe.
 
 ## Part 4A — Governance of gas industry
 
@@ -1189,7 +1191,7 @@ All gas supplied shall be of such quality and pressure as is for the time being 
 (2) Nothing in subsection (1) applies to any distribution system, gas installation, fittings, or gas appliance exempted from the provisions of this section by regulations made under section 54.
 
 ### 46A Owners or operators of gas supply systems must have safety management system
-(1) Every person that owns or operates a gas supply system must implement and maintain, in accordance with regulations made under section 54, a safety management system that requires all practicable steps to be taken to prevent the gas supply system from presenting a significant risk of—
+(1) Every person that owns or operates a gas supply system must implement and maintain, in accordance with regulations made under section 54, a safety management system that prevents, so far as is reasonably practicable, the gas supply system from presenting a significant risk of—
   (a) serious harm to any member of the public; or
   (b) significant damage to property owned by a person other than the person that owns or operates the gas supply system.
 (2) For the purposes of this section and sections 46B and 54A, gas supply system means the distribution systems, gas installations, fittings, and gas appliances prescribed in regulations made under section 54, being distribution systems, gas installations, fittings, and gas appliances that form part of a system for conveying gas to consumers.
@@ -1290,7 +1292,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
   (b) provide that proof of compliance with—shall be proof of compliance with such provisions of the regulations as are specified in the regulations.
     (i) any gas code of practice, or any part of such a code; or
     (ia) any official standard, or any part of an official standard; or
-    (ii) any approved code of practice for the time being in force pursuant to section 20A of the Health and Safety in Employment Act 1992, or any part of any such approved code of practice,—
+    (ii) any approved code of practice for the time being in force pursuant to section 222 of the Health and Safety at Work Act 2015, or any part of any such approved code of practice,—
 (2A) Regulations may require compliance with an official standard (or a specified part of an official standard) that relates to the subject matter of the regulations by referring to it in the regulations (with any additions or variations that may be specified in the regulations).
 (2B) That official standard (or the specified part), as it existed on the date of the inclusion (but with any specified additions or variations) is then deemed to form part of the regulations.
 (3) Without limiting paragraph (b) of subsection (1), regulations made under subparagraph (iv) of that paragraph may require types or categories of gas measurement systems to be approved by WorkSafe before being offered for sale in New Zealand, notwithstanding that such approval is not required for the purposes of securing the protection of persons and property from injury or damage caused through gas, either directly or indirectly.
@@ -1305,7 +1307,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
   (a) the systematic identification of—
     (i) existing hazards; and
     (ii) new hazards (if possible before, and otherwise as, they arise); and
-  (b) the taking of all practicable steps to eliminate, isolate, or minimise those hazards; and
+  (b) the elimination, isolation, or minimisation of those hazards, so far as is reasonably practicable; and
   (c) the regular assessment of each hazard identified; and
   (d) the documentation of the safety management system; and
   (e) the audit of the safety management system.
@@ -1330,7 +1332,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
     (ii) without limitation, a situation described in subparagraph (i) resulting from physical or mental fatigue, drugs, alcohol, traumatic shock, or another temporary condition that affects a person’s behaviour.
 
 ### 54B Miscellaneous provisions relating to regulations that prescribe requirements for safety management systems
-(1) To avoid doubt, a person required by a safety management system to take all practicable steps is required to take those steps only in respect of circumstances that the person knows or ought reasonably to know about.
+(1) To avoid doubt, a person required by a safety management system to eliminate, isolate, or minimise hazards so far as is reasonably practicable is required to take action only in respect of circumstances that the person knows, or ought reasonably to know, about.
 (2) Different requirements may be prescribed under section 54(1)﻿(bb) in respect of different classes of persons.
 
 **Regulations—Information disclosure**
@@ -1374,23 +1376,31 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 (1) Any person who is required by regulations made under section 55 to provide copies of statements and information, on request, to the public, may charge for providing those copies.
 (2) Any charge imposed under subsection (1) for copies of statements and information may be no more than is reasonably required to recover the costs of providing those copies.
 
+**Safe work instruments—Legal effect**
+
+### 56AB Legal effect of safe work instruments
+(1) For the purposes of this Act, a safe work instrument made under section 227 of the Health and Safety at Work Act 2015 has legal effect only to the extent that any regulations made under this Act refer to it.
+(2) For the purposes of subsection (1), regulations may refer to—
+  (a) a particular safe work instrument as amended or replaced from time to time; or
+  (b) any safe work instrument that may be made for the purposes of regulations (even if the instrument is not or has not been made at the time the regulations are made).
+
 **Miscellaneous provisions**
 
 ### 56B Offences for actions or omissions likely to cause serious harm or significant property damage
 (1) Every person commits an offence if—
   (a) the person takes an action knowing that the action is reasonably likely to cause serious harm to any person or significant property damage; and
   (b) the action is contrary to a provision of this Act; and
-  (c) the person fails to take all practicable steps to prevent the serious harm or significant property damage.
+  (c) the person fails to prevent, so far as is reasonably practicable, the serious harm or significant property damage.
 (2) Every person commits an offence if—
   (a) the person fails to take an action knowing that the failure to take the action is reasonably likely to cause serious harm to any person or significant property damage; and
   (b) the person is required by this Act to take the action; and
-  (c) the person fails to take all practicable steps to prevent the serious harm or significant property damage.
+  (c) the person fails to prevent, so far as is reasonably practicable, the serious harm or significant property damage.
 (3) Every person who commits an offence under this section is liable on conviction to—
   (a) imprisonment for a term of not more than 2 years; or
   (b) a fine of not more than $100,000 in the case of an individual, or $500,000 in the case of a body corporate; or
   (c) both.
 (4) A person charged with an offence under this section may be convicted of an offence under any other section in this Act as if the person had been charged under that section.
-(5) To avoid doubt, a person required by this section to take all practicable steps is required to take those steps only in respect of circumstances that the person knows or ought reasonably to know about.
+(5) To avoid doubt, a person required by this section to prevent, so far as is reasonably practicable, serious harm or significant property damage is required to take action only in respect of circumstances that the person knows, or ought reasonably to know, about.
 (6) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section.
 
 ### 57 Other offences
