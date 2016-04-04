@@ -1,5 +1,5 @@
 # Health and Safety in Employment Amendment Act 2013
-_Consolidation as at 2013-11-18_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Health and Safety in Employment Amendment Act 2013.
@@ -67,14 +67,14 @@ After section 13, insert:Duties of mine operators in relation to training and su
 
 ### 9 Section 19G amended (Minister may approve occupational health and safety training)
 After section 19G(4), insert:
-  (5) For the purposes of Part 2B, the reference to a health and safety representative in section 19G(2)(b) means a site health and safety representative.
+  (5) For the purposes of Part 2B, the reference to a health and safety representative in section 19G(2)﻿(b) means a site health and safety representative.
 
 ### 10 New section 19J inserted (Relationship of this Part with Part 2B)
 After section 19I, insert:Relationship of this Part with Part 2B
   Except as provided in this Part or Part 2B, nothing in this Part applies to a mining operation.
 
 ### 11 New Part 2B inserted
-After Part 2A, insert:Worker participation in health and safety in mining sectorPurpose of PartInterpretationMeaning of mining operationMeaning of quarrying operationMeaning of tunnelling operationGovernor-General may, by Order in Council, exclude operations from section 19OGeneral duty to involve mine workers in health and safety mattersWorker participation systemDevelopment of worker participation systemTraining of site health and safety representatives Review and replacement of worker participation systemsPrescribed provisions apply if no scheme in placeSite health and safety representativesElection of site health and safety representativesFunctions of site health and safety representativesNo duty on site health and safety representativesPowers of site health and safety representativesCompetency requirements for exercise of certain powersPower of site health and safety representative to attend interviewPower of site health and safety representative to enter and inspect mining operationPower of site health and safety representative to examine and copy documentsPower to require assistancePower of site health and safety representative to accompany inspectorSite health and safety representative may consult inspectorTrained site health and safety representatives may issue hazard noticesPower of site health and safety representative to give notice requiring suspension of mining operationPower of site health and safety representative to require mining operation to stop in case of imminent serious harmInspector may cancel order to suspend mining operationWorkers must do other workWork not to restart until no likelihood of serious harmProtection of site health and safety representatives performing functions or exercising powersFunctions and powers for health and safety purposes onlyInformation to be used for health and safety purposes onlyHealth and safety representative not to unnecessarily impede productionProtection from civil and criminal liabilityObligations of mine operatorsRemoval of site health and safety representativeWorkSafe may remove site health and safety representativeElection of another site health and safety representativeSite health and safety representative may appeal against removalIndustry health and safety representativesAppointment of industry health and safety representativesNotice to WorkSafe of appointment or cessation of appointment of representativeFunctions and powers of industry health and safety representativesFurther provision concerning scope of functions and powers of industry health and safety representativesIdentity cardsProduction or display of identity cardRemoval of industry health and safety representativeRegister of industry health and safety representativesAlterations to registerSearch of register
+After Part 2A, insert:Worker participation in health and safety in mining sectorPurpose of PartInterpretationMeaning of mining operationMeaning of quarrying operationMeaning of tunnelling operationGovernor-General may, by Order in Council, exclude operations from section 19OGeneral duty to involve mine workers in health and safety mattersWorker participation systemDevelopment of worker participation systemTraining of site health and safety representativesReview and replacement of worker participation systemsPrescribed provisions apply if no scheme in placeSite health and safety representativesElection of site health and safety representativesFunctions of site health and safety representativesNo duty on site health and safety representativesPowers of site health and safety representativesCompetency requirements for exercise of certain powersPower of site health and safety representative to attend interviewPower of site health and safety representative to enter and inspect mining operationPower of site health and safety representative to examine and copy documentsPower to require assistancePower of site health and safety representative to accompany inspectorSite health and safety representative may consult inspectorTrained site health and safety representatives may issue hazard noticesPower of site health and safety representative to give notice requiring suspension of mining operationPower of site health and safety representative to require mining operation to stop in case of imminent serious harmInspector may cancel order to suspend mining operationWorkers must do other workWork not to restart until no likelihood of serious harmProtection of site health and safety representatives performing functions or exercising powersFunctions and powers for health and safety purposes onlyInformation to be used for health and safety purposes onlyHealth and safety representative not to unnecessarily impede productionProtection from civil and criminal liabilityObligations of mine operatorsRemoval of site health and safety representativeWorkSafe may remove site health and safety representativeElection of another site health and safety representativeSite health and safety representative may appeal against removalIndustry health and safety representativesAppointment of industry health and safety representativesNotice to WorkSafe of appointment or cessation of appointment of representativeFunctions and powers of industry health and safety representativesFurther provision concerning scope of functions and powers of industry health and safety representativesIdentity cardsProduction or display of identity cardRemoval of industry health and safety representativeRegister of industry health and safety representativesAlterations to registerSearch of register
   The purpose of this Part is to require the participation of mine workers in processes relating to health and safety in a mining operation so that—
     (a) all persons with relevant knowledge and expertise can help make the mining operation healthy and safe; and
     (b) when making decisions that affect mine workers and their work, a mine operator has information from mine workers who face the health and safety issues in practice.
@@ -320,11 +320,11 @@ Replace section 20 with:Codes of practiceCode to be approved by MinisterCourt ma
     (a) at least 28 days have passed since the publication in the Gazette of a notice of the intention of WorkSafe to apply for approval; and
     (b) the Minister has consulted any persons that will be affected by the code, amendment, or revocation (or representatives of those persons), and they have had the opportunity to consider its possible effects and to comment on the effects to the Minister; and
     (c) the Minister has considered any comments made to the Minister concerning the effects.
-  (3) However, the Minister may approve a code, amendment, or revocation without complying with the requirements of subsection (2)(a) or (b) if the Minister is satisfied that sufficient consultation has already taken place in respect of the matters in the code, amendment, or revocation.
+  (3) However, the Minister may approve a code, amendment, or revocation without complying with the requirements of subsection (2)﻿(a) or (b) if the Minister is satisfied that sufficient consultation has already taken place in respect of the matters in the code, amendment, or revocation.
   (4) When the Minister approves a code, amendment, or revocation, the Minister must—
     (a) publish a notice of the approval in the Gazette; and
     (b) show the date of the approval on the code, amendment, or revocation and publish it in any manner the Minister thinks fit.
-  (5) The fact that the Minister has published a notice of approval in the Gazette under subsection (4)(a) is conclusive proof that the requirements of this section have been complied with in respect of the approval.
+  (5) The fact that the Minister has published a notice of approval in the Gazette under subsection (4)﻿(a) is conclusive proof that the requirements of this section have been complied with in respect of the approval.
   (1) A court may, in determining whether or not a person charged with failing to comply with any provision of this Act has complied with the provision, have regard to any approved code of practice that—
     (a) was in force at the time of the alleged failure; and
     (b) in the form in which it was then in force, related to matters of a kind to which the provision relates.
@@ -377,7 +377,7 @@ Replace section 20 with:Codes of practiceCode to be approved by MinisterCourt ma
     (b) consult the people responsible for paying the proposed levy.
 
 ### 13 Section 21 amended (Regulations)
-Replace section 21(1)(b) with:
+Replace section 21(1)﻿(b) with:
   (b) without limiting paragraph (a), imposing duties relating to the health or safety of mine workers on—
     (i) mine operators:
     (ii) mine workers:
@@ -392,7 +392,7 @@ Replace section 21(1)(b) with:
 
 ### 14 Section 22 amended (Application of regulations)
 In section 22, insert as subsection (2):
-  (2) Regulations under section 21(1)(b) may impose duties—
+  (2) Regulations under section 21(1)﻿(b) may impose duties—
     (a) on all mine operators:
     (b) on mine operators of a particular kind or description:
     (c) on all site senior executives:
@@ -403,10 +403,10 @@ In section 22, insert as subsection (2):
     (h) in relation to mining operations of a particular class or description.
 
 ### 15 Section 23 amended (Other provisions relating to regulations)
-(1) In section 23, replace section 21(1)(a) with section 21(1)(a) or (b) in each place.
-(2) After section 23(1)(e), insert:.
+(1) In section 23, replace section 21(1)﻿(a) with section 21(1)﻿(a) or (b) in each place.
+(2) After section 23(1)﻿(e), insert:.
   (ea) the competency requirements to be met by site health and safety representatives and industry health and safety representatives:
-(3) After section 23(1)(f), insert:.
+(3) After section 23(1)﻿(f), insert:.
   (fa) the prescribing by WorkSafe, by notice in the Gazette, of—
     (i) requirements to be met for the granting of certificates of competence:
     (ii) other competency requirements for mine workers, site senior executives, site health and safety representatives, and industry health and safety representatives:
@@ -451,7 +451,7 @@ After section 41, insert:Inspectors may issue prohibition notices in relation to
   (3) An inspector who gives a prohibition notice under section 41A may—
     (a) fix the notice to or near the part of the place of work or plant to which it relates and give a copy of it to the site senior executive, or another representative of the mine operator, on behalf of the mine operator; or
     (b) give the notice to the site senior executive, or another representative of the mine operator, on behalf of the mine operator.
-  (4) No person may remove a notice under section 41A served in accordance with subsection (3)(a) unless authorised by an inspector.
+  (4) No person may remove a notice under section 41A served in accordance with subsection (3)﻿(a) unless authorised by an inspector.
 
 ### 21 Section 43 amended (Compliance with prohibition notices)
 (1) In section 43, after notice, insert under section 41.
@@ -459,14 +459,14 @@ After section 41, insert:Inspectors may issue prohibition notices in relation to
   (2) A mine operator to whom a prohibition notice under section 41A is given must ensure that no action is taken in contravention of it.
 
 ### 22 Section 50 amended (Other offences)
-In section 50(1)(b), after 19B,, insert section 19Q(1), section 19ZN(2), section 19ZG(4), section 19ZH(3), section 19ZL,.
+In section 50(1)﻿(b), after 19B,, insert section 19Q(1), section 19ZN(2), section 19ZG(4), section 19ZH(3), section 19ZL,.
 
 ### 23 Section 56D amended (Inspector may require information)
-(1) After section 56D(1)(b)(iii), insert:.
+(1) After section 56D(1)﻿(b)﻿(iii), insert:.
   (iiia) a mine operator:
   (iiib) a mine worker:
   (iiic) a site senior executive:
-(2) After section 56D(2)(b)(i), insert:.
+(2) After section 56D(2)﻿(b)﻿(i), insert:.
   (ia) a mine operator:
 
 ### 24 Section 59 amended (Funding)
@@ -509,12 +509,12 @@ The enactments specified in Schedule 2 are amended in the manner set out in that
 (3) Sections 19ZF, 19ZG, 19ZH, and 19ZK of the principal Act, as inserted by the Health and Safety in Employment Amendment Act 2013, apply, with any necessary modifications, as if references to the site senior executive were references to the mine operator or a representative of the mine operator.
 
 ### 3 Exemptions of mining operations from regulations for limited period
-(1) Regulations made under section 21(1)(b) of the principal Act may provide for the granting by WorkSafe of an exemption (unconditionally or subject to conditions) in respect of any particular mining operation (whether or not it is one to which clause 1 applies) from one or more obligations or requirements under the regulations for any specified period, or periods, of up to a total of 36 months and ending not later than 31 December 2017.
+(1) Regulations made under section 21(1)﻿(b) of the principal Act may provide for the granting by WorkSafe of an exemption (unconditionally or subject to conditions) in respect of any particular mining operation (whether or not it is one to which clause 1 applies) from one or more obligations or requirements under the regulations for any specified period, or periods, of up to a total of 36 months and ending not later than 31 December 2017.
 (2) The regulations must—
   (a) specify the reasons for which exemptions may be granted; and
   (b) require WorkSafe to specify in an exemption the reasons for which the exemption is granted.
 (3) An exemption granted under the regulations is not a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
-(4) Nothing in this clause limits section 23(1)(k) of the principal Act.
+(4) Nothing in this clause limits section 23(1)﻿(k) of the principal Act.
 
 ## Schedule 2 — Consequential amendments
 
