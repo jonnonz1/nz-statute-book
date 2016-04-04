@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-04-04_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -149,10 +149,9 @@ _Consolidation as at 2016-03-01_
     (b) does not include a pilot or any person temporarily employed on a ship while it is in port
   - **seaplane** includes a flying boat and any other aircraft designed to manoeuvre on the water
   - **Secretary** means the chief executive of the Ministry
-  - **serious harm** means—and has a corresponding meaning
+  - **serious harm** means—
     (a) death; or
-    (b) harm of a kind or description referred to in Schedule 1 of the Health and Safety in Employment Act 1992; or
-    (c) harm of a kind or description declared by the Governor-General by Order in Council to be serious for the purposes of the Health and Safety in Employment Act 1992;—
+    (b) a notifiable injury or illness as defined in section 23 of the Health and Safety at Work Act 2015
   - **ship** means every description of boat or craft used in navigation, whether or not it has any means of propulsion; and includes—
     (a) a barge, lighter, or other like vessel:
     (b) a hovercraft or other thing deriving full or partial support in the atmosphere from the reaction of air against the surface of the water over which it operates:
@@ -1464,7 +1463,7 @@ For the purposes of granting or renewing maritime documents in respect of person
     (i) the Transport Accident Investigation Commission:
     (ii) the New Zealand Defence Force:
     (iii) a visiting force:
-    (iv) an inspector or other person under the Health and Safety in Employment Act 1992,—
+    (iv) the regulator, an inspector, or any other person under the Health and Safety at Work Act 2015,—
 (7) This section is subject to section 14 of the Transport Accident Investigation Commission Act 1990.
 
 ### 58 Powers of investigation of Director
@@ -1898,7 +1897,7 @@ In this Part, unless the context otherwise requires,—
 ### 109 Provisions where wreck claimed by 2 or more persons and as to unclaimed wreck
 [Repealed]
 
-**Removal of wrecked ships and aircraft**
+**Removal of hazards to navigation**
 
 ### 110 Removal of hazards to navigation
 (1) The Director may cause to be removed any ship or aircraft referred to in section 100A, or any derelict ship, or any floating or submerged or stranded object, (the hazard), if—
@@ -2488,7 +2487,7 @@ If the Secretary of Foreign Affairs and Trade certifies that, for the purposes o
 
 ### 213 Savings
 (1) Notwithstanding section 212(1), the Sea Carriage of Goods Act 1940, as in force immediately before the commencement of that section, shall be deemed to continue to apply to a contract of carriage of goods by sea after that commencement if—
-  (a) the contract was made before that commencement, and
+  (a) the contract was made before that commencement; and
   (b) that Act would have applied but for the operation of section 212(1).
 (2) Notwithstanding section 212(2), section 5(5) of the Carriage of Goods Act 1979, as in force immediately before the commencement of that section, shall be deemed to continue to apply to a contract of carriage of goods by sea between any place in New Zealand and any place in the Cook Islands or in Niue or in Tokelau after the commencement if—
   (a) the contract was made before that commencement; and
@@ -2913,7 +2912,7 @@ In this Part, unless the context otherwise requires,—
 (1) In the case of a structure that, in the opinion of the Director, is a hazardous structure, the Director may from time to time—
   (a) issue any instructions to the owner of the structure with respect to the structure:
   (b) take any measure with respect to the structure.
-(2) Subsection (1), includes power to take or require to be taken either or both of the following measures:
+(2) Subsection (1) includes power to take or require to be taken either or both of the following measures:
   (a) the removal to another place of the structure:
   (b) the sinking or destruction of the structure.
 (3) In the case of marine operations that, in the opinion of the Director, are hazardous marine operations, the Director may from time to time—
@@ -3400,7 +3399,7 @@ Every regional council shall review its regional marine oil spill contingency pl
 (1) In preparing its draft regional marine oil spill contingency plan, a regional council shall ensure that,—
   (a) the draft plan is consistent with the New Zealand marine oil spill response strategy and the national marine oil spill contingency plan; and
   (b) the draft plan complies with any relevant requirements of the marine protection rules.
-(2) In preparing under section 289 or reviewing under section 290, its draft regional marine oil spill contingency plan, a regional council shall consider the following matters:
+(2) In preparing, under section 289, or reviewing, under section 290, its draft regional marine oil spill contingency plan, a regional council shall consider the following matters:
   (a) the regional marine oil spill contingency plans of regional councils with adjacent regions:
   (b) such other marine oil spill contingency plans as it considers appropriate:
   (c) any regional coastal plan applying to that region and prepared under the Resource Management Act 1991:
@@ -3408,7 +3407,7 @@ Every regional council shall review its regional marine oil spill contingency pl
   (e) the harmful effects that marine oil spills may have on the marine environment and measures that can be taken to limit these effects:
   (f) the substances that are suitable to contain and clean up marine oil spills:
   (g) such other matters as it considers appropriate.
-(3) In preparing under section 289 or reviewing under section 290, its draft regional marine oil spill contingency plan, a regional council shall consult—
+(3) In preparing, under section 289, or reviewing, under section 290, its draft regional marine oil spill contingency plan, a regional council shall consult—
   (a) the Department of Conservation; and
   (b) representatives of the tangata whenua within its region; and
   (c) such persons who use the coastal resources within its region as the regional council considers appropriate; and
@@ -3458,7 +3457,7 @@ By a date specified by the Minister for the purpose by notice in the Gazette, th
 (3) Nothing in this section shall derogate from any other duty under this Act, or any other enactment, or any marine protection rules, to give notice to the Director or any other person of an oil spill into New Zealand marine waters.
 
 ### 300 Function of regional on-scene commanders after notification
-(1) Subject to section 313, if a regional on-scene commander is notified or otherwise becomes aware, of a marine oil spill within the region of the council by whom that on-scene commander is appointed, he or she shall decide whether or not it is appropriate for any action to be taken in response to that marine oil spill, including the taking of any measures under the regional marine oil spill contingency plan or the exercise of any powers under this Act.
+(1) Subject to section 313, if a regional on-scene commander is notified, or otherwise becomes aware, of a marine oil spill within the region of the council by whom that on-scene commander is appointed, he or she shall decide whether or not it is appropriate for any action to be taken in response to that marine oil spill, including the taking of any measures under the regional marine oil spill contingency plan or the exercise of any powers under this Act.
 (2) Subject to section 313, if, in the opinion of any regional on-scene commander, containing and cleaning up any marine oil spill within the region of that regional council is or may be beyond the capacity of the resources available to that regional council, that regional on-scene commander shall forthwith notify the Director that assistance is or may be sought from the Authority.
 (3) Notification by the regional on-scene commander of the Director under subsection (2) shall not relieve a regional council from its obligations under section 313 to comply with its regional marine oil spill contingency plan.
 
@@ -4034,7 +4033,7 @@ Where proceedings are brought against the International Oil Pollution Fund under
 (3) Where a court in a country in respect of which the Fund Convention is in force has directed the distribution of the amounts available for distribution in accordance with the provisions of paragraph 5 of Article 4 of that Convention, then, for the purpose of enforcing the judgment of that court in New Zealand, the judgment to be enforced shall be the judgment of that court as modified by that direction as to distribution.
 
 ### 383 Rights of subrogation of International Oil Pollution Fund
-Where any person has received compensation from the International Oil Pollution Fund under section 372, then the International Oil Pollution Fund shall (up to the amount of compensation paid) be subrogated to the rights and remedies of that person against,—
+Where any person has received compensation from the International Oil Pollution Fund under section 372, then the International Oil Pollution Fund shall (up to the amount of compensation paid) be subrogated to the rights and remedies of that person against—
   (a) the owner of any CLC ship, or the owner’s insurer, in respect of the liability incurred by that owner or that owner’s insurer under section 345 or section 366:
   (b) any other person in respect of the pollution damage for which compensation has been paid and the rights of the International Oil Pollution Fund against any person referred to in this paragraph shall be as favourable as any right or remedy that the insurer of any person referred to in paragraph (a) would have by way of subrogation.
 
@@ -4679,7 +4678,7 @@ Subject to this Act, the Authority shall, in the course of performing its functi
   (a) is subject to section 451(8) and to any prohibitions, restrictions, or conditions contained in any other Act in relation to the delegation of the Minister’s functions or powers; but
   (b) does not limit any power of delegation conferred on the Minister by any other Act.
 (5) Subject to any general or special directions given or conditions imposed by the Minister, the Authority may exercise any functions or powers so delegated to the Authority in the same manner and with the same effect as if they had been conferred on the Authority directly by this section and not by delegation.
-(6) Where the Authority purports to act pursuant to any delegation under this section, the Authority, shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
+(6) Where the Authority purports to act pursuant to any delegation under this section, the Authority shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
 (7) No such delegation shall affect or prevent the performance of any function or the exercise of any power by the Minister, nor shall any such delegation affect the responsibility of the appropriate Minister for the actions of any person acting under the delegation.
 
 ### 442 Restriction on delegation of functions and powers by Authority
@@ -4835,7 +4834,7 @@ Before making any emergency rule under section 37 or section 391, the Director s
 (4) Where a warrant under section 454 has been issued to a duly authorised person subject to conditions, the duly authorised person—
   (a) shall not enter the dwellinghouse, marae, or building associated with a marae, specified in the warrant otherwise than in accordance with the conditions; and
   (b) shall in all other respects comply with the conditions.
-(5) Subject to subsection (4), a duly authorised person exercising the powers of inspection conferred by subsection (1) may use such force in going on, into, or under, the place concerned (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
+(5) Subject to subsection (4), a duly authorised person exercising the powers of inspection conferred by subsection (1) may use such force in going on, into, or under the place concerned (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
 
 ### 454 Warrant to inspect dwellinghouse, marae, etc
 (1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made by an authorised person in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act, is satisfied that entry is essential to enable the inspection of a place referred to in section 453(3) to be carried out, may issue a warrant to the authorised person that authorises that person to enter the place.
@@ -5285,7 +5284,7 @@ Every application to the Maritime Appeal Authority shall be considered at such p
 The applicant shall be entitled to appear before the Maritime Appeal Authority in support of the application or be represented by counsel or a solicitor or an agent.
 
 ### 13
-Except as otherwise provided by this section, the Maritime Appeal Authority may determine the Authority’s own procedure, but shall follow the rules of natural justice.
+Except as otherwise provided by this clause, the Maritime Appeal Authority may determine the Authority’s own procedure, but shall follow the rules of natural justice.
 
 ### 14
 Every application heard by the Maritime Appeal Authority shall be determined by the decision in writing of the Maritime Appeal Authority alone, and shall be final.
