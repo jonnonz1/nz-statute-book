@@ -1,5 +1,5 @@
 # Health and Safety in Employment Amendment Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 (1) This Act is the Health and Safety in Employment Amendment Act 2004.
