@@ -1,5 +1,5 @@
 # Inspector-General of Intelligence and Security Act 1996
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2016-04-04_
 
 > An Act to increase the level of oversight and review of intelligence and security agencies by providing for the appointment of an Inspector-General of Intelligence and Security
 
@@ -105,6 +105,7 @@ The Inspector-General shall give written notice to the Prime Minister of all int
     (i) a New Zealand person; or
     (ii) a person who is an employee or former employee of an intelligence and security agency,—
   (ba) to inquire into any complaint made by the Speaker of the House of Representatives on behalf of 1 or more members of Parliament:
+  (bb) to inquire into a request by a worker who is an employee of the New Zealand Security Intelligence Service or the Government Communications Security Bureau for a determination under section 8(7) of the Health and Safety at Work Act 2015:
   (c) to inquire at the request of the Minister or the Prime Minister or of the Inspector-General's own motion into any matter where it appears that a New Zealand person has been or may be adversely affected by any act, omission, practice, policy, or procedure of an intelligence and security agency:
   (ca) to inquire at the request of the Minister or the Prime Minister or of the Inspector-General's own motion into the propriety of particular activities of an intelligence and security agency:
   (d) without limiting paragraph (a), to review at intervals of not more than 12 months—
@@ -118,7 +119,7 @@ The Inspector-General shall give written notice to the Prime Minister of all int
   (e) to prepare and submit to the Minister from time to time for his or her approval programmes for the general oversight and review of each intelligence and security agency and for the discharge by the Inspector-General, in relation to each intelligence and security agency, of the particular functions specified in this section:
   (f) to carry out any programme or amended programme or substituted programme approved by the Minister under paragraph (e).
 (2)
-(3) In carrying out any inquiry in accordance with the provisions of subsection (1)(ca), it shall not be a function of the Inspector-General to inquire into any action taken by the Minister.
+(3) In carrying out any inquiry in accordance with the provisions of subsection (1)﻿(ca), it shall not be a function of the Inspector-General to inquire into any action taken by the Minister.
 (4) Except to the extent strictly necessary for the performance of his or her functions under subsection (1), the Inspector-General shall not inquire into any matter that is operationally sensitive, including any matter that relates to intelligence collection and production methods or sources of information.
 (5) The Inspector-General shall not conduct an inquiry into a complaint made under subsection (1) by an employee or former employee of an intelligence and security agency unless—
   (a) all established internal remedies have been exhausted; or
@@ -179,7 +180,7 @@ This section establishes an advisory panel.
   (d) may be removed from office by notice in writing from the Prime Minister for misconduct, inability to perform the functions of office, or neglect of duty.
 
 ### 15D Remuneration of appointed members of advisory panel
-(1) A member of the advisory panel appointed under section 15C(1)(a) is entitled—
+(1) A member of the advisory panel appointed under section 15C(1)﻿(a) is entitled—
   (a) to receive remuneration not within paragraph (b) for services as a member at a rate and of a kind determined by the Minister in accordance with the fees framework; and
   (b) in accordance with the fees framework, to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member.
 (2) For the purposes of subsection (1), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
@@ -216,7 +217,7 @@ Where any employee of an intelligence and security agency brings any matter to t
 (1) The Inspector-General, on commencing an inquiry,—
   (a) shall notify the chief executive of the relevant intelligence and security agency of both the commencement of the inquiry and the nature of the inquiry; and
   (b) if the inquiry relates to a complaint, shall provide the chief executive with a copy of the complaint.
-(2) Where an inquiry is initiated by the Inspector-General of his or her own motion in accordance with the provisions of section 11(1)(a), the Inspector-General shall advise the Minister of both the commencement of the inquiry and the nature of the inquiry.
+(2) Where an inquiry is initiated by the Inspector-General of his or her own motion in accordance with the provisions of section 11(1)﻿(a), the Inspector-General shall advise the Minister of both the commencement of the inquiry and the nature of the inquiry.
 (3) If the inquiry relates to a complaint, the Inspector-General may require the complainant to give on oath any information relating to the complaint, and may for that purpose administer an oath to the complainant.
 (4) The Inspector-General shall permit the complainant to be heard, and to be represented by counsel or any other person, and to have other persons testify to the complainant's record, reliability, and character.
 (5) In accordance with the foregoing provisions of this section, the Inspector-General may receive such evidence as the Inspector-General thinks fit, whether admissible in a court of law or not.
@@ -237,7 +238,7 @@ For the purposes of any inquiry under this Act, the Inspector-General may, after
 In conducting any inquiry under section 11(1), the Inspector-General may hear separately and in private such evidence (if any) as may be tendered by any party to the proceedings and any witnesses whom any party to the proceedings may wish to call if, in the opinion of the Inspector-General,—
   (a) the interests of justice so require; or
   (b) to do otherwise—
-    (i) would be likely to prejudice 1 or more of the interests referred to in section 26(3)(a); or
+    (i) would be likely to prejudice 1 or more of the interests referred to in section 26(3)﻿(a); or
     (ii) would be likely to prejudice the privacy of any individual.
 
 ### 23 Powers of Inspector-General in relation to inquiries
