@@ -1,5 +1,5 @@
 # Accident Compensation Amendment Act 2015
-_Consolidation as at 2015-09-04_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Accident Compensation Amendment Act 2015.
