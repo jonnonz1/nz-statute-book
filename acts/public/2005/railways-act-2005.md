@@ -1,5 +1,5 @@
 # Railways Act 2005
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Railways Act 2005.
@@ -25,11 +25,16 @@ The purpose of this Act is to—
     (a) the death of, or serious injury to, individuals; or
     (b) significant damage to property
   - **Agency** means the New Zealand Transport Agency established under section 93 of the Land Transport Management Act 2003
+  - **amusement device** —
+    (a) means an appliance—
+      (i) to which the motion of a prime mover is transmitted; and
+      (ii) that is used, or designed or intended to be used, for the amusement, recreation, or entertainment of persons being carried, raised, lowered, or moved by the appliance or any part of the appliance while it is in motion; and
+    (b) includes the prime mover, transmission machinery, supporting structure, and any equipment used or intended to be used in connection with the appliance
   - **approved safety case** means a safety case that the Agency has approved under section 32; and includes any variation approved or confirmed under section 35
   - **Commission** means the Transport Accident Investigation Commission established under section 3 of the Transport Accident Investigation Commission Act 1990
   - **director** ,—
     (a) in relation to a company, has the same meaning as in section 126 of the Companies Act 1993 as if—
-      (i) this Act were referred to in subsections (1)(b) to (d), (2), and (3) of that section; and
+      (i) this Act were referred to in subsections (1)﻿(b) to (d), (2), and (3) of that section; and
       (ii) subsection (1A) of that section were omitted:
     (b) in relation to any other body corporate, means a person occupying a position in, or in relation to, the body corporate that is comparable with that of a person who is a director of a company within the meaning of paragraph (a)
   - **enforcement officer** —
@@ -40,6 +45,7 @@ The purpose of this Act is to—
       (iv) a person who is appointed as an enforcement officer by warrant under section 102 or who holds that office by virtue of this Act; but
     (b) does not include a safety assessor
   - **equipment** includes software
+  - **health and safety regulator** has the same meaning as regulator in section 16 of the Health and Safety at Work Act 2015
   - **incident** means an occurrence, other than an accident, that is associated with the operation of a rail vehicle or the use of railway infrastructure or railway premises that placed, or could have placed,—
     (a) a person at risk of death or serious injury; or
     (b) property at risk of significant damage
@@ -66,6 +72,7 @@ The purpose of this Act is to—
   - **ordinary safety assessment** means a safety assessment undertaken of all parts or any part of a rail participant's rail activities to enable the Agency—
     (a) to gain appropriate assurances that those rail activities will continue to be conducted safely; or
     (b) to determine the action that must be taken by the rail participant so that those assurances may be gained
+  - **prime mover** means an engine, motor, or other appliance that provides mechanical energy derived from steam, water, wind, electricity, gas, gaseous products, compressed air, the combustion of fuel, or any other source
   - **rail activities** has the meaning specified in subsection (2)
   - **rail document** means a document that a rail participant or any rail personnel is required to hold under this Act; and includes a licence
   - **rail operator** means a person who provides or operates a rail vehicle, whether or not that person engages rail personnel to do so or to assist in doing so on its behalf; but does not include those rail personnel
@@ -88,7 +95,7 @@ The purpose of this Act is to—
       (ii) a vehicle designed to operate both on rails and off rails, but only when that vehicle is running on rails
   - **rail vehicle owner** means a person who owns, or leases for a period of 7 years or more, a rail vehicle, whether or not that person engages rail personnel to exercise or to assist in exercising the rights and duties of ownership on its behalf; but does not include those rail personnel
   - **railway** means the railway infrastructure, rail vehicles, and other property (other than railway premises), including property specified by regulations made under section 59(j) and vehicles prescribed under section 59(k), that together are being used for the purpose of transporting people or goods by rail; but excludes—
-    (a) a railway used as an amusement device as defined in section 21A(1) of the Machinery Act 1950:
+    (a) a railway used as an amusement device:
     (b) a railway that operates on a set of rails with a gauge of less than 550 mm between them, unless that set of rails is designated as a railway line under section 59(l):
     (c) a railway that operates on a railway line excluded by regulations made under section 59(m):
     (d) a private cable car
@@ -108,7 +115,7 @@ The purpose of this Act is to—
       (iii) a set of rails, having a gauge of less than 550 mm between them, that is designated as a railway line in regulations made under section 59(l); and
       (iv) except as provided in subparagraph (ii), any area within 5 m of a single rail or within 5 m of a line drawn midway between a set of rails; but
     (c) excludes—
-      (i) a railway line that is part of a railway used as an amusement device as defined in section 21A(1) of the Machinery Act 1950:
+      (i) a railway line that is part of a railway used as an amusement device:
       (ii) a railway line excluded by regulations made under section 59(m):
       (iii) a railway line that exclusively serves private cable cars
   - **railway premises** means the land, buildings, or structures that are—
@@ -140,7 +147,7 @@ The purpose of this Act is to—
       (i) the death of, or serious injury to, individuals; or
       (ii) significant damage to property; and
     (b) there is a need for an early determination of the nature and extent of the action that the Agency would require the rail participant to take to mitigate that risk
-  - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
+  - **transmission machinery** means any shaft, wheel, drum, pulley, system of fast and loose pulleys, gearing, coupling, clutch, driving belt, chain, rope, band, or other device by which the motion of a prime mover is transmitted to or received by any machine or appliance.
 (2) In this Act, the rail activities of a rail participant, or for which a rail participant is responsible, are as follows:
   (a) in the case of an infrastructure owner, the ownership of railway infrastructure:
   (b) in the case of a rail vehicle owner, the ownership and management of rail vehicles:
@@ -152,14 +159,15 @@ The purpose of this Act is to—
   (h) in the case of a network controller, the authorisation of rail vehicles occupying or moving on a railway line:
   (i) in the case of a class of person prescribed as a rail participant by regulations, the activities prescribed by regulations as being the rail activities of persons of that class.
 
-### 5 All practicable steps
-(1) In this Act, all practicable steps, in relation to achieving any result in any circumstances, means all steps to achieve the result that it is reasonably practicable to take in the circumstances, having regard to—
-  (a) the nature and severity of the injury that may be suffered if the result is not achieved; and
-  (b) the current state of knowledge about the likelihood that an injury of that nature and severity will be suffered if the result is not achieved; and
-  (c) the current state of knowledge about injuries of that nature; and
-  (d) the current state of knowledge about the means available to achieve the result, and about the likely efficacy of each of those means; and
-  (e) the availability and cost of each of those means.
-(2) To avoid doubt, a person required by this Act to take all practicable steps is required to take those steps only in respect of circumstances that the person knows or ought reasonably to know about.
+### 5 Meaning of reasonably practicable
+In this Act, unless the context otherwise requires, reasonably practicable, in relation to a duty to ensure health and safety or to protect property, means that which is, or was, at a particular time, reasonably able to be done in relation to ensuring health and safety or the protection of property, taking into account and weighing up all relevant matters, including—
+  (a) the likelihood of the hazard or the risk concerned occurring; and
+  (b) the degree of harm or damage that might result from the hazard or risk; and
+  (c) what the person concerned knows, or ought reasonably to know, about—
+    (i) the hazard or risk; and
+    (ii) ways of eliminating or minimising the risk; and
+  (d) the availability and suitability of ways to eliminate or minimise the risk; and
+  (e) after assessing the extent of the risk and the available ways of eliminating or minimising the risk, the cost associated with available ways of eliminating or minimising the risk, including whether the cost is grossly disproportionate to the risk.
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
@@ -169,16 +177,16 @@ This Act binds the Crown.
 ### Subpart 1 — Duties of rail participants and other persons
 
 ### 7 General safety duties of rail participants and persons working for rail participants
-(1) A rail participant must take all practicable steps on its part to ensure that none of the rail activities for which it is responsible causes, or is likely to cause, the death of, or serious injury to, individuals.
+(1) A rail participant must ensure, so far as is reasonably practicable, that none of the rail activities for which it is responsible causes, or is likely to cause, the death of, or serious injury to, individuals.
 (2) No rail personnel of a rail participant may do or omit to do anything in respect of a rail vehicle, railway infrastructure, or railway premises if he or she knows or ought reasonably to know that act or omission will cause, or will be likely to cause, the death of, or serious injury to, individuals.
 
-### 8 Relationship of Act with Health and Safety in Employment Act 1992
-(1) Nothing in this Act limits the Health and Safety in Employment Act 1992.
-(2) Despite subsection (1), the Agency and WorkSafe must enter into a memorandum of understanding with respect to investigations conducted and prosecutions taken under this Act or the Health and Safety in Employment Act 1992.
+### 8 Relationship of Act with Health and Safety at Work Act 2015
+(1) Nothing in this Act limits the Health and Safety at Work Act 2015.
+(2) Despite subsection (1), the Agency and the health and safety regulator must enter into a memorandum of understanding with respect to investigations conducted and prosecutions taken under this Act or the Health and Safety at Work Act 2015.
 (3)
 
 ### 9 General safety duties of other persons
-(1) Every person on or near a rail vehicle, railway infrastructure, or railway premises commits an offence who fails to take all practicable steps to ensure that no individual dies or is seriously injured, and that no property is significantly damaged, as a result of any act or omission of that person.
+(1) Every person on or near a rail vehicle, railway infrastructure, or railway premises commits an offence who fails to ensure, so far as is reasonably practicable, that no individual dies or is seriously injured, and that no property is significantly damaged, as a result of any act or omission of that person.
 (2) Every person commits an offence who, not having lawful authority to do so, knowingly—
   (a) places or moves any rail vehicle or other object on a railway line or leaves any rail vehicle or other object on any part of a railway line; or
   (b) moves, changes, or otherwise interferes with any signal, points, or stop blocks, or shows any signal likely to mislead; or
@@ -374,7 +382,7 @@ A licence may not be transferred or assigned to any person without the prior wri
   (a) amend a licence to reflect the fact that a rail activity for which the licence was granted is no longer being carried out by the licence holder:
   (b) revoke a licence if none of the rail activities for which the licence has been granted is being carried out by the licence holder:
   (c) amend a licence to correct any clerical error or obvious mistake on the face of the licence.
-(3) Section 27 applies in respect of a decision under subsection (2)(a) or (b).
+(3) Section 27 applies in respect of a decision under subsection (2)﻿(a) or (b).
 
 **Adverse decisions**
 
@@ -393,13 +401,13 @@ A licence may not be transferred or assigned to any person without the prior wri
   (a) the notice or copy is supplied to that person; or
   (b) the person consents to the supply of that information to another person.
 (4) If a notice, or copy of a notice, is given to a person under this section,—
-  (a) that person has the responsibility to ensure that all information that the person wishes to have considered by the Agency in relation to the proposed adverse decision is received by the Agency within the period specified in the notice, or copy, under subsection (1)(c), or within any further period that the Agency may allow; and
+  (a) that person has the responsibility to ensure that all information that the person wishes to have considered by the Agency in relation to the proposed adverse decision is received by the Agency within the period specified in the notice, or copy, under subsection (1)﻿(c), or within any further period that the Agency may allow; and
   (b) the Agency may, but is not obliged to, consider information (other than information requested by the Agency) supplied by the person after the expiry of the period referred to in paragraph (a); and
   (c) the Agency must consider submissions made in accordance with paragraph (a) and information supplied to the Agency by request of the Agency, but is not obliged to hear any person on the matter.
-(5) After considering the matters referred to in subsection (4)(c), the Agency must—
+(5) After considering the matters referred to in subsection (4)﻿(c), the Agency must—
   (a) decide whether or not to make the proposed adverse decision; and
-  (b) as soon as practicable after making the decision, give written notice to the person directly affected, and any other person of a kind referred to in subsection (2)(a), of—
-    (i) the reasons for the decision if those reasons differ from those notified under subsection (1)(b); and
+  (b) as soon as practicable after making the decision, give written notice to the person directly affected, and any other person of a kind referred to in subsection (2)﻿(a), of—
+    (i) the reasons for the decision if those reasons differ from those notified under subsection (1)﻿(b); and
     (ii) if appropriate, the date on which the decision takes effect; and
     (iii) if appropriate, the right of appeal under section 68.
 (6) In this section, unless the context otherwise requires,—
@@ -407,8 +415,8 @@ A licence may not be transferred or assigned to any person without the prior wri
     (a) to refuse to grant a licence under section 17; or
     (b) to suspend a licence or to impose temporary conditions on a licence under section 23; or
     (c) to revoke a licence or to impose permanent conditions on a licence under section 24; or
-    (d) to amend a licence under section 26(2)(a); or
-    (e) to revoke a licence under section 26(2)(b); or
+    (d) to amend a licence under section 26(2)﻿(a); or
+    (e) to revoke a licence under section 26(2)﻿(b); or
     (f) to give notice of the requirement for remedial action under section 42(1)
   - **affected licence holder** , in relation to a person directly affected by an adverse decision, means the holder of, or the applicant for, the licence
   - **person directly affected** , in relation to any adverse decision, means the person who would be entitled to appeal against that adverse decision under section 68.
@@ -490,7 +498,7 @@ A licence may not be transferred or assigned to any person without the prior wri
   (e) any provisions of the safety case that the Agency considers should be in a standard form applicable to more than 1 rail participant are in a common form approved by the Agency.
 
 ### 32 Approval of safety case
-(1) The Agency must consider each proposed safety case and, after consulting with the chief executive of the Department of Labour, either—
+(1) The Agency must consider each proposed safety case and, after consulting with WorkSafe, either—
   (a) approve the form and content of the proposed safety case; or
   (b) refuse to do so until the Agency is satisfied under section 31(2).
 (2) The Agency must make reasonable efforts to make a decision under subsection (1) not later than 60 working days after receipt of the proposed safety case.
@@ -525,7 +533,7 @@ A licence may not be transferred or assigned to any person without the prior wri
   (a) decide whether or not to approve the application or confirm the requirement; and
   (b) give written notice to the licence holder of the Agency’s decision.
 (3) The Agency may approve an application, or confirm a requirement, in whole or in part and subject to any conditions that the Agency considers appropriate.
-(4) If the Agency has refused to approve an application, or has confirmed a requirement, the Agency must, in the written notice given under subsection (2)(b), inform the licence holder of—
+(4) If the Agency has refused to approve an application, or has confirmed a requirement, the Agency must, in the written notice given under subsection (2)﻿(b), inform the licence holder of—
   (a) the reasons for the refusal or confirmation; and
   (b) the right to appeal under section 68.
 (5) A replacement or variation applied for under section 33 or required under section 34 does not have effect unless its approval or confirmation is notified under subsection (2).
@@ -535,7 +543,7 @@ A licence may not be transferred or assigned to any person without the prior wri
 (2) As soon as practicable but not later than 20 working days after receiving a plan under subsection (1), the Agency must advise the rail participant by written notice—
   (a) whether the Agency has approved the plan; and
   (b) if the Agency has not approved the plan, of the changes that the Agency requires to be made to the plan.
-(3) A rail participant who is advised under subsection (2)(b) of changes to be made to a plan must make those changes as soon as practicable but not later than 20 working days after being advised and must submit the amended plan to the Agency for the Agency’s approval, and subsection (2) applies in respect of the amended plan with all necessary modifications.
+(3) A rail participant who is advised under subsection (2)﻿(b) of changes to be made to a plan must make those changes as soon as practicable but not later than 20 working days after being advised and must submit the amended plan to the Agency for the Agency’s approval, and subsection (2) applies in respect of the amended plan with all necessary modifications.
 (4) If a plan has been approved by the Agency, the rail participant must—
   (a) implement the plan in accordance with its provisions; and
   (b) make any amendments to the approved plan that are required at any time by the Agency; and
@@ -547,7 +555,7 @@ A licence may not be transferred or assigned to any person without the prior wri
 
 ### 37 Ordinary and special safety assessments
 (1) The Agency may, at any time or times, by written notice given to the person or persons concerned, require a rail participant or any rail personnel of a rail participant to undergo either—
-  (a) an ordinary safety assessment at a time determined in accordance with section 30(1)(i) and specified in the notice; or
+  (a) an ordinary safety assessment at a time determined in accordance with section 30(1)﻿(i) and specified in the notice; or
   (b) a special safety assessment at a time specified in the notice.
 (2) Before giving notice of the requirement for a special safety assessment, the Agency must determine on reasonable grounds that the rail participant's rail activities could cause the death of, or serious injury to, individuals, or significant damage to property, by having regard to—
   (a) the nature and extent of the rail activities of the rail participant concerned:
@@ -599,7 +607,7 @@ A safety assessor must, after making a safety assessment under section 37, submi
   (b) the time limit within which the remedial action must be effected; and
   (c) any interim requirements imposed on the rail participant's rail activities under subsection (3) until the remedial action is completed; and
   (d) the right of appeal under section 68.
-(3) If a notice under subsection (2) refers to any non-compliance of the kind referred to in section 40(1)(b), the Agency may specify, in that notice, interim requirements that the rail participant must comply with until the non-compliance ceases.
+(3) If a notice under subsection (2) refers to any non-compliance of the kind referred to in section 40(1)﻿(b), the Agency may specify, in that notice, interim requirements that the rail participant must comply with until the non-compliance ceases.
 (4) If a variation to the rail participant's approved safety case is required by the Agency, the Agency must proceed under section 34.
 (5) Section 27 applies in respect of a decision under subsection (1).
 (6) Nothing in this section prevents the Agency from taking further action that the Agency considers appropriate in the interests of preventing the death of, or serious injury to, individuals, or significant damage to property, including, without limitation, the suspension or revocation of a licence.
@@ -849,13 +857,13 @@ A person who obstructs a safety assessor or fails to comply with a lawful requir
 If an offence is committed against this Act by a person as the employee, agent, or contractor of another person, that offence must be treated as having been committed by both persons, whether or not it was done with the other person's knowledge or approval, if it is proved that—
   (a) the other person—
     (i) knew, or could reasonably be expected to have known, that the offence was to be, or was being, committed; and
-    (ii) failed to take all practicable steps to prevent the commission of the offence; and
-  (b) the other person failed to take all practicable steps in the circumstances to remedy the effects of the act or omission that gave rise to the offence.
+    (ii) failed to prevent, so far as was reasonably practicable, the commission of the offence; and
+  (b) the other person failed to remedy, so far as was reasonably practicable, the effects of the act or omission that gave rise to the offence.
 
 ### 66 Liability of directors of bodies corporate
 If a body corporate is convicted of an offence against this Act, every director of the body corporate also commits the offence and is liable to the same penalty if it is proved that—
   (a) the act or omission that constituted the offence took place with his or her express or implied authority; and
-  (b) he or she failed to take all practicable steps to prevent or stop that act, or remedy that omission.
+  (b) he or she failed, so far as was reasonably practicable, to prevent or stop that act or remedy that omission.
 
 ### 67 Power to prohibit or restrict persons from being involved in rail activities
 (1) A District Court Judge may, on the application of the Agency or any other person, make an order prohibiting or restricting a person from acting as a rail participant, director of a rail participant, or rail personnel if that person—
@@ -1027,7 +1035,7 @@ A decision of the Agency appealed against under section 68 or section 71 or sect
   (d) if a gate is erected in contravention of this Act, the licensed access provider for the railway line, or a person authorised for this purpose by the licensed access provider,—
     (i) may remove the gate; and
     (ii) may, by giving notice in accordance with section 78, recover the cost of removing the gate from the person who erected it.
-(2) Despite section 4(1), for the purposes of subsection (1)(c), level crossing includes private roads.
+(2) Despite section 4(1), for the purposes of subsection (1)﻿(c), level crossing includes private roads.
 
 ### 83 Maintenance of crossings
 (1) At a level crossing, the licensed access provider for the railway line concerned must form, surface, and maintain the carriageway at the level crossing on the railway line, and the road controlling authority for the road concerned must form, surface, and maintain the approaches to the level crossing.
@@ -1165,7 +1173,7 @@ All fees and other money (not being fines, infringement fees, or other penalties
   (a) by delivering it, or a copy of it, personally to that person; or
   (b) by sending it, or a copy of it, by post addressed to that person at that person's last known place of residence or business or postal address; or
   (c) if that person is a holder of a rail document, by serving it, or a copy of it, by post on that person at that person's last address for service provided with respect to that rail document.
-(3) An infringement notice sent to a person by post under subsection (2)(b) or (c) is to be treated as having been served on the person 7 days after the date on which it was posted.
+(3) An infringement notice sent to a person by post under subsection (2)﻿(b) or (c) is to be treated as having been served on the person 7 days after the date on which it was posted.
 (4)
 (5)
 
@@ -1218,7 +1226,7 @@ For the purposes of sections 98 to 101, the Agency may, by warrant, appoint an e
     (ii) if the person is an access provider, the location, length, and gauge of the track used by that person, and the location and extent of that person's train control activities; and
   (b) not later than 11 months after the commencement of this Act, apply for a licence under this Act.
 (3) However, if section 109(2) applies, that person must comply with the requirements of subsection (2) no later than 1 month after a licence is granted under section 6 of the Transport Services Licensing Act 1989.
-(4) The Agency must issue an interim licence to a person who has provided a written statement specified in subsection (2)(a) not later than 10 working days after receipt of that statement.
+(4) The Agency must issue an interim licence to a person who has provided a written statement specified in subsection (2)﻿(a) not later than 10 working days after receipt of that statement.
 (5) The interim licence specified in subsection (4)—
   (a) may apply to a rail participant's activities as—
     (i) a rail operator; or
@@ -1227,8 +1235,8 @@ For the purposes of sections 98 to 101, the Agency may, by warrant, appoint an e
   (b) must include the same conditions as the person's rail service licence granted under the Transport Services Licensing Act 1989; and
   (c) expires 24 months after the commencement of this Act or when an application for a licence under this Act is granted (whichever is the sooner); and
   (d) may be revoked, suspended, or otherwise dealt with under this Act as if it were a licence granted under section 17.
-(6) Despite subsection (5)(c), the Agency may extend the expiration date of an interim licence if the Agency considers it appropriate.
-(7) If a person has been issued an interim licence under subsection (4), the person's approved safety system under the Transport Services Licensing Act 1989 is deemed to be that person's approved safety case for the purposes of this Act until the expiry of the interim licence under subsection (5)(c).
+(6) Despite subsection (5)﻿(c), the Agency may extend the expiration date of an interim licence if the Agency considers it appropriate.
+(7) If a person has been issued an interim licence under subsection (4), the person's approved safety system under the Transport Services Licensing Act 1989 is deemed to be that person's approved safety case for the purposes of this Act until the expiry of the interim licence under subsection (5)﻿(c).
 (8) A rail service licence granted under the Transport Services Licensing Act 1989—
   (a) continues in effect for a period of 2 months after the commencement of this Act or until the Agency issues an interim licence under subsection (4) (whichever is the sooner); and
   (b) may be revoked, suspended, or otherwise dealt with under this Act as if it were a licence granted under section 17.
@@ -1244,7 +1252,7 @@ For the purposes of sections 98 to 101, the Agency may, by warrant, appoint an e
     (ii) if the person is an access provider, the location, length, and gauge of the track controlled by that person, and the location and extent of that person's train control activities; and
     (iii) any details that may be required by the regulations by which that person was prescribed to be a rail participant; and
   (b) not later than 8 months after the commencement of this Act, apply for a licence under this Act.
-(3) The Agency must issue an interim licence to a person who has provided the written statement specified in subsection (2)(a) not later than 10 working days after receipt of that statement.
+(3) The Agency must issue an interim licence to a person who has provided the written statement specified in subsection (2)﻿(a) not later than 10 working days after receipt of that statement.
 (4) An interim licence issued under subsection (3)—
   (a) expires 18 months after the commencement of this Act or when an application for a licence under this Act is granted (whichever is the sooner); and
   (b) may be revoked, suspended, or otherwise dealt with under this Act as if it were a licence granted under section 17.
