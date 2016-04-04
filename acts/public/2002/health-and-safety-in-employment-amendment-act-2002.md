@@ -1,5 +1,5 @@
 # Health and Safety in Employment Amendment Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 (1) This Act is the Health and Safety in Employment Amendment Act 2002.
@@ -164,16 +164,16 @@ The principal Act is amended by repealing section 5, and substituting the follow
     (h) prohibiting persons from being indemnified or from indemnifying others against the cost of fines and infringement fees for failing to comply with the Act.
 
 ### 8 Significant hazards to employees to be minimised, and employees to be protected, where elimination and isolation impracticable
-(1) Section 10(2)(b) of the principal Act is amended by omitting the words To ensure that there is provided for, accessible to, and used by the employees, and substituting the words to provide, make accessible to, and ensure the use by the employees of.
+(1) Section 10(2)﻿(b) of the principal Act is amended by omitting the words To ensure that there is provided for, accessible to, and used by the employees, and substituting the words to provide, make accessible to, and ensure the use by the employees of.
 (2) Section 10 of the principal Act is amended by adding the following subsections:
-  (3) An employer does not comply with subsection (2)(b) by—
+  (3) An employer does not comply with subsection (2)﻿(b) by—
     (a) paying an employee an allowance or extra salary or wages instead of providing the protective clothing or equipment; or
     (b) requiring an employee to provide his or her own protective clothing or equipment as a pre-condition of employment or as a term or condition in an employment agreement.
-  (4) However, an employer does not have to comply with subsection (2)(b) in relation to protective clothing if—
+  (4) However, an employer does not have to comply with subsection (2)﻿(b) in relation to protective clothing if—
     (a) an employee genuinely and voluntarily chooses to provide his or her own protective clothing for reasons of his or her comfort or convenience; and
-    (b) the employer is satisfied that the protective clothing is suitable in terms of subsection (2)(b).
-  (5) An employee who has chosen to provide his or her own protective clothing under subsection (4) may, after giving reasonable notice to the employer, choose that the employer provide protective clothing under subsection (2)(b) instead of providing it himself or herself.
-  (6) Nothing in subsections (4) or (5) derogates from the responsibility of the employer under subsection (2)(b).
+    (b) the employer is satisfied that the protective clothing is suitable in terms of subsection (2)﻿(b).
+  (5) An employee who has chosen to provide his or her own protective clothing under subsection (4) may, after giving reasonable notice to the employer, choose that the employer provide protective clothing under subsection (2)﻿(b) instead of providing it himself or herself.
+  (6) Nothing in subsections (4) or (5) derogates from the responsibility of the employer under subsection (2)﻿(b).
 
 ### 9 Information for employees generally
 (1) The heading to section 12 of the principal Act is amended by adding the words and health and safety representatives.
@@ -196,7 +196,7 @@ The principal Act is amended by inserting, after section 18, the following secti
   (4) This section does not apply to the sale of plant, whether or not in trade, if the plant—
     (a) is secondhand; and
     (b) is sold as is.
-  (5) In subsection (4)(b), as is means that the plant is sold without any representations or warranties about its quality, durability, or fitness, and with the entire risk in those respects to be borne by the buyer.
+  (5) In subsection (4)﻿(b), as is means that the plant is sold without any representations or warranties about its quality, durability, or fitness, and with the entire risk in those respects to be borne by the buyer.
   (6) This section does not limit the Consumer Guarantees Act 1993.
 
 ### 12 Duties of employees
@@ -247,11 +247,10 @@ The principal Act is amended by inserting, after section 19, the following Part:
     (b) includes the period beginning on 5 May 2003 and ending on the close of 31 March 2004.
   (5) Subsections (1) and (2) are subject to section 19C(4).
   (1) The maximum total number of days' paid leave that an employer is required to allow in a year under section 19E is based on the number of employees employed by the employer as at the specified date in the year, and is determined in accordance with the following table:Employees as at the specified date in a yearMaximum total number of days' paid leave that employer is required to allow to be taken1–526–50651–2801 day for every 8 employees or part of that number281 or more35 days plus 5 days for every 100 employees or part of that number
-  (2)
-    - **specified date** In this section, —
-      (a) means 1 April; and
-      (b) for the period beginning on 5 May 2003 and ending on the close of 31 March 2004, includes 5 May 2003.
-  (3) This section is subject to section 19C(4)(b).
+  (2) In this section, specified date —
+    (a) means 1 April; and
+    (b) for the period beginning on 5 May 2003 and ending on the close of 31 March 2004, includes 5 May 2003.
+  (3) This section is subject to section 19C(4)﻿(b).
   (1) The Minister may approve, by notice in the Gazette, courses of occupational health and safety training to be carried out at a place of work or elsewhere.
   (2) The Minister may approve a course only if he or she is satisfied that the course is—
     (a) consistent with the object of this Act; and
@@ -271,7 +270,7 @@ The principal Act is amended by inserting, after section 19, the following Part:
   (ad) a statement of preferred practices or arrangements relating to employee participation in health and safety in the place of work; or.
 
 ### 15 Regulations
-Section 21(1)(a) of the principal Act is amended by adding the following subparagraph:
+Section 21(1)﻿(a) of the principal Act is amended by adding the following subparagraph:
   (iv) principals, or self-employed persons:
 
 ### 16 Recording and notification of accidents and serious harm
@@ -291,7 +290,7 @@ Section 21(1)(a) of the principal Act is amended by adding the following subpara
       (i) while at work and contracted to the principal, or
       (ii) as a result of any hazard to which the self-employed person was exposed while at work and contracted to the principal.
   (1C) Subsection (1B) does not require the occupier of a home to maintain a register or record accidents or serious harm that occur to self-employed persons at work in the home.
-(2) Section 25(2)(a) of the principal Act is amended by omitting the words is required by subsection (1)(b) of this section, and substituting the words , self-employed person, or principal is required by this section.
+(2) Section 25(2)﻿(a) of the principal Act is amended by omitting the words is required by subsection (1)﻿(b) of this section, and substituting the words , self-employed person, or principal is required by this section.
 (3) Section 25 of the principal Act is amended by repealing subsection (3), and substituting the following subsection:
   (3) If there occurs any serious harm or accident to which this subsection applies, the employer, self-employed person, or principal concerned must,—
     (a) as soon as possible after the occurrence becomes known to the employer, self-employed person, or principal, notify the Secretary of the occurrence; and
@@ -304,7 +303,7 @@ The principal Act is amended by inserting, after section 28, the following headi
     (a) the employee attempts to resolve the matter with the employer as soon as practicable after first refusing to do the work; and
     (b) the matter is not resolved; and
     (c) the employee believes on reasonable grounds that the work is likely to cause serious harm to him or her.
-  (3) Without limiting subsection (2)(c), reasonable grounds exist for the purpose of that paragraph if a health and safety representative has advised the employee that the work that the employee is required to perform is likely to cause serious harm to the employee.
+  (3) Without limiting subsection (2)﻿(c), reasonable grounds exist for the purpose of that paragraph if a health and safety representative has advised the employee that the work that the employee is required to perform is likely to cause serious harm to the employee.
   (4) A health and safety representative must not give advice under subsection (3) unless he or she has reasonable grounds for believing that the work that the employee is required to perform is likely to cause serious harm to the employee.
   (5) An employee may not refuse to do work that, because of its nature, inherently or usually carries an understood risk of serious harm unless the risk has materially increased beyond the understood risk.
   (6) An employee who refuses to do work must do any other work within the scope of the employee's employment agreement that the employer reasonably requests.
@@ -312,7 +311,7 @@ The principal Act is amended by inserting, after section 28, the following headi
   (8) To avoid doubt—
     (a) in situations to which this section applies, the employer, employee, and health and safety representative must deal with each other in good faith; and
     (b) a question about the application of this section to a particular situation is an employment relationship problem for the purposes of the Employment Relations Act 2000.
-  (9) Subsection (8)(b) does not apply to members of the Armed Forces.
+  (9) Subsection (8)﻿(b) does not apply to members of the Armed Forces.
   (1) The Prime Minister may, having regard to the specialist knowledge of relevant agencies, by notice in the Gazette, designate an agency to administer this Act for a particular industry, sector, or type of work.
   (2) In carrying out functions under this Act, the chief executive of the agency must comply with policy directions on occupational safety and health given to him or her and signed by the Minister and the Minister responsible for that agency.
   (3) A copy of the policy direction must be presented to the House of Representatives within 10 working days after the date that it is given to the chief executive.
@@ -414,25 +413,25 @@ The principal Act is amended by repealing sections 53 and 54, and substituting t
   (1) A person may notify the Secretary in the prescribed manner that the person has an interest in knowing whether a particular matter has been, is, or is to be, subject to the taking of enforcement action by an inspector.
   (2) The Secretary must ensure that the person who sent the notice is notified of—
     (a) any decision already made, or subsequently made, by an inspector as to whether or not to take enforcement action in respect of the matter, but not the reasons for the decision; and
-    (b) any information that the Secretary is aware of relating to whether an enforcement authority has taken prosecution action as described in section 54A(2)(b).
+    (b) any information that the Secretary is aware of relating to whether an enforcement authority has taken prosecution action as described in section 54A(2)﻿(b).
   (3) In this section and section 54A, enforcement authority includes the New Zealand Police, the Civil Aviation Authority, the Land Transport Safety Authority, and the Maritime Safety Authority.
   (1) An inspector may lay an information in respect of an offence under this Act unless an infringement notice has been issued to the same defendant in respect of the same matter.
   (2) A person other than an inspector may lay an information in respect of an offence under this Act only if—
     (a) an inspector or another person has not taken enforcement action against any possible defendant in respect of the same matter; and
     (b) an enforcement authority has not taken prosecution action under any other Act against any possible defendant in respect of the same incident, situation, or set of circumstances; and
     (c) any person has received notification from the Secretary under section 54(2) that an inspector has not and will not take enforcement action against any possible defendant in respect of the same matter.
-  (3) Despite subsection (2)(b), a person may lay an information even though an enforcement authority has taken prosecution action if—
+  (3) Despite subsection (2)﻿(b), a person may lay an information even though an enforcement authority has taken prosecution action if—
     (a) the person has leave of the Court to lay the information; and
-    (b) subsection (2)(a) and (c) is complied with.
+    (b) subsection (2)﻿(a) and (c) is complied with.
   (1) An information in respect of an offence against this Act may be laid at any time within 6 months after the earlier of—
     (a) the date when the incident, situation, or set of circumstances to which the offence relates first became known to an inspector; or
     (b) the date when the incident, situation, or set of circumstances to which the offence relates should reasonably have become known to an inspector.
   (2) This section is subject to sections 54C and 54D.
   (1) This section applies if—
     (a) an inspector or another person has not taken enforcement action in respect of a matter; and
-    (b) the Secretary has notified relevant persons under section 54(2)(a) that an inspector has not and will not take enforcement action against any possible defendant in respect of the matter.
+    (b) the Secretary has notified relevant persons under section 54(2)﻿(a) that an inspector has not and will not take enforcement action against any possible defendant in respect of the matter.
   (2) On application, the District Court may extend the time for a person other than an inspector to lay an information.
-  (3) An application under subsection (2) must be made within 1 month after receiving notice from the Secretary under subsection (1)(b).
+  (3) An application under subsection (2) must be made within 1 month after receiving notice from the Secretary under subsection (1)﻿(b).
   (4) The Court must not grant an extension of time unless it is satisfied—
     (a) that another person wishes to decide whether to lay an information in respect of that matter; and
     (b) it is unreasonable, having regard to the time taken by an inspector to respond to the matter, to expect, or to have expected, the person to make that decision before the 6-month period referred to in section 54B expires; and
@@ -541,7 +540,7 @@ The principal Act is amended by inserting, after section 56, the following headi
     (c) be indemnified, or agree to be indemnified, by another person for that person's liability to pay a fine or an infringement fee under this Act; or
     (d) pay to another person, or receive from another person, an indemnity for a fine or an infringement fee under this Act.
   (3) If an insurance policy or contract of insurance described in subsection (1) exists at the date of commencement of this section,—
-    (a) subsections (1) and (2)(c) and (d) apply to it from that date; and
+    (a) subsections (1) and (2)﻿(c) and (d) apply to it from that date; and
     (b) this section does not prevent the parties to it agreeing to the refund of an amount of the premium.
 
 ### 30 New Schedule 1A inserted
@@ -560,17 +559,17 @@ The principal Act continues to apply as if this Act had not been passed in respe
 ### 33 Employment Relations Act 2000 amended
 (1) Section 104 of the Employment Relations Act 2000 is amended by inserting, after the words indirectly of that employee's, the words refusal to do work under section 28A of the Health and Safety in Employment Act 1992, or.
 (2) Section 107 of the Employment Relations Act 2000 is amended by adding, as subsection (2), the following subsection:
-  (2) An employee who is representing employees under the Health and Safety in Employment Act 1992, whether as a health and safety representative (as the term is defined in that Act) or otherwise, is to be treated as if he or she were a delegate of other employees for the purposes of subsection (1)(g).
-(3) Section 137(1)(a) of the Employment Relations Act 2000 is amended by adding the following subparagraph:
+  (2) An employee who is representing employees under the Health and Safety in Employment Act 1992, whether as a health and safety representative (as the term is defined in that Act) or otherwise, is to be treated as if he or she were a delegate of other employees for the purposes of subsection (1)﻿(g).
+(3) Section 137(1)﻿(a) of the Employment Relations Act 2000 is amended by adding the following subparagraph:
   (xi) Part 2A (other than section 19K) and Schedule 1A of the Health and Safety in Employment Act 1992; or.
 (4) Section 137 of the Employment Relations Act 2000 is amended by repealing subsection (4), and substituting the following subsection:
   (4) The following persons may take action against another person by applying to the Authority for an order of the kind described in subsection (2):
     (a) any person (being an employee, employer, union, or employer organisation) who alleges that that person has been affected by non-observance or non-compliance of the kind described in subsection (1):
-    (b) a health and safety inspector appointed under section 29 of the Health and Safety in Employment Act 1992 who alleges that there has been non-observance or non-compliance of the kind described in subsection (1)(a)(xi).
+    (b) a health and safety inspector appointed under section 29 of the Health and Safety in Employment Act 1992 who alleges that there has been non-observance or non-compliance of the kind described in subsection (1)﻿(a)﻿(xi).
 (5) Section 138(1) of the Employment Relations Act 2000 is amended by repealing paragraph (b), and substituting the following paragraph:
   (b) on the application of—
     (i) any party to the matter; or
-    (ii) in the case of section 137(4)(b), a health and safety inspector.
+    (ii) in the case of section 137(4)﻿(b), a health and safety inspector.
 
 ### 34 Hazardous Substances and New Organisms Act 1996 amended
 Section 2(1) of the Hazardous Substances and New Organisms Act 1996 is amended by inserting in the definition of the term place of work, after the expression 2(1), the words and (2A).
@@ -584,7 +583,7 @@ Section 2(1) of the Hazardous Substances and New Organisms Act 1996 is amended b
   (e) repealing section 72:
   (f) repealing sections 80 and 81.
 (2) Section 198(2) of the Maritime Transport Act 1994 is amended by inserting, after the word appropriate, the words (including any conditions relating to occupational safety and health).
-(3) Section 431(1)(h) of the Maritime Transport Act 1994 is repealed.
+(3) Section 431(1)﻿(h) of the Maritime Transport Act 1994 is repealed.
 
 ### 36 Transport Services Licensing Act 1989 amended
 Section 6H of the Transport Services Licensing Act 1989 is repealed.
@@ -610,14 +609,14 @@ The following functions of health and safety representatives are examples of fun
 
 ### 3 Effect of failure to develop system if fewer than 30 employees
 (1) This clause applies if—
-  (a) 1 or more employees, or a union representing them, requires the development of a system for employee participation under section 19C(1)(a); and
+  (a) 1 or more employees, or a union representing them, requires the development of a system for employee participation under section 19C(1)﻿(a); and
   (b) a system is not agreed and implemented within 6 months after the employees request it to be developed.
 (2) The employees, together with any unions representing them, must hold an election for at least 1 health and safety representative to carry out the functions in Part 2 of this schedule.
 (3) This clause is subject to clauses 6 and 7.
 
 ### 4 Effect of failure to develop system if 30 employees or more
 (1) This clause applies if—
-  (a) the development of a system for employee participation is required under section 19C(1)(b); and
+  (a) the development of a system for employee participation is required under section 19C(1)﻿(b); and
   (b) a system is not agreed and implemented within 6 months after the later of—
     (i) the date of the commencement of this schedule; or
     (ii) the date when the employer first employs 30 or more employees.
