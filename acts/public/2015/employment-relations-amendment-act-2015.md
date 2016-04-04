@@ -1,5 +1,5 @@
 # Employment Relations Amendment Act 2015
-_Consolidation as at 2016-04-01_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Employment Relations Amendment Act 2015.
