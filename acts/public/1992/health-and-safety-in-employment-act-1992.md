@@ -1,5 +1,5 @@
 # Health and Safety in Employment Act 1992
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2016-04-04_
 
 > An Act to reform the law relating to the health and safety of employees, and other people at work or affected by the work of other people
 
@@ -68,7 +68,7 @@ _Consolidation as at 2013-12-16_
   - **matter** , in sections 54, 54A, 54C, 54E, 56B, and 56C, means—
     (a) a failure to comply with this Act or regulations made under this Act; or
     (b) a series of such associated failures arising out of, or relating to, the same incident, situation, or set of circumstances
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
   - **mine operator** has the meaning given to it in section 19L
   - **mine worker** has the meaning given to it in section 19L
   - **mineral** has the meaning given to it in section 19L
@@ -282,14 +282,14 @@ Where—the employer shall take all practicable steps to isolate it from the emp
   (c) to monitor the employees' exposure to the hazard; and
   (d) to take all practicable steps to obtain the employees' consent to the monitoring of their health in relation to the hazard; and
   (e) with their informed consent, to monitor the employees' health in relation to exposure to the hazard.
-(3) An employer does not comply with subsection (2)(b) by—
+(3) An employer does not comply with subsection (2)﻿(b) by—
   (a) paying an employee an allowance or extra salary or wages instead of providing the protective clothing or equipment; or
   (b) requiring an employee to provide his or her own protective clothing or equipment as a precondition of employment or as a term or condition in an employment agreement.
-(4) However, an employer does not have to comply with subsection (2)(b) in relation to protective clothing if—
+(4) However, an employer does not have to comply with subsection (2)﻿(b) in relation to protective clothing if—
   (a) an employee genuinely and voluntarily chooses to provide his or her own protective clothing for reasons of his or her comfort or convenience; and
-  (b) the employer is satisfied that the protective clothing is suitable in terms of subsection (2)(b).
-(5) An employee who has chosen to provide his or her own protective clothing under subsection (4) may, after giving reasonable notice to the employer, choose that the employer provide protective clothing under subsection (2)(b) instead of providing it himself or herself.
-(6) Nothing in subsections (4) or (5) derogates from the responsibility of the employer under subsection (2)(b).
+  (b) the employer is satisfied that the protective clothing is suitable in terms of subsection (2)﻿(b).
+(5) An employee who has chosen to provide his or her own protective clothing under subsection (4) may, after giving reasonable notice to the employer, choose that the employer provide protective clothing under subsection (2)﻿(b) instead of providing it himself or herself.
+(6) Nothing in subsections (4) or (5) derogates from the responsibility of the employer under subsection (2)﻿(b).
 
 **Duties of employers in relation to information**
 
@@ -408,11 +408,11 @@ Every employer shall take all practicable steps to ensure that no action or inac
     (i) expressly authorises any other person to be in the place of work; or
     (ii) has personally received oral advice that any other person will, under the authority of any enactment, be working in the place of work; and
   (d) is not obliged, in relation to that other person, to comply with subsection (1) or subsection (2)—
-(4) Except in the case of the practicable steps required by this section to be taken in relation to any person described in subsection (2) or subsection (3)(c)(i), this section does not impose on any person who controls a place of work any duty in respect of any person who is in the place of work solely for the purpose of recreation or leisure.
-(5) The warning required to be given to a person to whom subsection (3)(c)(i) applies—
+(4) Except in the case of the practicable steps required by this section to be taken in relation to any person described in subsection (2) or subsection (3)﻿(c)﻿(i), this section does not impose on any person who controls a place of work any duty in respect of any person who is in the place of work solely for the purpose of recreation or leisure.
+(5) The warning required to be given to a person to whom subsection (3)﻿(c)﻿(i) applies—
   (a) must be given to that person at the time at which the express authority to be in the place of work is given to that person; but
   (b) if the express authority is given in respect of a group of persons or a body of persons, whether corporate or unincorporate, it is sufficient if the warning is given at that time to a representative or member of that group or body of persons.
-(6) The oral advice required by subsection (3)(c)(ii) must be given by the person who will be working in the place of work or by that person's employer.
+(6) The oral advice required by subsection (3)﻿(c)﻿(ii) must be given by the person who will be working in the place of work or by that person's employer.
 
 ### 17 Duties of self-employed people
 Every self-employed person shall take all practicable steps to ensure that no action or inaction of the self-employed person while at work harms the self-employed person or any other person.
@@ -434,7 +434,7 @@ Every self-employed person shall take all practicable steps to ensure that no ac
 (4) This section does not apply to the sale of plant, whether or not in trade, if the plant—
   (a) is secondhand; and
   (b) is sold as is.
-(5) In subsection (4)(b), as is means that the plant is sold without any representations or warranties about its quality, durability, or fitness, and with the entire risk in those respects to be borne by the buyer.
+(5) In subsection (4)﻿(b), as is means that the plant is sold without any representations or warranties about its quality, durability, or fitness, and with the entire risk in those respects to be borne by the buyer.
 (6) This section does not limit the Consumer Guarantees Act 1993.
 
 ### 19 Duties of employees
@@ -497,12 +497,12 @@ Part 3 of Schedule 1A applies if an employer is required to seek to develop a sy
 (5) Subsections (1) and (2) are subject to section 19C(4).
 
 ### 19F Calculation of maximum total number of days' paid leave for health and safety training
-(1) The maximum total number of days' paid leave that an employer is required to allow in a year under section 19E is based on the number of employees employed by the employer as at the specified date in the year, and is determined in accordance with the following table:Employees as at the specified date in a yearMaximum total number of days' paid leave that employer is required to allow to be taken1–526–50651–2801 day for every 8 employees or part of that number281 or more35 days plus 5 days for every 100 employees or part of that number
+(1) The maximum total number of days' paid leave that an employer is required to allow in a year under section 19E is based on the number of employees employed by the employer as at the specified date in the year, and is determined in accordance with the following table:The following table is small in size and has 2 columns. Column 1 is headed Employees as at the specified date in a year. Column 2 is headed Maximum total number of days' paid leave that employer is required to allow to be taken.Employees as at the specified date in a yearMaximum total number of days' paid leave that employer is required to allow to be taken1–526–50651–2801 day for every 8 employees or part of that number281 or more35 days plus 5 days for every 100 employees or part of that number
 (2) In this section, specified date—
   (a) means 1 April; and
   (b) for the period beginning on 5 May 2003 and ending on the close of 31 March 2004, includes 5 May 2003.
   - ****
-(3) This section is subject to section 19C(4)(b).
+(3) This section is subject to section 19C(4)﻿(b).
 
 ### 19G Minister may approve occupational health and safety training
 (1) The Minister may approve courses of occupational health and safety training to be carried out at a place of work or elsewhere.
@@ -511,7 +511,7 @@ Part 3 of Schedule 1A applies if an employer is required to seek to develop a sy
   (b) relevant to the role of a health and safety representative.
 (3) The Minister may delegate his or her power under subsection (1) to 1 or more persons.
 (4) To avoid doubt, a course approved under this section may be a course that is also approved under section 72 of the Employment Relations Act 2000.
-(5) For the purposes of Part 2B, the reference to a health and safety representative in section 19G(2)(b) means a site health and safety representative.
+(5) For the purposes of Part 2B, the reference to a health and safety representative in section 19G(2)﻿(b) means a site health and safety representative.
 
 ### 19H System for employee participation in Armed Forces
 (1) This Part does not apply to members of the Armed Forces.
@@ -878,11 +878,11 @@ WorkSafe may at any time make any amendments to the register that are necessary 
   (a) at least 28 days have passed since the publication in the Gazette of a notice of the intention of WorkSafe to apply for approval; and
   (b) the Minister has consulted any persons that will be affected by the code, amendment, or revocation (or representatives of those persons), and they have had the opportunity to consider its possible effects and to comment on the effects to the Minister; and
   (c) the Minister has considered any comments made to the Minister concerning the effects.
-(3) However, the Minister may approve a code, amendment, or revocation without complying with the requirements of subsection (2)(a) or (b) if the Minister is satisfied that sufficient consultation has already taken place in respect of the matters in the code, amendment, or revocation.
+(3) However, the Minister may approve a code, amendment, or revocation without complying with the requirements of subsection (2)﻿(a) or (b) if the Minister is satisfied that sufficient consultation has already taken place in respect of the matters in the code, amendment, or revocation.
 (4) When the Minister approves a code, amendment, or revocation, the Minister must—
   (a) publish a notice of the approval in the Gazette; and
   (b) show the date of the approval on the code, amendment, or revocation and publish it in any manner the Minister thinks fit.
-(5) The fact that the Minister has published a notice of approval in the Gazette under subsection (4)(a) is conclusive proof that the requirements of this section have been complied with in respect of the approval.
+(5) The fact that the Minister has published a notice of approval in the Gazette under subsection (4)﻿(a) is conclusive proof that the requirements of this section have been complied with in respect of the approval.
 
 ### 20B Court may have regard to code
 (1) A court may, in determining whether or not a person charged with failing to comply with any provision of this Act has complied with the provision, have regard to any approved code of practice that—
@@ -974,7 +974,7 @@ The Board may determine its own procedure.
 (3) The Minister, before recommending the making of any regulations relating to hazardous substances or new organisms, must consult the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011 about the contents of such regulations, and shall take into account any submissions made by that Authority.
 
 ### 22 Application of regulations
-(1) Regulations under section 21(1)(a) may impose duties—
+(1) Regulations under section 21(1)﻿(a) may impose duties—
   (a) on all employers or other persons who or that control places of work:
   (b) on employers, or other persons who or that control places of work, of a particular kind or description:
   (c) on all employees:
@@ -984,7 +984,7 @@ The Board may determine its own procedure.
   (g) on manufacturers, sellers, or suppliers, of a particular kind or description, of plant, substances, protective clothing, or protective equipment:
   (h) in respect of places of work, plant, processes, activities, or substances, of all kinds and descriptions:
   (i) in respect of places of work, plant, processes, activities, or substances, of a particular kind or description.
-(2) Regulations under section 21(1)(b) may impose duties—
+(2) Regulations under section 21(1)﻿(b) may impose duties—
   (a) on all mine operators:
   (b) on mine operators of a particular kind or description:
   (c) on all site senior executives:
@@ -995,7 +995,7 @@ The Board may determine its own procedure.
   (h) in relation to mining operations of a particular class or description.
 
 ### 23 Other provisions relating to regulations
-(1) Regulations made under section 21(1)(a) or (b) may provide for all or any of the following matters:
+(1) Regulations made under section 21(1)﻿(a) or (b) may provide for all or any of the following matters:
   (a) the registration, licensing, or certification of plant, and places of work:
   (b) the recording, notification, and investigation of the occurrence in places of work of events that (whether or not any person was in fact harmed) might have caused any person serious harm:
   (c) the notification of the use of plant, places of work, substances, or work, of a particular kind:
@@ -1016,14 +1016,14 @@ The Board may determine its own procedure.
   (l) the approval, and withdrawal of approval, of testing institutions:
   (m) the procedures of inquiries under section 27:
   (n) the provision of accommodation for employees, contractors, subcontractors, or employees of contractors or subcontractors.
-(2) Regulations made under section 21(1)(a) or (b) may incorporate by reference all or any part of any—
+(2) Regulations made under section 21(1)﻿(a) or (b) may incorporate by reference all or any part of any—
   (a) New Zealand Standard:
   (b) standard, requirement, recommended practice, rule, statute, or regulation, of any foreign government or organisation:
   (c) document published by or by the authority of the Government of New Zealand.
 (3) Any material incorporated in regulations by reference shall be deemed for all purposes to form part of the regulations; but any amendment made to the material after the commencement of the regulations shall not have effect until regulations have been made incorporating the amendment into the regulations.
 (4) A copy of all material incorporated in regulations by reference shall be made available at the Head Office of the department for inspection by the public free of charge.
-(5) Regulations made under section 21(1)(a) or (b) may impose prohibitions.
-(6) Regulations made under section 21(1)(a) or (b) may apply differently to people of a differing age or health status, and may apply only to people of a particular age or health status.
+(5) Regulations made under section 21(1)﻿(a) or (b) may impose prohibitions.
+(6) Regulations made under section 21(1)﻿(a) or (b) may apply differently to people of a differing age or health status, and may apply only to people of a particular age or health status.
 (7) The fact that any provision of any regulations made under this Act contains an example does not limit or affect the generality of any other provision of those regulations.
 
 ### 24 Saving of regulations made under certain repealed enactments
@@ -1062,7 +1062,7 @@ Regulations that—may be amended or revoked by regulations made under this Act;
 (3) If there occurs any serious harm or accident to which this subsection applies, the employer, self-employed person, or principal concerned must,—
   (a) as soon as possible after the occurrence becomes known to the employer, self-employed person, or principal, notify WorkSafe of the occurrence; and
   (b) within 7 days after the occurrence, or, if the occurrence is not known to the employer, self-employed person, or principal within that period, as soon as possible after it becomes known, give WorkSafe written notice, in the prescribed manner, of the circumstances of the occurrence.
-(4) Notification of an accident in accordance with either or both of the following provisions is compliance with subsection (3)(a):
+(4) Notification of an accident in accordance with either or both of the following provisions is compliance with subsection (3)﻿(a):
   (a) section 17(3) of the Gas Act 1992:
   (b) section 16(3) of the Electricity Act 1992.
 
@@ -1098,7 +1098,7 @@ If so requested by a coroner, an inspector shall give the coroner a written repo
   (a) the employee attempts to resolve the matter with the employer as soon as practicable after first refusing to do the work; and
   (b) the matter is not resolved; and
   (c) the employee believes on reasonable grounds that the work is likely to cause serious harm to him or her.
-(3) Without limiting subsection (2)(c), reasonable grounds exist for the purpose of that paragraph if a health and safety representative has advised the employee that the work that the employee is required to perform is likely to cause serious harm to the employee.
+(3) Without limiting subsection (2)﻿(c), reasonable grounds exist for the purpose of that paragraph if a health and safety representative has advised the employee that the work that the employee is required to perform is likely to cause serious harm to the employee.
 (4) A health and safety representative must not give advice under subsection (3) unless he or she has reasonable grounds for believing that the work that the employee is required to perform is likely to cause serious harm to the employee.
 (5) An employee may not refuse to do work that, because of its nature, inherently or usually carries an understood risk of serious harm unless the risk has materially increased beyond the understood risk.
 (6) An employee who refuses to do work must do any other work within the scope of the employee's employment agreement that the employer reasonably requests.
@@ -1106,7 +1106,7 @@ If so requested by a coroner, an inspector shall give the coroner a written repo
 (8) To avoid doubt—
   (a) in situations to which this section applies, the employer, employee, and health and safety representative must deal with each other in good faith; and
   (b) a question about the application of this section to a particular situation is an employment relationship problem for the purposes of the Employment Relations Act 2000.
-(9) Subsection (8)(b) does not apply to members of the Armed Forces.
+(9) Subsection (8)﻿(b) does not apply to members of the Armed Forces.
 
 **Enforcement by other agencies**
 
@@ -1162,7 +1162,7 @@ The functions of an inspector are—
   (a) is a place of work or has a place of work inside it; or
   (b) is the only practicable means through which a place of work may be entered,—
 (4) Notwithstanding subsection (1), an inspector shall not enter a defence area (within the meaning of section 2(1) of the Defence Act 1990) except in accordance with a written agreement between WorkSafe and the Chief of Defence Force entered into for the purposes of this section and for the time being in force.
-(5) Notwithstanding subsection (1)(e), if all or any part of a document, or of any information, relates to any person's health status and identifies the person, no inspector shall, without the person's consent,—the document or information (or that part of the document or information).
+(5) Notwithstanding subsection (1)﻿(e), if all or any part of a document, or of any information, relates to any person's health status and identifies the person, no inspector shall, without the person's consent,—the document or information (or that part of the document or information).
   (a) require any person to produce; or
   (b) examine; or
   (c) make any copy or extract from,—
@@ -1268,7 +1268,7 @@ Sections 44 to 48, 57, and 58 shall have effect in relation to health and safety
   (a) given to a person to whom or which it relates; or
   (b) given to a person apparently in charge of any activity, building, place of work, plant, process, situation, structure, or substance to which the provision of this Act that the inspector believes has not been complied with applies; or
   (c) posted to any such person by registered letter.
-(2) An improvement notice posted under subsection (1)(c) shall be deemed to have been received on the seventh day after it was posted.
+(2) An improvement notice posted under subsection (1)﻿(c) shall be deemed to have been received on the seventh day after it was posted.
 
 ### 41 Inspectors may issue prohibition notices
 (1) An inspector who believes that, by virtue of a failure to comply with a provision of this Act, there is a likelihood of serious harm to any person may give written notice to stop the carrying on, continuing, operating, storing, transporting, or use of the activity, building, place of work, plant, process, situation, structure, or substance, that the inspector believes to constitute the hazard that is likely to cause the harm concerned until an inspector is satisfied that measures sufficient to eliminate the hazard, or minimise the likelihood that the hazard will be a source of harm, have been taken.
@@ -1296,7 +1296,7 @@ Sections 44 to 48, 57, and 58 shall have effect in relation to health and safety
 (3) An inspector who gives a prohibition notice under section 41A may—
   (a) fix the notice to or near the part of the place of work or plant to which it relates and give a copy of it to the site senior executive, or another representative of the mine operator, on behalf of the mine operator; or
   (b) give the notice to the site senior executive, or another representative of the mine operator, on behalf of the mine operator.
-(4) No person may remove a notice under section 41A served in accordance with subsection (3)(a) unless authorised by an inspector.
+(4) No person may remove a notice under section 41A served in accordance with subsection (3)﻿(a) unless authorised by an inspector.
 
 ### 43 Compliance with prohibition notices
 (1) Every person to whom a prohibition notice under section 41 is given, and every person who controls a place of work or any plant to which a prohibition notice relates, shall ensure that no action is taken in contravention of it.
@@ -1409,7 +1409,7 @@ In a matter involving an infringement notice or in a prosecution for an offence 
 (1) A person may notify WorkSafe in the prescribed manner that the person has an interest in knowing whether a particular matter has been, is, or is to be, subject to the taking of enforcement action by an inspector.
 (2) WorkSafe must ensure that the person who sent the notice is notified of—
   (a) any decision already made, or subsequently made, by an inspector as to whether or not to take enforcement action in respect of the matter, but not the reasons for the decision; and
-  (b) any information that WorkSafe is aware of relating to whether an enforcement authority has taken prosecution action as described in section 54A(2)(b).
+  (b) any information that WorkSafe is aware of relating to whether an enforcement authority has taken prosecution action as described in section 54A(2)﻿(b).
 (3) In this section and section 54A, enforcement authority includes the New Zealand Police, the Civil Aviation Authority, the New Zealand Transport Agency, and Maritime New Zealand.
 
 ### 54A Filing charging document
@@ -1418,9 +1418,9 @@ In a matter involving an infringement notice or in a prosecution for an offence 
   (a) an inspector or another person has not taken enforcement action against any possible defendant in respect of the same matter; and
   (b) an enforcement authority has not taken prosecution action under any other Act against any possible defendant in respect of the same incident, situation, or set of circumstances; and
   (c) any person has received notification from WorkSafe under section 54(2) that an inspector has not and will not take enforcement action against any possible defendant in respect of the same matter.
-(3) Despite subsection (2)(b), a person may file a charging document even though an enforcement authority has taken prosecution action if—
+(3) Despite subsection (2)﻿(b), a person may file a charging document even though an enforcement authority has taken prosecution action if—
   (a) the person has leave of the court to file the charging document; and
-  (b) subsection (2)(a) and (c) is complied with.
+  (b) subsection (2)﻿(a) and (c) is complied with.
 
 ### 54B Time limit for filing charging document
 (1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the earlier of—
@@ -1431,9 +1431,9 @@ In a matter involving an infringement notice or in a prosecution for an offence 
 ### 54C Extension of time for person other than inspector to file charging document
 (1) This section applies if—
   (a) an inspector or another person has not taken enforcement action in respect of a matter; and
-  (b) WorkSafe has notified relevant persons under section 54(2)(a) that an inspector has not and will not take enforcement action against any possible defendant in respect of the matter.
+  (b) WorkSafe has notified relevant persons under section 54(2)﻿(a) that an inspector has not and will not take enforcement action against any possible defendant in respect of the matter.
 (2) On application, the District Court may extend the time for a person other than an inspector to file a charging document.
-(3) An application under subsection (2) must be made within 1 month after receiving notice from WorkSafe under subsection (1)(b).
+(3) An application under subsection (2) must be made within 1 month after receiving notice from WorkSafe under subsection (1)﻿(b).
 (4) The court must not grant an extension of time unless it is satisfied—
   (a) that another person wishes to decide whether to file a charging document in respect of that matter; and
   (b) it is unreasonable, having regard to the time taken by an inspector to respond to the matter, to expect, or to have expected, the person to make that decision before the 6-month period referred to in section 54B expires; and
@@ -1578,7 +1578,7 @@ WorkSafe must pay all infringement fees received into a Crown Bank Account.
   (c) be indemnified, or agree to be indemnified, by another person for that person's liability to pay a fine or an infringement fee under this Act; or
   (d) pay to another person, or receive from another person, an indemnity for a fine or an infringement fee under this Act.
 (3) If an insurance policy or contract of insurance described in subsection (1) exists at the date of commencement of this section,—
-  (a) subsections (1) and (2)(c) and (d) apply to it from that date; and
+  (a) subsections (1) and (2)﻿(c) and (d) apply to it from that date; and
   (b) this section does not prevent the parties to it agreeing to the refund of an amount of the premium.
 
 **Proof of notices**
@@ -1662,12 +1662,12 @@ The application, savings, and transitional provisions set out in Schedule 1AA ha
 (3) Sections 19ZF, 19ZG, 19ZH, and 19ZK of the principal Act, as inserted by the Health and Safety in Employment Amendment Act 2013, apply, with any necessary modifications, as if references to the site senior executive were references to the mine operator or a representative of the mine operator.
 
 ### 3 Exemptions of mining operations from regulations for limited period
-(1) Regulations made under section 21(1)(b) of the principal Act may provide for the granting by WorkSafe of an exemption (unconditionally or subject to conditions) in respect of any particular mining operation (whether or not it is one to which clause 1 applies) from 1 or more obligations or requirements under the regulations for any specified period, or periods, of up to a total of 36 months and ending not later than 31 December 2017.
+(1) Regulations made under section 21(1)﻿(b) of the principal Act may provide for the granting by WorkSafe of an exemption (unconditionally or subject to conditions) in respect of any particular mining operation (whether or not it is one to which clause 1 applies) from 1 or more obligations or requirements under the regulations for any specified period, or periods, of up to a total of 36 months and ending not later than 31 December 2017.
 (2) The regulations must—
   (a) specify the reasons for which exemptions may be granted; and
   (b) require WorkSafe to specify in an exemption the reasons for which the exemption is granted.
 (3) An exemption granted under the regulations is not a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
-(4) Nothing in this clause limits section 23(1)(k) of the principal Act.
+(4) Nothing in this clause limits section 23(1)﻿(k) of the principal Act.
 
 ## Schedule 1 — Serious harm
 
@@ -1708,14 +1708,14 @@ The following functions of health and safety representatives are examples of fun
 
 ### 3 Effect of failure to develop system if fewer than 30 employees
 (1) This clause applies if—
-  (a) 1 or more employees, or a union representing them, requires the development of a system for employee participation under section 19C(1)(a); and
+  (a) 1 or more employees, or a union representing them, requires the development of a system for employee participation under section 19C(1)﻿(a); and
   (b) a system is not agreed and implemented within 6 months after the employees request it to be developed.
 (2) The employees, together with any unions representing them, must hold an election for at least 1 health and safety representative to carry out the functions in Part 2 of this schedule.
 (3) This clause is subject to clauses 6 and 7.
 
 ### 4 Effect of failure to develop system if 30 employees or more
 (1) This clause applies if—
-  (a) the development of a system for employee participation is required under section 19C(1)(b); and
+  (a) the development of a system for employee participation is required under section 19C(1)﻿(b); and
   (b) a system is not agreed and implemented within 6 months after the later of—
     (i) the date of the commencement of this schedule; or
     (ii) the date when the employer first employs 30 or more employees.
