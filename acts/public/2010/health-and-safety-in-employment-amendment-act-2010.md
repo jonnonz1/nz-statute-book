@@ -1,5 +1,5 @@
 # Health and Safety in Employment Amendment Act 2010
-_Consolidation as at 2010-12-20_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Health and Safety in Employment Amendment Act 2010.
