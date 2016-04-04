@@ -1,5 +1,5 @@
 # Costs in Criminal Cases Act 1967
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2016-04-04_
 
 > An Act to amend the law relating to the payment of costs in criminal cases
 
@@ -22,7 +22,7 @@ This Act shall bind the Crown.
 (2) Where on the arrest of that person any money was taken from him the court may in its discretion order the whole or any part of the money to be applied to any such payment.
 (3) Where the court convicts any person and the prosecutor has not prepaid any fees of court, the court may order the person convicted to pay the fees of court.
 (4) Any costs allowed under this section shall be specified in the conviction and may be recovered in the same manner as a fine.
-(5) If subsection (1) or subsection (3) applies and the defendant or person convicted is a Crown organisation convicted of an offence against the Building Act 1991, the Building Act 2004, the Health and Safety in Employment Act 1992, or the Resource Management Act 1991, any costs and fees awarded must be paid from the funds of that organisation.
+(5) If subsection (1) or subsection (3) applies and the defendant or person convicted is a Crown organisation convicted of an offence against the Building Act 1991, the Building Act 2004, the Health and Safety at Work Act 2015, or the Resource Management Act 1991, any costs and fees awarded must be paid from the funds of that organisation.
 
 ### 5 Costs of successful defendant
 (1) Where any defendant is acquitted of an offence or where the charge is dismissed or withdrawn, whether upon the merits or otherwise, the court may, subject to any regulations made under this Act, order that he be paid such sum as it thinks just and reasonable towards the costs of his defence.
@@ -48,7 +48,7 @@ Where any defendant is convicted but the court is of the opinion that the prosec
 (2) Notwithstanding the provisions of subsection (1) where a court is of the opinion that any person has acted negligently or in bad faith in bringing, continuing, or conducting a prosecution it may, in any order made under section 5, direct that the defendant's costs shall be paid by—and in any such case costs shall not be paid under subsection (1) but shall be paid by, and may be recovered as a debt from, the government department, officer of the Crown, local authority, public body, or person specified in the order.
   (a) the government department, officer of the Crown, local authority, or public body on whose behalf that person was acting; or
   (b) if he was not so acting, by that person personally,—
-(3) If an order under section 5 or section 6 relating to the payment of costs is made in favour of a Crown organisation that was prosecuted for an offence against the Building Act 1991, the Building Act 2004, the Health and Safety in Employment Act 1992, or the Resource Management Act 1991, those costs must be paid to that Crown organisation.
+(3) If an order under section 5 or section 6 relating to the payment of costs is made in favour of a Crown organisation that was prosecuted for an offence against the Building Act 1991, the Building Act 2004, the Health and Safety at Work Act 2015, or the Resource Management Act 1991, those costs must be paid to that Crown organisation.
 
 ### 8 Costs on appeals
 (1) Where any appeal is made pursuant to any provision of Part 6 of the Criminal Procedure Act 2011 the court which determines the appeal may, subject to any regulations made under this Act, make such order as to costs as it thinks fit.
@@ -66,7 +66,7 @@ Where any defendant is convicted but the court is of the opinion that the prosec
 (1) Where on the determination of any appeal either party is ordered to pay costs,—
   (a) the order as to costs shall, in the case of an appeal under Part 6 of the Criminal Procedure Act 2011, be included in the notice of the decision sent in accordance with section 342 of that Act, and, except where the party ordered to pay costs is the Crown, or a person acting for or on behalf of the Crown, be enforceable as if it were a fine imposed by the District Court:
   (b) the amount of the costs shall be recoverable from the Crown where the party ordered to pay costs is the Crown or a person acting for or on behalf of the Crown.
-(2) Despite subsection (1), if, on the determination of any appeal to which a Crown organisation convicted of an offence against the Building Act 1991, the Building Act 2004, the Health and Safety in Employment Act 1992, or the Resource Management Act 1991 is a party, the Crown organisation is ordered to pay costs, the order as to costs is enforceable as if it were a fine imposed on the Crown organisation by the District Court.
+(2) Despite subsection (1), if, on the determination of any appeal to which a Crown organisation convicted of an offence against the Building Act 1991, the Building Act 2004, the Health and Safety at Work Act 2015, or the Resource Management Act 1991 is a party, the Crown organisation is ordered to pay costs, the order as to costs is enforceable as if it were a fine imposed on the Crown organisation by the District Court.
 
 ### 11 Order for costs made by the High Court or Court of Appeal
 Any order made by the High Court or the Court of Appeal, other than on an appeal under Part 6 of the Criminal Procedure Act 2011, for the payment of costs by any person, other than the Crown, shall upon being filed in the High Court have the effect of a judgment.
