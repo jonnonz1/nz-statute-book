@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -348,7 +348,7 @@ In this Act, building does not include—
     (iii) is not a mast pole or a telecommunication aerial that is on, or forms part of, a building; or
   (ab) a pylon, free-standing communication tower, power pole, or telephone pole that is a NUO system or part of a NUO system; or
   (ac) security fences, oil interception and containment systems, wind turbines, gantries, and similar machinery and other structures (excluding dams) not intended to be occupied that are part of, or related to, a NUO system; or
-  (b) cranes (including any cranes as defined in regulations made under the Health and Safety in Employment Act 1992); or
+  (b) cranes (including any cranes as defined in regulations made under the Health and Safety at Work Act 2015); or
   (c) any of the following, whether or not incorporated within another structure:
     (i) ski tows:
     (ii) other similar stand-alone machinery systems; or
@@ -357,8 +357,8 @@ In this Act, building does not include—
     (ii) regardless of what that means of propulsion is; or
   (e) aircraft (including any machine that can derive support in the atmosphere from the reactions of the air otherwise than by the reactions of the air against the surface of the earth); or
   (f) any offshore installation (as defined in section 222 of the Maritime Transport Act 1994) to be used for petroleum mining; or
-  (g) containers as defined in section 2(1) of the Hazardous Substances and New Organisms Act 1996; or
-  (h) magazines as defined in section 222 of the Hazardous Substances and New Organisms Act 1996; or
+  (g) containers as defined in regulations made under the Health and Safety at Work Act 2015; or
+  (h) magazines as defined in regulations made under the Health and Safety at Work Act 2015; or
   (i) scaffolding used in the course of the construction process; or
   (j) falsework.
 
@@ -4071,7 +4071,7 @@ This Part protects consumers (referred to in this Part as clients) in relation t
     (a) means a contract under which one person (the building contractor) agrees with another person (the client) to do building work for the client in relation to a household unit; but
     (b) does not include a subcontracting agreement between a building contractor and a building subcontractor.
 (2) On section 6(8) of the Building Amendment Act 2012 coming into force, and in the following order,—
-  (a) first, the definition of building work in subsection (1) is repealed and the following definition substituted:; and
+  (a) first, the definition of building work in subsection (1) is repealed and the following definition substituted:
     - **building work** does not include design work, and paragraphs (c) and (e) of the definition of in section 7 do not apply to this Part
   (b) second, this subsection is repealed.
 
