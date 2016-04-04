@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -785,7 +785,7 @@ This subpart applies only in relation to an activity described in section 20.
   (a) such detail as corresponds to the scale and significance of the effects that the activity may have on the environment and existing interests; and
   (b) sufficient detail to enable the Environmental Protection Authority and persons whose existing interests are or may be affected to understand the nature of the activity and its effects on the environment and existing interests.
 (3) The impact assessment complies with subsection (1)﻿(c) and (d) if the Environmental Protection Authority is satisfied that the applicant has made a reasonable effort to identify the matters described in those paragraphs.
-(4) The measures that must be specified under subsection (1)﻿(h) include any measures required by another marine management regime and any measures required by or under the Health and Safety in Employment Act 1992 that may have the effect of avoiding, remedying, or mitigating the adverse effects of the activity on the environment or existing interests.
+(4) The measures that must be specified under subsection (1)﻿(h) include any measures required by another marine management regime and any measures required by or under the Health and Safety at Work Act 2015 that may have the effect of avoiding, remedying, or mitigating the adverse effects of the activity on the environment or existing interests.
 
 ### 40 Obligation to deal with application promptly
 After receiving an application for a marine consent, the Environmental Protection Authority must deal with the application as promptly as is reasonable in the circumstances.
@@ -1045,7 +1045,7 @@ In considering the effects of an activity on existing interests under section 59
     (v) make records related to the activity authorised by the consent available for audit:
   (b) that together amount or contribute to an adaptive management approach.
 (3) However, the EPA must not impose a condition on a consent if the condition would be inconsistent with this Act or any regulations.
-(4) To avoid doubt, the EPA may not impose a condition to deal with an effect if the condition would conflict with a measure required in relation to the activity by another marine management regime or the Health and Safety in Employment Act 1992.
+(4) To avoid doubt, the EPA may not impose a condition to deal with an effect if the condition would conflict with a measure required in relation to the activity by another marine management regime or the Health and Safety at Work Act 2015.
 
 ### 64 Adaptive management approach
 (1) The Environmental Protection Authority may incorporate an adaptive management approach into a marine consent granted for an activity.
