@@ -1,5 +1,5 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2016-04-04_
 
 > Title
 
@@ -87,7 +87,6 @@ _Consolidation as at 2013-12-18_
   - **point of sale** —
     (a) means a checkout where tobacco products may be bought; and
     (b) includes a till or cashbox, where tobacco products may be bought, even if it is not at or part of a checkout
-  - **prescribed petroleum operations** means petroleum operations prescribed for the purposes of the Health and Safety in Employment Act 1992 by regulations made under that Act
   - **publish** means—
     (a) insert in any newspaper or other periodical publication printed, published, or distributed in New Zealand; or
     (b) send to any person, by post or otherwise; or
@@ -165,7 +164,7 @@ _Consolidation as at 2013-12-18_
     (vi) containing different numbers of pieces:
     (vii) containing pieces of different length or mass:
   (c) tobacco cartons differ if they are sold under the same brand name, but they contain different numbers of tobacco packages.
-(3) For the purposes of paragraph (e)(vii) of the definition of workplace in subsection (1), no part of a ship is capable of being a dwellinghouse occupied by an employer.
+(3) For the purposes of paragraph (e)﻿(vii) of the definition of workplace in subsection (1), no part of a ship is capable of being a dwellinghouse occupied by an employer.
 
 ### 3 Act binds the Crown
 This Act shall bind the Crown.
@@ -229,7 +228,7 @@ An employer may permit smoking in a vehicle provided by the employer and normall
   (b) a notice stating that smoking within the premises is forbidden at all times is prominently displayed at or immediately inside—
     (i) every entrance to the premises; and
     (ii) every outer entrance to every building or enclosed area forming part of the premises.
-(2) Subsection (1)(b)(ii) does not apply to—
+(2) Subsection (1)﻿(b)﻿(ii) does not apply to—
   (a) a building or enclosed area not usually or from time to time used by young people attending the school or centre concerned or members of the public; or
   (b) an outer entrance used by young people attending the school or centre concerned or members of the public only temporarily or in emergencies.
 (3) The occupier of premises that are neither school premises nor premises to which subsection (4) applies must take all reasonably practicable steps to ensure that no person smokes within any area of the premises (whether an internal area or an open area) that—
@@ -258,7 +257,7 @@ This Act applies to a ship if, and only if, it is—
   (b) a foreign ship that—
     (i) is a ship on demise charter to a New Zealand-based operator; and
     (ii) is carrying coastal cargo within New Zealand; or
-  (c) a foreign ship that is carrying out prescribed petroleum operations in New Zealand continental waters.
+  (c) a foreign ship that is carrying out mining operations within the meaning of the Crown Minerals Act 1991.
 
 ### 11 Smoking prohibited in certain travel premises
 (1) This section applies to any area that—
@@ -292,9 +291,9 @@ This Act applies to a ship if, and only if, it is—
   (a) employees of the Ministry of Health, a local authority under the Local Government Act 1974, or a District Health Board under the New Zealand Public Health and Disability Act 2000; or
   (b) employees or officers of some other person or body; or
   (c) officers designated under section 7A of the Health Act 1956; or
-  (d) inspectors appointed under the Health and Safety in Employment Act 1992.
+  (d) inspectors appointed under section 163 of the Health and Safety at Work Act 2015.
 (2) A person may be appointed by name, or as the holder for the time being of a particular position.
-(3) The Director-General must not appoint a person under subsection (1)(b) unless satisfied,—
+(3) The Director-General must not appoint a person under subsection (1)﻿(b) unless satisfied,—
   (a) in the case of a named person, that he or she is suitably qualified and trained:
   (b) in the case of the holder for the time being of a particular position, that holders of the position are likely to be suitably qualified and trained.
 (4) Every enforcement officer must have an instrument of appointment identifying the holder as an enforcement officer appointed under this section.
@@ -311,11 +310,11 @@ This Act applies to a ship if, and only if, it is—
     (i) all enforcement powers; or
     (ii) only stated enforcement powers; or
     (iii) all enforcement powers other than certain stated powers; and
-  (c) all limitations and restrictions on his or her exercise of enforcement powers imposed under subsection (5)(c).
+  (c) all limitations and restrictions on his or her exercise of enforcement powers imposed under subsection (5)﻿(c).
 
 ### 15 Complaints relating to workplace smoking
 (1) Where any person believes on reasonable grounds that any person has contravened any provision of this Part in so far as it relates to any workplace, the person may complain to the employer of that workplace, or to the Director-General, specifying the particulars of the complaint.
-(2) Where an employer receives a complaint under subsection (1), or a complaint is referred to an employer under section 16(2)(a), the employer shall, within 20 working days after receipt of the complaint, investigate the complaint, and, if it appears that a contravention has occurred, shall try to resolve the complaint.
+(2) Where an employer receives a complaint under subsection (1), or a complaint is referred to an employer under section 16(2)﻿(a), the employer shall, within 20 working days after receipt of the complaint, investigate the complaint, and, if it appears that a contravention has occurred, shall try to resolve the complaint.
 (3) Where the contravention is on the part of the employer, the employer shall settle the cause of the complaint, or give an assurance that satisfies the complainant that there will be no repetition of the cause of the complaint.
 (4) Where the contravention is on the part of an employee or volunteer, the employer shall seek to obtain from the employee or volunteer an assurance that satisfies the employer that there will be no repetition of the cause of the complaint.
 (5) The representative of the employees in the workplace shall be entitled to be present at any meeting called by the employer for the purpose of resolving the complaint and avoiding future cause for complaint.
@@ -370,9 +369,9 @@ No person appointed under section 14 who does any act in pursuance or intended p
 ### 20 Saving of powers to make bylaws
 Nothing in this Part shall limit or affect the powers of a local authority under section 145(b) of the Local Government Act 2002, to make bylaws providing greater protection from tobacco smoke than is provided by this Part.
 
-### 20A Health and Safety in Employment Act 1992 not affected
+### 20A Health and Safety at Work Act 2015 not affected
 Nothing in this Part, and no steps taken in compliance or purported compliance with this Part, limits or affects—
-  (a) the Health and Safety in Employment Act 1992; or
+  (a) the Health and Safety at Work Act 2015; or
   (b) the obligations of any person under that Act.
 
 ## Part 2 — Control of smoking products
@@ -417,19 +416,19 @@ Nothing in section 22(1) applies to any of the following:
 (1) A retailer of tobacco products may do all or any of the following things:
   (a) provide, inside that retailer's place of business, and on a request (however expressed) made for the purpose by a person who has asked to purchase a specified, or any available, tobacco product, any information (in any medium, but only in the form of printed, written, or spoken words) that—
     (i) does no more than identify the tobacco products that are available for purchase in that place and indicate their price; and
-    (ii) complies with any regulations for the time being in force under section 39(1)(ia):
+    (ii) complies with any regulations for the time being in force under section 39(1)﻿(ia):
   (b) display inside that retailer's place of business any notice for the public that—
     (i) does no more than indicate, using only printed or written words, the fact that, and the location or locations where, tobacco products in general are available for purchase in that place; and
-    (ii) complies with any regulations for the time being in force under section 39(1)(ib):
+    (ii) complies with any regulations for the time being in force under section 39(1)﻿(ib):
   (c) display the retailer's name or trade name at the outside of the retailer's place of business so long as the name is not and does not include either or both of the following:
     (i) any word or expression signifying that any tobacco product is available in that place for purchase:
     (ii) the trade mark of a tobacco product or the company name of a tobacco products manufacturer.
 (2) Any person who offers any tobacco products for sale (whether by retail or wholesale) by way of an automatic vending machine may display, on the outside of the vending machine, any notice for the public that—
   (a) does no more than identify (using only printed or written words) the tobacco products and indicate (using only printed or written words) their prices; and
-  (b) complies with any regulations for the time being in force under section 39(1)(ic).
+  (b) complies with any regulations for the time being in force under section 39(1)﻿(ic).
 (3) Any person who offers any tobacco product for Internet sale (whether by retail or wholesale) may, on a request (however expressed) made for the purpose by another person who has asked to purchase a specified, or any available, tobacco product, allow to be visible on the person's Internet site when people browse, enter, or otherwise access it information that is only in the form of printed or written words, and that—
   (a) does no more than identify the tobacco product and indicate its price; and
-  (b) complies with any regulations for the time being in force under section 39(1)(id).
+  (b) complies with any regulations for the time being in force under section 39(1)﻿(id).
 
 ### 23A Display of tobacco products in or from sales outlets or vending machines generally prohibited
 (1) A person who offers tobacco products for sale (whether by retail or wholesale) must not allow any part of a tobacco product, tobacco package, or tobacco carton at the outside of or inside the person's place of business to be for any reason visible—
@@ -440,15 +439,15 @@ Nothing in section 22(1) applies to any of the following:
 (4) Subsections (1) and (2) do not, however, apply to a tobacco product, tobacco package, or tobacco carton that is visible only to the extent that is necessary for it to be delivered—
   (a) to the person at the place or, as the case requires, to the machine; or
   (b) to its purchaser at or from the place or, as the case requires, from the machine.
-(5) A tobacco product, tobacco package, or tobacco carton must be treated as being visible only to the extent that is authorised by subsection (4)(a) or (b) if it is delivered—
+(5) A tobacco product, tobacco package, or tobacco carton must be treated as being visible only to the extent that is authorised by subsection (4)﻿(a) or (b) if it is delivered—
   (a) to a person and at or from a place or machine specified in that paragraph; and
-  (b) using a form of visible delivery prescribed by any relevant acceptable forms of visible delivery regulations for the time being in force under section 39(1)(ie).
-(6) Subsections (1) and (2) do not, however, apply to a tobacco product, tobacco package, or tobacco carton that is visible in a way that complies with any relevant temporary transitional exemption regulations for the time being in force under section 39(1)(if).
+  (b) using a form of visible delivery prescribed by any relevant acceptable forms of visible delivery regulations for the time being in force under section 39(1)﻿(ie).
+(6) Subsections (1) and (2) do not, however, apply to a tobacco product, tobacco package, or tobacco carton that is visible in a way that complies with any relevant temporary transitional exemption regulations for the time being in force under section 39(1)﻿(if).
 
 ### 23B Transitional exemption regulations expire 12 months after section 23A comes into force
 (1) The following enactments expire at the end of the 12-month transition period:
-  (a) sections 23A(6) and 39(1)(if) and (6C); and
-  (b) all regulations under section 39(1)(if) that are in force immediately before the end of that period.
+  (a) sections 23A(6) and 39(1)﻿(if) and (6C); and
+  (b) all regulations under section 39(1)﻿(if) that are in force immediately before the end of that period.
 (2) The 12-month transition period ends at the close of the period of 12 months that starts on the day on which section 23A (as substituted by section 9 of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011) comes into force.
 (3) On their expiry those enactments are repealed or, as the case requires, revoked.
 
@@ -554,15 +553,15 @@ Where any craft on which is displayed any tobacco product trade mark or the comp
 **Sale and labelling**
 
 ### 29AA Point-of-sale health information or warnings signs
-Every person who offers a tobacco product or herbal smoking product for sale (by retail or wholesale) must, at all times when point-of-sale health information or warnings signs regulations under section 39(1)(ig) that apply to the person are in force, display clearly at each point of sale at the outside of or inside the person's place of business a sign for the public that—
+Every person who offers a tobacco product or herbal smoking product for sale (by retail or wholesale) must, at all times when point-of-sale health information or warnings signs regulations under section 39(1)﻿(ig) that apply to the person are in force, display clearly at each point of sale at the outside of or inside the person's place of business a sign for the public that—
   (a) does no more than communicate health information or warnings (which may, without limitation, be or include the message SMOKING KILLS Ka mate koe i te kai hikareti); and
-  (b) complies with any regulations for the time being in force under section 39(1)(ig).
+  (b) complies with any regulations for the time being in force under section 39(1)﻿(ig).
 
 ### 29AAB Internet-sales health information or warnings
-(1) Every person who offers a tobacco product or herbal smoking product for Internet sale (by retail or wholesale) must, at all times when Internet-sales health information or warnings regulations under section 39(1)(ih) that apply to the person are in force, comply with all provisions of those regulations (if any) requiring health information or warnings to be visible on the person's Internet site when people browse, enter, or otherwise access it.
+(1) Every person who offers a tobacco product or herbal smoking product for Internet sale (by retail or wholesale) must, at all times when Internet-sales health information or warnings regulations under section 39(1)﻿(ih) that apply to the person are in force, comply with all provisions of those regulations (if any) requiring health information or warnings to be visible on the person's Internet site when people browse, enter, or otherwise access it.
 (2) The health information or warnings to be visible—
   (a) may, without limitation, be or include the message SMOKING KILLS Ka mate koe i te kai hikareti; and
-  (b) must comply with any regulations for the time being in force under section 39(1)(ih).
+  (b) must comply with any regulations for the time being in force under section 39(1)﻿(ih).
 
 ### 29A Sale of tobacco products with other products prohibited
 (1) This subsection applies to a tobacco product if it is—
@@ -590,13 +589,13 @@ Every person who offers a tobacco product or herbal smoking product for sale (by
 (3) It is not a defence to a charge in respect of a contravention of subsection (1)—
   (a) that the person to whom the product concerned was sold was buying it for or on behalf of, or as agent for, a person of or over the age of 18 years; or
   (b) that the person charged believed on reasonable grounds that the person to whom the product concerned was sold was buying it for or on behalf of, or as agent for, a person of or over the age of 18 years.
-(6) Every person who offers a tobacco product or herbal smoking product for sale by retail must, at all times when point-of-sale purchase age information or warnings regulations under section 39(1)(ii) that apply to the person are in force, display clearly at each point of sale at the outside of or inside the person's place of business a notice for the public that—
+(6) Every person who offers a tobacco product or herbal smoking product for sale by retail must, at all times when point-of-sale purchase age information or warnings regulations under section 39(1)﻿(ii) that apply to the person are in force, display clearly at each point of sale at the outside of or inside the person's place of business a notice for the public that—
   (a) does no more than communicate information or warnings to the effect that the sale of tobacco products and herbal smoking products to people who are younger than 18 years is prohibited; and
-  (b) complies with any regulations for the time being in force under section 39(1)(ii).
-(6A) Every person who offers a tobacco product or herbal smoking product for Internet sale (by retail or wholesale) must, at all times when Internet-sales purchase age information or warnings regulations under section 39(1)(ij) that apply to the person are in force, comply with all provisions of those regulations (if any) requiring purchase age information or warnings to be visible on the person's Internet site when people browse, enter, or otherwise access it.
+  (b) complies with any regulations for the time being in force under section 39(1)﻿(ii).
+(6A) Every person who offers a tobacco product or herbal smoking product for Internet sale (by retail or wholesale) must, at all times when Internet-sales purchase age information or warnings regulations under section 39(1)﻿(ij) that apply to the person are in force, comply with all provisions of those regulations (if any) requiring purchase age information or warnings to be visible on the person's Internet site when people browse, enter, or otherwise access it.
 (6B) The purchase age information or warnings required by subsection (6A) to be visible must—
   (a) do no more than communicate information or warnings to the effect that the sale of tobacco products and herbal smoking products to people who are younger than 18 years is prohibited; and
-  (b) comply with any regulations for the time being in force under section 39(1)(ij).
+  (b) comply with any regulations for the time being in force under section 39(1)﻿(ij).
 
 ### 30AA Supplying tobacco products or herbal smoking products to people under 18 prohibited
 (1) No person may, in a public place (within the meaning of section 2 of the Summary Offences Act 1981),—
@@ -642,7 +641,7 @@ Every person who offers a tobacco product or herbal smoking product for sale (by
 (3) No manufacturer, importer, distributor, or retailer may sell or offer for sale—
   (a) cigarettes in a package that contains fewer than 20 cigarettes; or
   (b) loose tobacco in a package that contains less than 30 grams of loose tobacco.
-(4) Nothing in subsection (2) or subsection (3)(a) applies in respect of cigars (other than cigarillos).
+(4) Nothing in subsection (2) or subsection (3)﻿(a) applies in respect of cigars (other than cigarillos).
 
 ### 31 Limits on harmful constituents
 No manufacturer or importer may offer for sale or export any tobacco product or herbal smoking product that—
@@ -767,8 +766,8 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
 (11) Every manufacturer or importer of tobacco products who fails, without reasonable excuse,—commits an offence and is liable to a fine not exceeding $10,000.
   (a) to conduct any test required by section 33(2); or
   (b) to conduct any further test required under section 34; or
-  (c) to submit any return required by section 35(1)(a); or
-  (d) to submit any report required by section 35(1)(b),—
+  (c) to submit any return required by section 35(1)﻿(a); or
+  (d) to submit any report required by section 35(1)﻿(b),—
 
 ### 36A Toy tobacco products
 (1) No person may sell a toy tobacco product to a person younger than 18 years.
@@ -793,7 +792,7 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
 ### 38A Infringement offences
 In this section and sections 38B to 39,—
   - **infringement fee** , in relation to an infringement offence, means an amount—
-    (a) prescribed for the purposes of this section in regulations made under section 39(1)(ik); and
+    (a) prescribed for the purposes of this section in regulations made under section 39(1)﻿(ik); and
     (b) not exceeding the maximum infringement fee amount specified for that offence (in the relevant paragraph of the definition in this section of infringement offence)
   - **infringement offence** means an offence that is an offence against a section, and that relates to contravening the section or sections, specified in any one of the following paragraphs (and that has the maximum infringement fee amount specified in that paragraph):
     (a) section 36(5), but only so far as it relates to contravening section 29(1) (on publishing an advertisement for a tobacco product that directly or indirectly states or suggests that the product is suitable for chewing or for any other oral use (other than smoking)) or section 29(2) (on importing for sale, selling, packing, or distributing a tobacco product labelled or otherwise described as suitable for chewing, or for any other oral use (other than smoking))—maximum infringement fee amount $1,000:
@@ -845,15 +844,15 @@ All infringement fees paid in respect of infringement offences must be paid into
   (ga) prohibiting harmful constituents of tobacco products or herbal smoking products for the purposes of section 31(a):
   (h) prescribing the method of determining the constituents of tobacco products or herbal smoking products, and the smoke produced from their combustion:
   (i) prescribing the form and manner in which returns and reports are to be filed under section 35:
-  (ia) prescribing for the purposes of section 23(1)(a)(ii) (on retailers) requirements with which tobacco product and price information under section 23(1)(a) must comply:
-  (ib) prescribing for the purposes of section 23(1)(b)(ii) (on retailers) requirements with which a tobacco product availability and locations notice under section 23(1)(b) must comply:
-  (ic) prescribing for the purposes of section 23(2)(b) (on vending machines) requirements with which a tobacco product and price notice under section 23(2) must comply:
-  (id) prescribing for the purposes of section 23(3)(b) (on Internet sales) requirements with which a tobacco product and price information under section 23(3) must comply:
-  (ie) prescribing for the purposes of section 23A(5)(b) acceptable forms of visible delivery of all or any of tobacco products, tobacco packages, and tobacco cartons:
+  (ia) prescribing for the purposes of section 23(1)﻿(a)﻿(ii) (on retailers) requirements with which tobacco product and price information under section 23(1)﻿(a) must comply:
+  (ib) prescribing for the purposes of section 23(1)﻿(b)﻿(ii) (on retailers) requirements with which a tobacco product availability and locations notice under section 23(1)﻿(b) must comply:
+  (ic) prescribing for the purposes of section 23(2)﻿(b) (on vending machines) requirements with which a tobacco product and price notice under section 23(2) must comply:
+  (id) prescribing for the purposes of section 23(3)﻿(b) (on Internet sales) requirements with which a tobacco product and price information under section 23(3) must comply:
+  (ie) prescribing for the purposes of section 23A(5)﻿(b) acceptable forms of visible delivery of all or any of tobacco products, tobacco packages, and tobacco cartons:
   (if) prescribing for the purposes of section 23A(6) ways in which a class or classes of people who offer tobacco products for sale may allow a tobacco product, tobacco package, or tobacco carton to be visible:
   (ig) prescribing for the purposes of section 29AA requirements with which point-of-sale health information or warnings signs under that section must comply:
   (ih) prescribing for the purposes of section 29AAB requirements that a person who offers a tobacco product for Internet sale (by retail or wholesale) make visible as required by section 29AAB health information or warnings, and prescribing requirements with which that information or those warnings must comply:
-  (ii) prescribing for the purposes of section 30(6)(b) requirements with which a notice for the public (to the effect that the sale of tobacco products and herbal smoking products to people who are younger than 18 years is prohibited) under section 30(6) must comply:
+  (ii) prescribing for the purposes of section 30(6)﻿(b) requirements with which a notice for the public (to the effect that the sale of tobacco products and herbal smoking products to people who are younger than 18 years is prohibited) under section 30(6) must comply:
   (ij) prescribing for the purposes of section 30(6A) requirements that a person who offers a tobacco product or herbal smoking product for Internet sale (by retail or wholesale) make visible as required by section 30(6A) tobacco product and herbal smoking product purchase age information or warnings, and prescribing requirements with which that information or those warnings must comply:
   (ik) prescribing for the purposes of section 38A the infringement fee or infringement fees payable in respect of different kinds of infringement offences:
   (il) prescribing for the purposes of (and for the purposes of the procedure in section 21 of the Summary Proceedings Act 1957 as modified and applied by) section 38C the form of infringement notices and reminder notices for infringement offences, and any other particulars to be contained in infringement notices and reminder notices:
@@ -862,26 +861,26 @@ All infringement fees paid in respect of infringement offences must be paid into
 (3)
 (4)
 (5)
-(6) Regulations made under subsection (1)(ia), (ic), (ig), (ih), (ii), or (ij) must come into force no earlier than the day 6 months after the date on which they are made.
-(6A) Regulations under all or any of subsection (1)(ia), (ib), (ic), (ig), (ih), (ii), and (ij) may (without limitation) prescribe different requirements for all or any of the following:
+(6) Regulations made under subsection (1)﻿(ia), (ic), (ig), (ih), (ii), or (ij) must come into force no earlier than the day 6 months after the date on which they are made.
+(6A) Regulations under all or any of subsection (1)﻿(ia), (ib), (ic), (ig), (ih), (ii), and (ij) may (without limitation) prescribe different requirements for all or any of the following:
   (a) different classes of people who offer tobacco products or herbal smoking products for sale:
   (b) different classes of place of business:
   (c) different classes of points of sale:
   (d) different circumstances of the sales for which requirements are prescribed.
-(6B) Regulations under subsection (1)(ie) may (without limitation) do either or both of the following:
+(6B) Regulations under subsection (1)﻿(ie) may (without limitation) do either or both of the following:
   (a) prescribe for different classes of people who offer tobacco products for sale different acceptable forms of visible delivery of all or any of tobacco products, tobacco packages, and tobacco cartons:
   (b) prescribe conditions with which 1 or more classes of people of that kind must comply before, or while, using a prescribed acceptable form of visible delivery.
-(6C) Regulations under subsection (1)(if) may (without limitation) do either or both of the following:
+(6C) Regulations under subsection (1)﻿(if) may (without limitation) do either or both of the following:
   (a) prescribe for different classes of people who offer tobacco products for sale different ways of allowing a tobacco product, tobacco package, or tobacco carton to be visible:
   (b) prescribe conditions with which 1 or more classes of people of that kind must comply before, or while, allowing a tobacco product, tobacco package, or tobacco carton to be visible in a way prescribed.
-(6D) Regulations under subsection (1)(ig) may (without limitation) prescribe requirements relating to all or any of the following matters relating to signs under section 29AA:
+(6D) Regulations under subsection (1)﻿(ig) may (without limitation) prescribe requirements relating to all or any of the following matters relating to signs under section 29AA:
   (a) the health information or warnings to be communicated by them:
   (b) the shape and lengths of their sides:
   (c) the width, and other aspects of, the borders around their edges:
   (d) the typeface or font, point size, other aspects of the format or layout, or of the clarity, legibility, and weight, of the printing on them of the health information or warnings to be communicated by them:
   (e) the minimum area that they must have for printing across:
   (f) any official attribution (which may, without limitation, be or include Ministry of Health Warning) that they are to contain, and the way in which that attribution is to be communicated by them.
-(6E) Regulations under subsection (1)(ih) may (without limitation) prescribe requirements relating to all or any of the following matters relating to the health information or warnings to be made visible under section 29AAB:
+(6E) Regulations under subsection (1)﻿(ih) may (without limitation) prescribe requirements relating to all or any of the following matters relating to the health information or warnings to be made visible under section 29AAB:
   (a) the shape, and lengths of, the sides of that information or those warnings:
   (b) the width, and other aspects of, the borders around the edges of that information or those warnings:
   (c) the typeface or font, point size, other aspects of the format or layout, or of the clarity, legibility, and weight, of all or any of the text of that information or those warnings:
@@ -913,7 +912,7 @@ All infringement fees paid in respect of infringement offences must be paid into
 (2) Notwithstanding anything in section 22 or section 24 or section 25, where it is so required by a contract entered into before 17 May 1990, the name of any manufacturer or importer of tobacco products or the trade mark of any tobacco product may be used until the close of 30 June 1995, otherwise than in association with a tobacco product, in a representation to the public—
   (a) that promotes or is associated with an organised activity; or
   (b) that acknowledges financial or other contributions made by the manufacturer or importer of the tobacco product toward any such activity.
-(3) The first reports required by section 35(1)(b) shall be submitted to the Director-General—
+(3) The first reports required by section 35(1)﻿(b) shall be submitted to the Director-General—
   (a) by 31 January 1991, in the case of cigarettes; or
   (b) by 31 January 1992, in the case of cigarette tobacco; or
   (c) by the date specified by the Director-General by notice in writing to the manufacturer or importer, in the case of any other tobacco product.
@@ -965,10 +964,10 @@ All infringement fees paid in respect of infringement offences must be paid into
 (1) An enforcement officer who at any time believes on reasonable grounds that within the previous 14 days tobacco products or herbal smoking products have been sold, or have after they are sold been delivered, to a person younger than 18 years in or from a place where tobacco products or herbal smoking products are sold, or after they are sold (at that place or another place) are delivered, from time to time—
   (a) may, while the person the officer believes on reasonable grounds to have sold, or to have after they are sold delivered or arranged the delivery of, the products is in the place, require the person to give the officer his or her name and address; and
   (b) may require a person in the place who appears to be in charge of the place or any part of it to give the officer the name and address of (or, if the address is not within the person's knowledge, the name and any other identifying information within the person's knowledge relating to) any person the officer believes on reasonable grounds to have sold, or to have after they are sold delivered or arranged the delivery of, the products other than a person in charge of the place.
-(2) An enforcement officer who suspects that a person is younger than 17 years must not under subsection (1)(a) require the person to give the officer his or her name and address unless—
+(2) An enforcement officer who suspects that a person is younger than 17 years must not under subsection (1)﻿(a) require the person to give the officer his or her name and address unless—
   (a) there is no other person in the place concerned who appears to be in charge of it; or
   (b) there is another person in the place who appears to be in charge of it, but the enforcement officer suspects that that person is also younger than 17 years.
-(3) An enforcement officer who suspects that a person is younger than 17 years must not under subsection (1)(b) require the person to give the officer the name and address of (or name and other identifying information relating to) any other person if the other person is in the place concerned and appears to be 17 years old or older.
+(3) An enforcement officer who suspects that a person is younger than 17 years must not under subsection (1)﻿(b) require the person to give the officer the name and address of (or name and other identifying information relating to) any other person if the other person is in the place concerned and appears to be 17 years old or older.
 
 ### 41C Purposes for which powers may be used
 (1) The powers given by section 41A must be used only for, and only to the extent necessary for, the following purposes:
