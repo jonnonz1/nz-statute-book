@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2015-09-26_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -140,6 +140,7 @@ This Act binds the Crown.
     (b) a lesser number of hours, if the lesser number of hours is defined as full-time employment in the employment agreement under which the earner was employed, because of the particular nature of that employment
   - **full-time study** means a course of study recognised as full-time by the place of education that administers it
   - **government agency** , for the purposes of Part 8 and section 324(4)﻿(b)﻿(ii), includes a government department and a Crown entity
+  - **health and safety regulator** has the same meaning as regulator in section 16 of the Health and Safety at Work Act 2015
   - **health practitioner** —
     (a) means a person who is, or is deemed to be, registered with an authority established or continued by section 114 of the Health Practitioners Competence Assurance Act 2003 as a practitioner of a particular health profession; but
     (b) in relation to that health profession and to any purpose stated in a relevant notice under section 322A, does not include a person who, for that purpose, is declared not to be a health practitioner
@@ -2039,7 +2040,7 @@ An appeal under section 149 is dealt with in accordance with the District Courts
   (d) entitlements in respect of employers, private domestic workers, and self-employed persons that, immediately before 1 April 2007, would have been funded from the Self-Employed Work Account or the Employers' Account; and
   (e) entitlements that, immediately before the commencement of section 21 of the Accident Compensation Amendment Act 2010, would have been funded from the Residual Claims Account as it was immediately before that commencement; and
   (f) administering the Account; and
-  (g) audits and assessments referred to in section 175; and
+  (g) audits and assessments referred to in sections 174D and 175; and
   (h) any other expenditure authorised by this Act.
 (4) Regulations made under this Act may prescribe, in relation to a prescribed period, a portion of the levies payable under sections 168, 168A, 168B, and 211 to provide for or, to the extent that it is necessary, to provide separately for,—
   (a) the purposes of subsection (3)﻿(a) to (d) and (f) to (h):
@@ -2141,6 +2142,61 @@ Nothing in this Act requires a self-employed person to pay a Work Account levy o
 (3) The Corporation may require an employer to provide further information to support the employer's estimate.
 (4) As soon as practicable after receiving the earnings figures necessary for the Corporation to recalculate the levy, the Corporation must recalculate the levy and notify the employer of the recalculated levy.
 
+### 174A Corporation may develop and establish workplace incentive programmes
+(1) The Corporation may develop and establish 1 or more workplace incentive programmes to provide incentives for employers and self-employed persons to reduce the incidence, severity, and impact of work-related personal injuries.
+(2) A Work Account levy determined for the purposes of section 168, 168B, or 211 may be adjusted up or down for a particular employer or a particular self-employed person in accordance with the terms and conditions of a workplace incentive programme.
+(3) Regulations made under section 333 may prescribe fees and charges payable by employers and self-employed persons who participate in a workplace incentive programme, including—
+  (a) administration fees to meet the costs, or part of the costs, incurred in administering the programme; and
+  (b) fees or charges for audits and assessments provided for under section 174D(3).
+
+### 174B Process to develop workplace incentive programme
+(1) In developing a workplace incentive programme, the Corporation must—
+  (a) have regard to the following matters:
+    (i) the extent to which the programme is likely to lead to reductions in the incidence, severity, and impact of work-related personal injuries and to improvements in rehabilitation and durable return to work; and
+    (ii) the extent to which the programme may affect the Work Account levies payable by levy payers who are not participating in the programme; and
+    (iii) the expected administration costs of the programme; and
+    (iv) the impact of the programme on the administration of the accident compensation scheme as a whole and on claims management processes; and
+  (b) endeavour to ensure that programmes are available for a variety of types of employers and self-employed persons, including small and large businesses; and
+  (c) endeavour to ensure that the rates of adjustment to Work Account levies that will be available under the programme are proportionate to the expected increases or decreases in costs to the Corporation as a result of employers and self-employed persons participating in the programme.
+(2) In developing a workplace incentive programme, the Corporation must consult the persons or organisations it considers appropriate, having regard to—
+  (a) the potential participants in the programme; and
+  (b) the potential impact of the programme on the Work Account levies of non-participating levy payers.
+(3) Subsection (2) does not apply if the Minister determines under section 174C that the workplace incentive programme must be approved by the Minister.
+
+### 174C Minister's approval of certain workplace incentive programmes
+(1) The Minister may determine, in relation to any proposed workplace incentive programme, that the programme must be approved by the Minister before it is established under section 174D.
+(2) In deciding whether to make a determination under subsection (1), the Minister may consider any relevant factors, including—
+  (a) the public interest; and
+  (b) how the proposed workplace incentive programme aligns with the Government's broader objectives; and
+  (c) the impact of the proposed workplace incentive programme on levy payers generally or on particular groups of levy payers; and
+  (d) the impact of the proposed workplace incentive programme on levy payers who, despite being eligible to participate in the proposed programme, may choose not to participate.
+(3) If the Minister makes a determination under subsection (1), before the Minister approves the establishment of the workplace incentive programme, the Minister must consult any persons or organisations that the Minister considers appropriate, having regard to—
+  (a) the potential participants in the programme; and
+  (b) the potential impact of the programme on the Work Account levies of non-participating levy payers.
+
+### 174D Establishment of workplace incentive programmes
+(1) The Corporation may, by notice in the Gazette, establish a workplace incentive programme.
+(2) A notice in the Gazette under subsection (1) must set out the terms and conditions of the workplace incentive programme, including—
+  (a) any criteria that must be met before an employer or a self-employed person may participate in the programme; and
+  (b) the basis and conditions on which, and periods for which, Work Account levies may be adjusted for participants in the programme; and
+  (c) the level or levels of levy adjustment that may apply to participants in the programme.
+(3) Without limiting subsection (2), a notice in the Gazette under subsection (1) may provide for audits or assessments of participants in the workplace incentive programme, including—
+  (a) the order in which applications for audits or assessments are to be dealt with:
+  (b) the approval of auditors and assessors:
+  (c) requirements that audits or assessments be conducted in accordance with an audit tool or audit tools developed or approved by the Corporation:
+  (d) the frequency of audits or assessments and the circumstances under which additional audits or assessments may be required.
+(4) A notice in the Gazette under subsection (1), and an audit tool developed for the purposes of subsection (3)﻿(c), may incorporate by reference any material referred to in section 176, and that section and section 177 apply as if the notice were a regulation made for the purposes of section 175, the audit tool were an audit tool referred to in section 175(4), and the reference to the Minister in section 176(3) were a reference to the Corporation.
+(5) A notice in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 174E Amendments to workplace incentive programme
+(1) A workplace incentive programme may be amended in the same manner as a workplace incentive programme is developed and established.
+(2) Sections 174B to 174D apply, with all necessary modifications, in relation to an amendment to a workplace incentive programme.
+(3) Despite subsection (2), sections 174B(2) and 174C(3) do not apply if the amendment is a minor or technical amendment.
+(4) A notice in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 174F Corporation must report on effectiveness of workplace incentive programmes
+The Corporation must include in its annual report under section 150 of the Crown Entities Act 2004 a report on the effectiveness of workplace incentive programmes in reducing the incidence and impact of work-related personal injuries.
+
 ### 175 Risk adjustment of Work Account levies
 (1) A Work Account levy determined for the purposes of sections 168, 168B, or 211 may be adjusted down, in accordance with regulations made under this Act, for a particular employer or a particular self-employed person on the basis of—
   (a) an audit of the employer's or the self-employed person's safety management practices; or
@@ -2167,7 +2223,7 @@ Nothing in this Act requires a self-employed person to pay a Work Account levy o
 
 ### 176 Incorporation by reference
 (1) Regulations made for the purposes of section 175 and the audit tool may incorporate by reference all or any part of any—
-  (a) New Zealand standard; or
+  (a) New Zealand standard, or any requirement or recommended practice of any New Zealand organisation; or
   (b) standard, requirement, recommended practice, rule, statute, or regulation, of any foreign Government or organisation.
 (2) Any material incorporated in regulations by reference is to be regarded for all purposes as forming part of the regulations, but any amendment made to the material after the commencement of the regulations does not have effect until regulations have been made incorporating the amendment into the regulations.
 (3) Any material incorporated in the audit tool by reference is to be regarded for all purposes as forming part of the audit tool, but any amendment made to the material after the commencement of the audit tool does not have effect until the amendment has been approved for incorporation in the audit tool by the Minister.
@@ -2293,7 +2349,7 @@ The objectives of sections 181 to 189 are to—by allowing accredited employers 
 
 ### 190 Purchase of weekly compensation by shareholder-employees
 (1) A shareholder-employee may apply to purchase from the Corporation, in accordance with subsection (2), the right to receive weekly compensation provided in an agreed manner for loss of earnings as a shareholder-employee for any personal injury for which the shareholder-employee has cover under this Act.
-(2) For the purposes of subsection (1), sections 175, 208(2), 209, 210, 211(1) and (2), and 212, and any relevant regulations made under this Act, apply with necessary modifications, as if the shareholder-employee were a self-employed person.
+(2) For the purposes of subsection (1), sections 174D, 175, 208(2), 209, 210, 211(1) and (2), and 212, and any relevant regulations made under this Act, apply with necessary modifications, as if the shareholder-employee were a self-employed person.
 
 ### 191 Effect on Work Account levy
 (1) If a shareholder-employee purchases agreed weekly compensation under section 190, the employer of the shareholder-employee is not required to pay the Work Account levy in respect of the earnings of that employee.
@@ -2879,7 +2935,9 @@ Except as otherwise specified in this Act or as required by virtue of any delega
   (c) money is available for such measures from any other source (such as a joint venture or sponsorship); or
   (d) any combination of any of paragraphs (a) to (c) applies.
 (4) The Corporation may, in its discretion, conduct, participate in, commission, or subsidise research into the reduction of the incidence and severity of accidents and other causes of personal injury that is directed at reducing the cost of compensation and rehabilitation provided under this Act.
-(5) The Corporation must ensure that such measures are co-ordinated with similar activities of other government agencies to contribute to the overall injury prevention objectives in an efficient and effective way.
+(5) The Corporation must ensure that any measures undertaken or funded in accordance with this section—
+  (a) are co-ordinated with similar activities of other government agencies to contribute to the overall injury prevention objectives in an efficient and effective way; and
+  (b) to the extent that the measures will be funded from the Work Account, take account of the Health and Safety at Work Strategy published under section 195 of the Health and Safety at Work Act 2015.
 
 ### 264 Money expended or received for injury prevention to be managed through Accounts
 All money received by the Corporation for injury prevention purposes under section 263(3)﻿(b) and (c), and the expenditure of any money under section 263, must be allocated and managed through the Account or Accounts maintained and operated by the Corporation under section 166 in respect of which a reduction in levy rates or expenditure is expected.
@@ -3049,7 +3107,7 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
 
 ### 280 Disclosure of information to Corporation
 (1) In this section, unless the context otherwise requires, payment means any payment under this Act; and includes any provisions in respect of rehabilitation.
-(2) The purpose of this section is to facilitate the disclosure of information by the Ministry of Business, Innovation, and Employment, WorkSafe, the Department of Corrections, the New Zealand Customs Service, the department for the time being responsible for the administration of the Social Security Act 1964, the Ministry of Health, any funder, and any district health board (in this section each called the Department) to the Corporation for the purpose of verifying—
+(2) The purpose of this section is to facilitate the disclosure of information by the Ministry of Business, Innovation, and Employment, health and safety regulators, the Department of Corrections, the New Zealand Customs Service, the department for the time being responsible for the administration of the Social Security Act 1964, the Ministry of Health, any funder, and any district health board (in this section each called the Department) to the Corporation for the purpose of verifying—
   (a) the entitlement or eligibility of any person to or for any payment; or
   (b) the amount of any payment to which any person is or was entitled or for which any person is or was eligible.
 (3) For the purpose of this section, the Corporation may from time to time, in accordance with arrangements made between the Corporation and the Department concerned, request the Department to supply, in respect of persons who are receiving, have received, or have applied to receive any payment—
@@ -3109,26 +3167,26 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
 
 **Information about work-related injuries**
 
-### 286 Corporation to provide information to Ministry of Business, Innovation, and Employment and to WorkSafe
-(1) The Corporation must provide to the chief executive of the Ministry of Business, Innovation, and Employment or to WorkSafe any information held by the Corporation under this Act that—
+### 286 Corporation to provide information to Ministry of Business, Innovation, and Employment and to health and safety regulators
+(1) The Corporation must provide to the chief executive of the Ministry of Business, Innovation, and Employment or to a health and safety regulator any information held by the Corporation under this Act that—
   (a) relates to—
     (i) employers; or
     (ii) workplaces; or
     (iii) claims for work-related personal injury; and
-  (b) is of a type specified for the purpose of this section in an agreement between the Corporation and the chief executive of the Ministry of Business, Innovation, and Employment or WorkSafe as the case may be.
-(2) The chief executive of the Ministry of Business, Innovation, and Employment and WorkSafe may use the information only for 1 or more of the following purposes:
+  (b) is of a type specified for the purpose of this section in an agreement between the Corporation and the chief executive of the Ministry of Business, Innovation, and Employment or the health and safety regulator as the case may be.
+(2) The chief executive of the Ministry of Business, Innovation, and Employment and the health and safety regulator may use the information only for 1 or more of the following purposes:
   (a) to support the Ministry of Business, Innovation, and Employment in its administration of any provisions of the relevant Acts:
-  (b) to support WorkSafe in carrying out its functions under any provisions of the relevant Acts:
+  (b) to support the health and safety regulator in carrying out its functions under any provisions of the relevant Acts:
   (c) to ensure appropriate co-ordination of activities with the Corporation and other relevant agencies:
   (d) in the case of the Ministry of Business, Innovation, and Employment, to support the Ministry’s responsibilities for workforce development and employment creation.
-(3) The power conferred on the chief executive of the Ministry of Business, Innovation, and Employment and on WorkSafe by subsection (2) includes (without limitation) power to provide information received under this section to any agency designated under section 28B of the Health and Safety in Employment Act 1992, but only for the purpose of supporting the agency’s functions under that Act.
+(3) The power conferred on the chief executive of the Ministry of Business, Innovation, and Employment and on health and safety regulators by subsection (2) includes (without limitation) power to provide information received under this section to any agency designated under section 28B of the Health and Safety in Employment Act 1992, but only for the purpose of supporting the agency’s functions under that Act.
 (4) The Corporation must provide the information in accordance with the agreement referred to in subsection (1)﻿(b).
 (5) In subsection (2), relevant Acts means—
   (a) Disabled Persons Employment Promotion Act 1960:
   (b) Employment Relations Act 2000:
   (c) Equal Pay Act 1972:
   (d) Hazardous Substances and New Organisms Act 1996:
-  (e) Health and Safety in Employment Act 1992:
+  (e) Health and Safety at Work Act 2015:
   (f) Holidays Act 2003:
   (g) Immigration Act 2009:
   (h) Machinery Act 1950:
