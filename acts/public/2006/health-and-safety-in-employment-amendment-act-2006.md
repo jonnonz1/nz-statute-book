@@ -1,5 +1,5 @@
 # Health and Safety in Employment Amendment Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Health and Safety in Employment Amendment Act 2006.
@@ -12,7 +12,7 @@ This Act amends the Health and Safety in Employment Act 1992.
 
 ### 4 Recording and notification of accidents and serious harm
 Section 25 is amended by adding the following subsection:
-  (4) Notification of an accident in accordance with either or both of the following provisions is compliance with subsection (3)(a):
+  (4) Notification of an accident in accordance with either or both of the following provisions is compliance with subsection (3)﻿(a):
     (a) section 17(3) of the Gas Act 1992:
     (b) section 16(3) of the Electricity Act 1992.
 
