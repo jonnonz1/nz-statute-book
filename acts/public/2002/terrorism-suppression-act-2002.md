@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2016-03-08_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -259,7 +259,7 @@ This Act binds the Crown.
 (1) A person commits an offence and is liable on conviction to a term of imprisonment not exceeding 10 years or a fine not exceeding $500,000, or both, who—
   (a) possesses, uses, or manufactures unmarked plastic explosives, knowing they are unmarked; or
   (b) imports or exports unmarked plastic explosives to or from New Zealand, knowing they are unmarked.
-(2) Subsection (1) does not apply in respect of unmarked plastic explosives (not being explosives to which subsection (3) applies) that were lawfully manufactured in, or imported into New Zealand before the commencement of this section and that may, subject to the Hazardous Substances and New Organisms Act 1996, be transported or possessed by—
+(2) Subsection (1) does not apply in respect of unmarked plastic explosives (not being explosives to which subsection (3) applies) that were lawfully manufactured in, or imported into New Zealand before the commencement of this section and that may, subject to the Health and Safety at Work Act 2015, be transported or possessed by—
   (a) a person who performs military or Police functions during the period that begins with the entry into force of this section and ends 15 years later; or
   (b) any other person during the period that begins with the entry into force of this section and ends 3 years later.
 (3) Nothing in this section applies to unmarked plastic explosives—
