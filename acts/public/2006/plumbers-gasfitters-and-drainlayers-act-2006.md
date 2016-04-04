@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2014-04-23_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -79,7 +79,7 @@ In this Act, unless the context otherwise requires,—
     (a) death; or
     (b) harm that incapacitates, or is likely to incapacitate, the person suffering harm for 48 hours or more; or
     (c) harm that incapacitates, or is likely to incapacitate, the person suffering harm due to the inhalation of carbon monoxide; or
-    (d) harm of the kinds and descriptions that are serious harm under the Health and Safety in Employment Act 1992
+    (d) a notifiable injury or illness as defined in section 23 of the Health and Safety at Work Act 2015
   - **supervision** , in relation to any work, means that the work is undertaken under the control and direction of a person authorised under this Act to do the work or, in the case of sections 19, 21, 22, and 25, a person authorised to supervise work under those sections as is sufficient to ensure—
     (a) that the work is performed competently; and
     (b) that while the work is being undertaken, appropriate safety measures are adopted; and
@@ -96,7 +96,7 @@ In this Act, unless the context otherwise requires,—
     (iii) the work of ensuring that there is adequate ventilation in relation to any gas installation:
     (iv) the work of commissioning any gas installation and ensuring its safe operation (including, for example, the testing, setting, checking, and adjusting of safety devices, combustion conditions, and controls associated with the gas installation):
     (v) the work of setting safety devices, combustion conditions, and controls in connection with any gas installation that are not designed to be adjusted by a consumer or gas refueller:
-    (vi) the work of re-commissioning any gas installation if alteration or repair work has been done on the gas installation or its associated fittings to ensure its safe operation (including, for example, the testing, setting, checking, and adjusting of safety devices, combustion conditions, and controls associated with the gas installation):
+    (vi) the work of recommissioning any gas installation if alteration or repair work has been done on the gas installation or its associated fittings to ensure its safe operation (including, for example, the testing, setting, checking, and adjusting of safety devices, combustion conditions, and controls associated with the gas installation):
   (b) the work of fixing or unfixing any gas installation that is attached to, and forms part of, any ship, boat, caravan, vehicle, or train.
 (2) Despite subsection (1), gasfitting does not include—
   (a) any fixing, unfixing, or other work on any gas storage container; or
@@ -250,8 +250,8 @@ A person may do, or assist in doing, any sanitary plumbing if—
   (a) competent to install and maintain particular fittings or gas appliances, or fittings or gas appliances of a particular kind; or
   (b) competent to supervise persons doing particular gasfitting, to test and certify particular work, and to connect the work to a supply of gas, in accordance with section 21.
 (2) For the purposes of subsection (1), the matters are—
-  (a) to install and maintain any fittings or gas appliances to which subsection (1)(a) applies or to have that work done by some other person acting under the person’s supervision:
-  (b) to carry out any other gasfitting for the purposes of subsection (1)(a) or to have that work done by some other person acting under the person’s supervision:
+  (a) to install and maintain any fittings or gas appliances to which subsection (1)﻿(a) applies or to have that work done by some other person acting under the person’s supervision:
+  (b) to carry out any other gasfitting for the purposes of subsection (1)﻿(a) or to have that work done by some other person acting under the person’s supervision:
   (c) to supervise, test and certify, and connect particular work, in accordance with section 21.
 (3) The Board may place time limits on the authorisation, impose any other reasonable conditions on the authorisation, and revoke the authorisation if those conditions are not complied with.
 
@@ -349,9 +349,9 @@ A person may do, or assist in doing, any drainlaying if—
     (ii) hold practising licences or provisional licences; or
     (iii) apply for renewals of practising licences or provisional licences; and
   (f) recognise any overseas qualification, certificate, registration, or licence as satisfying a particular minimum standard for registration (in whole or in part) if, in the opinion of the Board, that overseas qualification, certificate, registration, or licence is equivalent to, or as satisfactory as, the standard, or part of the standard, that is treated as being satisfied.
-(2) The terms and conditions referred to in subsection (1)(c) may include, for example,—
+(2) The terms and conditions referred to in subsection (1)﻿(c) may include, for example,—
   (a) a term that authorises the person to test or certify work or to supervise work:
-  (b) a condition that requires compliance with the requirements referred to in subsection (1)(d):
+  (b) a condition that requires compliance with the requirements referred to in subsection (1)﻿(d):
   (c) a condition that requires the person to complete a competence programme:
   (d) a condition that imposes limitations on the circumstances in which the person may do, or assist in doing, work:
   (e) a condition that imposes limits on the work that the person may do, or assist in doing, under the practising licence.
@@ -365,7 +365,7 @@ A person may do, or assist in doing, any drainlaying if—
   (d) by reference to registration with, or a licence issued by, an overseas organisation that performs functions that correspond wholly or partly to those performed by the Board:
   (e) by requiring experience in the provision of services of a particular kind:
   (f) by requiring a certain level of competence.
-(2) However, the minimum standards for registration prescribed under section 30 may require a person to pass a specified examination or other assessment set by the Board only if the Board is satisfied that the person does not have a degree, diploma, or certificate of a stated kind recognised by the Board under subsection (1)(a).
+(2) However, the minimum standards for registration prescribed under section 30 may require a person to pass a specified examination or other assessment set by the Board only if the Board is satisfied that the person does not have a degree, diploma, or certificate of a stated kind recognised by the Board under subsection (1)﻿(a).
 
 ### 32 Principles guiding prescribing of registration and licensing matters
 In prescribing matters under sections 28 and 30, the Board must be guided by the following principles:
@@ -378,12 +378,12 @@ In prescribing matters under sections 28 and 30, the Board must be guided by the
   (c) the matters may not impose undue costs on plumbers, gasfitters, or drainlayers, or on the public.
 
 ### 33 Board must consult before publishing notices
-(1) Before the Board publishes a notice under section 28 or 30(1)(a) to (e), the Board must have consulted about its proposal for the contents of the notice—
+(1) Before the Board publishes a notice under section 28 or 30(1)﻿(a) to (e), the Board must have consulted about its proposal for the contents of the notice—
   (a) with persons who the Board considers are able to represent the views of plumbers, gasfitters, or drainlayers, or of classes of plumbers, gasfitters, or drainlayers, registered under this Part or the former Act; and
   (b) with organisations—
     (i) that the Board considers will be substantially affected by the proposal; or
     (ii) whose members the Board considers will be substantially affected by the proposal.
-(2) A failure to comply with subsection (1) does not affect the validity of any notice published under section 28 or 30(1)(a) to (e).
+(2) A failure to comply with subsection (1) does not affect the validity of any notice published under section 28 or 30(1)﻿(a) to (e).
 
 ### 34 Notices published under sections 28 and 30 must be approved by Minister
 (1) The Board must, before publishing a notice under section 28 or 30, submit the proposed notice for the approval of the Minister.
@@ -459,10 +459,10 @@ An individual is entitled to be registered under this subpart if the individual 
 
 ### 42 Registration subject to terms and conditions
 (1) The registration of a registered person is subject to—
-  (a) the terms and conditions imposed by notices published under section 30(1)(b) in relation to the class of registration concerned; and
+  (a) the terms and conditions imposed by notices published under section 30(1)﻿(b) in relation to the class of registration concerned; and
   (b) any other terms and conditions that the Board thinks fit.
 (2) The Board may, by written notice to a registered person, revoke, amend, or add to any term or condition imposed under subsection (1).
-(3) Subsection (1)(a) is subject to subsection (2) and section 52.
+(3) Subsection (1)﻿(a) is subject to subsection (2) and section 52.
 
 **How to become licensed**
 
@@ -511,15 +511,15 @@ A registered person is entitled to be issued with a practising licence under thi
 
 ### 48 Practising licence subject to terms and conditions
 (1) A practising licence issued to a registered person is subject to—
-  (a) the terms and conditions imposed by notices published under section 30(1)(c) in relation to the class of registration concerned; and
+  (a) the terms and conditions imposed by notices published under section 30(1)﻿(c) in relation to the class of registration concerned; and
   (b) any other terms and conditions that the Board thinks fit.
 (2) The terms and conditions may include, for example,—
   (a) terms and conditions of the kind referred to in section 30(2):
   (b) a condition that imposes limits on the circumstances in which the particular practising licence holder may do, or assist in doing, work:
   (c) a condition that imposes limits on the work that the particular practising licence holder may do, or assist in doing, under the licence.
-(3) The conditions referred to in subsection (2)(b) and (c) may be in addition to, or instead of, any other limits that would otherwise apply in respect of the class of registration concerned.
+(3) The conditions referred to in subsection (2)﻿(b) and (c) may be in addition to, or instead of, any other limits that would otherwise apply in respect of the class of registration concerned.
 (4) The Board may, by written notice to a registered person, revoke, amend, or add to any term or condition imposed under subsection (1).
-(5) Subsection (1)(a) is subject to subsection (4) and section 52.
+(5) Subsection (1)﻿(a) is subject to subsection (4) and section 52.
 
 **Duration and renewal of practising licence**
 
@@ -554,8 +554,8 @@ A registered person is entitled to be issued with a practising licence under thi
 (3) If the Board is not satisfied that the registered person is entitled to a renewal of his or her practising licence, the Board must notify the person of—
   (a) the Board’s decision; and
   (b) the person’s right of appeal to a District Court against the decision.
-(4) For the purposes of subsection (1)(c), the Board may, if it thinks fit, disregard a breach of a term or condition of the practising licence.
-(5) The Board may require a registered person to complete a competence programme before it renews that person’s practising licence (regardless of whether or not the Board is satisfied of the matters referred to in subsection (1)(a) to (d)) if the person is required to complete a competence programme when applying for a renewal of the licence in accordance with a condition or requirement imposed by a notice published under section 30.
+(4) For the purposes of subsection (1)﻿(c), the Board may, if it thinks fit, disregard a breach of a term or condition of the practising licence.
+(5) The Board may require a registered person to complete a competence programme before it renews that person’s practising licence (regardless of whether or not the Board is satisfied of the matters referred to in subsection (1)﻿(a) to (d)) if the person is required to complete a competence programme when applying for a renewal of the licence in accordance with a condition or requirement imposed by a notice published under section 30.
 (6) Despite subsection (1), if any fee or other money payable to the Board under this Act by the registered person has not been paid, the Board may refuse to renew that person’s practising licence until that fee or other money is paid.
 
 **Exemptions from registration and licensing requirements and conditions**
@@ -600,7 +600,7 @@ A registered person is entitled to be issued with a practising licence under thi
 (3) However, a registered person may be required by the Board to complete a competence programme only if 1 or more of the following applies:
   (a) the registration of the person or the practising licence held by the person is subject to a condition imposed by a notice published under section 30 that requires the person to complete a competence programme; or
   (b) the person is required to complete a competence programme in accordance with an applicable minimum standard for registration; or
-  (c) the person is required to complete a competence programme in accordance with a requirement imposed by a notice published under section 30(1)(e); or
+  (c) the person is required to complete a competence programme in accordance with a requirement imposed by a notice published under section 30(1)﻿(e); or
   (d) the person is required to complete a competence programme under section 54 (which relates to a review of a person’s competence) or Part 3 (which relates to discipline).
 (4) Any competence programme may require a person to do 1 or more of the following, within the period, or at the intervals, prescribed in the programme:
   (a) pass an examination:
@@ -621,7 +621,7 @@ A registered person is entitled to be issued with a practising licence under thi
   (b) given the person a reasonable opportunity to make written submissions and be heard on the question, either personally or by his or her representative.
 (3) The Registrar must ensure that a copy of the order made under subsection (1) is given to the person concerned.
 (4) An order made under subsection (1) takes effect from the day on which a copy of the order is given to the person concerned or from any date that is specified in the order, whichever is the later.
-(5) Any order made under subsection (1)(a) or (b) remains in effect until the time that the person concerned has satisfied all the requirements of the competence programme, and for that purpose the Board may extend the period within which the person is required to satisfy those requirements.
+(5) Any order made under subsection (1)﻿(a) or (b) remains in effect until the time that the person concerned has satisfied all the requirements of the competence programme, and for that purpose the Board may extend the period within which the person is required to satisfy those requirements.
 
 **Cancellation and suspension**
 
@@ -637,7 +637,7 @@ A registered person is entitled to be issued with a practising licence under thi
 (3) The Board may suspend—
   (a) a person’s registration—
     (i) in accordance with section 60 (which concerns the cancellation or suspension of an overseas qualification, certificate, registration, or licence); or
-    (ii) in accordance with Part 3 which concerns disciplinary proceedings):
+    (ii) in accordance with Part 3 (which concerns disciplinary proceedings):
   (b) a person’s practising licence or provisional licence—
     (i) in accordance with section 56 (which concerns competence); or
     (ii) in accordance with section 60 (which concerns the cancellation or suspension of an overseas qualification, certificate, registration, or licence); or
@@ -713,7 +713,7 @@ A registered person is entitled to be issued with a practising licence under thi
     (ii) receive the supervision and training that is necessary to ensure that the work—
       (A) is carried out safely and competently; and
       (B) complies with the requirements of the Gas Act 1992 and any regulations made under section 54 of that Act.
-(2) A person must be treated as maintaining a system of operation described in subsection (1)(a) and (b) if an approved person, in the prescribed manner, certifies that the system of operation complies with those provisions, and issues a certificate to that effect in the prescribed form.
+(2) A person must be treated as maintaining a system of operation described in subsection (1)﻿(a) and (b) if an approved person, in the prescribed manner, certifies that the system of operation complies with those provisions, and issues a certificate to that effect in the prescribed form.
 (3) A certification under subsection (2) ceases to have effect if—
   (a) the approved person, by notice in writing to the certificate holder, revokes the certificate; or
   (b) the term of the certification comes to an end.
@@ -763,8 +763,8 @@ An employer licence, unless it is sooner cancelled or suspended, is in force for
   (d) order the employer licence holder to pay a fine not exceeding $50,000:
   (e) order that the employer licence holder be censured:
   (f) make no order under this subsection.
-(3) The Board may take only one type of action in subsection (2) in relation to a case, except that it may impose a fine under subsection (2)(d) in addition to taking the action under subsection (2)(b), (c), or (e).
-(4) No fine may be imposed under subsection (2)(d) in relation to an act or omission that constitutes an—
+(3) The Board may take only one type of action in subsection (2) in relation to a case, except that it may impose a fine under subsection (2)﻿(d) in addition to taking the action under subsection (2)﻿(b), (c), or (e).
+(4) No fine may be imposed under subsection (2)﻿(d) in relation to an act or omission that constitutes an—
   (a) offence for which the person has been convicted by a court; or
   (b) infringement offence for which the person has been issued with an infringement notice and has paid an infringement fee.
 (5) The Board may take an action under this section whether or not the person is still an employer licence holder.
@@ -787,8 +787,8 @@ The Board must not take any of the actions referred to in section 66 unless it h
     (i) require the employer licence holder to produce for inspection, within any reasonable period that the Board may specify, any document or class of document in the possession or under the control of the employer licence holder, and may take copies of, or extracts from, any of those documents:
     (ii) require the employer licence holder to provide, within any reasonable period that the Board may specify, any information or class of information that the Board may require.
 (2) If the employer licence holder breaches a condition expressed in subsection (1), the Board may act under section 66.
-(3) A person must give reasonable notice of that person’s intention to enter any premises under subsection (1)(a) to the employer licence holder, unless the giving of the notice would defeat the purpose of the entry.
-(4) Every person must, on entering any premises under subsection (1)(a), and when requested at any subsequent time, produce—
+(3) A person must give reasonable notice of that person’s intention to enter any premises under subsection (1)﻿(a) to the employer licence holder, unless the giving of the notice would defeat the purpose of the entry.
+(4) Every person must, on entering any premises under subsection (1)﻿(a), and when requested at any subsequent time, produce—
   (a) evidence of that person’s authority to enter the premises; and
   (b) evidence of that person’s identity.
 (5) The following are authorised purposes for the purposes of this section:
@@ -897,11 +897,11 @@ The Registrar must—
   (b) the licence of the provisional licence holder or employer licence holder be cancelled.
 
 ### 79 Restoration of registration or licence
-(1) This section applies to a person if the person’s registration or licence has been cancelled under section 57(1)(b) or 78.
+(1) This section applies to a person if the person’s registration or licence has been cancelled under section 57(1)﻿(b) or 78.
 (2) On the written application of a person to whom this section applies, the Registrar must restore the entry in the register relating to the person’s registration or licence unless—
   (a) the person is not entitled to be registered or issued with the licence; or
   (b) the person is subject to pending disciplinary proceedings under Part 3; or
-  (c) the person is subject to an order under section 66(2)(a) or 106(1)(a).
+  (c) the person is subject to an order under section 66(2)﻿(a) or 106(1)﻿(a).
 
 ### 80 Board may direct Registrar to record cancellation, suspension, or order
 The Board may direct the Registrar to enter in the register information relating to—
@@ -920,15 +920,15 @@ The Registrar may make any amendments to the register that are necessary to—
 (2) The Registrar must, on payment of the prescribed fee (if any), supply—
   (a) a copy of any entry in the register to any person requesting it; or
   (b) a certified copy of any entry in the register to any person requesting it.
-(3) The fee charged under subsection (2)(a) must be not more than the fee that may be charged by a department of State for providing information under the Official Information Act 1982.
+(3) The fee charged under subsection (2)﻿(a) must be not more than the fee that may be charged by a department of State for providing information under the Official Information Act 1982.
 
 ### 83 Restricting public access to information and documents on register
 (1) Despite section 82, the Registrar—
-  (a) may restrict public access to all or any of the information referred to in section 74(1)(b), (2)(b), or (2)(e)(i) in relation to a particular person if that person requires the Registrar to restrict public access to that information; and
-  (b) must restrict public access to any information or documentation referred to in section 74(1)(c)(viii), (2)(c)(vi), (3), or (4) or section 75 if—
+  (a) may restrict public access to all or any of the information referred to in section 74(1)﻿(b), (2)﻿(b), or (2)﻿(e)﻿(i) in relation to a particular person if that person requires the Registrar to restrict public access to that information; and
+  (b) must restrict public access to any information or documentation referred to in section 74(1)﻿(c)﻿(viii), (2)﻿(c)﻿(vi), (3), or (4) or section 75 if—
     (i) required to do so by regulations; or
     (ii) directed to do so by the Board.
-(2) For the purposes of subsection (1)(b), the Board may direct the Registrar to restrict public access to any information or documents referred to in that paragraph if, in the opinion of the Board, it is not necessary, or it is not desirable, for the information or documents to be publicly available.
+(2) For the purposes of subsection (1)﻿(b), the Board may direct the Registrar to restrict public access to any information or documents referred to in that paragraph if, in the opinion of the Board, it is not necessary, or it is not desirable, for the information or documents to be publicly available.
 
 ### 84 Search of register
 A person may search the register in accordance with this Act or the regulations.
@@ -1015,11 +1015,11 @@ For the purposes of this subpart, a person to whom this subpart applies is guilt
     (i) produce for inspection, within any reasonable period that the investigator may specify, any document or class of document in the possession or under the control of the person:
     (ii) provide, within any reasonable period that the investigator may specify, any information or class of information that the investigator may require; and
   (c) may take copies of, or extracts from, any of the documents referred to in paragraph (b).
-(2) Subsection (1)(a) applies in respect of dwellinghouses subject to section 96.
+(2) Subsection (1)﻿(a) applies in respect of dwellinghouses subject to section 96.
 (3) Every person who is required to supply information or documents to an investigator has the same privileges in relation to the supply of the information or documents as witnesses have in any court.
 
 ### 94 Registrar must supply warrant of authority
-(1) The Registrar must supply to an investigator who intends to act under section 93(1)(a) a written warrant of authority that contains—
+(1) The Registrar must supply to an investigator who intends to act under section 93(1)﻿(a) a written warrant of authority that contains—
   (a) a reference to that provision; and
   (b) the full name of the investigator; and
   (c) a statement of the powers conferred by that provision.
@@ -1030,7 +1030,7 @@ For the purposes of this subpart, a person to whom this subpart applies is guilt
 
 ### 95 Duties of investigator supplied with warrant of authority
 An investigator supplied with a warrant of authority under section 94—
-  (a) must carry the warrant when exercising the power under section 93(1)(a), produce the warrant on initial entry, and produce the warrant, if requested, at any subsequent time; and
+  (a) must carry the warrant when exercising the power under section 93(1)﻿(a), produce the warrant on initial entry, and produce the warrant, if requested, at any subsequent time; and
   (b) must, on the termination of his or her authority to act under section 93, surrender the warrant to the Registrar; and
   (c) must not purport to act under a warrant after the termination of his or her authority to act under section 93.
 
@@ -1051,14 +1051,14 @@ An investigator must,—
   (b) before he or she enters a dwellinghouse under the authority of a warrant under section 96, give a copy of the warrant to the occupier of the dwellinghouse to which that warrant relates.
 
 ### 98 Notices to supply information or documents
-Any notice given by an investigator under section 93(1)(b) is sufficiently given if—
+Any notice given by an investigator under section 93(1)﻿(b) is sufficiently given if—
   (a) it is in writing; and
   (b) it is signed by the investigator; and
   (c) it is given to the person or persons primarily concerned or to any person or organisation considered by the investigator to represent the person or persons primarily concerned.
 
 ### 99 Offence to fail to comply with notice to supply information or document
 (1) No person may,—
-  (a) without reasonable excuse, refuse or fail to comply with a notice under section 93(1)(b); or
+  (a) without reasonable excuse, refuse or fail to comply with a notice under section 93(1)﻿(b); or
   (b) in purported compliance with the notice, supply information, or supply a document, knowing it to be false or misleading.
 (2) Every person who breaches subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $50,000 in the case of a body corporate.
 
@@ -1075,7 +1075,7 @@ Any notice given by an investigator under section 93(1)(b) is sufficiently given
   (c) that specifies a date, being not less than 20 working days after the date of service of the notice, on which the Board intends to hear the matter.
 (2) The notice may require the person to whom the notice is addressed to notify the Board in writing, not later than 10 working days after the date of service of the notice, whether the person intends to appear before the Board at the hearing of the matter.
 (3) If the person fails to notify that person’s intention under subsection (2), that person is entitled to appear and be heard at the hearing of the matter only on the conditions as to payment of costs and expenses or otherwise that the Board thinks fit.
-(4) Despite subsection (1)(c), the Board may hear the matter earlier than 20 working days after the date of service of the notice if the person concerned agrees.
+(4) Despite subsection (1)﻿(c), the Board may hear the matter earlier than 20 working days after the date of service of the notice if the person concerned agrees.
 
 **Interim suspension or disqualification**
 
@@ -1133,16 +1133,16 @@ Any notice given by an investigator under section 93(1)(b) is sufficiently given
   (f) order the person to pay a fine not exceeding $10,000:
   (g) order that the person be censured:
   (h) make no order under this subsection.
-(2) The things that the person can be required to do for the purposes of subsection (1)(b), (d), and (e) are to—
+(2) The things that the person can be required to do for the purposes of subsection (1)﻿(b), (d), and (e) are to—
   (a) pass any specified examination:
   (b) complete any competence programme or specified period of training:
   (c) attend any specified course of instruction.
-(3) The Board may take only one type of action in subsection (1) in relation to a case, except that it may impose a fine under subsection (1)(f) in addition to taking the action under subsection (1)(b), (c), (e), or (g).
-(4) No fine may be imposed under subsection (1)(f) in relation to an act or omission that constitutes—
+(3) The Board may take only one type of action in subsection (1) in relation to a case, except that it may impose a fine under subsection (1)﻿(f) in addition to taking the action under subsection (1)﻿(b), (c), (e), or (g).
+(4) No fine may be imposed under subsection (1)﻿(f) in relation to an act or omission that constitutes—
   (a) an offence for which the person has been convicted by a court; or
   (b) an infringement offence for which the person has been issued with an infringement notice and has paid an infringement fee.
 (5) The Board must not exercise any authority conferred by this section in respect of any offence committed by any person before the date of that person’s registration or, as the case may be, the date on which that person’s provisional licence was issued if at that date the Board was aware of that person’s conviction in respect of that offence.
-(6) If a person is registered under Part 2 in respect of more than 1 class of registration, the Board may exercise its powers under subsection (1)(a) to (e) in respect of each of those classes or 1 or more of those classes as the Board thinks fit.
+(6) If a person is registered under Part 2 in respect of more than 1 class of registration, the Board may exercise its powers under subsection (1)﻿(a) to (e) in respect of each of those classes or 1 or more of those classes as the Board thinks fit.
 
 ### 107 Costs and expenses
 In any case to which section 106 applies, the Board may order the person concerned to pay to the Board any sum that it considers just and reasonable towards the costs and expenses of, and incidental to,—
@@ -1154,15 +1154,15 @@ In any case to which section 106 applies, the Board may order the person concern
 Every fine imposed under section 106, and any sum payable to the Board under section 107, is recoverable in any court of competent jurisdiction as a debt due to the Board.
 
 ### 109 Suspension, restriction, or disqualification may take effect immediately
-(1) The Board may order that an order under section 102 or 106(1)(b) to (d) take effect on the day of the making of the order.
-(2) If an order under section 102 or 106(1)(b) to (d) takes effect on the day of the making of the order, that fact does not make the person concerned liable to prosecution or disciplinary proceedings for any act done or omitted during any part of that day before the order was made.
+(1) The Board may order that an order under section 102 or 106(1)﻿(b) to (d) take effect on the day of the making of the order.
+(2) If an order under section 102 or 106(1)﻿(b) to (d) takes effect on the day of the making of the order, that fact does not make the person concerned liable to prosecution or disciplinary proceedings for any act done or omitted during any part of that day before the order was made.
 
 ### 110 Effect of disqualification
 (1) A person is not authorised to do, or assist in doing, sanitary plumbing, gasfitting, or drainlaying for the period for which the person is disqualified from doing or assisting in doing that work.
 (2) At the end of the period of disqualification, the person’s authorisation is immediately revived (unless there is some other ground to disqualify the person from doing, or assisting in doing, sanitary plumbing, gasfitting, or drainlaying or the person’s authorisation has otherwise ended).
 
 ### 111 Consequences of failure to comply with order to pass examination, complete competence programme, or attend course of instruction
-(1) If the Board makes an order under section 106(1)(e) and the person concerned fails to comply with the order, the Board may make either or both of the following orders:
+(1) If the Board makes an order under section 106(1)﻿(e) and the person concerned fails to comply with the order, the Board may make either or both of the following orders:
   (a) that the person’s registration, practising licence, or provisional licence be subject to any condition that the Board considers appropriate:
   (b) that the person’s registration, practising licence, or provisional licence be suspended.
 (2) The Board may not suspend registration or a licence under subsection (1) unless it has first—
@@ -1170,7 +1170,7 @@ Every fine imposed under section 106, and any sum payable to the Board under sec
   (b) given that person a reasonable opportunity to make written submissions and be heard on the question, either personally or by his or her representative.
 (3) The Registrar must ensure that a copy of the order made under subsection (1) is given to the person concerned.
 (4) An order made under subsection (1) takes effect from the day on which a copy of the order is given to the person concerned or from any date that is specified in the order, whichever is the later.
-(5) Any order made under subsection (1) remains in effect until the time that the person concerned has complied with the order under section 106(1)(e), and for that purpose the Board may extend the period within which the person is required to comply with the order.
+(5) Any order made under subsection (1) remains in effect until the time that the person concerned has complied with the order under section 106(1)﻿(e), and for that purpose the Board may extend the period within which the person is required to comply with the order.
 
 **Procedure and miscellaneous matters**
 
@@ -1190,8 +1190,8 @@ Every fine imposed under section 106, and any sum payable to the Board under sec
     (ii) any other person.
 (4) Every application to the Board under subsection (3) must be heard in private, but the other parties to the proceedings are entitled to be present and to make submissions with regard to the application.
 (5) If a hearing of the Board is held in private, the Board may allow any particular person to attend the private hearing if it is satisfied that the person has a special and proper interest in the matter to be heard.
-(6) Unless reversed or modified in respect of its currency by a court on an appeal, an order made under subsection (3)(b) to (d) continues in force until the time that is specified in the order, or, if no time is specified, until the Board, in its discretion, revokes it on the application of any party to the proceedings in which the order was made.
-(7) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who, without lawful excuse, breaches any order made by the Board under subsection (3)(b) to (d).
+(6) Unless reversed or modified in respect of its currency by a court on an appeal, an order made under subsection (3)﻿(b) to (d) continues in force until the time that is specified in the order, or, if no time is specified, until the Board, in its discretion, revokes it on the application of any party to the proceedings in which the order was made.
+(7) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who, without lawful excuse, breaches any order made by the Board under subsection (3)﻿(b) to (d).
 
 ### 114 Investigator to prosecute matter
 (1) If the investigator reports that in the investigator’s opinion a complaint should be considered by the Board, the matter must be prosecuted by the investigator at the hearing held by the Board under this subpart (unless the Board orders otherwise).
@@ -1286,7 +1286,7 @@ Every person who, being the holder of an employer licence, fails to comply with 
   (c) being a person registered or licensed or authorised in accordance with this Act, does any gasfitting that the person is not entitled to do under this Act; or
   (d) intentionally hinders or obstructs any authorised person in the exercise of any powers conferred by or under section 69 or 93 or any regulations in relation to any gasfitting.
 (3) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, being in possession of any limited certificate issued under Part 1 or any certificate of registration or licence issued under Part 2, fails or refuses to surrender it to the Board within 10 working days of a written demand to do so by the Registrar.
-(4) A charging document must not be filed under subsection (1)(b) or (2)(b) by any person other than the Registrar or a person authorised in writing in that behalf by the Board.
+(4) A charging document must not be filed under subsection (1)﻿(b) or (2)﻿(b) by any person other than the Registrar or a person authorised in writing in that behalf by the Board.
 
 ### 126 Certificate by Registrar to be evidence of various matters
 (1) A certificate purporting to be signed by the Registrar in relation to the matters referred to in subsection (2) is, until the contrary is proved, and without proof of the signature appended to the certificate, sufficient evidence of the matters specified in the certificate.
@@ -1322,7 +1322,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (2) An infringement notice may be served on a person—
   (a) by delivering it, or a copy of it, personally to the person who appears to have committed the infringement offence; or
   (b) by sending it, or a copy of it, by post, addressed to the person at the person’s last known place of residence or business.
-(3) An infringement notice sent under subsection (2)(b) must be treated as having been served on the person on the date it was posted.
+(3) An infringement notice sent under subsection (2)﻿(b) must be treated as having been served on the person on the date it was posted.
 (4) An infringement notice must be in the prescribed form and must contain—
   (a) details of the alleged infringement offence that are sufficient fairly to inform a person of the time, place, and nature of the alleged infringement offence; and
   (b) the amount of the infringement fee; and
@@ -1545,7 +1545,7 @@ The Minister must present a copy of the annual report given to him or her under 
 (2) However, a request may be refused if—
   (a) withholding the information is necessary to protect the privacy of any person (including a deceased person); and
   (b) there would, under the Official Information Act 1982, be good reason for withholding the information if—
-    (i) the request had been made under section 12 of that Act and section 9(2)(a) of that Act applied; and
+    (i) the request had been made under section 12 of that Act and section 9(2)﻿(a) of that Act applied; and
     (ii) the need to protect the privacy of any person were not outweighed by the Minister’s need to have the information in order to discharge the Minister's ministerial duties; and
   (c) the information relates to a particular matter in respect of which the Board or any person appointed or employed by the Board is required to act judicially.
 
@@ -1641,7 +1641,7 @@ Subject to any order of the court, every decision, direction, or order of the Bo
   (b) by sending it by facsimile or email to the person’s facsimile number or email address; or
   (c) by sending it by pre-paid post addressed to the person at the person’s usual or last known place of residence or business; or
   (d) in any other manner a District Court Judge directs.
-(2) In the absence of proof to the contrary, a notice, document, or notification sent by post to a person in accordance with subsection (1)(c) must be treated as having been given to, or served on, the person when it would have been delivered in the ordinary course of the post; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted.
+(2) In the absence of proof to the contrary, a notice, document, or notification sent by post to a person in accordance with subsection (1)﻿(c) must be treated as having been given to, or served on, the person when it would have been delivered in the ordinary course of the post; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted.
 (3) If a person is absent from New Zealand, a notice, document, or notification given to, or served on, the person’s agent in New Zealand in accordance with subsection (1) must be treated as having been given to, or served on, him or her.
 (4) If a person has died, the notice, document, or notification may be given or served, in accordance with subsection (1), to or on his or her personal representative.
 (5) This section applies unless a provision of this Act provides otherwise.
@@ -1697,8 +1697,8 @@ Subject to any order of the court, every decision, direction, or order of the Bo
   (l) prescribing transitional or savings provisions relating to the coming into force of this Act:
   (m) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) Any regulation made under subsection (1) may make different provisions in respect of different classes of persons.
-(3) Any transitional or savings provisions prescribed in regulations made under subsection (1)(l) are in addition to the provisions of sections 173 to 184.
-(4) All regulations made under subsection (1)(l) that are still in force on the day that is 3 years after the commencement of this section expire at the close of that day.
+(3) Any transitional or savings provisions prescribed in regulations made under subsection (1)﻿(l) are in addition to the provisions of sections 173 to 184.
+(4) All regulations made under subsection (1)﻿(l) that are still in force on the day that is 3 years after the commencement of this section expire at the close of that day.
 
 **Transitional provisions**
 
@@ -1710,7 +1710,7 @@ Subject to any order of the court, every decision, direction, or order of the Bo
 (3) A person who is deemed to be registered under subsection (1) may be issued with a practising licence under subpart 1 of Part 2 if the Board is satisfied that—
   (a) the person meets the standard of competence reasonably to be expected of a registered person who does work of the kind that the person would be authorised to do under the practising licence; and
   (b) the person is otherwise entitled to be issued with a practising licence under section 44(a) and (c) to (e).
-(4) In considering the matter under subsection (3)(a), the Board must have regard to any current applicable minimum standards for registration for a class of registration designated by the Board that, with or without modification, replaces, or corresponds to, the type of registration under the former Act in relation to which, immediately before the commencement of this section, the person was registered (if any).
+(4) In considering the matter under subsection (3)﻿(a), the Board must have regard to any current applicable minimum standards for registration for a class of registration designated by the Board that, with or without modification, replaces, or corresponds to, the type of registration under the former Act in relation to which, immediately before the commencement of this section, the person was registered (if any).
 (5) Nothing in this section prevents the Board from—
   (a) cancelling or suspending the registration of a person who is deemed to be registered under subpart 1 of Part 2; or
   (b) exercising any other power in relation to that registration under this Act.
@@ -1724,7 +1724,7 @@ Subject to any order of the court, every decision, direction, or order of the Bo
   (b) authorise that person to do, or assist in doing, work of the kind that the person was, immediately before the commencement of this section, permitted to do, or assist in doing, by virtue of his or her registration and licence under the former Act (as in force immediately before the commencement of this section); and
   (c) authorise the person to supervise or direct sanitary plumbing, gasfitting, or drainlaying work if the person was authorised under or for the purposes of the former Act to supervise or direct that work; and
   (d) be subject to any conditions, limitations, or restrictions that, immediately before the commencement of this section, were imposed by or under the former Act on the person’s registration or licence.
-(4) If, as a result of a condition, limitation, or restriction of a kind referred to in subsection (3)(d) or section 175(2)(c), a person is required to do—
+(4) If, as a result of a condition, limitation, or restriction of a kind referred to in subsection (3)﻿(d) or section 175(2)﻿(c), a person is required to do—
   (a) sanitary plumbing under the direction of a craftsman plumber, that work may be done under the direction of—
     (i) a person who, immediately before the commencement of this section, was a craftsman plumber and who holds a current practising licence under this Act; or
     (ii) a person authorised by the Board for the purposes of this paragraph by written notice to the authorised person; or
@@ -1735,8 +1735,8 @@ Subject to any order of the court, every decision, direction, or order of the Bo
     (iii) a person, or a member of a class of persons, authorised by the Board for the purposes of this paragraph by notice in the Gazette.
 (5) The practising licence that a person is deemed to hold under subsection (1) may be renewed if the Board is satisfied that—
   (a) the person meets the standard of competence reasonably to be expected of a registered person who does work of the kind that the person is authorised to do under the practising licence; and
-  (b) the person is otherwise entitled to a renewal of his or her practising licence under section 51(1)(a), (c) to (e), and (4) to (6).
-(6) In considering the matter under subsection (5)(a), the Board must have regard to any current applicable minimum standards for registration for a class of registration designated by the Board that, with or without modification, replaces, or corresponds to, the type of registration under the former Act in relation to which the person was registered (if any).
+  (b) the person is otherwise entitled to a renewal of his or her practising licence under section 51(1)﻿(a), (c) to (e), and (4) to (6).
+(6) In considering the matter under subsection (5)﻿(a), the Board must have regard to any current applicable minimum standards for registration for a class of registration designated by the Board that, with or without modification, replaces, or corresponds to, the type of registration under the former Act in relation to which the person was registered (if any).
 (7) Subsection (2) is subject to section 50(3).
 (8) Nothing in this section prevents the Board from—
   (a) cancelling or suspending the registration or practising licence of a person who is deemed to be a registered person who holds a practising licence issued under subpart 1 of Part 2; or
@@ -1806,7 +1806,7 @@ Subject to any order of the court, every decision, direction, or order of the Bo
 ### 181 Continuation of pending investigations, inquiries, and disciplinary proceedings
 (1) All investigations, inquiries, and disciplinary proceedings under the former Act that have been commenced before the commencement of this section and that have not been completed before that commencement are to be continued and completed as if this Act had not been enacted.
 (2) The Board and every other body or person appointed, constituted, or acting under the former Act in respect of complaints and disciplinary proceedings continues to have and may exercise all its, his, or her powers, functions, and duties under that Act for the purpose of giving effect to subsection (1).
-(3) However, if a complaint or disciplinary proceeding continued under this section relates to a person who is deemed, under any of sections 173 to 175, to be a registered person or to hold a practising licence or a provisional licence, the Board’s power to discipline the person includes the power to make an order under section 106(1)(a) to (e) in relation to that registration, practising licence, or provisional licence.
+(3) However, if a complaint or disciplinary proceeding continued under this section relates to a person who is deemed, under any of sections 173 to 175, to be a registered person or to hold a practising licence or a provisional licence, the Board’s power to discipline the person includes the power to make an order under section 106(1)﻿(a) to (e) in relation to that registration, practising licence, or provisional licence.
 
 ### 182 Complaints about conduct before commencement of this section
 (1) The Board may deal with a complaint about the conduct of a former registered person, or person who, immediately before the commencement of this section, held a provisional licence under the former Act, under Part 3, even though the conduct is alleged to have occurred before the commencement of this section.
@@ -1821,7 +1821,7 @@ Subject to any order of the court, every decision, direction, or order of the Bo
   (a) at the time of the occurrence of the conduct, the person was registered or held a licence under the former Act and the complaint could have been referred to the Board under that Act; and
   (b) the complaint had not been referred to the Board before the commencement of this section.
 (2) If, after conducting a hearing on a complaint of the kind referred to in subsection (1), the Board finds the person guilty of a disciplinary offence under Part 3 in respect of conduct that occurred before the commencement of this section, the Board may not impose on that person, in respect of that conduct, any order in the nature of a penalty that could not have been made against that person at the time when the conduct occurred.
-(3) However, if a hearing under this section relates to a person who is deemed, under any of sections 173 to 175, to be a registered person or to hold a practising licence or a provisional licence, the Board’s power to discipline the person includes the power to make an order under section 106(1)(a) to (e) in relation to that registration, practising licence, or provisional licence.
+(3) However, if a hearing under this section relates to a person who is deemed, under any of sections 173 to 175, to be a registered person or to hold a practising licence or a provisional licence, the Board’s power to discipline the person includes the power to make an order under section 106(1)﻿(a) to (e) in relation to that registration, practising licence, or provisional licence.
 
 ### 184 Notices made under repealed provisions to have continuing effect
 (1) A notice made under section 54 of the former Act that is in force immediately before the repeal of that section continues in force as if it had been made under section 15 until it is revoked.
