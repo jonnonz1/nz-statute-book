@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2016-04-04_
 
 > Title
 
@@ -77,6 +77,7 @@ Schedule 1 contains savings and transitional provisions that affect other provis
   - **gold** includes any substance containing gold, or having gold mixed in it
   - **gold fossicking area** means any area designated under section 98 or 98A to be a gold fossicking area
   - **good industry practice** , in relation to an activity, means acting in a manner that is technically competent and at a level of diligence and prudence reasonably and ordinarily exercised by experienced operators engaged in a similar activity and under similar circumstances, but (for the purposes of this Act) does not include any aspect of the activity regulated under environmental legislation
+  - **health and safety regulator** has the same meaning as regulator in section 16 of the Health and Safety at Work Act 2015
   - **in** , in relation to land, means on or under the surface of land
   - **industrial rocks and building stones** includes aggregate, basalt, diatomite, dunite, granite, limestone, marble, perlite, pumice, sandstone, serpentine, slate, sand, and gravel
   - **initial permit** means a permit that is not a subsequent permit
@@ -183,7 +184,7 @@ Schedule 1 contains savings and transitional provisions that affect other provis
   - **silver** includes any substance containing silver, or having silver mixed in it, other than a substance that also contains gold or has gold mixed in it
   - **special purpose mining activity** means an activity carried out to demonstrate historical mining methods
   - **specified Act** means the—
-    (a) Health and Safety in Employment Act 1992:
+    (a) Health and Safety at Work Act 2015:
     (b) Maritime Transport Act 1994:
     (c) Resource Management Act 1991:
     (d) Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
@@ -200,8 +201,7 @@ Schedule 1 contains savings and transitional provisions that affect other provis
   - **working day** means any day except—
     (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
-    (b) a day in the period commencing with 20 December in any year and ending with 15 January in the following year
-  - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
+    (b) a day in the period commencing with 20 December in any year and ending with 15 January in the following year.
 (2)
 (3)
 (4) In this Act, unless the context otherwise requires,—
@@ -505,7 +505,7 @@ Where the Minister considers it appropriate to do so, the Minister may require t
   (d) in the case of a Tier 1 permit for exploration or mining, that the proposed permit operator has, or is likely to have, by the time the relevant work in any granted permit is undertaken, the capability and systems that are likely to be required to meet the health and safety and environmental requirements of all specified Acts for the types of activities proposed under the permit.
 (3) For the purposes of the Minister satisfying himself or herself of the matter in subsection (2)﻿(d), the Minister—
   (a) is only required to undertake a high-level preliminary assessment; and
-  (b) must seek the views of WorkSafe and may, but is not required to, obtain the views of any other regulatory agency; and
+  (b) must seek the views of the health and safety regulator and may, but is not required to, obtain the views of any other regulatory agency; and
   (c) may, but is not required to, rely on the views of the regulatory agencies; and
   (d) is not required to duplicate any assessment process that a regulatory agency may be required to undertake in accordance with a specified Act.
 (4) To avoid doubt, subsection (2)﻿(d) does not limit, have any effect on, or have any bearing on—
@@ -569,7 +569,7 @@ Every permit holder shall be the owner of all minerals lawfully obtained by or o
   (a) comply with—
     (i) the conditions of the permit; and
     (ii) this Act and the regulations; and
-    (iii) the Health and Safety in Employment Act 1992 and regulations made under that Act; and
+    (iii) the Health and Safety at Work Act 2015 and regulations made under that Act; and
   (b) perform activities under the permit in accordance with good industry practice; and
   (c) submit royalty returns, and pay royalties; and
   (d) keep records for at least 7 years after the year to which they relate or for at least 2 years after the permit to which they relate ceases to be in force, whichever is the longer; and
@@ -577,19 +577,21 @@ Every permit holder shall be the owner of all minerals lawfully obtained by or o
 (2) Subsection (3) applies if the permit holder is 2 or more persons.
 (3) Each person to whom this subsection applies is jointly and severally liable to comply with and perform the obligations of the permit holder under the permit, this Act, and the regulations.
 
-### 33A Exercise of permit conditional on clearance from WorkSafe
-(1) Subsection (2) applies if the Health and Safety in Employment Act 1992, or regulations made under that Act, expressly provide that WorkSafe must give its approval or consent before an activity can be carried out and the activity is an activity of a type authorised under a permit.
+### 33A Exercise of permit conditional on authorisation
+(1) This section applies if—
+  (a) in accordance with regulations made under the Health and Safety at Work Act 2015 an activity must be authorised (as defined in section 203 of that Act); and
+  (b) the activity is an activity of a type authorised under a permit; and
+  (c) the regulations referred to in paragraph (a) specify that it is an authorisation for the purposes of this section.
 (2) Despite the activity being authorised under a permit, it must not be carried out until—
-  (a) WorkSafe has given its approval or consent (in respect of the requirements of the Health and Safety in Employment Act 1992 or regulations made under that Act); and
-  (b) WorkSafe has advised the chief executive that it has given its approval or consent; and
-  (c) the chief executive has notified the permit holder of WorkSafe's advice.
+  (a) it has been authorised in accordance with subpart 2 of Part 5 of the Health and Safety at Work Act 2015 or regulations made under that Act; and
+  (b) the health and safety regulator has advised the chief executive that the activity has been so authorised; and
+  (c) the chief executive has notified the permit holder of the health and safety regulator's advice.
 
-### 33B WorkSafe to notify chief executive of breaches of legislation
-(1) WorkSafe must notify the chief executive if—
-  (a) a permit holder is issued with a prohibition notice under the Health and Safety in Employment Act 1992; or
-  (b) an enforcement action is taken against the permit holder under that Act.
-(2) Nothing in this Act derogates from WorkSafe's responsibility for the administration and enforcement of that Act.
-(3) In this section, prohibition notice and enforcement action have the meanings given by section 2(1) of the Health and Safety in Employment Act 1992.
+### 33B Health and Safety regulator to notify chief executive of breaches of legislation
+(1) The health and safety regulator must notify the chief executive if—
+  (a) a permit holder is issued with a prohibition notice under section 105 of the Health and Safety at Work Act 2015; or
+  (b) an enforcement action (as defined in section 141 of that Act) is taken against the permit holder under that Act.
+(2) Nothing in this Act derogates from the health and safety regulator's responsibility for the administration and enforcement of the Health and Safety at Work Act 2015.
 
 ### 33C Iwi engagement reports
 (1) Every holder of a Tier 1 permit must provide to the Minister an annual report of the holder's engagement with iwi or hapū whose rohe includes some or all of the permit area or who otherwise may be directly affected by the permit.
@@ -846,8 +848,8 @@ The Minister may—
   (a) if the Minister is satisfied that the permit holder, given the change in permit operator, is likely to—
     (i) comply with, and give proper effect to, the work programme for the permit; and
     (ii) comply with the relevant obligations under this Act or the regulations in respect of reporting and the payment of fees and royalties; and
-  (b) if the change of operator relates to a Tier 1 permit for exploration or mining, if WorkSafe—
-    (i) is satisfied that any requirements of the Health and Safety in Employment Act 1992, or regulations made under that Act, that the proposed operator must meet before carrying out day-to-day management of activities under the permit have been, or are likely to be, met; and
+  (b) if the change of operator relates to a Tier 1 permit for exploration or mining, if the health and safety regulator—
+    (i) is satisfied that any requirements of the Health and Safety at Work Act 2015, or regulations made under that Act, that the proposed operator must meet before carrying out day-to-day management of activities under the permit have been, or are likely to be, met; and
     (ii) has advised the chief executive that it is so satisfied.
 
 ### 41D General provisions relating to transfers, dealings, and changes of permit operator
@@ -1348,9 +1350,9 @@ Any person may, for the purpose of inspection, have access to any document recor
 (4) A permit holder must, if requested to do so, provide evidence to satisfy the chief executive that any information supplied to him or her by the permit holder under section 90 was purchased or licensed information from a speculative prospector.
 
 ### 90E Providing information to regulatory agencies
-(1) The Minister, an appropriate Minister, or the chief executive may provide to WorkSafe any information, or a copy of any document, that he or she—
+(1) The Minister, an appropriate Minister, or the chief executive may provide to the health and safety regulator any information, or a copy of any document, that he or she—
   (a) holds in relation to the performance or exercise of his or her functions, duties, or powers under this Act that relate to a permit or an application for a permit; and
-  (b) considers may assist WorkSafe's chief executive in the performance or exercise of his or her functions, duties, or powers under the Health and Safety in Employment Act 1992.
+  (b) considers may assist the health and safety regulator in the performance or exercise of the regulator’s functions, duties, or powers under any relevant health and safety legislation (as defined in section 16 of the Health and Safety at Work Act 2015).
 (2) The Minister, an appropriate Minister, or the chief executive may provide to Maritime New Zealand any information, or a copy of any document, that he or she—
   (a) holds in relation to the performance or exercise of his or her functions, duties, or powers under this Act that relate to a permit or an application for a permit; and
   (b) considers may assist the Director of Maritime New Zealand in the performance or exercise of his or her or Maritime New Zealand's functions, duties, or powers under the Maritime Transport Act 1994.
@@ -1555,7 +1557,7 @@ Every permit holder must—
 ### 99J Interest on unpaid money
 (1) If a permit holder does not fully pay, by the due date, all fees and other money payable by the holder to the Crown under this Act or the regulations (the original amount), the chief executive may make a written demand for the payment of interest on the part of the original amount that remains unpaid.
 (2) The permit holder is liable for the interest payable and the interest must be calculated for every month or part of a month after the due date during which the original amount remains unpaid in full.
-(3) Interest must be calculated in accordance with the following formula:a = b × c12where—ais the interest payablebis any part of the original amount that remains unpaid at the end of the month for which the interest is calculatedcis the taxpayer's paying rate, as defined in section 120C of the Tax Administration Act 1994.
+(3) Interest must be calculated in accordance with the following formula:The following table contains a formula.a = b × c12where—ais the interest payablebis any part of the original amount that remains unpaid at the end of the month for which the interest is calculatedcis the taxpayer's paying rate, as defined in section 120C of the Tax Administration Act 1994.
 (4) In the case of royalties where the amount payable was assessed or amended under section 99I, interest must be calculated from the date on which the amount of royalties was originally due.
 (5) Any payment the chief executive receives or applies on account of a permit holder’s liability to pay an original amount must first be applied towards payment of the interest.
 
@@ -2017,7 +2019,7 @@ This subpart applies to existing privileges in replacement of all provisions con
 (2) New sections 33C, 33D, and 90 apply to each existing privilege as if the existing privilege were a permit and the holder of the privilege a permit holder and, for the purpose of those sections, new sections 2B to 2D also apply.
 (3) New sections 99B to 99G and 99I to 99M apply to each existing privilege as if the existing privilege were a permit and the holder of the privilege a permit holder, but the reference in new section 99C to an offence against the principal Act must be read as a reference to an offence against the relevant Act referred to in the definition of existing privilege in section 2.
 
-### 15 Administration of existing privileges in respect of Resource Management Act 1991 and Health and Safety in Employment Act 1992 matters
+### 15 Administration of existing privileges in respect of Resource Management Act 1991 and Health and Safety at Work Act 2015 matters
 (1) Subject to clause 16, the functions, powers, and duties—are exercisable or performable by the appropriate consent authority and the provisions of the Resource Management Act 1991 relating to the existing privilege, with all necessary modifications, apply accordingly.
   (a) that, before the commencement of the principal Act, would have been exercisable or performable by the Minister of Energy in respect of an existing privilege, or of any condition of an existing privilege, or of any provisions of an Act that relate to an existing privilege; and
   (b) that concern matters that are within the functions of a local authority under section 30 or 31 of the Resource Management Act 1991—
@@ -2026,12 +2028,14 @@ This subpart applies to existing privileges in replacement of all provisions con
 (4) Before a consent authority varies the terms and conditions of an existing privilege, or takes any enforcement action against the holder of an existing privilege in respect of the existing privilege, the consent authority must give written notice to the Minister of the proposed action and the reasons for it.
 (5) A failure to comply with subclause (3) or (4) does not invalidate any variation or enforcement action.
 (6) A local authority has, for the purposes of exercising or performing its functions, powers, and duties in relation to an existing privilege under this section, all of the powers conferred on an enforcement officer by section 332 of the Resource Management Act 1991.
-(7) Despite clause 12(1)﻿(d) or section 4 of the Health and Safety in Employment Act 1992, the functions, powers, and duties that—are exercisable or performable by an Inspector in relation to the existing privilege and that Act applies accordingly with any necessary modifications.
-  (a) before the commencement of the Health and Safety in Employment Act 1992, would have been exercisable or performable by any person in respect of an existing privilege; and
-  (b) concern matters that are within the functions, powers, and duties of an Inspector holding office under section 29(1) of the Health and Safety in Employment Act 1992—
+(7) Despite clause 12(1)﻿(d) or section 4 of the Health and Safety in Employment Act 1992,—
+  (a) the health and safety regulator or an inspector may exercise or perform the functions, powers, and duties—
+    (i) that would have been exercisable or performable by any person in respect of an existing privilege before the commencement of the Health and Safety in Employment Act 1992; and
+    (ii) that concern matters that are within the functions, powers, and duties of the regulator or an inspector under the Health and Safety at Work Act 2015 or the WorkSafe New Zealand Act 2013; and
+  (b) the Acts referred to in paragraph (a)﻿(ii) apply accordingly with any necessary modifications.
 (8) Despite clause 12(1)﻿(d), the functions, powers, and duties—are exercisable or performable by the chief executive, and the provisions of the Act relating to the existing privilege apply accordingly, with any necessary modifications.
   (a) that before the commencement of the principal Act would have been exercisable or performable by an Inspector and that would have arisen in respect of an existing privilege, or of any condition of an existing privilege, or of any provisions of an Act that relate to an existing privilege; and
-  (b) that concern matters that are not within the functions of a local authority under section 30 or 31 of the Resource Management Act 1991 or an Inspector under section 29(1) of the Health and Safety in Employment Act 1992—
+  (b) that concern matters that are not within the functions of a local authority under section 30 or 31 of the Resource Management Act 1991 or the regulator or an inspector under the Health and Safety at Work Act 2015 or the WorkSafe New Zealand Act 2013—
 (9) References in this section to the Minister include references to any statutory officer appointed under the Act under which the existing privilege was granted.
 
 ### 16 Bonds and monetary deposits
