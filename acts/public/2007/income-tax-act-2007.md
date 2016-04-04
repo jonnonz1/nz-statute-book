@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2016-04-01_
+_Consolidation as at 2016-04-04_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -1789,7 +1789,7 @@ Capital losses amount: when capital losses arise
 Capital losses amount: herd scheme
 (9B) For the purposes of this section, a company incurs a capital loss if it incurs a loss that is attributable to the difference between the consideration for disposal or acquisition of livestock and the value of that livestock under section EC 4C.
 Capital losses amount: company existing before 1 April 1988
-(10) In the case of a company that existed before 1 April 1988, the capital losses amount cannot be more than the total of —
+(10) In the case of a company that existed before 1 April 1988, the capital losses amount cannot be more than the total of—
   (a) the amount of the capital gains item in the formula in subsection (1) to the extent derived after 31 March 1988; and
   (b) the amount of the capital property distributed item, minus the amount of the cost item, in the formula.
 Associated persons transactions
@@ -4677,7 +4677,7 @@ Premises of person
 ### CX 24 Benefits related to health or safety
 A benefit that an employer provides to an employee is not a fringe benefit to the extent to which it—
   (a) is related to the employee’s health or safety; and
-  (b) is aimed at hazard management in the workplace as contemplated in the Health and Safety in Employment Act 1992; and
+  (b) is aimed at managing risks to health and safety in the workplace as provided under the Health and Safety at Work Act 2015; and
   (c) would be excluded by section CX 23 from being a fringe benefit if provided on the employer’s premises.
 
 ### CX 25 Benefits provided by charitable organisations
@@ -9683,7 +9683,7 @@ Link with subpart DA
 ### DZ 19 Attributed CFC loss carried back under section EZ 32C
 [Repealed]
 
-### DZ 20 Expenditure incurred while income-earning activity interrupted by Canterbury earthquake)
+### DZ 20 Expenditure incurred while income-earning activity interrupted by Canterbury earthquake
 When this section applies
 (1) This section applies for a person and an income year (the current year) before the 2019–20 income year when—
   (a) the person has an income-earning activity in greater Christchurch (as defined in section 4 of the Canterbury Earthquake Recovery Act 2011) immediately before a Canterbury earthquake (as defined in that section); and
@@ -21909,7 +21909,7 @@ Pre-transfer deductions for depreciation loss and amortisation
 
 ### FM 16 Land or business: certain farming or forestry expenditure
 When this section applies
-(1) This section applies in an income year when 2 companies (company A and company B) are in the same consolidated group for the whole of the income year, and —
+(1) This section applies in an income year when 2 companies (company A and company B) are in the same consolidated group for the whole of the income year, and—
   (a) company A transfers land to company B, and company B holds the land for the remainder of the income year; or
   (b) company A stops carrying on a business, and company B carries on the business for the remainder of the income year.
 Deductions for certain farming and forestry expenditure
@@ -31968,7 +31968,7 @@ Definition of items in formula
   (a) total dividends is the total amount of all dividends derived in the circumstances set out in subsection (2), including imputation credits and FDP credits attached to the dividends:
   (b) taxable income is the taxable income of the company for the income year in which the dividends are derived:
   (c) tax liability is the company’s income tax liability for the income year:
-  (d) debits is the imputation credits attached to the dividends that have been cancelled by an imputation debit arising during the income year under —
+  (d) debits is the imputation credits attached to the dividends that have been cancelled by an imputation debit arising during the income year under—
     (i) section OB 41 in the company’s imputation credit account; or
     (ii) section OP 42 in the imputation credit account of the consolidated imputation group of which the company is part.
 Table references
@@ -40597,7 +40597,7 @@ In this Act, unless the context requires otherwise,—
   - **non-discretionary trust** is defined in section HC 16(8) (Ordering rule for distributions from non-complying and foreign trusts) for the purposes of that section
   - **non-executive director** is defined in section CD 20(4) (Benefits of shareholder-employees or directors)
   - **non-filing taxpayer** means—
-    (a) a person to whom section 33A(1) or (1B) of the Tax Administration Act 1994 applies and to whom 1 of the following applies:
+    (a) a person who meets the requirements of section 33AA(1) or 33D of the Tax Administration Act 1994 and to whom 1 of the following applies:
       (i) they do not receive an income statement for a tax year; or
       (ii) the Commissioner is not required to send them an income statement for a tax year; or
       (iii) the Commissioner is prohibited from sending them an income statement for a tax year; or
@@ -42051,7 +42051,7 @@ Person other than company
 
 ### YB 4 Two relatives
 Degree of relationship
-(1) Two persons are associated persons if —
+(1) Two persons are associated persons if—
   (a) they are within 2 degrees of blood relationship:
   (b) they are married, in a civil union, or in a de facto relationship:
   (c) 1 person is within 2 degrees of blood relationship to the other person's spouse, civil union partner, or de facto partner.
@@ -44294,7 +44294,7 @@ A foreign dividend payment (FDPA) company must, not later than the time allowed 
 (2) The taxpayer must provide with the application under subsection (1) information that is necessary to determine the amount of the credit.
 
 ### 78C Disclosure when changes occur
-A taxpayer must provide to the Commissioner, as soon as possible, all relevant information if —
+A taxpayer must provide to the Commissioner, as soon as possible, all relevant information if—
   (a) an amount referred to in section LJ 6 of the Income Tax Act 2007 is changed; and
   (b) the change occurs after the taxpayer has made an application under section 78B.
 
@@ -50689,20 +50689,8 @@ This Act comes into force on 1 April 2008.
 
 ## Part 1 — Amendments to Income Tax Act 2007
 
-### 4 New section CB 27B
-(1) Amendment incorporated in the principal Act.
-(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
-
 ### 5 New heading and section CB 35 added
 (1) Amendments incorporated in the principal Act.
-(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
-
-### 6 Meaning of asset for sections CU 3 to CU 10
-(1) Amendment incorporated in the principal Act.
-(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
-
-### 7 Amount treated as repayment for purposes of section CU 17: net income
-(1) Amendment incorporated in the principal Act.
 (2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
 
 ### 8 New heading and section CW 55B added
@@ -50715,14 +50703,6 @@ This Act comes into force on 1 April 2008.
 
 ### 10 New heading and section DV 20 added
 (1) Amendments incorporated in the principal Act.
-(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
-
-### 11 New section DO 11B inserted
-(1) Amendment incorporated in the principal Act.
-(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
-
-### 12 Meaning of asset for sections DU 1 to DU 7
-(1) Amendment incorporated in the principal Act.
 (2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
 
 ### 13 Financial arrangements, income, and expenditure relevant to criteria
@@ -50767,34 +50747,11 @@ This Act comes into force on 1 April 2008.
 
 ### 23 Definitions
 (1) This section amends section YA 1.
-(2) Amendment incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendment incorporated in the principal Act.
-(6) Amendment incorporated in the principal Act.
-(7) Amendment incorporated in the principal Act.
-(8) Amendments incorporated in the principal Act.
-(9) Amendment incorporated in the principal Act.
-(10) Amendment incorporated in the principal Act.
-(11) Amendments incorporated in the principal Act.
-(12) Amendment incorporated in the principal Act.
-(13) Amendments incorporated in the principal Act.
-(14) Amendment incorporated in the principal Act.
+(2)–(14) Amendment incorporated in the principal Act.
 (15) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsections (2) to (14) apply for income years starting on and after 1 April 2008.
 
-### 24 Partnerships: partnership and partner
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsections (1) and (2) apply for income years starting on and after 1 April 2008.
-
-### 25 Partnerships: partnership and associate of partner
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsections (1) and (2) apply for income years starting on and after 1 April 2008.
-
 ### 26 Classes of income treated as having New Zealand source
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsections (1) and (2) apply for income years starting on and after 1 April 2008.
 
 ### 1 Title
@@ -50844,48 +50801,16 @@ In this Part, other than sections 4 and 9,—
 (1) Amendment incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 income year and later income years.
 
-### 26 Child's income
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsection (1) applies for the 2008–09 income year and later income years.
-(4) Subsection (2) applies for the 2009–10 income year and later income years.
-
-### 27 Tax credits for absentees
-(1) Amendment incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 income year and later income years.
-
-### 28 Adjustment for change in return date
-(1) Amendment incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 income year and later income years.
-
-### 29 Adjustment when person is non-resident for part of tax year
-(1) Amendment incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 income year and later income years.
-
-### 30 Adjustment when person is non-resident
-(1) Amendment incorporated in the principal Act.
-(2) Amendment incorporated in the principal Act.
-(3) Subsections (1) and (2) apply for the 2008–09 income year and later income years.
-
 ### 32 Tax credits for supplementary dividends
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 income year and later income years.
-
-### 33 New sections MF 4B and MF 4C
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 income year.
 
 ### 34 Meaning of net family scheme income
 (1) Amendment incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 income year and later income years.
 
-### 36 Calculation of maximum permitted ratios
-(1) Amendment incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 income year and later income years.
-
 ### 37 Tax credits for non-resident investors
-(1) Amendment incorporated in the principal Act.
-(2) Amendment incorporated in the principal Act.
+(1), (2) Amendment incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2008–09 income year and later income years.
 
 ### 38 Payment dates for terminal tax
@@ -50893,83 +50818,12 @@ In this Part, other than sections 4 and 9,—
 (2) Subsection (1) applies for the 2008–09 income year and later income years.
 
 ### 43 Calculation of all-inclusive pay
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2008–09 income year and later income years.
 
 ### 44 Resident passive income
-(1) Amendment incorporated in the principal Act.
-(2) Amendment incorporated in the principal Act.
+(1), (2) Amendment incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2008–09 income year and later income years.
-
-### 47 New sections RZ 5B and RZ 5C
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for provisional tax instalments payable on or after 1 October 2008.
-
-### 48 Definitions
-(1) This section amends section YA 1.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Subsections (2) and (3)﻿(a) apply for the 2008–09 income year and later income years.
-
-### 49 Treatment of qualifying company election tax, FBT, FDP penalty tax, imputation penalty tax, and withdrawal tax
-(1) Amendment incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 income year and later income years.
-
-### 1 Title
-This order is the Income Tax (Minimum Family Tax Credit) Order 2008.
-
-### 2 Commencement
-This order comes into force on 1 April 2009.
-
-### 3 Increase of prescribed amount in formula for minimum family tax credit
-(1) Amendment incorporated in the principal Act.
-(2) Subclause (1) applies in respect of the 2009–10 tax year and later tax years.
-
-### 1 Title
-This Act is the Taxation (Urgent Measures and Annual Rates) Act 2008.
-
-### 2 Commencement
-(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
-(2) In Part 1, other than sections 3, 4, and 15,—
-  (a) the subsections (1) of the sections come into force on 1 April 2009:
-  (b) the subsections (2) of the sections come into force on 1 April 2010:
-  (c) the subsections (3) of the sections come into force on 1 April 2011.
-(3) In Part 2,—
-  (a) sections 24, 27, and 28 are treated as coming into force on 19 December 2007:
-  (b) section 19(1)﻿(a) and (b) is treated as coming into force on 1 April 2008:
-  (c) sections 19(1)﻿(c), 21, 25, and 26 come into force on 1 April 2009:
-  (d) sections 19(1)﻿(d), 20(2) to (7), and 22 come into force on 1 October 2009.
-(4) In Part 3,—
-  (a) sections 33(1) and 40 are treated as coming into force on 1 April 2008:
-  (b) section 41 is treated as coming into force on 29 May 2008:
-  (c) sections 34 and 35 are treated as coming into force on 1 October 2008:
-  (d) sections 29, 31, 33(2), 36(2), 37, and 39 come into force on 1 April 2009:
-  (e) section 32 comes into force on 1 April 2010.
-(5) In Part 4, sections 43, 44, 45, 46, 48, 50, 52, 53, 54, 55, 56(2) and (3), 57, and 58 come into force on 1 April 2009.
-
-## Part 2 — Research and development tax credits repeal
-
-**Amendments to Income Tax Act 2007**
-
-### 19 Subpart LH—Tax credits for expenditure on research and development
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1)﻿(a) and (b) applies for the 2008–09 income year and later income years.
-(3) Subsection (1)﻿(c) applies for the 2009–10 income year and later income years.
-
-### 21 Some definitions
-(1) Amendment incorporated in the principal Act.
-(2) Subsection (1) applies for the 2009–10 income year and later income years.
-
-## Part 3 — Annual rates, independent earner tax credit, and consequential personal tax cuts amendments
-
-**Annual rates of income tax for 2009–10 tax year**
-
-### 29 Rates of income tax for 2009–10 tax year
-(1) Income tax imposed by section BB 1 of the Income Tax Act 2007 must, for the 2009–10 tax year, be paid at the basic rates specified in schedule 1 of that Act.
-(2) Section 61 of the Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008 is repealed.
 
 ### 1 Title
 This Act is the Taxation (Business Tax Measures) Act 2009.
@@ -50991,8 +50845,7 @@ This Act is the Taxation (Business Tax Measures) Act 2009.
 (2) Subsection (1) applies for the 2009–10 income year and later income years.
 
 ### 5 Valuing closing stock under $5,000
-(1) Amendment incorporated in the principal Act.
-(2) Amendment incorporated in the principal Act.
+(1), (2) Amendment incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2009–10 income year and later income years.
 
 ### 6 When use of spreading method not required
@@ -51004,8 +50857,7 @@ This Act is the Taxation (Business Tax Measures) Act 2009.
 (2) Subsection (1) applies for the 2009–10 income year and later income years.
 
 ### 8 Consistency of use of straight-line method and market valuation method
-(1) Amendment incorporated in the principal Act.
-(2) Amendment incorporated in the principal Act.
+(1), (2) Amendment incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2009–10 income year and later income years.
 
 ### 9 Section EW 54 replaced
@@ -51017,17 +50869,11 @@ This Act is the Taxation (Business Tax Measures) Act 2009.
 (2) Subsection (1) applies for the 2009–10 income year and later income years.
 
 ### 11 Thresholds
-(1) Amendment incorporated in the principal Act.
-(2) Amendment incorporated in the principal Act.
-(3) Amendment incorporated in the principal Act.
-(4) Amendment incorporated in the principal Act.
+(1)–(4) Amendment incorporated in the principal Act.
 (5) Subsections (1) to (3) apply for the 2009–10 income year and later income years.
 
 ### 12 Financial arrangements, income, and expenditure relevant to criteria
-(1) Amendment incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendment incorporated in the principal Act.
 (5) Subsections (1) to (4) apply for the 2009–10 income year and later income years.
 
 ### 13 Section EW 59 replaced
@@ -51035,8 +50881,7 @@ This Act is the Taxation (Business Tax Measures) Act 2009.
 (2) Subsection (1) applies for the 2009–10 income year and later income years.
 
 ### 14 Trustee of deceased's estate
-(1) Amendment incorporated in the principal Act.
-(2) Amendment incorporated in the principal Act.
+(1), (2) Amendment incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2009–10 income year and later income years.
 
 ## Part 2 — Minor remedial matters
@@ -51045,19 +50890,19 @@ This Act is the Taxation (Business Tax Measures) Act 2009.
 
 ### 29 Employer's liability for attributed benefits
 (1) Amendment incorporated in the principal Act.
-(2) In section RD 50(5), 61.29% is replaced by 58.73%.
+(2)
 (3) Subsection (1) applies for the 2009–10 income year and later income years.
 (4) Subsection (2) applies for the 2010–11 income year and later income years.
 
 ### 30 Calculation for certain employees when information lacking
 (1) Amendment incorporated in the principal Act.
-(2) In section RD 52(3)﻿(b), 61.29% is replaced by 58.73%.
+(2)
 (3) Subsection (1) applies for the 2009–10 income year and later income years.
 (4) Subsection (2) applies for the 2010–11 income year and later income years.
 
 ### 31 Pooling non-attributed benefits
 (1) Amendment incorporated in the principal Act.
-(2) In section RD 53(4)﻿(a), 61% is replaced by 59%.
+(2)
 (3) Subsection (1) applies for the 2009–10 income year and later income years.
 (4) Subsection (2) applies for the 2010–11 income year and later income years.
 
@@ -51103,18 +50948,12 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 ## Part 1 — Amendments to Income Tax Act 2007
 
 ### 5 Withholding liabilities
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Amendments incorporated in the principal Act.
+(1)–(6) Amendments incorporated in the principal Act.
 (7) Subsections (1) and (2) apply for the 2008–09 and later income years.
 (8) Subsection (3) applies for all income years beginning on or after 1 July 2009.
 
 ### 6 Other obligations
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 9 Section CB 27B repealed
@@ -51126,8 +50965,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 12 What is a transfer of value?
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 14 Section CD 21 repealed
@@ -51139,16 +50977,12 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 17 Property made available intra-group
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies for the 2010–11 and later income years.
 (5) Subsection (2) applies for all income years beginning on or after 1 July 2009.
 
 ### 20 Available subscribed capital (ASC) amount
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 22 Heading and sections CD 45 to CD 52 repealed
@@ -51156,16 +50990,11 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 23 Prevention of double taxation of share cancellation dividends
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for all income years beginning on or after 1 July 2009.
 
 ### 24 Amounts derived in connection with employment
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) to (3) apply for the 2008–09 and later income years.
 
 ### 27 New subpart CO inserted
@@ -51173,16 +51002,11 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2009–10 and later income years.
 
 ### 29 When attributed CFC income arises
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsections (1) to (4) apply for all income years beginning on or after 1 July 2009.
 
 ### 30 When FIF income arises
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 33 Sections CR 1 and CR 2 replaced
@@ -51201,43 +51025,17 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
     (i) on and after 1 July 2010, unless subparagraph (ii) applies:
     (ii) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
-### 35 Withdrawals
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Subsections (1) and (2) apply for the 2008–09 and later income years.
-
-### 36 Exclusions of withdrawals of various kinds
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsection (1) applies for the 2008–09 and later income years.
-
-### 37 Exclusion of withdrawal on partial retirement
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsection (1) applies for the 2008–09 and later income years.
-
-### 38 Exclusion of withdrawal when member ends employment
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsection (1) applies for the 2008–09 and later income years.
-
 ### 39 Section CV 10 repealed
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 41 Dividend derived by company from overseas
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsection (3) applies for all income years beginning on or after 1 July 2009.
 (7) Subsection (4) applies for the 2010–11 and later income years.
 
 ### 44 Expenditure on account, and reimbursement, of employees
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) does not apply in relation to a tax position taken by a person—
   (a) in the period from 1 April 2008 to the date on which this Act receives the Royal assent; and
   (b) in relation to a deduction for an amount of depreciation loss; and
@@ -51260,8 +51058,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2009–10 and later income years.
 
 ### 52 Contributions to superannuation schemes
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 54 Section CX 28 replaced
@@ -51275,9 +51072,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 56 Government grants to businesses
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies for the 2008–09 and later income years.
 (5) Subsection (2) applies for an amount derived by a company as a large budget screen production grant if—
   (a) the final application for the large budget screen production grant is made on or after 1 October 2009; and
@@ -51296,8 +51091,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
     (ii) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 68 Determining tax liabilities
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 69 Interest: not capital expenditure
@@ -51316,19 +51110,12 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
-### 79 Expenditure incurred in deriving exempt dividend
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
-
 ### 81 New section DB 60B inserted
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for deductions accrued on or after 1 January 2008.
 
 ### 82 Contributions to employees' superannuation schemes
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 83 Criteria for approval of share purchase schemes: before period of restriction ends
@@ -51336,22 +51123,17 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 87 Government grants to businesses
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for an amount derived by a company as a large budget screen production grant if—
   (a) the final application for the large budget screen production grant is made on or after 1 October 2009; and
   (b) the company does not incur before 1 July 2008 an amount of $3,000,000 or more in expenditure on the project to which the large budget screen production grant relates.
 
 ### 90 When attributed CFC loss arises
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (2) and (3) apply for all income years beginning on or after 1 July 2009.
 
 ### 91 When FIF loss arises
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 92 Section DO 11B repealed
@@ -51372,53 +51154,28 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for expenditure incurred on or after 1 April 2008.
 
-### 100 Disposal of petroleum mining asset to associate
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsections (1) and (2) apply for expenditure incurred on or after 1 April 2008.
-
-### 101 Amount written off by holding company
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsection (2) applies for the 2008–09 and later income years.
-
 ### 102 Transfer of expenditure to master fund
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Amendments incorporated in the principal Act.
+(1)–(6) Amendments incorporated in the principal Act.
 (7) Subsections (1) and (3) apply for the 2008–09 and 2009–10 income years.
 (8) Subsections (2) and (4) apply for the 2010–11 and later income years.
 
 ### 103 Carry forward of expenditure
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsection (1) applies for the 2008–09 and 2009–10 income years.
 (6) Subsection (2) applies for the 2010–11 and later income years.
 
 ### 104 New section DV 4B inserted and replaced
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and 2009–10 income years.
 (4) Subsection (2) applies for the 2010–11 and later income years.
 
 ### 105 Investment funds: transfer of expenditure to master funds
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsection (1) applies for the 2008–09 and 2009–10 income years.
 (6) Subsection (2) applies for the 2010–11 and later income years.
 
 ### 106 Formula for calculating maximum deduction
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsection (1) applies for the 2008–09 and 2009–10 income years.
 (6) Subsection (2) applies for the 2010–11 and later income years.
 
@@ -51453,8 +51210,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 121 Employer's superannuation contribution tax
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 127 Section EJ 12 replaced
@@ -51478,47 +51234,27 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for expenditure incurred on or after 1 April 2008.
 
 ### 132 What is an excepted financial arrangement?
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsections (1) and (3) apply—
   (a) on and after 1 July 2010, unless paragraph (b) applies; or
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 135 IFRS financial reporting method
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsection (2) does not apply for a taxpayer and an income year if the taxpayer has,—
   (a) before 30 June 2009, filed a return of income for the income year; and
   (b) taken a tax position in the return which ignores subsection (2).
 
 ### 136 Determination alternatives
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsections (2) and (4) apply for the 2009–10 and later income years.
 
 ### 137 Expected value method
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsection (4) applies for the 2009–10 and later income years.
 
-### 139 Mandatory use of some determinations
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2009–10 and later income years.
-
 ### 152 Associates and 10% threshold
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (2) applies for all income years beginning on or after 1 July 2009.
 
 ### 153 New section EX 18A inserted
@@ -51526,15 +51262,11 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 154 Formula for calculating attributed CFC income or loss
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 155 Taxable distribution from non-complying trust
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) to (3) apply for all income years beginning on or after 1 July 2009.
 
 ### 156 New heading and sections EX 20B to EX 20E inserted
@@ -51542,22 +51274,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 161 Branch equivalent income or loss: calculation rules
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Amendments incorporated in the principal Act.
-(7) Amendments incorporated in the principal Act.
-(8) Amendments incorporated in the principal Act.
-(9) Amendments incorporated in the principal Act.
-(10) Amendments incorporated in the principal Act.
-(11) Amendments incorporated in the principal Act.
-(12) Amendments incorporated in the principal Act.
-(13) Amendments incorporated in the principal Act.
-(14) Amendments incorporated in the principal Act.
-(15) Amendments incorporated in the principal Act.
-(16) Amendments incorporated in the principal Act.
+(1)–(16) Amendments incorporated in the principal Act.
 (17) Subsections (1) to (6) and (9) to (14) apply for all income years beginning on or after 1 July 2009.
 (18) Subsection (8) applies for the 2010–11 and later income years.
 
@@ -51574,8 +51291,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 165 Change of CFC's balance date
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 169 Exemption for Australian unit trusts with adequate turnover or distributions
@@ -51583,53 +51299,25 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 173 Limits on choice of calculation methods
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Amendments incorporated in the principal Act.
-(7) Amendments incorporated in the principal Act.
-(8) Amendments incorporated in the principal Act.
-(9) Amendments incorporated in the principal Act.
-(10) Amendments incorporated in the principal Act.
-(11) Amendments incorporated in the principal Act.
-(12) Amendments incorporated in the principal Act.
-(13) Amendments incorporated in the principal Act.
+(1)–(13) Amendments incorporated in the principal Act.
 (14) Subsections (4) and (10) apply for the 2010–11 and later income years.
 (15) Subsection (8) applies for all income years beginning on or after 1 July 2009.
 
-### 175 Branch equivalent method
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
-
 ### 176 Comparative value method
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (2) applies for the 2009–10 and later income years.
 
 ### 180 Additional FIF income or loss if CFC owns FIF
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (2) and (3) apply for all income years beginning on or after 1 July 2009.
 
 ### 181 Codes: comparative value method, deemed rate of return method, fair dividend rate method, and cost method
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Section EX 59(1C)﻿(b) is replaced by the following:
-  (b) the FIF is a foreign PIE equivalent.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) In section EX 59, in the list of defined terms,—
-  (a) foreign investment vehicle is omitted:
-  (b) foreign PIE equivalent is inserted.
+(1)–(6) Amendments incorporated in the principal Act.
 (7) Subsection (3) applies for the 2010–11 and later income years.
 (8) Subsection (4) applies for the 2009–10 and later income years.
 
 ### 183 Changes in application of FIF exemptions
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 184 New section EX 66B inserted
@@ -51655,15 +51343,11 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 188 Superannuation schemes providing life insurance
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 189 Meaning of life reinsurance
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -51675,17 +51359,13 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 193 Non-resident life insurers with life insurance policies in New Zealand
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsections (1) and (2) apply—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 194 Deductions for disposal of property: 1982–83 and 1989–90 income years
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) to (4) apply—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -51705,8 +51385,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 202 New section FA 2B inserted
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies if a debt security is stapled to a share on or after 25 February 2008.
 (4) Subsection (2) applies for all income years beginning on or after 1 July 2009.
 
@@ -51714,21 +51393,8 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
-### 205 Property transferred to charities or to close relatives and others
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Subsection (1) applies for the 2008–09 and later income years.
-
-### 206 What this subpart does
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
-
 ### 207 When this subpart applies
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 208 Section FE 3 replaced
@@ -51736,95 +51402,50 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 209 Some definitions
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 (5) Subsection (2) applies for the 2008–09 and later income years.
 
 ### 210 Thresholds for application of interest apportionment rules
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 211 Apportionment of interest by excess debt entity
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsection (3) applies for the 2008–09 and later income years.
 (7) Subsections (1), (2), and (4) apply for all income years beginning on or after 1 July 2009.
 
 ### 212 Calculation of debt percentages
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsections (1) to (4) apply for all income years beginning on or after 1 July 2009.
 
-### 213 Financial arrangements entered into with persons outside group
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Subsection (3) applies for all income years beginning on or after 1 July 2009.
-
 ### 214 Consolidation of debts and assets
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 215 Total group debt
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsection (2) applies for all income years beginning on or after 1 July 2009.
 
 ### 216 Total group assets
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 217 Measurement of debts and assets of worldwide group
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsections (1) to (4) apply for all income years beginning on or after 1 July 2009.
 
 ### 218 Banking group's New Zealand net equity
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Amendments incorporated in the principal Act.
-(7) Amendments incorporated in the principal Act.
-(8) Amendments incorporated in the principal Act.
-(9) Amendments incorporated in the principal Act.
+(1)–(9) Amendments incorporated in the principal Act.
 (10) Subsection (3) applies for all income years beginning on or after 1 July 2009.
 (11) Subsections (2), (6), and (8) apply for the 2010–11 and later income years.
 
 ### 219 New Zealand group for excess debt entity that is a company
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 220 Identifying New Zealand parent
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Amendments incorporated in the principal Act.
-(7) Amendments incorporated in the principal Act.
-(8) Amendments incorporated in the principal Act.
-(9) Amendments incorporated in the principal Act.
-(10) Amendments incorporated in the principal Act.
+(1)–(10) Amendments incorporated in the principal Act.
 (11) Subsections (1) to (9) apply for all income years beginning on or after 1 July 2009.
 
 ### 221 Section FE 28 replaced
@@ -51836,15 +51457,11 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 223 Ownership interests in companies outside New Zealand group
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for all income years beginning on or after 1 July 2009.
 
 ### 224 Worldwide group for corporate excess debt entity
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for all income years beginning on or after 1 July 2009.
 
 ### 225 New sections FE 31B and FE 31C inserted
@@ -51856,10 +51473,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 227 Identifying members of New Zealand banking group
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) to (4) apply for the 2008–09 and later income years.
 
 ### 228 Subpart FF repealed
@@ -51871,12 +51485,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 230 Some general rules for treatment of consolidated groups
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Amendments incorporated in the principal Act.
+(1)–(6) Amendments incorporated in the principal Act.
 (7) Subsections (1) to (3) and (5) apply for all income years beginning on or after 1 July 2009.
 
 ### 231 Heading and sections FM 24 to FM 26 repealed
@@ -51884,14 +51493,11 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 232 Eligibility rules
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 234 Trans-Tasman imputation groups and resident imputation subgroups
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 235 Amortising property
@@ -51903,9 +51509,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 238 Attribution rule for income from personal services
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies for the 2008–09 and later income years.
 (5) Subsection (2) applies for all income years beginning on or after 1 July 2009.
 
@@ -51922,21 +51526,15 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 248 Requests for matching treatment
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 249 Section GC 12 replaced
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
-### 250 New section GZ 2 inserted
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
-
 ### 251 Shareholding requirements
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 252 New section HA 8B inserted
@@ -51952,8 +51550,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 256 Fully imputed distributions
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 257 Section HA 16 replaced
@@ -51961,15 +51558,11 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 259 Calculating qualifying company election tax
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for all income years beginning on or after 1 July 2009.
 
 ### 260 Corpus of trust
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for all income years beginning on or after 1 July 2009.
 
 ### 261 Trustee income
@@ -51981,8 +51574,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 264 Who is a settlor?
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies, for the purposes of—
   (a) provisions other than the land provisions, for the 2010–11 and later income years:
   (b) the land provisions other than section CB 11, for land acquired on or after the date on which this Act receives the Royal assent:
@@ -51998,8 +51590,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 269 General provisions relating to disposals
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsections (1) and (2) apply for income years starting on and after 1 April 2008.
 
 ### 270 Section HG 4 replaced
@@ -52007,9 +51598,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
 
 ### 271 Disposal of partner's interests
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsections (1) and (2) apply for income years starting on and after 1 April 2008.
 
 ### 272 Disposal of trading stock
@@ -52025,49 +51614,15 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
 
 ### 275 Disposal of short-term agreements for the sale and purchase of property or services
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (2) applies for income years starting on and after 1 April 2008.
 
 ### 276 Section HG 10 replaced
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2009–10 and later income years.
 
-### 282 Investor membership requirement
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Subsection (2) applies for the 2009–10 and later income years.
-
-### 284 Investor interest size requirement
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Amendments incorporated in the principal Act.
-(7) Amendments incorporated in the principal Act.
-(8) Subsections (3), (5), and (7) apply for the 2009–10 and later income years.
-
-### 288 Treatment of income from interest when entitlement conditional or lacking
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 and later income years.
-
-### 290 Credits received by portfolio tax rate entity or portfolio investor proxy
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Subsections (1) and (3) apply for the 2008–09 and later income years.
-
 ### 293 Transitional residents
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsections (1) to (5) apply for the 2008–09 and later income years.
 
 ### 294 New heading and sections HR 9 and HR 10 added
@@ -52075,12 +51630,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 296 Restrictions relating to ring-fenced tax losses
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Amendments incorporated in the principal Act.
+(1)–(6) Amendments incorporated in the principal Act.
 (7) Subsection (1) applies—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -52088,24 +51638,19 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (9) Subsection (4) applies for the 2010–11 and later income years.
 
 ### 297 Restrictions relating to schedular income
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (3) apply—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 (5) Subsection (2) applies for the 2008–09 and later income years.
 
 ### 298 Common ownership: group of companies
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies for the 2008–09 and 2009–10 income years.
 (5) Subsection (2) applies for the 2010–11 and later income years.
 
 ### 300 Pre-consolidation losses: use by group companies
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 301 When this subpart applies
@@ -52113,8 +51658,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 302 Ring-fencing cap on attributed CFC net losses
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 (4) Subsection (2) applies for the 2008–09 and later income years.
 
@@ -52123,19 +51667,8 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 304 Ring-fencing cap on FIF net losses
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for the 2008–09 and later income years.
-
-### 305 Group companies using attributed CFC net losses
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
-
-### 306 Group companies using FIF net losses
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 307 Subpart IT replaced
 (1) Amendments incorporated in the principal Act.
@@ -52154,10 +51687,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 314 Tax credits for families
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 315 Tax credits related to personal service rehabilitation payments: providers
@@ -52168,25 +51698,13 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
-### 317 Tax credits for transitional circumstances
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 and later income years.
-
 ### 324 Tax credits for imputation credits
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsection (1) applies for the 2008–09 and later income years.
 (7) Subsection (3) applies for the 2010–11 and later income years.
 
 ### 325 Use of remaining credits by companies and trustees
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsections (1) to (4) apply—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -52198,58 +51716,22 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 327 Use of remaining credits by others
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
-### 330 Who this subpart applies to
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Subsections (1) to (4) apply for the 2008–09 and later income years.
-
-### 331 Tax credits relating to expenditure on research and development
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 and later income years.
-
-### 332 Requirements
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Subsections (1) and (2) apply for the 2008–09 and later income years.
-
-### 333 Adjustments to eligible expenditure
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsection (1) applies for the 2008–09 and later income years.
-
-### 334 New section LH 14B inserted
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 and later income years.
-
 ### 335 What this subpart does
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 336 Tax credits for foreign income tax
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsections (1) and (3) apply for the 2008–09 and later income years.
 (7) Subsection (2) applies for the 2010–11 and later income years.
 
 ### 338 Calculation of New Zealand tax
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) to (3) apply for the 2008–09 and later income years.
 
 ### 339 Section LJ 7 replaced by new sections LJ 7 and LJ 8
@@ -52257,11 +51739,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 340 Tax credits relating to attributed CFC income
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsection (2) applies for all income years beginning on or after 1 July 2009.
 (7) Subsections (1) and (3) apply for the 2008–09 and later income years.
 
@@ -52282,8 +51760,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 345 Continuity rules for carrying credits forward
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 346 Sections LQ 1 to LQ 4 repealed
@@ -52291,28 +51768,19 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 349 Meaning of full-time earner for family scheme
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for the 2008–09 and later income years.
-
-### 352 Family scheme income of major shareholders in close companies
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 354 Third requirement: residence
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 355 When person does not qualify
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 356 Continuing requirements
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 357 Principal caregiver
@@ -52328,9 +51796,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 360 Fifth requirement: full-time earner
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (3) apply for the 2008–09 and later income years.
 
 ### 361 Calculation of in-work tax credit
@@ -52338,9 +51804,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 363 Meaning of net family scheme income
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) to (3) apply for the 2008–09 and later income years.
 
 ### 364 Recovery of overpaid tax credit
@@ -52348,10 +51812,6 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 365 Section MF 6 replaced
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 and later income years.
-
-### 368 When short payment and unpaid compulsory employer contributions found after tax credit used
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
@@ -52366,23 +51826,19 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 373 Credits
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 374 Debits
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 375 Opening balances of memorandum accounts
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -52392,19 +51848,9 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 378 General rules for companies with imputation credit accounts
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Amendments incorporated in the principal Act.
+(1)–(6) Amendments incorporated in the principal Act.
 (7) Subsections (1), (2), and (4) apply for the 2008–09 and later income years.
 (8) Subsection (3) applies for the 2010–11 and later income years.
-
-### 379 Australian companies with imputation credit accounts
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 380 New section OB 3B inserted
 (1) Amendments incorporated in the principal Act.
@@ -52413,17 +51859,14 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 381 ICA payment of tax
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsection (2) applies for the 2008–09 and later income years.
 (5) Subsection (1) applies—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 382 ICA resident withholding tax withheld
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -52443,22 +51886,18 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 388 ICA refund of income tax
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 (5) Subsection (2) applies for the 2008–09 and later income years.
 
 ### 389 ICA amount applied to pay other taxes
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (2) applies for the 2008–09 and later income years.
 
 ### 390 ICA refund from tax pooling account
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for a tax position taken on or after 1 April 2008 except for a tax position taken by a company when—
   (a) the company has received a refund of the type referred to in section OB 34(1); and
   (b) the refund is received in the company's 2008–09 income year but before 2 July 2008; and
@@ -52471,13 +51910,8 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 393 ICA refund of tax credit
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
-
-### 394 ICA transfer for net foreign attributed income
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 395 Section OB 39 repealed
 (1) Amendments incorporated in the principal Act.
@@ -52494,18 +51928,11 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 398 Imputation additional tax on leaving wholly-owned group
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) to (4) apply for the 2008–09 and later income years.
 
 ### 399 Table O1: imputation credits
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsection (2) applies for the 2009–10 and later income years.
 (7) Subsection (3) applies for all income years beginning on or after 1 July 2009.
 (8) Subsection (4) applies for the 2008–09 and later income years.
@@ -52514,10 +51941,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 400 Table O2: imputation debits
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) and (4) apply—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -52525,9 +51949,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (7) Subsection (3) applies for all income years beginning on or after 1 July 2009.
 
 ### 401 General rules for companies with FDP accounts
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies for the 2010–11 and later income years.
 (5) Subsection (2) applies for all income years beginning on or after 1 July 2009.
 
@@ -52562,8 +51984,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 409 FDPA refund of tax credit
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 410 Section OC 20 replaced
@@ -52579,23 +52000,15 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 413 Payment of further FDP for closing debit balance
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) to (3) apply for all income years beginning on or after 1 July 2009.
 
 ### 414 Payment of further FDP when company no longer New Zealand resident
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) to (3) apply for all income years beginning on or after 1 July 2009.
 
 ### 415 Reduction of further FDP
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for all income years beginning on or after 1 July 2009.
 
 ### 416 Section OC 33 replaced
@@ -52617,27 +52030,11 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 420 Table O4: FDP debits
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 (4) Subsection (2) applies—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
-
-### 421 General rules for companies with CTR accounts
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsection (1) applies for the 2008–09 and later tax years.
-(4) Subsection (2) applies for all income years beginning on or after 1 July 2009.
-
-### 422 Choosing to become CTR company
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsections (1) and (2) apply for the 2008–09 and later tax years.
-
-### 423 When company stops being CTR company
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 424 Section OD 5 repealed
 (1) Amendments incorporated in the principal Act.
@@ -52651,10 +52048,6 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
-### 427 CTRA increase in resident shareholding
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 and later tax years.
-
 ### 428 Section OD 23 repealed
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
@@ -52663,33 +52056,11 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
-### 430 Table O5: conduit tax relief credits
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
-
-### 431 Table O6: conduit tax relief debits
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsection (1) applies for the 2008–09 and later tax years.
-(4) Subsection (2) applies for all income years beginning on or after 1 July 2009.
-
-### 432 Branch equivalent tax accounts of companies
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
-
 ### 433 Heading and sections OE 12 and OE 13 repealed
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for dividends received in all income years beginning on or after 1 July 2009.
 
 ### 434 Sections OE 14 to OE 16 repealed
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
-
-### 435 New heading and section OE 16B inserted
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
-
-### 436 Table O7: branch equivalent tax credits
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
@@ -52724,24 +52095,18 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 445 When credits and debits arise only in consolidated imputation group accounts
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 (5) Subsections (2) and (3) apply—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 446 Provisions applying to consolidated imputation groups
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 447 Consolidated ICA payment of tax
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -52752,8 +52117,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 449 Consolidated ICA resident withholding tax withheld
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -52771,10 +52135,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 452 Consolidated ICA refund of income tax
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) and (2) apply—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -52791,19 +52152,12 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 455 Consolidated ICA refund of tax credit
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 456 Section OP 38 repealed
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
-
-### 457 Consolidated ICA transfer to policyholder credit account
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 458 Section OP 44 replaced
 (1) Amendments incorporated in the principal Act.
@@ -52812,19 +52166,14 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 459 Table O19: imputation credits of consolidated imputation groups
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 (4) Subsection (2) applies—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 460 Table O20: imputation debits of consolidated imputation groups
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsections (1) and (5) apply—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -52832,8 +52181,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (8) Subsection (3) applies for all income years beginning on or after 1 July 2009.
 
 ### 461 When credits and debits arise only in consolidated FDP group accounts
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 (4) Subsection (2) applies—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
@@ -52856,8 +52204,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 466 Consolidated FDPA refund of tax credit
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 467 Section OP 74 replaced
@@ -52871,20 +52218,11 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 469 Table O22: FDP debits of consolidated FDP groups
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 (4) Subsection (2) applies—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
-
-### 470 CTR accounts of consolidated groups
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 and later income years.
-
-### 471 When credits and debits arise only in CTR group accounts
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 472 Section OP 81 repealed
 (1) Amendments incorporated in the principal Act.
@@ -52902,27 +52240,11 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
-### 476 Table O23: conduit tax relief credits of consolidated groups
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
-
-### 477 Table O24: conduit tax relief debits of consolidated groups
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
-
 ### 478 Section OP 99 repealed
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 479 Heading and sections OP 105 to OP 108 repealed
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
-
-### 480 New heading and section OP 108B inserted
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
-
-### 481 Table O25: branch equivalent tax credits of consolidated BETA groups
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
@@ -52951,37 +52273,25 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 488 What this Part does
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 489 Tax obligations for employment-related taxes
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) to (3) apply for the 2008–09 and later income years.
 
 ### 490 Withholding and payment obligations for passive income
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 (5) Subsection (2) applies for the 2008–09 and later income years.
 
 ### 491 When obligations not met
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsection (1) applies for the 2008–09 and later income years.
 (6) Subsection (2) applies for all income years beginning on or after 1 July 2009.
 
 ### 492 Payment dates for interim and other tax payments
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsection (1) applies for the 2008–09 and later income years. However, subsection (1) does not apply to a person in relation to a tax position taken by the person—
   (a) in the period from 1 April 2008 to the date of Royal assent of this Act; and
   (b) in relation to the payment of FDP; and
@@ -52989,20 +52299,12 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (6) Subsection (3) applies for all income years beginning on or after 1 July 2009.
 
 ### 493 Amalgamation of companies
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 494 Regulations
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
-
-### 495 Application of other provisions for purposes of ESCT rules and NRWT rules
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 496 Payment of terminal tax
 (1) Amendments incorporated in the principal Act.
@@ -53013,47 +52315,30 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 500 Attribution rule for income from personal services
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 503 PAYE income payments
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (2) and (3) apply for the 2008–09 and later income years. However, subsections (2) and (3) do not apply to a person in relation to a tax position taken by the person—
   (a) in the period from 1 April 2008 to the date of Royal assent of this Act; and
   (b) relating to the treatment of an amount of income; and
   (c) relying upon section RD 3(3) and (4) as they were prior to the amendment made by subsections (2) and (3).
 
 ### 504 Salary or wages
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Amendments incorporated in the principal Act.
-(7) Amendments incorporated in the principal Act.
-(8) Amendments incorporated in the principal Act.
+(1)–(8) Amendments incorporated in the principal Act.
 (9) Subsections (1), (2), and (6) apply for the 2008–09 and later income years.
 (10) Subsections (3) and (4) apply for the 2008–09 and later income years.
 
 ### 507 Reduction in certain circumstances
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 508 Multiple payments of salary or wages
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2009–10 and later income years.
 
 ### 509 Advance payments of salary or wages
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 and later income years.
-
-### 511 Payments of extra pay with other PAYE income payments
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
@@ -53062,82 +52347,35 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 514 PAYE income payment forms for amounts of tax paid to Commissioner
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Amendments incorporated in the principal Act.
-(7) Amendments incorporated in the principal Act.
-(8) Amendments incorporated in the principal Act.
-(9) Amendments incorporated in the principal Act.
-(10) Amendments incorporated in the principal Act.
+(1)–(10) Amendments incorporated in the principal Act.
 (11) Subsections (4) and (7) apply for the 2008–09 and later income years.
 
 ### 517 Close company option
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) and (3) apply for the 2008–09 and later income years.
 
 ### 518 Small business option
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) and (3) apply for the 2008–09 and later income years.
 
 ### 519 Employer's superannuation contributions
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Amendments incorporated in the principal Act.
-(7) Amendments incorporated in the principal Act.
-(8) Amendments incorporated in the principal Act.
-(9) Amendments incorporated in the principal Act.
-(10) Amendments incorporated in the principal Act.
-(11) Amendments incorporated in the principal Act.
-(12) Amendments incorporated in the principal Act.
+(1)–(12) Amendments incorporated in the principal Act.
 (13) Subsections (1) to (6) and (8) to (11) apply for the 2008–09 and later income years.
 
-### 520 Calculating amounts of tax for employer's superannuation contributions
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Subsections (1) to (3) apply for the 2008–09 and later income years.
-
 ### 521 Choosing to have amount treated as salary or wages
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) to (3) apply for the 2008–09 and later income years.
-
-### 522 Choosing different rates for employer's superannuation contributions
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 523 Calculating amounts on failure to withhold
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 524 Amounts of tax treated as paid to and received by superannuation funds
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 525 Resident passive income
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for the 2008–09 and later income years. However, subsections (1) and (2) do not apply to a person in relation to a tax position taken by the person—
   (a) in the period from 1 April 2008 to 3 December 2008; and
   (b) in relation to the payment of an amount of resident passive income to a non-resident engaged in business in New Zealand; and
@@ -53148,13 +52386,11 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 527 Persons who have withholding obligations
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 528 Agents' or trustees' obligations in relation to certain dividends
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 529 Notification by companies
@@ -53166,11 +52402,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 531 Non-resident passive income
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsections (1) and (2) apply for the 2008–09 and later income years.
 (7) Subsection (4) applies for the 2008–09 and later income years. However, subsection (4) does not apply to a person in relation to a tax position taken by the person—
   (a) in the period from 1 April 2008 to 3 December 2008; and
@@ -53183,26 +52415,10 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 534 Non-cash dividends
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
+(1)–(5) Amendments incorporated in the principal Act.
 (6) Subsections (1) and (3) apply for the 2008–09 and later income years.
 
 ### 536 Section RF 12 replaced by sections RF 12 to RF 12C
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 and later income years.
-
-### 537 Credit balance in branch equivalent tax account
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 and later income years.
-
-### 538 Using loss balances
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 and later income years.
-
-### 539 Reduction of payments for conduit tax relief
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
@@ -53211,267 +52427,28 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 543 Using refund to satisfy tax liability
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 544 Operation of PAYE intermediaries' trust accounts
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) to (3) apply for the 2008–09 and later income years.
 
 ### 545 General responsibility of employers
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 547 Employer's superannuation contributions
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
+(1)–(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 548 General responsibilities of PAYE intermediaries
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
-
-### 554 Standard method: 2008–09 and 2009–10 income years
-(1) Amendments incorporated in the principal Act.
-(2) Subsection (1) applies for the 2008–09 and later income years.
-
-### 555 GST ratio method: 2008–09 and 2009–10 income years
-(1) This section amends section YA 1.
-(2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 557 Definitions
 (1) This section amends section YA 1.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Amendments incorporated in the principal Act.
-(7) Amendments incorporated in the principal Act.
-(8) Amendments incorporated in the principal Act.
-(9) Amendments incorporated in the principal Act.
-(10) Amendments incorporated in the principal Act.
-(11) Amendments incorporated in the principal Act.
-(12) Amendments incorporated in the principal Act.
-(13) Amendments incorporated in the principal Act.
-(14) Amendments incorporated in the principal Act.
-(15) Amendments incorporated in the principal Act.
-(16) Amendments incorporated in the principal Act.
-(17) Amendments incorporated in the principal Act.
-(18) Amendments incorporated in the principal Act.
-(19) Amendments incorporated in the principal Act.
-(20) Amendments incorporated in the principal Act.
-(21) Amendments incorporated in the principal Act.
-(22) Amendments incorporated in the principal Act.
-(23) Amendments incorporated in the principal Act.
-(24) Amendments incorporated in the principal Act.
-(25) Amendments incorporated in the principal Act.
-(26) Amendments incorporated in the principal Act.
-(27) Amendments incorporated in the principal Act.
-(28) Amendments incorporated in the principal Act.
-(29) Amendments incorporated in the principal Act.
-(30) Amendments incorporated in the principal Act.
-(31) Amendments incorporated in the principal Act.
-(32) Amendments incorporated in the principal Act.
-(33) Amendments incorporated in the principal Act.
-(34) Amendments incorporated in the principal Act.
-(35) Amendments incorporated in the principal Act.
-(36) Amendments incorporated in the principal Act.
-(37) Amendments incorporated in the principal Act.
-(38) Amendments incorporated in the principal Act.
-(39) Amendments incorporated in the principal Act.
-(40) Amendments incorporated in the principal Act.
-(41) Amendments incorporated in the principal Act.
-(42) Amendments incorporated in the principal Act.
-(43) Amendments incorporated in the principal Act.
-(44) Amendments incorporated in the principal Act.
-(45) Amendments incorporated in the principal Act.
-(46) Amendments incorporated in the principal Act.
-(47) Amendments incorporated in the principal Act.
-(48) Amendments incorporated in the principal Act.
-(49) Amendments incorporated in the principal Act.
-(50) Amendments incorporated in the principal Act.
-(51) Amendments incorporated in the principal Act.
-(52) Amendments incorporated in the principal Act.
-(53) Amendments incorporated in the principal Act.
-(54) Amendments incorporated in the principal Act.
-(55) Amendments incorporated in the principal Act.
-(56) Amendments incorporated in the principal Act.
-(57) Amendments incorporated in the principal Act.
-(58) Amendments incorporated in the principal Act.
-(59) Amendments incorporated in the principal Act.
-(60) Amendments incorporated in the principal Act.
-(61) Amendments incorporated in the principal Act.
-(62) Amendments incorporated in the principal Act.
-(63) Amendments incorporated in the principal Act.
-(64) Amendments incorporated in the principal Act.
-(65) Amendments incorporated in the principal Act.
-(66) Amendments incorporated in the principal Act.
-(67) Amendments incorporated in the principal Act.
-(68) Amendments incorporated in the principal Act.
-(69) Amendments incorporated in the principal Act.
-(70) Amendments incorporated in the principal Act.
-(71) Amendments incorporated in the principal Act.
-(72) Amendments incorporated in the principal Act.
-(73) Amendments incorporated in the principal Act.
-(74) Amendments incorporated in the principal Act.
-(75) Amendments incorporated in the principal Act.
-(76) Amendments incorporated in the principal Act.
-(77) Amendments incorporated in the principal Act.
-(78) Amendments incorporated in the principal Act.
-(79) Amendments incorporated in the principal Act.
-(80) Amendments incorporated in the principal Act.
-(81) Amendments incorporated in the principal Act.
-(82) Amendments incorporated in the principal Act.
-(83) Amendments incorporated in the principal Act.
-(84) Amendments incorporated in the principal Act.
-(85) Amendments incorporated in the principal Act.
-(86) Amendments incorporated in the principal Act.
-(87) Amendments incorporated in the principal Act.
-(88) Amendments incorporated in the principal Act.
-(89) Amendments incorporated in the principal Act.
-(90) Amendments incorporated in the principal Act.
-(91) Amendments incorporated in the principal Act.
-(92) Amendments incorporated in the principal Act.
-(93) Amendments incorporated in the principal Act.
-(94) Amendments incorporated in the principal Act.
-(95) Amendments incorporated in the principal Act.
-(96) Amendments incorporated in the principal Act.
-(97) Amendments incorporated in the principal Act.
-(98) Amendments incorporated in the principal Act.
-(99) Amendments incorporated in the principal Act.
-(100) Amendments incorporated in the principal Act.
-(101) Amendments incorporated in the principal Act.
-(102) Amendments incorporated in the principal Act.
-(103) Amendments incorporated in the principal Act.
-(104) Amendments incorporated in the principal Act.
-(105) Amendments incorporated in the principal Act.
-(106) Amendments incorporated in the principal Act.
-(107) Amendments incorporated in the principal Act.
-(108) Amendments incorporated in the principal Act.
-(109) Amendments incorporated in the principal Act.
-(110) Amendments incorporated in the principal Act.
-(111) Amendments incorporated in the principal Act.
-(112) Amendments incorporated in the principal Act.
-(113) Amendments incorporated in the principal Act.
-(114) Amendments incorporated in the principal Act.
-(115) Amendments incorporated in the principal Act.
-(116) Amendments incorporated in the principal Act.
-(117) Amendments incorporated in the principal Act.
-(118) Amendments incorporated in the principal Act.
-(119) Amendments incorporated in the principal Act.
-(120) Amendments incorporated in the principal Act.
-(121) Amendments incorporated in the principal Act.
-(122) Amendments incorporated in the principal Act.
-(123) Amendments incorporated in the principal Act.
-(124) Amendments incorporated in the principal Act.
-(125) Amendments incorporated in the principal Act.
-(126) Amendments incorporated in the principal Act.
-(127) Amendments incorporated in the principal Act.
-(128) Amendments incorporated in the principal Act.
-(129) Amendments incorporated in the principal Act.
-(130) Amendments incorporated in the principal Act.
-(131) Amendments incorporated in the principal Act.
-(132) Amendments incorporated in the principal Act.
-(133) Amendments incorporated in the principal Act.
-(134) Amendments incorporated in the principal Act.
-(135) Amendments incorporated in the principal Act.
-(136) Amendments incorporated in the principal Act.
-(137) Amendments incorporated in the principal Act.
-(138) Amendments incorporated in the principal Act.
-(139) Amendments incorporated in the principal Act.
-(140) Amendments incorporated in the principal Act.
-(141) Amendments incorporated in the principal Act.
-(142) Amendments incorporated in the principal Act.
-(143) Amendments incorporated in the principal Act.
-(144) Amendments incorporated in the principal Act.
-(145) Amendments incorporated in the principal Act.
-(146) Amendments incorporated in the principal Act.
-(147) Amendments incorporated in the principal Act.
-(148) Amendments incorporated in the principal Act.
-(149) Amendments incorporated in the principal Act.
-(150) Amendments incorporated in the principal Act.
-(151) Amendments incorporated in the principal Act.
-(152) Amendments incorporated in the principal Act.
-(153) Amendments incorporated in the principal Act.
-(154) Amendments incorporated in the principal Act.
-(155) Amendments incorporated in the principal Act.
-(156) Amendments incorporated in the principal Act.
-(157) Amendments incorporated in the principal Act.
-(158) Amendments incorporated in the principal Act.
-(159) Amendments incorporated in the principal Act.
-(160) Amendments incorporated in the principal Act.
-(161) Amendments incorporated in the principal Act.
-(162) Amendments incorporated in the principal Act.
-(163) Amendments incorporated in the principal Act.
-(164) Amendments incorporated in the principal Act.
-(165) Amendments incorporated in the principal Act.
-(166) Amendments incorporated in the principal Act.
-(167) Amendments incorporated in the principal Act.
-(168) Amendments incorporated in the principal Act.
-(169) Amendments incorporated in the principal Act.
-(170) Amendments incorporated in the principal Act.
-(171) Amendments incorporated in the principal Act.
-(172) Amendments incorporated in the principal Act.
-(173) Amendments incorporated in the principal Act.
-(174) Amendments incorporated in the principal Act.
-(175) Amendments incorporated in the principal Act.
-(176) Amendments incorporated in the principal Act.
-(177) Amendments incorporated in the principal Act.
-(178) Amendments incorporated in the principal Act.
-(179) Amendments incorporated in the principal Act.
-(180) Amendments incorporated in the principal Act.
-(181) Amendments incorporated in the principal Act.
-(182) Amendments incorporated in the principal Act.
-(183) Amendments incorporated in the principal Act.
-(184) Amendments incorporated in the principal Act.
-(185) Amendments incorporated in the principal Act.
-(186) Amendments incorporated in the principal Act.
-(187) Amendments incorporated in the principal Act.
-(188) Amendments incorporated in the principal Act.
-(189) Amendments incorporated in the principal Act.
-(190) Amendments incorporated in the principal Act.
-(191) Amendments incorporated in the principal Act.
-(192) Amendments incorporated in the principal Act.
-(193) Amendments incorporated in the principal Act.
-(194) Amendments incorporated in the principal Act.
-(195) Amendments incorporated in the principal Act.
-(196) Amendments incorporated in the principal Act.
-(197) Amendments incorporated in the principal Act.
-(198) Amendments incorporated in the principal Act.
-(199) Amendments incorporated in the principal Act.
-(200) Amendments incorporated in the principal Act.
-(201) Amendments incorporated in the principal Act.
-(202) Amendments incorporated in the principal Act.
-(203) Amendments incorporated in the principal Act.
-(204) Amendments incorporated in the principal Act.
-(205) Amendments incorporated in the principal Act.
-(206) Amendments incorporated in the principal Act.
-(207) Amendments incorporated in the principal Act.
-(208) Amendments incorporated in the principal Act.
-(209) Amendments incorporated in the principal Act.
-(210) Amendments incorporated in the principal Act.
-(211) Amendments incorporated in the principal Act.
-(212) Amendments incorporated in the principal Act.
-(213) Amendments incorporated in the principal Act.
-(214) Amendments incorporated in the principal Act.
-(215) Amendments incorporated in the principal Act.
-(216) Amendments incorporated in the principal Act.
-(217) Amendments incorporated in the principal Act.
-(218) Amendments incorporated in the principal Act.
-(219) Amendments incorporated in the principal Act.
-(220) Amendments incorporated in the principal Act.
-(221) Amendments incorporated in the principal Act.
-(222) Amendments incorporated in the principal Act.
-(223) Amendments incorporated in the principal Act.
+(2)–(223) Amendments incorporated in the principal Act.
 (224) Subsections (7) and (141) apply—
   (a) for an insurer who uses IFRS 4,—
     (i) for the 2009–10 and later income years, unless subparagraph (ii) applies:
@@ -53509,10 +52486,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 571 Residence of natural persons
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
+(1)–(4) Amendments incorporated in the principal Act.
 (5) Subsection (2) applies for the 2009–10 and later income years.
 
 ### 572 Country of residence of foreign companies
@@ -53524,20 +52498,13 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 577 Schedule 1—Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 579 Schedule 4—Rates of tax for schedular payments
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Amendments incorporated in the principal Act.
-(4) Amendments incorporated in the principal Act.
-(5) Amendments incorporated in the principal Act.
-(6) Amendments incorporated in the principal Act.
-(7) Amendments incorporated in the principal Act.
+(1)–(7) Amendments incorporated in the principal Act.
 (8) Subsections (3) to (7) apply for the 2008–09 and later income years.
 
 ### 580 Schedule 5—Fringe benefit values for motor vehicles
@@ -53545,28 +52512,19 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 581 Schedule 13—Depreciable land improvements
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 582 Schedule 20—Expenditure on farming, horticultural, aquacultural, and forestry improvements
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
-(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
-
-### 583 Schedule 21—Expenditure and activities related to research and development
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 585 Schedule 25—Foreign investment funds
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsection (2) applies for the 2008–09 and later income years.
 
 ### 589 Schedule 32—Recipients of charitable or other public benefit gifts
-(1) Amendments incorporated in the principal Act.
-(2) Amendments incorporated in the principal Act.
+(1), (2) Amendments incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 1 Title
@@ -53597,8 +52555,7 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 ## Part 1 — Amendments to Income Tax Act 2007
 
 ### 11 Research or development
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
+(1), (2) Amendment(s) incorporated in the Act(s).
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 14 Cost of acquiring timber or right to take timber: other cases
@@ -53613,10 +52570,6 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 (1) Amendment(s) incorporated in the Act(s).
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
-### 17 Mining exploration expenditure or mining development expenditure on acquisition of asset
-(1) Amendment(s) incorporated in the Act(s).
-(2) Subsection (1) applies for the 2008–09 and later income years.
-
 ### 18 Meaning of income from forestry
 (1) Amendment(s) incorporated in the Act(s).
 (2) Subsection (1) applies for the 2008–09 and later income years.
@@ -53626,18 +52579,8 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 (2) Subsection (1) applies for the 2009–10 and later income years.
 
 ### 23 Attributable CFC amount
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
+(1)–(3) Amendment(s) incorporated in the Act(s).
 (4) Subsections (1) to (3) apply for all income years beginning on or after 1 July 2009.
-
-### 24 Net attributable CFC income or loss
-(1) Amendment(s) incorporated in the Act(s).
-(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
-
-### 25 Adjustment of fraction for excessively debt funded CFC
-(1) Amendment(s) incorporated in the Act(s).
-(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 26 Attributable CFC amount and net attributable CFC income or loss
 (1) Amendment(s) incorporated in the Act(s).
@@ -53648,24 +52591,15 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 28 Non-attributing active CFC: test based on accounting standard
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
+(1)–(3) Amendment(s) incorporated in the Act(s).
 (4) Subsections (1) to (3) apply for all income years beginning on or after 1 July 2009.
 
 ### 29 Exemption for Australian unit trusts with adequate turnover or distributions
 (1) Amendment(s) incorporated in the Act(s).
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
-### 31 Accounting profits method
-(1) Amendment(s) incorporated in the Act(s).
-(2) Subsection (1) applies for the 2008–09 and later income years. However, subsection (1) does not apply to a person in relation to a tax position taken by the person in a return of income filed before the date of Royal assent of this Act in relation to the calculation of an income interest in a FIF, relying on section EX 49(6) before the amendment made by this section.
-
 ### 33 Policyholder base income: profit participation policies
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
-(4) Amendment(s) incorporated in the Act(s).
+(1)–(4) Amendment(s) incorporated in the Act(s).
 (5) Subsections (1) to (4) apply—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
@@ -53677,9 +52611,7 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 36 Shareholder base income: profit participation policies
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
+(1)–(3) Amendment(s) incorporated in the Act(s).
 (4) Subsections (1) to (3) apply—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
@@ -53691,17 +52623,7 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 38 Transitional adjustments: life risk
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
-(4) Amendment(s) incorporated in the Act(s).
-(5) Amendment(s) incorporated in the Act(s).
-(6) Amendment(s) incorporated in the Act(s).
-(7) Amendment(s) incorporated in the Act(s).
-(8) Amendment(s) incorporated in the Act(s).
-(9) Amendment(s) incorporated in the Act(s).
-(10) Amendment(s) incorporated in the Act(s).
-(11) Amendment(s) incorporated in the Act(s).
+(1)–(11) Amendment(s) incorporated in the Act(s).
 (12) Subsections (1) to (11) apply—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
@@ -53711,9 +52633,7 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 43 Beneficiary income
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
+(1)–(3) Amendment(s) incorporated in the Act(s).
 (4) Subsections (1) to (3) apply for income years corresponding to the 2009–10 and later tax years.
 
 ### 44 Who is a settlor?
@@ -53723,36 +52643,20 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
   (b) in relation to a payment to an employee share purchase agreement in consideration of a valid salary sacrifice made by the employee; and
   (c) relying upon paragraph (a)﻿(i) of the definition of settlor in the Income Tax Act 2004, that the term settlor in the trust rules, and in the definitions of corpus, foreign trust, and settlement, for a trust other than a unit trust, means a person who makes, or has made at any time, a disposition of property to or for the benefit of the trust or on terms of the trust for less than market value.
 
-### 45 Unlisted company choosing to become portfolio listed company
-(1) Amendment(s) incorporated in the Act(s).
-(2) Subsection (1) applies for the 2008–09 and later income years.
-
 ### 54 Tax losses
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
-(4) Amendment(s) incorporated in the Act(s).
-(5) Amendment(s) incorporated in the Act(s).
-(6) Amendment(s) incorporated in the Act(s).
-(7) Amendment(s) incorporated in the Act(s).
-(8) Amendment(s) incorporated in the Act(s).
-(9) Amendment(s) incorporated in the Act(s).
+(1)–(9) Amendment(s) incorporated in the Act(s).
 (10) Subsections (1) to (9) apply for the 2008–09 and later income years.
 
 ### 55 Using tax losses in tax year
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
+(1), (2) Amendment(s) incorporated in the Act(s).
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 56 Using loss balances carried forward to tax year
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
+(1), (2) Amendment(s) incorporated in the Act(s).
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 57 Restrictions on companies' loss balances carried forward
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
+(1)–(3) Amendment(s) incorporated in the Act(s).
 (4) Subsections (1) to (3) apply for the 2008–09 and later income years.
 
 ### 58 Restrictions on companies grouping tax losses
@@ -53760,78 +52664,36 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 59 Restrictions relating to ring-fenced losses
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
+(1)–(3) Amendment(s) incorporated in the Act(s).
 (4) Subsections (1) to (3) apply for the 2008–09 and later income years.
-
-### 60 General treatment
-(1) Amendment(s) incorporated in the Act(s).
-(2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 61 New section IQ 1B inserted
 (1) Amendment(s) incorporated in the Act(s).
 (2) Subsection (1) applies for the 2008–09 and later income years.
-
-### 62 Ring-fencing cap on attributed CFC net losses
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
-(4) Subsections (1) to (3) apply for the 2008–09 and later income years.
-
-### 63 Ring-fencing cap on FIF net losses
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
-
-### 64 Group companies using attributed CFC net losses
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
-(4) Amendment(s) incorporated in the Act(s).
-(5) Subsections (1) to (4) apply for the 2008–09 and later income years.
 
 ### 65 Pre-consolidation losses: general treatment
 (1) Amendment(s) incorporated in the Act(s).
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 66 When group membership lacking in loss period
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
+(1), (2) Amendment(s) incorporated in the Act(s).
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 67 When group membership lacking in tax year of use
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
+(1), (2) Amendment(s) incorporated in the Act(s).
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 68 General treatment of mining companies' tax losses
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
+(1)–(3) Amendment(s) incorporated in the Act(s).
 (4) Subsections (1) to (3) apply for the 2008–09 and later income years.
 
 ### 69 Treatment of tax losses resulting from certain expenditure
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
-(4) Amendment(s) incorporated in the Act(s).
-(5) Amendment(s) incorporated in the Act(s).
-(6) Amendment(s) incorporated in the Act(s).
+(1)–(6) Amendment(s) incorporated in the Act(s).
 (7) Subsections (1) to (6) apply for the 2008–09 and later income years.
-
-### 70 Holding companies' tax losses
-(1) Amendment(s) incorporated in the Act(s).
-(2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 71 Petroleum miners' tax losses
 (1) Amendment(s) incorporated in the Act(s).
 (2) Subsection (1) applies for the 2008–09 and later income years.
-
-### 72 Life insurers' policyholder net losses
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 84 Adjustments for calculation of family scheme income
 (1) Amendment(s) incorporated in the Act(s).
@@ -53842,38 +52704,23 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 87 ICA debit for loss of shareholder continuity
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
+(1), (2) Amendment(s) incorporated in the Act(s).
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 89 FDPA debit for loss of shareholder continuity
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
-
-### 91 BETA credit for loss of shareholder continuity
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
+(1), (2) Amendment(s) incorporated in the Act(s).
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 93 MACA debit for loss of shareholder continuity
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
+(1), (2) Amendment(s) incorporated in the Act(s).
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 95 Consolidated ICA debit for loss of shareholder continuity
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
+(1), (2) Amendment(s) incorporated in the Act(s).
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 97 Consolidated FDPA debit for loss of shareholder continuity
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
-
-### 99 Consolidated BETA credit for loss of shareholder continuity
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
+(1), (2) Amendment(s) incorporated in the Act(s).
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 101 Amounts treated as income tax
@@ -53881,8 +52728,7 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 104 Payment of extra pay with other PAYE income payments
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
+(1), (2) Amendment(s) incorporated in the Act(s).
 (3) Subsection (1) applies for the 2008–09 and later income years.
 (4) Subsection (2) applies for the 2010–11 and later income years.
 
@@ -53907,8 +52753,7 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 112 Obligation to withhold amounts of tax for non-resident passive income
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
+(1), (2) Amendment(s) incorporated in the Act(s).
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 113 When amounts of tax not withheld or partly withheld
@@ -53921,41 +52766,7 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 
 ### 118 Definitions
 (1) This section amends section YA 1.
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
-(4) Amendment(s) incorporated in the Act(s).
-(5) Amendment(s) incorporated in the Act(s).
-(6) Amendment(s) incorporated in the Act(s).
-(7) Amendment(s) incorporated in the Act(s).
-(8) Amendment(s) incorporated in the Act(s).
-(9) Amendment(s) incorporated in the Act(s).
-(10) Amendment(s) incorporated in the Act(s).
-(11) Amendment(s) incorporated in the Act(s).
-(12) Amendment(s) incorporated in the Act(s).
-(13) Amendment(s) incorporated in the Act(s).
-(14) Amendment(s) incorporated in the Act(s).
-(15) Amendment(s) incorporated in the Act(s).
-(16) Amendment(s) incorporated in the Act(s).
-(17) Amendment(s) incorporated in the Act(s).
-(18) Amendment(s) incorporated in the Act(s).
-(19) Amendment(s) incorporated in the Act(s).
-(20) Amendment(s) incorporated in the Act(s).
-(21) Amendment(s) incorporated in the Act(s).
-(22) Amendment(s) incorporated in the Act(s).
-(23) Amendment(s) incorporated in the Act(s).
-(24) Amendment(s) incorporated in the Act(s).
-(25) Amendment(s) incorporated in the Act(s).
-(26) Amendment(s) incorporated in the Act(s).
-(27) Amendment(s) incorporated in the Act(s).
-(28) Amendment(s) incorporated in the Act(s).
-(29) Amendment(s) incorporated in the Act(s).
-(30) The definition of supplementary dividend holding company is omitted.
-(31) Amendment(s) incorporated in the Act(s).
-(32) Amendment(s) incorporated in the Act(s).
-(33) Amendment(s) incorporated in the Act(s).
-(34) Amendment(s) incorporated in the Act(s).
-(35) The definition of year of payment is omitted.
-(36) Amendment(s) incorporated in the Act(s).
+(2)–(36) Amendment(s) incorporated in the Act(s).
 (37) Subsections (2), (3), (4), (7), (8), (9), (10), (11), (12), (13), (14), (17), (27), (29), (31), (32), and (33) apply for the 2008–09 and later income years.
 (38) Subsections (5), (18), (22), (25), and (36) apply for the 2010–11 and later income years.
 (39) Subsections (6), (19), (28), and (34) apply—
@@ -53968,26 +52779,18 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 122 Schedule 1—Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) In schedule 1, part D, table 3, 0.33 is replaced by 0.30 in each place where it appears.
-(4) Amendment(s) incorporated in the Act(s).
-(5) Amendment(s) incorporated in the Act(s).
-(6) Amendment(s) incorporated in the Act(s).
+(1)–(6) Amendment(s) incorporated in the Act(s).
 (7) Subsection (1) applies for the 2008–09 and later income years.
 (8) Subsections (2), (4), (5), and (6) apply for the 2010–11 and later income years.
 (9) Subsection (3) applies for the 2011–12 and later income years.
 
 ### 123 Schedule 2—Basic tax rates for PAYE income payments
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
+(1)–(3) Amendment(s) incorporated in the Act(s).
 (4) Subsection (1) applies for the 2008–09 and later income years.
 (5) Subsections (2) and (3) apply for the 2010–11 and later income years.
 
 ### 125 Schedule 51—Identified changes in legislation
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
+(1), (2) Amendment(s) incorporated in the Act(s).
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 1 Title
@@ -54049,9 +52852,7 @@ This Act is the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSa
     (ii) relying on the provision amended by this section as it was immediately before the amendment made by this section.
 
 ### 45 Part-year tax calculations
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
+(1)–(3) Amendment(s) incorporated in the Act(s).
 (4) Subsections (1) to (3) apply—
   (a) on and after 1 July 2010, except if paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
@@ -54081,22 +52882,7 @@ This Act is the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSa
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 50 Transitional adjustments: life risk
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
-(4) Amendment(s) incorporated in the Act(s).
-(5) Amendment(s) incorporated in the Act(s).
-(6) Amendment(s) incorporated in the Act(s).
-(7) Amendment(s) incorporated in the Act(s).
-(8) Amendment(s) incorporated in the Act(s).
-(9) Amendment(s) incorporated in the Act(s).
-(10) Amendment(s) incorporated in the Act(s).
-(11) Amendment(s) incorporated in the Act(s).
-(12) Amendment(s) incorporated in the Act(s).
-(13) Amendment(s) incorporated in the Act(s).
-(14) Amendment(s) incorporated in the Act(s).
-(15) Amendment(s) incorporated in the Act(s).
-(16) Amendment(s) incorporated in the Act(s).
+(1)–(16) Amendment(s) incorporated in the Act(s).
 (17) Subsections (1) to (15) apply—
   (a) on and after 1 July 2010, except if paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
@@ -54110,51 +52896,9 @@ This Act is the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSa
     (ii) relating to a disposal of trading stock; and
     (iii) relying on section GC 1 as it was before the replacement made by subsection (1).
 
-### 89 Limitation on deductions
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
-(4) Subsections (2) and (3)—
-  (a) apply for the 2008–09 and later income years, except if paragraph (b) applies:
-  (b) do not apply for a person and an income year after the 2007–08 income year in relation to a tax position for the income year taken by the person—
-    (i) before 19 November 2009; and
-    (ii) relying on the provision amended by this section as it was immediately before the amendment made by this section.
-
 ### 117 Definitions
 (1) This section amends section YA 1.
-(2) Amendment(s) incorporated in the Act(s).
-(3) After the definition of Australian approved deposit fund, the following is inserted:
-  - **Australian complying superannuation scheme** means an entity that is a complying superannuation fund for the purposes of Part 5, Division 2 of the Superannuation Industry (Supervision) Act 1993 (Aust) and that is regulated by the Australian Prudential Regulation Authority
-(4) Amendment(s) incorporated in the Act(s).
-(5) Amendment(s) incorporated in the Act(s).
-(6) Amendment(s) incorporated in the Act(s).
-(7) Amendment(s) incorporated in the Act(s).
-(8) Amendment(s) incorporated in the Act(s).
-(9) Amendment(s) incorporated in the Act(s).
-(10) Amendment(s) incorporated in the Act(s).
-(11) Amendment(s) incorporated in the Act(s).
-(12) Amendment(s) incorporated in the Act(s).
-(13) Amendment(s) incorporated in the Act(s).
-(14) Amendment(s) incorporated in the Act(s).
-(15) Amendment(s) incorporated in the Act(s).
-(16) In the definition of member, paragraph (b) is repealed.
-(17) In the definition of member credit contribution, after paragraph (a)﻿(iii), the following is added:
-  (iv) a superannuation contribution that was transferred from an Australian complying superannuation scheme and contributed to a KiwiSaver scheme:
-(18) Amendment(s) incorporated in the Act(s).
-(19) Amendment(s) incorporated in the Act(s).
-(20) Amendment(s) incorporated in the Act(s).
-(21) Amendment(s) incorporated in the Act(s).
-(22) Amendment(s) incorporated in the Act(s).
-(23) Amendment(s) incorporated in the Act(s).
-(24) Amendment(s) incorporated in the Act(s).
-(25) Amendment(s) incorporated in the Act(s).
-(26) Amendment(s) incorporated in the Act(s).
-(27) The definition of significant financial hardship is repealed.
-(28) Amendment(s) incorporated in the Act(s).
-(29) Amendment(s) incorporated in the Act(s).
-(30) In the definition of trust rules, paragraph (a) is repealed.
-(31) Amendment(s) incorporated in the Act(s).
-(32) The definition of withdrawal is repealed.
+(2)–(32) Amendment(s) incorporated in the Act(s).
 (33) Subsections (2), (5), (8), (23), and (28) apply for the 2008–09 and later income years.
 (34) Subsection (13) applies for the 2010–11 and later income years.
 (35) Subsection (26) applies—
@@ -54162,9 +52906,7 @@ This Act is the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSa
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 121 Schedule 4—Rates of tax for schedular payments
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Amendment(s) incorporated in the Act(s).
+(1)–(3) Amendment(s) incorporated in the Act(s).
 (4) Subsection (2) applies to a payment for work and services made in the 2008–09 and later income years, other than a payment—
   (a) for work or services performed before the day that this Act receives the Royal assent; and
   (b) from which the payer is not obliged to withhold an amount of tax, ignoring subsection (2).
@@ -54209,13 +52951,6 @@ This Act is the Taxation (GST and Remedial Matters) Act 2010.
 (4) Subsections (1), (2), and (3) apply—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
-
-### 84 New section HL 19B inserted
-(1) Amendment(s) incorporated in the Act(s).
-(2) Subsection (1) does not apply to a portfolio tax rate entity in relation to a tax position taken by the entity—
-  (a) in the period from 1 April 2008 to the date of Royal assent of this Act; and
-  (b) in relation to the attribution of income to investors in the entity and the determination of net amounts in section HL 19; and
-  (c) relying on the rules related to portfolio investment entities as they were before the amendment made by subsection (1).
 
 ### 95 New section HM 35B inserted
 (1) Amendment(s) incorporated in the Act(s).
@@ -54285,19 +53020,6 @@ This Act is the Taxation (Tax Administration and Remedial Matters) Act 2011.
   (c) relying on section FE 6(3)﻿(ac) as it was before the replacement made by subsection (2).
 (6) Subsection (3) applies for the 2008–09 and later income years.
 
-### 49 Further eligibility requirements relating to investments
-(1) After section HL 10(2)﻿(b)﻿(vii), the following is added:
-  (viii) an amount of income under section CW 4 (Annuities under life insurance policies) or CX 40 (Superannuation fund deriving amount from life insurance policy).
-(2) Subsection (1) applies for the 2008–09 and later income years.
-
-### 50 Portfolio entity tax liability and tax credits of portfolio tax rate entity for period
-(1) After section HL 21(12), the following is added:Determining investors' prescribed investor rate
-  (13) For the purposes of determining the item rate in subsection (9), the taxable income of the investor does not include an amount that—
-    (a) arises because their portfolio investor rate is lower than their prescribed investor rate; and
-    (b) is treated as taxable income because section CX 56 (Portfolio investor allocated income and distributions of income by portfolio investment entities) does not apply.
-(2) In section HL 21, in the list of defined terms, prescribed investor rate and taxable income are inserted.
-(3) Subsection (1) applies for the 2008–09 and later income years.
-
 ### 94 Ring-fencing cap on attributed CFC net losses
 ((1), (2)) Amendment(s) incorporated in the Act(s).
 (3) Section IQ 2(1), other than its heading, is replaced by the following:
@@ -54308,22 +53030,30 @@ This Act is the Taxation (Tax Administration and Remedial Matters) Act 2011.
       (ii) is made available in the tax year to the person by another company in the same group.
 ((4)–(9)) Amendment(s) incorporated in the Act(s).
 (10) Subsections (1), (3), and (7) apply for the 2008–09 and later income years.
-((11), (12)) Amendment(s) incorporated in the Act(s).
+(11) Subsections (4), (5), and (6) apply for income years beginning on or after 1 July 2009.
+(12) Subsection (2) applies for income years beginning on or after 1 July 2011.
 
 ### 96 Ring-fencing cap on FIF net losses
 (1) Section IQ 3(1), other than the heading, is replaced by the following:
   (1) If a person's FIF net loss is carried forward to a tax year or FIF net loss is made available to the person in the tax year, the FIF net loss may be subtracted, under section IQ 2, from the person's net income for the tax year.
 ((2)–(4)) Amendment(s) incorporated in the Act(s).
 (5) Subsections (1), (3), and (4) apply for the 2008–09 and later income years.
-(6) Amendment(s) incorporated in the Act(s).
+(6) Subsection (2) applies for income years beginning on or after 1 July 2009.
 
 ### 130 Definitions
-((1)–(15)) Amendment(s) incorporated in the Act(s).
+(1) This section amends section YA 1.
+((2)–(15)) Amendment(s) incorporated in the Act(s).
 (16) Subsection (5) does not apply in relation to a tax position taken by a person—
   (a) in the period from 1 April 2008 to 30 November 2010; and
   (b) in relation to the payment of fringe benefit tax; and
   (c) relying on section RD 3(2) to (4) in the absence of the amendment made by subsection (5).
-((17)–(19)) Amendment(s) incorporated in the Act(s).
+(17) Subsections (6) and (8) apply for income years beginning on or after 1 July 2009.
+(18) Subsection (9) applies for the 2010–11 and later income years.
+(19) Subsection (10) applies for the 2008–09 and later income years.
+(20) Subsection (13) applies for the 2012–13 and later income years.
+
+###
+[Repealed]
 
 ### 1 Title
 This Act is the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012.
