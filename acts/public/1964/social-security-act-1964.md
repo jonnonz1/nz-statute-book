@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2016-04-01_
+_Consolidation as at 2016-04-04_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -3834,11 +3834,11 @@ Where under section 60H or section 117 the payment of a main benefit under this 
 (6) If the person is still entitled to the benefit at the end of the period of satisfactory participation or non-entitlement (as the case may be), payment of the benefit is no longer subject to the condition in subsection (4).
 (7) Any amount the person is liable to repay under this section is a debt due to the Crown under section 85A(b), and subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A), from the person.
 
-### 123C Application of Health and Safety in Employment Act 1992 and Human Rights Act 1993
+### 123C Application of Health and Safety at Work Act 2015 and Human Rights Act 1993
 (1) In this section, person A is a person—
   (a) who, in accordance with his or her work test obligations or under section 122 or section 123B, is doing work as part of a job search activity; or
   (b) who is a beneficiary and, in accordance with an employment plan or otherwise, is doing work as part of an employment-related activity or activity in the community arranged by the department.
-(2) The Health and Safety in Employment Act 1992 and the Human Rights Act 1993 apply to person A and the person providing the work that person A is doing, as if person A were the employee of the person providing the work.
+(2) The Health and Safety at Work Act 2015 and the Human Rights Act 1993 apply to person A and the person providing the work that person A is doing, as if person A were the employee of the person providing the work.
 (3) Except as provided in subsection (2), nothing in this Part creates or implies an employment relationship between person A and the person providing the work.
 
 ### 123D Regulations
