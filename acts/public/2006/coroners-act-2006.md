@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -135,7 +135,7 @@ In this Act, unless the context otherwise requires,—
     (e) a district inspector as defined in section 5(1) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
     (f) the Health and Disability Commissioner appointed under section 8 of the Health and Disability Commissioner Act 1994:
     (g) a food safety officer as defined in section 8(1) of the Food Act 2014:
-    (h) an inspector appointed under section 29(1) of the Health and Safety in Employment Act 1992:
+    (h) a regulator as defined in section 16 of the Health and Safety at Work Act 2015 or an inspector appointed under section 163 of that Act:
     (i) the New Zealand Transport Agency established by section 93 of the Land Transport Management Act 2003:
     (j) a Medical Officer of Health under the Health Act 1956:
     (k) the authority known as Maritime New Zealand continued by section 429 of the Maritime Transport Act 1994:
@@ -1060,7 +1060,7 @@ The Governor-General may appoint another coroner to act as chief coroner until t
   (a) for the purpose of deciding whether to open an inquiry; or
   (b) if the coroner is to open an inquiry, or has opened and not completed one.
 (2) Before acting under this section, a coroner must have regard to any relevant practice notes issued under section 132 by the chief coroner.
-(3) This section does not limit or affect a coroner's powers under any other enactment, for example, under section 28 (coroner may call for report on fatal accident) of the Health and Safety in Employment Act 1992.
+(3) This section does not limit or affect a coroner's powers under any other enactment, for example, under section 200 (coroner may call for report on fatal accident) of the Health and Safety at Work Act 2015.
 
 ### 119 Coroner may refer death to other investigating authorities
 (1) A coroner conducting an inquiry may refer the death concerned to 1 or more other investigating authorities if the coroner determines that the public interest would be served by the death concerned being investigated by them in the performance or exercise of their functions, powers, or duties.
@@ -1075,7 +1075,7 @@ The Governor-General may appoint another coroner to act as chief coroner until t
 (3) Information given in response to a notice under subsection (1)﻿(a) must be given in writing and,—
   (a) if given by a natural person, must be signed by the person; and
   (b) if given by a body corporate, must be signed by an officer authorised to sign on behalf of the body corporate.
-(4) This section does not limit or affect a coroner's powers under any other enactment, for example, under section 28 (coroner may call for report on fatal accident) of the Health and Safety in Employment Act 1992.
+(4) This section does not limit or affect a coroner's powers under any other enactment, for example, under section 200 (coroner may call for report on fatal accident) of the Health and Safety at Work Act 2015.
 
 ### 121 Grounds for refusing to comply with written notice
 (1) A person on whom a notice under section 120 is served is not required by section 120 to give or produce a thing sought by the notice if, and to the extent that,—
