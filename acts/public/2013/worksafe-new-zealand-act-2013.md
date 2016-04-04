@@ -1,5 +1,5 @@
 # WorkSafe New Zealand Act 2013
-_Consolidation as at 2013-11-18_
+_Consolidation as at 2016-04-04_
 
 ### 1 Title
 This Act is the WorkSafe New Zealand Act 2013.
@@ -15,17 +15,14 @@ In this Act, unless the context otherwise requires,—
   - **chief executive** means the chief executive of MBIE
   - **collective agreement** has the same meaning as in section 2 of the State Sector Act 1988
   - **employment agreement** has the same meaning as in section 5 of the Employment Relations Act 2000
+  - **EPA** means the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011
   - **MBIE** means the Ministry of Business, Innovation, and Employment
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **relevant health and safety legislation** means—
-    (a) the Health and Safety in Employment Act 1992 and any regulations made under that Act:
-    (b) the Machinery Act 1950 and any regulations made under that Act:
-    (c) any provisions of the following Acts (or any regulations made under those Acts) under which WorkSafe New Zealand has functions:
-      (i) Electricity Act 1992:
-      (ii) Gas Act 1992:
-      (iii) Hazardous Substances and New Organisms Act 1996
+  - **PCBU** has the same meaning as in section 17 of the Health and Safety at Work Act 2015
+  - **relevant health and safety legislation** has the same meaning as in section 16 of the Health and Safety at Work Act 2015
   - **transferred employee** means a person referred to in section 11 who has been offered and has accepted employment in WorkSafe New Zealand
-  - **workplace** has the meaning given to place of work in section 2(1) of the Health and Safety in Employment Act 1992
+  - **worker** has the same meaning as in section 19 of the Health and Safety at Work Act 2015
+  - **workplace** has the same meaning as in section 20 of the Health and Safety at Work Act 2015
   - **WorkSafe New Zealand** means the entity established by section 5.
 
 ### 4 Act binds the Crown
@@ -45,41 +42,47 @@ This section establishes WorkSafe New Zealand.
 (2) When appointing a member of the board, the Minister must have regard to the need to ensure that WorkSafe New Zealand has among its members persons who have, collectively, knowledge and experience of, and capability in, the following:
   (a) public sector governance:
   (b) central government processes:
-  (c) New Zealand's workplace health and safety environment, including workplace illness and occupational disease:
+  (c) New Zealand's work health and safety environment, including work illness and occupational disease:
   (d) perspectives of workers:
-  (e) perspectives of employers:
-  (f) administration of workplace health and safety legislation and risk management frameworks:
+  (e) perspectives of PCBUs:
+  (f) administration of work health and safety legislation and risk management frameworks:
   (g) business generally.
 (3) The Minister may not appoint any member of the board unless the Minister has first publicised an invitation for nominations from interested parties and considered any nominations received.
 
 ### 8 Advisory groups
 (1) WorkSafe New Zealand may establish an advisory group—
-  (a) to provide a forum for dialogue and co-operation between the Government, employers, and workers on workplace health and safety matters; and
-  (b) to provide advice to WorkSafe New Zealand that represents the views of the Government, employers, and workers on workplace health and safety matters.
+  (a) to provide a forum for dialogue and co-operation between the Government, PCBUs, and workers on work health and safety matters; and
+  (b) to provide advice to WorkSafe New Zealand that represents the views of the Government, PCBUs, and workers on work health and safety matters.
 (2) WorkSafe New Zealand may establish 1 or more other advisory groups to provide advice to it on matters relating to its functions.
-(3) An advisory group referred to in subsection (1) or (2) may (but is not required to) be established in accordance with clause 14(1)(a) of Schedule 5 of the Crown Entities Act 2004.
+(3) An advisory group referred to in subsection (1) or (2) may (but is not required to) be established in accordance with clause 14(1)﻿(a) of Schedule 5 of the Crown Entities Act 2004.
 
 **WorkSafe New Zealand's main objective and functions**
 
 ### 9 WorkSafe New Zealand's main objective
-(1) WorkSafe New Zealand's main objective is to promote and contribute to securing the health and safety of workers and workplaces.
+(1) WorkSafe New Zealand's main objective is to promote and contribute to a balanced framework for securing the health and safety of workers and workplaces.
+(1A) An additional objective of WorkSafe New Zealand is to promote and contribute to the safe supply and use of electricity and gas in New Zealand.
 (2) When performing its functions under the relevant health and safety legislation, WorkSafe New Zealand must act in a way that furthers any relevant objectives or purposes stated in that legislation.
 
 ### 10 WorkSafe New Zealand's functions
 WorkSafe New Zealand's functions are to—
-  (a) advise on the operation of the workplace health and safety system, including co-ordination across the different components of the system:
-  (b) make recommendations for changes to improve the effectiveness of the workplace health and safety system, including legislative changes:
+  (a) advise on the operation of the work health and safety system, including co-ordination across the different components of the system:
+  (b) make recommendations for changes to improve the effectiveness of the work health and safety system, including legislative changes:
   (c) monitor and enforce compliance with relevant health and safety legislation:
+  (ca) publish information about—
+    (i) its approach to enforcing compliance with relevant health and safety legislation (including where a provision of relevant health and safety legislation overlaps with a provision in another enactment); and
+    (ii) its performance standards for completing investigations in relation to enforcing compliance with relevant health and safety legislation:
   (d) make recommendations about the level of any funding (including fees or levies) that WorkSafe New Zealand requires to effectively carry out its functions:
   (e) develop codes of practice:
-  (f) provide guidance, advice, and information on workplace health and safety to—
+  (ea) develop safe work instruments:
+  (f) provide guidance, advice, and information on work health and safety to—
     (i) persons who have duties under the relevant health and safety legislation; and
     (ii) the public:
-  (g) promote and support research, education, and training on or in workplace health and safety:
-  (h) collect, analyse, and publish statistics and other information relating to workplace health and safety:
-  (i) engage in, promote, and co-ordinate the sharing of information with other agencies and interested persons that contribute to workplace health and safety:
-  (j) foster a co-operative and consultative relationship between persons who have duties under the relevant health and safety legislation and the persons to whom they owe duties and their representatives in relation to workplace health and safety:
-  (k) promote and co-ordinate the implementation of workplace health and safety initiatives by establishing partnerships or collaborating with other agencies or interested persons in a coherent, efficient, and effective way:
+  (g) promote and support research, education, and training in work health and safety:
+  (h) collect, analyse, and publish statistics and other information relating to work health and safety:
+  (i) engage in, promote, and co-ordinate the sharing of information with other agencies and interested persons that contribute to work health and safety:
+  (j) foster a co-operative and consultative relationship between persons who have duties under the relevant health and safety legislation and the persons to whom they owe duties and their representatives in relation to work health and safety:
+  (ja) foster a co-operative and consultative relationship with the EPA when carrying out its functions, duties, and powers in respect of hazardous substances:
+  (k) promote and co-ordinate the implementation of work health and safety initiatives by establishing partnerships or collaborating with other agencies or interested persons in a coherent, efficient, and effective way:
   (l) perform or exercise any other functions or powers conferred on WorkSafe New Zealand by or under any other enactment:
   (m) perform any additional function that the Minister directs under section 112 of the Crown Entities Act 2004.
 
@@ -145,7 +148,7 @@ The employment of a transferred employee by WorkSafe New Zealand is to be treate
   (f) the commencement, continuation, or enforcement of proceedings relating to the function by or against the chief executive or MBIE may instead be carried out by or against WorkSafe New Zealand without amendment to the proceedings; and
   (g) a matter or thing relating to the function that would, but for this section, have been completed by the chief executive or MBIE may be completed by WorkSafe New Zealand.
 (3) On and after the commencement of this Act, property identified by MBIE as being owned by the chief executive or MBIE solely or principally for the purposes of the function and that should be transferred to WorkSafe New Zealand is vested in WorkSafe New Zealand.
-(4) The transfer of information from the chief executive or MBIE to WorkSafe New Zealand under subsection (2)(a) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(4) The transfer of information from the chief executive or MBIE to WorkSafe New Zealand under subsection (2)﻿(a) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
 
 ### 18 Transitional provision relating to legal services in respect of functions transferred to WorkSafe New Zealand
 (1) For the purposes of section 17(2), a lawyer who is employed by MBIE may, in the course of his or her employment, provide legal services to WorkSafe New Zealand in respect of a function or power of the chief executive under the relevant health and safety legislation that is transferred to WorkSafe New Zealand if the legal services are provided in connection with a matter or thing that—
@@ -210,8 +213,8 @@ Amend the enactments specified in the Schedule as set out in that schedule.
 (4) Without limiting subsection (3), the Secretary has the powers necessary to carry out the functions in a specified provision in relation to a specified matter in accordance with this Act.
 (5) WorkSafe and the Secretary must work co-operatively to ensure that their functions under this Act and any regulations made under this Act are carried out in an effective and efficient manner.
 (6) In this section,—
-  - **specified matter** means a matter that is specified in a Gazette notice under subsection (2)(a)
-  - **specified provision** means a provision that is specified in a Gazette notice under subsection (2)(b).
+  - **specified matter** means a matter that is specified in a Gazette notice under subsection (2)﻿(a)
+  - **specified provision** means a provision that is specified in a Gazette notice under subsection (2)﻿(b).
 
 ### 5B WorkSafe and Secretary must share information
 (1) WorkSafe must provide information to the Secretary if the information is necessary or desirable for the Secretary to carry out his or her functions under this Act.
@@ -244,8 +247,8 @@ Amend the enactments specified in the Schedule as set out in that schedule.
 (4) Without limiting subsection (3), the Secretary has the powers necessary to carry out the functions in a specified provision in relation to a specified matter in accordance with this Act.
 (5) WorkSafe and the Secretary must work co-operatively to ensure that their functions under this Act and any regulations made under this Act are carried out in an effective and efficient manner.
 (6) In this section,—
-  - **specified matter** means a matter that is specified in a Gazette notice under subsection (2)(a)
-  - **specified provision** means a provision that is specified in a Gazette notice under subsection (2)(b).
+  - **specified matter** means a matter that is specified in a Gazette notice under subsection (2)﻿(a)
+  - **specified provision** means a provision that is specified in a Gazette notice under subsection (2)﻿(b).
 
 ### 6B WorkSafe and Secretary must share information
 (1) WorkSafe must provide information to the Secretary if the information is necessary or desirable for the Secretary to carry out his or her functions under this Act.
