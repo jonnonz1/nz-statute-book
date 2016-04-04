@@ -1,5 +1,5 @@
 # Sharemilking Agreements Act 1937
-_Consolidation as at 2012-06-01_
+_Consolidation as at 2016-04-04_
 
 > An Act to make provision for safeguarding the interests of sharemilkers under sharemilking agreements
 
@@ -527,7 +527,7 @@ The farm owner (or the farm owner's agent) has the right to inspect the sharemil
 The sharemilker is responsible during the term of this Agreement for paying the sharemilker's and sharemilker's employees' accident compensation levies as required under legislation.
 
 ### 124
-The farm owner and the sharemilker acknowledge that safety in the workplace is a priority to both parties and that both parties will take all practicable measures to ensure safe working conditions and to comply with the Health and Safety in Employment Act 1992. To this end, the parties agree to take all practicable steps to provide a safe working environment, and act in accordance with good practice and relevant standards set by the Department of Labour. If either of the parties brings people onto the farm, that party will be responsible for those person's safety.
+The farm owner and the sharemilker acknowledge that safety in the workplace is a priority to both parties and that both parties will take all practicable measures to ensure safe working conditions and to comply with the Health and Safety at Work Act 2015. To this end, the parties agree to take all practicable steps to provide a safe working environment, and act in accordance with good practice and relevant standards set by the Department of Labour. If either of the parties brings people onto the farm, that party will be responsible for those person's safety.
 
 ### 125
 The farm owner agrees to provide reasonable access to officials of the Federation or any duly appointed representative of the sharemilker.
