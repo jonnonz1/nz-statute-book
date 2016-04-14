@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-04-14_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -166,7 +166,8 @@ This Act is the Sale and Supply of Alcohol Act 2012.
   - **permanent club charter** means a charter, granted under section 260(3) of the Licensing Act 1908 (or a corresponding provision of any earlier former licensing Act), that was in force immediately before the commencement of this section
   - **permitted trading hours** , in relation to any licensed premises,—
     (a) while a special licence applies to the premises, means the hours stated in the licence; and
-    (b) in any other case, means the trading hours permitted for the premises that are stated in section 44 or 45
+    (b) in any other case, means the trading hours permitted for the premises that are stated in section 44 or 45; and
+    (c) in the case of an RNZRSA club to which section 47A applies, includes the hours specified in section 47A(2)
   - **Police** means the New Zealand Police
   - **premises** —
     (a) includes a conveyance; and
@@ -191,6 +192,8 @@ This Act is the Sale and Supply of Alcohol Act 2012.
   - **restricted area** —
     (a) means an area that is designated (under section 119 or a corresponding provision of a former licensing Act) as an area to which minors must not be admitted; and
     (b) in relation to any licensed premises or the licensee or a manager of any licensed premises, means an area of those premises that is designated (under this Act or a former licensing Act) as an area to which minors must not be admitted
+  - **RNZRSA** means the Royal New Zealand Returned and Services’ Association that is incorporated under the Incorporated Societies Act 1908 and is registered as a charity under the Charities Act 2005
+  - **RNZRSA club** means a club that is a member or an affiliate of RNZRSA
   - **secretary** , in relation to a licensing trust or a community trust, means the secretary of the trust
   - **sell** , in relation to alcohol, includes—
     (a) charge a fee (however described, and whether an entry fee, a ticket price, or a payment of any other kind) for an alcohol-inclusive matter; and
@@ -497,7 +500,7 @@ A special licence must not be issued in circumstances where (in the opinion of t
 (2) The trading hours permitted for any licensed premises are the more restrictive maximum trading hours concerned if—
   (a) the premises are situated in a district where there is not in force a local alcohol policy containing an element that has the effect of stating maximum trading hours for the premises; but
   (b) the licence has been issued subject to a condition or conditions to the effect that some more restrictive maximum trading hours must be observed.
-(3) This section is overridden by sections 45A to 45G (Rugby World Cup 2015 extended trading hours).
+(3) This section is overridden by sections 45A to 45G (Rugby World Cup 2015 extended trading hours) and section 47A (Anzac Day trading hours for licensed RNZRSA clubs).
 
 ### 45 Permitted trading hours for premises with relevant local alcohol policy
 (1) The trading hours permitted for any licensed premises are the applicable maximum trading hours stated for the premises in the local alcohol policy concerned if—
@@ -506,7 +509,7 @@ A special licence must not be issued in circumstances where (in the opinion of t
 (2) The trading hours permitted for any licensed premises are the more restrictive maximum trading hours concerned if—
   (a) the premises are situated in a district where there is in force a local alcohol policy containing an element that has the effect of stating maximum trading hours for the premises; but
   (b) the licence has been issued subject to a condition or conditions to the effect that some more restrictive maximum trading hours must be observed.
-(3) This section is overridden by sections 45A to 45G (Rugby World Cup 2015 extended trading hours).
+(3) This section is overridden by sections 45A to 45G (Rugby World Cup 2015 extended trading hours) and section 47A (Anzac Day trading hours for licensed RNZRSA clubs).
 
 **Rugby World Cup 2015 extended trading hours**
 
@@ -616,6 +619,16 @@ Example 3—non-successive gamesThe licensee notifies the first and third, but n
     (i) more than an hour before he or she starts (or is due to start) eating a meal; or
     (ii) more than an hour after he or she finishes eating a meal.
 (4) Subsection (1) is subject to section 173 of the Gambling Act 2003.
+
+### 47A Anzac Day trading hours for licensed RNZRSA clubs
+(1) This section applies to licensed premises if—
+  (a) the premises houses an RNZRSA club; and
+  (b) the club holds a club licence for the premises.
+(2) Despite anything in section 44 or 45, the permitted trading hours for any licensed premises to which this section applies include the hours from 4 am to 1 pm on Anzac Day.
+(3) Any one-way door restriction applicable to the premises does not operate during the hours specified in subsection (2).
+(4) An RNZRSA club’s use of land at its licensed premises during the hours specified in subsection (2) must be treated as not contravening section 9 of the Resource Management Act 1991 if—
+  (a) this section applies to the premises; and
+  (b) the use would comply with section 9 of the Resource Management Act 1991 if it occurred during any other permitted trading hours.
 
 ### 48 Sale on Anzac Day morning, Good Friday, Easter Sunday, and Christmas Day restricted: off-licences
 The holder of an off-licence must ensure that—
