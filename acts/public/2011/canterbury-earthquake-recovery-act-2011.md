@@ -1,5 +1,5 @@
 # Canterbury Earthquake Recovery Act 2011
-_Consolidation as at 2014-08-08_
+_Consolidation as at 2016-04-19_
 
 ### 1 Title
 This Act is the Canterbury Earthquake Recovery Act 2011.
@@ -160,7 +160,7 @@ The chief executive has the following functions for the purpose of giving effect
 (2) On and from the commencement of the approval of a Recovery Strategy, the Recovery Strategy—
   (a) is to be read together with and forms part of the document or instrument; and
   (b) prevails where there is any inconsistency between it and the document or instrument.
-(3) No provision of the Recovery Strategy, as incorporated in an RMA document under subsection (2)(a), may be reviewed, changed, or varied under Schedule 1 of the Resource Management Act 1991.
+(3) No provision of the Recovery Strategy, as incorporated in an RMA document under subsection (2)﻿(a), may be reviewed, changed, or varied under Schedule 1 of the Resource Management Act 1991.
 
 **Recovery Plans**
 
@@ -241,8 +241,8 @@ The chief executive has the following functions for the purpose of giving effect
   (a) to include specific objectives, policies, and methods set out in the Recovery Plan; or
   (b) to remove any objectives, policies, or methods in the document that the Recovery Plan identifies for deletion; or
   (c) to change or vary any objectives, policies, or methods in the document to give effect to provisions of the Recovery Plan.
-(2) A council must make the amendments referred to in subsection (1)(a) or (b) as soon as practicable without using the process in Schedule 1 of the Resource Management Act 1991 or any other formal public process.
-(3) A council must make the amendments referred to in subsection (1)(c) within the time specified in the Recovery Plan or (if not specified) as soon as practicable, in accordance with a public process determined by the Minister.
+(2) A council must make the amendments referred to in subsection (1)﻿(a) or (b) as soon as practicable without using the process in Schedule 1 of the Resource Management Act 1991 or any other formal public process.
+(3) A council must make the amendments referred to in subsection (1)﻿(c) within the time specified in the Recovery Plan or (if not specified) as soon as practicable, in accordance with a public process determined by the Minister.
 (4) To avoid doubt, nothing in section 32 or Schedule 1 of the Resource Management Act 1991 applies to action taken under this section.
 (5) Despite clause 21 of Schedule 1 of the Resource Management Act 1991, only the Minister may request a change or variation to any amendment made under subsection (1).
 (6) Nothing in section 85 of the Resource Management Act 1991 applies in respect of any amendment to an RMA document under this section.
@@ -393,12 +393,12 @@ The chief executive may investigate any matter or cause any matter to be investi
   (b) attach in a prominent place on, or adjacent to, the works a notice that warns people not to approach the works:
   (c) by written notice direct an owner, occupier, or other person to leave the works or land for a specified period or until further notice:
   (d) give written notice of the work to be carried out.
-(3) If practicable, a copy of a notice under subsection (2)(d) must be given to—
+(3) If practicable, a copy of a notice under subsection (2)﻿(d) must be given to—
   (a) the owner of the building or land; and
   (b) every occupier of the building or land; and
   (c) every person who has an interest in the land on which the works are situated that is registered under the Land Transfer Act 1952; and
   (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 137 of the Land Transfer Act 1952.
-(4) If it is necessary to enter any land to carry out any work, any notice under subsection (2)(d) to the occupier must be given not less than 24 hours in advance.
+(4) If it is necessary to enter any land to carry out any work, any notice under subsection (2)﻿(d) to the occupier must be given not less than 24 hours in advance.
 (5) No notice needs to be given under subsection (4) if the work is necessary because of—
   (a) sudden emergency causing or likely to cause—
     (i) loss of life or injury to a person; or
@@ -406,7 +406,7 @@ The chief executive may investigate any matter or cause any matter to be investi
     (iii) damage to the environment; or
   (b) danger to any works or adjoining property.
 (6) The chief executive must ensure that, if the power in subsection (5) is exercised, the occupier and, if the occupier is not the owner, the owner of the land or building are informed of the exercise of that power as soon as practicable.
-(7) Any notice under subsection (2)(c) must be given at least 1 month in advance, but there is no right of appeal or objection against the notice.
+(7) Any notice under subsection (2)﻿(c) must be given at least 1 month in advance, but there is no right of appeal or objection against the notice.
 
 ### 40 Compensation for demolition of buildings
 (1) If the chief executive demolishes a dangerous building,—
@@ -421,9 +421,9 @@ The chief executive may investigate any matter or cause any matter to be investi
 (2) Claims under this section must be made and determined in accordance with this section and subpart 5.
 
 ### 42 Offences relating to works
-(1) A person commits an offence if the person fails to comply with section 38(4)(a) or with a notice given under section 39(2)(c).
+(1) A person commits an offence if the person fails to comply with section 38(4)﻿(a) or with a notice given under section 39(2)﻿(c).
 (2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000.
-(3) It is a defence to a charge against a person in relation to a failure to comply with section 38(4)(a) or with a notice given under section 39(2)(c) if the defendant proves—
+(3) It is a defence to a charge against a person in relation to a failure to comply with section 38(4)﻿(a) or with a notice given under section 39(2)﻿(c) if the defendant proves—
   (a) that the defendant took all reasonable steps to ensure that the defendant complied with that provision or notice; or
   (b) that, in the circumstances of the particular case, the defendant could not reasonably have been expected to comply with that provision or notice.
 
@@ -610,8 +610,8 @@ The exercise of the power giving rise to a claim for compensation under this sub
 ### 68 Appeal
 (1) There is no right of appeal against a decision of the Minister or the chief executive acting, or purporting to act, under this Act, except as provided in sections 69, 70, 79, and 80.
 (2) A proceeding must not be brought, and a court must not hear any proceeding, that is in breach of this section.
-(3) Despite anything to the contrary in the Resource Management Act 1991, while this Act is in force nothing in section 16 or 17 or Part 12 of the Resource Management Act 1991 applies to an activity or use that has been the subject of a decision of a type described in section 69(1)(c) or (d) in relation to that matter.
-(4) Despite anything to the contrary in the Resource Management Act 1991, while this Act is in force there is no right of appeal under the Resource Management Act 1991 against a decision of a type described in section 69(1)(c) or (d), except as provided in sections 69 and 70.
+(3) Despite anything to the contrary in the Resource Management Act 1991, while this Act is in force nothing in section 16 or 17 or Part 12 of the Resource Management Act 1991 applies to an activity or use that has been the subject of a decision of a type described in section 69(1)﻿(c) or (d) in relation to that matter.
+(4) Despite anything to the contrary in the Resource Management Act 1991, while this Act is in force there is no right of appeal under the Resource Management Act 1991 against a decision of a type described in section 69(1)﻿(c) or (d), except as provided in sections 69 and 70.
 (5) To avoid doubt, subsection (4) does not apply to or affect appeals or objections commenced under that Act before the commencement of this Act.
 (6) To avoid doubt, there is no right of appeal, whether under this Act or the Resource Management Act 1991, against any decision under section 17, 18, 21, 22, 24, 27, or 43.
 
@@ -624,11 +624,11 @@ The exercise of the power giving rise to a claim for compensation under this sub
   (e) against a decision to give a call-in notice under section 50; or
   (f) in respect of any dispute referred to in section 37.
 (2) The persons who may appeal under subsection (1) are,—
-  (a) in the case of an appeal under subsection (1)(a), the claimant:
-  (b) in the case of an appeal under subsection (1)(b), the council, requiring authority, or heritage protection authority concerned:
-  (c) in the case of an appeal under subsection (1)(c) or (d), the person who would otherwise have had a right of appeal or objection under the Resource Management Act 1991:
-  (d) in the case of an appeal under subsection (1)(e), the council or council organisation concerned and the person who is the subject of the decision that was called in:
-  (e) in the case of an appeal under subsection (1)(f), any adjoining owner who disputes the survey concerned.
+  (a) in the case of an appeal under subsection (1)﻿(a), the claimant:
+  (b) in the case of an appeal under subsection (1)﻿(b), the council, requiring authority, or heritage protection authority concerned:
+  (c) in the case of an appeal under subsection (1)﻿(c) or (d), the person who would otherwise have had a right of appeal or objection under the Resource Management Act 1991:
+  (d) in the case of an appeal under subsection (1)﻿(e), the council or council organisation concerned and the person who is the subject of the decision that was called in:
+  (e) in the case of an appeal under subsection (1)﻿(f), any adjoining owner who disputes the survey concerned.
 (3) For the purposes of hearing an appeal under subsection (1), the court may appoint 1 or more suitably qualified persons (including an Environment Commissioner or other expert) to assist it by giving advice if the court considers that it is desirable to have expert assistance.
 (4) The advisers must give their advice in the manner that the court may direct during the proceeding on any question referred to them.
 (5) The advice is information provided to the court; and may be given the weight that the court thinks fit.
@@ -640,8 +640,8 @@ The exercise of the power giving rise to a claim for compensation under this sub
   (a) as of right, on a substantive question of law:
   (b) on any other question, only with the leave of the Court of Appeal, to be given if that court considers the appeal necessary in the interests of justice.
 (2) An appeal under this section must be brought in accordance with the rules of court, except that the appeal must be brought within 10 working days after the decision appealed against is given.
-(3) The decision of the Court of Appeal is final in the case of any appeal referred to in section 69(1)(b) to (f).
-(4) In the case of an appeal referred to in section 69(1)(a), an appeal from the Court of Appeal to the Supreme Court may be brought against a decision of the Court of Appeal on a question of law with the leave of the Supreme Court given under the Supreme Court Act 2003.
+(3) The decision of the Court of Appeal is final in the case of any appeal referred to in section 69(1)﻿(b) to (f).
+(4) In the case of an appeal referred to in section 69(1)﻿(a), an appeal from the Court of Appeal to the Supreme Court may be brought against a decision of the Court of Appeal on a question of law with the leave of the Supreme Court given under the Supreme Court Act 2003.
 
 ### Subpart 7 — Delegated legislation
 
