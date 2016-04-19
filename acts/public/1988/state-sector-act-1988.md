@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2015-12-01_
+_Consolidation as at 2016-04-19_
 
 > Title
 
@@ -1299,7 +1299,6 @@ Without limiting the provisions of the Acts Interpretation Act 1924, it is hereb
 
 | Departmental agency | Host department |
 | --- | --- |
-| Canterbury Earthquake Recovery Authority | Department of the Prime Minister and Cabinet |
 
 ## Schedule 2 — State enterprises
 
