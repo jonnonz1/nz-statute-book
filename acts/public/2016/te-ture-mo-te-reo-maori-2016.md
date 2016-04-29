@@ -7,7 +7,7 @@ _Consolidation as at 2016-04-29_
 Ko tēnei te Ture mō Te Reo Māori 2016.
 
 ### 2 Te tīmatanga
-(1) Ka mana te wehenga 39 (e whakatau ana i te whakakorenga o Te Pūtahi Paoho) hei te rā tōmua ake o ngā rā e whai ake nei:
+(1) Ka mana ngā wehenga 18(d), te 19(1)﻿(g) ki te (j), te 39, te 43, te 49, me te Āpitihanga 7 hei te rā tōmua ake o ēnei rā e whai ake nei:
   (a) ko tētahi rā ka whakaritea e te Kāwana-Tianara mā te Ōta Kaunihera;
   (b) ko te 30 o Poutū-te-rangi 2017 hoki.
 (2) Ka mana te toenga o tēnei Ture hei te rā ka whai i muri atu i te rangi ka whakaaetia te Ture nei e te Upoko Ariki o Niu Tireni.
@@ -494,7 +494,7 @@ Ka whakahoungia ngā whakaturetanga e tautuhia ana i roto i te Āpitihanga 8 e a
 This Act is the Māori Language Act 2016.
 
 ### 2 Commencement
-(1) Section 39 (which provides for the disestablishment of Te Pūtahi Paoho) comes into force on the earlier of the following dates:
+(1) Sections 18(d), 19(1)﻿(g) to (j), 39, 43, 49, and Schedule 7 come into force on the earlier of the following dates:
   (a) a date set by the Governor-General by Order in Council; and
   (b) 30 March 2017.
 (2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
