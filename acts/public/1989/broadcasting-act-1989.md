@@ -1,5 +1,5 @@
 # Broadcasting Act 1989
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2016-04-30_
 
 > An Act—ato provide for the maintenance of programme standards in broadcasting in New Zealand; andbto establish the Broadcasting Standards Authority and to define its functions and powers; andcto establish the Broadcasting Commission and to define its functions and powers; anddto enable political parties to broadcast election programmes for Parliamentary elections free of charge; andefto repeal the Broadcasting Act 1976; andgto provide for matters incidental thereto
 
@@ -17,7 +17,7 @@ _Consolidation as at 2014-04-01_
         (B) any product or service for the commercial advantage of any person; and
       (ii) is a programme or a part of a programme for which payment is made, whether in money or otherwise; and
     (b) includes a credit in respect of a sponsorship or underwriting arrangement, being a credit that—
-      (i) is intended to promote any of the matters specified in paragraph (a)(i); and
+      (i) is intended to promote any of the matters specified in paragraph (a)﻿(i); and
       (ii) is a credit for which payment is made, whether in money or otherwise; but
     (c) does not include programme material that is the subject of a credit to which paragraph (b) applies; and
     (d) does not include any programme or credit of the kind described in paragraph (a) or paragraph (b)—
@@ -26,8 +26,8 @@ _Consolidation as at 2014-04-01_
       (iii) that constitutes an election programme
   - **alcohol** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
   - **approved code of broadcasting practice** means a code of broadcasting practice—
-    (a) developed and issued under section 21(1)(f); or
-    (b) approved for the purposes of this Act under section 21(1)(g)
+    (a) developed and issued under section 21(1)﻿(f); or
+    (b) approved for the purposes of this Act under section 21(1)﻿(g)
   - **Authority** means the Broadcasting Standards Authority established by section 20
   - **broadcaster** means, subject to subsection (2), a person who broadcasts programmes
   - **broadcasting** means any transmission of programmes, whether or not encrypted, by radio waves or other means of telecommunication for reception by the public by means of broadcasting receiving apparatus but does not include any such transmission of programmes—
@@ -114,17 +114,17 @@ This Part is based on the following principles:
   (b) the complainant offers reasonable proof that the original complaint was lodged in accordance with subsection (2).
 
 ### 7 Decisions in respect of formal complaints
-(1) If a complaint under section 6(1)(a) is found to be justified, in whole or in part, the broadcaster shall take appropriate action and shall notify the complainant in writing of the action taken.
-(2) If a complaint under section 6(1)(a) is found not to be justified, in whole or in part, the broadcaster shall notify the complainant in writing of the decision.
+(1) If a complaint under section 6(1)﻿(a) is found to be justified, in whole or in part, the broadcaster shall take appropriate action and shall notify the complainant in writing of the action taken.
+(2) If a complaint under section 6(1)﻿(a) is found not to be justified, in whole or in part, the broadcaster shall notify the complainant in writing of the decision.
 (3) The broadcaster shall, in notifying a complainant pursuant to subsection (1) or subsection (2), give to the complainant information concerning the complainant's right, by way of referral to the Authority under section 8, to seek an investigation and review of the broadcaster's action or decision, as the case may be.
 
 ### 8 Right of complainant to refer formal complaint to Authority
-(1) A complainant must refer the complaint directly to the Authority if the complaint is that an election programme did not meet 1 or more of the standards in section 4(1)(a) to (c) and (e).
+(1) A complainant must refer the complaint directly to the Authority if the complaint is that an election programme did not meet 1 or more of the standards in section 4(1)﻿(a) to (c) and (e).
 (1A) A complainant may refer the complaint directly to the Authority if—
-  (a) the complaint is that a broadcaster failed to comply with section 4(1)(c); and
+  (a) the complaint is that a broadcaster failed to comply with section 4(1)﻿(c); and
   (b) the complainant chooses to refer the complaint directly to the Authority.
 (1B) A complainant may refer the complaint to the Authority if the complainant—
-  (a) made the complaint under section 6(1)(a); and
+  (a) made the complaint under section 6(1)﻿(a); and
   (b) is dissatisfied with—
     (i) the decision of the broadcaster; or
     (ii) the action taken by the broadcaster.
@@ -136,7 +136,7 @@ This Part is based on the following principles:
     (ii) the action taken by the broadcaster; and
   (d) the broadcaster—
     (i) has not given the complainant a notice under subsection (1D); or
-    (ii) has given the complainant a notice under subsection (1D) but has not complied with the statement under subsection (1D)(c).
+    (ii) has given the complainant a notice under subsection (1D) but has not complied with the statement under subsection (1D)﻿(c).
 (1D) A broadcaster that receives a complaint under section 6 may give the complainant a notice in writing or electronically within 20 working days after receiving the complaint—
   (a) stating that the broadcaster will be unable to make a decision or take action on the complaint within 20 working days after receiving the complaint; and
   (b) stating the reasons why the broadcaster will be unable to do so; and
@@ -221,9 +221,9 @@ Sections 4B, 4C, 4D, 5, 6, 7, 8, and 9 of the Commissions of Inquiry Act 1908 sh
   (a) an order directing that the broadcaster withdraw the series that is the subject of the complaint; or
   (b) an order directing that the broadcaster withdraw 1 or more specified programmes; or
   (c) an order (which may be made in conjunction with an order made under paragraph (b)) specifying the conditions that must be complied with by any broadcaster who broadcasts the series that is the subject of the complaint or any programme in that series.
-(5) Where the Authority makes, under subsection (3)(a) or subsection (4)(b), an order in relation to any programme, no broadcaster shall broadcast that programme.
-(6) Where the Authority makes, under subsection (3)(b) or subsection (4)(c), an order in relation to any series or programmes in a series, no broadcaster shall broadcast, otherwise than in accordance with the conditions specified in the order, that series or any programme in that series.
-(7) Where the Authority makes, under subsection (4)(a), an order in relation to any series, no broadcaster shall broadcast that series or any programme in that series.
+(5) Where the Authority makes, under subsection (3)﻿(a) or subsection (4)﻿(b), an order in relation to any programme, no broadcaster shall broadcast that programme.
+(6) Where the Authority makes, under subsection (3)﻿(b) or subsection (4)﻿(c), an order in relation to any series or programmes in a series, no broadcaster shall broadcast, otherwise than in accordance with the conditions specified in the order, that series or any programme in that series.
+(7) Where the Authority makes, under subsection (4)﻿(a), an order in relation to any series, no broadcaster shall broadcast that series or any programme in that series.
 
 ### 14 Offences
 Every broadcaster commits an offence and is liable on conviction to a fine not exceeding $100,000—
@@ -288,10 +288,10 @@ Except in any proceedings for perjury within the meaning of the Crimes Act 1961 
 
 ### 21 Functions of Authority
 (1) The functions of the Authority shall be—
-  (a) to receive and determine complaints from persons who are dissatisfied with the outcome of complaints made to broadcasters under section 6(1)(a); and
-  (b) to receive and determine complaints that election programmes did not meet 1 or more of the standards in section 4(1)(a) to (c) and (e); and
+  (a) to receive and determine complaints from persons who are dissatisfied with the outcome of complaints made to broadcasters under section 6(1)﻿(a); and
+  (b) to receive and determine complaints that election programmes did not meet 1 or more of the standards in section 4(1)﻿(a) to (c) and (e); and
   (ba) to receive and determine complaints when—
-    (i) the complaint is that a broadcaster failed to comply with section 4(1)(c); and
+    (i) the complaint is that a broadcaster failed to comply with section 4(1)﻿(c); and
     (ii) the complainant has chosen to refer the complaint directly to the Authority; and
   (c) to publicise its procedures in relation to complaints; and
   (d) to issue to any or all broadcasters, advisory opinions relating to broadcasting standards and ethical conduct in broadcasting; and
@@ -306,22 +306,22 @@ Except in any proceedings for perjury within the meaning of the Crimes Act 1961 
   (f) to develop and issue codes of broadcasting practice of the kinds described in paragraph (e) in any case where the Authority considers it appropriate:
   (g) to approve, for the purposes of this Act, codes of practice of the kinds described in paragraph (e):
   (h) to conduct research and publish findings on matters relating to standards in broadcasting.
-(2) The Authority shall, in encouraging, under subsection (1)(e), the development by broadcasters of codes of broadcasting practice, encourage broadcasters to consult with persons having an interest in the subject matter of those codes.
+(2) The Authority shall, in encouraging, under subsection (1)﻿(e), the development by broadcasters of codes of broadcasting practice, encourage broadcasters to consult with persons having an interest in the subject matter of those codes.
 (3) Nothing in subsection (1) shall relate to advertising programmes or any credit in respect of a sponsorship or underwriting arrangement entered into in relation to a programme except where neither the broadcaster nor the advertiser recognise, in relation to a specific complaint, the jurisdiction of the Advertising Standards Complaints Board (a board appointed by the Advertising Standards Authority Incorporated).
-(4) When performing its functions under subsection (1)(e), (f), or (g) in relation to a code of practice of the kind described in subsection (1)(e)(vii), the Authority must consult with the Privacy Commissioner appointed under the Privacy Act 1993.
+(4) When performing its functions under subsection (1)﻿(e), (f), or (g) in relation to a code of practice of the kind described in subsection (1)﻿(e)﻿(vii), the Authority must consult with the Privacy Commissioner appointed under the Privacy Act 1993.
 (5) Except as expressly provided otherwise in this or any other Act, the Authority must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
   (a) this Act; and
   (b) any other Act that expressly provides for the functions, powers, or duties of the Authority (other than the Crown Entities Act 2004).
 
 ### 22 Notification and publication of approved codes of broadcasting practice
-(1) Where a code of broadcasting practice is issued under section 21(1)(f) or approved under section 21(1)(g), the Authority shall publish in the Gazette as soon as practicable a notice—
+(1) Where a code of broadcasting practice is issued under section 21(1)﻿(f) or approved under section 21(1)﻿(g), the Authority shall publish in the Gazette as soon as practicable a notice—
   (a) stating that the code of broadcasting practice has been so issued or approved; and
   (b) indicating where copies of the approved code of broadcasting practice can be purchased.
 (2) The Authority shall publish each approved code of broadcasting practice.
 (3) Copies of all approved codes of broadcasting practice that are for the time being in force shall be procurable by purchase from the Authority at a reasonable price.
 
 ### 23 Power of Minister to request Authority to consider matter involving broadcasting standards
-(1) Where the Minister considers it is desirable in the public interest to do so, the Minister may refer any matter relating to broadcasting standards to the Authority and require the Authority to consider whether or not it is appropriate to issue an advisory opinion on the matter under section 21(1)(d).
+(1) Where the Minister considers it is desirable in the public interest to do so, the Minister may refer any matter relating to broadcasting standards to the Authority and require the Authority to consider whether or not it is appropriate to issue an advisory opinion on the matter under section 21(1)﻿(d).
 (2) As soon as practicable after referring any matter to the Authority under subsection (1), the Minister shall publish in the Gazette and lay before the House of Representatives a copy of the reference.
 
 ### 24 Powers of Authority
@@ -375,7 +375,7 @@ Except in any proceedings for perjury within the meaning of the Crimes Act 1961 
 ### 30C Annual levy
 The amount of the annual levy payable under section 30B by a broadcaster shall be an amount ascertained in accordance with the following formula:a × bwhere—
   (a) is the broadcaster's total revenue for the financial year of the broadcaster to which the return under section 30A relates; and
-  (b) is .00051.
+  (b) is ﻿.﻿00051.
 
 ### 30D Rebates
 (1) The Authority may grant to a broadcaster a rebate in respect of the whole or any part of the annual levy paid by that broadcaster under section 30B.
@@ -434,7 +434,7 @@ The provisions set out in Schedule 1 shall apply in respect of the Authority.
   (c) archiving content.
 
 ### 37 Promotion of New Zealand content in programming
-The Commission shall, in the exercise of its functions under sections 36(1)(a) and 36(2)(a) and (b),—
+The Commission shall, in the exercise of its functions under sections 36(1)﻿(a) and 36(2)﻿(a) and (b),—
   (a) consult from time to time with—being in each case persons or representatives who can, in the opinion of the Commission, assist in the development of the Commission's funding policies; and
     (i) persons who have an interest in New Zealand broadcasting and the production of programmes in New Zealand; and
     (ia) persons who have an interest in transmitting on demand in New Zealand and the production of content in New Zealand; and
@@ -455,7 +455,7 @@ The Commission, in assessing any proposal for the Commission to make funds avail
   (b) the potential size of the audience likely to benefit from the project to which the proposal relates; and
   (c) in the case of a project to maintain or extend the coverage of television broadcasting or sound radio broadcasting, the extent of the likely benefit to the consumers of broadcasting services affected by the project in relation to the cost of the project; and
   (d) in the case of a proposal for the production of any programme or content, the extent to which the proposed programme or content would contribute to—
-    (i) the Commission meeting its objectives under more than 1 of the categories specified in section 36(1)(a) and (c) and (2)(b); and
+    (i) the Commission meeting its objectives under more than 1 of the categories specified in section 36(1)﻿(a) and (c) and (2)﻿(b); and
     (ii) the availability of a balanced range of programmes and content providing for varied interests in the community; and
   (e) in the case of a proposal for the production of any programme or content, the likelihood that the proposed programme or content, if produced, would be broadcast or transmitted on demand.
 
@@ -527,7 +527,8 @@ The provisions set out in Schedule 1 shall apply in respect of the Commission.
 (2) Te Reo Whakapuaki Irirangi may also make funds available (on the terms and conditions that it thinks fit and, as far as practicable, in a manner consistent with its primary function) for—
   (a) transmitting on demand; and
   (b) producing content for transmitting on demand; and
-  (c) archiving content.
+  (c) archiving content; and
+  (d) other activities to promote the Māori language and Māori culture.
 
 ### 53C Consultation
 Te Reo Whakapuaki Irirangi shall, in the exercise of its functions under section 53B, consult from time to time with representatives of Maori interests, broadcasters, persons who transmit on demand, and others, being in each case persons or representatives who can, in the opinion of Te Reo Whakapuaki Irirangi, assist in the development of Te Reo Whakapuaki Irirangi's funding policies.
@@ -559,7 +560,7 @@ In making funds available under section 53B, Te Reo Whakapuaki Irirangi shall, t
   (c) adopt measures to ensure that recipients of funds comply with the terms referred to in paragraph (b).
 
 ### 53I Membership of Te Reo Whakapuaki Irirangi
-The board of Te Reo Whakapuaki Irirangi consists of not more than 7 members.
+The board of Te Reo Whakapuaki Irirangi consists of not more than 5 members appointed by the Minister for Māori Development in accordance with section 42 of Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016.
 
 ### 53J Term of office of members of Te Reo Whakapuaki Irirangi
 [Repealed]
@@ -690,9 +691,9 @@ The income of Te Reo Whakapuaki Irirangi shall be exempt from income tax.
   (d) any advertisement placed by the Electoral Commission, a Registrar of Electors, a Returning Officer, or other official for the purposes of the Electoral Act 1993; or
   (e) any non-partisan advertisement broadcast, as a community service, by the broadcaster.
 (2A) Nothing in subsection (1) restricts the amount of money that a political party or group of related political parties may spend on the production costs of an election programme.
-(2B) Nothing in this Act derogates from section 214B of the Electoral Act 1993.
+(2B) Nothing in this Act derogates from section 206C of the Electoral Act 1993.
 (3) Nothing in subsection (1) restricts the broadcasting, in relation to an election, of news or of comments or of current affairs programmes.
-(4) For the purposes of subsection (2)(c)(ii), the term constituency candidate includes a person who has declared his or her intention of becoming a constituency candidate.
+(4) For the purposes of subsection (2)﻿(c)﻿(ii), the term constituency candidate includes a person who has declared his or her intention of becoming a constituency candidate.
 
 ### 70A Obligation of political parties to give notice to Electoral Commission
 (1) In every year in which a Parliament is due to expire, the Electoral Commission shall specify, by notice in the Gazette, a date by which any political party that considers that it will qualify for an allocation of time under section 73 or of money under section 74A, in respect of the election period that will apply in relation to the general election to be held in that year, must notify the Electoral Commission in writing that it considers itself to be so qualified.
@@ -729,7 +730,7 @@ Every notice given under section 70A(3) shall state, among other things,—
 (3) A statement provided in accordance with this section—
   (a) may include proposals for the allocation, to political parties, of the time that will be provided for the broadcasting of opening addresses and closing addresses; and
   (b) must state any conditions proposed in relation to the scheduling and duration of opening addresses and closing addresses within the time that the broadcaster will provide.
-(4) In making proposals under subsection (3)(a), TVNZ or RNZ, as the case requires, must have regard to the provisions of section 75.
+(4) In making proposals under subsection (3)﻿(a), TVNZ or RNZ, as the case requires, must have regard to the provisions of section 75.
 
 ### 72 Electoral Commission to refer statements to political parties
 (1) As soon as practicable after receiving statements from TVNZ and RNZ in accordance with section 71A, the Electoral Commission must give a copy of those statements to—
@@ -746,8 +747,8 @@ Every notice given under section 70A(3) shall state, among other things,—
 ### 73 Allocation of time to political parties
 (1) In respect of each election period, the Electoral Commission must allocate to political parties, in such proportions as the Electoral Commission considers appropriate, the time that TVNZ and RNZ have made available for opening addresses and closing addresses in accordance with section 71A.
 (2) In allocating time to political parties under subsection (1), the Electoral Commission—
-  (a) must consider whether any proposals made under section 71A(3)(a) for the allocation of broadcasting time can be adopted either in full or with modifications specified by the Electoral Commission; and
-  (b) must modify proposals made under section 71A(3)(a) if, in the opinion of the Electoral Commission, the proposals are not consistent with the provisions of section 75.
+  (a) must consider whether any proposals made under section 71A(3)﻿(a) for the allocation of broadcasting time can be adopted either in full or with modifications specified by the Electoral Commission; and
+  (b) must modify proposals made under section 71A(3)﻿(a) if, in the opinion of the Electoral Commission, the proposals are not consistent with the provisions of section 75.
 (3) The Electoral Commission must not allocate any time to an individual political party under this section if that political party has received an allocation of time under this section as part of a group of related political parties.
 (4) This section is subject to sections 75, 75A, and 76.
 
@@ -764,7 +765,7 @@ Every notice given under section 70A(3) shall state, among other things,—
 (2) The decision made under subsection (1)—
   (a) shall set out the allocations (which shall be in such proportions as the Electoral Commission thinks fit); and
   (b) may include conditions concerning the manner in which any political party is to expend its allocation.
-(3) Conditions included in a decision pursuant to subsection (2)(b) may include conditions requiring the political party or group of related political parties to advise the Electoral Commission of the value of election programme bookings made by the political party or group of related political parties.
+(3) Conditions included in a decision pursuant to subsection (2)﻿(b) may include conditions requiring the political party or group of related political parties to advise the Electoral Commission of the value of election programme bookings made by the political party or group of related political parties.
 (4) Where the Electoral Commission decides under subsection (1) to allocate a sum of money to a political party, the Electoral Commission shall supply a copy of its decision to—
   (a) that political party; and
   (b) the Secretary for Justice.
@@ -801,32 +802,32 @@ Every notice given under section 70A(3) shall state, among other things,—
 (3) Despite anything in subsection (1) or subsection (2), an allocation of time to a political party made under section 73 in respect of an election period, or a decision made under section 74A in respect of an election period, may be made before the beginning of the election period.
 
 ### 75A Consultation with broadcasters
-(1) The Electoral Commission must not allocate time under section 73 or make an allocation of money under section 74A, or make a determination under section 77A(5)(a), unless—
+(1) The Electoral Commission must not allocate time under section 73 or make an allocation of money under section 74A, or make a determination under section 77A(5)﻿(a), unless—
   (a) the Electoral Commission has—
     (i) consulted with those broadcasters that are likely to be affected by the allocation or determination; and
     (ii) provided those broadcasters with the opportunity to give the Electoral Commission their comments on the proposed allocation or determination; and
   (b) the Electoral Commission has considered those comments (if any).
-(2) If the Electoral Commission adopts in full, under section 73, a proposal made by TVNZ or RNZ under section 71A(3)(a), the Electoral Commission is not required by subsection (1) to consult with that broadcaster.
+(2) If the Electoral Commission adopts in full, under section 73, a proposal made by TVNZ or RNZ under section 71A(3)﻿(a), the Electoral Commission is not required by subsection (1) to consult with that broadcaster.
 (3) If, after complying with subsection (1), the Electoral Commission later modifies an allocation or a determination, the Electoral Commission does not have to provide any broadcaster with a further opportunity to comment on the modified allocation or determination.
 (4) The failure of any broadcaster to make use of the opportunity to consult with, or to give comments to, the Electoral Commission under subsection (1), or to comply with any other request of the Electoral Commission,—
   (a) does not prevent the Commission making—
     (i) an allocation of time under section 73; or
     (ii) an allocation of money under section 74A; or
-    (iii) a determination under section 77A(5)(a); and
+    (iii) a determination under section 77A(5)﻿(a); and
   (b) does not affect the validity of any allocation or determination made under any of those sections.
 
 ### 76 Consultation with political parties
 (1) The Electoral Commission must comply with subsection (2)—
   (a) before allocating time to a political party under section 73; and
   (b) before allocating any money under section 74A; and
-  (c) before making any determination under section 77A(5)(a).
+  (c) before making any determination under section 77A(5)﻿(a).
 (2) Before doing any of the things referred to in subsection (1), the Electoral Commission must grant to every political party that has given a notice to the Electoral Commission under section 70A(3) the opportunity to meet with and be heard by the Electoral Commission.
 (3) If, after complying with subsection (2), the Electoral Commission later modifies an allocation or a determination, the Electoral Commission does not have to provide any political party with any further opportunity to meet with and be heard by the Electoral Commission.
 (4) The failure of any political party to make use of the opportunity to meet with and be heard by the Electoral Commission under subsection (2), or to comply with any other request of the Electoral Commission,—
   (a) does not prevent the Commission making—
     (i) an allocation of time under section 73; or
     (ii) an allocation of money under section 74A; or
-    (iii) a determination under section 77A(5)(a); and
+    (iii) a determination under section 77A(5)﻿(a); and
   (b) does not affect the validity of any allocation or determination made under any of those sections.
 
 ### 76A Power of Electoral Commission to vary allocations
@@ -835,7 +836,7 @@ Every notice given under section 70A(3) shall state, among other things,—
   (b) a political party does not accept any allocation of time under section 73 or any allocation of money under section 74A; or
   (c) the party ceases to be registered; or
   (d) the party fails to submit a list of candidates for election to the seats reserved for those members of Parliament elected from lists pursuant to section 127 of the Electoral Act 1993; or
-  (da) the party fails to comply with any conditions imposed by the Electoral Commission under section 74A(2)(b) requiring the political party or group of related political parties to advise the Electoral Commission of the value of election programme bookings made by the political party or group of related parties; or
+  (da) the party fails to comply with any conditions imposed by the Electoral Commission under section 74A(2)﻿(b) requiring the political party or group of related political parties to advise the Electoral Commission of the value of election programme bookings made by the political party or group of related parties; or
   (e) the relationship of the party with any other political party has changed to a significant extent; or
   (f)
 (2) The varying of any allocation pursuant to this section shall not require the Electoral Commission to grant to any political party the opportunity to meet with and be heard by the Electoral Commission.
@@ -867,10 +868,10 @@ Every notice given under section 70A(3) shall state, among other things,—
 (3) For the purposes of subsection (2) and despite section 75(1), a party is eligible for an allocation of time under section 73 or of money under section 74A if—
   (a) that party was registered on the Register of Political Parties at the time of the dissolution of Parliament for the election or, as the case requires, at the time that Parliament expired; and
   (b) no later than the date specified under subsection (1), that party gives to the Electoral Commission, in relation to the election, a notice that complies with the requirements of subsection (4).
-(4) The requirements referred to in subsection (3)(b) are—
+(4) The requirements referred to in subsection (3)﻿(b) are—
   (a) the notice must comply with the requirements of subsection (2):
   (b) the notice must comply with the requirements of paragraphs (a), (b), (c), (e), and (g) of section 70C.
-(5) The Electoral Commission may set, for the consultation required under section 75A(1)(a), any time period that is reasonable in the circumstances.
+(5) The Electoral Commission may set, for the consultation required under section 75A(1)﻿(a), any time period that is reasonable in the circumstances.
 (6) The Electoral Commission may require any political party that wishes to make use of the opportunity to meet with and be heard by the Electoral Commission under section 76(2) to make use of that opportunity within any reasonable period of time that the Electoral Commission specifies.
 
 ### 77 Broadcasting of opening addresses and closing addresses
@@ -898,7 +899,7 @@ Every notice given under section 70A(3) shall state, among other things,—
 (5) The Electoral Commission must—
   (a) determine each amount to be paid to TVNZ or RNZ on account of the production costs of every opening address and every closing address broadcast under section 71; and
   (b) pay that amount to the person who issued the account for the production costs of the opening address or closing address.
-(6) Each amount paid under subsection (5)(b) must be paid out of public money appropriated by Parliament (or deemed by section 74(2) to have been appropriated by Parliament) for the purpose specified in section 74(1).
+(6) Each amount paid under subsection (5)﻿(b) must be paid out of public money appropriated by Parliament (or deemed by section 74(2) to have been appropriated by Parliament) for the purpose specified in section 74(1).
 
 ### 77B Duration of television programmes
 [Repealed]
@@ -907,7 +908,7 @@ Every notice given under section 70A(3) shall state, among other things,—
 [Repealed]
 
 ### 79 Programme standards in relation to election programmes
-Nothing in section 4(1)(d) applies in relation to an election programme broadcast pursuant to this Part.
+Nothing in section 4(1)﻿(d) applies in relation to an election programme broadcast pursuant to this Part.
 
 ### 79A Hours during which election programmes prohibited
 (1) No broadcaster shall broadcast election programmes on television—
