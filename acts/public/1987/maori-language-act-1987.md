@@ -1,5 +1,5 @@
 # Māori Language Act 1987
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2016-04-30_
 
 > An Act to declare the Māori language to be an official language of New Zealand, to confer the right to speak Māori in certain legal proceedings, and to establish Te Taura Whiri i te Reo Māori and define its functions and powers
 
@@ -129,10 +129,10 @@ For the purposes of determining whether or not an applicant for a certificate of
   (a) the holder has, in the course of any interpretation or translation of the Māori language, exhibited such incompetence as to call into question the holder's qualification to hold the certificate; or
   (b) the holder has, while acting as an interpreter or a translator of the Māori language in any legal proceedings, acted in a manner that is inconsistent with the duties of an interpreter or a translator in legal proceedings.
 (2) Except where the Commission is satisfied that the complaint is frivolous or vexatious, the Commission shall cause a copy of the complaint to be given or sent to the person to whom it relates, and shall give that person a reasonable opportunity to appear before the Commission, or (at that person's option) to make written submissions to the Commission, in answer to the complaint.
-(3) If, after investigating any complaint under subsection (1)(a), the Commission is satisfied that the person to whom the complaint relates is not qualified to hold the certificate of competency in the Māori language that the person is then holding, it may—
+(3) If, after investigating any complaint under subsection (1)﻿(a), the Commission is satisfied that the person to whom the complaint relates is not qualified to hold the certificate of competency in the Māori language that the person is then holding, it may—
   (a) cancel the certificate of competency; or
   (b) suspend the certificate of competency until such time as the Commission is satisfied that the person is qualified to hold the certificate.
-(4) If, after investigating any complaint under subsection (1)(b), the Commission is satisfied that the person to whom the complaint relates has, while acting as an interpreter or a translator of the Māori language in any legal proceedings, acted in a manner that is inconsistent with the duties of an interpreter or a translator in legal proceedings, it may—
+(4) If, after investigating any complaint under subsection (1)﻿(b), the Commission is satisfied that the person to whom the complaint relates has, while acting as an interpreter or a translator of the Māori language in any legal proceedings, acted in a manner that is inconsistent with the duties of an interpreter or a translator in legal proceedings, it may—
   (a) cancel any endorsement of the certificate of competency made under section 18; or
   (b) if no such endorsement has been made, endorse the certificate of competency to the effect that the holder shall not be recognised as competent to interpret Māori or (as the case may require) to translate Māori or both for the purposes of any legal proceedings.
 (5) The Commission shall, as soon as practicable after deciding to take any action under subsection (3) or subsection (4), give to the person concerned notice in writing of its decision and of the reasons for it.
