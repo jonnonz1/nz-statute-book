@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2016-04-30_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -86,7 +86,7 @@ In this Act, unless the context otherwise requires,—
       (ii) an order made by a Registrar in the exercise of a jurisdiction or power pursuant to section 39(1); and
       (iii) an order made by the Chief Judge under section 44; and
       (iv) an order or decision made by a Judge, the Chief Judge, or the court under sections 26B to 26ZB; and
-    (b) includes a refusal to make an order, judgment, decision, or determination of a kind referred to in paragraph (a)(i) or paragraph (a)(ii) or paragraph (a)(iii)
+    (b) includes a refusal to make an order, judgment, decision, or determination of a kind referred to in paragraph (a)﻿(i) or paragraph (a)﻿(ii) or paragraph (a)﻿(iii)
   - **person under disability** means a person under disability within the meaning of Part 12
   - **preferred classes of alienees** , in relation to any alienation (other than an alienation of shares in a Maori incorporation), comprise the following:
     (a) children and remoter issue of the alienating owner:
@@ -114,7 +114,7 @@ In this Act, unless the context otherwise requires,—
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **tikanga Maori** means Maori customary values and practices
   - **tipuna** means ancestor
-  - **wahi tapu** means land set apart under section 338(1)(b)
+  - **wahi tapu** means land set apart under section 338(1)﻿(b)
   - **whanaunga** means a person related by blood
   - **whangai** means a person adopted in accordance with tikanga Maori
   - **will** includes any testamentary instrument.
@@ -290,7 +290,7 @@ The court may exercise with respect to Māori freehold land all of the powers co
 (1) Subject to subsection (2), the court may exercise any power conferred on the High Court—
   (a) by the Contracts (Privity) Act 1982; or
   (b) by any of the provisions of sections 4, 7(6), 7(7), and 9 of the Contractual Remedies Act 1979.
-(2) A power conferred on the court by subsection (1) may be exercised only if the occasion for the exercise of that power arises in the course of proceedings (other than an application made for the purposes of section 7(1) of the Contracts (Privity) Act 1982 or section 7(6) or section 9 of the Contractual Remedies Act 1979) properly before the court under section 18(1)(d) of this Act.
+(2) A power conferred on the court by subsection (1) may be exercised only if the occasion for the exercise of that power arises in the course of proceedings (other than an application made for the purposes of section 7(1) of the Contracts (Privity) Act 1982 or section 7(6) or section 9 of the Contractual Remedies Act 1979) properly before the court under section 18(1)﻿(d) of this Act.
 
 ### 24B Power to award interest on debt or damages
 The court, in its proceedings, has the same powers to award interest on any debt or damages as the District Court has under section 62B of the District Courts Act 1947 in its own proceedings.
@@ -369,26 +369,26 @@ The court has exclusive jurisdiction to hear and determine, and make orders acco
   (d) refer issues arising from the application to a mediator for mediation:
   (e) if subsection (6) applies, dismiss or defer consideration of the application.
 (4) The Chief Judge may appoint 1 or more additional members (not being Judges of the Maori Land Court) who have knowledge of relevant tikanga Maori or other expertise for the purpose of providing advice on the application.
-(5) The Judge may make a determination under subsection (3)(a) if the Judge is satisfied that—
+(5) The Judge may make a determination under subsection (3)﻿(a) if the Judge is satisfied that—
   (a) the applicant has taken reasonable steps to notify affected parties of the application and those parties do not oppose the application; or
   (b) the parties have taken reasonable steps to resolve their dispute, as provided for in section 182(3) of the Maori Fisheries Act 2004.
-(6) The Judge may dismiss or defer consideration of an application under subsection (3)(e) if—
+(6) The Judge may dismiss or defer consideration of an application under subsection (3)﻿(e) if—
   (a) it is vexatious, frivolous, or an abuse of the court, or fails to satisfy rules of court; or
   (b) it does not present serious issues for determination; or
   (c) the Judge considers it is appropriate to dismiss or defer consideration of the application for another reason.
 (7) The Judge may choose not to address an application if the Judge is satisfied that the issues presented by the application are governed by another enactment or are more appropriately addressed in another forum.
 
-### 26G Powers of court if application referred under section 26F(3)(b)
-(1) If a matter is referred to the court for hearing and determination under section 26F(3)(b), the court must proceed to hear and determine the application.
+### 26G Powers of court if application referred under section 26F(3)﻿(b)
+(1) If a matter is referred to the court for hearing and determination under section 26F(3)﻿(b), the court must proceed to hear and determine the application.
 (1A) However, despite subsection (1), the court may (but is not obliged to) do 1 or more of the following:
   (a) if subsection (2) applies, determine the issue without a full or any hearing and make an order accordingly:
   (b) exercise the powers in section 67 for the purpose stated there:
   (c) if subsection (3) applies, dismiss or defer consideration of the application:
   (d) request a report from Te Ohu Kai Moana Trustee Limited on any matter the court considers appropriate.
-(2) The court may make a determination under subsection (1)(a) if it is satisfied that—
+(2) The court may make a determination under subsection (1)﻿(a) if it is satisfied that—
   (a) the applicant has taken reasonable steps to notify affected parties of the application; and
   (b) those parties do not oppose the application.
-(3) The court may dismiss or defer consideration of an application under subsection (1)(c) if—
+(3) The court may dismiss or defer consideration of an application under subsection (1)﻿(c) if—
   (a) it is vexatious, frivolous, or an abuse of the court, or fails to satisfy rules of court; or
   (b) it does not present serious issues for determination; or
   (c) the court considers it is appropriate to dismiss or defer consideration of the application for another reason.
@@ -396,7 +396,7 @@ The court has exclusive jurisdiction to hear and determine, and make orders acco
 (5) The court may, of its own motion or at the request of any party to the proceeding, appoint 1 or more additional members (not being Judges of the Maori Land Court) who have knowledge of relevant tikanga Maori or other expertise to assist the court.
 
 ### 26H Appointment of mediator
-(1) A Judge who decides to refer issues to a mediator under section 26E(3)(c) or section 26F(3)(d) or section 26L(3)(a) must consult the parties affected by the application about who to appoint as mediator.
+(1) A Judge who decides to refer issues to a mediator under section 26E(3)﻿(c) or section 26F(3)﻿(d) or section 26L(3)﻿(a) must consult the parties affected by the application about who to appoint as mediator.
 (2) The parties affected by the application may, by agreement among them, appoint as the mediator 1 or more persons with the skills and experience to undertake mediation on issues arising under the Maori Fisheries Act 2004.
 (3) If a mediator is not appointed by agreement under subsection (2), the Judge must—
   (a) appoint a mediator; and
@@ -433,7 +433,7 @@ The court has exclusive jurisdiction to hear and determine, and make orders acco
 (3) Subject to subsection (2), the Judge must, on receiving a report under subsection (1), either—
   (a) refer some or all of the unresolved issues to a mediator for mediation; or
   (b) refer the unresolved issues to the court for hearing and determination or for the provision of advice, as the case may be.
-(4) A Judge who refers unresolved issues to the court under subsection (3)(b) may be the Judge who hears the matter or provides advice.
+(4) A Judge who refers unresolved issues to the court under subsection (3)﻿(b) may be the Judge who hears the matter or provides advice.
 
 ### 26M Orders and interim orders
 (1) In making orders under sections 26B to 26L, the Judge or the court, as the case may be, may do 1 or more of the following:
@@ -454,12 +454,12 @@ The court has exclusive jurisdiction to hear and determine, and make orders acco
       (B) to prevent prejudice to the interests of the mandated iwi organisation or the members of its iwi:
   (g) make orders as to costs under section 79:
   (h) make other orders not inconsistent with the Maori Fisheries Act 2004, as the Judge or court considers appropriate.
-(2) The Judge or the court, at the request of any party, may also order, as considered appropriate, that an action referred to in subsection (1)(f)(iii) be subject to an interim injunction until—
+(2) The Judge or the court, at the request of any party, may also order, as considered appropriate, that an action referred to in subsection (1)﻿(f)﻿(iii) be subject to an interim injunction until—
   (a) the date specified in the order; or
   (b) the conditions specified in the order are met; or
   (c) a further order is made by the court; or
   (d) the order ceases to have effect.
-(3) If the court makes an order under subsection (1)(f)(iii) or subsection (2) that an action be prevented or be subject to an interim injunction, as the case may be, the affected assets must be held in trust by Te Ohu Kai Moana Trustee Limited in accordance with section 118A.
+(3) If the court makes an order under subsection (1)﻿(f)﻿(iii) or subsection (2) that an action be prevented or be subject to an interim injunction, as the case may be, the affected assets must be held in trust by Te Ohu Kai Moana Trustee Limited in accordance with section 118A.
 
 ### 26N Proceedings where additional members appointed
 If additional members are appointed under section 26E(4) or section 26F(4) or section 26G(5), the proceedings and processes of the court cannot be challenged on appeal or in any other proceedings on the grounds that an additional member had a tribal affiliation or other relationship with any of the parties unless it is shown that the additional member acted in bad faith.
@@ -506,26 +506,26 @@ The court has exclusive jurisdiction to hear and determine, and make orders acco
   (d) refer issues arising from the application to a mediator for mediation:
   (e) if subsection (6) applies, dismiss or defer consideration of the application.
 (4) The Chief Judge may appoint 1 or more additional members (not being Judges of the Maori Land Court) who have knowledge of relevant tikanga Maori or other expertise for the purpose of providing advice on the application.
-(5) The Judge may make a determination under subsection (3)(a) if the Judge is satisfied that—
+(5) The Judge may make a determination under subsection (3)﻿(a) if the Judge is satisfied that—
   (a) the applicant has taken reasonable steps to notify affected parties of the application, and those parties do not oppose the application; or
   (b) the parties have taken reasonable steps to resolve their dispute, as provided for in section 54(3) of the Maori Commercial Aquaculture Claims Settlement Act 2004.
-(6) The Judge may dismiss or defer consideration of an application under subsection (3)(e) if—
+(6) The Judge may dismiss or defer consideration of an application under subsection (3)﻿(e) if—
   (a) it is vexatious, frivolous, or an abuse of the court, or fails to satisfy rules of court; or
   (b) it does not present serious issues for determination; or
   (c) the Judge considers it is appropriate to dismiss or defer consideration of the application for another reason.
 (7) The Judge may choose not to address an application if the Judge is satisfied that the issues presented by the application are governed by another enactment or are more appropriately addressed in another forum.
 
-### 26U Powers of court if application referred under section 26T(3)(b)
-(1) If a matter is referred to the court for hearing and determination under section 26T(3)(b), the court must proceed to hear and determine the application.
+### 26U Powers of court if application referred under section 26T(3)﻿(b)
+(1) If a matter is referred to the court for hearing and determination under section 26T(3)﻿(b), the court must proceed to hear and determine the application.
 (1A) However, despite subsection (1), the court may (but is not obliged to) do 1 or more of the following:
   (a) if subsection (2) applies, determine the issue without a full or any hearing and make an order accordingly:
   (b) exercise the powers in section 67 for the purpose stated there:
   (c) if subsection (3) applies, dismiss or defer consideration of the application:
   (d) request a report from Te Ohu Kai Moana Trustee Limited on any matter the court considers appropriate.
-(2) The court may make a determination under subsection (1)(a) if it is satisfied that—
+(2) The court may make a determination under subsection (1)﻿(a) if it is satisfied that—
   (a) the applicant has taken reasonable steps to notify affected parties of the application; and
   (b) those parties do not oppose the application.
-(3) The court may dismiss or defer consideration of an application under subsection (1)(c) if—
+(3) The court may dismiss or defer consideration of an application under subsection (1)﻿(c) if—
   (a) it is vexatious, frivolous, or an abuse of the court, or fails to satisfy rules of court; or
   (b) it does not present serious issues for determination; or
   (c) the court considers it is appropriate to dismiss or defer consideration of the application for another reason.
@@ -533,7 +533,7 @@ The court has exclusive jurisdiction to hear and determine, and make orders acco
 (5) The court may, of its own motion or at the request of any party to the proceeding, appoint 1 or more additional members (not being Judges of the Maori Land Court) who have knowledge of relevant tikanga Maori or other expertise to assist the court.
 
 ### 26V Appointment of mediator
-(1) A Judge who decides to refer issues to a mediator under section 26S(3)(c) or section 26T(3)(d) or section 26Z(3)(a) must consult the parties affected by the application about who to appoint as mediator.
+(1) A Judge who decides to refer issues to a mediator under section 26S(3)﻿(c) or section 26T(3)﻿(d) or section 26Z(3)﻿(a) must consult the parties affected by the application about who to appoint as mediator.
 (2) The parties affected by the application may, by agreement among them, appoint as the mediator 1 or more persons with the skills and experience to undertake mediation on issues arising under the Maori Commercial Aquaculture Claims Settlement Act 2004.
 (3) If a mediator is not appointed by agreement under subsection (2), the Judge must—
   (a) appoint a mediator; and
@@ -570,7 +570,7 @@ The court has exclusive jurisdiction to hear and determine, and make orders acco
 (3) Subject to subsection (2), the Judge must, on receiving a report under subsection (1), either—
   (a) refer some or all of the unresolved issues to a mediator for mediation; or
   (b) refer the unresolved issues to the court for hearing and determination or for the provision of advice, as the case may be.
-(4) A Judge who refers unresolved issues to the court under subsection (3)(b) may be the Judge who hears the matter or provides advice.
+(4) A Judge who refers unresolved issues to the court under subsection (3)﻿(b) may be the Judge who hears the matter or provides advice.
 
 ### 26ZA Orders and interim orders
 (1) In making orders under sections 26P to 26Z, the Judge or the court, as the case may be, may do 1 or more of the following:
@@ -588,12 +588,12 @@ The court has exclusive jurisdiction to hear and determine, and make orders acco
       (B) to prevent prejudice to the interests of the iwi aquaculture organisation or the members of its iwi:
   (g) make orders as to costs under section 79:
   (h) make other orders not inconsistent with the Maori Commercial Aquaculture Claims Settlement Act 2004, or as the Judge or court considers appropriate.
-(2) The Judge or the court, at the request of any party, may also order, as it considers appropriate, that an action referred to in subsection (1)(f)(iii) be subject to an interim injunction until—
+(2) The Judge or the court, at the request of any party, may also order, as it considers appropriate, that an action referred to in subsection (1)﻿(f)﻿(iii) be subject to an interim injunction until—
   (a) the date specified in the order; or
   (b) the conditions specified in the order are met; or
   (c) a further order is made by the court; or
   (d) the order ceases to have effect.
-(3) If the court makes an order under subsection (1)(f)(iii) or subsection (2) that an action be prevented or be subject to an interim injunction, as the case may be, the affected assets must be held in trust by the trustee in accordance with section 118B.
+(3) If the court makes an order under subsection (1)﻿(f)﻿(iii) or subsection (2) that an action be prevented or be subject to an interim injunction, as the case may be, the affected assets must be held in trust by the trustee in accordance with section 118B.
 
 ### 26ZB Proceedings where additional members appointed
 If additional members are appointed under section 26S(4) or section 26T(4) or section 26U(5), the proceedings and processes of the court cannot be challenged on appeal or in any other proceedings on the ground that an additional member had a tribal affiliation or other relationship with any of the parties unless it is shown that the additional member acted in bad faith.
@@ -632,7 +632,7 @@ The intent of section 30 and sections 30B to 30I is—
 [Repealed]
 
 ### 30B Powers of Judge in addressing requests for advice
-(1) The jurisdiction in section 30(1)(a) (to advise other courts, commissions, or tribunals) is exercised by written request to the Chief Judge by the court, commission, or tribunal seeking the advice.
+(1) The jurisdiction in section 30(1)﻿(a) (to advise other courts, commissions, or tribunals) is exercised by written request to the Chief Judge by the court, commission, or tribunal seeking the advice.
 (2) Within 20 working days of receiving a request under subsection (1), the Chief Judge must allocate the request either to him or herself or to another Judge to address.
 (3) The Judge addressing a request for advice may (but is not obliged to) do 1 or more of the following things, before supplying the advice sought:
   (a) exercise the powers in section 67 for the purpose expressed in that section:
@@ -640,7 +640,7 @@ The intent of section 30 and sections 30B to 30I is—
   (c) refer some or all of the issues arising from the request to a mediator for mediation.
 
 ### 30C Powers of Judge in addressing applications for determination
-(1) The jurisdiction in section 30(1)(b) is exercised on written application to the Chief Judge.
+(1) The jurisdiction in section 30(1)﻿(b) is exercised on written application to the Chief Judge.
 (2) Within 20 working days of receiving an application under subsection (1), the Chief Judge must allocate the application either to him or herself or to another Judge to address.
 (3) The Judge addressing an application for a determination may (but is not obliged to) do 1 or more of the following things:
   (a) determine the most appropriate representatives of a class or group of Maori, and order accordingly, if subsection (5) applies:
@@ -649,16 +649,16 @@ The intent of section 30 and sections 30B to 30I is—
   (d) refer some or all of the issues arising from the application to a mediator for mediation:
   (e) dismiss or defer consideration of the application, if subsection (6) applies.
 (4) The Judge may choose not to address an application if the Judge is satisfied that the issues it presents are governed by another enactment, or another part of this Act, or are more appropriately addressed in another forum.
-(5) The Judge may make a determination under subsection (3)(a) if the Judge is satisfied that—
+(5) The Judge may make a determination under subsection (3)﻿(a) if the Judge is satisfied that—
   (a) the applicant has taken reasonable steps to notify those persons affected by the application of the application; and
   (b) those persons do not oppose the application.
-(6) The Judge may dismiss or defer consideration of an application under subsection (3)(e) if—
+(6) The Judge may dismiss or defer consideration of an application under subsection (3)﻿(e) if—
   (a) it is vexatious, frivolous or an abuse of the Maori Land Court, or fails to satisfy rules of court; or
   (b) it does not present serious issues for determination; or
   (c) the Judge considers it appropriate to dismiss or defer consideration of the application for another reason.
 
 ### 30D Appointment of mediator
-(1) A Judge who decides to refer issues to a mediator under section 30B(3)(c), section 30C(3)(d), section 30G(3)(a), or section 30I(2) must consult the persons affected by the application about who to appoint as mediator.
+(1) A Judge who decides to refer issues to a mediator under section 30B(3)﻿(c), section 30C(3)﻿(d), section 30G(3)﻿(a), or section 30I(2) must consult the persons affected by the application about who to appoint as mediator.
 (2) The persons affected by the application may, by agreement among them, appoint as mediator a person or persons with the skills and experience to undertake mediation on issues of representation for a class or group of Maori.
 (3) The Judge must appoint a mediator if a mediator is not appointed by agreement under subsection (2).
 (4) The Judge must be satisfied, before appointing a mediator, that the mediator has the skills and experience to undertake mediation on issues of representation for a class or group of Maori.
@@ -691,7 +691,7 @@ The intent of section 30 and sections 30B to 30I is—
 (3) Subject to subsection (2), the Judge must, on receiving a report under subsection (1), either—
   (a) refer some or all of the unresolved issues to a mediator for mediation; or
   (b) refer the unresolved issues to the Maori Land Court for hearing and determination or for the provision of advice, as the case may be.
-(4) A Judge referring unresolved issues to the Maori Land Court under subsection (3)(b) may be the Judge of the Maori Land Court that hears the matter or provides advice.
+(4) A Judge referring unresolved issues to the Maori Land Court under subsection (3)﻿(b) may be the Judge of the Maori Land Court that hears the matter or provides advice.
 
 ### 30H Orders
 (1) In making orders under section 30 and sections 30B to 30I, the Judge or the court, as the case may be, may do 1 or more of the following:
@@ -709,7 +709,7 @@ The intent of section 30 and sections 30B to 30I is—
   (b) in other cases, the Chief Judge is satisfied, on receipt of a written application, that a review is necessary.
 (2) The court may refer some or all of the issues arising on a review of advice or a determination under subsection (1) to a mediator for mediation.
 (3) Sections 30D to 30G apply, with necessary changes, to mediation under subsection (2).
-(4) The court may, on any review under subsection (1), change any advice supplied by it under section 30(1)(a) or amend an order made by it under section 30(1)(b) to reflect changes of circumstances or fact.
+(4) The court may, on any review under subsection (1), change any advice supplied by it under section 30(1)﻿(a) or amend an order made by it under section 30(1)﻿(b) to reflect changes of circumstances or fact.
 (5) A review under subsection (1) must be completed within 3 months of receipt of the request or application for review.
 (6) This section applies to advice given and determinations made under section 30 before Te Ture Whenua Maori Amendment Act 2002 (the Maori Land Amendment Act 2002) was passed.
 
@@ -726,7 +726,7 @@ In sections 30A to 30G, persons affected by, or in relation to, a request for ad
 (2) Where subsection (1) applies in relation to any matter of tikanga Maori, every person appointed under section 31 in relation to that matter shall possess knowledge and experience of tikanga Maori.
 
 ### 33 Additional members in relation to matter of representation
-(1) If the Maori Land Court exercises its jurisdiction under section 30(1) or section 30I(1), and unless the Judge determines an application under section 30C(3)(a), the Chief Judge must appoint 2 or more additional members (not being Judges of the Maori Land Court) to the Maori Land Court.
+(1) If the Maori Land Court exercises its jurisdiction under section 30(1) or section 30I(1), and unless the Judge determines an application under section 30C(3)﻿(a), the Chief Judge must appoint 2 or more additional members (not being Judges of the Maori Land Court) to the Maori Land Court.
 (2) Each person appointed under subsection (1) shall possess knowledge and experience relevant to the subject matter of the request.
 (3) The Chief Judge shall, before appointing any person under subsection (1) for the purpose of any request, consult, as the case may require, with the parties to the proceedings or with persons involved in the negotiations, consultations, allocation, or other matter about the knowledge and experience that any such person should possess.
 
@@ -818,7 +818,7 @@ There shall be paid to any additional member of the Maori Land Court or Maori Ap
 ### 48 Matters already finalised or pending
 (1) No order made by the Chief Judge under section 44, or made by the Appellate Court on appeal from any such order, shall take away or affect any right or interest acquired for value and in good faith under any instrument of alienation registered before the making of any such order.
 (2) No payment made in good faith pursuant to or for the purposes of the original order shall be deemed to have been made without lawful authority merely because that order has been cancelled or amended by an order made under section 44.
-(3) Notwithstanding that an application has been made under section 45, any trustee or agent holding any money for distribution may, unless an injunction under section 19(1)(d) has been obtained and served on the trustee, distribute the money to the person entitled to it in accordance with the terms of the order to which the application relates.
+(3) Notwithstanding that an application has been made under section 45, any trustee or agent holding any money for distribution may, unless an injunction under section 19(1)﻿(d) has been obtained and served on the trustee, distribute the money to the person entitled to it in accordance with the terms of the order to which the application relates.
 (4) Where such an injunction is obtained, the Chief Judge may, in the order made pursuant to the application or by a separate order, determine the persons to whom any money to which the injunction relates shall be paid and their relative shares or interests in the money.
 
 **Exercise of powers by Deputy Chief Judge**
@@ -920,13 +920,13 @@ Successive appeals to the Maori Appellate Court may be brought in respect of the
 (4) Subject to subsection (3), where the High Court has stated a case for the opinion of the Maori Appellate Court on any question of tikanga Maori, the opinion of the Maori Appellate Court on that question shall be binding on the High Court.
 
 ### 62 Additional members with knowledge and experience in tikanga Maori
-(1) Notwithstanding anything in any other provision of this Act, where any case is stated under section 61(1)(b), for the opinion of the Maori Appellate Court, the Chief Judge may, if any party to the proceeding so requests, direct that, for the purpose of the hearing of that case, the Maori Appellate Court shall consist of—
+(1) Notwithstanding anything in any other provision of this Act, where any case is stated under section 61(1)﻿(b), for the opinion of the Maori Appellate Court, the Chief Judge may, if any party to the proceeding so requests, direct that, for the purpose of the hearing of that case, the Maori Appellate Court shall consist of—
   (a) 3 Judges of the Maori Land Court; and
   (b) 1 or 2 other members (not being Judges of the Maori Land Court) to be appointed by the Chief Judge.
-(2) Each person appointed under subsection (1)(b) shall possess knowledge and experience of tikanga Maori.
-(3) The Chief Judge shall, before appointing any person under subsection (1)(b) for the purpose of any hearing, consult with the parties to the proceedings about the knowledge and experience of tikanga Maori that any such person should possess.
-(4) Before entering upon the exercise of the duties of his or her office, any member of the Maori Appellate Court appointed under subsection (1)(b) shall take an oath before a Judge of the Maori Land Court that he or she will faithfully and impartially perform the duties of his or her office.
-(5) There shall be paid to any member of the Maori Appellate Court appointed under subsection (1)(b), out of public money, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if the Maori Appellate Court were a statutory board within the meaning of that Act.
+(2) Each person appointed under subsection (1)﻿(b) shall possess knowledge and experience of tikanga Maori.
+(3) The Chief Judge shall, before appointing any person under subsection (1)﻿(b) for the purpose of any hearing, consult with the parties to the proceedings about the knowledge and experience of tikanga Maori that any such person should possess.
+(4) Before entering upon the exercise of the duties of his or her office, any member of the Maori Appellate Court appointed under subsection (1)﻿(b) shall take an oath before a Judge of the Maori Land Court that he or she will faithfully and impartially perform the duties of his or her office.
+(5) There shall be paid to any member of the Maori Appellate Court appointed under subsection (1)﻿(b), out of public money, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if the Maori Appellate Court were a statutory board within the meaning of that Act.
 
 ### 63 Quorum and decision of court
 (1) Where, in relation to any proceedings, the Maori Appellate Court is constituted under section 62, the presence of all 4 members or all 5 members, as the case may require, shall be necessary to constitute a sitting of the Maori Appellate Court for the purposes of those proceedings.
@@ -937,7 +937,7 @@ Successive appeals to the Maori Appellate Court may be brought in respect of the
 (1) Every order made by the Maori Appellate Court shall, subject to the provisions of this section, take effect or be deemed to have taken effect on a date to be specified in the order.
 (2) Different dates may be fixed by the Maori Appellate Court as the dates for the commencement of different provisions of any order.
 (3) In so far as an order of the Maori Appellate Court varies an order of the Maori Land Court, the order of the Maori Appellate Court may be made to take effect on a date not earlier than the date on which the order so varied would have taken effect if there had been no appeal.
-(4) Any order made by the Maori Land Court by direction of the Maori Appellate Court pursuant to section 56(1)(d) shall, in accordance with the terms of the order of the Maori Appellate Court, take effect on the date fixed by section 42 for the taking effect of the order appealed from, or from the date fixed by that section for the taking effect of orders of the court, or from a date to be specified by the Maori Appellate Court.
+(4) Any order made by the Maori Land Court by direction of the Maori Appellate Court pursuant to section 56(1)﻿(d) shall, in accordance with the terms of the order of the Maori Appellate Court, take effect on the date fixed by section 42 for the taking effect of the order appealed from, or from the date fixed by that section for the taking effect of orders of the court, or from a date to be specified by the Maori Appellate Court.
 (5) If in any case the Maori Appellate Court fails to specify the date on which the order of the court shall take effect, it shall take effect on the commencement of the day of the date of the minute of the order entered in the records of the Maori Appellate Court.
 
 ## Part 3 — Provisions relating to both courts
@@ -972,7 +972,7 @@ The provisions of this Part apply in respect of the Maori Land Court and the Mao
 (3) Notwithstanding any of the foregoing provisions of this section, a Judge may, at any time before the hearing of an application has been commenced, exercise any of the powers specified in subsection (2) without holding a conference under subsection (1).
 
 ### 68 Parties and witnesses may use Maori language
-Without limiting anything in the Maori Language Act 1987, any party or witness in any proceedings before the court may give evidence or address the court in Maori.
+Without limiting anything in Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016, any party or witness in any proceedings before the court may give evidence or address the court in Maori.
 
 ### 69 Evidence in proceedings
 (1) The court may act on any testimony, sworn or unsworn, and may receive as evidence any statement, document, information, or matter that, in the opinion of the court, may assist it to deal effectively with the matters before it, whether the same would, apart from this section, be legally admissible in evidence or not.
@@ -984,7 +984,7 @@ Without limiting anything in the Maori Language Act 1987, any party or witness i
   (a) personally; or
   (b) by a barrister or solicitor of the High Court; or
   (c) with the leave of the court, by any other agent or representative.
-(2) Any leave under subsection (1)(c) may be given on such terms as the court thinks fit, and may at any time be withdrawn.
+(2) Any leave under subsection (1)﻿(c) may be given on such terms as the court thinks fit, and may at any time be withdrawn.
 (3) In any proceedings under this Act, the court may appoint a barrister or solicitor—
   (a) to assist the court, where any application before the court is unopposed and the court considers that it should hear argument on any point; or
   (b) to represent any person or class of person, where the court considers that the interests of that person or class of person could be affected by any order that may be made in the proceedings.
@@ -1186,7 +1186,7 @@ The Chief Judge, with the concurrence of at least 2 other Judges, may from time 
 (2) The Fund shall be held by the Chief Registrar of the Maori Land Court.
 (3) The court may from time to time make orders for the payment from the Fund of the reasonable legal costs or the reasonable out-of-pocket expenses or both of—
   (a) any person or class of person heard or represented in any proceedings before the court:
-  (b) any barrister or solicitor appointed to assist the court under section 70(3)(a).
+  (b) any barrister or solicitor appointed to assist the court under section 70(3)﻿(a).
   (c)
 (3A)
 (4) A duplicate of any order made by the court under subsection (3) shall be forwarded by post to the Legal Services Commissioner as soon as practicable after the making of the order.
@@ -1197,7 +1197,7 @@ The Chief Judge, with the concurrence of at least 2 other Judges, may from time 
 (9) Except as the court may otherwise order, there shall also be paid out of the Fund—
   (a) the reasonable fees and reasonable expenses of any accountant to whom a Judge refers a matter under section 40(3); and
   (aa) the reasonable fees and reasonable expenses of any person the Registrar is directed, by the Judge, to engage to assist with an inquiry and report under section 40; and
-  (ab) the reasonable fees and reasonable expenses of a mediator to whom a Judge refers matters under section 30B(3)(c), section 30C(3)(d), section 30G(3)(a), or section 30I(2); and
+  (ab) the reasonable fees and reasonable expenses of a mediator to whom a Judge refers matters under section 30B(3)﻿(c), section 30C(3)﻿(d), section 30G(3)﻿(a), or section 30I(2); and
   (b) all reasonable costs and reasonable out-of-pocket expenses of any person called by the court as a witness under section 69(2); and
   (c) the reasonable fees and reasonable expenses of any barrister or solicitor appointed under section 70(3); and
   (d) the reasonable fees and reasonable expenses of any person appointed as a receiver under section 83; and
@@ -1288,7 +1288,7 @@ The High Court may, in respect of any estate of which a grant of administration 
   (a) if the person owns a beneficial interest in the land to which the occupation order applies; and
   (b) if the court is satisfied, in the circumstances, that the extent of the person’s beneficial interest in the land justifies that person succeeding to the occupation order.
 (2C) An occupation order that passes by will is cancelled automatically on the date of expiry or termination of the occupation order.
-(3) Subsection (2)(e) shall have effect notwithstanding anything in section 19 of the Adoption Act 1955.
+(3) Subsection (2)﻿(e) shall have effect notwithstanding anything in section 19 of the Adoption Act 1955.
 (4) Any owner of a beneficial interest in Maori freehold land may by will leave that interest to the owner’s spouse, civil union partner, or de facto partner for life or for any shorter period.
 (5) Any provision in a will purporting to leave a beneficial interest in Maori freehold land to any person otherwise than in accordance with subsection (2) or subsection (4) shall be void and of no effect; and that interest shall, unless disposed of in accordance with either of those subsections by some other provision of the will, pass to the persons entitled on intestacy.
 (6) Where any beneficial interest in Maori freehold land is left by will to any trustee, the trustee shall not have power under the will or under any Act to sell the interest; and any provision in the will purporting to confer such power shall be void and of no effect.
@@ -1361,11 +1361,11 @@ The High Court may, in respect of any estate of which a grant of administration 
   (a) the court may exercise with respect to the whole or any part of the interest any jurisdiction that it would have had authority to exercise under any of the provisions of this Act, if application had been duly made in accordance with this Act and with the rules of court:
   (b) the court may, with the consent of a beneficiary, vest the whole or any part of the interest of that beneficiary in any other person who is entitled to acquire or succeed to that interest:
   (c) the court may give effect to any arrangement or agreement whereby the interest of any beneficiary is to be vested in any other beneficiary or in any other person who is entitled to acquire or succeed to that interest, but no person shall be excluded from any interest to which that person is entitled without that person’s consent.
-(4) For the purposes of subsection (3)(c), any agreement or arrangement may, in the case of a person under disability, be entered into or made on behalf of that person by a trustee appointed under Part 12, or, if no such trustee is appointed, by any other responsible person.
+(4) For the purposes of subsection (3)﻿(c), any agreement or arrangement may, in the case of a person under disability, be entered into or made on behalf of that person by a trustee appointed under Part 12, or, if no such trustee is appointed, by any other responsible person.
 (5) Where any beneficial freehold interest in land has been devised by the will of the deceased owner to a trustee other than a bare trustee, the trustee shall, for the purposes of this section, be deemed to be the beneficiary.
 (6) In any case to which subsection (5) applies, the existence of the trust shall be stated on the face of the relevant vesting order.
 (7) Nothing in this section shall limit or affect any right or remedy to which any person may be entitled in respect of any act done by any other person as administrator of any estate.
-(8) Any money held by the Māori Trustee or any other agent for any person at the date of that person’s death, being the proceeds of the alienation of any Maori freehold land, shall be deemed for the purposes of subsection (3)(c) to be interests in Maori freehold land; and the court may dispose of that money accordingly by making an order for payment of it under section 242.
+(8) Any money held by the Māori Trustee or any other agent for any person at the date of that person’s death, being the proceeds of the alienation of any Maori freehold land, shall be deemed for the purposes of subsection (3)﻿(c) to be interests in Maori freehold land; and the court may dispose of that money accordingly by making an order for payment of it under section 242.
 (9) Nothing in subsection (8) shall impose any liability on the Māori Trustee or other agent in respect of any payment out of the proceeds of sale after the death of the deceased if the payment was made by the Māori Trustee or other agent without knowledge of the owner’s death.
 
 ### 118 Vesting in persons beneficially entitled where no grant of administration
@@ -1381,7 +1381,7 @@ The High Court may, in respect of any estate of which a grant of administration 
 (6) Where the known estate of a deceased person has previously been administered and additional interests of the deceased in Maori freehold land are discovered, the court, notwithstanding any other provisions of this section, may deal with those interests under this section if it is satisfied that any other course would be unduly expensive or difficult having regard to the value of the interests.
 
 ### 118A Circumstances when certain assets and payments must be held in trust
-(1) If the court makes an order under section 26M(1)(f)(iii) or (2) that an action be prevented or be subject to an interim injunction, as the case may be,—
+(1) If the court makes an order under section 26M(1)﻿(f)﻿(iii) or (2) that an action be prevented or be subject to an interim injunction, as the case may be,—
   (a) Te Ohu Kai Moana Trustee Limited must hold the assets that are subject to the order in trust for that mandated iwi organisation until—
     (i) the date specified in the order; or
     (ii) the conditions specified in the order are met; or
@@ -1390,7 +1390,7 @@ The High Court may, in respect of any estate of which a grant of administration 
 (2) In this section, mandated iwi organisation and Te Ohu Kai Moana Trustee Limited have the meaning set out in section 26A.
 
 ### 118B Circumstances when certain transfers and payments must be held in trust
-(1) If the court makes an order under section 26ZA(1)(f)(iii) or (2) that an action be prevented or be subject to an interim injunction, as the case may be,—
+(1) If the court makes an order under section 26ZA(1)﻿(f)﻿(iii) or (2) that an action be prevented or be subject to an interim injunction, as the case may be,—
   (a) the trustee must hold the assets that are subject to the order in trust for that iwi aquaculture organisation until—
     (i) the date specified in the order; or
     (ii) the conditions specified in the order are met; or
@@ -1449,8 +1449,8 @@ If any order that is annulled or revoked or varied, or if any other order or any
 ### 125A Alteration to land appellation
 (1) The court may, on application under subsection (2), make an order amending the name given to the whole or part of a block of Maori freehold land in—
   (a) the title to that land; and
-  (b) if necessary, the cadastral record map, produced under section 11(1)(c) of the Survey Act 1986, of the relevant land district.
-(2) A legal or beneficial owner of Maori freehold land may apply to the court for an order under subsection (1) for Maori freehold land in which the legal or beneficial owner has an interest and must pay, with the application, the amount necessary (if any) to enable the Registrar to make the payment (if any) required by subsection (7)(c).
+  (b) if necessary, the cadastral record map, produced under section 11(1)﻿(c) of the Survey Act 1986, of the relevant land district.
+(2) A legal or beneficial owner of Maori freehold land may apply to the court for an order under subsection (1) for Maori freehold land in which the legal or beneficial owner has an interest and must pay, with the application, the amount necessary (if any) to enable the Registrar to make the payment (if any) required by subsection (7)﻿(c).
 (3) On receiving an application under subsection (1), the Registrar must, as soon as practicable,—
   (a) notify every person with a beneficial interest in the Maori freehold land, whose identity and address is known to the court, of the application; and
   (b) notify the Registrar-General of Land and Chief Surveyor of the application; and
@@ -1459,7 +1459,7 @@ If any order that is annulled or revoked or varied, or if any other order or any
 (5) The court must not make an order under this section affecting the whole or part of a block of Maori freehold land unless it is satisfied—
   (a) that the owners of the land have had sufficient notice of the application and sufficient opportunity to discuss and consider it; and
   (b) that there is a sufficient degree of support for the application among the owners; and
-  (c) that the format of the appellation, as amended, conforms with the requirements specified by the Surveyor-General under section 11(1)(g) of the Survey Act 1986.
+  (c) that the format of the appellation, as amended, conforms with the requirements specified by the Surveyor-General under section 11(1)﻿(g) of the Survey Act 1986.
 (6) The court must not make an order under this section affecting the whole or part of a block of Maori freehold land vested in a Maori incorporation unless it is satisfied—
   (a) that the shareholders of the incorporation have been given sufficient notice of the application; and
   (b) that the shareholders have passed a special resolution supporting the application.
@@ -1541,14 +1541,14 @@ No land shall acquire or lose the status of Maori customary land or of Maori fre
   (e) any Crown land (other than Crown land reserved for Maori).
 (2) The Maori Land Court shall have jurisdiction in accordance with the succeeding provisions of this section to make a vesting order in respect of any land to which this section applies and to declare in that order that the land shall become Maori freehold land.
 (3) An application to the court for the exercise of its jurisdiction under this section shall be made,—
-  (a) in any case to which subsection (1)(a) applies, by or on behalf of the beneficial owner of the land; or
-  (b) in any case to which subsection (1)(b) applies, by or on behalf of the person who has acquired the land; or
-  (c) in any case to which subsection (1)(c) applies, by or on behalf of—
+  (a) in any case to which subsection (1)﻿(a) applies, by or on behalf of the beneficial owner of the land; or
+  (b) in any case to which subsection (1)﻿(b) applies, by or on behalf of the person who has acquired the land; or
+  (c) in any case to which subsection (1)﻿(c) applies, by or on behalf of—
     (i) the Minister of the Crown under whose control the land is held or administered; or
     (ii) the chief executive of the department within the meaning of section 2 of the Survey Act 1986; or
     (iii) the local authority or public body by which the land was acquired; or
-  (d) in any case to which subsection (1)(d) applies, the Minister of Maori Affairs; or
-  (e) in any case to which subsection (1)(e) applies, any Minister of the Crown.
+  (d) in any case to which subsection (1)﻿(d) applies, the Minister of Maori Affairs; or
+  (e) in any case to which subsection (1)﻿(e) applies, any Minister of the Crown.
 (4) Notwithstanding anything in subsections (1) to (3), any Minister of the Crown having responsibility in regard to the matter may apply to the court for the exercise of its jurisdiction, and on such an application the court may exercise its jurisdiction, under this section in respect of any Crown land that has not been formally set aside for the benefit of Maori.
 (5) An application may be made to the court, and the court may exercise its jurisdiction, under this section notwithstanding the provisions of any Act to which the land is subject, and notwithstanding any terms and conditions imposed by the Act on the sale or other disposition of the land.
 (6) In any application under this section, the applicant may specify—
@@ -1679,7 +1679,7 @@ In the case of any Maori freehold land that is vested in a trustee, every person
   (b) if the alienation is by way of any of the following things, send a copy of the instrument to the Registrar for noting; and the Registrar must note the contents of that instrument:
     (i) a mortgage:
     (ii) an alienation other than a sale, gift, or mortgage (for example, a lease, licence, forestry right, easement, profit, or any other charge or encumbrance), for a term of more than 21 years, including any term or terms of renewal, or without a limited term.
-(4) The trustees of a trust constituted under Part 12 who execute or obtain a transfer, variation, discharge, or surrender of anything to which subsection (3)(b) applies must send a copy of the instrument to the Registrar for noting, and the Registrar must note the contents of the instrument.
+(4) The trustees of a trust constituted under Part 12 who execute or obtain a transfer, variation, discharge, or surrender of anything to which subsection (3)﻿(b) applies must send a copy of the instrument to the Registrar for noting, and the Registrar must note the contents of the instrument.
 
 ### 150B Alienation by Maori incorporation
 (1) A Maori incorporation must not alienate Maori freehold land vested in it—
@@ -1691,7 +1691,7 @@ In the case of any Maori freehold land that is vested in a trustee, every person
   (b) if the alienation is by way of any of the following things, send a copy of the instrument to the Registrar for noting; and the Registrar must note the contents of that instrument:
     (i) a mortgage:
     (ii) an alienation other than a sale, gift, or mortgage (for example, a lease, licence, forestry right, easement, profit, or any other charge or encumbrance), for a term of more than 21 years, including any term or terms of renewal, or without a limited term.
-(4) A Maori incorporation that executes or obtains a transfer, variation, discharge, or surrender of anything to which subsection (3)(b) applies must send a copy of the instrument to the Registrar for noting, and the Registrar must note the contents of the instrument.
+(4) A Maori incorporation that executes or obtains a transfer, variation, discharge, or surrender of anything to which subsection (3)﻿(b) applies must send a copy of the instrument to the Registrar for noting, and the Registrar must note the contents of the instrument.
 
 ### 150C Alienation by other owners
 (1) The owners in common of a block of Maori freehold land must not alienate Maori freehold land owned by them—
@@ -1705,12 +1705,12 @@ In the case of any Maori freehold land that is vested in a trustee, every person
     (i) by agreement of all the owners; or
     (ii) pursuant to a resolution carried at a meeting of assembled owners held under and in accordance with Part 9.
 (2) Subsection (1) and section 147A do not apply if the court is satisfied that it is necessary for the owners to sell part of the Maori freehold land to make minor boundary adjustments.
-(3) A person referred to in section 147(1)(a), (b), or (c) who executes an instrument of alienation of Maori freehold land must,—
+(3) A person referred to in section 147(1)﻿(a), (b), or (c) who executes an instrument of alienation of Maori freehold land must,—
   (a) if the alienation is by way of sale or gift, get the instrument confirmed by the court under Part 8; and
   (b) for any other alienation (for example, a lease, licence, forestry right, easement, profit, mortgage, charge, or encumbrance, or a transfer or variation of any of those things), get a certificate of confirmation issued and noted by the Registrar under section 160.
-(4) A person referred to in section 147(1)(a), (b), or (c) who executes or obtains any of the following instruments must send a copy of the instrument to the Registrar for noting, and the Registrar must note the contents of the instrument:
-  (a) a transfer of anything to which subsection (3)(b) applies, if the transfer is not itself an instrument of alienation:
-  (b) a discharge or surrender of anything to which subsection (3)(b) applies.
+(4) A person referred to in section 147(1)﻿(a), (b), or (c) who executes or obtains any of the following instruments must send a copy of the instrument to the Registrar for noting, and the Registrar must note the contents of the instrument:
+  (a) a transfer of anything to which subsection (3)﻿(b) applies, if the transfer is not itself an instrument of alienation:
+  (b) a discharge or surrender of anything to which subsection (3)﻿(b) applies.
 
 ### 150D Life interests
 A person with a life interest or a determinable life interest in Maori freehold land—
@@ -1728,7 +1728,7 @@ A person with a life interest or a determinable life interest in Maori freehold 
 (2) The court may decline to consider an application for confirmation if it is made,—
   (a) in the case of an instrument of alienation, later than 3 months after the date on which the instrument was executed by the alienor or, where the land is situated in the Chatham Islands, later than 4 months after that date; or
   (b) in the case of a resolution of assembled owners, earlier than 14 days or later than 12 months after the date on which the resolution was passed.
-(3) Notwithstanding subsection (2)(a), where an instrument of alienation is executed at different times by different parties alienating, successive applications for confirmation may be made in respect of the successive executions of the instrument, and the alienation may be confirmed from time to time accordingly.
+(3) Notwithstanding subsection (2)﻿(a), where an instrument of alienation is executed at different times by different parties alienating, successive applications for confirmation may be made in respect of the successive executions of the instrument, and the alienation may be confirmed from time to time accordingly.
 
 ### 152 Court to grant confirmation if satisfied of certain matters
 (1) The court must grant confirmation of an alienation of Maori freehold land if it is satisfied—
@@ -1797,7 +1797,7 @@ A person with a life interest or a determinable life interest in Maori freehold 
 (7) For services rendered by a court appointed agent in respect of money received under this section, the agent shall likewise be entitled to commission at the rate payable to the Māori Trustee; and any such commission shall be payable by the alienee and shall be recoverable by the agent as a debt due by the alienee.
 
 ### 160 Certain instruments require only certificate of confirmation by Registrar
-(1) This section applies to the instruments of alienation specified in section 150C(3)(b).
+(1) This section applies to the instruments of alienation specified in section 150C(3)﻿(b).
 (2) An instrument of alienation to which this section applies has no force or effect (unless confirmed by the court under subsection (6)) until a certificate of confirmation—
   (a) has been issued by the Registrar under this section; and
   (b) has been noted by the Registrar in the records of the court.
@@ -1997,7 +1997,7 @@ The principal purpose of this Part is to provide for more effective and direct r
   (b) the owners present at the meeting may do one or both of the following things:
     (i) consider whether to apply to the court for the appointment of some other individual or body or individuals or bodies to be their agent or agents, either instead of or in addition to any individual or body already so appointed:
     (ii) give to the agent or agents such directions or advice in relation to the duties of the agent or agents and the manner in which the agent or agents is or are to exercise the agent’s or agents’ powers, as the owners think fit.
-(3) Where, in pursuance of subsection (2)(b)(i), an application is made to the court for the appointment of any individual or body to be the agent or one of the agents of the owners, the court shall make the order sought unless it is satisfied that the individual or body to whom the application relates does not have sufficient ability, experience, and knowledge to carry out the duties involved satisfactorily, or that it would not be practicable for that person to act as the agent of the owners in the particular case.
+(3) Where, in pursuance of subsection (2)﻿(b)﻿(i), an application is made to the court for the appointment of any individual or body to be the agent or one of the agents of the owners, the court shall make the order sought unless it is satisfied that the individual or body to whom the application relates does not have sufficient ability, experience, and knowledge to carry out the duties involved satisfactorily, or that it would not be practicable for that person to act as the agent of the owners in the particular case.
 
 ### 185 Appointment of agents for purposes of alienation, etc
 (1) Subject to the succeeding provisions of this section, the court may, on the application of any owner or group of owners of Maori land, or on the application of the Registrar, appoint any body or person referred to in paragraphs (b) to (f) of section 222(1), to be the agent or agents of the owners for 1 or more of the purposes specified in subsection (2) of this section and subject to such limitations and conditions as are specified in the order.
@@ -2016,7 +2016,7 @@ The principal purpose of this Part is to provide for more effective and direct r
   (c) that the appointment of that body or person would be broadly acceptable to the owners; and
   (d) that the proposed appointee consents to the appointment.
 (4) No person other than the Māori Trustee may be appointed under this section in respect of any alienation by way of a lease if the lease contains provision for the payment of compensation for lessee’s improvements.
-(5) An agent appointed for any of the purposes specified in subsection (2)(c) shall not be responsible to any alienee in respect of the default of the owners to perform or observe a covenant in the lease.
+(5) An agent appointed for any of the purposes specified in subsection (2)﻿(c) shall not be responsible to any alienee in respect of the default of the owners to perform or observe a covenant in the lease.
 
 ### 186 Order of appointment
 (1) Every order for the appointment of an agent under this Part shall specify—
@@ -2086,7 +2086,7 @@ The powers and duties conferred by sections 196 to 199 shall be exercised or per
 (2) Before making an appointment under this section, the Māori Trustee or the court appointed agent may require the lessee to deposit with the Māori Trustee or the court appointed agent a sum sufficient, in the opinion of the Māori Trustee or the court appointed agent, to defray the costs and charges of the valuer, arbitrator, or umpire.
 
 ### 198 Enforcement of covenants of lease
-(1) On application by or on behalf of the owners of any Maori freehold land held under lease, or without requiring any such application in any case where the Māori Trustee or the court appointed agent thinks fit to do so, the Māori Trustee or the other agent of the owners appointed by the court for the purposes specified in section 185(2)(c)(v) may, in his or her own name or in the name of the owners, exercise all rights of action, distress, or re-entry or other rights of the owners in respect of the land as if the Māori Trustee or the court appointed agent were the owner of it, and may exercise any such rights whether or not the lease has expired or has been otherwise determined.
+(1) On application by or on behalf of the owners of any Maori freehold land held under lease, or without requiring any such application in any case where the Māori Trustee or the court appointed agent thinks fit to do so, the Māori Trustee or the other agent of the owners appointed by the court for the purposes specified in section 185(2)﻿(c)﻿(v) may, in his or her own name or in the name of the owners, exercise all rights of action, distress, or re-entry or other rights of the owners in respect of the land as if the Māori Trustee or the court appointed agent were the owner of it, and may exercise any such rights whether or not the lease has expired or has been otherwise determined.
 (2) In the course of exercising his or her rights under this section, the Māori Trustee or the court appointed agent may, where the lease has not expired or been otherwise determined, agree to the surrender of the lease.
 (3) Before exercising any rights under this section or in the course of exercising any such rights, the Māori Trustee or the court appointed agent may require that any costs, charges, or expenses incurred or likely to be incurred by the Māori Trustee or the court appointed agent shall be paid by the owners or that payment be satisfactorily secured, and may apply any money received under this section or otherwise held by the Māori Trustee or the court appointed agent on behalf of the owners or any of them in payment of any costs, charges, or expenses incurred by the Māori Trustee or the court appointed agent in the exercise of his or her powers under this section.
 
@@ -2357,7 +2357,7 @@ In this Part, unless the context otherwise requires,—
   (a) retain the rights, duties, and powers of the registered proprietor of the land even though the land may not be registered in their name; and
   (b) must exercise those rights, duties, and powers in their own names.
 (8) The Registrar-General of Land—
-  (a) is entitled to rely on the Registrar’s certificate issued under subsection (6)(a) as sufficient evidence that the direction has been given properly, unless there is evidence to the contrary; and
+  (a) is entitled to rely on the Registrar’s certificate issued under subsection (6)﻿(a) as sufficient evidence that the direction has been given properly, unless there is evidence to the contrary; and
   (b) must have regard to subsection (7).
 (9) The Registrar may issue a certificate stating the names of the trustees of land registered in the name of a trust or a tipuna, and the Registrar-General of Land is entitled to rely on that certificate as sufficient evidence that the persons named are those trustees.
 (10) A certificate under subsection (9) must accompany an instrument that is—
@@ -2831,9 +2831,9 @@ Members of the committee of management of a Maori incorporation shall be entitle
   (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
 (3) The financial statements must be accompanied by—
   (a) the auditor's report made under section 277 (if any); and
-  (b) a report by the committee of management in respect of the state of the incorporation's affairs and the amount, if any, that the committee has determined is available for the purposes of section 259(1)(c); and
+  (b) a report by the committee of management in respect of the state of the incorporation's affairs and the amount, if any, that the committee has determined is available for the purposes of section 259(1)﻿(c); and
   (c) in respect of the assets of the incorporation, a statement setting out the estimated current market value of the assets, together with a statement of the liabilities, if any, of the body corporate charged on or relating particularly to those assets (unless this information is already included in the financial statements).
-(4) If the assets of the incorporation include any interest in land, the current market value of that interest for the purposes of subsection (3)(c) must, if it is separately valued in the district valuation roll, be treated as the capital value of the interest as appearing on that roll.
+(4) If the assets of the incorporation include any interest in land, the current market value of that interest for the purposes of subsection (3)﻿(c) must, if it is separately valued in the district valuation roll, be treated as the capital value of the interest as appearing on that roll.
 
 ### 276B Financial statements must be filed
 (1) The committee of management of a Maori incorporation must ensure that copies of the financial statements and other documents referred to in section 276A are filed with the Registrar in whose court district the land is situated, for the purpose of public inspection, within 14 days after their submission to a general meeting of shareholders.
@@ -2855,7 +2855,7 @@ Members of the committee of management of a Maori incorporation shall be entitle
 (6A) If a Maori incorporation referred to in subsection (1A) has resolved that the financial statements should be reviewed, subsection (6) applies as if the references to an audit were references to a review.
 (6B) The auditor's report on the financial statements must—
   (a) comply with the requirements of all applicable auditing and assurance standards; and
-  (b) state whether or not, in the auditor's opinion, according to the best of the auditor's information and the explanations given to the auditor, and as shown by the accounting records of the incorporation, any statement required by section 276A(3)(c) is properly drawn up so as to give a true and fair view of the state of the incorporation's affairs as at the end of its financial year; and
+  (b) state whether or not, in the auditor's opinion, according to the best of the auditor's information and the explanations given to the auditor, and as shown by the accounting records of the incorporation, any statement required by section 276A(3)﻿(c) is properly drawn up so as to give a true and fair view of the state of the incorporation's affairs as at the end of its financial year; and
   (c) state whether or not the share register and index of shareholders required by section 263 to be kept by the incorporation have been duly and correctly kept.
 (7) The auditor’s report shall be read before the general meeting of the shareholders and shall be open to inspection by any shareholder.
 (8)
@@ -2867,7 +2867,7 @@ Members of the committee of management of a Maori incorporation shall be entitle
 (3) The same person may be appointed in respect of any incorporation to the offices of auditor and share valuer.
 (4) When, by any provision of this Act, the value of any shares in an incorporation is required to be assessed, fixed, or ascertained by the share valuer under this section, the share valuer shall assess the value of the shares in relation to the equity value of the incorporation at the date of the last published statement of financial position (as disclosed by the statement of financial position and the statement annexed to it of the estimated current market value of assets), with such adjustments (if any) as, in the share valuer’s opinion, are necessary to arrive at a fair and reasonable equity value at the date of the share valuer’s valuation, having regard to—
   (a) any material change in the current market value of the livestock or other assets of the incorporation since the date of the last published statement of financial position; and
-  (b) any appropriations of money to be paid to the shareholders or otherwise under section 259(1)(c), since the date of the last published statement of financial position; and
+  (b) any appropriations of money to be paid to the shareholders or otherwise under section 259(1)﻿(c), since the date of the last published statement of financial position; and
   (c) the estimated financial results of the operations of the incorporation for the current financial year; and
   (d) any other matter or circumstance that, in the opinion of the share valuer, materially affects the equity value of the incorporation.
 
@@ -2913,11 +2913,11 @@ Members of the committee of management of a Maori incorporation shall be entitle
   (g) order the winding up of the incorporation:
   (h) refer any matter to the Attorney-General to consider whether any charging document should be filed or any prosecution commenced against any person or persons.
 (8) The court may, before appointing an examining officer in respect of a Maori incorporation, require security for the cost of the examination, to be given by the applicant; and may, on completion of the investigation or at any stage of it, make such order as it thinks fit for the payment, by the incorporation or by a shareholder or any other person, of a reasonable sum to defray the costs of the examination and of any inquiry before the court.
-(9) The court may, in respect of any vacancies in the membership of a committee of management of a Maori incorporation created by the exercise of its powers under subsection (7)(a),—
+(9) The court may, in respect of any vacancies in the membership of a committee of management of a Maori incorporation created by the exercise of its powers under subsection (7)﻿(a),—
   (a) order an election to fill the vacancies; or
   (b) fill the vacancies by appointment under section 269(5); or
   (c) order that the vacancies remain unfilled pending a further order of the court.
-(10) Any additional member appointed to a committee of management pursuant to subsection (7)(b) shall hold office in accordance with the terms of the order notwithstanding anything in the constitution of the incorporation, but for all other purposes shall have all the powers and be subject to all the provisions relating to the members of the committee.
+(10) Any additional member appointed to a committee of management pursuant to subsection (7)﻿(b) shall hold office in accordance with the terms of the order notwithstanding anything in the constitution of the incorporation, but for all other purposes shall have all the powers and be subject to all the provisions relating to the members of the committee.
 (11) The appointment of any such member may at any time be terminated by the court, notwithstanding that the period for which the member was appointed has not yet expired.
 
 ### 281 Power of court to require officers to attend to explain non-compliance with statutory requirements
@@ -2939,7 +2939,7 @@ Members of the committee of management of a Maori incorporation shall be entitle
 
 ### 282 Winding up of incorporation
 (1) The court may order the winding up of a Maori incorporation—
-  (a) pursuant to section 280(7)(g); or
+  (a) pursuant to section 280(7)﻿(g); or
   (b) if a general meeting of shareholders has by special resolution resolved that the incorporation be wound up; or
   (c) if default has been made in the submission to a general meeting of shareholders, or in the filing in the court, of the financial statements and other documents required by sections 276A and 276B to be so submitted and filed; or
   (d) if the number of shareholders is reduced below 2; or
@@ -2957,7 +2957,7 @@ Members of the committee of management of a Maori incorporation shall be entitle
 (9) Any liquidator appointed under this section shall be entitled to be paid, out of the income and other assets of the incorporation, such remuneration as the court may order.
 
 ### 283 Disposal of land on winding up of incorporation
-(1) Subject to any directions of the court, the liquidator may sell any land retained by the incorporation under section 256(1)(a) as an investment, and shall hold the proceeds of any such sale to be dealt with in accordance with orders of the court.
+(1) Subject to any directions of the court, the liquidator may sell any land retained by the incorporation under section 256(1)﻿(a) as an investment, and shall hold the proceeds of any such sale to be dealt with in accordance with orders of the court.
 (2) Notwithstanding any restrictions imposed by this Act on the alienation of Maori land, the liquidator may, with the leave of the court, grant a lease of any Maori freehold land vested in the incorporation, for a term not exceeding 7 years (including any term or terms of renewal), on such conditions and for such rent or other consideration as the liquidator thinks fit.
 (3) Subject to subsections (1) and (2), the court may, at any time during the course of the winding up of a Maori incorporation, make an order vesting in the persons beneficially entitled to any or all of the land vested in the incorporation, in accordance with the respective interests of those persons, and the property shall vest in those persons accordingly.
 
@@ -3041,9 +3041,9 @@ In this Part the term land to which this Part applies means—
 (1) In partitioning any land under this Part, the court may exercise its discretionary powers in accordance with the following provisions of this section:
   (a) it may partition the land among the several owners in accordance, as nearly as may be, with their several shares; or
   (b) in order to give effect to any agreement or arrangement made by the owners concerned, it may allot the share or any of the shares of any owner to any other owner, subject to such conditions as to payment of compensation or otherwise as may have been agreed to.
-(2) Nothing in subsection (1)(a) shall limit the powers conferred on the court by section 293, or to prevent the court from varying the shares of the several owners with their consent, or otherwise from varying their shares within reasonable limits if, in its opinion, a variation is necessary to enable the court to make an equitable partition.
-(3) The court shall make vesting orders for the purpose of giving effect to any arrangement made for the purpose of subsection (1)(b).
-(4) When any compensation is made payable by any person under subsection (1)(b), the court may, in the partition order or by a separate charging order, constitute the compensation a charge on any land or interest in land owned by the person by whom the compensation is payable.
+(2) Nothing in subsection (1)﻿(a) shall limit the powers conferred on the court by section 293, or to prevent the court from varying the shares of the several owners with their consent, or otherwise from varying their shares within reasonable limits if, in its opinion, a variation is necessary to enable the court to make an equitable partition.
+(3) The court shall make vesting orders for the purpose of giving effect to any arrangement made for the purpose of subsection (1)﻿(b).
+(4) When any compensation is made payable by any person under subsection (1)﻿(b), the court may, in the partition order or by a separate charging order, constitute the compensation a charge on any land or interest in land owned by the person by whom the compensation is payable.
 
 ### 292 Allotment of interests on partition
 (1) Where, by reason of the smallness of the undivided shares, or for any other reason, the court is of the opinion that it would be inequitable to partition any area in strict accordance with the respective shares of the owners, the court may, in partitioning that area, allot to any owner a parcel or interest greater in value than that to which the owner would otherwise be entitled, and may allot to any other owner a parcel or interest proportionately less in value than that to which the owner would otherwise be entitled.
@@ -3074,7 +3074,7 @@ If, on the partition of any land, the share or interest of any person in the lan
 (5) On cancelling a vesting order under subsection (4), the court may order—
   (a) that the land be held again under the former instrument of title as if the vesting order had not been made; or
   (b) that the land is vested in any other person whom the court considers to be justly entitled to it.
-(6) If an order under subsection (5)(a) is made, all orders of the court and all alienations affecting interests in the land made or effected since the date of the order cancelled are to be treated as relating to the former title and the interests under it.
+(6) If an order under subsection (5)﻿(a) is made, all orders of the court and all alienations affecting interests in the land made or effected since the date of the order cancelled are to be treated as relating to the former title and the interests under it.
 (7) On cancelling a vesting order under subsection (4), the court may, if it considers it necessary, make an order under section 128.
 
 ### 297 Partition orders may be made in respect of land held in trust
@@ -3212,7 +3212,7 @@ No partition of Maori land shall be effected (whether by the court under this Pa
   (a) that the exchange is not detrimental to the interests of the Maori owners affected by the exchange:
   (b) that, if the interests to be exchanged are unequal in value, a sufficient sum of money by way of equality of exchange has been actually paid or sufficient security for its payment has been given:
   (c) that the Maori owners of the land affected by the exchange have had sufficient notice of the application for an exchange order and sufficient opportunity to discuss and consider it, and that there is a sufficient degree of support for the application among the owners, having regard to the nature and importance of the matter.
-(2) Notwithstanding anything in subsection (1)(b), in any case to which that provision applies the court may waive the requirement to pay a sum of money by way of equality of exchange if it is satisfied that the exchange is in the nature of a family arrangement and that, apart from the inequality of the exchange, no party to it is adversely affected.
+(2) Notwithstanding anything in subsection (1)﻿(b), in any case to which that provision applies the court may waive the requirement to pay a sum of money by way of equality of exchange if it is satisfied that the exchange is in the nature of a family arrangement and that, apart from the inequality of the exchange, no party to it is adversely affected.
 
 ### 313 Effect of exchange order
 (1) An exchange order shall operate according to its tenor to transfer and vest the respective estates and interests expressed to be exchanged in the same manner as if all necessary instruments of assurance had been lawfully executed by and between all persons interested, and as if all those persons had been fully competent to execute the instruments.
@@ -3421,7 +3421,7 @@ The Governor-General may from time to time, by Order in Council, make such regul
 (1) Where—the court or the Registrar may transmit to the Chief Surveyor of the district in which the land is situated a requisition for such a survey, together with such particulars as to the nature or purpose of the survey as may be necessary.
   (a) the court is of the opinion that a survey of any Maori land is necessary or expedient for the completion of any order of the court or for the exercise of any powers or jurisdiction of the court in relation to that land; or
   (b) the court, on the application of any owner of any Maori land, makes an order requiring a survey of any Maori land to be made for any purpose,—
-(2) The court shall not make an order under subsection (1)(b) unless it is satisfied that—
+(2) The court shall not make an order under subsection (1)﻿(b) unless it is satisfied that—
   (a) the owners of the land have had sufficient opportunity to discuss and consider the proposal that the survey be made; and
   (b) there is a sufficient degree of support among the owners for the making of the survey.
 (3) In any requisition transmitted under subsection (1) the court or the Registrar may nominate a duly authorised surveyor to make the required survey.
@@ -3611,7 +3611,7 @@ Except as provided in subsection (4) of section 10 of the Maori Reserved Land Ac
 (2) The court may from time to time, upon application made to the court by or on behalf of a Maori incorporation to which this section applies, make—
   (a) an order redefining the objects for which the incorporation was established, or adding any other objects; or
   (b) an order omitting from the order of incorporation the object or several objects specified in the order of incorporation as the object or the several objects for which the incorporation is established.
-(3) Subject to any order made under subsection (2)(a), and to any order made, before the commencement of this Act, under section 28 of the Maori Affairs Amendment Act 1967, where an order has not been made under subsection (2)(b) of this section in relation to a Maori incorporation to which this section applies, the object or the several objects of that incorporation shall, until the making of such an order, continue to be the object or the several objects specified in its order of incorporation.
+(3) Subject to any order made under subsection (2)﻿(a), and to any order made, before the commencement of this Act, under section 28 of the Maori Affairs Amendment Act 1967, where an order has not been made under subsection (2)﻿(b) of this section in relation to a Maori incorporation to which this section applies, the object or the several objects of that incorporation shall, until the making of such an order, continue to be the object or the several objects specified in its order of incorporation.
 (4) An application under this section may be made only pursuant to a resolution passed at a general meeting of the shareholders of the incorporation by or on behalf of which the application is made.
 
 ### 359 Provisions of certain enactments not affected by this Act
