@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2015-06-30_
+_Consolidation as at 2016-04-30_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -974,7 +974,7 @@ The instructions referred to in section 75(3)﻿(b) are—
   (c) that the inquiry board avoid unnecessary formality:
   (d) that, to the extent reasonably possible, costs of the inquiry be kept within reasonable bounds:
   (e) that the inquiry board recognise tikanga Maori where appropriate:
-  (f) that the inquiry board receive any evidence written or spoken in Maori (but the fact that this instruction has, or has not, been given to the inquiry board is not to affect the application (if any) of the Maori Language Act 1987 in proceedings before the inquiry board):
+  (f) that the inquiry board receive any evidence written or spoken in Maori (but the fact that this instruction has, or has not, been given to the inquiry board is not to affect the application (if any) of Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016 in proceedings before the inquiry board):
   (g) that the questioning of witnesses (other than by the inquiry board or its support personnel) be available only if—
     (i) a person's interests may be adversely affected by evidence or a statement of a witness or, and in exceptional circumstances only, a refusal to allow questioning would otherwise contravene natural justice; and
     (ii) no other procedure would protect adequately the person's interests or avoid the other contravention of natural justice:
@@ -1286,7 +1286,7 @@ Amendment(s) incorporated in the Act(s).
 (5) Despite sections 28 and 63, during the period of 1 year ending after the commencement of this section, a publicly-owned health and disability organisation may—
   (a) hold any shares or interests in a body corporate or in a partnership, joint venture, or other association of persons if those shares or interests were vested in the organisation by this Act; and
   (b) be the trustee of a trust if the office as trustee was vested in the organisation by this Act.
-(6) On the expiry of the period referred to subsection (5), no organisation may continue to hold such shares or interests or be such a trustee without the consent of the Minister, given in accordance with section 28 or section 63, as the case may require.
+(6) On the expiry of the period referred to in subsection (5), no organisation may continue to hold such shares or interests or be such a trustee without the consent of the Minister, given in accordance with section 28 or section 63, as the case may require.
 
 **Appropriations for purposes of Act**
 
