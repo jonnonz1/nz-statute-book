@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2015-11-24_
+_Consolidation as at 2016-04-30_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -1091,7 +1091,7 @@ Anything done before the commencement of this Part that would have complied with
   (c) in the case of employees who are being offered positions with a new employer, notify each employee concerned—
     (i) of who the new employer is; and
     (ii) whether the employee is being offered the same or a substantially similar position with the new employer; and
-    (iii) if the employee is being offered a position that is not the same or a substantially similar position, the terms and conditions of employment of the position being offered; and
+    (iii) if the employee is being offered a position that is not the same or a substantially similar position, of the terms and conditions of employment of the position being offered; and
     (iv) of the date by which the employee is to notify the chief executive as to whether the employee accepts or declines the offer.
 
 ### 101 Transfer of employment positions
@@ -1504,7 +1504,7 @@ The Hearings Panel must give no less than 10 working days' notice of the dates, 
 (3) At the hearing session, the Hearings Panel—
   (a) may permit a party to question any other party or witness; and
   (b) may permit cross-examination; and
-  (c) must receive evidence written or spoken in Māori, in which case the Māori Language Act 1987 applies as if the hearing session were legal proceedings before a tribunal named in Schedule 1 of that Act.
+  (c) must receive evidence written or spoken in Māori, in which case Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016 applies as if the hearing session were legal proceedings before a tribunal named in Schedule 2 of that Act.
 (4) Otherwise, the Hearings Panel must establish a procedure for hearing sessions that—
   (a) is appropriate and fair in the circumstances (including in respect of the granting to a person of any waiver of the requirements of the Hearings Panel); and
   (b) avoids unnecessary formality; and
