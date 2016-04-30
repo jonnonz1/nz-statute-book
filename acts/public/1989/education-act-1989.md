@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-04-30_
 
 > An Act to reform the administration of education
 
@@ -7156,10 +7156,7 @@ In this Part of this Act, unless the context otherwise requires,—
   (a) increase the value or maximum value of any allowance, or the rate or maximum rate at which any allowance may be paid; or
   (b) extend the class or classes of person entitled to receive an allowance, or entitled to be paid an allowance at any particular rate.
 (3B) The rates of student allowances set under this section (except the rates of allowances provided in respect of accommodation expenses) must be adjusted, by regulations made under subsection (1), as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by an amount equal to the percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December 1 year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
-(3BA) Despite subsection (3B), if any rate of student allowance is increased on 1 April 2016 by regulations (regulations A), not being the regulations required to be made under subsection (3B) that come into force on 1 April 2016 (regulations B), then—
-  (a) regulations A come into force immediately before regulations B; and
-  (b) the adjustment to the rate of the allowance required to be made by regulations B is to the rate as at 31 March 2016; and
-  (c) the amount by which the rate of allowance is increased by regulations A is added to the adjustment made by regulations B.
+(3BA)
 (3C) The adjustments (by any percentage movement upwards in the CPI) required under subsection (3B) as at 1 April in any year from 2011 to 2017 (inclusive) must, despite subsections (3B) and (3F), be calculated,—
   (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the consumers price index-all groups published by Statistics New Zealand; and
   (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.
@@ -7173,7 +7170,7 @@ In this Part of this Act, unless the context otherwise requires,—
   (b) defining the terms parent, spouse, partner, and any related terms, for the purposes of the regulations:
   (c) stating when and to what extent that income is to be taken into account.
 (5) Until regulations under this section set out the value of allowances established by the regulations, the allowances have the annual or other value prescribed by the Minister by notice in the Gazette.
-(6) Subsection (3BA) is repealed on 30 April 2016, and this subsection is repealed immediately after.
+(6)
 
 ### 304 Student Allowance Appeal Authority
 (1) There is hereby established the Student Allowance Appeal Authority.
