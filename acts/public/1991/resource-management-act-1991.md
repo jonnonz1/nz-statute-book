@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2015-09-23_
+_Consolidation as at 2016-04-30_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -1300,7 +1300,7 @@ The following bodies have the powers of a consent authority under sections 37 an
   (g) an application for a water conservation order,—
 (2) In determining an appropriate procedure for the purposes of subsection (1), the authority shall—
   (a) avoid unnecessary formality; and
-  (b) recognise tikanga Maori where appropriate, and receive evidence written or spoken in Maori and the Maori Language Act 1987 shall apply accordingly; and
+  (b) recognise tikanga Maori where appropriate, and receive evidence written or spoken in Maori and Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016 shall apply accordingly; and
   (c) not permit any person other than the chairperson or other member of the hearing body to question any party or witness; and
   (d) not permit cross-examination.
 (3) Despite subsection (2), nothing in paragraph (c) or (d) of that subsection applies to a board of inquiry appointed under section 149J.
@@ -6980,7 +6980,7 @@ A person who has a right to appear or is allowed to appear before the Environmen
   (a) accept evidence that was presented at a hearing held by the consent authority under section 39:
   (b) direct how evidence is to be given to the court.
 (2) The Environment Court is not bound by the rules of law about evidence that apply to judicial proceedings.
-(3) The Environment Court may receive evidence written or spoken in Maori and the Maori Language Act 1987 shall apply accordingly.
+(3) The Environment Court may receive evidence written or spoken in Maori and Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016 shall apply accordingly.
 
 ### 276A Evidence of documents
 A copy of, or extract from, a policy statement or plan, certified to be a true copy by the principal administrative officer or by any other authorised officer of the relevant local authority, is admissible in evidence in legal proceedings to the same extent as the original document.
