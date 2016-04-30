@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2016-04-30_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -921,7 +921,7 @@ A hearing must be completed not later than 40 working days after the first day o
 (2) The EPA must establish a procedure for a hearing that is appropriate and fair in the circumstances.
 (3) In determining an appropriate and fair procedure for a hearing, the EPA must—
   (a) avoid unnecessary formality; and
-  (b) recognise tikanga Māori where appropriate, and receive evidence written or spoken in Māori, and the Maori Language Act 1987 applies accordingly.
+  (b) recognise tikanga Māori where appropriate, and receive evidence written or spoken in Māori, and Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016 applies accordingly.
 (4) No person may question a party or witness unless the EPA gives permission.
 
 ### 54 Persons who may be heard at hearings
@@ -2480,7 +2480,7 @@ Replace section 7A with:Relationship with Resource Management Act 1991Relationsh
 (2) The EPA must establish a procedure for a hearing that is appropriate and fair in the circumstances.
 (3) In determining an appropriate and fair procedure for a hearing, the EPA must—
   (a) avoid unnecessary formality; and
-  (b) recognise tikanga Māori where appropriate, and receive evidence written or spoken in Māori, and the Maori Language Act 1987 applies accordingly.
+  (b) recognise tikanga Māori where appropriate, and receive evidence written or spoken in Māori, and Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016 applies accordingly.
 (4) The applicant may question a party or witness if the EPA gives permission.
 
 ### 3 Persons who may be heard at hearings
