@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2016-04-30_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -2034,16 +2034,14 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
 ### 61HA Annual CPI adjustment of rates of certain benefits
 (1) In this section, CPI means the consumers price index-all groups published by Statistics New Zealand.
 (2) The rates of benefits set out in Schedules 3, 3A, 4, 6, 9, 16, and 26 (other than any rate of incentive payment), and in clause 1 of Schedule 22 must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate is the rate at that date adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December 1 year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
-(2A) Despite subsection (2), if any rate of benefit referred to in that subsection is increased on 1 April 2016 by the Social Security Amendment Act (No 2) 2015,—
-  (a) the adjustment to that rate of benefit as at 1 April 2016 required by subsection (2) is to that rate as at 31 March 2016; and
-  (b) the amount by which the rate was increased by the Social Security Amendment Act (No 2) 2015 on 1 April 2016 is additional to the adjustment referred to in paragraph (a).
+(2A)
 (3) The adjustments (by any percentage movement upwards in the CPI) required under subsection (2) as at 1 April in any year from 2011 to 2017 (inclusive) must, despite subsections (1) and (2), be calculated,—
   (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the consumers price index-all groups published by Statistics New Zealand; and
   (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.
 (4) An adjustment under subsection (2) must not reduce the weekly amounts of benefits payable under those schedules.
 (5) Every Order in Council made under subsection (2) comes into force or is considered to come into force on 1 April of the calendar year in which it is made, and applies to benefits payable on and after that date.
 (6) Section 61H(2) and (5) applies to every Order in Council made under subsection (2) as if that order were made under that section.
-(7) Subsection (2A) is repealed on 30 April 2016, and this subsection is repealed immediately after.
+(7)
 
 ### 61I Areas for accommodation supplement purposes may be altered by Order in Council
 (1) The Governor-General may by Order in Council, amend the definitions of the terms Area 1, Area 2, and Area 3—
