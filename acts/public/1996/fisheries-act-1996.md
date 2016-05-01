@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-05-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -129,7 +129,7 @@ _Consolidation as at 2016-03-01_
     (c) in relation to any stock not subject to the quota management system, a period of 12 months commencing on each 1 October, unless otherwise prescribed
   - **foreign allowable catch** means a foreign allowable catch set under section 81
   - **foreign fishing vessel** means any fishing vessel that is neither a New Zealand fishing vessel nor a New Zealand ship
-  - **foreign-owned New Zealand fishing vessel** means a fishing vessel registered with consent under section 103(4)
+  - **foreign-owned New Zealand fishing vessel** means a fishing vessel registered with consent under section 103A(4)
   - **foreign vessel** means any vessel that is neither a vessel registered under this Act nor a New Zealand ship
   - **Foveaux Strait dredge oyster** means any dredge oyster found in the Foveaux Strait dredge oyster fishery
   - **Foveaux Strait dredge oyster fishery** means the Foveaux Strait Dredge Oyster Fishery defined in regulation 2 of the Fisheries (Southland and Sub-Antarctic Areas Commercial Fishing) Regulations 1986
@@ -339,7 +339,7 @@ This Act shall be interpreted, and all persons exercising or performing function
 (2) Subsection (1) does not—
   (a) prevent a regional council from taking into account the effects of aquaculture activities on fishing or fisheries resources when carrying out its functions under section 30(1)﻿(d) of the Resource Management Act 1991; or
   (b) prevent any coastal permit authorising aquaculture activities from being granted.
-(3) In this section—
+(3) In this section,—
   - **fishing sector** means—
     (a) commercial fishers:
     (b) recreational fishers:
@@ -356,7 +356,7 @@ This Act shall bind the Crown.
 
 ### 8 Purpose
 (1) The purpose of this Act is to provide for the utilisation of fisheries resources while ensuring sustainability.
-(2) In this Act—
+(2) In this Act,—
   - **ensuring sustainability** means—
     (a) maintaining the potential of fisheries resources to meet the reasonably foreseeable needs of future generations; and
     (b) avoiding, remedying, or mitigating any adverse effects of fishing on the aquatic environment
@@ -556,7 +556,7 @@ All persons exercising or performing functions, duties, or powers under this Act
   (a) is not ensuring the sustainability of the stock or species; or
   (b) is not providing for the utilisation of the stock or species.
 (2) The Minister must determine to make the stock or species concerned subject to the quota management system, unless he or she determines that the purpose of this Act would be better met by setting 1 or more sustainability measures under section 11 (other than a total allowable catch set under section 13 or section 14).
-(3) Before determining whether the criteria in subsection (1)﻿(a) or (b) have been satisfied, and before making a determination under subsection (2) the Minister must consult those persons or organisations considered by the Minister to be representative of the classes of persons who have an interest in the relevant determination.
+(3) Before determining whether the criteria in subsection (1)﻿(a) or (b) have been satisfied, and before making a determination under subsection (2), the Minister must consult those persons or organisations considered by the Minister to be representative of the classes of persons who have an interest in the relevant determination.
 (4) As soon as practicable after making a determination under subsection (2), the Minister must give his or her reasons for the determination in writing to any persons or organisations consulted under subsection (3).
 (5) In the case of a stock or species listed in Schedule 4C,—
   (a) the Minister may make a determination under subsection (2), regardless of whether or not the Minister is satisfied of the matters specified in subsection (1); and
@@ -776,7 +776,7 @@ The Minister may recommend the alteration of any quota management area under sec
 **Calculation of provisional catch history if no individual catch entitlement**
 
 ### 32 Criteria of eligibility to receive provisional catch history for quota management stock
-(1) If a stock is declared by notice under section 18 to be subject to the quota management system a person is eligible to receive provisional catch history for the stock if the person—and has provided the chief executive with eligible returns for the stock for the applicable qualifying year or qualifying years.
+(1) If a stock is declared by notice under section 18 to be subject to the quota management system, a person is eligible to receive provisional catch history for the stock if the person—and has provided the chief executive with eligible returns for the stock for the applicable qualifying year or qualifying years.
   (a) either,—
     (i)
     (ii) was issued a fishing permit under section 2(2) of the Fisheries Amendment Act 1994; or
@@ -892,7 +892,7 @@ For the purposes of this Part, the qualifying year or qualifying years are,—
   (a) both—
     (i) the person's right to appeal under section 51(1)﻿(b); and
     (ii) that the appeal must be lodged not later than the date specified for the purpose in the notice; and
-  (b) if the chief executive considers under section 35(1)﻿(b) that the person is not eligible to receive quota, that unless the person lodges an appeal not later than the date specified under paragraph (a)﻿(ii) the person may transfer the person's provisional catch history within the period of 20 working days commencing on the day after that specified date, and that, if the provisional catch history is not transferred within that period, it shall be deemed to be cancelled on the expiration of that period; and
+  (b) if the chief executive considers under section 35(1)﻿(b) that the person is not eligible to receive quota, that, unless the person lodges an appeal not later than the date specified under paragraph (a)﻿(ii), the person may transfer the person's provisional catch history within the period of 20 working days commencing on the day after that specified date, and that, if the provisional catch history is not transferred within that period, it shall be deemed to be cancelled on the expiration of that period; and
   (c) if the chief executive considers, under section 35(1)﻿(b)﻿(ii)﻿(B), that the person is not eligible to receive quota,—
     (i) the person's right to appeal under section 51(1)﻿(b) and apply for a declaration under section 51(2); and
     (ii) that any appeal to the Catch History Review Committee or application for a declaration to the High Court must be lodged not later than the date specified under paragraph (a)﻿(ii).
@@ -1623,7 +1623,7 @@ Before making a recommendation under section 77(1), the Minister may have regard
   (a) a subsidiary of the commercial fisher within the meaning of section 5 of the Companies Act 1993; or
   (b) a company of which the commercial fisher is a subsidiary within the meaning of section 5 of the Companies Act 1993; or
   (c) a partnership or unincorporated joint venture that would be a subsidiary of the commercial fisher, or of which the commercial fisher would be a subsidiary, if the partnership or joint venture were incorporated as a company with shareholdings corresponding to the interests, including returns, of the partners in the partnership or participants in the joint venture.
-(12) Despite subsection (11)—
+(12) Despite subsection (11),—
   (a) Te Ohu Kai Moana Trustee Limited, a mandated iwi organisation, or members of an iwi, are not to be regarded as being included with any other person, whether or not that person is a mandated iwi organisation, merely because any of them has the status of being—
     (i) a beneficiary or income shareholder of Aotearoa Fisheries Limited; or
     (ii) a beneficiary of—
@@ -1676,7 +1676,7 @@ Before making a recommendation under section 77(1), the Minister may have regard
   (a) a subsidiary of the commercial fisher within the meaning of section 5 of the Companies Act 1993; or
   (b) a company of which the commercial fisher is a subsidiary within the meaning of section 5 of the Companies Act 1993; or
   (c) a partnership or unincorporated joint venture that would be a subsidiary of the commercial fisher, or of which the commercial fisher would be a subsidiary, if the partnership or joint venture were incorporated as a company with shareholdings corresponding to the interests, including returns, of the partners in the partnership or participants in the joint venture.
-(6) Despite subsection (5)—
+(6) Despite subsection (5),—
   (a) Te Ohu Kai Moana Trustee Limited, a mandated iwi organisation, or members of an iwi are not to be regarded as being included with another person (whether or not that person is a mandated iwi organisation), merely because any of them is—
     (i) a beneficiary or income shareholder of Aotearoa Fisheries Limited; or
     (ii) a beneficiary of—
@@ -1733,7 +1733,7 @@ Before making a recommendation under section 77(1), the Minister may have regard
 (4)
 (5) The chief executive shall, if satisfied that a valid request for review has been received and sufficient information has been provided, conduct a review of the notification and, as soon as practicable, determine the matters that are the subject of the review and issue a new notification containing all matters specified in subsection (1) and incorporating the results of that determination.
 (6) Any commercial fisher who is dissatisfied with any new notification issued by the chief executive under subsection (5) may, within 20 working days after the date specified for the purpose in the notification of the decision, appeal to a District Court against the decision (which appeal may relate to any matters that were the subject of the commercial fisher's request for review) and the following provisions apply in relation to every such appeal:
-  (a) the appeal shall be commenced by way of an originating application under Part 6 of the District Court Rules 1992:
+  (a) the appeal shall be commenced by way of an originating application under Part 6 of the District Courts Rules 1992:
   (b) the court—
     (i) shall consider each of the matters to which the appeal relates; and
     (ii) shall make a final determination in respect of each of those matters; and
@@ -1971,7 +1971,7 @@ Section 89(1) does not apply to the taking of fish, aquatic life, or seaweed if�
     (ii) during the period commencing on 1 October 1990 and ending with the close of 30 September 1992, that person lawfully took fish, aquatic life, or seaweed under the authority of the fishing permit held by that person; and
     (iii) the chief executive is satisfied that the fish, aquatic life, or seaweed taken by that person, during that period were—
       (A) 1 or more of the stocks named in the fishing permit held by that person; and
-      (B) were caught as a target stock (other than bycatch); or
+      (B) caught as a target stock (other than bycatch); or
   (b) a fishing permit was issued to that person under section 2(2) of the Fisheries Amendment Act 1994.
 (2) A fishing permit issued under subsection (1) shall not authorise a person to take a stock or species listed in Schedule 4C, unless either—
   (a) the stock—
@@ -2010,7 +2010,7 @@ If any decision in respect of a fishing permit or high seas fishing permit is ma
     (i) education; or
     (ii) investigative research; or
     (iii) management or eradication of unwanted aquatic life; or
-    (iv) the carrying out of trials and experiments with fishing vessels or fishing gear or any other apparatus or technique which is capable of being used in connection with the taking of fish, aquatic life, or seaweed:
+    (iv) the carrying out of trials and experiments with fishing vessels or fishing gear or any other apparatus or technique that is capable of being used in connection with the taking of fish, aquatic life, or seaweed:
   (b) for the purposes of sport or recreation in the case of any disabled person within the meaning of the Disabled Persons Employment Promotion Act 1960 who, in the opinion of the chief executive, would otherwise be unable, because of the person's disability, to fish by the methods permitted by this Act:
   (c) for any other purpose approved by the Minister after consultation with such persons and organisations as he or she considers are representative of those classes of persons having an interest in the granting of a special permit for such a purpose, including Maori, environmental, commercial, and recreational interests.
 (2) If the issuing of any special permit will have a significant effect on fisheries resources or any fishing interest in the stocks affected that are provided for or authorised by or under this Act, the chief executive shall, before issuing such a permit, consult with such persons and organisations as the chief executive considers are representative of those classes of persons having interests that would be affected if the special permit were issued.
@@ -2057,38 +2057,54 @@ The High Seas Permit Register must contain all the particulars required by regul
 **Fishing vessel registration**
 
 ### 103 Fishing vessels must be registered
-(1) No person shall use a fishing vessel, or any tender of that fishing vessel, to take fish, aquatic life, or seaweed for sale, in New Zealand fisheries waters, unless—
-  (a) the vessel is registered in the Fishing Vessel Register as a fishing vessel; and
-  (b) that person is named in that register as an operator of, or a notified user in relation to, that vessel; and
+(1) A person must not use a fishing vessel, or any tender of that fishing vessel, to take fish, aquatic life, or seaweed for sale, in New Zealand fisheries waters, unless—
+  (a) the vessel is a New Zealand ship or has been exempted under section 103A(1) from that requirement; and
+  (b) the vessel is registered under this section in the Fishing Vessel Register as a fishing vessel; and
   (c) that person complies with all conditions of registration.
-(2) Every application to register a fishing vessel shall—
+(2) An application to register a fishing vessel must—
   (a) be made by the operator of that fishing vessel; and
   (b) be made to the chief executive in the approved form and be accompanied by the prescribed fee (if any); and
-  (c) in the case of a vessel that requires the consent of the chief executive under subsection (4) to be registered, specify the name and address of a person (other than an overseas person) to be the authorised agent (for the purpose of this Act and the purposes specified in subsection (5)) of the person from whom the operator has, by virtue of a lease, a sublease, a charter, a subcharter, or otherwise, for the time being obtained possession and control of the vessel; and
-  (d) be supported by such evidence as may be specified in the approved form.
-(3) If the chief executive, having received an application made in accordance with this section, is satisfied that the vessel is eligible to be registered, he or she shall, as soon as practicable,—
-  (a) register the fishing vessel for a specified period not exceeding 5 years; and
+  (c) be supported by evidence of the vessel's registration as a New Zealand ship or its exemption under section 103A(1), and any other evidence that may be specified in the approved form.
+(3) Consent under section 103A(4) is required before a foreign-owned vessel (other than a vessel owned or operated by an overseas person who has obtained consent under the overseas investment fishing provisions or is exempt from the requirement for that consent) may be registered as a fishing vessel.
+(4) If the chief executive, having received an application made in accordance with this section, is satisfied that the vessel is registered as a New Zealand ship or has been exempted under section 103A(1) from that requirement, and is otherwise eligible to be registered under this section, he or she must, as soon as practicable,—
+  (a) register the fishing vessel,—
+    (i) in the case of a New Zealand ship, for a period not exceeding 5 years; or
+    (ii) in the case of a vessel exempted from the requirement to be a New Zealand ship, for the relevant period under section 103A(3):
   (b) issue to the operator a certificate of registration in respect of that vessel.
-(4) No vessel owned or operated by an overseas person (other than an overseas person who has obtained consent under the overseas investment fishing provisions or is exempt from the requirement for that consent) shall be registered under this section unless the chief executive has consented, either generally or particularly, to the registration of the vessel or vessels owned or operated by that person; and any consent under this subsection may be granted subject to such conditions as the chief executive thinks fit to impose (and such conditions may include, but are not limited to, conditions that relate to fisheries management, employment, vessel safety, or compliance with maritime rules relating to pollution and the discharge of waste material from vessels).
-(4A) The chief executive may, from time to time, by written notice to the operator of a vessel with effect from the date specified in the notice amend, add to, or revoke any conditions of the consent to the registration of the vessel.
-(5) If the chief executive consents under subsection (4) to the registration of any vessel, or if a vessel is owned or operated by an overseas person who has obtained consent under the overseas investment fishing provisions or is exempt from the requirement for that consent, the following provisions apply while the vessel is in New Zealand fisheries waters:
-  (a) for the purposes of the Minimum Wage Act 1983, the Wages Protection Act 1983, and such provisions of any other enactments as are necessary to give full effect to those Acts, a person engaged or employed to do work on the vessel who holds a temporary entry class visa with conditions that allow the person to work under the Immigration Act 2009 shall be deemed to be an employee:
-  (b) for the purposes of the Minimum Wage Act 1983, the Wages Protection Act 1983, and such provisions of any other enactments as are necessary to give full effect to those Acts, the employer of a person referred to in paragraph (a) shall be deemed to be,—
+(5) All conditions of the chief executive's consent to the registration of a vessel in the Fishing Vessel Register are deemed for all purposes to be conditions of the registration of the vessel.
+(6) This section does not require that a vessel be registered as a fishing vessel merely because it is used to take fish, aquatic life, or seaweed produced as part of a lawful fish farming operation.
+(7) A person commits an offence and is liable to the penalty set out in section 252(5) if the person contravenes subsection (1).
+
+### 103A Process for granting exemption from requirement to be New Zealand ship and granting consent to registration
+(1) The chief executive may, on application, exempt a vessel from the requirement to be a New Zealand ship if satisfied that—
+  (a) the vessel will be used only for carrying out fisheries-related research commissioned or approved by the chief executive; and
+  (b) the operator of the vessel or, if the operator is an overseas person, the authorised agent has made reasonable efforts to find a replacement vessel that is a New Zealand ship but was unsuccessful; and
+  (c) the exemption will be in New Zealand’s interests; and
+  (d) there will be sufficient New Zealand control of the operations of the vessel during the period for which it is exempted.
+(2) An application under subsection (1) must—
+  (a) be made by the operator of the vessel or, if the operator is an overseas person, by the authorised agent; and
+  (b) be made in the approved form; and
+  (c) be accompanied by the prescribed fee and the evidence specified in the approved form.
+(3) An exemption may be granted for the period specified in the special permit issued for the purposes of the fisheries-related research.
+(4) For the purposes of section 103(3), the chief executive may—
+  (a) grant consent, either generally or particularly, to the registration of 1 or more foreign-owned vessels operated by any person; and
+  (b) grant consent under this section subject to any conditions that the chief executive thinks fit to impose (and such conditions may include, but are not limited to, conditions that relate to fisheries management, employment, vessel safety, or compliance with maritime rules relating to pollution and the discharge of waste material from vessels).
+(5) The chief executive must have regard to the following matters before deciding whether or not to grant consent under this section:
+  (a) any risk associated with fisheries management, employment, vessel safety, or compliance with maritime rules relating to pollution and the discharge of waste material from vessels that the chief executive considers would be likely to result if the vessel were to be registered; and
+  (b) the previous offending history (if any), in relation to fishing or transportation (whether within the national fisheries jurisdiction of New Zealand or another country, or on the high seas), of the vessel's owner, operator, foreign charter party, notified user, master, or crew; and
+  (c) the nature of the charter or other agreement with the operator (if any); and
+  (d) any other matters that the chief executive considers relevant.
+(6) The chief executive may, from time to time, by written notice to the operator of a vessel with effect from the date specified in the notice amend, add to, or revoke any conditions of the consent to the registration of the vessel.
+(7) If the chief executive grants an exemption under subsection (1) from the requirement to be a New Zealand ship, or if a vessel is owned or operated by an overseas person who has obtained consent under the overseas investment fishing provisions or is exempt from the requirement for that consent, the following provisions apply while the vessel is in New Zealand fisheries waters:
+  (a) for the purposes of the Minimum Wage Act 1983, the Wages Protection Act 1983, and any provisions of any other enactments that are necessary to give full effect to those Acts, a person engaged or employed to do work on the vessel who holds a temporary entry class visa with conditions that allow the person to work under the Immigration Act 2009 is deemed to be an employee:
+  (b) for the purposes of the Minimum Wage Act 1983, the Wages Protection Act 1983, and any provisions of any other enactments that are necessary to give full effect to those Acts, the employer of a person referred to in paragraph (a) is deemed to be,—
     (i) if the operator of the vessel is the employer or contractor of those persons, the operator:
     (ii) in any other case, the person from whom the operator has, by virtue of a lease, a sublease, a charter, a subcharter, or otherwise, for the time being obtained possession and control of the vessel:
-  (c) for the purpose of determining whether the payment to any person engaged or employed to do work on any such vessel meets the requirements of the Minimum Wage Act 1983, the hours of work of, the payments received by, and the entitlements to payment of that person shall be assessed in relation to the whole of each period of such engagement or employment in New Zealand fisheries waters:
-  (d) Labour Inspectors within the meaning of the Employment Relations Act 2000 may exercise their powers under that Act and under the enactments referred to in paragraph (a) within New Zealand fisheries waters in respect of any person deemed to be an employee or employer by virtue of paragraph (a) or paragraph (b):
-  (e) if the operator of any vessel is not the employer by virtue of paragraph (b), then, notwithstanding any responsibility that may rest with the employer, the authorised agent referred to in subsection (2)﻿(c) shall be responsible under the enactments referred to in paragraph (a) for providing any information and records to any Labour Inspector exercising powers under those Acts:
-  (f) the authorised agent referred to in subsection (2)﻿(c) may be served with any documents requiring service under any of the enactments referred to in paragraph (a), and such service shall be deemed to be service on the employer:
-  (g) the Employment Relations Authority and the Employment Court may exercise jurisdiction in respect of any employment relationship that arises by virtue of paragraph (a) or paragraph (b) as if it were a lawful employment relationship subject to New Zealand law.
-(6) Without limiting anything in subsection (5), in considering whether to consent to the registration of a vessel owned or operated by an overseas person referred to in subsection (4), the chief executive shall have regard to—
-  (a) the previous offending history (if any), in relation to fishing or transportation (whether within the national fisheries jurisdiction of New Zealand or another country, or on the high seas), of the vessel's owner, operator, foreign charterparty, notified user, master, or crew; and
-  (b) the nature of the charter or other agreement with the operator (if any); and
-  (ba) any risk associated with fisheries management, employment, vessel safety, or compliance with maritime rules relating to pollution and the discharge of waste material from vessels that the chief executive considers would be likely to result if the vessel were to be registered; and
-  (c) such other matters as the chief executive considers relevant.
-(6AA) All conditions of the chief executive's consent to the registration of a vessel in the Fishing Vessel Register are deemed for all purposes to be conditions of the registration of the vessel.
-(6A) This section does not require that a vessel be registered merely because it is used to take fish, aquatic life, or seaweed produced as part of a lawful fish farming operation.
-(7) Every person commits an offence and is liable to the penalty set out in section 252(5) who contravenes subsection (1).
+  (c) for the purpose of determining whether the payment to any person engaged or employed to do work on any such vessel meets the requirements of the Minimum Wage Act 1983, the hours of work of, the payments received by, and the entitlements to payment of that person must be assessed in relation to the whole of each period of such engagement or employment in New Zealand fisheries waters:
+  (d) Labour Inspectors within the meaning of the Employment Relations Act 2000 may exercise their powers under that Act and under the enactments referred to in paragraph (a) within New Zealand fisheries waters in respect of any person deemed to be an employee or employer by virtue of paragraph (a) or (b):
+  (e) if the operator of any vessel is not the employer by virtue of paragraph (b), then, despite any responsibility that may rest with the employer, the authorised agent referred to in subsection (2) is responsible under the enactments referred to in paragraph (a) for providing any information and records to any Labour Inspector exercising powers under those Acts:
+  (f) the authorised agent referred to in subsection (2) may be served with any documents requiring service under any of the enactments referred to in paragraph (a), and such service is deemed to be service on the employer:
+  (g) the Employment Relations Authority and the Employment Court may exercise jurisdiction in respect of any employment relationship that arises by virtue of paragraph (a) or (b) as if it were a lawful employment relationship subject to New Zealand law.
 
 ### 104 Provisions relating to notified users of fishing vessels
 (1) Every application to become a notified user in relation to a fishing vessel shall—
@@ -4454,7 +4470,7 @@ If any person is convicted of an offence against this Act, the court shall, in i
 (1) In sections 255A to 256, unless the context otherwise requires,—
   - **associated quota** , in relation to a person convicted of an offence (the ), means—
     (a) all quota owned by any person that is a subsidiary of the offender within the meaning of section 5 of the Companies Act 1993:
-    (b) if the offender has, in the fishing year in which the offence was committed or the immediately preceeding fishing year,—all quota of every stock of the species or group of species comprised in stock A owned by the holding company or any subsidiary of the holding company at the date the offence was committed:
+    (b) if the offender has, in the fishing year in which the offence was committed or the immediately preceding fishing year,—all quota of every stock of the species or group of species comprised in stock A owned by the holding company or any subsidiary of the holding company at the date the offence was committed:
       (i) gained any benefit from any quota of a stock (stock A), including annual catch entitlement generated from that quota; and
       (ii) that quota is owned by any company of which the offender is a subsidiary (the holding company) or any other subsidiary of the holding company,—
     (c) any other quota not owned by the holding company or any subsidiary of the offender or any subsidiary of the holding company, but over which the offender had effective control at the date the offence was committed
@@ -5060,7 +5076,7 @@ The purpose of sections 296H to 296N is to ensure that the chief executive is ab
 (3) In this section and sections 296I to 296N,—
   - **intellectual property** —
     (a) has the meaning provided for in Article 2 of the Convention establishing the World Intellectual Property Organisation done at Stockholm on 14 July 1967 and in the World Trade Organisation Agreement on the Trade Related Aspects of Intellectual Property Rights done at Marrakesh on 15 April 1994; and
-    (b) includes all intellectual property rights, including (without limitation) rights relating to circuit layouts and semi-conductor chip products, confidential information, copyright, geographical indications, patents, plant varieties, registered designs, registered and unregistered trade marks, and service marks
+    (b) includes all intellectual property rights, including (without limitation) rights relating to circuit layouts and semiconductor chip products, confidential information, copyright, geographical indications, patents, plant varieties, registered designs, registered and unregistered trade marks, and service marks
   - **specified person** means a person to whom a notice is given under subsection (1)﻿(a) or (b) or subsection (2).
 
 ### 296I Minister to give notice before transferring property, etc
@@ -5762,7 +5778,7 @@ A provision of any regulation made under this Act, or of any notice made under s
   (a) if those details are deemed under subsection (3) to be correct; or
   (b) if the person applies for a review of those details in accordance with this section and the chief executive confirms those details,—
   (c) shall not be reviewed under that subsection to the extent that the details relate to any period before the date specified in the notice under subsection (1)﻿(a); and
-  (b) shall not be the subject of any review under the Fisheries (Catch Against Quota) Regulations 1993.
+  (d) shall not be the subject of any review under the Fisheries (Catch Against Quota) Regulations 1993.
 (5) On and from a date to be notified by the chief executive by notice in the Gazette, the chief executive shall refuse to receive for registration—
   (a) any notifications of the transfer or lease of quota (other than a lease of quota for the purposes of section 28ZF or section 28ZG or section 105A(2) of the Fisheries Act 1983, expressed to take effect in the fishing year in which the notice is published, for those stocks in respect of which the fishing year begins on 1 October); and
   (b) documents relating to such transactions or leases.
@@ -6160,7 +6176,7 @@ All positions and directions described in this schedule are based on a geographi
 | Flatfishes (Rhombosolea plebeia; Pelotretis flavilatus; Peltorhamphus novaezeelandiae; Rhombosolea leporina; Colistium guntheri; Colistium nudipinnis; Rhombosolea retiaria; Rhombosolea tapirina) | All quota management areas |
 | --- | --- |
 | Freshwater eel | ANG13 |
-| Red cod (Pseudphycis bachus) | All quota management areas |
+| Red cod (Pseudophycis bachus) | All quota management areas |
 | Scallop (Pecten novaezelandiae) | All quota management areas other than SCA7 |
 
 ## Schedule 3 — Stocks managed with an alternative total allowable catch
@@ -6584,7 +6600,7 @@ All positions and directions described in this schedule are based on a geographi
 | Wells, Bernard William and Barry Alexander | 8462589 | 9.707 |
 | Whalan, Patrick Albert | 8462608 | 7.496 |
 | Whiting, George Albert | 8462625 | 3.000 |
-| Wratt, Margaret as excutrix of the Estate of Gerald Bruce Wratt | 9160096 | 3.000 |
+| Wratt, Margaret as executrix of the Estate of Gerald Bruce Wratt | 9160096 | 3.000 |
 |  | Total | 505.000 |
 
 | Legal name | Client number | Quota allocation (Meatweight tonnes) |
@@ -7627,7 +7643,7 @@ All positions and directions described in this schedule are based on a geographi
 | Gemfish | SKI | Rexea solandri |
 | Grey mullet | GMU | Mugil cephalus |
 | Jack mackerel | JMA | Trachurus declivis |
-| Red cod | RCO | Psuedophycis bachus |
+| Red cod | RCO | Pseudophycis bachus |
 | Red gurnard | GUR | Chelidonichthys kumu |
 | Rig, spotted dogfish | SPO | Mustelus lenticulatus |
 | School shark | SCH | Galeorhinus galeus |
@@ -7836,3 +7852,21 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 7 Validation of existing notified users
 Any recognition of a person as a notified user under section 104(2) of the principal Act before the commencement of this Act, to the extent that it did not satisfy the requirement in section 104(3)﻿(b) of the principal Act, is validated and is to be treated as always having been lawful.
+
+### 1 Title
+This Act is the Fisheries (Foreign Charter Vessels and Other Matters) Amendment Act 2014.
+
+### 2 Commencement
+(1) Sections 7 to 9 come into force on 1 May 2016.
+(2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Principal Act
+This Act amends the Fisheries Act 1996 (the principal Act).
+
+## Part 1 — Registration of fishing vessels
+
+**Amendments taking effect on 1 May 2016**
+
+### 9 Saving and transitional provisions
+(1) This section applies to every fishing vessel registered under the principal Act immediately before the commencement of this section.
+(2) On the commencement of this section, every vessel to which this section applies that is not a New Zealand ship is deemed to be an unregistered fishing vessel under the principal Act.
