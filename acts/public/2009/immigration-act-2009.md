@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2015-12-07_
+_Consolidation as at 2016-05-06_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -3403,6 +3403,46 @@ The persons and bodies who may be required by certificate under section 274 to p
 (4) An immigration officer may exercise the powers in subsection (3) at any reasonable time during which work is being carried out on the premises or the premises are open for business, whether by day or by night, without a warrant or any other authority than this section.
 (5) In this section, premises includes a dwellinghouse.
 
+### 277A Powers of entry and search for employees on employers’ premises
+(1) In this section,—
+  - **premises** means any premises, including a dwellinghouse and any ship or other vessel or vehicle
+  - **specified employee** means a person who an immigration officer believes on reasonable grounds is or may be an employee of an employer who the immigration officer has good cause to suspect is committing an offence under section 350 or 351
+  - **specified person** means a person who an immigration officer believes on reasonable grounds is or may be a person who—
+    (a) is not entitled under this Act to work in New Zealand; or
+    (b) is not complying with 1 or more work-related conditions of his or her visa.
+(2) An immigration officer may, for any purpose listed in section 277(1), exercise any 1 or more of the powers in subsection (3) of this section if the officer believes on reasonable grounds that a specified person or a specified employee is at premises—
+  (a) that are owned, occupied, or used by an employer; and
+  (b) at which the officer believes on reasonable grounds that work is being done.
+(3) An immigration officer may—
+  (a) enter any part of the premises; and
+  (b) search for any specified person or specified employee at the premises; and
+  (c) require any specified person at the premises to answer questions put by the immigration officer in order to ascertain—
+    (i) whether the person is entitled to work in New Zealand; and
+    (ii) whether the person is complying with the work-related conditions of his or her visa (if any); and
+  (d) require any specified person at the premises to produce for inspection—
+    (i) any documentary or other evidence of the person's identity; and
+    (ii) the person's passport or certificate of identity (whether or not it also relates to any other person); and
+  (e) require anyone at the premises who has access to copying facilities to provide copies of any documents or things provided under paragraph (d); and
+  (f) require any specified employee at the premises to answer questions put by the immigration officer in order to ascertain whether the specified employee's employer is complying with the employer's obligations under this Act.
+(4) An immigration officer may retain any original documents or things produced under subsection (3)﻿(d), and any copies provided under subsection (3)﻿(e), and may check them against any wages and time records, or any other documents relating to the remuneration or employment conditions of any employees, obtained by the officer under section 277(3).
+(5) The powers in subsection (3) may be exercised at any reasonable time during which work is being carried out at the premises, or they are open for business, whether by day or by night, without a warrant or any other authority than this section.
+(6) Any original documents or things produced under this section may be retained and used by an immigration officer until the immigration officer has determined whether the person to whom they relate is liable for deportation or turnaround, and then,—
+  (a) if the person is liable for deportation or turnaround, or becomes liable for deportation following the exercise of the immigration officer's powers under this section, the documents or things may be retained and used by the Crown toward effecting the person's deportation or departure from New Zealand; or
+  (b) if the person is not liable for deportation or turnaround, and does not become liable for deportation following the exercise of the immigration officer's powers under this section, the documents or things must be returned to the person as soon as possible.
+
+### 277B Department must review and report on entry and search powers under section 277A
+(1) The Department must, not later than 3 years after the commencement of section 277A,—
+  (a) review the exercise by immigration officers of the entry and search powers conferred by section 277A(3)﻿(a) and (b); and
+  (b) prepare a report on the review for the Minister.
+(2) The report must include recommendations to the Minister on whether any amendments to the Act concerning the powers under section 277A(3)﻿(a) or (b), or both, are necessary or desirable.
+(3) As soon as practicable after receiving the report, the Minister must present a copy of the report to the House of Representatives.
+
+### 277C Departmental annual report to record exercise of entry and search powers under section 277A
+(1) The chief executive must include in every annual report prepared by the chief executive for the purposes of section 43 of the Public Finance Act 1989—
+  (a) the number of occasions during the period covered by the report on which immigration officers exercised the powers conferred by section 277A(3)﻿(a) or (b), or both; and
+  (b) the number of persons charged during the period covered by the report with an offence under section 350 or 351, if the collection of evidence relevant to the offence was significantly assisted by the exercise of the powers under section 277A(3)﻿(a) or (b), or both.
+(2) To avoid doubt, this section does not require the chief executive to include in any annual report information about an entry or a search undertaken by consent.
+
 ### 278 Powers of entry and inspection relating to records of education providers
 (1) An immigration officer may exercise the powers in subsection (4) in the circumstances described in subsection (2) for the following purposes:
   (a) determining whether a person is complying with the study-related conditions of his or her visa:
@@ -3528,6 +3568,20 @@ An immigration officer may, at any time of day or night, without a warrant or an
   (b) the shores or banks of a port, bay, harbour, lake, river, or other waters:
   (c) any land or premises in a port, including a containerbase, immigration control area, wharf, or transit building:
   (d) a pier or other structure attached to and extending from any shore or bank described in paragraph (b).
+
+### 285A Search of persons
+(1) An immigration officer may search a person who arrives in New Zealand from another country if—
+  (a) the immigration officer has demanded, under section 103(1)﻿(da), the production of the person's passport or certificate of identity and any travel tickets held by the person; and
+  (b) the person has failed to comply with that demand; and
+  (c) the immigration officer believes on reasonable grounds that the person is not a New Zealand citizen; and
+  (d) the immigration officer has reasonable cause to suspect that some or all of the required documents are hidden on or about the person or in any baggage under the immediate control of the person.
+(2) A search under this section may include a rub-down search (as defined in the Search and Surveillance Act 2012), a search of the person, or both.
+(3) If, as a result of a search under this section, the person's passport or certificate of identity or any travel tickets are found,—
+  (a) the documents may be retained by the immigration officer for the purpose of administering this Act (unless the person is found to be a New Zealand citizen or a person who has a visa and entry permission); and
+  (b) the documents must be returned to the person—
+    (i) if the person is granted a visa and entry permission; or
+    (ii) on the person's departure from New Zealand.
+(4) Sections 123 to 126 and subpart 7 of Part 4 of the Search and Surveillance Act 2012 apply in respect of any immigration officer exercising a power under this section, and, if the search is a rub-down search, sections 85 to 87 of that Act also apply.
 
 **Powers relating to deportation and turnaround**
 
