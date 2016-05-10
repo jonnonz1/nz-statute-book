@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2016-05-10_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -65,6 +65,9 @@ The purpose of this Act is—
       (iii) stormwater drainage services, except to the extent that any stormwater drainage infrastructure is also used for wastewater services under normal dry weather flow conditions—
 (2) Unless the context requires another meaning, terms and expressions used and not defined in this Act, but defined in the Local Government Act 2002, have the same meaning as in that Act.
 
+### 4A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
 ### 5 Relationship between this Act and Local Government Act 2002, Local Government Act 1974, Local Electoral Act 2001, and Land Transport Management Act 2003
 If there is any inconsistency between this Act and the Local Government Act 2002, the Local Government Act 1974, the Local Electoral Act 2001, the Land Transport Management Act 2003, or any regulations made under those Acts, this Act prevails.
 
@@ -105,15 +108,15 @@ If there is any inconsistency between this Act and the Local Government Act 2002
     (i) may make the appointment before the other members of the committee are determined; and
     (ii) may appoint himself or herself:
   (e) to establish and maintain an appropriately staffed office of the mayor.
-(4) The mayor must exercise the power in subsection (3)(e)—
+(4) The mayor must exercise the power in subsection (3)﻿(e)—
   (a) in consultation with, and acting through, the Council's chief executive; and
   (b) within the budget in the annual plan adopted for that particular expenditure (being an amount not less than 0.2% of the Council's total budgeted operating expenditure for that year).
 (5) The mayor must not delegate any of his or her powers under subsection (3).
 (6) The mayor is a member of each committee of the governing body.
 (7) To avoid doubt,—
-  (a) clause 17(1) of Schedule 7 of the Local Government Act 2002 does not apply to the election of the deputy mayor of the Auckland Council (unless the mayor declines to exercise the power under subsection (3)(b) of this section); and
-  (b) clause 25 of Schedule 7 of the Local Government Act 2002 does not apply to the election of the chairperson of a committee of a governing body, if the mayor exercises the power in subsection (3)(d) of this section in respect of that committee; and
-  (c) clause 30 of Schedule 7 of the Local Government Act 2002 applies to the Auckland Council, except to the extent that the mayor exercises the power in subsection (3)(c) of this section.
+  (a) clause 17(1) of Schedule 7 of the Local Government Act 2002 does not apply to the election of the deputy mayor of the Auckland Council (unless the mayor declines to exercise the power under subsection (3)﻿(b) of this section); and
+  (b) clause 25 of Schedule 7 of the Local Government Act 2002 does not apply to the election of the chairperson of a committee of a governing body, if the mayor exercises the power in subsection (3)﻿(d) of this section in respect of that committee; and
+  (c) clause 30 of Schedule 7 of the Local Government Act 2002 applies to the Auckland Council, except to the extent that the mayor exercises the power in subsection (3)﻿(c) of this section.
 
 **Local boards**
 
@@ -123,17 +126,43 @@ A local board must be established for each local board area for the purposes of�
   (b) better enabling the purpose of local government to be given effect to within the local board area.
 
 ### 11 Membership of local boards
-(1) The initial number of members for each local board is determined by the Local Government Commission under section 34(1)(c).
+(1) The initial number of members for each local board is determined by the Local Government Commission under section 34(1)﻿(c).
 (1A) The number of members for each local board may be altered in either of the following ways, but must at all times be no fewer than 5 and no more than 12 members:
   (a) as a consequence of a review carried out by the Council under the Local Electoral Act 2001:
   (b) as part of a local government reorganisation under the Local Government Act 2002.
 (2) Members of a local board—
-  (a) must be elected in accordance with the Local Electoral Act 2001; and
+  (a) must be elected in accordance with this Act and the Local Electoral Act 2001; and
   (b) must elect a chairperson from among themselves using one of the systems of voting set out in clause 25(3) and (4) of Schedule 7 of the Local Government Act 2002.
 (3)
 (4)
 (5)
 (6)
+
+### 11AA Prohibition on membership of more than 1 local board
+No person may be a member of more than 1 local board at the same time.
+
+### 11AAB Nominations for more than 1 local board
+(1) This section applies if the electoral officer has accepted a candidate’s nomination for election to a local board.
+(2) The electoral officer must not accept a nomination of that candidate for election to another local board unless that candidate has complied with the provisions of subsection (3).
+(3) The candidate must, by written notice to the electoral officer,—
+  (a) specify all local boards to which he or she is seeking election; and
+  (b) for the purposes of section 11AAC(2), rank each local board specified under paragraph (a) in order of the priority that will apply if the candidate is declared to be elected to more than 1 local board (the rankings).
+(4) If subsection (3) applies, the candidate must—
+  (a) submit a candidate profile statement for each local board election; and
+  (b) state in each candidate profile statement the rankings he or she had made under subsection (3).
+(5) The information required under subsection (4)﻿(b) does not count for the purposes of the word limit under section 61(2)﻿(a) of the Local Electoral Act 2001.
+(6) In this section, candidate profile statement means a statement made in accordance with section 61 of the Local Electoral Act 2001.
+
+### 11AAC What happens if a person is elected to more than 1 local board
+(1) This section applies if—
+  (a) section 11AAB(3) applies; and
+  (b) a person is declared to be elected to more than 1 local board (and remains so elected despite any recount under section 92 of the Local Electoral Act 2001 or petition under section 93 of that Act).
+(2) The person declared to be elected must be treated as having vacated office as a member of any local board that is ranked lower, in the notice given under section 11AAB(3), than another local board to which he or she is declared elected.
+(3) Sections 88B to 88E of the Local Electoral Act 2001 apply, with any necessary modifications, to any office treated as vacated under subsection (2) as if that office were treated as vacated under section 88A(2) of that Act.
+
+### 11AAD Prohibition on candidacy for local board
+(1) No member of a local board (LB1) may be a candidate for election as a member of another local board (LB2).
+(2) Subsection (1) does not apply if a general election of members of LB1 is to be held at the same time as an election of members of LB2.
 
 ### 11A Indemnification and liability of local board members
 (1) Sections 43, 46, and 47 of the Local Government Act 2002 apply to a member of a local board, with any necessary modifications, as if the member were a member of the Auckland Council.
@@ -181,7 +210,7 @@ A local board must be established for each local board area for the purposes of�
   (cb)
   (d) the decision making of the Auckland Council in relation to compliance with section 101 of the Local Government Act 2002 (which relates to the financial management of a local authority); and
   (e) the agreement reached with each local board (as set out in each local board agreement) in respect of local activities for the local board areas.
-(2) Before making a decision described in subsection (1)(a) to (d), the governing body must—
+(2) Before making a decision described in subsection (1)﻿(a) to (d), the governing body must—
   (a) comply with any requirements of this Act; and
   (b) comply with any requirements of the Local Government Act 2002 and any other enactment; and
   (c) consider any views and preferences expressed by a local board, if the decision affects or may affect the responsibilities or operation of the local board or the well-being of communities within its local board area.
@@ -218,12 +247,12 @@ A local board must be established for each local board area for the purposes of�
   (a) the formula by which the total funds allocated by the Council for meeting the cost of funding local activities are to be allocated to each local board; and
   (b) the formula by which the total funds allocated by the Council for meeting the cost of funding the administrative support to local boards are to be allocated to each local board.
 (3) The local boards funding policy must also identify any funding (except funding dedicated to particular purposes) that may be available to local boards for local activities and the criteria or process by which it may be allocated to them.
-(4) The formula referred to in subsection (2)(a) must allocate funds between the local boards in a way that provides an equitable capacity for the local boards to enhance the well-being of the communities in each of their local board areas, having regard to the following factors:
+(4) The formula referred to in subsection (2)﻿(a) must allocate funds between the local boards in a way that provides an equitable capacity for the local boards to enhance the well-being of the communities in each of their local board areas, having regard to the following factors:
   (a) the level of dependence on local government services and facilities in each local board area (as informed by the socio-economic, population, age profile, and other demographic characteristics of each local board area); and
   (b) the costs of achieving and maintaining the identified levels of service provision for local activities in each local board area; and
   (c) the rates revenue and any other revenue derived from each local board area in relation to local activities; and
   (d) any other factor identified by the Auckland Council as significantly affecting the nature and level of services needed in each local board area (for example, the geographic isolation of a particular local board area).
-(5) The formula referred to in subsection (2)(b) must allocate funds between the local boards in a way that provides equitable resources and support to each local board, having regard to the following factors:
+(5) The formula referred to in subsection (2)﻿(b) must allocate funds between the local boards in a way that provides equitable resources and support to each local board, having regard to the following factors:
   (a) the number of elected members on each local board; and
   (b) the size of each local board area; and
   (c) any other factor identified by the Auckland Council as significantly affecting the operational costs of each local board; and
@@ -243,7 +272,7 @@ A local board must be established for each local board area for the purposes of�
   (b) using the special consultative procedure.
 (2) The purpose of a local board plan is—
   (a) to reflect the priorities and preferences of the communities within the local board area in respect of the level and nature of local activities to be provided by the Auckland Council over the next 3 years; and
-  (b) to identify and describe the interests and preferences of the people within the local board area for the purposes of enabling the local board to communicate those interests and preferences for the purposes of section 16(1)(b); and
+  (b) to identify and describe the interests and preferences of the people within the local board area for the purposes of enabling the local board to communicate those interests and preferences for the purposes of section 16(1)﻿(b); and
   (c) to provide a basis for developing the local board agreement for each of the next 3 years; and
   (d) to inform the development of the next LTP, particularly in relation to the identification of the non-regulatory activities of the Council for which decision-making responsibility should be allocated to the local board; and
   (e) to provide a basis for accountability of the local board to the communities in the local board area; and
@@ -253,11 +282,11 @@ A local board must be established for each local board area for the purposes of�
   (b) an explanation of each variation from the default levels of services proposed for the local board area, if any; and
   (c) an estimate of the additional cost or the saving associated with each variation, if any; and
   (d) an indicative local board budget, incorporating the estimates referred to in paragraph (c), that either—
-    (i) does not exceed the estimated funding allocation referred to in subsection (4)(b)(iii); or
-    (ii) exceeds the estimated funding allocation referred to in subsection (4)(b)(iii), but identifies how the expenses in excess of that allocation are proposed to be met from 1 or more local revenue sources.
+    (i) does not exceed the estimated funding allocation referred to in subsection (4)﻿(b)﻿(iii); or
+    (ii) exceeds the estimated funding allocation referred to in subsection (4)﻿(b)﻿(iii), but identifies how the expenses in excess of that allocation are proposed to be met from 1 or more local revenue sources.
 (4) For the purposes of adopting a plan under subsection (1), section 83 of the Local Government Act 2002 applies as if—
   (a) the local board were a local authority and the local board area were the district of the local authority; and
-  (b) the statement of proposal referred to in subsection (1)(a) of that section required the inclusion of—
+  (b) the statement of proposal referred to in subsection (1)﻿(a) of that section required the inclusion of—
     (i) the information that is required by clauses 4 and 5 of Schedule 10 of that Act to be included in the LTP—
       (A) in relation to local activities; and
       (B) for the following year; and
@@ -269,7 +298,7 @@ A local board must be established for each local board area for the purposes of�
     (a) funded in each local board funding allocation; and
     (b) specified in the LTP (in accordance with clause 4 of Schedule 10 of the Local Government Act 2002).
   - **following year** means the year commencing on the next 1 July.
-(6) In subsection (3)(d)(ii), local revenue source includes—
+(6) In subsection (3)﻿(d)﻿(ii), local revenue source includes—
   (a) a targeted rate for all or part of the local board area; and
   (b) a fee or charge relating to a local activity; and
   (c) any other revenue connected with a local activity.
@@ -285,7 +314,7 @@ A local board must be established for each local board area for the purposes of�
   (b) the governing body determines that the indicative budget in the plan is, or has become, significantly inaccurate; or
   (c) consistency with the plan would be contrary to any enactment.
 (4) A local board agreement must not be inconsistent with the adopted strategies, plans, policies, and objectives of the governing body.
-(5) For the purposes of subsection (2)(a), a local board agreement must, in respect of the local activities to be provided in the local board area in the year to which the agreement relates, include—
+(5) For the purposes of subsection (2)﻿(a), a local board agreement must, in respect of the local activities to be provided in the local board area in the year to which the agreement relates, include—
   (a) a statement of the intended levels of service provision that specifies—
     (i) any performance measures specified in a rule made under section 261B of the Local Government Act 2002 for each activity described in clause 2(2) of Schedule 10 of that Act; and
     (ii) the performance measures that the Auckland Council considers will enable the public to assess the level of service for major aspects of an activity for which performance measures have not been specified under subparagraph (i); and
@@ -295,7 +324,7 @@ A local board must be established for each local board area for the purposes of�
   (c) a statement of how any expenses in excess of the local board's estimated funding allocation under section 19A of this Act are to be met (including estimated revenue levels and the other sources of funding).
 
 ### 22 Local board agreements must be included in LTP and annual plan
-(1) For the purposes of consulting on each local board agreement to be included in the LTP, the consultation document adopted under section 93A(1)(a) of the Local Government Act 2002 must include content relating to each agreement.
+(1) For the purposes of consulting on each local board agreement to be included in the LTP, the consultation document adopted under section 93A(1)﻿(a) of the Local Government Act 2002 must include content relating to each agreement.
 (2) For the purposes of consulting on each local board agreement to be included in an annual plan, the consultation document adopted under section 82A(3) of the Local Government Act 2002 must include content relating to each agreement.
 (3)
 (4)
@@ -416,7 +445,7 @@ In meeting its principal objective (as a council-controlled organisation) under 
 (2) Subsection (1) is subject to the rest of this Act.
 
 ### 42 Auckland Transport's status as council-controlled organisation and application of Part 5 of Local Government Act 2002
-(1) For the purposes of section 38(2)(b) of this Act, Part 5 of the Local Government Act 2002 applies to Auckland Transport with the modifications set out in subsections (2) and (3).
+(1) For the purposes of section 38(2)﻿(b) of this Act, Part 5 of the Local Government Act 2002 applies to Auckland Transport with the modifications set out in subsections (2) and (3).
 (2) Section 60 of the Local Government Act 2002 must be read as if the following paragraphs were added:
   (c) the provisions of Part 4 of the Local Government (Auckland Council) Act 2009; and
   (d) any rules made by the Auckland Council under section 49 of the Local Government (Auckland Council) Act 2009.
@@ -431,7 +460,7 @@ In meeting its principal objective (as a council-controlled organisation) under 
   (a) no fewer than 6 and no more than 8 voting directors, of whom 2 may be members of the governing body of the Auckland Council; and
   (b) 1 non-voting director nominated by the New Zealand Transport Agency (who may be a person who is the holder of an identified office or position within the New Zealand Transport Agency).
 (3) The board, including its chairperson and deputy chairperson, must be appointed by the Auckland Council. However, the Council must not appoint a member of its own governing body as the chairperson or deputy chairperson of the board.
-(4) If the director referred to in subsection (2)(b) is the holder of an identified office or position within the New Zealand Transport Agency and ceases to hold that office or position, or is absent, a person authorised by that Agency may perform the director's role for the purposes of this Act until the director's successor is appointed or while the director is absent.
+(4) If the director referred to in subsection (2)﻿(b) is the holder of an identified office or position within the New Zealand Transport Agency and ceases to hold that office or position, or is absent, a person authorised by that Agency may perform the director's role for the purposes of this Act until the director's successor is appointed or while the director is absent.
 (5) The powers and functions of Auckland Transport are not affected by any vacancy in the membership of the board of directors.
 
 ### 44 Duties of directors
@@ -464,7 +493,7 @@ The functions of Auckland Transport are to—
   (c) the functions and powers of a council under Part 21 of the Local Government Act 1974, except—
     (i) the power to name or alter the name of a road under section 319(j) of that Act; and
     (ii) the functions and powers under sections 316(2), 319A, 319B, and 347 to 352 of that Act:
-  (d) the powers of a council under section 591 of the Local Government Act 1974 (except the power conferred by section 591(1)(a) of that Act):
+  (d) the powers of a council under section 591 of the Local Government Act 1974 (except the power conferred by section 591(1)﻿(a) of that Act):
   (e) the functions and powers of a local authority, a territorial authority, and a controlling authority under Part 4 of the Government Roading Powers Act 1989:
   (f) the functions and powers of an enforcement authority under the Land Transport Act 1998 in relation to prosecuting infringement offences under that Act that relate to—
     (i) the use of special vehicle lanes within Auckland:
@@ -474,20 +503,20 @@ The functions of Auckland Transport are to—
   (i) the functions and powers of a public road controlling authority under Part 2 of the Land Transport Management Act 2003 in relation to road tolling schemes:
   (j) the functions and powers of a regional council under Part 5 of the Land Transport Management Act 2003 in relation to public transport planning and regulation within Auckland.
 (2) For the purposes of subsection (1), the enactments referred to in that subsection apply with any necessary modifications.
-(3) For the purposes of subsection (1)(f)(i), Auckland Transport may appoint persons to be enforcement officers in Auckland in relation to any offence against a bylaw made by Auckland Transport under the Land Transport Act 1998 in relation to a special vehicle lane, and, for that purpose,—
+(3) For the purposes of subsection (1)﻿(f)﻿(i), Auckland Transport may appoint persons to be enforcement officers in Auckland in relation to any offence against a bylaw made by Auckland Transport under the Land Transport Act 1998 in relation to a special vehicle lane, and, for that purpose,—
   (a) section 177 of the Local Government Act 2002 applies to an appointment with any necessary modifications; and
   (b) each person must be treated as an enforcement officer within the meaning of section 5(1) of that Act.
 (4) Nothing in this section vests ownership of any road, land, or other property in Auckland Transport or affects the operation of section 316(1) of the Local Government Act 1974.
-(5) Subsection (1)(c) is subject to section 48.
+(5) Subsection (1)﻿(c) is subject to section 48.
 
 ### 47 Auckland Transport is requiring authority
 (1) Auckland Transport is deemed to be approved as a requiring authority, as a network utility operator, under section 167 of the Resource Management Act 1991 for the following purposes:
   (a) constructing or operating or proposing to construct or operate roads in relation to the Auckland transport system; and
   (b) the carrying out of an activity or a proposed activity (other than an activity described in paragraph (a)) in relation to the Auckland transport system for which it or the Auckland Council has financial responsibility.
 (2) For the purposes of subsection (1), Part 8 of the Resource Management Act 1991 applies—
-  (a) with any necessary modifications (and despite the fact that an activity described in subsection (1)(b) is not a network utility operation within the meaning of section 166 of that Act); but
+  (a) with any necessary modifications (and despite the fact that an activity described in subsection (1)﻿(b) is not a network utility operation within the meaning of section 166 of that Act); but
   (b) subject to subsection (3) and section 48(3).
-(3) If section 180(1) of the Resource Management Act 1991 applies to a project or work that is an activity described in subsection (1)(b), Auckland Transport may exercise the power under that section only by transferring the relevant designation to—
+(3) If section 180(1) of the Resource Management Act 1991 applies to a project or work that is an activity described in subsection (1)﻿(b), Auckland Transport may exercise the power under that section only by transferring the relevant designation to—
   (a) a Minister of the Crown; or
   (b) the New Zealand Transport Agency; or
   (c) the New Zealand Railways Corporation; or
@@ -496,8 +525,8 @@ The functions of Auckland Transport are to—
 (5) In subsection (2), activity has the same meaning as in section 5(1) of the Land Transport Management Act 2003.
 (6) This section is subject to section 48.
 
-### 48 Limitations on Auckland Transport acting under section 46(1)(c) or 47
-(1) Subsection (2) applies if Auckland Transport, acting under section 46(1)(c) of this Act, decides to dispose of land not required for a road under section 345 of the Local Government Act 1974.
+### 48 Limitations on Auckland Transport acting under section 46(1)﻿(c) or 47
+(1) Subsection (2) applies if Auckland Transport, acting under section 46(1)﻿(c) of this Act, decides to dispose of land not required for a road under section 345 of the Local Government Act 1974.
 (2) Auckland Transport must inform the Auckland Council, in writing, of its decision, and the Council must dispose of the land in accordance with the requirements of the Local Government Act 1974.
 (3) Subsection (4) applies if—
   (a) Auckland Transport, acting under section 47 of this Act, decides to acquire or take land, which is required for a project or work, in accordance with section 186 of the Resource Management Act 1991; or
@@ -513,7 +542,7 @@ The functions of Auckland Transport are to—
   (b) how Auckland Transport must appoint and employ staff (including its chief executive):
   (c) how Auckland Transport must acquire and dispose of significant assets.
 (2) A rule made under this section must not be inconsistent with the rest of this Act or Part 5 of the Local Government Act 2002.
-(3) Section 6(3)(d) of the Local Government Act 2002 applies to a rule made under this section.
+(3) Section 6(3)﻿(d) of the Local Government Act 2002 applies to a rule made under this section.
 (4) Subsections (2) and (3) are for the avoidance of doubt.
 
 ### 50 Council prohibited from performing functions and exercising powers conferred on Auckland Transport under sections 46 and 47
@@ -521,7 +550,7 @@ The functions of Auckland Transport are to—
 (2) The Auckland Council must not act as a requiring authority in relation to any matter for which Auckland Transport has requiring authority status under section 47(1).
 (3) Subsection (1) applies unless Auckland Transport delegates the performance of the function or the exercise of the power to the Auckland Council under section 54.
 (4) Subsection (3) applies unless Auckland Transport transfers the designation concerned to the Council under section 47(3).
-(5) Nothing in this section prevents the Auckland Council from performing the functions or exercising the powers of a local authority described in section 46(1)(h), or performing the functions or exercising the powers of a requiring authority under the Resource Management Act 1991, in respect of an area that forms part of the Auckland transport system for a purpose that is not transport-related (for example, to regulate the use of a footpath, public space, or road reserve for liquor control purposes, or to designate a corridor that passes through a road).
+(5) Nothing in this section prevents the Auckland Council from performing the functions or exercising the powers of a local authority described in section 46(1)﻿(h), or performing the functions or exercising the powers of a requiring authority under the Resource Management Act 1991, in respect of an area that forms part of the Auckland transport system for a purpose that is not transport-related (for example, to regulate the use of a footpath, public space, or road reserve for liquor control purposes, or to designate a corridor that passes through a road).
 (6) Subsection (5) applies whether the Council is performing the function or exercising the power as the owner of a road or other land, or otherwise.
 
 ### 51 Council's powers under Public Works Act 1981 fettered for works relating to Auckland transport system
@@ -570,7 +599,7 @@ Auckland Transport must not borrow any funds without the written agreement of th
   (b) must not pay any dividend or distribute any surplus in any way, directly or indirectly, to any owner or shareholder; and
   (c) is not required to comply with section 68(b) of the Local Government Act 2002; and
   (d) must have regard for public safety (for example, the safety of children in urban areas) in relation to its structures.
-(2) However, subsection (1)(b) does not prevent an Auckland water organisation from making a taxable bonus issue (as defined in section YA 1 of the Income Tax Act 2007).
+(2) However, subsection (1)﻿(b) does not prevent an Auckland water organisation from making a taxable bonus issue (as defined in section YA 1 of the Income Tax Act 2007).
 
 ### 58 Auckland water organisation must give effect to LTP and act consistently with other specified plans and strategies of Council
 (1) An Auckland water organisation must give effect to the relevant aspects of the LTP.
@@ -602,13 +631,13 @@ For the purposes of the Public Works Act 1981,—
   (b) does not meet the requirements of subsection (2), it must give written notice of its decision (with reasons) to the organisation.
 
 ### 62 Auckland water organisation must consult on proposed bylaw
-(1) This section applies if an Auckland water organisation has received notice under section 61(3)(a) from the governing body of the Auckland Council in respect of a bylaw that the organisation has proposed.
+(1) This section applies if an Auckland water organisation has received notice under section 61(3)﻿(a) from the governing body of the Auckland Council in respect of a bylaw that the organisation has proposed.
 (2) The organisation must confirm the proposed bylaw using the special consultative procedure and, for that purpose, section 156(1) of the Local Government Act 2002 applies, with any necessary modifications, as if the organisation were a local authority and the bylaw were a bylaw being made under that Act.
 (3) If, after acting under subsection (2), the organisation confirms the proposed bylaw, it must give written notice of its decision to the governing body of the Auckland Council and the governing body must adopt the bylaw by resolution.
 (4) If, after acting under subsection (2), the organisation modifies the proposed bylaw, it must give written notice of its decision to the governing body of the Auckland Council and the governing body must,—
   (a) if satisfied that the proposed bylaw meets the requirements of section 61(2), adopt the bylaw by resolution; or
-  (b) if not satisfied that the proposed bylaw meets the requirements of section 61(2), give notice to the organisation under section 61(3)(b).
-(5) Where the Auckland Council adopts under subsection (3) or (4)(a) a bylaw that is made under the Local Government Act 2002, the requirements of sections 86, 155, and 156 of that Act are deemed to be satisfied in respect of that bylaw.
+  (b) if not satisfied that the proposed bylaw meets the requirements of section 61(2), give notice to the organisation under section 61(3)﻿(b).
+(5) Where the Auckland Council adopts under subsection (3) or (4)﻿(a) a bylaw that is made under the Local Government Act 2002, the requirements of sections 86, 155, and 156 of that Act are deemed to be satisfied in respect of that bylaw.
 
 **Powers of Auckland water organisation**
 
@@ -816,8 +845,8 @@ This Part establishes a board whose purpose is to assist the Auckland Council to
 (1) The board may not exercise its powers in section 86 if doing so would disclose information that—
   (a) is known to the board because the Auckland Council provided it to the board; and
   (b) is information that the Auckland Council would consider withholding under the Local Government Official Information and Meetings Act 1987 or the Privacy Act 1993 if the Council received a request for it.
-(2) When the board is deciding whether subsection (1)(b) applies to information that the Council provided to the board, it must make its decision on reasonable grounds.
-(3) When the Auckland Council decides that subsection (1)(b) applies to information that the Council provided to the board, it must tell the board of its decision and the reasons for its decision.
+(2) When the board is deciding whether subsection (1)﻿(b) applies to information that the Council provided to the board, it must make its decision on reasonable grounds.
+(3) When the Auckland Council decides that subsection (1)﻿(b) applies to information that the Council provided to the board, it must tell the board of its decision and the reasons for its decision.
 
 ### 88 Auckland Council's duties to board
 (1) The Auckland Council must—
@@ -860,7 +889,7 @@ Schedule 2 applies to the board.
     (iii) respond to population growth and other changing environmental factors; and
     (iv) give effect to the Council's strategy, plans, and priorities:
   (d) comply with any specified requirements for the management of the assets of the organisation identified by the Council as strategic assets and processes for the approval of major transactions in relation to them.
-(2) The Council may not require Auckland Transport to prepare and adopt a plan under subsection (1)(c).
+(2) The Council may not require Auckland Transport to prepare and adopt a plan under subsection (1)﻿(c).
 (3) This section does not limit or affect the application of Part 5 of the Local Government Act 2002 to a substantive council-controlled organisation.
 
 ### 92 Substantive council-controlled organisations must give effect to LTP and act consistently with other specified plans and strategies of Council
@@ -871,7 +900,7 @@ Schedule 2 applies to the board.
 (1) The Council must not appoint a person to be a director of a substantive council-controlled organisation if the person is, at the time of the appointment,—
   (a) a member of the governing body of the Council; or
   (b) a member of a local board.
-(2) Section 43(2)(a) prevails over this section.
+(2) Section 43(2)﻿(a) prevails over this section.
 
 ### 94 Director of substantive council-controlled organisation elected to Council or local board must resign before taking up position
 A director of a substantive council-controlled organisation who is elected to be a member of the governing body of the Council or a local board must resign from his or her position as a director of the council-controlled organisation before taking up his or her position as a member of the governing body of the Council or the local board.
@@ -897,7 +926,7 @@ A director of a substantive council-controlled organisation who is elected to be
 ### 97 Disputes about allocation of decision-making responsibilities or proposed bylaws
 (1) Subsection (2) applies if—
   (a) 1 or more local boards are dissatisfied with a decision of the governing body under section 17(1); or
-  (b) a local board is dissatisfied with a decision of the governing body under section 24(3)(b) or 27(3)(b).
+  (b) a local board is dissatisfied with a decision of the governing body under section 24(3)﻿(b) or 27(3)﻿(b).
 (2) The local board or boards concerned and the governing body must make reasonable efforts to reach a mutually acceptable and timely resolution of the dispute, having regard to—
   (a) the requirements of this Act; and
   (b) the current and future well-being of the communities of Auckland, and the interests and preferences of the communities within each affected local board area.
@@ -976,12 +1005,14 @@ An employee of the Council who is elected to be a member of a local board must r
 **Representation on port company board**
 
 ### 106 Representation on port company board
-For the purposes of section 6(1)(b) of the Port Companies Act 1988, any council-controlled organisation of the Auckland Council that holds equity securities in a port company (within the meaning of that Act) must be treated as if it were a regional council.
+For the purposes of section 6(1)﻿(b) of the Port Companies Act 1988, any council-controlled organisation of the Auckland Council that holds equity securities in a port company (within the meaning of that Act) must be treated as if it were a regional council.
 
 **Borrowing in foreign currency**
 
 ### 107 Borrowing in foreign currency
 Despite section 113 of the Local Government Act 2002, the Auckland Council may borrow or enter into incidental arrangements, within or outside New Zealand, in currency other than New Zealand currency.
+
+## Schedule 1AA — Transitional, savings, and related provisions
 
 ## Schedule 1 — Matters to be addressed by Local Government Commission when making determination in relation to southern boundary of Auckland
 
@@ -1091,7 +1122,7 @@ Unless clause 5 applies, if provision is made in the determination for a respons
 (3) The selection body must give copies of the certificates of appointment to—
   (a) the Minister of Māori Affairs; and
   (b) the Auckland Council.
-(4) The selection body must complete the process in this section at least 2 months before the ending of the terms of office of the members of the board.
+(4) The selection body must complete the process in this clause at least 2 months before the ending of the terms of office of the members of the board.
 
 ### 9 Cessation of membership
 (1) The term of office of a member of the board is 3 years.
