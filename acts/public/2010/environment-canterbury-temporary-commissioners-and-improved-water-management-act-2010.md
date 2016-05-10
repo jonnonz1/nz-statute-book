@@ -1,5 +1,5 @@
 # Environment Canterbury (Temporary Commissioners and Improved Water Management) Act 2010
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2016-05-10_
 
 ### 1 Title
 This Act is the Environment Canterbury (Temporary Commissioners and Improved Water Management) Act 2010.
@@ -11,12 +11,12 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 3 Purpose
 The purpose of this Act is to—
-  (a) provide for the replacement of the elected members of the Canterbury Regional Council with commissioners who will act as the Council's governing body until new elected members come into office following the next election; and
+  (a) provide for the replacement of the elected members of the Canterbury Regional Council with commissioners who will act as the Council's governing body until the elected members of Environment Canterbury come into office in accordance with the Environment Canterbury (Transitional Governance Arrangements) Act 2016 following the 2016 election; and
   (b) provide the Council with certain powers that it does not otherwise have to address issues relevant to the efficient, effective, and sustainable management of fresh water in the Canterbury region.
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **2016 election** means the triennial general election of members of ECan that (subject to section 11 of the Local Electoral Act 2001) must be held on the second Saturday in October 2016
+  - **2016 election** means the triennial general election of members of local authorities required by section 10 of the Local Electoral Act 2001 to be held on the second Saturday in October 2016
   - **Canterbury region** means the region of ECan
   - **Canterbury WCO** or means a water conservation order in respect of a water body in the Canterbury region
   - **commencement day** means the day on which this Act comes into force
@@ -25,14 +25,13 @@ The purpose of this Act is to—
   - **Environment Canterbury** or means the Canterbury Regional Council constituted by the Local Government (Canterbury Region) Reorganisation Order 1989 (Gazette, 1989, p 2296)
   - **Minister** means the Minister for the Environment
   - **Minister of Local Government** means the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Local Government Act 2002
-  - **next election** means the next general election of members of ECan held under section 8 of the Local Electoral Act 2001 after the commencement of this Act or the 2016 election, whichever occurs first
   - **permit** has the meaning given in section 33
   - **proposed regional policy statement or plan** has the meaning given in section 61
   - **replacement day** means the day determined under section 8
   - **responsible Ministers** means the Minister and the Minister of Local Government
-  - **resumption day** means the day after the day on which the candidates for membership of ECan in the next election are declared to be elected or, if there is more than 1 day, the last of those days
   - **RMA** means the Resource Management Act 1991
   - **specified application** has the meaning given in section 33
+  - **transition day** means the day after the day on which the official result of the 2016 election is declared under section 86 of the Local Electoral Act 2001 in relation to Environment Canterbury
   - **vision and principles of the CWMS** —
     (a) means the text of the vision and principles included in the CWMS—
       (i) as reproduced in Part 1 of Schedule 1; and
@@ -49,15 +48,8 @@ The purpose of this Act is to—
 ### 5 Act binds the Crown
 This Act binds the Crown.
 
-### 6 Expiry and repeal
-(1) The following provisions expire and are repealed on the close of the day before the resumption day:
-  (a) Part 2, except section 23; and
-  (b) subpart 2 of Part 3, except sections 33 and 37 to 44; and
-  (c) subpart 3 of Part 3, except sections 52 to 55 and 60; and
-  (d) subpart 4 of Part 3, except sections 64 to 69; and
-  (e) Schedule 1.
-(2) Section 23 expires and is repealed on the close of the resumption day.
-(3) The rest of the Act expires and is repealed on a date to be appointed by the Governor-General by Order in Council.
+### 6 Repeal
+This Act is repealed on the close of the day before the transition day.
 
 ## Part 2 — Replacement of governing body of ECan
 
@@ -128,7 +120,7 @@ The responsible Ministers may at any time amend the terms of reference for the c
 (5) The responsible Ministers may terminate the appointment of a commissioner as chairperson or deputy chairperson by written notice to that person.
 
 ### 17 Term of office
-(1) The term of office of a commissioner ends when the commissioner vacates office or on the close of the day before the resumption day, whichever occurs first.
+(1) The term of office of a commissioner ends when the commissioner vacates office or on the close of the day before the transition day, whichever occurs first.
 (2) A commissioner vacates office if he or she—
   (a) is removed by written notice given by the responsible Ministers; or
   (b) resigns by written notice given to the responsible Ministers.
@@ -175,9 +167,7 @@ The commissioners must as soon as practicable establish a process for seeking ad
 **Next election**
 
 ### 23 Members of ECan elected at next election
-(1) The members of ECan elected at the next election come into office on the resumption day.
-(2) Subsection (1) prevails over section 115(2) of the Local Electoral Act 2001.
-(3) If the next election is an election held under section 8 of the Local Electoral Act 2001, the provisions of that Act that apply to a triennial general election apply also to the next election held under section 8.
+[Repealed]
 
 **Application of other enactments**
 
@@ -198,8 +188,10 @@ The following provisions of the Local Government Act 2002 do not apply to the co
 ### 26 Provisions of Local Electoral Act 2001 that do not apply
 (1) The following provisions of the Local Electoral Act 2001 do not apply to the commissioners or in respect of ECan during the commissioners' term of office:
   (a) section 19D:
+  (ab) sections 19I and 19JB:
+  (ac) sections 19Z, 19ZB, and 19ZD:
   (b) any provision relating to the election or appointment of, or vacation of office by, the members of a regional council, including sections 115(3), 116, and 117.
-(2) However, nothing in subsection (1) prevents any step being taken that must be taken under the Local Electoral Act 2001 for the purposes of the next election.
+(2)
 
 **Saving and transitional provisions**
 
@@ -207,9 +199,7 @@ The following provisions of the Local Government Act 2002 do not apply to the co
 Nothing in this Act affects the validity of anything done by a person in his or her capacity as an elected member of ECan before the replacement day.
 
 ### 28 Continuation of committees and delegations
-Nothing in this Act affects the continuation on the replacement day of—
-  (a) the business or membership of any committee or other subordinate decision-making body of ECan; or
-  (b) delegations by ECan.
+[Repealed]
 
 ## Part 3 — Additional functions and powers of ECan after commencement day
 
@@ -248,11 +238,11 @@ In this subpart,—
   - **specified application** —
     (a) means an application in relation to the Canterbury region for—
       (i) a water permit that allows the taking, use, damming, or diverting of—
-        (A) water that would otherwise contravene section 14(2)(a) of the RMA; or
-        (B) heat or energy from water or the material surrounding geothermal water that would otherwise contravene section 14(2)(b) or (c) of the RMA:
+        (A) water that would otherwise contravene section 14(2)﻿(a) of the RMA; or
+        (B) heat or energy from water or the material surrounding geothermal water that would otherwise contravene section 14(2)﻿(b) or (c) of the RMA:
       (ii) a discharge permit that allows a discharge of any—
-        (A) contaminant or water into water that would otherwise contravene section 15(1)(a) of the RMA; or
-        (B) contaminant onto or into land that would otherwise contravene section 15(1)(b) of the RMA; and
+        (A) contaminant or water into water that would otherwise contravene section 15(1)﻿(a) of the RMA; or
+        (B) contaminant onto or into land that would otherwise contravene section 15(1)﻿(b) of the RMA; and
     (b) includes an application to change or cancel any conditions of a permit referred to in paragraph (a).
 
 **Imposition of moratorium**
@@ -271,7 +261,7 @@ In this subpart,—
 ECan must give public notice and notice in the Gazette of a moratorium, specifying—
   (a) the area of the Canterbury region to which the moratorium applies; and
   (b) the date on which it commences; and
-  (c) the date on which it ends (which must not be later than the day before the resumption day), unless ended sooner under section 36.
+  (c) the date on which it ends (which must not be later than the day before the transition day), unless ended sooner under section 36.
 
 ### 36 Power to end moratorium
 (1) ECan may end a moratorium at any time in any area to which the moratorium relates, or the Minister may direct ECan to end the moratorium.
@@ -288,7 +278,7 @@ ECan must give public notice and notice in the Gazette of a moratorium, specifyi
 (1) This section applies to a specified application made to ECan in respect of an area where a moratorium—
   (a) is in force; or
   (b) has been in force within 6 months prior to that application being made.
-(2) If the specified application is made while a moratorium is in force, ECan––
+(2) If the specified application is made while a moratorium is in force, ECan—
   (a) must not begin to process the application; and
   (b) must return the application and any fee accompanying it to the applicant as soon as practicable.
 (3) If the specified application is made at any time during the period that ends 6 months after the end of a moratorium, ECan must not begin to process the application until after the end of that period.
@@ -322,7 +312,7 @@ ECan must give public notice and notice in the Gazette of a moratorium, specifyi
 (2) Not later than 5 working days before the end of a moratorium, ECan must give notice to any applicant whose application is affected in the manner referred to in subsection (1), advising the applicant—
   (a) of the date on which the moratorium will end; and
   (b) of the applicant's right to revise the application and lodge it again with ECan.
-(3) Subsection (1)(a) permits revision of a specified application only if, and to the extent that, the application—
+(3) Subsection (1)﻿(a) permits revision of a specified application only if, and to the extent that, the application—
   (a) is revised no more than is necessary to take into account changes made to the relevant regional plan since the application was first lodged; and
   (b) remains within the scope of the application as it was first lodged.
 
@@ -337,10 +327,10 @@ ECan must give public notice and notice in the Gazette of a moratorium, specifyi
   (b) section 38(1) applies, if the application has been revised, but not in accordance with section 41(3).
 (3) ECan must process an application to which subsection (2) applies—
   (a) as if it were a new application made—
-    (i) on the day it was first lodged, in the case of an application to which subsection (2)(a) refers:
-    (ii) on the day it was lodged again, in the case of an application to which subsection (2)(b) refers; and
+    (i) on the day it was first lodged, in the case of an application to which subsection (2)﻿(a) refers:
+    (ii) on the day it was lodged again, in the case of an application to which subsection (2)﻿(b) refers; and
   (b) under any relevant regional plan applying at the time when the application is considered.
-(4) Subsections (1)(b)(ii) and (3)(b) apply instead of section 88A of the RMA.
+(4) Subsections (1)﻿(b)﻿(ii) and (3)﻿(b) apply instead of section 88A of the RMA.
 
 ### 43 Application of certain provisions of RMA
 (1) Section 124(3) of the RMA applies to a permit that is extended by the operation of section 40, but only if the holder of the permit applies to ECan for a new permit—
@@ -363,18 +353,18 @@ Nothing in sections 76 to 82 of the Local Government Act 2002 applies to ECan in
 ### 46 Part 9 of RMA does not apply except as otherwise stated
 (1) Except as expressly provided in this subpart, this subpart applies instead of Part 9 of the RMA to every application for a Canterbury WCO—
   (a) on and from the commencement day; and
-  (b) until the close of the day before the resumption day.
+  (b) until the close of the day before the transition day.
 (2) Subsection (1) applies whether an application is made before, on, or after the commencement day.
 (3) Subsection (1) does not limit or otherwise affect the application of section 217 of the RMA to a Canterbury WCO.
-(4) Despite subsection (1), the following provisions continue to apply on and from the resumption day:
-  (a) sections 52 to 55 (which remove the jurisdiction of the Environment Court in relation to Canterbury WCO applications and provide instead for a right of appeal to the High Court on a question of law); and
-  (b) section 60 (which provides for the transitional arrangements set out in Schedule 2).
+(4) Despite subsection (1), the following provisions continue to apply on and from the transition day:
+  (a) sections 52 to 55 (which remove the jurisdiction of the Environment Court in relation to Canterbury WCO applications and provide instead for a right of appeal to the High Court on a question of law).
+  (b)
 
 **Provisions relating to processing of applications**
 
 ### 47 Applications to Minister under section 201 of RMA
 (1) Section 201 of the RMA applies to every application for a Canterbury WCO.
-(2) The application must state the reasons for the application with reference, as appropriate, to the matters provided for in sections 50(2) and 57(2) instead of those referred to in section 201(2)(b) of the RMA.
+(2) The application must state the reasons for the application with reference, as appropriate, to the matters provided for in sections 50(2) and 57(2) instead of those referred to in section 201(2)﻿(b) of the RMA.
 
 ### 48 Processing of applications
 (1) After receiving a WCO application and any further information that the Minister may require, the Minister—
@@ -387,13 +377,13 @@ Nothing in sections 76 to 82 of the Local Government Act 2002 applies to ECan in
   (b) that the application is to be heard and reported on by ECan under this Act.
 
 ### 49 ECan to notify applications
-(1) As soon as practicable after receiving an application from the Minister under section 48(1)(b)(ii), ECan must comply with section 204 of the RMA as if every reference in that section to a special tribunal were a reference to ECan.
-(2) The notice required by section 204(1)(c) is not required to be served on ECan.
+(1) As soon as practicable after receiving an application from the Minister under section 48(1)﻿(b)﻿(ii), ECan must comply with section 204 of the RMA as if every reference in that section to a special tribunal were a reference to ECan.
+(2) The notice required by section 204(1)﻿(c) is not required to be served on ECan.
 
 **Criteria and process for consideration of applications**
 
 ### 50 Consideration of applications by ECan
-(1) After considering a WCO application submitted by the Minister under section 48(1)(b)(ii) and any submissions and other information relevant to the application, ECan must determine whether to recommend that the Minister should—
+(1) After considering a WCO application submitted by the Minister under section 48(1)﻿(b)﻿(ii) and any submissions and other information relevant to the application, ECan must determine whether to recommend that the Minister should—
   (a) reject the application; or
   (b) recommend to the Governor-General that a Canterbury WCO be made under section 214 of the RMA, as applied by section 56.
 (2) In considering whether to recommend to the Minister that a WCO be made, ECan must, subject to Part 2 of the RMA,—
@@ -409,8 +399,8 @@ Nothing in sections 76 to 82 of the Local Government Act 2002 applies to ECan in
 ### 51 Submissions, hearing, and report
 Sections 205, 206, and 208 of the RMA (which provide for submissions, a hearing, and reporting in relation to an application) apply to a WCO application made under this subpart as if—
   (a) every reference to a special tribunal were a reference to ECan; and
-  (b) the references in section 205(3)(d) and (5) of the RMA to the matters in sections 199, 200, and 207 of that Act were references to the matters referred to in sections 50(2) and 57(2); and
-  (c) section 208(2)(c) of that Act excluded the reference to the regional council.
+  (b) the references in section 205(3)﻿(d) and (5) of the RMA to the matters in sections 199, 200, and 207 of that Act were references to the matters referred to in sections 50(2) and 57(2); and
+  (c) section 208(2)﻿(c) of that Act excluded the reference to the regional council.
 
 **Appeals on question of law only**
 
@@ -432,7 +422,7 @@ The Environment Court has no jurisdiction under this subpart and no person may m
 (2) The High Court Rules apply if a procedural matter is not provided for by or under those sections.
 
 ### 55 Appeal to Court of Appeal
-Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a decision of the High Court on an appeal under section 53 as if the decision had been made under section 294 of that Act.
+Section 66 of the Judicature Act 1908 applies, with any necessary modifications, to a decision of the High Court on an appeal under section 53.
 
 **Making or declining to make WCO**
 
@@ -442,7 +432,7 @@ Sections 214 and 215 of the RMA apply, with the necessary modifications, to maki
   (b) the references to the Environment Court were omitted.
 
 ### 57 Scope and effect of WCO made under this subpart
-(1) A Canterbury WCO made under section 214 of the RMA, as applied by section 56, may impose restrictions or prohibitions on the performance of any of ECan's functions under section 30(1)(e) and (f) of the RMA as they relate to water.
+(1) A Canterbury WCO made under section 214 of the RMA, as applied by section 56, may impose restrictions or prohibitions on the performance of any of ECan's functions under section 30(1)﻿(e) and (f) of the RMA as they relate to water.
 (2) Restrictions or prohibitions imposed under subsection (1) may include, in particular, restrictions or prohibitions relating to—
   (a) the quantity, quality, rate of flow, or level of the water in a water body:
   (b) the maximum and minimum levels or flow or range of levels or flows, or the rate of change of levels or flows to be sought or permitted for the water body:
@@ -453,7 +443,7 @@ Sections 214 and 215 of the RMA apply, with the necessary modifications, to maki
 
 ### 58 Applications to revoke or vary WCOs
 (1) Section 216(1) and (2) of the RMA apply in respect of an application to revoke or vary a Canterbury WCO.
-(2) Despite anything in this subpart, the Minister may, instead of submitting an application to revoke or vary a Canterbury WCO to ECan under section 48(1)(b)(ii), recommend that the Canterbury WCO to which the application relates be amended if—
+(2) Despite anything in this subpart, the Minister may, instead of submitting an application to revoke or vary a Canterbury WCO to ECan under section 48(1)﻿(b)﻿(ii), recommend that the Canterbury WCO to which the application relates be amended if—
   (a) the Minister is of the opinion that—
     (i) the application should not be rejected; but
     (ii) because of the minor effect of the amendment, it is unnecessary for ECan to consider the application; and
@@ -472,10 +462,7 @@ Sections 214 and 215 of the RMA apply, with the necessary modifications, to maki
 **Transitional matters**
 
 ### 60 Transitional provisions
-(1) If an application for a Canterbury WCO is received by ECan before the resumption day and, before that day,—
-  (a) a hearing has not commenced, the application must be returned to the Minister and clauses 1 to 3 of Schedule 2 apply:
-  (b) a hearing has commenced, clauses 4 and 5 of Schedule 2 apply.
-(2)
+[Repealed]
 
 ### Subpart 4 — Process for approval of proposed regional policy statements or plans
 
@@ -576,35 +563,16 @@ The membership of the Canterbury Mayoral Forum and of the Steering Group is set 
 ## Schedule 2 — Transitional provisions
 
 ### 1 Process applying if hearing not commenced
-Clauses 2 and 3 apply if ECan,—
-  (a) at any time after the commencement day, receives a WCO application from the Minister under section 48(1)(b)(ii); but
-  (b) by the day before the resumption day, has not commenced to hear that application under subpart 3 of Part 3.
+[Repealed]
 
 ### 2 Preliminary responsibilities of ECan and Minister
-(1) ECan must, as soon as practicable,—
-  (a) return the application and any submissions received on it to the Minister; and
-  (b) give public notice and a notice to the applicant and any submitters that the application—
-    (i) has been returned to the Minister; and
-    (ii) is to be dealt with under Part 9 of the RMA by a special tribunal.
-(2) When the Minister receives the application and any related submissions under subclause (1), the Minister must—
-  (a) appoint a special tribunal under section 202 of the RMA to hear and report on the application; and
-  (b) forward the application and copies of any submissions received from ECan to the special tribunal.
+[Repealed]
 
 ### 3 Role of special tribunal
-(1) The special tribunal must, as soon as it is appointed, notify the applicant that the applicant may—
-  (a) revise the application made under subpart 3 of Part 3 to take into account the matters that are relevant to the consideration of the application under Part 9 of the RMA; and
-  (b) within 30 working days of the date of the notice, submit a revised application to the special tribunal.
-(2) At the end of the 30-working-day period, the special tribunal must—
-  (a) comply with section 204 of the RMA in relation to the application or revised application, if one is received; and
-  (b) also serve on each person who made a submission on the application under subpart 3 of Part 3—
-    (i) a notice that complies with section 204(2) of the RMA; and
-    (ii) advice that, unless a new submission is received in accordance with that notice, the special tribunal will consider the submission as if it had been submitted under section 205 of the RMA (as applied by section 51).
+[Repealed]
 
 ### 4 Process applying if hearing commenced
-(1) This clause applies if, on or before the resumption day, ECan has commenced a hearing on an application for a Canterbury WCO made under subpart 3 of Part 3, but has not completed the process under those provisions.
-(2) Despite the expiry and repeal of Schedule 1 and certain provisions of subpart 3 of Part 3 by or under section 6, those provisions continue to apply to that application as if they were still in force.
+[Repealed]
 
 ### 5 Committees and delegations
-The expiry and repeal of the provisions of subpart 3 of Part 3 do not affect the continuation, on the resumption day, of—
-  (a) the business or membership of any committee or other subordinate decision-making body of ECan appointed on or after the replacement day; or
-  (b) delegations by ECan made after the replacement day.
+[Repealed]
