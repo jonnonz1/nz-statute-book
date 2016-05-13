@@ -1,5 +1,5 @@
 # Patents Act 2013
-_Consolidation as at 2013-09-13_
+_Consolidation as at 2016-05-13_
 
 ### 1 Title
 This Act is the Patents Act 2013.
@@ -46,7 +46,7 @@ The purposes of this Act are to—
 (1) In this Act, unless the context otherwise requires,—
   - **applicant** —
     (a) means a person who has applied for a patent for an invention; and
-    (b) includes a person in whose favour a direction has been given under section 28(2)(b)(i), 129, or 131(1)(a) and the personal representative of a deceased applicant
+    (b) includes a person in whose favour a direction has been given under section 28(2)﻿(b)﻿(i), 129, or 131(1)﻿(a) and the personal representative of a deceased applicant
   - **assignee** includes the personal representative of a deceased assignee; and references to the assignee of any person include references to the assignee of the personal representative or assignee of that person
   - **basic application** means an application for protection in respect of an invention, being an application that is made in a convention country (whether before or after it became a convention country)
   - **Budapest Treaty** —
@@ -135,7 +135,7 @@ The purposes of this Act are to—
     (b) the provisions of the regulations that relate to micro-organisms
   - **Statute of Monopolies** means the Act of the 21st year of the reign of King James the First, chapter 3, being an Act concerning monopolies and dispensations with penal laws and the forfeiture thereof
   - **Treaty application** means an international application—
-    (a) that contains a request specifying New Zealand as a designated State under Article 4(1)(ii) of the Patent Cooperation Treaty; and
+    (a) that contains a request specifying New Zealand as a designated State under Article 4(1)﻿(ii) of the Patent Cooperation Treaty; and
     (b) that has been given an international filing date
   - **Treaty regulations** —
     (a) means the regulations made under the Patent Cooperation Treaty; and
@@ -200,7 +200,7 @@ An invention, so far as claimed in a claim, is useful if the invention has a spe
 ### 11 Computer programs
 (1) A computer program is not an invention and not a manner of manufacture for the purposes of this Act.
 (2) Subsection (1) prevents anything from being an invention or a manner of manufacture for the purposes of this Act only to the extent that a claim in a patent or an application relates to a computer program as such.
-(3) A claim in a patent or an application relates to a computer program as such if the actual contribution made by the alleged invention lies solely in it being a computer program.ExamplesA process that may be an invention A claim in an application provides for a better method of washing clothes when using an existing washing machine. That method is implemented through a computer program on a computer chip that is inserted into the washing machine. The computer program controls the operation of the washing machine. The washing machine is not materially altered in any way to perform the invention.The Commissioner considers that the actual contribution is a new and improved way of operating a washing machine that gets clothes cleaner and uses less electricity.While the only thing that is different about the washing machine is the computer program, the actual contribution lies in the way in which the washing machine works (rather than in the computer program per se). The computer program is only the way in which that new method, with its resulting contribution, is implemented.The actual contribution does not lie solely in it being a computer program. Accordingly, the claim involves an invention that may be patented (namely, the washing machine when using the new method of washing clothes).A process that is not an inventionAn inventor has developed a process for automatically completing the legal documents necessary to register an entity.The claimed process involves a computer asking questions of a user. The answers are stored in a database and the information is processed using a computer program to produce the required legal documents, which are then sent to the user.The hardware used is conventional. The only novel aspect is the computer program.The Commissioner considers that the actual contribution of the claim lies solely in it being a computer program. The mere execution of a method within a computer does not allow the method to be patented. Accordingly, the process is not an invention for the purposes of the Act.
+(3) A claim in a patent or an application relates to a computer program as such if the actual contribution made by the alleged invention lies solely in it being a computer program.ExamplesA process that may be an inventionA claim in an application provides for a better method of washing clothes when using an existing washing machine. That method is implemented through a computer program on a computer chip that is inserted into the washing machine. The computer program controls the operation of the washing machine. The washing machine is not materially altered in any way to perform the invention.The Commissioner considers that the actual contribution is a new and improved way of operating a washing machine that gets clothes cleaner and uses less electricity.While the only thing that is different about the washing machine is the computer program, the actual contribution lies in the way in which the washing machine works (rather than in the computer program per se). The computer program is only the way in which that new method, with its resulting contribution, is implemented.The actual contribution does not lie solely in it being a computer program. Accordingly, the claim involves an invention that may be patented (namely, the washing machine when using the new method of washing clothes).A process that is not an inventionAn inventor has developed a process for automatically completing the legal documents necessary to register an entity.The claimed process involves a computer asking questions of a user. The answers are stored in a database and the information is processed using a computer program to produce the required legal documents, which are then sent to the user.The hardware used is conventional. The only novel aspect is the computer program.The Commissioner considers that the actual contribution of the claim lies solely in it being a computer program. The mere execution of a method within a computer does not allow the method to be patented. Accordingly, the process is not an invention for the purposes of the Act.
 (4) The Commissioner or the court (as the case may be) must, in identifying the actual contribution made by the alleged invention, consider the following:
   (a) the substance of the claim (rather than its form and the contribution alleged by the applicant) and the actual contribution it makes:
   (b) what problem or other issue is to be solved or addressed:
@@ -459,12 +459,12 @@ Every provisional specification must—
 (3) Drawings supplied under this section form part of the specification unless the Commissioner directs otherwise.
 
 ### 42 Specifications for micro-organisms
-(1) To the extent that an invention is a micro-organism, the complete specification complies with section 39(1)(a) and (b), so far as those paragraphs require a description of the micro-organism, if, and only if, the deposit requirements specified in section 43 are satisfied in relation to the micro-organism.
+(1) To the extent that an invention is a micro-organism, the complete specification complies with section 39(1)﻿(a) and (b), so far as those paragraphs require a description of the micro-organism, if, and only if, the deposit requirements specified in section 43 are satisfied in relation to the micro-organism.
 (2) Subsection (3) applies if—
   (a) an invention involves the use, modification, or cultivation of a micro-organism, other than the micro-organism mentioned in subsection (1); and
   (b) a person skilled in the relevant art in New Zealand could not reasonably be expected to perform the invention without having a sample of the micro-organism before starting to perform the invention; and
   (c) the micro-organism is not reasonably available to a person skilled in the relevant art in New Zealand.
-(3) The complete specification complies with section 39(1)(a) and (b), to the extent that those paragraphs require a description of the micro-organism, if, and only if, the deposit requirements specified in section 43 are satisfied in relation to the micro-organism.
+(3) The complete specification complies with section 39(1)﻿(a) and (b), to the extent that those paragraphs require a description of the micro-organism, if, and only if, the deposit requirements specified in section 43 are satisfied in relation to the micro-organism.
 (4) For the purposes of this section and section 45, a micro-organism may be reasonably available to a person even if it is not so available in New Zealand.
 
 ### 43 Deposit requirements for micro-organisms
@@ -476,19 +476,19 @@ Every provisional specification must—
     (i) the name of a prescribed depositary institution from which samples of the micro-organism are obtainable as provided by the rules relating to micro-organisms; and
     (ii) the file, accession, or registration number of the deposit given by the institution; and
   (e) at all times since the filing date of the specification, samples of the micro-organism have been obtainable from a prescribed depositary institution as provided by those rules.
-(2) For the purposes of subsection (1)(b), the receipt for the deposit must be in the prescribed form (if any).
+(2) For the purposes of subsection (1)﻿(b), the receipt for the deposit must be in the prescribed form (if any).
 
 ### 44 Deposit requirements treated as satisfied in certain circumstances
 (1) This section applies if—
-  (a) the requirements specified in section 43(1)(d) or (e) cease to be satisfied in relation to a micro-organism; and
+  (a) the requirements specified in section 43(1)﻿(d) or (e) cease to be satisfied in relation to a micro-organism; and
   (b) steps are taken at a later time within the prescribed period in accordance with all applicable provisions of the regulations (if any); and
   (c) as a result of those steps, if the period during which those requirements are not satisfied is disregarded, those requirements would be satisfied at that later time.
 (2) If this section applies,—
-  (a) the requirements specified in section 43(1)(d) and (e) must be treated as having been satisfied during the period mentioned in subsection (1)(c); and
+  (a) the requirements specified in section 43(1)﻿(d) and (e) must be treated as having been satisfied during the period mentioned in subsection (1)﻿(c); and
   (b) the provisions that are prescribed have effect for the protection or compensation of persons who availed themselves, or took definite steps by way of contract or otherwise to avail themselves, of the invention during that period.
 
 ### 45 Micro-organism ceasing to be reasonably available
-(1) A patent may be revoked under section 99 or subpart 11 on the ground referred to in section 114(1)(c) (which relates to complete specifications that do not comply with this subpart) if—
+(1) A patent may be revoked under section 99 or subpart 11 on the ground referred to in section 114(1)﻿(c) (which relates to complete specifications that do not comply with this subpart) if—
   (a) the patent was granted for an invention that involves the use, modification, or cultivation of a micro-organism, other than a micro-organism mentioned in section 42(1); and
   (b) the micro-organism was, at the filing date of the complete specification, reasonably available to a person skilled in the relevant art in New Zealand; and
   (c) the micro-organism has ceased to be reasonably available to a person skilled in the relevant art in New Zealand.
@@ -501,19 +501,19 @@ For the purposes of this Act, a Treaty application must be treated as a patent a
 
 ### 47 Description, claims, and drawings
 (1) The description, claims, and drawings (if any) contained in a Treaty application must be treated as a complete specification.
-(2) An indication, in relation to a deposited micro-organism given under rule 13bis.4 of the Treaty regulations, in relation to a Treaty application, must be taken to be included in the description contained in the Treaty application even if the indication is contained in another document.
+(2) An indication, in relation to a deposited micro-organism given under rule 13bis﻿.﻿4 of the Treaty regulations, in relation to a Treaty application, must be taken to be included in the description contained in the Treaty application even if the indication is contained in another document.
 
 ### 48 International filing date
 A Treaty application must be treated as having been filed in New Zealand on its international filing date.
 
 ### 49 Commissioner must provide international filing date in certain circumstances
 (1) The Commissioner must give an international application an international filing date if—
-  (a) a request contained in the international application specifies New Zealand as a designated State under Article 4(1)(ii) of the Patent Cooperation Treaty; and
+  (a) a request contained in the international application specifies New Zealand as a designated State under Article 4(1)﻿(ii) of the Patent Cooperation Treaty; and
   (b) 1 or more of the following applies:
     (i) the receiving Office has refused to accord the international application an international filing date under Article 11(1) of the Patent Cooperation Treaty:
     (ii) the receiving Office has declared that the international application is considered withdrawn:
     (iii) the International Bureau has made a finding under Article 12(3) of the Patent Cooperation Treaty that the international application is considered withdrawn; and
-  (c) the Commissioner has decided under Article 25(2)(a) of the Patent Cooperation Treaty that the refusal or the declaration or the finding was the result of an error or omission on the part of the receiving Office or the International Bureau.
+  (c) the Commissioner has decided under Article 25(2)﻿(a) of the Patent Cooperation Treaty that the refusal or the declaration or the finding was the result of an error or omission on the part of the receiving Office or the International Bureau.
 (2) The date given under subsection (1) must be the date of receipt of the application by the receiving Office under Article 11(1) of the Patent Cooperation Treaty.
 (3) If the date of receipt of the application by the receiving Office cannot be ascertained, the Commissioner may give the application an international filing date.
 (4) This Act applies to the application in accordance with this section.
@@ -526,17 +526,17 @@ A Treaty application must be treated as having been filed in New Zealand on its 
 (2) The description, claims, and any matter associated with the drawings contained in the Treaty application must be treated for the purposes of this Act as having been amended, on the day the translation was filed, by substituting the translated documents for those originally filed.
 (3) The description, claims, and drawings contained in a Treaty application must be treated for the purposes of this Act as having been amended on the day that an amendment was made if—
   (a) the Treaty application has been amended under Article 19(1) of the Patent Cooperation Treaty; or
-  (b) the Treaty application has been amended under Article 34 of the Patent Cooperation Treaty, and New Zealand has been chosen by the applicant to be an elected State under Article 31(4)(a) of the Patent Cooperation Treaty within the prescribed time limit.
+  (b) the Treaty application has been amended under Article 34 of the Patent Cooperation Treaty, and New Zealand has been chosen by the applicant to be an elected State under Article 31(4)﻿(a) of the Patent Cooperation Treaty within the prescribed time limit.
 (4) If a Treaty application has been rectified under rule 91 of the Treaty regulations, the description, claims, and drawings contained in that Treaty application must be treated, for the purposes of this Act, as having been amended on the application’s international filing date.
 
 ### 51 Treaty application void
 (1) A Treaty application must be treated as void for the purposes of this Act if—
   (a) an applicant withdraws the applicant’s international application, or withdraws the application in relation to New Zealand as a designated State; or
-  (b) an international application is considered to be withdrawn in accordance with Article 12(3), 14(1)(b), 14(3)(a), or 14(4) of the Patent Cooperation Treaty; or
-  (c) the designation of New Zealand as a designated State is considered to be withdrawn in accordance with Article 14(3)(b) of the Patent Cooperation Treaty; or
+  (b) an international application is considered to be withdrawn in accordance with Article 12(3), 14(1)﻿(b), 14(3)﻿(a), or 14(4) of the Patent Cooperation Treaty; or
+  (c) the designation of New Zealand as a designated State is considered to be withdrawn in accordance with Article 14(3)﻿(b) of the Patent Cooperation Treaty; or
   (d) the applicant fails to fulfil the applicant’s obligations under Article 22(1) of the Patent Cooperation Treaty within the prescribed time limit; or
-  (e) the applicant fails to fulfil the applicant’s obligations under Article 39(1)(a) of the Patent Cooperation Treaty within the prescribed time limit.
-(2) Subsection (1)(b) and (c) are subject to Article 25 of the Patent Cooperation Treaty.
+  (e) the applicant fails to fulfil the applicant’s obligations under Article 39(1)﻿(a) of the Patent Cooperation Treaty within the prescribed time limit.
+(2) Subsection (1)﻿(b) and (c) are subject to Article 25 of the Patent Cooperation Treaty.
 
 ### 52 Requirements for examination of Treaty application
 (1) The Commissioner must not, in relation to a Treaty application, exercise the Commissioner’s powers under subpart 6 (which relates to examination of patent applications) until—
@@ -561,7 +561,7 @@ A Treaty application must be treated as having been filed in New Zealand on its 
     (i) in accordance with the terms of a treaty subsisting between that convention country and any 1 or more other convention countries, is equivalent to a basic application duly made in any one of those convention countries; or
     (ii) in accordance with the law of that convention country, is equivalent to a basic application duly made in that convention country; and
   (c) a matter must be treated as having been disclosed in a basic application made in a convention country if it was claimed or disclosed (otherwise than by way of disclaimer or acknowledgment of prior art) in that application or in documents submitted by the person who made the basic application in support of, and at the same time as, that application.
-(4) Despite subsection (3)(c), if the Commissioner has given a written notice to the convention applicant requiring the convention applicant to file a copy of any or all of the documents referred to in that paragraph, account must not be taken of any disclosure in the document or those documents unless a copy of the document or documents is filed within the prescribed period after the Commissioner has given the notice.
+(4) Despite subsection (3)﻿(c), if the Commissioner has given a written notice to the convention applicant requiring the convention applicant to file a copy of any or all of the documents referred to in that paragraph, account must not be taken of any disclosure in the document or those documents unless a copy of the document or documents is filed within the prescribed period after the Commissioner has given the notice.
 
 ### 54 How convention applications are made and dealt with
 (1) A convention application must be made and dealt with in the same manner as any other patent application.
@@ -580,7 +580,7 @@ For the purposes of this Act, if more than 1 basic application has been made for
 
 ### 56 Basic applications for 2 or more cognate inventions
 (1) If basic applications have been made in 1 or more convention countries for 2 or more inventions that are cognate or of which one is a modification of another, a single convention application may be made for those inventions at any time within 12 months from the date of the earliest of the basic applications.
-(2) Despite subsection (1), the requirements of section 54(2)(a) apply separately to the basic applications for each of the inventions referred to in subsection (1).
+(2) Despite subsection (1), the requirements of section 54(2)﻿(a) apply separately to the basic applications for each of the inventions referred to in subsection (1).
 
 ### Subpart 5 — Priority dates
 
@@ -614,12 +614,12 @@ The priority date of a claim is the filing date of the patent application if—
   (c) that earlier application is—
     (i) an application made in New Zealand not more than 12 months before the international filing date of the Treaty application; or
     (ii) an application made in New Zealand more than 12 months before the international filing date of the Treaty application, for which—
-      (A) a receiving Office has restored priority under rule 26bis.3 of the Treaty regulations; and
-      (B) the restored priority has not been found to be ineffective by the Commissioner or the court under rule 49ter.1 of the Treaty regulations; or
+      (A) a receiving Office has restored priority under rule 26bis﻿.﻿3 of the Treaty regulations; and
+      (B) the restored priority has not been found to be ineffective by the Commissioner or the court under rule 49ter﻿.﻿1 of the Treaty regulations; or
     (iii) a basic application for an invention, made in a convention country not more than 12 months before the international filing date of the Treaty application, that is the first application made in a convention country for the invention; or
     (iv) a basic application for an invention made in a convention country more than 12 months before the international filing date of the Treaty application, that is the first application made in a convention country for the invention, for which—
-      (A) a receiving Office has restored priority under rule 26bis.3 of the Treaty regulations; and
-      (B) the restored priority has not been found to be ineffective by the Commissioner or the court under rule 49ter.1 of the Treaty regulations; or
+      (A) a receiving Office has restored priority under rule 26bis﻿.﻿3 of the Treaty regulations; and
+      (B) the restored priority has not been found to be ineffective by the Commissioner or the court under rule 49ter﻿.﻿1 of the Treaty regulations; or
     (v) a basic application for an invention made in a convention country after an application referred to in subparagraph (iii); and
   (d) the claim is supported by the matter disclosed in that earlier application or in a specification filed for that earlier application.
 (2) The priority date of the claim is,—
@@ -637,8 +637,8 @@ The priority date of a claim is the filing date of the patent application if—
 (1) This section applies if—
   (a) a patent application (application A) is made for an invention that has been claimed in a complete specification filed in relation to another patent application (application B); and
   (b) 1 or more of the following applies:
-    (i) the Commissioner has refused to grant a patent in relation to application B on the ground specified in section 92(1)(b) (whether in a re-examination or an opposition proceeding under subpart 9):
-    (ii) the patent granted in relation to application B has been revoked by the court or the Commissioner on the ground specified in section 114(1)(b):
+    (i) the Commissioner has refused to grant a patent in relation to application B on the ground specified in section 92(1)﻿(b) (whether in a re-examination or an opposition proceeding under subpart 9):
+    (ii) the patent granted in relation to application B has been revoked by the court or the Commissioner on the ground specified in section 114(1)﻿(b):
     (iii) the complete specification filed in relation to application B has, in a re-examination or an opposition proceeding under subpart 9 or a proceeding under subpart 11, been amended by the exclusion of the claim relating to the invention as a result of a finding by the Commissioner that the nominated person or the patentee is not entitled to the patent.
 (2) The Commissioner may direct that application A and any specification filed in relation to it must, for the purposes of this subpart, be treated as having been filed on the date on which the corresponding document was filed, or is treated as having been filed, in relation to application B.
 
@@ -664,7 +664,7 @@ The priority date of a claim is the filing date of the patent application if—
 (3) The Commissioner must give a copy of the report to the applicant after it is issued.
 
 ### 66 Commissioner may refuse to proceed with application or require application or specification to be amended
-(1) This section applies if, after examining under section 65 a patent application and the complete specification relating to the application, the Commissioner reports that he or she is not satisfied as to any of the matters specified in section 65(1)(a).
+(1) This section applies if, after examining under section 65 a patent application and the complete specification relating to the application, the Commissioner reports that he or she is not satisfied as to any of the matters specified in section 65(1)﻿(a).
 (2) The Commissioner—
   (a) must state the grounds of objection when reporting on an examination; and
   (b) may—
@@ -672,9 +672,9 @@ The priority date of a claim is the filing date of the patent application if—
     (ii) require the applicant to amend the patent application or any specification before the Commissioner proceeds with the application.
 
 ### 67 Applicants must act by deadline if deadline set by Commissioner
-(1) If the Commissioner has acted under section 66(2)(b), the applicant must, by the deadline (if any) set by the Commissioner, make a substantive response to the report.
-(2) After each response, the Commissioner may issue a further report under section 65, and, if the Commissioner is still not satisfied as to any of the matters specified in section 65(1)(a), the Commissioner may act under section 66.
-(3) If the Commissioner has issued a further report under section 65 and acted under section 66(2)(b), the applicant must, by the deadline (if any) set by the Commissioner, make a substantive response to the report.
+(1) If the Commissioner has acted under section 66(2)﻿(b), the applicant must, by the deadline (if any) set by the Commissioner, make a substantive response to the report.
+(2) After each response, the Commissioner may issue a further report under section 65, and, if the Commissioner is still not satisfied as to any of the matters specified in section 65(1)﻿(a), the Commissioner may act under section 66.
+(3) If the Commissioner has issued a further report under section 65 and acted under section 66(2)﻿(b), the applicant must, by the deadline (if any) set by the Commissioner, make a substantive response to the report.
 (4) The Commissioner must set deadlines (if any) in the prescribed manner.
 (5) The Commissioner may extend any deadlines in the prescribed manner.
 (6) For the purposes of this section, a substantive response is a response that, in the opinion of the Commissioner,—
@@ -716,16 +716,16 @@ A patent application must be treated as having been abandoned if the applicant h
 ### 72 Time may be extended if appeal pending or possible
 (1) This section applies if, at the expiry of the prescribed period under section 71,—
   (a) an appeal to the court is pending under section 214 in respect of the patent application (or, in the case of an application for a patent of addition, either in respect of that application or in respect of the patent application for the main invention); or
-  (b) the 20-working-day period within which an appeal referred to in paragraph (a) may be brought under section 214(2)(b)(i) has not expired.
-(2) The court may extend the period that applies under section 71 until the date that the court thinks fit if an appeal referred to in subsection (1)(a)—
+  (b) the 20-working-day period within which an appeal referred to in paragraph (a) may be brought under section 214(2)﻿(b)﻿(i) has not expired.
+(2) The court may extend the period that applies under section 71 until the date that the court thinks fit if an appeal referred to in subsection (1)﻿(a)—
   (a) is pending; or
-  (b) is brought within the time referred to in subsection (1)(b); or
-  (c) is brought before the expiry of any extension of the time for bringing an appeal allowed by the court under section 214(2)(b)(ii),—
-    (i) in the case of a first extension, on an application for an extension made within the time referred to in subsection (1)(b); or
+  (b) is brought within the time referred to in subsection (1)﻿(b); or
+  (c) is brought before the expiry of any extension of the time for bringing an appeal allowed by the court under section 214(2)﻿(b)﻿(ii),—
+    (i) in the case of a first extension, on an application for an extension made within the time referred to in subsection (1)﻿(b); or
     (ii) in the case of a subsequent extension, on an application for an extension made before the expiry of the last previous extension.
-(3) If no appeal referred to in subsection (1)(a) is pending or is so brought, the period that applies under section 71 continues—
-  (a) until the end of the time referred to in subsection (1)(b); or
-  (b) if any extension of the time for bringing an appeal is allowed by the court as referred to in subsection (2)(c), until the expiry of the extension or last extension that is allowed.
+(3) If no appeal referred to in subsection (1)﻿(a) is pending or is so brought, the period that applies under section 71 continues—
+  (a) until the end of the time referred to in subsection (1)﻿(b); or
+  (b) if any extension of the time for bringing an appeal is allowed by the court as referred to in subsection (2)﻿(c), until the expiry of the extension or last extension that is allowed.
 
 ### 73 Notice of entitlement must be filed before acceptance
 (1) The applicant must file, in the prescribed manner, a notice stating the grounds on which the nominated person is entitled to be granted the patent under section 22—
@@ -747,7 +747,7 @@ A patent application must be treated as having been abandoned if the applicant h
 (2) The Commissioner must, after acceptance of a complete specification,—
   (a) give notice of the acceptance to the applicant; and
   (b) publish the acceptance in the journal.
-(3) For the purposes of this Act, date of the publication of the accepted complete specification means the date of publication of the journal containing the publication under subsection (2)(b).
+(3) For the purposes of this Act, date of the publication of the accepted complete specification means the date of publication of the journal containing the publication under subsection (2)﻿(b).
 (4) This section is subject to sections 71, 72, and 75.
 
 ### 75 Applicant may request Commissioner to postpone acceptance
@@ -764,7 +764,7 @@ A patent application must be treated as having been abandoned if the applicant h
   (c) the specification is not already open to public inspection.
 (2) Subsection (1) does not apply if the patent application is void or has been abandoned.
 (3) If a complete specification filed in respect of a patent application (other than a Treaty application) has not become open to public inspection, the Commissioner must, if asked to do so by the applicant, publish, in the prescribed manner, a notice in the journal that the complete specification is open to public inspection.
-(4) If section 42(2) applies to a specification, the applicant may not make a request under subsection (3) in relation to the specification unless the specification includes the particulars mentioned in section 43(1)(d).
+(4) If section 42(2) applies to a specification, the applicant may not make a request under subsection (3) in relation to the specification unless the specification includes the particulars mentioned in section 43(1)﻿(d).
 
 ### 77 Publication in case of divisional applications made as provided for in section 34
 (1) The Commissioner must publish a notice in the journal that a complete specification filed for a divisional application is open to public inspection if—
@@ -774,15 +774,15 @@ A patent application must be treated as having been abandoned if the applicant h
   (a) a notice is published in the journal that the complete specification filed for the parent application is open to public inspection; or
   (b) a notice is published in the journal that the complete specification filed for the divisional application is open to public inspection.
 (3) The Commissioner must also publish in the journal a notice that,—
-  (a) if subsection (2)(a) applies, the complete specification filed for the divisional application is open to public inspection; or
-  (b) if subsection (2)(b) applies, the complete specification filed for the parent application is open to public inspection.
+  (a) if subsection (2)﻿(a) applies, the complete specification filed for the divisional application is open to public inspection; or
+  (b) if subsection (2)﻿(b) applies, the complete specification filed for the parent application is open to public inspection.
 (4) For the purposes of this section,—
   - **divisional application** means a divisional application referred to in section 34
   - **parent application** means the parent application referred to in section 34.
 
 ### 78 Documents open to public inspection
 (1) If a notice is published under section 76 or 77, the specification concerned, and the other documents (if any) that are prescribed, are open to public inspection.
-(2) If acceptance of a complete specification is published under section 74(2)(b) in relation to a patent application, the following documents (being documents that have not already become open to public inspection) are open to public inspection:
+(2) If acceptance of a complete specification is published under section 74(2)﻿(b) in relation to a patent application, the following documents (being documents that have not already become open to public inspection) are open to public inspection:
   (a) all documents (other than prescribed documents) filed in relation to the application or the patent, whether before or after the acceptance or grant:
   (b) all documents (other than prescribed documents) filed, after the patent ceases, expires, or is revoked, in relation to the former patent:
   (c) copies of all documents relating to the application or patent (other than prescribed documents) given by the Commissioner to the applicant or patentee, or the former applicant or patentee.
@@ -855,7 +855,7 @@ If, after the date of the publication of the accepted complete specification, an
 ### 88 Provisions concerning amendments with leave of Commissioner do not apply in certain circumstances
 Sections 85 to 87 do not apply in relation to any amendment of a specification effected—
   (a) in a proceeding in opposition to the grant of a patent under sections 92 and 93; or
-  (b) in accordance with any of sections 98(2), 99(2), and 113(6)(b).
+  (b) in accordance with any of sections 98(2), 99(2), and 113(6)﻿(b).
 
 ### 89 Amendment of specification with leave of court
 (1) In any relevant proceeding in relation to a patent, the court may, by order, allow the patentee to amend the patentee’s complete specification in the manner and subject to the terms as to costs, publication, or otherwise that the court thinks fit.
@@ -889,8 +889,8 @@ Sections 85 to 87 do not apply in relation to any amendment of a specification e
   (d) that the applicant is attempting, or has attempted, to obtain the grant of a patent by fraud, false suggestion, or a misrepresentation:
   (e) that the invention, so far as claimed in a claim, was secretly used in New Zealand before the priority date of that claim:
   (f) that granting the patent would be contrary to law.
-(2) For the purposes of subsection (1)(a), account must not be taken of any secret use of the invention.
-(3) For the purposes of subsection (1)(e), account must not be taken of any use of the invention—
+(2) For the purposes of subsection (1)﻿(a), account must not be taken of any secret use of the invention.
+(3) For the purposes of subsection (1)﻿(e), account must not be taken of any use of the invention—
   (a) for the purpose of reasonable trial or experiment only if the trial or experiment is conducted by, on behalf of, or with the consent of the nominated person or any person from whom the nominated person derives title; or
   (b) by a government department or any person authorised by a government department, in consequence of the nominated person, or any person from whom the nominated person derives title, communicating or disclosing the invention directly or indirectly to that department or person; or
   (c) by any other person, in consequence of the nominated person, or any person from whom the nominated person derives title, communicating or disclosing the invention to that person in confidence if the use of the invention is without the consent of the nominated person or of any person from whom the nominated person derives title.
@@ -937,9 +937,9 @@ If the grant of a patent is opposed, the Commissioner must—
 ### 97 Report on re-examination
 (1) On a re-examination under this subpart, the Commissioner must consider and report on whether the Commissioner is satisfied, on the balance of probabilities, that any of the relevant grounds are established.
 (2) For the purposes of subsection (1) and sections 98 and 99, relevant grounds means,—
-  (a) in the case of a request under section 94(1), the grounds specified under section 94(2)(a) and any other grounds set out in section 92 that the Commissioner has decided to consider:
+  (a) in the case of a request under section 94(1), the grounds specified under section 94(2)﻿(a) and any other grounds set out in section 92 that the Commissioner has decided to consider:
   (b) in the case of a re-examination under section 94 that is commenced by the Commissioner, the grounds set out in section 92 that the Commissioner has decided to consider:
-  (c) in the case of a request under section 95(1), the grounds specified under section 95(2)(a) and any other grounds set out in section 114 that the Commissioner has decided to consider:
+  (c) in the case of a request under section 95(1), the grounds specified under section 95(2)﻿(a) and any other grounds set out in section 114 that the Commissioner has decided to consider:
   (d) in the case of a re-examination under section 95 that is commenced by the Commissioner, the grounds set out in section 114 that the Commissioner has decided to consider:
   (e) in the case of a re-examination that was directed under section 95(3), the grounds set out in section 114 that the court has asked the Commissioner to consider.
 (3) A copy of a report under this section must, if the re-examination was directed under section 95(3), be given by the Commissioner to the court that gave the direction.
@@ -1070,8 +1070,8 @@ Nothing done under this Act guarantees the granting of a patent, or that a paten
   (d) that the patent was obtained by fraud, false suggestion, or a misrepresentation:
   (e) that the invention, so far as claimed in a claim, was secretly used in New Zealand before the priority date of that claim:
   (f) that the patent has been granted contrary to law.
-(2) For the purposes of subsection (1)(a), account must not be taken of any secret use of the invention.
-(3) For the purposes of subsection (1)(e), account must not be taken of any use of the invention—
+(2) For the purposes of subsection (1)﻿(a), account must not be taken of any secret use of the invention.
+(3) For the purposes of subsection (1)﻿(e), account must not be taken of any use of the invention—
   (a) for the purpose of reasonable trial or experiment only if the trial or experiment is conducted by, on behalf of, or with the consent of the nominated person or any person from whom the nominated person derives title; or
   (b) by a government department or any person authorised by a government department, in consequence of the nominated person, or any person from whom the nominated person derives title, communicating or disclosing the invention directly or indirectly to that department or person; or
   (c) by any other person, in consequence of the nominated person, or any person from whom the nominated person derives title, communicating or disclosing the invention to that person in confidence if the use of the invention is without the consent of the nominated person or of any person from whom the nominated person derives title.
@@ -1144,7 +1144,7 @@ The Commissioner must publish a request made in accordance with sections 117 to 
 ### 125 Request for restoration of void or abandoned patent applications
 (1) This section applies if—
   (a) the patent application is abandoned under section 35, 64, or 68 or is void under section 71 or 73; or
-  (b) in the case of a Treaty application, the Treaty application is void under section 51(1)(d) or (e).
+  (b) in the case of a Treaty application, the Treaty application is void under section 51(1)﻿(d) or (e).
 (2) The applicant may make a request to the Commissioner in the prescribed manner for an order to restore the patent application and to extend the period for complying with the requirements imposed on the applicant by or under this Act or the Patent Cooperation Treaty (as the case may be) to a date that is specified in the order.
 (3) Every request for an order must contain a statement that fully sets out the circumstances that led to the failure of the applicant to comply with the requirements imposed on the applicant by or under this Act or the Patent Cooperation Treaty (as the case may be).
 (4) The Commissioner must publish the request in the journal if the Commissioner is satisfied that the failure of the applicant to comply with the requirements imposed on the applicant by or under this Act or the Patent Cooperation Treaty (as the case may be) within the time allowed by or under this Act was unintentional.
@@ -1343,7 +1343,7 @@ It is not an infringement of a patent for a person to make, use, import, sell, h
   (a) the person would be entitled to do so under section 148(1) if the title or interest was registered; and
   (b) the person has given at least 1 month's written notice to the proposed defendant of the intention to bring the proceeding and provided an address for service in New Zealand; and
   (c) within that notice period, the proposed defendant has not required the proposed plaintiff to register that title or interest.
-(3) However, the court may, on application to it, authorise a person to bring an infringement proceeding in court without complying with subsection (1) or (2)(b).
+(3) However, the court may, on application to it, authorise a person to bring an infringement proceeding in court without complying with subsection (1) or (2)﻿(b).
 
 ### 151 Proceeding brought by exclusive licensee
 (1) If an exclusive licensee brings an infringement proceeding, the patentee must be joined as a defendant (unless joined as a plaintiff).
@@ -1518,12 +1518,12 @@ If an application is made under section 165, the Commissioner, on proof satisfac
 
 ### 172 Secretary of Foreign Affairs and Trade may publish notices that specify eligible countries
 (1) This section applies if—
-  (a) the government of a country that is not a member of the World Trade Organization has sent to the Government of New Zealand a request for the country to be specified under this section for the purposes of section 171(1)(c)(ii) in respect of a particular pharmaceutical product; and
+  (a) the government of a country that is not a member of the World Trade Organization has sent to the Government of New Zealand a request for the country to be specified under this section for the purposes of section 171(1)﻿(c)﻿(ii) in respect of a particular pharmaceutical product; and
   (b) the request sets out information relating to why the government of that country considers that either—
     (i) the country has no manufacturing capacity in its pharmaceutical sector for the pharmaceutical product; or
     (ii) the country's manufacturing capacity in its pharmaceutical sector for the pharmaceutical product (excluding any capacity owned or controlled by the patentee) is currently insufficient for the purposes of meeting its need for the product; and
   (c) the request specifies the expected quantity of the pharmaceutical product that is needed by the country.
-(2) The Secretary of Foreign Affairs and Trade (the Secretary) may, after a request from a country has been received under subsection (1), by notice in the Gazette, specify the country for the purposes of section 171(1)(c)(ii) in respect of the relevant pharmaceutical product if he or she is satisfied that either—
+(2) The Secretary of Foreign Affairs and Trade (the Secretary) may, after a request from a country has been received under subsection (1), by notice in the Gazette, specify the country for the purposes of section 171(1)﻿(c)﻿(ii) in respect of the relevant pharmaceutical product if he or she is satisfied that either—
   (a) the country has no manufacturing capacity in its pharmaceutical sector for the product; or
   (b) the country's manufacturing capacity in its pharmaceutical sector for the product (excluding any capacity owned or controlled by the patentee) is currently insufficient for the purposes of meeting its need for the product.
 (3) The notice under subsection (2) must—
@@ -1543,15 +1543,15 @@ If an application is made under section 165, the Commissioner, on proof satisfac
   (c) the name of the country or countries to which the pharmaceutical products made under the licence must be exported:
   (d) the maximum quantity of pharmaceutical products that may be exported to each of those countries (which must be no more than the court considers is necessary to meet the needs of the country):
   (e) the duration of the licence:
-  (f) the address of the licensee's Internet site for the purposes of subsection (2)(e).
+  (f) the address of the licensee's Internet site for the purposes of subsection (2)﻿(e).
 (2) A licence granted under section 171 is subject to the following terms:
   (a) all pharmaceutical products made under the licence must be clearly identified, through specific labelling or marking, as having been made under a compulsory licensing scheme for the export of the product:
   (b) all pharmaceutical products made under the licence must have particular distinguishing features (for example, special packaging or special colouring or shaping of the products) if including those features is feasible and does not have a significant impact on price:
-  (c) all pharmaceutical products made under the licence must be exported to the country or countries specified under subsection (1)(c):
-  (d) the licensee must, before exporting the pharmaceutical products to a country specified under subsection (1)(c), supply to the Council for Trade-Related Aspects of Intellectual Property Rights of the World Trade Organization a statement containing the following information for the purpose of the information being published on the WTO Internet site:
+  (c) all pharmaceutical products made under the licence must be exported to the country or countries specified under subsection (1)﻿(c):
+  (d) the licensee must, before exporting the pharmaceutical products to a country specified under subsection (1)﻿(c), supply to the Council for Trade-Related Aspects of Intellectual Property Rights of the World Trade Organization a statement containing the following information for the purpose of the information being published on the WTO Internet site:
     (i) the quantities of the pharmaceutical product to be exported to the country:
     (ii) the specific labelling or marking referred to in paragraph (a) and any distinguishing features of the pharmaceutical products referred to in paragraph (b):
-  (e) the licensee must, before exporting the pharmaceutical products to a country specified under subsection (1)(c), publish the information specified in paragraph (d) on the licensee's Internet site.
+  (e) the licensee must, before exporting the pharmaceutical products to a country specified under subsection (1)﻿(c), publish the information specified in paragraph (d) on the licensee's Internet site.
 (3) A licence granted under section 171 may be subject to any other terms that the court thinks fit.
 (4) For the purposes of this section,—
   - **licensee's Internet site** means an Internet site maintained by, or on behalf of, the licensee
@@ -1639,7 +1639,7 @@ The buyer of any products sold in the exercise of powers conferred by section 17
 (1) The right to use an invention under section 179—
   (a) is not exclusive; and
   (b) must not be assigned otherwise than in connection with the goodwill of the business in which the invention is used; and
-  (c) is, despite section 179(4)(a), limited to the supply of the invention predominantly in New Zealand by a government department or a person authorised by a government department under that section.
+  (c) is, despite section 179(4)﻿(a), limited to the supply of the invention predominantly in New Zealand by a government department or a person authorised by a government department under that section.
 (2) The right to use an invention under section 179 may, on the application of any interested person, be terminated by the court if the court is satisfied that the circumstances that gave rise to the right to use the invention have ceased to exist and are unlikely to recur.
 (3) The right to use an invention under section 179 is, except in a case to which section 185 applies, subject to the government department or person authorised by a government department under section 179 having first made efforts to obtain the consent of the nominated person or the patentee for the use of the invention on reasonable commercial terms and conditions, and having failed to obtain that consent, or to obtain that consent on reasonable commercial terms and conditions, within a reasonable period of time.
 
@@ -1672,10 +1672,10 @@ The Crown must, if an act is done under section 179, pay to the nominated person
 (2) A request or claim under this section must be made—
   (a) before the date that is 2 months after the complete specification becomes open to public inspection; or
   (b) within a further period (not exceeding 1 month) that the Commissioner may allow.
-(3) The Commissioner may only extend the period under subsection (2)(b) on a request to that effect made to the Commissioner before the expiry of the 2 month period referred to in subsection (2)(a).
+(3) The Commissioner may only extend the period under subsection (2)﻿(b) on a request to that effect made to the Commissioner before the expiry of the 2 month period referred to in subsection (2)﻿(a).
 
 ### 191 Request or claim may not be considered in certain circumstances
-No request or claim under section 190 may be considered by the Commissioner if the Commissioner considers that the request or claim is based on facts that, if proved in the case of an opposition under section 92(1)(b) by the person in respect of or by whom the request or claim is made, would have entitled the person to relief under subpart 9 of Part 3.
+No request or claim under section 190 may be considered by the Commissioner if the Commissioner considers that the request or claim is based on facts that, if proved in the case of an opposition under section 92(1)﻿(b) by the person in respect of or by whom the request or claim is made, would have entitled the person to relief under subpart 9 of Part 3.
 
 ### 192 Commissioner must give notice of claim and opportunity to be heard
 (1) If a claim is made under section 190, the Commissioner must give notice of the claim to every applicant for the patent (not being the claimant) and to any other person that the Commissioner considers is interested.
@@ -1764,6 +1764,11 @@ The Commissioner may make changes to the patents register in accordance with thi
   (a) give notice of the opposition to the applicant (if any); and
   (b) give the applicant (if any) and opponent a reasonable opportunity to be heard.
 (5) This section does not apply to an error or omission by persons referred to in section 201(1) or to an error or omission in a complete specification (see section 40 and subpart 8 of Part 3 for amendments to complete specifications).
+
+### 202A Commissioner may alter certain inconsistent information
+(1) This section applies if information in the patents register relating to a person is inconsistent with primary business data of that person in the New Zealand Business Number Register.
+(2) If this section applies, the Commissioner may, in the prescribed manner (if any), alter the information in the patents register so that it is consistent with the primary business data in the New Zealand Business Number Register.
+(3) In this section, primary business data has the same meaning as in section 20(2) of the New Zealand Business Number Act 2016.
 
 ### 203 Court may rectify patents register
 (1) The court may, on application of any person aggrieved, order the patents register to be rectified by making an entry, or varying or deleting an entry, in it.
@@ -1963,8 +1968,8 @@ The Māori advisory committee may regulate its own procedure, subject to any dir
 (1) This section applies to a requirement under this Act or the regulations for—
   (a) a person to file information or a document with, or serve or give information or a document to, the Commissioner; and
   (b) the Commissioner to serve or give information or a document to any person.
-(2) The requirement referred to in subsection (1)(a) must be met using a prescribed electronic delivery method (or another delivery method permitted by the regulations) in the prescribed manner.
-(3) The requirement referred to in subsection (1)(b) may be met—
+(2) The requirement referred to in subsection (1)﻿(a) must be met using a prescribed electronic delivery method (or another delivery method permitted by the regulations) in the prescribed manner.
+(3) The requirement referred to in subsection (1)﻿(b) may be met—
   (a) by using a prescribed electronic delivery method (or another delivery method permitted by the regulations) in the prescribed manner; or
   (b) by other means that are reasonable in the circumstances.
 (4) Anything that is filed, served, or given using a prescribed electronic or other delivery method must be treated as received for the purposes of that requirement when specified by the regulations.
@@ -1981,7 +1986,7 @@ The Māori advisory committee may regulate its own procedure, subject to any dir
 
 ### 231 Commissioner may extend time limits for certain filing requirements or for delivery failures
 (1) The Commissioner may, on application by any person under section 232 or at the Commissioner’s own discretion, extend—
-  (a) the time limit under section 37(2)(a) or (b) (which relates to the time limit for the filing of a complete specification) or section 53 (which relates to the filing of a convention application); or
+  (a) the time limit under section 37(2)﻿(a) or (b) (which relates to the time limit for the filing of a complete specification) or section 53 (which relates to the filing of a convention application); or
   (b) the time within which anything must be done under this Act or the regulations if that thing is not or will not be done in time because of a failure or delay of the delivery method.
 (2) The Commissioner may grant the extension even if the time has expired for doing the thing.
 (3) However, the Commissioner must refuse to grant the extension if in his or her opinion—
@@ -2103,6 +2108,7 @@ Nothing in sections 17(2), 23, 150, 165, 166, and 194 to 204 affects the operati
     (i) the operation of the register:
     (ii) access to and search of the register:
     (iii) the location of, and hours of access to, the register:
+  (ma) regulating the manner in which the Commissioner may alter information in the patents register under section 202A, including prescribing procedures, requirements, and other matters in respect of an alteration:
   (n) prescribing the manner in which something must be published in the journal:
   (o) prescribing fees and penalties to be paid, or the means by which those fees and penalties may be calculated or ascertained, for any matter under this Act or the regulations or any provisions of the Patents Act 1953 or Patents Regulations 1954 that are preserved by section 247(2) or 248:
   (p) prescribing the period for the payment of a renewal fee or maintenance fee:
@@ -2183,7 +2189,7 @@ The enactments set out in the Schedule are amended in accordance with that sched
   (a) this Act applies to patents granted under the Patents Act 1953 (but patents retain their existing key dates, term, and grounds for revocation):
   (b) patent applications made under the Patents Act 1953 continue to be dealt with under that Act unless a complete specification is filed on or after commencement and, in this case, the complete specification may be filed only under this Act and this Act then applies to the patent application:
   (c) Treaty applications—
-    (i) continue to be dealt with under the Patents Act 1953 if the applicant has fulfilled the applicant’s obligations under Article 22(1) or 39(1)(a) of the Patent Cooperation Treaty before commencement; and
+    (i) continue to be dealt with under the Patents Act 1953 if the applicant has fulfilled the applicant’s obligations under Article 22(1) or 39(1)﻿(a) of the Patent Cooperation Treaty before commencement; and
     (ii) must be dealt with under this Act if the applicant did not fulfil those obligations before that time:
   (d) there are particular transitional provisions for post-dated applications and divisional applications.
 (2) This section is a guide only to the general scheme and effect of the transitional provisions for patents.
@@ -2230,7 +2236,7 @@ If a patent application made under the Patents Act 1953 is post-dated to a date 
 
 ### 259 Which Act applies to Treaty applications
 (1) The Patents Act 1953 (and the regulations, orders, directions, and other matters made under it) continues to apply, as if sections 247 to 249 were not in force, for the purposes of—
-  (a) a Treaty application if the applicant fulfilled the applicant's obligations under Article 22(1) or 39(1)(a) of the Patent Cooperation Treaty before the commencement of Part 3 of this Act:
+  (a) a Treaty application if the applicant fulfilled the applicant's obligations under Article 22(1) or 39(1)﻿(a) of the Patent Cooperation Treaty before the commencement of Part 3 of this Act:
   (b) the bringing and completion of any application, request, notice, or other proceeding relating to that application (whether commenced before or after the commencement of Part 3 of this Act).
 (2) Any reference in any other enactment to a repealed provision of the Patents Act 1953 (or a revoked provision of any regulations made under it) continues to apply for the purposes of subsection (1) as if the reference had not been repealed or amended by this Act.
 (3) Section 254 applies to any patent granted under the Patents Act 1953 in respect of that application.
