@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2015-04-02_
+_Consolidation as at 2016-05-13_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -249,7 +249,7 @@ A student loan establishment fee of $60 (or any other amount prescribed by regul
 
 ### 15 Right to cancel loan contract
 (1) A borrower may cancel his or her loan contract by—
-  (a) formally notifying the loan manager of the cancellation within 7 working days of the date on which the borrower's loan entitlement letter was issued; and
+  (a) notifying the loan manager in writing of the cancellation within 7 working days of the date on which the borrower's loan entitlement letter was issued; and
   (b) returning any loan advance received by the borrower under the loan contract to the loan manager within a time frame set by the loan manager.
   (c)
 (2) If a borrower cancels his or her loan contract in accordance with subsection (1), the loan manager must waive the student loan establishment fee charged under section 14.
@@ -1985,7 +1985,7 @@ Regulations made under section 215 or 216 are a legislative instrument and a dis
 
 ### 220 Application, savings, and transitional provisions
 (1) The application, savings, and transitional provisions set out in Schedule 6 have effect for the purposes of this Act.
-(2) The application, savings, and transitional provisions relating to this Act and the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 6 specified in the second column of the table:The following table is small in size and has two columns. Column 1 is headed Principal Act and Amendment Acts. Column 2 is headed Part of Schedule 6.Principal Act and Amendment ActsPart of Schedule 6 Principal ActPrincipal Act as enactedPart 1Amendment ActsProvisions relating to Student Loan Scheme Amendment Act 2013Part 2
+(2) The application, savings, and transitional provisions relating to this Act and the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 6 specified in the second column of the table:The following table is small in size and has two columns. Column 1 is headed Principal Act and Amendment Acts. Column 2 is headed Part of Schedule 6.Principal Act and Amendment ActsPart of Schedule 6Principal ActPrincipal Act as enactedPart 1Amendment ActsProvisions relating to Student Loan Scheme Amendment Act 2013Part 2
 
 **Consequential amendments and repeals**
 
@@ -2369,6 +2369,14 @@ In this Part,—
   (a) 3 years after the date on which they are made; and
   (b) the close of 31 March 2018.
 (6) This clause is repealed on 1 April 2018.
+
+### Part 3 — Transitional provision relating to Student Loan Scheme Amendment Act 2014
+
+### 18 Savings provision for section 110
+(1) Section 110 and any related provisions, as in force immediately before the amendment Act came into force, apply to the repayment obligation of a borrower for any tax year ending on or before 31 March 2014.
+(2) In this section,—
+  - **amendment Act** means the Student Loan Scheme Amendment Act 2014
+  - **related provision** means a provision of the Student Loan Scheme Act 2011 that has an effect in relation to section 110 as in force immediately before the amendment Act came into force (for example, a definition).
 
 ## Schedule 7 — Amendments to this Act
 
