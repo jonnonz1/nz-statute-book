@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2016-05-13_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -330,9 +330,9 @@ Subdivision
     (ii) under foreign laws of a similar nature to the Land Transfer Act 1952, if the land is outside New Zealand; or
   (b) their date of acquisition of the undivided land, if the land is not registered as described in paragraph (a) at the bright-line date.
 Leases with perpetual right of renewal
-(3) Despite subsection (1), an amount that a person derives from disposing of a freehold estate in land, acquired as the owner of a leasehold estate with a perpetual right of renewal, is income if the bright-line date for the freehold estate is within 2 years of the grant of the leasehold estate.
+(3) Despite subsection (1), an amount that a person derives from disposing of a freehold estate in residential land, acquired as the owner of a leasehold estate with a perpetual right of renewal, is income if the bright-line date for the freehold estate is within 2 years of the grant of the leasehold estate.
 Contingent interest
-(4) Despite subsection (1), an amount that a person derives from disposing of a freehold estate in land, acquired as the result of the completion of a land development or subdivision, is income if the bright-line date for the freehold estate is within 2 years of the person acquiring an interest, in relation to the land, that is contingent upon the completion of the land development or subdivision.
+(4) Despite subsection (1), an amount that a person derives from disposing of a freehold estate in residential land, acquired as the result of the completion of a land development or subdivision, is income if the bright-line date for the freehold estate is within 2 years of the person acquiring an interest, in relation to the land, that is contingent upon the completion of the land development or subdivision.
 Exception: disposal of land by executor, administrator, or beneficiary
 (5) This section does not apply to an amount that an executor or administrator described in section FC 1(1)﻿(a) (What this subpart does), or a beneficiary described in section FC 1(1)﻿(b), derives from disposing of residential land that was transferred to them on the death of a person.
 Relationship with subject matter
@@ -491,8 +491,8 @@ General rule
 (1) For the purposes of this subpart except section CB 6A, a person acquires an estate, interest, or option that is land (the land) on the date that begins a period in which the person has an estate or interest in, or an option to acquire, the land, alone or jointly or in common with another person.
 First exception: acquisition of land by company to be formed
 (2) If a person, on behalf of a company to be formed, enters an agreement under which the company will have land, the company is treated, for the purposes of this subpart in relation to the land, as existing from when the person enters the agreement.
-Second exception: further land from exercise of option
-(3) If a person who has an estate or interest in land has subsequently, as a consequence of the person's exercise of an option, another estate or interest (the other land interest) in the same land, the person is treated for the purposes of this subpart as having the other land interest from the time of the exercise of the option.
+Second exception: land from exercise of option
+(3) A person that exercises an option to acquire land and acquires the land, is treated as acquiring the land at the time when they exercise the option.
 Relationship with subparts FB and FC
 (4) Subsections (1) to (3) are overridden, for a transaction, by a provision in subpart FB or FC (which relate to transfers of property) providing for the timing of the transaction.
 
@@ -20386,7 +20386,7 @@ When this section applies
 Transfer at cost
 (2) The transfer is treated as a disposal and acquisition for an amount that equals the total cost of the residential land to the transferor at the date of transfer.
 Date of acquisition
-(3) The transferee is treated as having acquired property in the residential land on the relevant date, for the transferor’s acquisition, in section CB 6A(1)﻿(a) or (b).
+(3) The transferee is treated as having acquired property in the residential land on the relevant date, for the transferor’s acquisition, in section CB 6A(1) to (4).
 
 ### FB 3 Land acquired for certain purposes or under certain conditions
 When this section applies
