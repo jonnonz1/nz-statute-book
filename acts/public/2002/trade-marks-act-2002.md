@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2014-09-13_
+_Consolidation as at 2016-05-13_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -195,7 +195,7 @@ This Act binds the Crown.
   (b) authorise other persons to use the registered trade mark; and
   (c) assign or transmit the registered trade mark (either in connection with the goodwill of a business or not); and
   (d) give valid receipts for any consideration for any such assignment or transmission.
-(2) For the purposes of subsection (1)(a), a member of a collective association that owns a collective trade mark that is registered in respect of goods or services—
+(2) For the purposes of subsection (1)﻿(a), a member of a collective association that owns a collective trade mark that is registered in respect of goods or services—
   (a) has, along with the collective association, the exclusive right to use the trade mark in respect of those goods or services; and
   (b) does not have the right to exclude any other members from using the trade mark in respect of goods produced or services provided by the other members.
 
@@ -247,7 +247,7 @@ A collective trade mark may be registered in the name of a collective associatio
   (b) the use of which is contrary to New Zealand law or would otherwise be disentitled to protection in any court; or
   (c) the use or registration of which would, in the opinion of the Commissioner, be likely to offend a significant section of the community, including Māori.
 (2) The Commissioner must not register a trade mark if the application is made in bad faith.
-(3) Despite subsection (1)(b), the Commissioner may register a trade mark even if use of the trade mark is restricted or prohibited under the Smoke-free Environments Act 1990.
+(3) Despite subsection (1)﻿(b), the Commissioner may register a trade mark even if use of the trade mark is restricted or prohibited under the Smoke-free Environments Act 1990.
 
 **Registrability of non-distinctive trade marks**
 
@@ -257,7 +257,7 @@ A collective trade mark may be registered in the name of a collective associatio
   (b) a trade mark that has no distinctive character:
   (c) a trade mark that consists only of signs or indications that may serve, in trade, to designate the kind, quality, quantity, intended purpose, value, geographical origin, time of production of goods or of rendering of services, or other characteristics of goods or services:
   (d) a trade mark that consists only of signs or indications that have become customary in the current language or in the bona fide and established practices of trade.
-(2) The Commissioner must not refuse to register a trade mark under subsection (1)(b), (c), or (d) if, before the date of application for registration, as a result of either the use made of it or of any other circumstances, the trade mark has acquired a distinctive character.
+(2) The Commissioner must not refuse to register a trade mark under subsection (1)﻿(b), (c), or (d) if, before the date of application for registration, as a result of either the use made of it or of any other circumstances, the trade mark has acquired a distinctive character.
 
 ### 19 Relevance of colour to distinctive character of trade mark
 (1) In determining the distinctive character of a trade mark, the Commissioner or the court, as the case may be, must consider whether or not the trade mark is, or is to be, limited in whole or in part to 1 or more specified colours.
@@ -385,7 +385,7 @@ The Commissioner must—
 
 ### 38 When Commissioner or court may amend application
 (1) The Commissioner or the court, as the case may be, may at any time (whether before or after acceptance) correct any error in connection with the application.
-(2) Section 37(2)(b) overrides subsection (1).
+(2) Section 37(2)﻿(b) overrides subsection (1).
 
 **Acceptance or rejection of application**
 
@@ -483,7 +483,7 @@ Before the Commissioner makes a decision on an application for the registration 
   (c) whether the applicant is competent to certify the goods or services in respect of which the certification trade mark is to be registered; and
   (d) whether the draft regulations are satisfactory in terms of subsection (2); and
   (e) whether in all the circumstances the registration applied for would be in the public interest.
-(2) For the purposes of subsection (1)(d), regulations—
+(2) For the purposes of subsection (1)﻿(d), regulations—
   (a) must contain provisions that relate to when the owner is—
     (i) to certify goods or services; and
     (ii) to authorise the use of the trade mark; and
@@ -512,8 +512,8 @@ The registration of a trade mark may be renewed in accordance with section 59 fo
   (b) conditions as to the payment of fees or otherwise on which a renewal of registration may be obtained; and
   (c) removal of the registration, subject to any conditions specified by the Commissioner as to the trade mark's restoration to the register if, at the expiration of the period of 10 years, the conditions referred to in paragraph (b) have not been complied with.
 (3) The Commissioner must remove the trade mark from the register, subject to any conditions specified by the Commissioner as to the trade mark's restoration to the register, if, at the expiration of the period of 10 years,—
-  (a) notification of the date of expiry has been sent under subsection (2)(a); and
-  (b) the conditions referred to in subsection (2)(b) have not been complied with.
+  (a) notification of the date of expiry has been sent under subsection (2)﻿(a); and
+  (b) the conditions referred to in subsection (2)﻿(b) have not been complied with.
 
 ### 60 Status of trade mark removed from register for non-payment of renewal fee
 (1) A trade mark that has been removed from the register for non-payment of the renewal fee must be taken into account for a period of 1 year after the date of expiry of the registered trade mark when determining the registrability of a later application.
@@ -560,14 +560,14 @@ The Commissioner may, on the application of an aggrieved person or on the Commis
     (ii) a period of 2 years or more has elapsed since the expiry of the patent; and
     (iii) the word is or the words are the only practicable name or description of the article, substance, or service:
   (e) that, in consequence of the trade mark's use by the owner or with the owner's consent in relation to the goods or services in respect of which the trade mark is registered, the trade mark is likely to deceive or confuse the public, for instance as to the nature, quality, or geographical origin of those goods or services.
-(1A) For the purposes of subsection (1)(a), continuous period means a period that commences from a date after the actual date of registration and continues uninterrupted up to the date 1 month before the application for revocation.
+(1A) For the purposes of subsection (1)﻿(a), continuous period means a period that commences from a date after the actual date of registration and continues uninterrupted up to the date 1 month before the application for revocation.
 (2) However, despite subsection (1), a trade mark may not be revoked for its non-use if its non-use is due to special circumstances that are outside the control of the owner of the trade mark.
-(3) The registration of a trade mark must not be revoked on the ground in subsection (1)(a) if that use is commenced or resumed after the expiry of the 3-year period and before the application for revocation is made.
+(3) The registration of a trade mark must not be revoked on the ground in subsection (1)﻿(a) if that use is commenced or resumed after the expiry of the 3-year period and before the application for revocation is made.
 (4) Any commencement or resumption of use referred to in subsection (3) after the expiry of the 3-year period but within the period of 1 month before the making of the application for revocation must be disregarded unless preparation for the commencement or resumption began before the owner became aware that the application may be made.
 
 ### 67 Onus of proof for revocation of registration of trade mark for non-use
-If an owner or a licensee intends to oppose an application for the revocation of the registration of a trade mark under section 66(1)(a), the owner or the licensee must, within the period specified by the Commissioner or the court,—
-  (a) provide proof of the use of the trade mark if the ground in section 66(1)(a) forms the basis for the application; or
+If an owner or a licensee intends to oppose an application for the revocation of the registration of a trade mark under section 66(1)﻿(a), the owner or the licensee must, within the period specified by the Commissioner or the court,—
+  (a) provide proof of the use of the trade mark if the ground in section 66(1)﻿(a) forms the basis for the application; or
   (b) raise the special circumstances that justify the non-use of the trade mark if section 66(2) applies.
 
 ### 68 Revocation of registration of trade mark
@@ -582,7 +582,7 @@ If an owner or a licensee intends to oppose an application for the revocation of
 The owner of a trade mark may disclaim any right to the exclusive use of any part of the trade mark.
 
 ### 70 Disclaimer of trade mark as condition of not revoking its registration
-If the grounds specified in section 66(1)(c) or (d) exist, the Commissioner or the court may, as a condition of the registration of a trade mark not being revoked, require the owner of the trade mark to disclaim any right to the exclusive use of a word or words in relation to any goods or services.
+If the grounds specified in section 66(1)﻿(c) or (d) exist, the Commissioner or the court may, as a condition of the registration of a trade mark not being revoked, require the owner of the trade mark to disclaim any right to the exclusive use of a word or words in relation to any goods or services.
 
 ### 71 Disclaimer of trade mark for public interest reasons
 If, in determining whether a trade mark is to be registered or is to remain on the register, the Commissioner or the court considers that there are public interest reasons for doing so, the Commissioner or the court may require, as a condition of its being on the register, that the owner—
@@ -596,7 +596,7 @@ A disclaimer on the register affects only those rights of the owner of a trade m
 
 ### 73 Invalidity of registration of trade mark
 (1) The Commissioner or the court may, on the application of an aggrieved person (which includes a person who is culturally aggrieved), declare that the registration of a trade mark is invalid to the extent that the trade mark was not registrable under Part 2 at the deemed date of its registration.
-(2) Despite subsection (1), the registration of a trade mark that has acquired a distinctive character after its registration must not be declared invalid even though the trade mark was not registrable under section 18(1)(b), (c), or (d) at the deemed date of its registration.
+(2) Despite subsection (1), the registration of a trade mark that has acquired a distinctive character after its registration must not be declared invalid even though the trade mark was not registrable under section 18(1)﻿(b), (c), or (d) at the deemed date of its registration.
 (3) The Commissioner or the court, as the case may be, may refuse any application for a declaration of invalidity that is vexatious.
 
 ### 74 Effect of declaration of invalidity
@@ -634,6 +634,11 @@ After the actual date of registration of a trade mark, the Commissioner may,—
     (i) enter a memorandum that relates to the trade mark, provided that the memorandum does not in any way extend the rights given by the existing registration of the trade mark; or
     (ii) alter a memorandum, provided that the alteration does not in any way extend the rights given by the existing registration of the trade mark; or
     (iii) remove a memorandum, provided that the removal does not in any way extend the rights given by the existing registration of the trade mark.
+
+### 78A Alteration of register concerning certain inconsistent information
+(1) This section applies if information in the register relating to a person is inconsistent with primary business data of that person in the New Zealand Business Number Register.
+(2) If this section applies, the Commissioner may, in the prescribed manner (if any), alter the information in the register so that it is consistent with the primary business data in the New Zealand Business Number Register.
+(3) In this section, primary business data has the same meaning as in section 20(2) of the New Zealand Business Number Act 2016.
 
 **Alteration of certification trade mark regulations**
 
@@ -766,7 +771,7 @@ A trade mark registered in respect of goods is not infringed by its use in relat
   (a) by the owner:
   (b) with the owner’s express or implied consent:
   (c) by an associated person of the owner.
-(2) For the purposes of subsection (1)(c), a person is an associated person of the owner if—
+(2) For the purposes of subsection (1)﻿(c), a person is an associated person of the owner if—
   (a) they are in the same group of companies; or
   (b) they are both bodies corporate and they consist of substantially the same members or are directly or indirectly under the control of the same persons; or
   (c) either of them has effective control of the other's use of the trade mark; or
@@ -889,7 +894,7 @@ If the court decides that no order should be made under section 110, the person 
 
 ### 118 Application of Sentencing Act 2002
 If a person is convicted of an offence against any of sections 120 to 124 in circumstances where that offence involves the making of profit or gain,—
-  (a) that offence is deemed to have caused a loss of property for the purposes of section 32(1)(a) and (c) of the Sentencing Act 2002; and
+  (a) that offence is deemed to have caused a loss of property for the purposes of section 32(1)﻿(a) and (c) of the Sentencing Act 2002; and
   (b) the provisions of that Act that relate to the imposition of the sentence of reparation apply accordingly.
 
 ### 119 Liability of officers of body corporate
@@ -919,7 +924,7 @@ If a body corporate is convicted of an offence against any of sections 120 to 12
   (a) is applied to the goods themselves; or
   (b) is applied to a covering, label, reel, or thing in or with which the goods are sold or exposed or had in possession for a purpose of trade or manufacture; or
   (c) is used in a manner likely to lead a person to believe that it refers to, describes, or designates the goods or services.
-(5) For the purposes of subsection (4)(b),—
+(5) For the purposes of subsection (4)﻿(b),—
   - **covering** includes a stopper, glass, bottle, vessel, box, capsule, case, frame, or wrapper
   - **label** includes a band or ticket.
 
@@ -1049,9 +1054,9 @@ An enforcement officer must, to the extent that is reasonably practicable, promo
   (d) take photographs or sound or video recordings of the place, and of any thing found in that place, if the enforcement officer has reasonable grounds to believe that the photographs or sound or video recordings may be relevant in any proceedings (including future proceedings) related to the entry and examination:
   (e) take any person to the place to assist him or her with the examination.
 (2) A person who assists an enforcement officer exercising the power of entry and examination may, under the direction of the enforcement officer,—
-  (a) exercise any of the powers described in subsection (1)(a), (c), and (d); and
+  (a) exercise any of the powers described in subsection (1)﻿(a), (c), and (d); and
   (b) seize any thing that the enforcement officer determines may lawfully be seized.
-(3) If an enforcement officer enters and examines a place under section 134D(1)(c) and the occupier revokes his or her consent, the officer and any person assisting the enforcement officer must immediately stop the examination and leave the place.
+(3) If an enforcement officer enters and examines a place under section 134D(1)﻿(c) and the occupier revokes his or her consent, the officer and any person assisting the enforcement officer must immediately stop the examination and leave the place.
 (4) Subsection (3) is subject to subsection (5).
 (5) The enforcement officer may, before leaving the place, seize any thing already identified by him or her before the revocation of consent as a thing that he or she has reasonable grounds to believe is evidence of, or of significant relevance to the investigation of, an offence under this Act.
 (6) If a constable assists an enforcement officer, nothing in this section prevents that constable from exercising any power ordinarily exercisable by him or her.
@@ -1113,7 +1118,7 @@ An enforcement officer must, to the extent that is reasonably practicable, promo
   (g) the period during which the warrant may be executed, being—
     (i) a period specified by the issuing officer not exceeding 14 days from the date of issue; or
     (ii) if the issuing officer is satisfied that a period of longer than 14 days is necessary for execution, a period specified by the issuing officer not exceeding 30 days from the date of issue:
-  (h) any conditions specified by the issuing officer under subsection (3)(b):
+  (h) any conditions specified by the issuing officer under subsection (3)﻿(b):
   (i) if the warrant may be executed on more than 1 occasion, the number of times that the warrant may be executed.
 
 ### 134J Transmission of search warrant
@@ -1146,7 +1151,7 @@ A search warrant is executed when the person executing the warrant—
 (2) The person executing the warrant may, in a manner and for the duration that is reasonable for the purposes of carrying out the search,—
   (a) secure the place or thing searched, any area within that place or thing, or any thing found within that place or thing; and
   (b) exclude any person from the place or thing searched, or from any area within the place or thing, or give any other reasonable direction to such a person, if the person carrying out the search has reasonable grounds to believe that the person will obstruct or hinder the exercise of the power.
-(3) The powers conferred by this section are subject to any conditions imposed under section 134I(3)(b).
+(3) The powers conferred by this section are subject to any conditions imposed under section 134I(3)﻿(b).
 (4) Section 198B of the Summary Proceedings Act 1957 applies with all necessary modifications as if for each reference to a constable there were substituted a reference to the person authorised to execute the search warrant.
 
 ### 134N Powers of persons called to assist
@@ -1191,8 +1196,8 @@ A search warrant is executed when the person executing the warrant—
   (a) subsection (2) applies; or
   (b) following a request, the person present refuses entry or does not allow entry within a reasonable time.
 (4) If the occupier is not present at any time during the exercise of a power of entry and search, the person carrying out the search must,—
-  (a) on completion of the search, leave a copy of the authority referred to in subsection (1)(b)(i) and the notice referred to in subsection (5) in a prominent position at the place or on the thing; or
-  (b) if this is not reasonably practicable, provide the copy of the authority referred to in subsection (1)(b)(i) and the notice referred to in subsection (5) to the occupier no later than 7 days after the execution of the warrant.
+  (a) on completion of the search, leave a copy of the authority referred to in subsection (1)﻿(b)﻿(i) and the notice referred to in subsection (5) in a prominent position at the place or on the thing; or
+  (b) if this is not reasonably practicable, provide the copy of the authority referred to in subsection (1)﻿(b)﻿(i) and the notice referred to in subsection (5) to the occupier no later than 7 days after the execution of the warrant.
 (5) The notice required by subsection (4) is a written notice containing the following particulars:
   (a) the date and time of the commencement and completion of the search:
   (b) the name or unique identifier of the person who had overall responsibility for that search:
@@ -1205,14 +1210,14 @@ A search warrant is executed when the person executing the warrant—
 ### 134Q Inventory of things seized
 (1) A person who exercises a power of entry and search or a power of entry and examination must, at the time he or she seizes any thing, or as soon as practicable after the seizure of any thing, and in any case not later than 7 days after that seizure, provide to the occupier, and to every other person whom the person who carried out the search or examination has reason to believe is the owner of the thing that was seized,—
   (a) written notice specifying what was seized; and
-  (b) a copy of the authority referred to in section 134P(1)(b)(i).
-(2) A written notice referred to in subsection (1)(a)—
+  (b) a copy of the authority referred to in section 134P(1)﻿(b)﻿(i).
+(2) A written notice referred to in subsection (1)﻿(a)—
   (a) must contain information about the extent to which a person from whom a thing was seized or the owner of the thing has a right—
     (i) to have access to the thing; and
     (ii) to have access to any document relating to the application for a search warrant or the exercise of the power of entry and examination that led to the seizure; and
   (b) must contain information about the right to bring a claim that any privileged or confidential information has been seized; but
   (c) need not be provided to the occupier if the person who carries out the search or examination is satisfied that none of the things seized are owned by the occupier.
-(3) If the occupier is not present at the time of seizure, the written notice referred to in subsection (1)(a) and a copy of the authority referred to in section 134P(1)(b)(i) may be provided to the occupier by leaving the notice in a prominent position at the place or on the thing.
+(3) If the occupier is not present at the time of seizure, the written notice referred to in subsection (1)﻿(a) and a copy of the authority referred to in section 134P(1)﻿(b)﻿(i) may be provided to the occupier by leaving the notice in a prominent position at the place or on the thing.
 (4) A person who exercises a power of entry and search or a power of entry and examination must make reasonable inquiries for the purposes of complying with subsections (1) and (2).
 (5) Subsection (1) is subject to subsections (2) and (3).
 (6) This section is subject to sections 134R and 134S.
@@ -1262,8 +1267,8 @@ A search warrant is executed when the person executing the warrant—
   (c) if a person is convicted of an offence to which the thing relates,—
     (i) that the thing be forfeited to the trade mark owner; or
     (ii) that the thing be destroyed or otherwise disposed of as the court directs at the expense of the convicted person.
-(2) In considering what order, if any, should be made under subsection (1)(c)(ii), the court must consider the need to ensure that no infringing goods are disposed of in a manner that would adversely affect the owner of the registered trade mark.
-(3) If the court makes an order under subsection (1)(c), it may order that the convicted person pay any reasonable costs incurred by the Commissioner of Police or chief executive in retaining the thing for the purpose of the proceedings.
+(2) In considering what order, if any, should be made under subsection (1)﻿(c)﻿(ii), the court must consider the need to ensure that no infringing goods are disposed of in a manner that would adversely affect the owner of the registered trade mark.
+(3) If the court makes an order under subsection (1)﻿(c), it may order that the convicted person pay any reasonable costs incurred by the Commissioner of Police or chief executive in retaining the thing for the purpose of the proceedings.
 (4) If no order for delivery, forfeiture, destruction, or other disposal is made in respect of a thing seized and retained for the purpose of proceedings, it must, on completion of the proceedings, be returned by the Commissioner of Police or the chief executive to the person entitled to it.
 (5) The Commissioner of Police or chief executive may apply to the court for an order for directions as to the disposal of the thing if—
   (a) the person who is entitled to it cannot be found; or
@@ -1371,7 +1376,7 @@ In this subpart and section 204, unless the context otherwise requires,—
 **Notice of infringing sign**
 
 ### 136 Application of sections 137 to 141
-Nothing in sections 137 to 141 applies in relation to any infringing sign that has been applied to goods that are put on the market anywhere in the world under any 1 or more of the circumstances referred to in section 97A(1)(a) to (c).
+Nothing in sections 137 to 141 applies in relation to any infringing sign that has been applied to goods that are put on the market anywhere in the world under any 1 or more of the circumstances referred to in section 97A(1)﻿(a) to (c).
 
 ### 137 Notice may be given to chief executive
 A person who is the owner of a registered trade mark may give a notice in writing to the chief executive that—
@@ -1382,7 +1387,7 @@ A person who is the owner of a registered trade mark may give a notice in writin
 (1) A notice under section 137 must—
   (a) contain particulars in support of the request as may be prescribed; and
   (b) specify the period for which the notice is to be in force.
-(2) The period referred to in subsection (1)(b) must be—
+(2) The period referred to in subsection (1)﻿(b) must be—
   (a) not longer than 5 years from the date of the notice; or
   (b) if the registration of the trade mark to which the notice relates will expire within the period of 5 years from the date of the notice, not longer than the period for which the current registration will last.
 
@@ -1410,7 +1415,7 @@ The chief executive must, in relation to any notice given under section 137,—
   (b) by posting it to the most recent address for that person that has been notified to the chief executive.
 
 ### 139B Notice of suspension
-(1) If the chief executive decides to suspend an accepted notice, the chief executive must give written notice of the suspension to the person referred to in section 139A(2)(a).
+(1) If the chief executive decides to suspend an accepted notice, the chief executive must give written notice of the suspension to the person referred to in section 139A(2)﻿(a).
 (2) The notice of suspension may be given—
   (a) by delivering it to that person; or
   (b) by posting it to the most recent address for that person that has been notified to the chief executive.
@@ -1469,8 +1474,8 @@ The detention of any goods under section 149 is not rendered illegal by a failur
   (c) any proceedings under section 153 in respect of those goods (including any appeal) are determined by a decision that the goods are not goods on or in physical relation to which an infringing sign is used that have been imported other than for private and domestic use; or
   (d) any proceedings under section 153 in respect of those goods, including any appeal, are abandoned; or
   (e) 10 working days have elapsed since notice was served under section 147 and the chief executive has not been served with notice of proceedings brought under section 153 by a person other than the importer or consignee.
-(2) Subject to section 150, on the occurrence of any of the matters specified in subsection (1)(a) to (e), the goods must be released to the person entitled to them.
-(3) The chief executive may, in any particular case, extend the period referred to in subsection (1)(e) to 20 working days if he or she considers it appropriate to do so in all the circumstances.
+(2) Subject to section 150, on the occurrence of any of the matters specified in subsection (1)﻿(a) to (e), the goods must be released to the person entitled to them.
+(3) The chief executive may, in any particular case, extend the period referred to in subsection (1)﻿(e) to 20 working days if he or she considers it appropriate to do so in all the circumstances.
 
 ### 150 When detained goods may be released
 The chief executive or any Customs officer must release any goods under section 149 if—
@@ -1981,6 +1986,7 @@ Section 197 does not apply to—
   (g) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of the register and its operation, including matters relating to—
     (i) access to the register:
     (ii) the location of and hours of access to the register:
+  (ga) prescribing the manner in which the Commissioner may alter the register under section 78A, including prescribing procedures, requirements, and other matters in respect of an alteration:
   (h) prescribing matters in respect of which fees are payable under this Act and the amounts of those fees:
   (i) prescribing time and extensions of time in respect of any matters under this Act:
   (j) prescribing forms for the purposes of this Act; and those regulations may require—
@@ -2029,7 +2035,7 @@ The Acts specified in the Schedule are amended in the manner indicated in that s
   (b) an application for the alteration, renewal, assignment, expunction, or cancellation of a registered trade mark that was received by the Commissioner before the commencement of this Act:
   (c) any proceedings that were commenced under that Act before the commencement of this Act.
 (2) This section does not apply to applications in respect of defensive trade marks.
-(3) Subsection (1)(a) does not apply in respect of an assignment or transmission of an application for the registration of a trade mark under section 12.
+(3) Subsection (1)﻿(a) does not apply in respect of an assignment or transmission of an application for the registration of a trade mark under section 12.
 
 ### 204 Transitional provision for notices given under section 54B of Trade Marks Act 1953
 If, before the commencement of this Act, an owner of a registered trade mark gave a notice to the chief executive under section 54B of the Trade Marks Act 1953,—
@@ -2052,13 +2058,13 @@ An Order in Council made under section 72 of the Trade Marks Act 1953 has effect
   (a) is deemed to be registered under this Act as a trade mark, whether registered in Part A or Part B of the register; and
   (b) retains its original date of registration; and
   (c) retains its existing registration period, under the Trade Marks Act 1953, of 7 or 14 years, as the case may be, but, at the expiration of that registration period, section 58 applies.
-(4) A trade mark that was registered under the Trade Marks Act 1953, other than a defensive trade mark, within the period of 5 years before the coming into force of this Act, cannot be revoked under section 66(1)(a) until 5 years after its actual date of registration.
-(5) For the purposes of section 66(1)(b), the uninterrupted period of suspension of use is 5 years (not 3) if all the following apply:
+(4) A trade mark that was registered under the Trade Marks Act 1953, other than a defensive trade mark, within the period of 5 years before the coming into force of this Act, cannot be revoked under section 66(1)﻿(a) until 5 years after its actual date of registration.
+(5) For the purposes of section 66(1)﻿(b), the uninterrupted period of suspension of use is 5 years (not 3) if all the following apply:
   (a) the trade mark was registered under the Trade Marks Act 1953; and
   (b) the trade mark is not a defensive trade mark; and
   (c) the uninterrupted period of suspension of use began within the period of 5 years before this Act came into force.
-(6) A trade mark that was registered under the Trade Marks Act 1953, other than a defensive trade mark, may be revoked under section 66(1)(a) or (b) after the periods specified in subsections (4) and (5) have elapsed.
-(7) A trade mark that was registered as a defensive trade mark under the Trade Marks Act 1953 cannot be revoked under section 66(1)(a) or (b) until 3 years after the coming into force of this Act.
+(6) A trade mark that was registered under the Trade Marks Act 1953, other than a defensive trade mark, may be revoked under section 66(1)﻿(a) or (b) after the periods specified in subsections (4) and (5) have elapsed.
+(7) A trade mark that was registered as a defensive trade mark under the Trade Marks Act 1953 cannot be revoked under section 66(1)﻿(a) or (b) until 3 years after the coming into force of this Act.
 
 ### 209 Status of notes, etc, on register before commencement of Act
 (1) Notes on the register that indicate that a trade mark is associated with another trade mark cease to have effect on the commencement of this Act.
