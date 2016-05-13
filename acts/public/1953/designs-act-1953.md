@@ -1,5 +1,5 @@
 # Designs Act 1953
-_Consolidation as at 2014-09-13_
+_Consolidation as at 2016-05-13_
 
 > An Act to consolidate and amend certain enactments relating to designs
 
@@ -270,6 +270,11 @@ Nothing in sections 25 to 27 affects the operation of the Personal Property Secu
 (4) Within the prescribed time after any such advertisement as aforesaid, any person interested may give notice to the Commissioner of opposition to the request, and where any such notice of opposition is given the Commissioner shall give notice thereof to the person by whom the request was made, and shall give to him and to the opponent an opportunity to be heard before he decides the case.
 (5) An appeal to the court shall lie from any decision of the Commissioner under this section.
 
+### 29A Power of Commissioner to alter certain inconsistent information
+(1) This section applies if information in the register of designs relating to a person is inconsistent with primary business data relating to that person in the New Zealand Business Number Register.
+(2) If this section applies, the Commissioner may, in the prescribed manner (if any), alter the information in the register of designs so that it is consistent with the primary business data in the New Zealand Business Number Register.
+(3) In this section, primary business data has the same meaning as in section 20(2) of the New Zealand Business Number Act 2016.
+
 ### 30 Inspection of registered designs
 (1) Subject to the following provisions of this section and to any regulations made in pursuance of subsection (2) of section 9, the representation or specimen of a design registered under this Act shall be open to inspection by the public on and after the day on which the certificate of registration is issued.
 (2) In the case of a design registered in respect of an article of any class prescribed for the purposes of this subsection, no representation or specimen of the design filed in pursuance of the application shall, until the expiration of such period after the day on which the certificate of registration is issued as may be prescribed in relation to articles of that class, be open to inspection by the public except by the registered proprietor, a person authorized in writing by the registered proprietor, or a person authorized by the Commissioner or by the court:
@@ -480,6 +485,7 @@ Where by this Act any act has to be done by or to any person in connection with 
   (cc) for regulating the procedure to be followed in connection with a request to the Commissioner under sections 41G to 41J (including providing for when and how requests must be made, the period for giving notice of opposition, and the matters referred to in section 41J(2)):
   (d) for regulating the procedure to be followed in connection with any application or request to the Commissioner or in connection with any proceeding before the Commissioner and for authorizing the rectification of irregularities of procedure:
   (e) for regulating the keeping of the register of designs:
+  (ea) for regulating the manner in which the Commissioner may alter information in the register of designs under section 29A, including prescribing procedures, requirements, and other matters in respect of an alteration:
   (f) for authorizing the publication and sale of copies of representations of designs and other documents in the Intellectual Property Office of New Zealand:
   (g) for prescribing classes of persons whom the Commissioner may refuse to recognize as agents in respect of proceedings under this Act:
   (h) for prescribing matters to be published in the Journal:
