@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2016-04-01_
+_Consolidation as at 2016-05-13_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -45,7 +45,9 @@ _Consolidation as at 2016-04-01_
     (a) is defined in section 82(9) for the purposes of that section:
     (b) is defined in section 83(7) for the purposes of that section:
     (c) is defined in section 84(6) for the purposes of that section:
-    (d) is defined in section 85(6) for the purposes of that section
+    (d) is defined in section 85(6) for the purposes of that section:
+    (e) is defined in section 81(8)﻿(aa) for the purposes of section 81(4)﻿(y):
+    (f) is defined in section 82AA(3) for the purposes of that section
   - **authorised savings institution** , in section 56, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **award** is defined in section 130(6) for the purposes of that section
   - **bank** is defined in section 157(10) for the purposes of that section
@@ -3233,7 +3235,10 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (u) communicating to a person's fund provider under section 220B of the KiwiSaver Act 2006 any information specified in that section for the purposes set out in the section:
   (v) communicating to the chief executive, or an authorised employee, of Land Information New Zealand under section 156J of the Land Transfer Act 1952 any information specified in subsection (1) of that section for the purpose set out in that subsection:
   (w) communicating to an officer, employee, or agent of Callaghan Innovation, information for the purpose of administering subpart MX of the Income Tax Act 2007:
-  (x) communicating to an officer, employee, or agent of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Research, Science, and Technology Act 2010, information for the purpose of administering subpart MX of the Income Tax Act 2007.
+  (x) communicating to an officer, employee, or agent of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Research, Science, and Technology Act 2010, information for the purpose of administering subpart MX of the Income Tax Act 2007:
+  (y) communicating to a person who is an authorised officer of the department for the time being responsible for the New Zealand Business Number Act 2016 any information that is—
+    (i) primary business data (as defined in section 20(2) of the New Zealand Business Number Act 2016) for inclusion in the New Zealand Business Number Register; or
+    (ii) communicated for the purposes of section 82AA.
 (5) For the purposes of this section, unless the context otherwise requires, every reference to the New Zealand Superannuation Act 1974 shall be deemed to include a reference to Part 1 of the Superannuation Schemes Act 1976, and every reference to the New Zealand Superannuation Corporation shall be deemed to include a reference to the National Provident Fund Board in relation to its functions under Part 1 of the Superannuation Schemes Act 1976.
 (6) In this section, unless the context otherwise requires, legal personal representative, in relation to any person, means—
   (a) the executor, original or by representation, or an administrator for the time being of a deceased person:
@@ -3241,6 +3246,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (c) any other person who by order of court administers the estate of any person.
 (7) In this section tax or duty, taxes or duties, and tax and duty include any financial support within the meaning of the Child Support Act 1991 and any amount payable under the Student Loan Scheme Act 2011.
 (8) In this section,—
+  (aa) in subsection (4)﻿(y), authorised officer, in relation to the responsible department, means any officer, employee, or agent of that department who is authorised by the chief executive of that department to receive information supplied by the Commissioner under this section:
   (a) Inland Revenue officer,—
     (i) means a person who is employed in the service of Inland Revenue; and
     (ii) includes—
@@ -3333,6 +3339,11 @@ Despite any other enactment in the Inland Revenue Acts, the Commissioner may sup
     (a) compensation payable under the Accident Compensation Act 1982; and
     (b) any compensation for loss of earnings payable under sections 38, 39, and 43 of the Accident Rehabilitation and Compensation Insurance Act 1992, and any vocational rehabilitation allowance payable under section 25 of that Act, and any compensation for loss of potential earning capacity payable under section 45 or section 46 of that Act, and any weekly compensation payable under section 58, section 59, or section 60 of that Act, and any payments continued to be paid under section 137, section 138, or section 145 of that Act (excluding any payments continued under section 143 of that Act in relation to section 68 of the Accident Compensation Act 1982):
     (c) any weekly compensation payable under the Accident Insurance Act 1998 or the Accident Compensation Act 2001.
+
+### 82AA Disclosure to ensure correct information included in New Zealand Business Number Register
+(1) This section authorises the exchange of information between the Inland Revenue Department and the department for the time being responsible for the administration of the New Zealand Business Number Act 2016 to ensure that the correct primary business data (as defined in section 20(2) of the New Zealand Business Number Act 2016) for businesses and New Zealand Business Numbers is provided for inclusion in the New Zealand Business Number Register.
+(2) For the purposes of subsection (1), the Commissioner may supply an authorised officer of the department for the time being responsible for the administration of the New Zealand Business Number Act 2016 information concerning primary business data to verify the correctness of the information to be included in the New Zealand Business Number Register.
+(3) In this section, authorised officer, in relation to the responsible department, means any officer, employee, or agent of that department who is authorised by the chief executive of that department to receive information supplied by the Commissioner under this section.
 
 ### 82A Disclosure of information to prevent cessation of benefit payments
 (1) This section authorises the exchange of information between the Inland Revenue Department and the department for the time being responsible for the administration of the Social Security Act 1964 to ensure the provision of correct tax file numbers of beneficiaries so as to prevent the cessation of benefit payments.
