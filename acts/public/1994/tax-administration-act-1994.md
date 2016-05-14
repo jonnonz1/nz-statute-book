@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2016-05-13_
+_Consolidation as at 2016-05-14_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1156,7 +1156,8 @@ An information holder who is required to disclose information in relation to a p
   (ec) is a listed research provider under section LH 15 of that Act:
   (ed) is an employer to whom section RD 13B of that Act applies in relation to the treatment of a tax credit for a payroll donation:
   (f) is a company that is an ICA company, a FDPA company, a BETA person, a PCA company, or a PCA person:
-  (fb) is a resident foreign trustee of a foreign trust in any income year,—
+  (fb) is a resident foreign trustee of a foreign trust in any income year:
+  (fc) is a borrower under section 4(1) of the Student Loan Scheme Act 2011 who has adjusted net income as defined in section 73 of that Act,—
   (g) the assessable income derived by that person from the carrying on of that business, or the carrying on of that other activity, or the making or holding or disposing of that investment; and
   (h) the deductions of that person in the carrying on of that business, or the carrying on of that other activity, or the making or holding or disposing of that investment; and
   (i) every fringe benefit, and the taxable value of every fringe benefit, provided by the person to any person in relation to whom the person is an employer, and every fringe benefit provided by the person to any person who in relation to another person is an employee, those records to include (without limiting the generality of the preceding provisions of this paragraph) details of the recipient of the fringe benefit, the occasion of the providing of it, and the amount (if any) paid or payable by the employee for the receipt or enjoyment of it; and
@@ -1171,7 +1172,8 @@ An information holder who is required to disclose information in relation to a p
   (l) every employer's superannuation cash contribution, and the taxable value of that contribution, made by the person to any superannuation fund, those records to include (without limiting the generality of the preceding provisions of this paragraph) details of the recipient of the employer's superannuation cash contribution, the occasion of making it, and any related tax credit under section MK 1(2) of the Income Tax Act 2007; and
   (lb) every retirement scheme contribution, and the taxable value of that contribution, made by the person to any retirement savings scheme, those records to include, without limiting the generality of the preceding provisions of this paragraph, details of the recipient of the retirement scheme contribution and the occasion of making it; and
   (lc) the person’s compliance with Part 11B; and
-  (m) the financial position of the foreign trust,—
+  (m) the financial position of the foreign trust; and
+  (n) adjusted net income under the Student Loan Scheme Act 2011,—
 (2BA) A taxpayer required by subsection (2) to keep and retain a record must keep and retain the record—
   (a) in English, or in a language in which the Commissioner authorises the taxpayer under subsection (8) to keep the record or the type of record; and
   (b) at a place in New Zealand, or at a place outside New Zealand where—
@@ -1265,7 +1267,10 @@ An information holder who is required to disclose information in relation to a p
 
 ### 24BA Offshore persons’ bank accounts and tax file numbers
 (1) The Commissioner must not allocate a tax file number in response to an offshore person’s request unless the Commissioner first receives a current bank account number for the offshore person.
-(2) A person must give their current bank account number to the Commissioner immediately if—
+(1B) Subsection (1) does not apply to a person who requires a tax file number only because they are a non-resident supplier of goods and services under the Goods and Services Tax Act 1985.
+(1C) Subsection (1) does not apply to a person for whom a reporting entity under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 has conducted the customer due diligence procedures required for customer due diligence under that Act and regulations made under that Act.
+(1D) Despite subsection (1) and section 24B(3), a non-resident seasonal worker under the recognised seasonal employer (RSE) instructions has a tax code of NSW for the first month of a period of employment in New Zealand.
+(2) A person to whom subsection (1) applies must give their current bank account number to the Commissioner immediately if—
   (a) the person has a tax file number; and
   (b) the person becomes, after 1 October 2015, an offshore person under paragraph (b) of the definition of offshore person; and
   (c) the person has not yet provided their current bank account number to the Commissioner.
@@ -1278,7 +1283,7 @@ An information holder who is required to disclose information in relation to a p
   (a) an extra pay:
   (b) a schedular payment:
   (c) a payment of an income-tested benefit.
-(3) An employee must notify their employer that their tax code is 1 of the following:
+(3) Except as provided by section 24BA(1D), an employee must notify their employer that their tax code is 1 of the following:
   (a) M for primary employment earnings when the employee is not entitled to a tax credit under section LC 13 of the Income Tax Act 2007:
   (ab) ME for primary employment earnings when the employee is entitled to a tax credit under section LC 13 of the Income Tax Act 2007:
   (b)
@@ -3202,6 +3207,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (g) communicating to an authorised person under section 207 of the Student Loan Scheme Act 2011 any information specified in subsection (1) or (2) of that section in accordance with subsection (1) of that section:
   (gb) communicating to the chief executive of the New Zealand Customs Service under section 208 of the Student Loan Scheme Act 2011 any information specified in subsection (2) of that section for the purpose set out in subsection (1) of that section:
   (gba) communicating to a contact person (within the meaning of section 193A of the Student Loan Scheme Act 2011), for the purposes of a request under that section, any information required to be communicated by that section:
+  (gbb) communicating to a person referred to in section 209A(2) of the Student Loan Scheme Act 2011 any information specified in subsection (3) of that section for the purposes set out in subsection (1) of that section:
   (gc) communicating to any authorised person (as defined in section 98(1) of the Criminal Proceeds (Recovery) Act 2009) any information required for the purpose specified in subsection (2)﻿(b) of that section:
   (h) communicating to any officer or employee or agent of any of the State Services any information in relation to the processing of information, data, documents, or any other matter necessary for the effective administration of the Inland Revenue Acts (including all Acts at any time administered by or in the department) or any other function that may from time to time be lawfully conferred on the Commissioner:
   (i) communicating to any person, or employee of that person, being a person engaged by the Commissioner for the performance of services necessary for the effective administration of the Inland Revenue Acts (including all Acts at any time administered by or in the department) or any other function that may from time to time be lawfully conferred on the Commissioner, such information as the Commissioner considers necessary for the performance of those services:
