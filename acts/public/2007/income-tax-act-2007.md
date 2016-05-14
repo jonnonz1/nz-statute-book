@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2016-05-13_
+_Consolidation as at 2016-05-14_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -2690,7 +2690,7 @@ General rule
     (ii) the person includes, in a return for the year, FIF income or loss from an attributing interest in a FIF:
     (iii) the person has, in the return for 1 of the preceding 4 income years (the earlier year), included FIF income or loss from attributing interests in FIFs with a total cost of $50,000 or less, calculated under section EX 68, at all times in the earlier year; and
   (f) at any time in the year, the person is a New Zealand resident who is not a transitional resident and holds the attributing interest; and
-  (g) under the relevant calculation method chosen by the person, an income amount is calculated for the year under sections EX 44 to EX 56(which relate to the calculation of FIF income or loss), EX 60 or EX 61 (which relate to top-up FIF income).
+  (g) under the relevant calculation method chosen by the person, an income amount is calculated for the year under sections EX 44 to EX 56 (which relate to the calculation of FIF income or loss), EX 60 or EX 61 (which relate to top-up FIF income).
 Treatment of transaction under section EX 63, EX 65, or EX 67
 (1B) If a person is treated under section EX 63(5), EX 65, or EX 67 (which relate to changes in method or application of FIF rules) as disposing of or acquiring rights in an income year, the disposal or acquisition is ignored for the purposes of subsection (1)﻿(d) and (e).
 Look-through calculation methods
@@ -13513,7 +13513,7 @@ When this section applies
   (a) the petroleum miner has petroleum development expenditure for a well, the drilling of which stops in an income year, and, from the time of stopping, the well—
     (i) will never produce petroleum in commercial quantities; and
     (ii) is abandoned; and
-  (b) part of a deduction under section DT 5(Petroleum development expenditure) for the petroleum development expenditure described in paragraph (a) has not been allocated under section EJ 12 or EJ 12B.
+  (b) part of a deduction under section DT 5 (Petroleum development expenditure) for the petroleum development expenditure described in paragraph (a) has not been allocated under section EJ 12 or EJ 12B.
 Allocation
 (2) The part of the deduction described in subsection (1) is allocated to the income year.
 
@@ -14153,7 +14153,7 @@ Meaning of financial arrangements rules
 (2) Financial arrangements rules means—
   (a) the sections in this subpart; and
   (b) sections CC 3 (Financial arrangements), DB 11 to DB 15 (which relate to financial arrangements adjustments), EZ 51 (Transitional adjustment when changing to financial arrangements rules), FB 9 (Financial arrangements rules), GB 21 (Dealing that defeats intention of financial arrangements rules), RA 11 and RA 12 (which relate to adjustments to correct errors); and
-  (c) sections 90AA to 90ADof the Tax Administration Act 1994.
+  (c) sections 90AA to 90AD of the Tax Administration Act 1994.
 Purposes of financial arrangements rules
 (3) The purposes of the financial arrangements rules are—
   (a) to require the parties to a financial arrangement to accrue over the term of the arrangement a fair and reasonable amount of income derived or expenditure incurred under the arrangement, and so to prevent the deferral of income or the advancement of expenditure; and
@@ -30844,7 +30844,7 @@ Requirements for person
   (c) they must not be entitled under schedule 1, clause 4(3) of the KiwiSaver Act 2006 or an equivalent provision to withdraw an amount from the scheme or fund; and
   (d) they must reside mainly in New Zealand, or otherwise they must—
     (i) be an employee of the State services under the State Sector Act 1988 serving outside New Zealand; or
-    (ii) work overseas as a volunteer or for token payment for a charitable organisation named in regulations made under the Student Loan Scheme Act 2011 and the work meets 1 or more of the requirements in clause 2(1) of Schedule 1 of that Act.
+    (ii) work overseas as a volunteer or for token payment for a charity (within the meaning of section 4(1) of the Student Loan Scheme Act 2011) and the work meets 1 or more of the requirements in schedule 1, clause 2(1) of that Act.
 Evidence
 (2) For the purposes of subsection (1)﻿(d)﻿(i) and (ii), the person must give the fund provider written evidence that they meet the requirements, and of the period in which they meet the requirements.
 
