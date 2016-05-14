@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2016-05-13_
+_Consolidation as at 2016-05-14_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -35,7 +35,9 @@ The purposes of this Act are to—
     (a) a deduction from a borrower's salary or wages in accordance with section 39:
     (b) the amount of a standard deduction that exceeds the borrower's loan balance
   - **challenge** , for the purposes of subpart 5 of Part 4, has the same meaning as in section 3(1) of the Tax Administration Act 1994
-  - **charity** means a charitable organisation that is specified in regulations
+  - **charity** —
+    (a) means, for the purposes of section 25(1)﻿(b), an entity that is listed as a charity at the relevant time; and
+    (b) includes that entity’s international, national, and regional branches, offices, sections, organisations, affiliates, members, associations, and programmes at that relevant time
   - **chief executive** means the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 1964
   - **Commissioner** means the Commissioner of Inland Revenue as defined in section 3(1) of the Tax Administration Act 1994
   - **Commissioner deduction** means a deduction from a borrower's salary or wages in accordance with section 38
@@ -43,19 +45,20 @@ The purposes of this Act are to—
     (a) the loan balance; and
     (b) any unpaid amount; and
     (c) any interest calculated and accrued under section 135(1)
-  - **declaration of adjusted net income** means a declaration in accordance with section 74
   - **employer** has the same meaning as in paragraphs (a) and (b) of the definition of employer in section YA 1 of the Income Tax Act 2007
   - **employer or PAYE intermediary** means an employer or a person acting as a PAYE intermediary for the employer
   - **end-of-year repayment obligation** means the repayment obligation of a New Zealand-based borrower for the adjusted net income the borrower derives for a tax year, assessed in accordance with sections 76 and 76A and calculated in accordance with section 77 or 78
+  - **entity** means the trustees of a trust, a society, or an institution
   - **excess repayment** has the meaning given to it in section 119
   - **extra pay** has the same meaning as in section RD 7 of the Income Tax Act 2007
   - **formally notify** has the meaning given to it in section 213
   - **income tax** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **inform** has the meaning given to it in section 210
   - **interim payment** means the amount that a borrower is obliged to pay towards the next tax year's end-of-year repayment obligation in accordance with section 82 or 83 and section 84 or 85
-  - **late filing penalty** means a penalty imposed under section 155
+  - **late notification penalty** means a penalty imposed under section 155
   - **late payment interest** means interest that a borrower is liable to pay under section 139(1)
   - **lender** means the Crown acting by and through the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 1964
+  - **list** means, in relation to an entity, to include the entity as a charity in the list kept under section 27A
   - **loan advance** means all—
     (a) money that is advanced by the loan manager to a borrower under the student loan scheme; and
     (b) student loan establishment fees charged by the loan manager to the borrower under section 14; and
@@ -74,6 +77,11 @@ The purposes of this Act are to—
   - **loan contract** means any loan agreement or contract entered into by the lender and the borrower under the student loan scheme
   - **loan interest** means interest that a borrower is liable to pay under section 134(1)
   - **loan manager** means any person who is appointed by the lender to make, charge, and administer loan advances under the student loan scheme
+  - **main income equalisation account** has the same meaning as in section EH 36 of the Income Tax Act 2007
+  - **main income equalisation deposit** means a payment made to the Commissioner on or after 1 April 2014 under section EH 4 of the Income Tax Act 2007, for which a deduction is allowed under section DQ 1 of that Act
+  - **main income equalisation refund** means a refund under sections EH 8 to EH 26 of the Income Tax Act 2007, to the extent to which the refund—
+    (a) relates to a deposit made on or after 1 April 2014; and
+    (b) is not interest payable under section EH 6 of the Income Tax Act 2007
   - **new borrower** , in relation to a tax year, means—
     (a) a person who becomes a borrower for the first time under the student loan scheme in the period starting on 1 January of the tax year and ending on the close of the last day of the tax year; or
     (b) a person to whom all of the following apply:
@@ -115,6 +123,7 @@ The purposes of this Act are to—
     (b) does not include salary or wages from employment as—
       (i) a casual agricultural employee, as defined in section YA 1 of the Income Tax Act 2007; or
       (ii) an election day worker, as defined in section YA 1 of the Income Tax Act 2007
+  - **Schedule 3 adjustments** has the meaning given to it in section 73
   - **secondary employment earnings** has the same meaning as in section 3(1) of the Tax Administration Act 1994, except that it—
     (a) includes an extra pay; but
     (b) does not include—
@@ -133,6 +142,7 @@ The purposes of this Act are to—
     (b)
     (c) section 148 (special deduction rate certificate for hardship relief)
   - **standard deduction** means a deduction from a borrower's salary or wages in accordance with section 36(2)
+  - **statement of adjusted net income** and have the meaning given to them in section 73
   - **student loan** means any loan assistance provided to a borrower by means of a loan contract
   - **student loan scheme** means the scheme established by the Crown on 1 January 1992 to provide loan assistance to tertiary students, as amended from time to time
   - **student loan shortfall penalty** means a student loan shortfall penalty imposed on a borrower by the Commissioner under section 159
@@ -151,7 +161,7 @@ The purposes of this Act are to—
   (d) a consolidated loan balance that is payable as a result of a demand made under a loan contract:
   (e) any part of a loan advance or a loan balance that the Commissioner has recalled or demanded repayment of under section 204 of this Act or section 63N of the Student Loan Scheme Act 1992:
   (f) an amount that must be paid by a borrower in accordance with a written notification under section 52:
-  (g) a late filing penalty:
+  (g) a late notification penalty:
   (h) a student loan shortfall penalty:
   (i) an underestimation penalty.
 (2) In this section,—
@@ -405,6 +415,50 @@ If the Commissioner treats a borrower as being physically in New Zealand under s
   (b) specify either—
     (i) the start and end dates for the period for which the borrower is treated as being physically in New Zealand; or
     (ii) any conditions that must apply or be met in order for the borrower to be treated as being physically in New Zealand.
+
+### 27A Commissioner must keep and publish list of charities
+(1) The Commissioner must keep a list of entities that are charities for the purposes of section 25(1)﻿(b).
+(2) The list must specify—
+  (a) the date on and from which each entity’s listing as a charity applies; and
+  (b) if applicable, the date on which each entity’s listing as a charity ceases to apply.
+(3) The Commissioner must publish the list in a manner chosen by the Commissioner.
+
+### 27B When entity qualifies to be listed as charity
+(1) An entity qualifies to be listed as a charity under section 27A if the Commissioner is satisfied that—
+  (a) the entity is a tax charity under section CW 41(5) of the Income Tax Act 2007; or
+  (b) the entity meets the requirements of section 13(1)﻿(a) or (b) of the Charities Act 2005 and it is otherwise appropriate for the entity to be listed as a charity for the purposes of section 25(1)﻿(b).
+(2) In determining whether it is appropriate for the entity to be listed as a charity under subsection (1)﻿(b), the Commissioner may have regard to—
+  (a) the standing of the entity as a charitable organisation; and
+  (b) the entity’s systems and processes in monitoring and evaluating its charitable work; and
+  (c) any other matters the Commissioner considers relevant.
+
+### 27C Application by entity to be listed as charity
+(1) An entity may apply to be listed as a charity by—
+  (a) notifying the Commissioner in writing with a completed application in the form approved by the Commissioner; and
+  (b) notifying the Commissioner in writing with any other information required by the Commissioner.
+(2) The Commissioner may request further information from the applicant and obtain information relating to the applicant from other persons before deciding whether or not to list the applicant.
+(3) The Commissioner must list an applicant as a charity (by adding the applicant’s name to the list and a date on and from which the listing applies) if the entity qualifies for listing under section 27B.
+(4) The date on and from which the listing applies must not be earlier than the date of the entity’s application under this section.
+(5) If the Commissioner proposes to refuse to list an applicant as a charity, the Commissioner must—
+  (a) notify the applicant in writing of—
+    (i) the Commissioner’s reasons for the proposed decision; and
+    (ii) the period within which arguments against the proposed decision may be provided (which must be a period of at least 30 days after the date of the notice); and
+  (b) consider any arguments against the proposed decision that the applicant provides within that period.
+(6) The Commissioner must notify the applicant in writing of the final decision under this section.
+
+### 27D Commissioner may list tax charities even if no application made
+(1) The Commissioner may list an entity as a charity, even if there is no application under section 27C, if the entity is qualified under section 27B(1)﻿(a) (by adding the entity’s name to the list and a date on and from which the listing applies).
+(2) The date on and from which the listing applies must not be earlier than the date of the Commissioner’s decision under this section.
+
+### 27E Commissioner may remove entity’s listing as charity
+(1) The Commissioner may remove an entity’s listing as a charity (by adding to the list a date on which the entity’s listing as a charity ceases to apply) if the Commissioner determines that the entity no longer qualifies under section 27B to be listed.
+(2) The date on which the listing ceases to apply must not be earlier than the Commissioner’s final decision under this section.
+(3) If the Commissioner proposes to remove an entity’s listing as a charity, the Commissioner must—
+  (a) notify the entity in writing of—
+    (i) the Commissioner’s reasons for the proposed decision; and
+    (ii) the period within which arguments against the proposed decision may be provided (which must be a period of at least 30 days after the date of the notice); and
+  (b) consider any arguments against the proposed decision that the applicant provides within that period.
+(4) The Commissioner must notify the entity in writing of the final decision under this section.
 
 **Borrowers must notify Commissioner of absence from and return to New Zealand**
 
@@ -741,7 +795,7 @@ A borrower may withdraw a declaration under section 55 by—
   (b) notify the employer or PAYE intermediary in writing of the Commissioner's determination.
 (3) A request under subsection (1) must be made by notifying the Commissioner (see section 211).
 
-**Significant under-deductions and over-deductions**
+**Standard deductions resulting in significant under-deductions or over-deductions**
 
 ### 63 Commissioner determines what is significant under-deduction or significant over-deduction
 (1) The Commissioner must determine the thresholds (which may differ) for what is to be treated as a significant under-deduction or a significant over-deduction.
@@ -795,6 +849,34 @@ If the Commissioner receives a request in accordance with section 65, the Commis
 ### 68 Applicable procedures if significant under-deduction
 The procedures in section 49 or 51 may be applied to a borrower if there is a significant under-deduction in relation to him or her.
 
+**Commissioner deductions resulting in over-deductions**
+
+### 68A Commissioner over-deduction identified by borrower
+(1) If a borrower reasonably believes that a Commissioner over-deduction was made in relation to him or her, the borrower may request the Commissioner to determine whether a Commissioner over-deduction was made.
+(2) A request under subsection (1) must be made by notifying the Commissioner (see section 211).
+(3) In this section, and in sections 68B and 68C, Commissioner over-deduction means a Commissioner deduction that is made on or after the date on which—
+  (a) the Commissioner notifies the borrower’s employer or PAYE intermediary to stop making Commissioner deductions; or
+  (b) the Commissioner deductions equal the amount specified in the additional rate notice in accordance with section 49(2)﻿(b).
+
+### 68B Commissioner must determine whether Commissioner over-deduction made
+If the Commissioner receives a request in accordance with section 68A, the Commissioner must, as soon as practicable,—
+  (a) determine whether a Commissioner over-deduction was made; and
+  (b) notify the borrower in writing if the Commissioner determines that a Commissioner over-deduction was not made.
+
+### 68C Procedure if Commissioner over-deduction made
+(1) This section applies if the Commissioner—
+  (a) identifies that a Commissioner over-deduction was made in relation to a borrower; or
+  (b) determines (in accordance with section 68B) that a Commissioner over-deduction was made in relation to a borrower.
+(2) The Commissioner must, as soon as practicable, notify the borrower—
+  (a) that a Commissioner over-deduction was made in relation to the borrower; and
+  (b) of the amount of the Commissioner over-deduction; and
+  (c) that the Commissioner over-deduction has been offset against the borrower’s consolidated loan balance; and
+  (d) that the borrower may, subject to subsections (3) and (4), choose to receive a refund of the Commissioner over-deduction (see sections 199 and 200); and
+  (e) of the time frame within which the borrower must notify the Commissioner if the borrower chooses to receive a refund of the Commissioner over-deduction.
+(3) In any case where there is also, in relation to the borrower and any tax year, a significant under-deduction or an unpaid amount that the Commissioner has at any time identified, the significant under-deduction or unpaid amount may be offset against a Commissioner over-deduction identified or determined under subsection (1) before any refund is made.
+(4) To receive a refund of the Commissioner over-deduction, the borrower must notify the Commissioner in a manner acceptable to the Commissioner within 6 months after the date on which the borrower was notified in accordance with subsection (2).
+(5) A choice made by the borrower to receive a refund of the Commissioner over-deduction is irrevocable.
+
 **Matters of general application to salary or wage deductions**
 
 ### 69 Prohibition on applications or declarations to maintain integrity of student loan scheme
@@ -817,29 +899,36 @@ This subpart applies to the following New Zealand-based borrowers, other than ne
     (i) have been required to pay interim payments for that tax year; or
     (ii) have been issued a default assessment for an end-of-year repayment obligation under section 106 of the Tax Administration Act 1994 for that tax year.
 
-### 73 Meaning of adjusted net income
-In this Act, adjusted net income means net income, as defined in section YA 1 of the Income Tax Act 2007, with the adjustments set out in Schedule 3 of this Act (including any adjustment determined by the Commissioner under clause 15 of that schedule) and excluding salary or wages.
+### 73 Meaning of adjusted net income, Schedule 3 adjustments, and related terms
+(1) In this Act,—
+  - **adjusted net income** —
+  (a) means net income (as defined in section YA 1 of the Income Tax Act 2007) with any Schedule 3 adjustments; but
+  (b) excludes salary and wages
+  - **Schedule 3 adjustments** means the adjustments set out in Schedule 3 (including any adjustment determined by the Commissioner under clause 15 of that schedule)
+  - **statement of adjusted net income** means the return of income or notification of Schedule 3 adjustments (or both) referred to in subsection (2).
+(2) In this Act, a borrower provides a statement of adjusted net income if the borrower—
+  (a) files a return of income only, if there are no Schedule 3 adjustments; or
+  (b) notifies Schedule 3 adjustments under section 74 or 114 only, if the borrower is not required to file a return of income under the Tax Administration Act 1994; or
+  (c) both files a return of income and notifies Schedule 3 adjustments under section 74 or 114, in any other case.
 
-### 74 Declaration of adjusted net income
-(1) If this subpart applies to a borrower and the borrower is not required to file a return of his or her income for the tax year or provide details of his or her adjusted net income under section 114, the borrower must make a declaration of the borrower's adjusted net income.
-(2) The declaration of adjusted net income must be made—
-  (a) by notifying the Commissioner in a manner acceptable to the Commissioner; and
-  (b) on or before—
-    (i) 7 July in the tax year following the tax year in which the adjusted net income was derived; or
-    (ii) if the borrower has received an extension of time to make the declaration in accordance with section 75, the date on which the borrower is required to make the declaration; or
-    (iii) if the Commissioner has granted the borrower an extension of time to make the declaration (other than in accordance with section 75), the date on which the borrower is required to make the declaration as specified by the Commissioner.
+### 74 Notification of Schedule 3 adjustments
+(1) This section applies to a borrower if—
+  (a) this subpart applies to the borrower; and
+  (b) any Schedule 3 adjustments are applicable; and
+  (c) the borrower is not required to notify the Commissioner of the Schedule 3 adjustments under section 114.
+(2) The borrower must notify the Commissioner of the Schedule 3 adjustments on or before—
+  (a) 7 July in the tax year following the tax year in which the relevant adjusted net income was derived; or
+  (b) if the borrower has received an extension of time to notify the Commissioner under section 75, the date on which the borrower is required to notify the Commissioner; or
+  (c) if the Commissioner has granted the borrower an extension of time for the notification (other than under section 75), the date specified by the Commissioner.
 
-### 75 Extension of time for making declaration of adjusted net income
-A borrower may apply to the Commissioner for an extension of time for the making of a declaration of adjusted net income in accordance with section 37(3) to (5) of the Tax Administration Act 1994, and those subsections apply, as far as applicable and with all necessary modifications, as if—
+### 75 Extension of time for notification of Schedule 3 adjustments
+A borrower may apply to the Commissioner for an extension of time for notifying the Commissioner of Schedule 3 adjustments under section 74 in accordance with section 37(3) to (5) of the Tax Administration Act 1994, and those subsections apply, as far as applicable and with all necessary modifications, as if—
   (a) the reference to the due date required under this section were a reference to the due date required under section 74(2)﻿(b)﻿(i) of the Student Loan Scheme Act 2011; and
   (b) every reference to a taxpayer were a reference to a borrower; and
-  (c) every reference to a return or a return of income were a reference to a declaration of adjusted net income.
+  (c) every reference to a return or a return of income were a reference to a notification of Schedule 3 adjustments.
 
 ### 76 Commissioner to assess borrower's end-of-year repayment obligation
-(1) The Commissioner must assess the amount (if any) of a borrower's end-of-year repayment obligation for a tax year as soon as practicable after the borrower provides—
-  (a) his or her return of income for that tax year; or
-  (b) details of his or her adjusted net income under section 114; or
-  (c) his or her declaration of adjusted net income.
+(1) The Commissioner must assess the amount (if any) of a borrower’s end-of-year repayment obligation for a tax year as soon as practicable after the borrower provides a statement of adjusted net income.
 (2) In making the assessment, the Commissioner may have regard to—
   (a) any document provided under subsection (1):
   (b) any other information that the Commissioner considers to be relevant.
@@ -872,7 +961,7 @@ If the Commissioner is satisfied that a borrower meets the criteria in section 7
   (b) on or before the due date under section 81 or a due date determined by the Commissioner under section 85.
 (2) Subsection (3) applies to a borrower if—
   (a) the borrower's end-of-year repayment obligation for a tax year is $1,000 or more; or
-  (b) the borrower has not made a declaration of adjusted net income for a tax year, provided a return of income, or provided details of his or her adjusted net income under section 114 for a tax year, and the amount of the borrower's end-of-year repayment obligation for the immediately preceding tax year was $1,000 or more.
+  (b) the borrower has not provided a statement of adjusted net income for a tax year, and the borrower’s end-of-year repayment obligation for the immediately preceding tax year was $1,000 or more.
 (3) A borrower must also pay interim payments for the next tax year—
   (a) calculated in accordance with section 82 or 83:
   (b) on or before the due dates determined in accordance with section 84 or 85.
@@ -895,15 +984,12 @@ A borrower must pay his or her terminal payment on or before the borrower's term
 (3) In this section, uplifted end-of-year repayment obligation—
   (a) means—
     (i) the amount of the borrower's end-of-year repayment obligation for the immediately preceding tax year multiplied by 105%; or
-    (ii) if the borrower did not make a declaration of adjusted net income for the immediately preceding tax year, the amount of the borrower's end-of-year repayment obligation for the year before the immediately preceding tax year multiplied by 110%; but
+    (ii) if the borrower did not provide a statement of adjusted net income for the immediately preceding tax year, the amount of the borrower’s end-of-year repayment obligation for the year before the immediately preceding tax year multiplied by 110%; but
   (b) the amount calculated in accordance with paragraph (a) must not exceed the sum of the borrower's loan balance on 1 April of the relevant tax year plus any loan advances made or charged to the borrower for that tax year after that date.
 (4) For the purposes of subsection (3)﻿(b), the borrower's loan balance on 1 April of the relevant tax year must be determined by subtracting the amount of any repayment obligation or other amount that the Commissioner has, on or before that day, required the borrower to pay and that is payable on or after that day.
 
 ### 83 Commissioner may assess interim payments if information for preceding year not provided
-(1) The Commissioner may assess a borrower's interim payments for a tax year in the manner set out in section RC 6(3) of the Income Tax Act 2007 if, for the immediately preceding tax year, the borrower did not provide—
-  (a) his or her return of income; or
-  (b) details of his or her adjusted net income under section 114; or
-  (c) his or her declaration of adjusted net income under section 74.
+(1) The Commissioner may assess a borrower’s interim payments for a tax year in the manner set out in section RC 6(3) of the Income Tax Act 2007 if, for the immediately preceding tax year, the borrower did not provide a statement of adjusted net income.
 (2) Section 82 does not apply if the Commissioner makes an assessment in accordance with subsection (1).
 
 ### 84 Due dates for payment of interim payments
@@ -1119,20 +1205,18 @@ A borrower may be liable to pay late payment interest if the borrower does not m
 
 ### Subpart 5 — New Zealand-based non-resident borrowers and borrowers with New Zealand-based and overseas-based repayment obligations
 
-### 114 Notification of worldwide income by New Zealand-based non-resident borrowers
-(1) This section applies to a New Zealand-based borrower who is a non-resident.
-(2) For each tax year and each part of a tax year to which this section applies to a borrower, the borrower must notify the Commissioner, in a manner acceptable to the Commissioner, of the borrower's adjusted net income.
-(3) The borrower must notify the Commissioner at the time when, if the borrower were a New Zealand resident, he or she would have had to provide—
-  (a) a declaration of adjusted net income; or
-  (b) a return of income for a tax year.
-(4) The Commissioner may require the borrower to provide evidence of the borrower's adjusted net income.
+### 114 Notification of Schedule 3 adjustments by New Zealand-based non-resident borrowers
+(1) This section applies to a New Zealand-based borrower who is a non-resident and who has Schedule 3 adjustments.
+(2) For each tax year and each part of a tax year to which this section applies to a borrower, the borrower must notify the Commissioner of the Schedule 3 adjustments.
+(3) The borrower must notify the Commissioner of the Schedule 3 adjustments under this section at the time when, if the borrower were a New Zealand resident, he or she would have had to notify the Commissioner of the Schedule 3 adjustments under section 74.
+(4) The Commissioner may require the borrower to provide evidence of the Schedule 3 adjustments.
 
-### 114A Extension of time for making notification of worldwide income
+### 114A Extension of time for notification of Schedule 3 adjustments
 (1) This section applies if section 114(2) applies.
-(2) A borrower may apply to the Commissioner for an extension of time for the making of a notification of the borrower's adjusted net income in accordance with section 37(3) to (5) of the Tax Administration Act 1994, and those subsections apply, as far as applicable and with all necessary modifications, as if—
+(2) A borrower may apply to the Commissioner for an extension of time for notifying the Commissioner of the Schedule 3 adjustments under section 114 in accordance with section 37(3) to (5) of the Tax Administration Act 1994, and those subsections apply, as far as applicable and with all necessary modifications, as if—
   (a) the reference to the due date required under this section were a reference to the due date required under section 114(3) of the Student Loan Scheme Act 2011; and
   (b) every reference to a taxpayer were a reference to a borrower; and
-  (c) every reference to a return or a return of income were a reference to a notification of the borrower's adjusted net income.
+  (c) every reference to a return or a return of income were a reference to a notification of the borrower's Schedule 3 adjustments.
 
 ### 115 Repayment obligations of borrowers who are overseas-based for part of tax year
 (1) If a borrower is both New Zealand-based and overseas-based during a tax year,—
@@ -1391,7 +1475,7 @@ No interest is payable on—
 (2) The Commissioner may, having regard to the circumstances of the case and if the Commissioner considers it equitable to do so, grant relief to the borrower by cancelling as much of the penalty as the Commissioner considers equitable.
 (3) For the purposes of this section, penalty—
   (a) means—
-    (i) a late filing penalty:
+    (i) a late notification penalty:
     (ii) an underestimation penalty:
     (iii) a student loan shortfall penalty; but
   (b) despite paragraph (a)﻿(iii), does not include a student loan shortfall penalty where, for the purposes of the application of section 159 (as set out in section 158), the shortfall penalty for which the borrower was liable was imposed under section 141D or 141E of the Tax Administration Act 1994.
@@ -1459,25 +1543,24 @@ A borrower who applies for hardship relief under section 145(1)﻿(b) must notif
 
 **Late filing penalties**
 
-### 155 Late filing penalty for certain declarations
-(1) If a borrower does not complete and provide a declaration on time, the Commissioner may—
-  (a) notify the borrower in writing that a late filing penalty will be imposed if the declaration is not completed and filed within 30 days of the date of the notification; or
-  (b) give public notice that a late filing penalty will be imposed on borrowers who do not complete and file the declaration within 30 days of the date of the notice.
-(2) A borrower is liable to pay a late filing penalty if—
+### 155 Late notification penalty for Schedule 3 adjustments under section 74
+(1) If a borrower does not notify the Commissioner of Schedule 3 adjustments under section 74 on time, the Commissioner may—
+  (a) notify the borrower in writing that a late notification penalty will be imposed if the borrower does not notify the Commissioner of the Schedule 3 adjustments within 30 days after the date of the Commissioner’s notification; or
+  (b) give public notice that a late notification penalty will be imposed on borrowers who do not notify the Commissioner of Schedule 3 adjustments within 30 days after the date of the Commissioner’s public notice.
+(2) A borrower is liable to pay a penalty under this section if—
   (a) the Commissioner notified the borrower or gave public notice in accordance with subsection (1); and
-  (b) the declaration is not completed and filed within 30 days of the date of the notification or notice.
-(3) The late filing penalty for a borrower with adjusted net income or net pre-taxed income—
+  (b) the borrower did not notify the Commissioner of the Schedule 3 adjustments within 30 days of the date of the Commissioner’s notification or public notice.
+(3) The penalty for a borrower with adjusted net income—
   (a) below $100,000 is $50:
   (b) between $100,000 and $1,000,000 (both figures inclusive) is $250:
   (c) above $1,000,000 is $500.
-(4) A borrower is not liable to pay a late filing penalty under both this section and under section 139A of the Tax Administration Act 1994 for the same declaration.
-(5) In this section, declaration means a declaration of adjusted net income.
 
-### 156 Due dates for payment of late filing penalty
-A borrower who is liable to pay a late filing penalty must pay that penalty on or before the later of the following dates:
-  (a) the date that is 60 days after the date of the notification or notice given to the borrower under section 155(1):
-  (b) if the borrower does not have an extension of time to make a declaration under section 75, the date in column B of the table in Part A of Schedule 3 of the Income Tax Act 2007 that corresponds to the month of the borrower's balance date:
-  (c) if the borrower does have an extension of time to make a declaration under section 75, the date in column F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that corresponds to the month of the borrower's balance date.
+### 156 Due dates for payment of late notification penalty
+A borrower who is liable to pay a penalty under section 155 must pay the penalty on or before the later of—
+  (a) the date that is 60 days after the date of the notification to the borrower or public notice given under section 155(1); and
+  (b) the date that is—
+    (i) in column B of the table in Part A of Schedule 3 of the Income Tax Act 2007 that corresponds to the month of the borrower’s balance date (if the borrower does not have an extension of time under section 75 to notify the Commissioner of Schedule 3 adjustments); or
+    (ii) in column F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that corresponds to the month of the borrower’s balance date (if the borrower does have an extension of time under section 75 to notify the Commissioner of Schedule 3 adjustments).
 
 **Student loan shortfall penalties**
 
@@ -1604,7 +1687,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (b) notify the Commissioner (in the manner determined by the Commissioner and the loan manager) of the loan manager's decision in respect of the objection.
 
 ### 169 Power to require objection to be determined by chief executive
-(1) If an objection under section 167 is not wholly allowed by the loan manager, the objector may, by formally notifying the chief executive, require that the objection be determined by the chief executive.
+(1) If an objection under section 167 is not wholly allowed by the loan manager, the objector may, by notifying the chief executive in writing, require that the objection be determined by the chief executive.
 (2) A notification under subsection (1) must be given within 21 days after the date on which the loan manager notifies the objector of the decision under section 168(2)﻿(a).
 (3) However, the chief executive may extend the time allowed under subsection (2).
 
@@ -1635,7 +1718,9 @@ The loan manager must, as soon as practicable, notify the Commissioner (in the m
 
 ### 173 Part 4A of Tax Administration Act 1994 applies to disputes under this Act
 (1) The procedures in Part 4A of the Tax Administration Act 1994 apply, with all necessary modifications, to a dispute between a person and the Commissioner under this Act.
-(2) However, subsection (1) does not apply to an objection to the details of a loan advance made or charged to a borrower (see section 167).
+(2) However, subsection (1) does not apply to an objection to—
+  (a) the details of a loan advance made or charged to a borrower (see section 167); or
+  (b) a decision of the Commissioner under sections 27C to 27E (which relate to decisions on the listing of an entity as a charity).
 
 **Rights to challenge and challenge procedures**
 
@@ -1658,6 +1743,11 @@ A borrower may challenge a decision by the Commissioner—
   (d) concerning the conditions that must apply or be met in order for the borrower to be treated as being physically in New Zealand under section 27(b)﻿(ii) on the ground that those conditions are—
     (i) not fair and reasonable; or
     (ii) erroneous.
+
+### 176A Challenge to decision relating to listing of entity as charity
+An entity may challenge a decision by the Commissioner under sections 27C to 27E to refuse to list, or to remove the listing of, the entity as a charity, or the date or dates for which a listing applies or ceases to apply, on the ground that the decision—
+  (a) is not fair and reasonable; or
+  (b) is erroneous.
 
 ### 177 Challenge to special deduction rate certificate for unused repayment threshold
 (1) A borrower may challenge a decision by the Commissioner not to issue a special deduction rate certificate in relation to the borrower under section 45 on the ground that that decision is not fair and reasonable.
@@ -1698,8 +1788,8 @@ A borrower may challenge a decision by the Commissioner under section 107B not t
   (c) entry into an instalment arrangement under section 154.
 (2) A borrower may challenge the relief provided to the borrower under section 146, 147, or 154 on the ground that the relief is not fair and reasonable.
 
-### 185 Challenge to late filing penalty
-A borrower who is charged with a late filing penalty may challenge the penalty on the ground that it was imposed on the borrower in error.
+### 185 Challenge to late notification penalty
+A borrower who is charged with a late notification penalty may challenge the penalty on the ground that it was imposed on the borrower in error.
 
 ### 186 Challenge to student loan shortfall penalty
 A borrower who has a student loan shortfall penalty imposed on him or her may challenge the student loan shortfall penalty on the ground that it was imposed on the borrower in error.
@@ -1831,11 +1921,11 @@ The Commissioner must, as soon as practicable,—
   (b) alter any information (other than the details of a loan advance made or charged to the borrower) provided or made available to a borrower under section 19 in accordance with a decision of the Commissioner under subpart 5 of Part 4.
 
 ### 202 Provisions of Tax Administration Act 1994 and Income Tax Act 2007 to apply to this Act
-Sections 21, 24B, 24F, 24H, 33, 34, 35, 36 to 39, 42 to 44, 79, 80, 92, 92A, 106 to 108, 108B to 111, 113, and 114 of the Tax Administration Act 1994 and sections LC 10, RM 2, and RM 4, and paragraph (b) of the definition of basic tax rate in section YA 1 of the Income Tax Act 2007 apply, as far as applicable and with all necessary modifications, for the purposes of this Act as if—
+Sections 15B, 21, 24B, 24F, 24H, 33, 34, 35, 36 to 39, 42 to 44, 79, 80, 92, 92A, 106 to 108, 108B to 111, 113, and 114 of the Tax Administration Act 1994 and sections LC 10, RM 2, and RM 4, and paragraph (b) of the definition of basic tax rate in section YA 1 of the Income Tax Act 2007 apply, as far as applicable and with all necessary modifications, for the purposes of this Act as if—
   (a) every reference to a taxpayer or a person were a reference to a borrower; and
   (b) every reference to the assessment and levy of income tax or tax were a reference to the assessment and levy of a repayment obligation; and
   (c) every reference to income tax were a reference to a repayment obligation; and
-  (d) every reference to a return were a reference to, as applicable, a declaration of adjusted net income or a notification of a borrower's adjusted net income under section 114.
+  (d) every reference to a return were a reference to a statement of adjusted net income.
 
 ### Subpart 2 — Miscellaneous matters
 
@@ -1912,6 +2002,21 @@ A loan contract entered into by a borrower (whether before or after the commence
 ### 209 Power of Commissioner to access arrival or departure information
 In accordance with, and for the purpose set out in, section 280I of the Customs and Excise Act 1996, the Commissioner may access any information-recording system used by the New Zealand Customs Service to store arrival or departure information.
 
+### 209A Disclosure of information to Australian Taxation Office in relation to borrowers who are, or may be, overseas-based
+(1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the Australian Taxation Office for the purposes of assisting the Commissioner to—
+  (a) obtain or verify contact details of borrowers who are, or may be, overseas-based; and
+  (b) administer the student loan scheme in relation to those borrowers.
+(2) For those purposes, the Commissioner may provide the information set out in subsection (3) to a person who is—
+  (a) an officer, employee, or agent of the Australian Taxation Office; and
+  (b) authorised to receive the information by the chief executive officer of the Australian Taxation Office.
+(3) The information is—
+  (a) a borrower’s name or any other name by which a borrower is known:
+  (b) a borrower’s date of birth:
+  (c) a borrower’s tax file number:
+  (d) a borrower’s last known address and contact details:
+  (e) any other information that the Commissioner considers relevant for the purposes referred to in subsection (1)﻿(a) and (b).
+(4) This section applies despite any obligation as to secrecy or other restriction imposed by any enactment or otherwise on the disclosure of information.
+
 **Informing and notifying under this Act**
 
 ### 210 Meaning of inform
@@ -1943,24 +2048,17 @@ In accordance with, and for the purpose set out in, section 280I of the Customs 
 (4) Despite subsection (1)﻿(b) of this section, section 6 of the Tax Administration Act 1994, and sections 16 and 20 of the Electronic Transactions Act 2002, the consent of a person is not required in order for information to be communicated in an electronic form.
 
 ### 213 Meaning of formally notify
-(1) A requirement in this Act for a person to formally notify another person or for a matter to be formally notified is satisfied by a communication that—
-  (a) is printed, typewritten, or otherwise visibly represented, copied, or reproduced on paper; and
-  (b) is given by—
-    (i) personal delivery; or
-    (ii) post; or
-    (iii) fax.
-(2) However, it does not include a communication by email, the Internet, or other electronic means (except a fax).
-(3) A formal notification that is given by post is treated as having been given at the time the notification would have been delivered in the ordinary course of the post.
+[Repealed]
 
 ### 214 Notice requirements of Tax Administration Act 1994 do not apply
-Sections 210 to 213 of this Act override sections 14 and 14B of the Tax Administration Act 1994.
+Sections 210 to 212 of this Act override sections 14 and 14B of the Tax Administration Act 1994.
 
 **Regulations**
 
 ### 215 Regulations
 The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the amount of the annual repayment threshold, or a means by which it may be calculated or ascertained:
-  (b) specifying charitable organisations for the purposes of the definition of charity in section 4(1):
+  (b)
   (c) prescribing the repayment percentage, or a means by which it may be calculated or ascertained:
   (d) specifying further information requirements in accordance with sections 10(2)﻿(d), 13(i), 16(2)﻿(a)﻿(viii), 16A(1)﻿(e), or 107A(2)﻿(e):
   (e) prescribing the amount of a student loan establishment fee charged under section 14, or a means by which it may be calculated or ascertained:
@@ -1985,7 +2083,7 @@ Regulations made under section 215 or 216 are a legislative instrument and a dis
 
 ### 220 Application, savings, and transitional provisions
 (1) The application, savings, and transitional provisions set out in Schedule 6 have effect for the purposes of this Act.
-(2) The application, savings, and transitional provisions relating to this Act and the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 6 specified in the second column of the table:The following table is small in size and has two columns. Column 1 is headed Principal Act and Amendment Acts. Column 2 is headed Part of Schedule 6.Principal Act and Amendment ActsPart of Schedule 6Principal ActPrincipal Act as enactedPart 1Amendment ActsProvisions relating to Student Loan Scheme Amendment Act 2013Part 2
+(2) The application, savings, and transitional provisions relating to this Act and the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 6 specified in the second column of the table:The following table is small in size and has two columns. Column 1 is headed Principal Act and Amendment Acts. Column 2 is headed Part of Schedule 6.Principal Act and Amendment ActsPart of Schedule 6Principal ActPrincipal Act as enactedPart 1Amendment ActsProvisions relating to Student Loan Scheme Amendment Act 2013Part 2Provisions relating to Student Loan Scheme Amendment Act 2014Part 3Provisions relating to Taxation (Residential Land Withholding Tax, GST on Online Services, and Student Loans) Act 2016Part 4
 
 **Consequential amendments and repeals**
 
@@ -2019,7 +2117,9 @@ In this schedule, NZQA means the New Zealand Qualifications Authority establishe
   (a) work to relieve poverty, hunger, sickness, or the ravages of war or natural disaster; or
   (b) work to improve the economy of a country that is on the Organisation for Economic Co-operation and Development’s list of countries receiving development assistance; or
   (c) work to raise the educational standards of a country that is on the Organisation for Economic Co-operation and Development’s list of countries receiving development assistance.
-(2) The charity must be specified in regulations at the time the work described in clause 1 is carried out.
+(2) The charity must be listed as a charity under section 27A either—
+  (a) at the time the Commissioner grants the application; or
+  (b) if the work is completed before an application is made, for the period of work to which the application relates.
 (3) The Commissioner may treat a borrower as being physically in New Zealand under section 25(1)﻿(b) for a maximum aggregate period of up to 24 months.
 
 ### 3 Conditions to unexpected delay application
@@ -2138,12 +2238,20 @@ An amount derived by the borrower is not treated as exempt income if it is—
   (b) is included in adjusted net income of the borrower for the income year if paragraph (a) does not apply.
 (2) A distribution from a listed PIE that is derived by the borrower in an income year is included in adjusted net income of the borrower for the income year.
 
-### 7 Refunds from main income equalisation accounts
-A refund under sections EH 8 to EH 26 of the Act (which relate to refunds from main income equalisation accounts) of a deposit made on or after 1 April 2014 is not included in adjusted net income of a borrower, except to the extent that the refund is interest payable to the borrower under section EH 6 of the Act (Interest on deposits in main income equalisation account).
+### 7 Deposits in main income equalisation accounts
+The borrower’s adjusted net income is increased by the amount of a main income equalisation deposit the borrower makes for the income year.
 
-### 8 Borrowers who are shareholders in close companies
-(1) This clause applies to a borrower who is a major shareholder in a close company on the last day of the company’s income year.
-(2) The borrower's adjusted net income for the income year includes an amount calculated using the following formula, if the amount is greater than zero,—a × (b − c)where—ais the voting interest (in percentage) in the company held by the borrower on the last day of the company's income yearbis the net income of the company for the company's income yearcis the total dividends paid by the company for the company's income year.
+### 7A Refunds from main income equalisation accounts
+The borrower’s adjusted net income does not include the amount of a main income equalisation refund the borrower receives for the income year.
+
+### 8 Borrowers who are major shareholders in close companies
+(1) This clause applies for the purpose of determining the amount that is included in the adjusted net income of a borrower for an income year when the borrower is a major shareholder in a close company (the company) on the last day of the company’s income year.
+(2) The amount included in the borrower’s adjusted net income is the greater of—
+  (a) zero; and
+  (b) the amount calculated using the formula in subclause (3), adjusted, if applicable, by subclauses (4) and (5) for main income equalisation account amounts.
+(3) For the purposes of subclause (2), the relevant amount is calculated using the formula—p × (r − s)where—pis the percentage voting interests for the company held, on the last day of the company’s income year, by the borrowerris the net income of the company for the company’s income yearsis the total dividends paid by the company for the company’s income year.
+(4) For the purposes of subclause (2)﻿(b), if the company makes a main income equalisation deposit for the company’s income year, the amount of the deposit is added to item r in the formula in subclause (3).
+(5) For the purposes of subclause (2)﻿(b), if the company receives a main income equalisation refund for the company’s income year, the amount of the refund is subtracted from item r in the formula in subclause (3).
 
 ### 9 Treatment of distributions from superannuation schemes
 (1) Subclause (3) applies if a borrower receives a distribution from a superannuation scheme in an income year and—
@@ -2164,15 +2272,22 @@ A refund under sections EH 8 to EH 26 of the Act (which relate to refunds from m
 (2) For the purposes of calculating adjusted net income, the distribution is adjusted net income of the person derived in the income year in which the distribution is made.
 
 ### 11 Borrowers who are settlors of trusts
-(1) Subclause (3) applies if a borrower is the settlor of a trust (the borrower’s trust) at a time in the income year, other than solely as a result of providing personal services for less than market value in the administration of the trust or the maintenance of trust property.
-(2) However, subclause (3) does not apply if—
+(1) This clause applies for the purpose of determining the amount that is included in the adjusted net income of a borrower for an income year when the borrower is the settlor of a trust (the borrower’s trust) at a time in the income year, other than solely as a result of providing personal services for less than market value in the administration of the trust or the maintenance of trust property.
+(2) This clause does not apply if—
   (a) the trustee of the borrower’s trust is registered as a charitable entity under the Charities Act 2005:
   (b) the borrower’s trust is solely for the benefit of a local authority:
   (c) interest and dividends derived by the trustee of the borrower’s trust would be exempt income of the trustee under section CW 45 (Funeral trusts) of the Act:
   (d) the borrower’s trust is a superannuation fund:
-  (e) the borrower and the members of the borrower’s family are not permitted to benefit from the borrower’s trust except under an order of a court.
-(3) If this subclause applies, the adjusted net income of the borrower for that income year includes an amount calculated in accordance with the following formula:(a + b) ÷ dwhere—ais the net income of the trustee of the borrower's trust for the income year reduced, to not less than zero, by the amount of the trustee’s income that vests or is paid by the trustee as beneficiary income for the income yearbis the greater of zero and the total of amounts calculated in accordance with subclause (4) for each company in which the trustee of the borrower's trust and associated persons hold voting interests of 50% or more on the last day of the company’s income yeardis the number of settlors of the borrower’s trust who are alive at any time in the income year, including the borrower, to which this clause applies.
-(4) The amount referred to in item b of the formula in subclause (3) is to be calculated for each company using the following formula:x × (y − z)where—xis the total of the voting interests (in percentage) held by the trustee on the last day of the company’s income yearyis the net income of the company for the company's income yearzis the total dividends paid by the company for the company's income year.
+  (e) the borrower is not permitted to benefit from the borrower’s trust except under an order of a court.
+(3) The amount included in the borrower’s adjusted net income is the amount calculated using the formulas in subclauses (4) and (5), adjusted, if applicable, by subclauses (6) and (7) for main income equalisation account amounts.
+(4) For the purposes of subclause (3), the relevant amount is calculated using the formula—(a + b) ÷ cwhere—ais the net income of the trustee of the borrower’s trust for the income year reduced, to not less than zero, by the amount of the trustee’s income that vests or is paid by the trustee as beneficiary income for the trustee’s income yearbis the greater of zero and the amount given by totalling the amounts calculated by applying the formula in subclause (5) to each company in which the trustee of the borrower’s trust and associated persons hold, on the last day of the company’s income year, voting interests of 50% or morecis the number of settlors of the borrower’s trust who are alive at any time in the income year, including the borrower, for which this clause applies.
+(5) For the purposes of item b in the formula in subclause (4), an amount to be totalled is, for each relevant company, calculated using the formula—d × (e − f)where—dis the percentage voting interests for the relevant company held, on the last day of the company’s income year, by the trusteeeis the net income of the relevant company for the company’s income yearfis the total dividends paid by the relevant company for the company’s income year.
+(6) For the purposes of subclause (3), if the trustee or a company described in the definition of item b in subclause (4) makes a main income equalisation deposit for an income year, the amount of the deposit is added to—
+  (a) item a in the formula in subclause (4), if the trustee makes the deposit:
+  (b) item e in the formula in subclause (5), if the company makes the deposit.
+(7) For the purposes of subclause (3), if the trustee or a company described in the definition of item b in subclause (4) receives a main income equalisation refund for an income year, the amount of the refund is subtracted from—
+  (a) item a in the formula in subclause (4), if the trustee receives the refund:
+  (b) item e in the formula in subclause (5), if the company receives the refund.
 
 ### 12 Income from fringe benefits
 (1) Subclause (2) applies if—
@@ -2188,11 +2303,7 @@ A refund under sections EH 8 to EH 26 of the Act (which relate to refunds from m
 (3) If the borrower's employer makes any short term charge facility available to the borrower (the facility), and the total value for the income year of any such facilities (excluding any fringe benefit tax) is more than the lesser of $1,200 or 5% of the borrower's salary or wages, then the borrower's adjusted net income for the income year includes the total value of the facilities including any fringe benefit tax.
 
 ### 13 Income from deposits in main income equalisation accounts
-The adjusted net income of a borrower for an income year includes the amount of a deduction under section DQ 1 of the Act (Main income equalisation scheme) allowed for a payment made to the Commissioner under section EH 4 of the Act (Main deposit) for an accounting year, corresponding to the same tax year as does the income year, and for a business of—
-  (a) the borrower:
-  (b) a company that meets the requirements of section MB 4 of the Act for the borrower's adjusted net income to be affected by net income of the company for the accounting year:
-  (c) a trustee of a trust that meets the requirements of section MB 7 for the borrower's adjusted net income to be affected by net income of the trustee for the accounting year:
-  (d) a company in which a trustee referred to in paragraph (c) and associated persons hold a voting interest of 50% or more on the last day of the income year.
+[Repealed]
 
 ### 14 Income from certain pensions and annuities
 If, in the income year, a borrower derives a pension or an annuity that is exempt income of the borrower under section CW 4 of the Act (Annuities under life insurance policies) or is a pension from a superannuation fund, the adjusted net income of the borrower for the income year—
@@ -2377,6 +2488,26 @@ In this Part,—
 (2) In this section,—
   - **amendment Act** means the Student Loan Scheme Amendment Act 2014
   - **related provision** means a provision of the Student Loan Scheme Act 2011 that has an effect in relation to section 110 as in force immediately before the amendment Act came into force (for example, a definition).
+
+### Part 4 — Transitional provisions relating to Taxation (Residential Land Withholding Tax, GST on Online Services, and Student Loans) Act 2016
+
+### 19 Application of specified amendments
+The following provisions of the Taxation (Residential Land Withholding Tax, GST on Online Services, and Student Loans) Act 2016 apply for the 2016–2017 and later tax years:
+  (a) sections 5, 10 to 21, 25, 26, 34, and 77 (which relate to changes to the notification of Schedule 3 adjustments or statement of adjusted net income):
+  (b) section 33 (which relates to deposits and refunds for main income equalisation accounts).
+
+### 20 Existing charities to be listed as charities on commencement
+(1) On commencement,—
+  (a) an existing charity is treated as qualifying to be listed as a charity under section 27B; and
+  (b) the Commissioner must—
+    (i) list each existing charity as a charity; and
+    (ii) specify, on the list, the date on which the existing charity was first specified in regulations made under section 215(b) (or any provision that section 215(b), with or without modification, replaced or corresponded to) as the date on and from which the listing applies; and
+  (c) the Commissioner may consider any application from an entity to be listed as a charity, even if the application was received before commencement.
+(2) Nothing in subclause (1) prevents the Commissioner from exercising the power under section 27E to remove the person’s listing on the ground that it does not qualify under section 27B to be listed.
+(3) In this section,—
+  - **commencement** means the date on which section 7 comes into force
+  - **existing charity** means a person that, immediately before commencement, was specified in the existing regulations
+  - **existing regulations** means the Student Loan Scheme (Charitable Organisations) Regulations 2011 as in force immediately before commencement.
 
 ## Schedule 7 — Amendments to this Act
 
