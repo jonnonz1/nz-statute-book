@@ -1,5 +1,5 @@
 # Harmful Digital Communications Act 2015
-_Consolidation as at 2015-11-27_
+_Consolidation as at 2016-05-20_
 
 ### 1 Title
 This Act is the Harmful Digital Communications Act 2015.
