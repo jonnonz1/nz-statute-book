@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-05-31_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -1653,7 +1653,7 @@ A veteran’s pension commences on the later of—
 (3) Subject to subsections (5) and (6), the relationship rate, the single living alone rate, and the single sharing accommodation rate must be adjusted upwards to reflect any percentage movement upwards in the CPI between—
   (a) the CPI for the quarter that ends on 31 December 1 year before the immediately preceding 31 December; and
   (b) the CPI for the quarter that ends on the immediately preceding 31 December.
-(4) The adjustments (by any percentage movements upwards in the CPI) required under subsection (3) as at 1 April in 2015, 2016, and 2017 must, despite subsections (2) and (3), be calculated using index numbers of the CPI, excluding cigarettes and other tobacco products, published by Statistics New Zealand.
+(4) The adjustments (by any percentage movements upwards in the CPI) required under subsection (3) as at 1 April in any year from 2015 to 2021 (inclusive) must, despite subsections (2) and (3), be calculated using index numbers of the CPI, excluding cigarettes and other tobacco products, published by Statistics New Zealand.
 (5) If the relationship rate, the single living alone rate, or the single sharing accommodation rate does not meet the relevant criteria described in subsection (6), the rate must be adjusted to meet the criteria.
 (6) The criteria are—
   (a) the total amount payable to a veteran and the veteran's spouse or partner who are both eligible to receive a veteran's pension at the relationship rate (before any abatement under section 171 but after the deduction of standard tax) must not be less than 65% of the average wage or more than 72.5% of the average wage:
