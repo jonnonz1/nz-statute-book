@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2016-04-30_
+_Consolidation as at 2016-05-31_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -2035,7 +2035,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
 (1) In this section, CPI means the consumers price index-all groups published by Statistics New Zealand.
 (2) The rates of benefits set out in Schedules 3, 3A, 4, 6, 9, 16, and 26 (other than any rate of incentive payment), and in clause 1 of Schedule 22 must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate is the rate at that date adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December 1 year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
 (2A)
-(3) The adjustments (by any percentage movement upwards in the CPI) required under subsection (2) as at 1 April in any year from 2011 to 2017 (inclusive) must, despite subsections (1) and (2), be calculated,—
+(3) The adjustments (by any percentage movement upwards in the CPI) required under subsection (2) as at 1 April in any year from 2011 to 2021 (inclusive) must, despite subsections (1) and (2), be calculated,—
   (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the consumers price index-all groups published by Statistics New Zealand; and
   (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.
 (4) An adjustment under subsection (2) must not reduce the weekly amounts of benefits payable under those schedules.
@@ -4672,7 +4672,7 @@ A person who has been means assessed as to assets may apply for a loan under the
   (k) prescribing the amount of personal allowance:
   (l) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
 (2) The applicable asset thresholds set out in Part 1 of Schedule 27 must be increased on 1 July 2013, and on every following 1 July, and the income-from-assets exemption (as defined in Part 3 of Schedule 27) must be increased on 1 July 2007, and on every following 1 July, by an amount that reflects the movement in the all groups index number of the New Zealand Consumers Price Index (published by Statistics New Zealand) for the year ending on the previous 31 March.
-(2A) The adjustments (by any percentage movement in the All Groups index number of the New Zealand Consumers Price Index) required under subsection (2) as at 1 July in any year from 2011 to 2017 (inclusive) insofar as they are required for the income-from-assets exemption (but not insofar as they are required for the applicable asset thresholds) must, despite that subsection, be calculated,—
+(2A) The adjustments (by any percentage movement in the All Groups index number of the New Zealand Consumers Price Index) required under subsection (2) as at 1 July in any year from 2011 to 2021 (inclusive) insofar as they are required for the income-from-assets exemption (but not insofar as they are required for the applicable asset thresholds) must, despite that subsection, be calculated,—
   (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using, for those quarters, the All Groups index numbers of the New Zealand Consumers Price Index published by Statistics New Zealand; and
   (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using, for those quarters, the All Groups excluding cigarettes and other tobacco products index numbers of the New Zealand Consumers Price Index published by Statistics New Zealand.
 (3) If the adjusted amount of an applicable asset threshold or, as the case requires, of income-from-assets exemption is not a whole number of dollars—
