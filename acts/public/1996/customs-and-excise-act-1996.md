@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-05-31_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -1530,6 +1530,9 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
   (i) the quarter ending on 31 March in the calendar year in which the order is to come into force, in the case of an order relating to alcoholic beverages; or
   (ii) the quarter ending on 30 September immediately before the calendar year in which the order is to come into force, in the case of an order relating to tobacco products; and
 (3A)
+(3B) If an Order in Council is made under subsection (1), changes the rates of excise duty and excise-equivalent duty for tobacco products, and comes into force on 1 January in 2017, 2018, 2019, or 2020, then despite subsections (1) to (3),—
+  (a) every new rate of excise duty or excise-equivalent duty that the Order in Council imposes on a tobacco product is calculated by adding 10% of the existing rate of duty on the product to the result achieved by applying the formula in subsection (3); and
+  (b) the Order in Council must be called (as the case requires) an Excise and Excise-equivalent Duties Table (Tobacco Products Indexation and Separate 10% Increase) Amendment Order 2016, 2017, 2018, or 2019.
 (4) In this section,—
   - **alcoholic beverages** means goods that are—
     (a) goods specified in headings 22.03, 22.04, 22.05, 22.06, 22.08, 99.10, 99.20, 99.25, 99.30, 99.45, and 99.50 of the Excise and Excise-equivalent Duties Table, not being goods that are exempt from excise duty and excise-equivalent duty; or
@@ -1544,6 +1547,14 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
 
 ### 79AC Rates of duties on motor spirits increased by 3 cents on 1 July in 2013, 2014, and 2015
 [Repealed]
+
+### 79AD Rates of duties for tobacco products increased by 10% if not indexed on 1 January in 2017 to 2020
+(1) This section, in accordance with section 76G(1), amends the Excise and Excise-equivalent Duties Table.
+(2) A rate in that Table is amended by this section only if the rate is one that is—
+  (a) a rate of excise duty or excise-equivalent duty on a tobacco product (as defined in section 79(4)); and
+  (b) in force immediately before 1 January in 2017, 2018, 2019, or 2020; and
+  (c) not changed on that date by an Order in Council made under section 79(1) and (3B).
+(3) The rate is on that date replaced with a new rate calculated by adding to the rate an amount equal to 10% of the rate.
 
 ### 79A Power to alter rates of excise duty and excise-equivalent duty on motor spirits by Order in Council
 (1) At any time during the second financial year, or the third financial year, that follows the financial year in which any current rates of excise duty and excise-equivalent duty on motor spirits came into force, the Governor-General may, by Order in Council, reduce or increase any or all of those rates of excise duty and excise-equivalent duty by amending the Excise and Excise-equivalent Duties Table.
