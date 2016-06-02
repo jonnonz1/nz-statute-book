@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-06-02_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -200,9 +200,12 @@ This Act binds the Crown.
 **Automatic enrolment rules**
 
 ### 10 Who automatic enrolment rules apply to
-The automatic enrolment rules apply to every employee who is not a secondee and—
+The automatic rules apply to an employee who—
   (a) starts new employment with an employer that is not an exempt employer; and
-  (b) is aged 18 or over, but less than the New Zealand superannuation qualification age, when he or she starts that new employment.
+  (b) is not a secondee; and
+  (c) when they start the new employment, is aged—
+    (i) 18 years or more; and
+    (ii) less than the New Zealand superannuation qualification age.
 
 ### 11 Meaning of new employment and secondee
 (1) New employment means any employment that is started on or after the date of commencement of the automatic enrolment rules, but—
@@ -283,7 +286,7 @@ Every employee to whom the automatic enrolment rules apply when starting new emp
     (ii) the Commissioner did not send the product disclosure statement under section 50(3)﻿(c); or
     (iii) the employer did not supply the product disclosure statement under section 43 (if an employer’s choice of KiwiSaver scheme is effective); or
     (iv) events outside the control of the employee meant that the opt-out notice could not be given within the time limit and, in the opinion of the Commissioner, it is reasonable that a late opt-out notice be accepted; or
-    (v) a mistake described in section 59A(b) has occurred.
+    (v) a mistake described in section 59A(b)﻿(i) has occurred.
 (2) The Commissioner may accept the opt-out notice, if it is received by the Commissioner or the employer in the period that ends 3 months after the date on which the Commissioner receives the first contribution in respect of the employee.
 (3) If an opt-out notice is received by the Commissioner outside the time limit in section 16, and the Commissioner does not exercise his or her discretion to accept it under this section, the Commissioner must treat the notice as if it were an application for a contributions holiday under section 102, if the person could have applied under that provision.
 
@@ -639,32 +642,65 @@ The Commissioner must send to every person who is subject to an involuntary tran
 
 ### 59A When this subpart applies
 This subpart applies when, because of a mistake,—
-  (a) this Act has been applied to a person to whom, as a matter of law, this Act does not apply because the person fails to meet the requirements of section 6:
-  (b) the automatic enrolment rules have been applied to a person to whom, as a matter of law, those rules do not apply because the person fails to meet the requirements for the rules to apply:
-  (c) the rule allowing opt-in, in section 33, has been applied to a person to whom, as a matter of law, that rule does not apply because the person fails to meet the requirement of section 33(a).
+  (a) this Act has been applied to a person who does not meet the requirements of section 6:
+  (b) the automatic enrolment rules have been applied to a person who, at the time, does not meet the requirements of—
+    (i) 1 or more of section 10(a), (b), and (c)﻿(ii):
+    (ii) section 10(c)﻿(i):
+  (c) the rule in section 33 allowing opt-in has been applied to a person who, at the time, does not meet the requirements of section 33(a):
+  (d) the rule in section 34 allowing opt-in has been applied to a person who, at the time, does not meet the requirements of section 10(c)﻿(i).
 
 ### 59B Initial back-dated validation
 (1) As soon as practicable after anyone discovers the mistake, they must notify the Commissioner or the relevant KiwiSaver scheme provider.
-(2) The person described in section 59A is treated as a person who meets the requirements of section 6, the requirements for the application of the automatic enrolment rules, or the requirement of section 33(a), for a period—
+(2) The person described in section 59A is treated as a person who meets the requirements of section 6, the requirements for the application of the automatic enrolment rules, the age requirement for the application of the opt-in rule in section 34, or the requirement of section 33(a), for a period—
   (a) starting on the earliest day on which this Act applies, the automatic enrolment rules, or the rule allowing opt-in were applied to the person because of the mistake described in section 59A; and
-  (b) ending on the earlier of—
+  (b) for a person referred to in section 59A(a), (b)﻿(i), (c), and (d), ending on the earlier of—
     (i) 3 months after the mistake is discovered by the person’s KiwiSaver scheme provider:
     (ii) 3 months after the mistake is notified to the provider by the Commissioner or another person:
-    (iii) the day the provider pays the amount of the member's accumulation, less the amount that was transferred from an Australian complying superannuation scheme for the person to the Commissioner.
+    (iii) the day the provider pays the amount of the member's accumulation, less the amount that was transferred from an Australian complying superannuation scheme for the person to the Commissioner; and
+  (c) for a person referred to in section 59A(b)﻿(ii), ending on the earlier of—
+    (i) the day the person reaches 19 years of age; and
+    (ii) the day the provider pays the amount of the member’s accumulation less the amount that was transferred from an Australian complying superannuation scheme for the person to the Commissioner.
 
 ### 59C Confirmed back-dated validation
 (1) This section applies if, during the period of initial back-dated validation under section 59B, the person described in section 59A—
   (a) is a person to whom this Act has been applied because of a mistake described in section 59A(a), and they meet the requirements of section 6 or become a person who meets the requirements of section 6:
-  (b) is a person to whom the automatic enrolment rules were applied because of the mistake described in section 59A(b), and—
+  (b) is a person to whom the automatic enrolment rules were applied because of the mistake described in section 59A(b)﻿(i), and—
     (i) they meet the requirements of section 6 or become a person who meets the requirements of section 6; and
     (ii) they are less than the New Zealand superannuation qualification age; and
     (iii) they do not opt out.
-(2) The person is treated as a person in relation to whom no mistake described in section 59A was made, and, at that time, met the requirements of section 6 or the requirements of the automatic enrolment rules.
+(2) The person is treated as a person—
+  (a) in relation to whom no mistake described in section 59A(a) and (b)﻿(i) was made; and
+  (b) who, at the time, met the requirements of section 6 or the requirements of the automatic enrolment rules described in section 59A(b)﻿(i).
 (3) The Commissioner must notify the provider that this section applies.
 (4) The relevant provider does not pay the member’s accumulation for the person to the Commissioner.
 
-### 59D What happens when initial back-dated validation ends, with no confirmed back-dated validation?
-(1) This section applies when the period of initial back-dated validation under section 59B ends, and confirmed back-dated validation under section 59C has not occurred.
+### 59CB Confirmed back-dated validation for those under 18 years at time of enrolment or opt-in
+(1) This section applies when—
+  (a) the automatic enrolment rules were applied to a person because of the mistake described in section 59A(b)﻿(ii):
+  (b) the opt-in rule in section 34 was applied to a person because of the mistake described in section 59A(d).
+(2) This section does not apply to—
+  (a) a person aged 16 years or under if all guardians of the person have contracted directly with a provider in the person’s name:
+  (b) a person aged 16 years or over but less than 18 years if the person and a guardian of the person have contracted directly with a provider:
+  (c) a person aged 18 years who—
+    (i) has contracted directly with a provider:
+    (ii) has opted in under section 34:
+    (iii) has chosen an investment product in a default KiwiSaver scheme or transferred their funds under section 55 to another scheme.
+(3) The person may,—
+  (a) if they are aged 15 years or under, opt out with consent from a guardian:
+  (b) if they are aged 16 years or over but less than 19 years, opt out.
+(4) The person opts out under subsection (3) by notifying the Commissioner.
+(5) If the person opts out under subsection (3), the Commissioner must notify the provider and the person’s employer.
+(6) The person’s employer must stop making deductions from the person’s salary or wages, with effect on the next payment of salary or wages that the employer calculates after the date on which the employer receives the notice referred to in subsection (5).
+(7) The employer may refund any deduction to the person, rather than pay it to the Commissioner.
+(8) If the person does not opt out under subsection (3) before the day on which they reach the age of 19 years, the person is treated as a person—
+  (a) in relation to whom no mistake described in section 59A(b)﻿(ii) or 59A(d) was made; and
+  (b) who, at the time, met the requirements of the automatic enrolment rules or the age requirement for the application of the opt-in rule in section 34.
+(9) If the person does not opt out under subsection (3), the relevant provider does not pay the member’s accumulation for the person to the Commissioner.
+
+### 59D No confirmed backdated validation
+(1) This section applies when—
+  (a) in relation to a person described in section 59C(1)﻿(a) or (b)﻿(i), confirmed backdated validation under section 59C does not occur in the period of initial back-dated validation under section 59B:
+  (b) in relation to a person described in section 59CB(1), the person opts out under section 59CB(3).
 (2) The relevant provider must immediately—
   (a) provide the Commissioner with a notice stating, for the relevant person,—
     (i) the amount of contributions received directly by the provider (not via the Commissioner), when they were received, and (if available) who they were paid by; and
@@ -1978,8 +2014,7 @@ Part 8A of the Tax Administration Act 1994 applies to every notice of a disputab
 **Giving of notices**
 
 ### 217 Giving of notices by and to Commissioner
-(1) Section 14 of the Tax Administration Act 1994 applies when this Act requires the Commissioner to give a notice to a person.
-(2) Section 14B of the Tax Administration Act 1994 applies when this Act requires a person to give a notice to the Commissioner.
+Sections 14 to 14G of the Tax Administration Act 1994 apply when this Act requires either the Commissioner to give a notice to a person, or a person to give a notice to the Commissioner.
 
 ### 218 Giving of notices to other persons
 (1) This section applies when this Act requires a person to give a notice to a person other than the Commissioner.
@@ -2002,7 +2037,16 @@ Part 8A of the Tax Administration Act 1994 applies to every notice of a disputab
 Sections 217 to 219 apply to the giving or supplying of a product disclosure statement under this Act (including for the purposes of the Financial Markets Conduct Act 2013) as if it were the giving of a notice.
 
 ### 220B Information sharing
-The Commissioner and a provider may, for the purposes of administering this Act or a KiwiSaver scheme, communicate to each other by electronic means a person's name, address, date of birth, and tax file number.
+(1) The Commissioner and a provider may, for the purposes of administering this Act or a scheme, communicate to each other by electronic means—
+  (a) a person’s name, date of birth, and tax file number:
+  (b) a person’s contact information including their address and phone number:
+  (c) information relating to a person’s transfer from a KiwiSaver scheme or complying superannuation fund (an old scheme) to a new KiwiSaver scheme (a new scheme) including:
+    (i) the information mentioned in paragraphs (a) and (b):
+    (ii) the effective date of the transfer:
+    (iii) details of the new scheme or old scheme such as the scheme’s registered name and number, address, and tax file number:
+    (iv) the date on which the person first became a member of a KiwiSaver scheme, if the old scheme is a KiwiSaver scheme:
+    (v) information about claims made under section 68C of the Tax Administration Act 1994 for the person.
+(2) Nothing in subsection (1) removes an obligation imposed on a provider under this Act to communicate information.
 
 **Miscellaneous provisions**
 
