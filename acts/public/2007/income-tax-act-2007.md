@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2016-05-14_
+_Consolidation as at 2016-06-02_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -214,9 +214,9 @@ FDP
 A person must pay the following types of income or ancillary tax under the relevant Part:
   (a) qualifying company election tax under Part H (Taxation of certain entities):
   (b) income tax on taxable distributions from non-complying trusts under Part H:
-  (c) further income tax under Part O (Memorandum accounts):
+  (c) further income tax under Part O (Memorandum accounts).
   (d)
-  (e) withdrawal tax under Part R (General collection rules).
+  (e)
 
 ### Subpart BG — Avoidance
 
@@ -382,7 +382,7 @@ An amount that a person derives from disposing of land is income of the person i
   (a) the person uses the land as a landfill before disposing of the land; and
   (b) at the time of disposal, the land is not being used as a landfill; and
   (c) the person acquiring the land is not an associated person; and
-  (d) the person gives written notice to the Commissioner of an election that the land be subject to this section by the day that is the later of the following:
+  (d) the person notifies the Commissioner of an election that the land be subject to this section by the day that is the later of the following:
     (i) the day that is 12 months after the day on which the person acquires the land:
     (ii) 24 June 2006; and
   (e) the person makes an election under paragraph (d) for all land that the person acquires and uses as a landfill; and
@@ -661,7 +661,7 @@ Income derived by a person, as timed and quantified under any of the following p
 
 ### CB 28 Environmental restoration accounts
 Income from refund
-(1) A person who receives a refund for a tax year under section EK 12 (Refund if request or excess balance) derives for the person’s corresponding income year an amount of income calculated using the formula—refund ÷ tax rate.
+(1) A person who receives a refund for a tax year under section EK 12 (Refund if application or excess balance) derives for the person’s corresponding income year an amount of income calculated using the formula—refund ÷ tax rate.
 Income from transfer from environmental restoration account
 (2) If there is a transfer from a person’s environmental restoration account under section EK 15, EK 16, or EK 19 (which relate to environmental restoration accounts), the person derives for the corresponding income year an amount of income calculated using the formula—transfer ÷ tax rate.
 Definitions of items in formulas
@@ -1458,7 +1458,7 @@ Non-deductible capital
 ### CD 34B Distributions to members of co-operative companies
 What this section applies to
 (1) This section applies to a distribution by a co-operative company, or by a company (a subsidiary) in which the co-operative company has a voting interest of 100%, if—
-  (a) the distribution is made after the Commissioner has received, from the co-operative company, an election in writing to apply this section; and
+  (a) the distribution is made after the co-operative company has notified the Commissioner that they have elected to apply this section; and
   (b) the election has not been revoked.
 General rule: co-operative company distributions not dividends
 (2) If the requirements in subsection (4) are met, a distribution by a co-operative company, or by a subsidiary, to a member of the co-operative company is not a dividend, to the extent to which the distribution is for their—
@@ -5339,13 +5339,13 @@ When this section applies
 (1) This section applies for a person and an income year (the current year) before the 2019–20 income year when the person,—
   (a) in or before the current year, derives for buildings or land (the affected property), all of which is revenue account property,—
     (i) insurance or compensation, if a Canterbury earthquake as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011 damages the land and damages each building, or the neighbourhood of the building, causing the building to be useless for the purpose of deriving income and consequently to be demolished or abandoned for later demolition:
-    (ii) an amount from a purchase by the Crown from the person under section 53(1), 54, or 55 of the Canterbury Earthquake Recovery Act 2011; and
+    (ii) an amount from a purchase by the Crown from the person under section 91, 103, or 104 of the Greater Christchurch Regeneration Act 2016; and
   (b) in the absence of this section, would have in or before the current year a total amount of income (the insurance income) under sections CB 6, CB 7, CB 12, CB 13, and CG 6 (which relate to income from certain disposals of land and from compensation for trading stock) from the consideration, compensation, or insurance for the affected property that exceeds the total amount of deductions under sections DB 23 and DB 27 (which relate to deductions for the cost or value of land) for the affected property; and
   (c) plans, in the current year, to acquire property (the replacement property)—
     (i) replacing affected property; and
     (ii) meeting the requirements of subsection (4); and
     (iii) having a cost exceeding the total amount of deductions under sections DB 23 and DB 27 for the affected property; and
-  (d) gives written notice to the Commissioner under subsection (6) in relation to the affected property.
+  (d) notifies the Commissioner under subsection (6) in relation to the affected property.
 Suspended recovery income
 (2) The amount (the excess recovery) by which the insurance income referred to in subsection (1)﻿(b) exceeds the deductions referred to in subsection (1)﻿(b) is not income of the person except to the extent of the amount (the suspended recovery income) remaining after adjustment under subsection (3) that is attributed to an income year by subsection (5).
 Effect of purchase of replacement property
@@ -5364,7 +5364,7 @@ Amount remaining at end of 2018–19 income year or when person changes intentio
   (b) in the current year, the person decides not to replace the affected property:
   (c) in the current year, the person goes into liquidation or becomes bankrupt.
 Notice of election for affected property
-(6) A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from the insurance for affected property must give written notice to the Commissioner—
+(6) A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from the insurance for affected property must notify the Commissioner—
   (a) by the later of 31 January 2012 and the date on which the return of income is filed for the earliest income year (the estimate year) in which the amount of the insurance for the affected property can be reasonably estimated; and
   (b) if the current year is after the estimate year,—
     (i) for each income year between the estimate year and the current year, by the date on which the return of income is filed for that income year; and
@@ -5379,7 +5379,7 @@ Relationship to section CG 6
 (8) This section overrides section CG 6.
 
 ### CZ 26 Land and buildings affected by Canterbury earthquakes—sections CB 9 to CB 11 and CB 14 overridden for Crown purchases
-Sections CB 9 to CB 11 and CB 14 (which relate to disposals within 10 years of acquisition) do not apply to a person and land or buildings purchased by the Crown from the person under section 53(1), 54, or 55 of the Canterbury Earthquake Recovery Act 2011.
+Sections CB 9 to CB 11 and CB 14 (which relate to disposals within 10 years of acquisition) do not apply to a person and land or buildings purchased by the Crown from the person under section 91, 103, or 104 of the Greater Christchurch Regeneration Act 2016.
 
 ### CZ 27 Prior bad debt deductions clawback
 When this section applies
@@ -8355,7 +8355,7 @@ Timing of deduction
 (2) The deduction under subsection (1) is allocated to the income year referred to in section EK 7.
 Deduction for transfer
 (3) A person is allowed a deduction for an income year of the amount set out in section EK 8 (Deduction for transfer) if in an income year the person receives—
-  (a) a transfer under section EK 15 (Transfer on request) that is treated under section EK 15(3) as being a payment by the person:
+  (a) a transfer under section EK 15 (Transfer on application) that is treated under section EK 15(3) as being a payment by the person:
   (b) a transfer under section EK 16(3)﻿(b) (Transfer on death, bankruptcy, or liquidation):
   (c) a transfer under section EK 19 (Environmental restoration account of amalgamating company).
 Timing of deduction
@@ -10245,7 +10245,7 @@ Commissioner’s determination
 (4) If a person chooses a valuation method that is not available to them and they later make no effective election, the Commissioner must determine the method to be used. In doing so, the Commissioner must consult the person.
 Restrictions on use of valuation methods
 (5) Restrictions apply to the use of valuation methods, as described in sections EC 8 to EC 10.
-Exception to subsection (2): express written notice required in certain cases
+Exception to subsection (2): express notice required in certain cases
 (6) Subsection (2) does not apply to the extent to which an election requires a notice under section EC 11.
 
 ### EC 8 Restrictions arising from use of herd scheme
@@ -10697,7 +10697,7 @@ Bloodstock not used in business
 Non-breeding bloodstock
 (3) If a bloodstock owner expects that bloodstock will not be able to be used for future breeding, the use in an income year of the bloodstock for racing is not treated as use in the course of a business of breeding bloodstock for sale or exchange. However, if the bloodstock owner uses the bloodstock in the course of their business of breeding bloodstock for sale or exchange, they may apply to the Commissioner to have the use of the bloodstock treated as use in the course of the business.
 Application to Commissioner
-(4) The application must be made in writing with the supporting information that the Commissioner requires within 1 month after the day on which the bloodstock is first prepared for racing by the bloodstock owner or the day on which it is first raced by the bloodstock owner, whichever is earlier.
+(4) The application must be made with the supporting information that the Commissioner requires within 1 month after the day on which the bloodstock is first prepared for racing by the bloodstock owner or the day on which it is first raced by the bloodstock owner, whichever is earlier.
 
 ### EC 47 Change of use of bloodstock in course of business
 Use outside business
@@ -10731,7 +10731,7 @@ Time limit
 Delay in replacing breeding stock
 (7) In the case of lost, dead, or permanently injured breeding stock, the Commissioner may extend the time limit under subsection (6). However, valid commercial reasons must exist for the delay in replacing the breeding stock and the replacement breeding stock must have been acquired before the end of the second income year following the income year in which the loss, death, or permanent injury occurred.
 Application to Commissioner
-(8) An application under subsection (2) must be made in writing within the relevant time limits described in subsections (6) and (7). The application must relate only to replacement breeding stock acquired before the application is made.
+(8) An application under subsection (2) must be made within the relevant time limits described in subsections (6) and (7). The application must relate only to replacement breeding stock acquired before the application is made.
 
 ### Subpart ED — Valuation of excepted financial arrangements
 
@@ -12213,8 +12213,8 @@ How election made
 (3) The person makes the election by including the foreign source income or foreign expenditure in their return of income for the income year referred to in subsection (1)﻿(c).
 What election applies to
 (4) The election applies to all the person’s foreign source income and foreign expenditure to which subsection (1) applies, except for—
-  (a) income or expenditure under the financial arrangements rules, unless the Commissioner agrees in writing; or
-  (b) dividends, unless the Commissioner agrees in writing and the person is not a company; or
+  (a) income or expenditure under the financial arrangements rules, unless the Commissioner notifies the person that the election can apply; or
+  (b) dividends, unless the Commissioner notifies the person that the election can apply and the person is not a company; or
   (c) attributed controlled foreign company (CFC) income; or
   (d) foreign investment fund (FIF) income or income derived from an attributing interest; or
   (e) in the case of foreign expenditure, foreign expenditure that would be allowed as a deduction if the only income of the person were income to which paragraphs (a) to (d) apply.
@@ -12222,7 +12222,7 @@ Timing of income
 (5) The foreign source income and foreign expenditure to which the election applies is allocated to the income year referred to in subsection (1)﻿(c).
 Election treated as continuing
 (6) An election made by a person under subsection (2) applies for the income year referred to in subsection (1)﻿(c) and all later income years, unless—
-  (a) the Commissioner agrees in writing to allow the person to revoke the election; or
+  (a) the person seeks the Commissioner’s agreement to revoke the election, and the Commissioner notifies them that they may revoke the election; or
   (b) the person’s net income for the relevant income year would be more than $100,000 if their only income in the income year were foreign source income.
 Net income of more than $100,000
 (7) If subsection (6)﻿(b) applies,—
@@ -12411,17 +12411,17 @@ Who may apply
   (d) the liquidator appointed for the person may apply under section EH 25.
 Application
 (2) An application for a refund must—
-  (a) be in writing; and
+  (a)
   (b) state the grounds on which it is made; and
   (c) state the amount applied for.
 
-### EH 13 Refund on request
+### EH 13 Refund on application
 When this section applies
 (1) This section applies when a person wants a refund of some or all of the amount in their main income equalisation account, and none of sections EH 8, EH 10, EH 15, EH 17, EH 19, EH 23, and EH 25 applies.
 Refund
 (2) The Commissioner must refund to the person the amount applied for, to the extent to which it can be made up of 1 or more deposits that have been in the person’s main income equalisation account for at least 1 year before the date the deposit ends. Section EH 28 overrides this subsection.
 
-### EH 14 Income when refund given on request
+### EH 14 Income when refund given on application
 Year of income
 (1) A refund under section EH 13 is income, under section CB 27 (Income equalisation schemes), derived by the person and is allocated to the income year in which the Commissioner receives the application for the refund.
 When year of income may be different
@@ -12745,17 +12745,17 @@ Who may apply
   (d) the liquidator appointed for the person may apply under section EH 55.
 Application
 (2) An application for a refund must—
-  (a) be in writing; and
+  (a)
   (b) state the grounds on which it is made; and
   (c) state the amount applied for.
 
-### EH 45 Refund on request
+### EH 45 Refund on application
 When this section applies
 (1) This section applies when a person wants a refund of some or all of the amount in the person’s adverse event income equalisation account, and none of sections EH 47, EH 49, EH 53, and EH 55 applies.
 Refund
 (2) The Commissioner must refund to the person the amount applied for.
 
-### EH 46 Income when refund given on request
+### EH 46 Income when refund given on application
 A refund under section EH 45 is income, under section CB 27 (Income equalisation schemes), derived by the person in the income year in which the Commissioner receives the application for the refund.
 
 ### EH 47 Refund on retirement
@@ -13021,17 +13021,17 @@ Who may apply
   (b) the liquidator appointed for the person may apply under section EH 75.
 Application
 (2) An application for a refund must—
-  (a) be in writing; and
+  (a)
   (b) state the grounds on which it is made; and
   (c) state the amount applied for.
 
-### EH 71 Refund on request
+### EH 71 Refund on application
 When this section applies
 (1) This section applies when a person wants a refund of some or all of the amount in the person’s thinning operations income equalisation account, and neither section EH 73 nor EH 75 applies.
 Refund
 (2) The Commissioner must refund to the person the amount applied for, to the extent to which it can be made up of 1 or more deposits that have been in the person’s thinning operations income equalisation account for at least 1 year before the date the deposit ends.
 
-### EH 72 Income when refund given on request
+### EH 72 Income when refund given on application
 Year of income
 (1) A refund under section EH 71 is income, under section CB 27 (Income equalisation schemes), derived by the person in the income year in which the Commissioner receives the application for the refund.
 When year of income may be different
@@ -13115,7 +13115,7 @@ When this section applies
 Timing of income
 (2) The person may allocate the income between the income year in which they derive it and any 1 or more of the previous 3 income years.
 Application
-(3) A person who wants to make an allocation under subsection (2) must apply in writing to the Commissioner no later than 1 year after the end of the income year in which they derive the income.
+(3) A person who wants to make an allocation under subsection (2) must apply to the Commissioner no later than 1 year after the end of the income year in which they derive the income.
 
 ### EI 2 Interest from inflation-indexed instruments
 When this section applies
@@ -13154,8 +13154,8 @@ Self-publication
 (4) Subsection (3) applies to income that the person derives from being the publisher of their work.
 Application
 (5) The following provisions apply to an allocation for the purposes of subsections (2) and (3):
-  (a) for an allocation under subsection (2), the person must apply in writing to the Commissioner no later than 6 years after the end of the income year in which they receive the payment; and
-  (b) for an allocation under subsection (3), the person must apply in writing to the Commissioner no later than 8 years after the first publication of the work.
+  (a) for an allocation under subsection (2), the person must apply to the Commissioner no later than 6 years after the end of the income year in which they receive the payment; and
+  (b) for an allocation under subsection (3), the person must apply to the Commissioner no later than 8 years after the first publication of the work.
 Some definitions
 (6) In this section,—
   - **author** includes a joint author
@@ -13264,7 +13264,7 @@ Timing of deduction
 (3) If the person allocates income to 2 or more income years, they must allocate part of any deduction allowed for the cost of the land to the same income years. The part must bear the same proportion to the total deduction as the allocated income bears to the total amount of income.
 Application
 (4) The following provisions apply to an allocation for the purposes of subsection (2):
-  (a) the person, or another person for them, must make a written application to the Commissioner:
+  (a) the person, or another person for them, must apply to the Commissioner:
   (b) the application must be made within 1 year after the end of the tax year in which the person derives the income or within a longer time if the Commissioner agrees:
   (c) the person must arrange to meet all income tax liabilities relating to the income:
   (d) the Commissioner may cancel the allocation at any time.
@@ -13848,17 +13848,17 @@ Who may apply
   (b) represents an excess in the person’s environmental restoration account over the maximum account balance for the person’s environmental restoration account for the income year.
 Application
 (2) An application for a refund must—
-  (a) be in writing; and
+  (a)
   (b) state the grounds on which the application is made; and
   (c) provide evidence satisfactory to the Commissioner verifying the existence of the grounds; and
   (d) state the amount of the refund that the applicant wants.
 
-### EK 12 Refund if request or excess balance
+### EK 12 Refund if application or excess balance
 When this section applies
 (1) This section applies when—
   (a) a person wants a refund of some or all of the amount in the person’s environmental restoration account and none of sections EK 9, EK 15, EK 16, and EK 19 applies:
   (b) the amount in the person’s environmental restoration account is more than the maximum account balance for an income year.
-Refund if request made
+Refund if application made
 (2) The Commissioner must make a refund under this section to a person if—
   (a) the person applies for a refund and has incurred expenditure—
     (i) of a kind that is listed in schedule 19, part B (Expenditure in avoiding, remedying, or mitigating detrimental effects of discharge of contaminant) and not in schedule 19, part C; and
@@ -13885,7 +13885,7 @@ Amount of refund if maximum account balance decreases
 Relationship with section EK 17
 (7) Section EK 17 overrides subsections (5) and (6).
 
-### EK 13 Income when refund given on request
+### EK 13 Income when refund given on application
 A refund under section EK 12 is income, of the amount given by section CB 28 (Environmental restoration accounts), derived by the person in the income year in which the person receives the refund.
 
 ### EK 14 Application for transfer
@@ -13893,17 +13893,17 @@ Who may apply
 (1) A person may apply to the Commissioner for a transfer under section EK 15 from the amount in the person’s environmental restoration account.
 Application
 (2) An application for a transfer must—
-  (a) be in writing; and
+  (a)
   (b) state the grounds on which the application is made; and
   (c) state the amount of the transfer that the applicant wants.
 
-### EK 15 Transfer on request
+### EK 15 Transfer on application
 When this section applies
 (1) This section applies when—
   (a) a person applies under section EK 14 for a transfer of some or all of the amount in their environmental restoration account to a person who is nominated in the application; and
   (b) the person has transferred to the nominated person the obligations to which the amount relates; and
   (c) none of sections EK 9, EK 12, EK 16, and EK 19 applies.
-Transfer if request made
+Transfer if application made
 (2) The Commissioner must make a transfer under this section to an environmental restoration account of the person nominated in the application.
 Transfer treated as payment by nominated person
 (3) A transfer under subsection (2) is treated as being a payment by the nominated person to the nominated person’s environmental restoration account if the nominated person satisfies the Commissioner that—
@@ -13923,7 +13923,7 @@ When this section applies
     (ii) becomes bankrupt:
     (iii) is put into liquidation.
 Transfer to other person
-(2) Subsection (3) applies if the Commissioner is informed, by the administrator of the person’s estate, the Official Assignee, or the person’s liquidator, that the obligation to which the balance in the person’s environmental restoration account relates has been transferred to another person.
+(2) Subsection (3) applies if the Commissioner is notified, by the administrator of the person’s estate, the Official Assignee, or the person’s liquidator, that the obligation to which the balance in the person’s environmental restoration account relates has been transferred to another person.
 Transfer by Commissioner
 (3) The Commissioner must transfer the amount referred to in subsection (4) to an environmental restoration account of the person to whom the obligation has been transferred.
 Amount of transfer
@@ -14469,7 +14469,7 @@ Modifications
 (3) For a determination alternative that is Determination G9C or G14B, the allocation is modified as follows:
   (a) the term forward contract is treated as including a conditional or unconditional agreement to pay or be paid an amount calculated by reference to the price of property or services, without the property being delivered or the services being performed:
   (b) a requirement that all companies in a group of companies to which the person belongs choose to use the determination alternative is treated as met if—
-    (i) all companies in the group choose Determination G9C or G14B in writing on or before the 63rd day after the person enters into the financial arrangement, or a later time as the Commissioner allows; and
+    (i) all companies in the group notify the Commissioner that they choose Determination G9C or G14B on or before the 63rd day after the person entered into the financial arrangement, or a later time as the Commissioner allows; and
     (ii) the financial arrangement is the first financial arrangement of the group for which Determination G9C or G14B may be used.
 Modifications
 (3B) For a determination alternative that is Determination G27, the allocation is modified as follows:
@@ -14715,9 +14715,9 @@ Modification
 
 ### EW 26 Change of spreading method
 Requirements for change from straight-line and market value method
-(1) A person may change from the straight-line method or the market value method if they change to a method that is not a method for IFRS under section EW 15B, and the Commissioner has given written authorisation for the change.
+(1) A person may change from the straight-line method or the market value method if they change to a method that is not a method for IFRS under section EW 15B, and the Commissioner has authorised the change and notified the person of the authorisation.
 Change of other method
-(2) A person may change from any spreading method to any other method if the Commissioner's written authorisation under subsection (1) is not required for the change, and they have a sound commercial reason for the change. The advancement, deferral, or reduction of an income tax liability is not a sound commercial reason.
+(2) A person may change from any spreading method to any other method if the Commissioner's notification under subsection (1) is not required for the change, and they have a sound commercial reason for the change. The advancement, deferral, or reduction of an income tax liability is not a sound commercial reason.
 Spreading method adjustment
 (3) When a person changes their spreading method under subsection (2),—
   (a) they must use the formula in section EW 27 to calculate a spreading method adjustment for the income year in which they change the method; and
@@ -14893,7 +14893,9 @@ When this section applies
   (a) the financial arrangement is a foreign ASAP that relates to:
     (i) property that is or will be depreciable property or revenue account property; or
     (ii) services, the sale or purchase of which, as relevant for the person, gives rise to assessable income or deductions under this Act outside of the financial arrangements rules; and
-  (b) the person has made, at the time of filing a return of income for the income year in which they enter into the financial arrangement or at the time of filing a return of income for an earlier income year, an irrevocable election in writing to apply this section to all financial arrangements for property and services described in paragraph (a)﻿(i) and (ii); and
+  (b) the person notifies the Commissioner that they have made an irrevocable election to apply this section to all financial arrangements for property and services described in paragraph (a)﻿(i) and (ii), at the time of—
+    (i) filing a return of income for the income year in which they enter into the financial arrangement; or
+    (ii) filing a return of income for an earlier income year; and
   (c) the person holds a non-IFRS designated FX hedge in relation to the financial arrangement.
 Value: IFRS
 (3) For a financial arrangement described in subsection (1) the value under section EW 32 of the relevant property or services is modified by the amount attributed under IFRS rules to that value on account of the relevant IFRS designated FX hedge.
@@ -17913,7 +17915,7 @@ Significant employer superannuation contributions required
 No avoidance effect
 (8) The fund must not have been established, and must not be being used at any time in the income year, in a way that has the effect of defeating the intent and application of the life insurance rules.
 FMA approval required
-(9) The trustee of the fund must have made a written application to the FMA for, and the FMA must have granted, approval that the fund is for the income year one that complies with subsections (3) to (8).
+(9) The trustee of the fund must have applied to the FMA for, and the FMA must have granted, approval that the fund is for the income year one that complies with subsections (3) to (8).
 Exemptions to requirements of subsection (7)
 (10) Subsection (7) does not apply if—
   (a) the FMA is satisfied that, for the income year, subsection (7) would have been complied with but for the fund assets exceeding the accrued benefits from the fund:
@@ -18433,7 +18435,7 @@ Non-resident life insurer may apply
 (1) A life insurer not resident in New Zealand may apply to be treated for its New Zealand business as resident in New Zealand on and after the first day of a particular income year.
 Application
 (2) The life insurer applies by—
-  (a) completing a written application specifying the particular income year; and
+  (a) completing an application specifying the particular income year; and
   (b) giving the application to the Commissioner not less than 20 working days before the start of the particular income year.
 Commissioner may grant
 (3) The Commissioner may grant the application.
@@ -18808,7 +18810,7 @@ When this section applies
   (c) would have, in the absence of this section, from the earthquake compensation for the affected property in the affected class, depreciation recovery income under section EE 48 (Effect of disposal or event) in or before the current year; and
   (d) has a total amount of depreciation loss under section EE 48 for the affected property in the affected class that, treated as a positive amount, is less than the total amount of depreciation recovery income referred to in paragraph (c) by an amount (the excess recovery); and
   (e) plans in the current year to acquire depreciable property (the replacement property) meeting the requirements of subsection (7); and
-  (f) gives written notice to the Commissioner under subsection (9)—
+  (f) notifies the Commissioner under subsection (9)—
     (i) specifying the affected property and affected class; and
     (ii) linking, for the purposes of this section, each item of acquired replacement property with an affected class.
 Suspended recovery income
@@ -18853,7 +18855,7 @@ Attribution of suspended recovery income to income year: other events
   (b) when in the current year the person decides not to acquire more replacement property, if neither of paragraphs (a) and (c) apply earlier; or
   (c) when in the current year the person goes into liquidation or becomes bankrupt, if neither of paragraphs (a) and (b) apply earlier.
 Notice of election for affected property
-(9) A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from the insurance or compensation for affected property must give written notice to the Commissioner—
+(9) A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from the insurance or compensation for affected property must notify the Commissioner—
   (a) for the earliest income year (the estimate year) in which the amount of the insurance or compensation for the affected property can be reasonably estimated, by the later of 31 January 2012 and the date on which the return of income is filed for the estimate year; and
   (b) if the current year is after the estimate year,—
     (i) for each income year between the estimate year and the current year, by the date on which the return of income is filed for that income year; and
@@ -18895,7 +18897,7 @@ When this section applies
   (d) has a total amount of depreciation loss under section EE 48 for the affected class that, treated as a positive amount, is less than the total amount of depreciation recovery income referred to in paragraph (c) by an amount (the excess recovery); and
   (e) has in the current year an interest (a replacement interest) in a voting interest in a company (the owning company) having the purpose of acquiring depreciable property (the replacement property) meeting the requirements of subsection (6); and
   (f) holds the voting interest in the owning company or is the settlor of a trust of which the trustee holds the voting interest; and
-  (g) gives written notice to the Commissioner under subsection (10).
+  (g) notifies the Commissioner under subsection (10).
 Suspended recovery income
 (2) For a replacement interest, the amount that may be depreciation recovery income of the person in or after the current year (the suspended recovery income) is the excess recovery, for the affected property with which the replacement interest is linked under subsections (10) and (11), that remains at the beginning of the current year after—
   (a) adjustment under subsections (3), (8), and (9) for an earlier income year; and
@@ -18934,7 +18936,7 @@ Depreciation recovery income: other events
   (b) when in the income year the person disposes of the replacement interest, if neither of paragraphs (a) and (c) apply earlier; or
   (c) when in the income year the person goes into liquidation or becomes bankrupt, if neither of paragraphs (a) and (b) apply earlier.
 Notice of election for affected property
-(10) A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from earthquake compensation must give written notice under this section, or under section EZ 23B for years before the current year, to the Commissioner—
+(10) A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from earthquake compensation must give notice under this section, or under section EZ 23B for years before the current year, to the Commissioner—
   (a) for the earliest income year (the estimate year) in which the amount of the earthquake compensation for the affected property can be reasonably estimated, by the later of 31 January 2012 and the date on which the return of income is filed for the estimate year; and
   (b) if the current year is after the estimate year,—
     (i) for each income year between the estimate year and the current year, by the date on which the return of income is filed for that income year; and
@@ -19219,7 +19221,7 @@ Despite section EZ 33, a person may elect to apply the financial arrangements ru
 (3) Notwithstanding subsection (2), but subject to the other provisions of this section, where in any income year the total value of all financial arrangements of which a person is a holder or an issuer has on no day within that income year exceeded $1,500,000 or such greater amount as the Governor-General may by Order in Council declare for the purposes of this section,—and any amount calculated in respect of a financial arrangement in accordance with this subsection is income deemed to be derived by or expenditure deemed to be incurred by the person in respect of the financial arrangement for the relevant income year.
   (a) the person may calculate income or expenditure for that income year in respect of those financial arrangements by using the straight-line method so as to result in the allocation to that income year and subsequent income years of amounts that are fair and reasonable in respect of those arrangements; and
   (b) where the straight-line method is used under paragraph (a), that method must be used by the person in respect of all financial arrangements of which the person was the holder or issuer during that income year; and
-  (c) where the person has in accordance with this subsection calculated income or expenditure using the straight-line method in respect of a financial arrangement for any income year, the person must, unless otherwise authorised in writing by the Commissioner, continue to use that method in respect of that financial arrangement for any subsequent income year, until the maturity, remittance, sale, or other transfer of the arrangement, notwithstanding that the total value of all financial arrangements of which the person is holder or issuer may at any time in any such subsequent income year exceed $1,500,000 or such other amount as may be declared for the purposes of this section,—
+  (c) where the person has in accordance with this subsection calculated income or expenditure using the straight-line method in respect of a financial arrangement for any income year, the person must, unless the Commissioner notifies them that they are otherwise authorised, continue to use that method in respect of that financial arrangement for any subsequent income year, until the maturity, remittance, sale, or other transfer of the arrangement, notwithstanding that the total value of all financial arrangements of which the person is holder or issuer may at any time in any such subsequent income year exceed $1,500,000 or such other amount as may be declared for the purposes of this section,—
 (4) For the purposes of subsection (3), a person must take into account financial arrangements to which subpart EW applies.
 (5) For the purposes of subsection (3),—the amount of income or expenditure of the person in respect of that financial arrangement for that first income year is an amount calculated in accordance with the following formula:a − b − c + dwhere—ais the sum of all amounts that would have been income derived by the person in respect of the financial arrangement if the straight-line method referred to in subsection (3) had been applied to the financial arrangement from the date it was acquired or issued by the person until the end of that first income yearbis the sum of all amounts that would have been expenditure incurred by the person in respect of the financial arrangement if the straight-line method referred to in subsection (3) had been applied to the financial arrangement from the date it was acquired or issued by the person until the end of that first income yearcis the sum of all amounts of income deemed to have been derived by the person in respect of the financial arrangement before the commencement of that first income yeardis the sum of all amounts deemed to have been expenditure incurred by the person in respect of the financial arrangement before the commencement of that first income year;—and any amount so calculated is, if a positive amount, deemed to be income derived by the person in that first income year and, if a negative amount, deemed to be expenditure incurred by the person in that first income year.
   (a) the value of any financial arrangement to be taken into account in determining whether the total value of all financial arrangements of which a person is the holder or issuer on any day exceeds $1,500,000 or such other amount as may be declared for the purposes of this section is,—
@@ -19666,10 +19668,10 @@ When this section applies
   (a) for the 2009–10 income year, unless paragraph (b) or (c) applies:
   (b) for the 2008–09 or the 2009–10 income year (a retrospective year) if—
     (i) the financial arrangement is subject to a creditor workout in a retrospective year; and
-    (ii) the person notifies the Commissioner in writing of their election to apply this section to the financial arrangement for a retrospective year:
+    (ii) the person notifies the Commissioner of their election to apply this section to the financial arrangement for a retrospective year:
   (c) for an income year after the 2009–10 income year, if—
     (i) the financial arrangement is subject to a creditor workout in the relevant income year; and
-    (ii) the person notifies the Commissioner in writing of their election to apply this section to the financial arrangement for the relevant income year before the last day for filing a return of income for that income year.
+    (ii) the person notifies the Commissioner of their election to apply this section to the financial arrangement for the relevant income year before the last day for filing a return of income for that income year.
 Exception modified
 (2) For the purposes of the exception in section EW 25B(2) (Consistency of use of IFRS method), the person may change a method for IFRS for the financial arrangement if—
   (a) the method they change to or from is Determination G3 under section EW 15E(2)﻿(aa) (Determination alternatives) or an alternative to Determination G3 under section EW 15E(2)﻿(e) (What is included when spreading methods used); and
@@ -21139,7 +21141,7 @@ Financial arrangements removed from measurement of amounts
   (c) the owner has direct ownership interests in a member of the group of 5% or more; and
   (d) the financial arrangement is not traded on an exchange that would be a recognised exchange if paragraphs (c) to (e) of the definition of recognised exchange referred to financial arrangements as well as to shares and options over shares.
 Commissioner’s estimate
-(4) If an excess debt entity is unable to calculate the debt percentage of their worldwide group for an income year, they may ask the Commissioner to estimate the percentage under this subpart. The estimate is then treated as the percentage applying for the purposes of this subpart.
+(4) If an excess debt entity is unable to calculate the debt percentage of their worldwide group for an income year, they may apply to the Commissioner to estimate the percentage under this subpart. The estimate is then treated as the percentage applying for the purposes of this subpart.
 Default percentage
 (5) The debt percentage of the worldwide group of an excess debt entity is treated as,—
   (a) 54.5454%, if the excess debt entity is not a trustee and not an excess debt outbound company, or is a trustee who is not described in section FE 2(1)﻿(g), and—
@@ -21748,9 +21750,9 @@ Withholding and payment obligations of companies
 When this section applies
 (1) This section applies before the nominated company of a consolidated group makes an assessment for the consolidated group for a tax year.
 Named companies bearing liability
-(2) Despite section FM 3(5), the nominated company may ask the Commissioner for approval for 1 or more named companies in the consolidated group to bear the consolidated group’s income tax liability for the tax year.
+(2) Despite section FM 3(5), the nominated company may apply to the Commissioner for approval for 1 or more named companies in the consolidated group to bear the consolidated group’s income tax liability for the tax year.
 Approval by Commissioner
-(3) The Commissioner must approve a request under subsection (2) unless limiting the liability to the named companies will significantly prejudice the recovery, or likely recovery, of the income tax liability of the consolidated group for the tax year.
+(3) The Commissioner must approve an application under subsection (2) unless limiting the liability to the named companies will significantly prejudice the recovery, or likely recovery, of the income tax liability of the consolidated group for the tax year.
 Liability limited to named companies
 (4) For a tax year to which an approval referred to in subsection (3) relates,—
   (a) only a named company is liable for the income tax liability of the consolidated group, and if more than 1 company is named, the liability is joint and several:
@@ -23779,11 +23781,11 @@ Receiving arm’s length amount
   (b)
   (c) the determination of the obligation of another person to withhold under Part R (General collection rules) from the amount.
 
-### GC 11 Requests for matching treatment
+### GC 11 Applications for matching treatment
 When this section applies
 (1) This section applies when—
   (a) an arm’s length amount of consideration is substituted under section GC 7 or GC 8 in relation to a transfer pricing arrangement entered into by a person (the taxpayer); and
-  (b) the other party to the arrangement or, if the other party is a controlled foreign company (CFC), a person with an income interest in the CFC, applies to the Commissioner in writing within 6 months after an assessment is made for the taxpayer which reflects the substitution; and
+  (b) the other party to the arrangement or, if the other party is a controlled foreign company (CFC), a person with an income interest in the CFC, applies to the Commissioner within 6 months after an assessment is made for the taxpayer which reflects the substitution; and
   (c) the Commissioner considers it is fair and reasonable to apply subsection (2), having regard to an adjustment made under a double tax agreement or any other matter; and
   (d) the Commissioner has notified the other party.
 Substitution applying for other party
@@ -24511,7 +24513,7 @@ LTC elections
     (i) signed and dated by all persons who, on the date of signing the election, own look-through interests in the LTC; and
     (ii) evidence unanimous agreement of the owners in choosing to apply section HB 1.
 Legal incapacities
-(2) If a person owns a look-through interest in the LTC, and either they are under 18 years old with a guardian or a contract they enter into could be unenforceable, cancelled, void, or voidable due to any legal incapacity other than age, the notice requirement in subsection (1)﻿(d) is modified so as to require a guardian, person with power of attorney, or other legal representative to sign and date the written notice, instead of the person.
+(2) If a person owns a look-through interest in the LTC, and either they are under 18 years old with a guardian or a contract they enter into could be unenforceable, cancelled, void, or voidable due to any legal incapacity other than age, the notice requirement in subsection (1)﻿(d) is modified so as to require a guardian, person with power of attorney, or other legal representative to sign and date the notice, instead of the person.
 Time of receipt of LTC elections
 (3) For the purposes of section HB 1, the election—
   (a) must be received by the Commissioner before the start of the income year specified in the election; or
@@ -29076,7 +29078,7 @@ Arrangements for tax advantage
 (4) A person’s tax credit under this section is extinguished if sections GB 35 (Imputation arrangements to obtain tax advantage) and GB 36 (Reconstruction of imputation arrangements to obtain tax advantage) apply.
 Refunds
 (5) To obtain a refund of the credit, the person must—
-  (a) ask the Commissioner for the refund after the 31 May that follows the end of the tax year; and
+  (a) apply to the Commissioner for the refund after the 31 May that follows the end of the tax year; and
   (b) meet the requirements of section 78D of the Tax Administration Act 1994.
 
 ### LF 9 When income tax unpaid
@@ -29835,30 +29837,16 @@ In sections LZ 6 and LZ 7, home vendor mortgage means a mortgage—
   (d) for which notice of such guarantee and approval and of any variation has been delivered by the Housing New Zealand Corporation to the Commissioner.
 
 ### LZ 9 Savings in special home ownership accounts
-When this section applies
-(1) This section applies when a person operates a special home ownership account in a tax year.
-Tax credit
-(2) The person is entitled to a tax credit equal to an amount calculated using the formula—increase in savings × 0.045.
-Definition of item in formula
-(3) In the formula, increase in savings is the total amount in complete dollars of the person’s increase in savings for all special accounts in the tax year.
-Relationship with sections LZ 10 and LZ 11
-(4) Sections LZ 10 and LZ 11 override this section.
+[Repealed]
 
 ### LZ 10 Maximum amount for 1 special home ownership account for 1 tax year
-For the purpose of calculating the amount of a credit under section LZ 9, the maximum amount of a single increase in savings for a special home ownership account for a tax year is $3,000.
+[Repealed]
 
 ### LZ 11 Maximum amount for all special home ownership accounts for all tax years
-For the purpose of calculating the amount of a credit under section LZ 9, the maximum amount of increase in savings for all special home ownership accounts of the person for all tax years is $10,250 for a special home ownership account.
+[Repealed]
 
 ### LZ 12 Meaning of increase in savings
-Meaning
-(1) In sections LZ 9 to LZ 11, increase in savings, in relation to a special home ownership account of a person and a tax year, means the total of—
-  (a) the amount by which the amount standing to the credit of that special home ownership account at the end of that tax year or the date of the closure of that account, whichever is the earlier, is more than the amount standing to the credit of that account, if any, at the end of the tax year immediately before that tax year; and
-  (b) the amount of resident withholding tax (RWT) withheld during that tax year from interest paid for the account.
-Withdrawals
-(2) For the purposes of the definition of increase in savings,—
-  (a) an amount withdrawn from a special home ownership account in accordance with a withdrawal certificate is treated as not having been withdrawn:
-  (b) an amount withdrawn from a special home ownership account in accordance with a withdrawal certificate, and subsequently redeposited in the account, is treated as not having been redeposited.
+[Repealed]
 
 ## Part M — Tax credits paid in cash
 
@@ -35280,7 +35268,7 @@ When no assessment for tax year before preceding tax year
 Commissioner’s calculation
 (4) The Commissioner must calculate a person’s GST ratio, informing them by—
   (a) including the percentage figure on the person’s preprinted GST return form; or
-  (b) advising them in writing or by telephone; or
+  (b)
   (c) some other means.
 Adjustment to GST ratio
 (5) The Commissioner must adjust a person’s GST ratio if a base amount is revised through, among other reasons,—
@@ -35448,7 +35436,7 @@ Instalments following default
 (3) A person who is required by subsection (2) to stop using a GST ratio must pay the provisional tax instalments required under section RC 18 for an instalment period beginning on or after the due date for filing the return referred to in subsection (2) that is not the subject of notification under subsection (4).
 Further use of GST ratio
 (4) Despite subsections (2) and (3), a person may use a GST ratio for an instalment period referred to in subsection (3) if—
-  (a) they apply in writing or by telephone to the Commissioner; and
+  (a) they ask the Commissioner; and
   (b) the Commissioner considers—
     (i) the failure to file the return is caused by an event or circumstance beyond the person’s control; and
     (ii) the event or circumstance provides reasonable justification or excuse for the failure; and
@@ -35467,7 +35455,7 @@ When this section applies
   (a) chooses another way to calculate the amount of provisional tax payable for the tax year; or
   (b) is required under section RC 17(1) or (2) to stop using a GST ratio for the corresponding income year.
 Informing Commissioner of decision to change
-(2) The person must inform the Commissioner of their decision under subsection (1)﻿(a), and may do this either in writing or by telephone. Subsection (4) or (5) then applies for the remaining instalments of provisional tax for the tax year.
+(2) The person must inform the Commissioner of their decision under subsection (1)﻿(a). Subsection (4) or (5) then applies for the remaining instalments of provisional tax for the tax year.
 Date on which use of GST ratio stopped
 (3) For the purposes of subsection (1)﻿(b), the date on which the person stops using a GST ratio is, as applicable,—
   (a) the date their GST registration ends; or
@@ -35478,7 +35466,7 @@ Date on which use of GST ratio stopped
 Changing method before date of instalment A
 (4) If the person is unable or decides not to use a GST ratio before the date of instalment A, and section RC 3(3) does not apply, they may choose to determine the amount of provisional tax payable under section RC 5(2), (3) or (5). The person is treated as never having chosen to use the GST ratio method and, for the purposes of section 120KE(5) of the Tax Administration Act 1994, as never having changed the way they determine an amount of provisional tax under this section.
 Changing method after instalment date
-(5) If the person is unable or decides not to use the GST ratio after an instalment date, and section RC 3(3) does not apply, they must determine the amount of provisional tax payable on instalment for the remainder of the income year under section RC 5(5) using the estimation method. For this purpose, the person may provide the estimate in writing or by telephone.
+(5) If the person is unable or decides not to use the GST ratio after an instalment date, and section RC 3(3) does not apply, they must determine the amount of provisional tax payable on instalment for the remainder of the income year under section RC 5(5) using the estimation method. The person must inform the Commissioner of the estimate.
 Date of application when method changed
 (6) If the person changes their calculation method under subsection (4) or (5), and the change is not required by section RC 17(1)﻿(bb), the date on which the change applies may be a future date agreed between the person and the Commissioner.
 Other consequences of changing method
@@ -35503,7 +35491,7 @@ Adjustment to GST ratio for current and next income year
   (a) the total taxable supplies for a taxable period for the purposes of the formula in section RC 11(1), in proportion to the output tax which is attributed under section 20(4) of that Act to that taxable period for the supply of the asset:
   (b) the base amount of total taxable supplies for the corresponding income year under section RC 8(2), in proportion to the output tax which is attributed under section 20(4) of that Act to a taxable period in that income year for the supply of the asset.
 Informing Commissioner
-(3) For the purposes of subsection (2), the person must inform the Commissioner of both the disposal of the asset and the value of its supply, and may do this either in writing or by telephone.
+(3) For the purposes of subsection (2), the person must inform the Commissioner of both the disposal of the asset and the value of its supply.
 Rounding percentages
 (4) In the determination of the value of the supply of the asset under subsection (1)﻿(b)﻿(i), the amount must be rounded to a whole percentage number.
 
@@ -36309,7 +36297,7 @@ Elections
 Hour applying for 2 income years
 (5) If the person chooses under subsection (3)﻿(a) a particular hour in the 24-hour period as the starting point of the day, that hour continues to apply to the use of the vehicle from the start of the relevant quarter, income year, or tax year, as applicable, for a minimum period of 2 income years.
 When circumstances change
-(6) An employer may ask the Commissioner to amend the starting point of the 24-hour period, or to treat the election as revoked, if the employer’s circumstances have changed in a way that—
+(6) An employer may apply to the Commissioner to amend the starting point of the 24-hour period, or to treat the election as revoked, if the employer’s circumstances have changed in a way that—
   (a) is more than minor; and
   (b) makes the starting point no longer relevant to the employer’s business.
 
@@ -36726,7 +36714,7 @@ When this section applies
     (ii) limited to making available to shareholder-employees 1 vehicle or 2 vehicles for their private use; or
   (c) the employer did not employ any employees.
 Income year basis
-(2) The employer may choose to pay their FBT liability on an income year basis, informing the Commissioner of their decision in writing or by telephone no later than—
+(2) The employer may choose to pay their FBT liability on an income year basis, informing the Commissioner of their decision no later than—
   (a) the last day of the first quarter of the relevant income year; or
   (b) the last day of the quarter in which the employer first starts employing employees, if subsection (1)﻿(c) applies.
 Rate or calculation
@@ -36746,7 +36734,7 @@ When this section applies
   (a) the gross amounts of tax for both PAYE income payments and employer's superannuation cash contributions withheld under section RA 5(1)﻿(a) and (c) (Tax obligations for employment-related taxes) for the tax year were no more than $500,000; or
   (b) the employer did not employ any employees.
 Annual basis
-(2) The employer may choose to pay their FBT liability on an annual basis, informing the Commissioner of their decision in writing or by telephone no later than—
+(2) The employer may choose to pay their FBT liability on an annual basis, informing the Commissioner of their decision no later than—
   (a) 30 June in the relevant tax year; or
   (b) the last day of the quarter in which the employer first starts employing employees, if subsection (1)﻿(b) applies.
 Rate or calculation
@@ -36848,7 +36836,7 @@ The amount of tax for an employer's superannuation cash contribution is—
 Amount treated as salary or wages
 (1) With the agreement of their employer who makes an employer's superannuation cash contribution on their behalf, an employee may choose to have some or all of an employer's superannuation cash contribution made on their behalf treated as salary or wages under the PAYE rules.
 Revoking election
-(2) The employee's election is valid until revoked in writing.
+(2) The employee's election is valid until they notify their employer of its revocation.
 
 ### RD 69 Choosing different rates for employer's superannuation cash contributions
 [Repealed]
@@ -37708,7 +37696,7 @@ Refunds arising from mistakes
 
 ### RM 5 Overpayment on income statements
 When this section applies
-(1) This section applies when an income statement has been provided to a person and the result is that an amount of tax must be refunded to the person. For the purposes of this section, the amount of tax must be more than $200.
+(1) This section applies when an income statement has been provided to a person and the result is that an amount of tax must be refunded to the person. For the purposes of this section, the amount of tax must be more than $600.
 Refundable credits
 (1B) An amount of tax under subsection (1) includes an amount of a refundable tax credit to which section LA 5(5) (Treatment of remaining credits) applies.
 Refund on confirmation of correctness
@@ -37785,11 +37773,11 @@ Reduction in amount
 When this section applies
 (1) This section applies when the amount of provisional tax payable for a tax year is reduced by the person liable to pay the provisional tax, or by the Commissioner under section 119(2) of the Tax Administration Act 1994.
 Reduction in amount of provisional tax payable
-(2) If the person applies in writing for a refund of the amount of provisional tax already paid that is as a result of the reduction more than the amount that would have been payable in relation to earlier instalment dates for the tax year, the Commissioner must—
+(2) If the person applies for a refund of the amount of provisional tax already paid that is as a result of the reduction more than the amount that would have been payable in relation to earlier instalment dates for the tax year, the Commissioner must—
   (a) apply the overpayment as the person asks under section 173T of the Tax Administration Act 1994 or, if no request is made, in a way that the Commissioner determines in payment of tax or another amount that is payable by them; and
   (b) refund any balance of the overpayment.
 Reduction in assessment
-(3) If the person’s residual income tax for the relevant tax year is no more than $2,500, and they apply in writing for the refund of an amount of provisional tax that has been determined under section RC 9 (Provisional tax payable in instalments) and already paid, other than on a final instalment, the Commissioner must—
+(3) If the person’s residual income tax for the relevant tax year is no more than $2,500, and they apply for the refund of an amount of provisional tax that has been determined under section RC 9 (Provisional tax payable in instalments) and already paid, other than on a final instalment, the Commissioner must—
   (a) apply the amount as the person asks under section 173T of the Tax Administration Act 1994 or, if no request is made, in a way the Commissioner determines in payment of tax or another amount that is payable by them; and
   (b) refund any balance of the amount.
 Treatment of amount refunded or credited
@@ -37889,9 +37877,9 @@ Group company’s tax loss
   (c) group company B makes the tax loss available so that group company A is able to get a refund of some or all of the payment.
 Application and return requirements
 (4) For this section to apply,—
-  (a) the company must apply to the Commissioner in writing; and
+  (a) the company must apply to the Commissioner; and
   (b) the company must meet the return requirements of section 71B of the Tax Administration Act 1994 for the income year in which the dividend is paid; and
-  (c) if group company B’s tax loss is used, group company B must make an election to use the tax loss in writing.
+  (c) if group company B’s tax loss is used, group company B must notify the Commissioner of its election to use the tax loss.
 Reduction in tax loss
 (5) When a refund is paid under this section, the amount of tax loss is reduced by an amount calculated using the formula—refund ÷ tax rate.
 Definition of items in formula
@@ -38209,9 +38197,9 @@ Transfers for provisional tax or terminal tax
 Group companies
 (4B) For the purposes of subsection (4)﻿(c), if the person is part of a group of companies, the person includes the other companies in the group at the time at which a deposit to the tax pooling account is made, or funds purchased or used, as applicable.
 Transfer within 60 days for increased amounts and use of money interest
-(5) If a person chooses to use funds in a tax pooling account to satisfy an obligation for an increased amount of tax as described in subsection (3)﻿(a) to (ac), or for interest under Part 7 of the Tax Administration Act 1994 on the increased amount of tax, the tax pooling intermediary must ask the Commissioner within 60 days from the date on which the Commissioner issues the notice of assessment increasing the amount to transfer the amount to the person's tax account with the Commissioner.
+(5) If a person chooses to use funds in a tax pooling account to satisfy an obligation for an increased amount of tax as described in subsection (3)﻿(a) to (ac), or for interest under Part 7 of the Tax Administration Act 1994 on the increased amount of tax, the tax pooling intermediary must apply to the Commissioner within 60 days from the date on which the Commissioner issues the notice of assessment increasing the amount to transfer the amount to the person's tax account with the Commissioner.
 Transfer within 60 days for deferrable tax, agreed delay tax, and use of money interest
-(6) If a person chooses to use funds in a tax pooling account to satisfy an obligation for deferrable tax under subsection (3)﻿(b), for agreed delay tax referred to in subsection (3)﻿(bb), or for interest under Part 7 of the Tax Administration Act 1994 on deferrable tax or agreed delay tax, the tax pooling intermediary must ask the Commissioner within 60 days from the date on which the court proceedings are finally determined to transfer the amount to the person's tax account with the Commissioner. For the purposes of this subsection, court proceedings include proceedings before the Taxation Review Authority.
+(6) If a person chooses to use funds in a tax pooling account to satisfy an obligation for deferrable tax under subsection (3)﻿(b), for agreed delay tax referred to in subsection (3)﻿(bb), or for interest under Part 7 of the Tax Administration Act 1994 on deferrable tax or agreed delay tax, the tax pooling intermediary must apply to the Commissioner within 60 days from the date on which the court proceedings are finally determined to transfer the amount to the person's tax account with the Commissioner. For the purposes of this subsection, court proceedings include proceedings before the Taxation Review Authority.
 Maximum amount of transfer
 (7) The maximum amount that a person may ask a tax pooling intermediary to transfer to meet an obligation to pay tax is—
   (a) for a transfer under subsection (4)﻿(a) or (b), the amount payable:
@@ -38232,7 +38220,7 @@ When subsection (10) applies
   (b) subsection (3)﻿(ab)﻿(ii) applies in relation to the amount; and
   (c) the person has not filed the return required by subsection (3)﻿(ab)﻿(i) before the voluntary disclosure is made.
 Commissioner's discretion to allow use of funds
-(10) On application by the person, the Commissioner may agree in writing that the person may use funds in a tax pooling account for the increased amount of tax, or for interest under Part 7 of the Tax Administration Act 1994 on that increased amount of tax, if the Commissioner is satisfied that—
+(10) On application by the person, the Commissioner may notify the person that the person may use funds in a tax pooling account for the increased amount of tax, or for interest under Part 7 of the Tax Administration Act 1994 on that increased amount of tax, if the Commissioner is satisfied that—
   (a) the increased amount of tax arises as a result of an event or circumstance beyond the person’s control; and
   (b) the person has a reasonable justification or excuse for not filing the return by the required date; and
   (c) the person has an otherwise good compliance history for the 2 income years before the income year in which the voluntary disclosure referred to in subsection (3)﻿(ab)﻿(ii) is made.
@@ -38268,7 +38256,7 @@ Refunding deposit
 
 ### RP 19 Transfers from tax pooling accounts
 Transferring amounts
-(1) A tax pooling intermediary may ask the Commissioner to transfer an amount in their tax pooling account to the tax account of a person who is their client or to another intermediary.
+(1) A tax pooling intermediary may apply to the Commissioner to transfer an amount in their tax pooling account to the tax account of a person who is their client or to another intermediary.
 Treatment of transferred amounts
 (1B) An amount transferred and credited to the tax account of a person for provisional tax or terminal tax is treated as follows:
   (a) for an amount credited on or before the person's terminal tax date for a tax year, as income tax paid to meet a provisional tax obligation under the provisional tax rules:
@@ -38276,13 +38264,13 @@ Treatment of transferred amounts
     (i) first, as applied under section 120F of the Tax Administration Act 1994 to pay interest that the person is liable to pay; and
     (ii) secondly, as income tax paid to meet the person's provisional tax obligation.
 Credited on date of deposit or later
-(2) The intermediary may ask the Commissioner that the amount of a transfer under subsection (1) is credited in the person's tax account or the account of another intermediary on the date on which the amount was deposited in the tax pooling account or on some later date.
+(2) The intermediary may apply to the Commissioner that the amount of a transfer under subsection (1) is credited in the person's tax account or the account of another intermediary on the date on which the amount was deposited in the tax pooling account or on some later date.
 Credit date
 (3) The credit date for an amount transferred to a person's tax account is—
   (a) for a transfer under section RP 17B(4)﻿(a) or (b), the relevant instalment date set out in schedule 3, part A (Payment of provisional tax and terminal tax):
   (b) for a transfer under section RP 17B(4)﻿(c), the date on which the person deposited the funds in a tax pooling account:
-  (c) for a request made within the 60-day period referred to in section RP 17B(5) or (6), a date nominated that is no earlier than the original due date for the relevant period:
-  (d) in any other case, the date on which the Commissioner receives the request for the transfer.
+  (c) for an application made within the 60-day period referred to in section RP 17B(5) or (6), a date nominated that is no earlier than the original due date for the relevant period:
+  (d) in any other case, the date on which the Commissioner receives the application for the transfer.
 Details
 (4) For the purposes of this section, the intermediary must provide the following details to the Commissioner by electronic means:
   (a) the date of the transfer and the credit date, if it is different; and
@@ -38311,20 +38299,20 @@ Refunds
     (i) provisional tax and terminal tax referred to in section RP 17B(4)﻿(a) or (b):
     (ii) an amount referred to in section RP 17B(5) consisting of an increased amount of tax and interest payable under Part 7 of the Tax Administration Act 1994 on the increased amount of tax:
     (iii) an amount referred to in section RP 17B(6) consisting of deferrable tax, or agreed delay tax, and interest payable under Part 7 of the Tax Administration Act 1994 on the deferrable tax or agreed delay tax:
-  (b) secondly, the amount is transferred with an effective date that is no earlier than the date on which the Commissioner received the later request:
+  (b) secondly, the amount is transferred with an effective date that is no earlier than the date on which the Commissioner received the later application:
   (c) thirdly, the amount is refunded to the person.
 Relationship with section RP 17B
 (6) This section overrides section RP 17B(7)﻿(a).
 
 ### RP 20 Declining, amending, or reversing transfers
 When this section applies
-(1) This section applies when a tax pooling intermediary asks to transfer an amount under section RP 19.
+(1) This section applies when a tax pooling intermediary applies to the Commissioner to transfer an amount under section RP 19.
 Tax avoidance
-(2) The Commissioner may refuse to accept the request, or may reverse the transfer, if the request is made for the purpose or effect of tax avoidance.
+(2) The Commissioner may refuse to accept the application, or may reverse the transfer, if the application is made for the purpose or effect of tax avoidance.
 Non-compliance
-(2B) If the Commissioner considers that the request does not comply with sections RP 17 to RP 21, the Commissioner may—
-  (a) decline to process the request:
-  (b) amend the request:
+(2B) If the Commissioner considers that the application does not comply with sections RP 17 to RP 21, the Commissioner may—
+  (a) decline to process the application:
+  (b) amend the application:
   (c) reverse the transfer.
 Failure to provide details
 (3) The Commissioner must refuse the transfer if—
@@ -38332,7 +38320,7 @@ Failure to provide details
   (b) the details required under section RP 19(4) have not been provided.
 
 ### RP 21 Refunds from tax pooling accounts
-A tax pooling intermediary may ask the Commissioner to refund some or all of the balance in their tax pooling account.
+A tax pooling intermediary may apply to the Commissioner to refund some or all of the balance in their tax pooling account.
 
 ### Subpart RZ — Terminating provisions
 
@@ -38445,34 +38433,16 @@ PCA persons
 (3) If a policyholder credit account (PCA) person has a refund of income tax, and an amount paid in excess is dealt with under section RM 31(2)﻿(c) (Treatment of amounts not refunded), the amount may be used only for a tax year commencing after the 1990–91 tax year, whether that is before or after the year of that entitlement.
 
 ### RZ 7 Withdrawal income
-When this section applies
-(1) This section applies when a special home ownership account is closed in a tax year, and an amount is withdrawn on the closure other than an amount withdrawn under a withdrawal certificate.
-Excluded income
-(2) The amount withdrawn is treated as withdrawal income derived in the tax year by the person who operated the account and is excluded income of the person.
-Amounts withdrawn under withdrawal certificates
-(3) If an amount is withdrawn from a special home ownership account under a withdrawal certificate and the requirements relating to that account have not been met, the amount is treated as withdrawal income derived by the person who operated the account in the tax year in which the Commissioner is notified that the requirements were not met.
-Maximum amount
-(4) For the purposes of subsections (2) and (3), the amount of withdrawal income must be no more than $10,250 less the total amount withdrawn from the account under a withdrawal certificate.
+[Repealed]
 
 ### RZ 8 Payment and rate of withdrawal tax
-When this section applies
-(1) This section applies when a person withdraws an amount from a special home ownership account that they have with an authorised savings institution and derives withdrawal income under section RZ 7(2).
-Withholding withdrawal tax
-(2) The authorised savings institution must withhold the amount of withdrawal tax from the amount payable to the person.
-Rate of withdrawal tax
-(3) The rate of withdrawal tax on withdrawal income is 45% of the gross amount of the income.
-Paying withdrawal tax
-(4) The authorised savings institution must pay the amount of tax to the Commissioner no later than the 20th day of the month following the month in which it becomes liable to withhold the amount.
-Institution’s payment but failure to withhold
-(5) If an authorised savings institution fails to withhold and pay the amount of withdrawal tax under subsection (2), and has paid an amount to the Commissioner under subsection (3), it may recover the amount from the person.
-Person paying withdrawal tax
-(6) A person who derives withdrawal income under section RZ 7(3) must pay to the Commissioner within the time allowed the amount of withdrawal tax payable for the income.
+[Repealed]
 
 ### RZ 9 Relief in certain cases
-If the Commissioner is satisfied that an amount of withdrawal tax is more than the total tax credit allowed in relation to a person’s account under section LZ 9(2) (Savings in special home ownership accounts), the Commissioner must reduce the amount of the withdrawal tax as is fair and reasonable in the circumstances.
+[Repealed]
 
 ### RZ 10 Recovery of amounts payable to Commissioner
-An amount payable to the Commissioner under section RZ 8(3) or (5) is recoverable as if it were income tax imposed under section BB 1 (Imposition of income tax).
+[Repealed]
 
 ### RZ 11 Refunds for life insurers
 The Commissioner must refund an amount of tax that a life insurer has paid to the extent to which—
@@ -38643,8 +38613,8 @@ In this Act, unless the context requires otherwise,—
     (k) ESCT:
     (kb) RSCT:
     (l) RWT:
-    (m) NRWT:
-    (n) withdrawal tax
+    (m) NRWT
+    (n)
   - **annual branch equivalent tax account return** means the return to be filed with the Commissioner by a company under sections 77 and 78 of the Tax Administration Act 1994
   - **annual FDPA return** means the return to be filed with the Commissioner by a company under sections 71 and 72 of the Tax Administration Act 1994
   - **annual gross income** is defined in section BC 2 (Annual gross income)
@@ -38655,6 +38625,7 @@ In this Act, unless the context requires otherwise,—
   - **annual rates** means the rates of income tax fixed for a tax year by the annual taxing Act for that year
   - **annual taxing Act** means the provisions of any Act by which the rates of income tax are fixed for a tax year
   - **annual total deduction** is defined in section BC 3 (Annual total deduction)
+  - **apply** , for a mode of communication, has the meaning set out in section 14C of the Tax Administration Act 1994
   - **approved issuer** means a person for whom an approval under section 32M of the Tax Administration Act 1994 is in force
   - **arm's length amount** , for an arrangement that is a cross-border arrangement under section GC 6 (Purpose of rules and nature of arrangements) means an arm's length amount of consideration under section GC 13 (Calculation of arm's length amounts)
   - **arrangement** means an agreement, contract, plan, or understanding, whether enforceable or unenforceable, including all steps and transactions by which it is carried into effect
@@ -38666,6 +38637,7 @@ In this Act, unless the context requires otherwise,—
   - **ASC credit** means a credit referred to in section OA 5(6) (Credits)
   - **ASC debit** means a debit referred to in section OA 6(6) (Debits)
   - **ASCA** means available subscribed capital account
+  - **ask** , for a mode of communication, has the meaning set out in section 14B of the Tax Administration Act 1994
   - **assessable income** is defined in section BD 1(5) (Income, exempt income, excluded income, non-residents’ foreign-sourced income, and assessable income)
   - **assessment** is defined in section 3(1) of the Tax Administration Act 1994
   - **assessment period** is defined in section GB 45(3) (Arrangements involving money not at risk) for the purposes of that section
@@ -38702,7 +38674,7 @@ In this Act, unless the context requires otherwise,—
   - **Australian retirement savings account** means a retirement savings account as defined in section 8 of the Retirement Savings Accounts Act 1997 (Aust)
   - **Australian wine producer rebate** means a producer rebate (under A New Tax System (Wine Equalisation Tax) Act 1999 (Aust) and regulations made under that Act) that relates to wine exported from New Zealand on or after 1 July 2005
   - **author** is defined in section EI 3(6) (Assigning or granting copyright) for the purposes of that section
-  - **authorised savings institution** means an authorised savings institution as defined in the Home Ownership Savings Act 1974
+  - **authorised savings institution**
   - **available capital distribution amount** means the amount calculated for a share in a company under section CD 44 (Available capital distribution amount)
   - **available subscribed capital** means the amount calculated for a share in a company under section CD 43 (Available subscribed capital (ASC) amount)
   - **available tax loss** , for a person and their net income, means—
@@ -39425,9 +39397,9 @@ In this Act, unless the context requires otherwise,—
   - **excluded ancillary tax** means—
     (a) imputation penalty tax:
     (b) FDP penalty tax:
-    (c) qualifying company election tax:
+    (c) qualifying company election tax
     (d)
-    (e) withdrawal tax
+    (e)
   - **excluded depreciable property** is defined in section EE 64 (Meaning of excluded depreciable property)
   - **excluded fixed rate security** means a fixed rate share issued by a company or a debenture issued by a company, if it is a stapled debt security and not a profit-related debenture, when the holder of the share or debenture does not have, because of it, any right to vote or participate in any shareholder decision-making, except to the extent of any such right that—
     (a) arises only in circumstances in which the position of the holder of the share or debenture may be altered to the holder’s detriment; and
@@ -39905,7 +39877,7 @@ In this Act, unless the context requires otherwise,—
     (a) for a forestry company, means a company associated with the forestry company:
     (b)
   - **home**
-  - **home ownership requirements** means home ownership requirements as defined in the Home Ownership Savings Act 1974
+  - **home ownership requirements**
   - **home vendor mortgage** is defined in section LZ 8 (Meaning of home vendor mortgage) for the purposes of sections LZ 6 and LZ 7 (which relate to credits for interest on home vendor mortgages)
   - **honorarium** is defined in section CW 62B (Voluntary activities) for the purposes of that section
   - **household member**
@@ -39977,7 +39949,7 @@ In this Act, unless the context requires otherwise,—
     (g)
     (h) young parent payment:
     (i) youth payment
-  - **increase in savings** is defined in section LZ 12 (Meaning of increase in savings) for the purposes of sections LZ 9 to LZ 11 (which relate to credits for savings in special accounts)
+  - **increase in savings**
   - **independent living** means occupancy of a place under an arrangement that—
     (a) does not have a level of compulsory care:
     (b) has a level of compulsory care that is merely incidental to the occupancy
@@ -39991,6 +39963,7 @@ In this Act, unless the context requires otherwise,—
     (c) the relevant period for the special exception, in section 75(1)﻿(c) to (e) of the Copyright Act 1994, has not started
   - **industry research co-operative**
   - **inflation-indexed instrument** means an instrument under which a person lends money and an amount payable for the money lent is determined by a fixed relationship to 1 or more indices of general price inflation in New Zealand
+  - **inform** , for a mode of communication, has the meaning set out in section 14B of the Tax Administration Act 1994
   - **initial period** is defined in section FZ 3(4) (Income of lessor under specified lease) for the purposes of that section
   - **initial provisional tax liability** , means—
     (a) for a person who is not a natural person, or a person who is a natural person and a trustee of a trust, a provisional tax liability for a tax year in which the person starts to derive income from a taxable activity, when they did not derive income from a taxable activity in any of the 4 previous tax years; and
@@ -40668,7 +40641,9 @@ In this Act, unless the context requires otherwise,—
   - **notified foreign investor** means an investor in a foreign investment PIE who—
     (a) meets the requirements of sections HM 55D(3) and (4) (Requirements for investors in foreign investment PIEs); and
     (b) notifies the PIE under section HM 55D(2) that they wish to be treated as a notified foreign investor
-  - **notify** means to give notice
+  - **notify** —
+    (a) means to give notice; and
+    (b) for a mode of communication, has the meaning set out in section 14C or 14D of the Tax Administration Act 1994, as appropriate
   - **notional offshore investment amount** , for a reporting bank, is the amount referred to in section FE 22(2) (Notional offshore investment) for the purposes of section FE 21(14) (Banking group’s New Zealand net equity)
   - **notional sale price** is defined in section FA 10(2) (Treatment when lease ends: lessor acquiring asset) for the purposes of that section
   - **novelty** is defined in section LH 7(4) (Research and development activities and related terms) for the purposes of subpart LH (Tax credits for expenditure on research and development)
@@ -41236,6 +41211,7 @@ In this Act, unless the context requires otherwise,—
   - **replacement plant** , in sections DO 6, DO 7, and DO 9 (which relate to horticultural plants) means a listed horticultural plant that replaces a listed horticultural plant, whether or not it is of the same type of listed horticultural plant
   - **reporting bank** is defined in section FE 4 (Some definitions) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **reporting standard**
+  - **request** , for a mode of communication, has the meaning set out in section 14B of the Tax Administration Act 1994
   - **required interest**
   - **research** is defined in section DB 35 (Some definitions) for the purposes of that section, section DB 34, and subpart MX (which relate to research and development)
   - **research and development activities** is defined in section LH 7(1) (Research and development activities and related terms) for the purposes of subpart LH (Tax credits for expenditure on research and development)
@@ -41521,7 +41497,7 @@ In this Act, unless the context requires otherwise,—
   - **sound commercial reason** is defined in section EW 26(7) (Change of spreading method) for the purposes of that section.
   - **sound recording** is defined in the Copyright Act 1994
   - **source in New Zealand** , for income, means a source described in section YD 4 (Classes of income treated as having New Zealand source) and section YZ 1 (Source rule for interest)
-  - **special account** means a special home ownership account
+  - **special account**
   - **special corporate entity** means—
     (a) a Crown Research Institute:
     (b) a group investment fund:
@@ -41536,7 +41512,7 @@ In this Act, unless the context requires otherwise,—
       (ii) the Commissioner, having regard to the terms of the statute by which the body is established, is satisfied that it would be appropriate to treat the body as a special corporate entity for the purposes of those provisions of this Act whose application is dependent on the measurement of voting and market value interests:
     (j) any body incorporated under the Incorporated Societies Act 1908, for an income year in which the body on no day in the income year has shares on issue to the members of the body
   - **special excluded depreciable property** is defined in section EE 67 (Other definitions)
-  - **special home ownership account** means a special home ownership account operated by a person under Part 2 of the Home Ownership Savings Act 1974
+  - **special home ownership account**
   - **special rate** is defined in section EE 67 (Other definitions)
   - **specified activity** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
   - **specified activity net income** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
@@ -41918,9 +41894,9 @@ In this Act, unless the context requires otherwise,—
       (ii) that has been issued under section 31A of the Building Societies Act 1965; or
       (iii) that is a terminating share; and
     (b) does not include a share in a building society that is irredeemable, or redeemable only at the society’s option, on which a dividend is declared and payable from the annual surplus revenue of the building society
-  - **withdrawal certificate** , for a special account that is a special home ownership account, means a withdrawal certificate as defined in the Home Ownership Savings Act 1974
-  - **withdrawal income** means withdrawal income as determined under section RZ 7 (Withdrawal income)
-  - **withdrawal tax** means withdrawal tax imposed by section RZ 8 (Payment and rate of withdrawal tax)
+  - **withdrawal certificate**
+  - **withdrawal income**
+  - **withdrawal tax**
   - **withholding tax limitation** is defined in section DA 2(5) (General limitations)
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign’s birthday, and Waitangi Day; and
@@ -41974,6 +41950,19 @@ FDP, imputation, and BETA rules
 
 ### YA 3 Treatment of qualifying company election tax, FBT, FDP penalty tax, imputation penalty tax, and withdrawal tax
 [Repealed]
+
+### YA 4 General rules for giving information or communicating matters
+General rules
+(1) Sections 14 to 14G of the Tax Administration Act 1994 apply for the purposes of this Act, unless the context requires otherwise, when a person gives information to, or communicates with, another person by—
+  (a) asking or requesting:
+  (b) informing:
+  (c) applying:
+  (d) notifying:
+  (e) formally notifying.
+Overriding provisions
+(2) Section 14E of that Act sets out the ways in which specific provisions may override the general rules.
+Delivery
+(3) Sections 14F and 14G of that Act set out the options available for communicating by personal delivery, post, fax, or electronic means.
 
 ### Subpart YB — Associated persons and nominees
 
@@ -42869,6 +42858,9 @@ When this section applies
   (c) has taken the tax position for the allocation on or before 22 February 2011.
 Savings provision
 (2) Despite the express wording used in section DC 1, section DF 5 continues to apply for the person in relation to the tax position in the same manner as it applied immediately before the repeal of the Income Tax Act 1994 by the Income Tax Act 2004.
+
+### YZ 4 Saving of effect of certain terms defined in Canterbury Earthquake Recovery Act 2011
+For the purposes of sections CZ 23 to CZ 25, CZ 29, DZ 20, EZ 23B, EZ 23BB, EZ 70 to EZ 74, FZ 7, and GZ 3 (which relate to the Canterbury earthquakes), the terms Canterbury earthquake, greater Christchurch, rebuilding, and recovery have the meanings set out in the Canterbury Earthquake Recovery Act 2011, which continues to apply for this purpose in the same manner as it applied immediately before the repeal of that Act by the Greater Christchurch Regeneration Act 2016.
 
 ## Part Z — Repeals, amendments, and savings
 
