@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2016-04-01_
+_Consolidation as at 2016-06-02_
 
 > Title
 
@@ -211,8 +211,10 @@ The objects of this Act are—
   (a) is a social security beneficiary; and
   (b) provides, or considers that he or she provides, at least 35% of ongoing daily care to the child; and
   (c) is not already a receiving carer in respect of the child (but see subsection (4)).
-(2) A person to whom this section applies must apply for a formula assessment of child support in relation to every parent of the child.
-(3) An application for a formula assessment must be made at the same time as an application for social security benefit is made, and at any other time when the Commissioner notifies the beneficiary that an application for a formula assessment is required in relation to a qualifying child.
+(2) A person to whom this section applies must apply for a formula assessment of child support in relation to every parent of the child unless subsection (5B) applies.
+(3) A social security beneficiary who is required under subsection (2) to apply for a formula assessment of child support in relation to a parent of the child, must make the application—
+  (a) at the same time as an application for social security benefit is made:
+  (b) at a time other than when an application for social security benefit is made, when notified by the Commissioner that an application for a formula assessment is required in relation to the qualifying child.
 (4) If a person who is or becomes a social security beneficiary receives child support pursuant to an order under Part 4 that relates to an overseas order (as referred to in section 67(b)),—
   (a) the person is deemed not to be a receiving carer for the purpose of this section; and
   (b) the person is deemed to have made, on the date on which he or she becomes a social security beneficiary, an election under section 70 that the order be one to which Part 4 does not apply; and
@@ -220,8 +222,21 @@ The objects of this Act are—
     (i) any formula assessment applying at that time ceases to apply; and
     (ii) the election under section 70 is deemed to be revoked (despite section 70(4)) on the following day.
 (5) If the person is in receipt of an unsupported child's benefit in respect of 1 or more children, but is not in receipt of any other social security benefit, subsection (2) applies only in relation to the child or children in respect of whom the unsupported child's benefit is paid.
-(6) Any social security beneficiary who fails to comply with their obligations under this section is liable under section 70A of the Social Security Act 1964 to have their rate of benefit reduced.
-(7) In order to ensure the enforcement of section 70A of the Social Security Act 1964, the Commissioner may notify the chief executive of the department responsible for the administration of that Act if any social security beneficiary fails to comply with his or her obligations under this section, or if his or her application for a formula assessment is not properly completed.
+(5B) A social security beneficiary is not required to apply for a formula assessment in relation to a parent of the child if the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 is satisfied that—
+  (a) there is insufficient evidence available to establish who in law that parent is:
+  (b) if the beneficiary made an application for a formula assessment of child support or took steps to make an application for a formula assessment of child support in relation to that parent, there would be a risk of violence—
+    (i) to the beneficiary:
+    (ii) if the beneficiary is a sole parent, to any of the beneficiary’s children:
+    (iii) if the beneficiary is in receipt of an unsupported child’s benefit, to the beneficiary’s partner, the beneficiary’s children, the qualifying child, a parent of the qualifying child, or a sibling of the qualifying child:
+  (c) that parent died before the application for social security benefit was made:
+  (d) the child was conceived as a result of incest or sexual violation:
+  (e) the beneficiary cannot make an application for a formula assessment of child support in relation to that parent because of a compelling circumstance, other than a circumstance mentioned elsewhere in this subsection.
+(6) Unless subsection (6B) applies, a social security beneficiary who does not comply with their obligations under this section, and who is described in section 70A(1)﻿(a) and (b) of the Social Security Act 1964, is liable to have their rate of benefit reduced under that section.
+(6B) A social security beneficiary who does not apply for a formula assessment of child support in relation to a parent of a qualifying child when required by this section, and who is described in section 70A(1)﻿(a) and (b) of the Social Security Act 1964, is not liable to have their rate of benefit reduced under that section if the chief executive of the department for the time being responsible for the administration of that Act is satisfied that the beneficiary is taking active steps to identify who in law that parent is.
+(7) In order to ensure the enforcement of section 70A of the Social Security Act 1964, the Commissioner may notify the chief executive of the department responsible for the administration of that Act if any social security beneficiary who is described in section 70A(1)﻿(a) and (b) of that Act fails to comply with his or her obligations under this section, or if his or her application for a formula assessment is not properly completed.
+(8) In this section,—
+  - **sole parent** has the same meaning as in section 3 of the Social Security Act 1964
+  - **violence** has the same meaning as in section 3 of the Domestic Violence Act 1995.
 
 ### 10 Form of application
 (1) An application for formula assessment must be in an approved form and be accompanied by the documents (if any) specified in the form.
@@ -2199,7 +2214,7 @@ Where a court is considering an appeal under this Act against the disallowance b
 (1) Notwithstanding any rule of law to the contrary, in any proceeding under this Act a person—shall be a compellable witness for the Commissioner against the person who, in relation to that eligible applicant, is the liable parent, and for the liable parent against the Commissioner.
   (a) who is a parent or carer of a qualifying child; and
   (b) who is in receipt of a social security benefit at any time during any period to which the proceeding relates,—
-(2) Section 70A of the Social Security Act 1964 applies to any person who fails to comply with this section.
+(2) A person who fails to comply with this section, and who is described in section 70A(1)﻿(a) and (b) of the Social Security Act 1964, is liable to have their rate of benefit reduced under that section.
 
 ### 123 Conduct of proceedings
 (1) The business of courts and of Judges shall, so far as is consistent with the due despatch of business, be arranged in such a manner as may be necessary for the separating of the hearing of proceedings under this Act from other business.
@@ -2802,6 +2817,7 @@ In this Part, unless the context otherwise requires,—
 ### 156 Copy of deduction notice to be given to liable person
 (1) Where the Commissioner gives a deduction notice under section 154, the Commissioner shall forthwith give a copy of the notice to the liable person.
 (2) For the purposes of the Tax Administration Act 1994, every such copy shall be deemed to be a notice required by this Act to be given by the Commissioner to the liable person.
+(3) Despite subsection (1), for a notice relating to an amount of wages or salary of the liable person, the Commissioner may dispense with the requirement to send a copy of the notice to the liable person if, after making reasonable inquiries, the Commissioner has, or can find, no valid address for the liable person.
 
 ### 157 Priority of deductions under this Act
 The requirement that the person is to make periodic deductions from any money payable to the liable person by that person in compliance with a deduction notice, and to pay amounts so deducted to the Commissioner in accordance with section 163, shall—
