@@ -1,5 +1,5 @@
 # Gaming Duties Act 1971
-_Consolidation as at 2015-03-03_
+_Consolidation as at 2016-06-02_
 
 > An Act to consolidate and amend the law relating to totalisator duty and lottery duty
 
@@ -33,7 +33,7 @@ In this Act, unless the context otherwise requires,—Terms defined in sections 
 
 ### 4 Totalisator duty
 (1) A totalisator duty is payable to the Crown at the rate of 4% of betting profits.
-(2) Betting profits for totalisator racing betting, sports betting, and fixed-odds racing betting is calculated in accordance with the formula:amounts − refunds − winning dividendswhere—amounts is the total of all amounts received by the Board or its agents (including the net return from bets laid off) for—refundsis the amount of refunds paidwinning dividendsis the amount of all winning dividends paid out in respect of amounts described above.
+(2) Betting profits for totalisator racing betting, sports betting, and fixed-odds racing betting is calculated in accordance with the formula:amounts − refunds − winning dividendswhere—amountsis the total of all amounts received by the Board or its agents (including the net return from bets laid off) for—refundsis the amount of refunds paidwinning dividendsis the amount of all winning dividends paid out in respect of amounts described above.
   (a) totalisator racing betting:
   (b) sports betting:
   (c) fixed-odds racing betting
@@ -171,6 +171,7 @@ Where, in relation to any gaming machine duty payable by a gaming machine operat
     (i) an amount calculated at the rate of 10% per week of the gaming machine duty due and payable by the person at the date of the notice:
     (ii) an amount calculated at the rate of 20% of the wages or salary:
   (b) the amount of $10 per week.
+(4B) Despite subsection (2), for a notice relating to an amount of wages or salary described in subsection (4), the Commissioner may dispense with the requirement to send a copy of the notice to the defaulter if, after making reasonable inquiries, the Commissioner has, or can find, no valid address for the defaulter.
 (5) Any person making any deduction pursuant to a notice under this section shall be deemed to have been acting under the authority of the defaulter to whom the notice relates and of all other persons concerned, and is hereby indemnified in respect of such deduction.
 (6) The sum deducted from any amount pursuant to a notice under this section shall be deemed to be held in trust for the Crown, and, without prejudice to any other remedies against the person making the deduction or any other person, shall be recoverable in the same manner in all respects as if it were gaming machine duty payable by the person.
 (7) Any notice under this section may be at any time revoked by the Commissioner by a subsequent notice to the person to whom the original notice was given, and shall be so revoked where the Commissioner is satisfied that all unpaid gaming machine duty then due and payable by the defaulter has been paid.
