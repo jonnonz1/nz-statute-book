@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2016-05-14_
+_Consolidation as at 2016-06-02_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -676,6 +676,7 @@ The special deduction rate applies until the earlier of—
     (ii) that Commissioner deductions will be made from the borrower's salary or wages; and
     (iii) of all of the information in that notice.
 (2) An additional deduction rate notice issued to an employer or a PAYE intermediary in relation to a borrower revokes an additional deduction rate notice previously issued to that employer or PAYE intermediary in relation to the borrower.
+(2B) Despite subsection (1)﻿(b), the Commissioner may dispense with the requirement to send the information described in subsection (1)﻿(b)﻿(i) to (iii) to the borrower if the Commissioner, after making reasonable inquiries, has, or can find, no valid address for the borrower.
 (3) Nothing in section 49 or this section limits the application of sections 147 to 153 (concerning hardship relief).
 
 **Further means of recovering amounts that remain unpaid**
@@ -2051,7 +2052,7 @@ In accordance with, and for the purpose set out in, section 280I of the Customs 
 [Repealed]
 
 ### 214 Notice requirements of Tax Administration Act 1994 do not apply
-Sections 210 to 212 of this Act override sections 14 and 14B of the Tax Administration Act 1994.
+Sections 210 to 212 of this Act override sections 14 to 14G of the Tax Administration Act 1994.
 
 **Regulations**
 
