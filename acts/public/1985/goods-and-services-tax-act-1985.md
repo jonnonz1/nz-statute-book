@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2016-02-24_
+_Consolidation as at 2016-06-02_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -13,6 +13,8 @@ _Consolidation as at 2016-02-24_
 ### 2 Interpretation
 (1) In this Act, other than in section 12, unless the context otherwise requires,—
   - **adjustment period** , for a supply of goods or services to which sections 8(4B)﻿(b), 9(2)﻿(h), 20(3C) to (3J), and 21 to 21H apply, means a first or subsequent adjustment period referred to in section 21G(2)
+  - **apply** , for a mode of communication, has the meaning set out in section 14C of the Tax Administration Act 1994
+  - **ask** , for a mode of communication, has the meaning set out in section 14B of the Tax Administration Act 1994
   - **associated supply** means—
     (a) a supply for which the supplier and recipient are associated persons:
     (b) a supply of a right, under an equity security or participatory security, to receive for no consideration, or consideration at other than the open market value, a supply of goods and services that is—
@@ -77,6 +79,7 @@ _Consolidation as at 2016-02-24_
       (ii) whose principal purpose is to receive and treat people needing medical treatment or suffering from a disease; and
     (b) includes all clinics, dispensaries, offices, outpatient departments, services, and undertakings, maintained in connection with, or incidental to, such an institution
   - **income year** means an income year as defined in section YA 1 of the Income Tax Act 2007
+  - **inform** , for a mode of communication, has the meaning set out in section 14B of the Tax Administration Act 1994
   - **insurance** means insurance or guarantee against loss, damage, injury, or risk of any kind whatever, whether pursuant to any contract or any enactment; and includes reinsurance; and includes a policy of insurance, an insurance cover, and a renewal of a contract of insurance:provided that nothing in this definition shall apply to any insurance specified in section 3
   - **invoice** means a document notifying an obligation to make payment
   - **land** , in the zero-rating of land rules,—
@@ -118,6 +121,10 @@ _Consolidation as at 2016-02-24_
     (a) which is carried on other than for the purposes of profit or gain to any proprietor, member, or shareholder; and
     (b) which is, by the terms of its constitution, rules, or other document constituting or governing the activities of that society, association, or organisation, prohibited from making any distribution whether by way of money, property, or otherwise howsoever, to any such proprietor, member, or shareholder
   - **non-resident** means a person to the extent that the person is not resident in New Zealand
+  - **notice** , for an item of information, means the form or manner in which the item is notified or communicated, as described in section 14C or 14D of the Tax Administration Act 1994, as appropriate
+  - **notify** —
+    (a) means to give notice; and
+    (b) for a mode of communication, has the meaning set out in section 14C or 14D of the Tax Administration Act 1994, as appropriate
   - **Office of Parliament** means the administrative and support services and staff of—
     (a) the Parliamentary Commissioner for the Environment:
     (b)
@@ -146,6 +153,7 @@ _Consolidation as at 2016-02-24_
   - **refiner of fine metal** means any person who satisfies the Commissioner that, in the regular course of business, that person converts or refines any fine metal
   - **registered person** means a person who is registered or is liable to be registered under this Act
   - **registration number** , in relation to any registered person, means the number allocated to that registered person for the purposes of this Act
+  - **request** , for a mode of communication, has the meaning set out in section 14B of the Tax Administration Act 1994
   - **resident** means resident as determined in accordance with sections YD 1 and YD 2 (excluding section YD 2(2)) of the Income Tax Act 2007:provided that, notwithstanding anything in those sections,—
     (a) a person shall be deemed to be resident in New Zealand to the extent that that person carries on, in New Zealand, any taxable activity or any other activity, while having any fixed or permanent place in New Zealand relating to that taxable activity or other activity:
     (b) a person who is an unincorporated body is deemed to be resident in New Zealand if the body has its centre of administrative management in New Zealand:
@@ -338,8 +346,8 @@ _Consolidation as at 2016-02-24_
 ### 5 Meaning of term supply
 (1) For the purposes of this Act, the term supply includes all forms of supply.
 (2) For the purposes of this Act, where any goods acquired (whether in terms of a hire purchase agreement or otherwise) or produced by a person (that person being referred to hereafter in this subsection as the first person) are sold, under a power exercisable by another person (that person being referred to hereafter in this subsection as the second person), in or towards the satisfaction of a debt owed by the first person, those goods shall be deemed to be supplied in the course or furtherance of a taxable activity carried on by the first person (being deemed a registered person), unless—
-  (a) the first person has furnished, to the second person, a statement in writing that the supply of those goods would not be a taxable supply if those goods were sold by the first person (notwithstanding that the first person may not be the owner of those goods), and stating fully the reasons why that supply would not be a taxable supply; or
-  (b) where the second person has been unable to obtain the written statement referred to in paragraph (a), that person may determine, in relation to any reasonable information held, that the supply of those goods would not have been a taxable supply if those goods had been sold by the first person (notwithstanding that the first person may not be the owner of those goods).
+  (a) the first person has notified the second person that the supply of those goods would not be a taxable supply if those goods were sold by the first person (notwithstanding that the first person may not be the owner of those goods), and stating fully the reasons why that supply would not be a taxable supply; or
+  (b) where the second person has not been notified as described in paragraph (a), that person may determine, in relation to any reasonable information held, that the supply of those goods would not have been a taxable supply if those goods had been sold by the first person (notwithstanding that the first person may not be the owner of those goods).
 (3) For the purposes of this Act, where a person ceases to be a registered person, any goods and services then forming part of the assets of a taxable activity carried on by that person shall be deemed to be supplied by that person in the course of that taxable activity at a time immediately before that person ceases to be a registered person, unless the taxable activity is carried on by another person who, pursuant to section 58, is deemed to be a registered person.
 (3A)
 (3B) For the purposes of this Act, when a person who is a non-resident ceases to be a registered person,—
@@ -492,7 +500,7 @@ This Act shall bind the Crown.
 (2D) For the purposes of subsection (2C)﻿(b), the amount of the consideration must be—
   (a) calculated for each of the person's taxable periods that fall in the transitional period:
   (b) for any days in the person's taxable period that fall outside the transitional period, apportioned on a pro rata basis.
-(2E) If a registered person has supplied services in the transitional period by way of the facilitation of inbound tour operations and tax was paid under this section in relation to the services, the person is entitled to a refund of the amount of tax paid. They must apply for the refund in writing within the period that starts on the date of Royal assent of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 and ends 6 months after that date.
+(2E) If a registered person has supplied services in the transitional period by way of the facilitation of inbound tour operations and tax was paid under this section in relation to the services, the person is entitled to a refund of the amount of tax paid. They must apply for the refund within the period that starts on the date of Royal assent of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 and ends 6 months after that date.
 (2F) For the purposes of subsections (2B) and (2C), services that consist of the facilitation of inbound tour operations means the services that a registered person provides in packaging 1 or more domestic tourism products and services in New Zealand and selling them outside New Zealand to a non-resident person. The tourism products and services may include accommodation, meals, transport, and other activities.
 (3) Despite subsection (2), goods and services are treated as being supplied in New Zealand if the supplier is a non-resident and either—
   (a) the goods are in New Zealand at the time of the supply; or
@@ -697,7 +705,7 @@ This Act shall bind the Crown.
     (iii) a foreign-going ship; or
     (iv) a pleasure craft that is a temporary import within the meaning of section 116 of the Customs and Excise Act 1996 going to a destination outside New Zealand fisheries waters; or
   (m) the supply to a registered person of a taxable activity, or part of a taxable activity, that is a going concern at the time of the supply, if—
-    (i) the supply is agreed by the supplier and the recipient, in writing, to be the supply of a going concern; and
+    (i) the supplier and the recipient agree that the supply is the supply of a going concern, and their agreement is recorded in a document; and
     (ii) the supplier and the recipient intend that the supply is of a taxable activity, or part of a taxable activity, that is capable of being carried on as a going concern by the recipient; or
   (mb) the supply wholly or partly consists of land, being a supply—
     (i) made by a registered person to another registered person who acquires the goods with the intention of using them for making taxable supplies; and
@@ -713,7 +721,7 @@ This Act shall bind the Crown.
 (3) Subsection (1)﻿(a) to (1)﻿(l) do not apply to a supply of goods by a registered person if—
   (a) the registered person, or another person associated with the registered person, has deducted, under section 20(3), input tax as defined in section 3A(1)﻿(c) in respect of the goods; or
   (b) the goods have been or will be reimported into New Zealand by the supplier.
-(3B) Subsection (3)﻿(a) does not apply to a supply of goods if the recipient gives the registered person at or before the time of the supply an undertaking in writing that neither the recipient nor an associated person will cause the goods to be reimported into New Zealand in a condition that is substantially the same as the condition the goods were in when the supply was charged with tax under subsection (1)﻿(a) to (1)﻿(l).
+(3B) Subsection (3)﻿(a) does not apply to a supply of goods if the recipient gives the registered person at or before the time of the supply an undertaking, and records the undertaking in a document, that neither the recipient nor an associated person will cause the goods to be reimported into New Zealand in a condition that is substantially the same as the condition the goods were in when the supply was charged with tax under subsection (1)﻿(a) to (1)﻿(l).
 (3C) Despite subsection (3B), a registered person is treated as having supplied goods in the course or furtherance of a taxable activity and must be charged with tax at the rate specified in section 8 if—
   (a) the supply of the goods by the registered person was charged with tax under subsection (1)﻿(a) to (l); and
   (b) the goods are imported into New Zealand; and
@@ -723,7 +731,7 @@ This Act shall bind the Crown.
   (a) applies at the time the goods are reacquired by the registered person:
   (b) does not apply if tax is paid under section 12 on the importation of the goods into New Zealand.
 (4) If subsection (1)﻿(d), (e), or (eb) applies and the person required to export the goods does not do so within 28 days beginning on the day of the time of supply or a longer period that the Commissioner has allowed under subsection (5), the supply of the goods must be charged with tax at the rate specified in section 8 despite subsection (1)﻿(d), (e), and (eb) but subject to subsection (1)﻿(a), (1)﻿(b) and subsection (5).
-(5) The Commissioner may extend the 28-day period before a supply of goods is charged with tax at the rate specified in section 8 if the Commissioner has determined, after the supplier has applied in writing, that—
+(5) The Commissioner may extend the 28-day period before a supply of goods is charged with tax at the rate specified in section 8 if the Commissioner has determined, after the supplier has applied, that—
   (a) circumstances beyond the control of the supplier and the recipient have prevented, or will prevent, the export of the goods within 28 days beginning on the day of the time of supply; or
   (b) due to the nature of the supply, it is not practicable for the supplier to export the goods, or a class of the goods, within 28 days beginning on the day of the time of supply.
 (6) If subsection (1)﻿(g) applies and the goods cannot be evidenced, as specified by the chief executive of the New Zealand Customs Service in accordance with the sealed bag system, as being exported within 28 days beginning on the day of the time of supply, despite subsection (1)﻿(g), the supply must be charged with tax at the rate specified in section 8.
@@ -733,7 +741,7 @@ This Act shall bind the Crown.
     (i) records of the sale of the supply; and
     (ii) limitations on dealings in and the uses to which the boat or aircraft will be put before export; and
     (iii) the proposed and actual date of export.
-(8) The Commissioner may extend the 60-day period if the Commissioner is satisfied, upon the written application of the supplier, that circumstances beyond the control of the supplier and the recipient have prevented, or will prevent, the export of the boat or aircraft within the period.
+(8) The Commissioner may extend the 60-day period if the Commissioner is satisfied, upon the application of the supplier, that circumstances beyond the control of the supplier and the recipient have prevented, or will prevent, the export of the boat or aircraft within the period.
 (8B) Whether a supply of goods is zero-rated under subsection (1)﻿(mb) is determined at the time of settlement of the transaction relating to the supply.
 (8C) Despite subsections (1)﻿(mb) and (8B), a supplier may choose to apply the provisions of this Act applying before the changes made by the Taxation (GST and Remedial Matters) Act 2010 if they enter into a binding agreement before 1 April 2011 for which the time of supply is on or after that date.
 (8D) For the purposes of the zero-rating of land rules,—
@@ -925,7 +933,7 @@ A supply of services that is chargeable with tax under section 8 must be charged
   (a) a supply of financial services that, in the absence of subsection (1)﻿(a), would be charged with tax at the rate of 0% under section 11A:
   (b) a supply described in paragraph (b) of the definition of associated supply:
   (c) a supply of goods and services which (although being part of a supply of goods and services which, but for this paragraph, would be an exempt supply under subsection (1)﻿(a)) is not in itself, as between the supplier of that first-mentioned supply and the recipient, a supply of financial services in respect of which subsection (1)﻿(a) applies.
-(2) A supplier and a recipient may agree, in writing, that a supply under subsection (1)﻿(cb) is not an exempt supply if—
+(2) A supplier and a recipient may agree, recording their agreement in a document, that a supply under subsection (1)﻿(cb) is not an exempt supply if—
   (a) the lease was entered into before 16 May 2000; and
   (b) the supplier has, before 16 May 2000, treated a supply under the lease as being a taxable supply.
 (3) An amount is treated as being consideration for an exempt supply if it is—
@@ -1045,10 +1053,10 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
 ### 19 Accounting basis
 (1) Subject to sections 19A to 19D, every registered person must account for tax payable on an invoice basis for the purpose of section 20.
 (1B) Despite subsection (1), if the Commissioner registers a non-resident person under section 54B, the person must account for tax payable on a payments basis for the purpose of section 20.
-(2) The Commissioner may, on application in writing in that behalf by a registered person, direct that for the purposes of section 20 the registered person account for tax payable—
+(2) The Commissioner may, on application in that behalf by a registered person, direct that for the purposes of section 20 the registered person account for tax payable—
   (a) on a payments basis, if the registered person satisfies the requirements of section 19A(1); or
   (b) on a hybrid basis.
-(3) The Commissioner may, on application in writing in that behalf by a registered person who pursuant to a direction of the Commissioner accounts for tax payable on a hybrid basis or a payments basis, direct that the registered person account for tax payable—
+(3) The Commissioner may, on application in that behalf by a registered person who pursuant to a direction of the Commissioner accounts for tax payable on a hybrid basis or a payments basis, direct that the registered person account for tax payable—
   (a) on an invoice basis; or
   (b) on a hybrid basis; or
   (c) on a payments basis, if the registered person satisfies the requirements of section 19A(1).
@@ -1071,7 +1079,7 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
   (c) the Commissioner is satisfied that, due to the nature, volume, and value of taxable supplies made by the registered person and the nature of the accounting system employed by the person, it would be appropriate for the person to furnish returns under this Act on a payments basis.
 (2) Where the Commissioner is satisfied (whether by a notification given by the registered person under section 53(1)﻿(cb) or otherwise) that a registered person who has been directed to account for tax payable on a payments basis has ceased to satisfy the conditions set out in paragraphs (a) to (c) of subsection (1), the Commissioner shall either—
   (a) direct that the registered person account for tax payable on an invoice basis; or
-  (b) if the registered person so requests in writing, direct that the registered person account for tax payable on a hybrid basis.
+  (b) on application by the registered person, direct that the registered person account for tax payable on a hybrid basis.
 (3) For the purposes of subsection (2), a registered person shall not be treated as having ceased to satisfy the conditions of subsection (1) by reason only that the total value of the registered person's taxable supplies has exceeded, or as the case may be will exceed, the amount specified by or under subsection (1)﻿(b) solely as a consequence of—
   (a) any ending of, including a premature ending of, or any substantial and permanent reduction in the size or scale of, any taxable activity carried on by that person; or
   (b) the replacement of any plant or other capital asset used in any taxable activity carried on by that person.
@@ -1646,7 +1654,7 @@ A registered person who receives a supply of services that is treated by section
 (3C) Notwithstanding anything in subsection (3) where, in relation to any taxable supplies, or a class or classes of taxable supplies, made by a supplier to a recipient, or a class or classes of recipients,—the Commissioner may determine in respect of any recipient, or class or classes of recipients, that, subject to any conditions that the Commissioner may consider necessary, the supplier may issue 1 credit note or debit note to each recipient with respect to those tax invoices.
   (a) the supplier has provided, in terms of section 24, 1 or more tax invoices to a recipient in respect of those taxable supplies; and
   (b) the Commissioner is satisfied that there are or will be sufficient records available to establish the particulars of those taxable supplies to a recipient,—
-(4) Where any recipient, being a registered person, has been issued with a credit note pursuant to subsection (3)﻿(a), or has written or other notice or otherwise knows that any tax invoice which that registered person holds is incorrect as a result of any 1 or more of the events specified in any of paragraphs (a), (aa), (ab), (b), and (c) of subsection (1), and has made a deduction of any amount of input tax in any taxable period in respect of that supply of goods and services to which the credit note or that notice or other knowledge, as the case may be, relates, the amount of the excess referred to in subsection (3)﻿(a) shall be deemed to be tax charged in relation to a taxable supply made by the recipient attributable to the taxable period in which the credit note was issued, or that notice or, as the case may be, other knowledge was received, to the extent that the input tax deducted exceeds the output tax properly charged.
+(4) Where any recipient, being a registered person, has been issued with a credit note pursuant to subsection (3)﻿(a), or has been notified, or otherwise knows that any tax invoice which that registered person holds is incorrect as a result of any 1 or more of the events specified in any of paragraphs (a), (aa), (ab), (b), and (c) of subsection (1), and has made a deduction of any amount of input tax in any taxable period in respect of that supply of goods and services to which the credit note or that notice or other knowledge, as the case may be, relates, the amount of the excess referred to in subsection (3)﻿(a) shall be deemed to be tax charged in relation to a taxable supply made by the recipient attributable to the taxable period in which the credit note was issued, or that notice or, as the case may be, other knowledge was received, to the extent that the input tax deducted exceeds the output tax properly charged.
 (5) Where any recipient, being a registered person, has been issued with a debit note pursuant to subsection (3)﻿(b), and has made a deduction of any amount of input tax in any taxable period in respect of that supply of goods and services to which that debit note relates, the recipient shall make a deduction under section 20(3) of the amount of the excess referred to in subsection (3)﻿(b) in the taxable period in which the debit note is issued, to the extent that the output tax properly charged exceeds the input tax deducted.
 (6) Where any amount of tax charged is required to be shown on any credit note or debit note, and that amount consists of any number of dollars and cents together with any fraction or part of a cent, that fraction or part of that cent,—
   (a) if less than or equal to half of that cent, may be disregarded for the purposes of this section:
@@ -1790,7 +1798,7 @@ A registered person who receives a supply of services that is treated by section
   (a) is held in a joint bank account in the name of the registered person and 1 or more other persons; and
   (b) can be withdrawn from the account by or on behalf of the registered person without a signature or other authorisation being required at the time of the withdrawal from, or on behalf of, the other person or persons.
 (1C) Subsection (1B) does not apply when the joint bank account is an account of a partnership that files a return of income under section 33(1) of the Tax Administration Act 1994.
-(2) Where any registered person has made default in the payment to the Commissioner of any tax or interest or late payment penalty or shortfall penalty payable by the registered person under this Act or the Tax Administration Act 1994, or any part of any such interest or tax or penalty, (collectively referred to in this section as unpaid tax), the Commissioner may from time to time by notice in writing require any person to—and require that person to pay to the Commissioner, within such time as is specified in the notice, every sum so deducted or extracted, to the credit of an account maintained by the Commissioner in relation to that registered person in respect of that unpaid tax.
+(2) Where any registered person has made default in the payment to the Commissioner of any tax or interest or late payment penalty or shortfall penalty payable by the registered person under this Act or the Tax Administration Act 1994, or any part of any such interest or tax or penalty, (collectively referred to in this section as unpaid tax), the Commissioner may from time to time by notice require any person to—and require that person to pay to the Commissioner, within such time as is specified in the notice, every sum so deducted or extracted, to the credit of an account maintained by the Commissioner in relation to that registered person in respect of that unpaid tax.
   (a) deduct or extract, in one sum, from any amount that is, or becomes, an amount payable in relation to that registered person such sum as is equal to the lesser of—
     (i) the amount that, pursuant to the notice, is required to be deducted or extracted:
     (ii) the amount that, at the time at which the deduction or extraction is required to be made in compliance with the notice, is the said amount payable:
@@ -1804,9 +1812,10 @@ A registered person who receives a supply of services that is treated by section
     (i) an amount calculated at the rate of 10% per week of the unpaid tax of the registered person at the date of the notice:
     (ii) an amount calculated at the rate of 20% of the said wages or salary payable:
   (b) the amount of $10 per week.
-(4) Any notice under this section may be at any time revoked by the Commissioner by a subsequent notice to the person to whom the original notice was given (in this section referred to as the debtor), and shall be so revoked at the request of the registered person at any time when the Commissioner is satisfied that all unpaid tax then due and payable by the registered person has been paid.
-(5) A copy of every notice given, under subsection (2) or subsection (4), to any person in respect of any unpaid tax shall be given forthwith by the Commissioner to the registered person; and, for the purposes of section 17 of the Tax Administration Act 1994, every such copy shall be deemed to be a notice required by this Act to be given by the Commissioner to the registered person.
-(6) Whenever, pursuant to a notice under this section, any deduction or extraction is made from any amount payable to any registered person, that registered person shall be entitled to receive from the debtor a statement in writing of the fact of the deduction or extraction and of the purpose for which it was made.
+(4) Any notice under this section may be at any time revoked by the Commissioner by a subsequent notice to the person to whom the original notice was given (in this section referred to as the debtor), and must be revoked by the Commissioner on application for revocation by the registered person at any time when the Commissioner is satisfied that all unpaid tax then due and payable by the registered person has been paid.
+(5) The Commissioner must provide a copy of a notice that is given in relation to any unpaid tax to a person under subsection (2) or (4) to the registered person, and the copy must be provided at the time the notice is given.
+(5B) Despite subsection (5), for a notice relating to an amount of wages or salary described in subsection (3), the Commissioner may dispense with the requirement to send a copy of the notice to the registered person if, after making reasonable inquiries, the Commissioner has, or can find, no valid address for the registered person.
+(6) Whenever, pursuant to a notice under this section, any deduction or extraction is made from any amount payable to any registered person, that registered person shall be entitled to receive from the debtor notification of the fact of the deduction or extraction and of the purpose for which it was made.
 (7) Any person making any deduction, extraction, or payment pursuant to a notice under this section shall be deemed to have been acting under the authority of the registered person to whom the notice relates and of all other persons concerned and is hereby indemnified in respect of such deduction, extraction, or payment.
 (8) The sum deducted or extracted from any amount pursuant to a notice under this section shall be deemed to be held in trust for the Crown, and, without prejudice to any other remedies against the debtor or any other person, shall be recoverable in the same manner in all respects as if it were tax payable by the debtor.
 (9) Where, in relation to any notice under this section and during any period, that period being,—any amount is, or becomes, an amount payable in relation to the registered person, that amount or, as the case may be, the aggregate of all such amounts shall, until the expiry of that period and to the extent of an amount that is equal to the amount of the sum that, in compliance with the notice, is required to be deducted or extracted, be deemed to be an amount held in trust for the Crown and, without prejudice to any other remedies against the debtor or any person, shall, if the deduction or extraction required to be made therefrom pursuant to the notice is not so made, be recoverable in the same manner in all respects as if it were tax payable by the debtor.
@@ -1905,7 +1914,7 @@ In any case where, upon the investigation by the Commissioner of the liability o
   (a) made application for registration pursuant to subsection (2), (3), or section 54B, and the Commissioner is satisfied that that person is eligible to be registered under this Act, that person shall be a registered person for the purposes of this Act with effect from such date as the Commissioner may determine; or
   (b) not made application for registration pursuant to subsection (2), and the Commissioner is satisfied that that person is liable to be registered under this Act, that person shall be a registered person for the purposes of this Act with effect from the date on which that person first became liable to be registered under this Act:
     provided that the Commissioner may, having regard to the circumstances of the case, determine that person to be a registered person from such later date as the Commissioner considers equitable.
-(5) Notwithstanding anything in this Act, where any taxable activity is carried on by any non-profit body in branches or divisions, that non-profit body may apply in writing to the Commissioner for any such branch or division to be a separate person for the purposes of this section, and if each such branch or division maintains an independent system of accounting and can be separately identified by reference to the nature of the activities carried on or the location of that branch or division, each such branch or division shall be deemed to be a separate person, and not a part of the non-profit body, and, where any such branch or division is a separate person pursuant to this subsection, any taxable activity carried on by that branch or division shall, to that extent, be deemed not to be carried on by the non-profit body first mentioned in this subsection.
+(5) Notwithstanding anything in this Act, where any taxable activity is carried on by any non-profit body in branches or divisions, that non-profit body may apply to the Commissioner for any such branch or division to be a separate person for the purposes of this section, and if each such branch or division maintains an independent system of accounting and can be separately identified by reference to the nature of the activities carried on or the location of that branch or division, each such branch or division shall be deemed to be a separate person, and not a part of the non-profit body, and, where any such branch or division is a separate person pursuant to this subsection, any taxable activity carried on by that branch or division shall, to that extent, be deemed not to be carried on by the non-profit body first mentioned in this subsection.
 (5B) A unit title body corporate that is registered under this Act as a result of an application under subsection (3) made on a date (the application date) on or after the date of introduction of the Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Bill must be registered with effect from a date after the application date.
 (6) The provisions of this Act relating to the determination of the value of any supply of goods and services shall apply for the purposes of this section, with the modification that no regard shall be had to any tax charged in respect of any such supply.
 (7) An application for registration under this Act purporting to be made by or on behalf of any person shall for all purposes be deemed to have been made by that person or by that person's authority, as the case may be, unless the contrary is proved.
@@ -1915,7 +1924,7 @@ In any case where, upon the investigation by the Commissioner of the liability o
   (a) a person who is not otherwise a registered person but who supplies goods or services, representing that tax is charged on the supply:
   (b) if goods are treated by section 5(2) as being supplied by a person—
     (i) the person selling the goods, if subparagraph (ii) does not apply; or
-    (ii) the person whose goods are sold, if the person supplies a written statement under section 5(2)﻿(a) to the person selling the goods and the Commissioner considers that the written statement is incorrect:
+    (ii) the person whose goods are sold, if the person provides a notice under section 5(2)﻿(a) to the person selling the goods and the Commissioner considers that the notice is incorrect:
   (c) a person whose registration has been cancelled under section 52(5) with effect from the original date of registration:
   (d) a non-resident person referred to in section 54B(2).
 (2) If a person referred to in subsection (1) represents that tax is being charged on a supply that they make in a taxable period, the person is liable to pay the amount of the tax.
@@ -1930,8 +1939,8 @@ In any case where, upon the investigation by the Commissioner of the liability o
 
 ### 52 Cancellation of registration
 (1) Subject to this Act, every registered person who carries on any taxable activity shall cease to be liable to be registered where at any time the Commissioner is satisfied that the value of that person's taxable supplies in the period of 12 months then beginning will be not more than the amount specified for the purposes of section 51(1).
-(2) Every person who, by virtue of subsection (1), ceases to be liable to be registered may request the Commissioner by notice in writing or by telephone to cancel that person's registration, and if the Commissioner is at any time satisfied, as mentioned in subsection (1), the Commissioner shall cancel that person's registration with effect from the last day of the taxable period during which the Commissioner was so satisfied, or from such other date as may be determined by the Commissioner, and shall notify that person of the date on which the cancellation of the registration takes effect.
-(3) Every registered person who ceases to carry on all taxable activities shall inform the Commissioner of that fact by notice in writing or by telephone within 21 days of the date of cessation and the Commissioner shall cancel the registration of any such person with effect from the last day of the taxable period during which all such taxable activities ceased, or from such other date as may be determined by the Commissioner:
+(2) Every person who, by virtue of subsection (1), ceases to be liable to be registered may request the Commissioner to cancel that person's registration, and if the Commissioner is at any time satisfied, as mentioned in subsection (1), the Commissioner shall cancel that person's registration with effect from the last day of the taxable period during which the Commissioner was so satisfied, or from such other date as may be determined by the Commissioner, and shall notify that person of the date on which the cancellation of the registration takes effect.
+(3) Every registered person who ceases to carry on all taxable activities shall inform the Commissioner of that fact within 21 days of the date of cessation and the Commissioner shall cancel the registration of any such person with effect from the last day of the taxable period during which all such taxable activities ceased, or from such other date as may be determined by the Commissioner:
   provided that the Commissioner shall not at any time cancel the registration of any such registered person if there are reasonable grounds for believing that the registered person will carry on any taxable activity at any time within 12 months from that date of cessation.
 (4) Any information provided by a registered person to the Commissioner under subsection (3) must include the date on which the person ceased to carry on all taxable activities and whether or not the person intends to carry on any taxable activity within 12 months from that date.
 (5) Where the Commissioner is satisfied that a registered person is not carrying on a taxable activity the Commissioner may cancel that person's registration with effect from the last day of the taxable period during which the Commissioner was so satisfied, or from such other date as may be determined by the Commissioner, and shall notify that person of the date on which the cancellation of the registration takes effect.
@@ -1946,7 +1955,7 @@ In any case where, upon the investigation by the Commissioner of the liability o
   (b) the day that is 4 years after the registration date.
 
 ### 53 Registered person to notify change of status
-(1) Subject to this Act, every registered person shall within 21 days notify the Commissioner in writing of—
+(1) Subject to this Act, every registered person shall within 21 days notify the Commissioner of—
   (a) any change in the name, address, constitution, or nature of the principal taxable activity or activities of that registered person:
   (b) any change of address from which, or the name in which, any taxable activity is carried on by that registered person:
   (c) any change whereby that registered person ceases to satisfy the conditions of section 15(2):
@@ -1954,7 +1963,7 @@ In any case where, upon the investigation by the Commissioner of the liability o
   (cb) any change whereby that registered person ceases to satisfy the conditions of section 19A, where the Commissioner has made a direction in respect of that registered person under that section:
   (d) any change where that registered person, being a member of a group within the meaning of section 55, ceases to be eligible to be a member of that group:
   provided that paragraphs (a) to (cb) shall not apply to the notification of any changes in the ownership of any company.
-(2) Any registered person who wishes to change, or to adopt, any trading name used or to be used by the registered person for the purpose of issuing or creating tax invoices and credit and debit notes under this Act, shall notify the Commissioner in writing of—
+(2) Any registered person who wishes to change, or to adopt, any trading name used or to be used by the registered person for the purpose of issuing or creating tax invoices and credit and debit notes under this Act, shall notify the Commissioner of—
   (a) the new trading name; and
   (b) the date from which that new trading name is to be used by the person for the purposes of this Act.
 
@@ -2009,7 +2018,7 @@ The obligations and liabilities under this Act of any person in respect of anyth
   (d) that group of companies to no longer be a group of companies for the purposes of this section,—
 (4AA)
 (4A) The appointment of a specified agent, as defined in section 58(1), does not affect the membership of a group of companies.
-(5) Where any member of a group of companies has ceased to be eligible to be a member of that group, and—the Commissioner shall, by notice in writing given to that member or that representative member, terminate that membership from such date as may be specified in the notice.
+(5) Where any member of a group of companies has ceased to be eligible to be a member of that group, and—the Commissioner shall, by notice given to that member or that representative member, terminate that membership from such date as may be specified in the notice.
   (a) that member or the representative member of that group of companies notifies the Commissioner of that cessation pursuant to section 53(1)﻿(d); or
   (b) the Commissioner is otherwise satisfied that any member of a group of companies has ceased to be so eligible,—
 (6) For the purposes of this Act, any notice served in accordance with this Act, which is addressed to the representative member of any group of companies shall be deemed to be served on that representative member and on all members of that group of companies.
@@ -2036,9 +2045,9 @@ The obligations and liabilities under this Act of any person in respect of anyth
   (c) 2 or more persons carrying on a taxable activity in partnership control all of them,—
 
 ### 56 Branches and divisions
-(1) Where a taxable activity is carried on by any registered person in branches or divisions, that registered person may apply in writing to the Commissioner for any such branch or division to be registered as a separate registered person for the purposes of this Act.
+(1) Where a taxable activity is carried on by any registered person in branches or divisions, that registered person may apply to the Commissioner for any such branch or division to be registered as a separate registered person for the purposes of this Act.
 (2) The Commissioner shall, upon application made pursuant to subsection (1), register any branch or division as a separate registered person if each such branch or division maintains an independent system of accounting and can be separately identified by reference to the nature of the activities carried on or the location of the branch or division, and where any such branch or division is so separately registered, any taxable activity carried on by that branch or division shall, to that extent, be deemed not to be carried on by the registered person first mentioned in subsection (1).
-(3) The registered person first mentioned in subsection (1) may, at any time, apply in writing to the Commissioner for any branch or division separately registered under subsection (2) to cease to be so registered, and the Commissioner shall cancel that separate registration with effect from the last day of the taxable period of the branch or division during which that application was made, and any taxable activity carried on by that branch or division shall thereafter, to that extent, be deemed to be carried on by the registered person first mentioned in subsection (1).
+(3) The registered person first mentioned in subsection (1) may, at any time, apply to the Commissioner for any branch or division separately registered under subsection (2) to cease to be so registered, and the Commissioner shall cancel that separate registration with effect from the last day of the taxable period of the branch or division during which that application was made, and any taxable activity carried on by that branch or division shall thereafter, to that extent, be deemed to be carried on by the registered person first mentioned in subsection (1).
 (4) The Commissioner shall cancel the separate registration of any branch or division on the cancellation of the registration of the registered person first mentioned in subsection (1).
 (5) Where any branch or division separately registered pursuant to this section makes default in doing anything required to be done under this Act, the liability for the doing of that thing shall revert to the registered person first mentioned in subsection (1).
 (6) Notwithstanding the foregoing provisions of this section, for the purposes of sections 15 to 15E, 19, and 19A this section shall be deemed not to have applied, and any placement or direction made pursuant to the said sections 15 to 15E, 19, and 19A in respect of the registered person first mentioned in subsection (1) shall, for the purposes of this Act, apply equally to each branch or division separately registered pursuant to this section.
@@ -2063,7 +2072,7 @@ The obligations and liabilities under this Act of any person in respect of anyth
   (e) subject to subsections (3) to (3B), any change of members of that body shall have no effect for the purposes of this Act.
 (3) Despite this section, a member is jointly and severally liable with other members for all tax payable by the unincorporated body during the taxable periods, or part of taxable periods as the case may be, the person is a member of the body, even if the person is no longer a member of the body.
 (3A) When an individual member dies, the member's estate is severally liable in due course of administration for tax payable by the unincorporated body to the extent that it remains unpaid, whether or not the individual was a member on the date of their death.
-(3B) For the purpose of subsections (3) and (3A), a member does not stop being a member of the unincorporated body until the date on which the Commissioner receives written notice of a change in membership of the body.
+(3B) For the purpose of subsections (3) and (3A), a member does not stop being a member of the unincorporated body until the date on which the Commissioner is notified of a change in membership of the body.
 (4) For the purposes of this Act, any notice served in accordance with this Act which is addressed to an unincorporated body by the name in which it is registered pursuant to this Act, shall be deemed to be served on that body and on all members of that body.
 (5) Subject to subsection (6), where anything is required to be done pursuant to this Act by or on behalf of an unincorporated body, it shall be the joint and several liability of all the members to do any such thing:
   provided that any such thing done by 1 member shall be sufficient compliance with any such requirement.
@@ -2084,7 +2093,7 @@ The obligations and liabilities under this Act of any person in respect of anyth
 (1C) Subject to section 46(7), a specified agent may deduct an amount under section 20(3) relating to supplies made before the agency period if the incapacitated person is entitled to, and has not previously deducted, the amount.
 (1D) A specified agent is not personally liable for any liabilities incurred under this Act by the incapacitated person on or before the date the agency period starts.
 (2) Where a mortgagee is in possession of any land or other property previously mortgaged by the mortgagor, being a registered person, the Commissioner may, from the date on which the mortgagee took possession of that land or other property, until such time as the mortgagee ceases to be in possession of that land or other property, deem the mortgagee, in any case where and to the extent that the mortgagee carries on any taxable activity of the mortgagor, to be a registered person.
-(3) Any person who becomes a specified agent, or who as a mortgagee in possession carries on any taxable activity of the mortgagor, shall, within 21 days of becoming a specified agent or commencing that taxable activity of the mortgagor, inform the Commissioner in writing of that fact and of the date of the death or of the liquidation or receivership or bankruptcy or mortgagee taking possession of any land or other property previously mortgaged by the mortgagor, or of the nature of the incapacity and the date on which it began.
+(3) Any person who becomes a specified agent, or who as a mortgagee in possession carries on any taxable activity of the mortgagor, shall, within 21 days of becoming a specified agent or commencing that taxable activity of the mortgagor, notify the Commissioner of that fact and of the date of the death or of the liquidation or receivership or bankruptcy or mortgagee taking possession of any land or other property previously mortgaged by the mortgagor, or of the nature of the incapacity and the date on which it began.
 
 ### 59 Liability of agent of absentee principal for returns and tax
 (1) For the purposes of this section, the term absentee means—
@@ -2096,7 +2105,7 @@ The obligations and liabilities under this Act of any person in respect of anyth
 ### 60 Agents and auctioneers
 (1) Subject to this section, for the purposes of this Act, where an agent makes a supply of goods and services for and on behalf of any other person who is the principal of that agent, that supply shall be deemed to be made by that principal and not by that agent:
   provided that, where that supply is a taxable supply, that agent, being a registered person, may, notwithstanding anything in this Act, issue a tax invoice or a credit note or a debit note in relation to that supply as if that agent had made a taxable supply, and to the extent that that tax invoice or credit note or debit note relates to that supply, that principal shall not also issue, as the case may be, a tax invoice or a credit note or a debit note.
-(1B) Despite subsection (1), when a principal and their agent agree in writing, either in relation to a particular supply or for a type of supply, that this subsection applies to a supply of goods or services, the supply is treated for the purposes of the Act as 2 separate supplies, being—
+(1B) Despite subsection (1), when a principal and their agent agree, and record their agreement in a document, either in relation to a particular supply or for a type of supply, that this subsection applies to a supply of goods or services, the supply is treated for the purposes of the Act as 2 separate supplies, being—
   (a) a supply of goods and services from the principal to the agent; and
   (b) a supply of those goods and services from the agent to the recipient, treating the agent as if they were the principal for the purpose of the supply.
 (2) Subject to this section, for the purposes of this Act, where any registered person makes a taxable supply of goods and services to an agent who is acting on behalf of another person who is the principal for the purposes of that supply, that supply shall be deemed to be made to that principal and not to that agent:
@@ -2120,7 +2129,7 @@ The obligations and liabilities under this Act of any person in respect of anyth
 (1) This section applies when a person (person A) enters into a contract to supply goods and services to another person (person B), and person B directs person A to provide the goods and services to a nominated person (person C) who is not party to the contract.
 (2) If person B pays the full consideration for the supply, the supply is treated as a supply from person A to person B and the existence of person C is ignored.
 (3) If person C pays the full consideration for the supply, the supply is treated as a supply from person A to person C and the existence of person B is ignored.
-(4) If person B and person C each pay part of the consideration for the supply, the supply is treated as a supply from person A to person B. However, person B and person C may agree in writing that the supply is to be treated as a supply made to person C, but no such agreement can be made if person B has claimed input tax in relation to the supply.
+(4) If person B and person C each pay part of the consideration for the supply, the supply is treated as a supply from person A to person B. However, person B and person C may agree, recording their agreement in a document, that the supply is to be treated as a supply made to person C, but no such agreement can be made if person B has claimed input tax in relation to the supply.
 (5)
 (6) Despite subsections (2) to (4), for a supply that wholly or partly consists of land, the supply is treated as made by person A to person C.
 (7) Section 60 overrides this section.
@@ -2222,12 +2231,12 @@ Section HD 15 of the Income Tax Act 2007, with any necessary modifications, appl
 (3D) The requirements of subsection (3B)﻿(a) and (b) are met if the supplier maintains sufficient records to enable the particulars of the name, and address, and registration number or tax file number, as applicable of the agent to be ascertained.
 (3E) The agent must maintain sufficient records in relation to the undisclosed principal to enable the name, address, and, if the principal is a registered person or expects to be a registered person, the registration number of the principal to be ascertained.
 (4) This section shall not require the retention of any records—
-  (a) in respect of which the Commissioner has given notice in writing that retention is not required:
+  (a) in respect of which the Commissioner has given notice that retention is not required:
   (b) of a company which has been liquidated.
-(5) The Commissioner may, by notice in writing given before the expiry of the 7-year retention period specified in subsection (3), require a registered person to retain the records specified in that subsection for a further period not exceeding 3 years following the expiry of the 7-year period where—
+(5) The Commissioner may, by notice given before the expiry of the 7-year retention period specified in subsection (3), require a registered person to retain the records specified in that subsection for a further period not exceeding 3 years following the expiry of the 7-year period where—
   (a) the affairs of the registered person are or have been under audit or investigation by the Commissioner; or
   (b) the Commissioner intends to conduct such an audit or investigation before the expiry of the retention period as so extended, or is actively considering any such audit or investigation.
-(6) The Commissioner may, upon application in writing by a registered person or another person, authorise for the purposes of subsection (3BA),—
+(6) The Commissioner may, upon application by a registered person or another person, authorise for the purposes of subsection (3BA),—
   (a) a registered person to keep and retain a record or a type of record—
     (i) in a language other than English:
     (ii) at a place outside New Zealand:
@@ -2240,6 +2249,16 @@ Section HD 15 of the Income Tax Act 2007, with any necessary modifications, appl
   (b) reasonably vary the conditions on the authorisation:
   (c) withdraw the authorisation, upon request by the person or after giving reasonable notice of the withdrawal:
   (d) give public notice of an action under subsection (6)﻿(b) or this subsection, in a publication chosen by the Commissioner.
+
+### 75B General rules for giving information or communicating matters
+(1) Sections 14 to 14G of the Tax Administration Act 1994 apply for the purposes of this Act, unless the context requires otherwise, when a person gives information to, or communicates with, another person by—
+  (a) asking or requesting:
+  (b) informing:
+  (c) applying:
+  (d) notifying:
+  (e) formally notifying.
+(2) Section 14E of that Act describes the ways in which specific provisions may override the general rules.
+(3) Sections 14F and 14G of that Act set out the options available for communicating by personal delivery, post, fax, or electronic means.
 
 ### 76 Avoidance
 (1) A tax avoidance arrangement entered into by a person is void against the Commissioner for tax purposes.
@@ -2356,7 +2375,7 @@ For the purposes of this Act, all amounts of money shall be expressed in terms o
 (2) Each such part shall be furnished in a form or forms prescribed by the Commissioner, and the 2 parts shall together be deemed to form a single return.
 (3) If the 2 parts are furnished separately, the Commissioner shall be deemed for the purposes of section 46 not to have received the return until the date on which the later furnished of the 2 parts is received by the Commissioner.
 (4) Every person, whether registered or not, who is required to make a return pursuant to section 16(4) in respect of any period in which a new rate of tax comes into force shall (except where the new rate comes into force on the first day of that period) furnish a return in 2 parts in accordance with this section, as if the period for which the return is required to be made were a taxable period.
-(5) Any registered person who, pursuant to a determination of the Commissioner under section 15E, has a taxable period that ends within 7 days before or after the day immediately preceding the date on which a new rate of tax comes into force may, upon written notification to the Commissioner, disregard that determination in relation to the 2 taxable periods that, but for that determination, would have—and where a person so notifies the Commissioner, that person shall accordingly furnish returns in respect of those 2 taxable periods as if—
+(5) Any registered person who, pursuant to a determination of the Commissioner under section 15E, has a taxable period that ends within 7 days before or after the day immediately preceding the date on which a new rate of tax comes into force may, upon notification to the Commissioner, disregard that determination in relation to the 2 taxable periods that, but for that determination, would have—and where a person so notifies the Commissioner, that person shall accordingly furnish returns in respect of those 2 taxable periods as if—
   (a) ended with the day immediately preceding the date on which the new rate comes into force; or
   (b) commenced with the day on which the new tax rate comes into force;—
   (c) the earlier of those periods ended with the day immediately preceding the date on which the new rate of tax comes into force; and
@@ -2438,7 +2457,7 @@ For the purposes of this Act, all amounts of money shall be expressed in terms o
   (b) any registered person (being a recipient) has made an adjustment pursuant to section 78B in respect of any qualifying supply received by that person; and
   (c) that registered person has subsequently, in respect of any qualifying supply,—for which payment has not been made as at the time of the receipt of that debit note or credit note, or other notice, or knowledge,—
     (i) been issued with a debit note or credit note; or
-    (ii) received written or other notice, or otherwise knows that any tax invoice held is incorrect,—
+    (ii) received notice, or otherwise knows that any tax invoice held is incorrect,—
 (3) The adjustment required by this section shall be calculated as follows:
   (a) subtract from the amount of consideration originally payable to, or, as the case may be, by that registered person the amount of consideration that is now payable to, or, as the case may be, by that registered person:
   (b) multiply the resulting total by an amount equal to the old tax fraction subtracted from the new tax fraction (as respectively calculated in accordance with section 2 immediately before and immediately after the new rate of tax comes into force).
@@ -2471,23 +2490,23 @@ Except as otherwise expressly provided in any enactment, the repeal or amendment
 
 ### 78E Alteration of agreed price in relation to supply mistakenly believed to be of a going concern
 Where—the supplier may increase the consideration for the supply by an amount equal to the agreed price in the contract or agreement multiplied by a percentage equal to the percentage specified in section 8(1) applicable to that supply.
-  (a) a supplier and a recipient have agreed in writing that a supply is the supply of a going concern, and the supplier has accordingly treated the supply as being chargeable with tax at the rate of 0% under section 11(1)﻿(m); and
+  (a) a supplier and a recipient agreed, having recorded their agreement in a document, that a supply is the supply of a going concern, and the supplier has accordingly treated the supply as being chargeable with tax at the rate of 0% under section 11(1)﻿(m); and
   (b) the contract or agreement for the supply contains no provision for an increase to the agreed price arising in the event that the supply is not a supply that comes within the provisions of section 11(1)﻿(m), or does not otherwise contemplate or provide for the consequences if tax is not chargeable at the rate of 0%; and
   (c) the supply does not come within the provisions of section 11(1)﻿(m),—
 
 ### 78F Liability in relation to supplies of land
 (1) This section applies in relation to a supply that wholly or partly consists of land.
-(2) At or before settlement of the transaction relating to the supply, the recipient is required to provide a statement in writing to the supplier as to whether, at the date of settlement,—
+(2) At or before settlement of the transaction relating to the supply, the recipient is required to notify the supplier as to whether, at the date of settlement,—
   (a) they are, or expect to be, a registered person; and
   (b) they are acquiring the goods with the intention of using them for making taxable supplies; and
   (c) they do not intend to use the land as a principal place of residence for them or a person associated with them under section 2A(1)﻿(c).
 (2B) For the purposes of subsection (2)﻿(a), a recipient who is a registered person, or who expects to be a registered person, must provide their registration number to the supplier at or before the date of settlement.
 (3) The supplier may rely on the information provided as required by subsection (2) in determining the tax treatment of the supply.
-(4) For the purposes of section 5(2), the statement referred to in subsection (2) must be provided to the second person referred to in section 5(2).
+(4) For the purposes of section 5(2), the notice referred to in subsection (2) must be provided to the second person referred to in section 5(2).
 (5) For the purposes of section 60B and a contract for a supply that wholly or partly consists of land, when the person who enters the contract (person B) nominates another person (person C) to receive the supply, the requirements of subsection (2) are met if—
   (a) person B provides the required information as it relates to their expectation of the circumstances of person C:
   (b) person C provides the required information.
-(6) When a supply is made to a person who is, for the purposes of the supply, an agent acting on behalf of an undisclosed principal, the requirements of subsection (2) are met if the agent provides a statement in writing to the supplier as to whether, at the date of settlement, the principal as recipient—
+(6) When a supply is made to a person who is, for the purposes of the supply, an agent acting on behalf of an undisclosed principal, the requirements of subsection (2) are met if the agent notifies the supplier as to whether, at the date of settlement, the principal as recipient—
   (a) is, or expects to be, a registered person; and
   (b) is acquiring the goods or services with the intention of using them for making taxable supplies; and
   (c) does not intend to use the land as a principal place of residence for them or a person associated with them under section 2A(1)﻿(c).
@@ -2575,7 +2594,7 @@ Where—the supplier may increase the consideration for the supply by an amount 
   provided that the time when that supply is made shall be determined solely by reference to the time of performance of that supply.
 
 ### 86 Alternative method of accounting for transitional supplies
-(1) For the purposes of this Act, where any registered person who is required to account for tax payable on a payments basis pursuant to section 19 makes application in writing, the Commissioner shall direct that the provisions of this section shall apply to that registered person in respect of any supply or class of supply determined at the discretion of the Commissioner (hereafter in this section referred to as a specified supply).
+(1) For the purposes of this Act, where any registered person who is required to account for tax payable on a payments basis pursuant to section 19 makes application, the Commissioner shall direct that the provisions of this section shall apply to that registered person in respect of any supply or class of supply determined at the discretion of the Commissioner (hereafter in this section referred to as a specified supply).
 (2) For the purposes of this Act, in respect of any specified supply, where the Commissioner has made a determination in accordance with subsection (1),—
   (a) the supplier shall be deemed to be required to account for tax payable on an invoice basis pursuant to section 19 for each such specified supply to which section 84 applies and in respect of which an invoice has been issued or any payment received prior to 1 October 1986, and shall be deemed to have received payment in full on 1 October 1986 for each such supply:
   (b) where any amount of the consideration in money for that supply (not being a supply to which paragraph (c) applies) remains unpaid as at the end of 30 September 1986 (not being an amount written off as a bad debt as at that date), the supplier shall set off against any amount of tax payable by that supplier in respect of the taxable period in which 1 October 1986 occurs, an amount equal to the tax fraction of the amount of such consideration remaining unpaid, and to the extent that it cannot be so set off, that amount shall be carried forward to the next taxable period and set off against any amount of tax payable by that supplier in respect of that next taxable period, and so on:
