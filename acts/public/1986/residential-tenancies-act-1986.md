@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2014-04-14_
+_Consolidation as at 2016-06-03_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -79,7 +79,7 @@ _Consolidation as at 2014-04-14_
     (b) any land and appurtenances, other than facilities; and
     (c) any mobile home, caravan, or other means of shelter placed or erected upon any land and intended for occupation on that land
   - **prescribed** means prescribed by this Act or by regulations made under this Act
-  - **Principal Tenancy Adjudicator** means the Principal Tenancy Adjudicator appointed under section 67(2)(a)
+  - **Principal Tenancy Adjudicator** means the Principal Tenancy Adjudicator appointed under section 67(2)﻿(a)
   - **prospective landlord** means a person who has offered to grant a tenancy to any other person, or who has entered into negotiations with any other person for the granting of a tenancy to that other person
   - **prospective tenant** means a person to whom any other person has offered to grant a tenancy, or with whom any other person has entered into negotiations for the granting of a tenancy to that person
   - **Registrar** , in relation to the Tribunal, means a person who holds that position under section 72(1) or who is designated under section 72(2)
@@ -110,6 +110,9 @@ _Consolidation as at 2014-04-14_
     (e) a day in the period commencing with 24 December and expiring with 3 January.
 (2) For the purposes of paragraph (b) of the definition of the term service tenancy in subsection (1), 2 companies are associated if one is the wholly or partly owned subsidiary of the other.
 (3) For the purposes of this Act, where any premises that are subject to a legal or an equitable lease are used for both commercial and residential purposes, the premises shall be deemed to be residential premises unless it is proved that the premises were let principally for purposes other than residential purposes.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ## Part 1 — Application of Act
 
@@ -153,15 +156,15 @@ This Act applies to every tenancy for residential purposes except as specificall
     (i) is located in a camping-ground subject to regulations under the Health Act 1956; and
     (ii) is intended for human habitation for periods not exceeding 50 days in any continuous term of occupancy:
   (tb) where temporary or transient accommodation is provided in a relocatable home under a tenancy agreement that has been entered into for the purpose of providing accommodation of that kind and that continues to be provided under the agreement:
-  (u) if the tenancy has been entered into by a leasing authority under section 7(1)(e), (f), (g), or (h) of the Public Bodies Leases Act 1969:
+  (u) if the tenancy has been entered into by a leasing authority under section 7(1)﻿(e), (f), (g), or (h) of the Public Bodies Leases Act 1969:
   (v) if the Māori Trustee has leased a Māori reserve or township land under section 26 of the Maori Reserved Land Act 1955:
   (w) if the lease provides for a perpetual right of renewal:
   (x) if the lease is of land on which a dwellinghouse is erected and the lessee is entitled (whether beneficially or as trustee), on or before the termination of the tenancy, to remove the dwellinghouse or to receive compensation in respect of it.
-(2) In subsection (1)(s)(i), social housing means housing for—
+(2) In subsection (1)﻿(s)﻿(i), social housing means housing for—
   (a) persons on low incomes:
   (b) persons with special housing needs:
   (c) persons whose disabilities mean that they need support or supervision in their housing.
-(3) In subsection (1)(tb), relocatable home means a structure (other than a tent) that—
+(3) In subsection (1)﻿(tb), relocatable home means a structure (other than a tent) that—
   (a) is located in a camping-ground subject to regulations under the Health Act 1956; and
   (b) is designed to be relocatable; and
   (c) comprises a group of rooms occupied or intended to be occupied either permanently or temporarily as the living quarters of a single housekeeping unit (whether consisting of 1 or more persons), which is completely self-contained in respect of domestic equipment and facilities.
@@ -181,7 +184,7 @@ This Act applies to every tenancy for residential purposes except as specificall
   (b) applying section 8 of the Rent Appeal Act 1973.
 
 ### 5B Exempt student accommodation
-(1) For the purposes of section 5(1)(h)(ii), this Act does not apply to premises if—
+(1) For the purposes of section 5(1)﻿(h)﻿(ii), this Act does not apply to premises if—
   (a) the premises are used to provide accommodation exclusively for students of 1 or more tertiary education providers; and
   (b) the premises are owned or operated by a person (an accommodation provider) who is—
     (i) a tertiary education provider; or
@@ -190,7 +193,7 @@ This Act applies to every tenancy for residential purposes except as specificall
 (2) The accommodation provider must provide services to the students accommodated in the premises that are over and above the services that a landlord must provide under Part 2 or 2A.
 (3) The accommodation provider must have in place house rules that aim to create an environment that fosters personal development and encourages a sense of community and association with fellow students.
 (4) The accommodation provider must take all reasonable steps to ensure that prospective and current student tenants are made aware of, and have access to copies of, the house rules.
-(5) An agreement referred to in subsection (1)(b) is one that sets out—
+(5) An agreement referred to in subsection (1)﻿(b) is one that sets out—
   (a) the rights and obligations of the accommodation provider and the tertiary education provider; and
   (b) a dispute resolution process by which disputes between the accommodation provider and the tertiary education provider may be resolved.
 (6) In this section, tertiary education provider has the same meaning as in section 159(1) of the Education Act 1989, and, accordingly, includes universities, polytechnics, colleges of education, wananga, specialist colleges, private training establishments registered under Part 18 of that Act, and government training establishments.
@@ -244,14 +247,14 @@ Where, in any proceedings before the Tribunal, any party contends that this Act 
 (2) A landlord shall not, in respect of the grant, continuance, extension, variation, termination, or renewal of a tenancy agreement,—
   (a) instruct any person to discriminate against any other person in contravention of the Human Rights Act 1993; or
   (b) state an intention (whether by advertisement or otherwise) to discriminate against any person in contravention of that Act.
-(3) Nothing in section 21(1)(k) of the Human Rights Act 1993 shall apply to the termination of a service tenancy on the ground that the tenant has ceased to be, or is about to cease to be, employed by the landlord or (where the landlord is a company) by an associated company (within the meaning of section 2(2)).
+(3) Nothing in section 21(1)﻿(k) of the Human Rights Act 1993 shall apply to the termination of a service tenancy on the ground that the tenant has ceased to be, or is about to cease to be, employed by the landlord or (where the landlord is a company) by an associated company (within the meaning of section 2(2)).
 (4) In this section tenancy agreement includes a prospective tenancy agreement, regardless of whether or not a tenancy is granted.
 
 ### 12A Choice of procedures
 (1) Where the circumstances are such that any person would be entitled to make an application to the Tribunal and also a complaint under the Human Rights Act 1993, that person may take one, but not both, of the following steps:
   (a) the person may invoke, in relation to those circumstances, the procedures under this Act:
   (b) the person may make, in relation to those circumstances, a complaint under the Human Rights Act 1993.
-(2) For the purposes of subsection (1)(b), a person makes a complaint when proceedings in relation to that complaint are commenced by the complainant or the Commission.
+(2) For the purposes of subsection (1)﻿(b), a person makes a complaint when proceedings in relation to that complaint are commenced by the complainant or the Commission.
 
 ### 13 Form of tenancy agreement
 (1) Every tenancy agreement shall be in writing and signed by both the landlord and the tenant.
@@ -437,7 +440,7 @@ The chief executive must make any payments of a bond under section 22, 22A, or 2
   (a) the tenancy to which the bond relates has terminated and no claim is made for the bond within 2 months of the termination; or
   (b) an application for the refund of the bond has been approved but the bond money has not been collected within 2 months of the approval.
 (2) The steps that the chief executive takes under subsection (1) may include the publication of 1 or more of the following:
-  (a) the name of the person to whom the bond is to be refunded if the circumstances described in subsection (1)(b) apply:
+  (a) the name of the person to whom the bond is to be refunded if the circumstances described in subsection (1)﻿(b) apply:
   (b) the name of the tenant in whose name the bond is held:
   (c) the amount, or approximate amount, of the bond:
   (d) the location of the premises to which the bond relates.
@@ -478,7 +481,7 @@ The chief executive must make any payments of a bond under section 22, 22A, or 2
     (i) may not increase the rent during the term of the tenancy unless permitted by the provisions of the tenancy agreement to do so; and
     (ii) may do so only in accordance with this section and any such provisions of the tenancy agreement; and
   (h) where the Tribunal has made an order under section 25 and that order is still in force, the rent shall not be increased to an amount in excess of the amount specified in the order.
-(1A) The provisions referred to in subsection (1)(g) may take the form of the provisions set out in Schedule 1.
+(1A) The provisions referred to in subsection (1)﻿(g) may take the form of the provisions set out in Schedule 1.
 (2) For the purposes of subsection (1), a tenancy is subject to annual rent adjustment where—
   (a) it is the landlord's practice (the proof of which shall lie on the landlord)—
     (i) to review the rent annually; and
@@ -645,12 +648,12 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
   (c) cause or permit any interference with the reasonable peace, comfort, or privacy of any of the landlord's other tenants in the use of the premises occupied by those other tenants, or with the reasonable peace, comfort, or privacy of any other person residing in the neighbourhood.
 (3) Where the tenancy agreement specifies a maximum number of persons that may ordinarily reside in the premises during the tenancy, the tenant shall ensure that no more than that number ordinarily reside in the premises at any time during the tenancy.
 (3A) The following are declared to be unlawful acts:
-  (a) a failure, without reasonable excuse, to quit the premises in contravention of subsection (1)(e)(i):
-  (b) a contravention of subsection (2)(ab):
-  (c) a contravention of subsection (2)(b):
-  (d) a contravention of subsection (2)(c) in circumstances that amount to harassment of a tenant or a neighbour of the tenant:
+  (a) a failure, without reasonable excuse, to quit the premises in contravention of subsection (1)﻿(e)﻿(i):
+  (b) a contravention of subsection (2)﻿(ab):
+  (c) a contravention of subsection (2)﻿(b):
+  (d) a contravention of subsection (2)﻿(c) in circumstances that amount to harassment of a tenant or a neighbour of the tenant:
   (e) a contravention, without reasonable excuse, of subsection (3).
-(4) Where any damage (other than fair wear and tear) to the premises is proved to have occurred during any tenancy to which this Act applies, it shall be for the tenant to prove that the damage did not occur in circumstances constituting a breach of subsection (2)(a).
+(4) Where any damage (other than fair wear and tear) to the premises is proved to have occurred during any tenancy to which this Act applies, it shall be for the tenant to prove that the damage did not occur in circumstances constituting a breach of subsection (2)﻿(a).
 (5) In this section, unless the context otherwise requires, premises includes facilities.
 
 ### 41 Tenant's responsibility for actions of others
@@ -675,7 +678,7 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
   (b) until that notice is received by the tenant, the tenant shall not be obliged to pay any rent to the purchaser, and shall not be liable to the purchaser in any proceedings in respect of any sum paid to the landlord on account of rent:
   (c) from and after the date on which the tenant receives that notice, or such later date as may be specified in the notice, the tenant shall pay to the purchaser all sums due and payable by way of rent in respect of any period commencing after that date:
   (d) subject to any lawful claim made to the Tribunal before the date of settlement, the landlord's interest in any bond paid by the tenant shall pass to the purchaser on the earlier of the date of settlement or the date of possession.
-(2) Nothing in subsection (1)(a) shall absolve the purchaser from the obligation imposed on the purchaser by section 15.
+(2) Nothing in subsection (1)﻿(a) shall absolve the purchaser from the obligation imposed on the purchaser by section 15.
 
 ### 44 Assignment, subletting, or parting with possession by tenant
 (1) There may be included in a tenancy agreement a provision that expressly and unconditionally prohibits the tenant from assigning, subletting, or parting with possession of the premises during the term of the tenancy.
@@ -724,6 +727,7 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
   (c) for the purpose of determining whether or not—at any time between 8 o'clock in the morning and 7 o'clock in the evening on any day (after the expiry of the period allowed for the work) specified in a notice given to the tenant not less than 48 hours nor more than 14 days before the intended entry; or
     (i) the tenant has, within the period allowed by the landlord, completed satisfactorily any work required by the landlord to be done by the tenant to remedy any breach by the tenant of any of the provisions of the tenancy agreement or of this Act; or
     (ii) the tenant has, within the agreed period, completed satisfactorily any work agreed to be done by the tenant,—
+  (ca) for the purpose of complying, or preparing to comply, with any requirements in respect of smoke alarms or insulation imposed, or prospectively imposed, on landlords by regulations made under section 138A or 138B, at any time between 8 o’clock in the morning and 7 o’clock in the evening of any day, after giving to the tenant notice of the intended entry and the reason for it at least 24 hours before the intended entry; or
   (d) for the purpose of carrying out necessary repairs to or necessary maintenance of, the premises, at any time between 8 o'clock in the morning and 7 o'clock in the evening of any day, after giving to the tenant notice of the intended entry and the reason for it at least 24 hours before the intended entry; or
   (da) for the purpose of providing services agreed to under the tenancy agreement, but only if the entry complies with any conditions specified in the tenancy agreement; or
   (e) pursuant to an order of the Tribunal.
@@ -752,7 +756,7 @@ Where any party to a tenancy agreement breaches any of the provisions of the agr
 
 ### 50 Circumstances in which tenancies are terminated
 Subject in the case of a subtenancy to section 57, no tenancy to which this Act applies shall terminate or be terminated otherwise than as follows:
-  (a) in the case of a fixed-term tenancy, on the expiry of the term of the tenancy or, if any of sections 58(1)(d), (da), 59, or 59A apply, by giving notice in accordance with the applicable section:
+  (a) in the case of a fixed-term tenancy, on the expiry of the term of the tenancy or, if any of sections 58(1)﻿(d), (da), 59, or 59A apply, by giving notice in accordance with the applicable section:
   (ab) on the death of a sole tenant under a tenancy agreement or a sole tenant under a boarding house tenancy agreement, in accordance with section 50A or 66W, as the case requires:
   (b) by the giving of notice of a period no shorter than that required by this Act, in the case of a periodic tenancy or where provision is made in the tenancy agreement for termination by notice:
   (c) where the tenant acquires the landlord's interest in the premises:
@@ -766,7 +770,7 @@ Subject in the case of a subtenancy to section 57, no tenancy to which this Act 
   (b) the date that is the 21st day after the landlord gives the personal representative of the tenant or a person who is the tenant’s next of kin written notice to vacate the premises that are the subject of the tenancy agreement:
   (c) the date that is agreed in writing by the landlord with the personal representative of the tenant or with a person who is the tenant’s next of kin:
   (d) the date determined as the termination date of the tenancy agreement by the Tribunal on the application of the landlord under subsection (2).
-(2) If a landlord is unable to give notice to vacate under subsection (1)(b), the landlord may apply, without notice, to the Tribunal for an order to terminate the tenancy.
+(2) If a landlord is unable to give notice to vacate under subsection (1)﻿(b), the landlord may apply, without notice, to the Tribunal for an order to terminate the tenancy.
 
 ### 51 Termination by notice
 (1) Subject to sections 52, 53, 53A, 59, and 59A, the minimum period of notice required to be given by a landlord to terminate a tenancy shall be as follows:
@@ -955,7 +959,7 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
   (b) do the following:
     (i) take any personal documents belonging to the tenant to the nearest Police station and obtain a receipt for them from a Police employee; and
     (ii) sell the other goods by public auction or by private contract at a reasonable market price.
-(6) If the landlord has sold the goods under subsection (5)(b)(ii), the landlord may apply to the Tribunal for an order specifying the amount (if any) owing to the landlord out of the proceeds of sale.
+(6) If the landlord has sold the goods under subsection (5)﻿(b)﻿(ii), the landlord may apply to the Tribunal for an order specifying the amount (if any) owing to the landlord out of the proceeds of sale.
 
 ### 62B Disposal of abandoned goods in accordance with Tribunal order
 (1) The landlord may apply to the Tribunal for an order for the disposal of the goods to which section 62(3) applies, including any personal documents belonging to the tenant.
@@ -967,22 +971,22 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 
 ### 62C Application of proceeds of sale and recovery of amount owing
 (1) In this section, amount owing means—
-  (a) where the landlord has sold the goods under section 62A(5)(b)(ii) but there is no order under section 62A(6), the cost of storage, transport, and sale reasonably incurred by the landlord:
+  (a) where the landlord has sold the goods under section 62A(5)﻿(b)﻿(ii) but there is no order under section 62A(6), the cost of storage, transport, and sale reasonably incurred by the landlord:
   (b) where there is an order by the Tribunal under section 62A(6) or 62B(4) specifying the amount owing to the landlord out of the proceeds of sale, that amount.
-(2) The landlord may deduct any amount owing from the proceeds of any sale under section 62A(5)(b)(ii) or under an order made under section 62B(2)(b).
+(2) The landlord may deduct any amount owing from the proceeds of any sale under section 62A(5)﻿(b)﻿(ii) or under an order made under section 62B(2)﻿(b).
 (3) The landlord must pay the proceeds of any sale, less any deduction made under subsection (2), to the chief executive, and the chief executive must pay those proceeds into the Residential Tenancies Trust Account.
 (4) To the extent that any amount owing to the landlord is not fully reimbursed under subsection (2), the landlord may seek reimbursement, in accordance with section 22, 22A, or 22B, for that amount out of any bond held in the Residential Tenancies Trust Account in respect of the tenancy.
 (5) To the extent that any amount owing to the landlord is not fully reimbursed under subsections (2) and (4), the landlord may recover those costs from the tenant.
 
 ### 62D Tenant may claim proceeds of sale
-At any time within 1 year after the date of a sale under section 62A(5)(b)(ii) or under an order made under section 62B(2)(b), the tenant may apply to the chief executive for the payment to the tenant of the proceeds of sale in the Residential Tenancies Trust Account, and the chief executive must either make that payment to the tenant or, if there are reasonable grounds to do so, refer the matter to the Tribunal for determination.
+At any time within 1 year after the date of a sale under section 62A(5)﻿(b)﻿(ii) or under an order made under section 62B(2)﻿(b), the tenant may apply to the chief executive for the payment to the tenant of the proceeds of sale in the Residential Tenancies Trust Account, and the chief executive must either make that payment to the tenant or, if there are reasonable grounds to do so, refer the matter to the Tribunal for determination.
 
 ### 62E Responsibility of tenant unaffected
-Sections 62A to 62D do not absolve the tenant from any responsibility imposed on the tenant by the tenancy agreement or by section 40(1)(e) or by any rule of law to remove from the premises on the termination of the tenancy all goods owned by the tenant that the tenant is entitled to possess.
+Sections 62A to 62D do not absolve the tenant from any responsibility imposed on the tenant by the tenancy agreement or by section 40(1)﻿(e) or by any rule of law to remove from the premises on the termination of the tenancy all goods owned by the tenant that the tenant is entitled to possess.
 
 ### 62F Protection from liability
 (1) The landlord is not liable in respect of goods sold or disposed of under section 62 or 62A, or under an order made under section 62B, unless it is shown that, at the time of the sale or disposition, the landlord had reason to believe that the goods were not owned by the tenant.
-(2) Any goods sold under section 62A(5)(b)(ii) or under an order made under section 62B(2)(b) are not recoverable from the purchaser unless it is shown that the purchaser acted otherwise than in good faith.
+(2) Any goods sold under section 62A(5)﻿(b)﻿(ii) or under an order made under section 62B(2)﻿(b) are not recoverable from the purchaser unless it is shown that the purchaser acted otherwise than in good faith.
 
 ### 63 Entry without order of Tribunal prohibited
 (1) No person shall enter into possession of any residential premises in the occupation of a tenant except with the consent of the tenant or pursuant to an order for possession made by the Tribunal and duly enforced in accordance with section 106.
@@ -1068,9 +1072,9 @@ In this Part, unless the context otherwise requires,—
 ### 66D Bond of 1 week’s rent or less
 (1) If 1 week’s rent or less is received as bond under a boarding house tenancy,—
   (a) the bond need not be lodged with the chief executive, and sections 19 to 22D do not apply; and
-  (b) the landlord must immediately give the tenant a receipt for the bond, and the receipt must comply with section 19(1)(a); and
+  (b) the landlord must immediately give the tenant a receipt for the bond, and the receipt must comply with section 19(1)﻿(a); and
   (c) the landlord must refund the bond to the tenant when the tenancy terminates.
-(2) Despite subsection (1)(c), the landlord may retain out of a bond—
+(2) Despite subsection (1)﻿(c), the landlord may retain out of a bond—
   (a) any unpaid rent owing under the tenancy; and
   (b) any other amount owing by the tenant to the landlord, such as (without limitation) costs associated with repairing damage attributable to the tenant, replacing lost keys, reimbursement for services provided by the landlord, or unpaid gas, electricity, water, or telephone charges.
 (3) If the landlord does not refund the bond, or withholds more of the bond than the tenant considers is justified, the tenant may apply to the Tribunal for an order.
@@ -1147,9 +1151,9 @@ A boarding house tenancy is not assignable by a tenant.
   (g) keep a pet on the premises without the permission of the landlord.
 (3) The obligations in this section are in addition to the obligation in section 66G(3).
 (4) The following are declared to be unlawful acts:
-  (a) a contravention of subsection (2)(b):
-  (b) a contravention of subsection (2)(c):
-  (c) a contravention of subsection (2)(d) in circumstances that amount to harassment of a neighbour of the tenant.
+  (a) a contravention of subsection (2)﻿(b):
+  (b) a contravention of subsection (2)﻿(c):
+  (c) a contravention of subsection (2)﻿(d) in circumstances that amount to harassment of a neighbour of the tenant.
 
 ### 66L Tenant’s liability for damage caused by others
 (1) The tenant of a boarding house is responsible for anything done or omitted to be done by any person who is on the premises with the tenant’s permission if the act or omission would have constituted a breach of the tenancy agreement had it been the act or omission of the tenant.
@@ -1220,6 +1224,7 @@ If a landlord or tenant breaches any provision of the tenancy agreement, the oth
   (a) to show the room to a prospective tenant:
   (b) to show the room to a prospective buyer or lender, or to a registered valuer, real estate agent, or an expert engaged in appraising or evaluating the boarding house, if the boarding house is to be sold or used as security:
   (c) where entry to the room is necessary to enable the landlord to fulfil his or her obligations under this Act:
+  (ca) without limiting paragraph (c), to comply, or to prepare to comply, with any requirements in respect of smoke alarms or insulation imposed, or prospectively imposed, on landlords by regulations made under section 138A or 138B:
   (d) where the landlord has reasonable grounds to believe that a tenant of the room has failed to comply with his or her obligations as a tenant under this Act:
   (e) the landlord wishes to confirm whether or not a tenant of the room has abandoned the tenancy:
   (f) the landlord wishes to inspect the room and no entry for that purpose has been made within the last 4 weeks:
@@ -1237,9 +1242,9 @@ If a landlord or tenant breaches any provision of the tenancy agreement, the oth
 ### 66T Consequence of abuse, or refusal, of right of entry
 (1) The following are unlawful acts:
   (a) entry into a tenant’s room by a landlord otherwise than in accordance with section 66R:
-  (b) the use or threat of force by the landlord to enter or attempt to enter a tenant’s room (other than as provided for in section 66R(1)(b) or (c)):
+  (b) the use or threat of force by the landlord to enter or attempt to enter a tenant’s room (other than as provided for in section 66R(1)﻿(b) or (c)):
   (c) failure by a tenant of a boarding room (or any person occupying the tenant’s room with the tenant’s permission) to permit the entry by the landlord into the tenant’s room when the person entering is exercising a right of entry in accordance with section 66R.
-(2) A landlord who uses or threatens to use force to gain entry into a tenant’s room in breach of subsection (1)(b) commits an offence and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000.
+(2) A landlord who uses or threatens to use force to gain entry into a tenant’s room in breach of subsection (1)﻿(b) commits an offence and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000.
 (3) If a landlord enters a tenant’s room under section 66R(2), but does not comply with sections 66R(3) and 66S, the tenant may apply to the Tribunal for an order prohibiting the landlord from exercising the right to enter under section 66R(2) for a period specified in the order.
 (4) If a landlord damages any property of a tenant while in the tenant’s room, the tenant may apply to the Tribunal for compensation for the damage.
 
@@ -1308,7 +1313,7 @@ A boarding house tenancy terminates 48 hours after the death of a sole tenant un
 (5) No person shall be eligible for appointment to the Tribunal unless that person—
   (a) has a required qualification; or
   (b) is, in the opinion of the Minister of Justice and the Minister, otherwise capable by reason of special knowledge or experience of performing and exercising the duties, functions, and powers of a Tenancy Adjudicator.
-(6) In recommending persons for appointment to the Tribunal under subsection (2)(c), the Minister of Justice and the Minister shall ensure, so far as practicable, that—
+(6) In recommending persons for appointment to the Tribunal under subsection (2)﻿(c), the Minister of Justice and the Minister shall ensure, so far as practicable, that—
   (a)
   (b) there will be sufficient Tenancy Adjudicators who have a required qualification to ensure the efficient and expeditious dispatch of those cases that are directed by the Principal Tenancy Adjudicator, under section 84(3), to be heard and determined by a Tenancy Adjudicator who has a required qualification, whether sitting alone or with any other Tenancy Adjudicator.
 (7) The office of Tenancy Adjudicator shall not be held in conjunction with any office or employment in the Public Service, nor with any other office or employment that, in the opinion of the Minister of Justice and the Minister, is inconsistent with the office of Tenancy Adjudicator.
@@ -1421,7 +1426,7 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
   (p) to approve the assignment by the tenant of the rights of the tenant under any tenancy agreement to which this Act applies, or the subletting by the tenant under any such tenancy agreement of the whole or any part of the premises, where the Tribunal finds that the landlord has withheld consent unreasonably and the assignment or subletting is not absolutely prohibited by the tenancy agreement:
   (pa) to record in any order requiring a party to pay money to any other party that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Courts Act 1947:
   (q) to make orders of a consequential or ancillary nature necessary to exercise or perfect the exercise of any of its jurisdiction.
-(2A) If subsection (2)(pa) applies, then section 78(2AB) to (2AD) apply.
+(2A) If subsection (2)﻿(pa) applies, then section 78(2AB) to (2AD) apply.
 (3) The Tribunal shall have jurisdiction to make an order for the recovery by any person of any residential premises to which this Act applies, or the eviction of any person from any such premises, regardless of the value of the premises or the amount of any rent payable for the premises.
 (4) In respect of tenancy agreements, the Tribunal has jurisdiction to exercise, and may exercise, all the powers conferred on a court by section 264 of the Property Law Act 2007 (which relates to the granting of relief to the tenant against the landlord's refusal to enter into a renewal of a tenancy agreement or to sell the landlord's interest in the premises to the tenant).
 (4A) The Tribunal does not have jurisdiction to determine a dispute so far as it raises a question as to the landlord’s conduct in the landlord’s capacity as a provider of health or disability services and the conduct is of a kind about which a complaint may be made under the Health and Disability Commissioner Act 1994.
@@ -1441,13 +1446,13 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
   (g) where it appears to the Tribunal that an agreement between the parties has been induced by fraud, misrepresentation, or mistake, or that any writing purporting to express the agreement between the parties does not accord with their true agreement, an order varying, or setting aside, the agreement or the writing (either wholly or in part):
   (h) any other order that the High Court or a District Court may make under any enactment or rule of law relating to contracts:
   (i) an order dismissing an application.
-(1A) A person with an interest in premises that are not subject to a tenancy agreement may apply, without notice, to the Tribunal for an order under subsection (1)(a) declaring the status of the premises for the purposes of this Act.
+(1A) A person with an interest in premises that are not subject to a tenancy agreement may apply, without notice, to the Tribunal for an order under subsection (1)﻿(a) declaring the status of the premises for the purposes of this Act.
 (1B) An order made on an application under subsection (1A) is binding on all parties to any subsequent proceedings before the Tribunal, but the Tribunal may, on application made in any such proceedings, rescind the order if satisfied that the order is wrong or, because of a change in circumstances, no longer applicable.
-(2) Where the Tribunal makes a work order against a party, it—at the same time make an order under subsection (1)(d) to be complied with as an alternative to compliance with the work order.
+(2) Where the Tribunal makes a work order against a party, it—at the same time make an order under subsection (1)﻿(d) to be complied with as an alternative to compliance with the work order.
   (a) shall, where the order is made otherwise than by consent; and
   (b) may, where the order is made by consent,—
-(2A) Where the Tribunal makes an order under any of paragraphs (b), (c), or (h) of subsection (1), the Tribunal may at the same time make an order under subsection (1)(d) to be complied with as an alternative to compliance with the first-mentioned order.
-(2AB) The Tribunal may record in an order made under subsection (1)(d) (a money order) that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Courts Act 1947 if—
+(2A) Where the Tribunal makes an order under any of paragraphs (b), (c), or (h) of subsection (1), the Tribunal may at the same time make an order under subsection (1)﻿(d) to be complied with as an alternative to compliance with the first-mentioned order.
+(2AB) The Tribunal may record in an order made under subsection (1)﻿(d) (a money order) that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Courts Act 1947 if—
   (a) the money order was made at a hearing at which both parties were present; and
   (b) the party ordered to pay money consented to the payment of the money being enforced by way of an attachment order; and
   (c) both parties agreed on the terms of the attachment order, including the details specified in subsection (2AC).
@@ -1458,9 +1463,9 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
   (d) the amount or percentage below which the net amount paid for the earnings period must not fall; and
   (e) the name and address of the person to whom the amounts deducted are to be paid; and
   (f) that the attachment order is to remain in force until the amount specified in the money order has been paid in full or, if the attachment order is to remain in force for a fixed period, that period.
-(2AD) Nothing in subsection (2AC)(d) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from section 84I(3) of the District Courts Act 1947.
+(2AD) Nothing in subsection (2AC)﻿(d) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from section 84I(3) of the District Courts Act 1947.
 (2AE) If subsection (2AC) is complied with, the money order may be filed in any District Court and, if so filed, sections 79(5C) and 84F to 84N of the District Courts Act 1947 apply to the extent they are applicable and subject to any necessary modifications.
-(2AF) For the purposes of subsection (2AB)(a), hearing includes mediation.
+(2AF) For the purposes of subsection (2AB)﻿(a), hearing includes mediation.
 (2AG) In this section, employer and salary or wages have the same meanings as in section 84F of the District Courts Act 1947.
 (2B) Where the Tribunal makes any 2 orders under subsection (2) or subsection (2A), it is the right of the person in whose favour the order is made to choose which order to enforce under section 107.
 (3) Any order made by the Tribunal may be unconditional or subject to such conditions (whether as to the time for, or mode of, compliance, or otherwise) as the Tribunal thinks fit to impose.
@@ -1485,8 +1490,8 @@ Subject to sections 105 and 117 to 120, every order made by the Tribunal shall, 
 (1) Notwithstanding any other enactment or rule of law to the contrary, no court or other body shall have originating jurisdiction in respect of any matter that is within the jurisdiction of the Tribunal unless—
   (a) proceedings in respect of that matter were commenced before that court or other body before the commencement of this Act; or
   (b) an order is made under section 83(2).
-(2) Where subsection (1)(a) applies to proceedings before a court or other body, the issues in dispute in the claim to which those proceedings relate (whether as shown in the initial claim or emerging in the course of the hearing) shall not be the subject of proceedings between the same parties before the Tribunal unless the proceedings are transferred to the Tribunal under subsection (3), or the claim before the court or other body is withdrawn, abandoned, or struck out.
-(3) In any case to which subsection (1)(a) applies, the court or other body before which the proceedings were being conducted immediately before the date of the commencement of this Act may, with the consent of each of the parties, instead of determining the matter itself, order that the proceedings be transferred to the Tribunal subject to such provision (if any) as to the payment of costs as the court or other body thinks fit.
+(2) Where subsection (1)﻿(a) applies to proceedings before a court or other body, the issues in dispute in the claim to which those proceedings relate (whether as shown in the initial claim or emerging in the course of the hearing) shall not be the subject of proceedings between the same parties before the Tribunal unless the proceedings are transferred to the Tribunal under subsection (3), or the claim before the court or other body is withdrawn, abandoned, or struck out.
+(3) In any case to which subsection (1)﻿(a) applies, the court or other body before which the proceedings were being conducted immediately before the date of the commencement of this Act may, with the consent of each of the parties, instead of determining the matter itself, order that the proceedings be transferred to the Tribunal subject to such provision (if any) as to the payment of costs as the court or other body thinks fit.
 (4) Where proceedings are transferred to the Tribunal under subsection (3), the Tribunal may have regard to any notes of evidence transmitted to the Tribunal, and it shall not be necessary for that evidence to be given again before the Tribunal unless the Tribunal so requires.
 
 ### 83 Transfer of proceedings to District Court
@@ -1529,18 +1534,18 @@ If a dispute or part of a dispute raises a question as to the landlord’s condu
 (3) If it appears to the Tenancy Mediator that it is unlikely that an agreed settlement can be reached within a reasonable time, the Tenancy Mediator—
   (a) shall report accordingly to the chief executive who shall refer the application to the appropriate Registrar for determination by the Tribunal; and
   (b) shall, wherever practicable, after consultation with the chief executive and the appropriate Registrar, inform the parties of the date on which the Tribunal is likely to be able to hear the matter.
-(4) In any case to which subsection (3)(a) applies, the Tenancy Mediator may include in his or her report to the chief executive any statement of facts agreed to by the parties, a summary of the points settled in mediation and those still requiring determination by the Tribunal, and any comments that the Tenancy Mediator may wish to make on the conduct of the parties so far as that may be relevant to the question of costs before the Tribunal in accordance with section 102(2)(c), but shall in all respects strictly observe the provisions of sections 89 and 90.
+(4) In any case to which subsection (3)﻿(a) applies, the Tenancy Mediator may include in his or her report to the chief executive any statement of facts agreed to by the parties, a summary of the points settled in mediation and those still requiring determination by the Tribunal, and any comments that the Tenancy Mediator may wish to make on the conduct of the parties so far as that may be relevant to the question of costs before the Tribunal in accordance with section 102(2)﻿(c), but shall in all respects strictly observe the provisions of sections 89 and 90.
 (5) Where a Tenancy Mediator makes any order to give effect to an agreed settlement, a copy of the order may be filed in the appropriate office of the Tribunal, and, except in a case to which subsection (6) applies, a Tenancy Adjudicator shall seal the copy of the order accordingly.
 (6) Where that Tenancy Adjudicator believes that the order made by the Tenancy Mediator is outside the powers of the Tenancy Mediator to make, the Tenancy Adjudicator shall, instead of sealing the copy of the order,—
   (a) decline to seal the order, and direct the chief executive to refer the matter to a Tenancy Mediator for further consideration in accordance with any directions given by the Tenancy Adjudicator; or
   (b) direct that the matter be reconsidered and determined by the Tribunal.
 (7) Where any copy of an order made by a Tenancy Mediator is sealed under this section, it shall have effect as an order of the Tribunal, and shall be enforceable accordingly.
-(8) If a Tenancy Mediator makes an order under section 78(1)(d) to give effect to an agreed settlement, section 78(2AB) to (2AD) apply to the order, subject to the following modifications:
+(8) If a Tenancy Mediator makes an order under section 78(1)﻿(d) to give effect to an agreed settlement, section 78(2AB) to (2AD) apply to the order, subject to the following modifications:
   (a) section 78(2AB) and (2AD) must be read as if—
     (i) the references to the money order were references to the agreed settlement; and
     (ii) the reference to the Tribunal were a reference to the Tenancy Mediator; and
     (iii) the reference to a hearing were a reference to mediation:
-  (b) the order made by the Tenancy Mediator under section 78(1)(d) may be filed in any District Court to be enforced as an attachment order only if it is sealed under this section.
+  (b) the order made by the Tenancy Mediator under section 78(1)﻿(d) may be filed in any District Court to be enforced as an attachment order only if it is sealed under this section.
 
 ### 89 Statements made in mediation to be subject to privilege
 (1) This section applies to any oral or written statement (including a statement contained in a document) made in the course of, and for the purposes of or in connection with, the mediation by a Tenancy Mediator of any dispute.
@@ -1612,7 +1617,7 @@ If a notice or other document that is required to be served on a party is not se
   (d) a minor, or other person under disability:
   (e) any other person, if the Tribunal is satisfied that for sufficient cause that person is unable to appear in person or is unable to present his or her case adequately.
 (6) Where a representative of a party is proposed for the Tribunal's approval, the Tribunal shall satisfy itself that the person proposed has sufficient knowledge of the case and sufficient authority to bind the party.
-(7) The Tribunal shall not appoint under section 94(2)(a), or approve under this section, as a representative of a party a person who is or has been enrolled as a barrister and solicitor, or who, in the opinion of the Tribunal, is, or has been, regularly engaged in advocacy work before other tribunals; but this prohibition does not apply where—
+(7) The Tribunal shall not appoint under section 94(2)﻿(a), or approve under this section, as a representative of a party a person who is or has been enrolled as a barrister and solicitor, or who, in the opinion of the Tribunal, is, or has been, regularly engaged in advocacy work before other tribunals; but this prohibition does not apply where—
   (a) the person proposed for approval is a person or one of the persons jointly liable or entitled with another or others; or
   (b) the party seeking to be represented is a company and the person proposed for approval is the majority shareholder of the company; or
   (c) the person proposed for approval is a person—the party's affairs because of the party's absence, age, or disability.
@@ -1749,10 +1754,10 @@ The Tribunal may state a case for the opinion of the High Court on any question 
   (c) make an order empowering the party in whose favour the work order was made to undertake the necessary work and to charge the cost of doing so (up to the amount specified by the Tribunal) to the other party; or
   (d) discharge or amend any order previously made by the Tribunal.
 (2A) A person who intentionally breaches a work order commits an unlawful act.
-(3) Where any order is made under subsection (2)(c)—
+(3) Where any order is made under subsection (2)﻿(c)—
   (a) in favour of the landlord, the cost incurred by the landlord in undertaking the work (up to the amount specified by the Tribunal) shall be deemed to be rent in arrear and enforceable accordingly; or
   (b) in favour of the tenant, the tenant may set off the cost incurred in undertaking the work (up to the amount specified by the Tribunal) against rent payable by the tenant.
-(4) Without limiting subsection (3)(b), where any order is made under subsection (2)(c), the tenant may pay to the chief executive any sum that would otherwise be payable by way of rent, up to the amount specified by the Tribunal, until sufficient has been accumulated to enable the tenant to undertake the work.
+(4) Without limiting subsection (3)﻿(b), where any order is made under subsection (2)﻿(c), the tenant may pay to the chief executive any sum that would otherwise be payable by way of rent, up to the amount specified by the Tribunal, until sufficient has been accumulated to enable the tenant to undertake the work.
 (5) Where any sum is paid to the chief executive under subsection (4), the chief executive shall give to the tenant a receipt showing the particulars of the payment, and shall send a copy of the receipt to the landlord.
 (6) Any money paid to the chief executive under subsection (4) shall be paid by the chief executive into the Residential Tenancies Trust Account, and shall be paid out of that Account by the chief executive to the tenant if the chief executive is satisfied that the money is to be applied by the tenant to meet the cost of the work.
 (7) After the expiration of 12 months from the date of a work order, it shall not be enforced without the leave of the Tribunal.
@@ -1773,7 +1778,7 @@ The Tribunal may state a case for the opinion of the High Court on any question 
 (4A) The Tribunal may make an order against a person on the ground that the person committed an unlawful act even though the conduct that formed part of that act also formed part of an offence or an alleged offence against section 109A(4) in respect of which the person has been charged, convicted, or acquitted.
 (5) Any amount ordered by the Tribunal to be paid under this section on the application of a landlord or a tenant, or on the application of the chief executive acting on behalf of a landlord or a tenant, shall be paid to that landlord or that tenant, and shall be in addition to any sum payable to that landlord or that tenant by way of compensation in respect of the unlawful act.
 (6) Any amount ordered by the Tribunal to be paid under this section on the application of the chief executive acting as the person responsible for the general administration of this Act shall be paid to the Crown.
-(7) Notwithstanding subsection (5) and section 124(4)(d), if the chief executive is acting under section 124(3)(b), any amount ordered by the Tribunal to be paid under this section on the application of the chief executive shall be paid to the chief executive and retained by the Crown.
+(7) Notwithstanding subsection (5) and section 124(4)﻿(d), if the chief executive is acting under section 124(3)﻿(b), any amount ordered by the Tribunal to be paid under this section on the application of the chief executive shall be paid to the chief executive and retained by the Crown.
 
 ### 109A Tribunal may restrain further commissions of unlawful acts
 (1) If the Tribunal makes an order against a person under section 109 on the ground that the person has committed an unlawful act, the Tribunal may, if satisfied that it is in the public interest to do so, make an order restraining the person from committing a further act of the same kind.
@@ -1933,7 +1938,7 @@ For the purpose of ensuring that the application and administration of this Act 
   (a) quash the order of the Tribunal and order a rehearing of the claim by the Tribunal on such terms as the Judge thinks fit; or
   (b) quash the order, and substitute for it any other order or orders that the Tribunal could have made in respect of the original proceedings; or
   (c) dismiss the appeal.
-(2) In ordering a rehearing under subsection (1)(a), the District Court Judge may give to the Tribunal such directions as the Judge thinks fit as to the conduct of the rehearing.
+(2) In ordering a rehearing under subsection (1)﻿(a), the District Court Judge may give to the Tribunal such directions as the Judge thinks fit as to the conduct of the rehearing.
 (3) The procedure at an appeal under this section shall be such as the Judge may determine.
 
 ### 119 Appeal on questions of law to High Court
@@ -2099,6 +2104,29 @@ Where this Act requires notice to be given of any thing and prescribes a followi
 ### 138 Time for filing charging document
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
 
+### 138A Regulations in respect of smoke alarms
+(1) The Governor-General may, by Order in Council, make regulations imposing on landlords or tenants requirements in respect of smoke alarms for the purposes of section 40(1)﻿(ca), 45(1)﻿(ba), 66I(1)﻿(ba), or 66K(1)﻿(ca).
+(2) Regulations under this section may do the following:
+  (a) impose different requirements for different descriptions of landlords or tenants, premises, areas in New Zealand, or other circumstances:
+  (b) impose requirements on all landlords or tenants or requirements that apply only for particular descriptions of landlords or tenants, premises, areas in New Zealand, or other circumstances:
+  (c) impose requirements that are subject to exceptions.
+(3) The requirements that may be imposed by regulations under this section include the following (for example):
+  (a) requirements that smoke alarms be installed at premises:
+  (b) requirements about the inspection, maintenance, or replacement of smoke alarms that are installed at premises:
+  (c) requirements about the numbers, locations, condition, types, or technical specifications of smoke alarms that are installed at premises and requirements about methods of installation.
+(4) However, the requirements that may be imposed on tenants by regulations under this section are limited to requirements in respect of the replacement of worn-out batteries contained in smoke alarms.
+
+### 138B Regulations in respect of insulation
+(1) The Governor-General may, by Order in Council, make regulations imposing on landlords requirements in respect of insulation for the purposes of section 45(1)﻿(bb) or (bc) or 66I(1)﻿(bb).
+(2) Regulations under this section may do the following:
+  (a) impose different requirements for different descriptions of landlords, premises, areas in New Zealand, or other circumstances:
+  (b) impose requirements on all landlords or requirements that apply only for particular descriptions of landlords, premises, areas in New Zealand, or other circumstances:
+  (c) impose requirements that are subject to exceptions.
+(3) The requirements that may be imposed by regulations under this section include the following (for example):
+  (a) requirements that insulation (or any material or other item related to insulation) be installed in connection with ceilings, floors, or walls that are at premises:
+  (b) requirements about the inspection, maintenance, or replacement of insulation (or any material or other item related to insulation) that is installed in connection with ceilings, floors, or walls that are at premises:
+  (c) requirements about the quantities, locations, condition, types, or technical specifications of insulation (or any material or other item related to insulation) that is installed in connection with ceilings, floors, or walls that are at premises and requirements about methods of installation.
+
 ### 139 Regulations relating to accommodation brokers
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for the registering, licensing, or approval of accommodation brokers, including the qualifications required of, and the conditions to be met by, persons intending to set up business as accommodation brokers, and for the disciplining of accommodation brokers who are so registered, licensed, or approved:
@@ -2122,7 +2150,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (2) Regulations under this section that prescribe the circumstances in which a fee may be waived or remitted in whole or in part may specify, as circumstances in which fees payable by landlords and tenants may be waived or remitted in whole or in part,—
   (a) the fact that a bond of not less than a prescribed number of weeks' rent has been paid in accordance with section 19 or section 21, as the case may be:
   (b) the fact that an address for service has been notified under section 15 or section 16, as the case may be.
-(3) Nothing in subsection (2)(a) limits or affects section 18(1).
+(3) Nothing in subsection (2)﻿(a) limits or affects section 18(1).
 
 ### 141 Schedule 1 may be amended by Order in Council
 [Repealed]
@@ -2138,6 +2166,53 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (1) The enactments specified in Schedule 2 are hereby repealed.
 (2) The regulations specified in Schedule 3 are hereby revoked.
 (3) The enactments specified in Schedule 4 are hereby amended in the manner indicated in that schedule.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Residential Tenancies Amendment Act 2016
+
+### 1 Interpretation
+In this Part,—
+  - **amendment** means an amendment to this Act made by a provision of the Amendment Act
+  - **Amendment Act** means the Residential Tenancies Amendment Act 2016
+  - **commencement date** , in relation to an amendment, means the date on which the provision of the Amendment Act that makes the amendment comes into force.
+
+### 2 Existing tenancies, etc
+(1) An amendment applies to a tenancy whether the tenancy commences before, on, or after the commencement date.
+(2) Without limiting the generality of subclause (1), an amendment made to a provision referred to in section 90(2) of the Residential Tenancies Amendment Act 2010 amends that provision as it applies in accordance with section 90(1) of that Act.
+(3) This clause is subject to clause 3.
+
+### 3 Application of amendments to sections 13A, 15, 16, 16A, and 43 (contents of tenancy agreement, etc)
+An amendment made by section 6, 7, 8, 9, or 13 of the Amendment Act applies to a tenancy only if the tenancy agreement is made on or after the commencement date.
+
+### 4 Application of amendment to section 30 (landlord to keep records)
+The amendment made by section 10 of the Amendment Act does not apply to records in respect of times before the commencement date.
+
+### 5 Application of amendments to section 54 (Tribunal may declare retaliatory notice of no effect)
+An amendment made by section 16 of the Amendment Act applies only if the notice terminating the tenancy is given on or after the commencement date.
+
+### 6 Application of amendments to sections 61, 76, 78, 86, 87, 88, 91, 99, 101, and 114 and new section 91AA (abandonment applications, Tenancy Mediators, etc)
+An amendment made by section 17, 23, 25, 26, 27, 28(1), 29, 30, 33, 34, or 37 of the Amendment Act does not apply to proceedings commenced before the Tribunal before the commencement date.
+
+### 7 Application of amendments to section 108 and Schedule 1A (enforcement of work orders)
+An amendment made by section 35(2) or 46(6) of the Amendment Act applies only if the work order is made on or after the commencement date.
+
+### 8 Application of new section 123A (documents to be retained by landlord and produced to chief executive if required)
+(1) The amendment made by section 39 of the Amendment Act applies subject to subclauses (2) and (3) of this clause.
+(2) A landlord is not required under section 123A(1)﻿(a) to (d) (as inserted by the amendment) to retain any of the following (or copies of any of the following):
+  (a) a tenancy agreement, or a variation or renewal of a tenancy agreement, made before the commencement date:
+  (b) reports of inspections carried out before the commencement date:
+  (c) records of maintenance or repair work carried out before the commencement date:
+  (d) notices given, or letters, emails, or other forms of correspondence sent, before the commencement date.
+(3) A notice under section 123A(2) (as inserted by the amendment) may require a landlord to produce to the chief executive any document covered by subclause (2)﻿(b) to (d) of this clause that, at the time the landlord receives the notice, is in the landlord’s possession or under the landlord’s control.
+
+### 9 Application of amendments to section 133 (Tribunal or chief executive may require terms of tenancy agreement)
+(1) The amendment made by section 41(1) of the Amendment Act applies to a tenancy agreement, or a variation or renewal of a tenancy agreement, made before the commencement date only if, at the time the landlord receives the notice under section 133(1), the tenancy agreement or the variation or renewal (or a copy) is in the landlord’s possession or under the landlord’s control.
+(2) The amendment made by section 41(3) of the Amendment Act applies only to offences committed on or after the commencement date.
+
+### 10 Application of amendments to Schedule 1A (amounts for unlawful acts)
+(1) The amendments made by section 46(1) of the Amendment Act in relation to sections 30(2) and 48(4)﻿(b) of this Act apply only to unlawful acts that occur on or after the commencement date.
+(2) The amendments made by section 46(3) and (5) of the Amendment Act apply only to unlawful acts that occur on or after the commencement date.
 
 ## Schedule 1 — Clauses for rent increases in fixed-term tenancy agreements
 
@@ -2156,23 +2231,23 @@ The Governor-General may from time to time, by Order in Council, make regulation
 | 29 | (Failure by landlord to give receipts for rent) | 200 |
 | 33 | (Landlord seizing or disposing of tenant’s goods) | 2,000 |
 | 38(3) | (Interference with privacy of tenant) | 2,000 |
-| 40(2)(ab) | (Interference, etc, with means of escape from fire) | 3,000 |
-| 40(3A)(a) | (Failing to observe, without reasonable excuse, the tenant’s duties upon termination) | 1,000 |
-| 40(3A)(c) | (Using or permitting premises to be used for unlawful purpose) | 1,000 |
-| 40(3A)(d) | (Harassment of tenant or neighbour) | 2,000 |
-| 40(3A)(e) | (Tenant failing to ensure number of residents does not exceed maximum allowed) | 1,000 |
+| 40(2)﻿(ab) | (Interference, etc, with means of escape from fire) | 3,000 |
+| 40(3A)﻿(a) | (Failing to observe, without reasonable excuse, the tenant’s duties upon termination) | 1,000 |
+| 40(3A)﻿(c) | (Using or permitting premises to be used for unlawful purpose) | 1,000 |
+| 40(3A)﻿(d) | (Harassment of tenant or neighbour) | 2,000 |
+| 40(3A)﻿(e) | (Tenant failing to ensure number of residents does not exceed maximum allowed) | 1,000 |
 | 44(2A) | (Assigning or subletting a tenancy when prohibited to do so or without the landlord’s written consent) | 1,000 |
 | 45(1A) | (Landlord’s failure to meet obligations in respect of cleanliness, maintenance, or building, or health and safety requirements) | 3,000 |
 | 45(2A) | (Landlord interfering with supply of services to premises) | 1,000 |
 | 46(3) | (Altering locks without consent of other party) | 1,000 |
-| 48(4)(a) | (Unlawful entry by landlord) | 1,000 |
+| 48(4)﻿(a) | (Unlawful entry by landlord) | 1,000 |
 | 61(5) | (Abandonment of premises without reasonable excuse) | 1,000 |
 | 66G(4) | (Harassment of tenant in boarding house) | 2,000 |
 | 66I(4) | (Landlord of boarding house failing to meet obligations in respect of cleanliness, maintenance, or building, or health and safety requirements) | 3,000 |
 | 66J(4) | (Landlord of boarding house interfering with services or failing to advise that premises on the market) | 1,000 |
-| 66K(2)(b) | (Interference, etc, with means of escape from fire) | 3,000 |
-| 66K(4)(b) | (Using or permitting premises to be used for unlawful purposes) | 1,000 |
-| 66K(4)(c) | (Harassment of neighbour) | 2,000 |
+| 66K(2)﻿(b) | (Interference, etc, with means of escape from fire) | 3,000 |
+| 66K(4)﻿(b) | (Using or permitting premises to be used for unlawful purposes) | 1,000 |
+| 66K(4)﻿(c) | (Harassment of neighbour) | 2,000 |
 | 66P(4) | (Landlord of boarding house failing to comply with order relating to house rules) | 2,000 |
 | 66T(1) | (Contraventions relating to entry, or attempted entry, of tenant’s room in boarding house) | 1,000 |
 | 66X(5) | (Abandonment of premises without reasonable excuse) | 1,000 |
@@ -2256,7 +2331,7 @@ This Act amends the Residential Tenancies Act 1986.
 (1) This section applies to boarding house tenancies.
 (2) If, on the commencement of Part 2A of the principal Act, a landlord, or any person on behalf of the landlord, holds a bond paid in respect of an existing tenancy, the following provisions apply:
   (a) in the case of a bond of more than 1 week’s rent, section 19(1) of the principal Act must be complied with within 23 working days of the commencement of Part 2A of the principal Act:
-  (b) in the case of a bond of 1 week’s rent or less, section 66D(1)(b) of the principal Act must be complied with within 5 working days of the commencement of Part 2A of the principal Act.
+  (b) in the case of a bond of 1 week’s rent or less, section 66D(1)﻿(b) of the principal Act must be complied with within 5 working days of the commencement of Part 2A of the principal Act.
 (3) Sections 13, 13A, and 66C of the principal Act (which relate to the form and content of boarding house tenancy agreements) do not apply to existing tenancies.
 (4) Section 66E of the principal Act (which relates to outgoings) does not apply to existing tenancies.
 (5) Section 9(2) and (3) of the principal Act (which are transitional provisions) apply to existing tenancies as if the references in those provisions to the commencement of this Act were references to the commencement of Part 2A of the principal Act.
