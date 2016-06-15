@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2015-07-03_
+_Consolidation as at 2016-06-15_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -13,7 +13,7 @@ _Consolidation as at 2015-07-03_
   - **actuary** means—
     (a) a person who is a Fellow of the New Zealand Society of Actuaries Incorporated; or
     (b) a person whom the Commission or the Complaints Division, as the case may be, considers to have an equivalent professional qualification
-  - **Chief Commissioner** means the Commissioner appointed as the Chief Human Rights Commissioner under section 8(1)﻿(a)
+  - **Chief Commissioner** means the Commissioner appointed as the Chief Human Rights Commissioner
   - **Commission** means the Human Rights Commission continued by section 4 and includes the Office of Human Rights Proceedings
   - **Commissioner** means a member of the Commission
   - **Director of Human Rights Proceedings** or means the Director of Human Rights Proceedings or alternate Director of Human Rights Proceedings appointed under section 20A
@@ -26,13 +26,11 @@ _Consolidation as at 2015-07-03_
     (c) the person for whom work is done by an unpaid worker
   - **employment agreement** has the meaning given to that term by section 5 of the Employment Relations Act 2000
   - **employment contract** has the meaning given to that term by section 2 of the Employment Contracts Act 1991
-  - **Equal Employment Opportunities Commissioner** means the Commissioner appointed as the Equal Employment Opportunities Commissioner under section 8(1)﻿(c)
   - **general manager** means the general manager of the Commission appointed by the Chief Commissioner under section 18; and includes any acting general manager of the Commission
   - **Human Rights Review Tribunal** or means the Tribunal continued by section 93
   - **Minister** means the Minister of Justice
   - **Office of Human Rights Proceedings** or means the office referred to in section 20
   - **prohibited ground of discrimination** has the meaning given to it by section 21
-  - **Race Relations Commissioner** means the Commissioner appointed as the Race Relations Commissioner under section 8(1)﻿(b)
   - **relative** , in relation to any person, means any other person who—
     (a) is related to the person by blood, marriage, civil union, de facto relationship, affinity, or adoption; or
     (b) is wholly or mainly dependent on the person; or
@@ -42,6 +40,9 @@ _Consolidation as at 2015-07-03_
   - **trustees** , in relation to a superannuation scheme, includes the person or persons appointed to administer a superannuation scheme constituted under an Act of Parliament of New Zealand.
 (2) Unless the context otherwise requires, every reference in this Act to a complaint alleging a breach of 1 or more Parts of this Act includes a complaint that appears to allege or concern such a breach (whether or not it refers to the relevant Part in question).
 (3) Unless the context otherwise requires, every reference in this Act to a person against whom a complaint is made includes a body of any kind against whom a complaint is made.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -61,11 +62,15 @@ This Act shall bind the Crown.
 ### 5 Functions of Commission
 (1) The primary functions of the Commission are—
   (a) to advocate and promote respect for, and an understanding and appreciation of, human rights in New Zealand society; and
-  (b) to encourage the maintenance and development of harmonious relations between individuals and among the diverse groups in New Zealand society.
+  (b) to encourage the maintenance and development of harmonious relations between individuals and among the diverse groups in New Zealand society; and
+  (c) to promote racial equality and cultural diversity; and
+  (d) to promote equal employment opportunities (including pay equity); and
+  (e) to promote and protect the full and equal enjoyment of human rights by persons with disabilities.
 (2) The Commission has, in order to carry out its primary functions under subsection (1), the following functions:
   (a) to be an advocate for human rights and to promote and protect, by education and publicity, respect for, and observance of, human rights:
   (b) to encourage and co-ordinate programmes and activities in the field of human rights:
-  (c) to make public statements in relation to any matter affecting human rights, including statements promoting an understanding of, and compliance with, this Act or the New Zealand Bill of Rights Act 1990 (for example, statements promoting understanding of measures to ensure equality, of indirect discrimination, or of institutions and procedures under this Act for dealing with complaints of unlawful discrimination):
+  (c) to make public statements in relation to any matter that may affect or infringe human rights (whether or not those human rights are affirmed in New Zealand domestic human rights law or international human rights law), including statements commenting on the position of the Government in relation to that matter:
+  (ca) to make public statements promoting an understanding of, and compliance with, this Act or the New Zealand Bill of Rights Act 1990 (for example, statements promoting understanding of measures to ensure equality, of indirect discrimination, or of institutions and procedures under this Act for dealing with complaints of unlawful discrimination):
   (d) to promote by research, education, and discussion a better understanding of the human rights dimensions of the Treaty of Waitangi and their relationship with domestic and international human rights law:
   (e) to prepare and publish, as the Commission considers appropriate, guidelines and voluntary codes of practice for the avoidance of acts or practices that may be inconsistent with, or contrary to, this Act:
   (f) to receive and invite representations from members of the public on any matter affecting human rights:
@@ -76,10 +81,17 @@ This Act shall bind the Crown.
   (k) to report to the Prime Minister on—
     (i) any matter affecting human rights, including the desirability of legislative, administrative, or other action to give better protection to human rights and to ensure better compliance with standards laid down in international instruments on human rights:
     (ii) the desirability of New Zealand becoming bound by any international instrument on human rights:
-    (iii) the implications of any proposed legislation (including subordinate legislation) or proposed policy of the Government that the Commission considers may affect human rights:
+    (iii)
+  (ka) to report to either or both of the Prime Minister and the Minister responsible on any existing or proposed legislation (including subordinate legislation), administrative provision, or policy of the Government that the Commission considers may affect human rights:
+  (kb) to promote the development of new international instruments on human rights:
+  (kc) to promote and monitor compliance by New Zealand with, and the reporting by New Zealand on, the implementation of international instruments on human rights ratified by New Zealand:
   (l) to make public statements in relation to any group of persons in, or who may be coming to, New Zealand who are or may be subject to hostility, or who have been or may be brought into contempt, on the basis that that group consists of persons against whom discrimination is unlawful under this Act:
   (m) to develop a national plan of action, in consultation with interested parties, for the promotion and protection of human rights in New Zealand:
-  (n)
+  (n) to exercise the following functions in relation to equal employment opportunities:
+    (i) to evaluate, through the use of benchmarks developed by the Commission, the roles that legislation, guidelines, and voluntary codes of practice play in facilitating and promoting best practice in equal employment opportunities:
+    (ii) to lead the development of guidelines and voluntary codes of practice to facilitate and promote best practice in equal employment opportunities (including codes that identify related rights and obligations in legislation) in accordance with paragraph (e):
+    (iii) to monitor and analyse progress in improving equal employment opportunities in New Zealand and to report to the Minister on the results of that monitoring and analysis:
+    (iv) to liaise with, and complement the work of, any trust or body that has as one of its purposes the promotion of equal employment opportunities:
   (o) to exercise or perform any other functions, powers, and duties conferred or imposed on it by or under this Act or any other enactment.
 (3) The Commission may, in the public interest or in the interests of a person, department, or organisation, publish reports relating generally to the exercise of its functions under this Act or to a particular inquiry by it under this Act, whether or not the matters to be dealt with in a report of that kind have been the subject of a report to the Minister or the Prime Minister.
 
@@ -98,10 +110,13 @@ This Act shall bind the Crown.
 
 ### 8 Membership of Commission
 (1) The Commission consists of the following Human Rights Commissioners:
-  (a) a Commissioner appointed as the Chief Commissioner, whose office is a full-time one:
-  (b) a Commissioner appointed as the Race Relations Commissioner, whose office is also a full-time one:
-  (c) a Commissioner appointed as the Equal Employment Opportunities Commissioner, whose office is also a full-time one:
-  (d) no more than 5 other Commissioners, whose offices are each part-time ones.
+  (a) the Chief Commissioner; and
+  (b) not less than 3 and not more than 4 other Commissioners.
+(1A) There must be a Commissioner, other than the Chief Commissioner, appointed to lead the work of the Commission in each of the following priority areas:
+  (a) disability rights (the Disability Rights Commissioner):
+  (b) equal employment opportunities (including pay equity) (the Equal Employment Opportunities Commissioner):
+  (c) race relations (the Race Relations Commissioner).
+(1B) A Commissioner must lead the work of the Commission in any other priority area that is designated by the Chief Commissioner, and the Chief Commissioner may designate an area of work as a priority area only in accordance with the strategic direction and the general nature of activities determined by the Commission under section 7(1) and after consultation with the Minister and the other Commissioners.
 (2) The Commissioners are the board for the purposes of the Crown Entities Act 2004.
 (3) The Chief Commissioner holds office as chairperson of the board for the purposes of the Crown Entities Act 2004 for the same term as he or she is Chief Commissioner.
 (4) Clauses 1 to 5 of Schedule 5 of the Crown Entities Act 2004 do not apply to the Commission.
@@ -125,8 +140,8 @@ This Act shall bind the Crown.
 
 ### 10 Meetings of Commission
 (1)
-(2) The Race Relations Commissioner may, at any time, call a special meeting of the Commission.
-(3) Subsection (2) applies in addition to clause 7(2) of Schedule 5 of the Crown Entities Act 2004.
+(2)
+(3)
 (4)
 (5)
 (6)
@@ -149,7 +164,7 @@ This Act shall bind the Crown.
     (iii) community affairs:
     (iv) public administration, or the law relating to public administration.
 (1A) Subsection (1) does not limit section 29 of the Crown Entities Act 2004.
-(2) Nothing in this section limits section 12 or section 13 or section 14.
+(2) Nothing in this section limits section 12 or section 13.
 
 **Complaints Division**
 
@@ -161,51 +176,39 @@ In recommending a person for appointment as Chief Commissioner, the Minister mus
   (d) appreciation of issues or trends in human rights arising in other countries or internationally, and of the relevance of those issues or trends for New Zealand:
   (e) ability to perform the functions stated in section 15.
 
-### 13 Further criteria for appointment of Race Relations Commissioner
-In recommending a person for appointment as Race Relations Commissioner, the Minister must have regard not only to the criteria stated in section 11 but also to the person's—
-  (a) understanding of current race relations in New Zealand, and of the origins and development of those relations:
-  (b) appreciation of issues or trends in race relations arising in other countries or internationally, and of the relevance of those issues or trends for New Zealand:
+### 13 Further criteria for appointment of Commissioner appointed to lead Commission work in priority area
+In recommending a person for appointment as a Commissioner appointed to lead the work of the Commission in a priority area under section 8(1A), the Minister must have regard not only to the criteria stated in section 11 but also to the person's—
+  (a) understanding of the principles and practice of the priority area in question, including its origin and development in New Zealand:
+  (b) appreciation of issues, trends, and developments, in other countries and internationally, affecting the priority area in question, and the relevance of those issues, trends, or developments for New Zealand:
   (c) ability to perform the functions stated in section 16.
 
 **Further provisions on Commissioners and alternate Commissioners**
 
 ### 14 Further criteria for appointment of Equal Employment Opportunities Commissioner
-In recommending a person for appointment as the Equal Employment Opportunities Commissioner, the Minister must have regard not only to the criteria stated in section 11 but also to the person's—
-  (a) understanding of principles relating to equal employment opportunities:
-  (b) appreciation of issues, trends, and developments in the promotion of equal employment opportunities in other countries and internationally, and the relevance of those issues, trends, or developments in New Zealand:
-  (c) ability to perform the functions stated in section 17.
+[Repealed]
 
 **Functions of Commissioners**
 
 ### 15 Functions of Chief Commissioner
-(1) The Chief Commissioner has the following functions:
-  (a) to chair the Commission, and lead discussions of the Commission (except when the Commission has discussions on matters of race relations):
+The Chief Commissioner has the following functions:
+  (a) to chair the Commission, and lead discussions of the Commission except when it is the function of a Commissioner to do so under section 16(1)﻿(a):
   (b) to ensure that activities undertaken in the performance of the Commission's functions are consistent with the strategic direction and other determinations of the Commission under section 7:
-  (c) to allocate spheres of responsibility among the Commissioners, and to determine the extent to which Commissioners engage in activities undertaken in the performance of the Commission's functions (except for those stated in section 76), but in each case only after consultation with the Minister:
-  (d) to act jointly with the Race Relations Commissioner on matters of race relations arising in the course of activities undertaken in the performance of the Commission's functions and to carry out the functions conferred on the Chief Commissioner by section 16(c) and (d):
-  (e) to act jointly with the Equal Employment Opportunities Commissioner on matters concerning equal employment opportunities arising in the course of activities undertaken in the performance of the Commission's functions, and to carry out the functions conferred on the Chief Commissioner by section 17(g):
+  (c) to ensure that the Commission is effective and efficient in carrying out its functions:
+  (d) to ensure that the Commission meets its obligations under the Crown Entities Act 2004, the Public Finance Act 1989, and the State Sector Act 1988:
+  (e) to allocate spheres of responsibility (including responsibility for priority areas designated under section 8(1B)) among the Commissioners, and to determine the extent to which Commissioners engage in activities undertaken in the performance of the Commission's functions (except for those stated in section 76), but in each case only after consultation with the Minister:
   (f) to supervise and liaise with the general manager on matters of administration in relation to the Commission and on the activities undertaken in the performance of the Commission's functions:
   (g) any other functions, powers, or duties conferred or imposed on him or her by or under this Act or any other enactment.
-(2) Subsection (1)﻿(d) and (e) is subject to section 7(2).
 
-### 16 Functions of Race Relations Commissioner
-The Race Relations Commissioner has the following functions:
-  (a) to lead discussions of the Commission in relation to matters of race relations:
-  (b) to provide advice and leadership on matters of race relations arising in the course of activities undertaken in the performance of the Commission's functions, both when engaging in those activities and otherwise when consulted:
-  (c) to ensure, acting jointly with the Chief Commissioner, that activities undertaken in the performance of the Commission's functions in matters of race relations are consistent with the strategic direction and other determinations of the Commission under section 7:
-  (d) to supervise and liaise with the general manager, acting jointly with the Chief Commissioner, on the activities undertaken in the performance of the Commission's functions in matters of race relations:
-  (e) any other functions, powers, or duties conferred or imposed on him or her by or under this Act or any other enactment.
+### 16 Additional functions of Commissioner appointed or designated to lead work of Commission in priority areas
+(1) A Commissioner who is appointed or designated to lead the work of the Commission in a priority area under section 8(1A) or (1B) has the following additional functions:
+  (a) to lead discussions of the Commission in relation to that priority area of work:
+  (b) to provide advice and leadership on matters in that priority area of work that arise in the course of activities undertaken in the performance of the Commission's functions, both when engaging in those activities and when consulted:
+  (c) to contribute to the public debate on matters in that priority area of work:
+  (d) any other functions or duties conferred or imposed upon him or her by or under this Act or any other enactment.
+(2) However, the exercise by a Commissioner of the functions stated in subsection (1) is subject to directions given by the Chief Commissioner in the exercise of his or her responsibilities under section 15(b), (c), and (d).
 
 ### 17 Functions of Equal Employment Opportunities Commissioner
-The Equal Employment Opportunities Commissioner has the following functions:
-  (a) to lead discussions of the Commission about equal employment opportunities (including pay equity):
-  (b) to provide advice and leadership on equal employment opportunities arising in the course of activities undertaken in the performance of the Commission's functions, both when engaging in those activities and otherwise when consulted:
-  (c) to evaluate, through the use of benchmarks developed by the Commissioner, the role that legislation, guidelines, and voluntary codes of practice play in facilitating and promoting best practice in equal employment opportunities:
-  (d) to lead development of guidelines and voluntary codes of practice to facilitate and promote best practice in equal employment opportunities (including codes that identify related rights and obligations in legislation), in accordance with section 5(2)﻿(e):
-  (e) to monitor and analyse progress in improving equal employment opportunities in New Zealand, and to report to the Minister on the results of that monitoring and analysis:
-  (f) to liaise with, and complement the work of, any trust or body that has as one of its purposes the promotion of equal employment opportunities (including pay equity):
-  (g) to ensure, acting jointly with the Chief Commissioner, that activities undertaken in the performance of the Commission's functions in matters of equal employment opportunities are consistent with the strategic direction and other determinations of the Commission under section 7:
-  (h) any other functions, powers, or duties conferred or imposed on him or her by or under this Act or any other enactment.
+[Repealed]
 
 **General manager and staff of Commission**
 
@@ -1523,6 +1526,7 @@ The High Court shall have power to make such order as to the whole or any part o
   (b) if an order is sought under subsection (1)﻿(a), set out the information, documents, or things in respect of which the order is sought; and
   (c) explain why the information, documents, things, or evidence in question will or may be relevant to the inquiry.
 (4) In this section, specified inquiry means an inquiry by the Commission under section 5(2)﻿(h) into the contravention or possible contravention by any person of New Zealand law relating to human rights.
+(5) For the avoidance of doubt, nothing in this section requires the Commission in the exercise of its inquiry function under section 5(2)﻿(h) to obtain an order under subsection (1).
 
 ### 127 Evidence
 (1) The Commission may, by notice in writing, require any person who is the subject of an order under section 126A(1)﻿(a) to provide any information, and to produce any documents or things in the possession of or under the control of that person, that are specified in the order.
@@ -1604,16 +1608,16 @@ The Commission must not, in any report or statement made pursuant to this Act, m
 (1) The Commission may not delegate the powers or functions in section 7 or section 76.
 (2) In other respects, section 73 of the Crown Entities Act 2004 applies.
 
-### 140 Delegation of powers by certain Commissioners
-(1) The Chief Human Rights Commissioner or the Race Relations Commissioner may, in writing signed by him or her, delegate to an officer or employee of the Commission any of the Commissioner's functions or powers under this Act, except this power of delegation and the power to make a report under this Act.
+### 140 Delegation of powers by Chief Commissioner
+(1) The Chief Human Rights Commissioner may, in writing signed by him or her, delegate to an officer or employee of the Commission any of the Chief Commissioner's functions or powers under this Act, except this power of delegation and the power to make a report under this Act.
 (2) A delegation under this section—
   (a) may be made to a specified person or to the holder for the time being of a specified office or to the holders of offices of a specified class; and
-  (b) may be made subject to any restrictions or conditions the Commissioner thinks fit; and
+  (b) may be made subject to any restrictions or conditions the Chief Commissioner thinks fit; and
   (c) may be made either generally or in relation to any particular case or class of cases; and
   (d) is revocable at will and, until revoked, continues in force according to its tenor.
 (3) If a function or power is delegated under this section, the performance or exercise of the function or power must not be inconsistent with determinations of the Commission under section 7.
-(4) If a function or power is delegated under this section and the Commissioner by whom it was made ceases to hold office, the delegation continues to have effect as if it were made by his or her successor.
-(5) A person purporting to exercise a function or power of a Commissioner by virtue of a delegation under this section must, when required to do so, produce evidence of the person's authority to exercise the power.
+(4) If a function or power is delegated under this section and the Chief Commissioner by whom it was made ceases to hold office, the delegation continues to have effect as if it were made by his or her successor.
+(5) A person purporting to exercise a function or power of the Chief Commissioner by virtue of a delegation under this section must, when required to do so, produce evidence of the person's authority to exercise the power.
 (6) Sections 62 to 72 of the Crown Entities Act 2004 apply to a delegate under this section as if the delegate were a member and as if the disclosure must be made to the Commission and with other necessary modifications.
 (7) Sections 74 to 76 of the Crown Entities Act 2004 do not apply to a delegation under this section.
 
@@ -1621,8 +1625,7 @@ The Commission must not, in any report or statement made pursuant to this Act, m
 [Repealed]
 
 ### 141A Certain acts not to be questioned
-(1) No action of the Chief Commissioner or the Race Relations Commissioner that is required by this Act to be undertaken jointly with the other may be questioned in any proceedings on the ground that it was not undertaken jointly.
-(2) No action of the Chief Commissioner or the Equal Employment Opportunities Commissioner that is required by this Act to be undertaken jointly with the other may be questioned in any proceedings on the ground that it was not undertaken jointly.
+[Repealed]
 
 ### 142 Money to be appropriated by Parliament for purposes of this Act
 [Repealed]
@@ -1771,6 +1774,21 @@ No act or omission that occurred before 1 January 2002 is capable of being in br
   (a)
   (b) distinguishes between New Zealand citizens and other persons, or between British subjects or Commonwealth citizens and aliens.
 (4)
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+**Human Rights Amendment Act 2016: transitional provisions**
+
+### 1 Human Rights Amendment Act 2016: transitional provisions
+(1) The provisions in subclauses (2) to (5) are transitional provisions for the Human Rights Amendment Act 2016 (the Amendment Act).
+(2) On the commencement of the Amendment Act (commencement),—
+  (a) the Commissioner who immediately before commencement was the Equal Employment Opportunities Commissioner is the Commissioner appointed, as required by section 8(1A)﻿(b) of this Act, to lead the work of the Commission in the priority area of equal employment opportunities (including pay equity); and
+  (b) the Commissioner who immediately before commencement was the Race Relations Commissioner is the Commissioner appointed, as required by section 8(1A)﻿(c) of this Act, to lead the work of the Commission in the priority area of race relations.
+(3) The requirement in section 8(1)﻿(b) of this Act that there must not be more than 4 other Commissioners does not affect the appointment of Commissioners holding office on the commencement of the Amendment Act and any such Commissioner continues to hold office until the end of his or her term or until he or she ceases to hold office under section 45 of the Crown Entities Act 2004.
+(4) The requirement in section 8(1)﻿(b) of this Act that there must not be more than 4 other Commissioners—
+  (a) does not apply to the exercise of the power to appoint the first person to lead the work of the Commission in the priority area of disability rights; but
+  (b) does apply to any reappointment of the first person appointed, or any extension of his or her appointment.
+(5) A reference in any instrument, document, or notice to the Equal Employment Opportunities Commissioner or the Race Relations Commissioner must be read as a reference, respectively, to the person leading the work of the Commission in the priority area of equal employment opportunities (including pay equity) or the person leading the work of the Commission in the priority area of race relations, as the case may be.
 
 ## Schedule 1 — Administrative provisions applying in respect of Commission
 
