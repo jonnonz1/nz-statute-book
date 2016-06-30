@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2016-06-30_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -5274,9 +5274,8 @@ Building work in connection with a porch or a veranda that—
 
 ### 18 Carports
 Building work in connection with a carport that—
-  (a) is on or attached to an existing building; and
-  (b) is on the ground level of the building; and
-  (c) does not exceed 20 square metres in floor area.
+  (a) is on the ground level; and
+  (b) does not exceed 20 square metres in floor area.
 
 ### 19 Shade sails
 Building work in connection with a shade sail made of fabric or other similar lightweight material, and associated structural support, that—
