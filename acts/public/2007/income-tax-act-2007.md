@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2016-06-02_
+_Consolidation as at 2016-07-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -205,8 +205,8 @@ Employer's superannuation cash contributions
 (5) A person who makes an employer's superannuation cash contribution must pay ESCT under the ESCT rules.
 Retirement scheme contributions
 (5B) A person who makes a retirement scheme contribution to a retirement savings scheme must pay RSCT under the RSCT rules.
-FDP
-(6)
+Residential land purchase amount
+(6) A person described in section RL 3 (Associated persons: who must pay, and how?) must withhold an amount from a residential land purchase amount under the RLWT rules.
 
 ### Subpart BF — Other obligations
 
@@ -214,8 +214,8 @@ FDP
 A person must pay the following types of income or ancillary tax under the relevant Part:
   (a) qualifying company election tax under Part H (Taxation of certain entities):
   (b) income tax on taxable distributions from non-complying trusts under Part H:
-  (c) further income tax under Part O (Memorandum accounts).
-  (d)
+  (c) further income tax under Part O (Memorandum accounts):
+  (d) RLWT under subpart RL (Residential land withholding tax), if the person is described in section RL 2 (Vendors: who must pay, and how?).
   (e)
 
 ### Subpart BG — Avoidance
@@ -28522,6 +28522,7 @@ What this section applies to
   (b) section LB 2 (Tax credits for provisional tax payments):
   (c) section LB 3 (Tax credits for resident withholding tax):
   (cb) section LB 6 (Tax credits for RSCT):
+  (cc) section LB 6B (Tax credits for RLWT):
   (d) subpart LF (Tax credits for foreign dividend payment (FDP) credits):
   (db) subpart LH (Tax credits for expenditure on research and development), although modified by section LH 2(6) (Tax credits relating to expenditure on research and development):
   (e) subpart LO (Tax credits for Maori authority credits):
@@ -28634,6 +28635,9 @@ Tax credit: non-resident
 (3) If the person is not resident in New Zealand, they have a tax credit for the tax year corresponding to the income year of an amount equal to the excess of RSCT withheld over NRWT paid in relation to the contribution.
 When contribution is taxable Maori authority distribution
 (4) If the person is not resident in New Zealand and the retirement scheme contribution is a taxable Maori authority distribution, they have a tax credit for the tax year corresponding to the income year of an amount equal to the RSCT withheld.
+
+### LB 6B Tax credits for RLWT
+A person has a tax credit, for the tax year corresponding to an income year in which they dispose of residential land, equal to the amount of RLWT paid in relation to that residential land.
 
 ### LB 7 Tax credits related to personal service rehabilitation payments: providers
 When this section applies
@@ -34905,6 +34909,12 @@ Timing for payments of passive income
 ### RA 6B Withholding and payment obligations for retirement scheme contributions
 A person who makes a contribution to a retirement savings scheme must withhold and pay RSCT for the contribution to the Commissioner under subpart RH (Withholding tax on retirement scheme contributions) by the due dates.
 
+### RA 6C Withholding and payment obligations for residential land
+RLWT: vendors
+(1) A person described in section RL 2 (Vendors: who must pay, and how?) must pay RLWT for a residential land purchase amount to the Commissioner under subpart RL (Residential land withholding tax) by the due date.
+RLWT: associated persons
+(2) A person described in section RL 3 (Associated persons: who must pay, and how?) must withhold and pay RLWT for a residential land purchase amount to the Commissioner under subpart RL by the due date.
+
 ### RA 7 Payment of tax by public authorities
 A public authority that pays an amount under this Act acts within its capacity, whether further appropriation is made or not.
 
@@ -34925,9 +34935,9 @@ Exclusion
 ### RA 10 When obligations not met
 When this section applies
 (1) This section applies when—
-  (a) a person liable to withhold an amount of tax for a PAYE income payment, an employer's superannuation cash contribution, a retirement scheme contribution, a payment of resident passive income, or a payment of non-resident passive income, does not withhold and pay the amount to the Commissioner; or
-  (b) a person liable to pay an amount of tax to the Commissioner for a fringe benefit does not pay the amount.
-  (c)
+  (a) a person liable to withhold an amount of tax for a PAYE income payment, a residential land purchase amount, an employer's superannuation cash contribution, a retirement scheme contribution, a payment of resident passive income, or a payment of non-resident passive income, does not withhold and pay the amount to the Commissioner; or
+  (b) a person liable to pay an amount of tax to the Commissioner for a fringe benefit does not pay the amount; or
+  (c) a vendor liable to pay an amount of RLWT does not pay the amount.
 Debt payable to Commissioner
 (2) The amount is a debt payable to the Commissioner.
 When payable
@@ -35002,7 +35012,8 @@ When this section applies
 (1) This section applies when a person is required—
   (a) to withhold under section RA 5 an amount of tax for a payment and pay it to the Commissioner; or
   (b) to withhold and pay, or pay, under section RA 6 an amount to the Commissioner for a payment received or benefit provided by them; or
-  (c) to withhold and pay under section RA 6B an amount of tax to the Commissioner for a retirement scheme contribution.
+  (c) to withhold and pay under section RA 6B an amount of tax to the Commissioner for a retirement scheme contribution; or
+  (d) to pay under section RA 6C(1) or to withhold and pay under section RA 6C(2), an amount to the Commissioner for a residential land purchase amount.
 When payment due
 (2) The person must pay the amount to the Commissioner by the following dates:
   (a) when the period for which the payment is made is shorter than a month, by the 5th day after the relevant end date:
@@ -35015,7 +35026,7 @@ Relevant end dates
   (a) for PAYE and ESCT payable for 2 payment periods in a month under section RD 4(1)﻿(b) or RD 65(3) (which set out the basis for payment of PAYE and ESCT),—
     (i) for the first payment period, the 15th day of the month; and
     (ii) for the second payment period, the last day of the month:
-  (b) for PAYE, RWT, NRWT, and RSCT payable monthly under section RD 4(1)﻿(a), RE 21(2) and (7), RF 13(3), or RH 2(2) (which set out the basis for payment of PAYE, RWT, NRWT, and RSCT), as applicable, the last day of a month:
+  (b) for PAYE, RWT, NRWT, RSCT, and RLWT payable monthly under section RD 4(1)﻿(a), RE 21(2) and (7), RF 13(3), RH 2(2), or RL 5 (which set out the basis for payment of PAYE, RWT, NRWT, RSCT, and RLWT), as applicable, the last day of a month:
   (c) for FBT payable quarterly under sections RD 58, RD 59, and RD 62 (which set out the basis for payment of FBT), the last day of a quarter:
   (d) for RWT and NRWT payable by instalment under section RE 21(3) or RF 13(2) (which set out the basis for payment of RWT and NRWT)—
     (i) for the first instalment, the last day of September; and
@@ -37659,6 +37670,103 @@ Definition of items in formula
   (b) contribution to scheme is the amount of the retirement scheme contribution received by the retirement savings scheme excluding the amount of tax:
   (c) tax already paid is any amount of tax for the contribution that has already been paid.
 
+### Subpart RL — Residential land withholding tax
+
+### RL 1 Residential land withholding tax
+What this subpart does
+(1) This subpart imposes an obligation to pay a tax called residential land withholding tax (RLWT).
+When this subpart applies
+(2) This subpart applies for a residential land purchase amount in relation to a disposal of residential land located in New Zealand by a person (the vendor) to another person (the purchaser) if—
+  (a) the relevant residential land purchase amount would be income of the vendor under section CB 6A (Disposal within 2 years: bright-line test for residential land), ignoring sections CB 6A(6) and CB 16A (which relate to the bright-line test); and
+  (b) the vendor is an offshore RLWT person.
+How this subpart applies to joint owners
+(3) For the purposes of this subpart, vendors who are co-owners are treated as disposing of separate residential land on the basis of an appropriate split of the underlying residential land and the consideration for its disposal.
+When this subpart does not apply
+(4) This subpart does not apply if the vendor holds an RLWT certificate of exemption that applies for the disposal of the relevant residential land. Section 54E of the Tax Administration Act 1994 provides for the issue of RLWT certificates of exemption to vendors.
+Specific rules
+(5) In this subpart,—
+  (a) section RL 2 provides rules for vendors and conveyancers in relation to who must pay RLWT and satisfy RLWT liability:
+  (b) section RL 3 provides rules for purchasers in relation to who must withhold RLWT from relevant residential land purchase amounts. It also provides rules for segregating the RLWT withheld:
+  (c) section RL 4 provides rules for calculating how much tax must be paid or withheld and paid for residential land purchase amounts:
+  (d) section RL 5 provides rules for paying RLWT:
+  (e) section RL 6 provides rules for the Commissioner repaying RLWT.
+Return and information provisions in Tax Administration Act 1994
+(6) Sections 54B, 54C, and 54D of the Tax Administration Act 1994 provide for the giving of returns and information in relation to RLWT obligations.
+
+### RL 2 Vendors: who must pay, and how?
+Liability of vendor
+(1) The vendor is liable to pay the amount of RLWT provided in section RL 4.
+Conveyancers: agency for RLWT obligations
+(2) The vendor’s conveyancer, or if the vendor does not have a conveyancer, the purchaser’s conveyancer, is treated as the agent (the paying agent) of the vendor in relation to the RLWT, and, in relation to the RLWT, must provide returns and satisfy the vendor’s liability.
+Conveyancers: no agency for other obligations
+(3) The paying agent is not treated as the vendor’s agent for income, or for a tax obligation other than RLWT, solely because of their agency in relation to RLWT.
+Conveyancers: relationship with subject matter
+(4) Sections HD 2, HD 3, and HD 4 (which relate to agents) do not apply to a paying agent that is agent only in relation to RLWT.
+Liability of conveyancers
+(5) The paying agent, as agent in relation to the RLWT, is not jointly and severally liable in relation to the vendor’s RLWT or in relation to a debt under section RA 10 (When obligations not met). The vendor alone is liable to pay the RLWT, despite the paying agent’s obligation to satisfy the vendor’s liability.
+Liability of conveyancers: exception for penalties
+(6) Despite subsection (5), if the paying agent fails to satisfy the vendor’s liability, then,—
+  (a) for the purposes of Part 9 of the Tax Administration Act 1994, the paying agent is treated as failing to pay an amount of withholding tax equal to the amount of RLWT liability they failed to satisfy, if the paying agent has subtracted or retained an amount from a residential land purchase; or
+  (b) for the purposes of Part 9 of the Tax Administration Act 1994 other than section 139B, the paying agent is treated as failing to pay an amount of withholding tax equal to the amount of RLWT liability they failed to satisfy, if the paying agent has not subtracted or retained an amount from a residential land purchase.
+Liability of conveyancers: reasonable reliance
+(7) A paying agent is not liable for a penalty under Part 9 of the Tax Administration Act 1994 for a failure described in subsection (6)﻿(b) if, for that failure,—
+  (a) the paying agent has relied on a form and accompanying documents given to them in accordance with section 54C of the Tax Administration Act 1994; and
+  (b) the paying agent’s reliance on the form and accompanying documents is reasonable.
+Treatment of amount
+(8) An amount subtracted or retained from a residential land purchase by a paying agent to satisfy the vendor’s RLWT liability—
+  (a) is treated as received—
+    (i) by the vendor; and
+    (ii) at the time the residential land purchase amount is paid to them; and
+  (b) is treated for the purposes of this Act as derived by the vendor at the same time and in the same way as they derive the residential land purchase amount.
+
+### RL 3 Associated persons: who must pay, and how?
+Despite section RL 2, if the vendor and purchaser are associated persons—
+  (a) the vendor is not liable to pay the amount of RLWT provided in section RL 4; and
+  (b) the purchaser must withhold the amount of RLWT provided in section RL 4.
+
+### RL 4 How much RLWT?
+How much tax?
+(1) The total amount (RLWT) that the relevant person described in section RL 2 or RL 3 must pay or withhold for residential land purchase amounts is equal to the lesser of the amounts described in subsections (2), (4), and (6). The RLWT is paid or withheld for each residential land purchase amount, up to the maximum of the relevant residential land purchase amount.
+Calculation of amount
+(2) For the purposes of subsection (1), the amount is the greater of zero and the amount calculated using the formula—RLWT rate × (current purchase price − vendor’s acquisition cost).
+Definition of items in formula
+(3) In the formula in subsection (2),—
+  (a) RLWT rate means the rate provided in schedule 1, part A, clause 1, table 1, row 4 or, if the vendor is a company that is not acting as a trustee, the rate provided in schedule 1, part A, clause 2:
+  (b) current purchase price is the purchase price agreed by the vendor and purchaser for the disposal of the residential land, including deposits and part payments, that the residential land purchase amount relates to:
+  (c) vendor’s acquisition cost is the purchase price paid by the vendor for their acquisition of the residential land.
+Calculation of amount
+(4) For the purposes of subsection (1), the amount is calculated using the formula—0.10 × current purchase price.
+Definition of item in formula
+(5) In the formula in subsection (4), current purchase price has the same meaning as in subsection (3)﻿(b).
+Calculation of amount
+(6) For the purposes of subsection (1), the amount is the greater of zero and the amount calculated using the formula—current purchase price − security discharge amount − outstanding rates.
+Definition of items in formula
+(7) In the formula in subsection (6),—
+  (a) current purchase price has the same meaning as in subsection (3)﻿(b):
+  (b) security discharge amount is—
+    (i) zero, if paragraph (ii) does not apply:
+    (ii) the total of the amounts required by licensed security holders to discharge their mortgages or other securities over the residential land, if the relevant person who must pay RLWT is the vendor or the vendor’s conveyancer:
+  (c) outstanding rates is the amount of local authority rates outstanding.
+A definition
+(8) In this section, licensed security holder means a person who has a mortgage or other security over the relevant residential land, if that person is—
+  (a) a registered bank:
+  (b) a licensed NBDT, as defined in section 4 of the Non-bank Deposit Takers Act 2013.
+
+### RL 5 Paying RLWT
+Paying RLWT
+(1) A person who is required to pay or withhold RLWT must pay the amount of tax to the Commissioner under section RA 15 (Payment dates for interim and other tax payments).
+Basis for payment of RLWT
+(2) For the purposes of section RA 6C (Withholding and payment obligations for residential land), the person must pay the amount of tax on a monthly basis.
+
+### RL 6 Commissioner repaying RLWT
+Repaying RLWT
+(1) An amount of RLWT paid in relation to a person’s disposal of residential land may be repaid by the Commissioner to the person if and to the extent to which—
+  (a) a tax credit for the RLWT is likely to be a surplus credit under section BC 8(4) for the relevant tax year, treating the person as only having income and deductions for land for the tax year and the relevant tax rate provided in section RL 4(3); and
+  (b) the person has no outstanding tax obligations under the Inland Revenue Acts; and
+  (c) the person gives the Commissioner the information in the form prescribed under section 54D of the Tax Administration Act 1994, including any prescribed accompanying documents.
+Effect of repaying RLWT
+(2) For the purposes of section LB 6B (Tax credits for RLWT), an amount of RLWT repaid by the Commissioner is treated as not paid in relation to the residential land that the person disposed of.
+
 ### Subpart RM — Refunds
 
 ### RM 1 What this subpart does
@@ -38598,7 +38706,7 @@ In this Act, unless the context requires otherwise,—
     (g) is defined in section RD 37(2) (Contributions to superannuation schemes) for the purposes of that section:
     (h) is defined in section RD 41(4) (Services) for the purposes of that section
   - **amount of all consideration** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
-  - **amount of tax** , for a payment, includes the amount of tax that must be withheld and paid, or paid to the Commissioner under the PAYE rules, ESCT rules, RSCT rules, RWT rules, or NRWT rules
+  - **amount of tax** , for a payment, includes the amount of tax that must be withheld and paid, or paid to the Commissioner under the PAYE rules, ESCT rules, RSCT rules, RLWT rules, RWT rules, or NRWT rules
   - **ancillary tax** means—
     (a) provisional tax:
     (b) further income tax:
@@ -38612,6 +38720,7 @@ In this Act, unless the context requires otherwise,—
     (j) FBT:
     (k) ESCT:
     (kb) RSCT:
+    (kc) RLWT:
     (l) RWT:
     (m) NRWT
     (n)
@@ -38734,7 +38843,7 @@ In this Act, unless the context requires otherwise,—
   - **branch equivalent tax credit** means a credit referred to in section OA 5(5) (Credits)
   - **branch equivalent tax debit** means a debit referred to in section OA 6(5) (Debits)
   - **bribe** is defined in section DB 45(4) (Bribes) for the purposes of that section
-  - **bright-line date** is defined in section CB 6A (Disposal within 2 years: bright-line test for residential land) for the purposes of that section and section CB 16A (Main home exclusion for disposal within 2 years)
+  - **bright-line date** is defined in section CB 6A (Disposal within 2 years: bright-line test for residential land) for the purposes of that section, section CB 16A (Main home exclusion for disposal within 2 years), and section 54C of the Tax Administration Act 1994
   - **broodmare** means a broodmare that is bloodstock
   - **building** , in subparts EE and EZ, does not include—
     (a) a grandparented structure:
@@ -39008,6 +39117,9 @@ In this Act, unless the context requires otherwise,—
     (c) provides, whether exclusively or not,—
       (i) for the holder to have a right to subscribe for shares or stock in the capital of the company or in the capital of another company; or
       (ii) for the amount or any part of the amount, with or without interest and whether at par or otherwise, to be converted into or repaid by the issue of shares in the company, whether the conversion or repayment by the issue of shares is mandatory or is at the option of the company or of the holder
+  - **conveyancer** means,—
+    (a) for a vendor or a purchaser, the lawyer, incorporated law firm, conveyancing practitioner, or incorporated conveyancing firm that provides conveyancing services, as that term is used in the Lawyers and Conveyancers Act 2006, to the vendor or purchaser using a New Zealand-based trust account; but
+    (b) for a purchaser who does not have a conveyancer described in paragraph (a), the purchaser themselves
   - **co-operative company** does not include a statutory producer board
   - **copyright in a sound recording** means the copyright in the version of the recording of which copies have been sold or offered for sale to the public
   - **core acquisition price** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
@@ -39081,7 +39193,7 @@ In this Act, unless the context requires otherwise,—
   - **CTRA**
   - **current accounting year**
   - **current value** is defined in section HR 3(4) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
-  - **date of acquisition** is defined in section CB 6A (Disposal within 2 years: bright-line test for residential land) for the purposes of that section and section CB 16A (Main home exclusion for disposal within 2 years)
+  - **date of acquisition** is defined in section CB 6A (Disposal within 2 years: bright-line test for residential land) for the purposes of that section, section CB 16A (Main home exclusion for disposal within 2 years), and section 54C of the Tax Administration Act 1994
   - **date of transfer** , in subpart FB (Transfers of relationship property), and in the definitions of , for property transferred under a relationship agreement, means the date on which the property was transferred
   - **date the deposit ends** —
     (a) is defined in section EH 36 (Other definitions) for the purposes of the main income equalisation scheme:
@@ -40150,6 +40262,7 @@ In this Act, unless the context requires otherwise,—
   - **levy** , for a statutory producer board, means a sum payable by a member of the board under a power of the board to require or request the member to pay an amount of levy
   - **liabilities** is defined in section EZ 68 (Definitions) for the purposes of sections EZ 64 to EZ 67 (which relate to New Zealand Railways Corporation restructure)
   - **licence-specific assets** is defined in section DZ 5(6) (Farm-out arrangements for petroleum mining before 16 December 1991) for the purposes of that section
+  - **licensed security holder** is defined in section RL 4(8) (How much RLWT?) for the purposes of section RL 4
   - **life financial reinsurance** is defined in section EY 12 (Meaning of life reinsurance)
   - **life fund PIE** means a separate identifiable fund forming part of a life insurer that—
     (a) meets the requirements of section HM 7 (Requirements); and
@@ -40668,6 +40781,25 @@ In this Act, unless the context requires otherwise,—
   - **off-market cancellation** means a share cancellation that is not an on-market cancellation
   - **offshore development**
   - **offshore permit area** is defined in section CW 57 (Non-resident company involved in exploration and development activities) for the purposes of that section
+  - **offshore RLWT person** means, for the purposes of subpart RL (Residential land withholding tax),—
+    (a) a natural person, if—
+      (i) the person is a New Zealand citizen who is outside New Zealand and they have not been in New Zealand within the last 3 years:
+      (ii) the person holds a residence class visa granted under the Immigration Act 2009, and they are outside New Zealand and have not been in New Zealand within the last 12 months:
+      (iii) the person is not a New Zealand citizen and they do not hold a residence class visa granted under the Immigration Act 2009:
+    (b) a person that is a trustee of a trust, if—
+      (i) more than 25% of the trustees of the trust are offshore RLWT persons:
+      (ii) more than 25% of the people that have the power to appoint or remove a trustee of the trust, or to amend the trust deed, are offshore RLWT persons:
+      (iii) all natural person beneficiaries and all natural person discretionary beneficiaries of the trust are offshore RLWT persons:
+      (iv) all beneficiaries and all discretionary beneficiaries of the trust are offshore RLWT persons:
+      (v) a beneficiary, including a discretionary beneficiary (a beneficiary), that is an offshore RLWT person has received a distribution from the trust in 1 of the last 4 years before the relevant disposal of residential land and, if the beneficiary is a natural person, the total distributions to the beneficiary for the relevant year are more than $5,000:
+      (vi) the trust has disposed of residential land within 4 years before the relevant disposal of residential land and the trust has a beneficiary, including a discretionary beneficiary, that is an offshore RLWT person:
+    (c) a person, if—
+      (i) the person is incorporated outside New Zealand:
+      (ii) the person is not a natural person and is registered outside New Zealand:
+      (iii) the person is constituted under foreign law:
+      (iv) the person is a company or a partner in a limited partnership and more than 25% of the company’s directors or of the limited partnership’s general partners are offshore RLWT persons:
+      (v) the person is a company and more than 25% of the company’s shareholder decision-making rights are held directly or indirectly by offshore RLWT persons:
+      (vi) the person is a partner in a limited partnership or an owner of an effective look-through interest in a look-through company (LTC), and more than 25% of the partnership’s partnership shares or of the LTC’s effective look-through interests are held directly or indirectly by offshore RLWT persons
   - **old company tax rate** means a 30% or 33% basic tax rate applying before the 2011–12 income year
   - **old financial arrangements rules** means—
     (a) the following provisions:
@@ -41233,6 +41365,7 @@ In this Act, unless the context requires otherwise,—
     (b) does not include land that is—
       (i) used predominantly as business premises:
       (ii) farmland
+  - **residential land purchase amount** means, in relation to residential land located in New Zealand, an amount paid or payable for the disposal of the land, but excludes a deposit or part payment (the ) if deposits and part payments, including the part-amount, total, in aggregate, less than 50% of the purchase price for the land
   - **residential mortgage backed security** means a security that is backed by New Zealand-originated first mortgages on New Zealand residential property
   - **residential purposes** is defined in section CB 18(3) (Residential exclusion from section CB 14) for the purposes of that section
   - **resident’s restricted amalgamation** is defined in section FO 3(1) (Resident’s restricted amalgamations) for the purposes of the amalgamation rules
@@ -41253,6 +41386,7 @@ In this Act, unless the context requires otherwise,—
       (ii) section LB 3 (Tax credits for resident withholding tax):
       (iii) section LB 5 (Tax credits for non-resident withholding tax):
       (iiib) section LB 6 (Tax credits for RSCT):
+      (iiibb) section LB 6B (Tax credits for RLWT):
       (iiic) section LC 13 (Tax credits for independent earners):
       (iv) section LE 1 (Tax credits for imputation credits):
       (v) section LF 1 (Tax credits for FDP credits):
@@ -41297,6 +41431,12 @@ In this Act, unless the context requires otherwise,—
   - **right to take timber** includes an easement or licence or right of taking profits or produce from the land to the extent to which the easement, licence, or right relates to timber
   - **rights date** means, for an agreement for the sale and purchase of property or services, the date on which the first right in the property is transferred or the services are provided
   - **ring-fenced tax loss** means an amount referred to in section IA 7 (Restrictions relating to ring-fenced tax losses)
+  - **RLWT** means residential land withholding tax and refers to an amount payable under the RLWT rules
+  - **RLWT certificate of exemption** means a certificate of exemption issued by the Commissioner under section 54E of the Tax Administration Act 1994
+  - **RLWT rules** means—
+    (a) sections LA 4, LA 6, and LB 6B (which relate to tax credits for RLWT); and
+    (b) subpart RL (Residential land withholding tax); and
+    (c) sections 54B, 54C, 54D, and 54E, and Part 9 of the Tax Administration Act 1994
   - **RMBS special purpose vehicle**
   - **rolling average value** is defined in section EZ 4(5) (Valuation of livestock bailed or leased as at 2 September 1992) for the purposes of that section
   - **routine government action**
