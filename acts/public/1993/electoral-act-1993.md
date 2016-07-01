@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2015-11-19_
+_Consolidation as at 2016-07-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -3441,8 +3441,8 @@ Every person is guilty of—
 
 ### 205C Maximum amount of candidate's total election expenses
 (1) The total election expenses of a candidate in respect of any regulated period must not exceed—
-  (a) $26,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
-  (b) $52,200 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
+  (a) $26,200 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
+  (b) $52,400 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
 (2) The amounts in subsection (1) are inclusive of goods and services tax.
 
 ### 205D Apportionment of advertising expenses for publication of candidate advertisement both before and during regulated period
@@ -3581,9 +3581,9 @@ Every person is guilty of—
 
 ### 206C Maximum amount of party's total election expenses
 (1) If a party is listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed—
-  (a) $1,111,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
-  (b) $26,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
-(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $26,100 for each electoral district contested by a candidate for the party.
+  (a) $1,115,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
+  (b) $26,200 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
+(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $26,200 for each electoral district contested by a candidate for the party.
 (3) The amounts in subsections (1) and (2) are inclusive of goods and services tax.
 
 ### 206CA Apportionment of advertising expenses for publication of party advertisement both before and during regulated period
@@ -3746,7 +3746,7 @@ Every person is guilty of—
   (b) an illegal practice who contravenes section 206T in any other case.
 
 ### 206V Maximum amount of registered promoter's total election expenses
-(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $313,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
+(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $315,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
 (2) The amount in subsection (1) is inclusive of goods and services tax.
 
 ### 206W Apportionment of advertising expenses for publication of election advertisement promoted by registered promoter both before and during regulated period
