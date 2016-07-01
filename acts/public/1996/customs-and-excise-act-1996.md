@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2016-05-31_
+_Consolidation as at 2016-07-01_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -2237,6 +2237,12 @@ An entity must not access, transmit information to, or receive information from,
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
   (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j).
+
+### 134C Duty to use JBMS to supply border information to Customs
+(1) This section applies to a requirement by or under this Act to supply to the Customs any border information (as defined in section 282D).
+(2) After the commencement of this section, the only ways in which a person can comply with the requirement are—
+  (a) by using the JBMS; or
+  (b) by using another means for the time being generally or specifically approved in writing by the chief executive.
 
 ### 135 Cancellation or suspension of registration
 (1) The chief executive may by written notice to a registered JBMS user (which must state grounds for the cancellation) cancel that registered JBMS user's registration if satisfied that the user (or, as the case requires, a or the nominated representative of the user)—
