@@ -1,5 +1,5 @@
 # Wine Act 2003
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-07-01_
 
 ### 1 Title
 This Act is the Wine Act 2003.
@@ -1354,7 +1354,7 @@ The methods by which costs may be recovered under this subpart are as follows:
   (e) require the keeping of separate trust accounts for levy money received or deducted by persons responsible for collecting levies, and prescribe matters in relation to those trust accounts:
   (f) prescribe a method of arbitration or mediation in the case of disputes as to—and provide for related matters, including procedures and remuneration for arbitrators or mediators.
     (i) whether or not any person is required to pay, or collect, the levy concerned; or
-    (ii) the amount of levy any person is required to pay or collect;—
+    (ii) the amount of levy any person is required to pay or collect—
 (4) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 84 and 86 have been met.
 (5) Nothing in this section or in this subpart affects the power of persons within the winemaking industry to determine to introduce and impose a levy on wine in accordance with section 111.
 
@@ -1585,6 +1585,16 @@ A person who is required by or under section 112 to keep records or any other in
   (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
 (4) In this section,—
   - **border information** and have the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993
+  - **Ministry** has the meaning given in section 41A(1) of the Biosecurity Act 1993 and also has the meaning given in section 4(1) of this Act.
+
+### 113B Duty to use JBMS to supply border information
+(1) This section applies to a requirement by or under this Act to supply to the Ministry any border information.
+(2) After the commencement of this section, the only ways in which a person can comply with the requirement are—
+  (a) by using the JBMS; or
+  (b) by using another means for the time being generally or specifically approved in writing by the Director-General.
+(3) In this section,—
+  - **border information** and have the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993
+  - **Director-General** has the meaning given in section 4(1) of this Act
   - **Ministry** has the meaning given in section 41A(1) of the Biosecurity Act 1993 and also has the meaning given in section 4(1) of this Act.
 
 **Right of review**
