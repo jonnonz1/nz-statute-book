@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2016-05-31_
+_Consolidation as at 2016-07-01_
 
 > An Act to reform the administration of education
 
@@ -5968,19 +5968,24 @@ Any fees paid by or on behalf of any student who withdraws from a programme or t
 
 ### 238D Interpretation
 In this Part, unless the context otherwise requires,—
-  - **administrator** means the person or organisation responsible for administering the code
   - **code** means the code of practice established under section 238F
-  - **IEAA** means the International Education Appeal Authority established by the code
-  - **international student** means a person who—
-    (a)
-    (b) is enrolled by a provider; and
-    (c) in relation to a provider, is an international student as defined in section 2(1)
-  - **provider** means—
+  - **code administrator** means the person or agency appointed under section 238FA(1)
+  - **DRS** means the International Student Contract Dispute Resolution Scheme established by section 238J
+  - **DRS operator** means the person or agency appointed under section 238J(4)﻿(a)
+  - **DRS rules** means the rules prescribed under section 238M
+  - **international student** —
+    (a) has the meaning given by section 2(1); and
+    (b) in relation to a provider, means an international student enrolled by the provider
+  - **provider** means a person or body that is—
     (a) a registered school; or
-    (b) an institution as defined in section 159; or
-    (c) a private training establishment holding a current registration under Part 18; or
-    (d) an organisation that provides adult and community education and receives funding under section 159YA or 159ZC
-  - **review panel** means the review panel established by the code.
+    (b) an institution within the meaning of section 159; or
+    (c) a registered private training establishment registered under section 233; or
+    (d) an organisation that provides adult and community education that receives funding under section 159YA or 159ZC
+  - **signatory provider** means a provider that is a signatory to the code
+  - **student claimant** , in relation to a provider, means a person who—
+    (a) is an international student enrolled by the provider; or
+    (b) is a former international student enrolled by the provider; or
+    (c) intends to be, or is in the process of being, enrolled by the provider as an international student.
 
 ### 238E Signatories to code may enrol persons as international students
 (1) A provider may enrol a person as an international student or continue to have an international student enrolled, so long as the provider is a signatory to the code.
@@ -5988,7 +5993,7 @@ In this Part, unless the context otherwise requires,—
   (a) the provider is not a signatory to the code; or
   (b) the provider is removed as a signatory to the code under section 238G; or
   (c) for any other reason provided in the code, the provider ceases to be a signatory to the code.
-(3) A provider that is suspended under section 238G may continue to have international students enrolled and may provide educational instruction to only those students to the extent permitted by the review panel under that section.
+(3) A provider that is subject to a sanction under section 238G(1) may continue to have international students enrolled and may provide educational instruction to those students but only to the extent permitted by the sanction.
 (4) Until 1 July 2003, nothing in subsection (1) or subsection (2) applies to providers who enrol international students only on courses of less than 3 months' duration (as that term is defined in section 232(4)).
 
 ### 238EA Obligation on provider to enrol person as international student
@@ -5998,33 +6003,65 @@ A provider must enrol a person as an international student if the person is not 
 
 ### 238F Code
 (1) The Minister may publish a code of practice that provides a framework for the pastoral care of international students.
-(2) Without limiting subsection (1), the code may include provisions for all or any of the following purposes:
-  (a) designating the administrator:
-  (b) setting out requirements relating to the manner in which providers may assess and recruit prospective international students, including the information to be given by providers about courses, procedures, and costs:
-  (c) providing for the welfare of international students, including the support services to be provided by a provider and any reporting obligations:
-  (d) requiring providers to review their own performance to ensure compliance with the code, and providing for the designation or appointment of an independent person or organisation to monitor the performance of providers to ensure compliance with the code:
-  (e) establishing the IEAA to investigate and determine complaints from international students or their authorised representatives about alleged breaches of the code, after all internal grievance procedures have been exhausted, to investigate and determine complaints from the administrator about alleged breaches of the code, and to refer appropriate cases to the review panel; setting out rules of procedure or empowering the IEAA to regulate its own procedure; and, subject to section 238G, specifying the remedies and sanctions it may impose:
-  (f) establishing the review panel to determine whether a signatory should be removed or suspended as a signatory to the code; setting out rules of procedure or empowering the review panel to regulate its own procedure; and, subject to section 238G, specifying the remedies and sanctions it may impose:
+(1A) The purpose of the code is to support the Government’s objectives for international education by—
+  (a) requiring providers to take all reasonable steps to protect international students; and
+  (b) ensuring, so far as is possible, that international students have in New Zealand a positive experience that supports their educational achievement.
+(1B) The scope of the code is to prescribe, alongside other quality assurance prescribed by this Act,—
+  (a) outcomes sought from providers for their international students; and
+  (b) key processes required of providers to support the well-being, achievement, and rights of international students.
+(2) Without limiting subsections (1) to (1B), the code may include provisions for all or any of the following purposes:
+  (a)
+  (b)
+  (c)
+  (d)
+  (e)
+  (f)
   (g) despite everything in the Public Finance Act 1989, requiring providers to indemnify the administrator:
   (h) providing for such other matters as are contemplated by or necessary for giving full effect to this Part and for its due administration.
 (3) The code of practice may make different provisions in relation to international students aged under 18 and in relation to international students aged 18 or over.
 (4) The code is binding on all parties who are signatories to the code.
-(5) The Minister must notify the making of the code in the Gazette and make copies available for inspection free of charge, or for purchase at a reasonable cost, in such form and at such places as the Minister determines.
+(5) The code is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 238FA Appointment of code administrator
+(1) The Minister may, by notice in the Gazette, appoint a person or an agency to be responsible for administering the code.
+(2) The functions of the code administrator are—
+  (a) to receive applications from providers seeking to become signatories to the code; and
+  (b) to assess those applications against—
+    (i) the criteria stated in the code; and
+    (ii) the purpose stated in section 238F(1A) and the scope stated in section 238F(1B); and
+  (c) to allow or decline to allow applicants to become signatories to the code in accordance with its assessments; and
+  (d) to monitor and investigate the extent to which signatory providers comply with the code—
+    (i) following a process prescribed by the code; and
+    (ii) in close collaboration with education quality assurance authorities; and
+  (e) to issue to signatory providers notices under section 238FB; and
+  (f) to impose on signatory providers sanctions for breaches of the code and failure to comply with notices under section 238FB.
+(3) The code administrator may allow an applicant to become a signatory to the code unconditionally, or subject to any conditions stated in writing to the applicant at the time the code administrator informs the applicant that the applicant is allowed to become a signatory to the code.
+
+### 238FB Code administrator may issue compliance notices
+(1) The code administrator may issue a compliance notice to a signatory provider requiring the signatory provider to do, or refrain from doing, a particular thing in relation to—
+  (a) the signatory provider’s obligations as a signatory to the code; or
+  (b) the signatory provider’s conditions of approval as a signatory to the code.
+(2) A notice under subsection (1) may specify the manner in which a thing must be undone or the manner in which the consequences of a thing must be rectified.
+(3) The notice must be in writing and must—
+  (a) state the date on which it is issued; and
+  (b) if it requires the signatory provider to take any action, state a time on or before which, or a period within which, the signatory provider must take the action; and
+  (c) state the consequences or possible consequences of non-compliance with it.
+(4) The code administrator may publish the notice, or a summary of it, in a manner designed to give public notice of it.
+(5) The code administrator may, before the expiry of the time or period referred to in subsection (3)﻿(b), extend the time or period, and in that case the time or period as extended becomes the time or period within or during which the notice must be complied with.
+
+### 238FC Signatory providers to comply with compliance notices
+(1) A signatory provider must comply with a notice under section 238FB (a compliance notice).
+(2) If, in the code administrator's opinion, the signatory provider does not comply with the compliance notice, the code administrator may (as the code administrator sees fit) impose sanctions against the signatory provider under section 238G.
+(3) The code administrator must not act under subsection (2) until the later of the following:
+  (a) 10 days after the date on which the compliance notice was issued:
+  (b) the expiry of any time or period of a kind referred to in section 238FB(3)﻿(b).
+(4) This section and section 238FB do not limit, or affect the generality of, section 238G.
 
 ### 238G Sanctions
-(1) If it finds that a signatory to the code has committed a serious breach of the code of practice, the IEAA may recommend to the review panel that—
-  (a) the provider be removed as a signatory to the code; or
-  (b) the provider be suspended for a specified period as a signatory to the code.
-(2) If it finds that a signatory to the code has committed a breach of the code other than a serious breach, the IEAA may impose an appropriate sanction (other than a sanction referred to in subsection (1)﻿(a) or (b)) provided in the code.
-(3) If it considers that the sanction it has imposed on a provider under subsection (2) has not been complied with to its satisfaction, the IEAA can recommend to the review panel that—
-  (a) the provider be removed as a signatory to the code; or
-  (b) the provider be suspended for a specified period as a signatory to the code.
-(4) The review panel may—
-  (a) impose the sanction referred to in subsection (1)﻿(a) or (b) that is recommended by the IEAA; or
-  (b) substitute the other sanction referred to in subsection (1); or
-  (c) substitute an appropriate lesser sanction provided for in the code; or
-  (d) set aside the recommendation made by the IEAA.
-(5) At any time pending a final determination by the review panel, it may refer a matter back to the IEAA with directions to reconsider the whole or any specified part of the matter.
+(1) If satisfied that the signatory provider has breached the code or failed to comply with a notice under section 238FB, the code administrator may—
+  (a) impose limitations on the signatory provider’s power to enrol international students; or
+  (b) impose new, or amend or revoke any existing, conditions on the signatory provider’s approval as a code signatory.
+(2) If satisfied that a signatory provider has not complied with a sanction imposed under subsection (1) or a notice under section 238FB, the code administrator may remove the signatory provider as a signatory to the code.
 
 ### 238H Export education levy
 (1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, make regulations imposing an export education levy on providers who receive tuition fees from international students enrolled with them.
@@ -6047,6 +6084,7 @@ A provider must enrol a person as an international student if the person is not 
     (v) support (financial or otherwise) of other bodies engaged in the development, promotion, or quality assurance of the export education sector:
   (ab) the making of payments as set out in subsections (1A) and (1B):
   (b) the administration and audit of the code:
+  (ba) the funding of the operation of the International Student Contract Dispute Resolution Scheme provided for by section 238J:
   (c) the general administration of the levy and associated purposes.
 (1A) Subsection (1B) applies if—
   (a) an international student is or was enrolled with a private training establishment for a course of study or training; and
@@ -6069,6 +6107,41 @@ A provider must enrol a person as an international student if the person is not 
   (a) undertake, in consultation with providers, a review of the operation, administration, and effectiveness of the export education levy; and
   (b) prepare a report on the findings of the review; and
   (c) present a copy of the report to the House of Representatives.
+
+### 238J International Student Contract Dispute Resolution Scheme
+(1) This section establishes the International Student Contract Dispute Resolution Scheme.
+(2) The purpose of the DRS is to resolve contractual and financial disputes between international students (and former and prospective international students) and providers.
+(3) Every provider that enrols, intends to enrol, or has enrolled international students is subject to and must (in relation to any contractual or financial dispute with an international student or a former or prospective international student) comply with the rules of the DRS prescribed under section 238M.
+(4) The Minister—
+  (a) may, by notice in the Gazette, appoint a person or an agency to be responsible for administering the DRS; and
+  (b) must take reasonable steps to ensure that there is at all times a person appointed to be responsible for administering the DRS.
+(5) A student claimant may lodge with the DRS operator for resolution under the DRS any contractual or financial dispute with a provider, but only if—
+  (a) the provider has been given an opportunity to resolve the dispute, but the claimant is not satisfied with the process, the outcome, or both; or
+  (b) the provider has failed to, or has refused to, try to resolve the dispute.
+(6) The resolution of a dispute is binding on all parties to the dispute if—
+  (a) it is the outcome of an adjudication of the dispute by or on behalf of the DRS operator; or
+  (b) it is produced by a mediation undertaken by or on behalf of the DRS operator whose outcome the parties to the dispute have agreed will be binding.
+(7) The DRS operator—
+  (a) may charge fees to a student claimant, the provider concerned, or both, according to the rules of the DRS prescribed under section 238M; but
+  (b) (notwithstanding those rules) may in its absolute discretion partially or completely exempt any person, or persons of a particular description, from the payment of fees.
+
+### 238K Cap of $200,000 on amount that can be required to be paid
+In resolving any dispute, the DRS operator—
+  (a) must not require a provider to pay to a claimant in relation to any particular claim any amount exceeding $200,000; but
+  (b) may charge the provider fees in addition to any amount required to be paid.
+
+### 238L District Court to enforce DRS
+(1) The District Court may,—
+  (a) on the application of the student claimant or the DRS operator, make an order requiring a provider to comply with the rules of the DRS or to give effect to any resolution that is binding under section 238J(6); or
+  (b) on the application of the provider or the DRS operator, make an order requiring a claimant to give effect to any resolution that is binding under section 238J(6).
+(2) If an order (or part of an order) requiring the provider to comply with the resolution requires the provider to pay any sum of money to any person, that order (or part) may be enforced as if it were a judgment by the District Court for the payment of that sum of money to that person.
+(3) If the District Court is satisfied that the terms of the resolution of a dispute by the DRS operator are manifestly unreasonable, the court may modify the resolution before giving effect to it.
+(4) Subsection (3) overrides subsections (1) and (2) and section 238J(6).
+
+### 238M Rules of International Student Contract Dispute Resolution Scheme
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, prescribe rules for the functioning and administration of the DRS.
+(2) The Minister must not recommend the making of an order without consulting any relevant bodies and sector representatives he or she thinks appropriate.
+(3) The rules may prescribe fees, or a means by which fees can be calculated or ascertained.
 
 ## Part 19 — Vice-Chancellors Committee
 
