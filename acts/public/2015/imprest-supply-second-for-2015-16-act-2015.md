@@ -1,5 +1,5 @@
 # Imprest Supply (Second for 2015/16) Act 2015
-_Consolidation as at 2015-08-24_
+_Consolidation as at 2016-07-01_
 
 ### 1 Title
 This Act is the Imprest Supply (Second for 2015/16) Act 2015.
