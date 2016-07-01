@@ -1,5 +1,5 @@
 # Education Amendment Act 2015
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2016-07-01_
 
 ### 1 Title
 This Act is the Education Amendment Act 2015.
