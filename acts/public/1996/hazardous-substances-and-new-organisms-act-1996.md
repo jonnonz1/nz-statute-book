@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2015-09-05_
+_Consolidation as at 2016-07-01_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -525,12 +525,18 @@ The Authority may from time to time request any person who in the Authority's op
   (b) section 30(ba), but only for research in a laboratory.
 
 ### 26 Determination of new organism or hazardous substance
-(1) The Authority may, by notice in the Gazette, on application by any person, determine whether or not any organism is a new organism, or (without limiting any regulations made under section 74(b)) whether or not any substance is a hazardous substance.
-(2) Before issuing such a determination, the Authority shall have regard to—
+(1) The Authority may, on application by any person, determine whether or not any organism is a new organism.
+(2) A determination under subsection (1) must be issued by notice in the Gazette.
+(3) The Authority may, on application by any person, determine 1 or more of the following:
+  (a) whether or not any substance is a hazardous substance:
+  (b) a hazardous substance's classification:
+  (c) the approvals that apply or are required to be obtained.
+(4) A determination under subsection (3) must be publicly notified.
+(5) Before issuing a determination under this section, the Authority must have regard to—
   (a) any information held by the Authority; and
   (b) any information held by any department listed in Schedule 1 of the State Sector Act 1988 and any Crown entity; and
   (c) any information provided by the applicant.
-(3) Any determination issued by the Authority under subsection (1) may be revoked or reissued on receipt of further information by the Authority.
+(6) The Authority may revoke or reissue a determination issued by it under this section if it receives further information.
 
 ### 27 Types of approval
 In this Act, the term approval means any of the following:
@@ -1980,6 +1986,13 @@ If Parts 11 to 15 apply to a hazardous substance and a group standard is made un
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
   (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
 (4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
+
+### 97AB Duty to use JBMS to supply border information
+(1) This section applies to a requirement by or under this Act to supply any border information to the Ministry (for example, to the chief executive of the department of State responsible for the administration of the Biosecurity Act 1993 in enforcing this Act in respect of new organisms).
+(2) After the commencement of this section, the only ways in which a person can comply with the requirement are—
+  (a) by using the JBMS; or
+  (b) by using another means for the time being generally or specifically approved in writing by the responsible person.
+(3) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993, and responsible person means, in this section, the person (whether described as the enforcement agency or otherwise) who under sections 97 to 97B of this Act is responsible for enforcement of the requirement.
 
 ### 97B Enforcement of Act in respect of hazardous substances in place of work
 (1) The enforcement agency must ensure that the provisions of this Act are enforced in respect of hazardous substances in a place of work.
