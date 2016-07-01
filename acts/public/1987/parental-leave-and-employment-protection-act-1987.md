@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2016-04-01_
+_Consolidation as at 2016-07-01_
 
 > Title
 
@@ -118,7 +118,7 @@ Administrative matters
 An employee's entitlement to rights and benefits in respect of parental leave must be determined by treating each of the employee's employments separately, if the employee has more than 1 employment.
 
 ### 2AB Multiple employments of certain medical practitioners
-(1) This section applies to a medical practitioner who is an employee of a district health board and,—
+(1) This section applies to a medical practitioner who is an employee of a district health board and—
   (a) is undertaking training that is described by the Minister by notice in the Gazette as training to which this section applies; and
   (b) in order to complete the training, is required to work for more than 1 district health board.
 (2) For the purposes of determining the entitlement of a medical practitioner to whom this section applies to rights and benefits in respect of parental leave, if, during a 12-month period (or 6-month period, as the case may be), the medical practitioner is employed by more than 1 district health board consecutively, those employments must be treated as 1 employment.
@@ -490,7 +490,7 @@ An employer must deal with a request for negotiated carer leave as soon as possi
   (b) if given by a pregnant employee, shall be accompanied by a certificate from a medical practitioner or a midwife—
     (i) certifying that the female employee is pregnant; and
     (ii) stating the expected date of delivery; or
-  (c) if given by the pregnant woman's spouse or partner shall be accompanied by—
+  (c) if given by the pregnant woman's spouse or partner, shall be accompanied by—
     (i) a certificate or a copy of a certificate from a medical practitioner or a midwife certifying that the woman named in the certificate is pregnant and stating the expected date of delivery; and
     (ii) a written assurance from the woman named in the medical certificate that the employee is her spouse or partner and that the employee intends to assume care of the child to be born to her.
 
@@ -664,7 +664,7 @@ Where—the defences set out in sections 51 and 52 shall be available to the emp
 
 ### 51 Special defences relating to dismissal during parental leave
 Where the termination is proved to have taken place during the employee's absence on parental leave, it shall be a defence for the employer to prove—
-  (a) that—
+  (a) that,—
     (i) in the case of a period of parental leave to which section 40(1) applies, on the ground of the occurrence of a redundancy situation that occurred in the employer's business after the employer gave the employee notice in terms of section 36(1)﻿(c)﻿(i), the employer was unable to keep the employee's position open; or
     (ii) in the case of other periods of parental leave, on the ground of circumstances (of the type referred to in section 41) that occurred in the employer's business after the employer gave the employee notice in terms of section 36(1)﻿(c)﻿(i), the employer was unable to keep the employee's position open; and
   (b) that the employer terminated the employee's employment on account of a redundancy situation of such nature that there was no prospect of the employer being able to appoint the employee to a position which was vacant and which was substantially similar to the position held by the employee at the beginning of the employee's parental leave; and
@@ -1079,16 +1079,16 @@ A person is not entitled to a parental leave payment in respect of a child if—
 
 ### 71M Amount of parental leave payment
 (1) The rate of parental leave payment payable to any eligible employee is the lesser of—
-  (a) $516.85 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
+  (a) $527.72 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
   (b) the greater of—
     (i) 100% of the employee's ordinary weekly pay before the commencement of the parental leave payments; and
     (ii) 100% of the employee's average weekly income from work.
 (1A) The rate of parental leave payment payable to any eligible self-employed person is the lesser of—
-  (a) $516.85 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
+  (a) $527.72 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
   (b) the greater of—
     (i) 100% of the self-employed person's average weekly income from work; and
     (ii) the minimum amount of parental leave payment for a self-employed person set under section 71N(4).
-(1B) The rate of parental leave payment payable to a person who is eligible for a parental leave payment as an employee and also as a self-employed person may not exceed $516.85 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O), despite subsections (1) and (1A).
+(1B) The rate of parental leave payment payable to a person who is eligible for a parental leave payment as an employee and also as a self-employed person may not exceed $527.72 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O), despite subsections (1) and (1A).
 (2)
 
 ### 71N Annual adjustment of parental leave payment rates
@@ -1277,7 +1277,7 @@ The Maternity Leave and Employment Protection Act 1980 is hereby repealed.
 (2) Notwithstanding any provision to the contrary in this Act, nothing in section 8 or section 18 or section 24 shall entitle an employee to take any parental leave under this Act in respect of a child of whom the employee assumed care before 1 January 1988 with a view to adoption by that employee or by that employee and that employee's spouse jointly.
 
 ### 77 Savings provisions
-(1) Notwithstanding the repeal of the Maternity Leave and Employment Protection Act 1980 by section 74 a female employee shall be entitled after the commencement of this Act to take maternity leave in accordance with that Act in respect of a child—and the female employee shall be entitled to the same rights and benefits as the rights and benefits to which the female employee would have been entitled if the maternity leave had been taken before the repeal of the Maternity Leave and Employment Protection Act 1980.
+(1) Notwithstanding the repeal of the Maternity Leave and Employment Protection Act 1980 by section 74, a female employee shall be entitled after the commencement of this Act to take maternity leave in accordance with that Act in respect of a child—and the female employee shall be entitled to the same rights and benefits as the rights and benefits to which the female employee would have been entitled if the maternity leave had been taken before the repeal of the Maternity Leave and Employment Protection Act 1980.
   (a) the expected date of delivery of whom is on or after 1 October 1987 but before 1 January 1988; or
   (b) of whom the employee assumes care on or after 1 October 1987 but before 1 January 1988 with a view to adoption by that employee or by that employee and that employee's spouse jointly,—
 (2) The repeal of the Maternity Leave and Employment Protection Act 1980 by section 74 shall not affect, reduce, or extinguish—
@@ -1337,13 +1337,13 @@ If a trade or business or an undertaking (whether or not it is an undertaking es
 (c) any employer who employed any employee in the trade or business or undertaking at any time before the transfer and the transferee shall be deemed, in relation to the employee, to be the same employer.
 
 ### 2
-If by or under any Act, whether passed before or after the date of the commencement of this Act, a employment agreement between any body corporate and an employee is modified and some other body corporate is substituted as the employer,—
+If by or under any Act, whether passed before or after the date of the commencement of this Act, an employment agreement between any body corporate and an employee is modified and some other body corporate is substituted as the employer,—
 (a) the employee's period of employment at the time when the substitution takes effect shall count as a period of employment with the second-mentioned body corporate; and
 (b) the substitution shall not break the continuity of the period of employment of the employee; and
 (c) the first-mentioned body corporate and the second-mentioned body corporate shall be deemed, in relation to the employee, to be the same employer.
 
 ### 3
-If on the death of an employer an employee is taken into the employment of the personal representatives or trustees of the deceased (whether before or after the commencement of this Act),—
+If, on the death of an employer, an employee is taken into the employment of the personal representatives or trustees of the deceased (whether before or after the commencement of this Act),—
 (a) the employee's period of employment at the time of the death shall count as a period of employment with the employer's personal representatives or trustees; and
 (b) the death shall not break the continuity of the period of employment of the employee; and
 (c) the employer and the employer's personal representatives or trustees shall be deemed, in relation to the employee, to be the same employer.
