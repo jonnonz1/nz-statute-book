@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2016-06-02_
+_Consolidation as at 2016-07-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -2538,6 +2538,51 @@ A person who in a year pays an amount of resident passive income that is interes
   (d) such further information as the Commissioner may require.
 (2) The Commissioner may exempt any person or persons from any or all of the requirements to furnish information to the Commissioner under this section, and in the case of any such exemption this section shall apply subject to that exemption.
 
+### 54B Return of statement for RLWT
+(1) A person that must make a payment of RLWT must give the Commissioner a statement in relation to their RLWT obligations (the return), in the form prescribed by the Commissioner, at the time at which the RLWT must be paid to the Commissioner or within such further time as the Commissioner may allow.
+(2) Also, a person must give the Commissioner the return if they have no RLWT to pay because of the application of section RL 4 of the Income Tax Act 2007.
+
+### 54C Information in relation to payment of RLWT
+(1) This section applies if a person (the vendor) disposes of residential land (the disposal), and the bright-line date for the residential land is within 2 years of—
+  (a) the date on which the instrument to transfer the land to the person was registered under the Land Transfer Act 1952; or
+  (b) their date of acquisition of the land, if an instrument to transfer the land to the person is not registered on or before the bright-line date.
+(2) This section does not apply if the relevant date for the vendor under subsection (1)﻿(a) or (b) is before 1 October 2015.
+(3) The vendor must give to their conveyancer, or if they do not have a conveyancer or they are associated with the purchaser, give to the purchaser’s conveyancer or the purchaser, information in relation to RLWT, in the form prescribed by the Commissioner, before the relevant residential land purchase amount is paid.
+(4) The information must be accompanied by relevant and appropriate documents, as prescribed by the Commissioner.
+(5) The information that a vendor must give includes—
+  (a) their full name, address, and tax file number; and
+  (b) whether or not they are an offshore RLWT person; and
+  (c) if they are an offshore RLWT person,—
+    (i) whether or not they are associated with the purchaser; and
+    (ii) whether or not section RL 1(2)﻿(a) of the Income Tax Act 2007 applies for the disposal.
+(6) If the vendor is not an offshore RLWT person, the following people must verify, as prescribed by the Commissioner, the information and any relevant and appropriate documents:
+  (a) in the case of a vendor company or a look-through company, a director who is not an offshore RLWT person:
+  (b) in the case of a vendor limited partnership, a general partner of the partnership who is not an offshore RLWT person:
+  (c) in the case of a vendor trust, a trustee of the trust who is not an offshore RLWT person.
+(7) The person who receives the information must keep and retain the information for a period of at least 7 years, unless they receive the information as the purchaser. If they receive the information as the purchaser, they must give a copy of it to the Commissioner within 1 month of receiving it, but they do not have to keep and retain the information afterwards.
+
+### 54D Information in relation to repayment of RLWT
+(1) For the purposes of deciding if an amount of RLWT may be repaid for a person under section RL 6 of the Income Tax Act 2007, the Commissioner must prescribe a form that requires—
+  (a) a person’s income and deductions for land for the period of the part of the income year before the date that is 1 month after the relevant disposal of residential land; and
+  (b) whether or not the person, for the relevant disposal of residential land, will meet the requirements in section CB 16A; and
+  (c) other relevant particulars.
+(2) The Commissioner may also prescribe any appropriate documents to accompany the form.
+
+### 54E RLWT certificate of exemption
+(1) This section applies when—
+  (a) a person applies for an RLWT certificate of exemption in the form prescribed by the Commissioner; and
+  (b) the form is accompanied by certified copies of relevant and appropriate documents, as prescribed by the Commissioner; and
+  (c) the Commissioner is satisfied that the person meets the requirements in 1 of subsection (2), (3), or (4).
+(2) The requirements in this subsection are that the person, for the residential land,—
+  (a) is a person who carries on a business of developing land or dividing land into lots or erecting buildings; and
+  (b) has provided, in accordance with section 7A of this Act, a security that is acceptable to the Commissioner to secure the performance of their income tax obligations in relation to the land.
+(3) The requirements in this subsection are that the person, for the residential land,—
+  (a) is a person who carries on a business of developing land or dividing land into lots or erecting buildings; and
+  (b) has had tax obligations under the Inland Revenue Acts before applying for the certificate; and
+  (c) has complied with all tax obligations for the 2 years before they apply for the certificate, and the Commissioner is satisfied that the person will continue to so comply.
+(4) The requirements in this subsection are that the person, for the residential land, will meet the requirements in section CB 16A.
+(5) The Commissioner must issue an RLWT certificate of exemption to the person.
+
 ### 55 Consequence of inability to provide tax file numbers
 Where any person at any time—that person shall, notwithstanding any other provision of the RWT rules, be relieved from that obligation to provide the Commissioner with that tax file number.
   (a) is required in accordance with section 52 or section 53 or section 54 to provide the Commissioner with any other person's tax file number; and
@@ -3321,6 +3366,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
     (iv) the public sector agency is authorised by the client to receive the information; and
     (v) the Minister of Revenue has been notified by the Commissioner that such information will be communicated to the public sector agency:
   (o) communicating, for the purpose of section 82A, information to a person who is an officer, employee, or agent of the responsible department and who is authorised to receive the information by the chief executive of that department:
+  (ob) communicating to a relevant professional body appropriate details of a failure by 1 of its members to satisfy, as agent, a person’s liability to pay RLWT in accordance with the RLWT rules:
   (p) communicating, for the purpose of section 85F, information to a person who is an officer, employee, or agent of the New Zealand Film Commission responsible for the administration of a scheme under which government screen production payments are made and who is authorised to receive the information by the chief executive of the New Zealand Film Commission:
   (q) communicating, for the purpose of section 85H, information to a person who is an officer, employee, or agent of the department for the time being responsible for the administration of the Parental Leave and Employment Protection Act 1987 and who is authorised to receive the information by the chief executive of that department:
   (r) communicating to the FMA the following information, provided that the Commissioner considers it not undesirable to disclose the information and the information is reasonably necessary to enable the FMA to perform its duties or functions or exercise its powers:
@@ -5980,20 +6026,21 @@ The purposes of this Part are—
 **Civil penalties**
 
 ### 139A Late filing penalty for certain returns
-(1) This section applies to tax returns required to be furnished under sections 33, 41 to 44, and 79 (in this Part, annual tax returns), the annual ICA return required to be furnished under section 69(1) and (2)﻿(a) by an Australian ICA company that is not required to furnish a return of income for a tax year, the reconciliation statement required to be provided under regulation 3 of the Accident Rehabilitation and Compensation Insurance (Earnings Definitions) Regulations 1992 or regulation 15 of the Accident Insurance (Premium Payment Procedures) Regulations 1999 or any successor to that regulation made under the Accident Compensation Act 2001, and the employer monthly schedule required to be provided under section RD 22(1) to (5) of the Income Tax Act 2007.
+(1) This section applies to tax returns required to be furnished under sections 33, 41 to 44, and 79 (in this Part, annual tax returns), the annual ICA return required to be furnished under section 69(1) and (2)﻿(a) by an Australian ICA company that is not required to furnish a return of income for a tax year, the reconciliation statement required to be provided under regulation 3 of the Accident Rehabilitation and Compensation Insurance (Earnings Definitions) Regulations 1992 or regulation 15 of the Accident Insurance (Premium Payment Procedures) Regulations 1999 or any successor to that regulation made under the Accident Compensation Act 2001, the statement required to be provided under section 54B of this Act, and the employer monthly schedule required to be provided under section RD 22(1) to (5) of the Income Tax Act 2007.
 (2) A taxpayer is liable to pay a late filing penalty if—
   (a) the taxpayer does not complete and provide on time—
     (i) an annual tax return:
     (ii) an annual ICA return required to be furnished under section 69(1) and (2)﻿(a):
     (iii) a reconciliation statement:
     (iiib) a return required to be furnished under section 57B:
+    (iiic) a statement for payment of RLWT required to be provided under section 54B:
     (iv) an employer monthly schedule; and
   (b) the Commissioner notifies the taxpayer that the penalty is payable.
 (3) The late filing penalty for an annual tax return for a taxpayer with net income—
   (a) below $100,000, is $50;
   (b) between $100,000 and $1,000,000 (both figures inclusive), is $250;
   (c) above $1,000,000, is $500.
-(4) The late filing penalty for an annual ICA return or reconciliation statement or employer monthly schedule is $250.
+(4) The late filing penalty for an annual ICA return or reconciliation statement or employer monthly schedule or statement for RLWT is $250.
 (5) Except in the case of a late filing penalty resulting from an employer monthly schedule or from a tax return required under sections 16 to 18 of the Goods and Services Tax Act 1985, the Commissioner must, not less than 30 days before imposing a late filing penalty,—
   (a) send notice to a taxpayer that a late filing penalty may be imposed if a return specified in the notice is not filed; or
   (b) publicly notify that a late filing penalty may be imposed on taxpayers who omit to file the required return.
