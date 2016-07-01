@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-07-01_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -351,6 +351,16 @@ A provision in this Act that applies in the territorial sea must be interpreted 
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
   (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
+
+### 7F Duty to use JBMS to supply border information to Ministry
+(1) This section applies to a requirement by or under an Act to supply to the Ministry any border information (as defined in section 41A(1)) if the Act is—
+  (a) this Act; or
+  (b) an Act that is specified by regulations under section 165A to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1).
+(2) After the commencement of this section, the only ways in which a person can comply with the requirement are—
+  (a) by using the JBMS (which, in this section, has the meaning given in section 131A of the Customs and Excise Act 1996); or
+  (b) by using another means for the time being generally or specifically approved in writing by—
+    (i) the Director-General (as defined in section 2(1)), if the Act is this Act; or
+    (ii) the chief executive of the department of State for the time being responsible for the Act's administration, if the Act is an Act that is specified by regulations under section 165A to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1).
 
 ## Part 2 — Functions, powers, and duties
 
