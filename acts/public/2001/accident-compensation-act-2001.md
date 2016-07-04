@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2016-07-04_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -2941,6 +2941,39 @@ Except as otherwise specified in this Act or as required by virtue of any delega
 
 ### 264 Money expended or received for injury prevention to be managed through Accounts
 All money received by the Corporation for injury prevention purposes under section 263(3)﻿(b) and (c), and the expenditure of any money under section 263, must be allocated and managed through the Account or Accounts maintained and operated by the Corporation under section 166 in respect of which a reduction in levy rates or expenditure is expected.
+
+### 264A Workplace injury prevention action plan
+(1) The Corporation and WorkSafe must at all times have a workplace injury prevention action plan.
+(2) The Corporation and WorkSafe—
+  (a) may amend the workplace injury prevention action plan at any time; and
+  (b) must review the workplace injury prevention action plan at least once every 3 years.
+(3) The workplace injury prevention action plan must—
+  (a) outline all workplace injury prevention programmes that will be undertaken by WorkSafe and the Corporation (jointly or separately) in the period to which the plan relates; and
+  (b) state how those programmes are to be funded; and
+  (c) if funding from one agency is to be used to fund programmes undertaken by the other agency, state the amount of that funding; and
+  (d) in relation to programmes, or aspects of programmes, to be undertaken by WorkSafe, be consistent with the Health and Safety at Work Strategy published under section 195 of the Health and Safety at Work Act 2015; and
+  (e) in relation to programmes, or aspects of programmes, to be undertaken by the Corporation, be consistent with the Corporation's priorities for injury prevention measures relating to the Work Account.
+(4) The Corporation and WorkSafe must, to the extent practicable, ensure that—
+  (a) the workplace injury prevention action plan outlines a coherent scheme of workplace injury prevention programmes that do not involve the duplication of activities carried out by the Corporation and WorkSafe; and
+  (b) workplace injury prevention programmes are undertaken by the agency that is best suited to undertake them; and
+  (c) programmes outlined in the workplace injury prevention action plan complement the agencies' other activities, such as enforcement and education activities.
+
+### 264B Injury prevention measures undertaken by WorkSafe and funded by Corporation or jointly undertaken
+(1) This section applies to injury prevention measures that are—
+  (a) jointly undertaken by the Corporation and WorkSafe; or
+  (b) undertaken by WorkSafe and partly or wholly funded by the Corporation.
+(2) Before measures to which this section applies commence, the Corporation and WorkSafe must enter into 1 or more written agreements that specify—
+  (a) how the measures—
+    (i) are likely to result in a cost-effective reduction in actual or projected levy rates in the Work Account; and
+    (ii) are consistent with the Health and Safety at Work Strategy published under section 195 of the Health and Safety at Work Act 2015; and
+    (iii) are consistent with the Corporation's priorities for injury prevention measures relating to the Work Account; and
+  (b) the amount of funding to be provided by the Corporation and by WorkSafe; and
+  (c) how and when that funding will be provided; and
+  (d) how the measures will be evaluated, including the key performance indicators to be used and the expected outcomes; and
+  (e) any requirements for reporting between the agencies.
+(3) If funding for injury prevention measures undertaken by WorkSafe is to be provided by the Corporation, the agreement may also provide that the Corporation may cease providing funding if it is satisfied that—
+  (a) key performance indicators are not being met; or
+  (b) expected outcomes are not being achieved.
 
 ### 265 Ancillary powers of Corporation
 (1) In addition to services required to be provided under this Act, the Corporation may provide services under subsection (2) or (4)—
