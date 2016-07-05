@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-07-05_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -26,6 +26,7 @@ _Consolidation as at 2016-03-01_
     (a) where the organisation is a company or corporation, a director; and
     (b) where the organisation is a trust, a trustee; and
     (c) any temporary, acting, or alternative member of the organisation
+  - **Minister of the Crown** includes a Parliamentary Under-Secretary
   - **official information** —
     (a) means any information held by—
       (i) a department; or
@@ -57,8 +58,8 @@ _Consolidation as at 2016-03-01_
       (i) any matter subject to an order under section 15(1)﻿(a) of the Inquiries Act 2013; or
       (ii) documents referred to in section 32(2)﻿(b) of the Inquiries Act 2013; and
     (i) does not include information contained in any correspondence or communication which has taken place between the office of the Ombudsmen and any department or Minister of the Crown or organisation and which relates to an investigation conducted by an Ombudsman under this Act or under the Ombudsmen Act 1975, other than information that came into existence before the commencement of that investigation; and
-    (j) does not include information contained in any correspondence or communication that has taken place between the office of the Privacy Commissioner and any department or Minister of the Crown or organisation and that relates to any investigation conducted by the Privacy Commissioner under the Privacy Act 1993, other than information that came into existence before the commencement of that investigation:
-    (k) does not include information contained in a victim impact statement (as defined in section 17AA of the Victims' Rights Act 2002)
+    (j) does not include information contained in any correspondence or communication that has taken place between the office of the Privacy Commissioner and any department or Minister of the Crown or organisation and that relates to any investigation conducted by the Privacy Commissioner under the Privacy Act 1993, other than information that came into existence before the commencement of that investigation; and
+    (k) does not include information contained in a victim impact statement (as defined in section 17AA of the Victims' Rights Act 2002); and
     (l) does not include any evidence, submissions, or other information given or made to—
       (i) the Judicial Conduct Commissioner, the Deputy Judicial Conduct Commissioner, or a Judicial Conduct Panel, in relation to any matter under the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004; or
       (ii) the Judicial Complaints Lay Observer
