@@ -352,7 +352,7 @@ After regulation 6, insert:When young person required to receive youth services 
 (2) In regulation 6(1)﻿(b), replace in accordance with section 80BD(4) of the Act with in accordance with section 82(3A) of the Act.
 
 ### 45 Amendments to Social Security (Exemptions under Section 105) Regulations 1998
-Sections 45 and 46 amend the Social Security (Exemptions under Section 105) Regulations 1998.
+Sections 46 and 47 amend the Social Security (Exemptions under Section 105) Regulations 1998.
 
 ### 46 Regulation 3A amended (Exemption from obligations under section 60Q)
 (1) In regulation 3A(2)﻿(f)﻿(iv), replace court. with court; or.
