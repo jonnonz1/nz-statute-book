@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-07-08_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1316,7 +1316,7 @@ In this Part, unless the context otherwise requires,—
     (j) any tertiary institution, secondary school, or private training establishment (as those terms are defined in the Education Act 1989) to which section 226A or section 238B of that Act applies, as from time to time notified to the Commissioner by the department for the time being responsible for the administration of the Social Security Act 1964:
     (k) the Ministry of Education:
     (l) the Education Council of Aotearoa New Zealand established under Part 32 of the Education Act 1989:
-    (la) the agency or agencies appointed under section 100 of the Housing Restructuring and Tenancy Matters Act 1992.
+    (m) the agency or agencies appointed under section 100 of the Housing Restructuring and Tenancy Matters Act 1992.
 
 **Information matching guidelines**
 
@@ -1812,6 +1812,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Approved Information Sharing Agreement for Improving Public Services for Vulnerable Children dated 25 June 2015 | Improving the well-being of vulnerable children | http://www.msd.govt.nz http://childrensactionplan.govt.nz | Ministry of Social Development | athe name and address of a child, and the names, and address or addresses, of the child’s parents and caregivers:ba child’s date of birth:ca notification or an alert from a health practitioner that a child or the child’s family is at risk:dany history of harm to a child or history of harm to a child in the child’s family:einformation about a child’s physical or mental health that may indicate that the child has been abused or neglected or is at risk of abuse or neglect: |
 |  |  |  |  | finformation about a child’s current and previous well-being, including financial circumstances, and issues of concern about the child’s well-being, including financial circumstances:ginformation about a child’s psychological or emotional difficulties:hinformation about the capacities and strengths of a child and the child’s family:iissues of concern that have been raised with respect to a child’s education, including any special education needs:jinformation that indicates that a child has a record of a substance abuse problem or a history of violence:kinformation about whether a parent or caregiver of a child has a mental illness:linformation about whether a parent or caregiver of a child has a substance abuse problem or a history of domestic violence: |
 |  |  |  |  | minformation about a person who may pose a risk to a child and information about that risk:nany assessments of a child for the purposes of the Children, Young Persons, and Their Families Act 1989. |
+| Information sharing to support services for disengaged youth: information sharing agreement between the Ministry of Education and the Ministry of Social Development made on 8 August 2012 | To provide services to encourage and help young persons who have ceased to be enrolled at a registered school or a tertiary education organisation to move into, or remain in, education, training, and employment rather than to receiving financial support under the Social Security Act 1964 | http://www.youthservice.govt.nz/for-providers/provider-guide/neet-clients/information-sharing.html | Ministry of Social Development | astudent name (and any alternative names):bgender:cethnicity:ddate of birth:eresidency information (if known):faddress:ghome and mobile phone numbers (if known):hemail address:ischools attended (including geographical regions and deciles):jnumber of schools attended:kdate left school and year level:lleaving reason (for each school):mqualification information at time of leaving school:ndetails of any interventions that student may have participated in:oany information on student’s participation in tertiary education. |
 
 ## Schedule 3 — Information matching provisions
 
