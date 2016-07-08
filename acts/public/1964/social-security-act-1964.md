@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2016-07-01_
+_Consolidation as at 2016-07-08_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -19,7 +19,7 @@ The purpose of this Act is—
   (c) to ensure that the financial support referred to in paragraphs (a) and (b) is provided to people taking into account—
     (i) that where appropriate they should use the resources available to them before seeking financial support under this Act; and
     (ii) any financial support that they are eligible for or already receive, otherwise than under this Act, from publicly funded sources:
-  (ca) to provide services to encourage and help young persons to move to education, training, and employment rather than to receiving financial support under this Act:
+  (ca) to provide services to encourage and help young persons to move into or remain in education, training, and employment rather than to receiving financial support under this Act:
   (d) to impose, on the following specified people or young persons, the following specified requirements or obligations:
     (i) on people seeking or receiving financial support under this Act, administrative and, where appropriate, work-related requirements; and
     (ii) on young persons who are seeking or receiving financial support under this Act, educational, budget management, and (where appropriate) parenting requirements; and
@@ -229,6 +229,7 @@ Every person exercising or performing a function, duty or power under this Act m
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **midwife** means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery
   - **Minister** , in relation to any provisions of this Act, means, subject to any enactment, the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of those provisions
+  - **NCEA level 2** means a level 2 National Certificate of Educational Achievement issued by the New Zealand Qualifications Authority established under Part 20 of the Education Act 1989
   - **New Zealand superannuation** means New Zealand superannuation payable under the New Zealand Superannuation and Retirement Income Act 2001
   - **non-entitlement period** , in relation to a person, means a period when the person is not entitled to a benefit because he or she—
     (a) became voluntarily unemployed; or
@@ -348,6 +349,9 @@ Every person exercising or performing a function, duty or power under this Act m
     (c) a day in the period commencing on 25 December in any year and ending with 15 January in the following year; and
     (d) the day observed as the anniversary day of the appropriate province
   - **young parent payment** means a young parent payment payable under Part 5
+  - **young person** ,—
+    (a) in sections 1A(ca) and 123E, means a person who is aged at least 15 years but is under the age of 18 years; and
+    (b) in all other cases, means a person who is aged at least 16 years but is under the age of 20 years
   - **youth payment** means a youth payment payable under Part 5
   - **youth support payment** means a young parent payment or youth payment.
 (2) For the purposes of this Act, a person shall be deemed not to have attained a given age until the commencement of the relevant anniversary of the day of his birth.
@@ -381,7 +385,7 @@ Every person exercising or performing a function, duty or power under this Act m
 
 ### 3C Transitional and savings provisions relating to amendments to this Act
 (1) The transitional and savings provisions set out in Schedule 32, which relate to amendments to this Act that come into force on or after 1 July 2001, have effect for the purposes of this Act.
-(2) The transitional and savings provisions relating to, or to the provisions of, the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 32 specified in the second column of that table:The following table has 2 columns. Column 1 is headed Amendment Act or provisions of it and column 2 is headed Schedule 32 Part.Amendment Act or provisions of itSchedule 32 PartSocial Security Amendment Act 2001Part 1Social Security (Benefit Categories and Work Focus) Amendment Act 2013Part 2Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014Part 3Social Security Amendment Act (No 2) 2015Part 4
+(2) The transitional and savings provisions relating to, or to the provisions of, the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 32 specified in the second column of that table:The following table has 2 columns. Column 1 is headed Amendment Act or provisions of it. Column 2 is headed Schedule 32 Part.Amendment Act or provisions of itSchedule 32 PartSocial Security Amendment Act 2001Part 1Social Security (Benefit Categories and Work Focus) Amendment Act 2013Part 2Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014Part 3Social Security Amendment Act (No 2) 2015Part 4Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016Part 5
 
 ### 4 Social Security Department
 [Repealed]
@@ -415,7 +419,7 @@ Every person exercising or performing a function, duty or power under this Act m
 **Reviews by benefits review committee**
 
 ### 10A Review of decisions of chief executive made under delegation by other decision makers
-(1) This section applies to a person and a decision both of which are specified in any 1 of the rows of the following table, but only if the decision is made by a decision maker in the exercise of any power, function, or discretion conferred on the decision maker by delegation:The following table has 3 columns. Column 1 is headed Row, column 2 is headed Person, and column 3 is headed Decision.RowPersonDecision1An applicant or beneficiary affected by the decision (with beneficiary and affected having, in this row, the same meanings as in section 12J(1) read in the light of section 12J(4) and (5))A decision of the chief executive made under any enactment referred to in any of the paragraphs of section 12J(1) (but not being a decision referred to in section 12J(2) or (3))2An applicant or beneficiary or other personA decision of the chief executive made—3A beneficiary's spouse or partnerA decision of the chief executive made—4The personal representative of a deceased beneficiaryA decision of the chief executive made—5The personal representative of a beneficiary's deceased spouse or partnerA decision of the chief executive made—6A beneficiary's spouse or partnerA decision of the chief executive made—
+(1) This section applies to a person and a decision both of which are specified in any 1 of the rows of the following table, but only if the decision is made by a decision maker in the exercise of any power, function, or discretion conferred on the decision maker by delegation:The following table has 3 columns. Column 1 is headed Row. Column 2 is headed Person. Column 3 is headed Decision.RowPersonDecision1An applicant or a beneficiaryA decision of the chief executive made in relation to the applicant or beneficiary under any enactment referred to in any of the paragraphs of section 12J(1) (other than a decision referred to in section 12J(2) or (3))2An applicant or beneficiary or other personA decision of the chief executive made—3A beneficiary's spouse or partnerA decision of the chief executive made—4The personal representative of a deceased beneficiaryA decision of the chief executive made—5The personal representative of a beneficiary's deceased spouse or partnerA decision of the chief executive made—6A beneficiary's spouse or partnerA decision of the chief executive made—
   (a) in relation to the applicant or beneficiary or other person; and
   (b) using a power under section 19D(1)﻿(a) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 (referred to in section 12J(7))
   (a) in relation to the beneficiary's spouse or partner; and
@@ -453,7 +457,7 @@ Every person exercising or performing a function, duty or power under this Act m
 **Appeals to medical board**
 
 ### 10B Right of appeal on medical grounds
-(1) Any applicant or beneficiary affected may appeal to the Board against a decision of the chief executive that is—
+(1) Any applicant or beneficiary affected may appeal to the Board against a decision of the chief executive made in relation to the applicant or beneficiary that is—
   (a) a decision that a claim for a child disability allowance is declined, or that any such allowance is cancelled, in either case on the ground that the child is not a child with a serious disability (within the meaning of section 39A(1) and (2)); or
   (b) a decision that a claim for a supported living payment on the ground of sickness, injury, disability, or total blindness is declined, or that any such benefit is cancelled, in either case on medical grounds; or
   (c) a decision under section 60Q(1)﻿(bb) that a person in receipt of a supported living payment on the ground of sickness, injury, disability, or total blindness has the capacity to comply with obligations under section 60Q(3); or
@@ -718,7 +722,7 @@ The Authority shall have a seal, which shall be judicially noticed by all courts
 
 ### 12J Rights of appeal
 Decisions or determinations under specified social assistance enactments
-(1) Any applicant or beneficiary affected may appeal to the Appeal Authority against any decision or determination of the chief executive under—
+(1) An applicant or beneficiary may appeal to the Appeal Authority against any decision or determination of the chief executive made in relation to the applicant or beneficiary under—
   (a) any of the provisions of Parts 1A to 1P, Part 2, Part 4, or Part 5; or
   (b) a welfare programme approved by the Minister under section 124(1)﻿(d); or
   (c)
@@ -729,10 +733,12 @@ Decisions or determinations under specified social assistance enactments
 (2) No appeal lies under subsection (1)﻿(a) against a decision under section 88I(2) or (7) against which an appeal lies under section 10B(1)﻿(h) or (i) to the medical board.
 (3) No appeal lies under subsection (1)﻿(a) against a decision under section 116C(2)﻿(a) against which an appeal lies under section 10B(1)﻿(k) to the medical board.
 (4) Subsection (1) applies to a person in respect of whom a decision or determination is made under Part 4 or under regulations made under section 155 as if the person were a beneficiary.
-(5) For the purposes of subsection (1), an applicant or beneficiary is not affected by a decision or determination that relates only to all or any of the temporary deferral, rate, or method or methods, of debt recovery from another person.
-(6) A decision referred to in subsection (1), and that is a decision by the chief executive that section 83AA applies to a beneficiary in respect of a benefit apportioned under section 83(1) or (2), includes, without limitation, any component decisions that 1 or both of the following apply to some or all of the proportion of the benefit paid to the beneficiary's spouse or partner:
-  (a) it is an amount in excess of the amount to which the spouse or partner is by law entitled or to which the spouse or partner has no entitlement; and
-  (b) it is an amount obtained by fraud by the spouse or partner.
+(5) For the purposes of subsection (1), a decision or determination is not made in relation to an applicant or a beneficiary by reason only that the decision or determination has an economic or other effect on the applicant or beneficiary.
+(6) A beneficiary’s spouse or partner—
+  (a) may appeal to the Appeal Authority against a decision by the chief executive that section 83AA applies to the beneficiary in respect of a benefit apportioned under section 83(1) or (2) or against any component decision that some or all of the benefit paid to the spouse or partner—
+    (i) is an amount in excess of the amount to which the spouse or partner is by law entitled or is an amount to which the spouse or partner has no entitlement; or
+    (ii) is an amount obtained by fraud by the spouse or partner; but
+  (b) may not appeal against a decision or determination of the chief executive that relates only to the temporary deferral, rate, or method or methods of debt recovery from the beneficiary.
 Decisions under mutual assistance provisions in reciprocity agreements
 (7) An applicant or beneficiary or other person may appeal to the Appeal Authority against a decision that was made in relation to that person by the chief executive under the power conferred by section 19D(1)﻿(a) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
 Decisions under section 86(3) to recover excess amount from spouse or partner
@@ -841,7 +847,7 @@ On the determination of any appeal, the Secretary shall send to the chief execut
 Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a determination of the High Court on an appeal under section 12Q as if the determination had been made under section 300 of that Act.
 
 ### 12S Appeals to Supreme Court
-(1) Any person affected by a determination of the High Court made under section 12Q, or a determination of the Court of Appeal made under section 12R, may apply, in accordance with the Supreme Court Act 2003, to the Supreme Court for leave to appeal against the determination.
+(1) Any party to a proceeding under section 12Q or 12R in which a determination of the High Court or the Court of Appeal has been made may apply, in accordance with the Supreme Court Act 2003, to the Supreme Court for leave to appeal against the determination.
 (2) Subsection (1) is by way of explanation only.
 
 ### 13 National superannuation
@@ -2849,6 +2855,10 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
     (b) with or without the consent of the beneficiary—
       (i) to any person in payment of the beneficiary's lawful debts or other liabilities:
       (ii) to, or for the benefit of, the spouse or partner of the beneficiary or any dependent child or children of the beneficiary.
+(3A) If any instalment of a benefit is payable after the beneficiary’s death, that instalment may be paid,—
+  (a) on application by the surviving spouse or partner of the beneficiary, to that spouse or partner; or
+  (b) if the beneficiary has no surviving spouse or partner but has a surviving dependent child, on application by the person who has the care of the child, to that person (or to another person appointed by the chief executive for the purpose) for the benefit of that child and any other surviving dependent children of the beneficiary; or
+  (c) in any other case, in the manner in which that instalment would have been paid if the beneficiary had not died.
 (4) Except as otherwise provided in this Act, every instalment of benefit shall be paid in a manner and at the place determined by the chief executive from time to time, and no appeal under this Act shall lie against that determination.
 (5) If any instalment of any benefit, or any part of any instalment, is not collected within such time as the chief executive may specify, the authority to collect such instalment, or part, shall lapse and the amount of benefit so unpaid shall be forfeited unless the chief executive is satisfied in any particular case that there was good cause for not collecting that instalment or that part of the instalment.
 (6) If the chief executive is satisfied that an advance payment of a benefit would best meet the immediate needs of a beneficiary, the chief executive may, in the chief executive's discretion, on application by the beneficiary, make payment in advance of any number of instalments of the benefit, or part of it, not yet due, and the amount so paid in advance is a debt due to the Crown under section 85A(c), and subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A), from the beneficiary.
@@ -3849,45 +3859,23 @@ Without limiting the general power to make regulations conferred by section 132,
 
 **Young persons services**
 
-### 123E Services to encourage young persons to move to education, training, and employment
+### 123E Services to encourage young persons to move into or remain in education, training, and employment
 The chief executive may do either or both of the following things:
-  (a) provide services to encourage and help young persons to move into education, training, and employment rather than to receiving financial support under this Act:
+  (a) provide services to encourage and help young persons to move into or remain in education, training, and employment rather than to receiving financial support under this Act:
   (b) enter (under section 125A) into contracts with service providers to provide services of that kind on the chief executive's behalf.
 
 ### 123F Chief executive may enter into information-sharing agreement with chief executive of Ministry of Education
-(1) The chief executive may enter into an agreement with the chief executive of the Ministry of Education relating to the sharing, for the purposes of facilitating the provision of services of a kind described in section 123E(a), of information about young persons who have ceased to be enrolled at a registered school (as defined in section 2 of the Education Act 1989) or a tertiary education organisation (being an organisation as defined in section 159B(1) of that Act).
+(1) The chief executive may enter into an agreement with the chief executive of the Ministry of Education under Part 9A of the Privacy Act 1993 relating to the sharing, for the purposes of facilitating the provision of services of a kind described in section 123E(a), of information about young persons who have ceased to be enrolled at a registered school (as defined in section 2 of the Education Act 1989) or a tertiary education organisation (being an organisation as defined in section 159B(1) of that Act).
 (2) While the agreement is in force, the chief executive of the Ministry of Education—
   (a) may provide to the chief executive any information to which subsection (1) applies that the former considers may facilitate the provision by the latter of services of a kind described in section 123E(a); and
   (b) may use national student numbers for the purpose of gathering the information.
 (3) Subsection (2) overrides section 344(2) of the Education Act 1989.
 
 ### 123G Consultation on proposed agreement
-(1) Before entering into an agreement under section 123F(1), the parties must—
-  (a) consult on the proposed agreement, and invite submissions on it from,—
-    (i) the Privacy Commissioner; and
-    (ii) any person or organisation that they consider represents the interests of the kinds of people whose personal information will be shared under the proposed agreement; and
-    (iii) any other person or organisation that the parties consider should be consulted; and
-  (b) consider all submissions received within a reasonable time of being invited.
-(2) The Privacy Commissioner—
-  (a) must consider the privacy implications of the proposed agreement; and
-  (b) may make any submissions under subsection (1)﻿(a)﻿(i) that he or she thinks fit.
+[Repealed]
 
 ### 123H Agreements to be reviewed after 3 years
-(1) Promptly after an agreement under section 123F(1) has been in effect for 3 years, the chief executive must conduct a review of its operation.
-(2) In conducting the review, the chief executive must consult—
-  (a) the chief executive of the Ministry of Education (as the other party to the agreement); and
-  (b) the Privacy Commissioner; and
-  (c) any organisation or other person that he or she considers to represent the interests of the kinds of people whose personal information may be shared under the agreement.
-(3) In conducting the review, the chief executive must consider—
-  (a) whether (and if so, to what extent) the agreement is operating—
-    (i) in a way that is unusual; or
-    (ii) otherwise than was expected by the parties when they entered into it; or
-    (iii) otherwise than was expected by the Privacy Commissioner when he or she was consulted on it under section 123G(1)﻿(a)﻿(i); and
-  (b) the extent to which the agreement is facilitating the provision of services of a kind described in section 123E(a); and
-  (c) the extent to which the agreement is impinging on the privacy of individuals; and
-  (d) whether (and if so, to what extent) the benefits of sharing information under the agreement justify the costs of sharing it; and
-  (e) all submissions made in the course of the consultation required by subsection (2).
-(4) After conducting the review, the chief executive must report to the Minister on its findings, and make to the Minister any recommendations arising from them that the chief executive considers appropriate.
+[Repealed]
 
 **Welfare programmes and other money payable**
 
@@ -3962,12 +3950,12 @@ The chief executive may do either or both of the following things:
 **Contracts with administration service providers**
 
 ### 125A Chief executive may contract with service providers
-(1) The chief executive may from time to time, on behalf of the Crown, enter into a contract with any person, body, or organisation (a contracted service provider) for the provision by the contracted service provider of services—
-  (a) that, in relation to young persons, are—
-    (i) services of the kind referred to in section 123E(a); or
-    (ii) services in relation to Part 5; and
-  (ab) that, in relation to persons other than young persons, are services in relation to all or any of Parts 1 to 1P and 2; and
-  (b) that are services of a kind or description stated for the purposes of this section by regulations under this Act.
+(1) The chief executive may from time to time, on behalf of the Crown, enter into a contract with any person, body, or organisation (a contracted service provider) for the provision by the contracted service provider of all or any of the following:
+  (a) services of a kind or description specified for the purposes of this paragraph by regulations under this Act and that are—
+    (i) services of a kind referred to in section 123E(a) (services to encourage and help young persons to move into or remain in education, training, and employment); or
+    (ii) services in relation to Part 5 (financial support for young people):
+  (ab)
+  (b) services in relation to all or any of Parts 1 to 1P and 2 (which may be, but need not be, services of a kind or description specified for the purposes of this paragraph by regulations under this Act).
 (2) The chief executive must not enter into a contract with a person, body, or organisation for the provision of services of a kind stated in subsection (1) unless the chief executive is satisfied that it—
   (a) is suitable to provide the services specified in the contract; and
   (b) is suitable to work with persons to whom the services relate in providing those services; and
@@ -3994,7 +3982,7 @@ The chief executive may do either or both of the following things:
 (3) For the purposes of this section, regulations under this Act may state—
   (a) the circumstances in which a contracted service provider and its employees may release or disclose to the chief executive and employees of the department information to which this section applies held by the contracted service provider and the conditions with which the chief executive and employees of the department must comply in dealing with the information; or
   (b) the circumstances in which the chief executive and employees of the department may release or disclose to a contracted service provider and its employees information to which this section applies held by the department and the conditions with which the contracted service provider and its employees must comply in dealing with the information.
-(4) Regulations of the kind referred to in subsection (3) must not be made except on the recommendation of the Minister; and the Minister must not recommend the making of the regulations unless satisfied that the chief executive has consulted on the proposed regulations in the manner required by section 123G for an agreement under section 123F(1).
+(4) Regulations of the kind referred to in subsection (3) must not be made except on the recommendation of the Minister; and the Minister must not recommend the making of the regulations unless satisfied that the chief executive has consulted on the proposed regulations in the manner required by section 96O of the Privacy Act 1993 for an agreement under section 123F(1).
 (5) If satisfied on reasonable grounds that its disclosure is in accordance with regulations of the kind referred to in subsection (3), the chief executive, an employee of the department, a contracted service provider, or an employee of a contracted service provider may release or disclose information to which this section applies.
 (6) Nothing in this section requires the chief executive, employees of the department, a contracted service provider, or employees of a contracted service provider to release or disclose any information.
 (7) In this section,—
@@ -4017,7 +4005,7 @@ The chief executive may do either or both of the following things:
   (b) is subject to obligations under section 171; or
   (c) has left or finished education, and is not or may not be in employment or training; or
   (d) has left or finished training, and is not or may not be in employment.
-(5) An order of the kind referred to in subsection (2) or (3) must not be made except on the recommendation of the Minister; and the Minister must not recommend the making of the order unless satisfied that the chief executive has consulted on the proposed order in the manner required by section 123G for an agreement under section 123F(1).
+(5) An order of the kind referred to in subsection (2) or (3) must not be made except on the recommendation of the Minister; and the Minister must not recommend the making of the order unless satisfied that the chief executive has consulted on the proposed order in the manner required by section 96O of the Privacy Act 1993 for an agreement under section 123F(1).
 (6) Orders under subsection (2) or (3) may specify particular agencies, or agencies of any specified class or description.
 (7) In this section, agency has the meaning given to it by section 2(1) of the Privacy Act 1993.
 
@@ -4029,13 +4017,14 @@ The chief executive must ensure that there are published, no later than 1 Octobe
   (a) a general description of the services provided by contracted service providers during the year ending on 30 June in that year, and of the contracted service providers; and
   (b) details of the providers concerned.
 
-### 125G Actions of contracted service providers to be treated for certain purposes as if actions of department
+### 125G Actions of contracted service providers in relation to young persons to be treated for certain purposes as if actions of department
 (1) For the purposes of section 80AA, any action or inaction of a contracted service provider must be treated as an action or inaction of an officer of the department.
 (2) For the purposes of section 80A, a contracted service provider must be treated as an officer of the department.
 (3) For the purposes of section 86(9A) and (9B), the provision of information by, and any act or omission of, a contracted service provider must be treated as having been done or omitted by an officer of the department.
+(4) In this section, contracted service provider means a contracted service provider assigned to a young person under section 181.
 
 ### 125H Operation of certain provisions to be reviewed after 3 years
-(1) Promptly after the expiration of 3 years after the commencement of section 22 of the Social Security (Youth Support and Work Focus) Amendment Act 2012, the chief executive must conduct a review of the operation of sections 123F, 123G, 125C, and 125D for consistency with the general legislation then in force relating to the privacy of personal information.
+(1) Promptly after the expiration of 3 years after the commencement of section 22 of the Social Security (Youth Support and Work Focus) Amendment Act 2012, the chief executive must conduct a review of the operation of sections 123F, 125C, and 125D for consistency with the general legislation then in force relating to the privacy of personal information.
 (2) In conducting the review, the chief executive must consult—
   (a) the Privacy Commissioner; and
   (b) any organisation or other person that he or she considers to represent the interests of the kinds of people whose personal information may be disclosed under any of those provisions.
@@ -4692,7 +4681,6 @@ In this Part and in Schedule 26,—
   - **approved training** means an employment-related training course approved by the chief executive
   - **full-time course** has the same meaning as in regulation 2(1) of the Student Allowances Regulations 1998
   - **in-hand allowance** means the component of a youth support payment set out in clause 6 of Schedule 26 under that name
-  - **NCEA level 2** means a level 2 National Certificate of Educational Achievement issued by the New Zealand Qualifications Authority established under Part 20 of the Education Act 1989
   - **parents** , in relation to a young person,—
     (a) means the parents or guardians or other person who had the care of the young person most recently before the young person turned 16 years; and
     (b) includes any other parent, or guardian or former guardian, willing to have financial responsibility for the young person; but
@@ -4702,15 +4690,12 @@ In this Part and in Schedule 26,—
   - **service costs** has the same meaning as in section 61E(1)
   - **specified beneficiary** means a person who is married, in a civil union, or in a de facto relationship and receives in his or her own right—
     (a)
-    (b) an emergency benefit, supported living payment, or jobseeker support; or
+    (b) an emergency benefit, supported living payment under section 40B, or jobseeker support; or
     (c) New Zealand superannuation paid at a rate specified in clause 2 of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001; or
     (d) a veteran’s pension at the relationship (partner not receiving superannuation or pension) rate or the relationship (partner not receiving superannuation or pension) legacy rate (as defined in section 158 of the Veterans' Support Act 2014)
   - **teen parent unit** means an educational facility for teenage parents attached to a State school (within the meaning of the Education Act 1989)
   - **WFF tax credit** has the same meaning as in section YA 1 of the Income Tax Act 2007
-  - **work-based learning** , in relation to any person, means a course or programme undertaken (or to be undertaken) in the course of or by virtue of his or her employment that comprises, or includes a component of, practical or on-the-job vocational learning (for example, an industry training programme or apprenticeship)
-  - **young person** ,—
-    (a) except in section 123E, means a person aged at least 16 years but under the age of 20 years; and
-    (b) in section 123E, means a person aged at least 15 years but under the age of 18 years.
+  - **work-based learning** , in relation to any person, means a course or programme undertaken (or to be undertaken) in the course of or by virtue of his or her employment that comprises, or includes a component of, practical or on-the-job vocational learning (for example, an industry training programme or apprenticeship).
 
 **Youth payment**
 
@@ -4767,6 +4752,7 @@ The chief executive may grant a youth payment under section 159 or 160 to a youn
       (B) the close of the day the course ends.
 (2) While a youth payment continues by virtue of subsection (1)﻿(a), the young person concerned is not eligible to be granted any of the following benefits:
   (a) sole parent support:
+  (ab) a supported living payment on the ground of caring for a patient requiring care, under section 40D:
   (b)
   (c)
   (d) an emergency benefit:
@@ -4834,6 +4820,7 @@ The chief executive may grant a young parent payment under section 165 or 166 to
       (B) the close of the day the course ends.
 (2) While a young parent payment continues by virtue of subsection (1)﻿(a), the young person concerned is not eligible to be granted the following benefits:
   (a) sole parent support:
+  (ab) a supported living payment on the ground of caring for a patient requiring care, under section 40D:
   (b)
   (c)
   (d) an emergency benefit:
@@ -4856,10 +4843,13 @@ The chief executive may grant a young parent payment under section 165 or 166 to
   (c) in the case only of a young person receiving a young parent payment, when required by the chief executive, to participate to the satisfaction of the chief executive in a parenting education programme approved by the chief executive for the purpose:
   (d) when required by the chief executive, to attend and participate in any interview with an officer of the department or other person on behalf of the chief executive:
   (e) if a contracted service provider assigned to the young person by the chief executive has so required, to attend and participate in any interview with that provider:
+  (ea) to give to the department or to a contracted service provider assigned to the young person (within 20 working days starting on the day after the date on which the chief executive informs the young person of the requirement) the following information:
+    (i) details of the young person’s accommodation costs and service costs and other lawful debts and liabilities; and
+    (ii) any other information reasonably required by the chief executive to effect money management under section 179:
   (f) to report to the department, or to any contracted service provider assigned to the young person by the chief executive, on his or her compliance with the obligations in paragraphs (a) to (c) and subsection (2) as often as, and in the manner that, the chief executive (or, as the case requires, the provider) reasonably requires:
   (g) to co-operate with the chief executive, or with any contracted service provider assigned to the young person by the chief executive, in managing the spending of the young person’s youth payment or young parent payment, and (in particular)—
     (i) attend and participate in regular discussions on budgeting with an officer of the department (or, as the case requires, the provider); and
-    (ii) at any discussion or when otherwise required, provide information on—
+    (ii) at any discussion or when otherwise required, provide details of—
       (A) the young person’s accommodation costs and service costs and other lawful debts and liabilities for the purpose of section 179(4); and
       (B) how the young person has spent the amount of the payment paid to him or her and how the young person has spent any money credited to a payment card, voucher, or device in accordance with regulations under this Act.
 (2) A young person receiving a young parent payment is also subject to the following obligations:
@@ -4979,7 +4969,7 @@ The chief executive must take reasonable and appropriate steps to make every you
     (ii) any WFF tax credit payable to a young person by the chief executive:
     (iii) the amount of any child disability allowance or disability allowance to which a young person is entitled:
     (iv) any other benefit or payment under this Act to which a young person is entitled specified for the purposes of this paragraph by the regulations; but
-  (b) if no manner is for the time being stated for a benefit or payment of a kind referred to in paragraph (a)﻿(i) to (iv), it must be paid to or on account of the young person entitled to it in accordance with section 82(3).
+  (b)
 (5) A manner stated under subsection (4) may include crediting an amount to a payment card, voucher, or device, that enables a young person to obtain goods or services from a particular supplier and enables the supplier to obtain payment from the department for the goods or services.
 (6) Subsection (5) does not limit the generality of subsection (4).
 (7) If the chief executive considers that the young person has met the criteria stated for the purposes of this section in regulations under this Act for managing his or her own payments, the chief executive may pay the whole or any part of the payments referred to in subsection (4)﻿(a) to or on account of the young person personally until a sanction is imposed on the young person under section 173 or 174.
@@ -4987,6 +4977,13 @@ The chief executive must take reasonable and appropriate steps to make every you
 (9) This section overrides section 82(1) to (3).
 (10) Subsection (4) overrides section 80KS of the Tax Administration Act 1994.
 (11) Section 84(1) is subject to regulations under this Act made for the purposes of subsection (4).
+(12) Subsection (13) applies to a young person if—
+  (a) the young person ceases to be subject to money management under this section; and
+  (b) the young person has a payment card, voucher, or device to which an amount or amounts payable to the young person have been credited for the purchase of goods or services; and
+  (c) the amount on the card, voucher, or device has not been fully spent.
+(13) On application by a young person to whom this subsection applies, the chief executive may—
+  (a) cancel the young person’s payment card, voucher, or device; and
+  (b) pay the amount standing to the credit of the young person on the payment card, voucher, or device (after the deduction of any debt recoverable from the young person) to the young person in accordance with section 82(3).
 
 ### 180 Young person beneficiaries may elect money management
 (1) To the extent that regulations under this Act made for the purposes of this section allow (and subject to any conditions prescribed by the regulations), a young person to whom section 171 applies may elect to have any or all of the amounts stated in subsection (2) that are payable to him or her paid in accordance with section 179(4); and that subsection applies accordingly with any necessary modifications.
@@ -5124,9 +5121,9 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
 
 ### 1
 For the purposes of this schedule—
-- **Area 1** means the following parts of New Zealand (as from time to time defined by the Government Statistician):The following table has 1 column.Central Auckland urban zoneNorthern Auckland urban zone
-- **Area 2** means the following parts of New Zealand (as from time to time defined by the Government Statistician):The following table has 1 column.Algies Bay–Mahurangi area unitArrowtown urban areaAwhitu area unitBombay area unitBrightwater urban areaCape Rodney area unitClevedon area unitGlenbrook area unitGreat Barrier Island area unitHelensville urban areaHunua area unitIslands–Motutapu, Rangitoto, Rakino area unitKarekare area unitKaukapakapa area unitKawau area unitKingseat area unitLeigh area unitLittle Barrier Island area unitMangatawhiri area unitMaramarua area unitMatheson Bay area unitMeremere area unitMuriwai Beach area unitNelson urban areaOnewhero area unitOtaua area unitParakai area unitPatumahoe area unitPokeno area unitPukekohe urban areaQueenstown urban areaRewiti area unitRiverhead area unitSnells Beach urban areaSouth Head area unitSouthern Auckland urban zoneTahekeroa area unitTauhoa–Puhoi area unitTauranga urban areaWaiheke Island urban areaWaiuku urban areaWakefield urban areaWanaka urban areaWarkworth urban areaWellington urban zoneWellsford urban areaWestern Auckland urban zone
-- **Area 3** means the following parts of New Zealand (as from time to time defined by the Government Statistician):The following table has 1 column.Alexandra urban areaBlenheim urban areaCambridge urban zoneChristchurch urban areaCloustonville area unitCromwell urban areaDarfield urban areaDunedin urban areaFeilding urban areaHamilton urban zoneHanmer Springs urban areaHastings urban zoneKaitaia urban areaKapiti Island area unitKapiti urban areaKatikati Community urban areaKerikeri urban areaLeeston urban areaLincoln urban areaLower Hutt urban zoneMakara–Ohariu area unitMana Island area unitMangaroa area unitMatamata urban areaMaungakotukutuku area unitMotueka urban areaNabhra area unitNapier urban zoneNew Plymouth urban areaOpiki area unitOtaki urban areaPaekakariki Hill area unitPaihia urban areaPalmerston North urban areaPencarrow area unitPorirua urban zoneRaglan urban areaRangiora urban areaRolleston urban areaRotorua urban areaRussell urban areaTaipa Bay–Mangonui urban areaTairua urban areaTakaka urban areaTaupo urban areaTe Awamutu urban zoneTe Puke Community urban areaThames urban areaTokomaru area unitUpper Hutt urban zoneWaihi Beach urban areaWhakatane urban areaWhangamata urban areaWhangarei urban areaWhitianga urban areaWoodend urban area
+- **Area 1** means the following parts of New Zealand (as from time to time defined by the Government Statistician): Central Auckland urban zoneNorthern Auckland urban zone
+- **Area 2** means the following parts of New Zealand (as from time to time defined by the Government Statistician): Algies Bay–Mahurangi area unitArrowtown urban areaAwhitu area unitBombay area unitBrightwater urban areaCape Rodney area unitClevedon area unitGlenbrook area unitGreat Barrier Island area unitHelensville urban areaHunua area unitIslands–Motutapu, Rangitoto, Rakino area unitKarekare area unitKaukapakapa area unitKawau area unitKingseat area unitLeigh area unitLittle Barrier Island area unitMangatawhiri area unitMaramarua area unitMatheson Bay area unitMeremere area unitMuriwai Beach area unitNelson urban areaOnewhero area unitOtaua area unitParakai area unitPatumahoe area unitPokeno area unitPukekohe urban areaQueenstown urban areaRewiti area unitRiverhead area unitSnells Beach urban areaSouth Head area unitSouthern Auckland urban zoneTahekeroa area unitTauhoa–Puhoi area unitTauranga urban areaWaiheke Island urban areaWaiuku urban areaWakefield urban areaWanaka urban areaWarkworth urban areaWellington urban zoneWellsford urban areaWestern Auckland urban zone
+- **Area 3** means the following parts of New Zealand (as from time to time defined by the Government Statistician):The following table has 1 column. Alexandra urban areaBlenheim urban areaCambridge urban zoneChristchurch urban areaCloustonville area unitCromwell urban areaDarfield urban areaDunedin urban areaFeilding urban areaHamilton urban zoneHanmer Springs urban areaHastings urban zoneKaitaia urban areaKapiti Island area unitKapiti urban areaKatikati Community urban areaKerikeri urban areaLeeston urban areaLincoln urban areaLower Hutt urban zoneMakara–Ohariu area unitMana Island area unitMangaroa area unitMatamata urban areaMaungakotukutuku area unitMotueka urban areaNabhra area unitNapier urban zoneNew Plymouth urban areaOpiki area unitOtaki urban areaPaekakariki Hill area unitPaihia urban areaPalmerston North urban areaPencarrow area unitPorirua urban zoneRaglan urban areaRangiora urban areaRolleston urban areaRotorua urban areaRussell urban areaTaipa Bay–Mangonui urban areaTairua urban areaTakaka urban areaTaupo urban areaTe Awamutu urban zoneTe Puke Community urban areaThames urban areaTokomaru area unitUpper Hutt urban zoneWaihi Beach urban areaWhakatane urban areaWhangamata urban areaWhangarei urban areaWhitianga urban areaWoodend urban area
 - **Area 4** means any part of New Zealand not included in Area 1, Area 2, or Area 3
 - **base rate** means, subject to clause 4A,—
   (a) in relation to a single beneficiary under the age of 25 years, the maximum weekly rate of a main benefit under this Act he or she would have been entitled to receive, before any abatement or deduction, if he or she had attained the age of 25 years:
@@ -5380,7 +5377,7 @@ The chief executive must convert an assessment made under clauses 3 to 5 to a we
 | 13 | For a sole parent with 1 dependent child | $723.49 |
 | 14 | For any other sole parent | $762.26 |
 
-## Schedule 32 — Transitional and savings provisions related to amendments to this Act
+## Schedule 32 — Validation, transitional, and savings provisions related to amendments to this Act
 
 ### Part 1 — Social Security Amendment Act 2001
 
@@ -5668,7 +5665,7 @@ Nothing in section 74AA(1)﻿(c) (as replaced on 15 July 2013) applies on or aft
   (a) in force on or after 15 July 2013; and
   (b) not an enactment that is the whole of, or a portion of, or made under, the Social Security Act 1964; and
   (c) not amended by the Social Security (Benefit Categories and Work Focus) Amendment Act 2013.
-(2) A reference in column 1 of a row of the following table to a former benefit or amount under this Act must, unless the context otherwise requires, be read as a reference to the new benefit or amount in column 2 of that row.The following table has 2 columns. Column 1 is headed Column 1 Former benefit or amount and column 2 is headed Column 2 New benefit or amount.Column 1Former benefit or amountColumn 2New benefit or amountWidow's benefit under, or under section 21 of, this Act, and payable to a person with 1 or more dependent childrenSole parent support under section 20D (if the person has a dependent child aged under 14 years)Widow's benefit under, or under section 21 of, this Act, and payable to a person with no, or with 1 or more, dependent childrenJobseeker support under section 88B (if the person has no dependent child aged under 14 years)Domestic purposes benefit under section 27B, or payable to a person with 1 or more dependent childrenSole parent support under section 20D (if the person has a dependent child aged under 14 years)Domestic purposes benefit under section 27B, or payable to a person with 1 or more dependent childrenJobseeker support under section 88B (if the person has no dependent child aged under 14 years)Domestic purposes benefit under section 27C, or payable to a person, or to a woman alone, with no dependent childrenJobseeker support under section 88BAn amount in Schedule 16 (rates of domestic purposes benefits under section 27B or 27C)The corresponding amount in Schedule 3A (for sole parent support)An amount in Schedule 16 (rates of domestic purposes benefits under section 27B or 27C)The amount in clause 1(ba) of Schedule 9 (for jobseeker support)Domestic purposes benefit under section 27G, or for the care at home of the sick or infirmSupported living payment under section 40D on the ground of caring for a patient requiring careAn amount in Schedule 17 (rates of domestic purposes benefits under section 27G)The appropriate amount in Schedule 6 (rates of supported living payment benefits)Invalid's benefit under, or under section 40 of, this ActSupported living payment under section 40B on the ground of sickness, injury, disability, or total blindnessSickness benefitJobseeker support under section 88BUnemployment benefitJobseeker support under section 88B
+(2) A reference in column 1 of a row of the following table to a former benefit or amount under this Act must, unless the context otherwise requires, be read as a reference to the new benefit or amount in column 2 of that row.The following table has 2 columns. Column 1 is headed Column 1 Former benefit or amount. and cColumn 2 is headed Column 2 New benefit or amount.Column 1Former benefit or amountColumn 2New benefit or amountWidow's benefit under, or under section 21 of, this Act, and payable to a person with 1 or more dependent childrenSole parent support under section 20D (if the person has a dependent child aged under 14 years)Widow's benefit under, or under section 21 of, this Act, and payable to a person with no, or with 1 or more, dependent childrenJobseeker support under section 88B (if the person has no dependent child aged under 14 years)Domestic purposes benefit under section 27B, or payable to a person with 1 or more dependent childrenSole parent support under section 20D (if the person has a dependent child aged under 14 years)Domestic purposes benefit under section 27B, or payable to a person with 1 or more dependent childrenJobseeker support under section 88B (if the person has no dependent child aged under 14 years)Domestic purposes benefit under section 27C, or payable to a person, or to a woman alone, with no dependent childrenJobseeker support under section 88BAn amount in Schedule 16 (rates of domestic purposes benefits under section 27B or 27C)The corresponding amount in Schedule 3A (for sole parent support)An amount in Schedule 16 (rates of domestic purposes benefits under section 27B or 27C)The amount in clause 1(ba) of Schedule 9 (for jobseeker support)Domestic purposes benefit under section 27G, or for the care at home of the sick or infirmSupported living payment under section 40D on the ground of caring for a patient requiring careAn amount in Schedule 17 (rates of domestic purposes benefits under section 27G)The appropriate amount in Schedule 6 (rates of supported living payment benefits)Invalid's benefit under, or under section 40 of, this ActSupported living payment under section 40B on the ground of sickness, injury, disability, or total blindnessSickness benefitJobseeker support under section 88BUnemployment benefitJobseeker support under section 88B
 
 ### 17 Regulations for transitional and savings purposes
 (1) The Governor-General may, by Order in Council made on the Minister's recommendation, make regulations prescribing transitional provisions, savings provisions, or both, for either or both of the following purposes:
@@ -5721,6 +5718,20 @@ Nothing in section 74AA(1)﻿(c) (as replaced on 15 July 2013) applies on or aft
   (d) in accordance with any other requirements set out in the regulations made under subclause (3).
 (3) The Governor-General may from time to time, by Order in Council, make regulations for the purposes of this clause.
 (4) Regulations made under subclause (3) must state the date on and after which they are to have effect (which may be a date earlier than the date on which they were made).
+
+### Part 5 — Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016
+
+### 22 Validation of certain payments made after death of beneficiary
+(1) In this clause, commencement date means the date on which section 13 of the Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016 comes into force.
+(2) Any of the following payments of a benefit after the beneficiary’s death, made on or after 28 September 1982 and before the commencement date, were validly made:
+  (a) a payment to the estate of the deceased beneficiary:
+  (b) a payment to the surviving spouse or partner of the deceased beneficiary (whether or not the spouse or partner applied for payment):
+  (c) a payment to or for the benefit of a surviving child of the deceased beneficiary (whether or not an application for payment was made by or on behalf of that child or the child’s principal caregiver).
+
+### 23 Validation of other payments
+(1) In this clause, commencement date means the date on which section 35 of the Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016 comes into force.
+(2) This clause applies to any payment before the commencement date of an amount standing to the credit of a young person on a payment card, voucher, or device in the circumstances and manner described in section 179(12) and (13).
+(3) The payment must be taken to be, and to always have been, valid and authorised as if section 179(12) and (13) were in force when the payment was made.
 
 ### 1 Short Title
 This Act may be cited as the Social Security Amendment Act 1972, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
