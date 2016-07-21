@@ -1,5 +1,5 @@
 # Visiting Forces Act 2004
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2016-07-21_
 
 ### 1 Title
 This Act is the Visiting Forces Act 2004.
@@ -84,7 +84,7 @@ The service authorities of a visiting force may, within New Zealand, exercise an
   (a) arrest, identify, detain, or search a member of the visiting force, a, member of its civilian component, or a dependant; or
   (b) enter and search any ship, aircraft, vehicle, or premises belonging to or occupied by the visiting force or a person referred to in paragraph (a); or
   (c) seize or take possession of any property, article, or thing found on or in the possession of any person referred to in paragraph (a) or in or on any ship, aircraft, vehicle, or premises referred to in paragraph (b).
-(5) Section 99 of the Armed Forces Discipline Act 1971, with the necessary modifications, applies to property, articles, and things referred to in subsection (4)(c) that—
+(5) Section 99 of the Armed Forces Discipline Act 1971, with the necessary modifications, applies to property, articles, and things referred to in subsection (4)﻿(c) that—
   (a) are seized or taken into possession by the service authorities of a visiting force; and
   (b) belong to any person other than a member of the visiting force, a member of its civilian component, or a dependant.
 (6) This section is subject to section 9.
@@ -93,8 +93,8 @@ The service authorities of a visiting force may, within New Zealand, exercise an
 (1) The service authorities of a visiting force must not —
   (a) impose, or carry out, a sentence of death in New Zealand; or
   (b) do any act in New Zealand that would, if done by a member of the Armed Forces of New Zealand, constitute an offence against the Crimes of Torture Act 1989.
-(2) The service authorities of a visiting force must not exercise a power referred to in section 8(4)(b) if the ship, aircraft, vehicle, or premises are also occupied by a person who is in New Zealand other than as a member of a visiting force, a member of its civilian component, or a dependant.
-(3) The service authorities of a visiting force must not exercise a power referred to in section 8(4)(c) if the property, article, or thing is also in the possession of a person who is in New Zealand other than as a member of a visiting force, a member of its civilian component, or a dependant.
+(2) The service authorities of a visiting force must not exercise a power referred to in section 8(4)﻿(b) if the ship, aircraft, vehicle, or premises are also occupied by a person who is in New Zealand other than as a member of a visiting force, a member of its civilian component, or a dependant.
+(3) The service authorities of a visiting force must not exercise a power referred to in section 8(4)﻿(c) if the property, article, or thing is also in the possession of a person who is in New Zealand other than as a member of a visiting force, a member of its civilian component, or a dependant.
 (4) If subsection (2) or subsection (3) applies, the service authorities of a visiting force may request the Attorney-General to obtain the issue of a search warrant under section 59(1) of the Mutual Assistance in Criminal Matters Act 1992, and the provisions of that Act, with the necessary modifications, apply in relation to the request.
 
 ### 10 Criminal proceedings in New Zealand against members of visiting forces
@@ -170,7 +170,7 @@ No proceedings in respect of the conditions of service of a member of a visiting
 **Death of members of visiting forces**
 
 ### 19 Inquiries relating to members of visiting forces
-(1) If a death has been reported to a coroner under section 15(2)(a) or section 16(2)(b) of the Coroners Act 2006 and the coroner is satisfied that the person was a member of a visiting force, a member of its civilian component, or a dependant, then, unless the Attorney-General otherwise directs, the following provisions apply:
+(1) If a responsible coroner in relation to a death is satisfied that the dead person was a member of a visiting force, a member of its civilian component, or a dependant, then, unless the Attorney-General otherwise directs, the following provisions apply:
   (a) if the coroner has not opened an inquiry into the death, he or she must not open an inquiry into the death:
   (b) if an inquiry has been opened but is not then completed, the coroner must adjourn the inquiry.
 (2) As soon as practicable after becoming aware of a death to which subsection (1) applies, the Chief of Defence Force must ensure that the Attorney-General is notified of the death.
@@ -178,16 +178,17 @@ No proceedings in respect of the conditions of service of a member of a visiting
   (a) the wishes of the sending State; and
   (b) the terms of any applicable agreement.
 (4) When a direction referred to in subsection (3) takes effect, the following apply:
-  (a) the provisions of the Births, Deaths, Marriages, and Relationships Registration Act 1995, other than section 42(2)(a) (which requires the notification of a Registrar before a body is removed from New Zealand):
+  (a) the provisions of the Births, Deaths, Marriages, and Relationships Registration Act 1995, other than section 42(2)﻿(a) (which requires the notification of a Registrar before a body is removed from New Zealand):
   (b) the provisions of the Coroners Act 2006, except section 25 (which relates to viewing, touching, or remaining with or near the body).
-(5) The Births, Deaths, Marriages, and Relationships Registration Act 1995 applies in relation to a death to which subsection (1) applies only to the extent provided in subsection (4)(a).
-(6) If a death has been reported to a coroner under section 15(2)(a) or section 16(2)(b) of the Coroners Act 2006 and the coroner is informed that a member of a visiting force, a member of its civilian component, or a dependant has been or may be charged with an offence against the service law of the sending State relating to the death or its circumstances, then, unless the Attorney-General otherwise directs, the following provisions apply:
+(5) The Births, Deaths, Marriages, and Relationships Registration Act 1995 applies in relation to a death to which subsection (1) applies only to the extent provided in subsection (4)﻿(a).
+(6) If a responsible coroner in relation to a death is informed that a member of a visiting force, a member of its civilian component, or a dependant has been or may be charged with an offence against the service law of the sending State relating to the death or its circumstances, then, unless the Attorney-General otherwise directs, the following provisions apply:
   (a) if the coroner has not opened an inquiry into the death, he or she must not open an inquiry into the death until the criminal or disciplinary proceedings against the person have been finally concluded:
   (b) if an inquiry has been opened but is not then completed, the coroner must adjourn the inquiry until the criminal or disciplinary proceedings against the person have been finally concluded.
 (7) Subsection (6) does not prevent a coroner from—
   (a) taking evidence of the fact that the person has died, of the person’s identity, and of the place and date of death; or
   (b) providing information to a Registrar for the purpose of registering the death; or
   (c) authorising the release of the body.
+(8) In this section, responsible coroner has the meaning given in section 9 of the Coroners Act 2006.
 
 ### 20 Witnesses at inquest or inquiry
 (1) A member of a visiting force, a member of its civilian component, or a dependant is not a compellable witness for the purposes of an inquest or inquiry opened or proceeded with in accordance with section 19.
