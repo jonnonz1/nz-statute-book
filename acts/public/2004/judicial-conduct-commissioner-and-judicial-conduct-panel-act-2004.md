@@ -1,5 +1,5 @@
 # Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2016-07-21_
 
 ### 1 Title
 This Act is the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004.
@@ -26,7 +26,7 @@ In this Act, unless the context otherwise requires,—
     (b) includes—
       (i) a referral made under section 12(2) by the Attorney-General; and
       (ii) a complaint initiated under section 12(3) by the Commissioner
-  - **coroner** means a person who is not a District Court Judge, but holds office as the chief coroner or acting chief coroner, or as a coroner or relief coroner, under the Coroners Act 2006
+  - **coroner** means a person who is not a District Court Judge, but holds office as the chief coroner, deputy chief coroner, or acting chief coroner, or as a coroner or relief coroner, under the Coroners Act 2006
   - **Deputy Commissioner** means a Deputy Judicial Conduct Commissioner appointed under section 8A
   - **District Court Judge** includes a District Court Judge who—
     (a) holds office as the chief coroner or acting chief coroner, or as a relief coroner, under the Coroners Act 2006, or is (under section 8(d) of the District Courts Act 1947) a coroner by virtue of holding office as a District Court Judge; and
@@ -81,7 +81,7 @@ This Act binds the Crown.
 (1A) In carrying out his or her functions in relation to a complaint, the Commissioner may decide that he or she has a conflict of interest in relation to the complaint.
 (1B) The functions of the Commissioner—
   (a) must not be carried out by the Commissioner if they relate to a complaint in relation to which the Commissioner has decided that he or she has a conflict of interest; and
-  (b) are not carried out by the Commissioner in relation to any complaints in the situations specified in section 8B(1)(b)(i) and (ii).
+  (b) are not carried out by the Commissioner in relation to any complaints in the situations specified in section 8B(1)﻿(b)﻿(i) and (ii).
 (1C) The Commissioner must refer promptly to the Head of Bench a complaint—
   (a) referred to the Commissioner by the Deputy Commissioner under section 8B(4); and
   (b) in relation to which the Commissioner has decided that he or she has a conflict of interest.
@@ -106,8 +106,8 @@ This Act binds the Crown.
 (3) After deciding that he or she has a conflict of interest in relation to a complaint, the Deputy Commissioner must—
   (a) not carry out his or her function in relation to the complaint; and
   (b) promptly refer the complaint to the Head of Bench (unless the Deputy Commissioner refers the complaint to the Commissioner as soon as practicable under subsection (4)).
-(4) The Deputy Commissioner may refer a complaint to the Commissioner as soon as practicable (instead of referring it promptly to the Head of Bench under subsection (3)(b)) if the Deputy Commissioner—
-  (a) is carrying out the Commissioner's functions in relation to the complaint in 1 or more of the situations specified in subsection (1)(b)(i) to (iii); and
+(4) The Deputy Commissioner may refer a complaint to the Commissioner as soon as practicable (instead of referring it promptly to the Head of Bench under subsection (3)﻿(b)) if the Deputy Commissioner—
+  (a) is carrying out the Commissioner's functions in relation to the complaint in 1 or more of the situations specified in subsection (1)﻿(b)﻿(i) to (iii); and
   (b) decides that he or she has, in relation to the complaint, a conflict of interest; but
   (c) believes on reasonable grounds, after consulting the complainant (if any), that the Commissioner is likely to be able to begin to deal with the complaint within a reasonable time.
 (5) The Deputy Commissioner has all the powers necessary for carrying out his or her function.
@@ -144,7 +144,7 @@ Part 1 of Schedule 2 applies in relation to the Commissioner and the Deputy Comm
   (b) identify the Judge who is the subject of the complaint; and
   (c) identify the complainant; and
   (d) state the subject matter of the complaint.
-(2) The Commissioner may require a complainant to complete a statutory declaration setting out the matters in subsection (1)(b) to (d).
+(2) The Commissioner may require a complainant to complete a statutory declaration setting out the matters in subsection (1)﻿(b) to (d).
 (3) The Commissioner must give reasonable assistance to any person who wishes to make a complaint to assist that person to meet the requirements of this section.
 (4) Subsections (1) to (3) do not apply to a complaint initiated by the Commissioner.
 
@@ -182,7 +182,7 @@ Part 1 of Schedule 2 applies in relation to the Commissioner and the Deputy Comm
 (2) Reasons why further consideration of a complaint would, in all the circumstances, be unjustified, may be or include all or any of the following that apply to the complaint:
   (a) that the complaint has been resolved to the complainant’s satisfaction following an explanation from the Judge who is the subject of the complaint:
   (b) that the complaint is genuine and made in good faith, but is based on a misunderstanding:
-  (c) that the complaint is one in respect of which the Commissioner, having started the preliminary examination required by section 15, concludes that there is no reasonable prospect of there being available to him or her information that would enable him or her to form an opinion on the matters specified in section 15(1)(b), (c), and (d).
+  (c) that the complaint is one in respect of which the Commissioner, having started the preliminary examination required by section 15, concludes that there is no reasonable prospect of there being available to him or her information that would enable him or her to form an opinion on the matters specified in section 15(1)﻿(b), (c), and (d).
 (3) The fact that a complaint has been resolved to the complainant’s satisfaction because of an apology by the Judge who is the subject of the complaint is not, by itself, a reason why further consideration of a complaint would, in all the circumstances, be unjustified.
 (4) Subsection (2) does not limit subsection (1).
 (5) If the Commissioner exercises his or her power under this section to take no further action in respect of a complaint, he or she must give the complainant and the Judge who is the subject of the complaint written notification stating—
@@ -200,8 +200,8 @@ Part 1 of Schedule 2 applies in relation to the Commissioner and the Deputy Comm
   (g) the person who is the subject of the complaint is no longer a Judge; or
   (h) the subject matter of the complaint was considered before the commencement of this section by the Head of Bench or the Judicial Complaints Lay Observer; or
   (i) he or she has previously considered the subject matter of the complaint, and the complaint fails to raise any issue of significance that he or she has not previously considered.
-(1A) The Commissioner has previously considered the subject matter of the complaint for the purposes of subsection (1)(i) if he or she has exercised his or her power under section 15A to take no further action in respect of the complaint.
-(1B) Subsection (1A) does not limit subsection (1)(i).
+(1A) The Commissioner has previously considered the subject matter of the complaint for the purposes of subsection (1)﻿(i) if he or she has exercised his or her power under section 15A to take no further action in respect of the complaint.
+(1B) Subsection (1A) does not limit subsection (1)﻿(i).
 (2) If the Commissioner dismisses a complaint under this section, he or she must give the complainant and the Judge who is the subject of the complaint written notification stating—
   (a) that the complaint has been dismissed; and
   (b) the grounds on which that decision was made.
@@ -310,8 +310,8 @@ Part 2 of Schedule 2 applies in relation to Judicial Conduct Panels.
 
 ### 31 Appeal to Court of Appeal
 (1) Any person may appeal to the Court of Appeal against—
-  (a) any order made under section 29(2)(a) by a Judicial Conduct Panel to hold a hearing or part of a hearing in private:
-  (b) the refusal of a Panel to make any order under section 29(2)(a):
+  (a) any order made under section 29(2)﻿(a) by a Judicial Conduct Panel to hold a hearing or part of a hearing in private:
+  (b) the refusal of a Panel to make any order under section 29(2)﻿(a):
   (c) any order made under section 30(1) or (3) by a Panel:
   (d) the refusal of a Panel to make any order under section 30(1) or (3).
 (2) An application made under section 30(4) for the revocation, in whole or in part, of an order made by a Panel under section 30(1) must be—
@@ -351,7 +351,7 @@ Amendment(s) incorporated in the Act(s).
 ### 36 Amendments do not apply to certain complaints
 Complaints made before the commencement of the Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 must be dealt with as if that Act had not been enacted.
 
-## Schedule 1 — Overview of process forJudicial Conduct Commissionerand Judicial Conduct Panel
+## Schedule 1 — Overview of process for Judicial Conduct Commissioner and Judicial Conduct Panel
 
 ## Schedule 2 — Provisions relating to Judicial Conduct Commissioner and members of Judicial Conduct Panel
 
