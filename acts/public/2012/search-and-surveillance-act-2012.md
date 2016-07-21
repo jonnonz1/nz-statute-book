@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2016-07-21_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3604,6 +3604,7 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 | Commerce Act 1986 | 98A(2) | Authorised employee of Commerce Commission may obtain and execute warrant to search for evidence of offence against most provisions of Commerce Act 1986 | All (except sections 118 and 119) |
 | Commodity Levies Act 1990 | 19(1) | Constable or designated person may obtain and execute warrant to enter and search for evidence of offence against Commodity Levies Act 1990 | All (except that sections 118 and 119 apply to constables only) |
 | Conservation Act 1987 | 40(1) and (5) | Warranted officer may seize various things held in contravention of Conservation Act 1987 and exercise other powers; constable or warranted officer may seize thing in respect of which it is believed offence is being committed under Conservation Act 1987 | All (except subpart 3) |
+| Coroners Act 2006 | 122 | Members of the Police may search specified place, craft, or vehicle if warrant issued | Section 110 |
 | Credit Contracts and Consumer Finance Act 2003 | 113(d) | Powers of Commerce Commission to search and seize under sections 98A and 98G of Commerce Act 1986 are applied to Credit Contracts and Consumer Finance Act 2003 (with any necessary modifications) | All (except sections 118 and 119) |
 | Criminal Proceeds (Recovery) Act 2009 | 59 | Court may declare nature, extent, and value of person's interest in property specified in civil forfeiture order, and give directions | All (except subpart 6) |
 |  | 71 | Court may declare nature, extent, and value of person's interest in property specified in instrument forfeiture order, and give directions | All (except subpart 6) |
@@ -3616,7 +3617,7 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 114 | Application and issue of search warrants | All (except subpart 6) |
 |  | 127 | Applications for warrants under sections 124 to 126 | All (except subpart 6) |
 |  | 146 | High Court may declare the nature, extent, and value of any person's interest in property specified in a foreign forfeiture order | All (except subpart 6) |
-| Crown Minerals Amendment Act 2013 | 99B | Enforcement officer authorised by Minister may inspect place or structure (other than dwellinghouse or marae) to determine whether permit, Crown Minerals Act 1991, or regulations made under that Act being complied with. | All (except sections 118 and 119) |
+| Crown Minerals Act 1991 | 99B | Enforcement officer authorised by Minister may inspect place or structure (other than dwellinghouse or marae) to determine whether permit, Crown Minerals Act 1991, or regulations made under that Act being complied with. | All (except sections 118 and 119) |
 |  | 99C | Constable or enforcement officer authorised by Minister may obtain and execute search warrant to enter and search place or vehicle for evidence of offence against Crown Minerals Act 1991 or regulations made under that Act. | All (except sections 118 and 119 in the case of an enforcement officer) |
 | Customs and Excise Act 1996 | 139(1)﻿(d) | Customs officer and authorised person may board craft if officer or authorised person has reasonable cause to suspect craft is involved in offence against Customs and Excise Act 1996 or is carrying dutiable, uncustomed, prohibited, or forfeited goods | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)﻿(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
 |  | 140 | Customs officer and authorised person may search craft if officer or authorised person has reasonable cause to suspect craft is involved in offence against Customs and Excise Act 1996 or is carrying dutiable, uncustomed, prohibited, or forfeited goods | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)﻿(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
