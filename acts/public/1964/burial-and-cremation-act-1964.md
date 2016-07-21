@@ -1,5 +1,5 @@
 # Burial and Cremation Act 1964
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2016-07-21_
 
 > An Act to consolidate and amend the law relating to the burial and cremation of the dead
 
@@ -21,7 +21,7 @@ _Consolidation as at 2014-05-20_
   - **dead foetus** has the meaning given to it in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
   - **denominational burial ground** means any land, outside the boundaries of a cemetery, held, purchased, acquired, set apart, or dedicated, under the provisions of any Act or before the commencement of this Act, for the burial of the dead belonging to 1 or more religious denominations
   - **disposal** includes burial and cremation
-  - **doctor** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **doctor** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **doctor's certificate** , in relation to a death or a body, means a doctor's certificate referred to in section 46B or 46C relating to the cause of death or, as the case may require, the cause of death of the person whose body it is
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **funeral director** means a person whose business is or includes disposing of bodies
@@ -371,7 +371,7 @@ The Minister may, by any reopening order or by any later notice in the Gazette,�
 ## Part 7 — General provisions
 
 ### 46 Unlawful burials
-(1) Subject to the provisions of sections 47 and 48 of this Act and of section 85(1)(g) of the Civil Defence Emergency Management Act 2002, it shall not be lawful to bury any body in any land not being a cemetery or a denominational burial ground or a private burial ground or a Maori burial ground if there is a cemetery or any such burial ground within 32 kilometres of the place where the death has occurred, or of the place whence the body is taken for the purpose of burial:provided that nothing in this subsection shall compel the burial in a denominational burial ground of the body of a person who was not at the time of his death a practising member of the denomination concerned or the burial in a Maori burial ground of any body which would not otherwise be permitted to be buried therein or permit the burial in a private burial ground of a body the burial of which in such burial ground is prohibited by subsection (3) of section 36.
+(1) Subject to the provisions of sections 47 and 48 of this Act and of section 85(1)﻿(g) of the Civil Defence Emergency Management Act 2002, it shall not be lawful to bury any body in any land not being a cemetery or a denominational burial ground or a private burial ground or a Maori burial ground if there is a cemetery or any such burial ground within 32 kilometres of the place where the death has occurred, or of the place whence the body is taken for the purpose of burial:provided that nothing in this subsection shall compel the burial in a denominational burial ground of the body of a person who was not at the time of his death a practising member of the denomination concerned or the burial in a Maori burial ground of any body which would not otherwise be permitted to be buried therein or permit the burial in a private burial ground of a body the burial of which in such burial ground is prohibited by subsection (3) of section 36.
 (2) If there is not a cemetery, or any such burial ground in which the body may properly be buried, within the distance mentioned in subsection (1), the body may be buried in other land but notice of every such burial specifying the name of the person buried, if known, the supposed cause of death, and the place of burial, shall, within 3 days after the burial, be given by the person burying the body to the nearest District Court Judge.
 
 ### 46AA Doctor's certificate or coroner's authorisation required before body disposed of
@@ -397,9 +397,9 @@ The Minister may, by any reopening order or by any later notice in the Gazette,�
   (a) the doctor who last attended the person during the illness is unavailable; or
   (b) less than 24 hours has passed since the death, and the doctor who last attended the person during the illness is unlikely to be able to give a doctor's certificate for the death within 24 hours after the death; or
   (c) 24 hours or a longer period has passed since the death, and the doctor who last attended the person during the illness has not given a doctor's certificate for the death.
-(4) Subsection (3)(b) and (c) do not apply if the doctor who last attended the person during the illness has refused to give a doctor's certificate for the death because that doctor was not satisfied, or was not yet satisfied, that the death was a natural consequence of the illness.
+(4) Subsection (3)﻿(b) and (c) do not apply if the doctor who last attended the person during the illness has refused to give a doctor's certificate for the death because that doctor was not satisfied, or was not yet satisfied, that the death was a natural consequence of the illness.
 (5) A doctor must not give a doctor's certificate under subsection (2) or (3) if the death—
-  (a) must be reported to the New Zealand Police because section 13 (except subsection (1)(b)) of the Coroners Act 2006 applies; or
+  (a) must be reported to the New Zealand Police because section 14 (except subsection (2)﻿(f)) of the Coroners Act 2006 applies; or
   (b) has been reported to a coroner under section 15(2) of that Act.
 (6) A doctor may give a doctor's certificate despite subsection (5) if a coroner has decided not to open an inquiry into the death.
 (7) A doctor who must give a doctor's certificate under subsection (2), but knows that since he or she attended the person concerned some other doctor attended the person, must not give the certificate without taking all reasonable steps to consult the other doctor.
@@ -409,7 +409,7 @@ The Minister may, by any reopening order or by any later notice in the Gazette,�
   (c) examined the person's body.
 
 ### 46C Doctor's certificate in relation to accidents to elderly persons
-(1) A doctor may give a doctor's certificate for the death of a person even though a death may have been reported to the New Zealand Police under section 14 of the Coroners Act 2006 if the person was 70 years of age or older and, in the opinion of the doctor,—
+(1) A doctor may give a doctor's certificate for the death of a person even though a death may have been reported to the New Zealand Police under section 13 of the Coroners Act 2006 if the person was 70 years of age or older and, in the opinion of the doctor,—
   (a) the death was caused by injuries, or injuries contributed substantially to it; and
   (b) the injuries were caused by an accident; and
   (c) the injuries, the accident, or both arose principally by virtue of infirmities that were attributes of the person's age; and
@@ -518,7 +518,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (a) protecting public health and maintaining public decency in relation to cemeteries and burial grounds:
   (b) regulating the conduct of persons using or frequenting any cemetery or burial ground:
   (c) prohibiting or regulating the admission of animals to any cemetery or burial ground or Maori burial ground:
-  (d) providing for the removal, after due notice to any known persons entitled to maintain them, of dilapidated or neglected monuments and tablets from cemeteries and burial grounds and from any closed cemetery or closed burial ground in respect of which an notice is not in force under section 45:
+  (d) providing for the removal, after due notice to any known persons entitled to maintain them, of dilapidated or neglected monuments and tablets from cemeteries and burial grounds and from any closed cemetery or closed burial ground in respect of which a notice is not in force under section 45:
   (e) regulating the management of any closed cemetery or closed burial ground and any of the matters specified in paragraphs (a) to (c) in relation to any closed cemetery or closed burial ground:
   (f) prescribing the conditions subject to which and the manner in which the sanction of the Minister may be obtained for the dedication of a denominational burial ground under section 31:
   (g) prescribing forms for the purposes of this Act:
