@@ -1,5 +1,5 @@
 # Appropriation (2015/16 Estimates) Act 2015
-_Consolidation as at 2015-08-24_
+_Consolidation as at 2016-08-18_
 
 ### 1 Title
 This Act is the Appropriation (2015/16 Estimates) Act 2015.
@@ -22,7 +22,7 @@ This Act meets the requirements of the Public Finance Act 1989 for parliamentary
 ### 5 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **2015/16 financial year** means the financial year ending with 30 June 2016
-  - **Estimates** means The Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2016 (B.5)
+  - **Estimates** means The Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2016 (B﻿.﻿5)
   - **scope shown in the Estimates** means the scope as set out in the Details of Appropriations and Capital Injections for the relevant Vote in the Estimates as follows:
     (a) in the case of an appropriation under section 6,—
       (i) in the table headed Annual and Permanent Appropriations; and
@@ -71,7 +71,7 @@ The Acts specified in Schedule 5 are repealed.
 
 ## Schedule 1 — Appropriations for 2015/16 financial year
 
-| Vote | Volume and page reference in Estimates(B.5) |  | Appropriation | Amount $(000) |
+| Vote | Volume and page reference in Estimates(B﻿.﻿5) |  | Appropriation | Amount $(000) |
 | --- | --- | --- | --- | --- |
 | Arts, Culture and Heritage | 8/3 |  | Departmental Output Expenses |  |
 |  |  | Heritage Services | 8,768 |  |
@@ -886,7 +886,7 @@ The Acts specified in Schedule 5 are repealed.
 
 ## Schedule 2 — Appropriations applying for more than 1 financial year
 
-| Vote | Volume and page reference in Estimates(B.5) |  | Appropriation |  | Period of appropriation |  | Amount $(000) |
+| Vote | Volume and page reference in Estimates(B﻿.﻿5) |  | Appropriation |  | Period of appropriation |  | Amount $(000) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Arts, Culture and Heritage | 8/5 |  | Departmental Output Expenses |  |  |  |  |
 |  |  |  | Cultural Diplomacy International Programme |  | Period from 1 July 2015 to 30 June 2020 (inclusive) |  | 8,345 |
@@ -904,7 +904,7 @@ The Acts specified in Schedule 5 are repealed.
 
 ## Schedule 3 — Expenses under section 21 of Public Finance Act 1989
 
-| Vote | Volume and page reference in Estimates(B.5) | Appropriation |
+| Vote | Volume and page reference in Estimates(B﻿.﻿5) | Appropriation |
 | --- | --- | --- |
 | Audit | 5/3 | Audit and Assurance Services |
 | Finance | 5/23 | Provision of Financial Services to the New Zealand Local Government Funding Agency |
@@ -913,7 +913,7 @@ The Acts specified in Schedule 5 are repealed.
 
 ## Schedule 4 — Capital injections authorised for 2015/16 financial year
 
-| Department or Office of Parliament | Volume and page reference in Estimates(B.5) | Amount $(000) |
+| Department or Office of Parliament | Volume and page reference in Estimates(B﻿.﻿5) | Amount $(000) |
 | --- | --- | --- |
 | Business, Innovation and Employment, Ministry of | 1/21 | 48,768 |
 | Conservation, Department of | 3/5 | 10,800 |
