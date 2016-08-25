@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2015-11-09_
+_Consolidation as at 2016-08-25_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -639,19 +639,7 @@ The provisions of this Part do not limit the other provisions of this Act.
   (b) in the case of a body corporate, to a fine not exceeding $125,000.
 
 ### 41 Guidelines for issue of animal welfare export certificates
-(1) The Director-General may from time to time publish guidelines for the issue of animal welfare export certificates.
-(2) The Director-General may from time to time amend or revoke any guidelines published under subsection (1).
-(3) The Minister may from time to time direct the Director-General to exercise the power conferred on the Director-General by subsection (1).
-(4) Subject to subsection (3), nothing in this section obliges the Director-General to publish guidelines under subsection (1).
-(5) Any guidelines published under this section may relate—
-  (a) to a specific type of animal or to animals generally:
-  (b) to the export of animals by ship or by aircraft or by both:
-  (c) to particular types of animals in particular circumstances.
-(6) Before publishing guidelines under this section or any amendment (other than a minor amendment) to any such guidelines, the Director-General must consult with those persons considered by the Director-General to be representative of the classes of persons having an interest in the guidelines or the amendment.
-(7) The consultation may be on the guidelines or the amendment or on a document that analyses or assesses the risks associated with the export of animals or particular classes of animals.
-(8) The Director-General must—
-  (a) make sufficient copies of any guidelines published under this section available for public inspection, free of charge, at the office of the Director-General during normal office hours; and
-  (b) make sufficient copies of those guidelines available either for distribution free of charge or for purchase at a reasonable price during normal office hours at the office of the Director-General.
+[Repealed]
 
 ### 42 Application for animal welfare export certificate
 (1) Any person may apply to the Director-General for the issue of an animal welfare export certificate.
@@ -666,7 +654,7 @@ The provisions of this Part do not limit the other provisions of this Act.
 (6) If the deficiencies are not made good at least 20 working days before the date on which the applicant proposes that the animal leave New Zealand, the Director-General may deal with the application only if he or she is satisfied that there is sufficient time to give proper consideration to the application before that date.
 
 ### 43 Consideration of application
-The Director-General must, in considering any application under section 42, have regard to such of the following matters as are relevant:
+(1) The Director-General must, in considering any application under section 42, have regard to such of the following matters as are relevant:
   (a) the manner in which the welfare of any animals previously exported by the applicant was attended to on the journey between New Zealand and the country to which they were exported:
   (b) the capability, skills, and experience of the applicant in relation to the export of animals:
   (c) the species or type of animal and the number of animals proposed to be exported:
@@ -678,7 +666,14 @@ The Director-General must, in considering any application under section 42, have
   (i) any requirements of the country into which the animal is being exported:
   (j) any relevant international standard:
   (k) the date on which it is intended that the animal leave New Zealand:
+  (ka) any regulations made under section 183C relating to the export of animals:
+  (kb) New Zealand's reputation as a responsible exporter of animals and products made from animals:
   (l) any other matters that the Director-General considers relevant to the welfare of the animal.
+(2) The Director-General may, in considering any application under section 42, have regard to the following matters:
+  (a) the post-arrival conditions for the management of the animals in the importing country:
+  (b) the manner in which the welfare of any animals previously exported by the applicant was attended to during—
+    (i) the 30-day period commencing on the date of their arrival in the importing country; or
+    (ii) any lesser period after their arrival that the Director-General thinks fit.
 
 ### 44 Decision on application
 (1) After considering an application under section 42, the Director-General must decide whether to grant or refuse the application.
@@ -701,13 +696,20 @@ The Director-General must, in considering any application under section 42, have
   (j) a condition that the animal be provided on the ship or aircraft with facilities specified by the Director-General:
   (k) a condition specifying the manner in which the animal is to be managed on the journey:
   (l) any condition specified in any relevant international standard:
+  (la) a condition requiring an exporter to provide a report on the way in which the animals were managed during their journey and to provide any specified information that the Director-General considers relevant:
+  (lb) a condition requiring an exporter to provide a report on the welfare of the animals and to provide any specified information that the Director-General considers relevant, for—
+    (i) the 30-day period commencing on the date of their arrival in the importing country; or
+    (ii) any lesser period after their arrival that the Director-General thinks fit:
   (m) such other conditions as the Director-General considers appropriate for the welfare of the animal.
 (2) The Director-General may at any time before the departure of the animal amend or add to the conditions imposed under subsection (1).
 (3) The amendment or addition must be effected by giving written notice of the amendment or addition to the person to whom the animal welfare export certificate has been issued.
 (4) Except where the amendment or addition is necessary to meet the requirements of the country to which the animal is being exported, the Director-General may not, under subsection (2), amend the conditions or add to the conditions in such a way as to impose on the person to whom the animal welfare export certificate has been issued requirements that, at the time of the amendment or addition, that person cannot reasonably be expected to meet before the date of the departure of the animal.
 
 ### 46 Issue of animal welfare export certificate
-Subject to satisfactory compliance with, or satisfactory arrangements made for compliance with, all conditions (if any) imposed under section 45, the Director-General must issue the certificate by signing it and giving it to the applicant.
+(1) Subject to satisfactory compliance with, or satisfactory arrangements made for compliance with, all conditions (if any) imposed under section 45, the Director-General must issue the certificate by signing it and giving it to the applicant.
+(2) The failure to comply with any relevant regulations made under this Act is a sufficient ground on which the Director-General may—
+  (a) refuse to issue a certificate; or
+  (b) revoke or amend any certificate that has already been issued.
 
 ### 47 Multiple consignment animal welfare export certificates
 (1) A person may apply for, and the Director-General may issue, a multiple consignment animal welfare export certificate that will enable the person to export animals over a period of time without having to obtain an animal welfare export certificate in respect of each consignment.
