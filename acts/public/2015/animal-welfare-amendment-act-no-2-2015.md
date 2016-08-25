@@ -1,5 +1,5 @@
 # Animal Welfare Amendment Act (No 2) 2015
-_Consolidation as at 2015-05-09_
+_Consolidation as at 2016-08-25_
 
 ### 1 Title
 This Act is the Animal Welfare Amendment Act (No 2) 2015.
