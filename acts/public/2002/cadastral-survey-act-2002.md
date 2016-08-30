@@ -1,5 +1,5 @@
 # Cadastral Survey Act 2002
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2016-08-30_
 
 ### 1 Title
 This Act is the Cadastral Survey Act 2002.
@@ -62,7 +62,7 @@ In this Act, unless the context otherwise requires,—
   (b) a registered surveyor under the Survey Act 1986; or
   (c) entitled to practise cadastral surveying outside New Zealand.
 (3) The office of Surveyor-General may be held in conjunction with the office of chief executive.
-(4) However, a chief executive who has, at any time, been appointed to the office of chief executive in accordance with a direction given under section 35(11)(a) of the State Sector Act 1988 may not, at any time, hold the office of Surveyor-General in conjunction with the office of chief executive.
+(4) However, a chief executive who has, at any time, been appointed to the office of chief executive in accordance with a direction given under section 35(11)﻿(a) of the State Sector Act 1988 may not, at any time, hold the office of Surveyor-General in conjunction with the office of chief executive.
 
 ### 6 Deputy Surveyor-General
 (1) A person must be appointed under the State Sector Act 1988 to hold office as the Deputy Surveyor-General.
@@ -80,6 +80,7 @@ In this Act, unless the context otherwise requires,—
   (e) to set standards for integrating new cadastral surveys into the cadastre by the chief executive:
   (f) to set standards for the structure, storage, and provision of cadastral survey data by the chief executive:
   (g) to set standards for determining when cadastral survey datasets may be used to define interests under tenure systems:
+  (ga) to issue guidelines about standards set by the Surveyor-General under this Act:
   (h) to provide advice to agencies or officers responsible under any enactment for tenure systems on matters relating to the spatial definition of interests under those systems:
   (i) to undertake research and liaise with persons and organisations for the purposes of his or her functions:
   (j) to audit compliance by cadastral surveyors with the standards referred to in paragraph (c):
@@ -90,6 +91,7 @@ In this Act, unless the context otherwise requires,—
   (b) the efficiency and effectiveness of measures to manage risks to the accuracy of cadastral surveys; and
   (c) the efficiency with which the costs and benefits of those measures will be allocated among the Crown, cadastral surveyors, current and future owners of land, and other parties; and
   (d) the use of cadastral survey data for purposes other than cadastral surveys.
+(3) Guidelines issued under section 7(1)﻿(ga) do not have legal effect.
 
 ### 8 Delegation of Surveyor-General's functions, duties, and powers
 (1) The Surveyor-General may delegate any of his or her functions, duties, and powers under this Act (except this power of delegation) to any employee of the chief executive or to any other suitable person.
@@ -104,7 +106,7 @@ In this Act, unless the context otherwise requires,—
 
 ### 9 Functions of chief executive
 For the purposes of this Act, the functions of the chief executive are—
-  (a) to determine whether cadastral survey datasets and cadastral surveys comply with standards set under section 7(1)(c):
+  (a) to determine whether cadastral survey datasets and cadastral surveys comply with standards set under section 7(1)﻿(c):
   (b) to provide facilities to receive cadastral survey datasets:
   (c) to set conditions for the use of the facilities referred to in paragraph (b):
   (d) to integrate new cadastral surveys into the cadastre:
@@ -127,14 +129,14 @@ For the purposes of this Act, the functions of the chief executive are—
   (e) to investigate complaints about cadastral surveyors and take disciplinary action in appropriate cases under this Act:
   (f) to provide statistical information to the Minister about cadastral surveyors as requested by the Minister:
   (g) to perform any other functions or duties conferred on it by this Act or any other enactment.
-(2) Fees set under subsection (1)(c) must be set to cover only the cost of the functions of the Board.
-(3) For the purposes of subsection (1)(d),—
-  (a) the standards must relate to the competencies required by cadastral surveyors to meet the standards set by the Surveyor-General under section 7(1)(c):
+(2) Fees set under subsection (1)﻿(c) must be set to cover only the cost of the functions of the Board.
+(3) For the purposes of subsection (1)﻿(d),—
+  (a) the standards must relate to the competencies required by cadastral surveyors to meet the standards set by the Surveyor-General under section 7(1)﻿(c):
   (b) the standards must also relate to the legislative requirements for the subdivision of land to the extent that they are relevant to cadastral surveying:
   (c) the standards must take into account any assignments for the Survey Board of New Zealand begun by applicants before the commencement of this Act for completion after the commencement of this Act:
-  (d) the Board may conduct, or arrange for the conduct of, examinations for the purpose of determining whether persons proposing to apply or applying for licences under this Act meet the standards set under subsection (1)(d).
-(4) The Board must, from time to time, for the purpose of setting standards under subsection (1)(d), consult the Surveyor-General about the competencies required by licensed cadastral surveyors to meet standards for cadastral surveying set by or under this Act.
-(5) For the purposes of subsection (1)(d), the Board may, before issuing standards under that provision, adopt and apply the competencies that applied, immediately before the commencement of this Act, to the registration of surveyors.
+  (d) the Board may conduct, or arrange for the conduct of, examinations for the purpose of determining whether persons proposing to apply or applying for licences under this Act meet the standards set under subsection (1)﻿(d).
+(4) The Board must, from time to time, for the purpose of setting standards under subsection (1)﻿(d), consult the Surveyor-General about the competencies required by licensed cadastral surveyors to meet standards for cadastral surveying set by or under this Act.
+(5) For the purposes of subsection (1)﻿(d), the Board may, before issuing standards under that provision, adopt and apply the competencies that applied, immediately before the commencement of this Act, to the registration of surveyors.
 
 ### 12 Powers of Board
 (1) For the purpose of performing its functions and duties, the Board—
@@ -153,7 +155,7 @@ For the purposes of this Act, the functions of the chief executive are—
     (ii) both have been nominated by a body or bodies representing licensed cadastral surveyors; and
   (b) 2 persons who are or have been licensed cadastral surveyors and who have not been nominated by a body or bodies representing licensed cadastral surveyors; and
   (c) 1 person who is not and never has been a licensed cadastral surveyor and who is not employed in, and does not represent, the surveying profession.
-(3) The Board must elect one of the persons appointed under subsection (1)(a) to be the chairperson of the Board.
+(3) The Board must elect one of the persons appointed under subsection (1)﻿(a) to be the chairperson of the Board.
 (4) In this section, licensed cadastral surveyor includes a person who, immediately before the commencement of this Act, was a registered surveyor under the Survey Act 1986.
 
 ### 14 Further provisions relating to Board and its members
@@ -204,7 +206,7 @@ The Board must ensure that, within 5 months after the end of the financial year 
     (i) that it has made its annual report to the Minister; and
     (ii) specifying how they can obtain the annual report; and
   (b) make a copy of its annual report available to all cadastral surveyors.
-(4) The Board complies with subsection (3)(b) if it publishes its annual report on the Internet.
+(4) The Board complies with subsection (3)﻿(b) if it publishes its annual report on the Internet.
 
 ## Part 3 — Licensing of cadastral surveyors
 
@@ -218,7 +220,7 @@ The Board must ensure that, within 5 months after the end of the financial year 
 (5) The Board may—
   (a) cause the register or any part of it to be published in the form, whether abbreviated or not, that it thinks fit; and
   (b) charge any person who wishes to purchase a copy of the register or part of the register.
-(6) The fee charged under subsection (5)(b) must be not more than the fee that may be charged by a department of State for providing information under the Official Information Act 1982.
+(6) The fee charged under subsection (5)﻿(b) must be not more than the fee that may be charged by a department of State for providing information under the Official Information Act 1982.
 
 ### 22 Entitlement of applicant for licence
 (1) A person, on payment of the prescribed fee, is entitled to be licensed as a cadastral surveyor if the person satisfies the Board—
@@ -279,14 +281,14 @@ Every person commits an offence and is liable on conviction to imprisonment for 
   (a) be treated as if he or she held a licence issued under this Part with an expiry date of 30 June 2003; and
   (b) be entered in the register of cadastral surveyors; and
   (c) pay to the Board, for the purposes of this section, the amount determined by the Board.
-(2) The amount determined by the Board under subsection (1)(c) must—
+(2) The amount determined by the Board under subsection (1)﻿(c) must—
   (a) be paid by a date determined by the Board; and
   (b) not exceed the fee payable under section 47(4) of the Survey Act 1986 for the year 1 July 2001 to 30 June 2002.
-(3) A person who does not pay the amount determined by the Board by the date determined by the Board must be treated from that date as not holding a licence under subsection (1)(a).
+(3) A person who does not pay the amount determined by the Board by the date determined by the Board must be treated from that date as not holding a licence under subsection (1)﻿(a).
 
 ### 33 Transitional provision: applications to be registered surveyor
 (1) This section applies to a person who, before the commencement of this Act,—
-  (a) had qualified to sit the examinations specified in regulations 6 and 7(1)(b) of the Surveyors Professional Regulations 1977; and
+  (a) had qualified to sit the examinations specified in regulations 6 and 7(1)﻿(b) of the Surveyors Professional Regulations 1977; and
   (b) had applied to the Survey Board of New Zealand to sit the examinations.
 (2) The person may continue to sit the examinations and to complete, before 30 June 2003, the other requirements for a certificate of competency under the Surveyors Professional Regulations 1977.
 (3) The members of the Survey Board of New Zealand holding office at the commencement of this Act must—
@@ -367,7 +369,7 @@ The Board is not required to investigate, and may decline to accept, a complaint
 (5) While any order of suspension of a licence remains in force, the person is to be treated for the purpose of this Act as not being licensed but, on the expiry of the order, the person's rights and privileges as a licensed cadastral surveyor are revived as from the date of expiry.
 (6) In an order under this section directing the name of any person to be removed from the register, or in any subsequent order of the Board, the Board may fix a time after which the person whose name has been removed may apply for a licence.
 (7) The Board, on hearing the application, may order that the name of the applicant be restored to the register, and may order that the person may, for a period not exceeding 3 years, practise but only subject to any conditions as to employment, supervision, or otherwise that the Board may specify in the order.
-(8) All costs and expenses payable, under this section are recoverable as debts due to the Board.
+(8) All costs and expenses payable under this section are recoverable as debts due to the Board.
 
 ### 40 Powers and rights of Board and persons involved in proceedings of Board
 (1) The Board has and may exercise, for the purposes of any hearing under section 38, the same powers as are conferred on Commissions of Inquiry by sections 4, 4B, and 4D to 8 of the Commissions of Inquiry Act 1908.
@@ -441,7 +443,7 @@ Complaints, investigations, hearings, proceedings, and other matters begun but n
   (a) standards for the conduct of cadastral surveys (including the use of survey marks):
   (b) standards for cadastral survey datasets.
 (2) Before making any rules under this section, the Surveyor-General must consult—
-  (a) the Board in relation to rules that have implications for the standards set by the Board under section 11(1)(d); and
+  (a) the Board in relation to rules that have implications for the standards set by the Board under section 11(1)﻿(d); and
   (b) the body or bodies representing cadastral surveyors; and
   (c) if the standards will affect a tenure system, the agency or officer responsible for the tenure system.
 (3) Before making rules under this section, the Surveyor-General must have regard to the following matters:
@@ -454,7 +456,7 @@ Complaints, investigations, hearings, proceedings, and other matters begun but n
   (a) apply subject to regulations made under this Part; and
   (b) are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (5) The Surveyor-General must—
-  (a) notify rules made under this section in a publication of a body referred to in subsection (2)(b); and
+  (a) notify rules made under this section in a publication of a body referred to in subsection (2)﻿(b); and
   (b) supply, on request for a reasonable fee, a copy of rules made under this section.
 
 ### 50 Transitional provision: Surveyor-General's rules
@@ -535,7 +537,7 @@ If any person is alleged to have committed an infringement offence, the person m
 (2) An infringement notice may be served—
   (a) by delivering it personally to the person who appears to have committed the infringement offence; or
   (b) by sending it by post addressed to the person at the person's last known place of residence or business.
-(3) An infringement notice sent to a person under subsection (2)(b) is to be treated as having been served on the person when it was so posted.
+(3) An infringement notice sent to a person under subsection (2)﻿(b) is to be treated as having been served on the person when it was so posted.
 (4) An infringement notice must be in the prescribed form and must contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
   (b) the amount of the infringement fee; and
@@ -576,7 +578,7 @@ The Governor-General may, by Order in Council, make regulations prescribing the 
   (d) all liabilities, contracts, engagements, rights, and authorities of the Institute become the liabilities, contracts, engagements, rights, and authorities of the society:
   (e) every employee of the Institute becomes an employee of the society on the same terms and conditions as applied immediately before becoming an employee of the society:
   (f) all proceedings by or against the Institute may be continued, completed, or enforced by or against the society.
-(4) The employment agreement of an employee who becomes an employee of the society under subsection (3)(e) is to be treated as not having been broken, and the employee is not entitled to any payment or benefit because the employee becomes an employee of the society under that provision.
+(4) The employment agreement of an employee who becomes an employee of the society under subsection (3)﻿(e) is to be treated as not having been broken, and the employee is not entitled to any payment or benefit because the employee becomes an employee of the society under that provision.
 (5) In this section, property—
   (a) means every type of property; and
   (b) includes—
@@ -630,7 +632,7 @@ A certificate given by or on behalf of the Board to the effect that a person was
 (1) Meetings of the Board are to be held at the times and places the chairperson appoints.
 (2) Any 2 members of the Board may require the chairperson to appoint a time and place for the holding of a meeting of the Board within 14 days after the giving to him or her of notice of that requirement.
 (3) At every meeting of the Board, the quorum necessary for the transaction of business is 3 members.
-(4) However, the quorum is 4 members and must include the member appointed under section 13(2)(c) if the Board is considering any matter under Part 4.
+(4) However, the quorum is 4 members and must include the member appointed under section 13(2)﻿(c) if the Board is considering any matter under Part 4.
 (5) Every question before a meeting of the Board must be determined by a majority of the votes of the members present at the meeting of the Board.
 (6) No member of the Board is entitled to be present or vote or otherwise participate in his or her capacity as a member of the Board at any part of a meeting of the Board if the member has a conflict of interest.
 (7) The chairperson has a deliberative vote and, in the case of an equality of votes, also has a casting vote.
@@ -639,8 +641,8 @@ A certificate given by or on behalf of the Board to the effect that a person was
 (10) Subject to this Act and any regulations made under this Act, the Board may regulate its procedure as it thinks fit.
 
 ### 4 Substitute for members
-(1) The Minister may appoint, for a term not exceeding 3 years, 1 licensed cadastral surveyor as a substitute member of the Board, who is entitled, in the absence from any meeting of the Board of a member appointed under section 13(2)(a) or (b), to attend the meeting in his or her place.
-(2) The Minister may appoint, for a term not exceeding 3 years, a suitably qualified person as a substitute member of the Board, who is entitled, in the absence from any meeting of the Board of a member appointed under section 13(2)(c), to attend the meeting in his or her place.
+(1) The Minister may appoint, for a term not exceeding 3 years, 1 licensed cadastral surveyor as a substitute member of the Board, who is entitled, in the absence from any meeting of the Board of a member appointed under section 13(2)﻿(a) or (b), to attend the meeting in his or her place.
+(2) The Minister may appoint, for a term not exceeding 3 years, a suitably qualified person as a substitute member of the Board, who is entitled, in the absence from any meeting of the Board of a member appointed under section 13(2)﻿(c), to attend the meeting in his or her place.
 (3) A person appointed under this clause who attends a meeting of the Board is to be treated for the purposes of this Act as a member of the Board, except that he or she must not act as chairperson of the Board.
 
 ### 5 Committees
@@ -667,7 +669,7 @@ A certificate given by or on behalf of the Board to the effect that a person was
   (f) to have made any entry in any field book or other record that purports to have been derived from actual observation or measurement in the field, if in fact it has not been so derived:
   (g) to have supplied to the Surveyor-General or the chief executive any erroneous information in relation to any cadastral survey, cadastral survey mark, or boundary, knowing the information to be erroneous in any material particular:
   (h) to have been convicted of any offence against section 31 or section 58(b) or (c):
-  (i) to have failed to comply with any conditions imposed by the Board under section 39(2)(c) or (7) or the High Court on any appeal against an order under section 39:
+  (i) to have failed to comply with any conditions imposed by the Board under section 39(2)﻿(c) or (7) or the High Court on any appeal against an order under section 39:
   (j) to have failed to comply with any requirement imposed under section 52:
   (k) to have persistently exercised the powers of entry conferred by section 53 in an unreasonable manner:
   (l) to have failed, without reasonable cause, to perform any duty imposed on licensed cadastral surveyors by standards set by rules made under section 49.
@@ -675,7 +677,7 @@ A certificate given by or on behalf of the Board to the effect that a person was
 ###
 (2) For the purposes of determining whether or not a licensed cadastral surveyor is guilty of professional misconduct, the fact that a cadastral survey or cadastral survey dataset may have been approved by or on behalf of the Surveyor-General or the subject of a determination by the chief executive that it complies with standards specified in rules made under section 49 is not relevant.
 
-## Schedule 3 — Amendments to Survey Act 1986 and Survey Regulations 1998 for purposes of section 50(1)(a)(ii)
+## Schedule 3 — Amendments to Survey Act 1986 and Survey Regulations 1998 for purposes of section 50(1)﻿(a)﻿(ii)
 
 ## Schedule 4 — Acts amended
 
