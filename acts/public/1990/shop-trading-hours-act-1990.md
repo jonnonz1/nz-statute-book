@@ -1,23 +1,39 @@
-# Shop Trading Hours Act Repeal Act 1990
-_Consolidation as at 2013-12-18_
+# Shop Trading Hours Act 1990
+_Consolidation as at 2016-08-30_
 
-> An Act to repeal the Shop Trading Hours Act 1977, and for incidental matters
-
-### 1 Short Title and commencement
-(1) This Act may be cited as the Shop Trading Hours Act Repeal Act 1990.
+### 1 Title and commencement
+(1) This Act is the Shop Trading Hours Act 1990.
 (2) This Act shall come into force on 1 August 1990.
+
+**Preliminary provisions**
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **chief executive** means the chief executive of the department that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **district** has the same meaning as in section 5(1) of the Local Government Act 2002
+  - **employer** has the meaning set out in section 5F
+  - **employment agreement** has the meaning set out in section 5F
   - **goods** includes all personal chattels other than alcohol (within the meaning of the Sale and Supply of Alcohol Act 2012), money, and things in action
+  - **local Easter Sunday shop trading policy** means a policy adopted by a territorial authority under subpart 1 of Part 2
+  - **publicly available** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **repealed Act** means the Shop Trading Hours Act 1977
   - **shop** means a building, place, or part of a building or place, where goods are kept, sold, or offered for sale, by retail; and includes an auction mart, and a barrow, stall, or other subdivision of a market; but does not include—
     (a) a private home where the owner or occupier's effects are being sold (by auction or otherwise); or
     (b) a building or place where the only business carried on is that of selling by auction agricultural products, pastoral products, and livestock, or any of them; or
-    (c) a building or place where the only business carried on is that of selling goods to people who are dealers, and buy the goods to sell them again.
+    (c) a building or place where the only business carried on is that of selling goods to people who are dealers, and buy the goods to sell them again
+  - **shop employee** has the meaning set out in section 5F
+  - **special consultative procedure** has the same meaning as in section 5(1) of the Local Government Act 2002
+  - **territorial authority** has the same meaning as in section 5(1) of the Local Government Act 2002.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
+## Part 1 — Restricted trading days
+
+**General rule**
 
 ### 3 Shops to be closed on Anzac Day morning, Good Friday, Easter Sunday, and Christmas Day
-(1) Subject to sections 4 and 4A, every shop shall remain closed—
+(1) Subject to sections 4, 4A, and 4B, every shop shall remain closed—
   (a) before 1 pm on Anzac Day; and
   (b) all day on any day that is Good Friday, Easter Sunday, or Christmas Day.
 (2) For the purposes of subsection (1)—
@@ -28,6 +44,8 @@ In this Act, unless the context otherwise requires,—
     (i) the shop is then locked, or otherwise secured against entry by members of the public; and
     (ii) no person in the shop is then selling goods, canvassing for orders of goods, or delivering goods.
 
+**Exemptions**
+
 ### 4 Certain shops may remain open
 (1) Section 3(1) does not apply to a shop if it is—
   (a) a shop where—
@@ -35,7 +53,7 @@ In this Act, unless the context otherwise requires,—
     (ii) the quantity of goods for sale is no greater than that sufficient to meet the demands of the people who live or are staying in the area where the shop is, and people (other than people travelling in order to buy goods at the shop) travelling through the area; or
   (b) a shop whose principal business is selling goods falling into one or other of the following categories:
     (i) goods intended to be bought as souvenirs:
-    (ii) duty free goods (that is to say goods sold from or through any premises licensed as an export warehouse under Part 4 of the Customs Act 1966 to people intending to take the goods out of New Zealand):
+    (ii) duty free goods (that is to say goods sold from or through an export warehouse (within the meaning of section 2(1) of the Customs and Excise Act 1996) to people intending to take the goods out of New Zealand):
     (iii) prepared or cooked food ready to be eaten immediately in the form in which it is sold; or
   (c) a shop at any public passenger transport terminal, or at any station where public passenger transport services stop, whose principal business is selling goods falling into one or other of the following categories:
     (i) books, magazines, and newspapers:
@@ -48,6 +66,11 @@ In this Act, unless the context otherwise requires,—
 
 ### 4A Garden centres may remain open on Easter Sunday
 Section 3(1) does not apply to a shop on Easter Sunday if it is a garden centre, being a shop the sole or principal business of which is the sale of plants or garden supplies or both.
+
+### 4B Shops in certain areas may remain open on Easter Sunday
+Section 3(1) does not apply to a shop on Easter Sunday if the shop is located in a district, or part of a district, in which a local Easter Sunday shop trading policy permits shops to open on Easter Sunday.
+
+**Offence**
 
 ### 5 Offence
 (1) The occupier of a shop that is not closed in accordance with section 3 commits an offence against this Act, and is liable, on conviction, to a fine not exceeding $1,000.
@@ -62,6 +85,115 @@ Section 3(1) does not apply to a shop on Easter Sunday if it is a garden centre,
 (3) In any proceedings for an offence against this Act,—
   (a) it is sufficient to allege in the charging document that a place is a shop and to state in the charging document the name of its ostensible occupier, or a style or title under which its occupier is usually known or carries on business; and
   (b) the charge may from time to time be amended as to the actual name of the occupier of the place.
+
+## Part 2 — Trading on Easter Sunday
+
+### Subpart 1 — Local Easter Sunday shop trading policies
+
+### 5A Territorial authority may have local Easter Sunday shop trading policy
+(1) A territorial authority may have a local Easter Sunday shop trading policy to permit shops to open on Easter Sunday in an area comprising—
+  (a) the whole of its district; or
+  (b) any part or parts of its district.
+(2) A local Easter Sunday shop trading policy under subsection (1) may not—
+  (a) permit shops to open only for some purposes; or
+  (b) permit only some types of shops in the area to open; or
+  (c) specify times at which shops may or may not open; or
+  (d) include any other conditions as to the circumstances in which shops in the area may open.
+(3) Nothing in subsection (2) is intended to limit the territorial authority’s power to control any of the matters in subsection (2)﻿(a) to (d) under any other enactment.
+(4) A local Easter Sunday shop trading policy under subsection (1)﻿(b) must include either or both of the following:
+  (a) a map of the area:
+  (b) a clear description of the boundaries of the area so that they are easily identifiable in practice.
+(5) However, where a local Easter Sunday shop trading policy includes both a map and a description of the area and there is an inconsistency between the map and the description, the description prevails.
+
+### 5B Adoption, amendment, and revocation of local Easter Sunday shop trading policy
+(1) A territorial authority must use the special consultative procedure when deciding whether to—
+  (a) adopt a local Easter Sunday shop trading policy; or
+  (b) amend a local Easter Sunday shop trading policy; or
+  (c) revoke a local Easter Sunday shop trading policy.
+(2) Despite subsection (1)﻿(b), a territorial authority may, by resolution made publicly available, make minor changes to, or correct errors in, a local Easter Sunday shop trading policy, but only if the changes or corrections do not affect an existing right of a person to whom the policy applies.
+(3) A territorial authority must,—
+  (a) as soon as practicable after adopting or amending a local Easter Sunday shop trading policy, make the policy publicly available; and
+  (b) as soon as practicable after deciding to revoke a local Easter Sunday shop trading policy, make publicly available the date on which the revocation is effective.
+
+### 5C Review of local Easter Sunday shop trading policy
+(1) This section applies if a territorial authority has adopted a local Easter Sunday shop trading policy under section 5B.
+(2) The territorial authority must review the first local Easter Sunday shop trading policy adopted by the territorial authority no later than 5 years after adopting the policy.
+(3) Subsection (2) does not affect the ability of the territorial authority to review the policy, or any subsequent local Easter Sunday shop trading policy, at any other time.
+(4) A territorial authority that is reviewing a local Easter Sunday shop trading policy must use the special consultative procedure to decide whether to—
+  (a) amend the policy; or
+  (b) revoke the policy; or
+  (c) replace the policy; or
+  (d) continue the policy without amendment.
+(5) A local Easter Sunday shop trading policy that is not reviewed as required by subsection (2) is, if not earlier revoked by the territorial authority concerned, revoked on the day that is 2 years after the date by which the policy is required to be reviewed under that subsection.
+
+### 5D Delegation of power in relation to local Easter Sunday shop trading policies
+(1) A territorial authority may not delegate to a committee or other subordinate decision-making body, community board, or member or officer of the local authority the power to make a final decision whether to adopt, amend, revoke, or replace a local Easter Sunday shop trading policy, or to continue a local Easter Sunday shop trading policy without amendment following a review.
+(2) Nothing in this section restricts the power of a territorial authority to delegate to a committee or other subordinate decision-making body, community board, or member or officer of the territorial authority the power to do anything before the exercise by the territorial authority (after consultation with the committee or body or person) of the power to adopt, amend, revoke, or replace a local Easter Sunday shop trading policy, or to continue a local Easter Sunday shop trading policy without amendment following a review.
+
+### 5E Chief executive to be notified of local Easter Sunday shop trading policy
+A territorial authority must, within 10 working days after the date on which the territorial authority adopts, amends, or revokes a local Easter Sunday shop trading policy,—
+  (a) notify the chief executive of the decision to adopt, amend, or revoke the policy; and
+  (b) provide to the chief executive—
+    (i) a copy of the resolution to adopt, amend, or revoke the policy; and
+    (ii) in the case of an adoption or amendment of a policy, a copy of, or an electronic link to, the policy.
+
+### Subpart 2 — Shop employee rights
+
+### 5F Interpretation
+In this subpart, unless the context otherwise requires,—
+  - **employer** has the same meaning as in section 5 of the Employment Relations Act 2000
+  - **employment agreement** has the same meaning as in section 5 of the Employment Relations Act 2000
+  - **shop employee** means an employee within the meaning of section 6 of the Employment Relations Act 2000 who works in or from a shop.
+
+### 5G Provision requiring shop employee to work, or be available to work, on Easter Sunday unenforceable
+A provision in a shop employee’s employment agreement (including an availability provision as defined in section 67D of the Employment Relations Act 2000) that requires the shop employee to work, or to be available to accept any work that the employer makes available, on Easter Sunday is unenforceable against the shop employee.
+
+### 5H Shop employee’s right to refuse to work on Easter Sunday
+A shop employee—
+  (a) may refuse to work on Easter Sunday; and
+  (b) is not required to provide the employer with a reason for refusing to work on Easter Sunday.
+
+### 5I Employer’s obligation to notify shop employee of right to refuse to work on Easter Sunday
+(1) An employer who wants a shop employee to work on an Easter Sunday must give notice to the shop employee of his or her right to refuse to work on Easter Sunday.
+(2) A notice under subsection (1) must—
+  (a) be in writing; and
+  (b) be given,—
+    (i) in the case of a shop employee whose employment with the employer started more than 4 weeks before the relevant Easter Sunday, no earlier than 8 weeks and no later than 4 weeks before the relevant Easter Sunday; and
+    (ii) in the case of a shop employee whose employment with the employer started 4 weeks or less before the relevant Easter Sunday, as soon as is reasonably practicable after the shop employee’s employment with the employer starts; and
+  (c) be—
+    (i) delivered in person to the shop employee; or
+    (ii) sent by email to the shop employee; or
+    (iii) if a manner of giving notices is specified in the shop employee’s employment agreement, given in the manner specified.
+
+### 5J Shop employee’s obligation to notify employer of intention to refuse to work on Easter Sunday
+(1) A shop employee who intends to refuse to work on Easter Sunday must give notice to his or her employer of that intention.
+(2) A notice under subsection (1) must—
+  (a) be in writing; and
+  (b) be given,—
+    (i) in the case of a shop employee whose employment with the employer started more than 14 days before the relevant Easter Sunday, no later than 14 days after the date on which the shop employee receives a notice under section 5I; and
+    (ii) in the case of a shop employee whose employment with the employer started 14 days or less before the relevant Easter Sunday, as soon as is reasonably practicable after the shop employee receives a notice under section 5I; and
+  (c) be—
+    (i) delivered in person to the shop employee’s employer; or
+    (ii) sent by email to the shop employee’s employer; or
+    (iii) if a manner of giving notices is specified in the shop employee’s employment agreement, given in the manner specified.
+
+### 5K Employer’s obligation not to take certain actions
+(1) A shop employee’s employer, or a representative of that employer, must not—
+  (a) compel the shop employee to work on an Easter Sunday; or
+  (b) treat the shop employee adversely because the shop employee refuses to work on an Easter Sunday.
+(2) For the purposes of subsection (1)﻿(a), an employer or a representative of an employer compels a shop employee to work on an Easter Sunday if the employer or a representative of the employer—
+  (a) makes working on an Easter Sunday a condition of the employer continuing to employ the shop employee; or
+  (b) exerts undue influence on the shop employee with a view to inducing the shop employee to work on an Easter Sunday; or
+  (c) requires the shop employee to work on Easter Sunday without giving the shop employee notice under section 5I of the shop employee’s right to refuse under section 5H.
+(3) For the purposes of subsection (1)﻿(b), treat the shop employee adversely has the same meaning as treats an employee adversely in section 67F of the Employment Relations Act 2000 as if references to an employee in that section were references to the shop employee.
+
+### 5L Personal grievance
+(1) A claim by a shop employee that the shop employee’s employer, former employer, or a representative of the employer has contravened section 5K—
+  (a) is a grievance that the shop employee may have against the employer or the former employer; and
+  (b) is a personal grievance as if the claim were a claim listed in section 103(1) of the Employment Relations Act 2000.
+(2) The Employment Relations Act 2000 applies accordingly.
+
+## Part 3 — Miscellaneous matters
 
 ### 6 Shop Trading Hours Act 1977 repealed
 (1) The following enactments are hereby repealed:
@@ -85,15 +217,15 @@ Section 3(1) does not apply to a shop on Easter Sunday if it is a garden centre,
   (b) its debts, assets, liabilities, and other property shall become debts, assets, liabilities, and other property of the Minister of Labour.
 
 ### 7 Consequential protection for certain workers
-(1) In this section, and (both as part of this Act and when deemed by this section to have been inserted into any industrial document) in the provisions set out in the Schedule, unless the context otherwise requires,—
+(1) In this section, and (both as part of this Act and when deemed by this section to have been inserted into any industrial document) in the provisions set out in Schedule 1, unless the context otherwise requires,—
   - **at night** means at any time between 9 pm on any day and 7 am the next day
   - **existing document** means an industrial document applying to shop workers that, on 1 August 1990, was current or in force under the Labour Relations Act 1987
   - **industrial document** means an award or agreement within the meaning of the Labour Relations Act 1987
   - **protected day** means a day that is a Sunday, New Year's Day, the day after New Year's Day, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, Christmas Day, Boxing Day, or the day observed as anniversary day in the locality concerned
   - **protected worker** , in relation to an employer on any day, means a worker who has or had been employed by the employer (or persons whose successor the employer is) for the continuous period including all or part of that day and beginning before 1 August 1990 (whether or not the location or designation of the worker has or had changed during that period)
-  - **protective provisions** means the provisions set out in the Schedule
+  - **protective provisions** means the provisions set out in Schedule 1
   - **shop worker** means a person who is employed to work in or from any shop or shops, or whose employment at any time is dependent on any shop's being open at that time
-  - **subsequent document** , in relation to an existing document or a subsequent document, means an industrial document that is (in terms of sections 2(2) and 2(3) of the Labour Relations Act 1987) subsequent to that existing or subsequent document.
+  - **subsequent document** , in relation to an existing document or a subsequent document, means an industrial document that is (in terms of section 2(2) and (3) of the Labour Relations Act 1987) subsequent to that existing or subsequent document.
 (2) In any provision deemed by this section to have been inserted in any industrial document, the term shop, unless the context otherwise requires, has the meaning assigned to it by section 2.
 (3) After the commencement of this Act, the protective provisions shall be deemed to have been inserted into every existing document (but in such a way as to apply only to the shop workers to whom the document applies).
 (4) Subject to subsections (5) and (6), where any of the protective provisions has been deemed by this section to have been inserted into an industrial document, that provision shall be deemed to have been inserted into any subsequent document negotiated under the Labour Relations Act 1987 (but in such a way as to apply only to the shop workers to whom the subsequent document applies).
@@ -103,7 +235,7 @@ Section 3(1) does not apply to a shop on Easter Sunday if it is a garden centre,
 (6) Where any of the protective provisions has been deemed by this section to have been inserted into an industrial document, there may—be contained in a subsequent document a provision declared (in the provision itself or another provision of the document) to be the protective provision in an amended form; and in that case the protective provision concerned shall not thereafter be deemed by subsection (4) to have been inserted into the subsequent document or any further subsequent document (whether in its original form or in any amended form).
   (a) by agreement between the parties; or
   (b) as a consequence of arbitration agreed by the parties,—
-(7) To every industrial document into which any protective provisions are deemed by subsection (4) to have been inserted there shall be attached an annex, numbered in accordance with the Schedule,—
+(7) To every industrial document into which any protective provisions are deemed by subsection (4) to have been inserted there shall be attached an annex, numbered in accordance with Schedule 1,—
   (a) setting out in full—
     (i) those inserted provisions; and
     (ii) the definition in section 2 of the term shop; and
@@ -122,11 +254,7 @@ Section 3(1) does not apply to a shop on Easter Sunday if it is a garden centre,
   (c) subject to paragraphs (a) and (b), to the extent that the inserted provisions conflict with other provisions of the document, the inserted provisions shall prevail.
 
 ### 7A Further consequential protection for certain workers
-(1) An employment agreement entered into or made before, on, or after the commencement of the Shop Trading Hours Act Repeal Amendment Act 2001 must not be interpreted as requiring a person who is a shop worker in a shop to which section 4A applies to work on Easter Sunday unless the parties to the employment agreement so agree.
-(2) Subsection (1) does not apply to an employment agreement relating to a person who is a shop worker employed to work in, or from, or in relation to, any shop that, before the commencement of the Shop Trading Hours Act Repeal Amendment Act 2001, was entitled to be open on Easter Sunday under section 4.
-(3) In this section,—
-  - **employment agreement** has the same meaning as in section 5 of the Employment Relations Act 2000
-  - **shop worker** has the same meaning as in section 7(1).
+[Repealed]
 
 ### 8 Effect of certain provisions in leases, etc
 (1) No mandatory opening provision in a lease, licence, contract, covenant, or agreement, entered into or made before 12 November 1980 shall so be construed as to require the opening of any shop at any time on a Saturday, unless the shop was on 11 November 1980 entitled to be open at that time by virtue of an authority or order under section 13(2), section 15, or section 20 of the repealed Act.
@@ -135,6 +263,8 @@ Section 3(1) does not apply to a shop on Easter Sunday if it is a garden centre,
   (b) between 9 pm on any day and 7 am the next day,—
 (2A) A mandatory opening provision in a lease, licence, contract, covenant, or agreement entered into, or made before, the commencement of the Shop Trading Hours Act Repeal Amendment Act 2001 must not be interpreted as requiring a shop to which section 4A applies to open on Easter Sunday.
 (2B) Subsection (2A) does not apply to a shop that, before the commencement of the Shop Trading Hours Act Repeal Amendment Act 2001, was entitled to be open on Easter Sunday under section 4.
+(2C) A mandatory opening provision in a lease, licence, contract, covenant, or agreement that was entered into or made before the commencement of the Shop Trading Hours Amendment Act 2016 must not be interpreted as requiring a shop to which section 4B applies to open on Easter Sunday.
+(2D) Subsection (2C) does not apply to a shop that, before the commencement of the Shop Trading Hours Amendment Act 2016, was entitled to open on Easter Sunday under section 4 or 4A.
 (3) In this section, mandatory opening provision, in relation to a shop, means a provision—
   (a) requiring the shop to be open at all times when it may lawfully be open; or
   (b) requiring the shop to be open whenever required to be open by a specified person, or a person of a specified class or description; or
@@ -144,4 +274,14 @@ Section 3(1) does not apply to a shop on Easter Sunday if it is a garden centre,
 (1) Every prosecution under the repealed Act initiated by an information laid before 1 August 1990 shall proceed as if section 6 of this Act had not been enacted.
 (2) Every prosecution under section 5 initiated by an information laid before the commencement of the Shop Trading Hours Act Repeal Amendment Act 2001 must proceed as if that Act had not been enacted.
 
-## Schedule Schedule — Protective provisions
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Shop Trading Hours Amendment Act 2016
+
+### 1 Interpretation
+In this Part, 2016 Act means the Shop Trading Hours Amendment Act 2016.
+
+### 2 Prosecutions initiated before the commencement of 2016 Act
+The amendments made by the 2016 Act do not apply to prosecutions initiated under section 5 by a charge laid before the commencement of the 2016 Act.
+
+## Schedule 1 — Protective provisions
