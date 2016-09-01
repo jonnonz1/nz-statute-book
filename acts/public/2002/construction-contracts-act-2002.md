@@ -1,5 +1,5 @@
 # Construction Contracts Act 2002
-_Consolidation as at 2015-12-01_
+_Consolidation as at 2016-09-01_
 
 ### 1 Title
 This Act is the Construction Contracts Act 2002.
@@ -120,6 +120,9 @@ In this Act, unless the context otherwise requires,—
     (iv) prefabricating customised components of any building or structure, whether carried out on the construction site or elsewhere; and
     (v) site restoration, landscaping, and the provision of roadways and other access works:
   (g) the painting or decorating of the internal or external surfaces of any building or structure.
+(1A) Construction work includes—
+  (a) design or engineering work carried out in New Zealand in respect of work of the kind referred to in subsection (1)﻿(a) to (d) and (f):
+  (b) quantity surveying work carried out in New Zealand in respect of work of the kind referred to in subsection (1)﻿(a) to (g).
 (2) Despite subsection (1), construction work does not include any of the following work:
   (a) drilling for or extracting oil or natural gas:
   (b) extracting (whether by underground or surface working) minerals, including tunnelling or boring, or constructing underground works, for that purpose.
@@ -190,9 +193,12 @@ This Act does not apply to—
       (B) that are not, and do not relate to, construction work.
 
 ### 11A Application of this Act: savings provisions relating to Construction Contracts Amendment Act 2015
-The amendments made to this Act on 1 December 2015 by the Construction Contracts Amendment Act 2015 do not apply to a construction contract that was entered into before 1 December 2015, unless—
+(1) The amendments made to this Act on 1 December 2015 by the Construction Contracts Amendment Act 2015 do not apply to a construction contract that was entered into before 1 December 2015, unless—
   (a) the contract is renewed for a further term on or after 1 December 2015; or
   (b) the parties agree that the amendments will apply.
+(2) Section 6(1A) does not apply to a construction contract that was entered into before 1 September 2016 unless—
+  (a) the contract is renewed for a further term on or after 1 September 2016 (in which case that section applies only in relation to those obligations that are incurred or undertaken on or after 1 September 2016); or
+  (b) the parties agree that section 6(1A) will apply.
 
 **No contracting out**
 
