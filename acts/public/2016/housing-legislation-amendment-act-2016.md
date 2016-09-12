@@ -97,7 +97,7 @@ After section 75, insert:Applications and requests made during development of ne
 This Part amends the Housing Act 1955 (the principal Act).
 
 ### 10 Section 15 amended (Disposal of State housing land by sale or lease)
-In section 15, insert as subsections (2) and (3):
+In section 15, insert as subsections (2) to (4):
   (2) To avoid doubt, sections 40 to 42 of the Public Works Act 1981 do not apply (and have never applied) to the disposal of State housing land if the land is disposed of as 1 or more of the following:
     (a) land with dwellings and ancillary commercial buildings erected on it:
     (b) land as sites for dwellings and ancillary commercial buildings:
