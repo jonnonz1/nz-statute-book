@@ -1,5 +1,5 @@
 # Housing Accords and Special Housing Areas Act 2013
-_Consolidation as at 2015-01-08_
+_Consolidation as at 2016-09-15_
 
 ### 1 Title
 This Act is the Housing Accords and Special Housing Areas Act 2013.
@@ -12,8 +12,8 @@ This Act comes into force on 16 September 2013.
 ### Subpart 1 — Preliminary provisions
 
 ### 3 Repeal
-(1) Sections 16 and 17 are repealed on the close of 16 September 2016.
-(2) The rest of this Act is repealed on the close of 16 September 2018.
+(1) Sections 16 and 17 are repealed on the close of 16 September 2019.
+(2) The rest of this Act is repealed on the close of 16 September 2021.
 
 ### 4 Purpose
 The purpose of this Act is to enhance housing affordability by facilitating an increase in land and housing supply in certain regions or districts, listed in Schedule 1, identified as having housing supply and affordability issues.
@@ -184,6 +184,8 @@ Schedule 3 contains application, savings, and transitional provisions that affec
   (b) there is no housing accord between the Minister and the territorial authority for the district in which the proposed special housing area will fall, unless—
     (i) the territorial authority and the Minister have been parties to a housing accord and the accord has been terminated; or
     (ii) the Minister, after endeavouring to negotiate in good faith with the territorial authority in an attempt to conclude a housing accord, has been unable to reach an agreement with that territorial authority.
+(4A) For the purpose of defining the boundaries of a special housing area, an Order in Council under this section may incorporate a map, plan, or similar document prepared or issued by any person or body.
+(4B) Sections 52 to 55 of the Legislation Act 2012 apply in relation to material incorporated under subsection (4A) as if it were incorporated under section 49 of that Act.
 (5) The Minister has no obligation to recommend the making of an Order in Council under this section, even if the Minister is satisfied that all criteria for making a recommendation are met.
 (6) The chief executive must, as soon as practicable after an Order in Council is made under this section, notify each local authority in whose district or region the special housing area falls of the making of the Order in Council.
 
@@ -193,13 +195,31 @@ Schedule 3 contains application, savings, and transitional provisions that affec
 (3) An accord territorial authority may also, at any time after a special housing area is declared, recommend to the Minister that an Order in Council be made prescribing 1 or more of the criteria referred to in section 15(1) and (3) for qualifying developments in the special housing area or part of the special housing area.
 
 ### 18 Disestablishing special housing areas
-(1) Every Order in Council made under section 16 is revoked on the close of 16 September 2016, unless earlier revoked, and the special housing area declared by that order is disestablished at the same time that each order is revoked.
-(2) An Order in Council revoking an order made under section 16 may only be made before the close of 16 September 2016 on the recommendation of the Minister.
-(3) The Minister must, and may only, recommend the making of a revocation order under subsection (2) if—
-  (a) 1 or both of the following apply:
-    (i) the Minister is satisfied that the special housing area no longer meets the criteria in section 16(3):
-    (ii) the region or district that the special housing area is in ceases to be a scheduled region or district; and
-  (b) the Minister, not less than 3 months before the date on which the revocation order is to come into force, has given public notice that the special housing area is intended to be disestablished on that date.
+(1) A special housing area is disestablished,—
+  (a) if the Order in Council establishing it was notified in the Gazette on or before 15 September 2015, on 16 September 2016; or
+  (b) if the Order in Council establishing it was notified in the Gazette after 15 September 2015 but before 16 September 2016, on the expiry of 12 months from the date on which that Order was notified; or
+  (c) if the Order in Council establishing it is notified in the Gazette on or after 16 September 2016, on 16 September 2019.
+(2) However, the Governor-General may, by Order in Council made on the recommendation of the Minister (a disestablishment order), disestablish a special housing area before it is disestablished by subsection (1).
+(3) The Minister must recommend the making of a disestablishment order for a special housing area if—
+  (a) the region or district that the area is in ceases to be a scheduled region or district; or
+  (b) the Minister is satisfied that the area no longer meets the criteria in section 16(3).
+(4) The Minister may recommend the making of a disestablishment order for a special housing area if—
+  (a) 12 months have expired from the date on which the Order in Council establishing the area was notified in the Gazette; and
+  (b) no application has been made under Part 2 for a resource consent, plan change, or variation of a proposed plan in relation to the special housing area; and
+  (c) the Minister is satisfied that it is appropriate to do so having regard to the purpose of this Act.
+(5) Before recommending the making of a disestablishment order, the Minister must give public notice of the intention to disestablish the special housing area.
+(6) The notice must be given not less than 3 months before the date on which the disestablishment is proposed to occur.
+(7) The Minister must not recommend the making of a disestablishment order except under subsection (3) or (4).
+
+### 18A Amending special housing areas to excise land if no development progress
+(1) This section applies in relation to a special housing area if—
+  (a) the Order in Council establishing the area is notified in the Gazette on or after 16 September 2016; and
+  (b) 12 months have expired from the date on which that order was notified; and
+  (c) in relation to some or all of the land in the special housing area, no application has been made under Part 2 for a resource consent, plan change, or variation of a proposed plan.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister (an area reduction order), amend the Order in Council that established the special housing area to change the boundaries of the area so that some or all of the land referred to in subsection (1)﻿(c) is excised from the special housing area.
+(3) The Minister may recommend the making of an area reduction order only if the Minister is satisfied that it is appropriate to do so having regard to the purpose of this Act.
+(4) Section 16(2), (3), and (4A) to (6) applies to an area reduction order as if the references in those subsections to the proposed special housing area were references to the area that will remain in the special housing area after the area reduction order is made.
+(5) Section 16(4) does not apply to an area reduction order.
 
 ## Part 2 — Resource consents, plan changes, and variations to proposed plans relating to qualifying developments in special housing areas
 
@@ -712,6 +732,11 @@ If the authorised agency's decision is to approve the plan change or variation t
 
 ### 75 Interface between concurrent plan change or variation processes under this Act and Resource Management Act 1991
 (1) This section applies if a request for a plan change or variation to a proposed plan under this subpart (process A) relates to an area in a plan or proposed plan that is simultaneously subject to a proposed plan, plan change, or variation process in accordance with Schedule 1 of the Resource Management Act 1991 or Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010 (process B).
+(1A) However, this section does not apply if—
+  (a) process B is a proposed plan process—
+    (i) under Schedule 1 of the Resource Management Act 1991 that was commenced under clause 2 of that Schedule; or
+    (ii) under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010; and
+  (b) process B results in the proposed plan becoming operative in relation to the area before process A is completed.
 (2) From the day after the date on which a plan change or variation to a proposed plan becomes operative in relation to the area in accordance with process A, or a proposed plan, plan change, or variation to a proposed plan becomes operative in relation to the area in accordance with process B, whichever process first results in a proposed plan, plan change, or variation becoming operative (the deciding process),—
   (a) any of the following that relate to the other process must, insofar as the matters covered in them were considered and determined by the deciding process or are inconsistent with the decision made in the deciding process, be treated as having been withdrawn by the person who made the request or the submission (the submitter) or proposed the plan, plan change, or variation:
     (i) the request for a plan change or variation to the proposed plan or the part of the proposed plan, plan change, or variation that relates to the area in subsection (1); and
@@ -720,6 +745,47 @@ If the authorised agency's decision is to approve the plan change or variation t
     (i) notify the person who proposed the plan, plan change, or variation, or made the request, and each submitter affected by the operation of paragraph (a) that a proposed plan, plan change, or variation has become operative in accordance with the deciding process and specify the part of the proposed plan, plan change, or variation or the request or submission that is treated as having been withdrawn; and
     (ii) not take further action in relation to the area in subsection (1) under the other process in relation to any matter that was considered and determined as part of the deciding process.
 (3) No compensation is payable by the Crown or an authorised agency to any person for any loss or damage arising from the application of this section.
+
+### Subpart 3A — Applications and requests made during development of new plan
+
+### 75A Interpretation
+(1) In this subpart, unless the context otherwise requires,—
+  - **finally decided** has the meaning given in subsection (2)
+  - **originally notified version** of a proposed new plan, means the version of the proposed new plan that was notified under clause 5 of Schedule 1 of the Resource Management Act 1991, or under that clause 5 as applied by section 123 of the Local Government (Auckland Transitional Provisions) Act 2010
+  - **proposed new plan** means—
+    (a) the proposed Auckland combined plan; or
+    (b) any other new plan proposed by an authorised agency and notified under clause 5 of Schedule 1 of the Resource Management Act 1991 (and does not include a proposed change to an existing plan)
+  - **time-of-application version** of a proposed new plan, in relation to an application for a resource consent, means the originally notified version of the proposed new plan as amended by any amendment made to it before the application was made
+  - **time-of-request version** of a proposed new plan, in relation to a request for a plan change or variation of a proposed plan, means the originally notified version of the proposed new plan as amended by any amendment made to it before the request was made.
+(2) In this subpart, an application or request is finally decided if the authorised agency has decided the application or request and 1 of the following applies:
+  (a) there is no right of appeal or objection against the decision:
+  (b) there is a right of appeal or objection against the decision but no appeal or objection is lodged within the time allowed for doing so:
+  (c) if 1 or more appeals or objections are lodged against the decision, all of them (and any subsequent appeals) have been withdrawn or decided.
+
+### 75B Requests for plan changes and variation of proposed plan and concurrent applications
+(1) This section applies if—
+  (a) an authorised agency has notified a proposed new plan; and
+  (b) after the proposed new plan was notified, a request was made under section 61 for—
+    (i) a change to a plan that will be replaced by the new plan (if the new plan becomes operative); or
+    (ii) a variation of the proposed new plan; and
+  (c) the proposed new plan (or the part of it that is relevant to the request) becomes operative; and
+  (d) when it becomes operative, the request has not been finally decided.
+(2) However, this section does not apply if the person who made the request notifies the authorised agency in writing that the person does not want this section to apply.
+(3) The request and all concurrent applications for resource consents (and any subsequent appeals or objections) must be dealt with and decided as if—
+  (a) the request were a request for a change to an operative plan; and
+  (b) the applications were applications relating to an operative plan; and
+  (c) the time-of-request version of the proposed new plan were the relevant operative plan.
+(4) However, if the authorised agency’s decision is to approve the request, the references in section 73 to the plan or the proposed plan are taken to be references to the plan that is in fact the operative plan at the time the requested plan change or variation becomes operative.
+
+### 75C Applications for resource consents (other than concurrent applications)
+(1) This section applies if—
+  (a) an authorised agency has notified a proposed new plan; and
+  (b) after the proposed new plan was notified, an application for a resource consent was made under section 25; and
+  (c) the application is not a concurrent application made in conjunction with a request to which section 75B applies; and
+  (d) the proposed new plan (or the part of it that is relevant to the application) becomes operative; and
+  (e) when it becomes operative, the application has not been finally decided.
+(2) However, this section does not apply if the applicant for the resource consent notifies the authorised agency in writing that the applicant does not want this section to apply.
+(3) The application (and any subsequent appeals or objections) must be dealt with and determined as if the time-of-application version of the proposed new plan were the relevant operative plan.
 
 ### Subpart 4 — Other provisions of Resource Management Act 1991 that apply in relation to applications, etc, under subparts 2 and 3
 
