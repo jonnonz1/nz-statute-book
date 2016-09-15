@@ -1,5 +1,5 @@
 # Housing Act 1955
-_Consolidation as at 2016-02-25_
+_Consolidation as at 2016-09-15_
 
 > An Act to consolidate and amend the Housing Act 1919 and certain other enactments of the Parliament of New Zealand relating to State housing
 
@@ -86,7 +86,16 @@ The Corporation may from time to time, upon such terms as it thinks fit, acquire
 **Disposal of State housing land**
 
 ### 15 Disposal of State housing land by sale or lease
-Subject as hereafter provided in this Act, any State housing land and any buildings or chattels held for State housing purposes may be disposed of by way of sale, lease, or tenancy by the Corporation.
+(1) Subject as hereafter provided in this Act, any State housing land and any buildings or chattels held for State housing purposes may be disposed of by way of sale, lease, or tenancy by the Corporation.
+(2) To avoid doubt, sections 40 to 42 of the Public Works Act 1981 do not apply (and have never applied) to the disposal of State housing land if the land is disposed of as 1 or more of the following:
+  (a) land with dwellings and ancillary commercial buildings erected on it:
+  (b) land as sites for dwellings and ancillary commercial buildings:
+  (c) land for schemes of development and subdivision into sites for dwellings and ancillary commercial buildings:
+  (d) land for motorways, roads, streets, access ways, service lanes, reserves, pumping stations, drainage and water works, river and flood protection works, and other works that are either or both of the following:
+    (i) for the benefit of State housing land or occupiers of that land:
+    (ii) on, or for the benefit of, land referred to in paragraphs (a) to (c) or occupiers of that land.
+(3) Subsection (2) does not affect any right of first refusal that a person or group of persons has in relation to the land under any Treaty of Waitangi claims settlement or collective redress Act or deed.
+(4) Subsections (2) and (3) and this subsection are repealed on 15 September 2026.
 
 ### 16 Sale of State housing land
 (1) Subject to any direction of the Minister, any State housing land may be sold for cash or under an agreement for sale in such manner, at such price, and on such terms and conditions as the Corporation thinks fit.
