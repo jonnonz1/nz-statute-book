@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2016-07-01_
+_Consolidation as at 2016-09-29_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -11982,7 +11982,7 @@ First amount for purposes of subsection (1)
   (b) section EE 44(2) of the Income Tax Act 2004:
   (c) section EG 19(5) of the Income Tax Act 1994:
   (d) the provision described in section EZ 22(4) (Base value and total deductions in section EE 56: before 1 April 1995).
-Treatment of assets not available for use
+Second amount for purposes of subsection (1)
 (3) The amount is all deductions for amounts of depreciation loss, calculated using the method described in subsection (4), that, in the period described in subsection (5),—
   (a) the person was allowed for the item and,—
     (i) if the item is a patent, for the patent application in relation to which the item was granted:
@@ -43996,15 +43996,15 @@ expenditure related to the acquisition of land
 ## Schedule 34 — Community housing trusts and companies: income and assets of beneficiaries and clients
 
 ### 1 Income threshold
-(1) The threshold income for an applicant who is not a member of a group of applicants is $80,000.
-(2) The threshold income for the members of a group of applicants is $120,000 in total for the group.
+(1) The threshold income for an applicant who is not a member of a group of applicants is $85,000.
+(2) The threshold income for the members of a group of applicants is $130,000 in total for the group.
 
 ### 2 Threshold asset value
 (1) There is no threshold asset value for an applicant who has not been a land owner before applying for assistance from the entity in a proposed purchase.
 (2) The threshold asset value for an applicant who has been a land owner before applying for assistance from the entity in a proposed purchase is—
-  (a) $110,000, if the proposed purchase is of an estate in land in Auckland:
-  (b) $90,000, if the proposed purchase is of an estate in land in Hamilton City, Tauranga City, Western Bay of Plenty District, Kapiti Coast District, Porirua City, Upper Hutt City, Hutt City, Wellington City, Nelson City, Tasman District, Waimakariri District, Christchurch City, Selwyn District, or Queenstown Lakes District:
-  (c) $70,000, if the proposed purchase is of an estate in land in a geographical area of New Zealand not listed in paragraphs (a) and (b).
+  (a) $120,000, if the proposed purchase is of an estate in land in Auckland:
+  (b) $100,000, if the proposed purchase is of an estate in land in Hamilton City, Tauranga City, Western Bay of Plenty District, Kapiti Coast District, Porirua City, Upper Hutt City, Hutt City, Wellington City, Nelson City, Tasman District, Waimakariri District, Christchurch City, Selwyn District, or Queenstown Lakes District:
+  (c) $80,000, if the proposed purchase is of an estate in land in a geographical area of New Zealand not listed in paragraphs (a) and (b).
 
 ### 3 Meaning of terms
 In this schedule,—
