@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-09-29_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -1495,7 +1495,7 @@ No compensation is payable by the Crown to any person for any loss or damage ari
 (2) To avoid any doubt, subsection (1) does not limit the application of any of sections 75, 76, 79, and 84 to any matter concerning, or arising out of, the commission, investigation, or prosecution of an offence against section 96B.
 
 ### 96J Expiry of Part
-(1) This Part expires on the close of 30 September 2016.
+(1) This Part expires on the close of 30 September 2020.
 (2) The Governor-General may, by Order in Council, before the date specified in subsection (1), on the recommendation of the Minister, specify a later date in substitution for that date.
 (3) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
