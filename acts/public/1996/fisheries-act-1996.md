@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2016-05-01_
+_Consolidation as at 2016-10-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -6184,15 +6184,15 @@ All positions and directions described in this schedule are based on a geographi
 | Bigeye tuna (Thunnus obesus) | All quota management areas |
 | --- | --- |
 | Blue shark (Prionace glauca) | All quota management areas |
-| Freshwater eel | ANG11 to ANG16 |
+| Freshwater eel | ANG13 |
 | Green-lipped mussel (Perna canaliculus) | GLM7A and GLM9 |
-| Long-finned freshwater eel (Anguilla dieffenbachii) | LFE20, LFE21, LFE22, LFE23 |
+| Long-finned freshwater eel (Anguilla dieffenbachii) | LFE11, LFE12, LFE14, LFE15, LFE16, LFE20, LFE21, LFE22, LFE23 |
 | Mako shark (Isurus oxyrinchus) | All quota management areas |
 | Moonfish (Lampris guttatus) | All quota management areas |
 | Pacific bluefin tuna (Thunnus orientalis) | All quota management areas |
 | Porbeagle shark (Lamna nasus) | All quota management areas |
 | Ray's bream (Brama brama) | All quota management areas |
-| Short-finned freshwater eel (Anguilla australis and Anguilla reinhardtii) | SFE20, SFE21, SFE22, SFE23 |
+| Short-finned freshwater eel (Anguilla australis and Anguilla reinhardtii) | SFE11, SFE12, SFE14, SFE15, SFE16, SFE20, SFE21, SFE22, SFE23 |
 | Southern bluefin tuna (Thunnus maccoyii) | All quota management areas |
 | Southern scallops (Pecten novaezelandiae) | Southern scallop fishery |
 | Squid (Nototodarus sloani; Nototodarus gouldi) | All quota management areas |
@@ -6345,12 +6345,7 @@ All positions and directions described in this schedule are based on a geographi
 
 | Stock | Minimum holding (tonnes) |
 | --- | --- |
-| ANG11 | 4 |
-| ANG12 | 4 |
 | ANG13 | 4 |
-| ANG14 | 4 |
-| ANG15 | 4 |
-| ANG16 | 4 |
 | CRA1 | 3 |
 | CRA2 | 3 |
 | CRA3 | 3 |
@@ -6361,6 +6356,11 @@ All positions and directions described in this schedule are based on a geographi
 | CRA8 | 3 |
 | CRA9 | 3 |
 | CRA10 | 3 |
+| LFE11 | 2 |
+| LFE12 | 2 |
+| LFE14 | 2 |
+| LFE15 | 2 |
+| LFE16 | 2 |
 | OYS7 | 3 |
 | PAU1 | 1 |
 | PAU2 | 1 |
@@ -6375,6 +6375,11 @@ All positions and directions described in this schedule are based on a geographi
 | PAU10 | 1 |
 | SCA1 | 3 |
 | SCA7 | 3 |
+| SFE11 | 2 |
+| SFE12 | 2 |
+| SFE14 | 2 |
+| SFE15 | 2 |
+| SFE16 | 2 |
 
 | Stock | Minimumholding(oysters) |
 | --- | --- |
