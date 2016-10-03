@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-10-03_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -603,7 +603,9 @@ A licence issued under section 8 of the Gaming and Lotteries Act 1977 (except fo
 ### 30 Meaning of class 4 gambling
 In this Act, class 4 gambling is gambling that satisfies the following criteria:
   (a) the net proceeds from the gambling are applied to, or distributed for, authorised purposes; and
-  (b) no commission is paid to, or received by, a person for conducting the gambling; and
+  (b) either—
+    (i) no commission is paid to or received by a person for conducting the gambling; or
+    (ii) the only commission that is paid to or received by a person for conducting the gambling is a commission payment to a venue operator that complies with regulations made under section 371(1)﻿(dd); and
   (c) there are game rules for the gambling; and
   (d) the gambling, and the conduct of the gambling, satisfies relevant game rules; and
   (e) either—
@@ -1209,7 +1211,7 @@ A class 4 operator’s licence is not transferable.
   (a) a schedule signed by the venue manager and the venue operator setting out—
     (i) the full name, date of birth, and contact details of the venue manager; and
     (ii) the gambling-related duties and responsibilities of the venue manager; and
-  (b) an itemised list of costs associated with the operation of class 4 gambling at the venue; and
+  (b) the payments to be made by the holder of the class 4 venue licence to the venue operator, which must be payments that comply with regulations made under section 371(1)﻿(dd) or, if no such regulations are in force, payments in respect of an itemised list of costs associated with the operation of class 4 gambling at the venue; and
   (c) the expiry date of the venue agreement.
 (2) A class 4 venue agreement must be signed by the holder of, or applicant for, the class 4 venue licence and the venue operator.
 (3) The expiry date of a class 4 venue agreement may be overridden by anything to the contrary in this Act, game rules, minimum standards, or licence conditions but, in any case, must not be later than 3 years after the date of the venue agreement.
@@ -1715,6 +1717,7 @@ On request from a territorial authority, the Secretary must provide—
 (1) An annual report must include—
   (a) an itemised statement of the application or distribution of net proceeds from class 4 gambling to or for authorised purposes; and
   (b) financial statements prepared in accordance with generally accepted accounting practice.
+(1A) The financial statements included in the annual report must comply with regulations made under section 371(1)﻿(dc).
 (2) In this section,—
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013.
@@ -1748,14 +1751,40 @@ A corporate society that mainly or wholly distributes net proceeds to the commun
   (a) details of where to obtain an application form for a grant, who will consider applications, and the criteria against which they will be considered; and
   (b) the names of the persons who hold office in the corporate society and a brief summary of their background; and
   (c) the process that the corporate society follows for dealing with complaints regarding distribution of net proceeds.
-(4) A corporate society must publish at least annually, or more frequently if specified in regulations made under section 114,—
-  (a) details of all applications received from persons or groups in the community for grants of net proceeds from class 4 gambling during that year and whether the applications have been accepted or declined; and
-  (b) the amount of net proceeds from class 4 gambling granted, if any, in each case; and
-  (c) the results of the corporate society’s annual review of the criteria, methods, systems, and policies it uses for considering the distribution of net proceeds from class 4 gambling.
+(4) A corporate society must publish at least annually, or at any shorter intervals specified by regulations, a statement that discloses the following matters:
+  (a) details of all applications received from applicants during the reporting period:
+  (b) details disclosing, for each application that has been determined during the reporting period,—
+    (i) whether it has been accepted in full or declined in full:
+    (ii) whether it has been accepted in part and declined in part:
+    (iii) if it has been declined in full or in part, the reasons for that decision:
+  (c) every amount of net proceeds from class 4 gambling distributed in the reporting period and the applicant to whom that amount relates:
+  (d) any interest that any member of a corporate society's net proceeds committee has in any applicant who is a recipient of a grant that—
+    (i) has been made by that committee; and
+    (ii) is required to be disclosed under paragraph (c):
+  (e) the results of the corporate society’s annual review of the criteria, methods, systems, and policies it uses for considering the distribution of net proceeds from class 4 gambling:
+  (f) any other matters prescribed by regulations.
+(4A) For the purposes of subsection (4)﻿(d), a member of a corporate society's net proceeds committee has an interest in a recipient of a grant (a recipient) if—
+  (a) the member may derive a financial benefit from the grant or may have a financial interest in the recipient; or
+  (b) the member is a part of the immediate family of the recipient; or
+  (c) where the recipient is an organisation, club, society, or association, the member is—
+    (i) an officer or a member of the recipient; or
+    (ii) a part of the immediate family of an officer or a member of the recipient; or
+  (d) the member is, or has been, the recipient's lawyer or is under a professional obligation to the recipient in another professional capacity; or
+  (e) the member is, or has been, employed by the recipient, or is, or has been, indebted to the recipient, or is, or has been, involved in business or financial dealings with the recipient; or
+  (f) the member is otherwise connected or involved with the recipient in a way that can reasonably be perceived as having influenced the decision to make the grant to the recipient.
+(4B) A corporate society must, in accordance with the regulations, provide the Secretary with an electronic version of every statement published under subsection (4).
 (5) A corporate society that fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
-(6) For the purposes of this section, publish means—
-  (a) publish in at least 1 newspaper; and
-  (b) as specified by regulations made under section 114.
+(6) In this section,—
+  - **applicant** means persons or groups who have applied to the corporate society for grants of net proceeds from class 4 gambling
+  - **net proceeds committee** means a committee established under the regulations to make decisions on the application or distribution of net proceeds to or for an authorised purpose specified in the licence
+  - **part of the immediate family** , in relation to an officer or a member of a corporate society's net proceeds committee, means a person—
+    (a) who is the member's—
+      (i) spouse, civil union partner, or de facto partner; or
+      (ii) parent, child, sister, or brother; or
+    (b) who is the parent, child, sister, or brother of the member’s spouse, civil union partner, or de facto partner
+  - **publish** means to publish in accordance with the regulations
+  - **regulations** means regulations made under section 114
+  - **reporting period** , in relation to a statement of any kind required to be published under subsection (4), means the period prescribed by the regulations for a statement of that kind.
 
 ### 111 Application or distribution of net proceeds when corporate society ceases class 4 gambling
 (1) A corporate society that has not operated class 4 gambling for a period of more than 4 weeks must, unless it has notified the Secretary and the Secretary has agreed that it may remain inactive for a further specified period,—
@@ -1820,6 +1849,7 @@ A corporate society that mainly or wholly distributes net proceeds to the commun
 
 ### 115 Payment of commission prohibited
 (1) The payment of, or receipt of, commission by any person for conducting class 4 gambling is prohibited.
+(1A) Subsection (1) does not apply to commission payments made to a venue operator if the payment complies with regulations made under section 371(1)﻿(dd).
 (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 115A Duty on grant recipients
@@ -1828,25 +1858,22 @@ A corporate society that mainly or wholly distributes net proceeds to the commun
   (b) in accordance with any conditions consistent with this Act attaching to the grant.
 (2) A grant recipient who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
-### 116 Secretary may limit or exclude costs of corporate society
+### 116 Secretary may limit or exclude operating costs of corporate society
 (1) The Secretary may, by notice in the Gazette,—
-  (a) set limits on, or exclude, the costs that may be incurred by a corporate society that conducts class 4 gambling:
+  (a) set limits on, or exclude, the operating costs that may be incurred by a corporate society that conducts class 4 gambling:
   (b) set the rates of depreciation for gambling assets acquired by a corporate society in respect of class 4 gambling.
-(2) The costs that may be limited or excluded by the Secretary include the following:
-  (a) costs associated with the class 4 venue, including salary or wages paid to a key person or another person for work associated with class 4 gambling at the venue, whether or not they are costs identified in the class 4 venue agreement:
-  (b) costs associated with repairing and maintaining gambling equipment:
-  (c) costs of operating the corporate society, including fees, salary, expenses, or other payments to a key person or another person involved in operating the corporate society.
-(3) A notice under subsection (1) may apply—
-  (a) to specified licence holders or classes of licence holder; or
-  (b) in respect of specified venues or classes of venue; or
-  (c) in respect of specified gambling equipment or classes of gambling equipment; or
-  (d) in respect of specified games or classes of games.
-(4) A limit may be expressed in any way that the Secretary considers appropriate, including the following:
+(2) A notice under subsection (1) may apply to specified licence holders or to classes of licence holder.
+(3) A limit may be expressed in any way that the Secretary considers appropriate, for example,—
   (a) as a specific amount:
   (b) as a percentage:
   (c) as an amount for each gaming machine.
-(5) A contract or other arrangement or obligation entered into by a corporate society, whether before or after the passage of this Act, that does not comply with limits set under subsection (1) is an illegal contract for the purposes of the Illegal Contracts Act 1970.
-(6) A notice given under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) A contract or other arrangement or obligation entered into by a corporate society, whether before or after the enactment of this Act, that does not comply with limits set under subsection (1) is an illegal contract for the purposes of the Illegal Contracts Act 1970.
+(5) A notice given under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) In this section, operating costs—
+  (a) includes the following:
+    (i) costs of operating the corporate society, including fees, salary, expenses, or any other payments to a key person, to a management services provider, or to another person involved in operating the corporate society:
+    (ii) costs associated with repairing and maintaining gambling equipment; but
+  (b) does not include any payment made to a venue operator.
 
 ### 117 Secretary may investigate and audit licensees, grant recipients, management services providers, and businesses at class 4 venues
 (1) The Secretary may, to the extent that is necessary to determine compliance with this Act, investigate and audit the generation, application, and distribution of the proceeds from class 4 gambling, which may include—
