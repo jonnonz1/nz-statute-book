@@ -1,5 +1,5 @@
 # Gambling Amendment Act (No 2) 2015
-_Consolidation as at 2015-10-20_
+_Consolidation as at 2016-10-03_
 
 ### 1 Title
 This Act is the Gambling Amendment Act (No 2) 2015.
