@@ -1,5 +1,5 @@
 # Environment Canterbury (Temporary Commissioners and Improved Water Management) Act 2010
-_Consolidation as at 2016-05-10_
+_Consolidation as at 2016-10-14_
 
 ### 1 Title
 This Act is the Environment Canterbury (Temporary Commissioners and Improved Water Management) Act 2010.
