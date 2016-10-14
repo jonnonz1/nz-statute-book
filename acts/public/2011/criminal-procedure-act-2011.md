@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-10-14_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -2043,6 +2043,7 @@ For the purposes of this subpart, publication means publication in the context o
 (2) Nothing in sections 200 to 205 prevents publication of the name, address, or occupation of any person, or any details of the offences charged to—
   (a) any person assisting with the administration of the sentence imposed on the person or with the rehabilitation of the person; or
   (b) any Police employee, or any officer or employee of the Department of Corrections or of the Ministry of Justice, who requires the information for the purposes of his or her official duties; or
+  (ba) any specified agency, corresponding Registrar, corresponding overseas agency, or affected person within the meaning of the Child Protection (Child Sex Offender Government Agency Registration) Act 2016 in accordance with sections 43 to 45 of that Act; or
   (c) any person who is conducting or proposing to conduct a public prosecution against the person for an offence, and who requires the information for the purposes of—
     (i) deciding whether or not to commence proceedings; or
     (ii) conducting that public prosecution.
@@ -3077,6 +3078,13 @@ No sentence may be suspended just because a person files a notice of appeal or n
   (a) the appeal is dismissed or abandoned; or
   (b) leave to appeal is refused; or
   (c) the appeal is decided, if neither the non-association order nor the conviction on which it was imposed is set aside.
+
+### 348A How appeal affects registration orders
+(1) On a conviction to which an appeal relates where the court appealed from made a registration order under section 9 of the Child Protection (Child Sex Offender Government Agency Registration) Act 2016 in respect of the convicted person, the reporting period ceases to run on the day on which notice of appeal or of application for leave to appeal is filed.
+(2) The reporting period resumes from the date on which—
+  (a) the appeal is dismissed or abandoned; or
+  (b) leave to appeal is refused; or
+  (c) the appeal is decided, if neither the registration order nor the conviction on which it was imposed is set aside.
 
 ### 349 Fine recovery not to be enforced pending contempt appeal
 (1) This section applies if a person is fined for criminal contempt of court and has a right of appeal under subpart 5 against the finding of contempt.
