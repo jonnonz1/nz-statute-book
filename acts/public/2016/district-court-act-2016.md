@@ -1054,7 +1054,7 @@ A judgment or an order for the delivery of specific chattels may be enforced, by
   (b) in the case of a judgment or an order made by a court,—
     (i) the judgment or order records that the parties have agreed to enforce the payment of money specified in the judgment or order by way of an attachment order made under this Act; and
     (ii) subsection (3) is complied with.
-(3) The subsection is complied with if—
+(3) This subsection is complied with if—
   (a) the judgment or order was given or made at or following a hearing at which both parties were present; and
   (b) the party ordered to pay money consented to the payment of the money being enforced by way of an attachment order; and
   (c) both parties agreed on the terms of the attachment order, including the details specified in section 156; and
@@ -1930,7 +1930,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 (3) Any person may have access to any Ministry of Justice information to the extent provided by, and in accordance with, the Official Information Act 1982, the Privacy Act 1993, the Public Records Act 2005, or any other enactment providing for or regulating access to the information.
 (4) In this section, court information, judicial information, and Ministry of Justice information mean the information described as such in Schedule 1.
 
-### 237 Sharing of permitted information with other departments
+### 237 Sharing of permitted information with other agencies
 (1) This section applies to permitted information specified in Part B of the items relating to court information in Schedule 1, regardless of whether the information is controlled by the judiciary.
 (2) In response to a request from an agency for information to which this section applies, the Ministry of Justice may, by way of an approved information sharing agreement under the Privacy Act 1993, share any permitted information with the agency.
 (3) The Ministry of Justice holds permitted information solely for the purpose of entering into approved information sharing agreements under the Privacy Act 1993, and that information is not otherwise subject to the Privacy Act 1993 and is not subject to the Official Information Act 1982 or the Public Records Act 2005.
@@ -2013,7 +2013,7 @@ Repeal the Long Title.
 After section 1, insert:Purpose
   The purpose of this Act is to—
     (a) establish a Family Court as a division of the District Court; and
-    (b) provide for the consultation, jurisdiction, powers, and procedures of the Family Court.
+    (b) provide for the constitution, jurisdiction, powers, and procedures of the Family Court.
 
 **Family Courts Rules 2002 renamed and amended**
 
