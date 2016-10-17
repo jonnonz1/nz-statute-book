@@ -43,7 +43,7 @@ After Schedule 10, insert the Schedule 11 set out in the Schedule of this Act.
 
 ### 9 Amendments to Crown Entities Act 2004
 (1) This section amends the Crown Entities Act 2004.
-(2) In the heading to section 177, replace Judicature Act 1908 with Senior Courts Act 2016.
+(2) In the heading to section 177, replace Judicature Act 1908 with Companies Act 1993.
 (3) In section 177, replace sections 17A to 17E of the Judicature Act 1908 apply with section 240B of the Companies Act 1993 applies.
 
 ### 10 Amendments to Customs and Excise Act 1996
