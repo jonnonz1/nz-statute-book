@@ -1405,7 +1405,7 @@ A Judge or Registrar of a senior court may, subject to any terms or conditions t
 (3) Any person may have access to any Ministry of Justice information to the extent provided by, and in accordance with, the Official Information Act 1982, the Privacy Act 1993, the Public Records Act 2005, or any other enactment providing for or regulating access to the information.
 (4) In this section, court information, judicial information, and Ministry of Justice information mean the documents and information described as such in Schedule 2.
 
-### 174 Sharing of permitted information with other departments
+### 174 Sharing of permitted information with other agencies
 (1) This section applies to permitted information specified in Part B of the items relating to court information in Schedule 2, regardless of whether the information is controlled by the judiciary.
 (2) In response to a request from an agency for information to which this section applies, the Ministry of Justice may, by way of an approved information sharing agreement under the Privacy Act 1993, share any permitted information with the agency.
 (3) The Ministry of Justice holds permitted information solely for the purpose of entering into approved information sharing agreements under the Privacy Act 1993, and that information is not otherwise subject to the Privacy Act 1993 and is not subject to the Official Information Act 1982 or the Public Records Act 2005.
