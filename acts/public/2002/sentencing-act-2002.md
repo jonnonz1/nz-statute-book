@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -2630,7 +2630,7 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
   (a) a ground stated in subsection (1)﻿(a), (d), or (h) applies; or
   (b) another ground stated in that subsection applies to the appellant and to every other person who is treated as a substitute for the offender.
 (6) For the purposes of subsection (1),—
-  (a) if the order was made in a District Court, the appeal must be brought in the High Court in accordance with the High Court Rules:
+  (a) if the order was made in a District Court, the appeal must be brought in the High Court in accordance with the High Court Rules 2016:
   (b) if the order was made in the High Court, the appeal must be brought in the Court of Appeal in accordance with the rules of court governing civil appeals to that court.
 
 ### 129EA Appeal against confiscation by third party
@@ -2642,7 +2642,7 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 (4) The right of appeal under subsection (1) is independent of the offender's right of appeal against conviction and sentence for the relevant offence or offences.
 (5) The court must set aside the confiscation of the motor vehicle if satisfied that the ground of appeal stated in subsection (1) applies.
 (6) For the purposes of subsection (1),—
-  (a) if the order was made in a District Court, the appeal must be brought in the High Court in accordance with the High Court Rules:
+  (a) if the order was made in a District Court, the appeal must be brought in the High Court in accordance with the High Court Rules 2016:
   (b) if the order was made in the High Court, the appeal must be brought in the Court of Appeal in accordance with the rules of court governing civil appeals to that court.
 
 ### 129F Warning notice to secured parties if confiscation not ordered for second illegal street racing offence
@@ -2791,7 +2791,7 @@ If, under section 129A or 136(4), the court orders a motor vehicle to be confisc
 ### 139 Procedure if notice given that vehicle subject to security agreement
 (1) If notice is given to the Registrar before the proceeds of sale are fully applied under section 137 that the confiscated motor vehicle is subject to a security agreement and the claim is not established to the Registrar's satisfaction, the Registrar must issue a summons calling before the court the party making the claim.
 (2) The following provisions apply to every summons issued under subsection (1) so far as they are applicable and with the necessary modifications:
-  (a) the provisions of the High Court Rules relating to interpleader by an officer executing a writ or other order; or
+  (a) the provisions of the High Court Rules 2016 relating to interpleader by an officer executing a writ or other order; or
   (b) as the case may require, section 94 of the District Courts Act 1947.
 
 ### 140 Lessor may apply to Registrar
