@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-10-18_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -1692,7 +1692,7 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
 
 ### 69 Appeal to High Court on question of law
 (1) Every party to an appeal under section 66 may appeal to the High Court on a question of law.
-(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 
 ### 70 Further appeal to Court of Appeal
 (1) Every party to an appeal under section 69 may, with the leave of the High Court or (if that leave is declined) with special leave of the Court of Appeal, appeal to the Court of Appeal on that question of law.
