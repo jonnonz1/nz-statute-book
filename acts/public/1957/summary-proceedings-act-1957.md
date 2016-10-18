@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2016-10-18_
 
 > Title
 
@@ -530,7 +530,7 @@ Where a document is served on any person who is a Maori within the meaning of Te
   (c) grant a hearing or rehearing of the matter, and proceed with the hearing or rehearing immediately if both parties agree, or set it down for a later date:
   (d) set aside or modify the order:
   (e) make any other order as to costs or otherwise that the Judge or Registrar considers appropriate in the circumstances.
-(3) If a Registrar considering an application under subsection (1)﻿(a) is satisfied that any of subparagraphs (i) or (iv) to (vii) of subsection (1)﻿(a) applies, the Registrar must not exercise the power conferred by subsection (2)﻿(a) or (b) except with the consent of the informant.
+(3) If a Registrar considering an application under subsection (1)﻿(a) is satisfied that any of subparagraphs (i) or (iv) to (vii) of subsection (1)﻿(a) apply, the Registrar must not exercise the power conferred by subsection (2)﻿(a) or (b) except with the consent of the informant.
 (4) A Registrar may not exercise the power conferred by subsection (2)﻿(d) except where the application is made under subsection (1)﻿(a)﻿(viii) or (1)﻿(b).
 (4A) A Judge or Registrar must deal with an application under subsection (1) on the papers unless the Judge or Registrar considers that a hearing is necessary.
 (4B) While an application under subsection (1) is pending,—
@@ -1126,7 +1126,7 @@ If a defendant is arrested under a warrant for arrest issued for the purpose of 
 (3) The Registrar may take steps, under section 66 of the District Courts Act 1947, to have the order deemed to have been made under subsection (1) removed into the High Court.
 (4) Action to enforce the order deemed to have been made under subsection (1) must be taken—
   (a) under the District Courts Act 1947 and the District Courts Rules 2009 unless that order is removed into the High Court; or
-  (b) under the High Court Rules if that order is removed into the High Court.
+  (b) under the High Court Rules 2016 if that order is removed into the High Court.
 
 ### 88B Remission of fine
 (1) The Registrar may make an order remitting an amount of reparation if—
