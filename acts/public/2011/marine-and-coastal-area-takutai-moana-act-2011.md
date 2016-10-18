@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2016-10-18_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -152,7 +152,6 @@ To avoid doubt, this Act does not affect—
     (a) in the case of a recognition order made under section 98, the date on which the order is sealed under section 113; and
     (b) in the case of an agreement entered into under section 95, the date on which the agreement is brought into effect under section 96(1)
   - **environment** has the meaning given in section 2(1) of the Resource Management Act 1991
-  - **High Court Rules** has the same meaning as in the Judicature Act 1908
   - **infrastructure** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **kaitiakitanga** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
@@ -1328,7 +1327,7 @@ The responsible Minister must, without delay, provide a copy of any agreement re
 ### 99 Court may refer to Māori Appellate Court or pūkenga for opinion or advice on tikanga
 (1) If an application for a recognition order raises a question of tikanga, the court may—
   (a) refer that question in accordance with section 61 of Te Ture Whenua Maori Act 1993 to the Māori Appellate Court for its opinion; or
-  (b) obtain the advice of a court expert (a pūkenga) appointed in accordance with the High Court Rules who has knowledge and experience of tikanga.
+  (b) obtain the advice of a court expert (a pūkenga) appointed in accordance with the High Court Rules 2016 who has knowledge and experience of tikanga.
 (2) The opinion of the Māori Appellate Court is binding on the Court but the advice of a pūkenga is not.
 
 **Application for recognition order**
@@ -1592,7 +1591,7 @@ The register is a public register within the meaning of section 58 of the Privac
 (2) The High Court must treat applications transferred under subsection (1) as if they were applications made under subpart 2 for orders recognising protected customary rights.
 (3) The High Court—
   (a) must give priority to applications transferred under this section ahead of any applications made under subpart 2:
-  (b) may deem any of the steps that are required for a proceeding under the High Court Rules to have been met by the applications transferred under this section:
+  (b) may deem any of the steps that are required for a proceeding under the High Court Rules 2016 to have been met by the applications transferred under this section:
   (c) may give directions to applicants to take such steps that, in the opinion of the High Court, are necessary to enable the proceedings to be completed.
 (4) An application made under section 33 of the Foreshore and Seabed Act 2004 for a finding that a group would have held territorial customary rights is to be treated by the High Court as an application under subpart 2 for an order recognising customary marine title.
 
