@@ -1,5 +1,5 @@
 # Public Safety (Public Protection Orders) Act 2014
-_Consolidation as at 2015-11-18_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Public Safety (Public Protection Orders) Act 2014.
@@ -930,7 +930,7 @@ The following applications must be made by originating application:
   (b) copies of any affidavits accompanying the application; and
   (c) a copy of any health assessor's report to be provided to the court; and
   (d) a notice setting out the respondent's rights and the procedures relating to the application.
-(2) The service must comply with the High Court Rules governing personal service.
+(2) The service must comply with the High Court Rules 2016 governing personal service.
 
 ### 106 Respondent who fails to appear may be brought to court
 (1) If a respondent who has been duly summoned to attend a hearing fails to appear at the hearing, the Judge may issue a warrant for the respondent to be detained and brought before the court.
