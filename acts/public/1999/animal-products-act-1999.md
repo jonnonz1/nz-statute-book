@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2016-07-01_
+_Consolidation as at 2016-10-18_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -2280,7 +2280,7 @@ After considering an application for a compliance order, the court may—
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (1) A party to proceedings in which there is made a decision to which subsection (1AA) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
-(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 (3)
 
 ### 155 Appeals to Court of Appeal or Supreme Court
