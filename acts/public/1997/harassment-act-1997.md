@@ -1,5 +1,5 @@
 # Harassment Act 1997
-_Consolidation as at 2015-07-03_
+_Consolidation as at 2016-10-18_
 
 > An Act to provide criminal and civil remedies in respect of harassment
 
@@ -327,7 +327,7 @@ In any proceedings under this Act (other than criminal proceedings), and whether
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (1) A party to proceedings in which there is made a decision to which subsection (1AA) applies may appeal to the High Court against the decision.
-(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 (3) On the ex parte application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (3A) Subsection (3) overrides subsection (2).
 (4)
