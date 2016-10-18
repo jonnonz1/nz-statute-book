@@ -1,5 +1,5 @@
 # Inquiries Act 2013
-_Consolidation as at 2013-08-26_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Inquiries Act 2013.
@@ -93,7 +93,7 @@ This Act binds the Crown.
   (c) the inquiry may be terminated,—
     (i) in the case of a public inquiry, by the Governor-General by Order in Council; or
     (ii) in the case of a government inquiry, by the appointing Minister, by notice in the Gazette.
-(3) The power under subsection (2)(a) or (b) must not be exercised if to do so would be contrary to the principles of natural justice.
+(3) The power under subsection (2)﻿(a) or (b) must not be exercised if to do so would be contrary to the principles of natural justice.
 
 ## Part 3 — Duties, powers, immunities, and privileges
 
@@ -235,7 +235,7 @@ An inquiry may delegate in writing to an officer of the inquiry the powers of th
 (1) An inquiry—
   (a) may, on its own initiative or on the application of another person, order any person to disclose to any person participating in the inquiry any specified document, information, or thing that the person has produced before the inquiry; but
   (b) must not make orders for general discovery.
-(2) An order given under subsection (1)(a) may impose appropriate terms and conditions in relation to—
+(2) An order given under subsection (1)﻿(a) may impose appropriate terms and conditions in relation to—
   (a) any disclosure required under that subsection; and
   (b) the use that may be made of the information, documents, or things required to be disclosed.
 
@@ -249,7 +249,7 @@ An inquiry may delegate in writing to an officer of the inquiry the powers of th
 
 ### 24 Service of summons to witnesses
 (1) Unless a witness has consented to service by another means, a summons must be served personally on that witness by delivering a sealed copy of the summons to the witness not later than 24 hours before the witness must attend the inquiry.
-(2) Despite subsection (1), an inquiry may direct substituted service in accordance with the High Court Rules.
+(2) Despite subsection (1), an inquiry may direct substituted service in accordance with the High Court Rules 2016.
 
 ### 25 Expenses of witnesses and other participants
 (1) Persons summoned to attend an inquiry as witnesses are entitled to be paid for their reasonable costs and travelling expenses, at the level determined by the inquiry.
@@ -304,7 +304,7 @@ An inquiry may delegate in writing to an officer of the inquiry the powers of th
   (g) prevents a witness from giving evidence or threatens or seeks to influence a witness before an inquiry:
   (h) provides false or misleading information to an inquiry:
   (i) threatens or intimidates an inquiry, a member of an inquiry, or an officer of an inquiry.
-(2) However, a person does not commit an offence under subsection (1)(a) to (e) if—
+(2) However, a person does not commit an offence under subsection (1)﻿(a) to (e) if—
   (a) compliance would be prevented by a privilege or immunity that the person would have as a witness or counsel, were that person giving evidence or acting as counsel in civil proceedings before a court; or
   (b) compliance is prevented by an enactment, rule of law, or order of a court prohibiting or restricting disclosure, or the manner of disclosure, of any document, information, or thing; or
   (c) compliance would be likely to prejudice the maintenance of the law, including the prevention, detection, investigation, prosecution, or punishment of offences, including the right to a fair trial.
@@ -325,7 +325,7 @@ Every person who commits an offence against section 29(1) is liable, on convicti
 ### 32 Application of Official Information Act 1982
 (1) When an inquiry has reported in accordance with section 12, all documents created by the inquiry or received in the course of the inquiry are, except as set out in subsection (2), official information for the purposes of the Official Information Act 1982.
 (2) However, the following are not official information for the purposes of the Official Information Act 1982:
-  (a) any matter subject to an order under section 15(1)(a):
+  (a) any matter subject to an order under section 15(1)﻿(a):
   (b) any documents that relate to the internal deliberations of the inquiry and are—
     (i) created by a member of an inquiry in the course of the inquiry; or
     (ii) provided to the inquiry by an officer of the inquiry.
@@ -357,7 +357,7 @@ In any application for judicial review of an inquiry under this Act, the inquiry
 **Review required**
 
 ### 36 Review of continuing application of Commissions of Inquiry Act 1908
-(1) Not later than 5 years after the commencement of this Act, the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act must ensure that a review is commenced, in relation to the entities referred to in section 38(2)(b), to consider—
+(1) Not later than 5 years after the commencement of this Act, the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act must ensure that a review is commenced, in relation to the entities referred to in section 38(2)﻿(b), to consider—
   (a) what powers each entity requires to carry out its functions and duties; and
   (b) what changes to the law are necessary to replace any powers an entity derives from the Commissions of Inquiry Act 1908.
 (2) The purpose of the review required by this section is to consider whether the remaining provisions of the Commissions of Inquiry Act 1908 can be repealed.
