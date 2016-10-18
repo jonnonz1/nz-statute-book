@@ -1,5 +1,5 @@
 # Submarine Cables and Pipelines Protection Act 1996
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2016-10-18_
 
 > An Act—ato provide better protection of submarine cables and pipelines; andbto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to protection of submarine cables and pipelines; andcto consolidate and amend the Submarine Cables and Pipelines Protection Act 1966
 
@@ -235,7 +235,7 @@ Every enforcement officer exercising a power conferred by section 20 or section 
   (a) the person from whom the property was seized; or
   (b) the owner or person entitled to the possession of the property seized,—
 (2) Where the property does not exceed $200,000 in value, the application shall be by way of originating application made to a District Court and the rules relating to the practice and procedure of District Courts for the time being in force under the District Courts Act 1947 apply with respect to every such application.
-(3) Where the property exceeds $200,000 in value, the application shall be by way of originating application made to the High Court and the High Court Rules apply with respect to every such application.
+(3) Where the property exceeds $200,000 in value, the application shall be by way of originating application made to the High Court and the High Court Rules 2016 apply with respect to every such application.
 
 **Proceedings for offences, etc**
 
@@ -279,7 +279,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
   (b) a person who did not acquire his or her interest in the property in good faith and who knew or had reason to believe at the time of the acquisition that the property was or would be involved in the commission of the offence in respect of which the property has been forfeited.
 (3) Where the property forfeited under section 31(1) does not exceed $200,000 in value, the application shall be by way of originating application made to, and filed in, the office of the District Court that ordered the forfeiture.
 (4) Except as modified by subsection (3), the rules relating to the practice and procedure of District Courts for the time being in force under the District Courts Act 1947 apply with respect to every such application made to the District Court that ordered the forfeiture.
-(5) Where the property forfeited under section 31(1) exceeds $200,000 in value, the application shall be by way of originating application made to the High Court and the High Court Rules apply with respect to every such application.
+(5) Where the property forfeited under section 31(1) exceeds $200,000 in value, the application shall be by way of originating application made to the High Court and the High Court Rules 2016 apply with respect to every such application.
 (6) If the court is satisfied that—the court may make an order—
   (a) the applicant is a person to whom subsection (1) applies; and
   (b) the applicant's claim to an interest in the property is valid,—
