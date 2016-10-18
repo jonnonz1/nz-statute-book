@@ -1,5 +1,5 @@
 # Admiralty Act 1973
-_Consolidation as at 2004-01-01_
+_Consolidation as at 2016-10-18_
 
 > An Act to make provision with respect to the jurisdiction in admiralty of the High Court of New Zealand and of District Courts, and the jurisdiction in prize of the High Court
 
@@ -101,7 +101,7 @@ The court may, of its own motion or upon application, at any stage order that an
 
 ### 13 Appeals
 (1) A party to proceedings in a District Court in its admiralty jurisdiction may appeal to the High Court against any decision of the District Court.
-(1A) The High Court Rules and sections 73 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(1A) The High Court Rules 2016 and sections 73 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 (2) The provisions of the Judicature Act 1908 relating to appeals to the Court of Appeal against a decision of the High Court of New Zealand shall apply with respect to a decision of the High Court of New Zealand in its admiralty jurisdiction.
 (3)
 
