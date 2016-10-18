@@ -1,5 +1,5 @@
 # Law Reform (Testamentary Promises) Act 1949
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2016-10-18_
 
 > An Act to make better provision for the enforcement of promises to make testamentary provision in return for services rendered
 
@@ -48,7 +48,7 @@ In this Act, unless the context otherwise requires,—
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (1) A party to proceedings in which there is made a decision to which subsection (1AA) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
-(1A) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(1A) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 (1B) On the ex parte application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (1C) Subsection (1B) overrides subsection (1A).
 (2)
