@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2016-10-18_
 
 > Title
 
@@ -276,7 +276,7 @@ Subject to section 13, where a notice of objection is lodged under section 9, th
 
 ### 14 Appeal against decision on application for injunction
 (1) A party to proceedings in a District Court on an application under section 13(3) may appeal to the High Court against any decision of the District Court.
-(1A) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(1A) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 (2) On the ex parte application of the appellant, the District Court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (2A) Subsection (2) overrides subsection (1A).
 (3) A party to any appeal under subsection (1) may, with the leave of the Court of Appeal, appeal to the Court of Appeal against any determination of the High Court on a question of law arising in an appeal under that subsection.
