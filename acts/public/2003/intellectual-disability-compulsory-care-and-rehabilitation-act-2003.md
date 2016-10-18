@@ -1,5 +1,5 @@
 # Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
@@ -89,7 +89,7 @@ The purposes of this Act are—
   - **welfare guardian** has the same meaning as in section 2 of the Protection of Personal and Property Rights Act 1988
   - **without notice** , in relation to an application, has the same meaning as ex parte
   - **young person** has the same meaning as in section 2(1) of the Children, Young Persons, and Their Families Act 1989.
-(2) If this section comes into force before the commencement of section 114(1) of the Health Practitioners Competence Assurance Act 2003, then, until that commencement, subsection (1) must be read as if, for the definitions of medical practitioner and psychologist, there were substituted the following definitions:.
+(2) If this section comes into force before the commencement of section 114(1) of the Health Practitioners Competence Assurance Act 2003, then, until that commencement, subsection (1) must be read as if, for the definitions of medical practitioner and psychologist, there were substituted the following definitions:
   - **medical practitioner** means a medical practitioner registered under the Medical Practitioners Act 1995
   - **psychologist** means a psychologist registered under the Psychologists Act 1981
 
@@ -1106,7 +1106,7 @@ After a court has made an order on an application under this Act, the Registrar 
 
 ### 133 Appeals from decisions of Family Courts
 (1) Where, in a proceeding under this Act, a Family Court has made or has refused to make an order, or has otherwise determined or has dismissed the proceeding, a party to the proceeding may, within 28 days after the making of the order or decision or within such further time as the High Court may allow, appeal to the High Court.
-(2) The High Court Rules and sections 74 to 76 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 74 to 76 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 (3) Despite subsection (2), on the appellant's application without notice, the Family Court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (4) The decision of the High Court on an appeal to that court under subsection (1) is final unless section 134 applies.
 
