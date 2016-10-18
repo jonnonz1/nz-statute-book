@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2016-07-01_
+_Consolidation as at 2016-10-18_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -2440,8 +2440,8 @@ In proceedings for an order under section 124B,—
 (1) Any—may appeal against the decision of the Authority to the High Court on a question of law, unless a right of appeal to the District Court against the decision is provided for in any other provision of this Act.
   (a) party to any application for an approval or an application under section 26 or regulations; or
   (b) person who made submissions to the Authority on any application for an approval or an application under section 26 or regulations—
-(2) Any report and recommendation of the Authority under section 72 is deemed to be a decision for the purposes of Part 10 of the High Court Rules.
-(3) An appeal under this section shall be made in accordance with the High Court Rules, except to the extent that those rules are inconsistent with sections 127 to 134.
+(2) Any report and recommendation of the Authority under section 72 is deemed to be a decision for the purposes of Part 10 of the High Court Rules 2016.
+(3) An appeal under this section shall be made in accordance with the High Court Rules 2016, except to the extent that those rules are inconsistent with sections 127 to 134.
 
 ### 127 Notice of appeal
 Before or immediately after the filing and service of a notice of appeal, the appellant shall serve a copy of the notice on—
