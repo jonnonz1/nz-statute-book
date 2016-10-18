@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2016-07-05_
+_Consolidation as at 2016-10-18_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -4353,7 +4353,7 @@ If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to
 (3) If the appeal is from a decision of a board of inquiry, sections 300 to 307 apply to the appeal subject to the following:
   (a) every reference to the Environment Court in those sections must be read as a reference to the board of inquiry; and
   (b) those sections must be read with any other necessary modifications; and
-  (c) the High Court Rules apply if a procedural matter is not dealt with in the sections.
+  (c) the High Court Rules 2016 apply if a procedural matter is not dealt with in the sections.
 (4) If the appeal is from a decision of the Environment Court, section 299 applies to the appeal.
 (5) No appeal may be made to the Court of Appeal from a determination of the High Court under this section.
 (6) However, a party may apply to the Supreme Court for leave to bring an appeal to that court against a determination of the High Court and, for this purpose, sections 12 to 15 of the Supreme Court Act 2003 apply with any necessary modifications.
@@ -7211,7 +7211,7 @@ The Environment Court shall continue to have a seal, and a document to which the
 
 ### 299 Appeal to High Court on question of law
 (1) A party to a proceeding before the Environment Court under this Act or any other enactment may appeal on a question of law to the High Court against any decision, report, or recommendation of the Environment Court made in the proceeding.
-(2) The appeal must be made in accordance with the High Court Rules, except to any extent that those rules are inconsistent with sections 300 to 307.
+(2) The appeal must be made in accordance with the High Court Rules 2016, except to any extent that those rules are inconsistent with sections 300 to 307.
 
 ### 300 Notice of appeal
 (1) An appellant shall file a notice of appeal within 15 working days after the date on which the appellant is notified of the Environment Court's decision or report and recommendation.
@@ -7349,7 +7349,7 @@ Person C must tell the court if person C—
 
 ### 308I Proceedings for damages in High Court
 (1) A person who obtains a declaration under section 308G may bring proceedings for damages in the High Court against the person against whom the Environment Court made the declaration.
-(2) The proceedings must be brought in accordance with the High Court Rules.
+(2) The proceedings must be brought in accordance with the High Court Rules 2016.
 (3) The proceedings must be commenced within 6 years after the declaration is made.
 (4) The High Court must order the payment of damages for loss suffered by the plaintiff because of the conduct of the defendant that gave rise to the making of the declaration.
 
