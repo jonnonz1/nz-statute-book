@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2014-07-28_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -716,7 +716,7 @@ A person must not refuse to pay rates on the ground that the rates are invalid u
 (3) This section applies to rates set and assessed under this Act or made and levied under the Rating Powers Act 1988.
 
 ### 66 Registration of charging order for judgment for rates
-(1) Despite rule 578 of the High Court Rules, a charging order issued under rule 567 or rule 568 for a judgment for rates, and registered against a rating unit under rule 574, continues in force until a memorandum of satisfaction is registered under rule 577.
+(1) Despite rule 17.52 of the High Court Rules 2016, a charging order issued under rule 17.41 or 17.42 for a judgment of rates, and registered against a rating unit under rule 17.48, continues in force until a memorandum of satisfaction is registered under rule 17.51.
 (2) The Limitation Act 2010 applies to subsection (1).
 (3) If a charging order for a judgment for rates is registered against a rating unit, the ratepayer must not register a dealing against the unit without the consent of the local authority.
 (4) This section applies to a charging order made under this Act or under the Rating Powers Act 1988.
