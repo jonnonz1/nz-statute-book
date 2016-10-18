@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -3602,7 +3602,7 @@ If a matter before the Authority relates principally to an alleged breach of emp
 (2) The Authority may take into account such evidence and information as in equity and good conscience it thinks fit, whether strictly legal evidence or not.
 (2A) The Authority must allow cross-examination of a party or a person to the extent that is consistent with subsection (2).
 (3) The Authority is not bound to treat a matter as being a matter of the type described by the parties, and may, in investigating the matter, concentrate on resolving the employment relationship problem, however described.
-(4) The Authority may not make a freezing order or search order as provided for in the High Court Rules.
+(4) The Authority may not make a freezing order or search order as provided for in the High Court Rules 2016.
 
 ### 161 Jurisdiction
 (1) The Authority has exclusive jurisdiction to make determinations about employment relationship problems generally, including—
@@ -3743,7 +3743,7 @@ Each member of the Authority must, before entering on the exercise of any of his
 (3) However, if the Authority acts under subsection (2), the Authority must provide an absent party with—
   (a) any material it receives that is relevant to the case of the absent party; and
   (b) an opportunity to comment on the material before the Authority takes it into account.
-(4) To avoid doubt, subsections (2) and (3) do not limit the powers of the Authority to make ex parte orders (except a freezing order or search order as provided for in the High Court Rules).
+(4) To avoid doubt, subsections (2) and (3) do not limit the powers of the Authority to make ex parte orders (except a freezing order or search order as provided for in the High Court Rules 2016).
 (5) The Authority may meet with the parties at the times and places fixed by a member of the Authority or an officer of the Authority.
 (6) Meetings of the Authority may be adjourned from time to time and from place to place by a member of the Authority or an officer of the Authority designated for the purpose by the chief executive, whether at any meeting or at any time before the time fixed for the meeting.
 
@@ -3990,7 +3990,7 @@ The making of an election under section 179 does not operate as a stay of procee
   (a) as if, for the word Authority, there were substituted the word court; and
   (b) as if, for the word member, there were substituted the word Judge; and
   (c) with all other necessary modifications.
-(3) In addition to the powers described in subsection (1), the court has the same powers of the High Court to make a freezing order and a search order as provided for in the High Court Rules.
+(3) In addition to the powers described in subsection (1), the court has the same powers of the High Court to make a freezing order and a search order as provided for in the High Court Rules 2016.
 
 ### 191 Other provisions relating to proceedings of court
 The provisions of Schedule 3 have effect in relation to the court and matters within its jurisdiction.
