@@ -1,5 +1,5 @@
 # Agricultural Compounds and Veterinary Medicines Act 1997
-_Consolidation as at 2016-07-01_
+_Consolidation as at 2016-10-18_
 
 > An Act to reform and restate the law relating to agricultural compounds, and to repeal—athe Stock Foods Act 1946; andbthe Fertilisers Act 1960; andcthe Animal Remedies Act 1967; anddthe Fertilisers Act 1982
 
@@ -1110,7 +1110,7 @@ If the Director-General is required to consult a person or a category or class o
   (a) party to an application for registration under sections 9 and 26; or
   (ab) party to an application for an approval under section 8C; or
   (b) person who made a submission to the Director-General on any application for registration under section 16—
-(2) Any report and recommendation of the Director-General is deemed to be a decision for the purposes of Part 10 of the High Court Rules, except to the extent that those rules are inconsistent with sections 47 to 53.
+(2) Any report and recommendation of the Director-General is deemed to be a decision for the purposes of Part 10 of the High Court Rules 2016, except to the extent that those rules are inconsistent with sections 47 to 53.
 
 ### 47 Notice of appeal
 Before or immediately after the filing and service of a notice of appeal, the appellant must serve a copy of the notice on—
