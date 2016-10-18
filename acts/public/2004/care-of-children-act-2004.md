@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2016-06-30_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -1073,7 +1073,7 @@ Nothing in section 81 prevents a court from receiving evidence of an order made 
 ### 88 Evidence
 If an application under either sections 56 and 81 or section 87 is heard in a District Court,—
   (a) the evidence of a person beyond New Zealand may be taken in accordance with the rules of the High Court covering the examination of witnesses beyond New Zealand; and
-  (b) the High Court Rules, as far as they are applicable and with all necessary modifications, apply accordingly.
+  (b) the High Court Rules 2016, as far as they are applicable and with all necessary modifications, apply accordingly.
 
 ### 89 Proof of documents
 (1) For the purposes of sections 72 to 76 and sections 81 to 88,—
@@ -1686,7 +1686,7 @@ The court may dismiss proceedings before it under this Act if it is satisfied—
     (ii) section 130 to appoint, or to direct the Registrar of the court to appoint, a lawyer to assist the court; or
     (iii) section 133 to obtain a written cultural report, medical report, psychiatric report, or psychological report; or
   (c) a direction under section 7A(6) that the parties may, or may not, be represented at a settlement conference.
-(4) The High Court Rules and sections 73 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under this section as if it were an appeal under section 72 of that Act.
+(4) The High Court Rules 2016 and sections 73 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under this section as if it were an appeal under section 72 of that Act.
 (5) On the ex parte application of the appellant, the Family Court or District Court (as the case may be) may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (6) Subsection (5) overrides subsection (4).
 
