@@ -1,5 +1,5 @@
 # Radiation Safety Act 2016
-_Consolidation as at 2016-03-07_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Radiation Safety Act 2016.
@@ -662,7 +662,7 @@ A decision of the Director against which an appeal is lodged continues in force 
 
 ### 52 Appeal on question of law to High Court
 (1) A party to an appeal to the District Court under section 48 may appeal to the High Court against any determination of law arising in the appeal.
-(2) The appeal must be heard and determined in accordance with the High Court Rules.
+(2) The appeal must be heard and determined in accordance with the High Court Rules 2016.
 
 ### Subpart 2 — Emergencies
 
