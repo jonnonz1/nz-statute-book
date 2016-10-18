@@ -1,5 +1,5 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2016-10-18_
 
 > Title
 
@@ -283,7 +283,7 @@ For the purposes of this Act, a person is another person's de facto partner if t
   (b) in relation to a de facto relationship, a de facto relationship in which the de facto partners have lived together as de facto partners—
     (i) for a period of less than 3 years; or
     (ii) for a period of 3 years or longer, if the court, having regard to all the circumstances of the de facto relationship, considers it just to treat the de facto relationship as a relationship of short duration.
-(2) For the purposes of paragraphs (a)(i) and (b)(i) of subsection (1), in computing the period for which the parties have lived together as a married couple, civil union partners, or as de facto partners, the court may exclude a period of resumed cohabitation that has the motive of reconciliation and is no longer than 3 months.
+(2) For the purposes of paragraphs (a)﻿(i) and (b)﻿(i) of subsection (1), in computing the period for which the parties have lived together as a married couple, civil union partners, or as de facto partners, the court may exclude a period of resumed cohabitation that has the motive of reconciliation and is no longer than 3 months.
 
 **Dates at which shares and values determined**
 
@@ -326,7 +326,7 @@ This Act shall bind the Crown.
   (c) the presumption that the use of a wife's income by her husband with her consent during the marriage is a gift does not apply between husband and wife.
 (4) Where, in proceedings that are not proceedings under this Act, any question relating to relationship property arises between spouses or partners, or between either or both of them and any other person, the question must be decided as if it had been raised in proceedings under this Act.
 (5) This section does not apply if the de facto partners have lived in a de facto relationship for less than 3 years.
-(6) However, if the court makes an order under section 25(1)(a) in respect of any relationship property of de facto partners to whom subsection (5) applies, and any question relating to relationship property arises between those de facto partners in any subsequent proceedings that are not proceedings under this Act, then—
+(6) However, if the court makes an order under section 25(1)﻿(a) in respect of any relationship property of de facto partners to whom subsection (5) applies, and any question relating to relationship property arises between those de facto partners in any subsequent proceedings that are not proceedings under this Act, then—
   (a) subsection (5) does not apply; and
   (b) the question must be decided as if it had been raised in proceedings under this Act.
 
@@ -394,7 +394,7 @@ Nothing in this Act shall apply in respect of any Maori land within the meaning 
 
 ### 9 Separate property defined
 (1) All property of either spouse or partner that is not relationship property is separate property.
-(2) Subject to sections 8(1)(ee), 9A(3), and 10, all property acquired out of separate property, and the proceeds of any disposition of separate property, are separate property.
+(2) Subject to sections 8(1)﻿(ee), 9A(3), and 10, all property acquired out of separate property, and the proceeds of any disposition of separate property, are separate property.
 (3) Subject to section 9A, any increase in the value of separate property, and any income or gains derived from separate property, are separate property.
 (4) The following property is separate property, unless the court considers that it is just in the circumstances to treat the property or any part of the property as relationship property:
   (a) all property acquired by either spouse or partner while they are not living together as a married couple or as civil union partners or as de facto partners:
@@ -486,7 +486,7 @@ This Act also applies—
 **Homesteads**
 
 ### 12 Homesteads
-(1) If the family home is a homestead that is owned by either spouse or partner or both of them, section 11(1)(a) does not apply.
+(1) If the family home is a homestead that is owned by either spouse or partner or both of them, section 11(1)﻿(a) does not apply.
 (2) Instead, each spouse or partner is entitled to share equally in a sum of money equal to the equity of either spouse or partner or both of them in the homestead.
 (3) If a spouse or partner does not have a beneficial interest in the land on which the homestead is situated, that spouse or partner is deemed to be beneficially interested in that land until his or her share of that sum is paid or otherwise satisfied.
 (4) This section is subject to sections 13 to 17A.
@@ -504,7 +504,7 @@ For the purposes of section 12, a homestead's value is to be determined by ascer
 
 ### 14 Marriages of short duration
 (1) This section applies if a marriage is a relationship of short duration (as defined in section 2E).
-(2) If this section applies, sections 11(1)(a), 11(1)(b), 11A, 11B, and 12 do not apply—
+(2) If this section applies, sections 11(1)﻿(a), 11(1)﻿(b), 11A, 11B, and 12 do not apply—
   (a) to any asset owned wholly or substantially by one spouse at the date on which the marriage began; or
   (b) to any asset that has come to one spouse, after the date on which the marriage began,—
     (i) by succession; or
@@ -514,15 +514,15 @@ For the purposes of section 12, a homestead's value is to be determined by ascer
   (c) where the contribution of one spouse to the marriage has clearly been disproportionately greater than the contribution of the other spouse.
 (3) In every case to which subsection (2) applies,—
   (a) the share of each spouse in the relationship property is to be determined in accordance with the contribution of each spouse to the marriage; and
-  (b) the share of each spouse in any other relationship property that falls for division under sections 11(1)(a), 11(1)(b), 11A, 11B, and 12, and is not determined in accordance with paragraph (a), is to be determined in accordance with sections 11(1)(a), 11(1)(b), 11A, 11B, and 12.
-(4) If this section applies, each spouse is entitled to share equally in any relationship property that falls for division under section 11(1)(c), unless his or her contribution to the marriage has been clearly greater than that of the other spouse.
+  (b) the share of each spouse in any other relationship property that falls for division under sections 11(1)﻿(a), 11(1)﻿(b), 11A, 11B, and 12, and is not determined in accordance with paragraph (a), is to be determined in accordance with sections 11(1)﻿(a), 11(1)﻿(b), 11A, 11B, and 12.
+(4) If this section applies, each spouse is entitled to share equally in any relationship property that falls for division under section 11(1)﻿(c), unless his or her contribution to the marriage has been clearly greater than that of the other spouse.
 (5) If, under subsection (4), the spouses do not share equally in any relationship property, the share of each spouse in that relationship property is to be determined in accordance with the contribution of each spouse to the marriage.
 (6) This section is subject to sections 15 to 17A.
 (7) In proceedings commenced after the death of one of the spouses, this section is modified by section 85.
 
 ### 14AA Civil unions of short duration
 (1) This section applies if a civil union is a relationship of short duration (as defined in section 2E).
-(2) If this section applies, sections 11(1)(a), 11(1)(b), 11A, 11B, and 12 do not apply—
+(2) If this section applies, sections 11(1)﻿(a), 11(1)﻿(b), 11A, 11B, and 12 do not apply—
   (a) to any asset owned wholly or substantially by one civil union partner at the date on which the civil union began; or
   (b) to any asset that has come to one civil union partner, after the date on which the civil union began,—
     (i) by succession; or
@@ -532,8 +532,8 @@ For the purposes of section 12, a homestead's value is to be determined by ascer
   (c) where the contribution of one civil union partner to the civil union has clearly been disproportionately greater than the contribution of the other civil union partner.
 (3) In every case to which subsection (2) applies,—
   (a) the share of each civil union partner in the relationship property is to be determined in accordance with the contribution of each civil union partner to the civil union; and
-  (b) the share of each civil union partner in any other relationship property that falls for division under sections 11(1)(a), 11(1)(b), 11A, 11B, and 12, and is not determined in accordance with paragraph (a), is to be determined in accordance with sections 11(1)(a), 11(1)(b), 11A, 11B, and 12.
-(4) If this section applies, each civil union partner is entitled to share equally in any relationship property that falls for division under section 11(1)(c), unless his or her contribution to the civil union has been clearly greater than that of the other civil union partner.
+  (b) the share of each civil union partner in any other relationship property that falls for division under sections 11(1)﻿(a), 11(1)﻿(b), 11A, 11B, and 12, and is not determined in accordance with paragraph (a), is to be determined in accordance with sections 11(1)﻿(a), 11(1)﻿(b), 11A, 11B, and 12.
+(4) If this section applies, each civil union partner is entitled to share equally in any relationship property that falls for division under section 11(1)﻿(c), unless his or her contribution to the civil union has been clearly greater than that of the other civil union partner.
 (5) If, under subsection (4), the civil union partners do not share equally in any relationship property, the share of each civil union partner in that relationship property is to be determined in accordance with the contribution of each civil union partner to the civil union.
 (6) This section is subject to sections 15 to 17A.
 (7) In proceedings commenced after the death of one of the civil union partners, this section is modified by section 85.
@@ -623,7 +623,7 @@ For the purposes of section 12, a homestead's value is to be determined by ascer
   (h) the giving of assistance or support to the other spouse or partner (whether or not of a material kind), including the giving of assistance or support that—
     (i) enables the other spouse or partner to acquire qualifications; or
     (ii) aids the other spouse or partner in the carrying on of his or her occupation or business.
-(2) There is no presumption that a contribution of a monetary nature (whether under subsection (1)(c) or otherwise) is of greater value than a contribution of a non-monetary nature.
+(2) There is no presumption that a contribution of a monetary nature (whether under subsection (1)﻿(c) or otherwise) is of greater value than a contribution of a non-monetary nature.
 
 ### 18A Effect of misconduct of spouses or partners
 (1) Except as permitted by subsections (2) and (3), a court may not take any misconduct of a spouse or partner into account in proceedings under this Act, whether to diminish or detract from the positive contribution of that spouse or partner or otherwise.
@@ -697,7 +697,7 @@ Except as otherwise expressly provided in this Act, nothing in the Act shall—
 (1) If, on the bankruptcy of a spouse or partner, the family home (including a homestead) or, if section 11A applies, the proceeds of the sale of the family home pass to the Official Assignee, the Official Assignee must pay to the other spouse or partner the lesser of—
   (a) the amount of the protected interest of the other spouse or partner; or
   (b) so much of that amount as remains after the Official Assignee has paid the debts specified in subsection (2).
-(2) The debts referred to in subsection (1)(b) are as follows:
+(2) The debts referred to in subsection (1)﻿(b) are as follows:
   (a) any debts secured on the family home or homestead or, as the case may be, the proceeds of sale of the family home:
   (b) any unsecured debt incurred—
     (i) by the spouses or partners jointly; or
@@ -885,10 +885,10 @@ Any agreement made before 1 August 2001 under section 21 (as that section existe
 (5)
 
 ### 23 Who can apply
-(1) The following persons may apply for an order under section 25(1)(a) or (b) or an order or declaration under section 25(3):
+(1) The following persons may apply for an order under section 25(1)﻿(a) or (b) or an order or declaration under section 25(3):
   (a) either spouse or partner, or both of them jointly:
   (b) any person on whom the spouses or partners have made conflicting claims in respect of property.
-(2) The Official Assignee in bankruptcy of the property of either spouse or partner may not apply for an order under section 25(1)(a), but may apply for an order under section 25(1)(b) or an order or declaration under section 25(3).
+(2) The Official Assignee in bankruptcy of the property of either spouse or partner may not apply for an order under section 25(1)﻿(a), but may apply for an order under section 25(1)﻿(b) or an order or declaration under section 25(3).
 (3) If one of the spouses or partners has died, the application of this section is modified by section 88 (except in a situation described in section 10D(1)).
 
 ### 24 Time limits for making applications
@@ -940,7 +940,7 @@ Any agreement made before 1 August 2001 under section 21 (as that section existe
 (1) The court may make an order granting to either spouse or partner, for such period or periods and on such terms and subject to such conditions as the court thinks fit, the right personally to occupy the family home or any other premises forming part of the relationship property.
 (2) Where an order is made under subsection (1), the person in whose favour it is made shall be entitled, to the exclusion of the other spouse or partner, personally to occupy the family home or the other premises to which the order relates.
 (3) An order made under subsection (1) against a spouse or partner shall be enforceable against the personal representative of the person against whom it is made, unless the court otherwise directs.
-(4) An order made under subsection (1) by a District Court or a Family Court shall be enforceable as if it were an order for recovery of land made pursuant to section 31(1)(d) of the District Courts Act 1947.
+(4) An order made under subsection (1) by a District Court or a Family Court shall be enforceable as if it were an order for recovery of land made pursuant to section 31(1)﻿(d) of the District Courts Act 1947.
 (5) In proceedings commenced after the death of one of the spouses or partners, this section is modified by section 91.
 
 ### 28 Orders with respect to tenancy
@@ -1000,7 +1000,7 @@ Where an application under this Act relates to any policy of assurance or insura
 **Superannuation scheme entitlements**
 
 ### 31 Orders in relation to superannuation rights
-(1) Where the relationship property to which any application under this Act relates includes property of the kind described in section 8(1)(i), the court may make any order under this Act, or any provision of any such order, conditional on either spouse or partner entering into an arrangement or deed of covenant designed to ensure that the other spouse or partner receives his or her appropriate share of that property, and every arrangement or deed entered into pursuant to any such condition shall have effect according to its tenor.
+(1) Where the relationship property to which any application under this Act relates includes property of the kind described in section 8(1)﻿(i), the court may make any order under this Act, or any provision of any such order, conditional on either spouse or partner entering into an arrangement or deed of covenant designed to ensure that the other spouse or partner receives his or her appropriate share of that property, and every arrangement or deed entered into pursuant to any such condition shall have effect according to its tenor.
 (2) A copy of any arrangement or deed entered into pursuant to subsection (1) may be served on the manager of the superannuation scheme from which the entitlement is derived.
 (3) Where a copy of any such arrangement or deed is served on any such manager he or she shall, notwithstanding the provisions of any Act, deed, or rules governing the scheme, be bound by the provisions of the arrangement or deed.
 
@@ -1107,7 +1107,7 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (2) A party to proceedings in which there is made a decision to which subsection (1) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
-(3) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (2) as if it were an appeal under section 72 of that Act.
+(3) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (2) as if it were an appeal under section 72 of that Act.
 (4) On the ex parte application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (5) Subsection (4) overrides subsection (3).
 (6) If the appeal relates to proceedings commenced after the death of one of the spouses or partners, this section is modified by section 93.
@@ -1171,7 +1171,7 @@ Subject to any rules of procedure made for the purposes of this Act, in any proc
 Sections 44B and 44C do not apply to a trust under a will or other testamentary disposition.
 
 ### 44B Court may require party to disclose information about dispositions of property to trust
-(1) In any proceedings for an order under section 25(1)(a), the court may make an order requiring a spouse or partner to disclose to the court such information as the court specifies relating to the disposition of relationship property by either or both spouses or partners to a trust since the marriage, the civil union, or the de facto relationship began.
+(1) In any proceedings for an order under section 25(1)﻿(a), the court may make an order requiring a spouse or partner to disclose to the court such information as the court specifies relating to the disposition of relationship property by either or both spouses or partners to a trust since the marriage, the civil union, or the de facto relationship began.
 (2) The court may make an order under this section on the application of either party to the proceedings or on its own initiative.
 
 ### 44C Compensation for property disposed of to trust
@@ -1183,8 +1183,8 @@ Sections 44B and 44C do not apply to a trust under a will or other testamentary 
   (a) an order requiring one spouse or partner to pay to the other spouse or partner a sum of money, whether out of relationship property or separate property:
   (b) an order requiring one spouse or partner to transfer to the other spouse or partner any property, whether the property is relationship property or separate property:
   (c) an order requiring the trustees of the trust to pay to one spouse or partner the whole or part of the income of the trust, either for a specified period or until a specified amount has been paid.
-(3) The court must not make an order under subsection (2)(c) if—
-  (a) an order under subsection (2)(a) or (b) would compensate the spouse or partner; or
+(3) The court must not make an order under subsection (2)﻿(c) if—
+  (a) an order under subsection (2)﻿(a) or (b) would compensate the spouse or partner; or
   (b) a third person has in good faith altered that person's position—
     (i) in reliance on the ability of the trustees to distribute the income of the trust in terms of the instrument creating the trust; and
     (ii) in such a way that it would be unjust to make the order.
@@ -1209,7 +1209,7 @@ Sections 44B and 44C do not apply to a trust under a will or other testamentary 
 (4) For the purposes of subsections (2) and (3), equity security has the same meaning as in section 8 of the Financial Markets Conduct Act 2013.
 
 ### 44E Court may require party to disclose information about dispositions of property to qualifying company
-(1) In any proceedings for an order under section 25(1)(a), the court may make an order requiring a spouse or partner to disclose to the court such information as the court specifies relating to the disposition of relationship property by either or both spouses or partners to a qualifying company since the marriage or the civil union or the de facto relationship began.
+(1) In any proceedings for an order under section 25(1)﻿(a), the court may make an order requiring a spouse or partner to disclose to the court such information as the court specifies relating to the disposition of relationship property by either or both spouses or partners to a qualifying company since the marriage or the civil union or the de facto relationship began.
 (2) The court may make the order under this section on the application of either party to the proceedings or on its own initiative.
 
 ### 44F Compensation for property disposed of to qualifying company
@@ -1266,7 +1266,7 @@ As from the commencement of this Act, no restriction upon anticipation or aliena
   (a) no substantial benefit, whether material or otherwise, would accrue to either party by the continuation of the proceedings; or
   (b) the proceedings are vexatious in character; or
   (c) the question or questions in issue could more conveniently be disposed of on an application made under this Act.
-(3) Without limiting the provisions of subsection (2)(c), the court may in any such action exercise any power which could be exercised on an application under this Act or give such directions as it thinks fit for the disposal under this Act of any question arising in the proceedings.
+(3) Without limiting the provisions of subsection (2)﻿(c), the court may in any such action exercise any power which could be exercised on an application under this Act or give such directions as it thinks fit for the disposal under this Act of any question arising in the proceedings.
 (4) In an action to which this section applies, judgment by default shall not be entered except with the leave of the court. An application for the grant of such leave must be served on the defendant.
 (5) In this section the term court means the High Court, a District Court, or a Family Court; but a District Court shall not exercise any power which could be exercised on an application under this Act unless it is empowered to do so under any enactment (other than this section).
 
@@ -1351,10 +1351,10 @@ Nothing in this Act prevents a person from making an application under the Law R
 (1) This section applies in the following cases:
   (a) if, after the death of a spouse or partner, the family home (including a homestead) or, if section 11A applies, the proceeds of the sale of the family home vest in an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) on an order being made under section 379 of that Act to administer the estate of a deceased spouse or partner under Part 6 of that Act:
   (b) if, after the death of a spouse or partner, the family home (including a homestead) or, if section 11A applies, the proceeds of the sale of the family home may be dealt with in accordance with section 31 of the Administration Act 1969.
-(2) If this section applies, the appointee (in any case where subsection (1)(a) applies) or the administrator of the estate of the deceased spouse or partner (in any case where subsection (1)(b) applies) must pay to the surviving spouse or partner the lesser of—
+(2) If this section applies, the appointee (in any case where subsection (1)﻿(a) applies) or the administrator of the estate of the deceased spouse or partner (in any case where subsection (1)﻿(b) applies) must pay to the surviving spouse or partner the lesser of—
   (a) the amount of the protected interest of the surviving spouse or partner; or
   (b) so much of that amount as remains after the appointee or, as the case requires, the administrator has paid the debts specified in subsection (3).
-(3) The debts referred to in subsection (2)(b) are as follows:
+(3) The debts referred to in subsection (2)﻿(b) are as follows:
   (a) any debts secured on the family home or homestead or, as the case may be, the proceeds of sale of the family home:
   (b) any unsecured debt incurred—
     (i) by the spouses or partners jointly; or
@@ -1421,12 +1421,12 @@ A surviving spouse or civil union partner may apply under this Act for a divisio
     (ii) certifying that the lawyer has explained to the surviving spouse or partner the effect and implications of the notice; and
   (c) must be lodged—
     (i) with the administrator of the estate of the deceased spouse or partner; or
-    (ii) if administration of that estate has not been granted in New Zealand, in the registry of the High Court in which an application for a grant of administration of that estate would, under the High Court Rules, be required to be filed.
+    (ii) if administration of that estate has not been granted in New Zealand, in the registry of the High Court in which an application for a grant of administration of that estate would, under the High Court Rules 2016, be required to be filed.
 (3) A notice given under subsection (2) by a minor has effect as if the minor were of full age.
-(4) A choice of option is effective when a notice indicating the choice is lodged in accordance with subsection (2)(c).
+(4) A choice of option is effective when a notice indicating the choice is lodged in accordance with subsection (2)﻿(c).
 
 ### 66 Choice of option to be notified to certain persons
-(1) If a notice is lodged in accordance with section 65(2)(c)(ii), the surviving spouse or partner (the survivor) must, without delay, give a copy or copies of the notice in accordance with subsections (2) to (4).
+(1) If a notice is lodged in accordance with section 65(2)﻿(c)﻿(ii), the surviving spouse or partner (the survivor) must, without delay, give a copy or copies of the notice in accordance with subsections (2) to (4).
 (2) If, at the time of his or her death, the deceased spouse or partner was the registered holder of any government stock or local authorities stock (as those terms are defined in section 64(2) of the Administration Act 1969) to which that section applies, the survivor must give a copy of the notice to—
   (a) the registrar of that stock (if paragraph (b) does not apply); or
   (b) any person who has been registered as the holder of that stock in reliance on that section.
@@ -1516,7 +1516,7 @@ If the surviving spouse or partner chooses option A,—
   (a) every gift to the surviving spouse or partner in the will of the deceased spouse or partner (if any) is to be treated (for all purposes) as having been revoked; and
   (b) the will of the deceased spouse or partner (if any) is to be interpreted as if the surviving spouse or partner had died before the deceased spouse or partner; and
   (c) the estate of the deceased spouse or partner must be distributed accordingly.
-(2) The reference in subsection (1)(a) to gifts to the surviving spouse or partner in the will of the deceased spouse or partner includes the whole of the interest of the surviving spouse or partner as a beneficiary in any real or personal property to which the surviving spouse or partner would otherwise be entitled under the will of the deceased spouse or partner.
+(2) The reference in subsection (1)﻿(a) to gifts to the surviving spouse or partner in the will of the deceased spouse or partner includes the whole of the interest of the surviving spouse or partner as a beneficiary in any real or personal property to which the surviving spouse or partner would otherwise be entitled under the will of the deceased spouse or partner.
 (3) The surviving spouse or partner has no entitlement under Part 3 of the Administration Act 1969.
 (4) This section is subject to section 77.
 
@@ -1604,11 +1604,11 @@ All property acquired by the surviving spouse or partner after the death of the 
 (4) This section is subject to section 47.
 
 ### 88 Who can apply
-(1) The following persons may apply for an order under section 25(1)(a) or (b) or an order or declaration under section 25(3):
+(1) The following persons may apply for an order under section 25(1)﻿(a) or (b) or an order or declaration under section 25(3):
   (a) the surviving spouse or partner:
   (b) any person on whom conflicting claims in respect of property are made by the surviving spouse or partner and the personal representative of the deceased spouse or partner.
-(2) The personal representative of the deceased spouse or partner may, with the leave of the court, apply for an order under section 25(1)(a). The court may grant leave only if it is satisfied that refusing leave would cause serious injustice.
-(3) The following persons may apply for an order under section 25(1)(b) or an order or declaration under section 25(3):
+(2) The personal representative of the deceased spouse or partner may, with the leave of the court, apply for an order under section 25(1)﻿(a). The court may grant leave only if it is satisfied that refusing leave would cause serious injustice.
+(3) The following persons may apply for an order under section 25(1)﻿(b) or an order or declaration under section 25(3):
   (a) the personal representative of the deceased spouse or partner:
   (b) the Official Assignee in bankruptcy of the property of either spouse or partner:
   (c) an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) in whom the estate of a deceased spouse or partner vests on an order being made under section 379 of that Act.
