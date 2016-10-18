@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2016-04-30_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -1610,8 +1610,8 @@ The High Court may dismiss an appeal if—
 (1) An appeal is ready for hearing when the appellant notifies the Registrar of the High Court that the notice of appeal has been served on all parties to the proceedings.
 (2) The Registrar must arrange a hearing date as soon as practicable after being notified that the notice of appeal has been served on all parties to the proceedings.
 
-### 112 Application of High Court Rules
-The High Court Rules apply if a procedural matter is not provided for by sections 105 to 111.
+### 112 Application of High Court Rules 2016
+The High Court Rules 2016 apply if a procedural matter is not provided for by sections 105 to 111.
 
 **Appeal to Court of Appeal**
 
