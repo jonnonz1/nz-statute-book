@@ -1,5 +1,5 @@
 # Railways Act 2005
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Railways Act 2005.
@@ -895,13 +895,13 @@ A decision of the Agency appealed against under section 68 or section 71 or sect
 
 ### 71 Appeal to High Court on question of law
 (1) A party to an appeal under section 68 who is dissatisfied with the decision of the District Court on the grounds that it is erroneous in law may appeal to the High Court on that question of law.
-(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 
 ### 72 Further appeal to Court of Appeal
 (1) A party to an appeal under section 71 who is dissatisfied with the decision of the High Court in respect of the appeal as being erroneous in law may, with the leave of the High Court or (if that leave is declined) with special leave of the Court of Appeal, appeal to the Court of Appeal on that question of law.
 (2) The Court of Appeal may make any order or determination that it thinks fit in relation to the appeal.
 (3) The decision of the Court of Appeal on an appeal or any application for leave to appeal is final.
-(4) Except as provided in this section, the procedures in respect of an appeal under this section must be in accordance with the applicable provisions of the High Court Rules and the Court of Appeal Rules, as the case may be.
+(4) Except as provided in this section, the procedures in respect of an appeal under this section must be in accordance with the applicable provisions of the High Court Rules 2016 and the Court of Appeal Rules, as the case may be.
 
 ## Part 3 — Rail corridor
 
@@ -1111,7 +1111,7 @@ Except to the extent that a deed or agreement provides otherwise, no person has 
 
 ### 90 Appeals on questions of law
 (1) If a party to an appeal under section 89 is dissatisfied with the decision of the District Court as being erroneous in point of law, that party may appeal to the High Court on the question of law only.
-(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 (3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
 
 ### 91 No charging for access to road reserve
