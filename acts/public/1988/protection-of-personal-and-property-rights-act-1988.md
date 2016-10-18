@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2016-10-18_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -742,12 +742,12 @@ When a court makes a personal order or a property order, it shall state in the o
 ### 83 Right of appeal to High Court
 (1) If, on an application for the exercise of the court's jurisdiction under this Act, the court makes or refuses to make an order, or dismisses or otherwise finally determines the proceedings, a party to the proceedings or the person in respect of whom the application was made may appeal to the High Court against the order or other decision of the court.
 (2) If the court makes an interlocutory or interim order, a party to the proceedings or the person in respect of whom the application was made may, with the leave of the court, appeal to the High Court against the order.
-(3) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) or subsection (2) as if it were an appeal under section 72 of that Act.
+(3) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) or subsection (2) as if it were an appeal under section 72 of that Act.
 (4) On the ex parte application of the appellant, the court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (5) Subsection (4) overrides subsection (3).
 
 ### 83A Procedure on appeal to High Court
-The High Court Rules and sections 75 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under section 83.
+The High Court Rules 2016 and sections 75 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under section 83.
 
 ### 84 Further appeal to Court of Appeal
 A party to an appeal under section 83 may, with the leave of the Court of Appeal, appeal to the Court of Appeal against any determination of the High Court in the appeal.
@@ -1202,7 +1202,7 @@ In this Part,—
 
 ### 108B Approval of court required to settle claims of specified persons
 (1) This section applies where money or damages are claimed by or on behalf of a specified person, whether alone or in conjunction with another person.
-(2) If the claim is not the subject of proceedings before a court, an agreement for the comprise or settlement of the claim entered into by the specified person, or on his or her behalf by a person who, in the opinion of a court, is a fit and proper person to do so, is binding on the specified person if the agreement, or a release of the claim, is in writing and is approved by the court under section 108C.
+(2) If the claim is not the subject of proceedings before a court, an agreement for the compromise or settlement of the claim entered into by the specified person, or on his or her behalf by a person who, in the opinion of a court, is a fit and proper person to do so, is binding on the specified person if the agreement, or a release of the claim, is in writing and is approved by the court under section 108C.
 (3) If the claim has not been compromised or settled in accordance with subsection (2), and has become the subject of proceedings before a court, a settlement, compromise, or payment, or acceptance of money paid into court, whenever entered into or made, is valid so far as it relates to the specified person's claim only with the approval of the court under section 108C.
 
 ### 108C Applications for approval of court
@@ -1345,9 +1345,9 @@ Subject to the terms of the property order (or, in a case where a trustee corpor
 (o) dispose of any of the property of the person subject to a property order by way of exchange for other property in New Zealand of a like nature and a like or better tenure; or, where the person has an undivided share in any property, concur in the partition of the property; and give or take any property by way of equality of exchange or partition:
   provided that the manager shall not, without the consent of the court, exchange any freehold or leasehold land in any case where the value (as determined in accordance with section 28 of the Trustee Act 1956) of the land or of the share or interest of the person therein exceeds the specified sum:
 (p) subdivide any freehold or leasehold land belonging to the person subject to a property order or in which the person has any share or interest, and construct, dedicate, make, and maintain, or contribute money towards the construction, dedication, making and maintenance of roads, streets, access ways, service lanes, footpaths, and reserves, and sewerage, water, electricity, drainage, and other works (whether on land belonging to the person or elsewhere), and do all such other things and make all such other payments as are required by any law or bylaw relating to subdivisions or as the manager thinks are necessary or are likely to be beneficial to the person or to his or her estate or to any part of it:
-(q) grant, reserve, or acquire easements and profits a prendre, and enter into party wall agreements and agreements that relate to fencing, or to which section 4 of the Fencing Act 1978 applies, and execute all necessary documents to give effect thereto:
+(q) grant, reserve, or acquire easements and profits à prendre, and enter into party wall agreements and agreements that relate to fencing, or to which section 4 of the Fencing Act 1978 applies, and execute all necessary documents to give effect thereto:
 (r) let or sublet or lease or sublease any property of the person subject to a property order for such term, at such rent (with or without a fine, premium, or foregift) and on and subject to such covenants and conditions as the manager thinks fit, with power at any time to reduce the rent or otherwise vary or modify the terms, and with further power—
-  (i) to grant to a lessee or sublessee a right of renewal for on or more terms at a rent to be fixed or made ascertainable in a manner specified in the original lease or sublease:
+  (i) to grant to a lessee or sublessee a right of renewal for one or more terms at a rent to be fixed or made ascertainable in a manner specified in the original lease or sublease:
   (ii) to grant a lease with an optional or compulsory purchasing clause:
   (iii) to grant to a lessee or sublessee a right to claim compensation for improvements made or to be made by the lessee or sublessee in, upon, or about the property that is leased or subleased:
   provided that the manager shall not, without the consent of the court, grant a lease or sublease for a term of more than 10 years or a lease or sublease with a right or rights of renewal if the aggregate duration of the original and of the renewed terms could exceed 10 years; and shall not, without the consent of the court, grant a lease with an optional or compulsory purchasing clause in any case where the value (as determined in accordance with section 28 of the Trustee Act 1956) of the property to be leased or of the share or interest of the person therein exceeds the specified sum at the time of the granting of the lease:
@@ -1361,7 +1361,7 @@ Subject to the terms of the property order (or, in a case where a trustee corpor
 (y) concur or join with any other person or persons in doing any 1 or more of the foregoing things.
 
 ### 2
-For the purpose of exercising the powers conferred by this Act, where appropriate, a manager may execute, give, and do all such assurances, notices, and things as the manager considers necessary for or reasonable incidental to the exercise of a power or the doing of an act or thing that the manager is authorised to exercise or do as a manager; and all assurances, notices, and things so executed, given, or done shall have the same force and effect as if executed, given, or done by the person who subject to a property order and as if the person had not been so subject.
+For the purpose of exercising the powers conferred by this Act, where appropriate, a manager may execute, give, and do all such assurances, notices, and things as the manager considers necessary for or reasonable incidental to the exercise of a power or the doing of an act or thing that the manager is authorised to exercise or do as a manager; and all assurances, notices, and things so executed, given, or done shall have the same force and effect as if executed, given, or done by the person who is subject to a property order and as if the person had not been so subject.
 
 ### 3
 In this schedule the expression the specified sum means $120,000 or such other amount as is, from time to time, prescribed by Order in Council for the purposes of this clause.
