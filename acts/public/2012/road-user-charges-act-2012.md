@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -833,7 +833,7 @@ Following a vehicle inspection of a RUC vehicle, the vehicle inspector must repo
 
 ### 70 Appeal to High Court on question of law
 (1) A party to an appeal under section 68 who is dissatisfied with the decision of the District Court on the ground that it is wrong in law may appeal to the High Court on that question of law.
-(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 
 ### 71 Further appeals to Court of Appeal or Supreme Court
 (1) With the leave of the court appealed to, a party to an appeal under section 70 may appeal to the Court of Appeal or the Supreme Court against any decision of the High Court in the appeal.
