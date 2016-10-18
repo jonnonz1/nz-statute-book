@@ -1,5 +1,5 @@
 # Habeas Corpus Act 2001
-_Consolidation as at 2013-03-30_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Habeas Corpus Act 2001.
@@ -13,10 +13,9 @@ In this Act, unless the context otherwise requires,—
   - **application** means an application to the High Court for a writ of habeas corpus
   - **detention** includes every form of restraint of liberty of the person
   - **habeas corpus** means habeas corpus ad subjiciendum
-  - **High Court Rules** has the same meaning as in the Judicature Act 1908
   - **Judge** means a Judge of the High Court
   - **Registrar** includes a Deputy Registrar
-  - **working day** has the same meaning as in the High Court Rules.
+  - **working day** has the same meaning as in the High Court Rules 2016.
 
 ### 4 Application of Act to the Crown and Parliament
 (1) This Act binds the Crown.
@@ -35,7 +34,7 @@ The purposes of this Act are—
 An application to challenge the legality of a person's detention may be made by an application for a writ of habeas corpus.
 
 ### 7 Manner of application for writ
-(1) An application for a writ of habeas corpus must be made to the High Court by originating application in the manner provided by the High Court Rules.
+(1) An application for a writ of habeas corpus must be made to the High Court by originating application in the manner provided by the High Court Rules 2016.
 (2) Despite subsection (1), nothing in that subsection excludes the inherent jurisdiction of the High Court to hear and to make an order on an oral application at any time in circumstances of unusual urgency.
 (3) Despite subsection (1), the provisions of any High Court Rule providing for directions by the court before the hearing, or affecting the hearing, of an originating application or empowering the court to convene a conference of the parties to an originating application do not apply to an application.
 (4) No applicant may be disqualified for lack of capacity or standing.
@@ -64,7 +63,7 @@ A defendant may be described in an application by reference only to the defendan
   (a) make such urgent enquiries as are necessary to determine where and by whom the application can most conveniently and expeditiously be dealt with; and
   (b) forward the application and any other relevant documents without delay to the Registrar at the place where the application is to be dealt with; and
   (c) without delay, inform every party to the proceeding of the action taken under this section.
-(3) This section applies in substitution for any provision of the High Court Rules relating to the transfer of notices of application filed at a time when a Judge is not present.
+(3) This section applies in substitution for any provision of the High Court Rules 2016 relating to the transfer of notices of application filed at a time when a Judge is not present.
 
 **Determination of applications**
 
@@ -151,7 +150,7 @@ It is declared for the avoidance of doubt that all writs of habeas corpus other 
 (2) Without limiting subsection (1), rules may be made under section 51C of the Judicature Act 1908 that amend the form in the Schedule or replace the form.
 
 ### 21 Supplementary procedure
-If a matter arises in relation to an application for which this Act does not provide, the High Court must dispose of it as nearly as is practicable in a manner consistent with this Act, and to the extent that they are not inconsistent with this Act, in accordance with the High Court Rules.
+If a matter arises in relation to an application for which this Act does not provide, the High Court must dispose of it as nearly as is practicable in a manner consistent with this Act, and to the extent that they are not inconsistent with this Act, in accordance with the High Court Rules 2016.
 
 ### 22 Repeals and amendments
 ((1), (2)) Amendment(s) incorporated in the Act(s).
