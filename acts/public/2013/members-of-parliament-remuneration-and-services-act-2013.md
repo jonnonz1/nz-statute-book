@@ -1,5 +1,5 @@
 # Members of Parliament (Remuneration and Services) Act 2013
-_Consolidation as at 2015-03-20_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Members of Parliament (Remuneration and Services) Act 2013.
@@ -96,7 +96,7 @@ Sections 8(3) to (7), 9, 21(1), 25(1) and (3), and 29 of the Remuneration Author
 
 ### 9 How salaries and allowances determined
 (1) The salaries and allowances under section 8 must be determined under section 12 of the Remuneration Authority Act 1977, and the relevant sections of that Act apply accordingly (see, for example, sections 16 and 17A to 19).
-(2) The General Manager must ensure that a copy of the Remuneration Authority's determination under section 8 is publicly available as soon as practicable after the General Manager receives it from the Remuneration Authority in accordance with section 16(1)(a)(iv) of the Remuneration Authority Act 1977.
+(2) The General Manager must ensure that a copy of the Remuneration Authority's determination under section 8 is publicly available as soon as practicable after the General Manager receives it from the Remuneration Authority in accordance with section 16(1)﻿(a)﻿(iv) of the Remuneration Authority Act 1977.
 
 ### 10 Period for which salaries and allowances of members of Parliament payable
 (1) The salary and allowance of each member of Parliament are payable for the period—
@@ -104,7 +104,7 @@ Sections 8(3) to (7), 9, 21(1), 25(1) and (3), and 29 of the Remuneration Author
   (b) ending on the earlier of the following days:
     (i) polling day for the next general election of members of Parliament:
     (ii) the day on which the member's seat becomes vacant.
-(2) Subsection (1)(a) does not apply if—
+(2) Subsection (1)﻿(a) does not apply if—
   (a) a member is returned at a by-election that is not contested; or
   (b) a person is declared to be elected to fill a vacancy in the seat of a member elected from a party list.
 (3) The salary and allowance of a member elected in either of the circumstances referred to in subsection (2) are payable starting on the day that the Electoral Commission publicly declares the member to be elected in accordance with the Electoral Act 1993.
@@ -200,7 +200,7 @@ Despite anything in this Part, if a person receives a salary as head of mission 
     (ii) enabling the Minister to attend to matters associated with passing on his or her ministerial responsibilities:
     (iii) ensuring the efficient and effective use of public resources.
 (2) The accommodation services that the Remuneration Authority must determine under subsection (1) do not include—
-  (a) accommodation services in respect of members of Parliament participating in the political exchange programme (see section 23(1)(f) in respect of these services); and
+  (a) accommodation services in respect of members of Parliament participating in the political exchange programme (see section 23(1)﻿(f) in respect of these services); and
   (b) international accommodation services in respect of members of Parliament travelling for parliamentary purposes where the costs of those accommodation services are met from the party and member support funding appropriated in respect of the party of the member undertaking the travel and are a charge against the leadership funding allocation (see section 23(3) in respect of these services); and
   (c) accommodation services in respect of the official inter-parliamentary relations programme (see section 34 in respect of these services); and
   (d) international accommodation services in respect of Ministers.
@@ -262,7 +262,7 @@ The Remuneration Authority may, at any time in the course of preparing a determi
   (d) how each appropriation made by Appropriation Acts for party and member support funding is allocated; and
   (e) how party and member support funding must be administered, including what party and member support funding may be used for and the requirements that must be met before payments may be made against claims to entitlements to that funding; and
   (f) the entitlements to travel services of members of Parliament and employees of the Parliamentary Service nominated to participate in the political exchange programme.
-(2) The Speaker's directions must not allow for accommodation services for a member of Parliament to be provided from party and member support funding or to be provided as services under subsection (1)(b), except as provided in subsection (3).
+(2) The Speaker's directions must not allow for accommodation services for a member of Parliament to be provided from party and member support funding or to be provided as services under subsection (1)﻿(b), except as provided in subsection (3).
 (3) The Speaker's directions may allow for the costs of international travel and international accommodation services for a member of Parliament travelling for parliamentary purposes, and the costs specified in subsection (4), to be met from the party and member support funding appropriated for that member's party as a charge against the leadership funding allocation.
 (4) The specified costs for the purposes of subsection (3) are the costs of international travel and international accommodation services for a spouse or partner of a party leader who accompanies the party leader when he or she is travelling for parliamentary purposes.
 
@@ -315,13 +315,13 @@ The chief executive of the department responsible for Ministerial Services must 
 
 ### 31 Conversion of entitlements
 (1) This section applies if, in respect of a particular activity,—
-  (a) a member of Parliament is entitled to an accommodation service under a determination made by the Remuneration Authority under section 17(1)(a) or a family member of a member of Parliament is entitled to a travel service under a determination made by the Authority under section 17(1)(c); and
+  (a) a member of Parliament is entitled to an accommodation service under a determination made by the Remuneration Authority under section 17(1)﻿(a) or a family member of a member of Parliament is entitled to a travel service under a determination made by the Authority under section 17(1)﻿(c); and
   (b) the cost of doing the activity in a different way is less than the cost of the entitlement under that determination.
 (2) If this section applies, the General Manager may, at the request of the member of Parliament, approve the conversion of the entitlement into a right to receive a service costing a lesser amount.
 (3) Before granting approval under subsection (2), the General Manager must be satisfied that the service costing the lesser amount is for a parliamentary purpose and that the cost of the service represents a fair value for the service provided.
-(4) The General Manager must inform the Remuneration Authority in writing of any conversion relating to a service determined by the Authority under section 17(1)(a) or (c) that the General Manager approves under this section.
+(4) The General Manager must inform the Remuneration Authority in writing of any conversion relating to a service determined by the Authority under section 17(1)﻿(a) or (c) that the General Manager approves under this section.
 (5) Subsections (1) to (4) apply, with all necessary modifications, to—
-  (a) entitlements to accommodation services of Ministers and travel services of family members of Ministers under a determination made by the Remuneration Authority under section 17(1)(b) or (c) and entitlements to travel services of Ministers under a determination made by the Minister Responsible for Ministerial Services under section 27 as if, for every reference to the General Manager, there were substituted a reference to the chief executive of the department responsible for Ministerial Services or the person nominated by the chief executive as his or her representative for the purposes of this section; and
+  (a) entitlements to accommodation services of Ministers and travel services of family members of Ministers under a determination made by the Remuneration Authority under section 17(1)﻿(b) or (c) and entitlements to travel services of Ministers under a determination made by the Minister Responsible for Ministerial Services under section 27 as if, for every reference to the General Manager, there were substituted a reference to the chief executive of the department responsible for Ministerial Services or the person nominated by the chief executive as his or her representative for the purposes of this section; and
   (b) entitlements to services under directions issued by the Speaker under section 23.
 
 ### 32 Frequency of adjustments
@@ -340,8 +340,8 @@ The chief executive of the department responsible for Ministerial Services must 
 ### 33 Quarterly reports on travel and accommodation expenses
 (1) The General Manager must, as soon as practicable after the end of each quarter, prepare and make publicly available a report setting out, in respect of each member of Parliament and each party,—
   (a) the total expenses incurred against the appropriation in section 22(1) to provide each category of travel service and accommodation service determined by the Remuneration Authority under section 17; and
-  (b) the total expenses incurred to provide each category of travel service directed by the Speaker under section 23(1)(a); and
-  (c) the total expenses incurred to provide the travel services directed by the Speaker under section 23(1)(f); and
+  (b) the total expenses incurred to provide each category of travel service directed by the Speaker under section 23(1)﻿(a); and
+  (c) the total expenses incurred to provide the travel services directed by the Speaker under section 23(1)﻿(f); and
   (d) the total expenses incurred to provide the international travel and international accommodation services directed by the Speaker under section 23(3).
 (2) The chief executive of the department responsible for Ministerial Services must, as soon as practicable after the end of each quarter, prepare and make publicly available a report setting out, in respect of each Minister,—
   (a) the total expenses incurred against the appropriation in section 22(2) to provide each category of accommodation service determined by the Remuneration Authority under section 17; and
@@ -373,7 +373,7 @@ The Clerk of the House of Representatives must, as soon as practicable after the
 ### 38 Minister must consult about taxation consequences of certain services for Ministers
 The Minister Responsible for Ministerial Services must consult the Commissioner of Inland Revenue about the taxation consequences of the following services for Ministers whenever there is any significant change in the nature or extent of those services:
   (a) international travel and international accommodation services:
-  (b) communications services (additional or alternative to the communications services for members of Parliament set out in directions issued by the Speaker under section 23(1)(c)).
+  (b) communications services (additional or alternative to the communications services for members of Parliament set out in directions issued by the Speaker under section 23(1)﻿(c)).
 
 ## Part 4 — Entitlements of former members and others and miscellaneous matters
 
@@ -385,13 +385,13 @@ The Minister Responsible for Ministerial Services must consult the Commissioner 
 (1) This section applies to—
   (a) a person who was a member of Parliament before the 1999 general election and, on the date of commencement of this Act, is no longer a member of Parliament; and
   (b) a person who was a member of Parliament before the 1999 general election and, on the date of commencement of this Act, is still a member of Parliament.
-(2) On and after the commencement of this Act, a person described in subsection (1)(a) will continue to receive the travel entitlements set out in Schedule 2 at all times while the person is no longer a member of Parliament.
-(3) After the commencement of this Act, a person described in subsection (1)(b) will receive the travel entitlements set out in Schedule 2 when, and at all times subsequently while, the person is no longer a member of Parliament.
+(2) On and after the commencement of this Act, a person described in subsection (1)﻿(a) will continue to receive the travel entitlements set out in Schedule 2 at all times while the person is no longer a member of Parliament.
+(3) After the commencement of this Act, a person described in subsection (1)﻿(b) will receive the travel entitlements set out in Schedule 2 when, and at all times subsequently while, the person is no longer a member of Parliament.
 (4) No travel entitlements may be paid to a person, in his or her capacity as a former member,—
   (a) if the person was elected as a member of Parliament for the first time at or after the 1999 general election; or
   (b) in respect of any period during which the person was a member of Parliament after 3 October 2008.
 (5) Nothing in subsection (4)—
-  (a) prevents a person from receiving any entitlement that continues in respect of a member of Parliament in accordance with a determination of the Remuneration Authority under section 17(1)(d); or
+  (a) prevents a person from receiving any entitlement that continues in respect of a member of Parliament in accordance with a determination of the Remuneration Authority under section 17(1)﻿(d); or
   (b) prevents a person from receiving any entitlement in the capacity of former Prime Minister or spouse or partner of a former Prime Minister in accordance with a determination of the Remuneration Authority under section 44.
 (6) This section is subject to section 40.
 
@@ -447,7 +447,7 @@ A statement setting out, in respect of each former member of Parliament and his 
 (3) However, no annuity may be paid to a person under subsection (1) in respect of any period during which he or she—
   (a) receives an additional salary under section 11 (other than where the person, on the day before that additional salary started to be payable, was receiving the salary of an ordinary member of Parliament under section 10); or
   (b) holds an office for which a salary (other than the salary of an ordinary member of Parliament) is payable under this Act or the Governor-General Act 2010.
-(4) The yearly rate under subsection (1)(a) must be determined by the Remuneration Authority.
+(4) The yearly rate under subsection (1)﻿(a) must be determined by the Remuneration Authority.
 (5) A determination made under this section is a legislative instrument for the purposes of the Legislation Act 2012, but is not required to be presented to the House of Representatives under section 41 of that Act and is not a disallowable instrument for the purposes of that Act.
 (6) Expenses may be incurred, without further appropriation than this section, to provide the annuities under this section.
 
@@ -473,16 +473,16 @@ A statement setting out, in respect of each former member of Parliament and his 
 **Resolution of conflicting claims to entitlements**
 
 ### 46 Conflicting claims
-(1) If more than 1 person claims to be entitled to an annuity under section 43(1)(b) or to a payment under section 45(2) or (3), an authorised person must decide—
+(1) If more than 1 person claims to be entitled to an annuity under section 43(1)﻿(b) or to a payment under section 45(2) or (3), an authorised person must decide—
   (a) whether more than 1 person is entitled to the annuity or payment; and
   (b) if so, the proportion of the annuity or payment payable to each person entitled to it.
 (2) In this section, authorised person means,—
-  (a) in relation to an annuity under section 43(1)(b), a person who has been authorised to make decisions under this section by the Minister Responsible for Ministerial Services; and
+  (a) in relation to an annuity under section 43(1)﻿(b), a person who has been authorised to make decisions under this section by the Minister Responsible for Ministerial Services; and
   (b) in relation to a payment made under section 45(2) or (3), the General Manager.
 (3) An authorised person must pay, or arrange for the payment of, an annuity or payment referred to in this section in accordance with any decision made by the authorised person under subsection (1).
 (4) If more than 1 person is entitled to an annuity or payment, the total annuity or payment paid to the persons entitled to it must not exceed the amount that would have been paid if only 1 person were entitled to it.
 (5) If a person who claims to be entitled to an annuity or payment referred to in this section is dissatisfied with a decision made by an authorised person under subsection (1), he or she may appeal against the decision to the High Court.
-(6) The High Court Rules and sections 74 to 78 of the District Courts Act 1947 apply, with all necessary modifications, to an appeal under subsection (5) as if it were an appeal under section 72 of that Act against a decision of a District Court.
+(6) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947 apply, with all necessary modifications, to an appeal under subsection (5) as if it were an appeal under section 72 of that Act against a decision of a District Court.
 (7) The provisions of the Judicature Act 1908 relating to appeals to the Court of Appeal against a decision of the High Court apply to an order or a decision of the High Court on an appeal under subsection (5).
 
 ### Subpart 2 — Amendments to Parliamentary Service Act 2000
@@ -491,18 +491,18 @@ A statement setting out, in respect of each former member of Parliament and his 
 Sections 48 to 58 amend the Parliamentary Service Act 2000.
 
 ### 48 Interpretation
-Section 3 is amended by inserting the following definitions in their appropriate alphabetical order:.
+Section 3 is amended by inserting the following definitions in their appropriate alphabetical order:
   - **qualifying electoral candidate** has the same meaning as in section 5 of the Members of Parliament (Remuneration and Services) Act 2013
   - **Remuneration Authority** has the same meaning as in section 5 of the Members of Parliament (Remuneration and Services) Act 2013
 
 ### 49 Meaning of funding entitlements for parliamentary purposes
 (1) Section 3B(1) is amended by repealing paragraphs (c) to (f) and substituting the following paragraphs:
   (c) the provision of accommodation services for members of Parliament and qualifying electoral candidates and travel services for family members of those persons in accordance with a determination made by the Remuneration Authority under section 17(1) of the Members of Parliament (Remuneration and Services) Act 2013:
-  (d) the provision of travel services for members of Parliament and qualifying electoral candidates in accordance with directions issued by the Speaker under section 23(1)(a) of the Members of Parliament (Remuneration and Services) Act 2013:
-  (e) the provision of communications services (other than services including electioneering) in accordance with directions issued by the Speaker under section 23(1)(c) of the Members of Parliament (Remuneration and Services) Act 2013:
-  (f) the provision of travel services in accordance with directions issued by the Speaker under section 23(1)(f) of the Members of Parliament (Remuneration and Services) Act 2013:
+  (d) the provision of travel services for members of Parliament and qualifying electoral candidates in accordance with directions issued by the Speaker under section 23(1)﻿(a) of the Members of Parliament (Remuneration and Services) Act 2013:
+  (e) the provision of communications services (other than services including electioneering) in accordance with directions issued by the Speaker under section 23(1)﻿(c) of the Members of Parliament (Remuneration and Services) Act 2013:
+  (f) the provision of travel services in accordance with directions issued by the Speaker under section 23(1)﻿(f) of the Members of Parliament (Remuneration and Services) Act 2013:
   (g) the provision of services and resources to qualifying electoral candidates in accordance with directions issued by the Speaker under section 23 of the Members of Parliament (Remuneration and Services) Act 2013.
-(2) Section 3B(2)(d) is amended by—
+(2) Section 3B(2)﻿(d) is amended by—
   (a) omitting section 20A of the Civil List Act 1979 and substituting section 34 of the Members of Parliament (Remuneration and Services) Act 2013; and
   (b) omitting travel programme and substituting relations programme.
 
@@ -511,7 +511,7 @@ Section 3E is repealed and the following section substituted:Interpretation of d
   Every determination made by the Remuneration Authority under section 17 of the Members of Parliament (Remuneration and Services Act) 2013 and all directions issued by the Speaker under section 23 of that Act must be interpreted consistently with sections 3B and 3C of this Act.
 
 ### 51 Purposes of this Act
-Section 4 is amended by repealing paragraph (d) and substituting the following paragraph:.
+Section 4 is amended by repealing paragraph (d) and substituting the following paragraph:
   (d) to provide for regular and independent reviews of the amounts appropriated in Appropriation Acts for services and funding to support the parliamentary operations of members of Parliament, parties, and qualifying electoral candidates:
 
 ### 52 Principal duties of Parliamentary Service
@@ -569,13 +569,13 @@ Section 21 is amended by repealing subsection (1) and substituting the following
 Sections 60 to 63 amend the Remuneration Authority Act 1977.
 
 ### 60 Functions of Authority
-(1) Section 12(1)(a)(i) is amended by omitting Civil List Act 1979 and substituting Members of Parliament (Remuneration and Services) Act 2013.
+(1) Section 12(1)﻿(a)﻿(i) is amended by omitting Civil List Act 1979 and substituting Members of Parliament (Remuneration and Services) Act 2013.
 (2) Section 12 is amended by inserting the following subsection after subsection (2A):
-  (2AB) For the avoidance of doubt, the superannuation subsidy may only be paid in accordance with subsection (2A)(a) if a member makes a contribution in the actual year to which the subsidy relates, and a member may not, in any year, make a lump sum payment of contributions in respect of past years and claim an entitlement to a subsidy in respect of the contributions paid in that year that relates to past years.
+  (2AB) For the avoidance of doubt, the superannuation subsidy may only be paid in accordance with subsection (2A)﻿(a) if a member makes a contribution in the actual year to which the subsidy relates, and a member may not, in any year, make a lump sum payment of contributions in respect of past years and claim an entitlement to a subsidy in respect of the contributions paid in that year that relates to past years.
 
 ### 61 Publication of determinations fixing Parliamentary salary and allowances
-(1) Section 16(1)(a)(iii) is amended by omitting ; and and substituting :.
-(2) Section 16(1)(a) is amended by adding the following subparagraph:.
+(1) Section 16(1)﻿(a)﻿(iii) is amended by omitting ; and and substituting :.
+(2) Section 16(1)﻿(a) is amended by adding the following subparagraph:
   (iv) the General Manager of the Parliamentary Service; and
 
 ### 62 Obligation to consult before making determinations about Parliamentary salaries and allowances
@@ -585,7 +585,7 @@ Section 17A is amended by repealing paragraphs (a) and (b) and substituting the 
     (ii) in the case of any such benefit arising under directions issued by the Speaker under section 23 or 34 of that Act or a determination made by the Minister Responsible for Ministerial Services under section 27 of that Act, the value of any such benefit assessed by the Speaker or the Minister; and
   (b) consult the Commissioner of Inland Revenue—
     (i) about the taxation consequences of the Authority's proposed determination; and
-    (ii) as required under section 16(2)(a) of the Members of Parliament (Remuneration and Services Act 2013).
+    (ii) as required under section 16(2)﻿(a) of the Members of Parliament (Remuneration and Services Act 2013).
 
 ### 63 Remuneration of existing holder not to be reduced
 Section 24(2) is amended by adding or section 16 or 17 of the Members of Parliament (Remuneration and Services) Act 2013.
@@ -649,7 +649,7 @@ The Acts specified in Schedule 3 are amended in the manner set out in that sched
   (f) the Minister Responsible for Ministerial Services may make a determination amending any entitlement referred to in subsection (5) at any time before the Minister makes a determination in accordance with paragraph (e).
 
 ### 71 Transitional provision concerning section 22
-During the transitional period referred to in section 70(1), section 22 does not apply, regardless of whether the Remuneration Authority makes a determination under section 70(6)(b).
+During the transitional period referred to in section 70(1), section 22 does not apply, regardless of whether the Remuneration Authority makes a determination under section 70(6)﻿(b).
 
 ### 72 Transitional provision concerning ongoing travel entitlements of former members
 Despite the repeal by this Act of the Civil List Act 1979 and the revocation of the Parliamentary Travel, Accommodation, Attendance, and Communications Services Determination 2012, during the period beginning on 16 December 2013 and ending on the close of 30 June 2014,—
@@ -665,12 +665,12 @@ Despite the repeal and substitution, by this Act, of sections CW 31 and CX 12 of
 
 |  | Person | Time |
 | --- | --- | --- |
-| 1 | A person who vacates the office of member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 at the close of a polling day and is a candidate in the general election concerned. | Between the close of the polling day and,—aif the person is a candidate for a seat in the House of Representatives representing an electoral district, the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district; orbif the person's name is specified in a party list, the day on which, under section 193(5) of the Electoral Act 1993, the Electoral Commission declares candidates to be elected in the election. |
+| 1 | A person who vacates the office of member of Parliament under section 54(1)﻿(b) or (2)﻿(b) of the Electoral Act 1993 at the close of a polling day and is a candidate in the general election concerned. | Between the close of the polling day and,—aif the person is a candidate for a seat in the House of Representatives representing an electoral district, the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district; orbif the person's name is specified in a party list, the day on which, under section 193(5) of the Electoral Act 1993, the Electoral Commission declares candidates to be elected in the election. |
 | 2 | A candidate at a by-election who is the former member of Parliament and whose vacation of the seat concerned caused the by-election to be required. | Between the close of the polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district concerned. |
-| 3 | A candidate at a general election for a seat in the House of Representatives representing an electoral district who did not vacate the office of member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 at the close of the polling day for the election, if the preliminary results made available by the Electoral Commission on polling day or the day after indicate that— | Between the close of polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district. |
+| 3 | A candidate at a general election for a seat in the House of Representatives representing an electoral district who did not vacate the office of member of Parliament under section 54(1)﻿(b) or (2)﻿(b) of the Electoral Act 1993 at the close of the polling day for the election, if the preliminary results made available by the Electoral Commission on polling day or the day after indicate that— | Between the close of polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district. |
 |  | ahe or she received more votes than any other candidate for the seat; or |  |
 |  | bhe or she is one of 2 or more candidates who received a number of votes that is equal, and greater than the number of votes received by any other candidate for the seat. |  |
-| 4 | A candidate at a general election whose name is specified in a party list and who did not vacate the office of member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 at the close of the polling day for the election, if the preliminary results made available by the Electoral Commission on polling day or the day after indicate that the Electoral Commission would, under section 193(5) of the Electoral Act 1993, declare him or her to be elected in the election if the results of the official count were the same as those preliminary results. | Between the close of polling day and the day on which, under section 193(5) of the Electoral Act 1993, the Electoral Commission declares candidates to be elected in the election. |
+| 4 | A candidate at a general election whose name is specified in a party list and who did not vacate the office of member of Parliament under section 54(1)﻿(b) or (2)﻿(b) of the Electoral Act 1993 at the close of the polling day for the election, if the preliminary results made available by the Electoral Commission on polling day or the day after indicate that the Electoral Commission would, under section 193(5) of the Electoral Act 1993, declare him or her to be elected in the election if the results of the official count were the same as those preliminary results. | Between the close of polling day and the day on which, under section 193(5) of the Electoral Act 1993, the Electoral Commission declares candidates to be elected in the election. |
 | 5 | A candidate at a by-election who is neither a member of Parliament nor the former member of Parliament whose vacation of the seat concerned caused the by-election to be required, if the preliminary results made available by the Electoral Commission on polling day or the day after indicate that— | Between the close of polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district. |
 |  | ahe or she received more votes than any other candidate for the seat; orbhe or she is one of 2 or more candidates who received a number of votes that is equal, and greater than the number of votes received by any other candidate for the seat. |  |
 
@@ -679,7 +679,7 @@ Despite the repeal and substitution, by this Act, of sections CW 31 and CX 12 of
 **Former members' air travel entitlements**
 
 ### 1 Rebates for travel on scheduled air services payable to former members who were members before 1999 general election
-(1) A former member of Parliament who was a member before the 1999 general election is entitled to a rebate for travel on scheduled air services undertaken by the former member in accordance with the following rules:Table of rebates applicableNumber of complete Parliaments through which former member servedPercentage of fare payable (%)Less than 2Nil2If former member has served as a Speaker or as a Minister (not including Parliamentary Under-Secretary): 50Other cases: nil2 (and part of a third)If former member has served as a Speaker or as a Minister (not including Parliamentary Under-Secretary): 50Other cases: nil3603 (and part of a fourth)604754 (and part of a fifth)755 or more90
+(1) A former member of Parliament who was a member before the 1999 general election is entitled to a rebate for travel on scheduled air services undertaken by the former member in accordance with the following rules:The following table is small in size and has 2 columns. Column 1 is headed Number of complete Parliaments through which former member served. Column 2 is headed Percentage of fare payable (%).Table of rebates applicableNumber of complete Parliaments through which former member servedPercentage of fare payable (%)Less than 2Nil2If former member has served as a Speaker or as a Minister (not including Parliamentary Under-Secretary): 50Other cases: nil2 (and part of a third)If former member has served as a Speaker or as a Minister (not including Parliamentary Under-Secretary): 50Other cases: nil3603 (and part of a fourth)604754 (and part of a fifth)755 or more90
   (a) a rebate is payable in respect of expenditure incurred by the former member personally, and a rebate is not payable where the fare is paid from public funds or from any other source:
   (b) no rebate is payable in respect of any travel undertaken by the former member for private business purposes:
   (c) where a journey is undertaken for a mixture of personal and private business purposes, the rebate is payable in respect of any portion of the fare that is an additional cost to that which would have been incurred had only the business part of the journey been undertaken:
