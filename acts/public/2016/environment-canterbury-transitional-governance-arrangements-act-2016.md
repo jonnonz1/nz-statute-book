@@ -1,5 +1,5 @@
 # Environment Canterbury (Transitional Governance Arrangements) Act 2016
-_Consolidation as at 2016-05-09_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Environment Canterbury (Transitional Governance Arrangements) Act 2016.
@@ -216,7 +216,7 @@ In considering any proposed fresh water plan or regional policy statement during
 
 ### 26 Provisions of RMA applying to appeals under section 25
 (1) Sections 300 to 307 of the RMA apply to an appeal under section 25, with any necessary modifications including, in particular, treating every reference to the Environment Court or the Registrar of that court as if it were a reference to Environment Canterbury.
-(2) The High Court Rules apply if a procedural matter is not provided for by or under those sections.
+(2) The High Court Rules 2016 apply if a procedural matter is not provided for by or under those sections.
 
 ### 27 Appeal to Court of Appeal
 Section 66 of the Judicature Act 1908 applies, with any necessary modifications, to a decision of the High Court on an appeal under section 25.
@@ -405,7 +405,7 @@ The Environment Court has no jurisdiction under this schedule and no person may 
 
 ### 5 Provisions of RMA applying to appeal procedure
 (1) Sections 300 to 307 of the RMA apply to an appeal under clause 4, with any necessary modifications including, in particular, treating every reference to the Environment Court or the Registrar of that court as if it were a reference to Environment Canterbury.
-(2) The High Court Rules apply if a procedural matter is not provided for by or under those sections.
+(2) The High Court Rules 2016 apply if a procedural matter is not provided for by or under those sections.
 
 ### 6 Appeal to Court of Appeal
 Section 66 of the Judicature Act 1908 applies, with any necessary modifications, to a decision of the High Court on an appeal under clause 4.
