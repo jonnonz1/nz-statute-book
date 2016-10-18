@@ -1,5 +1,5 @@
 # Governor-General Act 2010
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Governor-General Act 2010.
@@ -75,7 +75,7 @@ When a person ceases to hold office as Governor-General (other than by reason of
 
 ### 11 Payments in respect of other benefits and privileges
 (1) The terms of the appointment of a person as Governor-General may include an agreement for that person and his or her spouse or partner to be provided with specified benefits or privileges by way of payments in respect of domestic travel and the use of chauffeured cars when he or she no longer holds office as Governor-General.
-(2) A statement setting out the details of any benefits or privileges paid to or in respect of any former Governor-General under an agreement made under subsection (1) or an agreement referred to in section 28(1)(d) must be included in the annual financial statements of the Department of Internal Affairs in addition to the requirements in section 45B(2) of the Public Finance Act 1989.
+(2) A statement setting out the details of any benefits or privileges paid to or in respect of any former Governor-General under an agreement made under subsection (1) or an agreement referred to in section 28(1)﻿(d) must be included in the annual financial statements of the Department of Internal Affairs in addition to the requirements in section 45B(2) of the Public Finance Act 1989.
 (3) The statement must show all of the expenses incurred to provide the benefits or privileges.
 
 ### 12 Permanent appropriation for salary, allowance, annuities, etc
@@ -86,7 +86,7 @@ Expenses may be incurred, without further appropriation than this section, to me
   (d) the annuities under sections 8 and 9:
   (e) compensation under an agreement made under section 10:
   (f) specified benefits and privileges under an agreement made under section 11(1):
-  (g) specified benefits and privileges under an agreement referred to in section 28(1)(d).
+  (g) specified benefits and privileges under an agreement referred to in section 28(1)﻿(d).
 
 **Funding for Governor-General's programme**
 
@@ -115,7 +115,7 @@ If the Chief Justice, or the next most senior Judge of the New Zealand judiciary
 
 ### 17 Appeal against decision of authorised person
 (1) If a person who claims to be entitled to an annuity under section 9 is dissatisfied with a decision made by an authorised person under section 16, he or she may appeal against the decision to the High Court.
-(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947 apply, with all necessary modifications, to an appeal under subsection (1) as if it were an appeal under section 72 of that Act against a decision of a District Court.
+(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947 apply, with all necessary modifications, to an appeal under subsection (1) as if it were an appeal under section 72 of that Act against a decision of a District Court.
 (3) The provisions of the Judicature Act 1908 relating to appeals to the Court of Appeal against a decision of the High Court apply to an order or decision of the High Court on an appeal under subsection (1).
 
 **Amendments to Civil List Act 1979**
@@ -127,14 +127,14 @@ Sections 19 and 20 amend the Civil List Act 1979.
 Part 1 is repealed.
 
 ### 20 Appropriation of money for benefits and privileges
-(1) Section 25(1)(a) is repealed.
-(2) Section 25(1)(f) is amended by omitting (a),.
+(1) Section 25(1)﻿(a) is repealed.
+(2) Section 25(1)﻿(f) is amended by omitting (a),.
 
 **Amendment to Goods and Services Tax Act 1985**
 
 ### 21 Amendment to Goods and Services Tax Act 1985
 (1) This section amends the Goods and Services Tax Act 1985.
-(2) Section 6(3)(c)(i) is amended by adding or the Governor-General Act 2010.
+(2) Section 6(3)﻿(c)﻿(i) is amended by adding or the Governor-General Act 2010.
 
 **Amendments to Income Tax Act 2007**
 
@@ -145,11 +145,11 @@ Sections 23 to 25 amend the Income Tax Act 2007.
 Section CW 16 is repealed and the following section substituted:Allowance of Governor-General and other benefits and privileges
   The following are exempt income:
     (a) the allowance of the Governor-General, paid under section 6 of the Governor-General Act 2010:
-    (b) any benefit or privilege provided under an agreement made under section 11(1) of the Governor-General Act 2010 or an agreement referred to in section 28(1)(d) of that Act.
+    (b) any benefit or privilege provided under an agreement made under section 11(1) of the Governor-General Act 2010 or an agreement referred to in section 28(1)﻿(d) of that Act.
 
 ### 24 Salary or wages
 (1) The heading above section RD 5(5) is amended by omitting members of Parliament and and substituting Governor-General, members of Parliament, and.
-(2) Section RD 5(5) is amended by inserting the following paragraph before paragraph (a):.
+(2) Section RD 5(5) is amended by inserting the following paragraph before paragraph (a):
   (aa) salary made to the Governor-General:
 (3) Section RD 5 is amended by inserting the following subsection after subsection (5):
   (5B) A payment to a person made under section 7 of the Governor-General Act 2010 is included in the salary and wages of that person.
