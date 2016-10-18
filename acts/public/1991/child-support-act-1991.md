@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2016-06-02_
+_Consolidation as at 2016-10-18_
 
 > Title
 
@@ -2193,11 +2193,11 @@ The Commissioner shall, as soon as practicable, take such action as is necessary
 (1AA) However, no appeal may be made to the High Court under subsection (1) in relation to a decision under—
   (a) section 226 to appoint a lawyer to represent a child; or
   (b) section 226A to appoint, or to direct the Registrar to appoint, a lawyer to assist the court.
-(1A) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(1A) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 (2) On the ex parte application of the appellant, the Family Court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (2A) Subsection (2) overrides subsection (1A).
 (3) The Commissioner may appeal to the High Court, against the decision, against an order or declaration of a Family Court made under this Act in relation to any of the matters specified in section 102 or 103.
-(3A) The High Court Rules and sections 75 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (3) as if it were an appeal under section 72 of that Act.
+(3A) The High Court Rules 2016 and sections 75 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (3) as if it were an appeal under section 72 of that Act.
 (4) With the leave of the Court of Appeal, a party to an appeal under subsection (1) or subsection (3) may appeal to the Court of Appeal against all or part of any determination of the High Court made in the appeal.
 (5) On an appeal to the Court of Appeal under this section, the Court of Appeal shall have the same power to adjudicate on the proceeding as the High Court had.
 (6)
@@ -3270,10 +3270,10 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 ### 214 Interpretation
 For the purposes of this Part, unless the context otherwise requires,—
   - **agreement** means a convention or agreement made between the government of a country or territory outside New Zealand and the Government of New Zealand, with a view to—
-    (i) providing for New Zealand child support or domestic maintenance payable by a resident of that country or territory to be collected by the government of that country or territory:
-    (ii) providing for foreign child support or domestic maintenance payable under the laws of that country or territory by a resident of New Zealand to be collected by the Government of New Zealand:
-    (iii) providing for reciprocity in respect of other matters relating to child support or domestic maintenance:
-    (iv) exchanging information in respect of any matter relating to child support or domestic maintenance
+    (a) providing for New Zealand child support or domestic maintenance payable by a resident of that country or territory to be collected by the government of that country or territory:
+    (b) providing for foreign child support or domestic maintenance payable under the laws of that country or territory by a resident of New Zealand to be collected by the Government of New Zealand:
+    (c) providing for reciprocity in respect of other matters relating to child support or domestic maintenance:
+    (d) exchanging information in respect of any matter relating to child support or domestic maintenance
   - **foreign child support or domestic maintenance** , in relation to a country or territory outside New Zealand, means a payment required under the laws of the country or territory that is of the same nature as child support or domestic maintenance and is the subject of an agreement
   - **New Zealand child support or domestic maintenance** means child support or domestic maintenance.
 
