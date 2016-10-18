@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2016-05-13_
+_Consolidation as at 2016-10-18_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -4035,8 +4035,8 @@ The variation or revocation of a declaration under section 310K does not affect 
 (2) The notice must—
   (a) identify each company to which the proposed order relates; and
   (b) summarise all information known to the applicant that is material to whether the order should be made; and
-  (c) state that a person to whom the notice must be given may oppose the application by filing a statement of defence in accordance with the High Court Rules.
-(3) The notice requirement in this section is in addition to anything required by the High Court Rules to be done.
+  (c) state that a person to whom the notice must be given may oppose the application by filing a statement of defence in accordance with the High Court Rules 2016.
+(3) The notice requirement in this section is in addition to anything required by the High Court Rules 2016 to be done.
 
 ### 239AET Guidelines for single administration order
 In deciding whether it is just and equitable to make an order under section 239AER, the court must have regard to the following criteria:
@@ -4506,8 +4506,8 @@ If a person whose rights would be affected by the disclaimer of onerous property
 (3) The notice must—
   (a) identify each company to which the proposed order relates; and
   (b) summarise all information known to the applicant that is material to whether the order should be made; and
-  (c) state that a person to whom the notice must be given may oppose the application by filing a statement of defence in accordance with the High Court Rules.
-(4) The notice requirement in this section is in addition to anything required to be done by the High Court Rules.
+  (c) state that a person to whom the notice must be given may oppose the application by filing a statement of defence in accordance with the High Court Rules 2016.
+(4) The notice requirement in this section is in addition to anything required to be done by the High Court Rules 2016.
 
 ### 272 Guidelines for orders
 (1) In deciding whether it is just and equitable to make an order under section 271(1)﻿(a), the court must have regard to the following matters:
