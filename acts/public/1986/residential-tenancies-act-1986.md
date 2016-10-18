@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2016-07-01_
+_Consolidation as at 2016-10-18_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -2074,7 +2074,7 @@ For the purpose of ensuring that the application and administration of this Act 
 
 ### 119 Appeal on questions of law to High Court
 (1) Any party to an appeal under section 117 who is dissatisfied with the decision of the District Court Judge as being erroneous in point of law may appeal to the High Court on that question of law.
-(2) Every appeal under this section shall be dealt with in accordance with the High Court Rules.
+(2) Every appeal under this section shall be dealt with in accordance with the High Court Rules 2016.
 
 ### 120 Further appeal to Court of Appeal
 (1) Any party to an appeal under section 119 may, with the leave of the High Court or (if that leave is refused) with special leave of the Court of Appeal, appeal to the Court of Appeal against the determination of the High Court.
