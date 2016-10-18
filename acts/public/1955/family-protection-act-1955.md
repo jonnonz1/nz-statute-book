@@ -1,5 +1,5 @@
 # Family Protection Act 1955
-_Consolidation as at 2009-05-18_
+_Consolidation as at 2016-10-18_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to claims for maintenance and support out of the estates of deceased persons
 
@@ -64,7 +64,7 @@ This Act may be cited as the Family Protection Act 1955.
   (d) a person entitled to apply who the Registrar of the court considers, in his or her discretion, ought to be served because there are special circumstances rendering that desirable:
   (e) a person entitled to apply who the court considers, in its discretion, ought to be served because there are special circumstances rendering that desirable.
 (3A) Where an application has been filed, orders for representation must be made in respect of the following persons:
-  (a) the persons referred to in subsection (3)(a) to (c); and
+  (a) the persons referred to in subsection (3)﻿(a) to (c); and
   (b) any other person entitled to apply who the court considers, in its discretion, ought to be represented because there are special circumstances rendering that desirable.
 (3B) Except as provided in subsections (3) and (3A), it is not necessary to—
   (a) serve an application on any person; or
@@ -135,7 +135,7 @@ In making any order under this Act for provision out of the estate of a deceased
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (1) A party to proceedings in which there is made a decision to which subsection (1A) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
-(1A) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(1A) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 (2) On the ex parte application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (2A) Subsection (2) overrides subsection (1A).
 (3) The provisions of the Judicature Act 1908 relating to appeals to the Court of Appeal against decisions of the High Court shall apply with respect to any order or decision of the High Court under this section.
