@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2015-06-06_
+_Consolidation as at 2016-10-18_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -35,7 +35,7 @@ Part 3 sets out the key concepts on which the Act is based. It deals with—the 
 ### 8 Part 4 (Attachment and perfection of security interests in particular kinds of personal property)
 Part 4 deals with—the attachment of security interests in particular kinds of personal property, such as after-acquired property:the perfection of security interests in particular kinds of personal property, such as proceeds.
 
-### 9 Part 5 (When buyers or lessees of goods or other collateral take goods or other collateral free of unperfected security interests)
+### 9 Part 5 (When buyers or lessees of goods or other collateral take goods or other collateral free of security interest)
 Part 5 sets out when buyers of goods or other collateral or lessees of goods or other collateral get the goods or other collateral without being subject to a prior security interest.
 
 ### 9A Part 6 (Additional provisions relating to when buyers or lessees of motor vehicles take motor vehicles free of security interest)
@@ -1337,7 +1337,7 @@ Sections 165 to 167 do not apply to the registration of a security interest prov
     (i) section 89, 91, or 93 of the District Courts Act 1947; or
     (ii) section 137(1), 138, or 141(3)﻿(b) of the Sentencing Act 2002; or
     (iii) section 100L(1)﻿(a) or 100P(1) of the Summary Proceedings Act 1957; or
-    (iv) a sale order issued under rule 17.63 of the High Court Rules.
+    (iv) a sale order issued under rule 17.63 of the High Court Rules 2016.
 (2) A court registrar may enter in the register a financing change statement that—
   (a) discharges the registration of the applicable financing statement if the collateral description in the applicable financing statement relates exclusively to the personal property; or
   (b) amends the applicable financing statement to exclude the personal property from the collateral description if the collateral description in the applicable financing statement does not relate exclusively to the personal property.
