@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2016-07-04_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -1960,7 +1960,7 @@ An appeal under section 149 is dealt with in accordance with the District Courts
 (2) The leave of the District Court must be sought within 21 days after the District Court's decision.
 (3) If the District Court refuses to grant leave, the High Court may grant special leave to appeal.
 (4) The special leave of the High Court must be sought within 21 days after the District Court refused leave.
-(5) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under this section as if it were an appeal under section 72 of that Act.
+(5) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under this section as if it were an appeal under section 72 of that Act.
 
 ### 163 Appeal to Court of Appeal on question of law
 (1) A party to an appeal before the High Court under section 162 who is dissatisfied with any determination or decision of the Court on the appeal as being wrong in law may, with the leave of the High Court, appeal to the Court of Appeal by way of case stated for the opinion of that court on a question of law only.
