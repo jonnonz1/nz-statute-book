@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2016-08-25_
+_Consolidation as at 2016-10-18_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -1808,7 +1808,7 @@ A District Court may, if it thinks fit, on the application of the applicant or t
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (1) A party to proceedings in which there is made a decision to which subsection (1AA) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
-(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 (3)
 
 ### 154 Appeals to Court of Appeal
@@ -1905,7 +1905,7 @@ The person to whom a compliance notice is issued must—
 
 ### 156G Appeal to High Court, Court of Appeal, or Supreme Court
 (1) A party to an appeal under section 156F may appeal to the High Court on a question of law.
-(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947 apply to an appeal under subsection (1)—
+(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947 apply to an appeal under subsection (1)—
   (a) as if it were an appeal under section 72 of the District Courts Act 1947; and
   (b) with all necessary modifications.
 (3) A party to an appeal under subsection (1) may appeal to the Court of Appeal or the Supreme Court against a determination of the High Court on a question of law, with the leave of the court appealed to, and subject to section 14 of the Supreme Court Act 2003.
