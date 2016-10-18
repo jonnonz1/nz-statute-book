@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -1823,12 +1823,12 @@ If a regional council declines to register an exempt service or record in the re
 
 ### 144 Appeals to High Court on questions of law
 (1) A party to an appeal under section 141 who is dissatisfied with the decision of the District Court on the ground that it is erroneous in law may appeal to the High Court on that question of law.
-(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 
 ### 145 Further appeals to Court of Appeal
 (1) A party to an appeal under section 144 who is dissatisfied with the decision of the High Court in respect of the appeal may, with the leave of the High Court or (if that leave is declined) with special leave of the Court of Appeal, appeal to the Court of Appeal on that question of law.
 (2) The Court of Appeal may make any order or determination that it thinks fit in relation to the appeal.
-(3) Except as provided in this section, the procedure in respect of an appeal under this section must be in accordance with the applicable provisions of the High Court Rules or the Court of Appeal Rules, as the case may be.
+(3) Except as provided in this section, the procedure in respect of an appeal under this section must be in accordance with the applicable provisions of the High Court Rules 2016 or the Court of Appeal Rules, as the case may be.
 
 **Offences**
 
