@@ -1,5 +1,5 @@
 # International Crimes and International Criminal Court Act 2000
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the International Crimes and International Criminal Court Act 2000.
@@ -19,12 +19,12 @@ The purpose of this Act is—
 (1) In this Act, unless the context otherwise requires,—
   - **Appeals Chamber** means the Appeals Chamber of the ICC
   - **forfeiture order** —
-    (a) means an order made by the ICC under Article 77(2)(b) of the Statute or under the Rules for the forfeiture of tainted property; and
+    (a) means an order made by the ICC under Article 77(2)﻿(b) of the Statute or under the Rules for the forfeiture of tainted property; and
     (b) includes a forfeiture order that is treated for the purposes of enforcement as a profit forfeiture order under section 131
   - **ICC** means the International Criminal Court established under the Statute; and includes any of the organs of the International Criminal Court referred to in the Statute
   - **ICC prisoner** means a person who is—
     (a) sentenced to imprisonment by the ICC; or
-    (b) the subject of a request by the ICC under section 171(1)(b) to be held in custody during a sitting of the ICC in New Zealand
+    (b) the subject of a request by the ICC under section 171(1)﻿(b) to be held in custody during a sitting of the ICC in New Zealand
   - **international crime** means, in relation to the ICC, a crime in respect of which the ICC has jurisdiction under Article 5 of the Statute
   - **Minister** means the Minister of Justice
   - **New Zealand prison** or means a prison within the meaning of section 3(1) of the Corrections Act 2004
@@ -90,11 +90,11 @@ For the purposes of any provision of the Statute or the Rules that confers a pow
     (i) the nationality or citizenship of the person accused; or
     (ii) whether or not any act forming part of the offence occurred in New Zealand; or
     (iii) whether or not the person accused was in New Zealand at the time that the act constituting the offence occurred or at the time a decision was made to charge the person with an offence.
-(2) Subsection (3) applies if a person to whom subsection (1)(a)(ii) applies is convicted of an offence against section 9 or section 10.
+(2) Subsection (3) applies if a person to whom subsection (1)﻿(a)﻿(ii) applies is convicted of an offence against section 9 or section 10.
 (3) If this subsection applies, the maximum term of imprisonment or the maximum fine that may be imposed on the offender is either—
   (a) the maximum term or the maximum fine that could have been imposed under the laws of New Zealand at the time of the offence, if that maximum has subsequently been increased; or
   (b) the maximum term or the maximum fine that can be imposed on the day on which sentence is to be passed, if that maximum is less than that prescribed at the time of the offence.
-(4) In subsection (1)(a)(ii), applicable date means,—
+(4) In subsection (1)﻿(a)﻿(ii), applicable date means,—
   (a) in relation to an offence against section 9, 28 March 1979:
   (b) in relation to an offence against section 10, 1 January 1991.
 
@@ -119,10 +119,10 @@ For the purposes of any provision of the Statute or the Rules that confers a pow
 ### 11 War crimes
 (1) Every person commits an offence and is liable on conviction to the penalty specified in subsection (3) who, in New Zealand or elsewhere, commits a war crime.
 (2) For the purposes of this section, a war crime is an act specified in—
-  (a) Article 8(2)(a) of the Statute (which relates to grave breaches of the First, Second, Third, and Fourth Geneva Conventions); or
-  (b) Article 8(2)(b) of the Statute (which relates to other serious violations of the laws and customs applicable in international armed conflict); or
-  (c) Article 8(2)(c) of the Statute (which relates to armed conflict not of an international character involving serious violations of Article 3 common to the four Geneva Conventions of 12 August 1949); or
-  (d) Article 8(2)(e) of the Statute (which relates to other serious violations of the laws and customs applicable in armed conflict not of an international character).
+  (a) Article 8(2)﻿(a) of the Statute (which relates to grave breaches of the First, Second, Third, and Fourth Geneva Conventions); or
+  (b) Article 8(2)﻿(b) of the Statute (which relates to other serious violations of the laws and customs applicable in international armed conflict); or
+  (c) Article 8(2)﻿(c) of the Statute (which relates to armed conflict not of an international character involving serious violations of Article 3 common to the four Geneva Conventions of 12 August 1949); or
+  (d) Article 8(2)﻿(e) of the Statute (which relates to other serious violations of the laws and customs applicable in armed conflict not of an international character).
 (3) The penalty for a war crime is,—
   (a) if the offence involves the wilful killing of a person, the same as the penalty for murder:
   (b) in any other case, imprisonment for life or a lesser term.
@@ -147,10 +147,10 @@ For the purposes of any provision of the Statute or the Rules that confers a pow
   (b) the provisions of New Zealand law and the principles of criminal law applicable to the offence under New Zealand law apply; and
   (c) a person charged with the offence may rely on any justification, excuse, or defence available under the laws of New Zealand or under international law; and
   (d) despite paragraphs (b) and (c), the fact that an act done outside New Zealand is not an offence under the law of the place where it was done is not a justification, excuse, or defence.
-(2) For the purposes of subsection (1)(a), the Articles of the Statute specified in that subsection (other than Article 20) apply as if—
+(2) For the purposes of subsection (1)﻿(a), the Articles of the Statute specified in that subsection (other than Article 20) apply as if—
   (a) a reference to the ICC were a reference to the New Zealand court exercising jurisdiction in respect of the proceedings; and
   (b) a reference to the Statute includes a reference to this Act.
-(3) If there is any inconsistency between the provisions specified in subsection (1)(a) and the provisions and principles specified in subsections (1)(b) and (1)(c), the provisions specified in subsection (1)(a) prevail.
+(3) If there is any inconsistency between the provisions specified in subsection (1)﻿(a) and the provisions and principles specified in subsections (1)﻿(b) and (1)﻿(c), the provisions specified in subsection (1)﻿(a) prevail.
 (4) For the purposes of interpreting and applying Articles 6 to 8 of the Statute in proceedings for an offence against section 9 or section 10 or section 11,—
   (a) the New Zealand court exercising jurisdiction in the proceedings may have regard to any elements of crimes adopted or amended in accordance with Article 9 of the Statute:
   (b) the provisions of Parts 5 to 10 of the Crimes Act 1961 do not apply.
@@ -375,7 +375,7 @@ After receiving a request under section 33, the District Court Judge must issue 
     (ii) if there is no such provision, the time it is likely to take for the ICC to prepare and transmit the request and supporting documents to New Zealand:
     (iii) the time it is likely to take for the Minister to consider the request after receipt and for the notice to be transmitted to the District Court:
   (d) if the District Court does not receive the notice within the time fixed by the District Court under paragraph (c), and does not extend that time under subsection (2), the District Court must discharge the person.
-(2) The District Court may, from time to time, in its discretion, extend any time fixed by it under subsection (1)(c).
+(2) The District Court may, from time to time, in its discretion, extend any time fixed by it under subsection (1)﻿(c).
 
 **Remand and bail**
 
@@ -429,9 +429,9 @@ After receiving a request under section 33, the District Court Judge must issue 
 (3) The person is eligible for surrender if—
   (a) a warrant for the arrest of the person issued by the ICC or a judgment of conviction for an international crime given by the ICC has been produced to the District Court; and
   (b) the District Court is satisfied that the person is the person to whom the warrant or judgment relates; and
-  (c) the District Court is satisfied that the person was arrested in accordance with the proper process as provided in Article 59(2)(b) of the Statute; and
-  (d) the District Court is satisfied that the person’s rights were respected as provided in Article 59(2)(c) of the Statute.
-(4) Neither subsection (3)(c) nor subsection (3)(d) applies unless the person puts the matter at issue.
+  (c) the District Court is satisfied that the person was arrested in accordance with the proper process as provided in Article 59(2)﻿(b) of the Statute; and
+  (d) the District Court is satisfied that the person’s rights were respected as provided in Article 59(2)﻿(c) of the Statute.
+(4) Neither subsection (3)﻿(c) nor subsection (3)﻿(d) applies unless the person puts the matter at issue.
 (5) Despite subsection (3), the person is not eligible for surrender if the person satisfies the District Court that a mandatory restriction on the surrender of the person specified in section 55(1) applies.
 (6) Despite subsection (3), in the proceedings under this section,—
   (a) the person to whom the proceedings relate is not entitled to adduce, and the District Court is not entitled to receive, evidence to contradict an allegation that the person has engaged in conduct that constitutes the offence for which the surrender is sought; and
@@ -452,7 +452,7 @@ After receiving a request under section 33, the District Court Judge must issue 
 (3) Nothing in this section prevents a person, in respect of whom a determination of eligibility for surrender is made by the District Court under section 43, from subsequently notifying the Minister that the person consents to surrender.
 (4) To avoid doubt,—
   (a) a person arrested under a provisional warrant may consent to surrender before a request for surrender is received, in which case the Minister may make a surrender order as if a request for surrender had been received; and
-  (b) if paragraph (a) applies, section 38(1)(a) does not apply.
+  (b) if paragraph (a) applies, section 38(1)﻿(a) does not apply.
 
 ### 46 Procedure following determination on eligibility or consent to surrender
 (1) This section applies if—
@@ -461,7 +461,7 @@ After receiving a request under section 33, the District Court Judge must issue 
 (2) If this section applies, the District Court must—
   (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with section 42 of this Act or section 169 of the Criminal Procedure Act 2011 pending the surrender of the person to the ICC or the person’s discharge according to law; and
   (b) send to the Minister a copy of the warrant of detention and such report on the case as the court thinks fit; and
-  (c) inform a person to whom subsection (1)(a) applies that,—
+  (c) inform a person to whom subsection (1)﻿(a) applies that,—
     (i) subject to section 70, the person will not be surrendered until the expiration of 15 days after the date of the issue of the warrant; and
     (ii) during that time the person has the right to make an application for a writ of habeas corpus; and
     (iii) the person has the right to lodge an appeal under section 67; and
@@ -480,7 +480,7 @@ After receiving a request under section 33, the District Court Judge must issue 
   (c) the Minister postpones the execution of a request for surrender in accordance with section 56; or
   (d) the Minister makes a temporary surrender order under section 49.
 (3) The Minister must not make a surrender order in respect of a person until the later of the following times:
-  (a) until the expiration of 15 days after the date of the issue of the warrant of detention of that person under section 46(2)(a); or
+  (a) until the expiration of 15 days after the date of the issue of the warrant of detention of that person under section 46(2)﻿(a); or
   (b) if an appeal, or an application for review or habeas corpus in respect of a determination under this Act, or any appeal from such an appeal or application, is pending, until after the date that the proceedings are finally determined and the result is that the person is eligible to be surrendered.
 (4) Nothing in subsection (3) applies to—if the ICC withdraws its request for the surrender of the person for the international crime or crimes to which the waiver does not relate.
   (a) a person who has consented to surrender under section 45, whether before the District Court or subsequently by notice to the Minister; or
@@ -524,7 +524,7 @@ After receiving a request under section 33, the District Court Judge must issue 
 
 ### 52 New Zealand sentence continues to run
 (1) If a person who is subject to a sentence of imprisonment is released from a New Zealand prison under a surrender order made under section 47 or a temporary surrender order made under section 49, the person is to be treated, while in custody in connection with the request or the crime to which the request related, as the case may be (including custody outside New Zealand), as being in custody for the purposes of the New Zealand sentence, which continues to run.
-(2) If, while a person is within the jurisdiction of the ICC under a temporary surrender order or surrender order, the person ceases to be liable to be detained in a New Zealand prison, the Minister must inform the ICC that any undertakings relating to custody referred to in section 49(3)(a) and section 49(3)(b) no longer need to be complied with.
+(2) If, while a person is within the jurisdiction of the ICC under a temporary surrender order or surrender order, the person ceases to be liable to be detained in a New Zealand prison, the Minister must inform the ICC that any undertakings relating to custody referred to in section 49(3)﻿(a) and section 49(3)﻿(b) no longer need to be complied with.
 (3) Nothing in this section affects the ICC’s power to direct that any sentence of imprisonment that it imposes is to be cumulative on a sentence imposed under New Zealand law.
 
 ### 53 Form and execution of surrender order or temporary surrender order
@@ -558,7 +558,7 @@ A surrender order made under section 47 or a temporary surrender order made unde
 (1) The Minister may postpone the execution of a request for surrender under this Part at any time before the person sought is surrendered if, and only if,—
   (a) a ruling on admissibility of the kind specified in section 57(1) or section 59(1) or section 60 is pending before the ICC; or
   (b) the request would interfere with an investigation or prosecution for a different offence against New Zealand law, as provided in section 58; or
-  (c) a request of the kind referred to in section 66(1)(c) is made to the ICC.
+  (c) a request of the kind referred to in section 66(1)﻿(c) is made to the ICC.
 (2) Even if a case is one to which subsection (1) applies, the Minister may decide not to postpone the execution of the request; and, in that event, the Minister may take such steps under this Part as may be appropriate in the circumstances, including making a surrender order with immediate effect under section 47 or with effect at a later date under section 48 or a temporary surrender order under section 49.
 (3) If the Minister postpones the execution of the request, the postponement may be for a reasonable time and may, if the Minister considers it desirable, be extended from time to time.
 (4) A decision by the Minister to postpone the execution of a request—
@@ -594,7 +594,7 @@ A surrender order made under section 47 or a temporary surrender order made unde
   (c) either—
     (i) the conduct is being investigated or prosecuted in New Zealand; or
     (ii) the conduct had been investigated in New Zealand and a decision was made not to prosecute the person sought, that decision not being due to the unwillingness or genuine inability to prosecute; and
-  (d) a challenge to the admissibility of the case is being or has been made to the ICC under Article 19(2)(b) of the Statute.
+  (d) a challenge to the admissibility of the case is being or has been made to the ICC under Article 19(2)﻿(b) of the Statute.
 (2) If this section applies, the Minister may postpone the execution of the request for surrender until the ICC has made its determination on admissibility.
 (3) If the ICC determines that the case is inadmissible, surrender must be refused.
 (4) If the ICC determines that the case is admissible and there is no other ground for refusing or postponing the request, the request must continue to be dealt with under this Part.
@@ -613,7 +613,7 @@ If a request for surrender of a person is received from the ICC and 1 or more St
 (1) If section 61 applies and the requesting State is a party to the Statute, priority must be given to the request from the ICC if—
   (a) the ICC has, under Article 18 or Article 19 of the Statute, made a determination that the case in respect of which surrender is sought is admissible and that determination takes into account the investigation or prosecution conducted by the requesting State in respect of its request for extradition; or
   (b) the ICC makes such a determination after receiving notification of the competing request.
-(2) If the request is one to which subsection (1)(b) relates, then, pending the ICC’s determination,—
+(2) If the request is one to which subsection (1)﻿(b) relates, then, pending the ICC’s determination,—
   (a) the steps required to be taken under the Extradition Act 1999 in relation to a request for extradition may continue to be taken; but
   (b) no person may be surrendered under that Act unless and until the ICC makes its decision on admissibility and determines that the case is inadmissible.
 
@@ -695,7 +695,7 @@ Without limiting section 45, a person whose surrender is sought may, by a waiver
   (b) remit the determination to the District Court with a direction that the proceedings to determine whether the person is eligible for surrender be reheard in respect of that international crime or those international crimes.
 (3) Despite subsections (1) and (2), if an appeal is against a determination that a person is eligible for surrender, and the High Court determines that there has been an error of law, it may nevertheless decline to reverse or amend the determination in respect of which the case has been stated if it considers that no substantial wrong or miscarriage of justice has occurred and that the determination ought to be upheld.
 (4) If the appeal is against a determination that a person is not eligible for surrender, and the High Court determines that the determination includes an error of law, the High Court may—
-  (a) exercise the powers of a District Court under section 46 as if it were a District Court, although subsection (2)(c) of that section does not apply:
+  (a) exercise the powers of a District Court under section 46 as if it were a District Court, although subsection (2)﻿(c) of that section does not apply:
   (b) if it remits the determination to the District Court, issue a warrant for the arrest and detention of the person pending the District Court’s reconsideration of the determination or rehearing of the proceedings to determine whether the person is eligible for surrender; and section 69(3) applies to any warrant issued under this paragraph as if the warrant were issued under that section.
 (5) Subsections (1), (2), and (4) do not limit section 71.
 
@@ -768,7 +768,7 @@ To avoid doubt, the discharge of a person under any provision of this Part does 
 **Identifying or locating persons or things**
 
 ### 81 Assistance in locating or identifying persons or things
-(1) This section applies if the ICC requests assistance under any of Articles 19(8), 56, 64, or 93(1)(a) of the Statute in locating, or identifying and locating, a person or a thing believed to be in New Zealand.
+(1) This section applies if the ICC requests assistance under any of Articles 19(8), 56, 64, or 93(1)﻿(a) of the Statute in locating, or identifying and locating, a person or a thing believed to be in New Zealand.
 (2) The Attorney-General may give authority for the request to proceed if the Attorney-General is satisfied that—
   (a) the request relates to an investigation being conducted by the Prosecutor or a proceeding before the ICC; and
   (b) the person to whom or thing to which the request relates is or may be in New Zealand.
@@ -782,7 +782,7 @@ To avoid doubt, the discharge of a person under any provision of this Part does 
 **Taking evidence and producing documents**
 
 ### 82 Assistance in gathering evidence
-(1) This section applies if the ICC requests, under any of Articles 19(8), 56, 64, or 93(1)(b) of the Statute, that—
+(1) This section applies if the ICC requests, under any of Articles 19(8), 56, 64, or 93(1)﻿(b) of the Statute, that—
   (a) evidence be taken in New Zealand; or
   (b) documents or other articles in New Zealand be produced.
 (2) The Attorney-General may give authority for the request to proceed if the Attorney-General is satisfied that—
@@ -842,7 +842,7 @@ To avoid doubt, the discharge of a person under any provision of this Part does 
 **Questioning persons**
 
 ### 89 Assistance in questioning persons
-(1) This section applies if the ICC requests assistance under any of Articles 19(8), 56, 64, or 93(1)(c) of the Statute in questioning a person who is being investigated or prosecuted.
+(1) This section applies if the ICC requests assistance under any of Articles 19(8), 56, 64, or 93(1)﻿(c) of the Statute in questioning a person who is being investigated or prosecuted.
 (2) The Attorney-General may give authority for the request to proceed if the Attorney-General is satisfied that—
   (a) the request relates to an investigation being conducted by the Prosecutor or a proceeding before the ICC; and
   (b) the person is or may be in New Zealand.
@@ -854,19 +854,19 @@ To avoid doubt, the discharge of a person under any provision of this Part does 
     (iii) advise the Attorney-General of the outcome of those endeavours and, if relevant, deliver the record and any report of the questioning to the Attorney-General.
 
 ### 90 Procedure where questioning by New Zealand agency
-(1) This section applies if there are grounds to believe that a person who is to be questioned by a New Zealand agency following a request under Article 91(1)(c) of the Statute has committed a crime within the jurisdiction of the ICC.
+(1) This section applies if there are grounds to believe that a person who is to be questioned by a New Zealand agency following a request under Article 91(1)﻿(c) of the Statute has committed a crime within the jurisdiction of the ICC.
 (2) If this section applies, the person to be questioned must be informed, before being questioned, that there are grounds to believe that the person has committed a crime within the jurisdiction of the ICC and that the person has the right—
   (a) to remain silent, without such silence being a consideration in the determination of guilt or innocence; and
   (b) to have legal assistance of the person’s choosing, or, if the person does not have legal assistance, to have legal assistance assigned to the person, in any case where the interests of justice so require, and without payment by the person in any such case if the person does not have sufficient means to pay for it; and
   (c) to be questioned in the presence of a lawyer unless the person voluntarily waives the right to counsel.
 (3) If there is any inconsistency between subsection (2) and any other enactment, subsection (2) prevails.
-(4) If the person seeks to have legal assistance assigned under subsection (2)(b), that assistance may be provided under the Legal Services Act 2000.
+(4) If the person seeks to have legal assistance assigned under subsection (2)﻿(b), that assistance may be provided under the Legal Services Act 2000.
 (5) This section does not give any person a power to require another person to answer questions.
 
 **Assistance in arranging service**
 
 ### 91 Assistance in arranging service of documents
-(1) This section applies if the ICC requests assistance under any of Articles 19(8), 56, 58(7), 64, or 93(1)(d) of the Statute in arranging for the service of a document in New Zealand.
+(1) This section applies if the ICC requests assistance under any of Articles 19(8), 56, 58(7), 64, or 93(1)﻿(d) of the Statute in arranging for the service of a document in New Zealand.
 (2) The Attorney-General may give authority for the request to proceed if the Attorney-General is satisfied that—
   (a) the request relates to an investigation being conducted by the Prosecutor or a proceeding before the ICC; and
   (b) the person or body to be served is or may be in New Zealand.
@@ -884,7 +884,7 @@ To avoid doubt, the discharge of a person under any provision of this Part does 
 **Facilitating appearance of witnesses**
 
 ### 92 Request for voluntary appearance of witness
-(1) This section applies if the ICC requests assistance under any of Articles 19(8), 56, 64, or 93(1)(e) of the Statute in facilitating the voluntary appearance of a witness before the ICC.
+(1) This section applies if the ICC requests assistance under any of Articles 19(8), 56, 64, or 93(1)﻿(e) of the Statute in facilitating the voluntary appearance of a witness before the ICC.
 (2) The Attorney-General may give authority for the request to proceed if the Attorney-General is satisfied that—
   (a) the request relates to an investigation being conducted by the Prosecutor or a proceeding before the ICC; and
   (b) the witness’s attendance is sought so that the witness can give evidence or information relating to the investigation or proceeding; and
@@ -915,7 +915,7 @@ To avoid doubt, the discharge of a person under any provision of this Part does 
 **Temporary transfer of prisoners**
 
 ### 95 Request for temporary transfer of prisoner
-(1) This section applies if the ICC requests assistance under Article 93(1)(f) of the Statute in facilitating the temporary transfer to the ICC of a New Zealand prisoner.
+(1) This section applies if the ICC requests assistance under Article 93(1)﻿(f) of the Statute in facilitating the temporary transfer to the ICC of a New Zealand prisoner.
 (2) The Attorney-General may give authority for the request to proceed if the Attorney-General is satisfied that—
   (a) the request relates to an investigation being conducted by the Prosecutor or a proceeding before the ICC; and
   (b) the prisoner’s attendance is sought for the purposes of identification or for obtaining evidence or other assistance.
@@ -967,7 +967,7 @@ To avoid doubt, the discharge of a person under any provision of this Part does 
 **Examination of places or sites**
 
 ### 100 Assistance in examining places or sites
-(1) This section applies if the ICC requests assistance under any of Articles 19(8), 56, 64, or 93(1)(g) of the Statute in examining places or sites in New Zealand.
+(1) This section applies if the ICC requests assistance under any of Articles 19(8), 56, 64, or 93(1)﻿(g) of the Statute in examining places or sites in New Zealand.
 (2) The Attorney-General may give authority for the request to proceed if the Attorney-General is satisfied that the request relates to an investigation being conducted by the Prosecutor or a proceeding before the ICC.
 (3) If the Attorney-General gives authority for the request to proceed,—
   (a) the Attorney-General must forward the request to the appropriate New Zealand agency; and
@@ -980,7 +980,7 @@ To avoid doubt, the discharge of a person under any provision of this Part does 
 **Search and seizure**
 
 ### 101 Request for search and seizure
-(1) This section applies if the ICC makes a request under any of Articles 19(8), 56, 64, or 93(1)(h) of the Statute for search and seizure.
+(1) This section applies if the ICC makes a request under any of Articles 19(8), 56, 64, or 93(1)﻿(h) of the Statute for search and seizure.
 (2) The Attorney-General may give authority for the request to proceed if he or she is satisfied that—
   (a) the request relates to an investigation being conducted by the Prosecutor or a proceeding before the ICC; and
   (b) any thing relevant to the investigation or proceedings is or may be located in New Zealand.
@@ -1033,7 +1033,7 @@ To avoid doubt, the discharge of a person under any provision of this Part does 
 **Provision of records and documents**
 
 ### 109 Facilitating provision of records and documents
-(1) This section applies if the ICC makes a request under Article 93(1)(i) of the Statute for the provision of records and documents, including official records and documents.
+(1) This section applies if the ICC makes a request under Article 93(1)﻿(i) of the Statute for the provision of records and documents, including official records and documents.
 (2) The Attorney-General may give authority for the request to proceed if the Attorney-General is satisfied that—
   (a) the request relates to an investigation being conducted by the Prosecutor or a proceeding before the ICC; and
   (b) the document or record sought is or may be in New Zealand.
@@ -1049,7 +1049,7 @@ To avoid doubt, the discharge of a person under any provision of this Part does 
 
 ### 110 Protecting victims and witnesses and preserving evidence
 (1) This section applies if the ICC requests—
-  (a) assistance under Article 93(1)(j) of the Statute in protecting victims and witnesses or preserving evidence:
+  (a) assistance under Article 93(1)﻿(j) of the Statute in protecting victims and witnesses or preserving evidence:
   (b) assistance under Article 19(8), or paragraphs (2) or (3) of Article 56, in preserving evidence.
 (2) The Attorney-General may give authority for the request to proceed if the Attorney-General is satisfied that—
   (a) the request relates to an investigation being conducted by the Prosecutor or a proceeding before the ICC; and
@@ -1066,7 +1066,7 @@ To avoid doubt, the discharge of a person under any provision of this Part does 
 **Identifying, freezing, or seizing property associated with international crimes**
 
 ### 111 Request relating to property associated with crime
-(1) This section applies if the ICC requests assistance under Article 93(1)(k) of the Statute in identifying, tracing and freezing, or seizing tainted property for the purpose of eventual forfeiture.
+(1) This section applies if the ICC requests assistance under Article 93(1)﻿(k) of the Statute in identifying, tracing and freezing, or seizing tainted property for the purpose of eventual forfeiture.
 (2) The Attorney-General may give authority for the request to proceed if the Attorney-General is satisfied that—
   (a) the request relates to an international crime that is being investigated by the Prosecutor, or which is the subject of proceedings before the ICC; and
   (b) tainted property is or may be located in New Zealand.
@@ -1081,7 +1081,7 @@ To avoid doubt, the discharge of a person under any provision of this Part does 
 **Other types of assistance**
 
 ### 113 Request for other types of assistance
-(1) This section applies if the ICC requests any other type of assistance under Article 93(1)(l) of the Statute for the purposes of facilitating the investigation and prosecution of crimes within the jurisdiction of the ICC.
+(1) This section applies if the ICC requests any other type of assistance under Article 93(1)﻿(l) of the Statute for the purposes of facilitating the investigation and prosecution of crimes within the jurisdiction of the ICC.
 (2) The Attorney-General may give authority for the request to proceed if the Attorney-General is satisfied that—
   (a) the request relates to an investigation being conducted by the Prosecutor or a proceeding before the ICC; and
   (b) the assistance sought is not prohibited by New Zealand law.
@@ -1116,9 +1116,9 @@ To avoid doubt, the discharge of a person under any provision of this Part does 
 (1) The Attorney-General may postpone the execution of a request for assistance under this Part if, and only if,—
   (a) the execution of the request would interfere with an ongoing investigation or prosecution for a different offence and section 117 applies; or
   (b) a ruling on admissibility is pending before the ICC and section 118 applies; or
-  (c) there are competing requests from the ICC and from another State to which New Zealand is under an international obligation and section 119(2)(a) applies; or
-  (d) the request is for assistance under Article 93(1)(l) of the Statute and is one to which section 113(4) applies; or
-  (e) a request of the kind referred to in section 120(2)(c) is made to the ICC.
+  (c) there are competing requests from the ICC and from another State to which New Zealand is under an international obligation and section 119(2)﻿(a) applies; or
+  (d) the request is for assistance under Article 93(1)﻿(l) of the Statute and is one to which section 113(4) applies; or
+  (e) a request of the kind referred to in section 120(2)﻿(c) is made to the ICC.
 (2) Even if a case is one to which subsection (1) applies, the Attorney-General may decide not to postpone the execution of the request, and in that event the request must be dealt with in accordance with this Part.
 (3) If the Attorney-General postpones the execution of a request for assistance under this Part, the postponement may be for a reasonable time and may, if the Attorney-General considers it desirable, be extended from time to time.
 
@@ -1131,7 +1131,7 @@ If the execution of a particular measure of assistance specified in a request to
 (1) If the immediate execution of a request by the ICC for assistance to which this Part applies would interfere with an ongoing investigation or prosecution of a case different from that to which the request relates, the Attorney-General may postpone the execution of the request for a period of time agreed between the Attorney-General and the ICC.
 (2) Despite section 115(3), the period of postponement may be no longer than is reasonably necessary to complete the investigation or prosecution.
 (3) Before making a decision to postpone the execution of a request, the Attorney-General must consider whether the assistance could be provided immediately subject to certain conditions.
-(4) If the Attorney-General decides to postpone the execution of a request and the ICC seeks assistance in the preservation of evidence under Article 93(1)(j) of the Statute, the Attorney-General must deal with that request in accordance with this Part.
+(4) If the Attorney-General decides to postpone the execution of a request and the ICC seeks assistance in the preservation of evidence under Article 93(1)﻿(j) of the Statute, the Attorney-General must deal with that request in accordance with this Part.
 
 ### 118 Postponement where admissibility challenge
 (1) This section applies if the ICC is considering an admissibility challenge under Article 18 or Article 19 of the Statute in respect of a case that a request to which this Part applies relates.
@@ -1167,7 +1167,7 @@ To avoid doubt, if the ICC makes a request under Part 9 of the Statute to assist
 
 ### 123 Execution of request by Prosecutor
 (1) The Prosecutor may execute a request that does not involve any compulsory measures on New Zealand territory in the circumstances specified in Article 99(4) of the Statute.
-(2) If the Attorney-General identifies difficulties with the execution of a request to which Article 99(4)(b) of the Statute relates, the Attorney-General must, without delay, consult with the ICC in order to resolve the matter.
+(2) If the Attorney-General identifies difficulties with the execution of a request to which Article 99(4)﻿(b) of the Statute relates, the Attorney-General must, without delay, consult with the ICC in order to resolve the matter.
 (3) The provisions of this Act and the Statute, allowing a person heard or examined by the ICC under Article 72 of the Statute to invoke restrictions designed to prevent disclosure of confidential information connected with national security, apply to the execution of requests for assistance under Article 99 of the Statute.
 
 ## Part 6 — Enforcement of penalties
@@ -1188,11 +1188,11 @@ To avoid doubt, if the ICC makes a request under Part 9 of the Statute to assist
   (b) that agency must, without delay,—
     (i) in a case where the order requires a monetary payment, take such steps as are necessary to enforce the order as if it were a sentence of reparation imposed under section 32 of the Sentencing Act 2002; or
     (ii) in a case where the order requires the restitution of assets, property or other tangible items, take such steps as are necessary to enforce the order as if it were an order for the restitution of property made under section 404(1) of the Crimes Act 1961; or
-    (iii) in a case where the order requires another remedy, take such steps as are necessary to enforce the order as if it were enforceable under Part 6 of the High Court Rules; and
+    (iii) in a case where the order requires another remedy, take such steps as are necessary to enforce the order as if it were enforceable under Part 6 of the High Court Rules 2016; and
   (c) that agency must, without delay, make such report to the Attorney-General on the results of any action taken as it considers to be appropriate in the circumstances.
 (4) For the purposes of this section,—
   (a) section 145 of the Sentencing Act 2002 and Part 3 of the Summary Proceedings Act 1957 (which relate, respectively, to the enforcement of a sentence of reparation and the enforcement of fines) apply with any necessary modifications to an order of the ICC for monetary payment as if it were an order of the District Court made in summary proceedings; and
-  (b) Part 6 of the High Court Rules apply, with any necessary modifications, to an order referred to in subsection (3)(b)(iii).
+  (b) Part 6 of the High Court Rules 2016 apply, with any necessary modifications, to an order referred to in subsection (3)﻿(b)﻿(iii).
 (5) Despite subsection (4), an order may not be made under Part 3 of the Summary Proceedings Act 1957—
   (a) imposing a sentence for non-payment of an order of the ICC requiring monetary payment; or
   (b) modifying an order of the ICC made under Article 75 of the Statute, without the prior agreement of the ICC; or
@@ -1202,7 +1202,7 @@ To avoid doubt, if the ICC makes a request under Part 9 of the Statute to assist
 ### 125 Enforcement of fines
 (1) This section applies if—
   (a) the ICC—
-    (i) orders payment of a fine under Article 77(2)(a) of the Statute; and
+    (i) orders payment of a fine under Article 77(2)﻿(a) of the Statute; and
     (ii) requests that the order be enforced in accordance with Article 109 of the Statute; and
   (b) neither the conviction in respect of which the order was imposed nor the order for payment of a fine is subject to further appeal.
 (2) The Attorney-General may give authority for the request to proceed if the Attorney-General is satisfied that the order—
@@ -1225,7 +1225,7 @@ To avoid doubt, if the ICC makes a request under Part 9 of the Statute to assist
 ### 126 Request for forfeiture of tainted property
 (1) This section applies if—
   (a) the ICC—
-    (i) makes an order under Article 77(2)(b) of the Statute for the forfeiture of tainted property; and
+    (i) makes an order under Article 77(2)﻿(b) of the Statute for the forfeiture of tainted property; and
     (ii) requests assistance under Article 109(1) of the Statute to enforce the forfeiture order; and
   (b) neither the conviction in respect of which the order was imposed nor the forfeiture order is subject to further appeal.
 (2) The Attorney-General may give authority for the request to proceed if the Attorney-General is satisfied that the order is of a kind that can be enforced in the manner provided in sections 127 to 131.
@@ -1239,7 +1239,7 @@ To avoid doubt, if the ICC makes a request under Part 9 of the Statute to assist
 (1) A forfeiture order, or an amendment to such an order, must be registered in the High Court by the registration in accordance with the prescribed procedure, if any, of—
   (a) a copy of the order or amendment sealed by the ICC; or
   (b) a copy of the order or amendment authenticated in accordance with subsection (2).
-(2) A document is authenticated for the purposes of subsection (1)(b) if it purports to be—
+(2) A document is authenticated for the purposes of subsection (1)﻿(b) if it purports to be—
   (a) signed or certified by a Judge, the Registrar, the Deputy Registrar, or a member of the staff of the ICC; or
   (b) authenticated in any other manner authorised by the Statute or the Rules.
 (3) An amendment to a forfeiture order does not, for the purposes of this Act and of the Criminal Proceeds (Recovery) Act 2009, have any effect until it is registered.
@@ -1312,7 +1312,7 @@ If the High Court registers an order under section 128, the court may direct the
 ### 135 Money or property recovered to be transferred to ICC
 (1) Any money or property, including the proceeds of sale of property, recovered as a result of the enforcement under this Part of an order of the ICC must be transferred to the ICC.
 (2) Subsection (1) applies—
-  (a) subject to section 130(3)(b) and (3)(c); but
+  (a) subject to section 130(3)﻿(b) and (3)﻿(c); but
   (b) despite any other provision in this Part or in any other Act.
 
 ## Part 7 — Persons in transit to ICC or serving sentences imposed by ICC
@@ -1327,10 +1327,10 @@ If the High Court registers an order under section 128, the court may direct the
 (2) The transferee may be transported through New Zealand for the purpose of being surrendered or transferred to the ICC or to another State, as the case may be.
 (3) Before the transferee is transported through New Zealand under subsection (2), the ICC must first transmit a request for transit in accordance with Article 87 of the Statute that contains the following information and documents:
   (a) a description of the transferee:
-  (b) in the case of a person described in subsection (1)(a),—
+  (b) in the case of a person described in subsection (1)﻿(a),—
     (i) a brief statement of the facts of the case and their legal characterisation; and
     (ii) a copy of the warrant for arrest and surrender:
-  (c) in the case of a person described in subsection (1)(b), such information as the Minister may request about the reasons for the temporary transfer.
+  (c) in the case of a person described in subsection (1)﻿(b), such information as the Minister may request about the reasons for the temporary transfer.
 (4) Despite subsection (3), the Minister must not refuse a request for transit unless the Minister considers that transit through New Zealand would impede or delay the surrender or transfer of the transferee.
 (5) Despite subsection (3), no authorisation for transit is required if the transferee is transported by air and no landing is scheduled on New Zealand territory.
 (6) If an unscheduled landing occurs on New Zealand territory, the Minister may require the ICC to submit a request for transit of the transferee under subsection (3) as soon as is reasonably practicable.
@@ -1342,7 +1342,7 @@ If the High Court registers an order under section 128, the court may direct the
   (b) a District Court may, on the application of a constable, order that the transferee be held in custody for such further period or periods as the court considers reasonably necessary to facilitate the transportation of the transferee to the ICC or to another State, as the case may be.
 (3) If an unscheduled landing occurs and the ICC is required under section 136(6) to submit a request for transit, the transferee must be held in custody under subsection (2).
 (4) If subsection (3) applies, the period of detention of the transferee may not be extended beyond 96 hours from the time of the unscheduled landing, unless the request for transit from the ICC is received within that time.
-(5) If a District Court orders, under subsection (2)(b), that a transferee be held in custody, the transferee may be detained in a prison or any other place in which a person could be detained under section 42.
+(5) If a District Court orders, under subsection (2)﻿(b), that a transferee be held in custody, the transferee may be detained in a prison or any other place in which a person could be detained under section 42.
 
 ### 138 Minister must make removal order or issue certificate
 (1) If a transferee is not removed before or at the expiry of all periods of custody under section 137(2), the Minister must either—
@@ -1351,7 +1351,7 @@ If the High Court registers an order under section 128, the court may direct the
 (2) Despite subsection (1), no removal order may be made under section 153 unless—
   (a) the Minister first consults with the ICC; and
   (b) it is not possible for the Minister and the ICC to reach agreement relating to the prompt removal of the transferee.
-(3) The Minister may not issue the certificate referred to in subsection (1)(b) unless the Minister is satisfied that, because of the special circumstances of the transferee, it would be inappropriate to make a removal order.
+(3) The Minister may not issue the certificate referred to in subsection (1)﻿(b) unless the Minister is satisfied that, because of the special circumstances of the transferee, it would be inappropriate to make a removal order.
 
 **Enforcement of sentences in New Zealand**
 
@@ -1365,7 +1365,7 @@ If the High Court registers an order under section 128, the court may direct the
   (b) the chief executive of the Department of Corrections; and
   (c) the chief executive of the Department of Labour.
 (4) If advice is given under subsection (1), the Minister may, at any time, advise the ICC that New Zealand is no longer willing to allow ICC prisoners to serve their sentences in New Zealand.
-(5) Any advice given under subsection (4) does not affect the enforcement of sentences for which the Minister has accepted the designation of the ICC under section 140(1)(c).
+(5) Any advice given under subsection (4) does not affect the enforcement of sentences for which the Minister has accepted the designation of the ICC under section 140(1)﻿(c).
 
 ### 140 Request for sentence to be served in New Zealand
 (1) This section and sections 141 to 156 apply if—
@@ -1429,8 +1429,8 @@ The order for detention issued by the Minister under section 140(2) is sufficien
   (a) directs that an ICC prisoner appear before it to give evidence in another case; or
   (b) requests that an ICC prisoner appear before it for any other reason.
 (2) The Minister,—
-  (a) if subsection (1)(a) applies, must direct that the ICC prisoner be transferred to the ICC:
-  (b) if subsection (1)(b) applies, may direct that the ICC prisoner be transferred to the ICC if the Minister is satisfied that the interests of justice require the prisoner’s attendance at the ICC.
+  (a) if subsection (1)﻿(a) applies, must direct that the ICC prisoner be transferred to the ICC:
+  (b) if subsection (1)﻿(b) applies, may direct that the ICC prisoner be transferred to the ICC if the Minister is satisfied that the interests of justice require the prisoner’s attendance at the ICC.
 (3) If the Minister gives a direction under subsection (2), section 144(3) and (4) apply, with any necessary modifications.
 (4) This section does not apply if the request by the ICC is a request to which section 95(1) applies.
 
@@ -1444,7 +1444,7 @@ If an ICC prisoner of any nationality is to be transferred from New Zealand to a
 (1) If an ICC prisoner is to complete his or her sentence in New Zealand or to be released at the direction of the ICC while in New Zealand and the prisoner is not a New Zealand citizen, the Minister must, before the date of completion or release, either—
   (a) make a removal order under section 153; or
   (b) issue a certificate under section 150 giving the prisoner temporary authority to remain in New Zealand.
-(2) The Minister must not issue the certificate referred to in subsection (1)(b) unless the Minister is satisfied that,—
+(2) The Minister must not issue the certificate referred to in subsection (1)﻿(b) unless the Minister is satisfied that,—
   (a) because of the special circumstances of the ICC prisoner, it would be inappropriate to make a removal order; or
   (b) it is desirable to issue a certificate under section 150 in order to facilitate the processing of a request for extradition of the ICC prisoner, or the investigation of an offence, or to enable the prisoner to serve another sentence in New Zealand, or for any other reason in the interests of justice.
 (3) This section applies subject to section 148.
@@ -1457,8 +1457,8 @@ If an ICC prisoner of any nationality is to be transferred from New Zealand to a
   (b) be required to remain in New Zealand in order to serve any sentence that the prisoner is liable to serve under New Zealand law; or
   (c) be required to remain in New Zealand to undergo trial for an offence under New Zealand law.
 (2) Despite subsection (1),—
-  (a) a person to whom subsection (1)(a) applies may not be extradited to another country without the prior agreement of the ICC:
-  (b) a person to whom subsection (1)(b) or subsection (1)(c) applies may not be required to serve a sentence in New Zealand or to undergo trial for an offence under New Zealand law, as the case may be, that relates to an act or omission that occurred before the designation referred to in section 140(1)(c), without the prior agreement of the ICC.
+  (a) a person to whom subsection (1)﻿(a) applies may not be extradited to another country without the prior agreement of the ICC:
+  (b) a person to whom subsection (1)﻿(b) or subsection (1)﻿(c) applies may not be required to serve a sentence in New Zealand or to undergo trial for an offence under New Zealand law, as the case may be, that relates to an act or omission that occurred before the designation referred to in section 140(1)﻿(c), without the prior agreement of the ICC.
 (3) Subsection (2) does not apply to a person who—
   (a) remains voluntarily in New Zealand for more than 30 days after the date of completion of, or release from, the sentence imposed by the ICC; or
   (b) voluntarily returns to New Zealand after having left it.
@@ -1501,7 +1501,7 @@ The Minister must cancel the certificate issued under section 150 and make a rem
 (3) If a person is brought before a District Court Judge under subsection (2), the Judge may, if the Judge is satisfied that the person is the person named in the certificate,—
   (a) issue a warrant for the detention of the person in custody if the Judge is satisfied that, if not detained, the person is likely to abscond; or
   (b) order the release of the person subject to such conditions, if any, that the Judge thinks fit.
-(4) A warrant for the detention of the person issued under subsection (3)(a) may authorise the detention of the person in a prison or any other place in which a person could be detained under section 42.
+(4) A warrant for the detention of the person issued under subsection (3)﻿(a) may authorise the detention of the person in a prison or any other place in which a person could be detained under section 42.
 
 ### 153 Removal order
 (1) A removal order made by the Minister under this section—
@@ -1522,7 +1522,7 @@ The Minister must cancel the certificate issued under section 150 and make a rem
 (2) If a person is brought before a District Court Judge under subsection (1), the Judge may, if the Judge is satisfied that the person is the person named in the order,—
   (a) issue a warrant for the detention of the person in custody if the Judge is satisfied that, if not detained, the person is likely to abscond; or
   (b) order the release of the person subject to such conditions, if any, that the Judge thinks fit.
-(3) A warrant for the detention of the person issued under subsection (2)(a) may authorise the detention of the person in any place specified in section 153(3).
+(3) A warrant for the detention of the person issued under subsection (2)﻿(a) may authorise the detention of the person in any place specified in section 153(3).
 
 ### 155 Immigration visa not required
 A person to whom this Part applies is not required to hold a visa under the Immigration Act 2009 if, and for so long as, he or she is in New Zealand in accordance with this Part (whether or not he or she is in custody).
@@ -1552,7 +1552,7 @@ If an issue relating to New Zealand’s national security interests arises at an
 ### 160 Other situations involving national security
 (1) If, in any circumstances other than those specified in sections 158 and 159, the Attorney-General is of the opinion that the disclosure of information or documents to the ICC would prejudice New Zealand’s national security interests, the matter must be dealt with in accordance with the process specified in sections 161 and 162.
 (2) Without limiting subsection (1), this section applies if the Attorney-General learns that information or documents are being, or are likely to be, disclosed at any stage of the proceedings, and intervenes in accordance with Article 72(4) of the Statute.
-(3) If, having followed the specified process, the matter has not been resolved and the ICC has not made an order for disclosure under Article 72(7)(b)(i) of the Statute, the Attorney-General may refuse the request or decline to authorise the provision of the information or giving of the evidence, as the case may be.
+(3) If, having followed the specified process, the matter has not been resolved and the ICC has not made an order for disclosure under Article 72(7)﻿(b)﻿(i) of the Statute, the Attorney-General may refuse the request or decline to authorise the provision of the information or giving of the evidence, as the case may be.
 
 ### 161 Consultation with ICC required
 The Attorney-General must consult with the ICC and, if appropriate, the defence, in accordance with Article 72(5) of the Statute.
@@ -1566,7 +1566,7 @@ The Attorney-General must consult with the ICC and, if appropriate, the defence,
 (3) The Attorney-General must comply with an ICC disclosure order if—
   (a) the ICC determines that the evidence is relevant and necessary for the establishment of the guilt or innocence of the defendant; and
   (b) the issue of disclosure arises in the circumstances specified in section 160(1); and
-  (c) the ICC orders disclosure in accordance with Article 72(7)(b)(i) of the Statute.
+  (c) the ICC orders disclosure in accordance with Article 72(7)﻿(b)﻿(i) of the Statute.
 
 ### 163 Attorney-General must take into account ICC’s ability to refer matter to Security Council
 In determining what action to take in relation to a matter to which this Part applies, the Attorney-General must take into account the power of the ICC to refer a matter to the Assembly of States Parties or to the Security Council in accordance with Article 87(7) of the Statute if the ICC considers that a requested State is not acting in accordance with its obligations under the Statute.
@@ -1583,14 +1583,14 @@ In determining what action to take in relation to a matter to which this Part ap
 (1) If a request is received from another State for New Zealand’s consent to the disclosure to the ICC of a document or information that had been disclosed to the State in confidence, the Attorney-General must either—
   (a) consent to the disclosure; or
   (b) undertake to resolve the matter with the ICC.
-(2) The provision of an undertaking under subsection (1)(b) does not prevent the Attorney-General from refusing the assistance sought in accordance with section 164(4).
+(2) The provision of an undertaking under subsection (1)﻿(b) does not prevent the Attorney-General from refusing the assistance sought in accordance with section 164(4).
 
 ## Part 9 — Investigations or sittings of ICC in New Zealand
 
 ### 166 Prosecutor may conduct investigations in New Zealand
 The Prosecutor may conduct investigations in New Zealand territory—
   (a) in accordance with the provisions of Part 9 of the Statute and as specified in section 27; or
-  (b) as authorised by the Pre-Trial Chamber under Article 57(3)(d) of the Statute.
+  (b) as authorised by the Pre-Trial Chamber under Article 57(3)﻿(d) of the Statute.
 
 ### 167 ICC sittings in New Zealand
 The ICC may sit in New Zealand for the purpose of performing its functions under the Statute and under the Rules, including, without limitation,—
