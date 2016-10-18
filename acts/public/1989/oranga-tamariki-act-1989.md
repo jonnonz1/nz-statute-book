@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2016-06-30_
+_Consolidation as at 2016-10-18_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -3898,7 +3898,7 @@ Except where the court making the order appealed from otherwise directs, the ope
 (4) The High Court may at any time on the application of any party to the appeal or of its own motion vary, modify, or revoke any order made under subsection (1) or vary, modify, or revoke any term or condition of the order.
 
 ### 346 Procedure on appeal
-(1) The High Court Rules and sections 74 to 77 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under section 341 as if it were an appeal under section 72 of that Act.
+(1) The High Court Rules 2016 and sections 74 to 77 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under section 341 as if it were an appeal under section 72 of that Act.
 (2) On the ex parte application of the appellant, the Family Court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (3) Sections 156, 157, and 166 to 169, with all necessary modifications, apply to the hearing in the High Court of an appeal under section 341.
 (4) Subsections (2) and (3) and sections 207O and 207U override subsection (1).
