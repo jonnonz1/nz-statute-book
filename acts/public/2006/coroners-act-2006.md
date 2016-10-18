@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2016-07-21_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -460,7 +460,7 @@ In deciding whether to direct a post-mortem under section 31, a coroner must hav
   (b) advise the objectors accordingly.
 (3) The coroner may direct under section 31 that the post-mortem be performed if, 48 hours after the objectors were advised under subsection (2)﻿(b) that the coroner still wishes to direct that the post-mortem be performed, none of them has lodged an objection under this subsection in the High Court.
 (4) In calculating the 48-hour period in subsection (3), hours count only if they are hours of working days.
-(5) An objection under subsection (3) is lodged by originating application in the manner provided by the High Court Rules (as defined in section 2 of the Judicature Act 1908).
+(5) An objection under subsection (3) is lodged by originating application in the manner provided by the High Court Rules 2016 (as defined in section 2 of the Judicature Act 1908).
 
 ### 35 Procedure for objection in High Court
 (1) Judges of the High Court and employees of the Ministry of Justice must ensure an objection lodged in the High Court under section 34(3) (the objection) is disposed of as a matter of priority and urgency.
@@ -470,7 +470,7 @@ In deciding whether to direct a post-mortem under section 31, a coroner must hav
   (a) make any urgent enquiries necessary to determine where and by whom the objection can most conveniently and expeditiously be dealt with; and
   (b) forward the objection and any other relevant documents without delay to the Registrar at the place where the application is to be dealt with; and
   (c) without delay, inform every party to the proceeding of the action taken under this section.
-(5) Subsections (3) and (4) apply in substitution for any provision of the High Court Rules relating to the transfer of notices of application filed at a time when a Judge is not present.
+(5) Subsections (3) and (4) apply in substitution for any provision of the High Court Rules 2016 relating to the transfer of notices of application filed at a time when a Judge is not present.
 (6) The High Court must either uphold the objection, or dismiss it by ordering that the coroner may direct under section 31 that the post-mortem be performed.
 
 ### 36 Nature of post-mortem
