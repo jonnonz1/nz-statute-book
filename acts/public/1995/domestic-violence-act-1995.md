@@ -1,5 +1,5 @@
 # Domestic Violence Act 1995
-_Consolidation as at 2014-10-01_
+_Consolidation as at 2016-10-18_
 
 > An Act to provide greater protection from domestic violence
 
@@ -98,13 +98,13 @@ In this Act, unless the context otherwise requires,—
     (iv) threats of physical abuse, sexual abuse, or psychological abuse:
     (iva) financial or economic abuse (for example, denying or limiting access to financial resources, or preventing or restricting employment opportunities or access to education):
     (v) in relation to a child, abuse of the kind set out in subsection (3).
-(3) Without limiting subsection (2)(c), a person psychologically abuses a child if that person—but the person who suffers that abuse is not regarded, for the purposes of this subsection, as having caused or allowed the child to see or hear the abuse, or, as the case may be, as having put the child, or allowed the child to be put, at risk of seeing or hearing the abuse.
+(3) Without limiting subsection (2)﻿(c), a person psychologically abuses a child if that person—but the person who suffers that abuse is not regarded, for the purposes of this subsection, as having caused or allowed the child to see or hear the abuse, or, as the case may be, as having put the child, or allowed the child to be put, at risk of seeing or hearing the abuse.
   (a) causes or allows the child to see or hear the physical, sexual, or psychological abuse of a person with whom the child has a domestic relationship; or
   (b) puts the child, or allows the child to be put, at real risk of seeing or hearing that abuse occurring;—
 (4) Without limiting subsection (2),—
   (a) a single act may amount to abuse for the purposes of that subsection:
   (b) a number of acts that form part of a pattern of behaviour may amount to abuse for that purpose, even though some or all of those acts, when viewed in isolation, may appear to be minor or trivial.
-(5) Behaviour may be psychological abuse for the purposes of subsection (2)(c) which does not involve actual or threatened physical or sexual abuse.
+(5) Behaviour may be psychological abuse for the purposes of subsection (2)﻿(c) which does not involve actual or threatened physical or sexual abuse.
 
 ### 4 Meaning of domestic relationship
 (1) For the purposes of this Act, a person is in a domestic relationship with another person if the person—
@@ -112,16 +112,16 @@ In this Act, unless the context otherwise requires,—
   (b) is a family member of the other person; or
   (c) ordinarily shares a household with the other person; or
   (d) has a close personal relationship with the other person.
-(2) For the purposes of subsection (1)(c), a person is not regarded as sharing a household with another person by reason only of the fact that—
+(2) For the purposes of subsection (1)﻿(c), a person is not regarded as sharing a household with another person by reason only of the fact that—
   (a) the person has—with that other person; and
     (i) a landlord-tenant relationship; or
     (ii) an employer-employee relationship; or
     (iii) an employee-employee relationship—
   (b) they occupy a common dwellinghouse (whether or not other people also occupy that dwellinghouse).
-(3) For the purposes of subsection (1)(d), a person is not regarded as having a close personal relationship with another person by reason only of the fact that the person has—with that other person.
+(3) For the purposes of subsection (1)﻿(d), a person is not regarded as having a close personal relationship with another person by reason only of the fact that the person has—with that other person.
   (a) an employer-employee relationship; or
   (b) an employee-employee relationship—
-(4) Without limiting the matters to which a court may have regard in determining, for the purposes of subsection (1)(d), whether a person has a close personal relationship with another person, the court must have regard to—
+(4) Without limiting the matters to which a court may have regard in determining, for the purposes of subsection (1)﻿(d), whether a person has a close personal relationship with another person, the court must have regard to—
   (a) the nature and intensity of the relationship, and in particular—but it is not necessary for there to be a sexual relationship between the persons:
     (i) the amount of time the persons spend together:
     (ii) the place or places where that time is ordinarily spent:
@@ -151,7 +151,7 @@ This Act binds the Crown.
 (1) A person who is or has been in a domestic relationship with another person may apply to the court for a protection order in respect of that other person.
 (2) Where the person who is eligible to apply for a protection order is under 16 years of age, the application must be made by a representative in accordance with section 9(2).
 (3) Where the person who is eligible to apply for a protection order is a person to whom section 11 applies, the application must be made by a representative in accordance with that section.
-(4) Where the person who is eligible to apply for a protection order is aged 16 years or older but is unable, in the circumstances specified in section 12(1)(b), to make the application personally, an application may be made on that person’s behalf by a representative appointed in accordance with section 12.
+(4) Where the person who is eligible to apply for a protection order is aged 16 years or older but is unable, in the circumstances specified in section 12(1)﻿(b), to make the application personally, an application may be made on that person’s behalf by a representative appointed in accordance with section 12.
 
 ### 8 Contents of application
 Any application for a protection order may seek—
@@ -182,7 +182,7 @@ Any application for a protection order may seek—
   (a) in any case where no one has power, under an appointment made under the Protection of Personal and Property Rights Act 1988, to make such an application on the first-mentioned person’s behalf:
   (b) even though a person has power, under such an appointment, to make such an application, in any case where the person so appointed has refused or failed to do so:
   (c) in any case where the first-mentioned person is a minor who is not a child.
-(3) Notwithstanding anything in the Protection of Personal and Property Rights Act 1988, an application must not be made under that Act for an order under section 10(1)(i) of that Act solely for the purpose of the commencement of proceedings under this Act.
+(3) Notwithstanding anything in the Protection of Personal and Property Rights Act 1988, an application must not be made under that Act for an order under section 10(1)﻿(i) of that Act solely for the purpose of the commencement of proceedings under this Act.
 
 ### 12 Applications on behalf of certain other persons
 (1) This section applies where—
@@ -201,7 +201,7 @@ Any application for a protection order may seek—
     (ii) is not under disability; and
   (e) that there is unlikely to be any conflict between the interests of the proposed appointee and the interests of the person in respect of whom the application is made.
 (4) The fact that an application for a protection order is made, on a person’s behalf, by a representative appointed pursuant to this section does not prevent the person on whose behalf the application is made from being heard in the proceedings.
-(5) Without limiting subsection (3)(b), where—then, unless the court is satisfied that the objection is not freely made, no further steps may be taken in the proceedings.
+(5) Without limiting subsection (3)﻿(b), where—then, unless the court is satisfied that the objection is not freely made, no further steps may be taken in the proceedings.
   (a) a representative appointed pursuant to this section applies, on another person’s behalf, for a protection order; and
   (b) at any time before the application is determined, the other person objects to the continuation of the proceedings,—
 
@@ -232,8 +232,8 @@ Any application for a protection order may seek—
 (1) The court may make a protection order if it is satisfied that—
   (a) the respondent is using, or has used, domestic violence against the applicant, or a child of the applicant’s family, or both; and
   (b) the making of an order is necessary for the protection of the applicant, or a child of the applicant’s family, or both.
-(2) For the purposes of subsection (1)(a), a respondent who encourages another person to engage in behaviour that, if engaged in by the respondent, would amount to domestic violence against the applicant, or a child of the applicant’s family, or both, is regarded as having engaged in that behaviour personally.
-(3) Without limiting section 3(4)(b) or the matters that the court may consider in determining, for the purposes of subsection (1)(b) of this section, whether the making of an order is necessary for the protection of the applicant, or a child of the applicant’s family, or both, where some or all of the behaviour in respect of which the application is made appears to be minor or trivial when viewed in isolation, or appears unlikely to recur, the court must nevertheless consider whether the behaviour forms part of a pattern of behaviour in respect of which the applicant, or a child of the applicant’s family, or both, need protection.
+(2) For the purposes of subsection (1)﻿(a), a respondent who encourages another person to engage in behaviour that, if engaged in by the respondent, would amount to domestic violence against the applicant, or a child of the applicant’s family, or both, is regarded as having engaged in that behaviour personally.
+(3) Without limiting section 3(4)﻿(b) or the matters that the court may consider in determining, for the purposes of subsection (1)﻿(b) of this section, whether the making of an order is necessary for the protection of the applicant, or a child of the applicant’s family, or both, where some or all of the behaviour in respect of which the application is made appears to be minor or trivial when viewed in isolation, or appears unlikely to recur, the court must nevertheless consider whether the behaviour forms part of a pattern of behaviour in respect of which the applicant, or a child of the applicant’s family, or both, need protection.
 (4) For the avoidance of doubt, an order may be made under subsection (1) where the need for protection arises from the risk of domestic violence of a different type from the behaviour found to have occurred for the purposes of paragraph (a) of that subsection.
 (5) Without limiting the matters that the court may consider when determining whether to make a protection order, the court must have regard to—
   (a) the perception of the applicant, or a child of the applicant’s family, or both, of the nature and seriousness of the behaviour in respect of which the application is made; and
@@ -326,8 +326,8 @@ Where the court grants an application for a protection order, it must not also m
   (a) in the case of a weapon, the weapon was in his or her possession, or under his or her control, immediately before the making of the protection order; and
   (b) in the case of a weapon or a firearms licence, the weapon or licence is in his or her possession, or under his or her control, during the period necessary to comply with the terms of that standard condition that relate to the surrender of the weapon or licence.
 (4) Subject to section 22, where, pursuant to that section, a protection order is varied so as to include the standard condition relating to weapons,—and the provisions of this Act apply accordingly with all necessary modifications.
-  (a) the reference in subsection (1)(c)(i) to service of a copy of the protection order is to be read as a reference to service of a copy of the order by which the standard condition is so included:
-  (b) the references in subsections (2) and (3)(a) to the making of a protection order are to be read as references to the making of the order by which the standard condition is so included,—
+  (a) the reference in subsection (1)﻿(c)﻿(i) to service of a copy of the protection order is to be read as a reference to service of a copy of the order by which the standard condition is so included:
+  (b) the references in subsections (2) and (3)﻿(a) to the making of a protection order are to be read as references to the making of the order by which the standard condition is so included,—
 (5) Subject to section 22, where, pursuant to a direction made under section 17, a protection order applies against an associated respondent, the provisions of this section apply, with all necessary modifications, in respect of the associated respondent.
 
 ### 22 Court may dispense with, modify, discharge, or re-impose standard condition relating to weapons
@@ -575,7 +575,7 @@ Sections 9, 11, and 12, so far as applicable and with the necessary modification
   (b) failing to comply with any condition of the protection order.
 (2) It is a defence in a prosecution for an offence under subsection (1) if the defendant proves that he or she had a reasonable excuse for breaching the protection order.
 (3) Every person who is convicted of an offence against this section is liable to imprisonment for a term not exceeding 3 years.
-(4) To avoid doubt, a failure to comply with a direction made under section 51D is not a breach of a protection order under subsection (1)(b).
+(4) To avoid doubt, a failure to comply with a direction made under section 51D is not a breach of a protection order under subsection (1)﻿(b).
 
 ### 49A Offence to fail to comply with direction
 [Repealed]
@@ -616,8 +616,8 @@ In this Part, unless the context otherwise requires,—
 
 ### 51B Service providers
 (1) The Secretary may decide to grant, suspend, or cancel an approval of a person or an organisation as a service provider.
-(2) A person or an organisation seeking an approval under subsection (1) must follow the process (if any) prescribed by regulations made under section 127(a)(i).
-(3) In deciding whether to grant, suspend, or cancel an approval under subsection (1), the Secretary must apply the criteria (if any) prescribed by regulations made under section 127(a)(ii).
+(2) A person or an organisation seeking an approval under subsection (1) must follow the process (if any) prescribed by regulations made under section 127(a)﻿(i).
+(3) In deciding whether to grant, suspend, or cancel an approval under subsection (1), the Secretary must apply the criteria (if any) prescribed by regulations made under section 127(a)﻿(ii).
 (4) The Secretary must publish on an Internet site maintained by or on behalf of the Ministry of Justice a list of service providers.
 
 **Safety programmes**
@@ -628,7 +628,7 @@ In this Part, unless the context otherwise requires,—
     (i) the applicant:
     (ii) a child of the applicant's family:
     (iii) a specified person; and
-  (b) a specified person (other than a child) may request the Registrar to authorise the provision of a safety programme to that specified person if no request has been made under paragraph (a)(iii).
+  (b) a specified person (other than a child) may request the Registrar to authorise the provision of a safety programme to that specified person if no request has been made under paragraph (a)﻿(iii).
 (2) Where, at the time the protection order is made, the applicant has not made a request pursuant to this section, and the applicant is not legally represented, the Judge or the Registrar must cause the applicant to be informed of the applicant's right to make such a request.
 (3) A request may be made under subsection (1) at any time while the protection order remains in force.
 (4) Where a request is made to a Registrar under subsection (1), the Registrar must arrange for the matter to be referred to a service provider without delay.
@@ -652,7 +652,7 @@ In this Part, unless the context otherwise requires,—
 (2) Where this section applies,—
   (a) the direction does not take effect until 10 working days after a copy of the direction is served on the respondent; and
   (b) the respondent may, within those 10 working days, notify the court that he or she objects to the direction.
-(3) Where the respondent notifies the court, in accordance with subsection (2)(b), that he or she objects to the direction,—
+(3) Where the respondent notifies the court, in accordance with subsection (2)﻿(b), that he or she objects to the direction,—
   (a) the Registrar must, if the respondent wishes to be heard, assign a hearing date, which must be—
     (i) as soon as practicable; and
     (ii) unless there are special circumstances, in no case later than 42 days after receipt of the notice of objection; and
@@ -686,7 +686,7 @@ As soon as possible after receiving a notification under section 51G, the servic
 (3) On receiving a notification under subsection (2), the Registrar must—
   (a) forward a copy of the notification to a Judge; and
   (b) arrange for the protected person to be advised of the service provider's concerns.
-(4) On receiving a copy of a notification under subsection (3)(a), the Judge may make such orders or directions as the Judge thinks fit in the circumstances.
+(4) On receiving a copy of a notification under subsection (3)﻿(a), the Judge may make such orders or directions as the Judge thinks fit in the circumstances.
 
 ### 51J Referral to different service provider
 (1) This section applies if a service provider, after undertaking an assessment of the respondent,—
@@ -697,7 +697,7 @@ As soon as possible after receiving a notification under section 51G, the servic
   (b) send to the Registrar the following information:
     (i) the result of the assessment of the respondent undertaken by the service provider; and
     (ii) any other information relating to the respondent that is held by the service provider.
-(3) After receiving a notification under subsection (2)(a) and the information referred to in subsection (2)(b), the Registrar must make a new referral under section 51G to a service provider that is able to provide an appropriate programme to the respondent.
+(3) After receiving a notification under subsection (2)﻿(a) and the information referred to in subsection (2)﻿(b), the Registrar must make a new referral under section 51G to a service provider that is able to provide an appropriate programme to the respondent.
 
 ### 51K Judge may discharge direction to attend non-violence programme in certain cases
 (1) This section applies if a service provider, after undertaking an assessment of a respondent, determines that—
@@ -707,7 +707,7 @@ As soon as possible after receiving a notification under section 51G, the servic
   (b) there is not an appropriate non-violence programme for the respondent to attend.
 (2) The service provider must notify the Registrar, and the Registrar must bring the matter to the attention of a Judge.
 (3) When a matter is brought to the attention of a Judge under subsection (2), the Judge must—
-  (a) discharge the direction made under section 51D(1)(b); and
+  (a) discharge the direction made under section 51D(1)﻿(b); and
   (b) make such other orders or directions as the Judge thinks fit in the circumstances.
 
 ### 51L Service provider and respondent to settle terms of attendance at non-violence programme
@@ -719,7 +719,7 @@ As soon as possible after receiving a notification under section 51G, the servic
 (4) On receipt of a notice under subsection (3), the Registrar must—
   (a) settle the terms of attendance with the respondent and the service provider; or
   (b) bring the matter to the attention of a Judge.
-(5) When a matter is brought to the attention of a Judge under subsection (4)(b), the Judge may make such further directions as the Judge thinks fit in the circumstances.
+(5) When a matter is brought to the attention of a Judge under subsection (4)﻿(b), the Judge may make such further directions as the Judge thinks fit in the circumstances.
 
 ### 51M Notice to be given to court if continued provision of non-violence programme inappropriate
 (1) Subsection (2) applies if at any time during the provision of a non-violence programme the service provider considers that—
@@ -728,10 +728,10 @@ As soon as possible after receiving a notification under section 51G, the servic
 (2) The service provider must—
   (a) notify the Registrar; and
   (b) send to the Registrar all information relating to the respondent that is held by the service provider.
-(3) After receiving a notification under subsection (2)(a) and the information referred to in subsection (2)(b), the Registrar must—
+(3) After receiving a notification under subsection (2)﻿(a) and the information referred to in subsection (2)﻿(b), the Registrar must—
   (a) make a new referral under section 51G to a different service provider; or
   (b) bring the matter to the attention of a Judge.
-(4) When a matter is brought to the attention of a Judge under subsection (3)(b), the Judge may make such other orders or directions as the Judge thinks fit in the circumstances.
+(4) When a matter is brought to the attention of a Judge under subsection (3)﻿(b), the Judge may make such other orders or directions as the Judge thinks fit in the circumstances.
 
 **Non-compliance with direction to attend assessment and non-violence programme**
 
@@ -746,15 +746,15 @@ As soon as possible after receiving a notification under section 51G, the servic
 (1) On receiving a notice under section 51N, the Registrar must, without delay,—
   (a) exercise the powers under section 82, as if he or she were the court referred to in that section, to call the respondent before the court; or
   (b) bring the matter to the attention of a Judge so that the Judge may consider whether to exercise the power conferred by section 51P in relation to the respondent.
-(2) If the Registrar exercises the powers under section 82 in the manner allowed by subsection (1)(a), then, subject to any regulations made under this Act, section 82 applies so far as applicable and with the necessary modifications as if the respondent were a witness in proceedings.
+(2) If the Registrar exercises the powers under section 82 in the manner allowed by subsection (1)﻿(a), then, subject to any regulations made under this Act, section 82 applies so far as applicable and with the necessary modifications as if the respondent were a witness in proceedings.
 
 ### 51P Judge may call respondent before court
-(1) If, under section 51O(1)(b), a Registrar brings a matter to the attention of a Judge, subsection (2) applies.
+(1) If, under section 51O(1)﻿(b), a Registrar brings a matter to the attention of a Judge, subsection (2) applies.
 (2) A Judge may exercise the powers under section 82 to call the respondent before the court.
 (3) If a Judge exercises the powers under section 82, that section applies, so far as applicable and with all necessary modifications, as if the respondent were a witness in proceedings.
 
 ### 51Q Respondent called before court
-(1) If a respondent appears before the court under section 51O(1)(a) or 51P(2), the court may, after hearing from the respondent, confirm, vary, or discharge the direction or change the terms of attendance.
+(1) If a respondent appears before the court under section 51O(1)﻿(a) or 51P(2), the court may, after hearing from the respondent, confirm, vary, or discharge the direction or change the terms of attendance.
 (2) If the court confirms or varies a direction under subsection (1), the Judge must warn the respondent that non-compliance with the direction is an offence punishable by imprisonment.
 (3) Failure to give the warning required by subsection (2) does not affect the validity of the direction confirmed or varied.
 
@@ -770,7 +770,7 @@ As soon as possible after receiving a notification under section 51G, the servic
     (i) that the respondent has completed a non-violence programme; and
     (ii) that a report has been provided by the service provider of that non-violence programme under subsection (1); and
     (iii) of any concerns that the service provider has about the safety of the protected person advised in that report.
-(3) On receiving a copy of a report under subsection (2)(a), the Judge may make such orders or directions as the Judge thinks fit in the circumstances.
+(3) On receiving a copy of a report under subsection (2)﻿(a), the Judge may make such orders or directions as the Judge thinks fit in the circumstances.
 
 **Confidentiality of information**
 
@@ -788,7 +788,7 @@ As soon as possible after receiving a notification under section 51G, the servic
     (v) section 51M(2):
   (b) for the purpose of a Registrar making a referral under—
     (i) section 51J(3):
-    (ii) section 51M(3)(a):
+    (ii) section 51M(3)﻿(a):
   (c) for the purpose of any proceedings under—
     (i) section 51O:
     (ii) section 51P:
@@ -827,7 +827,7 @@ Any person aged 16 years or over who is or has been in a domestic relationship w
 
 ### 54 Effect of occupation order
 (1) The person in whose favour an occupation order is made is entitled, to the exclusion of the person against whom the order is made, to personally occupy the dwellinghouse to which the order relates, together with any land, buildings, or improvements appurtenant to that dwellinghouse which are used, or ordinarily would be used, for the purposes of a household.
-(2) An occupation order is enforceable as if it were an order for the recovery of land made pursuant to section 31(1)(d) of the District Courts Act 1947.
+(2) An occupation order is enforceable as if it were an order for the recovery of land made pursuant to section 31(1)﻿(d) of the District Courts Act 1947.
 
 ### 55 Power to vary or discharge occupation order
 (1) On the application of either party, or of the personal representative of either party, the court may, if it thinks fit, make an order—
@@ -1045,7 +1045,7 @@ Sections 11 and 12, so far as applicable and with the necessary modifications, a
 (2) No temporary order becomes final pursuant to subsection (1) unless—
   (a) the respondent has been served with a copy of the order not less than 10 clear days before the 3 month period specified in subsection (1) elapses; and
   (b) the respondent has not notified the court, before that period elapses, that he or she wishes to be heard.
-(3) Where, pursuant to subsection (2)(a), a temporary order does not become final, the court may from time to time extend the period within which the temporary order can be served. No such extensions may extend that period by more than 3 months in total, and the temporary order continues in force until the expiry of any such extensions.
+(3) Where, pursuant to subsection (2)﻿(a), a temporary order does not become final, the court may from time to time extend the period within which the temporary order can be served. No such extensions may extend that period by more than 3 months in total, and the temporary order continues in force until the expiry of any such extensions.
 (4) Where the period for service is extended pursuant to subsection (3), and, at the expiry of the period or periods, the temporary order has not been served, the order lapses.
 
 ### 78 Court may require hearing before order becomes final
@@ -1079,7 +1079,7 @@ Sections 11 and 12, so far as applicable and with the necessary modifications, a
   (g) any other persons whom the Family Court Judge permits to be present.
 (4) If both the applicant and the respondent attend or are represented at the review, the Judge may—
   (a) make an interim order relating to contact under section 28B:
-  (b) impose any condition under section 27 relating to the matter set out in subsection (2)(a) of that section:
+  (b) impose any condition under section 27 relating to the matter set out in subsection (2)﻿(a) of that section:
   (c) give any directions that the Judge considers necessary.
 (5) The provisions of this section, so far as applicable and with the necessary modifications, apply to an associated respondent as if the person were a respondent.
 
@@ -1092,14 +1092,14 @@ Sections 11 and 12, so far as applicable and with the necessary modifications, a
     (ii) confirm the temporary order to the extent that it has not already become final, but exercise, in relation to that part of the temporary order so confirmed, any power conferred by this Act to vary or alter the terms and conditions of the order, or to impose new terms and conditions:
     (iii) discharge the temporary order to the extent that it has not already become final; or
   (d) on good cause being shown, adjourn the hearing to a fixed time and place.
-(2) Where, pursuant to subsection (1)(a), the court discharges a temporary tenancy order, the discharge of that order has effect as if the order had been discharged under section 59, and the tenancy revests accordingly.
-(3) Where, pursuant to subsection (1)(c), the court confirms part of a temporary order (whether with or without variation), that part of the temporary order becomes final, but that confirmation does not affect the order to the extent that it has already become final.
-(4) Where a hearing is adjourned under subsection (1)(d) to another day, the court must not, at the adjourned hearing, exercise that power to adjourn the hearing to a further date unless there are special reasons for doing so.
-(5) Where a hearing is adjourned pursuant to subsection (1)(d) to a specified date, the temporary order continues in force until that date.
+(2) Where, pursuant to subsection (1)﻿(a), the court discharges a temporary tenancy order, the discharge of that order has effect as if the order had been discharged under section 59, and the tenancy revests accordingly.
+(3) Where, pursuant to subsection (1)﻿(c), the court confirms part of a temporary order (whether with or without variation), that part of the temporary order becomes final, but that confirmation does not affect the order to the extent that it has already become final.
+(4) Where a hearing is adjourned under subsection (1)﻿(d) to another day, the court must not, at the adjourned hearing, exercise that power to adjourn the hearing to a further date unless there are special reasons for doing so.
+(5) Where a hearing is adjourned pursuant to subsection (1)﻿(d) to a specified date, the temporary order continues in force until that date.
 
 ### 80A Temporary order discharged when made final order under section 80(1)
-(1) When a temporary order becomes a final order pursuant to section 80(1)(b), the temporary order is automatically discharged.
-(2) Where the part of a temporary order not already a final order is confirmed under section 80(1)(c)(i) or (ii), the temporary order is automatically discharged.
+(1) When a temporary order becomes a final order pursuant to section 80(1)﻿(b), the temporary order is automatically discharged.
+(2) Where the part of a temporary order not already a final order is confirmed under section 80(1)﻿(c)﻿(i) or (ii), the temporary order is automatically discharged.
 
 **General provisions**
 
@@ -1112,11 +1112,11 @@ Sections 11 and 12, so far as applicable and with the necessary modifications, a
   (c) to represent any other person (being a person to whom section 11 applies)—
     (i) in any proceedings on an application made, on behalf of that person, in accordance with section 11(2), for any order under this Act; or
     (ii) in any proceedings relating to or arising out of an order made, under this Act, on any such application made on that person’s behalf.
-(2) A lawyer appointed under subsection (1)(c) may call any person as a witness in the proceedings, and may cross-examine witnesses called by any party to the proceedings or by the court.
-(2A) The fees and expenses of a lawyer appointed under subsection (1)(a) or (b) must—
+(2) A lawyer appointed under subsection (1)﻿(c) may call any person as a witness in the proceedings, and may cross-examine witnesses called by any party to the proceedings or by the court.
+(2A) The fees and expenses of a lawyer appointed under subsection (1)﻿(a) or (b) must—
   (a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
-(3) The fees and expenses of a lawyer appointed under subsection (1)(c) must—
+(3) The fees and expenses of a lawyer appointed under subsection (1)﻿(c) must—
   (a) be determined in accordance with regulations made under this Act or, if no such regulations are made, by the Registrar of the court; and
   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
 (4) An invoice rendered by a lawyer appointed under this section for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
@@ -1156,7 +1156,7 @@ Sections 11 and 12, so far as applicable and with the necessary modifications, a
   (h) any other person whom the Judge permits to be present.
 (2) For the purposes of any proceedings to which this section applies, any party to the proceedings (being an applicant for a protection order or a protected person) may nominate a reasonable number of persons (being members of his or her family, whanau, or family group, or any other person) to attend any hearing of those proceedings for the purpose of providing support to that person.
 (3) Any witness and any accredited news media reporter must leave the courtroom if asked to do so by the Judge.
-(4) No person present in the courtroom pursuant to subsection (1)(g) is entitled to be heard at the hearing, and the court may exclude any such person from the hearing at any time.
+(4) No person present in the courtroom pursuant to subsection (1)﻿(g) is entitled to be heard at the hearing, and the court may exclude any such person from the hearing at any time.
 (5) Nothing in this section limits any other power of the court—
   (a) to hear proceedings in private; or
   (b) to permit a McKenzie friend to be present; or
@@ -1214,7 +1214,7 @@ Where any person serves a copy of a protection order, or a copy of any order var
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (1) A party to proceedings in which there is made a decision to which subsection (1AA) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
-(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 (3) On the ex parte application of the appellant, the court appealed from may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (3A) Subsection (3) overrides subsection (2).
 (4) Subject to section 93, the decision of the High Court on an appeal to that court under this section is final.
@@ -1555,15 +1555,15 @@ On the issue of an order, and for the period that the order is in force,—
 (2) If a person who is detained under subsection (1) fails or refuses to remain at the place where he or she is detained, that person—
   (a) commits an offence and is liable on conviction to the penalty specified in subsection (4); and
   (b) may be arrested without warrant.
-(3) To avoid doubt, subsection (2) applies in respect of a person detained under subsection (1)(a) regardless of whether an order is issued.
-(4) The maximum penalty for an offence against subsection (2)(a) is a fine not exceeding $500.
+(3) To avoid doubt, subsection (2) applies in respect of a person detained under subsection (1)﻿(a) regardless of whether an order is issued.
+(4) The maximum penalty for an offence against subsection (2)﻿(a) is a fine not exceeding $500.
 (5) In this section, detain includes move the person to a Police station.
 
 ### 124J Police safety order to be explained
 (1) A constable who issues an order must, if and to the extent that it is reasonably practicable to do so in the circumstances, either at the time of issue or service of the order, explain to the person against whom the order is issued—
   (a) the purpose, duration, and effect of the order; and
   (b) the consequences that may follow if the person against whom the order is issued contravenes the order.
-(2) A constable who issues an order must also, either before or after issue and service of the order, explain to the person for whose safety the order is issued the matters set out in subsection (1)(a) and (b).
+(2) A constable who issues an order must also, either before or after issue and service of the order, explain to the person for whose safety the order is issued the matters set out in subsection (1)﻿(a) and (b).
 
 ### 124K Duration of Police safety order
 (1) An order comes into force immediately on being served on the person against whom the order is issued.
@@ -1576,16 +1576,16 @@ On the issue of an order, and for the period that the order is in force,—
   (b) any condition of the order.
 (2) If this subsection applies, a constable may take the person into custody by—
   (a) using such force as is reasonably necessary; or
-  (b) executing a warrant to arrest issued in respect of that person under section 124O(1)(a).
+  (b) executing a warrant to arrest issued in respect of that person under section 124O(1)﻿(a).
 (3) Where a person has been taken into custody under subsection (2), the constable may apply to a District Court, by making a complaint in the prescribed form, for a direction or an order under section 124N.
-(4) A person who is taken into custody under subsection (2)(a) must be brought before a District Court within 24 hours.
+(4) A person who is taken into custody under subsection (2)﻿(a) must be brought before a District Court within 24 hours.
 
 ### 124M Issue of summons where person cannot be brought before District Court within 24 hours
-(1) If a person who is taken into custody under section 124L(2)(a) is not brought before a District Court within 24 hours, that person must, at or before the expiry of that period,—
+(1) If a person who is taken into custody under section 124L(2)﻿(a) is not brought before a District Court within 24 hours, that person must, at or before the expiry of that period,—
   (a) be released; and
   (b) be served by a constable with a summons requiring him or her to appear before a District Court at the place and time specified in the summons.
-(2) A summons served under subsection (1)(b) must be in the prescribed form.
-(3) If a person who has been served with a summons under subsection (1)(b) does not attend personally at the place and time specified in the summons, a District Court or Registrar may issue a warrant, in the prescribed form, to—
+(2) A summons served under subsection (1)﻿(b) must be in the prescribed form.
+(3) If a person who has been served with a summons under subsection (1)﻿(b) does not attend personally at the place and time specified in the summons, a District Court or Registrar may issue a warrant, in the prescribed form, to—
   (a) arrest him or her; and
   (b) bring him or her before the court.
 
@@ -1598,24 +1598,24 @@ On the issue of an order, and for the period that the order is in force,—
     (i) issued against the person for the safety of the person named in the earlier order; and
     (ii) served by a constable or officer of the court as soon as practicable; or
   (c) if it considers it appropriate in the circumstances to do so,—
-    (i) adjourn the proceedings to a specified time and place to enable a District Court Judge to consider whether a temporary protection order should be issued under subsection (2)(b); and
+    (i) adjourn the proceedings to a specified time and place to enable a District Court Judge to consider whether a temporary protection order should be issued under subsection (2)﻿(b); and
     (ii) make a direction of the kind specified in paragraph (a) or (b), as the case may require.
 (2) If a District Court presided over by a District Court Judge is satisfied that a person has refused or failed to comply with a Police safety order, the Judge may—
-  (a) make a direction of the kind specified in subsection (1)(a) or (b); or
+  (a) make a direction of the kind specified in subsection (1)﻿(a) or (b); or
   (b) issue, without application from any person, a temporary protection order under section 14 as if—
     (i) every reference in that section to the respondent were a reference to the person who the Judge is satisfied has refused or failed to comply with the Police safety order (person R); and
     (ii) every reference in that section to the applicant were a reference to the person named in the Police safety order for whose safety the order was issued (person S).
-(3) A District Court Judge may issue a temporary protection order under subsection (2)(b) in the absence of person R, person S, or both.
-(4) Subsection (2)(b) is subject to subsection (5).
-(5) A District Court Judge may only issue an order of the kind referred to in subsection (2)(b) if person S—
+(3) A District Court Judge may issue a temporary protection order under subsection (2)﻿(b) in the absence of person R, person S, or both.
+(4) Subsection (2)﻿(b) is subject to subsection (5).
+(5) A District Court Judge may only issue an order of the kind referred to in subsection (2)﻿(b) if person S—
   (a) does not object; and
   (b) has not made an application for a protection order against person R that is currently pending determination by a court.
-(6) Where the court makes a direction of the kind specified in subsection (1)(a) or (b), the court may direct that the person against whom the order is to be issued be detained in the custody of the court for a period, not exceeding 2 hours, that may be necessary to enable the order to be issued and served on that person.
+(6) Where the court makes a direction of the kind specified in subsection (1)﻿(a) or (b), the court may direct that the person against whom the order is to be issued be detained in the custody of the court for a period, not exceeding 2 hours, that may be necessary to enable the order to be issued and served on that person.
 
 ### 124O Issue of warrant to arrest person who contravenes Police safety order or fails to attend adjourned proceedings
 (1) Subsection (2) applies if—
   (a) a person against whom a Police safety order is issued refuses or fails to comply with the order, or any condition of the order; or
-  (b) a person who the District Court is satisfied has refused or failed to comply with a Police safety order does not attend personally at the time and place to which proceedings have been adjourned under section 124N(1)(c)(i).
+  (b) a person who the District Court is satisfied has refused or failed to comply with a Police safety order does not attend personally at the time and place to which proceedings have been adjourned under section 124N(1)﻿(c)﻿(i).
 (2) A District Court or Registrar may issue a warrant in the prescribed form.
 (3) A warrant to arrest a person under this section—
   (a) must be directed either—
@@ -1630,7 +1630,7 @@ On the issue of an order, and for the period that the order is in force,—
 (6) A person who is arrested under this section must, as soon as possible, be brought before a District Court to enable it to exercise its jurisdiction under section 124N.
 
 ### 124P Protection order to be issued and served
-(1) Where a District Court makes a temporary protection order under section 124N(2)(b), the Registrar of that court must—
+(1) Where a District Court makes a temporary protection order under section 124N(2)﻿(b), the Registrar of that court must—
   (a) immediately issue the order; and
   (b) wherever practicable, serve a copy of the order on the person against whom the order is made before that person leaves the court.
 (2) For the purpose of subsection (1), the court may direct that the person against whom the order is made be detained in the custody of the court for a period, not exceeding 2 hours, that may be necessary to enable the order to be issued and a copy served on that person.
@@ -1686,7 +1686,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (c)
   (d)
   (e)
-  (f) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 81(1)(c), which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
+  (f) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 81(1)﻿(c), which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
   (g) prescribing the fees, travelling allowances, and expenses payable to persons called by the court under section 82; and prescribing the circumstances in which, and the extent (if any) to which, such fees, travelling allowances, and expenses are payable (in whole or in part) to persons to whom that section applies by virtue of section 51O or 51P:
   (h) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
