@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2016-05-31_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -2236,7 +2236,7 @@ The appeal board may, for the purposes of hearing an appeal, require any person 
 
 ### 233 Service of summons on witness
 (1) Unless a witness has consented to service by another means, a summons must be served personally on that witness by delivering a sealed copy of the summons to the witness not later than 24 hours before the witness must attend the hearing.
-(2) Despite subsection (1), the appeal board may direct substituted service in accordance with the High Court Rules.
+(2) Despite subsection (1), the appeal board may direct substituted service in accordance with the High Court Rules 2016.
 
 ### 234 Offence to fail to comply with summons
 Any person who intentionally, and without reasonable excuse, fails to attend a hearing in accordance with the notice of summons commits an offence and is liable, on conviction, to a fine not exceeding $2,000.
