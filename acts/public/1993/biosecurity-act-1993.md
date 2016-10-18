@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2016-07-01_
+_Consolidation as at 2016-10-18_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -4325,7 +4325,7 @@ Powers of District Court
 
 ### 154F Appeal to High Court, Court of Appeal, or Supreme Court
 (1) A party to an appeal under section 154E may appeal to the High Court on a question of law.
-(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947 apply to an appeal under subsection (1)—
+(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947 apply to an appeal under subsection (1)—
   (a) as if it were an appeal under section 72 of the District Courts Act 1947; and
   (b) with all necessary modifications.
 (3) A party to an appeal under subsection (1) may appeal to the Court of Appeal or the Supreme Court against a determination of the High Court on a question of law, with the leave of the court appealed to, and subject to section 14 of the Supreme Court Act 2003.
