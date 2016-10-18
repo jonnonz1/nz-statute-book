@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-10-18_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -3888,7 +3888,7 @@ An interim compliance order or a compliance order must state—
 (2) The following persons may appeal to the High Court against the decision:
   (a) a party to the application on which the decision was made; or
   (b) any other person directly affected by the decision.
-(3) The High Court Rules and sections 74 to 78 of the District Courts Act 1947 apply to an appeal under subsection (2)—
+(3) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947 apply to an appeal under subsection (2)—
   (a) as if it were an appeal under section 72 of the District Courts Act 1947; and
   (b) with all necessary modifications.
 
@@ -4213,7 +4213,7 @@ The chief executive must enter the outcome of each review of a decision describe
 
 ### 364 Appeal to High Court on question of law
 (1) A party to an appeal under section 362 who is dissatisfied with the decision of the District Court on the ground that it is wrong in law may appeal to the High Court on that question of law.
-(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 
 ### 365 Further appeals to Court of Appeal or Supreme Court
 (1) With the leave of the court appealed to, a party to an appeal under section 364 may appeal to the Court of Appeal or the Supreme Court against any determination of the High Court in the appeal.
