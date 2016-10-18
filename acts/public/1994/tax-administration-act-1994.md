@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2016-10-01_
+_Consolidation as at 2016-10-18_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -5856,27 +5856,27 @@ If an objection is not wholly allowed by the Commissioner, the objector may, wit
   (b) where the assessment is an amended assessment, an adjustment proposed by the Commissioner that is included in the assessment—
     (i) imposes a fresh liability (being a liability that was not included in an earlier assessment) in respect of a particular; or
     (ii) increases an existing liability (being a liability that was included in an earlier assessment but to a lesser extent) in respect of a particular; and
-  (c) the disputant files the proceedings, in accordance with the Taxation Review Authority Regulations 1994 (or any regulations made in substitution for those regulations) or the High Court Rules, within the response period following the issue of the relevant notice of assessment.
+  (c) the disputant files the proceedings, in accordance with the Taxation Review Authority Regulations 1994 (or any regulations made in substitution for those regulations) or the High Court Rules 2016, within the response period following the issue of the relevant notice of assessment.
 (2) A disputant is entitled to challenge an assessment by commencing proceedings in a hearing authority if—
   (a) the assessment was the subject of an adjustment proposed by the disputant which the Commissioner has rejected by notice within the applicable response period; and
   (b) the disputant is subsequently issued with an amended assessment; and
-  (c) the disputant files the proceedings, in accordance with the Taxation Review Authority Regulations 1994 (or any regulations made in substitution for those regulations) or the High Court Rules, within the response period following the issue of the amended notice of assessment.
+  (c) the disputant files the proceedings, in accordance with the Taxation Review Authority Regulations 1994 (or any regulations made in substitution for those regulations) or the High Court Rules 2016, within the response period following the issue of the amended notice of assessment.
 (3) Subject to subsection (4), a disputant is entitled to challenge an assessment by commencing proceedings in a hearing authority if—
   (a) the assessment was the subject of an adjustment proposed by the disputant which the Commissioner has rejected by notice within the applicable response period; and
   (b) the Commissioner has issued a challenge notice to the disputant; and
-  (c) the disputant files the proceedings, in accordance with the Taxation Review Authorities Regulations 1998 (or any regulations made in substitution for those regulations) or the High Court Rules within 2 months.
+  (c) the disputant files the proceedings, in accordance with the Taxation Review Authorities Regulations 1998 (or any regulations made in substitution for those regulations) or the High Court Rules 2016 within 2 months.
 (4) Despite subsection (3), the disputant is entitled to challenge an assessment by commencing proceedings in a hearing authority if—
   (a) the assessment was the subject of an adjustment (the adjustment) notified to the Commissioner specifying the adjustment and sufficient details to identify how the adjustment meets paragraph (c); and
   (b) the Commissioner has issued a challenge notice to the disputant; and
   (c) the adjustment—
     (i) is in relation to a matter for which the material facts and relevant law are identical to those for another assessment for the taxpayer, for another period, that is at the time of proposing the adjustment the subject of court proceedings; or
     (ii) corrects a tax position taken by the taxpayer or an associated person as a consequence or result of an incorrect tax position taken by another taxpayer and, at the time of proposing the adjustment, the incorrect tax position taken by the other taxpayer is the subject of, or was the subject of, court proceedings; and
-  (d) the disputant files the proceedings, in accordance with the Taxation Review Authorities Regulations 1998 (or any regulations made in substitution for those regulations) or the High Court Rules within 2 months.
+  (d) the disputant files the proceedings, in accordance with the Taxation Review Authorities Regulations 1998 (or any regulations made in substitution for those regulations) or the High Court Rules 2016 within 2 months.
 
 ### 138C When disputant entitled to challenge disputable decision other than assessment
 A disputant is entitled to challenge a disputable decision that is not an assessment by commencing proceedings in a hearing authority if—
   (a) the disputable decision was the subject of an adjustment proposed by the disputant which the Commissioner has rejected; and
-  (b) the disputant files the proceedings in accordance with the Taxation Review Authority Regulations 1994 (or any regulations made in substitution for those regulations) or the High Court Rules, within the response period for the notice from the Commissioner rejecting the proposed adjustment.
+  (b) the disputant files the proceedings in accordance with the Taxation Review Authority Regulations 1994 (or any regulations made in substitution for those regulations) or the High Court Rules 2016, within the response period for the notice from the Commissioner rejecting the proposed adjustment.
 
 ### 138D Challenge may in exceptional circumstances be commenced after response period
 (1) If a hearing authority considers that exceptional circumstances apply, the hearing authority may, on application by a disputant, allow the disputant to commence a challenge to a notice of a disputable decision after the response period.
