@@ -1,5 +1,5 @@
 # Sleepover Wages (Settlement) Act 2011
-_Consolidation as at 2016-04-01_
+_Consolidation as at 2016-10-19_
 
 ### 1 Title
 This Act is the Sleepover Wages (Settlement) Act 2011.
