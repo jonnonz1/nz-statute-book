@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-10-29_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1553,8 +1553,8 @@ The statement of responsibility must—
 
 **Multi-parent subsidiaries: exemptions from reporting requirements under this subpart**
 
-### 157 Multi-parent subsidiaries part-owned by school board of trustees or tertiary education institution
-(1) This section applies to a multi-parent subsidiary if any of its parent Crown entities is a school board of trustees or tertiary education institution.
+### 157 Multi-parent subsidiaries part-owned by school board of trustees
+(1) This section applies to a multi-parent subsidiary if any of its parent Crown entities is a school board of trustees.
 (2) The Minister of Finance may, by notice in writing, exempt the multi-parent subsidiary from the requirement to prepare a statement or report (as defined in section 156A(4)) if the Minister is satisfied that—
   (a) it would be unduly onerous for the multi-parent subsidiary to comply with the requirement; and
   (b) the exemption is consistent with maintaining reasonable public accountability of the multi-parent subsidiary.
@@ -2023,9 +2023,11 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Section 136 | Interpretation for Part 4 |
 | Section 137 | Application of subpart 2 of Part 4 |
 | Section 154, as amended by the Education Act 1989 section 220(2)–(2B), in Schedule 6 | Financial statements |
-| Section 155 | Statement of responsibility for financial statements |
-| Section 156 | Audit report |
-| Section 157 | Allows for variation of reporting requirements of multi-parent subsidiaries |
+| Section 155, as modified by the Education Act 1989, section 220(2AA)﻿(a) | Statement of responsibility for financial statements |
+| Section 156, as modified by the Education Act 1989, section 220(2B) | Audit report |
+| Section 156A, as modified by the Education Act 1989, section 220(2AA)﻿(b) | Application of subpart 2 of Part 4 to Crown entity groups |
+| Section 156B | Minister of Finance may require additional reporting |
+| Section 157A | Other multi-parent subsidiaries |
 | Section 220 Education Act 1989 | Inclusion of financial statements in annual report |
 | Section 220 Education Act 1989 | Laying before House of Representatives of financial statements |
 | Section 167 | Gifts |
