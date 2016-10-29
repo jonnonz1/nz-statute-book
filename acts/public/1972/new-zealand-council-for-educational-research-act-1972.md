@@ -1,5 +1,5 @@
 # New Zealand Council for Educational Research Act 1972
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2016-10-29_
 
 > An Act to consolidate and amend the law relating to the powers and functions of the New Zealand Council for Educational Research
 
@@ -10,9 +10,9 @@ _Consolidation as at 2014-12-01_
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **Council** means the New Zealand Council for Educational Research
-  - **electoral college** means the electoral college constituted under this Act
+  - **fees framework** means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
-  - **financial year** means a period of 12 consecutive months ending with 31 March
+  - **financial year** means a period of 12 consecutive months ending with 30 June
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Minister** means the Minister of Education.
 
@@ -28,27 +28,35 @@ Every person having attained the age of 20 years who is not disqualified under s
 ### 5 Disqualification from membership of Council
 The following persons shall be disqualified from appointment as members of the Council:
   (a) a person who is subject to a property order made under section 30 or 31 of the Protection of Personal and Property Rights Act 1988:
-  (b) a bankrupt who has not obtained his order of discharge or whose order of discharge is suspended for a term not yet expired or is subject to conditions not yet fulfilled:
-  (c) a person convicted of any offence punishable by imprisonment, unless he has received a full pardon or has served his sentence or otherwise suffered the penalty imposed upon him:
-  (d) an officer or servant of the Council employed by it in a full-time capacity for salary or other remuneration.
+  (b) a bankrupt who has not obtained an order of discharge or whose order of discharge is suspended for a term not yet expired or is subject to conditions not yet fulfilled:
+  (c) a person convicted of any offence punishable by imprisonment, unless the person has received a full pardon or has served the sentence or otherwise suffered the penalty imposed:
+  (d) an employee of the Council employed by it in a full-time capacity for salary or other remuneration.
 
 ### 6 Constitution of Council
-(1) The Council shall consist of—
-  (a) 1 member to be appointed by the Governor-General on the recommendation of the Minister:
-  (b) 6 elective members to be appointed by the Governor-General on election in the prescribed manner by the electoral college.
-(2) The Council itself may from time to time if and when it thinks fit appoint not more than 2 additional persons to be members of the Council (hereinafter referred to as co-opted members).
-(3) The members of the Council in office on the passing of this Act shall continue to hold office for the term for which they had originally been appointed as though they had been appointed under this Act.
+The Council consists of—
+  (a) 1 member appointed by the Minister:
+  (b) 5 elective members appointed by the Council on election in accordance with rules made under section 33(1):
+  (c) 3 members appointed by the Council.
+
+### 6A Criteria for appointment to Council
+(1) When appointing a member under section 6(a), the Minister must—
+  (a) appoint a person who, in the Minister’s opinion, has the appropriate knowledge, skills, and experience to assist the Council to perform its functions; and
+  (b) take into account the collective knowledge, skills, and experience of all of the members that constitute the Council.
+(2) When appointing a member under section 6(c), the Council must—
+  (a) appoint a person who, in the Council’s opinion, has the appropriate knowledge, skills, and experience to assist the Council to perform its functions; and
+  (b) take into account the collective knowledge, skills, and experience of all of the members that constitute the Council; and
+  (c) take into account the desirability of achieving diversity in the membership of the Council.
 
 ### 7 Extraordinary vacancies on Council
 (1) The office of any member of the Council shall become vacant, and the vacancy shall be deemed to be an extraordinary vacancy, if the member—
   (a) dies; or
-  (b) resigns his office by writing under his hand delivered to the chairman of the Council; or
+  (b) resigns by signed notice of resignation given to the chairperson of the Council; or
   (c) becomes ineligible for appointment as a member of the Council under paragraph (a), paragraph (b), or paragraph (d) of section 5; or
   (d) is absent without leave from 3 consecutive meetings of the Council; or
   (e) is convicted of any offence punishable by imprisonment for a term of 2 years or more; or
   (f) is convicted of any offence punishable by imprisonment for a term of less than 2 years and is sentenced to imprisonment for that offence.
 (1A) If a property order is made in respect of a member under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders),—
-  (a) subsection (1)(c) does not apply to the member by virtue only of the making of that order; but
+  (a) subsection (1)﻿(c) does not apply to the member by virtue only of the making of that order; but
   (b) while the order remains in force, the member is deemed to have been granted leave of absence and is not capable of acting as a member during that period.
 (2) In any case to which paragraph (e) of subsection (1) applies—
   (a) the disqualification shall not take effect until the expiration of the time for appealing against the conviction and, in the event of an appeal against conviction, until the appeal is determined; and
@@ -59,31 +67,36 @@ The following persons shall be disqualified from appointment as members of the C
 (4) Every extraordinary vacancy on the Council shall be filled as soon as practicable after it occurs by the appointment of a new member in the same manner as the vacating member was appointed, and the member then appointed shall retain office for as long as the vacating member would have retained office if no such vacancy had occurred; but no extraordinary vacancy occurring within 6 months before the date set for the retirement of any other member of the Council need be filled before that date if the Council so resolves; and no extraordinary vacancy created by the death, resignation, or disqualification of any co-opted member need at any time be filled.
 
 ### 8 Term of office of members of Council
-(1) Unless otherwise provided by this Act, every member of the Council, except a co-opted member, shall be appointed for a term of 4 years, commencing on 1 October in the year of his appointment, and any member may from time to time be reappointed.
-(2) Notwithstanding anything in this Act, every member of the Council except a co-opted member shall, unless he sooner vacates his office, continue to hold office until his successor comes into office.
-(3) Every co-opted member shall retire on the first date after his appointment on which any other member of the Council goes out of office by reason of effluxion of time, but may be reappointed.
+(1) Unless otherwise provided by this Act, each member of the Council is appointed for a term of up to 4 years and may be reappointed.
+(2) Despite anything in this Act, each member of the Council continues to hold office (unless the member earlier vacates the office) until a successor comes into office.
 
-### 9 Chairman, deputy chairman, and treasurer
-(1) At the first meeting of the Council held after 1 October in each year the Council shall appoint a chairman, a deputy chairman, and a treasurer.
-(2) Each person appointed as the chairman, deputy chairman, or treasurer shall, while he continues to be a member of the Council, hold office until the appointment of his successor in accordance with this section, and may be reappointed.
+### 9 Chairperson, deputy chairperson, and treasurer
+(1) At the first meeting of the Council held after 1 October in each year the Council must appoint a chairperson, a deputy chairperson, and a treasurer.
+(2) Each person appointed as the chairperson, deputy chairperson, or treasurer, while the person continues to be a member of the Council, holds office until the appointment of a successor in accordance with this section, and may be reappointed.
 
 ### 10 Meetings of Council
 (1) Meetings of the Council shall be held at such times and places as the Council determines.
-(2) The chairman of the Council or any 4 members of the Council may at any time call a special meeting of the Council.
+(2) The chairperson of the Council or any 4 members of the Council may at any time call a special meeting of the Council.
 (3) At any meeting of the Council 4 members shall form a quorum.
-(4) Subject to section 11, every question before the Council shall be decided at a meeting of the Council by a majority of the valid votes recorded on the question.
-(5) The chairman shall preside at all meetings of the Council at which he is present.
-(6) In the absence of the chairman from any meeting of the Council, the deputy chairman, if present, shall preside. In the absence from any meeting of both the chairman and the deputy chairman, the members present shall appoint one of their number to be the chairman of that meeting.
-(7) At any meeting of the Council the chairman shall have a deliberative vote, and in the case of an equality of votes shall also have a casting vote.
+(4)
+(5) The chairperson must preside at all meetings of the Council at which he or she is present.
+(6) The deputy chairperson (if present) must preside at any meeting of the Council from which the chairperson is absent.
+(7) At any meeting from which both the chairperson and the deputy chairperson are absent, the members present must appoint one of their number to chair the meeting.
+(8) At any meeting of the Council, the chairperson has a deliberative vote and, in the case of an equality of votes, also has a casting vote.
 
 ### 11 Passing of resolutions by Council without a meeting
-(1) Anything that may be done by resolution passed at a meeting of the Council may be done by the Council by means of a resolution signed in accordance with subsection (2) without a meeting or any prior notice being required; but any member of the Council, or his duly appointed deputy, entitled to sign that resolution may by notice in writing to the chairman of the Council require that the matter be determined at a meeting of the Council, in which case a meeting of the Council to determine the matter shall be held as soon as a meeting can be called.
+(1) Anything that may be done by resolution passed at a meeting of the Council may be done by the Council by means of a resolution signed in accordance with subsection (2) without a meeting or any prior notice being required; but any member of the Council, or the member’s duly appointed deputy, entitled to sign that resolution may by notice in writing to the chairperson of the Council require that the matter be determined at a meeting of the Council, in which case a meeting of the Council to determine the matter shall be held as soon as a meeting can be called.
 (2) Every resolution made without a meeting of the Council shall be signed by all the members of the Council who are for the time being in New Zealand and are not incapacitated by disability from attending the meeting.
-(3) Every resolution of the Council made without a meeting of the Council shall be deemed to be passed as soon as it is delivered to the chairman, or if it is constituted by several instruments as soon as all the instruments constituting it have been delivered to the chairman, who shall note on the resolution or the last received instrument constituting the resolution the date of the passing of the resolution, and shall forthwith notify that date to each member of the Council.
+(3) Every resolution of the Council made without a meeting of the Council shall be deemed to be passed as soon as it is delivered to the chairperson, or if it is constituted by several instruments as soon as all the instruments constituting it have been delivered to the chairperson, who shall note on the resolution or the last received instrument constituting the resolution the date of the passing of the resolution, and shall forthwith notify that date to each member of the Council.
 (4) Notwithstanding that for the purposes of making a resolution without a meeting of the Council the signatures of all the members of the Council mentioned in subsection (2) are required to the resolution, it shall be sufficient for the purposes of this section if those signatures are given on separate instruments having the same form and setting forth the same resolution, in which case, those instruments shall together constitute the resolution.
 
 ### 12 Powers of Council unaffected by informality, etc
 The powers of the Council shall not be affected by any vacancy in the membership of the Council, nor in consequence of the subsequent discovery of any error or defect in the appointment of any member of the Council, or of the fact that any member of the Council is disqualified or has forfeited his membership.
+
+### 12A Members of Council not personally liable
+No member of the Council is personally liable for—
+  (a) any act or omission by the Council; or
+  (b) any loss to the Council arising out of any act or omission by the member if the act or omission was in good faith with the intention of performing the functions of the Council.
 
 **Functions and powers of Council**
 
@@ -95,20 +108,20 @@ The functions of the Council shall be—
 ### 14 Powers of Council
 The Council shall have all such powers as may be reasonably necessary or expedient to enable it to carry out its functions. Without limiting the generality of those powers, the Council may—
   (a) expend funds for any of the purposes specified in section 13, and for any purpose that in the opinion of the Council is ancillary to any of those specified purposes, in such manner as, subject to the terms of any trust or endowment, the Council thinks fit:
-  (b) make grants to any person or persons approved by the Council to assist him or them to make studies or investigations approved by the Council:
+  (b) make grants to any person or persons approved by the Council to assist the person or persons to make studies or investigations approved by the Council:
   (c) appoint honorary officers from among its own members:
   (d) appoint committees of its members and delegate to them such of its functions and powers as it may determine, except this power of delegation:
   (e) appoint committees of suitable persons who would be eligible for membership of the Council and delegate to those committees such of its functions under section 13 as it may determine:
   (f) with a view to furthering the functions of the Council, co-operate with any persons, associations, or organisations outside New Zealand having functions similar to the functions of the Council.
 
-### 15 Power to appoint officers and servants
-(1) The Council may from time to time appoint, and may determine the appointment of, such officers and servants, including acting, temporary, or casual officers and servants, as it thinks necessary for the efficient exercise of its functions and powers under this Act, and may pay them remuneration and allowances at such rates as it may from time to time determine after consultation with the State Services Commission.
+### 15 Power to appoint employees
+(1) The Council may from time to time appoint, and may determine the appointment of, such employees, including acting, temporary, or casual employees, as it thinks necessary for the efficient exercise of its functions and powers under this Act, and may pay them remuneration and allowances at such rates as it may from time to time determine after consultation with the State Services Commission.
 (1A) Notwithstanding anything in subsection (1), the remuneration payable to the chief executive officer of the Council shall be determined from time to time by the State Services Commission.
-(2) For the purpose of providing superannuation or retiring allowances for its officers and servants, the Council may, out of its own funds, make payments to subsidise or contribute to any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
+(2) For the purpose of providing superannuation or retiring allowances for its employees, the Council may, out of its own funds, make payments to subsidise or contribute to any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 
-### 16 Power to insure members, officers, and servants
-(1) The Council may from time to time enter into contracts of insurance to insure members, officers, and servants of the Council and members of any committee appointed under paragraph (e) of section 14 against loss from personal accident arising out of and in the course of the exercise of their powers and duties as members of the Council or of a committee so appointed, or, in the case of officers and servants, arising out of and in the course of their employment. The Council may pay the premium payable for those contracts of insurance.
-(2) The Council may pay the net proceeds received by it under any such contract of insurance to the person affected or, as the case may require, to his personal representative.
+### 16 Power to insure members and employees
+(1) The Council may from time to time enter into contracts of insurance to insure members and employees of the Council and members of any committee appointed under paragraph (e) of section 14 against loss from personal accident arising out of and in the course of the exercise of their powers and duties as members of the Council or of a committee so appointed, or, in the case of employees, arising out of and in the course of their employment. The Council may pay the premium payable for those contracts of insurance.
+(2) The Council may pay the net proceeds received by it under any such contract of insurance to the person affected or, as the case may require, to the person’s personal representative.
 
 ### 17 Power to acquire land
 With the approval of the Minister, the Council may, out of its funds, purchase, take on lease or licence, or otherwise acquire such land as in the opinion of the Council is necessary for the performance of its functions.
@@ -139,18 +152,7 @@ The Council may, out of its funds, purchase, take on lease, hire, or otherwise a
 **Electoral college**
 
 ### 21 Electoral college
-(1) For the purposes of this Act there shall be an electoral college which shall comprise all persons whose names are enrolled on an electoral roll to be compiled and kept by such officer of the Council in such form and in such manner as may be prescribed by rules under this Act.
-(2) The people entitled to have their names enrolled on the roll of the electoral college shall from time to time be prescribed by Order in Council; which may prescribe all or any of the following:
-  (a) particular people:
-  (b) the holders of particular offices:
-  (c) people nominated by particular bodies or by the holders of particular offices.
-(2A) No order shall be made under subsection (2) except on the recommendation of the Minister; and the Minister shall not recommend the making of such an order unless satisfied (after consultation with the Council) that an electoral college constituted in accordance with the order—
-  (a) will be broadly representative of groups and bodies concerned with the conduct of education or educational research in New Zealand; and
-  (b) will include distinguished New Zealand educators.
-(3) The electoral roll shall be conclusive evidence that any person whose name appears on it is a duly qualified member of the electoral college.
-(4) No person shall have more than 1 vote in any election by virtue of his being severally qualified to have his name enrolled on the electoral roll.
-(5) The nominated members of the electoral college shall be enrolled for a term of 2 years, but may from time to time be renominated.
-(6) Any nominated member may at any time resign his office by writing addressed to the Council. In that case, and in the case of a vacancy caused by the death of a nominated member, the vacancy shall, as soon as practicable after the resignation or death, be filled by the authority that nominated the member whose office has become vacant. The person nominated to fill the vacancy shall hold office only for the remainder of the term for which his predecessor in office was appointed.
+[Repealed]
 
 **Financial provisions**
 
@@ -174,10 +176,8 @@ Subject to the terms of any trust or endowment, any money belonging to the Counc
 ### 25 Borrowing powers
 With the prior consent in writing of the Minister of Finance, the Council may borrow money from the Crown, from any local authority or public body, or from any person; and, for the purpose of securing that money, may mortgage, charge, or pledge any right, title, estate, or interest in any of its property.
 
-### 26 Money to be paid into bank
-(1) The Council may open and maintain bank accounts.
-(2) All money amounting to $20 or more received or held by the Council shall, as soon as practicable, be paid into the appropriate bank account.
-(3) No money shall be drawn out of a bank account except by authority of the Council. All cheques on the account of the Council shall be signed by the treasurer or other officer of the Council appointed for the purpose, and countersigned by a member, or an officer, authorised by the Council from time to time to countersign cheques.
+### 26 Bank account
+The Council must, as soon as practicable after it receives money belonging to the Council, pay the money into the account of the Council at a bank appointed by the Council.
 
 ### 27 Council may establish imprest accounts
 (1) For the purposes of paying salaries, wages, and such other expenditure as the Auditor-General may approve, the Council may, if it so resolves, establish and maintain any imprest account at a bank.
@@ -190,10 +190,8 @@ With the prior consent in writing of the Minister of Finance, the Council may bo
   (a) correctly record the transactions of the Council; and
   (b) will enable the Council to ensure that the financial statements of the Council comply with this Act; and
   (c) will enable the financial statements of the Council to be readily and properly audited.
-(2) The Council must establish and maintain a satisfactory system of control of those accounting records.
-(3) The accounting records must be kept—
-  (a) in written form in English; or
-  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+(2)
+(3)
 
 ### 28A Financial statements must be prepared
 The Council must ensure that, within 5 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are—
@@ -208,9 +206,15 @@ The Council must ensure that, within 5 months after the end of the financial yea
 (1) All land owned by the Council shall be exempt from land tax.
 (2) The Council is hereby declared to be exempt from the payment of income tax.
 
-### 30 Remuneration and travelling expenses of members of the Council and of committees
-(1) The Council and any committee appointed by the Council under section 14 are hereby declared to be statutory Boards within the meaning of the Fees and Travelling Allowances Act 1951.
-(2) The Council shall pay to its members and to the members of any committee appointed under section 14 remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly.
+### 30 Remuneration of members of Council
+(1) Every Council member and member of a committee appointed under section 14(e) is entitled to receive from the Council remuneration for services as a member at a rate and of a kind determined by the Minister in accordance with the fees framework.
+(2) A person holding any of the following offices is not entitled to any remuneration for services as a member of the Council or a member of a committee:
+  (a) a Judge:
+  (b) a member of Parliament:
+  (c) an employee of the State services who is acting in the employee’s official capacity.
+
+### 30A Expenses of Council members and committee members
+In addition to any remuneration received under section 30, every Council member and member of a committee is entitled, in accordance with the fees framework, to be reimbursed by the Council for actual and reasonable travelling and other expenses incurred in carrying out his or her service as a member.
 
 ### 31 Unauthorised expenditure
 The Council may in any financial year out of its income available for general purposes expend for purposes not authorised by this or any other Act for the time being in force any sum or sums not amounting in the aggregate to more than $500 or such other amount as may be prescribed by regulations made under this Act.
@@ -223,15 +227,11 @@ The Council may in any financial year out of its income available for general pu
 (3) A copy of the annual report shall, after its receipt by the Minister, be laid before Parliament as soon as practicable.
 
 ### 33 Rules
-(1) The Council may from time to time, by resolution, make rules not inconsistent with this Act for all or any of the following purposes:
-  (a) regulating the proceedings of the Council and the conduct of its meetings:
-  (b) prescribing the method of election of members of the Council and matters incidental thereto:
-  (c) prescribing the form and manner of compiling and keeping the electoral roll of the electoral college:
-  (d) providing for the custody of the property and funds of the Council, and the custody and use of the common seal of the Council:
-  (e) prescribing the duties of officers and other servants of the Council:
-  (f) providing for the establishment of local branches, to be known as institutes, to further the work of the Council, and prescribing such other matters as may be necessary for the efficient functioning of the institutes:
-  (g) such other purposes as may be deemed necessary or expedient for duly carrying out the work of the Council.
+(1) The Council must, as soon as practicable, by resolution, make rules prescribing the method of election of members of the Council.
+(1A) Rules made under subsection (1) must require the notification of elections.
+(1B) The Council may from time to time, by resolution, make rules that are reasonably necessary to enable the Council to perform its functions.
 (2) Subject to section 11, notice of every resolution proposed to be submitted to any meeting for the making, amendment, or revocation of any rule shall be given to every member of the Council not less than 14 clear days before the day fixed for the meeting.
+(3) Rules made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 34 Consequential amendments, savings, and repeals
 (1) Amendment(s) incorporated in the principal Act(s).
