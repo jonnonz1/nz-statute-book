@@ -1,5 +1,5 @@
 # Private Schools Conditional Integration Act 1975
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2016-10-29_
 
 > An Act to make provision for the conditional and voluntary integration of private schools into the State system of education in New Zealand on a basis which will preserve and safeguard the special character of the education provided by them
 
@@ -38,7 +38,7 @@ This Act shall bind the Crown.
 (3) The proprietor of an integrated school shall, subject to the provisions of the integration agreement,—
   (a) continue to have the responsibility to supervise the maintenance and preservation of the education with a special character provided by the school:
   (b) continue to have the right to determine from time to time what is necessary to preserve and safeguard the special character of the education provided by the school and described in the integration agreement.
-(4) If in the opinion of a proprietor the special character of the school as defined and described in the integration agreement has been or is likely to be jeopardised, or the education with a special character provided by the school as defined and described in the integration agreement is no longer preserved and safeguarded, he may invoke the powers conferred upon him by this Act.
+(4) If, in the opinion of a proprietor, the special character of the school as defined and described in the integration agreement has been or is likely to be jeopardised, or the education with a special character provided by the school as defined and described in the integration agreement is no longer preserved and safeguarded, he may invoke the powers conferred upon him by this Act.
 
 ### 4 Integrated schools subject to certain enactments
 (1) Subject to subsection (2),—
@@ -86,6 +86,7 @@ If a person who proposes to establish a school with the intention that it become
 (7) Any proprietor or proprietors may enter into agreements for the integration of more than 1 school.
 (8) There shall be a separate integration agreement for each school that is to become an integrated school.
 (9) If the Minister and the proprietors so agree, the terms of an integration agreement may from time to time be varied by a supplementary agreement.
+(9A) Despite subsection (1), the Minister’s power under subsection (9) to enter into a supplementary agreement may be delegated under section 28 of the State Sector Act 1988.
 (10) An integration agreement shall for all purposes be a binding agreement between the proprietors and Her Majesty the Queen.
 
 ### 8 Effective date of integration agreement
@@ -261,7 +262,7 @@ The school office of an integrated school may be used for the purpose of communi
 ## Part 6 — Proprietors of an integrated school
 
 ### 40 Powers and responsibilities of proprietors
-(1) The proprietors of an integrated school shall subject to section 3, exercise such powers and accept such responsibilities as may be specified in any integration agreement to which they are a party.
+(1) The proprietors of an integrated school shall, subject to section 3, exercise such powers and accept such responsibilities as may be specified in any integration agreement to which they are a party.
 (2) Subject to the provisions of subsection (1), the proprietors of an integrated school—
   (a) own, hold upon trust, or lease the land and buildings that are specified in the integration agreement as constituting the school premises; and
   (b) shall accept and meet the liability for all mortgages, liens, and other charges upon the said land and buildings; and
@@ -296,7 +297,7 @@ The controlling authority of an integrated school may, on the same conditions as
   (b) close the school pursuant to section 12; or
   (c) arrange for the acquisition by the Crown, in accordance with the Public Works Act 1981, of any land, buildings, and chattels relating to the school that are owned or leased by the proprietors, and that the Minister considers appropriate for the purpose of establishing a State school.
 (2) When the Minister acts in accordance with paragraph (a) or paragraph (b) of subsection (1), the provisions of this Act relating to the cancellation of an integration agreement or to the closure of an integrated school, as the case may be, shall apply accordingly.
-(3) In any case where in accordance with paragraph (c) of subsection (1) the land, buildings, and chattels relating to an integrated school that is a primary school have been acquired by the Crown, the education board of the education district in which that school is situated shall, on the direction of the Minister, establish that school as a State school.
+(3) In any case where, in accordance with paragraph (c) of subsection (1), the land, buildings, and chattels relating to an integrated school that is a primary school have been acquired by the Crown, the education board of the education district in which that school is situated shall, on the direction of the Minister, establish that school as a State school.
 
 ## Part 7 — Enrolment review committees for integrated schools
 
@@ -426,7 +427,7 @@ In the case of an integrated primary school, the person to be appointed to any o
 ## Part 9 — Transitional provisions
 
 ### 71 Appointment of teachers on integration
-(1) Where, in accordance with sections 7 and 8, an integration agreement is executed in respect of any private school:
+(1) Where, in accordance with sections 7 and 8, an integration agreement is executed in respect of any private school,—
   (a) the contract of service as a teacher at that school of every teacher at that school shall be deemed to have been determined from the effective date of integration; and
   (b) every such teacher as aforesaid shall, if he so wishes, be deemed to be in the employment of the controlling authority of the integrated school until he has been formally appointed to a teaching position in accordance with subsection (4), and the provisions of subsection (6) shall apply accordingly from the effective date of integration:
   (c) each teaching position at that school shall, within 60 days after the effective date of integration, be advertised as required by the Education Act 1964 and regulations made under that Act (if any).
