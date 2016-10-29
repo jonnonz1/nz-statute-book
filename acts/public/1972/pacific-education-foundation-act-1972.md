@@ -1,110 +1,127 @@
-# Pacific Islands Polynesian Education Foundation Act 1972
-_Consolidation as at 2014-04-01_
+# Pacific Education Foundation Act 1972
+_Consolidation as at 2016-10-29_
 
 > An Act to establish a Pacific Islands Polynesian Education Foundation
 
-### 1 Short Title
-This Act may be cited as the Pacific Islands Polynesian Education Foundation Act 1972.
+### 1 Title
+This Act is the Pacific Education Foundation Act 1972.
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Board** means the Board of Trustees of the Foundation
-  - **contributor** means a person who is for the time being a contributor to the Foundation within the meaning of section 6
+  - **Board** means the Board of the Foundation
+  - **contributor** means a contributor to the Foundation within the meaning of section 6
   - **education** includes pre-school education
+  - **fees framework** means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
-  - **financial year** means a period of 12 months ending with the last day of December
-  - **Foundation** means the Pacific Islands Polynesian Education Foundation constituted by this Act
+  - **financial year** means a period of 12 months ending with the last day of June
+  - **Foundation** means the Pacific Education Foundation continued under section 4(1)
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
-  - **Polynesian** means a member of the Polynesian race living in New Zealand who is both—and includes any descendant of any such member of the Polynesian race
-    (a) a native of any island of the Pacific Ocean (other than New Zealand); and
-    (b) a New Zealand citizen or a person who has been granted permanent residence or who has been permitted to enter New Zealand with the intention of permanent residence,—
   - **Minister** means the Minister of Education
-  - **trustee** means a member of the Board.
+  - **Pacific person** means—
+    (a) a person living in New Zealand who is both—
+      (i) a native of the Cook Islands, Fiji, Kiribati, Niue, Samoa, Tokelau, Tonga, or Tuvalu; and
+      (ii) a New Zealand citizen or a person who has been granted permanent residence or who has been permitted to enter New Zealand with the intention of permanent residence; and
+    (b) a descendant of a person described in paragraph (a)
+  - **Public Service** has the same meaning as in section 2 of the State Sector Act 1988.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions (if any) set out in Schedule 1 have effect according to their terms.
 
 ### 3 Administration of Act
-This Act shall be administered by the Ministry of Education under the control of the Minister.
+[Repealed]
 
 ### 4 Foundation established
-(1) There shall be a Foundation to be called the Pacific Islands Polynesian Education Foundation.
+(1) The Pacific Islands Polynesian Education Foundation is continued with the name Pacific Education Foundation.
 (2) The Foundation shall consist of the contributors to the Foundation.
 (3) The Foundation shall be a body corporate with perpetual succession and a common seal, and shall be capable of holding real and personal property and of doing and suffering all that bodies corporate may do and suffer.
 
 ### 5 Purpose of Foundation
-The general purpose of the Foundation shall be to promote and encourage the better education of Polynesians and to provide financial assistance for that purpose.
+The general purpose of the Foundation shall be to promote and encourage the better education of Pacific people and to provide financial assistance for that purpose.
 
 ### 6 Contributors
 (1) During any financial year contributors to the Foundation shall be—
-  (a) all persons who have, during that financial year or during the immediately preceding financial year, contributed the sum of $1 or more to the funds of the Foundation or who have made gifts to the Foundation of other property of a value of not less than $1:
+  (a) all persons who have, during that financial year or during the immediately preceding financial year, contributed the sum of $10 or more to the funds of the Foundation or who have made gifts to the Foundation of other property of a value of not less than $10:
   (b) all persons who are for the time being accepted by the Board as life members of the Foundation.
-(2) The Board may accept as a life member of the Foundation any person who gives to the funds of the Foundation an amount of not less than $40 in 1 or more donations, or who makes a gift to the Foundation of other property of a value of not less than $40.
+(2) The Board may accept as a life member of the Foundation any person who gives to the funds of the Foundation an amount of not less than $500 in 1 or more donations, or who makes a gift to the Foundation of other property of a value of not less than $500.
 (3) The Board shall at all times keep a register in which shall be entered the names and addresses of all contributors and the money or property from time to time contributed by each, together with the dates of those contributions. All entries in the register shall, in the absence of proof to the contrary, be sufficient evidence of the matters so recorded.
 (4) Any contributor who desires to inspect the register may arrange with the Board to make the inspection at a time suitable to the Board and to the contributor.
 
 ### 7 Meetings of contributors
 (1) The Board may from time to time call a general meeting of contributors or of the contributors residing in any particular district in which there are resident 100 or more contributors for the purpose of reporting on the work and finances of the Foundation or for the purpose of discussing plans and proposals for the furtherance and extension of the work of the Foundation or for any other purpose relating to the affairs of the Foundation.
-(2) Notice of the calling of any such general meeting shall be given by an advertisement published in some newspaper circulating in the district where the meeting is to be held and the Board may also give such other notice as it thinks fit in the circumstances.
-(3) Every question before any general meeting shall be decided by a majority of the votes of the contributors then present and entitled to vote. Each contributor shall have 1 vote only but in the event of an equality of votes for and against any proposed resolution the person acting as chairman of the meeting shall also have a casting vote.
-(4) No person shall be entitled to vote as a contributor at any meeting of contributors unless he has attained the age of 18 years.
+(2)
+(3) Every question before any general meeting shall be decided by a majority of the votes of the contributors then present and entitled to vote. Each contributor shall have 1 vote only but in the event of an equality of votes for and against any proposed resolution the person acting as chairperson of the meeting shall also have a casting vote.
+(4) No person shall be entitled to vote as a contributor at any meeting of contributors unless the person has attained the age of 18 years.
 (5) At any general meeting 6 contributors shall form a quorum.
 
 ### 8 Constitution of Board
-(1) There shall be a Board of Trustees of the Foundation to be called the Board of Trustees of the Pacific Islands Polynesian Education Foundation.
-(2) The Board shall consist of:
-  (a) 1 trustee, to be appointed by the Governor-General, who shall be the chairman:
-  (b) the Secretary of Education, who shall be the deputy chairman:
-  (c) the chief executive of the Ministry of Maori Development:
-  (d) 1 trustee, who shall be the officer in the Ministry of Education for the time being holding appointment as the officer for Maori and Islands Education or some other officer of that department appointed as a trustee by the Secretary of Education:
-  (e) 5 other trustees, to be appointed by the Governor-General on the joint nomination in each case of the Minister and the Minister of Pacific Island Affairs. Of those 5 trustees—
-    (i) 1 shall be appointed after such consultation with the Niuean community in New Zealand as in the opinion of those Ministers is reasonable and practicable:
-    (ii) 1 shall be appointed after such consultation with the Cook Islands community in New Zealand as in the opinion of those Ministers is reasonable and practicable:
-    (iii) 1 shall be appointed after such consultation with the Samoan community in New Zealand as in the opinion of those Ministers is reasonable and practicable:
-    (iv) 1 shall be appointed after such consultation with the Tokelauan community in New Zealand as in the opinion of those Ministers is reasonable and practicable:
-    (v) 1 shall be appointed after such consultation with the Tongan community in New Zealand as in the opinion of those Ministers is reasonable and practicable.
-(3) In the absence from any meeting of any member being an officer of any department of the Public Service he may authorise any other officer of his department to attend that meeting in his stead. Any person who attends any meeting of the Board pursuant to this subsection shall for the purposes of that meeting be deemed to be a member of the Board.
-(4) In the absence from any meeting of any member appointed under subsection (2) he may, with the joint approval of the Minister and of the Minister of Pacific Island Affairs, authorise any other person to attend that meeting in his stead. Any person who attends any meeting of the Board pursuant to this subsection shall, for the purposes of that meeting, be deemed to be a member of the Board.
-(5) Any person appointed to the Board by the Governor-General under subsection (2) shall be appointed for a term of 3 years but shall be eligible for reappointment.
-(6) Any trustee appointed by the Governor-General may be at any time removed from office by the Governor-General for inability to adequately perform the duties of office, bankruptcy, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General, or may at any time resign his office by writing addressed to the Minister.
-(7) If any appointed trustee dies, is removed from office, or resigns, the vacancy so created shall be filled in the manner in which the appointment to the vacant office was originally made. Every person so appointed shall be appointed for the residue of the term for which his predecessor was appointed.
-(8) Unless he sooner vacates his office as provided in subsection (7), every appointed trustee shall continue in office until his successor comes into office, notwithstanding that the term for which he was appointed may have expired.
-(9) The powers of the Board shall not be affected by any vacancy in the membership thereof.
+(1) The Board of the Pacific Islands Polynesian Education Foundation is continued as the Board of the Pacific Education Foundation.
+(2) The Board consists of the following members:
+  (a) the Secretary for Education:
+  (b) the chief executive of the Ministry for Pacific Peoples:
+  (c) the manager at the Ministry of Education who has responsibility for the education of Pacific peoples:
+  (d) 5 other members, to be appointed jointly by the Minister and the Minister for Pacific Peoples after consultation with those Pacific communities that the Ministers consider it appropriate to consult.
+(3) If a member who is an employee of the Public Service is absent from any meeting, the member may authorise another employee to attend the meeting in the member’s place (and the employee is, for the purposes of the meeting, a member of the Board).
+(4) If a member appointed under subsection (2)﻿(d) is absent from any meeting, the member may authorise any other person to attend the meeting in the member’s place (and the person is, for the purposes of the meeting, a member of the Board).
+(5) A member appointed under subsection (2)﻿(d)—
+  (a) must be appointed for a 3-year term; and
+  (b) is eligible for reappointment at the expiry of the 3-year term; and
+  (c) may at any time be removed from the Board by the Minister for inability to perform the duties of a Board member, bankruptcy, neglect of duty, or misconduct proved to the satisfaction of the Minister; and
+  (d) may at any time resign from the Board by notice in writing to the Minister.
+(6) If a member appointed under subsection (2)﻿(d) (member A) dies, is removed from office, or resigns,—
+  (a) the vacancy created must be filled in the manner in which member A was appointed; and
+  (b) the member who fills the vacancy must be appointed for the remainder of the term for which member A was appointed.
+(7) Unless subsection (6) applies, a member appointed under subsection (2)﻿(d) must continue in office until the member’s successor comes into office (even if the member’s term of appointment has expired).
+(8) The powers of the Board are not affected by any vacancy in the Board’s membership.
 
-### 9 Chairman at meetings of the Board and contributors
-(1) The chairman shall preside at all meetings of the Board and all meetings of contributors at which he is present.
-(2) If the chairman is absent from any such meeting and the deputy chairman is present, the deputy chairman shall preside.
-(3) If both the chairman and the deputy chairman are absent from a meeting of the Board, the meeting shall elect some other trustee present to be chairman of that meeting and the trustee so elected shall have and may exercise all the powers and functions of the chairman for the purposes of that meeting.
-(4) If both the chairman and deputy chairman are absent from a meeting of contributors, the contributors present and entitled to vote shall elect a chairman for the meeting from amongst the trustees (if any) present at the meeting and if no trustee is present then from amongst the contributors present; and the person elected shall have and may exercise all the powers and functions of the chairman for the purposes of that meeting.
+### 8A Board to elect chairperson and deputy chairperson
+Every year, at a meeting of the Board, the members of the Board must elect—
+  (a) 1 member to be chairperson of the Board; and
+  (b) 1 member to be deputy chairperson of the Board.
+
+### 9 Chairperson at meetings of the Board and contributors
+(1) The chairperson shall preside at all meetings of the Board and all meetings of contributors at which the chairperson is present.
+(2) If the chairperson is absent from any such meeting and the deputy chairperson is present, the deputy chairperson shall preside.
+(3) If both the chairperson and the deputy chairperson are absent from a meeting of the Board, the meeting shall elect some other member present to be chairperson of that meeting and the member so elected shall have and may exercise all the powers and functions of the chairperson for the purposes of that meeting.
+(4) If both the chairperson and deputy chairperson are absent from a meeting of contributors, the contributors present and entitled to vote shall elect a chairperson for the meeting from amongst the members (if any) present at the meeting and if no member is present then from amongst the contributors present; and the person elected shall have and may exercise all the powers and functions of the chairperson for the purposes of that meeting.
 
 ### 10 Meetings of Board
 (1) Meetings of the Board shall be held at least once in every year at such times and places as the Board from time to time determines.
-(2) The chairman may at any time call a special meeting of the Board.
-(3) It shall be the duty of the chairman or the secretary to call a special meeting of the Board at any time when he is requested in writing to do so by any 5 trustees.
-(4) At any meeting of the Board 5 trustees shall form a quorum.
-(5) Every question before the Board shall be determined by a majority of the votes of the trustees present at the meeting:
-  provided that in the event of an equality of votes the chairman shall in addition to his deliberative vote also have a casting vote.
-(6) The Board and every committee appointed by the Board shall at all times cause proper minute books to be kept in which shall be entered minutes of the proceedings of the Board or committee, as the case may be, with proper details of the business transacted thereat.
-(7) The minutes of each meeting shall be read at the next succeeding meeting and shall be confirmed or amended, as the case may require.
+(2) The chairperson may at any time call a special meeting of the Board.
+(3) It shall be the duty of the chairperson or the secretary to call a special meeting of the Board if either person is requested in writing to do so by any 5 members.
+(4) At any meeting of the Board 5 members shall form a quorum.
+(5) Every question before the Board shall be determined by a majority of the votes of the members present at the meeting:
+  provided that in the event of an equality of votes the chairperson has both a deliberative vote and a casting vote.
+(6)
+(7)
 (8) Subject to the provisions of this Act and of any regulation thereunder, the Board shall regulate its procedure in such manner as it thinks fit.
 
-### 11 Fees and travelling allowances
-The Board may pay to any trustee, or to any member of a Special Committee, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly. The Board and all such committees are hereby declared to be statutory Boards within the meaning of that Act.
+### 11 Remuneration of members of Board and Special Committees
+(1) Board members and members of a Special Committee are entitled to receive from the Board remuneration for services as a member at a rate and of a kind determined by the Minister in accordance with the fees framework.
+(2) The following office-holders are not entitled to any remuneration for services as a Board member or a member of a Special Committee:
+  (a) a Judge:
+  (b) a member of Parliament:
+  (c) any employee of the State services who is acting in the employee’s official capacity.
+
+### 11A Expenses of members of Board and Special Committees
+In addition to any remuneration received under section 11, Board members and members of a Special Committee are entitled, in accordance with the fees framework, to be reimbursed by the Board for actual and reasonable travelling and other expenses incurred in carrying out their service as a member.
 
 ### 12 Executive Committee, Special Committees, and delegation of powers
-(1) The Board may from time to time, by resolution, establish—
-  (a) an Executive Committee of not less than 3 trustees:
+(1) The Board may from time to time establish—
+  (a) an Executive Committee of not less than 3 Board members:
   (b) Special Committees for particular purposes.
-(2) Every member of the Executive Committee shall be a trustee, but no person shall be debarred from membership of any Special Committee by reason only of the fact that he is not a trustee or a contributor.
-(3) The Board may delegate to the Executive Committee or to any Special Committee, or to any trustee, or to any officer of the Board any of its powers, except this power of delegation.
+(2) Every member of the Executive Committee shall be a Board member, but no person shall be debarred from membership of any Special Committee by reason only of the fact that the person is not a Board member or a contributor.
+(3) The Board may delegate to the Executive Committee or to any Special Committee, or to any Board member, or to any officer of the Board any of its powers, except this power of delegation.
 (4) Subject to any general or special directions given or conditions attached by the Board, any powers and functions so delegated may be performed and exercised by the committee or person concerned with the same effect as if those powers and functions had been directly conferred by this Act and not by delegation.
 (5) Every committee or person purporting to act under any delegation under this section shall be presumed to be acting in accordance with the terms of the delegation, in the absence of proof to the contrary.
 (6) Every such delegation shall be revocable at will, and no such delegation shall prevent the performance or exercise of any function or power by the Board.
-(7) Until any such delegation is revoked, it shall continue in force according to its tenor, notwithstanding any change in the membership of the Board or of any committee.
+(7) A delegation under this section continues in force until it is revoked, regardless of any change in the membership of the Board or of any committee.
 
 ### 13 Common seal
-The common seal of the Foundation shall not be affixed to any document except pursuant to a resolution of the Board or for the purposes of giving effect to any power delegated by the Board, and the execution of any document so sealed shall be attested by 2 trustees, and by the secretary or by some officer authorised by the Board in that behalf.
+The common seal of the Foundation shall not be affixed to any document except pursuant to a resolution of the Board or for the purposes of giving effect to any power delegated by the Board, and the execution of any document so sealed shall be attested by 2 Board members, and by the secretary or by some officer authorised by the Board in that behalf.
 
 ### 14 Contracts
 (1) Any contract which, if made between private persons, must be by deed, shall, if made by the Foundation, be in writing under the common seal of the Foundation.
-(2) Any contract which, if made between private persons, must be in writing signed by the parties to be charged therewith shall, if made by the Foundation, be either under the common seal of the Foundation or signed on behalf of the Foundation by some trustee or officer of the Foundation duly authorised in that behalf.
+(2) Any contract which, if made between private persons, must be in writing signed by the parties to be charged therewith shall, if made by the Foundation, be either under the common seal of the Foundation or signed on behalf of the Foundation by some Board member or officer of the Foundation duly authorised in that behalf.
 (3) Any contract which, if made between private persons, may be made orally, may be made in the manner specified in subsection (1) as in the case of a deed, or in the manner specified in subsection (2) as in the case of a contract required to be in writing, or may be made orally by or on behalf of the Foundation by any person acting under its authority, express or implied.
 (4) Notwithstanding anything in the foregoing provisions of this section, no contract made by or on behalf of the Foundation shall be invalid by reason only that it was not made in manner provided in the foregoing provisions of this section, if it was made pursuant to a resolution of the Board or to give effect to a resolution of the Board.
 (5) The Board is hereby declared to be a local authority for the purposes of the Local Authorities (Members' Interests) Act 1968.
@@ -112,7 +129,7 @@ The common seal of the Foundation shall not be affixed to any document except pu
 
 ### 15 Appointment of officers and collectors
 (1) There shall be appointed in accordance with the State Sector Act 1988 all such officers and servants of the Board as may be necessary for the efficient exercise and performance of the powers and functions of the Board, including a secretary and a treasurer.
-(2) The Board may appoint such persons as it thinks fit for the purpose of collecting voluntary contributions and donations from the public for the purposes of the Foundation. No person shall be deemed to be subject to the State Sector Act 1988 by reason of his appointment under this subsection.
+(2) The Board may appoint such persons as it thinks fit for the purpose of collecting voluntary contributions and donations from the public for the purposes of the Foundation. No person shall be deemed to be subject to the State Sector Act 1988 by reason of the person’s appointment under this subsection.
 
 ### 16 Power to accept property in trust
 The Board may accept on behalf of the Foundation by way of bequest, devise, or gift any money, land, or other property in trust for the purposes of the Foundation for the time being or in trust for any particular purpose or purposes for which the Board can lawfully apply the property of the Foundation.
@@ -134,7 +151,7 @@ Notwithstanding the terms of any trust affecting any such land, the Board may le
   (a) such grants as the Minister of Finance from time to time approves:
   (b) such subsidies as the Minister of Finance from time to time approves on devises, bequests, and other contributions and gifts to the Foundation of money, land, and other property.
 (2) Any payment or grant made under paragraph (a) of subsection (1) may, with the approval of the Minister of Finance, be made by the issue of government securities of the appropriate amount to the Foundation. Where any government securities are so issued, the Board shall not sell or otherwise dispose of them without the consent of the Minister of Finance.
-(3) Any local authority within the meaning of the Local Government Act 2002, or other public body, any public corporation, any company or other incorporated body, any unincorporated body of persons, or any other person may, unless expressly prohibited by any Act or instrument of trust affecting it, them, or him, make to the Foundation donations or gifts of money, and the Board may accept any such donations or gifts.
+(3) Any local authority within the meaning of the Local Government Act 2002, or other public body, any public corporation, any company or other incorporated body, any unincorporated body of persons, or any other person may, unless expressly prohibited by any Act or instrument of trust, make to the Foundation donations or gifts of money, and the Board may accept any such donations or gifts.
 
 ### 21 Capital and income of Foundation
 (1) The capital of the Foundation shall consist of:
@@ -167,20 +184,20 @@ Notwithstanding the terms of any trust affecting any such land, the Board may le
 
 ### 24 Authorised expenditure
 (1) Subject to the provisions of this Act, the Board may apply the income of the Foundation in such manner as the Board thinks fit for all or any of the following purposes:
-  (a) the education and vocational training of Polynesians:
-  (b) the establishment, conduct, equipment, management or maintenance of schools at which a majority of the pupils are Polynesian pupils, or the grant of financial assistance for any of those purposes:
-  (c) the grant of financial assistance or of equipment or material to established schools or other educational institutions at which Polynesians are receiving education:
-  (d) the making of grants to other funds established or bodies formed for the promotion of the education of Polynesians:
-  (e) the furtherance of the knowledge and appreciation of the advantages of better education amongst the Polynesian people:
-  (f) the provision of bursaries with or without boarding allowances to assist Polynesians to attend any public or private secondary school:
-  (g) the provision of bursaries to assist Polynesians to attend any New Zealand or overseas university, agricultural college, technical institute, or institution of similar status:
-  (h) the advancement of money by way of loan, on such terms and conditions as the Board thinks fit, to any Polynesian to assist him to attend any New Zealand or overseas university, agricultural college, technical institute, or institution of similar status:
-  (i) the provision of post-graduate scholarships to Polynesians holding university degrees or diplomas for the purpose of enabling them to continue their studies or conduct special research either in New Zealand or elsewhere:
+  (a) the education and vocational training of Pacific people:
+  (b)
+  (c) the grant of financial assistance or of equipment or material to established schools or other educational institutions at which Pacific people are receiving education:
+  (d) the making of grants to other funds established or bodies formed for the promotion of the education of Pacific people:
+  (e) the furtherance of the knowledge and appreciation of the advantages of better education amongst Pacific people:
+  (f) the provision of bursaries with or without boarding allowances to assist Pacific people to attend any public or private secondary school:
+  (g) the provision of bursaries to assist Pacific people to attend any New Zealand or overseas university, agricultural college, technical institute, or institution of similar status:
+  (h) the advancement of money by way of loan, on such terms and conditions as the Board thinks fit, to any Pacific person to assist the person to attend any New Zealand or overseas university, agricultural college, technical institute, or institution of similar status:
+  (i) the provision of post-graduate scholarships to Pacific people holding university degrees or diplomas for the purpose of enabling them to continue their studies or conduct special research either in New Zealand or elsewhere:
   (j) the payment of travelling expenses to holders of any post-graduate scholarships, and the making of grants to meet the expenses of the wife, husband, civil union partner, de facto partner, or dependent children of any such holder:
-  (k) the making of special research or study grants to any Polynesian who is not the holder of a post-graduate scholarship but who is proposing to undertake some special research or study which in the opinion of the Board merits assistance:
-  (l) the making of grants to any Polynesian for vocational training:
+  (k) the making of special research or study grants to any Pacific person who is not the holder of a post-graduate scholarship but who is proposing to undertake some special research or study which in the opinion of the Board merits assistance:
+  (l)
   (m) the provision of books, clothing, and other equipment for the holders of special bursaries, scholarships, or grants, or the making of grants to the parents or guardians of any such holders to assist them to provide books, clothing, and other equipment for any such holders:
-  (n) the provision, furnishing, maintenance, and management of residential accommodation for Polynesians in relation to their education or vocational training:
+  (n) the provision, furnishing, maintenance, and management of residential accommodation for Pacific people in relation to their education or vocational training:
   (o) the making of such other provision as the Board thinks expedient in order to further the purposes for which the Foundation is established:
   (p) the improvement, development, or the making of effective and profitable use of any land or other property held by or on behalf of the Foundation, the purchase or other acquisition of other property to be used with it, and all proper expenses of management of any such property:
   (q) the payment of costs of administration of the affairs of the Foundation, including its committees and agencies and the provision of office accommodation and equipment:
@@ -193,27 +210,21 @@ Notwithstanding the terms of any trust affecting any such land, the Board may le
 (2) Every bursary, scholarship, or grant shall be of such value as the Board in its discretion determines and the Board may in its discretion renew or extend it with or without modification in value or conditions of tenure.
 
 ### 26 Bank account
-(1) All money belonging to the Foundation amounting to $10 and upwards shall, within 7 days after it has come into the hands of the proper officer of the Foundation, be paid into an account of the Foundation at such bank as the Board from time to time appoints.
-(2) No money shall be withdrawn from the bank except by authority of the Board and by cheque or other instrument (not being a promissory note or bill) signed by the treasurer or by an officer of the Foundation approved by the Board and countersigned by one of the trustees who is for the time being authorised in that behalf by the Board.
-(3) The Board may from time to time authorise the opening of an imprest account in the name of an officer of the Board and may direct what payments may be made from any such imprest account.
-(4) The Board shall from time to time fix the maximum amount that may be held at any time in the imprest account not exceeding such amount as the Auditor-General may approve.
-(5) A statement of payments made from the imprest account shall be submitted to the Board for approval at its first ordinary meeting thereafter.
+The Board must, as soon as practicable after it receives money belonging to the Foundation, pay the money into the account of the Board at a bank appointed by the Board.
 
 ### 27 Estimates of receipts and expenditure
 (1) The Board shall for each financial year make an estimate, in a form approved by the Minister of Finance, of the amount of the expenditure for all purposes and the receipts of the Foundation in that year. The estimate shall show separately the estimated amount of capital expenditure and income expenditure.
-(2) The estimate shall be forwarded in duplicate to the Minister on or before 1 May in the financial year to which it relates.
+(2) The estimate shall be forwarded in duplicate to the Minister on or before 1 November in the financial year to which it relates.
 
 ### 28 Accounting records must be kept
 (1) The Board must ensure that there are kept at all times accounting records that—
   (a) correctly record the transactions of the Foundation; and
   (b) will enable the Board to ensure that the financial statements of the Foundation comply with this Act; and
   (c) will enable the financial statements of the Foundation to be readily and properly audited.
-(2) The Board must establish and maintain a satisfactory system of control of those accounting records.
-(3) The accounting records must be kept—
-  (a) in written form in English; or
-  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
-(4) Separate accounting records must be kept in respect of every trust fund or trust property under the control of the Board.
-(5) The accounting records must be open at all reasonable times to the inspection of any trustee.
+(2)
+(3)
+(4)
+(5)
 
 ### 29 Financial statements must be prepared
 The Board must ensure that, within 3 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are—
@@ -225,7 +236,7 @@ The Board must ensure that, within 3 months after the end of the financial year,
 (2) The Foundation is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 30 Annual report
-(1) The Board shall, not later than 30 June in each year, furnish to the Minister and to the Minister of Pacific Island Affairs, a report of its proceedings and operations for its preceding financial year, together with a copy of the financial statements of the Foundation for that year with the report of the Auditor-General thereon.
+(1) The Board shall, not later than 31 December in each year, furnish to the Minister and to the Minister for Pacific Peoples, a report of its proceedings and operations for its preceding financial year, together with a copy of the financial statements of the Foundation for that year with the report of the Auditor-General thereon.
 (2) A copy of the report and of the financial statements with the report of the Auditor-General thereon shall be laid before Parliament as soon as practicable after their receipt by the Minister.
 
 ### 31 Exemption from taxes
@@ -234,11 +245,32 @@ The Board must ensure that, within 3 months after the end of the financial year,
 (3)
 
 ### 32 Office of Foundation
-(1) The Board shall, subject to the consent of the Minister, establish such office or offices of the Foundation as may be required for the administration of its affairs.
-(2) The place or places of the offices of the Foundation and the times when those offices are open for business shall be notified in the Gazette.
+[Repealed]
 
-### 33 Members of Board not personally liable
-No member of the Board shall be personally liable for any act or default done or made by the Board or by any member thereof in good faith in the course of the operations of the Board.
+### 33 Members of Board and Special Committees not personally liable
+(1) No member of the Board is personally liable for—
+  (a) an act done or omitted to be done by the Board or the Executive Committee; or
+  (b) any loss to the Foundation arising out of any act done or omitted to be done by the member, if the act or omission was (so far as the member’s involvement is concerned) in good faith and in pursuance or intended pursuance of the functions of the Board or the Executive Committee.
+(2) No member of a Special Committee is personally liable for—
+  (a) an act done or omitted to be done by the Special Committee; or
+  (b) any loss to the Foundation arising out of any act done or omitted to be done by the member, if the act or omission was (so far as the member’s involvement is concerned) in good faith and in pursuance or intended pursuance of the functions of the Special Committee.
 
 ### 34 Regulations
-The Governor-General may from time to time, by Order in Council, make all such regulations as he deems to be necessary for the purpose of giving full effect to the provisions of this Act.
+The Governor-General may from time to time, by Order in Council, make all such regulations as the Governor-General deems to be necessary for the purpose of giving full effect to the provisions of this Act.
+
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Education Legislation Act 2016
+
+### 1 Interpretation
+In this schedule,—
+  - **amendment Act** means the Education Legislation Act 2016
+  - **commencement date** means the commencement date of the amendment Act.
+
+### 2 Board of Pacific Islands Polynesian Education Foundation continued
+Despite section 8(2), the Board consisting of those people specified in section 8(2) before the commencement date may continue to exercise the functions and powers of the Board under this Act until the Board described in section 8(2) is assembled.
+
+### 3 Chairman and deputy chairman to continue in office
+Despite section 8A,—
+  (a) the first election of a chairperson and a deputy chairperson is not required to take place until the year after the year in which the amendment Act commences; and
+  (b) the chairman and deputy chairman of the Board before the commencement date continue to hold office (as chairperson and deputy chairperson) until the first election is held.
