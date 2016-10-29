@@ -1,5 +1,5 @@
 # Education Act 1964
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2016-10-29_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the education of the people of New Zealand
 
@@ -466,13 +466,11 @@ _Consolidation as at 2013-07-01_
 ### 76 Regulations
 [Repealed]
 
-### 77 State primary schools to be kept open at certain times
-Except to the extent that—every State primary school shall be kept open 5 days in each week for at least 4 hours each day, of which hours 2 in the morning and 2 in the afternoon shall be; and the teaching shall be entirely of a secular character.
-  (a) a school term commences on any day other than a Monday or ends with any day other than a Friday; or
-  (b) a school is lawfully closed pursuant to section 129C,—
+### 77 Teaching in State primary schools must be secular
+Teaching in every State primary school must, while the school is open, be entirely of a secular character.
 
 ### 78 Religious instruction and observances in State primary schools
-Notwithstanding anything to the contrary in section 77, if the school's board for the school district in which the school is situated, after consultation with the principal, so determines, any class or classes at the school, or the school as a whole, may be closed at any time or times of the school day for any period or periods exceeding in the aggregate neither 60 minutes in any week nor 20 hours in any school year, for any class, for the purposes of religious instruction given by voluntary instructors approved by the school's board and of religious observances conducted in a manner approved by the school's board or for either of those purposes; and the school buildings may be used for those purposes or for either of them.
+Notwithstanding anything to the contrary in section 77 or in section 65B of the Education Act 1989, if the school's board for the school district in which the school is situated, after consultation with the principal, so determines, any class or classes at the school, or the school as a whole, may be closed at any time or times of the school day for any period or periods exceeding in the aggregate neither 60 minutes in any week nor 20 hours in any school year, for any class, for the purposes of religious instruction given by voluntary instructors approved by the school's board and of religious observances conducted in a manner approved by the school's board or for either of those purposes; and the school buildings may be used for those purposes or for either of them.
 
 ### 78A
 Notwithstanding anything in sections 77 and 78, in any case where the Minister is satisfied that the majority of the parents of pupils attending a school wish their children to receive religious instruction additional to that specified in the said section 78 and he is satisfied that such additional religious instruction will not be to the detriment of the normal curriculum of the school, he shall generally or in any special case, after consultation with the school's board, authorise the additional religious instruction up to such an amount and subject to such conditions as he thinks fit.
