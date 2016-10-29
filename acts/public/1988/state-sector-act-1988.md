@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2016-04-19_
+_Consolidation as at 2016-10-29_
 
 > Title
 
@@ -46,7 +46,7 @@ In this Act, unless the context otherwise requires,—
     (a) service in the employment of—
       (i) any State school; or
       (ii) any integrated school within the meaning of the Private Schools Conditional Integration Act 1975; or
-      (iii) any tertiary education institution; or
+      (iii) any tertiary institution (unless the institution is a sponsor within the meaning of section 2(1) of the Education Act 1989 and the employment relates to its functions as a sponsor under that Act or to a partnership school contract (as defined in Part 12A of that Act)); or
       (iv) any other educational institution for which a separate employer for the purposes of this Act is designated by any enactment or by the Minister:
     (b) service as a registered teacher in the employment of any free kindergarten association that controls a free kindergarten within the meaning of section 120 of the Education Act 1989:
     (c) service as a teacher in the employment of the Secretary under section 91N of the Education Act 1989
@@ -923,9 +923,13 @@ Despite the provisions of section 74,—
 (2) For the purposes of subsection (1), a senior position means the position or positions immediately below, in seniority, the position of the chief executive of the tertiary education institution, and such other positions as the Council of the institution may from time to time designate as being senior positions within the institution.
 
 ### 75 Actual conditions of employment
-(1) The Commissioner may declare that all or any part of the conditions of employment fixed under a collective agreement for persons employed in the education service (other than at any tertiary education institution) are to be the actual conditions of employment.
-(2) The conditions of employment of employees in the education service (other than employees at any tertiary education institution) who are not bound by any collective agreement shall be determined in each case by agreement between the employer and the individual employee, but the employer shall obtain the written concurrence of the Commissioner to the conditions of employment with that individual employee.
+(1) The Commissioner may declare that all or any part of the conditions of employment fixed under a collective agreement for persons employed in the education service are to be the actual conditions of employment.
+(1A) The Commissioner may, in addition to the actual conditions declared under subsection (1), approve further conditions of employment for an individual employee who is employed in the education service under a collective agreement if the conditions are—
+  (a) mutually agreed by the employee and his or her employer; and
+  (b) not inconsistent with the conditions of the collective agreement.
+(2) The conditions of employment of employees in the education service who are not bound by any collective agreement shall be determined in each case by agreement between the employer and the individual employee, but the employer shall obtain the written concurrence of the Commissioner to the conditions of employment with that individual employee.
 (3) The Commissioner, in carrying out the function under subsection (2), may promulgate in writing to employers, either generally or specifically, the conditions of employment for persons who are to have their conditions of employment determined in accordance with that subsection. Where the conditions of employment agreed between the employer and the person to be appointed comply with the conditions of employment promulgated by the Commissioner, the employer shall, without any further action, be deemed to have obtained the written concurrence of the Commissioner to those conditions of employment.
+(4) In this section, education service excludes service in the employment of a tertiary education institution.
 
 ### 76 Offence to attempt to influence employer
 (1) Every person commits an offence against this section who directly or indirectly solicits or endeavours to influence, with respect to decisions on the matters described in section 77F, any employer or any other person or persons to whom the employer has, under this Act or any other Act, delegated powers.
