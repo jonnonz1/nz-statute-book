@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2016-07-01_
+_Consolidation as at 2016-10-29_
 
 > An Act to reform the administration of education
 
@@ -793,7 +793,7 @@ The principal of a State school—
 ### 28 Secretary may require parents of certain children to enrol them at correspondence school
 (1) The Secretary, by notice in writing to the parent of a student—may call on the parent to have the student enrolled at a correspondence school specified in the notice, and ensure that the student does the work of the course in which the student is enrolled.
   (a) who has a certificate of exemption for the student under subparagraph (i) or subparagraph (ii) of section 26(1)﻿(b); or
-  (b) who has been directed under section 16(7)﻿(c) to enrol the student at a correspondence school,—
+  (b) who has been directed under section 16(1)﻿(c) to enrol the student at a correspondence school,—
 (2) Enrolment under subsection (1) shall be—
   (a) for the period of exemption, in the case of a student exempted under section 26(1)﻿(b); and
   (b) until the student turns 16, or for a shorter period specified in the notice, in every other case.
@@ -951,8 +951,8 @@ In proceedings under this Part of this Act, the burden of proving any of the fol
   (b) the person's attendance at a school:
   (c) the person's exemption from enrolment or attendance at a school.
 
-### 35 Fines to be paid to boards
-Every fine recovered under this Part shall be paid to the board on whose behalf the proceedings concerned were commenced.
+### 35 Fines to be paid to board or sponsor (as applicable)
+Every fine recovered under this Part must be paid to the board or sponsor (as applicable) on whose behalf the proceedings concerned were commenced.
 
 **Registration of private schools**
 
@@ -1228,6 +1228,7 @@ In this Part, Part 7A, and Part 8, unless the context otherwise requires,—
   - **charter** means a charter of aims, purposes, and objectives that has been approved for a school under this Part; and, in relation to a school, means the school's charter (or, where it has no charter in fact, the charter it is deemed by section 61(12) to have)
   - **Chief Review Officer** means the chief executive of the Education Review Office
   - **domestic student** has the same meaning as in section 2(1)
+  - **half-day** , in relation to a school, means a period of 2 hours or more during which the school is open for instruction
   - **international student** has the same meaning as in section 2(1)
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
@@ -1338,7 +1339,7 @@ Once a school charter or updated school charter takes effect, the board must mak
 [Repealed]
 
 ### 65 Staff
-Subject to Part 8A and section 120A, a board may from time to time, in accordance with the State Sector Act 1988, appoint, suspend, or dismiss staff.
+Subject to Part 8A and section 349, a board may from time to time, in accordance with the State Sector Act 1988, appoint, suspend, or dismiss staff.
 
 ### 65A Length of school year
 (1) The Minister may, before 1 July in any year, prescribe the number of half-days on which schools must be open during the next year; and different numbers may be prescribed for schools of different classes or descriptions.
@@ -1350,12 +1351,18 @@ Subject to Part 8A and section 120A, a board may from time to time, in accordanc
 (1) The Minister may, before 1 July in any year, prescribe (by reference to specific dates, specified days, the number of half-days prescribed under section 65A, or any 2 or more of those means)—
   (a) the terms that schools must observe during the next year; or
   (b) a means for ascertaining or determining those terms.
-(2) Except as provided in this Act, every board shall ensure that the schools it administers are in every year open for instruction on every day during the terms prescribed, ascertained, or determined for the year under subsection (1).
-(3) For the purposes of section 65A and subsection (2)—
-  (a) on any day, a school is open for instruction for a half-day only, if—
-    (i) it is in fact open for instruction for 2 hours or more before noon; but is not in fact open for instruction for 2 hours or more after noon; or
-    (ii) it is in fact open for instruction for 2 hours or more after noon; but is not in fact open for instruction for 2 hours or more before noon; and
-  (b) on any day, a school is not open for instruction at all if it is not in fact open for instruction for 2 hours or more before noon and for 2 hours or more after noon.
+(2) Every board must ensure that each school it administers is open for instruction for 1 half-day that finishes at or before noon and 1 half-day that starts at or after noon on every day during the terms prescribed, ascertained, or determined under subsection (1).
+(3) However, a board may vary the time at which any 1 or more half-days take place (for example, by starting a second half-day before noon) if the board—
+  (a) has adequately consulted parents, staff, the local community, and any other person who the board considers may be affected, about the proposed variation and it is generally acceptable; and
+  (b) is satisfied that the adoption of the proposal will not result in the students of the school spending less time in school than other students in comparable schools and other local schools; and
+  (c) has taken all reasonable steps to notify students and parents in writing of the board’s final decision on the proposed variation.
+(3A) A board may also vary the time at which any 1 or more half-days take place without satisfying the requirements in subsection (3)﻿(a) if—
+  (a) the variation is made for operational reasons; and
+  (b) the variation applies for no more than 2 days; and
+  (c) the board has not made a variation under this subsection during the previous 6 weeks.
+(3B) A student enrolled at a State school must comply with section 25 even if the school’s board varies the time of any 1 or more half-days.
+(3C) On any day, a school is not open for instruction at all if it is open for less than 1 half-day.
+(3D) To avoid doubt, if a school opens on any day for only 1 half-day, that half-day may be counted towards the number of half-days prescribed by the Minister under section 65A(1).
 (4) Where the Minister has not in fact prescribed terms, or a means of ascertaining or determining them, under subsection (1) in respect of any year, the Minister shall be deemed to have prescribed in respect of the year the terms or means prescribed (or deemed under this subsection to have been prescribed) in respect of the year before.
 
 ### 65C Holidays
@@ -1373,13 +1380,10 @@ Subject to Part 8A and section 120A, a board may from time to time, in accordanc
 ### 65D Exceptions in particular cases
 (1) The Minister may authorise a board to open any specified school it administers for fewer half-days in any year than required by section 65A(2); and schools may be closed accordingly.
 (2) The Minister may authorise a board to open and close any specified school it administers in accordance with terms and holidays (specified by the Minister) that differ from those otherwise required by this Act to be observed; and, subject to any terms and conditions specified by the Minister when giving the authority, schools may be open and closed accordingly.
-(3) The Minister may authorise a board to apply a meaning of half-day that differs from the meaning it has in section 65B(3), if the Minister is satisfied that—
-  (a) the board has adequately consulted parents, staff, and the local community about the proposal and it is generally acceptable; and
-  (b) the adoption of the proposal will not result in the students of the school spending less time in school than other students in comparable schools; and
-  (c) the Minister considers that such a variation is appropriate in the circumstances.
-(4) An authorisation under subsection (3) must be given either unconditionally or subject to such conditions as the Minister considers appropriate.
-(5) A student enrolled at a State school must comply with section 25 even if the school's board varies the meaning of half-day under subsection (3).
-(6) Subsection (3) overrides the provisions in section 77 of the Education Act 1964 concerning the times at which State primary schools are to be kept open.
+(3)
+(4)
+(5)
+(6)
 
 ### 65DA Multiple timetable arrangements
 (1) The Minister may authorise a board to run a multiple timetable arrangement for a specified period at a specified school if—
@@ -1568,7 +1572,12 @@ Subject to any enactment, the general law of New Zealand, and the school's chart
 (1) A school's board must perform its functions and exercise its powers in such a way as to ensure that every student at the school is able to attain his or her highest possible standard in educational achievement.
 (2) Except to the extent that any enactment or the general law of New Zealand provides otherwise, a school's board has complete discretion to control the management of the school as it thinks fit.
 
-### 76 Principals
+### 75A Appointment of principals
+(1) The powers conferred on a board by section 65 include the power to appoint a principal.
+(2) Two or more boards may appoint 1 person to be the principal of 2 or more schools administered by the boards.
+(3) A combined board (as defined in section 92) may appoint 1 person to be the principal of 2 or more schools administered by the board.
+
+### 76 Role of principal
 (1) A school's principal is the board's chief executive in relation to the school's control and management.
 (2) Except to the extent that any enactment, or the general law of New Zealand, provides otherwise, the principal—
   (a) shall comply with the board's general policy directions; and
@@ -1602,7 +1611,7 @@ The principal of a State school shall take all reasonable steps to ensure that�
 ### 78A Powers of entry and inspection
 (1) Any person holding an authorisation under subsection (2) may, at any reasonable time,—
   (a) enter and inspect any registered school:
-  (b) inspect, photocopy, print out, or copy onto disk any documents (whether held in electronic or paper form) that the person believes on reasonable grounds to be those of the board of the school:
+  (b) inspect, photocopy, print out, or copy onto disk any documents (whether held in electronic or paper form) that the person believes on reasonable grounds to be those of the board, manager, or sponsor of the school:
   (c) remove any document described in paragraph (b), whether in its original form or as an electronic or paper copy.
 (1A) If any original documents are removed from a school under subsection (1)﻿(c), the person who removes the documents must—
   (a) leave at the school a list of the documents removed; and
@@ -1811,10 +1820,10 @@ Within 1 year of the date of a notice under any of sections 78J(1), 78K(1), 78L(
 
 ## Part 8 — Financial
 
-### 79 Grants for boards
-(1) Subject to subsection (2), in each financial year, a board shall be paid, out of public money appropriated by Parliament for the purpose, such grants and supplementary grants, of such amounts, as the Minister determines.
-(2) In determining the amount of any grant, the Minister shall take no account of foreign students (other than students exempted under section 4A(1)) enrolled or likely to be enrolled at any school or institution the board concerned administers.
-(3) A supplementary grant is paid subject to the condition that it will be used for the purposes set out in the grant, and a board that receives a supplementary grant must use it for those purposes only.
+### 79 Grants for boards or sponsors
+(1) Subject to subsection (2), in each financial year, boards and sponsors must be paid, out of public money appropriated by Parliament for the purpose, such grants and supplementary grants, of such amounts, as the Minister determines.
+(2) In determining the amount of any grant, the Minister shall take no account of foreign students (other than students exempted under section 4A(1)) enrolled or likely to be enrolled at any school or institution administered by the board, or operated by the sponsor, concerned.
+(3) A supplementary grant is paid subject to the condition that it will be used for the purposes set out in the grant, and a board or sponsor that receives a supplementary grant must use it for those purposes only.
 
 ### 80 No transfer between grants
 [Repealed]
@@ -1911,9 +1920,11 @@ Notwithstanding sections 79 to 81,—
 (2) Until a rental scheme under subsection (1) takes effect, rents for teachers' residences must be determined in accordance with the scheme operating immediately before subsection (1) comes into force.
 
 ### 89 Payroll service
-(1) The Secretary shall ensure that there are established and maintained, within or on behalf of the Ministry, staff and facilities for, and sufficient for, servicing the payrolls of boards (in this section referred to as the payroll service).
-(2) Unless authorised by the Secretary not to do so, every board shall use the payroll service for the calculation and payment of the salaries and wages of all employees of the board who are in the education service (within the meaning of the State Sector Act 1988).
-(3) Every board required by subsection (2) to use the payroll service shall keep all records, and give the Secretary all information, necessary to enable it to do so.
+(1) The Secretary must ensure that a payroll service is established and maintained to provide for the payment of employees of boards who are employed in the education service.
+(2) A board must use the payroll service unless the Secretary directs otherwise.
+(3) A board required by subsection (2) to use the payroll service must—
+  (a) keep all records that are necessary to enable the board to use the service; and
+  (b) provide those records to the Secretary on request.
 
 ### 90 Application of Public Finance Act 1989
 [Repealed]
@@ -1921,16 +1932,19 @@ Notwithstanding sections 79 to 81,—
 ### 91 Transitional arrangements for payment of teacher salaries
 [Repealed]
 
-## Part 8A — Payment of teacher salaries
+## Part 8A — Payment of teacher salaries, limitations on staffing, and powers of Secretary to employ teachers and create positions
 
 ### 91A Interpretation
 (1) In this Part, unless the context otherwise requires,—
   - **application period** means the period commencing on the commencement of the Education Amendment Act 1992, and ending with 31 December 2018 (as from time to time extended under section 91M(1))
   - **board** means a board of trustees constituted under Part 9; and, in relation to a school, means the school's board
+  - **employment-based trainee teacher** means a person who is undertaking an initial teacher education programme that includes a period of employment by a board
+  - **employment-based trainee teaching position** means a position established by the Secretary under section 91O(1)
+  - **initial teacher education programme** means a training programme recognised by the Education Council as suitable for people who want to teach
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **payrolled school** means a school to which section 91C applies
-  - **regular teacher** means a teacher who is not a relieving teacher
+  - **regular teacher** means a teacher who is not a relieving teacher or an employment-based trainee teacher
   - **relieving teacher** , at any time, means a teacher employed at that time by a board to undertake some or all of the duties of a regular teacher who, at that time, is absent from work but remains employed (on salary) by the board
   - **school** means an institution that is—
     (a) a State school within the meaning of section 2; or
@@ -1960,12 +1974,12 @@ No board shall pay all or any part of the salary of a regular teacher in respect
   (a)
   (b) the Minister has consented to the payment, and the board complies with any conditions subject to which the consent was given.
 
-### 91G Relieving teachers
-(1) Except as provided in subsection (3), boards shall pay the salaries of relieving teachers employed at schools they administer.
-(2) The Governor-General may from time to time, by Order in Council, declare any circumstances to be circumstances in which the employment of a relieving teacher justifies the central payment of the teacher's salary, either—
+### 91G Payment of salaries of relieving teachers and employment-based trainee teachers
+(1) Except as provided in subsection (3), boards shall pay the salaries of relieving teachers and employment-based trainee teachers employed at schools they administer.
+(2) The Governor-General may from time to time, by Order in Council, declare any circumstances to be circumstances in which the employment of a relieving teacher or an employment-based trainee teacher justifies the central payment of the teacher's salary, either—
   (a) immediately; or
   (b) after employment for an initial period (specified in the order) of consecutive school days on which the school at which the teacher is employed is open for instruction.
-(3) The Secretary shall cause a relieving teacher's salary to be paid out of public money appropriated by Parliament for the purpose if (and only if), by virtue of an order under subsection (2), the employment to which the payment relates justifies the central payment of the salary.
+(3) The Secretary shall cause the salary of a relieving teacher or an employment-based trainee teacher to be paid out of public money appropriated by Parliament for the purpose if (and only if), by virtue of an order under subsection (2), the employment to which the payment relates justifies the central payment of the salary.
 
 **Limitations on staffing**
 
@@ -2000,10 +2014,16 @@ In determining for the purposes of section 79 the amount of any grant payable to
 (1) Subject to subsection (2), the Governor-General may from time to time, by Order in Council, extend the application period to a day specified in the order.
 (2) No order shall be made under subsection (1) after the application period (as from time to time extended) has expired.
 
+**Powers of Secretary to employ teachers and create positions**
+
 ### 91N Power of Secretary to employ teachers
 (1) The Secretary may, in his or her discretion, employ any person to work in a school as a teacher.
 (2) In applying any Order in Council under this Part limiting the number of teachers who may be employed at a school, teachers employed under this section are not to be counted.
 (3) The provisions of Parts 10 and 10A apply in relation to persons employed as teachers under this section as if the Secretary were a school board and with any other necessary modifications.
+
+### 91O Employment-based trainee teaching positions
+(1) On receipt of a request from the board of a school, the Secretary may, by written notice to the board, establish an employment-based trainee teaching position for the school.
+(2) Despite any provision to the contrary in this Act or in the State Sector Act 1988, the board of a school for which an employment-based trainee teaching position has been established may appoint only an employment-based trainee teacher to the position.
 
 ## Part 9 — School boards
 
@@ -2073,7 +2093,7 @@ In determining for the purposes of section 79 the amount of any grant payable to
 ### 94 Constitution of boards of State schools
 (1) Subject to sections 94A, 94B, 94C, and 95(1), the board of a State school shall comprise—
   (a) no more than 7 and no fewer than 3 parent representatives; and
-  (b) the principal of the school or, in the case of a combined board, the principals of the schools administered by the board; and
+  (b) the principal of the school or, in the case of a combined board, the principal or principals of the schools administered by the board; and
   (c) except where the principal is the only member of the school staff, 1 staff representative; and
   (d) a number (determined by the board) of trustees either—
     (i) co-opted by the board; or
@@ -2482,7 +2502,7 @@ Every notice under section 112(1) shall specify one of the boards it establishes
 (2)
 
 ### 116A Appointment of principal of combined board
-The powers conferred on a combined board by section 65 include the power to appoint 1 person to be the principal of 2 or more schools administered by the board.
+[Repealed]
 
 ### 117 Other provisions applying to boards
 The provisions set out in Schedule 6 apply to boards.
@@ -2868,7 +2888,7 @@ Nothing in section 139AAA or 139AAB limits or affects any power to search any lo
 (2) For the purposes of this section, the terms building, sitework, and territorial authority, have the meanings ascribed to them by the Building Act 2004.
 
 ### 139C Offence of insulting, abusing, or intimidating staff
-(1) Every person commits an offence, and is liable on conviction to a fine not exceeding $1,000, who intentionally insults, abuses, or intimidates a teacher or member of staff of a school—
+(1) Every person commits an offence, and is liable on conviction to a fine not exceeding $1,000, who intentionally insults, abuses, or intimidates a teacher or member of staff of a registered school—
   (a) within the presence or hearing of any student of the school; and
   (b) while on school premises, or in any other place where students of the school are assembled for school purposes.
 (2) However, no student of the school may be charged with an offence under subsection (1).
@@ -2952,7 +2972,7 @@ The purpose of sections 144C to 144E is to help ensure the safety of students wh
     (viii) providing for the suspension or cancellation of any licence:
     (ix) establishing a licensing body:
     (x) prescribing fees payable on application for, or renewal of, a licence, and for the return or refund of any fees in specified circumstances:
-  (f) establishing a complaints procedure relating to complaints by students, parents, or boards, about hostels:
+  (f) establishing a complaints procedure relating to complaints by students, parents, boards, or sponsors about hostels:
   (g) providing for any other matters necessary or expedient for giving effect to the purpose described in section 144B.
 (2) Regulations made under subsection (1) may relate to all hostels, individual hostels, hostels of specified classes, or parts of hostels.
 
@@ -3296,21 +3316,24 @@ The Minister may at any time appoint a person to—and in that case the Minister
   (d) considering any advice the person gives the Minister in that time.
 
 ### 158 Provision by one board of tuition for students enrolled at school administered by another
-(1) By agreement between the boards concerned,—
-  (a) students enrolled at one State school may receive tuition at or from another; and
-  (b) notwithstanding section 79, the board of the school at which the students are enrolled may pay the board of the school giving that tuition for that tuition.
+(1) By agreement between the boards or sponsors concerned, students enrolled at a specified school may receive tuition at or from another specified school.
+(1A) Despite section 79, the board or sponsor of the specified school at which the students are enrolled may pay the board or sponsor of the specified school giving the tuition for that tuition.
 (2) If satisfied that facilities at a State school were provided or constructed for the use of students enrolled at several State schools, the Minister may, by written notice to the school's board, require the board (in accordance with arrangements specified in the notice) to do either or both of the following:
   (a) allow the board of another State school to use the facilities for the tuition of students enrolled at the other school:
   (b) provide in or by means of those facilities tuition for students enrolled at another State school.
 (3) A notice under subsection (2) shall provide for the making of payments by the board of the school at which the students required to be provided with tuition are enrolled to the board of the school whose facilities are to be used; and payments shall, notwithstanding section 79, be made in accordance with the provisions of the notice.
+(3A) In subsections (1) and (1A), specified school means a State school or a partnership school kura hourua.
 (4)
 
 ## Part 12A — Partnership schools kura hourua
 
 ### 158A Interpretation
 In this Part, unless the context otherwise requires,—
-  - **body** means a body corporate, corporation sole, or limited partnership
+  - **body—**
+    (a) means a body corporate, corporation sole, or limited partnership; and
+    (b) includes an institution or a related entity (as defined in section 164A)
   - **composite partnership school kura hourua** means a partnership school kura hourua designated as a composite partnership school kura hourua by notice under section 158B
+  - **institution** has the meaning given by section 159(1)
   - **partnership school contract** has the meaning given by section 2(1)
   - **primary partnership school kura hourua** has the meaning given by section 2(1)
   - **secondary partnership school kura hourua** means a partnership school kura hourua designated as a secondary partnership school kura hourua by notice under section 158B
@@ -3332,7 +3355,7 @@ In this Part, unless the context otherwise requires,—
 (4) A notice under subsection (1) may provide for different class levels to be phased in over a specified period or specified periods.
 
 ### 158C Minister must appoint advisory group
-(1) The Minister must appoint an advisory group, consisting of 1 or more members, for the purpose of advising the Minister in relation to—
+(1) The Minister must appoint an advisory group, consisting of at least 5, but no more than 9, members, for the purpose of advising the Minister in relation to—
   (a) the approval of sponsors under section 158B; and
   (b) the educational performance of partnership schools kura hourua.
 (2) The members of the advisory group must be appointed by the Minister, on terms and conditions to be determined by the Minister, by written notice to each member.
@@ -3450,10 +3473,11 @@ A sponsor of a partnership school kura hourua must—
 ### 158N Enrolment in partnership schools kura hourua
 (1) If a partnership school kura hourua receives more applications than there are places at the school, the order of priority in which applicants are to be offered places at the school is as follows:
   (a) first priority must be given to any applicant who is the sibling of a current student of the school:
-  (b) second priority must be given to any student who is the sibling of a former student of the school:
+  (b) second priority must be given to any applicant who is the sibling of a former student of the school:
   (c) third priority must be given to all other applicants.
 (2) If there are more applicants in any of the priority groups than there are places available, selection within the priority group must be by ballot.
 (3) If 2 or more siblings apply for places at the school at the same time, the applications of those siblings must be dealt with as a single application for the purposes of the ballot.
+(3A) A student who is enrolled in a partnership school kura hourua whose sponsor is an institution is not, by reason only of the student’s enrolment in the partnership school kura hourua, also enrolled in the institution.
 (4) In this section, sibling has the meaning given by section 11F(3).
 
 ### 158O Equal rights to primary and secondary education in partnership schools kura hourua
@@ -3551,7 +3575,17 @@ Section 3(b) of the New Zealand Bill of Rights Act 1990 applies to the following
 When performing functions under this Act or a partnership school contract, a sponsor of a partnership school kura hourua is to be treated as a public sector agency for the purposes of sections 35 and 36 of the Privacy Act 1993.
 
 ### 158Y Official Information Act 1982 not to apply to partnership schools kura hourua
-The Official Information Act 1982 does not apply to a sponsor of a partnership school kura hourua when the sponsor is performing functions under this Act or a partnership school contract.
+(1) The Official Information Act 1982 does not apply to a sponsor of a partnership school kura hourua when the sponsor is performing functions under this Act or a partnership school contract.
+(2) However, if the sponsor is an institution, the Official Information Act 1982 applies unless the institution is performing its functions as a sponsor under this Act or a partnership school contract.
+
+### 158Z Application of State Sector Act 1988 to institutions sponsoring partnership schools kura hourua
+The State Sector Act 1988 does not apply to an institution that is a sponsor if the institution is performing its functions as a sponsor under this Act or a partnership school contract.
+
+### 158ZA Application of Ombudsmen Act 1975 to institutions sponsoring partnership schools kura hourua
+(1) This section applies to an institution that is a sponsor if the institution is performing its functions as a sponsor under this Act or a partnership school contract.
+(2) For the purposes of the Ombudsmen Act 1975, the institution—
+  (a) is a sponsor; and
+  (b) is not an institution (see Ombudsmen Act 1975, Schedule 1, Part 2).
 
 ## Part 13 — General provisions relating to tertiary education
 
@@ -3897,11 +3931,13 @@ The chief executive of the Commission—
 ### 159M Restrictions on design of funding mechanisms
 In determining a design for a funding mechanism under section 159L, the Minister may not—
   (a) identify a specified organisation or organisations to which funding is to be provided or denied under any funding mechanism; or
-  (b) specify conditions under section 159L(3)﻿(d) that set limits on the fees that organisations may charge domestic students until 2 months after the date on which the Minister has published a notice in the Gazette that—
-    (i) states that the Minister proposes to specify conditions of that kind; and
-    (ii) sets out the proposed conditions; and
-    (iii) invites submissions on the proposed conditions; and
-    (iv) specifies the date by which submissions must be received, which must be a date no later than 21 days after the date of the Gazette notice.
+  (b) specify conditions under section 159L(3)﻿(d) that set limits on the fees that organisations may charge domestic students until—
+    (i) the Minister has published a notice in the Gazette that—
+      (A) states that the Minister proposes to specify conditions of that kind; and
+      (B) sets out the proposed conditions; and
+      (C) invites submissions on the proposed conditions; and
+      (D) specifies the date by which submissions must be received, which must be a date no later than 21 days after the date of the Gazette notice; and
+    (ii) the date by which submissions must be received has passed.
 
 ### 159N Funding mechanisms consistent with quality assurance principle
 Every funding mechanism must be consistent with the principle that receiving public funds is dependent on an organisation meeting the quality assurance requirements in this Act.
@@ -4285,6 +4321,12 @@ The object of the provisions of this Act relating to institutions is to give the
 
 ## Part 15 — Administration of tertiary institutions
 
+### 164A Interpretation
+In this Part, unless the context otherwise requires,—
+  - **Crown entity group** has the meaning given by section 136 of the Crown Entities Act 2004
+  - **financial product** has the meaning given by section 7 of the Financial Markets Conduct Act 2013
+  - **related entity** , in relation to an institution, means a person or body that is a related party for the purpose of any financial reporting standard that applies to the institution under generally accepted accounting practice.
+
 **Councils**
 
 ### 165 Institutions to be governed by councils
@@ -4636,10 +4678,12 @@ No member of the council of an institution is personally liable for any act done
   (a) the rights, powers, and privileges of a natural person; and
   (b) the power to issue debentures; and
   (c) the power to grant floating charges on the institution's undertaking or property, or any of it; and
+  (ca) the power to invest in the financial products of a related entity; and
   (d) the power to do any other thing it is authorised to do by this Act, by any other enactment, or by any rule of law.
 (2) None of the rights, powers, or privileges of an institution shall be exercised except for the purpose of performing—
   (a) functions characteristic of institutions of the class to which the institution belongs; or
   (aa) in the case of an institution that incorporates another institution or other institutions under section 164(4), functions characteristic of institutions of the class to which the incorporating institution belongs and functions characteristic of institutions of the class or classes to which the incorporated institution or institutions belong; or
+  (ab) in the case of an institution that is approved to be a sponsor of a partnership school kura hourua, functions characteristic of a body that is a sponsor (including entering into, and performing functions in relation to, a partnership school contract); or
   (b) functions of a kind that, in the opinion of the institution's council,—
     (i) may conveniently, and without disadvantage to the performance of those characteristic functions, be performed in association with those functions; and
     (ii) are appropriate for institutions of the class to which the institution belongs or, in the case of an institution that incorporates another institution or other institutions under section 164(4), are appropriate for institutions of the classes represented in the institution.
@@ -4845,7 +4889,9 @@ The money of an institution shall be applied only—
 (1) Every institution is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
 (2) However, that Act applies to tertiary education institutions only to the extent that subsection (3) provides.
 (3) The provisions of that Act set out in Schedule 4 of that Act and Schedule 13A of this Act apply to tertiary education institutions and their Crown entity subsidiaries (within the meaning of that Act).
-(4) Section 65I(1) and (2)of the Public Finance Act 1989 applies, with all necessary modifications, to tertiary education institutions and, accordingly, every institution must invest in the same manner that Treasury invests money under that section.
+(4) Section 65I(1) and (2) of the Public Finance Act 1989—
+  (a) applies, with all necessary modifications, to tertiary education institutions and, accordingly, every institution must invest in the same manner as the Treasury invests money under that section; but
+  (b) does not apply in respect of any investment made by an institution in the financial products of a related entity.
 (5) No instruction issued by the Minister of Finance under section 80A of the Public Finance Act 1989 applies to an institution.
 (6) The financial year of an institution is an academic year.
 (7) The members of the council of an institution are the board for the purposes of the Crown Entities Act 2004.
@@ -5051,10 +5097,12 @@ The submission in respect of any land or interest in land of a claim under secti
 
 ### 220 Annual report
 (1) As soon as practicable after the end of each academic year of an institution ending after the commencement of this section the council of the institution shall give to the Minister a report on the operations of the institution during that year.
-(2) A council must include in every annual report of the council the financial statements prepared by the council, in accordance with section 154 of the Crown Entities Act 2004, in respect of the academic year to which the report relates, together with the audit report and the statement of responsibility under section 155 of that Act relating to those financial statements.
-(2AA) A council must comply with sections 154 to 157 of the Crown Entities Act 2004 except that, despite section 155(d) of that Act, the statement of responsibility must be signed by—
-  (a) the chairperson of the council and the chief executive of the institution; or
-  (b) if there is no chairperson, the chief executive of the institution and the chief financial officer.
+(2) A council must comply with sections 154 to 156B and 157A of the Crown Entities Act 2004 in respect of the report.
+(2AA) Despite subsection (2),—
+  (a) the statement of responsibility referred to in section 155 of the Crown Entities Act 2004 is not required to be signed in accordance with that section, but must instead be signed by—
+    (i) the chairperson of the council and the chief executive of the institution; or
+    (ii) if there is no chairperson, the chief executive of the institution and the chief financial officer:
+  (b) a council of an institution that is a parent Crown entity must comply with section 154 of the Crown Entities Act 2004 (even though the institution is a member of a Crown entity group to which section 156A(1) of that Act would otherwise apply).
 (2A) A council shall include in every annual report—
   (a) a summary of its equal employment opportunities programme for the year to which the report relates; and
   (b) an account of the extent to which the council was able, during the year to which the report relates, to meet the equal employment opportunities programme for that year; and
@@ -5067,6 +5115,16 @@ The submission in respect of any land or interest in land of a claim under secti
 (2B) Section 156 of the Crown Entities Act 2004 applies to institutions and, for this purpose, is to be read as referring to a statement of service performance under subsection (2A)﻿(f).
 (3) The Minister must present the report to the House of Representatives within 5 working days after receiving the report or, if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
 (4) The first report by the council of an institution that is a body to which section 162(1) applied shall extend to operations during the part of the academic year before the council became the governing body of the institution.
+(5) In this section, parent Crown entity has the meaning set out in section 8 of the Crown Entities Act 2004.
+
+### 220A Minister may require related entities to prepare statements or reports
+(1) If the Minister has reasonable grounds to believe that an institution may be at risk due to the institution’s investment in a related entity, the Minister may, by notice in writing, require the entity to prepare 1 or more statements or reports.
+(2) In considering whether an institution may be at risk, the Minister must apply the criteria (determined by the Secretary under section 195A) for assessing the level of risk to the operation and long-term viability of institutions.
+(3) Before issuing a notice under subsection (1), the Minister must consult the institution, or institutions, to which the entity is related.
+(4) The notice must specify—
+  (a) which statements and reports are required; and
+  (b) the financial years or other period (which may be until further notice) for which each statement or report is required.
+(5) In this section, statement or report has the meaning given by section 156A(4) of the Crown Entities Act 2004.
 
 ### 221 Annual report to be available for inspection
 The council of an institution shall ensure that copies of its annual report are available at the office of the council for inspection during ordinary office hours by any person without charge.
@@ -6483,7 +6541,7 @@ In this Part, unless the context otherwise requires,—
 (6) Any rules made under this section must be—
   (a) published on an Internet site maintained by or on behalf of the Authority; and
   (b) made available in printed form for purchase at a reasonable price on request by members of the public.
-(7) Any rules made under this section are regulations for the purposes of the Regulations (Disallowance) Act 1989, but are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+(7) Rules made under this section are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Functions and powers of Authority in relation to universities**
 
@@ -7424,10 +7482,14 @@ In this Part, unless the context otherwise requires,—
   - **early childhood education and care centre** has the meaning set out in section 310
   - **early childhood service** means an early childhood education and care centre, home-based education and care service, or hospital-based education and care service
   - **foreign student** has the same meaning as in section 2(1)
-  - **home-based education and care service** means the provision of education or care, for gain or reward, to fewer than 5 children under the age of 6 (in addition to any child enrolled at school who is the child of the person who provides education or care), in—
-    (a) their own home; or
-    (b) the home of the person providing the education or care; or
-    (c) any other home nominated by the parents of the children
+  - **home-based education and care service** —
+    (a) means the provision of education or care, for gain or reward, to children who are under the age of 5 years, or who are 5 years of age but not enrolled in school, in—
+      (i) the children’s own home; or
+      (ii) the home of the person providing the education or care; or
+      (iii) any other home nominated by the parents of the children; and
+    (b) includes the provision of education or care to any child of the person providing the service who is—
+      (i) under the age of 5 years; or
+      (ii) 5 years of age but not enrolled in school
   - **hospital-based education and care service** means the provision of education or care to 3 or more children under the age of 6 who are receiving hospital care within the meaning of section 4(1) of the Health and Disability Services (Safety) Act 2001
   - **licensed early childhood education and care centre** means an early childhood education and care centre in respect of which the service provider holds a current licence issued under regulations made under section 317
   - **licensed early childhood service** means an early childhood service in respect of which the service provider holds a current licence issued under regulations made under section 317
@@ -7588,6 +7650,13 @@ A service provider for a home-based education and care service or a hospital-bas
   (b) different kinds of licences; and
   (c) different minimum standards.
 (5) Criteria prescribed by the Minister for use in assessing compliance with minimum standards imposed by regulations made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 317A Requirements for licensed home-based education and care service
+(1) A licensed home-based education and care service may be provided to 1 or more children, up to a total of 4 in any 1 home.
+(2) While children are participating in the service, the total number of children present in the home in which the service is provided (including those receiving the service) must not be more than 6.
+(3) In this section,—
+  - **children** means children aged 13 years or younger (other than children of the educator who are enrolled in school)
+  - **educator** has the meaning given by regulation 3 of the Education (Early Childhood Services) Regulations 2008.
 
 ### 318 Playgroups may be certificated
 A service provider who operates a playgroup may, but need not, apply for a certificate issued under regulations made under section 319 in respect of the playgroup.
@@ -7954,26 +8023,19 @@ Every review officer who exercises any power under section 328G must, before exe
 ## Part 29 — Learning Media Limited
 
 ### 329 Interpretation
-In this Part, unless the context otherwise requires,—
-  - **company** means Learning Media Limited, a State enterprise under the State-Owned Enterprises Act 1986
-  - **Ministry** the means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
-  - **Secretary** the means the chief executive of the Ministry
-  - **shareholding Ministers** the means—
-    (a) the Minister; and
-    (b) the Minister of the Crown who, under any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Public Finance Act 1989.
+[Repealed]
 
 ### 330 Incorporation of company
 [Repealed]
 
 ### 331 Principal objective of company
-(1) The company's principal objective is to provide, pursuant to contracts with the Secretary, the basic materials and services necessary to support the national education guidelines (within the meaning of section 60).
-(2) Subsection (1) does not limit section 4 of the State-Owned Enterprises Act 1986.
+[Repealed]
 
 ### 332 Crown shareholding
 [Repealed]
 
 ### 333 Application of Government Superannuation Fund Act 1956
-Section 2A of the Government Superannuation Fund Act 1956 applies to the company.
+[Repealed]
 
 ### 334 Application of Public Finance Act 1989
 [Repealed]
@@ -7994,12 +8056,7 @@ Section 2A of the Government Superannuation Fund Act 1956 applies to the company
 [Repealed]
 
 ### 340 Existing rights, assets, liabilities, and debts
-(1) Subject to subsection (2), on the incorporation of the company,—
-  (a) all rights and assets of the Crown,—formerly exercisable or used, exclusively or substantially, by the learning media section of the Ministry shall become rights and assets of the company; and
-    (i) including rights under the Ministry's leases of premises then occupied by the learning media section of the Ministry; but
-    (ii) otherwise excluding interests in land,—
-  (b) all liabilities and debts of the Crown contracted in relation to, or in relation to activities exclusively or substantially carried on by, the learning media section of the Ministry shall become liabilities and debts of the company.
-(2) All patents, trademarks, designs, copyright, and other intellectual property of the Crown (whether enforceable under any enactment or by law) formerly exercisable or used, exclusively or substantially, by the learning media section of the Ministry, all rights exercisable by the Crown in respect of any such intellectual property, and all liabilities of the Crown contracted in relation to any such intellectual property, shall remain assets, rights, and liabilities of the Crown.
+[Repealed]
 
 ## Part 30 — National student numbers
 
@@ -8040,7 +8097,8 @@ In this Part,—
   (b) ensuring education providers and students receive appropriate resourcing:
   (c) statistical purposes:
   (d) research purposes:
-  (e) ensuring that students' educational records are accurately maintained.
+  (e) ensuring that students' educational records are accurately maintained:
+  (f) establishing and maintaining student identities to support students’ participation in online learning.
 (3) Every authorisation or requirement under this section must be made by notice in the Gazette, and—
   (a) takes effect on the date, specified in the notice, on or after the date of the notice; and
   (b) may be subject to conditions.
@@ -8080,6 +8138,7 @@ In this Part and Schedule 21, unless the context otherwise requires,—
     (a) registered schools; and
     (b) early childhood services; and
     (c) other educational institutions and services established or deemed to have been established, or provided, under this Act or the Education Act 1964
+  - **half-day** has the meaning given by section 60
   - **list of authorised people** means the list kept under section 371(1)
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **partnership school kura hourua** has the meaning given by section 2(1)
@@ -8978,8 +9037,11 @@ The powers of a board are not affected by—
 | Section 136 | Interpretation for Part 4 |
 | Section 137 | Application of subpart 2 of Part 4 |
 | Section 154, as amended by the Education Act 1989 section 220(2) to (2B), in Schedule 6 | Financial statements |
-| Section 155 | Statement of responsibility for financial statements |
-| Section 156 | Audit report |
+| Section 155, as modified by the Education Act 1989, section 220(2AA)﻿(a) | Statement of responsibility for financial statements |
+| Section 156, as modified by the Education Act 1989, section 220(2B) | Audit report |
+| Section 156A, as modified by the Education Act 1989, section 220(2AA)﻿(b) | Application of subpart 2 of Part 4 of the Crown Entities Act 2004 to Crown entity groups |
+| Section 156B | Minister of Finance may require additional reporting |
+| Section 157A | Other multi-parent subsidiaries |
 | Section 157 | Allows for variation of reporting requirements of multi-parent subsidiaries |
 | Section 220 Education Act 1989 | Inclusion of financial statements in annual report |
 | Section 220 Education Act 1989 | Laying before House of Representatives of financial statements |
