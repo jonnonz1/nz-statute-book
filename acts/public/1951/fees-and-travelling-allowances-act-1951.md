@@ -1,5 +1,5 @@
 # Fees and Travelling Allowances Act 1951
-_Consolidation as at 2013-02-01_
+_Consolidation as at 2016-10-29_
 
 > An Act to make provision with respect to the payment of remuneration and travelling allowances and expenses to members of statutory Boards and of travelling allowances and expenses to members of local authorities
 
@@ -73,7 +73,6 @@ Every payment of remuneration, travelling allowances, or travelling expenses mad
 | New Zealand Geographic Board | New Zealand Geographic Board Act 1946 (1946 No 3) |
 | New Zealand Patriotic Fund Board | Patriotic and Canteen Funds Act 1947 (1947 No 63) |
 | New Zealand Wool Board | Wool Industry Act 1944 (1944 No 27) |
-| Ngarimu VC and 28th (Maori) Battalion Memorial Fund Board | Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Act 1945 (1945 No 33) |
 | Ngāti Whātua Ōrākei Reserves Board (previously known as Ngati Whatua o Orakei Reserves Board) | Established by the Orakei Act 1991 and continued by the Ngāti Whātua Ōrākei Claims Settlement Act 2012. |
 | Price Tribunal | Control of Prices Act 1947 (1947 No 51) |
 | Valuers Registration Board | Valuers Act 1948 (1948 No 63) |
