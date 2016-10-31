@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-10-31_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -511,12 +511,8 @@ Communicating a work to the public is a restricted act in relation to every desc
 (2) In civil proceedings for infringement of copyright under subsection (1), in the case of a work that is a sound recording, film, or computer program to which subsection (6) applies,—
   (a) an object is presumed to be an infringing copy in the absence of evidence to the contrary; and
   (b) the court must not require any person to disclose any information concerning the sources of supply of the object if it appears to the court that it is unreasonable to do so.
-(3) A person also infringes copyright in a film to which subsection (6) applies if that person—
-  (a) imports a copy of the film into New Zealand within 5 months of the date that the film is first made available to the public; and
-  (b) knows or has reason to believe that the film is imported into New Zealand within 5 months of that date; and
-  (c) is not the licensee of the copyright in New Zealand; and
-  (d) imports the film into New Zealand other than for that person's private and domestic use.
-(4) For the purposes of subsection (3), a film is first made available to the public (as set out in section 23(2)) by any authorised act whether in New Zealand or elsewhere.
+(3)
+(4)
 (5) Subsections (3) and (4) are repealed on 31 October 2016.
 (6) This subsection applies to the following sound recordings, films, and computer programs:
   (a) a sound recording stored in a material form that is separate from any device or apparatus capable of playing sound recordings:
