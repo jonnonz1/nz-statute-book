@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-11-08_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -654,6 +654,59 @@ A person who ceases to be a Police employee under section 74 or 76 is entitled t
 ### 79 Restriction on resignation by constable
 If in the Governor-General’s opinion special circumstances require that no constable resign without permission, the Governor-General may, by warrant under the Governor-General’s hand, declare that no constable may resign that person’s employment with the Police except on the conditions set out in the warrant.
 
+## Part 4A — Cost recovery
+
+### 79A Purpose of this Part
+The purpose of this Part is to enable the Police to recover its costs in respect of the provision of certain policing services.
+
+### 79B Policing services that may be subject to cost recovery
+(1) The Minister may recommend a regulation under section 102A only if the Minister is satisfied that the policing service in question is a demand service.
+(2) For the purposes of this section, demand service—
+  (a) means a service that—
+    (i) constitutes policing; and
+    (ii) is provided only on the request of an individual or organisation; and
+    (iii) is provided to the individual or organisation requesting it and is of direct benefit to that individual or organisation (even though provision of the service may also be of indirect benefit to the public as a whole); but
+  (b) does not include—
+    (i) the response of the Police to calls for service relating to potential offending:
+    (ii) the conduct of criminal investigations:
+    (iii) the prosecution of criminal offences.
+(3) Without limiting the generality of subsection (2), an example of a demand service is the provision of vetting services by the Police.
+
+### 79C Criteria for cost recovery
+The Minister may recommend a regulation under section 102A(a) only if the Minister is satisfied that the fee or charge in question is consistent with the following criteria:
+  (a) subject to the provisions of section 79E, the fee or charge recovers no more than the actual and reasonable costs (including both direct and indirect costs) of the service to which the fee or charge relates; and
+  (b) the fee or charge for the service or class of services to which the fee or charge relates is generally obtained from the users or beneficiaries of the service or class of services at a level commensurate, as far as practicable, with their use of the service; and
+  (c) the costs of the service to which the fee or charge relates are efficiently incurred; that is, the service delivers the maximum benefit at the minimum cost; and
+  (d) the relationship between the costs of the service to which the fee or charge relates and the nature and duration of the service is clear.
+
+### 79D Consultation
+(1) The Minister may recommend a regulation under section 102A(a) only if the Minister is satisfied that the Commissioner has done everything reasonable on his or her part to consult the persons or organisations (or representatives of those organisations) that appear to the Commissioner to be affected or likely to be affected by the fee or charge.
+(2) The process for consultation must, to the extent practicable in the circumstances, include—
+  (a) the giving of appropriate notice of the intention to make the regulation and of the contents of the proposed regulation; and
+  (b) a reasonable opportunity for interested persons to make submissions; and
+  (c) the adequate and appropriate consideration of those submissions.
+(3) A failure to comply with this section does not affect the validity of any regulations made under section 102A.
+
+### 79E Methods of cost recovery
+(1) Regulations for the recovery of costs may provide for the following:
+  (a) fixed fees or charges:
+  (b) fees or charges based on a scale or formula or at a rate determined on an hourly or other unit basis:
+  (c) the recovery by way of a fee or charge of estimated actual and reasonable costs expended in or associated with the performance of a policing service:
+  (d) fees or charges based on costs incurred from charges by third parties:
+  (e) any combination of the above.
+(2) Without limiting the way in which a fee or charge may be set, a fee or charge may be set at a level or in a way that—
+  (a) is determined by calculations that involve an averaging of costs or potential costs:
+  (b) takes into account costs or potential costs of services that are not to be provided directly to the person who pays the fee or charge but that are an indirect or potential cost arising from the delivery of the service in question to a class of persons or all persons who use the service:
+  (c) takes into account indirect costs, which include the costs and potential costs of support, maintenance, and development associated with provision of the service.
+
+### 79F Payment of fee or charge
+(1) A fee or charge prescribed by regulations made under this Act is payable at the time prescribed in respect of a particular service, whether that time is before, during, or after completion of the relevant service.
+(2) All fees and charges prescribed by regulations made under this Act and received by the Police or any other government agency must be paid into a Departmental Bank Account.
+
+### 79G Exemptions, waivers, and refunds
+(1) Regulations made under this Act may provide for exemptions from, or waivers or refunds of, any fee or charge prescribed by regulations made under this Act, in whole or in part, in any class of case.
+(2) Regulations made under this Act may authorise the Commissioner, as he or she thinks fit in the circumstances specified in those regulations, to exempt, waive, or refund the whole or any part of a fee or charge prescribed by regulations made under this Act.
+
 ## Part 5 — Biometric information, international policing, and other miscellaneous provisions
 
 ### Subpart 1 — Biometric information relating to prospective Police employees, Police employees, and certain associates
@@ -903,6 +956,13 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (e) providing for matters relating to the governance and conduct of Police employees outside New Zealand, whether as part of an overseas operation within the meaning of section 86 or as an employee within the meaning of section 91:
   (f) providing for such other matters as are contemplated by or necessary for giving effect to the provisions of this Act and for its due administration.
 
+### 102A Regulations relating to cost recovery
+The Governor-General may, by Order in Council,—
+  (a) on the recommendation of the Minister made after due consultation in accordance with section 79D, make regulations prescribing fees or charges for specified demand services in accordance with the provisions of Part 4A:
+  (b) make regulations prescribing the time when a fee or charge prescribed under this Act becomes payable:
+  (c) make regulations providing for exemptions from, or waivers or refunds of, any fee or charge prescribed under this Act, in whole or in part, in any class of case:
+  (d) make regulations authorising the Commissioner, as he or she thinks fit in the circumstances specified in those regulations, to exempt, waive, or refund the whole or any part of a fee or charge prescribed by regulations made under this Act.
+
 **Transitional and savings provisions**
 
 ### 103 Disciplinary matters
@@ -1079,9 +1139,9 @@ Sections 127 and 128 amend the Summary Offences Act 1981.
 **Other enactments amended, repeals, and revocations**
 
 ### 130 Consequential amendments and repeals
-(1) The Acts specified in Schedule 4 are amended in the manner set out in that Schedule.
+(1) The Acts specified in Schedule 4 are amended in the manner set out in that schedule.
 (2) Section 46F(2)﻿(b)﻿(i) of the Burial and Cremation Act 1964 is amended by omitting member of the police and substituting constable.
-(3) The regulations specified in Schedule 5 are amended in the manner set out in that Schedule.
+(3) The regulations specified in Schedule 5 are amended in the manner set out in that schedule.
 (4) The enactments specified in Part 1 of Schedule 6 are repealed.
 (5) The enactments specified in Part 2 of Schedule 6 are revoked.
 
