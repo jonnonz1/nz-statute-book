@@ -1,5 +1,5 @@
 # Agricultural Compounds and Veterinary Medicines Act 1997
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2016-11-08_
 
 > An Act to reform and restate the law relating to agricultural compounds, and to repeal—athe Stock Foods Act 1946; andbthe Fertilisers Act 1960; andcthe Animal Remedies Act 1967; anddthe Fertilisers Act 1982
 
@@ -101,6 +101,9 @@ _Consolidation as at 2016-10-18_
   (c) any entity not to be a pest—
 (3) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+
 ### 3 Act to bind the Crown
 This Act binds the Crown.
 
@@ -117,10 +120,10 @@ The purpose of this Act is to—
 ### 4A Scheme of Act
 (1) This Act aims to achieve its purpose by providing that no agricultural compound may be used (including imported, manufactured, or sold) in New Zealand unless that use is authorised by or under this Act.
 (2) The 2 main mechanisms for authorising use of an agricultural compound are—
-  (a) an assessment of the compound, and its registration for use subject to specifically imposed conditions:
+  (a) an assessment of the compound, and its registration (as a trade name product) for use subject to specifically imposed conditions:
   (b) an exemption from the requirement to register the compound, so long as any specified conditions for exemption are met.
 (3) A range of conditions may be imposed to manage the risks associated with agricultural compounds. These conditions may relate to substances, products, systems, or people’s behaviour, and may be imposed—
-  (a) directly by the Director-General when an agricultural compound is registered or exempted from the requirement to be registered; or
+  (a) directly by the Director-General when an agricultural compound is registered (as a trade name product) or exempted from the requirement to be registered; or
   (b) generally, by regulations.
 (4) The Director-General may also issue notices that set out the technical detail of how compliance with conditions imposed by regulations can be achieved.
 (5) This Act, by its subject matter, has a relationship with other Acts such as the Animal Products Act 1999, the Food Act 2014, the Wine Act 2003, the Animal Welfare Act 1999, the Biosecurity Act 1993, the Medicines Act 1981, and the Hazardous Substances and New Organisms Act 1996. Generally, the outcomes for which this Act regulates are those set under the other related Acts. For example:
@@ -237,7 +240,7 @@ The importer of any goods may, for the purposes of section 6(3)﻿(a)﻿(i), mak
 (7) The provisions of this Act do not give the holder of an approval the sole right to import, manufacture, sell, or use the agricultural compound that is the subject of the approval.
 (8) If a person acting under the delegated authority of the Director-General refuses to grant or revokes an approval under this section, or amends the terms or conditions of an approval, the applicant for or holder of the approval may seek a review of that refusal, revocation, or amendment under section 77A.
 
-**Registration of agricultural compounds**
+**Registration of agricultural compounds as trade name products**
 
 ### 9 Application for registration
 (1) Any person may apply to the Director-General to register a trade name product unless that product contains an agricultural compound that is—
@@ -253,7 +256,7 @@ The importer of any goods may, for the purposes of section 6(3)﻿(a)﻿(i), mak
 (1) If, in the opinion of the Director-General, information additional to that provided under section 10 is required to assess the application, the Director-General may—
   (a) request the applicant to provide such additional information as the Director-General may specify in writing; and
   (b) with the permission of the applicant, request any other person to supply such additional information as the Director-General may specify in writing.
-(2) The Director-General may request any person to provide additional information other than information protected by sections 73, 109, and 121 for the purpose of verifying any information supplied to the Director-General, by any person for the purpose of assessing the application.
+(2) The Director-General may request any person to provide additional information other than information protected by section 74A for the purpose of verifying any information supplied to the Director-General, by any person for the purpose of assessing the application.
 
 ### 12 Director-General to withhold information
 (1) If, in the Director-General’s opinion, any information which has been supplied to the Director-General in respect of any application may be able to be withheld under section 9(2)﻿(b) of the Official Information Act 1982, that information must not be released to any person when an application is publicly notified.
@@ -272,7 +275,7 @@ The importer of any goods may, for the purposes of section 6(3)﻿(a)﻿(i), mak
   (a) the Minister; and
   (b) the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011; and
   (c) those departments listed in Schedule 1 of the State Sector Act 1988 that have notified the Director-General that they have an interest in applications made under this Act.
-(2) The Director-General must supply further information to any person notified under this section, if requested to do so by that person, unless that information is protected in accordance with sections 73, 109, or 121.
+(2) The Director-General must supply further information to any person notified under this section, if requested to do so by that person, unless that information is protected in accordance with section 74A.
 
 ### 14 Notification of application
 (1) The Director-General must, upon receipt of an application, publish a notice in the Gazette and give such further notice of the application as the Director-General thinks fit having regard to the nature of the application and the persons likely to have an interest in the application.
@@ -282,7 +285,7 @@ The importer of any goods may, for the purposes of section 6(3)﻿(a)﻿(i), mak
   (c) information on the proposed use of the trade name product or the variation proposed to a condition on a registered trade name product; and
   (d) a statement that any person may make a written submission; and
   (e) a closing date for receipt of the submissions by the Director-General, being no later than 30 working days after the date of public notification; and
-  (f) the place where the application and the accompanying information, other than information protected in accordance with sections 73, 109, or 121, may be viewed and the address for service of the Director-General and the applicant.
+  (f) the place where the application and the accompanying information, other than information protected in accordance with section 74A, may be viewed and the address for service of the Director-General and the applicant.
 
 ### 15 Waiver of notification
 (1) The Director-General may waive the requirement to notify an application under sections 13 and 14 if—
@@ -304,7 +307,7 @@ The importer of any goods may, for the purposes of section 6(3)﻿(a)﻿(i), mak
   (b) fix a date for consideration of the application being,—
     (i) where sections 15 and 26(2) apply to the application, not more than 25 working days after the receipt of the application; or
     (ii) where the application is publicly notified, not more than 25 working days after the closing date for submissions.
-(2) The Director-General must, unless the agricultural compound is also a hazardous substance or new organism, publicly notify his or her decision not later than 15 working days after the consideration of the application.
+(2) The Director-General must, unless the trade name product contains an agricultural compound that is also a hazardous substance or new organism, publicly notify his or her decision not later than 15 working days after the consideration of the application.
 (3) If the trade name product contains an agricultural compound that is also a hazardous substance or new organism and the time limits under subsections (1) and (2) have expired, the Director-General must publicly notify his or her decision not later than 5 working days after the decision under the Hazardous Substances and New Organisms Act 1996.
 (4) A person may apply to the Director-General to—
   (a) waive a requirement of this Act concerning—
@@ -340,7 +343,7 @@ The only risks and benefits relevant to a decision under section 21 are—
 
 ### 20 Evaluation of risks and benefits
 The Director-General must, when evaluating the risks and benefits under section 21, have regard to—
-  (a) all relevant scientific and technical information held by the Director-General other than information protected in accordance with section 73, section 109, or section 121; and
+  (a) all relevant scientific and technical information held by the Director-General other than information protected in accordance with section 74A; and
   (b) New Zealand’s international obligations, assurances, and reputation; and
   (c) any submissions received under section 17.
 
@@ -348,18 +351,20 @@ The Director-General must, when evaluating the risks and benefits under section 
 (1) The Director-General must consider any application made under section 9 and must—
   (a) identify the risks and benefits likely to result from the manufacture and use of the trade name product, and any known practicable alternative methods of managing those risks; and
   (b) evaluate the likely risks and benefits of each alternative method identified in accordance with paragraph (a); and
-  (c) decline the application if, in the opinion of the Director-General,—
+  (c) refuse to grant the application if, in the opinion of the Director-General,—
     (i) the risks likely to result from the use of that product cannot be sufficiently reduced by imposing conditions on the registration of the trade name product; or
     (ii) insufficient information is available to assess the risks likely to result from the use of the trade name product; or
-  (d) in every other case, register the trade name product without conditions, or with the conditions imposed in accordance with section 23 that the Director-General, after taking into account the costs of those conditions, considers will—
+  (d) in every other case, grant the application and register the trade name product without conditions, or with the conditions imposed in accordance with section 23 that the Director-General, after taking into account the costs of those conditions, considers will—
     (i) manage the risks from the use of the product; and
     (ii) impose the least cost on the public.
-(2) The decision to register a trade name product may provide—
+(2) The decision to grant an application may provide—
   (a) that the registration expires upon a fixed date; or
   (b) that the registration expires when the purpose of the registration has been achieved.
 (3) Subject to the provisions of Part 6, the Director-General must give the decision in writing, with reasons, to the applicant and to every person who made a submission.
-(4) The Director-General must not register a trade name product under this section without the consent of the Director-General of Health if that product is a prescription medicine within the meaning of section 3 of the Medicines Act 1981.
-(5) Where a trade name product contains an agricultural compound that is also a hazardous substance or new organism, the Director-General must not register that product under this section, unless an approval for that substance or organism has been issued under the Hazardous Substances and New Organisms Act 1996.
+(4) The Director-General must not grant an application without the consent of the Director-General of Health if the trade name product to which it relates is a prescription medicine within the meaning of section 3 of the Medicines Act 1981.
+(5) The Director-General must not grant an application if—
+  (a) the trade name product to which it relates contains an agricultural compound that is also a hazardous substance or new organism; and
+  (b) an approval for that substance or organism has not been issued under the Hazardous Substances and New Organisms Act 1996.
 
 ### 22 Term of registration
 (1) The registration of a trade name product remains in force until—
@@ -402,13 +407,13 @@ The Director-General must, when evaluating the risks and benefits under section 
 (4) The Director-General must not impose conditions under this section if he or she is satisfied that the relevant risks that the conditions would address are already adequately managed by conditions or controls imposed by or under any other Act.
 (5) The specificity of the conditions listed in paragraphs (a) to (l) of subsection (1) does not limit the conditions that may be imposed under paragraph (m) of that subsection.
 
-### 24 Register of agricultural compounds
+### 24 Register of trade name products
 (1) The Director-General must keep a register of all registered trade name products registered under section 21.
 (1A) The register may be kept in such manner as the Director-General thinks fit.
 (2) The register must specify—
   (a) 1 trade name for the trade name product; and
   (b) the name and principal business address of each registrant and his or her New Zealand agent; and
-  (c) those particulars of the registered trade name product that are consistent with section 73; and
+  (c) those particulars of the registered trade name product that are consistent with section 74A; and
   (d) the application number and the date on which the application was granted; and
   (e)
   (f) the conditions placed on the registration under section 23; and
@@ -431,13 +436,13 @@ The Director-General must, when evaluating the risks and benefits under section 
   (b) each application for registration.
 
 ### 26 Application for provisional registration
-(1) Any person may apply to the Director-General to provisionally register a trade name product of an agricultural compound.
+(1) Any person may apply to the Director-General to provisionally register a trade name product.
 (2) An application made under subsection (1) must be notified in accordance with section 13 but is not notified in accordance with section 14.
 (3) Sections 10, 11, 12, 15, and 19(a), (ab), (b), (c), and (d), with the necessary modifications, apply to any application for provisional registration under subsection (1).
 
 ### 27 Decision on application for provisional registration
 (1) The Director-General must consider any application made under section 26 and must identify, in accordance with section 19(a), (ab), (b), (c), and (d), the risks likely to be caused by provisionally registering the trade name product.
-(2) The Director-General must provisionally register the trade name product if—
+(2) The Director-General must grant the application and provisionally register the trade name product if—
   (a) the provisional registration will enable the product’s use—
     (i) for the purpose of obtaining further information on it in order to determine whether it should be registered under section 21; or
     (ii) in research that does not have as a purpose the registration of the product in New Zealand; and
@@ -448,7 +453,9 @@ The Director-General must, when evaluating the risks and benefits under section 
 (4) The Director-General may extend the time of provisional registration if, in his or her opinion, an extension is necessary to achieve the purpose of the registration.
 (5) Every trade name product provisionally registered under this section must be registered with the conditions necessary to achieve the purposes of the provisional registration.
 (6) The Director-General may cancel the provisional registration if, in the Director-General’s opinion, the risks are not being adequately managed by the conditions imposed.
-(7) Where a trade name product contains an agricultural compound that is also a hazardous substance or new organism, the Director-General must not provisionally register that trade name product under this section unless an approval for that substance or organism has been issued under the Hazardous Substances and New Organisms Act 1996.
+(7) The Director-General must not grant an application if—
+  (a) the trade name product to which it relates contains an agricultural compound that is also a hazardous substance or new organism; and
+  (b) an approval for that substance or organism has not been issued under the Hazardous Substances and New Organisms Act 1996.
 
 ### 28 Director-General may approve operating plans
 (1) This section applies where—
@@ -465,12 +472,16 @@ The Director-General must, when evaluating the risks and benefits under section 
   (a) significant new information on a matter related to the use of the registered trade name product or group of trade name products has become available; or
   (b) there has been a significant change in the use of any or all of the registered trade name products.
 (2) A decision under subsection (1) must be notified to the registrant or registrants and notified in accordance with sections 13 and 14, and those sections apply with any necessary modifications.
-(3) A decision under subsection (1) is deemed to be a new application for the trade name product and the provisions of sections 11, 12, and 17 to 25 apply to the application with any necessary modifications.
+(3) A decision under subsection (1) is deemed to be a new application for the trade name product, and—
+  (a) sections 11, 12, and 17 to 25 apply to the application with any necessary modifications; and
+  (b) Part 6 applies to the application as if it were a non-innovative TNP application, and with any other necessary modifications.
 
 ### 30 Reassessment of provisional registration
 (1) The Director-General may, after consultation with the registrant, decide to reassess a trade name product registered under section 27 or a group of trade name products registered under section 27 with the same active ingredient and similar formulations if, in the opinion of the Director-General, significant new information on the provisionally registered trade name product has become available.
 (2) A decision under subsection (1) must be notified to the registrant.
-(3) A decision under subsection (1) is deemed to be a new application for provisional registration for the trade name product and the provisions of sections 26 and 27 apply to the application with any necessary modifications.
+(3) A decision under subsection (1) is deemed to be a new application for provisional registration for the trade name product, and—
+  (a) sections 26 and 27 apply to the application with any necessary modifications; and
+  (b) Part 6 applies to the application as if it were a non-innovative TNP application, and with any other necessary modifications.
 
 ### 30A Suspension of registration
 (1) The Director-General may at any time suspend registration of a trade name product registered under section 21 or section 27 for a period of up to 3 months if the Director-General has reasonable grounds to believe that any condition imposed upon registration is not being complied with.
@@ -1203,8 +1214,8 @@ Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applica
 (2) Every person who commits an offence against any provision of subsections (2) and (3) of section 55 is liable on conviction,—
   (a) in the case of a natural person, to a fine not exceeding $15,000:
   (b) in the case of a corporation, to a fine not exceeding $75,000.
-(3) Subject to subsection (4), every person who commits an offence against subsection (4) of section 55 is liable on conviction to a fine not exceeding $5,000.
-(4) Where a fine is prescribed by any regulations continued in force by section 110 or section 122 as the penalty that may be imposed for any offence, the fine so prescribed and not the fine prescribed by subsection (3) is the penalty that may be imposed for the offence.
+(3) Every person who commits an offence against subsection (4) of section 55 is liable on conviction to a fine not exceeding $5,000.
+(4)
 (5) Where any person is convicted of an offence against this Act, the court may, instead of or in addition to any fine, order the forfeiture of any trade name product, any agricultural compound, or any substance, mixture of substances, or biological compound used or intended for use as an agricultural compound, in the possession of that person.
 
 ### 57 Revocation of registration or approval
@@ -1315,55 +1326,114 @@ If an ACVM officer has issued a prohibition notice under section 65, any ACVM of
 (3) Where any agricultural compound or trade name product is seized under section 70(1), and no person is charged with an offence under this Act or applies to have the agricultural compound or trade name product returned, the agricultural compound or trade name product must be disposed of as directed by the Director-General.
 (4) If any person is convicted of an offence to which the seized property relates, the court may, if it thinks fit, order that the item be disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the Commissioner of Police or the Director-General.
 
-## Part 6 — Protection of certain confidential information about innovative agricultural compounds
+## Part 6 — Protection of confidential information about trade name products
+
+**Interpretation**
 
 ### 72 Interpretation
-In this Part, unless the context otherwise requires,—
-  - **application** means an application for registration of an agricultural compound under section 9 or for provisional registration of an agricultural compound under section 26
-  - **confidential information** includes—
-    (a) trade secrets; and
-    (b) information that has commercial value that would be, or would be likely to be, diminished by disclosure
-  - **confidential supporting information** means confidential information given—
-    (a) in, or in relation to, an innovative agricultural compound application; and
-    (b) about the agricultural compound that is or was, as the case may be, the subject of that application
-  - **ingredient** includes a chemical or biological entity
-  - **innovative agricultural compound application** means an application that refers to an active ingredient—
-    (a) that is an active ingredient of the trade name product to which the application relates; and
-    (b) that has not, before that application is received by the Director-General, been referred to in any other application (except an application by the applicant for provisional registration under section 26 or an application by the applicant for an experimental use permit under the Pesticides Act 1979) as an active ingredient of—
-      (i) a trade name product; or
-      (ii) a pesticide under the Pesticides Act 1979; or
-      (iii) an animal remedy under the Animal Remedies Act 1967
-  - **protected period** means, in relation to confidential supporting information relating to an innovative agricultural compound application, a period commencing on the date that information is received by the Director-General and ending,—
-    (a) where—on the date 5 years after the date of that registration or refusal; or
-      (i) the Director-General has either registered the agricultural compound under section 21, or refused to grant such registration, in relation to the agricultural compound that is the subject of the innovative agricultural compound application; and
-      (ii) the date of that issue or refusal is not more than 5 years after the Director-General received an application in relation to that agricultural compound,—
-    (b) in any other case, on the date 5 years after the innovative agricultural compound application to which that information relates is or was, as the case may be, received by the Director-General
-  - **WTO country** means a country that is a party to the Agreement establishing the World Trade Organisation adopted at Marrakesh on the 15th day of April 1994.
+(1) In this Part, unless the context otherwise requires,—
+  - **application to authorise a new use or method of use** means an application under section 9(2) to vary 1 or more conditions on a registered trade name product that relate to—
+    (a) a purpose of use described in paragraph (a) or (b)﻿(i) or (ii) of the definition of agricultural compound in section 2(1); or
+    (b) 1 or more of the following:
+      (i) the rate at which the product must be applied:
+      (ii) when the product must or must not be applied:
+      (iii) how the product must be applied:
+      (iv) the withholding period for the product
+  - **confidential information** has the meaning given to it in section 73
+  - **innovative TNP application** means an application under section 9(1) or 26 to register or provisionally register a trade name product that includes an active ingredient to which the following apply:
+    (a) the ingredient is referred to in the application as an active ingredient of the trade name product; and
+    (b) at the time the Director-General receives the application, the ingredient has not previously been an active ingredient of—
+      (i) a trade name product registered under section 21; or
+      (ii) a pesticide that was registered under the Pesticides Act 1979; or
+      (iii) an animal remedy the manufacture or importation of which was licensed under the Animal Remedies Act 1967 (otherwise than by a provisional licence)
+  - **innovative trade name product** means a trade name product registered on the granting of an innovative TNP application
+  - **non-innovative TNP application** means an application under section 9(1) or 26 to register or provisionally register a trade name product (other than an innovative TNP application)
+  - **non-innovative trade name product** means a trade name product registered on the granting of a non-innovative TNP application
+  - **protected period** has the meaning given to it in section 74.
+(2) The grant of an experimental use permit for a pesticide under section 25 of the Pesticides Act 1979 does not constitute the registration of that pesticide for the purposes of paragraph (b)﻿(ii) of the definition of innovative TNP application.
 
-### 73 Protection of confidential supporting information about innovative agricultural compounds
-Where the Director-General receives an innovative agricultural compound application and confidential supporting information, the Director-General, during the protected period in relation to that confidential supporting information,—
-  (a) must take reasonable steps to ensure that that confidential supporting information is kept confidential to the Director-General; and
-  (b) must not use that confidential supporting information for the purposes of determining whether to grant any other application.
+### 73 Meaning of confidential information
+(1) In this Part, confidential information means information received by the Director-General that—
+  (a) is provided in support of an innovative TNP application, a non-innovative TNP application, or an application to authorise a new use or method of use; and
+  (b) is confidential information about the trade name product that is the subject of that application.
+(2) For the purposes of subsection (1)﻿(b), confidential information includes—
+  (a) trade secrets; and
+  (b) information with a commercial value that would, or would be likely to, be diminished by disclosure of the information.
 
-### 74 Circumstances where protection under section 73 does not apply
-(1) Notwithstanding section 73, the Director-General may, during the protected period in relation to confidential supporting information,—
-  (a) disclose that confidential supporting information, or use that confidential supporting information for the purposes of determining whether to grant any application other than the application to which it relates or related, as the case may be,—
-    (i) with the consent of the applicant who made the application to which the confidential supporting information relates or related; or
-    (ii) if that disclosure or use is, in the opinion of the Director-General, necessary to protect the health or safety of members of the public; or
-  (b) disclose that confidential supporting information to—if, in the opinion of the Director-General, the government department, statutory body, or advisor, as the case may be, will take reasonable steps to ensure that information is kept confidential; or
-    (i) a government department or statutory body for the purposes of that government department or statutory body; or
-    (ii) an advisor for the purposes of obtaining advice about the agricultural compound to which the information relates,—
-  (c) disclose that confidential supporting information to—if in the opinion of the Director-General, those persons, agencies, or organisations, as the case may be, will take reasonable steps to ensure that information is kept confidential.
-    (i) the World Health Organisation:
-    (ii) the Office International des Epizooties:
-    (iii) the Food and Agriculture Organisation:
-    (iv) a regulatory agency of a WTO country:
-    (v) a person or organisation, or a person or organisation within a class or classes of persons or organisations specified in regulations,—
-(2) The power to grant consent under subparagraph (i) of subsection (1)﻿(a) may be exercised by a person other than the applicant referred to in that subparagraph if—
-  (a) that applicant—
-    (i) has notified the Director-General in writing that that other person may grant that consent; and
-    (ii) has not notified the Director-General in writing that that person’s authority to grant that consent has been withdrawn; or
-  (b) that applicant’s rights in respect of the relevant confidential supporting information have been transferred to that person and the applicant or that person has notified the Director-General in writing of the transfer.
+### 74 Meaning of protected period
+In this Part, protected period means,—
+  (a) for confidential information supporting an innovative TNP application made under section 9(1), the period specified in section 74B:
+  (b) for confidential information supporting an innovative TNP application made under section 26, the period specified in section 74C:
+  (c) for confidential information supporting an application to authorise a new use or method of use for an innovative trade name product, the period specified in section 74D:
+  (d) for confidential information supporting a non-innovative TNP application made under section 9(1), the period specified in section 74E:
+  (e) for confidential information supporting a non-innovative TNP application made under section 26, the period specified in section 74F:
+  (f) for confidential information supporting an application to authorise a new use or method of use for a non-innovative trade name product, the period specified in section 74G.
+
+**Director-General must protect confidential information during protected period**
+
+### 74A Director-General must protect confidential information during protected period
+(1) The Director-General must, during the protected period that applies to confidential information,—
+  (a) take reasonable steps to ensure that the confidential information is kept confidential to the Director-General; and
+  (b) not use the confidential information in determining whether to grant any other innovative TNP application, non-innovative TNP application, or application to authorise a new use or method of use.
+(2) This section is subject to section 74H.
+
+**Protected periods for information about innovative trade name products**
+
+### 74B Innovative TNP application for full registration
+(1) The protected period for confidential information supporting an innovative TNP application under section 9(1) starts when the Director-General receives the application.
+(2) The protected period ends on the date that is 10 years after the date on which the Director-General grants or refuses to grant the application.
+
+### 74C Innovative TNP application for provisional registration
+(1) The protected period for confidential information supporting an innovative TNP application under section 26 starts when the Director-General receives the application.
+(2) The protected period ends on the date that is 5 years after the date on which the Director-General grants or refuses to grant the application, unless subsection (3) applies.
+(3) The protected period continues until the end of the protected period for confidential information supporting an innovative TNP application subsequently made under section 9(1) if—
+  (a) the application under section 9(1) is for the same trade name product; and
+  (b) the confidential information given in support of the application under section 26 is also given in support of the application under section 9(1); and
+  (c) the confidential information supporting the application under section 9(1) is received by the Director-General before the period specified in subsection (2) expires.
+
+### 74D Application to authorise new use or method of use
+(1) The protected period for confidential information supporting an application to authorise a new use or method of use for an innovative trade name product starts when the Director-General receives the application.
+(2) The protected period ends on the later of—
+  (a) the end date of the protected period for confidential information supporting the innovative TNP application that resulted in the registration of the product; and
+  (b) the date that is 5 years after the date on which the Director-General grants or refuses to grant the application to authorise a new use or method of use.
+
+**Protected periods for information about non-innovative trade name products**
+
+### 74E Non-innovative TNP application for full registration
+(1) The protected period for confidential information supporting a non-innovative TNP application under section 9(1) starts when the Director-General receives the application.
+(2) The protected period ends on the date that is 5 years after the date on which the Director-General grants or refuses to grant the application.
+
+### 74F Non-innovative TNP application for provisional registration
+(1) The protected period for confidential information supporting a non-innovative TNP application under section 26 starts when the Director-General receives the application.
+(2) The protected period ends on the date that is 5 years after the date on which the Director-General grants or refuses to grant the application, unless subsection (3) applies.
+(3) The protected period continues until the end of the protected period for confidential information supporting a non-innovative TNP application subsequently made under section 9(1) if—
+  (a) the application under section 9(1) is for the same trade name product; and
+  (b) the confidential information given in support of the application under section 26 is also given in support of the application under section 9(1); and
+  (c) the confidential information supporting the application under section 9(1) is received by the Director-General before the period specified in subsection (2) expires.
+
+### 74G Application to authorise new use or method of use
+(1) The protected period for confidential information supporting an application to authorise a new use or method of use for a non-innovative trade name product starts when the Director-General receives the application.
+(2) The protected period ends on the date that is 5 years after the date on which the Director-General grants or refuses to grant the application.
+
+**Director-General may disclose or use confidential information**
+
+### 74H Director-General may disclose or use confidential information
+(1) In this section, application means an innovative TNP application, a non-innovative TNP application, or an application to authorise a new use or method of use.
+(2) Despite section 74A, the Director-General may, during a protected period, disclose or use confidential information in accordance with this section.
+(3) The Director-General may disclose the information, or use it in determining whether to grant an application other than the application to which the information relates or related, if—
+  (a) the applicant who made the application to which the information relates or related has consented in writing to the disclosure or use of the information; or
+  (b) the Director-General forms the opinion that the disclosure or use is necessary to protect the health or safety of members of the public.
+(4) The Director-General may disclose the confidential information to 1 or more of the following persons or organisations if the Director-General is of the opinion that they will take reasonable steps to ensure that they will not disclose the information to any other person:
+  (a) a government department or statutory body for the purposes of that government department or statutory body:
+  (b) an adviser for the purposes of obtaining advice about the agricultural compound to which the information relates:
+  (c) the World Health Organization:
+  (d) the Office International des Epizooties:
+  (e) the Food and Agriculture Organization:
+  (f) a regulatory agency of a country that is a party to the Agreement Establishing the World Trade Organization adopted at Marrakesh on 15 April 1994 (commonly known as a WTO country):
+  (g) a prescribed person or organisation or a person or an organisation within a prescribed class or prescribed classes of persons or organisations.
+(5) For the purposes of subsection (3)﻿(a), a person other than the applicant may grant consent to the disclosure or use of the confidential information if—
+  (a) the applicant has notified the Director-General in writing that the person may grant consent (and the applicant has not withdrawn that permission); or
+  (b) the applicant’s rights in respect of the information have been transferred to the person and the applicant or the person has notified the Director-General in writing of the transfer.
 
 ## Part 7 — Miscellaneous provisions
 
@@ -1398,7 +1468,7 @@ Where the Director-General receives an innovative agricultural compound applicat
   (he) prescribing fees, charges, or levies for the purposes of this Act in accordance with the requirements for regulations made under section 81D or 81E, including—
     (i) fees or charges for applications, renewals, or related matters under this Act (for example, for applications for registration or certificates of compliance under Part 2 or for applications for recognition under Part 3A):
     (ii) fees, charges, or levies that are payable on an ongoing basis by a person given a particular status under this Act (for example, for ongoing recognition under Part 3A):
-  (i) prescribing persons, organisations, or classes of persons or organisations for the purposes of section 74(1)﻿(c):
+  (i) prescribing persons, organisations, or classes of persons or organisations for the purposes of section 74H(4)﻿(g):
   (j) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (1A) Regulations made under this section—
   (a) may apply to all agricultural compounds or substances, any class or description of agricultural compounds or substances, or any particular agricultural compound or substance:
@@ -1486,7 +1556,7 @@ Where any mistake exists in the register or in any other document made or issued
 **Cost recovery**
 
 ### 81 Principles of cost recovery
-(1) The Minister and the Director-General must take all reasonable steps to ensure that the direct and indirect costs of administering this Act that are not provided for by money appropriated by Parliament for the purpose are recovered under this section and sections 81A to 83 (referred to in this section and those sections as the cost recovery sections), whether by way of fees, levies, or otherwise.
+(1) The Minister and the Director-General must take all reasonable steps to ensure that the direct and indirect costs of administering this Act that are not provided for by money appropriated by Parliament for the purpose are recovered under this section and sections 81A to 81L (referred to in this section and those sections as the cost recovery sections), whether by way of fees, levies, or otherwise.
 (2) In determining the most appropriate method of cost recovery under section 81A, and its level, in any particular case or class of cases of agricultural compound, business, person, or other matter, the Minister and Director-General must have regard, as far as is reasonably practicable, to the following criteria:
   (a) equity, in that funding for a particular function, power, or service, or a particular class of function, powers, or services, should generally, and to the extent practicable, be sourced from the users or beneficiaries of the relevant function, power, or service at a level commensurate with their use or benefit from the function, power, or service:
   (b) efficiency, in that costs should generally be allocated and recovered in order to ensure that maximum benefits are delivered at minimum cost:
@@ -1735,7 +1805,35 @@ The enactments specified in Schedule 2 are amended in the manner indicated in th
 ### 122 Regulations to continue to apply
 [Repealed]
 
-## Schedule 1 — Search warrant
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Agricultural Compounds and Veterinary Medicines Amendment Act 2016
+
+### 1 Interpretation
+(1) In this Part,—
+  - **commencement** means the commencement of the Agricultural Compounds and Veterinary Medicines Amendment Act 2016
+  - **innovative agricultural compound application** has the meaning given to it in section 72 as in force immediately before commencement.
+(2) A term or expression used and not defined in this Part, but defined in section 72 as in force on commencement, has the meaning given to it in that section.
+
+### 2 Application of amendments
+(1) The amendments made by the Agricultural Compounds and Veterinary Medicines Amendment Act 2016 apply to the following applications or decisions only if they are made on or after commencement:
+  (a) an innovative TNP application:
+  (b) a non-innovative TNP application:
+  (c) an application to authorise a new use or method of use:
+  (d) a decision under section 29 or 30 to reassess a registered trade name product.
+(2) Part 6 as in force immediately before commencement continues to apply to an innovative agricultural compound application made before commencement.
+
+### 3 Certain applications to authorise new uses or methods of use
+Innovative trade name products
+(1) Subclause (2) applies to an application to authorise a new use or method of use made—
+  (a) on or after commencement; but
+  (b) in respect of a trade name product registered on the granting of an innovative agricultural compound application made before commencement.
+(2) Part 6 as in force on commencement applies to the application as if it were made in respect of an innovative trade name product.
+Non-innovative trade name products
+(3) Subclause (4) applies to an application to authorise a new use or method of use made—
+  (a) on or after commencement; but
+  (b) in respect of a trade name product registered on the granting of an application (other than an innovative agricultural compound application) made under section 9(1) before commencement.
+(4) Part 6 as in force on commencement applies to the application as if it were made in respect of a non-innovative trade name product.
 
 ## Schedule 2 — Enactments amended
 
