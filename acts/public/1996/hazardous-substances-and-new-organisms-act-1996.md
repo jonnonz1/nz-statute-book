@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2016-11-08_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -128,6 +128,10 @@ _Consolidation as at 2016-10-18_
     (a) an essential or constituent part of those goods:
     (b) imported in or on the goods with the intention of concealing the presence of the new organism:
     (c) a genetically modified organism
+  - **innovative medicine application** has the meaning given to it in section 23A of the Medicines Act 1981
+  - **innovative TNP application** —
+    (a) has the meaning given to it in section 72(1) of the Agricultural Compounds and Veterinary Medicines Act 1997; and
+    (b) includes an innovative agricultural compound application (as defined in section 72 of that Act as in force immediately before the commencement of the Agricultural Compounds and Veterinary Medicines Amendment Act 2016)
   - **inseparable organism** means any organism which is unable to be separated from any other organism
   - **intrinsic values** , in relation to ecosystems, means those aspects of ecosystems and their constituent parts which have value in their own right, including—
     (a) their biological and genetic diversity; and
@@ -490,11 +494,9 @@ The Authority may from time to time request any person who in the Authority's op
 (3) If an organism has a conditional release approval, no further approvals are required for the conditional release of the organism on the same conditions.
 (4) If an organism has an approval for importation into containment, no further approvals are required for the importation into containment of the organism.
 (5) The restriction on the importation of a new organism does not apply to biological material of the organism that cannot, without human intervention, be used to reproduce the organism.
-(6) No person may do any of the things specified in subsection (1)﻿(a) or (b) in relation to any hazardous substance or new organism that is the subject of an innovative agricultural compound application or an innovative medicine application unless the person has applied for and been granted an approval to do that thing.
-(7) Subsection (6) ceases to apply in respect of a hazardous substance or new organism on the date that section 55(3) to (4B) ceases to apply either to the Authority or to any information held by the Authority in relation to the hazardous substance or new organism concerned.
-(8) In this section,—
-  - **innovative agricultural compound application** has the same meaning as in section 72 of the Agricultural Compounds and Veterinary Medicines Act 1997
-  - **innovative medicine application** has the same meaning as in section 23A of the Medicines Act 1981.
+(6) No person may do any of the things specified in subsection (1)﻿(a) or (b) in relation to any hazardous substance or new organism that is or has been the subject of an innovative TNP application or an innovative medicine application unless the person has applied for and been granted an approval to do that thing.
+(7) Subsection (6) ceases to apply in respect of a hazardous substance or new organism on the date that section 55(3) or (4) ceases to apply to the Authority.
+(8)
 
 ### 25A Prohibition of import, manufacture, or use of persistent organic pollutants
 (1) No persistent organic pollutant is to be imported or manufactured, and no approval is to be issued to import or manufacture a persistent organic pollutant, except as provided by—
@@ -1218,25 +1220,21 @@ On the expiry of an approval under section 49F that relates to a hazardous subst
   (b) the information is likely to relate to an application for approval; and
   (c) the relevant application has not yet been lodged with the Authority,—
 (2) Where any information supplied under subsection (1) is held by the Authority on behalf of any person, that information shall be returned upon request.
-(3) Where—the provisions of sections 23A to 23C of the Medicines Act 1981, with the necessary modifications, shall apply to that information as if the information were confidential supporting information as defined in section 23A of that Act.
-  (a) any information is held by the Authority relating to any application made under this Act in respect of a hazardous substance or new organism; and
-  (b) the substance or organism that is the subject of the application is also the subject of an innovative medicine application as defined in section 23A of the Medicines Act 1981; and
-  (c) that information includes trade secrets or information that has commercial value that would be, or would be likely to be, diminished by disclosure,—
-(4) The provisions of sections 23A to 23C of the Medicines Act 1981, with the necessary modifications, shall also apply to the Authority in respect of the information referred to in subsection (3) as if the Authority were the Minister of Health, and as if references in those sections to applications were references to applications in respect of hazardous substances or new organisms; but—
-  (a) the protected period (as defined in section 23A of the Medicines Act 1981) shall be the same period for which the information is protected under the Medicines Act 1981; and
-  (b) the Authority may disclose the information to any prescribed person or organisation or prescribed class of persons or organisations; and
-  (c) the Authority shall provide a summary of the effects of any substance or organism in respect of which subsection (3) of this section applies where an application for approval is required to be publicly notified in accordance with section 53.
-(4A) Where—the provisions of Part 6 of the Agricultural Compounds and Veterinary Medicines Act 1997, with the necessary modifications, apply to that information as if the information were confidential supporting information as defined in that Part of that Act.
-  (a) any information is held by the Authority relating to any application made under this Act in respect of a hazardous substance or new organism; and
-  (b) the substance or organism that is the subject of the application is also the subject of an innovative agricultural compound application as defined in Part 6 of the Agricultural Compounds and Veterinary Medicines Act 1997; and
-  (c) that information includes trade secrets or information that has commercial value that would be, or would be likely to be, diminished by disclosure,—
-(4B) The provisions of Part 6 of the Agricultural Compounds and Veterinary Medicines Act 1997, with the necessary modifications, apply to the Authority in respect of the information referred to in subsection (4A) as if the Authority were the Director-General, and as if references in those sections to applications were references to applications in respect of hazardous substances or new organisms; but—
-  (a) the protected period (as defined in Part 6 of the Agricultural Compounds and Veterinary Medicines Act 1997) is the same period for which the information is protected under the Agricultural Compounds and Veterinary Medicines Act 1997; and
-  (b) the Authority may disclose the information to any prescribed person or organisation or prescribed class of persons or organisations; and
-  (c) the Authority must provide a summary of the effects of any substance or organism in respect of which subsection (4A) applies where an application for approval is required to be publicly notified in accordance with section 53.
-(5)
-(6)
-(7) The Governor-General may, from time to time, by Order in Council, make regulations prescribing persons or organisations or classes of persons or organisations for the purposes of subsections (4)﻿(b) and (4B)﻿(b).
+(3) Sections 23A to 23C of the Medicines Act 1981 apply (with the necessary modifications) to the Authority (as if it were the Minister of Health) in relation to confidential information received in respect of an application made under this Act if—
+  (a) the hazardous substance or new organism to which the application relates is or has been the subject of an innovative medicine application; and
+  (b) the confidential information is about that substance or organism; and
+  (c) the Minister of Health is, at the time the Authority wants to disclose or use the information, required under section 23B of the Medicines Act 1981 to protect information provided in, or in relation to, the innovative medicine application.
+(4) Part 6 of the Agricultural Compounds and Veterinary Medicines Act 1997 applies (with the necessary modifications) to the Authority (as if it were the Director-General) in relation to confidential information received in respect of an application made under this Act if—
+  (a) the hazardous substance or new organism to which the application relates is or has been the subject of an innovative TNP application; and
+  (b) the confidential information is about that substance or organism; and
+  (c) the Director-General is, at the time the Authority wants to disclose or use the information, required under Part 6 of the Agricultural Compounds and Veterinary Medicines Act 1997 to protect information provided in support of the innovative TNP application.
+(5) Despite subsections (3) and (4),—
+  (a) the Authority must make available a summary of the effects of a hazardous substance or new organism for the purposes of section 53(3)﻿(c) if the Authority is required to publicly notify the application that relates to that substance or organism under section 53:
+  (b) the Authority may disclose confidential information to prescribed persons or organisations or persons or organisations within prescribed classes of persons or organisations.
+(6) For the purposes of subsection (5)﻿(b), the Governor-General may, by Order in Council, make regulations prescribing persons, organisations, or classes of persons or organisations.
+(7) In this section, confidential information means information that includes either or both of the following:
+  (a) trade secrets:
+  (b) information with a commercial value that would, or would be likely to, be diminished by disclosure of the information.
 
 ### 56 Consideration of information withheld under Official Information Act 1982
 Any information withheld from any person in accordance with section 9(2)﻿(b) of the Official Information Act 1982 may be considered by the Authority in reaching a decision under this Act.
@@ -2602,7 +2600,7 @@ The Governor-General may, by Order in Council,—
   (b) revoke Schedule 1AA and substitute a new schedule setting out in an up-to-date form the text of the Stockholm Convention.
 
 ### 141 Procedure for making Orders in Council
-(1) Before making any recommendation for the purpose of making any Order in Council under this Act (other than any Order in Council or part of an Order in Council made under section 9(1), 55(7), 140(1)﻿(i), (j), or (m), or 140B), the Minister shall—and the Minister shall have regard to those submissions and comments received in accordance with paragraph (a) and to the advice received in accordance with paragraph (b).
+(1) Before making any recommendation for the purpose of making any Order in Council under this Act (other than any Order in Council or part of an Order in Council made under section 9(1), 55(6), 140(1)﻿(i), (j), or (m), or 140B), the Minister shall—and the Minister shall have regard to those submissions and comments received in accordance with paragraph (a) and to the advice received in accordance with paragraph (b).
   (a) request the Authority to—
     (i) do everything reasonably practicable on its part to advise all persons, who or which in its opinion may be affected by any Order in Council made in accordance with the recommendation, of the proposed terms of the Order in Council; and
     (ii) give such persons a reasonable opportunity to make submissions on them to the Authority; and
