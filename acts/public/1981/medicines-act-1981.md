@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2016-09-29_
+_Consolidation as at 2016-11-08_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -448,7 +448,7 @@ In this section, and in sections 23B and 23C, unless the context otherwise requi
   - **commencement date** means the date this section and sections 23B and 23C come into force
   - **confidential information** includes—
     (a) trade secrets; and
-    (b) information that has commercial value that would be, or would be likely to be, diminished by disclosure
+    (b) information with a commercial value that would, or would be likely to, be diminished by disclosure of the information
   - **confidential supporting information** means confidential information given—
     (a) in, or in relation to, an innovative medicine application; and
     (b) about the medicine that is or was, as the case may be, the subject of that application
