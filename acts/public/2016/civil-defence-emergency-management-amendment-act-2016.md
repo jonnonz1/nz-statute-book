@@ -244,7 +244,7 @@ After section 94, insert:Transition periodsMinister may give notice of national 
   (7) A transition period may be extended more than once.
   (8) If the Minister extends a national transition period, the Minister must advise the House of Representatives as soon as practicable.
   (9) If a local transition period is extended a third or further time,—
-    (a) the person (other than the Minister) who extends the period must give the Minister a copy of the notice at the same time as notifying the public of that extension under section 94F(4)﻿(ab); and
+    (a) the person (other than the Minister) who extends the period must give the Minister a copy of the notice at the same time as notifying the public of that extension under section 94F(4); and
     (b) the Minister must advise the House of Representatives as soon as practicable.
   (1) The Minister may by notice terminate a national transition period.
   (2) The person who gave notice of a local transition period (or the Minister or another person appointed or otherwise authorised to give that notice) may by notice terminate the local transition period.
