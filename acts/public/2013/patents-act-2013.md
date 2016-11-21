@@ -1,5 +1,5 @@
 # Patents Act 2013
-_Consolidation as at 2016-05-13_
+_Consolidation as at 2016-11-21_
 
 ### 1 Title
 This Act is the Patents Act 2013.
@@ -885,7 +885,7 @@ Sections 85 to 87 do not apply in relation to any amendment of a specification e
 (1) Any person may, in the prescribed manner, oppose the grant of a patent on 1 or more of the following grounds:
   (a) that the invention, so far as claimed in a claim, is not a patentable invention under section 14:
   (b) that the nominated person is not entitled to the patent:
-  (c) that the complete specification does not comply with subpart 2 (which relates to specification requirements):
+  (c) that the complete specification does not comply with any provision of subpart 2 (which relates to specification requirements) other than section 39(2)﻿(a) (which requires claims to relate to 1 invention only):
   (d) that the applicant is attempting, or has attempted, to obtain the grant of a patent by fraud, false suggestion, or a misrepresentation:
   (e) that the invention, so far as claimed in a claim, was secretly used in New Zealand before the priority date of that claim:
   (f) that granting the patent would be contrary to law.
