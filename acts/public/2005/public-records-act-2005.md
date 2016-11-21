@@ -1,5 +1,5 @@
 # Public Records Act 2005
-_Consolidation as at 2012-06-30_
+_Consolidation as at 2016-11-21_
 
 ### 1 Title
 This Act is the Public Records Act 2005.
@@ -45,7 +45,7 @@ In this Act, unless the context otherwise requires,—
       (ii) in relation to a public archive, the public office that has power to determine conditions of access to the public archive; and
     (b) includes any successor to that public office
   - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **discharge register** means the register referred to in section 19(1)(b)
+  - **discharge register** means the register referred to in section 19(1)﻿(b)
   - **discharged record** means a record the status of which as a public record is cancelled in accordance with section 25
   - **disposal** , in relation to a public record or local authority record, means—
     (a) the transfer of control of a record; or
@@ -84,7 +84,7 @@ In this Act, unless the context otherwise requires,—
   - **prescribed record** means a record declared under section 38 to be a prescribed record for the purposes of this Act
   - **private record** means a record that is not created in, or received by, a public office or local authority, and that is not a Minister’s paper
   - **protected record** means a local authority record declared under section 40 to be a protected record for the purposes of this Act
-  - **public access register** means the register referred to in section 19(1)(d)
+  - **public access register** means the register referred to in section 19(1)﻿(d)
   - **public archive** means a public record that is under the control of the Chief Archivist
   - **public office** —
     (a) means the legislative, executive, and judicial branches of the Government of New Zealand; and
@@ -100,11 +100,12 @@ In this Act, unless the context otherwise requires,—
       (viii) the New Zealand Police; and
       (ix) the New Zealand Defence Force; and
       (x) the New Zealand Security Intelligence Service; and
-      (xi) any person or class of persons declared by an Order in Council made under section 5(1)(a)(i) to be a public office for the purposes of this Act
+      (xa) the Approved Agency under the Harmful Digital Communications Act 2015, in its role under that Act; and
+      (xi) any person or class of persons declared by an Order in Council made under section 5(1)﻿(a)﻿(i) to be a public office for the purposes of this Act
   - **public record** —
     (a) means a record or a class of records, in any form, in whole or in part, created or received (whether before or after the commencement of this Act) by a public office in the conduct of its affairs; and
     (b) includes—
-      (i) a record or a class of records declared under section 5(1)(a)(ii) to be a public record for the purposes of this Act; and
+      (i) a record or a class of records declared under section 5(1)﻿(a)﻿(ii) to be a public record for the purposes of this Act; and
       (ii) estray records; but
     (c) does not include—
       (i) a special collection; or
@@ -123,7 +124,7 @@ In this Act, unless the context otherwise requires,—
   - **standards** means the standards issued by the Chief Archivist under section 27
   - **Statistician** has the meaning given to it in section 2 of the Statistics Act 1975
   - **student** means a person enrolled at a tertiary education institution
-  - **tertiary education institution** has the same meaning as in section 7(1)(e) of the Crown Entities Act 2004
+  - **tertiary education institution** has the same meaning as in section 7(1)﻿(e) of the Crown Entities Act 2004
   - **tikanga Māori** means Māori customary values and practices.
 
 ### 5 Variations to application of Act
@@ -139,15 +140,15 @@ In this Act, unless the context otherwise requires,—
   (a) any provision of this Act, except section 17 (which requires public records and local authority records to be created and maintained) and section 18 (which prohibits the unauthorised disposal of public records and protected records):
   (b) any regulations made under this Act:
   (c) any standards.
-(3) Subsection (1)(b)(i) does not apply to the public offices referred to in paragraph (c)(i) and (v) to (x) of the definition of public office in section 4.
+(3) Subsection (1)﻿(b)﻿(i) does not apply to the public offices referred to in paragraph (c)﻿(i) and (v) to (x) of the definition of public office in section 4.
 (4) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend or revoke an Order in Council made under subsection (1).
 (5) Before making a recommendation under subsection (1) or subsection (4), the Minister must—
   (a) consult,—
-    (i) in the case of a recommendation made under subsection (1)(a)(i) or subsection (4), with the Minister of the Crown for the time being having responsibility for the person or body or class of person or body that is to be the subject of the recommendation; and
-    (ii) in the case of a recommendation made under subsection (1)(a)(ii) or subsection (4), with the person or class of persons who have possession of the record or class of records; and
-    (iii) in the case of a recommendation made under subsection (1)(b)(i) or (ii) or subsection (4), with the responsible Minister of the controlling public office affected; and
+    (i) in the case of a recommendation made under subsection (1)﻿(a)﻿(i) or subsection (4), with the Minister of the Crown for the time being having responsibility for the person or body or class of person or body that is to be the subject of the recommendation; and
+    (ii) in the case of a recommendation made under subsection (1)﻿(a)﻿(ii) or subsection (4), with the person or class of persons who have possession of the record or class of records; and
+    (iii) in the case of a recommendation made under subsection (1)﻿(b)﻿(i) or (ii) or subsection (4), with the responsible Minister of the controlling public office affected; and
   (b) in each case, have regard to advice received from the Archives Council.
-(6) Before making a recommendation in relation to local authority records under subsection (1)(b)(iii) or subsection (4), the Minister must—
+(6) Before making a recommendation in relation to local authority records under subsection (1)﻿(b)﻿(iii) or subsection (4), the Minister must—
   (a) consult with the Minister of the Crown for the time being responsible for the administration of the Local Government Act 2002; and
   (b) have regard to advice received from the Archives Council.
 (7) This Act continues to apply to a mixed ownership model company (within the meaning of section 45P of the Public Finance Act 1989) that was a public office immediately before becoming a mixed ownership model company, as if it were still a public office, but only in respect of its affairs before it ceased to be a public office (regardless of when the records of those affairs are created).
@@ -213,7 +214,7 @@ This Act binds the Crown.
 (3) For the purposes of performing any of the Chief Archivist’s functions referred to in subsection (1), the Chief Archivist must ensure that processes are in place for consulting with Māori.
 
 ### 12 Chief Archivist to act independently
-In relation to the performance of his or her functions and duties and to the exercise of his or her powers under sections 11(1)(b) and (d), 20(1), and 30, the Chief Archivist—
+In relation to the performance of his or her functions and duties and to the exercise of his or her powers under sections 11(1)﻿(b) and (d), 20(1), and 30, the Chief Archivist—
   (a) must act independently in exercising his or her professional judgement; and
   (b) is not subject to direction from either the Minister or the chief executive.
 
@@ -294,7 +295,7 @@ In relation to the performance of his or her functions and duties and to the exe
     (i) restrictions on public access to public records imposed under section 44(3); and
     (ii) prohibitions imposed under section 49 on public access to public archives or protected records in the control of the Chief Archivist; and
     (iii) the grounds for the prohibitions and restrictions recorded under this paragraph; and
-    (iv) the conditions agreed to under section 40(4)(a) as to public access for protected records transferred to the control of the Chief Archivist.
+    (iv) the conditions agreed to under section 40(4)﻿(a) as to public access for protected records transferred to the control of the Chief Archivist.
 (2) The Chief Archivist must make the registers available for public inspection.
 
 **Disposal**
@@ -335,32 +336,32 @@ In relation to the performance of his or her functions and duties and to the exe
   (d) if a responsible Minister, after consultation with the Minister, certifies that—
     (i) 1 or more of the circumstances referred to in subsection (6) applies in respect of a public record; and
     (ii) the transfer of the public record may be deferred for a specified period.
-(2) In subsection (1)(a), schedule has the meaning given to it in section 2 of the Statistics Act 1975.
-(3) In the case of public records referred to in subsection (1)(a), the records—
+(2) In subsection (1)﻿(a), schedule has the meaning given to it in section 2 of the Statistics Act 1975.
+(3) In the case of public records referred to in subsection (1)﻿(a), the records—
   (a) must be transferred to the control of the Chief Archivist and the possession of Archives New Zealand after a period of 100 years from the day appointed by the Governor-General by Proclamation under section 23(2) of the Statistics Act 1975; and
   (b) are subject to sections 37D and 37DA of the Statistics Act 1975; and
   (c) are not subject to Part 3.
-(4) An agreement entered into under subsection (1)(b) may be renewed for further specified periods by agreement between the administrative head of the controlling public office and the Chief Archivist.
-(5) An instruction issued under subsection (1)(c)—
+(4) An agreement entered into under subsection (1)﻿(b) may be renewed for further specified periods by agreement between the administrative head of the controlling public office and the Chief Archivist.
+(5) An instruction issued under subsection (1)﻿(c)—
   (a) must identify the public records to which the instruction relates; and
   (b) must direct the department to make payments to the controlling public office for the maintenance, preservation, and public use of any such public records at a rate agreed by the Chief Archivist and the controlling public office; and
   (c) may contain conditions relating to the preservation and use of the public records concerned; and
   (d) may specify a date for the transfer of the records to the control of the Chief Archivist.
-(6) Subsection (1)(d) applies only if a public record contains information the release of which would be likely to—
+(6) Subsection (1)﻿(d) applies only if a public record contains information the release of which would be likely to—
   (a) prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
   (b) prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by—
     (i) the government of another country or an agency of such a government; or
     (ii) an international organisation; or
   (c) prejudice the maintenance of the law, including the prevention, investigation, and detection of offences, and the right to a fair trial; or
   (d) endanger the safety of any person.
-(7) A deferral permitted under subsection (1)(d) may be renewed by the responsible Minister, after consultation with the Minister.
-(8) Every transfer deferred under this section must be noted in the register of deferred transfers, in accordance with section 19(1)(a).
+(7) A deferral permitted under subsection (1)﻿(d) may be renewed by the responsible Minister, after consultation with the Minister.
+(8) Every transfer deferred under this section must be noted in the register of deferred transfers, in accordance with section 19(1)﻿(a).
 
 ### 23 Transfer of public records
 (1) If a controlling public office ceases to exist as a public office, or ceases to exercise a function to which its public records relate, its public records may be transferred to—
   (a) the public office that has taken over the responsibilities of the controlling public office for those public records; or
   (b) if paragraph (a) does not apply, the public office designated by the Chief Archivist as the public office responsible for those public records.
-(2) A public office that takes over responsibilities under subsection (1)(a) must give notice to the Chief Archivist of the transfer of the public records not later than 3 months after the transfer has taken place.
+(2) A public office that takes over responsibilities under subsection (1)﻿(a) must give notice to the Chief Archivist of the transfer of the public records not later than 3 months after the transfer has taken place.
 (3) Subsection (1) applies, with the necessary modifications, to local authority records.
 
 ### 24 Temporary return of public archives to controlling public office
@@ -387,7 +388,7 @@ If the administrative head of a controlling public office satisfies the Chief Ar
 (3) A public record that is discharged—
   (a) becomes the property of the person to whom it is discharged; and
   (b) ceases to have status as a public record or to be subject to this Act.
-(4) A public record discharged under this section must be noted in the discharge register, in accordance with section 19(1)(b).
+(4) A public record discharged under this section must be noted in the discharge register, in accordance with section 19(1)﻿(b).
 
 **Approved repositories**
 
@@ -499,7 +500,7 @@ As soon as is reasonably practicable after the end of the financial year in whic
   (b) must not transfer the prescribed record to any other person unless that person—
     (i) has first given the Chief Archivist the opportunity to purchase the prescribed record on behalf of the Crown; and
     (ii) before transferring the prescribed record to another person, has informed that other person that the record is a prescribed record.
-(5) The Chief Archivist must note the status of a prescribed record in the register of prescribed records, in accordance with section 19(1)(c).
+(5) The Chief Archivist must note the status of a prescribed record in the register of prescribed records, in accordance with section 19(1)﻿(c).
 (6) The Chief Archivist must—
   (a) give written notice to the holder of a prescribed record if the status of the record as a prescribed record is revoked; and
   (b) record the change of status in the register of prescribed records.
@@ -520,7 +521,7 @@ The Chief Archivist may—
   (c) specified how he or she intends to dispose of the protected record.
 (4) Not later than 3 months after receiving written notice under subsection (3), the Chief Archivist must—
   (a) direct the local authority in writing to transfer the protected record to the control of the Chief Archivist, subject to conditions (if any) agreed by the administrative head of the local authority and the Chief Archivist; or
-  (b) authorise the disposal of the protected record identified under subsection (3)(b).
+  (b) authorise the disposal of the protected record identified under subsection (3)﻿(b).
 
 ### 41 Transitional provision
 Despite section 66(b) (which repeals Part 17 of the Local Government Act 1974), section 40 applies to any classes of local archives protected by notice in the Gazette given under section 256 of the Local Government Act 1974 as if those classes of local archives were protected records under this Act.
@@ -536,8 +537,8 @@ Despite section 66(b) (which repeals Part 17 of the Local Government Act 1974), 
     (ii) relate to an existing or former public office or organisation connected with government in New Zealand; or
     (iii) relate to persons who are or have been significant in any aspect of New Zealand history, politics, or culture:
   (d) records referred to in section 3(a) to (d) of the Archives Act 1957 that were made or received by a government office before the commencement of this Act.
-(2) Parliamentary records deposited under subsection (1)(a) may be subject to conditions agreed to in writing between the Chief Archivist and the Clerk of the House.
-(3) Papers and records deposited under subsection (1)(b) or (c)—
+(2) Parliamentary records deposited under subsection (1)﻿(a) may be subject to conditions agreed to in writing between the Chief Archivist and the Clerk of the House.
+(3) Papers and records deposited under subsection (1)﻿(b) or (c)—
   (a) remain under the care of the Chief Archivist; and
   (b) unless the Minister or the person depositing the papers or records otherwise agrees in writing, remain in the ownership and control of the Minister or that person; and
   (c) may be subject to conditions agreed to in writing by the Minister or the person depositing the papers or records and the Chief Archivist, including conditions relating to—
@@ -546,7 +547,7 @@ Despite section 66(b) (which repeals Part 17 of the Local Government Act 1974), 
     (iii) publication, acknowledgement, and copying of the papers or records:
     (iv) future ownership of the papers or records.
 (4) Papers and records referred to in subsection (1) are not subject to the Official Information Act 1982 just because they are deposited in Archives New Zealand.
-(5) Records deposited under subsection (1)(d) remain—
+(5) Records deposited under subsection (1)﻿(d) remain—
   (a) under the control of the controlling public office; and
   (b) subject to the Archives Act 1957 as if that Act continued to apply to them.
 (6) The Crown and its agents, including the Chief Archivist, must comply with any conditions to which the deposit of papers or records referred to in subsection (1) is subject.
@@ -565,16 +566,16 @@ Despite section 66(b) (which repeals Part 17 of the Local Government Act 1974), 
 (1) In classifying the access status of a public record under section 43, the administrative head of the controlling public office must consider whether—
   (a) there are good reasons to restrict public access to the public record, having regard to any relevant standard or advice issued by the Chief Archivist; or
   (b) another enactment requires the public record to be withheld from public access.
-(2) If there are no good reasons to restrict public access under subsection (1)(a), or if no enactment requires a public record to be withheld from public access, the administrative head of the controlling public office must classify the record as an open access record.
-(3) If there are good reasons for restricting public access under subsection (1)(a), or if another enactment requires a public record to be withheld from public access, the administrative head of the controlling public office must, in consultation with the Chief Archivist,—
+(2) If there are no good reasons to restrict public access under subsection (1)﻿(a), or if no enactment requires a public record to be withheld from public access, the administrative head of the controlling public office must classify the record as an open access record.
+(3) If there are good reasons for restricting public access under subsection (1)﻿(a), or if another enactment requires a public record to be withheld from public access, the administrative head of the controlling public office must, in consultation with the Chief Archivist,—
   (a) determine whether it is necessary—
     (i) to restrict public access to the public record for a specified period of time; or
     (ii) to permit public access on conditions; and
-  (b) if paragraph (a)(ii) applies, determine the conditions appropriate for public access.
-(4) The administrative head of a controlling public office may at any time, in consultation with the Chief Archivist, vary or withdraw a condition imposed under subsection (3)(b).
-(5) A public record subject to a restriction under subsection (3)(a)(i) becomes an open access record on the withdrawal of the restriction.
-(6) The department and the Chief Archivist must comply with conditions of public access imposed under subsection (3)(b).
-(7) A restriction on public access to a public record must be noted in the public access register, in accordance with section 19(1)(d).
+  (b) if paragraph (a)﻿(ii) applies, determine the conditions appropriate for public access.
+(4) The administrative head of a controlling public office may at any time, in consultation with the Chief Archivist, vary or withdraw a condition imposed under subsection (3)﻿(b).
+(5) A public record subject to a restriction under subsection (3)﻿(a)﻿(i) becomes an open access record on the withdrawal of the restriction.
+(6) The department and the Chief Archivist must comply with conditions of public access imposed under subsection (3)﻿(b).
+(7) A restriction on public access to a public record must be noted in the public access register, in accordance with section 19(1)﻿(d).
 (8) Every controlling public office is responsible for dealing with requests for official information under the Official Information Act 1982 and requests for personal information under the Privacy Act 1993.
 
 **Access status of local authority records**
@@ -589,15 +590,15 @@ Despite section 66(b) (which repeals Part 17 of the Local Government Act 1974), 
 (1) In classifying the access status of a local authority record under section 45, the administrative head of the controlling local authority must consider whether—
   (a) there are good reasons to restrict public access to the local authority record, having regard to any relevant standard or advice issued by the Chief Archivist; or
   (b) another enactment requires the local authority record to be withheld from public access.
-(2) If there are no good reasons to restrict public access under subsection (1)(a), or if no enactment requires a local authority record to be withheld from public access, the administrative head of the controlling local authority must classify the record as an open access record.
-(3) However, if there are good reasons to restrict public access under subsection (1)(a), or if another enactment requires a local authority record to be withheld from public access, the administrative head of the controlling local authority must, having regard to any relevant standard or advice issued by the Chief Archivist,—
+(2) If there are no good reasons to restrict public access under subsection (1)﻿(a), or if no enactment requires a local authority record to be withheld from public access, the administrative head of the controlling local authority must classify the record as an open access record.
+(3) However, if there are good reasons to restrict public access under subsection (1)﻿(a), or if another enactment requires a local authority record to be withheld from public access, the administrative head of the controlling local authority must, having regard to any relevant standard or advice issued by the Chief Archivist,—
   (a) determine whether it is necessary—
     (i) to restrict public access to the local authority record for a specified period of time (which must not be for a period greater than 25 years); or
     (ii) to permit public access on conditions; and
-  (b) if paragraph (a)(ii) applies, determine the conditions appropriate for public access.
-(4) Despite subsection (3)(a)(i), the administrative head of the controlling local authority may, if there is good reason to do so, restrict public access to the local authority record for 1 or more further specified periods not exceeding 25 years for each further period.
-(5) At any time, the administrative head of the controlling local authority, having regard to any relevant standard or advice issued by the Chief Archivist, may vary or withdraw a condition imposed under subsection (3)(b).
-(6) A local authority record subject to a restriction under subsection (3)(a)(i) becomes an open access record on the withdrawal of the restriction.
+  (b) if paragraph (a)﻿(ii) applies, determine the conditions appropriate for public access.
+(4) Despite subsection (3)﻿(a)﻿(i), the administrative head of the controlling local authority may, if there is good reason to do so, restrict public access to the local authority record for 1 or more further specified periods not exceeding 25 years for each further period.
+(5) At any time, the administrative head of the controlling local authority, having regard to any relevant standard or advice issued by the Chief Archivist, may vary or withdraw a condition imposed under subsection (3)﻿(b).
+(6) A local authority record subject to a restriction under subsection (3)﻿(a)﻿(i) becomes an open access record on the withdrawal of the restriction.
 
 **Open access records**
 
@@ -611,7 +612,7 @@ The Chief Archivist may give written authority, on any conditions that the Chief
 (1) The Chief Archivist may prohibit the public from accessing or copying a public archive or protected record in his or her control for any period that he or she thinks necessary—
   (a) in the interest of preserving the public archive or protected record; or
   (b) pending the classification, repair, or other treatment of the public archive or protected record.
-(2) A prohibition on public access must be noted in the public access register, in accordance with section 19(1)(d).
+(2) A prohibition on public access must be noted in the public access register, in accordance with section 19(1)﻿(d).
 (3) The administrative head of a local authority may prohibit the public from accessing or copying a local authority archive for any period that he or she thinks necessary—
   (a) in the interest of preserving the local authority archive; or
   (b) pending the classification, repair, or other treatment of the local authority archive.
@@ -619,7 +620,7 @@ The Chief Archivist may give written authority, on any conditions that the Chief
 **Restricted access records**
 
 ### 50 Period for which restricted access may apply
-The period of time for which public access to a public record may be restricted under section 44(3)(a)(i), may—
+The period of time for which public access to a public record may be restricted under section 44(3)﻿(a)﻿(i), may—
   (a) on the written request of the Chief Archivist, be reviewed after the expiry of 10 years from the date that the restriction is recorded in the public access register; and
   (b) before its expiry, be extended for further periods as specified by the administrative head of the controlling public office.
 
@@ -629,8 +630,8 @@ The period of time for which public access to a public record may be restricted 
 
 ### 51 Appeal to Minister by public office or by local authority
 (1) The administrative head of a controlling public office may appeal to the Minister against a decision of the Chief Archivist—
-  (a) declining a request to defer the transfer of a public record under section 22(1)(b):
-  (b) instructing a public office under section 22(1)(c) to maintain and control its electronic public records beyond the expiry of the 25-year period referred to in that provision:
+  (a) declining a request to defer the transfer of a public record under section 22(1)﻿(b):
+  (b) instructing a public office under section 22(1)﻿(c) to maintain and control its electronic public records beyond the expiry of the 25-year period referred to in that provision:
   (c) declining a request for an exemption under section 30.
 (2) The administrative head of a controlling local authority may appeal to the Minister against a decision of the Chief Archivist to decline a request for an exemption under section 30.
 (3) Sections 52, 53(3), and 54 to 56 apply, with the necessary modifications, to an appeal by a controlling local authority under this Act.
@@ -645,11 +646,11 @@ The period of time for which public access to a public record may be restricted 
 (1) Subsections (2) and (3) apply—
   (a) between the time when the Chief Archivist makes a decision that is subject to a right of appeal and the expiry of the time for lodging an appeal; or
   (b) if an appeal is lodged, between the time when the decision is made and the time when the appeal is determined by the Minister and notified under section 56(3) to the Chief Archivist and the administrative head of the controlling public office or of the local authority, as the case may be.
-(2) During the period of time referred to in subsection (1)(a) or (b), as the case may be,—
+(2) During the period of time referred to in subsection (1)﻿(a) or (b), as the case may be,—
   (a) the Chief Archivist must not issue an instruction or take further action in respect of the matter to which the appeal relates:
-  (b) in the case of an appeal under section 51(1)(a), the public office is not required to transfer the public record concerned:
-  (c) in the case of an appeal under section 51(1)(b), the public office must continue to maintain and control its electronic records:
-  (d) in the case of an appeal under section 51(1)(c), the public office must continue to comply with the standard or instruction from which an exemption has been requested.
+  (b) in the case of an appeal under section 51(1)﻿(a), the public office is not required to transfer the public record concerned:
+  (c) in the case of an appeal under section 51(1)﻿(b), the public office must continue to maintain and control its electronic records:
+  (d) in the case of an appeal under section 51(1)﻿(c), the public office must continue to comply with the standard or instruction from which an exemption has been requested.
 (3) If a local authority appeals under section 51(2),—
   (a) the Chief Archivist must not issue an instruction or take further action in respect of the matter to which the appeal relates; and
   (b) the local authority must continue to comply with the standard or instruction from which an exemption has been requested.
@@ -734,32 +735,32 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 ### 64 Savings
 (1) Despite section 66(a), a matter referred to in subsection (2) that is in force immediately before the commencement of this Act continues in force for the period (if any) provided for in subsection (2), as if this Act had not been enacted.
 (2) The matters to which subsection (1) applies are—
-  (a) a certificate issued under section 8(2)(c) of the Archives Act 1957, until whichever is the sooner of—
+  (a) a certificate issued under section 8(2)﻿(c) of the Archives Act 1957, until whichever is the sooner of—
     (i) the expiry of the period of deferral directed by the Minister; or
     (ii) a transfer made under section 21(1) of this Act; or
-    (iii) an agreement made under section 22(1)(b) of this Act; and
+    (iii) an agreement made under section 22(1)﻿(b) of this Act; and
   (b) in the case of a public archive in the possession of Archives New Zealand, conditions imposed under section 14 of the Archives Act 1957, for the period (if any) stated in the conditions; and
   (c) an authorisation given under section 21 of the Archives Act 1957, until whichever is the sooner of—
     (i) the completion of the authorised publication; or
     (ii) the expiry of the authorisation.
 (3) This Act does not apply to public records referred to in section 3(a) to (d) of the Archives Act 1957 and made or received by the relevant Government office before the commencement of this Act.
-(4) However, section 42(1)(d) overrides subsection (3).
+(4) However, section 42(1)﻿(d) overrides subsection (3).
 
 ### 65 Transitional provisions
 (1) Despite section 66(a), the agreements or other matters referred to in subsection (2) that are in force immediately before the commencement of this Act continue in force in the manner specified in that subsection.
 (2) The agreements and other matters to which subsection (1) applies are—
-  (a) an agreement made under section 8(2)(a) or (b) of the Archives Act 1957, for the term of the agreement, as if it were made under section 22(1)(b) of this Act:
-  (b) an agreement made under section 11 of the Archives Act 1957, for the term of the agreement, as if it were made under section 42(3)(c) of this Act:
+  (a) an agreement made under section 8(2)﻿(a) or (b) of the Archives Act 1957, for the term of the agreement, as if it were made under section 22(1)﻿(b) of this Act:
+  (b) an agreement made under section 11 of the Archives Act 1957, for the term of the agreement, as if it were made under section 42(3)﻿(c) of this Act:
   (c) an agreement made under section 13 of the Archives Act 1957, as if it were made under section 24 of this Act:
   (d) a certificate of authority given under section 16(6) of the Archives Act 1957—
     (i) as if it authorised the disposal of public records; and
-    (ii) as if it were given under section 20(1)(c) of this Act; and
+    (ii) as if it were given under section 20(1)﻿(c) of this Act; and
     (iii) until the authorised disposals are completed:
   (e) an approval given or deposit made under section 19(1) of the Archives Act 1957, as if the approval were given and the deposit made under section 26 of this Act:
   (f) a deposit made by the Registrar of Deeds under section 19(2) of the Archives Act 1957, as if consent were given under section 26 of this Act:
-  (g) in the case of a public archive in the possession of Archives New Zealand, restrictions on inspection imposed under section 20(1)(b), (c), or (ca) of the Archives Act 1957, as if the public archive had been classified under section 43(1)(b) as a restricted access record in accordance with section 44(3):
-  (h) in the case of a public archive in the possession of Archives New Zealand, conditions referred to in subsection (3) as to public access, as if the public archive had been classified under section 43(1)(b) as a restricted access record in accordance with section 44(3).
-(3) Subsection (2)(h) applies to conditions imposed under—
+  (g) in the case of a public archive in the possession of Archives New Zealand, restrictions on inspection imposed under section 20(1)﻿(b), (c), or (ca) of the Archives Act 1957, as if the public archive had been classified under section 43(1)﻿(b) as a restricted access record in accordance with section 44(3):
+  (h) in the case of a public archive in the possession of Archives New Zealand, conditions referred to in subsection (3) as to public access, as if the public archive had been classified under section 43(1)﻿(b) as a restricted access record in accordance with section 44(3).
+(3) Subsection (2)﻿(h) applies to conditions imposed under—
   (a) section 8(3) of the Archives Act 1957 on public archives that have been in existence for 25 years or more:
   (b) section 10(2) of the Archives Act 1957 on public archives that have been in existence for less than 25 years:
   (c) section 16(7) of the Archives Act 1957.
