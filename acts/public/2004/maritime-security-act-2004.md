@@ -1,5 +1,5 @@
 # Maritime Security Act 2004
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-11-29_
 
 ### 1 Title
 This Act is the Maritime Security Act 2004.
@@ -998,7 +998,7 @@ For the purposes of any inspection or audit carried out in respect of any person
 (2) If the chief executive becomes aware of any conflict between any chief executive's instructions and any harbourmaster's instructions, the chief executive must, as soon as practicable, advise the person who has made the harbourmaster's instructions of the conflict, and that person must immediately upon being so advised withdraw those instructions or alter them so as to remove the conflict.
 (3) The chief executive must not issue chief executive's instructions that conflict with the exercise of a power by—
   (a) a person under Part 5 of the Civil Defence Emergency Management Act 2002; or
-  (b) a Recovery Co-ordinator appointed under section 29 of the Civil Defence Emergency Management Act 2002 and acting under that Act; or
+  (b) the person who is serving as the National Recovery Manager under the Civil Defence Emergency Management Act 2002; or
   (c) any constable under section 10 of the International Terrorism (Emergency Powers) Act 1987; or
   (d) a person under Part 4 of the Health Act 1956.
 
