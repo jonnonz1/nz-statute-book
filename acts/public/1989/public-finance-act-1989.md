@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2016-10-13_
+_Consolidation as at 2016-11-29_
 
 > Title
 
@@ -590,7 +590,7 @@ The Minister may, in addition to the information referred to in sections 15 to 1
 
 ### 25 Expenses or capital expenditure may be incurred in emergencies
 (1) This section applies if—
-  (a) a state of emergency or state of civil defence emergency is declared under the Civil Defence Act 1983 or the Civil Defence Emergency Management Act 2002; or
+  (a) a state of emergency is declared under the Civil Defence Emergency Management Act 2002; or
   (b) a situation occurs that affects the public health or safety of New Zealand or any part of New Zealand that the Government declares to be an emergency.
 (2) The Minister may approve expenses or capital expenditure to be incurred to meet the emergency or disaster and, whether or not there is an appropriation by Parliament available for the purpose and despite sections 4, 8, and 9, the expenses or capital expenditure may be incurred accordingly.
 (3)
