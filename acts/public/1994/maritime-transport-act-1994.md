@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2016-11-29_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -1845,7 +1845,7 @@ In this Part, unless the context otherwise requires,—
   (a) a harbourmaster (as defined in section 222(1)); or
   (b) an on-scene commander (as defined in section 281); or
   (c) a person under Part 5 of the Civil Defence Emergency Management Act 2002; or
-  (d) a Recovery Co-ordinator appointed under the Civil Defence Emergency Management Act 2002 and acting under that Act; or
+  (d) the person who is serving as the National Recovery Manager under the Civil Defence Emergency Management Act 2002; or
   (e)
   (f) any constable under section 10 of the International Terrorism (Emergency Powers) Act 1987; or
   (g) a person under the Transport Accident Investigation Commission Act 1990; or
@@ -2959,7 +2959,7 @@ Every person shall comply with the instructions given by the Director under sect
 (2) If the Director becomes aware of any conflict between any Director’s instructions and any harbourmaster’s instructions, the Director shall, as soon as practicable, advise the person who has made the harbourmaster’s instructions of the conflict, and that person shall immediately upon being so advised withdraw those instructions or alter them so as to remove the conflict.
 (3) The Director must not issue Director’s instructions that conflict with the exercise of a power by—
   (a) a person under Part 5 of the Civil Defence Emergency Management Act 2002; or
-  (b) a Recovery Co-ordinator appointed under the Civil Defence Emergency Management Act 2002 and acting under that Act; or
+  (b) the person who is serving as the National Recovery Manager under the Civil Defence Emergency Management Act 2002; or
   (c) any constable under section 10 of the International Terrorism (Emergency Powers) Act 1987.
 
 ### 255 Minister’s power of direction
@@ -3528,7 +3528,7 @@ If a regional on-scene commander or the National On-Scene Commander decides that
 ### 312 Limits on powers of on-scene commander
 (1) No power conferred by section 305 or section 311 may be exercised so as to conflict with the exercise of a power by—
   (a) a person under Part 5 of the Civil Defence Emergency Management Act 2002; or
-  (b) a Recovery Co-ordinator appointed under the Civil Defence Emergency Management Act 2002 and acting under that Act; or
+  (b) the person who is serving as the National Recovery Manager under the Civil Defence Emergency Management Act 2002; or
   (c) any constable under section 10 of the International Terrorism (Emergency Powers) Act 1987.
 (2) No power conferred by section 305 or section 311 shall be exercised so as to be inconsistent with any power exercised by the Director or the Minister under Part 20.
 
