@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2016-11-29_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -24,17 +24,29 @@ The purpose of this Act, which repeals and replaces the Civil Defence Act 1983, 
 
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **administering authority** means, in relation to a Civil Defence Emergency Management Group, the administering authority appointed under section 23
-  - **area** , in relation to a Civil Defence Emergency Management Group, means the area that encompasses all the districts of the local authorities that are members of the Group
+  - **administering authority** means, in relation to a Civil Defence Emergency Management Group, the administering authority described in section 23
+  - **area** , in relation to a Civil Defence Emergency Management Group,—
+    (a) means all the districts of the local authorities that are members of the Group; and
+    (b) extends to—
+      (i) the landward boundary of the territorial authorities in the Group; and
+      (ii) the seaward boundary of the regions of regional councils or unitary authorities in the Group
+  - **chief executive officer** , in relation to a provider, means—
+    (a) in relation to a company, the person occupying the position of chief executive of the company, by whatever name called:
+    (b) in relation to a partnership, a partner nominated for the purpose by the partnership:
+    (c) in relation to an individual provider, the provider:
+    (d) in relation to any other provider, including an unincorporated body, a person occupying a position that is comparable with that of chief executive officer of a company, by whatever name called
   - **civil defence emergency management** —
     (a) means the application of knowledge, measures, and practices that—
       (i) are necessary or desirable for the safety of the public or property; and
-      (ii) are designed to guard against, prevent, reduce, or overcome any hazard or harm or loss that may be associated with any emergency; and
+      (ii) are designed to guard against, prevent, reduce, recover from, or overcome any hazard or harm or loss that may be associated with any emergency; and
     (b) includes, without limitation, the planning, organisation, co-ordination, and implementation of those measures, knowledge, and practices
   - **Civil Defence Emergency Management Co-ordinating Executive Group** or means a Group established under section 20
   - **Civil Defence Emergency Management Group** or means a Group established under section 12 or established or re-established under section 22
   - **civil defence emergency management group plan** means a plan prepared and approved under section 48
   - **civil defence emergency management plan** means a national civil defence emergency management plan or a civil defence emergency management group plan
+  - **constable** —
+    (a) has the same meaning as in section 4 of the Policing Act 2008; and
+    (b) in Part 5B, includes any person acting under the authority of a constable
   - **Controller** means the person who is the National Controller in accordance with section 10, or a Group Controller appointed under section 26
   - **department** means a department of the public service listed in Schedule 1 of the State Sector Act 1988
   - **Director** means the Director of Civil Defence Emergency Management appointed under section 8
@@ -43,17 +55,21 @@ In this Act, unless the context otherwise requires,—
     (a) is the result of any happening, whether natural or otherwise, including, without limitation, any explosion, earthquake, eruption, tsunami, land movement, flood, storm, tornado, cyclone, serious fire, leakage or spillage of any dangerous gas or substance, technological failure, infestation, plague, epidemic, failure of or disruption to an emergency service or a lifeline utility, or actual or imminent attack or warlike act; and
     (b) causes or may cause loss of life or injury or illness or distress or in any way endangers the safety of the public or property in New Zealand or any part of New Zealand; and
     (c) cannot be dealt with by emergency services, or otherwise requires a significant and co-ordinated response under this Act
-  - **emergency services** means the New Zealand Police, New Zealand Fire Service, National Rural Fire Authority, rural fire authorities, and hospital and health services
+  - **emergency services** means the New Zealand Police, New Zealand Fire Service, National Rural Fire Authority, rural fire authorities, and providers of health and disability services
   - **Group Controller** means a person appointed as a Group Controller under section 26
+  - **Group Recovery Manager** means a person appointed as a Group Recovery Manager under section 29
   - **hazard** means something that may cause, or contribute substantially to the cause of, an emergency
-  - **hospital and health service** has the same meaning as in section 2 of the Health and Disability Services Act 1993
+  - **health and disability services** means health services and disability support services within the meaning of the New Zealand Public Health and Disability Act 2000
   - **lifeline utility** means an entity named or described in Part A of Schedule 1, or that carries on a business described in Part B of Schedule 1
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
+  - **Local Recovery Manager** means a person appointed as a Local Recovery Manager under section 30
+  - **local transition period** means a local transition period notified under section 94B
   - **member** means a local authority that is a member of a Civil Defence Emergency Management Group
   - **Minister** means, subject to any enactment, the Minister of the Crown who, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **national civil defence emergency management plan** means a plan made under section 39
   - **national civil defence emergency management strategy** means a strategy completed under section 31
   - **National Controller** means the person who is the National Controller in accordance with section 10
+  - **National Recovery Manager** means the person who is delegated specified functions and powers of the Director under section 11A
   - **national significance** includes, without limitation, any case where the Minister or the Director considers that—
     (a) there is widespread public concern or interest; or
     (b) there is likely to be significant use of resources; or
@@ -61,15 +77,25 @@ In this Act, unless the context otherwise requires,—
     (d) it affects or is likely to affect or is relevant to New Zealand's international obligations; or
     (e) it involves or is likely to involve technology, processes, or methods that are new to New Zealand; or
     (f) it results or is likely to result in or contribute to significant or irreversible changes to the environment (including the global environment)
+  - **national transition period** means a national transition period notified under section 94A
+  - **owner** , in relation to a structure, includes (but is not limited to) a person who owns part of the structure
+  - **provider of health and disability services** means provider within the meaning of the New Zealand Public Health and Disability Act 2000
   - **public place** means a place that, at any material time, is—
     (a) open to or is being used by the public, whether free or on payment of a charge, and whether or not any owner or occupier of the place is lawfully entitled to exclude or reject any person; and
     (b) includes, without limitation, any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle carrying or available to carry passengers for reward
-  - **recovery activities** means activities carried out under this Act or any civil defence emergency management plan after an emergency occurs, including, without limitation,—
-    (a) the assessment of the needs of a community affected by the emergency; and
-    (b) the co-ordination of resources made available to the community; and
-    (c) actions relating to community rehabilitation and restoration; and
-    (d) new measures to reduce hazards and risks
-  - **Recovery Co-ordinator** means a Recovery Co-ordinator appointed under section 29
+  - **recovery** means the co-ordinated efforts and processes used to bring about the immediate, medium-term, and long-term holistic regeneration and enhancement of a community following an emergency
+  - **recovery activity** means an activity carried out under this Act or any civil defence emergency management plan to deal with the consequences of an emergency, including, without limitation,—
+    (a) the assessment and ongoing monitoring of the needs of a community affected by the emergency; and
+    (b) the co-ordination and integration of planning, decisions, actions, and resources; and
+    (c) measures to support—
+      (i) the regeneration, restoration, and enhancement of communities across the 4 environments (built, natural, social, and economic); and
+      (ii) the cultural and physical well-being of individuals and their communities; and
+      (iii) government and non-government organisations and entities working together; and
+    (d) measures to enable community participation in recovery planning; and
+    (e) new measures—
+      (i) to reduce risks from hazards; and
+      (ii) to build resilience
+  - **Recovery Manager** means the National Recovery Manager, a Group Recovery Manager, or a Local Recovery Manager, and includes any person acting under the authority of the National Recovery Manager, a Group Recovery Manager, or a Local Recovery Manager
   - **region** means a region within the meaning of the Local Government Act 2002
   - **regional council** means a regional council within the meaning of the Local Government Act 2002
   - **representative** means an elected member of a local authority, including an elected member of a community board
@@ -81,11 +107,15 @@ In this Act, unless the context otherwise requires,—
   - **state of national emergency** means a state of national emergency declared under section 66
   - **State services** has the same meaning as in section 2 of the State Sector Act 1988
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
+  - **transition period** means a national transition period or a local transition period
   - **unitary authority** means a unitary authority within the meaning of the Local Government Act 2002
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period beginning on 25 December in any year and ending with 15 January in the following year.
+
+### 4A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 5 Act to bind the Crown
 This Act binds the Crown.
@@ -110,20 +140,21 @@ All persons exercising functions in relation to the development and implementati
   (e) develop, in consultation with the relevant persons and organisations that have responsibilities under this Act, any guidelines, codes, or technical standards that may be required for the purposes of this Act:
   (f) monitor the performance of Civil Defence Emergency Management Groups and persons who have responsibilities under this Act:
   (g) promote civil defence emergency management that is consistent with the purpose of this Act:
-  (h) during a state of national emergency, direct and control for the purposes of this Act the resources available for civil defence emergency management.
+  (h) during a state of national emergency or a national transition period, direct and control for the purposes of this Act the resources available for civil defence emergency management.
 (3) The Director also has any other functions that are conferred or imposed on the Director by or under this Act or any other enactment.
 
 ### 9 Powers of Director
 (1) The Director has all the powers that are reasonably necessary or expedient to enable the Director to perform his or her functions.
 (2) Without limiting the generality of subsection (1), the Director may—
-  (a) co-ordinate the use of and, during a state of national emergency, use, for the purposes of this Act, the personnel, material, information, services, and any other resources made available by departments, Civil Defence Emergency Management Groups, emergency services, New Zealand Defence Force (as provided in the Defence Act 1990), and other persons and in particular, without limitation, for—
+  (a) co-ordinate the use of and, during a state of national emergency or a national transition period, use, for the purposes of this Act, the personnel, material, information, services, and any other resources made available by departments, Civil Defence Emergency Management Groups, emergency services, New Zealand Defence Force (as provided in the Defence Act 1990), and other persons and in particular, without limitation, for—
     (i) the provision of transport:
     (ii) the removal of endangered persons and casualties from any area affected by the emergency to areas of safety or to hospitals:
     (iii) medical care and attention to casualties:
     (iv) the relief of distress and suffering:
     (v) the accommodation, feeding, care, and protection of persons:
     (vi) the provision of other services necessary to restore community services and provide for the welfare of the public:
-  (b) during a state of national emergency, control the exercise and performance of the functions, duties, and powers of Civil Defence Emergency Management Groups and Group Controllers:
+  (b) during a state of national emergency, control the performance of the functions and duties and the exercise of the powers of Civil Defence Emergency Management Groups and Group Controllers:
+  (ba) during a national transition period, control the performance of the functions and duties and the exercise of the powers of Civil Defence Emergency Management Groups and Recovery Managers:
   (c) enter into arrangements, including employment arrangements, with any person for the purpose of carrying out civil defence emergency management as may be agreed:
   (d) devise, promote, and carry out, or cause to be carried out, research and investigations into matters relating to civil defence emergency management:
   (e) issue or cause to be issued warnings of hazards:
@@ -133,9 +164,10 @@ All persons exercising functions in relation to the development and implementati
   (i) advise in relation to, and assist in the planning, preparation, co-ordination, and carrying out of, civil defence emergency management.
 (3) Without limiting the generality of subsection (1), the Director may issue guidelines, codes, or technical standards to any person or organisation with responsibilities under this Act, including guidelines, codes, or technical standards for—
   (a) the establishment and operation of Civil Defence Emergency Management Groups and Co-ordinating Executive Groups:
-  (b) the development of Civil Defence Emergency Management Group plans and operational plans for responding to specific emergencies:
+  (b) the development of Civil Defence Emergency Management Group plans and operational plans for the response to, and recovery from, specific emergencies:
+  (ba) the development of strategic recovery planning for emergencies:
   (c) the development of Civil Defence Emergency Management plans by the Crown, local government agencies, emergency services, and lifeline utilities:
-  (d) the operational role of controllers, recovery co-ordinators, and other persons with responsibilities under this Act:
+  (d) the operational role of controllers, Recovery Managers, and other persons with responsibilities under this Act:
   (e) any other matters that—
     (i) the Director considers necessary; and
     (ii) are consistent with the purposes of this Act.
@@ -155,13 +187,29 @@ All persons exercising functions in relation to the development and implementati
 (4) A delegation under section 10, until revoked, continues in force according to its tenor even if the Director by whom it was made has ceased to hold office.
 (5) No person is employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 merely because functions and powers are delegated to that person under section 10.
 
+**National Recovery Manager**
+
+### 11A Delegation of certain functions and powers of Director to National Recovery Manager
+(1) The Director may, in writing, either generally or particularly, delegate to any person the functions and powers of the Director referred to in sections 8(2)﻿(h) and 9(2)﻿(a) for the purposes of dealing with a national transition period.
+(2) The Director may exercise the power of delegation at any time, whether or not a national transition period is in force or is imminent.
+(3) A person to whom functions and powers are delegated under this section is, while the delegation is in force, the National Recovery Manager and has all the powers conferred on the National Recovery Manager by this Act.
+(4) If no delegation has been made under this section, the Director is the National Recovery Manager and has all the powers conferred on the National Recovery Manager by this Act.
+
+### 11B Further provisions relating to delegation to National Recovery Manager
+(1) Subject to any general or special directions given or conditions attached by the Director, a person to whom functions and powers are delegated under section 11A may perform those functions and exercise those powers in the same manner and with the same effect as if they had been conferred on him or her directly by that section and not by delegation.
+(2) A person purporting to act under any delegation under section 11A is presumed to be acting in accordance with the terms of the delegation in the absence of proof to the contrary.
+(3) A delegation under section 11A is revocable in writing at will, and no such delegation prevents the performance of any function or the exercise of any power by the Director.
+(4) A delegation under section 11A, until revoked, continues in force according to its tenor even if the Director who made the delegation has ceased to hold office.
+(5) A person is not employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 merely because functions and powers are delegated to that person under section 11A.
+
 **Civil Defence Emergency Management Groups**
 
 ### 12 Local authorities to establish Civil Defence Emergency Management Groups
 (1) Within 6 months after the date of the commencement of this Act,—
   (a) every regional council and every territorial authority within that region must unite to establish a Civil Defence Emergency Management Group for the purposes of this Act as a joint standing committee under clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002:
-  (b) subject to paragraph (c), a unitary authority must establish a Civil Defence Emergency Management Group for the purposes of this Act for the district of that unitary authority alone:
+  (b) subject to paragraph (c), a unitary authority must establish a Civil Defence Emergency Management Group for the purposes of this Act as a committee under clause 30(1)﻿(a) of Schedule 7 of the Local Government Act 2002:
   (c) instead of establishing a Civil Defence Emergency Management Group in accordance with paragraph (b), a unitary authority may unite with a unitary authority or unitary authorities that border it, or a regional council that borders it, or all or any of them, to establish a Civil Defence Emergency Management Group for the purposes of this Act as a joint standing committee under clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002.
+(1A) If subsection (1)﻿(b) applies and subsection (1)﻿(c) does not apply, a unitary authority is a Group rather than a member of a Group for the purposes of this Act.
 (2) Clause 30(5) or (7) of Schedule 7 of the Local Government Act 2002 must not be read as permitting, during a term of local government or as a consequence of a local government election, the discharge or reconstitution of a Civil Defence Emergency Management Group established for the purposes of this Act.
 (3) Nothing in this section requires the Minister of Local Government to be a member of a Civil Defence Emergency Management Group.
 
@@ -201,7 +249,7 @@ Each member of a Civil Defence Emergency Management Group—
   (b) take all steps necessary on an ongoing basis to maintain and provide, or to arrange the provision of, or to otherwise make available suitably trained and competent personnel, including volunteers, and an appropriate organisational structure for those personnel, for effective civil defence emergency management in its area:
   (c) take all steps necessary on an ongoing basis to maintain and provide, or to arrange the provision of, or otherwise to make available material, services, information, and any other resources for effective civil defence emergency management in its area:
   (d) respond to and manage the adverse effects of emergencies in its area:
-  (e) carry out recovery activities:
+  (e) plan and carry out recovery activities:
   (f) when requested, assist other Groups in the implementation of civil defence emergency management in their areas (having regard to the competing civil defence emergency management demands within the Group's own area and any other requests for assistance from other Groups):
   (g) within its area, promote and raise public awareness of, and compliance with, this Act and legislative provisions relevant to the purpose of this Act:
   (h) monitor and report on compliance within its area with this Act and legislative provisions relevant to the purpose of this Act:
@@ -242,8 +290,9 @@ Each member of a Civil Defence Emergency Management Group—
   (a) the chief executive officer of each member local authority or a person acting on the chief executive officer's behalf; and
   (b) a senior Police employee who is assigned for the purpose by the Commissioner of Police; and
   (c) a senior member of the Fire Service who is assigned for the purpose by the National Commander; and
-  (d) the chief executive officer of the hospital and health services operating in the area or a person acting on the chief executive officer's behalf; and
+  (d) the chief executive or a senior member of a provider of health and disability services operating in the area; and
   (e) any other persons that may be co-opted by the Civil Defence Emergency Management Group.
+(1A) A person co-opted under subsection (1)﻿(e) may include a senior ambulance service officer.
 (2) Each Executive Group is responsible to the Civil Defence Emergency Management Group for—
   (a) providing advice to the Civil Defence Emergency Management Group and any subgroups or subcommittees of the Group:
   (b) implementing, as appropriate, the decisions of the Civil Defence Emergency Management Group:
@@ -286,55 +335,59 @@ Each member of a Civil Defence Emergency Management Group—
 (3) The cost of the administrative and related services must be agreed from time to time by each Group.
 (4) Unless the members of a Group agree otherwise, the costs agreed under subsection (3) must be divided equally among the members and each member must pay 1 share of the cost.
 
-**Appointment of persons who may declare state of local emergency**
+**Persons authorised to declare state of local emergency or give notice of local transition period**
 
-### 25 Appointment of persons who may declare state of local emergency
-(1) A Civil Defence Emergency Management Group must appoint at least 1 person as a person authorised to declare a state of local emergency for its area.
-(2) The person or persons appointed under subsection (1) must be chosen from the representatives of the members of the Group.
-(3) If a Group appoints more than 1 person under this section, it must state in the instrument of appointment—
-  (a) whether the appointee has equal status to make a declaration or whether the appointee is authorised only to act in the absence of other named persons:
+### 25 Persons appointed and otherwise authorised to declare state of local emergency or give notice of local transition period
+(1) A Civil Defence Emergency Management Group must appoint—
+  (a) at least 1 person as a person authorised to declare a state of local emergency for its area; and
+  (b) at least 1 person as a person authorised to give notice of a local transition period for its area.
+(2) A person appointed under subsection (1) must be chosen from representatives of the members of the Group.
+(3) If a Group appoints more than 1 person under subsection (1)﻿(a) or (b), it must state in the instrument of appointment—
+  (a) whether the appointees have equal status to make a declaration, or give a notice, or whether any of the appointees is authorised to act only in the absence of another named person; and
   (b) any other conditions or limitations.
-(4) If no appointed person is or is likely to be able to exercise his or her functions, duties, and powers under this Act, a representative of any member of the Group may exercise the power to declare a state of local emergency.
-(5) Despite subsections (1) to (4), the mayor of a territorial authority, or an elected member of the territorial authority designated to act on behalf of the mayor if the mayor is absent, may declare a state of local emergency that covers the district of that territorial authority.
+(4) If no person appointed under subsection (1) is or is likely to be able to perform or exercise his or her functions, duties, and powers under this Act, a representative of any member of the Group may exercise the power to declare a state of local emergency, or give notice of a local transition period.
+(5) Despite subsections (1) to (4), the mayor of a territorial authority, or an elected member of that territorial authority designated to act on behalf of the mayor if the mayor is absent, may declare a state of local emergency, or give notice of a local transition period, that covers the district of that territorial authority.
 
 **Group Controllers**
 
 ### 26 Appointment of Group Controllers
 (1) A Civil Defence Emergency Management Group must appoint, either by name or by reference to the holder of an office, a suitably qualified and experienced person to be the Group Controller for its area.
 (2) A Group must appoint, either by name or by reference to the holder of an office, at least 1 suitably qualified and experienced person to be the person or persons who are to perform the functions and duties and exercise the powers of the Group Controller on the occurrence of a vacancy in the office of Group Controller or the absence from duty of the Group Controller for any reason, for the duration of the vacancy or absence.
-(3) A Group may, at any time, remove from office or replace a Group Controller appointed under subsection (1) or subsection (2).
+(3) A Group may, at any time, remove from office or replace a Group Controller appointed under subsection (1) or (2).
 (4) A Group may—
   (a) delegate the authority to replace the Group Controller during a state of emergency with a person appointed under subsection (2) to 1 or more of the representatives who are authorised under section 25(1) to declare a state of emergency for that group area; and
   (b) impose limitations on the circumstances in which the authority delegated under paragraph (a) may be used.
 
-### 27 Appointment of Local Controller
-(1) A Civil Defence Emergency Management Group may appoint 1 or more persons to be a Local Controller, and direct that person or persons to carry out any of the functions and duties of, or delegated to, that Group's Group Controller and to exercise the powers of Controllers in the area for which the Group Controller is appointed, including, but not limited to, the powers in sections 86 to 94.
-(2) Despite anything in subsection (1), the Local Controller must follow any directions given by the Group Controller during an emergency.
+### 27 Appointment of Local Controllers
+(1) A Civil Defence Emergency Management Group may appoint 1 or more persons to be a Local Controller, and direct that person or persons to carry out any of the functions and duties of, or delegated to, the Group Controller of the Group and to exercise the powers of Controllers in the area for which the Group Controller is appointed, including, but not limited to, the powers in sections 86 to 94.
+(2) Despite anything in subsection (1), a Local Controller must follow any directions given by the Group Controller during an emergency.
 
 ### 28 Functions of Group Controllers
 (1) The Group Controller must, during a state of local emergency for the area for which the Group Controller is appointed, direct and co-ordinate, for the purposes of this Act, the use of the personnel, material, information, services, and other resources made available by departments, Civil Defence Emergency Management Groups, and other persons.
 (2) The Group Controller must also perform any functions or duties delegated to the Group Controller by the Civil Defence Emergency Management Group or conferred on Controllers by this Act or any other enactment, and may exercise any power conferred on the Group Controller by delegation under this Act.
-(3) A Group Controller or person directed under section 27 may authorise any suitably qualified and experienced person to exercise any power or function or fulfil any duty of that Group Controller or directed person, including the power to authorise the use of those powers, functions, and duties.
+(3) A Group Controller or person directed under section 27 may authorise any suitably qualified and experienced person to perform any function or duty or exercise any power of that Group Controller or directed person, including the power to authorise the use of those powers, functions, and duties.
 (4) No Group Controller or person directed under section 27 may exercise any power conferred on Controllers by this Act during any state of national emergency in any manner contrary to any priorities for the use of resources and services that have been determined by the Director or National Controller.
 
-**Recovery Co-ordinator**
+**Group Recovery Managers and Local Recovery Managers**
 
-### 29 Appointment and functions of Recovery Co-ordinator
-(1) If the Minister is satisfied that a Civil Defence Emergency Management Group is, or is likely to be, unable to ensure the effective carrying out of recovery activities in its area, the Minister may, by notice in the Gazette, appoint, on the terms and conditions that the Minister considers fit, a suitably qualified and experienced person as the Recovery Co-ordinator for the area.
-(2) A Recovery Co-ordinator holds office for a specified term, not exceeding 28 days, and may be reappointed.
-(3) No person is employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 merely because he or she holds the office of Recovery Co-ordinator.
-(4) Every notice appointing or reappointing a Recovery Co-ordinator must—
-  (a) specify the term of the appointment:
-  (b) specify the area in respect of which the powers of the Recovery Co-ordinator may be exercised:
-  (c) specify whether or not the Recovery Co-ordinator has the functions, duties, and powers of a Group Controller that may be conferred on the Recovery Co-ordinator under section 30:
-  (d) be published in the Gazette as soon as practicable.
+### 29 Appointment of Group Recovery Managers
+(1) A Civil Defence Emergency Management Group must appoint, either by name or by reference to the holder of an office, a suitably qualified and experienced person to be the Group Recovery Manager for its area.
+(2) A Group must appoint, either by name or by reference to the holder of an office, at least 1 suitably qualified and experienced person to perform the functions and duties and exercise the powers of the Group Recovery Manager on the occurrence of a vacancy in the office of Group Recovery Manager or in the absence from duty of the Group Recovery Manager for any reason, for the duration of the vacancy or absence.
+(3) A Group may, at any time, remove from office or replace a Group Recovery Manager appointed under subsection (1) or (2).
+(4) A Group may—
+  (a) delegate the authority to replace the Group Recovery Manager during a transition period with a person appointed under subsection (2) to 1 or more of the representatives who are authorised under section 25(1)﻿(b) to give notice of a transition period for its area; and
+  (b) impose conditions or limitations on the circumstances in which the authority under paragraph (a) may be used.
 
-### 30 Powers of Recovery Co-ordinator
-(1) A Recovery Co-ordinator is responsible to the Director for undertaking recovery activities for the area for which he or she has been appointed.
-(2) Subject to the directions of the Director, a Recovery Co-ordinator has all the functions, duties, and powers of a Group Controller if specified in the appointment notice described in section 29(4) and—
-  (a) there is no civil defence emergency management group plan; or
-  (b) the Minister is satisfied that the Group Controller for the area is, or is likely to be, unable to exercise the functions, duties, and powers that are conferred on or imposed on a Group Controller by this Act or any other enactment.
-(3) If the powers referred to in subsection (2) are conferred on any Recovery Co-ordinator, the Recovery Co-ordinator must be treated as the Group Controller for the purposes of this Act for the area for which the Group Controller has been appointed.
+### 30 Appointment of Local Recovery Managers
+(1) A Civil Defence Emergency Management Group may appoint, either by name or by reference to the holder of an office, 1 or more suitably qualified and experienced persons to be a Local Recovery Manager, and direct that person or those persons to perform any of the functions and duties of, or delegated to, the Group Recovery Manager of the Group and to exercise the powers of the Group Recovery Manager in the area for which the Group Recovery Manager is appointed, including, but not limited to, the powers in sections 94H, 94I, and 94K to 94N.
+(2) Despite anything in subsection (1), a Local Recovery Manager must follow any directions given by the Group Recovery Manager during a transition period.
+
+### 30A Functions of Recovery Managers
+(1) A Group Recovery Manager must, during a local transition period for the area for which the Group Recovery Manager is appointed, direct and co-ordinate the use of the personnel, material, information, services, and other resources made available by departments, Civil Defence Emergency Management Groups, and other persons for the purpose of carrying out recovery activities.
+(2) The Group Recovery Manager must also perform any functions or duties delegated to the Group Recovery Manager by the Civil Defence Emergency Management Group or conferred on Group Recovery Managers by this Act or any other enactment, and may exercise any power conferred on the Group Recovery Manager by delegation under this Act.
+(3) A Group Recovery Manager or a Local Recovery Manager may authorise any suitably qualified and experienced person to perform any function or duty or exercise any power of that Group Recovery Manager or Local Recovery Manager, except the power to authorise another person to perform those functions and duties or to exercise those powers.
+(4) A Group Recovery Manager or Local Recovery Manager who authorises a person under subsection (3) to perform a function or duty or to exercise a power remains responsible and accountable under this Act for the performance of the function or duty or the exercise of the power.
+(5) No Group Recovery Manager or Local Recovery Manager, and no person performing the functions or duties or exercising the powers of a Group Recovery Manager or Local Recovery Manager, may exercise any power conferred on Group Recovery Managers by this Act during any national transition period in any manner contrary to any priorities for the use of resources and services that have been determined by the Director or National Recovery Manager.
 
 ## Part 3 — Civil defence emergency management planning and civil defence emergency management duties
 
@@ -398,7 +451,7 @@ All persons exercising functions in relation to the development of civil defence
   (a) the hazards and risks to be managed at the national level:
   (b) the civil defence emergency management necessary at the national level to manage the hazards and risks described under paragraph (a):
   (c) the objectives of the plan and the relationship of each objective to the national civil defence emergency management strategy:
-  (d) the co-ordination of civil defence emergency management during a state of national emergency:
+  (d) the co-ordination of civil defence emergency management during a state of national emergency or a national transition period:
   (e) the period for which the plan remains in force.
 (3) The national civil defence emergency management plan may authorise a person to exercise the power in section 88.
 (4) A national civil defence emergency management plan made under this section is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
@@ -471,13 +524,15 @@ Every Civil Defence Emergency Management Group must prepare and approve a civil 
 
 ### 49 Proposed plan to be sent to Minister
 (1) Before approving a civil defence emergency management group plan, a Civil Defence Emergency Management Group must send a copy of the proposed plan to the Minister for his or her comments and must allow the Minister 20 working days to comment.
+(1A) The Civil Defence Emergency Management Group must have regard to any comments made by the Minister.
 (2) The plan must state and provide for—
   (a) the local authorities that have united to establish the Civil Defence Emergency Management Group:
   (b) the hazards and risks to be managed by the Group:
   (c) the civil defence emergency management necessary to manage the hazards and risks described under paragraph (b):
   (d) the objectives of the plan and the relationship of each objective to the national civil defence emergency management strategy:
+  (da) the area of the Group:
   (e) the apportionment between local authorities of liability for the provision of financial and other resources for the activities of the Group, and the basis for that apportionment:
-  (f) the arrangements for declaring a state of emergency in the area of the Group:
+  (f) the arrangements for declaring a state of emergency:
   (g) the arrangements for co-operation and co-ordination with other Groups:
   (h) the period for which the plan remains in force.
 (3) The Director must issue written guidelines in relation to the matters described in subsection (2).
@@ -490,7 +545,7 @@ The Director must, within 12 months after the commencement of this Act, issue th
 (1) Any written material or document that, in the opinion of the Civil Defence Emergency Management Group, is too large or otherwise impractical to be printed as part of a civil defence emergency management group plan may be incorporated by reference.
 (2) Any material incorporated by reference under this section is to be treated for all purposes as forming part of the plan.
 (3) If any amendment to the material incorporated by reference under this section is made, the amendment does not come into force as part of the plan until—
-  (a) an amendment to that effect to the plan has been made under this Act; or
+  (a) an amendment to that effect to the plan has been made under this Act; and
   (b) a date specified by the Group by notice in the major metropolitan daily newspaper circulating in the Group's area.
 (4) All material incorporated by reference under this section must be available at the office of the Group and copies of that material must be available for purchase for a reasonable charge.
 
@@ -678,6 +733,7 @@ Emergency services must—
 (2) A declaration made under subsection (1)—
   (a) must specify the time and date on which it is made; and
   (b) terminates the state of emergency when made.
+(3) In addition, a state of local emergency is terminated when a notice of a local transition period given by the Minister under section 94B(3) comes into force.
 
 ### 73 Form and publication of declaration of state of emergency and declaration extending or terminating state of emergency
 (1) A person who declares a state of emergency, or extends or terminates a state of emergency, must do so by a declaration in the appropriate form prescribed in regulations made under section 115, or a form of similar effect.
@@ -693,11 +749,11 @@ Emergency services must—
 ### 75 Power of Director to act on default by others
 (1) If a Civil Defence Emergency Management Group or person (other than the Minister) fails to commence or to complete the performance of a function or duty under this Act within the time that the Director considers reasonable, the Director may commence and complete the performance of the function or duty.
 (2) For the purposes of this section, the Director may employ any officers, employees, contractors, and others that may be necessary.
-(3) Subject to subsections (4) to (6), if work is done or a function or duty is exercised or performed by or on behalf of the Director under this section, it must be treated for all purposes as having been done, exercised, or performed, as the case may be, by the Civil Defence Emergency Management Group or person responsible for performing the function or duty.
-(4) All expenses incurred by the Director under this section must be paid in the first instance out of public money.
-(5) Public money so paid, together with reasonable costs for administration, is recoverable as a debt due to the Crown from the Civil Defence Emergency Management Group or person responsible for performing the function or duty, or may be deducted from any money payable by the Crown to that debtor.
-(6) All money recovered from a debtor under this section, or deducted under subsection (5), must be paid into a Crown Bank Account or a departmental bank account.
-(7) Nothing in this section limits the powers of the Minister under section 29.
+(3) Subject to subsections (4) to (6), if a function or duty is performed by or on behalf of the Director under this section, it must be treated for all purposes as having been performed, by the Civil Defence Emergency Management Group or person responsible for performing the function or duty.
+(4) All expenses incurred by the Director under this section must be authorised in accordance with the Public Finance Act 1989.
+(5) Expenses so incurred, together with reasonable costs for administration, are recoverable as a debt due to the Crown from the Civil Defence Emergency Management Group or the person responsible for performing the function or duty, or may be recovered by deduction from any money payable by the Crown to that Civil Defence Emergency Management Group or the person responsible for performing the function or duty.
+(6) All money recovered from a debtor under this section, or deducted under subsection (5), must be paid into a Crown Bank Account or a Departmental Bank Account in accordance with section 65U of the Public Finance Act 1989.
+(7)
 
 ### 76 Power to require information
 (1) The Director, or a Civil Defence Emergency Management Group, or a person acting under the authority of the Director or Group, may, by notice in writing, require any person to give the Director or the Group information described in subsection (2).
@@ -710,7 +766,7 @@ Emergency services must—
   (c) free of charge.
 
 ### 77 Appeal against requirement to give information
-(1) A person who is required to give information under section 76 may appeal to a District Court on the grounds that the requirement is unreasonable.
+(1) A person who is required to give information under section 76 (including as applied and modified by section 94I(2)) may appeal to a District Court on the grounds that the requirement is unreasonable.
 (2) The appeal must be brought within 10 working days after the date on which the requirement to give information was imposed, or within any further time that a District Court may allow.
 (3) The court must inquire into the circumstances of the requirement and may vary, rescind, or confirm it.
 (4) An appeal against a requirement to give information operates as a stay of the requirement.
@@ -748,14 +804,13 @@ A warrant issued under section 78 must—
 (2) Any person to whom a constable gives any information or document under subsection (1)﻿(a) must return it to the person from whom it was seized when the information is no longer required for the purpose for which it was seized.
 
 ### 82 Certain information not to be disclosed or seized
-(1) No requirement to give information that is imposed under section 76 requires any person to give—
+(1) No requirement to give information that is imposed under section 76 (including as applied and modified by section 94I(2)) requires any person to give—
   (a) information concerning the medical condition or history of any person; or
   (b) information that is protected by legal professional privilege.
 (2) Nothing in section 80 authorises the seizure of information that is of a kind described in subsection (1).
 
 ### 83 Restriction on disclosure of information
-(1) If information is received by any person following a requirement to give information imposed under section 60 or section 76 or following the execution of a warrant issued under section 78, that person must not disclose or use that information except for the purposes of this Act.
-(2) No person to whom any information is disclosed under subsection (1) may disclose or use that information except for the purposes of this Act.
+A person who receives information following a requirement to give information imposed under section 60, 76, 91(2), or 94N(2), or in the execution of a warrant issued under section 78, may use or disclose that information only for the purposes of this Act.
 
 ### 84 Minister's power of direction
 (1) This section applies if—
@@ -784,7 +839,7 @@ A warrant issued under section 78 must—
 (2) A Civil Defence Emergency Management Group must not act inconsistently with any directions given by the Minister or the Director.
 
 ### 86 Evacuation of premises and places
-If a state of emergency is in force and, in the opinion of a Controller or any constable, the action authorised by this section is necessary for the preservation of human life, that person or a person authorised by him or her may require, within the area or district in which the emergency is in force,—
+If a state of emergency is in force and, in the opinion of a Controller or any constable, the action authorised by this section is necessary for the preservation of human life, that person or a person authorised by him or her may direct, within the area or district in which the emergency is in force,—
   (a) the evacuation of any premises or place, including any public place; or
   (b) the exclusion of persons or vehicles from any premises or place, including any public place.
 
@@ -812,9 +867,37 @@ If a state of emergency is in force, a Controller or a constable, or any other p
 (6) The owner or person in control of any property immediately before it is requisitioned under this section must provide the person exercising the power under this section with any assistance that the person may reasonably require for the effective and safe use of that property.
 
 ### 91 Power to give directions
-While a state of emergency is in force, a Controller or a constable, or any person acting under the authority of a Controller or constable, may—
+(1) While a state of emergency is in force, a Controller or a constable, or any person acting under the authority of a Controller or constable, may—
   (a) direct any person to stop any activity that may cause or substantially contribute to an emergency:
   (b) request any person, either verbally or in writing, to take any action to prevent or limit the extent of the emergency.
+(2) While a state of emergency is in force, a Controller or a constable, or any person acting under the authority of a Controller or constable, may direct—
+  (a) the owner of a structure (or the owner’s agent) to obtain an assessment of the effect of the emergency (and any related subsequent events) on the structure:
+  (b) the owners of structures of a particular type (or the owners’ agents) to obtain assessments of the effect of the emergency (and any related subsequent events) on the structures of that type that they own.
+(3) A person may not give a direction under subsection (2) unless the person has had regard to whether the structure or type of structure may, in the circumstances, pose a risk of injury or a risk to the safety of life or the safety of other property.
+(4) A direction given under subsection (2) must—
+  (a) state the purpose of the assessment and specify the assessment that is required; and
+  (b) specify a reasonable time within which the assessment must be concluded; and
+  (c) require the owner (or the owner’s agent) to give a copy of the assessment to the person who gave the direction.
+(5) An owner (or owner’s agent) who is given a direction under subsection (2) must—
+  (a) obtain the assessment, which must be conducted in accordance with the direction and at the owner’s expense; and
+  (b) give a copy of the assessment to the person who gave the direction.
+(6) The owner (or the owner’s agent) may appeal to the District Court on the grounds that the direction is unreasonable.
+(7) Section 77(2) and (3) applies in relation to an appeal under subsection (6) with any necessary modifications, and section 77(4) does not apply.
+(8) Any relief that may be granted under subsection (6) is limited to the reasonable costs associated with obtaining the assessment.
+
+### 91A Notice requirements
+(1) A person who gives a direction under section 91(2)﻿(a) or (b)—
+  (a) must use reasonable endeavours, in accordance with section 114, to notify—
+    (i) each owner (or each owner’s agent) and each occupier of the structure of the direction; and
+    (ii) each owner (or each owner’s agent) and each occupier of any adjacent structure or adjoining land of the direction; and
+  (b) must attach a copy of the notice to a prominent place on, or adjacent to, the structure.
+(2) A person who gives a direction under section 91(2)﻿(b) must also give public notice of the direction that is reasonable in the circumstances.
+(3) A notice given under this section must—
+  (a) state the reasons for giving the direction; and
+  (b) describe the matter to which the direction applies; and
+  (c) state when the assessments are to be carried out; and
+  (d) state where any further information may be viewed; and
+  (e) be published in the Gazette as soon as practicable.
 
 ### 92 Power to carry out inspections, etc
 While a state of emergency is in force, a Controller or a constable, or any person acting under the authority of a Controller or constable, may examine, mark, seize, sample, secure, disinfect, or destroy any property, animal, or any other thing in order to prevent or limit the extent of the emergency.
@@ -832,29 +915,236 @@ A person exercising a power conferred on him or her by this Part must—
   (d) the Group Controller.
 (2) A person who exercises the power conferred on him or her by this section must report the full circumstances of its exercise to the Civil Defence Emergency Management Group at its next ordinary meeting or, if that is not practicable, at its next succeeding ordinary meeting.
 
+## Part 5A — Transition periods
+
+### 94A Minister may give notice of national transition period
+(1) After a state of emergency has been declared for any area, or after an emergency arises for which a state of emergency has not been declared, the Minister may give notice of a national transition period over the whole of New Zealand or any areas or districts if it appears to the Minister that a national transition period is required.
+(2) Without limiting subsection (1), the Minister must be satisfied that invoking the powers to manage, co-ordinate, or direct recovery activities is—
+  (a) in the public interest; and
+  (b) necessary or desirable to ensure a timely and effective recovery.
+(3) In deciding whether a national transition period is required, the Minister must have regard to—
+  (a) the areas or districts affected by the emergency; and
+  (b) whether the focus of activities in any area or district is moving from response to recovery, including whether a state of emergency is about to expire or be terminated; and
+  (c) the capacity of any Civil Defence Emergency Management Group and any local authority in any area or district affected by the emergency to carry out recovery activities.
+(4) If the Minister gives notice of a national transition period,—
+  (a) the Minister must advise the House of Representatives as soon as practicable; and
+  (b) any other transition period then in force in any area or district to which the national transition period applies ceases to have effect.
+
+### 94B Notice of local transition period
+(1) A person who is authorised to give notice of a local transition period by being appointed for the purpose under section 25(1)﻿(b) or otherwise authorised by section 25(4) or (5) may, after a state of emergency has been declared for the area of the Civil Defence Emergency Management Group concerned, give notice of a local transition period for the area of the Civil Defence Management Group concerned, or for 1 or more districts or wards within the area, if it appears to the person that a local transition period is required.
+(2) After an emergency arises, for which a state of emergency has not been declared, a person who is appointed or otherwise authorised under section 25 to give notice of a local transition period may do so in accordance with subsection (1) with the approval of the Minister.
+(3) After a state of emergency has been declared for the area of a Civil Defence Emergency Management Group, or after an emergency arises for which a state of emergency has not been declared, the Minister may give notice of a local transition period for the area or for 1 or more districts or wards within the area if—
+  (a) it appears to the Minister that a local transition period is required for the whole or any part of the area; and
+  (b) notice of a local transition period has not been given under subsection (1).
+(4) Without limiting subsections (1) to (3), the Minister or the appointed or otherwise authorised person must not give notice of a local transition period unless satisfied that invoking the powers to manage, co-ordinate, or direct recovery activities is—
+  (a) in the public interest; and
+  (b) necessary or desirable to ensure a timely and effective recovery.
+(5) In deciding whether a local transition period is required, the Minister or the appointed or otherwise authorised person must have regard to—
+  (a) the areas, districts, or wards affected by the emergency; and
+  (b) whether the focus of activities in any area, district, or ward is moving from response to recovery, including whether a state of emergency is about to expire or be terminated.
+(6) The Minister must also have regard to the capacity of any Civil Defence Emergency Management Group and any local authority in any area, district, or ward affected by the emergency to carry out recovery activities.
+(7) Before giving notice under subsection (3), the Minister must, in a manner the Minister considers appropriate, seek and consider comment from any affected Civil Defence Emergency Management Group and the Mayor of any affected local authority, unless—
+  (a) it is impracticable in the circumstances; or
+  (b) in the opinion of the Minister, the urgency of the situation requires the notice of transition to be given immediately.
+(8) If notice of a local transition period is given under this section over—
+  (a) the whole area of a Civil Defence Emergency Management Group, any other local transition period already in force for 1 or more districts or wards within the area ceases to have effect:
+  (b) a district within the area of a Civil Defence Emergency Management Group, any other local transition period already in force for 1 or more wards within the district ceases to have effect.
+(9) After notice of a local transition period has been given for an area (the first area) in accordance with subsections (1) to (3), a further notice of a local transition period may be given, in accordance with those subsections, for another district or ward in the area of the relevant Civil Defence Emergency Management Group that is not affected by an emergency if it appears to the person giving notice that the resources of that other district or ward are needed to assist the first area.
+(10) The fact that a person purporting to be authorised under section 25 gives notice of a local transition period is, in the absence of proof to the contrary, conclusive evidence that the person is authorised to do so.
+(11) However, nothing in this section authorises notice of a local transition period to be given for any part of New Zealand while a national transition period is in force for that part.
+
+### 94C Commencement and duration of transition periods
+(1) A transition period for an area, or part of an area, for which a state of emergency has been declared comes into force—
+  (a) on the termination of the state of emergency under section 72(1); or
+  (b) on the expiry of the state of emergency under section 70(3) or 71(4), if the transition notice states that the transition period comes into force on the expiry of the state of emergency.
+(2) In any other case, a transition period comes into force at the time and on the date the notice of transition is given.
+(3) A national transition period ends 90 days after the time and date on which the period comes into force, unless extended or terminated earlier.
+(4) A local transition period ends 28 days after the time and date on which the period comes into force, unless extended or terminated earlier.
+
+### 94D Extension of transition periods
+(1) Before a national transition period ends, the Minister may by notice extend the national transition period if it appears to the Minister that the extension is required.
+(2) Before a local transition period ends, the person who gave notice of that local transition period (or another person, including the Minister, authorised to give that notice) may by notice extend the local transition period if it appears to the person that the extension is required.
+(3) In deciding whether an extension of a transition period is required,—
+  (a) the Minister or other person must have regard to the areas, districts, or wards affected by the emergency; and
+  (b) the Minister or other person must be satisfied that invoking the powers to manage, co-ordinate, or direct recovery activities is—
+    (i) in the public interest; and
+    (ii) necessary or desirable to ensure a timely and effective recovery.
+(4) In deciding whether an extension is required, the Minister must also have regard to the capacity of any Civil Defence Emergency Management Group and any local authority in any area, district, or ward affected by the emergency to carry out recovery activities.
+(5) Before giving notice under subsection (2), the Minister must, in a manner the Minister considers appropriate, seek and consider comment from any affected Civil Defence Emergency Management Group and the Mayor of any affected local authority, unless—
+  (a) it is impracticable in the circumstances; or
+  (b) in the opinion of the Minister, the urgency of the situation requires the notice of extension to be given immediately.
+(6) An extension of a transition period comes into force immediately before the end of the transition period that is extended and ends,—
+  (a) in the case of a national transition period, 90 days after the time and date on which the extension comes into force, unless terminated earlier; or
+  (b) in the case of a local transition period, 28 days after the time and date on which the extension comes into force, unless terminated earlier.
+(7) A transition period may be extended more than once.
+(8) If the Minister extends a national transition period, the Minister must advise the House of Representatives as soon as practicable.
+(9) If a local transition period is extended a third or further time,—
+  (a) the person (other than the Minister) who extends the period must give the Minister a copy of the notice at the same time as notifying the public of that extension under section 94F(4); and
+  (b) the Minister must advise the House of Representatives as soon as practicable.
+
+### 94E Termination of transition periods
+(1) The Minister may by notice terminate a national transition period.
+(2) The person who gave notice of a local transition period (or the Minister or another person appointed or otherwise authorised to give that notice) may by notice terminate the local transition period.
+(3) A notice terminating a transition period terminates the relevant transition period when given.
+(4) Before giving notice under subsection (2), the Minister must, in a manner the Minister considers appropriate, seek and consider comment from any affected Civil Defence Emergency Management Group and the Mayor of any affected local authority, unless—
+  (a) it is impracticable in the circumstances; or
+  (b) in the opinion of the Minister, the urgency of the situation requires the notice of termination to be given immediately.
+(5) A notice terminating a transition period must—
+  (a) specify the time and date on which it is given; and
+  (b) specify the areas, districts, or wards to which the transition period applies; and
+  (c) be in the form prescribed by regulations made under section 115 or a form of similar effect.
+(6) A person who terminates a transition period must—
+  (a) immediately notify the public by any means of communication that are reasonably practicable in the circumstances of the case; and
+  (b) ensure that the notice of termination is published in the Gazette as soon as practicable after it is given.
+(7) If a state of emergency is declared over an area (or any part of an area) to which a transition period applies, the transition period ends without a termination notice being given.
+
+### 94F Content and publication of transition period notices and their extensions
+(1) A notice of a transition period must—
+  (a) specify the time and date on which the notice is given; and
+  (b) specify the areas, districts, or wards to which it applies; and
+  (c) be in the form prescribed by regulations made under section 115 or a form of similar effect.
+(2) A notice of an extension of a transition period must—
+  (a) specify the time and date on which the notice is given; and
+  (b) specify the areas, districts, or wards to which it applies; and
+  (c) be in the form prescribed by regulations made under section 115 or a form of similar effect.
+(3) The validity of a notice of a transition period or a notice of an extension of a transition period is not affected by the inclusion of any additional information.
+(4) A person who gives notice of a transition period, or who extends a transition period, must,—
+  (a) as soon as practicable, notify the public of the notice by publishing the notice—
+    (i) in 1 or more newspapers circulating in the areas, districts, or wards to which the notice relates; and
+    (ii) on an Internet site to which the public has free access; and
+  (b) ensure that the notice or extension is published in the Gazette as soon as practicable.
+
+## Part 5B — Powers in relation to transition periods
+
+### 94G Application
+(1) This Part applies if a transition period is in force.
+(2) In addition, Part 5 (other than those provisions that apply only during a state of emergency) applies if a transition period is in force.
+(3) A Recovery Manager may exercise the powers conferred on Recovery Managers under this Part if the exercise of the powers—
+  (a) is in respect of those areas, districts, or wards for which the Recovery Manager is responsible; and
+  (b) is, in the opinion of the Recovery Manager,—
+    (i) in the public interest; and
+    (ii) necessary or desirable to ensure a timely and effective recovery; and
+    (iii) proportionate in the circumstances.
+(4) A constable may exercise the powers conferred on constables under this Part if the exercise of the powers is, in the opinion of the constable,—
+  (a) in the public interest; and
+  (b) necessary or desirable to ensure a timely and effective recovery; and
+  (c) proportionate in the circumstances.
+
+### 94H General transition period powers
+A Recovery Manager may—
+  (a) carry out or require to be carried out all or any of the following:
+    (i) works:
+    (ii) clearing roads and other public places:
+    (iii) examining and marking any property, animal, or any other thing:
+    (iv) removing or disposing of, or securing or otherwise making safe, dangerous structures and materials wherever they may be:
+  (b) provide for the conservation and supply of food, fuel, and other essential supplies:
+  (c) disseminate information and advice to the public.
+
+### 94I Power to require information
+(1) A Recovery Manager may require any person to give the Recovery Manager information in accordance with section 76, as if a reference in that section to a Civil Defence Emergency Management Group were a reference to the Recovery Manager.
+(2) The provisions of sections 76, 77, 82, and 83 apply to a requirement under subsection (1) as if it were a requirement by a Civil Defence Emergency Management Group under section 76(1).
+
+### 94J Minister's power of direction
+(1) This section applies if the Minister considers that, having regard to all the circumstances, it is expedient to exercise the power in subsection (2).
+(2) If this section applies, the Minister may direct the Director or any Civil Defence Emergency Management Group or person—
+  (a) to perform any of the functions or duties or exercise any of the powers conferred on the Director, Group, or person under this Part; or
+  (b) to cease to perform any of the functions or duties or to exercise any of the powers conferred on the Director, Group, or person under this Part.
+(3) If the Minister directs a person or a Civil Defence Emergency Management Group under this section, the Minister may direct that the functions or duties be performed or the powers be exercised under the control and to the satisfaction of the Director.
+
+### 94K Evacuation of premises and places
+Despite anything in section 94G, a Recovery Manager or a constable may, if necessary, in his or her opinion, for the preservation of human life, direct—
+  (a) the evacuation of any premises or place, including any public place:
+  (b) the exclusion of any persons or vehicles from any premises or place, including any public place.
+
+### 94L Entry on premises and places
+A Recovery Manager or a constable may enter, and if necessary break into, any premises or place if he or she believes on reasonable grounds that the action is necessary for—
+  (a) saving life, preventing injury, or rescuing and removing injured or endangered persons; or
+  (b) permitting or facilitating the carrying out of any urgent measure for the relief of suffering or distress.
+
+### 94M Closing roads and public places
+A Recovery Manager or constable may, in order to prevent, limit, or reduce the consequences of an emergency, totally or partially prohibit or restrict public access, with or without vehicles, to any road or public place.
+
+### 94N Power to give directions
+(1) A Recovery Manager or a constable may—
+  (a) direct any person to stop any activity that—
+    (i) may cause, or substantially contribute to the consequences of, an emergency; or
+    (ii) may prevent or substantially hinder recovery from an emergency:
+  (b) request any person, either verbally or in writing, to take any action to prevent or limit or reduce the consequences of the emergency.
+(2) A Recovery Manager or a constable may direct—
+  (a) the owner of a structure (or the owner’s agent) to obtain an assessment of the effect of the emergency (and any related subsequent events) on the structure:
+  (b) the owners of structures of a particular type (or the owners’ agents) to obtain assessments of the effect of the emergency (and any related subsequent events) on the structures of that type that they own.
+(3) A person may not give a direction under subsection (2) unless the person has had regard to whether the structure or type of structure may, in the circumstances, pose a risk of injury or a risk to the safety of life or the safety of other property.
+(4) A direction given under subsection (2) must—
+  (a) state the purpose of the assessment and specify the assessment that is required; and
+  (b) specify a reasonable time within which the assessment must be concluded; and
+  (c) require the owner (or the owner’s agent) to give a copy of the assessment to the person who gave the direction.
+(5) An owner (or owner’s agent) who is given a direction under subsection (2) must—
+  (a) obtain the assessment, which must be conducted in accordance with the direction and at the owner’s expense; and
+  (b) give a copy of the assessment to the person who gave the direction.
+(6) The owner (or the owner’s agent) may appeal to the District Court on the grounds that the direction is unreasonable.
+(7) Section 77(2) and (3) applies in relation to an appeal under subsection (6) with any necessary modifications, and section 77(4) does not apply.
+(8) Any relief that may be granted under subsection (6) is limited to the reasonable costs associated with obtaining the assessment.
+
+### 94NA Notice requirements
+(1) A person who gives a direction under section 94N(2)﻿(a) or (b)—
+  (a) must use reasonable endeavours, in accordance with section 114, to notify—
+    (i) each owner (or each owner’s agent) and each occupier of the structure of the direction; and
+    (ii) each owner (or each owner’s agent) and each occupier of any adjacent structure or adjoining land of the direction; and
+  (b) must attach a copy of the notice to a prominent place on, or adjacent to, the structure.
+(2) A person giving a direction under section 94N(2)﻿(b) also must give public notice of the direction that is reasonable in the circumstances.
+(3) A notice given under this section must—
+  (a) state the reasons for giving the direction; and
+  (b) describe the matter to which the direction applies; and
+  (c) state when the assessments are to be carried out; and
+  (d) state where any further information may be viewed; and
+  (e) be published in the Gazette as soon as practicable.
+
+### 94O Person exercising emergency powers to provide proof of identity
+A person exercising a power conferred on him or her by this Part must—
+  (a) have with him or her, and produce if requested to do so, evidence of his or her identity; and
+  (b) if requested to do so, produce evidence of or give a general explanation of the authority under which he or she is acting and the power or powers he or she is exercising.
+
+### 94P Reporting
+(1) If a Recovery Manager or a person acting under the authority of a Recovery Manager exercises a power under this Part in relation to a national transition period, the National Recovery Manager must give a written report to the Director.
+(2) If a Recovery Manager or a person acting under the authority of a Recovery Manager exercises a power under this Part in relation to a local transition period, the Recovery Manager must give—
+  (a) a written report to the Director; and
+  (b) a copy of the report to the Civil Defence Emergency Management Group.
+(3) A report and a copy of a report under subsection (1) or (2) must be given within 7 days after the date on which the relevant transition period ends.
+(4) If a power was exercised by a person other than the Recovery Manager giving the report, that Recovery Manager must consult with that person in preparing the report.
+(5) The report must—
+  (a) identify the power or powers exercised under this Part and the person who exercised the power or powers; and
+  (b) include the reasons for the exercise of that power or those powers.
+(6) On receiving a report under—
+  (a) subsection (1), the Director must give a copy of the report to the Minister; and
+  (b) subsection (2)﻿(a), the Director may give a copy of the report to the Minister.
+(7) If the Minister receives a copy of a report under subsection (6), the Minister must present it to the House of Representatives as soon as practicable.
+(8) If the National Recovery Manager gives a report to the Director under subsection (1), the National Recovery Manager must also publish a copy of the report on an Internet site as soon as practicable.
+(9) On receiving a copy of a report under subsection (2)﻿(b), a Civil Defence Emergency Management Group must publish it on the Group’s Internet site as soon as practicable.
+(10) In this section, Recovery Manager means a person appointed under section 29 or 30, but does not include any person authorised by the Recovery Manager.
+
 ## Part 6 — Offences, penalties, and proceedings
 
 ### 95 Failure to comply with requirement in civil defence emergency management plan
 A person commits an offence who intentionally fails to comply with a requirement in a civil defence emergency management plan.
 
 ### 96 Withholding information or giving false or misleading information
-(1) A person commits an offence who, when required under section 76 to provide information,—
+(1) A person commits an offence who, when required under section 76, 91, 94I(1), or 94N to provide information,—
   (a) intentionally fails or refuses to supply the information within the time specified in the request; or
   (b) knowingly gives false information.
-(2) No prosecution may be brought under this section before the time for appeal has expired under section 77 and, if a person appeals under that section, no prosecution may be brought under this section pending the determination of the appeal.
+(2) No prosecution may be brought under this section before the time for appeal has expired under section 77 (including as applied and modified by section 94I(2)) and, if a person appeals under that section, no prosecution may be brought under this section pending the determination of the appeal.
 
 ### 97 Disclosing information
-A person who intentionally discloses or uses information in breach of section 83 commits an offence.
+A person who intentionally discloses or uses information in breach of section 83 (including as applied and modified by section 94I(2)) commits an offence.
 
 ### 98 Obstruction
-A person commits an offence who, during a state of emergency, threatens, assaults, or intentionally obstructs or hinders any person in that person's exercise or performance of a function, power, or duty under this Act.
+A person commits an offence who, during a state of emergency or transition period, threatens, assaults, or intentionally obstructs or hinders any person in that person's exercise or performance of a function, power, or duty under this Act.
 
 ### 99 Failure to comply with direction to evacuate premises or place
-(1) A person commits an offence who intentionally fails to comply with any direction given to the person under section 86.
-(2) It is a defence to any proceedings for an offence against this section if the court is satisfied that the Controller or constable did not have reasonable grounds for believing that in all the circumstances of the case the requirement was necessary for the preservation of human life.
+(1) A person commits an offence who intentionally fails to comply with any direction given to the person under section 86 or 94K.
+(2) It is a defence to any proceedings for an offence against this section if the court is satisfied that the Controller, Recovery Manager, or constable did not have reasonable grounds for believing that in all the circumstances of the case the requirement was necessary for the preservation of human life.
 
 ### 100 Failure to comply with prohibition or restriction on access to road or public place
-A person commits an offence who intentionally fails to comply with any prohibition or restriction imposed under section 88.
+A person commits an offence who intentionally fails to comply with any prohibition or restriction imposed under section 88 or 94M.
 
 ### 101 Offences in relation to requisitioning
 (1) A person commits an offence who—
@@ -864,10 +1154,10 @@ A person commits an offence who intentionally fails to comply with any prohibiti
 (3) It is a defence in any proceedings for an offence against subsection (1)﻿(b) if the court is satisfied that the person had reasonable grounds for not providing assistance.
 
 ### 102 Failure to comply with direction
-A person commits an offence who intentionally fails to comply with a direction given under section 91(a).
+A person commits an offence who intentionally fails to comply with a direction given under section 91 or 94N.
 
 ### 103 Personation
-A person commits an offence who intentionally personates or falsely represents himself or herself to be the Director, a Controller, a member of a Civil Defence Emergency Management Group, or a person acting under the authority of any of those persons, or any person duly authorised or employed for carrying out any provision of this Act or any civil defence emergency management plan.
+A person commits an offence who intentionally personates or falsely represents himself or herself to be the Director, a Controller, a Recovery Manager, a member of a Civil Defence Emergency Management Group, or a person acting under the authority of any of those persons, or any person duly authorised or employed for carrying out any provision of this Act or any civil defence emergency management plan.
 
 ### 104 Penalty for offences
 A person who commits an offence against this Act is liable on conviction,—
@@ -905,19 +1195,19 @@ A person who commits an offence against this Act is liable on conviction,—
 (6) If there is any dispute as to the entitlement of any person to compensation under this section, or as to the amount of the compensation, or as to the liability of the Crown or any Civil Defence Emergency Management Group or other person to pay the compensation, the matter may be determined by a court of competent jurisdiction.
 
 ### 108 Compensation for loss or damage to personal property
-(1) Subject to subsections (3) and (4), every member of a Civil Defence Emergency Management Group, and any other person who carries out civil defence emergency management under the direction of the Director or a Civil Defence Emergency Management Group or a Controller or a Recovery Co-ordinator, and who suffers loss of or damage to his or her personal property occasioned by the exercise or performance of work or duties arising from a state of emergency is entitled to receive compensation equal to—
+(1) Subject to subsections (3) and (4), every member of a Civil Defence Emergency Management Group, and any other person who carries out civil defence emergency management under the direction of the Director or a Civil Defence Emergency Management Group or a Controller or a Recovery Manager, and who suffers loss of or damage to his or her personal property occasioned by the exercise or performance of work or duties arising from a state of emergency or a transition period is entitled to receive compensation equal to—
   (a) the value of any personal property that has been lost; or
   (b) the diminution in value of any personal property that has been damaged.
 (2) Subsection (1) may, at the discretion of the Minister, be applied to any person who is not a person referred to in that subsection.
 (3) Subsection (1) does not apply to any loss of or damage to property to the extent to which that loss or damage is covered by a contract of insurance.
 (4) A person is not entitled to receive any compensation under subsection (1) to the extent to which the person has recovered, or, having regard to the circumstances of the case, may reasonably be expected to recover, any damages, compensation, or ex gratia payment for the loss or damage.
 (5) Any compensation payable under subsection (1) must be paid by—
-  (a) the Crown if the person entitled to the payment was, at the time of the loss or damage, carrying out civil defence emergency management under the control of the Director or the National Controller or any person acting under the authority of the Director or the National Controller:
+  (a) the Crown if the person entitled to the payment was, at the time of the loss or damage, carrying out civil defence emergency management under the control of the Director, the National Controller, or the National Recovery Manager or any person acting under the authority of the Director, the National Controller, or the National Recovery Manager:
   (b) the Civil Defence Emergency Management Group if the person entitled to the payment was, at the time of the loss or damage, carrying out civil defence emergency management under the control of—
     (i) the Civil Defence Emergency Management Group; or
     (ii) the Group Controller appointed by the Civil Defence Emergency Management Group; or
-    (iii) a Recovery Co-ordinator; or
-    (iv) any person acting under the authority of the Civil Defence Emergency Management Group or Group Controller.
+    (iii) a Recovery Manager; or
+    (iv) any person acting under the authority of the Civil Defence Emergency Management Group, the Group Controller, or a Group Recovery Manager appointed by the Group.
 (6) If there is any dispute as to the entitlement of any person to compensation under this section, or as to the amount of the compensation, or as to the liability of the Crown or any Civil Defence Emergency Management Group to pay the compensation, the matter may be determined by a court of competent jurisdiction.
 (7) A payment of compensation by the Crown under this section must be made out of public money appropriated by Parliament for the purpose.
 (8) Despite anything to the contrary in the Social Security Act 1964, nothing in this section may be construed as to in any way limit or affect the entitlement of any person to any benefit under that Act.
@@ -926,6 +1216,8 @@ A person who commits an offence against this Act is liable on conviction,—
 (1) This section does not apply if section 107 or section 108 applies.
 (2) A person who has suffered loss or damage, as a result of any action or measure duly taken under instructions issued under any of sections 86 to 92 by the National Controller or a constable, or a person authorised by the National Controller or constable, may recover compensation from the Crown if the action or measure was such that the good done, or likely to be done, by the action or measure for that person was disproportionately less than the loss or damage suffered by that person as a result of that action or that measure.
 (3) A person who has suffered loss or damage, as a result of any action or measure duly taken under instructions issued under any of sections 86 to 92 by a Group Controller, or a person authorised by him or her, may recover compensation from the Civil Defence Emergency Management Group that appointed the Group Controller if the action or measure was such that the good done, or likely to be done, by the action or measure for that person was disproportionately less than the loss or damage suffered by that person as a result of that action or that measure.
+(3A) A person who has suffered loss or damage as a result of any action or measure duly taken under instructions issued under any of sections 94K to 94N by the National Recovery Manager or a constable, or a person authorised by the National Recovery Manager or constable, may recover compensation from the Crown if the action or measure was such that the good done, or likely to be done, by the action or measure for that person was disproportionately less than the loss or damage suffered by that person as a result of that action or that measure.
+(3B) A person who has suffered loss or damage as a result of any action or measure duly taken under instructions issued under any of sections 94K to 94N by a Group Recovery Manager or a Local Recovery Manager, or a person authorised by the Group Recovery Manager or Local Recovery Manager, may recover compensation from the Civil Defence Emergency Management Group that appointed the Group Recovery Manager or Local Recovery Manager if the action or measure was such that the good done, or likely to be done, by the action or measure for that person was disproportionately less than the loss or damage suffered by that person as a result of that action or that measure.
 (4) In determining the amount of compensation payable under this section for any loss or damage, any amount that the person has, or is likely to, recover under a contract of insurance or by any other means must be taken into account.
 (5) If a claim is brought against the Crown or a Civil Defence Emergency Management Group for compensation under this section, a court, in determining whether subsection (2) or subsection (3) applies, must take into account—
   (a) the probability of the adverse effect to the claimant's property that the action or measure in the relevant section is intended to avert occurring if the action or measure had not been taken; and
@@ -953,12 +1245,12 @@ A person who commits an offence against this Act is liable on conviction,—
     (c) personal property, excluding livestock, not exceeding $20,000 less any insurance cover for that personal property (if any).
 
 ### 110 Protection from liability
-(1) Except as provided in sections 107 to 109, there is no cause of action against the Crown, or a Civil Defence Emergency Management Group, or an officer or employee or member of any of them, or against any other person, to recover damages for any loss or damage that is due directly or indirectly to a state of emergency.
+(1) Except as provided in sections 107 to 109, there is no cause of action against the Crown, or a Civil Defence Emergency Management Group, or an officer or employee or member of any of them, or against any other person, to recover damages for any loss or damage that is due directly or indirectly to a state of emergency or a transition period.
 (2) Subsection (1) applies whether the loss or damage is caused by any person taking any action or failing to take any action, so long as the act or omission occurred in the exercise or performance of his or her functions, duties, or powers under this Act.
 (3) No person is exempted from liability under subsection (1) for any act or omission to act that constitutes bad faith or gross negligence on the part of that person.
 
 ### 111 Restricted application of Resource Management Act 1991
-If a state of emergency is declared under this Act, the Resource Management Act 1991 applies to emergency works as provided for in section 330B of that Act.
+If a state of emergency is declared, or notice of a transition period is given, under this Act, the Resource Management Act 1991 applies to emergency works as provided for in section 330B of that Act.
 
 ### 112 Absence on duty not to affect employment rights
 (1) No person who is required by the Director or a Controller to be absent from his or her accustomed employment on civil defence emergency management duties during a state of emergency is liable to dismissal from that employment merely because of his or her absence on civil defence emergency management duties, whether or not his or her accustomed employer has consented to that absence.
@@ -992,6 +1284,11 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (j) prescribing fines not exceeding $500 for the breach of any regulation made under this section:
   (k) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
+### 115A Permanent legislative authority for payment of certain expenses
+The Crown may, without further appropriation than this section, incur expenses to reimburse a local authority for, or to pay public money for the purpose of meeting, expenses incurred by a local authority in connection with an emergency if the expenses—
+  (a) are incurred in respect of civil defence emergency management activities; and
+  (b) meet the criteria for being reimbursed or paid in a Government policy that was in force before the emergency occurred.
+
 ### 116 Repeal of Civil Defence Act 1983
 The Civil Defence Act 1983 (1983 No 46) is repealed.
 
@@ -1015,7 +1312,7 @@ The Acts specified in Schedule 2 are amended in the manner set out in that sched
   (a) in the case of a local or regional emergency, the first relevant civil defence emergency management group plan becomes operative; and
   (b) in the case of a national emergency, the first national civil defence emergency management plan becomes operative.
 (3) Sections 58 to 68 of the Civil Defence Act 1983 (which relate to emergency powers) continue to apply while the provisions referred to in subsection (2) continue to apply.
-(4) Sections 69 to 72 of the Civil Defence Act 1983 (which relate to the appointment and functions, duties, and powers of disaster recovery co-ordinators) continue to apply in each district until the regional council or the territorial authority, as the case may be, has joined a Civil Defence Emergency Management Group and the first plan for that Group becomes operative.
+(4)
 (5) Sections 73 to 79 of the Civil Defence Act 1983 (which are general provisions) continue to apply for the purposes of provisions continued by this section.
 
 ### 120 Amendments to references in documents to civil defence personnel and entities
@@ -1029,6 +1326,41 @@ Unless the context otherwise requires, in any Order in Council, agreement, deed,
 ### 121 Proceedings not affected
 (1) Nothing in this Act affects the rights of any party to any proceedings commenced in any court before the commencement of this Act.
 (2) All claims for compensation commenced under any provisions repealed by this Act may be continued and completed in all respects as if the Civil Defence Act 1983 remained in force.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to this Act as enacted
+
+### 1 Interpretation
+In this schedule, Recovery Co-ordinator has the same meaning as it had in this Act immediately before the commencement of the Civil Defence Emergency Management Amendment Act 2016.
+
+### 2 Civil Defence Emergency Management Groups
+Any Civil Defence Emergency Management Group established under section 12(1)﻿(b) of this Act (as it read immediately before the commencement of the Civil Defence Emergency Management Amendment Act 2016) is to be treated as having been established as a committee under clause 30(1)﻿(a) of Schedule 7 of the Local Government Act 2002.
+
+### 3 Recovery Co-ordinators
+(1) Any Recovery Co-ordinator who was appointed and in office under section 29 of this Act (as it read immediately before the commencement of the Civil Defence Emergency Management Amendment Act 2016) may remain in office until his or her term of appointment expires.
+(2) A Recovery Co-ordinator who remains in office under subclause (1) may continue to exercise powers under section 30 (as it read immediately before the commencement of the Civil Defence Emergency Management Amendment Act 2016) and section 30 remains in force for the purposes of this clause.
+
+### 4 Appointment of persons to give notice of local transition period
+(1) Despite section 25(1)﻿(b) (as inserted by section 13 of the Civil Defence Emergency Management Amendment Act 2016), a Civil Defence Emergency Management Group may (but is not required to) appoint a person to give notice of a local transition period for its area during the period—
+  (a) beginning with the date on which this clause commences; and
+  (b) ending with the close of 31 May 2017.
+(2) During the period specified in subclause (1), “must” must be read as “may” in clause 18B(c) of the national civil defence emergency management plan as set out in the Schedule of the National Civil Defence Emergency Management Plan Order 2015 (as inserted by section 43 and Schedule 3 of the Civil Defence Emergency Management Amendment Act 2016).
+
+### 5 Appointment of Group Recovery Managers
+(1) Despite section 29(1) (as inserted by section 17 of the Civil Defence Emergency Management Amendment Act 2016), a Civil Defence Emergency Management Group may (but is not required to) appoint a Group Recovery Manager for its area during the period—
+  (a) beginning with the date on which this clause commences; and
+  (b) ending with the close of 31 May 2017.
+(2) During the period specified in subclause (1), “must” must be read as “may” in clause 18B(a) of the national civil defence emergency management plan as set out in the Schedule of the National Civil Defence Emergency Management Plan Order 2015 (as inserted by section 43 and Schedule 3 of the Civil Defence Emergency Management Amendment Act 2016).
+
+### 6 Form of certain notices
+Despite sections 94E(5)﻿(c) and 94F(1)﻿(c) and (2)﻿(c) (as inserted by section 27 of the Civil Defence Emergency Management Amendment Act 2016), a notice referred to in either of those sections may be in a form that the person giving the notice considers appropriate if the notice is given during the period—
+  (a) beginning with the date on which this clause commences; and
+  (b) ending with the close of 31 May 2017.
+
+### 7 Repeals
+(1) Clauses 4, 5, and 6 are repealed on 1 June 2017.
+(2) This clause is repealed on 2 June 2017.
 
 ## Schedule 1 — Lifeline utilities
 
