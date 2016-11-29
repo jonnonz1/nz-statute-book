@@ -1,5 +1,5 @@
 # Heritage New Zealand Pouhere Taonga Act 2014
-_Consolidation as at 2014-05-19_
+_Consolidation as at 2016-11-29_
 
 ### 1 Title
 This Act is the Heritage New Zealand Pouhere Taonga Act 2014.
@@ -31,7 +31,7 @@ All persons performing functions and exercising powers under this Act must recog
   (c) continues the Māori Heritage Council; and
   (d) continues to provide for heritage covenants; and
   (e) continues to prohibit the modification or destruction of an archaeological site unless an authority for the modification or destruction is obtained from Heritage New Zealand Pouhere Taonga under this Act; and
-  (f) provides for an appropriate response about heritage matters in the event of a national or local emergency being declared; and
+  (f) provides for an appropriate response about heritage matters in the event of a national or local emergency being declared, or notice of a national or local transition period being given, under the Civil Defence Emergency Management Act 2002; and
   (g) continues the system for a list (formerly the Register), to be known as the New Zealand Heritage List/Rārangi Kōrero, comprising historic places, historic areas, wāhi tapu, and wāhi tapu areas, and also to include wāhi tūpuna, as a means for recognising heritage values; and
   (h) provides for the establishment and maintenance of a list to be known as the National Historic Landmarks/Ngā Manawhenua o Aotearoa me ōna Kōrero Tūturu; and
   (i) includes sanctions for breaches of this Act; and
@@ -181,12 +181,12 @@ This Act binds the Crown.
   (d) to foster public interest and involvement in historic places and historic areas and in identifying, recording, investigating, assessing, protecting, and conserving them, maintaining the New Zealand Heritage List/Rārangi Kōrero, and entering such places on that list:
   (e) to issue authorities in accordance with this Act:
   (f) to manage, administer, and control historic places, buildings, and other property owned or controlled by Heritage New Zealand Pouhere Taonga or vested in it to ensure their protection, preservation, and conservation:
-  (g) in the event of a national or local emergency, to provide advice on heritage matters:
+  (g) in the event of a national or local emergency or a national or local transition period (under the Civil Defence Emergency Management Act 2002), to provide advice on heritage matters:
   (h) to establish and maintain a list of places of outstanding national heritage value, to be called the National Historic Landmarks/Ngā Manawhenua o Aotearoa me ōna Kōrero Tūturu:
   (i) to act as a heritage protection authority under Part 8 of the Resource Management Act 1991 for the purposes of protecting—
     (i) the whole or part of a historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area; and
     (ii) land surrounding the historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area that is reasonably necessary to ensure the protection and reasonable enjoyment of the historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area.
-(2) In performing its function under subsection (1)(c), Heritage New Zealand Pouhere Taonga must recognise the interests of an owner, as far as those interests are known, in a particular historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area.
+(2) In performing its function under subsection (1)﻿(c), Heritage New Zealand Pouhere Taonga must recognise the interests of an owner, as far as those interests are known, in a particular historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area.
 (3) The Minister must not give directions to Heritage New Zealand Pouhere Taonga that concern heritage matters relating to particular historic places, historic areas, wāhi tūpuna, wāhi tapu, or wāhi tapu areas.
 (4) However, subsection (3) does not apply to the powers of the Minister under subpart 2 of Part 4 (which provides for the creation and maintenance of the Landmarks list).
 
@@ -206,10 +206,10 @@ This Act binds the Crown.
     (ii) carrying out investigations:
     (iii) producing, acquiring, and marketing products:
     (iv) providing information:
-  (k) in accordance with any regulations made under section 99, discount administrative charges imposed under paragraph (j)(i) and (ii), if Heritage New Zealand Pouhere Taonga does not process an application within the time prescribed by this Act:
+  (k) in accordance with any regulations made under section 99, discount administrative charges imposed under paragraph (j)﻿(i) and (ii), if Heritage New Zealand Pouhere Taonga does not process an application within the time prescribed by this Act:
   (l) take appropriate enforcement or restraining action under subpart 1 of Part 5:
   (m) carry out the functions and perform the duties conferred or imposed on it by this Act or under any other enactment.
-(2) In exercising its power under subsection (1)(a), Heritage New Zealand Pouhere Taonga must recognise the interests of an owner, as far as those interests are known, in a particular historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area.
+(2) In exercising its power under subsection (1)﻿(a), Heritage New Zealand Pouhere Taonga must recognise the interests of an owner, as far as those interests are known, in a particular historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area.
 (3) Nothing in this Act requires Heritage New Zealand Pouhere Taonga to negotiate or agree with any person to acquire any land or interest in land.
 (4) No interest in land may be regarded as having been taken or injuriously affected and no compensation is payable by reason only of any provision of this Act.
 
@@ -236,7 +236,7 @@ This Act binds the Crown.
 
 ### 16 Statements of general policy
 (1) As soon as is reasonably practicable after the commencement of this Act, Heritage New Zealand Pouhere Taonga must confirm the statements of general policy adopted by the New Zealand Historic Places Trust under section 57 of the Historic Places Act 1993 before the commencement of this Act for the management, administration, control, and use of the historic places owned or controlled by, or vested in, Heritage New Zealand Pouhere Taonga.
-(2) Not later than 18 months after the commencement of this Act, Heritage New Zealand Pouhere Taonga must consult on and adopt 1 or more statements of general policy for each of the matters listed in section 17(1)(b).
+(2) Not later than 18 months after the commencement of this Act, Heritage New Zealand Pouhere Taonga must consult on and adopt 1 or more statements of general policy for each of the matters listed in section 17(1)﻿(b).
 (3) In the case of the requirement under subsection (1) to confirm the adoption of existing statements of general policy relating to historic places, Heritage New Zealand Pouhere Taonga may—
   (a) by resolution adopt the statements as the general policy statements of Heritage New Zealand Pouhere Taonga and must comply with section 17(4); or
   (b) propose any amendments that it considers necessary or desirable to any part of a statement, in compliance with the provisions of section 17, unless Heritage New Zealand Pouhere Taonga resolves on reasonable grounds that those procedures need not be followed.
@@ -251,7 +251,7 @@ This Act binds the Crown.
     (ii) for the historic places owned or controlled by, or vested in, Heritage New Zealand Pouhere Taonga; and
     (iii) for the administration of the New Zealand Heritage List/Rārangi Kōrero; and
     (iv) for the administration of the Landmarks list; and
-    (v) for the statutory role of advocacy conferred on Heritage New Zealand Pouhere Taonga by section 13(1)(c) and on the Council by section 27(1)(i).
+    (v) for the statutory role of advocacy conferred on Heritage New Zealand Pouhere Taonga by section 13(1)﻿(c) and on the Council by section 27(1)﻿(i).
 (2) Before adopting a statement, Heritage New Zealand Pouhere Taonga must—
   (a) give public notice of the availability of the draft statement for public inspection; and
   (b) invite persons and organisations to lodge written comments on the draft statement with Heritage New Zealand Pouhere Taonga before a date specified in the public notice, which must not be less than 40 working days after the date of publication of the notice; and
@@ -282,7 +282,7 @@ Despite section 73 of the Crown Entities Act 2004, the Board must not delegate t
   (a) enter into a heritage covenant under section 39:
   (b) declare an archaeological site under section 43(1):
   (c) grant an authority under section 48, if the costs of an investigation or scientific investigation are likely to exceed $100,000:
-  (d) confirm entries on the New Zealand Heritage List/Rārangi Kōrero under section 73(1)(a):
+  (d) confirm entries on the New Zealand Heritage List/Rārangi Kōrero under section 73(1)﻿(a):
   (e) vary an entry on, or remove an entry from, the New Zealand Heritage List/Rārangi Kōrero under section 78:
   (f) acquire or dispose of real property:
   (g) borrow money:
@@ -295,7 +295,7 @@ Despite section 73 of the Crown Entities Act 2004, the Board must not delegate t
 
 ### 22 Delegations to Māori Heritage Council
 (1) The Board may, in writing, delegate to the Council any of its functions and powers other than those set out in section 21.
-(2) Clause 14(1)(b) of Schedule 5 of the Crown Entities Act 2004 does not limit subsection (1).
+(2) Clause 14(1)﻿(b) of Schedule 5 of the Crown Entities Act 2004 does not limit subsection (1).
 (3) Subject to any general or special directions given by the Board, the Council may carry out the functions and exercise the powers delegated under subsection (1) in the same manner and with the same effect as if they had been conferred on the Council directly by this Act and not by delegation.
 (4) The Council may delegate a function or power delegated under this section, but only—
   (a) with the prior written consent of the Board; and
@@ -321,7 +321,7 @@ The Board may, by resolution, make rules that are not incompatible with this Act
   (d) Māori Heritage Council:
   (e) any other name that so resembles a name listed in this subsection as to be likely to mislead a person.
 (2) No person or body other than Heritage New Zealand Pouhere Taonga may, either alone or with another person or body, operate or carry on activities under a name listed or described in subsection (1).
-(3) Subsections (1) and (2) do not apply to a body that, immediately before the commencement of this Act, included a name listed in subsection (1)(a) to (e).
+(3) Subsections (1) and (2) do not apply to a body that, immediately before the commencement of this Act, included a name listed in subsection (1)﻿(a) to (e).
 
 **Taxation**
 
@@ -348,7 +348,7 @@ The income of Heritage New Zealand Pouhere Taonga is exempt from income tax.
   (b) may be reappointed; and
   (c) continues in office until that person's successor comes into office, unless the member—
     (i) vacates or is removed from office; or
-    (ii) ceases to be a member of the Board, in the case of a member appointed under subsection (2)(a).
+    (ii) ceases to be a member of the Board, in the case of a member appointed under subsection (2)﻿(a).
 
 **Functions and powers**
 
@@ -358,14 +358,14 @@ The income of Heritage New Zealand Pouhere Taonga is exempt from income tax.
   (b) to develop Māori programmes for the identification and conservation of wāhi tūpuna, wāhi tapu, wāhi tapu areas, and historic places and historic areas of interest to Māori, and to inform the Board of all activities, needs, and developments relating to Māori interests in such areas and places:
   (c) to assist Heritage New Zealand Pouhere Taonga to develop and reflect a bicultural view in the exercise of its powers and functions:
   (d) to develop its own iwi and other consultative and reporting processes and to recommend such processes for adoption by the Board and staff of Heritage New Zealand Pouhere Taonga when dealing with matters of interest to Māori:
-  (e) to make recommendations to Heritage New Zealand Pouhere Taonga on applications referred by Heritage New Zealand Pouhere Taonga under section 49(1)(a) that relate to sites of interest to Māori:
+  (e) to make recommendations to Heritage New Zealand Pouhere Taonga on applications referred by Heritage New Zealand Pouhere Taonga under section 49(1)﻿(a) that relate to sites of interest to Māori:
   (f) to consider and determine suitable applications to enter wāhi tūpuna, wāhi tapu, and wāhi tapu areas on the New Zealand Heritage List/Rārangi Kōrero:
   (g) to propose historic places and historic areas of interest to Māori to be entered on the New Zealand Heritage List/Rārangi Kōrero:
   (h) to make recommendations to Heritage New Zealand Pouhere Taonga on applications for resource consents referred by Heritage New Zealand Pouhere Taonga under section 75:
   (i) to advocate the interests of Heritage New Zealand Pouhere Taonga and the Council so far as they relate to matters of Māori heritage at any public or Māori forum:
   (j) to perform the functions delegated to the Council by the Board:
   (k) to perform the other functions imposed on the Council by this Act or any other Act.
-(2) In performing its functions under subsection (1)(i), the Council must recognise the interests of an owner, as far as those interests are known, in a particular historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area.
+(2) In performing its functions under subsection (1)﻿(i), the Council must recognise the interests of an owner, as far as those interests are known, in a particular historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area.
 
 ### 28 Powers of Māori Heritage Council
 (1) The Council has the powers that are reasonably necessary or expedient to enable it to carry out its functions.
@@ -396,7 +396,7 @@ The income of Heritage New Zealand Pouhere Taonga is exempt from income tax.
 
 ### 32 Co-opted members
 (1) Subject to subsection (2), where leave of absence has been given to any member, the Council may co-opt a person to be a co-opted member of the Council.
-(2) In the case of a Council member appointed under section 26(2)(a), any co-opted Board member during that leave of absence also becomes a co-opted member of the Council for the period of absence.
+(2) In the case of a Council member appointed under section 26(2)﻿(a), any co-opted Board member during that leave of absence also becomes a co-opted member of the Council for the period of absence.
 (3) The term of office of a member co-opted under subsection (1) or (2) ceases when—
   (a) the leave of absence of the original member expires; or
   (b) that member vacates, or is removed from, office.
@@ -440,7 +440,7 @@ The acts and proceedings of the Council, or of any person acting as a member of 
 ### 38 Application of Crown Entities Act 2004 to Council
 (1) The following provisions of the Crown Entities Act 2004 apply to each member of the Council who is not a member of the Board as if those members were a committee of Heritage New Zealand Pouhere Taonga appointed under clause 14 of Schedule 5 of the Crown Entities Act 2004:
   (a) sections 43, 57, and 77, and sections 120 to 126 (which relate to immunities and indemnities); and
-  (b) sections 135, 152(1)(e) and (f), 152(2), 189, and 190 (which provide for the status of members as officials and for disclosure and transitional arrangements); and
+  (b) sections 135, 152(1)﻿(e) and (f), 152(2), 189, and 190 (which provide for the status of members as officials and for disclosure and transitional arrangements); and
   (c) section 48 (which relates to the payment of the expenses of members).
 (2) Sections 62 to 72 of the Crown Entities Act 2004 (which relate to conflict of interest, disclosure, and protection of third-party interests) apply to each member of the Council who is not a member of the Board as if the member were a member of the Board.
 
@@ -476,7 +476,7 @@ The acts and proceedings of the Council, or of any person acting as a member of 
     (i) runs with the land; and
     (ii) binds all subsequent owners of the land.
 (2) If a heritage covenant applies to land that comprises part of the land in a certificate of title, the Registrar-General of Land may require the deposit of a plan in accordance with section 167 of the Land Transfer Act 1952.
-(3) If a provision of a heritage covenant registered under the Land Transfer Act 1952 is varied or cancelled by agreement under section 39(2)(c), or has expired, the Registrar-General of Land must make an entry in the register noting that the heritage covenant has been varied or cancelled or has expired.
+(3) If a provision of a heritage covenant registered under the Land Transfer Act 1952 is varied or cancelled by agreement under section 39(2)﻿(c), or has expired, the Registrar-General of Land must make an entry in the register noting that the heritage covenant has been varied or cancelled or has expired.
 (4) As the case may require, the provisions of the covenant—
   (a) take effect as varied; or
   (b) cease to have effect.
@@ -486,7 +486,7 @@ The acts and proceedings of the Council, or of any person acting as a member of 
 **Overarching protection for archaeological sites**
 
 ### 42 Archaeological sites not to be modified or destroyed
-(1) Unless an authority is granted under section 48, 56(1)(b), or 62 in respect of an archaeological site, no person may modify or destroy, or cause to be modified or destroyed, the whole or any part of that site if that person knows, or ought reasonably to have suspected, that the site is an archaeological site.
+(1) Unless an authority is granted under section 48, 56(1)﻿(b), or 62 in respect of an archaeological site, no person may modify or destroy, or cause to be modified or destroyed, the whole or any part of that site if that person knows, or ought reasonably to have suspected, that the site is an archaeological site.
 (2) Subsection (1) applies whether or not an archaeological site is a recorded archaeological site or is entered on—
   (a) the New Zealand Heritage List/Rārangi Kōrero under subpart 1 of Part 4; or
   (b) the Landmarks list made under subpart 2 of Part 4.
@@ -524,7 +524,7 @@ The following applications may be made by any person to Heritage New Zealand Pou
 (4) Heritage New Zealand Pouhere Taonga must—
   (a) determine an application under subsection (1) or (3) in accordance with this section not later than 10 working days after receiving it; and
   (b) notify the applicant, and any other person directly affected, of the determination as soon as practicable.
-(5) Despite subsection (4)(a), if an application for approval under this section is made concurrently with an application under section 44, the determination and notification of both applications must be made within the relevant time period specified in section 50.
+(5) Despite subsection (4)﻿(a), if an application for approval under this section is made concurrently with an application under section 44, the determination and notification of both applications must be made within the relevant time period specified in section 50.
 
 ### 46 Information that must be provided with application for authority
 (1) Every application for an authority made under section 44 must be made in writing to Heritage New Zealand Pouhere Taonga in the form and manner prescribed by regulations made under this Act or as may be approved for the purpose by Heritage New Zealand Pouhere Taonga.
@@ -552,17 +552,17 @@ The following applications may be made by any person to Heritage New Zealand Pou
 ### 47 Processing of applications for authorities
 (1) Not later than 5 working days after receiving an application under section 44, Heritage New Zealand Pouhere Taonga must, if it is satisfied that the application includes all of the information required by section 46,—
   (a) determine,—
-    (i) in the case of an application for an authority made under section 44(a) or (c), whether the assessment required by section 46(2)(g) is adequate:
+    (i) in the case of an application for an authority made under section 44(a) or (c), whether the assessment required by section 46(2)﻿(g) is adequate:
     (ii) in the case of an application for an authority made under section 44(b), whether the effects of the proposed activity are, or are likely to be, no more than minor, assessed in accordance with subsection (5); and
   (b) if Heritage New Zealand Pouhere Taonga is satisfied that the application meets the relevant requirements under this subsection, it must—
     (i) accept the application; and
     (ii) advise the applicant of the latest date by which, in accordance with section 50, notice will be given of the decision on the application.
-(2) In the case of an application to which subsection (1)(a)(ii) applies, ensure that an assessment required by section 46(2)(g) is undertaken by or on behalf of Heritage New Zealand Pouhere Taonga in relation to the archaeological site.
+(2) In the case of an application to which subsection (1)﻿(a)﻿(ii) applies, ensure that an assessment required by section 46(2)﻿(g) is undertaken by or on behalf of Heritage New Zealand Pouhere Taonga in relation to the archaeological site.
 (3) If Heritage New Zealand Pouhere Taonga determines that an application does not meet the relevant requirements under subsection (1), it must, within the time specified in that subsection,—
   (a) return the application to the applicant, giving written reasons why the application has been returned; and
   (b) advise the applicant by notice of what further information is required before the application is able to be accepted.
 (4) For the purposes of making a decision under this section, an application that is returned under subsection (3) and submitted with further information must be treated by Heritage New Zealand Pouhere Taonga as a new application.
-(5) In the case of an application made under section 44(b), without limiting the matters that Heritage New Zealand Pouhere Taonga may have regard to for the purpose of determining whether an application meets the requirements of subsection (1)(a)(ii) of this section, it must have regard to—
+(5) In the case of an application made under section 44(b), without limiting the matters that Heritage New Zealand Pouhere Taonga may have regard to for the purpose of determining whether an application meets the requirements of subsection (1)﻿(a)﻿(ii) of this section, it must have regard to—
   (a) the significance of a site or sites in relation to evidence of the historical and cultural heritage of New Zealand; and
   (b) the extent to which the proposed activity will modify or destroy the site or sites.
 
@@ -577,16 +577,16 @@ The following applications may be made by any person to Heritage New Zealand Pou
 ### 49 Factors relevant to making determination
 (1) Before determining an application under section 48, Heritage New Zealand Pouhere Taonga must take the following steps, to the extent that they are relevant to the application being considered:
   (a) unless the Board has delegated to the Council under section 22 the power to make determinations in relation to sites of interest to Māori, it must refer to the Council any application that relates to a site of interest to Māori for recommendations that the Council thinks appropriate; and
-  (b) in the case of an application that relates to a customary marine title area in respect of which a planning document has been lodged with Heritage New Zealand Pouhere Taonga under section 86(1)(b) of the Marine and Coastal Area (Takutai Moana) Act 2011, it must comply with section 89(a) of that Act.
-(2) In making a determination, Heritage New Zealand Pouhere Taonga must have regard to the matters set out in section 59(1)(a) (the matters to which the Environment Court must have regard when determining an appeal).
-(3) If Heritage New Zealand Pouhere Taonga refers an application to the Council for a recommendation under subsection (1)(a), the Council may consult as it thinks appropriate.
+  (b) in the case of an application that relates to a customary marine title area in respect of which a planning document has been lodged with Heritage New Zealand Pouhere Taonga under section 86(1)﻿(b) of the Marine and Coastal Area (Takutai Moana) Act 2011, it must comply with section 89(a) of that Act.
+(2) In making a determination, Heritage New Zealand Pouhere Taonga must have regard to the matters set out in section 59(1)﻿(a) (the matters to which the Environment Court must have regard when determining an appeal).
+(3) If Heritage New Zealand Pouhere Taonga refers an application to the Council for a recommendation under subsection (1)﻿(a), the Council may consult as it thinks appropriate.
 
 ### 50 Time within which applications to be determined
 (1) Heritage New Zealand Pouhere Taonga must make its determination under section 48 (including for any approval required under section 45) and give notice of that determination not later than—
-  (a) 20 working days after the date on which an application is accepted under section 47(1)(b); or
-  (b) 30 working days after the date on which an application is accepted under section 47(1)(b), if Heritage New Zealand Pouhere Taonga has decided that it is necessary for it to undertake its own assessment of the Māori values associated with the site to which the application relates; or
-  (c) 40 working days after the date on which an application is accepted under section 47(1)(b) in any case where, in the opinion of Heritage New Zealand Pouhere Taonga, the complexity of the matter, as established by the assessment required by section 46(2)(g), requires that additional time.
-(2) An application under section 44(b) (including for an approval required under section 45) must be determined and notice given of the determination not later than 20 working days after it is accepted under section 47(1)(b)(i).
+  (a) 20 working days after the date on which an application is accepted under section 47(1)﻿(b); or
+  (b) 30 working days after the date on which an application is accepted under section 47(1)﻿(b), if Heritage New Zealand Pouhere Taonga has decided that it is necessary for it to undertake its own assessment of the Māori values associated with the site to which the application relates; or
+  (c) 40 working days after the date on which an application is accepted under section 47(1)﻿(b) in any case where, in the opinion of Heritage New Zealand Pouhere Taonga, the complexity of the matter, as established by the assessment required by section 46(2)﻿(g), requires that additional time.
+(2) An application under section 44(b) (including for an approval required under section 45) must be determined and notice given of the determination not later than 20 working days after it is accepted under section 47(1)﻿(b)﻿(i).
 
 ### 51 Notification of determination
 (1) After determining an application under section 48 or 56, Heritage New Zealand Pouhere Taonga must give notice of its decision to—
@@ -616,19 +616,19 @@ The following applications may be made by any person to Heritage New Zealand Pou
   (a) the holder of the authority may apply to Heritage New Zealand Pouhere Taonga for a change to, or cancellation of, any of the conditions imposed on the authority; or
   (b) Heritage New Zealand Pouhere Taonga may initiate a review of the conditions of the authority.
 (2) The holder of an authority must ensure that all activities being carried out under the authority, or such work as is specified by Heritage New Zealand Pouhere Taonga, is ceased immediately if, as appropriate,—
-  (a) an application is made under subsection (1)(a); or
-  (b) Heritage New Zealand Pouhere Taonga gives notice under subsection (6)(a) of its intention to initiate a review.
-(3) An application under subsection (1)(a) must include—
+  (a) an application is made under subsection (1)﻿(a); or
+  (b) Heritage New Zealand Pouhere Taonga gives notice under subsection (6)﻿(a) of its intention to initiate a review.
+(3) An application under subsection (1)﻿(a) must include—
   (a) the details of the authority and the area of land to which it applies; and
   (b) the conditions in respect of which a change or cancellation is sought; and
   (c) the reasons for the application.
-(4) Not later than 5 working days after the application under subsection (1)(a) is received, Heritage New Zealand Pouhere Taonga must—
+(4) Not later than 5 working days after the application under subsection (1)﻿(a) is received, Heritage New Zealand Pouhere Taonga must—
   (a) determine whether it meets the requirements of subsection (3); and
   (b) give notice to the applicant of that determination and return the application to the applicant, with written reasons, if the application does not meet the requirements.
 (5) If the application meets the requirements, Heritage New Zealand Pouhere Taonga must, within 20 working days after receiving the application,—
   (a) consider and determine the application as if it were an application for an authority; and
   (b) give notice to the applicant, with written reasons, of its determination.
-(6) If Heritage New Zealand Pouhere Taonga initiates a review under subsection (1)(b), the following provisions apply:
+(6) If Heritage New Zealand Pouhere Taonga initiates a review under subsection (1)﻿(b), the following provisions apply:
   (a) Heritage New Zealand Pouhere Taonga must give notice to the holder of the authority that it will initiate a review, stating—
     (i) which conditions are to be reviewed; and
     (ii) the reasons for the review; and
@@ -637,7 +637,7 @@ The following applications may be made by any person to Heritage New Zealand Pou
     (i) consider any submissions received under paragraph (b) before making its determination; and
     (ii) not later than 20 working days after the last date for providing a submission under that paragraph, determine the review and give notice of its determination to the holder.
 (7) Sections 48 and 52 apply to a determination made under subsection (5) or (6), with any necessary modifications.
-(8) In determining a review under subsection (6)(c), Heritage New Zealand Pouhere Taonga may—
+(8) In determining a review under subsection (6)﻿(c), Heritage New Zealand Pouhere Taonga may—
   (a) change or cancel any conditions:
   (b) make no change to the conditions.
 
@@ -675,17 +675,17 @@ The following applications may be made by any person to Heritage New Zealand Pou
 (1) Heritage New Zealand Pouhere Taonga may, as far as it is consistent with the purpose of this Act,—
   (a) carry out an exploratory investigation of any site or locality:
   (b) authorise in writing persons who apply to carry out an exploratory investigation of any site or locality, subject to the conditions it thinks fit.
-(2) An application made under subsection (1)(b) need include only the information required by section 46(2)(a) to (e) and (h).
-(3) In considering an application under subsection (1)(b), Heritage New Zealand Pouhere Taonga must—
+(2) An application made under subsection (1)﻿(b) need include only the information required by section 46(2)﻿(a) to (e) and (h).
+(3) In considering an application under subsection (1)﻿(b), Heritage New Zealand Pouhere Taonga must—
   (a) refer to the Council any application that relates to a site of interest to Māori for a recommendation that the Council thinks appropriate (unless there has been a delegation to the Council under section 22); and
   (b) take into account—
     (i) the nature and purpose of the proposed exploratory investigation; and
     (ii) whether the person has adequate skills to carry out that investigation; and
     (iii) whether the person has appropriate access to institutional and professional support and resources; and
   (c) have regard to any statutory acknowledgement in respect of an archaeological site to which the application relates; and
-  (d) comply with section 89(a) of the Marine and Coastal Area (Takutai Moana) Act 2011, if an application relates to a customary marine title area in respect of which a planning document has been lodged with Heritage New Zealand Pouhere Taonga under section 86(1)(b) of that Act.
-(4) In considering an application referred to it under subsection (3)(a), the Council may consult as it thinks appropriate.
-(5) Not later than 10 working days after receiving an application under subsection (1)(b), Heritage New Zealand Pouhere Taonga must—
+  (d) comply with section 89(a) of the Marine and Coastal Area (Takutai Moana) Act 2011, if an application relates to a customary marine title area in respect of which a planning document has been lodged with Heritage New Zealand Pouhere Taonga under section 86(1)﻿(b) of that Act.
+(4) In considering an application referred to it under subsection (3)﻿(a), the Council may consult as it thinks appropriate.
+(5) Not later than 10 working days after receiving an application under subsection (1)﻿(b), Heritage New Zealand Pouhere Taonga must—
   (a) determine whether to consent to or decline the application and give notice of the determination; and
   (b) approve the person who is to carry out the exploratory investigation and give notice of that approval to—
     (i) the applicant; and
@@ -706,7 +706,7 @@ The following applications may be made by any person to Heritage New Zealand Pou
     (ii) the activity will modify or destroy the site.
 (2) Heritage New Zealand Pouhere Taonga may—
   (a) enter the site or locality in accordance with section 15; and
-  (b) carry out an exploratory investigation of the site or locality to ascertain whether an authority is required for the activity referred to in subsection (1)(a); and
+  (b) carry out an exploratory investigation of the site or locality to ascertain whether an authority is required for the activity referred to in subsection (1)﻿(a); and
   (c) if the site or locality proves to be, or to include, an archaeological site, recover the cost of the exploratory investigation from the owner or occupier of the land or the person carrying out the activity without an authority, as the case may be.
 (3) If an exploratory investigation establishes that a site or locality is, or includes, an archaeological site and that the proposed activity will modify or destroy the site or locality, Heritage New Zealand Pouhere Taonga must take reasonable steps to prevent—
   (a) the activity from continuing; and
@@ -722,7 +722,7 @@ The following applications may be made by any person to Heritage New Zealand Pou
   (c) section 48 (a power to determine an application for an authority):
   (d) section 52(2) (a power to require an investigation as a condition of an authority):
   (e) section 53 (a power to review conditions):
-  (f) section 54(4)(a) (a power to specify the duration of an authority):
+  (f) section 54(4)﻿(a) (a power to specify the duration of an authority):
   (g) section 56 (a power to conduct an exploratory investigation of a site or locality):
   (h) section 57(2) (a power of entry, a power to carry out an exploratory investigation, and a power to recover the cost of an exploratory investigation).
 (3) The notice of appeal must—
@@ -745,18 +745,18 @@ The following applications may be made by any person to Heritage New Zealand Pou
     (vi) the relationship of Māori and their culture and traditions with their ancestral lands, water, sites, wāhi tūpuna, wāhi tapu, and other taonga; and
   (b) may confirm or reverse the decision appealed against or modify the decision in the manner that the Environment Court thinks fit.
 (2) Subsection (1) does not limit the powers of the Environment Court under the Resource Management Act 1991.
-(3) For the purposes of subsection (1)(a)(v), if the Environment Court has regard to a statutory acknowledgement, it must do so in accordance with the provisions of the relevant Act.
-(4) If the decision appealed against relates to a customary marine title area in respect of which a planning document has been lodged with Heritage New Zealand Pouhere Taonga under section 86(1)(b) of the Marine and Coastal Area (Takutai Moana) Act 2011, the Environment Court must comply with section 89(b) of that Act.
+(3) For the purposes of subsection (1)﻿(a)﻿(v), if the Environment Court has regard to a statutory acknowledgement, it must do so in accordance with the provisions of the relevant Act.
+(4) If the decision appealed against relates to a customary marine title area in respect of which a planning document has been lodged with Heritage New Zealand Pouhere Taonga under section 86(1)﻿(b) of the Marine and Coastal Area (Takutai Moana) Act 2011, the Environment Court must comply with section 89(b) of that Act.
 (5) Nothing in this section limits or affects the power of Heritage New Zealand Pouhere Taonga to issue a requirement for a heritage order under the Resource Management Act 1991.
 
 ### Subpart 3 — Emergency authorities
 
 ### 60 Purpose and application of subpart
-(1) This subpart provides a process for obtaining an emergency authority to undertake an activity that will or may modify or destroy an archaeological site or sites located in an area or a district over which a national or local emergency is declared under the Civil Defence Emergency Management Act 2002.
-(2) Unless otherwise expressly provided for, this subpart applies instead of subpart 2 if an emergency authority is sought and granted within 12 months after a declaration is made under section 72 of the Civil Defence Emergency Management Act 2002 to terminate the emergency, or such further time as is reasonably necessary in the circumstances.
+(1) This subpart provides a process for obtaining an emergency authority to undertake an activity that will or may modify or destroy an archaeological site or sites located in an area or a district over which a state of emergency is declared, or a transition period is notified, under the Civil Defence Emergency Management Act 2002.
+(2) Unless otherwise expressly provided for, this subpart applies instead of subpart 2 if an emergency authority is sought and granted within 12 months after the state of emergency is terminated under section 72, or the transition period is terminated under section 94E, of the Civil Defence Emergency Management Act 2002, or such further time as is reasonably necessary in the circumstances.
 
 ### 61 Application for emergency authority
-(1) Any person may apply to Heritage New Zealand Pouhere Taonga for an emergency authority to undertake an activity that will or may modify or destroy an archaeological site or sites if, after a national or local emergency has been declared, it appears that it may be necessary to undertake an activity that will or may modify or destroy a site or sites.
+(1) Any person may apply to Heritage New Zealand Pouhere Taonga for an emergency authority to undertake an activity that will or may modify or destroy an archaeological site or sites if, after a state of emergency has been declared or a transition period has been notified, it appears that it may be necessary to undertake an activity that will or may modify or destroy a site or sites.
 (2) An application for an emergency authority must—
   (a) be made in the form and manner prescribed by regulations made under this Act or as may be approved for the purpose by Heritage New Zealand Pouhere Taonga; and
   (b) include the information—
@@ -772,13 +772,13 @@ The following applications may be made by any person to Heritage New Zealand Pou
 (2) In determining an application for an emergency authority, Heritage New Zealand Pouhere Taonga must have regard to—
   (a) the purpose of this subpart; and
   (b) the need to protect public health and safety; and
-  (c) to the extent that they are relevant, the matters referred to in section 47(1)(a); and
-  (d) all of the matters set out in section 59(1)(a) (the matters to which the Environment Court must have regard when determining an appeal); and
+  (c) to the extent that they are relevant, the matters referred to in section 47(1)﻿(a); and
+  (d) all of the matters set out in section 59(1)﻿(a) (the matters to which the Environment Court must have regard when determining an appeal); and
   (e) the views of the owner of the land, to the extent that they can reasonably be ascertained.
 (3) If an application made under this subpart relates to a site of interest to Māori,—
   (a) Heritage New Zealand Pouhere Taonga must refer the application to the Council (unless there has been a delegation to the Council under section 22); and
   (b) the Council may consult as it thinks appropriate, but must make any recommendations to Heritage New Zealand Pouhere Taonga not later than 3 days after the matter is referred to the Council.
-(4) In the case of an application that relates to a customary marine title area in respect of which a planning document has been lodged with Heritage New Zealand Pouhere Taonga under section 86(1)(b) of the Marine and Coastal Area (Takutai Moana) Act 2011, Heritage New Zealand Pouhere Taonga must comply with section 89(a) of that Act.
+(4) In the case of an application that relates to a customary marine title area in respect of which a planning document has been lodged with Heritage New Zealand Pouhere Taonga under section 86(1)﻿(b) of the Marine and Coastal Area (Takutai Moana) Act 2011, Heritage New Zealand Pouhere Taonga must comply with section 89(a) of that Act.
 (5) Heritage New Zealand Pouhere Taonga must determine an application—
   (a) not later than 5 days after the application is received, in the case of an application that relates to a site of interest to Māori; or
   (b) not later than 3 days after the application is received, in any other case.
@@ -807,9 +807,9 @@ The following applications may be made by any person to Heritage New Zealand Pou
   (a) an applicant whose application under section 61 is declined in whole or in part; and
   (b) the appropriate iwi or hapū, in the case of a matter of culture or tradition associated with a site of interest to Māori.
 (2) A notice of appeal must—
-  (a) set out the matters required by section 58(3)(a) and (b); and
+  (a) set out the matters required by section 58(3)﻿(a) and (b); and
   (b) be lodged with the Environment Court not later than 14 days after notice of the decision is given under section 62(6); and
-  (c) be served as required by section 58(3)(c) and (d), but not later than 3 days after being lodged with the Environment Court.
+  (c) be served as required by section 58(3)﻿(c) and (d), but not later than 3 days after being lodged with the Environment Court.
 (3) The provisions of section 59 apply, with the necessary modifications, to an appeal under this section.
 
 ## Part 4 — Recognition of places of historical, cultural, and ancestral significance
@@ -840,7 +840,7 @@ The following applications may be made by any person to Heritage New Zealand Pou
 
 ### 66 Criteria
 (1) Heritage New Zealand Pouhere Taonga may enter any historic place or historic area in the New Zealand Heritage List/Rārangi Kōrero if it is satisfied that the place or area has aesthetic, archaeological, architectural, cultural, historical, scientific, social, spiritual, technological, or traditional significance or value.
-(2) Heritage New Zealand Pouhere Taonga may assign the status of Category 1 or Category 2 to any historic place, having regard to the nature of the places to which those categories may be assigned (as described in section 65(4)(a)).
+(2) Heritage New Zealand Pouhere Taonga may assign the status of Category 1 or Category 2 to any historic place, having regard to the nature of the places to which those categories may be assigned (as described in section 65(4)﻿(a)).
 (3) Heritage New Zealand Pouhere Taonga may assign a status under subsection (2) only if it is satisfied that the place has significance or value in relation to 1 or more of the following criteria:
   (a) the extent to which the place reflects important or representative aspects of New Zealand history:
   (b) the association of the place with events, persons, or ideas of importance in New Zealand history:
@@ -875,10 +875,10 @@ The following applications may be made by any person to Heritage New Zealand Pou
       (A) is an owner of the historic place, historic area, or part of the place or area; or
       (B) has a registered interest in the historic place, historic area, or part of the place or area; and
     (ii) the local authorities that have jurisdiction in the relevant area.
-(5) However, Heritage New Zealand Pouhere Taonga is not required to give notice under subsection (4)(b)(i) if Heritage New Zealand Pouhere Taonga—
+(5) However, Heritage New Zealand Pouhere Taonga is not required to give notice under subsection (4)﻿(b)﻿(i) if Heritage New Zealand Pouhere Taonga—
   (a) does not know the person, or cannot identify the person from publicly available records; or
   (b) does not know the person's contact details and cannot identify them from publicly available records.
-(6) If the owner of a historic place, historic area, or part of a place or area receives a notice under subsection (4)(b)(i)(A), the owner must give notice of the application to any occupier of the place or area or part of it.
+(6) If the owner of a historic place, historic area, or part of a place or area receives a notice under subsection (4)﻿(b)﻿(i)﻿(A), the owner must give notice of the application to any occupier of the place or area or part of it.
 (7) The failure of an owner to notify an occupier under subsection (6) does not invalidate an entry on the New Zealand Heritage List/Rārangi Kōrero.
 (8) If an application relates to a historic place, historic area, or part of a place or area on Māori land,—
   (a) Heritage New Zealand Pouhere Taonga must give notice of the application to the appropriate Registrar of the Māori Land Court; and
@@ -902,10 +902,10 @@ The following applications may be made by any person to Heritage New Zealand Pou
       (B) has a registered interest in the land on which the wāhi tūpuna, wāhi tapu, or wāhi tapu area or part of the wāhi tūpuna, wāhi tapu, or wāhi tapu area is located; and
     (ii) the appropriate iwi or hapū; and
     (iii) the local authorities that have jurisdiction in the relevant area.
-(5) However, the Council is not required to give notice under subsection (4)(b)(i) if the Council—
+(5) However, the Council is not required to give notice under subsection (4)﻿(b)﻿(i) if the Council—
   (a) does not know the person, or cannot identify the person from publicly available records; or
   (b) does not know the person's contact details and cannot identify them from publicly available records.
-(6) If an owner of land on which a wāhi tūpuna, wāhi tapu, or wāhi tapu area is located receives a notice under subsection (4)(b)(i)(A), the owner must give notice of the application to any occupier of the place.
+(6) If an owner of land on which a wāhi tūpuna, wāhi tapu, or wāhi tapu area is located receives a notice under subsection (4)﻿(b)﻿(i)﻿(A), the owner must give notice of the application to any occupier of the place.
 (7) The failure of an owner to notify an occupier under subsection (6) does not invalidate an entry on the New Zealand Heritage List/Rārangi Kōrero.
 (8) If an application relates to a wāhi tūpuna, wāhi tapu, or wāhi tapu area on Māori land,—
   (a) the Council must give notice of the application to the appropriate Registrar of the Māori Land Court; and
@@ -947,15 +947,15 @@ The following applications may be made by any person to Heritage New Zealand Pou
 ### 72 Entries may be included on New Zealand Heritage List/Rārangi Kōrero by agreement
 Despite sections 67(4) and 68(4), Heritage New Zealand Pouhere Taonga may enter the relevant historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area on the New Zealand Heritage List/Rārangi Kōrero without giving public notice if—
   (a) Heritage New Zealand Pouhere Taonga or the Council, as appropriate, receives an application under section 67 or 68; and
-  (b) all of the persons who have the right to be notified under section 67(4)(b)(i) or 68(4)(b)(i) and (ii) have given their written approval to the proposal in the application.
+  (b) all of the persons who have the right to be notified under section 67(4)﻿(b)﻿(i) or 68(4)﻿(b)﻿(i) and (ii) have given their written approval to the proposal in the application.
 
 ### 73 When entry on New Zealand Heritage List/Rārangi Kōrero takes effect
 (1) As soon as is reasonably practicable after making a decision under section 69 or receiving written approval under section 72(b), Heritage New Zealand Pouhere Taonga or the Council, as appropriate, must—
   (a) publicly notify the entry of a historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area on the New Zealand Heritage List/Rārangi Kōrero; and
-  (b) notify the entry to the persons with a right to be notified under section 67(4)(b) or 68(4)(b), specifying the date when the entry takes effect (which must not be earlier than the date that is 10 working days after the date of the notice); and
+  (b) notify the entry to the persons with a right to be notified under section 67(4)﻿(b) or 68(4)﻿(b), specifying the date when the entry takes effect (which must not be earlier than the date that is 10 working days after the date of the notice); and
   (c) notify the Māori Land Court if the entry on the New Zealand Heritage List/Rārangi Kōrero relates to Māori land; and
   (d) notify the holders of any customary marine title or protected customary right applying in the same location that a historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area has been entered on the New Zealand Heritage List/Rārangi Kōrero.
-(2) The entry of a historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area on the New Zealand Heritage List/Rārangi Kōrero takes effect on the date specified in the notices given under subsection (1)(b).
+(2) The entry of a historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area on the New Zealand Heritage List/Rārangi Kōrero takes effect on the date specified in the notices given under subsection (1)﻿(b).
 
 **Effect of certain entries on New Zealand Heritage List/Rārangi Kōrero**
 
@@ -970,7 +970,7 @@ Despite sections 67(4) and 68(4), Heritage New Zealand Pouhere Taonga may enter 
   (a) is advised by a local authority that it has received an application for a resource consent in respect of a wāhi tapu area entered on the New Zealand Heritage List/Rārangi Kōrero; or
   (b) is considering an application affecting a wāhi tapu area that is made under—
     (i) section 44 (applications for authorities); or
-    (ii) section 56(1)(b) (applications for authorities to carry out exploratory investigations); or
+    (ii) section 56(1)﻿(b) (applications for authorities to carry out exploratory investigations); or
   (c) proposes to take any action in respect of a wāhi tapu area.
 (2) Before Heritage New Zealand Pouhere Taonga takes any action in respect of the application, it must—
   (a) refer the matter to the Council; and
@@ -979,7 +979,7 @@ Despite sections 67(4) and 68(4), Heritage New Zealand Pouhere Taonga may enter 
     (ii) the applicant for the resource consent:
     (iii) the person who applied under section 68(1) for the wāhi tapu area to be entered on the New Zealand Heritage List/Rārangi Kōrero:
     (iv) the appropriate iwi or hapū.
-(3) Not later than 15 working days after receiving a reference from Heritage New Zealand Pouhere Taonga under subsection (2)(a), the Council must advise Heritage New Zealand Pouhere Taonga of any comment or recommendation it wishes to make on an application referred to it under this section.
+(3) Not later than 15 working days after receiving a reference from Heritage New Zealand Pouhere Taonga under subsection (2)﻿(a), the Council must advise Heritage New Zealand Pouhere Taonga of any comment or recommendation it wishes to make on an application referred to it under this section.
 
 **Further requirements relating to New Zealand Heritage List/Rārangi Kōrero**
 
@@ -992,8 +992,8 @@ Despite sections 67(4) and 68(4), Heritage New Zealand Pouhere Taonga may enter 
     (i) any land information memoranda issued by the territorial authority under section 44A of the Local Government Official Information and Meetings Act 1987; and
     (ii) any project information memoranda issued by the territorial authority under section 34 of the Building Act 2004.
 (2) Each local authority must make the lists and details supplied under subsection (1) available for public inspection during its usual business hours.
-(3) Subsection (4) applies if a notice is given to a territorial authority under section 67(4)(b)(ii), 68(4)(b)(iii), 73(1)(b), 78(9), or 79(b) in relation to a historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area, or on a review of an entry on the New Zealand Heritage List/Rārangi Kōrero.
-(4) For the purposes of section 34(4)(b) of the Building Act 2004 and section 44A(2)(g) of the Local Government Official Information and Meetings Act 1987, a notice referred to in subsection (3) is deemed to be information notified under this Act to a territorial authority by a statutory organisation with the power to classify land or buildings for any purpose.
+(3) Subsection (4) applies if a notice is given to a territorial authority under section 67(4)﻿(b)﻿(ii), 68(4)﻿(b)﻿(iii), 73(1)﻿(b), 78(9), or 79(b) in relation to a historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area, or on a review of an entry on the New Zealand Heritage List/Rārangi Kōrero.
+(4) For the purposes of section 34(4)﻿(b) of the Building Act 2004 and section 44A(2)﻿(g) of the Local Government Official Information and Meetings Act 1987, a notice referred to in subsection (3) is deemed to be information notified under this Act to a territorial authority by a statutory organisation with the power to classify land or buildings for any purpose.
 
 ### 77 Availability of New Zealand Heritage List/Rārangi Kōrero
 The New Zealand Heritage List/Rārangi Kōrero must be available for public inspection—
@@ -1060,7 +1060,7 @@ In this subpart, place—
   (a) the place is subject to appropriate legal protection; and
   (b) the owner and every person with a registered interest in the place have given consent to the inclusion of the place on the Landmarks list; and
   (c) the owner has prepared an appropriate risk management plan approved for the purpose by Heritage New Zealand Pouhere Taonga.
-(5) The plan required by subsection (4)(c) must include details to establish—
+(5) The plan required by subsection (4)﻿(c) must include details to establish—
   (a) how the effects on the place of natural disasters are to be mitigated; and
   (b) that the place will be managed to the highest practicable standard of care.
 (6) Nothing in this subpart affects the responsibilities of the owner of a place included on the Landmarks list.
@@ -1085,7 +1085,7 @@ In this subpart, place—
   (a) conduct and complete the review; and
   (b) provide a recommendation to the Minister.
 (3) After considering the recommendation of Heritage New Zealand Pouhere Taonga, the Minister must consult the Minister of Māori Affairs and any other Minister that the Minister considers appropriate.
-(4) After considering the recommendation given under subsection (2)(b), the Minister may reject the application in whole or in part.
+(4) After considering the recommendation given under subsection (2)﻿(b), the Minister may reject the application in whole or in part.
 (5) The Minister must advise the owner of the place, and any person with a registered interest in it, of the outcome of the review.
 
 ## Part 5 — Offences and penalties, transitional provisions, and miscellaneous matters
@@ -1130,7 +1130,7 @@ In this subpart, place—
     (ii) $120,000 in the case of a person other than a natural person.
 
 ### 88 Offence of breaching conditions of authority
-(1) Every person commits an offence who contravenes or fails to comply with any condition imposed by or under section 48(1)(a), 52, 56(1), or 62(1)(a).
+(1) Every person commits an offence who contravenes or fails to comply with any condition imposed by or under section 48(1)﻿(a), 52, 56(1), or 62(1)﻿(a).
 (2) Every person who commits an offence under subsection (1) is liable, on conviction, to a fine not exceeding—
   (a) $60,000 in the case of a natural person:
   (b) $120,000 in the case of a person other than a natural person.
@@ -1274,8 +1274,8 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (b) prescribing—
     (i) the form or content of applications, notices, or any other documentation or information as may be required under this Act; and
     (ii) the manner in which such documentation is to be provided:
-  (c) prescribing administrative charges for the matters set out in section 14(1)(j)(i) and (ii):
-  (d) providing for discounts on administrative charges imposed under section 14(1)(k) if and when Heritage New Zealand Pouhere Taonga is responsible for an application for an authority not being dealt with in accordance with the time limits prescribed by or under this Act:
+  (c) prescribing administrative charges for the matters set out in section 14(1)﻿(j)﻿(i) and (ii):
+  (d) providing for discounts on administrative charges imposed under section 14(1)﻿(k) if and when Heritage New Zealand Pouhere Taonga is responsible for an application for an authority not being dealt with in accordance with the time limits prescribed by or under this Act:
   (e) prescribing time limits for actions to be taken or decisions to be made that are not otherwise provided for in this Act:
   (f) prescribing criteria for the purposes of section 66(4) and (6):
   (g) providing for such other matters as may be contemplated by or necessary for giving full effect to this Act and its administration.
