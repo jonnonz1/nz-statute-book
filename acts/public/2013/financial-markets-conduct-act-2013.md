@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2015-12-01_
+_Consolidation as at 2016-12-01_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -6878,48 +6878,10 @@ Nothing in this Part prevents an issuer from lodging a PDS in preparation for ma
 (7) The FMA's discretion to set preconditions for requests to it includes (without limitation) a discretion to set preconditions that satisfy the FMA that it is appropriate for the amendment or replacement to be done under this section rather than by means of another power or process.
 
 ### 27 Conversion of governing documents to separate governing documents
-(1) This clause applies—
-  (a) to a governing document (existing governing document) that, immediately before the commencement of this clause, constitutes or governs 2 or more schemes, sections of schemes, or funds; and
-  (b) despite anything to the contrary in the governing document or in any enactment, rule of law, or agreement, including anything relating to the consent of any person to the making of amendments to the governing document.
-(2) The parties to an existing governing document may rescind the existing governing document, provided that the existing governing document is immediately replaced with a new governing document in respect of each scheme, section, or fund constituted or governed by the existing governing document.
-(3) However,—
-  (a) an existing governing document must not be rescinded, and new governing documents must not be executed, under this clause without the prior written consent of the FMA; and
-  (b) the parties to, and provisions of, a new governing document must differ from the parties to, and provisions of, the existing governing document only to the extent that—
-    (i) it is necessary or desirable to ensure, or in connection with ensuring, that the new governing document complies with this Act; or
-    (ii) (for any differences to which subparagraph (i) does not apply) the procedures of the existing governing document for amendments have been complied with in relation to those differences.
-(4) On the replacement of an existing governing document with new governing documents under this clause,—
-  (a) the 2 or more schemes, sections, or funds are governed by separate governing documents rather than by the existing governing document; and
-  (b) a scheme, section, or fund must be treated as the same scheme, section, or fund as it was immediately before the replacement of the existing governing document; and
-  (c) the persons who were members of a scheme, section, or fund immediately before the replacement of the existing governing document continue to be members of the same scheme, section, or fund; and
-  (d) no assets or liabilities are removed from any of the schemes, sections, or funds; and
-  (e) the 2 or more schemes must be treated as separate persons for the purposes of the Inland Revenue Acts; and
-  (f) no new settlement (as defined in section YA 1 of the Income Tax Act 2007) occurs.
-(5) This clause expires, and is repealed, 2 years after the commencement of this clause.
-(6) To avoid doubt, this clause does not limit the ways in which a scheme, section, or fund may be divided into separate schemes in accordance with the terms of the governing document or any enactment or rule of law.
-(7) The FMA's discretion to set preconditions for requests to it includes (without limitation) a discretion to set preconditions that satisfy the FMA that it is appropriate for the division of the scheme, section, or fund to be done under this section rather than by means of another power or process.
+[Repealed]
 
 ### 28 Amalgamation of schemes
-(1) This clause applies—
-  (a) to 2 or more governing documents (existing governing documents) that, immediately before the commencement of this clause, constitute or govern 2 or more schemes or funds (existing separate schemes); and
-  (b) despite anything to the contrary in the existing governing documents or in any enactment, rule of law, or agreement, including anything relating to the consent of any person to the making of amendments to the existing governing documents.
-(2) The parties to the existing governing documents may rescind the existing governing documents, provided that the existing governing documents are immediately replaced with 1 new governing document and 1 scheme or fund (amalgamated scheme) in respect of all of the existing separate schemes constituted or governed by the existing governing documents.
-(3) However,—
-  (a) existing governing documents must not be rescinded, and a new governing document must not be executed, under this clause without the prior written consent of the FMA; and
-  (b) the parties to, and provisions of, a new governing document must differ from the parties to, and provisions of, the existing governing documents only to the extent that—
-    (i) it is necessary or desirable to ensure, or in connection with ensuring, that the new governing document complies with this Act; or
-    (ii) (for any differences to which subparagraph (i) does not apply) the procedures of the existing governing documents for amendments have been complied with in relation to those differences.
-(4) On the replacement of the existing governing documents with 1 new governing document and the amalgamated scheme under this clause,—
-  (a) the amalgamated scheme is governed by 1 governing document rather than each existing separate scheme being governed by separate governing documents; and
-  (b) the amalgamated scheme must be treated as the same scheme as the existing separate schemes combined for all purposes (other than as specified in paragraphs (d) to (f)); and
-  (c) the persons who were members of each existing separate scheme immediately before the replacement of the existing governing documents are members of the amalgamated scheme; and
-  (d) the amalgamated scheme must be treated as the same person as the existing separate schemes combined for the purposes of the Inland Revenue Acts other than—
-    (i) for the purposes of the PIE rules (as defined in section YA 1 of the Income Tax Act 2007); and
-    (ii) as specified in paragraph (f)); and
-  (e) the assets or liabilities of the existing separate schemes must be treated as if they vested in the amalgamated scheme immediately after the replacement of the existing governing documents, but for the purposes of the Inland Revenue Acts this must be treated as if it is not a transfer (as defined in section YA 1 of the Income Tax Act 2007); and
-  (f) subparts IA and IQ of Part I of the Income Tax Act 2007 (which relate to the treatment of tax losses) do not apply to any carry forward of a loss balance of an existing separate scheme to the amalgamated scheme for the income year in which an existing governing document is replaced or for any later income year.
-(5) This clause expires, and is repealed, 2 years after the commencement of this clause.
-(6) To avoid doubt, this clause does not limit the ways in which schemes or funds may be amalgamated in accordance with the terms of their governing documents or any enactment or rule of law.
-(7) The FMA's discretion to set preconditions for requests to it includes (without limitation) a discretion to set preconditions that satisfy the FMA that it is appropriate for the schemes or funds to be amalgamated under this section rather than by means of another power or process.
+[Repealed]
 
 ### 29 Amended enactments continue to apply or have effect in connection with securities in accordance with regulations
 (1) If, before the commencement of this clause, an enactment that is amended by this Act applied, or had an effect, in connection with a security to which this Part applies, the enactment continues to apply, or have the effect, in connection with the security in accordance with regulations made under section 547 (if any) until the effective date.
