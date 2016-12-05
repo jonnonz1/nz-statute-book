@@ -539,7 +539,7 @@ As soon as practicable after receiving an application under clause 4, the Direct
   (a) dismiss the application; or
   (b) modify the Director-General’s decision; or
   (c) quash the Director-General’s decision; or
-  (d) if the reviewer decides that there has been an unreasonable delay as contemplated by section 20(b),—
+  (d) if the reviewer decides that there has been an unreasonable delay as contemplated by section 21(b),—
     (i) direct the Director-General to make a decision within a time frame specified by the reviewer; or
     (ii) make the decision for the Director-General.
 (3) If the reviewer quashes the Director-General’s decision, the reviewer must—
