@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2016-11-29_
+_Consolidation as at 2016-12-09_
 
 > Title
 
@@ -2284,6 +2284,7 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 | Fairway Resolution Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Health Benefits Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Ōtākaro Limited | ✓ | ✓ | ✓ | ✓ |  |
+| Predator Free 2050 Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Research and Education Advanced Network New Zealand Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Southern Response Earthquake Services Limited | ✓ | ✓ |  | ✓ |  |
 | Tāmaki Redevelopment Company Limited | ✓ | ✓ | ✓ | ✓ |  |
