@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2016-11-02_
+_Consolidation as at 2016-12-13_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -213,9 +213,10 @@ This Act is the Sale and Supply of Alcohol Act 2012.
     (b) in relation to any premises, means the territorial authority within whose district the premises are situated
   - **verified the customer's age** means, in a manner of a kind described by regulations made under this Act for the purposes of this definition, ascertained that the customer appears to be of or over the purchase age
   - **wine** , except in section 58(3), means a product that is grape wine or fruit or vegetable wine within the meaning of section 58(3)
-  - **working day** means a day that is not—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, or Labour Day; or
-    (b) a day in the period commencing on 20 December in one year and ending with 15 January in the next year.
+  - **working day** means a day of the week other than—
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    (c) a day in the period commencing on 20 December in any year and ending with 15 January in the following year.
 (2) Any term or expression that is defined in the Local Electoral Act 2001 and used in any of sections 300 to 396 (which relate to licensing trusts and community trusts), but not defined in this Act, has the same meaning as in the Local Electoral Act 2001.
 
 ### 5A Status of examples
@@ -355,10 +356,11 @@ A licence of a particular kind cannot be issued to a person who is not empowered
 (1) An on-licence, an off-licence, or a special licence (or licences of 2 or all of those kinds) can be held by—
   (a) a natural person who has attained the age of 20 years; or
   (b) any body corporate; or
+  (ba) any company within the meaning of the Companies Act 1993 that is not prevented by a restriction in its constitution (if any) from selling alcohol or from holding a licence (or a licence of the kind or kinds concerned); or
   (c) a board, organisation, or other body, that is authorised by an enactment other than this Act to sell alcohol or hold a licence (or a licence of the kind or kinds concerned); or
   (d) a licensing trust or community trust; or
   (e) a limited partnership registered under section 51 of the Limited Partnerships Act 2008 whose partnership agreement does not contain a restriction preventing it from selling alcohol, or from holding a licence (or a licence of the kind or kinds concerned); or
-  (f) a partnership each member of which is a person, body corporate, board, organisation, body, trust, or partnership, of a kind referred to in any of paragraphs (a) to (e); or
+  (f) a partnership each member of which is a person, body corporate, company, board, organisation, body, trust, or partnership, of a kind referred to in any of paragraphs (a) to (e); or
   (g) a department of State or other instrument of the Crown; or
   (h) a territorial authority (whether or not expressly authorised by an enactment other than this Act to hold a licence); or
   (i) a trustee within the meaning of the Trustee Act 1956.
@@ -1111,12 +1113,14 @@ The licensing authority or licensing committee concerned may issue a licence sub
     (i) no display or promotion of, or advertisement for, alcohol is occurring inside that sub-area; and
     (ii) no display or promotion of, or advertisement for, alcohol is occurring inside the sub-area designated as the overflow sub-area; and
   (c) no display or promotion of, or advertisement for, a product that is not alcohol occurs on the premises at any place inside the sub-area designated as the overflow sub-area unless it occurs at a time when no display or promotion of, or advertisement for, alcohol is occurring inside that sub-area.
+(4A) The effect of a single-area condition set out in subsections (1) to (4) does not apply in relation to the display or promotion of, or the advertisement for, low-alcohol or non-alcoholic beer, wine, or mead.
 (5) For the purposes of this section,—
   (a) neither of the following is a promotion of alcohol:
     (i) a sign (consistent with other general signage in the supermarket or grocery store concerned) giving directions to, or describing the location of, an area where alcohol is available for purchase:
     (ii) a newspaper, magazine, or catalogue containing a promotion of or advertisement for alcohol; and
   (b) described means described under section 113; and
-  (c) designated means designated under section 113(3)﻿(b).
+  (c) designated means designated under section 113(3)﻿(b); and
+  (d) low-alcohol or non-alcoholic beer, wine, or mead means a product that is specified in section 58(1)﻿(a) to (d) but that is not alcohol.
 
 ### 115 Application of single-area conditions can be delayed for some renewals
 (1) In this section, new single-area condition means a single-area condition—
