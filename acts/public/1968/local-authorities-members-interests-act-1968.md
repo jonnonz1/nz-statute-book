@@ -1,5 +1,5 @@
 # Local Authorities (Members' Interests) Act 1968
-_Consolidation as at 2016-11-29_
+_Consolidation as at 2016-12-13_
 
 > An Act to consolidate and amend the law relating to the making of contracts between local authorities and the members thereof, and to the restrictions on the actions of such members when matters in which they have a pecuniary interest are under consideration
 
@@ -194,7 +194,6 @@ The Auditor-General shall, either on investigation following receipt of a compla
 | The National War Memorial Council | National Art Gallery, Museum, and War Memorial Act 1972 (1972 No 11) |
 | The Natural Gas Corporation of New Zealand | Natural Gas Corporation Act 1967 (1967 No 41) |
 | The New Zealand Council for Educational Research | New Zealand Council for Educational Research Act 1972 (1972 No 35) |
-| The New Zealand Horticulture Export Authority | New Zealand Horticulture Export Authority Act 1987 (1987 No 93) |
 | The New Zealand Maori Arts and Crafts Institute | New Zealand Maori Arts and Crafts Institute Act 1963 (1963 No 51) |
 | The New Zealand Trades Certification Board | Trades Certification Act 1966 (1966 No 6) |
 | The New Zealand Wheat Board | Wheat Board Act 1965 (1965 No 60) |
