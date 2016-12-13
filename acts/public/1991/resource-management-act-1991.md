@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2016-12-06_
+_Consolidation as at 2016-12-13_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -165,7 +165,7 @@ _Consolidation as at 2016-12-06_
   - **industrial or trade premises** means—but does not include any production land
     (a) any premises used for any industrial or trade purposes; or
     (b) any premises used for the storage, transfer, treatment, or disposal of waste materials or for other waste-management purposes, or used for composting organic materials; or
-    (c) any other premises from which a contaminant is discharged in connection with any industrial or trade process—
+    (c) any other premises from which a contaminant is discharged in connection with any industrial or trade process;—
   - **industrial or trade process** includes every part of a process from the receipt of raw material to the dispatch or use in another process or disposal of any product or waste material, and any intervening storage of the raw material, partly processed matter, or product
   - **infrastructure** , in section 30, means—
     (a) pipelines that distribute or transmit natural or manufactured gas, petroleum, biofuel, or geothermal energy:
@@ -5268,7 +5268,7 @@ On and from the date on which the relevant PHT requirement comes into force, no 
 (1AA) When considering an application under section 165ZH that relates to the same aquaculture activity, a consent authority must consider all relevant information available in relation to the existing coastal permit, including any available monitoring data.
 (1) When considering an application to which section 165ZH or section 165ZI(7) or (8) applies, a consent authority must not only consider the relevant matters under this Act, but also consider the applicant's conduct in relation to—
   (a) compliance with the relevant regional coastal plan; and
-  (b) compliance with resource consent conditions for current or previous aquaculture activities undertaken by the applicant; and
+  (b) compliance with resource consent conditions for current or previous aquaculture activities undertaken by the applicant.
   (c)
 (2) In making an assessment under subsection (1)﻿(a) and (b), the council must, in relation to any successful enforcement action under Part 12, consider—
   (a) the number of any breaches that have occurred; and
@@ -6406,7 +6406,7 @@ No survey plan shall be deposited for the purposes of section 11(1)﻿(a)﻿(i) 
   (b) where land shown on the survey plan will vest in the Crown or a territorial authority, there is endorsed on the survey plan or deposited with the Registrar-General of Land, written consent to the subdivision given by—
     (i) in the case of land subject to the Land Transfer Act 1952, every registered proprietor of an interest, including any encumbrance, in the land; or
     (ii) in the case of land not subject to that Act, every person having an interest, including any encumbrance, in the land that is evidenced by an instrument registered under the Deeds Registration Act 1908; and
-  (c) there is lodged with the Registrar-General of Land a certificate signed by the chief executive or other authorised officer of the territorial authority stating that, it has approved the survey plan under section 223 (which approval states the date of the approval), and all or any of the conditions of the subdivision consent have been complied with to the satisfaction of the territorial authority and that in respect of such conditions that have not been complied with—
+  (c) there is lodged with the Registrar-General of Land a certificate signed by the chief executive or other authorised officer of the territorial authority stating that it has approved the survey plan under section 223 (which approval states the date of the approval), and all or any of the conditions of the subdivision consent have been complied with to the satisfaction of the territorial authority and that in respect of such conditions that have not been complied with—
     (i) a completion certificate has been issued in relation to such of the conditions to which section 222 applies:
     (ii) a consent notice has been issued in relation to such of the conditions to which section 221 applies:
     (iii) a bond has been entered into by the subdividing owner in compliance with any condition of a subdivision consent imposed under section 108(2)﻿(b); and
@@ -8036,7 +8036,7 @@ Part 10 of Te Ture Whenua Maori Act 1993 shall apply to the service of notices u
 (3) A person whose application to a consent authority is determined to be incomplete under section 88(3) has a right of objection to the consent authority.
 (3A) A person has a right of objection to a consent authority that decides to return the person's application under section 91C(2).
 (4) A person whose application or submission is declined to be processed or considered by a board of inquiry exercising the powers of a consent authority under section 99(8) has a right of objection to the board.
-(5) A person who requests a certificate of compliance from the EPA under section 139(13)﻿(a) has a right of objection to the EPA about the EPA's decision on the request.
+(5) A person who requests a certificate of compliance from the EPA under section 139(13) has a right of objection to the EPA about the EPA's decision on the request.
 (6) A requiring authority whose notice to a territorial authority is declined under section 182(5) has a right of objection to the territorial authority.
 (7) A requiring authority whose application to a territorial authority is not granted under section 184 has a right of objection to the territorial authority.
 (8) A requiring authority or heritage protection authority whose request to a territorial authority is not granted under section 198C(4) to (5A) has a right of objection to the territorial authority.
