@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2016-11-08_
+_Consolidation as at 2016-12-15_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -3170,18 +3170,26 @@ The enactments specified in Schedule 4 are hereby amended in the manner indicate
 | Use | TermiticideTermiticide in structures of housesTermiticide (subterranean)Wood treatmentIn use in underground cable boxes |  |
 | Hexabromobiphenyl*CAS No: 36355-01-8 | Production | None |
 | Use | None |  |
+| Hexabromocyclododecane | Production | As allowed for the parties listed in the Register in accordance with the provisions of Part VII of this Annex |
+| Use | Expanded polystyrene and extruded polystyrene in buildings in accordance with the provisions of Part VII of this Annex |  |
 | Hexabromodiphenyl ether* andheptabromodiphenyl ether* | Production | None |
 | Use | Articles in accordance with the provisions of Part IV of this Annex |  |
 | HexachlorobenzeneCAS No: 118-74-1 | Production | As allowed for the Parties listed in the Register |
 | Use | IntermediateSolvent in pesticideClosed system site limited intermediate |  |
+| Hexachlorobutadiene CAS No: 87-68-3 | Production | None |
+| Use | None |  |
 | Lindane*CAS No: 58-89-9 | Production | None |
 | Use | Human health pharmaceutical for control of head lice and scabies as second line treatment |  |
 | Mirex*CAS No: 2385-85-5 | Production | As allowed for the Parties listed in the Register |
 | Use | Termiticide |  |
 | Pentachlorobenzene*CAS No: 608-93-5 | Production | None |
 | Use | None |  |
+| Pentachlorophenol and its salts and esters | Production | As allowed for the parties listed in the Register in accordance with the provisions of Part VIII of this Annex |
+| Use | Pentachlorophenol for utility poles and cross-arms in accordance with the provisions of Part VIII of this Annex |  |
 | Polychlorinated Biphenyls (PCB)* | Production | None |
 | Use | Articles in use in accordance with the provisions of Part II of this Annex |  |
+| Polychlorinated naphthalenes, including dichlorinated naphthalenes, trichlorinated naphthalenes, tetrachlorinated napthalenes, pentachlorinated napthalenes, hexachlorinated naphthalenes, heptachlorinated naphthalenes, octachlorinated naphthalene | Production | Intermediates in production of polyfluorinated naphthalenes, including octafluoronaphthalene |
+| Use | Production of polyfluorinated naphthalenes, including octafluoronaphthalene |  |
 | Technical endosulfan*CAS No: 115-29-7 and its related isomers* CAS No: 959-98-8 and CAS No: 33213-65-9 | Production | As allowed for the parties listed in the Register of Specific Exemptions |
 | Use | Crop-pest complexes as listed in accordance with the provisions of Part VI of this Annex |  |
 | Tetrabromodiphenyl ether* andpentabromodiphenyl ether* | Production | None |
@@ -3277,7 +3285,7 @@ The provisions of note (iii) of Part I of Annex B shall not apply to these chemi
 
 | Chemical |
 | --- |
-| Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF)Hexachlorobenzene (HCB) (CAS No: 118-74-1)Pentachlorobenzene (PeCB) (CAS No: 608-93-5)Polychlorinated biphenyls (PCB) |
+| Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF)Polychlorinated naphthalenes, including dichlorinated naphthalenes, trichlorinated naphthalenes, tetrachlorinated napthalenes, pentachlorinated napthalenes, hexachlorinated naphthalenes, heptachlorinated naphthalenes, octachlorinated naphthaleneHexachlorobenzene (HCB) (CAS No: 118-74-1)Pentachlorobenzene (PeCB) (CAS No: 608-93-5)Polychlorinated biphenyls (PCB) |
 
 #### Schedule Annex D — Information requirements and screening criteria
 
@@ -3303,14 +3311,18 @@ The provisions of note (iii) of Part I of Annex B shall not apply to these chemi
 | EndrinCAS No: 72-20-8 |  |  |  |
 | HeptachlorCAS No: 76-44-8 |  |  |  |
 | HexabromobiphenylCAS No: 36355-01-8 |  |  |  |
+| Hexabromocyclododecane | expanded polystyrene and extruded polystyrene (in accordance with an “articles in use notification” under note (ii) of Annex A of the Stockholm Convention) | manufactured before 1 January 2017 | (no expiry date) |
 | Hexabromodiphenyl ether and heptabromodiphenyl ether |  |  |  |
 | HexachlorobenzeneCAS No: 118-74-1 |  |  |  |
+| Hexachlorobutadiene CAS No: 87-68-3 |  |  |  |
 | LindaneCAS No: 58-89-9 | In accordance with an exemption registered under article 4 of the Stockholm Convention:Human health pharmaceutical for control of head lice and scabies as second line treatment |  | 25 August 2015 |
 | MirexCAS No: 2385-85-5 |  |  |  |
 | PentachlorobenzeneCAS No: 608-93-5 |  |  |  |
+| Pentachlorophenol and its salts and esters |  |  |  |
 | Perfluorooctane sulfonic acid (CAS No: 1763-23-1), its salts and perfluorooctane sulfonyl fluoride (CAS No: 307-35-7) |  |  |  |
 | Polychlorinated Biphenyls (PCB) | in accordance with an exemption—agranted under regulation 49I or regulation 49J of the Toxic Substances Regulations 1983; andbthat is in force immediately before the commencement of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 |  | at the expiry of—athe exemption; orban extension of the expiry of the exemption (being not later than the close of 2016) granted by the Authority |
 | Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) |  |  |  |
+| Polychlorinated naphthalenes, including dichlorinated naphthalenes, trichlorinated naphthalenes, tetrachlorinated napthalenes, pentachlorinated napthalenes, hexachlorinated naphthalenes, heptachlorinated naphthalenes, octachlorinated naphthalene |  |  |  |
 | Technical endosulfan (CAS No: 115-29-7) and its related isomers (CAS No: 959-98-8 and CAS No: 33213-65-9) |  |  |  |
 | Tetrabromodiphenyl ether and pentabromodiphenyl ether |  |  |  |
 | ToxapheneCAS No: 8001-35-2 |  |  |  |
