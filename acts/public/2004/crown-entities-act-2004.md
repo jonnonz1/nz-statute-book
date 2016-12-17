@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2016-10-29_
+_Consolidation as at 2016-12-17_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -892,7 +892,7 @@ A responsible Minister of an independent Crown entity or a Crown entity company 
   (c) to a group of Crown entities (whether made up of categories or types) if—
     (i) the group is made up of at least 3 Crown entities; and
     (ii) the entities in the group have in common at least 1 significant characteristic that relates to the direction (for example, the characteristic could relate to the Crown entities' asset holdings or presence in a region).
-(2A) For the purposes of subsection (2)﻿(a), companies named in Schedule 4A of the Public Finance Act 1989 may be treated as a category of Crown entities.
+(2A) For the purposes of subsection (2)﻿(a) and (c), companies named in Schedule 4A of the Public Finance Act 1989 may be treated as a category of Crown entities.
 (3) No direction may be given under this section to Crown entity subsidiaries.
 
 ### 108 Process for giving directions under section 107
@@ -908,7 +908,12 @@ A responsible Minister of an independent Crown entity or a Crown entity company 
 A direction under section 107 comes into force 15 sitting days after it is presented to the House of Representatives unless the House of Representatives resolves, in that period, to disapply the direction.
 
 ### 110 Obligation to give effect to direction
-Every Crown entity within the category or type or group of Crown entities to which the direction is given must give effect to the direction as soon as it comes into force under section 109.
+(1) Every Crown entity within the category or type or group of Crown entities to which a direction is given under section 107 must give effect to the direction on—
+  (a) the date on which the direction comes into force under section 109; or
+  (b) any later date specified in the direction in relation to that Crown entity or to the category or type or group of Crown entities to which the Crown entity belongs.
+(2) If a Crown entity is established on or after the date on which a direction is given under section 107 (a new Crown entity) and the direction was given to a category or type of Crown entities to which the new Crown entity belongs, the new Crown entity must give effect to the direction on—
+  (a) the date on which the new Crown entity is established; or
+  (b) any later date on which a Crown entity within that category or type of Crown entity must give effect to the direction in accordance with subsection (1).
 
 ### 111 Publication of direction under section 107
 (1) As soon as practicable after a direction comes into force under section 109, the Ministers who gave it must ensure that it is published in the Gazette and on the Internet.
@@ -1198,7 +1203,7 @@ The purpose of a statement of intent is to promote the public accountability of 
 (4) If the responsible Minister grants an extension or a waiver under this section,—
   (a) the responsible Minister must, as soon as practicable after granting the extension or waiver, notify the Crown entity of the extension or waiver and the Minister's reasons for granting it; and
   (b) the Crown entity must, as soon as practicable after receiving notice under paragraph (a), publish notice of the extension or waiver, and the Minister's reasons for granting it, on an Internet site maintained by or on behalf of the Crown entity; and
-  (c) the Crown entity must include, in the next annual report that it provides to its responsible Minister for presentation to the House of Representatives under section 150, a statement of the exemption or waiver and the Minister's reasons for granting it.
+  (c) the Crown entity must include, in the next annual report that it provides to its responsible Minister for presentation to the House of Representatives under section 150, a statement of the extension or waiver and the Minister's reasons for granting it.
 
 ### 140 Statement of intent for newly established Crown entities
 (1) As soon as practicable after a Crown entity is established, the Crown entity must comply with section 139 as if it were the start of the financial year.
@@ -1416,7 +1421,7 @@ Ministers may participate in determining the contents of statements of performan
 ### 149L Obligation to publish and present statement of performance expectations
 (1) A Crown entity must, as soon as practicable after providing a final statement of performance expectations to its responsible Minister, publish the statement on an Internet site maintained by or on behalf of the entity.
 (2) However, if the final statement of performance expectations relates to a period commencing on or after the next Budget day, the responsible Minister may require the Crown entity not to publish the statement in the pre-Budget period.
-(3) The responsible Minister (or another entity's responsible Minister, if subsection (5) applies) must present a copy of the final statement of performance expectations to the House of Representatives—
+(3) The responsible Minister (or another Minister, if subsection (5) applies) must present a copy of the final statement of performance expectations to the House of Representatives—
   (a) in the same document as the entity's annual report for the previous financial year (see section 150); or
   (b) in any other document presented on or before the date on which the annual report described in paragraph (a) is presented.
 (4) An entity's statement of performance expectations may be presented or published in a document that includes any other statement or information, whether or not that other statement or information relates to the entity, but only if each statement or set of information is separately identifiable within that document.
