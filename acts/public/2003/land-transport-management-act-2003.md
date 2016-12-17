@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2016-12-17_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -854,7 +854,7 @@ Despite section 46(1), the Governor-General may, by Order in Council made on the
   (a) the name and address of the driver of the vehicle or any other particulars within the knowledge of the registered person that may lead to the identification of the person who was in charge or control of the vehicle at the relevant time; or
   (b) a statement that the vehicle was a stolen vehicle at the relevant time.
 (3A) Notice under subsection (3) may be given by—
-  (a) ordinary post delivered to the street address of the registered person's usual or last known place of business or residence:
+  (a) sending it, or a copy of it, by post addressed to the registered person at that person’s last known place of residence or business or postal address; or
   (b) electronic means of communication delivered to the registered person's electronic address if the toll operator complies with the Electronic Transactions Act 2002.
 (3B) Unless the registered person proves that the registered person did not (through no fault of the registered person) receive the notice given under subsection (3), a notice delivered by—
   (a) ordinary post is to be treated as having been delivered 5 working days after the date on which it was posted:
