@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2016-10-01_
+_Consolidation as at 2016-12-17_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -348,6 +348,9 @@ This Act shall be interpreted, and all persons exercising or performing function
     (e) other fishers authorised under this Act to take fish, aquatic life, or seaweed
   - **occupy** has the same meaning as in section 2(1) of the Resource Management Act 1991.
 (4)
+
+### 6A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 7 Act to bind the Crown
 This Act shall bind the Crown.
@@ -3276,7 +3279,7 @@ If a proposal for the establishment of a taiapure-local fishery has been made un
 (3) Before imposing a fishing method restriction or prohibition under subsection (1)﻿(b), the Minister must be satisfied that the method is having an adverse effect on the use and management practices of tangata whenua in the exercise of non-commercial fishing rights.
 (4) A notice given under subsection (1) must be publicly notified.
 (5) A notice given under subsection (1)—
-  (a) may not be in force beyond 2 years after the date of its notification in the Gazette:
+  (a) may be in force for a period of not more than 2 years and, unless sooner revoked, is revoked at the end of that 2-year period:
   (b) subject to paragraph (a), may be expressed to be in force for any particular year or period, or for any particular date or dates, or for any particular month or months of the year, week or weeks of the month, or day or days of the week.
 (6) Nothing in subsection (5)﻿(a) prevents a further notice being given under subsection (1) in respect of any species and area before or on or about the expiry of an existing notice that relates to that species and area.
 (7) Before giving a notice under subsection (1), the Minister must—
@@ -3300,7 +3303,7 @@ If a proposal for the establishment of a taiapure-local fishery has been made un
   (b) it is likely to assist in recognising and making provision for the use and management practices of tāngata whenua in the exercise of non-commercial fishing rights.
 (3) A notice given under subsection (1) must be publicly notified.
 (4) A notice given under subsection (1)—
-  (a) may not be in force beyond 2 years after the date of its notification in the Gazette:
+  (a) may be in force for a period of not more than 2 years and, unless sooner revoked, is revoked at the end of that 2-year period:
   (b) subject to paragraph (a), may be expressed to be in force for any particular year or period, or for any particular date or dates, or for any particular month or months of the year, week or weeks of the month, or day or days of the week.
 (5) Nothing in subsection (4)﻿(a) prevents a further notice being given under subsection (1) in respect of any stock and area before or on or about the expiry of an existing notice that relates to that stock and area.
 (6) Before giving a notice under subsection (1), the chief executive must—
@@ -3923,7 +3926,7 @@ For the purpose of this Act, any person in possession of any fish, aquatic life,
   (b) may, at any time, be removed from office by the chief executive if the chief executive no longer considers him or her to be a fit and proper person for reasons of incapacity, neglect of office, misconduct, or otherwise:
   (c) may at any time resign his or her office, and notification of such resignation shall be given to the chief executive.
 (3) There may be paid to any honorary fishery officer out of money appropriated by Parliament for the purpose—
-  (a) an honorarium not exceeding $1,000 in any one year; and
+  (a) an honorarium at a rate determined by the chief executive; and
   (b) reimbursement of actual and reasonable expenses incurred in the course of carrying out his or her powers and duties, where the chief executive has given prior authorisation and has subsequently approved the expenses.
 (4) No person appointed as an honorary fishery officer under this section shall be deemed to be employed by the Crown by reason of the appointment or any money paid to the person under this section.
 
@@ -6148,6 +6151,8 @@ Section 369L(3) expires with the close of 31 January 2007.
   (b) the Minister; or
   (c) a fishery officer; or
   (d) the Fisheries Authority.
+
+## Schedule 1AA — Transitional, savings, and related provisions
 
 ## Schedule 1A — Agreement for the implementation of the provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the conservation and management of straddling fish stocks and highly migratory fish stocks
 
