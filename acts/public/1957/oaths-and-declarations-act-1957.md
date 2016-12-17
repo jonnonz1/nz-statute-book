@@ -1,5 +1,5 @@
 # Oaths and Declarations Act 1957
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2016-12-17_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to oaths, affirmations, and declarations
 
@@ -134,7 +134,7 @@ The oath in this Act referred to as the official oath shall be in the form follo
 ### 22 By whom oath of allegiance and judicial oath to be taken
 (1) The oath of allegiance and the judicial oath shall be taken by each of the officers named in Schedule 2 as soon as may be after his acceptance of office.
 (2) The oaths to be taken under this section shall be administered by the following persons in such manner as the person administering the oath sees fit to adopt:
-  (a) in the case of the Chief Justice, the Judges of the High Court, the Masters of the High Court, the Judges of the Arbitration Court, by a Judge of the High Court:
+  (a) in the case of the Chief Justice, a Judge of the High Court, or a Master of the High Court, by a Judge of the High Court:
   (aaa) in the case of a Judge of the Court Martial, by the Judge Advocate General or a Judge of the High Court:
   (aa) in the case of a Judge of the Employment Court, by a Judge of the High Court or a Judge of the Employment Court:
   (b) in the case of a Judge of the Maori Land Court, by a Judge of the High Court or a Judge of the Maori Land Court:
