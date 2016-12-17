@@ -1,5 +1,5 @@
 # Members of Parliament (Remuneration and Services) Act 2013
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2016-12-17_
 
 ### 1 Title
 This Act is the Members of Parliament (Remuneration and Services) Act 2013.
@@ -254,7 +254,7 @@ The Remuneration Authority may, at any time in the course of preparing a determi
 
 ### 23 Services and funding subject to Speaker's directions
 (1) The Speaker must issue directions that set out—
-  (a) the entitlements of members of Parliament and qualifying electoral candidates to travel services; and
+  (a) the entitlements of members of Parliament and qualifying electoral candidates to travel services, including the extent (if at all) to which travel services may continue to be provided after a member of Parliament vacates his or her seat for the purpose of enabling the member to attend to matters associated with leaving Parliament; and
   (b) the administrative and support services that must be provided to members of Parliament, parties, and qualifying electoral candidates to support their parliamentary operations; and
   (c) the entitlements of members of Parliament and qualifying electoral candidates to communications services (other than services including electioneering), including the extent (if at all) to which communications services may continue to be provided after a member of Parliament vacates his or her seat for either or both of the following purposes:
     (i) enabling a member to attend to matters associated with leaving Parliament:
