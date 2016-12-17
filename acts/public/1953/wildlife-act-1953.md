@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2016-12-17_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -63,7 +63,7 @@ _Consolidation as at 2015-03-26_
         (B) makes provision for any activity on the land that the lessee is permitted to carry out:
       (ii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under any enactment passed before the commencement of section 2 of the Wildlife Amendment Act 1996:
       (iii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under this Act before the commencement of the said section 2; but
-    (b) does not include a licence referred to in paragraph (b)(ii) of the definition of the term licence;—
+    (b) does not include a licence referred to in paragraph (b)﻿(ii) of the definition of the term licence;—
   - **licence** —and has a corresponding meaning
     (a) means—
       (i) a profit à prendre or any other grant that gives a non-exclusive interest in land; or
@@ -140,8 +140,8 @@ The wildlife for the time being specified in Schedule 1 is hereby declared to be
 (2) Every person who in any area and during any period specified in any notification under subsection (1) hunts, kills, or has in his or her possession any wildlife to which the notification refers, commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(3).
 (3) The wildlife for the time being specified in Schedule 5 is hereby declared to be unprotected throughout New Zealand, except where that schedule otherwise provides.
 
-### 7A Noxious animals
-(1) Wild animals of any of the species for the time being specified in Schedule 6 are hereby declared to be noxious animals, and shall be subject to the Noxious Animals Act 1956.
+### 7A Wild animals
+(1) Animals of any of the species for the time being specified in Schedule 6 are hereby declared to be wild animals, and shall be subject to the Wild Animal Control Act 1977.
 (2) The Governor-General may from time to time, by Order in Council,—
   (a) amend Schedule 6 by including a reference to any other species of animal, or by omitting the reference to any species of animal for the time being included therein:
   (b) amend any other schedule of this Act by omitting the reference to any species of animal included in Schedule 6 under paragraph (a), or by including the reference to any species of animal excluded from Schedule 6 under that paragraph.
@@ -309,15 +309,15 @@ Subject to this Act, the Department shall manage all wildlife sanctuaries, wildl
 (2) In the case of any marine wildlife ranging outside New Zealand fisheries waters, the maximum allowable level of fishing-related mortality set under paragraph (f) or paragraph (g) of subsection (1) shall be based on a fair and equitable consideration of the proportion that the estimated fishing-related mortality of that species within those waters is to the total estimated fishing-related mortality of that species in all waters (including waters outside New Zealand fisheries waters).
 
 ### 14G Determining maximum allowable level of fishing-related mortality
-In determining the maximum allowable level of fishing-related mortality for threatened species or any other marine wildlife under section 14F(1)(f), the Minister,—
+In determining the maximum allowable level of fishing-related mortality for threatened species or any other marine wildlife under section 14F(1)﻿(f), the Minister,—
   (a) in the case of any threatened species, shall determine a level of fishing-related mortality which should allow the species to achieve non-threatened status as soon as reasonably practicable, and in any event within a period not exceeding 20 years:
   (b) in the case of any other marine wildlife, shall determine a level of fishing-related mortality which should neither cause a net reduction in the size of the population nor seriously threaten the reproductive capacity of the species.
 
 ### 14H Determining area-based maximum levels of fishing-related mortality
-(1) Area-based limits set under section 14F(1)(g) shall be set only—
+(1) Area-based limits set under section 14F(1)﻿(g) shall be set only—
   (a) for populations of threatened species that are geographically or genetically discrete; and
   (b) for areas corresponding to areas having effect under the Fisheries Act 1996 as fisheries management areas or quota management areas.
-(2) In setting any area-based limit for a threatened species under section 14F(1)(g), the Minister shall determine a level of fishing-related mortality for a discrete population referred to in subsection (1) which should neither cause a net reduction in the size of the population nor seriously threaten the reproductive capacity of that population.
+(2) In setting any area-based limit for a threatened species under section 14F(1)﻿(g), the Minister shall determine a level of fishing-related mortality for a discrete population referred to in subsection (1) which should neither cause a net reduction in the size of the population nor seriously threaten the reproductive capacity of that population.
 
 ### 14I Procedure for preparation and approval of population management plans
 (1) Population management plans shall be prepared and approved as follows:
@@ -664,7 +664,7 @@ The Board shall have the following functions:
   (d) impose such conditions and requirements on the use of its funds as it considers appropriate to ensure that the programme for which the funds have been granted has ongoing and long term benefits primarily for game bird habitat and secondarily for other wildlife habitat.
 (3) In exercising its powers and functions the Board shall have regard to any views expressed in writing by the Minister and addressed to the Board.
 (4) The Board shall not release its annual report for public information until it has furnished the report to the Minister in accordance with section 44K.
-(5) The power conferred by subsection (2)(b) shall include the right to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Board's functions.
+(5) The power conferred by subsection (2)﻿(b) shall include the right to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Board's functions.
 
 ### 44F Membership of Board
 The members of the Board shall be appointed by the Minister having regard to the functions of the Board and the Board shall consist of—
@@ -776,8 +776,8 @@ No member of the Board shall be personally liable for any default made by the Bo
 (1A) The Director-General in his discretion may refuse to grant his authority to do any act referred to in subsection (1), or may grant his authority either unconditionally or subject to such conditions as he thinks fit to impose.
 (2) The Director-General may at any time revoke or vary any authority granted under subsection (1).
 (3) Before granting any authority under paragraph (b) or paragraph (c) of subsection (1) to export anything referred to in either of those paragraphs, the Director-General may require the applicant to satisfy him that a permit for its importation into the country to which it is proposed to be exported has been granted by the appropriate authority in that country.
-(4) Every person who contravenes subsection (1)(ab) commits an offence against this Act and is liable on conviction to the penalty set out in section 67B.
-(5) Every person who contravenes subsection (1)(a) or (b) commits an offence against this Act and,—
+(4) Every person who contravenes subsection (1)﻿(ab) commits an offence against this Act and is liable on conviction to the penalty set out in section 67B.
+(5) Every person who contravenes subsection (1)﻿(a) or (b) commits an offence against this Act and,—
   (a) in respect of an offence committed in relation to absolutely protected wildlife, is liable on conviction to the penalty set out in section 67A(1):
   (b) in respect of an offence committed in relation to partially protected wildlife, is liable on conviction to the penalty set out in section 67C(1):
   (c) in any other case, is liable on conviction to the penalty set out in section 67F(3).
@@ -924,13 +924,13 @@ Every person who, without lawful authority, breaches or fails to comply with any
   (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
   (b) in the case of a body corporate, a fine not exceeding $200,000.
 (2) The provisions are—
-  (a) section 56(5)(a) (which relates to capturing, having in possession for the purpose of liberating, or exporting absolutely protected wildlife):
-  (b) section 63(1A)(a) (which relates to hunting, killing, buying, or selling absolutely protected wildlife, or robbing or disturbing the nest of absolutely protected wildlife):
-  (c) section 65(2)(a) (which relates to receiving absolutely protected wildlife taken without authority):
-  (d) section 65(3)(a) (which relates to being a party to an offence committed in respect of absolutely protected wildlife).
+  (a) section 56(5)﻿(a) (which relates to capturing, having in possession for the purpose of liberating, or exporting absolutely protected wildlife):
+  (b) section 63(1A)﻿(a) (which relates to hunting, killing, buying, or selling absolutely protected wildlife, or robbing or disturbing the nest of absolutely protected wildlife):
+  (c) section 65(2)﻿(a) (which relates to receiving absolutely protected wildlife taken without authority):
+  (d) section 65(3)﻿(a) (which relates to being a party to an offence committed in respect of absolutely protected wildlife).
 
 ### 67B Penalty for offence of liberating wildlife
-Every person who commits an offence against section 56(1)(ab) is liable on conviction to,—
+Every person who commits an offence against section 56(1)﻿(ab) is liable on conviction to,—
   (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
   (b) in the case of a body corporate, a fine not exceeding $200,000.
 
@@ -939,10 +939,10 @@ Every person who commits an offence against section 56(1)(ab) is liable on convi
   (a) in the case of an individual, to a fine not exceeding $10,000 plus a further fine not exceeding $500 for each head of wildlife and egg of wildlife in respect of which the offence is committed:
   (b) in the case of a body corporate, to a fine not exceeding $20,000 plus a further fine not exceeding $1,000 for each head of wildlife and egg of wildlife in respect of which the offence is committed.
 (2) The provisions are—
-  (a) section 56(5)(b) (which relates to capturing, having in possession for the purpose of liberating, or exporting partially protected wildlife):
-  (b) section 63(1A)(b) (which relates to hunting, killing, buying, or selling partially protected wildlife, or robbing or disturbing the nest of partially protected wildlife):
-  (c) section 65(2)(b) (which relates to receiving partially protected wildlife taken without authority):
-  (d) section 65(3)(b) (which relates to being a party to an offence committed in respect of partially protected wildlife).
+  (a) section 56(5)﻿(b) (which relates to capturing, having in possession for the purpose of liberating, or exporting partially protected wildlife):
+  (b) section 63(1A)﻿(b) (which relates to hunting, killing, buying, or selling partially protected wildlife, or robbing or disturbing the nest of partially protected wildlife):
+  (c) section 65(2)﻿(b) (which relates to receiving partially protected wildlife taken without authority):
+  (d) section 65(3)﻿(b) (which relates to being a party to an offence committed in respect of partially protected wildlife).
 
 ### 67D Penalty for offence of obstructing ranger
 A person convicted of an offence under section 40(1) (which relates to obstructing a ranger or other authorised person) is liable,—
@@ -970,9 +970,9 @@ A person convicted of an offence under section 40(1) (which relates to obstructi
   (f) section 18(1A) (which relates to breaching restrictions on the taking of game):
   (g) section 19(1) (which relates to hunting or killing game without a licence):
   (h) section 22(1) (which relates to shooting at or attempting to shoot at a game bird not in flight):
-  (i) section 63(1A)(c) (which relates to hunting, killing, buying, or selling game, or robbing or disturbing the nest of game):
-  (j) section 65(2)(c) (which relates to receiving game taken without authority):
-  (k) section 65(3)(c) (which relates to being a party to an offence committed in respect of game).
+  (i) section 63(1A)﻿(c) (which relates to hunting, killing, buying, or selling game, or robbing or disturbing the nest of game):
+  (j) section 65(2)﻿(c) (which relates to receiving game taken without authority):
+  (k) section 65(3)﻿(c) (which relates to being a party to an offence committed in respect of game).
 
 ### 67F Penalties for other offences
 (1) A person convicted of an offence under any of the provisions listed in subsection (2) is liable,—
@@ -991,7 +991,7 @@ A person convicted of an offence under section 40(1) (which relates to obstructi
   (j)
   (k) section 62(2) (which relates to transporting wildlife without proper information on the container):
   (l)
-  (m) section 65(3)(d) (which relates to being a party to an offence, other than an offence committed in respect of absolutely protected or partially protected wildlife or game).
+  (m) section 65(3)﻿(d) (which relates to being a party to an offence, other than an offence committed in respect of absolutely protected or partially protected wildlife or game).
   (n)
   (o)
 (3) A person convicted of an offence under any of the provisions listed in subsection (4) is liable,—
@@ -1004,7 +1004,7 @@ A person convicted of an offence under section 40(1) (which relates to obstructi
   (d)
   (e)
   (f)
-  (g) section 56(5)(c) (which relates to capturing, having in possession for the purpose of liberating, or exporting wildlife that is not absolutely protected or partially protected).
+  (g) section 56(5)﻿(c) (which relates to capturing, having in possession for the purpose of liberating, or exporting wildlife that is not absolutely protected or partially protected).
   (h)
 (5) Every person who commits an offence against any of the provisions listed in subsection (6) is liable on conviction to,—
   (a) in the case of an individual, imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both:
@@ -1061,9 +1061,9 @@ Notwithstanding anything to the contrary in section 25 of the Criminal Procedure
     (ii) in any case where it is alleged that anything prohibited was done, that the defendant took all reasonable steps to ensure that it was not done.
 (4) The defence provided in subsection (3) is in addition to any other defence or excuse provided by this Act.
 (5) The provisions are—
-  (a) section 17(6)(c) (which relates to hunting or killing waterfowl where a person knows that food has been placed or artificial waters formed):
+  (a) section 17(6)﻿(c) (which relates to hunting or killing waterfowl where a person knows that food has been placed or artificial waters formed):
   (b) section 40(1) (which relates to obstructing a ranger):
-  (c) section 58(1)(a) (which relates to shooting at, killing, disabling, or injuring a homing pigeon):
+  (c) section 58(1)﻿(a) (which relates to shooting at, killing, disabling, or injuring a homing pigeon):
   (d) section 59(5A) (which relates to interfering with vehicles, animals, equipment, or supplies brought onto land):
   (e) section 59(6) (which relates to obstructing the Director-General or an authorised officer in the exercise of powers):
   (f) section 65(2) (which relates to receiving wildlife):
@@ -1290,7 +1290,7 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
 |  |  | Rainbow skink (Lampropholis delicata) |
 |  | Red-eared slider turtle (Trachemys scripta elegans) |  |
 
-## Schedule 6 — Animals declared to be noxious animals subject to the Noxious Animals Act 1956
+## Schedule 6 — Animals declared to be wild animals subject to the Wild Animal Control Act 1977
 
 | Mammals— |  |  |
 | --- | --- | --- |
