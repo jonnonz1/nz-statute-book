@@ -1,5 +1,5 @@
 # Parliamentary Service Act 2000
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2016-12-17_
 
 ### 1 Title
 This Act is the Parliamentary Service Act 2000.
@@ -22,9 +22,9 @@ In this Act, unless the context otherwise requires,—
     (b) in relation to the period commencing immediately after the dissolution or expiry of a Parliament and ending with the first meeting of the House of Representatives after the general election, the person who held the office of Deputy Speaker at the time of the dissolution or expiry of the Parliament
   - **election advertisement** has the meaning given to it by section 3A of the Electoral Act 1993 (as inserted by section 5 of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010)
   - **electioneering** means—
-    (a) a communication of the kind described in section 3B(2)(a); and
-    (b) an advertisement of the kind described in section 3B(2)(b); and
-    (c) an advertisement of the kind described in section 3B(2)(c)
+    (a) a communication of the kind described in section 3B(2)﻿(a); and
+    (b) an advertisement of the kind described in section 3B(2)﻿(b); and
+    (c) an advertisement of the kind described in section 3B(2)﻿(c)
   - **funding entitlements for parliamentary purposes** has the meaning given to it by section 3B
   - **General Manager** means the General Manager of the Parliamentary Service
   - **government initiated referendum** means a binding or indicative referendum initiated by the Government
@@ -70,9 +70,9 @@ In sections 3B and 3C, publish, in relation to an election advertisement or a re
   (a) the performance by a member of Parliament of his or her role and functions as a member of Parliament:
   (b) the performance by a recognised party of its role and functions as a recognised party:
   (c) the provision of accommodation services for members of Parliament and qualifying electoral candidates and travel services for family members of those persons in accordance with a determination made by the Remuneration Authority under section 17(1) of the Members of Parliament (Remuneration and Services) Act 2013:
-  (d) the provision of travel services for members of Parliament and qualifying electoral candidates in accordance with directions issued by the Speaker under section 23(1)(a) of the Members of Parliament (Remuneration and Services) Act 2013:
-  (e) the provision of communications services (other than services including electioneering) in accordance with directions issued by the Speaker under section 23(1)(c) of the Members of Parliament (Remuneration and Services) Act 2013:
-  (f) the provision of travel services in accordance with directions issued by the Speaker under section 23(1)(f) of the Members of Parliament (Remuneration and Services) Act 2013:
+  (d) the provision of travel services for members of Parliament and qualifying electoral candidates in accordance with directions issued by the Speaker under section 23(1)﻿(a) of the Members of Parliament (Remuneration and Services) Act 2013:
+  (e) the provision of communications services (other than services including electioneering) in accordance with directions issued by the Speaker under section 23(1)﻿(c) of the Members of Parliament (Remuneration and Services) Act 2013:
+  (f) the provision of travel services in accordance with directions issued by the Speaker under section 23(1)﻿(f) of the Members of Parliament (Remuneration and Services) Act 2013:
   (g) the provision of services and resources to qualifying electoral candidates in accordance with directions issued by the Speaker under section 23 of the Members of Parliament (Remuneration and Services) Act 2013.
 (2) However, funding entitlements for parliamentary purposes does not include funding for—
   (a) any communication that explicitly—
@@ -85,7 +85,7 @@ In sections 3B and 3C, publish, in relation to an election advertisement or a re
   (b) an election advertisement published during the regulated period in relation to a general election, regardless of whether all or any part of an expense in relation to the advertisement is incurred or paid before, during, or after that regulated period; or
   (c) a referendum advertisement published during the regulated period in relation to a government initiated referendum, regardless of whether all or any part of an expense in relation to the advertisement is incurred or paid before, during, or after that regulated period; or
   (d) the provision of travel, accommodation, and communications services in accordance with any determination made by the Speaker of the House of Representatives under section 34 of the Members of Parliament (Remuneration and Services) Act 2013 in respect of members of Parliament participating in the official inter-parliamentary relations programme.
-(3) Subsection (2)(b) and (c) are subject to section 3C.
+(3) Subsection (2)﻿(b) and (c) are subject to section 3C.
 
 ### 3C Apportionment of funding for election advertisement or referendum advertisement published both before and during regulated period
 (1) This section applies if—
@@ -97,11 +97,11 @@ In sections 3B and 3C, publish, in relation to an election advertisement or a re
     (ii) both before and during the regulated period in relation to a government initiated referendum.
 (2) If this section applies,—
   (a) the expenses for the publication of the advertisement must be apportioned so that only a fair proportion of the expenses is attributed to the publication of the advertisement during the regulated period; and
-  (b) only expenses attributed to the publication of the advertisement during the regulated period in accordance with paragraph (a) are excluded from funding entitlements for parliamentary purposes under section 3B(2)(b) and (c); and
+  (b) only expenses attributed to the publication of the advertisement during the regulated period in accordance with paragraph (a) are excluded from funding entitlements for parliamentary purposes under section 3B(2)﻿(b) and (c); and
   (c) expenditure under Vote Parliamentary Service in respect of the publication of the advertisement is invalid only to the extent, and from the date, that expenses are attributed to the publication of the advertisement during the regulated period in accordance with paragraph (a).
 
 ### 3D Opinion given by Electoral Commission may be taken into account in determining whether advertisement is election advertisement
-An opinion given to any person by the Electoral Commission under section 204I(3) of the Electoral Act 1993 (as inserted by section 7 of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010) may be taken into account in determining whether an advertisement is an election advertisement for the purposes of section 3B(2)(b) of this Act.
+An opinion given to any person by the Electoral Commission under section 204I(3) of the Electoral Act 1993 (as inserted by section 7 of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010) may be taken into account in determining whether an advertisement is an election advertisement for the purposes of section 3B(2)﻿(b) of this Act.
 
 ### 3E Interpretation of determinations and directions under Members of Parliament (Remuneration and Services) Act 2013
 Every determination made by the Remuneration Authority under section 17 of the Members of Parliament (Remuneration and Services) Act 2013 and all directions issued by the Speaker under section 23 of that Act must be interpreted consistently with sections 3B and 3C of this Act.
@@ -196,7 +196,7 @@ There is a commission called the Parliamentary Service Commission.
 (1) The Parliamentary Service Commission has the following functions:
   (a) to advise the Speaker on the nature of the services to be provided to the House of Representatives, members of Parliament, parties, and qualifying electoral candidates (other than services in respect of members participating in the official inter-parliamentary relations programme):
   (b) to advise the Speaker on proposed directions relating to the allocation and administration of funding appropriated in Appropriation Acts to support the parliamentary operations of members of Parliament, parties, and qualifying electoral candidates:
-  (c) to nominate members of Parliament for participation in the political exchange programme.
+  (c) to recommend to the Speaker persons who are suitable to be members of a review committee.
 (2) The Commission may at any time require the Speaker or the General Manager to report on, or inquire into, matters relating to the administration of this Act or the exercise or performance of any function, duty, or power under this Act.
 (3) The Commission has any other function or power conferred on it by or under any enactment.
 (4) The Commission does not have a role in relation to—
@@ -210,13 +210,13 @@ There is a commission called the Parliamentary Service Commission.
   (b) the Leader of the House or a member of Parliament nominated from time to time by the Leader of the House:
   (c) the Leader of the Opposition or a member of Parliament nominated from time to time by the Leader of the Opposition:
   (d) such number of members of Parliament as are appointed from time to time by resolution of the House of Representatives, that number to be determined in accordance with subsection (2).
-(2) The number of members to be appointed under subsection (1)(d) is to be determined as follows:
+(2) The number of members to be appointed under subsection (1)﻿(d) is to be determined as follows:
   (a) one member for each recognised party that is represented in the House of Representatives by 1 or more members; and
   (b) an additional member for each recognised party that—
     (i) is represented in the House of Representatives by 30 or more members; and
     (ii) does not include among its members the Speaker, the Leader of the House, or the Leader of the Opposition.
-(3) No person who holds office as a Minister of the Crown or as a Parliamentary Under-Secretary may be appointed under subsection (1)(d) as a member of the Commission.
-(4) No person may be appointed under subsection (1)(d) unless the person is a member of the recognised party in respect of which the appointment is made.
+(3) No person who holds office as a Minister of the Crown or as a Parliamentary Under-Secretary may be appointed under subsection (1)﻿(d) as a member of the Commission.
+(4) No person may be appointed under subsection (1)﻿(d) unless the person is a member of the recognised party in respect of which the appointment is made.
 (5) Past service on the Commission is no bar to nomination or appointment as a member of the Commission.
 (6) To avoid any doubt, every member of Parliament who acts as a member of the Commission is, in so acting, acting in his or her official capacity as a member of Parliament.
 
@@ -225,11 +225,11 @@ There is a commission called the Parliamentary Service Commission.
 (2) When there is a vacancy in the office of Speaker, or when the Speaker is (for whatever reason) absent from duty, the Deputy Speaker is the chairperson of the Commission.
 
 ### 17 Vacation of office by nominated or appointed members
-(1) A member of the Parliamentary Service Commission who holds office because of a nomination under section 15(1)(b) or (c) ceases to be a member of the Commission if one of the following events occurs:
+(1) A member of the Parliamentary Service Commission who holds office because of a nomination under section 15(1)﻿(b) or (c) ceases to be a member of the Commission if one of the following events occurs:
   (a) the person by whom that member was nominated revokes the nomination of that member or nominates, instead of that member, another member of Parliament:
   (b) Parliament is dissolved or expires:
   (c) the member ceases to be a member of Parliament before Parliament is dissolved or expires.
-(2) A member of the Commission who holds office under section 15(1)(d) ceases to be a member of the Commission if one of the following events occurs:
+(2) A member of the Commission who holds office under section 15(1)﻿(d) ceases to be a member of the Commission if one of the following events occurs:
   (a) the House of Representatives rescinds the resolution by which the member was appointed or resolves to appoint to the Commission, instead of that member, another member of Parliament:
   (b) the member is appointed as a Minister of the Crown or as a Parliamentary Under-Secretary:
   (c) Parliament is dissolved or expires:
@@ -241,7 +241,7 @@ There is a commission called the Parliamentary Service Commission.
   (a) the Speaker:
   (b) the Leader of the House or a person nominated from time to time by the Leader of the House:
   (c) the Leader of the Opposition or a person nominated from time to time by the Leader of the Opposition.
-(2) No person may be nominated under subsection (1)(b) or (c) unless the person is a member of Parliament or was, at the dissolution or expiry of the Parliament, a member of Parliament.
+(2) No person may be nominated under subsection (1)﻿(b) or (c) unless the person is a member of Parliament or was, at the dissolution or expiry of the Parliament, a member of Parliament.
 (3) The Speaker continues to be the chairperson of the Commission throughout the period specified in subsection (1).
 
 ### 19 Further provisions relating to Commission
@@ -257,7 +257,7 @@ Schedule 2 applies in relation to the Parliamentary Service Commission.
 (2) No person appointed to the review committee may be a member of Parliament or an officer or employee of the Parliamentary Service.
 (3) Before appointing a person to the review committee, the Speaker must—
   (a) consult with the Parliamentary Service Commission about the proposed appointment; and
-  (b) take into account any relevant recommendation made by the Commission under section 14(1)(c).
+  (b) take into account any relevant recommendation made by the Commission under section 14(1)﻿(c).
 (4) The Speaker may appoint persons to the review committee on any terms and conditions, including terms and conditions as to remuneration and travelling allowances, that the Speaker considers appropriate.
 
 ### 21 Work of review committee
@@ -321,11 +321,11 @@ The Parliamentary Corporation has the following functions:
   (a) the Speaker:
   (b) the General Manager:
   (c) 2 members of the Parliamentary Service Commission (other than the Speaker) appointed by the Commission.
-(2) A member of the Corporation who holds office under subsection (1)(c) ceases to be a member if one of the following events occurs:
+(2) A member of the Corporation who holds office under subsection (1)﻿(c) ceases to be a member if one of the following events occurs:
   (a) the Parliamentary Service Commission revokes the appointment of the member or appoints, instead of that member, another person:
   (b) the member ceases to be a member of the Parliamentary Service Commission.
-(3) Despite subsection (2)(b), a member of the Corporation who holds office under subsection (1)(c) immediately before the dissolution or expiry of Parliament continues to hold office until the first meeting of the House of Representatives after the general election of its members.
-(4) A member of the Corporation who holds office under subsection (1)(c) may, by written notice to the chairperson of the Corporation, resign the office at any time.
+(3) Despite subsection (2)﻿(b), a member of the Corporation who holds office under subsection (1)﻿(c) immediately before the dissolution or expiry of Parliament continues to hold office until the first meeting of the House of Representatives after the general election of its members.
+(4) A member of the Corporation who holds office under subsection (1)﻿(c) may, by written notice to the chairperson of the Corporation, resign the office at any time.
 
 ### 30 Specific powers of Parliamentary Corporation
 (1) For the purpose of performing its functions, the Parliamentary Corporation may do any or all of the following:
@@ -543,7 +543,7 @@ At a meeting held while the Parliamentary Service Commission consists of the per
 
 ### 7 Deputies
 (1) A member of the Parliamentary Service Commission may, by notice in writing, appoint a member of Parliament to attend 1 or more meetings of the Commission as the deputy of that member.
-(2) No person who holds office as a Minister of the Crown or as a Parliamentary Under-Secretary may be appointed as the deputy of a member of the Commission who holds office under section 15(1)(d).
+(2) No person who holds office as a Minister of the Crown or as a Parliamentary Under-Secretary may be appointed as the deputy of a member of the Commission who holds office under section 15(1)﻿(d).
 (3) The appointment of a deputy ceases if—
   (a) the person who appointed the deputy, by written notice, revokes the appointment; or
   (b) the person who appointed the deputy ceases to be a member of the Commission.
@@ -603,7 +603,7 @@ As soon as practicable after the end of each year ending with 30 June, the Parli
 (2) Every meeting of the Corporation requires the presence of—
   (a) the chairperson or a deputy appointed, under clause 5, by the chairperson; and
   (b) the General Manager or a deputy appointed, under clause 5, by the General Manager; and
-  (c) 1 member appointed under section 29(1)(c) or a deputy appointed, under clause 5, by such a member.
+  (c) 1 member appointed under section 29(1)﻿(c) or a deputy appointed, under clause 5, by such a member.
 
 ### 4 Person presiding
 (1) At all meetings of the Corporation, the chairperson, if present, presides.
@@ -641,7 +641,7 @@ Subject to the provisions of this Act, the Corporation may regulate its procedur
   (a) an obligation that, if entered into by a natural person, would be required to be by deed must be entered into on behalf of the Corporation in writing under the common seal of the Corporation:
   (b) an obligation that, if entered into by a natural person, would be required to be in writing may be entered into on behalf of the Corporation in writing by a person acting under the Corporation's express or implied authority:
   (c) an obligation that, if entered into by a natural person, would not be required to be in writing may be entered into on behalf of the Corporation in writing or orally by a person acting under the Corporation's express or implied authority.
-(2) Subclause (1)(b) and (c) do not prevent the Corporation from entering into any obligation in accordance with paragraph (a) of that subclause.
+(2) Subclause (1)﻿(b) and (c) do not prevent the Corporation from entering into any obligation in accordance with paragraph (a) of that subclause.
 (3) Despite subclause (1), no obligation entered into by or on behalf of the Corporation, under the authority of a general or specific resolution of the Corporation, is invalid only because the obligation was not entered into in accordance with this clause.
 
 ### 11 Records
