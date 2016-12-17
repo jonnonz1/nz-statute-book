@@ -1,5 +1,5 @@
 # Community Trusts Act 1999
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2016-12-17_
 
 > An Act to make continued provision for the operation of the community trusts established under the Trustee Banks Restructuring Act 1988
 
@@ -48,7 +48,7 @@ A person must not be appointed or reappointed, or hold office as a trustee of a 
   (b) convicted of an offence punishable by imprisonment for a term of 2 years or more:
   (c) convicted of an offence punishable by a term of imprisonment of less than 2 years and is sentenced to imprisonment for that offence:
   (d) subject to an order made under section 383 of the Companies Act 1993:
-  (e) a person to whom section 151(2)⁠(ba) or section 151(2)⁠(c) of the Companies Act 1993 applies:
+  (e) a person to whom section 151(2)﻿(ba) or section 151(2)﻿(c) of the Companies Act 1993 applies:
   (f)
   (g) not resident in the area or region of the trust:
   (h) employed in the service of, or holding an office (other than the office of director) in, a trustee bank's successor company in which that trust holds shares.
@@ -80,7 +80,7 @@ An indemnity given by a community trust to a trustee of that trust in respect of
 
 ### 11 Regional identity of community trusts
 (1) A community trust must remain established in respect of the area or region which corresponds with the area of operation of the trustee bank (as prescribed under section 28 of the Trustee Banks Act 1983), the undertaking of which was transferred to that bank's successor company, in which the trust holds shares, or held shares at the time of its establishment.
-(2) This section is subject to sections 17 and 18.
+(2) This section is subject to sections 16A, 17, and 18.
 
 ### 12 Purposes of community trusts
 (1) Property vested in, or belonging to, a community trust must be—
@@ -116,7 +116,7 @@ An indemnity given by a community trust to a trustee of that trust in respect of
 (1) Unless directed otherwise by the Minister, the trustees of a community trust must, not later than 31 August in each year,—
   (a) send the financial statements of the trust and the auditor's report to the Minister; and
   (b) publish copies of those financial statements and the auditor's report on an Internet site maintained by or on behalf of the trust.
-(2) Despite subsection (1)⁠(b), the trustees are not required to publish on the Internet site the information specified in section 13(2) if the trustees publish on the Internet site, with the financial statements and auditor's report, a statement that a list of all distributions of income and capital approved or paid by the community trust in the relevant accounting period is available, on request, from the office of the trust.
+(2) Despite subsection (1)﻿(b), the trustees are not required to publish on the Internet site the information specified in section 13(2) if the trustees publish on the Internet site, with the financial statements and auditor's report, a statement that a list of all distributions of income and capital approved or paid by the community trust in the relevant accounting period is available, on request, from the office of the trust.
 
 ### 13C Financial reporting offences
 (1) Subsection (2) applies if—
@@ -160,6 +160,30 @@ The trust deed of a community trust must contain provisions—
 
 **Restructuring of community trusts**
 
+### 16A Adjustment to areas or regions of adjoining community trusts
+(1) The trustees of 2 or more adjoining community trusts may, in accordance with a resolution passed by not less than 75% of the trustees of each trust, submit to the Minister a scheme to adjust the areas or regions of the community trusts by adjusting the adjoining boundaries of those community trusts.
+(2) A scheme submitted under subsection (1) must—
+  (a) state the names of the community trusts:
+  (b) state the names of the trustees of the community trusts:
+  (c) state the proposed adjustment to the areas or regions of the community trusts:
+  (d) have annexed to it the trust deeds establishing the community trusts:
+  (e) have annexed to it the proposed changes to the trust deeds establishing the community trusts:
+  (f) have annexed to it any proposed transfer of property, rights, assets, or liabilities between the community trusts to reflect the proposed adjustment to the areas or regions:
+  (g) contain a summary of any submissions made under subsection (4):
+  (h) contain such other matters as may be appropriate:
+  (i) be dated.
+(3) The trustees of the community trusts must supply to the Minister any additional information relating to the scheme required by the Minister.
+(4) Before submitting a scheme to the Minister under subsection (1), the trustees of each community trust must—
+  (a) give notice in the Gazette and in 1 or more principal newspapers circulating in the area or region of the trust—
+    (i) stating that the trustees of the trust intend to submit the scheme to the Minister; and
+    (ii) specifying details of the scheme; and
+    (iii) stating that any person residing in the area or region of the trust may, within 28 days after the last publication of the notice, make written submissions to the trustees regarding the scheme; and
+  (b) have regard to any submissions made within that period.
+(5) The Governor-General may, on the advice of the Minister, by Order in Council, approve a scheme to adjust the adjoining boundaries of the trusts so that the areas or regions of 2 or more adjoining community trusts are adjusted to areas or regions described in the order.
+(6) On a date specified in the order,—
+  (a) the areas or regions of the community trusts are adjusted to the areas or regions described in the proposed changes to the trust deeds submitted to the Minister under subsection (2)﻿(e); and
+  (b) property, rights, assets, or liabilities proposed to be transferred under the scheme vest in the trustees of the community trusts in any manner proposed in subsection (2)﻿(f), and are held by them on and subject to the trusts contained in the trust deeds.
+
 ### 17 Merger of community trusts
 (1) The trustees of 2 or more community trusts may, in accordance with a resolution passed by not less than 75% of the trustees of each trust, submit to the Minister a scheme for the amalgamation of those trusts into a single community trust.
 (2) A scheme submitted under subsection (1) must—
@@ -185,7 +209,7 @@ The trust deed of a community trust must contain provisions—
   (c) the property, rights, assets, and liabilities of each of the existing community trusts vest in those trustees in the manner specified in the order, and are held by them on and subject to the trusts contained in the trust deed; and
   (d) the existing community trusts are dissolved; and
   (e) the trustees of the existing community trusts cease to hold office as trustees of those trusts.
-(7) The area or region of the new community trust established under subsection (6)⁠(a) must correspond with the area or region of the existing community trusts referred to in subsection (2)⁠(a).
+(7) The area or region of the new community trust established under subsection (6)﻿(a) must correspond with the area or region of the existing community trusts referred to in subsection (2)﻿(a).
 (8) This Act applies with any necessary modifications to every new community trust established under this section and to the trustees of those trusts.
 
 ### 18 Formation of separate community trusts in place of existing community trust
@@ -214,7 +238,7 @@ The trust deed of a community trust must contain provisions—
   (c) the property, rights, assets, and liabilities of the existing community trust vest in those trustees in the manner specified in the order and are held by them on and subject to the trusts contained in the trust deeds; and
   (d) the existing community trust is dissolved; and
   (e) the trustees of the existing community trust cease to hold office as trustees of that trust.
-(7) The area or region of each new community trust established under subsection (6)⁠(a) is the part of the area or region of the existing community trust referred to in subsection (2)⁠(a) as is specified in the order.
+(7) The area or region of each new community trust established under subsection (6)﻿(a) is the part of the area or region of the existing community trust referred to in subsection (2)﻿(a) as is specified in the order.
 (8) This Act applies with any necessary modifications to every new community trust established under this section and to the trustees of those trusts.
 
 **Other matters**
@@ -236,7 +260,7 @@ Section 64 of the Reserve Bank of New Zealand Act 1989 does not apply to—
   (a) are in addition to the powers given by this Act, the instrument creating the trust, and the powers given by any Act under which the trustees are incorporated:
   (b) unless otherwise stated, apply and have effect subject to any contrary intention expressed in this Act or the instrument creating the trust:
   (c) unless otherwise stated, apply and have effect subject to any contrary intention expressed in the Act under which the trustees are incorporated.
-(4) Nothing in subsection (3)⁠(c) affects any Act which applies to all trustees, whether corporations or not.
+(4) Nothing in subsection (3)﻿(c) affects any Act which applies to all trustees, whether corporations or not.
 
 ### 22 Fees
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, make regulations prescribing or providing for fees or charges payable by community trusts to the department for the provision of services by the department.
