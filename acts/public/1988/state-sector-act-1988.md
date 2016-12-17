@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2016-10-29_
+_Consolidation as at 2016-12-17_
 
 > Title
 
@@ -85,8 +85,8 @@ In this Act, unless the context otherwise requires,—
   - **State services** —
     (a) means all instruments of the Crown in respect of the Government of New Zealand, whether departments, corporations, agencies, or other instruments; and
     (ab) includes a Crown entity; and
-    (aba) organisations named or described in Schedule 4, and companies named in Schedule 4A, of the Public Finance Act 1989; and
-    (ac) includes a Crown Research Institute; and
+    (aba) includes organisations named or described in Schedule 4, and companies named in Schedule 4A, of the Public Finance Act 1989; and
+    (ac)
     (b) includes the education service; but
     (c) does not include—
       (i) the Governor-General; or
@@ -544,7 +544,7 @@ The Governor-General may, by Order in Council, provide for savings and transitio
 ### 43 Review of performance of chief executive
 (1) The Commissioner shall be responsible to the appropriate Minister or appropriate Ministers for reviewing, either generally or in respect of any particular matter, the performance of each chief executive.
 (1A) When reviewing the performance of a chief executive of a departmental agency, the Commissioner must consult the chief executive of the host department.
-(2) In carrying out its functions under subsection (1), the Commissioner shall report to the appropriate Minister or appropriate Ministers on the manner and extent to which the chief executive is fulfilling all of the requirements imposed upon that chief executive, whether under this Act or otherwise.
+(2) In carrying out the functions under subsection (1), the Commissioner shall report to the appropriate Minister or appropriate Ministers on the manner and extent to which the chief executive is fulfilling all of the requirements imposed upon that chief executive, whether under this Act or otherwise.
 
 ### 44 Special provisions in relation to certain chief executives
 (1) Nothing in sections 35, 36, 38, 39, and 43 applies in respect of—
@@ -1299,7 +1299,7 @@ Without limiting the provisions of the Acts Interpretation Act 1924, it is hereb
 
 ## Schedule 1 — Departments of the Public Service
 
-## Schedule 1A
+## Schedule 1A — Departmental agencies and their host departments
 
 | Departmental agency | Host department |
 | --- | --- |
