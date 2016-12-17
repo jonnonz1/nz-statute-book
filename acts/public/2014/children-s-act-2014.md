@@ -1,5 +1,5 @@
 # Vulnerable Children Act 2014
-_Consolidation as at 2016-09-01_
+_Consolidation as at 2016-12-17_
 
 ### 1 Title
 This Act is the Vulnerable Children Act 2014.
@@ -386,7 +386,10 @@ It is a defence to a charge for an offence against sections 25 to 28 that all th
     (ii) the date of conviction; and
     (iii) any sentence imposed; and
     (iv) the sentence expiry date (if any):
-  (c) whether the person is subject to any conditions imposed under the Parole Act 2002 or the Criminal Justice Act 1985:
+  (c) whether the person is subject to any conditions imposed under—
+    (i) the Parole Act 2002; or
+    (ii) the Sentencing Act 2002; or
+    (iii) the Criminal Justice Act 1985:
   (d) any other information prescribed by regulations made under section 33:
   (e) any other information the applicant wishes to place before the chief executive to whom the application is sent.
 (2) A chief executive who receives an application may, with the agreement of the chief executive of a different key agency, refer the application to that other chief executive for decision.
