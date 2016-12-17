@@ -1,5 +1,5 @@
 # Harassment Act 1997
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2016-12-17_
 
 > An Act to provide criminal and civil remedies in respect of harassment
 
@@ -406,8 +406,8 @@ Except where the court making the order appealed from otherwise directs,—
     (iv) unless or until any order made under the rules is complied with:
   (f) provide that Registrars may exercise specified powers of the court or a Judge:
   (g) provide for information about proceedings under this Act to be transferred between courts (whether District Courts, Family Courts, the High Court, the Court of Appeal, or the Supreme Court), including (without limitation) between different courts, or between different divisions of the same court, or between courts exercising civil jurisdiction and courts exercising criminal jurisdiction, or between courts exercising appellate jurisdiction and courts exercising original jurisdiction:
-  (h) apply, with or without modification, provisions of the District Courts Rules 2009.
-(3) In the absence of any rules under this section or in any situation not covered by any such rules, the District Courts Rules 2009 apply, with all necessary modifications, to proceedings under this Act.
+  (h) apply, with or without modification, provisions of the District Courts Rules 2014.
+(3) In the absence of any rules under this section or in any situation not covered by any such rules, the District Courts Rules 2014 apply, with all necessary modifications, to proceedings under this Act.
 
 ### 43 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
