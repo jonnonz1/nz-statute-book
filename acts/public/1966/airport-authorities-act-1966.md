@@ -1,5 +1,5 @@
 # Airport Authorities Act 1966
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2016-12-17_
 
 > An Act to consolidate and amend the Local Authorities Empowering (Aviation Encouragement) Act 1929 and its amendments and to confer powers on certain local authorities and other persons in respect of airports
 
@@ -192,7 +192,7 @@ Subject to the provisions of this section, any local authority may, for the purp
   (d) prescribing precautions to be taken for the protection of persons or property from accident or damage:
   (e) regulating traffic, whether pedestrian or vehicular, and the provision and use of parking places for vehicles at the airport:
   (f) prescribing the times, terms, and conditions upon which the public may enter or be in or upon the airport:
-  (ff) providing for the establishing and maintaining of facilities at the airport for the reception and storage of lost property, and, after the insertion of suitable advertisements in a newspaper circulating in the district where the airport is situated, providing for the sale by way of auction of any such property that is unclaimed after being held by the authority for not less than 3 months:
+  (ff) providing for the establishing and maintaining of facilities at the airport for the reception and storage of lost property, and, after publicising the sale in what the authority considers to be a fair and reasonable manner, providing for the sale by way of auction of any such property that is unclaimed after being held by the authority for not less than 3 months:
     provided that in the case of lost property which is perishable or valueless the bylaws may provide for the disposal of the property in such manner as may be determined by the authority:
   (g) prescribing charges for the use of parking spaces for vehicles or for the admission of members of the public to the airport or to any land adjacent to the airport owned or controlled by the airport authority:
   (h) prescribing charges for the use of the airport or any part thereof for air pageants, sports meetings, and such other matters in respect of which no charge is prescribed by regulations under the Civil Aviation Act 1990:
@@ -209,7 +209,7 @@ Subject to the provisions of this section, any local authority may, for the purp
 (6) Every Order in Council made under subsection (5) shall—
   (a) set out the bylaw approved in a schedule to the order; and
   (b) be a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and be presented to the House of Representatives under section 41 of that Act.
-(7) For the purposes of the Land Transport Act 1998, any bylaw made under subsection (1)(e) or (g) is to be treated as being made by the authority under section 22AB of the Land Transport Act 1998.
+(7) For the purposes of the Land Transport Act 1998, any bylaw made under subsection (1)﻿(e) or (g) is to be treated as being made by the authority under section 22AB of the Land Transport Act 1998.
 (8) Every person who commits a breach of any bylaw in force under this section is liable on conviction to a fine not exceeding $500 and, where the breach is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the breach has continued.
 (9) Where a person commits a continuing breach of any bylaw, then, notwithstanding anything in any other Act, a District Court may, on application by the airport authority, grant an injunction restraining the further continuance of the breach by that person.
 (10) An injunction may be granted under subsection (9),—
@@ -239,8 +239,8 @@ Subject to the provisions of this section, any local authority may, for the purp
 (2) Regulations made under subsection (1) may require or prescribe different requirements or matters in relation to—
   (a) different classes of airport company (and, in particular, in relation to specified airport companies); and
   (b) the disclosure financial statements and disclosure financial forecasts of different classes of airport company (and, in particular, of specified airport companies).
-(3) No guidelines are permitted to be made pursuant to regulations made under subsection (1)(h) except after consultation with such persons, representative groups within the aviation industry or elsewhere, substantial customers of airport companies, government departments, and Crown agencies as the person or persons making the guidelines think appropriate.
-(4) Any guidelines made under subsection (1)(h) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) No guidelines are permitted to be made pursuant to regulations made under subsection (1)﻿(h) except after consultation with such persons, representative groups within the aviation industry or elsewhere, substantial customers of airport companies, government departments, and Crown agencies as the person or persons making the guidelines think appropriate.
+(4) Any guidelines made under subsection (1)﻿(h) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 9B Validity of certain arrangements not affected by failure to consult on capital expenditure
 A failure by a specified airport company to comply with section 4C does not affect the validity or enforceability of any deed, agreement, right, or obligation entered into, obtained, or incurred by that specified airport company.
@@ -249,12 +249,12 @@ A failure by a specified airport company to comply with section 4C does not affe
 (1) Every airport company that is required by regulations made under section 9A to make any financial statement, financial forecast, or other information publicly available—
   (a) must supply to the Secretary for Transport, within 30 days after the day on which any such statement, forecast, or other information is so made available, a copy of that financial statement, financial forecast, or other information:
   (b) must, if the Secretary for Transport, for the purpose of monitoring the airport company's compliance with those regulations, gives to the airport company a notice in writing requesting further statements, forecasts, reports, agreements, particulars, and other information, supply to the Secretary for Transport, within 30 days after the day on which the request is given to that airport company (or within such additional time as the Secretary for Transport allows) the requested statements, forecasts, reports, agreements, particulars, and other information.
-(2) All statements, forecasts, reports, agreements, particulars, and information supplied to the Secretary for Transport under paragraph (a) or paragraph (b) of subsection (1) must be verified by statutory declaration in the form prescribed, and by the person or persons prescribed, by regulations made under section 9A(1)(j).
+(2) All statements, forecasts, reports, agreements, particulars, and information supplied to the Secretary for Transport under paragraph (a) or paragraph (b) of subsection (1) must be verified by statutory declaration in the form prescribed, and by the person or persons prescribed, by regulations made under section 9A(1)﻿(j).
 
 ### 9D Offences
 (1) Every person commits an offence against this section who—
   (a) fails, without reasonable excuse, to comply with any information disclosure requirements prescribed in regulations made under section 9A; or
-  (b) fails, without reasonable excuse, to comply with the requirements of section 9C(1)(a) or with a request made under section 9C(1)(b).
+  (b) fails, without reasonable excuse, to comply with the requirements of section 9C(1)﻿(a) or with a request made under section 9C(1)﻿(b).
 (2) Every person commits an offence against this section who makes a false declaration under section 9C(2) in relation to any statement, forecast, report, agreement, particulars, or information supplied under section 9C(1).
 (3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
 (4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000.
