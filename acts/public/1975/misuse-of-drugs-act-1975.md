@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2015-11-07_
+_Consolidation as at 2016-12-17_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -448,7 +448,7 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
   (a) in the case of a medical practitioner, except on the recommendation of the Medical Council of New Zealand; or
   (b) in the case of a dentist, except on the recommendation of the Dental Council of New Zealand; or
   (c) in the case of a veterinarian, except on the recommendation of the Veterinary Council of New Zealand; or
-  (ca) in the case of a midwife, except on the recommendation of the Nursing Council of New Zealand; or
+  (ca) in the case of a midwife, except on the recommendation of the Midwifery Council; or
   (d) in the case of a pharmacist, except on the recommendation of the Pharmacy Council; or
   (da) in the case of a nurse practitioner, except on the recommendation of the Nursing Council; or
   (db) in the case of an optometrist, except on the recommendation of the Optometrists and Dispensing Opticians Board; or
