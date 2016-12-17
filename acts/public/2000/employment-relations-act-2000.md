@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2016-12-17_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -2633,7 +2633,7 @@ An employee who believes that he or she has a personal grievance may pursue that
   (f) that the employee has been subject to duress in the employee's employment in relation to membership or non-membership of a union or employees organisation; or
   (g) that the employee's employer has failed to comply with a requirement of Part 6A; or
   (h) that the employee has been disadvantaged by the employee’s employment agreement not being in accordance with section 67C, 67D, 67G, or 67H; or
-  (i) that the employee’s employer has contravened section 67F or 67G(4).
+  (i) that the employee’s employer has contravened section 67F or 67G(3).
   (j) that the employee’s employer has, in relation to the employee,—
     (i) engaged in adverse conduct for a prohibited health and safety reason; or
     (ii) contravened section 92 of the Health and Safety at Work Act 2015 (which prohibits coercion or inducement).
