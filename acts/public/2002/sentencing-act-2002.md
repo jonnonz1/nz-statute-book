@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2016-12-17_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -493,7 +493,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
 ### 30 No sentence of imprisonment to be imposed without opportunity for legal representation
 (1) No court may impose a sentence of imprisonment on an offender who has not been legally represented at the stage of the proceedings at which the offender was at risk of conviction, except as provided in subsection (2).
 (2) Subsection (1) does not apply if the court is satisfied that the offender—
-  (a) was informed of his or her rights relating to legal representation, including, where appropriate, the right to apply for legal aid under the Legal Services Act 2000; and
+  (a) was informed of his or her rights relating to legal representation, including, where appropriate, the right to apply for legal aid under the Legal Services Act 2011; and
   (b) fully understood those rights; and
   (c) had the opportunity to exercise those rights; and
   (d) refused or failed to exercise those rights, or engaged counsel but subsequently dismissed him or her.
@@ -501,7 +501,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
   (a) quash the sentence imposed and impose in substitution for it any other lawful sentence that the court thinks ought to have been imposed; or
   (b) quash the conviction and direct a new trial, or make any other order that justice requires.
 (4) For the purposes of this section, an offender refuses or fails to exercise his or her rights relating to legal representation if the offender—
-  (a) refuses or fails to apply for legal aid under the Legal Services Act 2000 or applies for it unsuccessfully; and
+  (a) refuses or fails to apply for legal aid under the Legal Services Act 2011 or applies for it unsuccessfully; and
   (b) refuses or fails to engage counsel by other means.
 
 ### 31 General requirement to give reasons
@@ -1137,7 +1137,7 @@ An offender commits an offence, and is liable on conviction to imprisonment for 
   (b) vary the curfew address; or
   (c) cancel the sentence; or
   (d) cancel the sentence and substitute any other sentence (including another sentence of community detention) that could have been imposed on the offender at the time that the offender was convicted of the offence for which the sentence was imposed.
-(3A) When an application is made under this section for variation of conditions on the ground specified in subsection (1)﻿(b) and there is no suitable alternative curfew address available, the court may do either or both of the following things:
+(3A) When an application is made under this section on the ground specified in subsection (1)﻿(b) and there is no suitable alternative curfew address available, the court may do either or both of the following things:
   (a) issue to a constable a warrant for the offender's arrest:
   (b) bail the offender or remand the offender in custody if the application cannot be determined immediately.
 (4) When determining a substitute sentence to be imposed under subsection (3)﻿(d), the court must take into account the portion of the original sentence that remains unserved at the time of the order.
@@ -1464,26 +1464,26 @@ When an offender performs any service or does any work or attends any course or 
   (b) vary the home detention residence; or
   (c) cancel the sentence; or
   (d) cancel the sentence and substitute any other sentence (including another sentence of home detention) that could have been imposed on the offender at the time that the offender was convicted of the offence for which the sentence was imposed.
-(4A) When an application is made under this section for variation of conditions on the ground specified in subsection (1)﻿(c) and there is no suitable alternative residence available, the court may do either or both of the following things:
+(4A) When an application is made under this section on the ground specified in subsection (1)﻿(c) and there is no suitable alternative residence available, the court may do either or both of the following things:
   (a) issue to a constable a warrant for the offender's arrest:
   (b) bail the offender or remand the offender in custody if the application cannot be determined immediately.
 (5) An application under subsection (1), (2), or (3) may be made at any time before or after the sentence commences.
 (6) Section 72 applies, with any necessary modifications, to an application under this section.
 
-### 80FA Chief executive of Department of Corrections may vary offender's home detention address
-(1) The chief executive of the Department of Corrections may vary an offender's home detention address if—
-  (a) the home detention address is no longer available or suitable because of a change in circumstances; and
-  (b) an alternative address is suitable; and
-  (c) every relevant occupant (as defined in section 26A(4)﻿(a)) at the alternative address has given their informed consent to the offender remaining at that address while serving his or her home detention sentence; and
-  (d) the alternative address is in an area in which a home detention scheme is administered by the Department of Corrections; and
-  (e) the offender has given written consent to the change in address.
-(2) A probation officer may, subject to subsection (3), approve a provisional home detention address at which the offender must remain pending a decision by the chief executive under subsection (1).
-(3) If the chief executive does not vary a home detention address within 10 working days after a provisional home detention address is approved under subsection (2),—
-  (a) the probation officer must approve another provisional home detention address at which the offender must remain pending a decision by the chief executive under subsection (1); or
-  (b) the probation officer must apply to the court for an order under section 80F(4) at the earliest opportunity and the offender must, unless the probation officer directs otherwise, remain at the provisional home detention address approved under subsection (2) pending the decision of the court.
-(4) If the chief executive does not vary a home detention address within 10 days after the probation officer has approved a provisional home detention address under subsection (3)﻿(a),—
+### 80FA Chief executive of Department of Corrections may vary offender's home detention residence
+(1) The chief executive of the Department of Corrections may vary an offender's home detention residence if—
+  (a) the home detention residence is no longer available or suitable because of a change in circumstances; and
+  (b) an alternative residence is suitable; and
+  (c) every relevant occupant (as defined in section 26A(4)﻿(a)) at the alternative residence has given their informed consent to the offender remaining at that residence while serving his or her home detention sentence; and
+  (d) the alternative residence is in an area in which a home detention scheme is administered by the Department of Corrections; and
+  (e) the offender has given written consent to the change in residence.
+(2) A probation officer may, subject to subsection (3), approve a provisional home detention residence at which the offender must remain pending a decision by the chief executive under subsection (1).
+(3) If the chief executive does not vary a home detention residence within 10 working days after a provisional home detention residence is approved under subsection (2),—
+  (a) the probation officer must approve another provisional home detention residence at which the offender must remain pending a decision by the chief executive under subsection (1); or
+  (b) the probation officer must apply to the court for an order under section 80F(4) at the earliest opportunity and the offender must, unless the probation officer directs otherwise, remain at the provisional home detention residence approved under subsection (2) pending the decision of the court.
+(4) If the chief executive does not vary a home detention residence within 10 days after the probation officer has approved a provisional home detention residence under subsection (3)﻿(a),—
   (a) the probation officer must apply to the court for an order under section 80F(4) at the earliest opportunity; and
-  (b) the offender must, unless the probation officer directs otherwise, remain at the provisional home detention address approved under subsection (3)﻿(a) pending the decision of the court.
+  (b) the offender must, unless the probation officer directs otherwise, remain at the provisional home detention residence approved under subsection (3)﻿(a) pending the decision of the court.
 
 ### 80G Matters relating to orders under section 80F
 (1) If the court cancels a sentence of home detention under section 80F(4)﻿(d), the court may at the same time cancel any sentence of community work that the offender is serving concurrently with the sentence of home detention.
@@ -1535,7 +1535,7 @@ If the outcome of an offender's appeal against a sentence of home detention is u
 ### 80N Imposition of post-detention conditions on offender
 (1) A court that sentences an offender to a term of home detention of 6 months or less may impose the standard post-detention conditions and any special post-detention conditions on the offender and, if it does so, must specify when the conditions expire.
 (2) If a court sentences an offender to a term of home detention of more than 6 months,—
-  (a) the standard post-detention conditions apply to the offender for a period of 12 months from the detention end date, unless the court specifies otherwise; and sections 80Q, 80R, 80U, and 80ZG apply as if the standard conditions had been imposed by order of the court; and
+  (a) the standard post-detention conditions apply to the offender for a period of 12 months from the detention end date, unless the court specifies a different period; and sections 80Q, 80R, 80U, and 80ZG apply as if the standard conditions had been imposed by order of the court; and
   (b) the court may, at the same time, impose any special post-detention conditions on the offender and, if it does so, must specify when the conditions expire.
 (3) The court may specify that post-detention conditions imposed under this section expire on a date that is a specified period of at least 6 months, but no more than 12 months, from the detention end date.
 (4) If the court imposes special post-detention conditions on the offender, the special post-detention conditions may apply for as long as, but not longer than, the standard post-detention conditions that apply to the offender.
@@ -1754,7 +1754,7 @@ No period during which a sentence of home detention is suspended under section 8
   (b) the offender must report to a probation officer on that date; and
   (c) the sentence of home detention resumes when the offender has reported to the probation officer on that date.
 (3) If the offender has been on bail for more than 2 months, the probation officer must, before the sentence of home detention resumes,—
-  (a) review the suitability of the home detention address; and
+  (a) review the suitability of the home detention residence; and
   (b) ensure every relevant occupant consents, in accordance with section 26A(3), to the offender resuming the sentence at the home detention residence; and
   (c) if necessary, apply to the court for a variation or cancellation of the sentence under section 80F or obtain from the chief executive of the Department of Corrections a variation of the home detention residence under section 80FA.
 (4) This section does not apply if the offender is detained under a sentence of imprisonment.
@@ -2072,7 +2072,7 @@ A provision contained in sections 86B to 86E that is inconsistent with another p
 ### 93 Imposition of conditions on release of offender sentenced to imprisonment for short term
 (1) A court that sentences an offender to a term of imprisonment of 12 months or less may impose the standard conditions and any special conditions on the offender and, if it does so, must specify when the conditions expire.
 (2) If a court sentences an offender to a term of imprisonment of more than 12 months but not more than 24 months,—
-  (a) the standard conditions apply to the offender until the sentence expiry date, unless the court specifies otherwise; and sections 94, 95, and 96 apply as if the standard conditions had been imposed by order of the court; and
+  (a) the standard conditions apply to the offender until the sentence expiry date, unless the court specifies a different date; and sections 94, 95, and 96 apply as if the standard conditions had been imposed by order of the court; and
   (b) the court may at the same time impose any special conditions on the offender and, if it does so, must specify when the conditions expire.
 (2A) The court may specify that conditions imposed under this section expire on—
   (a) the sentence expiry date; or
@@ -2428,7 +2428,7 @@ In this section and sections 123B to 123G, unless the context otherwise requires
 
 ### 123C Provisions applying to protection order made under section 123B
 (1) Subject to the modifications set out in subsection (2), the following provisions apply so far as applicable to a protection order made under section 123B as if that order were a final protection order made under the Domestic Violence Act 1995:
-  (a) sections 16(1), 19 (except subsection (3)), 20 (except subsection (5)), 21 (except subsections (2)﻿(a), (4), and (5)), 24(3), 25(1) (except paragraph (a)), 26(1), 28 (except subsection (6)), 32(1) and (4), and 33 of the Domestic Violence Act 1995; and
+  (a) sections 16(1), 19 (except subsection (3)), 20 (except subsection (5)), 21 (except subsections (2)﻿(a), (4), and (5)), 24(3), 25(1) (except paragraph (a)), 26(1), 28 (except subsection (6)), 51D, and 51L of the Domestic Violence Act 1995; and
   (b) section 27 of the Domestic Violence Act 1995, except that the court may not impose a condition relating to the matters set out in subsection (2) of that section.
 (2) The modifications referred to in subsection (1) are as follows:
   (a) every reference to protection order or final order must be read as a reference to an order made under section 123B:
@@ -2439,7 +2439,7 @@ In this section and sections 123B to 123G, unless the context otherwise requires
 (1) On making a protection order, the Judge or Registrar must explain to the offender—
   (a) the effect of—
     (i) the order; and
-    (ii) any direction to attend a programme made under section 32 of the Domestic Violence Act 1995 (as applied by section 123C(1)﻿(a)); and
+    (ii) any direction to attend a programme made under section 51D of the Domestic Violence Act 1995 (as applied by section 123C(1)﻿(a)); and
   (b) the consequences that may follow if the offender fails to—
     (i) comply with the terms of the order; or
     (ii) attend any session of a programme that he or she has been directed to attend; and
@@ -2459,7 +2459,7 @@ In this section and sections 123B to 123G, unless the context otherwise requires
 ### 123G Protection order treated as if made by Family Court
 As soon as an order has been entered in the records of the Family Court under section 123F(2),—
   (a) the order is to be treated as if it were a final protection order made by that court under the Domestic Violence Act 1995; and
-  (b) sections 22(2)﻿(b) and (6), 23, 29 to 31, 34, 35, 38 to 44, 45(2), 46(1), 47(1), 48 to 50, 82, and 88 to 95 of the Domestic Violence Act 1995 apply to the order accordingly.
+  (b) sections 22(2)﻿(b) and (6), 23, 45(2), 46(1), 47(1), 48, 49, 50, 51C, 51G, 51H, 51L to 51T, 82, and 88 to 95 of the Domestic Violence Act 1995 apply to the order accordingly.
 
 **Disqualification from driving**
 
