@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2016-12-17_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -2553,6 +2553,22 @@ The Registrar must pay all infringement fees received into a Crown Bank Account.
   (a) ensure that a copy of the concise annual report is available in the manner described in the notice under section 209(3)﻿(d)﻿(iii) at all reasonable times during the period beginning on the date the notice is sent and ending on the date the board acts under section 209(1) in relation to the next accounting period; and
   (b) ensure that the manner described in the notice under section 209(3)﻿(d)﻿(iii) allows a copy of the concise annual report to be readily accessible so as to be usable for subsequent reference.
 (3) If the board of a company fails to comply with this section, every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
+
+### 209C Alternative obligations for FMC reporting entities
+(1) This section applies, in respect of a company (company A) that is an FMC reporting entity, on and after the date on which FMC regulations impose obligations on any company in relation to the way in which it must make its annual report available (including by electronic means).
+(2) If company A is an issuer of regulated products within the meaning of the FMC Act that is required to comply with those FMC regulations, sections 209 to 209B do not apply to an annual report to which the FMC regulations apply.
+(3) If company A is not an issuer of regulated products within the meaning of the FMC Act that is required to comply with those FMC regulations, the board of the company may elect, in respect of an annual report, to comply with the FMC regulations instead of with sections 209 to 209B (as if company A were an issuer of that type).
+(4) If subsection (3) applies,—
+  (a) if the board complies with the FMC regulations, there is no liability for breach of sections 209 to 209B; and
+  (b) if the board fails to comply with the FMC regulations, every director is liable for a breach of sections 209 to 209B (except to the extent that the board complies with those sections), but is not liable under the FMC Act.
+(5) In this section,—
+  - **annual report** —
+    (a) means a report prepared under section 208; and
+    (b) includes a concise annual report (if any)
+  - **FMC Act** means the Financial Markets Conduct Act 2013
+  - **FMC regulations** means regulations made under section 543(1)﻿(e) of the FMC Act that impose obligations on any FMC reporting entities in relation to the way in which an entity must make its annual report available under either or both of sections 96 and 97 of the FMC Act (including by electronic means)
+  - **FMC reporting entity** has the same meaning as in section 451 of the FMC Act.
+(6) Regulations may be made under section 543(1)﻿(e) of the FMC Act for the purpose of this section.
 
 ### 210 Information for shareholders who elect not to receive annual report
 [Repealed]
