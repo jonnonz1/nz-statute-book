@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2014-08-01_
+_Consolidation as at 2016-12-17_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -2084,9 +2084,9 @@ A local authority may make contributions out of its general fund or account for 
   (b) molests or pursues any animal in a conservation area; or
   (c) captures, kills, poisons, tranquillises, traps, or immobilises by any means, any animal in a conservation area; or
   (d) has in possession in any conservation area any animal or animal product; or
-  (e) whether or not any animal or animal product is taken, takes or uses in or over any conservation area any aircraft, dog, hunting weapon, net, poison, ship, snare, or vehicle, for the purpose of molesting, pursuing, capturing, killing, poisoning, tranquillising, trapping, or immobilising, by any means, any animal; or
+  (e) whether or not any animal or animal product is taken, takes or uses in or over any conservation area any aircraft, dog, hunting weapon, net, trap, poison, ship, snare, or vehicle, for the purpose of molesting, pursuing, capturing, killing, poisoning, tranquillising, trapping, or immobilising, by any means, any animal; or
   (f) takes any animal product in a conservation area; or
-  (g) whether or not any animal product is taken, takes or uses in or over any conservation area any aircraft, dog, net, ship, or vehicle, for the purpose of taking any animal product; or
+  (g) whether or not any animal product is taken, takes or uses in or over any conservation area any aircraft, dog, net, trap, ship, or vehicle, for the purpose of taking any animal product; or
   (h) enters any conservation area with a hunting weapon, net, trap, or snare, or with poison; or
   (i) sets any net, trap, or snare, on any conservation area; or
   (j) allows any animal to molest, pursue, or kill, any animal, in a conservation area.
