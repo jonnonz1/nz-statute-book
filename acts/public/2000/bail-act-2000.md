@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2013-10-23_
+_Consolidation as at 2016-12-17_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -15,7 +15,7 @@ In this Act, unless the context otherwise requires,—
   - **court** means a court presided over by a judicial officer with authority to exercise the court's jurisdiction in relation to the matter
   - **District Court** includes a Justice or Justices, or a Community Magistrate or Community Magistrates presiding over a District Court; but does not include a Registrar
   - **drug dealing offence** means—
-    (a) any offence against section 6 or 12C(1)(a) of the Misuse of Drugs Act 1975 in relation to a Class A controlled drug or a Class B controlled drug; or
+    (a) any offence against section 6 or 12C(1)﻿(a) of the Misuse of Drugs Act 1975 in relation to a Class A controlled drug or a Class B controlled drug; or
     (b) an attempt to commit an offence referred to in paragraph (a)
   - **electronic monitoring address** or means the address, specified by a judicial officer or Registrar or an EM assessor, where a defendant subject to an EM condition must remain
   - **electronic monitoring assessor** or means a person authorised under section 30E to act as an EM assessor
@@ -145,9 +145,14 @@ No defendant of or over the age of 17 years who is found guilty of, or pleads gu
 (5) This section is subject to section 11.
 
 ### 14 Exercise of discretion when considering bail pending appeal
-(1) If a person is in custody or subject to a sentence of home detention under a conviction and is appealing the conviction or sentence, or both, the court must not grant bail unless it is satisfied on the balance of probabilities that it would be in the interests of justice in the particular case to do so.
+(1) This section applies if an appellant—
+  (a) is appealing his or her conviction or sentence, or both; and
+  (b) is—
+    (i) in custody; or
+    (ii) in a home detention residence subject to a sentence of home detention.
+(1A) The court must not grant bail to the appellant unless it is satisfied on the balance of probabilities that it would be in the interests of justice in the particular case to do so.
 (2) The onus is on the appellant to show cause why bail should be granted.
-(3) When considering the interests of justice under subsection (1) the court may, instead of the considerations in section 8, take into account the following considerations:
+(3) When considering the interests of justice under subsection (1A) the court may, instead of the considerations in section 8, take into account the following considerations:
   (a) the apparent strength of the grounds of appeal:
   (b) the length of the sentence that has been imposed on the appellant:
   (c) the likely length of time that will pass before the appeal is heard:
@@ -178,7 +183,7 @@ A defendant who is charged with or convicted of a drug dealing offence may be gr
 (2) No defendant to whom this section applies may be granted bail or allowed to go at large unless the defendant satisfies the Judge that bail or remand at large should be granted.
 (3) In particular (but without limiting any other matters in respect of which the defendant must satisfy the Judge under subsection (2)), the defendant must satisfy the Judge on the balance of probabilities that the defendant will not, while on bail or at large, commit any drug dealing offence.
 (4) In this section, serious Class A drug offence means—
-  (a) an offence under section 6 or 12C(1)(a) of the Misuse of Drugs Act 1975 for contravention of section 6(1)(a), (b), (c), or (f) in relation to a Class A controlled drug; or
+  (a) an offence under section 6 or 12C(1)﻿(a) of the Misuse of Drugs Act 1975 for contravention of section 6(1)﻿(a), (b), (c), or (f) in relation to a Class A controlled drug; or
   (b) an attempt to commit an offence in paragraph (a).
 
 **General provisions relating to bail hearings**
@@ -194,8 +199,8 @@ A court may, having regard to the interests of the defendant or any other person
   (d) the conditions of bail, if bail is granted.
 (2) Despite subsection (1), a court may make an order—
   (a) that permits publication of other details; or
-  (b) that prohibits publication of all or any of the details set out in subsection (1)(a) to (d).
-(3) The general prohibition on publication of details of a bail hearing under subsection (1), and any specific prohibition that is ordered under subsection (2)(b), applies until—
+  (b) that prohibits publication of all or any of the details set out in subsection (1)﻿(a) to (d).
+(3) The general prohibition on publication of details of a bail hearing under subsection (1), and any specific prohibition that is ordered under subsection (2)﻿(b), applies until—
   (a) the conclusion of the defendant's trial; or
   (b) any earlier time ordered by the court.
 (4) For the purposes of subsection (3), the conclusion of the defendant's trial means—
@@ -212,7 +217,7 @@ A court may, having regard to the interests of the defendant or any other person
 
 ### 20 Evidence in bail hearing
 (1) In hearing an application for bail a court may receive as evidence any statement, document, information, or matter that it considers relevant, whether or not it would be otherwise admissible in a court of law.
-(2) Despite subsection (1), when considering the matter described in section 8(2)(b),—
+(2) Despite subsection (1), when considering the matter described in section 8(2)﻿(b),—
   (a) the court may only consider a statement, document, information, or matter that would be admissible in a court of law if made by the appropriate person or given or produced in proper form; but
   (b) for the purpose of the bail hearing, it does not matter whether the evidence—
     (i) is given or produced by the appropriate person or given or produced in sworn or unsworn form; or
@@ -286,7 +291,7 @@ Sections 39, 51, and 52 apply, with any necessary modifications, to a defendant 
 (2) A Registrar may exercise the power conferred by subsection (1) to grant bail if the prosecutor agrees.
 
 ### 28 Warrant for detention of defendant remanded on bail
-If the defendant is granted bail under section 27 but the defendant is not released within the period specified in section 31(3)(a), a judicial officer or Registrar may—
+If the defendant is granted bail under section 27 but the defendant is not released within the period specified in section 31(3)﻿(a), a judicial officer or Registrar may—
   (a) issue a warrant for the detention of the defendant in custody until a date, time, and place appointed for bail to be reconsidered (which date and time must be as soon as reasonably practicable); and
   (b) certify on the warrant the fact that the judicial officer or Registrar has granted the defendant bail, and the condition or conditions imposed.
 
@@ -304,7 +309,7 @@ If the defendant is granted bail under section 27 but the defendant is not relea
 (2) A judicial officer or Registrar may impose, as further conditions of the defendant's release,—
   (a) an EM condition:
   (b) a condition that the defendant report to the Police at the time or times and at the place or places that the judicial officer or Registrar orders.
-(2A) However, a Registrar must not impose an EM condition under subsection (2)(a) unless the prosecution agrees.
+(2A) However, a Registrar must not impose an EM condition under subsection (2)﻿(a) unless the prosecution agrees.
 (3) When considering bail pending sentencing, a judicial officer or Registrar may impose any condition that the judicial officer or Registrar considers reasonably necessary to ensure that the defendant takes the steps necessary for the proceedings to be progressed within a reasonable timeframe.
 (4) Whether or not the judicial officer or Registrar imposes a condition under subsection (2) or (3), the judicial officer or Registrar may impose any other condition that the judicial officer or Registrar considers reasonably necessary to ensure that the defendant—
   (a) appears in court on the date to which the defendant has been remanded; and
@@ -418,7 +423,7 @@ In granting bail with an EM condition, a court must specify the EM address.
     (iii) to seek urgent medical or dental treatment; or
     (iv) to avoid or minimise a serious risk of death or injury to the defendant or any other person; or
     (v) to surrender himself or herself to Police custody; and
-  (c) remain in the area of the EM address that has been defined by an EM assessor under section 30K, except when leaving the EM address as permitted under paragraph (b)(i) to (v); and
+  (c) remain in the area of the EM address that has been defined by an EM assessor under section 30K, except when leaving the EM address as permitted under paragraph (b)﻿(i) to (v); and
   (d) co-operate with, and comply with any lawful direction given by, an EM assessor; and
   (e) present himself or herself at the door of the EM address when required to do so by any member of the Police or an EM assessor; and
   (f) keep the notice of bail in his or her possession at the EM address and present it when required to do so by any member of the Police; and
@@ -436,9 +441,9 @@ In granting bail with an EM condition, a court must specify the EM address.
 ### 30N EM assessor may approve temporary EM address
 (1) If the EM address becomes unsuitable or unavailable through a change of circumstances (including the withdrawal of consent of a relevant occupant),—
   (a) an EM assessor may approve a temporary EM address; and
-  (b) within 5 working days after approving a temporary EM address, the EM assessor must make an application under section 33(1)(b) or 34(1)(b) for a variation of the EM address.
-(2) Subsection (1)(b) does not apply if, within 5 working days after approval of the temporary EM address, the defendant makes an application under section 33(1)(a) or 34(1)(a) for a variation of the EM address.
-(3) The defendant must remain at the temporary EM address pending the determination of the application for variation, and section 30L(1)(b) to (g), and (2) apply as if the temporary EM address was the EM address.
+  (b) within 5 working days after approving a temporary EM address, the EM assessor must make an application under section 33(1)﻿(b) or 34(1)﻿(b) for a variation of the EM address.
+(2) Subsection (1)﻿(b) does not apply if, within 5 working days after approval of the temporary EM address, the defendant makes an application under section 33(1)﻿(a) or 34(1)﻿(a) for a variation of the EM address.
+(3) The defendant must remain at the temporary EM address pending the determination of the application for variation, and section 30L(1)﻿(b) to (g), and (2) apply as if the temporary EM address was the EM address.
 (4) If, in the opinion of the EM assessor, there is no suitable temporary EM address available, the EM assessor must notify the Police and the defendant without delay, and the defendant must surrender himself or herself to Police custody.
 
 ### 30O Use of information obtained from electronic monitoring
@@ -486,7 +491,7 @@ Nothing in this Act prevents a defendant, who has previously applied for bail wi
 (1) If the proceeding for the offence with which the defendant has been charged is in a District Court, the court may,—
   (a) on the application of the defendant or the prosecutor, make an order varying or revoking any condition of bail or substituting any other condition of bail; and
   (b) on the application of an EM assessor, make an order varying the EM address.
-(1A) However, in the case of the variation of an EM condition, the court may only make the following orders under subsection (1)(a) in relation to that EM condition:
+(1A) However, in the case of the variation of an EM condition, the court may only make the following orders under subsection (1)﻿(a) in relation to that EM condition:
   (a) an order authorising absence from the EM address:
   (b) an order varying or revoking any existing authorisation of absence from the EM address:
   (c) an order varying the EM address.
@@ -506,7 +511,7 @@ Nothing in this Act prevents a defendant, who has previously applied for bail wi
 (1) Subject to subsection (3), if a defendant is granted bail in any proceeding to which section 33(1) does not apply, a High Court Judge may,—
   (a) on the application of the prosecutor or the defendant, make an order varying or revoking any condition of bail or substituting or imposing any other condition of bail; and
   (b) on the application of an EM assessor, make an order varying the EM address.
-(1A) However, in the case of the variation of an EM condition, a High Court Judge may only make the following orders under subsection (1)(a) in relation to that EM condition:
+(1A) However, in the case of the variation of an EM condition, a High Court Judge may only make the following orders under subsection (1)﻿(a) in relation to that EM condition:
   (a) an order authorising absence from the EM address:
   (b) an order varying or revoking any existing authorisation of absence from the EM address:
   (c) an order varying the EM address.
@@ -551,8 +556,8 @@ Nothing in this Act prevents a defendant, who has previously applied for bail wi
 (4) If a defendant is brought before a Judge under subsection (2), the Judge may,—
   (a) if satisfied on the balance of probabilities that the defendant has broken, was breaking, or was about to break any condition of bail, remand the defendant in custody; or
   (b) release the defendant.
-(5) If a defendant is released under subsection (4)(b), the defendant's bail continues in force in all respects as if the defendant had not been arrested under subsection (1).
-(6) Despite subsections (4)(b) and (5), if a defendant was arrested under subsection (1)(d), the Judge may release the defendant under subsection (4)(b) only if—
+(5) If a defendant is released under subsection (4)﻿(b), the defendant's bail continues in force in all respects as if the defendant had not been arrested under subsection (1).
+(6) Despite subsections (4)﻿(b) and (5), if a defendant was arrested under subsection (1)﻿(d), the Judge may release the defendant under subsection (4)﻿(b) only if—
   (a) the surety consents in writing to the release; or
   (b) a fresh bail bond is issued.
 (7) Nothing in this section prevents a constable from seeking a warrant to arrest a defendant under section 37.
@@ -614,7 +619,7 @@ A defendant commits an offence and is liable on conviction to imprisonment for a
 (2) If this section applies, the court that defers the start date of the offender's sentence must grant the offender bail.
 (3) An offender who is granted bail under this section must be released on condition that the offender must,—
   (a) if the sentence is deferred under section 80W of the Sentencing Act 2002,—
-    (i) go to and remain at the home detention residence (as defined in section 4 of that Act) at the expiry of the period of deferral specified by the court, unless absent in accordance with section 80C(3)(a) or (b) of that Act; and
+    (i) go to and remain at the home detention residence (as defined in section 4 of that Act) at the expiry of the period of deferral specified by the court, unless absent in accordance with section 80C(3)﻿(a) or (b) of that Act; and
     (ii) advise a probation officer as soon as possible of any change in circumstances affecting the availability or suitability of the home detention residence; or
   (b) if the sentence is deferred under section 100 of the Sentencing Act 2002, surrender himself or herself to the prison manager of the prison concerned at the expiry of the period of deferral specified by the court.
 (4) The provisions of sections 30 to 39, and 44 to 52, as far as they are applicable and with all necessary modifications, apply as if the offender were a defendant who had been granted bail.
@@ -769,9 +774,11 @@ A defendant commits an offence and is liable on conviction to imprisonment for a
 ### Subpart Subpart 4 — Bail pending appeal against conviction or sentence
 
 ### 53 Granting of bail to appellant in custody or on home detention pending appeal to District Court presided over by District Court Judge
-(1) This section applies if a person—
-  (a) is in custody under a conviction or sentence, or is subject to a sentence of home detention; and
-  (b) is appealing the conviction or sentence, or both, to a District Court presided over by a District Court Judge.
+(1) This section applies if an appellant—
+  (a) is appealing his or her conviction or sentence, or both, to the District Court presided over by a District Court Judge; and
+  (b) is—
+    (i) in custody; or
+    (ii) in a home detention residence subject to a sentence of home detention.
 (2) If the appellant is in custody, or is subject to a sentence of home detention, only under the conviction to which the appeal relates, the appellant is bailable, at any time before the hearing of the appeal,—
   (a) at the discretion of the Justice or Justices or a Community Magistrate or Community Magistrates who presided over the District Court whose determination is appealed against; or
   (b) if that Justice or those Justices or that Community Magistrate or those Community Magistrates are not available, at the discretion of a District Court Judge or some other Justice or Community Magistrate.
@@ -784,9 +791,11 @@ A defendant commits an offence and is liable on conviction to imprisonment for a
 (7) If an appeal is filed on a question of law under subpart 8 of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person's conviction, this section applies to the convicted person as it does to the appellant.
 
 ### 54 Granting of bail to appellant in custody or on home detention pending appeal to High Court
-(1) This section applies if a person—
-  (a) is in custody under a conviction or is subject to a sentence of home detention; and
-  (b) is appealing the conviction or sentence, or both, to the High Court.
+(1) This section applies if an appellant—
+  (a) is appealing his or her conviction or sentence, or both, to the High Court; and
+  (b) is—
+    (i) in custody; or
+    (ii) in a home detention residence subject to a sentence of home detention.
 (2) If the appellant is in custody, or is subject to a sentence of home detention, only under the conviction to which the appeal relates, the appellant is bailable at any time before the hearing of the appeal—
   (a) at the discretion of the District Court Judge who presided over the District Court whose determination is appealed against; or
   (b) if that District Court Judge is not available, at the discretion of some other District Court Judge.
@@ -797,9 +806,11 @@ A defendant commits an offence and is liable on conviction to imprisonment for a
 (7) If an appeal is filed on a question of law under subpart 8 of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person's conviction, this section applies to the convicted person as it does to the appellant.
 
 ### 55 Granting of bail to appellant in custody or on home detention pending appeal to Court of Appeal or Supreme Court
-(1) This section applies if a person—
-  (a) is in custody under a conviction or is subject to a sentence of home detention; and
-  (b) is appealing the conviction or sentence, or both, to the Court of Appeal or the Supreme Court.
+(1) This section applies if an appellant—
+  (a) is appealing his or her conviction or sentence, or both, to the Court of Appeal or the Supreme Court; and
+  (b) is—
+    (i) in custody; or
+    (ii) in a home detention residence subject to a sentence of home detention.
 (2) The Court of Appeal or the Supreme Court (as the case may be) or the Judge who presided at the trial in the court below may, if it or the Judge thinks fit, on the application of an appellant and on such terms and subject to such conditions as the court or Judge thinks fit, grant bail to the appellant pending the determination of the appeal, if the appellant is in custody, or is subject to a sentence of home detention, only under the conviction to which the appeal relates.
 (3) If an appeal is filed on a question of law under subpart 8 of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person's conviction, this section applies to the convicted person as it does to the appellant.
 (4) Section 53(6) applies for the purposes of this section.
@@ -834,9 +845,9 @@ If under section 302(2) of the Criminal Procedure Act 2011 a District Court or t
     (ii) grant the appellant bail for the period of the adjournment.
 (3) Before ordering that an appellant resume serving a sentence of home detention under subsection (1), the District Court Judge must, if the appellant has been on bail for longer than 2 months, consider information from a probation officer on—
   (a) whether the home detention residence is still available and suitable; and
-  (b) whether every relevant occupant (as defined in section 26A(4)(a) of the Sentencing Act 2002) of the home detention residence consents, in accordance with section 26A(3)(d) of the Sentencing Act 2002, to the appellant resuming the sentence at the home detention residence.
+  (b) whether every relevant occupant (as defined in section 26A(4)﻿(a) of the Sentencing Act 2002) of the home detention residence consents, in accordance with section 26A(3)﻿(d) of the Sentencing Act 2002, to the appellant resuming the sentence at the home detention residence.
 (4) If a District Court Judge orders that the appellant resume serving the sentence of home detention,—
-  (a) the appellant must go to and remain at the home detention residence unless absent in accordance with section 80C(3)(a) or (b) of the Sentencing Act 2002; and
+  (a) the appellant must go to and remain at the home detention residence unless absent in accordance with section 80C(3)﻿(a) or (b) of the Sentencing Act 2002; and
   (b) the sentence of home detention resumes when the appellant has arrived at the home detention residence under paragraph (a).
 
 ## Part 4 — Bail when proceedings taken by way of indictment
