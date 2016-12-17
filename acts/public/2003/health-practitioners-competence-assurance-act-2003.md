@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2013-08-27_
+_Consolidation as at 2016-12-17_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -638,7 +638,8 @@ The purpose of sections 54 to 63 is to encourage effective quality assurance act
   (a) the sponsor of the activity has duly completed an application under subsection (1); and
   (b) the person nominated as the person responsible for the activity is suitable for appointment under section 55; and
   (c) it is in the public interest that the protections conferred by sections 59 to 62 should apply in respect of the activity.
-(4) Every notice issued under subsection (3), unless sooner revoked, remains in force for a period of 5 years after the date on which it is issued, but this subsection does not prevent the Minister from issuing another notice in respect of the same quality assurance activity.
+(4) Every notice issued under subsection (3), unless sooner revoked, remains in force for a period of 5 years and is revoked at the end of that 5-year period.
+(4A) Subsection (4) does not prevent the Minister from issuing another notice in respect of the same quality assurance activity.
 (5) The Director-General of Health may from time to time, by notice in the Gazette, state requirements relating to the form, content, and quality standards of an application under subsection (1); and such requirements may, without limitation, require statements in the application to be verified by statutory declaration.
 
 ### 55 Minister must appoint person responsible for activity
