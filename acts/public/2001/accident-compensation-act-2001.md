@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2016-12-17_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -1726,9 +1726,12 @@ When the Corporation receives a review application, it must send the applicant a
 (2) A reviewer to whom the Corporation proposes to allocate a review must disclose to the Corporation any previous involvement that the reviewer has had in the claim other than as a reviewer.
 
 ### 139 Corporation's duties to secure independence of reviewer
-(1) The Corporation must not engage as a reviewer a person who is currently employed or engaged by the Corporation to make decisions on claims in a capacity other than that of reviewer.
-(2) The Corporation may engage a reviewer on a contract of service or contract for services.
-(3) The Corporation must not include in the reviewer's contract any term or condition that could have the effect, directly or indirectly, of influencing the reviewer, when conducting a review, in favour of the Corporation.
+(1) The Corporation must not engage as a reviewer a person who is currently—
+  (a) employed by the Corporation; or
+  (b) engaged by the Corporation to make decisions on claims in a capacity other than that of reviewer; or
+  (c) employed or engaged by a subsidiary of the Corporation.
+(2)
+(3) The Corporation must not include in a contract with a reviewer any term or condition that could have the effect, directly or indirectly, of influencing the reviewer, when conducting a review, in favour of the Corporation.
 (4) The Corporation must not allocate a claim to a reviewer who discloses to the Corporation any previous involvement in the claim other than as a reviewer.
 
 ### 140 Conduct of review: general principles
