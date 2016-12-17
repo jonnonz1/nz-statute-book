@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2016-12-17_
 
 > Title
 
@@ -335,7 +335,7 @@ All Government roads declared as such under this Act, the Public Works Act 1981,
 
 ### 48 Powers of Minister over roads under Minister's control
 (1) All rights and powers vested in any local authority under sections 331, 332, 334, 335, 337 to 341, and 353 of the Local Government Act 1974, and all rights and powers vested in any local authority in relation to roads under any other Act, may, in respect of any Government road, be exercised by the Minister.
-(2) The Minister may from time to time, by notice in the Gazette, make bylaws with respect to any Government road on the subject matters referred to in paragraphs (13) to (20) and (38) to (41A) of section 684(1) of the Local Government Act 1974.
+(2) The Minister may from time to time, by notice in the Gazette, make bylaws with respect to any Government road on the subject matters referred to in section 22AB(1) of the Land Transport Act 1998.
 (3) The Minister shall have power to do all things necessary to construct and maintain in good repair any road under the Minister's control, and in particular, but without limiting any power conferred on the Minister elsewhere in this Act, to do the following things:
   (a) to alter the line of any road, but a new line of road shall not be laid out by the Minister without the written consent of those persons whose written consent would be required under section 114(2) of the Public Works Act 1981 if the land were to be declared to be a road:
   (b) to increase or diminish the width of any road:
@@ -512,7 +512,7 @@ The Minister may, by notice in the Gazette, declare that any access way or servi
 (2) All rights and powers vested in any local authority under sections 331, 332, 334, 335, 337 to 341, and 353 of the Local Government Act 1974, and all rights and powers vested in any local authority in relation to roads under any other Act, may in respect of any State highway be exercised by the Agency.
 (2A) For the purpose of erecting any swing gate or cattle stop across any State highway, the provisions of section 344 of the Local Government Act 1974 shall apply as if references in that section to the council were references to the Agency.
 (2B) Any pilot of an overweight or over dimension vehicle for which a permit has been issued by the Agency under regulations or rules made under the Land Transport Act 1998, who is authorised for the purpose by that permit, may stop other vehicles on any State highway under the control of the Agency where such action is necessary for the purposes of safety.
-(3) The Agency may from time to time, by notice in the Gazette, make bylaws with respect to any State highway on the subject matters referred to in paragraphs (13) to (20), and (38) to (41A) of section 684(1) of the Local Government Act 1974.
+(3) The Agency may from time to time, by notice in the Gazette, make bylaws with respect to any State highway on the subject matters referred to in section 22AB(1) of the Land Transport Act 1998.
 (4) The Agency shall have power to do all things necessary to construct and maintain in good repair any State highway, and in particular, but without limiting any power conferred on the Agency elsewhere in this Act, to do the following things:
   (a) to alter the line of any State highway, but a new line shall not be laid out by the Agency without the written consent of those persons whose written consent would be required under section 114(2) of the Public Works Act 1981 if the land were to be declared to be a road:
   (b) to increase or diminish the width of any State highway:
