@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2016-12-17_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -1150,7 +1150,7 @@ Where the court makes an order under section 110 appointing the chief executive 
     (ii) section 114(2)﻿(b) and (c) applies as if the special guardian were a sole guardian; and
   (b) the order must specify the access and other rights (not being custody or guardianship rights), including any terms and conditions that apply to those rights, of each existing guardian in relation to the child or young person.
 (2) Where a special guardianship order specifies the access and other rights of any existing guardian,—
-  (a) no existing guardian may apply for an order under section 121(2)﻿(c) or (d) concerning his or her access or other rights in relation to the child or young person, but any other parent or person may apply for orders under that section in relation to the child or young person, as if the special guardian were a sole guardian; and
+  (a) no existing guardian may apply for an order under section 121(2)﻿(d) or (e) concerning his or her access or other rights in relation to the child or young person, but any other parent or person may apply for orders under that section in relation to the child or young person, as if the special guardian were a sole guardian; and
   (b) section 122 applies to any access rights specified in the order as if those access rights had been granted by an order made under section 121.
 (3) If a person who is appointed as the sole guardian of a child or young person is also appointed as a special guardian, the provisions of this Act relating to sole guardians apply, except that—
   (a) sections 134 and 135 (about reviewing plans) do not apply to the court plan that was prepared for the purposes of section 128; and
@@ -1453,7 +1453,7 @@ The provisions of sections 132 and 133 shall apply, with such modifications as m
 (2) No agreement may be made under subsection (1)﻿(a) to (c) providing for the placement of any child or young person in the care of any person for any period that exceeds,—
   (a) in the case of a child who is under 7 years of age, 6 months:
   (b) in the case of any other child or any young person, 12 months.
-(3) An agreement made under subsection (1)﻿(d) may be entered into for any period of up to 12 months and may, if approved by a family group conference convened for the purpose, be extended by any further periods of up to 12 months.
+(3) An agreement made under subsection (1)﻿(d) may be entered into for any period of up to 12 months and may, if approved by a family group conference, be extended by any further periods of up to 12 months.
 
 ### 141 Agreements for extended care of severely disabled children and young persons
 (1) This section applies to any child or young person who is so mentally or physically disabled that suitable care for that child or young person can be provided only if that child or young person is placed in the care of an organisation or body approved under section 396 to provide care for such a child or young person.
@@ -1490,7 +1490,7 @@ Where a parent or guardian or person having the care of a child or young person�
 (2) The consent of a child or young person to whom section 142 applies is not required under subsection (1) of this section if the child or young person is unable, by reason of that child's or young person's disability, to understand the nature of the agreement.
 (3) Before an agreement is entered into under section 140 or section 141 or section 142, the wishes of the child or young person shall, where practicable, be ascertained and given due consideration in concluding the terms of the agreement.
 
-### 145 Agreement not to be made without approval of family group conference
+### 145 Agreement not to be made, extended, or terminated without approval of family group conference
 (1) No agreement may be made under section 140 or section 141 or section 142 unless, before the agreement is made,—
   (a) a family group conference is held to consider whether such an agreement should be made; and
   (b) in the case of a proposed agreement under section 141 or 142, the family group conference has thoroughly explored what services and supports, such as those provided or funded by the Ministry of Health, are available to, or in respect of, the child or young person in his or her home environment; and
@@ -1499,11 +1499,12 @@ Where a parent or guardian or person having the care of a child or young person�
     (i) in all cases, that the requirements of paragraphs (a) and (c) have been complied with; and
     (ii) in the case of a proposed agreement under section 141 or 142, that the family group conference has thoroughly explored the matters referred to in paragraph (b); and
     (iii) in all cases, that the co-ordinator is satisfied that, having regard to the objects, considerations, and principles in sections 4, 5, 6, and 13, the agreement is an appropriate care option for the child or young person.
-(2) A care and protection co-ordinator must convene or reconvene a family group conference for the purpose of considering—
-  (a) whether an agreement should be entered into under section 140 or section 141 or section 142 in relation to any child or young person:
-  (b) whether an agreement entered into under section 141 or section 142 should be extended or terminated:
-  (c) whether an agreement entered into under section 140(1)﻿(d) for the purpose of assisting a young person to achieve independence should be extended or terminated.
-(3) The provisions of sections 20 to 36 shall apply with all necessary modifications with respect to the convening or reconvening of a family group conference for the purposes of this section.
+(2) A care and protection co-ordinator must convene or reconvene a family group conference if it is proposed that—
+  (a) an agreement be entered into under section 140(1), 141(2), or 142(2); or
+  (b) an agreement entered into under section 140(1)﻿(d), 141(2), or 142(2) be extended; or
+  (c) an agreement entered into under section 140(1)﻿(d), 141(2), or 142(2) be terminated other than in the manner specified in the agreement in accordance with section 146(1)﻿(c).
+(3) If a family group conference has been convened or reconvened other than under subsection (2) in relation to a child or young person, the conference may consider a proposal referred to in subsection (2) concerning the child or young person as if the conference had been convened or reconvened under that subsection.
+(4) To the extent that they are relevant, sections 20 to 36, with all necessary modifications, apply to the convening or reconvening of a family group conference under subsection (2).
 
 ### 146 Form and terms of agreements
 (1) Every agreement entered into under section 140 or section 141 or section 142 shall—
