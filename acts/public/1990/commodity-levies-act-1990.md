@@ -1,5 +1,5 @@
 # Commodity Levies Act 1990
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-12-17_
 
 > An Act to enable the making of Orders in Council imposing on certain commodities levies payable to bodies corporate representing the views and interests of the persons primarily responsible for paying those levies
 
@@ -45,6 +45,9 @@ _Consolidation as at 2016-01-01_
   (a) in relation to any other asset it acquires in exchange or part exchange for that asset, as if that other asset has also been acquired or built up with, out of, or by virtue of spending, money paid as a levy; and
   (b) in relation to any money it acquires in exchange or part exchange for that asset, as if that money has been paid to the organisation under a levy order as levy.
 (4) Levy orders and orders made under section 13(2) are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 3 Act binds the Crown
 This Act binds the Crown.
@@ -232,13 +235,13 @@ Every levy order shall provide for—
   (b) disallowed under Part 3 of the Legislation Act 2012; or
   (c) confirmed by an Act of Parliament,—
 
-### 13 Levy orders to expire after 6 years
-(1) Subject to subsection (2), a levy order shall be deemed to have been revoked with the close of the sixth anniversary of the day before the day on which it was made, unless—
-  (a) it has been revoked (or has been deemed to have been revoked) with effect on or before the sixth anniversary of the day on which it was made; or
-  (b) it has ceased to have effect on or before the sixth anniversary of the day on which it was made, by virtue of Part 3 of the Legislation Act 2012.
-(2) Subject to subsection (3), the Governor-General may, by Order in Council made at least 12 months before the day on which the order concerned would otherwise be deemed under subsection (1) to have been revoked, extend for a specified period (of not more than 5 years) the currency of a levy order that is then in force; and in that case (subject to subsection (3)), the order shall not be deemed under subsection (1) to have been revoked until the extended period has expired.
-(3) Where the currency of a levy order has been extended under subsection (2), it may from time to time be further extended under that subsection.
-(4) Section 12 and, except for subsection (1)﻿(b), section 5 apply to the making of an order under subsection (2) of this section.
+### 13 Levy orders in force no more than 6 years unless extended
+(1) A levy order is in force for a period of 6 years and, unless extended under subsection (2) or sooner revoked, is revoked at the end of that 6-year period.
+(2) The Governor-General may extend the period for which a levy order is in force by a specified period of not more than 5 years by Order in Council made—
+  (a) on the recommendation of a Minister, given after complying with the requirements of section 5 (except section 5(1)﻿(b)); and
+  (b) at least 12 months before the levy order would otherwise be revoked.
+(3) The Governor-General may make multiple Orders in Council under subsection (2) in respect of the same levy order.
+(4) Section 12 applies to a levy order that is extended under subsection (2) as if the extension is the making of the order.
 
 ## Part 2 — Miscellaneous provisions
 
@@ -368,5 +371,7 @@ The owner, occupier, or person in charge, of a place that a person authorised pu
   (t) the Berryfruit Levy Amendment Act 1988:
   (u) the Orchard Levy Amendment Act 1988.
 (4) When an enactment specified in subsection (3) is repealed by or under subsection (1) or subsection (2), so much of the Schedule of the Regulations (Disallowance) Act 1989 as relates to that Act shall then be deemed to have been repealed.
+
+## Schedule 1AA — Transitional, savings, and related provisions
 
 ## Schedule Schedule — Form of search warrant
