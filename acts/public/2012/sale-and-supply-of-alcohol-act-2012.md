@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2016-12-13_
+_Consolidation as at 2016-12-17_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -318,8 +318,8 @@ On the premises a club licence is held for, the licensee can sell and supply alc
 
 ### 22 Special licences
 (1) There are 2 kinds of special licence: on-site special licences and off-site special licences.
-(2) On the premises a special licence designated as an on-site special licence is held for, the licensee can sell or supply alcohol, for consumption there, to people attending an event described in it.
-(3) Where the holder of an on-licence or a club licence for any premises also holds a special licence designated as an on-site special licence for the premises, the holder can at a time when the sale of alcohol on the premises would otherwise be unlawful (whether by virtue of a provision of this Act relating to licensed premises or licensed premises of any kind, or by virtue of any condition subject to which the on-licence or club licence was issued) sell or supply alcohol, for consumption there, if it is sold or supplied—
+(2) On the premises a special licence designated as an on-site special licence is held for, the licensee can sell and supply alcohol, for consumption there, to people attending an event described in it.
+(3) Where the holder of an on-licence or a club licence for any premises also holds a special licence designated as an on-site special licence for the premises, the holder can at a time when the sale of alcohol on the premises would otherwise be unlawful (whether by virtue of a provision of this Act relating to licensed premises or licensed premises of any kind, or by virtue of any condition subject to which the on-licence or club licence was issued) sell and supply alcohol, for consumption there, if it is sold or supplied—
   (a) to people attending an event described in the special licence; and
   (b) in accordance with the special licence.
 (4) Subsection (3) does not limit or affect the generality of subsection (2).
@@ -972,7 +972,7 @@ An applicant for a licence must,—
   (b) within 20 working days after filing the application, give public notice of the application.
 
 ### 102 Objections to applications
-(1) A person may object to the grant of a licence only if he or she has a greater interest in the application for it than the public generally.
+(1) A person may object to the grant of a licence only if he or she has a greater interest in the application for the licence than the public generally.
 (2) An objection must be in writing and filed with the licensing committee within 15 working days after the first publication of the public notice of the making of the application.
 (3) No objection may be made in relation to a matter other than a matter specified in section 105.
 (4) This subsection applies to an application—
@@ -994,7 +994,7 @@ An applicant for a licence must,—
 (3) The Police and the Medical Officer of Health—
   (a) must each inquire into the application; and
   (b) if either has any matters in opposition to it, must file with the licensing committee a report on it within 15 working days after receiving the copy of it.
-(4) The licensing committee may assume that, if no report is received from the Police or Medical Officer of Health within 15 working days after sending the copy of the application to them, the Police or Medical Officer of Health does not oppose the application.
+(4) The licensing committee may assume that, if no report is received from the Police or Medical Officer of Health within 15 working days after the Police or Medical Officer of Health received the copy of the application, the Police or Medical Officer of Health does not oppose the application.
 (5) The secretary must send to the applicant a copy of any report filed with the licensing committee under this section.
 
 ### 104 Who decides application for licence
@@ -1351,7 +1351,7 @@ An applicant for a special licence—
 (4) The Medical Officer of Health—
   (a) may inquire into the application; and
   (b) if he or she has any matters in opposition to it, may file with the licensing committee a report on it within 15 working days after receiving the copy of it.
-(5) The licensing committee may assume that, if no report is received from the Police or Medical Officer of Health within 15 working days after sending the copy of the application to them, the Police or Medical Officer of Health does not oppose the application.
+(5) The licensing committee may assume that, if no report is received from the Police or Medical Officer of Health within 15 working days after the Police or Medical Officer of Health received the copy of the application, the Police or Medical Officer of Health does not oppose the application.
 (6) The secretary must send to the applicant a copy of any report filed with the licensing committee under this section.
 (7) This section is subject to section 137(4).
 
@@ -3189,7 +3189,7 @@ Sections 349 and 350 apply to each of the district and suburban licensing trusts
 (3) The common seal of a community trust must be judicially noticed in all courts and for all purposes.
 
 ### 360 Existing community trust continues in existence
-The trust listed in Part 3 of Schedule 1 continues in existence as if it were established under this Act except that the next election of its trustees must be held on the day on which the next succeeding triennial general election of members of territorial authorities is held under the Local Electoral Act 2001.
+Each of the trusts listed in Part 3 of Schedule 1 continues in existence as if it were established under this Act except that the next election of its trustees must be held on the day on which the next succeeding triennial general election of members of territorial authorities is held under the Local Electoral Act 2001.
 
 ### 361 Name of community trust
 (1) A community trust must have a name and that name must include the words Community Trust.
@@ -3648,6 +3648,9 @@ Before recommending the making of regulations under section 397(1)﻿(b) or (c),
 ### 415 Matters not completed by District Licensing Agencies
 (1) A matter before a District Licensing Agency that has not been completed before the Agency goes out of existence (whether a matter relating to licensing or a matter relating to a manager's certificate) may be completed by the appropriate district licensing committee; and the committee has all powers necessary to complete it.
 (2) Subsection (1) is subject to sections 406 and 407.
+
+### 415A Application of amendments to section 360 and Schedule 1
+This Act must be read as if the amendments to section 360 and Schedule 1 made by Part 25 of the Statutes Amendment Act 2016 had come into force on 18 December 2013.
 
 **Amendment to Children, Young Persons, and Their Families Act 1989**
 
