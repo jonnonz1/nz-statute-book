@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2016-12-17_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -1269,8 +1269,8 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 
 ### 30ZH Duties regarding logbooks
 (1) A driver must—
-  (a) retain a logbook required to be maintained by that driver under section 30ZF for a period of 36 months after the date of the last entry in that logbook; and
-  (b) in the case of a driver who is an employee, deliver a copy of each completed logbook record to the driver's employer within 14 days after completing that record, and the employer must retain the copy of each logbook record for a period of 36 months from the date of the record.
+  (a) retain a logbook required to be maintained by that driver under section 30ZF for a period of 12 months after the date of the last entry in that logbook; and
+  (b) in the case of a driver who is an employee, deliver a copy of each completed logbook record to the driver's employer within 14 days after completing that record, and the employer must retain the copy of each logbook record for a period of 12 months from the date of the record.
 (1A) Despite anything in subsection (1), if the logbook only contains entries for a light RUC vehicle (as defined in section 5(1) of the Road User Charges Act 2012), the driver must retain the logbook only for a period of 12 months.
 (2) A driver must—
   (a) carry a logbook with him or her at all times when driving a vehicle to which section 30ZE applies; and
@@ -2730,9 +2730,9 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 (8) For the purposes of subsection (7), Registrar means any Registrar of the High Court or of a District Court, as the case may require, and includes a Deputy Registrar.
 
 ### 98 Release of vehicle after 28 days
-(1) On or after the close of the 28-day impoundment period, the person in respect of the vehicle, or a person authorised for the purpose by the person, or a bailiff or a constable executing a warrant to seize property under section 94 of the Summary Proceedings Act 1957, or a Registrar, bailiff, or constable executing a warrant of confiscation under section 132 of the Sentencing Act 2002, is entitled to remove the vehicle from storage by—
+(1) On or after the close of the 28-day impoundment period, the owner of the vehicle, or a person authorised for the purpose by the owner, or a bailiff or a constable executing a warrant to seize property under section 94 of the Summary Proceedings Act 1957, or a Registrar, bailiff, or constable executing a warrant of confiscation under section 132 of the Sentencing Act 2002, is entitled to remove the vehicle from storage by—
   (a) showing the storage provider proof of identity and either,—
-    (i) in the case of the person in respect of the vehicle, or a person authorised for the purpose by him or her, proof of ownership of the vehicle or the owner's copy of the notice of acknowledgement of seizure and impoundment; or
+    (i) in the case of the owner of the vehicle, or a person authorised for the purpose by him or her, proof of ownership of the vehicle or the owner's copy of the notice of acknowledgement of seizure and impoundment; or
     (ii) in the case of a Registrar, bailiff, or constable, the warrant; and
   (b) paying the fees and charges for towage and storage of the vehicle, or entering into an arrangement to pay those fees and charges.
 (2) The storage provider is directed to release the vehicle as soon as practicable after subsections (1), (6), and (7) are satisfied.
@@ -3134,10 +3134,10 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (a) if—
     (i) an enforcement officer has been freshly pursuing the vehicle; or
     (ii) it is likely that a person was about to remove, conceal, destroy, or dispose of the vehicle; or
-    (iii) an enforcement officer believes on reasonable grounds that the vehicle was about to be used in the commission of a crime; and
+    (iii) an enforcement officer believes on reasonable grounds that the vehicle was about to be used in the commission of an imprisonable offence (within the meaning of section 5 of the Criminal Procedure Act 2011); and
   (b) if, because of the time of the day or the locality, it was impracticable to obtain a warrant without creating an opportunity for the person to do anything referred to in paragraph (a)﻿(ii) or (iii).
 (4) For the purposes of seizing and impounding a vehicle under section 96 or section 96A or section 123 in any case where subsection (3) does not apply, an enforcement officer may enter a building or place where a vehicle to which that section applies is being stored or kept only with the consent of the occupier or under a warrant issued under subsection (5).
-(5) An enforcement officer may apply, in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, to an issuing officer (within the meaning of section 3 of that Act), for a warrant to enter a place referred to in subsection (4) and, if satisfied that there is reasonable ground for believing that a vehicle to which section 96 or section 96A or section 123 applies is being stored or kept in the building or place, the Judge may issue a warrant authorising an enforcement officer to enter, by force if necessary, any part of the building or place, and seize and impound the vehicle.
+(5) An enforcement officer may apply, in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, to an issuing officer (within the meaning of section 3 of that Act), for a warrant to enter a place referred to in subsection (4) and, if satisfied that there is reasonable ground for believing that a vehicle to which section 96 or section 96A or section 123 applies is being stored or kept in the building or place, the issuing officer may issue a warrant authorising an enforcement officer to enter, by force if necessary, any part of the building or place, and seize and impound the vehicle.
 (6) The provisions of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers in subsections (3) and (5) (except for subpart 3 of that Part in relation to subsection (3)).
 (7) An enforcement officer who enters any premises under this section may not exercise on those premises any power of arrest conferred by this Act other than a power of arrest conferred by any of sections 68(3), 69(6), and 120.
 
@@ -3807,7 +3807,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (a) standards, requirements, or recommended practices of another State or an international organisation:
   (b) standards, requirements, or rules of the NZ Standards Organisation, or a body or organisation outside New Zealand that has functions corresponding to the functions of the NZ Standards Organisation:
   (c) material formulated by a specialist public sector organisation or a specialist private sector organisation:
-  (d) any other material or document that, in the opinion of the Minister or the Agency, is too large or impractical to be printed as part of the rule.
+  (d) any other material or document that, in the opinion of the Minister or the Agency (as the case may be), is too large or impractical to be printed as part of the rule.
 (2) Material may be incorporated by reference in a rule—
   (a) in whole or in part; and
   (b) with modifications, additions, or variations specified in the rule.
