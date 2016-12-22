@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2016-12-22_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -100,6 +100,9 @@ The purposes of this Act are—
   (a) means dealing with the offender in relation to an offence following a finding of guilt or a plea of guilty, instead of imposing a sentence; and
   (b) to avoid doubt, does not include dealing with a person for non-payment of a sum of money, disobedience of a court order, or contempt of court.
 (4) For the purposes of this Act, the offender, in the case of a Crown organisation that is charged with, or convicted of, an offence against the Building Act 2004, the Health and Safety at Work Act 2015, the Resource Management Act 1991, or Part 3 of the Vulnerable Children Act 2014, is that Crown organisation and not the Crown.
+
+### 4A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 5 Application of this Act
 (1) Except as provided in subsection (2), this Act binds the Crown.
@@ -431,7 +434,11 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
     (ii) consents to taking the prescription medication:
   (h) in the case of a proposed sentence of community work,—
     (i) information regarding the availability of community work of a kind referred to in section 63 in the area in which the offender will reside; and
-    (ii) recommendations on whether the court should authorise, under section 66A, hours of work to be spent undertaking training in basic work and living skills.
+    (ii) recommendations on whether the court should authorise, under section 66A, hours of work to be spent undertaking training in basic work and living skills:
+  (i) in the case of a proposed sentence of intensive supervision or possible release conditions for a proposed sentence of imprisonment for 24 months or less, the opinion of the chief executive of the Department of Corrections as to whether—
+    (i) a condition that prohibits the offender from entering or remaining in specified places or areas at specified times or at all times (a whereabouts condition in this paragraph) would facilitate or promote the objective of reducing the risk of the offender reoffending while subject to the sentence or release conditions; and
+    (ii) a whereabouts condition would facilitate or promote the objective of rehabilitating and reintegrating the offender; and
+    (iii) a further condition requiring the offender to submit to electronic monitoring of his or her compliance with a whereabouts condition is warranted, having regard to the likelihood of non-compliance with the whereabouts condition.
 (3) The court must not direct the preparation of a report under subsection (1) on any aspects of the personal characteristics or personal history of an offender if a report covering those aspects is readily available to the court and there is no reason to believe that there has been any change of significance to the court since the report was prepared.
 (4) On directing the preparation of a report under subsection (1), the court may indicate to the probation officer the type of sentence or other mode of disposition that the court is considering, and may also give any other guidance to the probation officer that will assist the officer to prepare the report.
 (5) If a court has directed the preparation of a report under subsection (1), the probation officer charged with the preparation of the report may seek the further directions of the court on—
@@ -849,15 +856,40 @@ For the purposes of section 54G, programme means any of the following (whether r
   (b) conditions requiring the offender to take prescription medication:
   (c) conditions requiring the offender to undertake training in basic work and living skills:
   (d) a condition requiring the offender to comply with the requirements of judicial monitoring under subpart 2B as directed by a probation officer or the sentencing Judge:
-  (e) any other conditions that the court thinks fit to reduce the likelihood of further offending by the offender.
+  (e) any other conditions that the court thinks fit to reduce the likelihood of further offending by the offender:
+  (f) a condition that the offender must, when required to do so by a probation officer, submit to the electronic monitoring of compliance with any conditions of his or her sentence imposed under paragraph (e) that prohibit the offender from entering or remaining in specified places or areas at specified times or at all times.
 (4) No court may impose a condition under this section that—
   (a) the offender pay any fine, reparation, or other sum ordered to be paid on conviction; or
-  (b) the offender perform any service that he or she could have been required to perform if he or she had been sentenced to community work; or
-  (c) the offender submit to electronic monitoring.
+  (b) the offender perform any service that he or she could have been required to perform if he or she had been sentenced to community work.
+  (c)
 (5) No offender may be made subject to a special condition that requires the offender to take prescription medication unless the offender—
   (a) has been fully advised, by a person who is qualified to prescribe that medication, about the nature and likely or intended effect of the medication and any known risks; and
   (b) consents to taking the prescription medication.
 (6) An offender does not breach his or her conditions for the purposes of section 70A if he or she withdraws consent to taking prescription medication, but the failure to take the medication may give rise to a ground for variation or cancellation of the sentence of intensive supervision under section 54K.
+
+### 54IA Electronic monitoring
+(1) This section applies to electronic monitoring imposed as a condition under section 54I(3)﻿(f).
+(2) The purposes of an electronic monitoring condition are—
+  (a) to deter the offender from breaching a whereabouts condition; and
+  (b) to monitor compliance with a whereabouts condition.
+(3) The court must not impose an electronic monitoring condition unless it has had regard to the opinion of the chief executive of the Department of Corrections in a pre-sentence report provided under section 26.
+(4) Information about an offender that is obtained through an electronic monitoring condition may be used both for the purposes referred to in subsection (2) and for the following purposes:
+  (a) to verify compliance with a whereabouts condition:
+  (b) to detect non-compliance with a whereabouts condition and the commission of offences:
+  (c) to provide evidence of non-compliance with a whereabouts condition and the commission of offences:
+  (d) to verify that the offender has not tampered or otherwise interfered with the ability of the electronic monitoring equipment to operate effectively and accurately.
+(5) An offender who is subject to an electronic monitoring condition—
+  (a) may be required to have electronic monitoring equipment attached to his or her body; and
+  (b) must comply with written instructions from a probation officer that are reasonably necessary for the effective administration of the electronic monitoring (for example, an instruction to regularly charge the equipment); and
+  (c) fails to comply with the electronic monitoring condition if he or she does not comply with those written instructions.
+(6) The annual report of the Department of Corrections must include the following information about the use of electronic monitoring in the year reported on:
+  (a) the number of offenders who were at any time subject to an electronic monitoring condition:
+  (b) the average number of offenders who were subject to an electronic monitoring condition and the average duration of the condition:
+  (c) the percentage of offenders who, while subject to an electronic condition, were—
+    (i) convicted for failing to comply with the condition; or
+    (ii) convicted of any other offence:
+  (d) a description of the processes and systems that relate to electronic monitoring and that were in place during the year reported on.
+(7) In this section, whereabouts condition means a condition imposed under section 54I(3)﻿(e) that prohibits an offender from entering or remaining in specified places or areas at specified times or at all times.
 
 ### 54J Offender to be under supervision of probation officer
 An offender who is subject to a sentence of intensive supervision is under the supervision of a probation officer in the probation area in which the offender resides for the time being, or of any other probation officer that the chief executive of the Department of Corrections may direct.
@@ -1440,7 +1472,7 @@ When an offender performs any service or does any work or attends any course or 
 (8) An offender does not breach his or her detention conditions for the purposes of section 80S if he or she withdraws consent to taking prescription medication; but the failure to take the medication may give rise to a ground for variation or cancellation of the sentence of home detention under section 80F.
 
 ### 80E Electronic monitoring
-(1) The purpose of an electronic monitoring condition is to deter the offender from breaching conditions that relate to his or her whereabouts, and to monitor compliance with those conditions.
+(1) The purpose of an electronic monitoring condition imposed as a condition under section 80C(2)﻿(d) is to deter the offender from breaching conditions that relate to his or her whereabouts, and to monitor compliance with those conditions.
 (2) Information about an offender that is obtained through electronic monitoring may be used both for the purposes referred to in subsection (1) and for the following purposes:
   (a) to verify compliance with any detention conditions:
   (b) to detect non-compliance with any detention conditions and the commission of offences:
@@ -2081,12 +2113,13 @@ A provision contained in sections 86B to 86E that is inconsistent with another p
 (2AB) If the court imposes special conditions on an offender, the special conditions may apply for as long as, but no longer than, the standard conditions apply to the offender.
 (2B) In this section,—
   - **sentence expiry date** has the meaning given to it in section 4 of the Parole Act 2002
-  - **special conditions** includes, without limitation, conditions of a kind described in section 15(3) of the Parole Act 2002, other than an electronic monitoring condition as referred to in section 15(3)﻿(f) of that Act, or a residential restriction condition as referred to in section 15(3)﻿(ab) of that Act
+  - **special conditions** includes, without limitation, conditions of a kind described in section 15(3) of the Parole Act 2002, other than a residential restriction condition referred to in section 15(3)﻿(ab) of that Act
   - **standard conditions** means the conditions set out in section 14(1) of the Parole Act 2002.
 (3) A special condition must not be imposed unless it is designed to—
   (a) reduce the risk of reoffending by the offender; or
   (b) facilitate or promote the rehabilitation and reintegration of the offender; or
   (c) provide for the reasonable concerns of victims of the offender.
+(3A) The court must not impose an electronic monitoring condition described in section 15(3)﻿(f) of the Parole Act 2002 unless it has had regard to the opinion of the chief executive of the Department of Corrections in a pre-sentence report provided under section 26.
 (4) No offender may be made subject to a special condition that requires the offender to take prescription medication unless the offender—
   (a) has been fully advised, by a person who is qualified to prescribe that medication, about the nature and likely or intended effect of the medication and any known risks; and
   (b) consents to taking the prescription medication.
@@ -2274,7 +2307,7 @@ The court must not discharge an offender without conviction unless the court is 
   (b) make any order for the payment of any sum that the court thinks fair and reasonable to compensate any person who, through, or by means of, the offence, has suffered—
     (i) loss of, or damage to, property; or
     (ii) emotional harm; or
-    (iii) loss or damage consequential on any emotional or physical harm or loss of, or damage to, property:
+    (iii) loss or damage consequential on any emotional or physical harm or loss of, or damage to, property; or
   (c) make any order that the court is required to make on conviction.
 (2A) Sections 32 to 38A apply, with any necessary modifications, to an order under subsection (2)﻿(b) as they apply to a sentence of reparation.
 (3)
@@ -3239,6 +3272,31 @@ The Acts set out in Schedule 1 are amended in the manner set out in that schedul
 
 ### 187 Enactments repealed
 The enactments set out in Schedule 2 are repealed.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Sentencing (Electronic Monitoring of Offenders) Amendment Act 2016
+
+### 1 Interpretation
+In this Part, commencement date means the date on which the Sentencing (Electronic Monitoring of Offenders) Amendment Act 2016 comes into force.
+
+### 2 Varying special conditions for sentence of intensive supervision imposed before commencement date
+(1) This clause applies to a sentence of intensive supervision imposed before the commencement date.
+(2) An electronic monitoring condition may be imposed in the circumstances specified in subclause (3) even though such a condition—
+  (a) was not available as a special condition before the commencement date; and
+  (b) could not have been imposed on the offender at the time when the offender was convicted of the offence for which the sentence of intensive supervision was imposed.
+(3) The circumstances are as follows:
+  (a) if the court imposes additional special conditions under section 54K(3)﻿(a):
+  (b) if the court cancels a sentence and substitutes a sentence of intensive supervision (that could have been imposed on the offender at the time when the offender was convicted of the offence for which the sentence was imposed).
+
+### 3 Varying release conditions for sentence of imprisonment of not more than 24 months imposed before commencement date
+(1) This clause applies to a sentence of imprisonment of not more than 24 months imposed before the commencement date.
+(2) An electronic monitoring condition may be imposed in the circumstances specified in subclause (3) even though such a condition—
+  (a) was not available before the commencement date; and
+  (b) could not have been imposed on the offender at the time when the offender was convicted of the offence for which the sentence of imprisonment of not more than 24 months was imposed.
+(3) The circumstances are as follows:
+  (a) if the court imposes an additional release condition under section 94(3)﻿(a):
+  (b) if the court discharges a release condition and substitutes another release condition under section 94(3)﻿(b).
 
 ## Schedule 1 — Amendments to other enactments
 
