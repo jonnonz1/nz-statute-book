@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2016-12-22_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -931,6 +931,7 @@ The opportunity of a prisoner to associate with other prisoners may be restricte
 
 ### 63 Temporary release from custody
 (1) Any temporary release from custody under section 62 is for a period fixed by the chief executive and may be subject to conditions imposed by the chief executive.
+(1A) The conditions that may be imposed by the chief executive under subsection (1) include, without limitation, a condition requiring the person who is temporarily released from custody to submit to the electronic monitoring of compliance with any temporary release conditions that relate to his or her whereabouts.
 (2) The chief executive or the prison manager may, at any time, direct the return to a prison of any person temporarily released from custody under section 62.
 (3) Every person temporarily released from custody under section 62 is deemed to be unlawfully at large if he or she—
   (a) is at large after the expiry of the period for which he or she was so released; or
@@ -939,10 +940,24 @@ The opportunity of a prisoner to associate with other prisoners may be restricte
 (4) If any person released under this section is at large without reasonable excuse (the proof of which excuse lies on him or her) after the expiry of the period for which he or she was released, after the giving of a direction under subsection (2), or after the person breaches any condition referred to in subsection (3)﻿(c), he or she is deemed to have escaped from lawful custody and is liable accordingly.
 
 ### 64 Temporary removal from prison
-Any temporary removal from prison under section 62—
+(1) Any temporary removal from prison under section 62—
   (a) is for a period fixed by the chief executive; and
   (b) is subject to the condition that the person removed must be under the control or supervision of an officer, a staff member, or a probation officer during the period of removal; and
   (c) may be subject to any other condition imposed by the chief executive.
+(2) The conditions that may be imposed by the chief executive under subsection (1)﻿(c) include, without limitation, a condition requiring the person who is to be removed to submit to the electronic monitoring of compliance with any temporary removal conditions that relate to his or her whereabouts.
+
+### 64A Electronic monitoring for persons temporarily released from custody or temporarily removed from prison
+(1) This section applies to electronic monitoring imposed as a condition under section 63 or 64.
+(2) The purposes of an electronic monitoring condition are—
+  (a) to deter the person who is subject to electronic monitoring from breaching a condition that relates to his or her whereabouts; and
+  (b) to monitor compliance with a condition that relates to his or her whereabouts.
+(3) Information about a person that is obtained through electronic monitoring may be used both for the purposes specified in subsection (2) and for the following purposes:
+  (a) to verify compliance with conditions that relate to the whereabouts of the person:
+  (b) to detect non-compliance with conditions that relate to the whereabouts of the person and the commission of offences:
+  (c) to provide evidence of non-compliance with conditions that relate to the whereabouts of the person and of the commission of offences:
+  (d) to verify that the person who is subject to the electronic monitoring condition has not tampered or otherwise interfered with the ability of the electronic monitoring equipment to operate effectively and accurately.
+(4) A person who is subject to an electronic monitoring condition may be required to have electronic monitoring equipment attached to his or her body.
+(5) Where there is evidence indicating that the person who is subject to the electronic monitoring condition may have tampered with or otherwise interfered with the ability of the electronic monitoring equipment to operate effectively and accurately, the person is deemed to be unlawfully at large unless there is evidence that he or she is not unlawfully at large.
 
 ### 65 Removal of prisoner for judicial purposes
 (1) A prisoner may be—
@@ -956,6 +971,26 @@ Any temporary removal from prison under section 62—
 (3) If this subsection applies, any court or Judge or Registrar may, by order in writing, direct the manager of the prison in which the prisoner is detained to bring the prisoner, or to ensure that the prisoner is brought, before the court or, as the case may require, to arrange the attendance of the prisoner for those judicial purposes, as often as is necessary, and the manager must obey the order.
 (4) The court or Judge or Registrar making any order under subsection (3) must, if the order is made in a civil proceeding, and may, if it is made in any other proceeding, require any person applying for the order to deposit a sum sufficient to pay the expenses of bringing the prisoner before the court or, as the case may require, arranging the attendance of the prisoner for judicial purposes, and returning the prisoner to the prison in which he or she is required by law to be detained.
 (5) In subsection (4), expenses, in relation to a prisoner, includes the expenses of the prisoner's maintenance and custody from the time the prisoner leaves the prison until the time he or she returns.
+
+**Electronic monitoring of prisoners employed in work or accommodated outside secure perimeter**
+
+### 65A Electronic monitoring of prisoners employed in work or accommodated outside secure perimeter
+(1) This section applies to a prisoner who—
+  (a) is employed in work directed or provided by the prison manager under section 66 that is outside the secure perimeter, whether or not it is also outside the prison; or
+  (b) is accommodated in a building that is outside the secure perimeter but still within the prison.
+(2) However, this section does not apply to a prisoner who has been temporarily released from custody or temporarily removed from prison under section 62.
+(3) The prison manager may require the prisoner to submit to electronic monitoring of his or her whereabouts while the prisoner is outside the secure perimeter (in this section, an electronic monitoring condition).
+(4) The purposes of an electronic monitoring condition are—
+  (a) to deter the prisoner from attempting to escape from lawful custody; and
+  (b) to help locate and arrest a prisoner who escapes from lawful custody; and
+  (c) to deter and detect the commission of offences against section 128(1)﻿(e).
+(5) Information about a prisoner that is obtained through an electronic monitoring condition may be used both for the purposes in subsection (4) and for the following purposes:
+  (a) to verify that the prisoner has not escaped from lawful custody:
+  (b) to detect that the prisoner has escaped from lawful custody, and the commission of offences:
+  (c) to provide evidence of escape from lawful custody, and the commission of offences:
+  (d) to verify that the prisoner has not tampered or otherwise interfered with the ability of the electronic monitoring equipment to operate effectively and accurately.
+(6) A prisoner who is subject to an electronic monitoring condition may be required to have electronic monitoring equipment attached to his or her body.
+(7) Where there is evidence indicating that the prisoner who is subject to the electronic monitoring condition may have tampered with or otherwise interfered with the ability of the electronic monitoring equipment to operate effectively and accurately, the prisoner is deemed to be unlawfully at large unless there is evidence that he or she is not unlawfully at large.
 
 **Work and earnings**
 
