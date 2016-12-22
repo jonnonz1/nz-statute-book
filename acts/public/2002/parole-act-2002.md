@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2015-11-18_
+_Consolidation as at 2016-12-22_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -225,14 +225,14 @@ The chairperson or a panel convenor may, on the application of the person who ap
   (b) facilitate or promote the rehabilitation and reintegration of the offender; or
   (c) provide for the reasonable concerns of victims of the offender; or
   (d) comply, in the case of an offender subject to an extended supervision order, with an order of the court, made under section 107IAC, to impose an intensive monitoring condition.
-(3) The kinds of conditions that may be imposed as a special condition include, without limitation,—
+(3) The kinds of conditions that may be imposed as special conditions include, without limitation,—
   (a) conditions relating to the offender's place of residence (which may include a condition that the offender reside at a particular place), or his or her finances or earnings:
   (ab) residential restrictions:
   (b) conditions requiring the offender to participate in a programme (as defined in section 16) to reduce the risk of further offending by the offender through the rehabilitation and reintegration of the offender:
   (c) conditions that the offender not associate with any person, persons, or class of persons:
   (d) conditions requiring the offender to take prescription medication:
   (e) conditions prohibiting the offender from entering or remaining in specified places or areas, at specified times, or at all times:
-  (f) conditions requiring the offender to submit to the electronic monitoring of compliance with any release conditions, or conditions of an extended supervision order, that relate to the whereabouts of the offender:
+  (f) conditions requiring the offender to submit to the electronic monitoring of compliance with any release conditions or conditions of an extended supervision order, imposed under paragraph (ab) or (e), that relate to the whereabouts of the offender:
   (g) an intensive monitoring condition, which must, and may only, be imposed if a court orders (under section 107IAC) the imposition of an intensive monitoring condition.
 (3A) If the Board imposes on an offender special conditions relating to residential restrictions (specified under subsection (3)﻿(ab)),—
   (a) the offender's probation officer must define the area of the residence specified under section 33(2)﻿(a) within which the offender must remain and show that area to the offender and advise every relevant occupant (as defined in section 34(4)) of the residence of that area; and
@@ -249,7 +249,10 @@ The chairperson or a panel convenor may, on the application of the person who ap
   (b) to detect non-compliance with any conditions and the commission of offences:
   (c) to provide evidence of non-compliance with conditions and the commission of offences:
   (d) to verify that the offender has not tampered or otherwise interfered with the ability of the electronic monitoring equipment to operate effectively and accurately.
-(3) To avoid doubt, an offender who is subject to an electronic monitoring condition may be required to have equipment attached to his or her body.
+(3) An offender who is subject to an electronic monitoring condition—
+  (a) may be required to have electronic monitoring equipment attached to his or her body; and
+  (b) must comply with written instructions from a probation officer that are reasonably necessary for the effective administration of the electronic monitoring (for example, an instruction to regularly charge the equipment); and
+  (c) breaches the electronic monitoring condition if he or she does not comply with those written instructions.
 (4) The annual report of the Department of Corrections must include the following information about the use of electronic monitoring in the year reported on:
   (a) the number of offenders who were at any time subject to an electronic monitoring condition:
   (b) the average number of offenders who were subject to an electronic monitoring condition and the average duration of the condition:
@@ -605,7 +608,7 @@ Sections 43 to 50 apply to every hearing of the Board concerning an offender who
   (b) every victim of the offender:
   (c) the manager of the prison in which the offender is detained (if applicable):
   (d)
-  (e) the Director of Area Mental Health Services (in the case of an offender currently detained, or on leave from, in a hospital):
+  (e) the Director of Area Mental Health Services (in the case of an offender currently detained in, or on leave from, a hospital):
   (ea) the compulsory care co-ordinator (in the case of an offender currently detained in, or on leave from, a secure facility):
   (f) the Police.
 (2A) When, under subsection (2)﻿(b), the Board gives notice to a victim that a hearing is pending, the Board must also prepare and send to the victim an explanation of the hearing process and how the victim may participate in that process.
@@ -1357,7 +1360,7 @@ This Part—
     (i) has arrived in New Zealand within 6 months of ceasing to be subject to any sentence, supervision conditions, or order imposed on the person for a relevant offence by an overseas court; and
     (ii) has, since that arrival, been in New Zealand for less than 6 months; and
     (iii) resides or intends to reside in New Zealand; or
-  (c) has been convicted of a relevant offence and in respect of that offence has been determined to be a returning prisoner under the Returning Offenders (Management and Information) Act 2015:
+  (c) has been convicted of a relevant offence and in respect of that offence has been determined to be a returning prisoner under the Returning Offenders (Management and Information) Act 2015; or
   (d) is a person to whom subpart 3 of Part 2 of the Returning Offenders (Management and Information) Act 2015 applies.
 (2) To avoid doubt, and to confirm the retrospective application of this provision, despite any enactment or rule of law, an offender may be an eligible offender even if he or she committed a relevant offence, was most recently convicted, or became subject to release conditions or an extended supervision order before this Part and any amendments to it came into force.
 
@@ -1542,7 +1545,7 @@ In this Part, sentencing court, in relation to an offender, means the High Court
       (B) has been approved in writing by a probation officer as suitable to undertake the role of supervision:
   (j) the offender must not associate with, or contact, a victim of the offender without the prior written approval of a probation officer:
   (k) the offender must not associate with, or contact, any person or class of person specified in a written direction given to the offender for the purposes of this paragraph.
-(2) In this section, contact, includes communicating, or attempting to communicate, with a person by any means, such as by telephone or via the Internet.
+(2) In this section, contact includes communicating, or attempting to communicate, with a person by any means, such as by telephone or via the Internet.
 (3) The condition in subsection (1)﻿(i) applies to extended supervision orders made before and after the commencement of section 17 of the Parole (Extended Supervision Orders) Amendment Act 2014.
 
 ### 107K Board may impose special conditions
