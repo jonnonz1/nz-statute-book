@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2016-06-30_
+_Consolidation as at 2017-01-01_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -84,6 +84,7 @@ This Act has the following purposes:
     (ii) the requirements relating to the use of buildings (for example, the requirement for a compliance schedule or the provisions relating to access to buildings by persons with disabilities):
     (iii) provisions for certain categories of buildings (including dangerous, earthquake-prone, or insanitary buildings):
     (iv) provisions for the safety of dams:
+    (v) provisions relating to residential pool safety:
   (c) Part 3—
     (i) sets out the main functions, duties, and powers of the chief executive, territorial authorities, building consent authorities, and regional authorities under this Act:
     (ii) empowers the chief executive to register building consent authorities that have been accredited to allow them to perform functions under Parts 2 and 3:
@@ -119,6 +120,14 @@ This Act has the following purposes:
 
 ### 7 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **abode** or —
+    (a) means any place used predominantly as a place of residence or abode, including any appurtenances belonging to or enjoyed with the place; and
+    (b) includes—
+      (i) a hotel, motel, inn, hostel, or boarding house:
+      (ii) a convalescent home, nursing home, or hospice:
+      (iii) a rest home or retirement village:
+      (iv) a camping ground:
+      (v) any similar place
   - **acceptable solution** means an acceptable solution issued under section 22(1)
   - **accredited dam owner** means an owner of a dam who is accredited under section 258
   - **allotment** has the meaning given to it by section 10
@@ -192,11 +201,15 @@ In this Act, unless the context otherwise requires,—
       (i) used, or intended to be used, only or mainly for residential purposes; and
       (ii) occupied, or intended to be occupied, exclusively as the home or residence of not more than 1 household; but
     (b) does not include a hostel, boardinghouse, or other specialised accommodation
+  - **immediate pool area** means the land in or on which the pool is situated and so much of the surrounding area as is used for activities carried out in relation to or involving the pool
   - **independently qualified person** means a person—
     (a) who is accepted by a territorial authority as being qualified to—
       (i) carry out or supervise all or some of the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule; and
       (ii) certify that those procedures have been fully complied with; and
     (b) whose acceptance under paragraph (a) has not been withdrawn by the territorial authority
+  - **independently qualified pool inspector** means a person—
+    (a) accepted by the chief executive as qualified to carry out inspections to determine whether a pool has barriers that comply with the requirements of section 162C; and
+    (b) whose acceptance has not been withdrawn
   - **intended use** , in relation to a building,—
     (a) includes any or all of the following:
       (i) any reasonably foreseeable occasional use that is not incompatible with the intended use:
@@ -257,6 +270,12 @@ In this Act, unless the context otherwise requires,—
       (i) the intended use of the building; and
       (ii) the specified systems that the applicant for building consent considers will be required to be included in a compliance schedule required under section 100; and
       (iii) the proposed inspection, maintenance, and reporting procedures for the purposes of the compliance schedule for those specified systems
+  - **pool** —
+    (a) means—
+      (i) any excavation or structure of a kind normally used for swimming, paddling, or bathing; or
+      (ii) any product (other than an ordinary home bath) that is designed or modified to be used for swimming, wading, paddling, or bathing; but
+    (b) does not include an artificial lake
+  - **pool operator** means a person who operates and maintains a pool on a day-to-day basis
   - **prescribed** means prescribed by regulations made under this Act
   - **prescribed electrical work** has the meaning given to it by section 2(1) of the Electricity Act 1992
   - **prescribed fee** includes a fee calculated in accordance with a rate or method prescribed for this purpose in regulations made under this Act
@@ -276,6 +295,10 @@ In this Act, unless the context otherwise requires,—
   - **regional council** has the meaning given to it by section 5(1) of the Local Government Act 2002
   - **Registrar** has the meaning given to it by section 282
   - **regulations** means regulations in force under this Act
+  - **residential pool** means a pool that is—
+    (a) in a place of abode; or
+    (b) in or on land that also contains an abode; or
+    (c) in or on land that is adjacent to other land that contains an abode if the pool is used in conjunction with that other land or abode
   - **restricted building work** means any building work that is—
     (a) building work of a kind declared by the Governor-General by Order in Council to be restricted building work; or
     (b) design work of a kind declared by the Governor-General by Order in Council to be restricted building work
@@ -287,6 +310,9 @@ In this Act, unless the context otherwise requires,—
     (b) includes any plank, coupling, fastening, fitting, or device used in connection with the construction, erection, or use of scaffolding
   - **scope of accreditation** , in relation to a building consent authority that is not a territorial authority, means the scope of technical competence for which the building consent authority is accredited by a building consent accreditation body in accordance with section 252
   - **sitework** means work on a building site, including earthworks, preparatory to, or associated with, the construction, alteration, demolition, or removal of a building
+  - **small heated pool** means a heated pool (such as a spa pool or a hot tub) that—
+    (a) has a water surface area of 5 m2 or less; and
+    (b) is designed for therapeutic or recreational use
   - **specialised accommodation** means a building that is declared by the Governor-General, by Order in Council, to be specialised accommodation for the purposes of this Act
   - **specified intended life** has the meaning given to it by section 113(3)
   - **specified system** —
@@ -322,7 +348,7 @@ In this Act, unless the context otherwise requires,—
   (a) means a temporary or permanent movable or immovable structure (including a structure intended for occupation by people, animals, machinery, or chattels); and
   (b) includes—
     (i) a mechanical, electrical, or other system; and
-    (ii) a fence as defined in section 2 of the Fencing of Swimming Pools Act 1987; and
+    (ii) any means of restricting or preventing access to a residential pool; and
     (iii) a vehicle or motor vehicle (including a vehicle or motor vehicle as defined in section 2(1) of the Land Transport Act 1998) that is immovable and is occupied by people on a permanent or long-term basis; and
     (iv) a mast pole or a telecommunication aerial that is on, or forms part of, a building and that is more than 7 m in height above the point of its attachment or base support (except a dish aerial that is less than 2 m wide); and
   (c) includes any 2 or more buildings that, on completion of building work, are intended to be managed as one building with a common use and a common set of ownership arrangements; and
@@ -389,6 +415,7 @@ Under this Act, the chief executive—
   (d) monitors and reports annually to the Minister in accordance with section 169; and
   (e) publishes guidance information on the requirements of this Act and the building code; and
   (f) registers building consent authorities that have been accredited to allow them to perform functions under Parts 2 and 3; and
+  (fa) accepts (and withdraws acceptance of) independently qualified pool inspectors for the purpose of section 162D; and
   (g) makes determinations under subpart 1 of Part 3; and
   (h) reviews the operation of territorial authorities, regional authorities, and building consent authorities in relation to their functions under this Act; and
   (i) grants and revokes accreditation of building consent authorities or appoints a building consent accreditation body to do so; and
@@ -398,7 +425,8 @@ Under this Act, the chief executive—
   (m) takes enforcement action (including taking proceedings for offences under this Act) if the chief executive considers that it is desirable to do so—
     (i) to establish or clarify any matter of principle relating to building or the interpretation of this Act; or
     (ii) in cases where 1 or more territorial authorities are unwilling or unable to take enforcement action; or
-    (iii) to enforce duties or obligations under Part 4A; and
+    (iii) to enforce duties or obligations under Part 4A; or
+    (iv) to enforce duties or obligations under section 162E (manufacturers and retailers must supply notice); and
   (n) establishes and maintains the registers referred to in section 273; and
   (o) appoints the Registrar under section 310; and
   (p) prepares proposed rules under section 354; and
@@ -430,6 +458,7 @@ Under this Act, the chief executive—
     (ii) their use is changed; or
     (iii) their specified intended life changes; and
   (j) performs functions relating to dangerous, earthquake-prone, or insanitary buildings; and
+  (ja) enforces duties or obligations under section 162C (residential pools must have means of restricting access); and
   (k) carries out any other functions and duties specified in this Act; and
   (l) carries out any functions that are incidental and related to, or consequential upon, the functions set out in paragraphs (a) to (k).
 
@@ -1123,6 +1152,10 @@ As soon as practicable after the expiry of 3 years beginning on the commencement
 (1) A building consent authority that is a territorial authority may grant an application for a building consent subject to a waiver or modification of the building code.
 (2) A waiver or modification of the building code under subsection (1) may be subject to any conditions that the territorial authority considers appropriate.
 (3) The territorial authority cannot grant an application for a building consent subject to a waiver or modification of the building code relating to access and facilities for people with disabilities.
+
+### 67A Territorial authority may grant waivers or modifications in relation to means of restricting access to residential pools
+(1) A territorial authority may grant a waiver or modification of section 162C(1) or (2) (which requires residential pools to have means of restricting access by unsupervised children) if the territorial authority is satisfied that the waiver or modification would not significantly increase danger to children under 5 years of age.
+(2) In deciding whether to grant a waiver or modification under subsection (1), the territorial authority must have regard to all of the relevant circumstances (including the particular characteristics of the pool and the land on which it is situated).
 
 ### 68 Territorial authority must notify chief executive if waiver or modification granted
 If a territorial authority grants a building consent subject to a waiver or modification of the building code, the territorial authority must notify the chief executive of the waiver or modification.
@@ -2255,6 +2288,52 @@ The provisions of sections 154 to 159 are in addition to, and do not limit, the 
 (4) A regional authority must complete a review of a policy within 5 years after the policy is adopted and then at intervals of not more than 5 years.
 (5) A policy does not cease to have effect because it is due for review or being reviewed.
 
+### Subpart 7A — Special provisions for residential pools
+
+### 162A Purpose
+The purpose of this subpart is to prevent drowning of, and injury to, young children by restricting unsupervised access to residential pools by children under 5 years of age.
+
+### 162B Application of subpart
+This subpart applies to pools with a maximum depth of water of 400 mm or more.
+
+### 162C Residential pools must have means of restricting access
+(1) Every residential pool that is filled or partly filled with water must have physical barriers that restrict access to the pool by unsupervised children under 5 years of age.
+(2) The means of restricting access referred to in subsection (1) must comply with the requirements of the building code—
+  (a) that are in force; or
+  (b) that were in force when the pool was constructed, erected, or installed (after 1 September 1987) and in respect of which a building consent, code compliance certificate, or certificate of acceptance was issued (in relation to the means of restricting access to the pool).
+(3) In the case of a small heated pool, the means of restricting access referred to in subsection (1) need only restrict access to the pool when the pool is not in use.
+(4) The following persons must ensure compliance with this section:
+  (a) the owner of the pool:
+  (b) the pool operator:
+  (c) the owner of the land on which the pool is situated:
+  (d) the occupier of the property in or on which the pool is situated:
+  (e) if the pool is subject to a hire purchase agreement (as that term is defined in the Income Tax Act 2007), the purchaser of the pool:
+  (f) if the pool is on premises that are not subject to a tenancy under the Residential Tenancies Act 1986 but the pool is subject to a lease or is part of premises subject to a lease, the lessee of the pool or the premises.
+
+### 162D Periodic inspections of residential pools
+(1) Every territorial authority must ensure that the following residential pools within its jurisdiction are inspected at least once every 3 years, within 6 months before or after the pool’s anniversary date, to determine whether the pool has barriers that comply with the requirements of section 162C:
+  (a) residential pools other than small heated pools:
+  (b) small heated pools that have barriers that are not exempt, in terms of Schedule 1, from the requirement to have a building consent.
+(2) A territorial authority may accept a certificate of periodic inspection from an independently qualified pool inspector for the purpose of subsection (1) in lieu of carrying out an inspection under section 222.
+(3) If a territorial authority decides not to accept a certificate of periodic inspection from an independently qualified pool inspector under subsection (2), the territorial authority must, within 7 working days of making that decision, give notice to the chief executive of the decision and the reasons for the decision.
+(4) If an independently qualified pool inspector inspects a pool for the purpose of this section and decides that the pool does not have barriers that comply with the requirements of section 162C (subject to any waiver or modification granted under section 67A or 188), the inspector must, within 3 working days of the date of inspection, give written notice to the relevant territorial authority of the decision, attaching any information that the chief executive requires to accompany the notice.
+(5) In this section,—
+  - **anniversary date** , in relation to a pool, means—
+    (a) the date of issue of the code compliance certificate or the certificate of acceptance in respect of the pool; or
+    (b) in the case of a pool that did not require a building consent,—
+      (i) the date on which notice was given under section 7 of the Fencing of Swimming Pools Act 1987; or
+      (ii) if subparagraph (i) does not apply, the date on which the existence of the pool came to the knowledge of the territorial authority
+  - **certificate of periodic inspection** means a certificate that—
+    (a) is issued by an independently qualified pool inspector; and
+    (b) is in the prescribed form (if any); and
+    (c) certifies that a pool has barriers that comply with the requirements of section 162C (subject to any waiver or modification granted under section 67A or 188).
+
+### 162E Manufacturers and retailers must supply notice
+(1) Every person who manufactures, sells, or offers for sale in New Zealand any new product that is designed to be used for swimming, wading, paddling, or bathing, other than an ordinary home bath, must ensure that there is supplied with the pool a notice approved by the chief executive setting out or summarising the responsibilities of owners, pool operators, and occupiers under section 162C(4).
+(2) The chief executive may, by notice in the Gazette, approve the form of notices for the purpose of subsection (1).
+(3) Every person who fails to comply with subsection (1) commits an offence.
+(4) An offence against subsection (3) is an infringement offence.
+
 ### Subpart 8 — Notices to fix
 
 ### 163 Definitions for this subpart
@@ -2264,10 +2343,11 @@ In this subpart, unless the context otherwise requires,—
     (b) a territorial authority; or
     (c) a regional authority
   - **specified person** means—
-    (a) the owner of a building; and
-    (b) if the notice to fix relates to building work being carried out,—
+    (a) the owner of a building:
+    (b) if a notice to fix relates to building work being carried out,—
       (i) the person carrying out the building work; or
-      (ii) if applicable, any other person supervising the building work.
+      (ii) if applicable, any other person supervising the building work:
+    (c) if a notice to fix relates to a residential pool, a person referred to in section 162C(4).
 
 ### 164 Issue of notice to fix
 (1) This section applies if a responsible authority considers on reasonable grounds that—
@@ -2290,7 +2370,8 @@ In this subpart, unless the context otherwise requires,—
   (c) if it relates to building work that is being or has been carried out without a building consent, it may require the making of an application for a certificate of acceptance for the work:
   (d) if it requires building work to be carried out, it may require the making of an application for a building consent, or for an amendment to an existing building consent, for the work:
   (e) if it requires building work to be carried out, it must require the territorial authority, the regional authority, or both to be contacted when the work is completed:
-  (f) if it relates to building work, it may direct that the site be made safe immediately and that all or any building work cease immediately (except any building work necessary to make the site safe) until the responsible authority is satisfied that the person carrying out the work is able and willing to resume operations in compliance with this Act and the regulations.
+  (f) if it relates to building work, it may direct that the site be made safe immediately and that all or any building work cease immediately (except any building work necessary to make the site safe) until the responsible authority is satisfied that the person carrying out the work is able and willing to resume operations in compliance with this Act and the regulations:
+  (g) if it relates to a residential pool, it may direct that the pool be drained of water and be kept empty (until the requirements of section 162C are complied with).
 (2) Nothing in subsection (1) limits or affects the generality of section 164.
 
 ### 166 Special provisions for notices to fix from building consent authority
@@ -2316,8 +2397,10 @@ In this subpart, unless the context otherwise requires,—
 (5) Section 164 applies to a notice to fix issued under subsection (4)﻿(b).
 
 ### 168 Offence not to comply with notice to fix
-(1) A person commits an offence if the person fails to comply with a notice to fix.
-(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part of a day during which the offence has continued.
+(1AA) A person commits an offence who fails to comply with a notice to fix a means of restricting access to a residential pool.
+(1AB) A person who commits an offence against subsection (1AA) is liable on conviction to a fine not exceeding $5,000.
+(1) A person commits an offence if the person fails to comply with any other notice to fix under this Act.
+(2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part of a day during which the offence has continued.
 
 ## Part 3 — Regulatory responsibilities and accreditation
 
@@ -2542,7 +2625,9 @@ The chief executive must, within 10 working days after the date on which he or s
 (2) A determination is binding on the parties concerned.
 (3) A determination may incorporate—
   (a) waivers or modifications of the building code; and
+  (aa) waivers or modifications of section 162C(1) or (2); and
   (b) conditions that a territorial authority or regional authority, as the case may be, is able to grant or impose.
+(3A) The chief executive must only grant a waiver or modification of section 162C(1) or (2) if the chief executive is satisfied that the waiver or modification would not significantly increase danger to children under 5 years of age.
 (4) Subsection (1) is subject to section 181(2)﻿(b).
 
 ### 189 Clarification of determination
@@ -2913,9 +2998,11 @@ A territorial authority must, for the purpose of ensuring that it complies with 
     (i) land on which building work is or is proposed to be carried out; and
     (ii) building work that has been or is being carried out on or off the building site; and
     (iii) any building; and
+    (iv) any residential pool (or the immediate pool area); and
   (b) to enter premises for—
     (i) the purpose of inspecting the building; or
-    (ii) the purpose of determining whether the building is dangerous, earthquake prone, or insanitary within the meaning of subpart 6 of Part 2.
+    (ii) the purpose of determining whether the building is dangerous, earthquake prone, or insanitary within the meaning of subpart 6 of Part 2; and
+  (c) to enter premises for the purpose of determining whether section 162C is being complied with.
 (2) An authorised officer must, on entering private land under subsection (1), and when requested at any subsequent time, produce to the occupier of the land written evidence of the authorised officer's identity.
 (3) The powers conferred by this section are in addition to, and do not limit, the powers conferred by section 173 of the Local Government Act 2002.
 (4) In this section and sections 223 to 228,—
@@ -2928,6 +3015,7 @@ A territorial authority must, for the purpose of ensuring that it complies with 
     (a) to determine whether—
       (i) building work is being carried out without a building consent; or
       (ii) building work is being carried out in accordance with a building consent; or
+      (iia) section 162C is being complied with; or
       (iii) a notice to fix has been complied with:
     (b) to ensure that,—
       (i) in relation to buildings for which a compliance schedule is issued, the inspection, maintenance, and reporting procedures stated in the compliance schedule are being complied with; or
@@ -4684,7 +4772,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (4) Building work or design work is not restricted building work if it relates to an application for a building consent made before the commencement of an order under subsection (1) declaring building work or design work of the same kind to be restricted building work.
 
 ### 402 Regulations: general
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:Building levy:Licensing:General matters:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:Building levy:Licensing:Acceptance of independently qualified pool inspectors:General matters:
   (a) prescribing the rate of the levy to be paid under section 53:
   (b) providing for the method by which the levy will be calculated:
   (c) providing for the payment and collection of the levy:
@@ -4713,6 +4801,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
     (iv) search criteria for the register:
   (h) prescribing the way in which a disciplinary matter must be considered and decided on by the Board, and the way in which decisions on that matter must be implemented:
   (i) prescribing the manner in which rules are to be made, amended, or revoked, including the requirements for consultation with persons affected by the proposed rules:
+  (ia) prescribing matters in respect of the acceptance and renewal of acceptance of independently qualified pool inspectors, including the fees or charges payable:
   (j) prescribing procedures for regulating and controlling the construction, maintenance, and demolition of buildings:
   (k) prescribing the form or content of applications, or any other documentation or information required under this Act:
   (ka) prescribing eligibility criteria for national multiple-use approvals:
@@ -5148,6 +5237,30 @@ A territorial authority or a regional authority must, by 31 May 2006, apply to b
 (3E) An order made under subsection (3D) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (4) This section overrides sections 14 and 193.
 
+### 450A Transitional and savings provision for residential pools
+(1) Fencing of a residential pool in accordance with clauses 1 to 10 of the Schedule of the Fencing of Swimming Pools Act 1987 (as that schedule was in force immediately before 1 January 2017) is an acceptable solution for establishing compliance with the building code for the purpose of section 162C.
+(2) Sections 22(2) and (3), 23, 24, and 25A apply to the acceptable solution in subsection (1) as if it had been issued by the chief executive under section 22(1) of this Act.
+(3) In this section and the Schedule of the Fencing of Swimming Pools Act 1987,—
+  - **fence** includes any part of a building, and any gate or door, that forms part of a fence
+  - **fencing** means any barrier or barriers used to enclose a pool (or an immediate pool area) so as to restrict or prevent access to the pool.
+
+### 450B Savings provision for existing residential pools
+(1) This section applies to a residential pool that was constructed, erected, or installed before 1 January 2017 (an existing pool).
+(2) An existing pool is deemed to have barriers that comply with section 162C if the barriers—
+  (a) complied with the Schedule of the Fencing of Swimming Pools Act 1987 (as that schedule was in force) immediately before 1 January 2017; and
+  (b) continue to comply with those requirements subject to—
+    (i) any exemption that was granted under section 6 or clause 11 of the Schedule of that Act and that was subsisting immediately before 1 January 2017; and
+    (ii) the conditions of any such exemption.
+(3) Alternatively, an existing pool is deemed to comply with section 162C if all of the following apply:
+  (a) the outside surface of the side walls of the pool is constructed so as to inhibit climbing; and
+  (b) no part of the top of any side wall of the pool is less than 1.2 m above—
+    (i) the adjacent ground level; and
+    (ii) any permanent projection from the ground outside of the pool and within 1.2 m of the walls of the pool; and
+    (iii) any object standing on the ground outside of the pool and within 1.2 m of the walls of the pool; and
+  (c) any ladder or other means of access to the interior of the swimming pool—
+    (i) can be readily removed or made inoperable; and
+    (ii) is removed or made inoperable whenever the pool is not intended to be in use.
+
 **Review of building code**
 
 ### 451 Chief executive must review building code
@@ -5292,13 +5405,16 @@ Building work in connection with a retaining wall that—
 
 ### 21 Fences and hoardings
 (1) Building work in connection with a fence or hoarding in each case not exceeding 2.5 metres in height above the supporting ground.
-(2) Subclause (1) does not include a fence as defined in section 2 of the Fencing of Swimming Pools Act 1987.
+(2) Subclause (1) does not include a fence or hoarding to restrict access to a residential pool.
+
+### 21A Means of restricting access to small heated pools
+Installation of a safety cover as a means of restricting access to a small heated pool that is a residential pool.
 
 ### 22 Dams (excluding large dams)
 Building work in connection with a dam that is not a large dam.
 
-### 23 Tanks and pools (excluding swimming pools)
-Building work in connection with a tank or pool and any structure in support of the tank or pool (except a swimming pool as defined in section 2 of the Fencing of Swimming Pools Act 1987), including any tank or pool that is part of any other building for which a building consent is required, that—
+### 23 Tanks and pools
+Building work in connection with a tank or pool and any structure in support of the tank or pool, including any tank or pool that is part of any other building for which a building consent is required, that—
   (a) does not exceed 500 litres capacity and is supported not more than 4 metres above the supporting ground; or
   (b) does not exceed 1 000 litres capacity and is supported not more than 3 metres above the supporting ground; or
   (c) does not exceed 2 000 litres capacity and is supported not more than 2 metres above the supporting ground; or
