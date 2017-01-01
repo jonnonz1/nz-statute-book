@@ -1,5 +1,5 @@
 # Fencing Act 1978
-_Consolidation as at 2014-07-28_
+_Consolidation as at 2017-01-01_
 
 > An Act to reform the law relating to the erection and repair of dividing fences, and in substitution for the Fencing Act 1908
 
@@ -75,8 +75,8 @@ Without affecting any other manner in which a fencing covenant may be created, a
 ### 9 Adjoining occupiers to share cost of fencing
 Subject to the provisions of this Act, and to any order of the court made under this Act, the occupiers of adjoining lands not divided by an adequate fence are liable to contribute in equal proportions to work on a fence.
 
-### 9A Contributions where fence required by Fencing of Swimming Pools Act 1987
-Where any person is required to provide a fence in order to comply with the Fencing of Swimming Pools Act 1987—
+### 9A Contributions where Building Act 2004 requires pool to have means of restricting access
+Where any person is required to provide a fence in order to comply with the subpart 7A of Part 2 of the Building Act 2004—
   (a) all work on that fence that is required because of the application of that Act and would not otherwise be required shall be the responsibility of the owner of the swimming pool; and
   (b) no person, other than the owner of the swimming pool, shall be required to make any contribution under this Act to the work on a fence greater than the contribution that the person would be required to make to the work on a fence (whether of the same type or not) if the swimming pool did not exist.
 
