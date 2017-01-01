@@ -1,5 +1,5 @@
 # Fencing of Swimming Pools Act 1987
-_Consolidation as at 2013-11-28_
+_Consolidation as at 2017-01-01_
 
 > An Act to promote the safety of young children by requiring the fencing of certain swimming pools
 
