@@ -1,5 +1,5 @@
 # Tuberculosis Act 1948
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-01-04_
 
 > An Act to make better provision for the treatment, care, and assistance of persons suffering or having suffered from tuberculosis, and for preventing the spread of tuberculosis
 
@@ -19,7 +19,7 @@ _Consolidation as at 2013-07-01_
   - **institution** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **medical officer of health** means a person designated as a medical officer of health under the Health Act 1956
   - **medical practitioner** —
-    (a) means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; and
+    (a) means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; and
     (b) includes a tuberculosis officer
   - **Minister** means the Minister of Health
   - **outpatient** means any person, not being an inmate of a sanatorium or other institution, who is undergoing treatment, or under medical care or supervision, in respect of tuberculous disease and is enrolled as an outpatient at a tuberculosis clinic
