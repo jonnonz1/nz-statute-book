@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2017-01-04_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -14,21 +14,30 @@ _Consolidation as at 2016-03-01_
   - **animal** includes any bird, reptile, amphibian, or insect
   - **carrier** , in relation to any infectious disease, means any person having in his blood, or in his nose or throat, or in his excretions, or in his discharges, the specific infectious agent of that disease, though he may exhibit no other sign or symptom of that disease
   - **cleansing** , in relation to any building, includes lime-washing, papering, painting, and the destruction of vermin
-  - **communicable disease** includes any infectious disease, tuberculosis, venereal disease, and any other disease declared by the Governor-General, by Order in Council, to be a communicable disease for the purposes of this Act
-  - **contact** , in relation to any infectious disease, means any person who has been exposed to risk of infection from an infectious disease within a period not exceeding the prescribed period of incubation of that disease
+  - **communicable disease** includes any infectious disease, and any other disease declared by the Governor-General, by Order in Council, to be a communicable disease for the purposes of this Act
+  - **contact** , in relation to any infectious disease, means any person who has been exposed to risk of infection from an infectious disease
   - **craft** means an aircraft, ship, or other device or machine, that can be used to carry or transport people or goods—
     (a) by air; or
     (b) on or under water
   - **Director-General** means the chief executive under the State Sector Act 1988 of the Ministry of Health; and, in relation to any power or function delegated by that chief executive, includes any person to whom that chief executive has delegated that power or function
   - **district health board** means a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
   - **dwellinghouse** means any building, tent, caravan, or other structure or erection, whether permanent or temporary, that is used or intended to be used in whole or in part for human habitation, and includes the land and any outbuildings and appurtenances belonging thereto or usually enjoyed therewith
+  - **educational institution** —
+    (a) means any place where people gather for the purpose of education or training; and
+    (b) includes an early childhood education and care centre within the meaning of section 310(1) of the Education Act 1989
   - **environmental health officer** means an environmental health officer appointed under section 28 or a health protection officer
   - **epidemic management notice** means a notice under section 8(1) of the Epidemic Preparedness Act 2006
   - **epidemic notice** means a notice under section 5(1) of the Epidemic Preparedness Act 2006
+  - **health practitioner** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
   - **health protection officer** means a person designated by the Director-General as a health protection officer under this Act
+  - **health provider** means a person or an organisation that provides, or arranges the provision of, personal health services or public health services
   - **hospital** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **infectious disease** means any disease for the time being specified in Part 1 or Part 2 of Schedule 1
   - **local authority** means a territorial authority within the meaning of the Local Government Act 2002
+  - **medical examination** , in Part 3A, means the physical examination or testing of a person for the purpose of determining whether the person has or is likely to have an infectious disease, and includes—
+    (a) the taking of a sample of tissue, blood, urine, or other bodily material for medical testing; and
+    (b) any diagnostic tests required to detect the presence of, or immunity to, an infectious disease in a person
+  - **medical examination order** means an order made under section 92ZH
   - **medical officer of health** means the medical officer of health appointed under this Act for a health district, and includes any deputy medical officer of health; and, for the purposes of Part 4, includes any medical practitioner acting under the direction of the medical officer of health
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** means the Minister of Health
@@ -40,16 +49,20 @@ _Consolidation as at 2016-03-01_
   - **passenger** , in relation to a craft means any person in or on it who is not a member of its crew
   - **personal health** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
   - **personal health services** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
-  - **premises** includes a ship or an aircraft
+  - **premises** includes any commercial premises, private premises, vehicle, ship, or aircraft
   - **prescribed** means prescribed by this Act or by regulations or bylaws thereunder
   - **public health** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
+  - **public health order** means an order made under section 92Z
+  - **public health risk** , in Part 3A and sections 74 and 74AA, means a substantial risk of serious harm that 1 or more individuals who have, or may have, an infectious disease pose to the health or safety of 1 or more other persons because of the infectious disease, having regard to—
+    (a) the nature of the infectious disease, including, without limitation, the transmissibility and mode of transmission of the infectious disease; and
+    (b) the relevant circumstances of the particular case
   - **public health services** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
   - **quarantinable disease** means a disease stated in Part 3 of Schedule 1
   - **ship** includes every description of vessel used in navigation
-  - **smoke** includes any fumes, gases, dust, soot, grit, or other matters produced in the process of combustion
-  - **venereal disease** means gonorrhoea, gonorrhoeal ophthalmia, syphilis, soft chancre, venereal warts, or venereal granuloma.
+  - **smoke** includes any fumes, gases, dust, soot, grit, or other matters produced in the process of combustion.
 (2) If, in any proceedings for an offence against this Act or against any regulations thereunder, a question arises as to whether or not any person is a contact, as defined in subsection (1), the question shall be determined in accordance with the opinion of the medical officer of health.
 (3) The Governor-General may, by Order in Council, amend Part 3 of Schedule 1 by adding or omitting the name of a disease, or substituting a new name for a disease.
+(4) In this Act, a reference to an individual who has an infectious disease includes an individual who is infected or colonised by, or is a carrier of, an organism capable of causing the disease, even if the individual does not exhibit any of the symptoms of the disease.
 
 ### 3 Power of Governor-General in Council to amend Schedules
 The Governor-General may from time to time, by Order in Council,—or otherwise amend any such list, and every such Order in Council shall have effect according to its tenor.
@@ -125,6 +138,7 @@ In order to ensure that the views of the public, persons involved in the provisi
 (5) Notwithstanding any other enactment, the Director-General may from time to time designate, as officers who have functions, duties, or powers under any enactment administered by the Ministry that is specified in the designation, such persons as, in the opinion of the Director-General, are required.
 (6) Any designation by the Director-General under this section of any person as a medical officer of health, health protection officer, or other officer may be made on such terms and conditions as the Director-General considers appropriate; and that person shall exercise the functions, duties, and powers of that office in accordance with any direction of the Director-General.
 (7) Where by virtue of any enactment, a reasonable belief in any particular state of affairs is a prerequisite for the exercise of any power by a medical officer of health, health protection officer, or other officer designated by the Director-General, it shall be sufficient if that officer exercises that power at the direction of the Director-General (or any other person designated by the Director-General for the purposes of this subsection) so long as, at the time of giving the direction, the Director-General or other person held such a belief in that state of affairs.
+(8) A medical officer of health for any health district may perform or exercise in that or any other health district any of the functions, duties, or powers of a medical officer of health that relate to contact tracing.
 
 ### 8 Conservation of public health in areas outside jurisdiction of local authorities
 (1) The improvement, promotion, and protection of public health in any outlying islands or other areas that are not for the time being within the jurisdiction of any local authority or of any harbour board shall be a function of the Ministry, which for the purposes of this section shall be deemed to be a local authority.
@@ -240,6 +254,7 @@ In this section and sections 22C to 22H, unless the context otherwise requires,�
 (3) For the purposes of principle 11(d) of the Privacy Act 1993, the disclosure of health information about an individual may be authorised—
   (a) by that individual personally, if he or she has attained the age of 16 years; or
   (b) by a representative of that individual.
+(4) Information provided or obtained under Part 3A may not be used or disclosed by anyone except as authorised or required under a provision of this Act or another Act.
 
 ### 22D Duty to provide health information
 (1) The Minister may at any time, by notice in writing, require any district health board to provide, in such manner as may from time to time be required, such returns or other information as is specified in the notice concerning the condition or treatment of, or the services provided to, any individuals in order to obtain statistics for health purposes or for the purposes of advancing health knowledge, health education, or health research.
@@ -1761,18 +1776,25 @@ A person commits an offence and is liable on conviction to imprisonment for a te
 (1) Without limiting the liability of any person for an offence under the last preceding section, if any offence under that section consists in not doing any sanitary work or in failing to remedy any sanitary defect the medical officer of health may himself cause the work to be done or the defect to be remedied at the expense in all things of the offender.
 (2) All such expenses shall be recoverable as a debt due to the Crown.
 
-### 74 Medical practitioners to give notice of cases of notifiable disease
-(1) Every medical practitioner who has reason to believe that any person professionally attended by him is suffering from a notifiable disease or from any sickness of which the symptoms create a reasonable suspicion that it is a notifiable disease shall—
-  (a) in the case of a notifiable infectious disease, forthwith inform the occupier of the premises and every person nursing or in immediate attendance on the patient of the infectious nature of the disease and the precautions to be taken, and forthwith give notices in the prescribed form to the medical officer of health, and, except where the disease is specified in section B of Part 1 of Schedule 1, to the local authority of the district:
+### 74 Health practitioners to give notice of cases of notifiable disease
+(1) Every health practitioner who has reason to believe that any person professionally attended by him is suffering from a notifiable disease or from any sickness of which the symptoms create a reasonable suspicion that it is a notifiable disease shall—
+  (a) in the case of a notifiable infectious disease, forthwith inform the occupier of the premises and every person nursing or in immediate attendance on the patient of the infectious nature of the disease and the precautions to be taken, and forthwith give notices in the prescribed form to the medical officer of health, and, if the disease is specified in section A of Part 1 of Schedule 1, to the local authority of the district:
   (b) in the case of a notifiable disease other than a notifiable infectious disease, forthwith give notice in the prescribed form to the medical officer of health.
 (2)
-(3) Every medical practitioner who by post-mortem examination or otherwise becomes aware that any deceased person was affected with a notifiable disease shall forthwith give notice in the prescribed form to the medical officer of health.
-(4) Every medical practitioner commits an offence against this Act who fails to comply with the requirements of this section.
+(3) Every health practitioner who by post-mortem examination or otherwise becomes aware that any deceased person was affected with a notifiable disease shall forthwith give notice in the prescribed form to the medical officer of health.
+(3A) A health practitioner who gives notice of a notifiable disease under subsection (1) or (3) must not disclose identifying information of the patient or deceased person if the disease is specified in section C of Part 1 of Schedule 1.
+(3B) Despite subsection (3A), a medical officer of health may require a health practitioner to disclose identifying information of the patient or deceased person if disclosure of the identifying information is necessary to respond effectively to a public health risk.
+(3C) In this section and section 74AA, identifying information, in relation to a person, means—
+  (a) the person’s name, address, and place of work or education; and
+  (b) any other information required by regulations made under this Act.
+(4) Every health practitioner commits an offence against this Act who fails to comply with the requirements of this section.
 (5)
 
 ### 74AA Medical laboratories to give notice of cases of notifiable disease
 (1) The person in charge of a medical laboratory must take all reasonably practicable steps to ensure that there are in place in it efficient systems for reporting to him or her (or to any other person for the time being in charge of it) the results of a test or other procedure undertaken in it that indicate that a person or thing is, has been, or may be or have been, infected with a notifiable disease.
 (2) The person for the time being in charge of a medical laboratory to whom results are reported under subsection (1) (or who himself or herself becomes aware of results of a kind to which that subsection applies) must immediately tell the health practitioner for whom the test or other procedure concerned was undertaken, and the medical officer of health, of the infectious nature of the disease concerned.
+(2A) A person in charge of a medical laboratory who gives notice of a notifiable disease under subsection (2) must not disclose identifying information of a person who is, or has been, or may be or may have been, infected with a disease specified in section C of Part 1 of Schedule 1.
+(2B) Despite subsection (2A), a medical officer of health may require a person in charge of a medical laboratory to disclose identifying information of the person who is, or has been, or may be or may have been, infected with a disease if disclosure of the identifying information is necessary to respond effectively to a public health risk.
 (3) A person who fails to comply with subsection (2)—
   (a) commits an offence against this Act; and
   (b) is liable on conviction to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $500 for every day on which it has continued.
@@ -1828,12 +1850,7 @@ The medical officer of health, or any medical practitioner authorised in that be
 If the death of any person is suspected to have been due to a notifiable disease and the facts relating to the death cannot with certainty be ascertained without a post-mortem examination, or if it is desirable for preventing the occurrence or spread of a notifiable disease that the facts relating to the death of any person should be ascertained, the Director-General of Health may order a post-mortem examination of the body of the deceased person to be made by a medical practitioner.
 
 ### 79 Isolation of persons likely to spread infectious disease
-(1) If the medical officer of health or any health protection officer has reason to believe or suspect that any person, whether suffering from an infectious disease or not, is likely to cause the spread of any infectious disease, he may make an order for the removal of that person to a hospital or other suitable place where he can be effectively isolated.
-(2) An order under this section shall be made in every case where the medical officer of health or the health protection officer is satisfied that any person who is likely to spread an infectious disease cannot, without removal, be effectively isolated or properly attended.
-(3) An order under this section may be executed by the medical officer of health or the health protection officer, or by any person authorised in that behalf by the medical officer of health or the health protection officer, and may be executed by force if necessary.
-(4) The medical officer or other person in charge of the hospital or other place to which any person is ordered to be removed as aforesaid shall, on the presentation of the order, receive the person to whom the order relates and shall arrange for his isolation in accordance with the requirements of the medical officer of health or the health protection officer and, in the case of a person requiring medical treatment, for such treatment, and, unless the medical officer of health otherwise permits, shall detain him, by force if necessary, in isolation until he has been medically examined and found to be free from infectious disease and until he has undergone such preventive treatment as the medical officer of health may prescribe.
-(5) Any person who is isolated in accordance with this Act, whether pursuant to an order under this section or not, and who leaves the place of isolation while he is required to be so isolated, may be arrested by any officer of the Ministry of Health or by any member of the staff of the hospital or other place of isolation or by any constable, without warrant, and delivered forthwith to the same or another suitable place of isolation, and detained there pursuant to subsection (4).
-(6) Every person commits an offence against this Act who wilfully disobeys an order under this section, or who obstructs or delays or in any way interferes with the prompt execution thereof, or who, being isolated in accordance with this Act, leaves or attempts to leave the place of isolation without proper authority.
+[Repealed]
 
 ### 80 Offences in respect of infectious or communicable diseases
 (1) Every person commits an offence against this Act who—
@@ -1900,64 +1917,536 @@ Where any article dealt with by a local authority or any environmental health of
 **Venereal disease**
 
 ### 88 Persons suffering from venereal disease to undergo treatment
-(1) Every person suffering from any venereal disease, or who has reason to believe that he is suffering from any such disease, shall forthwith consult a medical practitioner with respect thereto, and shall place himself under treatment by that medical practitioner, or by some other medical practitioner, or shall attend for treatment at any hospital or other place available for the treatment of venereal diseases.
-(2) Every person undergoing treatment for any venereal disease as aforesaid shall, until he has been cured of that disease or is free from that disease in a communicable form, continue to submit himself to such treatment at such intervals as may be prescribed, not exceeding in any case an interval of 4 weeks.
-(3) Every person commits an offence against this Act who contravenes or fails to comply in any respect with any of the provisions of this section.
+[Repealed]
 
 ### 89 Duty of medical practitioner as to patient suffering from venereal disease
-Every medical practitioner who attends or advises any patient for or in respect of any venereal disease from which the patient is suffering shall, by written notice in the prescribed form delivered to the patient,—
-  (a) direct the attention of the patient to the infectious character of the disease, and to the penalties prescribed by this Act for infecting any other person with that disease; and
-  (b) warn the patient against having a sexual relationship until he has been cured of that disease or is free from that disease in a communicable form; and
-  (c) give to the patient such printed information relating to the treatment of venereal disease, and to the duties of persons suffering from such disease, as may be issued by the directions of the Minister.
+[Repealed]
 
 ### 90 Treatment of children
-(1) Any parent, guardian, or other person in charge of a child suffering from any venereal disease shall cause the child to be treated for that disease by a medical practitioner.
-(2) Every parent, guardian, or other person in charge of any such child as aforesaid who fails or neglects to have that child treated as aforesaid by a medical practitioner commits an offence against this Act.
-(3) For the purposes of this section the term child means a person under the age of 16 years.
+[Repealed]
 
 ### 91 Persons other than medical practitioners treating venereal disease
-Every person, other than a medical practitioner, who undertakes for payment or other reward the treatment or cure of any venereal disease commits an offence and is liable, on conviction before a District Court Judge, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 1 year, or to both.
+[Repealed]
 
 ### 92 Infecting any person with venereal disease
-Every person who knowingly infects any other person with a venereal disease, or knowingly does or permits or suffers any act likely to lead to the infection of any other person with any such disease, commits an offence and is liable, on conviction before a District Court Judge, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 1 year, or to both.
-
-## Part 3A — Trading in human blood and controlled human substance
-
-### 92A Interpretation
 [Repealed]
 
-### 92B Trading in own blood or controlled human substance prohibited
-[Repealed]
+## Part 3A — Management of infectious diseases
 
-### 92C Collection of blood or controlled human substance
-[Repealed]
+### Subpart 1 — Overarching principles
 
-### 92D Charging for administered blood or controlled human substance
-[Repealed]
+### 92A Principles to be taken into account
+(1) The principles set out in sections 92C to 92H are to be taken into account by every person and every court performing a function under this Part.
+(2) Nothing in sections 92C to 92H is to be taken as indicating that the principles in those sections are set out in any order of importance.
+(3) To avoid doubt, an individual undertaking contact tracing in response to a request under section 92ZZD(2) is not performing a function under this Part.
 
-### 92E Exemptions
-[Repealed]
+### 92B Paramount consideration
+The paramount consideration in the application of the principles in sections 92C to 92H is the protection of public health.
 
-### 92F Unauthorised advertising prohibited
-[Repealed]
+### 92C Respect for individuals
+(1) An individual must be treated with respect for the dignity of the individual when any functions, duties, or powers are exercised or performed in relation to him or her under this Part.
+(2) The person exercising or performing the functions, duties, or powers must take into account any known special circumstances or vulnerabilities of the individual, to the extent that the protection of public health permits this to be done.
 
-### 92G Liability of employers, principals, and directors
-[Repealed]
+### 92D Voluntary compliance
+(1) If an individual poses a public health risk, and that risk can be prevented or minimised by the individual’s voluntary compliance with certain measures, the individual must be given the opportunity to voluntarily comply with those measures before measures under this Part are applied to the individual.
+(2) A person or court exercising or performing any functions, duties, or powers under this Part must take into account whether the individual has had an opportunity to minimise the risk of transmitting the infectious disease, and whether he or she has done so, or the extent to which he or she has done so, particularly in response to—
+  (a) any directions given to the individual:
+  (b) any request or instruction from a medical practitioner, medical officer of health, or health protection officer.
+(3) Individuals and communities should be encouraged to take responsibility for their own health and, to that end, to participate in decisions about how to protect and promote their own health and the health of their communities.
 
-### 92H Appointed entities to collect and distribute blood and controlled human substances
-[Repealed]
+### 92E Individual to be informed
+A person exercising or performing any functions, duties, or powers in relation to an individual under this Part must, so far as is practicable in the circumstances, promptly inform the individual, in a way that the individual is most likely to understand, about—
+  (a) the nature of the functions, duties, or powers being exercised or performed and their implications for the individual:
+  (b) any steps planned to be taken in respect of the individual:
+  (c) any right of the individual to appeal against the exercise or performance of the functions, duties, or powers and to apply for judicial review.
 
-### 92I Exemption from Part 2 of Commerce Act 1986
-[Repealed]
+### 92F Principle of proportionality
+Measures applied to an individual under this Part must—
+  (a) be proportionate to the public health risk sought to be prevented, minimised, or managed; and
+  (b) not be made or taken in an arbitrary manner.
 
-### 92J Protection of appointed entities
-[Repealed]
+### 92G Least restrictive alternative
+In any case where this Part enables alternative measures to be applied to an individual, preference must be given to the least restrictive measure that, in the judgment of the person or court concerned, will achieve the objective of minimising the public health risk posed by the individual.
 
-### 92K Exemption from Part 2 of Commerce Act 1986
-[Repealed]
+### 92H Measures to apply no longer than necessary
+Measures applied to an individual under this Part must not be applied longer than is necessary to prevent or minimise the public health risk that the individual poses.
 
-### 92L Protection of trustees of blood transfusion trust
-[Repealed]
+### Subpart 2 — Directions
+
+### 92I Medical officer of health may give directions to individual posing public health risk
+(1) This section applies if a medical officer of health believes on reasonable grounds that an individual poses a public health risk.
+(2) The medical officer of health may give the individual any direction or directions listed in subsection (4) that the medical officer of health thinks are necessary to prevent or minimise the public health risk posed by the individual.
+(3) If the disease that the individual is believed to have is not a notifiable infectious disease, every direction given to the individual must have the prior approval of the Director-General.
+(4) The medical officer of health may direct the individual to—
+  (a) participate in any of the following that are conducted by a health provider:
+    (i) counselling:
+    (ii) education:
+    (iii) other activities related to the infectious disease:
+  (b) refrain from carrying out specified activities (for example, undertaking employment, using public transport, or travelling within and outside New Zealand) either absolutely or unless stated conditions are observed:
+  (c) refrain from going to specified places either absolutely or unless stated conditions are observed:
+  (d) refrain from associating with specified persons or specified classes of persons:
+  (e) take specified actions to prevent or minimise the public health risk posed by the individual:
+  (f) stay, at all times or at specified times, at a specified place of residence, subject to specified conditions:
+  (g) accept supervision by a named person or a person for the time being holding a named office, including, without limitation,—
+    (i) attending meetings arranged by that person; and
+    (ii) providing that person with information on any action, occurrence, or plan that is relevant to the public health risk posed by the individual:
+  (h) comply with instructions to prevent the spread of the infectious disease.
+(5) In no case may a direction require an individual to submit to compulsory treatment.
+(6) Subsection (7) applies if a direction requires an individual to refrain from carrying out a specified activity either absolutely or unless stated conditions are observed and a medical officer of health believes on reasonable grounds that the persons responsible for the activity need to be informed in order to prevent or minimise the public health risk posed by the individual.
+(7) The medical officer of health may contact any person who occupies a position of responsibility in relation to the activity and tell that person about 1 or more of the following matters:
+  (a) the direction:
+  (b) the public health risk posed by the individual’s engagement in the activity:
+  (c) ways of minimising that public health risk.
+(8) If the Director-General so requires, the medical officer of health must send him or her a copy of all or any of the directions given by the medical officer of health under this section.
+(9) Despite anything in the Privacy Act 1993, if a person requires another person to provide information under this section,—
+  (a) the person required to provide the information must comply with the requirement and be advised that the information must be provided for the effective management of infectious diseases; and
+  (b) nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
+
+### 92J Medical officer of health may give directions to contacts of individuals posing public health risk
+(1) This section applies if a medical officer of health believes on reasonable grounds that—
+  (a) an individual has been in contact with a person who has, or may have, an infectious disease; and
+  (b) if the disease has been transmitted to the individual, the individual poses, or is likely to pose, a public health risk.
+(2) The medical officer of health may give the individual any 1 or more directions listed in subsection (4) that the medical officer of health thinks are necessary to prevent or minimise the public health risk posed by the individual.
+(3) If the disease that the individual is believed to have is not a notifiable infectious disease, every direction given to the individual must have the prior approval of the Director-General.
+(4) The medical officer of health may direct the individual to—
+  (a) participate in any of the following that are conducted by a health provider:
+    (i) counselling:
+    (ii) education:
+    (iii) other activities related to the infectious disease:
+  (b) refrain from carrying out specified activities (for example, undertaking employment, using public transport, or travelling within and outside New Zealand) either absolutely or unless stated conditions are observed:
+  (c) refrain from going to specified places either absolutely or unless stated conditions are observed:
+  (d) refrain from associating with specified persons or specified classes of persons:
+  (e) take specified actions to prevent or minimise the public health risk posed by the individual:
+  (f) stay, at all times or at specified times, at a specified place of residence, subject to specified conditions:
+  (g) accept supervision by a named person or a person for the time being holding a named office, including, without limitation,—
+    (i) attending meetings arranged by that person; and
+    (ii) providing that person with information on any action, occurrence, or plan that is relevant to the public health risk posed by the individual:
+  (h) comply with instructions to prevent the spread of the infectious disease.
+(5) In no case may a direction require an individual to submit to compulsory treatment.
+(6) Subsection (7) applies if a direction requires an individual to refrain from carrying out a specified activity either absolutely or unless stated conditions are observed and a medical officer of health believes on reasonable grounds that the persons responsible for the activity need to be informed in order to prevent or minimise the public health risk posed by the individual.
+(7) The medical officer of health may contact any person who occupies a position of responsibility in relation to the activity and tell that person about 1 or more of the following matters:
+  (a) the direction:
+  (b) the public health risk posed by the individual’s engagement in the activity:
+  (c) ways of minimising that public health risk.
+(8) If the Director-General so requires, the medical officer of health must send him or her a copy of all or any of the directions given by the medical officer of health under this section.
+(9) Despite anything in the Privacy Act 1993, if a person requires another person to provide information under this section,—
+  (a) the person required to provide the information must comply with the requirement and be advised that the information must be provided for the effective management of infectious diseases; and
+  (b) nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
+
+### 92K Direction for medical examination
+(1) This section applies if a medical officer of health believes on reasonable grounds that—
+  (a) an individual may have an infectious disease (for example, because the individual has been in contact with a person who has an infectious disease); and
+  (b) the individual’s medical practitioner or a medical officer of health has requested the individual to undergo, within a specified period, a medical examination to establish whether the individual has the infectious disease; and
+  (c) the individual has not undergone that examination within that period; and
+  (d) if the individual has the infectious disease, the individual poses a public health risk.
+(2) The medical officer of health may direct the individual to undergo 1 or more medical examinations and may specify the places where those examinations are to be conducted and the health providers who are to conduct them.
+(3) The medical officer of health may also direct the individual, until those examinations are completed, to—
+  (a) participate in any of the following that are conducted by a health provider:
+    (i) counselling:
+    (ii) education:
+    (iii) other activities related to the infectious disease:
+  (b) refrain from carrying out specified activities (for example, undertaking employment, using public transport, or travelling within and outside New Zealand) either absolutely or unless stated conditions are observed:
+  (c) refrain from going to specified places either absolutely or unless stated conditions are observed:
+  (d) refrain from associating with specified persons or specified classes of persons:
+  (e) take specified actions to prevent or minimise the public health risk posed by the individual:
+  (f) stay, at all times or at specified times, at a specified place of residence, subject to specified conditions:
+  (g) accept supervision by a named person or a person for the time being holding a named office, including, without limitation,—
+    (i) attending meetings arranged by that person; and
+    (ii) providing that person with information on any action, occurrence, or plan that is relevant to the public health risk posed by the individual:
+  (h) comply with instructions to prevent the spread of the infectious disease.
+(4) In no case may a direction require an individual to submit to compulsory treatment.
+(5) Subsection (6) applies if a direction requires an individual to refrain from carrying out a specified activity either absolutely or unless stated conditions are observed and a medical officer of health believes on reasonable grounds that the persons responsible for the activity need to be informed in order to prevent or minimise the public health risk posed by the individual.
+(6) The medical officer of health may contact any person who occupies a position of responsibility in relation to the activity and tell that person about 1 or more of the following matters:
+  (a) the direction:
+  (b) the public health risk posed by the individual’s engagement in the activity:
+  (c) ways of minimising that public health risk.
+(7) Any medical examination an individual is directed to undergo must be—
+  (a) in accordance with current best practice in diagnosing the presence of, or immunity to, the infectious disease; and
+  (b) the least invasive type of examination that is necessary to establish whether the individual has, or is immune to, the infectious disease.
+(8) The medical officer of health must send to the Director-General a copy of every direction given under this section.
+(9) Despite anything in the Privacy Act 1993, if a person requires another person to provide information under this section,—
+  (a) the person required to provide the information must comply with the requirement and be advised that the information must be provided for the effective management of infectious diseases; and
+  (b) nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
+
+### 92L Direction to close educational institutions
+(1) This section applies if a medical officer of health believes on reasonable grounds that—
+  (a) 1 or more persons attending an educational institution have, or may have, an infectious disease; and
+  (b) there is a substantial risk that the infectious disease will be transmitted to other persons attending the educational institution; and
+  (c) the risk of the infectious disease being transmitted to other persons attending the educational institution cannot be adequately managed solely by giving directions to the individual with the infectious disease.
+(2) The medical officer of health may give a direction to the person in charge of the educational institution to—
+  (a) direct persons attending the educational institution to stay away from its property until further notice:
+  (b) close part of the educational institution:
+  (c) close the entire educational institution.
+(3) The medical officer of health must not give a direction under subsection (2) without first consulting the person in charge of the educational institution.
+(4) If the Director-General so requires, the medical officer of health must send him or her a copy of all or any of the directions given by the medical officer of health under this section.
+
+### 92M Director-General may require copies of directions given under this Part
+The Director-General may from time to time require a medical officer of health to provide him or her with a report on any directions given by the medical officer of health under this Part.
+
+**General provisions concerning directions and notices**
+
+### 92N Written directions and notices to be served on individual
+(1) A direction or notice under this Part must be in writing and must be served on the individual to whom it is given.
+(2) If the person to whom the direction or notice relates is under the age of 16 years or lacks legal capacity, a medical officer of health or a health protection officer must serve the direction or notice on the parent, guardian, or other person in charge of the person to whom the direction or notice relates.
+(3) However, if it is not reasonably practicable in the circumstances to serve the direction or notice on the individual in person, alternative steps must be taken to bring the direction to the attention of the individual as soon as possible.
+(4) In this section, notice does not include an urgent public health order or a court order.
+
+### 92O Duration of directions
+(1) When giving a direction under this Part, a medical officer of health must specify the period for which the direction is to remain in effect.
+(2) A direction given by the medical officer of health must not remain in effect for more than 6 months, unless the direction is extended under section 92Q.
+(3) A direction ceases to have effect at the close of the earliest of the following days:
+  (a) the last day of the period stated in the direction or in the extension of the direction:
+  (b) the day (if any) on which the medical officer of health rescinds the direction under section 92S:
+  (c) the day (if any) on which the direction is cancelled on appeal under section 92T:
+  (d) the day (if any) on which the medical examinations required by a direction under section 92K(2) have been completed.
+
+### 92P Medical officer of health must review directions
+A medical officer of health must—
+  (a) regularly review each direction that is in effect in the health district or districts for which the officer is responsible; and
+  (b) consider whether the direction is still required; and
+  (c) rescind the direction under section 92S if he or she is satisfied that the individual no longer poses a public health risk; and
+  (d) if directed by the Director-General to do so, advise the Director-General why the direction needs to continue in effect.
+
+### 92Q Directions may be extended
+(1) A medical officer of health may at a reasonable time before the expiry of a direction, by notice to the individual concerned, extend the direction for a period of not more than 6 months if he or she is satisfied that the conditions for giving the direction continue to be satisfied.
+(2) The medical officer of health may extend the direction on 1 or more occasions.
+
+### 92R Repeated directions may be given
+A direction under this Part may be given to an individual on 1 or more occasions.
+
+### 92S Directions may be varied or rescinded
+A medical officer of health may at any time, by notice to the individual concerned, vary or rescind a direction previously given.
+
+### 92T Appeal against directions
+(1) An individual who is required to comply with a direction may appeal to the District Court against—
+  (a) the direction, or any part of the direction:
+  (b) a variation of the direction:
+  (c) an extension of the direction.
+(2) On the appeal, the District Court may confirm, vary, or cancel the direction, variation, or extension.
+(3) The filing of the appeal does not affect the direction, variation, or extension unless the District Court otherwise orders.
+(4) A party to an appeal under this section may appeal against the court’s determination of the appeal in accordance with section 72 of the District Courts Act 1947.
+
+### 92U Confidentiality
+Despite anything in the Privacy Act 1993, information provided or obtained under a direction under this Part may not be used or disclosed by anyone except for the effective management of infectious diseases, but nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
+
+**Compliance with directions**
+
+### 92V Offence for failing to comply with directions
+An individual commits an offence and is liable on conviction to a fine not exceeding $2,000 who, without reasonable excuse, fails to comply with a direction given by a medical officer of health under this Part.
+
+### 92W Offence to obstruct compliance with directions
+(1) This section applies to—
+  (a) a parent, guardian, or person in charge of an individual aged under 16 years; and
+  (b) a person in charge of an individual who is lacking in legal capacity.
+(2) A person to whom this section applies commits an offence who intentionally obstructs that other individual's compliance with a direction given by a medical officer of health under this Part.
+(3) A person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $2,000.
+
+### 92X Duty of care relating to individuals under 16 years and persons lacking in legal capacity
+(1) This section applies to—
+  (a) a parent, guardian, or person in charge of an individual aged under 16 years; and
+  (b) a person in charge of an individual who is lacking in legal capacity.
+(2) If the individual aged under 16 years or lacking in legal capacity is suffering from any infectious disease, the person to whom this section applies must take reasonable steps and care to—
+  (a) ensure that the individual is professionally attended by a medical practitioner, and facilitate diagnosis and treatment; and
+  (b) prevent or minimise the risk of transmission of the disease by the individual.
+(3) Nothing in this section limits or affects the operation of any provisions of the Protection of Personal and Property Rights Act 1988 or any other Act that are applicable to a person or individual referred to in subsection (1).
+
+### 92Y Force not permissible
+In no case may force be used to secure compliance with a direction.
+
+### Subpart 3 — Orders
+
+**Public health orders**
+
+### 92Z District Court may make public health order
+On an application by a medical officer of health, the District Court may make a public health order in respect of an individual if the court is satisfied that the individual poses a public health risk.
+
+### 92ZA Public health order may impose certain requirements on individual
+(1) The District Court may, in making a public health order, impose on an individual any 1 or more of the following requirements the court thinks are necessary to prevent or minimise the public health risk posed by the individual:
+  (a) to be detained, at all times or at specified times, in a hospital or other suitable place or in specified parts of the hospital or place:
+  (b) to stay, at all times or at specified times, at a specified place of residence:
+  (c) to refrain from carrying out specified activities (for example, undertaking employment, using public transport, or travelling within and outside New Zealand) either absolutely or unless stated conditions are observed:
+  (d) to be supervised by a named person or by a person for the time being holding a named office, including, without limitation,—
+    (i) attending meetings arranged by that person; and
+    (ii) providing that person with information on any action, occurrence, or plan that is relevant to the public health risk posed by the individual:
+  (e) after the views of the individual have been taken into account, to be subject to public health surveillance, with or without the aid of electronic communication devices, by a named person or by a person for the time being holding a named office or by a named organisation:
+  (f) to be treated for the infectious disease by a specified health provider:
+  (g) to participate in any of the following that are conducted by a health provider:
+    (i) counselling:
+    (ii) education:
+    (iii) other activities related to the infectious disease:
+  (h) to refrain from going to specified places either absolutely or unless stated conditions are observed:
+  (i) to refrain from associating with specified persons or specified classes of persons:
+  (j) to take specified actions to prevent or minimise the public health risk posed by the individual.
+(2) Before the court imposes a requirement of the kind described in subsection (1)﻿(f), the court must be satisfied that, short of detaining the individual indefinitely, treating him or her is the only effective means of managing the public health risk posed by the individual.
+(3) If an order requires an individual to be detained in a hospital or other place operated by a district health board, the district health board must permit the individual to be detained in the hospital or place.
+(4) The court may impose any requirement specified in subsection (1) subject to any conditions or restrictions that the court considers appropriate.
+
+### 92ZB Matters that District Court may take into account in assessing public health risk
+In assessing, for the purposes of an application for a public health order, whether an individual poses a public health risk, the District Court may, without limitation, take into account—
+  (a) the infectious disease that the individual has or may have:
+  (b) if the individual has had an opportunity to minimise the risk of communicating the infectious disease, whether he or she has done so, or the extent to which he or she has done so, and, in particular,—
+    (i) if directions have been given to the individual, whether the individual has complied with, or the extent to which the individual has complied with, those directions:
+    (ii) if a medical practitioner, medical officer of health, person acting under the direction of a medical officer of health, or health protection officer has requested the individual to take steps to prevent or minimise the risk, whether the individual has responded to those requests or the extent to which the individual has responded to those requests.
+
+### 92ZC Duration of public health order
+(1) When making a public health order under section 92Z, the District Court must specify the period for which the order is to remain in effect.
+(2) A public health order must not remain in effect for more than 6 months, unless the order is extended under section 92ZD.
+(3) A public health order ceases to have effect at the close of the earliest of the following days:
+  (a) the last day of the period stated in the order or in the extension of the order or, if no period is stated in the order, the day that is 6 months after the date on which the order is made:
+  (b) the day (if any) on which the court cancels the order under section 92ZR:
+  (c) the day (if any) on which the order is cancelled on appeal under section 92ZT or 92ZU:
+  (d) the day (if any) on which the Registrar cancels the order after being satisfied that the medical officer of health has certified that the order is no longer necessary to manage the public health risk posed by the individual.
+(4) A requirement imposed by a public health order under section 92ZA ceases to have effect at the close of the earlier of the following days:
+  (a) the day on which the order ceases to have effect:
+  (b) the day (if any) on which the Registrar cancels the order after being satisfied that the medical officer of health has certified that the requirement is no longer necessary to manage the public health risk posed by the individual.
+
+### 92ZD Public health order may be extended
+(1) The District Court may, at a reasonable time before the expiry of a public health order made under section 92Z, on the application of a medical officer of health, extend the order for a period of not more than 6 months if the court considers that extending the public health order is necessary to remove or minimise a public health risk.
+(2) The court may extend the public health order on 1 or more occasions.
+
+### 92ZE Relationship between directions and public health orders
+(1) The District Court may make a public health order that corresponds to, or differs from, any direction previously given.
+(2) Any direction previously given to an individual ceases to have effect when a public health order is made in respect of that individual.
+(3) However, the making of a public health order in respect of an individual does not of itself cancel a direction for a medical examination under section 92K or a medical examination order under section 92ZH in respect of the individual.
+(4) A medical officer of health may not give a direction under this Part to an individual while a public health order made in respect of that individual is in force.
+(5) However, nothing in this section or in any other provision of this Part requires a prior direction before a public health order may be made.
+
+**Urgent public health orders**
+
+### 92ZF Medical officer of health may make urgent public health order
+(1) This section applies if a medical officer of health believes on reasonable grounds that—
+  (a) an individual poses a public health risk; and
+  (b) the medical officer of health cannot adequately manage the public health risk by giving the individual a direction; and
+  (c) to address the risk, the medical officer of health needs to take urgent action; and
+  (d) it is not practicable to wait for the District Court to determine an application for a public health order.
+(2) The medical officer of health may sign and give, or authorise another person to give, the individual an urgent public health order that requires the individual to be detained at specified premises or specified parts of premises, subject to any stated conditions.
+(3) If the infectious disease that the individual is believed to have is not a notifiable disease, the urgent public health order must not be given to the individual without the prior approval of the Director-General.
+(4) The medical officer of health must write on the order the date and time it is given to the individual.
+(5) The medical officer of health must send to the Director-General a copy of the urgent public health order.
+
+### 92ZG Duration of urgent public health order
+(1) An urgent public health order has effect for 72 hours from the time that it is given to an individual.
+(2) However, if the District Court determines an application for a public health order in respect of the individual before the close of the 72-hour period, the urgent public health order ceases to have effect on the court’s determination of the application.
+
+**Medical examination orders and orders concerning contacts**
+
+### 92ZH Medical examination orders
+(1) The District Court may, on the application of a medical officer of health, make a medical examination order in respect of an individual if the court is satisfied that—
+  (a) the individual may have an infectious disease (for example, because the individual is, or has been, in contact with a person who has the infectious disease); and
+  (b) the individual’s medical practitioner or a medical officer of health has asked the individual to undergo, within a specified period, a medical examination to establish whether the individual has the infectious disease; and
+  (c) the individual has not undergone that examination within that period; and
+  (d) the individual poses a public health risk.
+(2) The medical examination order must direct the individual to undergo whatever medical examinations the medical officer of health considers necessary to establish whether the individual has the infectious disease.
+(3) The medical examination order may also impose on the individual, until those examinations are completed, any 1 or more of the requirements stated in section 92ZA(1)﻿(b), (c), (d), (h), (i), and (j) that the court thinks necessary to prevent or minimise the public health risk that the individual may pose.
+(4) The court may impose any requirement referred to in subsection (3) subject to any conditions or restrictions that the court thinks appropriate.
+(5) If the court makes a medical examination order under this section, any medical examination an individual is directed to undergo must be—
+  (a) in accordance with current best practice in diagnosing the presence of, or immunity to, the infectious disease; and
+  (b) the least invasive type of examination that is necessary to establish whether the individual has, or is immune to, the infectious disease.
+(6) The medical examination order ceases to have effect when the medical examination has been completed and it has been established whether the individual has the infectious disease.
+
+### 92ZI District Court may make public health order contingent on examinations establishing infectious disease
+(1) When the District Court makes a medical examination order in respect of an individual, the court may also make a public health order under section 92Z.
+(2) The public health order—
+  (a) must be made in accordance with section 92Z, with the court entitled to assume that the individual has the infectious disease for which he or she is to be examined; and
+  (b) takes effect in accordance with subsection (3).
+(3) The public health order may provide that it takes effect only if a medical officer of health signs and dates a certificate that states that the individual has undergone the examinations in accordance with the medical examination order and that those examinations establish that the individual has the infectious disease for which he or she has been examined.
+(4) The order may be sealed only if the Registrar of the court has seen and filed the certificate described in subsection (3).
+
+### 92ZJ Order for contacts
+(1) The District Court may, on the application of a medical officer of health, make an order in respect of an individual if the court is satisfied that—
+  (a) the individual has been in contact with a person who has, or may have, an infectious disease; and
+  (b) if the infectious disease has been transmitted to the individual, the individual poses, or is likely to pose, a public health risk.
+(2) The order may impose on the individual any of the requirements stated in section 92ZA(1)﻿(b), (c), (d), (h), (i), and (j) that the court thinks are necessary to prevent or minimise the public health risk that the individual may pose.
+(3) The court may impose any requirement referred to in subsection (2) subject to any conditions or restrictions that the court considers appropriate.
+(4) If the terms of the order provide that the order may be brought to an end if the medical officer of health certifies to a Registrar of the court that the order is no longer necessary to manage the public health risk posed by the individual and the Registrar is satisfied that the medical officer of health has given an appropriate certification,—
+  (a) the Registrar must cancel the order; and
+  (b) the order ceases to have effect on cancellation.
+(5) In determining, for the purposes of subsection (4), that the individual no longer poses a public health risk, the medical officer of health must have regard to any known incubation period for the infectious disease.
+
+**Proceedings**
+
+### 92ZK Proceedings under this Part in District Court to be heard by Family Court Judges, if practicable
+(1) The District Court has jurisdiction to hear and determine—
+  (a) appeals under this Part against directions given; and
+  (b) applications for orders made under this Part.
+(2) Every proceeding referred to in subsection (1) must, if practicable having regard to the time required and to the availability of Judges and court staff and resources, be heard and determined by a Family Court Judge.
+(3) Any District Court Judge may hear and determine a proceeding referred to in subsection (1) that cannot practicably be heard and determined by a Family Court Judge.
+(4) The fact that a District Court Judge exercises jurisdiction under this section is conclusive evidence of the authority of the District Court Judge to do so.
+(5) Appeals under this section should be heard as soon as practicable.
+
+### 92ZL Proceedings under this Part not open to public
+(1) Unless the Judge presiding at a hearing of a proceeding referred to in section 92ZK(1) otherwise directs, no person may be present during the hearing except the following:
+  (a) the Judge:
+  (b) officers of the court:
+  (c) parties to the proceeding and their lawyers and any other person nominated by the individual who is the subject of the proceeding:
+  (d) witnesses:
+  (e) any other person whom the Judge permits to be present.
+(2) The parties or their lawyers on their behalf have the right to be heard, present evidence, and cross-examine witnesses in the proceeding.
+(3) A witness must leave the courtroom if asked to do so by the Judge.
+(4) The Judge may, by order, restrict or prohibit the public availability of all or any part of the court record and judgment.
+(5) This section does not limit any other power of the court to hear proceedings in private or to exclude any person from the court.
+
+### 92ZM District Court may appoint lawyers to act for individuals under 16 years
+Whenever an individual aged under 16 years or lacking in legal capacity is the subject of an application for an order under this Part, the District Court that hears the application may appoint a lawyer to act for the individual.
+
+**General provisions concerning orders**
+
+### 92ZN Application for order
+(1) A medical officer of health may apply to the District Court for an order under this Part in respect of an individual who the medical officer of health believes, on reasonable grounds, poses a public health risk.
+(2) If the infectious disease that the individual is believed to have is not a notifiable disease, the application must not be made without the prior approval of the Director-General.
+(3) The medical officer of health must send to the Director-General a copy of the application.
+
+### 92ZO Prior consultation with individual and individual’s family or whānau
+(1) If a medical officer of health is considering applying to the District Court for an order under this Part, the medical officer of health must, whenever practicable, consult the individual and may, at the officer's discretion, consult the individual’s family or whānau.
+(2) The purpose of consultation under subsection (1) is to enable the medical officer of health—
+  (a) to ascertain if the need for an order can be avoided by voluntary compliance by the individual and, if the individual agrees, by any assistance on the part of the family or whānau; and
+  (b) to ascertain, if an order is required, the extent to which the terms of the order and the way it is implemented can take into account the needs and wishes of the individual without prejudicing the protection of public health.
+
+### 92ZP Case conferences
+The consultation under section 92ZO may, at the discretion of the medical officer of health, take the form of a case conference, which may be conducted by telephone or video link.
+
+### 92ZQ Medical officer of health must review orders
+(1) A medical officer of health must—
+  (a) regularly review each order that is in effect in the health district or districts for which the officer is responsible; and
+  (b) consider whether the order is still required; and
+  (c) apply to the District Court to cancel the order under section 92ZR if he or she is satisfied that the order is no longer required; and
+  (d) if directed by the Director-General to do so, advise the Director-General why the order needs to continue in effect.
+(2) A medical officer of health may apply to the District Court for variation of an order under section 92ZR(2).
+(3) If, following a review, a medical officer of health wishes to apply for an extension of the duration of an order, the application must be made under section 92ZD.
+
+### 92ZR District Court may cancel or vary orders
+(1) The District Court may, on the application of a medical officer of health or of the individual concerned, cancel an order made under this Part if the court is satisfied that the order is no longer required.
+(2) The court may, on the application of a medical officer of health or of the individual concerned, vary the terms of an order by making a determination that the court is otherwise authorised to make under this Part and that the court considers desirable in the circumstances.
+(3) If the medical officer of health applies to the court to cancel an order, the order is suspended, and the individual subject to the order ceases to be required to comply with the terms of the order until the court has determined the application to cancel the order.
+(4) The medical officer of health must send to the Director-General a copy of every application under this section.
+(5) The court may deal with an application under this section on the papers if the parties agree.
+
+### 92ZS Confidentiality
+Despite anything in the Privacy Act 1993, information provided or obtained under an order under this Part may not be used or disclosed by anyone except for the effective management of infectious diseases, but nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
+
+### Subpart 4 — Appeals and enforcement
+
+### 92ZT Appeals to High Court
+(1) A medical officer of health and an individual in respect of whom an order has been made under this Part (other than an urgent public health order made under section 92ZF) may each appeal to the High Court against the decision of the District Court.
+(2) The medical officer of health may appeal against the dismissal of an application under this Part or against the District Court’s refusal to make an order, or impose a requirement, sought in the application.
+(3) The individual may appeal against—
+  (a) the order, or any part of the order:
+  (b) a variation of the order:
+  (c) an extension of the order.
+(4) Subject to subsection (5), the High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(5) On the without notice application of the appellant, the District Court may order that the appellant is not required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(6) Subject to section 92ZU, the decision of the High Court on an appeal to that court under this section is final.
+(7) The medical officer of health must send to the Director-General a copy of every notice of appeal under this section.
+(8) Appeals under this section should be heard as soon as practicable.
+
+### 92ZU Appeals to Court of Appeal
+(1) A party to any appeal under section 92ZT may, with the leave of the Court of Appeal, appeal to the Court of Appeal against any determination of the High Court on a question of law arising in that appeal.
+(2) On an appeal to the Court of Appeal under this section, the Court of Appeal has the same power to adjudicate on the proceedings as the High Court had.
+(3) The decision of the Court of Appeal on an appeal to that court under this section, and on an application to it under this section for leave to appeal, is final.
+(4) Appeals under this section should be heard as soon as practicable.
+
+### 92ZV Enforcement of order by medical officer of health
+(1) A medical officer of health may require an individual to comply with an order made under this Part that imposes requirements on the individual, and in doing so may be assisted by any number of assistants (who may be or include constables) and use any force that is reasonable in the circumstances.
+(2) However, in no case may force be used to require an individual to accept medical treatment.
+(3) The medical officer of health must promptly advise the Director-General of any force used for the purpose of requiring an individual to comply with an order.
+
+### 92ZW Offence not to comply with order
+(1) An individual commits an offence who, without reasonable excuse, intentionally fails to comply with an order made under this Part that is binding on the individual.
+(2) An individual who commits an offence against this section is liable on conviction to a term of imprisonment not exceeding 6 months or to a fine not exceeding $2,000.
+(3) The District Court may, instead of imposing a sentence, make an order under one or both of sections 92Z and 92ZH.
+(4) This section does not limit the power of the District Court to punish the failure or refusal to comply with an order made by a court as a contempt of court.
+
+### 92ZX Offence to obstruct compliance with order
+(1) This section applies to—
+  (a) a parent, guardian, or person in charge of an individual aged under 16 years; and
+  (b) a person in charge of an individual who is lacking in legal capacity.
+(2) A person to whom this section applies commits an offence who intentionally obstructs that other individual’s compliance with an order made under this Part.
+(3) A person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $2,000.
+
+### Subpart 5 — Contact tracing
+
+### 92ZY Purpose of contact tracing
+The purpose of contact tracing is to obtain information about the contacts of persons with infectious diseases or suspected of having infectious diseases in order to—
+  (a) identify the source of the infectious disease or suspected infectious disease:
+  (b) make the contacts aware that they too may be infected, thereby encouraging them to seek testing and treatment if necessary:
+  (c) limit the transmission of the infectious disease or suspected infectious disease.
+
+### 92ZZ What contact tracing involves
+Contact tracing, in respect of an individual with an infectious disease or suspected of having an infectious disease, involves—
+  (a) ascertaining the identity of each of the individual’s contacts; and
+  (b) communicating with each contact, so far as this is practicable and appropriate; and
+  (c) ascertaining the circumstances in which the infectious disease or suspected infectious disease may have been transmitted to or by the contact; and
+  (d) providing information and advice to the contact about the risks that the contact faces because of his or her exposure to the infectious disease or suspected infectious disease, including, where appropriate, advice about—
+    (i) medical examinations for the infectious disease or suspected infectious disease; and
+    (ii) the risk that the contact may have transmitted the infectious disease or suspected infectious disease to others; and
+    (iii) the risk that the contact may pose to others; and
+    (iv) appropriate exclusion, treatment, and prophylaxis; and
+  (e) obtaining information about the contacts of that contact, including information required under section 92ZZC in relation to those other contacts.
+
+### 92ZZA Who may be contact tracer
+(1) For the purposes of this Part, in any case involving proposed or actual contact tracing in respect of an individual, the contact tracer may be a—
+  (a) medical officer of health:
+  (b) health protection officer:
+  (c) person suitably qualified in health or community work who is nominated to undertake contact tracing by a district health board or medical officer of health.
+(2) To avoid doubt, nothing in this Part makes it unlawful to undertake contact tracing otherwise than under this Part.
+
+### 92ZZB Appropriateness of contact tracing
+(1) The contact tracer may form the view that contact tracing in respect of an individual with an infectious disease or suspected of having an infectious disease should be undertaken if the contact tracer considers that the purpose of contact tracing is likely to be achieved by doing so.
+(2) If the contact tracer is a medical officer of health, he or she may take into account any recommendation made by the individual’s medical practitioner.
+
+### 92ZZC Duty of individual with infectious disease to provide information about contacts
+(1) If the contact tracer has, under section 92ZZB, formed the view that contact tracing in respect of an individual with an infectious disease or suspected of having an infectious disease should be undertaken, the contact tracer may require the individual to give the contact tracer information about the circumstances in which the infectious disease may have been transmitted to, or by, the individual.
+(2) Before requiring an individual under subsection (1), the contact tracer must inform the individual of the reasons for the requirement.
+(3) An individual with an infectious disease or suspected of having an infectious disease must, if required by the contact tracer, provide information about—
+  (a) those people with whom he or she is, and has been, in contact:
+  (b) the circumstances in which he or she believes he or she contracted, or may have transmitted, the infectious disease.
+(4) For the purposes of subsection (3), the information the individual with an infectious disease or suspected of having an infectious disease may be required to provide about each person with whom he or she has been in contact includes—
+  (a) the name of each contact:
+  (b) the age of each contact:
+  (c) the sex of each contact:
+  (d) the address and other contact details of each contact:
+  (e) any other information required by regulations made under this Act.
+(5) If the individual is under 16 years of age, or lacks legal capacity, or the individual is deceased, the contact tracer may require that the applicable one of the following persons provide the information:
+  (a) the parent, guardian, or person in charge of the individual who is under 16 years of age:
+  (b) the person in charge of the individual who lacks legal capacity:
+  (c) the individual’s legal representative.
+
+### 92ZZD Consideration as to whether contact tracing can be undertaken by individual
+(1) Before requiring information from an individual under section 92ZZC, the contact tracer must consider whether the information is necessary, taking into account—
+  (a) the seriousness of the public health risk posed by the individual; and
+  (b) the ability and willingness of the individual to undertake the contact tracing.
+(2) If the contact tracer considers that it would be appropriate for the individual to undertake the contact tracing, the contact tracer must ask the individual to undertake the contact tracing, to the extent of the individual's ability, and to report back to the contact tracer by a time specified by the contact tracer.
+
+### 92ZZE When contact tracer may undertake contact tracing
+(1) This section applies whenever a contact tracer requires an individual to provide information under section 92ZZC and one of the following applies:
+  (a) the contact tracer does not consider that it would be possible or appropriate for the individual to undertake the contact tracing; or
+  (b) the contact tracer has asked the individual to undertake the contact tracing, and the contact tracer is not satisfied that the contact tracing has been undertaken or that it has been undertaken adequately.
+(2) If this section applies, the contact tracer may undertake the contact tracing.
+(3) The contact tracer must, wherever practicable, inform the individual of the course of action taken under subsection (2).
+
+### 92ZZF Contact tracer may require certain persons to provide information
+(1) For the purpose of identifying the contacts of an individual who has been given a direction under section 92ZZC, a contact tracer may approach a person specified in subsection (2) and require that person to provide the contact tracer with the names and addresses of the contacts of the individual that are known to the person.
+(2) The persons are—
+  (a) the employer of the individual:
+  (b) an educational institution attended by the individual:
+  (c) any business or other organisation that the individual has dealt with:
+  (d) an event co-ordinator or other person likely to have a list of persons attending an event.
+(3) A person referred to in subsection (2) must provide information in response to a request made under subsection (1) despite anything in the Privacy Act 1993.
+(4) Despite anything in the Privacy Act 1993, if a person requires another person to provide information under this section,—
+  (a) the person required to provide the information must comply with the requirement and be advised that the information must be provided for the effective management of infectious diseases; and
+  (b) nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
+
+### 92ZZG Duty of confidentiality
+(1) A contact tracer who approaches a contact under this Part or approaches a person under section 92ZZF must not, as far as practicable, disclose to the contact or that other person the identity of the individual who may have—
+  (a) transmitted the infectious disease to the contact; or
+  (b) exposed the contact to the risk of contracting the infectious disease.
+(2) Despite anything in the Privacy Act 1993, information provided or obtained by a contact tracer under this Part may not be used or disclosed by anyone except for the effective management of infectious diseases, but nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
+
+### 92ZZH Offence to fail to comply with direction to provide required information about contacts
+(1) A person commits an offence who, having been required to provide information under section 92ZZC or 92ZZF,—
+  (a) without reasonable excuse, fails to give the required information; or
+  (b) intentionally omits any part of that information or gives any information that the person knows to be false.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,000.
 
 ## Part 4 — Quarantine
 
@@ -2552,19 +3041,64 @@ Sections 112ZG to 112ZM do not affect the application of sections 29 to 32 of th
 (2) Every person commits an offence against this Act who, without reasonable excuse, fails to make available any information or specimens that the person is required to make available under any of sections 112ZB, 112ZC, and 112ZD.
 (3) Every person who commits an offence under subsection (2) is liable on conviction to a fine not exceeding $10,000.
 
-## Part 5 — Air pollution
+## Part 5 — Artificial UV tanning services
 
-### 113 Commencement of this Part
-[Repealed]
+**Preliminary provision**
 
-### 114 Inspection of chemical works
-[Repealed]
+### 113 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **approved evidence of age document** has the same meaning as in section 5(1) of the Sale and Supply of Alcohol Act 2012
+  - **artificial UV tanning services** means the provision, for payment or other consideration, of ultraviolet () radiation via sunbeds, sunlamps, or any other device that emits UV radiation.
 
-### 115 Duties of occupier of chemical works
-[Repealed]
+**Ban on provision of services to persons under 18 years**
 
-### 116 Duties of occupiers of fertiliser works and sulphuric acid works
-[Repealed]
+### 114 Ban on providing artificial UV tanning services to persons under 18 years
+(1) This section applies to owners and operators of premises providing artificial UV tanning services.
+(2) The owner or operator must not provide artificial UV tanning services to a person under the age of 18 years.
+(3) A person who contravenes subsection (2) commits an offence and is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $2,000:
+  (b) in the case of a body corporate, to a fine not exceeding $10,000.
+(4) Subsection (2) does not apply to a person who provides artificial UV tanning services to a person under the age of 18 years at a hospital if a medical practitioner prescribed the services for the purpose of medical treatment.
+(5) It is a defence to a charge under subsection (2) if the defendant proves that,—
+  (a) before or at the time the artificial UV tanning services were provided, there was produced to the defendant a document purporting to be an approved evidence of age document; and
+  (b) the defendant believed on reasonable grounds that the document—
+    (i) was in fact an approved evidence of age document; and
+    (ii) related to the person to whom the artificial UV tanning services were provided; and
+    (iii) indicated that the person to whom artificial UV tanning services were provided was aged 18 years or over.
+
+**Infringement offences**
+
+### 115 Infringement offences
+In this section and sections 116 to 116B,—
+  - **infringement fee** , in relation to an infringement offence, means an amount prescribed for the purposes of this section in regulations made under section 117(1)﻿(rb)
+  - **infringement offence** means an offence against section 114 or any regulations made under section 119(d) in relation to artificial UV tanning services.
+
+### 116 Commission of infringement offences
+A person who is alleged to have committed an infringement offence may either—
+  (a) be proceeded against for the alleged offence by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be served with an infringement notice as provided for in section 116A.
+
+### 116A Infringement notices
+(1) If a person authorised to issue infringement notices under this section observes a person committing an infringement offence, or he or she has reasonable cause to believe that such an offence is being or has been committed by that person, an infringement notice in respect of that offence may be served on that person.
+(2) Any person authorised to issue infringement notices under this section (not necessarily the person who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence or business.
+(3) An infringement notice (or a copy of it) sent to a person under subsection (2) is to be treated as having been served on that person when it was posted.
+(4) Every infringement notice must be in the prescribed form and must contain the following particulars:
+  (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
+  (b) the amount of the infringement fee; and
+  (c) the address of the place at which the infringement fee may be paid; and
+  (d) the time within which the infringement fee must be paid; and
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (f) a statement that the person served with the notice has a right to request a hearing; and
+  (g) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
+  (h) any other particulars that may be prescribed.
+(5) If an infringement notice has been issued under this section, the procedure under section 21 of the Summary Proceedings Act 1957 may be used in respect of the offence to which the infringement notice relates and, in that case, the provisions of that section apply with the necessary modifications.
+(6) For the purposes of this section, the following persons are authorised to issue infringement notices under this section:
+  (a) any environmental health officer:
+  (b) any person, whether or not an employee of the Ministry or a local authority, who is authorised in writing by the Director-General to issue infringement notices under this section.
+
+### 116B Payment of infringement fees
+(1) Infringement fees for infringement notices issued on behalf of the Ministry are payable to the Ministry.
+(2) Infringement fees for infringement notices issued on behalf of a local authority are payable to the local authority.
 
 ## Part 6 — Regulations
 
@@ -2574,10 +3108,12 @@ Sections 112ZG to 112ZM do not affect the application of sections 29 to 32 of th
   (b) the inspection, cleansing, purifying, disinfection, fumigation, and isolation of ships, aircraft, houses, buildings, yards, conveyances, drains, sewers, and things:
   (c) the destruction of insanitary things:
   (d) the vaccination of persons for the prevention of quarantinable diseases and other diseases, and the adoption of any other measures for the prevention and mitigation of disease:
+  (da) the management of persons with, or suspected of having, infectious diseases, including persons subject to an urgent public health order or a court order under Part 3A, and their contacts:
   (e) the provision of medical aid, transport, accommodation, and curative treatment for the sick:
   (f) the transportation and disposal of the dead:
   (g) the isolation, disinfection, and treatment of persons suffering from any infectious disease:
   (h) the isolation or medical observation and surveillance of persons suspected to be suffering from any infectious disease, of persons in charge of or in attendance on persons suffering from any infectious disease, and of other persons who may have been exposed to the infection of any infectious disease:
+  (ha) the identification of, and communication with, contacts of persons with, or suspected of having, infectious diseases:
   (i) the prevention of the spread of any infectious disease by persons who are contacts or carriers within the meaning of this Act, and the keeping of such persons under medical surveillance, and the restriction of the movements and the preventive treatment of such persons:
   (j) with respect to any infectious disease, prescribing the period which shall be deemed to be the period of incubation of that disease for the purposes of this Act:
   (k) the clinical, chemical, bacteriological, and other examinations and investigations necessary to determine whether any person is suffering from disease or is a carrier of any infectious disease, and whether any person who has been suffering from any infectious disease has ceased to be likely to convey infection:
@@ -2587,7 +3123,12 @@ Sections 112ZG to 112ZM do not affect the application of sections 29 to 32 of th
   (o) the regulation or restriction of the attendance of the public, or of any section of the public, at any place of public recreation or amusement or concourse, or the closing of any such places for admission to the public:
   (p) the regulation, restriction, or prohibition of the convening, holding, or attending of any public gatherings:
   (q) the regulation or restriction of traffic and the movements of persons within or from any area in which an infectious disease is prevalent:
-  (r) the notifications with respect to disease by medical practitioners and other persons, and prescribing the fees payable to medical practitioners, veterinary surgeons, or persons in charge of laboratories in respect of such notifications:
+  (r) prescribing the form and content of the notifications with respect to disease by medical practitioners and other persons, and prescribing the fees payable to medical practitioners, veterinary surgeons, or persons in charge of laboratories in respect of such notifications:
+  (ra) prescribing identifying information for the purpose of section 74(3C)﻿(b):
+  (rb) prescribing, for the purposes of section 115, the infringement fee or infringement fees payable in respect of an infringement offence, which,—
+    (i) in the case of an individual, may not exceed $1,000:
+    (ii) in the case of a body corporate, may not exceed $5,000:
+  (rc) prescribing, for the purposes of section 116A (and for the purposes of the procedure in section 21 of the Summary Proceedings Act 1957 as modified and applied by section 116A), the form of infringement notices and reminder notices for infringement offences, and any other particulars to be contained in infringement notices and reminder notices:
   (s) the prohibition or regulation of the importation into New Zealand of any animal or thing likely to introduce or disseminate disease:
   (t) the destruction of rats, mice, and other vermin, whether on land or on board any ship or any aircraft, the abolition or prevention of conditions favourable to vermin, and the prevention of the migration of rats and mice from ships and aircraft:
   (u) securing and maintaining the cleanliness and efficient sanitation of ships and aircraft, and preventing danger to health from overcrowding on any ship within any harbour in New Zealand, and preventing the pollution of the waters of any harbour with offensive matter from any ship:
@@ -2743,11 +3284,11 @@ The Minister may apply to the High Court for a writ of mandamus to compel a loca
 
 ### 125 Medical examination of children
 (1) In this section—
-  - **child care centre** has the same meaning as in section 105(3) of the Children and Young Persons Act 1974
+  - **early childhood education and care centre** has the same meaning as in section 310(1) of the Education Act 1989
   - **partnership school kura hourua** has the meaning given by section 2(1) of the Education Act 1989
-  - **private school** means a school registered under section 186 of the Education Act 1964 and any premises, not being so registered and being neither a child care centre nor a public school, which are or purport to be mainly for the care or training of children, whether for reward or not
+  - **private school** means a school registered under section 186 of the Education Act 1964 and any premises, not being so registered and being neither an early childhood education and care centre nor a public school, which are or purport to be mainly for the care or training of children, whether for reward or not
   - **public school** means a school established under Part 3 of the Education Act 1964; and includes a kindergarten or other institution providing pre-school education recognised under regulations made pursuant to section 70 of that Act.
-(2) Any medical officer employed in the Ministry or other person authorised by the Minister to exercise the powers conferred by this section on an officer so authorised, or any nurse employed by the Royal New Zealand Society for the Health of Women and Children (Incorporated) engaged in work pursuant to a contract in that behalf between the said Society and the Minister, may at all reasonable times enter any public school, partnership school kura hourua, or child care centre and examine the children attending the school or centre, and may notify the parent or guardian of any such child, or any other person whom he reasonably believes to be concerned with the welfare of the child, of any condition which in his opinion is affecting the health or normal development of the child or of any disease or defect from which in his opinion the child may be suffering.
+(2) Any medical officer employed in the Ministry or other person authorised by the Minister to exercise the powers conferred by this section on an officer so authorised, or any nurse employed by the Royal New Zealand Society for the Health of Women and Children (Incorporated) engaged in work pursuant to a contract in that behalf between the said Society and the Minister, may at all reasonable times enter any public school, partnership school kura hourua, or early childhood education and care centre and examine the children attending the school or centre, and may notify the parent or guardian of any such child, or any other person whom he reasonably believes to be concerned with the welfare of the child, of any condition which in his opinion is affecting the health or normal development of the child or of any disease or defect from which in his opinion the child may be suffering.
 (3) The powers conferred by subsection (2) may be exercised in respect of any private school, and in respect of the children attending there, if application in that behalf is made in writing to the medical officer of health by the controlling authority thereof. Any such application may be revoked in like manner at any time.
 
 ### 126 Infirm and neglected persons
