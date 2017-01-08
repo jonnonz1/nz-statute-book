@@ -1,5 +1,5 @@
 # Evidence Amendment Act 2016
-_Consolidation as at 2016-09-22_
+_Consolidation as at 2017-01-08_
 
 ### 1 Title
 This Act is the Evidence Amendment Act 2016.
