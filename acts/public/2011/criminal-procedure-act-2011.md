@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2016-10-14_
+_Consolidation as at 2017-01-08_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -2126,6 +2126,7 @@ The duty of an appeal court to determine an appeal under subparts 2 to 10 is sub
   (h) refusing to make an order under section 157 (to transfer proceeding to a court at another place):
   (i) granting or refusing to grant permission under section 44 of the Evidence Act 2006 (relating to the cross-examination of a complainant):
   (j) giving or refusing to give leave on an application under section 109(1)﻿(d) of the Evidence Act 2006 (relating to the identity of a witness):
+  (ja) making or refusing to make a pre-trial witness anonymity order under section 110 of the Evidence Act 2006:
   (k) making or refusing to make a witness anonymity order under section 112 of the Evidence Act 2006.
 
 ### 218 Right of appeal by defendant only against pre-trial decisions in jury trial case
