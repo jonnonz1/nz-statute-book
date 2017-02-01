@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-02-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -3581,7 +3581,7 @@ This subpart does not apply to fish farming undertaken in accordance with a prot
 In this subpart, unless the context otherwise requires,—
   - **aquaculture agreement** means 1 or more documents, in the approved form, containing the consents required under section 186ZF
   - **compensation declaration** means a statutory declaration to the effect that compensation has been provided, in accordance with sections 186ZN and 186ZQ, to all affected quota owners
-  - **pre-request aquaculture agreement** means 1 or more documents, in the approved form, containing the consents required under section 186ZM.
+  - **** pre-request aquaculture agreement means 1 or more documents, in the approved form, containing the consents required under section 186ZM.
 
 ### 186ZE Registers of aquaculture agreements, pre-request aquaculture agreements, and compensation declarations
 (1) The chief executive must keep—
@@ -6180,24 +6180,24 @@ All positions and directions described in this schedule are based on a geographi
 
 | Flatfishes (Rhombosolea plebeia; Pelotretis flavilatus; Peltorhamphus novaezeelandiae; Rhombosolea leporina; Colistium guntheri; Colistium nudipinnis; Rhombosolea retiaria; Rhombosolea tapirina) | All quota management areas |
 | --- | --- |
-| Freshwater eel | ANG13 |
+| Long-finned freshwater eel (Anguilla dieffenbachii) | LFE13 |
 | Red cod (Pseudophycis bachus) | All quota management areas |
 | Scallop (Pecten novaezelandiae) | All quota management areas other than SCA7 |
+| Short-finned freshwater eel (Anguilla australis and Anguilla reinhardtii) | SFE13 |
 
 ## Schedule 3 — Stocks managed with an alternative total allowable catch
 
 | Bigeye tuna (Thunnus obesus) | All quota management areas |
 | --- | --- |
 | Blue shark (Prionace glauca) | All quota management areas |
-| Freshwater eel | ANG13 |
 | Green-lipped mussel (Perna canaliculus) | GLM7A and GLM9 |
-| Long-finned freshwater eel (Anguilla dieffenbachii) | LFE11, LFE12, LFE14, LFE15, LFE16, LFE20, LFE21, LFE22, LFE23 |
+| Long-finned freshwater eel (Anguilla dieffenbachii) | LFE11, LFE12, LFE13, LFE14, LFE15, LFE16, LFE20, LFE21, LFE22, LFE23 |
 | Mako shark (Isurus oxyrinchus) | All quota management areas |
 | Moonfish (Lampris guttatus) | All quota management areas |
 | Pacific bluefin tuna (Thunnus orientalis) | All quota management areas |
 | Porbeagle shark (Lamna nasus) | All quota management areas |
 | Ray's bream (Brama brama) | All quota management areas |
-| Short-finned freshwater eel (Anguilla australis and Anguilla reinhardtii) | SFE11, SFE12, SFE14, SFE15, SFE16, SFE20, SFE21, SFE22, SFE23 |
+| Short-finned freshwater eel (Anguilla australis and Anguilla reinhardtii) | SFE11, SFE12, SFE13, SFE14, SFE15, SFE16, SFE20, SFE21, SFE22, SFE23 |
 | Southern bluefin tuna (Thunnus maccoyii) | All quota management areas |
 | Southern scallops (Pecten novaezelandiae) | Southern scallop fishery |
 | Squid (Nototodarus sloani; Nototodarus gouldi) | All quota management areas |
@@ -6350,7 +6350,6 @@ All positions and directions described in this schedule are based on a geographi
 
 | Stock | Minimum holding (tonnes) |
 | --- | --- |
-| ANG13 | 4 |
 | CRA1 | 3 |
 | CRA2 | 3 |
 | CRA3 | 3 |
@@ -6363,6 +6362,7 @@ All positions and directions described in this schedule are based on a geographi
 | CRA10 | 3 |
 | LFE11 | 2 |
 | LFE12 | 2 |
+| LFE13 | 2 |
 | LFE14 | 2 |
 | LFE15 | 2 |
 | LFE16 | 2 |
@@ -6382,6 +6382,7 @@ All positions and directions described in this schedule are based on a geographi
 | SCA7 | 3 |
 | SFE11 | 2 |
 | SFE12 | 2 |
+| SFE13 | 2 |
 | SFE14 | 2 |
 | SFE15 | 2 |
 | SFE16 | 2 |
