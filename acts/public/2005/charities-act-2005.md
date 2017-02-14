@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2015-04-01_
+_Consolidation as at 2017-02-14_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -203,7 +203,9 @@ The name of an entity complies with this section if—
 (2) The following persons are disqualified from being officers of charitable entities:
   (a) an individual who is an undischarged bankrupt:
   (b) an individual who is under the age of 16 years:
-  (c) an individual who, or a body corporate that, has been convicted of a crime involving dishonesty (within the meaning of section 2(1) of the Crimes Act 1961) and has been sentenced for that crime within the last 7 years:
+  (c) an individual who, or a body corporate that, has been convicted of either of the following and has been sentenced for the offence within the last 7 years:
+    (i) a crime involving dishonesty (within the meaning of section 2(1) of the Crimes Act 1961):
+    (ii) an offence under section 143B of the Tax Administration Act 1994:
   (d) an individual who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
   (e) an individual who, or a body corporate that, is disqualified from being an officer of a charitable entity under section 31(4):
   (f) an individual who is subject to a property order made under the Protection of Personal and Property Rights Act 1988, or whose property is managed by a trustee corporation under section 32 of that Act:
@@ -230,7 +232,7 @@ The name of an entity complies with this section if—
 
 ### 18 Chief executive to consider application
 (1) The chief executive must, as soon as practicable after receiving a properly completed application for registration of an entity as a charitable entity, consider whether the entity qualifies for registration as a charitable entity.
-(2) In considering the application, the chief executive may request that the applicant supply further information or documentation.
+(2) In considering the application, the chief executive may request that the applicant supply further information or documentation within 20 working days after the date of the request.
 (3) In considering an application, the chief executive must—
   (a) have regard to—
     (i) the activities of the entity at the time at which the application was made; and
@@ -239,7 +241,10 @@ The name of an entity complies with this section if—
   (b) observe the rules of natural justice; and
   (c) give the applicant—
     (i) notice of any matter that might result in its application being declined; and
-    (ii) a reasonable opportunity to make submissions to the chief executive on the matter.
+    (ii) 20 working days after the date of that notice to make submissions to the chief executive on the matter.
+(3A) An application is to be treated as withdrawn if an applicant fails to adequately respond to a request under subsection (2) or to make submissions to the chief executive on a matter in a notice given under subsection (3)﻿(c) within—
+  (a) 20 working days after the date of the request or notice; or
+  (b) a longer period that the chief executive allows at the request of the applicant.
 (4) Despite subsection (1), the chief executive is not required to consider an application that has been made in breach of section 31(4).
 
 ### 19 Board to decide application for registration
@@ -734,7 +739,7 @@ In considering whether to revoke an entity's status as forming part of a single 
   (b) to be restored to the register of charitable entities with effect from a specified date; or
   (c) to remain registered in the register of charitable entities.
 (2) The specified date may be a date that is before or after the order is made.
-(3) At any time before the final determination of an appeal relating to a decision under section 55, the High Court may make an interim order preventing or restricting the exercise of a power by the chief executive under that section.
+(3) At any time before the final determination of an appeal relating to a decision under section 55, the High Court may make an interim order preventing or restricting the exercise of a power by the Board under that section.
 (4) An interim order may be subject to any terms or conditions that the High Court thinks fit.
 (5) If the High Court refuses to make an interim order, the person or persons who applied for the order may, within 1 month after the date of the refusal, appeal to the Court of Appeal against the decision.
 (6) If an interim order is made under subsection (1), the chief executive must,—
