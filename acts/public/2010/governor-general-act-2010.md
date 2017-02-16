@@ -1,5 +1,5 @@
 # Governor-General Act 2010
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-02-16_
 
 ### 1 Title
 This Act is the Governor-General Act 2010.
