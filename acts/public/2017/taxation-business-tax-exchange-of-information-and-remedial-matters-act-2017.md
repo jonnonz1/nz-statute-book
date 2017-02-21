@@ -68,10 +68,10 @@ This subpart amends the Tax Administration Act 1994.
   (cc) a penalty under section 142H or 142I; or
 (3) Insert, in appropriate alphabetical order:
   - **CRS applied standard** means the CRS standard as modified by section 185O for the determination of requirements under this Act
-  - **CRS publication** means the Standard for Automatic Exchange of Financial Account Information in Tax Matters, published by the Organisation for Economic and Cultural Development
+  - **CRS publication** means the Standard for Automatic Exchange of Financial Account Information in Tax Matters, published by the Organisation for Economic Co-operation and Development
   - **CRS standard** means the Common Standard on Reporting and Due Diligence for Financial Account Information, as amended from time to time, which is a standard—
-    (a) developed by the Organisation for Economic and Cultural Development and the Group of Twenty countries; and
-    (b) agreed by the Council for the Organisation for Economic and Cultural Development on 15 July 2014; and
+    (a) developed by the Organisation for Economic Co-operation and Development and the Group of Twenty countries; and
+    (b) agreed by the Council for the Organisation for Economic Co-operation and Development on 15 July 2014; and
     (c) contained in Part IIB of the CRS publication
 (4) Insert, in appropriate alphabetical order:
   - **FATCA agreement** means the Agreement between the Government of New Zealand and the Government of the United States of America to Improve International Tax Compliance and to Implement FATCA, commonly known as the intergovernmental agreement, which was brought into force for New Zealand by the Double Tax Agreements (United States of America—FATCA) Order 2014 (LI 2014/209), as amended from time to time
