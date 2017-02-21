@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-02-21_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -302,11 +302,6 @@ _Consolidation as at 2016-10-18_
   - **provisional tax payable** is defined in section 139C
   - **provisional taxpayer** means a person who is liable to pay provisional tax under section RC 3 of the Income Tax Act 2007
   - **qualifying person** is defined in sections 83(7), 84(6), and 85G(6) for the purposes of those sections
-  - **qualifying resident foreign trustee** means a person who is a resident foreign trustee and who,—
-    (a) if a natural person, is a member of an approved organisation; and
-    (b) if not a natural person, has a director, or other natural person in a position allowing significant influence over the management or administration of the person, who is—
-      (i) resident in New Zealand within the meaning of section YD 1 of the Income Tax Act 2007; and
-      (ii) a member of an approved organisation
   - **ratio instalment date** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **reconciliation statement** means a reconciliation statement under section 49
   - **record** —
@@ -349,8 +344,6 @@ _Consolidation as at 2016-10-18_
       (ii) a schedular payment; or
       (iii) an extra pay
   - **security** , for the purposes of section 7A, means a security given to the Commissioner to secure the performance of a tax obligation, and includes a mortgage or charge or other encumbrance over, or pledge of, an asset or right, and a guarantee or indemnity
-  - **settlement** , in section 59, has the same meaning as in section YA 1 of the Income Tax Act 2007
-  - **settlor** , in section 59, is defined in section HC 27 of the Income Tax Act 2007
   - **shortfall penalty** means a penalty imposed under any of sections 141AA to 141K for taking an incorrect tax position or for doing or failing to do anything specified or described in those sections
   - **special tax code certificate** means a special tax code certificate under section 24F(1B)﻿(b)
   - **special tax code notification** means a special tax code notification under section 24IB
@@ -452,6 +445,7 @@ _Consolidation as at 2016-10-18_
   - **tax return** —
     (a) means a form or document that a taxpayer is required to complete and return to the Commissioner whether provided in relation to a period or not; and
     (b) includes a tax form issued by another taxpayer that the taxpayer provides to the Commissioner; but
+    (bb) does not include a report required by section 185N to be provided to the Commissioner; and
     (c) does not include the prescribed form or electronic format under section 185K
   - **tax shortfall** , for a return period, means the difference between the tax effect of—when the taxpayer's tax position results in too little tax paid or payable by the taxpayer or another person or overstates a tax benefit, credit, or advantage of any type or description whatever by or benefiting (as the case may be) the taxpayer or another person
     (a) a taxpayer's tax position for the return period; and
@@ -462,6 +456,7 @@ _Consolidation as at 2016-10-18_
   - **taxpayer** means a person who—whether as principal, or as an agent or employee or officer of another person, or otherwise
     (a) is liable to perform, or to comply with, a tax obligation; or
     (b) may take a tax position,—
+  - **taxpayer identification number** , for a person and a jurisdiction other than New Zealand, means the functional equivalent of the person’s tax file number in that jurisdiction
   - **taxpayer's paying rate** is defined in section 120C for the purposes of Part 7
   - **taxpayer's tax position** means—
     (a) a tax position taken by a taxpayer in or in respect of—
@@ -470,6 +465,7 @@ _Consolidation as at 2016-10-18_
       (iii) a due date
     (b)
   - **taxpayer's total tax figure** is defined in section 141B for the purposes of that section
+  - **TIN** means a taxpayer identification number
   - **unacceptable tax position** is defined in section 141B
   - **unpaid tax** includes any amount of tax refunded under a tax law to the extent that the amount—under the tax law
     (a) is not properly refundable; or
@@ -1254,9 +1250,9 @@ An information holder who is required to disclose information in relation to a p
   (a) books of account (whether contained in a manual, mechanical, or electronic format) recording receipts or payments or income or expenditure:
   (b) vouchers, bank statements, invoices, receipts, and such other documents as are necessary to verify the entries in the books of account referred to in paragraph (a):
   (c) accounts (whether contained in a manual, mechanical, or electronic format) to be maintained under the imputation rules, the FDP rules, or section OA 3 for accounts under subparts OE and OJ, of the Income Tax Act 2007, and any statement to be retained under section 31 or 71 of this Act:
-  (d) in the case of a foreign trust, other than for the period for which section 59B(3) applies,—
-    (i) documents that evidence the creation and constitution of the foreign trust; and
-    (ii) particulars of settlements made on, and distributions made by, the foreign trust, including the date of the settlement or distribution, the name and address (if known) of the settlor of the settlement, the name and address (if known) of the recipient of the distribution; and
+  (d) in the case of a foreign trust, other than for the period for which section 59C(3) applies,—
+    (i)
+    (ii)
     (iii) a record of—
       (A) the assets and liabilities of the foreign trust; and
       (B) all entries from day to day of all sums of money received and expended by the trustee in relation to the foreign trust and the matters in respect of which the receipt and expenditure takes place; and
@@ -1971,7 +1967,7 @@ A return purporting to be made by or on behalf of any person shall for all purpo
 
 ### 35 Power of Commissioner to prescribe forms
 (1) For the purposes of the Inland Revenue Acts and any other Acts administered by the department, the Commissioner may from time to time prescribe any forms and any electronic formats that are not otherwise specifically prescribed.
-(2)
+(2) For the purposes of the Inland Revenue Acts, the Commissioner may allow a person to provide the information required in a prescribed form in a manner other than writing if the Commissioner is satisfied that in the circumstances it is appropriate.
 (3) The production by the Commissioner of any document purporting to be—shall in all courts and in all proceedings (including proceedings before a Taxation Review Authority) be sufficient evidence of the fact that the form or electronic format was prescribed.
   (a) a prescribed form or an extract from a prescribed form or a copy of any such form or extract; or
   (b)
@@ -2578,8 +2574,10 @@ A person who in a year pays an amount of resident passive income that is interes
   (b) has provided, in accordance with section 7A of this Act, a security that is acceptable to the Commissioner to secure the performance of their income tax obligations in relation to the land.
 (3) The requirements in this subsection are that the person, for the residential land,—
   (a) is a person who carries on a business of developing land or dividing land into lots or erecting buildings; and
-  (b) has had tax obligations under the Inland Revenue Acts before applying for the certificate; and
-  (c) has complied with all tax obligations for the 2 years before they apply for the certificate, and the Commissioner is satisfied that the person will continue to so comply.
+  (b) has had tax obligations under the Inland Revenue Acts (obligations) for the 2 years before applying for the certificate, or has an associate (the counted associate) that has had obligations for the 2 years before the person applies for the certificate and the counted associate is,—
+    (i) in the same group of companies as the person; or
+    (ii) if the person is a limited partnership, a partner of the person; and
+  (c) has complied with all obligations for the 2 years before the person applies for the certificate, or the counted associate has complied with all obligations for the 2 years before the person applies for the certificate.
 (4) The requirements in this subsection are that the person, for the residential land, will meet the requirements in section CB 16A.
 (5) The Commissioner must issue an RLWT certificate of exemption to the person.
 
@@ -2639,36 +2637,84 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
 (4) Nothing in subsections (1) and (2) or in section 93B shall apply to any trust that is a superannuation fund, or to any person in respect of a superannuation fund.
 (5) Nothing in subsections (1) and (2) or in section 93B shall, before 1 April 1990, apply to any superannuation scheme constituted outside New Zealand and classified by the Government Actuary under regulation 29 or regulation 30 of the Superannuation Schemes Regulations 1983.
 
-### 59B Disclosure of foreign trust particulars
-(1) A resident foreign trustee for a foreign trust must disclose to the Commissioner the following particulars for the foreign trust:
-  (a) the name or other identifying particulars (for example, the date of the settlement on the trust) that relate to the foreign trust; and
-  (b) the name and contact particulars of the resident foreign trustees; and
-  (c) whether a settlor is resident in the Commonwealth of Australia; and
-  (d) if a resident foreign trustee claims to be a qualifying resident foreign trustee,—
-    (i) the name of the approved organisation; and
-    (ii) the name and contact particulars of the natural person whose membership of the approved organisation is claimed to satisfy the requirements of paragraph (a) or (b)﻿(ii) of the definition of qualifying resident foreign trustee; and
-  (e) if a resident foreign trustee has been appointed by another resident foreign trustee as an agent under subsection (7) or section 22(2C),—
-    (i) the name of the trustee appointed as agent; and
-    (ii) the name of the appointing trustee.
-(2) A resident foreign trustee must disclose to the Commissioner an alteration to a particular to which subsection (1) refers.
-(3) The disclosure required by subsections (1) and (2) and the application of section 22(2)﻿(fb) and (m) is delayed for a period of 2 years (calculated from the date on which the trustee becomes a New Zealand resident) for a trustee who is a natural person and who was appointed a trustee of the foreign trust before becoming a New Zealand resident if the trustee—
-  (a) becomes a New Zealand resident on or after 1 October 2006; and
-  (b) is not in the business of providing trustee services; and
-  (c) has not been resident in New Zealand on any day in the period of 5 years that ends immediately before the trustee becomes a New Zealand resident.
-(4) If subsection (3) does not apply, the disclosure required by subsection (1) must be made by the date that is,—
-  (a) if the person is appointed on or after 1 October 2006, 30 days after the later of the following:
-    (i) the date of the person's appointment as a trustee:
-    (ii) the date of the person's arrival in New Zealand; or
-  (b) if the person is appointed before 1 October 2006, 60 days after the later of the following:
-    (i) the date of the commencement of this section:
-    (ii) the date of the person's arrival in New Zealand.
-(5) If subsection (3) does apply, the disclosure required by subsection (1) must be made by the date that is 30 days after the end of the period of 2 years that begins when the trustee becomes a New Zealand resident.
-(6) The disclosure required by subsection (2) must be made by,—
-  (a) if subsection (3) does not apply, the date that is 30 days after the date on which the alteration becomes known to the trustee:
-  (b) if subsection (3) does apply, the date that is the later of—
-    (i) the date that is 30 days after the end of the period of 2 years that begins when the trustee becomes a New Zealand resident:
-    (ii) the date that would be given by paragraph (a) if subsection (3) did not apply.
-(7) If there are more than 1 resident foreign trustee of a foreign trust, the resident foreign trustees may appoint one of themselves as an agent for the purposes of making disclosure under this section.
+### 59B Foreign trust with resident foreign trustee: registration and disclosure
+(1) The Commissioner may register a foreign trust if the foreign trust has a resident foreign trustee and a trustee pays the prescribed fee.
+(2) Resident foreign trustees of a foreign trust must apply to the Commissioner for registration of the foreign trust and pay the prescribed fee.
+(3) A trustee applying for registration of a foreign trust (the contact trustee) is responsible for communicating with the Commissioner for the trust and must provide, with the application and fee,—
+  (a) the name of the trust:
+  (b) the date, amount, settlor, and nature of each settlement on the trust that is not a provision to the trustee at less than market value of minor services incidental to the activities of the trust and is made in the period of time ending with the application and beginning with—
+    (i) the date on which the trust is formed, if a trustee is not a natural person or is in the business of providing trustee services; or
+    (ii) the later of the date on which the trust is formed and 30 June 2013, if subparagraph (i) does not apply and a trustee becomes required to register the trust on the date on which the Taxation (Business Tax, Exchange of Information, and Remedial Matters) Act 2017 receives the Royal assent; or
+    (iii) the later of the date on which the trust is formed and the date that is 4 years before the earliest date on which a trustee becomes required to register the trust, if subparagraphs (i) and (ii) do not apply:
+  (c) the name, email address, physical residential or business address, jurisdiction of tax residence, taxpayer identification number, and connection with the trust of—
+    (i) each settlor who makes a settlement referred to in paragraph (b):
+    (ii) each person with a power to appoint or dismiss a trustee, to amend the trust deed, or to add or remove a beneficiary:
+    (iii) each person with a power to control the exercise of a power referred to in subparagraph (ii):
+    (iv) each person with a power to control a trustee in the administration of the trust:
+    (v) each trustee:
+    (vi) for a fixed trust, each beneficiary that is not a minor and each nominee for a beneficiary:
+    (vii) for a fixed trust and a beneficiary who is a minor, the parent or guardian of the beneficiary:
+  (d) for a fixed trust and a beneficiary who is a minor, the name, age, and taxpayer identification number of the beneficiary:
+  (e) for a discretionary trust, details of each beneficiary or class of beneficiary sufficient for the Commissioner to determine, when a distribution is made under the trust, whether a person is a beneficiary:
+  (f) a copy of the trust deed and of each document that amends or supplements the trust deed, and a copy of each document that is the functional equivalent of a trust deed or amending or supplementing document.
+(4) The contact trustee must provide a signed declaration that each person referred to in subsection (3)﻿(c)﻿(i) to (vii)—
+  (a) is deceased; or
+  (b) despite the efforts of the contact trustee detailed in the declaration, cannot be located by the contact trustee; or
+  (c) has been informed of, and has agreed to provide the information necessary for compliance with, the requirements relating to the provision of information relating to the trust and persons connected with the trust imposed by all of—
+    (i) the Tax Administration Act 1994:
+    (ii) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
+    (iii) the regulations made under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
+(5) A contact trustee must provide to the Commissioner the details of an addition or alteration to a particular to which subsection (3) refers and any signed declaration under subsection (4) required as a consequence of the addition or alteration.
+(6) A contact trustee who anticipates ceasing to be the person communicating with the Commissioner for the trust must provide to the Commissioner the details of—
+  (a) the anticipated date on which the trustee ceases to be the contact trustee for the foreign trust:
+  (b) the email address and physical residential address of the trustee after the anticipated date:
+  (c) the name, email address, and physical residential or business address of the replacement contact trustee for the foreign trust after the anticipated date.
+(7) If a foreign trust has more than 1 resident foreign trustee, each resident foreign trustee is responsible for the performance of the obligations imposed on a trustee relating to registration of the trust, disclosure of information, annual returns, financial statements, and payment of fees.
+
+### 59C Time limits for registration and disclosure of changes
+(1) A resident foreign trustee who becomes required to register the foreign trust under section 59B—
+  (a) on the date (the assent date) on which the Taxation (Business Tax, Exchange of Information, and Remedial Matters) Act 2017 receives the Royal assent, is required to apply for the registration in the period beginning with the assent date and ending with 30 June 2017, except if subsection (3) applies:
+  (b) after the assent date, is required to apply for the registration in the period of 30 days beginning from the day on which the requirement commences, except if subsection (3) applies.
+(2) A resident foreign trustee who is required by section 59B(5) to provide information to the Commissioner after an application for the trust to be registered, must provide the information within 30 days after becoming aware of the addition or alteration.
+(3) A period for the meeting of a requirement that would otherwise be given by subsection (1) for a trustee is given by subsection (4) for the trustee if—
+  (a) each trustee of the foreign trust is a natural person; and
+  (b) for each resident foreign trustee of the foreign trust, the foreign trust is the first trust for which the trustee has been a resident foreign trustee; and
+  (c) each trustee of the foreign trust is not in the business of providing trustee services; and
+  (d) the end of the period of 4 years and 30 days beginning with the earliest date on which a trustee of the foreign trust becomes a resident foreign trustee (the grace period) occurs after the period that would otherwise be given by subsection (1).
+(4) If subsection (3) applies for a requirement imposed on a trustee, the trustee must meet the requirement within the grace period.
+
+### 59D Annual return for foreign trust
+(1) A resident foreign trustee must provide to the Commissioner a return for the foreign trust, and the prescribed fee, for each year (the return year) that—
+  (a) includes a period during which the foreign trust is registered or section 59B requires a resident foreign trustee to register the foreign trust; and
+  (b) ends with—
+    (i) a date (the balance date) for which the resident foreign trustee prepares financial statements or is required to prepare financial statements; or
+    (ii) 31 March if the resident foreign trustee does not prepare financial statements and is not required to prepare financial statements; and
+  (c) begins after 31 March 2017, if a resident foreign trustee becomes required to register the foreign trust on the date of enactment of this section; and
+  (d) if the resident foreign trustee has a grace period referred to in section 59C(3), ends after the grace period.
+(2) A return must be in the form prescribed by the Commissioner and include—
+  (a) financial statements for the trust and the return year, if the trustee prepares financial statements or is required to prepare financial statements:
+  (b) the date, amount, and nature of each settlement that—
+    (i) is not the provision to the trustee, at less than market value, of minor services incidental to the activities of the trust; and
+    (ii) is made on the trust in the return year:
+  (c) the name, email address, physical residential or business address, jurisdiction of tax residence, and taxpayer identification number of each settlor making the settlement:
+  (d) the date, amount, and nature of each distribution made by the trustee of the trust in the return year and the name of the beneficiary who receives the distribution:
+  (e) for each beneficiary to which a distribution is made, the email address, physical residential address, jurisdiction of tax residence, and taxpayer identification number of the beneficiary or, if the beneficiary is a minor, the age, jurisdiction of tax residence, and tax identification number of the beneficiary and the name, email address, physical residential address, jurisdiction of tax residence and taxpayer identification number of the parent or guardian of the beneficiary.
+(3) A return and the prescribed fee for a foreign trust and a return year must be provided by a resident foreign trustee to the Commissioner by—
+  (a) the date that is 6 months after the balance date for the trust and the return year, if the trust has a balance date; or
+  (b) the 30 September following the end of the return year, if the trust does not have a balance date.
+
+### 59E Fees: regulations and exemption
+(1) The Governor-General may from time to time, by Order in Council, make regulations prescribing—
+  (a) the fee for an application for the registration of a foreign trust:
+  (b) the fee for an annual return for a foreign trust.
+(2) A regulation made under subsection (1) may set out the period for which a fee prescribed by the regulations is to apply.
+(3) Until the commencement of the first regulation made under subsection (1),—
+  (a) the prescribed fee for an application for the registration of a foreign trust is $270 inclusive of goods and services tax:
+  (b) the prescribed fee for an annual return for a foreign trust and a return year is $50 inclusive of goods and services tax.
+(4) Subsection (3) and this subsection are repealed when that first regulation commences.
+(5) A resident foreign trustee for a foreign trust is not required to pay a fee referred to in subsection (1) if each resident foreign trustee for the foreign trust—
+  (a) is a natural person; and
+  (b) is not in the business of providing trustee services.
 
 ### 60 Returns of inter-related arrangements
 [Repealed]
@@ -3383,7 +3429,8 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (x) communicating to an officer, employee, or agent of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Research, Science, and Technology Act 2010, information for the purpose of administering subpart MX of the Income Tax Act 2007:
   (y) communicating to a person who is an authorised officer of the department for the time being responsible for the New Zealand Business Number Act 2016 any information that is—
     (i) primary business data (as defined in section 20(2) of the New Zealand Business Number Act 2016) for inclusion in the New Zealand Business Number Register; or
-    (ii) communicated for the purposes of section 82AA.
+    (ii) communicated for the purposes of section 82AA:
+  (z) communicating to a person who is a member of the New Zealand Police or an officer, employee, or agent of the Department of Internal Affairs any information relating to a registration, or absence of registration, for a foreign trust that the person is authorised by the Commissioner of Police or the chief executive of the Department of Internal Affairs to receive.
 (5) For the purposes of this section, unless the context otherwise requires, every reference to the New Zealand Superannuation Act 1974 shall be deemed to include a reference to Part 1 of the Superannuation Schemes Act 1976, and every reference to the New Zealand Superannuation Corporation shall be deemed to include a reference to the National Provident Fund Board in relation to its functions under Part 1 of the Superannuation Schemes Act 1976.
 (6) In this section, unless the context otherwise requires, legal personal representative, in relation to any person, means—
   (a) the executor, original or by representation, or an administrator for the time being of a deceased person:
@@ -4561,6 +4608,31 @@ Within 30 days of issuing or revoking a determination under section 91AAF, the C
   (a) gives notice that the determination has been issued or changed, as applicable; and
   (b) states where copies of the determination can be obtained.
 
+**Determinations relating to foreign account information-sharing agreements**
+
+### 91AAU Participating jurisdictions for CRS applied standard
+(1) The Commissioner may determine that a territory outside New Zealand is a participating jurisdiction for the purposes of the CRS applied standard and Part 11B.
+(2) The determination may set out the period for which it is to apply, which must not begin before the latest reporting period that finishes before the determination is made.
+(3) A determination may provide for the change, extension, limitation, suspension, or cancellation of an earlier determination.
+(4) Within 30 days of issuing, changing, extending, limiting, suspending, or cancelling a determination under this section, the Commissioner must publish in a publication chosen by the Commissioner—
+  (a) the determination:
+  (b) details of a changed, extended, limited, suspended, or cancelled determination.
+
+### 91AAV Suspension of reportable jurisdictions for CRS applied standard
+(1) The Commissioner may determine, for a territory outside New Zealand that has been provided by an Order in Council to be a reportable jurisdiction for the purposes of the CRS applied standard and requirements imposed by Part 11B, that the territory is not to be treated as a reportable jurisdiction.
+(2) The determination must set out the period for which it is to apply, which must not begin before the latest reporting period that finishes before the determination is made and must end no more than 3 months after the date of the determination.
+(3) Within 30 days of issuing a determination under this section, the Commissioner must publish the determination in a publication chosen by the Commissioner.
+
+### 91AAW Non-reporting financial institutions and excluded accounts for CRS applied standard
+(1) The Commissioner may determine that, for the purposes of the CRS applied standard and requirements under Part 11B,—
+  (a) a financial institution, or type of financial institution, is a non-reporting financial institution:
+  (b) a financial account, or type of financial account, is an excluded account.
+(2) The determination may set out the period for which it is to apply, which must not begin before the latest reporting period that finishes before the determination is made.
+(3) A determination may provide for the change, extension, limitation, suspension, or cancellation of an earlier determination.
+(4) Within 30 days of issuing, changing, extending, limiting, suspending, or cancelling a determination under this section, the Commissioner must publish in a publication chosen by the Commissioner—
+  (a) the determination:
+  (b) details of a changed, extended, limited, suspended, or cancelled determination.
+
 ## Part 5A — Binding rulings
 
 ### 91A Purpose of this Part
@@ -5383,7 +5455,7 @@ Nothing in this Part applies to—
         (B) where the due date is a new due date or, in the case of GST, a later due date for payment of the tax, the day after the original due date for payment of the tax:
       (ii) if the Commissioner refunds or applies tax which should be kept and taken into account in respect of satisfying a taxpayer's tax liability at a due date, the day after the day the Commissioner refunds or applies the tax; and
       (iii) for a provisional taxpayer to whom section 120KE(7) applies, the day after whichever dates of instalments B, D, and F for their corresponding income year occur 30 days after their last ratio instalment date; and
-    (b) for overpaid tax, other than GST or FBT for the final quarter of a tax year, means the later of the following days—
+    (b) for overpaid tax, other than a GST refund provided by section 19C(8) or 20(5) of the Goods and Services Tax Act 1985, or FBT for the final quarter of a tax year, means the later of the following days—
       (i) if a taxpayer pays too much tax by or after a due date and subparagraph (iv) does not apply—
         (A) the day after the later of the due date for payment of the tax and the date the payment is made; or
         (B) where the due date is a new due date, the day after the later of the original due date for payment of the tax and the date on which the payment is made; and
@@ -5393,12 +5465,12 @@ Nothing in this Part applies to—
       (v) for a provisional taxpayer to whom section 120KE(6) applies, the later of—
         (A) the day after the date set out in section RC 18(3) of the Income Tax Act 2007:
         (B) the day after their last ratio instalment date; and
-    (c) for a GST refund, other than a refund for a non-resident person who is registered under section 54B of the Goods and Services Tax Act 1985, means the latest of the following days:
+    (c) for a GST refund provided by section 19C(8) or 20(5) of the Goods and Services Tax Act 1985, other than a refund for a non-resident person who is registered under section 54B of the Goods and Services Tax Act 1985, means the latest of the following days:
       (i) the day after the earlier of—
         (A) the 15th working day after the taxpayer provides a tax return for the return period to which the GST refund relates; and
         (B) the original due date for payment of output GST in respect of that return period; and
       (ii) the day after the day on which the tax return is provided; and
-      (iii) the day after the date on which the payment is made; and
+      (iii)
     (d) for overpaid tax, being FBT for the final quarter of a tax year, means the later of 31 May next following the end of the final quarter and the date on which the return for the final quarter is filed; and
     (e) for tax paid, being a deposit to a tax pooling account in accordance with sections RP 17 to RP 21 of the Income Tax Act 2007, means the date on which the deposit is made, unless the Commissioner refunds the deposit as required by section RP 18(5) of that Act, in which case there is not a date on which interest starts:
     (f) for unpaid tax, being terminal tax for the tax year in which a taxpayer dies, the due date for the deceased person's terminal tax, if—
@@ -5897,7 +5969,7 @@ A disputant is entitled to challenge a disputable decision that is not an assess
     (i) the PAYE rules; or
     (ii) the provisional tax rules; or
     (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2 to RM 4, RM 8, and RM 10 of the Income Tax Act 2007 and sections 33, 89, 92A, 139 (insofar as it applies to unpaid tax for periods before 1 April 1997) and 184 of the Tax Administration Act 1994; or
-    (iv) any of sections 21 to 23, 34B, 36 to 46, 58, 62, 63, 78B, 78C, 80, 88, 89C, 89K, 89L, 89M, 89N(1)﻿(c)﻿(viii) and (3), 92, 106, 107, 108A, 108B, 109, 110, 111, 113, 114, 120A to 120U, 138I(2B), 138N, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act; or
+    (iv) any of sections 21 to 23, 34B, 36 to 46, 58, 62, 63, 78B, 78C, 80, 88, 89C, 89K, 89L, 89M, 89N(1)﻿(c)﻿(viii) and (3), 92, 106, 107, 108A, 108B, 109, 110, 111, 113, 114, 120A to 120U, 138I(2B), 138N, 139B, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act; or
     (ivb) any of Parts 1 to 3 of the KiwiSaver Act 2006; or
     (v) any of Parts 4, 6, 7 and 11 (other than section 76) of the Goods and Services Tax Act 1985—
   (ea) the Commissioner's interpretation of how a taxation law applies to a person, whether or not the person has come into legal existence, and to an arrangement, whether or not a single or a recurring arrangement, as set out in a binding ruling made under Part 5A; or
@@ -6078,14 +6150,17 @@ The purposes of this Part are—
 (4) The non-electronic filing penalty is the greater of $250 or $1 for each employee employed at any time during the month to which the employer monthly schedule relates.
 
 ### 139B Late payment penalty
-(1) This section applies to a taxpayer if and to the extent to which the taxpayer does not pay by the due date (the default date) an amount of tax (the unpaid tax), calculated by the taxpayer as payable or for which the taxpayer is assessed, and—
+(1) This section applies to a taxpayer if and to the extent to which the taxpayer does not pay by the default date an amount of tax (the unpaid tax), calculated by the taxpayer as payable or for which the taxpayer is assessed, and—
   (a) the unpaid tax is provisional tax or a penalty relating to a failure to pay provisional tax:
-  (b) ignoring any failure to pay for which a penalty or interest is remitted under section 183AA, the taxpayer has failed to pay on time an amount of tax due for payment in the period—
+  (b) ignoring any failure to pay for which a penalty or interest is remitted under section 183AA, the Commissioner determines that the taxpayer has failed to pay on time an amount of tax due for payment in the period—
     (i) beginning with the later of 1 April 2008 and the day 2 years before the default date; and
     (ii) ending before the default date:
-  (c) ignoring any failure to pay for which a penalty or interest is remitted under section 183AA, the taxpayer has paid on time all amounts of tax due for payment in the period referred to in paragraph (b) and—
+  (c) ignoring any failure to pay for which a penalty or interest is remitted under section 183AA, the Commissioner determines that the taxpayer has paid on time amounts of tax due for payment in the period referred to in paragraph (b) and—
     (i) the Commissioner gives the taxpayer a notice setting a further date for payment of the unpaid tax; and
     (ii) the taxpayer does not pay the unpaid tax before the date that is the earlier of the further date and the date that is 1 month after the date of the notice.
+(1B) When determining whether a person has paid amounts of tax on time or failed to pay amounts of tax on time under subsection (1)﻿(b) or (c), the Commissioner has a discretion to ignore any failure to pay tax on time for any tax type that the Commissioner decides it is appropriate to ignore. The discretion may only be exercised if—
+  (a) it is necessary because of resource constraints imposed on the Commissioner during the period of co-existence of 2 Inland Revenue Department software platforms; and
+  (b) it does not impose a penalty greater than that which the person would otherwise be liable for in the absence of this subsection.
 (2) The taxpayer is liable to pay a late payment penalty consisting of—
   (a) an initial late payment penalty equal to the total of—
     (i) 1% of the unpaid tax; and
@@ -6111,13 +6186,16 @@ The purposes of this Part are—
     (ii) should have been given in relation to the default referred to in paragraph (b).
 (5C) If the taxpayer enters into an instalment arrangement for the default under section 177B and a late payment penalty is imposed under section 139BA(1), the taxpayer is treated for the purposes of this section as paying on time, to the extent of the default, the amount of tax due for payment.
 (6) In this section and section 139BA—
+  (aa) the term default date means, for an amount of tax,—
+    (i) its due date; or
+    (ii) its collection date, described in section 142A(6), if the amount has a new due date set under section 142A(5):
   (a) the term tax to pay means, at any time, an amount equal to the unpaid tax together with any late payment penalty that has been imposed in whole or in part in respect of the unpaid tax, to the extent that at that time the amount remains unpaid:
   (b) the unpaid tax is deemed to be the last part of any tax to pay that a taxpayer pays:
   (c) the term unpaid tax includes an amount of tax that must be withheld or deducted and paid to the Commissioner under a tax law but does not include a late payment penalty or a shortfall penalty imposed under section 141ED.
 
 ### 139BA Imposition of late payment penalties when financial relief sought
-(1) If a taxpayer has outstanding tax and asks for financial relief before the due date, the Commissioner must impose the late payment penalty under section 139B(2)﻿(a)﻿(i) on unpaid tax but must not impose the late payment penalty under section 139B(2)﻿(a)﻿(ii).
-(2) If a taxpayer has outstanding tax and asks for financial relief on or after the due date, the Commissioner must not impose an incremental late payment penalty on unpaid tax on and after the date of the request.
+(1) If a taxpayer has outstanding tax and asks for financial relief before the default date, the Commissioner must impose the late payment penalty under section 139B(2)﻿(a)﻿(i) on unpaid tax but must not impose the late payment penalty under section 139B(2)﻿(a)﻿(ii).
+(2) If a taxpayer has outstanding tax and asks for financial relief on or after the default date, the Commissioner must not impose an incremental late payment penalty on unpaid tax on and after the date of the request.
 (3) Subsections (1) and (2) apply until the earlier of—
   (a) the date that the Commissioner makes a decision not to give financial relief; and
   (b) the last day of the response period allowed by section 177(4) if the taxpayer does not provide the information sought or respond to a counter offer.
@@ -6563,7 +6641,7 @@ Part 9 does not apply to a person who is a non-filing taxpayer for a tax year if
 (2) In subsection (1), annual tax return, employer monthly schedule, and reconciliation statement have the meanings given to them in section 139A.
 
 ### 142A New due date for payment of tax that is not a penalty
-(1) This section applies if the Commissioner makes for a taxpayer, other than by an assessment (an electronic default assessment) made in the absence of a return and to which section 106(2) applies,—
+(1) Subsection (2) applies for a transfer concession tax type if the Commissioner makes for a taxpayer, other than by an assessment (an electronic default assessment) made in the absence of a return and to which section 106(2) applies,—
   (a) an assessment (the new assessment) of tax for the taxpayer, if the taxpayer has not been assessed earlier for the tax, except by an electronic default assessment:
   (b) an amended assessment (the increased assessment)—
     (ia) to which paragraph (a) does not apply; and
@@ -6580,14 +6658,36 @@ Part 9 does not apply to a person who is a non-filing taxpayer for a tax year if
   (ab)
   (b) if the Commissioner has notified the taxpayer before the due date for the payment of the tax that subsection (2) will not apply in respect of the tax as calculated by the taxpayer, or in respect of an amount of tax estimated by the taxpayer; or
   (c) if the Commissioner considers that setting a new due date may prejudice the Commissioner's ability to recover the tax or increased tax.
-(4)
-(5) In this section, tax does not include a civil penalty.
+(4) Subsections (5), (6), and (7) apply for a tax type that is not a transfer concession tax type if the Commissioner makes for a taxpayer, other than by an assessment (an electronic default assessment) made in the absence of a return and to which section 106(2) applies,—
+  (a) an assessment (the new assessment) of tax for the taxpayer, if the taxpayer has not been assessed earlier for the tax, except by an electronic default assessment:
+  (b) an amended assessment (the increased assessment)—
+    (i) to which paragraph (a) does not apply; and
+    (ii) of an amount of tax exceeding the amount for which the taxpayer is liable immediately before the increased assessment; and
+    (iii) made less than 30 days before, or on or after, the due date for the tax for which the taxpayer is liable immediately before the increased assessment.
+(5) The date of the notice of the relevant assessment is the due date for the payment of—
+  (a) the tax under a new assessment:
+  (b) the increase of tax under an increased assessment.
+(6) Despite subsection (5),—
+  (a) the Commissioner must fix a date (the collection date) before which the Commissioner must not require payment of the tax or increased tax; and
+  (b) the collection date must be 30 or more days after the due date set under subsection (5); and
+  (c) the Commissioner must not take any action to collect the tax or increased tax before the collection date, other than under section RM 10(3) of the Income Tax Act 2007 or section 46(6) of the Goods and Services Tax Act 1985.
+(7) The Commissioner must give notice, in the notice of assessment, of the collection date and that—
+  (a) the Commissioner does not require payment of the tax or increased tax before the collection date; but
+  (b) despite the collection date, any refund of tax that the taxpayer is entitled to may be credited against the tax or increased tax before the collection date, under section RM 10(3) of the Income Tax Act 2007 or section 46(6) of the Goods and Services Tax Act 1985.
+(8) Subsections (5), (6), and (7) do not apply—
+  (a) to any provisional tax that remains unpaid on an instalment date; or
+  (b) if the Commissioner has notified the taxpayer before the due date for the payment of the tax that subsections (5), (6), and (7) will not apply in respect of the tax as calculated by the taxpayer, or in respect of an amount of tax estimated by the taxpayer; or
+  (c) if the Commissioner considers that setting a collection date may prejudice the Commissioner’s ability to recover the tax or increased tax.
+(9) In this section,—
+  (a) transfer concession tax type means a tax type for which the Commissioner decides it is appropriate to allow a concession from subsection (4), and the concession is necessary because of resource constraints imposed on the Commissioner during the period of co-existence of 2 Inland Revenue Department software platforms:
+  (b) tax does not include a civil penalty.
 
 ### 142B Due date for shortfall penalties
 (1) A shortfall penalty is due and payable—
   (a) if the tax shortfall is an amount of unpaid tax—
     (i) for which no new due date is set, on such date as the Commissioner notifies the taxpayer to be the due date for payment of the penalty (which date shall be not less than 30 days after the date on which the Commissioner issues the taxpayer with a notice of assessment for the penalty); or
-    (ii) which has a new due date set under section 142A, on the due date for payment of the unpaid tax:
+    (ii) which has a new due date set under section 142A(2), on the due date for the payment of the unpaid tax; or
+    (iii) which has a new due date set under section 142A(5), on the collection date, described in section 142A(6), for the unpaid tax:
   (b) in all other cases, on the date the Commissioner notifies the taxpayer to be the due date for payment of the penalty.
 (2) Subsection (1)﻿(a) does not apply for a shortfall penalty assessed under section 141A if section 141A(5) determines the time at which liability for the shortfall penalty is treated as arising.
 
@@ -7203,16 +7303,24 @@ In this Part—
 **Transfer rules**
 
 ### 173L Transfer of excess tax within taxpayer's accounts
-(1) A taxpayer or their agent may request that the Commissioner transfer all or part of the excess to another period or another tax type of the taxpayer.
-(2) The taxpayer may choose the date on which all or part of the excess is transferred, being—
-  (a) in the case of a GST refund, a day after the end of the GST return period in which the refund arose:
+(1) A taxpayer or their agent may request that the Commissioner transfer an amount of the excess to another period or another tax type of the taxpayer. If the date chosen under subsection (2) is after the start of the requested period for the taxpayer, the maximum amount that the Commissioner may transfer is the total of—
+  (a) debt owing by the taxpayer to the Commissioner for the requested period at the date chosen under subsection (2); and
+  (b) the taxpayer’s deferrable tax for the requested period at the date chosen under subsection (2); and
+  (c) the amount of an adjustment for the requested period under a notice of proposed adjustment, if there is no deferrable tax under paragraph (b) for the period; and
+  (d) any amount agreed with the Commissioner.
+(2) The taxpayer may choose the date on which the amount is transferred, being—
+  (a) in the case of a GST refund provided by section 19C(8) or 20(5) of the Goods and Services Tax Act 1985, a day after the end of the GST return period in which the refund arose:
   (b) in the case of tax withheld or deducted on the taxpayer's behalf, a day after the end of the accounting year in which the amount was withheld or deducted occurred:
   (bb) in the case of a tax credit for expenditure on research and development, a day after the end of the accounting year to which the credit relates:
   (c) in any other case, a date that occurs on or after the date the excess tax is paid.
 (3) Despite subsection (2)﻿(b) and (bb), a taxpayer who has an early balance date must, for tax withheld or deducted on their behalf or a tax credit for expenditure on research and development, choose a day after the end of the tax year in which the amount was withheld or deducted or the tax year corresponding to the accounting year to which the credit relates.
 
 ### 173M Transfer of excess tax to another taxpayer
-(1) A taxpayer or their agent may request that the Commissioner transfer all or part of the excess to another taxpayer.
+(1) A taxpayer or their agent may request that the Commissioner transfer an amount of the excess to another taxpayer. If the date chosen under subsection (4) is after the start of the requested period for the other taxpayer, the maximum amount that the Commissioner may transfer is the total of—
+  (a) debt owing by that other taxpayer to the Commissioner at the date chosen under subsection (4) for the requested period; and
+  (b) the other taxpayer’s deferrable tax at the date chosen under subsection (4) for the requested period; and
+  (c) the amount of an adjustment for the requested period under a notice of proposed adjustment, if there is no deferrable tax under paragraph (b) for the period; and
+  (d) any amount agreed with the Commissioner.
 (2) A request may be made for a transfer between a taxpayer and—
   (a) a company in the same group of companies; or
   (b) a shareholder employee of the taxpayer; or
@@ -7222,8 +7330,12 @@ In this Part—
   (f) a trustee of a family trust of which the taxpayer is a beneficiary; or
   (fb) a tax pooling intermediary's tax pooling account; or
   (g) another taxpayer not listed in paragraphs (a) to (fb).
-(3) A taxpayer, being a trustee of a family trust, may request a transfer to a beneficiary of the trust.
-(4) The taxpayer may choose the date on which all or part of the excess is transferred, being—
+(3) A taxpayer, being a trustee of a family trust, may request a transfer to a beneficiary of the trust. If the date chosen under subsection (4) is after the start of the requested period for the beneficiary, the maximum amount that the Commissioner may transfer is the total of—
+  (a) debt owing by the beneficiary to the Commissioner at the date chosen under subsection (4) for the requested period; and
+  (b) the beneficiary’s deferrable tax at the date chosen under subsection (4) for the requested period; and
+  (c) the amount of an adjustment for the requested period under a notice of proposed adjustment, if there is no deferrable tax under paragraph (b) for the period; and
+  (d) any amount agreed with the Commissioner.
+(4) The taxpayer may choose the date on which the amount is transferred, being—
   (a) if subsection (2)﻿(a) to (2)﻿(f) or subsection (3) applies, a date allowed by section 173L:
   (ab) if subsection (2)﻿(fb) applies, a date that occurs on or after the date of the request:
   (b) if subsection (2)﻿(g) applies, the later of the following dates:
@@ -7305,6 +7417,11 @@ Despite sections 173L and 173M, if a taxpayer makes a request to transfer a refu
 ### 173S Transfers of interest on overpaid tax
 (1) If the Commissioner is liable to pay interest to a taxpayer under Part 7, a taxpayer or their agent may request the Commissioner to transfer all or part of the interest to another period, another tax type of the taxpayer or to another taxpayer.
 (2) The Commissioner may only transfer the interest on the date that it would have been payable under Part 7, as if a transfer request had not been made.
+(3) If the date under subsection (2) is after the start of the requested period for the taxpayer or the other taxpayer, the maximum amount that the Commissioner may transfer is the total of—
+  (a) debt owing by the taxpayer, or by the other taxpayer as the case may be, to the Commissioner for the requested period at the date under subsection (2); and
+  (b) the taxpayer’s, or the other taxpayer’s as the case may be, deferrable tax for the requested period at the date under subsection (1); and
+  (c) the amount of an adjustment for the requested period under a notice of proposed adjustment, if there is no deferrable tax under paragraph (b) for the period; and
+  (d) any amount agreed with the Commissioner.
 
 ### 173T Application of excess tax if taxpayer has unsatisfied tax liability
 If a taxpayer has excess tax and the Commissioner applies all or part of the excess in satisfaction of tax or another amount due, the taxpayer or their agent may request the Commissioner to apply all or part of the excess on a date allowed by section 173L.
@@ -7553,6 +7670,12 @@ An amount that is interest under section 120D, or a late payment penalty relatin
 (4) Where—the Commissioner shall cancel the taxpayer's liability to pay interest under Part 7 for the period commencing on the day after the date on which the statement of account is issued and ending with the day on which payment is made.
   (a) the Commissioner issues a statement of account to a taxpayer after the original due date for payment of tax to which the statement of account relates; and
   (b) the tax referred to in the statement of account, together with any interest payable under Part 7 in respect of the period before the date of the statement of account, is paid to the Commissioner on or before the 30th day after the date on which the statement of account is issued, or the due date of the tax, whichever occurs first,—
+(4B) Subsection (4C) applies, if—
+  (a) the Commissioner issues another statement of account (the second statement) to a taxpayer within 30 days of a statement described in subsection (4) (the first statement); and
+  (b) the first and second statements are for GST and penalties related to the GST; and
+  (c) the liability for GST is the same in the first and second statements; and
+  (d) the GST and related penalties in the second statement, together with any interest payable under Part 7 in relation to the period before the date of the first statement is paid to the Commissioner on or before the 30th day after the date on which the second statement of account is issued, or the due date of the tax, whichever occurs first.
+(4C) The Commissioner shall cancel the taxpayer’s liability to pay interest under Part 7 in relation to the GST and related penalties for the period commencing on the day after the date on which the first statement is issued and ending with the day on which the payment described in subsection (4B)﻿(d) is made.
 (5) If the Commissioner issues both a notice of assessment and a statement of account to a taxpayer and the 30th day referred to in subsection (3) occurs on or before the 30th day referred to in subsection (4), the Commissioner must cancel a taxpayer's liability to pay interest under Part 7 for the period starting on the day after the date on which the notice of assessment is issued and ending on the date on which payment is made if payment is made on or before the 30th day referred to in subsection (3).
 (6) For the purpose of subsection (5), a payment that is made is a payment of the tax assessed in the notice of assessment, together with any interest payable under Part 7 for the period before the date of the notice.
 
@@ -7973,6 +8096,26 @@ The Governor-General may, from time to time, by Order in Council, amend Schedule
 (3) The fee for the service is 1.42% of the amount, plus any GST.
 (4) Despite subsection (3), the Governor-General may from time to time, by Order in Council, change the fee, with effect from a date specified in the Order in Council.
 
+### 226D Reportable jurisdictions for CRS standard and Part 11B
+(1) The Governor-General may from time to time, by Order in Council, make regulations providing that a territory outside New Zealand is a reportable jurisdiction for the purposes of the CRS applied standard.
+(2) A regulation may set out the period for which it is to apply, which must not begin before the latest reporting period that finishes before the regulation is made.
+(3) A regulation may provide for the change, extension, limitation, suspension, or cancellation of an earlier regulation.
+(4) Within 30 days of the making of a regulation under this section, the Commissioner must publish in a publication chosen by the Commissioner—
+  (a) the new or changed regulation:
+  (b) details of the extension, limitation, suspension, or cancellation of the regulation.
+(5) The effect of a regulation providing that a territory outside New Zealand is a reportable jurisdiction may be suspended by a determination made by the Commissioner under section 91AAV.
+
+### 226E Application of changes to CRS standard
+(1) The Governor-General may from time to time, by Order in Council, make regulations relating to a change in the CRS standard or the CRS publication providing for—
+  (a) the effect or lack of effect of the change on the CRS applied standard:
+  (b) a period for which an effect or lack of effect applies or does not apply:
+  (c) the effect or lack of effect of a change to the CRS applied standard on the obligations and liabilities of a person or entity or class of persons or entities.
+(2) A regulation may set out the period for which it is to apply, which must not begin before the latest reporting period that finishes before the regulation is made.
+(3) A regulation may provide for the change, extension, limitation, suspension, or cancellation of an earlier regulation.
+(4) Within 30 days of the making of a regulation under this section, the Commissioner must publish in a publication chosen by the Commissioner—
+  (a) the new or changed regulation:
+  (b) details of the extension, limitation, suspension, or cancellation of the regulation.
+
 ## Part 14 — Transitional provisions and savings
 
 ### 227 Transitional provisions and savings
@@ -7982,6 +8125,48 @@ The Governor-General may, from time to time, by Order in Council, amend Schedule
 (4) Any express or implied reference in any enactment, instrument, or document (including this Act) to any provision of this Act, or to things done or to be done or failing to be done under or for the purposes of any provision of this Act, shall, if and so far as the nature of the reference permits, be construed as including, in relation to the times, circumstances, or purposes in relation to which the corresponding provision in the repealed enactments has or had effect, a reference to, or to things done or to be done or failing to be done under or for the purposes of, that corresponding provision.
 (5) Any express or implied reference in any enactment, instrument, or document (including the repealed enactments and enactments, instruments, and documents passed or made after the passing of this Act) to, or to things done or to be done or failing to be done under or for the purposes of, any of the repealed enactments shall, if and so far as the nature of the reference permits, be construed as including, in relation to the times, circumstances or purposes in relation to which the corresponding provision of this Act has effect, a reference to, or to things done or to be done or failing to be done under or for the purposes of, that corresponding provision.
 (6) For the purpose of determining the punishment which may be imposed on a person in respect of the commission of an offence under a provision of this Act, an offence committed by that person under a corresponding repealed enactment is deemed to have been committed under that provision.
+
+### 227B Regulations providing for transitional exemptions and other matters
+(1) This section provides a regulation-making power for matters relating to the administration of this Act that—
+  (a) arise during the period of co-existence of 2 Inland Revenue software platforms; and
+  (b) affect the application of this Act in relation to 1 or more taxpayers; and
+  (c) make it necessary in order to achieve an orderly transition to the new software platform for amendments to be made to this Act consistent with the purposes of the Inland Revenue Acts.
+(2) The Governor-General may, by Order in Council on the recommendation of the Minister of Revenue, make regulations—
+  (a) providing transitional and savings provisions—
+    (i) concerning the coming into force of provisions affecting the administration of this Act:
+    (ii) that may be in addition to, or in place of, other provisions of this Act:
+  (b) prescribing how provisions of this Act must be applied or modified for the purpose set out in subsection (1):
+  (c) providing that, subject to conditions as may be set out in the regulations, during a specified transitional period,—
+    (i) specified provisions of this Act, including definitions, do not apply, or apply with modifications or additions, or both:
+    (ii) specified terms have the meaning given to them by the regulations:
+    (iii) specified provisions repealed or amended in this Act are to continue to apply:
+  (d) specifying categories of persons who may be exempted from some or all of an obligation under this Act:
+  (e) providing for any other matters that may be required to achieve the purpose set out in subsection (1).
+(3) Regulations made under this section may not—
+  (a) cause a taxpayer’s liability to be more than the liability they would have under this Act if no regulations were made under this section:
+  (b) alter or affect the application of—
+    (i) the care and management provisions in sections 6 and 6A:
+    (ii) the information provisions in sections 16 to 21:
+    (iii) the secrecy provisions in Part 4:
+    (iv) a shortfall penalty under sections 141 to 141K:
+    (v) a criminal penalty under sections 143 to 148:
+  (c) directly or indirectly remove or diminish the rights of a taxpayer under—
+    (i) the disputes provisions in Part 4A:
+    (ii) the provisions for determinations under Part 5:
+    (iii) binding rulings under Part 5A:
+    (iv) the objection and challenge provisions in Parts 8 and 8A:
+    (v) the provisions relating to remission, relief, and refunds in Part 11:
+  (d) have retrospective application.
+(4) Regulations made under this section must include a date on which the regulations are revoked, and that date must be no later than 3 years after the date on which they are made.
+(5) The Minister may recommend the making of regulations under this section only if satisfied that—
+  (a) the regulations—
+    (i) are necessary to achieve the purpose set out in subsection (1); and
+    (ii) are consistent with the purposes of the Inland Revenue Acts; and
+    (iii) are the only legislative option that is practicable in the circumstances; and
+  (b) a consultative process has been undertaken that—
+    (i) includes the distribution of draft regulations and an explanation of the way in which the regulations would meet the requirements of paragraph (a) to persons or organisations that represent taxpayers that it is reasonable to consult with for the purposes of this section; and
+    (ii) provides a period of consultation of at least 4 weeks.
+(6) This section and any unexpired regulations made under this section expire and are repealed on 31 December 2021.
 
 ### 228 Commissioner and department
 The person who, on 1 April 1995, holds office as Commissioner of Inland Revenue is deemed to have been appointed Commissioner of Inland Revenue under section 6A.
