@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2016-06-02_
+_Consolidation as at 2017-02-21_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -400,6 +400,8 @@ For the purposes of sections 22 and 23, if a borrower is physically in New Zeala
   (g) the borrower is undertaking study that meets the requirements of clause 7 of Schedule 1; or
   (h) the borrower is undertaking study that meets the requirements of clause 8 of Schedule 1; or
   (i) the borrower is undertaking study that meets the requirements of clause 9 of Schedule 1; or
+  (ia) the borrower is undertaking study that meets the requirements of clause 9A of Schedule 1; or
+  (ib) the borrower is undertaking an internship that meets the requirements of clause 9B of Schedule 1; or
   (j) the borrower is in 1 or more of Niue, the Cook Islands, Tokelau, or the Ross Dependency.
 (2) Subsection (1)﻿(b) to (j) are subject to the conditions set out in, as applicable, clauses 2 to 11 of Schedule 1.
 
@@ -457,7 +459,7 @@ If the Commissioner treats a borrower as being physically in New Zealand under s
   (a) notify the entity in writing of—
     (i) the Commissioner’s reasons for the proposed decision; and
     (ii) the period within which arguments against the proposed decision may be provided (which must be a period of at least 30 days after the date of the notice); and
-  (b) consider any arguments against the proposed decision that the applicant provides within that period.
+  (b) consider any arguments against the proposed decision that the entity provides within that period.
 (4) The Commissioner must notify the entity in writing of the final decision under this section.
 
 **Borrowers must notify Commissioner of absence from and return to New Zealand**
@@ -2110,8 +2112,15 @@ The Student Loan Scheme Act 1992 (1992 No 141) is repealed.
 
 ## Schedule 1 — Conditions to borrower being treated as being physically in New Zealand
 
-### 1 Definition
-In this schedule, NZQA means the New Zealand Qualifications Authority established under Part 20 of the Education Act 1989.
+### 1 Definitions
+In this schedule,—
+  - **Crown agent** means a statutory entity named in Part 1 of Schedule 1 of the Crown Entities Act 2004
+  - **ENZ** means Education New Zealand established under Part 21 of the Education Act 1989
+  - **government department** means a department named in Schedule 1 of the State Sector Act 1988
+  - **NZQA** means the New Zealand Qualifications Authority continued under Part 20 of the Education Act 1989
+  - **qualifying government-funded scholarship** means a scholarship, in respect of study or an internship,—
+    (a) that is partially or fully funded by a government department or a Crown agent; and
+    (b) that is assessed by ENZ as being a qualifying scholarship for the purposes of this Act.
 
 ### 2 Conditions to charity application
 (1) A borrower who makes an application under section 25(1)﻿(b) must provide the Commissioner with evidence that the work the borrower is doing as a volunteer or for token payment for a charity is 1 or more of the following:
@@ -2160,7 +2169,7 @@ A borrower who makes an application under section 25(1)﻿(e) must—
   (c) provide evidence that the borrower's personal absence from New Zealand is because the borrower is accompanying his or her partner overseas; and
   (d) provide evidence that the borrower's partner—
     (i) is physically absent from New Zealand in the service in any capacity of the Government of New Zealand; or
-    (ii) satisfies the conditions in clause 2, 5, 7, 8, or 9.
+    (ii) satisfies the conditions in clause 2, 5, 7, 8, 9, 9A, or 9B.
 (2) The Commissioner may treat a borrower whose partner satisfies the conditions in clause 2 (working as a volunteer or for token payment for a charity) as being physically in New Zealand under section 25(1)﻿(f) for a maximum aggregate period of up to 24 months.
 
 ### 7 Condition to study at postgraduate or undergraduate level overseas application
@@ -2196,13 +2205,30 @@ A borrower who makes an application under section 25(1)﻿(i) must—
     (v) cannot be completed in New Zealand; and
   (b) provide the Commissioner with evidence from the borrower's New Zealand tertiary education provider verifying that the borrower's study meets the requirements of paragraph (a).
 
+### 9A Condition to government-funded full-time overseas study application
+A borrower who makes an application under section 25(1)﻿(ia) must—
+  (a) be undertaking study that—
+    (i) the borrower is receiving a qualifying government-funded scholarship in respect of; and
+    (ii) is full-time and undertaken overseas; and
+  (b) provide the Commissioner with evidence from ENZ verifying that the borrower is receiving a qualifying government-funded scholarship in respect of the study.
+
+### 9B Condition to government-funded overseas internship application
+A borrower who makes an application under section 25(1)﻿(ib) must—
+  (a) be undertaking an internship that—
+    (i) the borrower is receiving a qualifying government-funded scholarship in respect of; and
+    (ii) is—
+      (A) full-time; or
+      (B) if undertaken with part-time study, part-time; and
+    (iii) is undertaken overseas; and
+  (b) provide the Commissioner with evidence from ENZ verifying that the borrower is receiving a qualifying government-funded scholarship in respect of the internship.
+
 ### 10 Conditions to Niue, Cook Islands, Tokelau, and Ross Dependency application
 A borrower who makes an application under section 25(1)﻿(j) must—
   (a) provide the Commissioner with evidence that he or she is physically in 1 or more of New Zealand, Niue, the Cook Islands, Tokelau, or the Ross Dependency for the period to which the application applies; and
   (b) pay his or her repayment obligation in full when, or before, it falls due during the period he or she is treated as being physically in New Zealand.
 
 ### 11 Certain exempt borrowers must notify Commissioner of their worldwide income
-(1) This clause applies to a borrower who is treated as being physically in New Zealand under any of paragraphs (b), (g), (h), (i), and (j) of section 25(1).
+(1) This clause applies to a borrower who is treated as being physically in New Zealand under any of paragraphs (b), (g), (h), (i), (ia), (ib), and (j) of section 25(1).
 (2) The borrower must notify the Commissioner of the borrower's adjusted net income in accordance with section 114(2), and sections 114(3) and (4) and 114A apply accordingly.
 
 ## Schedule 2 — Application of PAYE rules for purposes of section 70
