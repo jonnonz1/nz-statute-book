@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2016-09-29_
+_Consolidation as at 2017-02-21_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -233,7 +233,7 @@ Meaning
 (1) Double tax agreement means an agreement that—
   (a) has been negotiated for 1 or more of the purposes set out in subsection (2); and
   (b) has been agreed between—
-    (i) the government of any territory outside New Zealand and the government of New Zealand; or
+    (i) 1 or more governments of territories outside New Zealand and the government of New Zealand; or
     (ii) the Taipei Economic and Cultural Office in New Zealand and the New Zealand Commerce and Industry Office; and
   (c) has entered into force as a result of a declaration by the Governor-General by Order in Council under subsection (3).
 Purposes
@@ -333,6 +333,14 @@ Leases with perpetual right of renewal
 (3) Despite subsection (1), an amount that a person derives from disposing of a freehold estate in residential land, acquired as the owner of a leasehold estate with a perpetual right of renewal, is income if the bright-line date for the freehold estate is within 2 years of the grant of the leasehold estate.
 Contingent interest
 (4) Despite subsection (1), an amount that a person derives from disposing of a freehold estate in residential land, acquired as the result of the completion of a land development or subdivision, is income if the bright-line date for the freehold estate is within 2 years of the person acquiring an interest, in relation to the land, that is contingent upon the completion of the land development or subdivision.
+Start of 2-year period for transfers by registration if trustees change
+(4B) If the person referred to in subsection (1)﻿(a) or (2)﻿(a) is a trustee of a trust who has been transferred the land or undivided land from a trustee of the trust, the date on which the instrument was registered is treated as occurring on—
+  (a) for subsection (1)﻿(a)—
+    (i) the earliest date (first date) on which an instrument to transfer the land to a trustee of the trust was registered under the relevant law referred to in the subsection, if there has been no intervening transfer to a person who is not a trustee; or
+    (ii) the first date following the intervening transfer, if there has been an intervening transfer to a person who is not a trustee:
+  (b) for subsection (2)﻿(a)—
+    (i) the earliest date (the undivided date) on which an instrument to transfer the undivided land to a trustee of the trust was registered under the relevant law referred to in the subsection, if there has been no intervening transfer to a person who is not a trustee; or
+    (ii) the undivided date following the intervening transfer, if there has been an intervening transfer to a person who is not a trustee.
 Exception: disposal of land by executor, administrator, or beneficiary
 (5) This section does not apply to an amount that an executor or administrator described in section FC 1(1)﻿(a) (What this subpart does), or a beneficiary described in section FC 1(1)﻿(b), derives from disposing of residential land that was transferred to them on the death of a person.
 Relationship with subject matter
@@ -24656,9 +24664,9 @@ Complying trusts: meeting requirements
 (4) For the purposes of subsection (1)﻿(a) and (ab), section HC 29(6) does not apply in determining whether the requirements are met.
 
 ### HC 11 Foreign trusts
-A trust is a foreign trust in relation to a distribution if no settlor is resident in New Zealand at any time in the period that—
+A trust is a foreign trust at a moment in time if no settlor is resident in New Zealand at any time in the period that—
   (a) starts on the later of 17 December 1987 and the date on which a settlement was first made on the trust; and
-  (b) ends on the date of distribution.
+  (b) ends with the moment in time.
 
 ### HC 12 Non-complying trusts
 A trust is a non-complying trust in relation to a distribution if it is neither a complying trust nor a foreign trust.
@@ -24857,16 +24865,28 @@ Exempt income
   (a) no settlor of the trust is at any time in the income year a New Zealand resident who is not a transitional resident; and
   (b) the trust is not—
     (i) a superannuation fund; or
-    (ii) a testamentary trust or an inter vivos trust of which a settlor died resident in New Zealand (whether or not they died in the income year).
+    (ii) a testamentary trust or an inter vivos trust of which a settlor died resident in New Zealand (whether or not they died in the income year); and
+  (c) for a foreign trust for which a resident trustee applies for registration within the period (the application period) given by section 59C of the Tax Administration Act 1994 and that is registered by the end of the income year (the post-deadline year) beginning next after the end of the application period,—
+    (i) the trust has a trust deed; and
+    (ii) the income year ends after the day on which the Taxation (Business Tax, Exchange of Information, and Remedial Matters) Act 2017 receives the Royal assent; and
+    (iii) for an income year that includes part of the application period or is the post-deadline year, the trust is registered before the end of the post-deadline year and is not deregistered before the foreign-sourced amount is derived; and
+    (iv) for an income year beginning after the end of the post-deadline year, the trust is registered when the foreign-sourced amount is derived; and
+    (v) the trustee complies with the requirements under sections 22, 59B, 59C, and 59D of the Tax Administration Act 1994 that the trustee must meet during the income year; and
+  (d) for a foreign trust to which paragraph (c) does not apply,—
+    (i) the trust has a trust deed; and
+    (ii) the trust is registered at the beginning of the income year; and
+    (iii) the trust is registered when the foreign-sourced amount is derived; and
+    (iv) the trustee complies with the requirements under sections 22, 59B, 59C, and 59D of the Tax Administration Act 1994 that the trustee must meet during the income year.
+Time for compliance with requirements
+(1B) For a trustee to satisfy subsection (1)﻿(c)﻿(v) or (d)﻿(iv) for an income year, the trustee must—
+  (a) comply in the income year with the requirements referred to in the subparagraph:
+  (b) satisfy the Commissioner that the trustee made reasonable efforts in the income year to comply with the requirements referred to in the subparagraph and corrected the failure to comply within a reasonable period of time after the trustee became aware of the failure.
 When subsection (3) applies
-(2) Subsection (3) applies for an income year to a resident foreign trustee of a foreign trust to which sections 22(2)﻿(fb) and (m), and 59B of the Tax Administration Act 1994 applies.
+(2)
 When knowledge offence committed
-(3) Subsection (1) does not apply if the trustee—
-  (a) is not a qualifying resident foreign trustee for the income year; and
-  (b) is convicted of an offence under section 143A of the Tax Administration Act 1994; and
-  (c) has committed the offence in connection with information relating to the income year.
+(3)
 Exception
-(4) Subsection (3) does not apply to an offence under section 143A(1)﻿(b) of that Act if the information is supplied to the Commissioner after the conviction is entered.
+(4)
 
 ### HC 27 Who is a settlor?
 When this section applies
@@ -25107,7 +25127,7 @@ A principal and an agent are jointly and severally liable for the tax obligation
 
 ### HD 3 Agents’ duties and liabilities
 When this section applies
-(1) This section applies for the purposes of sections HD 8 to HD 27 in relation to all income derived by a principal through a business carried on in New Zealand by an agent.
+(1) This section applies for the purposes of sections HD 8 to HD 27 in relation to all income derived by a principal through an agent.
 Assessments, returns, and payment of tax
 (2) The agent must—
   (a) make the assessments that their principal is required to make; and
@@ -37683,6 +37703,8 @@ How this subpart applies to joint owners
 (3) For the purposes of this subpart, vendors who are co-owners are treated as disposing of separate residential land on the basis of an appropriate split of the underlying residential land and the consideration for its disposal.
 When this subpart does not apply
 (4) This subpart does not apply if the vendor holds an RLWT certificate of exemption that applies for the disposal of the relevant residential land. Section 54E of the Tax Administration Act 1994 provides for the issue of RLWT certificates of exemption to vendors.
+When this subpart does not apply: relationship property
+(4B) This subpart does not apply if section FB 3A(2) (Residential land) applies for the disposal of the relevant residential land.
 Specific rules
 (5) In this subpart,—
   (a) section RL 2 provides rules for vendors and conveyancers in relation to who must pay RLWT and satisfy RLWT liability:
@@ -37706,14 +37728,14 @@ Liability of conveyancers
 (5) The paying agent, as agent in relation to the RLWT, is not jointly and severally liable in relation to the vendor’s RLWT or in relation to a debt under section RA 10 (When obligations not met). The vendor alone is liable to pay the RLWT, despite the paying agent’s obligation to satisfy the vendor’s liability.
 Liability of conveyancers: exception for penalties
 (6) Despite subsection (5), if the paying agent fails to satisfy the vendor’s liability, then,—
-  (a) for the purposes of Part 9 of the Tax Administration Act 1994, the paying agent is treated as failing to pay an amount of withholding tax equal to the amount of RLWT liability they failed to satisfy, if the paying agent has subtracted or retained an amount from a residential land purchase; or
-  (b) for the purposes of Part 9 of the Tax Administration Act 1994 other than section 139B, the paying agent is treated as failing to pay an amount of withholding tax equal to the amount of RLWT liability they failed to satisfy, if the paying agent has not subtracted or retained an amount from a residential land purchase.
+  (a) for the purposes of Part 9 of the Tax Administration Act 1994, the paying agent is treated as failing to pay an amount of withholding tax equal to the amount of RLWT liability they failed to satisfy, if the paying agent has subtracted or retained an amount from a residential land purchase amount; or
+  (b) for the purposes of Part 9 of the Tax Administration Act 1994 other than section 139B, the paying agent is treated as failing to pay an amount of withholding tax equal to the amount of RLWT liability they failed to satisfy, if the paying agent has not subtracted or retained an amount from a residential land purchase amount.
 Liability of conveyancers: reasonable reliance
 (7) A paying agent is not liable for a penalty under Part 9 of the Tax Administration Act 1994 for a failure described in subsection (6)﻿(b) if, for that failure,—
   (a) the paying agent has relied on a form and accompanying documents given to them in accordance with section 54C of the Tax Administration Act 1994; and
   (b) the paying agent’s reliance on the form and accompanying documents is reasonable.
 Treatment of amount
-(8) An amount subtracted or retained from a residential land purchase by a paying agent to satisfy the vendor’s RLWT liability—
+(8) An amount subtracted or retained from a residential land purchase amount by a paying agent to satisfy the vendor’s RLWT liability—
   (a) is treated as received—
     (i) by the vendor; and
     (ii) at the time the residential land purchase amount is paid to them; and
@@ -37726,7 +37748,7 @@ Despite section RL 2, if the vendor and purchaser are associated persons—
 
 ### RL 4 How much RLWT?
 How much tax?
-(1) The total amount (RLWT) that the relevant person described in section RL 2 or RL 3 must pay or withhold for residential land purchase amounts is equal to the lesser of the amounts described in subsections (2), (4), and (6). The RLWT is paid or withheld for each residential land purchase amount, up to the maximum of the relevant residential land purchase amount.
+(1) The total amount (RLWT) that the relevant person described in section RL 2 or RL 3 must pay or withhold for residential land purchase amounts is equal to the lesser of the amounts described in subsections (2), (4), and (6). The RLWT is paid or withheld for each residential land purchase amount, up to the maximum of the relevant residential land purchase amount. All amounts in this section are GST exclusive.
 Calculation of amount
 (2) For the purposes of subsection (1), the amount is the greater of zero and the amount calculated using the formula—RLWT rate × (current purchase price − vendor’s acquisition cost).
 Definition of items in formula
@@ -40797,9 +40819,9 @@ In this Act, unless the context requires otherwise,—
       (i) the person is incorporated outside New Zealand:
       (ii) the person is not a natural person and is registered outside New Zealand:
       (iii) the person is constituted under foreign law:
-      (iv) the person is a company or a partner in a limited partnership and more than 25% of the company’s directors or of the limited partnership’s general partners are offshore RLWT persons:
+      (iv) the person is a company or a limited partnership and more than 25% of the company’s directors or of the limited partnership’s general partners are offshore RLWT persons:
       (v) the person is a company and more than 25% of the company’s shareholder decision-making rights are held directly or indirectly by offshore RLWT persons:
-      (vi) the person is a partner in a limited partnership or an owner of an effective look-through interest in a look-through company (LTC), and more than 25% of the partnership’s partnership shares or of the LTC’s effective look-through interests are held directly or indirectly by offshore RLWT persons
+      (vi) the person is a limited partnership or a look-through company (LTC), and more than 25% of the partnership’s partnership shares or of the LTC’s effective look-through interests are held directly or indirectly by offshore RLWT persons
   - **old company tax rate** means a 30% or 33% basic tax rate applying before the 2011–12 income year
   - **old financial arrangements rules** means—
     (a) the following provisions:
