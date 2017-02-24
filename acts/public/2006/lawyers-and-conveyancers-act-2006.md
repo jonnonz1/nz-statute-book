@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2017-02-24_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -167,7 +167,7 @@ In this Act, unless the context otherwise requires,—
   - **New Zealand Society of Conveyancers** means the society established by section 77
   - **nominated trust account** means a trust account nominated under section 299
   - **Office of Parliament** has the meaning given to it by section 2(1) of the Public Finance Act 1989
-  - **patent attorney** means a person registered as a patent attorney under section 100 of the Patents Act 1953
+  - **patent attorney** has the same meaning as in Part 6 of the Patents Act 2013
   - **postal operator** means a person for the time being registered as a postal operator under the Postal Services Act 1998
   - **practice rules** means rules made under section 94
   - **practising certificate** means,—
@@ -627,6 +627,9 @@ A person who, in contravention of section 21, acts as a barrister or as a solici
     (ii) a form prepared by a person who, at the time when it was prepared, was an authorised person within the meaning of section 35(2); and
   (b) it is reasonable to expect that the form could be properly completed by persons who were not authorised persons within the meaning of section 35(2); and
   (c) no charge is made, directly or indirectly, for the filling in of the form or any service in relation to the filling in of the form.
+(4A) A patent attorney does not commit an offence against any provision of sections 32, 33, and 35 by reason only of—
+  (a) preparing documents, transacting business, and conducting proceedings for the purposes of the Patents Act 2013:
+  (b) exercising any other rights and privileges as may be prescribed under the joint registration regime provided for in Part 6 of the Patents Act 2013.
 (5) Section 35 does not prevent a statutory officer or Crown organisation, or any employee of a statutory officer or Crown organisation,—
   (a) from discharging any of his, her, or its duties, or exercising any of his, her, or its powers, under any enactment; or
   (b) from doing any thing that is intended to facilitate, or is conducive or incidental to, the discharge of the functions conferred on the statutory officer or Crown organisation by any enactment.
@@ -746,7 +749,7 @@ This Part does not limit or affect—
   (g) section 38 of the Disputes Tribunals Act 1988; or
   (h) section 236 of the Employment Relations Act 2000; or
   (i) section 108(3) of the Human Rights Act 1993; or
-  (j) section 101 of the Patents Act 1953; or
+  (j) the provisions of the joint registration regime for patent attorneys in Part 6 of the Patents Act 2013; or
   (k) section 10 of the Criminal Procedure Act 2011; or
   (l) section 190 of the Trade Marks Act 2002.
 
