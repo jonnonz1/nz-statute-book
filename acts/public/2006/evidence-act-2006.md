@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2017-01-08_
+_Consolidation as at 2017-02-24_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -583,8 +583,9 @@ In a proceeding for defamation that is based on a statement to the effect that a
     (c) an overseas practitioner
   - **overseas practitioner** means—
     (a) a person who is entitled to practise as a barrister, or a solicitor, or both in the High Court of Australia or in a Supreme Court of a State or a territory of Australia; or
-    (b) a person who is entitled to practise in Australia as a registered patent attorney or as a registered trade marks attorney; or
-    (c) a person who is, under the laws of a country other than New Zealand or Australia, entitled to undertake work that, in New Zealand, is normally undertaken by a lawyer or a patent attorney.
+    (b) a person who is entitled to practise in Australia as a registered trade marks attorney; or
+    (c) a person who is, under the laws of a country other than New Zealand or Australia, entitled to undertake work that, in New Zealand, is normally undertaken by a lawyer or a patent attorney
+  - **registered patent attorney** has the meaning given to it by Part 6 of the Patents Act 2013.
 (2) A reference in this subpart to a communication or to any information includes a reference to a communication or to information contained in a document.
 (3) Despite subsection (2), in sections 60 to 63, information means a statement of fact or opinion to be given—
   (a) orally; or
