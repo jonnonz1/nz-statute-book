@@ -1,5 +1,5 @@
 # Patents Amendment Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-02-24_
 
 > An Act to amend the Patents Act 1953
 
