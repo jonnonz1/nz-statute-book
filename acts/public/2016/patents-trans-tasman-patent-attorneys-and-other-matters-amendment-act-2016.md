@@ -1,5 +1,5 @@
 # Patents (Trans-Tasman Patent Attorneys and Other Matters) Amendment Act 2016
-_Consolidation as at 2016-11-21_
+_Consolidation as at 2017-02-24_
 
 ### 1 Title
 This Act is the Patents (Trans-Tasman Patent Attorneys and Other Matters) Amendment Act 2016.
