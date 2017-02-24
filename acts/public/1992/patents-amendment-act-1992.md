@@ -1,5 +1,5 @@
 # Patents Amendment Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-02-24_
 
 > An Act to amend the Patents Act 1953
 
@@ -105,7 +105,7 @@ The description shall disclose the invention in a manner sufficiently clear and 
 The claim or claims shall define the matter for which protection is sought. Claims shall be clear and concise. They shall be fully supported by the description.
 
 ### Article 7 The Drawings
-(1) Subject to the provisions of paragraph (2)(ii), drawings shall be required when they are necessary for the understanding of the invention.
+(1) Subject to the provisions of paragraph (2)﻿(ii), drawings shall be required when they are necessary for the understanding of the invention.
 (2) Where, without being necessary for the understanding of the invention, the nature of the invention admits of illustration by drawings:
   (i) the applicant may include such drawings in the international application when filed,
   (ii) any designated Office may require that the applicant file such drawings with it within the prescribed time limit.
@@ -163,7 +163,7 @@ The international application shall be filed with the prescribed receiving Offic
   (b) If the receiving Office finds any of the said defects, it shall invite the applicant to correct the international application within the prescribed time limit, failing which that application shall be considered withdrawn and the receiving Office shall so declare.
 (2) If the international application refers to drawings which, in fact, are not included in that application, the receiving Office shall notify the applicant accordingly and he may furnish them within the prescribed time limit and, if he does, the international filing date shall be the date on which the drawings are received by the receiving Office. Otherwise, any reference to the said drawings shall be considered non-existent.
 (3)
-  (a) If the receiving Office finds that, within the prescribed time limits, the fees prescribed under Article 3(4)(iv) have not been paid, or no fee prescribed under Article 4(2) has been paid in respect of any of the designated States, the international application shall be considered withdrawn and the receiving Office shall so declare.
+  (a) If the receiving Office finds that, within the prescribed time limits, the fees prescribed under Article 3(4)﻿(iv) have not been paid, or no fee prescribed under Article 4(2) has been paid in respect of any of the designated States, the international application shall be considered withdrawn and the receiving Office shall so declare.
   (b) If the receiving Office finds that the fee prescribed under Article 4(2) has been paid in respect of one or more (but less than all) designated States within the prescribed time limit, the designation of those States in respect of which it has not been paid within the prescribed time limit shall be considered withdrawn and the receiving Office shall so declare.
 (4) If, after having accorded an International filing date to the international application, the receiving Office finds, within the prescribed time limit, that any of the requirements listed in items (i) to (iii) of Article 11(1) was not complied with at that date, the said application shall be considered withdrawn and the receiving Office shall so declare.
 
@@ -179,7 +179,7 @@ The international application shall be filed with the prescribed receiving Offic
 
 ### Article 16 The International Searching Authority
 (1) International search shall be carried out by an International Searching Authority, which may be either a national Office or an intergovernmental organization, such as the International Patent Institute, whose tasks include the establishing of documentary search reports on prior art with respect to inventions which are the subject of applications.
-(2) If, pending the establishment of a single International Searching Authority, there are several International Searching Authorities, each receiving Office shall, in accordance with the provisions of the applicable agreement referred to in paragraph (3)(b), specify the International Searching Authority or Authorities competent for the searching of international applications filed with such Office.
+(2) If, pending the establishment of a single International Searching Authority, there are several International Searching Authorities, each receiving Office shall, in accordance with the provisions of the applicable agreement referred to in paragraph (3)﻿(b), specify the International Searching Authority or Authorities competent for the searching of international applications filed with such Office.
 (3)
   (a) International Searching Authorities shall be appointed by the Assembly. Any national Office and any intergovernmental organization satisfying the requirements referred to in subparagraph (c) may be appointed as International Searching Authority.
   (b) Appointment shall be conditional on the consent of the national Office or intergovernmental organization to be appointed and the conclusion of an agreement, subject to approval by the Assembly, between such Office or organization and the International Bureau. The agreement shall specify the rights and obligations of the parties, in particular, the formal undertaking by the said Office or organization to apply and observe all the common rules of International search.
@@ -201,7 +201,7 @@ The international application shall be filed with the prescribed receiving Offic
 ### Article 18 The International Search Report
 (1) The international search report shall be established within the prescribed time limit and in the prescribed form.
 (2) The international search report shall, as soon as it has been established, be transmitted by the International Searching Authority to the applicant and the International Bureau.
-(3) The international search report or the declaration referred to in Article 17(2)(a) shall be translated as provided in the Regulations. The translations shall be prepared by or under the responsibility of the International Bureau.
+(3) The international search report or the declaration referred to in Article 17(2)﻿(a) shall be translated as provided in the Regulations. The translations shall be prepared by or under the responsibility of the International Bureau.
 
 ### Article 19 Amendment of the Claims before the International Bureau
 (1) The applicant shall, after having received the international search report, be entitled to one opportunity to amend the claims of the international application by filing amendments with the International Bureau within the prescribed time limit. He may, at the same time, file a brief statement, as provided in the Regulations, explaining the amendments and indicating any impact that such amendments might have on the description and the drawings.
@@ -210,7 +210,7 @@ The international application shall be filed with the prescribed receiving Offic
 
 ### Article 20 Communication to Designated Offices
 (1)
-  (a) The international application, together with the international search report (including any indication referred to in Article 17(2)(b) or the declaration referred to in Article 17(2)(a), shall be communicated to each designated Office, as provided in the Regulations, unless the designated Office waives such requirement in its entirety or in part.
+  (a) The international application, together with the international search report (including any indication referred to in Article 17(2)﻿(b) or the declaration referred to in Article 17(2)﻿(a), shall be communicated to each designated Office, as provided in the Regulations, unless the designated Office waives such requirement in its entirety or in part.
   (b) The communication shall include the translation (as prescribed) of the said report or declaration.
 (2) If the claims have been amended by virtue of Article 19(1), the communication shall either contain the full text of the claims both as filed and as amended or shall contain the full text of the claims as filed and specify the amendments, and shall include the statement, if any, referred to in Article 19(1).
 (3) At the request of the designated Office or the applicant, the International Searching Authority shall send to the said Office or the applicant, respectively, copies of the documents cited in the international search report, as provided in the Regulations.
@@ -220,14 +220,14 @@ The international application shall be filed with the prescribed receiving Offic
 (2)
   (a) Subject to the exceptions provided for in subparagraph (b) and in Article 64(3), the international publication of the international application shall be effected promptly after the expiration of 18 months from the priority date of that application.
   (b) The applicant may ask the International Bureau to publish his international application any time before the expiration of the time limit referred to in subparagraph (a). The International Bureau shall proceed accordingly, as provided in the Regulations.
-(3) The international search report or the declaration referred to in Article 17(2)(a) shall be published as prescribed in the Regulations.
+(3) The international search report or the declaration referred to in Article 17(2)﻿(a) shall be published as prescribed in the Regulations.
 (4) The language and form of the international publication and other details are governed by the Regulations.
 (5) There shall be no international publication if the international application is withdrawn or is considered withdrawn before the technical preparations for publication have been completed.
 (6) If the international application contains expressions or drawings which, in the opinion of the International Bureau, are contrary to morality or public order, or if, in its opinion, the international application contains disparaging statements as defined in the Regulations, it may omit such expressions, drawings, and statements, from its publications, indicating the place and number of words or drawings omitted, and furnishing, upon request, individual copies of the passages omitted.
 
 ### Article 22 Copy, Translation, and Fee, to Designated Offices
 (1) The applicant shall furnish a copy of the international application (unless the communication provided for in Article 20 has already taken place) and a translation thereof (as prescribed), and pay the national fee (if any), to each designated Office not later than at the expiration of 20 months from the priority date. Where the national law of the designated State requires the indication of the name of and other prescribed data concerning the inventor but allows that these indications be furnished at a time later than that of the filing of a national application, the applicant shall, unless they were contained in the request, furnish the said indications to the national Office of or acting for the State not later than at the expiration of 20 months from the priority date.
-(2) Where the International Searching Authority makes a declaration, under Article 17(2)(a), that no international search report will be established, the time limit for performing the acts referred to in paragraph (1) of this Article shall be the same as that provided for in paragraph (1).
+(2) Where the International Searching Authority makes a declaration, under Article 17(2)﻿(a), that no international search report will be established, the time limit for performing the acts referred to in paragraph (1) of this Article shall be the same as that provided for in paragraph (1).
 (3) Any national law may, for performing the acts referred to in paragraphs (1) or (2), fix time limits which expire later than the time limit provided for in those paragraphs.
 
 ### Article 23 Delaying of National Procedure
@@ -237,7 +237,7 @@ The international application shall be filed with the prescribed receiving Offic
 ### Article 24 Possible Loss of Effect in Designated States
 (1) Subject, in case (ii) below, to the provisions of Article 25, the effect of the international application provided for in Article 11(3) shall cease in any designated State with the same consequences as the withdrawal of any national application in that State:
   (i) if the applicant withdraws his international application or the designation of that State;
-  (ii) if the international application is considered withdrawn by virtue of Articles 12(3), 14(1)(b), 14(3)(a), or 14(4), or if the designation of that State is considered withdrawn by virtue of Article 14(3)(b);
+  (ii) if the international application is considered withdrawn by virtue of Articles 12(3), 14(1)﻿(b), 14(3)﻿(a), or 14(4), or if the designation of that State is considered withdrawn by virtue of Article 14(3)﻿(b);
   (iii) if the applicant fails to perform the acts referred to in Article 22 within the applicable time limit.
 (2) Notwithstanding the provisions of paragraph (1), any designated Office may maintain the effect provided for in Article 11(3) even where such effect is not required to be maintained by virtue of Article 25(2).
 
@@ -292,7 +292,7 @@ No designated Office shall reject an international application on the grounds of
     (iii) date of the receipt of a copy of the international application under Article 22.
   (b) The provisions of subparagraph (a) shall not prevent any national Office from informing third parties that it has been designated, or from publishing that fact. Such information or publication may, however, contain only the following data: identification of the receiving Office, name of the applicant, international filing date, international application number, and title of the invention.
   (c) The provisions of subparagraph (a) shall not prevent any designated Office from allowing access to the international application for the purposes of the judicial authorities.
-(3) The provisions of paragraph (2)(a) shall apply to any receiving Office except as far as transmittals provided for under Article 12(1) are concerned.
+(3) The provisions of paragraph (2)﻿(a) shall apply to any receiving Office except as far as transmittals provided for under Article 12(1) are concerned.
 (4) For the purposes of this Article, the term access covers any means by which third parties may acquire cognizance, including individual communication and general publication, provided, however, that no national Office shall generally publish an international application or its translation before the international publication or, if international publication has not taken place by the expiration of 20 months from the priority date, before the expiration of 20 months from the said priority date.
 
 ### Article 31 Demand for International Preliminary Examination
@@ -303,7 +303,7 @@ No designated Office shall reject an international application on the grounds of
 (3) The demand for international preliminary examination shall be made separately from the international application. The demand shall contain the prescribed particulars and shall be in the prescribed language and form.
 (4)
   (a) The demand shall indicate the Contracting State or States in which the applicant intends to use the results of the international preliminary examination (elected States). Additional Contracting States may be elected later. Election may relate only to Contracting States already designated under Article 4.
-  (b) Applicants referred to in paragraph (2)(a) may elect any Contracting State bound by Chapter II. Applicants referred to in paragraph (2)(b) may elect only such Contracting States bound by Chapter II as have declared that they are prepared to be elected by such applicants.
+  (b) Applicants referred to in paragraph (2)﻿(a) may elect any Contracting State bound by Chapter II. Applicants referred to in paragraph (2)﻿(b) may elect only such Contracting States bound by Chapter II as have declared that they are prepared to be elected by such applicants.
 (5) The demand shall be subject to the payment of the prescribed fees within the prescribed time limit.
 (6)
   (a) The demand shall be submitted to the competent International Preliminary Examining Authority referred to in Article 32.
@@ -312,7 +312,7 @@ No designated Office shall reject an international application on the grounds of
 
 ### Article 32 The International Preliminary Examining Authority
 (1) International preliminary examination shall be carried out by the International Preliminary Examining Authority.
-(2) In the case of demands referred to in Article 31(2)(a), the receiving Office, and, in the case of demands referred to in Article 31(2)(b), the Assembly, shall, in accordance with the applicable agreement between the interested International Preliminary Examining Authority or Authorities and the International Bureau, specify the International Preliminary Examining Authority or Authorities competent for the preliminary examination.
+(2) In the case of demands referred to in Article 31(2)﻿(a), the receiving Office, and, in the case of demands referred to in Article 31(2)﻿(b), the Assembly, shall, in accordance with the applicable agreement between the interested International Preliminary Examining Authority or Authorities and the International Bureau, specify the International Preliminary Examining Authority or Authorities competent for the preliminary examination.
 (3) The provisions of Article 16(3) shall apply, murtatis mutandis, in respect of International Preliminary Examining Authorities.
 
 ### Article 33 The International Preliminary Examination
@@ -347,8 +347,8 @@ No designated Office shall reject an international application on the grounds of
 (1) The international preliminary examination report shall be established within the prescribed time limit and in the prescribed form.
 (2) The international preliminary examination report shall not contain any statement on the question whether the claimed invention is or seems to be patentable or unpatentable according to any national law. It shall state, subject to the provisions of paragraph (3), in relation to each claim, whether the claim appears to satisfy the criteria of novelty, inventive step (non-obviousness), and industrial applicability, as defined for the purposes of the international preliminary examination in Article 33(1) to (4). The statement shall be accompanied by the citation of the documents believed to support the stated conclusion with such explanations as the circumstances of the case may require. The statement shall also be accompanied by such other observations as the Regulations provide for.
 (3)
-  (a) If, at the time of establishing the international preliminary examination report, the International Preliminary Examining Authority considers that any of the situations referred to in Article 34(4)(a) exists, that report shall state this opinion and the reasons therefor. It shall not contain any statement as provided in paragraph (2).
-  (b) If a situation under Article 34(4)(b) is found to exist, the international preliminary examination report shall, in relation to the claims in question, contain the statement as provided in subparagraph (a), whereas, in relation to the other claims, it shall contain the statement as provided in paragraph (2).
+  (a) If, at the time of establishing the international preliminary examination report, the International Preliminary Examining Authority considers that any of the situations referred to in Article 34(4)﻿(a) exists, that report shall state this opinion and the reasons therefor. It shall not contain any statement as provided in paragraph (2).
+  (b) If a situation under Article 34(4)﻿(b) is found to exist, the international preliminary examination report shall, in relation to the claims in question, contain the statement as provided in subparagraph (a), whereas, in relation to the other claims, it shall contain the statement as provided in paragraph (2).
 
 ### Article 36 Transmittal, Translation, and Communication, of the International Preliminary Examination Report
 (1) The international preliminary examination report, together with the prescribed annexes, shall be transmitted to the applicant and to the International Bureau.
@@ -372,14 +372,14 @@ No designated Office shall reject an international application on the grounds of
 
 ### Article 38 Confidential Nature of the International Preliminary Examination
 (1) Neither the International Bureau nor the International Preliminary Examining Authority shall, unless requested or authorized by the applicant, allow access within the meaning, and with the proviso, of Article 30(4) to the file of the international preliminary examination by any person or authority at any time, except by the elected Offices once the international preliminary examination report has been established.
-(2) Subject to the provisions of paragraph (1) and Articles 36(1) and (3) and 37(3)(b), neither the International Bureau nor the International Preliminary Examining Authority shall, unless requested or authorized by the applicant, give information on the issuance or non-issuance of an international preliminary examination report and on the withdrawal or non-withdrawal of the demand or of any election.
+(2) Subject to the provisions of paragraph (1) and Articles 36(1) and (3) and 37(3)﻿(b), neither the International Bureau nor the International Preliminary Examining Authority shall, unless requested or authorized by the applicant, give information on the issuance or non-issuance of an international preliminary examination report and on the withdrawal or non-withdrawal of the demand or of any election.
 
 ### Article 39 Copy, Translation, and Fee, to Elected Offices
 (1)
   (a) If the election of any Contracting State has been effected prior to the expiration of the 19th month from the priority date, the provisions of Article 22 shall not apply to such State and the applicant shall furnish a copy of the international application (unless the communication under Article 20 has already taken place) and a translation thereof (as prescribed), and pay the national fee (if any), to each elected Office not later than at the expiration of 30 months from the priority date.
   (b) Any national law may, for performing the acts referred to in subparagraph (a), fix time limits which expire later than the time limit provided for in that subparagraph.
-(2) The effect provided for in Article 11(3) shall cease in the elected State with the same consequences as the withdrawal of any national application in that State if the applicant fails to perform the acts referred to in paragraph (1)(a) within the time limit applicable under paragraph (1)(a) or (b).
-(3) Any elected Office may maintain the effect provided for in Article 11(3) even where the applicant does not comply with the requirements provided for in paragraph (1)(a) or (b).
+(2) The effect provided for in Article 11(3) shall cease in the elected State with the same consequences as the withdrawal of any national application in that State if the applicant fails to perform the acts referred to in paragraph (1)﻿(a) within the time limit applicable under paragraph (1)﻿(a) or (b).
+(3) Any elected Office may maintain the effect provided for in Article 11(3) even where the applicant does not comply with the requirements provided for in paragraph (1)﻿(a) or (b).
 
 ### Article 40 Delaying of National Examination and Other Processing
 (1) If the election of any Contracting State has been effected before the expiration of the 19th month from the priority date, the provisions of Article 23 shall not apply to such State and the national Office of or acting for that State shall not proceed, subject to the provisions of paragraph (2), to the examination and other processing of the international application prior to the expiration of the applicable time limit under Article 39.
@@ -471,7 +471,7 @@ Nothing in this Chapter shall affect the financial provisions contained in any o
   (a) One-half of the Contracting States shall constitute a quorum.
   (b) In the absence of the quorum, the Assembly may make decisions but, with the exception of decisions concerning its own procedure, all such decisions shall take effect only if the quorum and the required majority are attained through voting by correspondence as provided in the Regulations.
 (6)
-  (a) Subject to the provisions of Articles 47(2)(b), 58(2)(b), 58(3) and 61(2)(b), the decisions of the Assembly shall require two-thirds of the votes cast.
+  (a) Subject to the provisions of Articles 47(2)﻿(b), 58(2)﻿(b), 58(3) and 61(2)﻿(b), the decisions of the Assembly shall require two-thirds of the votes cast.
   (b) Abstentions shall not be considered as votes.
 (7) In connection with matters of exclusive interest to States bound by Chapter II, any reference to Contracting States in paragraphs (4), (5), and (6), shall be considered as applying only to States bound by Chapter II.
 (8) Any intergovernmental organization appointed as International Searching or Preliminary Examining Authority shall be admitted as observer to the Assembly.
@@ -567,7 +567,7 @@ Nothing in this Chapter shall affect the financial provisions contained in any o
 (6) If the budget is not adopted before the beginning of a new financial period, it shall be at the same level as the budget of the previous year, as provided in the financial regulations.
 (7)
   (a) The Union shall have a working capital fund which shall be constituted by a single payment made by each Contracting State. If the fund becomes insufficient, the Assembly shall arrange to increase it. If part of the fund is no longer needed, it shall be reimbursed.
-  (b) The amount of the initial payment of each Contracting State to the said fund or of its participation in the increase thereof shall be decided by the Assembly on the basis of principles similar to those provided for under paragraph (5)(b).
+  (b) The amount of the initial payment of each Contracting State to the said fund or of its participation in the increase thereof shall be decided by the Assembly on the basis of principles similar to those provided for under paragraph (5)﻿(b).
   (c) The terms of payment shall be fixed by the Assembly on the proposal of the Director General and after it has heard the advice of the Coordination Committee of the Organization.
   (d) Any reimbursement shall be proportionate to the amounts paid by each Contracting State, taking into account the dates at which they were paid.
 (8)
@@ -587,7 +587,7 @@ Nothing in this Chapter shall affect the financial provisions contained in any o
   (a) The Regulations specify the Rules which may be amended
     (i) only by unanimous consent, or
     (ii) only if none of the Contracting States whose national Office acts as an International Searching or Preliminary Examining Authority dissents, and, where such Authority is an intergovernmental organization, if the Contracting State member of that organization authorized for that purpose by the other member States within the competent body of such organization does not dissent.
-  (b) Exclusion, for the future, of any such Rules from the applicable requirement shall require the fulfillment of the conditions referred to in subparagraph (a)(i) or (a)(ii), respectively.
+  (b) Exclusion, for the future, of any such Rules from the applicable requirement shall require the fulfillment of the conditions referred to in subparagraph (a)﻿(i) or (a)﻿(ii), respectively.
   (c) Inclusion, for the future, of any Rule in one or the other of the requirements referred to in subparagraph (a) shall require unanimous consent.
 (4) The Regulations provide for the establishment, under the control of the Assembly, of Administrative Instructions by the Director General.
 (5) In the case of conflict between the provisions of the Treaty and those of the Regulations, the provisions of the Treaty shall prevail.
@@ -636,7 +636,7 @@ Subject to Article 64(5), any dispute between two or more Contracting States con
   (a) Any State may declare that it shall not be bound by the provisions of Chapter II.
   (b) States making a declaration under subparagraph (a) shall not be bound by the provisions of Chapter II and the corresponding provisions of the Regulations.
 (2)
-  (a) Any State not having made a declaration under paragraph (1)(a) may declare that:
+  (a) Any State not having made a declaration under paragraph (1)﻿(a) may declare that:
     (i) it shall not be bound by the provisions of Article 39(1) with respect to the furnishing of a copy of the international application and a translation thereof (as prescribed),
     (ii) the obligation to delay national processing, as provided for under Article 40, shall not prevent publication, by or through its national Office, of the international application or a translation thereof, it being understood, however, that it is not exempted from the limitations provided for in Articles 30 and 38.
   (b) States making such a declaration shall be bound accordingly.
@@ -682,7 +682,7 @@ The Director General shall notify the Governments of all States party to the Par
   (ii) deposits of instruments of ratification or accession under Article 62,
   (iii) the date of entry into force of this Treaty and the date from which Chapter II is applicable in accordance with Article 63(3),
   (iv) any declarations made under Article 64(1) to (5),
-  (v) withdrawals of any declarations made under Article 64(6)(b),
+  (v) withdrawals of any declarations made under Article 64(6)﻿(b),
   (vi) denunciations received under Article 66, and
   (vii) any declarations made under Article 31(4).
 
@@ -715,7 +715,7 @@ Check List
     (i) the total number of sheets constituting the international application and the number of the sheets of each element of the International application (request, description, claims, drawings, abstract);
     (ii) whether or not the international application as filed is accompanied by a power of attorney (ie, a document appointing an agent or a common representative), a copy of a general power of attorney, a priority document, a document relating to the payment of fees, and any other document (to be specified in the check list);
     (iii) the number of that figure of the drawings which the applicant suggest should accompany the abstract when the abstract is published; in exceptional cases, the applicant may suggest more than one figure.
-  (b) The list shall be completed by the applicant, failing which the receiving Office shall make the necessary indications, except that the number referred to in paragraph (a)(iii) shall not be indicated by the receiving Office.
+  (b) The list shall be completed by the applicant, failing which the receiving Office shall make the necessary indications, except that the number referred to in paragraph (a)﻿(iii) shall not be indicated by the receiving Office.
 Particulars
 (3.4) Subject to Rule 3.3, particulars of the printed request form and of a request presented as a computer print-out shall be prescribed by the Administrative Instructions.
 
@@ -756,7 +756,7 @@ The Applicant
   (d) The request may, for different designated States, indicate different applicants. In such a case, the request shall indicate the applicant or applicants for each designated State or group of designated States.
 The Inventor
 (4.6)
-  (a) Where Rule 4.1(a)(v) applies, the request shall indicate the name and address of the inventor or, if there are several inventors, of each of them.
+  (a) Where Rule 4.1(a)﻿(v) applies, the request shall indicate the name and address of the inventor or, if there are several inventors, of each of them.
   (b) If the applicant is the inventor, the request, in lieu of the indication under paragraph (a), shall contain a statement to that effect.
   (c) The request may, for different designated States, indicate different persons as inventors where, in this respect, the requirements of the national laws of the designated States are not the same. In such a case, the request shall contain a separate statement for each designated State or group of States in which a particular person, or the same person, is to be considered the inventor, or in which particular persons, or the same persons, are to be considered the inventors.
 The Agent
@@ -772,8 +772,8 @@ Designation of States
     (i) at least one Contracting State is designated under paragraph (a), and
     (ii) the request also contains a statement that any designation made under this paragraph is subject to confirmation as provided in paragraph (c) and that any designation which is not so confirmed before the expiration of 15 months from the priority date is to be regarded as withdrawn by the applicant at the expiration of that time limit.
   (c) The confirmation of any designation made under paragraph (b) shall be effected by
-    (i) filing with the receiving Office a written notice containing an indication as referred to in paragraph (a)(i) or (ii), and
-    (ii) paying to the receiving Office the designation fee and the confirmation fee referred to in Rule 15.5 within the time limit under paragraph (b)(ii).
+    (i) filing with the receiving Office a written notice containing an indication as referred to in paragraph (a)﻿(i) or (ii), and
+    (ii) paying to the receiving Office the designation fee and the confirmation fee referred to in Rule 15.5 within the time limit under paragraph (b)﻿(ii).
 Priority Claim
 (4.10)
   (a) The declaration referred to in Article 8(1) shall be made in the request; it shall consist of a statement to the effect that the priority of an earlier application is claimed and shall indicate:
@@ -844,7 +844,7 @@ Manner of Claiming
   (c) Where the national law of the designated State does not require the manner of claiming provided for in paragraph (b), failure to use that manner of claiming shall have no effect in that State provided the manner of claiming actually used satisfies the national law of that State.
 Dependent Claims
 (6.4)
-  (a) Any claim which includes all the features of one or more other claims (claim in dependent form, hereinafter referred to as dependent claim) shall do so by a reference, if possible at the beginning, to the other claim or claims and shall then state the additional features claimed. Any dependent claim which refers to more than one other claim (multiple dependent claim) shall refer to such claims in the alternative only. Multiple dependent claims shall not serve as a basis for any other multiple dependent claim. Where the national law of the national Office acting as International Searching Authority does not allow multiple dependent claims to be drafted in a manner different from that provided for in the preceding two sentences, failure to use that manner of claiming may result in an indication under Article 17(2)(b) in the international search report. Failure to use the said manner of claiming shall have no effect in a designated State if the manner of claiming actually used satisfies the national law of that State.
+  (a) Any claim which includes all the features of one or more other claims (claim in dependent form, hereinafter referred to as dependent claim) shall do so by a reference, if possible at the beginning, to the other claim or claims and shall then state the additional features claimed. Any dependent claim which refers to more than one other claim (multiple dependent claim) shall refer to such claims in the alternative only. Multiple dependent claims shall not serve as a basis for any other multiple dependent claim. Where the national law of the national Office acting as International Searching Authority does not allow multiple dependent claims to be drafted in a manner different from that provided for in the preceding two sentences, failure to use that manner of claiming may result in an indication under Article 17(2)﻿(b) in the international search report. Failure to use the said manner of claiming shall have no effect in a designated State if the manner of claiming actually used satisfies the national law of that State.
   (b) Any dependent claim shall be construed as including all the limitations contained in the claim to which it refers or, if the dependent claim is a multiple dependent claim, all the limitations contained in the particular claim in relation to which it is considered.
   (c) All dependent claims referring back to a single previous claim, and all dependent claims referring back to several previous claims, shall be grouped together to the extent and in the most practical way possible.
 Utility Models
@@ -854,7 +854,7 @@ Utility Models
 Flow Sheets and Diagrams
 (7.1) Flow sheets and diagrams are considered drawings.
 Time Limit
-(7.2) The time limit referred to in Article 7(2)(ii) shall be reasonable under the circumstances of the case and shall, in no case, be shorter than two months from the date of the written invitation requiring the filing of drawings or additional drawings under the said provision.
+(7.2) The time limit referred to in Article 7(2)﻿(ii) shall be reasonable under the circumstances of the case and shall, in no case, be shorter than two months from the date of the written invitation requiring the filing of drawings or additional drawings under the said provision.
 
 ### Rule 8 The Abstract
 Contents and Form of the Abstract
@@ -867,8 +867,8 @@ Contents and Form of the Abstract
   (d) Each main technical feature mentioned in the abstract and illustrated by a drawing in the international application shall be followed by a reference sign, placed between parentheses.
 Figure
 (8.2)
-  (a) If the applicant fails to make the indication referred to in Rule 3.3(a)(iii), or if the International Searching Authority finds that a figure or figures other than that figure or those figures suggested by the applicant would, among all the figures of all the drawings, better characterize the invention, it shall, subject to paragraph (b), indicate the figure or figures which should accompany the abstract when the latter is published by the International Bureau. In such case, the abstract shall be accompanied by the figure or figures so indicated by the International Searching Authority. Otherwise, the abstract shall, subject to paragraph (b), be accompanied by the figure or figures suggested by the applicant.
-  (b) If the International Searching Authority finds that none of the figures of the drawings is useful for the understanding of the abstract, it shall notify the International Bureau accordingly. In such case, the abstract, when published by the International Bureau, shall not be accompanied by any figure of the drawings even where the applicant has made a suggestion under Rule 3.3(a)(iii).
+  (a) If the applicant fails to make the indication referred to in Rule 3.3(a)﻿(iii), or if the International Searching Authority finds that a figure or figures other than that figure or those figures suggested by the applicant would, among all the figures of all the drawings, better characterize the invention, it shall, subject to paragraph (b), indicate the figure or figures which should accompany the abstract when the latter is published by the International Bureau. In such case, the abstract shall be accompanied by the figure or figures so indicated by the International Searching Authority. Otherwise, the abstract shall, subject to paragraph (b), be accompanied by the figure or figures suggested by the applicant.
+  (b) If the International Searching Authority finds that none of the figures of the drawings is useful for the understanding of the abstract, it shall notify the International Bureau accordingly. In such case, the abstract, when published by the International Bureau, shall not be accompanied by any figure of the drawings even where the applicant has made a suggestion under Rule 3.3(a)﻿(iii).
 Guiding Principles in Drafting
 (8.3) The abstract shall be so drafted that it can efficiently serve as a scanning tool for purposes of searching in the particular art, especially by assisting the scientist, engineer or researcher in formulating an opinion on whether there is a need for consulting the international application itself.
 
@@ -900,8 +900,8 @@ Consistency
 ### Rule 11 Physical Requirements of the International Application
 Number of Copies
 (11.1)
-  (a) Subject to the provisions of paragraph (b), the international application and each of the documents referred to in the check list (Rule 3.3(a)(ii)) shall be filed in one copy.
-  (b) Any receiving Office may require that the international application and any of the documents referred to in the check list (Rule 3.3(a)(ii)), except the receipt for the fees paid or the check for the payment of the fees, be filed in two or three copies. In that case, the receiving Office shall be responsible for verifying the identity of the second and the third copies with the record copy.
+  (a) Subject to the provisions of paragraph (b), the international application and each of the documents referred to in the check list (Rule 3.3(a)﻿(ii)) shall be filed in one copy.
+  (b) Any receiving Office may require that the international application and any of the documents referred to in the check list (Rule 3.3(a)﻿(ii)), except the receipt for the fees paid or the check for the payment of the fees, be filed in two or three copies. In that case, the receiving Office shall be responsible for verifying the identity of the second and the third copies with the record copy.
 Fitness for Reproduction
 (11.2)
   (a) All elements of the international application (ie, the request, the description, the claims, the drawings, and the abstract) shall be so presented as to admit of direct reproduction by photography, electrostatic processes, photo offset, and microfilming, in any number of copies.
@@ -997,51 +997,51 @@ Utility Models
 
 ### Rule 13 bis Microbiological inventions
 Definition
-(13 bis.1) For the purposes of this Rule, reference to a deposited microorganism means particulars given in an international application with respect to the deposit of a microorganism with a depositary institution or to the microorganism so deposited.
+(13 bis﻿.﻿1) For the purposes of this Rule, reference to a deposited microorganism means particulars given in an international application with respect to the deposit of a microorganism with a depositary institution or to the microorganism so deposited.
 References (General)
-(13 bis.2) Any reference to a deposited microorganism shall be made in accordance with this Rule and, if so made, shall be considered as satisfying the requirements of the national law of each designated State.
+(13 bis﻿.﻿2) Any reference to a deposited microorganism shall be made in accordance with this Rule and, if so made, shall be considered as satisfying the requirements of the national law of each designated State.
 References: Contents; Failure to Include Reference or Indication
-(13 bis.3)
+(13 bis﻿.﻿3)
   (a) A reference to a deposited microorganism shall indicate,
     (i) the name and address of the depositary institution with which the deposit was made;
     (ii) the date of deposit of the microorganism with that institution;
     (iii) the accession number given to the deposit by that institution; and
-    (iv) any additional matter of which the International Bureau has been notified pursuant to Rule 13 bis.7(a)(i), provided that the requirement to indicate that matter was published in the Gazette in accordance with Rule 13 bis.7(c) at least two months before the filing of the international application.
+    (iv) any additional matter of which the International Bureau has been notified pursuant to Rule 13 bis﻿.﻿7(a)﻿(i), provided that the requirement to indicate that matter was published in the Gazette in accordance with Rule 13 bis﻿.﻿7(c) at least two months before the filing of the international application.
   (b) Failure to include a reference to a deposited microorganism or failure to include, in a reference to a deposited microorganism, an indication in accordance with paragraph (a), shall have no consequence in any designated State whose national law does not require such reference or such indication in a national application.
 References: Time of Furnishing Indications
-(13 bis.4) If any of the indications referred to in Rule 13 bis.3(a) is not included in a reference to a deposited microorganism in the international application as filed but is furnished by the applicant to the International Bureau within 16 months after the priority date, the indication shall be considered by any designated Office to have been furnished in time unless its national law requires the indication to be furnished at an earlier time in the case of a national application and the International Bureau has been notified of such requirement pursuant to Rule 13 bis.7(a)(ii), provided that the International Bureau has published such requirement in the Gazette in accordance with Rule 13 bis.7(c) at least two months before the filing of the international application. In the event that the applicant makes a request for early publication under Article 21(2)(b), however, any designated Office may consider any indication not furnished by the time such request is made as not having been furnished in time. Irrespective of whether the applicable time limit under the preceding sentences has been observed, the International Bureau shall notify the applicant and the designated Offices of the date on which it has received any indication not included in the international application as filed. The International Bureau shall indicate that date in the international publication of the international application if the indication has been furnished to it before the completion of technical preparations for international publication.
+(13 bis﻿.﻿4) If any of the indications referred to in Rule 13 bis﻿.﻿3(a) is not included in a reference to a deposited microorganism in the international application as filed but is furnished by the applicant to the International Bureau within 16 months after the priority date, the indication shall be considered by any designated Office to have been furnished in time unless its national law requires the indication to be furnished at an earlier time in the case of a national application and the International Bureau has been notified of such requirement pursuant to Rule 13 bis﻿.﻿7(a)﻿(ii), provided that the International Bureau has published such requirement in the Gazette in accordance with Rule 13 bis﻿.﻿7(c) at least two months before the filing of the international application. In the event that the applicant makes a request for early publication under Article 21(2)﻿(b), however, any designated Office may consider any indication not furnished by the time such request is made as not having been furnished in time. Irrespective of whether the applicable time limit under the preceding sentences has been observed, the International Bureau shall notify the applicant and the designated Offices of the date on which it has received any indication not included in the international application as filed. The International Bureau shall indicate that date in the international publication of the international application if the indication has been furnished to it before the completion of technical preparations for international publication.
 References and Indications for the Purposes of One or More Designated States: Different Deposits for Different Designated States; Deposits with Depositary Institutions Other Than Those Notified
-(13 bis.5)
+(13 bis﻿.﻿5)
   (a) A reference to a deposited microorganism shall be considered to be made for the purposes of all designated States, unless it is expressly made for the purposes of certain of the designated States only; the same applies to the indications included in the reference.
   (b) References to different deposits of the microorganism may be made for different designated States.
-  (c) Any designated Office shall be entitled to disregard a deposit made with a depositary institution other than one notified by it under Rule 13 bis.7(b).
+  (c) Any designated Office shall be entitled to disregard a deposit made with a depositary institution other than one notified by it under Rule 13 bis﻿.﻿7(b).
 Furnishing of Samples
-(13 bis.6)
+(13 bis﻿.﻿6)
   (a) Where the international application contains a reference to a deposited microorganism, the applicant shall, upon the request of the International Searching Authority or the International Preliminary Examining Authority, authorize and assure the furnishing of a sample of that microorganism by the depositary institution to the said Authority, provided that the said Authority has notified the International Bureau that it may require the furnishing of samples and that such samples will be used solely for the purposes of international search or international preliminary examination, as the case may be, and such notification has been published in the Gazette.
   (b) Pursuant to Articles 23 and 40, no furnishing of samples of the deposited microorganism to which a reference is made in an international application shall, except with the authorization of the applicant, take place before the expiration of the applicable time limits after which national processing may start under the said Articles. However, where the applicant performs the acts referred to in Articles 22 or 39 after international publication but before the expiration of the said time limits, the furnishing of samples of the deposited microorganism may take place, once the said acts have been performed. Notwithstanding the previous provision, the furnishing of samples of the deposited microorganism may take place under the national law applicable for any designated Office as soon as, under that law, the international publication has the effects of the compulsory national publication of an unexamined national application.
 National Requirements: Notification and Publication
-(13 bis.7)
+(13 bis﻿.﻿7)
   (a) Any national Office may notify the International Bureau of any requirement of the national law,
-    (i) that any matter specified in the notification, in addition to those referred to in Rule 13 bis.3(a)(i), (ii) and (iii), is required to be included in a reference to a deposited microorganism in a national application;
-    (ii) that one or more of the indications referred to in Rule 13 bis.3(a) are required to be included in a national application as filed or are required to be furnished at a time specified in the notification which is earlier than 16 months after the priority date.
+    (i) that any matter specified in the notification, in addition to those referred to in Rule 13 bis﻿.﻿3(a)﻿(i), (ii) and (iii), is required to be included in a reference to a deposited microorganism in a national application;
+    (ii) that one or more of the indications referred to in Rule 13 bis﻿.﻿3(a) are required to be included in a national application as filed or are required to be furnished at a time specified in the notification which is earlier than 16 months after the priority date.
   (b) Each national Office shall notify the International Bureau of the depositary institutions with which the national law permits deposits of microorganisms to be made for the purposes of patent procedure before that Office or, if the national law does not provide for or permit such deposits, of that fact.
   (c) The International Bureau shall promptly publish in the Gazette requirements notified to it under paragraph (a) and information notified to it under paragraph (b).
 
 ### Rule 13 ter Nucleotide and/or Amino Acid Sequence Listings
 Sequence Listing for International Authorities
-(13 ter.1)
+(13 ter﻿.﻿1)
   (a) If the International Searching Authority finds that a nucleotide and/or amino acid sequence listing does not comply with the standard prescribed in the Administrative Instructions under Rule 5.2, and/or is not in a machine readable form provided for in those Instructions, it may invite the applicant, within a time limit fixed in the invitation, as the case may be:
     (i) to furnish to it a listing of the sequence complying with the prescribed standard, and/or
     (ii) to furnish to it a listing of the sequence in a machine readable form provided for in the Administrative Instructions or, if that Authority is prepared to transcribe the sequence listing into such a form, to pay for the cost of such transcription.
   (b) Any sequence listing furnished under paragraph (a) shall be accompanied by a statement to the effect that the listing does not include matter which goes beyond the disclosure in the international application as filed.
   (c) If the applicant does not comply with the invitation within the time limit fixed in the invitation, the International Searching Authority shall not be required to search the international application to the extent that such non-compliance has the result that a meaningful search cannot be carried out.
-  (d) If the International Searching Authority chooses, under paragraph (a)(ii), to transcribe the sequence listing into a machine readable form, it shall send a copy of such transcription in machine readable form to the applicant.
+  (d) If the International Searching Authority chooses, under paragraph (a)﻿(ii), to transcribe the sequence listing into a machine readable form, it shall send a copy of such transcription in machine readable form to the applicant.
   (e) The International Searching Authority shall, upon request, make available to the International Preliminary Examining Authority a copy of any sequence listing furnished to it, or as transcribed by it, under paragraph (a).
   (f) A sequence listing furnished to the International Searching Authority, or as transcribed by it, under paragraph (a) shall not form part of the international application.
 Sequence Listing for Designated Office
-(13 ter.2)
-  (a) Once the processing of the international application has started before a designated Office, that Office may require the applicant to furnish to it a copy of any sequence listing furnished to the International Searching Authority, or as transcribed by that Authority, under Rule 13 ter.1(a).
-  (b) If a designated Office finds that a nucleotide and/or amino acid sequence listing does not comply with the standard prescribed in the Administrative Instructions under Rule 5.2, and/or is not in a machine readable form provided for in those Instructions, and/or no listing of the sequence was furnished to the International Searching Authority, or transcribed by that Authority, under Rule 13 ter.1(a), that Office may require the applicant;
+(13 ter﻿.﻿2)
+  (a) Once the processing of the international application has started before a designated Office, that Office may require the applicant to furnish to it a copy of any sequence listing furnished to the International Searching Authority, or as transcribed by that Authority, under Rule 13 ter﻿.﻿1(a).
+  (b) If a designated Office finds that a nucleotide and/or amino acid sequence listing does not comply with the standard prescribed in the Administrative Instructions under Rule 5.2, and/or is not in a machine readable form provided for in those Instructions, and/or no listing of the sequence was furnished to the International Searching Authority, or transcribed by that Authority, under Rule 13 ter﻿.﻿1(a), that Office may require the applicant;
     (i) to furnish to it a listing of the sequence complying with the prescribed standard, and/or
     (ii) to furnish to it a listing of the sequence in a machine readable form provided for in the Administrative Instructions or, if that Office is prepared to transcribe the sequence listing into such a form, to pay for the cost of such transcription.
 
@@ -1076,7 +1076,7 @@ Time of Payment
 Fees Under Rule 4.9(c)
 (15.5)
   (a) Notwithstanding Rule 15.4(b), the confirmation under Rule 4.9(c) of any designations made under Rule 4.9(b) shall be subject to the payment to the receiving Office of as many designation fees (for the benefit of the International Bureau) as there are national patents and regional patents sought by the applicant by virtue of the confirmation, together with a confirmation fee (for the benefit of the receiving Office), as set out in the Schedule of Fees.
-  (b) Where moneys paid by the applicant within the time limit under Rule 4.9(b)(ii) are not sufficient to cover the fees due under paragraph (a), the receiving Office shall allocate any moneys paid as specified by the applicant or, in the absence of such specification, as prescribed by the Administrative Instructions.
+  (b) Where moneys paid by the applicant within the time limit under Rule 4.9(b)﻿(ii) are not sufficient to cover the fees due under paragraph (a), the receiving Office shall allocate any moneys paid as specified by the applicant or, in the absence of such specification, as prescribed by the Administrative Instructions.
 Refund
 (15.6) The receiving Office shall refund the international fee to the applicant:
   (i) if the determination under Article 11(1) is negative, or
@@ -1096,20 +1096,20 @@ Refund
   (i) if the determination under Article 11(1) is negative, or
   (ii) if, before the transmittal of the search copy to the International Searching Authority, the international application is withdrawn or considered withdrawn.
 Partial Refund
-(16.3) Where the international application claims the priority of an earlier international application which has been the subject of an international search by the same International Searching Authority, that Authority shall refund the search fee paid in connection with the later international application to the extent and under the conditions provided for in the agreement under Article 16(3)(b), if the international search report on the later international application could wholly or partly be based on the results of the international search effected on the earlier international application.
+(16.3) Where the international application claims the priority of an earlier international application which has been the subject of an international search by the same International Searching Authority, that Authority shall refund the search fee paid in connection with the later international application to the extent and under the conditions provided for in the agreement under Article 16(3)﻿(b), if the international search report on the later international application could wholly or partly be based on the results of the international search effected on the earlier international application.
 
 ### Rule 16 bis Extension of Time Limits for Payment of Fees
 Invitation by the Receiving Office
-(16 bis.1)
-  (a) Where, by the time they are due under Rule 14.1(b), Rule 15.4(a) and Rule 16.1(f), the receiving Office finds that in respect of an international application no fees were paid to it by the applicant, or that the amount paid to it by the applicant is less than what is necessary to cover the transmittal fee, the basic fee and search fee, the receiving Office shall invite the applicant to pay to it the amount required to cover those fees, together with, where applicable, the late payment fee under Rule 16 bis.2, within one month from the date of the invitation.
-  (b) Where, by the time they are due under Rule 15.4(b), the receiving Office finds that in respect of an international application the payment made by the applicant is insufficient to cover the designation fees necessary to cover all the designations under Rule 4.9(a), the receiving Office shall invite the applicant to pay to it the amount required to cover those fees, together with, where applicable, the late payment fee under Rule 16 bis.2, within one month from the date of the invitation.
-  (c) Where the receiving Office has sent to the applicant an invitation under paragraph (a) or (b) and the applicant has not, within one month from the date of the invitation, paid in full the amount due, including, where applicable, the late payment fee under Rule 16 bis.2, the receiving Office shall:
+(16 bis﻿.﻿1)
+  (a) Where, by the time they are due under Rule 14.1(b), Rule 15.4(a) and Rule 16.1(f), the receiving Office finds that in respect of an international application no fees were paid to it by the applicant, or that the amount paid to it by the applicant is less than what is necessary to cover the transmittal fee, the basic fee and search fee, the receiving Office shall invite the applicant to pay to it the amount required to cover those fees, together with, where applicable, the late payment fee under Rule 16 bis﻿.﻿2, within one month from the date of the invitation.
+  (b) Where, by the time they are due under Rule 15.4(b), the receiving Office finds that in respect of an international application the payment made by the applicant is insufficient to cover the designation fees necessary to cover all the designations under Rule 4.9(a), the receiving Office shall invite the applicant to pay to it the amount required to cover those fees, together with, where applicable, the late payment fee under Rule 16 bis﻿.﻿2, within one month from the date of the invitation.
+  (c) Where the receiving Office has sent to the applicant an invitation under paragraph (a) or (b) and the applicant has not, within one month from the date of the invitation, paid in full the amount due, including, where applicable, the late payment fee under Rule 16 bis﻿.﻿2, the receiving Office shall:
     (i) allocate any moneys paid as specified by the applicant or, in the absence of such specification, as prescribed by the Administrative Instructions.
     (ii) make the applicable declaration under Article 14(3), and
     (iii) proceed as provided in Rule 29.
 Late Payment Fee
-(16 bis.2)
-  (a) The payment of fees in response to an invitation under Rule 16 bis.1(a) or (b) may be subjected by the receiving Office to the payment to it of a late payment fee. The amount of that fee shall be:
+(16 bis﻿.﻿2)
+  (a) The payment of fees in response to an invitation under Rule 16 bis﻿.﻿1(a) or (b) may be subjected by the receiving Office to the payment to it of a late payment fee. The amount of that fee shall be:
     (i) 50% of the amount of unpaid fees which is specified in the invitation, or,
     (ii) if the amount calculated under item (i) is less than the transmittal fee, an amount equal to the transmittal fee.
 
@@ -1167,18 +1167,18 @@ Date and Number
 Receipt on Different Days
 (20.2)
   (a) In cases where all the sheets pertaining to the same purported international application are not received on the same day by the receiving Office, that Office shall correct the date marked on the request (still leaving legible, however, the earlier date or dates already marked) so that it indicates the day on which the papers completing the international application were received, provided that
-    (i) where no invitation under Article 11(2)(a) to correct was sent to the applicant, the said papers are received within 30 days from the date on which sheets were first received;
-    (ii) where an invitation under Article 11(2)(a) to correct was sent to the applicant, the said papers are received within the applicable time limit under Rule 20.6;
+    (i) where no invitation under Article 11(2)﻿(a) to correct was sent to the applicant, the said papers are received within 30 days from the date on which sheets were first received;
+    (ii) where an invitation under Article 11(2)﻿(a) to correct was sent to the applicant, the said papers are received within the applicable time limit under Rule 20.6;
     (iii) in the case of Article 14(2), the missing drawings are received within 30 days from the date on which the incomplete papers were filed;
     (iv) the absence or later receipt of any sheet containing the abstract or part thereof shall not, in itself, require any correction of the date marked on the request.
   (b) Any sheet received on a date later than the date on which sheets were first received shall be marked by the receiving Office with the date on which it was received.
 Corrected International Application
-(20.3) In the case referred to in Article 11(2)(b), the receiving Office shall correct the date marked on the request (still leaving legible, however, the earlier date or dates already marked) so that it indicates the day on which the last required correction was received.
+(20.3) In the case referred to in Article 11(2)﻿(b), the receiving Office shall correct the date marked on the request (still leaving legible, however, the earlier date or dates already marked) so that it indicates the day on which the last required correction was received.
 Determination under article 11(1)
 (20.4)
   (a) Promptly after receipt of the papers purporting to be an international application, the receiving Office shall determine whether the papers comply with the requirements of Article 11(1).
-  (b) For the purposes of Article 11(1)(iii)(c), it shall be sufficient to indicate the name of the applicant in a way which allows his identity to be established even if the name is misspelled, the given names are not fully indicated, or, in the case of legal entities, the indication of the name is abbreviated or incomplete.
-  (c) For the purposes of Article 11(1)(ii), it shall be sufficient that the elements referred to in Article 11(1)(iii)(d) and (e) be in a language admitted under Rule 12.1(a) or (c).
+  (b) For the purposes of Article 11(1)﻿(iii)﻿(c), it shall be sufficient to indicate the name of the applicant in a way which allows his identity to be established even if the name is misspelled, the given names are not fully indicated, or, in the case of legal entities, the indication of the name is abbreviated or incomplete.
+  (c) For the purposes of Article 11(1)﻿(ii), it shall be sufficient that the elements referred to in Article 11(1)﻿(iii)﻿(d) and (e) be in a language admitted under Rule 12.1(a) or (c).
   (d) If, on July 12, 1991, paragraph (c) is not compatible with the national law applied by the receiving Office, paragraph (c) shall not apply to that receiving Office for as long as it continues not to be compatible with that law, provided that the said Office informs the International Bureau accordingly by December 31, 1991. The information received shall be promptly published by the International Bureau in the Gazette.
 Positive Determination
 (20.5)
@@ -1252,17 +1252,17 @@ Notification of Receipt of the Search Copy
 ### Rule 26 Checking by, and Correcting before, the Receiving Office of Certain Elements of the International Application
 Time Limit for Check
 (26.1)
-  (a) The receiving Office shall issue the invitation to correct provided for in Article 14(1)(b) as soon as possible, preferably within one month from the receipt of the international application.
-  (b) If the receiving Office issues an invitation to correct the defect referred to in Article 14(1)(a)(iii) or (iv) (missing title or missing abstract), it shall notify the International Searching Authority accordingly.
+  (a) The receiving Office shall issue the invitation to correct provided for in Article 14(1)﻿(b) as soon as possible, preferably within one month from the receipt of the international application.
+  (b) If the receiving Office issues an invitation to correct the defect referred to in Article 14(1)﻿(a)﻿(iii) or (iv) (missing title or missing abstract), it shall notify the International Searching Authority accordingly.
 Time Limit for Correction
-(26.2) The time limit referred to in Article 14(1)(b) shall be reasonable under the circumstances and shall be fixed in each case by the receiving Office. It shall not be less than one month from the date of the invitation to correct. It may be extended by the receiving Office at any time before a decision is taken.
-Checking of Physical Requirements under Article 14(1)(a)(v)
+(26.2) The time limit referred to in Article 14(1)﻿(b) shall be reasonable under the circumstances and shall be fixed in each case by the receiving Office. It shall not be less than one month from the date of the invitation to correct. It may be extended by the receiving Office at any time before a decision is taken.
+Checking of Physical Requirements under Article 14(1)﻿(a)﻿(v)
 (26.3) The physical requirements referred to in Rule 11 shall be checked only to the extent that compliance therewith is necessary for the purpose of reasonably uniform international publication.
-Invitation to Correct Defects under Article 14(1)(b)
-(26.3 bis) The receiving Office shall not be required to issue the invitation to correct a defect under Article 14(1)(a)(v) where the physical requirements referred to in Rule 11 are complied with to the extent necessary for the purpose of reasonably uniform international publication.
-Invitation to Correct Defects under Article 3(4)(i)
+Invitation to Correct Defects under Article 14(1)﻿(b)
+(26.3 bis) The receiving Office shall not be required to issue the invitation to correct a defect under Article 14(1)﻿(a)﻿(v) where the physical requirements referred to in Rule 11 are complied with to the extent necessary for the purpose of reasonably uniform international publication.
+Invitation to Correct Defects under Article 3(4)﻿(i)
 (26.3 ter)
-  (a) Where any element of the international application, other than those referred to in Article 11(1)(iii)(d) and (e), does not comply with Rule 12.1, the receiving Office shall invite the applicant to file the required correction. Rules 26.1(a), 26.2, 26.5 and 29.1 shall apply mutatis mutandis.
+  (a) Where any element of the international application, other than those referred to in Article 11(1)﻿(iii)﻿(d) and (e), does not comply with Rule 12.1, the receiving Office shall invite the applicant to file the required correction. Rules 26.1(a), 26.2, 26.5 and 29.1 shall apply mutatis mutandis.
   (b) If, on July 12, 1991, paragraph (a) is not compatible with the national law applied by the receiving Office, paragraph (a) shall not apply to that receiving Office for as long as it continues not to be compatible with that law, provided that the said Office informs the International Bureau accordingly by December 31, 1991. The information received shall be promptly published by the International Bureau in the Gazette.
 Procedure
 (26.4)
@@ -1277,29 +1277,29 @@ Decision of the Receiving Office
 Missing Drawings
 (26.6)
   (a) If, as provided in Article 14(2), the international application refers to drawings which in fact are not included in that application, the receiving Office shall so indicate in the said application.
-  (b) The date on which the applicant receives the notification provided for in Article 14(2) shall have no effect on the time limit fixed under Rule 20.2(a)(iii).
+  (b) The date on which the applicant receives the notification provided for in Article 14(2) shall have no effect on the time limit fixed under Rule 20.2(a)﻿(iii).
 
 ### Rule 27 Lack of Payment of Fees
 Fees
 (27.1)
-  (a) For the purposes of Article 14(3)(a), fees prescribed under Article 3(4)(iv) means: the transmittal fee (Rule 14), the basic fee part of the international fee (Rule 15.1(i)), the search fee (Rule 16), and, where required, the late payment fee (Rule 16 bis.2).
-  (b) For the purposes of Article 14(3)(a) and (b), the fee prescribed under Article 4(2) means the designation fee part of the international fee (Rule 15.1(ii)) and, where required, the late payment fee (Rule 16 bis.2).
+  (a) For the purposes of Article 14(3)﻿(a), fees prescribed under Article 3(4)﻿(iv) means: the transmittal fee (Rule 14), the basic fee part of the international fee (Rule 15.1(i)), the search fee (Rule 16), and, where required, the late payment fee (Rule 16 bis﻿.﻿2).
+  (b) For the purposes of Article 14(3)﻿(a) and (b), the fee prescribed under Article 4(2) means the designation fee part of the international fee (Rule 15.1(ii)) and, where required, the late payment fee (Rule 16 bis﻿.﻿2).
 
 ### Rule 28 Defects Noted by the International Bureau
 Note on Certain Defects
 (28.1)
-  (a) If, in the opinion of the International Bureau, the international application contains any of the defects referred to in Article 14(1)(a)(i), (ii) or (v), the International Bureau shall bring such defects to the attention of the receiving Office.
-  (b) The receiving Office shall, unless it disagrees with the said opinion, proceed as provided in Article 14(1)(b) and Rule 26.
+  (a) If, in the opinion of the International Bureau, the international application contains any of the defects referred to in Article 14(1)﻿(a)﻿(i), (ii) or (v), the International Bureau shall bring such defects to the attention of the receiving Office.
+  (b) The receiving Office shall, unless it disagrees with the said opinion, proceed as provided in Article 14(1)﻿(b) and Rule 26.
 
 ### Rule 29 International Applications or Designations Considered Withdrawn under Article 14(1), (3) or (4)
 Finding by Receiving Office
 (29.1)
-  (a) If the receiving Office declares, under Article 14(1)(b) and Rule 26.5 (failure to correct certain defects), or under Article 14(3)(a) (failure to pay the prescribed fees under Rule 27.1(a)), or under Article 14(4) (later finding of non-compliance with the requirements listed in items (i) to (iii) of Article 11(1)), that the international application is considered withdrawn:
+  (a) If the receiving Office declares, under Article 14(1)﻿(b) and Rule 26.5 (failure to correct certain defects), or under Article 14(3)﻿(a) (failure to pay the prescribed fees under Rule 27.1(a)), or under Article 14(4) (later finding of non-compliance with the requirements listed in items (i) to (iii) of Article 11(1)), that the international application is considered withdrawn:
     (i) the receiving Office shall transmit the record copy (unless already transmitted), and any correction offered by the applicant, to the International Bureau;
     (ii) the receiving Office shall promptly notify both the applicant and the International Bureau of the said declaration, and the International Bureau shall in turn notify each designated Office which has already been notified of its designation;
     (iii) the receiving Office shall not transmit the search copy as provided in Rule 23, or, if such copy has already been transmitted, it shall notify the International Search Authority of the said declaration;
     (iv) the International Bureau shall not be required to notify the applicant of the receipt of the record copy.
-  (b) If the receiving Office declares under Article 14(3)(b) (failure to pay the prescribed designation fee under Rule 27.1(b)) that the designation of any given State is considered withdrawn, the receiving Office shall promptly notify both the applicant and the International Bureau of the said declaration. The International Bureau shall in turn notify each designated Office which has already been notified of its designation.
+  (b) If the receiving Office declares under Article 14(3)﻿(b) (failure to pay the prescribed designation fee under Rule 27.1(b)) that the designation of any given State is considered withdrawn, the receiving Office shall promptly notify both the applicant and the International Bureau of the said declaration. The International Bureau shall in turn notify each designated Office which has already been notified of its designation.
 [Deleted]
 (29.2)
 Calling Certain Facts to the Attention of the Receiving Office
@@ -1315,7 +1315,7 @@ Time Limit
 Request for Copies
 (31.1)
   (a) Requests under Article 13(1) may relate to all, some kinds of, or individual international applications in which the national Office making the request is designated. Requests for all or some kinds of such international applications must be renewed for each year by means of a notification addressed by that Office before November 30 of the preceding year to the International Bureau.
-  (b) Requests under Article 13(2)(b) shall be subject to the payment of a fee covering the cost of preparing and mailing the copy.
+  (b) Requests under Article 13(2)﻿(b) shall be subject to the payment of a fee covering the cost of preparing and mailing the copy.
 Preparation of Copies
 (31.2) The preparation of copies required under Article 13 shall be the responsibility of the International Bureau.
 
@@ -1363,17 +1363,17 @@ Definition
 
 ### Rule 35 The Competent International Searching Authority
 When Only One International Searching Authority is Competent
-(35.1) Each receiving Office shall, in accordance with the terms of the applicable agreement referred to in Article 16(3)(b), inform the International Bureau which International Searching Authority is competent for the searching of the international applications filed with it, and the International Bureau shall promptly publish such information.
+(35.1) Each receiving Office shall, in accordance with the terms of the applicable agreement referred to in Article 16(3)﻿(b), inform the International Bureau which International Searching Authority is competent for the searching of the international applications filed with it, and the International Bureau shall promptly publish such information.
 When Several International Searching Authorities Are Competent
 (35.2)
-  (a) Any receiving Office may, in accordance with the terms of the applicable agreement referred to in Article 16(3)(b), specify several International Searching Authorities:
+  (a) Any receiving Office may, in accordance with the terms of the applicable agreement referred to in Article 16(3)﻿(b), specify several International Searching Authorities:
     (i) by declaring all of them competent for any international application filed with it, and leaving the choice to the applicant, or
     (ii) by declaring one or more competent for certain kinds of international applications filed with it, and declaring one or more others competent for other kinds of international applications filed with it, provided that, for those kinds of international applications for which several International Searching Authorities are declared to be competent, the choice shall be left to the applicant.
   (b) Any receiving Office availing itself of the faculty provided in paragraph (a) shall promptly inform the International Bureau, and the International Bureau shall promptly publish such information.
 
 ### Rule 36 Minimum Requirements for International Searching Authorities
 Definition of Minimum Requirements
-(36.1) The minimum requirements referred to in Article 16(3)(c) shall be the following:
+(36.1) The minimum requirements referred to in Article 16(3)﻿(c) shall be the following:
   (i) the national Office or intergovernmental organization must have at least 100 full-time employees with sufficient technical qualifications to carry out searches;
   (ii) that Office or organisation must have in its possession, or have access to, at least the minimum documentation referred to in Rule 34, properly arranged for search purposes, on paper, in microform or stored on electronic media;
   (iii) that Office or organization must have a staff which is capable of searching the required technical fields and which has the language facilities to understand at least those languages in which the minimum documentation referred to in Rule 34 is written or is translated.
@@ -1392,7 +1392,7 @@ Establishment of Abstract
   (a) If the international application does not contain an abstract and the International Searching Authority has not received a notification from the receiving Office to the effect that the applicant has been invited to furnish an abstract, or if the said Authority finds that the abstract does not comply with Rule 8, it shall itself establish an abstract (in the language in which the international application is published).
   (b) The applicant may, within one month from the date of mailing of the international search report, submit comments on the abstract established by the International Searching Authority. Where that Authority amends the abstract established by it, it shall notify the amendment to the International Bureau.
 
-### Rule 39 Subject Matter under Article 17(2)(a)(i)
+### Rule 39 Subject Matter under Article 17(2)﻿(a)﻿(i)
 Definition
 (39.1) No International Searching Authority shall be required to search an international application if, and to the extent to which, its subject matter is any of the following:
   (i) scientific and mathematical theories,
@@ -1404,24 +1404,24 @@ Definition
 
 ### Rule 40 Lack of Unity of Invention (International Search)
 Invitation to Pay
-(40.1) The invitation to pay additional fees provided for in Article 17(3)(a) shall specify the reasons for which the international application is not considered as complying with the requirement of unity of invention and shall indicate the amount to be paid.
+(40.1) The invitation to pay additional fees provided for in Article 17(3)﻿(a) shall specify the reasons for which the international application is not considered as complying with the requirement of unity of invention and shall indicate the amount to be paid.
 Additional Fees
 (40.2)
-  (a) The amount of the additional fee due for searching under Article 17(3)(a) shall be determined by the competent International Searching Authority.
-  (b) The additional fee due for searching under Article 17(3)(a) shall be payable direct to the International Searching Authority.
+  (a) The amount of the additional fee due for searching under Article 17(3)﻿(a) shall be determined by the competent International Searching Authority.
+  (b) The additional fee due for searching under Article 17(3)﻿(a) shall be payable direct to the International Searching Authority.
   (c) Any applicant may pay the additional fee under protest, that is, accompanied by a reasoned statement to the effect that the international application complies with the requirement of unity of invention or that the amount of the required additional fee is excessive. Such protest shall be examined by a three-member board or other special instance of the International Searching Authority or any competent higher authority, which, to the extent that it finds the protest justified, shall order the total or partial reimbursement to the applicant of the additional fee. On the request of the applicant, the text of both the protest and the decision thereon shall be notified to the designated Offices together with the international search report. The applicant shall submit any translation thereof with the furnishing of the translation of the international application required under Article 22.
   (d) The three-member board, special instance or competent higher authority, referred to in paragraph (c), shall not comprise any person who made the decision which is the subject of the protest.
   (e) Where the applicant has, under paragraph (c), paid an additional fee under protest, the International Searching Authority may, after a prior review of the justification for the invitation to pay an additional fee, require that the applicant pay a fee for the examination of the protest (protest fee). The protest fee shall be paid within one month from the date of the notification to the applicant of the result of the review. If the protest fee is not so paid, the protest shall be considered withdrawn. The protest fee shall be refunded to the applicant where the three-member board, special instance or higher authority referred to in paragraph (c) finds that the protest was entirely justified.
 Time Limit
-(40.3) The time limit provided for in Article 17(3)(a) shall be fixed, in each case, according to the circumstances of the case, by the International Searching Authority; it shall not be shorter than 15 or 30 days, respectively, depending on whether the applicant's address is in the same country as or in a different country from that in which the International Searching Authority is located, and it shall not be longer than 45 days, from the date of the invitation.
+(40.3) The time limit provided for in Article 17(3)﻿(a) shall be fixed, in each case, according to the circumstances of the case, by the International Searching Authority; it shall not be shorter than 15 or 30 days, respectively, depending on whether the applicant's address is in the same country as or in a different country from that in which the International Searching Authority is located, and it shall not be longer than 45 days, from the date of the invitation.
 
 ### Rule 41 Earlier Search Other Than International Search
 Obligation to Use Results; Refund of Fee
-(41.1) If reference has been made in the request, in the form provided for in Rule 4.11, to an international-type search carried out under the conditions set out in Article 15(5) or to a search other than an international or international-type search, the International Searching Authority shall, to the extent possible, use the results of the said search in establishing the international search report on the international application. The International Searching Authority shall refund the search fee, to the extent and under the conditions provided for in the agreement under Article 16(3)(b) or in a communication addressed to and published in the Gazette by the International Bureau, if the international search report could wholly or partly be based on the results of the said search.
+(41.1) If reference has been made in the request, in the form provided for in Rule 4.11, to an international-type search carried out under the conditions set out in Article 15(5) or to a search other than an international or international-type search, the International Searching Authority shall, to the extent possible, use the results of the said search in establishing the international search report on the international application. The International Searching Authority shall refund the search fee, to the extent and under the conditions provided for in the agreement under Article 16(3)﻿(b) or in a communication addressed to and published in the Gazette by the International Bureau, if the international search report could wholly or partly be based on the results of the said search.
 
 ### Rule 42 Time Limit for International Search
 Time Limit for International Search
-(42.1) The time limit for establishing the international search report or the declaration referred to in Article 17(2)(a) shall be three months from the receipt of the search copy by the International Searching Authority, or nine months from the priority date, whichever time limit expires later.
+(42.1) The time limit for establishing the international search report or the declaration referred to in Article 17(2)﻿(a) shall be three months from the receipt of the search copy by the International Searching Authority, or nine months from the priority date, whichever time limit expires later.
 
 ### Rule 43 The International Search Report
 Identifications
@@ -1433,7 +1433,7 @@ Classification
   (a) The international search report shall contain the classification of the subject matter at least according to the International Patent Classification.
   (b) Such classification shall be effected by the International Searching Authority.
 Language
-(43.4) Every international search report and any declaration made under Article 17(2)(a) shall be in the language in which the international application to which it relates is published.
+(43.4) Every international search report and any declaration made under Article 17(2)﻿(a) shall be in the language in which the international application to which it relates is published.
 Citations
 (43.5)
   (a) The international search report shall contain the citations of the documents considered to be relevant.
@@ -1447,17 +1447,17 @@ Fields Searched
   (b) If the international search extended to patents, inventors' certificates, utility certificates, utility models, patents or certificates of addition, inventors' certificates of addition, utility certificates of addition, or published applications for any of those kinds of protection, of States, periods, or languages, not included in the minimum documentation as defined in Rule 34, the international search report shall, when practicable, identify the kinds of documents, the States, the periods, and the languages to which it extended. For the purposes of this paragraph, Article 2(ii) shall not apply.
   (c) If the international search was based on, or was extended to, any electronic data base, the international search report may indicate the name of the data base and, where considered useful to others and practicable, the search terms used.
 Remarks Concerning Unity of Invention
-(43.7) If the applicant paid additional fees for the international search, the international search report shall so indicate. Furthermore, where the international search was made on the main invention only or on less than all the inventions (Article 17(3)(a)), the international search report shall indicate what parts of the international application were and what parts were not searched.
+(43.7) If the applicant paid additional fees for the international search, the international search report shall so indicate. Furthermore, where the international search was made on the main invention only or on less than all the inventions (Article 17(3)﻿(a)), the international search report shall indicate what parts of the international application were and what parts were not searched.
 Authorised Officer
 (43.8) The international search report shall indicate the name of the officer of the International Searching Authority responsible for that report.
 Additional Matter
-(43.9) The international search report shall contain no matter other than that specified in Rules 33.1(b) and (c), 43.1 to 43.3, 43.5 to 43.8, and 44.2(a), and the indication referred to in Article 17(2)(b), provided that the Administrative Instructions may permit the inclusion in the international search report of any additional matter specified in the Administrative Instructions. The international search report shall not contain, and the Administrative Instructions shall not permit the inclusion of, any expressions of opinion, reasoning, arguments, or explanations.
+(43.9) The international search report shall contain no matter other than that specified in Rules 33.1(b) and (c), 43.1 to 43.3, 43.5 to 43.8, and 44.2(a), and the indication referred to in Article 17(2)﻿(b), provided that the Administrative Instructions may permit the inclusion in the international search report of any additional matter specified in the Administrative Instructions. The international search report shall not contain, and the Administrative Instructions shall not permit the inclusion of, any expressions of opinion, reasoning, arguments, or explanations.
 Form
 (43.10) The physical requirements as to the form of the international search report shall be prescribed by the Administrative Instructions.
 
 ### Rule 44 Transmittal of the International Search Report, Etc
 Copies of Report or Declaration
-(44.1) The International Searching Authority shall, on the same day, transmit one copy of the international search report or the declaration referred to in Article 17(2)(a) to the International Bureau and one copy to the applicant.
+(44.1) The International Searching Authority shall, on the same day, transmit one copy of the international search report or the declaration referred to in Article 17(2)﻿(a) to the International Bureau and one copy to the applicant.
 Title or Abstract
 (44.2)
   (a) The international search report shall either state that the International Searching Authority approves the title and the abstract as submitted by the applicant or be accompanied by the text of the title and/or abstract as established by the International Searching Authority under Rules 37 and 38.
@@ -1466,13 +1466,13 @@ Title or Abstract
 Copies of Cited Documents
 (44.3)
   (a) The request referred to in Article 20(3) may be presented any time during seven years from the international filing date of the international application to which the international search report relates.
-  (b) The International Searching Authority may require that the party (applicant or designated Office) presenting the request pay to it the cost of preparing and mailing the copies. The level of the cost of preparing copies shall be provided for in the agreements referred to in Article 16(3)(b) between the International Searching Authorities and the International Bureau.
+  (b) The International Searching Authority may require that the party (applicant or designated Office) presenting the request pay to it the cost of preparing and mailing the copies. The level of the cost of preparing copies shall be provided for in the agreements referred to in Article 16(3)﻿(b) between the International Searching Authorities and the International Bureau.
   (c) [Deleted]
   (d) Any International Searching Authority may perform the obligations referred to in paragraphs (a) and (b) through another agency responsible to it.
 
 ### Rule 45 Translation of the International Search Report
 Languages
-(45.1) International search reports and declarations referred to in Article 17(2)(a) shall, when not in English, be translated into English.
+(45.1) International search reports and declarations referred to in Article 17(2)﻿(a) shall, when not in English, be translated into English.
 
 ### Rule 46 Amendment of Claims Before the International Bureau
 Time Limit
@@ -1498,7 +1498,7 @@ Procedure
   (a bis) The International Bureau shall notify each designated Office, at the time of the communication provided for in Article 20, of the fact and date of receipt of the record copy and of the fact and date of receipt of any priority document. Such notification shall also be sent to any designated Office which has waived the communication provided for in Article 20, unless such Office has also waived the notification of its designation.
   (b) Such communication shall be effected promptly after the international publication of the international application and, in any event, by the end of the 19th month after the priority date. Any amendment received by the International Bureau within the time limit under Rule 46.1 which was not included in the communication shall be communicated promptly to the designated Offices by the International Bureau, and the latter shall notify the applicant accordingly.
   (c) The International Bureau shall send a notice to the applicant indicating the designated Offices to which the communication has been effected and the date of such communication. Such notice shall be sent on the same day as the communication. Each designated Office shall be informed, separately from the communication, about the sending and the date of mailing of the notice. The notice shall be accepted by all designated Offices as conclusive evidence that the communication has duly taken place on the date specified in the notice.
-  (d) Each designated Office shall, when it so requires, receive the international search reports and the declarations referred to in Article 17(2)(a) also in the translation referred to in Rule 45.1.
+  (d) Each designated Office shall, when it so requires, receive the international search reports and the declarations referred to in Article 17(2)﻿(a) also in the translation referred to in Rule 45.1.
   (e) Where any designated Office has waived the requirement provided under Article 20, the copies of the documents which otherwise would have been sent to that Office shall, at the request of that Office or the applicant, be sent to the applicant at the time of the notice referred to in paragraph (c).
 Copies
 (47.2)
@@ -1522,7 +1522,7 @@ Contents
     (ii) the description,
     (iii) the claims,
     (iv) the drawings, if any,
-    (v) subject to paragraph (g), the international search report or the declaration under Article 17(2)(a); the publication of the international search report in the pamphlet shall, however, not be required to include the part of the international search report which contains only matter referred to in Rule 43 already appearing on the front page of the pamphlet,
+    (v) subject to paragraph (g), the international search report or the declaration under Article 17(2)﻿(a); the publication of the international search report in the pamphlet shall, however, not be required to include the part of the international search report which contains only matter referred to in Rule 43 already appearing on the front page of the pamphlet,
     (vi) any statement filed under Article 19(1), unless the International Bureau finds that the statement does not comply with the provisions of Rule 46.4,
     (vii) any request for rectification referred to in the third sentence of Rule 91.1(f),
     (viii) any indications in relation to a deposited microorganism furnished under Rule 13 bis separately from the description, together with an indication of the date on which the International Bureau received such indications.
@@ -1530,27 +1530,27 @@ Contents
     (i) data taken from the request sheet and such other data as are prescribed by the Administrative Instructions,
     (ii) a figure or figures where the international application contains drawings, unless Rule 8.2(b) applies,
     (iii) the abstract; if the abstract is both in English and in another language, the English text shall appear first.
-  (c) Where a declaration under Article 17(2)(a) has issued, the front page shall conspicuously refer to that fact and need include neither a drawing nor an abstract.
-  (d) The figure or figures referred to in paragraph (b)(ii) shall be selected as provided in Rule 8.2. Reproduction of such figure or figures on the front page may be in a reduced form.
-  (e) If there is not enough room on the front page for the totality of the abstract referred to in paragraph (b)(iii), the said abstract shall appear on the back of the front page. The same shall apply to the translation of the abstract when such translation is required to be published under Rule 48.3(c).
+  (c) Where a declaration under Article 17(2)﻿(a) has issued, the front page shall conspicuously refer to that fact and need include neither a drawing nor an abstract.
+  (d) The figure or figures referred to in paragraph (b)﻿(ii) shall be selected as provided in Rule 8.2. Reproduction of such figure or figures on the front page may be in a reduced form.
+  (e) If there is not enough room on the front page for the totality of the abstract referred to in paragraph (b)﻿(iii), the said abstract shall appear on the back of the front page. The same shall apply to the translation of the abstract when such translation is required to be published under Rule 48.3(c).
   (f) If the claims have been amended under Article 19, the publication shall contain either the full text of the claims both as filed and as amended or the full text of the claims as filed and specify the amendments. Any statement referred to in Article 19(1) shall be included as well, unless the International Bureau finds that the statement does not comply with the provisions of Rule 46.4. The date of receipt of the amended claims by the International Bureau shall be indicated.
-  (g) If, at the time of the completion of the technical preparations for international publication, the international search report is not yet available (for example, because of publication on the request of the applicant as provided in Articles 21(2)(b) and 64(3)(c)(i), the pamphlet shall contain, in place of the International search report, an indication to the effect that that report was not available and that either the pamphlet (then also including the international search report) will be republished or the international search report (when it becomes available) will be separately published.
+  (g) If, at the time of the completion of the technical preparations for international publication, the international search report is not yet available (for example, because of publication on the request of the applicant as provided in Articles 21(2)﻿(b) and 64(3)﻿(c)﻿(i), the pamphlet shall contain, in place of the International search report, an indication to the effect that that report was not available and that either the pamphlet (then also including the international search report) will be republished or the international search report (when it becomes available) will be separately published.
   (h) If, at the time of the completion of the technical preparations for international publication, the time limit for amending the claims under Article 19 has not expired, the pamphlet shall refer to that fact and indicate that, should the claims be amended under Article 19, then, promptly after such amendments, either the pamphlet (containing the claims as amended) will be republished or a statement reflecting all the amendments will be published. In the latter case, at least the front page and the claims shall be republished and, if a statement under Article 19(1) has been filed, that statement shall be published as well, unless the International Bureau finds that the statement does not comply with the provisions of Rule 46.4.
   (i) The Administrative Instructions shall determine the cases in which the various alternatives referred to in paragraphs (g) and (h) shall apply. Such determination shall depend on the volume and complexity of the amendments and/or the volume of the international application and the cost factors.
 Languages
 (48.3)
   (a) If the international application is filed in English, French, German, Japanese, Russian or Spanish, that application shall be published in the language in which it was filed.
-  (b) If the international application is filed in a language other than English, French, German, Japanese, Russian or Spanish, that application shall be published in English translation. The translation shall be prepared under the responsibility of the International Searching Authority, which shall be obliged to have it ready in time to permit international publication by the prescribed date, or, where Article 64(3)(b) applies, to permit the communication under Article 20 by the end of the 19th month after the priority date. Notwithstanding Rule 16.1(a), the International Searching Authority may charge a fee for the translation to the applicant. The International Searching Authority shall give the applicant an opportunity to comment on the draft translation. The International Searching Authority shall fix a time limit reasonable under the circumstances of the case for such comments. If there is no time to take the comments of the applicant into account before the translation is communicated or if there is a difference of opinion between the applicant and the said Authority as to the correct translation, the applicant may send a copy of his comments, or what remains of them, to the International Bureau and each designated Office to which the translation was communicated. The International Bureau shall publish the essence of the comments together with the translation of the International Searching Authority or subsequently to the publication of such translation.
-  (c) If the International application is published in a language other than English, the international search report to the extent that it is published under Rule 48.2(a)(v), or the declaration referred to in Article 17(2)(a), the title of the invention, the abstract and any text matter pertaining to the figure or figures accompanying the abstract shall be published both in that language and in English. The translations shall be prepared under the responsibility of the International Bureau.
+  (b) If the international application is filed in a language other than English, French, German, Japanese, Russian or Spanish, that application shall be published in English translation. The translation shall be prepared under the responsibility of the International Searching Authority, which shall be obliged to have it ready in time to permit international publication by the prescribed date, or, where Article 64(3)﻿(b) applies, to permit the communication under Article 20 by the end of the 19th month after the priority date. Notwithstanding Rule 16.1(a), the International Searching Authority may charge a fee for the translation to the applicant. The International Searching Authority shall give the applicant an opportunity to comment on the draft translation. The International Searching Authority shall fix a time limit reasonable under the circumstances of the case for such comments. If there is no time to take the comments of the applicant into account before the translation is communicated or if there is a difference of opinion between the applicant and the said Authority as to the correct translation, the applicant may send a copy of his comments, or what remains of them, to the International Bureau and each designated Office to which the translation was communicated. The International Bureau shall publish the essence of the comments together with the translation of the International Searching Authority or subsequently to the publication of such translation.
+  (c) If the International application is published in a language other than English, the international search report to the extent that it is published under Rule 48.2(a)﻿(v), or the declaration referred to in Article 17(2)﻿(a), the title of the invention, the abstract and any text matter pertaining to the figure or figures accompanying the abstract shall be published both in that language and in English. The translations shall be prepared under the responsibility of the International Bureau.
 Earlier Publication on the Applicant's Request
 (48.4)
-  (a) Where the applicant asks for publication under Articles 21(2)(b) and 64(3)(c)(i) and the international search report, or the declaration referred to in Article 17(2)(a), is not yet available for publication together with the international application, the International Bureau shall collect a special publication fee whose amount shall be fixed in the Administrative Instructions.
-  (b) Publication under Articles 21(2)(b) and 64(3)(c)(i) shall be effected by the International Bureau promptly after the applicant has asked for it and, where a special fee is due under paragraph (a), after receipt of such fee.
+  (a) Where the applicant asks for publication under Articles 21(2)﻿(b) and 64(3)﻿(c)﻿(i) and the international search report, or the declaration referred to in Article 17(2)﻿(a), is not yet available for publication together with the international application, the International Bureau shall collect a special publication fee whose amount shall be fixed in the Administrative Instructions.
+  (b) Publication under Articles 21(2)﻿(b) and 64(3)﻿(c)﻿(i) shall be effected by the International Bureau promptly after the applicant has asked for it and, where a special fee is due under paragraph (a), after receipt of such fee.
 Notification of National Publication
-(48.5) Where the publication of the international application by the International Bureau is governed by Article 64(3)(c)(ii), the national Office concerned shall, promptly after effecting the national publication referred to in the said provision, notify the International Bureau of the fact of such national publication.
+(48.5) Where the publication of the international application by the International Bureau is governed by Article 64(3)﻿(c)﻿(ii), the national Office concerned shall, promptly after effecting the national publication referred to in the said provision, notify the International Bureau of the fact of such national publication.
 Announcing of Certain Facts
 (48.6)
-  (a) If any notification under Rule 29.1(a)(ii) reaches the International Bureau at a time later than that at which it was able to prevent the international publication of the international application, the International Bureau shall promptly publish a notice in the Gazette reproducing the essence of such notification.
+  (a) If any notification under Rule 29.1(a)﻿(ii) reaches the International Bureau at a time later than that at which it was able to prevent the international publication of the international application, the International Bureau shall promptly publish a notice in the Gazette reproducing the essence of such notification.
   (b) [Deleted]
   (c) If the international application, the designation of any designated State or the priority claim is withdrawn under Rule 90 bis after the technical preparations for international publication have been completed, notice of the withdrawal shall be published in the Gazette.
 
@@ -1566,8 +1566,8 @@ Notification
   (c) If the requirements under paragraph (a) change later, such changes shall be notified by the Contracting State to the International Bureau and that Bureau shall promptly publish the notification in the Gazette. If the change means that translation is required into a language which, before the change, was not required, such change shall be effective only with respect to international applications filed later than two months after the publication of the notification in the Gazette. Otherwise, the effective date of any change shall be determined by the Contracting State.
 Languages
 (49.2) The language into which translation may be required must be an official language of the designated Office. If there are several of such languages, no translation may be required if the international application is in one of them. If there are several official languages and a translation must be furnished, the applicant may choose any of those languages. Notwithstanding the foregoing provisions of this paragraph, if there are several official languages but the national law prescribes the use of one such language for foreigners, a translation into that language may be required.
-Statements under Article 19; Indications under Rule 13 bis.4
-(49.3) For the purposes of Article 22 and the present Rule, any statement made under Article 19(1) and any indication furnished under Rule 13 bis.4 shall, subject to Rule 49.5(c) and (h), be considered part of the international application.
+Statements under Article 19; Indications under Rule 13 bis﻿.﻿4
+(49.3) For the purposes of Article 22 and the present Rule, any statement made under Article 19(1) and any indication furnished under Rule 13 bis﻿.﻿4 shall, subject to Rule 49.5(c) and (h), be considered part of the international application.
 Use of National Form
 (49.4) No applicant shall be required to use a national form when performing the acts referred to in Article 22.
 Contents of and Physical Requirements for the Translation
@@ -1578,12 +1578,12 @@ Contents of and Physical Requirements for the Translation
     (iii) be accompanied by a copy of the drawings.
   (b) Any designated Office requiring the furnishing of a translation of the request shall furnish copies of the request form in the language of the translation free of charge to the applicants. The form and contents of the request form in the language of the translation shall not be different from those of the request under Rules 3 and 4; in particular, the request form in the language of the translation shall not ask for any information that is not in the request as filed. The use of the request form in the language of the translation shall be optional.
   (c) Where the applicant did not furnish a translation of any statement made under Article 19(1), the designated Office may disregard such statement.
-  (c bis) Where the applicant furnishes, to a designated Office which requires under paragraph (a)(ii) a translation of both the claims as filed and the claims as amended, only one of the required two translations, the designated Office may disregard the claims of which a translation has not been furnished or invite the applicant to furnish the missing translation within a time limit which shall be reasonable under the circumstances and shall be fixed in the invitation. Where the designated Office chooses to invite the applicant to furnish the missing translation and the latter is not furnished within the time limit fixed in the invitation, the designated Office may disregard those claims of which a translation has not been furnished or consider the international application withdrawn.
+  (c bis) Where the applicant furnishes, to a designated Office which requires under paragraph (a)﻿(ii) a translation of both the claims as filed and the claims as amended, only one of the required two translations, the designated Office may disregard the claims of which a translation has not been furnished or invite the applicant to furnish the missing translation within a time limit which shall be reasonable under the circumstances and shall be fixed in the invitation. Where the designated Office chooses to invite the applicant to furnish the missing translation and the latter is not furnished within the time limit fixed in the invitation, the designated Office may disregard those claims of which a translation has not been furnished or consider the international application withdrawn.
   (d) If any drawing contains text matter, the translation of that text matter shall be furnished either in the form of a copy of the original drawing with the translation pasted on the original text matter or in the form of a drawing executed anew.
   (e) Any designated Office requiring under paragraph (a) the furnishing of a copy of the drawings shall, where the applicant failed to furnish such copy within the time limit applicable under Article 22, invite the applicant to furnish such copy within a time limit which shall be reasonable under the circumstances and shall be fixed in the invitation.
   (f) The expression Fig. does not require translation into any language.
   (g) Where any copy of the drawings or any drawing executed anew which has been furnished under paragraph (d) or (e) does not comply with the physical requirements referred to in Rule 11, the designated Office may invite the applicant to correct the defect within a time limit which shall be reasonable under the circumstances and shall be fixed in the invitation.
-  (h) Where the applicant did not furnish a translation of the abstract or of any indication furnished under Rule 13 bis.4, the designated Office shall invite the applicant to furnish such translation, if it deems it to be necessary, within a time limit which shall be reasonable under the circumstances and shall be fixed in the invitation.
+  (h) Where the applicant did not furnish a translation of the abstract or of any indication furnished under Rule 13 bis﻿.﻿4, the designated Office shall invite the applicant to furnish such translation, if it deems it to be necessary, within a time limit which shall be reasonable under the circumstances and shall be fixed in the invitation.
   (i) Information on any requirement and practice of designated Offices under the second sentence of paragraph (a) shall be published by the International Bureau in the Gazette.
   (j) No designated Office shall require that the translation of the international application comply with physical requirements other than those prescribed for the international application as filed.
   (k) Where a title has been established by the International Searching Authority pursuant to Rule 37.2, the translation shall contain the title as established by that Authority.
@@ -1599,16 +1599,16 @@ Exercise of Faculty
 
 ### Rule 51 Review by Designated Offices
 Time Limit for Presenting the Request to Send Copies
-(51.1) The time limit referred to in Article 25(1)(c) shall be two months computed from the date of the notification sent to the applicant under Rules 20.7(i), 24.2(c), 29.1(a)(ii), or 29.1(b).
+(51.1) The time limit referred to in Article 25(1)﻿(c) shall be two months computed from the date of the notification sent to the applicant under Rules 20.7(i), 24.2(c), 29.1(a)﻿(ii), or 29.1(b).
 Copy of the Notice
 (51.2) Where the applicant, after having received a negative determination under Article 11(1), requests the international Bureau, under Article 25(1), to send copies of the file of the purported international application to any of the named Offices he has attempted to designate, he shall attach to his request a copy of the notice referred to in Rule 20.7(i).
 Time Limit for Paying National Fee and Furnishing Translation
-(51.3) The time limit referred to in Article 25(2)(a) shall expire at the same time as the time limit prescribed in Rule 51.1.
+(51.3) The time limit referred to in Article 25(2)﻿(a) shall expire at the same time as the time limit prescribed in Rule 51.1.
 
 ### Rule 51 bis Certain National Requirements Allowed under Article 27(1), (2), (6) and (7)
 Certain National Requirements Allowed
-(51 bis .1)
-  (a) The documents referred to in Article 27(2)(ii), or the evidence referred to in Article 27(6), which the applicant may be required to furnish under the national law applicable by the designated Office include, in particular:
+(51 bis ﻿.﻿1)
+  (a) The documents referred to in Article 27(2)﻿(ii), or the evidence referred to in Article 27(6), which the applicant may be required to furnish under the national law applicable by the designated Office include, in particular:
     (i) any document relating to the identity of the inventor,
     (ii) any document relating to any transfer or assignment of the right to the application,
     (iii) any document containing an oath or declaration by the inventor alleging his inventorship,
@@ -1619,11 +1619,11 @@ Certain National Requirements Allowed
     (i) the applicant be represented by an agent having the right to represent applicants before that Office and/or have an address in the designated State for the purpose of receiving notifications,
     (ii) the agent, if any, representing the applicant be duly appointed by the applicant.
   (c) The national law applicable by the designated Office may, in accordance with Article 27(1), require that the international application, the translation thereof or any document relating thereto be furnished in more than one copy.
-  (d) The national law applicable by the designated Office may, in accordance with Article 27(2)(ii), require that the translation of the international application furnished by the applicant under Article 22 be verified by the applicant or the person having translated the international application in a statement to the effect that, to the best of his knowledge, the translation is complete and faithful.
+  (d) The national law applicable by the designated Office may, in accordance with Article 27(2)﻿(ii), require that the translation of the international application furnished by the applicant under Article 22 be verified by the applicant or the person having translated the international application in a statement to the effect that, to the best of his knowledge, the translation is complete and faithful.
 Opportunity to Comply with National Requirements
-(51 bis .2)
-  (a) Where any of the requirements referred to in Rule 51 bis.1, or any other requirement of the national law applicable by the designated Office which that Office may apply under Article 27(1), (2), (6) or (7), is not already fulfilled during the same period within which the requirements under Article 22 must be complied with, the applicant shall have an opportunity to comply with the requirement after the expiration of that period.
-  (b) The national law applicable by the designated Office may, in accordance with Article 27(2)(ii), require that the applicant, upon invitation by the designated Office, furnish a certification of the translation of the international application by a public authority or a sworn translator, if the designated Office deems such certification to be necessary under the circumstances, within a time limit which shall be reasonable under the circumstances and shall be fixed in the invitation.
+(51 bis ﻿.﻿2)
+  (a) Where any of the requirements referred to in Rule 51 bis﻿.﻿1, or any other requirement of the national law applicable by the designated Office which that Office may apply under Article 27(1), (2), (6) or (7), is not already fulfilled during the same period within which the requirements under Article 22 must be complied with, the applicant shall have an opportunity to comply with the requirement after the expiration of that period.
+  (b) The national law applicable by the designated Office may, in accordance with Article 27(2)﻿(ii), require that the applicant, upon invitation by the designated Office, furnish a certification of the translation of the international application by a public authority or a sworn translator, if the designated Office deems such certification to be necessary under the circumstances, within a time limit which shall be reasonable under the circumstances and shall be fixed in the invitation.
 
 ### Rule 52 Amendment of the Claims, the Description, and the Drawings, before Designated Offices
 Time Limit
@@ -1679,7 +1679,7 @@ Residence and Nationality
 Two or More Applicants
 (54.2) If there are two or more applicants, the right to make a demand under Article 31(2) shall exist if at least one of the applicants making the demand is
   (i) a resident or national of a Contracting State bound by Chapter II and the international application has been filed with a receiving Office of or acting for a Contracting State bound by Chapter II, or
-  (ii) a person entitled to make a demand under Article 31(2)(b) and the international application has been filed as provided in the decision of the Assembly.
+  (ii) a person entitled to make a demand under Article 31(2)﻿(b) and the international application has been filed as provided in the decision of the Assembly.
 [Deleted]
 (54.3)
 Applicant Not Entitled to Make a Demand
@@ -1694,13 +1694,13 @@ The Demand
 ### Rule 56 Later Elections
 Elections Submitted Later Than the Demand
 (56.1)
-  (a) The election of States subsequent to the submission of the demand (later election) shall be effected by a notice submitted to the International Bureau. The notice shall identify the international application and the demand, and shall include an indication as referred to in Rule 53.7(b)(ii).
+  (a) The election of States subsequent to the submission of the demand (later election) shall be effected by a notice submitted to the International Bureau. The notice shall identify the international application and the demand, and shall include an indication as referred to in Rule 53.7(b)﻿(ii).
   (b) Subject to paragraph (c), the notice referred to in paragraph (a) shall be signed by the applicant for the elected States concerned or, if there is more than one applicant for those States, by all of them.
   (c) Where two or more applicants file a notice effecting a later election of a State whose national law requires that national applications be filed by the inventor and where an applicant for that elected State who is an inventor refused to sign the notice or could not be found or reached after diligent effort, the notice need not be signed by that applicant (the applicant concerned) if it is signed by at least one applicant and
     (i) a statement is furnished explaining, to the satisfaction of the International Bureau, the lack of signature of the applicant concerned, or
     (ii) the applicant concerned did not sign the request but the requirements of Rule 4.15(b) were complied with, or did not sign the demand but the requirements of Rule 53.8(b) were complied with.
   (d) An applicant for a State elected by a later election need not have been indicated as an applicant in the demand.
-  (e) If a notice effecting a later election is submitted after the expiration of 19 months from the priority date, the International Bureau shall notify the applicant that the election does not have the effect provided for under Article 39(1)(a) and that the acts referred to in Article 22 must be performed in respect of the elected Office concerned within the time limit applicable under Article 22.
+  (e) If a notice effecting a later election is submitted after the expiration of 19 months from the priority date, the International Bureau shall notify the applicant that the election does not have the effect provided for under Article 39(1)﻿(a) and that the acts referred to in Article 22 must be performed in respect of the elected Office concerned within the time limit applicable under Article 22.
   (f) If, notwithstanding paragraph (a), a notice effecting a later election is submitted by the applicant to the International Preliminary Examining Authority rather than the International Bureau, that Authority shall mark the date of receipt on the notice and transmit it promptly to the International Bureau. The notice shall be considered to have been submitted to the International Bureau on the date marked.
 Identification of the International Application
 (56.2) The international application shall be identified as provided in Rule 53.6.
@@ -1754,15 +1754,15 @@ Refund
 (58.3) The International Preliminary Examining Authorities shall inform the International Bureau of the extent, if any, to which, and the conditions, if any, under which, they will refund any amount paid as a preliminary examination fee where the demand is considered as if it had not been submitted, and the International Bureau shall promptly publish such information.
 
 ### Rule 59 The Competent International Preliminary Examining Authority
-Demands under Article 31(2)(a)
-(59.1) For demands made under Article 31(2)(a), each receiving Office of or acting for a Contracting State bound by the provisions of Chapter II shall, in accordance with the terms of the applicable agreement referred to in Article 32(2) and (3), inform the International Bureau which International Preliminary Examining Authority is or which International Preliminary Examining Authorities are competent for the international preliminary examination of international applications filed with it. The International Bureau shall promptly publish such information. Where several International Preliminary Examining Authorities are competent, the provisions of Rule 35.2 shall apply mutatis mutandis.
-Demands under Article 31(2)(b)
-(59.2) As to demands made under Article 31(2)(b), the Assembly, in specifying the International Preliminary Examining Authority competent for international applications filed with a national Office which is an International Preliminary Examining Authority, shall give preference to that Authority; if the national Office is not an International Preliminary Examining Authority, the Assembly shall give preference to the International Preliminary Examining Authority recommended by that Office.
+Demands under Article 31(2)﻿(a)
+(59.1) For demands made under Article 31(2)﻿(a), each receiving Office of or acting for a Contracting State bound by the provisions of Chapter II shall, in accordance with the terms of the applicable agreement referred to in Article 32(2) and (3), inform the International Bureau which International Preliminary Examining Authority is or which International Preliminary Examining Authorities are competent for the international preliminary examination of international applications filed with it. The International Bureau shall promptly publish such information. Where several International Preliminary Examining Authorities are competent, the provisions of Rule 35.2 shall apply mutatis mutandis.
+Demands under Article 31(2)﻿(b)
+(59.2) As to demands made under Article 31(2)﻿(b), the Assembly, in specifying the International Preliminary Examining Authority competent for international applications filed with a national Office which is an International Preliminary Examining Authority, shall give preference to that Authority; if the national Office is not an International Preliminary Examining Authority, the Assembly shall give preference to the International Preliminary Examining Authority recommended by that Office.
 
 ### Rule 60 Certain Defects in the Demand or Elections
 Defects in the Demand
 (60.1)
-  (a) If the demand does not comply with the requirements specified in Rules 53.1, 53.2(a)(i) to (iv), 53.2(b), 53.3 to 53.8 and 55, the International Preliminary Examining Authority shall invite the applicant to correct the defects within a time limit which shall be reasonable under the circumstances. That time limit shall not be less than one month from the date of the invitation. It may be extended by the International Preliminary Examining Authority at any time before a decision is taken.
+  (a) If the demand does not comply with the requirements specified in Rules 53.1, 53.2(a)﻿(i) to (iv), 53.2(b), 53.3 to 53.8 and 55, the International Preliminary Examining Authority shall invite the applicant to correct the defects within a time limit which shall be reasonable under the circumstances. That time limit shall not be less than one month from the date of the invitation. It may be extended by the International Preliminary Examining Authority at any time before a decision is taken.
   (b) If the applicant complies with the invitation within the time limit under paragraph (a), the demand shall be considered as if it had been received on the actual filing date, provided that the demand as submitted contained at least one election and permitted the international application to be identified; otherwise, the demand shall be considered as if it had been received on the date on which the International Preliminary Examining Authority receives the correction.
   (c) Subject to paragraph (d), if the applicant does not comply with the invitation within the time limit under paragraph (a), the demand shall be considered as if it had not been submitted.
   (d) Where, after the expiration of the time limit under paragraph (a), a signature required under Rule 53.8 or a prescribed indication is lacking in respect of an applicant for a certain elected State, the election of that State shall be considered as if it had not been made.
@@ -1836,7 +1836,7 @@ Basis of the International Preliminary Examination
   (e) Claims relating to inventions in respect of which no international search report has been established need not be the subject of international preliminary examination.
 First Written Opinion of the International Preliminary Examining Authority
 (66.2)
-  (a) If the International Preliminary Examining Authoritythe said Authority shall notify the applicant accordingly in writing. Where the national law of the national Office acting as International Preliminary Examining Authority does not allow multiple dependent claims to be drafted in a manner different from that provided for in the second and third sentences of Rule 6.4(a), the International Preliminary Examining Authority may, in case of failure to use that manner of claiming, apply Article 34(4)(b). In such case, it shall notify the applicant accordingly in writing.
+  (a) If the International Preliminary Examining Authoritythe said Authority shall notify the applicant accordingly in writing. Where the national law of the national Office acting as International Preliminary Examining Authority does not allow multiple dependent claims to be drafted in a manner different from that provided for in the second and third sentences of Rule 6.4(a), the International Preliminary Examining Authority may, in case of failure to use that manner of claiming, apply Article 34(4)﻿(b). In such case, it shall notify the applicant accordingly in writing.
     (i) considers that any of the situations referred to in Article 34(4) exists,
     (ii) considers that the international preliminary examination report should be negative in respect of any of the claims because the invention claimed therein does not appear to be novel, does not appear to involve an inventive step (does not appear to be non-obvious), or does not appear to be industrially applicable,
     (iii) notices that there is some defect in the form or contents of the international application under the Treaty or these Regulations,
@@ -1872,7 +1872,7 @@ Form of Amendments
 Language of Amendments
 (66.9) If the international application has been filed in a language other than the language in which it is published, any amendment, as well as any letter referred to in Rule 66.8(a), shall be submitted in the language of publication.
 
-### Rule 67 Subject Matter under Article 34(4)(a)(i)
+### Rule 67 Subject Matter under Article 34(4)﻿(a)﻿(i)
 Definition
 (67.1) No International Preliminary Examining Authority shall be required to carry out an international preliminary examination on an international application if, and to the extent to which, its subject matter is any of the following:
   (i) scientific and mathematical theories,
@@ -1884,27 +1884,27 @@ Definition
 
 ### Rule 68 Lack of unity of invention (international preliminary examination)
 No Invitation to Restrict or Pay
-(68.1) Where the International Preliminary Examining Authority finds that the requirement of unity of invention is not complied with and chooses not to invite the applicant to restrict the claims or to pay additional fees, it shall proceed with the international preliminary examination, subject to Article 34(4)(b) and Rule 66.1(e) in respect of the entire international application, but shall indicate, in any written opinion and in the international preliminary examination report, that it considers that the requirement of unity of invention is not fulfilled and it shall specify the reasons therefor.
+(68.1) Where the International Preliminary Examining Authority finds that the requirement of unity of invention is not complied with and chooses not to invite the applicant to restrict the claims or to pay additional fees, it shall proceed with the international preliminary examination, subject to Article 34(4)﻿(b) and Rule 66.1(e) in respect of the entire international application, but shall indicate, in any written opinion and in the international preliminary examination report, that it considers that the requirement of unity of invention is not fulfilled and it shall specify the reasons therefor.
 Invitation to Restrict or Pay
 (68.2) Where the International Preliminary Examining Authority finds that the requirement of unity of invention is not compiled with and chooses to invite the applicant, at his option, to restrict the claims or to pay additional fees, it shall specify at least one possibility of restriction which, in the opinion of the International Preliminary Examining Authority, would be in compliance with the applicable requirement, and shall specify the amount of the additional fees and the reasons for which the international application is not considered as complying with the requirement of unity of invention. It shall, at the same time, fix a time limit, with regard to the circumstances of the case, for complying with the invitation; such time limit shall not be shorter than one month, and it shall not be longer than two months, from the date of the invitation.
 Additional Fees
 (68.3)
-  (a) The amount of the additional fee due for international preliminary examination under Article 34(3)(a) shall be determined by the competent International Preliminary Examining Authority.
-  (b) The additional fee due for international preliminary examination under Article 34(3)(a) shall be payable direct to the International Preliminary Examining Authority.
+  (a) The amount of the additional fee due for international preliminary examination under Article 34(3)﻿(a) shall be determined by the competent International Preliminary Examining Authority.
+  (b) The additional fee due for international preliminary examination under Article 34(3)﻿(a) shall be payable direct to the International Preliminary Examining Authority.
   (c) Any applicant may pay the additional fee under protest, that is, accompanied by a reasoned statement to the effect that the international application complies with the requirement of unity of invention or that the amount of the required additional fee is excessive. Such protest shall be examined by a three-member board or other special instance of the International Preliminary Examining Authority, or any competent higher authority, which, to the extent that it finds the protest justified, shall order the total or partial reimbursement to the applicant of the additional fee. On the request of the applicant, the text of both the protest and the decision thereon shall be notified to the elected Offices as an annex to the international preliminary examination report.
   (d) The three-member board, special instance or competent higher authority, referred to in paragraph (c), shall not comprise any person who made the decision which is the subject of the protest.
   (e) Where the applicant has, under paragraph (c), paid an additional fee under protest, the International Preliminary Examining Authority may, after a prior review of the justification for the invitation to pay an additional fee, require that the applicant pay a fee for the examination of the protest (protest fee). The protest fee shall be paid within one month from the date of the notification to the applicant of the result of the review. If the protest fee is not so paid, the protest shall be considered withdrawn. The protest fee shall be refunded to the applicant where the three-member board, special instance or higher authority referred to in paragraph (c) finds that the protest was entirely justified.
 Procedure in the Case of Insufficient Restriction of the Claims
-(68.4) If the applicant restricts the claims but not sufficiently to comply with the requirement of unity of invention, the International Preliminary Examining Authority shall proceed as provided in Article 34(3)(c).
+(68.4) If the applicant restricts the claims but not sufficiently to comply with the requirement of unity of invention, the International Preliminary Examining Authority shall proceed as provided in Article 34(3)﻿(c).
 Main Invention
-(68.5) In case of doubt which invention is the main invention for the purposes of Article 34(3)(c), the invention first mentioned in the claims shall be considered the main invention.
+(68.5) In case of doubt which invention is the main invention for the purposes of Article 34(3)﻿(c), the invention first mentioned in the claims shall be considered the main invention.
 
 ### Rule 69 Start of and Time Limit for International Preliminary Examination
 Start of International Preliminary Examination
 (69.1)
-  (a) Subject to paragraphs (b) to (e), the International Preliminary Examining Authority shall start the international preliminary examination when it is in possession both of the demand and of either the international search report or a notice of the declaration by the International Searching Authority under Article 17(2)(a) that no international search report will be established.
+  (a) Subject to paragraphs (b) to (e), the International Preliminary Examining Authority shall start the international preliminary examination when it is in possession both of the demand and of either the international search report or a notice of the declaration by the International Searching Authority under Article 17(2)﻿(a) that no international search report will be established.
   (b) If the competent International Preliminary Examining Authority is part of the same national Office or intergovernmental organisation as the competent International Searching Authority, the international preliminary examination may, if the International Preliminary Examining Authority so wishes and subject to paragraph (d), start at the same time as the international search.
-  (c) Where the statement concerning amendments contains an indication that amendments under Article 19 are to be taken into account (Rule 53.9(a)(i)), the International Preliminary Examining Authority shall not start the international preliminary examination before it has received a copy of the amendments concerned.
+  (c) Where the statement concerning amendments contains an indication that amendments under Article 19 are to be taken into account (Rule 53.9(a)﻿(i)), the International Preliminary Examining Authority shall not start the international preliminary examination before it has received a copy of the amendments concerned.
   (d) Where the statement concerning amendments contains an indication that the start of the international preliminary examination is to be postponed (Rule 53.9(b)), the International Preliminary Examining Authority shall not start the international preliminary examination beforewhichever occurs first.
     (i) it has received a copy of any amendments made under Article 19,
     (ii) it has received a notice from the applicant that he does not wish to make amendments under Article 19, or
@@ -1955,12 +1955,12 @@ Mention of Amendments
 (70.11) If, before the International Preliminary Examining Authority, amendments have been made, this fact shall be indicated in the report. Where any amendment has resulted in the cancellation of an entire sheet, this fact shall also be specified in the report.
 Mention of Certain Defects and Other Matters
 (70.12) If the International Preliminary Examining Authority considers that, at the time it prepares the report:
-  (i) the international application contains any of the defects referred to in Rule 66.2(a)(iii), it shall include this opinion and the reasons therefor in the report;
-  (ii) the international application calls for any of the observations referred to in Rule 66.2(a)(v), it may include this opinion in the report and, if it does, it shall also indicate in the report the reasons for such opinion;
+  (i) the international application contains any of the defects referred to in Rule 66.2(a)﻿(iii), it shall include this opinion and the reasons therefor in the report;
+  (ii) the international application calls for any of the observations referred to in Rule 66.2(a)﻿(v), it may include this opinion in the report and, if it does, it shall also indicate in the report the reasons for such opinion;
   (iii) any of the situations referred to in Article 34(4) exists, it shall state this opinion and the reasons therefore in the report;
   (iv) a nucleotide and/or amino acid sequence listing is not available to it in such a form that a meaningful international preliminary examination can be carried out, it shall so state in the report.
 Remarks Concerning Unity of Invention
-(70.13) If the applicant paid additional fees for the international preliminary examination, or if the international application or the international preliminary examination was restricted under Article 34(3), the report shall so indicate. Furthermore, where the international preliminary examination was carried out on restricted claims (Article 34(3)(a)), or on the main invention only (Article 34(3)(c)), the report shall indicate what parts of the international application were and what parts were not the subject of international preliminary examination. The report shall contain the indications provided for in Rule 68.1, where the International Preliminary Examining Authority chose not to invite the applicant to restrict the claims or to pay additional fees.
+(70.13) If the applicant paid additional fees for the international preliminary examination, or if the international application or the international preliminary examination was restricted under Article 34(3), the report shall so indicate. Furthermore, where the international preliminary examination was carried out on restricted claims (Article 34(3)﻿(a)), or on the main invention only (Article 34(3)﻿(c)), the report shall indicate what parts of the international application were and what parts were not the subject of international preliminary examination. The report shall contain the indications provided for in Rule 68.1, where the International Preliminary Examining Authority chose not to invite the applicant to restrict the claims or to pay additional fees.
 Authorised Officer
 (70.14) The report shall indicate the name of the officer of the International Preliminary Examining Authority responsible for that report.
 Form
@@ -1994,13 +1994,13 @@ Observations on the Translation
 
 ### Rule 73 Communication of the International Preliminary Examination Report
 Preparation of Copies
-(73.1) The International Bureau shall prepare the copies of the documents to be communicated under Article 36(3)(a).
+(73.1) The International Bureau shall prepare the copies of the documents to be communicated under Article 36(3)﻿(a).
 Time Limit for Communication
-(73.2) The communication provided for in Article 36(3)(a) shall be effected as promptly as possible but not earlier than the communication under Article 20.
+(73.2) The communication provided for in Article 36(3)﻿(a) shall be effected as promptly as possible but not earlier than the communication under Article 20.
 
 ### Rule 74 Translations of Annexes of the International Preliminary Examination Report and Transmittal Thereof
 Content of Translation and Time Limit for Transmittal Thereof
-(74.1) Where the furnishing of a translation of the international application is required by the elected Office under Article 39(1), the applicant shall, within the time limit applicable under Article 39(1), transmit a translation of any replacement sheet referred to in Rule 70.16 which is annexed to the international preliminary examination report. The same time limit shall apply where the furnishing of a translation of the international application to the elected Office must, because of a declaration made under Article 64(2)(a)(i), be elected within the time limit applicable under Article 22.
+(74.1) Where the furnishing of a translation of the international application is required by the elected Office under Article 39(1), the applicant shall, within the time limit applicable under Article 39(1), transmit a translation of any replacement sheet referred to in Rule 70.16 which is annexed to the international preliminary examination report. The same time limit shall apply where the furnishing of a translation of the international application to the elected Office must, because of a declaration made under Article 64(2)﻿(a)﻿(i), be elected within the time limit applicable under Article 22.
 
 ### Rule 75
 [Deleted]
@@ -2023,10 +2023,10 @@ Application of Rules 22.1(g), 49 and 51 bis
 Transitional Provision
 (76.6) If, on July 12, 1991, Rule 76.5(iv) is not compatible with the national law applied by the elected Office in respect of claims amended under Article 19, Rule 76.5(iv) shall not apply in that respect to that elected Office for as long as it continues not to be compatible with that law, provided that the said Office informs the International Bureau accordingly by December 31, 1991. The information received shall be promptly published by the International Bureau in the Gazette.
 
-### Rule 77 Faculty under Article 39(1)(b)
+### Rule 77 Faculty under Article 39(1)﻿(b)
 Exercise of Faculty
 (77.1)
-  (a) Any Contracting State allowing a time limit expiring later than the time limit provided for in Article 39(1)(a) shall notify the International Bureau of the time limit so fixed.
+  (a) Any Contracting State allowing a time limit expiring later than the time limit provided for in Article 39(1)﻿(a) shall notify the International Bureau of the time limit so fixed.
   (b) Any notification received by the International Bureau under paragraph (a) shall be promptly published by the International Bureau in the Gazette.
   (c) Notifications concerning the shortening of the previously fixed time limit shall be effective in relation to demands submitted after the expiration of three months computed from the date on which the notification was published by the International Bureau.
   (d) Notifications concerning the lengthening of the previously fixed time limit shall become effective upon publication by the International Bureau in the Gazette in respect of demands pending at the time or submitted after the date of such publication, or, if the Contracting State effecting the notification fixes some later date, as from the latter date.
@@ -2034,7 +2034,7 @@ Exercise of Faculty
 ### Rule 78 Amendment of the Claims, the Description, and the Drawings, before Elected Offices
 Time Limit Where Election is Effected prior to Expiration of 19 Months from Priority Date
 (78.1)
-  (a) Where the election of any Contracting State is effected prior to the expiration of the 19th month from the priority date, the applicant shall, if he so wishes, exercise the right under Article 41 to amend the claims, the description and the drawings, before the elected Office concerned within one month from the fulfilment of the requirements under Article 39(1)(a), provided that, if the transmittal of the international preliminary examination report under Article 36(1) has not taken place by the expiration of the time limit applicable under Article 39, he shall exercise the said right not later than four months after such expiration date. In either case, the applicant may exercise the said right at any other time if so permitted by the national law of the said State.
+  (a) Where the election of any Contracting State is effected prior to the expiration of the 19th month from the priority date, the applicant shall, if he so wishes, exercise the right under Article 41 to amend the claims, the description and the drawings, before the elected Office concerned within one month from the fulfilment of the requirements under Article 39(1)﻿(a), provided that, if the transmittal of the international preliminary examination report under Article 36(1) has not taken place by the expiration of the time limit applicable under Article 39, he shall exercise the said right not later than four months after such expiration date. In either case, the applicant may exercise the said right at any other time if so permitted by the national law of the said State.
   (b) In any elected State in which the national law provides that examination starts only on special request, the national law may provide that the time limit within or the time at which the applicant may exercise the right under Article 41 shall, where the election of any Contracting State is effected prior to the expiration of the 19th month from the priority date, be the same as that provided by the national law for the filing of amendments in the case of the examination, on special request, of national applications, provided that such time limit shall not expire prior to, or such time shall not come before, the expiration of the time limit applicable under paragraph (a).
 Time Limit Where Election Is Effected after Expiration of 19 Months from Priority Date
 (78.2) Where the election of any Contracting State has been effected after the expiration of the 19th month from the priority date and the applicant wishes to make amendments under Article 41, the time limit for making amendments under Article 28 shall apply.
@@ -2101,16 +2101,16 @@ Interruption in the Mail Service
 
 ### Rule 82 bis Excuse by the Designated or Elected State of Delays in Meeting Certain Time Limits
 Meaning of Time Limit in Article 48(2)
-(82 bis.1) The reference to any time limit in Article 48(2) shall be construed as comprising a reference:
+(82 bis﻿.﻿1) The reference to any time limit in Article 48(2) shall be construed as comprising a reference:
   (i) to any time limit fixed in the Treaty or these Regulations;
   (ii) to any time limit fixed by the receiving Office, the International Searching Authority, the International Preliminary Examining Authority or the International Bureau or applicable by the receiving Office under its national law;
   (iii) to any time limit fixed by, or in the national law applicable by, the designated or elected Office, for the performance of any act by the applicant before that Office.
 Reinstatement of Rights and Other Provisions to Which Article 48(2) Applies
-(82 bis.2) The provisions of the national law which is referred to in Article 48(2) concerning the excusing, by the designated or elected State, of any delay in meeting any time limit are those provisions which provide for reinstatement of rights, restoration, restitutio in integrum or further processing in spite of non-compliance with a time limit, and any other provision providing for the extension of time limits or for excusing delays in meeting time limits.
+(82 bis﻿.﻿2) The provisions of the national law which is referred to in Article 48(2) concerning the excusing, by the designated or elected State, of any delay in meeting any time limit are those provisions which provide for reinstatement of rights, restoration, restitutio in integrum or further processing in spite of non-compliance with a time limit, and any other provision providing for the extension of time limits or for excusing delays in meeting time limits.
 Rectification of errors made by the receiving Office or by the International Bureau
 (Rule 82 ter)
 Errors Concerning the International Filing Date and the Priority Claim
-(82 ter.1) If the applicant proves to the satisfaction of any designated or elected Office that the international filing date is incorrect due to an error made by the receiving Office or that the declaration made under Article 8(1) has been erroneously cancelled or corrected by the receiving Office or the International Bureau, and if the error is an error such that, had it been made by the designated or elected Office itself, that Office would rectify it under the national law or national practice, the said Office shall rectify the error and shall treat the international application as if it had been accorded the rectified international filing date or as if the declaration under Article 8(1) had not been cancelled or corrected, as the case may be.
+(82 ter﻿.﻿1) If the applicant proves to the satisfaction of any designated or elected Office that the international filing date is incorrect due to an error made by the receiving Office or that the declaration made under Article 8(1) has been erroneously cancelled or corrected by the receiving Office or the International Bureau, and if the error is an error such that, had it been made by the designated or elected Office itself, that Office would rectify it under the national law or national practice, the said Office shall rectify the error and shall treat the international application as if it had been accorded the rectified international filing date or as if the declaration under Article 8(1) had not been cancelled or corrected, as the case may be.
 
 ### Rule 83 Right to Practice Before International Authorities
 Proof of Right
@@ -2126,7 +2126,7 @@ Expenses Borne by Governments
 
 ### Rule 85 Absence of Quorum in the Assembly
 Voting by Correspondence
-(85.1) In the case provided for in Article 53(5)(b), the International Bureau shall communicate the decisions of the Assembly (other than those concerning the Assembly's own procedure) to the Contracting States which were not represented and shall invite them to express in writing their vote or abstention within a period of three months from the date of the communication. If, at the expiration of that period, the number of Contracting States having thus expressed their vote or abstention attains the number of Contracting States which was lacking for attaining the quorum in the session itself, such decisions shall take effect provided that at the same time the required majority still obtains.
+(85.1) In the case provided for in Article 53(5)﻿(b), the International Bureau shall communicate the decisions of the Assembly (other than those concerning the Assembly's own procedure) to the Contracting States which were not represented and shall invite them to express in writing their vote or abstention within a period of three months from the date of the communication. If, at the expiration of that period, the number of Contracting States having thus expressed their vote or abstention attains the number of Contracting States which was lacking for attaining the quorum in the session itself, such decisions shall take effect provided that at the same time the required majority still obtains.
 
 ### Rule 86 The Gazette
 Contents
@@ -2170,10 +2170,10 @@ Requirement of Unanimity
 [Deleted]
 (88.2)
 Requirement of Absence of Opposition by Certain States
-(88.3) Amendment of the following provisions of these Regulations shall require that no State referred to in Article 58(3)(a)(ii) and having the right to vote in the Assembly vote against the proposed amendment:
+(88.3) Amendment of the following provisions of these Regulations shall require that no State referred to in Article 58(3)﻿(a)﻿(ii) and having the right to vote in the Assembly vote against the proposed amendment:
   (i) Rule 34 (Minimum Documentation),
-  (ii) Rule 39 (Subject Matter under Article 17(2)(a)(i)),
-  (iii) Rule 67 (Subject Matter under Article 34(4)(a)(i)),
+  (ii) Rule 39 (Subject Matter under Article 17(2)﻿(a)﻿(i)),
+  (iii) Rule 67 (Subject Matter under Article 34(4)﻿(a)﻿(i)),
   (iv) the present paragraph (ie, Rule 88.3.
 Procedure
 (88.4) Any proposal for amending a provision referred to in Rules 88.1 or 88.3 shall, if the proposal is to be decided upon in the Assembly, be communicated to all Contracting States at least two months prior the opening of that session of the Assembly which is called upon to make a decision on the proposal.
@@ -2212,18 +2212,18 @@ Effects of Acts by or in Relation to Agents and Common Representatives
 (90.3)
   (a) Any act by or in relation to an agent shall have the effect of an act by or in relation to the applicant or applicants concerned.
   (b) If there are two or more agents representing the same applicant or applicants, any act by or in relation to any of those agents shall have the effect of an act by or in relation to the said applicant or applicants.
-  (c) Subject to Rule 90 bis.5(a), second sentence, any act by or in relation to a common representative or his agent shall have the effect of an act by or in relation to all the applicants.
+  (c) Subject to Rule 90 bis﻿.﻿5(a), second sentence, any act by or in relation to a common representative or his agent shall have the effect of an act by or in relation to all the applicants.
 Manner of Appointment of Agent or Common Representative
 (90.4)
   (a) The appointment of an agent shall be effected by the applicant signing the request, the demand or a separate power of attorney. Where there are two or more applicants, the appointment of a common agent or common representative shall be effected by each applicant signing, at his choice, the request, the demand or a separate power of attorney.
-  (b) Subject to Rule 90.5, a separate power of attorney shall be submitted to either the receiving Office or the International Bureau, provided that, where a power of attorney appoints an agent under Rule 90.1(b), (c) or (d)(ii), it shall be submitted to the International Searching Authority or the International Preliminary Examining Authority, as the case may be.
+  (b) Subject to Rule 90.5, a separate power of attorney shall be submitted to either the receiving Office or the International Bureau, provided that, where a power of attorney appoints an agent under Rule 90.1(b), (c) or (d)﻿(ii), it shall be submitted to the International Searching Authority or the International Preliminary Examining Authority, as the case may be.
   (c) If the separate power of attorney is not signed, or if the required separate power of attorney is missing, or if the indication of the name or address of the appointed person does not comply with Rule 4.4, the power of attorney shall be considered non-existent unless the defect is corrected.
 General Power of Attorney
 (90.5)
   (a) Appointment of an agent in relation to a particular international application may be effected by referring in the request, the demand or a separate notice to an existing separate power of attorney appointing that agent to represent the applicant in relation to any international application which may be filed by that applicant (ie, a general power of attorney), provided that:
     (i) the general power of attorney has been deposited in accordance with paragraph (b), and
     (ii) a copy of it is attached to the request, the demand or the separate notice, as the case may be; that copy need not be signed.
-  (b) The general power of attorney shall be deposited with the receiving Office, provided that, where it appoints an agent under Rule 90.1(b), (c) or (d)(ii), it shall be deposited with the International Searching Authority or the International Preliminary Examining Authority, as the case may be.
+  (b) The general power of attorney shall be deposited with the receiving Office, provided that, where it appoints an agent under Rule 90.1(b), (c) or (d)﻿(ii), it shall be deposited with the International Searching Authority or the International Preliminary Examining Authority, as the case may be.
 Revocation and Renunciation
 (90.6)
   (a) Any appointment of an agent or common representative may be revoked by the persons who made the appointment or by their successors in title, in which case any appointment of a sub-agent under Rule 90.1(d) by that agent shall also be considered as revoked. Any appointment of a sub-agent under Rule 90.1(d) may also be revoked by the applicant concerned.
@@ -2234,44 +2234,44 @@ Revocation and Renunciation
 
 ### Rule 90 bis Withdrawals
 Withdrawal of the International Application
-(90 bis.1)
+(90 bis﻿.﻿1)
   (a) The applicant may withdraw the international application at any time prior to the expiration of 20 months from the priority date or, where Article 39(1) applies, prior to the expiration of 30 months from the priority date.
   (b) Withdrawal shall be effective on receipt of a notice addressed by the applicant, at his option, to the International Bureau, to the receiving Office or, where Article 39(1) applies, to the International Preliminary Examining Authority.
   (c) No international publication of the international application shall be effected if the notice of withdrawal sent by the applicant or transmitted by the receiving Office or the International Preliminary Examining Authority reaches the International Bureau before the technical preparations for international publication have been completed.
 Withdrawal of Designations
-(90 bis.2)
-  (a) The applicant may withdraw the designation of any designated State at any time before the expiration of 20 months from the priority date or, where Article 39(1) applies in respect of that State, prior to the expiration of 30 months from the priority date. Withdrawal of the designation of a State which has been elected shall entail withdrawal of the corresponding election under Rule 90 bis.4.
+(90 bis﻿.﻿2)
+  (a) The applicant may withdraw the designation of any designated State at any time before the expiration of 20 months from the priority date or, where Article 39(1) applies in respect of that State, prior to the expiration of 30 months from the priority date. Withdrawal of the designation of a State which has been elected shall entail withdrawal of the corresponding election under Rule 90 bis﻿.﻿4.
   (b) Where a State has been designated for the purpose of obtaining both a national patent and a regional patent, withdrawal of the designation for designation of that State shall be taken to mean withdrawal of only the designation for the purpose of obtaining a national patent, except where otherwise indicated.
-  (c) Withdrawal of the designations of all designated States shall be treated as withdrawal of the international application under Rule 90 bis.1
+  (c) Withdrawal of the designations of all designated States shall be treated as withdrawal of the international application under Rule 90 bis﻿.﻿1
   (d) Withdrawal shall be effective on receipt of a notice addressed by the applicant, at his option, to the International Bureau, to the receiving Office or, where Article 39(1) applies, to the International Preliminary Examining Authority.
   (e) No international publication of the designation shall be effected if the notice of withdrawal sent by the applicant or transmitted by the receiving Office or the International Preliminary Examining Authority reaches the International Bureau before the technical preparations for international publication have been completed.
 Withdrawal of Priority Claim
-(90 bis.3)
+(90 bis﻿.﻿3)
   (a) The applicant may withdraw a priority claim, made in the international application under Article 8(1), at any time prior to the expiration of 20 months from the priority date or, where Article 39(1) applies, 30 months from the priority date.
   (b) Where the international application contains more than one priority claim, the applicant may exercise the right provided for in paragraph (a) in respect of one or more or all of the priority claims.
   (c) Withdrawal shall be effective on receipt of a notice addressed by the applicant, at his option, to the International Bureau, to the receiving Office or, where Article 39(1) applies, to the International Preliminary Examining Authority.
   (d) Where the withdrawal of a priority claim causes a change in the priority date, any time limit which is computed from the original priority date and which has not already expired shall, subject to paragraph (e), be computed from the priority date resulting from that change.
-  (e) In the case of the time limit referred to in Article 21(2)(a), the International Bureau may nevertheless proceed with the international publication on the basis of the said time limit as computed from the original priority date if the notice of withdrawal sent by the applicant or transmitted by the receiving Office or the International Preliminary Examining Authority reaches the International Bureau after the completion of the technical preparations for international publication.
+  (e) In the case of the time limit referred to in Article 21(2)﻿(a), the International Bureau may nevertheless proceed with the international publication on the basis of the said time limit as computed from the original priority date if the notice of withdrawal sent by the applicant or transmitted by the receiving Office or the International Preliminary Examining Authority reaches the International Bureau after the completion of the technical preparations for international publication.
 Withdrawal of the Demand or of Elections
-(90 bis.4)
+(90 bis﻿.﻿4)
   (a) The applicant may withdraw the demand or any or all elections at any time before the expiration of 30 months from the priority date.
   (b) Withdrawal shall be effective upon receipt of a notice addressed by the applicant to the International Bureau.
   (c) If the notice of withdrawal is submitted by the applicant to the International Preliminary Examining Authority, that Authority shall mark the date of receipt on the notice and transmit it promptly to the International Bureau. The notice shall be considered to have been submitted to the International Bureau on the date marked.
 Signature
-(90 bis.5)
-  (a) Any notice of withdrawal referred to in Rules 90 bis.1 to 90 bis.4 shall, subject to paragraph (b), be signed by the applicant. Where one of the applicants is considered to be the common representative under Rule 90.2(b), such notice shall, subject to paragraph (b), require the signature of all the applicants.
-  (b) Where two or more applicants file an international application which designates a State whose national law requires that national applications be filed by the inventor and where an applicant for that designated State who is an inventor could not be found or reached after diligent effort, a notice of withdrawal referred to in Rules 90 bis.1 to 90 bis.4 need not be signed by that applicant (the applicant concerned) if it is signed by at least one applicant and
+(90 bis﻿.﻿5)
+  (a) Any notice of withdrawal referred to in Rules 90 bis﻿.﻿1 to 90 bis﻿.﻿4 shall, subject to paragraph (b), be signed by the applicant. Where one of the applicants is considered to be the common representative under Rule 90.2(b), such notice shall, subject to paragraph (b), require the signature of all the applicants.
+  (b) Where two or more applicants file an international application which designates a State whose national law requires that national applications be filed by the inventor and where an applicant for that designated State who is an inventor could not be found or reached after diligent effort, a notice of withdrawal referred to in Rules 90 bis﻿.﻿1 to 90 bis﻿.﻿4 need not be signed by that applicant (the applicant concerned) if it is signed by at least one applicant and
     (i) a statement is furnished explaining, to the satisfaction of the receiving Office, the International Bureau or the International Preliminary Examining Authority, as the case may be, the lack of signature of the applicant concerned, or
-    (ii) in the case of a notice of withdrawal referred to in Rule 90 bis.1(b), 90 bis.2(d), or 90 bis.3(c), the applicant concerned did not sign the request but the requirements of Rule 4.15(b) were complied with, or
-    (iii) in the case of a notice of withdrawal referred to in Rule 90 bis.4(b), the applicant concerned did not sign the demand but the requirements of Rule 53.8(b) were complied with, or did not sign the later election concerned but the requirements of Rule 56.1(c) were complied with.
+    (ii) in the case of a notice of withdrawal referred to in Rule 90 bis﻿.﻿1(b), 90 bis﻿.﻿2(d), or 90 bis﻿.﻿3(c), the applicant concerned did not sign the request but the requirements of Rule 4.15(b) were complied with, or
+    (iii) in the case of a notice of withdrawal referred to in Rule 90 bis﻿.﻿4(b), the applicant concerned did not sign the demand but the requirements of Rule 53.8(b) were complied with, or did not sign the later election concerned but the requirements of Rule 56.1(c) were complied with.
 Effect of Withdrawal
-(90 bis.6)
+(90 bis﻿.﻿6)
   (a) Withdrawal under Rule 90 bis of the international application, any designation, any priority claim, the demand or any election shall have no effect in any designated or elected Office where the processing or examination of the international application has already started under Article 23(2) or Article 40(2).
-  (b) Where the international application is withdrawn under Rule 90 bis.1, the international processing of the international application shall be discontinued.
-  (c) Where the demand or all elections are withdrawn under Rule 90 bis.4, the processing of the international application by the International Preliminary Examining Authority shall be discontinued.
-Faculty under Article 37(4)(b)
-(90 bis.7)
-  (a) Any Contracting State whose national law provides for what is described in the second part of Article 37(4)(b) shall notify the International Bureau in writing.
+  (b) Where the international application is withdrawn under Rule 90 bis﻿.﻿1, the international processing of the international application shall be discontinued.
+  (c) Where the demand or all elections are withdrawn under Rule 90 bis﻿.﻿4, the processing of the international application by the International Preliminary Examining Authority shall be discontinued.
+Faculty under Article 37(4)﻿(b)
+(90 bis﻿.﻿7)
+  (a) Any Contracting State whose national law provides for what is described in the second part of Article 37(4)﻿(b) shall notify the International Bureau in writing.
   (b) The notification referred to in paragraph (a) shall be promptly published by the International Bureau in the Gazette, and shall have effect in respect of international applications filed more than one month after the date of such publication.
 
 ### Rule 91 Obvious Errors in Documents
@@ -2291,9 +2291,9 @@ Rectification
     (i) where it is given by the receiving Office or by the International Searching Authority, if its notification to the International Bureau reaches that Bureau before the expiration of 17 months from the priority date;
     (ii) where it is given by the International Preliminary Examining Authority, if it is given before the establishment of the international preliminary examination report;
     (iii) where it is given by the International Bureau, if it is given before the expiration of 17 months from the priority date.
-  (g bis) If the notification made under paragraph (g)(i) reaches the International Bureau, or if the rectification made under paragraph (g)(iii) is authorized by the International Bureau, after the expiration of 17 months from the priority date but before the technical preparations for international publication have been completed, the authorization shall be effective and the rectification shall be incorporated in the said publication.
-  (g ter) Where the applicant has asked the International Bureau to publish his international application before the expiration of 18 months from the priority date, any notification made under paragraph (g)(i) must reach, and any rectification made under paragraph (g)(iii) must be authorized by, the International Bureau, in order for the authorization to be effective, not later than at the time of the completion of the technical preparations for international publication.
-  (g quater) Where the international application is not published by virtue of Article 64(3), any notification made under paragraph (g)(i) must reach, and any rectification made under paragraph (g)(iii) must be authorized by, the International Bureau, in order for the authorization to be effective, not later than at the time of the communication of the international application under Article 20.
+  (g bis) If the notification made under paragraph (g)﻿(i) reaches the International Bureau, or if the rectification made under paragraph (g)﻿(iii) is authorized by the International Bureau, after the expiration of 17 months from the priority date but before the technical preparations for international publication have been completed, the authorization shall be effective and the rectification shall be incorporated in the said publication.
+  (g ter) Where the applicant has asked the International Bureau to publish his international application before the expiration of 18 months from the priority date, any notification made under paragraph (g)﻿(i) must reach, and any rectification made under paragraph (g)﻿(iii) must be authorized by, the International Bureau, in order for the authorization to be effective, not later than at the time of the completion of the technical preparations for international publication.
+  (g quater) Where the international application is not published by virtue of Article 64(3), any notification made under paragraph (g)﻿(i) must reach, and any rectification made under paragraph (g)﻿(iii) must be authorized by, the International Bureau, in order for the authorization to be effective, not later than at the time of the communication of the international application under Article 20.
 
 ### Rule 92 Correspondence
 Need for Letter and for Signature
@@ -2319,21 +2319,21 @@ Use of Telegraph, Teleprinter, Facsimile Machine, Etc
   (e) Where the applicant fails to furnish the original of a document as required under paragraph (d), the national Office or intergovernmental organization concerned may, depending on the kind of document transmitted and having regard to Rules 11 and 26.3,provided that, where the document transmitted contains defects, or shows that the original contains defects, in respect of which the national Office or intergovernmental organization may issue an invitation to correct, that Office or organization may issue such an invitation in addition to, or instead of, proceeding under item (i) or (ii).
     (i) waive the requirement under paragraph (d), or
     (ii) invite the applicant to furnish, within a time limit which shall be reasonable under the circumstances and shall be fixed in the invitation, the original of the document transmitted,
-  (f) Where the furnishing of the original of a document is not required under paragraph (d) but the national Office or intergovernmental organization considers it necessary to receive the original of the said document, it may issue an invitation as provided for under paragraph (e)(ii).
-  (g) If the applicant fails to comply with an invitation under paragraph (e)(ii) or (f):
+  (f) Where the furnishing of the original of a document is not required under paragraph (d) but the national Office or intergovernmental organization considers it necessary to receive the original of the said document, it may issue an invitation as provided for under paragraph (e)﻿(ii).
+  (g) If the applicant fails to comply with an invitation under paragraph (e)﻿(ii) or (f):
     (i) where the document concerned is the international application, the latter shall be considered withdrawn and the receiving Office shall so declare;
     (ii) where the document concerned is a document subsequent to the international application, the document shall be considered as not having been submitted.
   (h) No national Office or intergovernmental organization shall be obliged to receive any document submitted by a means referred to in paragraph (a) unless it has notified the International Bureau that it is prepared to receive such a document by that means and the International Bureau has published information thereon in the Gazette.
 
 ### Rule 92 bis Recording of Changes in Certain Indications in the Request or the Demand
 Recording of Changes by the International Bureau
-(92 bis.1)
+(92 bis﻿.﻿1)
   (a) The International Bureau shall, on the request of the applicant or the receiving Office, record changes in the following indications appearing in the request or demand:
     (i) person, name, residence, nationality or address of the applicant,
     (ii) person, name or address of the agent, the common representative or the inventor.
   (b) The International Bureau shall not record the requested change if the request for recording is received by it after the expiration:
     (i) of the time limit referred to in Article 22(1), where Article 39(1) is not applicable with respect to any Contracting State;
-    (ii) of the time limit referred to in Article 39(1)(a), where Article 39(1) is applicable with respect to at least one Contracting State.
+    (ii) of the time limit referred to in Article 39(1)﻿(a), where Article 39(1) is applicable with respect to at least one Contracting State.
 
 ### Rule 93 Keeping of Records and Files
 The Receiving Office
