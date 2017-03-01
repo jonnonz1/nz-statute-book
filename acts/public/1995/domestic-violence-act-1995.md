@@ -1,5 +1,5 @@
 # Domestic Violence Act 1995
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > An Act to provide greater protection from domestic violence
 
@@ -22,7 +22,7 @@ In this Act, unless the context otherwise requires,—
   - **child of the applicant’s family** means a child who ordinarily or periodically resides with the applicant (whether or not the child is a child of the applicant and the respondent or of either of them)
   - **contact** has the meaning given to it by section 8 of the Care of Children Act 2004
   - **country** includes any State, territory, province, or other part of a country
-  - **court** means a Family Court or a District Court; and includes a Judge of any such court
+  - **court** means the Family Court or the District Court; and includes a Judge of any such court
   - **day-to-day care** has the meaning given to it by section 8 of the Care of Children Act 2004
   - **domestic relationship** means one of the relationships set out in section 4(1)
   - **domestic violence** has the meaning set out in section 3
@@ -827,7 +827,7 @@ Any person aged 16 years or over who is or has been in a domestic relationship w
 
 ### 54 Effect of occupation order
 (1) The person in whose favour an occupation order is made is entitled, to the exclusion of the person against whom the order is made, to personally occupy the dwellinghouse to which the order relates, together with any land, buildings, or improvements appurtenant to that dwellinghouse which are used, or ordinarily would be used, for the purposes of a household.
-(2) An occupation order is enforceable as if it were an order for the recovery of land made pursuant to section 31(1)﻿(d) of the District Courts Act 1947.
+(2) An occupation order is enforceable as if it were an order for the recovery of land made pursuant to section 79(2)﻿(c) of the District Court Act 2016.
 
 ### 55 Power to vary or discharge occupation order
 (1) On the application of either party, or of the personal representative of either party, the court may, if it thinks fit, make an order—
@@ -1114,7 +1114,7 @@ Sections 11 and 12, so far as applicable and with the necessary modifications, a
     (ii) in any proceedings relating to or arising out of an order made, under this Act, on any such application made on that person’s behalf.
 (2) A lawyer appointed under subsection (1)﻿(c) may call any person as a witness in the proceedings, and may cross-examine witnesses called by any party to the proceedings or by the court.
 (2A) The fees and expenses of a lawyer appointed under subsection (1)﻿(a) or (b) must—
-  (a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (a) be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by the Registrar of the court; and
   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
 (3) The fees and expenses of a lawyer appointed under subsection (1)﻿(c) must—
   (a) be determined in accordance with regulations made under this Act or, if no such regulations are made, by the Registrar of the court; and
@@ -1214,8 +1214,8 @@ Where any person serves a copy of a protection order, or a copy of any order var
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (1) A party to proceedings in which there is made a decision to which subsection (1AA) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
-(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
-(3) On the ex parte application of the appellant, the court appealed from may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(2) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
+(3) On the ex parte application of the appellant, the court appealed from may order that the appellant must not be required under section 126(1) of the District Court Act 2016 to give the Registrar of the High Court security for costs.
 (3A) Subsection (3) overrides subsection (2).
 (4) Subject to section 93, the decision of the High Court on an appeal to that court under this section is final.
 
@@ -1485,10 +1485,10 @@ Sections 47 to 52 of the Privacy Act 1993, so far as applicable and with all nec
 ### 124A Interpretation
 In this Part, unless the context otherwise requires,—
   - **constable** has the meaning given to it by section 4 of the Policing Act 2008
-  - **District Court** includes a Justice or Justices, or a Community Magistrate or Community Magistrates, presiding over a District Court; but does not include a Registrar
+  - **District Court** includes a Justice or Justices, or a Community Magistrate or Community Magistrates, presiding over the District Court; but does not include a Registrar
   - **Police safety order** or means an on-the-spot order issued by a qualified constable under section 124B in the prescribed form
   - **qualified constable** means a constable who is of or above the level of position of sergeant
-  - **Registrar** means any Registrar of a District Court; and includes a Deputy Registrar.
+  - **Registrar** means any Registrar of the District Court; and includes a Deputy Registrar.
 
 ### 124B Qualified constable may issue Police safety order
 (1) A qualified constable may issue an order against a person (person A) who is, or has been, in a domestic relationship with another person (person B) if the constable—
@@ -1577,20 +1577,20 @@ On the issue of an order, and for the period that the order is in force,—
 (2) If this subsection applies, a constable may take the person into custody by—
   (a) using such force as is reasonably necessary; or
   (b) executing a warrant to arrest issued in respect of that person under section 124O(1)﻿(a).
-(3) Where a person has been taken into custody under subsection (2), the constable may apply to a District Court, by making a complaint in the prescribed form, for a direction or an order under section 124N.
-(4) A person who is taken into custody under subsection (2)﻿(a) must be brought before a District Court within 24 hours.
+(3) Where a person has been taken into custody under subsection (2), the constable may apply to the District Court, by making a complaint in the prescribed form, for a direction or an order under section 124N.
+(4) A person who is taken into custody under subsection (2)﻿(a) must be brought before the District Court within 24 hours.
 
 ### 124M Issue of summons where person cannot be brought before District Court within 24 hours
-(1) If a person who is taken into custody under section 124L(2)﻿(a) is not brought before a District Court within 24 hours, that person must, at or before the expiry of that period,—
+(1) If a person who is taken into custody under section 124L(2)﻿(a) is not brought before the District Court within 24 hours, that person must, at or before the expiry of that period,—
   (a) be released; and
-  (b) be served by a constable with a summons requiring him or her to appear before a District Court at the place and time specified in the summons.
+  (b) be served by a constable with a summons requiring him or her to appear before the District Court at the place and time specified in the summons.
 (2) A summons served under subsection (1)﻿(b) must be in the prescribed form.
-(3) If a person who has been served with a summons under subsection (1)﻿(b) does not attend personally at the place and time specified in the summons, a District Court or Registrar may issue a warrant, in the prescribed form, to—
+(3) If a person who has been served with a summons under subsection (1)﻿(b) does not attend personally at the place and time specified in the summons, the District Court or a Registrar may issue a warrant, in the prescribed form, to—
   (a) arrest him or her; and
   (b) bring him or her before the court.
 
 ### 124N Jurisdiction of District Court
-(1) If a District Court presided over by 1 or more Justices, or 1 or more Community Magistrates, is satisfied that a person has refused or failed to comply with a Police safety order, the court may,—
+(1) If the District Court presided over by 1 or more Justices, or 1 or more Community Magistrates, is satisfied that a person has refused or failed to comply with a Police safety order, the court may,—
   (a) if the order has not expired, direct that another order, which is to continue in force for a period not exceeding 5 days specified by the court, be—
     (i) issued against the person in substitution of the earlier order for the safety of the person named in the earlier order; and
     (ii) served by a constable or officer of the court as soon as practicable; or
@@ -1600,7 +1600,7 @@ On the issue of an order, and for the period that the order is in force,—
   (c) if it considers it appropriate in the circumstances to do so,—
     (i) adjourn the proceedings to a specified time and place to enable a District Court Judge to consider whether a temporary protection order should be issued under subsection (2)﻿(b); and
     (ii) make a direction of the kind specified in paragraph (a) or (b), as the case may require.
-(2) If a District Court presided over by a District Court Judge is satisfied that a person has refused or failed to comply with a Police safety order, the Judge may—
+(2) If the District Court presided over by a District Court Judge is satisfied that a person has refused or failed to comply with a Police safety order, the Judge may—
   (a) make a direction of the kind specified in subsection (1)﻿(a) or (b); or
   (b) issue, without application from any person, a temporary protection order under section 14 as if—
     (i) every reference in that section to the respondent were a reference to the person who the Judge is satisfied has refused or failed to comply with the Police safety order (person R); and
@@ -1616,7 +1616,7 @@ On the issue of an order, and for the period that the order is in force,—
 (1) Subsection (2) applies if—
   (a) a person against whom a Police safety order is issued refuses or fails to comply with the order, or any condition of the order; or
   (b) a person who the District Court is satisfied has refused or failed to comply with a Police safety order does not attend personally at the time and place to which proceedings have been adjourned under section 124N(1)﻿(c)﻿(i).
-(2) A District Court or Registrar may issue a warrant in the prescribed form.
+(2) The District Court or a Registrar may issue a warrant in the prescribed form.
 (3) A warrant to arrest a person under this section—
   (a) must be directed either—
     (i) specifically to a constable; or
@@ -1627,10 +1627,10 @@ On the issue of an order, and for the period that the order is in force,—
   (a) must have the warrant with him or her; and
   (b) must produce it on initial entry and, if requested, at any subsequent time; and
   (c) if he or she is not in uniform, produce evidence that he or she is a constable.
-(6) A person who is arrested under this section must, as soon as possible, be brought before a District Court to enable it to exercise its jurisdiction under section 124N.
+(6) A person who is arrested under this section must, as soon as possible, be brought before the District Court to enable it to exercise its jurisdiction under section 124N.
 
 ### 124P Protection order to be issued and served
-(1) Where a District Court makes a temporary protection order under section 124N(2)﻿(b), the Registrar of that court must—
+(1) Where the District Court makes a temporary protection order under section 124N(2)﻿(b), the Registrar of that court must—
   (a) immediately issue the order; and
   (b) wherever practicable, serve a copy of the order on the person against whom the order is made before that person leaves the court.
 (2) For the purpose of subsection (1), the court may direct that the person against whom the order is made be detained in the custody of the court for a period, not exceeding 2 hours, that may be necessary to enable the order to be issued and a copy served on that person.
@@ -1650,18 +1650,18 @@ No action or proceedings may be brought against the Crown or any constable in re
 **Restriction on publication**
 
 ### 125 Restriction of publication of reports of proceedings
-Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act (other than criminal proceedings)—
-  (a) in a Family Court:
+Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a report of any proceedings under this Act (other than criminal proceedings)—
+  (a) in the Family Court:
   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
 
 **Rules and regulations**
 
 ### 126 Rules of court
-(1) In addition to all other powers conferred by the District Courts Act 1947, the Governor-General may from time to time, by Order in Council, make rules—
-  (a) regulating the practice and procedure of District Courts in proceedings under this Act:
+(1) In addition to all other powers conferred by the District Court Act 2016, the Governor-General may from time to time, by Order in Council, make rules—
+  (a) regulating the practice and procedure of the District Court in proceedings under this Act:
   (b) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
-(1A) Rules may be made under section 16A of the Family Courts Act 1980 relating to the practice and procedure of Family Courts in proceedings under this Act.
-(2) Without limiting subsection (1) or section 16A of the Family Courts Act 1980, rules made under either of those provisions may—
+(1A) Rules may be made under section 16A of the Family Court Act 1980 relating to the practice and procedure of the Family Court in proceedings under this Act.
+(2) Without limiting subsection (1) or section 16A of the Family Court Act 1980, rules made under either of those provisions may—
   (a) prescribe the procedure for the service of notices and other documents for the purposes of this Act, and provide for substituted service, and for service to be dispensed with, in such circumstances as are specified in the rules:
   (b) prescribe such forms as are necessary for the purposes of this Act, or authorise any specified person or persons to prescribe or approve forms, and require the use of such forms:
   (c) prescribe circumstances in which applications under this Act may be made without notice, and circumstances in which applications under this Act must be made on notice:
@@ -1673,8 +1673,8 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
   (f) provide that Registrars may exercise specified powers of the court or a Judge:
   (g) prescribe the manner in which a Registrar is to give notice, to a court or appropriate authority of a foreign country, of the variation or cancellation of registration of a foreign protection order:
   (h) make such provision as is necessary or desirable in order to facilitate communications between the Secretary and courts or appropriate authorities in foreign countries for the purposes of Part 5:
-  (i) provide for information about proceedings under this Act to be transferred between courts (whether District Courts, Family Courts, the High Court, the Court of Appeal, or the Supreme Court), including (without limitation) between different courts, or between different divisions of the same court, or between courts exercising civil jurisdiction and courts exercising criminal jurisdiction, or between courts exercising appellate jurisdiction and courts exercising original jurisdiction:
-  (j) apply, with or without modification, provisions of the District Courts Rules 2009.
+  (i) provide for information about proceedings under this Act to be transferred between courts (whether the District Court, the Family Court, the High Court, the Court of Appeal, or the Supreme Court), including (without limitation) between different courts, or between different divisions of the same court, or between courts exercising civil jurisdiction and courts exercising criminal jurisdiction, or between courts exercising appellate jurisdiction and courts exercising original jurisdiction:
+  (j) apply, with or without modification, provisions of the District Court Rules 2014.
 (3)
 
 ### 127 Regulations
