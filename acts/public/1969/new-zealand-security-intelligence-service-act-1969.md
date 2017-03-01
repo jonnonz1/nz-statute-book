@@ -1,5 +1,5 @@
 # New Zealand Security Intelligence Service Act 1969
-_Consolidation as at 2014-12-12_
+_Consolidation as at 2017-03-01_
 
 > An Act to make better provision for the New Zealand Security Intelligence Service
 
@@ -136,7 +136,7 @@ This Act shall bind the Crown.
 (5) Before issuing an intelligence warrant in respect of any matter specified in paragraph (b) of the definition of the term security in section 2(1), the Minister must consult the Minister of Foreign Affairs and Trade about the proposed warrant.
 (6) Every person who is an authorised person under an intelligence warrant or a removal warrant, and every person requested under section 4D(2) to assist an authorised person to give effect to a warrant, is justified in exercising any powers conferred on the person by or under this Act for the purpose of giving effect to the warrant, and in taking, or attempting to take, any reasonable action necessarily involved in giving effect to the warrant, in accordance with the terms and conditions of the warrant; and
   (a) no civil or criminal proceedings shall lie against him by reason of his so doing; and
-  (b) the issue of the warrant shall not be subject to judicial review under Part 1 of the Judicature Amendment Act 1972 or otherwise.
+  (b) the issue of the warrant shall not be subject to judicial review under the Judicial Review Procedure Act 2016 or otherwise.
 (7) Where it is necessary to prove in any proceedings in any court that any person was acting at any time pursuant to an intelligence warrant, it shall not be necessary to produce the warrant to the court, but a certificate by the Attorney-General as to any matters specified in the warrant shall be conclusive evidence as to all such matters so certified.
 (8) Subsection (6) is in addition to and not in derogation of any other enactment relating to the execution of warrants.
 (9) This section shall have effect notwithstanding anything to the contrary in any other Act.
