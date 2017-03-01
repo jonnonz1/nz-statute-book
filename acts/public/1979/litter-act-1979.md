@@ -1,5 +1,5 @@
 # Litter Act 1979
-_Consolidation as at 2014-07-28_
+_Consolidation as at 2017-03-01_
 
 > An Act to make better provision for the abatement and control of litter
 
@@ -108,7 +108,7 @@ Keep New Zealand Beautiful Incorporated shall be the body primarily responsible 
 (4) Every objection shall be made in writing to the territorial authority by which or on behalf of which the notice was issued. The territorial authority shall appoint a time and place for hearing the objection, and shall give reasonable notice of that time and place to the objector who shall be entitled to be present and, if present at that time and place, to be heard.
 (5) The territorial authority may, after hearing an objection, confirm, cancel, or vary the requirements of the notice, and shall, within 14 days after the hearing, give to the objector written notice of its decision.
 (6) Subject to this section, every territorial authority, in hearing any objection under this section, may regulate its own procedure.
-(7) Every objector dissatisfied with the decision of a territorial authority under this section may, within 14 days after receiving any notice under subsection (5), appeal against the decision to a District Court by way of originating application under the rules of that court.
+(7) Every objector dissatisfied with the decision of a territorial authority under this section may, within 14 days after receiving any notice under subsection (5), appeal against the decision to the District Court by way of originating application under the rules of that court.
 (8) The court, on the hearing of the appeal, may confirm or reverse the decision appealed against or make such other order as the case requires, or may refer the matter back, together with its reasons for doing so, to the territorial authority for reconsideration.
 (9) To the extent that any requirements of a notice under subsection (1) is the subject of an objection or appeal under this section, the notice shall be suspended until the objection or appeal is determined.
 (10) Every occupier commits an offence who, having been served with a notice under this section,—
