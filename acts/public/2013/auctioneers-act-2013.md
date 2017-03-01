@@ -1,5 +1,5 @@
 # Auctioneers Act 2013
-_Consolidation as at 2013-12-17_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Auctioneers Act 2013.
@@ -57,7 +57,7 @@ This Act provides for the registration of auctioneers and for related matters, a
   (d) the company is subject to an order suspending or cancelling a licence under section 110 of the Real Estate Agents Act 2008; or
   (e) the company is banned, or subject to a banning order, under section 68 or 69 of the Motor Vehicle Sales Act 2003; or
   (f) the company is in liquidation, receivership, or voluntary administration; or
-  (g) the name of the company has been removed from the register of companies kept under section 360(1)(a) of the Companies Act 1993.
+  (g) the name of the company has been removed from the register of companies kept under section 360(1)﻿(a) of the Companies Act 1993.
 
 **Restriction on who registered auctioneers may engage as auctioneer**
 
@@ -102,7 +102,7 @@ A registered auctioneer must not engage an auctioneer to conduct a sale on the r
 
 ### 11 Refusal of application
 (1) If the Registrar does not accept an application for registration, he or she must give the applicant written notice of the refusal and the reasons for it within 10 working days after the decision is made.
-(2) The applicant has the right, under section 22, to appeal to a District Court against the Registrar's refusal.
+(2) The applicant has the right, under section 22, to appeal to the District Court against the Registrar's refusal.
 
 **Duration of registration**
 
@@ -209,18 +209,18 @@ A certificate signed by the Registrar is sufficient evidence, in the absence of 
 **Appeals against decisions of Registrar**
 
 ### 22 Appeals
-(1) A person may appeal to a District Court against the following decisions of the Registrar:
+(1) A person may appeal to the District Court against the following decisions of the Registrar:
   (a) a refusal to register the person as an auctioneer:
   (b) a decision to cancel the person's registration.
 (2) An appeal must be made by giving notice of appeal no later than 20 working days after the date on which notice of the decision was communicated to the appellant or such further time as the District Court may allow.
-(3) In determining an appeal, a District Court may confirm or reverse the decision of the Registrar.
-(4) A person may appeal to the High Court from a decision by a District Court under this section on a question of law only.
+(3) In determining an appeal, the District Court may confirm or reverse the decision of the Registrar.
+(4) A person may appeal to the High Court from a decision by the District Court under this section on a question of law only.
 (5) However, nothing in this section affects the right of any person to apply for judicial review.
 
 ### 23 Interim order by District Court
-(1) At any time before the final determination of an appeal relating to a registered auctioneer, a District Court may make an interim order suspending the cancellation by the Registrar of any registration.
+(1) At any time before the final determination of an appeal relating to a registered auctioneer, the District Court may make an interim order suspending the cancellation by the Registrar of any registration.
 (2) An interim order may be subject to any conditions that the District Court thinks fit.
-(3) If a District Court makes an interim order, the Registrar of that court must send a copy of the order to the Registrar and the Registrar must immediately amend the register so as to give effect to the order.
+(3) If the District Court makes an interim order, the Registrar of that court must send a copy of the order to the Registrar and the Registrar must immediately amend the register so as to give effect to the order.
 
 **Offences**
 
