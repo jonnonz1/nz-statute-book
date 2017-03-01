@@ -1,5 +1,5 @@
 # Oaths and Declarations Act 1957
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to oaths, affirmations, and declarations
 
@@ -57,7 +57,7 @@ Where by any law in force in New Zealand (whether made before or after the comme
   (c) a notary public; or
   (ca) the Registrar or a Deputy Registrar of the Supreme Court; or
   (d) the Registrar or a Deputy Registrar of the Court of Appeal; or
-  (e) a Registrar or Deputy Registrar of the High Court or a District Court; or
+  (e) a Registrar or Deputy Registrar of the High Court or the District Court; or
   (f) some other person authorised by law to administer an oath; or
   (g) a member of Parliament; or
   (h) a person who—
@@ -134,7 +134,7 @@ The oath in this Act referred to as the official oath shall be in the form follo
 ### 22 By whom oath of allegiance and judicial oath to be taken
 (1) The oath of allegiance and the judicial oath shall be taken by each of the officers named in Schedule 2 as soon as may be after his acceptance of office.
 (2) The oaths to be taken under this section shall be administered by the following persons in such manner as the person administering the oath sees fit to adopt:
-  (a) in the case of the Chief Justice, a Judge of the High Court, or a Master of the High Court, by a Judge of the High Court:
+  (a) in the case of the Chief Justice, a Judge of the High Court, or an Associate Judge of the High Court, by a Judge of the High Court:
   (aaa) in the case of a Judge of the Court Martial, by the Judge Advocate General or a Judge of the High Court:
   (aa) in the case of a Judge of the Employment Court, by a Judge of the High Court or a Judge of the Employment Court:
   (b) in the case of a Judge of the Maori Land Court, by a Judge of the High Court or a Judge of the Maori Land Court:
