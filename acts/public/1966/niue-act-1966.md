@@ -1,5 +1,5 @@
 # Niue Act 1966
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the Government and laws of Niue
 
@@ -487,7 +487,7 @@ Except so far as a contrary intention appears, this Act shall apply to Niue only
 **Commissioners of the Supreme Court**
 
 ### 128 Commissioners of the Supreme Court may be appointed in Niue
-Sections 47 to 49 of the Judicature Act 1908 (relating to Commissioners to administer oaths) shall in New Zealand be construed and operate as if Niue were a place beyond the jurisdiction of the Supreme Court within the meaning of section 47 aforesaid, and Commissioners in Niue may be appointed by a Judge of the Supreme Court accordingly.
+Sections 30 to 32 of the Senior Courts Act 2016 (relating to Commissioners to administer oaths) shall in New Zealand be construed and operate as if Niue were a place beyond the jurisdiction of the Supreme Court within the meaning of section 30 aforesaid, and Commissioners in Niue may be appointed by a Judge of the Supreme Court accordingly.
 
 ## Part 5 — Criminal offences
 
