@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2016-05-13_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -71,7 +71,7 @@ In this Act,—
     (b) law of any convention country, equivalent to an application made in that convention country
   - **court** —
     (a) means the High Court; and
-    (b) for the purposes of sections 126 to 134, and 134T to 134V, includes a District Court or a Judge of that court
+    (b) for the purposes of sections 126 to 134, and 134T to 134V, includes the District Court or a Judge of that court
   - **Customs officer** has the meaning set out in section 135
   - **deceased owner** —
     (a) means a registered owner of any trade mark who has died, whether before or after the commencement of this Act; and
@@ -1066,7 +1066,7 @@ An enforcement officer must, to the extent that is reasonably practicable, promo
 
 ### 134F Enforcement officer or constable may apply for search warrant
 (1) An enforcement officer or a constable may apply for a search warrant to search a place or thing.
-(2) Any District Court Judge, Justice of the Peace, Community Magistrate, or any Registrar of a District Court (not being a constable) (the issuing officer) may, on an application by an enforcement officer or a constable, issue a search warrant to search a place or thing if the issuing officer is satisfied that there are reasonable grounds for believing that—
+(2) Any District Court Judge, Justice of the Peace, Community Magistrate, or any Registrar of the District Court (not being a constable) (the issuing officer) may, on an application by an enforcement officer or a constable, issue a search warrant to search a place or thing if the issuing officer is satisfied that there are reasonable grounds for believing that—
   (a) an offence under this Act has been, or is being, committed at the place or involving the thing; or
   (b) there is at, in, on, over, or under the place or thing, any thing that is—
     (i) evidence of an offence under this Act; or
@@ -1127,9 +1127,9 @@ If it is not possible for the person charged with executing the warrant to have 
   (b) a copy of the text of a warrant, made at the direction of the issuing officer, and endorsed to that effect by the person who made the copy.
 
 ### 134K Retention of documents
-(1) A copy of every written application for a search warrant or, in the case of a verbal application, the written record of the application made by the issuing officer, must be retained at the District Court at which, or the District Court that is closest to the place at which, the application was made, until,—
+(1) A copy of every written application for a search warrant or, in the case of a verbal application, the written record of the application made by the issuing officer must be retained at the office of the District Court at which, or the office of the District Court that is closest to the place at which, the application was made, until,—
   (a) in a case where a search warrant is issued, the completion of any proceedings in respect of which the search warrant may be in issue; and
-  (b) in any other case, the expiry of 2 years after the documents were first retained by the District Court.
+  (b) in any other case, the expiry of 2 years after the documents were first retained by that office of the District Court.
 (2) An applicant to whom a search warrant is issued must retain the warrant, a copy of the application (if made in written form), and all documents tendered by the applicant in support of the application until,—
   (a) in the case of a warrant that is executed, the completion of any proceedings in respect of which the validity of the warrant may be in issue; and
   (b) in any other case, the destruction or transfer of the warrant and other documents is required by the Public Records Act 2005 or any other enactment or rule of law.
@@ -1543,10 +1543,10 @@ The court may, on an application by any person, make an order that—
   (a) be in the prescribed form; and
   (b) specify the Customs officer to whom the person must produce the document; and
   (c) specify a reasonable time and place at which the document must be produced; and
-  (d) be served on the person by—
-    (i) delivering it to him or her in person; or
-    (ii) posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
-    (iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
+  (d) be served on the person—
+    (i) by delivering it to him or her in person; or
+    (ii) by posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
+    (iii) by sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
     (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
 (3) A Customs officer to whom a document is produced for inspection may do 1 or more of the following:
   (a) inspect the document:
@@ -1559,10 +1559,10 @@ The court may, on an application by any person, make an order that—
   (a) be in the prescribed form; and
   (b) specify the Customs officer before whom the person must appear; and
   (c) specify a reasonable time and place at which the person must appear; and
-  (d) be served on the person by—
-    (i) delivering it to him or her in person; or
-    (ii) posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
-    (iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
+  (d) be served on the person—
+    (i) by delivering it to him or her in person; or
+    (ii) by posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
+    (iii) by sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
     (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
 
 ### 155D Customs officer may apply for production order
@@ -1592,7 +1592,7 @@ A Customs officer to whom any document is produced for inspection under an order
 
 ### 155G Issue of search warrants to Customs officers
 (1) A Customs officer may apply for a search warrant to search a place or thing.
-(2) Any District Court Judge, Justice of the Peace, Community Magistrate, or Registrar of a District Court (the issuing officer) may, on an application by a Customs officer, issue a warrant if the issuing officer is satisfied that there are reasonable grounds for believing that there is in, on, over, or under the place or thing any thing that is evidence of, or of significant relevance to the investigation of, an offence against any of sections 120 to 124 in respect of imported goods.
+(2) Any District Court Judge, Justice of the Peace, Community Magistrate, or Registrar of the District Court (the issuing officer) may, on an application by a Customs officer, issue a warrant if the issuing officer is satisfied that there are reasonable grounds for believing that there is in, on, over, or under the place or thing any thing that is evidence of, or of significant relevance to the investigation of, an offence against any of sections 120 to 124 in respect of imported goods.
 (3) Sections 134G to 134S apply with all necessary modifications in respect of every search warrant applied for and issued under this section.
 (4) Sections 134T to 134W apply with all necessary modifications in respect of any thing seized under a search warrant issued under this section, and in applying those provisions every reference to the chief executive must be read as a reference to the chief executive of the New Zealand Customs Service.
 
