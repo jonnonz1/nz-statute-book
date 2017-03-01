@@ -1,5 +1,5 @@
 # Agricultural Compounds and Veterinary Medicines Act 1997
-_Consolidation as at 2016-11-08_
+_Consolidation as at 2017-03-01_
 
 > An Act to reform and restate the law relating to agricultural compounds, and to repeal—athe Stock Foods Act 1946; andbthe Fertilisers Act 1960; andcthe Animal Remedies Act 1967; anddthe Fertilisers Act 1982
 
@@ -1297,7 +1297,7 @@ If an ACVM officer has issued a prohibition notice under section 65, any ACVM of
   (d) revoke, or from time to time vary, any condition to which it is subject.
 
 ### 68 Appeals against prohibition notices
-(1) Any person affected by a prohibition notice issued under section 65, or any variation of that notice, may, within 14 days after the notice being issued or the variation being given, appeal against it to a District Court on the grounds that it is unreasonable.
+(1) Any person affected by a prohibition notice issued under section 65, or any variation of that notice, may, within 14 days after the notice being issued or the variation being given, appeal against it to the District Court on the grounds that it is unreasonable.
 (2) The court must inquire into the circumstances of the prohibition notice or variation, and may vary, rescind, or confirm it.
 (3) An appeal against a prohibition notice, or variation of that notice, does not operate as a stay of the notice or variation.
 
