@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -157,7 +157,7 @@ _Consolidation as at 2016-10-18_
   (c) the appropriate aeronautical authorities of another State that is party to an agreement with the Government of New Zealand or the Civil Aviation Authority for New Zealand which provides for the acceptance of each other's registrations.
 (2) No aircraft shall be registered in or remain registered in New Zealand if it is registered in any other country.
 (3) The Director may decline to register any aircraft in accordance with the provisions of rules made under this Act.
-(4) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 66.
+(4) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 66.
 
 ### 7 Requirement for aviation document
 (1) Rules made under this Act may require that an aviation document shall be required by or in respect of all or any of the following:
@@ -182,7 +182,7 @@ _Consolidation as at 2016-10-18_
   (s) any person who is an aviation examiner or medical examiner.
 (2) The requirements, standards, and application procedure for each aviation document, and the maximum period for which each document may be issued, shall be prescribed by rules made under this Act.
 (3) Subject to any rules made under this Act, an aviation document may be issued by the Director for such specified period and subject to such conditions as the Director considers appropriate in each particular case.
-(4) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 66.
+(4) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 66.
 
 ### 8 Application for aviation document
 (1) Every application for the grant or renewal of an aviation document shall be made to the Director in the prescribed form or, if there is no prescribed form, in such form as the Director may require.
@@ -204,7 +204,7 @@ _Consolidation as at 2016-10-18_
   (c) it is not contrary to the interests of aviation safety for the document to be granted or renewed.
 (2) For the purpose of granting or renewing an aviation document, the Director may, subject to any provisions in the rules, accept such foreign qualifications or recognise such foreign certifications as he or she considers appropriate in each case.
 (3) It shall be a condition of every current aviation document that the holder and any person who has or is likely to have control over the exercise of the privileges under the document continue to satisfy the fit and proper person test specified in subsection (1)﻿(b)﻿(ii).
-(4) Where the Director declines to grant an application for the grant or renewal of an aviation document under this section, the applicant may appeal against that decision to a District Court under section 66.
+(4) Where the Director declines to grant an application for the grant or renewal of an aviation document under this section, the applicant may appeal against that decision to the District Court under section 66.
 
 ### 10 Criteria for fit and proper person test
 (1) For the purpose of determining whether or not a person is a fit and proper person for any purpose under this Act, the Director shall, having regard to the degree and nature of the person's proposed involvement in the New Zealand civil aviation system, have regard to, and give such weight as the Director considers appropriate to, the following matters:
@@ -364,7 +364,7 @@ As soon as practicable after giving a New Zealand temporary stop notice to the h
 (3) If, after the process referred to in subsection (2) has been properly completed, the Director is satisfied that, in the interests of Australian and New Zealand civil aviation safety, the holder should no longer exercise ANZA privileges, the Director may—
   (a) amend the New Zealand AOC with ANZA privileges:
   (b) withdraw the privileges attaching to the AOC.
-(4) Any person in respect of whom a decision is taken under subsection (3) may appeal against that decision to a District Court under section 66.
+(4) Any person in respect of whom a decision is taken under subsection (3) may appeal against that decision to the District Court under section 66.
 
 ### 11J Delegation of Australian powers relating to Australian AOCs with ANZA privileges to employees of Authority
 An employee of the Authority may, subject to any directions from the Director of CASA, perform any function or exercise any power delegated to that employee under the Civil Aviation Act 1988 (Aust) for the purpose of enabling that employee to perform the function or exercise the power in New Zealand in respect of Australian AOCs with ANZA privileges.
@@ -483,7 +483,7 @@ The Minister may direct the Civil Aviation Authority or Maritime New Zealand, or
 (4A) If notice of a proposed revocation of an aviation document, or notice of the proposed imposition of permanent conditions, is given in accordance with section 11, either at the same time as the suspension of the document under this section is imposed or while the suspension is in force, the document to which the notice relates remains suspended until the Director finally decides whether to revoke the document or to impose permanent conditions on the document under section 18.
 (5) Any person whose aviation document has been suspended or made subject to conditions under subsection (4) shall forthwith produce that document to the Director for appropriate endorsement.
 (6) The whole or any part of an aviation document may be suspended under this section.
-(7) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 66.
+(7) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 66.
 
 ### 18 Power to revoke aviation document or impose conditions
 (1) The Director may, if he or she considers it necessary in the interests of aviation safety after an inspection, monitoring, or investigation carried out under this Act, revoke an aviation document or impose permanent conditions on an aviation document.
@@ -495,7 +495,7 @@ The Minister may direct the Civil Aviation Authority or Maritime New Zealand, or
 (4) A person whose aviation document is revoked or made subject to permanent conditions under this section must,—
   (a) if the document is made subject to permanent conditions or revoked in part, immediately produce the document to the Director for appropriate endorsement:
   (b) if the whole document is revoked, immediately surrender the document to the Director.
-(5) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 66.
+(5) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 66.
 
 ### 19 Criteria for action taken under section 17 or section 18
 (1) The provisions of this section shall apply for the purpose of determining whether an aviation document should be suspended or made subject to conditions under section 17 or revoked or made subject to conditions under section 18.
@@ -544,7 +544,7 @@ The Minister may direct the Civil Aviation Authority or Maritime New Zealand, or
   (c) detain particular aircraft or seize particular aeronautical products where necessary in order to prevent their operation or use.
 (3) Any detention or seizure under subsection (1) or subsection (2) shall be maintained for only such time as is necessary in the interest of safety; but, if aircraft, aeronautical products, or parts thereof are required for the purpose of evidence in any prosecution under this Act those aircraft, products, or parts thereof may be retained by the Director for such period as the Director considers necessary for that purpose.
 (4) The Director shall, if requested by the owner or the person for the time being in charge of an aircraft detained or an aeronautical product seized under subsection (1), provide in writing to the owner or that person the reasons for the detention or seizure.
-(5) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 66.
+(5) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 66.
 (6) For the purpose of subsections (1) and (2), the Director shall notify any prohibitions or conditions to such persons as he or she considers necessary by such means of communication, whether or not of a permanent nature, as the Director considers appropriate in the circumstances.
 (7)
 
@@ -691,7 +691,7 @@ Notwithstanding sections 23 to 23B of this Act or section 73 of the Crown Entiti
   (b) may require the applicant, at the applicant's expense, to undertake any other tests, examinations, or re-examinations conducted by any suitably qualified and experienced person, or to provide any medical information, as the Director reasonably considers necessary to assess the applicant.
 (6) If the Director requires an applicant to undertake any other test, examination, or re-examination, or to provide any medical information, the period in which the Director must make a decision in relation to the medical certificate under this section does not include the number of days that are required to conduct and deliver the results of the test, examination, or re-examination, or to provide the medical information, to the Director.
 (7) The Director must maintain a register of current medical certificates issued under this section.
-(8) Any decision made under this section by the Director in relation to a medical certificate other than a decision under sub- section (5)﻿(b) is subject to section 27L (review of decisions regarding medical certificates or applications).
+(8) Any decision made under this section by the Director in relation to a medical certificate other than a decision under subsection (5)﻿(b) is subject to section 27L (review of decisions regarding medical certificates or applications).
 
 ### 27C Changes in medical condition of licence holder
 (1) Subject to any directions that the Director may issue under section 27G(1)﻿(b), if a licence holder is aware of, or has reasonable grounds to suspect, any change in his or her medical condition or the existence of any previously undetected medical condition that may interfere with the safe exercise of the privileges to which his or her medical certificate relates, the licence holder—
@@ -886,7 +886,7 @@ The Director may, on receiving an application for a medical certificate from a l
 (10) The Director may not delegate under this section any of his or her functions or powers under section 27L or section 27M.
 
 ### 27P Right of appeal to District Court
-Any person affected by a decision of the Director under section 27B (other than a decision made under section 27B(5)﻿(b)), section 27I(7), section 27I(11), section 27L, or section 27M has a right of appeal to a District Court under section 66.
+Any person affected by a decision of the Director under section 27B (other than a decision made under section 27B(5)﻿(b)), section 27I(7), section 27I(11), section 27L, or section 27M has a right of appeal to the District Court under section 66.
 
 ### 27Q Transitional provisions
 (1) Part 67 of the rules (as it read immediately before the commencement of this Part) continues to apply to—
@@ -1143,7 +1143,7 @@ Without limiting the power conferred by section 28, the Minister may make ordina
   (a) the Director's intention to suspend or revoke the document; and
   (b) the right of appeal available to the holder of that document in the event of the document being suspended or revoked.
 (4) Where a fee or a charge is payable in respect of an application under this Act or the provision of a service under this Act, the Authority or the Director or other person asked to process the application or provide the service, as the case may be, may, unless the safety of any person would be put at risk, decline to process that application or provide that service until the appropriate fee or charge has been paid, or arrangements acceptable to the Authority or the Director, as the case may be, for payment of the fee or charge have been made.
-(5) The holder of an aviation document that is suspended under subsection (1) or revoked under subsection (2) may appeal against that decision to a District Court under section 66.
+(5) The holder of an aviation document that is suspended under subsection (1) or revoked under subsection (2) may appeal against that decision to the District Court under section 66.
 
 ### 42 Recovery of fees and charges for aviation related services
 (1) Subject to subsection (2), where a fee or charge is payable under this Act in respect of any function, power, duty, or service carried out or provided by the Authority or the Director in respect of any aircraft, the person whose name appears on the New Zealand Register of Aircraft in respect of that aircraft shall be deemed to be liable to pay that fee or charge.
@@ -1455,15 +1455,15 @@ Where an order is made disqualifying any person from holding or obtaining an avi
 ### 62 Removal of disqualification
 (1) Subject to this section, any person who by order of a court is disqualified for a period exceeding 6 months from holding or obtaining an aviation document may, after the expiration of 6 months after the date on which the order of disqualification became effective, apply to the court by which that order was made to remove the disqualification.
 (2) On an application under this section the court may, having regard to the character of the applicant and the applicant's conduct subsequent to the order, the nature of the offence, and any other circumstances of the case, remove the disqualification as from such date as may be specified in the order or refuse the application.
-(3) Where the disqualification was ordered by a District Court, every application under this section shall be made to a District Court Judge exercising jurisdiction in the court by which the order was made.
+(3) Where the disqualification was ordered by the District Court, every application under this section shall be made to a District Court Judge exercising jurisdiction in the court by which the order was made.
 (4) Notice of every application under this section shall be served on the Director who shall have a right to appear and be heard in respect of the matter.
 
 ### 63 Particulars of disqualification orders, etc, to be sent to Director
 Where a court makes an order disqualifying a person from holding or obtaining an aviation document or imposes restrictions or conditions (or both) on any aviation document held by or issued to any person or makes an order under section 62 removing any disqualification, particulars of the order shall be sent by the Registrar of the court to the Director.
 
 ### 64 Appeals against disqualification
-(1) For the purposes of Part 6 of the Criminal Procedure Act 2011, an order of a District Court by which any person is disqualified from holding or obtaining an aviation document shall be deemed to be a sentence or part of a sentence, as the case may be. If a notice of appeal against any such order is filed, the court may, if it thinks fit, defer the operation of the order pending the appeal, but otherwise the order shall have immediate effect.
-(2) Any person who is disqualified by an order of a District Court from holding or obtaining an aviation document, and who applies for a removal of that disqualification and whose application is refused, may appeal against the refusal to the High Court in accordance with Part 6 of the Criminal Procedure Act 2011 and that Part applies with the necessary modifications as if the refusal were a sentence.
+(1) For the purposes of Part 6 of the Criminal Procedure Act 2011, an order of the District Court by which any person is disqualified from holding or obtaining an aviation document shall be deemed to be a sentence or part of a sentence, as the case may be. If a notice of appeal against any such order is filed, the court may, if it thinks fit, defer the operation of the order pending the appeal, but otherwise the order shall have immediate effect.
+(2) Any person who is disqualified by an order of the District Court from holding or obtaining an aviation document, and who applies for a removal of that disqualification and whose application is refused, may appeal against the refusal to the High Court in accordance with Part 6 of the Criminal Procedure Act 2011 and that Part applies with the necessary modifications as if the refusal were a sentence.
 (3) Any person who is disqualified by an order of the High Court from holding or obtaining an aviation document, and who applies for a removal of that disqualification and whose application is refused, may appeal to the Court of Appeal against the refusal in accordance with Part 6 of the Criminal Procedure Act 2011 and that Part applies with the necessary modifications as if the refusal were a sentence.
 (4) Where application is made to the Court of Appeal for leave to appeal to that court against a sentence of the High Court that is or includes an order of disqualification, the High Court may, if it thinks fit, defer the operation of the order pending the application for leave to appeal and, if leave is granted, pending the appeal.
 (5) Where an appeal to the High Court or Court of Appeal is allowed under this section, whether in whole or in part, the Registrar of the High Court shall send notice thereof to the Director who shall have a right to appear and be heard in respect of the matter.
@@ -1664,7 +1664,7 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
 ## Part 6 — Rights of appeal
 
 ### 66 Appeal to District Court
-(1) A person may appeal to a District Court against a specified decision made under this Act by the Director if another section of this Act gives that person a right of appeal under this section, and—
+(1) A person may appeal to the District Court against a specified decision made under this Act by the Director if another section of this Act gives that person a right of appeal under this section, and—
   (a) the person—
     (i) is a person in respect of whom the decision was made; and
     (ii) is dissatisfied with the decision; or
@@ -1692,7 +1692,7 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
 
 ### 69 Appeal to High Court on question of law
 (1) Every party to an appeal under section 66 may appeal to the High Court on a question of law.
-(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
 
 ### 70 Further appeal to Court of Appeal
 (1) Every party to an appeal under section 69 may, with the leave of the High Court or (if that leave is declined) with special leave of the Court of Appeal, appeal to the Court of Appeal on that question of law.
