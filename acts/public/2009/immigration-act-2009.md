@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2016-05-06_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -204,7 +204,7 @@ In this Act, unless the context otherwise requires,—
   - **responsible adult** means the adult designated or nominated under section 375
   - **restricted temporary entry instructions** means temporary entry instructions that require, in relation to the type of visa to which the instructions relate, that any decision made on an application for that type of visa, or on an application for entry permission in relation to that type of visa, must be made in terms of the temporary entry instructions applicable at the time the application for the visa was made, and any discretion exercised must be in terms of those instructions
   - **review proceedings** means proceedings—
-    (a) by way of an application for review under the Judicature Amendment Act 1972; or
+    (a) by way of an application for review under the Judicial Review Procedure Act 2016; or
     (b) by way of an application for certiorari, mandamus, or prohibition; or
     (c) by way of an application for a declaratory judgment
   - **security** —
@@ -3034,7 +3034,7 @@ In any oral hearing for proceedings involving classified information, the Tribun
 (5) Subject to subsection (2), every appeal under this section must be dealt with in accordance with the rules of the court, with any modifications necessary to reflect the provisions of this Act, including any ancillary general practices and procedures developed under section 260.
 
 ### 246 Appeal to Court of Appeal on point of law by leave
-(1) Any party to an appeal under section 245 who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of that court (or, if the High Court refuses leave, with the leave of the Court of Appeal), appeal to the Court of Appeal. Section 66 of the Judicature Act 1908 applies to any such appeal.
+(1) Any party to an appeal under section 245 who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of that court (or, if the High Court refuses leave, with the leave of the Court of Appeal), appeal to the Court of Appeal. Section 56 of the Senior Courts Act 2016 applies to any such appeal.
 (2) In determining whether to grant leave to appeal under this section, the court to which the application for leave is made must have regard to whether the question of law involved in the appeal is one that by reason of its general or public importance or for any other reason ought to be submitted to the Court of Appeal for its decision.
 (3) The court granting leave under this section may in its discretion impose such conditions as it thinks fit, whether as to costs or otherwise.
 (4) Every appeal under this section must be dealt with in accordance with the rules of the court, with any modifications necessary to reflect the provisions of this Act, including any ancillary general practices and procedures developed under section 260.
@@ -3044,7 +3044,7 @@ In any oral hearing for proceedings involving classified information, the Tribun
   (a) the High Court decides that, by reason of special circumstances, further time should be allowed; or
   (b) leave is required, under section 249(3), before proceedings may be commenced (in which case section 249(4) applies).
 (2)
-(3) In this section, statutory power of decision has the same meaning as in section 3 of the Judicature Amendment Act 1972.
+(3) In this section, statutory power of decision has the same meaning as in section 4 of the Judicial Review Procedure Act 2016.
 (4) Nothing in this section limits the time for bringing review proceedings challenging the vires of any regulations made under this Act.
 
 ### 248 Minister, chief executive, or refugee and protection officer may be respondent in review proceedings relating to Tribunal decision
@@ -3075,7 +3075,7 @@ The Minister, the chief executive, or a refugee and protection officer, as the c
 
 ### 249B Appeal to Court of Appeal against judicial review of matters within Tribunal’s jurisdiction
 (1) This section applies in respect of judicial review proceedings for which leave was granted under section 249(3).
-(2) Any party to the proceedings who is dissatisfied with any determination of the High Court in the proceedings may, with the leave of the High Court (or, if the High Court refuses leave, with the leave of the Court of Appeal), appeal to the Court of Appeal. Section 66 of the Judicature Act 1908 applies to any such appeal.
+(2) Any party to the proceedings who is dissatisfied with any determination of the High Court in the proceedings may, with the leave of the High Court (or, if the High Court refuses leave, with the leave of the Court of Appeal), appeal to the Court of Appeal. Section 56 of the Senior Courts Act 2016 applies to any such appeal.
 (3) In determining whether to grant leave to appeal under this section, the court to which the application for leave is made must have regard to whether the issue involved in the appeal is one that, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for its decision.
 
 ### 250 Certain appeals and review proceedings to be treated as priority fixture
@@ -3083,8 +3083,8 @@ All courts must hear and determine any appeal or review proceedings relating to 
   (a) persons who are unlawfully in New Zealand:
   (b) persons who are not New Zealand citizens and who hold temporary entry class visas.
 
-### 251 Relationship with Judicature Act 1908 and Supreme Court Act 2003
-The Judicature Act 1908 and the Supreme Court Act 2003 are subject to sections 247, 248, 249, 250, and 262.
+### 251 Relationship with Senior Courts Act 2016
+The Senior Courts Act 2016 is subject to sections 247, 248, 249, 250, and 262.
 
 **General provisions relating to proceedings involving classified information**
 
