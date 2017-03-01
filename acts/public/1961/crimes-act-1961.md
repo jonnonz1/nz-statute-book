@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2015-11-07_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -30,7 +30,7 @@ _Consolidation as at 2015-11-07_
   - **foreign ship** means a ship that is not a Commonwealth ship
   - **genitalia** includes a surgically constructed or reconstructed organ analogous to naturally occurring male or female genitalia (whether the person concerned is male, female, or of indeterminate sex)
   - **to injure** means to cause actual bodily harm
-  - **Judge** , in relation to a District Court, or means a Judge who holds a warrant under section 5B of the District Courts Act 1947 to conduct jury trials
+  - **Judge** , in relation to the District Court, or means a Judge who holds a warrant under section 14 of the District Court Act 2016 to conduct jury trials
   - **justified** , in relation to any person, means not guilty of an offence and not liable to any civil proceeding
   - **is liable** means is liable on conviction
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
@@ -51,7 +51,7 @@ _Consolidation as at 2015-11-07_
   - **protected from criminal responsibility** means not liable to any proceedings except a civil proceeding
   - **Registrar** —
     (a) for the purposes of Part 12, means any Registrar of the trial court; and includes any Deputy Registrar of that court:
-    (b) for any other purpose, means any Registrar of the High Court or of a District Court, as the case may require; and includes any Deputy Registrar
+    (b) for any other purpose, means any Registrar of the High Court or of the District Court, as the case may require; and includes any Deputy Registrar
   - **serious violent offence** means any offence—
     (a) that is punishable by a period of imprisonment for a term of 7 years or more; and
     (b) where the conduct constituting the offence involves—
@@ -68,7 +68,7 @@ _Consolidation as at 2015-11-07_
     (b) connection between the mouth or tongue of one person and a part of another person's genitalia or anus; or
     (c) the continuation of connection of a kind described in paragraph (a) or paragraph (b)
   - **ship** means every description of vessel used in navigation, however propelled; and includes any barge, lighter, dinghy, raft, or like vessel; and also includes any ship belonging to or used as a ship of the armed forces of any country
-  - **Supreme Court** means the Supreme Court of New Zealand established by section 6 of the Supreme Court Act 2003
+  - **Supreme Court** means the Supreme Court of New Zealand established by section 66 of the Senior Courts Act 2016
   - **territorial waters** , in relation to any country other than New Zealand, means such part of the sea adjacent to the coast of that country as is within the territorial sovereignty of that country; and includes ports, harbours, rivers, and other places in which at the commencement of this Act the Admiralty of England has jurisdiction (whether exclusive or not) in respect of offences of any kind committed on board Commonwealth ships
   - **unlawful act** means a breach of any Act, regulation, rule, or bylaw
   - **vulnerable adult** , for the purposes of sections 151, 195, and 195A, means a person unable, by reason of detention, age, sickness, mental impairment, or any other cause, to withdraw himself or herself from the care or charge of another person.
@@ -241,18 +241,18 @@ Nothing in this Act shall be construed to limit or affect in any way any provisi
 (5) Despite section 90 of the Summary Proceedings Act 1957, the period of imprisonment that the High Court may impose on the offender for the non-payment of 1 or more fines must not exceed, for each fine, the lesser of—
   (a) the maximum term of imprisonment to which the offender was liable on the conviction; or
   (b) a period of 2 years.
-(6) If the High Court enforces 1 or more fines under this section, the court may, at the same time, enforce any outstanding fine or fines imposed on the offender by a District Court.
+(6) If the High Court enforces 1 or more fines under this section, the court may, at the same time, enforce any outstanding fine or fines imposed on the offender by the District Court.
 (7) For the purposes of subsection (6), the outstanding fine or fines imposed by the District Court must be treated as if the fine or fines were imposed by the High Court and, in accordance with subsection (1), Part 3 of the Summary Proceedings Act 1957 applies to the fine or fines, subject to—
   (a) any necessary modifications; and
   (b) the modifications in subsections (2) and (4), but not the modification in subsection (5), if the outstanding fine or fines were imposed in the District Court.
-(8) A Registrar of a District Court or of the High Court may exercise any jurisdiction and powers conferred on a Registrar of a District Court by Part 3 of the Summary Proceedings Act 1957 in respect of the fine or fines imposed by the High Court to which, under subsection (1), that Part applies.
-(9) A bailiff of a District Court may exercise any jurisdiction and powers conferred on a bailiff of a District Court by Part 3 of the Summary Proceedings Act 1957 in respect of the fine or fines imposed by the High Court to which, under subsection (1), that Part applies.
+(8) A Registrar of the District Court or of the High Court may exercise any jurisdiction and powers conferred on a Registrar of the District Court by Part 3 of the Summary Proceedings Act 1957 in respect of the fine or fines imposed by the High Court to which, under subsection (1), that Part applies.
+(9) A bailiff of the District Court may exercise any jurisdiction and powers conferred on a bailiff of the District Court by Part 3 of the Summary Proceedings Act 1957 in respect of the fine or fines imposed by the High Court to which, under subsection (1), that Part applies.
 (10) The amount of the fee payable if default is made in the payment of 1 or more fines imposed by the High Court to which, under subsection (1), Part 3 of the Summary Proceedings Act 1957 applies is the same as that prescribed by regulations, made under the Summary Proceedings Act 1957, in respect of enforcement action taken under that Act to enforce the fine or fines.
 (11) To avoid doubt, sections 92A to 92I of the Summary Proceedings Act 1957 apply, subject to any necessary modifications, to any fine or fines imposed by the High Court, and accordingly, the chief executive of the Ministry of Justice may, among other things authorised by those sections, disclose information about default balances relating to such fine or fines in accordance with those sections.
 (12) For the purposes of this section, and subject to subsection (4), any reference in Part 3 of the Summary Proceedings Act 1957 to—
   (a) a court is, unless the context otherwise requires, taken to be a reference to the High Court; and
   (b) a District Court Judge is, unless the context otherwise requires, taken to be a reference to a High Court Judge; and
-  (c) a Registrar is, unless the context otherwise requires, taken to be a reference to a Registrar of the High Court or of a District Court and includes a Deputy Registrar.
+  (c) a Registrar is, unless the context otherwise requires, taken to be a reference to a Registrar of the High Court or of the District Court and includes a Deputy Registrar.
 (13) In this section, fine has the meaning given to it in section 79 of the Summary Proceedings Act 1957.
 
 ## Part 3 — Matters of justification or excuse
@@ -3263,7 +3263,7 @@ No civil remedy for any act or omission shall be suspended by reason that such a
 
 ### 406 Prerogative of mercy
 (1) Nothing in this Act shall affect the prerogative of mercy, but the Governor-General in Council, on the consideration of any application for the exercise of the mercy of the Crown having reference to the conviction of any person by any court or to the sentence (other than a sentence fixed by law) passed on any person, may at any time if he or she thinks fit, whether or not that person has appealed or had the right to appeal against the conviction or sentence, either—
-  (a) refer the question of the conviction or sentence to the Court of Appeal or, where the person's right of appeal against conviction under section 229 of the Criminal Procedure Act 2011 was to a District Court or the High Court, to the High Court, and the question so referred shall then be heard and determined by the court to which it is referred as in the case of an appeal by that person against conviction or sentence or both, as the case may require; or
+  (a) refer the question of the conviction or sentence to the Court of Appeal or, where the person's right of appeal against conviction under section 229 of the Criminal Procedure Act 2011 was to the District Court or the High Court, to the High Court, and the question so referred shall then be heard and determined by the court to which it is referred as in the case of an appeal by that person against conviction or sentence or both, as the case may require; or
   (b) if he or she desires the assistance of the Court of Appeal on any point arising in the case with a view to the determination of the application, refer that point to the Court of Appeal for its opinion thereon, and the court shall consider the point so referred and furnish the Governor-General with its opinion thereon accordingly.
 (2) A reference under this section must be published in the Gazette.
 
@@ -3271,7 +3271,7 @@ No civil remedy for any act or omission shall be suspended by reason that such a
 (1) With the leave of the court appealed to, a party to proceedings in which the High Court heard and determined a question referred to it under section 406(a) may appeal to the Court of Appeal or the Supreme Court against the High Court's determination of the question.
 (2) With the leave of the Supreme Court, a party to proceedings in which the Court of Appeal heard and determined a question referred to it under section 380 or section 406(a) may appeal to the Supreme Court against the Court of Appeal's opinion on or determination of the question.
 (3) With the leave of the Supreme Court, a party to an appeal to the Court of Appeal under subsection (1) may appeal to the Supreme Court against the Court of Appeal's determination of the appeal.
-(4) Subsection (1) is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
+(4) Subsection (1) is subject to section 75 of the Senior Courts Act 2016 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
 
 ### 407 Effect of free pardon
 Where any person convicted of any offence is granted a free pardon by the Sovereign, or by the Governor-General in the exercise of any powers vested in him or her in that behalf, that person shall be deemed never to have committed that offence:provided that the granting of a free pardon shall not affect anything lawfully done or the consequences of anything unlawfully done before it is granted.
