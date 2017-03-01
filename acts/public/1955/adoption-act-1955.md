@@ -1,5 +1,5 @@
 # Adoption Act 1955
-_Consolidation as at 2015-04-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the adoption of children
 
@@ -15,7 +15,7 @@ In this Act, unless the context otherwise requires,—
   - **child** means a person who is under the age of 20 years; and includes any person in respect of whom an interim order is in force, notwithstanding that the person has attained that age
   - **Commonwealth country** means a country that is a member of the British Commonwealth of Nations; and includes every territory for whose international relations the Government of that country is responsible; and also includes the Republic of Ireland as if that country were a member of the British Commonwealth of Nations
   - **Commonwealth representative** means an Ambassador, High Commissioner, Minister, Chargé d'Affaires, Consular Officer, Trade Commissioner, or Tourist Commissioner of a Commonwealth country (including New Zealand); and includes any person lawfully acting for any such officer; and also includes any diplomatic secretary on the staff of any such Ambassador, High Commissioner, Minister, or Chargé d'Affaires
-  - **court** means a Family Court or a District Court of civil jurisdiction; and includes the High Court acting in its jurisdiction on appeal under this Act
+  - **court** means the Family Court or the District Court in its civil jurisdiction; and includes the High Court acting in its jurisdiction on appeal under this Act
   - **department** means the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989
   - **interim order** means an interim order made under this Act
   - **Maori** means a person who is a Maori within the meaning of Te Ture Whenua Maori Act 1993
@@ -85,7 +85,7 @@ Upon any application for an adoption order, if the court considers that the appl
 (6) The consent by any parent or guardian of a child to an adoption may be given (either unconditionally or subject to conditions with respect to the religious denomination and practice of the applicants or any applicant or as to the religious denomination in which the applicants or applicant intend to bring up the child) without the parent or guardian knowing the identity of the applicant for the order.
 (7) A document signifying consent by a mother of a child to an adoption shall not be admissible unless the child is at least 10 days old at the date of the execution of the document.
 (8) Except where it is given by the chief executive, a document signifying consent to an adoption shall not be admissible unless,—
-  (a) if given in New Zealand, it is witnessed by a District Court Judge, a Registrar of the High Court or of a District Court, or a solicitor, or a Judge or Commissioner or Registrar of the Maori Land Court:
+  (a) if given in New Zealand, it is witnessed by a District Court Judge, a Registrar of the High Court or of the District Court, or a solicitor, or a Judge or Commissioner or Registrar of the Maori Land Court:
   (aa) if given in the Cook Islands or Niue, it is witnessed by—
     (i) the New Zealand Representative; or
     (ii) a Judge, Registrar, or Deputy Registrar, of the High Court of the Cook Islands or the High Court of Niue (as the case requires); or
@@ -103,7 +103,7 @@ Upon any application for an adoption order, if the court considers that the appl
 (3) On application by any person having the care of a child, the court may dispense with the consent of a parent or guardian of a child under this section before any application is made for an adoption order in respect of the child; and any order so made shall lapse after the expiration of 6 months from the date on which it is made for all purposes except an application made to the court within that period for an adoption order in respect of the child.
 (4) The court may dispense with the consent of the spouse of an applicant for an adoption order if it is satisfied that the spouses are living apart and that their separation is likely to be permanent.
 (5) In any case where a mentally disordered person is a parent or guardian of a child in respect of whom an application for an adoption order has been made, service of notice of the application on the manager or administrator of the estate of the parent or guardian, or on the person with whom the parent or guardian resides or under whose care he is, shall (unless the court otherwise orders) be sufficient service thereof for the purposes of this section.
-(5A) In any case where a District Court has refused to make an order dispensing with the consent of any parent or guardian or spouse, the person or persons who sought the dispensation may, within 1 month after the date of the refusal, appeal to the High Court against the refusal; and the High Court may dispense with the consent if it thinks fit.
+(5A) In any case where the District Court has refused to make an order dispensing with the consent of any parent or guardian or spouse, the person or persons who sought the dispensation may, within 1 month after the date of the refusal, appeal to the High Court against the refusal; and the High Court may dispense with the consent if it thinks fit.
 (6) Any person whose consent is dispensed with under this section may, on notice to every applicant for an adoption order in respect of the child and within 1 month after the making of the order dispensing with consent, make application for the revocation of that order and of any consequential interim order to the High Court; and the court to which the application is so made may in its discretion revoke any such order.
 (7) In any case where the court has made an adoption order within 1 month after making the order dispensing with consent, any person whose consent is dispensed with under this section may, on notice to every adoptive parent and within 1 month after the making of the order dispensing with consent, make application for the revocation of that order and the discharge of the adoption order to the High Court; and the court to which the application is so made may in its discretion discharge any such order. All the provisions of section 20, so far as they are applicable and with the necessary modifications, shall apply in connection with any such discharge of an adoption order.
 (8) In any case where the High Court revokes any interim order or discharges any adoption order in accordance with this section, that court may include in its order an order for the refund by some person specified in the order of money spent by any adopter or proposed adopter for the child's benefit. Any such order for the refund of money shall be enforceable as a judgment of the court which made the order in favour of the person to whom the money has to be repaid.
@@ -128,7 +128,7 @@ Before making any interim order or adoption order in respect of any child, the c
 
 ### 12 Revocation of interim order
 (1) On the application of any person, the court may in its discretion revoke an interim order in respect of any child on such terms as the court thinks fit, including an order for the refund by some person specified in the order of money spent by any proposed adopter for the child's benefit.
-(1A) Where on the application of any person a District Court has refused to revoke an interim order in respect of any child, that person may, within 1 month after the date of the refusal, appeal to the High Court against the refusal; and the High Court may in its discretion make any order which the District Court could have made under subsection (1).
+(1A) Where on the application of any person the District Court has refused to revoke an interim order in respect of any child, that person may, within 1 month after the date of the refusal, appeal to the High Court against the refusal; and the High Court may in its discretion make any order which the District Court could have made under subsection (1).
 (1B) Where any interim order has been revoked as aforesaid, the person or persons in whose favour the interim order was made may, within 1 month after the date of the revocation, appeal to the High Court against the revocation or against the terms of the revocation; and the High Court may, if it thinks fit, cancel the revocation or vary the terms thereof.
 (2) Any such order for the refund of money shall be enforceable as a judgment of the court in favour of the person to whom the money has to be repaid.
 
@@ -142,8 +142,8 @@ Before making any interim order or adoption order in respect of any child, the c
 (3) Where an application is duly made to the court under subsection (1), the Registrar shall issue the adoption order without any further hearing if—but the adoption order shall not be issued without a further hearing in any other case.
   (a) a social worker has filed a report recommending that an adoption order be issued;
   (b) the interim order did not require the application to be dealt with by the court;
-  (c) no proceedings for the revocation of the interim order are pending in a District Court or on an appeal to the High Court; and
-  (d) a District Court has not, within the immediately preceding month, refused to revoke the interim order,—
+  (c) no proceedings for the revocation of the interim order are pending in the District Court or on an appeal to the High Court; and
+  (d) the District Court has not, within the immediately preceding month, refused to revoke the interim order,—
 (4) In any case where a hearing by the court of an application under this section is required as aforesaid—
   (a) the Registrar shall require a social worker to furnish a report on the application:
   (b) the Registrar shall appoint a time and place for the hearing of the application, and in so doing shall allow reasonable time to enable the social worker to furnish his report as aforesaid:
@@ -152,7 +152,7 @@ Before making any interim order or adoption order in respect of any child, the c
 (5) In any case where an adoption order could issue under this section in favour of 1 person only, the court may, upon application by that person and his or her spouse and after further hearing, issue the adoption order in favour of that person and his or her spouse jointly without requiring any further consents to the adoption.
 
 ### 13A Appeal against refusal to make interim order or adoption order
-In any case where a District Court has refused to make an interim order or an adoption order in respect of any child, the person or persons who applied for the order may, within 1 month after the date of the refusal, appeal to the High Court against the decision; and the High Court may, if it thinks fit, grant the order that is sought.
+In any case where the District Court has refused to make an interim order or an adoption order in respect of any child, the person or persons who applied for the order may, within 1 month after the date of the refusal, appeal to the High Court against the decision; and the High Court may, if it thinks fit, grant the order that is sought.
 
 ### 14 Date on which adoption order becomes effective
 (1) An adoption order made after the commencement of this Act shall be deemed to be made,—
@@ -200,9 +200,9 @@ In any case where a District Court has refused to make an interim order or an ad
     (a) for the purposes of any appointment, affiliation order, maintenance order, or agreement to which paragraph (h) or paragraph (i) of subsection (2) applies, the adoption order, if made before the commencement of this Act, shall be deemed to have been made on the date of the commencement of this Act:
     (b) for the purposes of any other deed or instrument (except a will) made before the commencement of this Act, or of the will or intestacy of any testator or intestate who died before the commencement of this Act, or of any vested or contingent right of the adopted child or any other person under any such deed, instrument, will, or intestacy, this section shall not apply, and the adoption order shall have effect for the purposes of the deed, instrument, will, or intestacy according to the law existing at the date on which the deed, instrument, will, or intestacy took effect:
     (c) an adoption order made before 1 April 1954 shall not affect the operation of any rule of Maori custom as to intestate succession to Maori land.
-(4) Subsection (2)(i) applies to all maintenance orders, whether made before, on, or after 1 July 1992.
-(5) The first proviso to subsection (2)(a) applies subject to section 6(2) of the Child Support Act 1991.
-(6) The first proviso to subsection (2)(i) applies subject to section 25(2)(b) of the Child Support Act 1991.
+(4) Subsection (2)﻿(i) applies to all maintenance orders, whether made before, on, or after 1 July 1992.
+(5) The first proviso to subsection (2)﻿(a) applies subject to section 6(2) of the Child Support Act 1991.
+(6) The first proviso to subsection (2)﻿(i) applies subject to section 25(2)﻿(b) of the Child Support Act 1991.
 
 ### 17 Effect of overseas adoption
 (1) Where a person has been adopted (whether before or after the commencement of this section) in any place outside New Zealand according to the law of that place, and the adoption is one to which this section applies, then, for the purposes of this Act and all other New Zealand enactments and laws, the adoption shall have the same effect as an adoption order validly made under this Act, and shall have no other effect.
@@ -268,19 +268,19 @@ An adoption order may be made under this Act on the application of any person, w
   (f) persons whom the Judge permits to be present as support persons for a party on the request of that party:
   (g) any other persons whom the Judge permits to be present.
 (2) No other person may attend a hearing of an application under this Act.
-(3) The Judge must agree to a request under subsection (1)(f) unless the Judge considers there is a good reason why the named support persons should not be permitted to be present.
+(3) The Judge must agree to a request under subsection (1)﻿(f) unless the Judge considers there is a good reason why the named support persons should not be permitted to be present.
 (4) No support persons may help an applicant conduct his or her case.
 (5) If, during a hearing, the Judge requests a person of any of the following kinds to leave the courtroom, the person must do so:
   (a) an accredited news media reporter:
-  (b) a support person whom the Judge permitted to be present under subsection (1)(f).
+  (b) a support person whom the Judge permitted to be present under subsection (1)﻿(f).
 (6) Nothing in this section limits any other power of the court—
   (a) to hear proceedings in private; or
   (b) to permit a McKenzie friend to be present; or
   (c) to exclude any person from the court.
 
 ### 22A Publication of reports of proceedings
-Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act—
-  (a) in a Family Court:
+Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a report of any proceedings under this Act—
+  (a) in the Family Court:
   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
 
 ### 23 Inspection of adoption records
@@ -290,14 +290,14 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
   (b) any Registrar (as so defined) or civil union celebrant under the Civil Union Act 2004 for the purpose of investigating prohibited degrees of civil union under the Civil Union Act 2004.
 (2A) Adoption records are open to inspection by a social worker for the purpose of preparing a report required under section 23A(1).
 (3) Adoption records shall not be available for production or open to inspection except—
-  (a) to the extent authorised by subsections (1), (2), or (2A) of this section or by section 11(4)(b) of the Adult Adoption Information Act 1985; or
-  (b) on the order of a Family Court, a District Court, or the High Court, made—
+  (a) to the extent authorised by subsections (1), (2), or (2A) of this section or by section 11(4)﻿(b) of the Adult Adoption Information Act 1985; or
+  (b) on the order of the Family Court, the District Court, or the High Court, made—
     (i) for the purposes of a prosecution for making a false statement; or
     (ii) in the event of any question as to the validity or effect of any interim order or adoption order; or
     (iii) on any other special ground.
 
 ### 23A Report on application for inspection
-(1) A court may require a social worker to prepare a report following an application for an order under section 23(3)(b) on a ground referred to in subparagraph (iii) of that paragraph (any other special ground).
+(1) A court may require a social worker to prepare a report following an application for an order under section 23(3)﻿(b) on a ground referred to in subparagraph (iii) of that paragraph (any other special ground).
 (2) A social worker preparing a report required under subsection (1)—
   (a) may consider any information obtained for the purpose, including information in the adoption records concerned and the application for the order; but
   (b) may not consider information relating to any party to the adoption or application that was obtained by the department before the application was made.
@@ -321,7 +321,7 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
   (b) that any person desires to adopt a child; or
   (c) that any person or body of persons is willing to make arrangements for the adoption of a child:
   provided that the chief executive may in his discretion approve in particular cases of advertisements published by any group or society caring for the welfare of children.
-(2) An organisation approved as a New Zealand accredited body under Part 2 of the Adoption (Intercountry) Act 1997 does not commit an offence against subsection (1)(c) by publicly notifying—
+(2) An organisation approved as a New Zealand accredited body under Part 2 of the Adoption (Intercountry) Act 1997 does not commit an offence against subsection (1)﻿(c) by publicly notifying—
   (a) that it is a New Zealand accredited body under that Act; or
   (b) that functions have been delegated to that body under Part 1 of that Act.
 
@@ -375,9 +375,9 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
 
 ### 28A Rules
 Rules may be made regulating the practice and procedure of courts in proceedings under this Act,—
-  (a) in the case of the High Court, under section 51C of the Judicature Act 1908:
-  (b) in the case of District Courts, under section 122 of the District Courts Act 1947:
-  (c) in the case of Family Courts, under section 16A of the Family Courts Act 1980.
+  (a) in the case of the High Court, under section 148 of the Senior Courts Act 2016:
+  (b) in the case of the District Court, under section 228 of the District Court Act 2016:
+  (c) in the case of the Family Court, under section 16A of the Family Court Act 1980.
 
 ### 29 Consequential amendments
 The enactments specified in Schedule 1 are hereby amended in the manner indicated in that schedule.
