@@ -1,5 +1,5 @@
 # Contractual Remedies Act 1979
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to reform the law relating to remedies for misrepresentation and breach of contract
 
@@ -22,7 +22,10 @@ This Act shall bind the Crown.
   (c) whether, if it was a representation, it was relied on—
 (2) If a contract, or any other document, contains a provision purporting to preclude a court from inquiring into or determining the question whether, in respect of any statement, promise, or undertaking made or given by any person, that person had the actual or ostensible authority of a party to make or give it, the court shall not, in any proceedings in relation to the contract, be precluded by that provision from inquiring into and determining that question.
 (3) Notwithstanding anything in section 56 or section 60(2) of the Sale of Goods Act 1908, this section shall apply to contracts for the sale of goods.
-(4) In any proceedings properly before a Disputes Tribunal, this section shall not limit the powers of the Tribunal under section 18(7) of the Disputes Tribunals Act 1988.
+(4) In any proceedings properly before the Disputes Tribunal, this section shall not limit the powers of the Tribunal under section 18(7) of the Disputes Tribunal Act 1988.
+
+### 4A Stipulations not essence of contracts
+Stipulations in contracts as to time or otherwise that would not, before 13 September 1882 (the date of the coming into force of the Law Amendment Act 1882), have been deemed to be or to have become the essence of such contracts in a court of equity must receive in all courts the same construction and effect as they would have received in equity before that date.
 
 ### 5 Remedy provided in contract
 If a contract expressly provides for a remedy in respect of misrepresentation or repudiation or breach of contract or makes express provision for any of the other matters to which sections 6 to 10 relate, those sections shall have effect subject to that provision.
@@ -40,7 +43,7 @@ If a contract expressly provides for a remedy in respect of misrepresentation or
   (a) he has been induced to enter into it by a misrepresentation, whether innocent or fraudulent, made by or on behalf of another party to that contract; or
   (b) a term in the contract is broken by another party to that contract; or
   (c) it is clear that a term in the contract will be broken by another party to that contract.
-(4) Where subsection (3)(a) or subsection (3)(b) or subsection (3)(c) applies, a party may exercise the right to cancel if, and only if,—
+(4) Where subsection (3)﻿(a) or subsection (3)﻿(b) or subsection (3)﻿(c) applies, a party may exercise the right to cancel if, and only if,—
   (a) the parties have expressly or impliedly agreed that the truth of the representation or, as the case may require, the performance of the term is essential to him; or
   (b) the effect of the misrepresentation or breach is, or, in the case of an anticipated breach, will be,—
     (i) substantially to reduce the benefit of the contract to the cancelling party; or
@@ -76,7 +79,7 @@ If a contract expressly provides for a remedy in respect of misrepresentation or
   (d) the value, in its opinion, of any work or services performed by a party in or for the purpose of the performance of the contract; and
   (e) any benefit or advantage obtained by a party by reason of anything done by another party in or for the purpose of the performance of the contract; and
   (f) such other matters as it thinks proper.
-(5) No order shall be made under subsection (2)(a) that would have the effect of depriving a person, not being a party to the contract, of the possession of or any estate or interest in any property acquired by him in good faith and for valuable consideration.
+(5) No order shall be made under subsection (2)﻿(a) that would have the effect of depriving a person, not being a party to the contract, of the possession of or any estate or interest in any property acquired by him in good faith and for valuable consideration.
 (6) No order shall be made under this section in respect of any property, if any party to the contract has so altered his position in relation to the property, whether before or after the cancellation of the contract, that, having regard to all relevant circumstances, it would in the opinion of the court be inequitable to any party to make such an order.
 (7) An application for an order under this section may be made by—
   (a) any party to the contract; or
