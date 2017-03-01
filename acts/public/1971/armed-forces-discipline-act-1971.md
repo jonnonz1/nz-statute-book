@@ -1,5 +1,5 @@
 # Armed Forces Discipline Act 1971
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand and the Parliament of the United Kingdom relating to the discipline of Her Majesty’s Armed Forces of New Zealand, and to provide for the discipline of and the administration of justice within those forces
 
@@ -2190,8 +2190,8 @@ A person who is not subject to this Act commits a contempt of a military tribuna
 (2) The military tribunal or court of inquiry may order any constable or provost officer, or any person subject to this Act directed by that tribunal or court, to take either of the actions specified in subsection (3) against the person who is considered to be in contempt of that tribunal or court.
 (3) The actions referred to in subsection (2) are—
   (a) to remove the person from the place where the proceedings are being held and to prevent that person from re-entering that place until the military tribunal or court of inquiry has risen; or
-  (b) if the military tribunal or court of inquiry is held in New Zealand, to arrest the person and take him or her before the nearest District Court.
-(4) If a person alleged to have committed contempt of a military tribunal or court of inquiry is brought before a District Court under subsection (3)﻿(b), the District Court Judge—
+  (b) if the military tribunal or court of inquiry is held in New Zealand, to arrest the person and take him or her before the nearest office of the District Court.
+(4) If a person alleged to have committed contempt of a military tribunal or court of inquiry is brought before the District Court under subsection (3)﻿(b), the District Court Judge—
   (a) must inquire into the alleged contempt; and
   (b) may find the person guilty of the contempt after hearing—
     (i) any witnesses against or on behalf of the person; and
@@ -2518,7 +2518,7 @@ No action for damages shall lie in respect of any act done or omitted unlawfully
 **Fines**
 
 ### 185 Recovery in District Court of fines imposed under this Act
-(1) If a fine has been imposed by the Court Martial, or by a disciplinary officer, on a person for an offence against this Act (whether in New Zealand or elsewhere), a certificate purporting to be signed by a competent service authority specifying particulars of the conviction and the fine imposed may be filed in any District Court in New Zealand (without payment of any fee).
+(1) If a fine has been imposed by the Court Martial, or by a disciplinary officer, on a person for an offence against this Act (whether in New Zealand or elsewhere), a certificate purporting to be signed by a competent service authority specifying particulars of the conviction and the fine imposed may be filed in the District Court in New Zealand (without payment of any fee).
 (1A) Subsection (1) does not limit section 85.
 (2) Once a certificate under subsection (1) is filed, the fine may be enforced in accordance with Part 3 of the Summary Proceedings Act 1957.
 
