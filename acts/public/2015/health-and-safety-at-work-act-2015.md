@@ -1,5 +1,5 @@
 # Health and Safety at Work Act 2015
-_Consolidation as at 2015-09-07_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Health and Safety at Work Act 2015.
@@ -1146,7 +1146,7 @@ For the purposes of this subpart, adverse conduct is engaged in for a prohibited
 **Civil proceedings in relation to adverse or coercive conduct**
 
 ### 95 Civil proceedings in relation to engaging in or inducing adverse or coercive conduct
-(1) An eligible person may apply to a District Court for 1 or more orders specified in subsection (2) in relation to a person who has—
+(1) An eligible person may apply to the District Court for 1 or more orders specified in subsection (2) in relation to a person who has—
   (a) engaged in adverse conduct for a prohibited health and safety reason; or
   (b) requested, instructed, induced, encouraged, authorised, or assisted another person to engage in adverse conduct for a prohibited health and safety reason; or
   (c) breached section 92 (which relates to the prohibition on coercion or inducement).
@@ -1173,7 +1173,7 @@ For the purposes of this subpart, adverse conduct is engaged in for a prohibited
 (1) Subject to subsections (2) and (3), the bringing of a prosecution under section 90, 91, or 92 does not prevent, in respect of the same conduct,—
   (a) the bringing of a civil proceeding under section 95; or
   (b) the raising of a personal grievance under the Employment Relations Act 2000.
-(2) If a District Court orders reparation to be paid under the Sentencing Act 2002 following conviction of a person under section 90, 91, or 92,—
+(2) If the District Court orders reparation to be paid under the Sentencing Act 2002 following conviction of a person under section 90, 91, or 92,—
   (a) the court may not order compensation to be payable in respect of the same losses in a civil proceeding under section 95:
   (b) the Employment Relations Authority or Employment Court may not order compensation to be payable in respect of the same losses in relation to a personal grievance under the Employment Relations Act 2000.
 (3) If, in respect of an action referred to in subsection (1)﻿(a) or (b), the court or the Employment Relations Authority or Employment Court orders compensation to be payable for the conduct, the same losses cannot be the subject of an order of reparation under the Sentencing Act 2002.
@@ -1371,7 +1371,7 @@ The regulator may recover as a debt due to the regulator the reasonable costs of
 ### Subpart 3 — Civil proceedings for non-compliance with notices
 
 ### 122 Civil proceedings relating to non-compliance with notice
-(1) On an application by the regulator, a District Court may make an order—
+(1) On an application by the regulator, the District Court may make an order—
   (a) compelling a person to comply with a notice; or
   (b) restraining a person from contravening a notice.
 (2) The court may make an order—
@@ -1404,7 +1404,7 @@ An enforceable undertaking takes effect and becomes enforceable when the regulat
   (b) for any other person, to a fine not exceeding $250,000.
 
 ### 127 Contravention of enforceable undertaking
-(1) The regulator may apply to a District Court for an order if a person contravenes an enforceable undertaking.
+(1) The regulator may apply to the District Court for an order if a person contravenes an enforceable undertaking.
 (2) If the court is satisfied that the person who made the enforceable undertaking has contravened the undertaking, the court may make either or both of the following orders:
   (a) an order directing the person to comply with the undertaking:
   (b) an order discharging the undertaking.
@@ -1489,7 +1489,7 @@ As soon as practicable after making a decision in accordance with section 132, t
 **Appeal to District Court**
 
 ### 135 Application for appeal
-(1) An eligible person may appeal to a District Court against an appealable decision on the grounds that it is unreasonable.
+(1) An eligible person may appeal to the District Court against an appealable decision on the grounds that it is unreasonable.
 (2) The appeal must be lodged within 14 days after the day on which the appealable decision first came to the eligible person's notice.
 (3) On an appeal under subsection (1), the court must inquire into the decision and may—
   (a) confirm or vary the decision; or
@@ -2869,7 +2869,7 @@ A health and safety representative is protected from civil and criminal liabilit
   (b) whether the removal from office is for a specified period or indefinite.
 
 ### 18 Appeal against removal from office
-(1) A health and safety representative may appeal to a District Court against a decision of the regulator to remove him or her from office.
+(1) A health and safety representative may appeal to the District Court against a decision of the regulator to remove him or her from office.
 (2) An appeal must be brought within 28 days of the date of the notice given under clause 17(2).
 
 ### 19 PCBU may request regulator to exercise discretion to remove health and safety representative
@@ -2878,7 +2878,7 @@ A health and safety representative is protected from civil and criminal liabilit
   (b) provide any relevant information to support the request.
 (2) After receiving the request, the regulator must decide whether to exercise its discretion to remove the health and safety representative.
 (3) If the regulator decides not to exercise its discretion to remove the health and safety representative, the regulator must give written notice to the PCBU stating the reasons for the regulator’s decision.
-(4) The PCBU may appeal to a District Court against a decision of the regulator not to exercise its discretion to remove the health and safety representative.
+(4) The PCBU may appeal to the District Court against a decision of the regulator not to exercise its discretion to remove the health and safety representative.
 (5) An appeal must be brought within 28 days of the date of the notice given under subclause (3).
 
 ### Part 2 — Health and safety committees
