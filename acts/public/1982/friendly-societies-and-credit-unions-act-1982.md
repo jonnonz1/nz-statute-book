@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -598,7 +598,7 @@ It shall be the duty of every branch of a registered society to supply the secre
   (c) any registered branch of any society or branch and the society or branch of which it is a branch; or
   (d) an officer of any such registered branch and the society or branch of which that registered branch is a branch; or
   (e) any 2 or more registered branches of any society or branch or any officers thereof respectively,—
-(3) Where the rules of a registered society or branch direct that disputes shall be referred to Justices, or to a District Court Judge, or to a District Court, the dispute shall be determined by way of action in a District Court; and the decision of that court shall be final.
+(3) Where the rules of a registered society or branch direct that disputes must be referred to Justices, or to a District Court Judge, or to the District Court, the dispute must be determined by way of action in the District Court, and the decision of that court is final.
 
 ### 79 Reference of dispute to Registrar
 (1) Notwithstanding anything to the contrary in the rules of any registered society or branch, any party to a dispute of a kind mentioned in section 78(2) may refer the dispute to the Registrar—
@@ -614,7 +614,7 @@ It shall be the duty of every branch of a registered society to supply the secre
 ### 81 Reference of disputes to court otherwise than under rules
 (1) Where, in relation to a dispute of a kind mentioned in section 78(2), no decision is made on the dispute within 40 days after application to the registered society or branch in question for a reference under its rules or the Registrar has declined a reference under section 79, then, subject to subsection (2), any person, society, or branch such as is mentioned in paragraphs (a) to (e) of the said section 78(2) who is a party to the dispute may apply to any court of competent jurisdiction, and the court to which the application is made may hear and determine the matter in dispute.
 (2) In the case of a society with branches, the period of 40 days referred to in subsection (1) shall not begin to run until application has been made in succession to all the bodies entitled to determine the dispute under the rules of the society or branch; but the rules of the society or branch shall not require a greater delay than 3 months between each successive determination of a dispute by the bodies entitled under the rules to determine the dispute.
-(3) For the purposes of this section, the term court includes a Disputes Tribunal established under the Disputes Tribunals Act 1988.
+(3) For the purposes of this section, the term court includes the Disputes Tribunal established under the Disputes Tribunal Act 1988.
 
 **Special resolutions**
 
@@ -763,7 +763,7 @@ It shall be the duty of every branch of a registered society to supply the secre
   (c) by the award of the Registrar under section 95.
 (2) A society which has branches shall not be dissolved except with the consent of the central body of the society.
 (3) If any member of a registered friendly society or branch in respect of which an instrument of dissolution has been registered in accordance with section 94, or if any person claiming any relief, annuity, or other benefit from the funds of such a society or branch is dissatisfied with the provision made for satisfying his claim, he may within the period of 3 months referred to in subsection (6) of that section, make an application to any court of competent jurisdiction, and the court to which the application is made may hear and determine the matter.
-(4) For the purposes of subsection (3), the term court includes a Disputes Tribunal established under the Disputes Tribunals Act 1988.
+(4) For the purposes of subsection (3), the term court includes the Disputes Tribunal established under the Disputes Tribunal Act 1988.
 (5) If, as a result of the dissolution of any registered friendly society or branch, any annuity ceases or would cease to be paid or any contract for the payment of an annuity fails or would fail either in whole or in part, no payment shall be made out of the funds of the society or branch to the annuitant or person entitled to the benefit of the contract; but any sum which would otherwise have been paid to that person shall be applied in purchasing for the benefit of the annuitant an annuity (for a similar term and subject to similar conditions against surrender, commutation, or assignment) from any person lawfully carrying on a business in New Zealand of granting annuities on human life.
 
 ### 94 Instrument of dissolution
