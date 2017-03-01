@@ -1,5 +1,5 @@
 # Railways Act 2005
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Railways Act 2005.
@@ -877,17 +877,17 @@ If a body corporate is convicted of an offence against this Act, every director 
 ### Subpart 7 — Appeals
 
 ### 68 Appeal to District Court
-(1) A person who is dissatisfied with a decision relating to that person made by the Agency may appeal to a District Court against that decision.
+(1) A person who is dissatisfied with a decision relating to that person made by the Agency may appeal to the District Court against that decision.
 (2) For the purposes of subsection (1), the exercise of a power conferred on the Agency by a provision of this Act, or a regulation or rule made under this Act, is a decision.
 
 ### 69 Procedure
 (1) An appeal under section 68 must be brought, by way of an originating application, no later than 28 days after the date on which the appellant was notified under this Act of the decision appealed against, or within any further period that the District Court may allow.
 (2) When considering an appeal under section 68,—
-  (a) a District Court may hear all evidence tendered and representations made by, or on behalf of, any party to the appeal that the court considers relevant to the appeal, whether or not that evidence would be otherwise admissible in the court; and
+  (a) the District Court may hear all evidence tendered and representations made by, or on behalf of, any party to the appeal that the court considers relevant to the appeal, whether or not that evidence would be otherwise admissible in the court; and
   (b) the court may—
     (i) confirm, reverse, or modify the decision appealed against, make the orders, and give the directions to the Agency that may be necessary to give effect to the court's decision; or
     (ii) refer the matter back to the Agency with directions to reconsider the whole or any part of the matter; and
-  (c) subject to this section, an appeal must be made and determined in accordance with the District Courts Act 1947 and the rules of the District Court made under that Act.
+  (c) subject to this section, an appeal must be made and determined in accordance with the District Court Act 2016 and the rules of the District Court made under that Act.
 (3) Subject to sections 71 and 72, the decision of the District Court on an appeal under section 68 is final.
 
 ### 70 Decision of Agency to continue in force pending appeal, etc
@@ -895,7 +895,7 @@ A decision of the Agency appealed against under section 68 or section 71 or sect
 
 ### 71 Appeal to High Court on question of law
 (1) A party to an appeal under section 68 who is dissatisfied with the decision of the District Court on the grounds that it is erroneous in law may appeal to the High Court on that question of law.
-(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
 
 ### 72 Further appeal to Court of Appeal
 (1) A party to an appeal under section 71 who is dissatisfied with the decision of the High Court in respect of the appeal as being erroneous in law may, with the leave of the High Court or (if that leave is declined) with special leave of the Court of Appeal, appeal to the Court of Appeal on that question of law.
@@ -981,11 +981,11 @@ A decision of the Agency appealed against under section 68 or section 71 or sect
 
 ### 78 Notice requirements
 (1) A notice given under section 76(2) or section 77(3)—
-  (a) must inform the person concerned of the right to apply to a District Court for an order under subsection (2); and
+  (a) must inform the person concerned of the right to apply to the District Court for an order under subsection (2); and
   (b) may be given to that person in accordance with section 94(1), or by affixing it in some conspicuous place near the fire, light, structure, source of the signal or radiation, or land to which the notice relates.
-(2) Within 10 working days after a notice is given to a person under section 76(2) or section 77(3), the person may apply to a District Court for an order setting the notice aside.
+(2) Within 10 working days after a notice is given to a person under section 76(2) or section 77(3), the person may apply to the District Court for an order setting the notice aside.
 (3) On the hearing of the application, the District Court, whose decision is final, must determine whether the notice should be set aside.
-(4) If a District Court sets a notice aside, the notice is void.
+(4) If the District Court sets a notice aside, the notice is void.
 (5) If a notice given under section 76(2) is not set aside and the person concerned neglects, for a period of 10 working days, to extinguish, remove, or screen effectively the fire, light, structure, signal, or radiation specified in the notice, the licensed access provider may, after giving reasonable notice to that person,—
   (a) enter the place where the fire, light, structure, or source of the signal or radiation is located and extinguish, remove, or screen it in a manner that does not cause unnecessary damage; and
   (b) recover the expenses incurred in doing this as a debt due to the licensed access provider from that person.
@@ -1104,14 +1104,14 @@ Except to the extent that a deed or agreement provides otherwise, no person has 
 (5) If work is rendered urgent and necessary by defective equipment, or other emergency, an infrastructure owner or licensed access provider is excused from complying with the requirements of subsection (1) before the commencement of the work, but must give the notice required by that subsection as soon as practicable after the commencement of the work.
 
 ### 89 Appeals in relation to conditions imposed
-(1) An infrastructure owner or licensed access provider has a right to appeal to a District Court against all or any of the conditions imposed under section 87(2).
+(1) An infrastructure owner or licensed access provider has a right to appeal to the District Court against all or any of the conditions imposed under section 87(2).
 (2) An appeal must be made by giving notice of an appeal within 40 working days after the date of notification of the conditions imposed.
-(3) In its determination of an appeal under this section, a District Court may confirm or modify or cancel all or any of the conditions imposed.
-(4) Subject to section 90, the decision of a District Court on an appeal under this section is final.
+(3) In its determination of an appeal under this section, the District Court may confirm or modify or cancel all or any of the conditions imposed.
+(4) Subject to section 90, the decision of the District Court on an appeal under this section is final.
 
 ### 90 Appeals on questions of law
 (1) If a party to an appeal under section 89 is dissatisfied with the decision of the District Court as being erroneous in point of law, that party may appeal to the High Court on the question of law only.
-(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
 (3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
 
 ### 91 No charging for access to road reserve
