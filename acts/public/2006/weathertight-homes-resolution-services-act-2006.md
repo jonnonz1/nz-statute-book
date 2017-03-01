@@ -1,5 +1,5 @@
 # Weathertight Homes Resolution Services Act 2006
-_Consolidation as at 2016-03-15_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Weathertight Homes Resolution Services Act 2006.
@@ -94,12 +94,12 @@ In this Act, unless the context otherwise requires,—
   - **complex** means a building, complex, or group of buildings
   - **court of competent jurisdiction** means—
     (a) a High Court; or
-    (b) a District Court, if the amount claimed or in issue does not exceed the amount to which the jurisdiction of the District Court is limited in civil cases
+    (b) the District Court, if the amount claimed or in issue does not exceed the amount to which the jurisdiction of the District Court is limited in civil cases
   - **cross-lease complex** means a complex containing dwellinghouses held under the arrangement commonly referred to as a cross-lease title
   - **damages** means any form of monetary compensation or damages (however described)
   - **deficiency** , in relation to a building, means any aspect of its design, construction, or alteration, or of materials used in its construction or alteration, that has enabled (or, as the case requires, is likely in future to enable) water to penetrate it
   - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act (except any justice provisions)
-  - **Disputes Tribunal** means a Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988
+  - **Disputes Tribunal** means the Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988
   - **dwellinghouse** —
     (a) means a building, or an apartment, flat, or unit within a building, that is intended to have as its principal use occupation as a private residence; and
     (b) in the case of a dwellinghouse that is a building, includes a gate, garage, shed, or other structure that is an integral part of the building; and
@@ -307,7 +307,7 @@ The representative of some or all of the owners of dwellinghouses in a multi-uni
 (5) The taking of the actions stated in subsection (1), (2), or (3) is authority enough for the representative concerned to take the actions stated in subsection (4).
 (6) Subsection (5) overrides anything to the contrary in—
   (a) the constitution of a flat-owning or office-owning company; or
-  (b) the lease of any dwellinghouse in a cross-lease complex; or
+  (b) the lease of any dwellinghouse in a cross-lease complex.
   (c)
 
 ### 23 How administrative decisions relating to representative claims in respect of multi-unit complexes to be made
@@ -494,7 +494,7 @@ An assessor's report may be an eligibility assessor's report or a full assessor'
   (b) the nature and extent of the damage caused by the water penetrating the multi-unit complex (whether damage to dwellinghouses or damage to common areas, but not including damage to parts of the complex that are neither a dwellinghouse nor a common area); and
   (c) the work needed to repair the damage; and
   (d) the work needed to make weathertight the dwellinghouses and common areas in the multi-unit complex (both in relation to the deficiencies that enabled the damage to occur and in relation to any deficiencies that are likely in future to enable damage to be caused to dwellinghouses or common areas by water penetrating them); and
-  (e) the estimated cost of the work referred to in paragraphs (c) and (d)); and
+  (e) the estimated cost of the work referred to in paragraphs (c) and (d); and
   (f) the persons who should be parties to the claim.
 (4) If the report states that the claim meets the criteria in section 17, the report must also state the assessor's view on—
   (a) why water penetrated the multi-unit complex concerned; and
@@ -697,7 +697,7 @@ Within 20 working days after receiving the copy of an assessor's report stating 
 (5) An owner of a dwellinghouse may not, however, apply to have an eligible claim adjudicated, or continue adjudication proceedings, if, and to the extent that, the subject matter of the claim is the subject of—
   (a) an arbitration that has already commenced; or
   (b) proceedings initiated by the claimant (including by way of counterclaim) by way of—
-    (i) proceedings in a court or a Disputes Tribunal; or
+    (i) proceedings in a court or the Disputes Tribunal; or
     (ii) proceedings under section 177 of the Building Act 2004.
 (6) Subsection (5) does not limit the power of any party to apply for proceedings to be transferred to adjudication under section 120 or agree that they be transferred under section 121.
 (7) If a claim is a lower-value claim, a claimant who would otherwise have the right to apply to the tribunal to have it adjudicated must not apply to have it adjudicated unless the claimant has—
@@ -926,7 +926,7 @@ If, in any particular case, no application has yet been made to the tribunal to 
 (1) Any agreed terms of settlement that are, under section 85, enforceable by the parties, may be enforced by the District Court in the same manner as an order made or judgment given by the District Court.
 (2) The terms of settlement referred to in subsection (1) must be filed in the District Court before they can be enforced.
 (3) If any agreed terms of settlement include a requirement that a party to the claim pay money to the claimant, sections 97 and 98 apply to that requirement as if it were imposed by a determination of the tribunal.
-(4) This section applies, despite section 29 of the District Courts Act 1947, even if the amount at issue (whether on balance of account or otherwise) is more than $200,000.
+(4) This section applies, despite section 74 of the District Court Act 2016, even if the amount at issue (whether on balance of account or otherwise) is more than $350,000.
 
 ### 88 Mediation services not to be questioned as being inappropriate
 (1) No mediation services may be challenged or called into question in any proceedings on the ground—
@@ -979,13 +979,13 @@ If, in any particular case, no application has yet been made to the tribunal to 
 ### 93 Right of appeal
 (1) A party to a claim that has been determined by the tribunal may appeal on a question of law or fact that arises from the determination.
 (2) An appeal must be filed in—
-  (a) the District Court if the amount at issue does not exceed $200,000; and
-  (b) the High Court if the amount at issue exceeds $200,000.
+  (a) the District Court if the amount at issue does not exceed $350,000; and
+  (b) the High Court if the amount at issue exceeds $350,000.
 (3) For the purposes of subsection (2), the amount at issue in relation to a determination is—
   (a) the amount of any money required to be paid under the determination by the person filing the appeal (including any amount determined under section 90(2)); or
   (b) if the appeal relates to a determination in which the tribunal has declined to require payment of any amount of money (or money's worth in terms of section 90(2)) to a claimant, or has required payment of an amount of money (or money's worth in terms of section 90(2)) that is less than the amount claimed by the claimant, the amount claimed unsuccessfully by the claimant.
-(4) A claimant may abandon so much of a claim to which an appeal relates as exceeds $200,000 in order to bring the appeal within the jurisdiction of the District Court.
-(5) If an appeal is commenced by a person who is required to pay money to a party to a claim, the person may bring the appeal within the jurisdiction of the District Court by paying the other person the difference between the amount required to be paid under the determination and $200,000.
+(4) A claimant may abandon so much of a claim to which an appeal relates as exceeds $350,000 in order to bring the appeal within the jurisdiction of the District Court.
+(5) If an appeal is commenced by a person who is required to pay money to a party to a claim, the person may bring the appeal within the jurisdiction of the District Court by paying the other person the difference between the amount required to be paid under the determination and $350,000.
 (6) Section 182 of the Building Act 2004 does not apply to an appeal under this section.
 
 ### 94 Procedure for commencing appeal
@@ -1013,18 +1013,18 @@ A party to the adjudication must comply with a determination of the tribunal.
 
 ### 98 Enforcement of tribunal's determination
 (1) Every determination of the tribunal must be treated as an order of the District Court, and, subject to this section, may be enforced accordingly.
-(2) If application is made to a District Court for the issue of any process to enforce a determination of the tribunal provided for by section 90(2) (determining an amount of money that is payable by a person required to take any action other than the payment of money), the Registrar must give written notice of the application to the party against whom enforcement is sought.
+(2) If application is made to the District Court for the issue of any process to enforce a determination of the tribunal provided for by section 90(2) (determining an amount of money that is payable by a person required to take any action other than the payment of money), the Registrar must give written notice of the application to the party against whom enforcement is sought.
 (3) If that party does not file in the court, within 10 working days after receiving notice of the application, a notice of objection, the order may, after the expiry of that period, be enforced under subsection (1).
 (4) The notice referred to in subsection (3) may be given only on the ground that it is the belief of the party giving it that the order of the tribunal has been fully complied with and that the party therefore disputes the entitlement of the applicant to enforce it.
 (5) If the party against whom enforcement is sought files the notice referred to in subsection (3) within the 10-working-day period specified in subsection (3), the District Court must determine the matter.
-(6) This section applies, despite section 29 of the District Courts Act 1947, even if the amount at issue (whether on balance of account or otherwise) is more than $200,000.
+(6) This section applies, despite section 74 of the District Court Act 2016, even if the amount at issue (whether on balance of account or otherwise) is more than $350,000.
 
 ### 99 Records of adjudication
 (1) The tribunal is responsible for ensuring the safe custody of the records and papers relating to adjudications conducted under this Act.
 (2) The records and papers must be available for public inspection, on payment of the relevant fee (if any), at all reasonable times, unless an order of the tribunal under section 69 or under clause 14 of Schedule 3 requires otherwise.
 (3) Any person may, on application to the tribunal and payment of the relevant fee (if any), require the tribunal to supply to that person a true copy of any record or paper for the time being in the custody or under the control of the tribunal and available for public inspection under subsection (2).
 (4) A certificate signed by a member and to the effect that a copy of that kind is a true copy of the record or paper to which the certificate relates is, in the absence of proof to the contrary, sufficient evidence that the copy is a true copy of that record or paper.
-(5) Relevant fee, in relation to the public inspection, or to the supply of a true copy, of a record or paper, under this section, means the fee (if any) prescribed by regulations made under the District Courts Act 1947 as payable in respect of civil proceedings under that Act or other Acts for the search of a document, or for a copy of any notes, judgment, or order, or of any other document, respectively.
+(5) Relevant fee, in relation to the public inspection, or to the supply of a true copy, of a record or paper, under this section, means the fee (if any) prescribed by regulations made under the District Court Act 2016 as payable in respect of civil proceedings under that Act or other Acts for the search of a document, or for a copy of any notes, judgment, or order, or of any other document, respectively.
 
 ### 100 Adjudication determinations to be made available
 (1) The tribunal—
@@ -1173,13 +1173,13 @@ Any notice or any other document required to be served on, or given to, any pers
 (3) If in any case a mediator or the tribunal decides to decline to deal with a claim, the mediator or the tribunal must inform the parties of that decision and state the reasons for that decision.
 
 ### 119 Transfer of claim to court
-The tribunal may order a claim to be transferred to a District Court or the High Court in its ordinary civil jurisdiction if, in the tribunal's view, it is more appropriate for a court to determine the claim for all or any of the following reasons:
+The tribunal may order a claim to be transferred to the District Court or the High Court in its ordinary civil jurisdiction if, in the tribunal's view, it is more appropriate for a court to determine the claim for all or any of the following reasons:
   (a) the claim presents undue complexity:
   (b) the claim presents a novel claim:
   (c) the subject matter of the claim is related to the subject matter of proceedings that are already before the court.
 
 ### 120 Transfer of proceedings from court
-(1) If proceedings relating to a claim have been commenced in a District Court, a District Court Judge may, on the application of any party, or on the Judge's own motion, order that the proceedings be transferred to adjudication.
+(1) If proceedings relating to a claim have been commenced in the District Court, a District Court Judge may, on the application of any party, or on the Judge's own motion, order that the proceedings be transferred to adjudication.
 (2) If proceedings relating to a claim have been commenced in the High Court, a High Court Judge may, on the application of any party or on the Judge's own motion, order that the proceedings be transferred to adjudication.
 (3) If proceedings are transferred under subsection (1) or (2), the tribunal may have regard to any notes of evidence transmitted to it by the Judge, and it is not necessary for that evidence to be given again in the adjudication unless the tribunal requires it.
 (4) An order to transfer proceedings under subsection (1) or (2) may be made only if—
@@ -1226,12 +1226,12 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (f) the transfer of proceedings to adjudication, under section 120 or 121:
   (g) the discontinuance or termination, for any other reason (for example, under section 55 and because of a change of ownership), and if known to the tribunal, of a claim.
 
-### 125 Rules of Court: District Courts
-(1) In addition to all other powers conferred by the District Courts Act 1947, the Governor-General may, by Order in Council, make rules regulating the practice and procedure of District Courts in proceedings under this Act.
+### 125 Rules of Court: District Court
+(1) In addition to all other powers conferred by the District Court Act 2016, the Governor-General may, by Order in Council, make rules regulating the practice and procedure of the District Court in proceedings under this Act.
 (2) Rules may be made under subsection (1) only with the concurrence of—
   (a) the Chief District Court Judge; and
-  (b) 2 or more members of the Rules Committee established under section 51B of the Judicature Act 1908 of whom at least 1 is a District Court Judge.
-(3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the District Courts Act 1947 apply, with all necessary modifications, to proceedings under this Act.
+  (b) 2 or more members of the Rules Committee established under section 155 of the Senior Courts Act 2016 of whom at least 1 is a District Court Judge.
+(3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the District Court Act 2016 apply, with all necessary modifications, to proceedings under this Act.
 
 ## Part 1A — Financial assistance package
 
@@ -1808,8 +1808,8 @@ In any adjudication the tribunal may, if it thinks fit, dispense with any eviden
 (3) If proceedings are resolved by the tribunal making a determination on agreed terms under section 90(6), the tribunal may make an order prohibiting the publication of all or part of that determination, subject to any conditions it thinks fit.
 
 ### 15 Discovery
-(1) The tribunal may, in relation to discovery, make any order that a District Court may make under section 56A or 56B of the District Courts Act 1947; and those sections apply accordingly with all necessary modifications.
-(2) Every application for an order under section 56A or 56B of the District Courts Act 1947 (as applied by subclause (1)) is to be dealt with in accordance with regulations made under this Act.
+(1) The tribunal may, in relation to discovery, make any order that the District Court may make under section 105 or 106 of the District Court Act 2016; and those sections apply accordingly with all necessary modifications.
+(2) Every application for an order under section 105 or 106 of the District Court Act 2016 (as applied by subclause (1)) is to be dealt with in accordance with regulations made under this Act.
 
 ### 16 Power to award interest
 (1) In any adjudication for the recovery of any money, the tribunal may, if it thinks fit and subject to subclause (2), order the inclusion, in the sum for which a determination is given, of interest, at such rate, not exceeding the 90-day bill rate plus 2%, as the tribunal thinks fit, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment.
