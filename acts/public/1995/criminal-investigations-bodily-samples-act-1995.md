@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2016-02-04_
+_Consolidation as at 2017-03-01_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -18,12 +18,12 @@ _Consolidation as at 2016-02-04_
   - **blood sample** means a fingerprick sample or a venous sample
   - **bodily sample** or means a blood sample or a buccal sample
   - **buccal sample** means a sample of epithelial cells from inside the mouth taken by a device, or provided by other means, approved for the purpose under section 4B(1)﻿(b)
-  - **charged** , in relation to a person, means that a charging document charging the person with an offence has been filed in a District Court (including in relation to proceedings in the Youth Court)
+  - **charged** , in relation to a person, means that a charging document charging the person with an offence has been filed in the District Court (including in relation to proceedings in the Youth Court)
   - **child** means a person of or over the age of 10 years but under the age of 14 years
   - **Commissioner** means the Commissioner of Police
   - **compulsion order** means a suspect compulsion order or a juvenile compulsion order
   - **conviction** includes—and has a corresponding meaning
-    (a) a finding, by a Youth Court, that a charge against a young person is proved; and
+    (a) a finding, by the Youth Court, that a charge against a young person is proved; and
     (b) an acquittal on account of insanity; and
     (c) the dismissal of a charge on account of insanity; and
     (d) a finding that the person is unfit to stand trial;—
@@ -35,7 +35,7 @@ _Consolidation as at 2016-02-04_
   - **databank compulsion notice hearing** means a hearing requested under section 41
   - **databank request** means a request made pursuant to section 30
   - **detained under a sentence of imprisonment** has the meaning given to it by section 4A
-  - **District Court** , in sections 6(2)﻿(b)﻿(vii), 7(b)﻿(viii), 13(1), 14(1)﻿(a), 15(1), 16(1), and 18(1) and (3)﻿(b)﻿(vii), includes a Youth Court if the suspect or respondent is subject to the Youth Court's jurisdiction
+  - **District Court** , in sections 6(2)﻿(b)﻿(vii), 7(b)﻿(viii), 13(1), 14(1)﻿(a), 15(1), 16(1), and 18(1) and (3)﻿(b)﻿(vii), includes the Youth Court if the suspect or respondent is subject to the Youth Court's jurisdiction
   - **DNA profile** , in relation to any person, means information derived from an analysis of a sample of genetic material obtained from that person, being information—
     (a) that is clearly identifiable as relating to that person; and
     (b) that is able to be compared with information obtained from an analysis (using the same technique) of another sample of genetic material for the purpose of determining, with reasonable certainty, whether or not the other sample is from that person
@@ -632,9 +632,9 @@ Subject to sections 60, 60A, and 62, the following information may be stored on 
   (ab) any DNA profile derived from a bodily sample taken from a person under Part 2B if—
     (i) that person is convicted of the triggering offence, or of a related imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule (unless the conviction is subsequently quashed); and
     (ii) the offence of which the person is convicted is an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule; and
-    (iii) in the case of a person who was a young person on the date of the offence, a sentence of imprisonment or of a non-custodial nature is imposed for the offence or a Youth Court makes an order under section 283 of the Children, Young Persons, and Their Families Act 1989:
+    (iii) in the case of a person who was a young person on the date of the offence, a sentence of imprisonment or of a non-custodial nature is imposed for the offence or the Youth Court makes an order under section 283 of the Children, Young Persons, and Their Families Act 1989:
   (ac) any DNA profile derived from a bodily sample taken from a young person under Part 2B if—
-    (i) a Youth Court made an order under section 282 of the Children, Young Persons, and Their Families Act 1989 discharging the charge relating to the offence after finding that the offence was proved; and
+    (i) the Youth Court made an order under section 282 of the Children, Young Persons, and Their Families Act 1989 discharging the charge relating to the offence after finding that the offence was proved; and
     (ii) the offence in relation to which the order was made is a relevant offence, or a related offence:
   (b) subject to section 36, any DNA profile derived from a bodily sample taken from any person pursuant to this Part.
 
@@ -643,16 +643,16 @@ Subject to sections 60, 60A, and 62, the following information may be stored on 
 (2) In the case of a person's DNA profile stored under section 26(a) or (ab), the storage of the profile is subject to subsection (4) if—
   (a) the person was a young person on the date of the offence; and
   (b) any of the following applies:
-    (i) a Youth Court made an order under 1 or more of paragraphs (a) to (n) of section 283 of the Children, Young Persons, and Their Families Act 1989; or
-    (ii) a Youth Court made an order under section 283(o) of the Children, Young Persons, and Their Families Act 1989 but no court imposed a sentence of imprisonment for the offence; or
-    (iii) a District Court (rather than a Youth Court) convicted the person of the offence but did not impose a sentence of imprisonment.
+    (i) the Youth Court made an order under 1 or more of paragraphs (a) to (n) of section 283 of the Children, Young Persons, and Their Families Act 1989; or
+    (ii) the Youth Court made an order under section 283(o) of the Children, Young Persons, and Their Families Act 1989 but no court imposed a sentence of imprisonment for the offence; or
+    (iii) the District Court (rather than the Youth Court) convicted the person of the offence but did not impose a sentence of imprisonment.
 (3) In the case of a profile stored under section 26(ac), the storage of the profile is subject to subsection (4) if—
   (a) the person was a young person on the date of the offence; and
-  (b) a Youth Court made an order under section 282 of the Children, Young Persons, and Their Families Act 1989 discharging the charge relating to the offence after finding that the offence was proved.
-(4) The retention periods and effect of certain subsequent offences are as follows:The following table is small in size and has 3 columns. Column 1 is headed Sentence or order. Column 2 is headed Retention period for order or conviction. Column 3 is headed Retention period for subsequent offence.Sentence or orderRetention period for order or convictionRetention period for subsequent offenceSection 26(a) or (ab): section 283(a) to (n) order made by a Youth Court10 years after date of that section 283 orderIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(a) or (ab): section 283(o) order made by a Youth Court but no imprisonment10 years after date of section 283(o) orderIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(a) or (ab): convicted by a District Court but no imprisonment10 years after date of convictionIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(ac): section 282 order made after offence proved4 years after date of section 282 orderIf a section 283 order is subsequently made during that 4-year period, a further retention period of 10 years applies and runs concurrently with the 4-year period.If the person is subsequently convicted by a District Court without imprisonment during that 4-year period, a further retention period of 10 years applies and runs concurrently with the 4-year period.If another section 282 order is subsequently made during that 4-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the first 4-year period.
+  (b) the Youth Court made an order under section 282 of the Children, Young Persons, and Their Families Act 1989 discharging the charge relating to the offence after finding that the offence was proved.
+(4) The retention periods and effect of certain subsequent offences are as follows:The following table is small in size and has 3 columns. Column 1 is headed Sentence or order. Column 2 is headed Retention period for order or conviction. Column 3 is headed Retention period for subsequent offence.Sentence or orderRetention period for order or convictionRetention period for subsequent offenceSection 26(a) or (ab): section 283(a) to (n) order made by the Youth Court10 years after date of that section 283 orderIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(a) or (ab): section 283(o) order made by the Youth Court but no imprisonment10 years after date of section 283(o) orderIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(a) or (ab): convicted by the District Court but no imprisonment10 years after date of convictionIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(ac): section 282 order made after offence proved4 years after date of section 282 orderIf a section 283 order is subsequently made during that 4-year period, a further retention period of 10 years applies and runs concurrently with the 4-year period.If the person is subsequently convicted by the District Court without imprisonment during that 4-year period, a further retention period of 10 years applies and runs concurrently with the 4-year period.If another section 282 order is subsequently made during that 4-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the first 4-year period.
 (5) A person's DNA profile stored under section 26 may, unless otherwise provided by this Act, be stored indefinitely on a DNA profile databank if any of the following apply:
   (a) if the profile is stored in relation to an offence and a court imposes a sentence of imprisonment for the offence:
-  (b) if the profile is stored in relation to an offence and a retention period initially applies to the offence and, during that period, a subsequent order or conviction is made or entered against the person that is not specifically provided for in the third column of the table in subsection (4):ExamplesDuring a 10-year period for a section 283 order, another section 283 order is made against the person or a conviction (with or without imprisonment) is entered against the person by any court.During a 10-year period for a conviction by a District Court, a section 283 order is made against the person or another conviction (with or without imprisonment) is entered against the person by any court.During a 4-year retention period for a section 282 order, 2 further section 282 orders are made against the person.
+  (b) if the profile is stored in relation to an offence and a retention period initially applies to the offence and, during that period, a subsequent order or conviction is made or entered against the person that is not specifically provided for in the third column of the table in subsection (4):ExamplesDuring a 10-year period for a section 283 order, another section 283 order is made against the person or a conviction (with or without imprisonment) is entered against the person by any court.During a 10-year period for a conviction by the District Court, a section 283 order is made against the person or another conviction (with or without imprisonment) is entered against the person by any court.During a 4-year retention period for a section 282 order, 2 further section 282 orders are made against the person.
   (c) in any other case (whether the person is a young person or of or over the age of 17 years), no fixed retention period is specified by this Act.
 (6) The profile must be removed from the databank no later than 10 years after the date on which the person ceases to be subject to a sentence of imprisonment in respect of the offence, or, in any other case, no later than 10 years after the date of conviction, if—
   (a) either—
@@ -665,7 +665,7 @@ Subject to sections 60, 60A, and 62, the following information may be stored on 
 (1) This section applies to a person if,—
   (a) before the commencement of this section,—
     (i) a DNA profile of the person was taken and stored on a DNA databank under Part 2 when the person was a young person; and
-    (ii) a Youth Court made an order in relation to the person under section 282 or 283 of the Children, Young Persons, and Their Families Act 1989 in relation to an offence but no court imposed a sentence of imprisonment for the offence; and
+    (ii) the Youth Court made an order in relation to the person under section 282 or 283 of the Children, Young Persons, and Their Families Act 1989 in relation to an offence but no court imposed a sentence of imprisonment for the offence; and
   (b) within 10 years after the date of that order, the person is not convicted of an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule.
 (2) The person’s DNA profile must be removed from the DNA databank and destroyed if the person applies in writing to the Commissioner requesting the removal of the profile.
 
