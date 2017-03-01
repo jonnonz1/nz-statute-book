@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2016-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -1517,7 +1517,7 @@ If a Registrar receives, during an inquiry under section 89D(1), or within 28 da
   (a) the person objected to; or
   (b) the person who, under section 12(1) of the Protection of Personal and Property Rights Act 1988, is the welfare guardian for the person objected to; or
   (c) the attorney appointed by the person objected to under an enduring power of attorney,—
-(2) Any notice issued under subsection (1) shall be served personally in accordance with the rules governing personal service contained in the District Courts Rules 1992.
+(2) Any notice issued under subsection (1) shall be served personally in accordance with the rules governing personal service contained in District Court Rules 2014.
 (3) The notice issued by the Registrar under subsection (1) shall also inform the person objected to—
   (a) that he or she may forward to the Registrar a statement signed by him or her giving reasons why his or her name should be retained on the roll; and
   (b) that his or her name will be retained on the roll if he or she provides the Registrar with evidence that satisfies the Registrar that the name of the person objected to should be retained on the roll; and
@@ -1537,10 +1537,10 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
   (c) the attorney appointed by the person objected to under an enduring power of attorney,—
 
 ### 95D Reference of elector’s objection to District Court
-(1) Unless,—the Registrar shall refer the objection to a District Court, and shall notify the parties of the time and place appointed for the hearing.
+(1) Unless,—the Registrar shall refer the objection to the District Court, and shall notify the parties of the time and place appointed for the hearing.
   (a) within 14 days after the day on which a notice under section 95A(1) or section 96(2) is served on the person objected to, the objection is withdrawn; or
   (b) the name of the person who is objected to is removed from the roll under section 95B or retained on the roll under section 95C,—
-(2) Subject to subsection (3), where any party notifies the Registrar that the party is dissatisfied with a decision of the Registrar made under section 95B or section 95C, the Registrar shall refer the objection to a District Court, and shall notify the parties of the time and place appointed for the hearing.
+(2) Subject to subsection (3), where any party notifies the Registrar that the party is dissatisfied with a decision of the Registrar made under section 95B or section 95C, the Registrar shall refer the objection to the District Court, and shall notify the parties of the time and place appointed for the hearing.
 (3) Any notification given by a party under subsection (2) shall be in writing and shall be given within 14 days after the day on which the party is notified by the Registrar under section 95B or section 95C, as the case may be.
 
 ### 96 Registrar’s objection
@@ -1549,7 +1549,7 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
   (a) the person objected to; or
   (b) the welfare guardian appointed for the person objected to under section 12(1) of the Protection of Personal and Property Rights Act 1988; or
   (c) the attorney appointed by the person objected to under an enduring power of attorney,—
-(3) The notice issued by the Registrar under subsection (2) shall be served personally in accordance with the rules governing personal service contained in the District Courts Rules 1992.
+(3) The notice issued by the Registrar under subsection (2) shall be served personally in accordance with the rules governing personal service contained in the District Court Rules 2014.
 (4) The notice issued by the Registrar under subsection (1) shall also inform the person objected to—
   (a) that he or she may forward to the Registrar a statement signed by him or her giving reasons why his or her name should be retained on the roll; and
   (b) that his or her name will be retained on the roll if he or she provides the Registrar with evidence that satisfies the Registrar that the name of the person objected to should be retained on the roll; and
@@ -1558,7 +1558,7 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
 (6) Nothing in this section affects the provisions of this Act as to the removal of names from the roll by the Registrar.
 
 ### 97 Procedure on reference of application or objection to District Court
-(1) The following provisions of this section shall apply with respect to proceedings on the reference to a District Court of an objection under section 95 or section 96.
+(1) The following provisions of this section shall apply with respect to proceedings on the reference to the District Court of an objection under section 95 or section 96.
 (2) The Registrar of Electors, any objector, and the person objected to may appear before the court either in person or by some person appointed by him or her in writing or by a barrister or solicitor.
 (3) In the case of an objection, the person objected to may forward to the Registrar of the court a statement signed by him or her giving reasons why his or her name should be retained on the roll, and the court shall take any such statement into account in determining the objection.
 (3A) If a person objected to has a physical or mental impairment, that person's representative may sign and forward to the Registrar a statement giving reasons why the person's name should not be removed from the roll.
@@ -3492,7 +3492,7 @@ Every person is guilty of—
 (2) Any sum paid by the candidate in accordance with a judgment or order of the court in any such action is to be treated as paid within the period specified in section 205G(2).
 
 ### 205I Leave to pay claim after time limitation
-(1) On the application of a claimant or a candidate, a District Court may make an order granting leave to the candidate to pay—
+(1) On the application of a claimant or a candidate, the District Court may make an order granting leave to the candidate to pay—
   (a) a claim for election expenses sent after the period specified in section 205G(1); or
   (b) a claim not paid in the period specified in section 205G(2); or
   (c) a disputed claim in respect of which an action was not brought within the period specified in section 205H(1)﻿(b).
@@ -3633,7 +3633,7 @@ Every person is guilty of—
 (2) Any sum paid by the party in accordance with a judgment or order of the court in any such action is to be treated as paid within the period specified in section 206E(2).
 
 ### 206G Leave to pay claim after time limitation
-(1) On the application of a claimant or a party, a District Court may make an order granting leave to a party to pay—
+(1) On the application of a claimant or a party, the District Court may make an order granting leave to a party to pay—
   (a) a claim for election expenses sent after the period specified in section 206E(1); or
   (b) a claim not paid in the period specified in section 206E(2); or
   (c) a disputed claim in respect of which an action was not brought within the period specified in section 206F(1)﻿(b).
@@ -3778,7 +3778,7 @@ Every person is guilty of—
 (2) Any sum paid by the registered promoter in accordance with a judgment or order of the court in any such action is to be treated as paid within the period specified in section 206Y(2).
 
 ### 206ZA Leave to pay claim after time limitation
-(1) On the application of a claimant or a registered promoter, a District Court may make an order granting leave to the registered promoter to pay—
+(1) On the application of a claimant or a registered promoter, the District Court may make an order granting leave to the registered promoter to pay—
   (a) a claim for election expenses sent after the period specified in section 206Y(1); or
   (b) a claim not paid in the period specified in section 206Y(2); or
   (c) a disputed claim in respect of which an action was not brought within the period specified in section 206Z(1)﻿(b).
@@ -4568,7 +4568,7 @@ Where the name of any person is entered on the Corrupt Practices List for any di
 Where more petitions than 1 are presented relating to the same election or return, all those petitions shall be dealt with as 1 petition.
 
 ### 234 Rules of court
-(1) Rules of court may be made in the manner prescribed by the Judicature Act 1908 for the purposes of this Part.
+(1) Rules of court may be made in the manner prescribed by Senior Courts Act 2016 for the purposes of this Part.
 (2) All rules made under this section shall be laid before the House of Representatives not later than the 16th sitting day of the House of Representatives after the day on which they are made.
 
 **Trial of election petition**
