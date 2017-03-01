@@ -1,5 +1,5 @@
 # Taxation Review Authorities Act 1994
-_Consolidation as at 2011-08-29_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate the law relating to Taxation Review Authorities
 
@@ -37,7 +37,7 @@ Except where there is express provision to the contrary,—For example, a refere
 (2) If more than 1, any Authority may be given such distinctive designation as the Governor-General determines, and any such designation may from time to time be changed by the Governor-General.
 (3) Every Authority shall consist of one person, being a District Court Judge or a barrister or solicitor of the High Court of not less than 7 years’ practice.
 (4) Every Authority shall be appointed by the Governor-General on the recommendation of the Minister of Justice.
-(5) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Act 1956 by reason only of the person being an Authority.
+(5) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason only of the person being an Authority.
 
 ### 6 Term of office of an Authority
 (1) Except as otherwise provided in this Act, every person appointed as an Authority shall be appointed for such term, not exceeding 7 years, as the Governor-General thinks fit, and may from time to time be reappointed.
@@ -74,9 +74,9 @@ The functions of an Authority are to sit as a judicial authority for hearing and
 
 ### 13A General jurisdiction of Authorities
 Every Authority established under section 5 has a general jurisdiction—
-  (a) to hear and determine objections that this Act and the Taxation Administration Act 1994 authorise the Authority to hear and determine; and
+  (a) to hear and determine objections that this Act and the Tax Administration Act 1994 authorise the Authority to hear and determine; and
   (b) to hear and determine challenges—
-    (i) that this Act and the Taxation Administration Act 1994 authorise the Authority to hear and determine; and
+    (i) that this Act and the Tax Administration Act 1994 authorise the Authority to hear and determine; and
     (ii)
 
 ### 13B Small claims jurisdiction of Authorities
@@ -141,7 +141,7 @@ An Authority may at any time dismiss any objection or challenge, if the Authorit
 (2) An order by an Authority under this section shall be subject to appeal under section 26 as if—and the provisions of sections 25 to 29 shall apply accordingly with any necessary modifications.
   (a) the order were a determination of the Authority on an objection or challenge, or a part of any determination of the Authority on the objection or challenge in respect of which the costs were ordered; and
   (b) the amount of costs ordered were an amount of tax or duty,—
-(3) For the purpose of enforcing any order of an Authority made under this section, a duplicate of the order may be lodged in a District Court, and shall be enforceable in all respects as a final judgment of that court in its civil jurisdiction.
+(3) For the purpose of enforcing any order of an Authority made under this section, a duplicate of the order may be lodged in the District Court, and shall be enforceable in all respects as a final judgment of that court in its civil jurisdiction.
 
 ### 22B Power to order costs for filing fees
 An Authority may order the Commissioner to pay to an objector or a disputant an amount of costs not more than the filing fee paid by the objector or disputant under the relevant regulation.
