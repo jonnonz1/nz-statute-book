@@ -1,5 +1,5 @@
 # Aquaculture Reform (Repeals and Transitional Provisions) Act 2004
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
@@ -84,7 +84,7 @@ In sections 10 to 17, unless the context otherwise requires, deemed coastal perm
 (10) Subsection (11) applies if, immediately before the date specified in subsection (2),—
   (a) a variation has been made under section 13(1) or (3) of the principal Act to a lease or licence which authorises the farming of species of fish, aquatic life, or seaweed not authorised before the variation; and
   (b) the holder of the lease or licence has not begun to farm the species of fish, aquatic life, or seaweed that the variation applies to.
-(11) The holder of the lease or licence must not begin farming the species of fish, aquatic life, or seaweed referred to in subsection (10)(b) if doing so would have, or is likely to have, effects that are more adverse in character, intensity, or scale than the effects of farming the species of fish, aquatic life, or seaweed that the lease or licence applied to immediately before the variation.
+(11) The holder of the lease or licence must not begin farming the species of fish, aquatic life, or seaweed referred to in subsection (10)﻿(b) if doing so would have, or is likely to have, effects that are more adverse in character, intensity, or scale than the effects of farming the species of fish, aquatic life, or seaweed that the lease or licence applied to immediately before the variation.
 (12) However, subsection (11) does not apply if the holder of the lease or licence is authorised to farm the species of fish, aquatic life, or seaweed concerned by—
   (a) a permission that is deemed to be a coastal permit by section 384 of the Resource Management Act 1991; or
   (b) a coastal permit granted under the Resource Management Act 1991; or
@@ -96,11 +96,11 @@ The chief executive of the Ministry of Fisheries must, within 3 months after the
 ### 12 Approvals under Harbours Act 1950
 (1) Subsection (2) applies if a person holds—
   (a) a deemed coastal permit; and
-  (b) an approval under section 178(1)(b) of the Harbours Act 1950 to erect structures for aquaculture activities that is—
+  (b) an approval under section 178(1)﻿(b) of the Harbours Act 1950 to erect structures for aquaculture activities that is—
     (i) deemed to be a coastal permit under section 384 of the Resource Management Act 1991; and
     (ii) in force immediately before the commencement of this Act.
-(2) The deemed coastal permit referred to in subsection (1)(b)—
-  (a) becomes part of the deemed coastal permit referred to in subsection (1)(a) and subject to section 10; and
+(2) The deemed coastal permit referred to in subsection (1)﻿(b)—
+  (a) becomes part of the deemed coastal permit referred to in subsection (1)﻿(a) and subject to section 10; and
   (b) lapses as an approval under the Harbours Act 1950.
 
 ### 13 Mortgages and charges
@@ -124,7 +124,7 @@ A sublessee or sublicensee of a lease or licence that is subject to a sublease o
 
 ### 17 Holder of deemed coastal permit to be treated as holder of fish farm registration pending registration by chief executive
 (1) The holder of a deemed coastal permit must be treated as a registered fish farmer under Part 9A of the Fisheries Act 1996 for the space that the deemed coastal permit relates to.
-(2) Within 12 months after the commencement of this Act or, if section 16 applies, the date referred to in section 10(2)(b), the chief executive must register the holder of the deemed coastal permit as a fish farmer under section 186V of the Fisheries Act 1996 without an application or payment of the prescribed fee.
+(2) Within 12 months after the commencement of this Act or, if section 16 applies, the date referred to in section 10(2)﻿(b), the chief executive must register the holder of the deemed coastal permit as a fish farmer under section 186V of the Fisheries Act 1996 without an application or payment of the prescribed fee.
 
 ### 17A Term of certain leases extended
 (1) The leases referred to in this section were granted under the Marine Farming Act 1971 and relate to that part of the coastal marine area in Waikare Inlet in the Bay of Islands.
@@ -185,7 +185,7 @@ Amendment(s) incorporated in the Act(s).
   (d) any associated discharges; and
   (e) any associated disturbance of, and deposition on, the seabed.
 (6) Nothing in this section prevents the holder of the coastal permit from applying for a change or cancellation of the conditions of the permit under section 127 of the Resource Management Act 1991.
-(7) Nothing in this section prevents the consent authority from reviewing the conditions of the coastal permit in terms of section 128 (other than subsection (1)(c)) of the Resource Management Act 1991.
+(7) Nothing in this section prevents the consent authority from reviewing the conditions of the coastal permit in terms of section 128 (other than subsection (1)﻿(c)) of the Resource Management Act 1991.
 (8) In this section, the Waikato Communal Area means the rectangular 22.5 hectare (more or less) coastal marine area to the east of Esk Point in the Coromandel Harbour, more particularly described as commencing at a point bearing 352° 805 metres from Trig 23B Tuhana and bounded by the lines running 90° for 750 metres, 360° for 300 metres, 270° for 750 metres, and 180° for 300 metres to the point of commencement.
 
 ### 21 Certain spat catching permits deemed to be coastal permits
@@ -257,7 +257,7 @@ Section 36 of the Resource Management Act 1991 applies in relation to the functi
 (8) If subsection (5) applies, the chief executive must give a notice to the applicant and give public notification accordingly. The notice and public notification must also—
   (a) specify—
     (i) the area concerned; and
-    (ii) the stocks subject to the quota management system in the area that are the reason for the chief executive's view under subsection (5)(b); and
+    (ii) the stocks subject to the quota management system in the area that are the reason for the chief executive's view under subsection (5)﻿(b); and
   (b) specify the chief executive's reasons for deciding that subsection (5) applies; and
   (c) contain a copy, or statement to the effect, of subsections (9) and (10).
 (9) The chief executive must decline the application, if the applicant does not lodge—
@@ -267,7 +267,7 @@ Section 36 of the Resource Management Act 1991 applies in relation to the functi
   (a) an aquaculture agreement with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under section 186ZI(4) of the Fisheries Act 1996; or
   (b) a compensation declaration with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under section 186ZIA(4) of the Fisheries Act 1996.
 (11) For the purposes of this section, the reference in section 67J(10) of the principal Act to adverse effects on fishing or the sustainability of any fisheries resource must be read as if it were a reference to adverse effects on fishing.
-(12) Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, judicial review of a decision under this section must do so within 30 working days after the public notification of the decision.
+(12) Any person wishing to seek, under the Judicial Review Procedure Act 2016, judicial review of a decision under this section must do so within 30 working days after the public notification of the decision.
 (13) The provisions of Part 1 of Schedule 2 have effect in relation to aquaculture agreements and compensation.
 (14) In this section,—
   - **aquaculture agreement** means an agreement that complies with subpart 4 of Part 9A of the Fisheries Act 1996, subject to the modifications set out in Part 1 of Schedule 2
@@ -304,13 +304,13 @@ Section 36 of the Resource Management Act 1991 applies in relation to the functi
 (4) If the application is for a spat catching permit and the application is granted, section 21 applies to the permit as if every reference in that section to the commencement of this Act were a reference to the date on which the application was granted.
 (5) Subsections (6) and (7) apply to a person who—
   (a) holds a coastal permit or certificate of compliance to occupy a coastal marine area for the purposes of marine farming or spat catching; and
-  (b) has previously made an application for a marine farming permit or spat catching permit that met the criteria in subsection (1)(b), but which was declined.
+  (b) has previously made an application for a marine farming permit or spat catching permit that met the criteria in subsection (1)﻿(b), but which was declined.
 (6) The person may make 1 further application for a marine farming permit or spat catching permit in accordance with subsection (1) before the date that is 12 months after the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011.
 (7) However, if the person has made a subsequent application for a marine farming permit or spat catching permit in accordance with subsection (1) before the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011, but which has not been determined before commencement of that Act, the person may not make a further application in accordance with subsection (1).
-(8) In subsections (1)(a) and (5), coastal permit to occupy a coastal marine area for the purpose of marine farming or spat catching means—
+(8) In subsections (1)﻿(a) and (5), coastal permit to occupy a coastal marine area for the purpose of marine farming or spat catching means—
   (a) a coastal permit to occupy space in the coastal marine area for the purpose of marine farming or spat catching that was in force at the commencement of this Act; or
   (b) a coastal permit to occupy the same space on the same terms that was granted by a consent authority before the expiry of the consent referred to in paragraph (a).
-(9) A coastal permit referred to in subsection (8)(b) is not invalid because the application in respect of which it was granted did not comply with section 12A(1A) of the Resource Management Act 1991 as in force at the time the permit was granted.
+(9) A coastal permit referred to in subsection (8)﻿(b) is not invalid because the application in respect of which it was granted did not comply with section 12A(1A) of the Resource Management Act 1991 as in force at the time the permit was granted.
 
 ### 26A Assessment of effect on fishing of applications after commencement of Act
 (1) This section applies to an application—
@@ -335,7 +335,7 @@ Section 36 of the Resource Management Act 1991 applies in relation to the functi
 (8) If subsection (5) applies, the chief executive must give a notice to the applicant and give public notification accordingly. The notice and public notification must also—
   (a) specify—
     (i) the area concerned; and
-    (ii) the stocks subject to the quota management system in the area that are the reason for the chief executive's view under subsection (5)(b); and
+    (ii) the stocks subject to the quota management system in the area that are the reason for the chief executive's view under subsection (5)﻿(b); and
   (b) specify the chief executive's reasons for deciding that subsection (5) applies; and
   (c) contain a copy, or statement to the effect, of subsections (9) and (10).
 (9) The chief executive must decline the application, if the applicant does not lodge—
@@ -345,7 +345,7 @@ Section 36 of the Resource Management Act 1991 applies in relation to the functi
   (a) an aquaculture agreement with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under section 186ZI(4) of the Fisheries Act 1996; or
   (b) a compensation declaration with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under section 186ZIA(4) of the Fisheries Act 1996.
 (11) For the purposes of this section, the reference in section 67J(10) of the principal Act to adverse effects on fishing or the sustainability of any fisheries resource must be read as if it were a reference to adverse effects on fishing.
-(12) Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, judicial review of a decision under this section must do so within 30 working days after the public notification of the decision.
+(12) Any person wishing to seek, under the Judicial Review Procedure Act 2016, judicial review of a decision under this section must do so within 30 working days after the public notification of the decision.
 (13) The provisions of Part 1 of Schedule 2 have effect in relation to aquaculture agreements and compensation.
 (14) In this section,—
   - **aquaculture agreement** means an agreement that complies with subpart 4 of Part 9A of the Fisheries Act 1996, subject to the modifications set out in Part 1 of Schedule 2
@@ -383,12 +383,12 @@ Section 36 of the Resource Management Act 1991 applies in relation to the functi
   (b) a coastal permit granted under the Resource Management Act 1991 that—
     (i) is in force immediately before the commencement of this Act; and
     (ii) applies to the area or part of the area and 1 or more of the species of fish, aquatic life, or sea-weed that the permit referred to in paragraph (a) relates to.
-(2) If the permits do not apply to the same species of fish, aquatic life, or seaweed, then the coastal permit referred to in subsection (1)(b)—
-  (a) has effect only in relation to the species of fish, aquatic life, or seaweed that the permit referred to in subsection (1)(a) applies to; and
-  (b) is to be treated as having lapsed in relation to the species of fish, aquatic life, or seaweed that the permit referred to in subsection (1)(a) does not apply to.
-(3) If the permits do not apply to the same area, then the coastal permit referred to in subsection (1)(b)—
-  (a) has effect only in relation to the area that the permit referred to in subsection (1)(a) applies to; and
-  (b) is to be treated as having lapsed in relation to the area that the permit referred to in subsection (1)(a) does not apply to.
+(2) If the permits do not apply to the same species of fish, aquatic life, or seaweed, then the coastal permit referred to in subsection (1)﻿(b)—
+  (a) has effect only in relation to the species of fish, aquatic life, or seaweed that the permit referred to in subsection (1)﻿(a) applies to; and
+  (b) is to be treated as having lapsed in relation to the species of fish, aquatic life, or seaweed that the permit referred to in subsection (1)﻿(a) does not apply to.
+(3) If the permits do not apply to the same area, then the coastal permit referred to in subsection (1)﻿(b)—
+  (a) has effect only in relation to the area that the permit referred to in subsection (1)﻿(a) applies to; and
+  (b) is to be treated as having lapsed in relation to the area that the permit referred to in subsection (1)﻿(a) does not apply to.
 
 ### 29 Holder of deemed coastal permit to be treated as holder of fish farmer registration pending registration by chief executive
 (1) The holder of a deemed coastal permit under section 20 or section 21 must be treated as a registered fish farmer under Part 9A of the Fisheries Act 1996 for the space that the deemed coastal permit relates to.
@@ -473,7 +473,7 @@ In sections 36 to 54,—
 
 ### 37 Application for aquaculture decision in relation to interim aquaculture management area
 (1) A regional council may request the chief executive to make an aquaculture decision in relation to an interim aquaculture management area.
-(2) However, a regional council must not make a request in relation to an area to which section 39(1)(a), (b), or (c) applies.
+(2) However, a regional council must not make a request in relation to an area to which section 39(1)﻿(a), (b), or (c) applies.
 
 ### 38 Chief executive to make aquaculture decision
 (1) Within 6 months after receiving a request for an aquaculture decision under section 37, the chief executive must—
@@ -491,7 +491,7 @@ In sections 36 to 54,—
   (a) a coastal permit under the principal Act authorises occupation for the purposes of an aquaculture activity; or
   (b) a deemed coastal permit under section 10 or section 20 or section 21 is in force; or
   (c) an application for a coastal permit under the principal Act to occupy a coastal marine area for the purpose of an aquaculture activity has been made but not determined.
-(2) However, subsection (1)(c) does not apply to the following applications:
+(2) However, subsection (1)﻿(c) does not apply to the following applications:
   (a) applications to which section 150B(2) of the principal Act applies:
   (b) applications made in the period beginning on 1 January 2005 and ending with the close of 9 May 2006.
 
@@ -534,7 +534,7 @@ In deciding whether to make a determination or reservation, the chief executive 
   (b) whether the aquaculture decision is made as a result of proceedings in relation to an aquaculture decision made before the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011.
 
 ### 43 Judicial review of aquaculture decision
-Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, judicial review of an aquaculture decision must do so within 30 working days after the public notification of the decision.
+Any person wishing to seek, under the Judicial Review Procedure Act 2016, judicial review of an aquaculture decision must do so within 30 working days after the public notification of the decision.
 
 ### 43A Applications in interim aquaculture management area
 (1) A person must not apply for a coastal permit to occupy space in an interim aquaculture management area for the purpose of aquaculture activities unless the chief executive has made—
@@ -551,11 +551,11 @@ Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, j
   (a) comply, as soon as practicable, with sections 44B to 44D and, if necessary, section 44E; and
   (b) notify the chief executive, immediately, when it has completed its allocation of authorisations to the trustee under those provisions.
 (2) Subsection (1) applies whether the aquaculture decision is made before or after the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011.
-(3) On receipt of a notice under subsection (1)(b), the chief executive must,—
+(3) On receipt of a notice under subsection (1)﻿(b), the chief executive must,—
   (a) if the chief executive made a determination in relation to the interim aquaculture management area (whether the whole area or part of it), publish a notice in the Gazette that describes and defines the area that the determination relates to as an aquaculture area; and
   (b) if the chief executive made a reservation in relation to commercial fishing for stocks subject to the quota management system in relation to the interim aquaculture management area (whether the whole area or part of it), give public notification that any application for a coastal permit to undertake aquaculture activities in the area that the reservation relates to will be cancelled (unless already cancelled under section 44D(5) or 44E(7)) if an aquaculture agreement or compensation declaration is not lodged with the chief executive within 6 months after the date of the public notice.
-(4) Subpart 4 of Part 9A of the Fisheries Act 1996 applies to an aquaculture agreement or compensation declaration referred to in subsection (3)(b), subject to the modifications set out in Part 2 of Schedule 2.
-(5) Subsection (6) applies if, before the expiry of the period specified in subsection (3)(b) or section 44J or 44K, an applicant for a coastal permit to undertake aquaculture activities in the area, an iwi aquaculture organisation, or the trustee, as the case may be, lodges an aquaculture agreement or compensation declaration in respect of an area in relation to which the chief executive made a reservation in relation to commercial fishing for stocks subject to the quota management system.
+(4) Subpart 4 of Part 9A of the Fisheries Act 1996 applies to an aquaculture agreement or compensation declaration referred to in subsection (3)﻿(b), subject to the modifications set out in Part 2 of Schedule 2.
+(5) Subsection (6) applies if, before the expiry of the period specified in subsection (3)﻿(b) or section 44J or 44K, an applicant for a coastal permit to undertake aquaculture activities in the area, an iwi aquaculture organisation, or the trustee, as the case may be, lodges an aquaculture agreement or compensation declaration in respect of an area in relation to which the chief executive made a reservation in relation to commercial fishing for stocks subject to the quota management system.
 (6) If this subsection applies, the chief executive must, as soon as practicable after the aquaculture agreement or compensation declaration is lodged, publish a notice in the Gazette that describes and defines the area that the aquaculture agreement or compensation declaration relates to as an aquaculture area.
 
 **Allocation of authorisations to trustee**
@@ -640,17 +640,17 @@ Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, j
 
 ### 44I Application for coastal permits for occupation of space referred to in section 44A(1) subject to reservation relating to commercial fishing for stocks subject to quota management system
 (1) This section applies to agreed space or identified space if—
-  (a) authorisations for the space have been allocated to the trustee under section 44D(2)(b) or 44E; and
+  (a) authorisations for the space have been allocated to the trustee under section 44D(2)﻿(b) or 44E; and
   (b) the agreed or identified space is subject to a reservation relating to commercial fishing for stocks subject to the quota management system.
 (2) The only person who may apply for a coastal permit to occupy the agreed space or identified space for aquaculture activities is the holder of—
-  (a) an authorisation for the space, being an authorisation allocated under section 44D(2)(b) or 44E; and
+  (a) an authorisation for the space, being an authorisation allocated under section 44D(2)﻿(b) or 44E; and
   (b) either—
     (i) an aquaculture agreement registered under section 186ZH of the Fisheries Act 1996; or
     (ii) a compensation declaration registered under section 186ZHA of the Fisheries Act 1996.
 
 ### 44J Time within which iwi aquaculture organisation may lodge aquaculture agreement or compensation declaration if trustee not authorised to enter into aquaculture agreement or provide compensation
 (1) This section applies if—
-  (a) authorisations for space have been allocated to the trustee under section 44D(2)(b) or 44E; and
+  (a) authorisations for space have been allocated to the trustee under section 44D(2)﻿(b) or 44E; and
   (b) the space is subject to a reservation relating to commercial fishing for stocks subject to the quota management system; and
   (c) the trustee has not been authorised to enter into an aquaculture agreement or provide compensation under section 44K.
 (2) The trustee must notify in writing the chief executive of the Ministry of Fisheries as soon as practicable after—
@@ -662,7 +662,7 @@ Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, j
 
 ### 44K Time within which trustee may lodge aquaculture agreement or compensation declaration on behalf of all recognised iwi aquaculture organisations concerned
 (1) This section applies if—
-  (a) authorisations for space have been allocated to the trustee under section 44D(2)(b) or 44E; and
+  (a) authorisations for space have been allocated to the trustee under section 44D(2)﻿(b) or 44E; and
   (b) the agreed or identified space is subject to a reservation relating to commercial fishing for stocks subject to the quota management system.
 (2) The trustee must notify in writing the chief executive of the Ministry of Fisheries as soon as practicable after—
   (a) the trustee has recognised iwi aquaculture organisations for all the iwi in relation to the regional coastline or harbour to which the aquaculture space belongs; and
@@ -687,7 +687,7 @@ Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, j
 (4) Subsection (1) does not apply to an area of the coastal marine area—
   (a) in relation to which the chief executive of the Ministry of Fisheries granted an application for a marine farming permit under section 67J of the Fisheries Act 1983; and
   (b) which became an aquaculture management area under section 52(3).
-(5) To avoid doubt, subsection (4) does not affect the application of section 186GA(a) of the Fisheries Act 1996 or section 107F(2)(a) of the Resource Management Act 1991 to the area referred to in that subsection.
+(5) To avoid doubt, subsection (4) does not affect the application of section 186GA(a) of the Fisheries Act 1996 or section 107F(2)﻿(a) of the Resource Management Act 1991 to the area referred to in that subsection.
 (6) This section applies subject to section 44O.
 
 ### 44N Further provisions relating to Gazetted aquaculture areas
@@ -747,7 +747,7 @@ Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, j
   (a) made a reservation relating to—
     (i) the sustainability of fisheries resources or effects on customary or recreational fishing; or
     (ii) commercial fishing for stocks not subject to the quota management system; or
-  (b) made a reservation relating to commercial fishing for stocks subject to the quota management system and the applicant has not lodged an aquaculture agreement or compensation declaration within the time specified in section 44(3)(b).
+  (b) made a reservation relating to commercial fishing for stocks subject to the quota management system and the applicant has not lodged an aquaculture agreement or compensation declaration within the time specified in section 44(3)﻿(b).
 (4) The application is deemed to be cancelled on and from 31 December 2014 to the extent that, by that date,—
   (a) it has been unable to be processed because it relates to an aquaculture activity that is a prohibited activity in the area of the coastal marine area that the application relates to; and
   (b) a regional coastal plan continues to provide that the aquaculture activity that the application relates to is a prohibited activity in the area that the application relates to; and
@@ -771,7 +771,7 @@ Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, j
   (a) made a reservation relating to—
     (i) the sustainability of fisheries resources or effects on customary or recreational fishing; or
     (ii) commercial fishing for stocks not subject to the quota management system; or
-  (b) made a reservation relating to commercial fishing for stocks subject to the quota management system and the applicant has not lodged an aquaculture agreement or compensation declaration within the time specified in section 44(3)(b).
+  (b) made a reservation relating to commercial fishing for stocks subject to the quota management system and the applicant has not lodged an aquaculture agreement or compensation declaration within the time specified in section 44(3)﻿(b).
 (4) The application is deemed to be cancelled on and from 28 September 2018 to the extent that, by that date,—
   (a) it has been unable to be processed because it relates to an aquaculture activity that is a prohibited activity in the area of the coastal marine area that the application relates to; and
   (b) a regional coastal plan continues to provide that the aquaculture activity that the application relates to is a prohibited activity in the area that the application relates to; and
@@ -785,14 +785,14 @@ Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, j
 (2) Applications that can be processed under section 47(2) or 47A(2) must be processed and determined—
   (a) under the provisions in the principal Act and in the regional coastal plan and any proposed regional coastal plan applying at the time the consent authority resumes processing the application; but
   (b) from the stage they had reached immediately before their processing and determination were prevented under the principal Act.
-(3) For the purposes of subsection (2)(b), the provisions of the principal Act apply subject to the following:
+(3) For the purposes of subsection (2)﻿(b), the provisions of the principal Act apply subject to the following:
   (a) any action taken under a provision of the principal Act that has been amended since the date of the action is to be treated as having occurred under any corresponding provision in the principal Act in force at the time that processing of an application resumes:
   (b) the period during which the application was unable to be processed is excluded from any period of time in a provision of the principal Act:
-  (c) section 36AA and any regulations made under section 360(1)(hj) do not apply in respect of the application:
+  (c) section 36AA and any regulations made under section 360(1)﻿(hj) do not apply in respect of the application:
   (d) the following periods are excluded from any applicable provision listed in section 88B(2):
     (i) if a request for further information under section 92(1) was made before the commencement of this section, the period starting on the day on which the request was made and ending on the earlier of the day on which the information is provided or the day that is 12 months after the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011:
     (ii) if a request for further information under section 92(1) is made within 12 months after the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 and is the first request made after that commencement, the period starting on the day on which the request is made and ending on the earlier of the day on which the information is provided or the day that is 12 months after the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011:
-  (e) if the consent authority requests or has requested further information under section 92(1) and the information is provided within the applicable period specified in paragraph (d)(i) or (ii), section 95 does not prevent the consent authority from notifying the application within 10 working days after the date on which the application would have lapsed under paragraph (f) had the applicant not provided the information within the applicable period under paragraph (d):
+  (e) if the consent authority requests or has requested further information under section 92(1) and the information is provided within the applicable period specified in paragraph (d)﻿(i) or (ii), section 95 does not prevent the consent authority from notifying the application within 10 working days after the date on which the application would have lapsed under paragraph (f) had the applicant not provided the information within the applicable period under paragraph (d):
   (f) the application lapses if—
     (i) the consent authority has requested further information under section 92(1) and the applicant does not comply with the request within 12 months after—
       (A) the date of the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011, if the request was made before the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011; or
@@ -835,7 +835,7 @@ A consent authority must cancel an application for a coastal permit for the occu
 (4) At the end of the moratorium, a regional council may—
   (a) review the conditions in a coastal permit; and
   (b) amend the conditions so that they comply with the rules in the regional coastal plan and any proposed regional coastal plan that apply at the end of the moratorium.
-(5) If a coastal permit relates to a restricted coastal activity, section 119A of the principal Act applies in relation to the amendment of conditions under subsection (4)(b).
+(5) If a coastal permit relates to a restricted coastal activity, section 119A of the principal Act applies in relation to the amendment of conditions under subsection (4)﻿(b).
 (6) At the end of the moratorium,—
   (a) no person may carry on any aquaculture activities under a coastal permit in any area in which aquaculture is prohibited; and
   (b) the coastal permit ceases to have any effect and is deemed to be cancelled.
@@ -906,7 +906,7 @@ A consent authority must cancel an application for a coastal permit for the occu
 (8) If subsection (5) applies, the chief executive must give a notice to the applicant and give public notification accordingly. The notice and public notification must also—
   (a) specify—
     (i) the area concerned; and
-    (ii) the stocks subject to the quota management system in the area that are the reason for the chief executive's view under subsection (5)(b); and
+    (ii) the stocks subject to the quota management system in the area that are the reason for the chief executive's view under subsection (5)﻿(b); and
   (b) specify the chief executive's reasons for deciding subsection (5) applies; and
   (c) contain a copy, or statement to the effect, of subsections (9) and (10).
 (9) The chief executive must decline the application, if the applicant does not lodge—
@@ -916,7 +916,7 @@ A consent authority must cancel an application for a coastal permit for the occu
   (a) an aquaculture agreement with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under section 186ZI(4) of the Fisheries Act 1996; or
   (b) a compensation declaration with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under section 186ZIA(4) of the Fisheries Act 1996.
 (11) For the purposes of this section, the references in section 67J(10) of the principal Act to adverse effects on fishing or the sustainability of any fisheries resource must be read as if it were a reference to adverse effects on fishing.
-(12) Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, judicial review of a decision under this section must do so within 30 working days after the public notification of the decision.
+(12) Any person wishing to seek, under the Judicial Review Procedure Act 2016, judicial review of a decision under this section must do so within 30 working days after the public notification of the decision.
 (13) The provisions of Part 1 of Schedule 2 have effect in relation to aquaculture agreements and compensation.
 (14) In this section,—
   - **aquaculture agreement** means an agreement that complies with subpart 4 of Part 9A of the Fisheries Act 1996, subject to the modifications set out in Part 1 of Schedule 2
@@ -947,7 +947,7 @@ A consent authority must cancel an application for a coastal permit for the occu
     (iii) relates to part of an interim aquaculture management area; and
     (iv) has been declined or withdrawn:
   (b) a coastal permit if—
-    (i) it was granted under an application to which paragraph (a)(i) to (iii) applies; and
+    (i) it was granted under an application to which paragraph (a)﻿(i) to (iii) applies; and
     (ii) no marine farming permit or spat catching permit has been issued in relation to the coastal permit; and
     (iii) the coastal permit—
       (A) lapses under section 125 of the principal Act; or
@@ -976,7 +976,7 @@ A consent authority must cancel an application for a coastal permit for the occu
   (d) the reasons for and against amending the permit to reflect the actual space.
 (4) Section 92 of the principal Act applies, with all necessary modifications, to an application under this section as if it were an application for a resource consent.
 (4A) Before deciding whether to amend a deemed coastal permit under this section, the consent authority must consider—
-  (a) the matters referred to in subsection (3)(c) and (d); and
+  (a) the matters referred to in subsection (3)﻿(c) and (d); and
   (b) where the actual space is located compared to the location of the authorised space; and
   (c) how the activities to which the deemed coastal permit relate came to be carried out in the actual space; and
   (d) if aquaculture activities are prohibited activities in the actual space, the reasons for that; and
@@ -991,7 +991,7 @@ A consent authority must cancel an application for a coastal permit for the occu
 (7) A deemed coastal permit amended under this section must not authorise the holder of the permit to occupy a space greater than the authorised space.
 (8) A consent authority must advise the chief executive of its decision under subsection (5).
 (9) As soon as practicable after receiving the advice under subsection (8), the chief executive must amend the fish farmer registration that the advice relates to.
-(10) The holder of the deemed coastal permit may object to the consent authority about any decision under subsection (5)(b), and sections 357C, 357D, and 358 of the Resource Management Act 1991 apply to the objection as if it were an objection against a review of the conditions of a resource consent under sections 128 to 132 of that Act.
+(10) The holder of the deemed coastal permit may object to the consent authority about any decision under subsection (5)﻿(b), and sections 357C, 357D, and 358 of the Resource Management Act 1991 apply to the objection as if it were an objection against a review of the conditions of a resource consent under sections 128 to 132 of that Act.
 (11) Section 36 of the principal Act applies to the functions of the consent authority under this section as if an application to amend a deemed coastal permit were an application for resource consent.
 (11A) The amendments made to this section by the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 apply to applications made before the commencement of that Act if they have not been determined at the commencement of that Act.
 (12) In this section,—
@@ -1015,7 +1015,7 @@ A consent authority must cancel an application for a coastal permit for the occu
   (a) is the holder of a coastal permit or certificate of compliance under the Resource Management Act 1991 to occupy a coastal marine area for marine farming or spat catching; and
   (b) makes or has made an application or is entitled to make an application for a marine farming permit or spat catching permit, as provided for by section 25, 26, or 50(3).
 (2) The person must not erect a structure for the purpose of an aquaculture activity unless—
-  (a) the application referred to in subsection (1)(b) is granted; and
+  (a) the application referred to in subsection (1)﻿(b) is granted; and
   (b) the structure is to be erected in an area covered by—
     (i) the marine farming permit or the spat catching permit; and
     (ii) the coastal permit or certificate of compliance.
@@ -1154,7 +1154,7 @@ Section 186ZL applies as if subsections (1) and (2) were repealed and the follow
 (1) If the chief executive gives notice under section 25A(8), 26A(8), or 50A(8) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004, the chief executive must, on the date of the public notification, ensure that a memorial is recorded in the appropriate register against all quota for the stocks specified in the notice.
 
 ### 9
-Section 186ZL(3) applies as if paragraph (a) were repealed and the following paragraph substituted:.
+Section 186ZL(3) applies as if paragraph (a) were repealed and the following paragraph substituted:
 (a) the chief executive has determined that section 25A(5), 26A(5), or 50A(5) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 applies; and
 
 ### 10
@@ -1166,7 +1166,7 @@ In sections 186ZN to 186ZR,—
 ### Part 2 — Section 44
 
 ### 11
-Subpart 4 of Part 9A of the Fisheries Act 1996 applies in relation to aquaculture agreements and compensation declarations referred to in section 44(3)(b) subject to the exclusion and modifications in paragraphs 12 to 17.
+Subpart 4 of Part 9A of the Fisheries Act 1996 applies in relation to aquaculture agreements and compensation declarations referred to in section 44(3)﻿(b) subject to the exclusion and modifications in paragraphs 12 to 17.
 
 ### 12
 Section 186ZF applies as if subsection (2) were repealed and the following subsection substituted:
@@ -1176,22 +1176,22 @@ Section 186ZF applies as if subsection (2) were repealed and the following subse
 
 ### 13
 Section 186ZF applies as if subsection (4) were repealed and the following subsection substituted:
-(4) For the purposes of this section, subsection (2) applies to the persons specified in that subsection as at 5 pm on the date on which public notification is given under section 44(3)(b) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
+(4) For the purposes of this section, subsection (2) applies to the persons specified in that subsection as at 5 pm on the date on which public notification is given under section 44(3)﻿(b) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
 
 ### 14
 Section 186ZI(1) applies as if paragraph (b) of that subsection were repealed and the following paragraph substituted:
-(b) within 6 months after the date of the public notice under section 44(3)(b) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
+(b) within 6 months after the date of the public notice under section 44(3)﻿(b) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
 
 ### 15
 Section 186ZIA(1) applies as if paragraph (b) of that subsection were repealed and the following paragraph substituted:
-(b) within 6 months after the date of the public notice under section 44(3)(b) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
+(b) within 6 months after the date of the public notice under section 44(3)﻿(b) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
 
 ### 16
 Section 186ZM does not apply.
 
 ### 17
 In sections 186ZN to 186ZR,—
-- **affected quota owner** or is to be read as if it means a person who is the registered quota owner of the relevant quota management stock as at 5 pm on the date of the public notice under section 44(3)(b) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004
+- **affected quota owner** or is to be read as if it means a person who is the registered quota owner of the relevant quota management stock as at 5 pm on the date of the public notice under section 44(3)﻿(b) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004
 - **coastal permit** is to be read as if it means, as the case may require, the application for a coastal permit, or the permit that may be granted in relation to that application
 - **permit holder** is to be read as if it means the applicant who made the application for a coastal permit.
 
