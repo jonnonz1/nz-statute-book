@@ -1,5 +1,5 @@
 # Forest and Rural Fires Act 1977
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to the safeguarding of life and property by the prevention, detection, control, restriction, suppression and extinction of fire in forest and rural areas and other areas of vegetation
 
@@ -759,7 +759,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (7) The National Rural Fire Authority may pay to any Rural Fire Mediator remuneration by way of fees, salary, or allowances and travelling expenses and allowances in accordance with the Fees and Travelling Allowances Act 1951.
 
 ### 65 Appeals from decision of Rural Fire Mediator
-(1) Any party to any dispute, difference, doubt, or other uncertainty who is dissatisfied with a decision of a mediator pursuant to section 64 in relation to any levy or determination under section 45 or section 46 may, within 1 month after notice of the decision has been given to him, appeal in writing setting out the grounds of the appeal to a District Court presided over by a District Court Judge.
+(1) Any party to any dispute, difference, doubt, or other uncertainty who is dissatisfied with a decision of a mediator pursuant to section 64 in relation to any levy or determination under section 45 or section 46 may, within 1 month after notice of the decision has been given to him, appeal in writing setting out the grounds of the appeal to the District Court presided over by a District Court Judge.
 (2) All appeals to a court under this section shall be by way of originating application in accordance with the rules of the court.
 (3) The court may, if good and sufficient grounds are shown to it, waive any failure to set out the grounds of the appeal on such terms and conditions as the court thinks fit.
 (4) The court may confirm, vary, or reverse the decision of the mediator.
