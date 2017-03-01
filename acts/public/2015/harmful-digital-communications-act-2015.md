@@ -1,5 +1,5 @@
 # Harmful Digital Communications Act 2015
-_Consolidation as at 2016-11-21_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Harmful Digital Communications Act 2015.
@@ -23,7 +23,7 @@ The purpose of this Act is to—
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **applicant** means anyone who makes an application under section 11
-  - **application** means an application to a District Court under section 15
+  - **application** means an application to the District Court under section 15
   - **Approved Agency** or means a person, organisation, department, or entity appointed as an Approved Agency under section 7
   - **chief executive** means the chief executive of the department that is for the time being responsible for the administration of this Act
   - **defendant** , in relation to an application made to, or an order made by, a court under this Act, means a person against whom an order is sought or made
@@ -135,12 +135,12 @@ A digital communication should not denigrate an individual by reason of his or h
 ### 10 Protection for employees of Approved Agency
 (1) This section applies if the Approved Agency is not a department or Crown entity.
 (2) If this section applies, no civil action lies against any employee of the Agency, or against any employee of a delegate of the Agency, for any act done or omitted by the Agency, or by the delegate, or by him or her, in good faith in the performance or intended performance of the functions, duties, or powers of the Agency.
-(3) However, subsection (2) does not prevent a person from filing an application for review under section 4 of the Judicature Amendment Act 1972 in relation to the exercise, refusal to exercise, or proposed or purported exercise by the Approved Agency of a statutory power within the meaning of that Act or otherwise affect the operation of that Act.
+(3) However, subsection (2) does not prevent a person from filing an application for review under section 8 of the Judicial Review Procedure Act 2016 in relation to the exercise, refusal to exercise, or proposed or purported exercise by the Approved Agency of a statutory power within the meaning of that Act or otherwise affect the operation of that Act.
 
 **Proceedings may be brought in District Court**
 
 ### 11 Who may bring proceedings
-(1) Any of the following may apply to a District Court for an order under section 18 or 19:
+(1) Any of the following may apply to the District Court for an order under section 18 or 19:
   (a) an individual (the affected individual) who alleges that he or she has suffered or will suffer harm as a result of a digital communication:
   (b) a parent or guardian on behalf of the affected individual:
   (c) the professional leader of a registered school or his or her delegate, if the affected individual is a student of that school and consents to the professional leader or delegate bringing the proceedings:
@@ -149,14 +149,14 @@ A digital communication should not denigrate an individual by reason of his or h
 
 ### 12 Threshold for proceedings
 (1) An applicant referred to in section 11(1)﻿(a), (b), or (c) may not apply for an order under section 18 or 19 in respect of a digital communication unless the Approved Agency has first received a complaint about the communication and had a reasonable opportunity to assess the complaint and decide what action (if any) to take.
-(2) In any case, a District Court must not grant an application from an applicant referred to in section 11(1)﻿(a), (b), or (c) for an order under section 18 or 19 unless it is satisfied that—
+(2) In any case, the District Court must not grant an application from an applicant referred to in section 11(1)﻿(a), (b), or (c) for an order under section 18 or 19 unless it is satisfied that—
   (a) there has been a threatened serious breach, a serious breach, or a repeated breach of 1 or more communication principles; and
   (b) the breach has caused or is likely to cause harm to an individual.
 (3) The court may, on its own initiative, dismiss an application from an applicant referred to in section 11(1)﻿(a), (b), or (c) without a hearing if it considers that the application is frivolous or vexatious, or for any other reason does not meet the threshold in subsection (2).
 (4) The court may, on its own initiative, dismiss an application under section 11 from the Police if satisfied that, having regard to all the circumstances of the case, the application should be dismissed.
 
 ### 13 District Court may refer matter back to Approved Agency
-(1) This section applies when a District Court considers an application under section 11 that arises from the subject matter of a complaint that has been received by the Approved Agency (whether or not the complaint has been assessed under section 12(1)).
+(1) This section applies when the District Court considers an application under section 11 that arises from the subject matter of a complaint that has been received by the Approved Agency (whether or not the complaint has been assessed under section 12(1)).
 (2) The court—
   (a) must consider whether an attempt has been made to resolve the complaint (whether through mediation or otherwise); and
   (b) may adjourn the proceeding and refer the matter back to the Approved Agency unless satisfied that attempts at resolution, or further attempts at resolution, of the matter by the parties and the Agency—
@@ -165,14 +165,14 @@ A digital communication should not denigrate an individual by reason of his or h
     (iii) will undermine the proceedings before the court.
 
 ### 14 Court may require Approved Agency to provide information
-(1) A District Court or any Registrar or Deputy Registrar of the court may require the Approved Agency to provide information for the purposes of satisfying the court of any matters referred to in sections 12 and 13.
+(1) The District Court or any Registrar or Deputy Registrar of the court may require the Approved Agency to provide information for the purposes of satisfying the court of any matters referred to in sections 12 and 13.
 (2) The Approved Agency must provide the information in the form (if any) prescribed by rules of court.
 
 **Procedure**
 
 ### 15 Applications
 (1) Applications for any orders under section 18 or 19 must—
-  (a) be filed in a District Court; and
+  (a) be filed in the District Court; and
   (b) be in the prescribed form (if any).
 (2) The court may give directions as to service and, if the court considers it appropriate to do so in the circumstances, having regard to the principles of natural justice, the court may consider an application made on a without notice basis.
 (3) No filing fee is payable for an application.
@@ -188,7 +188,7 @@ A digital communication should not denigrate an individual by reason of his or h
 (6) The court may receive any evidence or information that may in its opinion assist it to deal effectively with any proceedings under this Act, whether or not the evidence or information would be otherwise admissible in a court of law.
 
 ### 17 Technical advisers
-(1) A District Court or the High Court, as the case may be, may appoint a technical adviser to assist it in considering and determining an application for an order under section 19 or any appeal under section 72 of the District Courts Act 1947.
+(1) The District Court or the High Court, as the case may be, may appoint a technical adviser to assist it in considering and determining an application for an order under section 19 or any appeal under section 124 of the District Court Act 2016.
 (2) The duties of a technical adviser are—
   (a) to sit with the court; and
   (b) subject to subsection (4), to act in all respects as an extra member of the court.
@@ -205,7 +205,7 @@ A digital communication should not denigrate an individual by reason of his or h
 (7) The chief executive must pay technical advisers the remuneration and allowances determined from time to time by the Minister.
 
 ### 18 Interim orders
-(1) A District Court may, if the court considers it is desirable to do so, grant any interim orders pending the determination of the application for orders under section 19.
+(1) The District Court may, if the court considers it is desirable to do so, grant any interim orders pending the determination of the application for orders under section 19.
 (2) An interim order under this section may do anything that may be done by order under section 19 and expires when the application under that section is determined.
 
 ### 19 Orders that may be made by court
@@ -331,7 +331,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (b) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
 ### 27 Rules
-(1) The power to make rules of court under section 51C of the Judicature Act 1908 and section 122(1) of the District Courts Act 1947 includes the power to make rules regulating the practice and procedure of courts in the exercise of jurisdiction conferred by this Act.
+(1) The power to make rules of court under section 148 of the Senior Courts Act 2016 and section 228 of the District Court Act 2016 includes the power to make rules regulating the practice and procedure of courts in the exercise of jurisdiction conferred by this Act.
 (2) Without limiting the generality of subsection (1), rules made in accordance with that subsection may—
   (a) prescribe forms for applications and orders under this Act:
   (b) prescribe a form for the purposes of section 14:
