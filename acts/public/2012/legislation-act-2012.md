@@ -1,5 +1,5 @@
 # Legislation Act 2012
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Legislation Act 2012.
@@ -969,10 +969,6 @@ The code of conduct and competency standards, and any amendment, revocation, or 
 (1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a solvency standard, or to any amendment to, or replacement of, the material.
 (2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to a solvency standard that incorporates material by reference.
 (3) However, nothing in section 41 of the Legislation Act 2012 requires material incorporated by reference in a solvency standard to be presented to the House of Representatives.
-
-### 51A Publication of High Court Rules under Legislation Act 2012
-(1) The High Court Rules, and any reprint of the High Court Rules, may be published under the Legislation Act 2012 as if the rules were a legislative instrument within the meaning of that Act.
-(2) The Legislation Act 2012 applies accordingly to rules published in that way.
 
 ### 85 Status of GPS
 To avoid doubt, a GPS is not a direction for the purposes of Part 3 of the Crown Entities Act 2004 and is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act).
