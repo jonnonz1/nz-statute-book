@@ -1,5 +1,5 @@
 # Partnership Act 1908
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the law of partnership
 
@@ -116,7 +116,7 @@ Where land has become partnership property it shall, unless the contrary intenti
 ### 26 Procedure against partnership property for a partner's separate judgment debt
 (1) A writ of execution shall not issue against any partnership property except on a judgment against the firm.
 (2) The High Court or a Judge thereof may, on the application by summons of any judgment creditor of a partner, make an order charging that partner's interest in the partnership property and profits with payment of the amount of the judgment debt and interest thereon; and may by the same or a subsequent order appoint a receiver of that partner's share of profits (whether already declared or accruing), and of any other money coming to him or her in respect of the partnership, and direct all accounts and inquiries and give all other orders and directions which might have been directed or given if the charge had been made in favour of the judgment creditor by the partner, or which the circumstances of the case require.
-(2A) On the application of any judgment creditor who has obtained in, or removed into, the District Court a judgment, order, or decree for the payment of a sum of money, a District Court may make any order that may be made by the High Court under this section.
+(2A) On the application of any judgment creditor who has obtained in, or removed into, the District Court a judgment, order, or decree for the payment of a sum of money, the District Court may make any order that may be made by the High Court under this section.
 (3) The other partner or partners shall be at liberty at any time to redeem the interest charged or, in case of a sale being directed, to purchase the same.
 
 ### 27 Rules as to interests and duties of partners subject to special agreement
