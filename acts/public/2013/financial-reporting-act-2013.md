@@ -1,5 +1,5 @@
 # Financial Reporting Act 2013
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Financial Reporting Act 2013.
@@ -507,16 +507,16 @@ If a body corporate (A) that is recognised for the purposes of section 36(1)﻿(
   (c) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual.
 
 ### 36P Appeals in respect of recognition or approval matters
-(1) A person may appeal to a District Court against any decision of the Institute, an accredited body, an approved association, or the Registrar—
+(1) A person may appeal to the District Court against any decision of the Institute, an accredited body, an approved association, or the Registrar—
   (a) to decline to recognise the person for the purposes of section 36(1); or
   (b) to decline to approve the person for the purposes of section 36(1)﻿(d); or
   (c) to cancel or suspend that recognition or approval.
-(2) An association may appeal to a District Court against any decision of the Registrar—
+(2) An association may appeal to the District Court against any decision of the Registrar—
   (a) to decline to approve the association for the purposes of section 36(1)﻿(c)﻿(i); or
   (b) to cancel or suspend that approval.
 (3) Subsection (1) does not apply to a decision if the rules of the Institute, the accredited body, or the approved association provide for an appeal against the decision to a body established to hear appeals against the decision (for example, the Appeals Council referred to in section 6(1)﻿(h) of the New Zealand Institute of Chartered Accountants Act 1996).
 (4) Subsection (1) does not apply to a decision under sections 36R to 36T.
-(5) An appeal to a District Court under this section must be brought—
+(5) An appeal to the District Court under this section must be brought—
   (a) in accordance with the rules of court; and
   (b) within 20 working days after notice of the decision is communicated to the appellant, or within any further time a District Court Judge allows on application made before or after the period expires.
 
