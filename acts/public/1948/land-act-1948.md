@@ -1,5 +1,5 @@
 # Land Act 1948
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to the lands of the Crown in New Zealand
 
@@ -185,10 +185,10 @@ The Commissioner may, under section 41 of the State Sector Act 1988, delegate to
 (4) All documents which require to be executed for the purposes of this Act by or on behalf of Her Majesty, or by or on behalf of the Board, may, unless otherwise provided by this Act, be executed by the Commissioner and, if so executed, shall be as valid and effectual as if executed by or on behalf of Her Majesty, or by or on behalf of the Board, as the case may be.
 
 ### 25 Recovery of possession of Crown land
-(1) When any person, without any right, title, or licence, or whose right, title, or licence has expired or been forfeited or cancelled, is in occupation of any Crown land, or of any public reserve not granted to or vested in any local body, trustees, or other persons, the Commissioner, or some person appointed in writing by him, may enter a plaint in any District Court within the district in which the land is situated to recover possession thereof; and the jurisdiction of the court or District Court Judge shall not be ousted on the plea that a question of title is involved in any such case, or that the value of the premises of which possession is sought to be recovered is in excess of the jurisdiction of the court or District Court Judge.
+(1) When any person, without any right, title, or licence, or whose right, title, or licence has expired or been forfeited or cancelled, is in occupation of any Crown land, or of any public reserve not granted to or vested in any local body, trustees, or other persons, the Commissioner, or some person appointed in writing by him, may enter a plaint in the office of the District Court within the district in which the land is situated to recover possession thereof; and the jurisdiction of the court or District Court Judge shall not be ousted on the plea that a question of title is involved in any such case, or that the value of the premises of which possession is sought to be recovered is in excess of the jurisdiction of the court or District Court Judge.
 (2) If, on the hearing of the plaint, the defendant does not appear, or appears but fails to establish in himself an absolute right or title to the possession of the land, or if it is shown by or on behalf of the plaintiff, to the satisfaction of the court hearing the plaint, that the title under which the defendant claims has, as between himself and Her Majesty, expired or become liable to forfeiture or cancellation, the court shall declare such title to be extinguished, and may order that possession of the land sought to be recovered be given by the defendant to the plaintiff, either forthwith or on or before such a day as the court thinks fit to name, and that the defendant do pay the costs.
 (3) If possession is not given pursuant to that order, the District Court Judge or any Justice may issue a warrant requiring the bailiff of the court, or any constable, to give possession of those lands to the plaintiff.
-(4) The provisions of sections 99, and 100, and of subsection (3) of section 101 of the District Courts Act 1947 shall apply to any proceedings under this section.
+(4) Sections 194 to 197 and 199 of the District Court Act 2016 apply to any proceedings under this section.
 
 ### 26 Inspection of Crown land
 (1) For the purpose of inspecting any Crown land held on lease or licence, the Director-General of Lands or any person authorised by him in writing shall, at all reasonable times, have free rights of ingress, egress, and regress, in respect of that land.
