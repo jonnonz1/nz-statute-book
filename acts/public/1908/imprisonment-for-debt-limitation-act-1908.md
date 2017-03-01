@@ -1,5 +1,5 @@
 # Imprisonment for Debt Limitation Act 1908
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the limitation of imprisonment for debt
 
@@ -15,7 +15,7 @@ _Consolidation as at 2013-07-01_
 (1) With the exceptions hereinafter mentioned, no person shall be arrested or imprisoned for making default in payment of a sum of money.
 (2) There shall be excepted from the operation of the above enactment—provided, first, that in any case excepted as aforesaid no person shall be imprisoned for a longer period than 1 year; and, secondly, that nothing in this section shall alter the effect of any judgment or order of any Court for payment of money, except as regards the arrest and imprisonment of the person making default in paying such money.
   (a) default in payment of a penalty or sum in the nature of a penalty other than a penalty in respect of any contract:
-  (b) default in payment of any sum recoverable before a District Court under the Summary Proceedings Act 1957, or otherwise than under the District Courts Act 1947:
+  (b) default in payment of any sum recoverable before the District Court under the Summary Proceedings Act 1957, or otherwise than under the District Court Act 2016:
   (c) default by a trustee or person acting in a fiduciary capacity, and ordered to pay by a Court having jurisdiction in the matter any sum in his possession or control:
   (d) default by a solicitor in payment of costs when ordered to pay costs for misconduct as such, or in payment of a sum of money when ordered to pay the same in his character of an officer of the Court making the order:
   (e) default in payment for the benefit of creditors of any portion of a salary or other income in respect of the payment of which any Court having jurisdiction in bankruptcy is authorised to make an order:
