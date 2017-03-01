@@ -1,5 +1,5 @@
 # Registered Architects Act 2005
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Registered Architects Act 2005.
@@ -285,7 +285,7 @@ If the Board, acting in accordance with this Act and the rules in relation to a 
 **Appeal of decisions**
 
 ### 38 Right of appeal
-(1) A person may appeal to a District Court against any decision of the Board to—
+(1) A person may appeal to the District Court against any decision of the Board to—
   (a) decline to register the person as a registered architect; or
   (b) suspend or cancel his or her registration; or
   (c) take any action referred to in section 26.
