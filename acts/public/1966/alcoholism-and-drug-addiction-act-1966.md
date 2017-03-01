@@ -1,5 +1,5 @@
 # Alcoholism and Drug Addiction Act 1966
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the Reformatory Institutions Act 1909 and its amendments, and to make better provision for the care and treatment of alcoholics and drug addicts
 
@@ -14,7 +14,7 @@ In this Act, unless the context otherwise requires,—
   - **committal order** means an order requiring a person to be detained in an institution for treatment for alcoholism (other than an order made under section 8)
   - **institution** means a certified institution under this Act
   - **managers** , in relation to any institution (other than an institution conducted by the Crown), means the person or body of persons having the possession and control of the institution
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** means the Minister of Health
   - **patient** means any person in respect of whom an order is in force for his detention in an institution, whether he is for the time being in the institution or elsewhere or is absent on leave under the provisions of this Act
   - **superintendent** , in relation to any institution, means the chief resident officer of the institution
@@ -59,7 +59,7 @@ provided that any person detained in any such institution at the commencement of
 ### 8 Voluntary applications for detention in institution
 (1) Any person desirous of being received into an institution may make application in person to a District Court Judge for an order under this section.
 (2) Every such application shall be in writing in the prescribed form, and shall specify the institution into which the applicant desires to be received, and shall state that the applicant undertakes to remain in the institution, for treatment for alcoholism, until he is released or discharged under this Act.
-(3) The signature of the applicant shall be attested by the District Court Judge to whom the application is made, or by the Registrar or Deputy Registrar of a District Court.
+(3) The signature of the applicant shall be attested by the District Court Judge to whom the application is made, or by a Registrar or Deputy Registrar of the District Court.
 (4) If the District Court Judge is satisfied, whether by the admission of the applicant or by any other evidence, that the applicant is an alcoholic, and that he fully understands the nature and effect of his application, the District Court Judge may, if he thinks fit, and if he is satisfied that the managers or the superintendent of the institution, as the case may require, are willing to receive the applicant into the institution, make an order in the prescribed form for the detention of the applicant, for treatment for alcoholism, in the institution named in the application.
 
 ### 9 Power of District Court Judge to order detention and treatment on application of relative or other reputable person
@@ -156,7 +156,7 @@ Where the managers of an institution where a patient is detained pursuant to an 
 **Appeals**
 
 ### 23 Appeals against order of District Court Judge
-All the provisions of Part 6 of the Criminal Procedure Act 2011 in respect of appeals against sentence shall apply, with the necessary modifications, to any order for detention and treatment or any order for the return or removal of a patient to an institution on the revocation of an order for leave of absence, made by a District Court Judge or a District Court under this Act, in the same manner as if the person ordered to be so detained and treated or returned or removed had been sentenced to imprisonment:
+All the provisions of Part 6 of the Criminal Procedure Act 2011 in respect of appeals against sentence shall apply, with the necessary modifications, to any order for detention and treatment or any order for the return or removal of a patient to an institution on the revocation of an order for leave of absence, made by a District Court Judge or the District Court under this Act, in the same manner as if the person ordered to be so detained and treated or returned or removed had been sentenced to imprisonment:
 provided that an appeal under this section may be made at any time within 3 weeks after the date on which the order for detention and treatment or return or removal was signed by the District Court Judge.
 
 **Offences**
@@ -204,10 +204,10 @@ Every medical certificate given for the purposes of this Act shall be evidence o
 (2) A medical practitioner who certifies the medical certificate may not be a relative, business partner, principal, or assistant of the other certifying medical practitioner.
 (3) Every such certificate shall contain a statement that the certifying medical practitioner is not prohibited by this Act from signing the same.
 (4) If an employee of a hospital care operator within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001 applies for a committal order under this Act, a medical practitioner employed by the operator—
-  (a) is not for the purposes of subsection (1)(c) deemed, by reason of any official relationship with the applicant, to be the applicant's business partner, principal, or assistant; and
+  (a) is not for the purposes of subsection (1)﻿(c) deemed, by reason of any official relationship with the applicant, to be the applicant's business partner, principal, or assistant; and
   (b) is not for any purpose deemed, by reason of any official relationship with any other medical practitioner employed by the operator, to be the business partner, principal, or assistant of the other medical practitioner.
 (5) If an officer on the staff of any institution conducted by the Crown (not being an institution within the meaning of this Act) applies for a committal order under this Act, a medical practitioner employed in or attached to the institution—
-  (a) is not, for the purposes of subsection (1)(c), deemed by reason of any official relationship with the applicant, to be the applicant's business partner, principal, or assistant; and
+  (a) is not, for the purposes of subsection (1)﻿(c), deemed by reason of any official relationship with the applicant, to be the applicant's business partner, principal, or assistant; and
   (b) is not for any purpose deemed, by reason of any official relationship with any other medical practitioner employed in or attached to the institution, to be the business partner, principal, or assistant of the other medical practitioner.
 (6) In this section, relative, in relation to any person, means any of the following:
   (a) the spouse, civil union partner, or de facto partner of the person:
