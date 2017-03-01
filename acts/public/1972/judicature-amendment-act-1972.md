@@ -1,5 +1,5 @@
 # Judicature Amendment Act 1972
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-03-01_
 
 > An Act to amend the Judicature Act 1908
 
@@ -110,7 +110,7 @@ Subject to section 14 of this Act, this Part of this Act shall bind the Crown.
 (2) In its application to the Crown, this Part of this Act shall be read subject to the Crown Proceedings Act 1950, as amended by subsection (1) of this section.
 
 ### 15 Jurisdiction of Administrative Division
-This section amended s 26(1)(c) of the principal Act.
+This section amended s 26(1)﻿(c) of the principal Act.
 
 ### 16 References in enactments
 Subject to sections 14 and 15 of this Act, every reference to any enactment (other than this Act), or in any regulation, to any of the proceedings referred to in subsection (1) of section 4 of this Act shall hereafter, unless the context otherwise requires, be read as including a reference to an application for review.
