@@ -1,5 +1,5 @@
 # Human Assisted Reproductive Technology Act 2004
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Human Assisted Reproductive Technology Act 2004.
@@ -775,7 +775,7 @@ The provisions of this Part, other than this section and sections 43, 45, 51, 62
 (1) A donor offspring who is 16 years or older but under 18 years may apply to the Family Court for an order that, for the purposes of 1 or more of the provisions stated in subsection (2), the donor offspring is to be treated as a donor offspring who is 18 years old.
 (2) The provisions are sections 50, 56, 57, 58, 59, and 63.
 (3) If satisfied that it is in the best interests of the donor offspring to do so, a Family Court Judge may make an order that requires a named provider or the Registrar-General, or both, to treat, for the purposes of 1 or more of the provisions specified in subsection (2), the donor offspring as a donor offspring who is 18 years old.
-(4) Rules may be made under section 16A of the Family Courts Act 1980 relating to the practice and procedure of Family Courts in proceedings under this Act.
+(4) Rules may be made under section 16A of the Family Court Act 1980 relating to the practice and procedure of the Family Court in proceedings under this Act.
 
 **Application of Privacy Act 1993**
 
