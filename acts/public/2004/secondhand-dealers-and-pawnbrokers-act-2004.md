@@ -1,5 +1,5 @@
 # Secondhand Dealers and Pawnbrokers Act 2004
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Secondhand Dealers and Pawnbrokers Act 2004.
@@ -344,13 +344,13 @@ A person is disqualified from holding a certificate if he or she—
 **Appeals**
 
 ### 34 Appeals against decision of Licensing Authority
-(1) An applicant for a licence or a certificate may appeal to a District Court against a decision by the Licensing Authority relating to the applicant’s application.
-(2) The holder of a licence or certificate may appeal to a District Court against a decision by the Licensing Authority relating to the renewal, cancellation, or suspension of the holder’s licence or certificate.
+(1) An applicant for a licence or a certificate may appeal to the District Court against a decision by the Licensing Authority relating to the applicant’s application.
+(2) The holder of a licence or certificate may appeal to the District Court against a decision by the Licensing Authority relating to the renewal, cancellation, or suspension of the holder’s licence or certificate.
 (3) To avoid doubt, there is no appeal under this section against a decision of the Licensing Authority relating to waiver of disqualification.
 (4) An appeal under this section must be brought within 20 days of the date of the decision appealed against, or within any longer period that the District Court, on application made before or after the expiration of that period, allows.
 
 ### 35 Determination of appeal
-(1) In determining an appeal, a District Court may confirm or reverse the decision of the Licensing Authority.
+(1) In determining an appeal, the District Court may confirm or reverse the decision of the Licensing Authority.
 (2) The District Court’s decision in the determination of an appeal is final.
 (3) To avoid doubt, nothing in this section or section 34 affects the right of any person to apply, in accordance with law, for judicial review of a decision of the Licensing Authority.
 
