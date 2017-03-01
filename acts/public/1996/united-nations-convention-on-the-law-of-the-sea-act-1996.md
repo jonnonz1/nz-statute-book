@@ -1,5 +1,5 @@
 # United Nations Convention on the Law of the Sea Act 1996
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to complete the implementation in the law of New Zealand of the United Nations Convention on the Law of the Sea
 
@@ -35,7 +35,7 @@ In this Act, unless the context otherwise requires,—
 (3) Any certificate under subsection (2) shall, in the absence of evidence to the contrary, be conclusive evidence of the matters to which it relates.
 (4) Any court or any person acting judicially to which or to whom, in any proceeding, any certificate under subsection (2) is produced shall take judicial notice of the signature on it of the Secretary.
 (5) For the purposes of subsection (4),—
-  - **court** includes the Supreme Court, the Court of Appeal, the High Court, and any District Court
+  - **court** includes the Supreme Court, the Court of Appeal, the High Court, and the District Court
   - **person acting judicially** means any person having in New Zealand by law authority to hear, receive, and examine evidence
   - **proceeding** means—
     (a) a proceeding conducted by a court; and
@@ -160,4 +160,4 @@ The purpose of this Part is to give effect in the law of New Zealand to provisio
 (3) Any document produced under subsection (1) or subsection (2) shall, in the absence of evidence to the contrary, be conclusive evidence of the document which it purports to be or the matters to which it relates, as the case may be.
 
 ### 16 Rules of court
-The Governor-General in Council, with the concurrence of the Chief Justice and any 2 or more of the members of the Rules Committee, of whom at least 1 shall be a Judge, may, under section 51C of the Judicature Act 1908, from time to time make rules relating to the enforcement of any decision of a kind referred to in section 13(3) or section 14(3), if the Governor-General, the Chief Justice, and the relevant members of the Rules Committee are satisfied that the rules are consistent with New Zealand's rights and obligations under the Convention.
+The Governor-General in Council, with the concurrence of the Chief Justice and any 2 or more of the members of the Rules Committee, of whom at least 1 shall be a Judge, may, under section 148 of the Senior Courts Act 2016, from time to time make rules relating to the enforcement of any decision of a kind referred to in section 13(3) or section 14(3), if the Governor-General, the Chief Justice, and the relevant members of the Rules Committee are satisfied that the rules are consistent with New Zealand's rights and obligations under the Convention.
