@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2016-07-01_
+_Consolidation as at 2017-03-01_
 
 > Title
 
@@ -778,7 +778,7 @@ Where the remedy of reinstatement is provided by the Employment Relations Author
 [Repealed]
 
 ### 70 Enforcement of judgments
-(1) A certificate under the hand of the Registrar of the court, specifying the amount payable under any order for the payment of money made under this Act by the court, and the persons by whom and to whom it is payable, may be filed in any District Court, and, subject to subsection (2), shall then be enforceable in the same manner as a judgment given by a District Court in an action for the recovery of a debt.
+(1) A certificate under the hand of the Registrar of the court, specifying the amount payable under any order for the payment of money made under this Act by the court, and the persons by whom and to whom it is payable, may be filed in the District Court, and, subject to subsection (2), shall then be enforceable in the same manner as a judgment given by the District Court in an action for the recovery of a debt.
 (2) No proceedings shall be taken under the Imprisonment for Debt Limitation Act 1908 against any person for failing or refusing to pay any penalty imposed on that person under this Act.
 
 **Role of Labour Inspectors in relation to employees**
