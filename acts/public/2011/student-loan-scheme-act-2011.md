@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2017-02-21_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -1631,7 +1631,7 @@ Section 159 applies to a borrower if—
 
 ### 162B Arrest of liable person
 (1) A District Court Judge or, if a District Court Judge is not available and the case appears to be urgent, a Registrar may, on an application in writing by the Commissioner, issue a warrant for the arrest of a person (the liable person) if the Judge or Registrar (as the case may be) is satisfied that the person has committed the offence in section 162A and is about to leave or attempt to leave New Zealand.
-(2) The liable person must be brought as soon as possible before a District Court, which, if it is satisfied that the person is about to leave or attempt to leave New Zealand without making reasonable efforts to pay the amount in default or without making arrangements with the Inland Revenue Department to pay the amount in default, may order that the liable person—
+(2) The liable person must be brought as soon as possible before the District Court, which, if it is satisfied that the person is about to leave or attempt to leave New Zealand without making reasonable efforts to pay the amount in default or without making arrangements with the Inland Revenue Department to pay the amount in default, may order that the liable person—
   (a) pay the amount in default:
   (b) make arrangements with the Inland Revenue Department to pay the amount in default:
   (c) give such security (including the provision of sureties) for the payment of that liability as the court specifies:
@@ -1704,16 +1704,16 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 ### 171 Right to apply to Disputes Tribunal or District Court
 (1) Subsection (2) applies if an objection under section 167 that the chief executive is required to determine under section 169 is not wholly allowed by the chief executive.
 (2) The objector may, within 30 days after the date on which the chief executive notifies the objector of the decision under section 170(2)﻿(a), either—
-  (a) apply to a Disputes Tribunal for determination of the dispute if the amount in dispute is within the financial jurisdiction of the Disputes Tribunal; or
-  (b) apply to a District Court for determination of the dispute.
-(3) A Referee of a Disputes Tribunal or a District Court Judge, as applicable, may extend the time allowed under subsection (2) for applying to a Disputes Tribunal or District Court.
-(4) No objection to which section 167 or 169 applies may be heard and determined by a Disputes Tribunal or a District Court.
+  (a) apply to the Disputes Tribunal for determination of the dispute if the amount in dispute is within the financial jurisdiction of the Disputes Tribunal; or
+  (b) apply to the District Court for determination of the dispute.
+(3) A Referee of the Disputes Tribunal or a District Court Judge, as applicable, may extend the time allowed under subsection (2) for applying to the Disputes Tribunal or District Court.
+(4) No objection to which section 167 or 169 applies may be heard and determined by the Disputes Tribunal or the District Court.
 (5) Subsection (4) applies—
-  (a) despite anything in the Disputes Tribunals Act 1988 or the District Courts Act 1947; but
+  (a) despite anything in the Disputes Tribunal Act 1988 or the District Court Act 2016; but
   (b) subject to subsections (1) and (2).
 
 ### 172 Notification of Disputes Tribunal's or District Court's decision about objection
-The loan manager must, as soon as practicable, notify the Commissioner (in the manner determined by the Commissioner and the loan manager) of a Disputes Tribunal's or District Court's decision in respect of an objection under section 171.
+The loan manager must, as soon as practicable, notify the Commissioner (in the manner determined by the Commissioner and the loan manager) of the Disputes Tribunal's or the District Court's decision in respect of an objection under section 171.
 
 ### Subpart 5 — Dispute procedures and rights to challenge
 
@@ -1920,7 +1920,7 @@ The Commissioner must, as soon as practicable,—
   (a) alter the details of a loan advance provided or made available to a borrower under section 19 in accordance with the decision of—
     (i) the loan manager under section 168; or
     (ii) the chief executive under section 170; or
-    (iii) a Referee of a Disputes Tribunal or a District Court Judge, as applicable, under section 171; or
+    (iii) a Referee of the Disputes Tribunal or a District Court Judge, as applicable, under section 171; or
   (b) alter any information (other than the details of a loan advance made or charged to the borrower) provided or made available to a borrower under section 19 in accordance with a decision of the Commissioner under subpart 5 of Part 4.
 
 ### 202 Provisions of Tax Administration Act 1994 and Income Tax Act 2007 to apply to this Act
