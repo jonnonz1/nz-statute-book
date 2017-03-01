@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -1627,7 +1627,7 @@ If the person in charge of the land, premises, or place or the vehicle, aircraft
       (A) have been commenced but not yet determined; or
       (B) have not yet been commenced but are intended to be commenced within a reasonable period; or
     (ii) the owner of that animal or those animals cannot be located.
-(2) If this section applies, a District Court, on its own motion, or on an application by a constable or an inspector, may make an order authorising—
+(2) If this section applies, the District Court, on its own motion, or on an application by a constable or an inspector, may make an order authorising—
   (a) the sale of the animal or animals; or
   (b) the placement of the animal or animals with another person; or
   (c) the destruction or other disposal of the animal or animals; or
@@ -1741,17 +1741,15 @@ If an inspector, auxiliary officer, or veterinarian finds a severely injured or 
 **Enforcement orders**
 
 ### 143 Application for enforcement order
-(1) An inspector may apply to a District Court for an enforcement order requiring any person to comply with the provisions of—
+(1) An inspector may apply to the District Court for an enforcement order requiring any person to comply with the provisions of—
   (a) this Act; or
   (b) any regulations made under this Act; or
   (c) a code of ethical conduct or conditions imposed by an animal ethics committee in giving its approval of a project.
-(2) Every application to a District Court under this section must be made by originating application.
-(3) Except as modified—the rules relating to the practice and procedure of District Courts for the time being in force under the District Courts Act 1947 apply with respect to every application to the court under this section.
-  (a) by sections 145 to 155; and
-  (b) by any rules made under section 156,—
+(2) Every application to the District Court under this section must be made by originating application.
+(3) Subject to modification by sections 145 to 155 and by any rules made under section 156, the District Court Rules made under section 228 of the District Court Act 2016 apply to every application to the court under this section.
 
 ### 144 Power to make enforcement order
-A District Court may make an enforcement order on an application under section 143 only if the District Court is satisfied that the person in respect of whom the order is sought has been acting in contravention of the provisions of this Act or of any regulations made under this Act or of any code of ethical conduct or of any conditions imposed by an animal ethics committee in giving its approval of a project or is likely to do so.
+The District Court may make an enforcement order on an application under section 143 only if the District Court is satisfied that the person in respect of whom the order is sought has been acting in contravention of the provisions of this Act or of any regulations made under this Act or of any code of ethical conduct or of any conditions imposed by an animal ethics committee in giving its approval of a project or is likely to do so.
 
 ### 145 Compliance with enforcement order
 (1) Where an enforcement order is made against a person, and that enforcement order is served on that person, that person must—
@@ -1770,7 +1768,7 @@ A District Court may make an enforcement order on an application under section 1
 
 ### 146 Notification of application
 (1) Except as provided in section 148 (which relates to temporary enforcement orders), where an application for an enforcement order is made, the applicant must serve notice of the application on every person directly affected by the application.
-(2) Every notice required to be served under this section must be served within 7 working days after the date on which the application is filed in the District Court or within such further time as a District Court may allow.
+(2) Every notice required to be served under this section must be served within 7 working days after the date on which the application is filed in the District Court or within such further time as the District Court may allow.
 
 ### 147 Right to be heard
 Except as provided in section 148 (which relates to temporary enforcement orders), before deciding an application for an enforcement order, the District Court must hear—
@@ -1794,7 +1792,7 @@ Every enforcement order comes into effect on the date on which it is served on t
 (2) A final enforcement order continues in force until it is discharged under section 151.
 
 ### 151 Power to vary or discharge enforcement order
-A District Court may, if it thinks fit, on the application of the applicant or the respondent, vary or discharge an enforcement order.
+The District Court may, if it thinks fit, on the application of the applicant or the respondent, vary or discharge an enforcement order.
 
 ### 152 Offence to contravene enforcement order
 (1) A person commits an offence who contravenes an enforcement order.
@@ -1803,12 +1801,12 @@ A District Court may, if it thinks fit, on the application of the applicant or t
   (b) in the case of a body corporate, to a fine not exceeding $125,000.
 
 ### 153 Appeals to High Court
-(1AA) This subsection applies to a decision of a District Court, on an application under section 143, to—
+(1AA) This subsection applies to a decision of the District Court, on an application under section 143, to—
   (a) make or refuse to make an enforcement order; or
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (1) A party to proceedings in which there is made a decision to which subsection (1AA) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
-(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under this section as if it were an appeal under section 124 of that Act.
 (3)
 
 ### 154 Appeals to Court of Appeal
@@ -1822,8 +1820,8 @@ Except where the court making the order appealed from otherwise directs,—
   (b) every enforcement order may be enforced in the same manner in all respects as if no such appeal were pending.
 
 ### 156 Rules of court
-In addition to all other powers conferred by the District Courts Act 1947, the Governor-General may from time to time, by Order in Council, make rules—
-  (a) regulating the practice and procedure of District Courts in proceedings under this Act that relate to enforcement orders:
+In addition to all other powers conferred by the District Court Act 2016, the Governor-General may from time to time, by Order in Council, make rules—
+  (a) regulating the practice and procedure of the District Court in proceedings under this Act that relate to enforcement orders:
   (b) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act that relate to enforcement orders.
 
 **Compliance notices**
@@ -1884,7 +1882,7 @@ The person to whom a compliance notice is issued must—
 (4) An application to change or cancel a compliance notice does not operate as a stay of the notice.
 
 ### 156F Appeal to District Court
-(1) The following persons may appeal to a District Court:
+(1) The following persons may appeal to the District Court:
   (a) the person to whom a compliance notice was issued under section 156A:
   (b) a person whose application under section 156E(2) did not succeed.
 (2) The appeal does not operate as a stay of the compliance notice.
@@ -1900,15 +1898,15 @@ The person to whom a compliance notice is issued must—
 (6) The court may grant or refuse a stay and may impose any terms or conditions that the court thinks fit.
 (7) The stay has legal effect once a copy of it is served on the Director-General.
 (8) The stay remains in force until the District Court orders it lifted.
-(9) The rules of procedure under the District Courts Act 1947 apply to the making of an appeal and an application for a stay.
+(9) The rules of procedure under the District Court Act 2016 apply to the making of an appeal and an application for a stay.
 (10) The District Court may confirm, change, or cancel the compliance notice appealed against.
 
 ### 156G Appeal to High Court, Court of Appeal, or Supreme Court
 (1) A party to an appeal under section 156F may appeal to the High Court on a question of law.
-(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947 apply to an appeal under subsection (1)—
-  (a) as if it were an appeal under section 72 of the District Courts Act 1947; and
+(2) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016 apply to an appeal under subsection (1)—
+  (a) as if it were an appeal under section 124 of the District Court Act 2016; and
   (b) with all necessary modifications.
-(3) A party to an appeal under subsection (1) may appeal to the Court of Appeal or the Supreme Court against a determination of the High Court on a question of law, with the leave of the court appealed to, and subject to section 14 of the Supreme Court Act 2003.
+(3) A party to an appeal under subsection (1) may appeal to the Court of Appeal or the Supreme Court against a determination of the High Court on a question of law, with the leave of the court appealed to, and subject to section 75 of the Senior Courts Act 2016.
 (4) The Court of Appeal or the Supreme Court hearing an appeal under this section has the same power to adjudicate on the appeal as the High Court had.
 
 ### 156H Effect of appeal
@@ -2278,9 +2276,9 @@ Nothing in this Act applies in relation to the use of—
   (c) it is posted in a letter addressed to that person by name at that place of abode or business or address.
 (2) If the person is absent from New Zealand, the notice or other document may be served on or given to the person's agent in New Zealand.
 (3) If the person is deceased, the notice or other document may be served on or given to the person's personal representatives.
-(4) If the person is not known, or is absent from New Zealand and has no known agent in New Zealand, or is deceased and has no personal representatives, the notice or other document must be served or given in such manner as may be directed by an order of a District Court.
+(4) If the person is not known, or is absent from New Zealand and has no known agent in New Zealand, or is deceased and has no personal representatives, the notice or other document must be served or given in such manner as may be directed by an order of the District Court.
 (5) If any such notice or other document is sent to any person by post, it is, unless the contrary is shown, deemed to have been delivered to the person on the 7th day after the day on which it was posted; and in proving the delivery it is sufficient to prove that the letter was properly addressed and posted.
-(6) Despite anything in subsections (1) to (5), a District Court may in any case make an order directing the manner in which any notice or other document is to be served or given, or dispensing with the service or giving of the notice or document.
+(6) Despite anything in subsections (1) to (5), the District Court may in any case make an order directing the manner in which any notice or other document is to be served or given, or dispensing with the service or giving of the notice or document.
 (7) This section does not apply to notices or other documents served or given in any proceedings in any court.
 
 **Transitional provisions**
