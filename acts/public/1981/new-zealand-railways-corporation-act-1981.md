@@ -1,5 +1,5 @@
 # New Zealand Railways Corporation Act 1981
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2017-03-01_
 
 > An Act to establish a corporation to maintain, operate, and develop the services at present carried on by the New Zealand Government Railways Department and to consolidate and amend the law relating thereto
 
@@ -296,7 +296,7 @@ The Corporation may from time to time enter into any agreement or contract with 
 (2) The Corporation may, by notice in writing, require the occupier or, where there is no occupier, the owner of any land abutting upon a railway to do any of the following acts:
   (a) to remove, lower, or trim to the satisfaction of the Corporation any tree or hedge where, in the opinion of the Corporation, the removal, lowering, or trimming is necessary in order to prevent injury to the railway or obstruction to the traffic thereon or to any channel, ditch, or drain appertaining thereto:
   (b) to remove, lower, or trim to the satisfaction of the Corporation any tree or hedge, or to lower any fence or wall, if in the opinion of the Corporation, the tree, hedge, fence, or wall is likely, by reason of its obstructing the view, to cause danger to the traffic on that or any other railway.
-(3) Within 10 days after service of the notice the occupier or owner may apply to a District Court for an order setting aside the notice.
+(3) Within 10 days after service of the notice the occupier or owner may apply to the District Court for an order setting aside the notice.
 (4) On the hearing of the application, the court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
 (5) In the case of a notice which is not set aside, if the occupier or owner fails to do any such act in compliance therewith within 1 month after the service thereof, or, where the application has been heard, within 1 month after the giving of the decision of the court, the Corporation may enter on the land and do that act and recover the cost from him.
 (5A) Any person entering on any land on behalf of the Corporation pursuant to this section shall carry identification and produce it on initial entry and, if requested, at any subsequent time.
