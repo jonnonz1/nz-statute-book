@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
@@ -626,7 +626,7 @@ If a licensed insurer (the first insurer) accepts an assignment of liabilities f
 (3) A decision against which an appeal is lodged continues in force pending the determination of the appeal unless the High Court orders otherwise.
 
 ### 43 Appeal to Court of Appeal on question of law
-(1) Any party to an appeal under section 42 who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of the High Court or, if the High Court refuses leave, with the leave of the Court of Appeal, appeal to the Court of Appeal against the determination; and section 66 of the Judicature Act 1908 applies to any such appeal.
+(1) Any party to an appeal under section 42 who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of the High Court or, if the High Court refuses leave, with the leave of the Court of Appeal, appeal to the Court of Appeal against the determination; and section 56 of the Senior Courts Act 2016 applies to any such appeal.
 (2) In determining whether to grant leave to appeal, the Court of Appeal must have regard to whether the question of law involved in the appeal is one that, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for its decision.
 (3) The Court of Appeal, in granting leave, may impose the conditions that it thinks fit, whether as to costs or otherwise.
 (4) The decision of the Court of Appeal on any application for leave to appeal, or on an appeal under this section, is final.
@@ -2315,7 +2315,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 **Ban ordered by District Court**
 
 ### 222 Power to ban certain persons from participating in insurance business
-(1) A District Court may, on the application of the Bank, make an order in respect of a person under subsection (2) if the District Court considers that the person—
+(1) The District Court may, on the application of the Bank, make an order in respect of a person under subsection (2) if the District Court considers that the person—
   (a) has, in connection with an insurance business, engaged in an act, omission, or course of conduct that constitutes serious wrongdoing and that the person is not a fit and proper person to participate in insurance business in 1 or more of the ways described in subsection (2); or
   (b) as a director of a licensed insurer, has persistently or seriously failed to comply with this Act or the regulations; or
   (c) is a director of a licensed insurer, being an insurer that has persistently or seriously failed to comply with any direction, condition, or other requirement imposed by or under this Act or the regulations, and the person has persistently failed to take reasonable steps to prevent or stop that failure; or
@@ -2328,7 +2328,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (e) acting under a contract for services with an insurer:
   (f) being an insurance intermediary:
   (g) otherwise participating in an insurance business in any other way (whether paid or unpaid).
-(3) Every application to a District Court under this section must be made by an originating application.
+(3) Every application to the District Court under this section must be made by an originating application.
 (4) A ban under this section has effect from the date specified in the order even though an appeal may have been lodged under section 224.
 (5) An order may be—
   (a) made even though the person concerned may be criminally liable for the matters on the grounds of which the order is to be made; and
@@ -2351,13 +2351,13 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (c) any person referred to in subsection (1)﻿(b)﻿(iii) may also appear and be heard.
 
 ### 224 Appeals to High Court
-(1) Any person who has a right to appear and be heard in any proceedings under section 222 may appeal to the High Court if a District Court—
+(1) Any person who has a right to appear and be heard in any proceedings under section 222 may appeal to the High Court if the District Court—
   (a) has made or refused to make an order under that section; or
   (b) has otherwise finally determined or has dismissed the proceedings.
 (2) An appeal is by way of rehearing.
 
 ### 225 Appeal to Court of Appeal on question of law
-(1) Any party to an appeal under section 224 who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of the High Court or, if the High Court refuses leave, with the leave of the Court of Appeal, appeal to the Court of Appeal against the determination; and section 66 of the Judicature Act 1908 applies to any such appeal.
+(1) Any party to an appeal under section 224 who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of the High Court or, if the High Court refuses leave, with the leave of the Court of Appeal, appeal to the Court of Appeal against the determination; and section 56 of the Senior Courts Act 2016 applies to any such appeal.
 (2) In determining whether to grant leave to appeal, the Court of Appeal must have regard to whether the question of law involved in the appeal is one that, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for its decision.
 (3) The Court of Appeal, in granting leave, may impose the conditions that it thinks fit, whether as to costs or otherwise.
 (4) The decision of the Court of Appeal on any application for leave to appeal, or on an appeal under this section, is final.
@@ -2600,7 +2600,7 @@ The following Acts are repealed:
 
 ### 242 Amendment to Financial Service Providers (Registration and Dispute Resolution) Act 2008
 (1) This section amends the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
-(2) Schedule 2 is amended by adding the following item:Reserve Bank of New ZealandLicensed insurersInsurance (Prudential Supervision) Act 2010
+(2) Schedule 2 is amended by adding the following item:The following table is small in size and has 3 columns. This table is an amendment to the table in Schedule 2 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 and should be read with that table to provide understanding of the context.Reserve Bank of New ZealandLicensed insurersInsurance (Prudential Supervision) Act 2010
 
 **Transitional and savings provisions**
 
