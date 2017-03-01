@@ -1,5 +1,5 @@
 # Unclaimed Money Act 1971
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to unclaimed money
 
@@ -70,7 +70,7 @@ Subject to this Act, there shall be payable to the Crown all money which becomes
 ### 6 Register to be kept
 (1) Every holder shall, on 1 June in each year, enter in an alphabetical register, to be kept at the head or principal office in New Zealand of the holder, in the form prescribed in the Schedule, particulars of unclaimed money arising on or after 1 June in the preceding year; and from and after 8 June in each year that register shall be open to the inspection of all persons at that head or principal office during the hours within which the ordinary business of the holder is transacted, on payment of such fee as may be determined by the holder, but not exceeding 50 cents:
   provided that—
-    (a) on ceasing to carry on business in New Zealand a holder shall deposit the register in the custody of the Registrar of the District Court nearest to the place where that register was theretofore kept:
+    (a) on ceasing to carry on business in New Zealand a holder shall deposit the register in the custody of the Registrar of the office of the District Court nearest to the place where that register was theretofore kept:
     (b) any holder may at any time so deposit any book or part of the register in which no entry has been made for a period of not less than 6 years immediately preceding the date of that deposit.
 (2) Nothing in this section shall apply to any unclaimed money in respect of which special provisions are made by or under any other Act, or to any unclaimed money which, pursuant to the proviso to subsection (1) of section 4, ceases to be unclaimed money.
 
