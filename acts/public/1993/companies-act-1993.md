@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-03-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -19,6 +19,10 @@ _Consolidation as at 2016-12-17_
     (b) does not include a concise annual report
   - **applicable auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **applicable financial reporting standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
+  - **association** , in Parts 15 and 16 and in Schedule 11, includes—
+    (a) a body corporate (other than a company, an overseas company, or a body corporate that may be put into liquidation under or in accordance with the Act under which it is incorporated or registered); and
+    (b) a partnership; and
+    (c) an unincorporated body of persons
   - **balance date** , in relation to a company or an overseas company, has the same meaning as in section 41 of the Financial Reporting Act 2013
   - **board** and have the meanings set out in section 127
   - **charge** includes a right or interest in relation to property owned by a company, by virtue of which a creditor of the company is entitled to claim payment in priority to creditors entitled to be paid under section 313; but does not include a charge under a charging order issued by a court in favour of a judgment creditor
@@ -2031,12 +2035,12 @@ Where a shareholder of a company brings proceedings against the company or a dir
 ### 185 Breach of pre-incorporation contract
 In proceedings against a company for breach of a pre-incorporation contract which has been ratified by the company, the court may, on the application of the company, any other party to the proceedings, or of its own motion, make such order for the payment of damages or other relief as the court considers just and equitable, in addition to or in substitution for any order which may be made against the company, against a person by whom the contract was made.
 
-### 185A Jurisdiction of District Courts
-(1) A District Court shall have jurisdiction to exercise any power conferred by sections 182 to 185 in any case where—
+### 185A Jurisdiction of District Court
+(1) The District Court has jurisdiction to exercise any power conferred by sections 182 to 185 in any case where—
   (a) the occasion for the exercise of the power arises in the course of civil proceedings properly before the court; or
-  (b) the amount of the claim or the value of the property or relief claimed or in issue is not more than $200,000; or
-  (c) the parties agree, in accordance with section 37 of the District Courts Act 1947, that a District Court shall have jurisdiction to determine the proceedings.
-(2) For the purposes of section 43 of the District Courts Act 1947, an application made to a District Court under any of sections 182 to 185 shall be deemed to be a proceeding.
+  (b) the amount of the claim or the value of the property or relief claimed or in issue is not more than $350,000; or
+  (c) the parties agree, in accordance with section 81 of the District Court Act 2016, that the District Court has jurisdiction to determine the proceedings.
+(2) For the purposes of sections 86 to 88 of the District Court Act 2016, an application made to the District Court under any of sections 182 to 185 is deemed to be a proceeding.
 
 **Registered office**
 
@@ -2865,10 +2869,12 @@ In this Part, unless the context otherwise requires,—
   - **company** means—
     (a) a company within the meaning of section 2:
     (b) an overseas company that is registered on the overseas register:
-    (c) an association that may be put into liquidation under section 17A of the Judicature Act 1908
+    (c) an association:
+    (d) any other body corporate to which this Part applies under any enactment.
   - **creditor** includes—
     (a) a person who, in a liquidation, would be entitled to claim in accordance with section 303 that a debt is owing to that person by the company; and
-    (b) a secured creditor.
+    (b) a secured creditor
+    - **shareholder** includes, in relation to an association, members of the association or persons that the court determines as being justly entitled to surplus assets of the association after the satisfaction of the claims of all of the creditors.
 
 ### 236 Approval of arrangements, amalgamations, and compromises
 (1) Notwithstanding the provisions of this Act or the constitution of a company, the court may, on the application of a company or any shareholder or creditor of a company, order that an arrangement or amalgamation or compromise shall be binding on the company and on such other persons or classes of persons as the court may specify and any such order may be made on such terms and conditions as the court thinks fit.
@@ -4090,10 +4096,18 @@ For the purposes of the single administration of a pool, the pool companies may 
   - **liquidation committee** means a liquidation committee appointed under section 314
   - **Official Assignee** means an Official Assignee or Deputy Assignee appointed under the Insolvency Act 2006
   - **statutory demand** has the meaning set out in section 289.
+(1A) In this Part, company means—
+  (a) a company within the meaning of section 2:
+  (b) an overseas company to which this Part applies (see section 342):
+  (c) an association (see section 240B):
+  (d) any other body corporate to which this Part applies under any other enactment.
 (2) For the purposes of this Act, the power to appoint a liquidator of a company includes the power to appoint 2 or more persons as liquidators of a company.
 
 ### 240A Liquidation of licensed insurers
 If a licensed insurer may be put into liquidation under or in accordance with this Part, this Part applies in respect of the insurer subject to subpart 3 of Part 4 of the Insurance (Prudential Supervision) Act 2010.
+
+### 240B Liquidation of associations
+An association may be put into liquidation under this Part, and this Part applies to an association, subject to the modifications and exclusions set out in Schedule 11.
 
 ### 241 Commencement of liquidation
 (1) A company may be put into liquidation by the appointment as liquidator of a named person or of an Official Assignee for a named district.
@@ -6883,6 +6897,51 @@ Nothing in this Act excludes the right of a creditor of an overseas company in r
   (b) to bring an action in New Zealand in relation to the balance of a debt remaining unpaid after the completion of a liquidation.
 
 ## Schedule 10 — Interest class: principles
+
+## Schedule 11 — Liquidation of associations
+
+### 1 Modified application of Part 16 to associations
+(1) Part 16 applies to the liquidation of an association with the following modifications and exclusions:
+  (a) section 241(2)﻿(a), (b), (c)﻿(v), (va), (vii), and (viii), and (d) does not apply:
+  (b) clause 2 applies instead of section 241(4):
+  (c) clauses 3 and 4 apply instead of sections 287 and 288(1) and (2):
+  (d) clause 5 applies instead of section 268:
+  (e) references in that Part to section 241(4), 268, 287, or 288(1) or (2) (or to a provision of any of those sections) must be taken as references to the relevant replacement clause or clauses under paragraphs (b) to (d) (or to the relevant replacement provision):
+  (f) section 257(1)﻿(a)﻿(ii)﻿(C) and (1)﻿(a)﻿(iii) does not apply:
+  (g) all other necessary modifications must be made.
+(2) A document may be served on an association for the purposes of this schedule and Part 16 as follows:
+  (a) by delivery to a director, a principal officer, or the secretary of the association; or
+  (b) by leaving it at the association's principal place of business in New Zealand; or
+  (c) in the case of a document in any legal proceedings, by a method set out in paragraph (a) or (b) or by serving it in accordance with any directions as to service given by the court having jurisdiction in the proceedings.
+
+### 2 Grounds for appointment of liquidator
+The court may appoint a liquidator of an association under section 241 if the court is satisfied that—
+  (a) the association is dissolved, has ceased to carry on business, or is carrying on business solely for the purpose of terminating its affairs; or
+  (b) the association is unable to pay its debts; or
+  (c) it is just and equitable that the association be put into liquidation.
+
+### 3 Meaning of inability to pay debts
+(1) Unless the contrary is proved, and subject to clause 4 and section 288(3) to (5), an association is presumed to be unable to pay its debts if—
+  (a) the association has failed to comply with a demand in respect of a debt owed by the association that is made in accordance with subclause (2); or
+  (b) all of the following apply:
+    (i) a proceeding has been commenced against a member of the association for the payment of a debt owed by the association or the member in that capacity; and
+    (ii) notice of the proceeding has been served on the association; and
+    (iii) within 10 days after the notice was served on it, the association has not paid or secured the debt, or otherwise compounded with the creditor, had the proceeding stayed, or indemnified the member for the amount of any judgment debt plus costs; or
+  (c) execution issued against the association, a member of the association in that capacity, or a person authorised to be sued on behalf of the association in respect of a judgment debt has been returned unsatisfied in whole or in part.
+(2) A demand under subclause (1)﻿(a) must—
+  (a) be in respect of a debt that is due that is not less than the prescribed amount; and
+  (b) be in writing; and
+  (c) be served on the association; and
+  (d) require the association to pay or secure the debt, or otherwise compound with the creditor to the reasonable satisfaction of the creditor within 15 working days after the date of service of the demand or any longer period that the court orders.
+
+### 4 Evidence of inability to pay debts
+(1) On an application to the court for an order that an association be put into liquidation, evidence of failure to comply with a demand under clause 3 is not admissible as evidence that an association is unable to pay the debts unless the application is made within 30 working days after the last date for compliance with the demand.
+(2) Clause 3(2) does not limit proof by other means that an association is unable to pay its debts.
+
+### 5 Power of liquidator to enforce liability of contributors
+The liquidator may enforce a liability of a person to pay or contribute to—
+  (a) any debt or liability of an association; or
+  (b) any amount for the adjustment of the rights of members of the association among themselves.
 
 ### 1 Title
 This Act is the Companies Amendment Act 2006.
