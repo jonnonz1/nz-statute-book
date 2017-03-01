@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -1399,7 +1399,7 @@ In hearing an application for a recognition order, the Court may receive as evid
 (6) This section does not affect the Court's inherent jurisdiction.
 
 ### 108 Rules governing procedure
-Rules not inconsistent with this Act may be made under section 51C of the Judicature Act 1908 to regulate the practice and procedure of the Court or the Court of Appeal or the Supreme Court in relation to any application to the Court under this Act.
+Rules not inconsistent with this Act may be made under section 148 of the Senior Courts Act 2016 to regulate the practice and procedure of the Court or the Court of Appeal or the Supreme Court in relation to any application to the Court under this Act.
 
 **Recognition orders**
 
