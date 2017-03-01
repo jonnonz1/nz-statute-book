@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2016-11-08_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -1144,7 +1144,7 @@ Without limiting any power to make regulations under this Act, nothing in sectio
 (6) If any article seized under section 63 is not destroyed or otherwise disposed of under this section, it shall be returned to the person from whom it was seized when the officer concerned is satisfied of the matters referred to in subsection (3).
 
 ### 65 District Court may order return of property or compensation
-(1) Any person claiming an interest in any substance or article seized under section 63(2)﻿(i), may, within 7 days thereafter, apply to a District Court for an order—
+(1) Any person claiming an interest in any substance or article seized under section 63(2)﻿(i), may, within 7 days thereafter, apply to the District Court for an order—
   (a) that the seizure be disallowed and that the article be returned or otherwise made available to him:
   (b) that the Crown shall pay to him such sum by way of compensation for any depreciation in the value of the substance or article resulting from its seizure, detention, or removal as the court thinks fit.
 (2) On any such application, the court may dismiss it, or, subject to subsections (3) and (4), order—and any such order may be made upon and subject to such terms and conditions as the court thinks fit.
@@ -1156,7 +1156,7 @@ Without limiting any power to make regulations under this Act, nothing in sectio
 (5) Where the court makes an order for the payment of any sum by way of compensation to any person under this section, the sum so awarded shall be recoverable by that person as a debt due from the Crown.
 (6) Every application to the court under this section shall be made and dealt with by way of originating application filed in the office of the court nearest to the place where the substance or article in dispute was seized or ordered to be detained.
 (7) The applicant shall serve notice of his application on the respondent on or before the date on which he files it in the court.
-(8) Except as modified by subsections (6) and (7), the rules of procedure for the time being in force under the District Courts Act 1947 shall apply with respect to every application to the court under this section.
+(8) Except as modified by subsections (6) and (7), the rules of procedure for the time being in force under the District Court Act 2016 shall apply with respect to every application to the court under this section.
 (9) Every order made by the court under this section shall be final and binding on all parties.
 (10) Nothing in this section shall limit or affect the Customs and Excise Act 1996 or any other enactment.
 
@@ -1253,7 +1253,7 @@ No prosecutor or witness in any prosecution under this Act shall be compelled to
 ### 76A Offences in relation to authorised prescribers and delegated prescribers
 Every pharmacist, person licensed to operate a pharmacy, or operator or manager of a pharmacy commits an offence against this Act who gives, offers, or agrees to give to any authorised prescriber or to any delegated prescriber or to any other person any money or other consideration as a commission on prescriptions.
 
-### 77 Jurisdiction of District Courts
+### 77 Jurisdiction of District Court
 (1)
 (2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
 (3) The summons in any such proceedings shall not be made returnable in less than 14 days from the day on which it is served.
