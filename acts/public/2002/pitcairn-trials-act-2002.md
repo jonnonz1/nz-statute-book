@@ -1,5 +1,5 @@
 # Pitcairn Trials Act 2002
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Pitcairn Trials Act 2002.
@@ -119,16 +119,16 @@ If the Agreement or this Act confers a power, or imposes a duty or function, on 
 (4) The grant of a visa or entry permission under this section and the Immigration Act 2009 does not affect the application of that Act to the person concerned.
 (5) Subsection (4) is subject to subsection (3) and section 13.
 
-### 11 Persons referred to in section 10(2)(a)
-The persons referred to in section 10(2)(a) are—
+### 11 Persons referred to in section 10(2)﻿(a)
+The persons referred to in section 10(2)﻿(a) are—
   (a) a Pitcairn accused or Pitcairn offender or person subject to a hospital order:
   (b) a Pitcairn witness:
   (c) a support person for a person referred to in paragraph (a) or paragraph (b):
   (d) a Pitcairn Magistrate, a Judge of a Pitcairn Court, the Registrar of a Pitcairn Court or any person performing the functions of such a Registrar, any other official of a Pitcairn Court, the Pitcairn Prosecutor, or a Pitcairn defence counsel:
   (e) an associate (for example, a member of the family) of a person referred to in paragraph (d).
 
-### 12 Purposes referred to in section 10(2)(d)
-The purposes referred to in section 10(2)(d) are—
+### 12 Purposes referred to in section 10(2)﻿(d)
+The purposes referred to in section 10(2)﻿(d) are—
   (a) the conduct of a Pitcairn trial that is to be conducted, or is being conducted, by a Pitcairn Court sitting in New Zealand:
   (b) the making of decisions under Part 3 about whether there should be made or granted a request for the enforcement in New Zealand of a Pitcairn sentence imposed on the person or a hospital order made in respect of the person:
   (c) the making of arrangements for the person's immediate removal from New Zealand if, under Part 3, there has been made a decision not to make, or not to grant, a request for the enforcement in New Zealand of a Pitcairn sentence imposed on the person or a hospital order made in respect of the person:
@@ -138,8 +138,8 @@ The purposes referred to in section 10(2)(d) are—
 (1) This section applies to the holder of a limited visa (or further limited visa) granted in accordance with section 10 if—
   (a) an immigration officer is, under section 84(2) of the Immigration Act 2009 (as applied by section 10 of this Act), to give the holder a notice specifying an expiry date for the visa that is a date earlier than the latest date on which the visa will expire; or
   (b) the holder of the visa is determined to be liable for deportation under section 157(1) of the Immigration Act 2009 (as applied by section 10 of this Act).
-(2) In the situation in subsection (1)(a), the notice specifying an earlier expiry date for the visa may, despite section 84(2) of the Immigration Act 2009, specify an earlier expiry date that is a date (for example, the date upon which the notice is given to the holder) sooner than 14 days after the notice is given to the holder.
-(3) In the situation in subsection (1)(b), the deportation liability notice given under section 170 of the Immigration Act 2009 must notify the holder that the holder is immediately liable for deportation.
+(2) In the situation in subsection (1)﻿(a), the notice specifying an earlier expiry date for the visa may, despite section 84(2) of the Immigration Act 2009, specify an earlier expiry date that is a date (for example, the date upon which the notice is given to the holder) sooner than 14 days after the notice is given to the holder.
+(3) In the situation in subsection (1)﻿(b), the deportation liability notice given under section 170 of the Immigration Act 2009 must notify the holder that the holder is immediately liable for deportation.
 
 **Relationship with certain Acts**
 
@@ -181,7 +181,7 @@ Pitcairn Courts may sit in New Zealand for the purpose of exercising or performi
 ### 18 Proceedings of Pitcairn Courts not subject to challenge under New Zealand law
 (1) The conduct of a trial by a Pitcairn Court sitting in New Zealand is not subject to judicial or other challenge in a New Zealand court.
 (2) In particular, none of the following may be brought or made in a New Zealand court in respect of a judgment, order, determination, or step of a Pitcairn Court given, made, or taken at a sitting of that Pitcairn Court in New Zealand:
-  (a) any judicial review (whether by way of an application for review under Part 1 of the Judicature Amendment Act 1972 or otherwise):
+  (a) any judicial review (whether by way of an application for review under the Judicial Review Procedure Act 2016 or otherwise):
   (b) an application for, or for relief in the nature of, a declaration, declaratory judgment, or injunction:
   (c) an application for, or for relief in the nature of, a writ of habeas corpus (as that term is defined in section 3 of the Habeas Corpus Act 2001):
   (d) an appeal (for example, against a Pitcairn sentence or hospital order, or the conviction or charge to which it relates).
@@ -204,7 +204,7 @@ Pitcairn Courts may sit in New Zealand for the purpose of exercising or performi
 (3) To enable it to exercise or perform its functions in relation to Pitcairn trials or under the Agreement, a Pitcairn Court in New Zealand—
   (a) has full juridical personality; and
   (b) in particular, may undertake any lawful activity that is within the scope of those functions and, in doing so, has all legal capacity necessary for undertaking the activity.
-(4) In undertaking an activity referred to in subsection (3)(b), a Pitcairn Court may be represented by the Registrar.
+(4) In undertaking an activity referred to in subsection (3)﻿(b), a Pitcairn Court may be represented by the Registrar.
 
 **Premises in New Zealand of Pitcairn Courts**
 
@@ -236,7 +236,7 @@ Pitcairn Courts may sit in New Zealand for the purpose of exercising or performi
 (3) If a request is made under subsection (1) or entry without express permission is permitted under subsection (2), the member of the Police or appropriate New Zealand authority may provide assistance and, in doing so, has all the powers and protections that a member of the Police or appropriate New Zealand authority would have in relation to any other incident of that kind that occurs in New Zealand territory.
 
 ### 24 Emergencies requiring prompt protective action
-(1) This section gives, for the purposes of section 23(2)(a), examples of an emergency requiring prompt protective action.
+(1) This section gives, for the purposes of section 23(2)﻿(a), examples of an emergency requiring prompt protective action.
 (2) One example of that kind is an earthquake, fire, flood, hurricane, landslide, or release of a hazardous substance, that has caused, is causing, or threatens to cause,—
   (a) serious damage to the Pitcairn Court's premises; or
   (b) the death of, or serious bodily injury to, a person on those premises.
@@ -275,7 +275,7 @@ Pitcairn Courts may sit in New Zealand for the purpose of exercising or performi
   (e) the Pitcairn Prosecutor.
 (2) However, nothing in this section prevents the Governor from waiving in a particular case the immunity under subsection (1), if in the particular case that immunity can be waived without prejudice to the purposes for which it is accorded.
 (3) If it is not waived as referred to in subsection (2), the immunity under subsection (1) continues after the person ceases to hold the office concerned, and after termination of the Agreement, in respect of things done or omitted to be done by the person in the course of the exercise or performance of the person's official functions relating to a Pitcairn trial in New Zealand.
-(4) To avoid doubt, immunities under this section are accorded in the interests of the Pitcairn Courts, and in particular for the independent exercise or performance in a Pitcairn trial in New Zealand of the official functions of the persons specified in subsection (1)(a) to (e), and not for the personal benefit of those persons themselves.
+(4) To avoid doubt, immunities under this section are accorded in the interests of the Pitcairn Courts, and in particular for the independent exercise or performance in a Pitcairn trial in New Zealand of the official functions of the persons specified in subsection (1)﻿(a) to (e), and not for the personal benefit of those persons themselves.
 
 ### 29 Immunities of Pitcairn defence counsel
 (1) Pitcairn defence counsel have immunity from suit and legal process in New Zealand in respect of things done or omitted to be done by them in their capacity as counsel for a Pitcairn accused or Pitcairn offender or person subject to a hospital order in a Pitcairn trial in New Zealand.
@@ -336,7 +336,7 @@ If a request is granted under section 31, the Pitcairn accused concerned must, i
 (2) However, those provisions apply subject to all necessary modifications (for example, subject to those in Schedule 2).
 (3) Despite subsection (1), and without limiting subsection (2), in proceedings under the provisions of the Extradition Act 1999 that are applied by this section,—
   (a) the court cannot make a determination under section 45(4) of that Act, but may, under section 48(4) of that Act and in the situations referred to in that subsection, refer the case to the Minister under section 48(5) of that Act; and
-  (b) the court is not required to refer New Zealand citizens' cases to the Minister under section 48(1)(a) of that Act.
+  (b) the court is not required to refer New Zealand citizens' cases to the Minister under section 48(1)﻿(a) of that Act.
 (4) To avoid doubt, nothing in this section or section 36 or Schedule 2 prevents an accused from appearing voluntarily before a Pitcairn Court at the Pitcairn Court's premises if no proceedings (being proceedings under the provisions of the Extradition Act 1999 that are applied by this section) have been commenced in respect of the accused.
 
 ### 36 Transfer to Pitcairn Court's premises of Pitcairn accused who is to be surrendered by New Zealand
@@ -346,7 +346,7 @@ If a request is granted under section 31, the Pitcairn accused concerned must, i
 (2) The situation referred to in subsection (1) is that, in proceedings under the provisions of the Extradition Act 1999 that are applied by section 35 of this Act,—
   (a) the court or the Minister makes a surrender order or a temporary surrender order in relation to a Pitcairn accused and in relation to the offence (referred to in section 35(1)) for which surrender is sought; and
   (b) that order takes effect.
-(3) Nothing in this section prevents an accused surrendered under a temporary surrender order from being returned to detention in a prison in New Zealand in respect of a sentence of imprisonment imposed for an offence against the law of New Zealand, in accordance with undertakings given by Pitcairn under section 54(4)(b)(ii) of the Extradition Act 1999 (as applied by section 35 of this Act).
+(3) Nothing in this section prevents an accused surrendered under a temporary surrender order from being returned to detention in a prison in New Zealand in respect of a sentence of imprisonment imposed for an offence against the law of New Zealand, in accordance with undertakings given by Pitcairn under section 54(4)﻿(b)﻿(ii) of the Extradition Act 1999 (as applied by section 35 of this Act).
 (4) If, because of a surrender order under section 55(1) of the Extradition Act 1999 (as applied by section 35 of this Act), the accused is surrendered to serve a sentence that was imposed as a result of his or her having been temporarily surrendered to Pitcairn, the sentence may be served in New Zealand in accordance with an enforcement order under Part 3 of this Act.
 
 **Detention in Court's premises and remand in custody in prison**
@@ -358,7 +358,7 @@ If a request is granted under section 31, the Pitcairn accused concerned must, i
     (i) a witness in the course of giving evidence:
     (ii) a person who may have committed a contempt of court, or an offence against Pitcairn law, within the Pitcairn Court's premises:
     (iii) a person found guilty summarily of a contempt of court.
-(2) Pitcairn law applies to the detention in the Pitcairn Court's premises of a person specified in subsection (1)(a) or (b).
+(2) Pitcairn law applies to the detention in the Pitcairn Court's premises of a person specified in subsection (1)﻿(a) or (b).
 (3) Detention referred to in this section must be only detention that is reasonably necessary to allow the Pitcairn trial concerned to be conducted on the particular day concerned.
 (4) To avoid doubt, nothing in this section permits the validity of detention referred to in this section to be challenged in legal proceedings in New Zealand courts (for example, on the grounds that the detention is not detention of the kind described in subsection (3)).
 
@@ -444,7 +444,7 @@ In this section and sections 40 to 45,—
 (2) The order (or warrant) is sufficient authority for the detention of the accused or offender in a hospital at which adequate facilities for the psychiatric examination are available, for the purpose and period (being a period not longer than 14 days after the making of the order (or the issuing of the warrant)) specified in the order (or warrant).
 (3) Nothing in this section prevents a Pitcairn Court sitting in New Zealand from making 2 or more orders (or issuing 2 or more warrants) remanding the same accused or offender in custody, but the total period of detention must not exceed 1 month.
 (4) If this section applies to an accused or offender,—
-  (a) the order (or warrant) has effect as if it were an order under section 121(2)(b)(ii) of the Criminal Justice Act 1985; and
+  (a) the order (or warrant) has effect as if it were an order under section 121(2)﻿(b)﻿(ii) of the Criminal Justice Act 1985; and
   (b) New Zealand law applies to the accused or offender while he or she is liable to be detained under the order (or warrant), except as provided in section 18.
 
 ### 47 Pitcairn accused remanded in hospital during trial
@@ -518,7 +518,7 @@ In this section and sections 40 to 45,—
 (1) If Pitcairn seeks assistance from New Zealand in relation to a Pitcairn trial that is not assistance of the kind referred to in section 52,—
   (a) a request for that assistance may be made by the Governor to the Attorney-General; and
   (b) the request must be dealt with under the Mutual Assistance in Criminal Matters Act 1992.
-(2) For the purposes of subsection (1)(b), the Mutual Assistance in Criminal Matters Act 1992 applies with all necessary modifications (for example, taking into account that it may be necessary to make arrangements for evidence to be sent only to a Pitcairn Court's premises, and not to a foreign country).
+(2) For the purposes of subsection (1)﻿(b), the Mutual Assistance in Criminal Matters Act 1992 applies with all necessary modifications (for example, taking into account that it may be necessary to make arrangements for evidence to be sent only to a Pitcairn Court's premises, and not to a foreign country).
 
 **Requests from third countries relating to certain overseas persons**
 
@@ -553,7 +553,7 @@ In this section and sections 40 to 45,—
   (b) the person to whom the sentence or order relates has given free and informed consent to the enforcement of the sentence or order in New Zealand, in full knowledge of any conditions of enforcement that will apply and of the legal consequences of the enforcement order; and
   (c) the Governor consents to any conditions of enforcement proposed by the Minister; and
   (d) it is appropriate in all the circumstances that the Minister agrees to enforce the sentence or order.
-(5) The consent referred to in subsection (4)(b) may, if the Governor or the Minister considers it necessary in view of the person's age, or physical or mental condition, be given by a person acting on behalf of the person.
+(5) The consent referred to in subsection (4)﻿(b) may, if the Governor or the Minister considers it necessary in view of the person's age, or physical or mental condition, be given by a person acting on behalf of the person.
 
 ### 57 Conditions of enforcement
 (1) The Minister may propose, and the Governor may agree to, any conditions of enforcement, including (without limitation) conditions—
@@ -580,7 +580,7 @@ In this section and sections 40 to 45,—
 (5) The date of the enforcement order is the date specified in the order.
 
 ### 59 Notification that enforcement order will not be made
-If any of the following occurs, the Minister must immediately give notice to the people listed in section 58(3)(a) to (e) that an enforcement order will not be made in respect of a particular Pitcairn sentence or hospital order:
+If any of the following occurs, the Minister must immediately give notice to the people listed in section 58(3)﻿(a) to (e) that an enforcement order will not be made in respect of a particular Pitcairn sentence or hospital order:
   (a) the Minister is advised by the Governor that an enforcement order will not be sought in relation to the sentence or order:
   (b) the Minister declines a request to enforce a Pitcairn sentence or hospital order:
   (c) 28 days have elapsed since the Pitcairn sentence or order was imposed or made and the Minister has not received a request for enforcement of the sentence or order.
@@ -597,15 +597,15 @@ If any of the following occurs, the Minister must immediately give notice to the
   (c) the date that is 3 months after the sentence was imposed, unless, before that date,—
     (i) an enforcement order is made with respect to the sentence (in which case the offender ceases to be liable to detention under this section and commences serving his or her sentence under the enforcement order); or
     (ii) an order is made under subsection (5).
-(5) By order under this subsection, the Minister may extend by a further 3 months the period referred to in subsection (4)(c), but only if—
+(5) By order under this subsection, the Minister may extend by a further 3 months the period referred to in subsection (4)﻿(c), but only if—
   (a) the offender has appealed to a Pitcairn Court against a conviction or sentence; and
   (b) the Minister considers that the making of the enforcement order, or the decision on whether to enforce the sentence, ought to be delayed pending the outcome of the appeal.
 (6) The Minister may make an order under subsection (5) only once in respect of a particular sentence.
 
 ### 61 Status of person subject to hospital order between making of order and decision on enforcement order
 (1) When a Pitcairn Court makes a hospital order in relation to a person, the person must be detained in a hospital as if the person were a special patient (as defined in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992) who,—
-  (a) in the case of a person who has been found by the Pitcairn Court to be unfit to plead, is subject to an order under section 115(1)(a) of the Criminal Justice Act 1985, having been found to be under disability (as defined in section 108(1) of that Act); or
-  (b) in the case of a person who has been acquitted by the Pitcairn Court on the grounds of insanity, is subject to an order under section 115(1)(b) of the Criminal Justice Act 1985.
+  (a) in the case of a person who has been found by the Pitcairn Court to be unfit to plead, is subject to an order under section 115(1)﻿(a) of the Criminal Justice Act 1985, having been found to be under disability (as defined in section 108(1) of that Act); or
+  (b) in the case of a person who has been acquitted by the Pitcairn Court on the grounds of insanity, is subject to an order under section 115(1)﻿(b) of the Criminal Justice Act 1985.
 (2) New Zealand law applies to a person detained under this section, except as provided in section 18.
 (3) The hospital order made by the Pitcairn Court is sufficient authority for the detention of the person under this section as a special patient.
 (4) A person who is subject to a hospital order may not be detained under this section beyond whichever of the following dates first applies:
@@ -614,7 +614,7 @@ If any of the following occurs, the Minister must immediately give notice to the
   (c) 3 months after the order was made unless, before that date,—
     (i) an enforcement order is made with respect to the order (in which case the offender ceases to be detained under this section and commences detention under the enforcement order instead); or
     (ii) an order is made under subsection (5).
-(5) By order made under this subsection, the Minister may extend by a further 3 months the period referred to in subsection (4)(c), but only if—
+(5) By order made under this subsection, the Minister may extend by a further 3 months the period referred to in subsection (4)﻿(c), but only if—
   (a) the person has appealed to a Pitcairn Court against the hospital order; and
   (b) the Minister considers that the making of the enforcement order, or the decision on whether to enforce the order, ought to be delayed pending the outcome of the appeal.
 (6) The Minister may make an order under subsection (5) only once in respect of a particular hospital order.
@@ -626,7 +626,7 @@ If any of the following occurs, the Minister must immediately give notice to the
 (2) An order under this section is an order—
   (a) for the continued detention, for up to 28 days, of a person who is detained at the time the order is made; or
   (b) in respect of a person who is at large under an order made under section 60(3) at the time the order is made, for the cancellation of that order, for the return of the person to detention, and for his or her subsequent detention for up to 28 days.
-(3) With respect to a person referred to in subsection (2)(b), the Minister may issue a notice for the person's apprehension; and after the notice is issued any member of the New Zealand Police may, whether or not the member has possession of the notice, apprehend the person for the purpose of returning him or her to detention.
+(3) With respect to a person referred to in subsection (2)﻿(b), the Minister may issue a notice for the person's apprehension; and after the notice is issued any member of the New Zealand Police may, whether or not the member has possession of the notice, apprehend the person for the purpose of returning him or her to detention.
 (4) New Zealand law applies to a person detained under this section, except as provided in section 18.
 (5) No person may be detained under an order made under this section for more than 28 days, but the person may be released before the expiry of 28 days if, upon release, the person is taken into the custody of—
   (a) a member of the New Zealand Police or an authorised person (being a person who is authorised by the Governor to take custody of the person), for the purpose of removing the detained person from New Zealand; or
@@ -644,13 +644,13 @@ If any of the following occurs, the Minister must immediately give notice to the
   (a) an enforcement order for the enforcement of a sentence of imprisonment has effect in New Zealand as a New Zealand warrant of commitment for imprisonment for the term specified by the Pitcairn Court and, if applicable, as a New Zealand order for minimum period of imprisonment for the period specified by the Pitcairn Court:
   (b) an enforcement order for the enforcement of a sentence of supervision has effect in New Zealand as a New Zealand order for sentence of supervision for the period specified by the Pitcairn Court:
   (c) an enforcement order for the enforcement of a sentence of community work has effect in New Zealand as a New Zealand order for sentence of community work for the number of hours specified by the Pitcairn Court:
-  (d) an enforcement order in respect of a person who has been found unfit to plead has effect in New Zealand as if the person were subject to an order under section 115(1)(a) of the Criminal Justice Act 1985, having been found to be under disability (as defined in section 108(1) of that Act):
-  (e) an enforcement order in respect of a person who has been found not guilty on the grounds of insanity has effect in New Zealand as an order made under section 115(1)(b) of the Criminal Justice Act 1985.
+  (d) an enforcement order in respect of a person who has been found unfit to plead has effect in New Zealand as if the person were subject to an order under section 115(1)﻿(a) of the Criminal Justice Act 1985, having been found to be under disability (as defined in section 108(1) of that Act):
+  (e) an enforcement order in respect of a person who has been found not guilty on the grounds of insanity has effect in New Zealand as an order made under section 115(1)﻿(b) of the Criminal Justice Act 1985.
 (2) Every Pitcairn sentence and hospital order to which an enforcement order relates must be enforced as far as possible as if the sentence or order, along with any conditions or directions associated with it, had been imposed or made by a New Zealand court, subject only to any modifications required by this Act or the conditions of enforcement (as provided in section 57).
-(3) Despite subsection (1)(b), if an application is made under section 54(1) or (2) of the Sentencing Act 2002 for the variation or cancellation of a sentence of supervision, the New Zealand court may exercise its powers under section 54(3)(a) of that Act, but, if the court considers that the exercise of powers under section 54(3)(b) or (c) of that Act would be appropriate, it must—
+(3) Despite subsection (1)﻿(b), if an application is made under section 54(1) or (2) of the Sentencing Act 2002 for the variation or cancellation of a sentence of supervision, the New Zealand court may exercise its powers under section 54(3)﻿(a) of that Act, but, if the court considers that the exercise of powers under section 54(3)﻿(b) or (c) of that Act would be appropriate, it must—
   (a) refer the matter to the Pitcairn Court for determination; and
   (b) suspend the sentence pending the decision of that Court and any necessary amendment or cancellation of the relevant enforcement order.
-(4) Despite subsection (1)(c), if an application is made under section 68(1) or (2) of the Sentencing Act 2002 for the variation or cancellation of a sentence of community work, the New Zealand court may not exercise its powers under section 68(3) of that Act, but must—
+(4) Despite subsection (1)﻿(c), if an application is made under section 68(1) or (2) of the Sentencing Act 2002 for the variation or cancellation of a sentence of community work, the New Zealand court may not exercise its powers under section 68(3) of that Act, but must—
   (a) refer the matter to the Pitcairn Court for determination; and
   (b) suspend the sentence pending the decision of that Court and any necessary amendment or cancellation of the relevant enforcement order.
 
@@ -747,22 +747,22 @@ Section 41 must be read—
 (b) as if in subsection (1) there were inserted, after the word issued, the words by a Pitcairn Court sitting in New Zealand or issued.
 
 ### 2
-Section 42 must be read as if in subsection (1)(a) there were inserted, after the word issued, the words by a Pitcairn Court sitting in New Zealand or.
+Section 42 must be read as if in subsection (1)﻿(a) there were inserted, after the word issued, the words by a Pitcairn Court sitting in New Zealand or.
 
 ### 3
 Section 45 must be read as if in subsection (2) for the words subsections (3) and (4) there were substituted the expression subsection (3).
 
 ### 4
 Section 54 must be read—
-(a) as if in subsection (4)(b)(i) and (iii) for the words the extradition country there were substituted the words a Pitcairn Court's premises; and
-(b) as if in subsection (4)(b)(ii) for the words New Zealand there were substituted the words detention in a prison in New Zealand in respect of the sentence of imprisonment imposed for an offence against the law of New Zealand; and
+(a) as if in subsection (4)﻿(b)﻿(i) and (iii) for the words the extradition country there were substituted the words a Pitcairn Court's premises; and
+(b) as if in subsection (4)﻿(b)﻿(ii) for the words New Zealand there were substituted the words detention in a prison in New Zealand in respect of the sentence of imprisonment imposed for an offence against the law of New Zealand; and
 (c) as if in subsection (7) for the words the extradition country there were substituted the words custody in connection with the request; and
 (d) as if in subsection (7) there were inserted, after the words New Zealand, the words in respect of the sentence of imprisonment imposed for the offence against the law of New Zealand.
 
 ### 5
 Section 55 must be read—
-(a) as if in subsection (1)(b) for the words New Zealand there were substituted the words detention in a prison in New Zealand in respect of the sentence of imprisonment imposed for an offence against the law of New Zealand; and
-(b) as if in subsection (1)(c) there were inserted, after the words New Zealand, the words in respect of the sentence of imprisonment imposed for the offence against the law of New Zealand.
+(a) as if in subsection (1)﻿(b) for the words New Zealand there were substituted the words detention in a prison in New Zealand in respect of the sentence of imprisonment imposed for an offence against the law of New Zealand; and
+(b) as if in subsection (1)﻿(c) there were inserted, after the words New Zealand, the words in respect of the sentence of imprisonment imposed for the offence against the law of New Zealand.
 
 ### 6
 Section 57 must be read as if in subsection (1) for the words conveyed out of New Zealand there were substituted the words conveyed to a Pitcairn Court's premises.
