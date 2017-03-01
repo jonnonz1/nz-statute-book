@@ -1,5 +1,5 @@
 # Civil Union Act 2004
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Civil Union Act 2004.
@@ -35,7 +35,7 @@ In this Act, unless the context otherwise requires,—
 In any other enactment, unless the context otherwise requires, a reference to a civil union refers to—
   (a) a civil union entered into under and in accordance with this Act; and
   (b) a relationship that is entered into overseas and—
-    (i) is of a type identified by regulations made under section 35(1)(a) as being a type of relationship that is recognised in New Zealand as a civil union; and
+    (i) is of a type identified by regulations made under section 35(1)﻿(a) as being a type of relationship that is recognised in New Zealand as a civil union; and
     (ii) is between 2 people who are at least 18 years old or, if either party is younger than 18, was entered into with the consent of that party's guardians.
 
 ### 6 Act binds the Crown
@@ -71,7 +71,7 @@ Two people who are within the prohibited degrees of civil union, as set out in S
   (c) the particulars in the notice are true.
 (3) However, if the 2 parties to an intended civil union are ordinarily resident outside New Zealand, the requirements of this section are satisfied if—
   (a) one of the parties posts the notice in the prescribed form to the Registrar; and
-  (b) one of the parties, at any time before the licence is issued or (if the Registrar is to solemnise the civil union) the civil union is solemnised, makes a statutory declaration as to the matters in subsection (2)(a) to (c).
+  (b) one of the parties, at any time before the licence is issued or (if the Registrar is to solemnise the civil union) the civil union is solemnised, makes a statutory declaration as to the matters in subsection (2)﻿(a) to (c).
 (4) A person giving notice under this section must pay the prescribed notice fee.
 
 ### 12 Issue of licence and forms where solemnisation by civil union celebrant or exempt body
@@ -257,7 +257,7 @@ The Registrar-General is charged with the general administration of this Act.
   (c) prescribing forms to be used for the purposes of this Act:
   (d) prescribing the matters that must be included in forms (other than prescribed forms) used in connection with civil unions:
   (e) providing for any other matter contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) No regulations under subsection (1)(a) that recognise a type of overseas relationship may be made unless the Minister of Justice is satisfied that that type of overseas relationship is established or recognised under the law of another country or jurisdiction, and that the law of that country or jurisdiction—
+(2) No regulations under subsection (1)﻿(a) that recognise a type of overseas relationship may be made unless the Minister of Justice is satisfied that that type of overseas relationship is established or recognised under the law of another country or jurisdiction, and that the law of that country or jurisdiction—
   (a) does not permit or recognise the relationship unless both parties to it are at least 16 years old; and
   (b) does not permit or recognise the relationship if the parties are related as—
     (i) parent and child; or
@@ -268,10 +268,10 @@ The Registrar-General is charged with the general administration of this Act.
   (e) requires that, during the relationship, the parties may not enter into that sort of relationship with anyone else, and may not marry anyone else.
 
 ### 36 Rules of procedure
-(1) Rules may be made under section 16A of the Family Courts Act 1980 that regulate the practice and procedure of Family Courts in proceedings under sections 10, 20, and 22.
-(2) Rules made under the Family Courts Act 1980—
+(1) Rules may be made under section 16A of the Family Court Act 1980 that regulate the practice and procedure of the Family Court in proceedings under sections 10, 20, and 22.
+(2) Rules made under the Family Court Act 1980—
   (a) are subject to section 20(2) and (3); and
-  (b) do not affect the practice and procedure of District Courts in proceedings under section 22.
+  (b) do not affect the practice and procedure of the District Court in proceedings under section 22.
 
 ### 37 Appointment of civil union celebrants before section 26 comes into force
 (1) The Registrar-General may, before section 26 comes into force, receive applications from persons who wish to be appointed as civil union celebrants, and may appoint suitable persons under section 26(2).
@@ -338,7 +338,7 @@ The enactments listed in Schedule 5 are consequentially amended in the manner in
   (c) it changes its rules and procedures for solemnising civil unions.
 (2) If the body notifies the Registrar-General that it has changed its name, the Registrar-General must give notice of that fact in the Gazette.
 (3) The Registrar-General must ask the Minister to cancel the exemption of an exempt body if the Registrar-General is satisfied that,—
-  (a) as a result of changes referred to in subclause(1)(b) or (c), the body should no longer be an exempt body; or
+  (a) as a result of changes referred to in subclause(1)﻿(b) or (c), the body should no longer be an exempt body; or
   (b) the body has failed to conduct one or more civil unions in accordance with its rules and procedures as most recently notified to the Registrar-General.
 (4) If the Minister decides that the body should no longer be an exempt body, the Registrar-General must give notice in the Gazette that the body is no longer an exempt body, and notify the body accordingly.
 (5) A body ceases to be an exempt body on the date on which the notice referred to in subclause (4) is published in the Gazette.
@@ -347,7 +347,7 @@ The enactments listed in Schedule 5 are consequentially amended in the manner in
 
 ### 1
 Person A and person B are within the prohibited degrees of civil union if person A is person B's—
-1grandparent2parent3child4grandchild5sibling6parent's sibling7sibling's child8grandparent's spouse or civil union partner9parent's spouse or civil union partner10spouse's or civil union partner's parent11spouse's or civil union partner's grandparent12spouse's or civil union partner's child13child's spouse or civil union partner14grandchild's spouse or civil union partner15spouse's or civil union partner's grandchild
+The following table is small in size and has 2 columns with no headings.1grandparent2parent3child4grandchild5sibling6parent's sibling7sibling's child8grandparent's spouse or civil union partner9parent's spouse or civil union partner10spouse's or civil union partner's parent11spouse's or civil union partner's grandparent12spouse's or civil union partner's child13child's spouse or civil union partner14grandchild's spouse or civil union partner15spouse's or civil union partner's grandchild
 
 ### 2
 The prohibited degrees of civil union apply whether the relationships described are by the whole blood or by the half blood.
