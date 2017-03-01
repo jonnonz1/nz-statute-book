@@ -1,5 +1,5 @@
 # Insolvency (Cross-border) Act 2006
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Insolvency (Cross-border) Act 2006.
@@ -37,7 +37,7 @@ Schedule 1 applies in the circumstances set out in article 1 of that schedule.
 (3) In acting in aid of and being auxiliary to a court in accordance with subsection (2), the High Court may exercise the powers that it could exercise in respect of the matter if it had arisen within its own jurisdiction.
 
 ### 9 Power to make rules
-Rules may be made under section 51C of the Judicature Act 1908—
+Rules may be made under section 148 of the Senior Courts Act 2016—
   (a) relating to the procedure of the High Court under this Act; and
   (b) relating to the manner in which an application under Schedule 1 must be made to the High Court; and
   (c) to give effect to this Act.
@@ -221,9 +221,9 @@ From the time of filing the application for recognition of the foreign proceedin
 (1) From the time of filing an application for recognition until the application is decided upon, the High Court may, at the request of the foreign representative, where relief is urgently needed to protect the assets of the debtor or the interests of the creditors, grant relief of a provisional nature, including:
   (a) staying execution against the debtor’s assets;
   (b) entrusting the administration or realisation of all or part of the debtor’s assets located in New Zealand to the foreign representative or another person designated by the Court, in order to protect and preserve the value of assets that, by their nature or because of other circumstances, are perishable, susceptible to devaluation or otherwise in jeopardy; and
-  (c) any relief mentioned in paragraph (1)(c) and (d) of article 21.
+  (c) any relief mentioned in paragraph (1)﻿(c) and (d) of article 21.
 (2) As soon as practicable, after the Court grants relief under paragraph (1) of this article, the foreign representative shall notify the debtor, in the prescribed form, of the relief that has been granted.
-(3) Unless extended under paragraph (1)(f) of article 21, the relief granted under this article terminates when the application for recognition is decided upon.
+(3) Unless extended under paragraph (1)﻿(f) of article 21, the relief granted under this article terminates when the application for recognition is decided upon.
 (4) The Court may refuse to grant relief under this article if such relief would interfere with the administration of a foreign main proceeding.
 
 **Article 20. Effects of recognition of a foreign main proceeding**
@@ -234,16 +234,16 @@ From the time of filing the application for recognition of the foreign proceedin
   (b) execution against the debtor’s assets is stayed; and
   (c) the right to transfer, encumber, or otherwise dispose of any assets of the debtor is suspended.
 (2) Paragraph (1) of this article does not prevent the Court, on the application of any creditor or interested person, from making an order, subject to such conditions as the Court thinks fit, that the stay or suspension does not apply in respect of any particular action or proceeding, execution, or disposal of assets.
-(3) Paragraph (1)(a) of this article does not affect the right to commence individual actions or proceedings to the extent necessary to preserve a claim against the debtor.
+(3) Paragraph (1)﻿(a) of this article does not affect the right to commence individual actions or proceedings to the extent necessary to preserve a claim against the debtor.
 (4) Paragraph (1) of this article does not affect the right to request the commencement of a New Zealand insolvency proceeding or the right to file claims in such a proceeding.
 
 **Article 21. Relief that may be granted upon recognition of a foreign proceeding**
 
 ###
 (1) Upon recognition by the High Court of a foreign proceeding, whether main or non-main, where necessary to protect the assets of the debtor or the interests of the creditors, the Court may, at the request of the foreign representative, grant any appropriate relief, including:
-  (a) staying the commencement or continuation of individual actions or individual proceedings concerning the debtor’s assets, rights, obligations, or liabilities, to the extent they have not been stayed under paragraph (1)(a) of article 20;
-  (b) staying execution against the debtor’s assets to the extent it has not been stayed under paragraph (1)(b) of article 20;
-  (c) suspending the right to transfer, encumber, or otherwise dispose of any assets of the debtor to the extent this right has not been suspended under paragraph (1)(c) of article 20;
+  (a) staying the commencement or continuation of individual actions or individual proceedings concerning the debtor’s assets, rights, obligations, or liabilities, to the extent they have not been stayed under paragraph (1)﻿(a) of article 20;
+  (b) staying execution against the debtor’s assets to the extent it has not been stayed under paragraph (1)﻿(b) of article 20;
+  (c) suspending the right to transfer, encumber, or otherwise dispose of any assets of the debtor to the extent this right has not been suspended under paragraph (1)﻿(c) of article 20;
   (d) providing for the examination of witnesses, the taking of evidence, or the delivery of information concerning the debtor’s assets, affairs, rights, obligations, or liabilities;
   (e) entrusting the administration or realisation of all or part of the debtor’s assets located in New Zealand to the foreign representative or another person designated by the Court; and
   (f) extending relief granted under paragraph (1) of article 19.
