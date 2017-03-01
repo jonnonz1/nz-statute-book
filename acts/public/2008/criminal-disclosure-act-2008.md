@@ -1,5 +1,5 @@
 # Criminal Disclosure Act 2008
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Criminal Disclosure Act 2008.
@@ -33,7 +33,7 @@ This Act binds the Crown.
   - **criminal proceedings** —
     (a) means—
       (i) proceedings for an offence for which a conviction may be entered, or for an infringement offence; and
-      (ii) proceedings before a Youth Court where a child or young person is charged with an offence; and
+      (ii) proceedings before the Youth Court where a child or young person is charged with an offence; and
     (b) includes any appeal against conviction or sentence; but
     (c) does not include—
       (i) any matter ancillary to proceedings (for example, an application for bail or an application for name suppression or an application under section 79 or 101 of the Criminal Procedure Act 2011); or
@@ -99,8 +99,8 @@ For the purposes of this Act, criminal proceedings are commenced at the earliest
   (b) a summary of the defendant's right to apply for further information under subsection (2); and
   (c) the maximum penalty, and the minimum penalty (if one is provided for), for the offence; and
   (d) a list of the defendant's previous convictions that are known to the prosecutor; and
-  (e) a list of any previous offences proved to have been committed by the defendant and of a kind to which section 284(1)(g) of the Children, Young Persons, and Their Families Act 1989 applies, that are known to the prosecutor.
-(2) At any time after criminal proceedings are commenced or, in the case of a child or young person who appears in a Youth Court in relation to the commission or possible commission of an offence, at any time after that person's first appearance in the Youth Court, the prosecutor must, if requested by the defendant in writing, as soon as is reasonably practicable disclose the following information to the defendant:
+  (e) a list of any previous offences proved to have been committed by the defendant and of a kind to which section 284(1)﻿(g) of the Children, Young Persons, and Their Families Act 1989 applies, that are known to the prosecutor.
+(2) At any time after criminal proceedings are commenced or, in the case of a child or young person who appears in the Youth Court in relation to the commission or possible commission of an offence, at any time after that person's first appearance in the Youth Court, the prosecutor must, if requested by the defendant in writing, as soon as is reasonably practicable disclose the following information to the defendant:
   (a) the names of any witnesses whom the prosecutor intends to call at the hearing or trial; and
   (b) a list of the exhibits that are proposed to be produced on behalf of the prosecution at the hearing or trial; and
   (c) a copy of all records of interviews with the defendant; and
@@ -117,7 +117,7 @@ For the purposes of this Act, criminal proceedings are commenced at the earliest
 (3) This section does not apply to a defendant who is charged with an infringement offence as defined in section 2(1) of the Summary Proceedings Act 1957.
 (4) In this section, applicable date means—
   (a) the date that is 15 working days after the commencement of criminal proceedings:
-  (b) in the case of a child or young person who is required to appear in a Youth Court in relation to the commission or possible commission of an offence, the date on which that person first appears in that court:
+  (b) in the case of a child or young person who is required to appear in the Youth Court in relation to the commission or possible commission of an offence, the date on which that person first appears in that court:
   (c) any later date that the court or Registrar allows, on application by the prosecutor, for the purposes of disclosure under this section.
 
 ### 13 Full disclosure
@@ -127,7 +127,7 @@ For the purposes of this Act, criminal proceedings are commenced at the earliest
   (b) a list of any relevant information that the prosecutor refuses under section 15, 16, 17, or 18 to disclose to the defendant together with—
     (i) the reason for the refusal; and
     (ii) if the defendant so requests, the grounds in support of that reason, unless the giving of those grounds would itself prejudice the interests protected by section 16, 17, or 18 and (in the case of the interests protected by section 18) there is no overriding public interest.
-(3) The standard information referred to in subsection (2)(a) is—
+(3) The standard information referred to in subsection (2)﻿(a) is—
   (a) a copy of any statement made by a prosecution witness; and
   (b) a copy of any brief of evidence that has been prepared in relation to a prosecution witness; and
   (c) the name and, if disclosure is authorised under section 17, the address of any person interviewed by the prosecutor who gave relevant information and whom the prosecutor does not intend to call as a witness; and—
@@ -163,7 +163,7 @@ For the purposes of this Act, criminal proceedings are commenced at the earliest
   (a) the name and, if disclosure is authorised under section 17, the address of each identification witness known to the prosecutor, whether or not the prosecutor intends to call that witness to give evidence at the trial; and
   (b) a statement of any description of the offender given by each such witness to the Police or the prosecutor; and
   (c) a copy of any identikit picture or other drawing made by any such witness or from information supplied by that witness.
-(3) A Judge may, on the application of the prosecutor, make an order excusing the prosecutor from disclosing to the defendant any information referred to in subsection (2)(a), if the Judge is satisfied that the order is necessary to protect the identification witness or any other person.
+(3) A Judge may, on the application of the prosecutor, make an order excusing the prosecutor from disclosing to the defendant any information referred to in subsection (2)﻿(a), if the Judge is satisfied that the order is necessary to protect the identification witness or any other person.
 
 ### 15 Prosecutor not required to record information or to obtain information for sole purpose of disclosure
 (1) Nothing in this Act requires a prosecutor to disclose information if, at the time a disclosure obligation would, but for this section, arise or at the time a request for disclosure is made, as the case may be,—
@@ -218,7 +218,7 @@ For the purposes of this Act, criminal proceedings are commenced at the earliest
 
 ### 19 Inspection of exhibit by defendant
 (1) The prosecutor must, on request by the defendant,—
-  (a) allow the defendant to inspect any exhibit in the possession or control of the prosecutor that is specified by the defendant and is referred to in a list of exhibits supplied under section 13(3)(e) or (f), unless subsection (3) applies; and
+  (a) allow the defendant to inspect any exhibit in the possession or control of the prosecutor that is specified by the defendant and is referred to in a list of exhibits supplied under section 13(3)﻿(e) or (f), unless subsection (3) applies; and
   (b) if that exhibit is reasonably capable of reproduction, disclose a copy of it to the defendant.
 (2) The inspection by the defendant under subsection (1) is subject to—
   (a) any conditions that the prosecutor considers necessary for the purpose of—
@@ -227,14 +227,14 @@ For the purposes of this Act, criminal proceedings are commenced at the earliest
   (b) any conditions imposed by the court under section 31.
 (3) The prosecutor may refuse to allow the defendant to inspect an exhibit if—
   (a) that exhibit is needed for use on an ongoing basis for enforcement purposes; and
-  (b) the imposition of conditions under subsection (2)(a) would not enable the inspection to take place without prejudicing ongoing law enforcement.
+  (b) the imposition of conditions under subsection (2)﻿(a) would not enable the inspection to take place without prejudicing ongoing law enforcement.
 
 **Disclosure by defendant**
 
 ### 20 Notice to defendant of disclosure requirements in sections 22 and 23
 The court or the Registrar must give written notice of the requirements of sections 22 and 23 to a defendant—
   (a) if the defendant pleads not guilty; or
-  (b) when the defendant, if he or she is a child or young person, makes a first appearance in a Youth Court.
+  (b) when the defendant, if he or she is a child or young person, makes a first appearance in the Youth Court.
 
 ### 21 Notice to defendant of disclosure requirement in section 176 of Summary Proceedings Act 1957
 [Repealed]
@@ -253,14 +253,14 @@ The court or the Registrar must give written notice of the requirements of secti
 (1) If a defendant proposes to call a person as an expert witness, the defendant must, at least 10 working days before the date fixed for the defendant's trial or within any further time that the court may allow, disclose to the prosecutor—
   (a) any brief of evidence to be given, or any report provided by that witness; or
   (b) if that brief or any such report is not then available, a summary of the evidence to be given and the conclusions of any report to be provided.
-(2) Where the defendant, under subsection (1)(b), provides only a summary of evidence to be given or conclusions of any report to be presented, the defendant must disclose to the prosecutor the brief of evidence to be given or the report provided by that witness as soon as possible after it becomes available.
+(2) Where the defendant, under subsection (1)﻿(b), provides only a summary of evidence to be given or conclusions of any report to be presented, the defendant must disclose to the prosecutor the brief of evidence to be given or the report provided by that witness as soon as possible after it becomes available.
 
 **Disclosure by non-parties**
 
 ### 24 Application for non-party disclosure hearing
 (1) This section applies at any time after the defendant has—
   (a) pleaded not guilty; or
-  (b) in the case of a child or young person, made a first appearance in a Youth Court.
+  (b) in the case of a child or young person, made a first appearance in the Youth Court.
 (2) The defendant may apply to the court for an order granting a hearing to determine whether information that is held by a person or agency other than the prosecutor should be disclosed to the defendant.
 (3) The application must—
   (a) describe with as much particularity as possible the information that the defendant seeks to have disclosed, and state the name of the person or agency that the defendant alleges holds the information; and
@@ -284,7 +284,7 @@ If a defendant makes an application in accordance with section 24, the court may
     (iii) a copy of the order made by the court under section 25; and
   (b) serve the application on the prosecutor and on any other person to whom, to the knowledge of the defendant or the Registrar, the information relates.
 (2) The Judge who granted the application under section 25 or the Judge who will preside over the non-party disclosure hearing under section 27 may at any time before or during the non-party disclosure hearing order that the application be served on any person or agency whom the Judge considers is likely to hold the information or any other person to whom the Judge considers the information may relate.
-(3) The summons referred to in subsection (1)(a)(ii) must—
+(3) The summons referred to in subsection (1)﻿(a)﻿(ii) must—
   (a) require the attendance of the person, or a representative of the agency, that allegedly holds or may hold the information at a particular court at a particular time; and
   (b) describe the relevant material with as much particularity as possible, and require the person to bring the material to the court.
 
@@ -307,7 +307,7 @@ If a defendant makes an application in accordance with section 24, the court may
 (5) The hearing conducted under this section must not be open to the public.
 
 ### 28 Procedure if Judge subsequently satisfied that another person holds information sought
-(1) If a non-party disclosure hearing is granted under section 25(a)(i) but at any time before or during the non-party disclosure hearing the Judge is satisfied that all or part of the information sought by the defendant is likely to be held by a person or agency other than the person or agency alleged by the defendant, the Judge may—
+(1) If a non-party disclosure hearing is granted under section 25(a)﻿(i) but at any time before or during the non-party disclosure hearing the Judge is satisfied that all or part of the information sought by the defendant is likely to be held by a person or agency other than the person or agency alleged by the defendant, the Judge may—
   (a) order that a copy of the application be served on that person or agency; and
   (b) adjourn the proceedings for that purpose.
 (2) If the Judge makes an order under subsection (1), sections 26(3), 27, and 29 apply with any necessary modifications.
@@ -345,7 +345,7 @@ If a defendant makes an application in accordance with section 24, the court may
       (B) in the case of a refusal under section 17, the information ought to have been disclosed under section 17(3); or
       (C) in the case of a refusal under section 18, the information ought to have been disclosed under section 18(2); or
   (b) even though the information may be withheld under this Act, the interests protected by the withholding of that information are outweighed by other considerations that make it desirable, in the public interest, to disclose the information.
-(2) If the court is satisfied, on an application made under this section, that the defendant is entitled to the disclosure of any particular item of information or type of information, or that any particular item of information or type of information should be disclosed to the defendant under subsection (1)(b), the court may order that the item or type of information be disclosed to the defendant.
+(2) If the court is satisfied, on an application made under this section, that the defendant is entitled to the disclosure of any particular item of information or type of information, or that any particular item of information or type of information should be disclosed to the defendant under subsection (1)﻿(b), the court may order that the item or type of information be disclosed to the defendant.
 (3) An order made under this section may be made subject to any conditions that the court considers appropriate.
 
 ### 31 Court order setting conditions for inspection of exhibit
@@ -373,7 +373,7 @@ If a defendant makes an application in accordance with section 24, the court may
 (3) An appeal under this section—
   (a) may be made to the Court of Appeal with the leave of that court, or to the Supreme Court with the leave of that court, if the order was made by—
     (i) the High Court; or
-    (ii) a District Court in a proceeding for a category 3 offence after the defendant elected a jury trial:
+    (ii) the District Court in a proceeding for a category 3 offence after the defendant elected a jury trial:
   (b) may, in any other case, be made to the High Court with the leave of that court.
 (4) Subpart 2 of Part 6 of the Criminal Procedure Act 2011 applies to an appeal under this section with any necessary modifications.
 (5) Despite subpart 2 of Part 6 of the Criminal Procedure Act 2011,—
@@ -413,19 +413,19 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 **Amendments to other enactments**
 
 ### 37 Amendment to Local Government Official Information and Meetings Act 1987
-Section 17 of the Local Government Official Information and Meetings Act 1987 is amended by inserting the following paragraph after paragraph (d):.
+Section 17 of the Local Government Official Information and Meetings Act 1987 is amended by inserting the following paragraph after paragraph (d):
   (da) that the request is made by a defendant or person acting on behalf of a defendant and is—
     (i) for information that could be sought by the defendant under the Criminal Disclosure Act 2008; or
     (ii) for information that could be sought by the defendant under that Act and that has been disclosed to, or withheld from, the defendant under that Act:
 
 ### 38 Amendment to Official Information Act 1982
-Section 18 of the Official Information Act 1982 is amended by inserting the following paragraph after paragraph (d):.
+Section 18 of the Official Information Act 1982 is amended by inserting the following paragraph after paragraph (d):
   (da) that the request is made by a defendant or a person acting on behalf of a defendant and is—
     (i) for information that could be sought by the defendant under the Criminal Disclosure Act 2008; or
     (ii) for information that could be sought by the defendant under that Act and that has been disclosed to, or withheld from, the defendant under that Act:
 
 ### 39 Amendments to Privacy Act 1993
-(1) Section 29(1) of the Privacy Act 1993 is amended by inserting the following paragraph after paragraph (i):.
+(1) Section 29(1) of the Privacy Act 1993 is amended by inserting the following paragraph after paragraph (i):
   (ia) the request is made by a defendant or a defendant's agent and is—
     (i) for information that could be sought by the defendant under the Criminal Disclosure Act 2008; or
     (ii) for information that could be sought by the defendant under that Act and that has been disclosed to, or withheld from, the defendant under that Act; or
@@ -441,8 +441,8 @@ Section 18 of the Official Information Act 1982 is amended by inserting the foll
 (1) Criminal proceedings commenced before the date on which this Act comes into force continue as if this Act had not been enacted.
 (2) Despite subsection (1), if the prosecutor and the defendant agree, by notice in writing lodged with the court, criminal proceedings commenced before the date on which this Act comes into force continue subject to the requirements of this Act and the enactments specified in Schedules 1 and 2 (as amended by those schedules).
 (3) If there is an agreement under subsection (2), any obligation under this Act that would (had the proceedings been conducted subject to the requirements of this Act from its commencement) already have fallen due before the date of the agreement, falls due at the date of the agreement (if that obligation has not already been complied with).
-(4) Until the commencement of sections 108 and 109 of the Evidence Act 2006, section 16(1)(d) must be read as if for sections 108 and 109 of the Evidence Act 2006 there were substituted section 13A of the Evidence Act 1908.
-(5) Until the commencement of sections 110 and 112 of the Evidence Act 2006, section 16(1)(e) must be read as if for section 110 of the Evidence Act 2006 or a witness anonymity order under section 112 of the Evidence Act 2006 there were substituted section 13B of the Evidence Act 1908 or a witness anonymity order under section 13C of the Evidence Act 1908.
+(4) Until the commencement of sections 108 and 109 of the Evidence Act 2006, section 16(1)﻿(d) must be read as if for sections 108 and 109 of the Evidence Act 2006 there were substituted section 13A of the Evidence Act 1908.
+(5) Until the commencement of sections 110 and 112 of the Evidence Act 2006, section 16(1)﻿(e) must be read as if for section 110 of the Evidence Act 2006 or a witness anonymity order under section 112 of the Evidence Act 2006 there were substituted section 13B of the Evidence Act 1908 or a witness anonymity order under section 13C of the Evidence Act 1908.
 
 ### 42 This Act not to limit or affect other enactments relating to availability of information
 (1) Except as expressly provided in this or any other enactment, nothing in this Act limits or affects any provision in any other enactment that—
