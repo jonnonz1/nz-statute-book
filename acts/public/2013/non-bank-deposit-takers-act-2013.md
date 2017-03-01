@@ -1,5 +1,5 @@
 # Non-bank Deposit Takers Act 2013
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Non-bank Deposit Takers Act 2013.
@@ -65,7 +65,7 @@ The purpose of this Act is—
   - **NBDT** means a non-bank deposit taker, and is defined in section 5
   - **NBDT regulated offer** —
     (a) means a regulated offer within the meaning of section 41 of the Financial Markets Conduct Act 2013; and
-    (b) includes an offer of debt securities that would be a regulated offer within the meaning of that section if clause 3(2)(b) and (3)(a) of Schedule 1 of that Act were not in force; and
+    (b) includes an offer of debt securities that would be a regulated offer within the meaning of that section if clause 3(2)﻿(b) and (3)﻿(a) of Schedule 1 of that Act were not in force; and
     (c) includes an offer of debt securities to the public in New Zealand to which the Securities Act 1978 applied before its repeal or to which that Act applies or applied under Schedule 4 of the Financial Markets Conduct Act 2013
   - **overseas person** means—
     (a) a body corporate incorporated outside New Zealand; or
@@ -93,14 +93,14 @@ The purpose of this Act is—
   - **suitability notice** is a notice, in relation to a director or senior officer, or proposed director or senior officer, of an NBDT or proposed NBDT, that is supplied to the Bank and meets the requirements of section 15
   - **trust deed** , in relation to an NBDT, means a trust deed that is required, by or under any of the following, in relation to debt securities (as defined in this Act) offered by or on behalf of the NBDT:
     (a) subpart 1 of Part 4 of the Financial Markets Conduct Act 2013 or an exemption granted under that Act:
-    (b) a condition under section 19(1)(fa):
+    (b) a condition under section 19(1)﻿(fa):
     (c) the Securities Act 1978 or an exemption granted under that Act
   - **trustee** , in relation to an NBDT,—
     (a) means a licensed supervisor (within the meaning of the Financial Markets Conduct Act 2013) who is designated or appointed, by or under any of the following, as the trustee for any debt security offered by or on behalf of the NBDT:
       (i) a trust deed:
       (ii) an exemption granted under the Financial Markets Conduct Act 2013:
       (iii) the Financial Markets Supervisors Act 2011:
-      (iv) a condition under section 19(1)(fa):
+      (iv) a condition under section 19(1)﻿(fa):
     (b) includes a trustee (as defined in the Securities Act 1978) that is required, by or under that Act or an exemption granted under it, in relation to any debt security offered by or on behalf of the NBDT
   - **voting right** , in relation to any body,—
     (a) means a currently exercisable right to cast a vote at meetings of shareholders or members of that body; but
@@ -118,7 +118,7 @@ The purpose of this Act is—
   (a) a person that—
     (i) makes an NBDT regulated offer of debt securities; and
     (ii) carries on the business of borrowing and lending money, or providing financial services, or both:
-  (b) a person, or a member of a class of persons, that is declared by regulations made under section 73(1)(c) to be an NBDT for the purposes of this Act:
+  (b) a person, or a member of a class of persons, that is declared by regulations made under section 73(1)﻿(c) to be an NBDT for the purposes of this Act:
   (c) a person that—
     (i) is, or has been at any time since this section came into force, an NBDT; and
     (ii) has debt securities that remain unpaid and that were offered under an NBDT regulated offer:
@@ -131,7 +131,7 @@ The purpose of this Act is—
   (c) the Crown (as defined in the Public Finance Act 1989):
   (d) an entity that is in receivership (provided that no debt securities are being offered under an NBDT regulated offer by, or on behalf of, the entity):
   (e) an entity that is in liquidation (whether under Part 16 of the Companies Act 1993 or under any other enactment):
-  (f) a person, or a member of a class of persons, declared by regulations made under section 73(1)(d) not to be an NBDT for the purposes of this Act.
+  (f) a person, or a member of a class of persons, declared by regulations made under section 73(1)﻿(d) not to be an NBDT for the purposes of this Act.
 
 ### 6 Related party defined
 (1) A person (person A) is a related party of an NBDT in each of the following cases:
@@ -353,7 +353,7 @@ The Governor-General may, by Order in Council, on the advice of the Minister giv
     (i) regular review of the programme to systematically identify deficiencies in the effectiveness of the programme; and
     (ii) obtaining trustee approval to amendments to the programme that are necessary to address such deficiencies; and
   (e) be appropriate to the operations of the NBDT, having regard to the factors relevant to the risks referred to in paragraph (b) (for example, the size of the NBDT, its funding structure, the market sector in which it operates, its business strategy, and its relationship with its borrowing group).
-(3) The Bank may issue, in the manner that the Governor thinks fit, guidelines for the purpose of interpreting the risk categories referred to in subsection (2)(b) that must be covered by the risk management programme.
+(3) The Bank may issue, in the manner that the Governor thinks fit, guidelines for the purpose of interpreting the risk categories referred to in subsection (2)﻿(b) that must be covered by the risk management programme.
 (4) A licensed NBDT that breaches this section commits an offence and is liable on conviction to a level 3 penalty.
 
 ### 28 Trustee role in risk management programmes
@@ -421,7 +421,7 @@ The Governor-General may, by Order in Council, on the advice of the Minister giv
   (b) provide that the maximum limit on exposures to related parties applies in respect of exposures of individual licensed NBDTs or any borrowing group of which a licensed NBDT is part:
   (c) require every licensed NBDT and trustee to ensure that trust deeds include a specified maximum limit on exposures to related parties:
   (d) require every licensed NBDT and trustee to ensure that trust deeds include a maximum limit on exposures to related parties that is fixed by agreement between the licensed NBDT and trustee (see section 79 for provisions that apply if there is no agreement).
-(3) If subsection (2)(d) applies, the regulations must specify the framework (for example, covering matters as to the identification and measurement of credit exposures) in accordance with which licensed NBDTs and trustees must fix the maximum agreed limit.
+(3) If subsection (2)﻿(d) applies, the regulations must specify the framework (for example, covering matters as to the identification and measurement of credit exposures) in accordance with which licensed NBDTs and trustees must fix the maximum agreed limit.
 
 ### 37 Ensuring maximum limit on related party exposures included in trust deeds
 (1) Every licensed NBDT and trustee must comply with any requirement imposed by regulations made under section 36.
@@ -472,7 +472,7 @@ The Governor-General may, by Order in Council, on the advice of the Minister giv
   (b) in the case of a person who, with the consent of the Bank, already has at least the level of influence described in paragraph (a), an increase in the person's level of influence beyond the level permitted by the existing consent; or
   (c) in the case of a person who, at the time the NBDT became licensed, had at least the level of influence over an NBDT described in paragraph (a), an increase in the person's level of influence beyond the level existing at that time.
 (2) The Bank may, in giving its consent,—
-  (a) specify the level of influence (in terms of the matters referred to in subsection (1)(a)) that a person may have or acquire over a licensed NBDT without the need for further consent; and
+  (a) specify the level of influence (in terms of the matters referred to in subsection (1)﻿(a)) that a person may have or acquire over a licensed NBDT without the need for further consent; and
   (b) impose any terms and conditions on the consent that the Bank thinks fit.
 (3) Nothing in this section invalidates any contract, or transfer of ownership, made in contravention of this section.
 (4) A person who fails to comply with subsection (1), or who fails to comply with the terms and conditions of any consent given under this section, commits an offence and is liable on conviction to a level 2 penalty.
@@ -547,7 +547,7 @@ The Governor-General may, by Order in Council, on the advice of the Minister giv
   (a) is, despite anything in any enactment, instrument, or rule of law, entitled to require the NBDT to supply the trustee with that information; and
   (b) must require the NBDT to supply the information; and
   (c) must supply any information so provided to the Bank.
-(2) A trustee that fails to comply with subsection (1)(b) or (c) commits an offence and is liable on conviction to a level 1 penalty.
+(2) A trustee that fails to comply with subsection (1)﻿(b) or (c) commits an offence and is liable on conviction to a level 1 penalty.
 
 **Powers where offence suspected**
 
@@ -555,13 +555,13 @@ The Governor-General may, by Order in Council, on the advice of the Minister giv
 (1) If the Bank has reasonable cause to believe that a licensed NBDT or an associated person has committed an offence under this Act, the Bank may, by notice in writing, do either or both of the following:
   (a) require the NBDT or associated person to supply to the Bank the information, documents, or things specified in the notice, within the time specified in the notice:
   (b) appoint a suitably qualified person to enter and search a place under a warrant issued under section 52.
-(2) A licensed NBDT or associated person that fails to comply with a notice given under subsection (1)(a) commits an offence and is liable on conviction to a level 3 penalty.
+(2) A licensed NBDT or associated person that fails to comply with a notice given under subsection (1)﻿(a) commits an offence and is liable on conviction to a level 3 penalty.
 
 ### 52 Power to enter and search
-(1) A person appointed under section 51(1)(b) may, for the purpose of investigating whether a person is committing or has committed an offence under this Act, enter and search any place if—
+(1) A person appointed under section 51(1)﻿(b) may, for the purpose of investigating whether a person is committing or has committed an offence under this Act, enter and search any place if—
   (a) the occupier of the place consents; or
   (b) he or she obtains a warrant under this section.
-(2) An issuing officer (within the meaning of section 3(1) of the Search and Surveillance Act 2012) may issue a warrant to a person appointed under section 51(1)(b) in relation to a place if the issuing officer, on an application made by that person in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, is satisfied that there are reasonable grounds—
+(2) An issuing officer (within the meaning of section 3(1) of the Search and Surveillance Act 2012) may issue a warrant to a person appointed under section 51(1)﻿(b) in relation to a place if the issuing officer, on an application made by that person in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, is satisfied that there are reasonable grounds—
   (a) to suspect that a person is committing or has committed an offence under this Act; and
   (b) to believe that a search will find evidential material at the place.
 (3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
@@ -571,7 +571,7 @@ The Governor-General may, by Order in Council, on the advice of the Minister giv
 ### 53 Privileges where information required to be disclosed
 (1) If a person could, in a criminal proceeding, assert a privilege under sections 54 to 57 of the Evidence Act 2006 in respect of any communication or information, the person is taken to have the same privilege for the purposes of—
   (a) a request under section 49(2) to supply access to accounting and other records of a licensed NBDT or provide information relating to those records; and
-  (b) a notice under section 51(1)(a).
+  (b) a notice under section 51(1)﻿(a).
 (2) A person who has a privilege under this section has the right—
   (a) to refuse to disclose a communication or information to which the privilege would apply if it were sought to be disclosed in a criminal proceeding; and
   (b) to prevent the search of any such communication or information; and
@@ -580,8 +580,8 @@ The Governor-General may, by Order in Council, on the advice of the Minister giv
 (4) A District Court Judge may, on the application of the Governor, disallow a privilege claimed under this section if the Judge is satisfied that the claim to privilege would, under section 67(1) of the Evidence Act 2006, be disallowed in a proceeding.
 (5) Subsection (6) applies to documents that are books of account or accounting records referred to in section 55(1) of the Evidence Act 2006.
 (6) The application by subsection (1) of section 54 of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect—
-  (a) the issue of, or the obligation to comply with, a notice under section 51(1)(a) in respect of a document to which this subsection applies; or
-  (b) the admissibility, in a criminal proceeding under this Act, of any evidence that relates to the contents of a document obtained as a result of a notice under section 51(1)(a).
+  (a) the issue of, or the obligation to comply with, a notice under section 51(1)﻿(a) in respect of a document to which this subsection applies; or
+  (b) the admissibility, in a criminal proceeding under this Act, of any evidence that relates to the contents of a document obtained as a result of a notice under section 51(1)﻿(a).
 (7) Section 65 of the Evidence Act 2006 (which relates to waiver of privilege) applies in respect of any privilege under this section.
 (8) Nothing in this section affects the application of section 60 of the Evidence Act 2006.
 
@@ -589,10 +589,10 @@ The Governor-General may, by Order in Council, on the advice of the Minister giv
 (1) This section applies to—
   (a) information supplied or disclosed to, or obtained by,—
     (i) the Bank, under or for the purposes of, or in connection with, the exercise of powers conferred by this Act; and
-    (ii) any person appointed by the Bank under section 51(1)(b) to enter and search a place under warrant:
+    (ii) any person appointed by the Bank under section 51(1)﻿(b) to enter and search a place under warrant:
   (b) information derived from, or based on, information referred to in paragraph (a):
   (c) information relating to the exercise, or possible exercise, of the powers conferred by this Act.
-(2) The Bank, any employee of the Bank, and any person appointed by the Bank under section 51(1)(b) may publish or disclose information to which this section applies only—
+(2) The Bank, any employee of the Bank, and any person appointed by the Bank under section 51(1)﻿(b) may publish or disclose information to which this section applies only—
   (a) with the consent of the person to whom the information relates; or
   (b) in statistical or summary form, arranged in a manner that prevents any information published or disclosed from being identified by any person as relating to a particular person; or
   (c) to the extent that the information is available to the public under any Act (other than the Official Information Act 1982) or in a public document; or
@@ -601,11 +601,11 @@ The Governor-General may, by Order in Council, on the advice of the Minister giv
   (f) to the Registrar of the Companies Office or the Financial Markets Authority; or
   (g) to a trustee of the NBDT to whom the information relates; or
   (h) to any person who the Bank is satisfied has a proper interest in receiving the information.
-(3) A person to whom information to which this section applies is published or disclosed under subsection (2)(d) must not publish, disclose, or use the information except—
+(3) A person to whom information to which this section applies is published or disclosed under subsection (2)﻿(d) must not publish, disclose, or use the information except—
   (a) for the purposes of this Act or in connection with the exercise of powers conferred by this Act; or
   (b) in accordance with any conditions that may be specified by the Bank.
-(4) Information to which this section applies must not be published or disclosed under subsection (2)(g) or (h) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of the information published or disclosed.
-(5) A person to whom information to which this section applies is disclosed under subsection (2)(f), (g), or (h) must not publish, disclose, or use the information unless the publication, disclosure, or use is—
+(4) Information to which this section applies must not be published or disclosed under subsection (2)﻿(g) or (h) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of the information published or disclosed.
+(5) A person to whom information to which this section applies is disclosed under subsection (2)﻿(f), (g), or (h) must not publish, disclose, or use the information unless the publication, disclosure, or use is—
   (a) authorised by the Bank; or
   (b) necessary or desirable in connection with the exercise of any function or power conferred by any enactment.
 (6) A person who breaches this section commits an offence and is liable on conviction to a level 2 penalty.
@@ -627,7 +627,7 @@ Nothing in the Official Information Act 1982 applies to information to which sec
 (2) A direction to an NBDT under this section may require the NBDT to do any of the following:
   (a) consult with the Bank, at the times and in the manner specified by the Bank, about the circumstances of the NBDT or any associated person, or about the methods of resolving any financial or other difficulties facing the NBDT or any associated person:
   (b) take any specified action to address any circumstances of financial or other difficulties of the NBDT or any associated person:
-  (c) take, or refrain from taking, any specified action to address a failure, or potential failure, by the NBDT or any associated person to comply with the things listed in subsection (1)(b):
+  (c) take, or refrain from taking, any specified action to address a failure, or potential failure, by the NBDT or any associated person to comply with the things listed in subsection (1)﻿(b):
   (d) ensure that any senior officer or other employee of the NBDT ceases to take part in the management or conduct of the NBDT's business, except with the permission of the Bank and so far as that permission extends:
   (e) suspend or cease carrying on any part of its business:
   (f) carry on its business, or any part of its business, in accordance with the direction:
@@ -635,7 +635,7 @@ Nothing in the Official Information Act 1982 applies to information to which sec
 (3) A direction to an associated person under this section may require the associated person to do any of the following:
   (a) consult with the Bank, at the times and in the manner specified by the Bank, about the circumstances of the NBDT or the associated person, or about the methods of resolving any financial or other difficulties facing the NBDT or the associated person:
   (b) take any specified action to address any circumstances of financial or other difficulties of the NBDT or the associated person:
-  (c) take, or refrain from taking, any specified action to address a failure, or potential failure, by the NBDT or the associated person to comply with the things listed in subsection (1)(b):
+  (c) take, or refrain from taking, any specified action to address a failure, or potential failure, by the NBDT or the associated person to comply with the things listed in subsection (1)﻿(b):
   (d) ensure that any senior officer or other employee of the associated person ceases to take part in the management or conduct of its business, except with the permission of the Bank and so far as that permission extends:
   (e) suspend or cease carrying on any part of its business:
   (f) carry on its business, or any part of its business, in accordance with the direction:
@@ -677,7 +677,7 @@ Nothing in the Official Information Act 1982 applies to information to which sec
   (a) the Bank has exercised, or is exercising, the power in subsection (1) to remove a director and it is necessary to appoint a person to replace the removed director; or
   (b) in the opinion of the Bank, it is necessary to appoint a person as an additional director because—
     (i) the NBDT is failing or has failed to comply with this Act or the regulations; or
-    (ii) either of the grounds in subsection (1)(a)(i) or (iii) applies.
+    (ii) either of the grounds in subsection (1)﻿(a)﻿(i) or (iii) applies.
 (3) The Bank may remove a director of an associated person of a licensed NBDT, by notice in writing to the director, if any of the following apply and it is necessary, in the opinion of the Bank, to remove or replace the director:
   (a) the NBDT or associated person is unable, or likely to be unable, to pay its debts as they become due in the normal course of business:
   (b) the director has failed, or is failing, or is likely to fail, to comply with this Act or the regulations:
@@ -686,7 +686,7 @@ Nothing in the Official Information Act 1982 applies to information to which sec
   (a) the Bank has exercised, or is exercising, the power in subsection (3) to remove a director and it is necessary to appoint a person to replace the removed director; or
   (b) in the opinion of the Bank, it is necessary to appoint a person as an additional director because—
     (i) the associated person is failing or has failed to comply with this Act or the regulations; or
-    (ii) either of the grounds in subsection (3)(a) or (c) applies.
+    (ii) either of the grounds in subsection (3)﻿(a) or (c) applies.
 (5) Subsections (1) to (4) do not apply in respect of a director of an overseas person.
 (6) This section has effect despite any enactment, rule of law, or the terms of the governing document of the NBDT or associated person.
 
@@ -709,7 +709,7 @@ Nothing in the Official Information Act 1982 applies to information to which sec
   (a) in the case of a director of a licensed NBDT, the NBDT and the trustee; and
   (b) in the case of a director of an associated person, the associated person and the licensed NBDT; and
   (c) the Registrar of Companies or, in the case of a non-company NBDT or associated person whose director is being removed or appointed, whichever other registrar (if any) is appropriate.
-(4) A notice given under subsection (3)(c) with respect to the appointment of a director is sufficient compliance with section 159 of the Companies Act 1993 (or other equivalent provision) as long as the notice is accompanied by the form of consent and certificate required under section 152 of that Act (or other equivalent required documentation).
+(4) A notice given under subsection (3)﻿(c) with respect to the appointment of a director is sufficient compliance with section 159 of the Companies Act 1993 (or other equivalent provision) as long as the notice is accompanied by the form of consent and certificate required under section 152 of that Act (or other equivalent required documentation).
 
 **Appeals relating to directors and senior officers**
 
@@ -722,7 +722,7 @@ Nothing in the Official Information Act 1982 applies to information to which sec
 (3) A decision against which an appeal is lodged continues in force pending the determination of the appeal unless the High Court orders otherwise.
 
 ### 63 Appeal to Court of Appeal on question of law
-(1) Any party to an appeal under section 62 may, with the leave of the High Court (or, if the High Court refuses leave, with the leave of the Court of Appeal) appeal to the Court of Appeal against the determination on a question of law; and section 66 of the Judicature Act 1908 applies to any such appeal.
+(1) Any party to an appeal under section 62 may, with the leave of the High Court (or, if the High Court refuses leave, with the leave of the Court of Appeal) appeal to the Court of Appeal against the determination on a question of law; and section 56 of the Senior Courts Act 2016 applies to any such appeal.
 (2) In determining whether to grant leave to appeal, the Court of Appeal must have regard to whether the question of law involved in the appeal is one that, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for its decision.
 (3) The Court of Appeal, in granting leave, may impose the conditions that it thinks fit, whether as to costs or otherwise.
 (4) The decision of the Court of Appeal on any application for leave to appeal, or on an appeal under this section, is final.
@@ -754,14 +754,14 @@ A licensed NBDT, associated person, or trustee commits an offence, and is liable
   (c) by, or on behalf of, the Bank or with the written consent of the Bank,—
     (i) to the public or any class of the public; or
     (ii) to any person who has a proper interest in knowing that the direction or notice has been given.
-(3) Nothing in subsection (1) applies to the disclosure or publication of the fact that a direction has been given requiring the actions set out in section 56(2)(d) for the purpose of giving effect to that direction.
+(3) Nothing in subsection (1) applies to the disclosure or publication of the fact that a direction has been given requiring the actions set out in section 56(2)﻿(d) for the purpose of giving effect to that direction.
 
 ### 67 Defence to charge under Act
 (1) In any prosecution of a licensed NBDT, associated person, or trustee or former licensed NBDT, associated person, or trustee (the defendant) for an offence under this Act, it is a defence if the defendant proves that—
   (a) the contravention was due to the act or omission of another person, or some other cause beyond the defendant's control; and
   (b) the defendant took reasonable precautions and exercised due diligence to avoid the contravention.
-(2) For the purposes of subsection (1)(a), another person does not include a director, employee, or agent of the defendant.
-(3) A defendant is not, without the leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless it has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecution a notice in writing identifying the act, omission, or cause relied on by the defendant.
+(2) For the purposes of subsection (1)﻿(a), another person does not include a director, employee, or agent of the defendant.
+(3) A defendant is not, without the leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)﻿(a) unless it has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecution a notice in writing identifying the act, omission, or cause relied on by the defendant.
 
 ### 68 Liability of directors for offences of NBDTs and associated persons
 (1) If an NBDT or associated person commits an offence under this Act, each director of the NBDT or associated person commits the same offence, and is liable to the penalty applicable to an individual for that offence, if it is proved—
@@ -806,7 +806,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
     (i) be published on an Internet site maintained by or on behalf of the Bank; and
     (ii) be notified in the Gazette; and
     (iii) be made available in printed form on request by members of the public.
-(4) A notification in the Gazette for the purpose of subsection (3)(b)(ii) does not have to include the text of the exemption.
+(4) A notification in the Gazette for the purpose of subsection (3)﻿(b)﻿(ii) does not have to include the text of the exemption.
 
 ### 72 Effect of exemption
 A person does not breach a requirement of this Act if—
@@ -819,7 +819,7 @@ A person does not breach a requirement of this Act if—
 (1) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for all or any of the following purposes:
   (a) declaring a person or class of persons to be a related party:
   (b) declaring a class of persons to be, or not to be, senior officers:
-  (c) declaring any person or class of persons (other than a person referred to in section 5(2)(a) to (c)) to be an NBDT for the purposes of this Act, or declaring that, in certain specified circumstances, such a person or class of persons is an NBDT for the purposes of this Act:
+  (c) declaring any person or class of persons (other than a person referred to in section 5(2)﻿(a) to (c)) to be an NBDT for the purposes of this Act, or declaring that, in certain specified circumstances, such a person or class of persons is an NBDT for the purposes of this Act:
   (d) declaring any person or class of persons not to be an NBDT for the purposes of this Act, or declaring that, in certain specified circumstances, any person or class of persons is not an NBDT for the purposes of this Act:
   (e) declaring certain securities to be debt securities for the purpose of this Act:
   (f) prescribing the matters, circumstances, or conditions that are suitability concerns:
@@ -827,15 +827,15 @@ A person does not breach a requirement of this Act if—
   (h) prescribing additional matters to which the Bank must have regard in determining an application for a licence:
   (i) prescribing additional matters to which the conditions on licences may relate:
   (j) prescribing grounds, additional to those in section 21, on which the Bank may cancel a licence:
-  (k) prescribing information to be included in the register under section 85(3)(c):
+  (k) prescribing information to be included in the register under section 85(3)﻿(c):
   (l) providing for any other matter contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) In considering whether to advise and recommend the making of regulations under subsection (1)(c) or (d), the Minister and the Bank must have regard to—
+(2) In considering whether to advise and recommend the making of regulations under subsection (1)﻿(c) or (d), the Minister and the Bank must have regard to—
   (a) the nature of the business activities carried on by the person or class of persons and the extent to which those activities—
     (i) are similar in substance to the activities of an NBDT; or
     (ii) involve activities as an NBDT; and
   (b) the public interest; and
   (c) any other matters the Minister or the Bank considers relevant.
-(3) The Bank must not recommend the making of regulations under subsection (1)(e), declaring certain securities to be debt securities, unless it is satisfied that the securities are similar in substance to debt securities.
+(3) The Bank must not recommend the making of regulations under subsection (1)﻿(e), declaring certain securities to be debt securities, unless it is satisfied that the securities are similar in substance to debt securities.
 
 ### 74 Extension of regulation-making powers relating to prudential obligations
 Regulations made under section 24, 30, 33, 36, or 39 may—
@@ -886,7 +886,7 @@ Regulations made under section 24, 30, 33, 36, or 39 may—
 **Protection from liability and indemnity**
 
 ### 80 Protection from liability for Bank, etc
-(1) This section applies to the Bank, every director, officer, and employee of the Bank, and any person appointed by the Bank under section 51(1)(b).
+(1) This section applies to the Bank, every director, officer, and employee of the Bank, and any person appointed by the Bank under section 51(1)﻿(b).
 (2) No person to whom this section applies is liable for an act done or omitted to be done in the performance or exercise in good faith of the person's functions, duties, or powers under this Act.
 
 ### 81 Indemnity for Bank, etc
@@ -907,9 +907,9 @@ Regulations made under section 24, 30, 33, 36, or 39 may—
   (c) if given to an overseas company, be served in a manner provided for in section 389(1) or 390 of the Companies Act 1993; or
   (d) if given to any other body corporate, be served in a manner in which it could be given or served if the body corporate were a company within the meaning of the Companies Act 1993.
 (2) In the absence of proof to the contrary, a notice, document, or notification given to an individual must be treated,—
-  (a) in the case of delivery by post under subsection (1)(a)(ii), as having been given or provided to the person when it would have been delivered in the ordinary course of post; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted:
-  (b) in the case of delivery by fax or email under subsection (1)(a)(iii), as having been given or provided to the person on the second working day after the day on which it is sent.
-(3) Section 392 of the Companies Act 1993 applies for the purposes of subsection (1)(b) to (d).
+  (a) in the case of delivery by post under subsection (1)﻿(a)﻿(ii), as having been given or provided to the person when it would have been delivered in the ordinary course of post; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted:
+  (b) in the case of delivery by fax or email under subsection (1)﻿(a)﻿(iii), as having been given or provided to the person on the second working day after the day on which it is sent.
+(3) Section 392 of the Companies Act 1993 applies for the purposes of subsection (1)﻿(b) to (d).
 (4) If a person is absent from New Zealand, a notice, document, or notification given to the person's agent in New Zealand in accordance with subsection (1) must be treated as having been given or provided to the person.
 (5) If the person has died, the notice, document, or notification may be given, in accordance with subsection (1), to his or her personal representative.
 
@@ -971,10 +971,10 @@ An obligation imposed on a person by any other Act or instrument does not preven
 
 ### 89 Transitional references in Reserve Bank of New Zealand Act 1989
 Until the end of the transition period referred to in section 87, the following provisions of the Reserve Bank of New Zealand Act 1989 (all of which are amended by Schedule 2 of this Act) must be read as if the references in them to a licensed NBDT were references to an NBDT:
-  (a) section 46(1)(b):
-  (b) section 49(2)(h)(iii):
-  (c) section 50(2)(d)(iii):
-  (d) section 53(3)(f)(iii):
+  (a) section 46(1)﻿(b):
+  (b) section 49(2)﻿(h)﻿(iii):
+  (c) section 50(2)﻿(d)﻿(iii):
+  (d) section 53(3)﻿(f)﻿(iii):
   (e) section 58(b).
 
 **FMA to consult with Bank before recommending statutory management of NBDT**
@@ -990,7 +990,7 @@ Until the end of the transition period referred to in section 87, the following 
 (2) Section 5 is amended by repealing paragraph (b) and substituting the following paragraph:
   (b) being a licensed NBDT, as defined in the Non-bank Deposit Takers Act 2013:
 (3) Section 15(2) is amended by adding , unless otherwise agreed by the relevant licensing authority and the Registrar.
-(4) Schedule 2 is amended by adding the following item to the table:Reserve Bank of New ZealandLicensed NBDTsNon-bank Deposit Takers Act 2013
+(4) Schedule 2 is amended by adding the following item to the table:The following table is small in size and has 3 columns. This table is an amendment to the table in Schedule 2 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 and should be read with that table to provide understanding of the context.Reserve Bank of New ZealandLicensed NBDTsNon-bank Deposit Takers Act 2013
 
 **Consequential amendments and revocations**
 
@@ -1011,46 +1011,46 @@ Sections 95 to 101 amend this Act.
 ### 95 Interpretation
 (1) Paragraph (a) of the definition of debt security in section 4(1) is amended by omitting section 2(1) of the Securities Act 1978 and substituting section 8 of the Financial Markets Conduct Act 2013.
 (2) The definitions of trust deed and trustee in section 4(1) are repealed.
-(3) Section 4(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
+(3) Section 4(1) is amended by inserting the following definitions in their appropriate alphabetical order:
   - **NBDT regulated offer** —
     (a) means a regulated offer within the meaning of section 41 of the Financial Markets Conduct Act 2013; and
-    (b) includes an offer of debt securities that would be a regulated offer within the meaning of that section if clause 3(2)(b) and (3)(a) of Schedule 1 of that Act were not in force; and
+    (b) includes an offer of debt securities that would be a regulated offer within the meaning of that section if clause 3(2)﻿(b) and (3)﻿(a) of Schedule 1 of that Act were not in force; and
     (c) includes an offer of debt securities to the public in New Zealand to which the Securities Act 1978 applied before its repeal or to which that Act applies or applied under Schedule 4 of the Financial Markets Conduct Act 2013
   - **trust deed** , in relation to an NBDT, means a trust deed that is required, by or under any of the following, in relation to debt securities (as defined in this Act) offered by or on behalf of the NBDT:
     (a) subpart 1 of Part 4 of the Financial Markets Conduct Act 2013 or an exemption granted under that Act:
-    (b) a condition under section 19(1)(fa):
+    (b) a condition under section 19(1)﻿(fa):
     (c) the Securities Act 1978 or an exemption granted under that Act
   - **trustee** , in relation to an NBDT,—
     (a) means a licensed supervisor (within the meaning of the Financial Markets Conduct Act 2013) who is designated or appointed, by or under any of the following, as the trustee for any debt security offered by or on behalf of the NBDT:
       (i) a trust deed:
       (ii) an exemption granted under the Financial Markets Conduct Act 2013:
       (iii) the Financial Markets Supervisors Act 2011:
-      (iv) a condition under section 19(1)(fa):
+      (iv) a condition under section 19(1)﻿(fa):
     (b) includes a trustee (as defined in the Securities Act 1978) that is required, by or under that Act or an exemption granted under it, in relation to any debt security offered by or on behalf of the NBDT
 
 ### 96 NBDT defined
-(1) Section 5(1)(a) is amended by repealing subparagraph (i) and substituting the following subparagraph:.
+(1) Section 5(1)﻿(a) is amended by repealing subparagraph (i) and substituting the following subparagraph:
   (i) makes an NBDT regulated offer of debt securities; and
-(2) Section 5(1)(c) is amended by repealing subparagraph (ii) and substituting the following subparagraph:.
+(2) Section 5(1)﻿(c) is amended by repealing subparagraph (ii) and substituting the following subparagraph:
   (ii) has debt securities that remain unpaid and that were offered under an NBDT regulated offer:
-(3) Section 5(2)(d) is amended by omitting to the public in New Zealand and substituting under an NBDT regulated offer.
+(3) Section 5(2)﻿(d) is amended by omitting to the public in New Zealand and substituting under an NBDT regulated offer.
 
 ### 97 Determining applications for licence
-Section 14(2)(b) is amended by inserting the Financial Markets Conduct Act 2013, after requirements of.
+Section 14(2)﻿(b) is amended by inserting the Financial Markets Conduct Act 2013, after requirements of.
 
 ### 98 Kinds of licence conditions and their effect
-Section 19(1) is amended by inserting the following paragraph after paragraph (f):.
+Section 19(1) is amended by inserting the following paragraph after paragraph (f):
   (fa) in a case where subpart 1 of Part 4 of the Financial Markets Conduct Act 2013 would not otherwise apply in relation to debt securities issued or to be issued by an NBDT, requirements relating to compliance with that subpart (in whole or in part and with any modifications or variations specified in the conditions), including requirements to have a trustee and a trust deed for the debt securities:
 
 ### 99 Grounds for cancelling licence
 Section 21(b) is amended by inserting the Financial Markets Conduct Act 2013, after relevant provisions of.
 
 ### 100 Bank directions to licensed NBDTs and associated persons
-Section 56(1)(b) is amended by inserting the following subparagraph after subparagraph (i):.
+Section 56(1)﻿(b) is amended by inserting the following subparagraph after subparagraph (i):
   (ia) the Financial Markets Conduct Act 2013 or regulations made under that Act; or
 
 ### 101 Bank's powers to remove or appoint directors of licensed NBDTs and associated persons
-Section 60(1)(a)(iii) and (3)(c) are amended by inserting the Financial Markets Conduct Act 2013, regulations made under that Act, after the regulations,.
+Section 60(1)﻿(a)﻿(iii) and (3)﻿(c) are amended by inserting the Financial Markets Conduct Act 2013, regulations made under that Act, after the regulations,.
 
 **Other amendments relating to financial markets legislation**
 
