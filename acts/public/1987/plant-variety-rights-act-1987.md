@@ -1,5 +1,5 @@
 # Plant Variety Rights Act 1987
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to the granting of proprietary rights in respect of plant varieties
 
@@ -244,8 +244,8 @@ Any person who sells reproductive material of—shall use its denomination, and 
   (b) the day on which notice of that issue, extension, limitation, variation, or revocation was first published in the Journal under section 21(8).
 
 ### 24 Appeals to be made to District Court
-Every appeal under section 23 shall be made to a District Court by—
-  (a) filing a notice of appeal in the prescribed form in the District Court nearest the Office; and
+Every appeal under section 23 shall be made to the District Court by—
+  (a) filing a notice of appeal in the prescribed form in the office of the District Court nearest the Office; and
   (b) serving a copy of that notice on the Commissioner.
 
 ### 25 Assessors
@@ -256,19 +256,19 @@ Every appeal under section 23 shall be made to a District Court by—
   (d) an assessor appointed under this subsection shall sit with the Judge during the appeal, but shall have no power of decision in relation to the appeal.
 (2) A District Court Judge may appoint 2 or more assessors under subsection (1) in respect of a single appeal if satisfied that the nature of the technical or specialised matters concerned so warrants.
 (3) No appointment of an assessor under subsection (1) shall, in any proceedings, be called into question on the grounds that the occasion for that appointment had not arisen or had ceased.
-(4) Every assessor appointed under subsection (1) is entitled to receive—as if a District Court is a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
+(4) Every assessor appointed under subsection (1) is entitled to receive—as if the District Court is a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
   (a) remuneration by way of fees, salary, or allowances, for that assessor's services as assessor; and
   (b) payment of travelling allowances or expenses in respect of time spent travelling in connection with undertaking services as assessor,—
-(5) Subject to subsection (6), a District Court, after hearing an appeal under section 23, may—
+(5) Subject to subsection (6), the District Court, after hearing an appeal under section 23, may—
   (a) confirm the decision appealed against; or
   (b) modify or reverse that decision or any part of it.
-(6) Nothing in subsection (5) authorises a District Court to review any decision of the Commissioner, or any part of a decision of the Commissioner, if no appeal has been made against that decision or part.
+(6) Nothing in subsection (5) authorises the District Court to review any decision of the Commissioner, or any part of a decision of the Commissioner, if no appeal has been made against that decision or part.
 
 ### 26 Procedure
 In dealing with an appeal under section 23,—
-  (a) a District Court may hear all evidence tendered and representations made by or on behalf of any party to that appeal that that court considers relevant to that appeal, whether or not that evidence would be otherwise admissible in that court:
-  (b) subject to section 24 and to paragraph (a), the District Courts Rules 2009 shall apply to that appeal:
-  (c) except as provided in this Act, a District Court shall determine its own procedure in relation to the determination of that appeal.
+  (a) the District Court may hear all evidence tendered and representations made by or on behalf of any party to that appeal that that court considers relevant to that appeal, whether or not that evidence would be otherwise admissible in that court:
+  (b) subject to section 24 and to paragraph (a), the District Court Rules 2014 shall apply to that appeal:
+  (c) except as provided in this Act, the District Court shall determine its own procedure in relation to the determination of that appeal.
 
 ### 27 Suspension of decision while appeal pending
 Where any person has appealed against any decision of the Commissioner, the operation of that decision shall be suspended until the appeal concerned has been finally disposed of.
@@ -286,10 +286,10 @@ Where any person has appealed against any decision of the Commissioner, the oper
   (a) the seal of the Office; and
   (b) the appointment and signature of the Commissioner and every Assistant Commissioner.
 (3) For the purposes of subsection (2),—
-  - **court** includes the Supreme Court, the Court of Appeal, the High Court, and any District Court
+  - **court** includes the Supreme Court, the Court of Appeal, the High Court, and the District Court
   - **District Court** includes—
-    (a) a Family Court; and
-    (b) a Youth Court
+    (a) the Family Court; and
+    (b) the Youth Court
   - **person acting judicially** means any person having in New Zealand by law authority to hear, receive, and examine evidence.
 
 ### 30 Commissioner, Assistant Commissioners, and officers
