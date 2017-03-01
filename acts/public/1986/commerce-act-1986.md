@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2017-03-01_
 
 > Title
 
@@ -2524,7 +2524,7 @@ In determining an appeal under section 91(1), the court may do any of the follow
 (2) The court may make an order prohibiting the publication of any report or description of proceedings or any part of proceedings under this Act (whether heard in public or in private); but no order under this subsection shall prohibit the publication of any determination of the court.
 
 ### 97 Appeal to Court of Appeal in certain cases
-(1) Notwithstanding anything in any enactment, any party to any appeal before the High Court against any determination of the Commission who is dissatisfied with any decision or order of the court may, with the leave of the court or of the Court of Appeal, appeal to the Court of Appeal; and section 66 of the Judicature Act 1908 shall apply to any such appeal.
+(1) Notwithstanding anything in any enactment, any party to any appeal before the High Court against any determination of the Commission who is dissatisfied with any decision or order of the court may, with the leave of the court or of the Court of Appeal, appeal to the Court of Appeal; and section 56 of the Senior Courts Act 2016 shall apply to any such appeal.
 (2) In determining whether to grant leave to appeal under this section, the court to which the application for leave is made shall have regard to the following matters:
   (a) whether any question of law or general principle is involved:
   (b) the importance of the issues to the parties:
