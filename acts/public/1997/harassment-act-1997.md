@@ -1,5 +1,5 @@
 # Harassment Act 1997
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-03-01_
 
 > An Act to provide criminal and civil remedies in respect of harassment
 
@@ -18,7 +18,7 @@ _Consolidation as at 2016-12-17_
     (a) a person who applies for an order under this Act on his or her own behalf:
     (b) the person on whose behalf an application for an order is made under section 11 or section 13
   - **associated respondent** means a person against whom a restraining order applies by virtue of a direction made under section 18
-  - **court** means a District Court; and includes a District Court Judge
+  - **court** means the District Court; and includes a District Court Judge
   - **encourage** includes to incite, counsel, or procure
   - **family member** , in relation to a person, means,—
     (a) any other person who is or has been related to the person by blood, marriage, civil union, de facto relationship, or adoption:
@@ -322,13 +322,13 @@ In any proceedings under this Act (other than criminal proceedings), and whether
 **Appeals**
 
 ### 34 Appeals to High Court
-(1AA) This subsection applies to a decision of a Family Court or District Court, in proceedings under this Act (including, without limitation, proceedings under section 40), to—
+(1AA) This subsection applies to a decision of the Family Court or the District Court, in proceedings under this Act (including, without limitation, proceedings under section 40), to—
   (a) make or refuse to make an order; or
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (1) A party to proceedings in which there is made a decision to which subsection (1AA) applies may appeal to the High Court against the decision.
-(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
-(3) On the ex parte application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(2) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
+(3) On the ex parte application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under section 126(1) of the District Court Act 2016 to give the Registrar of the High Court security for costs.
 (3A) Subsection (3) overrides subsection (2).
 (4)
 
@@ -388,8 +388,8 @@ Except where the court making the order appealed from otherwise directs,—
 **Rules and regulations**
 
 ### 42 Rules of court
-(1) In addition to all other powers conferred by the District Courts Act 1947, the Governor-General may from time to time, by Order in Council, make rules—
-  (a) regulating the practice and procedure of District Courts in proceedings under this Act:
+(1) In addition to all other powers conferred by the District Court Act 2016, the Governor-General may from time to time, by Order in Council, make rules—
+  (a) regulating the practice and procedure of the District Court in proceedings under this Act:
   (b) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Without limiting subsection (1), rules made under that subsection may—
   (a) prescribe the procedure for the service of notices and other documents for the purposes of this Act, and provide for substituted service, and for service to be dispensed with, in such circumstances as are specified in the rules:
@@ -405,9 +405,9 @@ Except where the court making the order appealed from otherwise directs,—
     (iii) if any order made under the rules is not complied with; or
     (iv) unless or until any order made under the rules is complied with:
   (f) provide that Registrars may exercise specified powers of the court or a Judge:
-  (g) provide for information about proceedings under this Act to be transferred between courts (whether District Courts, Family Courts, the High Court, the Court of Appeal, or the Supreme Court), including (without limitation) between different courts, or between different divisions of the same court, or between courts exercising civil jurisdiction and courts exercising criminal jurisdiction, or between courts exercising appellate jurisdiction and courts exercising original jurisdiction:
-  (h) apply, with or without modification, provisions of the District Courts Rules 2014.
-(3) In the absence of any rules under this section or in any situation not covered by any such rules, the District Courts Rules 2014 apply, with all necessary modifications, to proceedings under this Act.
+  (g) provide for information about proceedings under this Act to be transferred between courts (whether the District Court, the Family Court, the High Court, the Court of Appeal, or the Supreme Court), including (without limitation) between different courts, or between different divisions of the same court, or between courts exercising civil jurisdiction and courts exercising criminal jurisdiction, or between courts exercising appellate jurisdiction and courts exercising original jurisdiction:
+  (h) apply, with or without modification, provisions of the District Court Rules 2014.
+(3) In the absence of any rules under this section or in any situation not covered by any such rules, the District Court Rules 2014 apply, with all necessary modifications, to proceedings under this Act.
 
 ### 43 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
