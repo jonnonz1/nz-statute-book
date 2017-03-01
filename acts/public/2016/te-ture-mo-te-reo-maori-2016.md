@@ -1,5 +1,5 @@
 # Te Ture mō Te Reo Māori 2016
-_Consolidation as at 2016-04-29_
+_Consolidation as at 2017-03-01_
 
 ## Part Te Wāhanga 1 — Ko te ingoa me ngā whakataunga tīmatanga i te reo Māori
 
@@ -574,7 +574,7 @@ The Māori language is an official language of New Zealand.
   (c) iwi and Māori are the kaitiaki of the Māori language:
   (d) the Māori language is the foundation of Māori culture and identity:
   (e) knowledge and use of the Māori language enhance the lives of iwi and Māori:
-  (f) knowledge and use of the Māori language are sustained though transmission of the language from generation to generation among whānau and by daily communication in the community:
+  (f) knowledge and use of the Māori language are sustained through transmission of the language from generation to generation among whānau and by daily communication in the community:
   (g) the Māori language is protected as a taonga by article 2 of the Treaty of Waitangi:
   (h) the Crown recognises the value of the Māori language for the people of New Zealand:
   (i) knowledge and use of the Māori language are promoted by an active partnership of the Crown with iwi and Māori through Te Mātāwai:
