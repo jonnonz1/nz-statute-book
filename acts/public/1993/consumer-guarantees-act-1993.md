@@ -1,5 +1,5 @@
 # Consumer Guarantees Act 1993
-_Consolidation as at 2014-06-17_
+_Consolidation as at 2017-03-01_
 
 > Title
 
@@ -48,7 +48,7 @@ _Consolidation as at 2014-06-17_
       (iv) minerals, trees, and crops, whether on, under, or attached to land or not:
       (v) non-reticulated gas:
       (vi) to avoid doubt, water and computer software; but
-    (c) despite paragraph (b)(i), does not include a whole building, or part of a whole building, attached to land unless the building is a structure that is easily removable and is not designed for residential accommodation
+    (c) despite paragraph (b)﻿(i), does not include a whole building, or part of a whole building, attached to land unless the building is a structure that is easily removable and is not designed for residential accommodation
   - **line function services** has,—
     (a) in relation to gas, the meaning set out in section 2(1) of the Gas Act 1992; and
     (b) in relation to electricity, the meaning set out in section 2(1) of the Electricity Act 1992
@@ -115,10 +115,10 @@ This Act shall bind the Crown.
     (ii) a security, or a term of the agreement for supply, in respect of which the consumer has received—
       (A) oral advice, acknowledged in writing by the consumer, as to the way in which the consumer's right to undisturbed possession of the goods could be affected, sufficient to enable a reasonable consumer to understand the general nature and effect of the variation; and
       (B) a written copy of the agreement for supply or security, or a written copy of the part thereof which provides for the variation.
-(2) A reference in subsection (1)(a) to a right to sell goods means a right to dispose of the ownership of the goods to the consumer at the time when that ownership is to pass.
+(2) A reference in subsection (1)﻿(a) to a right to sell goods means a right to dispose of the ownership of the goods to the consumer at the time when that ownership is to pass.
 (3) An undisclosed security referred to in this section means any security that was neither disclosed to the consumer in writing before he or she agreed to the supply nor created by or with the express consent of the consumer.
-(4) Nothing in subsection (1)(a) or (1)(b) shall apply in any case where the goods are only hired or leased.
-(5) Where the goods are only hired or leased, the guarantee set out in subsection (1)(c) shall confer a right to undisturbed possession of the goods only for the period of the hire or lease.
+(4) Nothing in subsection (1)﻿(a) or (1)﻿(b) shall apply in any case where the goods are only hired or leased.
+(5) Where the goods are only hired or leased, the guarantee set out in subsection (1)﻿(c) shall confer a right to undisturbed possession of the goods only for the period of the hire or lease.
 (6) Part 2 gives the consumer a right of redress against the supplier where the goods fail to comply with any guarantee in this section.
 
 ### 5A Guarantee as to delivery
@@ -128,7 +128,7 @@ This Act shall bind the Crown.
 (2) Where the delivery of the goods fails to comply with the guarantee under this section, Part 2 gives the consumer a right of redress against the supplier and, in that case, the consumer may,—
   (a) if the failure is of a substantial character, reject the goods under section 18(3); and
   (b) in any case, obtain damages under section 18(4) (other than damages relating to the remedies set out in section 18(2)), whether or not the consumer also rejects the goods.
-(3) For the purposes of this section, the reference in section 20(1)(b) to an agent of the supplier must be treated as including any carrier or other person who undertakes to deliver the goods on behalf of the supplier.
+(3) For the purposes of this section, the reference in section 20(1)﻿(b) to an agent of the supplier must be treated as including any carrier or other person who undertakes to deliver the goods on behalf of the supplier.
 (4) A consumer’s rights of redress under Part 2 in relation to the guarantee under this section are limited to those specified in subsection (2).
 
 ### 6 Guarantee as to acceptable quality
@@ -269,7 +269,7 @@ Notwithstanding section 16, where—there shall be no right of redress against t
   (b) by replacing the goods with goods of identical type; or
   (c) where the supplier cannot reasonably be expected to repair the goods, by providing a refund of any money paid or other consideration provided by the consumer in respect of the goods.
 (2) Where a consumer obtains goods to replace defective goods pursuant to subsection (1), the replacement goods shall, for the purposes of this Act, be deemed to be supplied by the supplier and the guarantees and obligations arising under this Act consequent upon a supply of goods to a consumer shall apply to the replacement goods.
-(3) A refund referred to in subsection (1)(c) means a refund in cash of the money paid or the value of any other consideration provided, or both, as the case may require.
+(3) A refund referred to in subsection (1)﻿(c) means a refund in cash of the money paid or the value of any other consideration provided, or both, as the case may require.
 
 **Provisions relating to rejection of goods**
 
@@ -279,7 +279,7 @@ Notwithstanding section 16, where—there shall be no right of redress against t
   (b) the goods have been disposed of by the consumer, or have been lost or destroyed while in the possession of a person other than the supplier or an agent of the supplier; or
   (c) the goods were damaged after delivery to the consumer for reasons not related to their state or condition at the time of supply; or
   (d) the goods have been attached to or incorporated in any real or personal property and they cannot be detached or isolated without damaging them.
-(2) In subsection (1)(a), the term reasonable time means a period from the time of supply of the goods in which it would be reasonable to expect the defect to become apparent having regard to—
+(2) In subsection (1)﻿(a), the term reasonable time means a period from the time of supply of the goods in which it would be reasonable to expect the defect to become apparent having regard to—
   (a) the type of goods:
   (b) the use to which a consumer is likely to put them:
   (c) the length of time for which it is reasonable for them to be used:
@@ -306,9 +306,9 @@ For the purposes of section 18(3), a failure to comply with a guarantee is of a 
 (1) Where the consumer exercises the right to reject goods, the consumer may choose to have either—and the supplier shall make provision accordingly.
   (a) a refund of any money paid or other consideration provided by the consumer in respect of the rejected goods; or
   (b) goods of the same type and of similar value to replace the rejected goods, where such goods are reasonably available to the supplier as part of the stock of the supplier,—
-(2) A refund referred to in subsection (1)(a) means a refund in cash of the money paid or the value of any other consideration provided, or both, as the case may require.
+(2) A refund referred to in subsection (1)﻿(a) means a refund in cash of the money paid or the value of any other consideration provided, or both, as the case may require.
 (3) The obligation to refund cannot be satisfied by permitting the consumer to acquire goods from the supplier.
-(4) Where a consumer obtains goods to replace rejected goods pursuant to subsection (1)(b), the replacement goods shall, for the purposes of this Act, be deemed to be supplied by the supplier, and the guarantees and obligations arising under this Act consequent upon a supply of goods to a consumer shall apply to the replacement goods.
+(4) Where a consumer obtains goods to replace rejected goods pursuant to subsection (1)﻿(b), the replacement goods shall, for the purposes of this Act, be deemed to be supplied by the supplier, and the guarantees and obligations arising under this Act consequent upon a supply of goods to a consumer shall apply to the replacement goods.
 
 ### 23A Goods subject to collateral credit agreement
 (1) This section applies if—
@@ -316,7 +316,7 @@ For the purposes of section 18(3), a failure to comply with a guarantee is of a 
   (b) the contract is associated with a collateral credit agreement; and
   (c) the supplier is a party to the contract; and
   (d) the consumer exercises the right to reject the goods under this Act.
-(2) A court or a Disputes Tribunal may order that all or any of the rights and obligations of the consumer under the collateral credit agreement vest in the supplier.
+(2) A court or the Disputes Tribunal may order that all or any of the rights and obligations of the consumer under the collateral credit agreement vest in the supplier.
 (3) In this section,—
   - **collateral credit agreement** , in relation to a contract for the supply of goods, means a contract or an agreement that—
     (a) is arranged or procured by the supplier of the goods; and
@@ -355,7 +355,7 @@ Notwithstanding section 25, there shall be no right of redress against the manuf
     (i) below the price paid or payable by the consumer for the goods; or
     (ii) below the average retail price of the goods at the time of supply,—
   (b) for any loss or damage to the consumer or that other person resulting from the failure (other than loss or damage through a reduction in value of the goods) which was reasonably foreseeable as liable to result from the failure.
-(2) Subject to subsection (3), where the consumer, or any person who acquires the goods from or through the consumer, is entitled by an express guarantee given by the manufacturer to require the manufacturer to remedy the failure by—no action shall be commenced under subsection (1)(a) unless the consumer or that other person has required the manufacturer to remedy the failure and the manufacturer—
+(2) Subject to subsection (3), where the consumer, or any person who acquires the goods from or through the consumer, is entitled by an express guarantee given by the manufacturer to require the manufacturer to remedy the failure by—no action shall be commenced under subsection (1)﻿(a) unless the consumer or that other person has required the manufacturer to remedy the failure and the manufacturer—
   (a) repairing the goods; or
   (b) replacing the goods with goods of identical type,—
   (c) has either refused or neglected to remedy the failure; or
@@ -431,16 +431,16 @@ For the purposes of section 32(b), a failure to comply with a guarantee is of a 
 
 ### 38 Effects of cancellation
 (1) Where a consumer cancels a contract for the supply of services under this Act,—
-  (a) the consumer shall be entitled to recover from the supplier a refund of any money paid or other consideration provided in respect of the services unless a court or Disputes Tribunal orders that the supplier may retain the whole or part of the money paid or other consideration provided by the consumer:
+  (a) the consumer shall be entitled to recover from the supplier a refund of any money paid or other consideration provided in respect of the services unless a court or the Disputes Tribunal orders that the supplier may retain the whole or part of the money paid or other consideration provided by the consumer:
   (b) so far as the contract has been performed at the time of the cancellation, no party shall, by reason of the cancellation, be divested of any property transferred or money paid pursuant to the contract, except as otherwise provided in paragraph (a):
   (c) so far as the contract remains unperformed at the time of the cancellation, no party shall be obliged or entitled to perform it further.
 (2) Nothing in subsection (1) shall affect—
   (a) the right of a party to recover damages in respect of a misrepresentation or the repudiation or breach of the contract by another party; or
-  (b) the right of the consumer to recover damages under section 32(b)(ii) or 32(c) for failure to comply with a guarantee; or
+  (b) the right of the consumer to recover damages under section 32(b)﻿(ii) or 32(c) for failure to comply with a guarantee; or
   (c) the right of the consumer under this Act to reject goods supplied in connection with the service.
 
 ### 39 Ancillary power of court or Disputes Tribunal to grant relief
-(1) Where a consumer cancels under this Act a contract for the supply of services, a court or a Disputes Tribunal, in any proceedings or on application made for the purpose, may from time to time if it is just and practicable to do so, make an order or orders granting relief under this section.
+(1) Where a consumer cancels under this Act a contract for the supply of services, a court or the Disputes Tribunal, in any proceedings or on application made for the purpose, may from time to time if it is just and practicable to do so, make an order or orders granting relief under this section.
 (2) An order under this section may—
   (a) vest in any party to the proceedings the whole or any part of any real or personal property that was the subject of the contract or was the whole or part of the consideration for it:
   (b) direct any party to the proceedings to transfer or assign to any other such party or to give him or her the possession of the whole or any part of any real or personal property that was the subject of the contract or was the whole or part of the consideration for it:
@@ -454,7 +454,7 @@ For the purposes of section 32(b), a failure to comply with a guarantee is of a 
   (c) any expenditure incurred by the consumer or the supplier in or for the purpose of the performance of the service; and
   (d) the extent to which the supplier or the consumer was or would have been able to perform the contract in whole or in part; and
   (e) such other matters as the court or the Tribunal thinks fit.
-(5) No order shall be made under subsection (2)(a) that would have the effect of depriving a person, not being a party to the contract, of the possession of or any estate or interest in any property acquired by him or her in good faith and for valuable consideration.
+(5) No order shall be made under subsection (2)﻿(a) that would have the effect of depriving a person, not being a party to the contract, of the possession of or any estate or interest in any property acquired by him or her in good faith and for valuable consideration.
 (6) No order shall be made under this section in respect of any property if any party to the contract has so altered his or her position in relation to the property, whether before or after the cancellation of the contract, that, having regard to all relevant circumstances, it would in the opinion of the court or Tribunal be inequitable to any party to make such an order.
 (7) An application for an order under this section may be made by—
   (a) the consumer; or
@@ -468,7 +468,7 @@ For the purposes of section 32(b), a failure to comply with a guarantee is of a 
   (b) the contract is associated with a collateral credit agreement; and
   (c) the supplier is a party to the contract; and
   (d) the consumer exercises the right to cancel the contract for the supply of the services under this Act.
-(2) A court or a Disputes Tribunal may order that all or any of the rights and obligations of the consumer under the collateral credit agreement vest in the supplier.
+(2) A court or the Disputes Tribunal may order that all or any of the rights and obligations of the consumer under the collateral credit agreement vest in the supplier.
 (3) In this section,—
   - **collateral credit agreement** , in relation to a contract for the supply of services, means a contract or an agreement that—
     (a) is arranged or procured by the supplier of the services; and
@@ -506,7 +506,7 @@ Nothing in this Part limits or affects—
     (i) are in trade; and
     (ii) agree to contract out of the provisions of this Act; and
   (d) it is fair and reasonable that the parties are bound by the provision in the agreement.
-(2A) If, in any case, a court is required to decide what is fair and reasonable for the purposes of subsection (2)(d), the court must take account of all the circumstances of the agreement, including—
+(2A) If, in any case, a court is required to decide what is fair and reasonable for the purposes of subsection (2)﻿(d), the court must take account of all the circumstances of the agreement, including—
   (a) the subject matter of the agreement; and
   (b) the value of the goods, services, gas, or electricity (as relevant); and
   (c) the respective bargaining power of the parties, including—
@@ -547,7 +547,7 @@ The damages that a consumer may recover for a failure of goods supplied under a 
   (a) there has been a failure of the acceptable quality guarantee in section 7A in the supply of gas or electricity to a consumer by a retailer, as determined—
     (i) by the retailer; or
     (ii) if the retailer does not make a determination or if the retailer's determination is challenged, by the dispute resolution scheme following a complaint made under section 43EA of the Gas Act 1992 or under section 95 of the Electricity Industry Act 2010 (as the case requires); or
-    (iii) by a court or a Disputes Tribunal (if a court or a Disputes Tribunal makes a determination on the issue); and
+    (iii) by a court or the Disputes Tribunal (if a court or the Disputes Tribunal makes a determination on the issue); and
   (b) the failure of acceptable quality was wholly or partly the result of an event, circumstance, or condition associated with—
     (i) a gas pipeline or other equipment that was, at the time of the failure, the responsibility of a person then supplying line function services (a responsible party); or
     (ii) electricity lines or other equipment that was, at the time of the failure, the responsibility of a person (including Transpower (as defined in the Electricity Industry Act 2010)) then supplying line function services (a responsible party); and
@@ -566,24 +566,24 @@ The damages that a consumer may recover for a failure of goods supplied under a 
   (b) in the case of electricity, in section 95 of the Electricity Industry Act 2010.
 
 ### 47 Jurisdiction
-(1) Any court of competent jurisdiction, and any Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988 and having jurisdiction under this section, may hear and determine any claim for costs, damages, or for a refund payable under this Act and may make an order under section 23A or 39.
+(1) Any court of competent jurisdiction, and the Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 if it has jurisdiction under this section, may hear and determine any claim for costs, damages, or for a refund payable under this Act and may make an order under section 23A or 39.
 (2) In this section, court of competent jurisdiction means—
   (a) the High Court:
-  (b) a District Court in any case where—
-    (i) a claim referred to in subsection (1) does not exceed $200,000; or
+  (b) the District Court in any case where—
+    (i) a claim referred to in subsection (1) does not exceed $350,000; or
     (ii) an order under section 23A or 39 does not exceed the limits prescribed by subsection (3).
-(3) A District Court may make an order under section 23A or 39 if the order does not—
-  (a) require a person to pay an amount exceeding $200,000:
-  (b) vest any property exceeding $200,000 in value in any person:
-  (c) direct the transfer or assignment or delivery of possession of any property exceeding $200,000 in value:
-  (d) permit a supplier to retain any money paid or other consideration provided in excess of an aggregate value of $200,000.
-(4) Subject to subsection (6), a Disputes Tribunal shall have jurisdiction to hear and determine any claim referred to in subsection (1) where the claim does not exceed $15,000.
-(5) Subject to subsection (6), a Disputes Tribunal may make an order under section 23A or 39 if the order does not—
+(3) The District Court may make an order under section 23A or 39 if the order does not—
+  (a) require a person to pay an amount exceeding $350,000:
+  (b) vest any property exceeding $350,000 in value in any person:
+  (c) direct the transfer or assignment or delivery of possession of any property exceeding $350,000 in value:
+  (d) permit a supplier to retain any money paid or other consideration provided in excess of an aggregate value of $350,000.
+(4) Subject to subsection (6), the Disputes Tribunal shall have jurisdiction to hear and determine any claim referred to in subsection (1) where the claim does not exceed $15,000.
+(5) Subject to subsection (6), the Disputes Tribunal may make an order under section 23A or 39 if the order does not—
   (a) require a person to pay an amount exceeding $15,000:
   (b) vest any property exceeding $15,000 in value:
   (c) direct the transfer or assignment or delivery of possession of any property exceeding $15,000 in value:
   (d) permit a supplier to retain any money paid or other consideration provided in excess of an aggregate value of $15,000.
-(6) Where in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunals Act 1988, subsections (4) and (5) shall be read as if every reference in those subsections to $15,000 were a reference to $20,000.
+(6) Where in respect of any proceedings properly before the Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunal Act 1988, subsections (4) and (5) shall be read as if every reference in those subsections to $15,000 were a reference to $20,000.
 
 **Amendment to Sale of Goods Act 1908**
 
