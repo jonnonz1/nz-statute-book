@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -143,8 +143,9 @@ In this Act, unless the context otherwise requires,—
     (b) includes a person who is in substance so engaged, employed, or contracted even though the form of the contract between the parties is technically that of vendor and purchaser
   - **individual employment agreement** means an employment agreement entered into by 1 employer and 1 employee who is not bound by a collective agreement that binds the employer
   - **intended agreement** includes part of an intended agreement
-  - **Judge** means a Judge of the court; and includes a temporary Judge
+  - **Judge** means a Judge of the court; and includes an acting Judge
   - **Labour Inspector** means an employee of the department designated under section 223 to be a Labour Inspector
+  - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **lockout** has the meaning given to it by section 82
   - **mediation** includes mediation services provided under section 144 by the chief executive, and any other mediation services that are provided (whether by the chief executive or any other person) to help resolve employment relationship problems
   - **mediation services** means the mediation services provided, under section 144, by the chief executive
@@ -2988,7 +2989,7 @@ In determining an appropriate penalty for a breach referred to in section 133, t
 (6) Despite subsection (5), if a court refuses to make a pecuniary penalty order under section 142E, an action for the recovery of a penalty under this Act in relation to the same matter must be commenced within 3 months after the refusal.
 
 ### 135A Chief executive or Labour Inspector may enforce payment of penalty
-The chief executive or a Labour Inspector may recover in a District Court as a debt due to the Crown any penalty ordered by the Authority or the court under section 135 to be paid to the Crown.
+The chief executive or a Labour Inspector may recover in the District Court as a debt due to the Crown any penalty ordered by the Authority or the court under section 135 to be paid to the Crown.
 
 ### 136 Application of penalties recovered
 (1) Subject to any order made under subsection (2), every penalty recovered in any penalty action, whether before the Authority or the court, must be paid into the Authority or the court, as the case requires, and not to the plaintiff, and must then be paid by the Authority or the court into a Crown Bank Account.
@@ -3098,7 +3099,7 @@ The chief executive or a Labour Inspector may recover in a District Court as a d
 **Enforcement of order**
 
 ### 141 Enforcement of order
-(1) Any order made or judgment given under any of the Acts referred to in section 223(1) by the Authority or the court (including an order imposing a fine) may be filed in any District Court, and is then enforceable in the same manner as an order made or judgment given by the District Court.
+(1) Any order made or judgment given under any of the Acts referred to in section 223(1) by the Authority or the court (including an order imposing a fine) may be filed in the District Court, and is then enforceable in the same manner as an order made or judgment given by the District Court.
 (2) To avoid doubt, an order imposing a fine is enforceable under Part 3 of the Summary Proceedings Act 1957.
 
 **Limitation period for actions other than personal grievances**
@@ -3182,7 +3183,7 @@ If the court determines that it should make a pecuniary penalty order, the maxim
     (ii) 3 times the amount of the financial gain made by the body corporate from the breach.
 
 ### 142H Chief executive or Labour Inspector may enforce payment of pecuniary penalty
-The chief executive or a Labour Inspector may recover in a District Court as a debt due to the Crown any pecuniary penalty ordered by the court under section 142E.
+The chief executive or a Labour Inspector may recover in the District Court as a debt due to the Crown any pecuniary penalty ordered by the court under section 142E.
 
 ### 142I Limitation period for actions for pecuniary penalty orders
 An application for a pecuniary penalty order under this Part must be made within 12 months after the earlier of—
@@ -3259,7 +3260,7 @@ A banning order may be—
 (3) The department, and any other person the court thinks fit, may attend and be heard at the hearing of an application for leave.
 
 ### 142R Offence to breach banning order
-A person who breaches a banning order commits an offence and is liable on conviction by a District Court or the High Court to a fine not exceeding $200,000, a term of imprisonment not exceeding 3 years, or both.
+A person who breaches a banning order commits an offence and is liable on conviction by the District Court or the High Court to a fine not exceeding $200,000, a term of imprisonment not exceeding 3 years, or both.
 
 **Standard of proof**
 
@@ -3647,7 +3648,7 @@ If a matter before the Authority relates principally to an alleged breach of emp
 (3) Except as provided in this Act, no court has jurisdiction in relation to any matter that, under subsection (1), is within the exclusive jurisdiction of the Authority.
 
 ### 162 Application of law relating to contracts
-Subject to sections 163 and 164, the Authority may, in any matter related to an employment agreement, make any order that the High Court or a District Court may make under any enactment or rule of law relating to contracts, including—
+Subject to sections 163 and 164, the Authority may, in any matter related to an employment agreement, make any order that the High Court or the District Court may make under any enactment or rule of law relating to contracts, including—
   (a) the Contracts (Privity) Act 1982:
   (b) the Contractual Mistakes Act 1977:
   (c) the Contractual Remedies Act 1979:
@@ -3950,6 +3951,7 @@ The making of an election under section 179 does not operate as a stay of procee
   (i) to hear and determine any application for an injunction of a type specified in section 100:
   (j) to hear and determine any application for review of the type referred to in section 194:
   (k) to issue warrants under section 231:
+  (ka) to hear and determine any application for review of the type referred to in section 237D:
   (l) to exercise its powers in respect of any offence against this Act:
   (m) to exercise such other functions and powers as are conferred on it by this or any other Act.
 (2) The court does not have jurisdiction to entertain an application for summary judgment.
@@ -4013,7 +4015,7 @@ The provisions of Schedule 3 have effect in relation to the court and matters wi
   (c) the court acts in bad faith.
 
 ### 194 Application for review
-(1) If any person wishes to apply for review under Part 1 of the Judicature Amendment Act 1972, or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in relation to the exercise, refusal to exercise, or proposed or purported exercise by—of a statutory power or statutory power of decision (as defined by section 3 of the Judicature Amendment Act 1972) conferred by or under this Act or any of the provisions of Parts 5, 6, 7, or 7A of the State Sector Act 1988, the provisions of subsections (2) to (4) of this section apply.
+(1) If any person wishes to apply for review under the Judicial Review Procedure Act 2016, or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in relation to the exercise, refusal to exercise, or proposed or purported exercise by—of a statutory power or statutory power of decision (as defined by section 4 of the Judicial Review Procedure Act 2016) conferred by or under this Act or any of the provisions of Parts 5, 6, 7, or 7A of the State Sector Act 1988, the provisions of subsections (2) to (4) of this section apply.
   (a) the Authority; or
   (b) an officer of the Authority or the court; or
   (c) an employer, or that employer's representative; or
@@ -4039,13 +4041,17 @@ The provisions of Schedule 3 have effect in relation to the court and matters wi
 (2) No person summoned under this Act as a witness is liable to a fine under this Act unless there has been paid or tendered to that person in accordance with clause 6 of Schedule 2 the amount fixed under subclause (3) of that clause or in accordance with clause 7 of Schedule 3 the amount fixed under subclause (3) of that clause.
 
 ### 196 Contempt of court or Authority
-(1) This section applies where any person—
-  (a) assaults, threatens, intimidates, or wilfully insults any person, being a member of the Authority, a Judge, an officer of the Authority, a Registrar of the court, any other officer of the court, or any witness, during that person's sitting or attendance in the Authority or the court, or in going to or returning from the Authority or the court; or
-  (b) wilfully interrupts or obstructs the proceedings of the Authority or the court or otherwise misbehaves in the Authority or the court; or
-  (c) wilfully and without lawful excuse disobeys any order or direction of the Authority or the court in the course of the hearing of any proceedings.
-(2) Where this section applies,—
-  (a) any constable, with or without the assistance of any other person, may, by order of the Authority or the court, take the offender into custody, and detain the offender until the rising of the Authority or the court:
-  (b) a Judge, if the Judge thinks fit, may sentence the offender to imprisonment for any period not exceeding 3 months, or sentence the offender to pay a fine not exceeding $5,000 for every such offence; and, in default of payment of any such fine, may direct that the offender be imprisoned for any period not exceeding 3 months, unless the fine is sooner paid.
+(1) This section applies if any person—
+  (a) wilfully insults a member of the Authority, a Judge, an officer of the Authority, a Registrar of the court, any other officer of the court, or any witness during his or her sitting or attendance in the Authority or the court, or in going to or returning from the Authority or the court; or
+  (b) wilfully interrupts the proceedings of the Authority or the court or otherwise misbehaves in an investigation meeting or a hearing of the Authority or the court; or
+  (c) wilfully and without lawful excuse disobeys any order or direction of the Authority or the court in the course of an investigation meeting or the hearing of any proceedings.
+(2) If this section applies,—
+  (a) any constable or officer of the court, with or without the assistance of any other person, may, by order of the Authority or a Judge, take the person into custody and detain him or her until the rising of the Authority or the court; and
+  (b) the Judge may, if he or she thinks fit, sentence the person to—
+    (i) imprisonment for a period not exceeding 3 months; or
+    (ii) a fine not exceeding $5,000 for each offence; and
+  (c) in default of payment of any such fine, the Judge may direct that the offender be imprisoned for any period not exceeding 3 months, unless the fine is sooner paid.
+(3) Nothing in this section limits or affects any power or authority of the court to punish any person for contempt of court in any case to which this section does not apply.
 
 ### 197 Constitution of court
 The court consists of—
@@ -4056,6 +4062,9 @@ The court consists of—
 (1) The chief executive may from time to time designate such number of employees of the department to act as Registrars of the court as may be required, and appoint such other officers of the court as may be required.
 (2) Subject to section 153(6), an employee designated under subsection (1) may also hold any other office or position in the Authority or the department.
 
+### 198A Registrar may take affidavit
+A Registrar may take an affidavit.
+
 ### 199 Seal of court
 The court is to have a seal, which is to be judicially noticed by all courts and for all purposes.
 
@@ -4063,9 +4072,30 @@ The court is to have a seal, which is to be judicially noticed by all courts and
 
 ### 200 Appointment of Judges
 (1) The Judges of the court are to be appointed by the Governor-General on the advice of the Attorney-General.
-(2) No person may be appointed a Judge of the court unless that person has held a practising certificate as a barrister or solicitor for at least 7 years.
+(2) A person may be appointed a Judge only if—
+  (a) that person has for at least 7 years held a New Zealand practising certificate as a barrister or as a barrister and solicitor; or
+  (b) that person—
+    (i) holds a degree in law granted or issued by any university within New Zealand; and
+    (ii) has been admitted as a barrister and solicitor of the High Court; and
+    (iii) has held a practising certificate in a jurisdiction specified by Order in Council—
+      (A) for at least 7 years; or
+      (B) for a lesser number of years but when that number of years is added to the number of years the person has held a New Zealand practising certificate the total number of years is at least 7.
 (3) The jurisdiction of the court is not affected by any vacancy in the number of Judges of the court.
-(4) A Judge of the court must not undertake any other paid employment or hold any other office (whether paid or not) unless the Chief Judge is satisfied that the employment or other office is compatible with judicial office.
+(4) The Attorney-General must publish information explaining his or her process for—
+  (a) seeking expressions of interest for the appointment of Judges of the court; and
+  (b) nominating a person for appointment as a Judge of the court.
+(5) A Judge must not practise as a lawyer.
+
+### 200AA Judge not to undertake other employment or hold other office
+(1) A Judge of the court must not undertake any other paid employment or hold any other office (whether paid or not) without the approval of the Chief Judge.
+(2) An approval under subsection (1) may be given only if the Chief Judge is satisfied that undertaking the employment or holding the office is consistent with the Judge's judicial office.
+(3) However, subsection (1) does not apply to another office if an enactment permits or requires the office to be held by a Judge.
+
+### 200AB Protocol relating to activities of Judges
+(1) The Chief Justice must develop and publish a protocol containing guidance on—
+  (a) the employment, or types of employment, that he or she considers may be undertaken consistent with being a Judge; and
+  (b) the offices, or types of offices, that he or she considers may be held consistent with being a Judge.
+(2) The Chief Justice may develop and publish a protocol under subsection (1) only after consultation with the Chief Judge.
 
 ### 200A Judges act on full-time basis but may be authorised to act part-time
 (1) A person acts as a Judge of the court on a full-time basis unless he or she is authorised by the Attorney-General to act on a part-time basis.
@@ -4084,7 +4114,7 @@ The court is to have a seal, which is to be judicially noticed by all courts and
 ### 201 Seniority
 (1) Subject to subsections (2) and (3), the Judges of the court other than the Chief Judge have seniority among themselves according to the dates of their appointments as Judges of the court.
 (2) If 2 or more of them are both appointed on the same day, they have seniority according to the precedence assigned to them by the Governor-General or, failing any such assignment, according to the order in which they take the judicial oath.
-(3) Every permanent Judge has seniority over every temporary Judge.
+(3) Every permanent Judge has seniority over every acting Judge.
 
 ### 202 Senior Judge to act as Chief Judge in certain circumstances
 (1) While any vacancy exists in the office of Chief Judge, or during any absence from New Zealand of the Chief Judge, the senior Judge of the court in New Zealand has authority to act as Chief Judge and to execute the duties of that office and to exercise all powers that may be lawfully exercised by the Chief Judge.
@@ -4114,11 +4144,13 @@ Every Judge of the court must retire from office on attaining the age of 70 year
 (4) Any determination made under subsection (1)﻿(c), and any provision of any such determination, may be made so as to come into force on a date specified in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
 (5) Every determination made under subsection (1)﻿(c), and every provision of any such determination, in respect of which no date is specified under subsection (4) comes into force on the date of the making of the determination.
 
-### 207 Appointment of temporary Judges
-(1) The Governor-General may from time to time, whenever in the Governor-General's opinion it is necessary or expedient to make a temporary appointment, appoint 1 or more temporary Judges of the court to hold office for such period as is specified in the warrant of appointment.
+### 207 Appointment of acting Judges
+(1) The Governor-General may from time to time, whenever in the Governor-General's opinion it is necessary or expedient to make a temporary appointment, appoint 1 or more acting Judges of the court to hold office for such period as is specified in the warrant of appointment.
 (2) The period so specified may not exceed 2 years or, in the case of a person who has attained the age of 70 years, 12 months; but any person appointed under this section may from time to time be reappointed.
 (3) Except as provided in subsection (4), no person may be appointed as a Judge under this section unless that person is eligible for appointment as a Judge under section 200.
-(4) A person otherwise qualified who has attained the age of 70 years (including a Judge who has retired after attaining that age) may, subject to subsection (2), be appointed as a Judge under this section.
+(4) A person may, subject to subsection (2), be appointed as an acting Judge under this section if he or she is a former Judge of the court or a current or former District Court Judge.
+(4A) A superannuation subsidy must not be paid to a person who is appointed as an acting Judge under this section.
+(4B) Subsection (1) does not apply to a compulsory employer contribution within the meaning of section 101A of the KiwiSaver Act 2006.
 (5) The power conferred by this section may be exercised at any time, even though there may be 1 or more persons holding the office of Judge, whether under section 200 or this section.
 (6) Every Judge appointed under this section is to be paid—
   (a) such salary, not exceeding the salary payable for the time being to Judges other than the Chief Judge, as the Governor-General in Council directs; and
@@ -4161,7 +4193,7 @@ In any matter before the court the Judge may, of the Judge's own motion, or on t
 **Review of proceedings**
 
 ### 213 Review of proceedings before court
-(1) If, in relation to any proceedings before the court, any person wishes to apply for a review under Part 1 of the Judicature Amendment Act 1972 or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or an injunction, the provisions of subsections (2) to (4) apply.
+(1) If, in relation to any proceedings before the court, any person wishes to apply for a review under the Judicial Review Procedure Act 2016 or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or an injunction, the provisions of subsections (2) to (4) apply.
 (2) Despite anything in any other Act or rule of law, the application or proceedings referred to in subsection (1) must be made to or brought in the Court of Appeal.
 (3) The Court of Appeal or a Judge of that court may at any time and after hearing such persons, if any, as it or the Judge thinks fit, give such directions prescribing the procedure to be followed in any particular case under this section as it or the Judge considers expedient having regard to the exigencies of the case and the interests of justice and the object of this Act.
 (4) The decision of the Court of Appeal on any such matter is final and conclusive, and there is no right of review of or appeal against the court's decision.
@@ -4169,7 +4201,7 @@ In any matter before the court the Judge may, of the Judge's own motion, or on t
 **Appeals**
 
 ### 214 Appeals on question of law
-(1) A party to a proceeding under this Act who is dissatisfied with a decision of the court (other than a decision on the construction of an individual employment agreement or a collective employment agreement) as being wrong in law may, with the leave of the Court of Appeal, appeal to the Court of Appeal against the decision; and section 66 of the Judicature Act 1908 applies to any such appeal.
+(1) A party to a proceeding under this Act who is dissatisfied with a decision of the court (other than a decision on the construction of an individual employment agreement or a collective employment agreement) as being wrong in law may, with the leave of the Court of Appeal, appeal to the Court of Appeal against the decision; and section 56 of the Senior Courts Act 2016 applies to any such appeal.
 (2) A party desiring to appeal to the Court of Appeal under this section against a decision of the Employment Court must, within 28 days after the date of the issue of the decision or within such further time as the Court of Appeal may allow, apply to the Court of Appeal, in such manner as may be directed by rules of court, for leave to appeal to that court.
 (3) The Court of Appeal may grant leave accordingly if, in the opinion of that court, the question of law involved in that appeal is one that, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
 (4) The Court of Appeal, in granting leave under this section, may, in its discretion, impose such conditions as it thinks fit, whether as to costs or otherwise.
@@ -4180,7 +4212,7 @@ In any matter before the court the Judge may, of the Judge's own motion, or on t
 ### 214AA Appeals against decisions under Part 9A
 (1) A party to a proceeding for a declaration of breach, pecuniary penalty order, compensation order, or banning order under Part 9A who is dissatisfied with the decision of the court may appeal to the Court of Appeal against the decision on a question of fact or law, or both.
 (2) An appeal under subsection (1) does not require the leave of the Court of Appeal.
-(3) Section 66 of the Judicature Act 1908 applies to an appeal under subsection (1).
+(3) Section 56 of the Senior Courts Act 2016 applies to an appeal under subsection (1).
 (4) In determining an appeal, the Court of Appeal may confirm, modify, or reverse the decision, or any part of the decision, appealed against.
 (5) An appeal under subsection (1) does not operate as a stay of proceedings to which the appeal relates unless the Court of Appeal orders otherwise.
 
@@ -4188,7 +4220,7 @@ In any matter before the court the Judge may, of the Judge's own motion, or on t
 (1) A party to a proceeding under this Act who is dissatisfied with a decision of the court (other than a decision on the construction of an individual employment agreement or a collective employment agreement) as being wrong in law may, with the leave of the Supreme Court, appeal to the Supreme Court against the decision.
 (2) In its determination of the appeal, the Supreme Court may confirm, modify, or reverse the decision appealed against or any part of that decision.
 (3) Neither an application for leave to appeal nor an appeal operates as a stay of proceedings on the decision to which the application or the appeal relates unless the court or the Supreme Court so orders.
-(4) This section is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
+(4) This section is subject to section 75 of the Senior Courts Act 2016 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
 
 ### 215 Court of Appeal may refer appeals back for reconsideration
 (1) Despite anything in section 214, the Court of Appeal may in any case, instead of determining an appeal under that section, direct the court to reconsider, either generally or in respect of any specified matters, the whole or any specified part of the matter to which the appeal relates.
@@ -4214,7 +4246,7 @@ In determining an appeal under section 214 or section 218, the Court of Appeal m
 (2) Subsection (1) does not apply to an offence under section 142R, but the Criminal Procedure Act 2011 applies to that offence.
 
 ### 218 Appeal to Court of Appeal in respect of order on application for review
-Any party to an application for review or other proceeding under section 194 who is dissatisfied with any final or interlocutory order in respect of the application may appeal to the Court of Appeal; and section 66 of the Judicature Act 1908 applies to any such appeal.
+Any party to an application for review or other proceeding under section 194 who is dissatisfied with any final or interlocutory order in respect of the application may appeal to the Court of Appeal; and section 56 of the Senior Courts Act 2016 applies to any such appeal.
 
 **Miscellaneous provisions**
 
@@ -4235,6 +4267,45 @@ In order to enable the court or the Authority, as the case may be, to more effec
 
 ### 222 Application of Official Information Act 1982
 Nothing in the Official Information Act 1982 applies to any information held by the department or the Authority or the court in relation to any proceedings brought before the Authority or the court.
+
+### 222A Information regarding reserved judgments
+The Chief Judge must, in consultation with the Chief Justice,—
+  (a) publish information about the process by which parties to proceedings before the court may obtain information about the status of any reserved judgment in those proceedings; and
+  (b) periodically publish information about the number of judgments of the court that he or she considers is outstanding beyond a reasonable time for delivery; and
+  (c) publish information about reserved judgments that he or she considers is useful.
+
+### 222B Recusal guidelines
+The Chief Judge must, in consultation with the Chief Justice, develop and publish guidelines to assist Judges to decide if they should recuse themselves from a proceeding.
+
+### 222C Judge may make order restricting commencement or continuation of proceeding
+(1) A Judge may make an order restricting a person from commencing or continuing civil proceedings in the Employment Court.
+(2) The order may have—
+  (a) a limited effect (a limited order); or
+  (b) an extended effect (an extended order).
+(3) A limited order restrains a party from commencing or continuing civil proceedings on a particular matter in the Employment Court.
+(4) An extended order restrains a party from commencing or continuing civil proceedings on a particular or related matter in the Employment Court.
+(5) Nothing in this section limits the court’s inherent power to control its own proceedings.
+
+### 222D Grounds for making section 222C order
+(1) A Judge may make a limited order under section 222C if, in civil proceedings about the same matter in the court, the Judge considers that at least 2 or more of the proceedings are or were totally without merit.
+(2) A Judge may make an extended order under section 222C if, in at least 2 proceedings about any matter considered by the court, the Judge considers that the proceedings are or were totally without merit.
+(3) In determining whether the proceedings are or were totally without merit, the Judge may take into account the nature of any other interlocutory application or appeal involving the party to be restrained, but is not limited to those considerations.
+(4) The proceedings concerned must be proceedings commenced or continued by the party to be restrained, whether against the same person or different persons.
+(5) For the purpose of this section and sections 222E and 222F, an appeal in a civil proceeding must be treated as part of that proceeding and not as a distinct proceeding.
+
+### 222E Terms of section 222C order
+(1) An order made under section 222C may restrain a party from commencing or continuing any civil proceeding (whether generally or against any particular person or persons) of any type specified in the order without first obtaining the leave of the court.
+(2) An order made under section 222C, whether limited or extended, has effect for a period of up to 3 years as specified by the Judge, but the Judge making it may specify a longer period (which must not exceed 5 years) if he or she is satisfied that there are exceptional circumstances justifying the longer period.
+
+### 222F Procedure and appeals relating to section 222C orders
+(1) A party to any proceeding may apply for a limited order or an extended order.
+(2) A Judge may make an order under section 222C (a section 222C order) either on an application under subsection (1) or on his or her own initiative.
+(3) An application for leave to continue or commence a civil proceeding by a party subject to a section 222C order may be made without notice, but the court may direct that the application for leave be served on any specified person.
+(4) An application for leave must be determined on the papers, unless the Judge considers that an oral hearing should be conducted because there are exceptional circumstances and it is appropriate to do so in the interests of justice.
+(5) A Judge’s determination of an application for leave is final.
+(6) The party against whom a section 222C order is made may appeal against the order to the Court of Appeal.
+(7) The appellant in an appeal under subsection (6) or the applicant for the section 222C order concerned may, with the leave of the Supreme Court, appeal against the determination of that appeal to the Supreme Court.
+(8) A court determining an appeal under this section has the same powers as the court appealed from has to determine an application or appeal, as the case may be.
 
 ## Part 11 — General provisions
 
@@ -4340,7 +4411,7 @@ An improvement notice may be withdrawn at any time by a Labour Inspector, but th
   (b) if any objection lodged before the close of the period specified in subsection (2) is withdrawn (whether before or after the close of that period).
 (4) The consequences are that the demand notice—
   (a) imposes a legal requirement on the employer to comply with it; and
-  (b) is prima facie evidence before the court or the Authority or (for the purposes of paragraph (d), before a District Court) that the employer owes to the employee the wages or holiday pay or other money specified in the notice; and
+  (b) is prima facie evidence before the court or the Authority or (for the purposes of paragraph (d), before the District Court) that the employer owes to the employee the wages or holiday pay or other money specified in the notice; and
   (c) may be enforced by the making by the Authority of a compliance order under section 137; and
   (d) is enforceable as a judgment debt under section 141 (which applies with any necessary modifications).
 
@@ -4529,6 +4600,13 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (f) prescribing charges or fees in relation to—
     (i) services provided by the chief executive under this Act; or
     (ii) the functions of the Authority or the court:
+  (faa) in relation to a service performed by a Registrar of the court under this Act and specified in regulations made under paragraph (fab), authorising a Registrar of the court to charge a reasonable fee calculated on the actual expense incurred in performing the service:
+  (fab) specifying the services (other than services for which a fee is already prescribed under this Act) performed by a Registrar of the court under this Act for which that person may charge a fee:
+  (fac) making provision in relation to the postponement, under the regulations, of the payment of any fee, which provision may (without limitation) include provision—
+    (i) for the recovery of the fee after the expiry of the period of postponement; and
+    (ii) for restrictions to apply (after the expiry of the period of postponement and so long as the fee remains unpaid) on the steps that may be taken in the proceedings in respect of which the fee is payable:
+  (fad) providing for the manner in which an application for the exercise of a power specified in section 237B(1) or 237C(1) is to be made, including, without limitation, requiring the application to be in a form approved for the purpose by the chief executive:
+  (fae) providing for the refund of fees paid for a review of a decision of a Registrar of the court, if the decision is overturned in its entirety by a Judge:
   (fa) prescribing regulatory agencies for the purposes of section 233B(6):
   (fb) prescribing infringement offences for the purposes of section 235A(b):
   (fc) prescribing infringement fees (not exceeding $1,000) for the purposes of section 235E(1)﻿(b):
@@ -4540,6 +4618,34 @@ The Governor-General may from time to time, by Order in Council, make regulation
 
 ### 237A Amendments to Schedule 1A
 [Repealed]
+
+### 237B Regulations providing for waiver, etc, of fees
+(1) In order to promote access to justice, the Governor-General may, by Order in Council, make regulations authorising a Registrar of the court to waive, reduce, or postpone the payment of a fee required in connection with a proceeding or an intended proceeding, or to refund in whole or in part a fee that has already been paid.
+(2) Regulations made under subsection (1) must provide that a Registrar of the court may exercise a power under the regulations only if he or she is satisfied on the basis of prescribed criteria that—
+  (a) the person responsible for payment of the fee is unable to pay or absorb the fee in whole or in part; or
+  (b) unless 1 or more of those powers are exercised in respect of a proceeding that concerns a matter of genuine public interest, the proceeding is unlikely to be commenced or continued.
+(3) For the purposes of subsection (2), regulations may prescribe criteria—
+  (a) for assessing a person's ability to pay a fee; and
+  (b) for identifying proceedings that concern matters of genuine public interest.
+(4) No fee is payable for an application for the exercise of a power specified in subsection (1).
+
+### 237C Postponement of fees
+(1) The Governor-General may, by Order in Council, make regulations authorising a Registrar of the court to postpone the payment of a fee pending the determination of—
+  (a) an application for the exercise of a power specified in section 237B(1); or
+  (b) an application for review under section 237D.
+(2) No fee is payable for an application for the exercise of a power specified in subsection (1).
+
+### 237D Reviews of decisions of Registrars concerning fees
+(1) A person who disagrees with a decision of a Registrar of the court under regulations made under section 237B(1) may apply to a Judge for a review of that decision.
+(2) The application must be made within—
+  (a) 20 working days after the date on which the applicant is notified of the decision; or
+  (b) any further time that the Judge allows on application, which may be made either before or after the expiry of that period.
+(3) The application may be made informally.
+(4) A review is—
+  (a) conducted by way of rehearing of the matter in respect of which the Registrar of the court made the decision; and
+  (b) dealt with on the papers, unless the Judge directs otherwise.
+(5) The Judge may confirm, modify, or reverse the decision of the Registrar of the court.
+(6) No fee is payable on the application.
 
 ### 238 No contracting out
 The provisions of this Act have effect despite any provision to the contrary in any contract or agreement.
@@ -4629,7 +4735,7 @@ Despite the repeals effected by this Act, the Chief of the Authority may from ti
 
 ### 253 Existing appointments
 (1) The person who immediately before 2 October 2000 holds office as the Chief Judge of the Employment Court constituted by the Employment Contracts Act 1991 is, without further appointment, deemed as from the commencement of that day to have been duly appointed as the Chief Judge of the Employment Court under this Act.
-(2) The persons who immediately before 2 October 2000 hold office as Judges (other than temporary Judges) of the Employment Court constituted under the Employment Contracts Act 1991 are, without further appointment, deemed as from the commencement of that day to have been appointed as Judges of the Employment Court constituted under this Act.
+(2) The persons who immediately before 2 October 2000 hold office as Judges (other than acting Judges) of the Employment Court constituted under the Employment Contracts Act 1991 are, without further appointment, deemed as from the commencement of that day to have been appointed as Judges of the Employment Court constituted under this Act.
 
 ### 254 Application, savings, and transitional provisions relating to amendments to Act
 The application, savings, and transitional provisions set out in Schedule 1AA, which relate to amendments made to this Act after 1 January 2013, have effect for the purposes of this Act.
@@ -4639,7 +4745,8 @@ The application, savings, and transitional provisions set out in Schedule 1AA, w
 ### 1 Interpretation
 In this schedule,—
   - **2014 Act** means the Employment Relations Amendment Act 2014
-  - **2016 Act** means the Employment Relations Amendment Act 2016.
+  - **2016 Act** means the Employment Relations Amendment Act 2016
+  - **2016 (No 2) Act** means the Employment Relations Amendment Act (No 2) 2016.
 
 ### 2 Application, savings, and transitional provisions arising from 2014 Act
 Amendments to section 4 (Parties to employment relationship to deal with each other in good faith)
@@ -4685,6 +4792,9 @@ Repeal of section 237A
   (a) apply only to proceedings filed after the commencement of the 2016 Act; but
   (b) may apply to conduct whether it occurred before, on, or after the commencement of the 2016 Act.
 (7) Section 234 (which relates to the circumstances in which officers, directors, or agents of a company are liable for minimum wages and holiday pay) continues to apply (despite its repeal by section 35 of the 2016 Act) to proceedings brought in relation to conduct that occurred before the commencement of the 2016 Act, whether or not the proceedings were brought before that commencement.
+
+### 4 Application, savings, and transitional provision arising from 2016 (No 2) Act
+A person holding office as a temporary Judge under section 207 immediately before the commencement of this clause continues to hold office on the same terms as if he or she were appointed as an acting Judge under section 207.
 
 ## Schedule 1 — Essential services
 
@@ -5132,9 +5242,9 @@ Any document relating to a matter before the Authority may be served out of New 
   (b) the department must provide any amount fixed under subclause (3) as the amount required to be paid or tendered to that person.
 
 ### 7 Evidence at distance
-(1) For the purpose of obtaining the evidence of witnesses at a distance, the Authority or, while the Authority is not sitting, any member of the Authority, has all the powers and functions of a District Court Judge under the District Courts Act 1947.
-(2) The provisions of the District Courts Act 1947 relating to the taking of evidence at a distance apply, with the necessary modifications, as if the Authority were a District Court.
-(3) Despite subclause (2) evidence may, for the purposes of this Act, be taken at a distance by a Registrar of a District Court.
+(1) For the purpose of obtaining the evidence of witnesses at a distance, the Authority or, while the Authority is not sitting, any member of the Authority, has all the powers and functions of a District Court Judge under the District Court Act 2016.
+(2) The provisions of the District Court Act 2016 relating to the taking of evidence at a distance apply, with the necessary modifications, as if the Authority were the District Court.
+(3) Despite subclause (2) evidence may, for the purposes of this Act, be taken at a distance by a Registrar of the District Court.
 
 ### 8 Power to take evidence on oath
 (1) The Authority may take evidence on oath and, for that purpose, any member of the Authority, or any other person acting under the express or implied direction of the Authority or a member of the Authority, may administer an oath.
@@ -5234,9 +5344,9 @@ Any document relating to a matter before the court may be served out of New Zeal
 (4) The amount fixed under subclause (3) is to be the estimated amount of the allowances and travelling expenses (but not fees) to which, in the opinion of the court or person, the witness will be entitled, according to the prescribed scales, if the witness attends at the time and place specified in the summons.
 
 ### 8 Evidence at distance
-(1) For the purpose of obtaining the evidence of witnesses at a distance, the court, or, while the court is not sitting, any Judge, has all the powers and functions of a District Court Judge under the District Courts Act 1947.
-(2) The provisions of the District Courts Act 1947 relating to the taking of evidence at a distance apply, with the necessary modifications, as if the court were a District Court.
-(3) Despite subclause (2) evidence may, for the purposes of this Act, be taken at a distance by a Registrar of a District Court.
+(1) For the purpose of obtaining the evidence of witnesses at a distance, the court, or, while the court is not sitting, any Judge, has all the powers and functions of a District Court Judge under the District Court Act 2016.
+(2) The provisions of the District Court Act 2016 relating to the taking of evidence at a distance apply, with the necessary modifications, as if the court were the District Court.
+(3) Despite subclause (2) evidence may, for the purposes of this Act, be taken at a distance by a Registrar of the District Court.
 
 ### 9 Power to take evidence on oath
 (1) The court may take evidence on oath, and for that purpose any Judge, or any other person acting under the express or implied direction of the court or a Judge, may administer an oath.
@@ -5253,8 +5363,8 @@ In any proceedings the court may, if it thinks fit, dispense with any evidence o
 (2) Where proceedings are resolved by the court making a consent order as to the terms of settlement, the court may make an order prohibiting the publication of all or part of the contents of that settlement, subject to such conditions as the court thinks fit.
 
 ### 13 Discovery
-(1) The court may, in relation to discovery that relates to proceedings brought or intended to be brought in the court, or intended to be brought in the Authority, make any order that a District Court may make under section 56A or 56B of the District Courts Act 1947; and those sections apply accordingly with all necessary modifications.
-(2) Every application for an order under section 56A or section 56B of the District Courts Act 1947 (as applied by subclause (1)) is to be dealt with in accordance with regulations made under this Act.
+(1) The court may, in relation to discovery that relates to proceedings brought or intended to be brought in the court, or intended to be brought in the Authority, make any order that the District Court may make under section 105 or 106 of the District Court Act 2016; and those sections apply accordingly with all necessary modifications.
+(2) Every application for an order under section 105 or 106 of the District Court Act 2016 (as applied by subclause (1)) is to be dealt with in accordance with regulations made under this Act.
 (3) Nothing in subclauses (1) and (2) limits the making of rules under section 212 or regulations under section 237.
 
 ### 14 Power to award interest
