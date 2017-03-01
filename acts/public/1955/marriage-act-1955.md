@@ -1,5 +1,5 @@
 # Marriage Act 1955
-_Consolidation as at 2013-08-19_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to marriage
 
@@ -187,7 +187,7 @@ If any persons knowingly and wilfully marry without a marriage licence where a m
 ### 25 Caveats may be lodged
 (1) Any person may lodge with any Registrar a caveat against the marriage of any person named in the caveat on the ground that the marriage is one in respect of which a licence should not be issued under this Act.
 (2) Every caveat shall be in writing signed by or on behalf of the caveator, and shall state his or her full name and residential address and the particular grounds of objection on which the caveat is founded.
-(3) Notice of any caveat may be given to any Registrar other than the Registrar with whom it was lodged. The notice shall be in writing signed by or on behalf of the caveator, and shall state his or her full name and residential address, the date and place of lodgment of the caveat, and the grounds of objection on which the caveat is founded.
+(3) Notice of any caveat may be given to any Registrar other than the Registrar with whom it was lodged. The notice shall be in writing signed by or on behalf of the caveator, and shall state his or her full name and residential address, the date and place of lodgement of the caveat, and the grounds of objection on which the caveat is founded.
 (4) Until the caveat has been withdrawn by the caveator or has been discharged as provided by section 26, no licence in respect of the marriage of the person to whom the caveat relates shall be issued by any Registrar with whom the caveat has been lodged or to whom notice of the caveat has been given in accordance with this section, and no such Registrar shall solemnise the marriage.
 
 ### 26 Discharge of caveat
@@ -222,8 +222,8 @@ A Registrar shall issue a marriage licence or solemnise a marriage, as the case 
   (a) I AB, take you CD, to be my legal wife or husband; or
   (b) words to similar effect; or
   (c) in the case of the solemnisation of a marriage in accordance with the rules and procedures of a specified body that require different words to be used as a marriage vow than those set out in paragraph (a), those words.
-(4) The solemnisation of a marriage may not be conducted in accordance with subsection (3)(c) unless the specified body in question first—
-  (a) informs the Registrar of the words that are intended to be used in place of the words set out in subsection (3)(a) and satisfies the Registrar that the use of those words is in accordance with the rules and procedures of that body; and
+(4) The solemnisation of a marriage may not be conducted in accordance with subsection (3)﻿(c) unless the specified body in question first—
+  (a) informs the Registrar of the words that are intended to be used in place of the words set out in subsection (3)﻿(a) and satisfies the Registrar that the use of those words is in accordance with the rules and procedures of that body; and
   (b) notifies the Registrar of the safeguards to be adopted by that body to ensure that—
     (i) there is a clear identification of the parties to the marriage; and
     (ii) that the parties freely consent to the marriage; and
@@ -258,8 +258,8 @@ A Registrar shall issue a marriage licence or solemnise a marriage, as the case 
     (ii) the number or, if this cannot be accurately ascertained, the approximate number of members of the organisation of or over 18 years; and
   (b) a statement explaining why the objects and beliefs of the religious body are inconsistent with those provisions of this Part relating to the solemnisation of marriages in the presence of a marriage celebrant; and
   (c) a statement containing a description of the rules and procedures by which the body proposes to solemnise marriages.
-(3) In the case of a religious body whose rules and procedures or tenets do not recognise any chief office bearer, the statement referred to in subsection (2)(a) need only be signed by 10 members of the body.
-(4) The statement referred to in subsection (2)(a) (whether signed by the persons referred to in that subsection or the persons referred to in subsection (3)) is invalid unless—
+(3) In the case of a religious body whose rules and procedures or tenets do not recognise any chief office bearer, the statement referred to in subsection (2)﻿(a) need only be signed by 10 members of the body.
+(4) The statement referred to in subsection (2)﻿(a) (whether signed by the persons referred to in that subsection or the persons referred to in subsection (3)) is invalid unless—
   (a) each signatory is of or over 18 years and includes in the statement his or her age and address; and
   (b) the signatures of the signatories are attested by another person who must, by statutory declaration attached to the statement, verify the signatures as the genuine signatures of the persons whose signatures they purport to be.
 
@@ -272,11 +272,11 @@ A Registrar shall issue a marriage licence or solemnise a marriage, as the case 
     (i) consistent with the requirements of this Act (other than those referred to in paragraph (c)); and
     (ii) otherwise satisfactory.
 (2) If, on receiving an application under section 32B, the Registrar-General fails or refuses to declare the religious body to be an exempt religious body, the Registrar-General must, if required to do so by the religious body, refer the application to the Minister.
-(3) If the Minister considers that the requirements of subsection (1)(a) to (d) are satisfied, the Minister may direct the Registrar-General to declare the religious body to be an exempt religious body and, in that case, the Registrar-General must do so immediately.
+(3) If the Minister considers that the requirements of subsection (1)﻿(a) to (d) are satisfied, the Minister may direct the Registrar-General to declare the religious body to be an exempt religious body and, in that case, the Registrar-General must do so immediately.
 (4) A declaration under this section that a religious body is an exempt religious body must be made by way of notice in the Gazette.
 
 ### 32D Change in beliefs or objects of exempt religious bodies
-(1) If an exempt religious body changes its name or any of its beliefs or objects, it must immediately give the Registrar-General notice in writing, signed in the manner required by section 32B(2)(a),—
+(1) If an exempt religious body changes its name or any of its beliefs or objects, it must immediately give the Registrar-General notice in writing, signed in the manner required by section 32B(2)﻿(a),—
   (a) of its former and new names; and
   (b) of whether its beliefs and objects remain unchanged since it last stated them to the Registrar-General under section 32B; and
   (c) if those beliefs and objects do not remain unchanged, stating its present beliefs and objects; and
@@ -439,7 +439,7 @@ Every person who falsely pretends to be a marriage celebrant and solemnises any 
 Every person commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years, or to a fine not exceeding $400, or to both, who knowingly and wilfully—
   (a) makes or causes to be made any false declaration for the purposes of this Act; or
   (b) makes or causes to be made, for the purpose of being inserted in any register book, a false statement of any of the particulars required to be known and registered under the provisions of this Act; or
-  (c) notifies any Registrar of the lodgment of a caveat under section 25 if in fact no such caveat has been lodged.
+  (c) notifies any Registrar of the lodgement of a caveat under section 25 if in fact no such caveat has been lodged.
 
 ### 61 Offences generally
 [Repealed]
@@ -459,10 +459,10 @@ No prosecution under this Act shall be commenced after the expiration of 3 years
 (3) Notwithstanding the provisions of any regulations under this Act, the Registrar-General may dispense with the payment of any fee payable under this Act.
 
 ### 64A Rules of procedure
-(1) Rules may be made under section 16A of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under sections 19 and 26.
+(1) Rules may be made under section 16A of the Family Court Act 1980 regulating the practice and procedure of the Family Court in proceedings under sections 19 and 26.
 (2) The rules—
   (a) are subject to section 19(2); and
-  (b) do not affect the practice and procedure of District Courts in proceedings under section 26.
+  (b) do not affect the practice and procedure of the District Court in proceedings under section 26.
 
 ### 65 Regulations may prescribe fees
 [Repealed]
