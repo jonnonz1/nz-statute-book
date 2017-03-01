@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2015-03-20_
+_Consolidation as at 2017-03-01_
 
 > Title
 
@@ -12,7 +12,12 @@ In this Act, unless the context otherwise requires,—
   - **allowance** , in relation to a member of the House of Representatives, means a basic expense allowance and an office-holder allowance
   - **Authority** means the Remuneration Authority established by section 4(1)
   - **Minister** means the Minister of Labour
-  - **principal allowances** means allowances (not being travelling allowances or other incidental or minor allowances)
+  - **principal allowances** —
+    (a) means allowances (not being travelling allowances or other incidental or minor allowances); and
+    (b) to avoid doubt, in relation to any of the following Judges who does not have his or her primary place of residence in Wellington may, if the Remuneration Authority thinks fit, include an amount by way of an allowance for accommodation while that person is in Wellington:
+      (i) a Judge of the Supreme Court:
+      (ii) a Judge of the Court of Appeal:
+      (iii) the Chief High Court Judge
   - **remuneration** includes—
     (a) salary, wages, and other payments, whether in the form of bonuses or otherwise, in return for services; and
     (b) benefits and other emoluments (whether in money or not) in return for services
@@ -121,7 +126,7 @@ There shall from time to time be appointed by the chief executive of the Departm
   (c) the Chief Judge of the Employment Court and the other Judges of the Employment Court; and
   (d) the Chief Judge and the Deputy Chief Judge of the Maori Land Court and the other Judges of the Maori Land Court; and
   (e) the Associate Judges of the High Court; and
-  (f) the chief coroner and the other coroners (other than a person who (under section 8(d) of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge).
+  (f) the chief coroner and the other coroners (other than a person who (under section 22(a) of the District Court Act 2016) is a coroner by virtue of holding office as a District Court Judge).
 (2) The Authority shall have the function of considering and making determinations with respect to—
   (a) the superannuation rights and obligations of the judicial officers specified in subsection (1) who are contributors under Part 4 or Part 5 or Part 5A of the Government Superannuation Fund Act 1956, being rights fixed at the commencement of this Act by any of those Parts and other provisions of that Act; and
   (b) the superannuation rights and obligations of those judicial officers specified in subsection (1) who are not contributors under Part 4 or Part 5 or Part 5A of the Government Superannuation Fund Act 1956.
