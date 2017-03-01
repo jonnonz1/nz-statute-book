@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -186,7 +186,7 @@ In this Act, unless the context otherwise requires,—
 ### 10 Coroner defined
 (1) In this Act, coroner means a person appointed under section 103 and, except as provided in this section, includes—
   (a) the chief coroner; and
-  (b) a person who (under section 8(d) of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge; and
+  (b) a person who (under section 22(a) of the District Court Act 2016) is a coroner by virtue of holding office as a District Court Judge; and
   (c) a relief coroner.
 (2) In the following sections, coroner does not include the chief coroner:
   (a) section 105(2) (appointment of chief coroner):
@@ -194,7 +194,7 @@ In this Act, unless the context otherwise requires,—
   (c)
   (d) sections 105(5) and 110(4) (resignation as chief coroner but not as coroner):
   (e) section 112 (resignation).
-(3) In the following sections, coroner does not, except as provided in section 109(2)﻿(a), include a person who (under section 8(d) of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge:
+(3) In the following sections, coroner does not, except as provided in section 109(2)﻿(a), include a person who (under section 22(a) of the District Court Act 2016) is a coroner by virtue of holding office as a District Court Judge:
   (a) section 108 (coroners act full-time unless authorised to act part-time):
   (b) section 109 (maximum number of coroners):
   (c) section 110 (salaries and allowances):
@@ -460,7 +460,7 @@ In deciding whether to direct a post-mortem under section 31, a coroner must hav
   (b) advise the objectors accordingly.
 (3) The coroner may direct under section 31 that the post-mortem be performed if, 48 hours after the objectors were advised under subsection (2)﻿(b) that the coroner still wishes to direct that the post-mortem be performed, none of them has lodged an objection under this subsection in the High Court.
 (4) In calculating the 48-hour period in subsection (3), hours count only if they are hours of working days.
-(5) An objection under subsection (3) is lodged by originating application in the manner provided by the High Court Rules 2016 (as defined in section 2 of the Judicature Act 1908).
+(5) An objection under subsection (3) is lodged by originating application in the manner provided by the High Court Rules 2016.
 
 ### 35 Procedure for objection in High Court
 (1) Judges of the High Court and employees of the Ministry of Justice must ensure an objection lodged in the High Court under section 34(3) (the objection) is disposed of as a matter of priority and urgency.
@@ -1129,12 +1129,12 @@ The chief coroner must, after consulting the Attorney-General, develop and publi
 (5) In considering whether to concur under subsection (4)﻿(b), the chief coroner must have regard to the need for coronial investigations to be conducted in an orderly and expeditious way.
 (6) A coroner who is authorised to act part-time must resume acting full-time at the end of the authorised part-time period.
 (7) The basis on which a coroner acts must not be altered during the term of the coroner's appointment without the coroner's consent, but consent under this subsection is not necessary if the alteration is required by subsection (6).
-(8) Nothing in this section applies to a person who (under section 8(d) of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge.
+(8) Nothing in this section applies to a person who (under section 22(a) of the District Court Act 2016) is a coroner by virtue of holding office as a District Court Judge.
 
 ### 109 Maximum number of coroners
 (1) The maximum number of coroners is 20.
 (2) For the purposes of subsection (1),—
-  (a) a person who (under section 8(d) of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge does not count unless he or she is also the chief coroner:
+  (a) a person who (under section 22(a) of the District Court Act 2016) is a coroner by virtue of holding office as a District Court Judge does not count unless he or she is also the chief coroner:
   (b) a person who is a relief coroner does not count:
   (c) a coroner who is acting on a full-time basis counts as 1:
   (d) a coroner who is acting on a part-time basis counts as an appropriate fraction of 1:
@@ -1149,7 +1149,7 @@ The chief coroner must, after consulting the Attorney-General, develop and publi
 (3) The salary and allowances payable for a period during which a coroner acts on a part-time basis must be calculated and paid as a pro-rata proportion of the salary and allowances of a full-time equivalent position.
 (4) If the chief coroner ceases to hold that office but continues to hold office as a coroner, his or her salary and allowances may be reduced by the amount of any salary or allowances he or she received solely because of being the chief coroner.
 (5) For the purposes of subsection (2), the payment of salary and allowances on a pro-rata basis under subsection (3) or the payment of reduced salary and allowances under subsection (4) is not a diminution in salary.
-(6) Nothing in this section applies to a person who (under section 8(d) of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge.
+(6) Nothing in this section applies to a person who (under section 22(a) of the District Court Act 2016) is a coroner by virtue of holding office as a District Court Judge.
 
 ### 111 When determination under section 110(1) comes into force
 (1) Unless the Remuneration Authority Act 1977 requires otherwise, a determination made under section 110(1), and any provision of a determination under section 110(1), may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
@@ -1168,7 +1168,7 @@ The chief coroner must, after consulting the Attorney-General, develop and publi
 (2) Subsection (1) is subject to sections 33(2) and 34 of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004, which prevent removal unless—
   (a) a Judicial Conduct Panel has reported to the Attorney-General that it is of the opinion that consideration of the removal of the coroner is justified; or
   (b) the coroner has been convicted of a criminal offence punishable by imprisonment for 2 or more years and the Attorney-General takes steps independently of that Act to initiate the removal of the coroner.
-(3) Nothing in this section applies to a person who (under section 8(d) of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge.
+(3) Nothing in this section applies to a person who (under section 22(a) of the District Court Act 2016) is a coroner by virtue of holding office as a District Court Judge.
 
 **Administration**
 
@@ -1510,7 +1510,7 @@ In this schedule, former Act means the Coroners Act 1988, and former coroner—
 (a) means a person who, immediately before the repeal of the former Act by section 143, held office under the former Act as a coroner or deputy coroner; and
 (b) in clauses 7, 8, 14 to 16, and 18, includes a person who, at any time before the repeal of the former Act,—
   (i) held office under the former Act as a coroner or deputy coroner; or
-  (ii) was (under section 8(d) of the District Courts Act 1947) a coroner by virtue of holding office as a District Court Judge.
+  (ii) was (under section 22(a) of the District Court Act 2016) a coroner by virtue of holding office as a District Court Judge.
 
 ### 2
 On the repeal of the former Act, every former coroner vacates office under that Act as a coroner or deputy coroner.
@@ -1548,7 +1548,7 @@ An application to the High Court under section 39 of the former Act and that, on
 A Justice to whom a death is reported in accordance with section 6(1) of the former Act and who, on the repeal of that Act, has not completed his or her performance or exercise of the functions and powers conferred by section 6(2) of that Act, must complete his or her performance or exercise of those functions and powers (which remain in force as if that Act had not been repealed).
 
 ### 13
-A person who (under section 8(d) of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge and, on the repeal of the former Act, has not completed in relation to a death reported to him or her under that Act his or her performance or exercise of the functions and powers conferred by that Act, must complete his or her performance or exercise of those functions and powers (which remain in force as if that Act had not been repealed).
+A person who (under section 22(a) of the District Court Act 2016) is a coroner by virtue of holding office as a District Court Judge and, on the repeal of the former Act, has not completed in relation to a death reported to him or her under that Act his or her performance or exercise of the functions and powers conferred by that Act, must complete his or her performance or exercise of those functions and powers (which remain in force as if that Act had not been repealed).
 
 ### 14
 If a former coroner or a Justice has, under section 20 of the former Act, decided not to hold an inquest, a coroner as defined in section 10 of this Act (coroner A) may, under section 65 of this Act, decide to open an inquiry as if the former coroner's decision not to hold an inquest were a decision by coroner A not to open an inquiry.
