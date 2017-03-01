@@ -1,5 +1,5 @@
 # Holidays Amendment Act 2016
-_Consolidation as at 2016-03-17_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Holidays Amendment Act 2016.
@@ -36,7 +36,7 @@ After section 76, insert:Matters Authority to have regard to in determining amou
   In determining an appropriate penalty under section 76, the Authority or the court (as the case may be) must have regard to all relevant matters, including—
     (a) the purpose stated in section 3 and, to the extent relevant, the object stated in section 3 of the Employment Relations Act 2000; and
     (b) the matters referred to in section 133A(b) to (g) of the Employment Relations Act 2000.
-  The chief executive or a Labour Inspector may recover in a District Court as a debt due to the Crown any penalty ordered by the Authority or the court under section 76 to be paid to the Crown.
+  The chief executive or a Labour Inspector may recover in the District Court as a debt due to the Crown any penalty ordered by the Authority or the court under section 76 to be paid to the Crown.
 
 ### 8 New section 77A inserted (Proceedings by Labour Inspector or employee to recover arrears of pay from person involved in failure to comply)
 After section 77, insert:Proceedings by Labour Inspector or employee to recover arrears of pay from person involved in failure to comply
