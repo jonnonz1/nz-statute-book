@@ -1,5 +1,5 @@
 # Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
@@ -347,7 +347,7 @@ Whenever practicable, a specialist assessor who practises in the field of child 
 (1) The co-ordinator may notify the appropriate manager or Director of Area Mental Health Services that the prisoner or former special patient must stay in a specified facility during 1 or more of the following periods:
   (a) the period while the person concerned is assessed under this subpart:
   (b) the period while the needs assessment of the person concerned is conducted under Part 3:
-  (c) the period while an application for a compulsory care order in respect of the person concerned is pending before a Family Court.
+  (c) the period while an application for a compulsory care order in respect of the person concerned is pending before the Family Court.
 (2) Unless notice is given under subsection (1), a prisoner who is being assessed in a facility continues to be in legal custody under the Corrections Act 2004, even though the prisoner is absent from the prison.
 (3) During the period or periods specified in a notice under subsection (1), the prisoner to whom the notice relates is in the legal custody of the care manager designated for the prisoner under section 32(a) and ceases to be in the legal custody of the manager concerned.
 
@@ -989,7 +989,7 @@ A constable who enters a place under section 112 or section 113 must,—
 **Which court?**
 
 ### 116 Jurisdiction of Family Court
-(1) Every application under any of sections 45 and 84 to 87 must be heard and determined in a Family Court.
+(1) Every application under any of sections 45 and 84 to 87 must be heard and determined in the Family Court.
 (2) If an application under any section referred to in subsection (1) needs to be determined within a particular period, and it is not practicable to have the application determined in that period by a Family Court Judge, any District Court Judge may exercise the jurisdiction of the Family Court—
   (a) by hearing the application, if that is necessary; and
   (b) by determining the application.
@@ -1017,7 +1017,7 @@ A care recipient's care manager and a specialist assessor who has completed the 
   (c) an application under section 86 for a variation of a compulsory care order.
 
 ### 119 Entitlement to be served with application
-(1) When an application under this Act is filed in a Family Court, every person (other than the applicant) who is entitled to appear at a hearing of the application is entitled to be served with a copy of the application and any affidavit filed in support of the application.
+(1) When an application under this Act is filed in the Family Court, every person (other than the applicant) who is entitled to appear at a hearing of the application is entitled to be served with a copy of the application and any affidavit filed in support of the application.
 (2) If a person cannot be served with a copy of an application in accordance with subsection (1), the Family Court may, on such terms and conditions as it thinks fit, dispense with service on that person.
 
 ### 120 Obligations of district inspector on receiving copy of application
@@ -1092,8 +1092,8 @@ In a proceeding on an application under this Act, whether at first instance or o
 (3) Nothing in this section limits any other power of the court to hear proceedings in private or to exclude any person from the court.
 
 ### 130 Publication of reports of proceedings
-Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act—
-  (a) in a Family Court:
+Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a report of any proceedings under this Act—
+  (a) in the Family Court:
   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
 
 ### 131 Court may dispense with hearing in certain circumstances
@@ -1104,10 +1104,10 @@ After a court has made an order on an application under this Act, the Registrar 
 
 **Appeals**
 
-### 133 Appeals from decisions of Family Courts
-(1) Where, in a proceeding under this Act, a Family Court has made or has refused to make an order, or has otherwise determined or has dismissed the proceeding, a party to the proceeding may, within 28 days after the making of the order or decision or within such further time as the High Court may allow, appeal to the High Court.
-(2) The High Court Rules 2016 and sections 74 to 76 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
-(3) Despite subsection (2), on the appellant's application without notice, the Family Court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+### 133 Appeals from decisions of Family Court
+(1) Where, in a proceeding under this Act, the Family Court has made or has refused to make an order, or has otherwise determined or has dismissed the proceeding, a party to the proceeding may, within 28 days after the making of the order or decision or within such further time as the High Court may allow, appeal to the High Court.
+(2) The High Court Rules 2016 and sections 126 to 128 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
+(3) Despite subsection (2), on the appellant's application without notice, the Family Court may order that the appellant must not be required under section 126(1) of the District Court Act 2016 to give the Registrar of the High Court security for costs.
 (4) The decision of the High Court on an appeal to that court under subsection (1) is final unless section 134 applies.
 
 ### 134 Further appeal to Court of Appeal
@@ -1225,7 +1225,7 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
 (3) All guidelines and standards issued under subsection (1) are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 149 Rules
-Rules may be made under section 16A of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under this Act.
+Rules may be made under section 16A of the Family Court Act 1980 regulating the practice and procedure of the Family Court in proceedings under this Act.
 
 ### 150 Regulations
 The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
