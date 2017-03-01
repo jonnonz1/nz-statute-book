@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2017-03-01_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -104,7 +104,7 @@ Where a request under this Act relates to information to which section 6 or sect
 ### 9 Exclusion of public interest immunity
 (1) Subject to subsection (2), the rule of law which authorises or requires the withholding of any document, or the refusal to answer any question, on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest shall not apply in respect of—but not so as to give any party any information that that party would not, apart from this section, be entitled to.
   (a) an investigation by or proceedings before an Ombudsman in relation to any decision under this Act; or
-  (b) any application under section 4(1) of the Judicature Amendment Act 1972 for the review of any decision under this Act;—
+  (b) any application under section 8 of the Judicial Review Procedure Act 2016 for the review of any decision under this Act;—
 (2) Nothing in subsection (1) affects—
   (a) section 31; or
   (b) section 20(1) of the Ombudsmen Act 1975.
@@ -370,8 +370,8 @@ Where the Attorney-General certifies that the making available of any informatio
   (d) every person (being a person who holds information that is deemed, by virtue of section 2(5) or (6), to be held by that local authority) to whom that recommendation is applicable.
 (3) As soon as practicable after a decision is made under subsection (1), the local authority making that decision shall give a copy of the decision to the Ombudsman who made the recommendation, and to the person in respect of whose request that recommendation was made.
 (4) Nothing in this section—
-  (a) limits section 8 of the Judicature Amendment Act 1972; or
-  (b) prevents effect being given to any interim order made under section 8 of the Judicature Amendment Act 1972 or to any declaration contained in any such interim order.
+  (a) limits section 15 of the Judicial Review Procedure Act 2016; or
+  (b) prevents effect being given to any interim order made under section 15 of the Judicial Review Procedure Act 2016 or to any declaration contained in any such interim order.
 
 ### 33 Requirements in relation to decision
 (1) Every decision made by a local authority under section 32(1) shall be published in the Gazette and publicly notified within the district of that local authority as soon as practicable after it is made.
@@ -392,14 +392,14 @@ Where the Attorney-General certifies that the making available of any informatio
 (4) Unless the High Court is satisfied that an application brought under subsection (1) has not been reasonably or properly brought, it shall, in determining the application and irrespective of the result of the application, order that the costs of the applicant on a solicitor and client basis shall be paid by the local authority that made the decision in respect of which the application is brought.
 
 ### 35 Appeals
-Any party to an application under section 34 who is dissatisfied with any final or interlocutory order in respect of an application may appeal to the Court of Appeal; and section 66 of the Judicature Act 1908 shall apply to any such appeal.
+Any party to an application under section 34 who is dissatisfied with any final or interlocutory order in respect of an application may appeal to the Court of Appeal; and section 56 of the Senior Courts Act 2016 shall apply to any such appeal.
 
 ### 36 Complainant to be informed of result of investigation
 The Ombudsman who investigates a complaint made for the purposes of section 27(3) shall inform the complainant, in such manner and at such time as that Ombudsman thinks proper, of the result of the investigation.
 
 ### 37 Restriction on application for review
 Where any person makes a request under this Act that official information be made available to that person and a decision to which section 27(1) or section 27(2) applies is made in relation to that request, that person—unless a complaint made by that person in respect of that decision has first been determined under this Part.
-  (a) shall not make an application under section 4(1) of the Judicature Amendment Act 1972 for the review of that decision; and
+  (a) shall not make an application under section 8 of the Judicial Review Procedure Act 2016 for the review of that decision; and
   (b) shall not commence any proceedings in which that decision is sought to be challenged, quashed, or called in question in any court,—
 
 **Decisions under Part 3 or Part 4**
