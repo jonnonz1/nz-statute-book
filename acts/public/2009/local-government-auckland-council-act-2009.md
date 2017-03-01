@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2016-05-10_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -683,10 +683,10 @@ If work is urgent and necessary because of any defective equipment or other emer
   (b) must give the information required by section 66(2) to the person who has jurisdiction over the road or land as soon as practicable after commencing the work.
 
 ### 70 Appeals by Auckland water organisation to District Court
-(1) An Auckland water organisation may appeal to a District Court against all or any of the conditions imposed under section 65(2) by the person who has jurisdiction over the road or land.
+(1) An Auckland water organisation may appeal to the District Court against all or any of the conditions imposed under section 65(2) by the person who has jurisdiction over the road or land.
 (2) An appeal must be made not later than 45 working days after the date of notification of the conditions imposed or within any further time that the District Court may allow.
-(3) In its determination of any appeal, a District Court may confirm, modify, or cancel any or all of the conditions imposed.
-(4) The decision of a District Court in the determination of an appeal under this section is final.
+(3) In its determination of any appeal, the District Court may confirm, modify, or cancel any or all of the conditions imposed.
+(4) The decision of the District Court in the determination of an appeal under this section is final.
 
 ### 71 Council to appoint enforcement officers
 (1) The Council must appoint persons to be enforcement officers under section 177 of the Local Government Act 2002 for the purposes of ensuring compliance by any person with any exercise of a power conferred on an Auckland water organisation by this Part.
