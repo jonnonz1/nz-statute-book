@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2016-11-29_
+_Consolidation as at 2017-03-01_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -497,7 +497,7 @@ A harbourmaster may exercise the powers and perform the duties conferred by this
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000:
   (c) in any case, to an additional penalty under section 409.
-(7) Any person affected by a direction given under subsection (1)﻿(c) may appeal against that direction to a District Court under section 424.
+(7) Any person affected by a direction given under subsection (1)﻿(c) may appeal against that direction to the District Court under section 424.
 
 **Enforcement**
 
@@ -691,7 +691,7 @@ Port operators must not operate, maintain, or service a port, or cause or permit
 (4) The Director must—
   (a) notify the prohibitions or conditions made under this section to the persons he or she considers necessary in the manner the Director considers appropriate in the circumstances:
   (b) provide the owner or the person for the time being in charge of the port with the reasons, in writing, for the prohibition or conditions.
-(5) A person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 424.
+(5) A person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
 (6) Every person who, without reasonable excuse, acts in contravention of or fails to comply with any prohibition or condition imposed under this section commits an offence and is liable,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
@@ -765,7 +765,7 @@ Port operators must not operate, maintain, or service a port, or cause or permit
   (j) such other persons, ships, maritime products, maritime-related services, facilities, and equipment as may be operated or engaged or used in New Zealand waters or in support of the maritime system.
 (2) The requirements, standards, and application procedure for each maritime document, and the maximum period for which each document may be issued or recognised, as the case may be, shall be prescribed by maritime rules.
 (3) Subject to any maritime rules, a maritime document may be issued or a document may be recognised as a maritime document, as the case may be, by the Director for such period and subject to such conditions as the Director considers appropriate in each particular case.
-(4) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 424.
+(4) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
 
 ### 35 Application for maritime document
 (1) Every application for the grant or renewal of a maritime document or the recognition of a document as a maritime document shall be made to the Director in the prescribed form or, if there is no prescribed form, in such form as the Director may require.
@@ -882,7 +882,7 @@ In this Part, unless the context otherwise requires,—
   - **breath screening device** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **breath screening test** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **Commissioner** means the Commissioner of Police
-  - **court** means a District Court
+  - **court** means the District Court
   - **designated safety, security, or marine environmental duties** means, in relation to a ship, the duties identified as safety, security, or marine environmental duties in any of the following documents:
     (a) a document outlining the safety management system of the ship:
     (b) a document outlining the shipboard procedures for the ship:
@@ -1182,7 +1182,7 @@ An enforcement officer may arrest a seafarer without warrant if the officer has 
   (a) issue an equivalent maritime document under this section; or
   (b) notify in writing such recognition.
 (5) It shall be a condition of every current maritime document issued or recognised by the Director that the holder shall continue to satisfy the fit and proper person criteria specified in subsection (1)﻿(b)﻿(ii).
-(6) Where the Director declines to grant an application under section 35, the applicant may appeal against that decision to a District Court under section 424.
+(6) Where the Director declines to grant an application under section 35, the applicant may appeal against that decision to the District Court under section 424.
 (7) Nothing in this section applies in respect of any ship, crew, or maritime product in respect of which section 42 applies.
 
 ### 42 Acceptance of convention documents
@@ -1222,13 +1222,13 @@ An enforcement officer may arrest a seafarer without warrant if the officer has 
   (b) the Director may retain a document while it is suspended.
 (5A) If notice of a proposed revocation of a maritime document or recognition of a document as a maritime document is given in accordance with section 51 either at the same time as the suspension of the document or recognition under this section is imposed or while the suspension is in force, the document or recognition to which the notice relates remains suspended until the Director finally decides whether to revoke the document or recognition under section 44.
 (6) The whole or any part of a maritime document, or the recognition of the whole or any part of a document recognised as a maritime document, may be suspended under this section.
-(7) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 424.
+(7) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
 
 ### 44 Revocation of maritime documents
 (1) If, at any time after an investigation carried out to decide whether any action should be taken under section 43, the Director believes that any relevant maritime document or the recognition of a document as a maritime document should be revoked, the Director may revoke that document or the recognition of that document.
 (2) Where the Director proposes to revoke a maritime document or the recognition of a document as a maritime document, the Director shall give notice in accordance with section 51, which shall apply as if the proposed revocation were a proposed adverse decision under this Act.
 (3) Where a maritime document or recognition of a document as a maritime document has been revoked under this section, the holder shall forthwith surrender that document or notification of recognition of that document to the Director.
-(4) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 424.
+(4) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
 
 ### 45 Amendment or revocation in other cases
 (1) The Director may,—
@@ -1251,7 +1251,7 @@ An enforcement officer may arrest a seafarer without warrant if the officer has 
   (b) the right of appeal available to the holder of that document in the event of the Director taking such action.
 (4) Where a maritime document or recognition of a document as a maritime document has been revoked under this section, the holder shall forthwith surrender that document or notification of recognition of that document to the Director.
 (5) Where a fee or charge is payable to the Authority or the Director in respect of an application or the provision of a service, the Authority or the Director, as the case may be, may, unless the safety of any person would be put at risk, decline to process that application or provide that service until the appropriate fee or charge has been paid, or arrangements acceptable to the Authority or the Director, as the case may be, for payment of the fee or charge have been made.
-(6) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 424.
+(6) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
 
 ### 47 Exemption
 (1) The Director may, if he or she considers it appropriate and upon such conditions as he or she considers appropriate, exempt any person, ship, or maritime product from any specified requirement in any maritime rule.
@@ -1432,7 +1432,7 @@ For the purposes of granting or renewing maritime documents in respect of person
 (4) Nothing in this section shall permit the Director to detain a ship where that detention would constitute a breach of any convention.
 (5) Any detention or seizure under subsection (1) shall be maintained for only such time as is necessary in the interests of maritime safety or the health or safety of any person; but, if ships, maritime products, or parts thereof are required for the purpose of evidence in any prosecution under this Act, those ships, products, or parts thereof may be retained by the Director for such period as the Director considers necessary for that purpose.
 (6) The Director shall, if requested by the owner or the person for the time being in charge of a ship detained or a maritime product seized under subsection (1), provide in writing to the owner or that person the reasons for the detention or seizure.
-(7) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 424.
+(7) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
 (8) For the purpose of subsection (1), the Director shall notify any prohibitions or conditions to such persons as he or she considers necessary by such means of communication, whether or not of a permanent nature, as the Director considers appropriate in the circumstances.
 (9) Every person commits an offence who, without reasonable excuse, acts in contravention of or fails to comply with any prohibition or condition notified under this section.
 (10) Every person who commits an offence against subsection (9) is liable on conviction,—
@@ -1667,14 +1667,14 @@ Where an order is made by a court disqualifying any person for a period from hol
 ### 77 Removal of disqualification
 (1) Subject to this section, any person who by order of a court is disqualified for a period exceeding 6 months from holding or obtaining a maritime document, or is disqualified from being recognised as the holder of a maritime document, may, after the expiration of 6 months after the date on which the order of disqualification became effective, apply to the court by which that order was made to remove the disqualification.
 (2) On an application under this section, the court may, having regard to the character of the applicant and the applicant’s conduct subsequent to the order, the nature of the offence, and any other circumstances of the case, remove the disqualification as from such date as may be specified in the order or refuse the application.
-(3) In the case of a disqualification ordered by a District Court, every application under this section shall be made to a District Court Judge exercising jurisdiction in the court by which the order was made.
+(3) In the case of a disqualification ordered by the District Court, every application under this section shall be made to a District Court Judge exercising jurisdiction in the court by which the order was made.
 (4) Notice of every application under this section shall be served on the Director who shall have a right to appear and be heard in respect of the matter.
 
 ### 78 Particulars of disqualification orders, etc, to be sent to Director
 Where a court makes an order under section 73 or section 77, the Registrar of the court shall send to the Director particulars of the order.
 
 ### 79 Appeals
-(1) For the purposes of Part 6 of the Criminal Procedure Act 2011, an order of a District Court by which any person is disqualified from holding or obtaining a maritime document shall be deemed to be a sentence or part of a sentence, as the case may be. If a notice of appeal against any such order is filed, the court may, if it thinks fit, defer the operation of the order pending the appeal, but otherwise the order shall have immediate effect.
+(1) For the purposes of Part 6 of the Criminal Procedure Act 2011, an order of the District Court by which any person is disqualified from holding or obtaining a maritime document shall be deemed to be a sentence or part of a sentence, as the case may be. If a notice of appeal against any such order is filed, the court may, if it thinks fit, defer the operation of the order pending the appeal, but otherwise the order shall have immediate effect.
 (2) Any person whose application under section 77 to the District Court is refused may appeal against the refusal to the High Court in accordance with Part 6 of the Criminal Procedure Act 2011 and that Part applies with the necessary modifications as if the refusal were a sentence.
 (3) Any person whose application under section 77 to the High Court is refused may appeal to the Court of Appeal against the refusal in accordance with Part 6 of the Criminal Procedure Act 2011 and that Part applies with the necessary modifications as if the refusal were a sentence.
 (4) Where application is made to the Court of Appeal for leave to appeal to that court against a sentence of the High Court that is or includes an order of disqualification, the High Court may, if it thinks fit, defer the operation of the order pending the application for leave to appeal and, if leave is granted, pending the appeal.
@@ -2502,7 +2502,7 @@ Sections 215 to 220 and Schedule 6 shall come into force on a date to be appoint
 In this Part, unless the context otherwise requires,—
   - **coastal or inland waters** means New Zealand waters
   - **Convention** means the International Convention on Salvage, 1989, as set out in Schedule 6
-  - **court** means the High Court and every District Court
+  - **court** means the High Court and the District Court
   - **freight at risk** includes payments due to an owner or charterer for the carriage of cargo.
 
 ### 216 Application of Convention
@@ -2749,15 +2749,15 @@ No oil or noxious liquid substance—unless notice has been given by the master 
   (a) have been or are likely to be responsible for a discharge or escape of a harmful substance into the sea or onto or into the seabed in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
   (b) pose an unreasonable threat of harm to the marine environment.
 (1A) The Director may require the owner of the ship, offshore installation, or pipeline to take all necessary steps to rectify the conditions.
-(2) Any owner of any ship, offshore installation, or pipeline whom the Director requires to do anything under this section may appeal against that requirement to a District Court under section 424.
+(2) Any owner of any ship, offshore installation, or pipeline whom the Director requires to do anything under this section may appeal against that requirement to the District Court under section 424.
 
 ### 233A Power to prohibit transfer of oil or noxious liquid substance
 (1) The Director may prohibit the transfer of any oil or noxious liquid substance from or to any ship in the internal waters, the territorial sea, or the exclusive economic zone of New Zealand if the Director believes on reasonable grounds that the transfer will pose an unreasonable threat of harm to the marine environment.
-(2) The owner may appeal against a prohibition under subsection (1) to a District Court under section 424.
+(2) The owner may appeal against a prohibition under subsection (1) to the District Court under section 424.
 
 ### 234 Precautionary measures in the event of transfer of oil or noxious liquid substance
 (1) The Director may from time to time, in respect of a ship from which or to which any oil or noxious liquid substance is being or will be transferred in the internal waters or the territorial sea of New Zealand, take, or require the owner or master of that ship to take, any measures that the Director believes on reasonable grounds will remove, contain, or render harmless, any oil or noxious liquid substance that may be spilt as a result of that transfer.
-(2) An owner of a ship whom the Director requires to do anything under this section may appeal against that requirement to a District Court under section 424.
+(2) An owner of a ship whom the Director requires to do anything under this section may appeal against that requirement to the District Court under section 424.
 
 ### 235 Powers of investigation of Director
 (1) The Director may investigate any discharge or escape of a harmful substance in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, or any pollution incident.
@@ -2861,7 +2861,7 @@ Every person who commits an offence against section 240, 241, or 242A is liable 
   (a) is convicted of an offence against section 237; and
   (b) makes default in the payment of any fine or other monetary penalty imposed by the court under section 244,—
 (2) Every agent of a ship who, under subsection (1), pays any fine or other monetary penalty imposed on the master or owner of the ship shall be entitled to recover the amount so paid from that master or owner as a debt or deduct that amount out of or from any money which is or becomes payable by that agent to that master or owner; and any amount so paid by the agent shall, for the purposes of section 4(1)﻿(p) of the Admiralty Act 1973, be deemed to be a disbursement made on account of the ship.
-(3) Notwithstanding anything in the District Courts Act 1947, any District Court shall have jurisdiction to hear and determine proceedings for the recovery, in accordance with this section, of any money from any agent or master or owner of a ship whatever the amount of money involved.
+(3) Notwithstanding anything in the District Court Act 2016, the District Court shall have jurisdiction to hear and determine proceedings for the recovery, in accordance with this section, of any money from any agent or master or owner of a ship whatever the amount of money involved.
 
 ## Part 20 — Protection of marine environment from hazardous ships, structures, and offshore operations
 
@@ -3183,7 +3183,7 @@ Subject to section 267, every person who commits an offence against section 263 
 (4) Where a licence, permit, certificate, or other document is recognised by the Director under this section, the Director shall either—
   (a) issue an equivalent marine protection document under this section; or
   (b) notify in writing such recognition.
-(5) Where the Director declines to grant an application under section 269, the applicant may appeal against that decision to a District Court under section 424.
+(5) Where the Director declines to grant an application under section 269, the applicant may appeal against that decision to the District Court under section 424.
 (6) Nothing in this section applies in respect of any ship, crew, or marine protection product in respect of which section 271 applies.
 
 ### 271 Acceptance of documents
@@ -3217,13 +3217,13 @@ Subject to section 267, every person who commits an offence against section 263 
 (3) If, after investigation, the Director considers such action to be warranted, he or she may suspend for a further period the marine protection document, or the recognition of a document as a marine protection document, or impose further conditions, and he or she shall cause the appropriate endorsement to be made on the marine protection document (if the document is issued under this Act or the marine protection rules) or on the notification of recognition, as the case may require.
 (4) Where a marine protection document or recognition of a document as a marine protection document has been suspended or a marine protection document has been made subject to conditions under this section, the holder shall forthwith produce that document or notification of recognition of that document to the Director for appropriate endorsement.
 (5) The whole or any part of a marine protection document, or the recognition of the whole or any part of a document recognised as a marine protection document, may be suspended under this section.
-(6) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 424.
+(6) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
 
 ### 273 Revocation of marine protection documents
 (1) If, after an investigation under section 272, the Director believes that a marine protection document or the recognition of a document as a marine protection document should be revoked, the Director may revoke that document or the recognition of that document.
 (2) Where the Director proposes to revoke any marine protection document, or the recognition of a document as a marine protection document, the Director shall give notice to the persons specified by, and in accordance with the provisions of, the marine protection rules.
 (3) Where a marine protection document or recognition of a marine protection document has been revoked under this section, the holder shall forthwith surrender that document or notification of recognition of that document to the Director.
-(4) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 424.
+(4) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
 
 ### 274 Suspension or revocation of marine protection document where prescribed fees or charges unpaid
 (1) Where any fee or charge that is payable under this Act, or any regulations made under this Act, is not paid by the date prescribed or fixed for payment of that fee or charge, the Director may suspend the marine protection document, or suspend the recognition of the document as a marine protection document, to which the unpaid fee or charge relates.
@@ -3233,7 +3233,7 @@ Subject to section 267, every person who commits an offence against section 263 
   (b) the right of appeal available to the holder of that document in the event of the Director taking such action.
 (4) Where a marine protection document or recognition of a document as a marine protection document has been revoked under this section, the holder shall forthwith surrender that document or notification of that document to the Director.
 (5) Where a fee or charge is payable to the Authority or the Director in respect of an application or the provision of a service, the Authority or the Director, as the case may be, may, unless the marine environment would as a result be put at risk, decline to process that application or provide that service until the appropriate fee or charge has been paid, or arrangements acceptable to the Authority or the Director, as the case may be, for payment of the fee or charge have been made.
-(6) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 424.
+(6) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
 
 ### 275 Amendment or revocation in other cases
 (1) The Director may,—
@@ -3715,7 +3715,7 @@ The Authority shall consult the Oil Pollution Advisory Committee before advising
 (1) A receipt shall, if requested, be given to any person paying any oil pollution levy.
 (2) Where any levy is payable in respect of a contributing ship, the ship is not entitled to a certificate of clearance under section 34 of the Customs and Excise Act 1996 until payment is made or evidence of earlier payment of the levy is produced to the chief executive of the New Zealand Customs Service.
 (3) If the chief executive of the New Zealand Customs Service refuses to issue a certificate of clearance where evidence of payment of any levy payable in respect of the ship concerned is not produced, he or she must, upon request, provide reasons in writing for the decision.
-(4) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 424.
+(4) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
 
 ### 339 Evidence of nature and change of use
 (1) Every person, being the owner or master of a contributing ship, or the owner of a contributing oil site, in respect of which an oil pollution levy is payable, shall, forthwith on the occurrence of any change in the use of the ship or site that would render the person liable to the payment of a levy at a different rate, notify the Authority in writing of that change.
@@ -4164,7 +4164,7 @@ The owner and person in charge of a regulated offshore installation each commits
 (3) The requirements, standards, and application procedure for each marine protection document and the maximum period for which each document may be issued or recognised, as the case may be, shall be prescribed by the marine protection rules.
 (4) The marine protection rules may specify the requirements and criteria that must be satisfied in respect of the relevant insurance policy, bond, or other form of financial security for the Director to issue a certificate of insurance under section 363, 363A, or 385H.
 (5) Subject to any marine protection rules, a marine protection document may be issued or a document may be recognised as a marine protection document, as the case may be, by the Director for such specified period and subject to such conditions as the Director considers appropriate in each particular case.
-(6) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 424.
+(6) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
 
 ### 388 Marine protection rules in relation to harmful and other substances
 The Minister may from time to time make marine protection rules for all or any of the following purposes:
@@ -4330,7 +4330,7 @@ The provisions of sections 446 to 452 apply in relation to marine protection rul
   (b) such obligation to provide a contract of insurance or financial security is no longer appropriate as it has been determined that there is no liability to pay the amounts in respect of which the security was sought or all such amounts have been paid.
 (9) The Director shall, if requested by the owner of a ship detained or a marine protection product seized under subsection (1), provide in writing to the owner the reasons for the detention or seizure.
 (10) For the purpose of subsection (1), the Director shall notify any prohibitions or conditions to such persons as he or she considers necessary by such means of communication, whether or not of a permanent nature, as the Director considers appropriate in the circumstances.
-(11) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 424.
+(11) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
 
 ### 398 Costs of detention under section 397
 (1) Where the Director acts under section 397 to detain a ship, the provisions of section 462 shall apply to the costs of and incidental to the detention.
@@ -4513,7 +4513,7 @@ Notwithstanding any other enactment, where a person is convicted of an offence a
 **Rights of appeal**
 
 ### 424 Rights of appeal
-(1) Where any other section of this Act provides that any person has a right of appeal under this section against a decision in respect of that person, that person may appeal to a District Court against that decision in accordance with this Part.
+(1) Where any other section of this Act provides that any person has a right of appeal under this section against a decision in respect of that person, that person may appeal to the District Court against that decision in accordance with this Part.
 (2) It is hereby declared that the exercise of any power conferred on the Director by any section that confers a right of appeal of the kind referred to in subsection (1) is, except where that section specifies that the right of appeal applies to a particular decision or decisions, a decision in respect of a person within the meaning of that section and may be appealed against under this section.
 (3) The owner of a ship, offshore installation, pipeline, maritime product, marine protection product, or other real or personal property shall, for the purposes of exercising a right of appeal under this section, be the person who is the owner of the ship, offshore installation, pipeline, maritime product, marine protection product, or other real or personal property for the purposes of that Part which contains the section giving rise to the right of appeal.
 
@@ -4525,7 +4525,7 @@ Notwithstanding any other enactment, where a person is convicted of an offence a
     (i) confirm, reverse, or modify the decision appealed against, and make such orders and give such directions to the Authority, the Director, or the harbourmaster, as the case may require, as may be necessary to give effect to the court’s decision; or
     (ii) refer the matter back to the Authority, the Director, or the harbourmaster, as the case may require, with directions to reconsider the whole or any specified part of the matter.
 (3) Any appeal under this section shall be by way of rehearing.
-(4) Subject to this section, every such appeal shall be made and determined in accordance with the District Courts Act 1947 and the rules of court made under that Act.
+(4) Subject to this section, every such appeal shall be made and determined in accordance with the District Court Act 2016 and the rules of court made under that Act.
 (5) Subject to section 427, the decision of the District Court shall be final.
 
 ### 426 Decision of Director or harbourmaster to continue in force pending appeal
