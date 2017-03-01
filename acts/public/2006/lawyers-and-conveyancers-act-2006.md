@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2017-02-24_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -705,7 +705,7 @@ If a person who holds a practising certificate applies for a practising certific
 **Injunctions**
 
 ### 43 Injunctions
-The High Court or a District Court may, on the application of any person (including the New Zealand Law Society or the New Zealand Society of Conveyancers), grant an injunction restraining a person from engaging in conduct that constitutes or would constitute any of the following:
+The High Court or the District Court may, on the application of any person (including the New Zealand Law Society or the New Zealand Society of Conveyancers), grant an injunction restraining a person from engaging in conduct that constitutes or would constitute any of the following:
   (a) a contravention of any of the provisions of sections 21, 22, 23, 24, 26, 30(6), 32, 33, 35, and 37(6):
   (b) an attempt to contravene such a provision:
   (c) aiding, abetting, counselling, or procuring any other person to contravene such a provision:
@@ -746,7 +746,7 @@ This Part does not limit or affect—
   (d) section 4A(3) of the Commissions of Inquiry Act 1908; or
   (e) section 214(1) of the Copyright Act 1994; or
   (f) section 40 of the Designs Act 1953; or
-  (g) section 38 of the Disputes Tribunals Act 1988; or
+  (g) section 38 of the Disputes Tribunal Act 1988; or
   (h) section 236 of the Employment Relations Act 2000; or
   (i) section 108(3) of the Human Rights Act 1993; or
   (j) the provisions of the joint registration regime for patent attorneys in Part 6 of the Patents Act 2013; or
@@ -768,7 +768,7 @@ This Part does not limit or affect—
   (b) are fit and proper persons to be admitted as barristers and solicitors of the High Court; and
   (c) meet the criteria prescribed by rules made under section 54.
 (3) The second category is persons who—
-  (a) have been admitted as a barrister, solicitor, barrister and solicitor, advocate, or attorney by the superior court of any other country; and
+  (a) have been admitted as a barrister, solicitor, barrister and solicitor, advocate, or attorney by a senior court of any other country; and
   (b) have all the qualifications prescribed or required by the New Zealand Council of Legal Education in consultation with the Council of the New Zealand Law Society; and
   (c) are fit and proper persons to be admitted as barristers and solicitors of the High Court; and
   (d) meet the criteria prescribed by rules made under section 54.
@@ -791,15 +791,15 @@ A certificate purporting to be signed by the executive director of the New Zeala
 (5) Nothing in subsection (4) or section 49(4) limits the provisions of sections 20 to 28 of the Trans-Tasman Mutual Recognition Act 1997.
 
 ### 53 Reciprocal admission
-(1) Where the Governor-General is satisfied—the Governor-General may, by Order in Council, order that barristers or solicitors of that superior court who have been in practice before that court for not less than 3 years must, on giving due notice and the prescribed proof of their qualifications and good character, and on payment of the prescribed fees, but subject to any exceptions, conditions, and modifications specified in the order, be admitted as barristers and solicitors of the High Court of New Zealand without examination.
-  (a) that the law relating to the admission of barristers or solicitors of the superior court of any country other than New Zealand is such as to ensure that they possess proper qualifications and competence; and
-  (b) that by the law of that country barristers and solicitors of the High Court of New Zealand will be entitled to admission as barristers or as solicitors of that superior court on terms as favourable as those on which barristers or solicitors of that court will under this Act be entitled to admission as barristers and solicitors of the High Court of New Zealand,—
+(1) Where the Governor-General is satisfied—the Governor-General may, by Order in Council, order that barristers or solicitors of that senior court who have been in practice before that court for not less than 3 years must, on giving due notice and the prescribed proof of their qualifications and good character, and on payment of the prescribed fees, but subject to any exceptions, conditions, and modifications specified in the order, be admitted as barristers and solicitors of the High Court of New Zealand without examination.
+  (a) that the law relating to the admission of barristers or solicitors of a senior court of any country other than New Zealand is such as to ensure that they possess proper qualifications and competence; and
+  (b) that by the law of that country barristers and solicitors of the High Court of New Zealand will be entitled to admission as barristers or as solicitors of that senior court on terms as favourable as those on which barristers or solicitors of that court will under this Act be entitled to admission as barristers and solicitors of the High Court of New Zealand,—
 (2) Any such order may refer to barristers only, or to solicitors only, or to barristers and solicitors, of any such country.
 (3) Every person admitted under any such order is deemed to have been duly admitted under this Act.
 (4) By the same or any subsequent order, the Governor-General may provide for all matters authorised by this section to be prescribed, and for all matters necessary to give effect to the order and to this section.
 
 ### 54 Rules of court as to admission
-(1) Rules, not inconsistent with this Act, may from time to time be made, in the manner prescribed by the Judicature Act 1908, in respect of the evidence of the qualifications, character, and fitness of candidates, and generally in respect of any matter relating to the admission of candidates as barristers and solicitors of the High Court.
+(1) Rules, not inconsistent with this Act, may from time to time be made, in the manner prescribed by the Senior Courts Act 2016, in respect of the evidence of the qualifications, character, and fitness of candidates, and generally in respect of any matter relating to the admission of candidates as barristers and solicitors of the High Court.
 (2) Rules made under this section may prescribe non-educational criteria to be met by candidates for admission as barristers or as barristers and solicitors, which criteria may preclude the admission of a person who has, at any time, been convicted of an offence of a kind or class specified in rules made under this section or who has, at any time, been declared bankrupt.
 (3) Nothing in subsection (2) limits the generality of subsection (1).
 
@@ -2366,7 +2366,7 @@ The Legal Complaints Review Officer may not, in any decision, direction, or orde
 (1) For the purpose of enforcing any order of the Legal Complaints Review Officer for the payment of costs or expenses or both, a duplicate of the order may be filed by the person to whom the costs or expenses or both are payable in the office of the court named in the order and thereupon becomes enforceable in all respects as a final judgment of that court in its civil jurisdiction.
 (2) In every case where an order for costs or expenses or both is made by the Legal Complaints Review Officer, the order must name the court in which the order may, if necessary, be enforced.
 (3) The court so named must,—
-  (a) where the amount recoverable under the order does not exceed $12,000, be a District Court; and
+  (a) where the amount recoverable under the order does not exceed $12,000, be the District Court; and
   (b) in every other case, be the High Court.
 
 **Cost recovery**
@@ -2720,7 +2720,7 @@ Except as provided by this Act or by rules made under this Act, the Disciplinary
 (4) On hearing an appeal under subsection (1), the High Court may confirm, reverse, or modify the order or decision appealed against.
 
 ### 254 Appeal to Court of Appeal on question of law
-(1) Any party to an appeal under section 253(1) who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of that court, or, if the High Court refuses leave, with the leave of the Court of Appeal, appeal to the Court of Appeal against the determination; and section 66 of the Judicature Act 1908 applies to any such appeal.
+(1) Any party to an appeal under section 253(1) who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of that court, or, if the High Court refuses leave, with the leave of the Court of Appeal, appeal to the Court of Appeal against the determination; and section 56 of the Senior Courts Act 2016 applies to any such appeal.
 (2) In determining whether to grant leave to appeal under this section, the Court of Appeal must have regard to whether the question of law involved in the appeal is one that, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for its decision.
 (3) The Court of Appeal, in granting leave under this section, may, in its discretion, impose such conditions as it thinks fit, whether as to costs or otherwise.
 (4) The decision of the Court of Appeal on any appeal under this section is final.
@@ -2899,7 +2899,7 @@ The functions of the Council are,—
 
 ### 276 Consultation with New Zealand Law Society
 The Council must consult the Council of the New Zealand Law Society—
-  (a) in prescribing under section 274(f) the mechanisms and criteria that will apply in relation to the admission as barristers and solicitors of the High Court of New Zealand of persons who are barristers or solicitors of the superior court of any country other than New Zealand; and
+  (a) in prescribing under section 274(f) the mechanisms and criteria that will apply in relation to the admission as barristers and solicitors of the High Court of New Zealand of persons who are barristers or solicitors of a senior court of any country other than New Zealand; and
   (b) in preparing the annual budget of the Council.
 
 ### 277 Levies
@@ -3450,7 +3450,7 @@ Section 334 does not apply to any conditional fee agreement that relates to—
   (a) criminal proceedings; or
   (b) proceedings under the Immigration Act 2009; or
   (c) review proceedings in respect of a statutory power of decision arising out of or under the Immigration Act 2009; or
-  (d) proceedings in respect of which a Family Court has jurisdiction; or
+  (d) proceedings in respect of which the Family Court has jurisdiction; or
   (e) appeals from, or applications for judicial review made in relation to, decisions made in any of the proceedings described in paragraphs (a) to (d).
 
 ### 336 Practice rules in relation to conditional fee agreements
