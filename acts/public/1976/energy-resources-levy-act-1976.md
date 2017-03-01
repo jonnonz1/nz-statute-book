@@ -1,5 +1,5 @@
 # Energy Resources Levy Act 1976
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to make provision for the imposition, assessment, and collection of a levy on certain energy resources produced in New Zealand
 
@@ -216,7 +216,7 @@ With respect to every agent, the following provisions shall apply:
   (a) the maximum price that would have been lawfully payable therefor under such an agreement if this Act had not been passed; and
   (b) the amount of the levy payable or paid in respect of that energy resource.
 (4) Notwithstanding any other enactment, rule of law, deed, or agreement, where a person is liable to pay to any other person a royalty, rent, tribute, or fine on any energy resource produced and the amount of that royalty, rent, tribute, or fine is a percentage of or calculated by reference to the selling price of that energy resource, the selling price for the purposes of calculating the royalty, rent, tribute, or fine payable shall be the amount that the selling price would have been had this Act not been passed, unless both those persons otherwise agree.
-(5) Subsection (1) of section 94A of the Judicature Act 1908 (as inserted by section 2 of the Judicature Amendment Act 1958) shall apply to any money paid by a purchaser to a seller in excess of the amount payable under this section, notwithstanding subsection (2) of the said section 94A.
+(5) Section 74A(1) of the Property Law Act 2007 applies to any money paid by a purchaser to a seller in excess of the amount payable under this section (despite section 74A(2) of that Act).
 (6) In this section—
   - **agreement** means any agreement, whether in writing or not and whether the seller thereunder is the person liable to pay the levy or a person who has purchased the energy resource from the person so liable or any other person
   - **energy resource** means natural gas, coal, or natural gasoline
