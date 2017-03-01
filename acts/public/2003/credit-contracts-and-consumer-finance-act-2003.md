@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2015-06-06_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -247,7 +247,7 @@ This Act binds the Crown.
   (a) the court to make compensation and other orders, or to grant an injunction, in respect of a breach of the principles (see sections 93(aa) and 96(1)﻿(aa)):
   (b) creditors to make decisions on hardship applications under section 55 in compliance with the principles (see section 57A):
   (c) creditors to comply with the principles in relation to a repossession of consumer goods (see sections 83E(1)﻿(c) and 83Q):
-  (d) a District Court to order persons not to act as creditors, lessors, or transferees if those persons have failed, more than once, to comply with the principles (see section 108(1)﻿(a)﻿(v)):
+  (d) the District Court to order persons not to act as creditors, lessors, or transferees if those persons have failed, more than once, to comply with the principles (see section 108(1)﻿(a)﻿(v)):
   (e) the court to have regard to compliance with the principles when deciding whether to reopen an agreement under Part 5 (see section 124(1)﻿(b)).
 (3) This Part also provides for requirements to make publicly available standard form contract terms and information about the costs of borrowing.
 
@@ -979,7 +979,7 @@ A consumer credit insurance contract financed under a consumer credit contract i
   (a) by order, change the consumer credit contract in a manner set out in section 56; and
   (b) make any other orders it thinks fit.
 (3) The court may, if it thinks it appropriate in the circumstances, stay any enforcement proceedings under the consumer credit contract, and make any other orders it thinks fit, until the application has been determined.
-(4) Subsection (3) does not apply to a Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988.
+(4) Subsection (3) does not apply to the Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988.
 
 ### 59 Creditor may apply for variation of change
 (1) A creditor under a consumer credit contract that has been changed by an order under section 58 may apply to the court for an order varying or revoking the order.
@@ -1631,35 +1631,35 @@ For the purposes of this Part, a creditor or lessor has a compliance programme i
 
 ### 85 Jurisdiction of High Court
 The High Court may hear and determine the following matters:
-  (a) appeals from any proceedings in a District Court under this Act:
+  (a) appeals from any proceedings in the District Court under this Act:
   (b) applications for injunctions under section 96:
   (c) applications for orders under any of the provisions of this Act (except sections 108 and 115).
 
-### 86 Jurisdiction of District Courts
-(1) A District Court may hear and determine proceedings for offences against any of the provisions of this Act.
-(2) A District Court may hear and determine applications for orders under any of the provisions of this Act if—
+### 86 Jurisdiction of District Court
+(1) The District Court may hear and determine proceedings for offences against any of the provisions of this Act.
+(2) The District Court may hear and determine applications for orders under any of the provisions of this Act if—
   (a) the occasion for the exercise of the power arises in the course of civil proceedings properly before the court; or
   (b) in the case of—
-    (i) a revolving credit contract that has a credit limit, the credit limit does not exceed $200,000; or
-    (ii) any other credit contract, the total of all advances made and agreed to be made under the credit contract does not exceed $200,000; or
-    (iii) a consumer lease, the cash price of the goods hired does not exceed $200,000; or
-    (iv) a buy-back transaction, the amount of the consideration paid by the transferee under the transaction does not exceed $200,000; or
-  (ba) in the case of an application for an order under any of the provisions of this Act, the relief claimed does not exceed $200,000; or
-  (c) the parties agree, in accordance with section 37 of the District Courts Act 1947, that a District Court has jurisdiction to hear and determine the application.
-(2A) Subsection (2)﻿(b) does not limit subsection (2)﻿(a), (ba), or (c).
-(3) A District Court does not have jurisdiction to hear and determine applications for injunctions under section 96.
-(4) For the purposes of section 43 of the District Courts Act 1947, an application made to a District Court for an order under this Act is to be treated as a proceeding.
+    (i) a revolving credit contract that has a credit limit, the credit limit does not exceed $350,000; or
+    (ii) any other credit contract, the total of all advances made and agreed to be made under the credit contract does not exceed $350,000; or
+    (iii) a consumer lease, the cash price of the goods hired does not exceed $350,000; or
+    (iv) a buy-back transaction, the amount of the consideration paid by the transferee under the transaction does not exceed $350,000; or
+  (c) in the case of an application for an order under any of the provisions of this Act, the relief claimed does not exceed $350,000; or
+  (d) the parties agree, in accordance with section 81 of the District Court Act 2016, that the District Court has jurisdiction to hear and determine the application.
+(3) Subsection (2)﻿(b) does not limit subsection (2)﻿(a), (c), or (d).
+(4) The District Court does not have jurisdiction to hear and determine applications for injunctions under section 96.
+(5) For the purposes of sections 86 to 88 of the District Court Act 2016, an application made to the District Court for an order under this Act is to be treated as a proceeding.
 
-### 87 Jurisdiction of Disputes Tribunals
-(1) A Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988 has jurisdiction to hear and determine applications for orders under sections 90, 93, 94A, 120, and 122 if the total amount in respect of which an order of the Tribunal is sought is not more than $15,000.
-(2) A Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988 has jurisdiction to hear and determine applications for orders under sections 58 and 59 if, at the date that the claim is lodged with the appropriate Tribunal, the unpaid balance under the consumer credit contract does not exceed $15,000.
-(3) An order of a Disputes Tribunal under this Act must not—
+### 87 Jurisdiction of Disputes Tribunal
+(1) The Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 has jurisdiction to hear and determine applications for orders under sections 90, 93, 94A, 120, and 122 if the total amount in respect of which an order of the Tribunal is sought is not more than $15,000.
+(2) The Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 has jurisdiction to hear and determine applications for orders under sections 58 and 59 if, at the date that the claim is lodged with the Tribunal, the unpaid balance under the consumer credit contract does not exceed $15,000.
+(3) An order of the Disputes Tribunal under this Act must not—
   (a) require a person to pay an amount exceeding $15,000:
   (b) declare a person not liable to another person for an amount exceeding $15,000:
   (c) vest any property exceeding $15,000 in value in any person:
   (d) direct the transfer or assignment or delivery of possession of any property exceeding $15,000 in value.
-(4) An order of a Tribunal that exceeds any restriction specified in subsection (3) is entirely of no effect.
-(5) If, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made under section 13 of the Disputes Tribunals Act 1988, subsections (1) to (3) are to be read as if every reference in those subsections to $15,000 were a reference to $20,000.
+(4) An order of the Tribunal that exceeds any restriction specified in subsection (3) is entirely of no effect.
+(5) If, in respect of any proceedings properly before the Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made under section 13 of the Disputes Tribunal Act 1988, subsections (1) to (3) are to be read as if every reference in those subsections to $15,000 were a reference to $20,000.
 
 ### 87A Jurisdiction of dispute resolution schemes
 This subpart does not limit the jurisdiction of a dispute resolution scheme in respect of any statutory obligation under this Act (see section 63(1)﻿(g) of the Financial Service Providers (Registration and Dispute Resolution) Act 2008).
@@ -1971,7 +1971,7 @@ The court must, in determining whether the breach is due to a reasonable mistake
 ### Subpart 6 — Prohibition on certain creditors, lessors, transferees, and buy-back promoters
 
 ### 108 Power to order certain persons not to act as creditors, lessors, transferees, or buy-back promoters
-(1) A District Court may make an order prohibiting or restricting a person from doing all or any of the matters set out in subsection (2) if—
+(1) The District Court may make an order prohibiting or restricting a person from doing all or any of the matters set out in subsection (2) if—
   (a) the person—
     (i) has been convicted of an offence against this Act, or of a crime involving dishonesty (as defined in section 2(1) of the Crimes Act 1961); or
     (ii) is, or has been, a creditor under a credit contract that has been reopened under the Credit Contracts Act 1981; or
@@ -1984,7 +1984,7 @@ The court must, in determining whether the breach is due to a reasonable mistake
     (ii) enter into consumer leases as a lessor; or
     (iii) enter into buy-back transactions as a transferee; or
     (iv) act as a buy-back promoter in connection with a buy-back transaction.
-(1A) However, a District Court may not make an order under subsection (1) on the basis of—
+(1A) However, the District Court may not make an order under subsection (1) on the basis of—
   (a) a conviction referred to in subsection (1)﻿(a)﻿(i) if—
     (i) the court is satisfied that the direct and indirect consequences of the order would be out of all proportion to the gravity of the offence for which the person was convicted; and
     (ii) the person has no other convictions for an offence against this Act or for a crime involving dishonesty (as defined in section 2(1) of the Crimes Act 1961):
@@ -2000,7 +2000,7 @@ The court must, in determining whether the breach is due to a reasonable mistake
     (iii) buy-back transactions.
 
 ### 109 Who may apply and nature of order
-(1) Any person (including the Commission) may apply to a District Court for an order under section 108.
+(1) Any person (including the Commission) may apply to the District Court for an order under section 108.
 (2) An order under section 108—
   (a) may be for a specified period of time or without any time limit, and may be made on any other terms and conditions that the District Court thinks fit; and
   (b) may be cancelled or varied at any time by the District Court.
@@ -2023,7 +2023,7 @@ The court must, in determining whether the breach is due to a reasonable mistake
 (3) Nothing in this Act imposes on the Commission any duty or obligation to take any proceedings under this Act or to exercise any power conferred by this Act in respect of any particular person.
 
 ### 112 Commission's rights to appear and adduce evidence
-(1) The Commission may appear and be heard, in person or by a barrister or solicitor, in any proceedings brought (in whole or in part) under this Act in a District Court, the High Court, the Court of Appeal, or the Supreme Court.
+(1) The Commission may appear and be heard, in person or by a barrister or solicitor, in any proceedings brought (in whole or in part) under this Act in the District Court, the High Court, the Court of Appeal, or the Supreme Court.
 (2) That right applies whether or not the Commission was a party to the proceeding at any earlier stage in the proceedings.
 (3) The Commission has the right to adduce evidence and the right to cross-examine witnesses if the Commission appears under this section, unless the proceedings are by way of appeal.
 (4) This section does not affect the court's power to make any order (including any order as to costs).
@@ -2295,7 +2295,7 @@ The application, savings, and transitional provisions set out in Schedule 1AA, w
 
 ### 143 Continuing application of Credit Contracts Act 1981 and Hire Purchase Act 1971
 (1) If this Act does not apply to a credit contract, hire purchase agreement, or guarantee made before the commencement of this section, or to any act, omission, right, interest, title, immunity, or duty in connection with that contract, agreement, or guarantee, then the Credit Contracts Act 1981 and the Hire Purchase Act 1971 continue to apply to the contract, agreement, or guarantee or to the act, omission, right, interest, title, immunity, or duty as if they were still in force.
-(2) For the purposes of subsection (1), Part 2 of Schedule 1 of the Disputes Tribunals Act 1988 is to be read as if it includes references to the Credit Contracts Act 1981 and the Hire Purchase Act 1971.
+(2) For the purposes of subsection (1), Part 2 of Schedule 1 of the Disputes Tribunal Act 1988 is to be read as if it includes references to the Credit Contracts Act 1981 and the Hire Purchase Act 1971.
 (2A) The references in subsection (1) to the Credit Contracts Act 1981 and the Hire Purchase Act 1971 are references to those Acts as in force immediately before the commencement of this section, except that references in section 45A of the Credit Contracts Act 1981 and section 47A of the Hire Purchase Act 1971 to $7,500 and $12,000 must be treated as references to $15,000 and $20,000 respectively.
 (3) In this section,—
   - **credit contract** has the same meaning as in the Credit Contracts Act 1981 (as in force immediately before the commencement of this section)
