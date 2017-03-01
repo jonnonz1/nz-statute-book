@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2016-10-25_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -827,7 +827,7 @@ If the Appeal Authority requests an appellant to appear before it and the appell
 (1) Where an appeal is allowed in whole or in part, or the whole or any part of the matter is referred back to the chief executive, the Authority may allow the appellant the costs of bringing the appeal or any part thereof.
 (2) Where any appeal is not allowed, no award of costs shall be made against the appellant unless in the opinion of the Authority the appeal was frivolous or vexatious or one that ought not to have been brought.
 (3) The amount of costs awarded shall be stated in the order.
-(4) Where under this section an award of costs is made and any sum remains unpaid, the person in whose favour the award or order was made may obtain from the Secretary of the Authority a certificate under seal of the sum awarded. When any such certificate is filed in a District Court it may be enforced as to the amount specified therein that is still owing as if it were a judgment of that court.
+(4) Where under this section an award of costs is made and any sum remains unpaid, the person in whose favour the award or order was made may obtain from the Secretary of the Authority a certificate under seal of the sum awarded. When any such certificate is filed in the District Court it may be enforced as to the amount specified therein that is still owing as if it were a judgment of that court.
 
 ### 12OA Costs incurred by Authority
 Where an appeal is allowed in whole or in part the Authority, if it considers it appropriate, may require the department to pay a sum fixed by the Authority to cover all or part of the costs incurred by the Authority in hearing and determining the appeal.
@@ -853,7 +853,7 @@ On the determination of any appeal, the Secretary shall send to the chief execut
 Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a determination of the High Court on an appeal under section 12Q as if the determination had been made under section 300 of that Act.
 
 ### 12S Appeals to Supreme Court
-(1) Any party to a proceeding under section 12Q or 12R in which a determination of the High Court or the Court of Appeal has been made may apply, in accordance with the Supreme Court Act 2003, to the Supreme Court for leave to appeal against the determination.
+(1) Any party to a proceeding under section 12Q or 12R in which a determination of the High Court or the Court of Appeal has been made may apply, in accordance with the Senior Courts Act 2016, to the Supreme Court for leave to appeal against the determination.
 (2) Subsection (1) is by way of explanation only.
 
 ### 13 National superannuation
@@ -3028,7 +3028,7 @@ Chief executive's duty to recover debt in section 85A
   (b) any regulations (providing for remittance or suspension of debt) made under section 132G:
   (c) the debt falling within any 1 or more classes, descriptions, or kinds of debts specified in a written determination made by the chief executive for the purposes of this paragraph as debts that it is uneconomic to recover:
   (d) the debt falling within any 1 or more classes, descriptions, or kinds of debts specified in a written authorisation given jointly by the Minister and by the Minister of Finance for public finance purposes generally as debts that are to be written off.
-(1B) Nothing in section 94B of the Judicature Act 1908 or any rule of law relating to payment by or under mistake prevents recovery of a debt under subsection (1).
+(1B) Nothing in section 74B of the Property Law Act 2007 or any rule of law relating to payment by or under mistake prevents recovery of a debt under subsection (1).
 (1BA) In performing the duty imposed by subsection (1), the chief executive—
   (a) must determine from time to time the rate of recovery and method or methods of recovery to be used and, in doing so, must have regard to all relevant considerations, including, without limitation, any identified in directions under subsection (1BC); and
   (b) may from time to time, if satisfied of the existence in the particular case of circumstances of a kind identified by directions under subsection (1BC), defer temporarily recovery of the debt.
@@ -3067,8 +3067,8 @@ Recovery from estate of deceased beneficiary of excess amount beneficiary obtain
 Recovery from estate of beneficiary's deceased spouse or partner of excess amount beneficiary obtained
 (5) If on the death of the spouse or partner of any beneficiary it is found that for any reason, including the receipt of any income or the possession of any property by the deceased during her or his lifetime, the beneficiary has been granted a benefit to which he or she was not by law entitled or has been granted a benefit of an amount to which he or she was not by law entitled, an amount, to be assessed by the chief executive, equal to the total amount paid to the beneficiary in excess of the amount (if any) to which he or she was by law entitled shall constitute a debt due to the Crown by the estate of the spouse or partner, and may be recovered accordingly at the suit of the chief executive.
 Making, notice, and review of assessment of amount under subsection (4) or (5)
-(6) For the purpose of determining for the purposes of subsection (4) or subsection (5) the total amount paid to a beneficiary by way of benefit in excess of the amount (if any) to which he or she was by law entitled, any property that was in the possession of the beneficiary or of the spouse or partner of the beneficiary at his or her death shall, unless in proceedings for the recovery of that excess (but subject to any decision by a District Court in any application under subsection (7)) the contrary is proved, be deemed to have been in his or her possession on such date as the chief executive determines, being not earlier than the date on which the benefit was first granted.
-(7) Notice in writing of every assessment by the chief executive under subsection (4) or subsection (5) shall be served on the executor or administrator of the estate of the deceased beneficiary or, as the case may be, of the deceased spouse or partner of the beneficiary, and the executor or administrator may, within 1 month after the service of the notice, apply to a District Court to review the assessment and any decision of the chief executive under subsection (6) in relation to that assessment.
+(6) For the purpose of determining for the purposes of subsection (4) or subsection (5) the total amount paid to a beneficiary by way of benefit in excess of the amount (if any) to which he or she was by law entitled, any property that was in the possession of the beneficiary or of the spouse or partner of the beneficiary at his or her death shall, unless in proceedings for the recovery of that excess (but subject to any decision by the District Court in any application under subsection (7)) the contrary is proved, be deemed to have been in his or her possession on such date as the chief executive determines, being not earlier than the date on which the benefit was first granted.
+(7) Notice in writing of every assessment by the chief executive under subsection (4) or subsection (5) shall be served on the executor or administrator of the estate of the deceased beneficiary or, as the case may be, of the deceased spouse or partner of the beneficiary, and the executor or administrator may, within 1 month after the service of the notice, apply to the District Court to review the assessment and any decision of the chief executive under subsection (6) in relation to that assessment.
 (8) The following provisions shall apply with respect to every such application:
   (a) the court shall have jurisdiction with respect to the application irrespective of the amount of the assessment:
   (b) the application shall not be heard in open court:
@@ -3173,7 +3173,7 @@ Every person commits an offence and shall be liable on conviction to a fine not 
 
 ### 86H Variation or discharge of deduction notice
 (1) If a person to whom a deduction notice is issued or a debtor considers that a deduction notice has been issued in error, or contains an error, that person or the debtor may bring the matter to the notice of the office of the department from which the notice was issued.
-(2) If the matter is not rectified to the satisfaction of that person or the debtor, as the case may require, within 5 working days after the day on which that person or the debtor brings the matter to the notice of that office of the department, that person or the debtor may apply ex parte to the Registrar of a District Court for the variation or discharge of the notice.
+(2) If the matter is not rectified to the satisfaction of that person or the debtor, as the case may require, within 5 working days after the day on which that person or the debtor brings the matter to the notice of that office of the department, that person or the debtor may apply ex parte to a Registrar of the District Court for the variation or discharge of the notice.
 (3) Where the Registrar is satisfied that an error has been made and the notice ought to be varied or discharged, the Registrar may vary or discharge the notice.
 (4) The variation or discharge shall take effect when notice of it is served on the person in accordance with section 86J.
 (5) The Registrar shall forthwith send a copy of the variation or discharge of the notice by registered letter to the office of the department from which the notice was issued.
