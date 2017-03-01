@@ -1,5 +1,5 @@
 # Reciprocal Enforcement of Judgments Act 1934
-_Consolidation as at 2013-10-11_
+_Consolidation as at 2017-03-01_
 
 > An Act to make better provision for the enforcement in New Zealand of judgments given in the United Kingdom or in other countries (whether within the Sovereign's dominions or not) which afford reciprocal treatment to judgments given in New Zealand, for facilitating the enforcement in other countries of judgments given in New Zealand, and for other purposes in connection with the matters aforesaid
 
@@ -14,7 +14,7 @@ This Act may be cited as the Reciprocal Enforcement of Judgments Act 1934.
   - **judgment** means a final or interlocutory judgment or order given or made by a court in any civil proceedings, or a judgment or order given or made by a court in any criminal proceedings for the payment of a sum of money in respect of compensation or damages to an injured party; and includes an award in proceedings on an arbitration (not being an award made outside New Zealand within the meaning of the Arbitration Act 1996) if the award has, in pursuance of the law in force in the place where it was made, become enforceable in the same manner as a judgment given by a court in that place
   - **judgment creditor** means the person in whose favour the judgment was given (whether or not a sum of money is payable under the judgment), and includes any person in whom the rights under the judgment have become vested by succession or assignment or otherwise
   - **judgment debtor** means the person against whom the judgment was given (whether or not a sum of money is payable under the judgment), and includes any person against whom the judgment is enforceable under the law of the original court
-  - **judgments given in the superior courts of New Zealand** means judgments given in the High Court and includes judgments given in any court on appeals against any judgments so given; and also includes judgments that have become enforceable as judgments of the High Court though not given therein
+  - **judgments given in the senior courts of New Zealand** means judgments given in the High Court and includes judgments given in any court on appeals against any judgments so given; and also includes judgments that have become enforceable as judgments of the High Court though not given therein
   - **money judgment** means a judgment under which a sum of money is payable
   - **non-money judgment** means a judgment that is not a money judgment
   - **original court** in relation to any judgment means the court by which the judgment was given
@@ -27,14 +27,14 @@ This Act may be cited as the Reciprocal Enforcement of Judgments Act 1934.
 
 ### 3 Application of this Part
 (1) This Part shall extend to the United Kingdom.
-(1A) Nothing in this Part applies or extends to a judgment that is given in or by a superior court or an inferior court of Australia.
-(1B) Subsection (1A) does not, however, prevent a judgment given in or by a superior court or an inferior court of Australia from being a registrable Australian judgment under subpart 5 of Part 2 of the Trans-Tasman Proceedings Act 2010.
-(1C) Subsection (1A), and the amendments to, and revocations of orders under, this Part effected by Schedule 2 of the Trans-Tasman Proceedings Act 2010, do not, however, affect the application of this Part to a judgment given in or by a superior court or an inferior court of Australia before the commencement of subpart 5 of Part 2 of that Act.
-(2) If the Governor-General is satisfied that, in the event of the benefits conferred by this Part being extended to money judgments given in the superior courts of any part of the Sovereign's dominions outside the United Kingdom, or given in the superior courts of any foreign country, substantial reciprocity of treatment will be assured as respects the enforcement within that part of the Sovereign's dominions or in that foreign country, as the case may be, of money judgments given in the superior courts of New Zealand, he may by Order in Council direct—
+(1A) Nothing in this Part applies or extends to a judgment that is given in or by a senior court or an inferior court of Australia.
+(1B) Subsection (1A) does not, however, prevent a judgment given in or by a senior court or an inferior court of Australia from being a registrable Australian judgment under subpart 5 of Part 2 of the Trans-Tasman Proceedings Act 2010.
+(1C) Subsection (1A), and the amendments to, and revocations of orders under, this Part effected by Schedule 2 of the Trans-Tasman Proceedings Act 2010, do not, however, affect the application of this Part to a judgment given in or by a senior court or an inferior court of Australia before the commencement of subpart 5 of Part 2 of that Act.
+(2) If the Governor-General is satisfied that, in the event of the benefits conferred by this Part being extended to money judgments given in the senior courts of any part of the Sovereign's dominions outside the United Kingdom, or given in the senior courts of any foreign country, substantial reciprocity of treatment will be assured as respects the enforcement within that part of the Sovereign's dominions or in that foreign country, as the case may be, of money judgments given in the senior courts of New Zealand, he may by Order in Council direct—
   (a) that this Part shall extend to that part of the Sovereign's dominions or to that foreign country; and
-  (b) that such courts as are specified in the Order in Council shall, for the purposes of this Part, be deemed superior courts of that part of the Sovereign's dominions or of that foreign country.
-(2A) The fact that a particular court is not specified in an Order in Council is not taken to imply that the court is not a superior court for the purposes of this Act.
-(3) Any money judgment of a superior court of a country to which this Part extends, other than a money judgment of such a court given on appeal from a court, not being a specified inferior court, which is not a superior court, shall be a judgment to which this Part applies, if—
+  (b) that such courts as are specified in the Order in Council shall, for the purposes of this Part, be deemed senior courts of that part of the Sovereign's dominions or of that foreign country.
+(2A) The fact that a particular court is not specified in an Order in Council is not taken to imply that the court is not a senior court for the purposes of this Act.
+(3) Any money judgment of a senior court of a country to which this Part extends, other than a money judgment of such a court given on appeal from a court, not being a specified inferior court, which is not a senior court, shall be a judgment to which this Part applies, if—
   (a) it is final and conclusive as between the parties thereto; and
   (b) there is payable thereunder a sum of money, not being a sum payable in respect of taxes or other charges of a like nature or in respect of a fine or other penalty; and
   (c) it is given after the coming into operation of the Order in Council directing that this Part shall extend to that country:
@@ -56,7 +56,7 @@ This Act may be cited as the Reciprocal Enforcement of Judgments Act 1934.
 (6) The Governor-General may by a subsequent Order in Council vary or revoke any Order in Council previously made under this section.
 
 ### 3B Application of this Part to non-money judgments
-(1) If the Governor-General is satisfied that, in the event of the benefits conferred by this Part being extended to some or all non-money judgments given in any superior courts of any country to which this Part extends, substantial reciprocity of treatment will be assured as respects the enforcement in that country of all or some non-money judgments given in the superior courts of New Zealand, the Governor-General may, by Order in Council, direct that such non-money judgments of the superior courts of that country as are specified in the order are specified non-money judgments for the purposes of this Part.
+(1) If the Governor-General is satisfied that, in the event of the benefits conferred by this Part being extended to some or all non-money judgments given in any senior courts of any country to which this Part extends, substantial reciprocity of treatment will be assured as respects the enforcement in that country of all or some non-money judgments given in the senior courts of New Zealand, the Governor-General may, by Order in Council, direct that such non-money judgments of the senior courts of that country as are specified in the order are specified non-money judgments for the purposes of this Part.
 (2) If the Governor-General is satisfied that, in the event of the benefits conferred by this Part being extended to all or some non-money judgments given in any inferior courts of a country to which this Part extends, substantial reciprocity of treatment will be assured as respects the enforcement in that country of all or some non-money judgments given in the inferior courts of New Zealand, the Governor-General may, by Order in Council, direct that such non-money judgments of such of the inferior courts of that country as are specified in the order, are specified non-money judgments for the purposes of this Part.
 (3) Every Order in Council made under subsection (1) or subsection (2) shall specify the non-money judgments by reference to—
   (a) the kinds of proceedings in which the non-money judgments are given; and
@@ -165,7 +165,7 @@ No proceedings for the recovery of a sum payable under a judgment to which this 
 (3) Nothing in this section limits or affects the application of any rule of law relating to the recognition of judgments by any court in New Zealand.
 
 ### 10 Power to make judgments unenforceable in New Zealand if no reciprocity
-(1) If it appears to the Governor-General that the treatment in respect of recognition and enforcement accorded by the courts of any country to money judgments given in any superior court of New Zealand is substantially less favourable than that accorded by the courts of New Zealand to money judgments of the superior courts of that country, the Governor-General may by Order in Council apply this section to that country.
+(1) If it appears to the Governor-General that the treatment in respect of recognition and enforcement accorded by the courts of any country to money judgments given in any senior court of New Zealand is substantially less favourable than that accorded by the courts of New Zealand to money judgments of the senior courts of that country, the Governor-General may by Order in Council apply this section to that country.
 (2) Except in so far as the Governor-General may by Order in Council under this section otherwise direct, no proceedings shall be entertained in any court in New Zealand for the recovery of any sum alleged to be payable under a judgment given in a court of a country to which this section applies.
 (3) The Governor-General may by a subsequent Order in Council vary or revoke any order previously made under this section.
 
@@ -186,5 +186,5 @@ An Order in Council made under this Act is a legislative instrument and a disall
 (1) The Administration of Justice Act 1922 is hereby repealed.
 (2) Every Proclamation issued under section 3 of the said Act, and in force on the passing of this Act, shall continue in force as if it were an Order in Council to the same effect issued under section 3 of this Act, and may be varied or revoked in accordance with the provisions of subsection (5) of section 3 of this Act.
 
-### 13 Section 56 of Judicature Act 1908 modified
-Section 56 of the Judicature Act 1908 shall hereafter apply only in respect of such judgments, decrees, rules, and orders as, being enforceable under that section, are not enforceable in New Zealand in accordance with the foregoing provisions of this Act.
+### 13 Section 172 of Senior Courts Act 2016 modified
+Section 172 of the Senior Courts Act 2016 applies only in respect of any judgments, decrees, rules, and orders that, being enforceable under that section, are not enforceable in New Zealand in accordance with this Act.
