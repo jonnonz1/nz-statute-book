@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -390,7 +390,7 @@ In sections 22 and 28, sending date, in relation to a notice required by section
   (b) in the case where the money is required to be paid in trust for an accused, the accused is an offender (whether by reason of any earlier finding of guilt or entry of a plea of guilty in relation to an offence, or by reason of a finding of guilt or entry of a plea of guilty, after the giving of the notice under section 20 but before the filing of the person’s claim under this section, in relation to the offence charged); and
   (c) the person is a victim of the offender and has not obtained, and is not seeking, a judgment—
     (i) in respect of the conduct on which the claim is based; and
-    (ii) in civil proceedings against the offender in a District Court or the High Court.
+    (ii) in civil proceedings against the offender in the District Court or the High Court.
 (2) The claim must be—
   (a) in a form approved for the purpose by the Secretary; and
   (b) filed with the Secretary of the Tribunal; and
@@ -452,7 +452,7 @@ The Tribunal cannot determine a victim’s claim filed under section 28 until—
 (2) Those court documents or records include—
   (a) criminal records kept under section 184 of the Criminal Procedure Act 2011, including—
     (i) a reserved decision entered in those records; and
-    (ii) a minute or memorandum of criminal proceedings in a District Court appointed for the exercise of criminal jurisdiction; and
+    (ii) a minute or memorandum of criminal proceedings in the District Court in its criminal jurisdiction; and
   (b) documents referred to in the Criminal Proceedings (Search of Court Records) Rules 1974, including—
     (i) the register of persons to be tried or sentenced, the register commonly known as the Return of Prisoners Tried and Sentenced, and the indexes to those registers; and
     (ii) a file, or part of a file, or document relating to a criminal proceeding; and
@@ -502,7 +502,7 @@ The Tribunal cannot determine a victim’s claim filed under section 28 until—
 (5) Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails to comply with a notice under subsection (1), or fails to answer a question asked under the notice.
 
 ### 40 Power to maintain order at hearings, etc
-For the purposes of dealing with the matters before it, a Tribunal has the powers of a District Court, in the exercise of its civil jurisdiction, in respect of citing parties and conducting and maintaining order at the hearings of the Tribunal.
+For the purposes of dealing with the matters before it, a Tribunal has the powers of the District Court, in the exercise of its civil jurisdiction, in respect of citing parties and conducting and maintaining order at the hearings of the Tribunal.
 
 ### 41 Power to restrict publication of proceedings, etc
 (1) If a victim’s claim is filed under section 28, the Tribunal may, if satisfied that it is desirable to do so, make or give 1 or more of the following orders or directions:
@@ -539,7 +539,7 @@ For the purposes of dealing with the matters before it, a Tribunal has the power
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
 
 ### 44 Availability of documents filed in connection with claims
-(1) The availability of documents filed with the Secretary of the Tribunal, filed in the Tribunal, or accessed under section 35 by the Tribunal, in connection with a victim’s claim under this subpart must be determined in accordance with the rules regulating the practice and procedure of District Courts.
+(1) The availability of documents filed with the Secretary of the Tribunal, filed in the Tribunal, or accessed under section 35 by the Tribunal, in connection with a victim’s claim under this subpart must be determined in accordance with the rules regulating the practice and procedure of the District Court.
 (2) For the purposes of this section, a direction given by the Tribunal forbidding inspection of a document without the Tribunal’s leave must be treated as if it were given by, and required the leave of, a District Court Judge.
 (3) Nothing in this section applies to a document or record to which section 31(3) or section 36 applies.
 
@@ -580,7 +580,7 @@ Subject to sections 28 to 44, 46, 59, and 60, the Tribunal may regulate the proc
 (5) Implementation of an order in part, under subsection (4), does not prevent any or all of the victims concerned from enforcing their entitlements under the order against the offender, and the partially implemented order may be enforced—
   (a) by way of a deduction, under section 18(1)﻿(c), from any money received later under section 17; or
   (b) under subsection (6), as if it were a judgment of the District Court.
-(6) A copy of a partially implemented order under section 46 or an order under section 50(3)﻿(b) may be filed without fee in an office of a District Court for the purposes of enforcement and, on being so filed, the copy of the order has the same effect as a judgment of the District Court, and may be enforced accordingly.
+(6) A copy of a partially implemented order under section 46 or an order under section 50(3)﻿(b) may be filed without fee in an office of the District Court for the purposes of enforcement and, on being so filed, the copy of the order has the same effect as a judgment of the District Court, and may be enforced accordingly.
 
 ### 49 Procedure if victim or others entitled cannot be found
 (1) The Secretary must pay the money to the offender promptly if the Secretary is, 1 year after first being required by section 48(3) or (4) to pay to a victim money held in the account for the offender, unable, despite having taken reasonable steps for the purpose, to locate the victim or to identify and locate another person legally entitled to the money.
