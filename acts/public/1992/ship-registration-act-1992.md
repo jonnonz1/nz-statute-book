@@ -1,5 +1,5 @@
 # Ship Registration Act 1992
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to provide for the registration of ships in New Zealand and related matters
 
@@ -280,7 +280,7 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
 (9) Nothing in subsection (1) applies in relation to the name under which any ship is deemed by section 90 to be registered.
 
 ### 17 Appeals from decisions under section 16
-(1) Any person who is dissatisfied with a decision of the Registrar under subsection (1) or subsection (2) or subsection (5)﻿(a) of section 16 may appeal to a District Court within 21 days after being notified of that decision, or within such further time as the court may allow.
+(1) Any person who is dissatisfied with a decision of the Registrar under subsection (1) or subsection (2) or subsection (5)﻿(a) of section 16 may appeal to the District Court within 21 days after being notified of that decision, or within such further time as the court may allow.
 (2) On hearing the appeal, the court may, subject to subsection (3), confirm the decision or give such directions or make such other determination in the matter as the court thinks fit.
 (3) The court shall not give any direction or make any determination that is inconsistent with the provisions of section 16.
 
@@ -401,7 +401,7 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
 (1) A ship registered in Part A of the Register shall not depart from a New Zealand port to a foreign port unless there is endorsed on the ship's certificate of registry—
   (a) the name and address of each person who is, for the time being, authorised to be master of the ship; and
   (b) the serial numbers of the maritime document held, in compliance with the Maritime Transport Act 1994 and any regulations or rules made under that Act, by each master in relation to the competence of that master.
-(2) An endorsement under subsection (1) shall be made or cancelled, as the case may be, upon lodgment with the Registrar or the Director of—
+(2) An endorsement under subsection (1) shall be made or cancelled, as the case may be, upon lodgement with the Registrar or the Director of—
   (a) the certificate of registry; and
   (b) a request in writing signed by the owner or representative person.
 
@@ -524,14 +524,14 @@ This Part applies only in relation to ships registered in Part A of the Register
 
 ### 35 Transfer of ships and shares in ships
 (1) Subject to section 36, a ship, or any share in a ship, shall be transferred by a bill of sale made in the prescribed form.
-(2) Where a ship or share in a ship is so transferred, the Registrar shall, as soon as practicable after the lodgment of the bill of sale together with a declaration of transfer made by the transferee in accordance with section 37,—
+(2) Where a ship or share in a ship is so transferred, the Registrar shall, as soon as practicable after the lodgement of the bill of sale together with a declaration of transfer made by the transferee in accordance with section 37,—
   (a) register the bill of sale by entering in the Register the name of the transferee as owner of the ship or share; and
   (b) endorse on the bill of sale the fact of the entry having been made, together with the date and time of the making of the entry.
-(3) The transferee of any bill of sale made under this section shall lodge the bill of sale with the Registrar within 3 months after the date on which the transfer takes effect, and bills of sale lodged under this section shall be registered in the order of their lodgment.
+(3) The transferee of any bill of sale made under this section shall lodge the bill of sale with the Registrar within 3 months after the date on which the transfer takes effect, and bills of sale lodged under this section shall be registered in the order of their lodgement.
 (4) Every transferee commits an offence and is liable on conviction to a fine not exceeding $2,000 who fails to lodge a bill of sale in accordance with subsection (3).
 
 ### 36 Transmission of ship or share in ship by operation of law
-Subject to section 81, where a ship, or any share in a ship, passes by transmission to a person by any lawful means other than by a transfer under section 35, the Registrar shall, as soon as practicable after the lodgment of—enter in the Register the name of that person as owner of the ship or share.
+Subject to section 81, where a ship, or any share in a ship, passes by transmission to a person by any lawful means other than by a transfer under section 35, the Registrar shall, as soon as practicable after the lodgement of—enter in the Register the name of that person as owner of the ship or share.
   (a) a declaration of transmission made by that person in accordance with section 37; and
   (b) such evidence of the transmission as the Registrar may require,—
 
@@ -555,10 +555,10 @@ Every declaration of transfer or declaration of transmission shall be made in th
 ### 39 Mortgage of ship or share in ship
 (1) A ship or any share in a ship may be given as security for a mortgage under this Act.
 (2) The instrument of mortgage shall be made in the prescribed form.
-(3) As soon as practicable after the lodgment of a mortgage instrument so made, the Registrar shall—
+(3) As soon as practicable after the lodgement of a mortgage instrument so made, the Registrar shall—
   (a) register the mortgage by entering in the Register particulars of the mortgage; and
   (b) endorse on the instrument the fact of the entry having been made, together with the date and time of the making of the entry.
-(4) Mortgage instruments lodged under this section shall be registered in the order of their lodgment.
+(4) Mortgage instruments lodged under this section shall be registered in the order of their lodgement.
 
 ### 40 Priority of mortgages
 (1) Where 2 or more mortgages are registered in respect of the same ship or share in a ship, the priority among the mortgagees shall be in accordance with the order of registration of the mortgages, irrespective of the dates upon which they were made or executed and notwithstanding any express, implied, or constructive notice.
@@ -582,19 +582,19 @@ Every declaration of transfer or declaration of transmission shall be made in th
 
 ### 43 Transfer of mortgage
 (1) A mortgage of a ship or of a share in a ship may be transferred by an instrument of transfer made in the prescribed form.
-(2) Where a mortgage is so transferred, the Registrar shall, as soon as practicable after the lodgment of the instrument of transfer, together with the mortgage instrument to which it relates,—
+(2) Where a mortgage is so transferred, the Registrar shall, as soon as practicable after the lodgement of the instrument of transfer, together with the mortgage instrument to which it relates,—
   (a) enter in the Register the name of the transferee as the mortgagee of the ship or share that is the subject of the mortgage; and
   (b) endorse on the mortgage instrument the fact of the entry having been made, together with the date and time of the making of the entry.
 
 ### 44 Transmission of mortgage by operation of law
-Subject to section 81, where the interest of a mortgagee in the mortgage of a ship or of a share in a ship passes by transmission to a person by any lawful means other than by a transfer under section 43, the Registrar shall, as soon as practicable after the lodgment of—enter in the Register the name of that person as mortgagee of the ship or share concerned.
+Subject to section 81, where the interest of a mortgagee in the mortgage of a ship or of a share in a ship passes by transmission to a person by any lawful means other than by a transfer under section 43, the Registrar shall, as soon as practicable after the lodgement of—enter in the Register the name of that person as mortgagee of the ship or share concerned.
   (a) a declaration of transmission by that person in the prescribed form; and
   (b) such evidence of the transmission as the Registrar may require,—
 
 ### 45 Discharge, waiver, or extinction of mortgage
 (1) Where a mortgage is discharged, waived, or extinguished by operation of law (including forfeiture), the Registrar must make an entry in the Register, to the effect specified in subsection (2), as soon as practicable after—
-  (a) the lodgment of the mortgage instrument endorsed with a receipt for the mortgage money duly signed and attested; or
-  (b) the lodgment of the mortgage instrument endorsed with an appropriate waiver or discharge duly signed and attested; or
+  (a) the lodgement of the mortgage instrument endorsed with a receipt for the mortgage money duly signed and attested; or
+  (b) the lodgement of the mortgage instrument endorsed with an appropriate waiver or discharge duly signed and attested; or
   (c) the receipt of an order of a court directing that the ship be forfeit or an office copy of the order; or
   (d) the receipt of such particulars as the Registrar may reasonably require for the purposes of this section.
 (2) The entry in the Register must be to the effect that the mortgage has been discharged, waived, or extinguished.
