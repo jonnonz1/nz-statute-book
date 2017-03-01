@@ -1,5 +1,5 @@
 # New Zealand Sign Language Act 2006
-_Consolidation as at 2013-08-27_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the New Zealand Sign Language Act 2006.
@@ -76,7 +76,7 @@ New Zealand Sign Language is declared to be an official language of New Zealand.
   (a) the Deaf community should be consulted on matters relating to NZSL (including, for example, the promotion of the use of NZSL):
   (b) NZSL should be used in the promotion to the public of government services and in the provision of information to the public:
   (c) government services and information should be made accessible to the Deaf community through the use of appropriate means (including the use of NZSL).
-(2) Consultation carried out by a government department under subsection (1)(a) is to be effected by the chief executive of the government department consulting, to the extent that is reasonably practicable, with the persons or organisations that the chief executive considers to be representative of the interests of the members of the Deaf community relating to NZSL.
+(2) Consultation carried out by a government department under subsection (1)﻿(a) is to be effected by the chief executive of the government department consulting, to the extent that is reasonably practicable, with the persons or organisations that the chief executive considers to be representative of the interests of the members of the Deaf community relating to NZSL.
 (3) The purpose of the principles in subsection (1) is to promote access to government information and services for the Deaf community, but nothing in subsection (1) is to be read as conferring on the Deaf community advantages not enjoyed by other persons.
 
 ### 10 Reporting
@@ -101,6 +101,6 @@ Nothing in this Act affects the New Zealand Bill of Rights Act 1990.
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the standards of competency that a person who is to act in legal proceedings as an interpreter of NZSL must attain:
   (b) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
-(2) Regulations made under subsection (1)(a) must include (or provide, among other things, for the determination and publication of) the criteria by which the competence of a person to act in legal proceedings as an interpreter of NZSL may be assessed.
+(2) Regulations made under subsection (1)﻿(a) must include (or provide, among other things, for the determination and publication of) the criteria by which the competence of a person to act in legal proceedings as an interpreter of NZSL may be assessed.
 
 ## Schedule Schedule — Courts and tribunals before which New Zealand Sign Language may be used
