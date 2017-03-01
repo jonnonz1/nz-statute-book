@@ -1,5 +1,5 @@
 # Freedom Camping Act 2011
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Freedom Camping Act 2011.
@@ -17,7 +17,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 (3) However, the powers of regulation under the Act do not allow for freedom camping to be prohibited on all land controlled or managed by a particular local authority or on all land controlled or managed by the Department.
 (4) This Act does not regulate freedom camping on private land.
 (5) Part 1 provides for preliminary matters and defines words and phrases used in the Act.
-(6) Part 2 has 2 subparts. Subpart 1 deals with freedom camping on land under the control of local authorities. Subpart 2 deals with freedom camping on the land referred to in subsection (2)(b). Freedom camping is permitted under this Part unless it is restricted or prohibited in accordance with the provisions of each subpart.
+(6) Part 2 has 2 subparts. Subpart 1 deals with freedom camping on land under the control of local authorities. Subpart 2 deals with freedom camping on the land referred to in subsection (2)﻿(b). Freedom camping is permitted under this Part unless it is restricted or prohibited in accordance with the provisions of each subpart.
 (7) Part 3 has 5 subparts, which deal with the following matters:
   (a) subpart 1: offences, defences, and penalties:
   (b) subpart 2: how proceedings for an offence may be commenced and the persons against whom the proceedings may be taken:
@@ -84,7 +84,7 @@ In this Act, conservation land—
   (c) does not include an area of land referred to in paragraph (a) or (b) that is permanently covered by water.
 
 ### 8 Repeal of freedom camping restriction and prohibition signs provisions
-Sections 15(a), 16, and 20(1)(f) and (i) are repealed on the close of 31 March 2012.
+Sections 15(a), 16, and 20(1)﻿(f) and (i) are repealed on the close of 31 March 2012.
 
 ### 9 Repeal of transitional infringement offence provisions for local authority camping-related bylaws
 Sections 46 to 50 and Schedules 3 and 4 are repealed on the close of the day that is 1 year after the commencement of this Act.
@@ -117,7 +117,7 @@ Freedom camping is permitted in any local authority area unless it is restricted
   (a) making a bylaw under this section; or
   (b) amending a bylaw made under this section; or
   (c) revoking a bylaw made under this section.
-(6) Despite subsection (5)(b), a local authority may, by resolution publicly notified, make minor changes to, or correct errors in, a bylaw made under this section, but only if the changes or corrections do not affect—
+(6) Despite subsection (5)﻿(b), a local authority may, by resolution publicly notified, make minor changes to, or correct errors in, a bylaw made under this section, but only if the changes or corrections do not affect—
   (a) an existing right, interest, title, immunity, or duty of any person to whom the bylaw applies; or
   (b) an existing status or capacity of any person to whom the bylaw applies.
 (7) In subsection (6), publicly notified means a notice given in accordance with the requirements of the definition of public notice in section 5(1) of the Local Government Act 2002.
@@ -133,7 +133,7 @@ Freedom camping is permitted in any local authority area unless it is restricted
 (4) If, after a review, the local authority considers that the bylaw—
   (a) should be amended, revoked, or revoked and replaced, it must act under section 11(5):
   (b) should continue without amendment, it must use the special consultative procedure set out in section 83 of the Local Government Act 2002.
-(5) For the purposes of subsection (4)(b), the statement of proposal referred to in section 83(1)(a) of the Local Government Act 2002 must include—
+(5) For the purposes of subsection (4)﻿(b), the statement of proposal referred to in section 83(1)﻿(a) of the Local Government Act 2002 must include—
   (a) a copy of the bylaw to be continued; and
   (b) the reasons for the proposal; and
   (c) a report of any relevant determinations by the local authority under section 11(2) of this Act.
@@ -179,7 +179,7 @@ Freedom camping is permitted on any conservation land unless freedom camping is 
   (c) complies with subsection (2).
 (2) A summary of a freedom camping notice must—
   (a) generally describe the contents of the notice; and
-  (b) specify the date on which the notice will come into force (which must be a date that is no earlier than the later of the days on which the notice is published in the Gazette or the newspaper under subsection (1)(a) and (b)); and
+  (b) specify the date on which the notice will come into force (which must be a date that is no earlier than the later of the days on which the notice is published in the Gazette or the newspaper under subsection (1)﻿(a) and (b)); and
   (c) state that copies of the notice may be inspected and obtained at the offices of the Department on payment of the specified amount.
 (3) The Department must—
   (a) keep copies of all freedom camping notices at its national office; and
@@ -243,11 +243,11 @@ In prosecuting an offence under section 20(1), the prosecution does not need to 
     (iv) avoid actual or likely damage to the environment; and
   (b) the conduct of the defendant was reasonable in the circumstances; and
   (c) the effects of the act or omission were adequately remedied or mitigated by the defendant after the offence occurred.
-(3) It is a defence to an offence against section 20(1)(b)(ii), (d), (h)(ii), or (k) if the court concerned is satisfied that—
+(3) It is a defence to an offence against section 20(1)﻿(b)﻿(ii), (d), (h)﻿(ii), or (k) if the court concerned is satisfied that—
   (a) the act giving rise to the offence was necessary in the circumstances; and
   (b) the conduct of the defendant was reasonable in the circumstances; and
   (c) the effects of the act were adequately remedied or mitigated by the defendant after the offence occurred.
-(4) Subsection (5) applies in respect of a proceeding commenced by an enforcement officer issuing an infringement notice under section 27 and in relation to which the person to whom the notice was issued is a person described in section 26(1)(b) or (c).
+(4) Subsection (5) applies in respect of a proceeding commenced by an enforcement officer issuing an infringement notice under section 27 and in relation to which the person to whom the notice was issued is a person described in section 26(1)﻿(b) or (c).
 (5) The defences available under section 133A(3) and (4) of the Land Transport Act 1998 apply to the person as if the offence were a stationary vehicle offence within the meaning of section 2(1) of that Act.
 (6) The defences available under this section do not limit any other defences that may be available.
 
@@ -260,7 +260,7 @@ In prosecuting an offence under section 20(1), the prosecution does not need to 
 
 ### 24 Offenders liable for cost of damage
 (1) A person who commits an offence may, in addition to, or instead of, the penalty for the offence, be ordered to pay the costs incurred by the local authority or Department in repairing any damage done to the local authority area or the conservation land concerned as a result of the offence.
-(2) The costs must be assessed by a District Court and are recoverable as if they were a fine.
+(2) The costs must be assessed by the District Court and are recoverable as if they were a fine.
 
 ### Subpart 2 — Proceedings
 
@@ -269,8 +269,8 @@ In prosecuting an offence under section 20(1), the prosecution does not need to 
 (2) Proceedings for an infringement offence may be commenced by—
   (a) an enforcement officer issuing an infringement notice under section 27; or
   (b) an enforcement officer filing a charging document under section 14 of the Criminal Procedure Act 2011.
-(3) Proceedings commenced in the way described in subsection (2)(a) that continue (other than by the infringement fee for the offence being paid) must be continued under section 21 of the Summary Proceedings Act 1957, and that section applies accordingly with any necessary modifications.
-(4) Proceedings commenced in the way described in subsection (2)(b) do not require leave of a District Court Judge or Registrar under section 21 of the Summary Proceedings Act 1957.
+(3) Proceedings commenced in the way described in subsection (2)﻿(a) that continue (other than by the infringement fee for the offence being paid) must be continued under section 21 of the Summary Proceedings Act 1957, and that section applies accordingly with any necessary modifications.
+(4) Proceedings commenced in the way described in subsection (2)﻿(b) do not require leave of a District Court Judge or Registrar under section 21 of the Summary Proceedings Act 1957.
 
 ### 26 Who proceedings may be commenced against
 (1) Proceedings for an offence may be taken against 1 or more of the following persons:
@@ -279,7 +279,7 @@ In prosecuting an offence under section 20(1), the prosecution does not need to 
     (i) was registered as the owner, or one of the owners, of the vehicle in the register kept under section 18 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986; or
     (ii) was the registered person in respect of the vehicle under Part 17 of the Land Transport Act 1998:
   (c) if a vehicle was used in the commission of the offence, the person who, at the time of the alleged offence, was lawfully entitled to possession of the vehicle (whether or not jointly with any other person).
-(2) Subsection (1)(b) and (c) apply whether or not the person, at the time the alleged offence was committed,—
+(2) Subsection (1)﻿(b) and (c) apply whether or not the person, at the time the alleged offence was committed,—
   (a) is an individual; or
   (b) was the driver of the vehicle; or
   (c) was the person in charge of the vehicle; or
@@ -293,9 +293,9 @@ In prosecuting an offence under section 20(1), the prosecution does not need to 
   (c) if the person is a holder of a land transport document, by sending it, or a copy of it, by post to the person at his or her last address provided for the purposes of that document; or
   (d) if a vehicle was used or is being used in the commission of the infringement offence, by attaching it, or a copy of it, to the vehicle.
 (3) For the purposes of the Summary Proceedings Act 1957,—
-  (a) an infringement notice sent to a person by post under subsection (2)(b) or (c) is to be treated as having been served on the person when it would have been delivered in the ordinary course of the post:
-  (b) an infringement notice attached to a vehicle under subsection (2)(d) is to be treated as having been served when it is attached to the vehicle.
-(4) In subsection (2)(c), land transport document means a licence, permit, approval, authorisation, exemption, certificate, or similar document issued under one of the following Acts:
+  (a) an infringement notice sent to a person by post under subsection (2)﻿(b) or (c) is to be treated as having been served on the person when it would have been delivered in the ordinary course of the post:
+  (b) an infringement notice attached to a vehicle under subsection (2)﻿(d) is to be treated as having been served when it is attached to the vehicle.
+(4) In subsection (2)﻿(c), land transport document means a licence, permit, approval, authorisation, exemption, certificate, or similar document issued under one of the following Acts:
   (a) the Land Transport Act 1998:
   (b) the Road User Charges Act 1977:
   (c) the Transport (Vehicle and Driver Registration and Licensing) Act 1986:
@@ -339,12 +339,12 @@ In prosecuting an offence under section 20(1), the prosecution does not need to 
 (2) If the rental company does not receive an infringement notice for the particular offence, but receives a reminder notice for that offence, the rental company may not exercise the authority to debit the hirer’s credit card unless, within 5 working days of the receipt of the reminder notice, the rental company—
   (a) sends a copy of the reminder notice and the rental service agreement to the permanent address provided by the hirer in the rental service agreement; and
   (b) notifies the hirer that the rental company will debit the hirer's credit card with the fee and costs payable because of the infringement notice.
-(3) Except where the hirer has been separately served by an enforcement officer with an infringement notice for the particular offence, the infringement notice sent to the hirer under subsection (1)(a) or the reminder notice served under subsection (2)(a) is deemed to have been served on the hirer by the enforcement officer and the hirer has, in respect of the infringement notice or the reminder notice, all the rights and obligations under the Summary Proceedings Act 1957 of a person so served.
+(3) Except where the hirer has been separately served by an enforcement officer with an infringement notice for the particular offence, the infringement notice sent to the hirer under subsection (1)﻿(a) or the reminder notice served under subsection (2)﻿(a) is deemed to have been served on the hirer by the enforcement officer and the hirer has, in respect of the infringement notice or the reminder notice, all the rights and obligations under the Summary Proceedings Act 1957 of a person so served.
 (4) The rental service agreement may specify an administration fee that the rental company may charge to cover the cost of debiting the hirer's credit card.
 (5) Any infringement fee for a particular offence that the rental company receives as a result of debiting the hirer's credit card must be paid to the issuing enforcement authority without delay.
 (6) The rental company must refund the hirer any infringement fee for the particular offence that the hirer has received as a result of debiting the hirer's credit card if—
   (a) the issuing enforcement authority decides not to continue the proceeding for the particular offence; or
-  (b) the reminder notice filed or deemed to have been filed in a District Court is withdrawn; or
+  (b) the reminder notice filed or deemed to have been filed in the District Court is withdrawn; or
   (c) at a court hearing, the hirer is not found to be liable for the particular offence; or
   (d) the fine for the particular offence is set aside by a determination of a court.
 
@@ -381,7 +381,7 @@ In prosecuting an offence under section 20(1), the prosecution does not need to 
 (1) An enforcement officer who believes on reasonable grounds that a person has committed or is committing an offence may direct the person to give—
   (a) his or her full name, date of birth, full address, telephone number, and occupation; and
   (b) the full name, date of birth, full address, telephone number, occupation, and whereabouts of any other person connected in any way with the alleged offence.
-(2) Nothing in subsection (1)(b) overrides legal professional privilege or affects any privilege recognised by sections 54 to 64 of the Evidence Act 2006.
+(2) Nothing in subsection (1)﻿(b) overrides legal professional privilege or affects any privilege recognised by sections 54 to 64 of the Evidence Act 2006.
 
 ### 36 Enforcement officers may require certain persons to leave local authority area or conservation land
 An enforcement officer may require a person who he or she believes on reasonable grounds is committing or has committed an offence to leave the local authority area or conservation land concerned.
@@ -413,7 +413,7 @@ An enforcement officer may seize and impound a boat, a caravan, or a car, camper
 (2) The local authority or the Director-General must return the property if—
   (a) the property is in future not likely to be used in any offence of the kind for which it was seized; and
   (b) the owner or person has paid, or tenders with the request payment of, the costs of the local authority or the Department in seizing, impounding, transporting, and storing the property.
-(3) If the local authority or the Director-General refuses to return the property, the owner or person from whom it was seized may apply to a District Court to review the decision of the local authority or the Director-General.
+(3) If the local authority or the Director-General refuses to return the property, the owner or person from whom it was seized may apply to the District Court to review the decision of the local authority or the Director-General.
 (4) The District Court may—
   (a) confirm the decision of the local authority or the Director-General to refuse to return the property; or
   (b) order that the property be returned unconditionally or subject to any conditions that the court thinks fit.
@@ -428,7 +428,7 @@ An enforcement officer may seize and impound a boat, a caravan, or a car, camper
   (a) first, the costs incurred in seizing, impounding, transporting, and storing the property:
   (b) secondly, the costs of disposing of the property:
   (c) thirdly, any surplus to the owner of the property or the person from whom it was seized.
-(4) Subsections (2), (3)(a), and (3)(b) also apply in the following circumstances to property that has not been returned within 6 months after it was seized and impounded:
+(4) Subsections (2), (3)﻿(a), and (3)﻿(b) also apply in the following circumstances to property that has not been returned within 6 months after it was seized and impounded:
   (a) where the person from whom the property was seized cannot be contacted after reasonable efforts to find the person have been made:
   (b) where the property was not seized from a person and the owner of the property cannot be identified or contacted after reasonable efforts have been made to find the owner.
 (5) Any surplus remaining after applying subsection (3) forms part of the general revenues of the local authority or, if the Director-General has been responsible for the seized property, must be paid into a Crown Bank Account.
