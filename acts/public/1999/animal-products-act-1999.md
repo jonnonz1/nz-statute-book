@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -1382,7 +1382,7 @@ For the purposes of determining or ensuring the compliance of animal material or
       (A) have been commenced but not yet determined; or
       (B) have not yet been commenced but are intended to be commenced within a reasonable period; or
     (ii) the owner of that animal or animals cannot be located.
-(2) If this section applies, a District Court, on its own motion or on an application by a constable or an animal product officer, may make an order authorising—
+(2) If this section applies, the District Court, on its own motion or on an application by a constable or an animal product officer, may make an order authorising—
   (a) the sale of the animal or animals; or
   (b) the placement of the animal or animals with another person; or
   (c) the destruction, slaughter, and processing of the animal or animals for animal products for sale, or other disposal of the animal or animals.
@@ -2212,7 +2212,7 @@ Where a body corporate is convicted of an offence against this Act, every direct
 **Compliance orders**
 
 ### 146 Compliance orders
-(1) A compliance order is an order made by a District Court that may do any 1 or more of the following things:
+(1) A compliance order is an order made by the District Court that may do any 1 or more of the following things:
   (a) require a person to cease, or prohibit a person from commencing, anything done or to be done by or on behalf of that person that, in the opinion of the court, contravenes or is likely to contravene this Act or any requirement imposed by or under this Act, and thus—
     (i) is likely to endanger the health of humans or animals through the sale of defective or non-complying animal material or product; or
     (ii) is likely to prejudice the integrity or reputation of New Zealand exports of animal material or products, or the integrity of official assurances given under this Act:
@@ -2224,15 +2224,13 @@ Where a body corporate is convicted of an offence against this Act, every direct
 (4) If the court so orders, a compliance order applies to the personal representatives, successors, and assigns of the person to whom the order is addressed to the same extent that it applies to the person.
 
 ### 147 Application for compliance order
-(1) The Director-General may at any time apply to a District Court for a compliance order of a kind specified in section 146.
-(2) Every application to a District Court under this section must be made by originating application.
-(3) Except as modified—the rules relating to the practice and procedure of District Courts for the time being in force under the District Courts Act 1947 apply with respect to every application to the court under this section.
-  (a) by sections 148 to 156; and
-  (b) by any rules made under section 157,—
+(1) The Director-General may at any time apply to the District Court for a compliance order of a kind specified in section 146.
+(2) Every application to the District Court under this section must be made by originating application.
+(3) Subject to modification by sections 148 to 156 and by any rules made under section 157, the District Court Rules made under section 228 of the District Court Act 2016 apply to every application to the court under this section.
 
 ### 148 Notification of application
 (1) Except as provided in section 151 (which relates to interim compliance orders), the Director-General must serve notice of the application on every person directly affected by the application.
-(2) The notice must be served within 5 working days after the date on which the application is filed in the District Court, or within such further time as a District Court may allow.
+(2) The notice must be served within 5 working days after the date on which the application is filed in the District Court, or within such further time as the District Court may allow.
 
 ### 149 Right to be heard
 Except as provided in section 151, before deciding an application for a compliance order, the court must—
@@ -2259,7 +2257,7 @@ After considering an application for a compliance order, the court may—
 (5) A person against whom an interim compliance order has been made without the person having been heard may apply to a District Court Judge to change or cancel the order, and, after hearing from that person and the applicant for the order, the Judge may confirm, change, or cancel the interim compliance order.
 
 ### 152 Change or cancellation of compliance order
-(1) Without limiting section 151(5), any person directly affected by a compliance order may at any time apply to a District Court in the prescribed manner to change or cancel the order.
+(1) Without limiting section 151(5), any person directly affected by a compliance order may at any time apply to the District Court in the prescribed manner to change or cancel the order.
 (2) The applicant must, within 5 working days after making the application, serve notice of the application in the prescribed manner on the Director-General and on any other person (outside the Ministry) who was directly affected by the original order.
 (3) Before deciding an application to change or cancel a compliance order, the court must hear the applicant, the Director-General, and any person directly affected by the original compliance order who wishes to be heard.
 (4) After considering the application, the court may—
@@ -2275,18 +2273,18 @@ After considering an application for a compliance order, the court may—
   (b) recover the costs and expenses of complying with the order as a debt due from the person.
 
 ### 154 Appeals to High Court
-(1AA) This subsection applies to a decision of a District Court, on an application under section 147, to—
+(1AA) This subsection applies to a decision of the District Court, on an application under section 147, to—
   (a) make or refuse to make a compliance order; or
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (1) A party to proceedings in which there is made a decision to which subsection (1AA) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
-(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under this section as if it were an appeal under section 124 of that Act.
 (3)
 
 ### 155 Appeals to Court of Appeal or Supreme Court
 (1) With the leave of the court appealed to, a party to an appeal under section 154 may appeal to the Court of Appeal or the Supreme Court against any determination of the High Court in the appeal.
 (2) On an appeal under this section, the Court of Appeal or the Supreme Court has the same power to adjudicate on the proceedings as the High Court had.
-(3) Subsection (1) is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
+(3) Subsection (1) is subject to section 75 of the Senior Courts Act 2016 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
 
 ### 156 Effect of appeal
 Except where the court making the order appealed from otherwise directs,—
@@ -2294,8 +2292,8 @@ Except where the court making the order appealed from otherwise directs,—
   (b) every compliance order may be enforced in the same manner in all respects as if no such appeal were pending.
 
 ### 157 Rules of court
-In addition to all other powers conferred by the District Courts Act 1947, the Governor-General may from time to time, by Order in Council, make rules—
-  (a) regulating the practice and procedure of District Courts in proceedings under this Act that relate to compliance orders:
+In addition to all other powers conferred by the District Court Act 2016, the Governor-General may from time to time, by Order in Council, make rules—
+  (a) regulating the practice and procedure of the District Court in proceedings under this Act that relate to compliance orders:
   (b) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act that relate to compliance orders.
 
 ## Part 11 — Miscellaneous provisions
