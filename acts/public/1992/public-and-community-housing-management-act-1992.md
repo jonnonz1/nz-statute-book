@@ -1,5 +1,5 @@
 # Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2016-04-14_
+_Consolidation as at 2017-03-01_
 
 > An Act to—aprovide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbprovide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcprovide for related matters, income-related rents, information matching, and other tenancy matters
 
@@ -1328,7 +1328,7 @@ A tenant may, in accordance with regulations made under section 136, appeal agai
   (b) may award costs against the appellant in respect of any appeal that is refused, if the appeal body believes that it was frivolous or vexatious, or should not have been brought.
 
 ### 135 Where appeal body established by regulations
-If the agency is not the Ministry and regulations under section 136(1)﻿(a) establish a body to dispose of appeals under sections 132 to 134, any party to any appeal to the body who is dissatisfied with any determination of the body may appeal to a District Court and in that case,—
+If the agency is not the Ministry and regulations under section 136(1)﻿(a) establish a body to dispose of appeals under sections 132 to 134, any party to any appeal to the body who is dissatisfied with any determination of the body may appeal to the District Court and in that case,—
   (a) within 14 days after the date of the determination, the appellant must—
     (i) lodge a notice of appeal with the court; and
     (ii) give a copy of the notice to every other party to the appeal:
@@ -1342,7 +1342,7 @@ If the agency is not the Ministry and regulations under section 136(1)﻿(a) est
   (a) for the purposes of section 133,—
     (i) establishing a body to dispose of appeals under that section, prescribing how its members are to be appointed, and prescribing how it is to hear and dispose of appeals; or
     (ii) providing that such appeals are to be made to the Social Security Appeal Authority established by the Social Security Act 1964 as if they were appeals against decisions or determinations under that Act, and providing that sections 12J to 12N, section 12OA, and sections 12P to 12S of that Act apply, with or without modification, to the hearing and disposal of appeals; or
-    (iii) providing, if the agency is not the Ministry, that such appeals are to be made to a District Court, and providing that the District Courts Act 1947 and the rules of the District Court apply, with or without modification, to the hearing and disposal of appeals; or
+    (iii) providing, if the agency is not the Ministry, that such appeals are to be made to the District Court, and providing that the District Court Act 2016 and the rules of the District Court apply, with or without modification, to the hearing and disposal of appeals; or
   (b) providing for any other matters contemplated by the provisions of this Part (other than sections 107 to 113), necessary for their administration, or necessary for giving them full effect.
 (2) Any body established under subsection (1)﻿(a)﻿(i) is a statutory board within the meaning of the Fees and Travelling Allowances Act 1951, and every member of it is entitled to—
   (a) remuneration by way of fees, salary, or allowances for the member's services as a member of it:
@@ -1830,7 +1830,7 @@ A community housing provider may, in accordance with regulations made under sect
 (7) Subject to section 188, a decision of the authority that is the subject of the appeal stands pending determination of the appeal.
 
 ### 186 Where appeal body established by regulations
-If regulations under section 187(1)﻿(a) establish a body to dispose of appeals under sections 183 to 188, any party to an appeal to the body who is dissatisfied with any determination of the body may appeal to a District Court and in that case,—
+If regulations under section 187(1)﻿(a) establish a body to dispose of appeals under sections 183 to 188, any party to an appeal to the body who is dissatisfied with any determination of the body may appeal to the District Court and in that case,—
   (a) within 14 days after the date of the determination, the appellant must—
     (i) lodge a notice of appeal with the court; and
     (ii) give a copy of the notice to every other party to the appeal:
@@ -1840,7 +1840,7 @@ If regulations under section 187(1)﻿(a) establish a body to dispose of appeals
 ### 187 Regulations relating to appeals
 (1) The Governor-General may, by Order in Council, make regulations—
   (a) establishing a body to dispose of appeals under section 184, prescribing how its members are to be appointed, and prescribing how it is to hear and dispose of appeals; or
-  (b) providing that such appeals are to be made to a District Court, and providing that the District Courts Act 1947 and the rules of the District Court apply, with or without modification, to the hearing and disposal of appeals.
+  (b) providing that such appeals are to be made to the District Court, and providing that the District Court Act 2016 and the rules of the District Court apply, with or without modification, to the hearing and disposal of appeals.
 (2) Any body established under subsection (1)﻿(a) is a statutory board within the meaning of the Fees and Travelling Allowances Act 1951, and every member of it is entitled to—
   (a) remuneration by way of fees, salary, or allowances for the member's services as a member of it:
   (b) payment of travelling allowances and expenses in respect of time spent travelling in its service.
