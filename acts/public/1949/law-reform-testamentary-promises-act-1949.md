@@ -1,5 +1,5 @@
 # Law Reform (Testamentary Promises) Act 1949
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > An Act to make better provision for the enforcement of promises to make testamentary provision in return for services rendered
 
@@ -37,19 +37,19 @@ In this Act, unless the context otherwise requires,—
 (3)
 
 ### 5 Courts to have concurrent jurisdiction
-(1) Subject to the succeeding provisions of this section, the High Court and a Family Court shall each have jurisdiction in respect of proceedings under this Act.
-(2) A Family Court shall not have jurisdiction in respect of any application under this Act if, at the date of the filing of the application, proceedings relating to the same matter have already been commenced in the High Court.
+(1) Subject to the succeeding provisions of this section, the High Court and the Family Court shall each have jurisdiction in respect of proceedings under this Act.
+(2) The Family Court shall not have jurisdiction in respect of any application under this Act if, at the date of the filing of the application, proceedings relating to the same matter have already been commenced in the High Court.
 (3) If a Family Court Judge is of the opinion that any proceedings under this Act, or any question in any such proceedings, would be more appropriately dealt with in the High Court, the Judge may, upon application by any party to the proceedings or without any such application, refer the proceedings or the question to the High Court.
-(4) The High Court, upon application by any party to any proceedings pending under this Act in a Family Court, shall order that the proceedings be removed into the High Court unless it is satisfied that the proceedings would be more appropriately dealt with in a Family Court. Where the proceedings are so removed, they shall be continued in the High Court as if they had been properly and duly commenced in that court.
+(4) The High Court, upon application by any party to any proceedings pending under this Act in the Family Court, shall order that the proceedings be removed into the High Court unless it is satisfied that the proceedings would be more appropriately dealt with in the Family Court. Where the proceedings are so removed, they shall be continued in the High Court as if they had been properly and duly commenced in that court.
 
 ### 5A Right of appeal
-(1AA) This subsection applies to a decision of a Family Court or District Court, in proceedings under this Act, to—
+(1AA) This subsection applies to a decision of the Family Court or the District Court, in proceedings under this Act, to—
   (a) make or refuse to make an order; or
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (1) A party to proceedings in which there is made a decision to which subsection (1AA) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
-(1A) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
-(1B) On the ex parte application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(1A) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
+(1B) On the ex parte application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under section 126(1) of the District Court Act 2016 to give the Registrar of the High Court security for costs.
 (1C) Subsection (1B) overrides subsection (1A).
 (2)
 (3)
