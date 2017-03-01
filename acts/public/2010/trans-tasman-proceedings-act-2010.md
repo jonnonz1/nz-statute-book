@@ -1,5 +1,5 @@
 # Trans-Tasman Proceedings Act 2010
-_Consolidation as at 2013-10-11_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Trans-Tasman Proceedings Act 2010.
@@ -31,9 +31,10 @@ This Act is the Trans-Tasman Proceedings Act 2010.
   (b) subpoenas issued in criminal proceedings in New Zealand courts to be served and complied with in Australia.
 (5) New Zealand court and New Zealand subpoena have, in subsection (4), the meanings given to them by section 150 of the Evidence Act 2006.
 (6) Subsections (3) to (5), and the guides to subparts 1 to 8 of Part 2, are by way of explanation only. They do not affect any section specified in them.
+(7) Part 3 of this Act, which stands apart from Parts 1 and 2, sets out special provisions applying to certain proceedings in the High Court of New Zealand and the Federal Court of Australia.
 
 ### 4 Interpretation
-(1) In this Act, unless the context otherwise requires,—
+(1) In Parts 1 and 2, unless the context otherwise requires,—
   - **adjudicative function** , in relation to a tribunal, means a function of the tribunal of determining the rights or liabilities of a person in a proceeding in which there are 2 or more parties (including determining that those rights or liabilities are altered)
   - **appear remotely** , in relation to a person and a hearing in or related to a proceeding in a court or tribunal in the territory of a party to the Trans-Tasman Agreement, means that the person participates in the hearing, from the territory of the other party to the Trans-Tasman Agreement, by remote appearance medium
   - **appearance or response document** has the meaning given to it by section 17(2)
@@ -45,7 +46,7 @@ This Act is the Trans-Tasman Proceedings Act 2010.
     (a) the matters for determination are or include a matter or matters arising under—
       (i) any of sections 46A, 155A, or 155B of the Trade Practices Act 1974 (Aust); or
       (ii) a provision of Part VI or XII of the Trade Practices Act 1974 (Aust) in so far as it relates to any of sections 46A, 155A, or 155B of that Act; or
-    (b) any other kind of relief specified in an order under subsection (2)(a) is sought; or
+    (b) any other kind of relief specified in an order under subsection (2)﻿(a) is sought; or
     (c) an interlocutory order is sought in relation to a proceeding of the kind mentioned in paragraph (a) or (b); or
     (d) the enforcement is sought of a judgment given in a proceeding of the kind mentioned in paragraph (a) or (b)
   - **civil pecuniary penalty** means a pecuniary penalty imposed in a civil proceeding in relation to a contravention of legislation
@@ -71,7 +72,7 @@ This Act is the Trans-Tasman Proceedings Act 2010.
       (i) an obligation under Australian law to maintain a spouse or a de facto partner (within the meaning of the Acts Interpretation Act 1901 (Aust)):
       (ii) an obligation under New Zealand law to maintain a spouse, civil union partner, or de facto partner:
     (c) the enforcement of a child support obligation:
-    (d) an arrangement or matter declared by an order under subsection (2)(b) to be an arrangement or matter excluded from the operation of subpart 1 or 5, or subparts 1 and 5, of Part 2
+    (d) an arrangement or matter declared by an order under subsection (2)﻿(b) to be an arrangement or matter excluded from the operation of subpart 1 or 5, or subparts 1 and 5, of Part 2
   - **exclusive choice of court agreement** has the meaning given to it by section 25(4)
   - **given** , in relation to a judgment, includes entered, granted, or made
   - **High Court** means the High Court of New Zealand
@@ -90,7 +91,7 @@ This Act is the Trans-Tasman Proceedings Act 2010.
   - **original jurisdiction** , in relation to a judgment, means the Commonwealth of Australia, or State or Territory of Australia, as the case may be, in which the original court or tribunal is established
   - **party** , in relation to a proceeding, means a plaintiff or defendant
   - **plaintiff** , in relation to a proceeding, means the person by whom or on whose behalf the proceeding is brought
-  - **procedural rules** , in relation to a court or tribunal, means rules, or any other laws (other than this Act or any regulations under it),—
+  - **procedural rules** , in relation to a court or tribunal, means rules, or any other laws (other than Parts 1 and 2 or any regulations made under those Parts),—
     (a) defining or governing the exercise of the court's or tribunal's jurisdiction; or
     (b) regulating the court's or tribunal's practice and procedure
   - **proceeding** , in a court or tribunal, includes—
@@ -100,7 +101,7 @@ This Act is the Trans-Tasman Proceedings Act 2010.
     (a) the Proceeds of Crime Act 1987 (Aust):
     (b) the Proceeds of Crime Act 2002 (Aust):
     (c) a law of a State or Territory of Australia that is a corresponding law (within the meaning of the Proceeds of Crime Act 2002 (Aust)):
-    (d) any other Australian law that is specified for the purposes of this paragraph by an order under subsection (2)(c):
+    (d) any other Australian law that is specified for the purposes of this paragraph by an order under subsection (2)﻿(c):
     (e) the Proceeds of Crime Act 1991, and sections 142A to 142Q of the Sentencing Act 2002:
     (f) the Criminal Proceeds (Recovery) Act 2009
   - **registered** , in relation to an Australian judgment, means registered in a New Zealand court under section 57
@@ -128,7 +129,7 @@ This Act is the Trans-Tasman Proceedings Act 2010.
     (a) as in the court's or tribunal's procedural rules; or
     (b) if those rules do not define the term, as in section 29 of the Interpretation Act 1999.
 (2) The Governor-General may, by Order in Council,—
-  (a) specify other kinds of relief the seeking of which in a proceeding in the Federal Court of Australia makes it an Australian trans-Tasman market proceeding for the purposes of this Act and under paragraph (b) of the definition of that term in subsection (1):
+  (a) specify other kinds of relief the seeking of which in a proceeding in the Federal Court of Australia makes it an Australian trans-Tasman market proceeding for the purposes of Parts 1 and 2 and under paragraph (b) of the definition of that term in subsection (1):
   (b) declare an arrangement or matter to be excluded from the operation of subpart 1 or 5, or subparts 1 and 5, of Part 2 for the purposes of paragraph (d) of the definition of excluded matter in subsection (1):
   (c) specify any other Australian law for the purposes of paragraph (d) of the definition of proceeds of crime legislation in subsection (1).
 
@@ -136,7 +137,7 @@ This Act is the Trans-Tasman Proceedings Act 2010.
 A reference in, or in any regulations made under, this Act to a repealed Australian enactment is a reference to an Australian enactment that, with or without modification, replaces, or that corresponds to, the Australian enactment repealed.
 
 ### 6 Trans-Tasman market proceedings provisions not affected
-Nothing in this Act limits or affects Part 1A of the Judicature Act 1908 (operating in conjunction with Part 8 of the Australian Act).
+[Repealed]
 
 ### 7 Act binds the Crown
 This Act binds the Crown.
@@ -170,15 +171,15 @@ This Act binds the Crown.
   (a) a civil proceeding commenced in a New Zealand court; or
   (b) a civil proceeding commenced in a New Zealand tribunal, but only if—
     (i) the tribunal's procedural rules permit an initiating document relating to the proceeding to be served outside New Zealand; and
-    (ii) the tribunal is declared by an order under subsection (3)(a) to be a tribunal to which this subpart applies.
+    (ii) the tribunal is declared by an order under subsection (3)﻿(a) to be a tribunal to which this subpart applies.
 (2) However, this subpart does not apply to—
   (a) a civil proceeding that relates wholly or partly to an excluded matter; or
   (b) a civil proceeding that relates wholly or partly to an action in rem; or
-  (c) a civil proceeding in a New Zealand tribunal declared by an order under subsection (3)(b) to be a proceeding to which this subpart does not apply.
+  (c) a civil proceeding in a New Zealand tribunal declared by an order under subsection (3)﻿(b) to be a proceeding to which this subpart does not apply.
 (3) The Governor-General may, by Order in Council,—
   (a) declare a New Zealand tribunal to be a tribunal to which this subpart applies:
   (b) declare a civil proceeding in a New Zealand tribunal to be a proceeding to which this subpart does not apply.
-(4) An order under subsection (3)(a) must not declare a tribunal to be one to which this subpart applies unless, when the order is made, the tribunal is prescribed for the purposes of section 66(1)(b)(i) (which relates to enforcement in Australia of New Zealand judgments) of the Australian Act.
+(4) An order under subsection (3)﻿(a) must not declare a tribunal to be one to which this subpart applies unless, when the order is made, the tribunal is prescribed for the purposes of section 66(1)﻿(b)﻿(i) (which relates to enforcement in Australia of New Zealand judgments) of the Australian Act.
 
 ### 13 Service of initiating documents in Australia
 (1) An initiating document for the proceeding may be served in Australia under this subpart.
@@ -230,7 +231,7 @@ Service in Australia under section 13 of an initiating document has the same eff
   (a) was served, or purportedly served, in Australia under section 13 with an initiating document for a proceeding; and
   (b) applies under section 22 to a New Zealand court for an order staying the proceeding on the grounds that an Australian court is the more appropriate court for the proceeding.
 (2) Under section 23(4) the defendant, the defendant's counsel, or both may, despite section 38 (but subject to the rest of subpart 4), appear remotely in the hearing by the New Zealand court of the application for a stay of the proceeding if—
-  (a) the defendant makes to the court under section 23(4)(c) a request to appear remotely in the hearing; and
+  (a) the defendant makes to the court under section 23(4)﻿(c) a request to appear remotely in the hearing; and
   (b) a remote appearance medium is, or can reasonably be made, available.
 (3) This section is by way of explanation only. It does not affect section 23(4).
 
@@ -264,18 +265,18 @@ Service in Australia under section 13 of an initiating document has the same eff
 (2) However, the New Zealand court must determine the defendant's application under section 22 with a hearing if any of the following requests it to do so:
   (a) the plaintiff; and
   (b) the defendant; and
-  (c) any other person who is required or permitted, by regulations under subsection (5)(a), to be served with the defendant's application.
+  (c) any other person who is required or permitted, by regulations under subsection (5)﻿(a), to be served with the defendant's application.
 (3) The request must be made—
   (a) within 10 working days of the New Zealand court after the day the defendant made the application; or
   (b) if, before or after the end of the period in paragraph (a), a person referred to in subsection (2) applies to the New Zealand court for a shorter or longer period—within any shorter or longer period the New Zealand court considers appropriate.
 (4) The defendant, the defendant's counsel, or both may, despite section 38 (but subject to the rest of subpart 4), appear remotely in the hearing if—
   (a) the defendant was served, or purportedly served, in Australia under section 13 with an initiating document for a proceeding; and
   (b) the New Zealand court is determining with a hearing the defendant's application under section 22 for an order to stay the proceeding; and
-  (c) the defendant has made to the New Zealand court within the period (if any) prescribed for the purposes of this paragraph by regulations under subsection (5)(b) a request to appear remotely in the hearing; and
+  (c) the defendant has made to the New Zealand court within the period (if any) prescribed for the purposes of this paragraph by regulations under subsection (5)﻿(b) a request to appear remotely in the hearing; and
   (d) a remote appearance medium is, or can reasonably be made, available.
 (5) The Governor-General may, by Order in Council, make regulations—
   (a) requiring or permitting the defendant's application under section 22 for a stay to be served on people other than the plaintiff and the defendant:
-  (b) prescribing a period for the purposes of subsection (4)(c).
+  (b) prescribing a period for the purposes of subsection (4)﻿(c).
 
 ### 24 Order of stay of proceeding
 (1) On an application under section 22, the New Zealand court may, by order, stay the proceeding if it is satisfied that an Australian court—
@@ -295,13 +296,13 @@ Service in Australia under section 13 of an initiating document has the same eff
 (1) On an application under section 22 (and despite section 24) the New Zealand court—
   (a) must, by order, stay the proceeding, if satisfied that an exclusive choice of court agreement designates an Australian court as the court to determine the matters in issue between the parties to the proceeding; and
   (b) must not, by order, stay the proceeding, if satisfied that an exclusive choice of court agreement designates a New Zealand court as the court to determine those matters.
-(2) However, subsection (1)(a) does not apply to an exclusive choice of court agreement if the New Zealand court is satisfied that—
+(2) However, subsection (1)﻿(a) does not apply to an exclusive choice of court agreement if the New Zealand court is satisfied that—
   (a) it is null and void under the law (including, without limitation, the rules of private international law) of Australia; or
   (b) under New Zealand law, a party to it lacked the capacity to conclude it; or
   (c) giving effect to it would lead to a manifest injustice or would be manifestly contrary to New Zealand public policy; or
   (d) for exceptional reasons beyond the control of the parties to it, it cannot reasonably be performed; or
   (e) the court designated by it as the court to determine the matters in issue between the parties to the proceeding has decided not to determine those matters.
-(3) However, subsection (1)(b) does not apply to an exclusive choice of court agreement if the New Zealand court is satisfied that it is null and void under the law (including, without limitation, the rules of private international law) of New Zealand.
+(3) However, subsection (1)﻿(b) does not apply to an exclusive choice of court agreement if the New Zealand court is satisfied that it is null and void under the law (including, without limitation, the rules of private international law) of New Zealand.
 (4) Exclusive choice of court agreement, in relation to matters in issue between parties to a proceeding, means a written agreement between those parties that—
   (a) designates the courts, or a specified court or courts, of a specified country, to the exclusion of any other courts, as the court or courts to determine disputes between those parties that are or include those matters; and
   (b) is not an agreement the parties to which are or include 1 or more individuals acting primarily for personal, family, or household purposes; and
@@ -340,7 +341,7 @@ An order under section 24 or 25 may be made subject to any conditions the New Ze
   (b) discovery:
   (c) a warrant of arrest of property:
   (d) any action, assistance, order, or other relief under subpart 1 or 2 of Part 4 of the Evidence Act 2006.
-(3) The Governor-General may, by Order in Council, declare a New Zealand court (other than the High Court) to be a court to which subsection (1)(b) applies.
+(3) The Governor-General may, by Order in Council, declare a New Zealand court (other than the High Court) to be a court to which subsection (1)﻿(b) applies.
 
 ### 32 Giving of interim relief in support of Australian proceeding
 (1) On an application under section 31(1), the New Zealand court may give interim relief (other than excluded interim relief) in support of the Australian proceeding if—
@@ -408,14 +409,14 @@ Nothing in the Courts (Remote Participation) Act 2010 applies to any remote appe
   (b) the counsel is entitled to practise as a barrister, a solicitor, or both in the Supreme Court of a State or Territory of Australia.
 (4) If the party's counsel is entitled to practise as a barrister, a solicitor, or both in the Supreme Court of a State or Territory of Australia, and is given leave under subsection (3),—
   (a) the party's counsel is entitled to practise as a barrister, a solicitor, or both in relation to the remote appearances to which the leave relates; and
-  (b) each of those appearances is for the purposes of section 27(1)(b)(i) of the Lawyers and Conveyancers Act 2006 an appearance allowed by this Act.
+  (b) each of those appearances is for the purposes of section 27(1)﻿(b)﻿(i) of the Lawyers and Conveyancers Act 2006 an appearance allowed by this Act.
 
 ### 39 Appearing remotely without leave in hearing of application for stay
 (1) This section applies to a defendant who—
   (a) was served, or purportedly served, in Australia under section 13 with an initiating document for a proceeding; and
   (b) applies under section 22 to a New Zealand court for an order staying the proceeding on the grounds that an Australian court is the more appropriate court for the proceeding.
 (2) Under section 23(4) the defendant, the defendant's counsel, or both may, despite section 38 (but subject to the rest of this subpart), appear remotely in the hearing by the New Zealand court of the application for a stay of the proceeding if—
-  (a) the defendant makes to the court under section 23(4)(c) a request to appear remotely in the hearing; and
+  (a) the defendant makes to the court under section 23(4)﻿(c) a request to appear remotely in the hearing; and
   (b) a remote appearance medium is, or can reasonably be made, available.
 (3) This section is by way of explanation only. It does not affect section 23(4).
 
@@ -430,11 +431,11 @@ A person must not appear remotely from Australia by audio link unless the courtr
   (b) people who are at the Australian place to hear people at the New Zealand place.
 
 ### 42 Costs of remote appearances from Australia
-(1) Unless the New Zealand court or tribunal otherwise orders, the costs involved in the party, the party's counsel, or both participating in hearings by using a remote appearance medium, under section 23(4) or, as the case requires, under leave given under section 38, must be paid by the defendant who made under section 23(4)(c) a request to appear remotely or, as the case requires, the applicant for that leave.
+(1) Unless the New Zealand court or tribunal otherwise orders, the costs involved in the party, the party's counsel, or both participating in hearings by using a remote appearance medium, under section 23(4) or, as the case requires, under leave given under section 38, must be paid by the defendant who made under section 23(4)﻿(c) a request to appear remotely or, as the case requires, the applicant for that leave.
 (2) The New Zealand court or tribunal may make an order specifying the amount payable by a party under subsection (1), and requiring the party to pay that amount.
 (3) An order made under subsection (2) by a tribunal that does not have the power to enforce its orders—
-  (a) may be filed in a District Court; and
-  (b) when so filed, is enforceable as a judgment of that District Court.
+  (a) may be filed in the District Court; and
+  (b) when so filed, is enforceable as a judgment of the District Court.
 
 ### 43 Powers of New Zealand court or tribunal in Australia
 For the purposes of a remote appearance from Australia under section 23(4) or leave given under section 38, the New Zealand court or tribunal may exercise in Australia all its powers that it is permitted to exercise in Australia under Australian law.
@@ -444,7 +445,7 @@ For the purposes of a remote appearance from Australia under section 23(4) or le
 ### 44 People in New Zealand appearing remotely in Australian proceedings
 (1) A remote appearance from New Zealand in a proceeding in an Australian court or tribunal is authorised if it is in accordance with the Australian Act.
 (2) However, a defendant on whom an initiating document has been served in New Zealand under the Australian Act and the defendant's counsel may, without leave, appear remotely in any hearing before that court of the defendant's application under that Act for a stay of proceedings if—
-  (a) they request to do so under section 18(4)(b) of that Act; and
+  (a) they request to do so under section 18(4)﻿(b) of that Act; and
   (b) a remote appearance medium is, or can reasonably be made, available.
 
 ### 45 Powers of Australian courts or tribunals in New Zealand
@@ -515,15 +516,15 @@ An officer of a New Zealand court or tribunal may, at the request of an Australi
 ### 53 When registrable Australian judgments are enforceable in New Zealand
 (1) A registrable Australian judgment cannot be enforced in New Zealand if it is not registered in a New Zealand court under section 57.
 (2) By way of explanation, the judgment therefore cannot be enforced by way of—
-  (a) a registration or other enforcement process under Part 1 of the Reciprocal Enforcement of Judgments Act 1934, section 56 of the Judicature Act 1908, or any other enactment in force in New Zealand; or
+  (a) a registration or other enforcement process under Part 1 of the Reciprocal Enforcement of Judgments Act 1934, section 172 of the Senior Courts Act 2016, or any other enactment in force in New Zealand; or
   (b) any common law, or other non-legislative, action or claim to enforce the judgment.
 
 ### 54 Registrable Australian judgment defined
 (1) A judgment is a registrable Australian judgment if—
   (a) the judgment is a final and conclusive judgment that is given in a civil proceeding by an Australian court; or
   (b) both of the following are satisfied:
-    (i) the judgment is a final and conclusive judgment that is given in a civil proceeding by an Australian tribunal declared under section 55(1)(a) to be a tribunal to which this subpart applies; and
-    (ii) the judgment is an order declared under section 55(1)(b) to be an order to which this subpart applies; or
+    (i) the judgment is a final and conclusive judgment that is given in a civil proceeding by an Australian tribunal declared under section 55(1)﻿(a) to be a tribunal to which this subpart applies; and
+    (ii) the judgment is an order declared under section 55(1)﻿(b) to be an order to which this subpart applies; or
   (c) both of the following are satisfied:
     (i) the judgment is a final and conclusive judgment that is given in a criminal proceeding by an Australian court; and
     (ii) the judgment is a requirement to pay an injured party a sum of money by way of compensation, damages, or reparation; or
@@ -545,7 +546,7 @@ An officer of a New Zealand court or tribunal may, at the request of an Australi
   (i) is an order relating to the care, control, or welfare of a child; or
   (j) is an order that, if contravened by a person to whom it is directed, will make the person liable to conviction for an offence in the place where it was made; or
   (k) is a judgment given before the commencement of this subpart (even if the judgment is, at any time, registered in an Australian court under the Foreign Judgments Act 1991 (Aust)).
-(3) For the purposes of subsection (2)(b), the Governor-General may, by Order in Council, declare a kind of non-money judgment to be excluded from recognition and enforcement under this subpart.
+(3) For the purposes of subsection (2)﻿(b), the Governor-General may, by Order in Council, declare a kind of non-money judgment to be excluded from recognition and enforcement under this subpart.
 (4) For the purposes of subsection (1), a judgment must be treated as final and conclusive even if—
   (a) a person may appeal against it in an Australian court; or
   (b) an appeal against it in an Australian court has not been finally determined.
@@ -554,7 +555,7 @@ An officer of a New Zealand court or tribunal may, at the request of an Australi
 (1) The Governor-General may, by Order in Council,—
   (a) declare any tribunal of a State or a Territory of Australia to be a tribunal to which this subpart applies:
   (b) declare all orders, or 1 or more specified classes or kinds of orders, of an Australian tribunal declared to be a tribunal to which this subpart applies to be orders to which this subpart applies.
-(2) Orders of an Australian tribunal must not be declared under subsection (1)(b) to be orders to which this subpart applies unless those orders are—
+(2) Orders of an Australian tribunal must not be declared under subsection (1)﻿(b) to be orders to which this subpart applies unless those orders are—
   (a) made by the Australian tribunal in or in connection with the performance of an adjudicative function; and
   (b) enforceable (with or without being filed or registered in a court) without an order of a court.
 
@@ -581,7 +582,7 @@ An officer of a New Zealand court or tribunal may, at the request of an Australi
 (1) If a sum of money payable under a registrable Australian judgment is expressed in a currency other than New Zealand currency, the judgment must be registered in the New Zealand court under section 57,—
   (a) if an entitled person has requested in the application for registration that the judgment be registered in a particular currency, in that currency; and
   (b) in any other case, as if it were for an equivalent amount in New Zealand currency, calculated using the rate of exchange on the working day (the conversion day) before the day on which the entitled person made the application for registration.
-(2) Working day, in subsection (1)(b), has the same meaning as in section 29 of the Interpretation Act 1999.
+(2) Working day, in subsection (1)﻿(b), has the same meaning as in section 29 of the Interpretation Act 1999.
 (3) The rate of exchange on the conversion day is that determined in the prescribed manner.
 (4) The Governor-General may, by Order in Council, make regulations prescribing the manner of determining the rate of exchange on the conversion day.
 (5) This section is subject to section 59 (money judgments partly satisfied).
@@ -610,8 +611,8 @@ A money judgment that has been partly satisfied at the time at which an entitled
 ### 62 Notice to liable person
 (1) If a New Zealand court registers an Australian judgment under section 57, the entitled person must give a notice of the registration to every liable person.
 (2) The notice must—
-  (a) be in the form (if any) prescribed by regulations under subsection (4)(a); and
-  (b) be given in the manner (if any) prescribed by regulations under subsection (4)(b).
+  (a) be in the form (if any) prescribed by regulations under subsection (4)﻿(a); and
+  (b) be given in the manner (if any) prescribed by regulations under subsection (4)﻿(b).
 (3) The notice must be given—
   (a) within 15 working days of the New Zealand court after the day of registration; or
   (b) if, before or after the end of the period in paragraph (a), the entitled person applies to the New Zealand court for a longer period—within any longer period the New Zealand court considers appropriate.
@@ -624,7 +625,7 @@ A money judgment that has been partly satisfied at the time at which an entitled
 (2) However, if notice of the registration of the judgment has not been given to every liable person under section 62, then subsection (1) applies to the judgment only after 45 working days of the New Zealand court after the day of registration.
 (3) Subsection (1) is subject to—
   (a) section 64 (which prevents enforcement of the judgment if it is not capable of being enforced in or by the original court or tribunal or in or by another Australian court or tribunal); and
-  (b) any order under section 65(1)(a) or (b) (delaying or staying enforcement of the registered judgment so that a liable person can challenge it in an Australian court or tribunal), or any other order of a New Zealand court, delaying or staying enforcement of the judgment; and
+  (b) any order under section 65(1)﻿(a) or (b) (delaying or staying enforcement of the registered judgment so that a liable person can challenge it in an Australian court or tribunal), or any other order of a New Zealand court, delaying or staying enforcement of the judgment; and
   (c) section 67 (which relates to interest on a sum of money payable under a registered Australian judgment).
 
 ### 64 Restriction on enforcing registered Australian judgments
@@ -649,7 +650,7 @@ A registered Australian judgment is capable of being enforced only if, and to th
 (1) If a proceeding for enforcement of a registered Australian judgment is commenced in a New Zealand court, the following costs and expenses are recoverable in the proceeding:
   (a) costs and expenses reasonably incurred by or on behalf of the entitled person in, or incidental to, registration of the judgment:
   (b) costs and expenses reasonably incurred by or on behalf of the entitled person in attempting to enforce the judgment in the original court or tribunal.
-(2) However, an entitled person's entitlement to recover, and a liable person's liability to pay, the costs and expenses specified in subsection (1)(b) are the same as they would be in a proceeding in that New Zealand court for enforcement of—
+(2) However, an entitled person's entitlement to recover, and a liable person's liability to pay, the costs and expenses specified in subsection (1)﻿(b) are the same as they would be in a proceeding in that New Zealand court for enforcement of—
   (a) a judgment given by the New Zealand court that is similar to the registered Australian judgment; or
   (b) if there is no such similar judgment, a judgment given by the New Zealand court and of a kind that is most analogous to the registered Australian judgment.
 
@@ -685,7 +686,7 @@ The judgment referred to in section 70 may, but need not, be—
 (1) An application under section 56 to register in a New Zealand court a registrable Australian judgment may be made only to a Registrar of the High Court if the judgment—
   (a) is given in an Australian trans-Tasman market proceeding; and
   (b) does not impose a civil pecuniary penalty.
-(2) Subsection (1) overrides section 56, which if not overridden would permit the application to be made to a Registrar of a New Zealand court specified or described in section 56(1)(a) or (b).
+(2) Subsection (1) overrides section 56, which if not overridden would permit the application to be made to a Registrar of a New Zealand court specified or described in section 56(1)﻿(a) or (b).
 
 ### Subpart 7 — Recognition and enforcement in New Zealand of Australian judgments imposing civil pecuniary penalties
 
@@ -705,12 +706,12 @@ This subpart makes judgments given by Australian courts in civil proceedings, an
 (2) The application may be made only to a Registrar of a New Zealand court that is—
   (a) the High Court; or
   (b) a New Zealand court that is not a superior New Zealand court but that has power to impose a civil pecuniary penalty under New Zealand law of the same, or a broadly similar, value.
-(3) The civil pecuniary penalty under New Zealand law that is referred to in subsection (2)(b) may, but need not, be one imposed for the same or similar purposes, or in respect of the same or a similar subject matter, as the one imposed by the registrable Australian judgment.
+(3) The civil pecuniary penalty under New Zealand law that is referred to in subsection (2)﻿(b) may, but need not, be one imposed for the same or similar purposes, or in respect of the same or a similar subject matter, as the one imposed by the registrable Australian judgment.
 (4) Subsection (5) applies to an application under section 56 to register in a New Zealand court a registrable Australian judgment if the judgment—
   (a) is given in an Australian trans-Tasman market proceeding; and
   (b) imposes a civil pecuniary penalty.
 (5) The application may be made only to a Registrar of the High Court.
-(6) Subsections (2) and (5) override section 56, which if not overridden would permit the applications to be made to a Registrar of a New Zealand court specified or described in section 56(1)(a) or (b).
+(6) Subsections (2) and (5) override section 56, which if not overridden would permit the applications to be made to a Registrar of a New Zealand court specified or described in section 56(1)﻿(a) or (b).
 
 ### Subpart 8 — Recognition and enforcement in New Zealand of Australian judgments imposing regulatory regime criminal fines
 
@@ -720,7 +721,7 @@ This subpart makes certain judgments given by Australian courts in criminal proc
 ### 77 When judgments imposing regulatory regime criminal fines are registrable under subpart 5
 (1) A judgment must be treated for the purposes of subpart 5 as a registrable Australian judgment if the judgment—
   (a) is given by an Australian court in a criminal proceeding and imposes a regulatory regime criminal fine; and
-  (b) complies with any conditions prescribed by an order under subsection (2)(b) as conditions with which a judgment imposing a regulatory regime criminal fine of that kind must comply in order to be recognised and enforced under subpart 5.
+  (b) complies with any conditions prescribed by an order under subsection (2)﻿(b) as conditions with which a judgment imposing a regulatory regime criminal fine of that kind must comply in order to be recognised and enforced under subpart 5.
 (2) The Governor-General may, by Order in Council,—
   (a) declare a fine for a criminal offence under a provision of Australian legislation to be a regulatory regime criminal fine for the purposes of subpart 5 and this subpart:
   (b) prescribe conditions with which a judgment imposing a fine declared under paragraph (a) to be a regulatory regime criminal fine must comply in order to be recognised and enforced under subpart 5.
@@ -728,7 +729,173 @@ This subpart makes certain judgments given by Australian courts in criminal proc
 
 ### 78 Registration applications may be made only to High Court
 (1) An application under section 56 in respect of a registrable Australian judgment that imposes a regulatory regime criminal fine may be made only to a Registrar of the High Court.
-(2) Subsection (1) overrides section 56, which if not overridden would permit the application to be made to a Registrar of a New Zealand court specified or described in section 56(1)(a) or (b).
+(2) Subsection (1) overrides section 56, which if not overridden would permit the application to be made to a Registrar of a New Zealand court specified or described in section 56(1)﻿(a) or (b).
+
+## Part 3 — Special provisions applying to certain proceedings in High Court of New Zealand and Federal Court of Australia
+
+### 79 Part not limited by Part 1 or 2
+This Part is not limited or affected by Part 1 or 2.
+
+### 80 Courts (Remote Participation) Act 2010 does not apply to remote appearances under this Part
+Nothing in the Courts (Remote Participation) Act 2010 applies to any remote appearance in accordance with this Part.
+
+### 81 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **Australian proceeding** —
+    (a) means a proceeding in which a matter for determination arises, whether or not any other matter arises for determination, under—
+      (i) any of sections 46A, 155A, and 155B of the Competition and Consumer Act 2010 (Aust); or
+      (ii) a provision of Part VI or XII of the Competition and Consumer Act 2010 (Aust) in so far as the provision relates to any of sections 46A, 155A, and 155B of that Act; and
+    (b) includes an interlocutory proceeding related to such a proceeding and an application for the issue, execution, or enforcement of a judgment, an order, or an injunction given, made, or granted in such a proceeding
+  - **Federal Court** means the Federal Court of Australia
+  - **New Zealand proceeding** —
+    (a) means a proceeding in which a matter for determination arises, whether or not any other matter arises for determination, under—
+      (i) any of sections 36A, 98H, and 99A of the Commerce Act 1986; or
+      (ii) a provision of Part 6 or 7 of the Commerce Act 1986 in so far as the provision relates to any of sections 36A, 98H, and 99A of that Act; and
+    (b) includes an interlocutory proceeding related to such a proceeding and an application for the issue, execution, or enforcement of a judgment, an order, or an injunction given, made, or granted in such a proceeding.
+
+### 82 High Court may order New Zealand proceedings to be heard in Australia
+(1) The High Court may, if it is satisfied that a New Zealand proceeding could more conveniently or fairly be tried or heard by the High Court in Australia or that the evidence in a New Zealand proceeding could more conveniently be given in Australia, as the case may be, order that the proceeding be tried or heard in Australia, or that the evidence be taken in Australia, and may sit in Australia for that purpose.
+(2) The order must specify—
+  (a) the place in Australia where the proceeding will be tried or heard or the evidence taken, as the case may be:
+  (b) the date or dates of the trial or hearing or on which the evidence will be taken, as the case may be:
+  (c) any other matters relating to the trial or the hearing or the taking of the evidence, as the case may be, as the court thinks fit.
+(3) Without limiting the powers of the High Court in relation to the proceeding, the High Court may give judgment in, or make any determination for the purposes of, a New Zealand proceeding in Australia.
+
+### 83 Australian counsel entitled to practise in High Court
+A person who is entitled to practise as a barrister or solicitor, or both, in the Federal Court is entitled to practise as a barrister or solicitor, or both, in relation to—
+  (a) a New Zealand proceeding before the High Court sitting in Australia:
+  (b) the examination, cross-examination, or re-examination of a witness in Australia whose evidence is being taken by audio link or audiovisual link in a New Zealand proceeding before the High Court in New Zealand:
+  (c) the making of submissions by audio link or audiovisual link to the High Court in New Zealand in a New Zealand proceeding.
+
+### 84 High Court may set aside subpoena issued in New Zealand proceeding
+(1) On application, the High Court may set aside an order of subpoena issued by the High Court requiring the attendance of a person in Australia to give evidence or to produce documents to the High Court for the purposes of a New Zealand proceeding.
+(2) An application under subsection (1) must be made by the person served with the order of subpoena and may be made ex parte.
+(3) Without limiting the grounds on which the order of subpoena may be set aside, the High Court may set the order aside on any of the following grounds:
+  (a) that the witness does not have, and cannot reasonably be expected to obtain, the necessary travel documents:
+  (b) that the witness is liable to be detained for the purpose of serving a sentence:
+  (c) that the witness is liable to prosecution for an offence:
+  (d) that the witness is liable to the imposition of a penalty in civil proceedings, not being proceedings for a pecuniary penalty under section 80 or 83 of the Commerce Act 1986:
+  (e) that the evidence of the witness can be obtained without significantly greater expense by other means:
+  (f) that compliance with the order of subpoena would cause hardship or serious inconvenience to the witness:
+  (g) in the case of an order of subpoena that requires a witness to produce documents, whether or not it also requires the witness to give evidence, that the court is satisfied that the documents should not be taken out of Australia and that evidence of the contents of the documents can be given by other means.
+(4) Every application to set aside an order of subpoena under subsection (1) must be made by affidavit.
+(5) The affidavit must—
+  (a) be sworn by the applicant; and
+  (b) set out the facts on which the applicant relies; and
+  (c) be filed in the office of the court that issued the order of subpoena.
+(6) The Registrar of the court must ensure that a copy of the affidavit is served on the solicitor on the record for the party to the proceedings who obtained the order of subpoena, or, if there is no solicitor on the record, on that party.
+
+### 85 Injunctions and orders in New Zealand proceedings
+Despite any rule of law, the High Court may, in a New Zealand proceeding, make an order or grant an injunction that the court is empowered to make or grant that requires a person to do an act, or refrain from engaging in conduct, in Australia.
+
+### 86 Issue of subpoenas in New Zealand proceedings
+(1) An order of subpoena may, with the leave of a Judge, be obtained in a New Zealand proceeding to require a person in Australia to give evidence, or to produce documents or things, or both, to the High Court at a sitting of that court in New Zealand or in Australia.
+(2) An order of subpoena, issued for the purposes of a New Zealand proceeding, that requires a witness in Australia to produce documents or things, but does not require the witness to give evidence, must permit the witness to comply with the order of subpoena by producing the documents or things to a specified registry of the Federal Court.
+
+### 87 Powers of Federal Court of Australia
+(1) The Federal Court of Australia may exercise all the powers of that court—
+  (a) at a sitting of that court in New Zealand held for the purposes of an Australian proceeding:
+  (b) at a sitting of that court in Australia held for the purposes of an Australian proceeding at which the evidence of a witness in New Zealand is taken by audio link or audiovisual link or at which submissions are made in New Zealand by a barrister or solicitor, or both, or by a party to the proceedings by audio link or audiovisual link.
+(2) Without limiting subsection (1), the Federal Court of Australia Act 1976 (Aust) and the rules of court made under that Act that are applicable in relation to Australian proceedings generally apply to the practice and procedure of the Federal Court at any sitting of that court of the kind referred to in that subsection.
+(3) Without limiting subsection (1), the Federal Court may, at any such sitting of the court in New Zealand or in Australia, by order—
+  (a) direct that the hearing or any part of the hearing be held in private:
+  (b) require any person to leave the court:
+  (c) prohibit or restrict the publication of evidence or the name of any party or any witness.
+(4) Nothing in subsection (1) or (2) applies in relation to—
+  (a) the power of the court to punish any person for contempt; or
+  (b) the prosecution of any person for an offence committed as a witness; or
+  (c) the enforcement or execution of any judgment, order, injunction, writ, or declaration given, made, or granted by the court.
+(5) An order made under subsection (3) may be enforced by a Judge of the High Court who, for that purpose, has and may exercise the powers, including the power to punish for contempt, that would be available to enforce the order if it had been made by that Judge.
+
+### 88 Issue of subpoenas in Australian proceedings
+(1) An order of subpoena, issued by the Federal Court with the leave of a Judge of that court, requiring the attendance of a person in New Zealand to give evidence or to produce documents for the purposes of an Australian proceeding may be served on that person in New Zealand by leaving a sealed copy of the subpoena with that person personally, together with a statement setting out the rights and obligations of that person, including information as to the manner in which an application may be made to that court to have the subpoena set aside.
+(2) A person who has been served with an order of subpoena under subsection (1) may not be compelled to comply with the order unless, at the time of service of the order or at some other reasonable time before the hearing, allowances and travelling expenses or vouchers sufficient to enable that person to comply with the order are tendered or paid to that person.
+
+### 89 Failure of witness to comply with subpoena issued in Australian proceeding
+(1) The High Court may, on receiving a certificate under the seal of the Federal Court stating that a person named in the certificate has failed to comply with an order of subpoena requiring that person to attend as a witness for the purposes of an Australian proceeding, issue a warrant requiring any constable to arrest that person and bring that person before the court.
+(2) The High Court may, on the appearance of that person before the court, impose a fine not exceeding $1,000, unless the court is satisfied that the failure to comply with the order of subpoena, the onus of proof of which lies with that person, should be excused.
+(3) In determining whether the failure to comply with the order of subpoena should be excused, the High Court may have regard to—
+  (a) any matters that were not brought to the attention of the Federal Court if the High Court is satisfied that—
+    (i) the Federal Court would have been likely to have set aside the order of subpoena if those matters had been brought to the attention of that court; and
+    (ii) the failure to bring those matters to the attention of the Federal Court was not because of any fault on the part of the person alleged to have failed to comply with the order of subpoena or was because of an omission by that person that should be excused; and
+  (b) any matters to which the High Court would have regard if the order of subpoena had been issued by the High Court.
+(4) For the purposes of this section, but subject to subsection (3), a certificate under the seal of the Federal Court is conclusive evidence of the matters stated in it if the certificate states—
+  (a) that the order of subpoena was issued by that court:
+  (b) that the witness failed to comply with the order of subpoena:
+  (c) the decision of that court, or any orders or findings of fact made by that court, in relation to any application made to that court to have the order of subpoena set aside.
+(5) Subject to subsection (3), no findings of fact made by the Federal Court on an application to that court to have the order of subpoena set aside may be challenged by any person alleged to have failed to comply with the order unless the court was deliberately misled in making those findings of fact.
+
+### 90 Federal Court of Australia may administer oaths in New Zealand
+(1) The Federal Court may administer an oath or affirmation in accordance with the practice and procedure of that court—
+  (a) at any sitting of that court in New Zealand held for the purposes of an Australian proceeding; or
+  (b) for the purposes of obtaining the evidence of a person in New Zealand by audio link or audiovisual link at a sitting of that court in Australia.
+(2) Evidence given by a person on oath or affirmation administered by the Federal Court under subsection (1) for the purposes of section 108 of the Crimes Act 1961 (which relates to perjury) is to be deemed to have been given as evidence in a judicial proceeding on oath.
+
+### 91 Orders made by Federal Court of Australia not subject to review
+No application for review under the Judicial Review Procedure Act 2016 and no application for an order of mandamus, prohibition, or certiorari or for a declaration or injunction may be brought in respect of any judgment, order, or determination of the Federal Court made or given at a sitting of that court in New Zealand in an Australian proceeding.
+
+### 92 Contempt of Federal Court of Australia
+(1) Every person commits an offence who, at any sitting of the Federal Court in New Zealand,—
+  (a) assaults, threatens, intimidates, or wilfully insults—
+    (i) a Judge of that court; or
+    (ii) a Registrar or an officer of that court; or
+    (iii) a person appearing as a barrister or solicitor, or both, before that court; or
+    (iv) a witness in proceedings before that court; or
+  (b) wilfully interrupts or obstructs the proceedings; or
+  (c) wilfully and without lawful excuse disobeys any order or direction of the court in the course of the proceedings.
+(2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000.
+
+### 93 Arrangements to facilitate sittings
+(1) The Chief Justice of New Zealand may make arrangements with the Chief Justice of the Federal Court for the purposes of giving effect to this Part.
+(2) Without limiting subsection (1), arrangements may be made—
+  (a) to enable the High Court to sit in Australia in New Zealand proceedings in the courtrooms of the Federal Court or in other places in Australia:
+  (b) to enable the Federal Court to sit in New Zealand in Australian proceedings in the courtrooms of the High Court or in other places in New Zealand:
+  (c) to enable evidence to be given and submissions of counsel to be made in New Zealand proceedings or in Australian proceedings by audio link or audiovisual link:
+  (d) for the provision of registry facilities and court staff for the purposes of a New Zealand proceeding or an Australian proceeding.
+
+### 94 Privileges and immunities of Judges, counsel, and witnesses in Australian proceedings
+(1) A Judge of the Federal Court sitting as a Judge of that court in New Zealand in an Australian proceeding has all the protections, privileges, and immunities of a Judge of the High Court.
+(2) A witness has all the privileges and immunities of a witness in the High Court when the witness gives evidence in an Australian proceeding—
+  (a) at a sitting in New Zealand of the Federal Court; or
+  (b) by audio link or audiovisual link at a sitting in Australia of the Federal Court.
+(3) A person has all the privileges and immunities of counsel in the High Court when appearing as a barrister or solicitor, or both, in an Australian proceeding—
+  (a) at a sitting in New Zealand of the Federal Court; or
+  (b) by audio link or audiovisual link at a sitting in Australia of the Federal Court.
+(4) A person has all the privileges and immunities of a party in the High Court when appearing as a party in an Australian proceeding—
+  (a) at a sitting in New Zealand of the Federal Court; or
+  (b) by audio link or audiovisual link at a sitting in Australia of the Federal Court.
+
+### 95 High Court may take evidence at request of Federal Court
+(1) The High Court may, at the request of the Federal Court, take evidence in New Zealand for the Federal Court for the purposes of an Australian proceeding and may, by order, make any provision it considers appropriate for the purpose of taking that evidence.
+(2) An order may require a specified person to take such steps as the High Court considers appropriate for taking the evidence.
+(3) Without limiting subsections (1) and (2), an order may, in particular, make provision for—
+  (a) the examination of witnesses, either orally or in writing; or
+  (b) the production of documents or things; or
+  (c) the inspection, photographing, preservation, custody, or detention of any property; or
+  (d) the taking of samples of property and carrying out experiments on or with property.
+(4) The High Court may make an order requiring a person to give evidence either orally or by tendering a written document otherwise than on oath or affirmation if the Federal Court requests it to do so.
+(5) A person who has been served with an order made under this section may not be compelled to comply with the order unless, at the time of service of the order or at some other reasonable time before the person is required to comply with the order, allowances and travelling expenses or vouchers sufficient to enable the person to comply with the order are tendered or paid to the person.
+(6) A person may not be compelled to give evidence pursuant to an order under this section that he or she is not compelled to give in the Australian proceeding to which the request relates.
+
+### 96 Power to make rules for purposes of this Part
+(1) Rules may be made under section 148 of the Senior Courts Act 2016 for, or in relation to, Australian proceedings and New Zealand proceedings.
+(2) Without limiting subsection (1), rules may be made that make provision for, or in relation to,—
+  (a) the giving of evidence and the making of submissions in New Zealand proceedings by audio link or audiovisual link:
+  (b) receiving, for the purposes of subpart 8 of Part 3 of the Evidence Act 2006, facsimiles as evidence of documents or things:
+  (c) the issuing of subpoenas for service in Australia for the purposes of New Zealand proceedings and the service of those subpoenas:
+  (d) the payment to witnesses required to comply with orders of subpoena served in Australia for the purposes of New Zealand proceedings of amounts in respect of expenses and loss of income occasioned by compliance with those orders:
+  (e) the lodging of documents or things with the Federal Court in compliance with orders of subpoena issued in New Zealand proceedings that require only the production of documents or things by witnesses:
+  (f) the transmission to the Federal Court of documents (or certified copies of those documents) or things lodged with the High Court in Australian proceedings in compliance with orders of subpoena issued by the Federal Court:
+  (g) the hearing of applications to set aside orders of subpoena under section 84:
+  (h) sittings of the High Court in Australia:
+  (i) giving effect to arrangements made under section 93:
+  (j) the form of certification of judgments, orders, and injunctions in New Zealand proceedings:
+  (k) the taking of evidence under section 95:
+  (l) any other matters as are contemplated by or necessary for giving effect to this Part.
+
+### 97 Transitional provision for certain proceedings commenced before commencement of this Part
+(1) This section applies to any proceeding commenced, but not yet determined, under Part 1A of the Judicature Act 1908 before the commencement of this section.
+(2) If this section applies, the proceeding must be treated as if it had been commenced under this Part.
 
 ## Schedule 1 — Trans-Tasman Agreement
 
@@ -771,7 +938,7 @@ This subpart is not subject to, and does not override, the Mutual Assistance in 
 (1) This section applies to a person who—
   (a) is entitled to practise as a barrister, or a solicitor, or both in a Supreme Court of a State or a territory of Australia from which evidence is to be given or examination or submissions made under a direction under section 168; but
   (b) is not entitled otherwise than under this section to appear before the New Zealand court to examine a person giving evidence, or to make submissions, under that direction.
-(2) The person is entitled to practise as a barrister, a solicitor, or both in relation to each appearance for the examination or submissions to which the direction relates, and each appearance of that kind is for the purposes of section 27(1)(b)(i) of the Lawyers and Conveyancers Act 2006 an appearance allowed by this Act.
+(2) The person is entitled to practise as a barrister, a solicitor, or both in relation to each appearance for the examination or submissions to which the direction relates, and each appearance of that kind is for the purposes of section 27(1)﻿(b)﻿(i) of the Lawyers and Conveyancers Act 2006 an appearance allowed by this Act.
 
 ### 173 Australian court may take evidence, and receive related examination and submissions, by audio link or audiovisual link from New Zealand
 The taking of evidence, or receipt of an examination or submissions, from New Zealand in a proceeding in an Australian court is authorised if it is in accordance with the Trans-Tasman Proceedings Act 2010 (Aust).
