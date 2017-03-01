@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -454,7 +454,7 @@ An individual is entitled to be registered under this subpart if the individual 
   (d) issue a unique identifier (for example, a registration number) to the applicant, and notify the applicant of that identifier.
 (2) If the Board is not satisfied that the applicant is entitled to be registered under this subpart, the Board must notify the applicant of—
   (a) the Board’s decision; and
-  (b) the applicant’s right of appeal to a District Court against the decision.
+  (b) the applicant’s right of appeal to the District Court against the decision.
 (3) As soon as practicable after receiving the Board’s direction under subsection (1), the Registrar must enter the details of the registration in the register.
 
 ### 42 Registration subject to terms and conditions
@@ -506,7 +506,7 @@ A registered person is entitled to be issued with a practising licence under thi
   (c) direct the Registrar to enter details of that person’s practising licence in the register.
 (2) If the Board is not satisfied that the applicant is entitled to be issued with a practising licence under this subpart, the Board must notify the applicant of—
   (a) the Board’s decision; and
-  (b) the applicant’s right of appeal to a District Court against the decision.
+  (b) the applicant’s right of appeal to the District Court against the decision.
 (3) As soon as practicable after receiving the Board’s direction under subsection (1), the Registrar must enter the details of the practising licence in the register.
 
 ### 48 Practising licence subject to terms and conditions
@@ -553,7 +553,7 @@ A registered person is entitled to be issued with a practising licence under thi
   (c) enter details of the renewal in the register.
 (3) If the Board is not satisfied that the registered person is entitled to a renewal of his or her practising licence, the Board must notify the person of—
   (a) the Board’s decision; and
-  (b) the person’s right of appeal to a District Court against the decision.
+  (b) the person’s right of appeal to the District Court against the decision.
 (4) For the purposes of subsection (1)﻿(c), the Board may, if it thinks fit, disregard a breach of a term or condition of the practising licence.
 (5) The Board may require a registered person to complete a competence programme before it renews that person’s practising licence (regardless of whether or not the Board is satisfied of the matters referred to in subsection (1)﻿(a) to (d)) if the person is required to complete a competence programme when applying for a renewal of the licence in accordance with a condition or requirement imposed by a notice published under section 30.
 (6) Despite subsection (1), if any fee or other money payable to the Board under this Act by the registered person has not been paid, the Board may refuse to renew that person’s practising licence until that fee or other money is paid.
@@ -1588,7 +1588,7 @@ The provisions set out in Schedule 1 apply to the Board, its members, and its pr
 ### Subpart 2 — Appeals
 
 ### 162 Appeals
-(1) A person who is dissatisfied with the whole or any part of any of the following decisions, directions, or orders may appeal to a District Court against the decision, direction, or order:
+(1) A person who is dissatisfied with the whole or any part of any of the following decisions, directions, or orders may appeal to the District Court against the decision, direction, or order:
   (a) any decision of the Board to decline to register the person or to decline to issue a licence to the person or to decline to renew the licence of the person:
   (b) any decision of the Board to decline to issue a limited certificate under section 14 to the person or to decline to renew the limited certificate of the person:
   (c) any decision of the Registrar to decline to issue a provisional licence to the person or to decline to renew the provisional licence:
@@ -1601,28 +1601,28 @@ The provisions set out in Schedule 1 apply to the Board, its members, and its pr
 ### 163 Time for lodging appeal
 An appeal under section 162 must be brought within—
   (a) 20 working days after notice of the decision, direction, or order was given to, or served on, the appellant; or
-  (b) any further time that a District Court may allow on application made before or after the expiration of that period.
+  (b) any further time that the District Court may allow on application made before or after the expiration of that period.
 
 ### 164 Procedure on appeal
 (1) Every appeal under section 162 must be heard as soon as practicable after the appeal is lodged.
 (2) On the hearing of an appeal under section 162, the District Court may—
   (a) confirm, reverse, or modify the decision, direction, or order of the Board or the Registrar; or
   (b) give any decision, or make any direction or order, that the Board or the Registrar could have given or made in respect of the matter.
-(3) Nothing in this section gives a District Court power to review any part of the decision, direction, or order of the Board or the Registrar other than the part against which the appellant has appealed.
-(4) Subject to section 169, the decision of a District Court on any appeal under section 162 is final.
+(3) Nothing in this section gives the District Court power to review any part of the decision, direction, or order of the Board or the Registrar other than the part against which the appellant has appealed.
+(4) Subject to section 169, the decision of the District Court on any appeal under section 162 is final.
 
 ### 165 Court may refer appeals back for reconsideration
-(1) A District Court may in any case, instead of determining any appeal under section 162, direct the Board or the Registrar to reconsider, either generally or in respect of any specified matters, the whole or any part of the matter to which the appeal relates.
+(1) The District Court may in any case, instead of determining any appeal under section 162, direct the Board or the Registrar to reconsider, either generally or in respect of any specified matters, the whole or any part of the matter to which the appeal relates.
 (2) In giving any direction under subsection (1), the District Court must—
   (a) advise the Board or the Registrar of its reasons for so doing; and
   (b) give to the Board or the Registrar any directions it thinks just as to the whole or any part of the matter that is referred back for reconsideration.
 (3) In reconsidering any matter referred back to the Board or the Registrar under subsection (1), the Board or the Registrar must have regard to the District Court’s reasons for giving a direction under that subsection, and to the court’s directions under subsection (2).
 
 ### 166 Costs
-On any appeal under section 162, a District Court may make an order for the payment, by the Board or the Registrar or the appellant, of the costs incurred in respect of the appeal by the other party to the appeal.
+On any appeal under section 162, the District Court may make an order for the payment, by the Board or the Registrar or the appellant, of the costs incurred in respect of the appeal by the other party to the appeal.
 
 ### 167 Power of court to prohibit publication of person’s name or affairs
-(1) On any appeal under section 162, a District Court may, if in the court’s opinion it is proper to do so having regard to the interests of any person and to the public interest, make an order prohibiting the publication of the name or particulars of the affairs of any person.
+(1) On any appeal under section 162, the District Court may, if in the court’s opinion it is proper to do so having regard to the interests of any person and to the public interest, make an order prohibiting the publication of the name or particulars of the affairs of any person.
 (2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who commits a breach of any order made under subsection (1) or evades or attempts to evade the order.
 
 ### 168 Decision to continue in force pending appeal
