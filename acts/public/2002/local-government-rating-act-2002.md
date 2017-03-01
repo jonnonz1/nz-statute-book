@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -693,7 +693,7 @@ A person must not refuse to pay rates on the ground that the rates are invalid u
 ### 63 Legal proceedings to recover rates
 (1) A local authority may commence proceedings in a court of competent jurisdiction to recover as a debt rates unpaid for 4 months after the due date for payment.
 (2) In any proceedings under subsection (1), the local authority may recover any other unpaid rates in respect of the same rating unit if the rates became due not earlier than 1 month before the proceedings were commenced.
-(3) A court constituted under the District Courts Act 1947 has jurisdiction to hear and determine proceedings under this Act for the recovery of rates, whatever the amount of the debt involved.
+(3) A court constituted under the District Court Act 2016 has jurisdiction to hear and determine proceedings under this Act for the recovery of rates, whatever the amount of the debt involved.
 
 ### 64 Service of summons
 (1) If a ratepayer who is liable for unpaid rates is absent from New Zealand, but has an agent or attorney in New Zealand, it is sufficient to serve a summons on his or her agent or attorney.
@@ -732,7 +732,7 @@ A person must not refuse to pay rates on the ground that the rates are invalid u
     (ii) the amount of the judgment given against the ratepayer or other person:
     (iii) the name of the ratepayer or other person:
     (iv) the address of the rating unit that is subject to the judgment and its legal description and location; and
-  (b) the fee as fixed by regulations made under section 100A of the Judicature Act 1908.
+  (b) the fee as fixed by regulations made under section 156 of the Senior Courts Act 2016.
 (3) Subsection (1) does not apply to land that is subject to enactments that prohibit the alienation or transfer of that land.
 (4) However, despite those enactments, the local authority may—
   (a) offer that land, or part of it, for lease under this section on terms that produce a yearly rent equivalent to the amount of rates payable on the whole of the land, together with 5% added for the recovery of expenses; or
@@ -758,7 +758,8 @@ The notice required under section 68 must be served in one of the following ways
 
 ### 70 Rating unit may be sold or leased
 (1) If all the amounts set out in section 68(2)﻿(b) have not been paid within 6 months after the date of the notice that is required under section 68(1), the Registrar of the High Court may, in accordance with sections 71 to 74, sell or lease the rating unit.
-(2) The Registrar may charge a fee for the sale or lease of the rating unit that is fixed by regulations made under section 100A of the Judicature Act 1908.
+(2) The Registrar may charge a fee for the sale or lease of the rating unit that is fixed by regulations made under section 156 of the Senior Courts Act 2016.
+(3) The Registrar may charge the fee, and require the fee to be paid, before the work required of the Registrar in effecting the sale or lease is begun.
 
 ### 71 How rating sale or lease must be conducted
 (1) A sale or lease to which section 70(1) applies must be by public auction or public tender.
@@ -792,7 +793,7 @@ The notice required under section 68 must be served in one of the following ways
 
 ### 75 Application of proceeds of rating sale or lease
 The proceeds of a sale or lease under section 71 or section 72 must be applied in the following order:
-  (a) the Registrar’s fee:
+  (a) the Registrar’s fee (unless the fee has already been paid):
   (b) the judgment, and any interest, costs, and disbursements:
   (c) any other unsatisfied judgment for rates for the same rating unit, with any interest, costs, and disbursements:
   (d) any other rates due at the date of the sale or lease of the same rating unit, whether or not those rates are still recoverable under section 65 (including, in the case of a lease, the rates (if any) that are or become due on the unit from the person on whose behalf the unit was leased while the Registrar received rents from it):
