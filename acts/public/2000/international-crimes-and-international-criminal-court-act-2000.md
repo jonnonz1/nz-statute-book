@@ -1,5 +1,5 @@
 # International Crimes and International Criminal Court Act 2000
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the International Crimes and International Criminal Court Act 2000.
@@ -380,7 +380,7 @@ After receiving a request under section 33, the District Court Judge must issue 
 **Remand and bail**
 
 ### 39 Procedure following arrest
-(1) A person arrested on a warrant issued under section 34 or section 36 must, unless sooner discharged, be brought before a District Court as soon as possible.
+(1) A person arrested on a warrant issued under section 34 or section 36 must, unless sooner discharged, be brought before the District Court as soon as possible.
 (2) The person—
   (a) is not entitled to bail as of right; and
   (b) may not go at large without bail.
@@ -399,12 +399,12 @@ After receiving a request under section 33, the District Court Judge must issue 
 
 ### 41 Powers of District Court
 (1) In proceedings under this Part, except as expressly provided in this Act or in regulations made under section 179 or section 180,—
-  (a) a District Court has the same jurisdiction and powers, and must conduct the proceedings in the same manner, as if the person were charged with a category 1 or 2 offence alleged to have been committed within the jurisdiction of New Zealand; and
+  (a) the District Court has the same jurisdiction and powers, and must conduct the proceedings in the same manner, as if the person were charged with a category 1 or 2 offence alleged to have been committed within the jurisdiction of New Zealand; and
   (b) the following provisions apply to the proceedings, so far as applicable and with the necessary modifications:
     (i) subparts 1 and 3 of Part 4, Part 5, and sections 365 and 379 of the Criminal Procedure Act 2011:
     (ii) Parts 1 (except sections 9 to 12), 2, and 3 of the Bail Act 2000:
     (iii) sections 38 to 44 of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
-(2) In accordance with section 355 of the Criminal Procedure Act 2011, a District Court presided over by 1 or more Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
+(2) In accordance with section 355 of the Criminal Procedure Act 2011, the District Court presided over by 1 or more Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
 (3) Despite section 168(1) and (2) of the Criminal Procedure Act 2011, a decision to remand a person in custody or on bail may be made only by a Judge.
 (4)
 (5) Section 169 of the Criminal Procedure Act 2011 and sections 27, 30 to 33, 35, 37 to 39, 44, 45, and 52 of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under section 46 or section 49.
@@ -424,7 +424,7 @@ After receiving a request under section 33, the District Court Judge must issue 
 **Eligibility for surrender**
 
 ### 43 Determination of eligibility for surrender
-(1) If a person is brought before a District Court under this Part, the District Court must determine whether the person is eligible for surrender in relation to the international crime or crimes for which surrender is sought.
+(1) If a person is brought before the District Court under this Part, the District Court must determine whether the person is eligible for surrender in relation to the international crime or crimes for which surrender is sought.
 (2) Subsection (1) applies subject to sections 38 and 45.
 (3) The person is eligible for surrender if—
   (a) a warrant for the arrest of the person issued by the ICC or a judgment of conviction for an international crime given by the ICC has been produced to the District Court; and
@@ -654,20 +654,20 @@ If a request for surrender of a person is received from the ICC and 1 or more St
 **Appeals against determinations of eligibility for surrender**
 
 ### 67 Appeal on question of law only
-(1) This section applies if a District Court determines under section 43 that a person is or is not eligible for surrender in relation to any crime for which surrender is sought, and either party considers the determination erroneous in point of law.
+(1) This section applies if the District Court determines under section 43 that a person is or is not eligible for surrender in relation to any crime for which surrender is sought, and either party considers the determination erroneous in point of law.
 (2) If this section applies, the party may appeal against the determination to the High Court on a question of law only.
 (3) To lodge an appeal the party must, within 15 days after the determination, file in the office of the court that made the determination a notice of appeal in the prescribed form.
 
 ### 68 Application to appeal of Bail Act 2000 and Criminal Procedure Act 2011
-(1) Section 59 of the Bail Act 2000 (which relates to the surrender of an appellant released on bail) applies with any necessary modifications to an appeal under this Part as if it were an appeal under subpart 8 of Part 6 of the Criminal Procedure Act 2011 against the determination by a District Court of a charge for an offence.
+(1) Section 59 of the Bail Act 2000 (which relates to the surrender of an appellant released on bail) applies with any necessary modifications to an appeal under this Part as if it were an appeal under subpart 8 of Part 6 of the Criminal Procedure Act 2011 against the determination by the District Court of a charge for an offence.
 (2) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this Part.
 
 ### 69 Custody pending determination of appeal
-(1) A District Court may order that the person who is the subject of the determination continue to be detained or, as the case may be, issue a warrant for the arrest and detention of the person, pending the determination of the appeal if—
+(1) The District Court may order that the person who is the subject of the determination continue to be detained or, as the case may be, issue a warrant for the arrest and detention of the person, pending the determination of the appeal if—
   (a) the District Court makes a determination under section 43; and
   (b) immediately after the District Court makes the determination, either party informs the District Court that the party intends to appeal against the determination.
-(2) Any District Court or the High Court may order that the person who is the subject of the determination continue to be detained or, as the case may be, issue a warrant for the arrest and detention of the person, pending the determination of the appeal if—
-  (a) a District Court makes a determination under section 43; and
+(2) The District Court or the High Court may order that the person who is the subject of the determination continue to be detained or, as the case may be, issue a warrant for the arrest and detention of the person, pending the determination of the appeal if—
+  (a) the District Court makes a determination under section 43; and
   (b) either party files a notice of appeal against the determination.
 (3) If a person is detained under an order made under this section or is arrested and detained under a warrant issued under this section, sections 39 to 42 apply to the detention of the person with any necessary modifications as if the appeal proceedings were proceedings under section 43 to determine whether or not the person is eligible for surrender.
 
@@ -695,7 +695,7 @@ Without limiting section 45, a person whose surrender is sought may, by a waiver
   (b) remit the determination to the District Court with a direction that the proceedings to determine whether the person is eligible for surrender be reheard in respect of that international crime or those international crimes.
 (3) Despite subsections (1) and (2), if an appeal is against a determination that a person is eligible for surrender, and the High Court determines that there has been an error of law, it may nevertheless decline to reverse or amend the determination in respect of which the case has been stated if it considers that no substantial wrong or miscarriage of justice has occurred and that the determination ought to be upheld.
 (4) If the appeal is against a determination that a person is not eligible for surrender, and the High Court determines that the determination includes an error of law, the High Court may—
-  (a) exercise the powers of a District Court under section 46 as if it were a District Court, although subsection (2)﻿(c) of that section does not apply:
+  (a) exercise the powers of the District Court under section 46 as if it were the District Court, although subsection (2)﻿(c) of that section does not apply:
   (b) if it remits the determination to the District Court, issue a warrant for the arrest and detention of the person pending the District Court’s reconsideration of the determination or rehearing of the proceedings to determine whether the person is eligible for surrender; and section 69(3) applies to any warrant issued under this paragraph as if the warrant were issued under that section.
 (5) Subsections (1), (2), and (4) do not limit section 71.
 
@@ -1339,10 +1339,10 @@ If the High Court registers an order under section 128, the court may direct the
 (1) The transferee must, during the period of transit, be detained in custody in accordance with subsection (2).
 (2) If the aircraft or ship that transports a transferee lands or calls at any place in New Zealand,—
   (a) the person holding the transferee in custody before the landing or call is made may hold the transferee in his or her custody or in Police custody for a period not exceeding 96 hours; and
-  (b) a District Court may, on the application of a constable, order that the transferee be held in custody for such further period or periods as the court considers reasonably necessary to facilitate the transportation of the transferee to the ICC or to another State, as the case may be.
+  (b) the District Court may, on the application of a constable, order that the transferee be held in custody for such further period or periods as the court considers reasonably necessary to facilitate the transportation of the transferee to the ICC or to another State, as the case may be.
 (3) If an unscheduled landing occurs and the ICC is required under section 136(6) to submit a request for transit, the transferee must be held in custody under subsection (2).
 (4) If subsection (3) applies, the period of detention of the transferee may not be extended beyond 96 hours from the time of the unscheduled landing, unless the request for transit from the ICC is received within that time.
-(5) If a District Court orders, under subsection (2)﻿(b), that a transferee be held in custody, the transferee may be detained in a prison or any other place in which a person could be detained under section 42.
+(5) If the District Court orders, under subsection (2)﻿(b), that a transferee be held in custody, the transferee may be detained in a prison or any other place in which a person could be detained under section 42.
 
 ### 138 Minister must make removal order or issue certificate
 (1) If a transferee is not removed before or at the expiry of all periods of custody under section 137(2), the Minister must either—
@@ -1606,7 +1606,7 @@ While the ICC is sitting in New Zealand, it may exercise its functions and power
 The ICC may, at any sitting of the ICC in New Zealand, administer an oath or affirmation giving an undertaking as to truthfulness in accordance with the practice and procedure of the ICC.
 
 ### 170 Orders made by ICC not subject to review
-No application for review under Part 1 of the Judicature Amendment Act 1972 and no application for an order of mandamus or prohibition or certiorari or for a declaration or injunction may be brought in respect of any judgment or order or determination of the ICC that is made or given at a sitting of the ICC in New Zealand.
+No application for review under the Judicial Review Procedure Act 2016 and no application for an order of mandamus or prohibition or certiorari or for a declaration or injunction may be brought in respect of any judgment or order or determination of the ICC that is made or given at a sitting of the ICC in New Zealand.
 
 ### 171 Power to detain ICC prisoners in New Zealand prisons if ICC holds sitting in New Zealand
 (1) A person in New Zealand must be kept in custody as the Minister directs in writing if—
