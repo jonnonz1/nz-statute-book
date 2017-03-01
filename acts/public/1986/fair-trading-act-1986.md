@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2017-03-01_
 
 > Title
 
@@ -722,7 +722,7 @@ The purpose of this Part is to set out in one place the rules applying to—
   (b) the price of the goods is to be paid by—
     (i) 3 or more instalments; or
     (ii) if the agreement specifies that it is a layby sale agreement, 2 or more instalments.
-(2) However, a layby sale agreement does not include an agreement for the supply of goods that have a purchase price that is more than $15,000 or, if greater, the amount specified in section 10(1A)﻿(b) of the Disputes Tribunals Act 1988.
+(2) However, a layby sale agreement does not include an agreement for the supply of goods that have a purchase price that is more than $15,000 or, if greater, the amount specified in section 10(1A)﻿(b) of the Disputes Tribunal Act 1988.
 (3) For the purposes of subsection (1)﻿(b), a deposit paid by the consumer for the goods is an instalment.
 (4) Despite section 7 of the Credit Contracts and Consumer Finance Act 2003, a layby sale agreement is not a credit contract for the purposes of that Act if no interest charges, and no credit fees, are payable under the layby sale agreement.
 (5) In subsection (4) and in this subsection,—
@@ -1107,26 +1107,26 @@ Any bid at an auction may be withdrawn before the end of the auction.
 
 ### 37 Jurisdiction of High Court
 In accordance with this Part, the High Court shall hear and determine the following matters—
-  (a) appeals from criminal proceedings in a District Court for offences against sections 40 and 47J:
-  (ab) appeals from proceedings in a District Court for orders under section 40A:
+  (a) appeals from criminal proceedings in the District Court for offences against sections 40 and 47J:
+  (ab) appeals from proceedings in the District Court for orders under section 40A:
   (b) applications for injunctions under section 41:
   (c) applications for orders under sections 42 and 43:
-  (d) applications for orders under section 46B to enforce an undertaking involving a sum that, in total, exceeds $200,000 or, if greater, the amount specified in section 29 of the District Courts Act 1947:
-  (e) appeals from any order of a District Court under section 46B:
-  (f) appeals from any order or decision of a District Court under section 46C or 46G:
+  (d) applications for orders under section 46B to enforce an undertaking involving a sum that, in total, exceeds $350,000 or, if greater, the amount specified in section 74 of the District Court Act 2016:
+  (e) appeals from any order of the District Court under section 46B:
+  (f) appeals from any order or decision of the District Court under section 46C or 46G:
   (g) applications by the Commission for a declaration under section 46I.
 
-### 38 Jurisdiction of District Courts
-(1) In accordance with this Part, the District Courts shall hear and determine the following matters—
+### 38 Jurisdiction of District Court
+(1) In accordance with this Part, the District Court shall hear and determine the following matters—
   (a) proceedings for offences against sections 40 and 47J:
   (b) applications for orders under sections 40A, 42, and 43:
-  (c) applications for orders under section 46B to enforce an undertaking involving a sum that, in total, does not exceed $200,000 or, if greater, the amount specified in section 29 of the District Courts Act 1947:
+  (c) applications for orders under section 46B to enforce an undertaking involving a sum that, in total, does not exceed $350,000 or, if greater, the amount specified in section 74 of the District Court Act 2016:
   (d) applications under sections 46C and 46G:
   (e) applications by the Commission for a declaration under section 46I.
 (2) This section is subject to section 43B.
 
-### 39 Jurisdiction of Disputes Tribunals
-(1) In accordance with this Part, a Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988 shall have jurisdiction to hear and determine applications for orders under section 43.
+### 39 Jurisdiction of Disputes Tribunal
+(1) In accordance with this Part, the Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 has jurisdiction to hear and determine applications for orders under section 43.
 (2) This section is subject to section 43B.
 
 **Offences**
@@ -1232,7 +1232,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (3)
 
 ### 43 Other orders
-(1) This section applies if, in proceedings under this Part or on the application of any person, a court or a Disputes Tribunal finds that a person (person A) has suffered, or is likely to suffer, loss or damage by conduct of another person (person B) that does or may constitute any of the following:
+(1) This section applies if, in proceedings under this Part or on the application of any person, a court or the Disputes Tribunal finds that a person (person A) has suffered, or is likely to suffer, loss or damage by conduct of another person (person B) that does or may constitute any of the following:
   (a) a contravention of a provision of Parts 1 to 4A (a relevant provision):
   (b) aiding, abetting, counselling, or procuring a contravention of a relevant provision:
   (c) inducing by threats, promises, or otherwise a contravention of a relevant provision:
@@ -1263,14 +1263,14 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (b) section 317 of the Accident Compensation Act 2001.
 
 ### 43A Application for order under section 43
-A person may apply to a court or a Disputes Tribunal for an order under section 43 at any time within 3 years after the date on which the loss or damage, or the likelihood of loss or damage, was discovered or ought reasonably to have been discovered.
+A person may apply to a court or the Disputes Tribunal for an order under section 43 at any time within 3 years after the date on which the loss or damage, or the likelihood of loss or damage, was discovered or ought reasonably to have been discovered.
 
 ### 43B Limits on jurisdiction of District Court and Disputes Tribunal to make orders under section 43
-(1) A District Court must not make an order under section 43 if a value or amount described in subsection (3) exceeds $200,000 or, if greater, the amount specified in section 29 of the District Courts Act 1947.
-(2) A Disputes Tribunal must not make an order under section 43 if a value or amount described in subsection (3) exceeds whichever is the greatest of the following:
+(1) The District Court must not make an order under section 43 if a value or amount described in subsection (3) exceeds $350,000 or, if greater, the amount specified in section 74 of the District Court Act 2016.
+(2) The Disputes Tribunal must not make an order under section 43 if a value or amount described in subsection (3) exceeds whichever is the greatest of the following:
   (a) $15,000:
-  (b) the amount specified in section 10(1A)﻿(b) of the Disputes Tribunals Act 1988:
-  (c) the amount specified in section 13(2) of the Disputes Tribunals Act 1988, if the jurisdiction of the Disputes Tribunal is extended by an agreement between the parties under section 13 of that Act.
+  (b) the amount specified in section 10(1A)﻿(b) of the Disputes Tribunal Act 1988:
+  (c) the amount specified in section 13(2) of the Disputes Tribunal Act 1988, if the jurisdiction of the Disputes Tribunal is extended by an agreement between the parties under section 13 of that Act.
 (3) The values and amounts are as follows:
   (a) in the case of an order under section 43(3)﻿(a) or (c), the value of the consideration for the promise or act of any party to the contract or collateral arrangement referred to in that paragraph:
   (b) in the case of an order under section 43(3)﻿(e) directing a person to refund money or return property, the amount of money or the value of the property:
@@ -1310,7 +1310,7 @@ A person may apply to a court or a Disputes Tribunal for an order under section 
 (5) A reference in this section to the state of mind of a person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the person's reasons for that intention, opinion, belief or purpose.
 
 ### 46 Finding in proceedings to be evidence
-In any application for an order against a person under section 43, a finding of any fact made in proceedings for an injunction under section 41 or for an order under section 40A or section 42, or for an offence under section 40, being proceedings before the High Court or a District Court in which that person was found to have engaged in conduct of the kind referred to in section 43(1)﻿(a) to (e) is prima facie evidence of that fact and the finding may be proved by production of a document under the seal of the High Court or a District Court, as the case may be, in which the finding was made.
+In any application for an order against a person under section 43, a finding of any fact made in proceedings for an injunction under section 41 or for an order under section 40A or section 42, or for an offence under section 40, being proceedings before the High Court or the District Court in which that person was found to have engaged in conduct of the kind referred to in section 43(1)﻿(a) to (e) is prima facie evidence of that fact and the finding may be proved by production of a document under the seal of the High Court or the District Court, as the case may be, in which the finding was made.
 
 **Enforceable undertakings**
 
@@ -1329,14 +1329,14 @@ In any application for an order against a person under section 43, a finding of 
 **Management banning orders**
 
 ### 46C Management banning orders
-(1) A District Court may make a management banning order against an individual who—
+(1) The District Court may make a management banning order against an individual who—
   (a) has, on at least 2 separate occasions within a 10-year period (whether before or after this section comes into force), committed an offence against section 40(1) or (1A); or
   (b) is, or was at the time of the commission of the offence, a director of, or concerned in the management of, an incorporated or unincorporated body that has, on at least 2 separate occasions within a 10-year period (whether before or after this section comes into force), committed an offence against section 40(1) or (1A); or
   (c) has been prohibited by an overseas jurisdiction, in connection with the contravention of any law relating to fair trading, from carrying on activities that are substantially similar to those referred to in section 46D.
 (2) The court may make the order only if it is satisfied that the order is necessary to protect the public from the risk that the person, or any incorporated or unincorporated body of which the person is a director, or the management of which the person is concerned in, will commit further offences against section 40(1) or (1A).
 
 ### 46D Terms of management banning orders
-A management banning order must prohibit the person to whom it applies from being, without the leave of a District Court, a director of, or being in any way (whether directly or indirectly) concerned in or taking part in the management of, an incorporated or unincorporated body that carries on business in New Zealand, for a period specified in the order, which must be no more than 10 years.
+A management banning order must prohibit the person to whom it applies from being, without the leave of the District Court, a director of, or being in any way (whether directly or indirectly) concerned in or taking part in the management of, an incorporated or unincorporated body that carries on business in New Zealand, for a period specified in the order, which must be no more than 10 years.
 
 ### 46E Offence to breach management banning order
 A person who breaches a management banning order made against him or her commits an offence and is liable on conviction to a fine not exceeding $60,000.
@@ -1351,17 +1351,17 @@ A person who breaches a management banning order made against him or her commits
 (4) The Commission must publish every management banning order made under section 46C in the Gazette as soon as practicable after it is made.
 
 ### 46G Seeking leave of court
-(1) An application for leave of a District Court under section 46D must be by way of originating application.
+(1) An application for leave of the District Court under section 46D must be by way of originating application.
 (2) The Commission, and any other persons that the court thinks fit, may attend and be heard at the hearing of the application.
 
 **Declaration of unfair contract terms**
 
 ### 46H Application by Commission for declaration of unfair contract term
-(1) The Commission may apply to the High Court or a District Court (at the choice of the Commission) for a declaration under section 46I that a term in a standard form consumer contract is an unfair contract term.
+(1) The Commission may apply to the High Court or the District Court (at the choice of the Commission) for a declaration under section 46I that a term in a standard form consumer contract is an unfair contract term.
 (2) Any person may ask the Commission to apply to a court for a declaration under section 46I in relation to a contract to which the person is a party.
 
 ### 46I Declaration of unfair contract terms
-(1) The High Court or a District Court may, on application by the Commission, declare that a term in a standard form consumer contract is an unfair contract term.
+(1) The High Court or the District Court may, on application by the Commission, declare that a term in a standard form consumer contract is an unfair contract term.
 (2) The court may make the declaration only if it is satisfied that—
   (a) the term is in a contract that is a consumer contract; and
   (b) the consumer contract is a standard form contract (as determined in accordance with section 46J); and
