@@ -1,5 +1,5 @@
 # Social Workers Registration Act 2003
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Social Workers Registration Act 2003.
@@ -940,8 +940,8 @@ A complaints assessment committee that lays a charge before the Tribunal may rec
 ## Part 5 — Appeals
 
 ### 88 Rights of appeal
-(1) A person may appeal to a District Court against any decision or direction of the Board under this Act that adversely affects him or her (not being a decision or direction affecting a person only because he or she is a person of a particular kind or description).
-(2) A person may appeal to a District Court against the whole or any part of a decision or order made in relation to him or her under Part 4 (other than a determination of a complaints assessment committee).
+(1) A person may appeal to the District Court against any decision or direction of the Board under this Act that adversely affects him or her (not being a decision or direction affecting a person only because he or she is a person of a particular kind or description).
+(2) A person may appeal to the District Court against the whole or any part of a decision or order made in relation to him or her under Part 4 (other than a determination of a complaints assessment committee).
 (3) For the purposes of subsection (2),—
   (a) a decision includes a decision to refuse to make an order; and
   (b) an order includes a direction under section 77; and
@@ -958,7 +958,7 @@ A decision or order against which an appeal is lodged under this Part continues 
 
 ### 91 Procedure on appeal
 (1) An appeal under this Part must be heard as soon as is reasonably practicable after it is lodged.
-(2) On hearing the appeal, a District Court—
+(2) On hearing the appeal, the District Court—
   (a) may confirm, reverse, or modify the decision or order appealed against; and
   (b) may make any other decision or order that the person or body that made the decision or order appealed against could have made.
 (3) The District Court must not review—
@@ -966,11 +966,11 @@ A decision or order against which an appeal is lodged under this Part continues 
   (b) any decision or order not appealed against at all.
 
 ### 92 Court's decision final
-(1) A District Court's decision on an appeal under this Part is final.
+(1) The District Court's decision on an appeal under this Part is final.
 (2) Subsection (1) is subject to section 96.
 
 ### 93 Court may refer matter back for reconsideration
-(1) Instead of determining an appeal under this Part, a District Court may direct the person or body whose decision or order is appealed against to reconsider, either generally or in respect of any specified aspect, the whole or any part of it.
+(1) Instead of determining an appeal under this Part, the District Court may direct the person or body whose decision or order is appealed against to reconsider, either generally or in respect of any specified aspect, the whole or any part of it.
 (2) The court—
   (a) must state its reasons for its direction; and
   (b) may give any other directions it thinks just as to the matter referred back for reconsideration.
@@ -981,10 +981,10 @@ A decision or order against which an appeal is lodged under this Part continues 
     (ii) give effect to the court's directions.
 
 ### 94 Orders as to costs
-On any appeal under this Part, a District Court may order the person or body whose decision or order is appealed against, or the appellant, to pay the costs incurred in respect of the appeal by the other party to the appeal.
+On any appeal under this Part, the District Court may order the person or body whose decision or order is appealed against, or the appellant, to pay the costs incurred in respect of the appeal by the other party to the appeal.
 
 ### 95 Orders as to publication of names
-(1) On any appeal under this Part, a District Court may, if in its opinion it is proper to do so, prohibit the publication of the name or particulars of the affairs of a registered social worker or any other person.
+(1) On any appeal under this Part, the District Court may, if in its opinion it is proper to do so, prohibit the publication of the name or particulars of the affairs of a registered social worker or any other person.
 (2) In deciding whether to make an order under subsection (1), the court must have regard to—
   (a) the interests of any person (including, without limitation, the privacy of any complainant); and
   (b) the public interest.
@@ -1781,7 +1781,7 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 
 ### 11 Privileges and immunities
 (1) Every person has the same privileges in relation to giving information to the Tribunal, answering questions put by the Tribunal, and the production of papers, documents, records, and things to the Tribunal as witnesses have in courts of law.
-(2) Witnesses and counsel appearing before the Tribunal have the same privileges and immunities as witnesses and counsel have in proceedings in a District Court.
+(2) Witnesses and counsel appearing before the Tribunal have the same privileges and immunities as witnesses and counsel have in proceedings in the District Court.
 
 ### 12 Non-attendance or refusal to co-operate
 (1) Every person commits an offence who, after being summoned to attend to give evidence before the Tribunal, without reasonable excuse,—
