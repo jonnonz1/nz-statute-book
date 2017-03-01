@@ -1,5 +1,5 @@
 # Law Reform Act 1936
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to effect reforms in the law relating to—1the effect of death in relation to causes of action;2the payment of compensation under the Deaths by Accidents Compensation Act 1908;3charges on insurance moneys payable as indemnity for liability to pay damages or compensation;4the capacity, property, and liabilities of married women, and the liabilities of husbands;5proceedings against and contributions between tortfeasors;6the liability of employers to their servants for injuries caused by the negligence of fellow servants; and7covenants in leases not to assign or underlet without consent of lessor
 
@@ -116,7 +116,7 @@ Section 48 of the Workers' Compensation Act 1922 and section 10 of the Motor-veh
 (4) Nothing in this section shall—
   (a) affect any criminal proceedings against any person in respect of any wrongful act; or
   (b) render enforceable any agreement for indemnity which would not have been enforceable if this section had not been passed.
-(5) Section 94 of the Judicature Act 1908 shall not hereafter apply with respect to any action or other proceeding to which this Part applies.
+(5) Section 99 of the District Court Act 2016 shall not hereafter apply with respect to any action or other proceeding to which this Part applies.
 
 ## Part 6 — Liability of employers to their servants for injuries caused by the negligence of fellow servants
 
