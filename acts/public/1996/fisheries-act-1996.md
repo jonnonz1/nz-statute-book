@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2017-02-01_
+_Consolidation as at 2017-03-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -50,7 +50,7 @@ _Consolidation as at 2017-02-01_
     (a) research relating to those effects on protected species:
     (b) research on measures to mitigate the adverse effects of commercial fishing on protected species:
     (c) the development of population management plans under the Wildlife Act 1953 and the Marine Mammals Protection Act 1978
-  - **court** means a District Court or, where proceedings are commenced in the High Court, the High Court
+  - **court** means the District Court or, where proceedings are commenced in the High Court, the High Court
   - **customary marine title group** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **deemed value** means an interim deemed value or an annual deemed value
   - **deemed value amount** means the amount of any interim or annual deemed value payable in respect of any catch taken in excess of any annual catch entitlement, as determined under section 76
@@ -1610,7 +1610,7 @@ Before making a recommendation under section 77(1), the Minister may have regard
 (4) The chief executive must—but any delay or failure to give that notification or make that record does not affect the imposition of the condition.
   (a) notify the imposition of the condition under subsection (2) to the commercial fisher concerned and any included person of whom the chief executive is aware; and
   (b) record on the Permit Register details of the imposition of the condition,—
-(5) A commercial fisher who has requested a review under section 80(2) or lodged an appeal under section 80(6) may, pending determination of the review or appeal, apply to a District Court for an order removing or amending a condition imposed under this section, and the court may make such an order subject to such sureties and conditions as the court may specify.
+(5) A commercial fisher who has requested a review under section 80(2) or lodged an appeal under section 80(6) may, pending determination of the review or appeal, apply to the District Court for an order removing or amending a condition imposed under this section, and the court may make such an order subject to such sureties and conditions as the court may specify.
 (6) Despite subsection (2), the chief executive may—
   (a) approve the taking of fish, aquatic life, or seaweed in an area by a person who would otherwise be subject to the condition imposed by subsection (2); and
   (b) impose as part of the approval any conditions that he or she considers necessary to reduce the risk of the person taking the stock for which the over-fishing threshold was exceeded.
@@ -1665,7 +1665,7 @@ Before making a recommendation under section 77(1), the Minister may have regard
 (9) If a person (person B) knowingly allows another person (person A) to conduct commercial fishing under person B's permit for the purpose of assisting person A to fish despite the condition treated by section 78(2) as being contained in person A's permit, and person A does so, then each of person A and person B commits an offence and is liable to the penalty set out in section 252(3).
 
 ### 78B Removal of conditions on other persons
-(1) A person who has had a condition imposed on his or her fishing permit under section 78(2) in their capacity as a person included with a commercial fisher under section 78(11), or a person who has had a condition imposed under section 78A(1), may apply to a District Court to have the condition removed either permanently or pending final determination of the application on the grounds that the situation relied upon under section 78(2) and (11) or section 78A(1) never existed or no longer exists.
+(1) A person who has had a condition imposed on his or her fishing permit under section 78(2) in their capacity as a person included with a commercial fisher under section 78(11), or a person who has had a condition imposed under section 78A(1), may apply to the District Court to have the condition removed either permanently or pending final determination of the application on the grounds that the situation relied upon under section 78(2) and (11) or section 78A(1) never existed or no longer exists.
 (2) In determining an application under subsection (1) totally or partially in favour of the applicant, the District Court may remove or amend the condition either totally or partially and on such sureties or conditions as the court considers appropriate.
 
 ### 79 Suspension of permit for non-payment of deemed value
@@ -1674,7 +1674,7 @@ Before making a recommendation under section 77(1), the Minister may have regard
   (a) notify every suspension or cessation of suspension of a fishing permit under subsection (1) to the commercial fisher concerned and any included person of whom the chief executive is aware; and
   (b) record on the Permit Register details of any suspension or cessation of suspension of a fishing permit under subsection (1);—
 (3) A fishing permit suspended under this section does not authorise any person to take any fish, aquatic life, or seaweed under the authority of that permit, but all other provisions of this Act continue to apply as if the fishing permit had not been suspended.
-(4) A commercial fisher who has requested a review under section 80(2) or lodged an appeal under section 80(6) may, pending determination of the review or appeal, apply to a District Court for an order lifting any suspension imposed under this section, and the court may make such an order subject to such sureties and conditions as the court may specify.
+(4) A commercial fisher who has requested a review under section 80(2) or lodged an appeal under section 80(6) may, pending determination of the review or appeal, apply to the District Court for an order lifting any suspension imposed under this section, and the court may make such an order subject to such sureties and conditions as the court may specify.
 (5) For the purposes of subsections (1) and (2), a person or entity is to be treated as a person included with the commercial fisher if the person or entity is—
   (a) a subsidiary of the commercial fisher within the meaning of section 5 of the Companies Act 1993; or
   (b) a company of which the commercial fisher is a subsidiary within the meaning of section 5 of the Companies Act 1993; or
@@ -1719,7 +1719,7 @@ Before making a recommendation under section 77(1), the Minister may have regard
   (a) whose permit has been suspended under section 79(1) in their capacity as a person included with a commercial fisher under section 79(5); or
   (b) whose permit has been suspended under section 79A(1); or
   (c) who has been refused a permit under section 91(6)﻿(c).
-(2) Such a person may apply to a District Court to—on the grounds that the situation relied upon under section 79(1) and (5) or section 79A(1) never existed or no longer exists.
+(2) Such a person may apply to the District Court to—on the grounds that the situation relied upon under section 79(1) and (5) or section 79A(1) never existed or no longer exists.
   (a) direct that the suspension be removed, either permanently or pending the final determination of the application; or
   (b) direct that the permit be issued,—
 (3) In determining an application under subsection (1) totally or partially in favour of the applicant, the District Court may—
@@ -1735,8 +1735,8 @@ Before making a recommendation under section 77(1), the Minister may have regard
 (3) Subsection (2) does not prevent any person making an application under section 164 for a correction of a register.
 (4)
 (5) The chief executive shall, if satisfied that a valid request for review has been received and sufficient information has been provided, conduct a review of the notification and, as soon as practicable, determine the matters that are the subject of the review and issue a new notification containing all matters specified in subsection (1) and incorporating the results of that determination.
-(6) Any commercial fisher who is dissatisfied with any new notification issued by the chief executive under subsection (5) may, within 20 working days after the date specified for the purpose in the notification of the decision, appeal to a District Court against the decision (which appeal may relate to any matters that were the subject of the commercial fisher's request for review) and the following provisions apply in relation to every such appeal:
-  (a) the appeal shall be commenced by way of an originating application under Part 6 of the District Courts Rules 1992:
+(6) Any commercial fisher who is dissatisfied with any new notification issued by the chief executive under subsection (5) may, within 20 working days after the date specified for the purpose in the notification of the decision, appeal to the District Court against the decision (which appeal may relate to any matters that were the subject of the commercial fisher's request for review) and the following provisions apply in relation to every such appeal:
+  (a) the appeal shall be commenced by way of an originating application under subpart 2 of Part 20 of the District Court Rules 2014:
   (b) the court—
     (i) shall consider each of the matters to which the appeal relates; and
     (ii) shall make a final determination in respect of each of those matters; and
@@ -2180,7 +2180,7 @@ The High Seas Permit Register must contain all the particulars required by regul
 ### 106B Rights of review and appeal relating to suspension of consent to registration of vessel
 (1) A person directly affected by the chief executive's decision under section 106A(1) to suspend his or her consent to a vessel's registration may, within 7 days after the date on which the decision was notified, apply to the chief executive for a review of that decision.
 (2) The chief executive must, within 14 days after the date of receipt of an application under subsection (1), confirm, reverse, or modify the decision under review.
-(3) If the applicant is dissatisfied with the chief executive's decision under subsection (2), the applicant may appeal to a District Court against the decision.
+(3) If the applicant is dissatisfied with the chief executive's decision under subsection (2), the applicant may appeal to the District Court against the decision.
 (4) The District Court may confirm, reverse, or modify the decision appealed against.
 (5) If any party to any proceedings before the District Court under this section is dissatisfied with any determination of the court as being erroneous in point of law, the party may appeal to the High Court by way of case stated for the opinion of the court on a question of law only.
 (6) On an appeal under subsection (5), the High Court may confirm, reverse, or modify the decision appealed against.
@@ -3421,7 +3421,7 @@ The chief executive must not make an aquaculture decision in relation to—
 [Repealed]
 
 ### 186J Judicial review of aquaculture decision
-(1) Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, judicial review of an aquaculture decision must do so within 30 working days after the notification of the decision under section 186H(2)﻿(a).
+(1) Any person wishing to seek, under the Judicial Review Procedure Act 2016, judicial review of an aquaculture decision must do so within 30 working days after the notification of the decision under section 186H(2)﻿(a).
 (2) The chief executive must notify the relevant regional council of—
   (a) any proceedings brought to seek judicial review of an aquaculture decision; and
   (b) the result of those proceedings, including any appeals.
@@ -3536,7 +3536,7 @@ If the chief executive grants an application to register a fish farmer, the chie
 (5) The chief executive must not vary the registration of a fish farmer if the proposed variation were treated as an application to register as a fish farmer and the chief executive would have had to decline the application under section 186S(2).
 
 ### 186X Appeal against suspension of fish farmer registration
-A District Court may at any time on application by a fish farmer whose registration is suspended under section 269 make an order lifting the suspension subject to any sureties and conditions specified by the court.
+The District Court may at any time on application by a fish farmer whose registration is suspended under section 269 make an order lifting the suspension subject to any sureties and conditions specified by the court.
 
 ### 186Y Revocation of registration
 (1) The chief executive must revoke the registration of a fish farmer if—
@@ -3549,7 +3549,7 @@ A District Court may at any time on application by a fish farmer whose registrat
 (4) This section does not require the chief executive to remit or refund any fees, charges, or levies paid or payable by the fish farmer for the period from the date of registration to the date of revocation.
 
 ### 186Z Appeal against revocation of fish farmer registration
-(1) A fish farmer whose registration is revoked under section 186Y may appeal to a District Court against the revocation.
+(1) A fish farmer whose registration is revoked under section 186Y may appeal to the District Court against the revocation.
 (2) The District Court may—
   (a) confirm the revocation; or
   (b) revoke the revocation.
@@ -3665,7 +3665,7 @@ In this subpart, unless the context otherwise requires,—
 
 ### 186ZJ No proceedings to be taken against chief executive
 (1) No civil or criminal proceedings are to be brought against the chief executive in respect of any decision of the chief executive under section 186ZH, 186ZHA, 186ZI, 186ZIA, or 186ZM.
-(2) However, subsection (1) does not apply in relation to proceedings seeking, under Part 1 of the Judicature Amendment Act 1972, judicial review of a decision by the chief executive.
+(2) However, subsection (1) does not apply in relation to proceedings seeking, under the Judicial Review Procedure Act 2016, judicial review of a decision by the chief executive.
 
 ### 186ZK Chief executive must notify regional council of certain matters
 (1) The chief executive must notify the regional council concerned of a matter specified in subsection (2) as soon as practicable after the matter has occurred.
@@ -4937,7 +4937,7 @@ Except as expressly otherwise provided in this Act, the Catch History Review Com
     (i) delete information that it considers commercially sensitive:
     (ii) make copies of the decision available on payment of a reasonable charge.
 (3) The Committee shall record its decisions in a register.
-(4) Every decision of the Committee shall be final unless challenged by an application for review under Part 1 of the Judicature Amendment Act 1972.
+(4) Every decision of the Committee shall be final unless challenged by an application for review under the Judicial Review Procedure Act 2016.
 (5) Notwithstanding any other enactment or rule of law, a court shall not hear or determine, and no person shall make or commence, any application or other proceedings whatever in respect of a decision or purported decision of the Committee unless the application is, or the proceedings are, made or commenced within 90 days after the date of the decision or purported decision.
 (6) Every decision of the Committee shall contain a statement as to the effect of subsections (4) and (5).
 
@@ -5093,21 +5093,21 @@ The Minister may not give a notice under section 296H unless the Minister—
 ### 296J Content of notice to transfer property, rights, and obligations
 A notice given under section 296H must state—
   (a) the date on which it takes effect, being a date no earlier than 30 days from the date on which the notice is given to the specified person; and
-  (b) that the specified person may, within the period specified in the notice, apply to a District Court for an order revoking the notice; and
+  (b) that the specified person may, within the period specified in the notice, apply to the District Court for an order revoking the notice; and
   (c) that the notice will take effect—
-    (i) if the person does not apply to a District Court, on the date specified in the notice; or
-    (ii) if the person applies to a District Court and the application is dismissed, on the date the application is dismissed.
+    (i) if the person does not apply to the District Court, on the date specified in the notice; or
+    (ii) if the person applies to the District Court and the application is dismissed, on the date the application is dismissed.
 
 ### 296K Right of appeal to District Court
-(1) A specified person may, within the period specified in a notice given under section 296H, apply to a District Court for an order revoking the notice.
+(1) A specified person may, within the period specified in a notice given under section 296H, apply to the District Court for an order revoking the notice.
 (2) On an application under this section, if a District Court Judge is not satisfied that the transfer of any property, rights, or obligations to the chief executive is necessary for the performance or exercise of the functions, duties, or powers for which the approved service delivery organisation is or was responsible, the District Court Judge must—
   (a) revoke the notice; or
   (b) revoke that part of the notice that relates to that property, or to those rights or obligations.
 
 ### 296L Date on which transfer of property takes effect
 (1) A notice under section 296H takes effect,—
-  (a) if the specified person does not apply to a District Court under section 296K, on the date stated in the notice as the date on which it takes effect; or
-  (b) if the specified person applies to a District Court and the person's application is dismissed, on the date the application is dismissed.
+  (a) if the specified person does not apply to the District Court under section 296K, on the date stated in the notice as the date on which it takes effect; or
+  (b) if the specified person applies to the District Court and the person's application is dismissed, on the date the application is dismissed.
 (2) On the date that the notice takes effect—
   (a) the property specified in the notice becomes the property of the chief executive; and
   (b) the rights and obligations of the approved service delivery organisation under any agreement or arrangement specified in the notice become rights and obligations of the chief executive as if the chief executive, and not the organisation, had entered into the agreement or arrangement with the specified person.
@@ -5206,7 +5206,7 @@ The Minister must record the prescribed demerit points under section 296S—
 (1) This section applies if—
   (a) an objection to the recording of demerit points, accompanied by a statement of reasons, is received from the approved service delivery organisation within the stated 20-day period; and
   (b) the Minister does not accept the objection.
-(2) The Minister may apply to a District Court for an order that the Minister may record the demerit points.
+(2) The Minister may apply to the District Court for an order that the Minister may record the demerit points.
 (3) The District Court must order the Minister to record the demerit points under section 296S if the Minister establishes on the balance of probabilities that the organisation has not complied with the standards and specifications or the direction to which the notice under section 296T relates.
 (4) The court may award costs as if the matter were a criminal matter.
 
