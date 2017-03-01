@@ -1,5 +1,5 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > Title
 
@@ -142,7 +142,7 @@ In this Act, unless the context otherwise requires,—
     (c) also includes the Republic of Ireland as if it were an independent sovereign member of the Commonwealth
   - **contribution** has the meaning given to it by section 18
   - **court** means—
-    (a) a Family Court; or
+    (a) the Family Court; or
     (b) if another court has jurisdiction in the proceedings, that court
   - **de facto partner** has the meaning given to it by section 2C; and includes a former de facto partner
   - **de facto relationship** has the meaning given to it by section 2D
@@ -878,7 +878,7 @@ Any agreement made before 1 August 2001 under section 21 (as that section existe
 **General**
 
 ### 22 Jurisdiction
-(1) Every application under this Act must be heard and determined in a Family Court.
+(1) Every application under this Act must be heard and determined in the Family Court.
 (2) This section is subject to any other provision of this Act that confers jurisdiction on any other court.
 (3)
 (4)
@@ -940,7 +940,7 @@ Any agreement made before 1 August 2001 under section 21 (as that section existe
 (1) The court may make an order granting to either spouse or partner, for such period or periods and on such terms and subject to such conditions as the court thinks fit, the right personally to occupy the family home or any other premises forming part of the relationship property.
 (2) Where an order is made under subsection (1), the person in whose favour it is made shall be entitled, to the exclusion of the other spouse or partner, personally to occupy the family home or the other premises to which the order relates.
 (3) An order made under subsection (1) against a spouse or partner shall be enforceable against the personal representative of the person against whom it is made, unless the court otherwise directs.
-(4) An order made under subsection (1) by a District Court or a Family Court shall be enforceable as if it were an order for recovery of land made pursuant to section 31(1)﻿(d) of the District Courts Act 1947.
+(4) An order made under subsection (1) by the District Court or the Family Court is enforceable as if it were an order for recovery of land made pursuant to section 79(2)﻿(c) of the District Court Act 2016.
 (5) In proceedings commenced after the death of one of the spouses or partners, this section is modified by section 91.
 
 ### 28 Orders with respect to tenancy
@@ -1052,15 +1052,15 @@ Where application is made to the court for any order under any provision of this
 **Miscellaneous provisions**
 
 ### 35 Attendance at hearings
-Section 11A of the Family Courts Act 1980 applies to the hearing of any application or appeal under this Act—
-  (a) in a Family Court:
+Section 11A of the Family Court Act 1980 applies to the hearing of any application or appeal under this Act—
+  (a) in the Family Court:
   (b) in any other court, in which case—
     (i) references in that section to the Family Court or court must be read as references to that other court; and
     (ii) references in that section to the Family Court Judge or the Judge must be read as references to the Judge presiding at the hearing.
 
 ### 35A Publication of reports of proceedings
-Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act—
-  (a) in a Family Court:
+Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a report of any proceedings under this Act—
+  (a) in the Family Court:
   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
 
 ### 36 Evidence
@@ -1073,7 +1073,7 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
 ### 37A Court may appoint lawyer for children
 (1) The court may appoint a lawyer to represent any minor or dependent children of the marriage or, as the case requires, any minor or dependent children of the civil union or de facto relationship in any proceedings under this Act if, in the opinion of the court, special circumstances make the appointment necessary or desirable.
 (2) Fees payable to a lawyer appointed under subsection (1), and reasonable expenses incurred,—
-  (a) must be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (a) must be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by the Registrar of the court; and
   (b) must be paid by 1 or more of the parties to the proceedings as ordered by the court.
 (3)
 (4)
@@ -1082,7 +1082,7 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
 (1) The court may, on any application under this Act, appoint the Registrar of the court, or such other person as the court thinks fit, to make an inquiry into the matters of fact in issue between the parties, and to report thereon to the court.
 (2) A copy of every such report shall be given to the lawyer appearing for each party to the proceedings or, if any party is not represented by a lawyer, to that party. Any party may tender evidence on any matter referred to in any such report.
 (3) The court may, on any application under this Act, with the consent of the parties, appoint the Registrar of the court, or such other person as the court thinks fit, to settle a scheme in respect of the property comprised in the application and to submit it to the court for approval.
-(4) Fees payable to any person (other than the Registrar) appointed under subsection (1) or subsection (3), and reasonable expenses incurred,—provided that, if the court thinks proper, it may order any party to refund to the Crown such amount as the court specifies in respect of those fees and expenses, and that amount shall be a debt due to the Crown by that party and, in default of payment of the amount, payment thereof may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that court.
+(4) Fees payable to any person (other than the Registrar) appointed under subsection (1) or subsection (3), and reasonable expenses incurred,—provided that, if the court thinks proper, it may order any party to refund to the Crown such amount as the court specifies in respect of those fees and expenses, and that amount shall be a debt due to the Crown by that party and, in default of payment of the amount, payment thereof may be enforced, by order of the District Court or the High Court as the case may require, in the same manner as a judgment of that court.
   (a) may be determined in accordance with regulations made under this Act; and
   (b) are payable out of public money appropriated by Parliament for the purpose:
 
@@ -1102,13 +1102,13 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
 **Appeals**
 
 ### 39 Right of appeal to High Court
-(1) This subsection applies to a decision of a Family Court or District Court, in proceedings under this Act, to—
+(1) This subsection applies to a decision of the Family Court or the District Court, in proceedings under this Act, to—
   (a) make or refuse to make an order; or
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (2) A party to proceedings in which there is made a decision to which subsection (1) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
-(3) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (2) as if it were an appeal under section 72 of that Act.
-(4) On the ex parte application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(3) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (2) as if it were an appeal under section 124 of that Act.
+(4) On the ex parte application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under section 126(1) of the District Court Act 2016 to give the Registrar of the High Court security for costs.
 (5) Subsection (4) overrides subsection (3).
 (6) If the appeal relates to proceedings commenced after the death of one of the spouses or partners, this section is modified by section 93.
 
@@ -1116,7 +1116,7 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
 [Repealed]
 
 ### 39B Appeals to Court of Appeal
-(1) The provisions of the Judicature Act 1908 relating to appeals to the Court of Appeal against a decision of the High Court apply to an order or decision of the High Court under this Act.
+(1) The provisions of the Senior Courts Act 2016 relating to appeals to the Court of Appeal against a decision of the High Court apply to an order or decision of the High Court under this Act.
 (2)
 (3) The High Court or the Court of Appeal may, if it thinks that the interests of justice so require,—
   (a) rehear the whole or any part of the evidence; or
@@ -1145,18 +1145,18 @@ Subject to any rules of procedure made for the purposes of this Act, in any proc
 (1) A claim to an interest, pursuant to this Act, in any land subject to the Land Transfer Act 1952 shall be deemed to be a registrable interest for the purposes of that Act.
 (2) Notice of a claim under subsection (1) shall be effected by lodging a duly completed notice in the prescribed form with the District Land Registrar.
 (3) Every notice so lodged shall have effect as if it were a caveat lodged pursuant to section 137 of the Land Transfer Act 1952 and the provisions of that Act, except subsections (3) and (4) of section 141, shall apply subject to the following modifications:
-  (a) any application under section 143 or section 145 or section 145A of that Act in respect of any notice under this section may be made to a Family Court or a District Court or the High Court; and
-  (b) an order under section 148 of that Act authorising the receipt of a second notice under this section may be made by a Family Court or a District Court or the High Court.
+  (a) any application under section 143 or section 145 or section 145A of that Act in respect of any notice under this section may be made to the Family Court or the District Court or the High Court; and
+  (b) an order under section 148 of that Act authorising the receipt of a second notice under this section may be made by the Family Court or the District Court or the High Court.
 (4) In the case of land that is not subject to the Land Transfer Act 1952, notice of a claim to an interest pursuant to this Act may be registered in the manner in which deeds and other instruments affecting the land may be registered.
 (5) A notice under subsection (2) or subsection (4) may be registered notwithstanding that no proceedings under this Act are pending or in contemplation, and notwithstanding that there is no dispute between the parties.
 
 ### 43 Dispositions may be restrained
-(1) Where it appears to the High Court or a District Court or a Family Court that any disposition of property is about to be made, whether for value or not, by or on behalf of or by direction of or in the interests of any person in order to defeat the claim or rights of any other person (party B) under this Act, the court may, on such notice being given as the court may direct, by order restrain the making of the disposition or may order any proceeds of the disposition to be paid into court to be dealt with as the court directs.
+(1) Where it appears to the High Court or the District Court or the Family Court that any disposition of property is about to be made, whether for value or not, by or on behalf of or by direction of or in the interests of any person in order to defeat the claim or rights of any other person (party B) under this Act, the court may, on such notice being given as the court may direct, by order restrain the making of the disposition or may order any proceeds of the disposition to be paid into court to be dealt with as the court directs.
 (1A) The court may make an order under this section on the application of party B, or (in any proceedings under this Act or otherwise) on its own initiative.
 (2) Any disposition made after an order of the court under subsection (1) restraining the making of the disposition has been served on or come to the notice of the person disposing of the property, or any auctioneer, agent, or lawyer acting in connection with the disposition, shall be void, and the court may consider any claim of any person interested and may make such order as it thinks just.
 
 ### 44 Dispositions may be set aside
-(1) Where the High Court or a District Court or a Family Court is satisfied that any disposition of property has been made, whether for value or not, by or on behalf of or by direction of or in the interests of any person in order to defeat the claim or rights of any person (party B) under this Act, the court may make any order under subsection (2).
+(1) Where the High Court or the District Court or the Family Court is satisfied that any disposition of property has been made, whether for value or not, by or on behalf of or by direction of or in the interests of any person in order to defeat the claim or rights of any person (party B) under this Act, the court may make any order under subsection (2).
 (1A) The court may make an order under this section on the application of party B, or (in any proceedings under this Act or otherwise) on its own initiative.
 (2) In any case to which subsection (1) applies, the court may, subject to subsection (4),—
   (a) order that any person to whom the disposition was made and who received the property otherwise than in good faith and for valuable consideration, or his or her personal representative, shall transfer the property or any part thereof to such person as the court directs; or
@@ -1268,7 +1268,7 @@ As from the commencement of this Act, no restriction upon anticipation or aliena
   (c) the question or questions in issue could more conveniently be disposed of on an application made under this Act.
 (3) Without limiting the provisions of subsection (2)﻿(c), the court may in any such action exercise any power which could be exercised on an application under this Act or give such directions as it thinks fit for the disposal under this Act of any question arising in the proceedings.
 (4) In an action to which this section applies, judgment by default shall not be entered except with the leave of the court. An application for the grant of such leave must be served on the defendant.
-(5) In this section the term court means the High Court, a District Court, or a Family Court; but a District Court shall not exercise any power which could be exercised on an application under this Act unless it is empowered to do so under any enactment (other than this section).
+(5) In this section the term court means the High Court, the District Court, or the Family Court, but the District Court must not exercise any power which could be exercised on an application under this Act unless it is empowered to do so under any enactment (other than this section).
 
 ### 52 Minors may apply without guardian ad litem
 Notwithstanding any enactment or rule of law, a minor who is or has been married or in a civil union may bring, institute, or defend proceedings under this Act without a guardian ad litem or next friend, and every judgment or order of the court under this Act shall be binding upon and may be enforced against such a minor as if he or she were of full age.
@@ -1300,17 +1300,17 @@ Notwithstanding any enactment or rule of law, a minor who is or has been married
     (ii) to the extent that it is not possible to attribute all or any of the property to either de facto relationship, the property is to be divided in accordance with the contribution of each de facto relationship to the acquisition of the property.
 
 ### 53 Rules of court and regulations
-(1) Rules may from time to time be made in the manner prescribed by the Judicature Act 1908 relating to the procedure of the High Court under this Act and to appeals to the Court of Appeal under this Act.
-(1A) Rules may be made under section 16A of the Family Courts Act 1980 relating to the practice and procedure of Family Courts in proceedings under this Act.
-(2) The Governor-General may from time to time, by Order in Council, make regulations under section 100A of the Judicature Act 1908 for the purposes of this Act.
+(1) Rules may from time to time be made in the manner prescribed by the Senior Courts Act 2016 relating to the procedure of the High Court under this Act and to appeals to the Court of Appeal under this Act.
+(1A) Rules may be made under section 16A of the Family Court Act 1980 relating to the practice and procedure of the Family Court in proceedings under this Act.
+(2) The Governor-General may from time to time, by Order in Council, make regulations under section 156 of the Senior Courts Act 2016 for the purposes of this Act.
 (2A) The Governor-General may from time to time, by Order in Council, make regulations—
   (a)
   (b) making provision for determining the amount of fees and expenses payable to any person (other than the Registrar) appointed under subsection (1) or subsection (3) of section 38:
   (ba) requiring the personal representative of a deceased spouse or partner to provide the surviving spouse or partner with information about the estate of the deceased spouse or partner; and providing for the enforcement of any such requirement (including, without limitation, providing for the court, on the application of the surviving spouse or partner, to order the personal representative to provide all or any of the relevant information):
   (c) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
-(3) In addition to all other powers conferred by the District Courts Act 1947, the Governor-General may from time to time, by Order in Council, make rules regulating the procedure of District Courts in proceedings under this Act, and providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and its due administration.
-(3A) Without limiting the generality of the powers conferred by subsections (1) and (3) or section 16A of the Family Courts Act 1980, rules made under any of those provisions may require any party to proceedings under this Act to supply to the other party to the proceedings particulars of the nature and value of the property of the first-mentioned party that could be the subject of any order in those proceedings.
-(4) In the absence of any rules under this section, or in any situation not covered by those rules, the rules in relation to civil proceedings for the time being in force under the Judicature Act 1908 apply with all necessary modifications to proceedings under this Act that are brought or dealt with in the High Court.
+(3) In addition to all other powers conferred by the District Court Act 2016, the Governor-General may from time to time, by Order in Council, make rules regulating the procedure of the District Court in proceedings under this Act, and providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and its due administration.
+(3A) Without limiting the generality of the powers conferred by subsections (1) and (3) or section 16A of the Family Court Act 1980, rules made under any of those provisions may require any party to proceedings under this Act to supply to the other party to the proceedings particulars of the nature and value of the property of the first-mentioned party that could be the subject of any order in those proceedings.
+(4) In the absence of any rules under this section, or in any situation not covered by those rules, the rules in relation to civil proceedings for the time being in force under the Senior Courts Act 2016 apply with all necessary modifications to proceedings under this Act that are brought or dealt with in the High Court.
 
 ### 53A Power to prescribe specified sum
 (1) The Governor-General may from time to time, by Order in Council, prescribe the amount that is the specified sum for the purposes of section 20B.
