@@ -1,5 +1,5 @@
 # Antarctica (Environmental Protection) Act 1994
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to provide for the comprehensive protection of the Antarctic environment and to recognise Antarctica as a natural reserve devoted to peace and science and to implement the Protocol on Environmental Protection to the Antarctic Treaty
 
@@ -382,7 +382,7 @@ Every inspector exercising any power under section 41—
 (5) Every person released on bail shall be released subject to the condition that he or she must attend before such court at such time as the inspector—
   (a) specifies at the time of granting bail; or
   (b) where it is not reasonably practicable to so specify at that time, specifies as soon as possible thereafter.
-(6) Sections 31(1), 31(4), 32(1), 32(2), 37, and 38 of the Bail Act 2000 apply to every grant of bail under this section as if every reference to a constable, a Registrar, or a District Court were a reference to a special inspector, and with any other necessary modifications.
+(6) Sections 31(1), 31(4), 32(1), 32(2), 37, and 38 of the Bail Act 2000 apply to every grant of bail under this section as if every reference to a constable, a Registrar, or the District Court were a reference to a special inspector, and with any other necessary modifications.
 
 ### 46 Custody of property seized
 (1) Any thing seized under this Act shall be held in the custody of the Crown until—and shall then be returned to the person entitled to possession of the thing.
