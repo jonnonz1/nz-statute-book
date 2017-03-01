@@ -1,5 +1,5 @@
 # Costs in Criminal Cases Act 1967
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2017-03-01_
 
 > An Act to amend the law relating to the payment of costs in criminal cases
 
@@ -44,7 +44,7 @@ Where any defendant is convicted but the court is of the opinion that the prosec
 ### 7 Payment of defendant's costs
 (1) Subject to subsection (2), where any order is made under section 5 or section 6 the amount ordered to be paid to the defendant shall—
   (a) if the prosecution was conducted by or on behalf of the Crown, be paid by the chief executive of the Ministry of Justice out of money appropriated by Parliament for the purpose and may be recovered as a debt due by the Crown:
-  (b) if the prosecution was not conducted by or on behalf of the Crown, be paid by the person who commenced the proceedings and may be recovered from him as a debt, and any such order made by a District Court shall be enforceable as if it were a fine.
+  (b) if the prosecution was not conducted by or on behalf of the Crown, be paid by the person who commenced the proceedings and may be recovered from him as a debt, and any such order made by the District Court shall be enforceable as if it were a fine.
 (2) Notwithstanding the provisions of subsection (1) where a court is of the opinion that any person has acted negligently or in bad faith in bringing, continuing, or conducting a prosecution it may, in any order made under section 5, direct that the defendant's costs shall be paid by—and in any such case costs shall not be paid under subsection (1) but shall be paid by, and may be recovered as a debt from, the government department, officer of the Crown, local authority, public body, or person specified in the order.
   (a) the government department, officer of the Crown, local authority, or public body on whose behalf that person was acting; or
   (b) if he was not so acting, by that person personally,—
