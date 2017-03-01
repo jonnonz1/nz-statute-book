@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Act 2009
-_Consolidation as at 2015-11-07_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Act 2009.
@@ -869,7 +869,7 @@ In this subpart, unless the context otherwise requires, Commissioner includes an
   (b) the discharge of any duty imposed on the Commissioner by this Act.
 (2) If this section applies, until a final decision (as described in subsection (4)) in relation to those proceedings is given, the power or duty may be, or may continue to be, exercised or discharged as if no such proceedings of that kind had been commenced, and no person is excused from fulfilling any obligation under this Act by reason of those proceedings.
 (3) This section applies despite any other provision of any enactment or rule of law or equity.
-(4) A final decision does not include a decision in proceedings for an interim order under section 8 of the Judicature Amendment Act 1972.
+(4) A final decision does not include a decision in proceedings for an interim order under section 15 of the Judicial Review Procedure Act 2016.
 
 ### 94 Effect of final decision that exercise of powers unlawful
 (1) This section applies in any case where it is declared, in a final decision given in any proceedings in respect of the exercise of any powers conferred on the Commissioner by this Act, that the exercise of any powers conferred on the Commissioner by this Act is unlawful.
@@ -1706,10 +1706,10 @@ Section 47(4) is amended by omitting Proceeds of Crime Act 1991 and substituting
 **Amendment to Judicature Act 1908**
 
 ### 206 Amendment to Judicature Act 1908
-Section 207 amends the Judicature Act 1908.
+[Repealed]
 
 ### 207 Application of Part 4A
-Rule 19.2(r) of Schedule 2 is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 **Amendments to Legal Services Act 2000**
 
