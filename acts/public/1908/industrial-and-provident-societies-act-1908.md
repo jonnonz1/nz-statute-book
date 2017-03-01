@@ -1,5 +1,5 @@
 # Industrial and Provident Societies Act 1908
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to industrial and provident societies
 
@@ -104,8 +104,8 @@ With respect to the cancelling or suspension of registry the following provision
   (c) every offence by a society against this Act shall be deemed to have been also committed by every officer of the society bound by the rules thereof to fulfil the duty whereof such offence is a breach, or if there is no such officer, then by every member of the committee of the society, unless such member is proved to have been ignorant of or to have attempted to prevent the commission of such offence; and every act or default under this Act constituting an offence, if continued, shall constitute a new offence in every week during which the same continues:
   (d) every return and other document required for the purposes of this Act shall be made in such form and shall contain such particulars as the Registrar prescribes:
   (e) all documents required by this section to be sent to the Registrar shall be deposited with the rules of the society to which the same respectively relate, and shall be registered, or recorded by the Registrar, with such observations thereon (if any) as the Registrar directs.
-(2) In subsection (1)(a)(iv), balance date has the same meaning as in section 41 of the Financial Reporting Act 2013.
-(3) Subsection (1)(b) to (e) do not apply in relation to sections 8A to 8M.
+(2) In subsection (1)﻿(a)﻿(iv), balance date has the same meaning as in section 41 of the Financial Reporting Act 2013.
+(3) Subsection (1)﻿(b) to (e) do not apply in relation to sections 8A to 8M.
 
 ### 8A Accounting records must be kept
 (1) Every registered society must ensure that there are kept at all times accounting records that—
@@ -267,11 +267,11 @@ With respect to officers of registered societies having receipt or charge of mon
 
 ### 12 Disputes
 With respect to disputes concerning registered societies the following provisions shall have effect:
-Every dispute between a member, or person claiming through a member or under the rules of a registered society, and the society or an officer thereof, shall be decided in manner directed by the rules of the society, if they contain any such directions, and the decision so made shall be binding and conclusive on all parties without appeal, and shall not be removable into any Court, or restrainable by injunction; and application for the enforcement thereof may be made to a District Court: Provided as follows:
+Every dispute between a member, or person claiming through a member or under the rules of a registered society, and the society or an officer thereof, shall be decided in manner directed by the rules of the society, if they contain any such directions, and the decision so made shall be binding and conclusive on all parties without appeal, and shall not be removable into any Court, or restrainable by injunction; and application for the enforcement thereof may be made to the District Court: Provided as follows:
   (a) the parties to a dispute in a society may, by consent (unless the rules of the society expressly forbid), refer such dispute to the Registrar, who shall, with the consent of the Governor-General, hear and determine such dispute, and shall have power to order the expenses of determining the same to be paid either out of the funds of the society or by such parties to the dispute as he thinks fit; and such determination and order shall have the same effect and be enforceable in like manner as a decision made in the manner directed by the rules of the society:
   (b) the Registrar to whom any dispute is referred may administer oaths, and may require the attendance of all parties concerned, and of witnesses, and the production of all books and documents relating to the matter in question; and any person refusing to attend, or to produce any documents, or to give evidence before the Registrar, shall be guilty of an offence against this Act:
-  (c) where the rules of a society direct that disputes shall be referred to Justices, the dispute shall be determined by a District Court:
-  (d) when the rules contain no direction as to disputes, or when no decision is made on a dispute within 40 days after application to the society for reference under its rules, the member or person aggrieved may apply to a District Court, which may hear and determine the matter in dispute:
+  (c) where the rules of a society direct that disputes shall be referred to Justices, the dispute shall be determined by the District Court:
+  (d) when the rules contain no direction as to disputes, or when no decision is made on a dispute within 40 days after application to the society for reference under its rules, the member or person aggrieved may apply to the District Court, which may hear and determine the matter in dispute:
   (e) the Court or Registrar may at the request of either party state a case for the opinion of the High Court on any question of law, and may also grant to either party such discovery as to documents and otherwise, or such inspection of documents, as might be granted by any Court, such discovery to be made on behalf of the society by such officer of the same as such Court or Registrar determines.
 
 ### 13 Inspection of affairs
@@ -309,7 +309,7 @@ With respect to the inspection of the affairs of registered societies the follow
 
 ### 13AA Registrar may refuse to disclose information relating to inspection
 (1) Notwithstanding anything in the Official Information Act 1982, but subject to subsections (4) and (5) of section 13A of this Act, any person who makes an inspection under section 13A(1) of this Act, and any person to whom that person has, pursuant to subsection (4) or subsection (5) of section 13A of this Act or otherwise, given, divulged, or communicated any information that the first-mentioned person has acquired as a result of that inspection, may refuse to disclose any such information to any other person until the purpose for which that inspection is carried out has been satisfied.
-(2) Notwithstanding anything in the Official Information Act 1982, where any person requests the Registrar or any person referred to in subsection (4)(a) or (b) or (c) or (d) or subsection (5)(a) or (b) of section 13A of this Act to disclose whether an inspection under section 13A(1) of this Act is being, or is proposed to be, or has been carried out, the Registrar or, as the case may require, that person shall not be required to disclose that information under the Official Information Act 1982 unless the disclosure of that information would not be likely to prejudice the commercial position of any registered society or any other person, and there is no other good reason for withholding that information under that Act.
+(2) Notwithstanding anything in the Official Information Act 1982, where any person requests the Registrar or any person referred to in subsection (4)﻿(a) or (b) or (c) or (d) or subsection (5)﻿(a) or (b) of section 13A of this Act to disclose whether an inspection under section 13A(1) of this Act is being, or is proposed to be, or has been carried out, the Registrar or, as the case may require, that person shall not be required to disclose that information under the Official Information Act 1982 unless the disclosure of that information would not be likely to prejudice the commercial position of any registered society or any other person, and there is no other good reason for withholding that information under that Act.
 
 ### 13B Appeals from decisions of Registrar
 (1) Any person who is aggrieved by the refusal of the Registrar to register a society, or to register or receive any document submitted to him under this Act or who is aggrieved by any other act or decision of the Registrar under this Act, may appeal to the High Court within 21 days after the date of the refusal or other act or decision, or within such further time as the High Court may allow.
@@ -318,7 +318,7 @@ With respect to the inspection of the affairs of registered societies the follow
   (a) in respect of which there is any express provision in this Act in the nature of an appeal or review; or
   (b) that is declared by this Act to be conclusive or final, or that is embodied in any document declared by this Act to be conclusive evidence of any act, decision, matter, or thing.
 (4) Notwithstanding any other provision of any Act or any rule of law, where a person appeals or applies to the High Court in respect of an act or decision of the Registrar under section 13A, until a decision on the appeal or application is given, the Registrar, and any person authorised by him under that section for the purpose, may continue to exercise his powers under that section as if no such appeal or application had been made, and no person shall be excused from fulfilling his obligations under that section by reason of that appeal or application:provided that, to the extent that an appeal or application in respect of any such act or decision is allowed or granted, as the case may be,—
-  (a) the Registrar shall ensure that, forthwith after the decision on the appeal or application is given, all records made by him, or by a person authorised by him for that purpose, under section 13A(1)(c) in respect of that act or decision are destroyed or expunged; and
+  (a) the Registrar shall ensure that, forthwith after the decision on the appeal or application is given, all records made by him, or by a person authorised by him for that purpose, under section 13A(1)﻿(c) in respect of that act or decision are destroyed or expunged; and
   (b) no information acquired under paragraph (a) or paragraph (b) of section 13A(1) in respect of that act or decision shall be admissible in evidence in any proceedings.
 
 ### 13BA Appeals against decisions under section 13AA
@@ -351,7 +351,7 @@ Where a society is registered as a company, or amalgamates with, or transfers al
 (1) With respect to the dissolution of registered societies the following provisions shall have effect:
   (a) a society may be put into liquidation—and the provisions of Parts 16 and 17 of the Companies Act 1993 shall apply with such modifications as may be necessary in relation to any application to the Court to appoint a liquidator and in relation to the liquidation of the society:
     (i) by the appointment by the High Court as liquidator of a named person or of an Official Assignee for the named district; or
-    (ii) by the appointment of a named person as liquidator pursuant to a resolution of the members passed in the same manner as a resolution under section 241(2)(a) of the Companies Act 1993,—
+    (ii) by the appointment of a named person as liquidator pursuant to a resolution of the members passed in the same manner as a resolution under section 241(2)﻿(a) of the Companies Act 1993,—
   (ab) a society may be dissolved by an instrument of dissolution signed by three-fourths of the members:
   (b) where a society is put into liquidation, the liability of a present or past member of the society to contribute for payment of the debts and liabilities of the society, the expenses of the liquidation, and the adjustment of the rights of contributories amongst themselves, shall be qualified as follows:
     (i) no individual, society, or company which has ceased to be a member for 1 year or upwards prior to the commencement of the liquidation shall be liable to contribute:
@@ -366,7 +366,7 @@ Where a society is registered as a company, or amalgamates with, or transfers al
     (iv) the instrument of dissolution and all alterations therein shall be registered in manner herein provided for the registry of rules, and shall be binding upon all members of the society:
     (v) the Registrar shall cause a notice of the dissolution to be advertised at the expense of the society in the Gazette, and in some newspaper circulating in the city, town, or place in which the registered office of the society is situated; and unless, within 3 months from the date of the Gazette in which such advertisement appears, a member or other person interested in or having any claim on the funds of the society commences proceedings to set aside the dissolution of the society in the District Court in or near to the locality where the registered office of the society is situate, and such dissolution is set aside accordingly, the society shall be legally dissolved from the date of such advertisement, and the requisite consents to the instrument of dissolution shall be considered to have been duly obtained without proof of the signatures thereto:
     (vi) notice shall be sent to the Registrar of any proceeding to set aside the dissolution of a society, not less than 7 days before such proceeding is commenced, by the person by whom it is taken, and notice of any order setting it aside shall be similarly sent by the society within 7 days after such order is made.
-(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under subsection (1)(c)(iii).
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under subsection (1)﻿(c)﻿(iii).
 
 ### 16 Penalties
 (1) With respect to penalties under this Act the following provisions shall have effect:
@@ -381,9 +381,9 @@ Where a society is registered as a company, or amalgamates with, or transfers al
 (2) In any charging document under this Act it shall be sufficient to describe the offence in the words of this Act, and no exception, exemption, proviso, excuse, or qualification accompanying the description of the offence in this Act need be specified or negatived.
 
 ### 18 Procedure on application to District Court
-(1) Every application authorised or required to be made to a District Court for the settlement of disputes, or for any relief, direction, adjudication, or order, shall be made to such Court in a summary way.
-(2) Every District Court shall have power to entertain such application, and give such relief, and make such orders and directions in relation to the matter of such application as the case may require.
-(3) When the order of a District Court is for the payment of money, the same may be enforced in the same manner as the ordinary judgments or orders of such Court are enforced.
+(1) Every application authorised or required to be made to the District Court for the settlement of disputes, or for any relief, direction, adjudication, or order, shall be made to such Court in a summary way.
+(2) The District Court shall have power to entertain such application, and give such relief, and make such orders and directions in relation to the matter of such application as the case may require.
+(3) When the order of the District Court is for the payment of money, the same may be enforced in the same manner as the ordinary judgments or orders of such Court are enforced.
 (4) Where the order of such Court is for the doing of some act not being the payment of money, the Court may order the party to do such act, and that, in default of his doing it, he shall pay a certain sum of money; and, in case he refuses to do the act required upon demand, the sum of money mentioned in the order may then be recovered and enforced in the same manner as a judgment or order for debt or damages in such Court.
 
 ### 19 Appointment of auditors
