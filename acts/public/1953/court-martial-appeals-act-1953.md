@@ -1,5 +1,5 @@
 # Court Martial Appeals Act 1953
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2017-03-01_
 
 > An Act to establish a Court Martial Appeal Court and to provide for appeals thereto from the Court Martial
 
@@ -13,7 +13,7 @@ _Consolidation as at 2012-03-05_
   - **appellant** includes a person who has been convicted by the Court Martial and desires to appeal under this Act to the court
   - **appointed Judge** means a Judge of the court appointed under paragraph (b) of subsection (1) of section 3
   - **court** means the Court Martial Appeal Court constituted by this Act
-  - **Court of Appeal** means the Court of Appeal of New Zealand constituted under Part 2 of the Judicature Act 1908
+  - **Court of Appeal** means the Court of Appeal of New Zealand constituted under Part 3 of the Senior Courts Act 2016
   - **Court Martial** means the Court Martial of New Zealand established under section 8 of the Court Martial Act 2007
   - **Director of Military Prosecutions** means the Director of Military Prosecutions appointed under section 101E of the Armed Forces Discipline Act 1971
   - **Judge Advocate General** means the Judge Advocate General of the Armed Forces appointed under section 203 of the Armed Forces Discipline Act 1971
@@ -57,7 +57,7 @@ _Consolidation as at 2012-03-05_
 (3) The court shall sit in such place as the Chief High Court Judge directs, whether within or outside New Zealand.
 (4) Where the court is directed to sit at a place outside New Zealand, the Chief High Court Judge may, if he thinks it expedient so to do, direct that the court shall consist exclusively of appointed Judges.
 (5) The determination of any question before the court shall be according to the opinion of the majority of the Judges of the court hearing the case.
-(6) The court shall be a superior court of record and shall, for the purposes of and subject to the provisions of this Act, have full power to determine, in accordance with this Act, any question necessary to be determined for the purpose of doing justice in any case before the court.
+(6) The court shall be a senior court of record and shall, for the purposes of and subject to the provisions of this Act, have full power to determine, in accordance with this Act, any question necessary to be determined for the purpose of doing justice in any case before the court.
 
 ### 5 Registrar and officers of court
 (1) There may from time to time be appointed under the State Sector Act 1988 a Registrar of the court and such other officers of the court as may be required. Any such office may be held either separately or in conjunction with any other office in the Public Service.
@@ -213,7 +213,7 @@ On an appeal to the court against sentence, the court must—
 
 ### 10 Appeals to Court of Appeal or Supreme Court
 (1) With the leave of the court appealed to, a party to an appeal under any of sections 6, 7, or 9 may appeal to the Court of Appeal or the Supreme Court against any decision of the court in the appeal.
-(2) Subsection (1) is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a New Zealand court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
+(2) Subsection (1) is subject to section 75 of the Senior Courts Act 2016 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a New Zealand court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
 (3) An application for leave to appeal under this section must be made—
   (a) within 28 days after the date of the issue of the decision or within any further time that the court appealed to may allow; and
   (b) in the manner that may be directed by rules of the court appealed to for leave to appeal to that court.
@@ -379,7 +379,7 @@ In every appeal under section 7 or 9, it is the duty of the Judge Advocate Gener
   (b) in the prescribed form and manner.
 
 ### 26 Rules of court
-(1) Rules of court may be made in the manner provided by the Judicature Act 1908 for regulating the procedure and practice to be followed in the court.
+(1) Rules of court may be made in the manner provided by the Senior Courts Act 2016 for regulating the procedure and practice to be followed in the court.
 (2) Rules of court made for the purposes of any provision of this Act may make different provision in relation to different classes of cases and may provide for any incidental or supplementary matters for which it appears to be necessary or expedient for the purposes of that provision to provide.
 
 ### 26A Regulations
