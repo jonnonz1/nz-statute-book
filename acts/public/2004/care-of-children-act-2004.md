@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -76,7 +76,7 @@ A court may appoint, or direct the Registrar of the court to appoint, a lawyer t
   (b) considers an appointment necessary.
 
 ### 7A Lawyers acting for parties
-(1) A lawyer may act for a party to a proceeding under this Act that is to be heard and determined in a Family Court only as provided in subsections (2) to (6).
+(1) A lawyer may act for a party to a proceeding under this Act that is to be heard and determined in the Family Court only as provided in subsections (2) to (6).
 (2) A lawyer may act for a party to a proceeding commenced by an application made under subpart 4 of Part 2.
 (3) A lawyer may act for a party to a proceeding if that party is the Crown.
 (4) A lawyer may act for a party to a proceeding that is—
@@ -302,7 +302,7 @@ The declarations required by section 23(5)﻿(a) are statutory declarations by e
     (ii) there is no other reason why the proposed additional guardian is not an eligible spouse or partner of a parent (as defined in section 23(2)) in relation to the child.
 
 ### 25 Appointments under section 23 take effect on approval
-(1) An appointment under section 23 takes effect only on the Registrar of a Family Court approving the form and declarations referred to in section 23(5).
+(1) An appointment under section 23 takes effect only on a Registrar of the Family Court approving the form and declarations referred to in section 23(5).
 (2) The Registrar must not approve those documents unless, having made all reasonable inquiries, he or she is satisfied—
   (a) that the form and declarations are accompanied by the proposed additional guardian’s criminal record (as required by section 23(5)), and have been properly completed and appear to be in order; and
   (b) in particular, that the Family Court case-management system appears to hold no information that, in the light of section 22 or section 23, would prevent the appointment.
@@ -368,15 +368,15 @@ The declarations required by section 23(5)﻿(a) are statutory declarations by e
 ### 30 Concurrent jurisdiction under section 31
 (1) The following courts have jurisdiction under section 31:
   (a) the High Court:
-  (b) each Family Court.
-(2) A Family Court does not have jurisdiction under section 31 if—
+  (b) the Family Court.
+(2) The Family Court does not have jurisdiction under section 31 if—
   (a) the application is filed in the Family Court; and
   (b) at the date of filing, proceedings relating to the same matter have commenced in the High Court.
-(3) The High Court may order proceedings to be removed to a Family Court if—
+(3) The High Court may order proceedings to be removed to the Family Court if—
   (a) an application is made under section 31 to the High Court; and
-  (b) the High Court is satisfied that the proceedings would be more appropriately dealt with in a Family Court.
+  (b) the High Court is satisfied that the proceedings would be more appropriately dealt with in the Family Court.
 (4) The High Court must order proceedings to be removed to the High Court if—
-  (a) an application is made under section 31 to a Family Court; and
+  (a) an application is made under section 31 to the Family Court; and
   (b) a party to the proceedings applies to the High Court to have the proceedings removed to the High Court; and
   (c) the High Court is satisfied that the proceedings would be more appropriately dealt with in the High Court.
 (5) Proceedings removed to the High Court continue in that court as if they had been properly commenced there.
@@ -397,8 +397,8 @@ The declarations required by section 23(5)﻿(a) are statutory declarations by e
 ### 32 Notice to be given to chief executive in certain cases before Family Court
 (1) This section applies when—
   (a) an application is—
-    (i) made under section 31 to a Family Court; or
-    (ii) removed under section 30(3) to a Family Court; and
+    (i) made under section 31 to the Family Court; or
+    (ii) removed under section 30(3) to the Family Court; and
   (b) neither section 30(2) nor section 30(4) applies to the application; and
   (c) any of the following applies:
     (i) the application seeks an order appointing the chief executive to be the agent of the court, either generally or for a particular purpose, in respect of the child who is the subject of the application; or
@@ -433,10 +433,10 @@ The declarations required by section 23(5)﻿(a) are statutory declarations by e
 (2) The court has the same rights and powers in respect of the person and property of the child as the High Court had in relation to wards of court immediately before the commencement, on 1 January 1970, of the Guardianship Act 1968, except that the court may not—
   (a) direct any child who is of or over the age of 16 years to live with any person unless the circumstances are exceptional; or
   (b) commit for contempt of court a child or the child’s spouse for marrying without the court’s consent while the child is under the guardianship of the court.
-(3) The High Court has all the powers of a Family Court in relation to who has the role of providing day-to-day care for, or contact with, a child who is the subject of an application under section 31 or an order under section 33. An order of the High Court about providing day-to-day care for, or contact with, any child of that kind may be enforced under this Act as if it were an order of a Family Court.
+(3) The High Court has all the powers of the Family Court in relation to who has the role of providing day-to-day care for, or contact with, a child who is the subject of an application under section 31 or an order under section 33. An order of the High Court about providing day-to-day care for, or contact with, any child of that kind may be enforced under this Act as if it were an order of the Family Court.
 
 ### 35 Further provisions relating to powers of court
-(1) This section applies to a court if it is a Family Court or the High Court hearing or otherwise dealing with proceedings under section 31.
+(1) This section applies to a court if it is the Family Court or the High Court hearing or otherwise dealing with proceedings under section 31.
 (2) The court may, before or by or after the principal order, make any interim or final order it thinks fit about the role of providing day-to-day care for, or about contact with, or about the upbringing of, a child who is the subject of the proceedings.
 (3) Section 50 applies with all necessary modifications to an order under subsection (2), and an order of that kind may be subject to any terms or conditions the court thinks fit.
 (4) The court may, if in all the circumstances it thinks it appropriate to do so, make an order vesting the sole guardianship of the child in 1 of the parents, or make any other order with respect to the guardianship of the child that it thinks fit. However, if the court makes no order with respect to the guardianship of the child, every person who was a guardian of the child continues to be a guardian of the child.
@@ -589,7 +589,7 @@ In sections 46E and 46F, family dispute resolution, family dispute resolution fo
 (6) A Registrar who is unsure, under subsection (5), whether to refuse to accept an application for filing may refer that application and accompanying affidavit to a Judge, and the Judge must determine whether the affidavit provides sufficient evidence of either of the matters set out in subsection (4)﻿(f).
 
 ### 46F Family dispute resolution after proceedings commenced
-(1) This section applies after an application has been made to a Family Court for—
+(1) This section applies after an application has been made to the Family Court for—
   (a) a direction under section 46R; or
   (b) a parenting order under section 48.
 (2) At any time before the application is finally determined, a Family Court Judge may direct the parties to attend family dispute resolution.
@@ -603,7 +603,7 @@ In sections 46E and 46F, family dispute resolution, family dispute resolution fo
 **Counselling**
 
 ### 46G Counselling after proceedings commenced
-(1) This section applies after an application has been made to a Family Court for—
+(1) This section applies after an application has been made to the Family Court for—
   (a) a direction under section 46R; or
   (b) a parenting order under section 48.
 (2) A Family Court Judge may direct the Registrar of the court to refer the parties to the application to counselling services for either or both of the following purposes:
@@ -671,9 +671,9 @@ The purpose of a settlement conference is to enable a Family Court Judge to—
 
 ### 46R Disputes between guardians
 (1) If 2 or more guardians of a child are unable to agree on a matter concerning the exercise of their guardianship, any of them may apply to the court for its direction.
-(2) An application under subsection (1) must be made to a Family Court unless subsection (3) applies.
+(2) An application under subsection (1) must be made to the Family Court unless subsection (3) applies.
 (3) An application under subsection (1) must be made to the High Court, and the High Court has exclusive jurisdiction to settle the dispute, where,—
-  (a) under an order of the High Court, 2 or more persons are guardians of, or have the role of providing day-to-day care for, a child, and that order has not been removed into a Family Court under section 127; or
+  (a) under an order of the High Court, 2 or more persons are guardians of, or have the role of providing day-to-day care for, a child, and that order has not been removed into the Family Court under section 127; or
   (b) a child is under the guardianship of the High Court.
 (4) On an application under subsection (1), the court may make any order relating to the matter that it thinks proper.
 
@@ -763,7 +763,7 @@ The purpose of a settlement conference is to enable a Family Court Judge to—
 If a court proposes to make a parenting order that does not give a parent the role of providing day-to-day care for a child, the court must consider whether and how the order can and should provide for that parent to have contact with the child.
 
 ### 53 Orders in proceedings under Family Proceedings Act 1980
-(1) This section applies to a court if it is a Family Court hearing or otherwise dealing with proceedings under the Family Proceedings Act 1980 for a separation order, an order declaring a marriage or civil union to be void ab initio, or an order dissolving a marriage or civil union.
+(1) This section applies if the Family Court is hearing or otherwise dealing with proceedings under the Family Proceedings Act 1980 for a separation order, an order declaring a marriage or civil union to be void ab initio, or an order dissolving a marriage or civil union.
 (2) The court may, before or by or after the principal order, make any interim or final order it thinks fit about the role of providing day-to-day care for, or about contact with, or about the upbringing of, a child of the marriage or a child of the civil union (as defined in section 2 of the Family Proceedings Act 1980).
 (3) Section 50 applies with all necessary modifications to an order under subsection (2), and an order of that kind may be subject to any terms or conditions the court thinks fit.
 (4) The court may, if in all the circumstances it thinks it appropriate to do so, make an order vesting the sole guardianship of the child in 1 of the parents, or make any other order with respect to the guardianship of the child that it thinks fit. However, if the court makes no order with respect to the guardianship of the child, every person who was a guardian of the child continues to be a guardian of the child.
@@ -816,7 +816,7 @@ In this section and sections 59 and 60,—
     (a) approved—
       (i) by the chief executive as a community service under section 403 of the Children, Young Persons, and Their Families Act 1989; or
       (ii) by the Secretary; or
-      (iii) by an officer of the court appointed under section 8(2) of the Family Courts Act 1980; and
+      (iii) by an officer of the court appointed under section 8(2) of the Family Court Act 1980; and
     (b) nominated by the court or Registrar for the particular case
   - **supervised contact** means direct (that is, face-to-face) contact between a party and a child, being contact that occurs—
     (a) under the supervision of an approved provider; or
@@ -915,7 +915,7 @@ In this section and sections 59 and 60,—
 (1) In this section, eligible person, in relation to a child, means a person who, at the time of the application, has the role of providing day-to-day care for the child—
   (a) through being a guardian (other than a testamentary guardian) whose role of providing day-to-day care for the child has not been removed by a court order; or
   (b) under a parenting order, some other order of a New Zealand court, or an overseas parenting order registered under section 81.
-(2) On an application for the purpose by an eligible person, a Family Court or a District Court may issue a warrant authorising a constable or a social worker or any other person named in the warrant to take the child (using reasonable force if necessary) and to deliver the child—
+(2) On an application for the purpose by an eligible person, the Family Court or the District Court may issue a warrant authorising a constable or a social worker or any other person named in the warrant to take the child (using reasonable force if necessary) and to deliver the child—
   (a) to the eligible person; or
   (b) to some other person or authority (including a person in or from a prescribed overseas country) named in the warrant on behalf of the eligible person.
 (3) However, if 2 or more persons have the role of providing day-to-day care for a child, no warrant under this section may authorise—
@@ -924,7 +924,7 @@ In this section and sections 59 and 60,—
 
 ### 73 Warrant to enforce order for contact with child
 (1) In this section, eligible person, in relation to a child, means a person who, at the time of the application, is entitled to have direct contact with the child under a parenting order, an order for supervised contact, or an overseas parenting order registered under section 81.
-(2) On an application for the purpose by an eligible person, a Family Court or a District Court may issue a warrant authorising a constable or a social worker or any other person named in the warrant to take the child (using reasonable force if necessary) and to deliver the child—
+(2) On an application for the purpose by an eligible person, the Family Court or the District Court may issue a warrant authorising a constable or a social worker or any other person named in the warrant to take the child (using reasonable force if necessary) and to deliver the child—
   (a) to the eligible person; or
   (b) to some other person or authority (for example, a person in or from a prescribed overseas country) named in the warrant on behalf of the eligible person.
 
@@ -933,7 +933,7 @@ In this section and sections 59 and 60,—
 (2) Neither section 72 nor section 73 affects any other power—
   (a) to enforce the role of providing day-to-day care for, or an order for contact with, a child; and
   (b) that was exercisable by a court immediately before the commencement, on 1 January 1970, of the Guardianship Act 1968.
-(3) If a Family Court declines under section 72 or section 73 or in the exercise of a power to which subsection (2) relates to enforce the role of providing day-to-day care for, or an order for contact with, a child, it may, on its own initiative but subject to section 83(2) and (3), vary or discharge any existing order relating to that role or contact accordingly.
+(3) If the Family Court declines under section 72 or section 73 or in the exercise of a power to which subsection (2) relates to enforce the role of providing day-to-day care for, or an order for contact with, a child, it may, on its own initiative but subject to section 83(2) and (3), vary or discharge any existing order relating to that role or contact accordingly.
 
 ### 75 Execution of warrants
 (1) For the purpose of executing a warrant issued under section 72 or section 73, a constable or a social worker or any other person named in the warrant may enter and search any building, aircraft, ship, vehicle, premises, or place, with or without assistance, and by force if necessary.
@@ -959,7 +959,7 @@ In this section and sections 59 and 60,—
 (7) Subsection (6) is for the avoidance of doubt.
 
 ### 77 Preventing removal of child from New Zealand
-(1) In this section and section 76, authority means a High Court Judge or District Court Judge or Family Court Judge or, if no High Court Judge or District Court Judge or Family Court Judge is available, any Registrar of the High Court or of a District Court (not being a constable).
+(1) In this section and section 76, authority means a High Court Judge or District Court Judge or Family Court Judge or, if no High Court Judge or District Court Judge or Family Court Judge is available, any Registrar of the High Court or of the District Court (not being a constable).
 (2) An authority may, on an application for the purpose by any person, exercise the powers stated in subsection (3) if the authority believes on reasonable grounds that a person may take a child out of New Zealand with intent to, or in circumstances where the taking of the child out of New Zealand would be likely to,—
   (a) defeat the claim of a person who has applied for, or is about to apply for, the role of providing day-to-day care for, or an order for contact with, the child; or
   (b) prevent any order of any court (including an order registered under section 81) about the role of providing day-to-day care for, or about contact with, the child from being complied with.
@@ -982,7 +982,7 @@ In this section and sections 59 and 60,—
 
 ### 77B Orders under section 77(3)﻿(c) may be suspended for specified period
 (1) On an application for the purpose by any person, a High Court Judge, a District Court Judge, or a Family Court Judge may suspend an order made under section 77(3)﻿(c).
-(2) On an application for the purpose, a Registrar of the High Court, or of a District Court, may suspend an order made under section 77(3)﻿(c) if—
+(2) On an application for the purpose, a Registrar of the High Court, or of the District Court, may suspend an order made under section 77(3)﻿(c) if—
   (a) the application is made by a party to the proceedings under section 77 in which the order was made (the earlier proceedings); and
   (b) every other person who was a party to the earlier proceedings consents.
 (3) A suspension of an order made under section 77(3)﻿(c) must be—
@@ -1020,7 +1020,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 **Enforcing overseas parenting orders in New Zealand**
 
 ### 81 Registration of overseas parenting orders
-(1) If the following documents are transmitted to the Secretary, he or she must send them to the Registrar of a District Court:
+(1) If the following documents are transmitted to the Secretary, he or she must send them to a Registrar of the District Court:
   (a) a certified copy of an overseas parenting order; and
   (b) a certificate that—
     (i) is signed by an officer of a court in the overseas country in which the order was made; and
@@ -1030,7 +1030,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
     (ii) a parent of that child; or
     (iii) a person who, under the overseas parenting order, has the role of providing day-to-day care for, or may have contact with, that child.
 (2) The Registrar of the District Court must register the order by filing a certified copy of the order in the court.
-(3) A Registrar of a District Court who receives the documents referred to in subsection (1) other than from the Secretary may register the order concerned if the Registrar is satisfied that the nature of the documents is such that, if they had been transmitted to the Secretary, the Secretary would have sent them to the Registrar.
+(3) A Registrar of the District Court who receives the documents referred to in subsection (1) other than from the Secretary may register the order concerned if the Registrar is satisfied that the nature of the documents is such that, if they had been transmitted to the Secretary, the Secretary would have sent them to the Registrar.
 
 ### 82 Effect of registration
 (1) If an overseas parenting order is registered in a court under section 81, then, so long as the registration is not cancelled, the order may be enforced, varied, or discharged as if it were an order made by that court under this Act.
@@ -1071,7 +1071,7 @@ Nothing in section 81 prevents a court from receiving evidence of an order made 
 (3) The costs referred to in subsection (2) may include the costs and travelling expenses of any necessary escort.
 
 ### 88 Evidence
-If an application under either sections 56 and 81 or section 87 is heard in a District Court,—
+If an application under either sections 56 and 81 or section 87 is heard in the District Court,—
   (a) the evidence of a person beyond New Zealand may be taken in accordance with the rules of the High Court covering the examination of witnesses beyond New Zealand; and
   (b) the High Court Rules 2016, as far as they are applicable and with all necessary modifications, apply accordingly.
 
@@ -1182,8 +1182,8 @@ Subject to Articles 39 and 40 of the Convention, for the purposes of this subpar
 (2) The Secretary must not be made subject to any order to pay costs in relation to the exercise or performance, by the Secretary, of any of the Secretary’s duties, powers, or functions as the Authority.
 
 ### 101 Courts having jurisdiction to entertain applications under Convention
-(1) The duties, powers, and functions that, under the Convention, are conferred or imposed on the judicial authorities of a Contracting State must, in New Zealand, be exercised or performed by a Family Court or a District Court.
-(2) Every Family Court and every District Court has the jurisdiction, and has and may exercise the powers, that is or are reasonably necessary or expedient to enable the court to carry out its functions and duties under the Convention.
+(1) The duties, powers, and functions that, under the Convention, are conferred or imposed on the judicial authorities of a Contracting State must, in New Zealand, be exercised or performed by the Family Court or the District Court.
+(2) The Family Court and the District Court have the jurisdiction, and have and may exercise the powers, that is or are reasonably necessary or expedient to enable the court to carry out its functions and duties under the Convention.
 (3) Subsection (2) is subject to this subpart and to any rules made under section 146(4).
 
 **Application for return of child**
@@ -1321,7 +1321,7 @@ Every application under section 102 or section 112 in respect of a child must be
   (b) a person applies in writing and on oath to the Judge for a warrant of the kind referred to in subsection (2); and
   (c) the Judge is satisfied that there are reasonable grounds for believing that a person will attempt to conceal the whereabouts of the child with intent to, or in circumstances where the concealment would be likely to, defeat the claim of the applicant.
 (2) The warrant referred to in subsection (1) is a warrant that authorises a constable or social worker, either by name or generally, to take possession of the child, and to place the child in the care of some suitable person pending the order or further order of the court having jurisdiction in the case.
-(3) A Registrar of a District Court (not being a constable) may exercise the power given to a District Court Judge or Family Court Judge by this section (which applies with all necessary modifications), but only if no District Court Judge or Family Court Judge is available.
+(3) A Registrar of the District Court (not being a constable) may exercise the power given to a District Court Judge or Family Court Judge by this section (which applies with all necessary modifications), but only if no District Court Judge or Family Court Judge is available.
 (4) Sections 75, 76, and 79 apply, so far as applicable and with all necessary modifications, to every warrant issued under subsection (1) as if every warrant of that kind were a warrant issued under section 72.
 
 ### 118 Preventing removal of child to defeat application
@@ -1333,10 +1333,10 @@ Every application under section 102 or section 112 in respect of a child must be
   (b) may exercise, in respect of that child, or the person believed to be about to take the child out of New Zealand, or both, the power referred to in section 77(3)﻿(b); and
   (c) may, whether or not the power referred to in paragraph (a) has been exercised (with or without the exercise of the power referred to in paragraph (b)), make an order of the kind referred to in section 77(3)﻿(c) in respect of that child.
 (3) If a power referred to in subsection (2)﻿(a) or (b) or (c) is exercised, sections 77(4) and (5), 77A, and 77B, so far as applicable and with all necessary modifications, apply accordingly.
-(4) A Registrar of the High Court or of a District Court (not being a constable) may exercise the power given by this section (which applies with all necessary modifications), but only if no High Court Judge or District Court Judge or Family Court Judge is available.
+(4) A Registrar of the High Court or of the District Court (not being a constable) may exercise the power given by this section (which applies with all necessary modifications), but only if no High Court Judge or District Court Judge or Family Court Judge is available.
 
 ### 119 Enforcing order for return of child
-(1) If, in proceedings under section 105, a court makes an order under section 105(2) for the return of a child, a Family Court or a District Court may, at any time, issue a warrant of the kind referred to in subsection (2), either on its own initiative or on an application for the purpose by a party to the proceedings.
+(1) If, in proceedings under section 105, a court makes an order under section 105(2) for the return of a child, the Family Court or the District Court may, at any time, issue a warrant of the kind referred to in subsection (2), either on its own initiative or on an application for the purpose by a party to the proceedings.
 (2) The warrant referred to in subsection (1) is a warrant that authorises any constable or any social worker or any other person named in the warrant to take possession of the child and to deliver the child to a person or authority named in the warrant for the purpose of returning the child in accordance with the order.
 (3) The powers conferred on a court by subsection (1) may, if the court thinks fit, be exercised on the making of an order under section 105(2) for the return of a child.
 (4) Sections 75, 76, and 79 apply, so far as applicable and with all necessary modifications, to every warrant issued under subsection (1) as if every warrant of that kind were a warrant issued under section 72.
@@ -1350,7 +1350,7 @@ Every application under section 102 or section 112 in respect of a child must be
 (2) If a court makes an order under section 105(2) for the return of a child, and the whole or part of any costs of (or incidental to) returning the child in accordance with the order (for example, the cost and travelling expenses of any necessary escort) are paid by the Crown,—
   (a) the court may, on an application by the Authority, order the person who removed the child to New Zealand to refund to the Crown any amount the court specifies in respect of the costs so paid by the Crown; and
   (b) the amount ordered to be refunded is a debt due to the Crown by that person, and is recoverable accordingly in a court of competent jurisdiction.
-(3) Subsection (4) applies to a District Court if—
+(3) Subsection (4) applies to the District Court if—
   (a) an application is made under section 103 in respect of a child; and
   (b) the child is returned voluntarily; and
   (c) that return is due, in whole or in part, to the intervention of the Authority; and
@@ -1379,7 +1379,7 @@ Every application under section 102 or section 112 in respect of a child must be
   (a) that the requirements of the provisions of this subpart that are applicable to the application have not been fulfilled or complied with; or
   (b) that the application is otherwise not well founded.
 (2) If, under this section, the Authority refuses to take any action in respect of an application, the Authority must promptly inform the applicant or, as the case may require, the Central Authority through which the application was transmitted of the grounds for the refusal.
-(3) If, under this section, the Authority refuses to take any action in respect of an application, a person aggrieved by that refusal may appeal to a District Court or a Family Court against that refusal.
+(3) If, under this section, the Authority refuses to take any action in respect of an application, a person aggrieved by that refusal may appeal to the District Court or the Family Court against that refusal.
 (4) On an appeal under subsection (3), the court may—
   (a) make any order the court considers just; or
   (b) refer the matter back to the Authority with directions to reconsider the whole or a specified part of the matter.
@@ -1393,21 +1393,21 @@ Nothing in this subpart prevents a court, at any time, from making an order for 
 **Jurisdictional provisions**
 
 ### 125 Jurisdiction of courts
-(1) Proceedings under this Act must be heard and determined in a Family Court unless—
-  (a) the proceedings are criminal proceedings, in which case no Family Court has jurisdiction in respect of them; or
-  (b) under any of the following provisions, the proceedings may or must be heard and determined in a court other than a Family Court:
+(1) Proceedings under this Act must be heard and determined in the Family Court unless—
+  (a) the proceedings are criminal proceedings, in which case the Family Court does not have jurisdiction in respect of them; or
+  (b) under any of the following provisions, the proceedings may or must be heard and determined in a court other than the Family Court:
     (i) subsection (2) or subsection (4):
     (ii) sections 27, 30, 35, 72, 73, 76, and 77:
     (iii) subpart 4 of Part 2.
-(2) A Family Court must not entertain an application in respect of a child (except an application specified in subsection (3))—
-  (a) if an order of the High Court about the guardianship of, or about the role of providing day-to-day care for, or about contact with, the child (other than an order under section 46R) is in force, and has not been removed into a Family Court under section 127; or
+(2) The Family Court must not entertain an application in respect of a child (except an application specified in subsection (3))—
+  (a) if an order of the High Court about the guardianship of, or about the role of providing day-to-day care for, or about contact with, the child (other than an order under section 46R) is in force, and has not been removed into the Family Court under section 127; or
   (b) if the child is under the guardianship of the High Court.
-(3) Despite subsection (2), a Family Court may entertain—
+(3) Despite subsection (2), the Family Court may entertain—
   (a) an application for an interim order about the role of providing day-to-day care for, or about contact with, the child; or
   (b) an application under section 72 or section 73 or section 105
-(4) If a Family Court Judge (or, in proceedings under subpart 4 of Part 2 before a District Court, a District Court Judge) is of the opinion that proceedings under this Act, or a question in proceedings under this Act, would be more appropriately or speedily dealt with in the High Court, the Family Court Judge (or District Court Judge) may, on an application by a party to the proceedings or without any application of that kind, in the prescribed manner refer the proceedings or the question to the High Court.
+(4) If a Family Court Judge (or, in proceedings under subpart 4 of Part 2 before the District Court, a District Court Judge) is of the opinion that proceedings under this Act, or a question in proceedings under this Act, would be more appropriately or speedily dealt with in the High Court, the Family Court Judge (or District Court Judge) may, on an application by a party to the proceedings or without any application of that kind, in the prescribed manner refer the proceedings or the question to the High Court.
 (5) On a reference of that kind, the High Court has the same power to adjudicate on the proceedings or question as the Family Court (or, as the case may require, the District Court) had.
-(6) Nothing in this section limits the power of a Family Court to punish a person for contempt of court.
+(6) Nothing in this section limits the power of the Family Court to punish a person for contempt of court.
 
 ### 126 Personal jurisdiction
 (1) The court has jurisdiction under this Act in any of the following cases:
@@ -1420,15 +1420,15 @@ Nothing in this subpart prevents a court, at any time, from making an order for 
 (3) Nothing in this section applies to an appointment (of an eligible spouse or partner of a parent as an additional guardian) under section 23.
 
 ### 127 Removal of High Court orders to Family Court
-(1) A party to proceedings in the High Court in which an order has been made about the guardianship of a child, or about the role of providing day-to-day care for a child, or about contact with a child, whether that order was made before or after the commencement of this Act, may apply to the Registrar of the High Court at the place where the order was made to have a copy of the order filed in a Family Court.
+(1) A party to proceedings in the High Court in which an order has been made about the guardianship of a child, or about the role of providing day-to-day care for a child, or about contact with a child, whether that order was made before or after the commencement of this Act, may apply to the Registrar of the High Court at the place where the order was made to have a copy of the order filed in the Family Court.
 (2) The party must forward with the application—
   (a) a copy of the order and of any order varying or otherwise affecting it; and
   (b) the fees prescribed for sealing copies of orders.
 (3) On receiving the application, the Registrar must—
-  (a) transmit to the Registrar of the Family Court specified in the application a copy under the seal of the High Court of the order and of every order varying or otherwise affecting it, and
+  (a) transmit to the Registrar of the office of the Family Court specified in the application a copy under the seal of the High Court of the order and of every order varying or otherwise affecting it, and
   (b) record on the original order a note to the effect that the copy has been so transmitted.
 (4) On receiving the copy of an order transmitted under subsection (3), the Registrar of the Family Court must file it.
-(5) If an order is removed to a Family Court under this section, the Registrar of the High Court who transmitted a copy of the order must forward to the Registrar of the Family Court a copy under the seal of the court of every order of the High Court varying or otherwise affecting the order removed.
+(5) If an order is removed to the Family Court under this section, the Registrar of the High Court who transmitted a copy of the order must forward to a Registrar of the Family Court a copy under the seal of the court of every order of the High Court varying or otherwise affecting the order removed.
 
 **Procedural provisions**
 
@@ -1452,7 +1452,7 @@ In any proceedings under this Act (other than criminal proceedings), a court may
 
 ### 131 Fees and expenses of lawyer appointed under section 7 or 130
 (1) The fees and expenses of a lawyer appointed under section 7 or 130 must—
-  (a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (a) be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by the Registrar of the court; and
   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
 (2) An invoice rendered by a lawyer appointed under section 7 or 130 for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
 (3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
@@ -1562,7 +1562,7 @@ Second opinions
 
 ### 135 Costs of reports requested under section 133
 (1) Fees for the preparation of reports requested under section 133, and reasonable expenses incurred, must—
-  (a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (a) be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by the Registrar of the court; and
   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
 (2) Where in any proceedings a report requested under section 133 has been prepared and the fees and expenses relating to that report have been paid under subsection (1), the court must make an order under section 135A unless the court declines to do so in accordance with that section.
 
@@ -1587,8 +1587,8 @@ Second opinions
       (ii) the party is unable to afford goods or services that are expensive or of a high quality or standard according to normal community standards.
 
 ### 135B Enforcement of orders made under section 135A
-(1) The amount that a party is ordered to reimburse under section 135A is a debt due to the Crown by that party and may be enforced in a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
-(2) Despite section 113 or 123 of the District Courts Act 1947 or section 100A of the Judicature Act 1908, no court fee is payable by a person who seeks to enforce, on behalf of the Crown, an order referred to in subsection (1), but the fee that would otherwise be payable—
+(1) The amount that a party is ordered to reimburse under section 135A is a debt due to the Crown by that party and may be enforced in the District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
+(2) Despite section 219 or 230 of the District Court Act 2016 or section 156 of the Senior Courts Act 2016, no court fee is payable by a person who seeks to enforce, on behalf of the Crown, an order referred to in subsection (1), but the fee that would otherwise be payable—
   (a) is to be added to the amount sought to be enforced; and
   (b) must be paid to the Registrar of the court out of any proceeds that result from the enforcement.
 (3) For the purposes of section 14(1)﻿(b) of the Crown Proceedings Act 1950, the Secretary may, on behalf of the Crown, enforce a debt under this section.
@@ -1630,13 +1630,13 @@ Second opinions
 [Repealed]
 
 ### 139 Publication of reports of proceedings
-Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act (other than criminal proceedings)—
-  (a) in a Family Court:
+Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a report of any proceedings under this Act (other than criminal proceedings)—
+  (a) in the Family Court:
   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
 
 ### 139A Leave required in certain cases to commence substantially similar proceedings
-(1) A proceeding (a new proceeding) may not be commenced under section 46R, 48, or 56without the leave of the court if that new proceeding—
-  (a) is substantially similar to a proceeding previously filed in a Family Court by any person (a previous proceeding); and
+(1) A proceeding (a new proceeding) may not be commenced under section 46R, 48, or 56 without the leave of the court if that new proceeding—
+  (a) is substantially similar to a proceeding previously filed in the Family Court by any person (a previous proceeding); and
   (b) is to be commenced less than 2 years after the final direction or order was given in the previous proceeding.
 (2) The leave of the court may only be given under subsection (1) if, since the final direction or order was given in the previous proceeding, there has been a material change in the circumstances of—
   (a) any party to the previous proceeding:
@@ -1662,7 +1662,7 @@ The court may dismiss proceedings before it under this Act if it is satisfied—
 (2) The court may order that the person may commence either of the following only with the leave of the court:
   (a) proceedings under this Act of any kind; or
   (b) proceedings under this Act of any specified kind or in respect of any specified person or matter.
-(3) Nothing in this section limits section 88B of the Judicature Act 1908 (which empowers the High Court to make orders restricting the institution or continuation of vexatious proceedings).
+(3) Nothing in this section limits sections 166 to 169 of the Senior Courts Act 2016 (which empowers the High Court to make orders restricting the institution or continuation of vexatious proceedings).
 
 ### 142 Costs
 (1) In any proceedings under this Act, the court may make any order as to costs it thinks fit.
@@ -1670,12 +1670,12 @@ The court may dismiss proceedings before it under this Act if it is satisfied—
 (3) This section is subject to sections 131 and 135.
 
 ### 143 Appeals to High Court
-(1) This subsection applies to a decision of a Family Court or District Court, in proceedings under this Act (other than criminal proceedings), to—
+(1) This subsection applies to a decision of the Family Court or District Court, in proceedings under this Act (other than criminal proceedings), to—
   (a) make or refuse to make an order (other than an interlocutory or interim order); or
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (2) A party to proceedings in which there is made a decision to which subsection (1) applies, or a child to whom those proceedings relate, may appeal to the High Court against the decision. However, if the proceedings are under section 46C or 46R, the party or child may appeal only with the leave of the High Court.
-(3) A party to proceedings under this Act in a Family Court or District Court in which an interlocutory or interim order is made, or a child to whom those proceedings relate, may, with the leave of the Family Court or District Court (as the case requires), appeal to the High Court against the order.
+(3) A party to proceedings under this Act in the Family Court or District Court in which an interlocutory or interim order is made, or a child to whom those proceedings relate, may, with the leave of the Family Court or District Court (as the case requires), appeal to the High Court against the order.
 (3A) However, no appeal may be made to the High Court under subsection (3) in relation to—
   (a) any interlocutory or interim order made in the following kinds of proceedings:
     (i) criminal proceedings; or
@@ -1686,8 +1686,8 @@ The court may dismiss proceedings before it under this Act if it is satisfied—
     (ii) section 130 to appoint, or to direct the Registrar of the court to appoint, a lawyer to assist the court; or
     (iii) section 133 to obtain a written cultural report, medical report, psychiatric report, or psychological report; or
   (c) a direction under section 7A(6) that the parties may, or may not, be represented at a settlement conference.
-(4) The High Court Rules 2016 and sections 73 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under this section as if it were an appeal under section 72 of that Act.
-(5) On the ex parte application of the appellant, the Family Court or District Court (as the case may be) may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(4) The High Court Rules 2016 and sections 125 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under this section as if it were an appeal under section 124 of that Act.
+(5) On the ex parte application of the appellant, the Family Court or District Court (as the case may be) may order that the appellant must not be required under section 126(1) of the District Court Act 2016 to give the Registrar of the High Court security for costs.
 (6) Subsection (5) overrides subsection (4).
 
 ### 144 Effect of High Court’s order or decision
@@ -1696,7 +1696,7 @@ Except as provided in section 145(1)﻿(b), an order or decision of the High Cou
 ### 145 Appeal to Court of Appeal
 (1) An appeal lies to the Court of Appeal from an order or decision of the High Court under this Act, but—
   (a) no appeal lies from an order or decision under section 46C or 46R:
-  (b) if the order or decision was made on appeal from a Family Court or a District Court, an appeal lies only with the leave of the Court of Appeal.
+  (b) if the order or decision was made on appeal from the Family Court or the District Court, an appeal lies only with the leave of the Court of Appeal.
 (2) The Court of Appeal may, in its discretion, if it thinks that the interests of justice so require,—
   (a) rehear the whole or any part of the evidence; or
   (b) receive further evidence.
@@ -1704,15 +1704,15 @@ Except as provided in section 145(1)﻿(b), an order or decision of the High Cou
 **Miscellaneous provisions**
 
 ### 146 Rules of court
-(1) Rules may be made in the manner prescribed by the Judicature Act 1908 relating to the procedure of the High Court under this Act and to appeals to the Court of Appeal under this Act.
-(2) Rules may be made under section 16A of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under this Act.
+(1) Rules may be made in the manner prescribed by the Senior Courts Act 2016 relating to the procedure of the High Court under this Act and to appeals to the Court of Appeal under this Act.
+(2) Rules may be made under section 16A of the Family Court Act 1980 regulating the practice and procedure of the Family Court in proceedings under this Act.
 (3)
-(4) In addition to the powers conferred by section 122 of the District Courts Act 1947, the Governor-General may, by Order in Council, make rules—
-  (a) regulating the practice and procedure of District Courts in proceedings under this Act; and
+(4) In addition to the powers conferred by section 228 of the District Court Act 2016, the Governor-General may, by Order in Council, make rules—
+  (a) regulating the practice and procedure of the District Court in proceedings under this Act; and
   (b) providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
 ### 147 Regulations
-(1) The Governor-General may, by Order in Council, make regulations under section 100A of the Judicature Act 1908 (that is, in general terms, regulations prescribing fees for the purposes of proceedings before the High Court or the Court of Appeal) for the purposes of this Act.
+(1) The Governor-General may, by Order in Council, make regulations under section 156 of the Senior Courts Act 2016 (that is, in general terms, regulations prescribing fees for the purposes of proceedings before the High Court or the Court of Appeal) for the purposes of this Act.
 (2) The Governor-General may, by Order in Council, make regulations—
   (aa) prescribing for the purposes of section 46H any criteria that the Secretary must apply when deciding whether to approve an organisation as an approved counselling organisation:
   (ab) prescribing for the purposes of section 46I the grounds on which the Secretary may suspend or cancel the approval of an organisation as an approved counselling organisation, which may include—
