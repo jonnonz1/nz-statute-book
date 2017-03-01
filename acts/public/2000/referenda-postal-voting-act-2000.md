@@ -1,5 +1,5 @@
 # Referenda (Postal Voting) Act 2000
-_Consolidation as at 2014-03-25_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Referenda (Postal Voting) Act 2000.
@@ -63,8 +63,8 @@ This Act comes into force on the day after the date on which it receives the Roy
   - **roll identifier number** means the randomly generated number assigned to each elector by the Electoral Commission
   - **supplementary referendum roll** means the list of electors described in section 22(1)
   - **voting paper** ,—
-    (a) when used in the definition of returned, and in sections 7(3)(b) and 39 to 50, means the detachable part of a voting paper in the prescribed form:
-    (b) when used in sections 66, 68, 74, 77, and 80(1)(c), means—
+    (a) when used in the definition of returned, and in sections 7(3)﻿(b) and 39 to 50, means the detachable part of a voting paper in the prescribed form:
+    (b) when used in sections 66, 68, 74, 77, and 80(1)﻿(c), means—
       (i) the detachable part of a voting paper in the prescribed form; or
       (ii) a voting paper in the prescribed form:
     (c) when used elsewhere in this Act, means a voting paper in the prescribed form
@@ -227,7 +227,7 @@ Nothing in this Act prevents the making of a request for electoral information u
   (a) the person's name does not appear on the referendum roll; and
   (b) the person makes an application, that is received before the commencement of the voting period, under the Electoral Act 1993 for registration as an elector of a district; and
   (c) the person is qualified, at the time of making the application, to be registered as an elector of a district under the Electoral Act 1993.
-(2) For the purposes of subsection (1)(b), an application is received before the commencement of the voting period if—
+(2) For the purposes of subsection (1)﻿(b), an application is received before the commencement of the voting period if—
   (a) the application, or the envelope in which it is contained, bears a postmark or date stamp impressed at any New Zealand Post Limited outlet or agency before the commencement of the voting period; or
   (b) the applicant produces a receipt that relates to the application and that was issued by any New Zealand Post Limited outlet or agency before the commencement of the voting period.
 (3) The Electoral Commission must compile the supplementary referendum roll as soon as practicable after the commencement of the voting period.
@@ -254,7 +254,7 @@ At the request of the Returning Officer, the Electoral Commission must supply th
 (2) Such a person is entitled—
   (a) to be listed in the referendum roll or the supplementary referendum roll as an elector of the district; and
   (b) to be registered as an elector of the district on the day on which the person becomes qualified to be registered, without making any further application.
-(3) For the purposes of subsection (1)(b), an application is received before the commencement of the voting period if—
+(3) For the purposes of subsection (1)﻿(b), an application is received before the commencement of the voting period if—
   (a) the application, or the envelope in which it is contained, bears a postmark or date stamp impressed at any New Zealand Post Limited outlet or agency before the commencement of the voting period; or
   (b) the applicant produces a receipt that relates to the application and that was issued by any New Zealand Post Limited outlet or agency before the commencement of the voting period.
 
@@ -278,9 +278,9 @@ At the request of the Returning Officer, the Electoral Commission must supply th
 ### 27 Protection of referendum roll and supplementary referendum roll
 (1) The referendum roll and the supplementary referendum roll must not be printed or made available for purchase or public inspection in any form.
 (2) Every person who has a copy of the referendum roll or the supplementary referendum roll must, as soon as practicable after the declaration of the result of the referendum under section 49,—
-  (a) erase from any electronic storage medium held by that person, and delete from any electronic system used by that person, any copy of the whole or any part of the referendum roll and the supplementary referendum roll and any mark made under any of sections 26(6), 34(3)(b), 35(5), or 42(2)(b); and
+  (a) erase from any electronic storage medium held by that person, and delete from any electronic system used by that person, any copy of the whole or any part of the referendum roll and the supplementary referendum roll and any mark made under any of sections 26(6), 34(3)﻿(b), 35(5), or 42(2)﻿(b); and
   (b) make a declaration to the Electoral Commission in the prescribed form that he or she has complied with paragraph (a).
-(3) Subsection (2) does not apply to the Returning Officer acting under section 50(1)(b) or to the Clerk of the House acting under section 50(2).
+(3) Subsection (2) does not apply to the Returning Officer acting under section 50(1)﻿(b) or to the Clerk of the House acting under section 50(2).
 
 ### 28 Supply and protection of information used for any official publicity campaign
 (1) At the request in writing of the panel, the Electoral Commission must supply to the panel in electronic form the information described in subsection (2).
@@ -317,8 +317,8 @@ Every elector is qualified to vote at the referendum.
 ### 31 Meaning of dispatched
 A voting paper is dispatched by the Returning Officer to an elector when,—
   (a) if the voting paper is posted under section 33 or section 34, the Returning Officer places it in the custody of New Zealand Post Limited:
-  (b) if the voting paper is faxed under section 35(4)(a), the Returning Officer's fax machine generates a record of the transmission of the voting paper to the elector's fax number:
-  (c) if the relevant parts of the voting paper are dictated under section 35(4)(b), the Returning Officer is satisfied that the elector has heard every word dictated.
+  (b) if the voting paper is faxed under section 35(4)﻿(a), the Returning Officer's fax machine generates a record of the transmission of the voting paper to the elector's fax number:
+  (c) if the relevant parts of the voting paper are dictated under section 35(4)﻿(b), the Returning Officer is satisfied that the elector has heard every word dictated.
 
 ### 32 Period for dispatching voting papers
 The Returning Officer may dispatch voting papers at any time after the start of the voting period but not later than midnight on the day before the voting period ends.
@@ -374,7 +374,7 @@ The Returning Officer may dispatch voting papers at any time after the start of 
 (1) When the Returning Officer posts a voting paper under section 33 or section 34, the Returning Officer must post with it an envelope of one of the following kinds:
   (a) a postage-paid envelope addressed to the Returning Officer, if the address shown against the elector's name on the Returning Officer's copy of the roll is an address in New Zealand; or
   (b) an envelope addressed to the Returning Officer, if the address shown against the elector's name on the Returning Officer's copy of the roll is an address outside New Zealand.
-(2) When the Returning Officer posts under section 33 or section 34 or faxes under section 35(4)(a) a voting paper, the Returning Officer—
+(2) When the Returning Officer posts under section 33 or section 34 or faxes under section 35(4)﻿(a) a voting paper, the Returning Officer—
   (a) must post or fax with it a copy of the referendum material, if any; and
   (b) may post or fax with it information, in any language or languages, on how to vote and how to return the voting paper.
 
@@ -406,10 +406,10 @@ The Returning Officer may dispatch voting papers at any time after the start of 
 (3) The manner is—
   (a) by the elector, with the assistance of a person authorised by the elector; or
   (b) by a person authorised by the elector, in accordance with the elector's instructions.
-(4) An elector to whom the Returning Officer has dictated the relevant parts of the voting paper under section 35(4)(b) may, in accordance with regulations made under this Act, if any, dictate his or her vote to the Returning Officer. The Returning Officer must mark the voting paper in accordance with the elector's instructions.
+(4) An elector to whom the Returning Officer has dictated the relevant parts of the voting paper under section 35(4)﻿(b) may, in accordance with regulations made under this Act, if any, dictate his or her vote to the Returning Officer. The Returning Officer must mark the voting paper in accordance with the elector's instructions.
 
 ### 39 Return of voting papers to Returning Officer
-(1) An elector to whom a voting paper was faxed under section 35(4)(a) must, if returning the voting paper, return it by fax to the office of the Returning Officer.
+(1) An elector to whom a voting paper was faxed under section 35(4)﻿(a) must, if returning the voting paper, return it by fax to the office of the Returning Officer.
 (2) Any other elector may return the voting paper by—
   (a) delivering it by hand to the office of the Returning Officer; or
   (b) posting it to the office of the Returning Officer.
@@ -453,8 +453,8 @@ A voting paper is invalid if the Returning Officer is satisfied that the voting 
   (a) is a forgery or a copy; or
   (b) was dispatched by the Returning Officer to a person whose roll identifier number was supplied to the Returning Officer under section 26; or
   (c) was posted to an elector under section 33, if—
-    (i) a voting paper was also posted under section 34 or faxed under section 35(4)(a) to the elector; or
-    (ii) the relevant parts of the voting paper were also dictated to the elector under section 35(4)(b); or
+    (i) a voting paper was also posted under section 34 or faxed under section 35(4)﻿(a) to the elector; or
+    (ii) the relevant parts of the voting paper were also dictated to the elector under section 35(4)﻿(b); or
   (d) was marked by a person other than—
     (i) the elector intended to receive the voting paper; or
     (ii) if section 38(2) applies, a person authorised by the elector to mark the voting paper; or
@@ -584,7 +584,7 @@ The Registrar of the court must send a copy of the application to the Returning 
 (2) The court may give leave for grounds other than those stated in the application to be inquired into. The leave may be given on any terms and conditions that the court considers just.
 (3) Evidence may be given to prove that the total number of valid votes recorded for each of the 2 answers to the precise question was other than that declared, without any applicant having to state that as a ground of dissatisfaction or the court having to give leave for that ground to be inquired into.
 (4) The sections of the Electoral Act 1993 described in subsection (5) of this section, as far as they are applicable and with the necessary modifications, apply to a hearing of an application for an inquiry under this Part or an incidental matter.
-(5) The sections of the Electoral Act 1993 referred to in subsection (4) of this section are sections 232 to 234, 235, 236(1), (2), (4) to (7), 240, 241, 242, 247 to 255, 256(1)(a) and (b), and 257.
+(5) The sections of the Electoral Act 1993 referred to in subsection (4) of this section are sections 232 to 234, 235, 236(1), (2), (4) to (7), 240, 241, 242, 247 to 255, 256(1)﻿(a) and (b), and 257.
 
 **Court's decision**
 
@@ -626,8 +626,8 @@ At the end of a hearing, the court must do one of the following:
     (iii) encouraging persons qualified to be on it, whether or not they are, to apply for registration as electors under the Electoral Act 1993; or
   (d) who fails, without reasonable excuse, to comply with section 27(2).
 (3) Every person commits an offence and is liable on conviction to a fine not exceeding $100,000 who, except for the purposes of the referendum, knowingly copies, supplies, receives, or uses—
-  (a) the whole or any part of an unprinted preliminary referendum roll, the referendum roll, or the supplementary referendum roll, including any mark made under any of sections 26(6), 34(3)(b), 35(5), or 42(2)(b); or
-  (b) the whole or any part of any copy of an unprinted preliminary referendum roll, the referendum roll, or the supplementary referendum roll, including any mark made under any of sections 26(6), 34(3)(b), 35(5), or 42(2)(b).
+  (a) the whole or any part of an unprinted preliminary referendum roll, the referendum roll, or the supplementary referendum roll, including any mark made under any of sections 26(6), 34(3)﻿(b), 35(5), or 42(2)﻿(b); or
+  (b) the whole or any part of any copy of an unprinted preliminary referendum roll, the referendum roll, or the supplementary referendum roll, including any mark made under any of sections 26(6), 34(3)﻿(b), 35(5), or 42(2)﻿(b).
 
 ### 65 Official publicity campaign
 (1) Every person who knowingly copies, supplies, receives, or uses any information supplied under section 28(1) or (3), except for the purposes of the official publicity campaign, commits an offence and is liable on conviction to a fine not exceeding $100,000.
@@ -746,7 +746,7 @@ Every person to whom section 51 applies commits an offence and is liable on conv
   (b) communicates at any time to any person any information obtained as to the response for which the voter is about to vote or has voted.
 (2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000—
   (a) who—
-    (i) is authorised by a voter to mark the voting paper under section 38(3)(b); or
+    (i) is authorised by a voter to mark the voting paper under section 38(3)﻿(b); or
     (ii) is the Returning Officer or a person acting under a delegation under section 11(1) and marks a voting paper under section 38(4); and
   (b) who does not mark the voting paper in accordance with the voter's instructions.
 (3) Every person who, except for a lawful purpose, interferes with or attempts to interfere with a voter marking his or her voting paper at the referendum commits an offence and is liable on conviction to a fine not exceeding $5,000.
@@ -760,7 +760,7 @@ Every person to whom section 51 applies commits an offence and is liable on conv
 (3) Every person who commits, or aids, abets, counsels, or procures the commission of, the offence of personation is guilty of a corrupt practice for the purposes of the Electoral Act 1993.
 
 ### 76 Processing
-(1) Every person who, without the express authorisation of the Returning Officer, enters the office of the Returning Officer or any other premises when the sign referred to in section 45(1)(b) is in place commits an offence and is liable on conviction to a fine not exceeding $2,000.
+(1) Every person who, without the express authorisation of the Returning Officer, enters the office of the Returning Officer or any other premises when the sign referred to in section 45(1)﻿(b) is in place commits an offence and is liable on conviction to a fine not exceeding $2,000.
 (2) If the Returning Officer, or a person acting under a delegation under section 11(1), fails to take all reasonable steps as required by section 45(2), with the result that any returned voting paper is removed from his or her custody, he or she commits an offence and is liable on conviction to a fine not exceeding $2,000.
 (3) Every person commits an offence who is present at the processing of voting papers and—
   (a) fails to maintain and aid in maintaining the secrecy of the voting; or
@@ -795,11 +795,11 @@ Two or more referenda may be held during the same voting period or during overla
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms for the purposes of this Act:
   (b) prescribing the manner in which an application for a replacement voting paper must be made:
-  (c) providing for the faxing of voting papers under section 35(4)(a):
-  (d) providing for the dictation of the relevant parts of voting papers under section 35(4)(b) and the dictation of votes under section 38(4):
+  (c) providing for the faxing of voting papers under section 35(4)﻿(a):
+  (d) providing for the dictation of the relevant parts of voting papers under section 35(4)﻿(b) and the dictation of votes under section 38(4):
   (e) applying, with or without modifications, for the purposes of this Act, the provisions of the Electoral Act 1993 and any regulations made under that Act:
   (f) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
-(2) Rules of court may be made in the manner prescribed by the Judicature Act 1908 for the purposes of this Part.
+(2) Rules of court may be made in the manner prescribed by the Senior Courts Act 2016 for the purposes of this Part.
 
 ### 81 Enactments amended
 The enactments specified in Schedule 2 are amended in the manner indicated in that schedule.
