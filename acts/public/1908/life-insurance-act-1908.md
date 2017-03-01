@@ -1,5 +1,5 @@
 # Life Insurance Act 1908
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to life insurance
 
@@ -340,7 +340,7 @@ No policy shall become void by non-payment of premiums so long as the premiums a
 **Insurance of minors**
 
 ### 66A Insurance by minor who is under the age of 10 years
-A minor who is under the age of 10 years may effect a policy on the minor's own life only if the effecting of the policy is in accordance with a contract approved under section 9 of the Minors' Contracts Act 1969 by a District Court.
+A minor who is under the age of 10 years may effect a policy on the minor's own life only if the effecting of the policy is in accordance with a contract approved under section 9 of the Minors' Contracts Act 1969 by the District Court.
 
 ### 66B Insurance by minor who is of or over the age of 10 years
 (1) A minor of or over the age of 10 years may do, execute, suffer, and perform all acts, deeds, matters, and things necessary or proper for the purpose of effecting a policy on the minor's own life.
@@ -356,11 +356,11 @@ A minor who is under the age of 10 years may effect a policy on the minor's own 
     (ii) give discharges for the money payable under the policy:
     (iii) dispose of the policy by will in accordance with section 9 or 10 of the Wills Act 2007 or section 2 of the Wills Amendment Act 1969 or section 6 of the Wills Amendment Act 1955:
     (iv) dispose of the policy or interest therein or deal with the same in any manner authorised by this Act:
-  (b) if under the age of 16 years, may, with the approval of a District Court, do, in relation to the policy, any of the things mentioned in subparagraphs (i), (ii), and (iv) of paragraph (a).
+  (b) if under the age of 16 years, may, with the approval of the District Court, do, in relation to the policy, any of the things mentioned in subparagraphs (i), (ii), and (iv) of paragraph (a).
 (2) Subsection (1) shall apply whether or not the policy was effected in the first place by the minor.
-(3) Subsection (1)(a) shall apply whether the policy has been effected before or after the minor attained the age of 16 years.
+(3) Subsection (1)﻿(a) shall apply whether the policy has been effected before or after the minor attained the age of 16 years.
 (4) Where a minor of or over the age of 16 years—section 5(2) of the Minors' Contracts Act 1969 shall apply to the surrender or discharge and to every contract so entered into.
-  (a) exercises the power conferred on the minor by subsection (1)(a)(i) or subsection (1)(a)(ii); or
+  (a) exercises the power conferred on the minor by subsection (1)﻿(a)﻿(i) or subsection (1)﻿(a)﻿(ii); or
   (b) enters into a contract in relation to any policy to which subsection (1) applies—
 (5)
 
@@ -375,7 +375,7 @@ A minor who is under the age of 10 years may effect a policy on the minor's own 
 (1) A policy on the life of a minor who is under the age of 16 years may be effected by any of the following persons:
   (a) the parents or guardians of the minor, or one of them:
   (b) a parent or guardian of the minor and the spouse of that parent or guardian, jointly:
-  (c) any person who has obtained the consent of a District Court to do so.
+  (c) any person who has obtained the consent of the District Court to do so.
 (2) Except as provided in subsection (1) of this section or in section 66A or section 66B or section 67A of this Act or in section 9 of the Minors' Contracts Act 1969, no person may effect a policy on the life of a minor who is under the age of 16 years.
 (3) Subsection (1) is subject to sections 67B to 67E.
 
@@ -397,7 +397,7 @@ No company shall pay, on the death of a minor who is under the age of 16 years, 
   (a) a person specified in section 67(1); or
   (b) an executor or administrator of a person specified in section 67(1); or
   (c) a person to whom payment may be made under section 65(2) of the Administration Act 1969; or
-  (d) any person who is entitled to that sum by virtue of an assignment approved under section 66C(1)(b).
+  (d) any person who is entitled to that sum by virtue of an assignment approved under section 66C(1)﻿(b).
 
 ### 67D Company to supply statement in respect of limitations
 (1) No company shall issue a policy on the life of a minor who is under the age of 16 years unless—
@@ -555,9 +555,9 @@ This Act comes into force on 25 January 2005.
 (2) Any provisions of the principal Act (as amended by this Act) that relate to a financial year must be read as if those provisions apply only in respect of—
   (a) either of the following:
     (i) the financial year commencing on 1 July 2005; or
-    (ii) if a later financial year is specified by the Governor-General by Order in Council made under subsection (1)(a)(ii), the next financial year; and
+    (ii) if a later financial year is specified by the Governor-General by Order in Council made under subsection (1)﻿(a)﻿(ii), the next financial year; and
   (b) each subsequent financial year.
-(3) The Minister of Finance may make a recommendation under subsection (1)(a)(ii) only if he or she is satisfied that doing so is reasonably necessary to maintain the integrity of the preparation of the Budget.
+(3) The Minister of Finance may make a recommendation under subsection (1)﻿(a)﻿(ii) only if he or she is satisfied that doing so is reasonably necessary to maintain the integrity of the preparation of the Budget.
 (4) In this section, existing provisions of the principal Act means the provisions of the principal Act that were in force immediately before the commencement of this Act.
 
 ### 33 Reporting obligations in respect of financial year
@@ -565,7 +565,7 @@ This Act comes into force on 25 January 2005.
 (2) Therefore, for example, a department and an Office of Parliament must comply with the requirements relating to annual financial statements, annual reports, and audits that were in the principal Act immediately before the commencement of this Act.
 (3) The financial year referred to in subsection (1) is—
   (a) the financial year ending on 30 June 2005; or
-  (b) if a later financial year is specified by the Governor-General by Order in Council made under section 32(1)(a)(ii), that financial year.
+  (b) if a later financial year is specified by the Governor-General by Order in Council made under section 32(1)﻿(a)﻿(ii), that financial year.
 (4) To avoid doubt, this section does not limit section 32.
 (5) Section 198 of the Crown Entities Act 2004 applies to an organisation named or described in Schedule 4.
 
