@@ -1,5 +1,5 @@
 # Music Teachers Act 1981
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the Music Teachers Registration Act 1928, and to make better provision for the registration and control of music teachers and the advancement of music teaching
 
@@ -25,7 +25,7 @@ In this Act, unless the context otherwise requires,—
 (3) The institute shall be a body corporate with perpetual succession and a common seal, and with power to sue and be sued and to hold real and personal property and to do and suffer all that bodies corporate may do and suffer.
 
 ### 4 Purposes of institute
-The purposes of the institute shall be––
+The purposes of the institute shall be—
   (a) to promote the general advancement of music teaching, and the acquisition and dissemination of knowledge and skills connected with music teaching:
   (b) to protect the interests of music teachers in New Zealand:
   (c) to protect and promote the interests of the public in relation to music teaching:
@@ -72,7 +72,7 @@ Contracts on behalf of the institute may be made as follows:
   (m) the appointment and removal of members of the registration board:
   (n) the procedure of the registration board:
   (o) the regulation and good government of the institute in all matters within its powers.
-(2) In making any rules under subsection (1)(f) the institute may make rules permitting any branch to charge an annual membership fee not exceeding such amount as shall be stated in those rules.
+(2) In making any rules under subsection (1)﻿(f) the institute may make rules permitting any branch to charge an annual membership fee not exceeding such amount as shall be stated in those rules.
 
 ### 10 Procedure for making, altering, and rescinding rules
 (1) No rule of the institute shall be made, altered, or rescinded otherwise than in accordance with this section.
@@ -85,7 +85,7 @@ Contracts on behalf of the institute may be made as follows:
 In any proceedings the production of any document purporting to be a copy of any rules made by the institute and to be sealed with the seal of the institute shall, until the contrary is proved, be sufficient proof that those rules have been duly made and are then in force.
 
 ### 12 Fees
-(1) The institute shall in each year, at its annual general meeting or at a special general meeting, set the fees for––
+(1) The institute shall in each year, at its annual general meeting or at a special general meeting, set the fees for—
   (a) applications for registration; and
   (b) annual registration; and
   (c) membership of all or any of the classifications of membership of the institute by persons who are not registered.
@@ -142,7 +142,7 @@ The functions of the board shall be—
 (2) Subject to subsection (1), every person shall be entitled to be registered as a music teacher who—
   (a) immediately before the commencement of this Act was registered as a music teacher under the Music Teachers Registration Act 1928; or
   (b) satisfies the board that he is competent to teach in each category of music for which he is applying to be registered; or
-  (c) obtains an order of a District Court under section 26 directing that he shall be registered.
+  (c) obtains an order of the District Court under section 26 directing that he shall be registered.
 
 ### 19 Application for registration
 Every application for registration shall—
@@ -184,7 +184,7 @@ The Registrar shall, on request by any person registered under this Act, send th
 (2) Where the name of any person has been removed from the register pursuant to a direction made under section 24(4), the name of that person shall not be restored to the register until a further application fee has been paid by that person.
 
 ### 26 Appeals
-(1) Any person who is dissatisfied with any direction of the board relating to his registration or non-registration or the removal of his name from the register, other than a decision made pursuant to section 24(4), may, within 1 month after notice of such direction has been given to him by the Registrar, appeal to a District Court against that direction.
+(1) Any person who is dissatisfied with any direction of the board relating to his registration or non-registration or the removal of his name from the register, other than a decision made pursuant to section 24(4), may, within 1 month after notice of such direction has been given to him by the Registrar, appeal to the District Court against that direction.
 (2) The decision of a District Court Judge on any such appeal shall be final and binding on the appellant and the board.
 
 ## Part 3 — Miscellaneous provisions
