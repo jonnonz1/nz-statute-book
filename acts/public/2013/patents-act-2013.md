@@ -1,5 +1,5 @@
 # Patents Act 2013
-_Consolidation as at 2017-02-24_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Patents Act 2013.
@@ -1876,7 +1876,7 @@ The Commissioner may make changes to the patents register in accordance with thi
   (b) the decision was made under section 99 or 112 (which relates to the revocation of a patent by the Commissioner) and the effect of the decision is the revocation of a patent; or
   (c) the court or Court of Appeal gives leave.
 (2) All other decisions of the court on an appeal against a decision of the Commissioner are final.
-(3) However, this section does not limit the rights of appeal under sections 7 and 8 of the Supreme Court Act 2003.
+(3) However, this section does not limit the rights of appeal under sections 68 and 69 of the Senior Courts Act 2016.
 
 **Costs of Commissioner**
 
