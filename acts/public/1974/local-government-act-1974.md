@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -1900,7 +1900,7 @@ The functions of a distribution authority shall be—
 Every assessment made by the principal administrative officer under this Part shall be taken to be correct, and the tax shall be payable accordingly, unless, on an appeal under section 192 or in proceedings taken under this Act in a court of competent jurisdiction, a different amount is proved to be the tax payable on the specified engine fuel, or it is proved that no tax is payable, as the case may be.
 
 ### 192 Appeal against assessment
-(1) Within 14 days after a demand for the tax is made by the principal administrative officer in accordance with his assessment, the wholesale distributor may appeal to a District Court, by way of originating application, against the assessment.
+(1) Within 14 days after a demand for the tax is made by the principal administrative officer in accordance with his assessment, the wholesale distributor may appeal to the District Court, by way of originating application, against the assessment.
 (2) On the hearing of the appeal, the court, whose decision shall be final, may confirm or amend the assessment made by the principal administrative officer.
 
 ### 193 Tax recoverable as a debt
@@ -2820,7 +2820,7 @@ Where a building-line restriction has been imposed under this Act or any former 
 (1) Where vehicles are being taken or, in the opinion of the council, are likely to be taken, on to or from any land across any footpath on any road or any water channel on or adjoining any road otherwise than by means of a crossing properly constructed under the provisions of any bylaw made by the council, the principal administrative officer or other officer authorised by the council may, by notice in writing, require the occupier or, in any case where there is no occupier, the owner of the land to pay to the council such sum of money as the council from time to time fixes as payment for the cost of the construction of a crossing by the council.
 (2) Within 28 days after the service of the notice, the occupier or owner, as the case may be, may object in writing to the council against the requirements of the notice, and the notice shall thereupon be deemed to be suspended pending the determination of the objection or, where application is made to the court to confirm the notice, pending the decision of the court.
 (3) Where any such objection is received by the council, the council shall forthwith inquire into and dispose of the objection.
-(4) Where on inquiry into the objection the council reaffirms its requirements, the council shall apply to a District Court for an order confirming the notice.
+(4) Where on inquiry into the objection the council reaffirms its requirements, the council shall apply to the District Court for an order confirming the notice.
 (5) On the hearing of the application, the court, whose decision shall be final, may—
   (a) confirm the notice; or
   (b) confirm the notice subject to a reduction in the sum payable to the council by the occupier or owner, as the case may be; or
@@ -3081,14 +3081,14 @@ The council shall take all sufficient precautions for the general safety of the 
   (a) to remove, lower, or trim to the satisfaction of the council any tree or hedge overhanging or overshadowing the road in cases where, in the opinion of the council, the removal, lowering, or trimming is necessary in order to prevent injury to the road or obstruction to the traffic thereon or to any channel, ditch, or drain appertaining thereto:
   (b) to cut down or grub up, as the council directs, and remove all obstructions to traffic or drainage arising from the growth of plants or the spreading of roots upon or under the road up to the middle line thereof along the whole frontage of the land occupied or owned by him:
   (c) to remove, lower, or trim to the satisfaction of the council any tree or hedge, or to lower any fence or wall, if in the opinion of the council the tree, hedge, fence, or wall is likely, by reason of its obstructing the view, to cause danger to the traffic on that or any other road.
-(2) Within 10 days after service of the notice, the owner may apply to a District Court for an order setting aside the notice.
+(2) Within 10 days after service of the notice, the owner may apply to the District Court for an order setting aside the notice.
 (3) On the hearing of the application, the court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
 (4) In the case of a notice which is not set aside as aforesaid, if the owner fails to do any such act in compliance therewith within 1 month from the service thereof, or, where application as aforesaid has been heard, then within 1 month after the giving of the decision of the court, he commits an offence and is liable on conviction to a fine not exceeding $5 for every day during which the failure has continued, and the council, by its officers or agents, may enter on the land and do that act and recover the cost from him.
 (5) The said cost shall be a charge upon the land.
 (6) In any case where the council might give any such notice as aforesaid in respect of any land, any resident of the district may, by notice in writing, request the council to do so.
-(7) If for the space of 28 days after the receipt of the last-mentioned notice the council fails to comply therewith, the resident making the request may apply to a District Court for an order requiring the council to comply with that notice.
+(7) If for the space of 28 days after the receipt of the last-mentioned notice the council fails to comply therewith, the resident making the request may apply to the District Court for an order requiring the council to comply with that notice.
 (8) On the hearing of the application, the court shall determine whether and to what extent the notice shall be complied with by the council, and the decision of the court shall be final.
-(9) The council may remove, lower, cut down, grub up, or trim, as the case may be, any fence, wall, tree, hedge, or plant to which subsection (1) applies, after giving oral notice to the occupier, or, where there is no occupier, to the owner, of the land, if life, property, or any road is in imminent danger. The cost of the work shall be a charge against the land as if notice had been given under subsection (1) and had not been set aside by a District Court.
+(9) The council may remove, lower, cut down, grub up, or trim, as the case may be, any fence, wall, tree, hedge, or plant to which subsection (1) applies, after giving oral notice to the occupier, or, where there is no occupier, to the owner, of the land, if life, property, or any road is in imminent danger. The cost of the work shall be a charge against the land as if notice had been given under subsection (1) and had not been set aside by the District Court.
 (10) For the purposes of this section the term cut down means cutting down and keeping cut down or removing or controlling by chemical means the stem and roots of any plants so as to prevent their throwing out any leaf, offshoot, or flower.
 
 ### 356 Removal of abandoned vehicles from roads
@@ -3526,7 +3526,7 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
     (ii) explains how the statement of proposal is avail-able for inspection; and
   (d) publicise the summary of proposal in a way appropriate to the subject matter of the proposal.
 (6) The council must not vote on a motion to undertake the proposed work until at least 20 working days after the summary of proposal is first publicised under subsection (5)﻿(d).
-(7) An owner or occupier of land who may be affected by the work may apply to a District Court for an order under subsection (8) at any time between the publicising of the summary of proposal under subsection (5)﻿(d) and 10 days after a resolution of the council is made under subsection (6).
+(7) An owner or occupier of land who may be affected by the work may apply to the District Court for an order under subsection (8) at any time between the publicising of the summary of proposal under subsection (5)﻿(d) and 10 days after a resolution of the council is made under subsection (6).
 (8) The court may make an order or orders—
   (a) setting a date before which the council may not under-take the work:
   (b) allowing the council to undertake the work with or without modification:
@@ -3614,7 +3614,7 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 (2) The District Land Registrar, on the receipt by him of a certificate signed by the principal administrative officer that any of the said lands is actually served by that private drain, shall enter on the register and upon the outstanding duplicate certificate of title for that land, which certificate of title shall be produced to him for that purpose,—
   (a) particulars of the certificate given by the principal administrative officer; and
   (b) a memorandum that there are attached to the land the rights specified in subsection (1).
-(3) If any question arises as to the liability of any owner or occupier under any provision of subsection (1), a District Court shall have jurisdiction to hear and determine the question, and the decision of the court shall be final.
+(3) If any question arises as to the liability of any owner or occupier under any provision of subsection (1), the District Court shall have jurisdiction to hear and determine the question, and the decision of the court shall be final.
 
 ### 462 Council may declare private drain to be public drain
 (1) The council may, by resolution passed at a meeting of which at least 14 days' public notice has been given, declare any specified private drain in the district to be a public drain.
@@ -3645,11 +3645,11 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 
 ### 468 Tree roots obstructing public drains
 (1) The council may, by notice in writing under the hand of the chairman or the principal administrative officer, require the occupier or, in any case where there is no occupier, the owner of any land within the district to cut down or remove any tree on that land, or any specified part of any such tree, the roots of which in the opinion of the council enter or are likely to enter any public drain.
-(2) Within 10 days after service of the notice, the occupier or owner, as the case may be, may apply to a District Court for an order setting aside the notice.
+(2) Within 10 days after service of the notice, the occupier or owner, as the case may be, may apply to the District Court for an order setting aside the notice.
 (3) On the hearing of the application, the court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
 (4) In the case of a notice which is not set aside as aforesaid, if the occupier or owner, as the case may be, fails to do any such act in compliance therewith within 1 month from the service thereof, or, where application as aforesaid has been heard, then within 1 month after the giving of the decision of the court, he commits an offence and is liable on conviction to a fine not exceeding $5 for every day during which the failure has continued, and the council, by its officers, or agents, may enter on the land and do that act and recover the cost from him.
 (5) The said cost shall be a charge upon the land.
-(6) The council may remove, cut down, or grub up, as the case may be, any tree to which subsection (1) applies, or, as the case may be, any specified part of any such tree, after the giving of oral notice by the principal administrative officer or other authorised officer of the council to the occupier, or, where there is no occupier, to the owner, of the land, if life, property, or any road is in imminent danger. The cost of the work shall be a charge against the land as if notice had been given under subsection (1) and had not been set aside by a District Court.
+(6) The council may remove, cut down, or grub up, as the case may be, any tree to which subsection (1) applies, or, as the case may be, any specified part of any such tree, after the giving of oral notice by the principal administrative officer or other authorised officer of the council to the occupier, or, where there is no occupier, to the owner, of the land, if life, property, or any road is in imminent danger. The cost of the work shall be a charge against the land as if notice had been given under subsection (1) and had not been set aside by the District Court.
 (7) For the purposes of this section the term cut down means cutting down and keeping cut down or removing or controlling by chemical means the stem and roots of any tree so as to prevent its throwing out any leaf, offshoot, or flower.
 
 ### 469 Council may construct protective works to prevent damage by flood
@@ -3895,7 +3895,7 @@ Subject to section 238, the council shall have the power to inspect any private 
 (1) Where in the opinion of the council the free flow of water in any drainage channel or in any watercourse that is not under the control of any other local authority—the council may, by notice in writing, require the occupier or, if there is no occupier, the owner of the land on the banks of the drainage channel or watercourse within the district to remove the obstruction from the drainage channel or watercourse and from the banks of the drainage channel or watercourse to a distance not exceeding 3 metres from the nearest margin of the drainage channel or watercourse.
   (a) is impeded by any obstruction, and that obstruction is likely to cause loss of life, injury, or damage to property in the district or to obstruct navigation; or
   (b) is likely to be impeded by any such obstruction,—
-(2) Within 10 days after service of the notice, the occupier or owner to whom the notice is given may apply to a District Court for an order setting aside the notice.
+(2) Within 10 days after service of the notice, the occupier or owner to whom the notice is given may apply to the District Court for an order setting aside the notice.
 (3) On the hearing of the application, the court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
 (4) In the case of a notice which is not set aside as aforesaid, if the occupier or owner, as the case may be, fails to do any such act in compliance therewith within 1 month from the service thereof, or, where application as aforesaid has been heard, then within 1 month after the giving of the decision of the court, he commits an offence, and the council, by its officers or agents, may enter on the land and do that act.
 (5) Where the council does any work under subsection (4), it may recover the cost from the occupier or owner.
@@ -3911,11 +3911,11 @@ Subject to section 238, the council shall have the power to inspect any private 
 
 ### 512 Power to require council to order removal of obstructions
 (1) In any case where the council might give any notice under section 511(1) in respect of any land, any resident of the district may, by notice in writing, request the council to do so.
-(2) If for the space of 1 month after the receipt of the last-mentioned notice the council fails to comply therewith, the resident making the request may apply to a District Court for an order requiring the council to comply with that notice.
+(2) If for the space of 1 month after the receipt of the last-mentioned notice the council fails to comply therewith, the resident making the request may apply to the District Court for an order requiring the council to comply with that notice.
 (3) On the hearing of the application, the court shall determine whether and to what extent the notice shall be complied with by the council, and the decision of the court shall be final.
 
 ### 513 Order of court on application under section 511 or section 512
-Where under section 511(2) or section 512(2) application is made to a District Court for an order setting aside a notice under subsection (1) of the said section 511 or, as the case may be, an order requiring the council to comply with a notice under subsection (1) of the said section 512, then, notwithstanding anything in the said section 511 or section 512, the court may, in its discretion,—
+Where under section 511(2) or section 512(2) application is made to the District Court for an order setting aside a notice under subsection (1) of the said section 511 or, as the case may be, an order requiring the council to comply with a notice under subsection (1) of the said section 512, then, notwithstanding anything in the said section 511 or section 512, the court may, in its discretion,—
   (a) direct that—be borne by any person holding any interest in the land or by any local authority whose district or works will be improved by that removal:
     (i) a portion of the cost of removing the obstruction; and
     (ii) a portion of the cost and expenses incurred by the council under section 511 or section 512 in respect of any investigations or supervision carried out by the officers or agents of the council,—
@@ -5115,7 +5115,7 @@ If a land drainage scheme or water race scheme is not repaired or maintained in 
 (3) Fire hydrants shall be fixed at such distances from each other as the council decides or, in the case of hydrants fixed in any part of the district that is included in a fire district of the New Zealand Fire Service Commission, as that Commission approves.
 (4) The council shall put near each fire hydrant a conspicuous notice or a mark of a kind approved by the New Zealand Fire Service Commission, in the case of a hydrant fixed in any part of the district that is included in a fire district of that Commission, or, in any other case, approved by the council, showing the situation of the hydrant, and that notice may, if the council thinks fit, be put on any building.
 (5) In this section the term trunk main means a main used for the purpose of conveying water from a source of supply to a filter or reservoir, or from one filter or reservoir to another filter or reservoir, or for the purpose of conveying water in bulk from one part of the limits of supply to another part of those limits, or for the purpose of giving or taking a supply of water in bulk.
-(6) Where the council is dissatisfied with any decision of the New Zealand Fire Service Commission under this section, it may, within 1 month after receiving notice of the decision, appeal against that decision to a District Court, whose decision shall be final.
+(6) Where the council is dissatisfied with any decision of the New Zealand Fire Service Commission under this section, it may, within 1 month after receiving notice of the decision, appeal against that decision to the District Court, whose decision shall be final.
 
 ### 648 Pipes to be kept charged with water
 (1) Except in case of unusual drought, or of accident, or of shortage from any cause of the water supply, or during necessary repairs, connections, or inspections, or in a case of a state of emergency declared under the Civil Defence Emergency Management Act 2002, the council must at all times keep charged with water the pipes in which fire hydrants are fixed by the council under section 647.
@@ -5497,7 +5497,7 @@ If a land drainage scheme or water race scheme is not repaired or maintained in 
 ### 698 General penalty
 (1) Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction to a fine not exceeding $500 and, where the offence is a continuing one, to a further fine not exceeding $50 for every day on which the offence has continued.
 (2) Where any order is made under this Act by any court directing the execution of any work or the doing of any act (other than the payment of a sum of money under a conviction, whether as a fine or otherwise) and no punishment for disobedience to the order is otherwise provided by this Act, every person disobeying the order commits an offence against this Act.
-(3) Where a person commits a continuing breach of any provision of this Act which is an offence to which this section applies, then, notwithstanding anything in any other Act, a District Court may, on application by the council, grant an injunction restraining the further continuance of the breach by that person.
+(3) Where a person commits a continuing breach of any provision of this Act which is an offence to which this section applies, then, notwithstanding anything in any other Act, the District Court may, on application by the council, grant an injunction restraining the further continuance of the breach by that person.
 (4) An injunction may be granted under subsection (3),—
   (a) notwithstanding that proceedings for the offence constituted by the breach have not been taken; or
   (b) where the person is convicted of such an offence, either,—
@@ -6248,7 +6248,7 @@ The council shall publicly notify the level so fixed, and shall in the notice re
 Before interfering with any road or other work that is not under the control of the council for the purposes of constructing or maintaining waterworks or drainage works or trade wastes systems or drainage channels, or laying gas pipes, or electricity cables, or erecting poles, the council shall give not less than 1 month's notice in writing to the local authority or body having control of the road or work.
 
 ### 2
-If that local authority or body objects to the interference, the matter shall be referred to a District Court, and the decision of the court shall be final.
+If that local authority or body objects to the interference, the matter shall be referred to the District Court, and the decision of the court shall be final.
 
 ### 3
 The council may at any time interfere with the road or work, so far as may be necessary to effect all necessary repairs in the waterworks or drainage works or trade wastes systems or drainage channels or gas pipes or electricity cables or poles, on giving to that local authority or body not less than 3 days' previous notice in writing of its intention to do so.
