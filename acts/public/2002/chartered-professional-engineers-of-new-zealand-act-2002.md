@@ -1,5 +1,5 @@
 # Chartered Professional Engineers of New Zealand Act 2002
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Chartered Professional Engineers of New Zealand Act 2002.
@@ -175,8 +175,8 @@ The Registration Authority must—
   (b) the person's registration be suspended for a period of no more than 12 months or until the person meets specified conditions relating to the registration (but, in any case, not for a period of more than 12 months):
   (c) the person be censured:
   (d) the person must pay a fine not exceeding $5,000.
-(2) The Registration Authority may make only 1 type of order in subsection (1) in relation to a case, except that it may impose a fine under subsection (1)(d) in addition to an order under subsection (1)(b) or subsection (1)(c).
-(3) No fine may be imposed under subsection (1)(d) in relation to an act or omission that constitutes an offence for which the person has been convicted by a court.
+(2) The Registration Authority may make only 1 type of order in subsection (1) in relation to a case, except that it may impose a fine under subsection (1)﻿(d) in addition to an order under subsection (1)﻿(b) or subsection (1)﻿(c).
+(3) No fine may be imposed under subsection (1)﻿(d) in relation to an act or omission that constitutes an offence for which the person has been convicted by a court.
 (4) In any case to which section 21 applies, the Registration Authority may order that the person must pay costs and expenses of, and incidental to, the inquiry by the Authority.
 (5) In addition to notifying the order in the register, the Registration Authority—
   (a) must notify the Registrar of Licensed Building Practitioners appointed under the Building Act 2004 of the order and the reasons for it; and
@@ -186,7 +186,7 @@ The Registration Authority must—
   (b) has unsuccessfully exhausted his or her rights of appeal under those sections.
 
 ### 23 Non-payment of fines or costs
-If money payable by a person under section 22(1)(d) or section 22(4) remains unpaid for 60 days or more, the Registration Authority may—
+If money payable by a person under section 22(1)﻿(d) or section 22(4) remains unpaid for 60 days or more, the Registration Authority may—
   (a) remove the person's registration; or
   (b) suspend the person's registration until the person pays the fine and, if he or she does not do so within 12 months, remove his or her registration.
 
@@ -239,8 +239,8 @@ Except as otherwise provided in this Act, a decision authority may regulate its 
   (a) by delivering it personally to the person summoned; or
   (b) by posting it to the person summoned at that person's usual place of residence.
 (2) A summons must,—
-  (a) if it is to be served under subsection (1)(a), be served at least 48 hours before the attendance of the witness is required:
-  (b) if it is to be served under subsection (1)(b), be served at least 10 days before the attendance of the witness is required.
+  (a) if it is to be served under subsection (1)﻿(a), be served at least 48 hours before the attendance of the witness is required:
+  (b) if it is to be served under subsection (1)﻿(b), be served at least 10 days before the attendance of the witness is required.
 (3) A summons that is posted is treated as having been served when it would have been delivered in the ordinary course of post.
 
 ### 31 Witnesses' fees, allowances, and expenses
@@ -271,7 +271,7 @@ If a decision authority, acting in accordance with this Act and the rules in rel
 
 ### 35 Right of appeal
 (1) The person to whom the decision relates or, if it is a disciplinary matter, the complainant may appeal to the Council against a decision of the Registration Authority under this Part.
-(2) The Registration Authority, the person to whom the decision relates, or, if it is a disciplinary matter, the complainant may appeal to a District Court against a decision of the Council under this Part.
+(2) The Registration Authority, the person to whom the decision relates, or, if it is a disciplinary matter, the complainant may appeal to the District Court against a decision of the Council under this Part.
 (3) The appeal of a decision must be made by written notice to the Council or District Court (as the case may be) within—
   (a) 28 days after the person receives notice of the decision from the decision authority; or
   (b) any further time that the Council or District Court (as the case may be) allows on application made to it before the expiry of the 28-day period.
@@ -283,7 +283,7 @@ Subject to the order of the Council or District Court (as the case may be), ever
 (1) Every appeal under section 35 must be heard as soon as practicable after the appeal is lodged.
 (2) An appeal to the Council is a rehearing and must be conducted in accordance with any regulations made under section 65.
 (3) Unless the Council otherwise directs, on the rehearing, the record of the evidence adduced at the hearing before the Registration Authority must be placed before the Council, and it is not permissible to recall witnesses who gave evidence before the Registration Authority or to call other witnesses.
-(4) An appeal to a District Court is a rehearing and must be conducted in accordance with the rules under section 122 of the District Courts Act 1947.
+(4) An appeal to the District Court is a rehearing and must be conducted in accordance with the District Court Rules made under section 228 of the District Court Act 2016.
 (5) The Council or District Court, as the case may be, may—
   (a) confirm, vary, or reverse the decision, or part of decision, to which the appeal relates:
   (b) refer the matter back to the decision authority for it to reconsider, either generally or in relation to specific matters, the whole or any part of the decision (together with any direction on that whole or part that the Council or District Court, as the case may be, thinks fit):
@@ -293,7 +293,7 @@ Subject to the order of the Council or District Court (as the case may be), ever
 (7) In reconsidering a decision referred back to it with a direction under this section, the decision authority must take account of the reasons for the direction and give effect to the direction.
 
 ### 38 Appeal to High Court on questions of law
-(1) If, in respect of any appeal to a District Court, a party to the appeal considers that the decision of the District Court Judge is wrong in law, the party may appeal to the High Court on the question of law only.
+(1) If, in respect of any appeal to the District Court, a party to the appeal considers that the decision of the District Court Judge is wrong in law, the party may appeal to the High Court on the question of law only.
 (2) Subject to subsection (3), every appeal under this section must be heard and determined by the High Court in accordance with rules of court.
 (3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
 
@@ -315,7 +315,7 @@ The functions of the Registration Authority under this Act are to—
   (c) a code of minimum standards of ethical conduct for chartered professional engineers.
 (2) The Registration Authority must also make, and always have, rules that govern all of the following matters:Title of chartered professional engineerClasses of registration of chartered professional engineersRegistration of chartered professional engineersDisciplining of chartered professional engineersRule-making procedures
   (a) the form of words, initials, and abbreviations that may be used to represent a person as a chartered professional engineer (without limiting any others that may be used consistently with this Act):
-  (b) the form of words, initials, and abbreviations that must be used if the title chartered professional engineer (or words, initials, or abbreviations of that title to which section 7(1)(b) applies) is used in representing qualifications or titles awarded by overseas agencies that are similar to New Zealand professional engineering qualifications or titles:
+  (b) the form of words, initials, and abbreviations that must be used if the title chartered professional engineer (or words, initials, or abbreviations of that title to which section 7(1)﻿(b) applies) is used in representing qualifications or titles awarded by overseas agencies that are similar to New Zealand professional engineering qualifications or titles:
   (ba) classes of registration of chartered professional engineers under this Act:
   (c) the information that must be provided by applicants for registration and registration certificates, and the way in which this information must be evaluated and decisions on the information must be made and implemented:
   (d) the period for which registration certificates are to be issued:
@@ -391,8 +391,8 @@ The Council's board must have at least 6, but no more than 8, members appointed 
   (c) 1 person nominated by the Minister whom the Minister considers to be representative of consumers; and
   (d) 1 to 3 other persons nominated by the Minister.
 (2) The Minister must—
-  (a) recommend persons under subsection (1)(a), (b), and (d) who are knowledgeable about professional engineering; and
-  (b) in recommending persons under subsection (1)(a), (b), and (d), have regard to the aim that the members collectively represent the range of engineering practices and disciplines; and
+  (a) recommend persons under subsection (1)﻿(a), (b), and (d) who are knowledgeable about professional engineering; and
+  (b) in recommending persons under subsection (1)﻿(a), (b), and (d), have regard to the aim that the members collectively represent the range of engineering practices and disciplines; and
   (c) not recommend a person who is a member of the governing body of the Registration Authority or an employee of the Registration Authority.
 
 ### 51 Further provisions as to Council and its board in Schedule 1
@@ -435,7 +435,7 @@ Schedule 1 applies to the Council and its board.
   (b) contain a statement of the board's responsibility for establishing and maintaining a system of internal control that is designed to provide reasonable assurance as to the integrity and reliability of financial reporting.
 
 ### 56 Audit
-(1) The Council must, within 3 months after the end of each financial year, submit the report on operations, the financial statements, and the statement of responsibility required under section 54(2)(a) and (b) to the Auditor-General for audit.
+(1) The Council must, within 3 months after the end of each financial year, submit the report on operations, the financial statements, and the statement of responsibility required under section 54(2)﻿(a) and (b) to the Auditor-General for audit.
 (2) The Auditor-General must audit those documents, and provide an audit report on them to the Council, within 30 days after receiving them.
 
 ### 57 Obligation for Council to provide own annual report to Minister
@@ -455,7 +455,7 @@ The Minister must present a copy of each report given to him or her under sectio
 (2) However, a request may be refused if—
   (a) withholding the information is necessary to protect the privacy of any person (whether or not a natural person or a deceased natural person) and there would, under the Official Information Act 1982, be good reason for withholding the information if—
     (i) the request had been made under section 12 of that Act; and
-    (ii) section 9(2)(a) of that Act applied to all persons, whether natural persons or not; and
+    (ii) section 9(2)﻿(a) of that Act applied to all persons, whether natural persons or not; and
     (iii) the need to protect the privacy of any person is not outweighed by the Minister's need to have the information in order to discharge the Minister's ministerial duties; or
   (b) the information relates to a particular matter in respect of which the Council or any person appointed or employed by the Council is required to act judicially.
 
