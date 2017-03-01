@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2016-10-29_
+_Consolidation as at 2017-03-01_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -35,7 +35,7 @@ _Consolidation as at 2016-10-29_
     (b) includes any information held outside New Zealand by any branch or post of—
       (i) a department; or
       (ii) an organisation; and
-    (c) in relation to information held by the Ministry of Justice, includes information held by the Rules Committee appointed under section 51B of the Judicature Act 1908; and
+    (c) in relation to information held by the Ministry of Justice, includes information held by the Rules Committee appointed under section 155 of the Senior Courts Act 2016; and
     (d) in relation to information held by a university (including Lincoln University), includes only information held by—
       (i) the Council of the university; or
       (ii) the Senate, Academic Board, or Professorial Board of the university; or
@@ -188,7 +188,7 @@ Where a request under this Act relates to information to which section 6 or sect
 ### 11 Exclusion of public interest immunity
 (1) Subject to subsection (2), the rule of law which authorises or requires the withholding of any document, or the refusal to answer any question, on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest shall not apply in respect of—but not so as to give any party any information that he would not, apart from this section, be entitled to.
   (a) any investigation by or proceedings before an Ombudsman; or
-  (b) any application under section 4(1) of the Judicature Amendment Act 1972 for the review of any decision under this Act;
+  (b) any application under section 8 of the Judicial Review Procedure Act 2016 for the review of any decision under this Act;
 (2) Nothing in subsection (1) affects—
   (a) section 31; or
   (b) clause 8 of Schedule 2; or
@@ -522,8 +522,8 @@ Where—an Ombudsman shall not recommend that the information be made available,
     (iv) every statutory officer to whom that recommendation is applicable.
 (4) As soon as practicable after an Order in Council is made under this section, the Minister who recommended the making of that Order in Council shall give a copy of that Order in Council to the Ombudsman who made the recommendation.
 (5) Nothing in this section—
-  (a) limits section 8 of the Judicature Amendment Act 1972; or
-  (b) prevents effect being given to any interim order made under section 8 of the Judicature Amendment Act 1972 or to any declaration contained in any such interim order.
+  (a) limits section 15 of the Judicial Review Procedure Act 2016; or
+  (b) prevents effect being given to any interim order made under section 15 of the Judicial Review Procedure Act 2016 or to any declaration contained in any such interim order.
 
 ### 32A Requirements in relation to Order in Council
 (1) Every Order in Council made under section 32 shall be published in the Gazette and laid before the House of Representatives as soon as practicable after it is made.
@@ -541,14 +541,14 @@ Where—an Ombudsman shall not recommend that the information be made available,
 (4) Unless the High Court is satisfied that an application brought under subsection (1) has not been reasonably or properly brought, it shall, in determining the application and irrespective of the result of the application, order that the costs of the applicant on a solicitor and client basis shall be paid by the Crown, and such costs shall be paid out of money appropriated by Parliament for the purpose.
 
 ### 32C Appeals
-Any party to an application under section 32B who is dissatisfied with any final or interlocutory order in respect of the application may appeal to the Court of Appeal; and section 66 of the Judicature Act 1908 shall apply to any such appeal.
+Any party to an application under section 32B who is dissatisfied with any final or interlocutory order in respect of the application may appeal to the Court of Appeal; and section 56 of the Senior Courts Act 2016 shall apply to any such appeal.
 
 ### 33 Complainant to be informed of result of investigation
 The Ombudsman who investigates a complaint made for the purposes of section 28(3) shall inform the complainant, in such manner and at such time as he thinks proper, of the result of the investigation.
 
 ### 34 Restriction on application for review
 Where any person makes a request under this Act that official information be made available to him and a decision to which section 28(1) or section 28(2) applies is made in relation to that request, that person—unless a complaint made by that person in respect of that decision has first been determined under this Part.
-  (a) shall not make an application under section 4(1) of the Judicature Amendment Act 1972 for the review of that decision; and
+  (a) shall not make an application under section 8 of the Judicial Review Procedure Act 2016 for the review of that decision; and
   (b) shall not commence any proceedings in which that decision is sought to be challenged, quashed, or called in question in any court,—
 
 **Decisions under Part 3 or Part 4**
