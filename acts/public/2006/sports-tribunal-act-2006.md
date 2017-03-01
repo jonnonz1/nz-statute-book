@@ -1,5 +1,5 @@
 # Sports Anti-Doping Act 2006
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Sports Anti-Doping Act 2006.
@@ -147,7 +147,7 @@ Material incorporated by reference in the rules that expires or is revoked or ce
   (b) if there is material incorporated by reference in the rules, a description of that material; and
   (c) that the rules and the material are available for inspection during working hours, free of charge, and the location of the place or places at which they can be inspected; and
   (d) that copies of the rules and the material can be purchased, and the location of the place or places at which they can be purchased; and
-  (e) if copies of the rules and the material are made available under section 22(1)(c), that the rules and the material are available in other ways, and details of where or how they can be accessed or obtained.
+  (e) if copies of the rules and the material are made available under section 22(1)﻿(c), that the rules and the material are available in other ways, and details of where or how they can be accessed or obtained.
 (2) The notice in the Gazette need not contain the rules or the material.
 (3) A rule comes into force 28 days after the date on which it is notified in the Gazette or on any later date stated in the notice.
 (4) In this section and section 22, material means—
@@ -284,9 +284,9 @@ The functions of the Tribunal are to—
   (a) by delivering it personally to the person summoned; or
   (b) by posting it by registered post addressed to the person summoned at that person’s usual place of residence.
 (2) The summons must,—
-  (a) if it is served under subsection (1)(a), be served at least 24 hours before the attendance of the witness is required; or
-  (b) if it is served under subsection (1)(b), be served at least 10 days before the date on which the attendance of the witness is required.
-(3) If the summons is posted by registered post, it is deemed for the purposes of subsection (2)(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
+  (a) if it is served under subsection (1)﻿(a), be served at least 24 hours before the attendance of the witness is required; or
+  (b) if it is served under subsection (1)﻿(b), be served at least 10 days before the date on which the attendance of the witness is required.
+(3) If the summons is posted by registered post, it is deemed for the purposes of subsection (2)﻿(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
 
 ### 43 Witnesses’ allowances
 (1) Every witness attending before the Tribunal to give evidence pursuant to a summons is entitled to be paid witnesses’ fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
@@ -298,8 +298,8 @@ The functions of the Tribunal are to—
   (b) be paid from money appropriated by Parliament for the purpose.
 
 ### 44 Privileges and immunities
-(1) Witnesses appearing before the Tribunal have the same privileges and immunities as witnesses have in proceedings in a District Court.
-(2) Every counsel, agent, or other person appearing before the Tribunal has the same privileges and immunities as counsel have in proceedings in a District Court.
+(1) Witnesses appearing before the Tribunal have the same privileges and immunities as witnesses have in proceedings in the District Court.
+(2) Every counsel, agent, or other person appearing before the Tribunal has the same privileges and immunities as counsel have in proceedings in the District Court.
 
 ### 45 Non-attendance or refusal to co-operate
 (1) Every person commits an offence who, after being summoned to attend to give evidence before the Tribunal or to produce to the Tribunal any papers, documents, records, or things, without sufficient cause,—
@@ -318,7 +318,7 @@ The functions of the Tribunal are to—
 
 ### 47 Costs
 (1) The Tribunal, in any proceedings before it under this Act, may make orders as to costs as it thinks fit.
-(2) An order as to costs may be filed in a District Court and may be enforced as a judgment of that court.
+(2) An order as to costs may be filed in the District Court and may be enforced as a judgment of that court.
 
 ## Part 4 — Transitional provisions, repeal, revocations, and consequential amendments
 
@@ -353,12 +353,12 @@ From 30 June 2007, unless the context otherwise requires, every reference to the
 (2) The Agency must perform its additional functions in accordance with the Code and the World Anti-Doping Agency’s International Standards, Models of Best Practice, and its other standards, requirements, and recommended practices.
 (3) The functions set out in subsection (1) are in addition to the functions of the Agency set out in section 6 of the New Zealand Sports Drug Agency Act 1994.
 
-### 54 Use of information and evidence gathered under section 53(1)(a)
-(1) Information and evidence gathered by the Agency under section 53(1)(a) may be used—
+### 54 Use of information and evidence gathered under section 53(1)﻿(a)
+(1) Information and evidence gathered by the Agency under section 53(1)﻿(a) may be used—
   (a) by the Agency before 1 July 2007 in order to prove a breach of the Code; or
   (b) by Drug Free Sport NZ on or after 1 July 2007 in order to prove, pursuant to this Act and the rules, a breach of the Code.
-(2) However, subsection (1)(b) only applies if, had that information and evidence been gathered by Drug Free Sport NZ on or after 1 July 2007, it would have been gathered in accordance with the requirements of this Act and the rules.
-(3) Subsection (1)(b) overrides sections 48 and 50.
+(2) However, subsection (1)﻿(b) only applies if, had that information and evidence been gathered by Drug Free Sport NZ on or after 1 July 2007, it would have been gathered in accordance with the requirements of this Act and the rules.
+(3) Subsection (1)﻿(b) overrides sections 48 and 50.
 
 **Transitional provisions for Tribunal**
 
