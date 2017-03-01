@@ -1,5 +1,5 @@
 # Crown Proceedings Act 1950
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to the civil liabilities and rights of the Crown and officers of the Crown, and to civil proceedings by and against the Crown
 
@@ -10,9 +10,9 @@ This Act may be cited as the Crown Proceedings Act 1950 and shall come into forc
 (1) In this Act, unless the context otherwise requires,—
   - **agent** , in relation to the Crown, includes an independent contractor employed by the Crown
   - **Attorney-General** , in respect of any power, duty, authority, or function imposed upon or vested in him or her by virtue of his or her office as Attorney-General otherwise than under section 14, includes the Solicitor-General
-  - **civil proceedings** means any proceedings in any court other than criminal proceedings; but does not include proceedings in relation to habeas corpus, mandamus, prohibition, or certiorari or proceedings by way of an application for review under Part 1 of the Judicature Amendment Act 1972 to the extent that any relief sought in the application is in the nature of mandamus, prohibition, or certiorari
+  - **civil proceedings** means any proceedings in any court other than criminal proceedings; but does not include proceedings in relation to habeas corpus, mandamus, prohibition, or certiorari or proceedings by way of an application for review under the Judicial Review Procedure Act 2016 to the extent that any relief sought in the application is in the nature of mandamus, prohibition, or certiorari
   - **Commonwealth** means the British Commonwealth of Nations; and includes every territory for whose international relations the Government of any country of the Commonwealth is responsible
-  - **court** means the Supreme Court, the Court of Appeal, the High Court, and (to the extent to which they respectively have jurisdiction) the Compensation Court constituted under section 70 of the Statutes Amendment Act 1939, a District Court constituted under the District Courts Act 1947, a Disputes Tribunal constituted under the Disputes Tribunals Act 1988, a Warden's Court constituted under the Mining Act 1926, and the Maori Land Court constituted under Te Ture Whenua Maori Act 1993
+  - **court** means the Supreme Court, the Court of Appeal, the High Court, and (to the extent to which they respectively have jurisdiction) the Compensation Court constituted under section 70 of the Statutes Amendment Act 1939, the District Court constituted under the District Court Act 2016, the Disputes Tribunal constituted under the Disputes Tribunal Act 1988, a Warden's Court constituted under the Mining Act 1926, and the Maori Land Court constituted under Te Ture Whenua Maori Act 1993
   - **government department** or —
     (a) means Public Trust and every other department or instrument of the Executive Government of New Zealand; and
     (b) includes the Māori Trustee
@@ -122,7 +122,7 @@ Without limiting any other provisions of this Act, it is hereby declared that th
 (7) Where the Attorney-General or any government department or officer of the Crown is a party or third party to any proceedings in accordance with this section, any order of the court against or in favour of the Crown in those proceedings shall be made against or in favour of the Attorney-General or the department or officer as the case may be.
 
 ### 15 Recovery in District Court on behalf of Crown of amounts not exceeding $500
-(1) Any debt or damages payable to the Crown and not exceeding $500 may be sued for and recovered in a District Court on behalf of the Crown by and at the suit of any person appointed in that behalf by a warrant under the hand of the Attorney-General or the Solicitor-General, and judicial notice shall be taken of the signature of any such warrant.
+(1) Any debt or damages payable to the Crown and not exceeding $500 may be sued for and recovered in the District Court on behalf of the Crown by and at the suit of any person appointed in that behalf by a warrant under the hand of the Attorney-General or the Solicitor-General, and judicial notice shall be taken of the signature of any such warrant.
 (1A) The Attorney-General or the Solicitor-General may from time to time delegate the power of appointment conferred by subsection (1) to a barrister or solicitor of the High Court holding an appointment as Crown Counsel in the office of the Solicitor-General, and judicial notice shall be taken of the signature of any such barrister or solicitor.
 (1B) Where any Crown Counsel purports to act pursuant to any delegation under this section he or she shall be presumed to be acting in accordance with the delegation in the absence of proof to the contrary.
 (1C) Every such delegation shall be revocable at will, and no such delegation shall prevent the exercise of the power of appointment by the Attorney-General or the Solicitor-General.
@@ -171,7 +171,7 @@ Subject to the provisions of this Act, all enactments and rules of court relatin
 (3) Every such judgment may be in form 4 of Schedule 3, or to the like effect, and no appeal shall lie therefrom.
 
 ### 22 Barristers or solicitors may be appointed to act for Attorney-General in each district
-(1) The Governor-General may from time to time appoint for each district constituted under the Judicature Act 1908 a person, being a barrister or solicitor of the High Court, to act in the district for which the person is appointed in the name and on behalf of the Attorney-General in all such matters as by sections 20 and 21 of this Act are to be done by the Attorney-General.
+(1) The Governor-General may from time to time appoint for a district a person, being a barrister or solicitor of the High Court, to act in the district for which the person is appointed in the name and on behalf of the Attorney-General in all such matters as by sections 20 and 21 of this Act are to be done by the Attorney-General.
 (2) On any such appointment being made and published in the Gazette and while the appointment remains in force—
   (a) all certificates under section 20 of fines imposed within the district for which the person is appointed shall be sent to him or her instead of to the Attorney-General, and he or she shall cause final judgment to be signed thereon in the form mentioned in that section:
   (b) all recognisances forfeited within the district for which the person is appointed shall, together with the certificate mentioned in section 21, be sent to him or her, and he or she shall cause final judgment to be signed thereon on behalf of the Attorney-General in the form mentioned in that section.
@@ -221,7 +221,7 @@ Any person who has obtained an order for the payment of money may take proceedin
 
 ### 29 Application to the Crown of certain statutory provisions
 (1) This Act shall not prejudice the right of the Crown to take advantage of the provisions of an Act although not named therein; and it is hereby declared that in any civil proceedings against the Crown the provisions of any Act which could, if the proceedings were between subjects, be relied upon by the defendant as a defence to the proceedings, whether in whole or in part, or otherwise, may, subject to any express provision to the contrary, be so relied upon by the Crown.
-(2) Section 55 of the Judicature Act 1908 and section 109 of the District Courts Act 1947 (which empower the High Court or a District Court Judge in certain circumstances to order the arrest of a defendant about to leave New Zealand), shall, with the necessary modifications, apply to civil proceedings by the Crown in the High Court or in a District Court, as the case may be.
+(2) Section 40 of the Senior Courts Act 2016 and section 210 of the District Court Act 2016 (which empower the High Court or a District Court Judge in certain circumstances to order the arrest of a defendant about to leave New Zealand), shall, with the necessary modifications, apply to civil proceedings by the Crown in the High Court or in the District Court, as the case may be.
 
 **Supplemental**
 
