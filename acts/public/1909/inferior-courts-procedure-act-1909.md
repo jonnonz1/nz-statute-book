@@ -1,5 +1,5 @@
 # Inferior Courts Procedure Act 1909
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to make further provision for the validity of the judicial proceedings of inferior Courts notwithstanding technical or formal errors
 
@@ -8,9 +8,9 @@ This Act may be cited as the Inferior Courts Procedure Act 1909, and shall come 
 
 ### 2 Interpretation
 In this Act the term inferior Court means—
-  (a) a District Court:
-  (b) a Disputes Tribunal constituted under the Disputes Tribunals Act 1988:
-  (c) a District Court Judge, Justice of the Peace, Community Magistrate, Coroner, or Referee of a Disputes Tribunal in respect of the exercise of any judicial authority conferred upon him or her by any Act.
+  (a) the District Court:
+  (b) the Disputes Tribunal constituted under the Disputes Tribunal Act 1988:
+  (c) a District Court Judge, Justice of the Peace, Community Magistrate, Coroner, or Referee of the Disputes Tribunal in respect of the exercise of any judicial authority conferred upon him or her by any Act.
 
 ### 3 Waiver of errors in civil proceedings before an inferior Court
 (1) In any civil proceedings before an inferior Court any error, irregularity, omission, or defect, whether it relates to the jurisdiction of the Court, or to the procedure therein, or to any other matter, and whether it appears on the face of the record or of the proceedings or not, and whether it is within the knowledge of the Court or not, may be waived or acquiesced in by any party to the proceedings.
@@ -44,7 +44,7 @@ In any of the cases mentioned in any of the 4 last preceding sections, the Court
 
 ### 12 Power of Justices and District Court Judges to amend convictions or orders
 (1) If any omission or mistake is made in any conviction or order drawn up by any Justice of the Peace or District Court Judge, and sufficient grounds were in proof before him to have authorised the drawing up of that conviction or order free from that omission or mistake, the Justice or District Court Judge may at any time thereafter, before the conviction or order has been quashed by the High Court or by any other Court having jurisdiction in that behalf, draw up an amended conviction or order in lieu of that in which the omission or mistake exists, and lodge the amended conviction or order with the Registrar of the High Court, to be filed by him in accordance with the Criminal Procedure Act 2011.
-(1A) If any omission or mistake is made in any conviction or order drawn up by any Community Magistrate, and sufficient grounds were in proof before that Community Magistrate to have authorised the drawing up of that conviction or order free from that omission or mistake, that Community Magistrate may at any time thereafter, before the conviction or order has been quashed by a District Court presided over by a District Court Judge or by any other Court having jurisdiction in that behalf, draw up an amended conviction or order in lieu of that in which the omission or mistake exists, and lodge the amended conviction or order with the Registrar of the District Court, to be filed by that Registrar in accordance with the Criminal Procedure Act 2011.
+(1A) If any omission or mistake is made in any conviction or order drawn up by any Community Magistrate, and sufficient grounds were in proof before that Community Magistrate to have authorised the drawing up of that conviction or order free from that omission or mistake, that Community Magistrate may at any time thereafter, before the conviction or order has been quashed by the District Court presided over by a District Court Judge or by any other Court having jurisdiction in that behalf, draw up an amended conviction or order in lieu of that in which the omission or mistake exists, and lodge the amended conviction or order with the Registrar of the District Court, to be filed by that Registrar in accordance with the Criminal Procedure Act 2011.
 (2) The powers hereby conferred upon a Justice of the Peace or Community Magistrate or District Court Judge may be exercised notwithstanding the fact that the defective conviction or order has been theretofore already lodged and filed in the High Court, or removed into the High Court or any other Court of competent jurisdiction in that behalf by certiorari or otherwise, and notwithstanding the fact that proceedings by way of certiorari or otherwise have been theretofore already commenced in respect of that conviction or order.
 (3) The powers hereby conferred upon a Justice of the Peace or Community Magistrate or District Court Judge may be exercised by him from time to time in respect of the same conviction or order.
 (4) When any proceedings are already pending in the High Court or any other Court in respect of the validity of any conviction or order at the time when any such amended conviction or order is substituted therefor under the provisions hereinbefore contained in that behalf, the said Court may adjudicate in the matter as if the amended conviction or order had been substituted for the defective conviction or order before the commencement of those proceedings, and as if those proceedings related to the amended conviction or order accordingly.
