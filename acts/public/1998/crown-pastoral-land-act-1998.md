@@ -1,5 +1,5 @@
 # Crown Pastoral Land Act 1998
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2017-03-01_
 
 > An Act—ato establish a system for reviewing the tenure of Crown land held under certain perpetually renewable leases; andbto establish a system for determining how Crown land formerly held under pastoral occupation licence, and certain other Crown land, should be dealt with; andcotherwise to provide for the administration of Crown pastoral land
 
@@ -247,8 +247,8 @@ An occupation licence gives the holder the exclusive right of pasturage over the
   (c) considering whether to grant, vary, or revoke an exemption from any stock limitation.
 
 ### 19 Breaches of statutory or contractual provisions
-(1) The Commissioner may apply to a District Court for the examination of anything the Commissioner alleges to be a breach of a reviewable instrument committed after the commencement of this Act.
-(2) If satisfied on application under subsection (1) that the holder of a reviewable instrument has after the commencement of this Act committed a breach, a District Court may—
+(1) The Commissioner may apply to the District Court for the examination of anything the Commissioner alleges to be a breach of a reviewable instrument committed after the commencement of this Act.
+(2) If satisfied on application under subsection (1) that the holder of a reviewable instrument has after the commencement of this Act committed a breach, the District Court may—
   (a) order the holder—
     (i) to take actions (specified by the court) to remedy the breach; or
     (ii) in default of taking those actions, to pay to the Commissioner exemplary damages (not exceeding $50,000) for the breach; or
@@ -534,9 +534,9 @@ The Governor-General may, on the recommendation of the Minister, make regulation
   (c) posted in a letter addressed to that person by name at that place of abode or business or address.
 (2) If the person is absent from New Zealand, the notice or other document may be served on or given to the person's agent in New Zealand.
 (3) If the person is deceased, the notice or other document may be served on or given to the person's personal representatives.
-(4) If the person is not known, or is absent from New Zealand and has no known agent in New Zealand, or is deceased and has no personal representatives, the notice or other document must be served or given in such manner as may be directed by an order of a District Court.
+(4) If the person is not known, or is absent from New Zealand and has no known agent in New Zealand, or is deceased and has no personal representatives, the notice or other document must be served or given in such manner as may be directed by an order of the District Court.
 (5) If any such notice or other document is sent to any person by post, it is, unless the contrary is shown, deemed to have been delivered to the person on the seventh day after the day on which it was posted; and in proving the delivery it is sufficient to prove that the letter was properly addressed and posted.
-(6) Despite anything in subsections (1) to (5), a District Court may in any case make an order directing the manner in which any notice or other document is to be served or given, or dispensing with the service or giving of the notice or document.
+(6) Despite anything in subsections (1) to (5), the District Court may in any case make an order directing the manner in which any notice or other document is to be served or given, or dispensing with the service or giving of the notice or document.
 (7) This section does not apply to notices or other documents served or given in any proceedings in any court.
 
 ## Part 2 — Tenure reviews
