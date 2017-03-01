@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2015-05-28_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -1042,9 +1042,9 @@ The purpose of this Part is to provide for matters relating to the structural se
 
 ### 69B Interpretation
 In this Part, unless the context otherwise requires,—
-  - **asset** ––
+  - **asset** —
     (a) means property of any kind, whether or not situated in New Zealand, whether tangible or intangible, real or personal, corporeal or incorporeal, and whether or not subject to rights; and
-    (b) includes––
+    (b) includes—
       (i) estates or interests in any land, including rights of occupation of land or buildings:
       (ii) buildings, vehicles, plant, equipment, machinery, fixtures and fittings, and rights in them:
       (iii) choses in action and money:
@@ -1372,14 +1372,14 @@ Section 156AO applies with necessary modifications to undertakings under this su
 ### Subpart 6 — Taxation consequences of structural separation
 
 ### 69XM Interpretation in this subpart
-In this subpart, unless the context requires otherwise,––
-  - **appointed day** means,––
+In this subpart, unless the context requires otherwise,—
+  - **appointed day** means,—
     (a) for a purpose specified in a proposal approved by Order in Council made under section 46 of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, a day specified in that proposal for that purpose:
     (b) if there is no relevant day under paragraph (a), the day on which the vesting of the designated assets and liabilities, and the demerger distribution, take effect
   - **Chorus company** means a member of the group of companies comprising ChorusCo and the companies that are, or will be, its subsidiaries immediately following the demerger distribution and the vesting of the designated assets and liabilities
-  - **demerger distribution** means a distribution, or an entitlement to a distribution, to each holder of ordinary shares in Telecom Corporation of New Zealand Limited, where the distribution or entitlement––
+  - **demerger distribution** means a distribution, or an entitlement to a distribution, to each holder of ordinary shares in Telecom Corporation of New Zealand Limited, where the distribution or entitlement—
     (a) arises under the demerger arrangement; and
-    (b) comprises––
+    (b) comprises—
       (i) an amount determined by reference to the value of a holder's entitlement to ordinary shares in ChorusCo:
       (ii) ordinary shares in ChorusCo to which the holder is entitled, or proceeds from the disposal of that holder's entitlement to ordinary shares in ChorusCo
   - **designated assets and liabilities** means assets and liabilities, or parts of assets and liabilities, as the case may be, specified in an Order in Council made under section 46 of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, and and have corresponding meanings
@@ -1390,7 +1390,7 @@ In this subpart, unless the context requires otherwise,––
   - **vesting year** means the income year that includes the appointed day for the vesting of the designated assets and liabilities.
 
 ### 69XN Purpose
-The purpose of this subpart is to ensure that––
+The purpose of this subpart is to ensure that—
   (a) the vesting of the designated assets and liabilities in Chorus does not give rise to tax consequences under the Inland Revenue Acts for Telecom or Chorus that would not have arisen if they were the same person:
   (b) no tax consequences arise under the Inland Revenue Acts on the appointed day for any shareholder of Telecom Corporation of New Zealand Limited or Chorus from the demerger distribution that would not have arisen if the vesting of the designated assets and liabilities and the demerger distribution had not occurred.
 
@@ -1406,25 +1406,25 @@ The purpose of this subpart is to ensure that––
   (a) the vesting of the designated assets and liabilities:
   (b) the demerger distribution:
   (c) a transaction necessary for carrying into effect the vesting of the designated assets and liabilities, or the demerger distribution, if, for that transaction, there is no party other than Chorus companies and Telecom companies.
-(2) The demerger distribution on the appointed day––
+(2) The demerger distribution on the appointed day—
   (a) is not a dividend or other kind of assessable income for the purposes of the Income Tax Act 2007:
   (b) is not a dutiable gift for the purposes of the Estate and Gift Duties Act 1968:
   (c) is, for any relevant Telecom company, a disposition for the cost price of the share, for the purposes of the Income Tax Act 2007.
-(3) For the purposes of the Income Tax Act 2007, a person who receives a demerger distribution by virtue of holding a Telecom Corporation of New Zealand Limited share or shares is treated as––
+(3) For the purposes of the Income Tax Act 2007, a person who receives a demerger distribution by virtue of holding a Telecom Corporation of New Zealand Limited share or shares is treated as—
   (a) acquiring the relevant ChorusCo share or shares at the same time and for the same purposes as the Telecom Corporation of New Zealand Limited share or shares that give rise to that person's entitlement to the demerger distribution:
   (b) having paid the amount given by subsection (4) for the acquisition of the ChorusCo share or shares:
   (c) having paid the amount given by subsection (5) for the acquisition of the Telecom Corporation of New Zealand Limited share or shares.
 (4) For the purposes of subsection (3)﻿(b), the amount paid for the acquisition is calculated using the following formula:The following table contains a formulapre-calculation amount paid× Chorus mvcombined mv
 (5) For the purposes of subsection (3)﻿(c), the amount paid for the acquisition is calculated using the following formula:The following table contains a formulapre-calculation amount paid× Telecom mvcombined mv
-(6) In the formulas in subsections (4) and (5),––
+(6) In the formulas in subsections (4) and (5),—
   (a) pre-calculation amount paid is the person's expenditure or loss incurred in acquiring the relevant Telecom Corporation of New Zealand Limited share or shares, ignoring this section:
   (b) Chorus mv is the market capitalisation of ChorusCo calculated in the manner prescribed in a proposal approved by Order in Council under section 46 of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, or, if none is prescribed, the number of ChorusCo shares on issue immediately following the demerger distribution multiplied by the volume weighted average price of ChorusCo shares as traded on the NZSX over the first 5 trading days commencing on the date of listing of ChorusCo:
   (c) Telecom mv is the market capitalisation of Telecom Corporation of New Zealand Limited calculated in the manner prescribed in a proposal approved by Order in Council under section 46 of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, or, if none is prescribed, the number of Telecom Corporation of New Zealand Limited shares on issue immediately following the demerger distribution multiplied by the volume weighted average price of Telecom Corporation of New Zealand Limited shares as traded on the NZSX over the first 5 trading days commencing on the date of listing of ChorusCo:
   (d) combined mv is the total market capitalisation of ChorusCo and of Telecom Corporation of New Zealand Limited calculated in the manner prescribed in a proposal approved by Order in Council under section 46 of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, or, if none is prescribed, the total of the market capitalisation of ChorusCo and of Telecom Corporation of New Zealand Limited determined in accordance with paragraphs (b) and (c).
-(7) Subsection (8) applies where––
+(7) Subsection (8) applies where—
   (a) an arrangement entered into on or before the appointed day would, but for the demerger distribution, be a returning share transfer or share-lending arrangement in respect of which the original share is a Telecom Corporation of New Zealand Limited share; and
   (b) if, under the relevant arrangement in respect of the Telecom Corporation of New Zealand Limited share, the share user is required to transfer a Telecom Corporation of New Zealand Limited share or shares and a ChorusCo share or shares to the share supplier.
-(8) If subsection (7) applies,––
+(8) If subsection (7) applies,—
   (a) the relevant ChorusCo share or shares are treated as part of the relevant Telecom Corporation of New Zealand Limited share or shares for the purposes of the definitions of identical share, original share, returning share transfer, and share-lending arrangement in the Income Tax Act 2007:
   (b) subsection (3) applies to the share supplier as if the share supplier were the person referred to in that subsection.
 (9) In this section, available subscribed capital, dividend, identical share, original share, returning share transfer, share-lending arrangement, share supplier, and share user have the same meanings as in the Income Tax Act 2007.
@@ -1436,7 +1436,7 @@ The purpose of this subpart is to ensure that––
 (4) In this section, credit note, debit note, input tax, supply, tax, and tax invoice have the same meanings as in the Goods and Services Tax Act 1985.
 
 ### 69XR Prepayments
-(1) For the purposes of the Income Tax Act 2007,––
+(1) For the purposes of the Income Tax Act 2007,—
   (a) for the vesting year, the relevant Telecom company is treated as having an unexpired amount of expenditure under section EA 3 of that Act (the unexpired portion) for expenditure connected with the designated assets and liabilities, calculated by applying section EA 3(4) to (7) of that Act as if the day before the appointed day were the end of an income year:
   (b) the relevant Telecom company has, for the vesting year, income under section CH 2 of that Act for the unexpired portion described in paragraph (a):
   (c) for an income year starting after the appointed day, the relevant Telecom company is not allowed a deduction for the unexpired portion under section DB 50 of that Act, and no part of the unexpired portion is income under section CH 2 of that Act:
@@ -1465,7 +1465,7 @@ The vesting of the designated assets and liabilities in a Chorus company—
 
 ### 69XW Revenue account property
 (1) For the purposes of the Income Tax Act 2007, for a designated asset or liability that is revenue account property (the property), the property is treated as being disposed of by the relevant Telecom company and acquired by the relevant Chorus company for an amount equal to the property's tax book value.
-(2) In this section, tax book value means,––
+(2) In this section, tax book value means,—
   (a) for the property, if it is trading stock or an excepted financial arrangement acquired by the relevant Telecom company before the vesting year, the opening value of the property under section DB 49 of the Income Tax Act 2007 for that Telecom company for the vesting year:
   (b) for the property, if paragraph (a) does not apply, the amount of expenditure or loss for which the relevant Telecom company is allowed a deduction in the vesting year as a result of the disposal.
 (3) In this section, excepted financial arrangement, revenue account property, and trading stock have the same meaning as in the Income Tax Act 2007.
@@ -1477,20 +1477,20 @@ For the purposes of the Income Tax Act 2007, for expenditure that a Telecom comp
   (c) section EJ 10 of that Act applies to the Chorus company for income years after the vesting year as if, in respect of the period up to and including the appointed day, the Telecom company and the Chorus company were the same person.
 
 ### 69XY Finance leases: financial arrangements rules
-(1) For the purposes of the financial arrangements rules as defined in section EW 1(2) of the Income Tax Act 2007, for a finance lease that a Telecom company is party to immediately before the appointed day and vests in a Chorus company on the appointed day,––
+(1) For the purposes of the financial arrangements rules as defined in section EW 1(2) of the Income Tax Act 2007, for a finance lease that a Telecom company is party to immediately before the appointed day and vests in a Chorus company on the appointed day,—
   (a) if the finance lease is an asset of the Telecom company, the Chorus company is treated as paying to the Telecom company an amount of consideration for the finance lease that is equal to the tax book value of the finance lease on the relevant day:
   (b) if the finance lease is a liability of the Telecom company, the Telecom company is treated as paying to the Chorus company an amount of consideration for the finance lease that is equal to the tax book value of the finance lease on the relevant day:
   (c) the Telecom company must calculate, on the relevant day, a base price adjustment under section EW 31 of the Income Tax Act 2007:
   (d) if the Chorus company calculates, on or after the relevant day, a base price adjustment under section EW 31 of that Act, that base price adjustment must be calculated as if, in respect of the period up to and including the relevant day, it and the Telecom company were the same person:
   (e) sections EW 38, EW 42, and GB 21 of that Act do not apply for the vesting.
-(2) In this section,––
+(2) In this section,—
   (a) finance lease has the same meaning as in the Income Tax Act 2007:
   (b) tax book value means, for the relevant day and a finance lease, the value for tax purposes of the finance lease on the relevant day determined consistently with the method used in subpart EW of the Income Tax Act 2007 to calculate and allocate income and expenditure under the finance lease as if the day immediately preceding the relevant day were the last day of an income year.
 
 ### 69XZ Approved issuer levy and administrative status
 (1) For the purposes of the Income Tax Act 2007 and the Stamp and Cheque Duties Act 1971, a transaction or class of transactions registered as a registered security or as registered securities by a Telecom company on or prior to the appointed day is treated as also being registered as a registered security or as registered securities, as the case may be, by the relevant Chorus company. The relevant Chorus company is treated as an approved issuer in respect of the registered security or registered securities, as the case may be.
 (2) The relevant Telecom company and the relevant Chorus company are treated as the same person, for the period prior to and including the appointed day, for the purposes of the making, giving, or receiving of any election, notice, certificate, and filing provided for under the Inland Revenue Acts.
-(3) A Telecom company and the relevant Chorus company are treated as the same person for the purposes of receiving the benefit of––
+(3) A Telecom company and the relevant Chorus company are treated as the same person for the purposes of receiving the benefit of—
   (a) a provisional rate, as defined in section EE 67 of the Income Tax Act 2007:
   (b) a special rate, as defined in section EE 67 of that Act.
 (4) In this section, registered security has the same meaning as in the Income Tax Act 2007.
@@ -2208,7 +2208,7 @@ In this subpart, evidence of authority, in relation to an officer, employee, or 
 **Rights of entry to land in respect of lines**
 
 ### 120 Application to District Court
-(1) If a network operator wishes to enter land for the purpose of constructing, erecting, laying, or maintaining any line, the network operator may apply to a District Court for an order under section 121.
+(1) If a network operator wishes to enter land for the purpose of constructing, erecting, laying, or maintaining any line, the network operator may apply to the District Court for an order under section 121.
 (2) The network operator must give the owner and the occupier of the land at least 10 working days' notice of the operator's intention to apply to the District Court under subsection (1).
 
 ### 121 Court order
@@ -2319,10 +2319,10 @@ If work is urgent and necessary because of any defective equipment, or other eme
 (3) In addition to any fine imposed under subsection (2), a court may make any order relating to compensation that it thinks fit.
 
 ### 141 Appeals by network operators to District Court
-(1) A network operator may appeal to a District Court against all or any of the conditions imposed under section 135(2) by the local authority or other person who has jurisdiction over the road.
+(1) A network operator may appeal to the District Court against all or any of the conditions imposed under section 135(2) by the local authority or other person who has jurisdiction over the road.
 (2) An appeal must be made not later than 45 working days after the date of notification of the conditions imposed or within any further time that the District Court may allow.
-(3) In its determination of any appeal, a District Court may confirm, modify, or cancel any or all of the conditions imposed.
-(4) The decision of a District Court in the determination of an appeal under this section is final.
+(3) In its determination of any appeal, the District Court may confirm, modify, or cancel any or all of the conditions imposed.
+(4) The decision of the District Court in the determination of an appeal under this section is final.
 
 **Telephone cabinets, etc, on roads**
 
@@ -2353,10 +2353,10 @@ If the telephone cabinet or appliance must be placed on a road urgently and it i
 (3) In addition to any fine imposed under subsection (2), a court may make any order relating to compensation that it thinks fit.
 
 ### 147 Appeals by network operators to District Court
-(1) A network operator may appeal to a District Court against all or any of the conditions imposed under section 142(2)﻿(b) by the local authority or other person who has jurisdiction over the road.
+(1) A network operator may appeal to the District Court against all or any of the conditions imposed under section 142(2)﻿(b) by the local authority or other person who has jurisdiction over the road.
 (2) An appeal must be made not later than 45 working days after the date of notification of the conditions imposed or within any further time that the District Court may allow.
-(3) In its determination of any appeal, a District Court may confirm, modify, or cancel any or all of the conditions imposed.
-(4) The decision of a District Court in the determination of an appeal under this section is final.
+(3) In its determination of any appeal, the District Court may confirm, modify, or cancel any or all of the conditions imposed.
+(4) The decision of the District Court in the determination of an appeal under this section is final.
 
 **Local authority, etc, requiring work to be done**
 
@@ -2569,16 +2569,16 @@ Before an FTTP service provider enters, or performs work in, any part of a multi
 
 ### 155L Compliance with rules and binding settlements
 (1) A service provider who is a member of a consumer complaints system must comply with the rules of that system that relate to complaints about access to multi-unit complexes.
-(2) On the application of the consumer complaints adjudicator or other person responsible for a consumer complaints system, a District Court may require a member of the system to do either or both of the following:
+(2) On the application of the consumer complaints adjudicator or other person responsible for a consumer complaints system, the District Court may require a member of the system to do either or both of the following:
   (a) comply with the rules of the system that relate to complaints about access to multi-unit complexes:
   (b) comply with a binding settlement determined by the system in response to a complaint about access to multi-unit complexes.
-(3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court's order under subsection (2)﻿(b) may modify the terms of the binding settlement, but only to the extent that the modification results in a binding settlement that could have been made under the consumer complaints system.
-(4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.
+(3) If the District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court's order under subsection (2)﻿(b) may modify the terms of the binding settlement, but only to the extent that the modification results in a binding settlement that could have been made under the consumer complaints system.
+(4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by the District Court for the payment of a sum of money.
 (5) A reference in this section to a member includes a reference to a person who was a member of the consumer complaints system at the relevant time but is no longer a member at the time of the application or order.
 
 ### 155M Offence to fail to comply with District Court order
 (1) A member or former member of a consumer complaints system who, knowing that the member or former member is subject to an order made under section 155L, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on conviction to a fine not exceeding $100,000.
-(2) Nothing in this section applies to an order or part of an order of a District Court referred to in section 155L(4).
+(2) Nothing in this section applies to an order or part of an order of the District Court referred to in section 155L(4).
 
 ### 156 Notices to be in writing
 [Repealed]
@@ -2968,18 +2968,18 @@ In making a decision about what action to take under section 156B, the Commissio
 (1) The consequence specified in subsection (2) applies if a person—
   (a) is served with a civil infringement notice; and
   (b) fails to pay the whole, or any part, of the pecuniary penalty on or before the later of the time specified in that notice or in the notice under section 156F(1)﻿(c).
-(2) The consequence is that the Commission may recover from the person, as a debt due to the Commission, in a District Court,—
+(2) The consequence is that the Commission may recover from the person, as a debt due to the Commission, in the District Court,—
   (a) the unpaid portion of the pecuniary penalty; and
   (b) the actual and reasonable costs of recovery awarded against the person by that court.
 (3) In any proceedings for the recovery of a debt under this section, the District Court must not enter judgment in favour of the Commission unless it is satisfied that the circumstances referred to in subsection (1) exist.
 
 ### 156I Right to appeal
-(1) A person may appeal to a District Court if the person is dissatisfied with a decision of the Commission to refuse the person's objection to a civil infringement notice.
+(1) A person may appeal to the District Court if the person is dissatisfied with a decision of the Commission to refuse the person's objection to a civil infringement notice.
 (2) An appeal under subsection (1) must be brought within 20 working days after the date on which the notice under section 156F(1)﻿(c) is given.
 (3) An appeal under subsection (1) does not operate as a stay of the civil infringement notice.
 
 ### 156J Decision on appeal
-(1) A District Court must determine an appeal under section 156I by dismissing or allowing the appeal.
+(1) The District Court must determine an appeal under section 156I by dismissing or allowing the appeal.
 (2) If the District Court dismisses an appeal, the dismissal must be taken to be an order for the payment of the pecuniary penalty specified in the civil infringement notice to which the decision under appeal relates.
 (3) If the District Court allows an appeal, it may make an order that the pecuniary penalty specified in the civil infringement notice to which the decision under appeal relates—
   (a) is varied or cancelled; or
