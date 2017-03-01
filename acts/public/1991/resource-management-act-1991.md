@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2016-12-13_
+_Consolidation as at 2017-03-01_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -206,6 +206,7 @@ _Consolidation as at 2016-12-13_
     (b) in a national environmental standard dealing with a regional council function under section 30 or a regional rule, does not include the bed of a lake or river; and
     (c) in a national environmental standard dealing with a territorial authority function under section 31 or a district rule, includes the surface of water in a lake or river
   - **land use consent** has the meaning set out in section 87(a)
+  - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **local authority** means a regional council or territorial authority
   - **local board** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **maataitai** means food resources from the sea and means the areas from which these resources are gathered
@@ -4356,8 +4357,8 @@ If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to
   (c) the High Court Rules 2016 apply if a procedural matter is not dealt with in the sections.
 (4) If the appeal is from a decision of the Environment Court, section 299 applies to the appeal.
 (5) No appeal may be made to the Court of Appeal from a determination of the High Court under this section.
-(6) However, a party may apply to the Supreme Court for leave to bring an appeal to that court against a determination of the High Court and, for this purpose, sections 12 to 15 of the Supreme Court Act 2003 apply with any necessary modifications.
-(7) If the Supreme Court refuses to give leave for an appeal (on the grounds that exceptional circumstances have not been established under section 14 of the Supreme Court Act 2003), but considers that a further appeal from the determination of the High Court is justified, the court may remit the proposed appeal to the Court of Appeal.
+(6) However, a party may apply to the Supreme Court for leave to bring an appeal to that court against a determination of the High Court and, for this purpose, sections 73 to 76 of the Senior Courts Act 2016 apply with any necessary modifications.
+(7) If the Supreme Court refuses to give leave for an appeal (on the grounds that exceptional circumstances have not been established under section 75 of the Senior Courts Act 2016), but considers that a further appeal from the determination of the High Court is justified, the court may remit the proposed appeal to the Court of Appeal.
 (8) No appeal may be made from any appeal determined by the Court of Appeal in accordance with subsection (7).
 (9) Despite any enactment to the contrary,—
   (a) an application for leave for the purposes of subsection (6) must be filed no later than 10 working days after the determination of the High Court; and
@@ -6768,6 +6769,21 @@ The Environment Court shall consist of the following members:
   (a) an Environment Judge who is acting on a full-time basis counts as 1:
   (b) an Environment Judge who is acting on a part-time basis counts as an appropriate fraction of 1:
   (c) the aggregate number (for example, 7.5) must not exceed the maximum number of Environment Judges that is for the time being permitted.
+(5) The Attorney-General must publish information explaining his or her process for—
+  (a) seeking expressions of interest for the appointment of Environment Judges and alternate Environment Judges; and
+  (b) nominating a person for appointment as an Environment Judge or an alternate Environment Judge.
+(6) Environment Judges and alternate Environment Judges must not practise as lawyers.
+
+### 250A Judge not to undertake other employment or hold other office
+(1) Environment Judges and alternate Environment Judges must not undertake any other paid employment or hold any other office (whether paid or not) without the approval of the Principal Environment Judge.
+(2) An approval under subsection (1) may be given only if the Principal Environment Judge is satisfied that undertaking the employment or holding the office is consistent with the Judge's judicial office.
+(3) However, subsection (1) does not apply to another office if an enactment permits or requires the office to be held by a Judge.
+
+### 250B Protocol relating to activities of Judges
+(1) The Chief Justice must develop and publish a protocol containing guidance on—
+  (a) the employment, or types of employment, that he or she considers may be undertaken consistent with being an Environment Judge or alternate Environment Judge; and
+  (b) the offices, or types of offices, that he or she considers may be held consistent with being an Environment Judge or alternate Environment Judge.
+(2) The Chief Justice may develop and publish a protocol under subsection (1) only after consultation with the Principal Environment Judge.
 
 ### 251 Principal Environment Judge
 (1) The Governor-General may, on the recommendation of the Attorney-General, appoint an Environment Judge as the Principal Environment Judge.
@@ -6844,7 +6860,7 @@ An Environment Judge, alternate Environment Judge, Environment Commissioner, or 
 
 ### 261 Protection from legal proceedings
 (1) No action lies against any member of the Environment Court for anything they say, do, or omit to say or do, while acting in good faith in the performance of their duties.
-(2) In addition, a member of the Environment Court who is a District Court Judge also has the immunities conferred by section 119 of the District Courts Act 1947 (which confers on District Court Judges, at all times, the same immunities as a Judge of the High Court).
+(2) In addition, a member of the Environment Court who is a District Court Judge also has the immunities conferred by section 23 of the District Court Act 2016 (which confers on District Court Judges, at all times, the same immunities as a Judge of the High Court).
 (3) No action lies against the Registrar for anything the Registrar says or does, or omits to say or do, while acting in good faith under section 278(3), section 281(5), or section 281A.
 
 ### 262 Environment Court members who are ratepayers
@@ -6991,9 +7007,9 @@ A copy of, or extract from, a policy statement or plan, certified to be a true c
   (a) order that any evidence be heard in private:
   (b) prohibit or restrict the publication of any evidence—
 
-### 278 Environment Court has powers of a District Court
-(1) The Environment Court and Environment Judges have the same powers that a District Court has in the exercise of its civil jurisdiction, including, without limitation, the power to commission a report from an independent expert on any matter raised in an appeal, as provided for by rules 342 to 348 of the District Courts Rules 1992.
-(1A) Despite rule 346 of the District Courts Rules 1992, an independent expert from whom a report is commissioned under subsection (1) must be available to be cross-examined by any party.
+### 278 Environment Court has powers of District Court
+(1) The Environment Court and Environment Judges have the same powers that the District Court has in the exercise of its civil jurisdiction, including, without limitation, the power to commission a report from an independent expert on any matter raised in an appeal, as provided for by subpart 4 of Part 9 of the District Court Rules 2014.
+(1A) Despite rule 9.31 of the District Court Rules 2014, an independent expert from whom a report is commissioned under subsection (1) must be available to be cross-examined by any party.
 (2) An application for an order for discovery or production of documents may be made only with the leave of an Environment Judge.
 (3) If the Registrar is directed to do so by an Environment Judge, the Registrar may act on behalf of the Environment Court or an Environment Judge in doing any act preliminary or incidental to any proceedings, including—
   (a) the issuing of summonses requiring the attendance of witnesses; and
@@ -7070,25 +7086,30 @@ A copy of, or extract from, a policy statement or plan, certified to be a true c
 (2) The application must be by notice to the Registrar and other persons affected, within 10 working days after the Registrar's determination or action.
 (3) The Environment Judge may confirm, modify, or reverse the decision of the Registrar.
 
-### 282 Power to commit for contempt
-(1) If any person—any officer of the court, with or without the assistance of any constable or other person, may, in accordance with an order given by a member of the court, take the person into custody and detain him or her for a period expiring not later than 1 hour following the rising of the court, and an Environment Judge, may, if he or she thinks fit, by warrant under his or her hand, commit the person to prison for any period not exceeding 10 days or impose a fine not exceeding $1,500.
-  (a) wilfully insults, assaults, threatens, or intimidates the court or any member of it or any special advisor to or officer of the court, during a sitting of the court, or in going to or returning from any sitting; or
-  (b) wilfully interrupts the proceedings of the court or otherwise misbehaves while the court is sitting; or
-  (c) wilfully and without lawful excuse disobeys an order or direction of a member of the court in the course of any proceedings before the court—
-(2) A warrant under subsection (1) may be filed in any District Court and shall then be enforceable as an order made by that court.
+### 282 Contempt of court
+(1) This section applies if any person—
+  (a) wilfully insults an Environment Judge, an alternate Environment Judge, an Environment Commissioner, a Registrar of the court, any other officer of the court, any special adviser to the court, or any witness during his or her sitting or attendance in court, or in going to or returning from the court; or
+  (b) wilfully interrupts the proceedings of the court or otherwise misbehaves in court; or
+  (c) wilfully and without lawful excuse disobeys any order or direction of the court in the course of any proceedings.
+(2) If this section applies,—
+  (a) any constable or officer of the court, with or without the assistance of any other person, may, by order of an Environment Judge, take the person into custody and detain him or her until the rising of the court; and
+  (b) the Environment Judge may, if he or she thinks fit, sentence the person to—
+    (i) imprisonment for a period not exceeding 3 months; or
+    (ii) a fine not exceeding $1,000 for each offence.
+(3) Nothing in this section limits or affects any power or authority of the court to punish any person for contempt of court in any case to which this section does not apply.
 
 ### 283 Non-attendance or refusal to co-operate
 (1) Except as provided in subsection (2), no person shall, without reasonable cause—
   (a) fail to appear in accordance with a summons issued by an Environment Judge or an Environment Commissioner, or fail to produce anything that he or she is required to produce by such a summons; or
   (b) refuse to be sworn or give evidence at proceedings before the court; or
   (c) refuse to answer any questions put by a member of the court during proceedings before the court.
-(2) A person need not comply with subsection (1) if he or she was not given travelling expenses in accordance with the scale for witnesses in civil cases under the District Courts Act 1947 either—
+(2) A person need not comply with subsection (1) if he or she was not given travelling expenses in accordance with the scale for witnesses in civil cases under the District Court Act 2016 either—
   (a) at the time the summons was served; or
   (b) at some reasonable time before the hearing.
 
 ### 284 Witnesses' allowances
 (1) A witness attending the Environment Court in accordance with a summons is entitled to be paid, by the party requiring his or her attendance, expenses for travelling and maintenance while absent from his or her usual residence.
-(2) Payment of expenses shall be made in accordance with the scale of allowances for witnesses in civil cases under the District Courts Act 1947.
+(2) Payment of expenses shall be made in accordance with the scale of allowances for witnesses in civil cases under the District Court Act 2016.
 (3) When a witness is called or evidence is obtained by the court, the court may direct that the expenses incurred—
   (a) form part of the costs of the proceedings; or
   (b) be paid from money appropriated by Parliament for the purpose.
@@ -7111,7 +7132,7 @@ A copy of, or extract from, a policy statement or plan, certified to be a true c
 (8) In deciding whether to make an order under subsection (7), the court must apply a presumption that such costs are to be ordered against the applicant.
 
 ### 286 Enforcing orders for costs
-An order for costs made by the Environment Court may be filed in the District Court of the district named in the order and then becomes enforceable as a judgment of the District Court in its civil jurisdiction.
+An order for costs made by the Environment Court may be filed in the District Court at the office of the court named in the order and then becomes enforceable as a judgment of the District Court in its civil jurisdiction.
 
 ### 287 Reference of questions of law to High Court
 (1) The Environment Court may, in any proceedings before it, state a case for the opinion of the High Court on any question of law that arises in those proceedings; and for that purpose may either conclude the proceedings subject to that opinion, or adjourn them until after that opinion has been given.
@@ -7121,7 +7142,47 @@ An order for costs made by the Environment Court may be filed in the District Co
 (5) For the purposes of this section, the appropriate registry of the High Court is the office of the High Court nearest to the place where the appeal, inquiry, or other proceedings was or is being conducted.
 
 ### 288 Privileges and immunities
-Witnesses and counsel appearing before the Environment Court have the same privileges and immunities as they have when they appear in the same capacity in proceedings in a District Court.
+Witnesses and counsel appearing before the Environment Court have the same privileges and immunities as they have when they appear in the same capacity in proceedings in the District Court.
+
+### 288A Information regarding reserved judgments
+The Principal Environment Judge must, in consultation with the Chief Justice,—
+  (a) publish information about the process by which parties to proceedings before the court may obtain information about the status of any reserved judgment in those proceedings; and
+  (b) periodically publish information about the number of judgments of the court that he or she considers are outstanding beyond a reasonable time for delivery; and
+  (c) publish information about reserved judgments that he or she considers is useful.
+
+### 288B Recusal guidelines
+The Principal Environment Judge must, in consultation with the Chief Justice, develop and publish guidelines to assist Judges to decide if they should recuse themselves from a proceeding.
+
+### 288C Judge may make order restricting commencement or continuation of proceeding
+(1) A Judge may make an order restricting a person from commencing or continuing civil proceedings in the Environment Court.
+(2) The order may have—
+  (a) a limited effect (a limited order); or
+  (b) an extended effect (an extended order).
+(3) A limited order restrains a party from continuing or commencing civil proceedings on a particular matter in the Environment Court.
+(4) An extended order restrains a party from continuing or commencing civil proceedings on a particular or related matter in the Environment Court.
+(5) Nothing in this section limits the court’s inherent power to control its own proceedings.
+
+### 288D Grounds for making section 288C order
+(1) A Judge may make a limited order under section 288C if, in proceedings about the same matter in the court, the Judge considers that at least 2 or more of the proceedings are or were totally without merit.
+(2) A Judge may make an extended order under section 288C if, in at least 2 proceedings about any matter considered by the court, the Judge considers that the proceedings are or were totally without merit.
+(3) In determining whether the proceedings are or were totally without merit, the Judge may take into account the nature of any other interlocutory application, appeals, or criminal prosecutions involving the party to be restrained, but is not limited to those considerations.
+(4) The proceedings concerned must be proceedings commenced or continued by the party to be restrained, whether against the same person or different persons.
+(5) For the purpose of this section and sections 288E and 288F, an appeal in a civil proceeding must be treated as part of that proceeding and not as a distinct proceeding.
+
+### 288E Terms of section 288C order
+(1) An order made under section 288C may restrain a party from commencing or continuing any civil proceeding (whether generally or against any particular person or persons) of any type specified in the order without first obtaining the leave of the court.
+(2) An order made under section 288C, whether limited or extended, has effect for a period of up to 3 years as specified by the Judge, but the Judge making it may specify a longer period (which must not exceed 5 years) if he or she is satisfied that there are exceptional circumstances justifying the longer period.
+
+### 288F Procedure and appeals relating to section 288C orders
+(1) A party to any proceeding may apply for a limited order or an extended order.
+(2) A Judge may make an order under section 288C (a section 288C order) either on an application under subsection (1) or on his or her own initiative.
+(3) An application for leave to continue or commence a civil proceeding by a party subject to a section 288C order may be made without notice, but the court may direct that the application for leave be served on any specified person.
+(4) An application for leave must be determined on the papers, unless the Judge considers that an oral hearing should be conducted because there are exceptional circumstances and it is appropriate to do so in the interests of justice.
+(5) A Judge’s determination of an application for leave is final.
+(6) A section 288C order does not prevent or affect the commencement of a private criminal prosecution in any case.
+(7) The party against whom a section 288C order is made may appeal against the order to the High Court.
+(8) The appellant in an appeal under subsection (7) or the applicant for the section 288C order concerned may, with the leave of the High Court, appeal against the determination of that appeal to the Court of Appeal.
+(9) A court determining an appeal under this section has the same powers as the court appealed from has to determine an application or appeal, as the case may be.
 
 **Appeals, inquiries, and other proceedings before Environment Court**
 
@@ -7198,7 +7259,7 @@ A decision of the Environment Court under this Act, or another Act, or regulatio
 
 ### 296 No review of decisions unless right of appeal or reference to inquiry exercised
 If there is a right to refer any matter for inquiry to the Environment Court or to appeal to the court against a decision of a local authority, consent authority or any person under this Act or under any other Act or regulation—unless the right has been exercised by the applicant in the proceedings and the court has made a decision.
-  (a) no application for review under Part 1 of the Judicature Amendment Act 1972 may be made; and
+  (a) no application for review under the Judicial Review Procedure Act 2016 may be made; and
   (b) no proceedings seeking a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision, may be heard by the High Court—
 
 ### 297 Decisions of court to be in writing
@@ -7813,7 +7874,7 @@ Every abatement notice shall be in the prescribed form and shall state—
   (a) is convicted of an offence against section 338 in respect of any contravention of section 15A or section 15B or section 15C; and
   (b) fails to pay the full amount of any fine or other monetary penalty imposed by the court under section 339 or section 339B,—
 (3) Every agent of a ship who, under this section, pays the whole or part of any fine or other monetary penalty imposed on the master or owner of the ship shall be entitled to recover the amount so paid from that master or owner as a debt or deduct that amount out of or from any money which is or becomes payable by that agent to that master or owner; and any amount so paid by the agent shall, for the purposes of section 4(1)﻿(p) of the Admiralty Act 1973, be deemed to be a disbursement made on account of the ship.
-(4) Any District Court shall have jurisdiction to hear and determine proceedings for the recovery, in accordance with this section, of any money from any agent or master or owner of a ship whatever the amount of money involved.
+(4) The District Court has jurisdiction to hear and determine proceedings for the recovery, in accordance with this section, of any money from any agent or master or owner of a ship whatever the amount of money involved.
 (5) This section shall apply notwithstanding any enactment or rule of law.
 
 ### 340 Liability of principal for acts of agents
@@ -7945,6 +8006,7 @@ A local authority shall be entitled to retain all infringement fees received by 
   (f) by sending it to the fax number that the person has specified as an address for service; or
   (g) by sending it to the email address that the person has specified as an address for service; or
   (h) by serving it in the manner that the Environment Court directs in the particular case.
+(1A) Nothing in subsection (1) overrides the provisions of the Electronic Courts and Tribunals Act 2016.
 (2) Where a notice or other document is to be served on a Minister of the Crown for the purposes of this Act, service on the chief executive of the appropriate department of the Public Service in accordance with subsection (1) shall be deemed to be service on the Minister.
 (3) Where a notice or other document is to be served on a body (whether incorporated or not) for the purposes of this Act, service on an officer of the body, or on the registered office of the body, in accordance with subsection (1) shall be deemed to be service on the body.
 (4) Where a notice or other document is to be served on a partnership for the purposes of this Act, service on any one of the partners in accordance with subsections (1) and (3) shall be deemed to be service on the partnership.
@@ -7964,7 +8026,7 @@ A local authority shall be entitled to retain all infringement fees received by 
   (a) where service is effected in accordance with subsection (1)﻿(a), the time when the summons or other document is personally delivered to the agent of the ship or brought to that agent's attention, as the case may be; or
   (b) where service is effected in accordance with subsection (1)﻿(b), the time when the letter would have been delivered to the agent of the ship in the ordinary course of post.
 (4) In this section,—
-  - **District Court Judge** means a District Court Judge appointed under the District Courts Act 1947
+  - **District Court Judge** means a District Court Judge appointed under the District Court Act 2016
   - **Justice** has the same meaning as in section 2 of the Justice of the Peace Act 1957
   - **Registrar** has the same meaning as in section 2(1) of the Criminal Procedure Act 2011.
 
@@ -8496,7 +8558,7 @@ Every permission—shall be deemed to be a land use consent granted under this A
   (d) any other matter the Minister considers appropriate—
 (6) Before making any determination under subsection (5), the Minister of Transport shall consult with the Minister of Conservation, the appropriate regional council, any territorial authority having jurisdiction in the area adjacent to the coastal marine area concerned, and the port company.
 (7) The Minister of Transport shall approve the draft coastal permit and any plan, with or without modification, but the proposed expiry date shall not be altered.
-(8) The Minister of Transport's decision, which shall be a coastal permit, shall be sent to the Minister of Conservation, the appropriate regional council, territorial authority, and port company before 31 March 1994; and that decision shall be final unless an application for review under Part 1 of the Judicature Amendment Act 1972, or proceedings seeking a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision, is made.
+(8) The Minister of Transport's decision, which shall be a coastal permit, shall be sent to the Minister of Conservation, the appropriate regional council, territorial authority, and port company before 31 March 1994; and that decision shall be final unless an application for review under the Judicial Review Procedure Act 2016, or proceedings seeking a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision, is made.
 (9) The appropriate regional council shall ensure that a record of the coastal permit, as decided by the Minister of Transport, is available to the public as required under section 35.
 (10) Where—the consent authority shall, notwithstanding any other provision, adjourn any consideration or hearing of the application until the Minister of Transport has sent his or her decision:
   (a) a regional council receives an application from any person, except a port company; and
