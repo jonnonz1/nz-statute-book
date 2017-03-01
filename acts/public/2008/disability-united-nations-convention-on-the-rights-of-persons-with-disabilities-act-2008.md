@@ -1,5 +1,5 @@
 # Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008
-_Consolidation as at 2008-09-09_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008.
@@ -19,17 +19,17 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 4 Amendments to Education Act 1989
 (1) This section amends the Education Act 1989.
-(2) Section 103(1)(b) is repealed.
+(2) Section 103(1)﻿(b) is repealed.
 (3) Section 104 is amended by inserting the following subsection after subsection (1):
   (1A) If a property order is made in respect of a trustee under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders),—
-    (a) subsection (1)(d) does not apply to the trustee by virtue only of the making of that order; but
+    (a) subsection (1)﻿(d) does not apply to the trustee by virtue only of the making of that order; but
     (b) while the order remains in force, the trustee is deemed to have been granted leave of absence by the Board and is not capable of acting as a trustee during that period.
-(4) Section 171(6) is amended by repealing paragraph (b) and substituting the following paragraphs:.
+(4) Section 171(6) is amended by repealing paragraph (b) and substituting the following paragraphs:
   (b) the person is subject to a property order under the Protection of Personal and Property Rights Act 1988; or
   (ba) the person is a person in respect of whom a personal order has been made under that Act that reflects adversely on his or her—
     (i) competence to manage his or her own affairs in relation to his or her property; or
     (ii) capacity to make or to communicate decisions relating to any particular aspect or aspects of his or her personal care and welfare; or
-(5) Section 174(3) is amended by repealing paragraph (b) and substituting the following paragraphs:.
+(5) Section 174(3) is amended by repealing paragraph (b) and substituting the following paragraphs:
   (b) becomes subject to a property order under the Protection of Personal and Property Rights Act 1988 (other than an order under section 30 of that Act); or
   (ba) becomes subject to a personal order under that Act that reflects adversely on his or her—
     (i) competence to manage his or her own affairs in relation to his or her property; or
@@ -47,20 +47,20 @@ This Act comes into force on the day after the date on which it receives the Roy
 ### 5 Amendments to Juries Act 1981
 (1) This section amends the Juries Act 1981.
 (2) The definition of physical disability in section 2 is repealed.
-(3) Section 2 is amended by inserting the following definition in its appropriate alphabetical order:.
+(3) Section 2 is amended by inserting the following definition in its appropriate alphabetical order:
   - **disability** includes visual or aural impairment
 (4) Section 8(i) is repealed.
-(5) Section 15(1)(aa) is amended by omitting physical.
+(5) Section 15(1)﻿(aa) is amended by omitting physical.
 (6) The heading to section 16AA is amended by omitting physical.
 (7) Section 16AA(1) is amended by omitting physical.
-(8) Section 22(1)(b) is amended by omitting physical.
-(9) Section 25(1)(b) is amended by omitting physical.
+(8) Section 22(1)﻿(b) is amended by omitting physical.
+(9) Section 25(1)﻿(b) is amended by omitting physical.
 
 **Amendments to Juries Amendment Act 2008**
 
 ### 6 Amendments to Juries Amendment Act 2008
 (1) This section amends the Juries Amendment Act 2008.
-(2) Section 11(1) is amended by omitting physical from new section 14B(3)(b) of the Juries Act 1981.
+(2) Section 11(1) is amended by omitting physical from new section 14B(3)﻿(b) of the Juries Act 1981.
 (3) The heading to section 13 is amended by omitting physical.
 (4) Section 13(2) is amended by omitting physical.
 
@@ -73,15 +73,15 @@ This Act comes into force on the day after the date on which it receives the Roy
   (2) If subclause (1) applies,—
     (a) the person is deemed to have been granted leave of absence and is not capable of acting as a member during the period of suspension; and
     (b) the person may not do an act as a member while on leave of absence under paragraph (a).
-(3) Clause 5(1) of Schedule 7 is amended by repealing paragraph (b) and substituting the following paragraph:.
+(3) Clause 5(1) of Schedule 7 is amended by repealing paragraph (b) and substituting the following paragraph:
   (b) becomes subject to a property order made under section 31 of the Protection of Personal and Property Rights Act 1988; or
-(4) The amendments made by subsections (2) and (3) do not limit the power of a District Court under clause 2 of Schedule 7 of the Local Government Act 2002.
+(4) The amendments made by subsections (2) and (3) do not limit the power of the District Court under clause 2 of Schedule 7 of the Local Government Act 2002.
 
 **Amendment to Maori Trust Boards Act 1955**
 
 ### 8 Amendment to Maori Trust Boards Act 1955
 (1) This section amends the Maori Trust Boards Act 1955.
-(2) Section 14(3) is amended by repealing paragraph (a) and substituting the following paragraph:.
+(2) Section 14(3) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) a person who is subject to a personal order or a property order made under the Protection of Personal and Property Rights Act 1988 or for whom a trustee corporation is acting as manager under section 32 or 33 of that Act; or
 
 **Amendments to Maritime Transport Act 1994**
@@ -90,7 +90,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 (1) This section amends the Maritime Transport Act 1994.
 (2) Clause 4(b) of Schedule 2 is amended by omitting ; or and substituting ,—.
 (3) Clause 4(c) of Schedule 2 is repealed.
-(4) Schedule 2 is amended by inserting the following clause after clause 4:For the purposes of clause 4, disability has the meaning given by section 21(1)(h) of the Human Rights Act 1993.
+(4) Schedule 2 is amended by inserting the following clause after clause 4:For the purposes of clause 4, disability has the meaning given by section 21(1)﻿(h) of the Human Rights Act 1993.
 
 **Amendments to Motor Vehicle Sales Act 2003**
 
@@ -98,13 +98,13 @@ This Act comes into force on the day after the date on which it receives the Roy
 (1) This section amends the Motor Vehicle Sales Act 2003.
 (2) Section 24(l) is repealed.
 (3) Section 42 is amended by inserting the following subsection after subsection (1):
-  (1A) Subsection (1)(c) does not apply in respect of a motor vehicle trader who is disqualified from registration by virtue only of the making of a property order under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders).
+  (1A) Subsection (1)﻿(c) does not apply in respect of a motor vehicle trader who is disqualified from registration by virtue only of the making of a property order under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders).
 
 **Amendments to Mutual Insurance Act 1955**
 
 ### 11 Amendments to Mutual Insurance Act 1955
 (1) This section amends the Mutual Insurance Act 1955.
-(2) Section 30(10)(d) is amended by—
+(2) Section 30(10)﻿(d) is amended by—
   (a) omitting a mentally disordered person within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or becomes; and
   (b) inserting (other than an order under section 30 of that Act) after 1988.
 (3) Section 30 is amended by inserting the following subsection after subsection (10):
@@ -116,19 +116,19 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 12 Amendments to New Zealand Council for Educational Research Act 1972
 (1) This section amends the New Zealand Council for Educational Research Act 1972.
-(2) Section 5 is amended by repealing paragraph (a) and substituting the following paragraph:.
+(2) Section 5 is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) a person who is subject to a property order made under section 30 or 31 of the Protection of Personal and Property Rights Act 1988:
 (3) Section 7 is amended by inserting the following subsection after subsection (1):
   (1A) If a property order is made in respect of a member under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders),—
-    (a) subsection (1)(c) does not apply to the member by virtue only of the making of that order; but
+    (a) subsection (1)﻿(c) does not apply to the member by virtue only of the making of that order; but
     (b) while the order remains in force, the member is deemed to have been granted leave of absence and is not capable of acting as a member during that period.
 
 **Amendments to New Zealand Superannuation and Retirement Income Act 2001**
 
 ### 13 Amendments to New Zealand Superannuation and Retirement Income Act 2001
 (1) This section amends the New Zealand Superannuation and Retirement Income Act 2001.
-(2) Section 19(6)(a) is amended by omitting ; or.
-(3) Section 19(6)(b) is repealed.
+(2) Section 19(6)﻿(a) is amended by omitting ; or.
+(3) Section 19(6)﻿(b) is repealed.
 
 **Amendments to Public Trust Act 2001**
 
@@ -143,16 +143,16 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 15 Amendments to Reserve Bank of New Zealand Act 1989
 (1) This section amends the Reserve Bank of New Zealand Act 1989.
-(2) Section 46(1)(j) is amended by omitting ; or.
-(3) Section 46(1)(k) is repealed.
+(2) Section 46(1)﻿(j) is amended by omitting ; or.
+(3) Section 46(1)﻿(k) is repealed.
 (4) Section 58(i) is repealed.
 
 **Amendments to River Boards Act 1908**
 
 ### 16 Amendments to River Boards Act 1908
 (1) This section amends the River Boards Act 1908.
-(2) Section 29(1)(b) is repealed.
-(3) Section 29(2) is amended by omitting subsection (1)(a) and substituting subsection (1).
+(2) Section 29(1)﻿(b) is repealed.
+(3) Section 29(2) is amended by omitting subsection (1)﻿(a) and substituting subsection (1).
 
 **Amendments to Sale of Liquor Act 1989**
 
@@ -162,7 +162,7 @@ This Act comes into force on the day after the date on which it receives the Roy
   (e) a person who is subject to a property order made under section 30 or 31 of the Protection of Personal and Property Rights Act 1988.
 (3) Section 201 is amended by adding the following subsection as subsection (2):
   (2) If a property order is made in respect of a member under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders),—
-    (a) subsection (1)(d) does not apply to the member by virtue only of the making of that order; but
+    (a) subsection (1)﻿(d) does not apply to the member by virtue only of the making of that order; but
     (b) while the order remains in force, the member is deemed to have been granted leave of absence and is not capable of acting as a member of the licensing trust during that period.
 (4) Section 219V is amended by inserting the following subsection after subsection (4):
   (4A) If a property order is made in respect of a trustee under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders),—
@@ -174,8 +174,8 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 18 Amendments to Social Security Act 1964
 (1) This section amends the Social Security Act 1964.
-(2) Section 75(4)(a) is amended by omitting ; or.
-(3) Section 75(4)(b) is repealed.
+(2) Section 75(4)﻿(a) is amended by omitting ; or.
+(3) Section 75(4)﻿(b) is repealed.
 
 **Amendments to Soil Conservation and Rivers Control Act 1941**
 
@@ -183,18 +183,18 @@ This Act comes into force on the day after the date on which it receives the Roy
 (1) This section amends the Soil Conservation and Rivers Control Act 1941.
 (2) Section 54 is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) any person who is subject to a property order made under section 30 or 31 of the Protection of Personal and Property Rights Act 1988.
-(3) Section 55(1) is amended by repealing paragraph (c) and substituting the following paragraph:.
+(3) Section 55(1) is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) is or becomes, due to disability, unable to carry out his or her duties as a member; or
 (4) Section 55 is amended by adding the following subsection:
   (4) For the purposes of subsection (1)—
-    (a) disability has the meaning given by section 21(1)(h) of the Human Rights Act 1993; and
-    (b) a person who becomes subject to a property order made under section 31 of the Protection of Personal and Property Rights Act 1988 is to be treated as falling within subsection (1)(c) (whether or not the person has a disability).
+    (a) disability has the meaning given by section 21(1)﻿(h) of the Human Rights Act 1993; and
+    (b) a person who becomes subject to a property order made under section 31 of the Protection of Personal and Property Rights Act 1988 is to be treated as falling within subsection (1)﻿(c) (whether or not the person has a disability).
 
 **Amendment to Taranaki Scholarships Trust Board Act 1957**
 
 ### 20 Amendment to Taranaki Scholarships Trust Board Act 1957
 (1) This section amends the Taranaki Scholarships Trust Board Act 1957.
-(2) Section 5(1) is amended by repealing paragraph (d) and substituting the following paragraph:.
+(2) Section 5(1) is amended by repealing paragraph (d) and substituting the following paragraph:
   (d) becomes subject to a property order made under section 31 of the Protection of Personal and Property Rights Act 1988 or becomes a person for whom a trustee corporation is acting as manager under section 32 or 33 of that Act; or
 
 **Amendments to Te Ture Whenua Maori Act 1993**
@@ -202,7 +202,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 ### 21 Amendments to Te Ture Whenua Maori Act 1993
 (1) This section amends Te Ture Whenua Maori Act 1993.
 (2) The definition of person under disability in section 210 is amended by repealing paragraph (b).
-(3) Section 272(2) is amended by repealing paragraph (a) and substituting the following paragraph:.
+(3) Section 272(2) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) a person who is subject to a personal order or a property order made under the Protection of Personal and Property Rights Act 1988 or for whom a trustee corporation is acting as manager under section 32 or 33 of that Act; or
 (4) Section 272 is amended by adding the following subsections:
   (3) However, if a property order is made in respect of a member of a committee of management under section 30 of the Protection of Personal and Property Rights Act 1988,—
@@ -217,14 +217,14 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 22 Amendment to Trustee Act 1956
 (1) This section amends the Trustee Act 1956.
-(2) The first proviso to section 15(1)(j) is amended by omitting of full age and full mental capacity.
+(2) The first proviso to section 15(1)﻿(j) is amended by omitting of full age and full mental capacity.
 
 **Amendments to Waitangi National Trust Board Act 1932**
 
 ### 23 Amendments to Waitangi National Trust Board Act 1932
 (1) This section amends the Waitangi National Trust Board Act 1932.
 (2) Section 4 is amended by adding the following subsection as subsection (2):
-  (2) However, the deed or declaration of trust has effect for these purposes as if, in place of paragraph (c) of clause 8, there were substituted the following paragraph:.
+  (2) However, the deed or declaration of trust has effect for these purposes as if, in place of paragraph (c) of clause 8, there were substituted the following paragraph:
     (c) become subject to a property order made under section 31 of the Protection of Personal and Property Rights Act 1988; or
 
 ## Part 2 — Amendments to Regulations
@@ -241,13 +241,13 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 25 Amendments to Freshwater Fish Farming Regulations 1983
 (1) This section amends the Freshwater Fish Farming Regulations 1983.
-(2) Regulation 12(1) is amended by revoking paragraphs (c) and (d) and substituting the following paragraph:.
+(2) Regulation 12(1) is amended by revoking paragraphs (c) and (d) and substituting the following paragraph:
   (c) the manager under any of sections 30 to 33 of the Protection of Personal and Property Rights Act 1988 of the property of a licensee (or of part of it, if the licence relates to that part); or
-(3) Regulation 13(1) is amended by revoking paragraphs (b) and (c) and substituting the following paragraph:.
+(3) Regulation 13(1) is amended by revoking paragraphs (b) and (c) and substituting the following paragraph:
   (b) the manager under any of sections 30 to 33 of the Protection of Personal and Property Rights Act 1988 of the property of a licensee (or of part of it, if the licence relates to that part); or
 
 **Amendment to Weights and Measures Regulations 1999**
 
 ### 26 Amendment to Weights and Measures Regulations 1999
 (1) This section amends the Weights and Measures Regulations 1999.
-(2) Regulation 17(1)(b)(iv) is revoked.
+(2) Regulation 17(1)﻿(b)﻿(iv) is revoked.
