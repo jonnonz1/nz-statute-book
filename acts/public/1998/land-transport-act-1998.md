@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-03-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -53,7 +53,7 @@ _Consolidation as at 2016-12-17_
   - **Commissioner** means the Commissioner of Police
   - **compulsory impairment test** means a test, carried out in a manner prescribed by the Minister of Police by notice in the Gazette, to determine whether a person’s capacity to drive is impaired
   - **control** , in relation to a transport service or a proposed or approved taxi organisation, means direct or indirect control of the management of the whole or part of the transport service or taxi organisation by a shareholding or the holding of any position (however described) in the management of the whole or part of the transport service or taxi organisation that gives the person a significant influence on the operation of the whole or part of the service or organisation (whether or not other persons are also involved)
-  - **court** means a District Court
+  - **court** means the District Court
   - **cruising** means driving repeatedly in the same direction over the same section of a road in a motor vehicle in a manner that—
     (a) draws attention to the power or sound of the engine of the motor vehicle being driven; or
     (b) creates a convoy that—
@@ -303,7 +303,7 @@ _Consolidation as at 2016-12-17_
   - **regional council** means a regional council within the meaning of the Local Government Act 2002
   - **register of motor vehicles** means the register continued and maintained under section 234
   - **registered** , in relation to a vehicle, means registered under Part 17
-  - **Registrar** , in relation to the execution of a warrant of confiscation, means any Registrar of the High Court or of a District Court, as the case may require, and includes a Deputy Registrar
+  - **Registrar** , in relation to the execution of a warrant of confiscation, means any Registrar of the High Court or of the District Court, as the case may require, and includes a Deputy Registrar
   - **the regulations** means regulations made under this Act and the regulations referred to in section 218
   - **rental service** means the letting of a motor vehicle on hire for the carriage of passengers (including the driver) or of goods, or both, to a person who drives the vehicle or provides a driver for the vehicle; but does not include—
     (a) the letting of a motor vehicle under a hire purchase agreement or a bailment that is for a period exceeding 6 months; or
@@ -945,7 +945,7 @@ Despite section 28(1)﻿(g) and (4), the date of issue of a driver licence conti
   (b) a person appointed by the Agency; or
   (c) a constable.
 (4B) A person on whom a driver licence stop order is imposed must,—
-  (a) if the order is served in a way other than that described in section 91B(1)﻿(a), deliver or post his or her driver licence to an employee or agent of the Ministry of Justice at an office of that Ministry or at a District Court:
+  (a) if the order is served in a way other than that described in section 91B(1)﻿(a), deliver or post his or her driver licence to an employee or agent of the Ministry of Justice at an office of that Ministry or at the District Court:
   (b) if the order is served in the way described in section 91B(1)﻿(a), surrender his or her driver licence to the employee or agent of the Ministry of Justice, or to the enforcement officer, who serves the order.
 (5) The Agency must, subject to sections 82A, 83, and 105(6A) and as soon as practicable after being satisfied that a person is entitled to apply for and be granted a driver licence,—
   (a) issue a new driver licence to the person when the disqualification or suspension expires or is removed; or
@@ -2459,7 +2459,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (c) that the order will stay in effect until the defendant's obligation to pay the traffic fine is discharged by payment in full or remission in full, or until it is resolved; and
   (d) that, immediately after the order takes effect, any driver licence held by the defendant, including any limited licence issued under section 105, is suspended until the driver licence stop order is cancelled in accordance with section 91G or terminated in accordance with section 91H; and
   (e) that if the order is served personally by an employee or agent of the Ministry of Justice or by an enforcement officer, the defendant must surrender any driver licence held by the defendant to that employee or agent or to that enforcement officer; and
-  (f) that if the order is served, but is not served personally, the defendant must post or deliver any driver licence held by the defendant to an employee or agent of the Ministry of Justice at an office of that Ministry or at a District Court; and
+  (f) that if the order is served, but is not served personally, the defendant must post or deliver any driver licence held by the defendant to an employee or agent of the Ministry of Justice at an office of that Ministry or at the District Court; and
   (g) if the defendant does not hold a current driver licence when the order takes effect, that—
     (i) the defendant is disqualified from holding or obtaining a driver licence (including any limited licence) until the driver licence stop order is cancelled in accordance with section 91G or terminated in accordance with section 91H; and
     (ii) if the defendant is authorised to obtain a limited licence, the limited licence may not be issued by the Agency until the driver licence stop order is so cancelled or terminated.
@@ -2586,7 +2586,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 (1) A Police employee holding the office of constable and who is of or above the position of inspector may, after giving notice in writing to the person whose driver licence has been suspended, apply to a District Court Judge for an order extending the 28-day suspension period referred to in section 95(2)﻿(b).
 (2) An application must specify the circumstances that make it necessary to extend the 28-day suspension period.
 (3) The maximum number of applications that may be made under this section in respect of a suspended driver licence is 3.
-(4) A District Court may order that the driver licence be suspended for a further period not exceeding 28 days.
+(4) The District Court may order that the driver licence be suspended for a further period not exceeding 28 days.
 (5) A person whose driver licence has been suspended for a further period not exceeding 28 days by an order made under subsection (4) may appeal to the High Court against that order.
 (6) The High Court may confirm, reverse, or modify the order appealed against.
 (7) Every order appealed against under this section continues in force pending the determination of the appeal, and no person is excused from complying with any of the provisions of this Act on the ground that any appeal is pending.
@@ -2727,7 +2727,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (b) a warrant to seize property executed by a bailiff or constable under section 94 of the Summary Proceedings Act 1957; or
   (c) a warrant of confiscation under section 132 of the Sentencing Act 2002 executed by a Registrar, bailiff, or constable.
 (7) The Commissioner, the chief executive of the Ministry of Justice, or a Registrar, or an enforcement officer authorised for the purpose by the Commissioner, may enter into such arrangements with vehicle recovery service operators and storage providers as he or she thinks necessary for the purposes of this section.
-(8) For the purposes of subsection (7), Registrar means any Registrar of the High Court or of a District Court, as the case may require, and includes a Deputy Registrar.
+(8) For the purposes of subsection (7), Registrar means any Registrar of the High Court or of the District Court, as the case may require, and includes a Deputy Registrar.
 
 ### 98 Release of vehicle after 28 days
 (1) On or after the close of the 28-day impoundment period, the owner of the vehicle, or a person authorised for the purpose by the owner, or a bailiff or a constable executing a warrant to seize property under section 94 of the Summary Proceedings Act 1957, or a Registrar, bailiff, or constable executing a warrant of confiscation under section 132 of the Sentencing Act 2002, is entitled to remove the vehicle from storage by—
@@ -2824,7 +2824,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 (4) If an application under this section is refused,—
   (a) the court may accept a further application in respect of the same order if satisfied that the application is supported by relevant evidence that was not available when the previous application was heard; but
   (b) otherwise, a further application in respect of the same order may not be considered until at least 3 months after the date of that refusal.
-(5) If the disqualification was ordered by a District Court, every application under this section concerning that disqualification must be made to a District Court Judge.
+(5) If the disqualification was ordered by the District Court, every application under this section concerning that disqualification must be made to a District Court Judge.
 (6) If a court makes an order under this section and the person to whom it applies is, before the end of the period for which the original order of disqualification was made, convicted of an offence for which the applicant is liable for disqualification, the court must, whether or not it imposes a penalty for that offence, order that the applicant be disqualified from holding or obtaining a driver licence for the balance of the disqualification period specified in the original order.
 (7) No application or order under this section may be made by or apply to a person who is subject to an order made under section 65 disqualifying the person from holding or obtaining a driver licence.
 
@@ -2934,7 +2934,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
     (iii) the days of the week and times at which that vehicle may be driven; and
     (iv) such other matters as may be necessary to limit the order to alleviating the hardship which was alleged and proved; and
   (b) may specify in the order such other matters as the court thinks fit.
-(4) If the application relates to a disqualification order made by a District Court, the application must be made to a District Court Judge exercising jurisdiction in the court by which the order was made.
+(4) If the application relates to a disqualification order made by the District Court, the application must be made to a District Court Judge exercising jurisdiction in the court by which the order was made.
 (5) If an application under this section is refused,—
   (a) the court may accept a further application in respect of the same order if satisfied that the application is supported by relevant evidence that was not available when the previous application was heard; but
   (b) otherwise, a further application in respect of the same order may not be considered until at least 3 months after the date of that refusal.
@@ -2957,28 +2957,28 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 **Rights of appeal**
 
 ### 106 General right of appeal to District Court
-(1) Any person who is dissatisfied with any decision made under this Act by the Agency in respect of the grant, issue, revocation, or suspension of a land transport document sought or held by that person may appeal to a District Court against that decision.
+(1) Any person who is dissatisfied with any decision made under this Act by the Agency in respect of the grant, issue, revocation, or suspension of a land transport document sought or held by that person may appeal to the District Court against that decision.
 (2) The court may confirm, reverse, or modify the decision appealed against.
 (3) Every decision of the Agency appealed against under this section continues in force pending the determination of the appeal, and no person is excused from complying with any of the provisions of this Act on the ground that any appeal is pending.
 (4) Even though an appeal under this section may have been determined in favour of the appellant, the Agency may, subject to the like right of appeal, refuse to deal with in accordance with the provisions of this Act the matter of the grant, issue, revocation, or suspension of the land transport document concerned on any sufficient grounds supported by facts or evidence discovered since the hearing of the appeal.
-(5) Subsection (1) does not apply if a right of appeal to a District Court against the decision concerned is conferred by some other section of this Act.
+(5) Subsection (1) does not apply if a right of appeal to the District Court against the decision concerned is conferred by some other section of this Act.
 
 ### 107 Appeals against court orders relating to disqualification or grant of limited licence, and deferral of disqualification
-(1) A person who has been disqualified by order of a District Court from holding or obtaining a driver licence may appeal to the High Court against a decision of a District Court by—
+(1) A person who has been disqualified by order of the District Court from holding or obtaining a driver licence may appeal to the High Court against a decision of the District Court by—
   (a) refusing to grant the person a limited licence; or
   (b) refusing to reduce the person's disqualification.
-(2) If it thinks fit, a District Court may, on an application by a person who has appealed to the High Court under subsection (1) or Part 6 of the Criminal Procedure Act 2011, defer the operation of the disqualification order pending the determination of the appeal.
+(2) If it thinks fit, the District Court may, on an application by a person who has appealed to the High Court under subsection (1) or Part 6 of the Criminal Procedure Act 2011, defer the operation of the disqualification order pending the determination of the appeal.
 (2A) If the District Court refuses to defer the operation of the disqualification order pending the appeal, the person who applied for the disqualification order to be deferred may appeal to the High Court against that decision of the District Court.
 (2B) Subpart 2 of Part 6 of the Criminal Procedure Act 2011 applies, with the necessary modifications, to an appeal to the High Court under subsection (1) or subsection (2A).
 (3) A person who is disqualified by an order of the High Court from holding or obtaining a driver licence may, with the leave of the Court of Appeal, appeal to that court against a decision of the High Court—and the provisions of subpart 2 of Part 6 of the Criminal Procedure Act 2011 applies with the necessary modifications, as if it were an appeal under that section.
   (a) refusing to grant the person a limited licence; or
   (b) refusing to remove the person's disqualification;—
-(4) If an application is made to the Court of Appeal for leave to appeal to that court against a sentence of a District Court or the High Court that is or includes an order of disqualification, the High Court may, if it thinks fit, defer the operation of the order pending the application for leave to appeal and, if leave is granted, pending the determination of the appeal.
+(4) If an application is made to the Court of Appeal for leave to appeal to that court against a sentence of the District Court or the High Court that is or includes an order of disqualification, the High Court may, if it thinks fit, defer the operation of the order pending the application for leave to appeal and, if leave is granted, pending the determination of the appeal.
 (5) If any such appeal to the High Court or Court of Appeal is allowed, whether in whole or in part, the Registrar of the High Court must notify the Agency of the result of the appeal.
 (6) In determining the period for which a person is disqualified from holding or obtaining a licence, any time during which the operation of the disqualification order is deferred under this section must be disregarded.
 
 ### 108 Appeal against Agency’s refusal to remove disqualification
-(1) If an order has been made under section 65 and the person in respect of whom the order was made—that person may appeal to a District Court against the refusal of the Agency to make that order.
+(1) If an order has been made under section 65 and the person in respect of whom the order was made—that person may appeal to the District Court against the refusal of the Agency to make that order.
   (a) has unsuccessfully applied to the Agency for an order under section 100; and
   (b) considers that the Agency should have made an order under that section,—
 (2) In determining the appeal, the court may—
@@ -2986,15 +2986,15 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (b) dismiss the appeal.
 
 ### 109 Appeal against refusal of Agency to remove suspension of driver licence
-(1) A person who unsuccessfully appeals to the Agency under section 101 may, on any grounds set out in subsection (1) of that section, appeal to a District Court against the decision under that section.
+(1) A person who unsuccessfully appeals to the Agency under section 101 may, on any grounds set out in subsection (1) of that section, appeal to the District Court against the decision under that section.
 (2) The court must determine the appeal on 1 or more of the grounds set out in subsection (1) or subsection (5) of section 101 and may not consider any other grounds.
 (3) The court may—
   (a) direct that the suspension be removed, in which case that direction has effect as if it had been made under section 101 by the Agency; or
   (b) dismiss the appeal.
 
 ### 110 Appeal against refusal of Police to direct release of impounded vehicle
-(1) A person who unsuccessfully appeals to an enforcement officer under section 102 may, on any grounds set out in subsection (1) of that section, appeal to a District Court against the decision under that section.
-(1A) If a person fails to lodge an appeal under section 102 within the time specified, the person may, if an enforcement officer agrees, appeal to a District Court.
+(1) A person who unsuccessfully appeals to an enforcement officer under section 102 may, on any grounds set out in subsection (1) of that section, appeal to the District Court against the decision under that section.
+(1A) If a person fails to lodge an appeal under section 102 within the time specified, the person may, if an enforcement officer agrees, appeal to the District Court.
 (1B) An enforcement officer may agree in writing to an appeal under subsection (1A) if the enforcement officer is satisfied that there are exceptional circumstances that prevented the filing of the appeal within the time specified under section 102(2).
 (2) The court must determine the appeal on 1 or more of the applicable grounds set out in subsection (1) or subsection (5) of section 102 and may not consider any other grounds.
 (3) The court may—
@@ -3004,9 +3004,9 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (b) dismiss the appeal.
 
 ### 111 Procedure
-(1) Every appeal under this Act to a District Court must be brought, by way of originating application, not later than 28 days after the date on which the appellant was notified of the decision appealed against, or within such further period as the District Court may allow.
-(2) In dealing with an appeal under this Act, a District Court may hear all evidence tendered and representations made by or on behalf of any party to the appeal that the court considers relevant to the appeal, whether or not that evidence would be otherwise admissible in that court.
-(3) Every such appeal must be made and determined in accordance with the District Courts Act 1947 and the rules of court made under that Act, but the application of that Act and those rules is subject to the other provisions of this section.
+(1) Every appeal under this Act to the District Court must be brought, by way of originating application, not later than 28 days after the date on which the appellant was notified of the decision appealed against, or within such further period as the District Court may allow.
+(2) In dealing with an appeal under this Act, the District Court may hear all evidence tendered and representations made by or on behalf of any party to the appeal that the court considers relevant to the appeal, whether or not that evidence would be otherwise admissible in that court.
+(3) Every such appeal must be made and determined in accordance with the District Court Act 2016 and the rules of court made under that Act, but the application of that Act and those rules is subject to the other provisions of this section.
 (4) Subject to sections 107, 111A, and 111B, the decision of the District Court on any appeal under this Act is final.
 
 ### 111A Appeal to High Court on question of law
@@ -3408,7 +3408,7 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 (1)
 (1A) Proceedings for an offence against Part 6A or 6B must be commenced by the Agency or an enforcement officer.
 (1B) In the absence of proof to the contrary, it is presumed that proceedings for an offence against Part 6A or 6B have been commenced by a person authorised to do so under subsection (1A).
-(2) A District Court presided over by 2 or more Justices of the Peace or 1 or more Community Magistrates has jurisdiction in respect of any category 1 offence under Part 5 or Part 6, or under any regulations made under this Act (other than regulations relating to heavy motor vehicles).
+(2) The District Court presided over by 2 or more Justices of the Peace or 1 or more Community Magistrates has jurisdiction in respect of any category 1 offence under Part 5 or Part 6, or under any regulations made under this Act (other than regulations relating to heavy motor vehicles).
 
 ### 136 Time for instituting proceedings
 (1) In proceedings for a category 1 or 2 offence against this Act, the court may dismiss the charge if satisfied that the person charged has been prejudiced in the person's defence by any unreasonable delay in instituting the proceedings or in notifying the person of the time, place, and nature of the offence.
@@ -3717,7 +3717,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
     (xix) specify requirements for a rental service including a register of vehicles and hirers, details to be included in a rental service agreement, insurance requirements, the ability of rental service licence holders to charge hirers for fees incurred from owner-liability offences, and any requirements that rental service operators must comply with when charging for owner-liability offence fees:
     (xx) provide for the approval of qualifications and specify conditions for the safe use of traction engines:
   (c) provide for the appointment or approval of persons or organisations who are to carry out inspections, tests, certify things, issue licences or other documents, and provide other services under this Act:
-  (d) set out the procedure for appeals under this Act to a District Court or apply (with such modifications as may be specified in the rules) a procedure for appeals to a District Court under any other enactment.
+  (d) set out the procedure for appeals under this Act to the District Court or apply (with such modifications as may be specified in the rules) a procedure for appeals to the District Court under any other enactment.
 
 ### 159 Rules concerning land transport documents
 (1) Without limiting the general power to make rules under section 152, ordinary rules may require that a land transport document be held by or in respect of all or any of the following:
@@ -4725,7 +4725,7 @@ The Registrar may, in accordance with regulations made under this Part,—
   (c) decline to issue trade plates.
 
 ### 267 Appeal to District Court
-(1) A person may appeal to a District Court against a specified decision made under this Part by the Registrar or an enforcement officer if the person—
+(1) A person may appeal to the District Court against a specified decision made under this Part by the Registrar or an enforcement officer if the person—
   (a) is a person in respect of whom the decision was made; and
   (b) is dissatisfied with the decision.
 (2) The Court may confirm, reverse, or modify the specified decision appealed against.
