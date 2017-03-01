@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > Title
 
@@ -217,13 +217,13 @@ This Act binds the Crown.
 
 ### 10 Objections to WorkSafe's requirements
 (1) Every person who is affected by any notice given under section 7(4)﻿(e) or section 9(1) or section 9(2), or any requirement made under section 9(3), may, within 15 working days after receiving the notice or being made subject to the requirement, object to that notice or requirement.
-(2) Every objection under subsection (1) shall be made by lodging a written notice of objection with the Registrar of the District Court nearest to the place where the notice was given or the requirement made, or, with the consent of WorkSafe, with the Registrar of any other District Court.
+(2) Every objection under subsection (1) shall be made by lodging a written notice of objection with the Registrar of the office of the District Court nearest to the place where the notice was given or the requirement made, or, with the consent of WorkSafe, with the Registrar of any other office of the District Court.
 (3) Every notice of objection shall specify the grounds of the objection.
 (4) The objector shall cause a copy of the notice of objection to be served on WorkSafe, either before or immediately after it is lodged with the Registrar.
 (5) The Registrar of the court shall give notice of the time and place fixed for the hearing of the objection to the objector and WorkSafe.
 
 ### 11 Effect of notice or requirement pending hearing
-Subject to section 14, where a notice of objection is lodged under section 10, the notice or requirement to which the notice of objection relates shall be suspended until an order is made by a District Court under section 12(2), or until the withdrawal of the objection or the withdrawal of the notice or requirement, whichever occurs first.
+Subject to section 14, where a notice of objection is lodged under section 10, the notice or requirement to which the notice of objection relates shall be suspended until an order is made by the District Court under section 12(2), or until the withdrawal of the objection or the withdrawal of the notice or requirement, whichever occurs first.
 
 ### 12 Procedure on hearing of objection
 (1) On the hearing of an objection under section 10, both the objector and WorkSafe, either personally or by their counsel, shall be entitled to be present and be heard.
@@ -231,7 +231,7 @@ Subject to section 14, where a notice of objection is lodged under section 10, t
 (3) Subject to section 13, every order made under subsection (2) of this section shall be final.
 
 ### 13 Appeal on question of law
-(1) Where any party to an objection under section 10 is dissatisfied with the decision of a District Court on that objection as being erroneous in point of law, that party may appeal to the High Court on the question of law only.
+(1) Where any party to an objection under section 10 is dissatisfied with the decision of the District Court on that objection as being erroneous in point of law, that party may appeal to the High Court on the question of law only.
 (2) Subject to subsection (3), every appeal under this section shall be heard and determined in accordance with rules of court.
 (3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
 (4) Subject to section 14, where a notice of appeal is filed pursuant to this section, the notice or requirement to which the notice of appeal relates shall be suspended until the appeal has been determined or abandoned.
@@ -239,13 +239,13 @@ Subject to section 14, where a notice of objection is lodged under section 10, t
 ### 14 WorkSafe may require immediate compliance
 (1) Notwithstanding sections 11 and 13(4), where a notice of objection is lodged under section 10 by any person in respect of any notice or requirement, WorkSafe may advise the objector that WorkSafe considers the situation to be one involving immediate danger to life or property, and on being so advised the objector shall immediately take active steps to comply with that notice or requirement.
 (2) Every person commits an offence who fails to comply immediately with any notice or requirement to which subsection (1) applies, and every such person shall be liable on conviction to a fine not exceeding $1,000 for every day or part of a day that such failure continues.
-(3) Without limiting the liability of any person to be convicted of an offence against subsection (2), both the High Court and any District Court shall each have jurisdiction to restrain any contravention or threatened contravention of subsection (1) by injunction on the application of WorkSafe, and to make such order in the matter as to costs and otherwise as it thinks fit.
+(3) Without limiting the liability of any person to be convicted of an offence against subsection (2), both the High Court and the District Court shall each have jurisdiction to restrain any contravention or threatened contravention of subsection (1) by injunction on the application of WorkSafe, and to make such order in the matter as to costs and otherwise as it thinks fit.
 (4) No person shall be precluded by any contract or agreement from doing or refraining from doing any such acts as may be necessary to comply with the provisions of this section, or be liable under any contract or agreement to any penalty or forfeiture for doing or refraining from doing any such act.
 
 ### 15 Appeal against decision on application for injunction
 (1) A party to proceedings under this Act on an application under section 14(3) may appeal to the High Court against any decision of the District Court.
-(1A) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
-(2) On the ex parte application of the appellant, the District Court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(1A) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
+(2) On the ex parte application of the appellant, the District Court may order that the appellant must not be required under section 126(1) of the District Court Act 2016 to give the Registrar of the High Court security for costs.
 (2A) Subsection (2) overrides subsection (1A).
 (3) A party to any appeal under subsection (1) may, with the leave of the Court of Appeal, appeal to the Court of Appeal against any determination of the High Court on a question of law arising in an appeal under that subsection.
 (4) On an appeal to the Court of Appeal under this section, the Court of Appeal shall have the same power to adjudicate on the proceeding as the High Court had.
@@ -361,14 +361,14 @@ Any existing fittings, lawfully fixed to or lawfully installed over or under any
 (2) In addition to any fine imposed pursuant to subsection (1), the court may make such order relating to compensation as it thinks fit.
 
 ### 28 Appeals in relation to conditions imposed
-(1) A gas operator shall have a right of appeal to a District Court against all or any of the conditions imposed pursuant to section 25(2) by—
+(1) A gas operator shall have a right of appeal to the District Court against all or any of the conditions imposed pursuant to section 25(2) by—
   (a) the local authority or other body or person having jurisdiction over the road; or
   (b) the owner of any pipe, telecommunications line, or electric works.
 (2) Every such appeal shall be made by giving notice of appeal within 40 working days after the date of notification of the conditions imposed, or within such further period as the court may allow on application made to it for that purpose either before or after the expiration of those 40 working days.
 
 ### 29 Determination of appeals
-(1) In its determination of any appeal under section 28, a District Court may confirm or modify or cancel any or all of the conditions imposed.
-(2) Subject to section 30, the decision of a District Court in the determination of an appeal under section 28 shall be final.
+(1) In its determination of any appeal under section 28, the District Court may confirm or modify or cancel any or all of the conditions imposed.
+(2) Subject to section 30, the decision of the District Court in the determination of an appeal under section 28 shall be final.
 
 ### 30 Appeal on question of law
 (1) Where any party to any appeal under section 28 is dissatisfied with the decision of the District Court as being erroneous in point of law, that party may appeal to the High Court on the question of law only.
@@ -381,7 +381,7 @@ Any existing fittings, lawfully fixed to or lawfully installed over or under any
 (3) In this section, the term road has the meaning given to it in section 2, but also includes a motorway within the meaning of the Government Roading Powers Act 1989.
 
 ### 32 Rights of entry in respect of level crossings
-(1) Where—the gas operator may, upon giving the owner and occupier of the level crossing not less than 10 working days’ notice of its intention to do so, apply to a District Court for an order under this section.
+(1) Where—the gas operator may, upon giving the owner and occupier of the level crossing not less than 10 working days’ notice of its intention to do so, apply to the District Court for an order under this section.
   (a) a gas operator wishes to enter upon any level crossing for the purpose of constructing, placing, or maintaining any fittings in, on, along, over, across, or under that level crossing; and
   (b) after taking all reasonable steps to do so, the gas operator has been unable to negotiate an agreement for entry,—
 (2) On being satisfied that the construction, placing, or maintenance of any fittings is necessary for the purposes of distributing gas, and that the gas operator has taken all reasonable steps to negotiate an agreement for entry, and that, in relation to the construction or placing of any fittings, no practical alternative route or site exists, the court may make an order authorising the gas operator to—
@@ -587,13 +587,13 @@ The dispute resolution scheme may resolve disputes between members of the disput
   (a) comply with the rules of the scheme:
   (b) comply with a binding settlement determined by the scheme in response to a complaint:
   (c) comply with a binding settlement determined by the scheme in an indemnity dispute.
-(3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court’s order under subsection (2)﻿(b) may modify the terms of the binding settlement, provided that the modification results in a binding settlement that could have been made under the dispute resolution scheme.
-(4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.
+(3) If the District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court’s order under subsection (2)﻿(b) may modify the terms of the binding settlement, provided that the modification results in a binding settlement that could have been made under the dispute resolution scheme.
+(4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by the District Court for the payment of a sum of money.
 (5) A reference in this section to a member includes a reference to a person who was a member of the dispute resolution scheme at the relevant time but is no longer a member at the time of the application or order.
 
 ### 43EC Offence to fail to comply with District Court order
 (1) A member or former member of the dispute resolution scheme who, knowing that the member or former member is subject to an order made under section 43EB, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on conviction to a fine not exceeding $100,000.
-(2) Nothing in this section applies to an order or part of an order of a District Court referred to in section 43EB(4).
+(2) Nothing in this section applies to an order or part of an order of the District Court referred to in section 43EB(4).
 
 **Gas industry regulation-making powers**
 
@@ -876,7 +876,7 @@ If an appeal is brought under this Part against any decision of the industry bod
 
 ### 43ZJ Appeal to Court of Appeal in certain cases
 (1) Any party to any appeal before the High Court against any decision of the industry body, the Commission, or the Rulings Panel, as the case may be, who is dissatisfied with any decision or order of the High Court may, with the leave of the High Court or of the Court of Appeal, appeal to the Court of Appeal.
-(2) Section 66 of the Judicature Act 1908 applies to the appeal.
+(2) Section 56 of the Senior Courts Act 2016 applies to the appeal.
 (3) In determining whether to grant leave to appeal under this section, the court to which the application for leave is made must have regard to the following matters:
   (a) whether any question of law or general principle is involved:
   (b) the importance of the issues to the parties:
