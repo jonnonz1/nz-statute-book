@@ -1,5 +1,5 @@
 # Greater Christchurch Regeneration Act 2016
-_Consolidation as at 2016-04-07_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Greater Christchurch Regeneration Act 2016.
@@ -1072,7 +1072,7 @@ Nothing in this Act, apart from this subpart or section 83 or 84, confers any ri
 ### 120 Appeal from High Court and in some cases from Court of Appeal
 (1) An appeal to the Court of Appeal may, with the leave of that court, be brought against a decision of the High Court in a case referred to in section 119 on a question of law or on any other question.
 (2) The decision of the Court of Appeal is final in the case of any appeal referred to in section 119(1)﻿(a) to (d).
-(3) In the case of an appeal referred to in section 119(1)﻿(e), an appeal from the Court of Appeal to the Supreme Court may be brought against a decision of the Court of Appeal on a question of law with the leave of the Supreme Court given under the Supreme Court Act 2003.
+(3) In the case of an appeal referred to in section 119(1)﻿(e), an appeal from the Court of Appeal to the Supreme Court may be brought against a decision of the Court of Appeal on a question of law with the leave of the Supreme Court given under the Senior Courts Act 2016.
 
 ### Subpart 5 — Regenerate Christchurch
 
