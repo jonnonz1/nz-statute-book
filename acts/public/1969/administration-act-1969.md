@@ -1,5 +1,5 @@
 # Administration Act 1969
-_Consolidation as at 2014-09-13_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend certain enactments relating to the administration of the estates of deceased persons
 
@@ -390,7 +390,7 @@ The practice of the court in regard to administration shall, except where otherw
 Whenever the court grants an order to Public Trust (either alone or together with any other person or persons) or to the Māori Trustee to administer the estate of any deceased person, the order shall be in the form in Schedule 2 or in such other form or forms as may be prescribed by the Governor-General by Order in Council.
 
 ### 59 Power to make rules
-The power to make rules of court under section 51C of the Judicature Act 1908 shall include power to make rules—
+The power to make rules of court under section 148 of the Senior Courts Act 2016 shall include power to make rules—
   (a) prescribing the forms of administration:
   (b) prescribing the practice in obtaining a grant of administration, and the procedure and practice of the court and the duties of the Registrar:
   (c) regulating the procedure and practice of the court with respect to non-contentious or common form probate business:
