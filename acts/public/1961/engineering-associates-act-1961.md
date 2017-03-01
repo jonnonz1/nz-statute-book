@@ -1,5 +1,5 @@
 # Engineering Associates Act 1961
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to provide for the registration and control of certain persons associated with or employed in engineering work, and for the encouragement of better qualification in that work
 
@@ -143,7 +143,7 @@ Every person commits an offence against this Act who wilfully makes or causes to
 (7) Every person commits an offence against this Act who without lawful justification refuses or fails to give evidence when required to do so by the Board, or to answer truly and fully any question put to him by the Board.
 (8) Witnesses and counsel shall have the same privileges and immunities in relation to inquiries before the Board as if they were proceedings in a court of law.
 (9) Every witness giving evidence or intending to give evidence at any inquiry before the Board shall be entitled in the discretion of the Board to such sum for his expenses and loss of time as the Board may determine, which sum shall be paid out of the funds of the Board:
-  provided that the sum which may be so paid to any witness shall not exceed the amount to which he would have been entitled for expenses and loss of time if the inquiry had been a proceeding in a District Court.
+  provided that the sum which may be so paid to any witness shall not exceed the amount to which he would have been entitled for expenses and loss of time if the inquiry had been a proceeding in the District Court.
 
 ### 24 Further disciplinary powers of Board
 (1) In addition to the powers conferred on it by section 22, the Board may, in any case where it has power to remove the name of any person from the register under that section, by writing under the hand of the Chairman, suspend his registration for a period not exceeding 12 months.
