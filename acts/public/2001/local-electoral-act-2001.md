@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -1570,7 +1570,7 @@ In every case to which section 88B or section 88C applies, the period of 21 days
   (c) be accompanied by the prescribed deposit; and
   (d) specify the specific grounds on which the complaint is based; and
   (e) be heard and determined by a District Court Judge.
-(3) If a petition under subsection (1) is filed at a District Court, the Registrar of that court must immediately send a copy of the petition to the electoral officer.
+(3) If a petition under subsection (1) is filed at the District Court, a Registrar of that court must immediately send a copy of the petition to the electoral officer.
 
 ### 94 Specified grounds only to be investigated
 (1) No grounds other than those stated in the petition may be investigated, except with the leave of the District Court Judge hearing the petition.
@@ -1619,7 +1619,7 @@ The District Court Judge must determine whether,—
 (1) The District Court Judge may order that all or part of the expenses of, or incidental to, the inquiry are to be met by—
   (a) any party or parties to the inquiry; or
   (b) any electoral officer or other electoral official if the Judge declares the election or poll void on the ground of negligence or intentional or reckless misconduct by that electoral officer or other electoral official.
-(2) The order has the same effect and may be enforced as a judgment for a debt obtained under the District Courts Act 1947.
+(2) The order has the same effect and may be enforced as a judgment for a debt obtained under the District Court Act 2016.
 (3) Despite subsection (1), no order may be made against any person who is not a party to the inquiry unless the person has been summoned to appear and give evidence at the inquiry.
 
 ### 101 Return of deposit
@@ -1773,7 +1773,7 @@ In this subpart and subpart 3,—
 (2) Any sum paid by the candidate to satisfy the judgment or order of the court in any action referred to in subsection (1) is to be treated as paid within the time allowed by this Act.
 
 ### 107 Leave to pay claim after time limited
-(1) A District Court may, on the application of the claimant or the candidate, grant leave to the candidate to pay a disputed claim, or to pay a claim for any electoral expenses, even though it is sent in after the time allowed by this Act, if the court considers it in the interests of justice to grant that leave.
+(1) The District Court may, on the application of the claimant or the candidate, grant leave to the candidate to pay a disputed claim, or to pay a claim for any electoral expenses, even though it is sent in after the time allowed by this Act, if the court considers it in the interests of justice to grant that leave.
 (2) Any sum specified in the order granting that leave may be paid by the candidate and, when paid, is to be treated as paid within the time allowed by this Act.
 
 ### 108 Payments to be vouched by bill
