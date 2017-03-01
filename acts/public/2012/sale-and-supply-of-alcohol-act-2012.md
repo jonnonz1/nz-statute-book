@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -852,7 +852,7 @@ The licensing authority must deal with every appeal under section 81 by way of p
   (b) the element is unreasonable in the light of the object of this Act.
 (3) The licensing authority must notify the appellant and territorial authority of its decision.
 (4) The appellant has no right of appeal against the decision of the licensing authority.
-(5) Subsection (4) does not limit or affect the Judicature Amendment Act 1972.
+(5) Subsection (4) does not limit or affect the Judicial Review Procedure Act 2016.
 
 ### 84 Actions territorial authority may take if asked to reconsider element of provisional policy
 (1) If the licensing authority asks a territorial authority to reconsider an element of a provisional local alcohol policy, the territorial authority must—
@@ -1568,7 +1568,7 @@ The High Court or a Judge of the High Court may, on the application of the appel
 
 ### 167 No review until right of appeal exercised
 No person who has a right of appeal against any decision of the licensing authority or of a licensing committee is entitled to do any of the following unless and until that party exercises that right of appeal and the appeal is finally determined:
-  (a) to make an application for review of that decision under Part 1 of the Judicature Amendment Act 1972; or
+  (a) to make an application for review of that decision under the Judicial Review Procedure Act 2016; or
   (b) to institute proceedings seeking any writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in respect of that decision.
 
 **Appeals to Court of Appeal**
@@ -2912,11 +2912,11 @@ A member of a licensing trust vacates his or her office if he or she—
 **Removal from office**
 
 ### 327 District Court may issue removal summons
-(1) A District Court in the district of a licensing trust may issue a removal summons if evidence is produced in that court by affidavit or in some other form that a member of the trust is or has become, under this or another Act, disqualified from continuing in office or otherwise incapable of holding office.
+(1) The office of the District Court in the district of a licensing trust may issue a removal summons if evidence is produced in that court by affidavit or in some other form that a member of the trust is or has become, under this or another Act, disqualified from continuing in office or otherwise incapable of holding office.
 (2) For the purpose of this section, a removal summons is a summons in the prescribed form requiring the member in question to appear before the District Court and give reasons why he or she should not be removed from office on the ground of disqualification or other incapacity referred to in subsection (1).
 
 ### 328 District Court may remove member from office
-(1) A District Court that has issued a removal summons under section 327 may remove the member in question if, on the day and at the time appointed for the member's appearance, the court is satisfied that—
+(1) The office of the District Court that has issued a removal summons under section 327 may remove the member in question if, on the day and at the time appointed for the member's appearance, the court is satisfied that—
   (a) the summons has been served on the member; and
   (b) on the basis of affidavit evidence or oral evidence on oath, the member is or has become, under this or another Act, disqualified from continuing in office or otherwise incapable of holding office.
 (2) In proceedings under this section,—
