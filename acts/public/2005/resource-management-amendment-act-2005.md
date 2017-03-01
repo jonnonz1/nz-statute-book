@@ -1,5 +1,5 @@
 # Resource Management Amendment Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 (1) This Act is the Resource Management Amendment Act 2005.
@@ -29,7 +29,7 @@ The purpose of this Act is to amend the Resource Management Act 1991
   (b) to make related and other amendments of a minor or technical nature.
 
 ### 4 Interpretation
-(1) Section 2(1) of the principal Act is amended by inserting, in their appropriate alphabetical order, the following definitions:.
+(1) Section 2(1) of the principal Act is amended by inserting, in their appropriate alphabetical order, the following definitions:
   - **accredited** means to hold a qualification approved and notified under section 39A
   - **applicant** ,—
     (a) in sections 40, 41B, 41C, and 42A, means the person who initiated a matter described in section 39(1):
@@ -80,7 +80,7 @@ Section 10(2) of the principal Act is amended by omitting the word and after the
 
 ### 6 Functions of Minister for the Environment
 (1) Section 24(b) of the principal Act is amended by omitting the words regulations under section 43, and substituting the words national environmental standards.
-(2) Section 24 of the principal Act is amended by repealing paragraph (c), and substituting the following paragraph:.
+(2) Section 24 of the principal Act is amended by repealing paragraph (c), and substituting the following paragraph:
   (c) the making of decisions under section 141A on whether and, if relevant, how to intervene in a matter:
 
 ### 7 New section 24A inserted
@@ -128,13 +128,13 @@ The principal Act is amended by repealing section 27, and substituting the follo
     (b) must not charge the Minister for the supply.
 
 ### 10 Delegation of functions by Ministers
-Section 29(1) of the principal Act is amended by repealing paragraph (c), and substituting the following paragraph:.
+Section 29(1) of the principal Act is amended by repealing paragraph (c), and substituting the following paragraph:
   (c) the making of decisions under section 141A on whether and, if relevant, how to intervene in a matter:
 
 ### 11 Functions of regional councils under this Act
-(1) Section 30(1) of the principal Act is amended by inserting, after paragraph (c), the following paragraph:.
+(1) Section 30(1) of the principal Act is amended by inserting, after paragraph (c), the following paragraph:
   (ca) the investigation of land for the purposes of identifying and monitoring contaminated land:
-(2) Section 30(1) of the principal Act is amended by inserting, after paragraph (f), the following paragraphs:.
+(2) Section 30(1) of the principal Act is amended by inserting, after paragraph (f), the following paragraphs:
   (fa) if appropriate, the establishment of rules in a regional plan to allocate any of the following:
     (i) the taking or use of water (other than open coastal water):
     (ii) the taking or use of heat or energy from water (other than open coastal water):
@@ -143,10 +143,10 @@ Section 29(1) of the principal Act is amended by repealing paragraph (c), and su
   (fb) if appropriate, and in conjunction with the Minister of Conservation,—
     (i) the establishment of rules in a regional coastal plan to allocate the taking or use of heat or energy from open coastal water:
     (ii) the establishment of a rule in a regional coastal plan to allocate space in a coastal marine area under Part 7A:
-(3) Section 30(1) of the principal Act is amended by inserting, after paragraph (ga), the following paragraph:.
+(3) Section 30(1) of the principal Act is amended by inserting, after paragraph (ga), the following paragraph:
   (gb) the strategic integration of infrastructure with land use through objectives, policies, and methods:
 (4) Section 30 of the principal Act is amended by adding the following subsection:
-  (4) A rule to allocate a natural resource established by a regional council in a plan under subsection (1)(fa) or (fb) may allocate the resource in any way, subject to the following:
+  (4) A rule to allocate a natural resource established by a regional council in a plan under subsection (1)﻿(fa) or (fb) may allocate the resource in any way, subject to the following:
     (a) the rule may not, during the term of an existing resource consent, allocate the amount of a resource that has already been allocated to the consent; and
     (b) nothing in paragraph (a) affects section 68(7); and
     (c) the rule may allocate the resource in anticipation of the expiry of existing consents; and
@@ -154,14 +154,14 @@ Section 29(1) of the principal Act is amended by repealing paragraph (c), and su
       (i) allocate all of the resource used for an activity to the same type of activity; or
       (ii) allocate some of the resource used for an activity to the same type of activity and the rest of the resource to any other type of activity or no type of activity; and
     (e) the rule may allocate the resource among competing types of activities; and
-    (f) the rule may allocate water, or heat or energy from water, as long as the allocation does not affect the activities authorised by section 14(3)(b) to (e).
+    (f) the rule may allocate water, or heat or energy from water, as long as the allocation does not affect the activities authorised by section 14(3)﻿(b) to (e).
 
 ### 12 Functions of territorial authorities under this Act
-Section 31(1)(b) of the principal Act is amended by inserting, after subparagraph (ii), the following subparagraph:.
+Section 31(1)﻿(b) of the principal Act is amended by inserting, after subparagraph (ii), the following subparagraph:
   (iia) the prevention or mitigation of any adverse effects of the development, subdivision, or use of contaminated land:
 
 ### 13 Consideration of alternatives, benefits, and costs
-(1) Section 32(1)(a) of the principal Act is amended by omitting the words regulations made under section 43, and substituting the words a national environmental standard.
+(1) Section 32(1)﻿(a) of the principal Act is amended by omitting the words regulations made under section 43, and substituting the words a national environmental standard.
 (2) Section 32 of the principal Act is amended by inserting, after subsection (3), the following subsection:
   (3A) This subsection applies to a rule that imposes a greater prohibition or restriction on an activity to which a national environmental standard applies than any prohibition or restriction in the standard. The evaluation of such a rule must examine whether the prohibition or restriction it imposes is justified in the circumstances of the region or district.
 (3) Section 32(4) of the principal Act is amended by omitting the words this examination, and substituting the words the examinations referred to in subsections (3) and (3A).
@@ -170,7 +170,7 @@ Section 31(1)(b) of the principal Act is amended by inserting, after subparagrap
 Section 34A of the principal Act is amended by repealing subsection (3).
 
 ### 15 Duty to gather information, monitor, and keep records
-Section 35(5) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:.
+Section 35(5) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
   (aa) copies of all material incorporated by reference in any plan or proposed plan under Part 3 of Schedule 1; and
 
 ### 16 New section 35A inserted
@@ -179,13 +179,13 @@ The principal Act is amended by inserting, after section 35, the following secti
     (a) the contact details of each iwi authority within the region or district and any groups within the region or district that represent hapu for the purposes of this Act; and
     (b) the planning documents that are recognised by each iwi authority and lodged with the local authority; and
     (c) any area of the region or district over which 1 or more iwi or hapu exercise kaitiakitanga.
-  (2) For the purposes of subsection (1)(a) and (c),—
+  (2) For the purposes of subsection (1)﻿(a) and (c),—
     (a) the Crown must provide to each local authority information on—
       (i) the iwi authorities within the region or district of that local authority and the areas over which 1 or more iwi exercise kaitiakitanga within that region or district; and
       (ii) any groups that represent hapu for the purposes of this Act within the region or district of that local authority and the areas over which 1 or more hapu exercise kaitiakitanga within that region or district; and
       (iii) the matters provided for in subparagraphs (i) and (ii) that the local authority has advised to the Crown; and
     (b) the local authority must include in its records all the information provided to it by the Crown under paragraph (a).
-  (3) In addition to any information provided by a local authority under subsection (2)(a)(iii), the local authority may also keep a record of information relevant to its region or district, as the case may be,—
+  (3) In addition to any information provided by a local authority under subsection (2)﻿(a)﻿(iii), the local authority may also keep a record of information relevant to its region or district, as the case may be,—
     (a) on iwi, obtained directly from the relevant iwi authority; and
     (b) on hapu, obtained directly from the relevant group representing the hapu for the purposes of this Act.
   (4) In this section, the requirement under subsection (1) to keep and maintain a record does not apply in relation to hapu unless a hapu, through the group that represents it for the purposes of this Act, requests the Crown or the relevant local authority (or both) to include the required information for that hapu in the record.
@@ -196,13 +196,13 @@ The principal Act is amended by inserting, after section 35, the following secti
   (6) Information kept and maintained by a local authority under this section must not be used by the local authority except for the purposes of this Act.
 
 ### 17 Administrative charges
-(1) Section 36(1)(b) of the principal Act is amended by inserting, after the word compliance, the words and existing use certificates.
-(2) Section 36(1)(c) of the principal Act is amended by inserting, after the word compliance, the words and existing use certificates.
-(3) Section 36(1) of the principal Act is amended by inserting, after paragraph (ca), the following paragraph:.
+(1) Section 36(1)﻿(b) of the principal Act is amended by inserting, after the word compliance, the words and existing use certificates.
+(2) Section 36(1)﻿(c) of the principal Act is amended by inserting, after the word compliance, the words and existing use certificates.
+(3) Section 36(1) of the principal Act is amended by inserting, after paragraph (ca), the following paragraph:
   (cb) charges payable by holders of resource consents, for the carrying out by the local authority of its functions in relation to reviewing consent conditions, if—
     (i) the review is carried out at the request of the consent holder; or
-    (ii) the review is carried out under section 128(1)(a); or
-    (iii) the review is carried out under section 128(1)(c):
+    (ii) the review is carried out under section 128(1)﻿(a); or
+    (iii) the review is carried out under section 128(1)﻿(c):
 (4) Section 36(6) of the principal Act is amended by omitting the expression 357 and, and substituting the expression 357B to.
 
 ### 18 New headings and sections 36A to 36E inserted
@@ -236,7 +236,7 @@ Section 37B(a) of the principal Act is amended by omitting the words given under
 ### 20 Hearings to be public and without unnecessary formality
 (1) Section 39(1) of the principal Act is amended by inserting, after the expression 34,, the expression 34A,.
 (2) Section 39(1) of the principal Act is amended by omitting the expression 357, and substituting the expression 357C.
-(3) Section 39(1)(e) of the principal Act is amended by adding the words under section 141B(1)(a).
+(3) Section 39(1)﻿(e) of the principal Act is amended by adding the words under section 141B(1)﻿(a).
 
 ### 21 New section 39A inserted
 The principal Act is amended by inserting, after section 39, the following section:Accreditation
@@ -303,24 +303,24 @@ Section 41(1) of the principal Act is amended by inserting, after the expression
 (2) Section 42A(3) of the principal Act is amended by omitting the words , or the person who made a requirement for a designation or heritage order (as the case may be),.
 
 ### 27 Regulations prescribing national environmental standards
-Section 43(1)(a) of the principal Act is amended by inserting, after the expression section 9,, the expression section 11,.
+Section 43(1)﻿(a) of the principal Act is amended by inserting, after the expression section 9,, the expression section 11,.
 
 ### 28 Additional powers to implement national environmental standards
 (1) Section 43A(1) of the principal Act is amended by omitting the words Regulations made under section 43, and substituting the words National environmental standards.
-(2) Section 43A(1) of the principal Act is amended by repealing paragraph (b), and substituting the following paragraph:.
+(2) Section 43A(1) of the principal Act is amended by repealing paragraph (b), and substituting the following paragraph:
   (b) allow an activity:
-(3) Section 43A(1)(c) and (d) of the principal Act is amended by omitting the words the regulations in both places where they appear, and substituting in each place the words a national environmental standard.
-(4) Section 43A(1)(e) of the principal Act is amended by omitting—
+(3) Section 43A(1)﻿(c) and (d) of the principal Act is amended by omitting the words the regulations in both places where they appear, and substituting in each place the words a national environmental standard.
+(4) Section 43A(1)﻿(e) of the principal Act is amended by omitting—
   (a) the words the regulations, and substituting the words a national environmental standard ; and
   (b) the word regulation in both places where it appears, and substituting in each place the word standard.
-(5) Section 43A(1)(f) of the principal Act is amended by omitting the words the regulations, and substituting the words a national environmental standard.
+(5) Section 43A(1)﻿(f) of the principal Act is amended by omitting the words the regulations, and substituting the words a national environmental standard.
 (6) Section 43A of the principal Act is amended by repealing subsection (2), and substituting the following subsections:
   (2) A national environmental standard that prohibits an activity—
     (a) may do 1 or both of the following:
       (i) state that a resource consent may be granted for the activity, but only on the terms or conditions specified in the standard; and
       (ii) require compliance with the rules in a plan or proposed plan as a term or condition; or
     (b) may state that the activity is a prohibited activity.
-  (3) If an activity has significant adverse effects on the environment, a national environmental standard must not, under subsections (1)(b) and (4),—
+  (3) If an activity has significant adverse effects on the environment, a national environmental standard must not, under subsections (1)﻿(b) and (4),—
     (a) allow the activity, unless it states that a resource consent is required for the activity; or
     (b) state that the activity is a permitted activity.
   (4) A national environmental standard that allows an activity—
@@ -351,7 +351,7 @@ The principal Act is amended by repealing sections 43B to 43E, and substituting 
   (3) A rule or resource consent may not be more lenient than a national environmental standard.
   (4) For the purposes of subsection (3), a rule or resource consent is more lenient than a standard if it permits or authorises an activity that the standard prohibits or restricts.
   (5) A resource consent that exists when a national environmental standard is made prevails over the standard. This subsection does not apply to water, coastal, or discharge permits.
-  (6) A water, coastal, or discharge permit that exists when a national environmental standard is made prevails over the standard until a review of the permit's conditions under section 128(1)(ba) results in some or all of the standard prevailing over the permit.
+  (6) A water, coastal, or discharge permit that exists when a national environmental standard is made prevails over the standard until a review of the permit's conditions under section 128(1)﻿(ba) results in some or all of the standard prevailing over the permit.
   (7) A national environmental standard that exists before the hearing of an application for a resource consent begins prevails over a resource consent granted as a result of the application.
   (8) A national environmental standard that prescribes transitional provisions relating to a resource consent application notified before the commencement of the standard prevails over a resource consent granted as a result of the application to the extent (if any) specified in the standard.
   (9) If a national environmental standard requires a resource consent to be obtained for an activity, sections 10, 10A, 10B, and 20A(2) apply to the activity as if the standard were a rule in a plan that had become operative.
@@ -360,7 +360,7 @@ The principal Act is amended by repealing sections 43B to 43E, and substituting 
   (1) A designation that exists when a national environmental standard is made prevails over the standard until the earlier of the following:
     (a) the designation lapses:
     (b) the designation is altered under section 181 by the alteration of conditions in it to which the standard is relevant.
-  (2) If the conditions of a designation are altered as described in subsection (1)(b), the standard—
+  (2) If the conditions of a designation are altered as described in subsection (1)﻿(b), the standard—
     (a) applies to the altered conditions; and
     (b) does not apply to the unaltered conditions.
   (3) A national environmental standard prevails over a designation that requires an outline plan if, when the standard is made,—
@@ -392,8 +392,8 @@ The principal Act is amended by repealing sections 43B to 43E, and substituting 
 (1) The heading of section 44 of the principal Act is amended by omitting the words regulations prescribing.
 (2) Section 44 of the principal Act is amended by omitting—
   (a) the words regulations under section 43, and substituting the words national environmental standard ; and
-  (b) from paragraphs (a)(i) and (b)(i) and (ii) the word regulations in each place where it appears, and substituting in each place the word standard ; and
-  (c) from paragraph (a)(ii) the words regulations are, and substituting the words standard is.
+  (b) from paragraphs (a)﻿(i) and (b)﻿(i) and (ii) the word regulations in each place where it appears, and substituting in each place the word standard ; and
+  (c) from paragraph (a)﻿(ii) the words regulations are, and substituting the words standard is.
 (3) Section 44 of the principal Act is amended by inserting, after the word public in both places where it appears, the words and iwi authorities.
 
 ### 31 Proposed national policy statement
@@ -407,7 +407,7 @@ The principal Act is amended by inserting, after section 46, the following secti
       (i) gives the public adequate time and opportunity to make a submission on the statement; and
       (ii) requires a report and recommendations to be made to the Minister on the submissions and the subject matter of the statement; and
       (iii) incorporates sections 51 and 52 as if their references to a board of inquiry were references to the person who prepares the report and recommendations.
-  (2) When choosing between subsection (1)(a) and subsection (1)(b), the Minister may consider the following matters:
+  (2) When choosing between subsection (1)﻿(a) and subsection (1)﻿(b), the Minister may consider the following matters:
     (a) the advantages and disadvantages of having the proposed national policy statement made quickly:
     (b) the extent to which the policy in the proposed national policy statement differs from the policies in—
       (i) other national policy statements; and
@@ -415,8 +415,8 @@ The principal Act is amended by inserting, after section 46, the following secti
       (iii) regional or district plans:
     (c) the extent and timing of public debate and public consultation that took place on the policy before the proposed national policy statement was prepared:
     (d) any other relevant matter.
-  (3) The Minister must not choose a process established under subsection (1)(b) if the proposed national policy statement includes a provision of the kind described in section 55(2A)(b).
-  (4) A national policy statement prepared after the use of a process established under subsection (1)(b) is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+  (3) The Minister must not choose a process established under subsection (1)﻿(b) if the proposed national policy statement includes a provision of the kind described in section 55(2A)﻿(b).
+  (4) A national policy statement prepared after the use of a process established under subsection (1)﻿(b) is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
 
 ### 33 New section 46B inserted
 The principal Act is amended by inserting, after section 46A, the following section:Incorporation of material by reference in national policy statements
@@ -501,7 +501,7 @@ The principal Act is amended by repealing section 67, and substituting the follo
     (a) a water conservation order; or
     (b) any other regional plan for the region; or
     (c) a determination or reservation of the chief executive of the Ministry of Fisheries made under section 186E of the Fisheries Act 1996.
-  (5) A regional plan must record how a regional council has allocated a natural resource under section 30(1)(fa) or (fb) and (4), if the council has done so.
+  (5) A regional plan must record how a regional council has allocated a natural resource under section 30(1)﻿(fa) or (fb) and (4), if the council has done so.
   (6) A regional plan may incorporate material by reference under Part 3 of Schedule 1.
 
 ### 42 Regional rules
@@ -567,13 +567,13 @@ Section 76 of the principal Act is amended by adding the following subsection:
     (c) treats the land as not contaminated for purposes stated in the rule.
 
 ### 48 Types of activities
-Section 77B(2) of the principal Act is amended by repealing paragraph (a), and substituting the following paragraphs:.
+Section 77B(2) of the principal Act is amended by repealing paragraph (a), and substituting the following paragraphs:
   (a) a resource consent is required for the activity; and
   (aa) the consent authority must grant the resource consent, unless it has insufficient information to determine whether or not the activity is a controlled activity; and
 
 ### 49 Circumstances when further review required
 Section 79A of the principal Act is amended by repealing subsection (2), and substituting the following subsection:
-  (2) The regional council that has responsibility for the area where the reserve is located must review its regional policy statement and each regional plan to the extent necessary to ensure that they recognise and provide for the management plan. It must start the review within 6 months of the management plan being lodged under subsection (1)(b).
+  (2) The regional council that has responsibility for the area where the reserve is located must review its regional policy statement and each regional plan to the extent necessary to ensure that they recognise and provide for the management plan. It must start the review within 6 months of the management plan being lodged under subsection (1)﻿(b).
 
 ### 50 Making an application
 Section 88(5) of the principal Act is amended by omitting the word and after the expression 357, and substituting the word to.
@@ -587,7 +587,7 @@ The principal Act is amended by repealing section 88B, and substituting the foll
     (d) section 173, which deals with the time limit for notification of the decision on a designation.
   (1) Subsection (2) applies when—
     (a) a consent authority has requested an applicant, under section 92(1), to provide further information; and
-    (b) the applicant provides further information under section 92A(1)(a) or section 92A(1)(b) and (2).
+    (b) the applicant provides further information under section 92A(1)﻿(a) or section 92A(1)﻿(b) and (2).
   (2) The period that must be excluded from the provisions listed in section 88B is the period—
     (a) starting with the date of the request under section 92(1); and
     (b) ending with the date on which the applicant provides the information.
@@ -595,25 +595,25 @@ The principal Act is amended by repealing section 88B, and substituting the foll
     (a) a consent authority has requested an applicant, under section 92(1), to provide further information; and
     (b) 1 of the following applies:
       (i) the applicant does not respond within the time limit specified in section 92A(1); or
-      (ii) the applicant responds under section 92A(1)(b) but does not comply with the time limit set under section 92A(2); or
-      (iii) the applicant responds under section 92A(1)(c).
+      (ii) the applicant responds under section 92A(1)﻿(b) but does not comply with the time limit set under section 92A(2); or
+      (iii) the applicant responds under section 92A(1)﻿(c).
   (4) The period that must be excluded from the provisions listed in section 88B is the period—
     (a) starting with the date of the request under section 92(1); and
     (b) ending with—
       (i) the date on which the 15 working days end, for an applicant who does not respond within the time limit specified in section 92A(1):
-      (ii) the date on which the time limit set under section 92A(2) ends, for an applicant who responds under section 92A(1)(b):
-      (iii) the date on which the applicant responds under section 92A(1)(c), for an applicant who responds under section 92A(1)(c).
+      (ii) the date on which the time limit set under section 92A(2) ends, for an applicant who responds under section 92A(1)﻿(b):
+      (iii) the date on which the applicant responds under section 92A(1)﻿(c), for an applicant who responds under section 92A(1)﻿(c).
   (5) Subsection (6) applies when—
-    (a) a consent authority has notified an applicant, under section 92(2)(b), of its wish to commission a report; and
+    (a) a consent authority has notified an applicant, under section 92(2)﻿(b), of its wish to commission a report; and
     (b) the applicant agrees, under section 92B(1), to the commissioning of the report.
   (6) The period that must be excluded from the provisions listed in section 88B is the period—
-    (a) starting with the date of the notification under section 92(2)(b); and
+    (a) starting with the date of the notification under section 92(2)﻿(b); and
     (b) ending with the date on which the authority receives the report.
   (7) Subsection (8) applies when—
-    (a) a consent authority has notified an applicant, under section 92(2)(b), of its wish to commission a report; and
+    (a) a consent authority has notified an applicant, under section 92(2)﻿(b), of its wish to commission a report; and
     (b) the applicant does not agree, under section 92B(1), to the commissioning of the report.
   (8) The period that must be excluded from the provisions listed in section 88B is the period—
-    (a) starting with the date of the notification under section 92(2)(b); and
+    (a) starting with the date of the notification under section 92(2)﻿(b); and
     (b) ending with the earlier of the following:
       (i) the date on which the 15 working days end; and
       (ii) the date on which the authority receives the applicant's refusal, under section 92B(1), to agree to the commissioning of the report.
@@ -648,19 +648,19 @@ The principal Act is amended by inserting, after section 92, the following secti
     (a) provide the information; or
     (b) tell the consent authority in a written notice that the applicant agrees to provide the information; or
     (c) tell the consent authority in a written notice that the applicant refuses to provide the information.
-  (2) A consent authority that receives a written notice under subsection (1)(b) must—
+  (2) A consent authority that receives a written notice under subsection (1)﻿(b) must—
     (a) set a reasonable time within which the applicant must provide the information; and
     (b) tell the applicant in a written notice the date by which the applicant must provide the information.
   (3) The consent authority may decline the application if—
     (a) 1 of the following applies:
       (i) the applicant does not respond within the time limit specified in subsection (1); or
-      (ii) the applicant responds under subsection (1)(b) but does not comply with the time limit set under subsection (2); or
-      (iii) the applicant responds under subsection (1)(c); and
+      (ii) the applicant responds under subsection (1)﻿(b) but does not comply with the time limit set under subsection (2); or
+      (iii) the applicant responds under subsection (1)﻿(c); and
     (b) the authority considers that it has insufficient information to enable it to determine the application.
   (4) If the applicant appeals to the Environment Court against the decision to decline the application, the Court must decide whether the authority had sufficient information to enable it to determine the application.
   (5) If the Court decides that the authority did not have sufficient information to enable it to determine the application, it must decline the appeal.
   (6) If the Court decides that the authority had sufficient information to enable it to determine the application, it must hear and decide the appeal.
-  (1) An applicant who receives a notification under section 92(2)(b) must, within 15 working days of the date of the notification, tell the consent authority in a written notice whether the applicant agrees to the commissioning of the report.
+  (1) An applicant who receives a notification under section 92(2)﻿(b) must, within 15 working days of the date of the notification, tell the consent authority in a written notice whether the applicant agrees to the commissioning of the report.
   (2) The consent authority may decline the application if—
     (a) l of the following applies:
       (i) the applicant does not respond within the time limit specified in subsection (1); or
@@ -713,10 +713,10 @@ Section 97 of the principal Act is amended by adding the words under section 93 
   (8) If a person required to attend a meeting fails to do so, and does not give a reasonable excuse, the consent authority may decline—
     (a) to process the person's application; or
     (b) to consider the person's submission.
-  (9) If the consent authority declines, under subsection (8)(a), to process the person's application,—
+  (9) If the consent authority declines, under subsection (8)﻿(a), to process the person's application,—
     (a) the person may not appeal under section 120 against the decision; and
     (b) the person may object under section 357A against the decision.
-  (10) If the consent authority declines, under subsection (8)(b), to consider the person's submission, the person—
+  (10) If the consent authority declines, under subsection (8)﻿(b), to consider the person's submission, the person—
     (a) may not appeal under section 120 against—
       (i) the decision to decline to consider the submission; or
       (ii) the decision on the application; and
@@ -742,7 +742,7 @@ Section 104 of the principal Act is amended by inserting, after subsection (2), 
   (2A) When considering an application affected by section 124, the consent authority must have regard to the value of the investment of the existing consent holder.
 
 ### 60 Determination of applications for controlled activities
-Section 104A of the principal Act is amended by repealing paragraph (a), and substituting the following paragraph:.
+Section 104A of the principal Act is amended by repealing paragraph (a), and substituting the following paragraph:
   (a) must grant the resource consent, unless it has insufficient information to determine whether or not the activity is a controlled activity; and
 
 ### 61 Implementation of regulations made under section 43
@@ -752,7 +752,7 @@ Section 104A of the principal Act is amended by repealing paragraph (a), and sub
   (b) the word regulations in both places where it appears, and substituting in each place the word standard.
 
 ### 62 Decisions on applications to be in writing, etc
-Section 113(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraphs:.
+Section 113(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraphs:
   (aa) the relevant statutory provisions that were considered by the consent authority; and
   (ab) any relevant provisions of the following that were considered by the consent authority:
     (i) a national policy statement:
@@ -800,7 +800,7 @@ The principal Act is amended by inserting, after section 124, the following sect
     (a) they apply if, when the application is made,—
       (i) the relevant plan has allocated some or all of the natural resources used for the activity to the same type of activity; and
       (ii) the relevant plan does not expressly say that sections 124A to 124C do not apply; and
-    (b) they apply to the extent to which the amount of the resource sought by a person described in section 124B(1)(a) and (b) is equal to or smaller than the amount of the resource that—
+    (b) they apply to the extent to which the amount of the resource sought by a person described in section 124B(1)﻿(a) and (b) is equal to or smaller than the amount of the resource that—
       (i) is allocated to the same type of activity; and
       (ii) is left after the deduction of every amount allocated to every other existing resource consent.
   (3) Sections 124B and 124C do not apply to an application affected by section 124 if, when the application is made, the relevant plan expressly says that sections 124A to 124C do not apply.
@@ -810,9 +810,9 @@ The principal Act is amended by inserting, after section 124, the following sect
     (c) the consent authority receives 1 or more other applications for a resource consent that—
       (i) are to undertake an activity using some or all of the natural resource to which the existing consent relates; and
       (ii) could not be fully exercised until the expiry of the existing consent.
-  (2) The application described in subsection (1)(b) is entitled to priority over every application described in subsection (1)(c).
-  (3) The consent authority must determine the application described in subsection (1)(b) before it determines any application described in subsection (1)(c).
-  (4) The consent authority must determine an application described in subsection (1)(b) by applying all the relevant provisions of this Act and the following criteria:
+  (2) The application described in subsection (1)﻿(b) is entitled to priority over every application described in subsection (1)﻿(c).
+  (3) The consent authority must determine the application described in subsection (1)﻿(b) before it determines any application described in subsection (1)﻿(c).
+  (4) The consent authority must determine an application described in subsection (1)﻿(b) by applying all the relevant provisions of this Act and the following criteria:
     (a) the efficiency of the person's use of the resource; and
     (b) the use of industry good practice by the person; and
     (c) if the person has been served with an enforcement order not later cancelled under section 321, or has been convicted of an offence under section 338,—
@@ -822,17 +822,17 @@ The principal Act is amended by inserting, after section 124, the following sect
   (1) This section applies when—
     (a) a person makes an application for a resource consent to undertake an activity under any of sections 12, 13, 14, and 15 using a natural resource; and
     (b) the person does not hold an existing consent for the same activity using some or all of the same natural resource; and
-    (c) a consent granted as a result of the application could not be fully exercised until the expiry of the consent described in section 124B(1)(a); and
-    (d) the person makes the application more than 3 months before the expiry of the consent described in section 124B(1)(a).
+    (c) a consent granted as a result of the application could not be fully exercised until the expiry of the consent described in section 124B(1)﻿(a); and
+    (d) the person makes the application more than 3 months before the expiry of the consent described in section 124B(1)﻿(a).
   (2) The consent authority must—
     (a) hold the application without processing it; and
     (b) notify the holder of the existing consent—
       (i) that the application has been received; and
       (ii) that the holder may make an application affected by section 124.
-  (3) If the holder of the existing consent notifies the consent authority in writing that the holder does not propose to make an application affected by section 124, the consent authority must process and determine the application described in subsection (1)(a).
-  (4) If the holder of the existing consent does not make an application affected by section 124 more than 3 months before the expiry of the consent, the consent authority must process and determine the application described in subsection (1)(a).
-  (5) If the holder of the existing consent makes an application affected by section 124 more than 3 months before the expiry of the consent, the consent authority must hold the application described in subsection (1)(a) until the determination of the holder's application and any appeal.
-  (6) If the result of the determination of the holder's application and any appeal is that the holder's application affected by section 124 is granted, the application described in subsection (1)(a) lapses to the extent to which the use of the resource has been granted to the holder.
+  (3) If the holder of the existing consent notifies the consent authority in writing that the holder does not propose to make an application affected by section 124, the consent authority must process and determine the application described in subsection (1)﻿(a).
+  (4) If the holder of the existing consent does not make an application affected by section 124 more than 3 months before the expiry of the consent, the consent authority must process and determine the application described in subsection (1)﻿(a).
+  (5) If the holder of the existing consent makes an application affected by section 124 more than 3 months before the expiry of the consent, the consent authority must hold the application described in subsection (1)﻿(a) until the determination of the holder's application and any appeal.
+  (6) If the result of the determination of the holder's application and any appeal is that the holder's application affected by section 124 is granted, the application described in subsection (1)﻿(a) lapses to the extent to which the use of the resource has been granted to the holder.
 
 ### 68 Lapsing of consents
 Section 125(1A) of the principal Act is amended by omitting the expression 357 and, and substituting the words 357A and 357C to.
@@ -847,13 +847,13 @@ Section 127 of the principal Act is amended by repealing subsections (1) and (2)
     (b) no holder of any consent may apply for a change or cancellation of a condition on the duration of the consent.
 
 ### 71 Circumstances when consent conditions can be reviewed
-(1) Section 128(1)(ba) of the principal Act is amended by omitting the words under section 43.
+(1) Section 128(1)﻿(ba) of the principal Act is amended by omitting the words under section 43.
 (2) Section 128 of the principal Act is amended by repealing subsection (2).
 
 ### 72 Notice of review
-(1) Section 129(1)(d) of the principal Act is amended by adding the word ; and.
+(1) Section 129(1)﻿(d) of the principal Act is amended by adding the word ; and.
 (2) Section 129(1) of the principal Act is amended by adding the following paragraph:
-  (e) must advise a consent holder by whom a charge is payable under section 36(1)(cb)—
+  (e) must advise a consent holder by whom a charge is payable under section 36(1)﻿(cb)—
     (i) of the fact that the charge is payable; and
     (ii) of the estimated amount of the charge.
 
@@ -864,7 +864,7 @@ The principal Act is amended by inserting, after section 133, the following sect
 ### 74 Transferability of water permits
 (1) Section 136 of the principal Act is amended by inserting, after subsection (2), the following subsection:
   (2A) A transfer under subsection (1) or subsection (2) may be for a limited period.
-(2) Section 136(5) of the principal Act is amended by inserting, after the expression subsection (2)(b)(ii),, the words and is not for a limited period,.
+(2) Section 136(5) of the principal Act is amended by inserting, after the expression subsection (2)﻿(b)﻿(ii),, the words and is not for a limited period,.
 
 ### 75 New section 137 substituted
 The principal Act is amended by repealing section 137, and substituting the following section:Transferability of discharge permits
@@ -885,7 +885,7 @@ The principal Act is amended by repealing section 137, and substituting the foll
     (c) if the discharge is to water, both sites are in the same catchment; and
     (d) if the discharge is to air and a national environmental standard applies to a discharge to air, both sites are in the same air-shed as defined in the standard; and
     (e) if the discharge is to air and paragraph (d) does not apply, both sites are in the same region.
-  (5) An application under subsection (3)(b)—
+  (5) An application under subsection (3)﻿(b)—
     (a) must be in the prescribed form; and
     (b) must be lodged jointly by the holder of the permit and the person to whom it is proposed to transfer the interest in the permit; and
     (c) must be considered under sections 88 to 115, 120, and 121 as if—
@@ -897,7 +897,7 @@ The principal Act is amended by repealing section 137, and substituting the foll
     (b) the interest, or the part of it transferred, is a new permit on the same conditions as the original permit.
 
 ### 76 New heading substituted
-The principal Act is amended by repealing the heading above section 139, and substituting the following heading:Certificates of compliance or existing use.
+The principal Act is amended by repealing the heading above section 139, and substituting the following heading:Certificates of compliance or existing use
 
 ### 77 Consent authorities to grant certificates of compliance
 (1) Section 139(6) of the principal Act is amended by omitting the expression 20(2), and substituting the expression 20A(2).
@@ -953,11 +953,11 @@ The principal Act is amended by repealing the heading above section 140 and sect
   (1) If a matter relates wholly to a coastal marine area, sections 141A to 150AA apply to the matter with the following modifications:
     (a) references to the Minister must be read as references to the Minister of Conservation; and
     (b) references in sections 148 and 149 to a decision must be read as references to a recommendation; and
-    (c) sections 148(3)(e) and (f) and 149(3)(e) and (f) must be read as one paragraph saying the Minister of Conservation; and
-    (d) section 119(1)(a), (2), (6), and (7) applies to a recommendation made under section 149, as if section 119(1)(a) read a recommendation on an application for a coastal permit for a restricted coastal activity or an application for a coastal permit for an activity that is not a restricted coastal activity.
+    (c) sections 148(3)﻿(e) and (f) and 149(3)﻿(e) and (f) must be read as one paragraph saying the Minister of Conservation; and
+    (d) section 119(1)﻿(a), (2), (6), and (7) applies to a recommendation made under section 149, as if section 119(1)﻿(a) read a recommendation on an application for a coastal permit for a restricted coastal activity or an application for a coastal permit for an activity that is not a restricted coastal activity.
   (2) If a matter relates partly to a coastal marine area, sections 141A to 150AA apply to the matter with the following modifications:
     (a) references to the Minister must be read as references to the Minister for the Environment and the Minister of Conservation; and
-    (b) sections 148(3)(e) and (f) and 149(3)(e) and (f) must be read as one paragraph saying the Minister for the Environment and the Minister of Conservation.
+    (b) sections 148(3)﻿(e) and (f) and 149(3)﻿(e) and (f) must be read as one paragraph saying the Minister for the Environment and the Minister of Conservation.
   (1) This section applies when the Minister—
     (a) receives a request to intervene on a matter from—
       (i) 1 or more applicants; or
@@ -978,10 +978,10 @@ The principal Act is amended by repealing the heading above section 140 and sect
     (d) to appoint a project co-ordinator for a matter to advise the consent authority on anything relating to the matter:
     (e) if the matter involves more than 1 consent authority, to direct the consent authorities to hold a joint hearing on the matter:
     (f) if a consent authority appoints 1 or more hearings commissioners for a matter, to appoint 1 additional hearings commissioner for the matter.
-  (5) If the Minister gives a direction under subsection (4)(e),—
+  (5) If the Minister gives a direction under subsection (4)﻿(e),—
     (a) the consent authorities to which it is given must hold the joint hearing; and
     (b) section 102 applies, with the necessary modifications, to the hearing.
-  (6) If the Minister appoints a hearings commissioner under subsection (4)(f), the commissioner has the same powers, functions, and duties as a commissioner appointed by the consent authority.
+  (6) If the Minister appoints a hearings commissioner under subsection (4)﻿(f), the commissioner has the same powers, functions, and duties as a commissioner appointed by the consent authority.
   (1) When the Minister considers that a matter is or is part of a proposal of national significance, the Minister may call in the matter by making 1 of the following directions:
     (a) a direction that the matter be referred for decision to a board of inquiry under sections 146 to 149; or
     (b) a direction that the matter, after the receipt of any submissions that the local authority or the Minister called for, be referred for decision to the Environment Court under section 150AA.
@@ -1030,7 +1030,7 @@ The principal Act is amended by repealing sections 142 to 147, and substituting 
   (2) Sections 96(2), (3), and (4) and 98 apply, with all necessary modifications, to submissions made under subsection (1), as if every reference to a consent authority were a reference to the Minister.
   (3) Every submission on a matter made to a local authority is deemed to have been made to the Minister.
   (4) The closing date for serving submissions on the Minister is 20 working days after notification of the direction under section 144.
-  (1) This section applies if the Minister makes a direction under section 141B(1)(a).
+  (1) This section applies if the Minister makes a direction under section 141B(1)﻿(a).
   (2) As soon as is reasonably practicable after receiving a matter from a local authority under section 143, the Minister must appoint a board of inquiry to consider the matter.
   (3) The Minister must—
     (a) appoint no fewer than 3, and no more than 5, members to the board; and
@@ -1157,7 +1157,7 @@ The principal Act is amended by repealing section 150, and substituting the foll
 
 ### 83 New section 150AA inserted
 The principal Act is amended by inserting, after section 150, the following section:Reference to Environment Court
-  (1) This section applies if the Minister makes a direction under section 141B(1)(b).
+  (1) This section applies if the Minister makes a direction under section 141B(1)﻿(b).
   (2) The matter is referred to the Environment Court by the applicant lodging a notice of motion and an affidavit under section 291(1).
   (3) The applicant must—
     (a) serve the notice of motion and the affidavit on—
@@ -1173,7 +1173,7 @@ The principal Act is amended by inserting, after section 150, the following sect
     (c) have regard to the things to which a local authority would have regard if it were deciding the matter.
 
 ### 84 Publication, etc, of Order in Council
-Section 154(b)(iv) of the principal Act is amended by omitting, after the word authorities, the words and tribal runanga.
+Section 154(b)﻿(iv) of the principal Act is amended by omitting, after the word authorities, the words and tribal runanga.
 
 ### 85 Plan may specify allocation methods
 Section 165H of the principal Act is amended by inserting, after the words provide for, the words a rule in relation to.
@@ -1211,7 +1211,7 @@ Section 190(1) of the principal Act is amended by inserting, after the expressio
 (2) Section 221(5) of the principal Act is amended by omitting the words by any agreement, and substituting the words after an application or review.
 
 ### 93 Vesting of ownership of land in coastal marine area or bed of lake or river in the Crown or territorial authority
-Section 237A(2) of the principal Act is amended by omitting the expression (1)(b)(i), and substituting the expression (1)(b).
+Section 237A(2) of the principal Act is amended by omitting the expression (1)﻿(b)﻿(i), and substituting the expression (1)﻿(b).
 
 ### 94 Transfers to the Crown or regional council
 Section 237D(1) of the principal Act is amended by omitting the words by the Minister of Conservation or the regional council, as the case may be,.
@@ -1227,7 +1227,7 @@ The principal Act is amended by inserting, after section 251, the following sect
     (b) may for that purpose exercise all the powers of the Principal Environment Judge.
 
 ### 96 Registrar and other officers
-(1) Section 260(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:.
+(1) Section 260(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
   (aa) may have 1 or more Deputy Registrars; and
 (2) Section 260(2) of the principal Act is amended by inserting, after the word Registrar, the words, , a Deputy Registrar,.
 (3) Section 260 of the principal Act is amended by inserting, after subsection (2), the following subsection:
@@ -1244,7 +1244,7 @@ The heading to section 268 of the principal Act is amended by omitting the word 
 Section 274 of the principal Act is amended by repealing subsection (4), and substituting the following subsections:
   (4) A person who becomes a party to the proceedings under this section may appear and call evidence in accordance with subsections (4A) and, if relevant, (4B).
   (4A) Evidence must not be called under subsection (4) unless it is on matters within the scope of the appeal, inquiry, or other proceeding.
-  (4B) However, in the case of a person described in subsection (1)(e), evidence may only be called if it is both—
+  (4B) However, in the case of a person described in subsection (1)﻿(e), evidence may only be called if it is both—
     (a) within the scope of the appeal, inquiry, or other proceeding; and
     (b) on matters arising out of that person's submissions in the previous related proceedings or on any matter on which that person could have appealed.
 
@@ -1322,7 +1322,7 @@ The principal Act is amended by repealing section 293, and substituting the foll
 (1) Section 296 of the principal Act is amended by omitting the heading, and substituting the heading No review of certain decisions.
 (2) Section 296 of the principal Act is amended by adding, as subsection (2), the following subsection:
   (2) In relation to whether a decision made by a consent authority under section 93 or section 94 to notify or not to notify an application for a resource consent was unauthorised or otherwise invalid,—
-    (a) no application for review under Part 1 of the Judicature Amendment Act 1972 may be made; and
+    (a) no application for review under the Judicial Review Procedure Act 2016 may be made; and
     (b) no proceedings seeking a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision, may be heard by the High Court.
 
 ### 109 Notice of appeal
@@ -1330,10 +1330,10 @@ The principal Act is amended by repealing section 293, and substituting the foll
 (2) Section 300(6) of the principal Act is amended by omitting the words at Wellington.
 
 ### 110 Right to appear and be heard on appeal
-Section 301(1)(b) of the principal Act is amended by omitting the words at Wellington.
+Section 301(1)﻿(b) of the principal Act is amended by omitting the words at Wellington.
 
 ### 111 Parties to the appeal before the High Court
-Section 302(2)(a) of the principal Act is amended by omitting the words at Wellington.
+Section 302(2)﻿(a) of the principal Act is amended by omitting the words at Wellington.
 
 ### 112 Orders of the High Court
 Section 303(1) of the principal Act is amended by omitting the words at Wellington.
@@ -1345,7 +1345,7 @@ Section 305(1) of the principal Act is amended by omitting the words at Wellingt
 Section 307 of the principal Act is amended by omitting the words at Wellington.
 
 ### 115 Scope and effect of declaration
-(1) Section 310 of the principal Act is amended by repealing paragraph (b), and substituting the following paragraphs:.
+(1) Section 310 of the principal Act is amended by repealing paragraph (b), and substituting the following paragraphs:
   (b) whether, contrary to section 62(3), a provision or proposed provision of a regional policy statement—
     (i) does not, or is not likely to, give effect to a provision or proposed provision of a national policy statement or New Zealand coastal policy statement; or
     (ii) is, or is likely to be, inconsistent with a water conservation order; or
@@ -1356,7 +1356,7 @@ Section 307 of the principal Act is amended by omitting the words at Wellington.
     (i) contrary to section 75(3), does not, or is not likely to, give effect to a provision or proposed provision of a national policy statement, New Zealand coastal policy statement, or regional policy statement; or
     (ii) contrary to section 75(4), is, or is likely to be, inconsistent with a water conservation order or a regional plan for any matter specified in section 30(1); or
 (2) Section 310(g) of the principal Act is amended by adding the word ; or.
-(3) Section 310 of the principal Act is amended by inserting, after paragraph (g), the following paragraph:.
+(3) Section 310 of the principal Act is amended by inserting, after paragraph (g), the following paragraph:
   (ga) whether a decision made by a consent authority under section 93 or section 94 to notify or not to notify an application for a resource consent was unauthorised or otherwise invalid; or
 (4) Section 310(h) of the principal Act is amended by omitting the words , except for an issue as to whether any of sections 93 to 94C have been, or will be contravened.
 
@@ -1373,7 +1373,7 @@ Section 313 of the principal Act is amended by adding, as subsections (2) and (3
       (ii) giving the consent authority any directions it thinks just as to the reconsideration of a part or the whole of its decision:
     (c) make an order setting aside a part or the whole of a resource consent granted on the basis of a decision made by the consent authority under section 93 or section 94:
     (d) despite section 319(2), make an order to prevent the exercise of a resource consent until a decision has been made by the consent authority in accordance with an order of the Court made under paragraph (a).
-  (3) If the Environment Court gives directions under subsection (2)(b)(ii),—
+  (3) If the Environment Court gives directions under subsection (2)﻿(b)﻿(ii),—
     (a) the Court must give reasons for those directions; and
     (b) the consent authority must, in reconsidering its decision in accordance with the directions of the Court, have regard to the reasons of the Court.
 
@@ -1381,7 +1381,7 @@ Section 313 of the principal Act is amended by adding, as subsections (2) and (3
 Section 325A(7) of the principal Act is amended by omitting the words ; but nothing in section 325(3) shall apply in relation to a notice of appeal lodged under section 325(2) (as applied by this subsection).
 
 ### 119 Meaning of excessive noise
-Section 326(2)(a) of the principal Act is amended by omitting the words regulations made under section 43, and substituting the words a national environmental standard.
+Section 326(2)﻿(a) of the principal Act is amended by omitting the words regulations made under section 43, and substituting the words a national environmental standard.
 
 ### 120 Emergency works and power to take preventive or remedial action
 (1) Section 330 of the principal Act is amended by inserting, after subsection (1), the following subsection:
@@ -1411,7 +1411,7 @@ Section 326(2)(a) of the principal Act is amended by omitting the words regulati
     - **Registrar** has the same meaning as in section 2(1) of the Summary Proceedings Act 1957.
 
 ### 123 Matters may be determined by arbitration
-Section 356(2)(b) of the principal Act is amended by omitting the words section 140 (which relates to call-in), and substituting the words section 141C.
+Section 356(2)﻿(b) of the principal Act is amended by omitting the words section 140 (which relates to call-in), and substituting the words section 141C.
 
 ### 124 Objections to certain decisions and requirements of consent authorities
 The principal Act is amended by repealing section 357, and substituting the following heading and sections:Rights of objectionRight of objection to local authorities against certain decisionsRight of objection to consent authority against certain decisions or requirementsRight of objection in relation to imposition of additional charges or recovery of costsProcedure for making and hearing objection under sections 357 to 357BDecision on objections made under sections 357 to 357B
@@ -1425,19 +1425,19 @@ The principal Act is amended by repealing section 357, and substituting the foll
   (1) There is a right of objection to a consent authority,—
     (a) in respect of a decision of that authority, for any person who has made an application under—
       (i) section 124(2) (which relates to the exercise of a resource consent while applying for a new resource consent):
-      (ii) section 125(1)(b) (which relates to the lapsing of consents):
-      (iii) section 126(2)(b) (which relates to the cancellation of consents):
+      (ii) section 125(1)﻿(b) (which relates to the lapsing of consents):
+      (iii) section 126(2)﻿(b) (which relates to the cancellation of consents):
       (iv) section 139 (which relates to certificates of compliance):
       (v) section 139A (which relates to existing use certificates):
     (b) in respect of a request to provide further information, for a person who has been so requested by a consent authority under section 92(1):
-    (c) in respect of a request to consent to the commissioning of a report, for a person who has been so requested under section 92(2)(b):
+    (c) in respect of a request to consent to the commissioning of a report, for a person who has been so requested under section 92(2)﻿(b):
     (d) in respect of an application or a submission that a consent authority declines to process or to consider, as provided for by section 99(8), for the person who made the application or submission:
     (e) in respect of a consent authority's decision on an application or review of a kind referred to in subsection (2), for an applicant or consent holder if—
       (i) the application or review was not notified or notice of the application or review was not served (in accordance with section 93, section 94, section 127(3), or section 130); or
       (ii) the application or review was notified or served and—
         (A) no submissions were received; or
         (B) any submissions received were withdrawn.
-  (2) Unless subsection (3) applies, subsection (1)(e) applies to—
+  (2) Unless subsection (3) applies, subsection (1)﻿(e) applies to—
     (a) an application made under section 88 for a resource consent; or
     (b) an application made under section 127 for a change or cancellation of a condition of a resource consent; or
     (c) a review of the conditions of a resource consent under sections 128 to 132; or
@@ -1459,26 +1459,26 @@ The principal Act is amended by repealing section 357, and substituting the foll
     (b) uphold the objection in whole or in part; or
     (c) in the case of an objection under section 357B(a), as it relates to an additional charge under section 36(3), remit the whole or any part of the additional charge over which the objection was made.
   (2) The consent authority or local authority must, within 15 working days after making its decision on the objection, give to the objector, and to every person whom the local authority considers appropriate, notice in writing of its decision on the objection and the reasons for it.
-  (3) In the case of an objection made under section 357A(1)(e), if the consent authority upholds the objection in whole or in part, that decision replaces the part of the earlier decision to which the objection relates.
+  (3) In the case of an objection made under section 357A(1)﻿(e), if the consent authority upholds the objection in whole or in part, that decision replaces the part of the earlier decision to which the objection relates.
 
 ### 125 Appeals against certain decisions or objections
 (1) Section 358(1) of the principal Act is amended by inserting, after the expression 357, the words or section 357A or section 357B.
-(2) Section 358(2) of the principal Act is amended by omitting the expression 357(7)(c), and substituting the expression 357D(2).
+(2) Section 358(2) of the principal Act is amended by omitting the expression 357(7)﻿(c), and substituting the expression 357D(2).
 
 ### 126 Provisions deemed to be regional rules
 Section 369(13) of the principal Act is amended by omitting the word and in the first place where it appears, and substituting the word to.
 
 ### 127 Regulations
-Section 360(1) of the principal Act is amended by inserting, after paragraph (hh), the following paragraph:.
+Section 360(1) of the principal Act is amended by inserting, after paragraph (hh), the following paragraph:
   (hi) prescribing criteria for the exercise, in a particular hearing or class of hearing, of any of the powers specified in sections 41B and 41C:
 
 ### 128 Transitional provisions for public utilities
-Section 375(1)(a) of the principal Act is amended by omitting subparagraph (iv), and substituting the following subparagraph:
+Section 375(1)﻿(a) of the principal Act is amended by omitting subparagraph (iv), and substituting the following subparagraph:
   (iv) lines as defined by section 5 of the Telecommunications Act 2001.
 
 ### 129 Schedules 1 and 4 amended
 (1) Schedule 1 of the principal Act is amended in the manner indicated in Schedule 1.
-(2) Schedule 4 of the principal Act is amended by repealing clause 1(h), and substituting the following paragraph:.
+(2) Schedule 4 of the principal Act is amended by repealing clause 1(h), and substituting the following paragraph:
   (h) identification of the persons affected by the proposal, the consultation undertaken, if any, and any response to the views of any person consulted:
 (3) Schedule 4 of the principal Act is amended by inserting, after clause 1, the following clause:
   To avoid doubt, clause 1(h) obliges an applicant to report as to the persons identified as being affected by the proposal, but does not—
@@ -1496,7 +1496,7 @@ The principal Act is amended by inserting, after Schedule 1, the Schedule 1AA se
   (c) a requirement for a designation or heritage order for which, at the commencement of this Act, notice has been given under sections 168 or 168A or sections 189 or 189A of the principal Act, as the case may be, but which has not proceeded to the stage where no further appeal is possible.
 (2) Subsection (1) applies subject to subsections (3) to (9).
 (3) Section 39B(1) to (4) of the principal Act applies to an application made before the commencement of those provisions if, at their respective commencement dates, the hearing has not commenced.
-(4) Sections 67(1), (2), (3)(a) and (b), (4), and (6) and 75(1), (2), (3)(a) and (b), (4), and (5) of the principal Act, as substituted by sections 41 and 46, apply to a proposed plan that, at the commencement of this Act, has been notified.
+(4) Sections 67(1), (2), (3)﻿(a) and (b), (4), and (6) and 75(1), (2), (3)﻿(a) and (b), (4), and (5) of the principal Act, as substituted by sections 41 and 46, apply to a proposed plan that, at the commencement of this Act, has been notified.
 (5) If, at the commencement of this Act, a hearing has not commenced, the following provisions apply to an application for a resource consent made before the commencement of this Act:
   (a) section 99 of the principal Act as substituted by this Act; and
   (b) section 99A of the principal Act inserted by this Act.
@@ -1528,11 +1528,11 @@ The principal Act is amended by inserting, after Schedule 1, the Schedule 1AA se
   (b) that notice of such an application does not need to be served.
 
 ### 134 Transitional provision on allocation plans
-The enactment of section 30(1)(fa) and (fb) and (4) of the principal Act by this Act has no effect on any plan made before the day after the date on which this Act receives the Royal assent.
+The enactment of section 30(1)﻿(fa) and (fb) and (4) of the principal Act by this Act has no effect on any plan made before the day after the date on which this Act receives the Royal assent.
 
 ### 135 Transitional provisions relating to regulations made under provisions of principal Act
 (1) Sections 43B, 43D, and 43E of the principal Act, as substituted by section 29, do not apply to national environmental standards made before the commencement of this Act.
-(2) Regulations made under section 360(1)(hi) of the principal Act may provide how the powers specified in sections 41B and 41C of the principal Act apply to a hearing that has commenced before the regulations come into force.
+(2) Regulations made under section 360(1)﻿(hi) of the principal Act may provide how the powers specified in sections 41B and 41C of the principal Act apply to a hearing that has commenced before the regulations come into force.
 
 ## Schedule 1 — Amendments to Schedule 1 of principal Act
 
@@ -1601,21 +1601,21 @@ The enactment of section 30(1)(fa) and (fb) and (4) of the principal Act by this
     (i) must advise the Minister and every affected local authority as soon as is reasonably practicable after the date prescribed in section 15(1) of the Local Government Act 2002; and
     (ii) may submit the matter to mediation.
 (3) If subclause (2) applies, the parts of the triennial agreement other than the part relating to the consultative process referred to in subclause (1) may be confirmed before—
-  (a) an agreement on the consultative process is reached under subclauses (4) and (5)(a); or
-  (b) the Minister makes a binding determination under subclause (5)(b).
+  (a) an agreement on the consultative process is reached under subclauses (4) and (5)﻿(a); or
+  (b) the Minister makes a binding determination under subclause (5)﻿(b).
 (4) Mediation must be by a mediator or a mediation process agreed to by the affected local authorities.
 (5) If the matter is not submitted to mediation or if mediation is unsuccessful, the Minister may either—
   (a) make an appointment under section 25 for the purpose of determining a consultation process to be used in the course of preparing a proposed policy statement or reviewing a policy statement; or
   (b) make a binding determination as to the consultation process that must be used.
 (6) The consultative process must form part of the triennial agreement, whether or not the other parts of the triennial agreement have been confirmed, in the event that—
-  (a) an agreement is reached under subclause (4) or subclause (5)(a) as to a consultative process, as required by subclause (1); or
-  (b) the Minister makes a binding determination under subclause (5)(b).
+  (a) an agreement is reached under subclause (4) or subclause (5)﻿(a) as to a consultative process, as required by subclause (1); or
+  (b) the Minister makes a binding determination under subclause (5)﻿(b).
 (7) In this clause, affected local authorities means—
   (a) the regional council of a region; and
   (b) every territorial authority whose district is wholly or partly in the region of the regional council.
 
 ### 3B Consultation with iwi authorities
-For the purposes of clause 3(1)(d), a local authority is to be treated as having consulted with iwi authorities in relation to those whose details are entered in the record kept under section 35A, if the local authority—
+For the purposes of clause 3(1)﻿(d), a local authority is to be treated as having consulted with iwi authorities in relation to those whose details are entered in the record kept under section 35A, if the local authority—
   (a) considers ways in which it may foster the development of their capacity to respond to an invitation to consult; and
   (b) establishes and maintains processes to provide opportunities for those iwi authorities to consult it; and
   (c) consults with those iwi authorities; and
