@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2017-01-04_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -415,7 +415,7 @@ The provisions of this Act relating to nuisances shall be deemed not to abridge 
 The provisions of this Act relating to nuisances, including any regulations or bylaws thereunder, shall, unless otherwise specifically provided therein, apply to nuisances created by the Government or by any employee thereof in his capacity as such employee.
 
 ### 33 Proceedings in respect of nuisances
-(1) All proceedings under this Act in respect of nuisances shall be heard and determined by a District Court presided over by a District Court Judge alone.
+(1) All proceedings under this Act in respect of nuisances shall be heard and determined by the District Court presided over by a District Court Judge alone.
 (2) The court, if satisfied that a nuisance exists on the premises, or that, though abated, it is likely to recur, may by order—
   (a) require the owner and the occupier to abate the nuisance effectively:
   (b) prohibit the recurrence of the nuisance:
@@ -480,10 +480,10 @@ In any case where it appears that a nuisance existing within the district of a l
 (6) Without limiting anything in subsections (3) and (4), every owner commits an offence against this Act who fails without reasonable excuse to comply with a repair notice served on the owner under subsection (2).
 
 ### 43 Appeal against closing order
-(1) The owner or occupier of any premises in respect of which a closing order is issued, or any person having a registered interest in the land under any mortgage or other encumbrance, may appeal against the closing order by applying to a District Court, within 14 days after the service on him of the closing order, or, as the case may be, the copy of the closing order, for an order cancelling or modifying the closing order.
+(1) The owner or occupier of any premises in respect of which a closing order is issued, or any person having a registered interest in the land under any mortgage or other encumbrance, may appeal against the closing order by applying to the District Court, within 14 days after the service on him of the closing order, or, as the case may be, the copy of the closing order, for an order cancelling or modifying the closing order.
 (2) Pending the determination of any such application the closing order shall be deemed to be suspended.
 (3) On the hearing of the application the court, whose decision shall be final, may cancel the closing order, or may confirm it either absolutely or subject to such modifications and conditions as the court thinks fit.
-(4) Every application to the court under this section shall be made and dealt with by way of originating application, on notice, under the rules of procedure for the time being in force under the District Courts Act 1947, and the provisions of those rules shall apply accordingly.
+(4) Every application to the court under this section shall be made and dealt with by way of originating application, on notice, under the rules of procedure for the time being in force under the District Court Act 2016, and the provisions of those rules shall apply accordingly.
 
 ### 44 Issue of closing order by medical officer of health
 (1) Where a local authority fails to issue a repair notice or a closing order when required or directed to do so under section 42, the medical officer of health, when authorised to do so by the Director-General, may issue a repair notice or, as the case may require, a closing order, which shall be served in the same manner and shall have the same effect, and, in the case of a closing order, shall be subject to appeal in the same manner, as if it were a repair notice or a closing order issued by the local authority, and the provisions of this Act relating thereto, so far as they are applicable and with the necessary modifications, shall apply accordingly.
@@ -491,7 +491,7 @@ In any case where it appears that a nuisance existing within the district of a l
 
 ### 45 Determination of closing order
 (1) As soon as the repairs, alterations, or works specified in a closing order have been carried out to the satisfaction of the Engineer or other authorised officer of the local authority or, as the case may require, the medical officer of health, the local authority or medical officer of health shall cancel the closing order, which shall then cease to have any force or effect.
-(2) Every person aggrieved by any refusal or failure of the local authority or medical officer of health to cancel a closing order under this section may appeal against that refusal or failure by applying to a District Court for an order cancelling the closing order.
+(2) Every person aggrieved by any refusal or failure of the local authority or medical officer of health to cancel a closing order under this section may appeal against that refusal or failure by applying to the District Court for an order cancelling the closing order.
 (3) Every such application to the court shall be made and dealt with in the same manner as if it were an appeal against the issue of a closing order.
 (4) On the hearing of any such application the court, whose decision shall be final, may make such order as it thinks fit.
 
@@ -1741,7 +1741,7 @@ This Part does not apply to any water—
     (ii) clothing, bedding, or tents or other temporary facilities or structures; or
     (iii) personnel involved in loading, moving, unloading, distributing, erecting, or otherwise dealing with anything transported or to be transported under subparagraph (i) or subparagraph (ii):
   (c) by requisition in writing served on the occupier of any premises or on any person for the time being in charge of any premises, require to be delivered to him or in accordance with his order such drugs and articles of food or drink, and such other materials, as he deems necessary for the treatment of patients.
-(2) Every person who suffers any loss or damage by the exercise of any of the powers conferred on the medical officer of health by this section shall be entitled to compensation to be determined in case of dispute by a District Court, whose decision shall be final.
+(2) Every person who suffers any loss or damage by the exercise of any of the powers conferred on the medical officer of health by this section shall be entitled to compensation to be determined in case of dispute by the District Court, whose decision shall be final.
 (3) Every person who refuses or fails to comply with any requisition under this section, or who counsels, procures, aids, or incites any other person so to do, or who interferes with or obstructs the medical officer of health or any person acting under the authority of the medical officer of health in the exercise of any powers under this section, commits an offence and is liable on conviction before a District Court Judge to a fine not exceeding $1,000.
 
 ### 71A Power of constables to assist medical officer of health in relation to infectious diseases
@@ -1903,7 +1903,7 @@ Where any article dealt with by a local authority or any environmental health of
 (3) If the destruction was necessary by reason of any breach or neglect of duty or of the ordinary rules of sanitary carefulness or cleanliness on the part of the claimant, or of any person for whose acts or default the claimant is responsible, no compensation shall be payable.
 (4) If the destruction was necessary by reason of any such breach or neglect as aforesaid on the part of the local authority, the compensation shall be payable by that local authority.
 (5) If the destruction was necessary in the interests of public health, and without any such breach or neglect as aforesaid, the compensation shall be payable out of money to be appropriated by Parliament for the purpose.
-(6) All questions and disputes relating to claims for compensation shall be heard and determined by a District Court, whose decision shall be final.
+(6) All questions and disputes relating to claims for compensation shall be heard and determined by the District Court, whose decision shall be final.
 
 ### 87A Communicable diseases occurring in animals
 (1) The Governor-General may from time to time by Order in Council specify the communicable diseases to which this section shall apply.
@@ -3292,7 +3292,7 @@ The Minister may apply to the High Court for a writ of mandamus to compel a loca
 (3) The powers conferred by subsection (2) may be exercised in respect of any private school, and in respect of the children attending there, if application in that behalf is made in writing to the medical officer of health by the controlling authority thereof. Any such application may be revoked in like manner at any time.
 
 ### 126 Infirm and neglected persons
-(1) If any aged, infirm, incurable, or destitute person is found to be living in insanitary conditions or without proper care or attention, a District Court may, on the application of the medical officer of health, make an order for the committal of that person to any appropriate hospital or institution available for the reception of such persons.
+(1) If any aged, infirm, incurable, or destitute person is found to be living in insanitary conditions or without proper care or attention, the District Court may, on the application of the medical officer of health, make an order for the committal of that person to any appropriate hospital or institution available for the reception of such persons.
 (2) An order under this section may be made in respect of any such person who habitually lives in any such conditions as aforesaid, notwithstanding that at the time of the application or of the order he may have been temporarily removed from such conditions or such conditions may have been temporarily remedied.
 (3) If any person in respect of whom an order is made under this section refuses to comply with that order, any environmental health officer under this Act or any constable may, without further warrant than this section, take that person and place him in the custody of the Medical Superintendent or manager or other person in charge of such hospital or institution as aforesaid, who shall have authority to detain him pursuant to the order of committal.
 
@@ -3335,7 +3335,7 @@ For the purposes of this Act any medical officer of health, or any health protec
 
 ### 132 Procedure in respect of charges on land
 Where by this Act any money is declared to be a charge on any land the following provisions shall apply:
-  (a) if any question or dispute arises as to the fact or amount of the charge, or as to the land subject thereto, or as to the persons liable to pay the amount of the charge, it shall be determined by a District Court on the application of any interested party, and the court's decision shall be final:
+  (a) if any question or dispute arises as to the fact or amount of the charge, or as to the land subject thereto, or as to the persons liable to pay the amount of the charge, it shall be determined by the District Court on the application of any interested party, and the court's decision shall be final:
   (b) subject to any decision of the court, a certificate under the hand of the medical officer of health or of the mayor, chairperson, or chief executive of the local authority is sufficient evidence of the amount of the charge, the land subject to the charge, and the persons liable to pay the amount of the charge:
   (c) the charge may be registered under the provisions of the Statutory Land Charges Registration Act 1928:
   (d) except as hereinafter provided, the charge shall, on registration, have priority over all existing or subsequent mortgages, charges, or encumbrances howsoever created. Notwithstanding anything to the contrary in any other Act, if any land subject to the charge is also subject to a charge created by that other Act, the charges shall rank equally with each other unless by virtue of that other Act the charge created thereby would be deferred to the charge created by this Act.
