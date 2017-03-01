@@ -1,5 +1,5 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—ato secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbto provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner’s functions and powers; andcto provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddto provide for the promulgation of a Code of Health and Disability Services Consumers’ Rights; andeto provide for matters incidental thereto
 
@@ -555,7 +555,7 @@ Nothing in section 50 or section 51 authorises or permits the Director of Procee
 (1) The Director of Proceedings may appear and be heard, in person or by counsel,—whether or not the Director of Proceedings is or was a party to the proceedings before the Tribunal.
   (a) in any proceedings under this Act before the Human Rights Review Tribunal; and
   (b) in any proceedings in—in relation to any proceedings that are or have been before the Tribunal under this Act,—
-    (i) a District Court; or
+    (i) the District Court; or
     (ii) the High Court; or
     (iii) the Court of Appeal,—
 (2) Where, pursuant to subsection (1), the Director of Proceedings appears in any proceedings of a kind described in that subsection, he or she shall, unless those proceedings are by way of appeal, have the right—but shall have no greater rights than parties to the proceedings in respect of the calling of evidence or evidence in rebuttal, or in respect of the examination, cross-examination, and re-examination of witnesses.
@@ -808,16 +808,3 @@ Amendment(s) incorporated in the Act(s).
 
 ### 13 Exemption from income tax
 The income of the Commissioner shall be exempt from income tax.
-
-### 1 Title
-This Act is the Mental Health Commission Amendment Act 2012.
-
-### 2 Commencement
-This Act comes into force on 1 July 2012.
-
-**Other amendments**
-
-### 5 Amendments to Health and Disability Commissioner Act 1994
-(1) This section amends the Health and Disability Commissioner Act 1994.
-(2)–(5) Amendment(s) incorporated in the Act(s).
-(6) The person who, immediately before the commencement of this section, was the chairperson of the Mental Health Commission is deemed to have been appointed as the first Mental Health Commissioner until the close of 31 August 2015 and holds that new office on the same terms and conditions as he or she held that former office (as if determined by the Remuneration Authority).
