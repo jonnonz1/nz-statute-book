@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2014-12-12_
+_Consolidation as at 2017-03-01_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -11,7 +11,7 @@ _Consolidation as at 2014-12-12_
 (1) In this Act, unless the context otherwise requires,—
   - **clinician** means a person who holds a professional qualification relevant to the assessment, treatment, and care of patients with mental disorder
   - **court** means—
-    (a) a District Court; or
+    (a) the District Court; or
     (b) as the case may be, the Court Martial of New Zealand established under section 8 of the Court Martial Act 2007 when acting under Part 10 of the Armed Forces Discipline Act 1971
   - **Deputy Director** means the person who for the time being holds the office of Deputy Director of Mental Health pursuant to section 91
   - **Director** means the person who for the time being holds the office of Director of Mental Health pursuant to section 91
@@ -29,12 +29,12 @@ _Consolidation as at 2014-12-12_
     (b) at a time before 1 October 2004, includes premises licensed or deemed to be licensed as a psychiatric hospital pursuant to Part 5 of the Hospitals Act 1957
   - **hospital mental health care** means hospital care (within the meaning of the Health and Disability Services (Safety) Act 2001) that is, or consists principally of, mental health services
   - **medical officer** means a medical practitioner, other than the person in charge of a hospital, employed in a service
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **mental disorder** , in relation to any person, means an abnormal state of mind (whether of a continuous or an intermittent nature), characterised by delusions, or by disorders of mood or perception or volition or cognition, of such a degree that it—and , in relation to any such person, has a corresponding meaning
     (a) poses a serious danger to the health or safety of that person or of others; or
     (b) seriously diminishes the capacity of that person to take care of himself or herself;—
   - **Minister** means the Minister of Health
-  - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
+  - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
   - **official visitor** means a person appointed pursuant to section 94 to be an official visitor
   - **patient** means a person who is—
     (a) required to undergo assessment under section 11 or section 13; or
@@ -46,8 +46,8 @@ _Consolidation as at 2014-12-12_
   - **proposed patient** has the meaning given to that term by section 2A
   - **psychiatric security institution** means a hospital, or part of a hospital, declared under section 100 to be a psychiatric security institution
   - **psychiatrist** means a medical practitioner whose scope of practice includes psychiatry
-  - **psychologist** means a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology
-  - **Registrar** means the Registrar of a District Court
+  - **psychologist** means a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology
+  - **Registrar** means the Registrar of the District Court
   - **relative** , in relation to any person, includes—
     (a) a person who is married to, or in a civil union or a de facto relationship with, that person; or
     (b) a person who is married to, or in a civil union or a de facto relationship with, a person who is connected by blood relationship to that person
@@ -61,13 +61,13 @@ _Consolidation as at 2014-12-12_
     (b) a service provided by, or managed by, an institution that was, immediately before the commencement of this Act, a licensed institution under section 9 of the Mental Health Act 1969
   - **special patient** means—
     (a) a person who is liable to be detained in a hospital under an order made under—
-      (i) section 24(2)(a) or section 38(2)(c) or section 44(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
+      (i) section 24(2)﻿(a) or section 38(2)﻿(c) or section 44(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
       (ii) section 169 of the Criminal Procedure Act 2011; or
     (b) a person who is remanded to a hospital under section 23 or section 35 of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
-    (c) a person who is liable to be detained in a hospital under section 34(1)(a)(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, and who has not ceased, under section 48 of this Act, to be a special patient; or
+    (c) a person who is liable to be detained in a hospital under section 34(1)﻿(a)﻿(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, and who has not ceased, under section 48 of this Act, to be a special patient; or
     (d) a person who is liable to be detained in a hospital, either following an application under section 45(2) or arrangements made under section 46, and who has not ceased, under section 48, to be a special patient; or
-    (da) a person who is liable to be detained in a hospital under section 191(2)(a) of the Armed Forces Discipline Act 1971; or
-    (e) a person who, in accordance with section 136(5)(a) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, must be held as a special patient
+    (da) a person who is liable to be detained in a hospital under section 191(2)﻿(a) of the Armed Forces Discipline Act 1971; or
+    (e) a person who, in accordance with section 136(5)﻿(a) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, must be held as a special patient
   - **welfare guardian** has the same meaning as it has in section 2 of the Protection of Personal and Property Rights Act 1988.
 (2)
 
@@ -75,8 +75,8 @@ _Consolidation as at 2014-12-12_
 A person—
   (a) starts being a proposed patient when an application is made under section 8A; and
   (b) stops being a proposed patient when a medical practitioner records a finding—
-    (i) under section 10(1)(b)(i), in which case the person does not become a patient; or
-    (ii) under section 10(1)(b)(ii), in which case the person becomes a patient.
+    (i) under section 10(1)﻿(b)﻿(i), in which case the person does not become a patient; or
+    (ii) under section 10(1)﻿(b)﻿(ii), in which case the person becomes a patient.
 
 ### 3 Act to bind Crown
 This Act shall bind the Crown.
@@ -149,8 +149,8 @@ An application is made under this section when the Director of Area Mental Healt
 (1) This section applies when—
   (a) a medical practitioner is asked, by an applicant, to issue a certificate to accompany the application form; or
   (b) a medical practitioner is the applicant and wishes to issue a certificate to accompany his or her application form.
-(2) A medical practitioner to whom subsection (1)(a) applies must not issue a certificate if he or she is related to the applicant or to the person.
-(3) A medical practitioner to whom subsection (1)(b) applies must not issue a certificate if he or she is related to the person.
+(2) A medical practitioner to whom subsection (1)﻿(a) applies must not issue a certificate if he or she is related to the applicant or to the person.
+(3) A medical practitioner to whom subsection (1)﻿(b) applies must not issue a certificate if he or she is related to the person.
 (4) The medical practitioner must—
   (a) examine the person; and
   (b) if he or she considers that there are reasonable grounds for believing that the person may be suffering from a mental disorder, issue the certificate.
@@ -172,10 +172,10 @@ An application is made under this section when the Director of Area Mental Healt
     (iii) stating the name of the person who is to conduct the assessment examination:
   (d) ensuring that the purpose of the assessment examination and the requirements of the notice given under paragraph (c) are explained to the proposed patient in the presence of a member of the proposed patient's family, or a caregiver in relation to the proposed patient or other person concerned with the welfare of the proposed patient:
   (e) ensuring, where necessary, that appropriate arrangements are made to convey the proposed patient at the required time to the place where the assessment examination is to be conducted, and, where it is necessary or desirable that the proposed patient be accompanied on the journey, ensuring that an appropriate person is available to do so.
-(3) Every assessment examination shall be conducted by a medical practitioner (but not being the medical practitioner who issued the certificate under section 8B(4)(b)), being—
+(3) Every assessment examination shall be conducted by a medical practitioner (but not being the medical practitioner who issued the certificate under section 8B(4)﻿(b)), being—
   (a) a psychiatrist approved by the Director of Area Mental Health Services for the purposes of the assessment examination or of assessment examinations generally; or
   (b) if no such psychiatrist is reasonably available, some other medical practitioner who, in the opinion of the Director of Area Mental Health Services, is suitably qualified to conduct the assessment examination or assessment examinations generally.
-(4) For the purposes of subsection (1), an application under section 8A is deemed to have been made if the Director of Area Mental Health Services or a duly authorised officer receives notice of it from the medical practitioner who issued the certificate relating to the person under section 8B(4)(b). The medical practitioner may give notice by any means, including by telephone. The assessment examination must not take place until the Director of Area Mental Health Services, or a duly authorised officer, or the medical practitioner who is to conduct the examination receives an application relating to the person and complying with section 8A.
+(4) For the purposes of subsection (1), an application under section 8A is deemed to have been made if the Director of Area Mental Health Services or a duly authorised officer receives notice of it from the medical practitioner who issued the certificate relating to the person under section 8B(4)﻿(b). The medical practitioner may give notice by any means, including by telephone. The assessment examination must not take place until the Director of Area Mental Health Services, or a duly authorised officer, or the medical practitioner who is to conduct the examination receives an application relating to the person and complying with section 8A.
 
 ### 10 Certificate of preliminary assessment
 (1) After completing the assessment examination, the medical practitioner shall record his or her findings in a certificate of preliminary assessment, stating—
@@ -200,7 +200,7 @@ An application is made under this section when the Director of Area Mental Healt
   (c) otherwise deal with the case in accordance with section 11.
 
 ### 11 Further assessment and treatment for 5 days
-(1) If the medical practitioner records a finding under section 10(1)(b)(ii), the medical practitioner must require the patient to undergo further assessment and treatment throughout the first period. The medical practitioner must give the patient written notice of this requirement.
+(1) If the medical practitioner records a finding under section 10(1)﻿(b)﻿(ii), the medical practitioner must require the patient to undergo further assessment and treatment throughout the first period. The medical practitioner must give the patient written notice of this requirement.
 (2) In the notice, the medical practitioner must—
   (a) require the patient to attend at the patient's place of residence, or at some other place nominated in the notice, for the purposes of assessment and treatment throughout the first period; or
   (b) if the medical practitioner considers that the patient cannot be further assessed and treated adequately as an outpatient, direct that the patient be admitted to and detained in a specified hospital for the purposes of assessment and treatment throughout the first period.
@@ -216,7 +216,7 @@ An application is made under this section when the Director of Area Mental Healt
     (i) in the patient's clinical records; and
     (ii) in a written notice given to the patient and to the person in charge of the hospital.
 (6) If, at any time during the first period, the responsible clinician considers that a patient is fit to be released from compulsory status, the clinician must give a written notice to the patient and, if necessary, to the person in charge of the hospital directing that the patient be released from that status immediately.
-(7) At any time during the first period, the patient, or a person specified in section 10(4)(a)(ii) to (v), may apply to the court to have the patient's condition reviewed under section 16 (without limiting anything in this section).
+(7) At any time during the first period, the patient, or a person specified in section 10(4)﻿(a)﻿(ii) to (v), may apply to the court to have the patient's condition reviewed under section 16 (without limiting anything in this section).
 
 ### 12 Certificate of further assessment
 (1) Before the expiry of the first period of assessment and treatment, the responsible clinician shall record his or her findings in a certificate of further assessment, stating—
@@ -230,7 +230,7 @@ An application is made under this section when the Director of Area Mental Healt
   (c) a copy of any notice given to the patient under section 13(1).
 (3) If the responsible clinician is of the opinion that the patient is not mentally disordered, that clinician shall direct that the patient be released from compulsory status forthwith (but without prejudice to the making of a further application under section 8A in respect of the patient at some time in the future).
 (4) If the responsible clinician considers that there remain reasonable grounds for believing that the patient is mentally disordered and that it is desirable that the patient be required to undergo further assessment and treatment, that clinician shall deal with the case in accordance with the succeeding provisions of this section and section 13.
-(5) If the responsible clinician's finding is of the kind described in subsection (1)(b)(ii), that clinician shall forthwith give or send a copy of the certificate of further assessment to each of the following:
+(5) If the responsible clinician's finding is of the kind described in subsection (1)﻿(b)﻿(ii), that clinician shall forthwith give or send a copy of the certificate of further assessment to each of the following:
   (a) the patient:
   (b) any welfare guardian of the patient:
   (c) the applicant for assessment:
@@ -247,7 +247,7 @@ An application is made under this section when the Director of Area Mental Healt
 (12) Notwithstanding any of the foregoing provisions of this section, at any time during the second period, the patient, or any person specified in paragraphs (b) to (e) of subsection (5), may apply to the court to have the patient's condition reviewed under section 16.
 
 ### 13 Further assessment and treatment for 14 days
-(1) If the responsible clinician records a finding under section 12(1)(b)(ii), the clinician must require the patient to undergo further assessment and treatment throughout the second period. The responsible clinician must give the patient written notice of this requirement.
+(1) If the responsible clinician records a finding under section 12(1)﻿(b)﻿(ii), the clinician must require the patient to undergo further assessment and treatment throughout the second period. The responsible clinician must give the patient written notice of this requirement.
 (2) In the notice, the responsible clinician must—
   (a) require the patient to attend at the patient's place of residence, or at some other place nominated in the notice, for the purposes of assessment and treatment throughout the second period; or
   (b) if the responsible clinician considers that the patient cannot be further assessed and treated adequately as an outpatient, direct that the patient be admitted to and detained in a specified hospital for the purposes of assessment and treatment throughout the second period.
@@ -372,7 +372,7 @@ An application is made under this section when the Director of Area Mental Healt
 (4) The court shall order that a copy of a report given to a barrister or solicitor under subsection (3) shall not be given or shown to the person for whom the barrister or solicitor is acting if the court has reason to believe that such disclosure of the contents of the report may pose a serious threat to the health or safety of the patient or of any other person.
 (5) Any party to the proceedings may tender evidence on any matter referred to in any such report.
 (6) The court may call the person making the report as a witness, either on its own initiative or on the application of any party to the proceedings.
-(7) A court that requests a person to prepare a report must make 1 of the orders described in subsection (8). A court considering whether or not to make an order under subsection (8)(a) must hear the party or parties affected.
+(7) A court that requests a person to prepare a report must make 1 of the orders described in subsection (8). A court considering whether or not to make an order under subsection (8)﻿(a) must hear the party or parties affected.
 (8) The orders are—
   (a) an order for the fees and expenses of the person to be paid by any party or parties to the proceedings, as the court orders:
   (b) an order for the fees and expenses of the person to be met from any appropriation by Parliament for the purpose.
@@ -399,8 +399,8 @@ In any proceedings on an application for a compulsory treatment order, whether b
 (3) Nothing in this section shall limit any other power of the court to hear proceedings in private or to exclude any person from the court.
 
 ### 25 Publication of reports of proceedings
-Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act—
-  (a) in a Family Court:
+Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a report of any proceedings under this Act—
+  (a) in the Family Court:
   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
 
 ### 26 Court may dispense with hearing in certain circumstances
@@ -429,12 +429,12 @@ Notwithstanding any of the preceding provisions of this Part, the court may dete
   (a) be treated as an inpatient for a period of up to 14 days; or
   (b) be re-assessed in accordance with sections 13 and 14.
 (4) The following provisions apply when a responsible clinician gives such a direction:
-  (a) when the direction is given under subsection (3)(a), the community treatment order does not cease to have effect:
-  (b) when the direction is given under subsection (3)(b),—
+  (a) when the direction is given under subsection (3)﻿(a), the community treatment order does not cease to have effect:
+  (b) when the direction is given under subsection (3)﻿(b),—
     (i) the community treatment order ceases to have effect; and
     (ii) sections 13 to 15 and 17 to 27 apply, with any necessary modifications, to the re-assessment:
-  (c) when the direction is given under subsection (3)(a) or (b), the patient, or a person specified in section 10(4)(a)(ii) to (v), may apply to the court to have the patient's condition reviewed under section 16.
-(5) The responsible clinician may not give a direction under subsection (3)(a) in respect of any patient more than twice in any 6-month period.
+  (c) when the direction is given under subsection (3)﻿(a) or (b), the patient, or a person specified in section 10(4)﻿(a)﻿(ii) to (v), may apply to the court to have the patient's condition reviewed under section 16.
+(5) The responsible clinician may not give a direction under subsection (3)﻿(a) in respect of any patient more than twice in any 6-month period.
 (6) As soon as practicable after giving a direction under subsection (3), the responsible clinician must notify the following:
   (a) any welfare guardian of the patient:
   (b) the patient's principal caregiver:
@@ -478,7 +478,7 @@ Subject to section 34, every compulsory treatment order shall continue in force 
 (3) Where a patient is directed to be released from compulsory status under this section, the compulsory treatment order shall be deemed to expire on the date specified in that behalf in the direction.
 
 ### 36 Compulsory treatment order to cease to have effect in certain cases
-(1) Notwithstanding any of the preceding provisions of this Part, if, at any time while a compulsory treatment order is in force in respect of any person, that person becomes subject to an order made by a court under section 38(2)(c) or section 44(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, the compulsory treatment order shall be suspended during the currency of that other order.
+(1) Notwithstanding any of the preceding provisions of this Part, if, at any time while a compulsory treatment order is in force in respect of any person, that person becomes subject to an order made by a court under section 38(2)﻿(c) or section 44(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, the compulsory treatment order shall be suspended during the currency of that other order.
 (2) Notwithstanding any of the preceding provisions of this Part, a compulsory treatment order in respect of any person shall cease to have effect if that person—
   (a) becomes subject to an order under section 24 or section 34 of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
   (b) is sentenced by a court to be detained in a prison.
@@ -496,20 +496,20 @@ So far as practicable, duly authorised officers shall act as a ready point of co
     (ii) that there are reasonable grounds for believing that the person to whom the request relates may be suffering from a mental disorder; and
   (b) decide, on reasonable grounds, whether or not the person needs to have a medical examination urgently in the person's own interests or the interests of any other person.
 (3) If the duly authorised officer decides that the person needs to have a medical examination, but not urgently, he or she must—
-  (a) arrange, or assist in arranging, for a medical practitioner to examine the person with a view to issuing a certificate under section 8B(4)(b); and
+  (a) arrange, or assist in arranging, for a medical practitioner to examine the person with a view to issuing a certificate under section 8B(4)﻿(b); and
   (b) once such a certificate is issued, assist someone else to apply under section 8A for assessment of the person, or apply himself or herself if nobody else is willing to apply; and
   (c) arrange for an assessment examination to be conducted under section 9.
 (4) If the duly authorised officer decides that the person needs to have a medical examination urgently, he or she must—
-  (a) try to get a medical practitioner to come to the person to examine him or her with a view to issuing a certificate under section 8B(4)(b); and
+  (a) try to get a medical practitioner to come to the person to examine him or her with a view to issuing a certificate under section 8B(4)﻿(b); and
   (b) if a medical practitioner is available to come to the person, take all reasonable steps to ensure that the medical practitioner is able to examine the person, including calling for Police assistance under section 41; and
   (c) if no medical practitioner is available to come to the person, try to get the person to go willingly to a medical practitioner; and
   (d) if the person refuses to go willingly to a medical practitioner, take all reasonable steps to—
     (i) take the person to a medical practitioner, including calling for Police assistance under section 41; and
     (ii) ensure that the medical practitioner is able to examine the person, including calling for Police assistance under section 41; and
-  (e) once a certificate is issued under section 8B(4)(b), assist someone else to apply under section 8A for assessment of the person, or apply himself or herself if nobody else is willing to apply; and
+  (e) once a certificate is issued under section 8B(4)﻿(b), assist someone else to apply under section 8A for assessment of the person, or apply himself or herself if nobody else is willing to apply; and
   (f) arrange for an assessment examination to be conducted under section 9.
-(5) A duly authorised officer who receives a request need not comply with subsections (3)(a) or (4)(a) to (d) if that officer has available to him or her a certificate issued under section 8B(4)(b) by a medical practitioner who examined the person who is the subject of the request within the 72 hours before the receipt of the request.
-(6) A medical practitioner doing an examination under subsections (3)(a) or (4)(b) or (d) need not issue another certificate if that medical practitioner has available to him or her a certificate issued under section 8B(4)(b) by a medical practitioner who examined the person who is the subject of the request within the 72 hours before the receipt of the request.
+(5) A duly authorised officer who receives a request need not comply with subsections (3)﻿(a) or (4)﻿(a) to (d) if that officer has available to him or her a certificate issued under section 8B(4)﻿(b) by a medical practitioner who examined the person who is the subject of the request within the 72 hours before the receipt of the request.
+(6) A medical practitioner doing an examination under subsections (3)﻿(a) or (4)﻿(b) or (d) need not issue another certificate if that medical practitioner has available to him or her a certificate issued under section 8B(4)﻿(b) by a medical practitioner who examined the person who is the subject of the request within the 72 hours before the receipt of the request.
 
 ### 39 Assistance in respect of outpatients and inpatients on leave
 (1) This section applies to—
@@ -528,8 +528,8 @@ So far as practicable, duly authorised officers shall act as a ready point of co
     (i) is required to attend at any place for—
       (A) an assessment examination under section 9; or
       (B) an assessment to which a notice given under section 11 or section 13 relates; or
-      (C) an examination to which a notice given under section 14A(3)(b) relates; or
-      (D) a hearing to which a notice given under section 14A(3)(c) relates; or
+      (C) an examination to which a notice given under section 14A(3)﻿(b) relates; or
+      (D) a hearing to which a notice given under section 14A(3)﻿(c) relates; or
       (E) a review to which a notice given under section 76(1A) relates; and
     (ii) is refusing to attend at that place; and
   (b) every patient who—
@@ -541,33 +541,33 @@ So far as practicable, duly authorised officers shall act as a ready point of co
       (A) without leave; or
       (B) when the patient's leave of absence from the hospital has expired or has been cancelled.
 (2) On becoming aware of a proposed patient or patient to whom this section applies, a duly authorised officer may take all reasonable steps to—
-  (a) take a proposed patient or patient referred to in subsection (1)(a) or (b) to the place at which he or she is required to attend:
-  (b) take a patient referred to in subsection (1)(c) back to the hospital.
+  (a) take a proposed patient or patient referred to in subsection (1)﻿(a) or (b) to the place at which he or she is required to attend:
+  (b) take a patient referred to in subsection (1)﻿(c) back to the hospital.
 
 ### 41 Police assistance
-(1) A duly authorised officer who is intending or attempting to do any thing specified in section 38(4)(b) or (d) or section 40(2) may call to his or her assistance a constable.
-(2) A constable called to the assistance of a duly authorised officer for the purposes described in section 38(4)(b) or (d) or section 40(2)—
+(1) A duly authorised officer who is intending or attempting to do any thing specified in section 38(4)﻿(b) or (d) or section 40(2) may call to his or her assistance a constable.
+(2) A constable called to the assistance of a duly authorised officer for the purposes described in section 38(4)﻿(b) or (d) or section 40(2)—
   (a) may enter the premises where the person or proposed patient or patient is; and
   (b) must, if that constable is not in uniform, produce to a person in actual occupation of the premises his or her badge or other evidence that he or she is a constable.
-(3) A constable who enters premises under subsection (2) may, for the purposes of section 38(4)(b), detain the person where he or she is for the shorter of—
+(3) A constable who enters premises under subsection (2) may, for the purposes of section 38(4)﻿(b), detain the person where he or she is for the shorter of—
   (a) 6 hours; and
   (b) the time it takes to conduct the medical examination.
-(4) A constable who enters premises under subsection (2) may, for the purposes of section 38(4)(d),—
+(4) A constable who enters premises under subsection (2) may, for the purposes of section 38(4)﻿(d),—
   (a) take the person to the place at which he or she is to have a medical examination; and
   (b) detain the person at the place for the shorter of—
     (i) 6 hours; and
     (ii) the time it takes to conduct the medical examination.
-(5) A constable who enters premises under subsection (2) may, for the purposes of section 40(2)(a),—
+(5) A constable who enters premises under subsection (2) may, for the purposes of section 40(2)﻿(a),—
   (a) take the proposed patient or patient to the place at which he or she is required to attend; and
   (b) detain the proposed patient or patient at the place for the shorter of—
     (i) 6 hours; and
     (ii) the time it takes to conduct whichever of the following the proposed patient or patient was refusing to attend for:
       (A) an assessment examination under section 9; or
       (B) an assessment to which a notice given under section 11 or section 13 relates; or
-      (C) an examination to which a notice given under section 14A(3)(b) relates; or
+      (C) an examination to which a notice given under section 14A(3)﻿(b) relates; or
       (D) a review to which a notice given under section 76(1A) relates; or
       (E) treatment in accordance with a community treatment order.
-(6) A constable who enters premises under subsection (2) may, for the purposes of section 40(2)(b), take the patient back to the hospital.
+(6) A constable who enters premises under subsection (2) may, for the purposes of section 40(2)﻿(b), take the patient back to the hospital.
 (7) The constable must not exercise the power in subsection (2) without a warrant, if it would be reasonably practicable to obtain a warrant.
 
 ## Part 4 — Special patients and restricted patients
@@ -615,7 +615,7 @@ Subject to the provisions of any other enactment, every special patient shall be
   (a) if the detained person is already subject to the process described in sections 9 to 16, he or she remains subject to that process:
   (b) if the detained person is already subject to a compulsory treatment order, and section 36 does not apply to the order, he or she remains subject to the order:
   (c) if neither paragraph (a) nor paragraph (b) applies to the detained person, Parts 1 and 2 apply to the application but must be read subject to any necessary modifications and to the modifications in subsection (4).
-(4) The modifications referred to in subsection (3)(c) are as follows:
+(4) The modifications referred to in subsection (3)﻿(c) are as follows:
   (a) the assessment examination shall take place either—
     (i) in the institution within 48 hours after the receipt of the application; or
     (ii) if that is not practicable, in a hospital within 72 hours after the receipt of the application:
@@ -623,9 +623,9 @@ Subject to the provisions of any other enactment, every special patient shall be
   (c) where the detained person is removed under paragraph (b) from a prison,—
     (i) that person shall not be detained in the hospital overnight, except in accordance with a notice of a kind referred to in paragraph (d); and
     (ii) unless and until such a notice is given, that person shall be deemed to continue to be in the legal custody of the person in whose custody he or she was under the Corrections Act 2004 notwithstanding that the person is absent from the institution:
-  (d) where the certificate of preliminary assessment contains a finding of the kind described in section 10(1)(b)(ii), the medical practitioner giving the certificate shall give a notice in accordance with section 11(1), directing that the person be admitted to and detained in a specified hospital for the purposes of assessment and treatment throughout the first period of assessment and treatment; and, where the assessment interview was conducted in the institution, that notice shall be sufficient authority for the removal of the detained person from the institution to the hospital:
+  (d) where the certificate of preliminary assessment contains a finding of the kind described in section 10(1)﻿(b)﻿(ii), the medical practitioner giving the certificate shall give a notice in accordance with section 11(1), directing that the person be admitted to and detained in a specified hospital for the purposes of assessment and treatment throughout the first period of assessment and treatment; and, where the assessment interview was conducted in the institution, that notice shall be sufficient authority for the removal of the detained person from the institution to the hospital:
   (e) on the giving of the notice referred to in paragraph (d) in respect of any person who was detained in a prison, that person is deemed to have ceased to be in legal custody under the Corrections Act 2004:
-  (f) if the certificate of further assessment contains a finding of the kind described in section 12(1)(b)(ii), the responsible clinician giving the certificate shall give a notice in accordance with section 13(1), directing that the person be admitted to and detained in a specified hospital for the purposes of assessment and treatment during the second period of assessment and treatment:
+  (f) if the certificate of further assessment contains a finding of the kind described in section 12(1)﻿(b)﻿(ii), the responsible clinician giving the certificate shall give a notice in accordance with section 13(1), directing that the person be admitted to and detained in a specified hospital for the purposes of assessment and treatment during the second period of assessment and treatment:
   (g) the court shall not make a community treatment order in respect of the person.
 (5) Neither the making of an application under subsection (2) nor the making of a compulsory treatment order, in relation to a person detained in a prison, prevents the bringing of the person before a court for hearing or trial, or operates to delay the hearing or trial.
 
@@ -633,7 +633,7 @@ Subject to the provisions of any other enactment, every special patient shall be
 If it appears to the chief executive of the Department of Corrections that any person who is detained in a prison or in a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014, whether or not that person is mentally disordered, would benefit from psychiatric care and treatment available in a hospital but not available in the institution in which the person is detained, the chief executive of the Department of Corrections may, with the consent of that person, make arrangements with the Director for the person to be admitted to and detained in that hospital, and, subject to section 50, the person shall be so detained accordingly.
 
 ### 47 Removal of certain special patients to prisons
-(1) If, in the opinion of the Director of Area Mental Health Services, a special patient detained following an application made under section 45(2) or subject to an order made under section 34(1)(a)(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 is fit to be released, that officer may, with the consent of the Director, direct that the special patient be taken to a prison or, as the case requires, a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014 to serve the remainder of the patient's sentence or the order applicable to the patient, or otherwise be dealt with according to law.
+(1) If, in the opinion of the Director of Area Mental Health Services, a special patient detained following an application made under section 45(2) or subject to an order made under section 34(1)﻿(a)﻿(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 is fit to be released, that officer may, with the consent of the Director, direct that the special patient be taken to a prison or, as the case requires, a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014 to serve the remainder of the patient's sentence or the order applicable to the patient, or otherwise be dealt with according to law.
 (2) The Director may at any time direct that any patient who is detained in a hospital pursuant to section 46 be removed to a prison or, as the case requires, a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014 to undergo the remainder of his or her sentence or otherwise to be dealt with according to law.
 (3) Where a direction is given under subsection (1) or subsection (2), the Director shall notify the chief executive of the Department of Corrections who shall arrange for the patient to be removed to the prison or, as the case requires, the residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014 within 7 days after the date of the direction unless an application is sooner made under section 8A for assessment of the patient.
 (4) If a patient who is detained under section 46 wishes to be removed to a prison or, as the case requires, a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014 to undergo the remainder of his or her sentence or otherwise to be dealt with according to law, the Director of Area Mental Health Services shall make the necessary arrangements as soon as practicable, unless an application is sooner made under section 8A for assessment of the patient.
@@ -653,14 +653,14 @@ If it appears to the chief executive of the Department of Corrections that any p
 (5) On the removal of the patient under subsection (4) to a facility under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003,—
   (a) the patient must be regarded as having been released from assessment and treatment as a patient under this Act; and
   (b) if the patient is a special patient, he or she must be held as a special care recipient under that Act until the status of the person is changed in accordance with that Act or the Criminal Procedure (Mentally Impaired Persons) Act 2003; and
-  (c) if the patient is a special patient who is, or is deemed to be, subject to an order under section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, the order is deemed to have been made under section 24(2)(b) of that Act; and
+  (c) if the patient is a special patient who is, or is deemed to be, subject to an order under section 24(2)﻿(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, the order is deemed to have been made under section 24(2)﻿(b) of that Act; and
   (d) if the patient is subject to a compulsory treatment order, that order becomes a compulsory care order (within the meaning of that Act) that is deemed to have been made on the date of the removal for a term of 6 months; and
-  (e) if the patient is a special patient who is, or is deemed to be, subject to an order under section 34(1)(a)(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, the order is deemed to have been made under section 34(1)(a)(ii) of that Act.
+  (e) if the patient is a special patient who is, or is deemed to be, subject to an order under section 34(1)﻿(a)﻿(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, the order is deemed to have been made under section 34(1)﻿(a)﻿(ii) of that Act.
 
 ### 48 Relationship between detention in hospital and sentence
 (1) For the purposes of this section,—
   (a) a reference to a person means a person who—
-    (i) is detained in a hospital, either following an application under section 45(2) or under section 46 of this Act or under section 34(1)(a)(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
+    (i) is detained in a hospital, either following an application under section 45(2) or under section 46 of this Act or under section 34(1)﻿(a)﻿(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
     (ii) having been so detained, is on leave:
   (b) a reference to leave means leave under section 50 or section 52:
   (c) a reference to a sentence means a sentence, an order of committal, or an order of detention:
@@ -678,7 +678,7 @@ If it appears to the chief executive of the Department of Corrections that any p
 (3) The person ceases to be detained as a special patient at the time he or she ceases to be liable to be detained under any sentence and,—
   (a) if at that time he or she is a person who is subject to the process described in sections 9 to 16 as the result of an application under section 45(2), he or she remains subject to the process:
   (b) if at that time he or she is a person who is subject to a compulsory treatment order as the result of an application under section 45(2), he or she remains subject to the compulsory treatment order:
-  (ba) if at that time he or she is subject to an order under section 34(1)(a)(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, he or she is deemed to be subject to a compulsory treatment order:
+  (ba) if at that time he or she is subject to an order under section 34(1)﻿(a)﻿(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, he or she is deemed to be subject to a compulsory treatment order:
   (c) if at that time he or she is a person in the hospital under section 46, he or she becomes a voluntary patient.
 
 ### 49 Transfer of special patients
@@ -688,7 +688,7 @@ If it appears to the chief executive of the Department of Corrections that any p
 (4) The court order or other instrument of authority shall remain in force in the same manner as if the patient had been ordered to be received in the hospital to which he or she is to be transferred.
 
 ### 50 Leave of special patients
-(1) Subject to subsection (2), if 2 medical practitioners certify that a person who is detained in a hospital as a special patient acquitted on account of insanity or pursuant to an order made under section 45 or pursuant to section 46 of this Act or under section 34(1)(a)(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 is fit to be allowed to be absent from the hospital, the Minister may grant leave of absence from the hospital on such conditions as the Minister thinks fit, including (at the Minister's discretion) a condition that the person will return to the hospital on such date or within such period as the Minister may specify.
+(1) Subject to subsection (2), if 2 medical practitioners certify that a person who is detained in a hospital as a special patient acquitted on account of insanity or pursuant to an order made under section 45 or pursuant to section 46 of this Act or under section 34(1)﻿(a)﻿(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 is fit to be allowed to be absent from the hospital, the Minister may grant leave of absence from the hospital on such conditions as the Minister thinks fit, including (at the Minister's discretion) a condition that the person will return to the hospital on such date or within such period as the Minister may specify.
 (2) The power to grant leave under this section shall not be exercised in respect of any person who—
   (a) was, immediately before his or her admission to the hospital, detained in a prison while awaiting or during the course of a trial or hearing before any court or while awaiting sentence by any court or pending the determination of any appeal to any court against conviction; or
   (b) is subject to a sentence of imprisonment for life or to a sentence of preventive detention.
@@ -709,7 +709,7 @@ If it appears to the chief executive of the Department of Corrections that any p
 
 ### 52 Director may grant short-term leave
 (1) Subject to subsection (2) but notwithstanding any other provision of this Act, the Director may, subject to such conditions as the Director thinks fit, grant to any special patient leave of absence from the hospital in which the patient is detained for any period not exceeding 7 days, exclusive of the days of the patient's departure and return.
-(2) The power to grant leave under this section shall not be exercised in respect of any patient described in section 50(2)(a).
+(2) The power to grant leave under this section shall not be exercised in respect of any patient described in section 50(2)﻿(a).
 (3) The Director may, at any time during the period of leave granted under this section to any patient, cancel the leave; and, in any such case, the provisions of subsections (3) to (5) of section 50 shall apply with any necessary modifications.
 (4) With the authority of the Director and subject to such conditions as the Director may impose, the Director of Area Mental Health Services may, after consultation (in the case of a patient who is detained in hospital pursuant to an order made under section 45 or pursuant to section 46) with the manager of the appropriate prison, exercise in any particular case the powers conferred on the Director by this section.
 
@@ -752,7 +752,7 @@ Every patient who is undergoing assessment pursuant to section 11 or section 13 
 (2) Except during the period of 1 month referred to in subsection (1), no patient shall be required to accept any treatment unless—
   (a) the patient, having had the treatment explained to him or her in accordance with section 67, consents in writing to the treatment; or
   (b) the treatment is considered to be in the interests of the patient by a psychiatrist (not being the responsible clinician) who has been appointed for the purposes of this section by the Review Tribunal.
-(3) Where, during the period of 1 month referred to in subsection (1), the responsible clinician is satisfied—the responsible clinician may, notwithstanding that the period has not expired, refer the case to the psychiatrist referred to in subsection (2)(b) for consideration, so as to ensure that the opinion of that psychiatrist is available on the expiry of that period.
+(3) Where, during the period of 1 month referred to in subsection (1), the responsible clinician is satisfied—the responsible clinician may, notwithstanding that the period has not expired, refer the case to the psychiatrist referred to in subsection (2)﻿(b) for consideration, so as to ensure that the opinion of that psychiatrist is available on the expiry of that period.
   (a) that the patient will need further treatment of a particular kind beyond the expiry of that period; and
   (b) that the patient is unlikely to consent to that treatment,—
 (4) The responsible clinician shall, wherever practicable, seek to obtain the consent of the patient to any treatment even though that treatment may be authorised by or under this Act without the patient's consent.
@@ -782,7 +782,7 @@ Any consent given by the patient for the purposes of section 59 or section 60 or
 ## Part 6 — Rights of patients
 
 ### 63A Rights of proposed patients
-In sections 64(1), 64(2)(a), 65 to 72, and 75, patient includes a proposed patient.
+In sections 64(1), 64(2)﻿(a), 65 to 72, and 75, patient includes a proposed patient.
 
 ### 64 General rights to information
 (1) Every person, upon becoming a patient, shall receive a written statement of his or her rights as a patient.
@@ -825,7 +825,7 @@ Every patient is entitled to request a lawyer to advise the patient on his or he
   (b) a patient shall be placed in seclusion only in a room or other area that is designated for the purposes by or with the approval of the Director of Area Mental Health Services:
   (c) except as provided in paragraph (d), seclusion shall be used only with the authority of the responsible clinician:
   (d) in an emergency, a nurse or other health professional having immediate responsibility for a patient may place the patient in seclusion, but shall forthwith bring the case to the attention of the responsible clinician:
-  (e) the duration and circumstances of each episode of seclusion shall be recorded in the register kept in accordance with section 129(1)(b).
+  (e) the duration and circumstances of each episode of seclusion shall be recorded in the register kept in accordance with section 129(1)﻿(b).
 
 ### 72 Right to receive visitors and make telephone calls
 (1) Every patient is entitled, at reasonable times and at reasonable intervals, to receive visitors and to make telephone calls, except where, in the opinion of the responsible clinician, such a visit or call would be detrimental to the interests of the patient and to his or her treatment.
@@ -846,7 +846,7 @@ Subject to section 124, every patient is entitled to the prompt dispatch unopene
 ## Part 7 — Reviews and judicial inquiries
 
 ### 76 Clinical reviews of persons subject to compulsory treatment orders
-(1) The responsible clinician shall conduct a formal review of the condition of every patient, other than a restricted patient, who is subject to a compulsory treatment order or subject to an order under section 34(1)(a)(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003—
+(1) The responsible clinician shall conduct a formal review of the condition of every patient, other than a restricted patient, who is subject to a compulsory treatment order or subject to an order under section 34(1)﻿(a)﻿(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003—
   (a) not later than 3 months after the date of the order; and
   (b) thereafter at intervals of not longer than 6 months.
 (1A) The responsible clinician must ensure that, before each review, a notice is given to the patient requiring him or her to attend at a place specified in the notice for the examination under subsection (2).
@@ -860,7 +860,7 @@ Subject to section 124, every patient is entitled to the prompt dispatch unopene
   (a) the certificate of clinical review; and
   (b) full particulars of the reasons for his or her opinion of the patient's condition, and any relevant reports from other health professionals involved in the case.
 (5) If the responsible clinician is of the opinion that the patient is fit to be released from compulsory status, the patient shall be released from that status accordingly, and the compulsory treatment order shall be deemed to have been revoked.
-(6) Despite anything in subsection (5), if the responsible clinician is of the opinion that a special patient detained in a hospital following an application made under section 45(2), or subject to an order made under section 34(1)(a)(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, is fit to be released from compulsory status, the patient must be dealt with in accordance with section 47(1), and section 47(3) and (5) applies.
+(6) Despite anything in subsection (5), if the responsible clinician is of the opinion that a special patient detained in a hospital following an application made under section 45(2), or subject to an order made under section 34(1)﻿(a)﻿(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, is fit to be released from compulsory status, the patient must be dealt with in accordance with section 47(1), and section 47(3) and (5) applies.
 (6A) Despite anything in subsection (5), if a patient or special patient is subject to a compulsory treatment order that was made following an application under section 136(2) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, he or she must be dealt with in accordance with section 47A.
 (7) If the responsible clinician is of the opinion that the patient is not fit to be released from compulsory status, that officer shall send a copy of the certificate of clinical review to—
   (a)
@@ -871,16 +871,16 @@ Subject to section 124, every patient is entitled to the prompt dispatch unopene
     (iv) the medical practitioner who usually attended the patient immediately before the patient was required to undergo assessment and treatment under Part 1:
     (v) a district inspector:
     (vi) an official visitor.
-(8) To each of the persons specified in subparagraphs (i) to (iv) of subsection (7)(b) the responsible clinician shall also send a statement of the legal consequences of the finding set out in the certificate of clinical review, and of the recipient's right to apply to the Review Tribunal for a review of the patient's condition.
+(8) To each of the persons specified in subparagraphs (i) to (iv) of subsection (7)﻿(b) the responsible clinician shall also send a statement of the legal consequences of the finding set out in the certificate of clinical review, and of the recipient's right to apply to the Review Tribunal for a review of the patient's condition.
 (9) The district inspector who receives a copy of the certificate of clinical review must—
   (a) communicate with the patient and find out, if possible, whether or not the patient wants an application to be made to the Review Tribunal for a review of the patient's condition. The district inspector must communicate with the patient by talking to him or her, unless talking to him or her is impracticable; and
   (b) decide, having regard to any view expressed by the patient, whether or not an application should be made to the Review Tribunal for a review of the patient's condition.
-(10) If the district inspector considers that such an application should be made, the district inspector shall take whatever reasonable steps he or she thinks necessary to encourage or assist the patient, or any person specified in subparagraphs (ii) to (iv) of subsection (7)(b), to make such an application.
-(11) If, in any case to which subsection (9) applies, the district inspector considers that an application should be made to have the patient's condition reviewed by the Review Tribunal, but neither the patient nor any person specified in subparagraphs (ii) to (iv) of subsection (7)(b) intends to make such an application, the district inspector may report the matter to the Review Tribunal; and, in such a case, the Review Tribunal may, of its own motion, review the patient's condition under section 79 or section 80 as if an appropriate application for such a review had been made to the Review Tribunal.
+(10) If the district inspector considers that such an application should be made, the district inspector shall take whatever reasonable steps he or she thinks necessary to encourage or assist the patient, or any person specified in subparagraphs (ii) to (iv) of subsection (7)﻿(b), to make such an application.
+(11) If, in any case to which subsection (9) applies, the district inspector considers that an application should be made to have the patient's condition reviewed by the Review Tribunal, but neither the patient nor any person specified in subparagraphs (ii) to (iv) of subsection (7)﻿(b) intends to make such an application, the district inspector may report the matter to the Review Tribunal; and, in such a case, the Review Tribunal may, of its own motion, review the patient's condition under section 79 or section 80 as if an appropriate application for such a review had been made to the Review Tribunal.
 (12) Instead of performing personally the functions specified in subsections (9) to (11), the district inspector may in any particular case arrange for an official visitor to perform them.
 
 ### 77 Clinical reviews of certain special patients
-(1) The responsible clinician shall conduct a formal review of the condition of every special patient who is detained in a hospital pursuant to an order of a court made under section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003—
+(1) The responsible clinician shall conduct a formal review of the condition of every special patient who is detained in a hospital pursuant to an order of a court made under section 24(2)﻿(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003—
   (a) not later than 3 months after the date of the order; and
   (b) thereafter at intervals of not longer than 6 months.
 (2) The provisions of subsections (2), (4), and (8) to (12) of section 76 shall apply in respect of every review under this section as if it were a review under that section.
@@ -892,7 +892,7 @@ Subject to section 124, every patient is entitled to the prompt dispatch unopene
   (b) in every case, the responsible clinician shall send a copy of the certificate of clinical review to—
     (i)
     (ii) the Director; and
-    (iii) each of the persons specified in section 76(7)(b):
+    (iii) each of the persons specified in section 76(7)﻿(b):
   (c) in any case where the responsible clinician is of the opinion that the patient is no longer unfit to stand trial, or that the patient is still unfit to stand trial but it is no longer necessary that the patient should be subject to the order of detention as a special patient, that clinician shall also send a copy of the certificate of clinical review to the Attorney-General for the purposes of section 31 of the Criminal Procedure (Mentally Impaired Persons) Act 2003:
   (d) despite section 31 of the Criminal Procedure (Mentally Impaired Persons) Act 2003, on receiving a copy of the certificate of clinical review under paragraph (c), the Attorney-General may, instead of exercising and performing the powers and duties under that section, apply to the Review Tribunal for a review of the patient's condition.
 (4) In the case of a special patient who was ordered to be detained following acquittal on account of insanity, the following provisions shall apply to any review of that patient's condition under this section:
@@ -900,7 +900,7 @@ Subject to section 124, every patient is entitled to the prompt dispatch unopene
   (b) in every case, the responsible clinician shall send a copy of the certificate of clinical review to—
     (i)
     (ii) the Director; and
-    (iii) each of the persons specified in section 76(7)(b):
+    (iii) each of the persons specified in section 76(7)﻿(b):
   (c) in any case where the responsible clinician is of the opinion that the patient's condition no longer requires, either in the patient's own interest or for the safety of the public, that he or she should be subject to the order of detention as a special patient, that clinician shall also send a copy of the certificate of clinical review to the Minister of Health for the purposes of section 33 of the Criminal Procedure (Mentally Impaired Persons) Act 2003:
   (d) despite section 33 of the Criminal Procedure (Mentally Impaired Persons) Act 2003, on receiving a copy of the certificate of clinical review under paragraph (c), the Minister of Health may, instead of exercising and performing the powers and duties under that section, apply to the Review Tribunal for a review of the patient's condition.
 
@@ -916,7 +916,7 @@ Subject to section 124, every patient is entitled to the prompt dispatch unopene
 (4) The responsible clinician shall send a copy of the certificate of clinical review to—
   (a)
   (b) the Director; and
-  (c) each of the persons specified in section 76(7)(b).
+  (c) each of the persons specified in section 76(7)﻿(b).
 (5) In any case where the responsible clinician is of the opinion that the patient is fit to be released from compulsory status, the Director shall either—
   (a) direct that the patient be released from that status forthwith; or
   (b) apply to the Review Tribunal for a review of the patient's condition.
@@ -937,7 +937,7 @@ Subject to section 124, every patient is entitled to the prompt dispatch unopene
   (a) arrange for the Review Tribunal to review the patient's condition; and
   (b) arrange for the review to start as soon as practicable after the receipt of the application and not later than 21 days after the receipt of the application.
 (6) The Review Tribunal may—
-  (a) extend the period specified in subsection (5)(b) by a further period not exceeding 7 days:
+  (a) extend the period specified in subsection (5)﻿(b) by a further period not exceeding 7 days:
   (b) refuse to consider an application, if—
     (i) it has considered an application for review of the patient's condition within the preceding 3 months, and has no reason to believe that there has been any change in the patient's condition in the intervening period; or
     (ii) it is satisfied that an application made by a relative or friend of the patient is made otherwise than in the interests of the patient:
@@ -964,7 +964,7 @@ Subject to section 124, every patient is entitled to the prompt dispatch unopene
 
 ### 80 Tribunal reviews of certain special patients
 (1) Any person to whom a copy of a certificate of clinical review is sent under section 77 may apply to the Review Tribunal for a review of the patient's condition.
-(2) Without limiting anything in subsection (1), the Review Tribunal shall review the patient's condition on the application of the Attorney-General pursuant to subsection (3)(d) of section 77 or of the Minister of Health pursuant to subsection (4)(d) of that section.
+(2) Without limiting anything in subsection (1), the Review Tribunal shall review the patient's condition on the application of the Attorney-General pursuant to subsection (3)﻿(d) of section 77 or of the Minister of Health pursuant to subsection (4)﻿(d) of that section.
 (3) The provisions of subsections (2) to (6) of section 79 shall apply in respect of every review under this section as if it were a review under that section.
 (4) In the case of a special patient who was ordered to be detained following a finding of unfitness to stand trial, the following provisions shall apply to any review of that patient's condition under this section:
   (a) the Review Tribunal shall record its findings in a certificate of Tribunal review in the prescribed form, stating whether, in its opinion,—
@@ -980,7 +980,7 @@ Subject to section 124, every patient is entitled to the prompt dispatch unopene
 
 ### 81 Tribunal reviews of restricted patients
 (1) Any person to whom a copy of a certificate of clinical review is sent under section 78 may apply to the Review Tribunal for a review of the patient's condition.
-(2) Without limiting anything in subsection (1), the Review Tribunal shall review the patient's condition on the application of the Director pursuant to subsection (5)(b) of section 78 or of the Minister of Health pursuant to subsection (6)(b)(ii) of that section.
+(2) Without limiting anything in subsection (1), the Review Tribunal shall review the patient's condition on the application of the Director pursuant to subsection (5)﻿(b) of section 78 or of the Minister of Health pursuant to subsection (6)﻿(b)﻿(ii) of that section.
 (3) The provisions of subsections (2) to (6) of section 79 shall apply in respect of every review under this section as if it were a review under that section.
 (4) At the conclusion of the review, the Review Tribunal shall record its findings in a certificate of Tribunal review, stating whether, in its opinion,—
   (a) the patient is fit to be released from compulsory status; or
@@ -1255,7 +1255,7 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
   (a) there are reasonable grounds for believing that the person may be suffering from a mental disorder; and
   (b) it is desirable for the person to have an assessment examination urgently in the person's own interests or the interests of any other person.
 (3A) The medical practitioner must, as soon as possible,—
-  (a) issue a certificate under section 8B(4)(b); and
+  (a) issue a certificate under section 8B(4)﻿(b); and
   (b) make an application under section 8A.
 (4) Subject to subsection (5), in any case to which subsection (3) applies any constable may—
   (a) continue to detain the proposed patient at that place until the assessment examination has been conducted; or
@@ -1271,14 +1271,14 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
     (i) there are reasonable grounds for believing that the person may be mentally disordered; and
     (ii) it is desirable for the person to have an assessment examination urgently in the person's own interests or the interests of any other person.
 (2) The medical practitioner must, as soon as possible,—
-  (a) issue a certificate under section 8B(4)(b); and
+  (a) issue a certificate under section 8B(4)﻿(b); and
   (b) make an application under section 8A.
 (3) A medical practitioner acting under this section must make every reasonable effort to get the advice and assistance of a duly authorised officer.
-(4) A medical practitioner who needs assistance to conduct a medical examination under subsection (1)(a) may call for Police assistance under section 110C.
+(4) A medical practitioner who needs assistance to conduct a medical examination under subsection (1)﻿(a) may call for Police assistance under section 110C.
 
 ### 110A Power of medical practitioner who issues certificate to sedate when sedation urgently required
 (1) This section applies to a medical practitioner who—
-  (a) issues, under section 110(2)(a), a certificate under section 8B(4)(b); and
+  (a) issues, under section 110(2)﻿(a), a certificate under section 8B(4)﻿(b); and
   (b) has reasonable grounds for believing that the person presents a significant danger to himself or herself or any other person; and
   (c) has reasonable grounds for believing that it is in the interests of the person to receive a sedative drug urgently.
 (2) The medical practitioner may immediately administer an appropriate sedative drug to the person, by injection if necessary, in accordance with any relevant guidelines and standards of care and treatment issued by the Director-General of Health under section 130.
@@ -1289,7 +1289,7 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
 (5) A medical practitioner who needs assistance to administer a sedative drug under subsection (2) may call for Police assistance under section 110C.
 
 ### 110B Powers of medical practitioner when urgent assessment required
-(1) Subsection (2) applies to the medical practitioner nominated to conduct the assessment examination of a proposed patient who is the subject of an application made under section 110(2)(b).
+(1) Subsection (2) applies to the medical practitioner nominated to conduct the assessment examination of a proposed patient who is the subject of an application made under section 110(2)﻿(b).
 (2) The medical practitioner must conduct the assessment examination as soon as possible.
 (3) A medical practitioner acting under this section must make every reasonable effort to get the advice and assistance of a duly authorised officer.
 (4) A medical practitioner who needs assistance to conduct an assessment examination under subsection (2) may call for Police assistance under section 110C.
@@ -1302,12 +1302,12 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
   (a) detain the person or proposed patient where he or she is; or
   (b) take the person or proposed patient to a place nominated by the medical practitioner and detain the person or proposed patient at the place.
 (3) Detention under subsection (2) may last for no longer than the following times:
-  (a) for the purposes of section 110(1)(a), 6 hours or the time it takes to conduct the medical examination, whichever is shorter:
+  (a) for the purposes of section 110(1)﻿(a), 6 hours or the time it takes to conduct the medical examination, whichever is shorter:
   (b) for the purposes of section 110A(2), 6 hours or the time it takes to administer the sedative drug, whichever is shorter:
   (c) for the purposes of section 110B(2), 6 hours or the time it takes to conduct the assessment examination, whichever is shorter.
 
 ### 111 Powers of nurse where urgent assessment required
-(1) If—the nurse shall arrange as soon as practicable for a medical practitioner to examine the patient with a view to the issue of a certificate by that medical practitioner under section 8B(4)(b).
+(1) If—the nurse shall arrange as soon as practicable for a medical practitioner to examine the patient with a view to the issue of a certificate by that medical practitioner under section 8B(4)﻿(b).
   (a) any person who has been admitted to hospital (not being a patient who is already subject to assessment or treatment under this Act) is acting in a manner that gives rise to a reasonable belief that he or she may be mentally disordered, or such a person is brought to a hospital; and
   (b) a nurse having immediate responsibility in the matter considers that—
     (i) there are reasonable grounds for believing that the person may be mentally disordered; and
@@ -1337,8 +1337,8 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
     (i) is required to attend at any place for—
       (A) an assessment examination under section 9; or
       (B) an assessment to which a notice given under section 11 or section 13 relates; or
-      (C) an examination to which a notice given under section 14A(3)(b) relates; or
-      (D) a hearing to which a notice given under section 14A(3)(c) relates; or
+      (C) an examination to which a notice given under section 14A(3)﻿(b) relates; or
+      (D) a hearing to which a notice given under section 14A(3)﻿(c) relates; or
       (E) a review to which a notice given under section 76(1A) relates; and
     (ii) is refusing to attend at that place; and
   (b) every patient who—
@@ -1422,14 +1422,14 @@ Every person who commits an offence against this Act, or against any regulations
 (4)
 
 ### 122A Certain sections of Crimes Act 1961 apply to powers to take and retake
-Sections 32(1), 38(4)(d), 40(2), 41(4), 41(5), 41(6), 50(4), 51(3), 53, 109(1), 109(4), 110C(2), 111(2), and 113A contain a power to take or retake a person, a proposed patient, or a patient. In respect of each of these powers, sections 30, 31, and 34 of the Crimes Act 1961 apply—
+Sections 32(1), 38(4)﻿(d), 40(2), 41(4), 41(5), 41(6), 50(4), 51(3), 53, 109(1), 109(4), 110C(2), 111(2), and 113A contain a power to take or retake a person, a proposed patient, or a patient. In respect of each of these powers, sections 30, 31, and 34 of the Crimes Act 1961 apply—
   (a) as if the power were a power of arrest; and
   (b) with any necessary modifications.
 
 ### 122B Use of force
 (1) A person exercising a power specified in subsection (2) may, if he or she is exercising the power in an emergency, use such force as is reasonably necessary in the circumstances.
 (2) The powers are—
-  (a) a power to take or retake a person, proposed patient, or patient in any of sections 32(1), 38(4)(d), 40(2), 41(4), 41(5), 41(6), 50(4), 51(3), 53, 109(1), 109(4), 110C(2), 111(2), or 113A:
+  (a) a power to take or retake a person, proposed patient, or patient in any of sections 32(1), 38(4)﻿(d), 40(2), 41(4), 41(5), 41(6), 50(4), 51(3), 53, 109(1), 109(4), 110C(2), 111(2), or 113A:
   (b) a power to detain a person, proposed patient, or patient in any of sections 41(3), 41(4), 41(5), 109(4), 110C(2), 111(2), or 113:
   (c) a power to enter premises in either of sections 41(2) or 110C(1).
 (3) A person treating a patient to whom section 58 or section 59 applies may use such force as is reasonably necessary in the circumstances.
@@ -1523,11 +1523,11 @@ The responsible clinician shall send to the Director-General of Health, or to su
   (b) posting it to a usual address of the person; or
   (c) sending it to the person by fax or some other electronic means; or
   (d) providing it to the person in a manner approved by the person.
-(4) A document posted under subsection (3)(b) is deemed to have been delivered to the person at the time it would have been delivered in the ordinary course of post. For the purposes of proving delivery,—
+(4) A document posted under subsection (3)﻿(b) is deemed to have been delivered to the person at the time it would have been delivered in the ordinary course of post. For the purposes of proving delivery,—
   (a) it is sufficient to prove that the document was properly addressed; and
   (b) the document is presumed, in the absence of proof to the contrary, to have been posted on the day on which it was dated.
 (5) The receipt of an electronic message from the person posting the document stating that the message was dispatched at the same time as or after the posting of the document confers on the person to whom the message is addressed, on the date he or she receives it and within the next 7 days, the same authority as the receipt of the document.
-(6) A document sent under subsection (3)(c) is deemed, in the absence of proof to the contrary, to have been delivered on the day after the day on which it was sent, and it is sufficient proof of sending that a correct machine-generated acknowledgement of receipt exists.
+(6) A document sent under subsection (3)﻿(c) is deemed, in the absence of proof to the contrary, to have been delivered on the day after the day on which it was sent, and it is sufficient proof of sending that a correct machine-generated acknowledgement of receipt exists.
 
 ### 133A Forms
 (1) The Director-General of Health or the Director may specify a form to be used for any information required by or under this Act to be given or sent to the Director-General of Health or the Director, if there is no prescribed form. The Director-General of Health or the Director may specify that information relating to different patients or matters is to be included in the same form.
@@ -1609,7 +1609,7 @@ Every reception order made under section 24 of the Mental Health Act 1969 and in
 (2) Every person who, immediately before the commencement of this Act, was detained in a hospital pursuant to section 43 of the Mental Health Act 1969 shall be deemed for the purposes of this Act to be detained in that hospital pursuant to section 46.
 
 ### 146 Persons detained as committed patients pursuant to Criminal Justice Act 1985
-Every person who, immediately before the commencement of this Act, was detained in a hospital as a committed patient pursuant to an order made under subsection (2) or subsection (6) of section 115 or section 118(1) of the Criminal Justice Act 1985, or pursuant to a direction given under subsection (4) or subsection (5) or subsection (6)(b) of section 116 or section 117(2) of that Act, shall be deemed for the purposes of this Act to be detained as a patient, and that order or direction shall be deemed for those purposes to be a compulsory treatment order.
+Every person who, immediately before the commencement of this Act, was detained in a hospital as a committed patient pursuant to an order made under subsection (2) or subsection (6) of section 115 or section 118(1) of the Criminal Justice Act 1985, or pursuant to a direction given under subsection (4) or subsection (5) or subsection (6)﻿(b) of section 116 or section 117(2) of that Act, shall be deemed for the purposes of this Act to be detained as a patient, and that order or direction shall be deemed for those purposes to be a compulsory treatment order.
 
 ## Schedule 1 — Procedural provisions relating to Review Tribunals
 
@@ -1628,7 +1628,7 @@ Where a Review Tribunal is to review the condition of any patient under any of t
 (5) The patient shall be present while the Tribunal makes any order upon the application unless—
   (a) the patient has been excused or excluded under subclause (2) or subclause (3); or
   (b) there are exceptional circumstances justifying the Tribunal making an order in the absence of the patient.
-(6) Any other person to whom a copy of the certificate of clinical review is sent under section 76(7)(b) or section 77(3)(b) shall be entitled to be present throughout the hearing, except as the convener may otherwise order.
+(6) Any other person to whom a copy of the certificate of clinical review is sent under section 76(7)﻿(b) or section 77(3)﻿(b) shall be entitled to be present throughout the hearing, except as the convener may otherwise order.
 
 ### 3 Right of patient and other persons to be heard and call evidence
 (1) The patient, and any person referred to in clause 2(6), shall be entitled to be heard by the Tribunal, whether in person or through a barrister or solicitor, and to call witnesses, and to cross-examine any witness called by any other party to the proceedings.
@@ -1641,7 +1641,7 @@ Where a Review Tribunal is to review the condition of any patient under any of t
 (4) The Tribunal shall order that a copy of a report given to a barrister or solicitor under subclause (3) shall not be given or shown to the person for whom the barrister or solicitor is acting if the Tribunal has reason to believe that such disclosure of the contents of the report may pose a serious threat to the health or safety of the patient or of any other person.
 (5) Any party to the proceedings may tender evidence on any matter referred to in any such report.
 (6) The Tribunal may call the person making the report as a witness, either on its own initiative or on the application of any party to the proceedings.
-(7) A Tribunal that requests a person to prepare a report must make 1 of the orders described in subclause (8). A Tribunal considering whether or not to make an order under subclause (8)(a) must hear the party or parties affected.
+(7) A Tribunal that requests a person to prepare a report must make 1 of the orders described in subclause (8). A Tribunal considering whether or not to make an order under subclause (8)﻿(a) must hear the party or parties affected.
 (8) The orders are—
   (a) an order for the fees and expenses of the person to be paid by any party or parties to the proceedings, as the Tribunal orders:
   (b) an order for the fees and expenses of the person to be met from any appropriation by Parliament for the purpose.
