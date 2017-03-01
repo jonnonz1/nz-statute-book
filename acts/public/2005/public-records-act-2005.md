@@ -1,5 +1,5 @@
 # Public Records Act 2005
-_Consolidation as at 2016-11-21_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Public Records Act 2005.
@@ -158,7 +158,7 @@ This Act does not apply to—
   (a) ballot papers or voting papers (or any associated electoral materials) sent to the Clerk of the House of Representatives under—
     (i) section 187 of the Electoral Act 1993; or
     (ii) section 50 of the Referenda (Postal Voting) Act 2000:
-  (b) voting documents and specified materials received by Registrars of District Courts under section 89(2) of the Local Electoral Act 2001.
+  (b) voting documents and specified materials received by Registrars of the District Court under section 89(2) of the Local Electoral Act 2001.
 
 ### 7 Treaty of Waitangi (Te Tiriti o Waitangi)
 In order to recognise and respect the Crown’s responsibility to take appropriate account of the Treaty of Waitangi (Te Tiriti o Waitangi),—
