@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2016-04-30_
+_Consolidation as at 2017-03-01_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -48,6 +48,7 @@ In this Act, unless the context otherwise requires,—
   - **block** , in relation to any Maori freehold land, means the whole parcel of land comprised and described in an instrument of title
   - **chief executive** means the chief executive of the Ministry
   - **Chief Judge** means the Chief Judge of the Maori Land Court
+  - **Chief Justice** has the meaning given by section 4(1) of the Senior Courts Act 2016
   - **Chief Surveyor** has the meaning given to that term by section 2 of the Survey Act 1986
   - **common marine and coastal area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **court** means, as the case may require, the Maori Land Court or the Maori Appellate Court or both
@@ -65,6 +66,7 @@ In this Act, unless the context otherwise requires,—
       (i) Māori land, General land, and Crown land that is on the landward side of mean high water springs; and
       (ii) Māori freehold land that is on the seaward side of mean high water springs; but
     (b) does not include the common marine and coastal area
+  - **lawyer** has the meaning given by section 6 of the Lawyers and Conveyancers Act 2006
   - **lease** includes a tenancy at will, and any other tenancy that confers a leasehold interest upon the tenant, whether at law or in equity; and the terms , , and have corresponding meanings
   - **long-term lease** means a lease—
     (a) for a term of more than 52 years; or
@@ -138,11 +140,32 @@ This Act shall bind the Crown.
   (b) a Judge who is acting on a part-time basis counts as an appropriate fraction of 1:
   (c) the aggregate number (for example, 7.5) must not exceed the maximum number of Judges that is for the time being permitted.
 (2A) A person must not be appointed a Judge unless the person is suitable, having regard to the person’s knowledge and experience of te reo Maori, tikanga Maori, and the Treaty of Waitangi.
-(3) No person shall be appointed a Judge unless that person has held a practising certificate as a barrister or solicitor for at least 7 years.
+(3) A person may be appointed a Judge only if—
+  (a) that person has for at least 7 years held a New Zealand practising certificate as a barrister or as a barrister and solicitor; or
+  (b) that person—
+    (i) holds a degree in law granted or issued by any university within New Zealand; and
+    (ii) has been admitted as a barrister and solicitor of the High Court; and
+    (iii) has held a practising certificate in a jurisdiction specified by Order in Council—
+      (A) for at least 7 years; or
+      (B) for a lesser number of years but when that number of years is added to the number of years the person has held a New Zealand practising certificate the total number of years is at least 7.
 (4) No person shall be appointed a Judge after attaining the age of 70 years.
 (5) Every Judge shall, by virtue of that office, be a Justice of the Peace for New Zealand.
-(6) A Judge must not undertake any other paid employment or any other office (whether paid or not) unless the Chief Judge is satisfied that the employment or other office is compatible with judicial office.
-(7) No Judge shall practise as a barrister or solicitor.
+(6) The Attorney-General must publish information explaining his or her process for—
+  (a) seeking expressions of interest for the appointment of Judges of the court; and
+  (b) nominating a person for appointment as a Judge of the court.
+(7) If the Attorney-General is not for the time being responsible for recommending the appointment of Judges of the court, he or she must publish information explaining the responsible Minister's process for doing the things referred to in subsection (6).
+(8) A Judge must not practise as a lawyer.
+
+### 7AA Judge not to undertake other employment or hold other office
+(1) A Judge of the court must not undertake any other paid employment or hold any other office (whether paid or not) without the approval of the Chief Judge.
+(2) An approval under subsection (1) may be given only if the Chief Judge is satisfied that undertaking the employment or holding the office is consistent with the Judge's judicial office.
+(3) However, subsection (1) does not apply to another office if an enactment permits or requires the office to be held by a Judge.
+
+### 7AB Protocol relating to activities of Judges
+(1) The Chief Justice must develop and publish a protocol containing guidance on—
+  (a) the employment, or types of employment, that he or she considers may be undertaken consistent with being a Judge; and
+  (b) the offices, or types of offices, that he or she considers may be held consistent with being a Judge.
+(2) The Chief Justice may develop and publish a protocol under subsection (1) only after consultation with the Chief Judge.
 
 ### 7A Judges act on full-time basis but may be authorised to act part-time
 (1) A person acts as a Judge on a full-time basis unless he or she is authorised by the Attorney-General to act on a part-time basis.
@@ -174,7 +197,7 @@ This Act shall bind the Crown.
 (5) Powers exercised, functions performed, or decisions made by the Deputy Chief Judge acting as the Chief Judge may not be questioned in any proceeding on the ground that the occasion for the Deputy Chief Judge so acting had not arisen or had ceased.
 
 ### 9 Appointment of temporary Judges
-(1) Subject to section 11, the Governor-General may whenever in his or her opinion, it is necessary or expedient to make a temporary appointment, appoint 1 or more temporary Judges of the Māori Land Court to hold office for such period as is specified in the warrant of appointment.
+(1) Subject to section 11, the Governor-General may, whenever in his or her opinion it is necessary or expedient to make a temporary appointment, appoint 1 or more temporary Judges of the Māori Land Court to hold office for such period as is specified in the warrant of appointment.
 (2) The period specified must not exceed 2 years.
 (3) However, a person appointed under this section may be reappointed.
 (4) A person may not be appointed as a temporary Judge under this section unless that person is eligible for appointment as a Judge under section 7.
@@ -182,11 +205,15 @@ This Act shall bind the Crown.
 (6) Subsection (2) applies to an appointment made under subsection (5).
 (7) The power conferred by this section may be exercised at any time, even though there may be 1 or more persons holding the office of Judge under section 7 or section 10.
 (8) A person appointed under this section is to be paid, during the term of the appointment, the salary and allowances payable under section 13 to a Judge other than the Chief Judge and the Deputy Chief Judge.
+(9) A superannuation subsidy must not be paid to a person who is appointed as a temporary Judge under this section.
+(10) Subsection (9) does not apply to a compulsory employer contribution within the meaning of section 101A of the KiwiSaver Act 2006.
 
 ### 10 Former Judges
 (1) Subject to section 11, the Governor-General may, by warrant, appoint any former Judge to be an acting Judge for such term not exceeding 2 years or, if the former Judge has attained the age of 72 years, not exceeding one year, as the Governor-General may specify.
 (2) During the term of the appointment, the former Judge may act as a Judge during such period or periods only, and in such place or places only, as the Chief Judge may determine.
 (3) Every former Judge appointed under this section shall, during each period when the former Judge acts as a Judge, but not otherwise, be paid a salary at the rate for the time being payable by law to a Judge other than the Chief Judge and the Deputy Chief Judge, and shall also be paid such travelling allowances or other incidental or minor allowances as may be fixed from time to time by the Governor-General.
+(3A) A superannuation subsidy must not be paid to a person who is appointed as an acting Judge under this section.
+(3B) Subsection (3A) does not apply to a compulsory employer contribution within the meaning of section 101A of the KiwiSaver Act 2006.
 (4) Every former Judge appointed under this section shall, during each period when the former Judge acts as a Judge, have all the jurisdiction, powers, protections, privileges, and immunities of a Judge.
 
 ### 11 Certificate by Chief Judge and 1 other Judge prerequisite
@@ -263,7 +290,7 @@ The Ministry of Justice shall be responsible for all matters relating to the adm
 (4) Every injunction made by the court under this section that is not expressed to be of interim effect only shall be of final effect.
 
 ### 20 Jurisdiction in actions for recovery of land
-Notwithstanding anything to the contrary in the District Courts Act 1947, the court shall have jurisdiction to hear and determine any proceeding for the recovery of Maori freehold land in the following cases:
+Notwithstanding anything to the contrary in the District Court Act 2016, the court shall have jurisdiction to hear and determine any proceeding for the recovery of Maori freehold land in the following cases:
   (a) where—
     (i) the term and interest of the lessee of any Maori freehold land has ended or been terminated, either by the lessor or by the lessee, and whether the lessee is or is not liable for the payment of any rent; and
     (ii) the lessee or any other person in occupation of the land or part of the land neglects or refuses to quit and deliver up possession of the land:
@@ -894,7 +921,7 @@ Successive appeals to the Maori Appellate Court may be brought in respect of the
 ### 58B Direct appeal to Supreme Court from Maori Appellate Court in exceptional circumstances
 (1) A party to an appeal under section 58 may, with the leave of the Supreme Court, appeal to the Supreme Court against all or part of the determination of the Maori Appellate Court on the appeal.
 (2) On an appeal under subsection (1), the Supreme Court may make any order or determination it thinks fit.
-(3) This section is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
+(3) This section is subject to section 75 of the Senior Courts Act 2016 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
 
 ### 59 Appeals from provisional determinations
 (1) By leave of the Maori Land Court, but not otherwise, an appeal shall lie to the Maori Appellate Court from any provisional or preliminary determination of the Maori Land Court made in the course of any proceedings.
@@ -1046,7 +1073,7 @@ Every order of the court affecting the title to Maori land or any interest in an
 (6) This section shall not apply to any costs, charges, or expenses that are liable to taxation and review in accordance with the provisions of Part 8 of the Law Practitioners Act 1982.
 
 ### 81 Enforcement of orders for payment of money
-(1) For the purpose of enforcing any order made by the court for the payment of money, a Judge may, on the application of any party or of the Judge’s own motion, transmit a copy of the order, under the Judge’s hand and the seal of the court by which the order was made, to a District Court, where it shall be filed as of record in that court.
+(1) For the purpose of enforcing any order made by the court for the payment of money, a Judge may, on the application of any party or of the Judge’s own motion, transmit a copy of the order, under the Judge’s hand and the seal of the court by which the order was made, to the District Court, where it shall be filed as of record in that court.
 (2) On the filing of a copy of any such order, the order shall, so long as it remains in force, be deemed to be a judgment of the District Court in an action for the recovery of a debt, and may be enforced accordingly as if the order had been made in a proceeding of the District Court.
 (3) For the purposes of this section, a certificate under the hand of a Judge of the Maori Land Court, with reference to any proceedings of that court or of the Maori Appellate Court in the matter in which the order to be enforced was made, or setting forth any particulars relating to the performance or non-performance by any person of the requirements of that order, shall, unless the contrary is proved, be accepted by the District Court, and by all officers of that court, as sufficient evidence of the facts so certified.
 (4) The filing in the District Court under this section of a copy of an order made by the Maori Land Court or the Maori Appellate Court shall not limit or affect any right or power of rehearing, appeal, amendment, or cancellation existing in respect of that order.
@@ -1113,11 +1140,17 @@ On the application of an owner of Maori freehold land, the Registrar may by orde
 (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $300.
 (3) No person summoned to attend the court shall be convicted of an offence against subsection (1) unless at the time of the service of the summons, or at some other reasonable time before the date on which that person was required to attend, there was made to that person a payment or tender of the amount fixed by the rules of court.
 
-### 90 Power to remove for contempt
-If any person—any officer of the court, with or without the assistance of any constable or other person, may, by order of the Judge, take the offender into custody and detain the offender until the rising of the court.
-  (a) wilfully insults the court or any member of it or any officer of the court, during a sitting of the court, or in going to or returning from any sitting; or
-  (b) wilfully interrupts the proceedings of the court or otherwise misbehaves while the court is sitting; or
-  (c) wilfully and without lawful excuse disobeys any order or direction of the Judge in the course of any proceedings before the court,—
+### 90 Contempt of court
+(1) This section applies if any person—
+  (a) wilfully insults a judicial officer, Registrar, officer of the court, or any witness, during his or her sitting or attendance in court, or in going to or returning from the court; or
+  (b) wilfully interrupts the proceedings of a court or otherwise misbehaves in court; or
+  (c) wilfully and without lawful excuse disobeys any order or direction of the court in the course of the hearing of any proceedings.
+(2) If this section applies,—
+  (a) any constable or officer of the court, with or without the assistance of any other person, may, by order of a Judge, take the person into custody and detain him or her until the rising of the court; and
+  (b) the Judge may, if he or she thinks fit, sentence the person to—
+    (i) imprisonment for a period not exceeding 3 months; or
+    (ii) a fine not exceeding $1,000 for each offence.
+(3) Nothing in this section limits or affects any power or authority of the court to punish any person for contempt of court in any case to which this section does not apply.
 
 ### 91 Obstructing officers of court
 Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $1,000 who wilfully obstructs or interferes with any Judge, Registrar, Receiver, or other officer of the court in the execution of his or her powers or duties.
@@ -1202,6 +1235,48 @@ The Chief Judge, with the concurrence of at least 2 other Judges, may from time 
   (c) the reasonable fees and reasonable expenses of any barrister or solicitor appointed under section 70(3); and
   (d) the reasonable fees and reasonable expenses of any person appointed as a receiver under section 83; and
   (e) the reasonable fees and reasonable expenses of any person appointed as an examining officer under section 280 to investigate the affairs of a Maori incorporation.
+
+### 98A Information regarding reserved judgments
+The Chief Judge must, in consultation with the Chief Justice,—
+  (a) publish information about the process by which parties to proceedings before the court may obtain information about the status of any reserved judgment in those proceedings; and
+  (b) periodically publish information about the number of judgments of the court that he or she considers are outstanding beyond a reasonable time for delivery; and
+  (c) publish information about reserved judgments that he or she considers is useful.
+
+### 98B Recusal guidelines
+The Chief Judge must, in consultation with the Chief Justice, develop and publish guidelines to assist Judges to decide if they should recuse themselves from a proceeding.
+
+### 98C Judge may make order restricting commencement or continuation of proceeding
+(1) A Judge may make an order restricting a person from commencing or continuing proceedings in the court.
+(2) The order may have—
+  (a) a limited effect (a limited order); or
+  (b) an extended effect (an extended order).
+(3) A limited order restrains a party from commencing or continuing proceedings on a particular matter in the court.
+(4) An extended order restrains a party from commencing or continuing proceedings on a particular or related matter in the court.
+(5) Nothing in this section limits the court’s inherent power to control its own proceedings.
+
+### 98D Grounds for making section 98C order
+(1) A Judge may make a limited order under section 98C if, in proceedings about the same matter in the court, the Judge considers that at least 2 or more of the proceedings are or were totally without merit.
+(2) A Judge may make an extended order under section 98C if, in at least 2 proceedings about any matter considered by the court, the Judge considers that the proceedings are or were totally without merit.
+(3) In determining whether the proceedings are or were totally without merit, the Judge may take into account the nature of any other interlocutory application or appeal involving the party to be restrained, but is not limited to those considerations.
+(4) The proceedings concerned must be proceedings commenced or continued by the party to be restrained, whether against the same person or different persons.
+(5) For the purpose of this section and sections 98E and 98F, an appeal in a proceeding must be treated as part of that proceeding and not as a distinct proceeding.
+
+### 98E Terms of section 98C order
+(1) An order made under section 98C may restrain a party from commencing or continuing any proceeding (whether generally or against any particular person or persons) of any type specified in the order without first obtaining the leave of the court.
+(2) An order made under section 98C, whether limited or extended, has effect for a period of up to 3 years as specified by the Judge, but the Judge making it may specify a longer period (which must not exceed 5 years) if he or she is satisfied that there are exceptional circumstances justifying the longer period.
+
+### 98F Procedure and appeals relating to section 98C orders
+(1) A party to any proceeding may apply for a limited order or an extended order.
+(2) A Judge may make an order under section 98C (a section 98C order) either on an application under subsection (1) or on his or her own initiative.
+(3) An application for leave to continue or commence a civil proceeding by a party subject to a section 98C order may be made without notice, but the court may direct that the application for leave be served on any specified person.
+(4) An application for leave must be determined on the papers, unless the Judge considers that an oral hearing should be conducted because there are exceptional circumstances and it is appropriate to do so in the interests of justice.
+(5) A Judge’s determination of an application under subsection (3) for leave is final.
+(6) The party against whom a section 98C order is made may appeal against the order to the Maori Appellate Court.
+(7) The appellant in an appeal under subsection (6) or the applicant for the section 98C order concerned may, with the leave of the Maori Appellate Court, appeal against the determination of that appeal to the Court of Appeal.
+(8) A court determining an appeal under this section has the same powers as the court appealed from has to determine an application or appeal, as the case may be.
+
+### 98G References to Judge in sections 98C to 98F
+The functions and powers of a Judge under sections 98C to 98F are exercisable by individual Judges of the Maori Land Court, and are exercisable also by the Judges acting as the Maori Appellate Court as if references in those sections to a Judge were references to the Judges acting as that court.
 
 ## Part 4 — Administration of estates
 
@@ -3509,7 +3584,7 @@ The Governor-General may from time to time, by Order in Council, make such regul
 ### 340 Maori reservation may be held for common use and benefit of people of New Zealand
 (1) The notice constituting a Maori reservation (that is not a wahi tapu) under section 338 may, upon the express recommendation of the court, specify that the reservation (that is not a wahi tapu) shall be held for the common use and benefit of the people of New Zealand, and the reservation (that is not a wahi tapu) shall accordingly be held in that fashion.
 (2) Before issuing a recommendation that a Maori reservation (that is not a wahi tapu) be held for the common use and benefit of the people of New Zealand, the court shall be satisfied that this course is in accordance with the views of the owners, and that the local authority consents to it.
-(3) In appointing trustees for any Maori reservation that is not a wahi tapu that is held for the common use and benefit of the people of New Zealand, the court may, on the nomination of the local authority, appoint a person or persons to represent the local authority.
+(3) In appointing trustees for any Maori reservation (that is not a wahi tapu) that is held for the common use and benefit of the people of New Zealand, the court may, on the nomination of the local authority, appoint a person or persons to represent the local authority.
 
 ### 341 Further provisions relating to Maori reservation for marae or meeting place
 (1) Notwithstanding anything in section 338, a Maori reservation for the purposes of a marae or meeting place or as wahi tapu may, in accordance with that section, be constituted over or extended to include any Crown land or other land leased on a perpetually renewable basis to any person, group of persons, body corporate, or organisation for the purpose of a marae or meeting place.
