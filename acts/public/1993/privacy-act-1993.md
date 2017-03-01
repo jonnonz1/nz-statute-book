@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2017-02-24_
+_Consolidation as at 2017-03-01_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -838,7 +838,7 @@ In any proceedings before the Human Rights Review Tribunal, the Director of Huma
 ### 86 Right of Director of Human Rights Proceedings to appear in proceedings
 (1) Whether or not the Director of Human Rights Proceedings is or was a party to the proceedings before the Human Rights Review Tribunal, the Director may appear and be heard, in person or by counsel,—
   (a) in any proceedings under this Part before the Human Rights Review Tribunal; and
-  (b) in relation to any proceedings that are or have been before the Human Rights Review Tribunal under this Part, in any proceedings in a District Court, the High Court, the Court of Appeal, or the Supreme Court.
+  (b) in relation to any proceedings that are or have been before the Human Rights Review Tribunal under this Part, in any proceedings in the District Court, the High Court, the Court of Appeal, or the Supreme Court.
 (2) Where, pursuant to subsection (1), the Director of Human Rights Proceedings appears in any proceedings of a kind described in that subsection, he or she shall, unless those proceedings are by way of appeal, have the right—but shall have no greater rights than parties to the proceedings in respect of the calling of evidence or evidence in rebuttal, or in respect of the examination, cross-examination, and re-examination of witnesses.
   (a) to call evidence on any matter (including evidence in rebuttal) that should be taken into account in the proceedings:
   (b) to examine, cross-examine, and re-examine witnesses,—
@@ -1601,7 +1601,7 @@ Notwithstanding anything in section 116, the Commissioner may from time to time 
 ### 119 Exclusion of public interest immunity
 (1) Subject to subsection (2), the rule of law which authorises or requires the withholding of any document, or the refusal to answer any question, on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest shall not apply in respect of—but not so as to give any party any information that he or she would not, apart from this section, be entitled to.
   (a) any investigation by or proceedings before the Commissioner or the Tribunal under this Act; or
-  (b) any application under section 4(1) of the Judicature Amendment Act 1972 for the review of any decision under this Act;—
+  (b) any application under section 8 of the Judicial Review Procedure Act 2016 for the review of any decision under this Act;—
 (2) Nothing in subsection (1) affects section 32.
 
 ### 120 Adverse comment
