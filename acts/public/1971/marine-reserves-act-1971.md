@@ -1,5 +1,5 @@
 # Marine Reserves Act 1971
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to provide for the setting up and management of areas of the sea and foreshore as marine reserves for the purpose of preserving them in their natural state as the habitat of marine life for scientific study
 
@@ -107,7 +107,7 @@ In this Act, unless the context otherwise requires,—
 (1) The Minister may approve statements of general policy for the implementation of this Act in any area or areas; and may from time to time amend any such statement in the light of changing circumstances or increased knowledge.
 (2) Nothing in any such general policy shall derogate from any provision in this Act or any other Act.
 (3) For the purposes of this section, sections 17B(3), 17B(4), and 17N of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies, subject to the following provisions:
-  (a) in addition to the consultation required by section 17B(3)(a) of that Act, the Director-General shall also consult the Director-General of Agriculture and Fisheries, the Secretary for Transport, and the Secretary for the Environment before preparing any such policy:
+  (a) in addition to the consultation required by section 17B(3)﻿(a) of that Act, the Director-General shall also consult the Director-General of Agriculture and Fisheries, the Secretary for Transport, and the Secretary for the Environment before preparing any such policy:
   (b) as soon as practicable after a draft policy is prepared under section 17B(3) of that Act, the Director-General shall send a copy of it to each of the persons referred to in paragraph (a):
   (c) before sending a draft policy to the Conservation Authority, the Director-General shall consider any comments made by the persons referred to in paragraph (a).
 
@@ -172,11 +172,11 @@ The New Zealand Conservation Authority shall bring to the attention of the Direc
   (c) pursue and apprehend, without warrant, any person whom he or she reasonably believes to have committed or to be committing an offence against this Act or any regulations made under this Act:
   (d) stop any vessel, vehicle, or other conveyance, or any aircraft while on the ground or on the water, or any other device for carriage or transportation, or stop in transit any parcel, package, case, bag, luggage, or other container that is or that he or she reasonably believes to be in the possession of the owner or of any other person (including any carrier or forwarding agent, whether by land, sea, or air), if he or she reasonably believes that any breach of this Act or of any regulation made under this Act has been committed by the owner or by the person in possession thereof or by any other person, and, in the presence of the owner or other person or of any servant of any of them, enter and search any such vessel, vehicle, other conveyance, aircraft, or other device, and in such presence open and search any such parcel, package, case, bag, luggage, or other container.
 (2) The powers of a ranger under this Act shall be exercisable within any marine reserve; and if a ranger is in fresh pursuit of an offender the ranger may, without warrant, apprehend the offender outside a marine reserve and may exercise any power conferred on a ranger by this Act.
-(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of any entry and search conducted under subsection (1)(d).
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of any entry and search conducted under subsection (1)﻿(d).
 
 ### 18A Powers of seizure
 (1) A ranger may seize—
-  (a) any vessel or vehicle or other conveyance which he or she believes on reasonable grounds is being or has been used or is intended to be used in the commission of an offence against subsection (1) or subsection (3)(d) of section 18I that involves the taking of marine life:
+  (a) any vessel or vehicle or other conveyance which he or she believes on reasonable grounds is being or has been used or is intended to be used in the commission of an offence against subsection (1) or subsection (3)﻿(d) of section 18I that involves the taking of marine life:
   (b) any fishing gear, implement, appliance, material, container, goods, equipment, or thing which he or she believes on reasonable grounds is being or has been used or is intended to be used in the commission of an offence against this Act or any regulations made under this Act:
   (c) any marine life which he or she believes on reasonable grounds are being or have been taken, transported, bought, sold, or found in the possession of any person, in contravention of this Act or any regulations made under this Act; or any other marine life with which such marine life has been intermixed:
   (d) any article, record, document, or thing which he or she believes on reasonable grounds is evidence of the commission of an offence against this Act or any regulations made under this Act:
@@ -223,7 +223,7 @@ The New Zealand Conservation Authority shall bring to the attention of the Direc
     (b) property—
   - **interest** means a legal or equitable interest in that forfeit property that existed at the time of the forfeiture; but does not include any interest (including ownership) in any foreign vessel or foreign-owned New Zealand fishing vessel or a foreign-operated fish carrier.
 (2) The Director-General shall, within 10 working days after the date of any forfeiture under section 255, publicly notify the details of the forfeit property and the rights of persons to apply under this section.
-(3) Any person claiming an interest in any forfeit property may, within 35 working days after the date of the forfeiture, apply to a District Court for relief from the effect of forfeiture on that interest.
+(3) Any person claiming an interest in any forfeit property may, within 35 working days after the date of the forfeiture, apply to the District Court for relief from the effect of forfeiture on that interest.
 (4) Every application under subsection (2) shall contain sufficient information to identify the interest and the property in which it is claimed, and shall include—
   (a) a full description of the forfeit property in which the interest is claimed, including reference to any registration or serial number; and
   (b) full details of the interest or interests claimed, including,—
@@ -279,7 +279,7 @@ The New Zealand Conservation Authority shall bring to the attention of the Direc
   (a) deposits or throws in or into a marine reserve any rubbish, except in a place or receptacle approved and provided by the Director-General; or
   (b) uses, sells, or otherwise disposes of, or is in possession of, any marine life, mineral, gravel, sand, or other substance or thing whatever knowing the same to have been removed unlawfully from a reserve; or
   (c) fails to comply with any requirement of a ranger under section 18(1); or
-  (d) after being required under section 18(1)(b) to give his or her name and residential address or to produce evidence of any of those particulars,—
+  (d) after being required under section 18(1)﻿(b) to give his or her name and residential address or to produce evidence of any of those particulars,—
     (i) gives an untrue or fictitious name or address, or gives such a general description of his or her place of abode as is illusory for the purposes of discovery; or
     (ii) gives false evidence of his or her full name and address; or
   (e) impersonates or falsely pretends to be a ranger; or
