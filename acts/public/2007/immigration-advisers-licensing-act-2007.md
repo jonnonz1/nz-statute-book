@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -733,7 +733,7 @@ The Registrar may at any time make any amendments to the register that are neces
 **Appeals against decisions of Registrar and Tribunal**
 
 ### 81 Right of appeal
-(1) A person may appeal to a District Court against any of the following decisions:
+(1) A person may appeal to the District Court against any of the following decisions:
   (a) a decision of the Registrar to refuse to license the person as an immigration adviser:
   (b) a decision of the Registrar to grant the person a limited or a provisional licence only, rather than a full licence:
   (c) a decision of the Tribunal to cancel or suspend the person's licence:
@@ -741,12 +741,12 @@ The Registrar may at any time make any amendments to the register that are neces
   (e) a decision of the Tribunal to reject an appeal under section 55.
 (2) An appeal under this section must be made by giving notice of appeal within—
   (a) 20 working days after the date on which notice of the decision was communicated to the person concerned; or
-  (b) any further time that a District Court may allow on application made before or after the expiration of that period.
+  (b) any further time that the District Court may allow on application made before or after the expiration of that period.
 
 ### 82 District Court may make interim order
-(1) At any time before the final determination of an appeal, a District Court may make an interim order allowing the appellant to engage in providing immigration advice.
+(1) At any time before the final determination of an appeal, the District Court may make an interim order allowing the appellant to engage in providing immigration advice.
 (2) An interim order may be subject to any conditions that the District Court thinks fit.
-(3) If a District Court refuses to make an interim order, the person who applied for the order may, within 1 month after the date of the refusal, appeal to the High Court against the decision.
+(3) If the District Court refuses to make an interim order, the person who applied for the order may, within 1 month after the date of the refusal, appeal to the High Court against the decision.
 
 ### 83 Duties of Registrar if interim order made
 (1) If an interim order is made allowing the appellant to engage in providing immigration advice,—
@@ -755,7 +755,7 @@ The Registrar may at any time make any amendments to the register that are neces
 (2) To enable the Registrar to fulfil the duties imposed by this section, the Registrar of the court in which the interim order is made must send a copy of the order to the Registrar as soon as practicable.
 
 ### 84 Determination of appeal
-(1) In determining an appeal, a District Court may confirm, vary, or reverse the decision of the Registrar or the Tribunal.
+(1) In determining an appeal, the District Court may confirm, vary, or reverse the decision of the Registrar or the Tribunal.
 (2) The District Court's decision in the determination of an appeal is final.
 (3) To avoid doubt, nothing in this section affects the right of any person—
   (a) to apply, in accordance with law, for judicial review; or
@@ -888,7 +888,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 Section 142(1)﻿(j) of the Immigration Act 1987 is repealed.
 
 ### 96 Privacy Act 1993 amended
-Part 1 of Schedule 2 of the Privacy Act 1993 is amended by inserting the following item in its appropriate alphabetical order:Immigration Advisers Licensing Act 2007section 77.
+Part 1 of Schedule 2 of the Privacy Act 1993 is amended by inserting the following item in its appropriate alphabetical order:The following table is small in size and has 2 columns. This table is an amendment to the table in Part 1 of Schedule 2 of the Privacy Act 1993 and should be read with that table to provide understanding of the context. Immigration Advisers Licensing Act 2007section 77.
 
 ### 97 Summary Proceedings Act 1957 amended
 [Repealed]
