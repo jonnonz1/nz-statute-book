@@ -1,5 +1,5 @@
 # Environment Canterbury (Transitional Governance Arrangements) Act 2016
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Environment Canterbury (Transitional Governance Arrangements) Act 2016.
@@ -219,7 +219,7 @@ In considering any proposed fresh water plan or regional policy statement during
 (2) The High Court Rules 2016 apply if a procedural matter is not provided for by or under those sections.
 
 ### 27 Appeal to Court of Appeal
-Section 66 of the Judicature Act 1908 applies, with any necessary modifications, to a decision of the High Court on an appeal under section 25.
+Section 56 of the Senior Courts Act 2016 applies, with any necessary modifications, to a decision of the High Court on an appeal under section 25.
 
 ## Part 4 — Miscellaneous provisions and amendments to 2010 Act
 
