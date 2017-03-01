@@ -1,5 +1,5 @@
 # Trustee Act 1956
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to trusts and trustees
 
@@ -339,7 +339,7 @@ Subject to the provisions of section 13I, a trustee may deposit any documents he
   provided that nothing in this subsection shall relieve the trustee of the obligation to get in and obtain payment or transfer of the share or interest or other thing in action on the same falling into possession.
 
 ### 28 Valuations
-A trustee may, for the purpose of giving effect to the trust, or any of the provisions of the instrument, if any, creating the trust or of this Act or any other Act, from time to time ascertain and fix the value of any trust property, or of any property which he is authorised to purchase or otherwise acquire, in such manner as he thinks proper; and where the trustee is not personally qualified to ascertain the value of any property he shall consult a duly qualified person (whether employed by him or not) as to that value; but the trustee shall not be bound to accept any valuation made by any person whom the trustee may consult. Any valuation made by the trustee in good faith under this subsection shall be binding on all persons beneficially interested under the trust.
+A trustee may, for the purpose of giving effect to the trust, or any of the provisions of the instrument, if any, creating the trust or of this Act or any other Act, from time to time ascertain and fix the value of any trust property, or of any property which he is authorised to purchase or otherwise acquire, in such manner as he thinks proper; and where the trustee is not personally qualified to ascertain the value of any property he shall consult a duly qualified person (whether employed by him or not) as to that value; but the trustee shall not be bound to accept any valuation made by any person whom the trustee may consult. Any valuation made by the trustee in good faith under this section shall be binding on all persons beneficially interested under the trust.
 
 ### 29 Power to employ agents
 (1) A trustee may, instead of acting personally, employ and pay an agent, whether a solicitor, accountant, bank, trustee corporation, stockbroker, or other person, to transact any business or do any act required to be transacted or done in the execution of the trust or the administration of the trust property, including the receipt and payment of money, and the keeping and audit of trust accounts, and shall be entitled to be allowed and paid all charges and expenses so incurred, and shall not be responsible for the default of any such agent if employed in good faith.
@@ -568,7 +568,7 @@ Where any property is employed in an activity that the trustee is empowered or a
 
 ### 45 Retirement of trustee
 (1) Where there are 2 or more trustees—then, subject to the provisions of subsection (3), the trustee desirous of being discharged shall be deemed to have retired from the trust, and shall by the deed be discharged therefrom under this Act without any new trustee being appointed in his place.
-  (a) if one of them by deed declares that he is desirous of being discharged from the trust, and
+  (a) if one of them by deed declares that he is desirous of being discharged from the trust; and
   (b) if his co-trustees and such other person (if any) as is empowered to appoint trustees by deed consent to the discharge of the trustee, and to the vesting of the trust property in the co-trustees alone—
 (2) Any assurance or thing requisite for vesting the trust property in the continuing trustees alone shall be executed and done.
 (3) Except where only 1 trustee was originally appointed, a trustee shall not be discharged under subsection (1) unless there will be either a trustee corporation or at least 2 individuals to act as trustees to perform the trust.
@@ -783,7 +783,7 @@ Where a vesting order is made as to any land under this Act or under any other A
 [Repealed]
 
 ### 66 Right of trustee to apply to court for directions
-(1) Any trustee may apply to the court for directions concerning any property subject to a trust, or respecting the management or administration of any such property, or respecting the exercise of any power of discretion vested in the trustee.
+(1) Any trustee may apply to the court for directions concerning any property subject to a trust, or respecting the management or administration of any such property, or respecting the exercise of any power or discretion vested in the trustee.
 (2) Every such application shall be served upon, and the hearing may be attended by, all persons interested in the application or such of them as the court thinks expedient.
 
 ### 67 Persons entitled to apply to court
@@ -822,7 +822,7 @@ The court may order the costs and expenses of and incidental to any application 
   (h) all other circumstances that the court considers relevant.
 (2) The court may make any such allowance at any time, and from time to time, before or during the administration of the trust, or on the termination of the trust, and may, subject to such terms and conditions as the court thinks fit, make any such allowance in respect of services to be rendered by the trustee during any specified period subsequent to the date of the order.
 (3) Where the court allows a commission or percentage under this section in any case in which 2 or more persons are or have been the trustees, whether acting at the same time or at different times, the amount so allowed shall be apportioned among the trustees as they mutually agree; and if there is no such agreement the court may, in its discretion, apportion the total amount allowed among the trustees in such manner as it thinks fit, and, in particular, may divide the amount in unequal shares or may make the allowance to 1 or more of the trustees to the exclusion of the other or others.
-(4) Rules may from time to time be made in the manner prescribed by the Judicature Act 1908 for carrying the provisions of this section into effect. The Executors Commission Rules 1935 and the Executors Commission Rules 1935, Amendment No 1, so far as they were in force on 31 December 1956, shall continue and have effect as if they had been made under this subsection and as if this section had been in force when they were made, and may be amended or revoked accordingly.
+(4) Rules may from time to time be made in the manner prescribed by the Senior Courts Act 2016 for carrying the provisions of this section into effect. The Executors Commission Rules 1935 and the Executors Commission Rules 1935, Amendment No 1, so far as they were in force on 31 December 1956, shall continue and have effect as if they had been made under this subsection and as if this section had been in force when they were made, and may be amended or revoked accordingly.
 
 ### 73 Power to relieve trustee from personal liability
 If it appears to the court that a trustee, whether appointed by the court or otherwise, is or may be personally liable for any breach of trust, whether the transaction alleged to be a breach of trust occurred before or after the commencement of this Act, but has acted honestly and reasonably, and ought fairly to be excused for the breach of trust and for omitting to obtain the directions of the court in the matter in which he committed the breach, then the court may relieve him either wholly or partly from personal liability for the same.
