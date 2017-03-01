@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -4301,7 +4301,7 @@ The person against whom a compliance order is made must—
   (b) must give the person against whom the order was made written notice of the cancellation.
 
 ### 154E Appeal to District Court
-(1) The following persons may appeal to a District Court:
+(1) The following persons may appeal to the District Court:
   (a) the person against whom a compliance order is made under section 154:
   (b) a person whose application under section 154D(2) did not succeed.
 Stay of compliance order pending appeal result
@@ -4319,16 +4319,16 @@ Stay of compliance order pending appeal result
 (7) The stay has legal effect once a copy of it is served on the appointer of the inspector or authorised person whose compliance order is appealed against.
 (8) The stay remains in force until the District Court orders it lifted.
 District Courts Rules apply
-(9) The rules of procedure under the District Courts Act 1947 apply to the making of an appeal and an application for a stay.
+(9) The rules of procedure under the District Court Act 2016 apply to the making of an appeal and an application for a stay.
 Powers of District Court
 (10) The District Court may confirm, change, or cancel the order appealed against.
 
 ### 154F Appeal to High Court, Court of Appeal, or Supreme Court
 (1) A party to an appeal under section 154E may appeal to the High Court on a question of law.
-(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947 apply to an appeal under subsection (1)—
-  (a) as if it were an appeal under section 72 of the District Courts Act 1947; and
+(2) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016 apply to an appeal under subsection (1)—
+  (a) as if it were an appeal under section 124 of the District Court Act 2016; and
   (b) with all necessary modifications.
-(3) A party to an appeal under subsection (1) may appeal to the Court of Appeal or the Supreme Court against a determination of the High Court on a question of law, with the leave of the court appealed to, and subject to section 14 of the Supreme Court Act 2003.
+(3) A party to an appeal under subsection (1) may appeal to the Court of Appeal or the Supreme Court against a determination of the High Court on a question of law, with the leave of the court appealed to, and subject to section 75 of the Senior Courts Act 2016.
 (4) The Court of Appeal or the Supreme Court hearing an appeal under this section has the same power to adjudicate on the appeal as the High Court had.
 
 ### 154G Effect of appeal
