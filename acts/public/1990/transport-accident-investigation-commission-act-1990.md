@@ -1,5 +1,5 @@
 # Transport Accident Investigation Commission Act 1990
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act—ato establish the Transport Accident Investigation Commission, and to define its functions, duties, and powers; andbto regulate the disclosure and admissibility of certain transport accident or incident investigation information
 
@@ -54,7 +54,7 @@ In this Part, unless the context otherwise requires,—
 The principal purpose of the Commission shall be to determine the circumstances and causes of accidents and incidents with a view to avoiding similar occurrences in the future, rather than to ascribe blame to any person.
 
 ### 5 Membership of Commission
-(1) The Commission consists of not less than 3 and not more than 5 members appointed in accordance with section 28(1)(b) of the Crown Entities Act 2004.
+(1) The Commission consists of not less than 3 and not more than 5 members appointed in accordance with section 28(1)﻿(b) of the Crown Entities Act 2004.
 (2) Members of the Commission are the board for the purposes of the Crown Entities Act 2004.
 (3) One of the members of the Commission shall be a barrister or solicitor of the High Court who has held a practising certificate as such for not less than 7 years, or a District Court Judge.
 (4) Subsection (3) does not limit section 29 of the Crown Entities Act 2004.
@@ -127,10 +127,10 @@ The Commission shall notify the Civil Aviation Authority, the New Zealand Transp
   (b) whenever subsequently reasonably required to do so.
 
 ### 12A Offences in respect of certain powers of investigation
-(1) Every person commits an offence who, without sufficient cause, fails to comply with a direction given by the Commission under section 12(1)(ca).
+(1) Every person commits an offence who, without sufficient cause, fails to comply with a direction given by the Commission under section 12(1)﻿(ca).
 (2) Every person commits an offence who, without lawful authority, wilfully interferes with—
-  (a) the site of any accident or incident or any transport related thing in respect of which access has been prohibited or restricted by the Commission under section 12(1)(c); or
-  (b) any transport related thing that the Commission has directed be taken to any place under section 12(1)(ca).
+  (a) the site of any accident or incident or any transport related thing in respect of which access has been prohibited or restricted by the Commission under section 12(1)﻿(c); or
+  (b) any transport related thing that the Commission has directed be taken to any place under section 12(1)﻿(ca).
 (3) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000.
 (4) A constable may arrest without warrant any person who the constable believes on reasonable grounds has committed, is committing, or is attempting to commit, or is otherwise concerned in the commission of, an offence against this section.
 
@@ -155,7 +155,7 @@ The Commission shall notify the Civil Aviation Authority, the New Zealand Transp
 ### 14 Conduct of investigation
 (1) When an accident or incident is under investigation by the Commission, the Commission shall be in charge of that investigation.
 (2) The Commission shall permit the participation or representation of such foreign organisations in any investigation as is provided for in the Convention.
-(3) Except with the consent of the Commission, which consent shall not be unreasonably withheld no other person (including the Civil Aviation Authority, the New Zealand Transport Agency, and Maritime New Zealand) shall—
+(3) Except with the consent of the Commission, which consent shall not be unreasonably withheld, no other person (including the Civil Aviation Authority, the New Zealand Transport Agency, and Maritime New Zealand) shall—
   (a) participate in any investigation being undertaken by the Commission; or
   (b) undertake any independent investigation at the site of any accident or incident being investigated by the Commission; or
   (c) examine or cause to be examined any material removed from the site of any accident or incident being investigated by the Commission; or
@@ -196,7 +196,7 @@ For the purposes of this Part, unless the context otherwise requires,—
   (b) a recording of an interview by a person engaged in an investigation by the Commission that is generated in the course of an investigation, or a transcript of such a recording; or
   (c) a note or opinion of a person engaged in an investigation by the Commission that is generated in the course of an investigation; or
   (d) information relating to an investigation that is provided in confidence by the Commission to any other person (unless that information is a record specified in section 14C(2)).
-(3) Despite subsection (1), a person who made a statement or submission referred to in subsection (2)(a) or who supplied any statement contained in a record referred to in paragraph (b) or paragraph (c) of subsection (2) may disclose that information contained in the statement or submission to any person.
+(3) Despite subsection (1), a person who made a statement or submission referred to in subsection (2)﻿(a) or who supplied any statement contained in a record referred to in paragraph (b) or paragraph (c) of subsection (2) may disclose that information contained in the statement or submission to any person.
 
 ### 14C Circumstances of disclosure of cockpit recordings, and certain investigation records supplied to Commission
 (1) A record specified in subsection (2) may only be disclosed—
@@ -207,7 +207,7 @@ For the purposes of this Part, unless the context otherwise requires,—
   (a) a cockpit voice recording from a non-military aircraft or a transcript of a cockpit voice recording from a non-military aircraft; or
   (b) a cockpit video recording from a non-military aircraft or a transcript of a cockpit video recording from a non-military aircraft; or
   (c) a document or record held by the Commission that contains information about an identifiable natural person that was supplied to the Commission in the course of an investigation (not being information included in any statement, submission, recording, transcript, or note referred to in any of paragraphs (a), (b), or (c) of section 14B(2)).
-(3) Nothing in subsection (1) prevents a person who is recorded on a record referred to in paragraph (a) or paragraph (b) of subsection (2), or who supplied information contained in a record referred to in subsection (2)(c), from making a statement to any person about the accident or incident.
+(3) Nothing in subsection (1) prevents a person who is recorded on a record referred to in paragraph (a) or paragraph (b) of subsection (2), or who supplied information contained in a record referred to in subsection (2)﻿(c), from making a statement to any person about the accident or incident.
 
 ### 14D Admissibility of cockpit recordings, and certain investigation records supplied to Commission
 (1) A record specified in section 14C(2) is not admissible in—
@@ -219,7 +219,7 @@ For the purposes of this Part, unless the context otherwise requires,—
 (5) Nothing in this section renders admissible any record that is inadmissible under any other enactment or rule of law.
 
 ### 14E Disclosure of record relating to accident or incident before civil proceedings commenced
-(1) This section applies to any civil proceedings if the amount of the damages claimed or intended to be claimed exceeds the amount specified from time to time as the maximum civil jurisdiction of District Courts under the District Courts Act 1947; but does not apply to proceedings under the Employment Relations Act 2000.
+(1) This section applies to any civil proceedings if the amount of the damages claimed or intended to be claimed exceeds the amount specified from time to time as the maximum civil jurisdiction of the District Court under the District Court Act 2016; but does not apply to proceedings under the Employment Relations Act 2000.
 (2) A person who is or may be intending to commence civil proceedings of a kind specified in subsection (1) may apply to the High Court for the disclosure of a record specified in section 14C(2).
 (3) The court may order the disclosure of a record to a person who applies under subsection (2) if—
   (a) it appears to the court that—
@@ -228,7 +228,7 @@ For the purposes of this Part, unless the context otherwise requires,—
   (b) the court determines, on the balance of probabilities, that the interests of justice in the disclosure of the record outweigh the adverse domestic and international impact the disclosure may have on the investigation to which the record relates or any future investigation into an accident or incident.
 
 ### 14F Disclosure of record relating to accident or incident in civil proceedings
-(1) This section applies to any civil proceedings if the amount of the damages claimed exceeds the amount specified from time to time as the maximum civil jurisdiction of District Courts under the District Courts Act 1947; but does not apply to proceedings under the Employment Relations Act 2000.
+(1) This section applies to any civil proceedings if the amount of the damages claimed exceeds the amount specified from time to time as the maximum civil jurisdiction of the District Court under the District Court Act 2016; but does not apply to proceedings under the Employment Relations Act 2000.
 (2) A party to civil proceedings to which this section applies may apply to the High Court for the disclosure of a record specified in section 14C(2).
 (3) The court may order the disclosure of a record under this section if the court determines, on the balance of probabilities, that the interests of justice in the disclosure of the record outweigh the adverse domestic and international impact the disclosure may have on the investigation to which the record relates or any future investigation into an accident or incident.
 
@@ -248,7 +248,7 @@ For the purposes of this Part, unless the context otherwise requires,—
 (5) The Judge or Master may exclude any witness or person referred to in subsection (3) from any part of the hearing of the application.
 (6) The court may adjourn the hearing of an application under section 14E or section 14F at any time if it appears to the court, on the application of any person or on the court's own motion, that the making of a disclosure order will prejudice any investigation into an accident or incident that is being undertaken by the Commission.
 (7) Subsection (6) does not limit any other power of the court to adjourn proceedings.
-(8) For the purpose of subsection (2)(b), a person's next of kin may include that person's civil union partner or de facto partner.
+(8) For the purpose of subsection (2)﻿(b), a person's next of kin may include that person's civil union partner or de facto partner.
 
 ### 14H Court may order record to be produced
 (1) For the purpose of determining whether a record should be disclosed under section 14E or section 14F, the court may order any person who has the possession of the record to produce it to the court.
@@ -302,9 +302,9 @@ No Judge, Justice, Community Magistrate, or Registrar may issue a search warrant
 ### 14Q Disclosure of personal information under Privacy Act 1993
 (1) A record specified in any of paragraphs (a), (b), and (c) of section 14B(2) or section 14C(2) may be disclosed to the supplier of that record pursuant to a request made in accordance with principle 6 of the Privacy Act 1993.
 (2) For the purposes of subsection (1), a person is the supplier of a record if the person—
-  (a) made a statement or submission referred to in section 14B(2)(a); or
+  (a) made a statement or submission referred to in section 14B(2)﻿(a); or
   (b) is recorded on a recording or transcript referred to in paragraph (a) or paragraph (b) of section 14C(2); or
-  (c) gave the information contained in a record referred to in paragraph (b) or paragraph (c) of section 14B(2) or section 14C(2)(c).
+  (c) gave the information contained in a record referred to in paragraph (b) or paragraph (c) of section 14B(2) or section 14C(2)﻿(c).
 (3) To avoid doubt, a person to whom a record is disclosed under this section may not disclose that record to any person in breach of section 14B(1) or section 14C(1).
 (4) Nothing in this section limits sections 27 to 29 of the Privacy Act 1993.
 (5) This section is subject to section 14(3).
