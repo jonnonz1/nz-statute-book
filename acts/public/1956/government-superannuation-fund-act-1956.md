@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -1595,19 +1595,19 @@ Sections 61M, 61N, 61O, and 61Q shall apply in respect of contributors under thi
 ### 72 Interpretation
 In this Part, unless the context otherwise requires,—
   - **Judge** means—
-    (a) a Judge of the High Court appointed under section 4 of the Judicature Act 1908:
+    (a) a Judge of the High Court appointed under section 100 of the Senior Courts Act 2016:
     (b) a Judge of the Employment Court appointed under section 200 of the Employment Relations Act 2000:
     (c) a Judge of the Compensation Court appointed under section 41 of the Workers' Compensation Act 1956:
     (d) a Judge of the Maori Land Court appointed under section 7 of Te Ture Whenua Maori Act 1993:
-    (e) a Chief Judge of the District Court appointed under section 5A of the District Courts Act 1947:
-    (f) a Judge of the District Court appointed under section 5 of the District Courts Act 1947
+    (e) a Chief Judge of the District Court appointed under section 24 of the District Court Act 2016:
+    (f) a Judge of the District Court appointed under section 11 of the District Court Act 2016
   - **judicial service** means any service as a Judge; and where such service is not continuous shall be the aggregate of all such periods of service
   - **temporary Judge** means—
-    (a) a Judge of the High Court appointed under section 11 of the Judicature Act 1908:
+    (a) a Judge of the High Court appointed under section 113 of the Senior Courts Act 2016:
     (b) a Judge of the Employment Court appointed under section 207 of the Employment Relations Act 2000:
     (c) a Judge of the Compensation Court appointed under section 43 of the Workers' Compensation Act 1956:
     (d) a Judge of the Maori Land Court appointed under section 9 of Te Ture Whenua Maori Act 1993:
-    (e) a Judge of the District Court appointed under section 10 or section 10A of the District Courts Act 1947.
+    (e) a Judge of the District Court appointed under section 31 of the District Court Act 2016.
 
 ### 73 Application of this Part to Solicitor-General
 (1) Subject to subsection (2), this Part shall apply to any person appointed to the office of Solicitor-General as if that appointment were an appointment as a Judge.
@@ -1776,20 +1776,20 @@ Notwithstanding this Part, no retiring allowance or annuity payable under this P
 ### 81A Interpretation
 In this Part, unless the context otherwise requires,—
   - **Judge** means—and includes, for the purpose of calculating any retiring allowance, annuity, other allowance, or payment that is payable under this Part, any person to whom this Part has applied and who has ceased to be a Judge
-    (a) a Judge of the High Court appointed under section 4 of the Judicature Act 1908:
+    (a) a Judge of the High Court appointed under section 100 of the Senior Courts Act 2016:
     (b) a Judge of the Employment Court appointed under section 200 of the Employment Relations Act 2000 or deemed to have been appointed under that Act by subsection (1) or subsection (2) of section 253 of that Act:
     (c) a Judge of the Compensation Court appointed under section 41 of the Workers' Compensation Act 1956:
     (d) a Judge of the Maori Land Court appointed under section 7 of Te Ture Whenua Maori Act 1993:
-    (e) a Judge of the District Court appointed under section 5 or section 5A of the District Courts Act 1947,—
+    (e) a Judge of the District Court appointed under section 11 or 24 of the District Court Act 2016,—
   - **judicial service** means—and, where such service is not continuous, shall be the aggregate of all such periods of service
     (a) any service as a Judge; and
     (b) any service as a temporary Judge in respect of which contributions are paid as if that service were service as a Judge,—
   - **temporary Judge** means—
-    (a) a Judge of the High Court appointed under section 11 of the Judicature Act 1908:
+    (a) a Judge of the High Court appointed under section 113 of the Senior Courts Act 2016:
     (b) a Judge of the Employment Court appointed under section 207 of the Employment Relations Act 2000:
     (c) a Judge of the Compensation Court appointed under section 43 of the Workers' Compensation Act 1956:
     (d) a Judge of the Maori Land Court appointed under section 9 of Te Ture Whenua Maori Act 1993:
-    (e) a Judge of the District Court appointed under section 10 of the District Courts Act 1947.
+    (e) a Judge of the District Court appointed under section 31 of the District Court Act 2016.
 
 ### 81B Application of this Part to Judges
 (1) Subject to section 81D, this Part shall apply to all Judges appointed on or after 1 April 1988.
@@ -1991,7 +1991,7 @@ For the purposes of determining the amount of any refund of contributions payabl
 
 ### 81X Interpretation
 In this Part, unless the context otherwise requires,—
-  - **Associate Judge** means an Associate Judge of the High Court appointed or deemed to have been appointed under section 26C of the Judicature Act 1908
+  - **Associate Judge** means an Associate Judge of the High Court appointed or deemed to have been appointed under section 100 of the Senior Courts Act 2016
   - **Judge** has the same meaning as in Part 5A.
 
 ### 81XA Application
