@@ -1,5 +1,5 @@
 # Airport Authorities Act 1966
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the Local Authorities Empowering (Aviation Encouragement) Act 1929 and its amendments and to confer powers on certain local authorities and other persons in respect of airports
 
@@ -211,7 +211,7 @@ Subject to the provisions of this section, any local authority may, for the purp
   (b) be a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and be presented to the House of Representatives under section 41 of that Act.
 (7) For the purposes of the Land Transport Act 1998, any bylaw made under subsection (1)﻿(e) or (g) is to be treated as being made by the authority under section 22AB of the Land Transport Act 1998.
 (8) Every person who commits a breach of any bylaw in force under this section is liable on conviction to a fine not exceeding $500 and, where the breach is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the breach has continued.
-(9) Where a person commits a continuing breach of any bylaw, then, notwithstanding anything in any other Act, a District Court may, on application by the airport authority, grant an injunction restraining the further continuance of the breach by that person.
+(9) Where a person commits a continuing breach of any bylaw, then, notwithstanding anything in any other Act, the District Court may, on application by the airport authority, grant an injunction restraining the further continuance of the breach by that person.
 (10) An injunction may be granted under subsection (9),—
   (a) notwithstanding that proceedings for the offence constituted by the breach have not been taken; or
   (b) where the person is convicted of such an offence, either,—
