@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -1805,7 +1805,7 @@ If a regional council declines to register an exempt service or record in the re
 (8) A notice of appeal must state any matters that regulations made under the Resource Management Act 1991 require to be stated in the case of an appeal under section 120 of that Act.
 
 ### 141 Appeals to District Court
-(1) A person may appeal to a District Court against an adverse decision relating to that person if the person is an operator of an exempt service or a proposed exempt service that is the subject of the decision.
+(1) A person may appeal to the District Court against an adverse decision relating to that person if the person is an operator of an exempt service or a proposed exempt service that is the subject of the decision.
 (2) For the purposes of subsection (1), adverse decision means a decision of a regional council to—
   (a) decline to register an exempt service under section 134; or
   (b) decline to record in the register a variation of the route or routes of an exempt service under section 134; or
@@ -1813,17 +1813,17 @@ If a regional council declines to register an exempt service or record in the re
   (d) remove the details of a variation of the route or routes of an exempt service from the register under section 137.
 
 ### 142 Procedure for appeals to District Court
-(1) An appeal under section 141 must be brought, in accordance with the procedure under Part 14 of the District Courts Rules 2009, no later than 20 working days after the date on which the appellant was notified under this Act of the decision appealed against or within any further period that the District Court may allow.
-(2) Subject to subsection (1), an appeal must be made and determined in accordance with Part 5 of the District Courts Act 1947 and the rules of the District Court made under that Act.
+(1) An appeal under section 141 must be brought, in accordance with the procedure under Part 18 of the District Court Rules 2014, no later than 20 working days after the date on which the appellant was notified under this Act of the decision appealed against or within any further period that the District Court may allow.
+(2) Subject to subsection (1), an appeal must be made and determined in accordance with Part 9 of the District Court Act 2016 and the rules of the District Court made under that Act.
 (3) Subject to sections 144 and 145, the decision of the District Court on an appeal under section 141 is final.
 
 ### 143 Decisions of regional councils to continue in force pending appeals, etc
 (1) Subject to subsection (2), a decision of a regional council appealed against under section 141, 144, or 145 continues in force pending the determination of the appeal, and no person is excused from complying with a provision of this Act on the grounds that an appeal is pending.
-(2) Pending the outcome of an appeal, a District Court may suspend the regional council’s decision if the court is satisfied that public safety would not be compromised.
+(2) Pending the outcome of an appeal, the District Court may suspend the regional council’s decision if the court is satisfied that public safety would not be compromised.
 
 ### 144 Appeals to High Court on questions of law
 (1) A party to an appeal under section 141 who is dissatisfied with the decision of the District Court on the ground that it is erroneous in law may appeal to the High Court on that question of law.
-(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
 
 ### 145 Further appeals to Court of Appeal
 (1) A party to an appeal under section 144 who is dissatisfied with the decision of the High Court in respect of the appeal may, with the leave of the High Court or (if that leave is declined) with special leave of the Court of Appeal, appeal to the Court of Appeal on that question of law.
