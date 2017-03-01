@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -57,7 +57,7 @@ In this Act, unless the context otherwise requires,—
   - **non-custodial sentence** includes, but is not limited to, a community-based sentence, a sentence of home detention, a sentence of a fine or reparation, a suspended sentence of imprisonment, and a specified order
   - **prison officer** means a person who is an officer as defined in section 3(1) of the Corrections Act 2004
   - **probation officer** has the same meaning as in section 4(1) of the Sentencing Act 2002
-  - **registrar** means a registrar of a District Court; and includes a deputy registrar of a District Court
+  - **registrar** means a registrar of the District Court; and includes a deputy registrar of the District Court
   - **rehabilitation period** , in relation to an individual, means any period of not less than 7 consecutive years after the date on which the individual was last sentenced, or a specified order was last made, in which the individual has not been convicted of an offence
   - **security officer** has the same meaning as in section 3(1) of the Corrections Act 2004
   - **sentence** means a sentence imposed by a court in New Zealand for a conviction for an offence
@@ -154,26 +154,26 @@ This Act binds the Crown.
   (b) is otherwise eligible under section 7(1) to have the clean slate scheme apply to him or her.
 
 ### 9 Individual may apply to District Court for order that rehabilitation period need not be completed
-(1) An individual who is otherwise eligible under section 7(1) may make an application to a District Court for an order under subsection (2) if—
+(1) An individual who is otherwise eligible under section 7(1) may make an application to the District Court for an order under subsection (2) if—
   (a) the last sentence imposed on the individual was a non-custodial sentence as a result of a conviction for an offence; and
   (b) that offence has subsequently been abolished and the act that constituted the abolished offence no longer constitutes an offence; and
   (c) he or she is no longer subject to the non-custodial sentence.
-(2) If an application is made to a District Court under subsection (1), a registrar must make an order that an individual need not complete a rehabilitation period for the purposes of section 7(1)﻿(a) if the applicant provides evidence of the matters in subsection (1)﻿(a) to (c).
+(2) If an application is made to the District Court under subsection (1), a registrar must make an order that an individual need not complete a rehabilitation period for the purposes of section 7(1)﻿(a) if the applicant provides evidence of the matters in subsection (1)﻿(a) to (c).
 
 ### 10 Individual may apply to District Court for order that rehabilitation period need not be completed or conviction be disregarded
-(1) An individual who is otherwise eligible under section 7(1) may apply to a District Court for an order under subsection (2) if—
+(1) An individual who is otherwise eligible under section 7(1) may apply to the District Court for an order under subsection (2) if—
   (a) the last sentence imposed on the individual was a custodial sentence as a result of a conviction for an offence; and
   (b) that offence has subsequently been abolished and the act that constituted the abolished offence no longer constitutes an offence; and
   (c) he or she is no longer subject to the custodial sentence.
 (2) The court may, if satisfied of the matters in subsection (1)﻿(a) to (c), make an order—
   (a) that the individual need not complete a rehabilitation period for the purposes of section 7(1)﻿(a); and
   (b) that the custodial sentence for the offence must be disregarded for the purposes of section 7(1)﻿(b).
-(3) An individual who is otherwise eligible under section 7(1) may make an application to a District Court for an order under subsection (4) if a court imposed a non-custodial sentence on the offender for a conviction for a specified offence.
+(3) An individual who is otherwise eligible under section 7(1) may make an application to the District Court for an order under subsection (4) if a court imposed a non-custodial sentence on the offender for a conviction for a specified offence.
 (4) The court may order that the conviction for the specified offence must be disregarded for the purposes of section 7(1)﻿(d).
 (5) In considering an application under this section, a court must balance the interests of individuals in concealing their criminal records against the wider public interest in the safety of the community (recognising that an awareness of an individual's previous convictions is appropriate in certain cases).
 (6) Subject to any rules of court, a court may call for and receive as evidence any statement, document, information, matter, or thing that, in the court's opinion, may assist it to deal effectually with the application.
 (7) On an application under subsection (1) or subsection (3), the court must either make the relevant order under subsection (2) or subsection (4) or decline to do so.
-(8) A District Court may transfer an application under this section to the High Court if it considers that it is appropriate to do so.
+(8) The District Court may transfer an application under this section to the High Court if it considers that it is appropriate to do so.
 
 ### 11 Further application
 (1) Subject to any rules of court, an individual may make a further application under section 9 or section 10 despite—
@@ -182,7 +182,7 @@ This Act binds the Crown.
 (2) Despite subsection (1), the court may dismiss any further application that it thinks is frivolous, vexatious, or an abuse of the procedure of the court.
 
 ### 12 Right of appeal
-(1) An individual may appeal to the High Court against the decision of a District Court if the District Court declines to make an order under section 10.
+(1) An individual may appeal to the High Court against the decision of the District Court if the District Court declines to make an order under section 10.
 (2) An individual may appeal to the Court of Appeal against the decision of the High Court if the High Court declines to make an order under section 10.
 (3) An appeal under this section must be brought in accordance with the appropriate rules of court within 28 days of the decision, or within such further time as the High Court or the Court of Appeal (as the case may be) may allow on application made before or after the expiration of that period.
 (4) An appeal under this section is by way of rehearing.
@@ -255,7 +255,7 @@ This Act binds the Crown.
     (ii) as a Judge, Justice of the Peace, or Community Magistrate; or
     (iii) as a Police employee, prison officer, probation officer, or security officer; or
   (e) the eligible individual has made an application to act in a role predominantly involving the care and protection of, but not predominantly involving the delivery of education to, a child or young person (for example, a foster parent or a caregiver of children or young persons); or
-  (f) the eligible individual's criminal record or information about an eligible individual's criminal record is relevant to an investigation under section 17 of the Children, Young Persons, and Their Families Act 1989 of a report of ill-treatment or neglect of a child or young person or in relation to any procedure under Part 2 of that Act arising from an investigation of that kind (including, without limitation, holding a family group conference or a Family Court's consideration of an application for a declaration that a child or young person is in need of care or protection); or
+  (f) the eligible individual's criminal record or information about an eligible individual's criminal record is relevant to an investigation under section 17 of the Children, Young Persons, and Their Families Act 1989 of a report of ill-treatment or neglect of a child or young person or in relation to any procedure under Part 2 of that Act arising from an investigation of that kind (including, without limitation, holding a family group conference or the Family Court’s consideration of an application for a declaration that a child or young person is in need of care or protection); or
   (g) the eligible individual's criminal record or information about an eligible individual's criminal record is relevant to the undertaking of research that requires access to criminal history information to be given to any employee or person contracted to a government department or law enforcement agency or to any person undertaking research approved by a government department or law enforcement agency.
 
 **Limits on use of criminal records**
@@ -279,13 +279,13 @@ This Act binds the Crown.
 **Miscellaneous**
 
 ### 22 Rules
-(1) In addition to the powers conferred by the District Courts Act 1947, the Governor-General may, by Order in Council, with the concurrence of the Chief District Court Judge and any 2 or more members of the Rules Committee (established under section 51B of the Judicature Act 1908) of whom at least 1 is a District Court Judge,—
-  (a) make rules regulating the practice and procedure of District Courts under this Act; and
-  (b) without limiting paragraph (a), make rules regulating the manner in which applications may be made to District Courts under section 9 and section 10.
-(2) In addition to powers conferred by the Judicature Act 1908, the Governor-General may, by Order in Council, with the concurrence of the Chief Justice and any 2 or more members of the Rules Committee (established under section 51B of the Judicature Act 1908) of whom at least 1 is a High Court Judge,—
+(1) In addition to the powers conferred by the District Court Act 2016, the Governor-General may, by Order in Council, with the concurrence of the Chief District Court Judge and any 2 or more members of the Rules Committee (established under section 155 of the Senior Courts Act 2016) of whom at least 1 is a District Court Judge,—
+  (a) make rules regulating the practice and procedure of the District Court under this Act; and
+  (b) without limiting paragraph (a), make rules regulating the manner in which applications may be made to the District Court under section 9 and section 10.
+(2) In addition to powers conferred by the Senior Courts Act 2016, the Governor-General may, by Order in Council, with the concurrence of the Chief Justice and any 2 or more members of the Rules Committee (established under section 155 of the Senior Courts Act 2016) of whom at least 1 is a High Court Judge,—
   (a) make rules regulating the practice and procedure of the High Court and the Court of Appeal under this Act; and
   (b) without limiting paragraph (a), make rules regulating the manner in which appeals may be brought to the High Court and Court of Appeal under section 12(1) or (2).
-(3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the District Courts Act 1947 or the Judicature Act 1908 (whichever is applicable) apply, with all necessary modifications, to the practice and procedure of courts under this Act.
+(3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the District Court Act 2016 or the Senior Courts Act 2016 (whichever is applicable) apply, with all necessary modifications, to the practice and procedure of courts under this Act.
 
 ### 23 Application of Legal Services Act 2000
 All proceedings under this Act are civil proceedings for the purposes of the Legal Services Act 2000.
