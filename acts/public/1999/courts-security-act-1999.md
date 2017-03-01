@@ -1,5 +1,5 @@
 # Courts Security Act 1999
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to provide for—athe security of courts; andbthe safety of the public and others who access and use the courts
 
@@ -51,7 +51,7 @@ In this Act, unless the context otherwise requires,—
     (c) a Community Magistrate:
     (d) a registrar or deputy registrar of a court:
     (e) a coroner:
-    (f) the Principal Disputes Referee, or a referee, holding office under the Disputes Tribunals Act 1988:
+    (f) the Principal Disputes Referee, or a referee, holding office under the Disputes Tribunal Act 1988:
     (g) the Principal Tenancy Adjudicator, or a tenancy adjudicator, holding office under the Residential Tenancies Act 1986
   - **scanner search** means a search of a person or of property by means of equipment that does not require the touching of the person or the property
   - **specified offence** —
@@ -83,11 +83,11 @@ In this Act, unless the context otherwise requires,—
   (aa) the Supreme Court:
   (a) the Court of Appeal:
   (b) the High Court:
-  (c) every District Court:
-  (d) the following divisions of District Courts:
-    (i) every Disputes Tribunal:
-    (ii) every Family Court:
-    (iii) every Youth Court:
+  (c) the District Court:
+  (d) the following divisions of the District Court:
+    (i) the Disputes Tribunal:
+    (ii) the Family Court:
+    (iii) the Youth Court:
   (e) the Environment Court:
   (f) the Maori Appellate Court:
   (g) the Maori Land Court:
@@ -270,7 +270,7 @@ A court security officer who denies a person entry to, or removes a person from,
   (c) Community Magistrates:
   (d) registrars or deputy registrars of courts:
   (e) coroners:
-  (f) persons holding office as referees under the Disputes Tribunals Act 1988:
+  (f) persons holding office as referees under the Disputes Tribunal Act 1988:
   (g) persons holding office as tenancy adjudicators under the Residential Tenancies Act 1986:
   (h) individual persons, or classes of persons, exempted from the application of sections 12 to 23 by regulations made under section 36.
 (2) A court security officer may not exercise any of the powers or duties in sections 12 to 23 in relation to a person who the court security officer is satisfied is in at least 1 of the categories in subsection (1).
@@ -359,7 +359,7 @@ A court security officer who exercises any of the powers or duties in sections 1
 **Other related powers**
 
 ### 33 Powers of other officials: court security officers may exercise
-(1) This section applies to any power or duty relating to security in a courtroom where proceedings are being heard that is given to any official other than a court security officer or a Police officer, for example, the power given to an officer of the court by section 112 of the District Courts Act 1947.
+(1) This section applies to any power or duty relating to security in a courtroom where proceedings are being heard that is given to any official other than a court security officer or a Police officer, for example, the power given to an officer of the court by section 165 of the Senior Courts Act 2016.
 (2) A court security officer may exercise any such power or duty if the presiding judicial officer directs the officer, in specific language, to do so.
 
 ### 34 Powers of court security officers: Police officers may exercise
