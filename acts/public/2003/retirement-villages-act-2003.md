@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -741,10 +741,10 @@ The disputes panel may conduct the dispute resolution in any manner it thinks fi
   (b) that the dispute should be heard by a court of law; or
   (c) that the panel should not hear it for any other sufficient reason.
 (2) When the panel consults the parties on a proposal to exercise any of its powers under subsection (1), the panel must advise the parties of the effect and implications of the proposal.
-(3) If the panel refuses to hear, or to continue to hear, a dispute under subsection (1)﻿(b), the panel must refer the dispute to the nearest District Court for hearing.
-(4) A District Court to which a dispute is referred under subsection (3)—
+(3) If the panel refuses to hear, or to continue to hear, a dispute under subsection (1)﻿(b), the panel must refer the dispute to the nearest office of the District Court for hearing.
+(4) The District Court to which a dispute is referred under subsection (3)—
   (a) must hear and determine the dispute as if it were a disputes panel, and has all the powers and duties of a disputes panel under this Act:
-  (b) in respect of any matter not otherwise provided for, may hear and determine the dispute in accordance with the District Courts Act 1947 and the District Courts Rules 1992.
+  (b) in respect of any matter not otherwise provided for, may hear and determine the dispute in accordance with the District Court Act 2016 and the District Court Rules 2014.
 (5) The panel at its discretion may award costs for the hearing to the point that the panel refuses to continue to hear the dispute, and must take into account the conduct of the parties.
 (6) If the panel refuses to hear, or continue to hear, a dispute under subsection (1)﻿(c), the operator must appoint another panel to hear the dispute.
 (7) Any person against whom costs are awarded under this section must pay them within 28 days of the decision to award them.
@@ -803,7 +803,7 @@ The matters that a disputes panel must take into account in deciding a dispute r
 (3) Subsections (1) and (2) do not prevent any action by way of judicial review.
 (4) An order made by a disputes panel—
   (a) has effect and is enforceable as if it were an order of—
-    (i) the District Court if a District Court had jurisdiction to hear the dispute as a court of first instance; or
+    (i) the District Court if the District Court had jurisdiction to hear the dispute as a court of first instance; or
     (ii) the High Court in any other case:
   (b) if it is an order to pay money, creates a judgment debt.
 
@@ -826,8 +826,8 @@ Except in the case of a single member disputes panel, the death, resignation, or
 ### 75 Appeal to District or High Court
 (1) Any party to a dispute resolution may appeal against the decision of the disputes panel or District Court resolving the dispute.
 (2) The appeal is to—
-  (a) the nearest District Court if a District Court had jurisdiction to hear the dispute as a court of first instance; or
-  (b) in the case of a dispute referred to a District Court under section 66(3), the High Court; or
+  (a) the District Court if the District Court had jurisdiction to hear the dispute as a court of first instance; or
+  (b) in the case of a dispute referred to the District Court under section 66(3), the High Court; or
   (c) the High Court in any other case.
 (3) The appeal must be heard by the court in accordance with the directions made by the court after the appeal has been filed.
 (4) The court must hear the appeal by rehearing the dispute.
@@ -838,7 +838,7 @@ Except in the case of a single member disputes panel, the death, resignation, or
 
 ### 76 Jurisdiction of High Court
 In accordance with sections 79 to 86, the High Court must hear and determine the following matters:
-  (a) appeals from criminal proceedings in a District Court for offences against section 79:
+  (a) appeals from criminal proceedings in the District Court for offences against section 79:
   (b) applications for injunctions under section 80:
   (c) applications for orders under sections 81 and 82.
 
@@ -848,7 +848,7 @@ In accordance with sections 79 to 86, the District Court must hear and determine
   (b) applications for orders under sections 81 and 82.
 
 ### 78 Jurisdiction of Disputes Tribunal
-In accordance with sections 76 to 83, a Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988 has jurisdiction to hear and determine applications for orders under section 82(3)﻿(c) to (e).
+In accordance with sections 76 to 83, the Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 has jurisdiction to hear and determine applications for orders under section 82(3)﻿(c) to (e).
 
 ### 79 Contraventions of certain provisions an offence
 (1) Every person commits an offence who, without reasonable excuse, contravenes any of sections 12, 18(3), 22(1), 25(1), 32, 33(1), 35, 38(1), 39, or 97(3), or includes any material that is false or misleading in an application for an exemption under section 41 or section 93, and is liable on conviction,—
@@ -909,23 +909,23 @@ In accordance with sections 76 to 83, a Disputes Tribunal established under sect
   (e) an order directing the person who engaged in the conduct referred to in subsection (1), at that person's own expense, to supply specified services to the person who suffered, or is likely to suffer, the loss or damage.
 
 ### 83 Monetary limits and exercise of jurisdiction
-(1) In the exercise of its jurisdiction under section 82, a District Court must not—
-  (a) make any order under section 82(3) in any case where the value of the consideration for the promise or act of any party to the occupation right agreement or collateral arrangement exceeds $200,000:
-  (b) make an order under section 82(3)﻿(b) in any case where the value of the consideration for the promise or act of any party to the occupation right agreement or arrangement exceeds $200,000:
-  (c) make an order under section 82(3)﻿(c) directing a person to refund money or return property if the amount of money or the value of the property exceeds $200,000:
-  (d) make an order under section 82(3)﻿(d) requiring a person to pay an amount exceeding $200,000:
-  (e) make an order under section 82(3)﻿(e) directing a person to supply services if the value of the services exceeds $200,000.
-(2) In the exercise of its jurisdiction under section 82, a Disputes Tribunal must not—
+(1) In the exercise of its jurisdiction under section 82, the District Court must not—
+  (a) make any order under section 82(3) in any case where the value of the consideration for the promise or act of any party to the occupation right agreement or collateral arrangement exceeds $350,000:
+  (b) make an order under section 82(3)﻿(b) in any case where the value of the consideration for the promise or act of any party to the occupation right agreement or arrangement exceeds $350,000:
+  (c) make an order under section 82(3)﻿(c) directing a person to refund money or return property if the amount of money or the value of the property exceeds $350,000:
+  (d) make an order under section 82(3)﻿(d) requiring a person to pay an amount exceeding $350,000:
+  (e) make an order under section 82(3)﻿(e) directing a person to supply services if the value of the services exceeds $350,000.
+(2) In the exercise of its jurisdiction under section 82, the Disputes Tribunal must not—
   (a) make an order under section 82(3)﻿(c) directing a person to refund money or return property if the amount of money or the value of the property exceeds $15,000:
   (b) make an order under section 82(3)﻿(d) requiring a person to pay an amount exceeding $15,000:
   (c) make an order under section 82(3)﻿(e) directing a person to supply services if the value of the services exceeds $15,000.
-(3) Despite subsection (2), if, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made under section 13 of the Disputes Tribunals Act 1988, subsection (2) must be read as if every reference in that subsection to $15,000 were a reference to $20,000.
+(3) Despite subsection (2), if, in respect of any proceedings properly before the Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made under section 13 of the Disputes Tribunal Act 1988, subsection (2) must be read as if every reference in that subsection to $15,000 were a reference to $20,000.
 
 ### 84 General provisions relating to section 82 orders
 (1) An application under section 82(1) may be made at any time within 3 years after the date on which the loss or damage, or the likelihood of loss or damage, was discovered or ought reasonably to have been discovered.
 (2) An order made under section 82(3)﻿(a) or (b) does not prevent proceedings being instituted or commenced under sections 79 to 86.
 (3) Nothing in section 82 or section 83 limits or affects the Illegal Contracts Act 1970.
-(4) For the purposes of sections 81 and 82, a reference to court includes a reference to a District Court and also, for the purposes of section 82, a Disputes Tribunal.
+(4) For the purposes of sections 81 and 82, a reference to court includes a reference to the District Court and also, for the purposes of section 82, the Disputes Tribunal.
 (5) Nothing in section 82 or section 83 affects section 317 of the Injury Prevention, Rehabilitation, and Compensation Act 2001.
 
 ### 85 Defences
@@ -943,7 +943,7 @@ In accordance with sections 76 to 83, a Disputes Tribunal established under sect
   (b) that the defendant received the advertisement or the information contained in the advertisement, as the case may be, in the ordinary course of that business and did not know and had no reason to suspect that the publication of the advertisement or the publication of the advertisement containing that information, as the case may be, would constitute a contravention of the provision.
 
 ### 86 Finding in proceedings to be evidence
-In any application for an order against a person under section 82, a finding of any fact made in proceedings for an injunction under section 80 or for an order under section 81 or for an offence under section 79 (being proceedings before the High Court or a District Court in which that person was found to have engaged in conduct of the kind referred to in section 82(1)﻿(a) to (e)) is—
+In any application for an order against a person under section 82, a finding of any fact made in proceedings for an injunction under section 80 or for an order under section 81 or for an offence under section 79 (being proceedings before the High Court or the District Court in which that person was found to have engaged in conduct of the kind referred to in section 82(1)﻿(a) to (e)) is—
   (a) prima facie evidence of that fact; and
   (b) may be proved by production of a document under the seal of the High Court or District Court, as the case may be, in which the finding was made.
 
