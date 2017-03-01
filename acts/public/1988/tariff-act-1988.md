@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -103,10 +103,10 @@ Subject to this Act, the duty (if any) payable under the Normal Tariff shall be 
 (1) A certificate given by the Secretary of Foreign Affairs and Trade to the effect that any country is or is not one in relation to which, at the time of the importation or entry of the goods into New Zealand, the South Pacific Regional Trade and Economic Co-operation Agreement was in force for the purposes of this Act is conclusive evidence of that fact.
 (2) Any court or any person acting judicially to which or to whom, in any proceeding, any certificate under subsection (1) is produced must take judicial notice of the signature on it of the Secretary of Foreign Affairs and Trade.
 (3) For the purposes of this section,—
-  - **court** includes the Supreme Court, the Court of Appeal, the High Court, and any District Court
+  - **court** includes the Supreme Court, the Court of Appeal, the High Court, and the District Court
   - **District Court** includes—
-    (a) a Family Court; and
-    (b) a Youth Court
+    (a) the Family Court; and
+    (b) the Youth Court
   - **person acting judicially** means any person having in New Zealand by law authority to hear, receive, and examine evidence
   - **proceeding** means—
     (a) a proceeding conducted by a court; and
