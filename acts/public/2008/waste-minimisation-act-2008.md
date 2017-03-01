@@ -1,5 +1,5 @@
 # Waste Minimisation Act 2008
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Waste Minimisation Act 2008.
@@ -338,7 +338,7 @@ The Secretary must distribute and spend all levy money received by—
 
 ### 31 Territorial authorities to receive share
 (1) The Secretary must pay each territorial authority a share of the total levy money collected in respect of a financial year.
-(2) A territorial authority’s share is calculated using the following formula:The following table is small in size and contains a formula.territorial authority’s share = (levy collected − levy refunded)×district’s population2total population where—levy collectedis the total levy money collected in respect of the financial yearlevy refundedis the total levy money refunded in respect of the financial year in accordance with regulations made under section 41(1)﻿(k)district’s populationis—(a)the population of the district of the territorial authority as shown by the census of population published most recently before the start of the financial year; or(b)if the district was constituted, or its boundaries were altered, after that census was published, the population of the district assessed by the Government Statistician as at the date of the district’s constitution or boundary alterationtotal populationis the total of all districts’ populations.
+(2) A territorial authority’s share is calculated using the following formula:territorial authority’s share = [(levy collected − levy refunded) ÷ 2] × (district’s population ÷ total population) where—levy collectedis the total levy money collected in respect of the financial yearlevy refundedis the total levy money refunded in respect of the financial year in accordance with regulations made under section 41(1)﻿(k)district’s populationis—(a)the population of the district of the territorial authority as shown by the census of population published most recently before the start of the financial year; or(b)if the district was constituted, or its boundaries were altered, after that census was published, the population of the district assessed by the Government Statistician as at the date of the district’s constitution or boundary alterationtotal populationis the total of all districts’ populations.
 (3) The territorial authority’s share must be paid to the territorial authority in the prescribed manner and at the prescribed times.
 (4) This section is subject to section 33.
 
@@ -718,7 +718,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 **Injunctions**
 
 ### 72 Injunctions restraining commission of offence under section 65(2)
-(1) A District Court may, on the application of the Medical Officer of Health, grant an injunction restraining a territorial authority from committing an offence against section 65(2).
+(1) The District Court may, on the application of the Medical Officer of Health, grant an injunction restraining a territorial authority from committing an offence against section 65(2).
 (2) An injunction may be granted under subsection (1)—
   (a) despite anything in any other enactment:
   (b) whether or not proceedings in relation to the offence have been commenced:
@@ -854,7 +854,7 @@ A territorial authority may retain the infringement fees received by it for any 
 (2) The Secretary or the territorial authority must return the property if—
   (a) the property is not likely to be involved in the offence for which it was seized; and
   (b) the owner or person has paid, or tenders with the request for payment of, the costs of the Secretary or the territorial authority in seizing, impounding, transporting, and storing the property.
-(3) If the Secretary or the territorial authority refuses to return the property, the owner or person from whom it was seized may apply to a District Court to review the Secretary's or the territorial authority's decision.
+(3) If the Secretary or the territorial authority refuses to return the property, the owner or person from whom it was seized may apply to the District Court to review the Secretary's or the territorial authority's decision.
 (4) The District Court may—
   (a) confirm the Secretary's or the territorial authority's decision; or
   (b) order that the property be returned.
