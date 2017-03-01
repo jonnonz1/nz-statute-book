@@ -1,5 +1,5 @@
 # Impounding Act 1955
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to the establishment and management of public pounds, trespassing and wandering stock, and the impounding of stock
 
@@ -115,7 +115,7 @@ Every appointment, or suspension, or removal from office of any poundkeeper or a
 Where trespass rates are payable under this Act, the owner of the stock trespassing shall pay the rates prescribed by regulations made under this Act (or at double those rates where double rates are payable) according to the description of the stock trespassing and according to the description of land or crop trespassed on; and those rates shall be payable to the local authority in the first instance where the stock is impounded in a pound, or direct to the occupier or person having charge of the stock in any other case.
 
 ### 17 Special trespass rates for entire animals
-In any case where trespass rates are payable in respect of the trespass of any entire animal, there shall be payable to the occupier of the land trespassed upon, as a special trespass rate in addition to any other trespass rate prescribed by regulations made under this Act, such sum not exceeding $200 as the court thinks fit to award, to be recoverable by action in a District Court.
+In any case where trespass rates are payable in respect of the trespass of any entire animal, there shall be payable to the occupier of the land trespassed upon, as a special trespass rate in addition to any other trespass rate prescribed by regulations made under this Act, such sum not exceeding $200 as the court thinks fit to award, to be recoverable by action in the District Court.
 
 ### 18 Fees, rates, and charges to be paid into ordinary general fund
 [Repealed]
@@ -168,10 +168,10 @@ Where in any of the cases specified in paragraphs (a) to (d) of subsection (1) o
 The occupier of any land trespassed upon by stock whose fence has been damaged by the stock may, when the estimated cost of the repair of the fence does not exceed $50, demand and charge that cost as if it were a trespass rate.
 
 ### 29 If impounding illegal or excessive trespass rates claimed, owner may pay under protest
-The owner of impounded stock may give notice in writing to the local authority that he intends to apply to a District Court for an order declaring that the impounding was illegal under this Act or that the trespass rates demanded exceed the amount payable under this Act; and on the giving of that notice and on payment of trespass rates (where trespass rates are demanded), together with all other authorized fees and charges, the poundkeeper shall release the stock, and the local authority shall retain the trespass rates to abide the order of a District Court as provided in section 30.
+The owner of impounded stock may give notice in writing to the local authority that he intends to apply to the District Court for an order declaring that the impounding was illegal under this Act or that the trespass rates demanded exceed the amount payable under this Act; and on the giving of that notice and on payment of trespass rates (where trespass rates are demanded), together with all other authorized fees and charges, the poundkeeper shall release the stock, and the local authority shall retain the trespass rates to abide the order of the District Court as provided in section 30.
 
 ### 30 Jurisdiction of District Court
-(1) Every application under section 29 shall be made within 2 months after the giving of the notice in writing to the local authority, and shall be made by way of originating application to a District Court in accordance with the rules of that court, and the fees prescribed by those rules in respect of originating applications shall be payable.
+(1) Every application under section 29 shall be made within 2 months after the giving of the notice in writing to the local authority, and shall be made by way of originating application to the District Court in accordance with the rules of that court, and the fees prescribed by those rules in respect of originating applications shall be payable.
 (2) If the court finds that the stock was not trespassing, or that the impounding was illegal under this Act, or that the trespass rates demanded are in excess of the amount payable under this Act, it may make an order against the defendant for the amount of damages sustained by the owner of the stock in consequence of the illegal impounding or excessive demand, and for the amount of all other authorized fees and charges paid by the owner to the local authority; and that order shall also be an authority to the local authority to pay the trespass rates retained by it in accordance with the order.
 (3) The court may hear and determine the application notwithstanding any question of title to the property or suggestion of right that may be involved therein.
 
@@ -252,7 +252,7 @@ Where any wild stock has been offered for sale pursuant to subsection (2) of sec
 ## Part 7 — Procedure for impounding stock in a pound
 
 ### 43 Poundkeeper to receive stock tendered for impounding
-The poundkeeper of any public pound shall receive all stock tendered for lodgment therein and shall allow the stock to be impounded at any time of the day or night.
+The poundkeeper of any public pound shall receive all stock tendered for lodgement therein and shall allow the stock to be impounded at any time of the day or night.
 
 ### 44 Provision where pound is of insufficient size
 Where a pound is too small to hold conveniently the number of stock required to be impounded therein, the poundkeeper may place any such stock in some paddock or convenient place near the pound to be approved by the local authority; and every such paddock or place while so used shall be deemed to be part of the pound.
@@ -291,7 +291,7 @@ A purchaser of stock sold under the provisions of this Act shall not be bound to
     (i) is so diseased, injured, or sick that it is in a state of continual suffering; or
     (ii) is of insufficient value to defray the poundage and sustenance fees of keeping the animal during the time prescribed by this Act; and
   (b) the local authority having jurisdiction over the pound is unable to find the owner of the animal within a reasonable time after the Justice, constable, Inspector of Stock, or registered veterinarian has given such a certificate,—
-(2) The local authority may not destroy an impounded animal to which subsection (1)(a)(ii) relates, unless—
+(2) The local authority may not destroy an impounded animal to which subsection (1)﻿(a)﻿(ii) relates, unless—
   (a) the local authority has given written notice to the owner of its intention to destroy the animal; and
   (b) the owner of the animal has not, within 48 hours after the giving of the notice, paid to that local authority all fees, trespass rates, and charges necessary to secure the release of the animal from the pound.
 (3) Any proceeds from the sale of a carcass of an animal destroyed under subsection (1) must be dealt with in the same manner as is provided in sections 54, 55, and 65 in respect of the proceeds of the sale of impounded stock.
@@ -303,10 +303,10 @@ Where any stock has been offered for sale in accordance with the provisions of t
 The proceeds of the sale of impounded stock sold under this Act shall be applied in payment—firstly, of any costs and charges incidental to the sale; secondly, of all poundage and sustenance fees payable in respect of the stock; thirdly, to the impounder of the stock of rates due to him for the trespass thereof, and the driving charges due to him; and fourthly, to the owner of the stock of any residue.
 
 ### 55 Recovery of damages or trespass rates from residue of proceeds
-(1) Where the residue of the proceeds of any sale of impounded stock under this Act is not claimed by any person entitled thereto and the owner of the impounded stock is not known to the local authority or to the impounder of the stock or cannot be found, the impounder of the stock, if he has not claimed any trespass rates, may at any time within 6 months after the sale apply to a District Court of civil jurisdiction for an order that the amount of any damages sustained by him in consequence of the trespass be paid to him out of the residue of the proceeds of the sale.
+(1) Where the residue of the proceeds of any sale of impounded stock under this Act is not claimed by any person entitled thereto and the owner of the impounded stock is not known to the local authority or to the impounder of the stock or cannot be found, the impounder of the stock, if he has not claimed any trespass rates, may at any time within 6 months after the sale apply to the District Court in its civil jurisdiction for an order that the amount of any damages sustained by him in consequence of the trespass be paid to him out of the residue of the proceeds of the sale.
 (2) Notice of the application shall be published by the applicant in some newspaper circulating in the locality not less than 14 clear days before the time appointed for the hearing thereof, and a copy of the application shall be served by the applicant on the local authority.
 (3) On the hearing of the application the court shall determine the amount of the damage sustained by the applicant in consequence of the trespass, and may make an order that that amount, together with the costs and disbursements, or such smaller amount as may have been paid to the local authority as the residue of the proceeds of the sale, shall be paid by the local authority to the applicant.
-(4) Every application to a District Court under this section shall be made by way of originating application in accordance with the rules of that court, and the fees prescribed by those rules in respect of originating applications shall be payable.
+(4) Every application to the District Court under this section shall be made by way of originating application in accordance with the rules of that court, and the fees prescribed by those rules in respect of originating applications shall be payable.
 
 ### 56 Deficiency of fees, charges, and trespass rates recoverable from owner
 If the proceeds of the sale of any stock sold under this Act are insufficient to satisfy the fees and charges of the local authority relating thereto and the trespass rates and driving charges payable to any other person, the deficiency shall be recoverable by the local authority or by that other person, as the case may be, by action from the owner of the stock, and if the stock has been destroyed under the provisions of section 52, the local authority or other person shall in like manner be entitled to recover from the owner of the stock any such deficiency.
