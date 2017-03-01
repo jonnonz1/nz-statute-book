@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2015-11-07_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -681,15 +681,15 @@ The purpose of this Part is to promote confidence in financial service providers
 
 ### 49F Members of dispute resolution scheme must comply with rules and binding resolutions
 (1) A member of an approved dispute resolution scheme must comply with the rules of the scheme.
-(2) On the application of the person responsible for the scheme, a District Court may make an order requiring a member of the scheme to do either or both of the following:
+(2) On the application of the person responsible for the scheme, the District Court may make an order requiring a member of the scheme to do either or both of the following:
   (a) comply with the rules of the scheme:
   (b) comply with a resolution of a complaint that constitutes a binding resolution under those rules (a binding settlement).
-(3) If a District Court is satisfied that the terms of a binding settlement of a complaint are manifestly unreasonable, the court's order under subsection (2) may modify the terms of the binding settlement.
-(4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.
+(3) If the District Court is satisfied that the terms of a binding settlement of a complaint are manifestly unreasonable, the court's order under subsection (2) may modify the terms of the binding settlement.
+(4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by the District Court for the payment of a sum of money.
 
 ### 49G Offence to fail to comply with District Court order
 (1) A member of an approved dispute resolution scheme who, knowing that the member is subject to an order made under section 49F, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on conviction to a fine not exceeding $200,000.
-(2) Nothing in this section applies to an order or part of an order of a District Court referred to in section 49F(4).
+(2) Nothing in this section applies to an order or part of an order of the District Court referred to in section 49F(4).
 
 ### Subpart 2 — Approval of dispute resolution schemes
 
