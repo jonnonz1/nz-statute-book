@@ -1,5 +1,5 @@
 # Members of Parliament (Remuneration and Services) Act 2013
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Members of Parliament (Remuneration and Services) Act 2013.
@@ -482,8 +482,8 @@ A statement setting out, in respect of each former member of Parliament and his 
 (3) An authorised person must pay, or arrange for the payment of, an annuity or payment referred to in this section in accordance with any decision made by the authorised person under subsection (1).
 (4) If more than 1 person is entitled to an annuity or payment, the total annuity or payment paid to the persons entitled to it must not exceed the amount that would have been paid if only 1 person were entitled to it.
 (5) If a person who claims to be entitled to an annuity or payment referred to in this section is dissatisfied with a decision made by an authorised person under subsection (1), he or she may appeal against the decision to the High Court.
-(6) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947 apply, with all necessary modifications, to an appeal under subsection (5) as if it were an appeal under section 72 of that Act against a decision of a District Court.
-(7) The provisions of the Judicature Act 1908 relating to appeals to the Court of Appeal against a decision of the High Court apply to an order or a decision of the High Court on an appeal under subsection (5).
+(6) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (5) as if it were an appeal under section 124 of that Act.
+(7) The provisions of the Senior Courts Act 2016 relating to appeals to the Court of Appeal against a decision of the High Court apply to an order or a decision of the High Court on an appeal under subsection (5).
 
 ### Subpart 2 — Amendments to Parliamentary Service Act 2000
 
