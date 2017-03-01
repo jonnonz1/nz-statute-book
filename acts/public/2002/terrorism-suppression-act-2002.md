@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -377,7 +377,7 @@ A designation under section 20—
     (i) by a notice (in the prescribed form (if any)) indicating that it has been made being given (in the prescribed manner (if any)) with all reasonable speed to the designated entity, if practicable, where that entity or a representative of it is in New Zealand; and
     (ii) by a notice indicating that it has been made being given to any other persons or bodies, as the Prime Minister directs under section 28(2):
   (e) expires on the close of the 30th day after the day on which it is made, unless it has earlier been revoked by the Prime Minister under section 34, or by the making of a final designation in respect of the entity concerned, under section 22:
-  (f) operates until it expires or is revoked but, if it is made the subject of any judicial review (whether under Part 1 of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court and is not sooner revoked under section 23(b) or section 34, continues to operate until those proceedings are withdrawn or finally determined.
+  (f) operates until it expires or is revoked but, if it is made the subject of any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court and is not sooner revoked under section 23(b) or section 34, continues to operate until those proceedings are withdrawn or finally determined.
 
 **Final designation**
 
@@ -408,7 +408,7 @@ A designation under section 22—
     (i) by a notice (in the prescribed form (if any)) indicating that it has been made being given (in the prescribed manner (if any)) with all reasonable speed to the designated entity, if practicable, where that entity or a representative of it is in New Zealand; and
     (ii) by a notice indicating that it has been made being given to any other persons or bodies, as the Prime Minister directs under section 28(2):
   (g)
-  (h) operates until it expires or is revoked but, if it is made the subject of any judicial review (whether under Part 1 of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court and is not sooner revoked under section 34, continues to operate until those proceedings are withdrawn or finally determined.
+  (h) operates until it expires or is revoked but, if it is made the subject of any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court and is not sooner revoked under section 34, continues to operate until those proceedings are withdrawn or finally determined.
 
 **Further provisions relating to interim and final designations**
 
@@ -497,7 +497,7 @@ In considering whether to make or to revoke a designation under section 20 or se
 **Review, revocation, and expiry of designations**
 
 ### 33 Judicial review of designations
-Nothing in this Act prevents a person from bringing any judicial review (whether under Part 1 of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court arising out of, or relating to, the making of a designation under this Act.
+Nothing in this Act prevents a person from bringing any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court arising out of, or relating to, the making of a designation under this Act.
 
 ### 34 Revocation of designations
 (1) The Prime Minister may at any time revoke a designation made under section 20 or section 22, either on the Prime Minister's own initiative or on an application in writing for the purpose—
@@ -557,7 +557,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 [Repealed]
 
 ### 42 Notification of revocation, expiry, or invalidity of designations
-(1) If a designation under this Act expires or is revoked or is found to be or to have been invalid, under section 34 or section 35 or by virtue of any judicial review (whether under Part 1 of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court, the Prime Minister must—
+(1) If a designation under this Act expires or is revoked or is found to be or to have been invalid, under section 34 or section 35 or by virtue of any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court, the Prime Minister must—
   (a) ensure that notice of the revocation or expiry or invalidity is published in the Gazette as soon as practicable; and
   (b) take all reasonable steps to ensure that notice of the revocation or expiry or invalidity is given, in the manner and form required by section 21(d) or section 23(f), to every person and body specified in subsection (2) who is not already aware of it.
 (2) The persons and bodies referred to in subsection (1)﻿(b) are every person or body to whom notice of the making of the designation was given under section 21(d) or section 23(f).
@@ -813,7 +813,7 @@ The following sections of the Criminal Proceeds (Recovery) Act 2009 and the Sent
 ### 58 Appeal against decision on application under section 55
 (1) A party to an application under section 55 may appeal to the Court of Appeal against the decision of the High Court.
 (2) Subject to sections 38 and 40, the procedure for the appeal must be in accordance with rules of court.
-(3) For the avoidance of doubt, an appeal under subsection (1) is a civil proceeding for the purposes of the Supreme Court Act 2003.
+(3) For the avoidance of doubt, an appeal under subsection (1) is a civil proceeding for the purposes of the Senior Courts Act 2016.
 
 ### 59 Discharge of order under section 55 on appeal
 (1)
@@ -978,6 +978,17 @@ Amendment(s) incorporated in the Act(s).
 | 4. | (a) | The provisions of this article shall not apply to any nuclear material which the State Party reasonably decides does not need to be subject to the physical protection regime established pursuant to paragraph 1, taking into account the nature of the material, its quantity and relative attractiveness and the potential radiological and other consequences associated with any unauthorized act directed against it and the current evaluation of the threat against it. |
 | --- | --- | --- |
 |  | (b) | Nuclear material which is not subject to the provisions of this article pursuant to subparagraph (a) should be protected in accordance with prudent management practice. |
+
+| Material | Form | Category |  |  |
+| --- | --- | --- | --- | --- |
+| I | II | IIIc/ |  |  |
+| 1. Plutoniuma/ | Unirradiatedb/ | 2 kg or more | Less than 2 kg but more than 500 g | 500 g or less but more than 15 g |
+| 2. Uranium-235 | Unirradiatedb/ |  |  |  |
+|  | - uranium enriched to 20% 235U or more | 5 kg or more | Less than 5 kg but more than 1 kg | 1 kg or less but more than 15 g |
+|  | - uranium enriched to 10% 235U but less than 20% |  | 10 kg or more | Less than 10 kg but more than 1 kg |
+|  | - uranium enriched above natural, but less than 10% 235U |  |  | 10 kg or more |
+| 3. Uranium-233 | Unirradiatedb/ | 2 kg or more | Less than 2 kg but more than 500 g | 500 g or less but more than 15 g |
+| 4. Irradiated fuel |  |  | Depleted or natural uranium, thorium or low-enriched fuel (less than 10% fissile content)d/e/ |  |
 
 ## Schedule 2B — Convention on the Marking of Plastic Explosives for the Purpose of Detection
 
