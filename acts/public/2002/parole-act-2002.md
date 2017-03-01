@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2016-12-22_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -954,7 +954,7 @@ Section 44 of the Policing Act 2008 applies to protect constables as if a warran
 (3) The Registrar of the High Court must, on receipt of the information from the Board, set down the appeal for hearing on the first practicable sitting day in the most convenient place where sittings of the High Court are held, and must notify the appellant and the Board accordingly.
 (4) Subject to this section, sections 323, 325, 326, 328, 334, 335, 337 to 342, 351, 379, and 382 of the Criminal Procedure Act 2011 apply to an appeal under section 68 with the necessary modifications as if the order appealed against were an order made by a District Court Judge.
 (4A) Any Judge of the High Court may, on the application of the appellant or intending appellant,—
-  (a) review a decision of a District Court to refuse to extend the time allowed for lodging an appeal under section 68, and confirm the decision or reverse it and allow any extension of time that he or she thinks fit:
+  (a) review a decision of the District Court to refuse to extend the time allowed for lodging an appeal under section 68, and confirm the decision or reverse it and allow any extension of time that he or she thinks fit:
   (b) in any other case, extend any time allowed for lodging an appeal under section 68.
 (5) On an appeal under section 68, the court may receive in evidence anything that the Board could have received at first instance.
 (6) The court is not bound to allow the appeal on the ground merely of the improper admission or rejection of evidence unless, in the opinion of the court, a substantive wrong or miscarriage of justice occurred because of it.
@@ -1365,7 +1365,7 @@ This Part—
 (2) To avoid doubt, and to confirm the retrospective application of this provision, despite any enactment or rule of law, an offender may be an eligible offender even if he or she committed a relevant offence, was most recently convicted, or became subject to release conditions or an extended supervision order before this Part and any amendments to it came into force.
 
 ### 107D Meaning of sentencing court
-In this Part, sentencing court, in relation to an offender, means the High Court, unless every relevant offence for which the offender was most recently subject to a sentence of imprisonment was imposed by a District Court, or any court on appeal from a District Court, in which case the sentencing court is a District Court presided over by a trial Judge.
+In this Part, sentencing court, in relation to an offender, means the High Court, unless every relevant offence for which the offender was most recently subject to a sentence of imprisonment was imposed by the District Court, or any court on appeal from the District Court, in which case the sentencing court is the District Court presided over by a trial Judge.
 
 ### 107E Obligation to assess eligible offenders
 [Repealed]
