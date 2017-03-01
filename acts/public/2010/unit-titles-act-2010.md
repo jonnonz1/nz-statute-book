@@ -1,5 +1,5 @@
 # Unit Titles Act 2010
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Unit Titles Act 2010.
@@ -186,7 +186,7 @@ The purpose of this Act is to provide a legal framework for the ownership and ma
   (b) the enlargement of a unit shown on a deposited unit plan by the inclusion in the unit of any stratum that immediately touches upon that unit and was formerly part of the common property or part of another unit shown on the deposited plan; or
   (c) the transfer into the common property of a unit or part of a unit; or
   (d) the erection of 1 or more new units on the common property.
-(2) Changes that are solely to those parts of a unit title development that are not completed to the extent necessary to obtain a certificate under section 32(2)(a) are not a redevelopment for the purposes of this Act.
+(2) Changes that are solely to those parts of a unit title development that are not completed to the extent necessary to obtain a certificate under section 32(2)﻿(a) are not a redevelopment for the purposes of this Act.
 
 ### 9 Meaning of certain expressions in relation to layered unit title developments
 (1) For the purposes of references in this Act to a unit title development in a layered unit title development being located between, or below, another unit title development, the following provisions apply:
@@ -205,7 +205,7 @@ This Act binds the Crown.
 ### 11 Application of Act to retirement villages
 The following sections of this Act do not apply to a unit title development that is a retirement village registered under the Retirement Villages Act 2003:
   (a) section 74 (which relates to a scheme following destruction or damage):
-  (b) sections 79(g), 80(1)(a)(iv), 80(1)(j), 81(3), 81(4), 83(3), 105, 106, and 107 (which relate to body corporate operational rules):
+  (b) sections 79(g), 80(1)﻿(a)﻿(iv), 80(1)﻿(j), 81(3), 81(4), 83(3), 105, 106, and 107 (which relate to body corporate operational rules):
   (c) sections 115 to 120 (which relate to long-term maintenance plans, funds, and ancillary matters):
   (d) sections 121 to 129 (which relate to contributions):
   (e) section 132 (which relates to financial statements):
@@ -308,7 +308,7 @@ The deposit of a unit plan creates in each principal unit and each accessory uni
 (2) Except as provided in this subpart or in any other provision of this Act, all of the provisions of this Act apply to a unit title development created in stages.
 
 ### 24 Deposit of plans in stages to create unit title development
-(1) If land or a principal unit is to be subdivided in stages, this section and section 25 apply instead of sections 17(1) and 21(1)(b).
+(1) If land or a principal unit is to be subdivided in stages, this section and section 25 apply instead of sections 17(1) and 21(1)﻿(b).
 (2) Subdivision in stages is effected by the successive deposit under the Land Transfer Act 1952 of—
   (a) a proposed unit development plan and a first stage unit plan together; and
   (b) 1 or more further stage unit plans (if any); and
@@ -319,17 +319,17 @@ The deposit of a unit plan creates in each principal unit and each accessory uni
 ### 25 Requirements for plans deposited in stages
 (1) A proposed unit development plan required by section 24(2) must specify all the units and the whole of the common property proposed to comprise the unit title development when it is completed.
 (2) A stage unit plan required by section 24(2) must specify—
-  (a) each unit and each part of the common property (if any) that has so far been completed to the extent necessary for the purposes of section 32(2)(a) at the date of the deposit of the plan; and
+  (a) each unit and each part of the common property (if any) that has so far been completed to the extent necessary for the purposes of section 32(2)﻿(a) at the date of the deposit of the plan; and
   (b) the balance as 1 or more future development units.
 (3) A complete unit plan required by section 24(2) must specify all the units and the whole of the common property comprising the development in relation to a building or buildings (if any) already erected on the land.
 (4) Every stage unit plan (except the first) and the complete unit plan relating to a development must be deposited in substitution for the stage unit plan previously deposited in respect of that development.
-(5) No stage unit plan and no complete unit plan may be deposited unless the certificate given under section 32(2)(a) includes a statement by the authorised officer of the territorial authority in whose district the land is situated that the plan is consistent with the relevant proposed unit development plan.
+(5) No stage unit plan and no complete unit plan may be deposited unless the certificate given under section 32(2)﻿(a) includes a statement by the authorised officer of the territorial authority in whose district the land is situated that the plan is consistent with the relevant proposed unit development plan.
 
 ### 26 Grounds for principal administrative officer’s refusal to give certificate in staged development
 For the purposes of section 35(b) and (c), it is sufficient if every building and every other part of the whole development shown on a stage unit plan complies with the territorial authority’s district plan requirements applied at the date on which approval of the proposed unit development plan under section 223 of the Resource Management Act 1991 was given, even if, because of subsequent changes to the requirements, any building or other part of the development no longer complies with all the requirements.
 
 ### 27 Future development units
-(1) The deposit of the first stage unit plan under section 24(2)(a) has the effect of creating in each future development unit a stratum estate in freehold or a stratum estate in leasehold or licence (as the case may be).
+(1) The deposit of the first stage unit plan under section 24(2)﻿(a) has the effect of creating in each future development unit a stratum estate in freehold or a stratum estate in leasehold or licence (as the case may be).
 (2) Those estates are made up of—
   (a) the fee simple estate or the estate as lessee or licensee (as the case may be) in the unit, which determines,—
     (i) on the deposit of a unit plan that specifies as other than a future development unit, that part of the base land or principal unit (as the case may be) that formerly made up the future development unit; or
@@ -351,8 +351,8 @@ For the purposes of section 35(b) and (c), it is sufficient if every building an
   (a) the conditions specified in the subdivision consent that are relevant to that stage of the subdivision consent have been complied with to the satisfaction of the territorial authority; or
   (b) in respect of conditions that have not been complied with,—
     (i) the conditions specified in the subdivision consent are not relevant to that stage and therefore do not need to be complied with; or
-    (ii) if the conditions specified in the subdivision consent that are relevant to that stage of the subdivision consent have not been complied with, the provisions of section 224(c)(i), (ii), and (iii) of the Resource Management Act 1991 continue to apply.
-(2) If subsection (1)(b)(ii) applies, a territorial authority may issue a certificate under section 224(c) of the Resource Management Act 1991.
+    (ii) if the conditions specified in the subdivision consent that are relevant to that stage of the subdivision consent have not been complied with, the provisions of section 224(c)﻿(i), (ii), and (iii) of the Resource Management Act 1991 continue to apply.
+(2) If subsection (1)﻿(b)﻿(ii) applies, a territorial authority may issue a certificate under section 224(c) of the Resource Management Act 1991.
 
 ### 30 Alteration of proposed unit development plan
 (1) This section applies to any alteration to a proposed unit development plan other than one—
@@ -369,15 +369,15 @@ For the purposes of section 35(b) and (c), it is sufficient if every building an
 (6) The new proposed unit development plan must—
   (a) specify all the units and the whole of the common property proposed to comprise the unit title development; and
   (b) in addition, show, to the satisfaction of the Registrar, the modifications to the unit plan being replaced.
-(7) In addition to the provisions referred to in section 31(2)(a), sections 32(2)(a) and (b), and 35 to 37 apply in respect of a substituted proposed unit development plan.
-(8) In addition to the matters required to be included in the certificate referred to in section 216, the body corporate must also certify that any consent under subsection (5)(b) has been given.
+(7) In addition to the provisions referred to in section 31(2)﻿(a), sections 32(2)﻿(a) and (b), and 35 to 37 apply in respect of a substituted proposed unit development plan.
+(8) In addition to the matters required to be included in the certificate referred to in section 216, the body corporate must also certify that any consent under subsection (5)﻿(b) has been given.
 
 ### Subpart 4 — Requirements relating to unit plans
 
 ### 31 Application of this subpart
 (1) The whole of this subpart applies to a unit plan to be deposited under any of sections 17, 21, or 24 or subpart 3 of Part 4.
 (2) In relation to any unit plan other than one referred to in subsection (1),—
-  (a) sections 32(2)(c), 33(3), and 34 apply; and
+  (a) sections 32(2)﻿(c), 33(3), and 34 apply; and
   (b) provisions of this subpart other than those referred to in paragraph (a) apply if expressly provided elsewhere in this Part.
 
 ### 32 Restrictions on deposit of unit plans
@@ -397,34 +397,34 @@ For the purposes of section 35(b) and (c), it is sufficient if every building an
   (b) unless a certificate in the prescribed form has been given in writing by a registered valuer assessing the ownership interest of the principal unit being subdivided to create the subsidiary unit title development.
 
 ### 33 Further provisions relating to restrictions on deposit of unit plans
-(1) Section 32(1)(b) and (c) do not prevent the deposit of a plan in any case where 1 computer register may properly be created for the land to which the plan relates.
-(2) A consent for the purposes of section 32(1)(d) or (3)(a) may be given by an agent duly authorised in writing by the grantor, owner, or caveator.
-(3) Approval in accordance with section 32(2)(c) has effect to make the plan the property of the Crown.
+(1) Section 32(1)﻿(b) and (c) do not prevent the deposit of a plan in any case where 1 computer register may properly be created for the land to which the plan relates.
+(2) A consent for the purposes of section 32(1)﻿(d) or (3)﻿(a) may be given by an agent duly authorised in writing by the grantor, owner, or caveator.
+(3) Approval in accordance with section 32(2)﻿(c) has effect to make the plan the property of the Crown.
 
 ### 34 Unit plan must comply with survey requirements
 A unit plan must comply with the provisions of rules made under section 49 of the Cadastral Survey Act 2002.
 
 ### 35 Grounds for authorised officer's refusal to give certificate
-An authorised officer of a territorial authority must not refuse to give a certificate in respect of any unit plan under section 32(2)(a) except on 1 or more of the following grounds:
+An authorised officer of a territorial authority must not refuse to give a certificate in respect of any unit plan under section 32(2)﻿(a) except on 1 or more of the following grounds:
   (a) that any building shown on the plan has not been erected, or that any other development work has not been carried out, to the extent necessary to enable all the boundaries of every unit and the common property shown on the plan to be physically measured:
   (b) that any building on the land has been erected in such a place in relation to any boundary, or to a height, so as to contravene the requirements of the territorial authority's district plan unless the contravention is authorised by the territorial authority:
   (c) that any building or any other part of the whole development contravenes the requirements of the territorial authority's district plan in any other manner to such an extent that alterations are required that may affect the location or the boundaries of any unit or of any part of the common property shown on the plan unless the contravention is authorised by the territorial authority.
 
 ### 36 Territorial authority cannot require alterations once certificate given
 (1) This section applies if—
-  (a) an authorised officer of a territorial authority has given a certificate in respect of any unit plan under section 32(2)(a); and
+  (a) an authorised officer of a territorial authority has given a certificate in respect of any unit plan under section 32(2)﻿(a); and
   (b) that plan has been deposited.
 (2) The territorial authority has no power to require any alteration to any building or any other part of the whole development that may affect the location or the boundaries of any unit or of any part of the common property shown on the plan.
 (3) The territorial authority may otherwise pursue any remedies it may have (including the prosecution of any person) in respect of any non-compliance with the provision of its district plan or the requirements of the Resource Management Act 1991.
 (4) Subsection (2) applies despite any enactment or rule of law to the contrary.
 
 ### 37 Protection of territorial authority, etc, from liability for issuing of certificate
-No territorial authority, authorised officer of a territorial authority, member of a territorial authority, or employee or agent of a territorial authority, is subject to civil or criminal liability in respect of the giving of a certificate under section 32(2)(a), unless the territorial authority or person has acted in bad faith.
+No territorial authority, authorised officer of a territorial authority, member of a territorial authority, or employee or agent of a territorial authority, is subject to civil or criminal liability in respect of the giving of a certificate under section 32(2)﻿(a), unless the territorial authority or person has acted in bad faith.
 
 ### Subpart 5 — Ownership interest and utility interest
 
 ### 38 Ownership interest
-(1) Before a unit plan is deposited under section 17(1), 21(1), or 24(2)(a),—
+(1) Before a unit plan is deposited under section 17(1), 21(1), or 24(2)﻿(a),—
   (a) every principal unit and every accessory unit must be assigned an ownership interest; and
   (b) every proposed principal unit and every proposed accessory unit must be assigned a proposed ownership interest.
 (2) The ownership interest or proposed ownership interest is fixed as follows:
@@ -439,14 +439,14 @@ No territorial authority, authorised officer of a territorial authority, member 
   (f) the rights of the owner of the principal unit in relation to a distribution of any surplus money of a capital improvement fund under section 131:
   (g) the extent of the obligation of the owner of the principal unit for payment of ground rental under section 87:
   (h) the extent of the liability of the owner of the principal unit for damages and costs under section 142.
-(4) The proposed ownership interest for a future development unit is the total of all the proposed ownership interests of the proposed principal units and proposed accessory units in the future development unit assigned under subsection (1)(b).
+(4) The proposed ownership interest for a future development unit is the total of all the proposed ownership interests of the proposed principal units and proposed accessory units in the future development unit assigned under subsection (1)﻿(b).
 (5) The proposed ownership interest is used to determine the same range of matters described in subsection (3) in so far as they apply to an owner of a future development unit.
 (6) Subject to sections 41 and 69(3), no change may be made in the ownership interest of any unit after the unit plan is deposited.
 
 ### 39 Utility interest (other than for future development units)
-(1) Before a unit plan is deposited under section 17(1), 21(1), or 24(2)(a), every principal unit and every accessory unit must be assigned a utility interest.
+(1) Before a unit plan is deposited under section 17(1), 21(1), or 24(2)﻿(a), every principal unit and every accessory unit must be assigned a utility interest.
 (2) The utility interest for a principal unit or accessory unit is the same as the ownership interest fixed under section 38(2), unless the utility interest—
-  (a) is fair and equitable, having regard to the relevant benefits and the costs to units, and is shown on documentation required to be lodged with the unit plan deposited under section 17(1), 21(1), or 24(2)(a); or
+  (a) is fair and equitable, having regard to the relevant benefits and the costs to units, and is shown on documentation required to be lodged with the unit plan deposited under section 17(1), 21(1), or 24(2)﻿(a); or
   (b) has been reassessed under section 41.
 (3) The utility interest is used to determine a range of matters including, but not limited to,—
   (a) the extent of the obligation of the owner of the principal unit in respect of contributions levied by the body corporate under section 121 in respect of the long-term maintenance fund, the optional contingency fund, and the operating account:
@@ -487,14 +487,14 @@ No territorial authority, authorised officer of a territorial authority, member 
   (a) create a computer register in the name of the registered proprietor (and not the body corporate) of the base land, for the stratum estate in all of the units shown on the unit plan; and
   (b) cancel the existing computer register for the base land; and
   (c) in a case where the unit plan relates to an estate as lessee or licensee under a registered lease or licence of any land, note an appropriate memorial on the computer register for the leasehold or licence estate.
-(2) Despite subsection (1)(a), the Registrar must, at the request of the registered proprietor, create a separate computer register for any principal unit or future development unit.
+(2) Despite subsection (1)﻿(a), the Registrar must, at the request of the registered proprietor, create a separate computer register for any principal unit or future development unit.
 (3) A computer register created under subsection (2) may also include 1 or more accessory units.
 
 ### 44 Creation of computer register where principal unit subdivided to create subsidiary unit title development
 (1) On the deposit of a unit plan for the subdivision of a principal unit, the Registrar must—
   (a) create a computer register in the name of the owner of the principal unit that has been subdivided for the stratum estate in all of the units in the subsidiary unit title development; and
   (b) cancel the existing computer register for the principal unit.
-(2) Despite subsection (1)(a), the Registrar must, at the request of the owner of the principal unit that has been subdivided, create a separate computer register for any principal unit in the subsidiary unit title development.
+(2) Despite subsection (1)﻿(a), the Registrar must, at the request of the owner of the principal unit that has been subdivided, create a separate computer register for any principal unit in the subsidiary unit title development.
 (3) A computer register created under subsection (2) may include 1 or more accessory units.
 
 ### 45 No computer registers for base land, subdivided principal unit, or component parts of stratum estate
@@ -507,7 +507,7 @@ Despite section 95 of the Land Transfer Act 1952, no separate computer register 
 No computer register may be created in respect of common property.
 
 ### 47 Supplementary record sheets
-On the deposit of a unit plan under subpart 1 or 2, or section 24(2)(a), the Registrar must set up a supplementary record sheet on which the Registrar must note—
+On the deposit of a unit plan under subpart 1 or 2, or section 24(2)﻿(a), the Registrar must set up a supplementary record sheet on which the Registrar must note—
   (a) that the body corporate owns the common property; and
   (b) that the owners of all the units are beneficially entitled to the common property as tenants in common in shares proportional to the ownership interest (or proposed ownership interest) in respect of their respective units; and
   (c) appropriate memorials relating to—
@@ -515,9 +515,9 @@ On the deposit of a unit plan under subpart 1 or 2, or section 24(2)(a), the Reg
     (ii) all other matters that, in accordance with this Act, the regulations, and any other Act, have to be noted on the supplementary record sheet.
 
 ### 48 Noting of subsidiary unit title development
-On the deposit of a unit plan for the subdivision of a principal unit under subpart 2 or section 24(2)(a), the Registrar must—
+On the deposit of a unit plan for the subdivision of a principal unit under subpart 2 or section 24(2)﻿(a), the Registrar must—
   (a) note the subsidiary unit title development on the supplementary record sheet for each unit title development in the layered unit title development of which it is a part; and
-  (b) note on the relevant supplementary record sheet the ownership interest of the principal unit that was subdivided to create the subsidiary unit title development, reassessed as required by section 32(3)(b).
+  (b) note on the relevant supplementary record sheet the ownership interest of the principal unit that was subdivided to create the subsidiary unit title development, reassessed as required by section 32(3)﻿(b).
 
 ### 49 New unit plans
 In any case where, under any of the provisions of section 30, 57, 59, or 68, a new unit plan is deposited under the Land Transfer Act 1952,—
@@ -541,7 +541,7 @@ A transfer, lease, mortgage, or settlement of a stratum estate in a unit has the
 ### 53 Independent dealings with accessory units restricted
 (1) Except where it is transferred to the owner of a principal unit shown on the same unit plan, no accessory unit or any interest in it may be sold, leased, mortgaged, or otherwise disposed of or dealt with except as part of a sale, lease, mortgage, disposition, or other dealing that includes a principal unit or a corresponding interest in a principal unit.
 (2) No computer register relating to an accessory unit may be created except as part of a computer register relating to a principal unit.
-(3) No principal unit that is for the time being included in the same computer register as an accessory unit (not being a computer register created under section 200(1)(b)) and no interest in that principal unit may be sold, leased, mortgaged, or otherwise disposed of or dealt with except—
+(3) No principal unit that is for the time being included in the same computer register as an accessory unit (not being a computer register created under section 200(1)﻿(b)) and no interest in that principal unit may be sold, leased, mortgaged, or otherwise disposed of or dealt with except—
   (a) as part of a sale, lease, mortgage, disposition, or dealing that includes the accessory unit or a corresponding interest in the accessory unit, as the case may be; or
   (b) if there is a concurrent sale of the accessory unit in accordance with subsection (1).
 (4) If an accessory unit is being transferred independently of a principal unit to a person who is the owner of a principal unit shown on the same unit plan, the instrument of transfer in respect of the accessory unit must contain a request to the Registrar for the accessory unit to be included in the computer register for the principal unit.
@@ -593,10 +593,10 @@ A transfer, lease, mortgage, or settlement of a stratum estate in a unit has the
 (1) An interest in land outside the base land may be transferred to the body corporate (other than a subsidiary body corporate) and included in the common property if—
   (a) the body corporate has by special resolution resolved to acquire the interest in land; and
   (b) the interest in land is transferred free from any registered mortgage, encumbrance, charge, lease, or sublease; and
-  (c) either—
+  (c) either,—
     (i) in a case where a stratum estate in freehold exists in the units shown on the plan, the transfer is of an estate in fee simple in the land to which it relates; or
     (ii) in a case where a stratum estate in leasehold or licence exists in the units shown on the plan, the transfer is of an estate as lessee or licensee in the land to which it relates under a lease or licence from the grantor of the lease or licence of the base land.
-(2) The lease or licence referred to in subsection (1)(c)(ii) must be a lease or licence for the same remaining period, on the same terms and conditions, and containing the same provisions as the current lease or licence of the base land.
+(2) The lease or licence referred to in subsection (1)﻿(c)﻿(ii) must be a lease or licence for the same remaining period, on the same terms and conditions, and containing the same provisions as the current lease or licence of the base land.
 (3) Sections 212 to 216 (which provide for an objection process) apply to a resolution under this section.
 (4) For the purpose of this section, the owner of a future development unit that is in use as a place of residence or business or otherwise, in whole or in part, is to be treated as a member of the body corporate.
 
@@ -683,7 +683,7 @@ If a unit plan referred to in sections 65 to 71 includes a stage unit plan,—
   (a) the common property; or
   (b) the use, enjoyment, or ownership interest of any unit the boundary of which is not being adjusted.
 (2) The owners of the units that will have their boundaries adjusted must, jointly, make an application to the Registrar for the deposit of an amendment to the unit plan.
-(3) Sections 32(2)(a) and (c), 33(3), and 34 to 37 apply in respect of the deposit of the amendment to the unit plan under subsection (2).
+(3) Sections 32(2)﻿(a) and (c), 33(3), and 34 to 37 apply in respect of the deposit of the amendment to the unit plan under subsection (2).
 (4) Before making the application to deposit the amendment to the unit plan the unit owners in subsection (2) must obtain a certificate from the body corporate that the redevelopment is of a kind described in subsection (1).
 (5) The unit owners in subsection (2) must, for the purposes of obtaining the certificate referred to in subsection (4), provide sufficient written information to the body corporate to fully inform it of the nature of the redevelopment.
 
@@ -700,7 +700,7 @@ The amendment to the unit plan required by section 65 must—
   (b) a certificate from a registered valuer—
     (i) determining the ownership interest of any enlarged or reduced unit; and
     (ii) stating that the amendment to the unit plan does not affect the ownership interest of any unit the boundary of which is not being adjusted.
-(2) The certificate referred to in subsection (1)(a) may be relied on by the Registrar as sufficient evidence of the matters set out in it.
+(2) The certificate referred to in subsection (1)﻿(a) may be relied on by the Registrar as sufficient evidence of the matters set out in it.
 (3) On the deposit of the amendment to the unit plan and the registration of any transfers or other instruments, the Registrar must—
   (a) cancel the existing computer registers for the units affected by the amended boundaries; and
   (b) create separate computer registers in accordance with the amendment to the unit plan for the units affected by the amended boundaries; and
@@ -723,13 +723,13 @@ The amendment to the unit plan required by section 65 must—
   (a) define the boundaries of the new units or the enlarged or reduced units:
   (b) show all new units and any enlarged or reduced units marked with numbers or letters not already used on the existing unit plan:
   (c) specify which of the new units, enlarged units, and reduced units are principal units and which are accessory units.
-(2) In addition to the provisions referred to in section 31(2)(a), sections 32(2)(a) and 35 to 37 apply in respect of a new plan.
-(3) The application to deposit the plan must be accompanied by a certificate from a registered valuer—
+(2) In addition to the provisions referred to in section 31(2)﻿(a), sections 32(2)﻿(a) and 35 to 37 apply in respect of a new plan.
+(3) The application to deposit the plan must be accompanied by a certificate from a registered valuer,—
   (a) in the case of a subdivision into 2 or more new units, enlarged units, or reduced units, showing the ownership interest of the former unit or units included in the redevelopment apportioned among the new units; and
   (b) in the case where a redevelopment involves the inclusion in a unit of part of the common property, the transfer into the common property of a unit or part of a unit, or the erection of 1 or more units on the common property, reassessing the ownership interests of all units in the unit title development.
-(4) The valuer who reassesses the ownership interest under subsection (3)(b) must assign to every unit a new ownership interest on the basis of the relative value of the unit in relation to each other unit at the date on which the reassessment is made.
+(4) The valuer who reassesses the ownership interest under subsection (3)﻿(b) must assign to every unit a new ownership interest on the basis of the relative value of the unit in relation to each other unit at the date on which the reassessment is made.
 (5) Despite subsection (4), the registered valuer may, in his or her discretion, reassess the ownership interests at the same values as the current ownership interests in any case where the valuer considers that the redevelopment is of a relatively minor nature.
-(6) In addition to the matters required to be included in the certificate referred to in section 216, the body corporate must also certify that the consents required under section 68(3)(a) and (b) have been given.
+(6) In addition to the matters required to be included in the certificate referred to in section 216, the body corporate must also certify that the consents required under section 68(3)﻿(a) and (b) have been given.
 
 ### 70 Reassessment of utility interests
 (1) This section applies if, immediately before a redevelopment to which sections 68 and 69 relate, the utility interest of any unit was different to its ownership interest because the utility interest had been reassessed under section 41.
@@ -770,7 +770,7 @@ Except as otherwise provided in this Act and subject to any necessary modificati
 (3) A scheme under subsection (2) may include provisions—
   (a) for the reinstatement in whole or in part of the building or other improvement; or
   (b) for the transfer of units to the body corporate so as to form part of the common property.
-(4) If an order is made under subsection (3)(b), sections 58(1)(c) and 59 apply to the transfer, so far as applicable, but subject to any order of the High Court to the contrary.
+(4) If an order is made under subsection (3)﻿(b), sections 58(1)﻿(c) and 59 apply to the transfer, so far as applicable, but subject to any order of the High Court to the contrary.
 (5) A notice of any application made under subsection (2) must be lodged with the Registrar who must enter on the supplementary record sheet a notification that the application has been made.
 (6) On any application to the High Court under subsection (2), the following persons have the right to appear and be heard:
   (a) any person having or claiming to have any estate or interest in any unit or in the whole or part of the base land; or
@@ -811,7 +811,7 @@ An owner of a principal unit—
   (b) holds a share in the common property in accordance with section 54(2):
   (c) is entitled as a body corporate member to exercise a vote in respect of his or her unit, subject to section 96 and any other requirements in the regulations:
   (d) is entitled to have quiet enjoyment of his or her unit without interruption by other unit owners or occupiers, or the body corporate or its agents, except as authorised by this Act or the regulations:
-  (e) subject to section 80(1)(h) and (i), may make any alterations, additions, or improvements to his or her unit so long as these are within the unit boundary and do not materially affect any other unit or common property:
+  (e) subject to section 80(1)﻿(h) and (i), may make any alterations, additions, or improvements to his or her unit so long as these are within the unit boundary and do not materially affect any other unit or common property:
   (f) has the right to have any dispute resolved in the manner set out in subpart 1 of Part 4:
   (g) has the right to enforce the body corporate operational rules:
   (h) has the right to attend the general meetings of the body corporate.
@@ -834,10 +834,10 @@ An owner of a principal unit—
   (j) must comply with the body corporate operational rules:
   (k) must not do anything that breaches or in any way undermines any policy of insurance in the name of the body corporate.
 (2) For the purpose of subsection (1), an owner of a future development unit that is in use as a place of residence or business or otherwise, in whole or in part, is to be treated as an owner of a principal unit.
-(3) For the purposes of subsection (1)(a) and (i),—
+(3) For the purposes of subsection (1)﻿(a) and (i),—
   (a) a subsidiary body corporate is to be treated as the unit owner of the principal unit that was subdivided to create the subsidiary unit title development; and
   (b) a reference to a unit includes any unit in the subsidiary unit title development.
-(4) Subsection (1)(b) does not affect the right of an owner to apply for minority relief under section 210 or to object to a designated resolution under sections 212 to 216.
+(4) Subsection (1)﻿(b) does not affect the right of an owner to apply for minority relief under section 210 or to object to a designated resolution under sections 212 to 216.
 
 ### 81 Responsibilities of absent owner of unit who leases or licenses unit
 (1) This section applies to owners of units who lease or license their unit, and who are absent from New Zealand for longer than 3 consecutive weeks.
@@ -848,7 +848,7 @@ An owner of a principal unit—
 (4) If an owner of a unit does not appoint an agent or the agent fails or refuses to enforce the body corporate operational rules, the body corporate may enforce those rules.
 
 ### 82 Requirements relating to consent by subsidiary body corporate to additions or structural alterations
-(1) The subsidiary body corporate may only consent to additions or structural alterations under section 80(1)(i) to any principal unit in the subsidiary unit title development that materially affect any other unit in the parent unit title development or the common property of its parent unit title development if the subsidiary body corporate has obtained the written consent of—
+(1) The subsidiary body corporate may only consent to additions or structural alterations under section 80(1)﻿(i) to any principal unit in the subsidiary unit title development that materially affect any other unit in the parent unit title development or the common property of its parent unit title development if the subsidiary body corporate has obtained the written consent of—
   (a) the body corporate for each unit title development located between it and its head unit title development; and
   (b) the body corporate for its head unit title development.
 (2) A parent body corporate or the head body corporate must not unreasonably withhold consent under subsection (1) and may not withhold consent unless the proposed addition or structural alteration changes the boundaries of the subsidiary unit title development or has a material impact on the use or amenities of the parent unit title development or head unit title development.
@@ -894,10 +894,10 @@ An owner of a principal unit—
 (3) Despite anything in this Act, where the owner of a principal unit transfers his or her unit to any other person, until the body corporate is notified in writing of the transfer,—
   (a) that owner of the principal unit remains liable to the body corporate for all contributions levied by the body corporate under section 121 for his or her unit:
   (b) the transferee is only entitled to exercise the voting rights for the unit at a general meeting with the consent of the other owners of principal units who are present at the meeting.
-(4) Nothing in subsection (3)(a) restricts the right of the owner of the principal unit to recover any amounts from a transferee that the owner has paid in respect of contributions levied by the body corporate.
+(4) Nothing in subsection (3)﻿(a) restricts the right of the owner of the principal unit to recover any amounts from a transferee that the owner has paid in respect of contributions levied by the body corporate.
 
 ### 86 Power of body corporate to sign document
-(1) A body corporate may serve an owner of a principal unit with a notice in the prescribed form requiring the owner to sign any document in order to carry out a resolution either passed by the body corporate or, if an objection has been made, confirmed by the court under section 215(4)(b).
+(1) A body corporate may serve an owner of a principal unit with a notice in the prescribed form requiring the owner to sign any document in order to carry out a resolution either passed by the body corporate or, if an objection has been made, confirmed by the court under section 215(4)﻿(b).
 (2) If the notice relates to a designated resolution, the notice may not be served until the time for making an objection under section 213 has passed.
 (3) If the notice relates to a resolution for which an application for relief has been made under section 210, the notice may not be served until the time for making that application has passed.
 (4) The body corporate may sign the document on behalf of the owner if the owner—
@@ -974,7 +974,7 @@ An owner of a principal unit—
     (ii) the representative of that owner; or
   (b) who is the nominee of a company the name of which is entered on the register of owners of principal units as the representative of the owner; or
   (c) who is a subsidiary body corporate representative.
-(2) For subsection (1)(a)(ii), a person is a representative of the owner of a principal unit if—
+(2) For subsection (1)﻿(a)﻿(ii), a person is a representative of the owner of a principal unit if—
   (a) the person is a guardian, trustee, receiver, or other representative of the owner, and is authorised to act on the owner’s behalf; or
   (b) the person is authorised by law to administer, manage, or control the property of the owner.
 (3) An eligible voter may not vote unless all body corporate levies and other amounts that are from time to time payable to the body corporate in respect of his or her unit have been paid.
@@ -984,7 +984,7 @@ An owner of a principal unit—
 (7) Nothing in this section prevents a mortgagee of a principal unit from—
   (a) directing the owner to vote in a particular manner; or
   (b) exercising a vote on behalf of the owner in accordance with the Property Law Act 2007 or in accordance with any provision to that effect in the mortgage.
-(8) A mortgagee must give written notice to the body corporate if it intends to exercise a vote on behalf of the owner under subsection (7)(b).
+(8) A mortgagee must give written notice to the body corporate if it intends to exercise a vote on behalf of the owner under subsection (7)﻿(b).
 
 ### 97 Counting of votes for ordinary resolution subject to request for poll
 (1) This section applies if a motion is to be decided by ordinary resolution, subject to a request for a poll, at a general meeting of a body corporate.
@@ -1185,7 +1185,7 @@ The body corporate may enter into an agreement with the owner of a future develo
 (2) Any expense incurred by the body corporate in doing the repair, work, or act is recoverable by it as a debt in any court of competent jurisdiction (less any amount already paid) in accordance with the following:
   (a) so far as the repair, work, or act benefits any unit by a distinct and ascertainable amount, the owner at the time when the expense was incurred and the owner at the time when the action is instituted are jointly and severally liable for the debt; or
   (b) so far as the amount of the debt is not met in accordance with the provisions of paragraph (a), it must be apportioned among the units that derive a substantial benefit from the repair, work, or act rateably according to the utility interest of those units, and in the case of each of those units, the owner at the time when the expense was incurred and the owner at the time when the action is instituted are jointly and severally liable for the amount apportioned to that unit.
-(3) Despite subsection (2)(b), if the court considers that it would be inequitable to apportion the amount of the debt in proportion to the utility interest of the unit owners referred to in that paragraph, it may apportion that amount in relation to those units in the shares as it thinks fit, having regard to the relative benefits to those units.
+(3) Despite subsection (2)﻿(b), if the court considers that it would be inequitable to apportion the amount of the debt in proportion to the utility interest of the unit owners referred to in that paragraph, it may apportion that amount in relation to those units in the shares as it thinks fit, having regard to the relative benefits to those units.
 
 ### 127 Recovery of money expended where person at fault
 (1) This section applies if the body corporate does any repair, work, or act that it is required or authorised to do, by or under this Act, or by or under any other Act, and the repair, work, or act was rendered necessary by reason of any wilful or negligent act or omission on the part of, or any breach of the Act, the body corporate operational rules, or any regulations by, any unit owner or his or her tenant, lessee, licensee, or invitee.
@@ -1263,7 +1263,7 @@ The body corporate may distribute money or personal property in its possession a
 (1) A principal insurance policy remains in full force and effect until—
   (a) the insurer serves on the body corporate or its insurance broker and any mortgagee of which the insurer has notice, a notice to the effect that the policy will lapse or be cancelled on the date specified in the notice, that date not being earlier than 30 days after the date on which the notice is served; and
   (b) the date specified in the notice.
-(2) Despite subsection (1)(a), it is sufficient if the insurer sends the notice to the body corporate or mortgagee to the last address given to the insurer by the body corporate under section 134(5).
+(2) Despite subsection (1)﻿(a), it is sufficient if the insurer sends the notice to the body corporate or mortgagee to the last address given to the insurer by the body corporate under section 134(5).
 (3) If the insurer considers that a unit owner or mortgagee is in default under the principal insurance policy, the notice must specify the nature of the default and state that the lapsing or cancellation of the policy is conditional upon the default not being remedied before the date specified in the notice.
 (4) Money paid by the insurer under the principal insurance policy must be applied in or towards reinstatement of the unit title development unless the body corporate decides otherwise by special resolution at a general meeting.
 (5) Sections 212 to 216 apply to a decision made under subsection (4).
@@ -1387,7 +1387,7 @@ A provision in any agreement to exclude or limit the obligation to disclose unde
 (3) The pre-settlement disclosure statement—
   (a) must contain the prescribed information; and
   (b) must contain a certificate given by the body corporate certifying that the information in the statement is correct.
-(4) A body corporate may withhold a certificate referred to in subsection (3)(b) if any debt that is due to the body corporate by the unit owner is unpaid.
+(4) A body corporate may withhold a certificate referred to in subsection (3)﻿(b) if any debt that is due to the body corporate by the unit owner is unpaid.
 
 ### 148 Buyer may request additional disclosure
 (1) A buyer may request an additional disclosure statement or may request some, but not all, of the information required to be in an additional disclosure statement (specific prescribed information).
@@ -1403,8 +1403,8 @@ A provision in any agreement to exclude or limit the obligation to disclose unde
   (a) the seller provides a pre-settlement disclosure statement or an additional disclosure statement on a date that is later than the fifth working day before the settlement date; or
   (b) at the close of business on the last working day before the settlement date the seller has not provided a pre-settlement disclosure statement or, if one had been requested, an additional disclosure statement.
 (2) The buyer may, by notice in writing, postpone the settlement date—
-  (a) in the case referred to in subsection (1)(a), until the fifth working day after the date on which the latest disclosure statement to be given was provided; or
-  (b) in the case referred to in subsection (1)(b), until the fifth working day after the date on which the disclosure statement is provided or, if more than 1 is required to be provided, the latest to be provided.
+  (a) in the case referred to in subsection (1)﻿(a), until the fifth working day after the date on which the latest disclosure statement to be given was provided; or
+  (b) in the case referred to in subsection (1)﻿(b), until the fifth working day after the date on which the disclosure statement is provided or, if more than 1 is required to be provided, the latest to be provided.
 
 ### 150 Seller must rectify inaccuracies in disclosure statement
 (1) This section applies if, before the settlement date, the seller becomes aware that information contained in a disclosure statement given under any of sections 146, 147, and 148 or this section—
@@ -1464,7 +1464,7 @@ The body corporate must hold a general meeting within 3 months from the date on 
 (4) Subject to section 164, no cause of action in respect of any breach by the owner of any unit or the registered owner of any estate or interest in any unit of any covenant, agreement, or stipulation expressed or implied in the lease and on the lessee’s part to be performed or observed lies at the suit of the lessor.
 
 ### 161 Dealing with stratum estate in leasehold
-Except as provided in sections 30(5)(b) and 68(3), the lessor’s consent is not required to any dealing with a stratum estate in leasehold.
+Except as provided in sections 30(5)﻿(b) and 68(3), the lessor’s consent is not required to any dealing with a stratum estate in leasehold.
 
 ### 162 Restrictions on surrenders and releases
 (1) After the deposit of a unit plan to which this Part applies, and until the cancellation of the plan,—
@@ -1472,7 +1472,7 @@ Except as provided in sections 30(5)(b) and 68(3), the lessor’s consent is not
   (b) the lessor must not release or agree to release any unit or the common property or any part of the common property from the lease, whether for valuable consideration or otherwise:
   (c) subject to section 169, if the owner of a unit purchases or acquires (whether by operation of law or otherwise) the lessor’s reversionary estate in the base land, that estate does not merge with the stratum estate in leasehold in that unit:
   (d) subject to section 169, if the lessor purchases or acquires the stratum estate in leasehold in any unit (whether by operation of law or otherwise) that estate does not merge with the lessor’s reversionary estate.
-(2) Any purported surrender or release in contravention of subsection (1)(a) or (b) is void and of no effect.
+(2) Any purported surrender or release in contravention of subsection (1)﻿(a) or (b) is void and of no effect.
 (3) Nothing in this section prohibits—
   (a) the body corporate from dealing with the estate as lessee in the common property as a whole or in any part or parts of the common property:
   (b) all the owners of all the units from surrendering or agreeing to surrender to the lessor the stratum estates in leasehold in all the units:
@@ -1483,14 +1483,14 @@ Except as provided in sections 30(5)(b) and 68(3), the lessor’s consent is not
   (a) the payment by the body corporate of the rent reserved under the lease on the days and in the manner prescribed in the lease; and
   (b) the performance or observance by the body corporate of the covenants, agreements, and stipulations contained or implied in the lease to be performed or observed by the lease.
 (2) Each owner for the time being of a unit in a subsidiary unit title development, and the subsidiary body corporate,—
-  (a) are bound by the covenants, agreements, and stipulations referred to in subsection (1)(b); and
+  (a) are bound by the covenants, agreements, and stipulations referred to in subsection (1)﻿(b); and
   (b) must be treated as having guaranteed to the lessor the performance or observance by the head body corporate of those covenants, agreements, and stipulations.
 (3) The liability of each owner under the guarantees under subsections (1) and (2)—
   (a) is limited to the proportion of the rent or other money payable as the ownership interest of that owner’s unit bears to the aggregate ownership interest of all the units shown on the plan; and
   (b) relates only to rent and other money due or accruing due while he or she is the owner of that unit.
 (4) None of the following releases, exonerates, or in any way affects the liability of any owner under subsection (1) or (2):
   (a) neglect or forbearance of the lessor in endeavouring to obtain payment of the rent or other money payable under the lease; or
-  (b) neglect to enforce the performance or observance of the covenants, agreements, or stipulations contained or implied in the lease by the body corporate; and
+  (b) neglect to enforce the performance or observance of the covenants, agreements, or stipulations contained or implied in the lease by the body corporate; or
   (c) time or other indulgence that may be given to the body corporate by the lessor.
 (5) If the owner of a unit pays to the lessor any sum that he or she is liable to pay under this section, that owner is entitled to recover the sum from the body corporate as a debt in any court of competent jurisdiction.
 (6) Nothing in subsection (5) prevents the body corporate from claiming any sum due to it from that owner under the provisions of this Act by way of set-off.
@@ -1507,15 +1507,15 @@ Except as provided in sections 30(5)(b) and 68(3), the lessor’s consent is not
 (2) The lessor may—
   (a) apply to the High Court for the appointment of an administrator, in which case section 141 applies with any necessary modifications; or
   (b) apply to the High Court for the cancellation of the unit plan, in which case sections 187 and 188 apply with any necessary modifications.
-(3) If, on an application made by the lessor under subsection (2)(b), the High Court makes a declaration authorising the cancellation of the unit plan, then, if all conditions and directions imposed or given by the High Court have been complied with,—
+(3) If, on an application made by the lessor under subsection (2)﻿(b), the High Court makes a declaration authorising the cancellation of the unit plan, then, if all conditions and directions imposed or given by the High Court have been complied with,—
   (a) the lessor may, within 6 months after the date of the declaration, apply to the Registrar for the cancellation of the plan; and
   (b) section 189 applies with any necessary modifications.
-(4) No application may be made under subsection (2)(a) or (b) in respect of a failure described in subsection (1)(b) unless—
-  (a) the lessor serves on the body corporate and the bodies corporate described in section 187(2)(b) and (c) a notice—
+(4) No application may be made under subsection (2)﻿(a) or (b) in respect of a failure described in subsection (1)﻿(b) unless—
+  (a) the lessor serves on the body corporate and the bodies corporate described in section 187(2)﻿(b) and (c) a notice—
     (i) specifying the particular breach complained of; and
     (ii) if the breach is capable of remedy, requiring the body corporate to make compensation in money for the breach; and
   (b) the body corporate fails within a reasonable time to remedy the breach, if it is capable of remedy, and to make reasonable compensation in money to the satisfaction of the lessor.
-(5) If the lessor is applying to the High Court under subsection (2)(b) for the cancellation of the unit plan, the body corporate, and any subsidiary body corporate located below it in a layered unit title development, may apply to the High Court for relief.
+(5) If the lessor is applying to the High Court under subsection (2)﻿(b) for the cancellation of the unit plan, the body corporate, and any subsidiary body corporate located below it in a layered unit title development, may apply to the High Court for relief.
 (6) If the body corporate applies for relief under subsection (5), the High Court, having regard to the conduct of the parties and to all the circumstances of the case, may grant or refuse relief, as it thinks fit.
 (7) If the High Court grants relief it may grant it on such terms (if any) as to costs, expenses, damages, compensation, penalty, or otherwise, including the granting of an injunction to restrain any like breach in the future, as the High Court in the circumstances of each case thinks fit.
 
@@ -1556,7 +1556,7 @@ Except as provided in sections 30(5)(b) and 68(3), the lessor’s consent is not
 (4) The effect of a merger is,—
   (a) in any case where the lessor has purchased or acquired the stratum estates in leasehold in all of the units shown on the plan, to vest the stratum estate in freehold in each of the units in the lessor; or
   (b) in any case where all the registered owners of the stratum estates in leasehold in all of the units shown on the plan have purchased or acquired the reversionary estate in the base land, to vest the stratum estate in freehold in each of the units in the person who immediately before the merger was the owner of that unit.
-(5) On the deposit of any declaration under subsection (2) or (3)(b), the Registrar, if the Registrar is satisfied that the stratum estates in leasehold in all of the units shown on the plan have merged under the provisions of this section with the reversionary estate in the base land, must—
+(5) On the deposit of any declaration under subsection (2) or (3)﻿(b), the Registrar, if the Registrar is satisfied that the stratum estates in leasehold in all of the units shown on the plan have merged under the provisions of this section with the reversionary estate in the base land, must—
   (a) note on the supplementary record sheet a memorial of the merger; and
   (b) cancel the computer register in respect of the stratum estate in leasehold in each of the units and create a computer register in respect of the stratum estate in freehold in each of the units to the person entitled to it in accordance with subsection (4); and
   (c) note the effect of this section on the lease and any computer register created for it.
@@ -1595,24 +1595,24 @@ The owner of a future development unit in a unit title development to which this
   (a) to make an order requiring any person or body to pay any sum, or to do any work to a value, or otherwise incur expenditure, in excess of $50,000; or
   (b) to hear a dispute relating to the application of insurance money under section 136(4); or
   (c) to hear any dispute relating to the title of land.
-(5) Without limiting subsection (4)(c), a dispute relating to the title of land includes—
+(5) Without limiting subsection (4)﻿(c), a dispute relating to the title of land includes—
   (a) a redevelopment:
   (b) cancellation of a unit plan:
   (c) conversion under subpart 3 of this Part.
 (6) An order of the Tribunal that exceeds any restriction specified in subsection (4) is of no effect.
-(7) Subsection (4)(a) does not prevent a party to a unit title dispute from abandoning as much of the claim as exceeds $50,000 in order to bring the claim within the jurisdiction of the Tribunal; and in any such case, an order of the Tribunal in relation to the claim operates to discharge any person against whom the claim is made and the subsequent order made from liability in respect of the amount abandoned.
+(7) Subsection (4)﻿(a) does not prevent a party to a unit title dispute from abandoning as much of the claim as exceeds $50,000 in order to bring the claim within the jurisdiction of the Tribunal; and in any such case, an order of the Tribunal in relation to the claim operates to discharge any person against whom the claim is made and the subsequent order made from liability in respect of the amount abandoned.
 (8) The Tribunal has jurisdiction to hear and determine any claim arising under any unit title dispute that is a claim for the balance, not exceeding $50,000, after a set-off or any counterclaim made by the other party to the dispute against the claimant arising out of the same dispute, being a counterclaim admitted by the claimant.
 (9) A cause of action must not be divided into 2 or more claims for the purpose of bringing it within the jurisdiction of the Tribunal.
 
-### 172 Jurisdiction of District Courts
-(1) A District Court has jurisdiction to hear and determine a unit title dispute if the order sought requires any person or body to pay any sum, or to do any work to a value, or otherwise incur expenditure, in excess of $50,000 but not more than $200,000.
-(2) In addition to the jurisdiction conferred under subsection (1), a District Court also has jurisdiction to hear and determine a unit title dispute relating to the application of insurance money under section 136(4) for amounts up to and including $50,000.
-(3) A District Court does not have jurisdiction to hear any dispute relating to the title of land.
+### 172 Jurisdiction of District Court
+(1) The District Court has jurisdiction to hear and determine a unit title dispute if the order sought requires any person or body to pay any sum, or to do any work to a value, or otherwise incur expenditure, in excess of $50,000 but not more than $350,000.
+(2) In addition to the jurisdiction conferred under subsection (1), the District Court also has jurisdiction to hear and determine a unit title dispute relating to the application of insurance money under section 136(4) for amounts up to and including $50,000.
+(3) The District Court does not have jurisdiction to hear any dispute relating to the title of land.
 (4) Any provision of any agreement that purports to exclude or limit the jurisdiction of the District Court is of no effect.
 
 ### 173 Jurisdiction of High Court
 (1) The High Court has jurisdiction to hear and determine any unit title dispute if—
-  (a) the order sought requires any person or body to pay any sum, or to do any work to a value, or otherwise incur expenditure, in excess of $200,000; or
+  (a) the order sought requires any person or body to pay any sum, or to do any work to a value, or otherwise incur expenditure, in excess of $350,000; or
   (b) the dispute relates to the title of land.
 (1A) In addition to the jurisdiction conferred under subsection (1), the High Court also has jurisdiction to hear and determine a unit title dispute relating to the application of insurance money under section 136(4) for amounts in excess of $50,000.
 (2) Any provision of any agreement that purports to exclude or limit the jurisdiction of the High Court is of no effect.
@@ -1622,7 +1622,7 @@ The owner of a future development unit in a unit title development to which this
 (2) Without limiting the generality of subsection (1), the Tribunal has jurisdiction in respect of a dispute despite any agreement relating to the matter that provides for—
   (a) the submission to arbitration of any dispute or difference; or
   (b) the making of an award on the submission to be a condition precedent to any cause of action accruing to a party to the agreement.
-(3) Subsection (2)(b) does not apply if a cause of action has accrued or is believed to have accrued to a person and that person has agreed to the settlement or compromise of the claim based on that cause of action.
+(3) Subsection (2)﻿(b) does not apply if a cause of action has accrued or is believed to have accrued to a person and that person has agreed to the settlement or compromise of the claim based on that cause of action.
 
 ### 175 Transfer of proceedings to District Court or High Court
 (1) If any proceedings have been commenced before the Tribunal that the Tribunal has no jurisdiction to hear and determine, the Tribunal may, instead of striking out the proceedings, order that they be transferred to either the District Court or the High Court, depending on which court has jurisdiction to determine the dispute.
@@ -1661,7 +1661,7 @@ No unit plan may be cancelled if a principal unit in the unit title development 
 ### 179 Cancellation of unit plan by Registrar
 The cancellation of a unit plan is effected when the Registrar has entered the cancellation on the supplementary record sheet or any other appropriate record.
 
-### 180 Effect of cancellation of unit plan—standard unit title development or head unit title development
+### 180 Effect of cancellation of unit plan: standard unit title development or head unit title development
 (1) This section applies to a unit plan for a standard unit title development or a head unit title development.
 (2) On the cancellation of the unit plan,—
   (a) the following estates are merged and vested in the persons who were the owners of the units immediately before the cancellation in shares proportional to what was, at that time, their ownership interest:
@@ -1683,18 +1683,18 @@ The cancellation of a unit plan is effected when the Registrar has entered the c
 (3) This section is subject to section 182.
 
 ### 182 Effect of cancellation of stage unit plan
-(1) If a stage unit plan for a standard unit title development or a head unit title development is cancelled, the estates described in section 180(2)(a)(i) and (ii) vest as described in subsection (3) of this section.
-(2) If a stage unit plan for a subsidiary unit title development is cancelled, the estates described in section 181(2)(a)(i) and (ii) vest as described in subsection (3) of this section.
+(1) If a stage unit plan for a standard unit title development or a head unit title development is cancelled, the estates described in section 180(2)﻿(a)﻿(i) and (ii) vest as described in subsection (3) of this section.
+(2) If a stage unit plan for a subsidiary unit title development is cancelled, the estates described in section 181(2)﻿(a)﻿(i) and (ii) vest as described in subsection (3) of this section.
 (3) The estates referred to in subsections (1) and (2) vest—
   (a) as to 1 undivided share in each person who was the owner of a future development unit immediately before the cancellation of the plan; and
   (b) as to 1 undivided share in all the persons who were the owners of the units (other than future development units) immediately before the cancellation of the plan.
-(4) A share referred to in subsection (3)(a) is to be in the proportion that the total of all the proposed ownership interests of the proposed principal units and proposed accessory units in the future development unit, assessed as required by section 177(7), bears to the total ownership interests of the balance of the development.
-(5) As between themselves, the persons who are entitled to 1 undivided share in the relevant estates under subsection (3)(b) are entitled in shares proportional to what was, immediately before the cancellation of the plan, their ownership interest.
+(4) A share referred to in subsection (3)﻿(a) is to be in the proportion that the total of all the proposed ownership interests of the proposed principal units and proposed accessory units in the future development unit, assessed as required by section 177(7), bears to the total ownership interests of the balance of the development.
+(5) As between themselves, the persons who are entitled to 1 undivided share in the relevant estates under subsection (3)﻿(b) are entitled in shares proportional to what was, immediately before the cancellation of the plan, their ownership interest.
 
 ### 183 Extinguishment of registered interests, etc
 (1) This section applies if an application is made under section 177 and the Registrar has received a certificate from the body corporate that complies with the requirements of sections 177(6) and 216.
 (2) Every registered interest in, or caveat or notice of claim entered on the register over, any unit or the common property is extinguished.
-(3) Nothing in subsection (2) extinguishes an easement or covenant of a kind that will, under section 180(2)(b) or (c) or 181(2)(b), continue after cancellation of the unit plan.
+(3) Nothing in subsection (2) extinguishes an easement or covenant of a kind that will, under section 180(2)﻿(b) or (c) or 181(2)﻿(b), continue after cancellation of the unit plan.
 (4) The Registrar must make the necessary entries on the register to give effect to the extinguishment under subsection (2).
 
 ### 184 Vesting of share where 2 or more owners of unit
@@ -1781,11 +1781,11 @@ For the purposes of sections 177 to 189, an owner of a future development unit i
     (ii) registered proprietors each of whom holds that estate with the other registered proprietors as tenant in common and also as the proprietor of a leasehold interest in part of the land under a lease made between all the registered proprietors at the date of the lease as lessors and the registered proprietor (or a person through whom the registered proprietor claims) as lessee; and
   (b) the boundaries of the principal units (as they would be according to the unit plan if it were deposited) are exactly the same as the boundaries under—
     (i) the licences granted in connection with the ownership by the flat or office owning company; or
-    (ii) the lease described in paragraph (a)(ii).
+    (ii) the lease described in paragraph (a)﻿(ii).
 (2) In this subpart, unless the context otherwise requires,—
-  - **company** means a company to which subsection (1)(a)(i) applies
+  - **company** means a company to which subsection (1)﻿(a)﻿(i) applies
   - **member** , in relation to a company incorporated under Part 2 of the Companies Act 1993, means a shareholder as defined in section 96 of that Act and, in relation to any other company, means a member of, or shareholder in, the company
-  - **owners** means a group of registered proprietors to whom subsection (1)(a)(ii) applies.
+  - **owners** means a group of registered proprietors to whom subsection (1)﻿(a)﻿(ii) applies.
 
 ### 192 Conversion to be preceded by resolution or High Court order
 Before an application is made in accordance with this subpart to deposit a unit plan,—
@@ -1822,7 +1822,7 @@ A resolution by 75% of the members of an existing company or the owners to subdi
 (4) If the circumstances in which the order was made subsequently change before the caveat is removed, the company or any owner or the caveator may apply to the High Court for a variation of the order.
 
 ### 197 Consents to deposit of plan
-(1) Despite anything in section 32(1)(d), the consent of any person other than the company or a member of the company or an owner is not required to the deposit of the new unit plan if the Registrar is satisfied that every person, other than a member of the company or an owner, who has any registered estate or interest in the land in the scheme, or in any part of that land, and who does not sign the plan, has been given proper notice under section 195 and has not lodged a caveat under that section.
+(1) Despite anything in section 32(1)﻿(d), the consent of any person other than the company or a member of the company or an owner is not required to the deposit of the new unit plan if the Registrar is satisfied that every person, other than a member of the company or an owner, who has any registered estate or interest in the land in the scheme, or in any part of that land, and who does not sign the plan, has been given proper notice under section 195 and has not lodged a caveat under that section.
 (2) If any person, having lodged a caveat pursuant to section 195, consents to the new unit plan, and the caveat is still in force at the time, the consent to the plan has the effect of removing the caveat, and the Registrar must mark the Registrar’s records accordingly.
 (3) No unit plan may be deposited unless every member of the company or the owner, or the owner’s agent duly authorised in writing, and every person having security over any unit shown on the plan under any mortgage or charge to which section 198(2) relates consents to the deposit, but the Registrar may dispense with the consent if the Registrar—
   (a) is satisfied that it would not be reasonable in any particular circumstances to insist on the consent to the deposit of the plan; and
@@ -1843,7 +1843,7 @@ A resolution by 75% of the members of an existing company or the owners to subdi
   (d) except so far as they are altered or modified expressly or by necessary implication by reason of the deposit of the unit plan under this Act, the rights, interests, duties, obligations, and liabilities of the members of the company existing in relation to the company immediately before its dissolution continue in existence in relation to the body corporate and must not be otherwise affected or abated by the dissolution:
   (e) all acts, matters, and things of a continuing nature made, done, or commenced by or on behalf of the company and immediately before its dissolution of any force or effect or capable of acquiring any force or effect are deemed to have been done or commenced by or on behalf of the body corporate:
   (f) any reference to the company in any document or instrument must, if not inconsistent with the context or subject-matter, be read as a reference to the body corporate.
-(4) Nothing in subsection (3)(c) affects a mortgage or charge to which section 198(2) relates.
+(4) Nothing in subsection (3)﻿(c) affects a mortgage or charge to which section 198(2) relates.
 
 ### 200 Creation of computer register in respect of units
 (1) On the deposit of the unit plan, the Registrar must—
@@ -1867,7 +1867,7 @@ The chief executive is responsible for the administration of this Act.
   (c) the giving of opinions and advice to persons on any provisions of this Act or of any other enactment or rule of law relating to unit title developments:
   (d) the investigation, whether on the complaint of a party or not, of any alleged breach of this Act, and the taking of such action, whether involving legal proceedings, negotiation, or arbitration, as the chief executive thinks proper:
   (e) the making of reports to the Minister on any matter relating to unit titles that the Minister may require, or that the chief executive thinks should be drawn to the attention of the Minister.
-(2) Except as required by the Minister under subsection (1)(e), whether or not to perform or exercise any of the functions and powers specified in that subsection in any particular case is a matter for the chief executive’s discretion, and in no circumstance is the chief executive obliged to perform or exercise any such function or power.
+(2) Except as required by the Minister under subsection (1)﻿(e), whether or not to perform or exercise any of the functions and powers specified in that subsection in any particular case is a matter for the chief executive’s discretion, and in no circumstance is the chief executive obliged to perform or exercise any such function or power.
 
 ### 203 Immunities
 No personal liability attaches to the chief executive or to any delegate of the chief executive for any act or omission by the chief executive or the delegate made in good faith and in the performance or exercise, or purported performance or exercise, of all or any of the functions or powers of the chief executive under this Act, or in the discharge, or purported discharge, of all or any of the chief executive’s duties under this Act, but without prejudice to any liability that the Crown may incur for the acts or omissions of any employee or agent of the Crown.
@@ -1911,7 +1911,7 @@ If a local authority, public body, or person authorised by it has a right under 
   (b) must, within a reasonable time,—
     (i) give the consent; or
     (ii) notify the person requesting the consent that the consent is withheld.
-(2) Subsection (1)(a) is subject to any provision of this or any other enactment setting out specific grounds on which consent may be withheld.
+(2) Subsection (1)﻿(a) is subject to any provision of this or any other enactment setting out specific grounds on which consent may be withheld.
 
 ### 209 Distribution of proceeds in layered unit title development
 (1) This section applies where this Act provides for the distribution to unit owners of proceeds obtained by a body corporate, or of body corporate funds (a distribution of proceeds provision).
@@ -1954,7 +1954,7 @@ For the purposes of this subpart, designated resolution means a resolution relat
     (ii) any person who is the grantee of an unregistered lease or licence over the whole or part of the common property.
 (2) The notice required to be served under subsection (1) is in addition to any other documents that are required to be served under this Act in relation to any particular matter.
 (3) Any person served with a notice under subsection (1) may, within 28 days of being served with that notice, give written notice in the prescribed form (if any) to the body corporate of his or her objection to the designated resolution (a notice of objection).
-(4) Despite subsection (3), no person may object under that subsection in respect of an easement or covenant of a kind that will, under section 180(2)(b) or (c) or 181(2)(b), continue after the cancellation of the unit plan.
+(4) Despite subsection (3), no person may object under that subsection in respect of an easement or covenant of a kind that will, under section 180(2)﻿(b) or (c) or 181(2)﻿(b), continue after the cancellation of the unit plan.
 (5) If a person served with a notice under subsection (1) has filed an application to have a matter relating to the resolution heard and determined under subpart 1 of Part 4, he or she must, by written notice to the appropriate decision-maker, withdraw that application before giving a notice of objection under this section.
 (6) A mortgagee or other person with a registered interest in, or caveat or notice of claim entered on the register over, all or part of a secured property is to be treated as having consented to a resolution if that mortgagee or other person does not object to the resolution or does not file an objection in time or made an objection but the appropriate decision-maker confirmed the resolution.
 
@@ -2076,15 +2076,15 @@ In respect of a contract entered into by a body corporate before the date on whi
     (i) was given under the Resource Management Act 1991 before the date on which this Act came into force; and
     (ii) as at the date on which the application is made, has not lapsed; or
   (b) an application is made under section 69 to deposit a new unit plan in substitution for an existing unit plan, and the unit title development to which the unit plan relates is an existing unit title development referred to in section 219.
-(2) Despite sections 7 and 32(2)(a)(ii),—
-  (a) if, before the date on which this Act came into force, the chief executive of a territorial authority gave a certificate under section 5(1)(g) of the Unit Titles Act 1972 in respect of the unit plan, that certificate may be accepted by the Registrar and a certificate under section 32(2)(a) of this Act is not required; and
-  (b) if, before the date on which this Act came into force, the chief executive of a territorial authority would have given a certificate under section 5(1)(g) of the Unit Titles Act 1972 in respect of the unit plan, an authorised officer of the territorial authority may give a certificate under section 32(2)(a) of this Act and that certificate may be accepted by the Registrar.
+(2) Despite sections 7 and 32(2)﻿(a)﻿(ii),—
+  (a) if, before the date on which this Act came into force, the chief executive of a territorial authority gave a certificate under section 5(1)﻿(g) of the Unit Titles Act 1972 in respect of the unit plan, that certificate may be accepted by the Registrar and a certificate under section 32(2)﻿(a) of this Act is not required; and
+  (b) if, before the date on which this Act came into force, the chief executive of a territorial authority would have given a certificate under section 5(1)﻿(g) of the Unit Titles Act 1972 in respect of the unit plan, an authorised officer of the territorial authority may give a certificate under section 32(2)﻿(a) of this Act and that certificate may be accepted by the Registrar.
 
 ### 231 Principal units consisting of open spaces: amendment to unit plan
 (1) This section applies if, on or after the date on which this Act came into force,—
   (a) an application is made under section 67 to deposit an amendment to a unit plan, and the unit title development to which the unit plan relates is an existing unit title development referred to in section 219; and
-  (b) any unit affected by the redevelopment to which the amendment to the unit plan relates was, before the redevelopment, a principal unit that would not have conformed to the description in section 7(1)(b)(i).
-(2) The amendment to the unit plan may be deposited even though the unit referred to in subsection (1)(b) will, after the redevelopment, still not conform to the description in section 7(1)(b)(i).
+  (b) any unit affected by the redevelopment to which the amendment to the unit plan relates was, before the redevelopment, a principal unit that would not have conformed to the description in section 7(1)﻿(b)﻿(i).
+(2) The amendment to the unit plan may be deposited even though the unit referred to in subsection (1)﻿(b) will, after the redevelopment, still not conform to the description in section 7(1)﻿(b)﻿(i).
 
 ### 232 Application of Interpretation Act 1999
 Except as provided in this subpart, nothing limits the application of the Interpretation Act 1999.
@@ -2108,7 +2108,7 @@ In addition to the powers and duties set out in section 84, the body corporate o
 ### 90 Who may call general meetings
 (1) An annual general meeting of a body corporate must be called by the chairperson in accordance with the regulations.
 (2) An extraordinary general meeting of a body corporate—
-  (a) must be called by the chairperson in accordance with the regulations if a notice asking for an extraordinary general meeting to consider and decide motions proposed in the notice is—
+  (a) must be called by the chairperson in accordance with the regulations if a notice asking for an extraordinary general meeting to consider and decide motions proposed in the notice is,—
     (i) in the case of—
       (A) a timeshare resort comprising both timeshare units and principal units that are not timeshare units, signed by or for not less than 20% of the timeshare owners and signed by or for the unit owners of not less than 20% of the non-timeshare units; or
       (B) a timeshare resort comprising timeshare units only, signed by or for the timeshare unit owners of not less than 20% of the timeshare units; and
