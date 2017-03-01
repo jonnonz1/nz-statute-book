@@ -1,5 +1,5 @@
 # Declaratory Judgments Act 1908
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-03-01_
 
 > An Act to enable the High Court to give declaratory judgments or orders
 
@@ -21,10 +21,10 @@ Any declaration so made on any such originating summons shall have the same effe
 The High Court or a Judge thereof may direct that any such originating summons shall be served on such persons as the said Court or Judge thinks fit, and such direction may be given at the time when the summons is issued or subsequently.
 
 ### 6 Summons to be subject to rules of Court
-Subject to the provisions of this Act and to any rules of Court hereafter made in accordance with the Judicature Act 1908, any such originating summons shall be subject to the rules of Court which are for the time being in force with respect to an originating summons taken out by trustees for the interpretation of a deed or instrument creating a trust.
+Subject to the provisions of this Act and to any rules of Court hereafter made in accordance with the Senior Courts Act 2016, any such originating summons shall be subject to the rules of Court which are for the time being in force with respect to an originating summons taken out by trustees for the interpretation of a deed or instrument creating a trust.
 
 ### 7 Removal of summons into Court of Appeal
-Any such originating summons may be removed into the Court of Appeal in the same manner as the matters specified in section 64 of the Judicature Act 1908 are removable, and the provisions of sections 64 and 65 of the said Act shall apply to any originating summons so removed accordingly.
+An originating summons under section 3 may be removed into the Court of Appeal in the same manner as the matters specified in section 59 of the Senior Courts Act 2016 are removable, and section 59 of that Act applies to any originating summons removed into the court.
 
 ### 8 Appeal to Court of Appeal
 An appeal shall lie to the Court of Appeal from any judgment or order given or made in pursuance of this Act, in the same manner as in the case of a final judgment of the High Court.
