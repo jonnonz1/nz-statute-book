@@ -1,7 +1,7 @@
 # Admiralty Act 1973
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
-> An Act to make provision with respect to the jurisdiction in admiralty of the High Court of New Zealand and of District Courts, and the jurisdiction in prize of the High Court
+> An Act to make provision with respect to the jurisdiction in admiralty of the High Court of New Zealand and of the District Court, and the jurisdiction in prize of the High Court
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Admiralty Act 1973.
@@ -23,9 +23,9 @@ In this Act, unless the context otherwise requires,—
 ### 3 Exercise of admiralty jurisdiction
 (1) The admiralty jurisdiction conferred by this Act—
   (a) may be exercised by the High Court in rem and in personam; and
-  (b) may be exercised by a District Court in personam where the debt, demand, or damage or the value of the chattels claimed is not more than the amount specified in section 29 of the District Courts Act 1947; and it is hereby declared that a District Court shall not, for the purposes of this Act, have jurisdiction in rem.
+  (b) may be exercised by the District Court in personam where the debt, demand, or damage or the value of the chattels claimed does not exceed the amount specified in section 74 of the District Court Act 2016, but the District Court does not, for the purposes of this Act, have jurisdiction in rem.
 (2) In exercising the jurisdiction conferred by this Act, the court may exercise at the same time any of its other civil jurisdiction, whether statutory or otherwise, and all powers incidental thereto.
-(3) Nothing in this Act shall derogate from any common law or equitable jurisdiction of the High Court or the District Courts.
+(3) Nothing in this Act derogates from any common law or equitable jurisdiction of the High Court or the District Court.
 
 ### 4 Extent of admiralty jurisdiction
 (1) The court shall have jurisdiction in respect of the following questions or claims:
@@ -91,8 +91,8 @@ Nothing in this Act shall be construed as limiting the jurisdiction of the court
 Subject to section 28 of the Crown Proceedings Act 1950, relating to the exclusion of actions in rem against the Crown, this Act shall bind the Crown.
 
 ### 11 Rules of procedure and regulations as to fees
-(1) Rules for the practice and procedure of the High Court in its admiralty jurisdiction may be made in the same manner as is provided in the Judicature Act 1908 for the making of rules for practice and procedure in the High Court.
-(2) Rules for the practice and procedure of the District Courts in their admiralty jurisdiction may be made by the Governor-General from time to time, by Order-in-Council, pursuant to section 122 of the District Courts Act 1947.
+(1) Rules for the practice and procedure of the High Court in its admiralty jurisdiction may be made in the same manner as is provided in the Senior Courts Act 2016 for the making of rules for practice and procedure in the High Court.
+(2) Rules for the practice and procedure of the District Court in its admiralty jurisdiction may be made by the Governor-General from time to time, by Order in Council, under section 228 of the District Court Act 2016.
 (3) Without derogating from the provisions of subsections (1) and (2), rules may be made pursuant to those subsections for consolidation of actions, the appointment of court experts, or the giving of bail or other security to prevent the arrest of a ship or other res, or to obtain the release of the same after arrest.
 (4) The Governor-General may from time to time, by Order in Council, prescribe all fees payable under this Act.
 
@@ -100,9 +100,9 @@ Subject to section 28 of the Crown Proceedings Act 1950, relating to the exclusi
 The court may, of its own motion or upon application, at any stage order that any proceedings be transferred from or to the court in its admiralty jurisdiction.
 
 ### 13 Appeals
-(1) A party to proceedings in a District Court in its admiralty jurisdiction may appeal to the High Court against any decision of the District Court.
-(1A) The High Court Rules 2016 and sections 73 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
-(2) The provisions of the Judicature Act 1908 relating to appeals to the Court of Appeal against a decision of the High Court of New Zealand shall apply with respect to a decision of the High Court of New Zealand in its admiralty jurisdiction.
+(1) A party to proceedings in the District Court in its admiralty jurisdiction may appeal to the High Court against any decision of the District Court.
+(1A) The High Court Rules 2016 and sections 125 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under this section as if it were an appeal under section 124 of that Act.
+(2) The provisions of the Senior Courts Act 2016 relating to appeals to the Court of Appeal against a decision of the High Court of New Zealand shall apply with respect to a decision of the High Court of New Zealand in its admiralty jurisdiction.
 (3)
 
 ### 14 Repeals and amendments
