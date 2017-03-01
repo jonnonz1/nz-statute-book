@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2015-06-06_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -402,6 +402,10 @@ Sections 24 and 25 do not affect the operation of the law relating to part perfo
 (3) Subsection (2) does not require the consideration for a contract of guarantee to be in writing or to appear by necessary implication from a writing.
 (4) In this section, contract of guarantee means a contract under which a person agrees to answer to another person for the debt, default, or liability of a third person.
 
+### 27A Writing required for discharge of debt by acceptance of part in satisfaction
+(1) An acknowledgement in writing by a creditor, or by any person authorised by the creditor in writing, of the receipt of a part of the creditor's debt in satisfaction of the whole debt operates as a discharge of the debt.
+(2) This section applies despite anything to the contrary in any rule of law.
+
 ### Subpart 3 — Sales and other similar transactions
 
 **Sale and purchase of land**
@@ -640,6 +644,23 @@ In this subpart, unless the context otherwise requires,—
 ### 53 Assignment of amounts payable in future
 An assignment of an amount that will or may be payable in the future under a right already possessed by the assignor (whether the right arises before, on, or after 1 January 2008) is to be treated as an assignment of a thing in action.
 
+### Subpart 5A — Assignment of securities and rights of creditor to surety who pays debt
+
+### 53A Interpretation
+In this subpart, debt and payment of a debt have the same meanings as in section 48.
+
+### 53B Surety who pays debt entitled to assignment of all securities held by creditor
+(1) Every person (person A) who pays the debt of another person (being surety for the debt or liable with another person for the debt) is entitled to have assigned to person A, or a trustee for person A, every judgment, specialty, or other security held by the creditor in respect of the debt.
+(2) Subsection (1) applies whether the judgment, specialty, or other security is or is not deemed at law to be satisfied by the payment of the debt.
+
+### 53C Rights of surety
+(1) Person A is entitled to stand in the place of the creditor, and to use all the remedies, and if need be, and upon a proper indemnity, to use the name of the creditor in any civil proceedings in order to obtain from the principal debtor or any co-surety, co-contractor, or co-debtor, as the case may be, indemnification for the advances made and loss sustained by person A in paying the debt.
+(2) The payment by person A may not be pleaded as a defence against any action or other proceeding by person A referred to in subsection (1).
+(3) In this section, person A means the person referred to as person A in section 53B.
+
+### 53D Rights of co-sureties, etc, as between themselves
+A co-surety, co-contractor, or co-debtor is not entitled to recover from any other co-surety, co-contractor, or co-debtor (person B) by the means referred to in section 53C more than the proportion to which, as between those parties themselves, person B is liable.
+
 ### Subpart 6 — Other transactions
 
 ### 54 Effect of no registration clause
@@ -794,6 +815,13 @@ The tort of permissive waste is abolished.
   (a) to exclude some or all of those objects:
   (b) to appoint shares of different sizes to 1 or more of them.
 (2) Subsection (1) applies subject to the terms of the instrument creating the power.
+
+### 74A Recovery of payments made under mistake of law
+(1) If relief in respect of any payment that has been made under mistake is sought in any court (whether in civil proceedings or by way of defence, set-off, counterclaim, or otherwise) and that relief could be granted if the mistake were wholly one of fact, that relief must not be denied by reason only that the mistake is one of law, whether or not it is in any degree also one of fact.
+(2) Nothing in this section enables relief to be given in respect of any payment made at a time when the law required, or allowed, or was commonly understood to require or allow, the payment to be made or enforced, by reason only that the law was subsequently changed or shown not to have been as it was commonly understood to have been at the time of the payment.
+
+### 74B Payments made under mistake of law or fact not always recoverable
+Relief, whether under section 74A or in equity or otherwise, in respect of any payment made under mistake, whether of law or of fact, must be denied wholly or in part if the person from whom relief is sought received the payment in good faith and has so altered his or her position in reliance on the validity of the payment that in the opinion of the court, having regard to all possible implications in respect of other persons, it is inequitable to grant relief, or to grant relief in full, as the case may be.
 
 ## Part 3 — Mortgages
 
@@ -3473,19 +3501,19 @@ A notice, cross-notice, or other document is received by a person for the purpos
   (a) the last of the persons concerned; or
   (b) the last member of the relevant class or classes.
 
-**District Courts’ jurisdiction, regulations, consequential amendments, repeals, etc, and savings and transitional provisions**
+**District Court's jurisdiction, regulations, consequential amendments, repeals, etc, and savings and transitional provisions**
 
-### 362 Jurisdiction of District Courts
-(1) Every District Court has jurisdiction to hear and determine the following matters, or to make the following orders:
+### 362 Jurisdiction of District Court
+(1) The District Court has jurisdiction to hear and determine the following matters, or to make the following orders:
   (a) a question or dispute concerning the existence or effect of an easement or a covenant, so far as it can be resolved by the making of an order under section 313:
   (b) an order under section 317 modifying or extinguishing an easement or covenant:
   (c) an order under section 320 authorising entry onto or over neighbouring land:
-  (d) an order under section 323 granting relief in respect of a wrongly placed structure situated on a single piece, or on 2 or more pieces, of land, if the value of that single piece, or of one of those 2 or more pieces, of land (excluding the value of the wrongly placed structure) does not exceed the amount to which the jurisdiction of District Courts is limited by section 31 of the District Courts Act 1947:
+  (d) an order under section 323 granting relief in respect of a wrongly placed structure situated on a single piece, or on 2 or more pieces, of land, if the value of that single piece, or of one of those 2 or more pieces, of land (excluding the value of the wrongly placed structure) does not exceed the amount to which the jurisdiction of the District Court is limited by section 79 of the District Court Act 2016:
   (e) an order under section 333 for the removal or trimming of a tree or the removal or alteration of a structure:
   (f) an order under section 357 dispensing with, or directing the manner of, service.
-(2) This section applies despite anything to the contrary in the District Courts Act 1947.
-(3) The District Courts Act 1947 applies to the jurisdiction of District Courts under this section as if that jurisdiction had been conferred by that Act.
-(4) This section does not affect any jurisdiction that a District Court has, otherwise than under this section, to exercise a power conferred on a court by this Act.
+(2) This section applies despite anything to the contrary in the District Court Act 2016.
+(3) The District Court Act 2016 applies to the jurisdiction of the District Court under this section as if that jurisdiction had been conferred by that Act.
+(4) This section does not affect any jurisdiction that the District Court has, otherwise than under this section, to exercise a power conferred on a court by this Act.
 
 ### 363 Regulations
 The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
