@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -2440,7 +2440,7 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
 **Injunctions**
 
 ### 162 Injunctions restraining commission of offences and breaches of bylaws
-(1) A District Court may, on the application of a local authority, grant an injunction restraining a person from committing a breach of a bylaw or an offence against this Act.
+(1) The District Court may, on the application of a local authority, grant an injunction restraining a person from committing a breach of a bylaw or an offence against this Act.
 (2) An injunction may be granted under subsection (1)—
   (a) despite anything in any other enactment:
   (b) whether or not proceedings in relation to the breach or offence have been commenced:
@@ -2497,7 +2497,7 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
 (2) The local authority must return the property if—
   (a) the property is not likely to be involved in an offence for which it was seized; and
   (b) the owner or person has paid, or tenders with the request payment of, the costs of the local authority in seizing, impounding, transporting, and storing the property.
-(3) If the local authority refuses to return the property, the owner or person from whom it was seized may apply to a District Court to review the local authority's decision.
+(3) If the local authority refuses to return the property, the owner or person from whom it was seized may apply to the District Court to review the local authority's decision.
 (4) The District Court may—
   (a) confirm the local authority's decision; or
   (b) order that the property be returned.
@@ -2677,7 +2677,7 @@ If an enforcement officer believes on reasonable grounds that a person is commit
   (b) the Chief Fire Officer of the New Zealand Fire Service; or
   (c) if the land is in a rural fire district under the Forest and Rural Fires Act 1977, a rural fire officer.
 (2) A resident of the district may, by notice in writing to a territorial authority, request the territorial authority to issue a notice under this section.
-(3) If the territorial authority has not, within 1 month after the notice, complied with the request, the resident may apply to a District Court for an order requiring the territorial authority to comply with the request.
+(3) If the territorial authority has not, within 1 month after the notice, complied with the request, the resident may apply to the District Court for an order requiring the territorial authority to comply with the request.
 (4) On hearing the application, the court may order that the territorial authority comply with the request or cancel the request.
 (5) A territorial authority may, after oral notice from an authorised officer of the territorial authority to the occupier or (if there is no occupier) the owner, eradicate or remove growth or remove or destroy matter on land in its district if the growth or matter is an imminent danger to life, property, or any road.
 (6) The cost of work done under subsection (5) is a charge on the land.
@@ -2691,11 +2691,11 @@ If an enforcement officer believes on reasonable grounds that a person is commit
 
 ### 184 Rights and obligations if notice given under section 183(1)
 (1) This section applies if a notice is given under section 183(1).
-(2) The owner or occupier may, within 10 days after service of the notice, apply to a District Court for an order cancelling the notice.
+(2) The owner or occupier may, within 10 days after service of the notice, apply to the District Court for an order cancelling the notice.
 (3) On hearing the application, the District Court may confirm the notice or cancel the notice.
 (4) An owner or occupier, as the case may be, must comply with a notice within 1 month after—
   (a) the notice is served on the owner or occupier; or
-  (b) if the owner or occupier applies to a District Court under subsection (2), the court confirms the order.
+  (b) if the owner or occupier applies to the District Court under subsection (2), the court confirms the order.
 (5) If the owner or occupier fails to comply with subsection (4), the territorial authority may enter the land and do the thing or things required by the notice.
 (6) The territorial authority may recover from the owner or occupier the cost of anything done under subsection (5).
 (7) The costs are a charge on the land.
@@ -3204,7 +3204,7 @@ In sections 215 to 221 and Schedule 14, unless the context otherwise requires,�
   - **alter** , in relation to a fence, structure, or vegetation, includes the removal of all or part of the fence, structure, or vegetation if that removal is associated with its rebuilding or re-erection or replanting in a form specified in the removal order
   - **applicant** means a territorial authority or constable who applies for a removal order under section 215
   - **controlled drug** has the meaning given to it by section 2(1) of the Misuse of Drugs Act 1975
-  - **court** means a District Court; and includes a District Court Judge
+  - **court** means the District Court; and includes a District Court Judge
   - **crime involving dishonesty** has the meaning given to it by section 2(1) of the Crimes Act 1961
   - **plan** has the meaning given to it by section 2(1) of the Resource Management Act 1991
   - **proceeds** means property that is derived or realised, directly or indirectly, by a person from the commission of a serious offence
@@ -3223,16 +3223,16 @@ In sections 215 to 221 and Schedule 14, unless the context otherwise requires,�
 
 **Application of rules of court**
 
-### 213 Application of District Courts Rules to removal orders
-(1) Despite section 247, an application made under section 215 must be made in accordance with Part 8 of the District Courts Rules 2009 and any rules made under subsection (2) or section 214.
-(2) In addition to all the powers conferred by the District Courts Act 1947, the Governor-General may, from time to time, by Order in Council, make rules under that Act—
+### 213 Application of District Court Rules to removal orders
+(1) Despite section 247, an application made under section 215 must be made in accordance with Subpart 4 of Part 20 of the District Court Rules 2014 and any rules made under subsection (2) or section 214.
+(2) In addition to all the powers conferred by the District Court Act 2016, the Governor-General may, from time to time, by Order in Council, make rules under that Act—
   (a) regulating the practice and procedure of the District Court in proceedings relating to an application for a removal order; and
   (b) providing for the matters contemplated by, or necessary for giving full effect to, sections 215 to 221 and Schedule 14.
-(3) Rules made under the District Courts Act 1947 in accordance with this section are part of the District Courts Rules 2009.
-(4) In the absence of rules made under the District Courts Act 1947 in accordance with this section, or in a situation not covered by such rules, the District Courts Rules 2009 apply, with all necessary modifications, to proceedings relating to sections 215 to 221.
+(3) Rules made under the District Court Act 2016 in accordance with this section are part of the District Court Rules 2014.
+(4) In the absence of rules made under the District Court Act 2016 in accordance with this section, or in a situation not covered by such rules, the District Court Rules 2014 apply, with all necessary modifications, to proceedings relating to sections 215 to 221.
 
 ### 214 Scope of rules made under section 213
-Without limiting section 213(2), rules made in accordance with that subsection under the District Courts Act 1947 may—
+Without limiting section 213(2), rules made in accordance with that subsection under the District Court Act 2016 may—
   (a) prescribe the procedure for serving a removal order, notice, and other documents for the purposes of sections 215 to 221 and Schedule 14 (including, without limitation, the circumstances in which service may be effected by leaving a copy of the order, notice, or document at the property to which the order relates):
   (b) provide for substituted service, and for service to be dispensed with, in the circumstances that are specified in the rules:
   (c) prescribe the circumstances and, if applicable, the manner in which persons entitled to object to a removal order may be served with a copy of notices of objection or other notices or documents in the proceedings:
@@ -3243,12 +3243,12 @@ Without limiting section 213(2), rules made in accordance with that subsection u
     (iii) if an order made under the rules is not complied with; or
     (iv) unless an order made under the rules is complied with:
   (f) prescribe the forms necessary for the purposes of sections 215 to 221 and Schedule 14:
-  (g) apply, with or without modification, provisions of the District Courts Rules 2009.
+  (g) apply, with or without modification, provisions of the District Court Rules 2014.
 
 **Application for removal order**
 
 ### 215 Application for removal order
-(1) A territorial authority or constable may, without notice, apply to a District Court in the form prescribed in Part 8 of the District Courts Rules 2009 for a removal order requiring an owner or occupier of any property to remove or alter a fence, structure (whether or not forming part of a dwellinghouse or other building), or vegetation.
+(1) A territorial authority or constable may, without notice, apply to the District Court in the form prescribed in Subpart 4 of Part 20 of the District Court Rules 2014 for a removal order requiring an owner or occupier of any property to remove or alter a fence, structure (whether or not forming part of a dwellinghouse or other building), or vegetation.
 (2) Schedule 14 applies to applications made under this section.
 
 **Making of removal orders**
@@ -3280,7 +3280,7 @@ The District Court may make a removal order if—
 **Right of appeal**
 
 ### 219 Appeal to High Court final
-If a party to proceedings under this subpart appeals to the High Court under Part 5 of the District Courts Act 1947, the decision of the High Court on that appeal is final.
+If a party to proceedings under this subpart appeals to the High Court under Part 9 of the District Court Act 2016, the decision of the High Court on that appeal is final.
 
 **Compliance with removal order**
 
@@ -3428,7 +3428,7 @@ Every person who fails to comply with a notice referred to in section 184(1) com
 **Miscellaneous offences**
 
 ### 233 Offence relating to advertising
-Every person who wilfully contravenes clause 58 of Schedule 3 (which relates to the authorisation of advertising) commits an offence and is liable on conviction to the penalty specified in section 242(2).
+Every person who wilfully contravenes clause 32 of Schedule 3 (which relates to the authorisation of advertising) commits an offence and is liable on conviction to the penalty specified in section 242(2).
 
 ### 234 Unauthorised use of coat of arms
 Every person commits an offence and is liable on conviction to the penalty specified in section 242(2) who, without prior written authority of the relevant local authority,—
@@ -3582,7 +3582,7 @@ An application and appeal to the District Court under this Act must be made in a
   (a) under the Local Government (Rating) Act 2002:
   (b) under any enactment in relation to bankrupts:
   (c) in all proceedings—
-    (i) in a District Court; or
+    (i) in the District Court; or
     (ii) before any Justice or Community Magistrate.
 (2) In the proceedings referred to in subsection (1), the local authority may be represented by the following persons acting on behalf of the local authority:
   (a) a member of the local authority appointed for the purpose by resolution of the local authority; or
@@ -5762,11 +5762,11 @@ In deciding whether or not to constitute a community, the territorial authority 
 (3) A person may not do an act as a member while disqualified under subclause (1) or while on leave of absence under subclause (2).
 
 ### 2 Ouster of office of member
-(1) On proof by affidavit that a member of a local authority is, or has become, or was at the date of appointment or election, incapable of holding office under this Act, a District Court may call on that person to show cause why he or she should not be adjudged to be ousted from office.
-(2) If a District Court concludes that the member is or was incapable of holding office, the court may adjudge that person to be ousted from office and that member is ousted from office accordingly.
+(1) On proof by affidavit that a member of a local authority is, or has become, or was at the date of appointment or election, incapable of holding office under this Act, the District Court may call on that person to show cause why he or she should not be adjudged to be ousted from office.
+(2) If the District Court concludes that the member is or was incapable of holding office, the court may adjudge that person to be ousted from office and that member is ousted from office accordingly.
 (3) In proceedings under this clause, the District Court may exercise all the powers and authorities that it may exercise in its ordinary jurisdiction in civil cases, and the procedure of the court applies generally, so far as practicable.
-(4) No matter in relation to a disputed appointment or election is to be heard by a District Court under this clause.
-(5) If a District Court adjudges that a member be ousted from his or her office,—
+(4) No matter in relation to a disputed appointment or election is to be heard by the District Court under this clause.
+(5) If the District Court adjudges that a member be ousted from his or her office,—
   (a) the decision is not to take effect—
     (i) until the expiration of the time for appealing against the decision; or
     (ii) if there is an appeal against the decision, until the appeal is determined; and
@@ -6823,7 +6823,7 @@ For the purposes of section 181(3)﻿(b), the requirements are as follows:
   (ii) to proceed with the works proposed, with or without any alterations that the territorial authority thinks fit.
 
 ### 2
-A person who is aggrieved by a determination of the territorial authority under clause 1(e) to proceed with the works proposed (with or without alterations) may appeal to a District Court against the determination within 14 days after the date of the determination.
+A person who is aggrieved by a determination of the territorial authority under clause 1(e) to proceed with the works proposed (with or without alterations) may appeal to the District Court against the determination within 14 days after the date of the determination.
 
 ### 3
 Pending the decision of the court on the appeal, the territorial authority must not proceed with the works.
@@ -6849,7 +6849,7 @@ For the purpose of determining in accordance with section 203(2) the maximum dev
 
 ### Part 1 — General provisions
 
-### 1 Lodgment of objection
+### 1 Lodgement of objection
 (1) A person exercises the right under section 199C to lodge a development contribution objection by serving notice of the objection on the territorial authority within 15 working days after the date on which the person received notice from the territorial authority of the level of development contribution that the territorial authority requires.
 (2) However, if a person has received notice of the outcome of a reconsideration under section 199B, the 15-working-day period in subclause (1) begins on the day after the date on which the person receives the notice of the outcome.
 (3) The notice of objection under subclause (1) must—
@@ -6935,7 +6935,7 @@ A hearing on an objection need not be held if—
 ### Part 2 — Provisions supplementing section 199I
 
 ### 11 Development contributions commissioners' powers
-(1) The commissioners conducting a hearing on an objection have the same powers that a District Court, in the exercise of its civil jurisdiction, has to conduct and maintain order.
+(1) The commissioners conducting a hearing on an objection have the same powers that the District Court, in the exercise of its civil jurisdiction, has to conduct and maintain order.
 (2) Sections 29 to 31 of the Inquiries Act 2013 apply to the hearing of an objection as if the hearing was an inquiry within the meaning of section 4 of that Act.
 
 ### 12 Power to summon witness
@@ -6994,7 +6994,7 @@ If a removal order is made under section 216, the Judge may, on application or o
 
 ### 3 Basis for removal order taking effect
 A removal order does not take effect unless—
-  (a) a copy of the order is served in accordance with Part 8 of the District Courts Rules 2009 or in accordance with any directions given under clause 2 on—
+  (a) a copy of the order is served in accordance with subpart 4 of Part 20 of the District Court Rules 2014 or in accordance with any directions given under clause 2 on—
     (i) the respondent; and
     (ii) if the respondent is not the owner of the property to which the order relates, the owner of the property; and
     (iii) any mortgagee of the property to which the order relates; and
@@ -7020,12 +7020,12 @@ A removal order may be made under section 216 even if the fence, structure, or v
 (3) The method of proving a previous conviction authorised by subclause (2) is in addition to, and not to the exclusion of, any other method of proof authorised by another enactment or rule of law.
 
 ### 6 Form of removal order
-(1) Subject to subclause (2), a removal order must be in the form prescribed in Part 8 of the District Courts Rules 2009.
+(1) Subject to subclause (2), a removal order must be in the form prescribed in subpart 4 of Part 20 of the District Court Rules 2014.
 (2) If an objection is lodged under section 217(1) and the removal order is subsequently confirmed with or without variation, the Registrar must, without delay, issue a copy of the confirmed order with the date specified by the court in accordance with clause 8(2) as the date by which compliance is required.
 
 ### 7 Notice of objection to removal order
 (1) A notice of objection under section 217(1) must—
-  (a) be in the form prescribed in Part 8 of the District Courts Rules 2009; and
+  (a) be in the form prescribed in subpart 4 of Part 20 of the District Court Rules 2014; and
   (b) be lodged with the court and served on the applicant and, if the objector is not the respondent, the respondent, within 15 working days from the date on which the removal order was served on the objector, or within any further time that the court allows.
 (2) Subject to subclause (4), the Registrar must assign a date for an oral hearing of any objection as soon as practicable if the respondent or, if the respondent is not the owner of the property to which the order relates, the owner of the property—
   (a) objects to the making of the order; and
