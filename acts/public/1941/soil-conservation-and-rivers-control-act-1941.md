@@ -1,5 +1,5 @@
 # Soil Conservation and Rivers Control Act 1941
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to make provision for the conservation of soil resources and for the prevention of damage by erosion, and to make better provision with respect to the protection of property from damage by floods
 
@@ -421,7 +421,7 @@ The following persons shall not be capable of being elected or appointed as a me
 **Ouster of office**
 
 ### 57 Ouster of office
-(1) Upon proof in the first instance by affidavit or otherwise that any member of the Board is or has become incapable under this Act or any other Act of holding his office, any District Court in the district, or, if there is no such court, then the District Court nearest to the public office of the Board, may grant a summons calling upon the person holding such office to show cause why he should not be adjudged to be ousted of the same.
+(1) Upon proof in the first instance by affidavit or otherwise that any member of the Board is or has become incapable under this Act or any other Act of holding his office, any office of the District Court in the district, or, if there is no such court, then the office of the District Court nearest to the public office of the Board, may grant a summons calling upon the person holding such office to show cause why he should not be adjudged to be ousted of the same.
 (2) If on the return of the summons it appears to the court, on affidavit or oral evidence on oath, that the person is incapable under this Act or under any other Act of holding the said office, the court may adjudge him to be ousted of the same, and he shall be ousted of such office accordingly.
 (3) In any proceedings under this section the District Court may exercise all the powers and authorities which it may exercise in its ordinary jurisdiction in civil cases; and the procedure of the court shall, so far as applicable, apply generally to proceedings under this section.
 (4) No matter in relation to a disputed election shall be heard by the District Court under this section.
@@ -957,7 +957,7 @@ Section 25 of the Criminal Procedure Act 2011 shall not apply with respect to an
 No Judge, District Court Judge, Justice, or Community Magistrate shall be deemed to be interested in any case in which he is acting judicially solely on the ground that he is liable to be rated within any district or is a resident within the district.
 
 ### 159 Representation of Boards in proceedings in District Court, etc
-In all proceedings in which any Board is concerned under any Act relating to bankruptcy, and in all proceedings in a District Court or before any Justice or Community Magistrate, the Secretary, or any other person from time to time appointed by the Board for the purpose, may appear and act on behalf of the Board.
+In all proceedings in which any Board is concerned under any Act relating to bankruptcy, and in all proceedings in the District Court or before any Justice or Community Magistrate, the Secretary, or any other person from time to time appointed by the Board for the purpose, may appear and act on behalf of the Board.
 
 ### 160 Valuation roll to be evidence of ownership
 In the course of any legal proceedings instituted for enforcing any provision of this Act, or of any regulation or bylaw made under this Act, the production of the valuation roll for the time being in force in the district of any local authority shall be evidence that any person named and described in that valuation roll as the owner of any property was at the time of the making of the valuation roll, and thenceforth has continued to be, and still is, the owner of the same property, unless the contrary is proved.
