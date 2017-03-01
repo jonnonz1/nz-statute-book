@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -816,29 +816,29 @@ Following a vehicle inspection of a RUC vehicle, the vehicle inspector must repo
 ### Subpart 2 — Appeal against review of assessment
 
 ### 68 Appeal to District Court against notice issued under section 55(5)﻿(a)
-(1) A person may appeal to a District Court against a notice issued by the RUC collector under section 55(5)﻿(a) that confirms or reduces an assessment of unpaid road user charges.
+(1) A person may appeal to the District Court against a notice issued by the RUC collector under section 55(5)﻿(a) that confirms or reduces an assessment of unpaid road user charges.
 (2) If an appeal is made under subsection (1), the District Court must determine whether the notice issued by the RUC collector is appropriate.
 
 ### 69 Procedure for appeal
 (1) An appeal under section 68 must be brought no later than 28 days after the date on which the appellant was notified under this Act of the review decision appealed against.
 (2) In considering an appeal,—
-  (a) a District Court may hear all evidence tendered and representations made by, or on behalf of, any party to the appeal that the Court considers relevant to the appeal, whether or not that evidence would be otherwise admissible in the Court; and
+  (a) the District Court may hear all evidence tendered and representations made by, or on behalf of, any party to the appeal that the Court considers relevant to the appeal, whether or not that evidence would be otherwise admissible in the Court; and
   (b) the Court may—
     (i) confirm, reverse, or modify the decision appealed against, and make the orders and give the directions to the RUC collector that may be necessary to give effect to the court’s decision; or
     (ii) refer the matter back to the RUC collector with directions to reconsider the whole or any part of the matter.
-(3) Except as provided in this section, the appeal must be made and determined in accordance with the District Courts Act 1947 and the District Courts Rules 2009.
+(3) Except as provided in this section, the appeal must be made and determined in accordance with the District Court Act 2016 and the District Court Rules 2014.
 (4) Subject to sections 70 and 71, the decision of the District Court on an appeal under section 68 is final.
 
 **Further appeals**
 
 ### 70 Appeal to High Court on question of law
 (1) A party to an appeal under section 68 who is dissatisfied with the decision of the District Court on the ground that it is wrong in law may appeal to the High Court on that question of law.
-(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
 
 ### 71 Further appeals to Court of Appeal or Supreme Court
 (1) With the leave of the court appealed to, a party to an appeal under section 70 may appeal to the Court of Appeal or the Supreme Court against any decision of the High Court in the appeal.
 (2) On an appeal under this section, the Court of Appeal or the Supreme Court has the same power to adjudicate on the proceedings as the High Court had.
-(3) Subsection (1) is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
+(3) Subsection (1) is subject to section 75 of the Senior Courts Act 2016 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
 
 ### 72 Notice issued under section 55(5)﻿(a) to continue in force pending appeal
 A notice issued by the RUC collector under section 55(5)﻿(a) confirming or reducing an amount of unpaid road user charges continues in force pending the determination of the appeal under section 68, 70, or 71, and no person is excused from complying with a provision of this Act on the grounds that an appeal is pending.
