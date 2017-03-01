@@ -1,5 +1,5 @@
 # Adoption (Intercountry) Act 1997
-_Consolidation as at 2010-09-08_
+_Consolidation as at 2017-03-01_
 
 > An Act—ato implement in the law of New Zealand the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption; andbto provide for the approval of organisations as accredited bodies to whom functions may be delegated under the Convention; andcto make other provision for intercountry adoption and other matters related to adoption
 
@@ -124,16 +124,16 @@ The chief executive must not decline an application made under section 16 withou
 (5) Where the accreditation of any organisation is suspended or revoked under this section, the New Zealand Central Authority must ensure, in relation to any ongoing adoption, that the functions that were delegated to the organisation under the Convention at the time of suspension or revocation are carried out.
 
 ### 20 Appeals
-(1) Any person who is dissatisfied with—may appeal to a District Court against the decision.
+(1) Any person who is dissatisfied with—may appeal to the District Court against the decision.
   (a) any decision of the chief executive to decline an application by that person for approval as a New Zealand accredited body; or
   (b) any decision of the chief executive to revoke or suspend that person’s approval as a New Zealand accredited body,—
-(2) An appeal under this section must be brought within 28 days after notice of the decision was communicated to the appellant, or within such further time as a District Court may allow on application made before or after the expiration of that period.
+(2) An appeal under this section must be brought within 28 days after notice of the decision was communicated to the appellant, or within such further time as the District Court may allow on application made before or after the expiration of that period.
 (3) Every appeal under this section must be heard as soon as practicable after the appeal is lodged.
 (4) Where, before an appeal against a decision to suspend a person’s approval as a New Zealand accredited body has been dealt with, the approval is revoked, the court may treat the appeal as an appeal against the decision to revoke the approval.
 (5) On the hearing of an appeal under this section the District Court may confirm, reverse, or modify the decision of the chief executive, or may give any decision that the chief executive could have given or made in respect of the matter.
-(6) Nothing in this section gives a District Court power to review any part of the decision of the chief executive other than the part against which the appellant has appealed.
+(6) Nothing in this section gives the District Court power to review any part of the decision of the chief executive other than the part against which the appellant has appealed.
 (7) Subject to any order of the court, every decision appealed against under this section continues in force and has effect according to its tenor pending the determination of the appeal.
-(8) The decision of a District Court on any appeal under this section is final
+(8) The decision of the District Court on any appeal under this section is final
 
 ### 21 Accredited bodies to report annually
 (1) Every New Zealand accredited body must report annually to the chief executive on the exercise of its functions delegated under the Convention during the year.
@@ -154,7 +154,7 @@ The chief executive must not decline an application made under section 16 withou
   (c) communicate with any person to whom the organisation is providing a service, or has provided a service, in relation to functions delegated to the organisation under the Convention; and
   (d) communicate with any other person who may be able to provide relevant information.
 (5) Every employee of the department who carries out an assessment under this section must give reasonable notice of that person’s intention to interview the principal officer or other officer or employee of an organisation, or to examine any documents or records held by the organisation.
-(6) The provisions of section 16(2) to (4) apply to any review under subsection (1)(b) as if it were an application.
+(6) The provisions of section 16(2) to (4) apply to any review under subsection (1)﻿(b) as if it were an application.
 
 ### 23 Change of principal officer to be notified
 Every New Zealand accredited body must, within 10 working days, notify the chief executive in writing of any change in the person acting as its principal officer for the purposes of this Act.
