@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > Title
 
@@ -26,7 +26,7 @@ _Consolidation as at 2016-10-18_
       (v) a disability allowance payable under section 69C of that Act
   - **constable** has the meaning given in section 4 of the Policing Act 2008
   - **conviction** includes an order; and has a corresponding meaning
-  - **court** means a District Court constituted under the District Courts Act 1947
+  - **court** means the District Court constituted under the District Court Act 2016
   - **Crown organisation** has the same meaning as in section 4 of the Crown Organisations (Criminal Liability) Act 2002
   - **defendant** means any person charged with an offence; and includes—
     (a) in relation to an infringement offence for which an infringement notice has been issued, any person served with a reminder notice in respect of the offence, or any person who gives notice requesting a hearing in respect of the offence, pursuant to section 21; and
@@ -947,7 +947,7 @@ The Crown is not liable to any person for any error, omission, or delay in apply
 
 ### 87A Publication of name of fine defaulter
 (1) This section applies if—
-  (a) a defendant has been ordered by a court (other than a Youth Court) to pay any fine; and
+  (a) a defendant has been ordered by a court (other than the Youth Court) to pay any fine; and
   (b) the defendant has not made any payment in respect of the fine for at least 3 months before the date on which the Registrar proposes to arrange the publication of a notice under subsection (2) relating to the defendant; and
   (c) the defendant owes not less than $500 in 1 or more unpaid fines; and
   (d) either the fine is not subject to any arrangement under section 81(1)﻿(a) or 86 or 86C allowing payment of the fine over a specified period or the fine is subject to such an arrangement but the defendant is not for the time being observing the terms of the arrangement; and
@@ -1123,9 +1123,9 @@ If a defendant is arrested under a warrant for arrest issued for the purpose of 
 ### 88A Civil enforcement of fines
 (1) If, under section 88AE(1)﻿(g), a District Court Judge gives a direction in relation to 1 or more fines, the District Court is deemed to have made, in its civil jurisdiction, an order that the defendant pay the Registrar the total amount of that fine or those fines.
 (2) The order deemed to have been made under subsection (1) may be enforced as if that order were a final order for the payment of money and as if the Registrar were the relevant judgment creditor.
-(3) The Registrar may take steps, under section 66 of the District Courts Act 1947, to have the order deemed to have been made under subsection (1) removed into the High Court.
+(3) The Registrar may take steps, under section 120 of the District Court Act 2016, to have the order deemed to have been made under subsection (1) removed into the High Court.
 (4) Action to enforce the order deemed to have been made under subsection (1) must be taken—
-  (a) under the District Courts Act 1947 and the District Courts Rules 2009 unless that order is removed into the High Court; or
+  (a) under the District Court Act 2016 and the District Court Rules 2014 unless that order is removed into the High Court; or
   (b) under the High Court Rules 2016 if that order is removed into the High Court.
 
 ### 88B Remission of fine
@@ -1744,8 +1744,8 @@ Every employer commits an offence and is liable on conviction to a fine not exce
 ### 106C Statement of salary or wages paid
 For the purpose of determining the means of any defendant for the purposes of this Part, a statutory declaration given by or on behalf of any person stating that the person paid a stated amount of salary or wages to the defendant or in respect of a stated period as the defendant's employer shall, in the absence of evidence to the contrary, be sufficient evidence of the facts stated in the declaration.
 
-### 106D Transfer of enforcement to another District Court
-If a fine has been ordered to be paid or an order has been made by a court or the Registrar of that court under this Part, that fine or order (as the case may be) is enforceable in another District Court.
+### 106D Transfer of enforcement to another office of District Court
+If a fine has been ordered to be paid or an order has been made by a court or the Registrar of that court under this Part, that fine or order (as the case may be) is enforceable in another office of the District Court.
 
 ### 106E Restrictions on substituted sentences
 (1) A District Court Judge or Community Magistrate must not impose a substituted sentence on a defendant for non-payment of 1 or more fines under this Part unless—
@@ -2407,7 +2407,7 @@ Section 184 of the Criminal Procedure Act 2011 applies in respect of any matter 
 [Repealed]
 
 ### 204 Proceedings not to be questioned for want of form
-No summons, sentence, order, bond, warrant, or other document under this Act, and no process or proceeding under this Act shall be quashed, set aside, or held invalid by any District Court or by any other court by reason only of any defect, irregularity, omission, or want of form unless the court is satisfied that there has been a miscarriage of justice.
+No summons, sentence, order, bond, warrant, or other document under this Act, and no process or proceeding under this Act shall be quashed, set aside, or held invalid by the District Court or by any other court by reason only of any defect, irregularity, omission, or want of form unless the court is satisfied that there has been a miscarriage of justice.
 
 ### 205 Proceedings not invalid because defendant should have been dealt with in Youth Court
 [Repealed]
