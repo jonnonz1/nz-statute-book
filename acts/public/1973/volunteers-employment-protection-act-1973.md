@@ -1,5 +1,5 @@
 # Volunteers Employment Protection Act 1973
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to make provision for the protection of the employment of volunteers to Her Majesty's Armed Forces
 
@@ -89,7 +89,7 @@ Where an employee resumes service with the same employer at the end of a period 
     (ii) subject to section 7B, as service for the purpose of any superannuation scheme to which the employee belongs in the employee's capacity as an employee of the employer.
 
 ### 7B Contributions to superannuation schemes
-Nothing in section 7A(b)(ii)—
+Nothing in section 7A(b)﻿(ii)—
   (a) entitles an employee to have any period counted as service for the purposes of a superannuation scheme if the employee is required to pay contributions in respect of that period and has not done so; or
   (b) relieves an employee from any obligation under a superannuation scheme to pay contributions in respect of any period during which the employee is on leave under this Part.
 
@@ -154,8 +154,8 @@ Leave under this Part begins—
   (b) contain either—
     (i) a statement of the duration of the leave; or
     (ii) if the duration of the leave is not then known to the employee, a statement to the effect that the employee does not know the duration of the leave but will, as soon as practicable after the duration of the leave becomes known to the employee, give to the employer written notice of the duration of the leave.
-(4) If a notice under subsection (1) contains a statement complying with subsection (3)(b)(ii), the employee must, as soon as practicable after the duration of the leave becomes known to the employee, give to the employee's employer written notice of the duration of the leave.
-(5) If, after an employee has given to the employee's employer a statement complying with subsection (3)(b)(i) or subsection (4), the duration of the employee's leave is extended (other than with the consent of the employee's employer), the employee must give to the employee's employer, as soon as practicable, written notice of the extension of the duration of the leave.
+(4) If a notice under subsection (1) contains a statement complying with subsection (3)﻿(b)﻿(ii), the employee must, as soon as practicable after the duration of the leave becomes known to the employee, give to the employee's employer written notice of the duration of the leave.
+(5) If, after an employee has given to the employee's employer a statement complying with subsection (3)﻿(b)﻿(i) or subsection (4), the duration of the employee's leave is extended (other than with the consent of the employee's employer), the employee must give to the employee's employer, as soon as practicable, written notice of the extension of the duration of the leave.
 
 ### 14E Obligation to notify employee
 (1) Every employer who receives a notice under section 14D(1) that states that the employee wishes to take leave under this Part must, within 21 days after receipt of the notice, give to the employee who gave that notice a written notice in the prescribed form—
@@ -175,12 +175,12 @@ Within 21 days after the beginning of an employee's leave under this Part, the e
   (a) either—
     (i) where the employer is able to keep the employee's position open until the end of the employee's leave under this Part, that, if the employee decides to return to work at the end of the employee's leave under this Part, the employee will be required to return to work, on the next working day after the date on which the employee's leave under this Part ends; or
     (ii) in any other case, that, for the period of 26 weeks beginning with the day on which the leave under this Part ends, the employer will give the employee preference over other applicants for any position which is vacant and which is substantially similar to the position held by the employee at the beginning of the employee's leave under this Part; and
-  (b) where paragraph (a)(i) applies,—
+  (b) where paragraph (a)﻿(i) applies,—
     (i) the employee's obligations under section 14N; and
-    (ii) the employee's rights under section 14T(1)(a) and the employee's obligations under section 14T(2)(a); and
+    (ii) the employee's rights under section 14T(1)﻿(a) and the employee's obligations under section 14T(2)﻿(a); and
     (iii) the employee's rights under section 14U; and
-  (c) where paragraph (a)(ii) applies,—
-    (i) the employee's rights under section 14T(1)(b) and the employee's obligations under section 14T(2)(b); and
+  (c) where paragraph (a)﻿(ii) applies,—
+    (i) the employee's rights under section 14T(1)﻿(b) and the employee's obligations under section 14T(2)﻿(b); and
     (ii) the employee's rights under section 14U.
 
 ## Part 3 — Service in situation of national interest
@@ -226,12 +226,12 @@ Within 21 days after the beginning of an employee's leave under this Part, the e
   (b) either,—
     (i) where the employer is able to keep the employee's position open until the end of the employee's leave under this Part, the date on which, if the employee decides to return to work at the end of the employee's leave under this Part, the employee will be required to return to work, being the date of the next working day after the date on which the employee's leave under this Part ends; or
     (ii) in any other case, the period of 26 weeks during which the employer will give the employee preference over other applicants for any position which is vacant and which is substantially similar to the position held by the employee at the beginning of the employee's leave under this Part; and
-  (c) where paragraph (b)(i) applies,—
+  (c) where paragraph (b)﻿(i) applies,—
     (i) the employee's obligations under section 14N; and
-    (ii) the employee's rights under section 14T(1)(a) and the employee's obligations under section 14T(2)(a); and
+    (ii) the employee's rights under section 14T(1)﻿(a) and the employee's obligations under section 14T(2)﻿(a); and
     (iii) the employee's rights under section 14U; and
-  (d) where paragraph (b)(ii) applies,—
-    (i) the employee's rights under section 14T(1)(b) and the employee's obligations under section 14T(2)(b); and
+  (d) where paragraph (b)﻿(ii) applies,—
+    (i) the employee's rights under section 14T(1)﻿(b) and the employee's obligations under section 14T(2)﻿(b); and
     (ii) the employee's rights under section 14U.
 
 ## Part 4 — Provisions applying in relation to employees taking leave under Part 2 or Part 3
@@ -249,7 +249,7 @@ Within 21 days after the beginning of an employee's leave under this Part, the e
 (1) Where an employee takes a period of leave under Part 2 or Part 3, the employer is to be presumed in any proceedings under this Act, to be able to keep open for the employee, until the end of the employee's leave under Part 2 or Part 3, the employee's position in the employment of the employer unless, in any case where the period of leave is, or is likely to be, more than 4 weeks, the employer proves that the employee's position cannot be kept open—
   (a) because a temporary replacement is not reasonably practicable due to the key position occupied within the employer's enterprise by the employee; or
   (b) because of the occurrence of a redundancy situation.
-(2) In determining whether or not a position is a key position for the purposes of subsection (1)(a), regard may be had, among other things, to—
+(2) In determining whether or not a position is a key position for the purposes of subsection (1)﻿(a), regard may be had, among other things, to—
   (a) the size of the employer's enterprise; and
   (b) the training period or skills required in the job.
 
@@ -276,7 +276,7 @@ Where an employee resumes service with the same employer at the end of a period 
     (ii) subject to section 14S, as service for the purpose of any superannuation scheme to which the employee belongs in the employee's capacity as an employee of the employer.
 
 ### 14S Contributions to superannuation schemes
-Nothing in section 14R(b)(ii)—
+Nothing in section 14R(b)﻿(ii)—
   (a) entitles an employee to have any period counted as service for the purposes of a superannuation scheme if the employee is required to pay contributions in respect of that period and has not done so; or
   (b) relieves an employee from any obligation under a superannuation scheme to pay contributions in respect of any period during which the employee is on leave under Part 2 or Part 3 or during which the employee is entitled, following leave under Part 2 or Part 3, to preference in obtaining employment with the employee's employer.
 
@@ -285,8 +285,8 @@ Nothing in section 14R(b)(ii)—
   (a) if the employee's position is being kept open by the employer, choose, if the employer consents, to end the leave under Part 2 or Part 3 by returning to work before the date on which the employee is required to return to work at the end of the leave under Part 2 or Part 3; or
   (b) in any other case, choose, if the employer consents, to end the leave under Part 2 or Part 3 and begin the period of preference.
 (2) Where an employee wishes,—the employee must give to the employer not less than 21 days' notice in writing of the date on which the employee wishes to return to work or begin the period of preference, as the case may be.
-  (a) pursuant to subsection (1)(a), to return to work before the date on which the employee is required to return to work at the end of the employee's leave under Part 2 or Part 3; or
-  (b) pursuant to subsection (1)(b), to end any period of leave under Part 2 or Part 3 and begin the period of preference before the date on which the period of preference would otherwise begin,—
+  (a) pursuant to subsection (1)﻿(a), to return to work before the date on which the employee is required to return to work at the end of the employee's leave under Part 2 or Part 3; or
+  (b) pursuant to subsection (1)﻿(b), to end any period of leave under Part 2 or Part 3 and begin the period of preference before the date on which the period of preference would otherwise begin,—
 
 ### 14U Extension of leave under Part 2 or Part 3
 (1) Subject to subsection (2), an employee who is on leave under Part 2 or Part 3 may, if the employer consents or if an extension of the leave is required as a consequence of a Proclamation under section 39 or section 40 of the Defence Act 1990, extend the leave under Part 2 or Part 3 until a specified date, which becomes the date on which the employee's leave under Part 2 or Part 3 will end.
@@ -327,7 +327,7 @@ Where—the defences set out in sections 14ZA and 14ZB are available to the empl
 
 ### 14ZA Special defences relating to termination of employment during volunteers leave
 Where the termination of an employee's employment is proved to have taken place during the employee's absence on volunteers leave, it is a defence for the employer to prove—
-  (a) that, on the ground of the occurrence of a redundancy situation that occurred in the employer's business after the employer gave the employee notice in terms of section 14E(1)(c)(i) or section 14L(1)(c)(i), the employer was unable to keep the employee's position open; and
+  (a) that, on the ground of the occurrence of a redundancy situation that occurred in the employer's business after the employer gave the employee notice in terms of section 14E(1)﻿(c)﻿(i) or section 14L(1)﻿(c)﻿(i), the employer was unable to keep the employee's position open; and
   (b) that the employer terminated the employee's employment on account of a redundancy situation of such nature that there was no prospect of the employer being able to appoint the employee to a position which was vacant and which was substantially similar to the position held by the employee at the beginning of the employee's volunteers leave; and
   (c) that the employer had not, in the period commencing with the beginning of the employee's volunteers leave and ending with the termination of the employee's employment, prejudicially affected either the employee's seniority or the employee's superannuation rights.
 
@@ -373,7 +373,7 @@ Nothing in this Act affects any redundancy payment payable pursuant to the provi
 (3) Where any such attempt at settlement has failed, or where the complaint is of such a nature that a direct discussion between the employee and the employee's immediate supervisor would be inappropriate, the employee must either—
   (a) notify a duly authorised representative of any union to which the employee belongs or could belong; or
   (b) where the employee elects to act on his or her own behalf or to appoint an agent or barrister or solicitor to act on his or her behalf, forthwith take the matter up, or arrange for that agent or barrister or solicitor, as the case may be, to take the matter up on his or her behalf, with the employer or the representative of the employer.
-(4) Where the person notified under subsection (3)(a) considers that there is some substance in the volunteers leave complaint, that person must forthwith take the matter up with the employer or the representative of the employer.
+(4) Where the person notified under subsection (3)﻿(a) considers that there is some substance in the volunteers leave complaint, that person must forthwith take the matter up with the employer or the representative of the employer.
 (5) If the matter is not disposed of in discussion with the employer or the representative of the employer, the complaint must be reduced to writing in a statement setting out the facts relied on. The statement establishes the nature of the employee's complaint, and of the issues, for all subsequent consideration of the case.
 
 ### 14ZH Power to refer complaint to Employment Relations Authority
@@ -416,7 +416,7 @@ Where the remedy of reinstatement is provided by the Employment Relations Author
   (b) subject to such terms, if any, as the Employment Court, in the circumstances of each case, thinks fit.
 
 ### 14ZN Enforcement of judgments
-(1) A certificate signed by an officer of the Employment Relations Authority or the Registrar of the Employment Court specifying the amount payable under any order for the payment of money made under this Act by the Employment Relations Authority or the Employment Court, and the persons by whom and to whom it is payable, may be filed in any District Court, and, subject to subsection (2), is then enforceable in the same manner as a judgment given by a District Court in an action for the recovery of a debt.
+(1) A certificate signed by an officer of the Employment Relations Authority or the Registrar of the Employment Court specifying the amount payable under any order for the payment of money made under this Act by the Employment Relations Authority or the Employment Court, and the persons by whom and to whom it is payable, may be filed in the District Court, and, subject to subsection (2), is then enforceable in the same manner as a judgment given by the District Court in an action for the recovery of a debt.
 (2) No proceedings may be taken under the Imprisonment for Debt Limitation Act 1908 against any person for failing or refusing to pay any penalty imposed on that person under this Act.
 
 ### 14ZO Role of Labour Inspectors
