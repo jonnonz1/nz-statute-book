@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2016-10-31_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -1773,7 +1773,7 @@ The rights conferred by Part 4 are not assignable.
 (3) The 3 kinds of infringement notices, in the order in which they are given, are a detection notice, a warning notice, and an enforcement notice.
 (4) After an enforcement notice is issued to an alleged infringer, the rights owner may take enforcement action by seeking the following orders against the alleged infringer:
   (a) an order from the Tribunal for a sum of up to $15,000:
-  (b) an order from a District Court requiring the IPAP to suspend the account holder's Internet account for up to 6 months.
+  (b) an order from the District Court requiring the IPAP to suspend the account holder's Internet account for up to 6 months.
 (5) Time limits apply to all stages of the regime.
 (6) This section is by way of explanation only. If any provision is inconsistent with it, the other provision prevails.
 
@@ -1864,7 +1864,7 @@ The rights conferred by Part 4 are not assignable.
 ### 122I Enforcement action after issue of enforcement notice
 (1) A rights owner may take enforcement action against an account holder who has been issued with an enforcement notice in respect of infringements against the rights owner by doing either or both of the following:
   (a) applying to the Tribunal for an order under section 122O against the account holder:
-  (b) applying to a District Court for an order under section 122P against the account holder.
+  (b) applying to the District Court for an order under section 122P against the account holder.
 (2) Nothing in sections 122A to 122U affects the rights and remedies of rights owners under any other provision of this Part in relation to any infringement of copyright, whether or not the infringement has been included in an infringement notice.
 
 ### 122J Application to Tribunal
@@ -1944,11 +1944,11 @@ The rights conferred by Part 4 are not assignable.
   (b) reimbursement of the application fee paid by the rights owner to the Tribunal.
 (4) The total amount ordered by the Tribunal to be paid by the account holder must not exceed $15,000.
 (5) Despite subsection (1), the Tribunal may decline to make the order required by that subsection if, in the circumstances of the case, the Tribunal is satisfied that making the order would be manifestly unjust to the account holder.
-(6) An order made under this section may be enforced as if it were a judgment for a sum of money made by a District Court.
+(6) An order made under this section may be enforced as if it were a judgment for a sum of money made by the District Court.
 (7) The Tribunal may award costs against a party to the proceedings only if the Tribunal is satisfied that the party has engaged in conduct intended to impede the prompt determination of the proceedings.
 
 ### 122P Court order suspending account holder's account
-(1) A District Court may make a suspension order requiring an IPAP to suspend the Internet account of an account holder.
+(1) The District Court may make a suspension order requiring an IPAP to suspend the Internet account of an account holder.
 (2) A suspension order may be for any period up to 6 months.
 (3) The court may make an order under this section only if it is satisfied that—
   (a) at least 1 enforcement notice has been issued to the account holder in accordance with this Act; and
@@ -1959,19 +1959,19 @@ The rights conferred by Part 4 are not assignable.
   (b) the identity (if known) of the user who engaged in the infringements identified in the notices; and
   (c) any other matter that may be specified in regulations; and
   (d) whether it would be manifestly unjust to suspend the account holder's account.
-(5) An application to a District Court for an order under this section must be made—
+(5) An application to the District Court for an order under this section must be made—
   (a) by the rights owner whose copyright is alleged to have been infringed; and
   (b) no later than 1 month after the rights owner receives the contact details of an account holder from an IPAP following an order made under section 122Q(2).
 
 ### 122Q Order requiring IPAP to disclose account holder details
 (1) This section applies if a rights owner wishes to apply for an order under section 122P against an account holder, but does not know the identity of the account holder.
-(2) A District Court may make an order requiring an IPAP to disclose to a rights owner, as soon as practicable, the name and contact details of an account holder if—
+(2) The District Court may make an order requiring an IPAP to disclose to a rights owner, as soon as practicable, the name and contact details of an account holder if—
   (a) the rights owner applies to the District Court for an order under this section; and
   (b) the District Court is satisfied, on the basis of information included in the application, that an enforcement notice has been sent to the account holder in accordance with this Act in relation to infringements against the rights owner; and
   (c) the rights owner has given an undertaking to the court that, if the account holder's details are released to it, it will use that information only for the purpose of seeking and enforcing an order made under section 122P.
 
 ### 122R Suspension orders and orders under section 122Q not available until date set by Order in Council
-(1) No person may apply to a District Court for a suspension order under section 122P, or for an order under section 122Q, until after the date set by Order in Council under this section.
+(1) No person may apply to the District Court for a suspension order under section 122P, or for an order under section 122Q, until after the date set by Order in Council under this section.
 (2) The Governor-General may, by Order in Council made on the recommendation of the Minister, set a date after which applications for orders under sections 122P and 122Q may be made.
 
 ### 122S Application of section 122C to cellular mobile networks
@@ -2217,7 +2217,7 @@ An enforcement officer must, to the extent that is reasonably practicable, promo
 
 ### 134F Enforcement officer or member of Police may apply for search warrant
 (1) An enforcement officer or a member of the Police may apply for a search warrant to search a place or thing.
-(2) Any District Court Judge, Justice of the Peace, Community Magistrate, or any Registrar of a District Court (not being a member of the Police) (the issuing officer) may, on an application by an enforcement officer or a member of the Police, issue a search warrant to search a place or thing if the issuing officer is satisfied that there are reasonable grounds for believing that—
+(2) Any District Court Judge, Justice of the Peace, Community Magistrate, or any Registrar of the District Court (not being a member of the Police) (the issuing officer) may, on an application by an enforcement officer or a member of the Police, issue a search warrant to search a place or thing if the issuing officer is satisfied that there are reasonable grounds for believing that—
   (a) an offence under this Act has been, or is being, committed at the place or involving the thing; or
   (b) there is at, in, on, over, or under the place or thing, any thing that is—
     (i) evidence of an offence under this Act; or
@@ -2711,7 +2711,7 @@ A Customs officer to whom any document is produced for inspection under an order
 
 ### 144F Issue of search warrants to Customs officers
 (1) A Customs officer may apply for a search warrant to search a place or thing.
-(2) Any District Court Judge, Justice of the Peace, Community Magistrate, or Registrar of a District Court (the issuing officer) may, on an application by a Customs officer, issue a warrant if the issuing officer is satisfied that there are reasonable grounds for believing that there is in, on, over, or under the place or thing any thing that is evidence of, or of significant relevance to the investigation of, an offence against section 131, 198, or 226C in respect of imported goods.
+(2) Any District Court Judge, Justice of the Peace, Community Magistrate, or Registrar of the District Court (the issuing officer) may, on an application by a Customs officer, issue a warrant if the issuing officer is satisfied that there are reasonable grounds for believing that there is in, on, over, or under the place or thing any thing that is evidence of, or of significant relevance to the investigation of, an offence against section 131, 198, or 226C in respect of imported goods.
 (3) Sections 134G to 134S apply with all necessary modifications in respect of every search warrant applied for and issued under this section.
 (4) Sections 134T to 134W apply with all necessary modifications in respect of any thing seized under a search warrant issued under this section, and in applying those provisions every reference to the chief executive must be read as a reference to the chief executive of the New Zealand Customs Service.
 
@@ -3432,8 +3432,8 @@ The Tribunal shall have such functions as are conferred on it by this Act or any
   (b) be paid from money appropriated by Parliament for the purpose.
 
 ### 219 Privileges and immunities
-(1) Witnesses appearing before the Tribunal shall have the same privileges and immunities as witnesses have in proceedings in a District Court.
-(2) Counsel and agents appearing before the Tribunal shall have the same privileges and immunities as counsel have in proceedings in a District Court.
+(1) Witnesses appearing before the Tribunal shall have the same privileges and immunities as witnesses have in proceedings in the District Court.
+(2) Counsel and agents appearing before the Tribunal shall have the same privileges and immunities as counsel have in proceedings in the District Court.
 
 ### 220 Non-attendance or refusal to co-operate
 (1) Every person commits an offence who, after being summoned to attend to give evidence before the Tribunal or to produce to the Tribunal any papers, documents, records, or things, without sufficient cause,—
@@ -3452,7 +3452,7 @@ The Tribunal shall have such functions as are conferred on it by this Act or any
 
 ### 222 Costs
 (1) The Tribunal, in any proceedings before it under this Act, may make such order as to costs as it thinks fit.
-(2) Any such order as to costs may be filed in a District Court and may be enforced as a judgment of that court.
+(2) Any such order as to costs may be filed in the District Court and may be enforced as a judgment of that court.
 
 ### 223 Stating case for High Court
 (1) The Tribunal may, at any time, before or during the hearing or before delivering its decision, on the application of any party to the proceedings or of its own motion, state a case for the opinion of the High Court on any question of law arising in any proceedings before the Tribunal.
