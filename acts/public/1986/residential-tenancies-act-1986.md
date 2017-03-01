@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -185,7 +185,7 @@ This Act applies to every tenancy for residential purposes except as specificall
 (3) No covenant or agreement, whether entered into before or after the commencement, on 19 September 1975, of the Property Law Amendment Act 1975 has, from that commencement, any force or effect to deprive the lessor or lessee of any dwellinghouse of any right, power, privilege, or other benefit provided for in any of the specified sections of the 1952 Act.
 (4) Subsection (3) does not apply in respect of any lease of a dwellinghouse if the rent thereby reserved does not exceed 50% of the equitable rent of the dwellinghouse.
 (5) Subsection (6) applies to a person who makes an assertion, for the purposes of subsection (4), that the rent reserved by the lease of a dwellinghouse does not exceed 50% of the equitable rent of that dwellinghouse.
-(6) It is for the person to prove the assertion by showing that the rent does not exceed 50% of the equitable rent of the dwellinghouse within the preceding period of 12 months as determined by a District Court—
+(6) It is for the person to prove the assertion by showing that the rent does not exceed 50% of the equitable rent of the dwellinghouse within the preceding period of 12 months as determined by the District Court—
   (a) on an application for the purpose by the person; and
   (b) applying section 8 of the Rent Appeal Act 1973.
 
@@ -327,8 +327,8 @@ Sections 13 to 13B (and, in the case of a boarding house tenancy, section 66C) d
 (1) A person who has attained the age of 18 years or who is or has been married or in a civil union under that age shall have the same capacity in respect of tenancy agreements, and in respect of the settlement of disputes arising in relation to tenancy agreements, as persons of full age have.
 (2) Subject to subsection (3), where during a tenancy, the tenant attains the age of 18 years or marries or enters into a civil union for the first time under that age, the tenancy agreement shall thereafter have the same force and effect as it would have had if the tenant had been of full age at the time when the tenant entered into the agreement.
 (3) In any case to which subsection (2) applies, the tenant may, within 10 working days after the date on which the tenant attains the age of 18 years or marries or enters into a civil union, apply to the Tribunal for an order relieving the tenant of all or any of the obligations imposed on the tenant by the agreement.
-(4) Subject to subsections (1) and (2), the Tribunal shall have and may exercise, in respect of tenancy agreements, all the jurisdiction and powers conferred on the High Court or a District Court by the Minors Contracts Act 1969.
-(5) Except where any proceedings are transferred to a District Court under section 83(2) or an appeal is brought under any of sections 117, 119, and 120, no court shall have jurisdiction under the Minors Contracts Act 1969 in respect of any tenancy agreement.
+(4) Subject to subsections (1) and (2), the Tribunal shall have and may exercise, in respect of tenancy agreements, all the jurisdiction and powers conferred on the High Court or the District Court by the Minors' Contracts Act 1969.
+(5) Except where any proceedings are transferred to the District Court under section 83(2) or an appeal is brought under any of sections 117, 119, and 120, no court shall have jurisdiction under the Minors’ Contracts Act 1969 in respect of any tenancy agreement.
 
 ### 15 Notification of successor to landlord or tenant
 (1) Where, during the term of any tenancy, the landlord's or tenant's interest passes to some other person, that other person shall, within 10 working days thereafter, cause the other party to the tenancy to be notified of—
@@ -1416,8 +1416,8 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
 (5) Sittings of the Tribunal for the dispatch of its business in any particular place shall, subject to any directions by the Principal Tenancy Adjudicator, be held on such days and at such times as may be appointed by the Tenancy Adjudicator, or one of the Tenancy Adjudicators, stationed at, and authorised to exercise the jurisdiction of the Tribunal in, that place.
 
 ### 72 Registrars
-(1) Every Registrar, and every Deputy Registrar, of a District Court is a Registrar of the Tribunal.
-(2) In addition, employees of the Ministry of Justice who are not Registrars, or Deputy Registrars, of District Courts may be designated by the chief executive of the Ministry of Justice as Registrars of the Tribunal.
+(1) Every Registrar, and every Deputy Registrar, of the District Court is a Registrar of the Tribunal.
+(2) In addition, employees of the Ministry of Justice who are not Registrars, or Deputy Registrars, of the District Court may be designated by the chief executive of the Ministry of Justice as Registrars of the Tribunal.
 (3) It is the responsibility of each Registrar—
   (a) to arrange, in accordance with the instructions of the chief executive of the Ministry of Justice, for the provision of any secretarial and administrative services that may be necessary for the efficient and expeditious exercise of the Tribunal's jurisdiction; and
   (b) to ensure that adequate arrangements are made, in consultation with the chief executive, for the filing and processing of all applications and other documents required or authorised to be filed under this Act; and
@@ -1500,7 +1500,7 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
   (n) to order the landlord or the tenant under any tenancy agreement to which this Act applies to pay to the other party such sum by way of damages or compensation as the Tribunal shall assess in respect of the breach of any express or implied provision of the tenancy agreement or any provision of this Act:
   (o) to consider and determine any complaint by any party to a tenancy agreement or by the chief executive that any person has committed an unlawful act, and, where it finds such a complaint to be proved, to order the payment of such sum in the nature of exemplary damages, not exceeding the maximum prescribed by this Act, as the Tribunal may think just:
   (p) to approve the assignment by the tenant of the rights of the tenant under any tenancy agreement to which this Act applies, or the subletting by the tenant under any such tenancy agreement of the whole or any part of the premises, where the Tribunal finds that the landlord has withheld consent unreasonably and the assignment or subletting is not absolutely prohibited by the tenancy agreement:
-  (pa) to record in any order requiring a party to pay money to any other party that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Courts Act 1947:
+  (pa) to record in any order requiring a party to pay money to any other party that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Court Act 2016:
   (q) to make orders of a consequential or ancillary nature necessary to exercise or perfect the exercise of any of its jurisdiction.
 (2A) If subsection (2)﻿(pa) applies, then section 78(2AB) to (2AD) apply.
 (3) The Tribunal shall have jurisdiction to make an order for the recovery by any person of any residential premises to which this Act applies, or the eviction of any person from any such premises, regardless of the value of the premises or the amount of any rent payable for the premises.
@@ -1520,7 +1520,7 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
   (e) a work order:
   (f) where it appears to the Tribunal that an agreement between the parties, or any term of any such agreement, is harsh or unconscionable, or that any power conferred by an agreement between them has been exercised in a harsh or unconscionable manner, an order varying the agreement, or setting it aside (either wholly or in part):
   (g) where it appears to the Tribunal that an agreement between the parties has been induced by fraud, misrepresentation, or mistake, or that any writing purporting to express the agreement between the parties does not accord with their true agreement, an order varying, or setting aside, the agreement or the writing (either wholly or in part):
-  (h) any other order that the High Court or a District Court may make under any enactment or rule of law relating to contracts:
+  (h) any other order that the High Court or the District Court may make under any enactment or rule of law relating to contracts:
   (i) an order dismissing an application.
 (1A) A person with an interest in premises that are not subject to a tenancy agreement may apply, without notice, to the Tribunal for an order under subsection (1)﻿(a) declaring the status of the premises for the purposes of this Act.
 (1B) An order made on an application under subsection (1A) is binding on all parties to any subsequent proceedings before the Tribunal, but the Tribunal may, on application made in any such proceedings, rescind the order if satisfied that the order is wrong or, because of a change in circumstances, no longer applicable.
@@ -1545,7 +1545,7 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
 (2AAF) Any money paid to the chief executive under subsection (2AAD) must be paid by the chief executive into the Residential Tenancies Trust Account, and must be paid out of that Account by the chief executive to the tenant if the chief executive is satisfied that the money is to be applied by the tenant to meet the cost of the work.
 (2AAG) The inclusion in a work order of any provision under subsection (2AAB) does not limit any other rights or remedies of the party in whose favour the order is made.
 (2A) Where the Tribunal makes an order under any of paragraphs (b), (c), or (h) of subsection (1), the Tribunal may at the same time make an order under subsection (1)﻿(d) to be complied with as an alternative to compliance with the first-mentioned order.
-(2AB) The Tribunal may record in an order made under subsection (1)﻿(d) (a money order) that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Courts Act 1947 if—
+(2AB) The Tribunal may record in an order made under subsection (1)﻿(d) (a money order) that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Court Act 2016 if—
   (a) the money order was made at a hearing at which both parties were present; and
   (b) the party ordered to pay money consented to the payment of the money being enforced by way of an attachment order; and
   (c) both parties agreed on the terms of the attachment order, including the details specified in subsection (2AC).
@@ -1556,10 +1556,10 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
   (d) the amount or percentage below which the net amount paid for the earnings period must not fall; and
   (e) the name and address of the person to whom the amounts deducted are to be paid; and
   (f) that the attachment order is to remain in force until the amount specified in the money order has been paid in full or, if the attachment order is to remain in force for a fixed period, that period.
-(2AD) Nothing in subsection (2AC)﻿(d) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from section 84I(3) of the District Courts Act 1947.
-(2AE) If subsection (2AC) is complied with, the money order may be filed in any District Court and, if so filed, sections 79(5C) and 84F to 84N of the District Courts Act 1947 apply to the extent they are applicable and subject to any necessary modifications.
+(2AD) Nothing in subsection (2AC)﻿(d) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from section 157(3) of the District Court Act 2016.
+(2AE) If subsection (2AC) is complied with, the money order may be filed in the District Court and, if so filed, sections 139(2) and 154 to 162 of the District Court Act 2016 apply to the extent they are applicable and subject to any necessary modifications.
 (2AF) For the purposes of subsection (2AB)﻿(a), hearing includes mediation.
-(2AG) In this section, employer and salary or wages have the same meanings as in section 84F of the District Courts Act 1947.
+(2AG) In this section, employer and salary or wages have the same meanings as in section 154 of the District Court Act 2016.
 (2B) Where the Tribunal makes any 2 orders under subsection (2) or subsection (2A), it is the right of the person in whose favour the order is made to choose which order to enforce under section 107.
 (3) Any order made by the Tribunal may be unconditional or subject to such conditions (whether as to the time for, or mode of, compliance, or otherwise) as the Tribunal thinks fit to impose.
 
@@ -1588,10 +1588,10 @@ Subject to sections 105 and 117 to 120, every order made by the Tribunal shall, 
 (4) Where proceedings are transferred to the Tribunal under subsection (3), the Tribunal may have regard to any notes of evidence transmitted to the Tribunal, and it shall not be necessary for that evidence to be given again before the Tribunal unless the Tribunal so requires.
 
 ### 83 Transfer of proceedings to District Court
-(1) Where any proceedings have been commenced before the Tribunal that the Tribunal has no jurisdiction to hear and determine, the Tribunal may, instead of striking out the proceedings, order that they be transferred to a District Court in its ordinary civil jurisdiction.
-(2) The Tribunal may order that any proceedings be transferred to a District Court in its ordinary civil jurisdiction if the Tribunal is satisfied that the proceedings would be more properly determined in that court.
+(1) Where any proceedings have been commenced before the Tribunal that the Tribunal has no jurisdiction to hear and determine, the Tribunal may, instead of striking out the proceedings, order that they be transferred to the District Court in its ordinary civil jurisdiction.
+(2) The Tribunal may order that any proceedings be transferred to the District Court in its ordinary civil jurisdiction if the Tribunal is satisfied that the proceedings would be more properly determined in that court.
 (3) The Tribunal shall not make an order under subsection (1) or subsection (2) in respect of a claim if any agreement of a kind described in section 81(2) requires that the claim be submitted to arbitration.
-(4) Any proceedings transferred to a District Court under this section shall be deemed to have been commenced by action in that court, and shall be dealt with by that court accordingly.
+(4) Any proceedings transferred to the District Court under this section shall be deemed to have been commenced by action in that court, and shall be dealt with by that court accordingly.
 
 ### 83A Referral of complaints to Health and Disability Commissioner
 If a dispute or part of a dispute raises a question as to the landlord’s conduct in the landlord’s capacity as a provider of health or disability services and the conduct is of a kind about which a complaint may be made under the Health and Disability Commissioner Act 1994, the Tribunal may—
@@ -1649,7 +1649,7 @@ If a dispute or part of a dispute raises a question as to the landlord’s condu
     (i) the references to the money order were references to the agreed settlement; and
     (ii) the reference to the Tribunal were a reference to the Tenancy Mediator; and
     (iii) the reference to a hearing were a reference to mediation:
-  (b) the order made by the Tenancy Mediator under section 78(1)﻿(d) may be filed in any District Court to be enforced as an attachment order only if it is sealed under this section.
+  (b) the order made by the Tenancy Mediator under section 78(1)﻿(d) may be filed in the District Court to be enforced as an attachment order only if it is sealed under this section.
 
 ### 89 Statements made in mediation to be subject to privilege
 (1) This section applies to any oral or written statement (including a statement contained in a document) made in the course of, and for the purposes of or in connection with, the mediation by a Tenancy Mediator of any dispute.
@@ -1863,12 +1863,12 @@ The Tribunal may state a case for the opinion of the High Court on any question 
 **Enforcement and offences**
 
 ### 106 Enforcement of possession orders
-(1) Every possession order shall, on being filed in the appropriate District Court, have effect as if it were a warrant for the recovery of the premises issued by the Registrar of the court under the District Courts Act 1947.
-(2) Where any such order is filed in a District Court, section 79(5) of the District Courts Act 1947 shall apply as if the reference to a District Court Judge were a reference to a Tenancy Adjudicator.
+(1) Every possession order shall, on being filed in the appropriate office of the District Court, have effect as if it were a warrant for the recovery of the premises issued by the Registrar of the court under the District Court Act 2016.
+(2) Where any such order is filed in the District Court, section 139(1) of the District Court Act 2016 applies as if the reference to a District Court Judge were a reference to a Tenancy Adjudicator.
 
 ### 107 Enforcement of orders other than possession orders and work orders
 (1) Every order made by the Tribunal other than a possession order or a work order shall be deemed to be an order of the District Court, and, subject to this section, may be enforced accordingly.
-(2) Where application is made to a District Court for the issue of any process to enforce an order provided for by subsection (2) or subsection (2A) of section 78 (requiring a party to pay money to another as an alternative to compliance with a work order or an order other than a monetary order), the Registrar shall give written notice of the application to the party against whom enforcement is sought.
+(2) Where application is made to the District Court for the issue of any process to enforce an order provided for by subsection (2) or subsection (2A) of section 78 (requiring a party to pay money to another as an alternative to compliance with a work order or an order other than a monetary order), the Registrar shall give written notice of the application to the party against whom enforcement is sought.
 (3) If that party does not file in the court, within 10 working days after receiving notice of the application, a notice of objection, the order may, after the expiry of that period, be enforced pursuant to subsection (1).
 (4) The notice referred to in subsection (3) may be given only on the ground that it is the belief of the party giving it that the order of the Tribunal has been fully complied with and that the party therefore disputes the entitlement of the applicant to enforce it.
 (5) If the party against whom enforcement is sought files the notice referred to in subsection (3) within the prescribed time, the Registrar shall refer the matter to the Tribunal to be heard and determined under section 108(2).
@@ -1989,14 +1989,14 @@ In this section and in sections 112B to 112F,—
 
 ### 112E Specified information sent to District Court
 When the Secretary for Justice receives contact information from the chief executive, he or she must—
-  (a) determine in which District Court enforcement proceedings should be commenced; and
-  (b) send the contact information to the Registrar of that District Court; and
+  (a) determine in which office of the District Court enforcement proceedings should be commenced; and
+  (b) send the contact information to the Registrar for that office of the District Court; and
   (c) advise the applicant—
-    (i) that the information has been sent to the Registrar of that District Court; and
-    (ii) that enforcement proceedings may be commenced in that District Court or, if they have already been commenced in that or any other District Court, that enforcement proceedings may now continue in, or be transferred to, that District Court.
+    (i) that the information has been sent to the Registrar for that office of the District Court; and
+    (ii) that enforcement proceedings may be commenced in that office of the District Court or, if they have already been commenced in that or any other office of the District Court, that enforcement proceedings may now continue in, or be transferred to, the office of the District Court in which the proceedings were, or should have been, commenced.
 
 ### 112F Non-disclosure of contact information
-(1) If contact information has been sent to the Registrar of a District Court in connection with enforcement proceedings relating to a Tribunal order, neither the Registrar nor the court staff may disclose the contact information unless the disclosure is necessary for the purpose of enforcing the order or for determining any proceedings associated with enforcement of the order.
+(1) If contact information has been sent to the Registrar of the District Court in connection with enforcement proceedings relating to a Tribunal order, neither the Registrar nor the court staff may disclose the contact information unless the disclosure is necessary for the purpose of enforcing the order or for determining any proceedings associated with enforcement of the order.
 (2) No person may search, inspect, or copy any court file that contains contact information, unless a Judge directs otherwise.
 (3) A Judge may make a direction under subsection (2) only if satisfied that the contact information contained on the file is—
   (a) already known to the person seeking to search, inspect, or copy the record; or
@@ -2041,21 +2041,21 @@ For the purpose of ensuring that the application and administration of this Act 
   (e) the withdrawal and amendment of applications:
   (f) the summoning of witnesses, and the payment of witnesses from public funds or otherwise:
   (g) the duties, functions, and powers of the chief executive and Tenancy Mediators:
-  (h) the transfers of proceedings from the Tribunal to a District Court:
-  (i) the filing of orders of the Tribunal in a District Court for enforcement:
+  (h) the transfers of proceedings from the Tribunal to the District Court:
+  (i) the filing of orders of the Tribunal in the District Court for enforcement:
   (j) the searching of the records of the Tribunal.
 
 **Appeals**
 
 ### 117 Appeal to District Court
-(1) Subject to subsection (2), any party to any proceedings before the Tribunal who is dissatisfied with the decision of the Tribunal in the proceedings may appeal to a District Court against that decision.
+(1) Subject to subsection (2), any party to any proceedings before the Tribunal who is dissatisfied with the decision of the Tribunal in the proceedings may appeal to the District Court against that decision.
 (1A) A decision referred to in subsection (1) includes the decision to grant, or refuse to grant, an application under section 105 for a rehearing.
 (2) No appeal shall lie—
   (a) against an interim order made under section 79; or
   (b) against an order, or the failure to make an order, for the payment of money where the amount that would be in dispute on appeal is less than $1,000; or
   (c) against a work order, or the failure to make a work order, where the value of the work that would be in dispute on appeal is less than $1,000.
-(3) A District Court shall have jurisdiction to hear and determine an appeal under this section notwithstanding any limits imposed on such courts in their ordinary civil jurisdiction by sections 29 to 34 of the District Courts Act 1947.
-(4) The provisions of section 85, with any necessary modifications, shall apply in respect of the hearing and determination by a District Court of an appeal brought under this section.
+(3) The District Court has jurisdiction to hear and determine an appeal under this section notwithstanding any limits imposed on such courts in their ordinary civil jurisdiction by sections 74 to 79 of the District Court Act 2016.
+(4) The provisions of section 85, with any necessary modifications, shall apply in respect of the hearing and determination by the District Court of an appeal brought under this section.
 (5) An appeal under this section shall be brought by the filing of a notice of appeal in the District Court nearest to the place at which the Tribunal sat in the proceedings to which the appeal relates.
 (6) Every such notice of appeal shall be filed within 10 working days after the date of the decision to which the appeal relates.
 (7) As soon as practicable after a notice of appeal has been filed under this section, the Registrar of the court shall cause a copy of the notice to be lodged with the Tribunal's records relating to the proceedings to which the appeal relates, and, on receipt of that copy, the Registrar of the Tribunal shall send the Tribunal's file on the matter to the court.
