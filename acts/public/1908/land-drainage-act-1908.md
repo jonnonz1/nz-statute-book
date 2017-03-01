@@ -1,5 +1,5 @@
 # Land Drainage Act 1908
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the drainage of land
 
@@ -9,7 +9,7 @@ _Consolidation as at 2013-07-01_
   (a) all districts, Boards, corporations, offices, appointments, bylaws, Orders in Council, orders, warrants, registers, contracts, rates, resolutions, notices, records, instruments, and generally all acts of authority which originated under any of the said enactments or any enactment thereby repealed, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated:provided that every such Board and corporation respectively shall be deemed to be the same Board and corporation respectively under this Act, without change of corporate entity or otherwise:provided also that in the case of members elected or appointed for a specified term the current term shall be computed from the date of its commencement:
   (b) All members of Boards holding office under any such enactment on the coming into operation of this Act shall continue in office until their successors under this Act come into office:
   (c) All matters and proceedings commenced under any such enactment, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
-(3) This Act is divided into Parts, as follows:Part 1Drainage Districts and Boards (Sections 3 to 57).Part 2Irrigation Works (Sections 58 and 59).Part 3Powers of Local Authorities (Sections 60 to 66).Part 4Powers of Private Owners (Sections 67 to 80).Part 5Miscellaneous (Sections 81 to 89).
+(3) This Act is divided into Parts, as follows:The following table is small in size and has two columns. The columns have no headings.Part 1Drainage Districts and Boards (Sections 3 to 57).Part 2Irrigation Works (Sections 58 and 59).Part 3Powers of Local Authorities (Sections 60 to 66).Part 4Powers of Private Owners (Sections 67 to 80).Part 5Miscellaneous (Sections 81 to 89).
 
 ### 2 Interpretation
 In this Act, if not inconsistent with the context,—
@@ -299,7 +299,7 @@ Every order, summons, notice, or other such document requiring authentication by
 
 ### 53 Bankruptcy and other proceedings concerning Board
 (1) If any person against whom the Board has any claim or demand becomes bankrupt, the Chairman or Secretary of the Board or any other person from time to time appointed by the Board for the purpose may represent the Board in all proceedings against the estate of such bankrupt, and act in its behalf in all respects as if such claim or demand had been the claim or demand of such Chairman or Secretary or other appointed person and not of the Board.
-(2) In all proceedings under this Act in any District Court, or before any Justice or Community Magistrate, in which the Board is concerned, the Chairman or the Secretary of the Board or any other person from time to time appointed by the Board for the purpose may represent the Board and act in its behalf in all respects as though he, and not the said Board, had been the party concerned.
+(2) In all proceedings under this Act in the District Court, or before any Justice or Community Magistrate, in which the Board is concerned, the Chairman or the Secretary of the Board or any other person from time to time appointed by the Board for the purpose may represent the Board and act in its behalf in all respects as though he, and not the said Board, had been the party concerned.
 (3) The Chairman or Secretary or other appointed person shall be reimbursed all damages, costs, charges, and expenses to which he is put, or with which he may become chargeable, by reason of anything in this section.
 
 ### 54 No action against Board if tender of sufficient amends is made
@@ -342,7 +342,7 @@ Every local authority not within a drainage district constituted under Part 1 of
 
 ### 63 Power to compel local authority to order removal of weeds and obstructions
 (1) Where any ratepayer within the district of a local authority, by notice in writing, requests the local authority to exercise the powers conferred by the last preceding section by ordering any specified occupier or owner of land to remove from any specified watercourse or drain all weeds and other growth or refuse and obstructions of any kind, and for the space of 28 days after receipt of the notice the local authority fails to comply therewith, then the following provisions shall apply:
-  (a) the ratepayer may apply to a District Court for an order requiring the council to comply with the notice:
+  (a) the ratepayer may apply to the District Court for an order requiring the council to comply with the notice:
   (b) on the hearing of the application the District Court has jurisdiction to determine whether and to what extent the notice should be complied with by the local authority, and the decision of the District Court is final.
 (2) Any order made by the local authority pursuant to the District Court's decision is subject to appeal as provided in section 62.
 
