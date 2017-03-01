@@ -1,5 +1,5 @@
 # Court Martial Act 2007
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Court Martial Act 2007.
@@ -683,7 +683,7 @@ Any accused to be tried by the Court Martial may be defended—
 No proceedings before the Court Martial may—
   (a) be held invalid by reason only of want of form; or
   (b) be liable to removal into any court by means of any prerogative writ or order; or
-  (c) be liable to review by any court under the Judicature Amendment Act 1972 or otherwise.
+  (c) be liable to review by any court under the Judicial Review Procedure Act 2016 or otherwise.
 
 ### 70 Application of provisions of Evidence Act 2006 relating to jury trials to proceedings under this Act or 1971 Act
 (1) The provisions of the Evidence Act 2006 that relate to a trial before a jury apply, to the extent that they are applicable and subject to all necessary modifications, to proceedings of the Court Martial under this Act or the 1971 Act that involve military members as if those proceedings were proceedings that involve a jury.
