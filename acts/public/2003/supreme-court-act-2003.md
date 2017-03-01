@@ -1,5 +1,5 @@
 # Supreme Court Act 2003
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Supreme Court Act 2003.
