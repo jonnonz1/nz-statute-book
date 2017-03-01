@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -33,7 +33,7 @@ In this Act, unless the context otherwise requires,—
     (a) the Crown (including, without limitation, by a person who is, and is acting in his or her capacity as, a Crown solicitor, an employee or officer of a government department, or a Police employee); or
     (b) a Crown entity within the meaning of section 7 of the Crown Entities Act 2004; or
     (c) a statutory public body or board (including, without limitation, a local authority)
-  - **Registrar** means a Registrar of the High Court; and includes a Deputy Registrar of that court; and, in relation to a jury district constituted under section 5(2), means the Registrar and a Deputy Registrar of the District Court in that district
+  - **Registrar** means a Registrar of the High Court; and includes a Deputy Registrar of that court; and, in relation to a jury district constituted under section 5(2), means the Registrar and a Deputy Registrar of the office of the District Court in that district
   - **traffic officer** means an enforcement officer under the Land Transport Act 1998
   - **trial** includes, in civil cases, an inquiry or assessment of damages
   - **view** means a visual inspection by jurors of any place or premises, a view of which is considered by the court to be proper or necessary for the better understanding of the evidence that may be given at the trial before the jurors, or material to the proper determination of the question in dispute.
@@ -42,11 +42,11 @@ In this Act, unless the context otherwise requires,—
 This Act binds the Crown.
 
 ### 4 Application
-Except as expressly provided in this Act, the provisions of this Act apply to all juries, whether for civil or criminal cases, and whether in the High Court or a District Court.
+Except as expressly provided in this Act, the provisions of this Act apply to all juries, whether for civil or criminal cases, and whether in the High Court or the District Court.
 
 ### 5 Jury districts
 (1) For every city or town (in this section referred to as a court town) at which sittings of the High Court are held there shall be a jury district (in this section referred to as a High Court jury district).
-(2) For every city or town (in this section also referred to as a court town) at which jury trials are held before a District Court there shall be a jury district (in this section referred to as a District Court jury district).
+(2) For every city or town (in this section also referred to as a court town) at which jury trials are held before an office of the District Court there shall be a jury district (in this section referred to as a District Court jury district).
 (3) Every jury district comprises every place that is within—
   (a) 45 km by the most practicable route from the courthouse in the court town in which jury trials may be held; and
   (b) any boundary of the district that is declared by the Governor-General by a notice under subsection (4).
@@ -76,14 +76,14 @@ The following persons shall not serve on any jury in any court on any occasion:
   (b) members of the House of Representatives:
   (c) Judges of the High Court, Masters of the High Court, Judges of the Employment Court, Judges and Commissioners of the Maori Land Court, District Court Judges, and Community Magistrates:
   (d) visiting Justices under the Corrections Act 2004, and members of the Parole Board:
-  (e) Justices who have agreed to make themselves available from time to time to exercise the summary jurisdiction of District Courts:
+  (e) Justices who have agreed to make themselves available from time to time to exercise the summary jurisdiction of the District Court:
   (f) lawyers within the meaning of the Lawyers and Conveyancers Act 2006:
   (g) employees of the Police, and traffic officers:
   (h) an employee of the Public Service who is employed—
     (i) in the Ministry of Justice; or
     (ii) in the Department of Corrections; or
     (iii)
-    (iv) as an officer of the High Court or of a District Court; or
+    (iv) as an officer of the High Court or of the District Court; or
   (haa)
   (ha) a party to a prison management contract entered into under section 198(1) of the Corrections Act 2004 or to a security contract entered into under section 166 of the Corrections Act 2004; or
   (hb) a security officer within the meaning of section 3(1) of the Corrections Act 2004:
@@ -126,7 +126,7 @@ A jury list remains current until it is replaced by a new list provided by the E
   (b) disqualified according to section 7; or
   (c) not to serve on any jury according to section 8; or
   (d) otherwise prevented or excused from serving on a jury by this Act or by order of a Judge; or
-  (da) an applicant for deferral of jury service, under section 14B, whose application has been accepted but who has not yet been issued with a replacement summons under section 14C(1)(d); or
+  (da) an applicant for deferral of jury service, under section 14B, whose application has been accepted but who has not yet been issued with a replacement summons under section 14C(1)﻿(d); or
   (e) dead.
 (2) In exercising the power to amend the jury list, the Registrar may act on his or her own knowledge, or on such evidence as he or she considers satisfactory.
 
@@ -137,8 +137,8 @@ A jury list remains current until it is replaced by a new list provided by the E
 (3) Every person who is summoned for jury service shall be liable to serve until the end of the week for which that person was summoned.
 (3A) Subsection (3) does not apply to a person who is summoned for jury service if—
   (a) the Registrar has, following an application under section 14B, permitted the person to defer that person's jury service and—
-    (i) the person is summoned under a replacement summons issued under section 14C(1)(c) (in which case the person is liable to serve until the end of the week for which the person is summoned under the replacement summons); or
-    (ii) the Registrar has served on the person a written notice under section 14C(1)(d) (in which case the person is no longer liable to serve as a juror as a result of the summons in respect of which the application under section 14B was made); or
+    (i) the person is summoned under a replacement summons issued under section 14C(1)﻿(c) (in which case the person is liable to serve until the end of the week for which the person is summoned under the replacement summons); or
+    (ii) the Registrar has served on the person a written notice under section 14C(1)﻿(d) (in which case the person is no longer liable to serve as a juror as a result of the summons in respect of which the application under section 14B was made); or
   (b) the Registrar has, under section 15, excused the person from jury service on a particular occasion; or
   (ba) the Registrar has, under section 15A, excused the person from jury service permanently (unless the person's permanent excusal is cancelled under section 15A(3) before the person is summoned for jury service); or
   (c) a Judge has, under section 16, excused the person from jury service on a particular occasion; or
@@ -185,7 +185,7 @@ A jury list remains current until it is replaced by a new list provided by the E
   (b) a barrister or solicitor appointed under section 14AC and acting in respect of a request under subsection (1) for a party to proceedings that are due to be heard during that week and who is a litigant in person; or
   (c) the Crown or other prosecutor in criminal proceedings that are due to be heard during that week and that are a public prosecution; or
   (d) a Police employee who is performing a function of the Police in respect of, but is not personally concerned in the facts of, or closely connected with a party or witness or prospective witness in, proceedings that are due to be heard during that week.
-(3) A barrister or solicitor to whom a copy of protected particulars is made available under subsections (1) and (2)(a) or (b) must use the copy or any copies of it (the document) to help the party referred to in subsection (2)(a) or (b) to exercise rights of challenge under sections 23 to 26.
+(3) A barrister or solicitor to whom a copy of protected particulars is made available under subsections (1) and (2)﻿(a) or (b) must use the copy or any copies of it (the document) to help the party referred to in subsection (2)﻿(a) or (b) to exercise rights of challenge under sections 23 to 26.
 (4) However, an eligible person (despite subsection (3)),—
   (a) must not show the document or disclose all or any of its contents to a person (in this subsection called a prohibited person) who is not a person of one of the following kinds:
     (i) an eligible person:
@@ -207,7 +207,7 @@ A jury list remains current until it is replaced by a new list provided by the E
 (4) Fees for professional services provided, and reasonable expenses incurred, by the barrister or solicitor in performing that function—
   (a) must, after a bill for them is submitted, be determined by the Registrar in accordance with any currently in force relevant general directions under subsection (5); and
   (b) are payable out of public money appropriated by Parliament for the purpose.
-(5) The chief executive may from time to time give written general directions as to how the Registrar must determine under subsection (4)(a) the fees and expenses.
+(5) The chief executive may from time to time give written general directions as to how the Registrar must determine under subsection (4)﻿(a) the fees and expenses.
 (6) The general directions are in force until revoked or revoked and replaced in writing, and may (without limitation) require the Registrar, unless satisfied in a particular case that a specified exception applies, to determine the fees and expenses using specified, or specified ranges of, rates or amounts.
 (7) The ranges, rates, or amounts may differ according to—
   (a) the time spent and the complexity of the proceedings:
@@ -221,10 +221,10 @@ A jury list remains current until it is replaced by a new list provided by the E
   (b) is specified by the Registrar but lasts for at least 1 month; and
   (c) the person has indicated would be a more convenient period for the commencement of any jury service of that person that may result from the person having been summoned to attend as a juror.
 (2) However, the Registrar may exercise that power—
-  (a) only in respect of a summons that is not a replacement summons under section 14C(1)(d); and
+  (a) only in respect of a summons that is not a replacement summons under section 14C(1)﻿(d); and
   (b) only once for each summons of that kind; and
   (c) only if satisfied, on a written application for the purpose made by or on behalf of that person, that, because of 1 or more matters specified in subsection (3), attendance on that occasion would cause or result in undue hardship or serious inconvenience to that person, any other person, or the general public.
-(3) The matters referred to in subsection (2)(c) (and in section 15(1A)(a) and (c)) are—
+(3) The matters referred to in subsection (2)﻿(c) (and in section 15(1A)﻿(a) and (c)) are—
   (a) the nature of that person's occupation or business, or of any special and pressing commitment arising in the course of that person's occupation or business:
   (b) that person's disability:
   (c) that person's state of health, or family commitments, or other personal circumstances.
@@ -235,10 +235,10 @@ A jury list remains current until it is replaced by a new list provided by the E
   (b) promptly delete the person's details from the panel that was—
     (i) compiled under section 13(1); and
     (ii) the basis of the issue of that summons; and
-  (c) if a later panel is compiled under section 13(1) because jury trials are to be held in the court and that later panel is so compiled at a time that enables the person to be summoned for jury service at a time within the period specified for the person under section 14B(1)(b), ensure the person's details are included, in accordance with the jury rules, in that later panel and promptly issue under section 13(1), and on the basis of that later panel, a replacement summons that states a time within that period; and
-  (d) if satisfied that no jury trials are to be held in the court during the period specified for the person under section 14B(1)(b) and therefore that it is unnecessary to compile under section 13(1) a later panel at a time that would enable the person to be summoned to attend for jury service at a time within that period, promptly serve on the person, in accordance with the jury rules, written notice that the person is no longer liable to serve as a juror as a result of the summons in relation to which the application under section 14B was made.
+  (c) if a later panel is compiled under section 13(1) because jury trials are to be held in the court and that later panel is so compiled at a time that enables the person to be summoned for jury service at a time within the period specified for the person under section 14B(1)﻿(b), ensure the person's details are included, in accordance with the jury rules, in that later panel and promptly issue under section 13(1), and on the basis of that later panel, a replacement summons that states a time within that period; and
+  (d) if satisfied that no jury trials are to be held in the court during the period specified for the person under section 14B(1)﻿(b) and therefore that it is unnecessary to compile under section 13(1) a later panel at a time that would enable the person to be summoned to attend for jury service at a time within that period, promptly serve on the person, in accordance with the jury rules, written notice that the person is no longer liable to serve as a juror as a result of the summons in relation to which the application under section 14B was made.
 (2) If the Registrar declines an application under section 14B, the applicant may, in accordance with the jury rules, appeal against that decision to the court before which the applicant is summoned to appear.
-(3) The acceptance of an application under section 14B in respect of a summons does not prevent an application under section 15, 15A, or 16 in respect of a replacement summons under subsection (1)(d) of this section.
+(3) The acceptance of an application under section 14B in respect of a summons does not prevent an application under section 15, 15A, or 16 in respect of a replacement summons under subsection (1)﻿(d) of this section.
 (4) The Registrar may, if the Registrar thinks fit, treat an application under section 14B as if it were an application for excusal under section 15(1) and, if the Registrar does so, the application must be determined accordingly.
 
 ### 14D Deferral of, or excusal from, jury service of person subject to home detention for less than 3 months
@@ -280,7 +280,7 @@ A jury list remains current until it is replaced by a new list provided by the E
 (4) The Judge may excuse the person from attending on that occasion if satisfied of either of the following:
   (a) a ground on which the Registrar could have excused that person under section 15; or
   (b) that the person objects to jury service on grounds of conscience, whether or not of a religious character.
-(5) Subsection (4)(a) applies whether or not the Registrar has declined to do either or both of the following:
+(5) Subsection (4)﻿(a) applies whether or not the Registrar has declined to do either or both of the following:
   (a) permit the person to defer jury service under section 14B:
   (b) excuse the person from attending as a juror (whether on that occasion, or in any court on any occasion) under section 15 or 15A.
 
@@ -319,7 +319,7 @@ After the jury is constituted but before the case is opened or the defendant giv
 (1) When this subsection applies, the court, having regard to the interests of justice, may either—
   (a) discharge the jury without the jury giving a verdict (whether unanimous or majority); or
   (b) discharge the juror or jurors concerned from the panel and jury and, subject to subsection (1A), proceed with the remaining jurors and take their verdict (whether unanimous or majority).
-(1A) The court may proceed with fewer than 10 jurors under subsection (1)(b) only if all parties consent to doing so and the court, having regard to the interests of justice, considers that it should do so.
+(1A) The court may proceed with fewer than 10 jurors under subsection (1)﻿(b) only if all parties consent to doing so and the court, having regard to the interests of justice, considers that it should do so.
 (2) Subsection (1) applies if, and only if, before or after the jury is constituted but before the jury’s verdict is taken, the court considers that—
   (a) a juror is incapable of performing, or continuing to perform, the juror’s duty as a juror in the case; or
   (b) a juror is disqualified; or
@@ -335,14 +335,14 @@ After the jury is constituted but before the case is opened or the defendant giv
 (5) In this section and sections 22A and 22B, court includes, without limitation, a Judge of the court.
 
 ### 22A Consequences of discharge under section 22
-(1) If a juror is discharged under section 22(1)(b),—
+(1) If a juror is discharged under section 22(1)﻿(b),—
   (a) the discharge of the juror does not affect the juror’s liability to serve on any other jury:
   (b) the court may, if the discharge occurs before the case is opened or the defendant is given in charge, require a further juror to be selected from the panel and sworn under sections 18 and 20:
   (c) the choice of a foreperson is not affected (even if 1 or more replacement jurors are selected and sworn under paragraph (b)) if that choice has already been made and the juror who was chosen as foreperson is not the juror discharged:
   (d) if the juror has, by the time he or she is discharged, been chosen as foreperson, another foreperson must be chosen under section 21 from among the other jurors (including any 1 or more replacement jurors selected and sworn under paragraph (b)).
 (2)
-(3) If the court proceeds with fewer than 12 jurors under section 22(1)(b), their verdict (whether unanimous or majority) has, despite section 17, the same effect as a verdict of 12 jurors.
-(4) On discharging the jury under section 22(1)(a) or (3), the court must either—
+(3) If the court proceeds with fewer than 12 jurors under section 22(1)﻿(b), their verdict (whether unanimous or majority) has, despite section 17, the same effect as a verdict of 12 jurors.
+(4) On discharging the jury under section 22(1)﻿(a) or (3), the court must either—
   (a) direct that a new jury be empanelled during the sitting of the court; or
   (b) postpone the trial on any terms justice requires.
 
@@ -373,7 +373,7 @@ If any person selected as a juror is—he may be challenged, and shall be discha
 ### 24 Challenges without cause
 (1) In every case to be tried before a jury, each of the parties is entitled to challenge without cause 4 jurors only.
 (2) However, if 2 or more defendants in a criminal case are charged together, the Crown or other prosecutor is entitled to challenge without cause 8 jurors only.
-(3) If a juror is discharged and is to be replaced with another under section 22A(1)(b), each party is entitled in the selection of the new juror to exercise the number of challenges without cause that the party has not already exercised.
+(3) If a juror is discharged and is to be replaced with another under section 22A(1)﻿(b), each party is entitled in the selection of the new juror to exercise the number of challenges without cause that the party has not already exercised.
 
 ### 25 Challenges for cause
 (1) In addition to the right to challenge under sections 23 and 24, each party to the proceedings is entitled to any number of challenges for cause on the ground that—
@@ -476,8 +476,8 @@ Where any party in a civil case requires a jury, that party shall pay to the Reg
   (a) dismisses, or threatens to dismiss, the employee without the consent of the employee:
   (b) otherwise prejudices the position of the employee without the consent of the employee.
 (2) If an employer is alleged to have committed, or is convicted of, an offence against subsection (1) in respect of an action and an employee, then that employee,—
-  (a) if that action consists of or includes dismissal, may have a personal grievance, for the purposes of section 103(1)(a) of the Employment Relations Act 2000, because of an unjustifiable dismissal, and Part 9 of that Act applies accordingly; and
-  (b) if that action consists of an action other than dismissal or includes an action in addition to dismissal, may have a personal grievance, for the purposes of section 103(1)(b) of the Employment Relations Act 2000, because of an action described in that paragraph, and Part 9 of that Act applies accordingly.
+  (a) if that action consists of or includes dismissal, may have a personal grievance, for the purposes of section 103(1)﻿(a) of the Employment Relations Act 2000, because of an unjustifiable dismissal, and Part 9 of that Act applies accordingly; and
+  (b) if that action consists of an action other than dismissal or includes an action in addition to dismissal, may have a personal grievance, for the purposes of section 103(1)﻿(b) of the Employment Relations Act 2000, because of an action described in that paragraph, and Part 9 of that Act applies accordingly.
 (3) In this section,—
   - **employee** has the meaning given in section 6 of the Employment Relations Act 2000
   - **otherwise prejudicing the position of the employee** —
@@ -506,7 +506,7 @@ No verdict shall be in any way affected merely because—
   (c) of any error, omission, or informality in any jury list, panel, or other document.
 
 ### 34 District from which jury to be summoned for Court of Appeal
-Where a jury is directed to be summoned under Part 2 of the Judicature Act 1908 (relating to the Court of Appeal), the High Court shall direct from what jury district the jury shall be summoned.
+[Repealed]
 
 ### 35 Jury rules
 (1) Subject to subsection (2), the Governor-General may from time to time, by Order in Council, make rules for all or any of the following purposes:
@@ -527,7 +527,7 @@ Where a jury is directed to be summoned under Part 2 of the Judicature Act 1908 
     (i) an application under section 14B for deferral of jury service:
     (ii) an application under section 15, 15A, or 16 to be excused from jury service:
     (iii) an application under section 15A(3) for cancellation of an excusal under section 15A(2):
-  (da) prescribing the method or methods of service for a written notice under section 14C(1)(d):
+  (da) prescribing the method or methods of service for a written notice under section 14C(1)﻿(d):
   (e) requiring a record to be kept of all jurors who are summoned to attend the court; and prescribing the form and manner in which that record is to be compiled:
   (f) prescribing the method, methods, or the specifications of the method, for selecting a jury:
   (fa) prescribing the manner in which challenges are to be made and dealt with:
