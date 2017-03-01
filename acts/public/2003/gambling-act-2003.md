@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2016-10-03_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -1802,8 +1802,8 @@ A corporate society that mainly or wholly distributes net proceeds to the commun
   (b) a corporate society fails to apply or distribute net proceeds from class 4 gambling within a time period prescribed by regulations made under section 114; or
   (c) the Secretary considers that it is necessary in order to recover net proceeds from class 4 gambling that have been improperly paid to a person.
 (2) An application for an order must be made to—
-  (a) the High Court if the net proceeds from class 4 gambling are, or are estimated to be, more than $200,000; or
-  (b) the District Court if the net proceeds from class 4 gambling are, or are estimated to be, $200,000 or less.
+  (a) the High Court if the net proceeds from class 4 gambling are, or are estimated to be, more than $350,000; or
+  (b) the District Court if the net proceeds from class 4 gambling are, or are estimated to be, $350,000 or less.
 (3) On application by the Secretary under this section, the High Court or the District Court may—
   (a) make whatever orders are necessary to recover an amount improperly paid out, applied, or distributed; or
   (b) order the application or distribution of an amount not yet applied or distributed.
@@ -3062,7 +3062,7 @@ Schedule 3 applies to the Gambling Commission.
   (d) a decision by the Secretary to refuse to renew a class 3 operator’s licence, class 4 operator’s licence, or class 4 venue licence:
   (e) a decision by the Secretary to refuse to amend a class 3 operator’s licence, class 4 operator’s licence, or class 4 venue licence.
 (3) In this section, apply for judicial review means—
-  (a) to make an application for review of the decision under Part 1 of the Judicature Amendment Act 1972; or
+  (a) to make an application for review of the decision under the Judicial Review Procedure Act 2016; or
   (b) to institute proceedings seeking any writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in respect of that decision.
 
 ### Subpart 2 — New Zealand Lotteries Commission
@@ -3777,7 +3777,7 @@ The explanatory note of regulations made under section 319(1) must indicate that
 
 ### 320 Calculating levy
 (1) The formula in subsection (2) provides a mechanism for allocating among gambling operators, and collecting from them, the approximate cost of an integrated problem gambling strategy.
-(2) The following formula is to be used to assist in estimating the proposed levy rates payable by gambling operators: levy rate =(((A × W1) + (B × W2)) × C) ± RDwhere—Ais the estimated current player expenditure in a sector divided by the total estimated current player expenditure in all sectors subject to the levyBis the customer presentations to problem gambling services that can be attributed to gambling in a sector divided by total customer presentations to problem gambling services in which a sector that is subject to the levy can be identifiedCis the funding requirement for the period for which the levy is payableDis the forecast player expenditure in a sector for the period during which the levy is payableRis the estimated under-recovery or over-recovery of levy from a sector in previous levy periodsW1 and W2are weights, the sum of which is 1.
+(2) The following formula is to be used to assist in estimating the proposed levy rates payable by gambling operators:levy rate = ({[(A × W1) + (B × W2)] × C} ± R) ÷ Dwhere—Ais the estimated current player expenditure in a sector divided by the total estimated current player expenditure in all sectors subject to the levyBis the customer presentations to problem gambling services that can be attributed to gambling in a sector divided by total customer presentations to problem gambling services in which a sector that is subject to the levy can be identifiedCis the funding requirement for the period for which the levy is payableDis the forecast player expenditure in a sector for the period during which the levy is payableRis the estimated under-recovery or over-recovery of levy from a sector in previous levy periodsW1 and W2are weights, the sum of which is 1.
 (3) In this section,—
   (a) player expenditure,—
     (i) for the New Zealand Racing Board, has the same meaning as betting profits in section 4(2) and (3) of the Gaming Duties Act 1971; and
