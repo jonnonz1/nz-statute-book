@@ -1,5 +1,5 @@
 # Family Protection Act 1955
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to claims for maintenance and support out of the estates of deceased persons
 
@@ -48,10 +48,10 @@ This Act may be cited as the Family Protection Act 1955.
 (2) In considering any application by a grandchild of any deceased person for provision out of the estate of that person, the court, in considering the moral duty of the deceased at the date of his death, shall have regard to all the circumstances of the case, and shall have regard to any provision made by the deceased, or by the court in pursuance of this Act, in favour of either or both of the grandchild's parents.
 
 ### 3A Courts to have concurrent jurisdiction
-(1) Subject to the succeeding provisions of this section, the High Court and a Family Court shall each have jurisdiction in respect of proceedings under this Act.
-(2) A Family Court shall not have jurisdiction in respect of any application under this Act if, at the date of the filing of the application, proceedings relating to the same matter have already been commenced in the High Court.
+(1) Subject to the succeeding provisions of this section, the High Court and the Family Court shall each have jurisdiction in respect of proceedings under this Act.
+(2) The Family Court shall not have jurisdiction in respect of any application under this Act if, at the date of the filing of the application, proceedings relating to the same matter have already been commenced in the High Court.
 (3) Notwithstanding anything in subsection (1), if a Family Court Judge is of the opinion that any proceedings under this Act, or any question in any such proceedings, would be more appropriately dealt with in the High Court, the Judge may, upon application by any party to the proceedings or without any such application, refer the proceedings or the question to the High Court.
-(4) The High Court, upon application by any party to any proceedings pending under this Act in a Family Court, shall order that the proceedings be removed into the High Court unless it is satisfied that the proceedings would be more appropriately dealt with in a Family Court. Where the proceedings are so removed, they shall be continued in the High Court as if they had been properly and duly commenced in that court.
+(4) The High Court, upon application by any party to any proceedings pending under this Act in the Family Court, shall order that the proceedings be removed into the High Court unless it is satisfied that the proceedings would be more appropriately dealt with in the Family Court. Where the proceedings are so removed, they shall be continued in the High Court as if they had been properly and duly commenced in that court.
 
 ### 4 Claims against estate of deceased person for maintenance
 (1) If any person (referred to in this Act as the deceased) dies, whether testate or intestate, and in terms of his or her will or as a result of his or her intestacy adequate provision is not available from his or her estate for the proper maintenance and support of the persons by whom or on whose behalf application may be made under this Act, the court may, at its discretion on application so made, order that any provision the court thinks fit be made out of the deceased's estate for all or any of those persons.
@@ -130,15 +130,15 @@ In making any order under this Act for provision out of the estate of a deceased
 [Repealed]
 
 ### 15 Right of appeal
-(1AA) This subsection applies to a decision of a Family Court or District Court, in proceedings under this Act, to—
+(1AA) This subsection applies to a decision of the Family Court or the District Court, in proceedings under this Act, to—
   (a) make or refuse to make an order; or
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (1) A party to proceedings in which there is made a decision to which subsection (1A) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
-(1A) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
-(2) On the ex parte application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(1A) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
+(2) On the ex parte application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under section 126(1) of the District Court Act 2016 to give the Registrar of the High Court security for costs.
 (2A) Subsection (2) overrides subsection (1A).
-(3) The provisions of the Judicature Act 1908 relating to appeals to the Court of Appeal against decisions of the High Court shall apply with respect to any order or decision of the High Court under this section.
+(3) The provisions of the Senior Courts Act 2016 relating to appeals to the Court of Appeal against decisions of the High Court shall apply with respect to any order or decision of the High Court under this section.
 (4)
 (5) The High Court or (as the case may be) the Court of Appeal may, in its discretion, rehear the whole or any part of the evidence, or may receive further evidence, if it thinks that the interests of justice so require.
 
