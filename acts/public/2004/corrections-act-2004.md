@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2016-12-22_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -2483,7 +2483,7 @@ Any constable or officer may arrest without warrant any person who, having been 
 (1) This section and sections 186 to 189 apply in any case where any person suffers, whether before or after the commencement of this section, any loss of, or damage to, any real or personal property through, or by means of, any act or omission of an escaper (being an act or omission that occurred in New Zealand)—
   (a) that was intended to facilitate the flight of the escaper or the avoidance of his or her recapture; or
   (b) that occurred in the course of his or her escaping or attempting to escape or while he or she was fleeing to avoid recapture.
-(2) Any person who suffers any loss or damage to which this section applies may apply to any District Court, in accordance with the applicable rules of court, for compensation for that loss or damage, and the court may award under this section to, or for the benefit of, the applicant compensation in respect of any 1 or more of the following matters:
+(2) Any person who suffers any loss or damage to which this section applies may apply to the District Court, in accordance with the applicable rules of court, for compensation for that loss or damage, and the court may award under this section to, or for the benefit of, the applicant compensation in respect of any 1 or more of the following matters:
   (a) actual loss of, or damage to, any property:
   (b) expenses actually and reasonably incurred in recovering any property that has been stolen or removed:
   (c) expenses actually and reasonably incurred as a result of the loss of the use of any property for any period.
@@ -2531,7 +2531,7 @@ Any constable or officer may arrest without warrant any person who, having been 
 (3) Without limiting the generality of subsection (2), the court may receive in evidence—
   (a) any notes of evidence or depositions taken at any trial of the escaper in respect of any alleged offence arising out of the act or omission on which a claim under section 185 is based; or
   (b) any notes of evidence taken in any civil proceedings arising out of that act or omission.
-(4) There is no right of appeal against a determination of a District Court under section 185 or this section, except by way of an appeal to the High Court on a point of law.
+(4) There is no right of appeal against a determination of the District Court under section 185 or this section, except by way of an appeal to the High Court on a point of law.
 
 **Detection, interception, etc, of radiocommunications within prison boundaries**
 
