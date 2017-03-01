@@ -1,5 +1,5 @@
 # Victims' Orders Against Violent Offenders Act 2014
-_Consolidation as at 2014-06-30_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Victims' Orders Against Violent Offenders Act 2014.
@@ -18,7 +18,7 @@ This Act—
 In this Act, unless the context otherwise requires,—
   - **associate** means a person against whom a final non-contact order applies pursuant to a direction made under section 12
   - **child** means a boy or girl under the age of 14 years
-  - **court** means a District Court, and includes a District Court Judge
+  - **court** means the District Court, and includes a District Court Judge
   - **encourage** includes to incite, counsel, or procure
   - **final non-contact order** means a non-contact order referred to in section 9(4)
   - **immediate family** , in relation to a victim,—
@@ -55,7 +55,7 @@ In this Act, unless the context otherwise requires,—
 (1) In this Act, violent offender or offender, in relation to a victim, means a person who at any time—
   (a) has been convicted of a violent offence that affected the victim; and
   (b) has been sentenced to a term of imprisonment of more than 2 years in respect of that offence.
-(2) For the purposes of subsection (1)(b), it does not matter if,—
+(2) For the purposes of subsection (1)﻿(b), it does not matter if,—
   (a) at the time the sentence of imprisonment was imposed, the person was already subject to a term of imprisonment for 1 or more other offences; or
   (b) the sentence of imprisonment was imposed concurrently with another sentence of imprisonment for 1 or more other offences.
 
@@ -83,7 +83,7 @@ This Act binds the Crown.
   (c) the Registrar of the court in which the application is made has good reason to believe that the full name and address of the offender is known to—
     (i) the Commissioner of Police:
     (ii) the chief executive of the Department of Corrections.
-(2) If this section applies, the Registrar may request either or both of the persons specified in subsection (1)(c)(i) and (ii) to supply to the Registrar the full name and address of the offender.
+(2) If this section applies, the Registrar may request either or both of the persons specified in subsection (1)﻿(c)﻿(i) and (ii) to supply to the Registrar the full name and address of the offender.
 (3) As soon as practicable after receiving a request under subsection (2), a person must—
   (a) respond to that request; and
   (b) supply to the Registrar the information requested if that information is known.
@@ -136,7 +136,7 @@ This Act binds the Crown.
 ### 12 Application for direction that final non-contact order apply against other persons
 (1) A victim may apply to the court for a direction that a final non-contact order against the offender also apply against any other person named in the application on the grounds that—
   (a) the person—
-    (i) has been encouraged by the offender to engage in behaviour of the kind described in section 11(1)(a); and
+    (i) has been encouraged by the offender to engage in behaviour of the kind described in section 11(1)﻿(a); and
     (ii) has engaged in any of those kinds of behaviour; and
   (b) the person's behaviour has been, and continues to be, detrimental to the victim's ability to manage the effects of the offending.
 (2) An application may be made under subsection (1)—
@@ -145,7 +145,7 @@ This Act binds the Crown.
 (3) On hearing an application made under subsection (1), the court may direct that the final non-contact order apply against any other person named in the application if the court is satisfied that—
   (a) the grounds in that subsection have been established; and
   (b) the person engaged in the behaviour without a lawful purpose.
-(4) Where, pursuant to subsection (3), a final non-contact order applies against any person, that person is prohibited from engaging in behaviour of the kind described in section 11(1)(a).
+(4) Where, pursuant to subsection (3), a final non-contact order applies against any person, that person is prohibited from engaging in behaviour of the kind described in section 11(1)﻿(a).
 
 **Commencement of non-contact orders**
 
@@ -170,9 +170,9 @@ This Act binds the Crown.
 (1) The victim or the offender may at any time make an application to have a final non-contact order varied.
 (2) On the hearing of an application made under subsection (1), the court may, if it thinks fit,—
   (a) vary or discharge a prohibition specified in 1 or more of the following:
-    (i) section 11(1)(c):
-    (ii) section 11(1)(d):
-    (iii) section 11(1)(e):
+    (i) section 11(1)﻿(c):
+    (ii) section 11(1)﻿(d):
+    (iii) section 11(1)﻿(e):
   (b) vary or discharge a condition or direction imposed under section 11(2):
   (c) reduce or extend the duration of the order, whether by specifying a period under section 14(1) or by reducing or extending any such specified period.
 (3) The court must not extend the duration of a final non-contact order under this section unless the court is satisfied that the extension is, in all of the circumstances, justified.
@@ -269,25 +269,25 @@ In any proceedings under this Act (other than criminal proceedings), and whether
 **Rules**
 
 ### 28 Rules of court
-(1) In addition to all the other powers conferred by the District Courts Act 1947, the Governor-General may from time to time, by Order in Council, make rules—
-  (a) regulating the practice and procedure of District Courts in proceedings under this Act:
+(1) In addition to all the other powers conferred by the District Court Act 2016, the Governor-General may from time to time, by Order in Council, make rules—
+  (a) regulating the practice and procedure of the District Court in proceedings under this Act:
   (b) providing for such matters as are contemplated by this Act or necessary for giving full effect to its provisions and for its due administration.
 (2) Without limiting subsection (1), rules made under that subsection may—
   (a) prescribe such forms as are necessary for the purposes of this Act, or authorise any specified person or persons to prescribe or approve forms, and require the use of such forms:
-  (b) apply, with or without modification, provisions of the District Courts Rules 2014.
-(3) In the absence of any rules under this section or in any situation not covered by such rules, the District Courts Rules 2014 apply, with all necessary modifications, to proceedings under this Act.
+  (b) apply, with or without modification, provisions of the District Court Rules 2014.
+(3) In the absence of any rules under this section or in any situation not covered by such rules, the District Court Rules 2014 apply, with all necessary modifications, to proceedings under this Act.
 
 **Sharing of information relating to criminal proceedings**
 
 ### 29 Amendment to Criminal Procedure Act 2011
 (1) This section amends the Criminal Procedure Act 2011.
-(2) In section 387(1)(h), replace or the Harassment Act 1997 with , the Harassment Act 1997, or the Victims' Orders Against Violent Offenders Act 2014.
+(2) In section 387(1)﻿(h), replace or the Harassment Act 1997 with , the Harassment Act 1997, or the Victims' Orders Against Violent Offenders Act 2014.
 
 **Sharing of information about non-contact orders**
 
 ### 30 Amendment to Privacy Act 1993
 (1) This section amends the Privacy Act 1993.
-(2) In Schedule 5, under the heading Police records, insert after the item relating to restraining orders:Non-contact ordersDetails of non-contact orders made under the Victims' Orders Against Violent Offenders Act 2014Department of Corrections (access is limited to obtaining information about any offender who is subject to a non-contact order while also subject to—Access is for the purpose of managing the offender's sentence and any post-sentence conditions in a manner consistent with any non-contact order.)
+(2) In Schedule 5, under the heading Police records, insert after the item relating to restraining orders:The following table is small in size and has 3 columns. This table is an amendment to the table in Schedule 5 of the Privacy Act 1993 and should be read with that table to provide understanding of the context.Non-contact ordersDetails of non-contact orders made under the Victims' Orders Against Violent Offenders Act 2014Department of Corrections (access is limited to obtaining information about any offender who is subject to a non-contact order while also subject to—Access is for the purpose of managing the offender's sentence and any post-sentence conditions in a manner consistent with any non-contact order.)
   (a) a full-time custodial sentence (including while released on parole or subject to an extended supervision order made under section 107I of the Parole Act 2002 or to conditions imposed under section 93 of the Sentencing Act 2002); or
   (b) a sentence of intensive supervision, community detention, community work, or supervision; or
   (c) a non-association order; or
