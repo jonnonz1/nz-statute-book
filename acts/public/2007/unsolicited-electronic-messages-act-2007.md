@@ -1,5 +1,5 @@
 # Unsolicited Electronic Messages Act 2007
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Unsolicited Electronic Messages Act 2007.
@@ -146,7 +146,7 @@ This Act binds the Crown.
 
 ### 9 Unsolicited commercial electronic messages must not be sent
 (1) A person must not send, or cause to be sent, an unsolicited commercial electronic message that has a New Zealand link.
-(2) If a recipient uses an unsubscribe facility in accordance with section 11(1)(a), the recipient's consent to receiving a commercial electronic message from the sender is deemed to have been withdrawn with effect from the day that is 5 working days after the day on which the unsubscribe facility was used.
+(2) If a recipient uses an unsubscribe facility in accordance with section 11(1)﻿(a), the recipient's consent to receiving a commercial electronic message from the sender is deemed to have been withdrawn with effect from the day that is 5 working days after the day on which the unsubscribe facility was used.
 (3) A person who contends that a recipient consented to receiving a commercial electronic message has the onus of proof in relation to that matter.
 
 ### 10 Commercial electronic messages must include accurate sender information
@@ -288,7 +288,7 @@ If an enforcement officer has reasonable grounds to believe that a person has co
 (2) A civil infringement notice may be issued—
   (a) by delivering it to the person alleged to have committed the civil liability event; or
   (b) by post, addressed to that person's last known place of residence or business.
-(3) A civil infringement notice issued to a person in accordance with subsection (2)(b) is deemed to have been issued on the day it was posted.
+(3) A civil infringement notice issued to a person in accordance with subsection (2)﻿(b) is deemed to have been issued on the day it was posted.
 
 ### 26 Form of civil infringement notices
 A civil infringement notice must—
@@ -311,7 +311,7 @@ A civil infringement notice must—
   (c) must, as soon as reasonably practicable, notify the objector in writing—
     (i) as to whether the objection has been turned down, upheld, or upheld in part; and
     (ii) of the effect of the enforcement officer's decision.
-(3) A person may not object to a civil infringement notice that has been altered by an enforcement officer under subsection (2)(b).
+(3) A person may not object to a civil infringement notice that has been altered by an enforcement officer under subsection (2)﻿(b).
 
 ### 28 Withdrawal of civil infringement notice
 (1) An enforcement officer may, by written notice (the withdrawal notice) given to a person who has been issued with a civil infringement notice, withdraw the civil infringement notice.
@@ -340,20 +340,20 @@ A civil infringement notice must—
 (1) The consequence specified in subsection (2) applies if a person—
   (a) is issued with a civil infringement notice; and
   (b) fails to pay all, or any part, of the penalty specified in the notice by the time specified in the notice.
-(2) The consequence is that an enforcement officer may recover from the person, as a debt due to the enforcement department, in a District Court,—
+(2) The consequence is that an enforcement officer may recover from the person, as a debt due to the enforcement department, in the District Court,—
   (a) the unpaid portion of the penalty; and
   (b) the actual and reasonable costs of recovery awarded against the person by that court.
 (3) In any proceedings for the recovery of a debt under this section, the District Court must not enter judgment in favour of the enforcement department unless it is satisfied that the circumstances in subsection (1) exist.
 
 ### 32 Right to appeal
-(1) A person may appeal to a District Court if the person is dissatisfied with a decision of an enforcement officer to—
+(1) A person may appeal to the District Court if the person is dissatisfied with a decision of an enforcement officer to—
   (a) turn down the person's objection to a civil infringement notice; or
   (b) alter a civil infringement notice.
-(2) An appeal under subsection (1) must be brought within 20 working days after the date on which the notice under section 27(2)(c) is given.
+(2) An appeal under subsection (1) must be brought within 20 working days after the date on which the notice under section 27(2)﻿(c) is given.
 (3) An appeal under subsection (1) does not operate as a stay of the civil infringement notice.
 
 ### 33 Decision on appeal
-(1) A District Court must determine an appeal under section 32 by dismissing or allowing the appeal.
+(1) The District Court must determine an appeal under section 32 by dismissing or allowing the appeal.
 (2) If the District Court dismisses an appeal, the dismissal must be taken to be an order for the payment of the penalty specified in the civil infringement notice to which the decision under appeal relates.
 (3) If the District Court allows an appeal, it may make an order that the penalty specified in the civil infringement notice to which the decision under appeal relates—
   (a) is varied or cancelled; or
@@ -377,7 +377,7 @@ A civil infringement notice must—
   (d) any other order that the court considers appropriate.
 
 ### 36 Assessment of compensation for breach of undertaking
-For the purposes of section 35(2)(c), in determining whether another person (the victim) has suffered loss or damage as a result of the breach, and in assessing the amount of compensation payable, the court may have regard to the following:
+For the purposes of section 35(2)﻿(c), in determining whether another person (the victim) has suffered loss or damage as a result of the breach, and in assessing the amount of compensation payable, the court may have regard to the following:
   (a) the extent to which any expenses incurred by the victim are attributable to dealing with the breach:
   (b) the effect of the breach on the victim's ability to carry on business or other activities:
   (c) any damage to the reputation of the victim's business that is attributable to dealing with the breach:
@@ -388,8 +388,8 @@ For the purposes of section 35(2)(c), in determining whether another person (the
 
 **General**
 
-### 37 Jurisdiction of District Courts
-(1) In accordance with this Act, District Courts may hear and determine the following matters:
+### 37 Jurisdiction of District Court
+(1) In accordance with this Act, the District Court may hear and determine the following matters:
   (a) recovery of an unpaid penalty specified in a civil infringement notice under section 31:
   (b) appeals from civil infringement notices under sections 32 and 33:
   (c) applications for an order in relation to an undertaking under sections 35 and 36:
@@ -397,10 +397,10 @@ For the purposes of section 35(2)(c), in determining whether another person (the
   (e) applications for compensation or damages under section 46:
   (f) applications for joining of parties or proceedings under section 47:
   (g) applications for a search warrant to search a place or thing under section 51.
-(2) In the exercise of its jurisdiction under this section, a District Court must not—
-  (a) make an order under section 35 directing a person to pay a sum that exceeds $200,000:
-  (b) make an order under section 45 requiring a person to pay a pecuniary penalty that exceeds $200,000:
-  (c) make an order under section 46 requiring a person to pay compensation or damages that, in total, exceed $200,000.
+(2) In the exercise of its jurisdiction under this section, the District Court must not—
+  (a) make an order under section 35 directing a person to pay a sum that exceeds $350,000:
+  (b) make an order under section 45 requiring a person to pay a pecuniary penalty that exceeds $350,000:
+  (c) make an order under section 46 requiring a person to pay compensation or damages that, in total, exceed $350,000.
 
 ### 38 Jurisdiction of High Court
 In accordance with this Act, the High Court may hear and determine the following matters:
@@ -425,8 +425,8 @@ The powers in sections 40 to 44 are in addition to, and do not derogate from, an
 (1) The High Court may grant an injunction requiring a person to do an act or thing if—
   (a) it is satisfied that the person has refused or failed to do that act or thing; or
   (b) it appears to the court that, if an injunction is not granted, it is likely that the person will refuse or fail to do that act or thing.
-(2) Subsection (1)(a) applies whether or not it appears to the court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act or thing.
-(3) Subsection (1)(b) applies whether or not the person has previously refused or failed to do that act or thing or there is an imminent danger of substantial damage to any other person if that person refuses or fails to do that act or thing.
+(2) Subsection (1)﻿(a) applies whether or not it appears to the court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act or thing.
+(3) Subsection (1)﻿(b) applies whether or not the person has previously refused or failed to do that act or thing or there is an imminent danger of substantial damage to any other person if that person refuses or fails to do that act or thing.
 
 ### 42 Restraining injunctions
 (1) The High Court may, on the application of the enforcement department or any other person, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute a contravention of a provision of this Act.
@@ -437,8 +437,8 @@ The powers in sections 40 to 44 are in addition to, and do not derogate from, an
   (a) it is satisfied that the person has engaged in conduct of that kind; or
   (b) it appears to the court that, if an injunction is not granted, it is likely that the person will engage in conduct of that kind.
 (2) The court may grant an interim injunction restraining a person from engaging in conduct of a particular kind if in its opinion it is desirable to do so.
-(3) Subsections (1)(a) and (2) apply whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind.
-(4) Subsections (1)(b) and (2) apply whether or not the person has previously engaged in conduct of that kind or there is an imminent danger of substantial damage to any other person if that person engages in conduct of that kind.
+(3) Subsections (1)﻿(a) and (2) apply whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind.
+(4) Subsections (1)﻿(b) and (2) apply whether or not the person has previously engaged in conduct of that kind or there is an imminent danger of substantial damage to any other person if that person engages in conduct of that kind.
 
 ### 44 Undertaking as to damages not required by enforcement department
 (1) If the enforcement department applies to the High Court for the grant of an interim injunction under this subpart, the court must not, as a condition of granting an interim injunction, require the enforcement department to give an undertaking as to damages.
@@ -530,7 +530,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (a) specifying circumstances from which a recipient may or may not be inferred to have consented to receiving an electronic message:
   (b) setting out further purposes that exclude an electronic message from being a commercial electronic message under section 6:
   (c) specifying conditions for the purposes of section 10(c):
-  (d) specifying conditions for the purposes of section 11(1)(f):
+  (d) specifying conditions for the purposes of section 11(1)﻿(f):
   (e) prescribing the form of a warrant of appointment of an enforcement officer and any particulars that the warrant must contain for the purposes of section 22(2):
   (f) prescribing the form of formal warnings and specifying the manner in which they must be issued under section 23:
   (g) specifying the maximum penalty, which must not exceed $2,000 for each civil liability event alleged to have occurred, that may be required under a civil infringement notice under section 26(b):
