@@ -1,5 +1,5 @@
 # Joint Family Homes Act 1964
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2017-03-01_
 
 > An Act to provide for joint family homes, and for an exemption from gift duty in respect thereof
 
@@ -143,10 +143,10 @@ In this Act, unless the context otherwise requires,—
 (2C) Upon the cancellation under subsection (2A) of a settlement of any property, the Registrar shall make such entries in his register and do all such other things as may be necessary to give effect to subsection (2B).
 (3) No settlement shall be cancelled under paragraph (e) or paragraph (f) of subsection (1)—
   (a) unless the Registrar has, not less than 28 days before the date of the cancellation of the settlement, given notice, by registered letter addressed to the owner or owners of the joint family home, at the said home or any other address known to him, of his intention to cancel the settlement:
-  (b) until every summons to the Registrar under subsection (5) to attend before a District Court to show cause why the settlement should be cancelled has been finally disposed of by that court:
-  (c) in contravention of any order of a District Court under subsection (5).
+  (b) until every summons to the Registrar under subsection (5) to attend before the District Court to show cause why the settlement should be cancelled has been finally disposed of by that court:
+  (c) in contravention of any order of the District Court under subsection (5).
 (4) Where a notice is sent by post in the manner prescribed by paragraph (a) of subsection (3), it shall be deemed to have been given at the time at which the letter would have been delivered in the ordinary course of post.
-(5) Any owner of a joint family home to whom any such notice has been given may, within 28 days after the date of the service on that owner of the said notice, summon the Registrar to attend before a District Court to show cause why the settlement should be cancelled; and the court may make such order in the premises as it considers just.
+(5) Any owner of a joint family home to whom any such notice has been given may, within 28 days after the date of the service on that owner of the said notice, summon the Registrar to attend before the District Court to show cause why the settlement should be cancelled; and the court may make such order in the premises as it considers just.
 (6) The cancellation of any settlement under this Act shall be effected—
   (a) in the case of any land which is subject to the Land Transfer Act 1952, by the Registrar causing a memorial of the cancellation to be entered in the register against the appropriate title:
   (b) in the case of any land which is subject to the Deeds Registration Act 1908, by the Registrar causing an entry thereof to be made under the proper head or title in the index book in the Deeds Register Office:
@@ -159,7 +159,7 @@ In this Act, unless the context otherwise requires,—
 
 ### 11 Vesting of property and proceeds
 (1) Where the husband and wife on whom property is settled under this Act are both living and the settled property is sold, transferred, or otherwise disposed of, the net proceeds (if any) arising from that sale, transfer, or other disposition shall vest in the husband and wife in equal shares.
-(2) Where the husband and wife on whom property is settled under this Act are both living and have not previously ceased to be the legal and beneficial owners of the property, the property shall, upon the cancellation of the settlement, vest in the husband and wife as tenants in common in equal shares without transfer or conveyance, but subject to all mortgages, charges, encumbrances, estates, and interests affecting the settled property when the settlement is cancelled and, if the husband or the wife only was the settlor, to all obligations incurred pursuant to section 9(1)(c).
+(2) Where the husband and wife on whom property is settled under this Act are both living and have not previously ceased to be the legal and beneficial owners of the property, the property shall, upon the cancellation of the settlement, vest in the husband and wife as tenants in common in equal shares without transfer or conveyance, but subject to all mortgages, charges, encumbrances, estates, and interests affecting the settled property when the settlement is cancelled and, if the husband or the wife only was the settlor, to all obligations incurred pursuant to section 9(1)﻿(c).
 (3) Notwithstanding subsection (1), if,—the net proceeds (if any) from the sale, transfer, or other disposition of the settled property shall vest in the settlor or, as the case may require, vest in the settlors in the same proportions as were their respective interests in the property immediately before it was settled.
   (a) the husband and wife on whom property is settled under this Act are both living and have sold, transferred, or otherwise disposed of the settled property; and
   (b) only the husband or the wife was the settlor of the property; or
@@ -196,18 +196,18 @@ In this Act, unless the context otherwise requires,—
   (b) the date on which the memorandum is entered; and
   (c) the date on which the previous settlement was cancelled; and
   (d) the effective date of the settlement, which shall be deemed to be the date of settlement of the previous settlement.
-(3) All the provisions of this Act, except section 3(1)(b) and section 5(5), shall apply with respect to any application to the Registrar made under subsection (2).
+(3) All the provisions of this Act, except section 3(1)﻿(b) and section 5(5), shall apply with respect to any application to the Registrar made under subsection (2).
 (4) Subject to subsection (3), all the provisions of this Act shall apply to any memorandum entered by the Registrar pursuant to subsection (2) as if it were entered by him pursuant to section 7(1), except that—
   (a) where the land to which the application relates is settled on the survivor of the husband and wife on whom the previous settlement was settled, the provisions of this Act shall where necessary be modified accordingly:
-  (b) where, for the purposes of this Act, any period of time is to be calculated from the effective date of settlement of any land settled under this section, that period shall be calculated without regard to any period that may elapse between the date of the cancellation of the previous settlement and the date specified on the memorandum pursuant to subsection (2)(b).
+  (b) where, for the purposes of this Act, any period of time is to be calculated from the effective date of settlement of any land settled under this section, that period shall be calculated without regard to any period that may elapse between the date of the cancellation of the previous settlement and the date specified on the memorandum pursuant to subsection (2)﻿(b).
 (5) For the purposes of subsection (2), the relevant conditions shall be—
   (a) that the disposition of the land settled as a joint family home was for a fully adequate consideration in money or money's worth payable to the persons or person on whom the land was settled; and
   (b) if as at the date of disposition any of those persons was not an undischarged bankrupt, that the share of each of those persons in the net proceeds of disposition was not intermingled with any other property and was applied, or, as the case may require, a sufficient equal part of each share was applied, in or towards the acquisition of the land for which the application to settle is being made; or
   (c) if as at the date of disposition any of those persons was an undischarged bankrupt, that—
     (i) the share of that undischarged bankrupt in the net proceeds of disposition was, as soon as practicable after the date of disposition, given to the Official Assignee of the property of the bankrupt to be applied in accordance with subsection (6); and
     (ii) the share (if any) of the undischarged bankrupt's spouse (if any) in the net proceeds of disposition were dealt with as provided in paragraph (b).
-(6) Notwithstanding anything to the contrary in the Insolvency Act 2006, no part of any net proceeds of disposition given to the Official Assignee of an undischarged bankrupt pursuant to subsection (5)(c)(i) shall, at the time when it was so given, form part of the estate of the bankrupt as administered by the Assignee, but shall be invested by the Assignee in some savings bank or banks and, at the request of the undischarged bankrupt, shall, together with any interest thereon, be applied, or a sufficient part of such net proceeds of disposition and interest shall be applied, in or towards the acquisition of the land for which the application to settle is being made.
-(7) For the purposes of subsection (6), an Official Assignee shall not apply a greater amount of any net proceeds of disposition and interest towards the acquisition of any land than the amount so applied by the spouse (if any) of the undischarged bankrupt pursuant to subsection (5)(b).
+(6) Notwithstanding anything to the contrary in the Insolvency Act 2006, no part of any net proceeds of disposition given to the Official Assignee of an undischarged bankrupt pursuant to subsection (5)﻿(c)﻿(i) shall, at the time when it was so given, form part of the estate of the bankrupt as administered by the Assignee, but shall be invested by the Assignee in some savings bank or banks and, at the request of the undischarged bankrupt, shall, together with any interest thereon, be applied, or a sufficient part of such net proceeds of disposition and interest shall be applied, in or towards the acquisition of the land for which the application to settle is being made.
+(7) For the purposes of subsection (6), an Official Assignee shall not apply a greater amount of any net proceeds of disposition and interest towards the acquisition of any land than the amount so applied by the spouse (if any) of the undischarged bankrupt pursuant to subsection (5)﻿(b).
 (8) Any net proceeds of disposition, and any interest thereon, remaining in the hands of an Official Assignee at the expiry of the period of 6 months after the date of disposition of the land to which those net proceeds relate shall form part of the estate of the undischarged bankrupt to whom those net proceeds would otherwise belong.
 
 ### 13 Power of court to rectify share register
@@ -238,10 +238,10 @@ Nothing in this Act shall relieve any property that is for the time being settle
     (i) so much thereof as has been borrowed on the security of any mortgage, charge, or encumbrance to which paragraph (b) relates; or
     (ii) where there has been no such borrowing, the first $1,000 of the sums so expended or provided; and
   (b) the amount of the sums which, within that period, the husband and wife have, or either of them has,—
-    (i) expended in repaying or provided to repay any mortgage, charge, or encumbrance secured over the settled property in excess of the amount which that husband and wife or either of them is obliged to pay in accordance with the terms of the mortgage, charge, or encumbrance:provided that all sums so repaid or provided shall be taken into account if, by reason of the proviso to subsection (2)(c), the High Court accepts an application made under subsection (1) and directs a mortgage or sale of the settled property; and
+    (i) expended in repaying or provided to repay any mortgage, charge, or encumbrance secured over the settled property in excess of the amount which that husband and wife or either of them is obliged to pay in accordance with the terms of the mortgage, charge, or encumbrance:provided that all sums so repaid or provided shall be taken into account if, by reason of the proviso to subsection (2)﻿(c), the High Court accepts an application made under subsection (1) and directs a mortgage or sale of the settled property; and
     (ii) expended or provided in acquiring any additional, new, substituted, or different estate or interest in the settled property.
 (4) On directing any such cancellation, mortgage, or sale the court may give also all necessary or proper consequential directions.
-(5) In this section and in section 17(1)(c), the expression the specified sum means $103,000 or such greater amount as the Governor-General by Order in Council may, for the time being, prescribe as the specified sum.
+(5) In this section and in section 17(1)﻿(c), the expression the specified sum means $103,000 or such greater amount as the Governor-General by Order in Council may, for the time being, prescribe as the specified sum.
 (6) No Order in Council under subsection (5) shall come into force within 2 years of the coming into force of any other Order in Council made under that subsection.
 
 ### 17 Disposition of proceeds of sale or mortgage
@@ -296,7 +296,7 @@ The money which under paragraph (d) of subsection (1) of section 17 is required 
     (iii) any vesting of the net proceeds of the sale, transfer, or other disposition of the property in the sole settlor or, as the case may require, in the settlors pursuant to section 11(3):
     (iv) any revesting of the property in the sole settlor or, as the case may require, in the settlors pursuant to section 11(4):
   (c) any release or repayment by a joint owner of a joint family home of any money which was charged on the settled property or any part of it at the time of settlement, or any payment made by any such joint owner for the purpose of improving the joint family home, or of acquiring any additional, new, substituted, or different estate or interest in the joint family home.
-(2) Subsection (1)(a) shall not apply to any settlement where—
+(2) Subsection (1)﻿(a) shall not apply to any settlement where—
   (a) the husband and wife on whom the property is settled have, prior to the date of the settlement, been the joint tenants under this Act of any other settled property the settlement of which has been cancelled; and
   (b) the Commissioner of Inland Revenue is not satisfied that—
     (i) the husband and wife contributed in substantially equal shares towards the purchase of the present settled property; or
