@@ -1,5 +1,5 @@
 # Summary Offences Act 1981
-_Consolidation as at 2014-08-24_
+_Consolidation as at 2017-03-01_
 
 > An Act to reform and restate the law relating to summary offences, and to replace the Police Offences Act 1927 and its amendments
 
@@ -437,8 +437,8 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (3) Any person who, on or in any property of which he is the owner or occupier, finds any other person committing an offence against any of the provisions of sections 9 to 11, 29, and 30, is justified in arresting that other person without a warrant; but, if he does so, he shall as soon as practicable call a constable to his aid and deliver the arrested person into the constable's custody.
 
 ### 40 Jurisdiction
-(1) Every offence against this Act shall be punishable on conviction by a District Court presided over by a Judge.
-(2) Notwithstanding subsection (1), a District Court presided over by 2 or more Justices or 1 or more Community Magistrates shall have jurisdiction in respect of offences against sections 4, 7, 17 to 20, 22, 25, 26, and 30 to 38.
+(1) Every offence against this Act shall be punishable on conviction by the District Court presided over by a Judge.
+(2) Notwithstanding subsection (1), the District Court presided over by 2 or more Justices or 1 or more Community Magistrates shall have jurisdiction in respect of offences against sections 4, 7, 17 to 20, 22, 25, 26, and 30 to 38.
 (3)
 
 ### 41 Charge alleging imitation of court documents
