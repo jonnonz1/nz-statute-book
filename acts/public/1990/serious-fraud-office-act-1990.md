@@ -1,5 +1,5 @@
 # Serious Fraud Office Act 1990
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act—ato facilitate the detection and investigation by the Serious Fraud Office of cases of serious or complex fraud; andbto enable proceedings relating to such fraud to be taken expeditiously; andcto provide for matters incidental upon the establishment of the Serious Fraud Office
 
@@ -201,7 +201,7 @@ Any decision by the Director—shall not be challenged, reviewed, quashed, or ca
   (a) the exercise of any power conferred by this Act; or
   (b) the discharge of any duty imposed by this Act,—
 (2) This section shall apply notwithstanding any other provision of any Act or rule of law or equity.
-(3) The expression final decision in subsection (1) does not include a decision in proceedings for an interim order under section 8 of the Judicature Amendment Act 1972.
+(3) The expression final decision in subsection (1) does not include a decision in proceedings for an interim order under section 15 of the Judicial Review Procedure Act 2016.
 
 ### 22 Effect of final decision that exercise of powers unlawful
 (1) In any case where it is declared, in a final decision given in any proceedings in respect of the exercise of any powers conferred by this Act, that the exercise of any powers conferred by this Act is unlawful, to the extent to which the exercise of those powers is declared unlawful the Director shall ensure that forthwith after the decision of the court is given—
