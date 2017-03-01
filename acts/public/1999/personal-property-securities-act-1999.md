@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -1334,7 +1334,7 @@ Sections 165 to 167 do not apply to the registration of a security interest prov
 (1) This section applies to any personal property (the personal property) that—
   (a) falls within the collateral description included in a registered financing statement (the applicable financing statement); and
   (b) has been sold or disposed of under—
-    (i) section 89, 91, or 93 of the District Courts Act 1947; or
+    (i) section 172, 175, or 178 of the District Court Act 2016; or
     (ii) section 137(1), 138, or 141(3)﻿(b) of the Sentencing Act 2002; or
     (iii) section 100L(1)﻿(a) or 100P(1) of the Summary Proceedings Act 1957; or
     (iv) a sale order issued under rule 17.63 of the High Court Rules 2016.
@@ -1347,8 +1347,8 @@ Sections 165 to 167 do not apply to the registration of a security interest prov
 (6) If an order, under subsection (4), cancelling the financing change statement is served on the Registrar within the period of 15 working days referred to in the notice given under subsection (3), the financing change statement will not be registered and may be removed from the register by the Registrar.
 (7) If an order, under subsection (4), cancelling the financing change statement is not served on the Registrar within the period of 15 working days referred to in the notice given under subsection (3), the financing change statement will be registered in accordance with section 144.
 (8) In this section, court registrar—
-  (a) means any registrar of the High Court or of a District Court as appropriate; and
-  (b) includes any deputy registrar of the High Court or of a District Court as appropriate.
+  (a) means any registrar of the High Court or of the District Court as appropriate; and
+  (b) includes any deputy registrar of the High Court or of the District Court as appropriate.
 
 ### 168 Procedure where non-compliance with demand and security trust deed involved
 (1) The court may, on application by the person making the demand under section 162, and if the court is satisfied that 1 or more of the grounds for making a demand under that section exist, make an order directing that the registration be amended or discharged if—
