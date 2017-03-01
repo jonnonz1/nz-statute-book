@@ -1,5 +1,5 @@
 # Electronic Identity Verification Act 2012
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Electronic Identity Verification Act 2012.
@@ -56,11 +56,11 @@ This Act binds the Crown.
 
 ### 7 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **applicable transaction or service** means a transaction or service chosen by a participating agency under section 18(4)(a) as a transaction or service for which the identity of an individual may be verified by electronic means
+  - **applicable transaction or service** means a transaction or service chosen by a participating agency under section 18(4)﻿(a) as a transaction or service for which the identity of an individual may be verified by electronic means
   - **applicant** , except in section 54, means—
     (a) an individual who makes or has made an application; and
     (b) an individual under 14 years of age on whose behalf an application is or has been made
-  - **application** , except in sections 19(2)(a) and 54, means any of the applications referred to in section 26
+  - **application** , except in sections 19(2)﻿(a) and 54, means any of the applications referred to in section 26
   - **authenticated** means the state of having been confirmed, to the reasonable satisfaction of the chief executive, as being authoritative
   - **cancellation** , in relation to an electronic identity credential, means—
     (a) voluntary cancellation under section 31; and
@@ -139,7 +139,7 @@ An electronic identity credential is a record kept in electronic form that—
   (b) the individual's sex:
   (c) the individual's date of birth:
   (d) the individual's place of birth.
-(2) The following table sets out details that may be included in an electronic identity credential under each of the paragraphs in subsection (1):Core identity informationDetails that may be includedFull nameMay include all or any of the following:SexMay include all or any of the following:Date of birthMay include day, month, and year of birthPlace of birthMay include all or any of the following details about the individual's place of birth:
+(2) The following table sets out details that may be included in an electronic identity credential under each of the paragraphs in subsection (1):The following table is small in size and contains 2 columns. Column 1 is headed Core identity information. Column 2 is headed Details that may be included.Core identity informationDetails that may be includedFull nameMay include all or any of the following:SexMay include all or any of the following:Date of birthMay include day, month, and year of birthPlace of birthMay include all or any of the following details about the individual's place of birth:
   (a) the individual's current name (that is, the individual's name at the time of applying for an electronic identity credential to be issued):
   (b) the individual's full name at birth (if different from the current name):
   (c) other names the individual has used before applying for an electronic identity credential to be issued or renewed:
@@ -155,7 +155,7 @@ An electronic identity credential is a record kept in electronic form that—
 (2) Subsection (1) applies unless the electronic identity credential—
   (a) is cancelled by the chief executive under section 31 or 33; or
   (b) is revoked by the chief executive under section 35; or
-  (c) is revoked by order of a court under section 64(1)(b).
+  (c) is revoked by order of a court under section 64(1)﻿(b).
 (3) An electronic identity credential may be renewed, in accordance with section 29, for a further period or periods prescribed in regulations.
 
 ### 11 Only 1 electronic identity credential per individual
@@ -174,7 +174,7 @@ An electronic identity credential is a record kept in electronic form that—
   (a) his or her original identity; or
   (b) his or her new identity; or
   (c) both identities.
-(6) If subsection (5)(c) applies and 2 electronic identity credentials are issued, the specified individual may choose to use either or both of the electronic identity credentials in question.
+(6) If subsection (5)﻿(c) applies and 2 electronic identity credentials are issued, the specified individual may choose to use either or both of the electronic identity credentials in question.
 (7) A specified individual who uses either or both of the specified individual's electronic identity credentials as contemplated by subsections (4) and (6) is not excused from any criminal liability in respect of any act or omission involving the use of those credentials that would otherwise constitute an offence against any other enactment.
 (8) However, subsection (7) does not limit or affect the provision of any other enactment or rule of law that confers protection on a specified individual against criminal liability and, if there is any inconsistency between that subsection and that provision, the latter prevails.
 (9) In this section,—
@@ -207,7 +207,7 @@ An individual may use an electronic identity credential only if—
 (2) An individual may give consent for the Service to supply to a participating agency some or all of the core identity information contained in the individual's electronic identity credential for the purpose of verifying the individual's identity.
 
 ### 18 Use of electronic identity credential by participating agency
-(1) The Service may supply any of the information described in subsection (2) to a participating agency if the participating agency has paid or has made arrangements to pay any fees or charges prescribed by regulations made under this Act or set by an agreement referred to in section 71(4)(a)(ii) or (b)(ii).
+(1) The Service may supply any of the information described in subsection (2) to a participating agency if the participating agency has paid or has made arrangements to pay any fees or charges prescribed by regulations made under this Act or set by an agreement referred to in section 71(4)﻿(a)﻿(ii) or (b)﻿(ii).
 (2) The information is as follows and must, if supplied, be accompanied by the technical code for the individual's electronic identity credential:
   (a) core identity information contained in the individual's current electronic identity credential:
   (b) information derived from, or based on, core identity information referred to in paragraph (a) (for example, the individual's age as derived from his or her date of birth):
@@ -244,17 +244,17 @@ An individual may use an electronic identity credential only if—
   (a) if the individual gives consent for the Service to supply the individual's current electronic identity credential to the participating agency; and
   (b) if the Service supplies the individual's current electronic identity credential to the participating agency; and
   (c) even if the requirement does not specify that an individual's electronic identity credential may be used; and
-  (d) for matters that are additional to those addressed by the individual's current electronic identity credential and are the subject of information supplied to the participating agency by the individual,––
+  (d) for matters that are additional to those addressed by the individual's current electronic identity credential and are the subject of information supplied to the participating agency by the individual,—
     (i) the individual adequately indicates to the participating agency the individual's approval of the information that the individual supplies; and
     (ii) alterations subsequently made in the information are detectable.
-(6) In interpreting subsection (5)(d)(i), reference may be made to sections 6 and 22(1)(a) of the Electronic Transactions Act 2002.
+(6) In interpreting subsection (5)﻿(d)﻿(i), reference may be made to sections 6 and 22(1)﻿(a) of the Electronic Transactions Act 2002.
 
 ### 20 Effect of change in status of electronic identity credential
 (1) A change in status of an electronic identity credential does not, of itself, affect the validity of any applicable transaction or service that was completed or provided before the change even if the identity of the individual to whom the transaction or service relates was verified using the credential.
 (2) Nevertheless, the chief executive—
   (a) must give written or electronic notice of the revocation of an electronic identity credential to each participating agency with which an individual has used the credential; and
   (b) may provide information about any other change in the status of an electronic identity credential to a participating agency with which an individual has used the credential if, in the chief executive's opinion, it is in the participating agency's interest to receive that information.
-(3) Subsection (1) is subject to any direction that a court may give under section 64(1)(c).
+(3) Subsection (1) is subject to any direction that a court may give under section 64(1)﻿(c).
 
 **Access**
 
@@ -268,7 +268,7 @@ An individual may access—
   (a) the individual who is the subject of the photograph:
   (b) the chief executive or an employee of the Service or department who is authorised by the chief executive for the purpose:
   (c) an officer of a law enforcement agency for the purpose of any proceedings relating to a specified offence.
-(2) A person who has access to a photograph under subsection (1)(b) or (c) may use the photograph only in the course, and for the purposes, of the person's official duties.
+(2) A person who has access to a photograph under subsection (1)﻿(b) or (c) may use the photograph only in the course, and for the purposes, of the person's official duties.
 
 ### 23 Access to record of usage history via chief executive
 (1) Only the following persons may access an individual's record of usage history:
@@ -280,7 +280,7 @@ An individual may access—
   (a) may prejudice an investigation or prosecution against an individual for a specified offence; or
   (b) may prejudice the security or integrity of the Service; or
   (c) cannot be given for technical or practical reasons.
-(3) The person described in subsection (1)(c) may be granted access to the record only if the chief executive makes the record available in a form that protects the privacy of the individual concerned.
+(3) The person described in subsection (1)﻿(c) may be granted access to the record only if the chief executive makes the record available in a form that protects the privacy of the individual concerned.
 
 ### 24 Disclosure of record of usage history by chief executive
 The chief executive may disclose an individual's record of usage history to a law enforcement agency if the chief executive believes on reasonable grounds that—
@@ -306,7 +306,7 @@ An application to the chief executive may be made for an electronic identity cre
     (i) may make the application on his or her own behalf; and
     (ii) must include in it the written or electronic consent of at least 1 of his or her parents or guardians; or
   (b) 1 of the individual's parents or guardians may make the application on the individual's behalf.
-(3) Subsection (2)(b) describes the only situation in which an individual may make an application for someone else.
+(3) Subsection (2)﻿(b) describes the only situation in which an individual may make an application for someone else.
 
 ### 28 Application for issue
 (1) An application for an electronic identity credential to be issued must—
@@ -325,8 +325,8 @@ An application to the chief executive may be made for an electronic identity cre
 (3) The chief executive must refuse the application if—
   (a) it is made by, or on behalf of, an individual under 14 years of age and it does not include the written or electronic consent of at least 1 of the individual's parents or guardians; or
   (b) the applicant has already been issued with an electronic identity credential and it is suspended under section 34; or
-  (c) an order made by a court under section 64(1)(a) in respect of the applicant has not expired; or
-  (d) the chief executive has not completed any action necessary to give effect to an order made by a court under section 64(1)(b); or
+  (c) an order made by a court under section 64(1)﻿(a) in respect of the applicant has not expired; or
+  (d) the chief executive has not completed any action necessary to give effect to an order made by a court under section 64(1)﻿(b); or
   (e) the chief executive—
     (i) knows that the applicant is under investigation, liable to prosecution, or the subject of a charge for a specified offence; and
     (ii) is satisfied that refusing the application will not prejudice the investigation into or proceedings about the offence.
@@ -357,10 +357,10 @@ An application to the chief executive may be made for an electronic identity cre
     (i) the information included with the application:
     (ii) a comparison of the information undertaken in accordance with section 39(4):
     (iii) proper inquiries.
-(4) If the chief executive refuses an application because he or she is not satisfied as required by subsection (3)(a), he or she must, as soon as practicable, give the individual written or electronic notice of—
+(4) If the chief executive refuses an application because he or she is not satisfied as required by subsection (3)﻿(a), he or she must, as soon as practicable, give the individual written or electronic notice of—
   (a) the refusal; and
   (b) the reason for the refusal.
-(5) If the chief executive refuses an application because he or she is not satisfied as required by subsection (3)(b), he or she must, as soon as practicable, give the individual written or electronic notice of—
+(5) If the chief executive refuses an application because he or she is not satisfied as required by subsection (3)﻿(b), he or she must, as soon as practicable, give the individual written or electronic notice of—
   (a) the refusal; and
   (b) the reason for the refusal; and
   (c) the individual's right in subsection (6).
@@ -392,7 +392,7 @@ An application to the chief executive may be made for an electronic identity cre
 (2) Subsection (1)—
   (a) applies whether or not an application to amend the electronic identity credential is made to the chief executive under section 30; and
   (b) does not limit the grounds for making an application to amend an electronic identity credential under section 30.
-(3) If subsection (1)(b) applies, the chief executive must remove any incorrect information and replace it with new information, but only if he or she is satisfied that the new information in his or her possession is correct.
+(3) If subsection (1)﻿(b) applies, the chief executive must remove any incorrect information and replace it with new information, but only if he or she is satisfied that the new information in his or her possession is correct.
 
 ### 33 Mandatory cancellation of electronic identity credential
 (1) The chief executive must cancel an electronic identity credential if the chief executive is satisfied, after proper inquiries, that the individual to whom it has been issued—
@@ -425,7 +425,7 @@ An application to the chief executive may be made for an electronic identity cre
   (a) written or electronic notice of the proposed suspension or revocation and the reason for it; and
   (b) a reasonable opportunity to make written or electronic submissions.
 (2) However, subsection (1) does not apply if the chief executive considers that giving written or electronic notice to the individual—
-  (a) may prejudice the investigation referred to in section 34(1)(a) or the inquiries referred to in section 35(1); or
+  (a) may prejudice the investigation referred to in section 34(1)﻿(a) or the inquiries referred to in section 35(1); or
   (b) is not practicable because the individual cannot be located and his or her contact details cannot readily be established; or
   (c) may compromise the security or integrity of the electronic identity credential in question or of the Service and immediate suspension or revocation is necessary to avoid or lessen that risk.
 (3) If the chief executive decides to exercise the power of suspension or revocation after considering any written or electronic submissions made by the individual, the chief executive must, as soon as practicable, give written or electronic notice of the suspension or revocation to the individual.
@@ -469,7 +469,7 @@ The purpose of section 39 is to facilitate the disclosure of identity-related in
 The functions of the chief executive under this Act are the following:
   (a) to establish and maintain the Service database:
   (b) to provide advice and information to participating agencies on matters relating to the use of electronic identity credentials:
-  (c) to enter into and carry out any agreement with a third party under section 51(1)(b) for the performance of any function or duty, or the exercise of any power, imposed or conferred on the chief executive by this Act:
+  (c) to enter into and carry out any agreement with a third party under section 51(1)﻿(b) for the performance of any function or duty, or the exercise of any power, imposed or conferred on the chief executive by this Act:
   (d) to prepare reports required by the Privacy Commissioner under section 57:
   (e) to perform any other functions and duties and exercise any other powers specified in this Act or in regulations made under this Act:
   (f) to administer this Act:
@@ -492,7 +492,7 @@ The functions of the chief executive under this Act are the following:
   (b) requirements for information specified by the chief executive under section 46:
   (c) standards or specifications set by the chief executive under section 47:
   (d) reports required by the chief executive under section 48.
-(3) The chief executive may publish the material described in subsection (2)(c) or (d)—
+(3) The chief executive may publish the material described in subsection (2)﻿(c) or (d)—
   (a) in its entirety; or
   (b) with information withheld—
     (i) for reasons in the Official Information Act 1982; or
@@ -522,14 +522,14 @@ The functions of the chief executive under this Act are the following:
   (a) issue standard forms (including electronic forms) requiring information or setting out information that must be provided with an application; and
   (b) specify requirements in connection with the use of standard forms, including requirements relating to electronic signatures on electronic forms; and
   (c) specify what evidence of identity is required to be provided with an application.
-(3) Any evidence of identity requirements under subsection (2)(c) may apply—
+(3) Any evidence of identity requirements under subsection (2)﻿(c) may apply—
   (a) generally or in respect of a specified class or classes of applicants:
   (b) differently to different applicants in different circumstances.
 (4) Those evidence of identity requirements may also include a requirement that every applicant must submit, or allow the Service to take, a photograph of the applicant.
 (5) The chief executive may compare the photograph with information held in the Service database or with information disclosed under an agreement entered into under section 39(1) to ensure that the applicant is not—
   (a) applying for more than 1 electronic identity credential to be issued to him or her at any given time (subject to section 12); or
   (b) applying for an electronic identity credential to be issued or renewed on the basis of any false or fraudulent representation or declaration; or
-  (c) an individual to whom an electronic identity credential must not be issued because of a court order under section 64(1)(a).
+  (c) an individual to whom an electronic identity credential must not be issued because of a court order under section 64(1)﻿(a).
 (6) A comparison under subsection (5) may be carried out manually or electronically (for example, using facial recognition software).
 
 ### 47 Chief executive may set standards or specifications for use of electronic identity credentials by participating agencies
@@ -557,13 +557,13 @@ The functions of the chief executive under this Act are the following:
 (2) Before exercising the power of suspension conferred by subsection (1), the chief executive must give the participating agency—
   (a) written or electronic notice of the proposed suspension and the reason for it; and
   (b) a reasonable opportunity to make written or electronic submissions.
-(3) However, subsection (2) does not apply if subsection (1)(b) applies and the chief executive considers that giving written or electronic notice to the participating agency may prejudice the investigation in question.
+(3) However, subsection (2) does not apply if subsection (1)﻿(b) applies and the chief executive considers that giving written or electronic notice to the participating agency may prejudice the investigation in question.
 (4) If the chief executive decides to exercise the power of suspension conferred by subsection (1) after considering any written or electronic submissions made by the participating agency, the chief executive must, as soon as practicable, give written or electronic notice of the suspension to the agency.
 (5) The written or electronic notice must specify—
   (a) the reason for the suspension; and
   (b) the period of the suspension; and
   (c) the date on which and the time at which the suspension commences.
-(6) Despite the suspension, the participating agency continues to be subject to the provisions of this Act and, among other things, remains liable to pay any outstanding fees or charges prescribed by regulations made under this Act or set by an agreement referred to in section 71(4)(a)(ii) or (b)(ii).
+(6) Despite the suspension, the participating agency continues to be subject to the provisions of this Act and, among other things, remains liable to pay any outstanding fees or charges prescribed by regulations made under this Act or set by an agreement referred to in section 71(4)﻿(a)﻿(ii) or (b)﻿(ii).
 
 ### 50 Chief executive may delegate functions, duties, and powers
 (1) The chief executive may delegate to any person (whether an employee of the State services or not), either generally or particularly, any of the chief executive's functions, duties, and powers under this Act.
@@ -587,13 +587,13 @@ The functions of the chief executive under this Act are the following:
 (1) The chief executive may perform his or her functions and duties, or exercise his or her powers, under this Act—
   (a) through the employees of the department:
   (b) by entering into an agreement with a third party (whether corporate or unincorporate).
-(2) The chief executive must not enter into an agreement under subsection (1)(b) or agree to an extension of the term of an agreement without the written consent of the Minister.
-(3) Nothing in this section or in any agreement entered into under subsection (1)(b) relieves the chief executive of the obligation to perform any function or duty, or to exercise any power, imposed or conferred on the chief executive by this Act.
+(2) The chief executive must not enter into an agreement under subsection (1)﻿(b) or agree to an extension of the term of an agreement without the written consent of the Minister.
+(3) Nothing in this section or in any agreement entered into under subsection (1)﻿(b) relieves the chief executive of the obligation to perform any function or duty, or to exercise any power, imposed or conferred on the chief executive by this Act.
 
 ### 52 Application of Ombudsmen Act 1975 and Official Information Act 1982 to certain delegates of chief executive and to certain third parties
 (1) This section applies to the following:
   (a) a person to whom the chief executive has delegated, under section 50(1), the chief executive's functions, duties, or powers under this Act and who is not an employee of the State services:
-  (b) a third party with whom the chief executive has entered into an agreement under section 51(1)(b) for the performance of the chief executive's functions and duties, or the exercise of the chief executive's powers, under this Act.
+  (b) a third party with whom the chief executive has entered into an agreement under section 51(1)﻿(b) for the performance of the chief executive's functions and duties, or the exercise of the chief executive's powers, under this Act.
 (2) For the purposes of the Ombudsmen Act 1975 and the Official Information Act 1982, a person or third party to whom this section applies is to be treated as part of the department when performing the chief executive's functions and duties, or exercising the chief executive's powers, under this Act.
 
 **Reconsideration of decisions**
@@ -606,8 +606,8 @@ Section 54 applies to the following decisions that are made by the chief executi
   (d) a decision to refuse to cancel an electronic identity credential under section 31; or
   (e) a decision to amend an electronic identity credential under section 32; or
   (f) a decision to cancel an electronic identity credential under section 33; or
-  (g) a decision to suspend the processing of an application under section 34(2)(a); or
-  (h) a decision to suspend an electronic identity credential under section 34(2)(b); or
+  (g) a decision to suspend the processing of an application under section 34(2)﻿(a); or
+  (h) a decision to suspend an electronic identity credential under section 34(2)﻿(b); or
   (i) a decision to revoke an electronic identity credential under section 35; or
   (j) a decision to suspend the use of electronic identity credentials by a participating agency under section 49.
 
@@ -644,14 +644,14 @@ The Electronic Identity Verification Service is the same service as the Identity
 (1) The Privacy Commissioner may, at intervals not shorter than 12 months, require the chief executive to provide the Privacy Commissioner with a report on—
   (a) the operation of the Service or any aspect of the Service:
   (b) the operation of a confirmation agreement entered into in accordance with Schedule 1.
-(2) Without limiting subsection (1)(a), the Privacy Commissioner may require the chief executive to include information about the following matters in a report under that subsection:
+(2) Without limiting subsection (1)﻿(a), the Privacy Commissioner may require the chief executive to include information about the following matters in a report under that subsection:
   (a) the number of participating agencies:
   (b) the number of electronic identity credentials that have been issued or cancelled:
   (c) the types of transactions or services for which electronic identity credentials are used:
   (d) the number of times electronic identity credentials have been used by all or any classes of individuals:
-  (e) the number of times that persons have accessed individuals' records of usage history under section 23(1)(b) to (d):
+  (e) the number of times that persons have accessed individuals' records of usage history under section 23(1)﻿(b) to (d):
   (f) any issues that have arisen, or that are likely to arise, in the use of the Service.
-(3) A single report may address the matters in subsection (1)(a) and (b) if reports on both of those matters are required by the Privacy Commissioner to be the subject of a report.
+(3) A single report may address the matters in subsection (1)﻿(a) and (b) if reports on both of those matters are required by the Privacy Commissioner to be the subject of a report.
 
 ## Part 3 — Miscellaneous provisions
 
@@ -659,8 +659,8 @@ The Electronic Identity Verification Service is the same service as the Identity
 
 ### 58 Official Information Act 1982
 The following provisions apply to the relationship between this Act and the Official Information Act 1982 (OIA):
-  (a) sections 21 to 24 are given precedence by section 52(3)(a) and (b) of the OIA:
-  (b) section 43(3)(b)(i) incorporates by reference provisions of the OIA:
+  (a) sections 21 to 24 are given precedence by section 52(3)﻿(a) and (b) of the OIA:
+  (b) section 43(3)﻿(b)﻿(i) incorporates by reference provisions of the OIA:
   (c) section 52(2) extends the application of the OIA.
 
 ### 59 Privacy Act 1993
@@ -669,7 +669,7 @@ The following provisions apply to the relationship between this Act and the Offi
 (3) Section 40(2) excludes a provision of the PA.
 (4) If regulations are made under section 70(3), the regulations apply instead of information privacy principle 9 in section 6 of the PA.
 (5) If core identity information held in electronic identity credentials, photographs, and records of usage history held in accordance with the provisions of this Act are to be disclosed, the disclosure is made in accordance with this Act, instead of information privacy principle 11 in section 6 of the PA, as required by the precedence given to this Act by section 7(1) and (2) of the PA.
-(6) For the purposes of the PA, Part 8, a person is taken to have breached an information privacy principle under its section 66(1)(a)(i) if the person contravenes a provision of this Act that—
+(6) For the purposes of the PA, Part 8, a person is taken to have breached an information privacy principle under its section 66(1)﻿(a)﻿(i) if the person contravenes a provision of this Act that—
   (a) imposes a prohibition or restriction in relation to the use or availability of personal information; or
   (b) regulates the manner in which personal information may be obtained, used, or made available.
 (7) Section 65(2) saves the PA, Part 8, from the exclusion of civil liability.
@@ -731,8 +731,8 @@ The following provisions apply to the relationship between this Act and the Offi
   (a) an order that an electronic identity credential must not be issued to the individual, either indefinitely or for any period that may be specified in the order:
   (b) an order that an electronic identity credential that has been issued to the individual be revoked:
   (c) an order giving any direction that the court thinks fit about the validity of any applicable transaction or service that was completed or provided as a result of, or in connection with, the commission of the specified offence.
-(2) The court may make an order under subsection (1)(a) or (b) if satisfied that it is desirable to do so for reasons of the security or integrity of the Service or of the Service database.
-(3) An order under subsection (1)(a) or (b) may be in addition to, or instead of, any other penalty the court may impose under this Act or any other enactment.
+(2) The court may make an order under subsection (1)﻿(a) or (b) if satisfied that it is desirable to do so for reasons of the security or integrity of the Service or of the Service database.
+(3) An order under subsection (1)﻿(a) or (b) may be in addition to, or instead of, any other penalty the court may impose under this Act or any other enactment.
 (4) If the court makes an order under subsection (1), the Registrar of the court must ensure that a copy of the order is given to the chief executive within 5 working days after the making of the order.
 (5) The chief executive must, as soon as practicable, take any action that is necessary to give effect to the order.
 
@@ -771,6 +771,7 @@ The following provisions apply to the relationship between this Act and the Offi
   (a) a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975:
   (b) an organisation named in Part 2 of Schedule 1 of the Ombudsmen Act 1975:
   (c) a local organisation named in Part 3 of Schedule 1 of the Ombudsmen Act 1975:
+  (ca) a court or tribunal specified in an order made under section 6 of the Electronic Courts and Tribunals Act 2016:
   (d) any other organisation, whether part of the State services or not:
   (e) a statutory office or statutory officer established or appointed by or under an Act administered by a body referred to in paragraphs (a) to (d).
 (2) The Governor-General may, by Order in Council, make regulations amending any regulations made under subsection (1) to—
@@ -779,10 +780,10 @@ The following provisions apply to the relationship between this Act and the Offi
   (c) omit the name of a participating agency and substitute another name in recognition of a change in the participating agency's name:
   (d) omit the name of a participating agency.
 (3) Regulations made under subsection (1) may specify a particular body, office, or officer or a class or classes of bodies, offices, or officers.
-(4) Regulations under subsection (2)(d) may be made only on the recommendation of the Minister made in accordance with section 68.
+(4) Regulations under subsection (2)﻿(d) may be made only on the recommendation of the Minister made in accordance with section 68.
 
 ### 68 When Minister may recommend certain regulations relating to participating agencies
-The Minister may recommend the making of regulations under section 67(2)(d) to omit the name of a participating agency if, among other things,—
+The Minister may recommend the making of regulations under section 67(2)﻿(d) to omit the name of a participating agency if, among other things,—
   (a) the agency has persistently failed to comply with—
     (i) the standards and specifications set by the chief executive under section 47:
     (ii) a reporting requirement under section 48; or
@@ -807,7 +808,7 @@ The Minister may recommend the making of regulations under section 67(2)(d) to o
   (a) the following kinds of electronic identity credentials:
     (i) those that are cancelled by the chief executive under section 31 or 33:
     (ii) those that are revoked by the chief executive under section 35:
-    (iii) those that are revoked by order of a court under section 64(1)(b):
+    (iii) those that are revoked by order of a court under section 64(1)﻿(b):
     (iv) those that expire because the periods for which they are effective expire; and
   (b) the following kinds of information:
     (i) core identity information:
@@ -826,7 +827,7 @@ The Minister may recommend the making of regulations under section 67(2)(d) to o
 ### 71 Regulations relating to fees
 (1) The Governor-General may, by Order in Council, make regulations prescribing the fees or charges payable to enable the recovery of direct and indirect costs of the department in administering this Act that are not provided for by—
   (a) money that is funded by the Crown for the purpose; or
-  (b) money payable to the chief executive under an agreement entered into under section 51(1)(b) or an agreement referred to in subsection (4)(a)(ii).
+  (b) money payable to the chief executive under an agreement entered into under section 51(1)﻿(b) or an agreement referred to in subsection (4)﻿(a)﻿(ii).
 (2) Examples of the costs that may be recovered include—
   (a) the costs of processing applications:
   (b) the costs of issuing electronic identity credentials:
@@ -837,14 +838,14 @@ The Minister may recommend the making of regulations under section 67(2)(d) to o
   (c) the individuals or participating agencies, or classes of individuals or participating agencies, liable for payment of the fees or charges:
   (d) the conditions or circumstances for which the fees or charges must be paid:
   (e) how the fees or charges are to be paid.
-(4) Without limiting subsection (3)(a), regulations made under subsection (1)—
+(4) Without limiting subsection (3)﻿(a), regulations made under subsection (1)—
   (a) may provide that they do not apply to any fees or charges that—
     (i) are payable to the chief executive by a participating agency or a class of participating agencies for the use of electronic identity credentials under section 18; and
     (ii) the chief executive may set in accordance with an agreement between the chief executive and the participating agency or participating agencies:
   (b) do not apply to any fees or charges that—
-    (i) are payable to a third party by any person other than the chief executive for the performance of any of the chief executive's functions or duties, or the exercise of any of the chief executive's powers, under this Act in accordance with an agreement entered into under section 51(1)(b); and
+    (i) are payable to a third party by any person other than the chief executive for the performance of any of the chief executive's functions or duties, or the exercise of any of the chief executive's powers, under this Act in accordance with an agreement entered into under section 51(1)﻿(b); and
     (ii) may be set by the third party in accordance with a separate agreement between the third party and the other person.
-(5) Nothing in subsection (4) prevents regulations being made under subsection (1) prescribing the fees or charges that are payable for applications to which any of sections 28(1)(d), 30(2)(e), and 31(1)(b) apply even though the agreement referred to in subsection (4)(b)(i) provides for a third party to perform functions or duties, or exercise powers, in relation to those applications.
+(5) Nothing in subsection (4) prevents regulations being made under subsection (1) prescribing the fees or charges that are payable for applications to which any of sections 28(1)﻿(d), 30(2)﻿(e), and 31(1)﻿(b) apply even though the agreement referred to in subsection (4)﻿(b)﻿(i) provides for a third party to perform functions or duties, or exercise powers, in relation to those applications.
 
 ### 72 Other regulations
 The Governor-General may, by Order in Council, make regulations—
@@ -874,7 +875,7 @@ The Governor-General may, by Order in Council, make regulations—
   (b) that was entered into before the date of commencement of this section; and
   (c) that is in force as at that date.
 (2) On and from the commencement of this section,—
-  (a) the pre-commencement third-party agreement must be treated as if it were an agreement entered into under section 51(1)(b) (except that section 51(2) does not apply); and
+  (a) the pre-commencement third-party agreement must be treated as if it were an agreement entered into under section 51(1)﻿(b) (except that section 51(2) does not apply); and
   (b) a reference in this Act to an agreement entered into under that section must be taken to include a reference to the pre-commencement third-party agreement; and
   (c) a reference in this Act to a third party must be taken to include the third party that entered into the pre-commencement third-party agreement.
 
@@ -915,7 +916,7 @@ The purpose of this schedule is to facilitate the authentication of an individua
   (c) the chief executive and the agency are parties to a confirmation agreement that complies with clause 6; and
   (d) the check is carried out in accordance with the agreement; and
   (e) the chief executive has paid or has made an arrangement to pay any fees and charges payable under the agreement.
-(2) For the purposes of subclause (1)(a), an individual may consent to an identity information check on—
+(2) For the purposes of subclause (1)﻿(a), an individual may consent to an identity information check on—
   (a) a one-off basis (that is, for each identity information check); or
   (b) an ongoing basis (that is, for a series of identity information checks, whether repeated or otherwise).
 (3) An individual who consents to an identity information check may withdraw the consent before—
@@ -929,7 +930,7 @@ The purpose of this schedule is to facilitate the authentication of an individua
 (4) The agency must not, at any stage, supply to the chief executive any recorded information about the individual who is the subject of the search.
 (5) However, subclause (4) does not limit or prevent the disclosure of any information about the status of any recorded information in relation to the individual.
 (6) After carrying out the search referred to in subclause (2), the agency must supply to the chief executive information about the search result and, in particular, whether any or all of the individual's identity information submitted to the agency is consistent with any recorded information.
-(7) Without limiting subclause (6), the information that may be supplied under that subclause generally includes, subject to subclause (4), one of the following search results:ResultDescriptionConsistentIdentity information is consistent with recorded informationNot consistentIdentity information is not consistent with recorded informationExceptionInformation about the status of recorded information is available
+(7) Without limiting subclause (6), the information that may be supplied under that subclause generally includes, subject to subclause (4), one of the following search results:The following table is small in size and contains 2 columns. Column 1 is headed Result. Column 2 is headed Description.ResultDescriptionConsistentIdentity information is consistent with recorded informationNot consistentIdentity information is not consistent with recorded informationExceptionInformation about the status of recorded information is available
 (8) For the purposes of subclauses (6) and (7), identity information may be treated as consistent with recorded information despite any variation between them because of pronunciation or punctuation.
 
 **Confirmation agreements**
