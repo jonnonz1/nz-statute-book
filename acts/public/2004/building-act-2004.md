@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2017-01-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -1860,10 +1860,10 @@ A building is insanitary for the purposes of this Act if the building—
 (3) However, the notice, if fixed on the building, is not invalid because a copy of it has not been given to any or all of the persons referred to in subsection (2).
 
 ### 126 Territorial authority may carry out work
-(1) A territorial authority may apply to a District Court for an order authorising the territorial authority to carry out building work if any work required under a notice issued by the territorial authority under section 124(2)﻿(c) is not completed, or not proceeding with reasonable speed, within—
+(1) A territorial authority may apply to the District Court for an order authorising the territorial authority to carry out building work if any work required under a notice issued by the territorial authority under section 124(2)﻿(c) is not completed, or not proceeding with reasonable speed, within—
   (a) the time stated in the notice; or
   (b) any further time that the territorial authority may allow.
-(2) Before the territorial authority applies to a District Court under subsection (1), the territorial authority must give the owner of the building not less than 10 days' written notice of its intention to do so.
+(2) Before the territorial authority applies to the District Court under subsection (1), the territorial authority must give the owner of the building not less than 10 days' written notice of its intention to do so.
 (3) If a territorial authority carries out building work under the authority of an order made under subsection (1),—
   (a) the owner of the building is liable for the costs of the work; and
   (b) the territorial authority may recover those costs from the owner; and
@@ -1903,7 +1903,7 @@ Any work required or authorised to be done under section 124(2)﻿(c) or section
 (4) The chief executive of the territorial authority and the territorial authority are not under any liability arising from the issue, in good faith, of a warrant under subsection (2).
 
 ### 130 Territorial authority must apply to District Court for confirmation of warrant
-(1) If the chief executive of a territorial authority issues a warrant under section 129(2), the territorial authority, on completion of the action stated in the warrant, must apply to a District Court for confirmation of the warrant.
+(1) If the chief executive of a territorial authority issues a warrant under section 129(2), the territorial authority, on completion of the action stated in the warrant, must apply to the District Court for confirmation of the warrant.
 (2) On hearing the application, the District Court may—
   (a) confirm the warrant without modification; or
   (b) confirm the warrant subject to modification; or
@@ -1911,7 +1911,7 @@ Any work required or authorised to be done under section 124(2)﻿(c) or section
 (3) Subsection (1) does not apply if—
   (a) the owner of the building concerned notifies the territorial authority that—
     (i) the owner does not dispute the entry into the owner's land; and
-    (ii) confirmation of the warrant by a District Court is not required; and
+    (ii) confirmation of the warrant by the District Court is not required; and
   (b) the owner pays the costs referred to in section 129(3)﻿(a).
 
 **Policy on dangerous, earthquake-prone, and insanitary buildings**
@@ -2236,10 +2236,10 @@ The owner of a dam who has reasonable grounds for believing that the dam is, or 
 (3) However, the notice, if fixed on the dam, is not invalid because a copy of it has not been given to any or all of the persons referred to in subsection (2).
 
 ### 156 Regional authority may carry out work
-(1) A regional authority may apply to a District Court for an order authorising the regional authority to carry out building work if any work required under a notice given by the regional authority under section 154(1)﻿(c) is not completed, or not proceeding with reasonable speed, within—
+(1) A regional authority may apply to the District Court for an order authorising the regional authority to carry out building work if any work required under a notice given by the regional authority under section 154(1)﻿(c) is not completed, or not proceeding with reasonable speed, within—
   (a) the time stated in the notice; or
   (b) any further time that the regional authority may allow.
-(2) Before the regional authority applies to a District Court under subsection (1), the regional authority must give the owner of the dam not less than 10 days' written notice of its intention to do so.
+(2) Before the regional authority applies to the District Court under subsection (1), the regional authority must give the owner of the dam not less than 10 days' written notice of its intention to do so.
 (3) If a regional authority carries out building work under the authority of an order made under subsection (1),—
   (a) the owner of the dam is liable for the costs of the work; and
   (b) the regional authority may recover those costs from the owner; and
@@ -2255,7 +2255,7 @@ The owner of a dam who has reasonable grounds for believing that the dam is, or 
 (4) The chief executive of the regional authority and the regional authority are not under any liability arising from the issue, in good faith, of a warrant under subsection (2).
 
 ### 158 Regional authority must apply to District Court for confirmation of warrant
-(1) If the chief executive of a regional authority issues a warrant under section 157(2), the regional authority, on completion of the action stated in the warrant, must apply to a District Court for confirmation of the warrant.
+(1) If the chief executive of a regional authority issues a warrant under section 157(2), the regional authority, on completion of the action stated in the warrant, must apply to the District Court for confirmation of the warrant.
 (2) On hearing the application, the District Court may—
   (a) confirm the warrant without modification; or
   (b) confirm the warrant subject to modification; or
@@ -2263,7 +2263,7 @@ The owner of a dam who has reasonable grounds for believing that the dam is, or 
 (3) Subsection (1) does not apply if—
   (a) the owner of the dam concerned notifies the regional authority that—
     (i) the owner does not dispute the entry into the owner's land; and
-    (ii) confirmation of the warrant by a District Court is not required; and
+    (ii) confirmation of the warrant by the District Court is not required; and
   (b) the owner pays the costs referred to in section 157(3)﻿(a).
 
 ### 159 Building work includes decommissioning and demolition of dam
@@ -2565,7 +2565,7 @@ In sections 177 to 190, party, in relation to a determination, means any or all 
   (b) publicly notify the direction.
 
 ### 182 No proceedings until determination made
-(1) A person may not commence proceedings in a District Court or the High Court if the matter that gives rise to those proceedings can be the subject of a determination.
+(1) A person may not commence proceedings in the District Court or the High Court if the matter that gives rise to those proceedings can be the subject of a determination.
 (2) However, a person may commence those proceedings if that person, or any other person, has already applied for a determination of the matter and the chief executive has—
   (a) made a determination on the application; or
   (b) refused to make a determination.
@@ -2641,7 +2641,7 @@ The chief executive may, within 20 working days after making a determination, am
 ### 190 Parties' costs
 (1) The parties in relation to an application for a determination bear their own costs.
 (2) However, the chief executive may, by written direction to the applicant or another party, require that person to meet some or all of the other party's costs in respect of the determination or application if, in the chief executive's opinion, the party has contributed unreasonably to costs or delays.
-(3) A party in whose favour a direction under subsection (2) is given may enforce that direction by filing it in the prescribed form (if any) in a District Court.
+(3) A party in whose favour a direction under subsection (2) is given may enforce that direction by filing it in the prescribed form (if any) in the District Court.
 (4) A direction that is filed in the District Court under subsection (3) is enforceable as a judgment of the District Court in its civil jurisdiction.
 
 **Power of chief executive to register persons as building consent authorities for purposes of this Act**
@@ -2826,7 +2826,7 @@ A person who fails to comply with a notice served on that person under section 2
 **Appeal from chief executive's decisions**
 
 ### 208 Appeals to District Court
-(1) The persons referred to in subsection (2) may appeal to a District Court against—
+(1) The persons referred to in subsection (2) may appeal to the District Court against—
   (a) a determination by the chief executive under section 188; or
   (aa) a direction as to costs given under section 190(2); or
   (b) the chief executive's decision to—
@@ -2847,7 +2847,7 @@ A person who fails to comply with a notice served on that person under section 2
     (i) in the case of an appeal under section 208(1)﻿(a), the date of the determination or the date on which the chief executive amends the determination by way of clarification under section 189; or
     (ia) in the case of an appeal under section 208(1)﻿(aa), the date of the written direction given by the chief executive under section 190; or
     (ii) in the case of an appeal under section 208(1)﻿(b), the date of the relevant decision of the chief executive; and
-  (b) otherwise in accordance with the District Courts Rules (except to any extent that those rules are inconsistent with this section).
+  (b) otherwise in accordance with the District Court Rules (except to any extent that those rules are inconsistent with this section).
 (2) The Registrar of the District Court may extend the time for making an appeal under section 208(1)﻿(a) if the chief executive amends the determination by way of clarification under section 189.
 
 ### 210 Steps after appeal is commenced
@@ -2861,7 +2861,7 @@ A person who fails to comply with a notice served on that person under section 2
 (3) The notice to appear under subsection (2) must be served within 10 working days after the party was served with the notice of appeal.
 
 ### 211 Powers of District Court on appeal
-(1) On the hearing of an appeal under section 208, a District Court may—
+(1) On the hearing of an appeal under section 208, the District Court may—
   (a) confirm, reverse, or modify the determination, direction, or decision of the chief executive; or
   (b) refer the matter back to the chief executive in accordance with the rules of court; or
   (c) make or give any determination, direction, or decision that the chief executive could have made or given in respect of the matter.
@@ -2970,8 +2970,8 @@ A territorial authority must, for the purpose of ensuring that it complies with 
     (i) that person, after being given notice of the requirement, fails to commence to comply with the notice within the time stated in the notice or, if the time is not so stated, within a reasonable time; or
     (ii) that person, after a certificate from any officer of the territorial authority that the work is of an urgent nature is communicated to him or her, defaults for 24 hours from the time of that communication; and
   (c) that person does not immediately proceed with the work with all reasonable speed.
-(2) The territorial authority may apply to a District Court for an order authorising the territorial authority to carry out building work.
-(3) Before the territorial authority applies to a District Court under subsection (2), the territorial authority must give the owner of the building not less than 10 days' notice of its intention to do so.
+(2) The territorial authority may apply to the District Court for an order authorising the territorial authority to carry out building work.
+(3) Before the territorial authority applies to the District Court under subsection (2), the territorial authority must give the owner of the building not less than 10 days' notice of its intention to do so.
 (4) If a territorial authority carries out building work under the authority of an order made under subsection (2),—
   (a) the owner of the building is liable for the costs of the work; and
   (b) the territorial authority may recover those costs from the owner; and
@@ -3042,11 +3042,11 @@ An authorised officer must, on entering private land and when requested at any s
 ### 226 Restriction on entry to household unit
 (1) Despite section 222, an authorised officer may not enter a household unit that is being used as a household unit without—
   (a) the consent of the occupier of the household unit; or
-  (b) an order of a District Court made under section 227.
+  (b) an order of the District Court made under section 227.
 (2) Subsection (1) does not limit the power conferred by section 173 of the Local Government Act 2002 (which allows a local authority entry into occupied land or buildings without prior notice in cases of emergency).
 
 ### 227 District Court may authorise entry to household unit
-(1) A District Court, on the application of an authorised officer, may make an order authorising the officer to enter a household unit.
+(1) The District Court, on the application of an authorised officer, may make an order authorising the officer to enter a household unit.
 (2) The court may make the order under subsection (1)—
   (a) only if it is satisfied that—
     (i) the proposed entry is necessary for the purposes of section 222; and
@@ -3956,7 +3956,7 @@ A written certificate signed by any person authorised by the Board is for all pu
 (1) A person may appeal to the Board against any decision of the Registrar to—
   (a) decline to license the person as a building practitioner; or
   (b) suspend or cancel his or her licensing.
-(2) A person may appeal to a District Court against any decision of the Board—
+(2) A person may appeal to the District Court against any decision of the Board—
   (a) made by it on an appeal brought under subsection (1); or
   (b) to take any action referred to in section 318.
 
@@ -4570,7 +4570,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 The continued existence of anything, or the intermittent repetition of any action, contrary to any provision of this Act is taken to be a continuing offence.
 
 ### 381 District Court may grant injunctions for certain continuing breaches
-(1) On the application of any person referred to in subsection (2), a District Court may grant an injunction or make some other appropriate order if it appears to the District Court that—
+(1) On the application of any person referred to in subsection (2), the District Court may grant an injunction or make some other appropriate order if it appears to the District Court that—
   (a) a person is committing or is about to commit a breach of section 40 or section 168; or
   (b) a building is dangerous, earthquake prone, or insanitary in terms of subpart 6 of Part 2 and the territorial authority has failed to take appropriate action; or
   (c) a dam is dangerous in terms of subpart 7 of Part 2 and the regional authority has failed to take appropriate action.
