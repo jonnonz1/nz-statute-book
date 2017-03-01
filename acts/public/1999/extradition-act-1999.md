@@ -1,5 +1,5 @@
 # Extradition Act 1999
-_Consolidation as at 2015-11-07_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to the extradition of persons to and from New Zealand
 
@@ -229,7 +229,7 @@ This Part applies to—
     (i) Parts 5 and 5A and sections 203, 204, and 206 of the Summary Proceedings Act 1957:
     (ii) Parts 1 (except sections 9 to 12), 2, and 4 of the Bail Act 2000:
     (iii) the Criminal Procedure (Mentally Impaired Persons) Act 2003.
-(2) Despite section 5 of the Summary Proceedings Act 1957, a District Court presided over by Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
+(2) Despite section 5 of the Summary Proceedings Act 1957, the District Court presided over by Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
 (3) Despite section 46(1) and (2) of the Summary Proceedings Act 1957 (as applied by section 157 of that Act) and section 28(2) of the Bail Act 2000, a decision under this Part to remand a person in custody or on bail may be made only by a Judge.
 (4) The enactments (other than this Act, its provisions, Parts, and regulations made under it) specified in this section must be read as they read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011.
 
@@ -522,7 +522,7 @@ This Part applies to—
     (i) sections 14, 35, 157 to 175, subpart 3 of Part 5, and sections 365 and 379 of the Criminal Procedure Act 2011 and any relevant rules of court (including those relating to service) made under that Act:
     (ii) Parts 1 (except sections 9 to 12), 2, and 3 of the Bail Act 2000:
     (iii) sections 38 to 44 of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
-(2) A District Court presided over by 1 or more Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
+(2) The District Court presided over by 1 or more Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
 (3) Despite section 168 of the Criminal Procedure Act 2011, and section 27(2) of the Bail Act 2000, a decision under this Part to remand a person in custody or on bail may be made only by a Judge.
 (4) Sections 167 to 169 of the Criminal Procedure Act 2011 and sections 28, 30 to 33, 35, 37 to 39, 44, 45, and 52 of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under any of sections 46, 53, or 54.
 
@@ -814,20 +814,20 @@ A surrender order or a temporary surrender order must be in the prescribed form 
 ## Part 8 — Appeals against determinations in respect of eligibility for surrender
 
 ### 68 Appeal on question of law only
-(1) This section applies if a District Court determines under section 24 or 45 that a person is or is not eligible for surrender in relation to any offence or offences for which surrender is sought, and either party considers the determination erroneous in point of law.
+(1) This section applies if the District Court determines under section 24 or 45 that a person is or is not eligible for surrender in relation to any offence or offences for which surrender is sought, and either party considers the determination erroneous in point of law.
 (2) If this section applies, the party may appeal against the determination to the High Court on a question of law only.
 (3) To lodge an appeal the party must, within 15 days after the determination, file in the office of the court to which the appeal is being taken a notice of appeal in the prescribed form.
 
 ### 69 Application to appeal of Bail Act 2000 and Criminal Procedure Act 2011
-(1) Section 59 of the Bail Act 2000 (which relates to the surrender of an appellant released on bail) applies with any necessary modifications to an appeal under this Part as if it were an appeal under subpart 8 of Part 6 of the Criminal Procedure Act 2011 against the determination by a District Court of a charge for an offence.
+(1) Section 59 of the Bail Act 2000 (which relates to the surrender of an appellant released on bail) applies with any necessary modifications to an appeal under this Part as if it were an appeal under subpart 8 of Part 6 of the Criminal Procedure Act 2011 against the determination by the District Court of a charge for an offence.
 (2) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this Part.
 
 ### 70 Custody pending determination of appeal
 (1) If—the court may order that the person who is the subject of the determination continue to be detained or, as the case may be, issue a warrant for the arrest and detention of the person, pending the determination of the appeal.
-  (a) a District Court makes a determination under section 24 or section 45; and
+  (a) the District Court makes a determination under section 24 or section 45; and
   (b) immediately after the court makes the determination, either party informs the court that the party intends to appeal against the determination,—
-(2) If—any District Court or the High Court may order that the person who is the subject of the determination continue to be detained or, as the case may be, issue a warrant for the arrest and detention of the person, pending the determination of the appeal.
-  (a) a District Court makes a determination under section 24 or section 45; and
+(2) If—the District Court or the High Court may order that the person who is the subject of the determination continue to be detained or, as the case may be, issue a warrant for the arrest and detention of the person, pending the determination of the appeal.
+  (a) the District Court makes a determination under section 24 or section 45; and
   (b) either party files a notice of appeal against the determination,—
 (3) If a person is detained under an order made under this section or arrested and detained under a warrant issued under this section,—
   (a) if the proceedings are under Part 3, sections 22, 23(1) to 23(3), 26(2) and 26(3), and 27 apply to the detention of the person with any necessary modifications as if the appeal proceedings were proceedings under section 24 to determine whether or not the person is eligible for surrender:
@@ -857,8 +857,8 @@ Without limiting section 28 or section 53, a person whose surrender is sought ma
   (b) remit the determination to the District Court with a direction that the proceedings to determine whether the person is eligible for surrender be reheard in respect of that offence or those offences.
 (3) Despite subsections (1) and (2), if an appeal is against a determination that a person is eligible for surrender, and the court determines that there has been an error of law, it may nevertheless decline to reverse or amend the determination in respect of which the case has been stated if it considers that no substantial wrong or miscarriage of justice has occurred and that the determination ought to be upheld.
 (4) Without limiting section 72, if the appeal is against a determination that a person is not eligible for surrender, and the court determines that the determination includes an error of law, the court may,—
-  (a) if the proceedings are under Part 3, exercise the powers of a District Court under subsections (1) to (3) of section 26 as if it were a District Court, though paragraph (d) of section 26(1) does not apply:
-  (b) if the proceedings are under Part 4, exercise the powers of a District Court under subsections (1) to (3) of section 46 as if it were a District Court, though paragraph (b) of section 46(1) does not apply and, if the court makes a surrender order under section 47(1), subsections (2) and (3) of section 47 do not apply:
+  (a) if the proceedings are under Part 3, exercise the powers of the District Court under subsections (1) to (3) of section 26 as if it were the District Court, though paragraph (d) of section 26(1) does not apply:
+  (b) if the proceedings are under Part 4, exercise the powers of the District Court under subsections (1) to (3) of section 46 as if it were the District Court, though paragraph (b) of section 46(1) does not apply and, if the court makes a surrender order under section 47(1), subsections (2) and (3) of section 47 do not apply:
   (c) if it remits the determination to the District Court, issue a warrant for the arrest and detention of the person pending the District Court's reconsideration of the determination or rehearing of the proceedings to determine whether the person is eligible for surrender; and section 70(3) applies to any warrant issued under this paragraph as if the warrant were issued under section 70.
 
 ## Part 9 — Provisions relating to evidence
@@ -889,7 +889,7 @@ Nothing in section 25 or sections 74 to 76 prevents the admission in evidence of
 (2) Every court must take judicial notice of every signature or seal referred to in subsection (1).
 
 ### 79 Evidence taken in New Zealand for use overseas
-(1) For the purpose of any request made by New Zealand for the surrender of a person from another country, a District Court may, in the absence of the person accused or convicted of an offence, take evidence in the same manner, so far as applicable, as the procedure set out for the taking of oral evidence under sections 95 to 99 of the Criminal Procedure Act 2011.
+(1) For the purpose of any request made by New Zealand for the surrender of a person from another country, the District Court may, in the absence of the person accused or convicted of an offence, take evidence in the same manner, so far as applicable, as the procedure set out for the taking of oral evidence under sections 95 to 99 of the Criminal Procedure Act 2011.
 (2) For the purposes of taking evidence under subsection (1), the District Court Judge has the same jurisdiction and powers as if the proceedings were the taking of oral evidence under subpart 8 of Part 3 of the Criminal Procedure Act 2011.
 (3) Nothing in this section authorises the reception of any evidence referred to in subsection (1) in evidence against any person on his or her trial for any offence.
 
@@ -1093,7 +1093,7 @@ An extradition treaty made between New Zealand and another country after the com
   (b) prescribing additional matters to be included in the record of the case under section 25:
   (c) prescribing the fees, travelling allowances, and expenses payable to interpreters and to persons giving evidence in proceedings under this Act:
   (d) prescribing the costs and charges payable by any party in proceedings under this Act:
-  (e) prescribing the practice and procedure of District Courts in relation to proceedings under this Act, including (without limitation),—
+  (e) prescribing the practice and procedure of the District Court in relation to proceedings under this Act, including (without limitation),—
     (i) the pre-hearing disclosure of information:
     (ii) the powers of the court when information required to be disclosed by the regulations is not disclosed or not disclosed in accordance with the requirements specified in the regulations or by the court:
     (iii) requiring the person whose surrender is sought to give notice of his or her intention to put a restriction on surrender in issue in the proceedings:
@@ -1103,7 +1103,7 @@ An extradition treaty made between New Zealand and another country after the com
 (2) Regulations made under subsection (1)﻿(e) may provide for different practice and procedure in relation to proceedings under Part 3 than in relation to proceedings under Part 4.
 
 ### 103 Rules relating to appeals
-Rules regulating the practice and procedure in appeals to the High Court under this Act may be made in the manner in which rules of court are made under the Judicature Act 1908.
+Rules regulating the practice and procedure in appeals to the High Court under this Act may be made in the manner in which rules of court are made under the Senior Courts Act 2016.
 
 **Transitional and savings provisions**
 
