@@ -1,5 +1,5 @@
 # Parliamentary Privilege Act 2014
-_Consolidation as at 2014-08-07_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Parliamentary Privilege Act 2014.
@@ -37,11 +37,11 @@ This Act comes into force on the day after the date on which it receives the Roy
   - **communication to the public** , of a document or proceedings, means communication of the document or proceedings to or for, or to or for a class of, the public
   - **copy** , in relation to a document, includes a copy of a copy and a copy that is not an exact copy of the document but is identical to the document in all relevant respects
   - **court** means—
-    (a) the Supreme Court, the Court of Appeal, the High Court, or a District Court; or
+    (a) the Supreme Court, the Court of Appeal, the High Court, or the District Court; or
     (b) any of the following specialist courts: the Court Martial of New Zealand established by section 8 of the Court Martial Act 2007, the Court Martial Appeal Court constituted by the Court Martial Appeals Act 1953, the Employment Court, the Environment Court, the Māori Appellate Court, and the Māori Land Court
   - **District Court** includes—
-    (a) a Family Court and a Youth Court; and
-    (b) a District Court sitting in its admiralty jurisdiction
+    (a) the Family Court and the Youth Court; and
+    (b) the District Court sitting in its admiralty jurisdiction
   - **document** means any of the following:
     (a) any material, whether or not it is signed or otherwise authenticated, that bears symbols (including words and figures), images, or sounds or from which symbols, images, or sounds can be derived, including (without limitation) material that is any of the following:
       (i) a label, marking, or other writing that identifies or describes a thing of which it forms part, or to which it is attached:
@@ -57,7 +57,7 @@ This Act comes into force on the day after the date on which it receives the Roy
       (i) the Clerk, or the Deputy Clerk, of the House; or
       (ii) a Clerk-Assistant of the House; or
       (iii) the Serjeant-at-Arms; and
-    (b) in the rest of this Act, means any officer of the House (including, without limitation, an officer referred to in paragraph (a)(i), (ii), or (iii), or a person authorised by the Clerk of the House to perform or exercise any of the Clerk’s functions or powers under the House’s Standing Orders or to be a clerk of a committee)
+    (b) in the rest of this Act, means any officer of the House (including, without limitation, an officer referred to in paragraph (a)﻿(i), (ii), or (iii), or a person authorised by the Clerk of the House to perform or exercise any of the Clerk’s functions or powers under the House’s Standing Orders or to be a clerk of a committee)
   - **proceedings in Parliament** has the meaning given to it by section 10
   - **report** includes—
     (a) a record or transcript; and
@@ -324,21 +324,21 @@ This Act's provisions (other than this section) do not apply to proceedings—
 
 ### 33 Canterbury Earthquake Recovery Act 2011 amended
 (1) This section amends the Canterbury Earthquake Recovery Act 2011.
-(2) In section 71(6)(c), replace or the New Zealand Bill of Rights Act 1990 with the New Zealand Bill of Rights Act 1990, or the Parliamentary Privilege Act 2014.
+(2) In section 71(6)﻿(c), replace or the New Zealand Bill of Rights Act 1990 with the New Zealand Bill of Rights Act 1990, or the Parliamentary Privilege Act 2014.
 
 ### 34 Defamation Act 1992 amended
 (1) This section amends the Defamation Act 1992.
 (2) In the heading to section 13, replace Parliamentary proceedings with proceedings in Parliament.
 (3) In section 13(1) and (2), replace the House of Representatives with Parliament.
-(4) In section 13(3)(c), replace record of the proceedings of the House of Representatives with report of proceedings in Parliament.
+(4) In section 13(3)﻿(c), replace record of the proceedings of the House of Representatives with report of proceedings in Parliament.
 (5) After section 13(3), insert:
   (4) Proceedings in Parliament, in this section, has the same meaning as in section 10 of the Parliamentary Privilege Act 2014.
 (6) In Schedule 1, Part 1, repeal clauses 1 to 3.
 
 ### 35 Epidemic Preparedness Act 2006 amended
 (1) This section amends the Epidemic Preparedness Act 2006.
-(2) In section 12(3)(c), replace or the New Zealand Bill of Rights Act 1990, with the New Zealand Bill of Rights Act 1990, or the Parliamentary Privilege Act 2014,.
-(3) In section 15(3)(c), replace or the New Zealand Bill of Rights Act 1990, with the New Zealand Bill of Rights Act 1990, or the Parliamentary Privilege Act 2014,.
+(2) In section 12(3)﻿(c), replace or the New Zealand Bill of Rights Act 1990, with the New Zealand Bill of Rights Act 1990, or the Parliamentary Privilege Act 2014,.
+(3) In section 15(3)﻿(c), replace or the New Zealand Bill of Rights Act 1990, with the New Zealand Bill of Rights Act 1990, or the Parliamentary Privilege Act 2014,.
 
 ### 36 Imperial Laws Application Act 1988 amended
 (1) This section amends the Imperial Laws Application Act 1988.
