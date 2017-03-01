@@ -1,5 +1,5 @@
 # Domestic Actions Act 1975
-_Consolidation as at 2002-09-13_
+_Consolidation as at 2017-03-01_
 
 > An Act to abolish the actions for damages for adultery, for enticement of a spouse, for harbouring of a spouse or child, and for enticement or seduction of a child, and for breach of promise of marriage, and to provide for the settlement of property disputes arising out of the termination of agreements to marry
 
@@ -63,19 +63,19 @@ In this Part, unless the context otherwise requires,—
   (d) the conversion of joint ownership into ownership in common in such shares as it thinks fit:
   (e) the payment of sums of money by any party to any other party or parties.
 (6) Where any property in dispute is a gift from a third party and the court is satisfied that the third party does not wish the gift to be returned to him, the court may make such orders with respect to that property as appear just in all the circumstances, but without taking into account or attempting to ascertain or apportion responsibility for the termination of the agreement.
-(7) An order made under this section shall be subject to appeal in the same way as an order made by a District Court or the High Court in an action in a District Court or in the High Court, respectively, would be.
+(7) An order made under this section shall be subject to appeal in the same way as an order made by the District Court or the High Court in an action in the District Court or in the High Court, respectively, would be.
 (8) Nothing in this section shall limit or affect the right of any person to bring an action for money had and received.
 
 ### 9 Concurrent jurisdiction of High Court and Family Court
-(1) The High Court and a Family Court shall each have jurisdiction to make orders pursuant to section 8:
-  provided that a Family Court shall have no jurisdiction to make any such order in respect of any property on an application made while proceedings relating to or affecting the property were pending in the High Court.
-(2) The High Court, upon application by any party to proceedings pending on an application made under section 8 in a Family Court (other than an application made in the course of other proceedings in that court), shall order the proceedings to be removed into the High Court unless it is satisfied that the proceedings would be more appropriately dealt with in a Family Court. Where the proceedings have been so removed they shall be continued in the High Court as if they had been properly and duly commenced in that court.
+(1) The High Court and the Family Court shall each have jurisdiction to make orders pursuant to section 8:
+  provided that the Family Court shall have no jurisdiction to make any such order in respect of any property on an application made while proceedings relating to or affecting the property were pending in the High Court.
+(2) The High Court, upon application by any party to proceedings pending on an application made under section 8 in the Family Court (other than an application made in the course of other proceedings in that court), shall order the proceedings to be removed into the High Court unless it is satisfied that the proceedings would be more appropriately dealt with in the Family Court. Where the proceedings have been so removed they shall be continued in the High Court as if they had been properly and duly commenced in that court.
 (3) Amendment(s) incorporated in the Act(s).
 
 ### 9A Rules of procedure
 Rules regulating the practice and procedure of the courts in proceedings under this Act may be made,—
-  (a) in the case of the High Court, under section 51C of the Judicature Act 1908:
-  (b) in the case of Family Courts, under section 16A of the Family Courts Act 1980.
+  (a) in the case of the High Court, under section 148 of the Senior Courts Act 2016:
+  (b) in the case of the Family Court, under section 16A of the Family Court Act 1980.
 
 ### 10 Other procedural matters
 (1) On any application made under section 8, such notice as the court directs shall be given to every person having or appearing to have an interest in the property in question, and any such person shall be entitled to appear and be heard in the matter as a party to the application.
