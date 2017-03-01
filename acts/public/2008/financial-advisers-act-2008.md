@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -1858,7 +1858,7 @@ A temporary banning order may prohibit or restrict a person from doing all or an
 **Appeal of decisions**
 
 ### 138 Right of appeal
-(1) A person affected may appeal to a District Court against any decision of—
+(1) A person affected may appeal to the District Court against any decision of—
   (a) the FMA to—
     (i) decline authorisation under section 55(4); or
     (ii) decline QFE status under section 67(4); or
