@@ -1,5 +1,5 @@
 # Commonwealth Countries Act 1977
-_Consolidation as at 2012-10-26_
+_Consolidation as at 2017-03-01_
 
 > An Act to enable the membership of the Commonwealth to be more easily ascertained, to provide for the continued operation of New Zealand law with respect to certain Commonwealth countries, and to provide for the continued operation of New Zealand law with respect to the Republic of Ireland as if it were a Commonwealth country
 
@@ -12,12 +12,12 @@ This Act may be cited as the Commonwealth Countries Act 1977.
   (b) if no certificate pursuant to paragraph (a) is produced relating to it, the fact that a country is specified in Schedule 1 shall be conclusive evidence that that country is a Commonwealth country, and the fact that a country is not so specified shall be conclusive evidence that it is not a Commonwealth country.
 (2) The Governor-General may from time to time, by Order in Council, amend the said Schedule 1 by adding to it the names of countries that have become Commonwealth countries or deleting from it the names of countries that have ceased to be Commonwealth countries.
 (3) An Order in Council pursuant to subsection (2) shall come into force or be deemed to have come into force on a date specified therein, whether that date is before, on, or after the date of the making of the order.
-(4) The court or person acting judicially to which or to whom any certificate under subsection (1)(a) is produced shall take judicial notice of the signature thereon of the Secretary of Foreign Affairs and Trade.
+(4) The court or person acting judicially to which or to whom any certificate under subsection (1)﻿(a) is produced shall take judicial notice of the signature thereon of the Secretary of Foreign Affairs and Trade.
 (5) For the purposes of this section,—
-  - **court** includes the Supreme Court, the Court of Appeal, the High Court, and any District Court
+  - **court** includes the Supreme Court, the Court of Appeal, the High Court, and the District Court
   - **District Court** includes—
-    (a) a Family Court; and
-    (b) a Youth Court
+    (a) the Family Court; and
+    (b) the Youth Court
   - **person acting judicially** means any person having in New Zealand by law authority to hear, receive, and examine evidence
   - **proceeding** means—
     (a) a proceeding conducted by a court; and
