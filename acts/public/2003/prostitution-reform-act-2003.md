@@ -1,5 +1,5 @@
 # Prostitution Reform Act 2003
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Prostitution Reform Act 2003.
@@ -215,7 +215,7 @@ No person may receive a payment or other reward that he or she knows, or ought r
 (1) An inspector may not enter a home under section 26 unless he or she—
   (a) has the consent of an occupier of that home; or
   (b) is authorised to do so by a warrant issued under subsection (2).
-(2) A District Court Judge, Justice, Community Magistrate, or Registrar of a District Court (who is not a constable) may issue a warrant to enter a home or part of a home if, on application made on oath, he or she is satisfied that there are reasonable grounds for believing that—
+(2) A District Court Judge, Justice, Community Magistrate, or Registrar of the District Court (who is not a constable) may issue a warrant to enter a home or part of a home if, on application made on oath, he or she is satisfied that there are reasonable grounds for believing that—
   (a) a business of prostitution is being carried on in the home; or
   (b) the home or the part of the home is the only practicable means through which to enter premises where a business of prostitution is being carried on.
 (3) The warrant must be directed to an inspector by name and must be in the prescribed form.
@@ -270,7 +270,7 @@ Every person commits an offence, and is liable on conviction to a fine not excee
 
 ### 35 Application for, and grant of, certificates
 (1) An applicant for a certificate must apply to the Registrar.
-(2) In this Part, Registrar means the Registrar of the District Court at Auckland, or the Registrar of any other District Court identified in regulations made under this Act as the, or a, Registrar who may accept applications under this section.
+(2) In this Part, Registrar means the Registrar of the District Court at Auckland, or the Registrar of any other office of the District Court identified in regulations made under this Act as the, or a, Registrar who may accept applications under this section.
 (3) The application must be in the prescribed form and be accompanied by the prescribed fee.
 (4) The application may require the applicant to provide no more than the following:
   (a) the applicant's full name, date of birth, and gender:
@@ -338,7 +338,7 @@ Every person commits an offence, and is liable on conviction to a fine not excee
   (a) is disqualified from holding a certificate as a result of a conviction for any offence referred to in section 36(2); or
   (b) has had his or her waiver of disqualification cancelled.
 (2) The cancellation of the certificate takes effect 5 days after notification of the cancellation is sent to the certificate holder at the address supplied in his or her application for a certificate.
-(3) A person whose certificate is cancelled commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails to return the certificate to a District Court within 1 month of the cancellation of the certificate.
+(3) A person whose certificate is cancelled commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails to return the certificate to the District Court within 1 month of the cancellation of the certificate.
 
 ### 40 Operator to produce certificate on request
 (1) A constable may, on producing evidence that he or she is a constable, require any person whom the member believes on reasonable grounds is an operator to produce that person's certificate for inspection, and the person must produce his or her certificate to the member, or to another constable at a local Police station, within 24 hours of the request.
@@ -411,7 +411,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (b) prescribing the forms, certificates, and fees required under Part 3 in connection with operator certificates:
   (c) prescribing how the photographs and photocopies required under Part 3 are to be authenticated:
   (d) prescribing the size, or range of sizes, of photographs to be supplied with an application for a certificate, and the number of copies:
-  (e) prescribing that the Registrar of a particular District Court is the, or a, Registrar for the purposes of Part 3, whether in addition to, or instead of, the Registrar of any other District Court:
+  (e) prescribing that the Registrar of a particular office of the District Court is the, or a, Registrar for the purposes of Part 3, whether in addition to, or instead of, the Registrar of any other office of the District Court:
   (f) prescribing matters relating to the Prostitution Law Review Committee, including its powers, additional functions of reviewing, assessing, and reporting on the operation of this Act or on other matters relating to sex workers or prostitution (if any), any limits on the periods for which it may meet, matters relating to the chairperson and members, its financial provisions, its procedures, and its administration:
   (g) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
