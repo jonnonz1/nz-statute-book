@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to firearms and to promote both the safe use and the control of firearms and other weapons
 
@@ -743,12 +743,12 @@ No action, claim, or demand whatsoever shall lie or be made or allowed by or in 
   (a) to any person appearing to have attained the age of 16 years and to be residing at the place of residence of that person; or
   (b) to any solicitor or other agent of that person who is duly authorised by that person to receive the same.
 (3) If the person is deceased, the notice or other document may be served on or given to that person's personal representatives.
-(4) If the person is absent from New Zealand and his or her place of abode or business outside New Zealand is not known to the person by whom the notice or other document is to be served or given, the notice or other document shall (unless it can be served on or given to an agent in New Zealand of the person who is absent from New Zealand) be served or given in such manner as may be directed by an order of a District Court.
+(4) If the person is absent from New Zealand and his or her place of abode or business outside New Zealand is not known to the person by whom the notice or other document is to be served or given, the notice or other document shall (unless it can be served on or given to an agent in New Zealand of the person who is absent from New Zealand) be served or given in such manner as may be directed by an order of the District Court.
 (5) Where any notice or other document is sent by post in accordance with subsection (1)﻿(c),—
   (a) it shall, if sent to an address in New Zealand, be deemed, in the absence of evidence to the contrary, to have been served or given on the fourth working day after the date on which it was posted; and
   (b) it shall, if sent to an address outside New Zealand, be deemed in the absence of evidence to the contrary, to have been served or given on the 60th working day after the date on which it was posted; and
   (c) in proving service, it shall be sufficient to prove that the letter was properly addressed and posted.
-(6) Notwithstanding anything in the foregoing provisions of this section, a District Court may in any case make an order directing the manner in which any notice or other document is to be served or given, or dispensing with the service or giving thereof.
+(6) Notwithstanding anything in the foregoing provisions of this section, the District Court may in any case make an order directing the manner in which any notice or other document is to be served or given, or dispensing with the service or giving thereof.
 (7) This section does not apply to notices or other documents served or given in any proceedings in any court.
 
 ### 73 Savings in respect of carriers and persons authorised to exercise powers of seizure
