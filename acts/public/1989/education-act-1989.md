@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2016-10-29_
+_Consolidation as at 2017-03-01_
 
 > An Act to reform the administration of education
 
@@ -8776,8 +8776,8 @@ The Education Council may establish advisory boards for specific aspects of its 
   (b) the representative is treated as counsel for the purposes of subsection (2).
 
 ### 409 Appeals
-(1) The teacher who is the subject of a decision by the Disciplinary Tribunal made under section 402(2) or 404, or a decision by the Education Council made under section 412, may appeal against that decision to a District Court.
-(2) The Complaints Assessment Committee may, with the leave of the Education Council, appeal to a District Court against a decision of the Disciplinary Tribunal made under section 402(2) or 404.
+(1) The teacher who is the subject of a decision by the Disciplinary Tribunal made under section 402(2) or 404, or a decision by the Education Council made under section 412, may appeal against that decision to the District Court.
+(2) The Complaints Assessment Committee may, with the leave of the Education Council, appeal to the District Court against a decision of the Disciplinary Tribunal made under section 402(2) or 404.
 (3) An appeal under this section must be made within 28 days after receipt of written notice of the decision, or any longer period that the court allows.
 (4) Section 356(3) to (6) applies to every appeal under this section as if it were an appeal under section 356(1).
 
