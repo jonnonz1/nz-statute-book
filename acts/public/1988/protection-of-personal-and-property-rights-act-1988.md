@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -13,7 +13,7 @@ In this Act, unless the context otherwise requires,—
   - **child** , in relation to any person, means a daughter, son, stepdaughter, or stepson of that person
   - **court** ,—
     (a) for the purposes of Part 9A has the meaning given to it by section 108A:
-    (b) for any other purpose of this Act, means a Family Court
+    (b) for any other purpose of this Act, means the Family Court
   - **manager** means a person appointed under section 31 as manager of any property; and includes a trustee corporation that is acting as manager for any person pursuant to section 32 or section 33; but does not include a person appointed under section 11 to administer any property
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **parent** , in relation to any person (A), includes a step-parent; but, if A is under the age of 18 years, only if the step-parent shares responsibility for the day-to-day care of A with a parent of A
@@ -85,7 +85,7 @@ The primary objectives of a court on an application for the exercise of its juri
   (f) an order that the person be provided with medical advice or treatment of a kind specified in the order:
   (g) an order that the person be provided with educational, rehabilitative, therapeutic, or other services of a kind specified in the order:
   (h) an order that the person shall not leave New Zealand without the permission of the court, or shall leave New Zealand only on conditions specified in the order:
-  (i) an order appointing a person named in the order as next friend or guardian ad litem for the person for the purposes of any proceedings in a District Court:
+  (i) an order appointing a person named in the order as next friend or guardian ad litem for the person for the purposes of any proceedings in the District Court:
   (j) an order under section 11 that a person named in the order administer any item of property specified in the order:
   (k) an order under section 12 appointing a welfare guardian for the person.
 (2) No person (other than the person in respect of whom the application is made) shall be bound by a personal order unless that person is a party to the proceedings in which the order is made.
@@ -131,7 +131,7 @@ The primary objectives of a court on an application for the exercise of its juri
 (1) On an application to a court for the exercise of its jurisdiction under this Part, the court may, either on the motion of the applicant or of its own motion, make an interim order under section 10 or section 11 or section 12, pending the final determination of the application.
 (2) Every party to the application, and the person in respect of whom the application is made, shall be given notice of any interim order made pursuant to this section, and shall be entitled to be heard on it.
 (3) No interim order made pursuant to this section shall continue in force for more than 6 months after the date on which it is made.
-(4) An interim order made pursuant to this section may be varied, discharged, or enforced in the same manner as if it were a final order of a Family Court.
+(4) An interim order made pursuant to this section may be varied, discharged, or enforced in the same manner as if it were a final order of the Family Court.
 (5) After hearing the parties, and the person in respect of whom the application is made, on any interim order made pursuant to this section, or such of them as wish to be heard, the court may—
   (a) make 1 but only 1 further interim order; or
   (b) make a final order; or
@@ -262,7 +262,7 @@ The primary objectives of a court on an application for the exercise of its juri
 (5) If a court makes a temporary order, it shall appoint as temporary manager such fit and proper person (being a person who would be eligible for appointment as manager under section 31) to take possession and control of the property of the person in respect of whom the order is made, or such of that person's property as may be specified in the order.
 (6) Where a court decides to make a temporary order, sections 16, 31, 35 to 53, and 57 shall apply with any necessary modifications.
 (7) No temporary order made pursuant to this section shall continue in force for more than 3 months after the date on which it is made.
-(8) A temporary order made pursuant to this section may be varied, discharged, or enforced in the same manner as if it were a final order of a Family Court.
+(8) A temporary order made pursuant to this section may be varied, discharged, or enforced in the same manner as if it were a final order of the Family Court.
 
 ### 31 Appointment of manager
 (1) Subject to the succeeding provisions of this section and to sections 31A and 31B, on an application for the exercise of a court's jurisdiction under this Part, the court may make an order appointing 1 or more suitable persons (whether or not the person or persons proposed in the application) to act as manager of the property, or any specified part of the property, of the person in respect of whom the application is made.
@@ -281,14 +281,14 @@ The primary objectives of a court on an application for the exercise of its juri
 Where a kai tiaki trust is constituted under section 217 of Te Ture Whenua Maori Act 1993 in respect of any interests in Maori land or General land or any shares in a Maori incorporation or any personal property to which any person under disability (within the meaning of Part 12 of that Act) is entitled, no property order made under section 31 and no declaration accepted by a trustee corporation and filed under section 32(3) or section 33(4) shall apply in respect of any such interests or shares or property.
 
 ### 31B Maori land or shares in Maori incorporation
-(1) Where it appears to a Family Court that an application for the exercise of the court's jurisdiction under this Part may result in an order appointing 1 or more persons to act as the manager of—the court shall refer that application to the Maori Land Court.
+(1) Where it appears to the Family Court that an application for the exercise of the court's jurisdiction under this Part may result in an order appointing 1 or more persons to act as the manager of—the court shall refer that application to the Maori Land Court.
   (a) beneficial interests in Maori freehold land (as defined in section 4 of Te Ture Whenua Maori Act 1993); or
   (b) shares in a Maori incorporation (as defined in section 246 of Te Ture Whenua Maori Act 1993),—
 (2) Where an application is referred to the Maori Land Court under subsection (1), the Maori Land Court shall treat that application, to the extent that it relates to beneficial interests in Maori freehold land or shares in a Maori incorporation or both, as if it were an application under section 217 of Te Ture Whenua Maori Act 1993 for the constitution of a kai tiaki trust in respect of those interests or shares or both.
 (3) Where the Maori Land Court constitutes a kai tiaki trust in respect of any beneficial interests in Maori freehold land or shares in a Maori incorporation,—
   (a) no order shall be made under section 31 in respect of those interests or shares; and
   (b) no trustee corporation shall, under section 32(3) or section 33(4), accept any application filed under section 33 or section 34 in respect of those interests or shares.
-(4) Where the Maori Land Court, after considering an application referred to that court under subsection (1), declines to constitute a kai tiaki trust in respect of any beneficial interests in Maori freehold land or any shares in a Maori incorporation to which that application relates, a Family Court may—
+(4) Where the Maori Land Court, after considering an application referred to that court under subsection (1), declines to constitute a kai tiaki trust in respect of any beneficial interests in Maori freehold land or any shares in a Maori incorporation to which that application relates, the Family Court may—
   (a) make a property order under section 31 in respect of those interests or shares or any of them; or
   (b) otherwise exercise its jurisdiction under this Part in respect of those interests or shares or any of them.
 
@@ -603,11 +603,11 @@ In any proceedings under this Act, a court may—
 
 ### 65B Payment of lawyer appointed under section 65A
 (1) The fees and expenses of any lawyer appointed under section 65A must—
-  (a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (a) be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by the Registrar of the court; and
   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
 (2) An invoice rendered by a lawyer appointed under section 65A for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
 (3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
-(4) Where the fees and expenses of a lawyer appointed under section 65A have been paid under subsection (1)﻿(b), the court may, if it thinks it appropriate, order a party to the proceedings to refund to the Crown an amount that the court specifies in respect of those fees and expenses, and the amount ordered to be refunded is a debt due to the Crown by that party and, in default of payment of that amount, payment may be enforced, by order of a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
+(4) Where the fees and expenses of a lawyer appointed under section 65A have been paid under subsection (1)﻿(b), the court may, if it thinks it appropriate, order a party to the proceedings to refund to the Crown an amount that the court specifies in respect of those fees and expenses, and the amount ordered to be refunded is a debt due to the Crown by that party and, in default of payment of that amount, payment may be enforced, by order of the District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
 
 **Pre-hearing conferences**
 
@@ -644,9 +644,9 @@ The objectives of a pre-hearing conference shall be—
 (4) The record made by the presiding Judge under subsection (1) or subsection (2) shall be filed in the District Court in which the relevant application is filed.
 
 ### 70 Power of presiding Judge to make consent orders
-(1) Subject to subsection (2), at a pre-hearing conference the presiding Judge may, by consent of the parties, make any orders that could have been made by a Family Court exercising jurisdiction under this Act.
+(1) Subject to subsection (2), at a pre-hearing conference the presiding Judge may, by consent of the parties, make any orders that could have been made by the Family Court exercising jurisdiction under this Act.
 (2) The presiding Judge shall not make an order under subsection (1) unless the Judge is satisfied that the person in respect of whom the application is made understands the nature and foresees the consequences of the order and consents to the order.
-(3) An order made under this section shall for all purposes have the same effect as if it were made by consent in proceedings before a Family Court.
+(3) An order made under this section shall for all purposes have the same effect as if it were made by consent in proceedings before the Family Court.
 
 ### 71 Power to require attendance at pre-hearing conference
 (1) Where a person fails to comply with a request under section 66 to attend a pre-hearing conference, a District Court Judge may, on the request of the Registrar of the court, issue a summons requiring the person to attend a pre-hearing conference at a time and place to be specified in the summons.
@@ -689,7 +689,7 @@ The Family Court Judge who presides over a pre-hearing conference shall be entit
 (5) Fees for reports prepared pursuant to a request under subsection (1), and reasonable expenses incurred,—
   (a) may be determined in accordance with regulations made under this Act; and
   (b) are payable by such party or parties to the proceedings as the court orders or, if the court so decides, are payable out of public money appropriated by Parliament for the purpose.
-(5A) Any amount of any fees and expenses ordered to be paid by any party under subsection (5)﻿(b) shall, if paid by the Crown, be a debt due to the Crown by that party and, in default of payment of the amount, payment thereof may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that court.
+(5A) Any amount of any fees and expenses ordered to be paid by any party under subsection (5)﻿(b) shall, if paid by the Crown, be a debt due to the Crown by that party and, in default of payment of the amount, payment thereof may be enforced, by order of the District Court or the High Court as the case may require, in the same manner as a judgment of that court.
 (6) Any party to the proceedings, or the person in respect of whom the application is made, or any lawyer appointed under section 65A may tender evidence on any matter referred to in any such report.
 (7) The court may call the person making the report as a witness, either of its own motion or on the application of any party or the person in respect of whom the application is made.
 
@@ -727,8 +727,8 @@ The Family Court Judge who presides over a pre-hearing conference shall be entit
   (c) to exclude any person from the court.
 
 ### 80 Publication of reports of proceedings
-Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act—
-  (a) in a Family Court:
+Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a report of any proceedings under this Act—
+  (a) in the Family Court:
   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
 
 ### 81 Costs
@@ -742,19 +742,19 @@ When a court makes a personal order or a property order, it shall state in the o
 ### 83 Right of appeal to High Court
 (1) If, on an application for the exercise of the court's jurisdiction under this Act, the court makes or refuses to make an order, or dismisses or otherwise finally determines the proceedings, a party to the proceedings or the person in respect of whom the application was made may appeal to the High Court against the order or other decision of the court.
 (2) If the court makes an interlocutory or interim order, a party to the proceedings or the person in respect of whom the application was made may, with the leave of the court, appeal to the High Court against the order.
-(3) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) or subsection (2) as if it were an appeal under section 72 of that Act.
-(4) On the ex parte application of the appellant, the court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(3) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) or (2) as if it were an appeal under section 124 of that Act.
+(4) On the ex parte application of the appellant, the court may order that the appellant must not be required under section 126(1) of the District Court Act 2016 to give the Registrar of the High Court security for costs.
 (5) Subsection (4) overrides subsection (3).
 
 ### 83A Procedure on appeal to High Court
-The High Court Rules 2016 and sections 75 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under section 83.
+The High Court Rules 2016 and sections 127 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under section 83.
 
 ### 84 Further appeal to Court of Appeal
 A party to an appeal under section 83 may, with the leave of the Court of Appeal, appeal to the Court of Appeal against any determination of the High Court in the appeal.
 
 ### 85 Appeals to Court of Appeal from decisions of High Court
 (1) Where—a party to the proceedings or the person in respect of whom the application was made may, within 28 days after the making of the order or decision or within such further time as the Court of Appeal may allow, appeal to the Court of Appeal against the order or decision.
-  (a) an application to a Family Court for the exercise of the court's jurisdiction under this Act has been transferred to the High Court in accordance with section 14 of the Family Courts Act 1980; and
+  (a) an application to the Family Court for the exercise of the court’s jurisdiction under this Act has been transferred to the High Court in accordance with section 14 of the Family Court Act 1980; and
   (b) the High Court has made or refused to make an order,—
 (2) Every appeal under subsection (1), except an appeal upon a question of law, shall be by way of rehearing of the original proceedings as if the proceedings had been properly commenced in the Court of Appeal.
 (3)
@@ -1250,14 +1250,14 @@ Where it appears to the Registrar of a court that the payment of any fees prescr
 
 ### 111 Rules of procedure
 Rules may be made regulating the practice and procedure of courts in proceedings under this Act,—
-  (a) in the case of the High Court, under section 51C of the Judicature Act 1908:
-  (b) in the case of District Courts, under section 122 of the District Courts Act 1947:
-  (c) in the case of Family Courts, under section 16A of the Family Courts Act 1980.
+  (a) in the case of the High Court, under section 148 of the Senior Courts Act 2016:
+  (b) in the case of the District Court, under section 228 of the District Court Act 2016:
+  (c) in the case of the Family Court, under section 16A of the Family Court Act 1980.
 
 ### 111A Transitional provision relating to rules
 (1) Subsections (2) and (3) apply to rules made under section 111 that are in force immediately before the commencement of this section, unless those rules are revoked on or after the commencement of this section.
 (2) Rules to which this subsection applies that regulate the practice or procedure of the High Court continue to regulate the practice and procedure of the High Court until any rules referred to in section 111(a) come into force.
-(3) Rules to which this subsection applies that regulate the practice or procedure of the District Courts continue to regulate the practice and procedure of the District Courts until any rules referred to in section 111(b) come into force.
+(3) Rules to which this subsection applies that regulate the practice or procedure of the District Court continue to regulate the practice and procedure of the District Court until any rules referred to in section 111(b) come into force.
 
 ### 112 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations—
@@ -1274,7 +1274,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 Unless the context otherwise requires, in any other enactment, or in any regulation, rule, order, agreement, deed, instrument, application, or other document in force at the commencement of this Act every reference to the Aged and Infirm Persons Protection Act 1912 or Part 7 of the Mental Health Act 1969 shall hereafter be read as a reference to this Act.
 
 ### 114 Savings
-Nothing in this Act shall limit the general jurisdiction of the High Court under section 17 of the Judicature Act 1908 or otherwise.
+Nothing in this Act shall limit the general jurisdiction of the High Court under section 14 of the Senior Courts Act 2016 or otherwise.
 
 ### 115 Maori Affairs Act 1953 amended
 [Repealed]
