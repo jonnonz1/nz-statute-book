@@ -1,5 +1,5 @@
 # Fencing Act 1978
-_Consolidation as at 2017-01-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to reform the law relating to the erection and repair of dividing fences, and in substitution for the Fencing Act 1908
 
@@ -14,8 +14,8 @@ In this Act, unless the context otherwise requires,—
   - **adequate fence** means a fence that, as to its nature, condition, and state of repair, is reasonably satisfactory for the purpose that it serves or is intended to serve
   - **adjoining occupiers** means the occupiers of the lands on either side of a common boundary or a common fence
   - **court** means—
-    (a) a District Court under the District Courts Act 1947:
-    (b) a Disputes Tribunal that has jurisdiction under section 24A
+    (a) the District Court under the District Court Act 2016:
+    (b) the Disputes Tribunal with jurisdiction under section 24A
   - **fence** means a fence, whether or not continuous or extending along the whole boundary separating the lands of adjoining occupiers; and includes all gates, culverts, and channels that are part of or are incidental to a fence; and also includes any natural or artificial watercourse or live fence, or any ditch or channel or raised ground that serves as a dividing fence
   - **fencing agreement** means a covenant, agreement, or proviso, not being a fencing covenant, that relates in any way whatever to work on a fence between adjoining lands; and includes an agreement not to erect a fence
   - **fencing covenant** means a covenant, agreement, or proviso—
@@ -157,8 +157,8 @@ Save as otherwise agreed or ordered by the court, the middle of a fence shall be
 
 ## Part 4 — Procedure
 
-### 23 Proceedings to be in accordance with District Courts Act 1947
-(1) Subject to section 24A, the provisions of the District Courts Act 1947 shall apply to all proceedings under this Act.
+### 23 Proceedings to be in accordance with District Court Act 2016
+(1) Subject to section 24A, the provisions of the District Court Act 2016 shall apply to all proceedings under this Act.
 (2) Nothing in this Part shall restrict section 26 of Te Ture Whenua Maori Act 1993.
 
 ### 24 Jurisdiction of the court
@@ -186,18 +186,18 @@ Save as otherwise agreed or ordered by the court, the middle of a fence shall be
   (a) the court may make or enter an interim order or judgment:
   (b) the order or judgment shall be deemed to be final unless it expressly states that it is an interim order or judgment, as the case may be.
 
-### 24A Jurisdiction of Disputes Tribunals
-(1) Subject to subsection (2), a Disputes Tribunal established under the Disputes Tribunals Act 1988 shall have jurisdiction to—
+### 24A Jurisdiction of Disputes Tribunal
+(1) Subject to subsection (2), the Disputes Tribunal established under the Disputes Tribunal Act 1988 shall have jurisdiction to—
   (a) hear and determine all questions and disputes arising under this Act in relation to any of the matters specified in paragraphs (a) to (o) of subsection (1) of section 24; and
   (b) exercise the powers conferred by subsection (2) or subsection (3) of that section.
-(2) Subject to subsection (3), in the exercise of its jurisdiction under subsection (1) a Disputes Tribunal shall not—and an order or judgment of a Tribunal that exceeds any such restriction shall be entirely of no effect.
+(2) Subject to subsection (3), in the exercise of its jurisdiction under subsection (1) the Disputes Tribunal shall not—and an order or judgment of the Tribunal that exceeds any such restriction shall be entirely of no effect.
   (a) make an order under section 24(2)﻿(a)—
     (i) requiring a person to pay an amount exceeding $15,000:
     (ii) requiring a person to incur any expense that exceeds $15,000:
     (iii) declaring a person not liable to another for an amount exceeding $15,000:
     (iv) requiring a person to remove a fence where the value of the fence exceeds $15,000:
   (b) enter judgment under section 24(2)﻿(b) for an amount exceeding $15,000—
-(3) Where, in respect of any proceedings under subsection (1), the jurisdiction of a Disputes Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunals Act 1988, subsection (2) shall be read as if every reference in that subsection to $15,000 were a reference to $20,000.
+(3) Where, in respect of any proceedings under subsection (1), the jurisdiction of the Disputes Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunal Act 1988, subsection (2) shall be read as if every reference in that subsection to $15,000 were a reference to $20,000.
 
 ### 25 Power to come in and defend proceedings
 Where any proceedings have been commenced under this Act in relation to any fence, any person who may ultimately incur any liability in respect of the fence may come in and—
@@ -214,7 +214,7 @@ Where any proceedings have been commenced under this Act in relation to any fenc
 (3) If an owner or occupier of land, by himself or his agents or employees, obstructs any entry authorised by an order made under subsection (1), he shall be liable (in addition to any other penalty that he may incur) to pay the entire cost of the work, unless the court (on application made by him in that behalf) orders him to pay part only of that cost.
 
 ### 27 Rules
-The Governor-General may from time to time, by Order in Council, make rules prescribing, in all cases not specially provided for in this Act, the practice and procedure of the court and forms in all proceedings before a court under this Act, and until rules are made and to the extent they do not cover any case the provisions of the District Courts Rules 1992, or of the Disputes Tribunals Act 1988, as the case may require, shall so far as practicable be adopted.
+The Governor-General may from time to time, by Order in Council, make rules prescribing, in all cases not specially provided for in this Act, the practice and procedure of the court and forms in all proceedings before a court under this Act, and until rules are made and to the extent they do not cover any case the provisions of the District Court Rules 2014, or of the Disputes Tribunal Act 1988, as the case may require, shall so far as practicable be adopted.
 
 ### 28 Repeals and savings
 (1) The enactments specified in Schedule 3 are hereby repealed.
