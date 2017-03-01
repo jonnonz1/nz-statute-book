@@ -1,5 +1,5 @@
 # Housing Accords and Special Housing Areas Act 2013
-_Consolidation as at 2016-09-15_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Housing Accords and Special Housing Areas Act 2013.
@@ -845,7 +845,7 @@ There is no right of appeal or objection against a decision made by the authoris
 ### 80 No review of decisions unless right of appeal exercised
 (1) This section applies if a person has a right of appeal against a decision of an authorised agency under this Act.
 (2) Unless the person has exercised that right of appeal and a decision has been made on the appeal,—
-  (a) no application for review under Part 1 of the Judicature Amendment Act 1972 may be made; and
+  (a) no application for review under the Judicial Review Procedure Act 2016 may be made; and
   (b) no proceedings seeking a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision, may be heard by the High Court.
 
 ### 81 Rights of objection
