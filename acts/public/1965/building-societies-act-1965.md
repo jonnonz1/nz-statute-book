@@ -1,5 +1,5 @@
 # Building Societies Act 1965
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to building societies
 
@@ -18,7 +18,7 @@ _Consolidation as at 2014-12-01_
   - **bonus ballot** means a ballot, held by or on behalf of a society, of eligible bonus balloting shares for the purpose of ascertaining which of the holders of those shares are entitled to receive any prizes arising in respect of those shares
   - **bonus balloting shares** means shares issued pursuant to section 31A
   - **building society** , or , means a building society incorporated under this Act or under the Building Societies Act 1908
-  - **court** means a District Court in any case where District Courts have jurisdiction under the District Courts Act 1947 in relation to this Act or to building societies; and in any other case means the High Court or a Judge thereof
+  - **court** means the District Court in any case where the District Court has jurisdiction under the District Court Act 2016 in relation to this Act or to building societies, and in any other case means the High Court or a Judge of the High Court
   - **debt security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **director** includes a member of a committee of management of a society, and any other person occupying the position of director, by whatever name called
   - **disposition** , in relation to any land, means any disposition of that land inter vivos, and includes the grant of a lease or underlease; and has a corresponding meaning
@@ -883,7 +883,7 @@ The court may hear and determine a dispute in any case where—
 Subject to section 113, every determination of a dispute by arbitrators, or by the court, shall be final and conclusive and binding on all parties, and shall not be subject to appeal; and no proceedings on or determination of a dispute, whether referred to arbitrators, or the court, shall be removed into or restrained by injunction granted by any court.
 
 ### 113 Statement of case for High Court
-(1) At the request of either party to the dispute, the arbitrators, or the District Court Judge where a District Court is hearing the dispute, may state a case for the opinion of the High Court on any question of law.
+(1) At the request of either party to the dispute, the arbitrators, or the District Court Judge where the District Court is hearing the dispute, may state a case for the opinion of the High Court on any question of law.
 (2) Clause 4 of Schedule 2 of the Arbitration Act 1996 shall not apply to any dispute that is so referred.
 
 ## Part 7A — Conversion to company
@@ -1337,6 +1337,12 @@ Without prejudice to section 124, the Registrar may, if he or she thinks fit, ca
 
 ### 136 General penalty for offences
 Every society or person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided elsewhere than in this section is liable on conviction to a fine not exceeding $1,000.
+
+### 136A Jurisdiction of District Court
+The District Court has jurisdiction in relation to—
+  (a) the settlement of disputes between any building society and its members where the amount involved does not exceed $350,000:
+  (b) the recovery of money and enforcement of claims by or against any building society not exceeding in amount or value the sum of $350,000:
+  (c) all other matters arising under this Act not exceeding in amount or value the sum of $350,000.
 
 ### 137 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
