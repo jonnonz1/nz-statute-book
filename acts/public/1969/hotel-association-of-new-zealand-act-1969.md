@@ -1,5 +1,5 @@
 # Hotel Association of New Zealand Act 1969
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2017-03-01_
 
 > An Act to constitute the Hotel Association of New Zealand and to provide for the assistance and control of its members
 
@@ -119,8 +119,8 @@ The disciplinary committee shall not make any finding or order adverse to a pers
 (5) No decision of the disciplinary committee shall take effect while the person to whom the decision relates remains entitled to appeal against it under this section or while any such appeal by that person awaits determination by the District Court.
 
 ### 13 Publication of decisions in disciplinary proceedings
-(1) Unless otherwise directed under subsection (2), the association shall cause particulars of any decision of a District Court or of the disciplinary committee which has taken effect under this Act, and of the reasons for the decision, to be published in the New Zealand Licensee or such other publication concerned with the hotel industry as the association considers appropriate.
-(2) A District Court or the disciplinary committee, as the case may be, may direct, if in the circumstances it considers such publication unnecessary or undesirable, that there be no such publication in respect of a decision given by it or that the particulars to be so published be limited to any specified extent.
+(1) Unless otherwise directed under subsection (2), the association shall cause particulars of any decision of the District Court or of the disciplinary committee which has taken effect under this Act, and of the reasons for the decision, to be published in the New Zealand Licensee or such other publication concerned with the hotel industry as the association considers appropriate.
+(2) The District Court or the disciplinary committee, as the case may be, may direct, if in the circumstances it considers such publication unnecessary or undesirable, that there be no such publication in respect of a decision given by it or that the particulars to be so published be limited to any specified extent.
 (3) This section shall not affect any rights of publication otherwise existing.
 
 ### 14 Witnesses may be required to attend and give evidence
@@ -132,7 +132,7 @@ The disciplinary committee shall not make any finding or order adverse to a pers
 Witnesses and counsel shall have the same privileges and immunities in relation to inquiries conducted by the disciplinary committee under this Act as if they were proceedings in a court of law.
 
 ### 16 Witnesses' expenses
-(1) Every witness giving evidence or attending to give evidence at any inquiry by the disciplinary committee under this Act shall be entitled to such sum for his expenses and loss of time as he would be entitled to if he were a witness in criminal proceedings in a District Court.
+(1) Every witness giving evidence or attending to give evidence at any inquiry by the disciplinary committee under this Act shall be entitled to such sum for his expenses and loss of time as he would be entitled to if he were a witness in criminal proceedings in the District Court.
 (2) Subject to any order made by the disciplinary committee as to the payment of costs or expenses, all such witnesses' expenses shall be paid by the association.
 
 ### 17 Fees, travelling expenses, and costs of proceedings
