@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2014-09-13_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -178,8 +178,8 @@ In this Part, unless the context otherwise requires, Minister means the Minister
     (i) proceedings have been commenced under subsection (2); and
     (ii) notice of the commencement of those proceedings has been given to that person.
 (4) Where any notice under subsection (1)—the Minister or local authority, as the case may require, shall give notice to that effect to the District Land Registrar who shall register it, without fee, against the title to the land.
-  (a) has been withdrawn by the Minister or local authority under subsection (3)(a); or
-  (b) has been deemed to be withdrawn by virtue of subsection (3)(b)—
+  (a) has been withdrawn by the Minister or local authority under subsection (3)﻿(a); or
+  (b) has been deemed to be withdrawn by virtue of subsection (3)﻿(b)—
 (5) If the land required is—the Minister, or any person authorised generally or particularly in writing by him, or the local authority, as the case may be, before complying with the provisions of subsection (1), may apply to the Maori Land Court for the district in which the land is situated for an order under the provisions of Part 10 of Te Ture Whenua Maori Act 1993. The Maori Land Court shall deal with the application as if a notice under an enactment had been issued to the owners.
   (a) Maori freehold land as defined in section 4 of Te Ture Whenua Maori Act 1993; and
   (b) beneficially owned by more than 4 persons; and
@@ -232,7 +232,7 @@ Any notifying authority, as defined in section 59, may acquire any land under se
     (i) a general description of the land required to be taken (including the name of and number in the road or some other readily identifiable description of the place where the land is situated); and
     (ii) a description of the purpose for which the land is to be used; and
     (iii) the reasons why the taking of the land is considered reasonably necessary; and
-    (iv) a period within which objections, other than objections by persons who are served with a copy of the notice under subsection (1)(c), may be made; and
+    (iv) a period within which objections, other than objections by persons who are served with a copy of the notice under subsection (1)﻿(c), may be made; and
   (c) serve a notice on the owner of, and persons with a registered interest in, the land of the intention to take the land in the form set out in Schedule 1.
 (2) The provisions of this section requiring the names of the owners of the land to be shown on the plan of the land shall have no application in respect of any Maori land unless title to the land is registered under the Land Transfer Act 1952, but instead the plan shall be endorsed with the advice that the names of the owners may be obtained at the appropriate Maori Land Court. Entry on the Provisional Register shall not be deemed to be registration within the meaning of this subsection.
 (3) Every person having any estate or interest in the land intended to be taken may object to the taking of the land to the Environment Court in accordance with the provisions of the notice.
@@ -242,7 +242,7 @@ Any notifying authority, as defined in section 59, may acquire any land under se
   (c) the intention to take is the subject of any inquiry by the Environment Court or an Ombudsman, or of any application for a judicial review, in which case the notice of intention shall remain valid for 3 months after the date of the Environment Court's report or the date on which the Environment Court received written notice of the withdrawal of the objection, or the date of the completion of any inquiry by an Ombudsman, or the judicial decision, as the case may be.
 (5) Where the Minister or local authority has confirmed the intention of taking the land, the notice of intention so confirmed shall cease to have effect unless, on or before the expiration of 2 years after the date of such confirmation, a Proclamation taking the land has been published in the Gazette.
 (6) Where any such notice of intention given by the Minister or a local authority has so ceased to have effect, the notice shall not be repeated until at least 6 months after the date on which the original notice or the confirming notice, as the case may require, ceased to have effect.
-(7) A copy of the notice under subsection (1)(b) shall be lodged with the District Land Registrar and he shall register it without fee against the certificate of title affected.
+(7) A copy of the notice under subsection (1)﻿(b) shall be lodged with the District Land Registrar and he shall register it without fee against the certificate of title affected.
 (8) Any notice under this section may be withdrawn by the Minister or local authority and, if it is withdrawn, a notice to that effect shall be lodged with the District Land Registrar who shall register it without fee against the title to the land.
 
 ### 24 Objection to be heard by Environment Court
@@ -295,7 +295,7 @@ An Environment Judge or alternate Environment Judge, sitting alone or with any o
   (b) enter during daylight on any land for the purpose of gaining access to any river or stream, and, subject to the approval of the catchment authority, dig and remove natural material from the river or stream in such manner as will not divert or interrupt the course of the river or stream or damage any building, road, ford, or drain; and
   (c) enter during daylight on any land so as to gain access to other land for any purpose authorised under this section.
 (3) Entry shall not be made under subsection (2) without the consent of the owner or occupier, if the land is within the curtilage of a dwelling or other building or is within a stockyard, orchard, vineyard, plant nursery, shelter belt, airstrip, garden, or shrubbery.
-(4) No natural material shall be dug or removed under subsection (2)(b) within 50 metres above or below any bridge, dam, or ford without the consent of the person or authority having control over the bridge, dam, or ford.
+(4) No natural material shall be dug or removed under subsection (2)﻿(b) within 50 metres above or below any bridge, dam, or ford without the consent of the person or authority having control over the bridge, dam, or ford.
 (5) Before entering on land under subsection (2), a Minister of the Crown or some officer acting on his behalf or the local authority, as the case may be, shall (except in the case of any earthquake, flood, landslide, or other emergency requiring immediate repair to or reconstruction of the work) give to the owner and the occupier of the land not less than 10 working days' notice in writing of the intention to enter and shall include in the notice—
   (a) a description of the land affected; and
   (b) the type of material required; and
@@ -604,7 +604,7 @@ In this Part and in Part 6, unless the context otherwise requires,—
     (i) the date of that notification; or
     (ii) the date of the first entry upon the land for construction purposes; or
     (iii) the date on which the land is first injuriously affected by the work; or
-    (iv) the date of any agreement made under section 80(1)(c) or any date specified in such an agreement—
+    (iv) the date of any agreement made under section 80(1)﻿(c) or any date specified in such an agreement—
   (c) in the case of any other claim in respect of land of the claimant which has been or is proposed to be taken for any work, the date on which the land became by Proclamation or declaration vested in the Crown or in the local authority, as the case may be, or the date on which the land was first entered upon for the purpose of the construction or the carrying out of the work, whichever is the earliest:
   (d) in the case of any claim in respect of any work for which no land of the claimant has been taken and no land of the claimant is proposed to be taken, the date of the commencement of the execution of the portion of the work that causes damage to or injuriously affects the land of the claimant:
   (e)
@@ -615,7 +615,7 @@ In this Part and in Part 6, unless the context otherwise requires,—
   (a) substantial injurious affection to a person's land is caused by the construction (but not the maintenance or operation) of a public work; and
   (b) the injurious affection is not caused by changes of traffic flows arising out of the opening of any new road or motorway or the widening, upgrading, or deviation of an existing road; and
   (c) there would exist a right of action at common law in respect of the injurious affection by the owner of the land against the Crown or the local authority, as the case may require,—
-(2) In determining the existence of any right of action for the purposes of subsection (1)(c), the existence of any statutory authority or immunity that may be available to the Crown or local authority shall be disregarded.
+(2) In determining the existence of any right of action for the purposes of subsection (1)﻿(c), the existence of any statutory authority or immunity that may be available to the Crown or local authority shall be disregarded.
 (3) The provisions of this section shall not apply where construction of that part of the public work which causes the injurious affection has been commenced before the claimant acquired the land that is injuriously affected.
 
 ### 64 Compensation for injurious affection to be assessed by reference to whole work
@@ -670,7 +670,7 @@ Where land is taken or acquired from any person for the purpose of constructing 
 
 ### 71 Claimant's acts making execution of work more costly
 (1) For the purposes of this section, the term relevant date means—as the case may be.
-  (a) the date on which notification was given under section 18(1)(a); or
+  (a) the date on which notification was given under section 18(1)﻿(a); or
   (b) the date on which a requirement was notified under section 167 of the Resource Management Act 1991,—
 (2) If the Land Valuation Tribunal considers that the claimant in respect of any land taken or acquired for a public work has at any time after the relevant date done anything on or under the land with the purpose and effect of rendering the execution of the work more difficult or costly, the Tribunal shall take into account, by way of deduction from the amount of compensation to be awarded, any increase in the cost of executing the work caused or likely to be caused thereby; and if the Tribunal considers such increase in cost exceeds the value of the land taken, the award shall be for the payment by the claimant to the respondent of the amount of such excess and the costs of the inquiry.
 (3) The carrying out of repairs or maintenance to any improvements on the land to a value not exceeding, in any 3-yearly period, 15% of the value of the improvements on that land as shown on the valuation roll for the district, shall for the purposes of this section be deemed not to have been done with the purpose and effect of rendering the execution of the work on that land more difficult or costly.
@@ -776,22 +776,22 @@ A claim for compensation may be made by the owner of any land who claims to be e
 (3) If application is made to the Tribunal under this section, notice of the application shall be given not less than 2 months before the date of the hearing of the application to the person whose rights are to be determined thereby, and that person may—
   (a) not less than 20 working days before the date fixed for the hearing of the application, file in the office of the Tribunal nearest to the place where the land is situated, and serve on the applicant, particulars of the claim (if any) which he makes in respect of the matters and land to which the application relates:
   (b) appear and be heard on the application or claim so filed.
-(4) Subject to the provisions of this section, the Tribunal shall proceed to hear the parties and to examine the claim (if filed), or if no claim is filed to examine the application as if it were a claim duly made by the person to whom the application relates, but if no claim has been filed in accordance with subsection (3)(a), but the person whose rights are to be determined has appeared and been heard, the applicant shall be entitled to an adjournment for a reasonable period if he or it wishes to make any further investigation of any matter arising in the claimant's evidence.
+(4) Subject to the provisions of this section, the Tribunal shall proceed to hear the parties and to examine the claim (if filed), or if no claim is filed to examine the application as if it were a claim duly made by the person to whom the application relates, but if no claim has been filed in accordance with subsection (3)﻿(a), but the person whose rights are to be determined has appeared and been heard, the applicant shall be entitled to an adjournment for a reasonable period if he or it wishes to make any further investigation of any matter arising in the claimant's evidence.
 (5) If the circumstances render it desirable to do so, the Tribunal may hear together 2 or more applications under this section.
 
 ### 80 Accelerating hearing of compensation claims
 (1) A claim for compensation in respect of the taking of any land of any person for any public work shall lie and may be enforced in accordance with the provisions of this Act notwithstanding that no Proclamation or declaration taking the land has issued if—
-  (a) the Minister or the local authority has issued a notice under section 18(1)(a) in respect of the land; or
+  (a) the Minister or the local authority has issued a notice under section 18(1)﻿(a) in respect of the land; or
   (b) the execution has been completed of every portion of the work which will affect the amount of the land of that person which will have to be taken for the work or which will injuriously affect or damage the land of that person; or
   (c) the Minister or local authority and the owner of the land to be taken for any work have agreed to the land being taken and to the compensation being assessed in accordance with this Part.
-(2) In any case to which subsection (1)(a) applies, the claimant shall by notice in writing require the Minister or local authority to indicate whether the Minister or local authority intends to proceed with the acquisition of the claimant's land.
+(2) In any case to which subsection (1)﻿(a) applies, the claimant shall by notice in writing require the Minister or local authority to indicate whether the Minister or local authority intends to proceed with the acquisition of the claimant's land.
 (3) If the Minister or local authority confirms the intention to acquire the land or if paragraph (b) or paragraph (c) of subsection (1) applies, the claimant shall proceed with the claim under this section and the making of such a claim shall operate for the purposes of section 17 as an agreement by the claimant under section 17 to the claimant's estate or interest in that land being taken subject to subsection (7) and subject to the compensation to be paid being left to be determined under this Part.
 (4) If at the expiration of a period of 3 months from the date on which the notice pursuant to subsection (2) was given to the Minister, or local authority—then the claimant may advise the Minister or local authority in writing that the notice given under subsection (2) is to constitute—
   (a) the Minister or local authority has not indicated in writing the intention to proceed with the acquisition of the claimant's land; or
-  (b) the notice given under section 18(1)(a) has not been withdrawn or has not lapsed,—
+  (b) the notice given under section 18(1)﻿(a) has not been withdrawn or has not lapsed,—
   (c) an agreement by the claimant to the claimant's estate or interest in that land being taken, subject to subsection (7) and subject to the compensation to be paid being left to be determined under this Part; or
-  (d) a withdrawal of the notice given in respect of the claimant's land under section 18(1)(a).
-(5) In any case to which subsection (1)(b) applies, the making of a claim under this section in respect of any land to be taken shall operate, for the purposes of section 17, as an agreement by the claimant to the claimant's estate or interest in that land being taken subject to subsection (7) and subject to the compensation to be paid being left to be determined under this Part.
+  (d) a withdrawal of the notice given in respect of the claimant's land under section 18(1)﻿(a).
+(5) In any case to which subsection (1)﻿(b) applies, the making of a claim under this section in respect of any land to be taken shall operate, for the purposes of section 17, as an agreement by the claimant to the claimant's estate or interest in that land being taken subject to subsection (7) and subject to the compensation to be paid being left to be determined under this Part.
 (6) Any requirement or claim made under this section shall—
   (a) operate to automatically withdraw any objection made by the claimant under section 23 to the taking of the same land; and
   (b) prevent the commencement or prosecution of any proceedings by or on behalf of the claimant to prevent or delay the execution of the work or the taking of the land which is the subject of the requirement or claim made under this section.
@@ -799,7 +799,7 @@ A claim for compensation may be made by the owner of any land who claims to be e
 (8) For the purpose of any claim made under this section the forms prescribed in Schedules 3 and 4 may be varied to such extent as may be necessary to express the circumstances of the claim.
 
 ### 81 Public Trust may be ordered to represent infants, absentee owners, etc
-(1) If any person with whom it is desired to enter into an agreement under section 17 or section 18, or if any person who has or will have any right or title to claim compensation under this Act, is—and in the absence of steps taken to appoint a person to represent that person, the Minister or the local authority may, after notifying Public Trust, apply to a District Court for an order authorising Public Trust to act as if it were the legal guardian, manager, trustee, or agent, as the case may require, of that person.
+(1) If any person with whom it is desired to enter into an agreement under section 17 or section 18, or if any person who has or will have any right or title to claim compensation under this Act, is—and in the absence of steps taken to appoint a person to represent that person, the Minister or the local authority may, after notifying Public Trust, apply to the District Court for an order authorising Public Trust to act as if it were the legal guardian, manager, trustee, or agent, as the case may require, of that person.
   (a) an infant, a mentally disordered person, a person under some other legal disability, or a beneficiary under a trust, not having a guardian, manager, or trustee; or
   (b) of unknown whereabouts and has no known agent; or
   (c) unknown—
@@ -895,7 +895,7 @@ If any doubt or dispute arises as to the right of any person to receive any comp
   (e) if the compensation or purchase money is not more than $250 it shall be paid to the parties entitled to the rents and profits of the land; or, in the case of disability or incapacity of such parties, to their respective spouses, guardians, committees, or trustees, as the case may be.
 (2) The provisions of this section shall not prevent any person who had a partial or other qualified interest in the land to which interest he is solely entitled, and which he may absolutely sell or dispose of, from receiving any compensation or purchase money in respect of any interest to which he may be declared entitled under any award, or which has been agreed to be paid to him.
 (3) Notwithstanding the provisions of subsection (1), where the person having the partial or qualified interest in the land and not entitled to sell or convey it is a local authority, the compensation money or purchase money may be paid to the local authority.
-(4) The local authority shall record any money paid to it under subsection (3) in a separate account and shall invest it separately; and shall expend it only for the permanent improvement of other land held for the same or like uses, trusts, and purposes or for all or any of the purposes set out in subparagraphs (i) and (ii) of subsection (1)(c), so that such application of the money will benefit persons substantially in the same locality.
+(4) The local authority shall record any money paid to it under subsection (3) in a separate account and shall invest it separately; and shall expend it only for the permanent improvement of other land held for the same or like uses, trusts, and purposes or for all or any of the purposes set out in subparagraphs (i) and (ii) of subsection (1)﻿(c), so that such application of the money will benefit persons substantially in the same locality.
 
 ### 98 Public Trust may invest compensation money
 Until any compensation or purchase money deposited with Public Trust under this Act is applied as provided by section 96 or section 97, Public Trust shall invest it in its common fund, or in such other investments as are authorised by law for the investment of trust funds, or partly in the Common Fund and partly in such other investments, as Public Trust thinks fit, and shall pay the annual proceeds of it to the party for the time being entitled to the rents and profits of the land in respect of which the compensation was awarded or compensation or purchase money was paid.
@@ -1450,7 +1450,7 @@ There shall be for every local railway on which passengers are carried an office
   (a) until 2 months after notice in writing of the intention of opening it has been given by its proprietors to the Minister; and
   (b) until 30 days after notice in writing has been given by such proprietors to the Minister of the time when the railway or portion of railway will be in their opinion sufficiently completed for the safe conveyance of passengers and ready for inspection; and
   (c) unless and until the Minister has given notice in writing to such proprietors that he has received from the person appointed under section 178 a certificate that the railway or the portion of it, as the case may be, is safe and fit for traffic.
-(2) The proprietors of any local railway or portion of any local railway who open it or cause it to be opened without such notices having been duly given, commit an offence and shall be liable on conviction to a fine not exceeding $1,000 for every day or part of a day during which the railway or portion continues open until the said notices are duly given and the Minister has given his notice under subsection (1)(c) to the proprietors.
+(2) The proprietors of any local railway or portion of any local railway who open it or cause it to be opened without such notices having been duly given, commit an offence and shall be liable on conviction to a fine not exceeding $1,000 for every day or part of a day during which the railway or portion continues open until the said notices are duly given and the Minister has given his notice under subsection (1)﻿(c) to the proprietors.
 
 ### 180 Minister may postpone opening or working of local railway
 (1) If the person appointed to inspect any local railway or portion of local railway, after inspecting it, reports in writing to the Minister that in his opinion the opening or the continued working of it would be dangerous to the public or to the persons employed on the railway, owing to—the Minister may from time to time—
@@ -1521,7 +1521,7 @@ In this Part, unless the context otherwise requires, Minister means any Minister
   (a) prohibiting, or permitting, regulating, and prescribing terms and conditions for, the use of the lake or its waters or any part of it or its waters:
   (b) prohibiting, or permitting, regulating, and prescribing terms and conditions for, the discharge into or placing in the lake of any solid or liquid matter likely to settle in the lake, or cause an obstruction in it, or interfere with any authority or person lawfully using the lake, or its waters, or any part of it or its waters:
   (c) prescribing fines, not exceeding $500 in any case, for the breach of any regulations made under this section.
-(4) Any regulations made under subsection (3)(b) shall not permit the discharge or placing of any matter into or in the lake in contravention of any Act, regulation, or bylaw.
+(4) Any regulations made under subsection (3)﻿(b) shall not permit the discharge or placing of any matter into or in the lake in contravention of any Act, regulation, or bylaw.
 (5) Regulations under this section may be made generally in respect of all artificial lakes, or in respect of any 1 or more of such lakes.
 (6) The power of making regulations under this section shall be exercisable in respect of such parts of any natural lake as lie within 350 metres from—where a work designed for the control of the level of the waters of the lake is constructed on a river or stream flowing from the lake, in the same manner as if those parts of the natural lake were parts of an artificial lake.
   (a) any part of a Government work constructed for the purpose of utilising the waters of the lake; or
@@ -1654,14 +1654,14 @@ The Minister or the local authority intending to take any poll under this Part s
   (b) that there would be no more than minor detraction from the existing benefits within an irrigation district—
   (c) by altering the description of the land constituting the district to exclude some land or include more land; or
   (d) by altering or adding to the charges, conditions of supply, or any other matter contained in the Order in Council—
-(3) No recommendation shall be made to the Governor-General under subsection (2) without the consent of the same percentage of the occupiers of the land to be excluded or included as was specified in the notice given under section 202(1)(a)(xiii) as the minimum percentage required to be in favour of the proposed irrigation scheme as a prerequisite to its construction.
+(3) No recommendation shall be made to the Governor-General under subsection (2) without the consent of the same percentage of the occupiers of the land to be excluded or included as was specified in the notice given under section 202(1)﻿(a)﻿(xiii) as the minimum percentage required to be in favour of the proposed irrigation scheme as a prerequisite to its construction.
 
 ### 208A Reduction in size and abolition of irrigation district
 (1) Notwithstanding anything in this Part, the Governor-General may, on the advice of the Minister, by Order in Council—
   (a) abolish any irrigation district by revoking the Order in Council which constituted the district and any amending Order in Council made under section 208(2):
   (b) reduce the size of an irrigation district by amending the Order in Council constituting the district, and any amending Order in Council made under section 208(2), to redefine the district or exclude any land from the district.
 (2) Subject to subsection (4), on the abolition of an irrigation district or the reduction in size of an irrigation district under subsection (1), the provisions of this Part shall cease to apply in respect of the abolished district or in respect of the land no longer forming part of the district, as the case may be.
-(3) If any Order in Council is made under subsection (1)(b), the basic charge and the water availability charge shall not be increased by virtue of that fact, and any subsequent adjustment of either of those charges under section 210 or section 212 shall be calculated as if the Order in Council had not been made.
+(3) If any Order in Council is made under subsection (1)﻿(b), the basic charge and the water availability charge shall not be increased by virtue of that fact, and any subsequent adjustment of either of those charges under section 210 or section 212 shall be calculated as if the Order in Council had not been made.
 (4) The owner and occupier of any land which formed part of an irrigation district, and which is no longer within the district by virtue of an Order in Council made under this section, shall be entitled to claim—
   (a) reimbursement from the Minister for all costs and expenses actually and reasonably incurred by the owner and occupier in anticipation of the land being irrigated, to the extent that the costs and expenses are no longer of any value to the owner and occupier; and
   (b) notwithstanding the provisions of section 60, full compensation from the Minister under Part 5 in respect of injurious affection of the land.
@@ -1681,7 +1681,7 @@ Notwithstanding that a water availability charge may have been notified under se
 
 ### 212A Alternative to basic and water availability charges
 (1) Notwithstanding anything in this Act, the Minister may elect not to set a basic charge and a water availability charge, but instead to set 1 or more charges in substitution therefor to recover from the occupiers in the scheme their share of capital, operation, and maintenance costs on a basis appropriate to the scheme.
-(2) The amount of any charge set under this section and the basis upon which it may subsequently be varied shall be included in the notice given under section 202(1)(a) in place of the matters specified in subparagraphs (iii) to (v) and (vii) of that paragraph.
+(2) The amount of any charge set under this section and the basis upon which it may subsequently be varied shall be included in the notice given under section 202(1)﻿(a) in place of the matters specified in subparagraphs (iii) to (v) and (vii) of that paragraph.
 (3) Any charge set under this section may be varied by the Minister at any time upon the basis specified in the notice given under the said section 202.
 (4) The provisions of this Part (except for sections 209 to 212) shall apply to any charge set under this section in the same manner, with any necessary modifications, as they apply to the basic charge and the water availability charge specified in this Part.
 (5) In setting a charge in substitution for the charges payable under sections 214 and 216, the Minister may have regard to any of the matters specified in those sections.
@@ -1691,7 +1691,7 @@ For the purposes of sections 209 to 212, interest shall be calculated at yearly 
   provided that the Minister may specify the addition of a further percentage to the interest rate to compensate for any deferral in the recovery of principal and interest when charges are set under section 212A.
 
 ### 214 Liability of occupier for annual charge
-(1) Except where a water availability agreement referred to in section 216 is entered into and the annual charge payable under that agreement is greater than the annual basic charge payable in respect of any land, every occupier of land in an irrigation district shall (subject to any deferments of charges for the development period as provided for in section 202 and the recovery of the deferred charges by approximately equal amounts) pay to the Minister an annual charge for each of the seasons in the period specified in the notice under section 202(1)(a)(vi).
+(1) Except where a water availability agreement referred to in section 216 is entered into and the annual charge payable under that agreement is greater than the annual basic charge payable in respect of any land, every occupier of land in an irrigation district shall (subject to any deferments of charges for the development period as provided for in section 202 and the recovery of the deferred charges by approximately equal amounts) pay to the Minister an annual charge for each of the seasons in the period specified in the notice under section 202(1)﻿(a)﻿(vi).
 (2) The annual charge referred to in subsection (1) as the liability of an occupier shall be an amount calculated in accordance with the following formula:b × hwhere—
   (b) is the basic charge calculated in accordance with section 209 and adjusted, if required, in accordance with section 210; and
   (h) is the irrigable area of the land of the occupier in the irrigation district as determined in accordance with section 215.
@@ -1711,7 +1711,7 @@ For the purposes of sections 209 to 212, interest shall be calculated at yearly 
 (1) The Minister may allocate water, to be supplied from the water supply works for any irrigation district, to the occupier of any land in the district, and may determine the conditions under which such water shall be so supplied. Each allocation shall be expressed as a number of unit quantities or unit rates of supply.
 (2) Each such allocation to an occupier shall be compatible with a scheme approved by the Minister for the development through irrigation of the land of the occupier and, in determining such allocation, the Minister shall take into consideration any request made in writing by the occupier as to the allocation the occupier desires.
 (3) The Minister, for and on behalf of the Crown, may enter into a water availability agreement with the occupier of any land in the irrigation district. Every such agreement shall be in accordance with any allocations and conditions the Minister has determined under subsections (1) and (10).
-(4) Every occupier of land in respect of which a water availability agreement is entered into with the Minister shall, subject to the provisions of subsection (7) and subject to any deferments of charges for the development period as provided for in section 202 and the recovery of the deferred charges, pay to the Minister an annual water availability charge for each of the seasons in the period specified in the notice under section 202(1)(a)(vi).
+(4) Every occupier of land in respect of which a water availability agreement is entered into with the Minister shall, subject to the provisions of subsection (7) and subject to any deferments of charges for the development period as provided for in section 202 and the recovery of the deferred charges, pay to the Minister an annual water availability charge for each of the seasons in the period specified in the notice under section 202(1)﻿(a)﻿(vi).
 (5) The annual water availability charge referred to in subsection (4) as the liability of an occupier shall be an amount calculated in accordance with the following formula:a × wwhere—
   (a) is the water availability charge calculated in accordance with section 211 and adjusted, if required, in accordance with section 212; and
   (w) is the number of unit quantities or unit rates of supply allocated to that occupier in accordance with subsection (1).
@@ -1896,7 +1896,7 @@ In any case where any authority (including the Crown or any Minister of the Crow
   (a) the defendant does not appear; or
   (b) it is shown to the satisfaction of the court that the title under which the defendant claims has, as between himself and the Crown or the local authority, as the case may be, expired or become liable to forfeiture or cancellation—
 (3) If delivery of the land is not made pursuant to such order the court may issue a warrant authorising and requiring the bailiff of the court or any constable to give possession of the land to the plaintiff.
-(4) The provisions of sections 99, 100, and 101 of the District Courts Act 1947 shall, so far as they are not repugnant to or inconsistent with this section, apply to any proceedings taken under this section.
+(4) The provisions of sections 194 to 199 of the District Court Act 2016 shall, so far as they are not repugnant to or inconsistent with this section, apply to any proceedings taken under this section.
 
 ### 241 Obstructing employees
 Every person who wilfully obstructs any engineer, overseer, employee, or other person in the performance of any duty, or in doing any work he has lawful authority to do, under this Act, commits an offence against this Act.
