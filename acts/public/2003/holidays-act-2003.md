@@ -1,5 +1,5 @@
 # Holidays Act 2003
-_Consolidation as at 2016-04-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Holidays Act 2003.
@@ -840,7 +840,7 @@ In determining an appropriate penalty under section 76, the Authority or the cou
   (b) the matters referred to in section 133A(b) to (g) of the Employment Relations Act 2000.
 
 ### 76B Chief executive or Labour Inspector may enforce payment of penalty
-The chief executive or a Labour Inspector may recover in a District Court as a debt due to the Crown any penalty ordered by the Authority or the court under section 76 to be paid to the Crown.
+The chief executive or a Labour Inspector may recover in the District Court as a debt due to the Crown any penalty ordered by the Authority or the court under section 76 to be paid to the Crown.
 
 ### 77 Proceedings by Labour Inspector to recover arrears of pay
 (1) A Labour Inspector may take proceedings on behalf of an employee to recover unpaid holiday pay or leave pay that the employee is entitled to under this Act.
