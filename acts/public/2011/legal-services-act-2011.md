@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2014-12-12_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -40,7 +40,7 @@ The purpose of this Act is to promote access to justice by establishing a system
   - **criminal proceedings** includes—
     (a) proceedings on an application made under any of section 54, 68, or 121 of the Sentencing Act 2002:
     (b) proceedings before a District Court Judge under sections 88 to 88AG of the Summary Proceedings Act 1957:
-    (c) proceedings for contempt under section 84O of the District Courts Act 1947:
+    (c) proceedings for contempt under section 163 of the District Court Act 2016:
     (d) proceedings before a District Court Judge under the Extradition Act 1999 relating to the surrender to a foreign country of the person to whom the proceedings relate
   - **disposable capital** , in relation to a person, means that person's disposable capital—
     (a) as defined in Schedule 1; or
@@ -126,7 +126,7 @@ This Act binds the Crown.
 
 ### 6 Proceedings for which legal aid may be granted: criminal matters
 Legal aid may be granted in respect of the following criminal matters:
-  (a) criminal proceedings in a District Court, a Youth Court, the High Court, the Court of Appeal, or the Supreme Court:
+  (a) criminal proceedings in the District Court, the Youth Court, the High Court, the Court of Appeal, or the Supreme Court:
   (b) appeals to the Judicial Committee of the Privy Council in criminal proceedings, where the Attorney-General certifies that a question of law of exceptional public importance is involved and that the grant of criminal legal aid is desirable in the public interest:
   (c) proceedings before the New Zealand Parole Board that—
     (i) are held under section 27, 65, or 107 of the Parole Act 2002 (which relate to postponement orders, recall orders, and orders under section 107 of that Act); or
@@ -135,12 +135,12 @@ Legal aid may be granted in respect of the following criminal matters:
 
 ### 7 Proceedings for which legal aid may be granted: civil matters
 (1) Legal aid may be granted in respect of the following civil matters:
-  (a) civil proceedings in a District Court or a Family Court:
+  (a) civil proceedings in the District Court or the Family Court:
   (b) civil proceedings in the High Court, the Court of Appeal, or the Supreme Court:
   (c) appeals to the Judicial Committee of the Privy Council in civil proceedings in any case where—
     (i) the applicant has succeeded in the Court of Appeal and is the respondent in the appeal to the Privy Council, if the grant of aid is approved by the Minister; or
     (ii) the Attorney-General certifies that a question of law of exceptional public importance is involved and that the grant of aid is desirable in the public interest:
-  (d) proceedings commenced by way of application in a Youth Court under Part 7 of the Children, Young Persons, and Their Families Act 1989 or in respect of any review of any determination of, or any order made in, a Youth Court in any such proceedings:
+  (d) proceedings commenced by way of application in the Youth Court under Part 7 of the Children, Young Persons, and Their Families Act 1989 or in respect of any review of any determination of, or any order made in, the Youth Court in any such proceedings:
   (e) in any case where the Commissioner considers that the case is one that requires legal representation (having regard to the nature of the proceedings and to the applicant's personal interest) and considers that the applicant would suffer substantial hardship if aid were not granted, proceedings in—
     (i) the Māori Land Court; or
     (ii) the Māori Appellate Court; or
@@ -165,7 +165,7 @@ Legal aid may be granted in respect of the following criminal matters:
   (a) an inquest held by a coroner for the purposes of Part 3 of the Coroners Act 2006; and
   (b) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)﻿(i)) that concerns an offender and is a hearing at which a victim may appear as of right or with the Board's leave.
 (3) Paragraphs (o) and (p) of subsection (1) do not restrict any other paragraph of that subsection.
-(3A) Despite subsection (1), legal aid is only available in proceedings under the Care of Children Act 2004 that are to be heard and determined in a Family Court if—
+(3A) Despite subsection (1), legal aid is only available in proceedings under the Care of Children Act 2004 that are to be heard and determined in the Family Court if—
   (a) a lawyer is acting in the proceedings as permitted by any of the following sections of that Act:
     (i) section 7A(2); or
     (ii) section 7A(4)﻿(b)﻿(ii) or (iii); or
@@ -217,7 +217,7 @@ Legal aid may be granted in respect of the following criminal matters:
 (4) Subsection (1)﻿(c)﻿(i) does not apply in respect of—
   (a) an appeal; or
   (b) a proceeding to which section 6(c) applies.
-(5) Despite subsection (1)﻿(a), the Commissioner may not grant legal aid to a child or a young person (as those terms are defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) in respect of any proceedings against that child or young person for an offence, if those proceedings are heard in a Youth Court.
+(5) Despite subsection (1)﻿(a), the Commissioner may not grant legal aid to a child or a young person (as those terms are defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) in respect of any proceedings against that child or young person for an offence, if those proceedings are heard in the Youth Court.
 
 ### 9 Prescribed offences
 (1) If an applicant is charged with or convicted of a prescribed offence, the Commissioner must determine, in the manner set out in regulations, whether the applicant has sufficient means to enable him or her to obtain legal assistance unless subsection (2) applies.
