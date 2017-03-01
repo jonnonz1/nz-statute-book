@@ -1,5 +1,5 @@
 # Auditor Regulation Act 2011
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Auditor Regulation Act 2011.
@@ -323,15 +323,15 @@ The FMA must, in considering what conditions to impose under section 15(1)﻿(c)
 **Appeals in respect of licensing and related matters**
 
 ### 24 Appeals in respect of licensing and related matters
-(1) A person may appeal to a District Court against any decision of an accredited body or the FMA to—
+(1) A person may appeal to the District Court against any decision of an accredited body or the FMA to—
   (a) decline to issue a licence to the person; or
   (b) include conditions under section 15(1)﻿(b) or (c) on the person's licence or proposed licence (or to act under section 15(3)); or
   (c) suspend or cancel his or her licence; or
   (d) decline to act on an application made by the person under section 23 (or to include terms and conditions on an authorisation following such an application); or
   (e) issue a direction to the person under subpart 6; or
   (f) make any other order under subpart 6 or 7 in respect of the person.
-(2) A person may appeal to a District Court against any decision of a disciplinary body to cancel or suspend his or her licence unless the rules of the accredited body provide for an appeal against the decision to a body established to hear appeals against the decision (for example, the Appeals Council referred to in section 6(1)﻿(h) of the New Zealand Institute of Chartered Accountants Act 1996).
-(3) An appeal to a District Court under this section must be brought—
+(2) A person may appeal to the District Court against any decision of a disciplinary body to cancel or suspend his or her licence unless the rules of the accredited body provide for an appeal against the decision to a body established to hear appeals against the decision (for example, the Appeals Council referred to in section 6(1)﻿(h) of the New Zealand Institute of Chartered Accountants Act 1996).
+(3) An appeal to the District Court under this section must be brought—
   (a) in accordance with the rules of court; and
   (b) within 20 working days after notice of the decision is communicated to the appellant, or within any further time a District Court Judge allows on application made before or after the period expires.
 
@@ -403,11 +403,11 @@ The relevant body must not exercise a power referred to in section 28(2) or 29 u
   (b) the relevant body gives the audit firm or a representative of the audit firm an opportunity to make written submissions on the matter within that notice period.
 
 ### 31 Appeals in respect of registration matters
-(1) An audit firm may appeal to a District Court against any decision of an accredited body or the FMA to—
+(1) An audit firm may appeal to the District Court against any decision of an accredited body or the FMA to—
   (a) decline to authorise the registration of the firm; or
   (b) include conditions under section 28 on the firm's registration (or to act under section 28(2)); or
   (c) give notice to the Registrar to cancel or suspend the firm's registration.
-(2) An appeal to a District Court under this section must be brought—
+(2) An appeal to the District Court under this section must be brought—
   (a) in accordance with the rules of court; and
   (b) within 20 working days after notice of the decision is communicated to the appellant, or within any further time a District Court Judge allows on application made before or after the period expires.
 
