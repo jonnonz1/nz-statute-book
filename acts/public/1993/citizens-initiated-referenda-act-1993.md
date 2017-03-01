@@ -1,5 +1,5 @@
 # Citizens Initiated Referenda Act 1993
-_Consolidation as at 2014-03-25_
+_Consolidation as at 2017-03-01_
 
 > An Act to provide for the holding, on specific questions, of citizens initiated referenda, the results of which referenda will indicate the views held by the people of New Zealand on specific questions but will not be binding on the New Zealand Government
 
@@ -565,7 +565,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
 ### 58A Rules of court
-Rules of court may be made in the manner prescribed in the Judicature Act 1908 for the purposes of Part 6.
+Rules of court may be made in the manner prescribed in the Senior Courts Act 2016 for the purposes of Part 6.
 
 ### 59 Right to petition House of Representatives unaffected
 Nothing in this Act affects in any way the right of any person to petition the House of Representatives, or the jurisdiction of any committee or other body set up by the House of Representatives to deal with a petition to the House of Representatives.
