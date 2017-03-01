@@ -1,5 +1,5 @@
 # Major Events Management Act 2007
-_Consolidation as at 2016-04-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Major Events Management Act 2007.
@@ -280,7 +280,7 @@ Every person commits an offence who, without the written authorisation of the Ne
 
 ### 29 Authorisation by New Zealand Olympic Committee Incorporated
 (1) The New Zealand Olympic Committee Incorporated must make a decision on an application for its written authorisation for a person to take an action described in section 28 within 10 working days after receipt of the information it considers necessary to make that decision, and if it fails to do so the Committee is to be treated as having given the written authorisation sought in the application.
-(2) A decision of the New Zealand Olympic Committee Incorporated under subsection (1) is an exercise of a statutory power of decision for the purposes of the Judicature Amendment Act 1972.
+(2) A decision of the New Zealand Olympic Committee Incorporated under subsection (1) is an exercise of a statutory power of decision for the purposes of the Judicial Review Procedure Act 2016.
 
 ### 30 Exceptions to section 28
 Section 28 does not apply to the display, exhibition, or use of any emblem or word if—
@@ -303,7 +303,7 @@ It is a defence to a prosecution for an offence against section 28, in relation 
   (b) that the defendant received the advertisement, or the emblem or word contained in the advertisement, in the ordinary course of that business and did not know, and had no reason to believe, that the publication of the advertisement or the publication of the advertisement containing that emblem or word would constitute a breach of section 28.
 
 ### 33 Injunction for breach of section 28
-(1) The New Zealand Olympic Committee Incorporated may apply to the court or a District Court for an injunction under this section.
+(1) The New Zealand Olympic Committee Incorporated may apply to the court or the District Court for an injunction under this section.
 (2) On an application under subsection (1), if the court is satisfied that a person has committed an offence against section 28, whether or not it appears to the court that the person intends to engage again, or to continue to engage, in that conduct, the court may—
   (a) grant an injunction restraining the person from engaging in conduct that appears to the court to constitute that offence; or
   (b) if it is desirable to do so, grant an interim injunction restraining the person from engaging in conduct that appears to the court to constitute that offence.
