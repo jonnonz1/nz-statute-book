@@ -1,5 +1,5 @@
 # Weights and Measures Act 1987
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2017-03-01_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Weights and Measures Act 1987.
@@ -17,7 +17,7 @@ _Consolidation as at 2013-12-18_
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **accredited person** means a person accredited pursuant to section 30A
-  - **approved overseas country** means any country outside New Zealand that is declared by notice in the Gazette to be an approved overseas country for the purposes of section 5(3)(b)
+  - **approved overseas country** means any country outside New Zealand that is declared by notice in the Gazette to be an approved overseas country for the purposes of section 5(3)﻿(b)
   - **automatic volumetric liquid dispensing machine** means an instrument in which self-acting machinery automatically dispenses liquids in measured quantities but which instrument is not itself a calibrated measure or calibrated measuring instrument
   - **automatic weighing machine** means a weighing instrument in which self-acting machinery automatically loads the goods to be weighed and which automatically weighs those goods
   - **catch weight goods** means goods that—
@@ -35,7 +35,7 @@ In this Act, unless the context otherwise requires,—
   - **goods** means all kinds of movable personal property, including animals
   - **inadequate package** means a package enclosing goods that contains less than the quantity stated on the package or a label attached to it, where the deficiency is more than twice the amount of error specified for the purpose in regulations made under section 41A
   - **infringement fee** means the amount prescribed by regulations made under section 41B as the amount payable in respect of an infringement offence for which an infringement notice has been issued
-  - **infringement notice** means a notice, in the form prescribed by regulations made under section 41B and issued under section 32A(1)(b), in respect of an infringement offence
+  - **infringement notice** means a notice, in the form prescribed by regulations made under section 41B and issued under section 32A(1)﻿(b), in respect of an infringement offence
   - **infringement offence** means—
     (a) an offence against any of sections 8, 10, 14, 15, 15A, 16, 16A, 17, 18, 21, 22B, and 24:
     (b) a breach of any regulation made under this Act that is prescribed as an infringement offence
@@ -61,7 +61,7 @@ In this Act, unless the context otherwise requires,—
       (ii) the making of a payment in respect of any toll or duty—
       (iii) the transaction is by reference to quantity or is a transaction for the purposes of which there is made or implied a statement of the quantity of goods to which the transaction relates; and
       (iv) the use is for the purpose of the determination or statement of that quantity; but
-    (b) does not include such use of any weight, measure, or weighing or measuring instrument where the determination or statement of quantity referred to in paragraph (a)(iv) is a determination or statement of the quantity of goods required for despatch to a destination outside New Zealand—
+    (b) does not include such use of any weight, measure, or weighing or measuring instrument where the determination or statement of quantity referred to in paragraph (a)﻿(iv) is a determination or statement of the quantity of goods required for despatch to a destination outside New Zealand—
   - **weighing instrument** means any instrument or machine used for weighing any article, thing, liquid, or substance; and includes weights used in connection with it
   - **weight or measure of the metric system** means a unit of weight, length, area, or volume described in Schedule 1; and includes any weight or measure derived from any such unit.
 
@@ -84,7 +84,7 @@ This Act binds the Crown.
 (3) The Secretary shall ensure that the departmental standards are verified from time to time, at intervals not exceeding 5 years, by reference to—
   (a) the New Zealand standards for the metre and the kilogram maintained pursuant to the Measurement Standards Act 1992; or
   (b) any national standards of measurement maintained by any approved overseas country.
-(4) The Minister of the Crown who is for the time being charged with the administration of the Measurement Standards Act 1992 may from time to time, by notice in the Gazette, declare any country outside New Zealand to be an approved overseas country for the purposes of subsection (3)(b) where the Minister is satisfied that the national standards of measurement maintained by that country are of sufficient accuracy to be used for the purpose of verifying the departmental standards.
+(4) The Minister of the Crown who is for the time being charged with the administration of the Measurement Standards Act 1992 may from time to time, by notice in the Gazette, declare any country outside New Zealand to be an approved overseas country for the purposes of subsection (3)﻿(b) where the Minister is satisfied that the national standards of measurement maintained by that country are of sufficient accuracy to be used for the purpose of verifying the departmental standards.
 (5) Any notice under subsection (4) may be in like manner amended or revoked at any time.
 
 ### 6 Reference standards
@@ -93,14 +93,14 @@ This Act binds the Crown.
   (b) standards that are of the same or greater accuracy as the departmental standards.
 (2) Reference standards must be verified from time to time, at intervals not exceeding 5 years, by reference to—
   (a) the departmental standards; or
-  (b) the standards referred to in section 5(3)(a) or (b).
+  (b) the standards referred to in section 5(3)﻿(a) or (b).
 (3) Unless it is impracticable to do so, a reference standard must be marked with all of the following:
   (a) a Crown and the letters NZ:
   (b) figures indicating the unit of the weight or measure and the numerical value of that unit:
   (c) any other symbols, letters, or figures prescribed by regulations made under section 41(ab).
 (4) The marks must, where practicable, appear on the reference standard,—
-  (a) in the case of the marks described in subsection (3)(a), in close proximity to each other; and
-  (b) in the case of the marks described in subsection (3)(c), in the form and manner (if any) prescribed by regulations made under section 41(ac).
+  (a) in the case of the marks described in subsection (3)﻿(a), in close proximity to each other; and
+  (b) in the case of the marks described in subsection (3)﻿(c), in the form and manner (if any) prescribed by regulations made under section 41(ac).
 
 ### 7 Inspectors' working standards
 (1) The Secretary shall provide, for the purposes of this Act, copies of the reference standards to be known as Inspectors' working standards, which shall be issued to Inspectors and shall be—
@@ -115,8 +115,8 @@ This Act binds the Crown.
   (b) figures indicating the unit of the weight or measure and the numerical value of that unit:
   (c) any other symbols, letters, or figures prescribed by regulations made under section 41(ab).
 (4) The marks must, where practicable, appear on the Inspectors' working standard,—
-  (a) in the case of the marks described in subsection (3)(a), in close proximity to each other; and
-  (b) in the case of the marks described in subsection (3)(c), in the form and manner (if any) prescribed by regulations made under section 41(ac).
+  (a) in the case of the marks described in subsection (3)﻿(a), in close proximity to each other; and
+  (b) in the case of the marks described in subsection (3)﻿(c), in the form and manner (if any) prescribed by regulations made under section 41(ac).
 
 ### 7A Accredited persons' working standards
 (1) Every accredited person shall maintain such standards of measurement as the Secretary considers necessary to enable the accredited person to exercise or perform that accredited person's functions, duties, and powers under this Act.
@@ -127,7 +127,7 @@ This Act binds the Crown.
 (3) Every accredited person must, at intervals not exceeding 10 years, cause the standards maintained by that person under subsection (1) that are used to determine a measure of volume and are constructed of glass to be verified by reference to—
   (a) the departmental standards; or
   (b) any reference standards; or
-  (c) the standards referred to in section 5(3)(a) or (b).
+  (c) the standards referred to in section 5(3)﻿(a) or (b).
 
 ## Part 2 — Use of weights and measures for trade
 
@@ -151,7 +151,7 @@ Nothing in section 10 applies to the use by any person of any unit of a weight o
   (b) the goods—
     (i) have been imported into New Zealand; or
     (ii) are part of a line of goods intended for sale by retail both in New Zealand and another country or were, when marked with the unit of a weight or measure of a system which is not the metric system, intended for sale by retail in another country; and
-  (c) in the case of the goods referred to in paragraph (b)(ii), those goods were required, by the law of that other country or pursuant to the terms of any contract relating to the import of those goods into that other country, to be marked with that non-metric unit.
+  (c) in the case of the goods referred to in paragraph (b)﻿(ii), those goods were required, by the law of that other country or pursuant to the terms of any contract relating to the import of those goods into that other country, to be marked with that non-metric unit.
 
 ## Part 3 — Sale of goods by weight, measure, or number
 
@@ -203,8 +203,8 @@ Nothing in section 10 applies to the use by any person of any unit of a weight o
   (d) in subsections (4) and (5), required period means the period beginning at the time when the package was made up and ending on the seventh day after the day the package was made up.
 (2) Every person commits an offence if the weight, measure, or number of the goods in the package is less than that stated on the package or label.
 (3) However, the weight, measure, or number of the goods in the package is deemed to be the same as that stated on the package or label if—
-  (a) the package meets the conditions prescribed by regulations made under section 41A(1)(a); or
-  (b) the package is 1 package in a lot of packages that meets the conditions prescribed by regulations made under section 41A(1)(b).
+  (a) the package meets the conditions prescribed by regulations made under section 41A(1)﻿(a); or
+  (b) the package is 1 package in a lot of packages that meets the conditions prescribed by regulations made under section 41A(1)﻿(b).
 (4) A person charged with an offence against this section in respect of a package from a lot of packages containing desiccating goods has a defence if the person proves that—
   (a) the weighted average quantity of any sample taken from the lot of packages, as determined in accordance with regulations made under section 41A, was, at all times during the required period, equal to or exceeded the quantity stated on the package or a label attached to it; and
   (b) the number of non-standard packages in any sample taken from the lot of packages was, at all times during the required period, equal to or less than the appropriate number specified for the purpose in regulations made under section 41A; and
@@ -260,7 +260,7 @@ Nothing in section 20 and section 21 shall apply to any automatic weighing machi
 (1) Where an accredited person declines to stamp with a mark of verification, or to issue a certificate of accuracy in respect of, any weight, measure, or weighing or measuring instrument on the grounds that the weight, measure, or weighing or measuring instrument does not comply with the requirements of this Act or of any regulations made under this Act, the accredited person shall—
   (a) forthwith give to the person in charge of that weight, measure, or weighing or measuring instrument a notice of non-compliance; and
   (b) as soon as practicable send to the Secretary a copy of the notice.
-(2) Where it is not possible or practicable to give a notice of non-compliance in accordance with subsection (1)(a), the accredited person shall attach the notice to the weight, measure, or weighing or measuring instrument.
+(2) Where it is not possible or practicable to give a notice of non-compliance in accordance with subsection (1)﻿(a), the accredited person shall attach the notice to the weight, measure, or weighing or measuring instrument.
 (3) Every notice of non-compliance shall be in the prescribed form, and shall contain—
   (a) such information as is sufficient to identify the weight, measure, or weighing or measuring instrument in respect of which it is issued, including any serial number or other identifying feature; and
   (b) particulars of the respects in which the weight, measure, or weighing or measuring instrument does not comply with the requirements of this Act or of any regulations made under this Act, including details of the time and place of the non-compliance.
@@ -327,7 +327,7 @@ Nothing in section 20 and section 21 shall apply to any automatic weighing machi
 (6) An Inspector may seize and detain—
   (a) any weight or measure that does not comply with or is used in contravention of this Act or any regulations made under this Act; or
   (b) any weighing or measuring instrument that does not comply with or is used in contravention of this Act or any regulations made under this Act, or any part of any such instrument the removal of which makes that instrument inoperative; or
-  (c) any goods referred to in subsection (1)(a), (b), (c), or (g) where the Inspector is satisfied on reasonable grounds that an offence against this Act or any regulations made under this Act has been committed.
+  (c) any goods referred to in subsection (1)﻿(a), (b), (c), or (g) where the Inspector is satisfied on reasonable grounds that an offence against this Act or any regulations made under this Act has been committed.
 (7) The provisions of subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
 
 ### 29 Privilege against self-incrimination
@@ -412,7 +412,7 @@ Notwithstanding anything in section 28, no person shall be required, pursuant to
 The Secretary may, at any time, revoke, amend, or add to any condition imposed under section 30A(3).
 
 ### 30F Appeals against decisions of Secretary
-(1) Any person who is prejudicially affected by any decision of the Secretary under section 30D or section 30DA or section 30E may appeal to a District Court against the decision.
+(1) Any person who is prejudicially affected by any decision of the Secretary under section 30D or section 30DA or section 30E may appeal to the District Court against the decision.
 (2) An appeal under subsection (1) shall be brought within 28 days after notice of the decision is communicated to the appellant, or within such further time as a District Court Judge may allow on application made before or after the expiration of that period.
 (3) Subject to any order of a District Court Judge, every decision of the Secretary against which an appeal is lodged shall continue in force and have effect according to its tenor pending the determination of the appeal.
 
@@ -470,14 +470,14 @@ Every person commits an offence who—
 (1) Where an Inspector has reason to believe that a person has committed an infringement offence,—
   (a) that person may be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) the Inspector may issue an infringement notice in respect of the alleged offence.
-(1A) Despite section 21(1)(a) of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the Secretary commences proceedings for an infringement offence by filing a charging document under the Criminal Procedure Act 2011.
+(1A) Despite section 21(1)﻿(a) of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the Secretary commences proceedings for an infringement offence by filing a charging document under the Criminal Procedure Act 2011.
 (2) Any Inspector (not necessarily the Inspector who issued the infringement notice) may do any 1 or more of the following things:
   (a) attach an infringement notice, or a copy of an infringement notice, to the weight, measure, weighing or measuring instrument, or goods to which the notice relates:
   (b) deliver an infringement notice, or a copy of an infringement notice, personally to a person:
   (c) send an infringement notice, or a copy of an infringement notice, to a person by post addressed to the person at the person's last known place of residence or business.
 (3) If an infringement notice, or a copy of an infringement notice, is—
-  (a) attached to the weight, measure, weighing or measuring instrument, or goods to which the notice relates pursuant to subsection (2)(a), the notice or copy is deemed to have been served on every person liable in respect of the alleged offence and to have been served when the notice or copy was attached to the weight, measure, weighing or measuring instrument, or goods:
-  (b) sent to a person by post addressed to the person at the person's last known place of residence or business pursuant to subsection (2)(c), the notice or copy is deemed to have been served on the person when it was so posted.
+  (a) attached to the weight, measure, weighing or measuring instrument, or goods to which the notice relates pursuant to subsection (2)﻿(a), the notice or copy is deemed to have been served on every person liable in respect of the alleged offence and to have been served when the notice or copy was attached to the weight, measure, weighing or measuring instrument, or goods:
+  (b) sent to a person by post addressed to the person at the person's last known place of residence or business pursuant to subsection (2)﻿(c), the notice or copy is deemed to have been served on the person when it was so posted.
 (4) The Secretary may revoke an infringement notice before the infringement fee is paid, or before an order for payment of a fine is made or deemed to be made by a court under section 21 of the Summary Proceedings Act 1957.
 (5) An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
 
@@ -544,7 +544,7 @@ Nothing in this Act applies to the measurement or sale of—
 On application by way of originating application, a District Court Judge may make such order as that Judge thinks just and expedient for the restoration of any weight, measure, weighing or measuring instrument, or goods seized and detained pursuant to section 28(6) to the person who, in the court's opinion, is entitled to possession thereof.
 
 ### 40 Disposal of articles seized
-(1) Without limiting the operation of any other provision of this Act as to the disposal of any weight, measure, weighing or measuring instrument, or goods seized and detained pursuant to section 28(6), any such weight, measure, weighing or measuring instrument, or goods that has or have been detained for not less than 12 months may be disposed of in such manner as the Chief Inspector may direct.
+(1) Without limiting the operation of any other provision of this Act as to the disposal of any weight, measure, weighing or measuring instrument, or goods seized and detained pursuant to section 28(6), any such weight, measure, weighing or measuring instrument, or goods that has or have been detained for not less than 12 months may be disposed of in such manner as the Secretary may direct.
 (1A) Notwithstanding anything in subsection (1), any perishable goods seized and detained pursuant to section 28(6) may be disposed of at any time in such manner as the Secretary may direct.
 (2) Nothing in this section limits the authority of a District Court Judge to make an order for the restoration of any such weight, measure, weighing or measuring instrument, or any such goods on application made under section 39.
 
@@ -552,7 +552,7 @@ On application by way of originating application, a District Court Judge may mak
 (1) Where—the court may make such order as the court thinks just and expedient for the payment by the Crown, to the applicant, of reasonable compensation for the loss of those goods.
   (a) any perishable goods are seized and detained pursuant to section 28(6); and
   (b) those goods are disposed of pursuant to section 40(1A); and
-  (c) on application by way of originating application, by any person having an interest in the goods, a District Court finds that there were no reasonable grounds for that seizure and detention,—
+  (c) on application by way of originating application, by any person having an interest in the goods, the District Court finds that there were no reasonable grounds for that seizure and detention,—
 (2) The court shall not make any order under subsection (1) for the payment of compensation to any person in respect of any goods unless the court is satisfied that the goods were disposed of before that person had a reasonable opportunity to make an application under section 39 in respect of the goods.
 
 ### 41 Regulations
