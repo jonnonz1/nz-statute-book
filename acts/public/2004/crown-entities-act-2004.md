@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1756,8 +1756,8 @@ The following provisions of the Public Finance Act 1989 apply (without limitatio
 
 **Miscellaneous**
 
-### 177 Application of liquidation provisions of Judicature Act 1908 to statutory entities
-For the avoidance of doubt, sections 17A to 17E of the Judicature Act 1908 apply to a statutory entity, unless the statutory entity may be put into liquidation in accordance with the entity's Act.
+### 177 Application of liquidation provisions of Companies Act 1993 to statutory entities
+For the avoidance of doubt, section 240B of the Companies Act 1993 applies to a statutory entity, unless the statutory entity may be put into liquidation in accordance with the entity's Act.
 
 ### 178 Application of Archives Act 1957
 The Archives Act 1957 applies to a Crown entity that is a government office for the purpose of that Act.
