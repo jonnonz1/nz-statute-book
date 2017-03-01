@@ -1,5 +1,5 @@
 # Arbitration Act 1996
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to reform the law relating to arbitration
 
@@ -9,7 +9,11 @@ _Consolidation as at 2011-01-01_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **arbitral tribunal** means a sole arbitrator or a panel of arbitrators
+  - **arbitral tribunal** —
+    (a) means a sole arbitrator, a panel of arbitrators, or an arbitral institution; and
+    (b) includes any emergency arbitrator appointed under—
+      (i) the arbitration agreement that the parties have entered into; or
+      (ii) the arbitration rules of any institution or organisation that the parties have adopted
   - **arbitration** means any arbitration whether or not administered by a permanent arbitral institution
   - **arbitration agreement** means an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not
   - **award** means a decision of the arbitral tribunal on the substance of the dispute and includes any interim, interlocutory or partial award
@@ -41,6 +45,10 @@ The purposes of this Act are—
   (e) to facilitate the recognition and enforcement of arbitration agreements and arbitral awards; and
   (f) to give effect to the obligations of the Government of New Zealand under the Protocol on Arbitration Clauses (1923), the Convention on the Execution of Foreign Arbitral Awards (1927), and the Convention on the Recognition and Enforcement of Foreign Arbitral Awards (1958) (the English texts of which are set out in Schedule 3).
 
+### 6A Minister of Justice to appoint body to resolve certain matters
+(1) The Minister of Justice must, by notice in the Gazette, appoint a suitably qualified body to resolve the matters specified in article 11(3) to (6) of Schedule 1.
+(2) The Minister of Justice may, by notice in the Gazette, revoke any appointment made under subsection (1).
+
 ### 6 Rules applying to arbitrations in New Zealand
 (1) If the place of arbitration is, or would be, in New Zealand,—apply in respect of the arbitration.
   (a) the provisions of Schedule 1; and
@@ -63,7 +71,7 @@ If it still has to be agreed or determined whether the place of arbitration will
 
 ### 10 Arbitrability of disputes
 (1) Any dispute which the parties have agreed to submit to arbitration under an arbitration agreement may be determined by arbitration unless the arbitration agreement is contrary to public policy or, under any other law, such a dispute is not capable of determination by arbitration.
-(2) The fact that an enactment confers jurisdiction in respect of any matter on the High Court or a District Court but does not refer to the determination of that matter by arbitration does not, of itself, indicate that a dispute about that matter is not capable of determination by arbitration.
+(2) The fact that an enactment confers jurisdiction in respect of any matter on the High Court or the District Court but does not refer to the determination of that matter by arbitration does not, of itself, indicate that a dispute about that matter is not capable of determination by arbitration.
 
 ### 11 Consumer arbitration agreements
 (1) Where—the arbitration agreement is enforceable against the consumer only if—
@@ -77,7 +85,7 @@ If it still has to be agreed or determined whether the place of arbitration will
   (b) the other party to the contract enters into that contract in trade.
 (3) Subsection (1) applies to every contract containing an arbitration agreement entered into in New Zealand notwithstanding a provision in the contract to the effect that the contract is governed by a law other than New Zealand law.
 (4) For the purposes of article 4 of Schedule 1, subsection (1) shall be treated as if it were a requirement of the arbitration agreement.
-(5) Unless a party who is a consumer has, under article 4 of Schedule 1, waived the right to object to non-compliance with subsection (1), an arbitration agreement which is not enforceable by reason of non-compliance with subsection (1) shall be treated as inoperative for the purposes of article 8(1) of Schedule 1 and as not valid under the law of New Zealand for the purposes of articles 16(1), 34(2)(a)(i), and 36(1)(a)(i) of Schedule 1.
+(5) Unless a party who is a consumer has, under article 4 of Schedule 1, waived the right to object to non-compliance with subsection (1), an arbitration agreement which is not enforceable by reason of non-compliance with subsection (1) shall be treated as inoperative for the purposes of article 8(1) of Schedule 1 and as not valid under the law of New Zealand for the purposes of articles 16(1), 34(2)﻿(a)﻿(i), and 36(1)﻿(a)﻿(i) of Schedule 1.
 (6) Nothing in this section applies to—
   (a) a lease; or
   (b) a contract of insurance to which section 8 of the Insurance Law Reform Act 1977 applies.
@@ -88,7 +96,7 @@ If it still has to be agreed or determined whether the place of arbitration will
   (b) may award interest on the whole or any part of any sum which—
     (i) is awarded to any party, for the whole or any part of the period up to the date of the award; or
     (ii) is in issue in the arbitral proceedings but is paid before the date of the award, for the whole or any part of the period up to the date of payment.
-(2) Nothing in this section affects the application of section 10 or article 34(2)(b) or article 36(1)(b) of Schedule 1.
+(2) Nothing in this section affects the application of section 10 or article 34(2)﻿(b) or article 36(1)﻿(b) of Schedule 1.
 
 ### 13 Liability of arbitrators
 An arbitrator is not liable for negligence in respect of anything done or omitted to be done in the capacity of arbitrator.
@@ -111,7 +119,7 @@ A party or an arbitral tribunal may disclose confidential information—
       (A) to ensure that a party has a full opportunity to present the party’s case, as required under article 18 of Schedule 1; or
       (B) for the establishment or protection of a party’s legal rights in relation to a third party; or
       (C) for the making and prosecution of an application to a court under this Act; and
-    (ii) the disclosure is no more than what is reasonably required to serve any of the purposes referred to in subparagraph (i)(A) to (C); or
+    (ii) the disclosure is no more than what is reasonably required to serve any of the purposes referred to in subparagraph (i)﻿(A) to (C); or
   (c) if the disclosure is in accordance with an order made, or a subpoena issued, by a court; or
   (d) if both of the following matters apply:
     (i) the disclosure is authorised or required by law (except this Act) or required by a competent regulatory body (including New Zealand Exchange Limited); and
@@ -138,7 +146,7 @@ A party or an arbitral tribunal may disclose confidential information—
 (5) The High Court may make an order under this section—
   (a) unconditionally; or
   (b) subject to any conditions it thinks fit.
-(6) To avoid doubt, the High Court may, in imposing any conditions under subsection (5)(b), include a condition that the order ceases to have effect at a specified stage of the appeal proceedings.
+(6) To avoid doubt, the High Court may, in imposing any conditions under subsection (5)﻿(b), include a condition that the order ceases to have effect at a specified stage of the appeal proceedings.
 (7) The decision of the High Court under this section is final.
 
 ### 14F Court proceedings under Act must be conducted in public except in certain circumstances
@@ -178,8 +186,8 @@ A certificate purporting to be signed by the Secretary of Foreign Affairs and Tr
 
 ### 16 Rules
 Rules may be made for the purposes of this Act,—
-  (a) in the case of the High Court, under section 51C of the Judicature Act 1908:
-  (b) in the case of District Courts, under section 122 of the District Courts Act 1947.
+  (a) in the case of the High Court, under section 148 of the Senior Courts Act 2016:
+  (b) in the case of the District Court, under section 228 of the District Court Act 2016.
 
 ### 17 Amendments to other Acts
 The Acts specified in Schedule 4 are hereby amended in the manner indicated in that schedule.
@@ -230,7 +238,7 @@ For the purposes of this schedule,—
   (ba) interim measure has the meaning given to it by article 17:
   (c) where a provision of this schedule, except article 28, leaves the parties free to determine a certain issue, such freedom includes the right of the parties to authorise a third party, including an institution, to make that determination:
   (d) where a provision of this schedule refers to the fact that the parties have agreed or that they may agree or in any other way refers to an agreement of the parties, such agreement includes any arbitration rules referred to in that agreement:
-  (e) where a provision of this schedule, other than in articles 25(a) and 32(2)(a), refers to a claim, it also applies to a counter-claim, and where it refers to a defence, it also applies to a defence to such counter-claim:
+  (e) where a provision of this schedule, other than in articles 25(a) and 32(2)﻿(a), refers to a claim, it also applies to a counter-claim, and where it refers to a defence, it also applies to a defence to such counter-claim:
   (f) article headings are for reference purposes only and are not to be used for purposes of interpretation.
 
 ### 3 Receipt of written communications
@@ -258,7 +266,7 @@ Any court having jurisdiction may perform any function conferred on a court by t
 
 ### 9 Arbitration agreement and interim measures by court
 (1) It is not incompatible with an arbitration agreement for a party to request, before or during arbitral proceedings, from a court an interim measure and for a court to grant such measure.
-(2) For the purposes of paragraph (1), the High Court or a District Court has the same powers as an arbitral tribunal to grant an interim measure under article 17A for the purposes of proceedings before that court, and that article and article 17B apply accordingly subject to all necessary modifications.
+(2) For the purposes of paragraph (1), the High Court or the District Court has the same powers as an arbitral tribunal to grant an interim measure under article 17A for the purposes of proceedings before that court, and that article and article 17B apply accordingly subject to all necessary modifications.
 (3) Where a party applies to a court for an interim injunction or other interim order and an arbitral tribunal has already ruled on any matter relevant to the application, the court shall treat the ruling or any finding of fact made in the course of the ruling as conclusive for the purposes of the application.
 
 ### 10 Number of arbitrators
@@ -271,16 +279,20 @@ Any court having jurisdiction may perform any function conferred on a court by t
 (1) No person shall be precluded by reason of that person’s nationality from acting as an arbitrator, unless otherwise agreed by the parties.
 (2) The parties are free to agree on a procedure of appointing the arbitrator or arbitrators, subject to the provisions of paragraphs (4) and (5).
 (3) Failing such agreement,—
-  (a) in an arbitration with 3 arbitrators and 2 parties, each party shall appoint 1 arbitrator, and the 2 arbitrators thus appointed shall appoint the third arbitrator; if a party fails to appoint the arbitrator within 30 days of receipt of a request to do so from the other party, or if the 2 arbitrators fail to agree on the third arbitrator within 30 days of their appointment, the appointment shall be made, upon request of a party, by the High Court:
-  (b) in an arbitration with a sole arbitrator, if the parties are unable to agree on the arbitrator, that arbitrator shall be appointed, upon request of a party, by the High Court.
-(4) Where, under an appointment procedure agreed upon by the parties,—any party may request the High Court to take the necessary measure, unless the agreement on the appointment procedure provides other means for securing the appointment.
+  (a) in an arbitration with 3 arbitrators and 2 parties, each party shall appoint 1 arbitrator, and the 2 arbitrators thus appointed shall appoint the third arbitrator; if a party fails to appoint the arbitrator within 30 days of receipt of a request to do so from the other party, or if the 2 arbitrators fail to agree on the third arbitrator within 30 days of their appointment, the appointment shall be made, upon request of a party, by the appointed body:
+  (b) in an arbitration with a sole arbitrator, if the parties are unable to agree on the arbitrator, that arbitrator shall be appointed, upon request of a party, by the appointed body.
+(4) Where, under an appointment procedure agreed upon by the parties,—any party may request the appointed body to take the necessary measure, unless the agreement on the appointment procedure provides other means for securing the appointment.
   (a) a party fails to act as required under such procedure; or
   (b) the parties, or 2 arbitrators, are unable to reach an agreement expected of them under such procedure; or
   (c) a third party, including an institution, fails to perform any function entrusted to it under such procedure,—
-(5) A decision on a matter entrusted by paragraphs (3), (4), or (6) to the High Court shall be subject to no appeal. The court, in appointing an arbitrator, shall have due regard to any qualifications required of the arbitrator by the agreement of the parties and to such considerations as are likely to secure the appointment of an independent and impartial arbitrator and, in the case of a sole or third arbitrator, shall, in the case of an international arbitration, take into account as well the advisability of appointing an arbitrator of a nationality other than those of the parties.
-(6) In an arbitration, where—and no procedure for the appointment of arbitrators has been agreed upon, the High Court may, upon request of a party, appoint the requisite number of arbitrators, having due regard to the matters referred to in paragraph (5).
+(5) A decision on a matter entrusted by paragraphs (3), (4), or (6) to the appointed body shall be subject to no appeal. The appointed body, in appointing an arbitrator, shall have due regard to any qualifications required of the arbitrator by the agreement of the parties and to such considerations as are likely to secure the appointment of an independent and impartial arbitrator and, in the case of a sole or third arbitrator, shall, in the case of an international arbitration, take into account as well the advisability of appointing an arbitrator of a nationality other than those of the parties.
+(6) In an arbitration, where—and no procedure for the appointment of arbitrators has been agreed upon, the appointed body may, upon request of a party, appoint the requisite number of arbitrators, having due regard to the matters referred to in paragraph (5).
   (a) the parties have agreed to an arbitration with 2 or 4 or more arbitrators; or
   (b) there are 3 arbitrators and more than 2 parties,—
+(7) A party may apply to the High Court to appoint an arbitrator or arbitrators if—
+  (a) the appointed body is unable or fails to appoint an arbitrator under paragraph (3) within 30 days of receiving a request to do so; or
+  (b) a dispute arises in respect of the appointment process that the appointed body uses.
+(8) In this article, appointed body means a body that the Minister of Justice has appointed under section 6A.
 
 ### 12 Grounds for challenge
 (1) A person who is approached in connection with that person’s possible appointment as an arbitrator shall disclose any circumstances likely to give rise to justifiable doubts as to that person’s impartiality or independence. An arbitrator, from the time of appointment and throughout the arbitral proceedings, shall without delay disclose any such circumstances to the parties unless they have already been informed of them by that arbitrator.
@@ -334,9 +346,9 @@ Unless otherwise agreed by the parties, the arbitral tribunal may, at the reques
   (a) harm not adequately reparable by an award of damages is likely to result if the measure is not granted; and
   (b) the harm substantially outweighs the harm that is likely to result to the respondent if the measure is granted; and
   (c) there is a reasonable possibility that the applicant will succeed on the merits of the claim.
-(2) If an interim measure of a kind described in subparagraph (d) of the definition of that term in article 17 is requested, the applicant must satisfy the arbitral tribunal of the matters specified in paragraph (1)(a) to (c), but only to the extent that the arbitral tribunal considers appropriate.
+(2) If an interim measure of a kind described in subparagraph (d) of the definition of that term in article 17 is requested, the applicant must satisfy the arbitral tribunal of the matters specified in paragraph (1)﻿(a) to (c), but only to the extent that the arbitral tribunal considers appropriate.
 (3) If an interim measure of a kind described in subparagraph (e) of the definition of that term in article 17 is requested, the applicant must satisfy the arbitral tribunal that the applicant will be able to pay the costs of the respondent if the applicant is unsuccessful on the merits of the claim.
-(4) A determination by the arbitral tribunal on the matter specified in paragraph (1)(c) does not affect its discretion to make any subsequent determination.
+(4) A determination by the arbitral tribunal on the matter specified in paragraph (1)﻿(c) does not affect its discretion to make any subsequent determination.
 
 ### 17C Power of arbitral tribunal to issue preliminary order
 Unless otherwise agreed by the parties, a party may, without notice to any other party, apply for a preliminary order when making a request for an interim measure to be granted under article 17A.
@@ -344,7 +356,7 @@ Unless otherwise agreed by the parties, a party may, without notice to any other
 ### 17D Conditions for issuing preliminary order
 (1) The arbitral tribunal may issue a preliminary order if it considers that prior disclosure of the request for the interim measure to the respondent risks frustrating the purpose of the measure.
 (2) An applicant for a preliminary order must satisfy the arbitral tribunal of the matters specified in article 17B. That article applies to a preliminary order subject to—
-  (a) the modification that the harm to be assessed under article 17B(1)(a) is the harm likely to result from the order being issued or not; and
+  (a) the modification that the harm to be assessed under article 17B(1)﻿(a) is the harm likely to result from the order being issued or not; and
   (b) all other necessary modifications.
 
 ### 17E Procedure for preliminary order
@@ -353,7 +365,7 @@ Unless otherwise agreed by the parties, a party may, without notice to any other
     (i) the request for the interim measure; and
     (ii) the application for the preliminary order; and
     (iii) the preliminary order issued by the arbitral tribunal (if any); and
-    (iv) all other communications (whether oral or written) between a party and the arbitral tribunal in relation to the matters specified in subparagraph (a)(i) to (iii); and
+    (iv) all other communications (whether oral or written) between a party and the arbitral tribunal in relation to the matters specified in subparagraph (a)﻿(i) to (iii); and
   (b) give an opportunity to each respondent to present the respondent’s case at the earliest practicable time.
 (2) The arbitral tribunal must decide promptly on any objection to the preliminary order.
 
@@ -396,12 +408,12 @@ If the arbitral tribunal grants or issues an interim measure or a preliminary or
 ### 17M Grounds for refusing recognition or enforcement
 (1) Recognition or enforcement of an interim measure may be refused only—
   (a) at the request of the respondent if the court is satisfied that—
-    (i) the refusal is warranted on the grounds set out in article 36(1)(a)(i), (ii), or (iv); or
+    (i) the refusal is warranted on the grounds set out in article 36(1)﻿(a)﻿(i), (ii), or (iv); or
     (ii) the arbitral tribunal’s decision with respect to the provision of security in connection with the interim measure granted by it has not been complied with; or
     (iii) the interim measure has been suspended or cancelled by the arbitral tribunal or, if so empowered, by the court of the country in which the arbitration took place or under the law of which that interim measure was granted; or
   (b) if the court finds that—
     (i) the interim measure is incompatible with the powers conferred on the court, unless the court decides to reformulate the interim measure to the extent necessary to adapt it to its own powers and procedures for the purposes of enforcing that interim measure and without modifying its substance; or
-    (ii) any of the grounds set out in article 36(1)(b) apply to the recognition and enforcement of the interim measure.
+    (ii) any of the grounds set out in article 36(1)﻿(b) apply to the recognition and enforcement of the interim measure.
 (2) A determination made by the court on any ground in paragraph (1) is effective only for the purposes of the application to recognise and enforce the interim measure.
 (3) The court must not, in making that determination, undertake a review of the substance of the interim measure.
 
@@ -450,9 +462,9 @@ Unless otherwise agreed by the parties, if, without showing sufficient cause,—
 ### 27 Court assistance in taking evidence
 (1) The arbitral tribunal or a party with the approval of the arbitral tribunal may request from the court assistance in taking evidence. The court may execute the request within its competence and according to its rules on taking evidence.
 (2) For the purposes of paragraph (1),—
-  (a) the High Court may make an order of subpoena or a District Court may issue a witness summons to compel the attendance of a witness before an arbitral tribunal to give evidence or produce documents:
-  (b) the High Court or a District Court may order any witness to submit to examination on oath or affirmation before the arbitral tribunal, or before an officer of the court, or any other person for the use of the arbitral tribunal:
-  (c) the High Court or a District Court shall have, for the purpose of the arbitral proceedings, the same power as it has for the purpose of proceedings before that court to make an order for—
+  (a) the High Court may make an order of subpoena or the District Court may issue a witness summons to compel the attendance of a witness before an arbitral tribunal to give evidence or produce documents:
+  (b) the High Court or the District Court may order any witness to submit to examination on oath or affirmation before the arbitral tribunal, or before an officer of the court, or any other person for the use of the arbitral tribunal:
+  (c) the High Court or the District Court shall have, for the purpose of the arbitral proceedings, the same power as it has for the purpose of proceedings before that court to make an order for—
     (i) the discovery of documents and interrogatories:
     (ii) the issue of a commission or request for the taking of evidence out of the jurisdiction:
     (iii) the detention, preservation, or inspection of any property or thing which is in issue in the arbitral proceedings and authorising for any of those purposes any person to enter upon any land or building in the possession of a party, or authorising any sample to be taken or any observation to be made or experiment to be tried which may be necessary or expedient for the purpose of obtaining full information or evidence.
@@ -491,7 +503,7 @@ In arbitral proceedings with more than 1 arbitrator, any decision of the arbitra
 (1) Within 30 days of receipt of the award, unless another period of time has been agreed upon by the parties,—If the arbitral tribunal considers the request to be justified, it shall make the correction or give the interpretation within 30 days of receipt of the request. The interpretation shall form part of the award.
   (a) a party, with notice to the other party, may request the arbitral tribunal to correct in the award any errors in computation, any clerical or typographical errors, or any errors of similar nature:
   (b) if so agreed by the parties, a party, with notice to the other party, may request the arbitral tribunal to give an interpretation of a specific point or part of the award.
-(2) The arbitral tribunal may correct any error of the type referred to in paragraph (1)(a) on its own initiative within 30 days of the date of the award.
+(2) The arbitral tribunal may correct any error of the type referred to in paragraph (1)﻿(a) on its own initiative within 30 days of the date of the award.
 (3) Unless otherwise agreed by the parties, a party, with notice to the other party, may request, within 30 days of receipt of the award, the arbitral tribunal to make an additional award as to claims presented in the arbitral proceedings but omitted from the award. If the arbitral tribunal considers the request to be justified, it shall make the additional award within 60 days.
 (4) The arbitral tribunal may extend, if necessary, the period of time within which it shall make a correction, interpretation, or an additional award under paragraphs (1) or (3).
 (5) The provisions of article 31 shall apply to a correction or interpretation of the award or to an additional award.
@@ -510,7 +522,7 @@ In arbitral proceedings with more than 1 arbitrator, any decision of the arbitra
 (3) An application for setting aside may not be made after 3 months have elapsed from the date on which the party making that application had received the award or, if a request had been made under article 33, from the date on which that request had been disposed of by the arbitral tribunal. This paragraph does not apply to an application for setting aside on the ground that the award was induced or affected by fraud or corruption.
 (4) The High Court, when asked to set aside an award, may, where appropriate and so requested by a party, suspend the setting aside proceedings for a period of time determined by it in order to give the arbitral tribunal an opportunity to resume the arbitral proceedings or to take such other action as in the arbitral tribunal’s opinion will eliminate the grounds for setting aside.
 (5) Where an application is made to set aside an award, the High Court may order that any money made payable by the award shall be brought into court or otherwise secured pending the determination of the application.
-(6) For the avoidance of doubt, and without limiting the generality of paragraph (2)(b)(ii), it is hereby declared that an award is in conflict with the public policy of New Zealand if—
+(6) For the avoidance of doubt, and without limiting the generality of paragraph (2)﻿(b)﻿(ii), it is hereby declared that an award is in conflict with the public policy of New Zealand if—
   (a) the making of the award was induced or affected by fraud or corruption; or
   (b) a breach of the rules of natural justice occurred—
     (i) during the arbitral proceedings; or
@@ -526,7 +538,7 @@ In arbitral proceedings with more than 1 arbitrator, any decision of the arbitra
   (c) if the award or agreement is not made in the English language, a duly certified translation into the English language of either or both documents.
 (3) For the purposes of this article, court means—
   (a) the High Court; or
-  (b) a District Court in any case where the amount of any money made payable by the award does not exceed the amount to which the jurisdiction of the District Court is limited in civil cases.
+  (b) the District Court in any case where the amount of any money made payable by the award does not exceed the amount to which the jurisdiction of the District Court is limited in civil cases.
 
 ### 36 Grounds for refusing recognition or enforcement
 (1) Recognition or enforcement of an arbitral award, irrespective of the country in which it was made, may be refused only—
@@ -539,8 +551,8 @@ In arbitral proceedings with more than 1 arbitrator, any decision of the arbitra
   (b) if the court finds that—
     (i) the subject matter of the dispute is not capable of settlement by arbitration under the law of New Zealand; or
     (ii) the recognition or enforcement of the award would be contrary to the public policy of New Zealand.
-(2) If an application for setting aside or suspension of an award has been made to a court referred to in paragraph (1)(a)(v), the court where recognition or enforcement is sought may, if it considers it proper, adjourn its decision and may also, on the application of the party claiming recognition or enforcement of the award, order the other party to provide appropriate security.
-(3) For the avoidance of doubt, and without limiting the generality of paragraph (1)(b)(ii), it is hereby declared that an award is contrary to the public policy of New Zealand if—
+(2) If an application for setting aside or suspension of an award has been made to a court referred to in paragraph (1)﻿(a)﻿(v), the court where recognition or enforcement is sought may, if it considers it proper, adjourn its decision and may also, on the application of the party claiming recognition or enforcement of the award, order the other party to provide appropriate security.
+(3) For the avoidance of doubt, and without limiting the generality of paragraph (1)﻿(b)﻿(ii), it is hereby declared that an award is contrary to the public policy of New Zealand if—
   (a) the making of the award was induced or affected by fraud or corruption; or
   (b) a breach of the rules of natural justice occurred—
     (i) during the arbitral proceedings; or
@@ -604,13 +616,13 @@ In arbitral proceedings with more than 1 arbitrator, any decision of the arbitra
   (j) order any party to do all such other things during the arbitral proceedings as may reasonably be needed to enable an award to be made properly and efficiently:
   (k) make an interim, interlocutory or partial award.
 (2) Notwithstanding anything in article 5 of Schedule 1, the arbitral tribunal, or a party with the approval of the arbitral tribunal, may request from the court assistance in the exercise of any power conferred on the arbitral tribunal under subclause (1).
-(3) If a request is made under subclause (2), the High Court or a District Court shall have, for the purposes of the arbitral proceedings, the same power to make an order for the doing of any thing which the arbitral tribunal is empowered to order under subclause (1) as it would have in civil proceedings before that court.
+(3) If a request is made under subclause (2), the High Court or the District Court shall have, for the purposes of the arbitral proceedings, the same power to make an order for the doing of any thing which the arbitral tribunal is empowered to order under subclause (1) as it would have in civil proceedings before that court.
 
 ### 4 Determination of preliminary point of law by court
 (1) Notwithstanding anything in article 5 of Schedule 1, on an application to the High Court by any party—the High Court shall have jurisdiction to determine any question of law arising in the course of the arbitration.
   (a) with the consent of the arbitral tribunal; or
   (b) with the consent of every other party,—
-(2) The High Court shall not entertain an application under subclause (1)(a) with respect to any question of law unless it is satisfied that the determination of the question of law concerned—
+(2) The High Court shall not entertain an application under subclause (1)﻿(a) with respect to any question of law unless it is satisfied that the determination of the question of law concerned—
   (a) might produce substantial savings in costs to the parties; and
   (b) might, having regard to all the circumstances, substantially affect the rights of 1 or more of the parties.
 (3) With the leave of the High Court, any party may, within 1 month from the date of any determination of the High Court, under this clause or within such further time as that court may allow, appeal from that determination to the Court of Appeal.
@@ -621,8 +633,8 @@ In arbitral proceedings with more than 1 arbitrator, any decision of the arbitra
   (a) if the parties have so agreed before the making of that award; or
   (b) with the consent of every other party given after the making of that award; or
   (c) with the leave of the High Court.
-(2) The High Court shall not grant leave under subclause (1)(c) unless it considers that, having regard to all the circumstances, the determination of the question of law concerned could substantially affect the rights of 1 or more of the parties.
-(3) The High Court may grant leave under subclause (1)(c) on such conditions as it sees fit.
+(2) The High Court shall not grant leave under subclause (1)﻿(c) unless it considers that, having regard to all the circumstances, the determination of the question of law concerned could substantially affect the rights of 1 or more of the parties.
+(3) The High Court may grant leave under subclause (1)﻿(c) on such conditions as it sees fit.
 (4) On the determination of an appeal under this clause, the High Court may, by order,—and, where the award is remitted under paragraph (b), the arbitral tribunal shall, unless the order otherwise directs, make the award not later than 3 months after the date of the order.
   (a) confirm, vary, or set aside the award; or
   (b) remit the award, together with the High Court’s opinion on the question of law which was the subject of the appeal, to the arbitral tribunal for reconsideration or, where a new arbitral tribunal has been appointed, to that arbitral tribunal for consideration,—
@@ -632,7 +644,7 @@ In arbitral proceedings with more than 1 arbitrator, any decision of the arbitra
 (8) Article 34(3) and (4) of Schedule 1 apply to an appeal under this clause as they do to an application for the setting aside of an award under that article.
 (9) For the purposes of article 36 of Schedule 1,—
   (a) an appeal under this clause shall be treated as an application for the setting aside of an award; and
-  (b) an award which has been remitted by the High Court under subclause (4)(b) to the original or a new arbitral tribunal shall be treated as an award which has been suspended.
+  (b) an award which has been remitted by the High Court under subclause (4)﻿(b) to the original or a new arbitral tribunal shall be treated as an award which has been suspended.
 (10) For the purposes of this clause, question of law—
   (a) includes an error of law that involves an incorrect interpretation of the applicable law (whether or not the error appears on the record of the decision); but
   (b) does not include any question as to whether—
@@ -654,7 +666,7 @@ In arbitral proceedings with more than 1 arbitrator, any decision of the arbitra
 (6) There shall be no appeal from any decision of the High Court under this clause.
 
 ### 7 Extension of time for commencing arbitration proceedings
-(1) Where an arbitration agreement provides that no arbitral proceedings are to be commenced unless steps have been taken to commence the proceedings within the time specified in the agreement, the High Court or a District Court, as the case may be, may, notwithstanding that the specified time has expired, extend the time for such period as it thinks fit, if, in its opinion, undue hardship would otherwise be caused to the parties.
+(1) Where an arbitration agreement provides that no arbitral proceedings are to be commenced unless steps have been taken to commence the proceedings within the time specified in the agreement, the High Court or the District Court, as the case may be, may, notwithstanding that the specified time has expired, extend the time for such period as it thinks fit, if, in its opinion, undue hardship would otherwise be caused to the parties.
 (2) An extension may be subject to any such conditions as the justice of the case may require.
 
 ## Schedule 3 — Treaties relating to arbitration
