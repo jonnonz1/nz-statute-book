@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2016-11-29_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -766,8 +766,8 @@ Emergency services must—
   (c) free of charge.
 
 ### 77 Appeal against requirement to give information
-(1) A person who is required to give information under section 76 (including as applied and modified by section 94I(2)) may appeal to a District Court on the grounds that the requirement is unreasonable.
-(2) The appeal must be brought within 10 working days after the date on which the requirement to give information was imposed, or within any further time that a District Court may allow.
+(1) A person who is required to give information under section 76 (including as applied and modified by section 94I(2)) may appeal to the District Court on the grounds that the requirement is unreasonable.
+(2) The appeal must be brought within 10 working days after the date on which the requirement to give information was imposed, or within any further time that the District Court may allow.
 (3) The court must inquire into the circumstances of the requirement and may vary, rescind, or confirm it.
 (4) An appeal against a requirement to give information operates as a stay of the requirement.
 
