@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2016-06-15_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -1070,7 +1070,7 @@ Proceedings before the Tribunal are to be commenced by the lodging of an applica
 (1) The Attorney-General may appear and be heard, in person or by a barrister or solicitor,—
   (a) in proceedings before the Human Rights Review Tribunal alleging a breach of Part 1A, or alleging a breach of Part 2 by a person or body referred to in section 3 of the New Zealand Bill of Rights Act 1990:
   (b) in proceedings in any of the following courts in relation to proceedings of a kind referred to in paragraph (a) that are or have been before the Human Rights Review Tribunal:
-    (i) a District Court:
+    (i) the District Court:
     (ii) the High Court:
     (iii) the Court of Appeal:
     (iv) the Supreme Court.
@@ -1081,7 +1081,7 @@ Proceedings before the Tribunal are to be commenced by the lodging of an applica
 (1) The Commission may appear and be heard, in person or by a barrister or solicitor,—
   (a) in proceedings before the Human Rights Review Tribunal; and
   (b) in proceedings in any of the following courts in relation to proceedings that are or have been before the Human Rights Review Tribunal:
-    (i) a District Court:
+    (i) the District Court:
     (ii) the High Court:
     (iii) the Court of Appeal:
     (iv) the Supreme Court.
@@ -1176,7 +1176,7 @@ Proceedings before the Tribunal are to be commenced by the lodging of an applica
 
 ### 92Q Monetary limits on remedies Tribunal may grant
 (1) Proceedings under section 92B or section 92E may be brought before the Human Rights Review Tribunal irrespective of the amount of damages claimed or the value of the property in respect of which any remedy is sought.
-(2) However, except as provided in sections 92R to 92V, the Tribunal must not award any damages or grant any remedy in any proceedings of that kind if the making of that award or the granting of that remedy would, because of the monetary limits contained in sections 29 to 34 of the District Courts Act 1947, be beyond the jurisdiction of a District Court.
+(2) However, except as provided in sections 92R to 92V, the Tribunal must not award any damages or grant any remedy in any proceedings of that kind if the making of that award or the granting of that remedy would, because of the monetary limits contained in sections 74 to 79 of the District Court Act 2016, be beyond the jurisdiction of the District Court.
 (3) For the purposes of subsection (2), if civil proceedings under section 92B are brought on behalf of more than 1 complainant or, as the case may be, more than 1 aggrieved person, those proceedings must, for the purpose of applying any monetary limit under subsection (2), be treated as if each complainant or, as the case may be, each aggrieved person on whose behalf those proceedings are brought, were the plaintiff in a separate action against the defendant.
 
 **Granting of remedies by High Court on reference from Tribunal**
@@ -1211,7 +1211,7 @@ The Human Rights Review Tribunal must refer the granting of a remedy in any proc
 **Abandonment or agreement to bring claim within Tribunal's jurisdiction**
 
 ### 92V Abandonment to enable Tribunal to make award of damages
-(1) This section applies where the Tribunal would have jurisdiction in any proceedings under section 92B or section 92E to make an award of damages in accordance with section 92M if the amount of the award were within the limit for the time being fixed by section 29(1) of the District Courts Act 1947 (as applied by section 92Q(2)).
+(1) This section applies where the Tribunal would have jurisdiction in any proceedings under section 92B or section 92E to make an award of damages in accordance with section 92M if the amount of the award were within the limit for the time being fixed by section 74(1) of the District Court Act 2016 (as applied by section 92Q(2)).
 (2) The Tribunal may make an award within that limit if the plaintiff abandons the excess.
 (3) An award of damages in those proceedings in accordance with section 92M operates to discharge from liability in respect of the amount abandoned in that way any person against whom the proceedings are brought and the subsequent award is made.
 (4) This section overrides sections 92Q to 92U.
@@ -1385,7 +1385,7 @@ The Tribunal must notify the Attorney-General promptly of the bringing of procee
   (b) be paid from money appropriated by Parliament for the purpose.
 
 ### 112 Privileges and immunities
-Witnesses and counsel appearing before the Tribunal shall have the same privileges and immunities as witnesses and counsel have in proceedings in a District Court.
+Witnesses and counsel appearing before the Tribunal shall have the same privileges and immunities as witnesses and counsel have in proceedings in the District Court.
 
 ### 113 Non-attendance or refusal to co-operate
 (1) Every person commits an offence who, after being summoned to attend to give evidence before the Tribunal or to produce to the Tribunal any papers, documents, records, or things, without sufficient cause,—
@@ -1400,7 +1400,7 @@ Witnesses and counsel appearing before the Tribunal shall have the same privileg
   (a) assaults, threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting; or
   (b) intentionally interrupts the proceedings of the Tribunal or otherwise misbehaves while the Tribunal is sitting; or
   (c) intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal,—
-(2) A warrant under subsection (1) may be filed in any District Court and shall then be enforceable as an order made by that court.
+(2) A warrant under subsection (1) may be filed in the District Court and shall then be enforceable as an order made by that court.
 
 ### 115 Tribunal may dismiss trivial, etc, proceedings
 The Tribunal may at any time dismiss any proceedings brought under section 92B or section 92E if it is satisfied that they are trivial, frivolous, or vexatious or are not brought in good faith.
