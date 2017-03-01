@@ -1,5 +1,5 @@
 # Submarine Cables and Pipelines Protection Act 1996
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > An Act—ato provide better protection of submarine cables and pipelines; andbto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to protection of submarine cables and pipelines; andcto consolidate and amend the Submarine Cables and Pipelines Protection Act 1966
 
@@ -82,7 +82,7 @@ A person who, in the course of laying or repairing a submarine cable or submarin
 (2) Every person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 10 District Court may order removal of abandoned submarine cable or pipeline
-(1) On the application of the Minister, a District Court may order that a submarine cable or submarine pipeline, or part of the cable or pipeline, that, in its opinion,—be removed by the owner of the submarine cable or submarine pipeline, at the owner's expense, from the territorial sea of New Zealand or the internal waters of New Zealand, as the case may be, within such time and in accordance with such conditions as may be specified in the order.
+(1) On the application of the Minister, the District Court may order that a submarine cable or submarine pipeline, or part of the cable or pipeline, that, in its opinion,—be removed by the owner of the submarine cable or submarine pipeline, at the owner's expense, from the territorial sea of New Zealand or the internal waters of New Zealand, as the case may be, within such time and in accordance with such conditions as may be specified in the order.
   (a) is unlikely to be used again; and
   (b) constitutes a hazard to fishing operations or the anchoring of ships—
 (2) If the owner of a submarine cable or submarine pipeline that has been ordered to be removed under this section fails to comply with all or any part of the order, within the time specified in the order or within such further period as the District Court may allow, the Minister may—
@@ -225,17 +225,17 @@ Every enforcement officer exercising a power conferred by section 20 or section 
   (b) the owner or person entitled to the possession of the property seized,—
 (2) If the person to whom property is released under subsection (1) fails to comply with the conditions of a bond or with a condition specified by the Minister,—
   (a) the property may be reseized at any time at the direction of the Minister; and
-  (b) the Minister may, in the case of failure to comply with the conditions of a bond, apply to a District Court for an order for estreat of the bond.
+  (b) the Minister may, in the case of failure to comply with the conditions of a bond, apply to the District Court for an order for estreat of the bond.
 (3) If the Minister applies for an order for estreat of the bond, the Registrar shall fix a time and place for the hearing of the application, and shall, not less than 14 days before the time fixed, cause to be served on every person bound by the bond a notice of the time and place so fixed.
 (4) If, on the hearing of the application, it is proved to the satisfaction of the court that a condition of the bond has not been kept, the court may make an order to estreat the bond to such an amount as it thinks fit to any person bound by the bond on whom notice is proved to have been served in accordance with subsection (3).
 (5) A penalty payable under subsection (4) is recoverable as if it were a fine.
 
 ### 26 Release of property by court
-(1) Where property has been seized under section 21,—may, in accordance with this section, apply to a District Court or the High Court, as the case may be, for an order releasing the property to that person, and any such release may be subject to such sureties and conditions as the court may specify.
+(1) Where property has been seized under section 21,—may, in accordance with this section, apply to the District Court or the High Court, as the case may be, for an order releasing the property to that person, and any such release may be subject to such sureties and conditions as the court may specify.
   (a) the person from whom the property was seized; or
   (b) the owner or person entitled to the possession of the property seized,—
-(2) Where the property does not exceed $200,000 in value, the application shall be by way of originating application made to a District Court and the rules relating to the practice and procedure of District Courts for the time being in force under the District Courts Act 1947 apply with respect to every such application.
-(3) Where the property exceeds $200,000 in value, the application shall be by way of originating application made to the High Court and the High Court Rules 2016 apply with respect to every such application.
+(2) Where the property does not exceed $350,000 in value, the application must be by way of originating application made to the District Court, and the rules relating to the practice and procedure of the District Court for the time being in force under the District Court Act 2016 apply to the application.
+(3) Where the property exceeds $350,000 in value, the application must be by way of originating application made to the High Court, and the High Court Rules 2016 apply with respect to the application.
 
 **Proceedings for offences, etc**
 
@@ -277,9 +277,9 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 (2) Nothing in subsection (1) applies to—
   (a) a person who was involved in the commission of the offence in respect of which the property has been forfeited; or
   (b) a person who did not acquire his or her interest in the property in good faith and who knew or had reason to believe at the time of the acquisition that the property was or would be involved in the commission of the offence in respect of which the property has been forfeited.
-(3) Where the property forfeited under section 31(1) does not exceed $200,000 in value, the application shall be by way of originating application made to, and filed in, the office of the District Court that ordered the forfeiture.
-(4) Except as modified by subsection (3), the rules relating to the practice and procedure of District Courts for the time being in force under the District Courts Act 1947 apply with respect to every such application made to the District Court that ordered the forfeiture.
-(5) Where the property forfeited under section 31(1) exceeds $200,000 in value, the application shall be by way of originating application made to the High Court and the High Court Rules 2016 apply with respect to every such application.
+(3) Where the property forfeited under section 31(1) does not exceed $350,000 in value, the application shall be by way of originating application made to, and filed in, the office of the District Court that ordered the forfeiture.
+(4) Except as modified by subsection (3), the rules relating to the practice and procedure of the District Court for the time being in force under the District Court Act 2016 apply with respect to every such application made to the District Court that ordered the forfeiture.
+(5) Where the property forfeited under section 31(1) exceeds $350,000 in value, the application shall be by way of originating application made to the High Court and the High Court Rules 2016 apply with respect to every such application.
 (6) If the court is satisfied that—the court may make an order—
   (a) the applicant is a person to whom subsection (1) applies; and
   (b) the applicant's claim to an interest in the property is valid,—
