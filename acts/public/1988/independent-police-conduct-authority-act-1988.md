@@ -1,5 +1,5 @@
 # Independent Police Conduct Authority Act 1988
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to make better provision for the investigation and resolution of complaints against the Police by establishing the Independent Police Conduct Authority
 
@@ -111,7 +111,7 @@ Where a Police employee acting in the execution of his or her duty causes, or ap
 ### 14 Mode of complaint
 (1) A complaint may be made either orally or in writing.
 (2) A complaint made orally shall be reduced to writing as soon as practicable.
-(3) A complaint may be made to the Authority, to any Police employee, to an Ombudsman, or, where the complaint is in writing, to the Registrar or Deputy Registrar of any District Court.
+(3) A complaint may be made to the Authority, to any Police employee, to an Ombudsman, or, where the complaint is in writing, to a Registrar or Deputy Registrar of the District Court.
 (4) Any Ombudsman or Registrar or Deputy Registrar to whom a complaint is made shall forward it to the Authority as soon as practicable.
 (5) Notwithstanding any provision in any enactment, where any letter appearing to be written by or on behalf of—is addressed to the Authority, the person for the time being in charge of the place or institution where the person is in custody or is a patient shall immediately forward the letter, unopened, to the Authority.
   (a) a person in custody on a charge or after conviction of any offence; or
