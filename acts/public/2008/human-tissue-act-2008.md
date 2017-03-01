@@ -1,5 +1,5 @@
 # Human Tissue Act 2008
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Human Tissue Act 2008.
@@ -102,7 +102,7 @@ In this Act, unless the context otherwise requires,—
     (b) information (referred to in the Land Transport Act 1998 as organ donor information) indicating that an applicant for, or holder of, a driver licence has agreed in general terms, or has objected in general terms, to that applicant or holder being an organ donor
   - **overriding objection** has the meaning given to it by section 9
   - **post-mortem** means a post-mortem examination
-  - **Registrar** means any Registrar or Deputy-Registrar of the High Court or of a District Court
+  - **Registrar** means any Registrar or Deputy-Registrar of the High Court or of the District Court
   - **responsible person** has the meaning given to it by section 12
   - **school of anatomy** means a school of anatomy whose establishment is authorised by an order made under section 77
   - **secondary purpose** , in relation to any collection or use of human tissue collected from a living individual or that is, or is collected from, a body, means that the collection or use is for a purpose that is not covered by informed consent—
