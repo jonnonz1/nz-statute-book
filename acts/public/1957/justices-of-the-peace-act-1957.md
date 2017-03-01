@@ -1,5 +1,5 @@
 # Justices of the Peace Act 1957
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the appointment of Justices of the Peace
 
@@ -37,7 +37,7 @@ This Act binds the Crown.
 Every Justice appointed under section 3(1) continues in office until he or she—
   (a) dies; or
   (b) retires or resigns, by notice in writing to the Secretary; or
-  (c) ceases to be a Justice by the operation of section 5B(1) or 8(1)(b).
+  (c) ceases to be a Justice by the operation of section 5B(1) or 8(1)﻿(b).
 
 ### 3B Justices to undertake training before exercising judicial power or function
 (1) A Justice (other than a District Court Judge or a Judge of the Maori Land Court) must not exercise or perform any judicial power or function unless he or she has completed training in the exercise and performance of judicial powers and functions to the satisfaction of the Chief District Court Judge.
@@ -69,7 +69,7 @@ Sections 4B to 4F apply to Justices performing judicial powers and functions und
 (2) If a warrant to seize property or warrant of commitment is granted by a Justice in good faith in reliance on a conviction or order entered or made by 1 or more Justices or 1 or more Community Magistrates, no proceeding may be commenced against the Justice who granted the warrant by reason of any defect in the conviction or order, or by reason of any want of jurisdiction in the Justice or Justices or Community Magistrate or Community Magistrates who entered or made it.
 
 ### 4C No proceeding against Justice to be commenced in District Court
-No proceeding against any Justice by any person claiming to have been injured by an act done by the Justice in excess of jurisdiction or without jurisdiction may be commenced in a District Court.
+No proceeding against any Justice by any person claiming to have been injured by an act done by the Justice in excess of jurisdiction or without jurisdiction may be commenced in the District Court.
 
 ### 4D Onus of proof
 In any proceeding commenced against a Justice by a person claiming to have been injured by an act done by the Justice in excess of jurisdiction or without jurisdiction, the onus of proving the excess or want of jurisdiction lies on the person alleging it.
@@ -89,7 +89,7 @@ In any proceeding commenced against a Justice by a person claiming to have been 
   (a) the Justice acted in good faith under the belief that he or she had in fact jurisdiction; and
   (b) in all the circumstances the Justice ought fairly and reasonably to be excused; and
   (c) the amount paid or agreed to be paid was fair and reasonable.
-(5) If the High Court Judge is not satisfied of the matter in subsection (4)(c), the Judge may issue the certificate in respect of any lesser sum that in the Judge's opinion is adequate to settle the plaintiff's claim, and in that case the Justice must be indemnified by the Crown to the amount specified in the certificate.
+(5) If the High Court Judge is not satisfied of the matter in subsection (4)﻿(c), the Judge may issue the certificate in respect of any lesser sum that in the Judge's opinion is adequate to settle the plaintiff's claim, and in that case the Justice must be indemnified by the Crown to the amount specified in the certificate.
 (6) Application for a certificate under any of subsections (2), (4), or (5) may be made by a Justice at any time to a Judge in Chambers, and the Judge has power to grant the certificate after considering all evidence that is given before him or her either orally or in the form of affidavits.
 (7) A copy of the application must be served by the Justice on the Attorney-General, who is entitled to appear and oppose it.
 
@@ -159,27 +159,27 @@ In any proceeding commenced against a Justice by a person claiming to have been 
 
 ### 5F Registrars and Official Assignees to notify convictions and bankruptcies
 For the purposes of section 5,—
-  (a) a Registrar of the High Court or a District Court must notify the Secretary whenever a person whom the Registrar knows to be a Justice is convicted of an offence punishable by imprisonment:
+  (a) a Registrar of the High Court or the District Court must notify the Secretary whenever a person whom the Registrar knows to be a Justice is convicted of an offence punishable by imprisonment:
   (b) an Official Assignee (within the meaning of the Insolvency Act 1967) must notify the Secretary whenever a person whom the Official Assignee knows to be a Justice is adjudged bankrupt.
 
 ### 6 Attendance of Justices at court
-(1) The Registrar of every District Court must keep and maintain a list of Justices (excluding any person who is a Justice by virtue of being a District Court Judge or a Judge of the Maori Land Court) who reside within 20 kilometres of the courthouse and are not exempted from attendance under section 7.
+(1) Every Registrar of the District Court must keep and maintain a list of Justices (excluding any person who is a Justice by virtue of being a District Court Judge or a Judge of the Maori Land Court) who reside within 20 kilometres of the courthouse and are not exempted from attendance under section 7.
 (2) When the attendance of Justices is required at any such court, the Registrar shall summon as many Justices as he thinks necessary to attend:
   provided that no Justice whose name is not on the list may be so summoned without his consent.
 
 ### 7 Justices exempt from attendance
-(1) The following persons who are Justices shall be exempt from attendance at a District Court, namely:
+(1) The following persons who are Justices shall be exempt from attendance at the District Court, namely:
   (a) any Justice who has notified the Registrar in writing that he has attained the age of 70 years and does not wish to attend:
   (b) any member of the House of Representatives:
   (c) any barrister or solicitor or medical practitioner in the actual practice of his profession:
   (d) any employee of the Crown.
-(2) In subsection (1), medical practitioner means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+(2) In subsection (1), medical practitioner means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
 
 ### 8 Failure to attend
-(1) If a Justice fails to attend a District Court on 2 successive occasions when summoned under section 6(2),—
+(1) If a Justice fails to attend the District Court on 2 successive occasions when summoned under section 6(2),—
   (a) the Registrar concerned must notify the Secretary of the second failure; and
   (b) unless within 20 working days after the date of the second failure the Justice (or some other person on the Justice's behalf) satisfies the Minister that the Justice had reasonable cause for the failures, the Justice ceases to be a Justice on a date fixed for the purpose by the Minister and notified in the Gazette.
-(2) Section 5B(2) applies, with any necessary modifications, to a person who ceases to be a Justice by the operation of subsection (1)(b).
+(2) Section 5B(2) applies, with any necessary modifications, to a person who ceases to be a Justice by the operation of subsection (1)﻿(b).
 (3) In this section, fail includes refuse.
 
 ### 9 Legality of acts done by person ceased to be a Justice
