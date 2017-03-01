@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2017-02-21_
+_Consolidation as at 2017-03-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3786,11 +3786,11 @@ Where information is supplied to the Commissioner under section 85B(2), the Comm
 (3) For the purposes of subsection (2), the information that may be provided is—
   (a) whether a particular person—
     (i) has been convicted of a sex offence; or
-    (ii) has been proved to have committed a sex offence before a Youth Court; and
+    (ii) has been proved to have committed a sex offence before the Youth Court; and
   (b) details of that offence, including the type of offence and the date, or approximate date, when that offence was committed; and
   (c) whether a particular person is the victim of that offence; and
   (d) whether a conviction for that offence has been quashed; and
-  (e) whether a finding of a Youth Court that a sex offence has been committed has been reversed or set aside; and
+  (e) whether a finding of the Youth Court that a sex offence has been committed has been reversed or set aside; and
   (f) whether any court has ordered a new trial in relation to the matter; and
   (g) any other particulars that the Commissioner considers relevant to the purpose of this section.
 (4) The information specified in subsection (3) must be provided to the best of the knowledge and belief of the person who provides the information if the person does not have certain knowledge of the relevant matters.
@@ -6848,7 +6848,7 @@ A non-electronic filing penalty under section 139AA is due and payable on the 5t
 
 ### 143G Offence in relation to court orders
 (1) A person who fails to comply with the terms of a court order made under section 17A commits an offence against this Act.
-(2) A person who is convicted of an offence under subsection (1) is liable to the same penalties that may be imposed under section 112 of the District Courts Act 1947 for offences to which that section applies.
+(2) A person who is convicted of an offence under subsection (1) is liable to the same penalties that may be imposed under section 212 of the District Court Act 2016 for offences to which that section applies.
 
 ### 143H Obstruction
 (1) A person who obstructs the Commissioner or an officer of the department acting in the lawful discharge of the duties or in the exercise of the Commissioner's or officer's powers under a tax law commits an offence against this Act.
@@ -7008,7 +7008,7 @@ In any proceedings against a person for refusing or failing to provide a tax ret
 
 ### 156 Mode of recovery of unpaid tax
 (1) All unpaid tax shall be recoverable by the Commissioner on behalf of the Crown by suit in the Commissioner's official name.
-(2) Notwithstanding anything in the District Courts Act 1947, any court constituted under that Act shall have jurisdiction to hear and determine proceedings by the Commissioner for the recovery of tax, whatever the amount involved.
+(2) Notwithstanding anything in the District Court Act 2016, any court constituted under that Act shall have jurisdiction to hear and determine proceedings by the Commissioner for the recovery of tax, whatever the amount involved.
 
 ### 156A Recovery of civil penalties
 (1) For all purposes relating to the recovery of an unpaid civil penalty by the Commissioner, the civil penalty is deemed to be a tax of the same type as the tax—
@@ -7101,10 +7101,10 @@ In any proceedings against a person for refusing or failing to provide a tax ret
 In any action in the High Court for the recovery of tax from a defendant absent from New Zealand the High Court may grant leave to serve the writ out of New Zealand, or to proceed without service in the same manner as may be provided in other cases by the rules of the High Court for the time being in force, save that no security shall be required from the Commissioner.
 
 ### 159 Procedure in District Court where defendant absent from New Zealand
-In an action in a District Court for the recovery of tax, if the defendant is absent from New Zealand or cannot after reasonable inquiry be found, service of the notice of claim may, with the leave of a District Court Judge, be effected by delivery of a duplicate or sealed copy of the notice of claim to the defendant in a way described in section 14F(2).
+In an action in the District Court for the recovery of tax, if the defendant is absent from New Zealand or cannot after reasonable inquiry be found, service of the notice of claim may, with the leave of a District Court Judge, be effected by delivery of a duplicate or sealed copy of the notice of claim to the defendant in a way described in section 14F(2).
 
 ### 160 Commissioner may appear in legal proceedings by officer of Public Service
-In any action in a District Court for the recovery of tax, the Commissioner may, if the Commissioner thinks fit, appear by some officer in the Public Service, and the statement of any person so appearing that the person is such an officer and that the person appears for the Commissioner shall be sufficient evidence of the facts so stated and of the person's authority in that behalf.
+In any action in the District Court for the recovery of tax, the Commissioner may, if the Commissioner thinks fit, appear by some officer in the Public Service, and the statement of any person so appearing that the person is such an officer and that the person appears for the Commissioner shall be sufficient evidence of the facts so stated and of the person's authority in that behalf.
 
 ### 161 Costs against Commissioner
 In all proceedings in any court for the recovery of tax, costs may be awarded to or against the Commissioner in the same manner as in other cases, but all costs so awarded against the Commissioner shall be payable out of money appropriated by Parliament, and not otherwise.
