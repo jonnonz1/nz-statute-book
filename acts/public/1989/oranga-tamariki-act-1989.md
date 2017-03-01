@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-03-01_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -18,7 +18,7 @@ _Consolidation as at 2016-12-17_
   - **Commissioner** means the Children's Commissioner continued under section 6 of the Children's Commissioner Act 2003
   - **community service** means any service approved by the chief executive as a community service pursuant to section 403
   - **convene** , in relation to a family group conference, means to take the appropriate steps under sections 20 and 25 (in the case of a family group conference authorised or required under Part 2) or under sections 247 and 253 (in the case of a conference authorised or required under Part 4) in order to cause the conference to meet; and has a corresponding meaning
-  - **court** , in relation to Parts 2, 3, and 3A, means a Family Court, and in relation to Parts 4 and 5, means a Youth Court
+  - **court** , in relation to Parts 2, 3, and 3A, means the Family Court, and in relation to Parts 4 and 5, means the Youth Court
   - **cultural social service** means any incorporated body approved by the chief executive as a cultural social service pursuant to section 396(2)
   - **custody** means the right to possession and care of a child or young person
   - **department** means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
@@ -97,9 +97,9 @@ _Consolidation as at 2016-12-17_
   (a) whether there is jurisdiction to take any proceedings in respect of that alleged offence, and, subject to paragraph (d), which court has jurisdiction in respect of proceedings that may be taken; and
   (b) the proceedings taken,—
   (c) require or authorise any family group conference in respect of the alleged offence before or at any stage of the proceedings if, at the time the conference would otherwise be required, that person has attained the age of 18 years; or
-  (d) require any proceedings to be taken in a Youth Court if, at the time the charging document is filed, that person has attained the age of 18 years; or
+  (d) require any proceedings to be taken in the Youth Court if, at the time the charging document is filed, that person has attained the age of 18 years; or
   (e) derogate from the provisions of section 6 of the Sentencing Act 2002 (which shall apply in respect of proceedings under Part 4 as if the proving of a charge was a conviction).
-(3) Where any charging document is filed in a District Court pursuant to subsection (2)﻿(d), section 322 shall apply, with all necessary modifications, to the proceedings.
+(3) Where any charging document is filed in the District Court pursuant to subsection (2)﻿(d), section 322 shall apply, with all necessary modifications, to the proceedings.
 (4) Where any proceedings have been taken under Part 2 in respect of any alleged incident, the age of any child or young person at the date of the alleged incident shall be that person's age for the purpose of the proceedings.
 
 ### 2A Transitional and savings provisions relating to amendments to this Act
@@ -114,14 +114,14 @@ _Consolidation as at 2016-12-17_
   (b) a person who, through, or by means of, an offence committed by a child or young person, suffers physical injury or loss of, or damage to, property:
   (c) a parent or guardian of a child or young person who is a victim within the meaning of paragraph (a) or (b), unless that parent or guardian is—
     (i) the child or young person charged with the commission of the offence concerned:
-    (ii) the child or young person against whom a charge in respect of the offence has been proved before a Youth Court:
+    (ii) the child or young person against whom a charge in respect of the offence has been proved before the Youth Court:
   (d) a member of the immediate family of a person who, as a result of an offence committed by a child or young person, dies or is incapable, unless that member is—
     (i) the child or young person charged with the commission of the offence concerned:
-    (ii) the child or young person against whom a charge in respect of the offence has been proved before a Youth Court.
+    (ii) the child or young person against whom a charge in respect of the offence has been proved before the Youth Court.
 (2) If an offence is committed by a child or young person then, despite subsection (1), victim does not include—
   (a) any other person against whom (whether as a principal or party or accessory after the fact or otherwise)—
-    (i) that offence is proved before a Youth Court; or
-    (ii) an offence relating to the same incident or series of incidents as that offence is proved before a Youth Court; or
+    (i) that offence is proved before the Youth Court; or
+    (ii) an offence relating to the same incident or series of incidents as that offence is proved before the Youth Court; or
   (b) any other person who (whether as principal or party or accessory after the fact or otherwise)—
     (i) is charged with the commission of, or convicted or found guilty of, that offence; or
     (ii) is charged with the commission of, or convicted or found guilty of, an offence relating to the same incident or series of incidents as that offence.
@@ -219,20 +219,20 @@ In all matters relating to the administration or application of this Act (other 
 (3) Nothing in this section limits or affects Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016.
 
 ### 10 Duty of court and counsel to explain proceedings
-(1) Where, in any proceedings under this Act, a child or young person, or any parent or guardian or other person having the care of a child or young person, appears before a Family Court or a Youth Court, the court shall—
-  (a) explain in a manner and in language that can be understood by the child or young person or other person the nature of the proceedings, including, in the case of proceedings in a Youth Court, the nature and, where the child or young person or other person is not legally represented, the legal implications of the allegations; and
+(1) Where, in any proceedings under this Act, a child or young person, or any parent or guardian or other person having the care of a child or young person, appears before the Family Court or the Youth Court, the court shall—
+  (a) explain in a manner and in language that can be understood by the child or young person or other person the nature of the proceedings, including, in the case of proceedings in the Youth Court, the nature and, where the child or young person or other person is not legally represented, the legal implications of the allegations; and
   (b) satisfy itself that the child or young person or other person understands the proceedings; and
   (c) where the court makes any order under section 83(1) or section 84 or section 283, explain to the child or young person to whom the order relates and to any parent or guardian or other person having the care of the child or young person, in a manner and in language that can be understood by that child or young person or other person,—
     (i) the nature and requirements of the order:
     (ii) any provisions for variation of the order:
     (iii) the existence of rights of appeal against the order or the finding on which the order is based.
-(2) Where, in any proceedings under this Act, a child or young person, or any parent or guardian or other person having the care of a child or young person, appears before a Family Court or a Youth Court, the barrister or solicitor representing that child or young person or other person shall—
-  (a) explain to the person whom that barrister or solicitor represents, in a manner and in language that can be understood by that person, the nature of the proceedings, including, in the case of proceedings in a Youth Court, the nature and legal implications of the allegations; and
+(2) Where, in any proceedings under this Act, a child or young person, or any parent or guardian or other person having the care of a child or young person, appears before the Family Court or the Youth Court, the barrister or solicitor representing that child or young person or other person shall—
+  (a) explain to the person whom that barrister or solicitor represents, in a manner and in language that can be understood by that person, the nature of the proceedings, including, in the case of proceedings in the Youth Court, the nature and legal implications of the allegations; and
   (b) satisfy himself or herself that the person whom that barrister or solicitor represents understands the proceedings; and
   (c) where the court makes any order under section 83(1) or section 84 or section 283, explain to the person whom that barrister or solicitor represents, in a manner and in language that can be understood by that person, the matters specified in subparagraphs (i) to (iii) of subsection (1)﻿(c).
 
 ### 11 Duty of court and counsel to encourage and assist child or young person to participate in proceedings
-Where, in any proceedings under this Act, a child or young person appears before a Family Court or a Youth Court, that court and the barrister or solicitor representing the child or young person shall, where necessary and appropriate, encourage and assist the child or young person to participate in those proceedings to the degree appropriate to the age and level of maturity of the child or young person.
+Where, in any proceedings under this Act, a child or young person appears before the Family Court or the Youth Court, that court and the barrister or solicitor representing the child or young person shall, where necessary and appropriate, encourage and assist the child or young person to participate in those proceedings to the degree appropriate to the age and level of maturity of the child or young person.
 
 ### 12 Duty of medical practitioner to minimise distress to child or young person
 Every medical practitioner who carries out a medical examination of any child or young person under any provision of this Act shall carry out that examination in a way that causes the least possible distress to the child or young person.
@@ -891,7 +891,7 @@ Section 104, section 105 (other than paragraph (a), paragraph (b)﻿(i), and par
     (i) any emotional harm; or
     (ii) any loss of or damage to property—
   (c) an order directing the child, or any parent or guardian or other person having the care of the child, to deliver to the person who appears to the court to be entitled to it any property in the possession of the child or in the possession of any person for the child:
-  (d) an order for the forfeiture of property to the Crown in any case where the forfeiture of that property would have been obligatory or could have been ordered under any enactment applicable to the offence if the child were an adult and had been convicted of an offence by a District Court.
+  (d) an order for the forfeiture of property to the Crown in any case where the forfeiture of that property would have been obligatory or could have been ordered under any enactment applicable to the offence if the child were an adult and had been convicted of an offence by the District Court.
 (2) Any sum ordered to be paid pursuant to subsection (1)﻿(b) in respect of the loss of or damage to property shall be limited to the cost of replacement or (as the case may require) the cost of repair, and shall not include any loss or damage of a consequential nature.
 (3) No order shall be made under subsection (1)﻿(b) against the chief executive or any other person who has been appointed to be a guardian of the child under section 110.
 (4) No order shall be made under subsection (1)﻿(b) in respect of the parent or guardian of the child unless that parent or guardian has been informed by the court of the proposal to make the order and has been given an opportunity to make representations to the court.
@@ -1532,11 +1532,11 @@ Any agreement entered into under section 139 or section 140 or section 141 or se
 
 **Courts having jurisdiction under Parts 2 and 3A**
 
-### 150 Jurisdiction of Family Courts
-Subject to sections 151 and 341, all proceedings under Part 2 or Part 3A shall be heard and determined in a Family Court.
+### 150 Jurisdiction of Family Court
+Subject to sections 151 and 341, all proceedings under Part 2 or Part 3A shall be heard and determined in the Family Court.
 
-### 151 Jurisdiction of District Courts in cases of urgency
-The following proceedings may be heard and determined in a District Court in any case where it is expedient that the proceedings be dealt with urgently and it is impracticable for the matter to be heard and determined as a matter of urgency in a Family Court:
+### 151 Jurisdiction of District Court in cases of urgency
+The following proceedings may be heard and determined in the District Court in any case where it is expedient that the proceedings be dealt with urgently and it is impracticable for the matter to be heard and determined as a matter of urgency in the Family Court:
   (a) an application under section 44:
   (b) any proceedings under section 45:
   (c) an application under section 78:
@@ -1599,7 +1599,7 @@ The court may hear and determine an application for a declaration under section 
   (c) direct the Registrar of the court to do either of these things.
 
 ### 160 Appointment of lawyer to assist court
-In any proceedings in a Family Court under Part 2 or 3A, the court may—
+In any proceedings in the Family Court under Part 2 or 3A, the court may—
   (a) appoint a lawyer to assist the court; or
   (b) direct the Registrar of the court to appoint a lawyer to assist the court.
 
@@ -1615,11 +1615,11 @@ In any proceedings in a Family Court under Part 2 or 3A, the court may—
 
 ### 162 Payment of lawyer appointed under section 159 or 160
 (1) The fees and expenses of any lawyer appointed under section 159 or 160 must—
-  (a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (a) be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by the Registrar of the court; and
   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
 (2) An invoice rendered by a lawyer appointed under section 159 or 160 for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
 (3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
-(4) Where the fees and expenses of a lawyer appointed under section 159 or 160 have been paid under subsection (1)﻿(b), the court may, if it thinks it is appropriate, order a party to the proceedings to refund to the Crown an amount that the court specifies in respect of those fees and expenses, and the amount ordered to be refunded is a debt due to the Crown by that party and, in default of payment of that amount, payment may be enforced, by order of a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
+(4) Where the fees and expenses of a lawyer appointed under section 159 or 160 have been paid under subsection (1)﻿(b), the court may, if it thinks it is appropriate, order a party to the proceedings to refund to the Crown an amount that the court specifies in respect of those fees and expenses, and the amount ordered to be refunded is a debt due to the Crown by that party and, in default of payment of that amount, payment may be enforced, by order of the District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
 
 ### 163 Appointment of lay advocate
 (1) The court may, at any stage of any proceedings under Part 2 or Part 3A, on application by any party to the proceedings or of its own motion, appoint, in respect of the child or young person who is the subject of those proceedings, any person, not being a barrister or solicitor, to appear in support of that child or young person in those proceedings and, if the court thinks desirable, for such other purposes (including any other proceedings under this Act or any other enactment) as the court may specify.
@@ -1649,7 +1649,7 @@ In any proceedings in a Family Court under Part 2 or 3A, the court may—
 **Attendance at hearings and right to make representations**
 
 ### 166 Persons entitled to be present at hearing of proceedings in Family Court
-(1) No person shall be present during the hearing of any proceedings in a Family Court under Part 2 or Part 3A relating to a child or young person except—
+(1) No person shall be present during the hearing of any proceedings in the Family Court under Part 2 or Part 3A relating to a child or young person except—
   (a) officers of the court:
   (b) the parents or guardians or any other person having the care of the child or young person:
   (c) the child or young person:
@@ -1947,7 +1947,7 @@ In any proceedings under Part 2 or Part 3A, the court may make such order as to 
 
 ### 206A Leave required in certain cases to commence substantially similar proceedings
 (1) A proceeding (a new proceeding) may not be commenced under Part 2 without the leave of the court if that new proceeding—
-  (a) is substantially similar to a proceeding previously filed in a Family Court by any person (a previous proceeding); and
+  (a) is substantially similar to a proceeding previously filed in the Family Court by any person (a previous proceeding); and
   (b) is to be commenced less than 2 years after the final direction or order was given in the previous proceeding.
 (2) The leave of the court may only be given under subsection (1) if, since the final direction or order was given in the previous proceeding, there has been a material change in the circumstances of—
   (a) any party to the previous proceeding:
@@ -2014,7 +2014,7 @@ In this Part, unless the context otherwise requires,—
       (i) that a child or young person is in need of care or protection; and
       (ii) that empowers the court or Children's Court to make a protection order
   - **review proceedings** means proceedings—
-    (a) by way of an application for review under the Judicature Amendment Act 1972; or
+    (a) by way of an application for review under the Judicial Review Procedure Act 2016; or
     (b) by way of an application for mandamus, injunction, prohibition, or certiorari; or
     (c) by way of an application for a declaratory judgment
   - **sending State** means the participating State from which a protection order or protection proceedings are transferred to New Zealand under this Part and the interstate law of that State
@@ -2045,7 +2045,7 @@ In this Part, unless the context otherwise requires,—
     (i) an order made under paragraph (c), or any of paragraphs (k) to (o), of section 283; or
     (ii) a community-based sentence under the Sentencing Act 2002; or
     (iii) a sentence of home detention imposed under section 80A of the Sentencing Act 2002; and
-  (g) neither the chief executive, nor any officer or employee of the department, knows of any charging document filed, or of any proceedings pending before a Youth Court or any other court, that could lead to the child or young person being made subject to an order or sentence referred to in paragraph (f).
+  (g) neither the chief executive, nor any officer or employee of the department, knows of any charging document filed, or of any proceedings pending before the Youth Court or any other court, that could lead to the child or young person being made subject to an order or sentence referred to in paragraph (f).
 (2) In determining whether a protection order to the same or a similar effect as the home order could be made under the child welfare law of a participating State, the chief executive must not take into account the maximum period for which such an order can have effect in that State.
 (3) Before deciding whether to transfer a protection order, the chief executive may request a care and protection co-ordinator to convene a family group conference for the purpose of considering whether the order should be transferred, and sections 20 to 36 apply, with any necessary modification, to the convening of such a family group conference.
 
@@ -2111,7 +2111,7 @@ Any review proceedings in respect of a decision to transfer a protection order�
     (i) an order made under paragraph (c), or any of paragraphs (k) to (o), of section 283; or
     (ii) a community-based sentence under the Sentencing Act 2002; or
     (iii) a sentence of home detention imposed under section 80A of the Sentencing Act 2002; and
-  (f) the chief executive certifies that neither the chief executive, nor any officer or employee of the department, knows of any charging document filed, or of any proceedings pending before a Youth Court or any other court, that could lead to the child or young person being made subject to an order or sentence referred to in paragraph (e).
+  (f) the chief executive certifies that neither the chief executive, nor any officer or employee of the department, knows of any charging document filed, or of any proceedings pending before the Youth Court or any other court, that could lead to the child or young person being made subject to an order or sentence referred to in paragraph (e).
 (2) Before deciding whether to order the transfer of a protection order, the court may direct a care and protection co-ordinator to convene a family group conference for the purpose of considering whether the transfer should be ordered, and sections 20 to 36 apply, with any necessary modification, to the convening of such a family group conference.
 (3) Sections 188, 189, and 191 to 194 apply to a report obtained from a social worker under subsection (1)﻿(b) as if it were a report obtained from a social worker under section 186.
 
@@ -2164,7 +2164,7 @@ The following provisions apply to an appeal to the High Court under section 341 
     (i) an order made under paragraph (c), or any of paragraphs (k) to (o), of section 283; or
     (ii) a community-based sentence under the Sentencing Act 2002; or
     (iii) a sentence of home detention imposed under section 80A of the Sentencing Act 2002; and
-  (d) the chief executive certifies that neither the chief executive, nor any officer or employee of the department, knows of any charging document filed, or of any proceedings pending before a Youth Court or any other court, that could lead to the child or young person being made subject to an order or sentence referred to in paragraph (c).
+  (d) the chief executive certifies that neither the chief executive, nor any officer or employee of the department, knows of any charging document filed, or of any proceedings pending before the Youth Court or any other court, that could lead to the child or young person being made subject to an order or sentence referred to in paragraph (c).
 (2) Before deciding whether to order that protection proceedings be transferred, the court may direct a care and protection co-ordinator to convene a family group conference for the purpose of considering whether the transfer should be ordered, and sections 20 to 36 apply, with any necessary modification, to the convening of such a family group conference.
 
 ### 207R Service of application
@@ -2609,10 +2609,10 @@ Subject to sections 235, 236, and 244, where a child or young person is arrested
     (ii) the duration of the period for which the young person has been detained, or is likely to be detained, in Police custody.
 
 ### 237 Child or young person who is arrested to be brought before court as soon as possible
-Subject to section 244, a child or young person to whom section 235 or section 236 applies shall be brought before a Youth Court or, as the case requires, a Family Court, as soon as possible, to be dealt with according to law.
+Subject to section 244, a child or young person to whom section 235 or section 236 applies shall be brought before the Youth Court or, as the case requires, the Family Court, as soon as possible, to be dealt with according to law.
 
 ### 238 Custody of child or young person pending hearing
-(1) Where a child or young person appears before a Youth Court, the court shall—
+(1) Where a child or young person appears before the Youth Court, the court shall—
   (a) release the child or young person; or
   (b) release the child or young person on bail; or
   (c) order that the child or young person be delivered into the custody of the parents or guardians or other persons having the care of the child or young person or any person approved by a social worker for the purpose; or
@@ -2654,7 +2654,7 @@ Sections 238(1A) to (1C) and 239(3) expire at the close of 30 June 2004.
 (2) The power conferred by subsection (1) is in addition to the powers conferred on a court by section 30 of the Bail Act 2000.
 
 ### 241 Review of orders made under section 238
-A Youth Court or the High Court may, from time to time, review any order made under section 238.
+The Youth Court or the High Court may, from time to time, review any order made under section 238.
 
 ### 242 Order under section 238 sufficient authority for detention of child or young person
 (1) The making of an order under section 238(1)﻿(d) for the detention of a child or young person in the custody of the chief executive shall be sufficient authority—
@@ -2665,7 +2665,7 @@ A Youth Court or the High Court may, from time to time, review any order made un
 (2) The making of an order under section 238(1)﻿(e) for the detention of a young person in Police custody shall be sufficient authority for the detention of the young person in Police custody.
 
 ### 243 Other powers to grant bail not affected
-Nothing in section 238 limits the inherent jurisdiction of the High Court or the provisions of any Act under which a child or young person may be granted bail, except that any powers conferred by any such provisions on a District Court shall, where the person charged is a child or young person (other than one charged with murder or manslaughter), be exercised by a Youth Court.
+Nothing in section 238 limits the inherent jurisdiction of the High Court or the provisions of any Act under which a child or young person may be granted bail, except that any powers conferred by any such provisions on the District Court shall, where the person charged is a child or young person (other than one charged with murder or manslaughter), be exercised by the Youth Court.
 
 **Powers under Immigration Act 2009 not affected**
 
@@ -2675,7 +2675,7 @@ Nothing in sections 214 to 243 limits or affects any provision of the Immigratio
 **Prosecution of children and young persons**
 
 ### 245 Proceedings not to be instituted against young person unless youth justice co-ordinator consulted and family group conference held
-(1) Where a young person is alleged to have committed an offence, and the offence is such that if the young person is charged he or she will be required pursuant to section 272 to be brought before a Youth Court then, unless the young person has been arrested, no charging document in respect of that offence may be filed unless—
+(1) Where a young person is alleged to have committed an offence, and the offence is such that if the young person is charged he or she will be required pursuant to section 272 to be brought before the Youth Court then, unless the young person has been arrested, no charging document in respect of that offence may be filed unless—
   (a) the person intending to commence the proceedings believes that the institution of criminal proceedings against the young person for that offence is required in the public interest; and
   (b) consultation in relation to the matter has taken place between—
     (i) the person intending to commence the proceedings or another person acting on that person's behalf; and
@@ -2684,7 +2684,7 @@ Nothing in sections 214 to 243 limits or affects any provision of the Immigratio
 (2) Notwithstanding anything in subparagraph (i) of paragraph (b) of subsection (1), where the person intending to commence the proceedings is not an enforcement officer, the consultation required by that paragraph shall be consultation between a youth justice co-ordinator and an enforcement officer authorised in that behalf by the person intending to commence the proceedings.
 
 ### 246 Procedure where young person arrested and brought before court
-Where a young person is arrested for an offence (other than murder or manslaughter or a traffic offence not punishable by imprisonment) and is brought before a Youth Court to answer the charge, the following provisions shall apply:
+Where a young person is arrested for an offence (other than murder or manslaughter or a traffic offence not punishable by imprisonment) and is brought before the Youth Court to answer the charge, the following provisions shall apply:
   (a) if, after consulting with the barrister or solicitor representing the young person or with a youth advocate, the young person denies the charge, then the charge shall be dealt with in accordance with sections 273 to 276:
   (b) in any other case the court shall not enter a plea to the charge but shall—
     (i) direct a youth justice co-ordinator to convene a family group conference in relation to the matter; and
@@ -2696,18 +2696,18 @@ Where—a youth justice co-ordinator shall, subject to sections 248 to 250, fix 
   (b) after any consultations under section 245(1)﻿(b) in relation to any offence alleged to have been committed by a young person, a youth justice co-ordinator is notified by an enforcement officer that the person intending to commence the proceedings desires that the young person be charged with that offence; or
   (c) pursuant to section 246(a), a young person denies a charge and the court makes an order under section 238(1)﻿(d) or (e) for the detention of the young person pending the determination of the charge; or
   (d) pursuant to section 246(b)﻿(i), a youth justice co-ordinator is directed by a court to convene a family group conference; or
-  (e) a charge against a young person is proved before a Youth Court, and a family group conference has not had an opportunity to consider ways in which the court might deal with the young person for the offence that forms the basis of that charge,—
+  (e) a charge against a young person is proved before the Youth Court, and a family group conference has not had an opportunity to consider ways in which the court might deal with the young person for the offence that forms the basis of that charge,—
 
 ### 248 Family group conference not required in certain cases
 (1) Nothing in section 245(1)﻿(c) or section 246(b) or section 247(b) or (d) or (e) or section 281 requires a family group conference to be held in respect of any offence alleged or proved to have been committed by a young person if—and, subject to subsection (5), in either case, a youth justice co-ordinator is of the view that the holding of a family group conference would serve no useful purpose, and the family or whanau or family group of the young person agree with that view.
   (a) the offence is alleged or proved to have been committed on a date that is earlier than the date on which—for any other offence (not being an offence the maximum penalty for which is less than the maximum penalty that may be imposed in respect of the first-mentioned offence); or
-    (i) the young person was convicted and sentenced in the High Court or a District Court; or
-    (ii) a Youth Court made an order under section 283 in respect of that young person—
+    (i) the young person was convicted and sentenced in the High Court or the District Court; or
+    (ii) the Youth Court made an order under section 283 in respect of that young person—
   (b) the young person is subject to a sentence of imprisonment or a community-based sentence (as those terms are defined in section 4(1) of the Sentencing Act 2002), or to a sentence of home detention imposed under section 80A of the Sentencing Act 2002, or to any order made under any of paragraphs (k) to (o) of section 283,—
 (2) Where—the family group conference may make in respect of the latter offence any decision, recommendation, or plan that it is empowered to make under section 260, and it shall not be necessary to convene a separate family group conference in relation to that latter offence.
   (a) a family group conference has been convened pursuant to section 247 in relation to any offence alleged or proved to have been committed by a child or young person; and
   (b) before the family group conference has made any decision, recommendation, or plan pursuant to section 260 in relation to that offence, that child or young person is alleged or proven to have committed any other offence (being an offence in respect of which a family group conference would be required to be held pursuant to section 247),—
-(3) Nothing in section 245(1)﻿(c) or section 246(b) or section 247(b) or (d) or (e) or section 281 requires a family group conference to be held in respect of any offence alleged or proved to have been committed by a young person if—
+(3) Nothing in section 245(1)﻿(c) or section 246(b) or section 247(b) or (d) or (e)or section 281 requires a family group conference to be held in respect of any offence alleged or proved to have been committed by a young person if—
   (a) the requirement to convene a conference under any of those sections arose within 6 weeks of the completion of a previous family group conference—
     (i) that was convened under this Part in respect of any other offence; and
     (ii) that had the opportunity to consider how that offence should be dealt with; and
@@ -2936,36 +2936,36 @@ The chief executive may, from time to time, make such grants or provide such fin
 ### 271 Proceedings of family group conference privileged and not to be published
 Sections 37 and 38 (which relate to privilege and the publication of the proceedings of a family group conference) shall apply, with all necessary modifications, with respect to every family group conference convened or reconvened under this Part.
 
-**Jurisdiction of Youth Courts**
+**Jurisdiction of Youth Court**
 
-### 272 Jurisdiction of Youth Courts and children's liability to be prosecuted for criminal offences
+### 272 Jurisdiction of Youth Court and children's liability to be prosecuted for criminal offences
 (1) The following are the only 3 situations in which proceedings may lawfully be commenced under the Criminal Procedure Act 2011 against a child alleged to have committed an offence:
   (a) where the child is of or over the age of 10 years, and the offence is murder or manslaughter:
   (b) where the child is aged 12 or 13 years, and the offence is one (other than murder or manslaughter) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years:
   (c) where the child is aged 12 or 13 years and is a previous offender under subsection (1A) or (1B), and the offence is one (other than murder or manslaughter) for which the maximum penalty available is or includes imprisonment for at least 10 years but less than 14 years.
 (1A) A child is a previous offender under this subsection for the purposes of subsection (1)﻿(c) if—
-  (a) an application is made to a Family Court under section 67 for a declaration that the child is in need of care or protection on the ground that the child has committed an offence or offences the number, nature, or magnitude of which is such as to give serious concern for the wellbeing of the child; and
+  (a) an application is made to the Family Court under section 67 for a declaration that the child is in need of care or protection on the ground that the child has committed an offence or offences the number, nature, or magnitude of which is such as to give serious concern for the wellbeing of the child; and
   (b) on that application the Family Court, having found 1 or more of the offences alleged in the application (the earlier offences) to be proved in accordance with section 198(1)﻿(a) and (b), either—
     (i) declares the child to be in need of care or protection on that ground; or
     (ii) indicates clearly that, but for section 73 (on the child's need for care or protection being able to be met by other means), it would have made a declaration that the child is in need of care or protection on that ground; and
   (c) for 1 or more of the earlier offences the maximum penalty available is or includes imprisonment for life or for at least 10 years.
 (1B) A child is a previous offender under this subsection for the purposes of subsection (1)﻿(c) if—
   (a) the child has been convicted by the High Court of murder or manslaughter; or
-  (b) the child, as a result of an election of jury trial made by the child in a Youth Court in accordance with section 66 of the Summary Proceedings Act 1957 or section 50 of the Criminal Procedure Act 2011, has been convicted by a District Court or the High Court of 1 or more offences (other than murder or manslaughter) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years; or
-  (c) the child has been charged with, and a Youth Court has found proved before it the charge against the child for, 1 or more offences (other than murder or manslaughter) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years.”
+  (b) the child, as a result of an election of jury trial made by the child in the Youth Court in accordance with section 66 of the Summary Proceedings Act 1957 or section 50 of the Criminal Procedure Act 2011, has been convicted by the District Court or the High Court of 1 or more offences (other than murder or manslaughter) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years; or
+  (c) the child has been charged with, and the Youth Court has found proved before it the charge against the child for, 1 or more offences (other than murder or manslaughter) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years.”
 (2) If a child of or over the age of 10 years is charged with murder or manslaughter, the provisions of this Act (other than sections 236, 238(1)﻿(e), 239(2), 242(2), 276, 277, and 365(1)), and of any regulations made under this Act, apply accordingly as if that child were a young person.
 (2A) If a child aged 12 or 13 years is charged with an offence specified in subsection (1)﻿(b) or (c) and proceedings under the Criminal Procedure Act 2011 are commenced against the child for the offence,—
-  (a) the child must be brought before a Youth Court to be dealt with in accordance with the provisions of this Act; and
+  (a) the child must be brought before the Youth Court to be dealt with in accordance with the provisions of this Act; and
   (b) the provisions of this Act, and of any regulations made under this Act, apply accordingly as if that child were a young person but subject to the modifications in section 272A.
-(3) Any young person charged with an offence other than—shall be brought before a Youth Court to be dealt with in accordance with the provisions of this Act.
+(3) Any young person charged with an offence other than—shall be brought before the Youth Court to be dealt with in accordance with the provisions of this Act.
   (a) murder; or
   (b) manslaughter; or
   (ba) an infringement offence against the Psychoactive Substances Act 2013; or
   (c) a traffic offence not punishable by imprisonment; or
   (d) an infringement offence against the Sale and Supply of Alcohol Act 2012 or the Summary Offences Act 1981, or section 239A of the Local Government Act 2002.
 (4) If a young person is charged with murder or manslaughter, section 275 applies.
-(5) Notwithstanding subsection (3)﻿(ba) or (c) or (d), where a young person is charged with an infringement offence referred to in subsection (3)﻿(ba) or a traffic offence not punishable by imprisonment or an infringement offence referred to in subsection (3)﻿(d), a Youth Court shall hear and determine that charge if—
-  (a) the young person is charged with any other offence, being an offence in respect of which the young person is required to be brought before a Youth Court to be dealt with; and
+(5) Notwithstanding subsection (3)﻿(ba) or (c) or (d), where a young person is charged with an infringement offence referred to in subsection (3)﻿(ba) or a traffic offence not punishable by imprisonment or an infringement offence referred to in subsection (3)﻿(d), the Youth Court shall hear and determine that charge if—
+  (a) the young person is charged with any other offence, being an offence in respect of which the young person is required to be brought before the Youth Court to be dealt with; and
   (b) both offences arise out of the same event or series of events; and
   (c) the court considers—
     (i) that it is desirable that the charges be heard together; or
@@ -2975,8 +2975,8 @@ Sections 37 and 38 (which relate to privilege and the publication of the proceed
 (1) The modifications referred to in section 272(2A)﻿(b) in respect of a child aged 12 or 13 years charged with an offence specified in section 272(1)﻿(b) or (c) are as follows:
   (a) sections 236, 238(1)﻿(e), 239(2), 242(2), and 365(1) (on Police custody and placements in residences) do not, despite those sections referring to a young person and section 272(2A)﻿(b), extend or apply to the child as if the child were a young person; and
   (b) sections 276(1)﻿(a) and 277 do not extend or apply to the child as if the child were a young person; and
-  (c) section 282(1) applies as if it empowers a Youth Court to discharge a charge even if the offence is a category 4 offence; and
-  (d) a reference in this Act or regulations under it to the charge against the child being proved before a Youth Court must be treated as including a requirement that the Youth Court is satisfied that the child knew either—
+  (c) section 282(1) applies as if it empowers the Youth Court to discharge a charge even if the offence is a category 4 offence; and
+  (d) a reference in this Act or regulations under it to the charge against the child being proved before the Youth Court must be treated as including a requirement that the Youth Court is satisfied that the child knew either—
     (i) that the act or omission constituting the offence charged was wrong; or
     (ii) that it was contrary to law.
 (2)
@@ -2987,7 +2987,7 @@ Sections 37 and 38 (which relate to privilege and the publication of the proceed
 
 ### 273 Manner of dealing with offences (other than murder or manslaughter)
 (1) This section applies if a young person is charged with an offence other than murder or manslaughter.
-(2) A Youth Court must hear and determine the charge unless—
+(2) The Youth Court must hear and determine the charge unless—
   (a) the offence is a category 3 or 4 offence and the young person elects trial by jury; or
   (b) the court discharges the charge under section 282; or
   (c) the charge is removed out of the Youth Court under section 277.
@@ -3002,11 +3002,11 @@ Sections 37 and 38 (which relate to privilege and the publication of the proceed
   (a) is charged with murder or manslaughter; or
   (b) is charged with a category 3 or 4 offence, other than murder or manslaughter, and elects to be tried by a jury; or
   (c) is to have a jury trial and be tried with a person with whom he or she is jointly charged, in accordance with section 277.
-(2) All applicable pre-trial processes must take place before a Youth Court, up to and including—
+(2) All applicable pre-trial processes must take place before the Youth Court, up to and including—
   (a) in the case of a charge relating to a category 3 offence or category 4 offence (other than murder or manslaughter), transferring to the trial court after an adjournment for trial callover in accordance with section 57(3)﻿(b) of the Criminal Procedure Act 2011; and
   (b) in the case of a charge of murder or manslaughter, transferring the proceeding to the High Court in accordance with section 36(2) of the Criminal Procedure Act 2011.
 (3) For the purposes of the pre-trial processes referred to in subsection (2),—
-  (a) a Youth Court has all the powers of a District Court; and
+  (a) the Youth Court has all the powers of the District Court; and
   (b) the Youth Court must be presided over by a Youth Court Judge, or, in the absence of a Youth Court Judge, by a District Court Judge.
 (4) In this section, applicable pre-trial processes include all applicable processes under subparts 1 to 4 of Part 3 of the Criminal Procedure Act 2011, any other provisions of that Act referred to in subsection (5); and those processes apply with the necessary modifications.
 (5) For the purpose of subsection (4), sections 60 to 62(1), 62(3) to 65, and 116 of that Act (which relate to sentence indications) apply despite Schedule 1 of this Act.
@@ -3017,9 +3017,9 @@ Sections 37 and 38 (which relate to privilege and the publication of the proceed
   (a) a child aged 12 or 13 years charged with an offence specified in section 272(1)﻿(b) or (c) elects trial by jury; or
   (b) a young person charged with a category 3 or 4 offence, other than murder or manslaughter, elects trial by jury.
 (2) The child or young person may, without leave of the court, withdraw that election at any time before the proceeding is transferred to the trial court after an adjournment for trial callover in accordance with section 57(3)﻿(b) of the Criminal Procedure Act 2011 and, if the child or young person does so, the proceedings continue in the Youth Court as if he or she had not made that election.
-(3) If the Youth Court proposes to adjourn the proceeding for trial callover, or the child or young person at any time before the proceeding is adjourned for trial callover indicates to the court that he or she wishes to plead guilty to the offence, the Youth Court must give that child or young person the opportunity of forgoing the right to trial by jury and of electing to have the charge heard and determined in a Youth Court by a Youth Court Judge.
-(4) If a young person elects to have the charge heard and determined in a Youth Court by a Youth Court Judge, the Youth Court has the jurisdiction to hear and determine the charge and otherwise deal with the young person in accordance with this Act.
-(5) If a child elects to have the charge heard and determined in a Youth Court by a Youth Court Judge, the Youth Court has the jurisdiction to hear and determine the charge and otherwise deal with the child in accordance with this Act as if he or she were a young person (but subject to section 272A(1)﻿(a), (c), and (d)).
+(3) If the Youth Court proposes to adjourn the proceeding for trial callover, or the child or young person at any time before the proceeding is adjourned for trial callover indicates to the court that he or she wishes to plead guilty to the offence, the Youth Court must give that child or young person the opportunity of forgoing the right to trial by jury and of electing to have the charge heard and determined in the Youth Court by a Youth Court Judge.
+(4) If a young person elects to have the charge heard and determined in the Youth Court by a Youth Court Judge, the Youth Court has the jurisdiction to hear and determine the charge and otherwise deal with the young person in accordance with this Act.
+(5) If a child elects to have the charge heard and determined in the Youth Court by a Youth Court Judge, the Youth Court has the jurisdiction to hear and determine the charge and otherwise deal with the child in accordance with this Act as if he or she were a young person (but subject to section 272A(1)﻿(a), (c), and (d)).
 
 ### 277 Provisions applicable where child, young person, or adult jointly charged
 (1) If a child or young person is charged with any offence jointly with any other person or persons (whether 1 or more young persons, adults, or children), this section applies.
@@ -3033,11 +3033,11 @@ Sections 37 and 38 (which relate to privilege and the publication of the proceed
 (6) Subject to subsections (2) and (3), if an adult is jointly charged with 1 or more children or young persons, the following provisions apply:
   (a) if any of the co-defendants is to have a jury trial, the adult must be tried with that person in the same court; and
   (b) if none of the co-defendants is to have a jury trial, and the adult either does not or is not eligible to elect to be tried by a jury, the adult must be tried with the co-defendants in the Youth Court, unless the Youth Court, in the interests of justice, orders otherwise.
-(7) If none of subsections (2), (3), (5), and (6) applies, the persons charged must be tried in a Youth Court by a Youth Court Judge.
-(8) In any proceedings to which this section applies, the powers of any Youth Court Judge in respect of any defendant who is not a child or young person are limited to such powers as are exercisable by the Youth Court Judge as a District Court Judge elsewhere than in a Youth Court.
-(9) If any defendant, not being a child or young person, is convicted in a Youth Court,—
-  (a) any sentence imposed or order made must be one that could have been imposed or made if that defendant had been convicted following a trial in a District Court; and
-  (b) that defendant must for all purposes, including section 184 of the Criminal Procedure Act 2011, be deemed to have been convicted in a District Court.
+(7) If none of subsections (2), (3), (5), and (6) applies, the persons charged must be tried in the Youth Court by a Youth Court Judge.
+(8) In any proceedings to which this section applies, the powers of any Youth Court Judge in respect of any defendant who is not a child or young person are limited to such powers as are exercisable by the Youth Court Judge as a District Court Judge elsewhere than in the Youth Court.
+(9) If any defendant, not being a child or young person, is convicted in the Youth Court,—
+  (a) any sentence imposed or order made must be one that could have been imposed or made if that defendant had been convicted following a trial in the District Court; and
+  (b) that defendant must for all purposes, including section 184 of the Criminal Procedure Act 2011, be deemed to have been convicted in the District Court.
 (10) If an adult is tried with a child or young person in the Youth Court under subsection (6)﻿(b) or (7), the following apply in respect of the adult, with the necessary modifications:
   (a) all applicable pre-trial processes under subparts 1 to 3 of Part 3 of the Criminal Procedure Act 2011; and
   (b) sections 60 to 62(1), 62(3) to 65, and 116 of that Act (which relate to sentence indications).
@@ -3047,19 +3047,19 @@ Sections 37 and 38 (which relate to privilege and the publication of the proceed
 (1) This section applies if a young person is to be tried by a jury.
 (2) If the offence with which the young person is charged is a category 4 offence, the trial must take place in the High Court at the place nearest to the Youth Court from which the proceedings are to be transferred.
 (3) If the offence with which the young person is charged is a category 3 offence,—
-  (a) the level of trial court is a District Court, unless an order is made under section 68 or 70 of the Criminal Procedure Act 2011 that the trial be held in the High Court; and
+  (a) the level of trial court is the District Court, unless an order is made under section 68 or 70 of the Criminal Procedure Act 2011 that the trial be held in the High Court; and
   (b) the place of trial is,—
     (i) in the case of a District Court trial, the District Court nearest to the Youth Court that adjourned the proceeding for trial callover in accordance with section 57(3)﻿(b) of the Criminal Procedure Act 2011 that has jurisdiction to conduct jury trials; or
     (ii) in the case of a High Court trial, the High Court at the place nearest to the Youth Court that dealt with the pre-trial processes in accordance with section 275(2).
 (4) This section is subject to—
-  (a) any order made under section 4A of the District Courts Act 1947 or section 157 of the Criminal Procedure Act 2011; and
+  (a) any order made under section 72 of the District Court Act 2016 or section 157 of the Criminal Procedure Act 2011; and
   (b) section 139(1) of the Criminal Procedure Act 2011; and
   (c) any regulations made under section 387 of the Criminal Procedure Act 2011 that prescribe a different place of trial.
 
 ### 278 Parent or guardian may be summoned to appear when young person charged with offence
-(1) Any Youth Court Judge or District Court Judge or Justice or Community Magistrate or Registrar (not being a constable) may, where a charging document is filed against a young person in respect of any offence, issue a summons to any parent, guardian, or person for the time being having the care of the young person, requiring that parent or guardian or person to appear before a Youth Court at a time to be named in the summons.
+(1) Any Youth Court Judge or District Court Judge or Justice or Community Magistrate or Registrar (not being a constable) may, where a charging document is filed against a young person in respect of any offence, issue a summons to any parent, guardian, or person for the time being having the care of the young person, requiring that parent or guardian or person to appear before the Youth Court at a time to be named in the summons.
 (2) At the hearing of the proceedings in respect of the offence any such parent or guardian or other person may be examined in respect of any matter relating to the proceedings.
-(3) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, being required to appear before a Youth Court under this section, refuses or fails, without reasonable excuse, so to appear.
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, being required to appear before the Youth Court under this section, refuses or fails, without reasonable excuse, so to appear.
 (4) In any case where a person does not appear in answer to a summons that has been served under this section, a Youth Court Judge or District Court Judge may direct the issue of a warrant to arrest that person and bring that person before the court.
 
 ### 279 Court to consider recommendations of family group conference
@@ -3092,8 +3092,8 @@ Where, in any proceedings under this Part in respect of any charging document fi
 **Disposal of proceedings in Youth Court**
 
 ### 281 Court not to make orders unless family group conference held
-(1) Subject to section 248, where a charge against a young person is proved before a Youth Court, the court shall not make any order under section 282 or section 283 unless a family group conference has had an opportunity to consider ways in which the court might deal with the young person in relation to the charge.
-(2) A Youth Court shall not—unless a family group conference has first been convened to consider the matter, and for that purpose the court shall direct a youth justice co-ordinator to convene a family group conference in relation to the matter not later than 14 days after the date on which that direction is given.
+(1) Subject to section 248, where a charge against a young person is proved before the Youth Court, the court shall not make any order under section 282 or section 283 unless a family group conference has had an opportunity to consider ways in which the court might deal with the young person in relation to the charge.
+(2) The Youth Court shall not—unless a family group conference has first been convened to consider the matter, and for that purpose the court shall direct a youth justice co-ordinator to convene a family group conference in relation to the matter not later than 14 days after the date on which that direction is given.
   (a) if a young person appears before the court on a summons issued under section 295, exercise any of the powers conferred on it by section 295(2); or
   (b) if the court under section 296B cancels a mentoring programme order, an alcohol or drug rehabilitation programme order, a supervision order, a community work order, a supervision with activity order, or an intensive supervision order under section 296G, substitute any other order in place of that order; or
   (c) if the court under section 316 cancels a supervision with residence order, substitute any other order in place of that order,—
@@ -3110,7 +3110,7 @@ Where, in respect of any offence, the holding of a family group conference has b
 (2) The provisions of sections 250 to 269 shall apply with all necessary modifications with respect to the convening of a family group conference for the purposes of this section.
 
 ### 282 Power of court to discharge charge
-(1) If a charging document is filed charging a young person with an offence in category 1, 2, or 3, a Youth Court, after an inquiry into the circumstances of the case, may discharge the charge.
+(1) If a charging document is filed charging a young person with an offence in category 1, 2, or 3, the Youth Court, after an inquiry into the circumstances of the case, may discharge the charge.
 (2) A charge discharged under subsection (1) is deemed never to have been filed.
 (3) If it is satisfied that the charge against the young person is proved, the court may make an order under any of the provisions of section 283(e) to (j)—
   (a) when it discharges the charge; or
@@ -3118,19 +3118,19 @@ Where, in respect of any offence, the holding of a family group conference has b
 (4) The court must not exercise the power in subsection (3)﻿(b) unless section 281(1) is complied with.
 
 ### 283 Hierarchy of court's responses if charge against young person proved
-A Youth Court before which a charge against a young person is proved may, subject to sections 284 to 290, make 1 or more of the following responses (grouped in levels of equal restrictiveness, the groups ranging from least restrictive to most restrictive):Group 1 responsesGroup 2 responsesGroup 3 responsesGroup 4 responsesGroup 5 responseGroup 6 responseGroup 7 response
+The Youth Court before which a charge against a young person is proved may, subject to sections 284 to 290, make 1 or more of the following responses (grouped in levels of equal restrictiveness, the groups ranging from least restrictive to most restrictive):Group 1 responsesGroup 2 responsesGroup 3 responsesGroup 4 responsesGroup 5 responseGroup 6 responseGroup 7 response
   (a) discharge the young person from the proceedings without further order or penalty:
   (b) admonish the young person:
   (c) order that the young person come before the court, if called upon within 12 months after the order is made, so that the court may take further action under this section:
-  (d) impose a fine that could have been imposed by a District Court if the young person were an adult and had been convicted of the offence following a trial in a District Court, and exercise any of the powers conferred on a District Court by sections 81 and 83 of the Summary Proceedings Act 1957 (other than the power to impose a period of imprisonment in default of payment):
+  (d) impose a fine that could have been imposed by the District Court if the young person were an adult and had been convicted of the offence following a trial in the District Court, and exercise any of the powers conferred on the District Court by sections 81 and 83 of the Summary Proceedings Act 1957 (other than the power to impose a period of imprisonment in default of payment):
   (e) order the young person or, in the case of a young person who is under the age of 16 years, any parent or guardian of the young person to pay a sum towards the cost of the prosecution:
   (f) order the young person or, in the case of a young person who is under the age of 16 years, any parent or guardian of the young person to pay to the person who suffered the emotional harm or the loss of, or damage to, property such sum as it thinks fit by way of reparation if the court is satisfied that any person (other than the young person) suffered, through or by means of the offence, either or both of the following:
     (i) emotional harm:
     (ii) loss of, or damage to, property:
   (g) order the young person or, in the case of a young person who is under the age of 16 years, a parent or guardian of the young person to make restitution in accordance with section 377 of the Criminal Procedure Act 2011:
-  (h) make an order for the forfeiture of property to the Crown if the forfeiture of that property would have been obligatory or could have been ordered under an enactment applicable to the offence if the young person were an adult and had been convicted of that offence by a District Court:
+  (h) make an order for the forfeiture of property to the Crown if the forfeiture of that property would have been obligatory or could have been ordered under an enactment applicable to the offence if the young person were an adult and had been convicted of that offence by the District Court:
   (i) make an order under section 293A (which relates to disqualification from driving):
-  (j) make an order that could have been made by a court other than a Youth Court under section 128 or 129 of the Sentencing Act 2002 (which relate to confiscation of motor vehicles) if the young person were an adult and had been convicted of the offence in a court other than a Youth Court, and, if the court makes the order, the following sections of that Act apply (to the extent they are applicable and subject to any necessary modifications):
+  (j) make an order that could have been made by a court other than the Youth Court under section 128 or 129 of the Sentencing Act 2002 (which relate to confiscation of motor vehicles) if the young person were an adult and had been convicted of the offence in a court other than the Youth Court, and, if the court makes the order, the following sections of that Act apply (to the extent they are applicable and subject to any necessary modifications):
     (i) section 128 or 129 (as the case may be):
     (ii) sections 129EA, 130, 131 to 136, 137, and 138 to 142:
   (ja) make an order requiring the young person (if he or she is, or is soon to be, a parent or guardian or other person having the care of a child), or a parent or guardian or other person having the care of the young person, or both, to attend, in a manner specified by the court, and for a specified period of not more than 6 months, a specified parenting education programme:
@@ -3141,7 +3141,7 @@ A Youth Court before which a charge against a young person is proved may, subjec
   (m) make a supervision with activity order under section 307:
   (n) make a supervision with residence order under section 311:
   (o) exercise the powers conferred by one of the following subparagraphs:
-    (i) the court may order that the young person be brought before a District Court for sentence or decision, and may enter a conviction before doing so; and the Sentencing Act 2002 applies accordingly if—
+    (i) the court may order that the young person be brought before the District Court for sentence or decision, and may enter a conviction before doing so; and the Sentencing Act 2002 applies accordingly if—
       (A) the young person is of or over the age of 15 years; or
       (B) the young person is of or over the age of 14 years and under the age of 15 years and the charge proved against him or her is a charge in respect of a category 4 offence or category 3 offence for which the maximum penalty available is or includes imprisonment for life or for at least 14 years:
     (ii) the court may, in the case of a young person charged with a category 4 offence or an offence for which the maximum penalty available is or includes imprisonment for life and if the court considers that a sentence of imprisonment for life may be appropriate, order that the young person be brought before the High Court for sentence or decision and may enter a conviction before doing so; and the Sentencing Act 2002 applies accordingly if the young person is of or over the age of 14 years.
@@ -3171,7 +3171,7 @@ A Youth Court before which a charge against a young person is proved may, subjec
   (b) any community-based sentence (as that term is defined in section 4(1) of the Sentencing Act 2002; or
   (ba) any sentence of home detention imposed under section 80A of the Sentencing Act 2002; or
   (c) any sentence of imprisonment (as that term is so defined),—
-(6) The court may make an order under section 283(o) (that the young person be brought before a District Court or the High Court for sentence or decision) despite section 289 if,—
+(6) The court may make an order under section 283(o) (that the young person be brought before the District Court or the High Court for sentence or decision) despite section 289 if,—
   (a) but for subsection (5)﻿(b), (ba), or (c), the court would have made an order under any of the following:
     (i) section 283(l) (community work order under section 298):
     (ii) section 283(m) (supervision with activity order under section 307):
@@ -3229,31 +3229,31 @@ A Judge exercising the jurisdiction of the court to make an order under section 
   (b) with, and under the control of, the provider.
 
 ### 291 Transfer of other charges to District Court or High Court for sentence
-Where, in any proceedings before a Youth Court, the court makes an order under paragraph (o) of section 283 in respect of any charge proved against a young person, notwithstanding anything in section 290 the court may, at the same time, make an order under that paragraph in respect of any other charge proved against that young person in those proceedings and in respect of which the court is empowered to make an order under section 283.
+Where, in any proceedings before the Youth Court, the court makes an order under paragraph (o) of section 283 in respect of any charge proved against a young person, notwithstanding anything in section 290 the court may, at the same time, make an order under that paragraph in respect of any other charge proved against that young person in those proceedings and in respect of which the court is empowered to make an order under section 283.
 
 ### 292 Whole or part of fine may be awarded to victim of offence suffering physical or emotional harm
 [Repealed]
 
 ### 293 Effect of order imposing fine or requiring payment of compensation or restitution or forfeiture of property
-Every order or decision made under any of the provisions of paragraphs (d) to (h) of section 283 shall have effect as if made by a District Court and as if any fine imposed or such sum ordered to be paid had been adjudged to be paid by conviction, except that—
-  (a) the enforcement of every such order or decision shall be the responsibility of a Youth Court and its officers; and
+Every order or decision made under any of the provisions of paragraphs (d) to (h) of section 283 shall have effect as if made by the District Court and as if any fine imposed or such sum ordered to be paid had been adjudged to be paid by conviction, except that—
+  (a) the enforcement of every such order or decision shall be the responsibility of the Youth Court and its officers; and
   (b) no young person shall be liable to imprisonment or a sentence of community detention or home detention for failing to comply with any such order or decision; and
   (c) no costs, expenses, or fees shall be payable in respect of the enforcement of any such order or decision.
 
 ### 293A Disqualification from driving
-(1) Where a charge against a young person is proved before a Youth Court, and the offence or the circumstances in which it was committed are such that a District Court would, on entering a conviction for that offence,—then the Youth Court may make such order (being an order of any of the kinds referred to in any of paragraphs (a) to (c)) as would have been obligatory or could have been ordered under any of those sections if the young person were an adult and had been convicted of the offence in a court other than a Youth Court.
+(1) Where a charge against a young person is proved before the Youth Court, and the offence or the circumstances in which it was committed are such that the District Court would, on entering a conviction for that offence,—then the Youth Court may make such order (being an order of any of the kinds referred to in any of paragraphs (a) to (c)) as would have been obligatory or could have been ordered under any of those sections if the young person were an adult and had been convicted of the offence in a court other than the Youth Court.
   (a) be empowered under section 124 of the Sentencing Act 2002 to make an order disqualifying the offender from holding or obtaining a driver's licence; or
   (b) be required or empowered under the Land Transport Act 1998 to make an order disqualifying the offender from holding or obtaining a driver's licence; or
   (c) be required to make an order under section 65 of the Land Transport Act 1998 requiring the offender to attend an Assessment Centre and disqualifying the person from holding or obtaining a driver's licence,—
-(2) Where a Youth Court makes an order pursuant to subsection (1)﻿(a), the provisions of sections 124 to 126 of the Sentencing Act 2002 shall apply accordingly.
-(3) Subject to subsection (5), where a Youth Court makes an order pursuant to subsection (1)﻿(b) or (c), Parts 5 to 7 of the Land Transport Act 1998 shall apply, so far as applicable and with any necessary modifications, as if the order had been made under that Act.
-(4) In determining, for the purposes of paragraph (b) or paragraph (c) of subsection (1), whether any order would have been obligatory or could have been ordered under any of the sections referred to in either of those paragraphs, a finding (whether made before or after the commencement of this section), by a Children and Young Persons Court or a Youth Court, that a young person is proved to have committed an offence referred to in section 32(1) or section 65(1) of the Land Transport Act 1998 (not being an offence in respect of which an order has been made under section 282 of this Act or section 35 of the Children and Young Persons Act 1974) shall be deemed to be a conviction for that offence.
-(5) Where a Youth Court makes an order pursuant to subsection (1)﻿(c) in respect of a young person, that young person shall not be required to pay the Assessment Centre fee payable under section 65(4) of the Land Transport Act 1998 in respect of that order unless the Youth Court, being satisfied that the young person has the capacity to pay that fee within a period of 12 months from the date on which the fee is payable, so orders.
+(2) Where the Youth Court makes an order pursuant to subsection (1)﻿(a), the provisions of sections 124 to 126 of the Sentencing Act 2002 shall apply accordingly.
+(3) Subject to subsection (5), where the Youth Court makes an order pursuant to subsection (1)﻿(b) or (c), Parts 5 to 7 of the Land Transport Act 1998 shall apply, so far as applicable and with any necessary modifications, as if the order had been made under that Act.
+(4) In determining, for the purposes of paragraph (b) or paragraph (c) of subsection (1), whether any order would have been obligatory or could have been ordered under any of the sections referred to in either of those paragraphs, a finding (whether made before or after the commencement of this section), by a Children and Young Persons Court or the Youth Court, that a young person is proved to have committed an offence referred to in section 32(1) or section 65(1) of the Land Transport Act 1998 (not being an offence in respect of which an order has been made under section 282 of this Act or section 35 of the Children and Young Persons Act 1974) shall be deemed to be a conviction for that offence.
+(5) Where the Youth Court makes an order pursuant to subsection (1)﻿(c) in respect of a young person, that young person shall not be required to pay the Assessment Centre fee payable under section 65(4) of the Land Transport Act 1998 in respect of that order unless the Youth Court, being satisfied that the young person has the capacity to pay that fee within a period of 12 months from the date on which the fee is payable, so orders.
 
 ### 294 Demerit points
 Where—the young person is, unless the charge is discharged under section 282, deemed, for the purposes of sections 88 to 91 of the Land Transport Act 1998 and of any regulations made under section 167(1)﻿(g) of that Act, to have been convicted of that offence, and the provisions of those sections of that Act and those regulations apply accordingly with all necessary modifications.
-  (a) a charge against a young person is proved before a Youth Court; and
-  (b) the offence is such that, if the offender were convicted in a District Court, the New Zealand Transport Agency would be obliged under section 88 of the Land Transport Act 1998 to record demerit points in respect of the offender,—
+  (a) a charge against a young person is proved before the Youth Court; and
+  (b) the offence is such that, if the offender were convicted in the District Court, the New Zealand Transport Agency would be obliged under section 88 of the Land Transport Act 1998 to record demerit points in respect of the offender,—
 
 ### 295 Recall to come before court
 (1) Where the court makes an order under section 283(c), the court may, at any time during the duration of the order, direct, on the application of a social worker or constable, the issue to the young person in respect of whom the order was made of a summons, in a form prescribed by rules of court, to appear before the court.
@@ -3471,13 +3471,13 @@ Where a court finds a charge against a young person proved, and that young perso
 **Community work order**
 
 ### 298 Community work order
-(1) Subject to this section, where a charge against a young person is proved before a Youth Court, the court may order that the young person undertake work in the interests of the community for such number of hours, being not less than 20 nor more than 200, as the court may specify.
+(1) Subject to this section, where a charge against a young person is proved before the Youth Court, the court may order that the young person undertake work in the interests of the community for such number of hours, being not less than 20 nor more than 200, as the court may specify.
 (2) The work required to be undertaken for the purposes of a community work order shall—
   (a) be performed within such period not exceeding 12 months as the court shall specify:
   (b) be performed under the supervision of—
     (i) a social worker; or
     (ii) any person or organisation (being a person or organisation approved by the chief executive either generally or in the particular case) who or which agrees to supervise the order.
-(3) No Youth Court shall make a community work order unless it is satisfied that suitable work is available for the young person to perform for the purposes of the order.
+(3) The Youth Court must not make a community work order unless it is satisfied that suitable work is available for the young person to perform for the purposes of the order.
 
 ### 299 Failure to comply with community work order
 [Repealed]
@@ -3530,7 +3530,7 @@ Where the court makes an order under section 283(k) placing a young person under
     (iii) if there is no person in New Zealand who has been so acting, or if no such person can be found with reasonable diligence or is capable of giving consent, by a District Court Judge or the chief executive.
 
 ### 307 Supervision with activity order
-(1) If a charge against a young person is proved before a Youth Court, the court may make an order placing the young person under the supervision of the chief executive, or of any person or organisation specified in the order, for a period not exceeding 6 months, and (subject to section 290A) imposing either or both of the following conditions:
+(1) If a charge against a young person is proved before the Youth Court, the court may make an order placing the young person under the supervision of the chief executive, or of any person or organisation specified in the order, for a period not exceeding 6 months, and (subject to section 290A) imposing either or both of the following conditions:
   (a) that the young person attend and remain at, for any weekday, evening, and weekend hours each week and for any number of months the court thinks fit, any specified centre approved by the department, and take part in any activity required by the person in charge of the centre:
   (b) that the young person undertake any specified programme or activity.
 (2) If the court makes an order under subsection (1) in respect of a young person, it may at the same time or before that order expires make an order under section 283(k)—
@@ -3551,7 +3551,7 @@ Where the court makes an order under section 283(k) placing a young person under
 (1) The court may direct that a young person's compliance with 1 or more specified conditions of a supervision or supervision with activity order made in respect of a young person is to be monitored judicially at the times specified in the direction (or at any other replacement monitoring times the court specifies) if—
   (a) the order is one made or varied by the court after declaring under section 296B(3) that the young person has without reasonable excuse failed to comply satisfactorily with a term, condition, or other requirement of a supervision or supervision with activity order made in respect of the young person; or
   (b) the order is one made by the court under section 283 after a charge against the young person in respect of an offence is proved before the court and the young person has previously been the subject of an order under section 283 made in respect of another offence and that previous order is, or is an order more restrictive than, a supervision order under section 283(k); or
-  (c) the young person has previously been convicted of an offence in a District Court or the High Court and, as a result of the conviction, sentenced by a District Court or by the High Court to—
+  (c) the young person has previously been convicted of an offence in the District Court or the High Court and, as a result of the conviction, sentenced by the District Court or by the High Court to—
     (i) a community-based sentence (as defined in section 4(1) of the Sentencing Act 2002); or
     (ii) a sentence of home detention imposed under section 80A of the Sentencing Act 2002; or
     (iii) a sentence of imprisonment (as so defined).
@@ -3586,9 +3586,9 @@ Where the court makes an order under section 283(k) placing a young person under
 **Supervision with residence orders**
 
 ### 311 Supervision with residence order
-(1) If a charge against a young person is proved before a Youth Court, the court may make an order placing the young person in the custody of the chief executive for a period of not less than 3 months and not more than 6 months.
-(2) If a Youth Court makes an order under subsection (1) in respect of a young person, the order may (subject to section 290A) be made subject to the condition that the young person undertake any specified programme or activity.
-(2A) If a Youth Court makes an order under subsection (1) in respect of a young person, the court must—
+(1) If a charge against a young person is proved before the Youth Court, the court may make an order placing the young person in the custody of the chief executive for a period of not less than 3 months and not more than 6 months.
+(2) If the Youth Court makes an order under subsection (1) in respect of a young person, the order may (subject to section 290A) be made subject to the condition that the young person undertake any specified programme or activity.
+(2A) If the Youth Court makes an order under subsection (1) in respect of a young person, the court must—
   (a) adjourn the proceedings to a date on which it will consider early release under section 314, and that is—
     (i) the date on which two-thirds of the period of the order under subsection (1) will have elapsed; or
     (ii) if it is not practicable to hold a hearing on that date, a date not more than 7 working days before that date; and
@@ -3628,7 +3628,7 @@ Where the court makes an order under section 283(k) placing a young person under
 Where a young person who is subject to an order made under section 311(1) absconds from the custody of the chief executive, any time during which that young person is unlawfully at large shall not count as part of the period during which that young person is in the custody of the chief executive pursuant to that order.
 
 ### 316 Court may cancel supervision with residence order if young person absconds
-(1) A Youth Court may, on the application of the chief executive, cancel an order made under section 311 placing a young person in the custody of the chief executive if the court is satisfied that the young person has, at any time while that order is in force, absconded from the custody of the chief executive.
+(1) The Youth Court may, on the application of the chief executive, cancel an order made under section 311 placing a young person in the custody of the chief executive if the court is satisfied that the young person has, at any time while that order is in force, absconded from the custody of the chief executive.
 (2) Where the court cancels a supervision with residence order under subsection (1),—
   (a) the court shall at the same time cancel the order required to be made under section 311(2A) in conjunction with that order:
   (b) the court may substitute, in relation to the young person in respect of whom the order was made, any other order that it could have made at the time when the order was made.
@@ -3704,12 +3704,12 @@ No young person who has been placed in the custody of the chief executive pursua
 
 **General**
 
-### 321 Application of Acts relating to bail, criminal disclosure, criminal procedure, victims' rights, and District Courts
-(1) Subject to the provisions of this Act, the provisions set out in Schedule 1 shall apply, with such modifications as are indicated in that schedule or are necessary, to Youth Courts and to proceedings in such courts, as the case may require.
-(2) For the purposes of section 293 every Youth Court and its officers shall have all the powers and duties of a District Court and its officers respectively, and Part 3 of the Summary Proceedings Act 1957 shall apply accordingly with all necessary modifications and the following specific modification, namely, that where any child or young person is examined as to the means of that child or young person under that Part of that Act any parent or guardian or other person having the care of that child or young person may be present.
-(3) In any provisions so applied, District Court Judge, Judge, and judicial officer, for the purposes of this Act, mean a Youth Court Judge exercising jurisdiction in a Youth Court.
-(4) Any officer of a District Court may act as an officer of a Youth Court.
-(5) For the avoidance of doubt, it is hereby declared that, in any case where a child or young person first appears before a Youth Court following his or her arrest, the following powers may be exercised in relation to the child or young person by a Justice or Community Magistrate:
+### 321 Application of Acts relating to bail, criminal disclosure, criminal procedure, victims' rights, and District Court
+(1) Subject to the provisions of this Act, the provisions set out in Schedule 1 shall apply, with such modifications as are indicated in that schedule or are necessary, to the Youth Court and to proceedings in that court, as the case may require.
+(2) For the purposes of section 293, the Youth Court and its officers have all the powers and duties of the District Court and its officers respectively, and Part 3 of the Summary Proceedings Act 1957 shall apply accordingly with all necessary modifications and the following specific modification, namely, that where any child or young person is examined as to the means of that child or young person under that Part of that Act any parent or guardian or other person having the care of that child or young person may be present.
+(3) In any provisions so applied, District Court Judge, Judge, and judicial officer, for the purposes of this Act, mean a Youth Court Judge exercising jurisdiction in the Youth Court.
+(4) Any officer of the District Court may act as an officer of the Youth Court.
+(5) For the avoidance of doubt, it is hereby declared that, in any case where a child or young person first appears before the Youth Court following his or her arrest, the following powers may be exercised in relation to the child or young person by a Justice or Community Magistrate:
   (a) the powers conferred by section 238(1):
   (b) where the child or young person is legally represented in the proceedings, the powers conferred by section 246(b).
 
@@ -3719,7 +3719,7 @@ A Youth Court Judge may dismiss any charge charging a young person with the comm
 **Youth advocates**
 
 ### 323 Appointment of youth advocate to represent child or young person
-(1) Where a child or young person appears before a Youth Court charged with an offence, then unless—the court shall appoint a barrister or solicitor to represent that child or young person in those proceedings.
+(1) Where a child or young person appears before the Youth Court charged with an offence, then unless—the court shall appoint a barrister or solicitor to represent that child or young person in those proceedings.
   (a) the child or young person is already represented by a barrister or solicitor in those proceedings; or
   (b) the court is satisfied that legal representation has been arranged, or will be arranged, for that child or young person in those proceedings,—
 (2) Where the court appoints a barrister or solicitor under subsection (1), it shall, so far as practicable, appoint a barrister or solicitor who is, by reason of personality, cultural background, training, and experience, suitably qualified to represent the child or young person.
@@ -3733,7 +3733,7 @@ A Youth Court Judge may dismiss any charge charging a young person with the comm
   (a) a youth advocate is appointed to represent a young person in any proceedings; and
   (b) in those proceedings the court makes, in respect of that young person, any order under section 283,—
   (c) on any appeal under section 351 or section 352 or section 353 or section 354 in respect of those proceedings, and in any subsequent proceedings under Part 4 in relation to that order:
-  (d) where the court makes an order under section 283(o) that the young person be brought before a District Court for sentence or decision,—
+  (d) where the court makes an order under section 283(o) that the young person be brought before the District Court for sentence or decision,—
     (i) in the proceedings before the District Court:
     (ii) on any appeal against that sentence or decision:
     (iii) in relation to any matter arising out of that sentence or decision while that young person is detained in custody pursuant to that sentence or decision.
@@ -3750,7 +3750,7 @@ A Youth Court Judge may dismiss any charge charging a young person with the comm
 **Lay advocates**
 
 ### 326 Appointment of lay advocate
-(1) Where a child or young person appears before a Youth Court charged with an offence, the court may, on application by any person entitled to make representations in those proceedings on behalf of any person, or of its own motion, appoint any person, not being a barrister or solicitor, to appear in support of that child or young person in those proceedings.
+(1) Where a child or young person appears before the Youth Court charged with an offence, the court may, on application by any person entitled to make representations in those proceedings on behalf of any person, or of its own motion, appoint any person, not being a barrister or solicitor, to appear in support of that child or young person in those proceedings.
 (2) Where the court appoints a lay advocate under subsection (1), it shall, so far as practicable, appoint a person who has, by reason of personality, cultural background, knowledge, and experience, sufficient standing in the culture of the child or young person in respect of whom the appointment is to be made to enable that person to carry out his or her duties under this Act.
 (3) The court may make an appointment under subsection (1) notwithstanding that the child or young person is represented in the proceedings by a barrister or solicitor.
 
@@ -3769,7 +3769,7 @@ Subsections (2) and (3) of section 324 shall apply, with all necessary modificat
 **Attendance at hearings and right to make representations**
 
 ### 329 Persons entitled to be present at hearing
-(1) No person shall be present during the hearing of any proceedings in a Youth Court relating to a child or young person except—
+(1) No person shall be present during the hearing of any proceedings in the Youth Court relating to a child or young person except—
   (a) officers of the court:
   (b) the child or young person:
   (c) the prosecutor and any person, including any barrister or solicitor, conducting the proceedings against the child or young person:
@@ -3789,34 +3789,34 @@ Subsections (2) and (3) of section 324 shall apply, with all necessary modificat
 (3) Nothing in this section limits any other power of the court to hear proceedings in private or to exclude any person from the court.
 
 ### 330 Right to make representations in Youth Court
-(1) Where a child or young person appears before a Youth Court charged with an offence, representations may be made to the court on behalf of the child or young person by—
+(1) Where a child or young person appears before the Youth Court charged with an offence, representations may be made to the court on behalf of the child or young person by—
   (a) the child or young person:
   (b) any barrister or solicitor or youth advocate who represents the child or young person:
   (c) any parent or guardian or other person having the care of the child or young person:
   (d) any lay advocate who appears in support of the child or young person or any parent or guardian or other person having the care of the child or young person:
   (e) with the leave of the court, any other person.
-(2) Where a child or young person appears before a Youth Court charged with an offence, representations may be made to the court on behalf of any parent or guardian or other person having the care of that child or young person by—
+(2) Where a child or young person appears before the Youth Court charged with an offence, representations may be made to the court on behalf of any parent or guardian or other person having the care of that child or young person by—
   (a) that parent or guardian or other person:
   (b) any barrister or solicitor who represents that parent or guardian or other person:
   (c) any lay advocate who appears in support of that parent or guardian or other person:
   (d) with the leave of the court, any other person.
-(3) Where, in respect of any child or young person who appears before a Youth Court charged with an offence, a family group conference has been held pursuant to Part 4, a representative of that family group conference shall be entitled to address the court.
+(3) Where, in respect of any child or young person who appears before the Youth Court charged with an offence, a family group conference has been held pursuant to Part 4, a representative of that family group conference shall be entitled to address the court.
 
-**Arrangements for hearings in Youth Courts**
+**Arrangements for hearings in Youth Court**
 
 ### 331 Matters before court to be dealt with separately
-So far as practicable the sittings of a Youth Court shall be so arranged that—
+So far as practicable the sittings of the Youth Court shall be so arranged that—
   (a) persons attending are not brought into contact with persons in attendance at any other court; and
   (b) both the extent to which children and young persons are able to associate within the court premises while awaiting hearing, and the extent to which parents are obliged to congregate in common waiting facilities pending the hearing of proceedings in which they are involved, are reduced to a minimum.
 
 ### 332 Arrangements for hearing of proceedings in Youth Court
-(1) So far as practicable the hearing of proceedings in a Youth Court shall be arranged in a manner that keeps to a minimum the time that the persons involved have to wait for the proceedings to be heard.
-(2) The time stated in every summons requiring a person to appear before a Youth Court shall be a time that accords with the reasonable expectation of the Registrar of the court of the time when the proceedings in respect of which the summons is issued will be heard.
+(1) So far as practicable the hearing of proceedings in the Youth Court shall be arranged in a manner that keeps to a minimum the time that the persons involved have to wait for the proceedings to be heard.
+(2) The time stated in every summons requiring a person to appear before the Youth Court shall be a time that accords with the reasonable expectation of the Registrar of the court of the time when the proceedings in respect of which the summons is issued will be heard.
 
 **Reports**
 
 ### 333 Medical, psychiatric, and psychological reports
-(1) If, at any stage of any proceedings under Part 4, it appears to the court that a medical, psychiatric, or psychological report should be available to the court, the court may make any order that a Family Court is empowered to make under any of the provisions of sections 178 and 181, and the provisions of those sections and of sections 179, 180, 182, 183, 184, and 185 shall apply with such modifications as may be necessary.
+(1) If, at any stage of any proceedings under Part 4, it appears to the court that a medical, psychiatric, or psychological report should be available to the court, the court may make any order that the Family Court is empowered to make under any of the provisions of sections 178 and 181, and the provisions of those sections and of sections 179, 180, 182, 183, 184, and 185 shall apply with such modifications as may be necessary.
 (2) Without limiting the provisions of subsection (1), the court may obtain a psychiatric or psychological report under this section in respect of a young person for the purpose of assisting the court in determining—
   (a) whether the young person is unfit to stand trial within the meaning of section 4 of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
   (b) if the young person is insane within the meaning of section 23 of the Crimes Act 1961; or
@@ -3842,7 +3842,7 @@ So far as practicable the sittings of a Youth Court shall be so arranged that—
   (b) by a social worker in any other case.
 
 ### 336 Court may obtain cultural or community report
-Before making any order under section 283 the court may make any order that a Family Court is empowered to make under section 187, and the provisions of that section shall apply with such modifications as may be necessary.
+Before making any order under section 283 the court may make any order that the Family Court is empowered to make under section 187, and the provisions of that section shall apply with such modifications as may be necessary.
 
 ### 337 Reports may be made orally
 The court may, unless any person entitled to make representations in the proceedings objects, direct that any report required pursuant to section 334 (other than a report to which subsection (2) of that section applies) or section 336 be made orally to the court.
@@ -3872,15 +3872,15 @@ The provisions of sections 191 to 194 shall apply with such modifications as may
 
 ## Part 6 — Appeals
 
-**Appeals from decisions of Family Courts**
+**Appeals from decisions of Family Court**
 
-### 341 Rights of appeal against decisions of Family Courts
-(1) This subsection applies to a decision of a Family Court, in proceedings under this Act, to—
+### 341 Rights of appeal against decisions of Family Court
+(1) This subsection applies to a decision of the Family Court, in proceedings under this Act, to—
   (a) make or refuse to make an order (other than an interlocutory or interim order); or
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
 (2) A party to proceedings in which there is made a decision to which subsection (1) applies, a child or young person to whom the proceedings relate, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
-(3) A party to proceedings under this Act in a Family Court in which an interlocutory or interim order is made, a child or young person to whom the proceedings relate, or any other person prejudicially affected by the order, may, with the leave of the Family Court, appeal to the High Court against the order.
+(3) A party to proceedings under this Act in the Family Court in which an interlocutory or interim order is made, a child or young person to whom the proceedings relate, or any other person prejudicially affected by the order, may, with the leave of the Family Court, appeal to the High Court against the order.
 (4) An appeal under this section may be from the whole or part of the decision or order concerned.
 
 ### 342 Procedure for bringing appeal
@@ -3899,8 +3899,8 @@ Except where the court making the order appealed from otherwise directs, the ope
 (4) The High Court may at any time on the application of any party to the appeal or of its own motion vary, modify, or revoke any order made under subsection (1) or vary, modify, or revoke any term or condition of the order.
 
 ### 346 Procedure on appeal
-(1) The High Court Rules 2016 and sections 74 to 77 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under section 341 as if it were an appeal under section 72 of that Act.
-(2) On the ex parte application of the appellant, the Family Court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(1) The High Court Rules 2016 and sections 126 to 129 of the District Court Act 2016, with all necessary modifications, apply to an appeal under section 341 as if it were an appeal under section 124 of that Act.
+(2) On the ex parte application of the appellant, the Family Court may order that the appellant must not be required under section 126(1) of the District Court Act 2016 to give the Registrar of the High Court security for costs.
 (3) Sections 156, 157, and 166 to 169, with all necessary modifications, apply to the hearing in the High Court of an appeal under section 341.
 (4) Subsections (2) and (3) and sections 207O and 207U override subsection (1).
 
@@ -3910,20 +3910,20 @@ Except where the court making the order appealed from otherwise directs, the ope
 
 ### 348 Determination of appeals
 (1)
-(2) Every decision of the High Court shall have effect as if it were a decision or order made by a Family Court and all the provisions of this Act (except sections 341 to 347) shall apply in respect of every such decision of the High Court accordingly.
+(2) Every decision of the High Court shall have effect as if it were a decision or order made by the Family Court and all the provisions of this Act (except sections 341 to 347) shall apply in respect of every such decision of the High Court accordingly.
 (3)
 
 ### 349 Court may refer appeals back for reconsideration
 [Repealed]
 
 ### 350 Decision of High Court and Family Court to be sent to chief executive
-(1) A copy of every decision given by the High Court under section 348, and a copy of every order or decision given by a Family Court in accordance with a direction given under section 349, shall be sent by the Registrar of the High Court or the Family Court, as the case may be, to the principal manager of the department for the area in which the Family Court whose decision or order is appealed against is situated.
+(1) A copy of every decision given by the High Court under section 348, and a copy of every order or decision given by the Family Court in accordance with a direction given under section 349, shall be sent by the Registrar of the High Court or the Family Court, as the case may be, to the principal manager of the department for the area in which the Family Court is situated.
 (2) Notice of the fact that an appeal has not been proceeded with shall be given by the Registrar of the High Court to the principal manager of the department for the area in which the High Court is situated.
 
 **Appeals from decisions of Youth Court**
 
 ### 351 Appeals from decisions of Youth Court by young person
-(1) Every young person who has been found by a Youth Court to have committed an offence may appeal to the High Court against—
+(1) Every young person who has been found by the Youth Court to have committed an offence may appeal to the High Court against—
   (a) the finding of the court:
   (b) any order made by the court based on that finding:
   (c) both the finding of the court and any order made based on that finding.
@@ -3934,7 +3934,7 @@ Except where the court making the order appealed from otherwise directs, the ope
 
 ### 352 Appeal by parents or guardians or other persons having care of young person
 Any parent or guardian or other person having the care of a young person may appeal to the High Court against—
-  (a) any order made by a Youth Court under section 283(k) or (m) or (n) in respect of that young person:
+  (a) any order made by the Youth Court under section 283(k) or (m) or (n) in respect of that young person:
   (ab) an order made under section 297B(5) placing that young person in the custody of the chief executive, an iwi social service, a cultural social service, or the director of a child and family support service to enable the provision to that young person of a programme that that young person is required by an order under section 283(jc) to attend:
   (ac) an order made under section 307(4) placing that young person in the custody of the chief executive, an iwi social service, a cultural social service, or the director of a child and family support service to enable the provision to that young person of a programme or activity that that young person is required by a condition of an order under section 307(1) to take part in or undertake:
   (ad) an intensive supervision order made under section 296G in respect of that young person:
@@ -3944,15 +3944,15 @@ Any parent or guardian or other person having the care of a young person may app
   (e) an order made under section 283(ja) requiring that parent or guardian or other person having the care of that young person to attend a parenting education programme.
 
 ### 353 Appeal by persons other than young person dealt with in Youth Court
-(1) Any person, other than a young person, who is convicted in a Youth Court of any offence may appeal to the High Court against—
+(1) Any person, other than a young person, who is convicted in the Youth Court of any offence may appeal to the High Court against—
   (a) the conviction:
   (b) any sentence of the court based on the conviction:
   (c) both the conviction and any sentence of the court based on the conviction.
 (2) No appeal against a conviction may be brought under subsection (1) until the person convicted has been sentenced or otherwise dealt with.
 
 ### 354 Appeal on a point of law only
-(1) Any person entitled to appeal under section 351 or section 352 or section 353 against any finding, sentence, or order of a Youth Court, may appeal against the finding, sentence, or order as being erroneous in point of law to the High Court on a question of law only.
-(2) The prosecutor in any proceedings before a Youth Court may appeal against any finding, sentence, or order made in those proceedings as being erroneous in point of law to the High Court on a question of law only.
+(1) Any person entitled to appeal under section 351 or section 352 or section 353 against any finding, sentence, or order of the Youth Court, may appeal against the finding, sentence, or order as being erroneous in point of law to the High Court on a question of law only.
+(2) The prosecutor in any proceedings before the Youth Court may appeal against any finding, sentence, or order made in those proceedings as being erroneous in point of law to the High Court on a question of law only.
 
 ### 355 Application of Part 6 of Criminal Procedure Act 2011
 (1) The provisions of Part 6 of the Criminal Procedure Act 2011,—
@@ -3960,17 +3960,17 @@ Any parent or guardian or other person having the care of a young person may app
   (b) so far as they relate to appeals on questions of law only, apply as far as applicable with the necessary modifications to every appeal under section 354 of this Act.
 (2) Subsection (1) is subject to this Part.
 (3) In the application of the provisions of Part 6 of that Act, those provisions must be read as if—
-  (a) references to a District Court were references to a Youth Court; and
-  (b) the Registrar of the District Court of which the Youth Court in which the case was heard and determined is a division were the Registrar of that Youth Court; and
-  (c) references to a District Court Judge or Justice or Justices or Community Magistrate or Community Magistrates were references to a Youth Court Judge exercising jurisdiction in a Youth Court.
+  (a) references to the District Court were references to the Youth Court; and
+  (b)
+  (c) references to a District Court Judge or Justice or Justices or Community Magistrate or Community Magistrates were references to a Youth Court Judge exercising jurisdiction in the Youth Court.
 
 ### 356 Effect of notice of appeal on certain orders
-(1) The operation of any order made by a Youth Court under paragraph (k) or paragraph (l) or paragraph (m) or paragraph (n) of section 283 shall not be affected by the filing of a notice of appeal relating to the order, unless the Youth Court Judge who presided over the court making the order or, if that Youth Court Judge is not available, some other Youth Court Judge exercising jurisdiction in a Youth Court, on application by the appellant, directs that the operation of the order shall be suspended pending the determination of the appeal.
+(1) The operation of any order made by the Youth Court under paragraph (k) or paragraph (l) or paragraph (m) or paragraph (n) of section 283 shall not be affected by the filing of a notice of appeal relating to the order, unless the Youth Court Judge who presided over the court making the order or, if that Youth Court Judge is not available, some other Youth Court Judge exercising jurisdiction in the Youth Court, on application by the appellant, directs that the operation of the order shall be suspended pending the determination of the appeal.
 (2) Notice of any application or direction under subsection (1) shall be given by the Registrar to the principal manager of the department for the area in which the court is situated.
 (3) Where a direction is given under subsection (1) in respect of any order, the period of the order shall cease to run from the date of the direction.
 
 ### 357 Application of section 329 to hearing of appeal
-The provisions of section 329, with all necessary modifications, shall apply to the hearing in the High Court of any appeal against a decision of a Youth Court.
+The provisions of section 329, with all necessary modifications, shall apply to the hearing in the High Court of any appeal against a decision of the Youth Court.
 
 ### 358 Presence of young person at hearing of appeal
 (1) On the hearing of any appeal relating to an order under paragraph (k) or paragraph (l) or paragraph (m) or paragraph (n) of section 283 (not being an appeal on a point of law only), the young person, if the young person is then, pursuant to that order, under the supervision of the chief executive or any other person or organisation, or, as the case may be, is in the custody of the chief executive, shall be entitled to be present unless the High Court or a Judge of that court otherwise directs.
@@ -3979,7 +3979,7 @@ The provisions of section 329, with all necessary modifications, shall apply to 
 (4) Where any appeal relating to a young person is made under this Part, the High Court or a Judge of that court may order that the young person shall be present at the hearing.
 
 ### 359 Presence of parents at hearing of appeal from decisions of Youth Court
-(1) Where any appeal relating to a young person is made under this Part from a decision of a Youth Court, the High Court or a Judge of that court may order that any parent or guardian of the young person, or any person having the care of the young person, shall be present at the hearing, and may further order that that parent, guardian, or other person shall bring the young person with that person.
+(1) Where any appeal relating to a young person is made under this Part from a decision of the Youth Court, the High Court or a Judge of that court may order that any parent or guardian of the young person, or any person having the care of the young person, shall be present at the hearing, and may further order that that parent, guardian, or other person shall bring the young person with that person.
 (2) Where, pursuant to subsection (1), the High Court or a Judge of that court orders any person to be present at any hearing, the Registrar of that court shall cause every person so ordered to be present to be served with written notice of the time and place at which that person is required to attend.
 (3) If any person fails to attend at the High Court in accordance with an order made under subsection (1), the court may direct the issue of a warrant to arrest that person and bring that person before the court.
 (4) At the hearing of any such appeal, any parent or guardian of the young person, or any person having the care of the young person, may be examined in respect of any matter relating to the proceedings.
@@ -4101,7 +4101,7 @@ Subject to sections 368 and 370 and to any regulations made under section 447, t
   (c) any day that is a public holiday in the place in which that residence is situated.
 
 ### 371 Application for approval for continued detention in secure care
-(1) Where a child or young person is placed in secure care pursuant to section 367, the chief executive may apply to a Family Court or a Youth Court or, where it is not practicable to apply to a Family Court or a Youth Court, to a District Court for approval for the continued detention of that child or young person in secure care.
+(1) Where a child or young person is placed in secure care pursuant to section 367, the chief executive may apply to the Family Court or the Youth Court or, where it is not practicable to apply to the Family Court or the Youth Court, to the District Court for approval for the continued detention of that child or young person in secure care.
 (2) Where any application is made under subsection (1), the chief executive shall give written notice of the application to the following persons:
   (a) the child or young person in respect of whom the application is made:
   (b) each parent or guardian of the child or young person:
@@ -4167,7 +4167,7 @@ The hearing of an application under section 371 shall, where practicable, be hel
   (a) shall record in writing the reasons for granting the approval; and
   (b) may impose such conditions relating to the continued detention of the child or young person in secure care as the court thinks fit.
 (4) Subject to subsection (5), an approval granted under subsection (1) shall be valid for a period of 14 days commencing on the day on which it is granted, or such shorter period as the court may specify.
-(5) Notwithstanding subsection (4), where an application under section 371 relates to a child or young person who is remanded, by the High Court or a District Court, in the custody of the chief executive pursuant to section 173(2), 174(1), or 175(2) of the Criminal Procedure Act 2011, the court may grant an approval under subsection (1) for such period (being more than 14 days but not more than 28 days) as the court shall specify, in any case where the court is satisfied that, because of the length of time for which the child or young person is likely to be detained in the chief executive's custody, the public interest so requires. Any approval so granted shall be valid for the specified period commencing on the day on which it is granted.
+(5) Notwithstanding subsection (4), where an application under section 371 relates to a child or young person who is remanded, by the High Court or the District Court, in the custody of the chief executive pursuant to section 173(2), 174(1), or 175(2) of the Criminal Procedure Act 2011, the court may grant an approval under subsection (1) for such period (being more than 14 days but not more than 28 days) as the court shall specify, in any case where the court is satisfied that, because of the length of time for which the child or young person is likely to be detained in the chief executive's custody, the public interest so requires. Any approval so granted shall be valid for the specified period commencing on the day on which it is granted.
 
 ### 377 Renewal of approval for continued detention in secure care
 (1) The court may from time to time grant a renewal of an approval granted under section 376(1) upon application made by the chief executive at any time before the approval (or any current renewal of that approval) has expired.
@@ -4455,7 +4455,7 @@ The chief executive may, from time to time, make grants or provide financial ass
 (2) No charge imposed under subsection (1) shall exceed 25% of the net earnings and other income of the child or young person.
 
 ### 392 Manager may be appointed under Protection of Personal and Property Rights Act 1988 to manage property of children and young persons subject to guardianship or custody order
-(1) A Family Court shall have jurisdiction under Part 3 of the Protection of Personal and Property Rights Act 1988 to appoint a manager in respect of the property, or any specified part of the property, of any child or young person to whom this section applies, and the provisions of that Act shall apply accordingly.
+(1) The Family Court shall have jurisdiction under Part 3 of the Protection of Personal and Property Rights Act 1988 to appoint a manager in respect of the property, or any specified part of the property, of any child or young person to whom this section applies, and the provisions of that Act shall apply accordingly.
 (2) For the purposes of section 25 of the Protection of Personal and Property Rights Act 1988, a child or young person to whom this section applies shall be deemed to lack the competence to manage his or her own affairs in relation to his or her property.
 
 **Maintenance**
@@ -4736,10 +4736,10 @@ Without limiting the right of a care and protection resource panel to report at 
 (1) Every care and protection resource panel is hereby declared to be a statutory board within the meaning of the Fees and Travelling Allowances Act 1951.
 (2) There may be paid out of funds appropriated by Parliament for the purpose to the members of any care and protection resource panel remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly.
 
-**Youth Courts**
+**Youth Court**
 
-### 433 Establishment of Youth Courts
-Every District Court shall have a division to be known as a Youth Court.
+### 433 Establishment of Youth Court
+The District Court has a division known as the Youth Court.
 
 ### 434 Principal Youth Court Judge
 (1) The Governor-General must, on the advice of the Attorney-General, appoint a Principal Youth Court Judge.
@@ -4749,24 +4749,27 @@ Every District Court shall have a division to be known as a Youth Court.
 (5) To avoid doubt, a person does not cease to hold office as a District Court Judge solely because the term of the person's appointment as Principal Youth Court Judge has come to an end.
 (6) Despite subsection (2), the Principal Youth Court Judge continues in office until his or her successor comes into office.
 (7) The Principal Youth Court Judge is responsible for ensuring the orderly and expeditious discharge of the business of the court in consultation with the Chief District Court Judge.
+(8) The Chief District Court Judge may authorise a Youth Court Judge to act in place of the Principal Youth Court Judge if—
+  (a) the Principal Youth Court Judge is absent for any reason; or
+  (b) the office of the Principal Youth Court Judge is vacant.
 
 ### 435 Designation of Youth Court Judges
 (1) The Chief District Court Judge shall, from time to time, on the recommendation of the Principal Youth Court Judge, designate a sufficient number of District Court Judges as Youth Court Judges, and may, from time to time, revoke any such designation.
 (2) For the avoidance of doubt, it is hereby declared that a Family Court Judge may be designated as a Youth Court Judge.
-(3) A person shall not be designated a Youth Court Judge unless that person is a suitable person to deal with matters within the jurisdiction of a Youth Court by virtue of that person's training, experience, and personality and understanding of the significance and importance of different cultural perspectives and values.
+(3) A person shall not be designated a Youth Court Judge unless that person is a suitable person to deal with matters within the jurisdiction of the Youth Court by virtue of that person's training, experience, and personality and understanding of the significance and importance of different cultural perspectives and values.
 (4) A Family Court Judge shall not be designated as a Youth Court Judge without the concurrence of the Principal Family Court Judge.
 
 ### 435A Stationing of Judges and sittings of courts
 (1) Each Youth Court Judge must be stationed in the town, and must sit in the court, that may from time to time be determined by the Principal Youth Court Judge.
 (2) Despite subsection (1), the fact that a Youth Court Judge sits in any particular court is conclusive evidence of the Judge's authority to do so, and no exercise of any jurisdiction or power by a Youth Court Judge may be questioned on the ground that the Judge was not stationed in the town or authorised to sit in the court where he or she exercised the jurisdiction or power.
-(3) Sittings of a Youth Court for the dispatch of its business must be held on the days and times that may be appointed by the Judge exercising the jurisdiction of the court at the place at which the sittings are held.
-(4) However, the days appointed for regular sittings of a Youth Court are subject to the approval of the Principal Youth Court Judge.
+(3) Sittings of the Youth Court for the dispatch of its business must be held on the days and times that may be appointed by the Judge exercising the jurisdiction of the court at the place at which the sittings are held.
+(4) However, the days appointed for regular sittings of the Youth Court are subject to the approval of the Principal Youth Court Judge.
 (5) In exercising his or her powers under this section, the Principal Youth Court Judge must consult with the Chief District Court Judge.
-(6) This section is subject to section 9 of the District Courts Act 1947.
+(6) This section is subject to section 24 of the District Court Act 2016.
 
 ### 436 District Court Judge may exercise jurisdiction in absence of Youth Court Judge
-(1) In the case of the absence from any court of any Youth Court Judge (from whatever cause the absence may arise), or in any case where no District Court Judge has been designated as a Youth Court Judge to exercise jurisdiction in a Youth Court, any District Court Judge may exercise jurisdiction in that court.
-(2) The fact that a District Court Judge exercises jurisdiction in a Youth Court under this section shall be conclusive evidence of the authority of that District Court Judge to do so, and no act done by that District Court Judge while acting as such shall, in any proceedings, be questioned on the ground that the occasion for so acting had not arisen or had ceased.
+(1) In the case of the absence from any court of any Youth Court Judge (from whatever cause the absence may arise), or in any case where no District Court Judge has been designated as a Youth Court Judge to exercise jurisdiction in the Youth Court, any District Court Judge may exercise jurisdiction in that court.
+(2) The fact that a District Court Judge exercises jurisdiction in the Youth Court under this section shall be conclusive evidence of the authority of that District Court Judge to do so, and no act done by that District Court Judge while acting as such shall, in any proceedings, be questioned on the ground that the occasion for so acting had not arisen or had ceased.
 
 **Miscellaneous provisions relating to proceedings under this Act**
 
@@ -4781,8 +4784,8 @@ Every District Court shall have a division to be known as a Youth Court.
   (b) any rights of appeal against the order.
 
 ### 437A Publication of reports of proceedings under Part 2, Part 3A, or section 371
-Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under Part 2, Part 3A, or section 371—
-  (a) in a Family Court:
+Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a report of any proceedings under Part 2, Part 3A, or section 371—
+  (a) in the Family Court:
   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
 
 ### 438 Publication of reports of proceedings under Part 4
@@ -4809,7 +4812,7 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
 (1) No conviction or order or direction or other process or proceedings or action taken shall be held invalid by reason only that it related to a person who was not a child or young person if there were, at the time of conviction, order, direction, process, proceedings, or action, reasonable grounds for believing that that person was a child or young person.
 (2) Despite subsection (1), on the application of either party, a rehearing of a charge may be granted under section 177 of the Criminal Procedure Act 2011.
 (3) For the purposes of this section, section 177 of that Act must be treated as applying in relation to all offence categories.
-(4) If the proceedings should have been dealt with in a District Court or the High Court, the proceedings must be remitted to a District Court or the High Court, as the case may require, to be reheard in that court.
+(4) If the proceedings should have been dealt with in the District Court or the High Court, the proceedings must be remitted to the District Court or the High Court, as the case may require, to be reheard in that court.
 
 ### 440 Proceedings not to be questioned for want of form
 No charging document, summons, conviction, order, sentence, bond, warrant, or other document under this Act, and no application, proceedings, or process under this Act, shall be quashed, set aside, or held invalid by any court by reason only of any defect, irregularity, omission or want of form unless the court is satisfied that there has been a miscarriage of justice.
@@ -4831,8 +4834,8 @@ Any warrant issued under any provisions of this Act may be issued or executed at
 No person who furnishes a report to any court for the purposes of any proceedings under this Act or who supplies any information for the purposes of any such report shall be under any civil or criminal liability in respect of the furnishing of that report or the supply of that information unless the report was furnished or the information was supplied in bad faith.
 
 ### 445 Witnesses expenses
-(1) Where any person is required to give evidence before a Family Court or a Youth Court, that person may, if the court so directs, be paid fees, allowances, and expenses, and the provisions of any regulations in that behalf under the Criminal Procedure Act 2011 and for the time being in force shall apply accordingly.
-(2) A Family Court or Youth Court, as the case may be, shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or increase the amounts payable under those regulations.
+(1) Where any person is required to give evidence before the Family Court or the Youth Court, that person may, if the court so directs, be paid fees, allowances, and expenses, and the provisions of any regulations in that behalf under the Criminal Procedure Act 2011 and for the time being in force shall apply accordingly.
+(2) The Family Court or Youth Court, as the case may be, shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or increase the amounts payable under those regulations.
 
 **Search warrants**
 
@@ -4924,17 +4927,17 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (h) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 
 ### 448 Rules of procedure
-(1) The Governor-General may, by Order in Council, make rules regulating the practice and procedure of Youth Courts under this Act.
-(2) Rules may be made regulating the practice and procedure of courts (other than Youth Courts) under this Act,—
-  (a) in the case of the High Court, under section 51C of the Judicature Act 1908:
-  (b) in the case of District Courts, under section 122 of the District Courts Act 1947:
-  (c) in the case of Family Courts, under section 16A of the Family Courts Act 1980.
+(1) The Governor-General may, by Order in Council, make rules regulating the practice and procedure of the Youth Court under this Act.
+(2) Rules may be made regulating the practice and procedure of courts (other than the Youth Court) under this Act,—
+  (a) in the case of the High Court, under section 148 of the Senior Courts Act 2016:
+  (b) in the case of the District Court, under section 228 of the District Court Act 2016:
+  (c) in the case of the Family Court, under section 16A of the Family Court Act 1980.
 
 ### 448A Transitional provisions relating to rules
 (1) Subsections (2) to (4) apply to rules made under section 448 that are in force immediately before the commencement of this section, unless those rules are revoked on or after the commencement of this section.
-(2) Rules to which this subsection applies that regulate the practice or procedure of the Youth Courts continue to regulate the practice or procedure of the Youth Courts as if they had been made under section 448(1).
+(2) Rules to which this subsection applies that regulate the practice or procedure of the Youth Court continue to regulate the practice or procedure of the Youth Court as if they had been made under section 448(1).
 (3) Rules to which this subsection applies that regulate the practice or procedure of the High Court continue to regulate the practice or procedure of the High Court until any rules referred to in section 448(2)﻿(a) come into force.
-(4) Rules to which this subsection applies that regulate the practice or procedure of the District Courts continue to regulate the practice or procedure of the District Courts until any rules referred to in section 448(2)﻿(b) come into force.
+(4) Rules to which this subsection applies that regulate the practice or procedure of the District Court continue to regulate the practice or procedure of the District Court until any rules referred to in section 448(2)﻿(b) come into force.
 
 ## Part 11 — Amendments to other enactments, repeals, savings, and transitional provisions
 
@@ -4976,13 +4979,13 @@ Amendment(s) incorporated in the Act(s).
   (a) enable proceedings to be commenced under the Summary Proceedings Act 1957 or the Criminal Procedure Act 2011 against—
     (i) a child aged 12 or 13 years who is alleged to have committed an offence (other than murder or manslaughter) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years; or
     (ii) a child aged 12 or 13 years who is alleged to have committed an offence (other than murder or manslaughter) for which the maximum penalty available is or includes imprisonment for at least 10 years but less than 14 years and who is a previous offender; and
-  (b) require to be brought before a Youth Court to be dealt with in accordance with this Act, and provide certain protections for, a child of that kind against whom proceedings under the Summary Proceedings Act 1957 or the Criminal Procedure Act 2011 have been commenced for an offence of that kind; and
-  (c) strengthen and expand the orders available to a Youth Court sentencing or otherwise dealing with a child or young person against whom a charge is proved before a Youth Court, including by ensuring that measures for dealing with offending address the causes underlying the offending.
+  (b) require to be brought before the Youth Court to be dealt with in accordance with this Act, and provide certain protections for, a child of that kind against whom proceedings under the Summary Proceedings Act 1957 or the Criminal Procedure Act 2011 have been commenced for an offence of that kind; and
+  (c) strengthen and expand the orders available to the Youth Court sentencing or otherwise dealing with a child or young person against whom a charge is proved before the Youth Court, including by ensuring that measures for dealing with offending address the causes underlying the offending.
 (2) A child aged 12 or 13 years is a previous offender for the purposes of subsection (1)﻿(a)﻿(ii) if, in accordance with section 272(1A) or (1B) (as substituted by section 14(2) of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010), he or she has been—
-  (a) proved before a Family Court to have committed an offence for which the maximum penalty available is or includes imprisonment for life or for at least 10 years; or
+  (a) proved before the Family Court to have committed an offence for which the maximum penalty available is or includes imprisonment for life or for at least 10 years; or
   (b) convicted by the High Court of murder or manslaughter; or
-  (c) convicted by a District Court or the High Court, as a result of an election of jury trial made in a Youth Court, of 1 or more offences (other than murder or manslaughter) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years; or
-  (d) proved before a Youth Court to have committed 1 or more offences (other than murder or manslaughter) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years.
+  (c) convicted by the District Court or the High Court, as a result of an election of jury trial made in the Youth Court, of 1 or more offences (other than murder or manslaughter) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years; or
+  (d) proved before the Youth Court to have committed 1 or more offences (other than murder or manslaughter) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years.
 (3) The amendments made by a provision of that Part apply only—
   (a) in respect of an offence committed or alleged to have been committed after the commencement of that provision; and
   (b) in accordance with subsection (4) in respect of an offence committed or alleged to have been committed before the commencement of that provision.
@@ -5046,16 +5049,16 @@ Sections 311, 314, and 317, as those sections are amended by the Children, Young
 ### 2 Adjournment date of pre-commencement supervision with residence orders
 Section 314 as amended by the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 applies to an order specified in clause (1)﻿(a) as if the adjournment date under section 311(2A)﻿(a) (as in force before that Act's commencement) were the adjournment date under section 311(2A)﻿(a) (as in force after that commencement).
 
-## Schedule 1 — Provisions applied to Youth Courts and to proceedings in such courts
+## Schedule 1 — Provisions applied to Youth Court and to proceedings in Youth Court
 
 ### 1
-The District Courts Act 1947, except that—
-(a) where any provisions of this Act conflict with any of the provisions of the District Courts Act 1947, the provisions of this Act prevail:
-(b) nothing in section 22 of the District Courts Act 1947 applies in respect of Youth Court Judges or the business of Youth Courts.
+The District Court Act 2016, except that—
+(a) where any provisions of this Act conflict with any of the provisions of the District Court Act 2016, the provisions of this Act prevail:
+(b) nothing in section 72 of the District Court Act 2016 applies in respect of Youth Court Judges or the business of the Youth Court.
 
 ### 2
 Section 10, 13, Part 2, subparts 1 to 4 of Part 3, subparts 1 and 3 of Part 4, and subparts 1 and 2 of Part 5 of the Criminal Procedure Act 2011, except that—
-(a) charging documents against children or young persons must continue to be filed in District Courts even though they may be heard and determined in Youth Courts:
+(a) charging documents against children or young persons must continue to be filed in the District Court even though they may be heard and determined in the Youth Court:
 (b) unless a District Court Judge orders otherwise, charges that are within the jurisdiction of the Youth Court must be heard and determined in the Youth Court that is a division of the District Court in which the charging document is filed:
 (c) section 35 of that Act does not apply:
 (d) sections 37(4), 38, and 40 of that Act do not apply:
@@ -5085,7 +5088,7 @@ The Victims' Rights Act 2002, as follows:
   (i) a person who, through or by means of an offence committed by a child or young person, suffers any form of emotional harm; and
   (ii) a parent or guardian of a child or young person who is a victim within the meaning of subparagraph (i), unless that parent or guardian is—
     (A) the child or young person charged with the commission of the offence concerned:
-    (B) the child or young person against whom a charge in respect of the offence has been proved before a Youth Court; and
+    (B) the child or young person against whom a charge in respect of the offence has been proved before the Youth Court; and
   (iii) a person who has experienced domestic violence; and
   (iv) a child or young person residing with a person who falls within subparagraph (iii), not being the child or young person who committed the offence or alleged offence:
 (b) section 10:
@@ -5096,8 +5099,8 @@ The Victims' Rights Act 2002, as follows:
 (e) section 13 (except that despite subsection (3), section 12 overrides section 438 of this Act):
 (f) sections 14 to 16A:
 (g) sections 17AA to 27 if the Youth Court is to make an order under section 283 of this Act (other than where the Court is to discharge an information under section 282 of this Act), so far as they are applicable and with the following modifications:
-  (i) references to an offender are to be read as references to a child or young person against whom a charge in respect of the offence is proved before a Youth Court:
-  (ii) references to a conviction are to be read as references to a finding of a Youth Court that a charge against a young person is proved:
+  (i) references to an offender are to be read as references to a child or young person against whom a charge in respect of the offence is proved before the Youth Court:
+  (ii) references to a conviction are to be read as references to a finding of the Youth Court that a charge against a young person is proved:
   (iii) the reference in section 17(2) to paragraph (a)﻿(iii) of the definition of victim in section 4 is to be read as a reference to paragraph (c) of the definition of victim in section 2B of this Act:
 (h) section 37 if, in addition to the requirements of subsection (1) of that section,—
   (i) the victim is the victim of a specified offence; and
@@ -5107,7 +5110,7 @@ The Victims' Rights Act 2002, as follows:
   (i) the victim is the victim of a specified offence; and
   (ii) the victim has requested the Commissioner of Police to ensure that he or she is given notice under section 38; and
   (iii) the Commissioner of Police has referred that request to the Director-General of Health and provided the Director-General of Health with the victim's address:
-(j) the provisions of Part 4, so far as they are applicable, except that the reference to offender in section 51(1) includes a child or young person against whom a charge in respect of the offence has been proved before a Youth Court.
+(j) the provisions of Part 4, so far as they are applicable, except that the reference to offender in section 51(1) includes a child or young person against whom a charge in respect of the offence has been proved before the Youth Court.
 
 ### 4
 The Criminal Disclosure Act 2008.
