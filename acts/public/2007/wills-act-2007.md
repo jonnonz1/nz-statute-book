@@ -1,5 +1,5 @@
 # Wills Act 2007
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Wills Act 2007.
@@ -84,7 +84,7 @@ For the purposes of this Act, unless the context requires another meaning,—
   (a) is not married, in a civil union, or in a de facto relationship; and
   (b) has never been married, in a civil union, or in a de facto relationship; and
   (c) has not agreed with another person to marry him or her or enter a civil union with him or her; and
-  (d) satisfies a Family Court that he or she understands the effect of—
+  (d) satisfies the Family Court that he or she understands the effect of—
     (i) making, changing, revoking, and reviving a will; or
     (ii) doing whichever of those actions he or she asked the court to approve; and
   (e) has an approval given by the Family Court, with or without conditions, to his or her—
@@ -192,8 +192,8 @@ A valid will, or part of a valid will, may be revoked, but only by one of the fo
     (i) makes clear his or her intention to revive the will or the part; and
     (ii) complies with section 11; or
   (c) the revival is done under section 34(2).
-(2) If a will or part of it is revived under subsection (1)(a), the will or part is treated as having been made on the date on which it complied again with section 11.
-(3) If a will or part of it is revived under subsection (1)(b) or (c), the will or part is treated as having been made on the date on which it was first made.
+(2) If a will or part of it is revived under subsection (1)﻿(a), the will or part is treated as having been made on the date on which it complied again with section 11.
+(3) If a will or part of it is revived under subsection (1)﻿(b) or (c), the will or part is treated as having been made on the date on which it was first made.
 (4) If a will or a part is partly revoked and then wholly revoked and then revived, the revival does not apply to the provisions that were partly revoked.
 (5) Subsection (4) does not apply if the revival makes it clear that the will-maker intended the partly revoked provisions to be revived.
 
@@ -366,7 +366,7 @@ A valid will, or part of a valid will, may be revoked, but only by one of the fo
   (c) the first of them to die (person A) keeps the promise; and
   (d) the second of them to die (person B) does not keep the promise.
 (2) A person who would have received a benefit from person B's will if person B had kept the promise may claim from person B's estate any part of the benefit that person B's estate does not provide.
-(3) The agreements referred to in subsection (1)(a), and the promise referred to in subsection (1)(b), may be made orally, in writing, or electronically.
+(3) The agreements referred to in subsection (1)﻿(a), and the promise referred to in subsection (1)﻿(b), may be made orally, in writing, or electronically.
 
 ### 31 Correction
 (1) This section applies when the High Court is satisfied that a will does not carry out the will-maker's intentions because it—
@@ -383,7 +383,7 @@ A valid will, or part of a valid will, may be revoked, but only by one of the fo
   (e) uncertain in the light of the surrounding circumstances.
 (2) The High Court may use external evidence to interpret the words in the will that make the will or part meaningless, ambiguous, or uncertain.
 (3) External evidence includes evidence of the will-maker's testamentary intentions.
-(4) The court may not use the will-maker's testamentary intentions as surrounding circumstances under subsection (1)(d) or (e).
+(4) The court may not use the will-maker's testamentary intentions as surrounding circumstances under subsection (1)﻿(d) or (e).
 
 ### Subpart 3 — Military or seagoing persons
 
@@ -439,7 +439,7 @@ Informal testamentary actions may be proved by any evidence that the High Court 
   (b) judicial notice must be taken of the appointment and signature of the officer giving it.
 
 ### 38 Modification of provisions in application to wills of military or seagoing persons
-(1) Section 13(1)(a) and (b) do not apply to a valid will or an informal will if the will-maker was a military or seagoing person when he or she made the will.
+(1) Section 13(1)﻿(a) and (b) do not apply to a valid will or an informal will if the will-maker was a military or seagoing person when he or she made the will.
 (2) Section 15(a) and (b) do not apply to a change to a valid will or an informal will if the change is made—
   (a) while the will-maker is a military or seagoing person; and
   (b) by—
@@ -460,31 +460,31 @@ Informal testamentary actions may be proved by any evidence that the High Court 
   (a) section 8(4) does not apply; and
   (b) section 9(2) must be read as if it said of 16 or 17 years, not under 18 years; and
   (c) section 9(3) must be read as if it said of 16 or 17 years, not under 18 years; and
-  (d) section 9(3)(c) does not apply; and
-  (e) section 9(3)(d) must be read as if—
+  (d) section 9(3)﻿(c) does not apply; and
+  (e) section 9(3)﻿(d) must be read as if—
     (i) it said District Court or Public Trust, not Family Court; and
-    (ii) it said making or revoking a will, not—; and
+    (ii) it said making or revoking a will, not—
       (i) making, changing, revoking, and reviving a will; or
       (ii) doing whichever of those actions he or she asked the court to approve
-  (f) section 9(3)(e) must be read as if—
+  (f) section 9(3)﻿(e) must be read as if—
     (i) it said District Court or Public Trust, not Family Court; and
     (ii) it did not contain the words , with or without conditions,; and
-    (iii) it said making or revoking a will, not—; and
+    (iii) it said making or revoking a will, not—
       (i) making, changing, revoking, or reviving a will; or
       (ii) doing whichever of those actions he or she asked the court to approve
   (g) section 9(4) must be read as if it said of 16 or 17 years, not under 18 years; and
   (h) section 10 does not apply; and
   (i)
-  (j) section 13(2)(c) and (d) do not apply; and
+  (j) section 13(2)﻿(c) and (d) do not apply; and
   (k)
   (l)
   (m) section 16(c) must be read as if it did not contain the words or enters a civil union; and
   (n) section 16(g) does not apply; and
   (o) section 18(1), (3), and (4) must be read as if they did not contain the words or enters a civil union, or civil union, and or entering a civil union; and
-  (p) section 18(2)(a) does not apply; and
+  (p) section 18(2)﻿(a) does not apply; and
   (q) section 19 must be read as if—
-    (i) subsection (2)(a), and the references to it in subsection (2)(c) and (d), did not appear; and
-    (ii) the words in relation to the dissolution of a marriage appeared at the end of subsection (2)(b); and
+    (i) subsection (2)﻿(a), and the references to it in subsection (2)﻿(c) and (d), did not appear; and
+    (ii) the words in relation to the dissolution of a marriage appeared at the end of subsection (2)﻿(b); and
     (iii) subsections (3) to (5) did not contain the words or partner and or partner's; and
   (r) sections 24, 25, 28, and 30 do not apply.
 (3) For wills made before 26 April 2005,—
@@ -494,10 +494,10 @@ Informal testamentary actions may be proved by any evidence that the High Court 
   (a) subsections (1) and (4) said 21 years, not 18 years; and
   (b) subsections (2) and (3) did not appear.
 (5) For wills made before 1 January 1959, section 23 must be read as if—
-  (a) subsections (2)(b) and (3) did not appear; and
+  (a) subsections (2)﻿(b) and (3) did not appear; and
   (b) subsection (4) did not contain the words or grandchildren.
 (6) For wills made before 27 October 1955, section 22 does not apply.
-(7) For wills made before 5 December 1944, section 18(2)(b) and (3) do not apply.
+(7) For wills made before 5 December 1944, section 18(2)﻿(b) and (3) do not apply.
 
 ### 40A Application of Wills Amendment Act 2012
 (1) Sections 11 and 40 as amended by the Wills Amendment Act 2012 apply (instead of those sections as in force before they were amended by that Act) in making after the commencement of that Act (in this section called the commencement) a determination whether a document is, or can and is to be declared by order of the High Court to be, a valid will.
