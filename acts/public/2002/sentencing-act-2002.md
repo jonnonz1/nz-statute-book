@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2016-12-22_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -31,7 +31,7 @@ The purposes of this Act are—
   - **detention conditions** means the standard conditions of a sentence of home detention set out in section 80C and any special conditions imposed by the court on an offender under section 80D
   - **detention end date** means the date on which an offender who is subject to a sentence of home detention ceases to be subject to detention conditions
   - **determinate sentence of imprisonment** means a sentence of imprisonment for a fixed term
-  - **District Court** includes a Youth Court
+  - **District Court** includes the Youth Court
   - **epidemic management notice** means a notice under section 8(1) of the Epidemic Preparedness Act 2006 stating that the application of this Act is modified in order to deal with the practical effects of the outbreak of the disease referred to in the notice
   - **forfeiture order** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
   - **health assessor** means a health practitioner who—
@@ -80,7 +80,7 @@ The purposes of this Act are—
   - **short-term sentence** has the same meaning as in section 4(1) of the Parole Act 2002
   - **staff member of a prison** means a staff member within the meaning of section 3(1) of the Corrections Act 2004
   - **tainted property** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
-  - **trial Judge** , in relation to a District Court, means a Judge who holds a warrant under section 5B of the District Courts Act 1947 to conduct jury trials
+  - **trial Judge** , in relation to the District Court, means a Judge who holds a warrant under section 14 of the District Court Act 2016 to conduct jury trials
   - **victim** —
     (a) means—
       (i) a person against whom an offence is committed by another person; and
@@ -399,7 +399,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
 
 ### 24A Adjournment for restorative justice process in certain cases
 (1) This section applies if—
-  (a) an offender appears before a District Court at any time before sentencing; and
+  (a) an offender appears before the District Court at any time before sentencing; and
   (b) the offender has pleaded guilty to the offence; and
   (c) there are 1 or more victims of the offence; and
   (d) no restorative justice process has previously occurred in relation to the offending; and
@@ -1252,13 +1252,13 @@ An offender commits an offence, and is liable on conviction to imprisonment for 
   (a) to the High Court, if the sentence was passed—
     (ia) by the Supreme Court on appeal against a sentence imposed by the High Court, or imposed by the Court of Appeal on appeal from the High Court; or
     (i) by the Court of Appeal on appeal from the High Court; or
-    (ii) by the High Court otherwise than on appeal from a District Court; or
-  (b) to a District Court presided over by a trial Judge, if the sentence was passed—
-    (ia) by the Supreme Court on appeal against a sentence imposed by a District Court presided over by a trial Judge, or imposed by the Court of Appeal on appeal from a District Court presided over by a trial Judge; or
-    (i) by the Court of Appeal on appeal from a District Court presided over by a trial Judge; or
+    (ii) by the High Court otherwise than on appeal from the District Court; or
+  (b) to the District Court presided over by a trial Judge, if the sentence was passed—
+    (ia) by the Supreme Court on appeal against a sentence imposed by the District Court presided over by a trial Judge, or imposed by the Court of Appeal on appeal from the District Court presided over by a trial Judge; or
+    (i) by the Court of Appeal on appeal from the District Court presided over by a trial Judge; or
     (ii) by a District Court Judge on conviction following a jury trial; or
-  (c) to a District Court presided over by a Judge or Community Magistrate if the sentence was imposed by a Community Magistrate; or
-  (d) to a District Court presided over by any Judge, in any other case.
+  (c) to the District Court presided over by a Judge or Community Magistrate if the sentence was imposed by a Community Magistrate; or
+  (d) to the District Court presided over by any Judge, in any other case.
 (2) A copy of the application must, either before or as soon as practicable after the application is lodged in the office of the court, be served—
   (a) on the offender, if the offender is not the applicant; or
   (b) on the chief executive of the Ministry of Justice, if a Registrar is not the applicant under section 38A; or
@@ -1837,7 +1837,7 @@ After considering a progress report, the Judge may order that the offender atten
 If under any enactment an offender is liable to imprisonment for life or for any specified term, the court may, in accordance with this Act, impose imprisonment for the maximum term provided for the particular offence or any lesser term, unless a minimum term of imprisonment is expressly provided for.
 
 ### 81B Procedure if offender convicted in District Court and court believes offender could be sentenced to life imprisonment
-(1) This section applies if a person is convicted by a District Court of an offence with a maximum penalty of life imprisonment, and the court has reason to believe that a sentence of life imprisonment may be appropriate.
+(1) This section applies if a person is convicted by the District Court of an offence with a maximum penalty of life imprisonment, and the court has reason to believe that a sentence of life imprisonment may be appropriate.
 (2) The court must transfer the offender to the High Court for sentence and make an entry in the permanent court record to the effect that the court has declined jurisdiction on the ground that it has reason to believe that the offender should be considered for a sentence of life imprisonment.
 
 ### 82 Pre-sentence detention must not be taken into account in determining length of sentence
@@ -2073,7 +2073,7 @@ A provision contained in sections 86B to 86E that is inconsistent with another p
 (3) For the purposes of Part 6 of the Criminal Procedure Act 2011, an order under subsection (1) is a sentence.
 
 ### 90 Procedure if offender convicted in District Court and court believes offender could be sentenced to preventive detention
-(1) This section applies if a person is convicted by a District Court of a qualifying sexual or violent offence, and the court has reason to believe, from a report of a probation officer or otherwise, that a sentence of preventive detention may be appropriate.
+(1) This section applies if a person is convicted by the District Court of a qualifying sexual or violent offence, and the court has reason to believe, from a report of a probation officer or otherwise, that a sentence of preventive detention may be appropriate.
 (2) The court must transfer the offender to the High Court for sentence and make an entry in the permanent court record to the effect that the court has declined jurisdiction on the ground that it has reason to believe that the offender should be considered for a sentence of preventive detention.
 
 **Warrant of commitment for sentence of imprisonment**
@@ -2084,7 +2084,7 @@ A provision contained in sections 86B to 86E that is inconsistent with another p
 (3) If the offender was not legally represented, the warrant must state the way in which the requirements of that section have been satisfied.
 (4)
 (5)
-(6) If the sentence is imposed by a District Court, any District Court Judge may sign the warrant.
+(6) If the sentence is imposed by the District Court, any District Court Judge may sign the warrant.
 (7) If the sentence is imposed by the High Court, any Judge of that court may sign the warrant.
 (8) If the sentence is imposed by the Court of Appeal, any Judge of that court may sign the warrant.
 (8A) If the sentence is imposed by the Supreme Court, any Judge of that court may sign the warrant.
@@ -2444,7 +2444,7 @@ In this section and sections 123B to 123G, unless the context otherwise requires
   - **child** has the meaning given to it by section 2 of the Domestic Violence Act 1995
   - **domestic relationship** has the meaning given to it by section 4 of the Domestic Violence Act 1995
   - **domestic violence offence** means an offence against any enactment (other than the Domestic Violence Act 1995) involving the use of violence against a person, other than a child, with whom the offender is, or has been, in a domestic relationship
-  - **domestic violence proceedings** means proceedings in a Family Court or a District Court under the Domestic Violence Act 1995 that relate wholly or partly to an application for a protection order
+  - **domestic violence proceedings** means proceedings in the Family Court or the District Court under the Domestic Violence Act 1995 that relate wholly or partly to an application for a protection order
   - **victim of the offence** means the person against whom the offence was committed by the offender
   - **violence** has the meaning given to it by section 3(2), (4), and (5) of the Domestic Violence Act 1995.
 
@@ -2663,7 +2663,7 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
   (a) a ground stated in subsection (1)﻿(a), (d), or (h) applies; or
   (b) another ground stated in that subsection applies to the appellant and to every other person who is treated as a substitute for the offender.
 (6) For the purposes of subsection (1),—
-  (a) if the order was made in a District Court, the appeal must be brought in the High Court in accordance with the High Court Rules 2016:
+  (a) if the order was made in the District Court, the appeal must be brought in the High Court in accordance with the High Court Rules 2016:
   (b) if the order was made in the High Court, the appeal must be brought in the Court of Appeal in accordance with the rules of court governing civil appeals to that court.
 
 ### 129EA Appeal against confiscation by third party
@@ -2675,7 +2675,7 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 (4) The right of appeal under subsection (1) is independent of the offender's right of appeal against conviction and sentence for the relevant offence or offences.
 (5) The court must set aside the confiscation of the motor vehicle if satisfied that the ground of appeal stated in subsection (1) applies.
 (6) For the purposes of subsection (1),—
-  (a) if the order was made in a District Court, the appeal must be brought in the High Court in accordance with the High Court Rules 2016:
+  (a) if the order was made in the District Court, the appeal must be brought in the High Court in accordance with the High Court Rules 2016:
   (b) if the order was made in the High Court, the appeal must be brought in the Court of Appeal in accordance with the rules of court governing civil appeals to that court.
 
 ### 129F Warning notice to secured parties if confiscation not ordered for second illegal street racing offence
@@ -2744,8 +2744,8 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 (2) No person making a confiscation under the authority of section 132 is a trespasser from the beginning because of any irregularity afterwards committed by that person.
 (3) Despite subsections (1) and (2), a person aggrieved by a defect or irregularity referred to in those subsections may recover satisfaction for the special damage by action at law.
 
-### 135 Registrar may direct order to be enforced in another District Court
-(1) Despite anything in section 132, if it appears to the Registrar of a District Court in which an order for the confiscation of any motor vehicle is made that the order may be more effectively enforced in another District Court, the Registrar may so direct.
+### 135 Registrar may direct order to be enforced in another office of District Court
+(1) Despite anything in section 132, if a Registrar considers that an order for the confiscation of a motor vehicle made in one office of the District Court may be more effectively enforced in another office of the District Court, the Registrar may direct that the order be enforced in that other office.
 (2) If the Registrar makes a direction under subsection (1), sections 132 to 134 and sections 137 to 141 apply accordingly.
 
 ### 136 Offender must not acquire new interest in motor vehicle for 12 months
@@ -2825,7 +2825,7 @@ If, under section 129A or 136(4), the court orders a motor vehicle to be confisc
 (1) If notice is given to the Registrar before the proceeds of sale are fully applied under section 137 that the confiscated motor vehicle is subject to a security agreement and the claim is not established to the Registrar's satisfaction, the Registrar must issue a summons calling before the court the party making the claim.
 (2) The following provisions apply to every summons issued under subsection (1) so far as they are applicable and with the necessary modifications:
   (a) the provisions of the High Court Rules 2016 relating to interpleader by an officer executing a writ or other order; or
-  (b) as the case may require, section 94 of the District Courts Act 1947.
+  (b) as the case may require, section 179 of the District Court Act 2016.
 
 ### 140 Lessor may apply to Registrar
 (1) The lessor (not being the offender or a substitute for the offender whose motor vehicle has been confiscated) under a lease of a confiscated motor vehicle (not being a motor vehicle that is to be destroyed under section 129A or 136(4)) may apply to the Registrar, at any time before the Registrar has sold or disposed of the motor vehicle, for the transfer of the motor vehicle to the lessor as if the offender or the substitute had breached the terms of the lease.
@@ -3037,12 +3037,12 @@ Nothing in sections 142A to 142P affects sections 127 to 142.
   (a) to the High Court, if the sentence was passed—
     (ia) by the Supreme Court on appeal against a sentence imposed by the High Court, or imposed by the Court of Appeal on appeal from the High Court; or
     (i) by the Court of Appeal on appeal from the High Court; or
-    (ii) by the High Court otherwise than on appeal from a District Court; or
-  (b) to a District Court presided over by a trial Judge, if the sentence was passed—
-    (ia) by the Supreme Court on appeal against a sentence imposed by a District Court presided over by a trial Judge, or imposed by the Court of Appeal on appeal from a District Court presided over by a trial Judge; or
-    (i) by the Court of Appeal on appeal from a District Court presided over by a trial Judge; or
+    (ii) by the High Court otherwise than on appeal from the District Court; or
+  (b) to the District Court presided over by a trial Judge, if the sentence was passed—
+    (ia) by the Supreme Court on appeal against a sentence imposed by the District Court presided over by a trial Judge, or imposed by the Court of Appeal on appeal from the District Court presided over by a trial Judge; or
+    (i) by the Court of Appeal on appeal from the District Court presided over by a trial Judge; or
     (ii) by a District Court Judge upon conviction following a jury trial; or
-  (c) to a District Court presided over by any Judge, in any other case.
+  (c) to the District Court presided over by any Judge, in any other case.
 (4) The Judge to whom the application is made, after inquiry into the circumstances of the case, may impose in substitution for the original sentence any sentence that could have been imposed on the offender at the time of conviction.
 (5) For the purposes of an appeal or application for leave to appeal against the substituted sentence,—
   (a) the substituted sentence is deemed to be a sentence passed on the conviction of the offender; but
