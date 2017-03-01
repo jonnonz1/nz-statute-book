@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -2396,7 +2396,7 @@ The explanatory note of regulations made under section 207 must indicate that—
   (c) reasonably believes that the person has committed an infringement offence.
 (2) An infringement notice may be cancelled by a food safety officer if—
   (a) the interests of justice require cancellation; and
-  (b) neither the particulars of a reminder notice nor a notice of hearing relating to the infringement notice has been filed in a District Court.
+  (b) neither the particulars of a reminder notice nor a notice of hearing relating to the infringement notice has been filed in the District Court.
 (3) An infringement notice is cancelled by the service of a cancellation notice.
 (4) An infringement notice or a cancellation notice may be served by a food safety officer personally delivering it to the person alleged to have committed the infringement offence. A different food safety officer from the one who issued the notice may deliver the notice and the notice served may be a copy.
 (5) Alternatively, an infringement notice or a cancellation notice may be served by post addressed to,—
@@ -3672,17 +3672,17 @@ A food safety officer may restrict the use of or close, a place for non-complian
 
 ### 317 Application to District Court for return of seized food or food-related accessory
 (1) This section applies when a person claims an interest in food or a food-related accessory that has been seized and detained.
-(2) The person may apply to a District Court for an order described in section 318.
+(2) The person may apply to the District Court for an order described in section 318.
 (3) The application must—
   (a) be made as an originating application; and
   (b) be made within 5 working days of the seizure and detention; and
   (c) be served on the respondent on or before the date on which it is filed in the court; and
   (d) be filed in the office of the court nearest to the place where the food or food-related accessory was seized and detained; and
   (e) be dealt with as an originating application; and
-  (f) be dealt with under the rules of procedure under the District Courts Act 1947, as modified by paragraphs (a) to (e).
+  (f) be dealt with under the rules of procedure under the District Court Act 2016, as modified by paragraphs (a) to (e).
 
 ### 318 District Court may order return of seized food or food-related accessory
-(1) This section applies when a person applies to a District Court under section 317.
+(1) This section applies when a person applies to the District Court under section 317.
 (2) The court may order that—
   (a) the seizure of the food or food-related accessory be disallowed as to all the food or food-related accessory or a part of it and that the food or food-related accessory, or part of it, be returned or made available to the person within the time specified in the order; or
   (b) the detention of the food or food-related accessory be ended as to all the food or food-related accessory or a part of it and that the food or food-related accessory, or part of it, be returned or made available to the person within the time specified in the order.
@@ -3773,7 +3773,7 @@ Section 101 of the Search and Surveillance Act 2012 applies to a copy (whether i
 
 ### 330 Meaning of compliance order
 (1) In sections 331 to 342, compliance order—
-  (a) means an order made by a District Court under this section about anything that, in the court’s opinion, breaches or is likely to breach a requirement of this Act; and
+  (a) means an order made by the District Court under this section about anything that, in the court’s opinion, breaches or is likely to breach a requirement of this Act; and
   (b) to avoid doubt, includes an order that has been confirmed or changed under section 337.
 (2) The order may prohibit a person from starting anything that the person—
   (a) intends to do; or
@@ -3792,12 +3792,12 @@ Section 101 of the Search and Surveillance Act 2012 applies to a copy (whether i
   (b) the costs of actions required to avoid, remedy, or mitigate the adverse effect.
 
 ### 331 Application for compliance order
-(1) The following may apply to a District Court for a compliance order:
+(1) The following may apply to the District Court for a compliance order:
   (a) the chief executive; or
   (b) a territorial authority.
 (2) An application under this section—
   (a) must be made by originating application; and
-  (b) is subject to the District Courts Rules 2009, as modified by—
+  (b) is subject to the District Court Rules 2014, as modified by—
     (i) sections 333 to 336; and
     (ii) rules made under section 342.
 
@@ -3825,7 +3825,7 @@ Section 101 of the Search and Surveillance Act 2012 applies to a copy (whether i
   (b) a date stated in the order is reached.
 
 ### 335 Interim compliance orders
-(1) A District Court may make an interim compliance order without—
+(1) The District Court may make an interim compliance order without—
   (a) requiring service under section 332; or
   (b) holding a hearing.
 (2) The court must consider—
@@ -3853,11 +3853,11 @@ An interim compliance order or a compliance order must state—
   (g) the name and office address of the applicant.
 
 ### 337 Change or cancellation of interim compliance order or compliance order
-(1) A person against whom an interim compliance order has been made without the person having been heard may apply to a District Court to change or cancel the order.
+(1) A person against whom an interim compliance order has been made without the person having been heard may apply to the District Court to change or cancel the order.
 (2) The court—
   (a) must hear from the person and the applicant for the order; and
   (b) may confirm, change, or cancel the interim compliance order.
-(3) A person directly affected by a compliance order may apply to a District Court to change or cancel the order.
+(3) A person directly affected by a compliance order may apply to the District Court to change or cancel the order.
 (4) The applicant under subsection (3) must serve notice of the application—
   (a) within 5 working days after making the application; and
   (b) on the applicant for the original compliance order (that is, either the chief executive or, as the case may be, the territorial authority concerned); and
@@ -3884,18 +3884,18 @@ An interim compliance order or a compliance order must state—
   (b) recover the costs and expenses reasonably incurred in complying with the order as a debt due from the person against whom the order was made.
 
 ### 339 Appeals to High Court
-(1) This section applies to a decision of a District Court under section 334, 335, or 337.
+(1) This section applies to a decision of the District Court under section 334, 335, or 337.
 (2) The following persons may appeal to the High Court against the decision:
   (a) a party to the application on which the decision was made; or
   (b) any other person directly affected by the decision.
-(3) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947 apply to an appeal under subsection (2)—
-  (a) as if it were an appeal under section 72 of the District Courts Act 1947; and
+(3) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016 apply to an appeal under subsection (2)—
+  (a) as if it were an appeal under section 124 of the District Court Act 2016; and
   (b) with all necessary modifications.
 
 ### 340 Appeals to Court of Appeal or Supreme Court
 (1) A party to an appeal under section 339 may appeal to the Court of Appeal or the Supreme Court against any determination of the High Court on a question of law arising in that appeal, with the leave of the court appealed to.
 (2) The Court of Appeal or the Supreme Court hearing an appeal under this section has the same power to adjudicate on the appeal as the High Court had.
-(3) Subsection (1) is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
+(3) Subsection (1) is subject to section 75 of the Senior Courts Act 2016 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
 
 ### 341 Effect of appeal
 (1) The operation of an order that is the subject of an appeal under section 339 or 340 is not suspended by the appeal unless the court appealed to makes an order to that effect under subsection (4).
@@ -3905,9 +3905,9 @@ An interim compliance order or a compliance order must state—
 
 ### 342 Rules of court
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make rules—
-  (a) regulating the practice and procedure of District Courts in proceedings under this Act that relate to orders under sections 334 to 337:
+  (a) regulating the practice and procedure of the District Court in proceedings under this Act that relate to orders under sections 334 to 337:
   (b) providing for matters contemplated by, or necessary for giving full effect to, the provisions of this Act that relate to orders under sections 334 to 337.
-(2) The power in subsection (1) is additional to all other powers conferred on the Governor-General by the District Courts Act 1947.
+(2) The power in subsection (1) is additional to all other powers conferred on the Governor-General by the District Court Act 2016.
 
 ## Part 5 — Miscellaneous provisions
 
@@ -4185,7 +4185,7 @@ Before recommending the making of regulations under section 345, the Minister mu
   (b) the reviewer considers that those costs and expenses have been incurred unnecessarily by—
     (i) bad faith on the part of that party; or
     (ii) allegations or objections by that party that are without substantial merit.
-(2) A party in whose favour a direction under subsection (1) is given may enforce that direction by filing it in the prescribed form (if any) in a District Court.
+(2) A party in whose favour a direction under subsection (1) is given may enforce that direction by filing it in the prescribed form (if any) in the District Court.
 (3) A direction that is filed under subsection (2) is enforceable in the same manner as a final judgment of the District Court in its civil jurisdiction.
 (4) If the reviewer does not give a direction under subsection (1), the parties to the review must bear their own costs and expenses.
 
@@ -4195,30 +4195,30 @@ The chief executive must enter the outcome of each review of a decision describe
 **Appeals against review decisions**
 
 ### 362 Appeal to District Court against review decision
-(1) A person may appeal to a District Court against—
+(1) A person may appeal to the District Court against—
   (a) the outcome of a review of a decision described in section 354(2) or (4):
   (b) a requirement to pay costs and expenses under section 360.
 (2) An appeal under subsection (1) must be brought no later than 28 days after the date on which the appellant was notified under this Act of the review decision.
 (3) In considering an appeal,—
-  (a) a District Court may hear all evidence tendered and representations made by, or on behalf of, any party to the appeal that the Court considers relevant to the appeal, whether or not that evidence would be otherwise admissible in the Court; and
+  (a) the District Court may hear all evidence tendered and representations made by, or on behalf of, any party to the appeal that the Court considers relevant to the appeal, whether or not that evidence would be otherwise admissible in the Court; and
   (b) the Court may—
     (i) confirm, reverse, or modify the decision appealed against, and make the orders and give the directions that may be necessary to give effect to the Court’s decision; or
     (ii) refer the matter back to the reviewer or, as the case may be, the chief executive with a direction to reconsider the whole or any part of the matter.
 
 ### 363 Procedure for appeal
-(1) An appeal under section 362 must, subject to that section, be made and determined in accordance with the District Courts Act 1947 and the District Courts Rules 2009.
+(1) An appeal under section 362 must, subject to that section, be made and determined in accordance with the District Court Act 2016 and the District Court Rules 2014.
 (2) The decision of the District Court on an appeal under section 362 is final unless section 364 or 365 applies.
 
 **Further appeals**
 
 ### 364 Appeal to High Court on question of law
 (1) A party to an appeal under section 362 who is dissatisfied with the decision of the District Court on the ground that it is wrong in law may appeal to the High Court on that question of law.
-(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(2) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
 
 ### 365 Further appeals to Court of Appeal or Supreme Court
 (1) With the leave of the court appealed to, a party to an appeal under section 364 may appeal to the Court of Appeal or the Supreme Court against any determination of the High Court in the appeal.
 (2) On an appeal under this section, the Court of Appeal or the Supreme Court has the same power to adjudicate on the proceedings as the High Court had.
-(3) Subsection (1) is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
+(3) Subsection (1) is subject to section 75 of the Senior Courts Act 2016 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
 
 ### 366 Review decision to continue in force pending appeal
 (1) A review decision continues in force until an appeal under section 362, 364, or 365 in relation to that decision is determined, and no person is excused from complying with a requirement of this Act on the grounds that the appeal is pending.
