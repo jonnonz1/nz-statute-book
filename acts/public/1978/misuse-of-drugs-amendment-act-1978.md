@@ -1,5 +1,5 @@
 # Misuse of Drugs Amendment Act 1978
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2017-03-01_
 
 > An Act to facilitate the detection of certain drug dealing offences, to increase the maximum penalties that may be imposed in respect of such offences, and to amend the Misuse of Drugs Act 1975
 
@@ -42,7 +42,7 @@ This section inserted s 34A of the principal Act.
     (a) Dealing (in any of the ways referred to in section 6(1) of the principal Act) with a substantial amount of a controlled drug in respect of which a prescribed cannabis offence may be committed:
     (b) Cultivation of a prohibited plant (being a prohibited plant in respect of which a prescribed cannabis offence may be committed) on a substantial scale:
   - **Drug dealing offence** means,in relation to a Class A controlled drug or a Class B controlled drug
-    (a) In sections 30, 34, 38 to 41, 43, and 47, any offence against section 12C(1)(a) of the principal Act:
+    (a) In sections 30, 34, 38 to 41, 43, and 47, any offence against section 12C(1)﻿(a) of the principal Act:
     (b) Any offence against section 6 of the principal Act—
   - **Emergency permit** means a permit granted under section 19 of this Act to intercept a private communication by means of an interception device
   - **facility** means an electronic address, phone number, or similar facility that enables private communications to—
@@ -78,7 +78,7 @@ This Part of this Act shall apply notwithstanding anything in the Postal Service
 **Special powers of Police and Customs officers**
 
 ### 12 Allowing delivery of unlawfully imported drugs or precursor substances for purpose of detection, etc
-(1) Where any Customs officer acting in the course of his or her official duties believes on reasonable grounds that there is in or on any craft, package, mail, vehicle, or goods any controlled drug or precursor substance that has been imported into New Zealand in contravention of section 6(1)(a) or section 12AB of the principal Act, he or she may, for the purpose of his or her investigation of the matter, leave or replace that drug or precursor substance, or any portion of it, in or on the craft, package, mail, vehicle, or goods and may, in the same manner as if there had been delivery from Customs control,—as the case may require.
+(1) Where any Customs officer acting in the course of his or her official duties believes on reasonable grounds that there is in or on any craft, package, mail, vehicle, or goods any controlled drug or precursor substance that has been imported into New Zealand in contravention of section 6(1)﻿(a) or section 12AB of the principal Act, he or she may, for the purpose of his or her investigation of the matter, leave or replace that drug or precursor substance, or any portion of it, in or on the craft, package, mail, vehicle, or goods and may, in the same manner as if there had been delivery from Customs control,—as the case may require.
   (a) allow the craft or vehicle to leave; or
   (b) allow the package, goods, or mail to be collected by or delivered to or on behalf of the consignee; or
   (ba) allow the package, goods, or mail to be delivered by a person who has agreed to co-operate with Customs; or
@@ -99,11 +99,11 @@ This Part of this Act shall apply notwithstanding anything in the Postal Service
 (1) In this section, an international controlled delivery means allowing a controlled drug or precursor substance (or substance substituted in the place of a controlled drug or precursor substance) to pass through or into the territory of 1 or more countries—
   (a) with the agreement of the relevant law enforcement agencies of the countries which it is to pass through or into; and
   (b) with a view to identifying persons involved in the commission of an offence—
-    (i) under section 6(1)(a) or section 12AB of the principal Act; or
+    (i) under section 6(1)﻿(a) or section 12AB of the principal Act; or
     (ii) that would, if done or committed in New Zealand, be an offence under either of those sections.
-(2) Nothing in subsection (3) affects the liability of any person charged with an offence under section 6(1)(a) or section 12AB or section 12AC of the principal Act.
-(3) Any member of the police, Customs officer, or officer of a relevant law enforcement agency with which there is an agreement under subsection (1)(a) who is involved in an international controlled delivery—
-  (a) does not commit an offence under section 6(1)(a), 12AB, or 12AC of the principal Act by reason of taking part in that international controlled delivery; and
+(2) Nothing in subsection (3) affects the liability of any person charged with an offence under section 6(1)﻿(a) or section 12AB or section 12AC of the principal Act.
+(3) Any member of the police, Customs officer, or officer of a relevant law enforcement agency with which there is an agreement under subsection (1)﻿(a) who is involved in an international controlled delivery—
+  (a) does not commit an offence under section 6(1)﻿(a), 12AB, or 12AC of the principal Act by reason of taking part in that international controlled delivery; and
   (b) unless he or she is acting in bad faith, is not subject to any criminal or civil liability as a result of taking part in that international controlled delivery.
 
 ### 13 Use of tracking devices by Police and Customs officers
@@ -219,7 +219,7 @@ On causing any person to be detained under section 13A of this Act, a member of 
 (4) A strip search of a person must not be carried out in view of any other person who is detained or being searched.
 
 ### 13EE Reporting search associated with detention warrant
-A member of the police or a Customs officer who undertakes a search under section 13EA must, within 3 working days of the search, give a written report of the search, the circumstances in which it was conducted, and the matters that gave rise to the reasonable cause to suspect required by section 13EA(2)(b) to,—
+A member of the police or a Customs officer who undertakes a search under section 13EA must, within 3 working days of the search, give a written report of the search, the circumstances in which it was conducted, and the matters that gave rise to the reasonable cause to suspect required by section 13EA(2)﻿(b) to,—
   (a) in the case of a member of the police, the Commissioner of Police; and
   (b) in the case of a Customs officer, the chief executive of the New Zealand Customs Service.
 
@@ -418,11 +418,11 @@ In any case where any person is convicted of a drug dealing offence and the Cour
 (1) The power conferred by section 39(1) of this Act shall not be exercised by any Court—
   (a) In respect of any conduct in relation to which the defendant has been charged with a drug dealing offence but acquitted of that charge:
   (b) In respect of any money or assets in relation to which the power has been previously exercised by any Court.
-(2) The powers conferred by sections 38 and 39(1) of this Act shall not be exercised by any District Court so as to impose a fine greater than the maximum prescribed by section 6(3) of the principal Act.
+(2) The powers conferred by sections 38 and 39(1) of this Act shall not be exercised by the District Court so as to impose a fine greater than the maximum prescribed by section 6(3) of the principal Act.
 
 ### 41 Inability of offender to explain source of money or assets may be evidence
 (1) Where, in any case to which section 38 of this Act applies, the offender fails to explain to the Court's satisfaction the source of any money or assets owned by him, the Court may accept that as evidence that the money or assets was or were derived by the offender from the offence.
-(2) Where, on any application for the exercise of the Court's power under section 39 of this Act, the Court is satisfied in accordance with subsection (1)(a) of that section that the offender has committed any previous drug dealing offence, and the offender fails to explain to the Court's satisfaction the source of any money or assets owned by him, the Court may accept that as evidence that the money or assets was or were derived by the offender from that previous drug dealing offence.
+(2) Where, on any application for the exercise of the Court's power under section 39 of this Act, the Court is satisfied in accordance with subsection (1)﻿(a) of that section that the offender has committed any previous drug dealing offence, and the offender fails to explain to the Court's satisfaction the source of any money or assets owned by him, the Court may accept that as evidence that the money or assets was or were derived by the offender from that previous drug dealing offence.
 
 ### 42 Court may treat alienated property as offender's
 Where, in any case to which section 38 or section 39 of this Act applies, it appears to the Court that any disposition of money or assets has been made, whether for value or not, by or on behalf of or by direction of or in the interests of the defendant to defeat the exercise of the Court's power under those sections, the Court may, on the application of the prosecutor or of its own motion, treat the money or assets as belonging to the offender for the purposes of those sections.
@@ -433,14 +433,14 @@ Where, in any case to which section 38 or section 39 of this Act applies, it app
 (1) If the Court sentences an offender on conviction for a drug dealing offence to pay a fine to which section 38 or 39 applies, section 19 of the Crimes Act 1961 or Part 3 of the Summary Proceedings Act 1957 applies (whichever is applicable) to the enforcement of the fine, subject to any necessary modifications.
 (2) The Court or the Registrar may make any orders as are appropriate under any of the provisions specified in subsection (1) in respect of any money or assets that are treated as belonging to the offender under section 42 (which are deemed to be the offender's property for the purposes of this subsection).
 (3) In subsection (2), Registrar—
-  (a) means any Registrar of the High Court or a District Court; and
+  (a) means any Registrar of the High Court or the District Court; and
   (b) includes any Deputy Registrar.
 
 ### 44 Enforcement of fines imposed in District Court
 [Repealed]
 
 ### 45 Fine imposed in District Court may be enforced in High Court
-Where any District Court sentences an offender on conviction of a drug dealing offence to pay a fine and the Registrar of that Court is satisfied that payment of that fine may be more effectively enforced in the High Court, he may file a certificate to that effect under his hand in that Court, containing full particulars of the conviction and the amount of the fine, and thereafter payment of the fine shall be enforced as if the fine had been imposed in the High Court.
+Where the District Court sentences an offender on conviction of a drug dealing offence to pay a fine and the Registrar of that Court is satisfied that payment of that fine may be more effectively enforced in the High Court, he may file a certificate to that effect under his hand in that Court, containing full particulars of the conviction and the amount of the fine, and thereafter payment of the fine shall be enforced as if the fine had been imposed in the High Court.
 
 ### 46 Garnishee proceedings
 [Repealed]
