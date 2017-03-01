@@ -1,5 +1,5 @@
 # Utilities Access Act 2010
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Utilities Access Act 2010.
@@ -50,7 +50,7 @@ This Act binds the Crown.
 (5) This section does not apply if there is no Code.
 
 ### 7 Court may order compliance with Code
-(1) On the application of any utility operator or corridor manager, a District Court may require another utility operator or corridor manager to comply with any of its obligations under section 6.
+(1) On the application of any utility operator or corridor manager, the District Court may require another utility operator or corridor manager to comply with any of its obligations under section 6.
 (2) The order may require the person against whom it is made to comply with it within a specified time.
 (3) In considering an application for an order, the court may take into account the practicality and cost of complying with the Code as compared with the practicality and cost of taking other steps that will, in the particular situation under consideration, achieve substantially the same outcome as compliance with the Code.
 
@@ -83,7 +83,7 @@ The purpose of the Code is to enable access by utility operators to transport co
 (2) The Code may also—
   (a) provide for its provisions to be applied differently in different geographic locations, provided the variations comply with subsection (3); and
   (b) include any other matter that is consistent with the purpose of the Code and not inconsistent with any enactment.
-(3) Variations referred to in subsection (2)(a) may be allowed by the Code only if the variations—
+(3) Variations referred to in subsection (2)﻿(a) may be allowed by the Code only if the variations—
   (a) are generally consistent with paragraphs (a) and (b) of the purpose of the Code set out in section 9; and
   (b) are in response to particular geographic factors that would result in inefficient or uneconomic outcomes if the standard requirements of the Code were adopted; and
   (c) have been sought and agreed to by the corridor managers and utility operators in that region; and
@@ -117,7 +117,7 @@ The purpose of the Code is to enable access by utility operators to transport co
   (b) the Internet site on which the Code is available and where it is or will be available for purchase, at no more than a reasonable cost, in hard copy.
 
 ### 13 When Code takes effect
-(1) The Code takes effect on the date specified in the Gazette notice referred to in section 12(4)(a), which must be a date after the date of the Gazette notice and on or after the date on which the Code is first published under section 14(1)(a).
+(1) The Code takes effect on the date specified in the Gazette notice referred to in section 12(4)﻿(a), which must be a date after the date of the Gazette notice and on or after the date on which the Code is first published under section 14(1)﻿(a).
 (2) The Code ceases to have effect on the date specified by the Minister in a notice of cancellation made under section 17.
 (3) It is not intended that any processes, notices, conditions, or other matters that were previously settled should be affected by the Code taking effect or by any subsequent cancellation or amendment of the Code.
 
@@ -142,8 +142,8 @@ The purpose of the Code is to enable access by utility operators to transport co
 (4) However, in the case of a minor amendment that does not materially affect the Code,—
   (a) section 12(2) does not apply; and
   (b) the proposed amendment need not—
-    (i) include the matters referred to in subsection (3)(c) and (d); or
-    (ii) comply with section 11(2)(b) to (d).
+    (i) include the matters referred to in subsection (3)﻿(c) and (d); or
+    (ii) comply with section 11(2)﻿(b) to (d).
 
 ### 17 Cancellation of Code
 (1) The Minister may cancel the Code if he or she is satisfied that—
