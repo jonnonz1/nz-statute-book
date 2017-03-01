@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2016-04-30_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -254,7 +254,7 @@ Until the end of 30 June 2012, the directors of Watercare Services Limited—
   (b) the act or omission giving rise to the offence was due to an action or event beyond the control of the defendant, and, in each case,—
     (i) the action or event could not reasonably have been foreseen or prevented by the defendant; and
     (ii) the effects of the act or omission of the defendant were adequately remedied or mitigated by the defendant after the offence occurred.
-(4) A District Court may, on the application of Watercare Services Limited, grant an injunction restraining a person from committing a breach of the Auckland Regional Council Trade Waste Bylaw 1991.
+(4) The District Court may, on the application of Watercare Services Limited, grant an injunction restraining a person from committing a breach of the Auckland Regional Council Trade Waste Bylaw 1991.
 (5) An injunction may be granted under subsection (4)—
   (a) despite anything in any other enactment:
   (b) whether or not proceedings in relation to the breach have been commenced:
