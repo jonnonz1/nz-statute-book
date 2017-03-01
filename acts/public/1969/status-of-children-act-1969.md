@@ -1,5 +1,5 @@
 # Status of Children Act 1969
-_Consolidation as at 2013-08-19_
+_Consolidation as at 2017-03-01_
 
 > Title
 
@@ -48,7 +48,7 @@ The purpose of sections 3 and 4 is to remove the legal disabilities of children 
 (2) An applicant for a grant of letters of administration with or without the will annexed in respect of the estate of any deceased person or any part thereof shall be deemed to have made reasonable inquiries as to the existence of any such claimant to an interest in the estate or part if, acting in good faith, he has—
   (a) caused a search to be made of the register of instruments, declarations, and orders maintained by the Registrar-General pursuant to section 9 and ascertained whether or not the existence of any such claimant to such an interest is revealed in the register; and
   (b) looked through any papers of the deceased person that have come to his notice in the course of searching for a testamentary disposition made by the deceased person, or otherwise howsoever, and ascertained whether or not the existence of any such claimant to such an interest is revealed in those papers.
-(3) Where subsection (1)(a) applies, an applicant for a grant of letters of administration in respect of the estate of any deceased person or any part thereof shall file an affidavit saying that he has made reasonable inquiries for the purposes of the Status of Children Act 1969 as to the existence of any such claimant to an interest in the estate or part (with a brief indication of the nature of those inquiries) and (if such is the case) that he does not know of the existence of any such claimant to an interest in the estate or part.
+(3) Where subsection (1)﻿(a) applies, an applicant for a grant of letters of administration in respect of the estate of any deceased person or any part thereof shall file an affidavit saying that he has made reasonable inquiries for the purposes of the Status of Children Act 1969 as to the existence of any such claimant to an interest in the estate or part (with a brief indication of the nature of those inquiries) and (if such is the case) that he does not know of the existence of any such claimant to an interest in the estate or part.
 (4) Where, pursuant to this section, an applicant for letters of administration with or without the will annexed in respect of the estate of any deceased person or any part thereof complies with subsection (1), nothing in the Administration Act 1969 or the Code of Civil Procedure or the practice of the High Court relating to a grant of letters of administration shall be construed as requiring him to do anything further in connection with the application for the purposes of this Act.
 (5) This section shall have no application in relation to any grant of administration to a trustee corporation within the meaning of section 2 of the Administration Act 1969, either alone or jointly with another person; and nothing in the Administration Act 1969, the Code of Civil Procedure, or the practice of the High Court shall require the trustee corporation or any other joint applicant for the grant to make inquiries, before the grant is made, as to the existence of any such claimant.
 (6) In this section applicant includes a person acting on behalf of the applicant, with the applicant's express or implied authority, for the purposes of obtaining the grant.
@@ -64,14 +64,14 @@ The purpose of sections 3 and 4 is to remove the legal disabilities of children 
   (b) caused a search to be made of the register of instruments, declarations, and orders maintained by the Registrar-General pursuant to section 9 and ascertained whether or not the existence of any claimant is revealed in the register; and
   (c) looked through any papers that have come to his notice in the ordinary course of administration of the estate or property and ascertained whether or not the existence of any claimant is revealed in those papers; and
   (d) in the case of the administration of the estate of any deceased person, inquired from the solicitor (if any) last known to him to have acted for the deceased person in his lifetime whether the solicitor knows of the existence of any claimant.
-(2) Compliance with the requirements of section 5A(2)(a) in respect of the estate of any deceased person or any part of such an estate constitutes compliance with the requirements of subsection (1)(b) in respect of the same estate or part thereof unless—
-  (a) compliance with the requirements of subsection (1)(b) is material—
+(2) Compliance with the requirements of section 5A(2)﻿(a) in respect of the estate of any deceased person or any part of such an estate constitutes compliance with the requirements of subsection (1)﻿(b) in respect of the same estate or part thereof unless—
+  (a) compliance with the requirements of subsection (1)﻿(b) is material—
     (i) because a person other than a parent or child could claim; or
     (ii) for any other reason; or
-  (b) a period of 3 years or more has elapsed since the requirements of section 5A(2)(a) were complied with.
-(3) It shall not be necessary for an executor, administrator, or trustee to fulfil the requirements of subsection (1)(c) on more than 1 occasion in respect of the same estate or property:
+  (b) a period of 3 years or more has elapsed since the requirements of section 5A(2)﻿(a) were complied with.
+(3) It shall not be necessary for an executor, administrator, or trustee to fulfil the requirements of subsection (1)﻿(c) on more than 1 occasion in respect of the same estate or property:
   provided that where subsection (3) of section 6 applies, the executor, administrator, or trustee shall, before each distribution subsequent to the first distribution mentioned in that subsection, look through the papers (if any) that have come to his notice in the ordinary course of the administration of the estate or property since the immediately preceding distribution of the estate or property.
-(4) It shall not be necessary for an executor, administrator, or trustee to fulfil the requirements of subsection (1)(d) on more than 1 occasion in respect of the same estate.
+(4) It shall not be necessary for an executor, administrator, or trustee to fulfil the requirements of subsection (1)﻿(d) on more than 1 occasion in respect of the same estate.
 
 ### 6B Protection of executors, administrators, and trustees
 No action shall lie against any executor of the will or administrator or trustee of the estate of any person, or the trustee under any instrument, by any person to enforce any claim arising by reason of the executor or administrator or trustee having made any distribution of the estate or the property held upon trust disregarding the claims of any claimant where at the time of making the distribution the executor, administrator, or trustee had no notice of the relationship on which the claim is based, if he has made reasonable inquiries in accordance with such of the provisions of section 6 and section 6A as are applicable:
@@ -79,8 +79,8 @@ No action shall lie against any executor of the will or administrator or trustee
 
 ### 6C Warning notices
 (1) Where an executor, administrator, or trustee is aware of the existence of any claimant or potential claimant who has not, in the opinion of the executor, administrator, or trustee, been able to establish the relationship of father and child, or any other relationship traced in any degree through that relationship, pursuant to paragraph (a) or paragraph (b) of subsection (1) of section 7 but who may be able to do so pursuant to the provisions of paragraph (c) of subsection (1), he shall serve on that claimant or potential claimant or on any other person on whom notice is required to be served in accordance with section 6D(1), a notice—
-  (a) advising the person served of his or her right to seek to establish the relationship in question by applying to a Family Court or to the High Court under section 10 for a declaration of paternity; and
-  (b) warning the person served that, unless such an application to a Family Court or to the High Court is made within 3 months from the date of the service of the notice and thereafter prosecuted with all due diligence, the estate or the property held in trust may be distributed disregarding the claims of the claimant or potential claimant.
+  (a) advising the person served of his or her right to seek to establish the relationship in question by applying to the Family Court or to the High Court under section 10 for a declaration of paternity; and
+  (b) warning the person served that, unless such an application to the Family Court or to the High Court is made within 3 months from the date of the service of the notice and thereafter prosecuted with all due diligence, the estate or the property held in trust may be distributed disregarding the claims of the claimant or potential claimant.
 (2) Where a person on whom such a notice has been served in accordance with subsection (1) fails to apply as aforesaid for the relevant declaration of paternity, or fails to prosecute with all due diligence an application for such a declaration that is made within the said 3 months, no action shall lie against the executor, administrator, or trustee by reason of his having thereafter made any distribution of the estate or property or any part thereof before it is shown to him that the relevant declaration of paternity has been made.
 
 ### 6D Service of warning notices
@@ -107,7 +107,7 @@ No action shall lie against any executor of the will or administrator or trustee
   (a) it is made in accordance with any trust, power, or authority which is subsisting when the distribution is made and which, irrespective of subsequent events, justifies the distribution at the time when it is made; and
   (b) it is made either—
     (i) without notice of the existence of a person who is entitled by reason only of this Act and the provisions of the enactments governing the distribution of intestate estates or the provisions of the will, deed, or other document governing the distribution of the estate or property; or
-    (ii) after the expiration of any notice under section 6C(1) and without notice of any declaration of paternity made by a Family Court or by the High Court under section 10.
+    (ii) after the expiration of any notice under section 6C(1) and without notice of any declaration of paternity made by the Family Court or by the High Court under section 10.
 (4) No action shall lie against an executor, administrator, or trustee for any decision that he makes in applying the proviso to paragraph (b) of subsection (2) if he establishes that in making that decision he acted honestly.
 
 ### 8 Evidence and proof of paternity
@@ -130,7 +130,7 @@ No action shall lie against any executor of the will or administrator or trustee
     (ii) any such duplicate or copy:
   (d) issue any such person with a certificate setting out the result of a search pursuant to paragraph (a).
 (2A)
-(3) If a Family Court or the High Court makes a declaration under section 10(2) or (3), or a Family Court makes a paternity order under the Family Proceedings Act 1980,—
+(3) If the Family Court or the High Court makes a declaration under section 10(2) or (3), or the Family Court makes a paternity order under the Family Proceedings Act 1980,—
   (a) the Registrar of the court must forward a copy of the declaration or order, as the case may require, to the Registrar-General for filing in his or her office under this section; and
   (b) on receipt of any such copy, the Registrar-General must file it accordingly as if it were an instrument of the kind described in section 8(2).
 (4) For the purposes of this section, Registrar-General has the same meaning as in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
@@ -140,13 +140,13 @@ No action shall lie against any executor of the will or administrator or trustee
   (a) who is a woman and who alleges that a named person is the father of her child; or
   (b) who alleges that the relationship of father and child exists between the person and another named person; or
   (c) who wishes to have it determined whether the relationship of father and child exists between 2 named persons, and has a proper interest in the result.
-(2) A Family Court or the High Court may make a declaration of paternity (whether the alleged father or the alleged child or both of them are living or dead) if—
+(2) The Family Court or the High Court may make a declaration of paternity (whether the alleged father or the alleged child or both of them are living or dead) if—
   (a) an eligible person applies to the court for the declaration; and
   (b) it is proved to the court's satisfaction that the relationship exists.
 (3) A court considering an application under subsection (2) may, either on its own initiative or on an application for the purpose by a party to the proceedings, make a declaration of non-paternity (whether the alleged father or the alleged child or both of them are living or dead) if it is proved to the court's satisfaction that the relationship does not exist.
-(4) If a declaration of paternity under subsection (2) is made after the death of the father or of the child, the court may, at the same or any later time, make a declaration determining, for the purposes of section 7(1)(b), whether any of the requirements of section 7(1)(b) have been satisfied.
+(4) If a declaration of paternity under subsection (2) is made after the death of the father or of the child, the court may, at the same or any later time, make a declaration determining, for the purposes of section 7(1)﻿(b), whether any of the requirements of section 7(1)﻿(b) have been satisfied.
 (5) If an application under subsection (2) is made—
-  (a) to a Family Court, the provisions of the Family Proceedings Act 1980 (except sections 47 to 50) apply to the application as if it were an application for a paternity order under section 47 of that Act:
+  (a) to the Family Court, the provisions of the Family Proceedings Act 1980 (except sections 47 to 50) apply to the application as if it were an application for a paternity order under section 47 of that Act:
   (b) to the High Court, the provisions of the Declaratory Judgments Act 1908 apply to the application.
 (6) Every question of fact that arises in applying any of subsections (2) to (4) must be decided on a balance of probabilities.
 
