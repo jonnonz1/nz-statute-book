@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2016-11-08_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -24,7 +24,7 @@ In this Act, unless the context otherwise requires,—
     (a) holds the office of constable (whether appointed as a constable under the Police Act 1958 or this Act); and
     (b) includes a constable who holds any level of position within the New Zealand Police
   - **court process** means a summons, warrant, order, direction, or other process of a Court or judicial officer, or of a Registrar or Deputy Registrar of a Court
-  - **criminal court process** means a court process issued through a Registrar of the High Court, or the Registrar of a District Court of criminal jurisdiction
+  - **criminal court process** means a court process issued through a Registrar of the High Court, or a Registrar of the District Court in its criminal jurisdiction
   - **Deputy Commissioner** means a Deputy Commissioner of Police holding office under section 13
   - **general instructions** means general instructions issued by the Commissioner under section 28
   - **health practitioner** means a person who is or is deemed to be registered with an authority as a practitioner of a particular health profession under the Health Practitioners Competence Assurance Act 2003
@@ -318,13 +318,13 @@ The explanatory note of an Order in Council made under section 27(1) must indica
 (3) In this section and section 34A,—
   - **criminal prosecution proceedings** against a person in respect of the offence for which particulars were taken, means proceedings—
     (a) commenced against the person in respect of that offence or offences including that offence under the Criminal Procedure Act 2011 (alone or, if the person is a child or a young person as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989, in conjunction with that Act); and
-    (b) some or all of which (for example, any pre-trial proceedings) are heard or determined, at first instance, in a District Court, the High Court, a Youth Court, or a combination of those courts
+    (b) some or all of which (for example, any pre-trial proceedings) are heard or determined, at first instance, in the District Court, the High Court, or the Youth Court, or a combination of those courts
   - **the offence for which the particulars were taken** includes (without limitation) an offence that arose from the same event or series of events as, and that replaces, that offence.
 
 ### 34A Outcomes authorising continued storage of certain particulars
 The outcomes mentioned in section 34(2)﻿(b) are as follows:
   (a) the person admits to, and completes a programme of diversion (being a programme conducted by the Police) for, the offence for which the particulars were taken:
-  (b) the person is convicted of the offence for which the particulars were taken (for example, by virtue of a District Court or the High Court entering a conviction, or a Youth Court entering a conviction and making an order under section 283(o) of the Children, Young Persons, and Their Families Act 1989):
+  (b) the person is convicted of the offence for which the particulars were taken (for example, by virtue of the District Court or the High Court entering a conviction, or the Youth Court entering a conviction and making an order under section 283(o) of the Children, Young Persons, and Their Families Act 1989):
   (c) the Youth Court makes an order under any of paragraphs (a) to (n) of section 283 of the Children, Young Persons, and Their Families Act 1989 in respect of the person and the offence for which the particulars were taken:
   (d) the person is discharged under section 106 of the Sentencing Act 2002 in respect of the offence for which the particulars were taken.
 
@@ -385,7 +385,7 @@ The outcomes mentioned in section 34(2)﻿(b) are as follows:
 (2) If this section applies to property, a District Court Judge, on the application of any Police employee, or of a claimant to it,—
   (a) may make an order for its delivery to any person appearing to the District Court Judge to be its owner, or entitled to its possession; or
   (b) if the owner or person entitled to possession cannot be found, may make any order with respect to its possession the Judge thinks fit.
-(3) An application under this section must be made by originating application to a District Court in its civil jurisdiction.
+(3) An application under this section must be made by originating application to the District Court in its civil jurisdiction.
 (4) If, after the making of an order under subsection (2) in relation to any property, an action is commenced against a Police employee or the Crown for the recovery of the property or its value, evidence of the order, and the delivery of the property in accordance with the order,—
   (a) may be given and must be received by the court concerned; and
   (b) if given, is a complete defence to the action.
@@ -432,7 +432,7 @@ The outcomes mentioned in section 34(2)﻿(b) are as follows:
 
 ### 45 Police employee may appear in Court by another employee
 A Police employee who is to appear (otherwise than as a witness) in the execution of his or her duty may appear by another Police employee in any proceedings—
-  (a) in a District Court; or
+  (a) in the District Court; or
   (b) before the Alcohol Regulatory and Licensing Authority, a licensing committee, or any other Commission, Inquiry, Board, or Tribunal.
 
 ### 46 Police dogs may accompany Police dog handlers
