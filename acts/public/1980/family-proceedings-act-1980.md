@@ -1,5 +1,5 @@
 # Family Proceedings Act 1980
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > An Act to revise the law relating to matrimonial and domestic proceedings
 
@@ -46,8 +46,8 @@ In this Act, unless the context otherwise requires,—
       (i) a benefit granted under section 27B or section 27C of the Social Security Act 1964; or
       (ii) a benefit which is granted under section 61 of the Social Security Act 1964 and which corresponds to a benefit granted under section 27B or section 27C of that Act; and
     (b) includes a benefit described in paragraph (a)﻿(i) or (ii) as increased by a child supplement under section 61A of the Social Security Act 1964
-  - **Family Court** means the division of a District Court known, in accordance with section 4 of the Family Courts Act 1980, as a Family Court
-  - **Family Court Judge** means a Family Court Judge appointed under section 5 of the Family Courts Act 1980; and includes the Principal Family Court Judge
+  - **Family Court** means the division of the District Court known, in accordance with section 4 of the Family Court Act 1980, as the Family Court
+  - **Family Court Judge** means a Family Court Judge appointed under section 5 of the Family Court Act 1980; and includes the Principal Family Court Judge
   - **interim order** , in relation to maintenance, means an order made under section 82
   - **maintenance** means the provision of money, property, and services; and includes—
     (a) in respect of a child, provision for the child's education and training to the extent of the child's ability and talents; and
@@ -88,7 +88,7 @@ Subject to sections 117 and 120, this Act shall bind the Crown.
 ## Part 1 — Administration
 
 ### 4 Jurisdiction of courts
-Subject to sections 27, 29, 32, 37, and 48, the High Court, District Courts, and Family Courts shall have jurisdiction in proceedings under this Act, only—
+Subject to sections 27, 29, 32, 37, and 48, the High Court, the District Court, and the Family Court shall have jurisdiction in proceedings under this Act, only—
   (a) where at the commencement of the proceedings, any party to the proceedings resides or is domiciled in New Zealand:
   (b) in the case of proceedings relating to a child, where at the commencement of the proceedings—
     (i) any party to the proceedings resides or is domiciled in New Zealand; or
@@ -163,10 +163,10 @@ Subject to sections 27, 29, 32, 37, and 48, the High Court, District Courts, and
 Either party to a marriage or civil union may apply for a separation order.
 
 ### 21 Power of Family Court to make separation order
-Every application for a separation order shall be heard and determined in a Family Court.
+Every application for a separation order shall be heard and determined in the Family Court.
 
 ### 22 Grounds for separation order
-In proceedings for a separation order, a Family Court shall make the order if it is satisfied that there is a state of disharmony between the parties to the marriage or civil union of such a nature that it is unreasonable to require the parties to continue, or, as the case may be, to resume, cohabitation with each other.
+In proceedings for a separation order, the Family Court shall make the order if it is satisfied that there is a state of disharmony between the parties to the marriage or civil union of such a nature that it is unreasonable to require the parties to continue, or, as the case may be, to resume, cohabitation with each other.
 
 ### 23 Effect of separation order
 So long as a separation order remains in force, neither party to the marriage or civil union shall be under an obligation to cohabit with the other party, but, except as provided by this Act or any other enactment, the order shall not otherwise affect the marriage or civil union or the status, rights, and obligations of the parties to the marriage or civil union.
@@ -175,10 +175,10 @@ So long as a separation order remains in force, neither party to the marriage or
 (1) Subject to section 40, a separation order shall cease to have any force or effect if—
   (a) the married couple, or the civil union partners, with the free consent of both parties, have resumed cohabitation as a married couple or as civil union partners; or
   (b) the order is discharged by the court under section 25.
-(2) Without limiting the provisions of paragraph (a) of subsection (1), either spouse, or either civil union partner, may apply to a Family Court for the discharge of the separation order on the ground that it has ceased to have effect under that paragraph, and, on proof that the order has ceased to have effect as aforesaid, the court shall discharge the order.
+(2) Without limiting the provisions of paragraph (a) of subsection (1), either spouse, or either civil union partner, may apply to the Family Court for the discharge of the separation order on the ground that it has ceased to have effect under that paragraph, and, on proof that the order has ceased to have effect as aforesaid, the court shall discharge the order.
 
 ### 25 Discharge of separation order by court
-(1) Subject to subsection (2), a Family Court may, on the application of either party, discharge any separation order if the court is satisfied that the circumstances have so changed since the making of the order that it is reasonable that the order should be discharged.
+(1) Subject to subsection (2), the Family Court may, on the application of either party, discharge any separation order if the court is satisfied that the circumstances have so changed since the making of the order that it is reasonable that the order should be discharged.
 (2) The court shall not discharge the order if an application for dissolution of marriage or dissolution of civil union has been filed by either party, and is pending.
 
 ### 26 Effect of separation order on property rights
@@ -198,8 +198,8 @@ So long as a separation order remains in force, neither party to the marriage or
 (2) An application under this section may be made whether or not any other relief is claimed under this Act.
 
 ### 28 Power of Family Court to make declaration as to validity of marriage or civil union
-(1) Subject to subsection (2), every application under section 27 shall be heard and determined in a Family Court.
-(2) The jurisdiction to make a declaration on an application under section 27 is discretionary, and a Family Court may, on any grounds which it considers sufficient, refuse to make such a declaration.
+(1) Subject to subsection (2), every application under section 27 shall be heard and determined in the Family Court.
+(2) The jurisdiction to make a declaration on an application under section 27 is discretionary, and the Family Court may, on any grounds which it considers sufficient, refuse to make such a declaration.
 (3) Section 4 of the Declaratory Judgments Act 1908 shall apply, with the necessary modifications, to every declaration made on an application under section 27.
 
 **Void marriages and civil unions**
@@ -210,7 +210,7 @@ An application for an order declaring a marriage or civil union to be void ab in
   (b) where the marriage or civil union was solemnised in New Zealand.
 
 ### 30 Power of Family Court to make order declaring marriage or civil union void
-Every application under section 29 shall be heard and determined in a Family Court.
+Every application under section 29 shall be heard and determined in the Family Court.
 
 ### 31 Grounds on which marriage or civil union void
 (1) A marriage or civil union that is governed by New Zealand law shall be void ab initio (whether or not an order has been made declaring the marriage or civil union to be void) only where,—
@@ -221,7 +221,7 @@ Every application under section 29 shall be heard and determined in a Family Cou
     (iv) the parties to the civil union are within the prohibited degrees of civil union set out in Schedule 2 of the Civil Union Act 2004, and no order is in force under section 10 of that Act dispensing with the prohibition; or
   (b) in the case of a marriage or civil union that is governed by New Zealand law so far as it relates to the formalities of marriage or civil union, the parties knowingly and wilfully married without a marriage or civil union licence, or in the absence of a marriage or civil union celebrant or Registrar of Marriages, in contravention of the Marriage Act 1955; or
   (c) in the case of a civil union that is governed by New Zealand law so far as it relates to the formalities of civil union, the parties knowingly and wilfully entered into a civil union without a licence, or in the absence of a Registrar (as defined in section 3 of the Civil Union Act 2004) or civil union celebrant, or otherwise than in accordance with the rules and procedures of an exempt body (as also defined in section 3 of that Act).
-(2) Nothing in subsection (1) shall affect the law as to the validity in New Zealand of a marriage or civil union that is not governed by the law of New Zealand, or the jurisdiction of a Family Court to make an order declaring any such marriage or civil union to be void ab initio.
+(2) Nothing in subsection (1) shall affect the law as to the validity in New Zealand of a marriage or civil union that is not governed by the law of New Zealand, or the jurisdiction of the Family Court to make an order declaring any such marriage or civil union to be void ab initio.
 
 **Presumption of death**
 
@@ -229,10 +229,10 @@ Every application under section 29 shall be heard and determined in a Family Cou
 Any married person, or party to a civil union, who is domiciled in New Zealand may apply for an order declaring that the other party to the marriage or civil union is presumed to be dead and that the marriage or civil union is dissolved.
 
 ### 33 Power of Family Court to make declaration of presumption of death
-Every application under section 32 shall be heard and determined in a Family Court.
+Every application under section 32 shall be heard and determined in the Family Court.
 
 ### 34 Grounds for making declaration of presumption of death
-In proceedings on an application under section 32, a Family Court, on being satisfied that reasonable grounds exist for presuming that the party to the marriage or civil union in respect of whom the application has been made is dead, may make an order declaring that that party is presumed to be dead and that the marriage or civil union is dissolved.
+In proceedings on an application under section 32, the Family Court, on being satisfied that reasonable grounds exist for presuming that the party to the marriage or civil union in respect of whom the application has been made is dead, may make an order declaring that that party is presumed to be dead and that the marriage or civil union is dissolved.
 
 ### 35 Evidence of death
 In proceedings on an application under section 32, the fact that for a period of not less than 7 years the party to the marriage or civil union in respect of whom the application has been made has been continuously absent from the applicant, and that nothing has happened within that time to give the applicant reason to believe that the other party was then living, shall be evidence that the other party is dead in the absence of proof to the contrary.
@@ -250,7 +250,7 @@ The rules of law relating to an application for an order dissolving a marriage o
 (3) For the purposes of sections 38(2), 42, and 174(3), proceedings for an order dissolving a marriage or civil union that are commenced by a joint application shall be treated as undefended proceedings.
 
 ### 38 Power to make order for dissolution
-(1) Subject to subsection (2), every application for an order dissolving a marriage or civil union shall be heard and determined by a Family Court.
+(1) Subject to subsection (2), every application for an order dissolving a marriage or civil union shall be heard and determined by the Family Court.
 (2) A Registrar may make an order dissolving a marriage or civil union where—
   (a) the proceedings are undefended; and
   (b) in the case of a joint application, both applicants consent to the order being made in their absence; and
@@ -311,12 +311,12 @@ For the purposes of section 39, there shall be no presumption that the parties t
 **Welfare of children**
 
 ### 45 Arrangements for welfare of children on dissolution
-(1) A Family Court shall not make an order dissolving a marriage or civil union unless it is satisfied that—
+(1) The Family Court shall not make an order dissolving a marriage or civil union unless it is satisfied that—
   (a) arrangements have been made for the day-to-day care, maintenance, and other aspects of the welfare of every child of the marriage or civil union who is under the age of 16 years (or, in special circumstances, of or over that age) and those arrangements are satisfactory or are the best that can be devised in the circumstances; or
   (b) it is impracticable for the party or parties appearing before the court to make any such arrangement; or
   (c) there are special circumstances justifying the making of an order dissolving the marriage or civil union, notwithstanding that the court is not satisfied that any such arrangements have been made.
 (1A) A Registrar shall not make an order dissolving a marriage or civil union unless he or she is satisfied that arrangements have been made for the day-to-day care, maintenance, and other aspects of the welfare of every child of the marriage or civil union who is under the age of 16 years (or, in special circumstances, of or over that age) and those arrangements are satisfactory or are the best that can be devised in the circumstances.
-(2) A Family Court shall not make an order dissolving a marriage or civil union, in reliance on any special circumstances referred to in subsection (1)﻿(c), unless it has obtained a satisfactory undertaking from either or both of the parties to the proceedings to bring before the court within a specified time the question of the arrangements for every child of the marriage or civil union.
+(2) The Family Court shall not make an order dissolving a marriage or civil union, in reliance on any special circumstances referred to in subsection (1)﻿(c), unless it has obtained a satisfactory undertaking from either or both of the parties to the proceedings to bring before the court within a specified time the question of the arrangements for every child of the marriage or civil union.
 (3) No order dissolving a marriage or civil union shall be invalid solely on the ground that—
   (a) any provision of subsections (1), (1A), and (2) has not been complied with; or
   (b) any information that is relevant for the purposes of those subsections has not been supplied to the court; or
@@ -366,7 +366,7 @@ An application for a paternity order in respect of a child (whether it is born, 
 (3) For the purposes of computing any period specified in this section, no account shall be taken of any period during which the respondent is absent from New Zealand.
 
 ### 50 Power of Family Court to make paternity orders
-(1) Every application for a paternity order in respect of a child shall be heard and determined in a Family Court.
+(1) Every application for a paternity order in respect of a child shall be heard and determined in the Family Court.
 (2) Nothing in subsection (1) or in sections 47, 48, 49, 51, or 52 shall limit the jurisdiction of the High Court to determine the paternity of a child under any other enactment or rule of law.
 
 ### 51 Paternity orders
@@ -526,10 +526,10 @@ Without limiting or affecting the law relating to any other benefit, the liabili
 Either party to a marriage or civil union may make an application for a maintenance order against the other party to the marriage or civil union on the ground that the respondent is liable to maintain the applicant.
 
 ### 68 Power of Family Court to make maintenance order in favour of either spouse or civil union partner
-Every application under section 67 shall be heard and determined in a Family Court.
+Every application under section 67 shall be heard and determined in the Family Court.
 
 ### 69 Maintenance order in favour of either spouse or civil union partner
-(1) On hearing an application under section 67 a Family Court may, subject to section 61, make any 1 or more of the following orders:
+(1) On hearing an application under section 67 the Family Court may, subject to section 61, make any 1 or more of the following orders:
   (a) an order directing the respondent to pay, for such period as the court thinks fit (but not exceeding the joint lives of the parties), such periodical sum towards the future maintenance of the applicant as the court thinks fit:
   (b) an order directing the respondent to pay such lump sum towards the future maintenance of the applicant as the court thinks fit:
   (c) an order directing the respondent to pay such lump sum towards the past maintenance of the applicant as the court thinks fit.
@@ -540,7 +540,7 @@ Every application under section 67 shall be heard and determined in a Family Cou
 (3) Subject to any agreement by the parties to the contrary, an order made under subsection (1)﻿(a) or (b), and every order made under section 99 varying or extending such an order, shall cease to have effect if the party in whose favour it is made marries or enters into a civil union.
 
 ### 70 Order for maintenance after marriage or civil union dissolved or de facto relationship ends
-(1) A Family Court may make an order under subsection (2)—
+(1) The Family Court may make an order under subsection (2)—
   (a) on or at any time after the making of an order dissolving a marriage or civil union:
   (b) at any time after a de facto relationship ends.
 (2) The court may do the following under this section:
@@ -573,9 +573,9 @@ Every application under section 67 shall be heard and determined in a Family Cou
 
 ### 71 Time limit for applying for order against estate of deceased party
 (1) No order under section 70 shall be sought against the personal representative of a person after the expiration of 12 months from the date of the grant in New Zealand of administration of the deceased person's estate.
-(2) Subject to subsection (3), a Family Court may extend for any further period the time limit specified in subsection (1), after hearing such of the persons affected as it thinks necessary, whether or not the time limit has already expired.
+(2) Subject to subsection (3), the Family Court may extend for any further period the time limit specified in subsection (1), after hearing such of the persons affected as it thinks necessary, whether or not the time limit has already expired.
 (3) No extension shall be granted under subsection (2) unless the application for an extension is made before the final distribution of the estate.
-(4) Where the estate has been distributed before the personal representative receives notice that any application has been made to a Family Court for an extension under subsection (2) and after every notice (if any) of an intention to make an application has lapsed in accordance with section 48(1) of the Administration Act 1969—
+(4) Where the estate has been distributed before the personal representative receives notice that any application has been made to the Family Court for an extension under subsection (2) and after every notice (if any) of an intention to make an application has lapsed in accordance with section 48(1) of the Administration Act 1969—
   (a) the distribution shall not be disturbed by reason of the making of the application or any order in respect of the application; and
   (b) no action shall lie against the personal representative for having made the distribution.
 
@@ -602,8 +602,8 @@ Every application under section 67 shall be heard and determined in a Family Cou
 **Other orders related to maintenance of children**
 
 ### 78 Related orders
-(1) On or at any time after making a paternity order in respect of a child that has already been born, a Family Court may, if the child is dead, order the respondent to pay such sum as the court specifies, in such manner as the court specifies, in respect of the funeral expenses of the child.
-(2) Subject to subsection (4) a Family Court may, on or at any time after making a paternity order in respect of a child, make an order for the payment to the mother of such sum as the court specifies, in such manner as the court specifies, in respect of expenses reasonably incurred by her by reason of the pregnancy and the birth of the child and towards her support during the pregnancy and for such period after the pregnancy (not exceeding 1 month) as the court specifies.
+(1) On or at any time after making a paternity order in respect of a child that has already been born, the Family Court may, if the child is dead, order the respondent to pay such sum as the court specifies, in such manner as the court specifies, in respect of the funeral expenses of the child.
+(2) Subject to subsection (4) the Family Court may, on or at any time after making a paternity order in respect of a child, make an order for the payment to the mother of such sum as the court specifies, in such manner as the court specifies, in respect of expenses reasonably incurred by her by reason of the pregnancy and the birth of the child and towards her support during the pregnancy and for such period after the pregnancy (not exceeding 1 month) as the court specifies.
 (3) An order may be made under subsection (2)—
   (a) instead of or in addition to any maintenance order in respect of the child made pursuant to an application under section 74; and
   (b) whether or not the child has already been born; and
@@ -611,10 +611,10 @@ Every application under section 67 shall be heard and determined in a Family Cou
 (4) No application may be made under subsection (2) after the expiration of 12 months—
   (a) from the birth of the child; or
   (b) where the mother has miscarried, from the date of the miscarriage.
-(5) Notwithstanding that a paternity order has not been made by a Family Court in respect of a child, an application for any order under subsection (1) or subsection (2) may be made by the mother of that child against a male person who—
+(5) Notwithstanding that a paternity order has not been made by the Family Court in respect of a child, an application for any order under subsection (1) or subsection (2) may be made by the mother of that child against a male person who—
   (a) is not married to, or in a civil union with, the mother; and
   (b) has never been married to, or in a civil union with, the mother or (if he has been married to, or in a civil union with, the mother) whose marriage or civil union was dissolved before the conception of the child.
-(6) On hearing an application under subsection (5), a Family Court may, where it is satisfied that the respondent is a person to whom any of paragraphs (a), (d), (e), or (i) of section 7(1) of the Child Support Act 1991 applies, make any order specified under subsection (1) or subsection (2) of this section against the respondent.
+(6) On hearing an application under subsection (5), the Family Court may, where it is satisfied that the respondent is a person to whom any of paragraphs (a), (d), (e), or (i) of section 7(1) of the Child Support Act 1991 applies, make any order specified under subsection (1) or subsection (2) of this section against the respondent.
 
 ### 79 Application for maintenance order against natural parent
 Where—the natural parent who has or has had the role of providing day-to-day care of the child may apply for a maintenance order in favour of that natural parent against the other natural parent.
@@ -623,7 +623,7 @@ Where—the natural parent who has or has had the role of providing day-to-day c
   (c) either natural parent has or has had the role of providing day-to-day care for the child,—
 
 ### 80 Power of Family Court to make maintenance orders against natural parent
-Every application under section 79 shall be heard and determined in a Family Court.
+Every application under section 79 shall be heard and determined in the Family Court.
 
 ### 81 Maintenance order against natural parent
 (1) On hearing an application under section 79, the court may, if it is satisfied that—make an order directing the respondent to pay to the applicant, for such period as the court thinks fit, such periodical or lump sum towards the future maintenance of the applicant as the court thinks fit, or such lump sum towards the past maintenance of the applicant as the court thinks fit.
@@ -643,7 +643,7 @@ Every application under section 79 shall be heard and determined in a Family Cou
 (2)
 (3)
 (4) No order made under this section shall continue in force for more than 6 months after the date on which it is made.
-(5) An order made under this section may be varied, suspended, discharged, or enforced in the same manner as if it were a final order of a Family Court.
+(5) An order made under this section may be varied, suspended, discharged, or enforced in the same manner as if it were a final order of the Family Court.
 
 **Registration of maintenance agreements**
 
@@ -720,7 +720,7 @@ Where a maintenance order is made by a court for the payment of a periodical sum
 Where any person by whom maintenance is payable under 2 or more maintenance orders makes any payment of part only of the total amount for the time being payable under those orders, the amount of the payment shall be deemed to have been apportioned in the proportions that the amounts payable under the several orders bear to the total amount payable under all of those orders.
 
 ### 99 Discharge, variation, and suspension of maintenance orders
-(1) Where a Family Court or a District Court is satisfied that it ought to do so having regard to the principles of maintenance set out in sections 62 to 66 and in section 81, the court may from time to time, in respect of any maintenance order, make any of the following orders:
+(1) Where the Family Court or the District Court is satisfied that it ought to do so having regard to the principles of maintenance set out in sections 62 to 66 and in section 81, the court may from time to time, in respect of any maintenance order, make any of the following orders:
   (a) an order discharging the maintenance order:
   (b) an order varying or suspending the maintenance order:
   (c) an order temporarily suspending the maintenance order, as to the whole or any part of the money ordered to be paid:
@@ -880,12 +880,12 @@ Without limiting section 101 or section 110 (as saved by section 259(1) of the C
 (2) The Minister of the Crown who is responsible for the Ministry of Justice may, in any notice published under subsection (1) specifying any country as a designated country, provide that in their application to that country the provisions of this Act relating to Commonwealth and designated countries shall apply with such modifications as may be specified in the notice.
 
 ### 136 Registration of orders made in Commonwealth or designated countries
-Where—the order may be registered in New Zealand by filing a certified copy in the office of a District Court in New Zealand in the prescribed manner.
+Where—the order may be registered in New Zealand by filing a certified copy in the District Court in New Zealand in the prescribed manner.
   (a) a maintenance order has been made against any person by any court in a Commonwealth or designated country; or
   (b) a maintenance order made provisionally only against any person by any such court has been confirmed in a Commonwealth or designated country—
 
 ### 137 Setting aside of registration of order
-Where an order is registered in a District Court in New Zealand under section 136,—the court may set aside the registration of the order.
+Where an order is registered in the District Court in New Zealand under section 136,—the court may set aside the registration of the order.
   (a) if in any case the court is satisfied, on the application of the person against whom the order applies, that the order is not an order to which that section applies, the court shall set aside the registration of the order; or
   (b) if in the case of an order that is made in or consequent on an affiliation order the court, on the application of the person against whom the order applies, is satisfied—
     (i) that that person did not appear in the proceedings in which the affiliation order was made; and
@@ -895,7 +895,7 @@ Where an order is registered in a District Court in New Zealand under section 13
 (1) This section shall apply—in any case where the maintenance order or the order varying the maintenance order, as the case may be, has been made provisionally only by a court in a Commonwealth or designated country and has no effect unless and until confirmed elsewhere.
   (a) to a maintenance order; and
   (b) to an order varying a maintenance order where that maintenance order has been either registered or confirmed in New Zealand—
-(2) Where a certified copy of an order to which this section applies, together with the depositions of witnesses and a statement of the grounds on which the order might have been opposed, has been transmitted to the Secretary, he shall cause those documents to be sent to a District Court for the hearing of proceedings for confirmation of the order.
+(2) Where a certified copy of an order to which this section applies, together with the depositions of witnesses and a statement of the grounds on which the order might have been opposed, has been transmitted to the Secretary, he shall cause those documents to be sent to the District Court for the hearing of proceedings for confirmation of the order.
 (3) On receipt of those documents by the court—
   (a) any District Court Judge or Justice or Community Magistrate or any Registrar (not being a constable) may issue a summons to the respondent:
   (b) any District Court Judge or Registrar may issue a warrant to arrest the respondent and bring the respondent before the court in any case where the respondent's address is unknown or where a summons has been issued but cannot be served because the respondent cannot be found.
@@ -914,7 +914,7 @@ Where an order is registered in a District Court in New Zealand under section 13
   (a) has been made provisionally only by a court in a Commonwealth or designated country; and
   (b) has no effect unless and until confirmed in New Zealand; and
   (c) cancels, varies, or suspends a maintenance order that is made in New Zealand and is registered or confirmed in that Commonwealth or designated country.
-(2) Where a certified copy of any order to which this section applies, together with the depositions of witnesses, has been transmitted to the Secretary, he shall cause those documents to be sent to a District Court in New Zealand for the hearing of proceedings for confirmation of the order.
+(2) Where a certified copy of any order to which this section applies, together with the depositions of witnesses, has been transmitted to the Secretary, he shall cause those documents to be sent to the District Court in New Zealand for the hearing of proceedings for confirmation of the order.
 (3) On receipt of those documents by a court, summonses shall be issued to such persons as the District Court Judge directs.
 (4) Where any persons summoned under subsection (3) appear at the hearing and it appears to the court to be necessary to remit the case to the court which made the provisional order for the taking of any further evidence, the court of hearing may so remit the case, and may adjourn the proceedings for the purpose.
 (5) Subject to subsection (6), if at the hearing (whether following an adjournment or otherwise) none of the persons summoned under subsection (3) appears, or if those who do appear fail to satisfy the court that the order ought not to be confirmed, the court may confirm the order either without modification or with such modifications as it thinks just.
@@ -939,7 +939,7 @@ Sections 173 and 174 shall apply to the confirmation of an order or the refusal 
 **Discharge or variation of overseas maintenance order**
 
 ### 142 Discharge or variation of registered or confirmed order
-(1) If a maintenance order has been registered or confirmed in New Zealand, a District Court may, at any time, on the application of any person, make any of the following orders under section 99:
+(1) If a maintenance order has been registered or confirmed in New Zealand, the District Court may, at any time, on the application of any person, make any of the following orders under section 99:
   (a) an order discharging a maintenance order:
   (b) an order varying a maintenance order:
   (c) an order suspending the operation of a maintenance order for the purposes of New Zealand law:
@@ -959,7 +959,7 @@ Sections 173 and 174 shall apply to the confirmation of an order or the refusal 
 (2C) Where the court makes a provisional order under subsection (2), section 147(5) to (9) apply, except that the court must, instead of sending the statement referred to in section 147(6)﻿(c), send a statement of the grounds on which the provisional order has been made.
 (3) Where a person makes an application under subsection (1) in respect of a maintenance order registered in New Zealand, for a variation of the order under section 99, the application shall be dealt with as if the maintenance order had been made under this Act on the date when it was made outside New Zealand.
 (4) Where, on the hearing of an application under subsection (1), it appears to the court to be necessary to remit the case to the court that made the maintenance order for the purpose of taking any further evidence, the court may so remit the case and adjourn the proceedings for the purpose.
-(5) Where a maintenance order has been either registered or confirmed in New Zealand, and at any time thereafter the person in whose favour the order was made and the respondent are resident in New Zealand, a District Court may on the application of any person make an order under section 99 substituting a new order for the registered or confirmed order.
+(5) Where a maintenance order has been either registered or confirmed in New Zealand, and at any time thereafter the person in whose favour the order was made and the respondent are resident in New Zealand, the District Court may on the application of any person make an order under section 99 substituting a new order for the registered or confirmed order.
 (6) An order under subsection (5) may be made in any case where the court considers it just, whether or not there would be jurisdiction to make an order by reason of section 99.
 (7) On an application under this section, notice of the application shall be given to such person or persons as the court directs.
 
@@ -970,7 +970,7 @@ In sections 142B to 142E, child maintenance order means a maintenance order that
   (c) has been registered or confirmed in New Zealand.
 
 ### 142B Discharge, variation, etc, of child maintenance order
-(1) A District Court may, at any time, on the application of any person, make any of the following orders:
+(1) The District Court may, at any time, on the application of any person, make any of the following orders:
   (a) an order discharging a child maintenance order:
   (b) an order varying a child maintenance order:
   (c) an order suspending the operation of a child maintenance order for the purposes of New Zealand law:
@@ -1026,12 +1026,12 @@ If a court makes an order under any of sections 142 to 142E, the Registrar or ot
 In any proceedings under this Part, a certificate signed by the Secretary of Foreign Affairs and Trade or by a Deputy Secretary of Foreign Affairs and Trade, stating that a country is a Convention country, or was a Convention country on a date specified in the certificate, shall be conclusive evidence that the country is or was a Convention country.
 
 ### 145 Applications for maintenance by applicants residing in Convention countries
-Where the Secretary receives from the responsible authority in a Convention country—the Secretary shall cause the application, together with all relevant accompanying documents, to be sent to the Registrar of the District Court in New Zealand that is nearest to the place in New Zealand at which the respondent resides or is last known to have resided.
+Where the Secretary receives from the responsible authority in a Convention country—the Secretary shall cause the application, together with all relevant accompanying documents, to be sent to the Registrar of the office of the District Court in New Zealand that is nearest to the place in New Zealand at which the respondent resides or is last known to have resided.
   (a) an application by a person who claims to be entitled to recover maintenance from a person who is for the time being residing in New Zealand; or
   (b) an application for the variation, suspension, or discharge of an order made under this section—
 
 ### 145A Treatment of applications for maintenance by applicants residing in Convention countries
-Where a Registrar of a District Court receives from the Secretary an application under this section, the Registrar shall (subject to section 145J),—
+Where a Registrar of the District Court receives from the Secretary an application under this section, the Registrar shall (subject to section 145J),—
   (a) in the case of an application in respect of the maintenance of any person other than a child of the respondent, or an application made pursuant to any of sections 78 to 81, deal with the application in all respects as if it were an application for a maintenance order made to the court under Part 6, and that Part shall apply accordingly:
   (b) in the case of an application in respect of the maintenance of any child of the respondent, deal with the application in accordance with sections 145B to 145I.
 
@@ -1081,10 +1081,10 @@ An application for a maintenance order in respect of a child may be made only—
   (b) by a person who has lawful care of the child against a parent or parents of the child.
 
 ### 145F Power of court to make maintenance orders in respect of children
-Every application under section 145A(b) shall be heard and determined in a Family Court.
+Every application under section 145A(b) shall be heard and determined in the Family Court.
 
 ### 145G Maintenance orders in respect of children
-(1) On hearing an application under section 145A(b), a Family Court may, subject to subsections (2) and (9), make any 1 or more of the following orders:
+(1) On hearing an application under section 145A(b), the Family Court may, subject to subsections (2) and (9), make any 1 or more of the following orders:
   (a) an order directing the respondent to pay such periodical sum towards the future maintenance of the child as the court thinks fit:
   (b) an order directing the respondent to pay such lump sum towards the future maintenance of the child as the court thinks fit:
   (c) an order directing the respondent to pay such lump sum towards the past maintenance of the child as the court thinks fit.
@@ -1116,7 +1116,7 @@ Every application under section 145A(b) shall be heard and determined in a Famil
 ### 145I Interim maintenance
 (1) Where an application for a maintenance order or for the variation, extension, suspension, or discharge of a maintenance order has been filed, any District Court Judge may make an order directing the respondent to pay such periodical sum as the District Court Judge thinks reasonable towards the future maintenance of any of the respondent's children until the final determination of the proceedings or until the order sooner ceases to be in force.
 (2) No order made under this section shall continue in force for more than 6 months after the date on which it is made.
-(3) An order made under this section may be varied, suspended, discharged, or enforced in the same manner as if it were a final order of a Family Court.
+(3) An order made under this section may be varied, suspended, discharged, or enforced in the same manner as if it were a final order of the Family Court.
 
 **Procedure on applications from persons in Convention countries**
 
@@ -1128,8 +1128,8 @@ Every application under section 145A(b) shall be heard and determined in a Famil
 (3) The Registrar shall inform the Secretary of the decision of the court on an application made under section 145A, and the Secretary shall transmit the information to the responsible authority in the Convention country.
 
 ### 146 Provisions where service not effected
-(1) Where the Registrar of a District Court is unable to comply with the requirements as to service in section 145J(1), the Registrar shall—
-  (a) send the documents received under section 145A to the Registrar of any other District Court which the Registrar has reason to believe is nearest to the place in New Zealand at which the respondent then resides; or
+(1) Where the Registrar of the District Court is unable to comply with the requirements as to service in section 145J(1), the Registrar shall—
+  (a) send the documents received under section 145A to the Registrar at the office of the court that the Registrar has reason to believe is nearest to the place in New Zealand at which the respondent then resides; or
   (b) send the documents received under section 145A back to the Secretary together with a statement that the present whereabouts of the respondent are unknown.
 (2) Where a Registrar receives documents under subsection (1)﻿(a), the provisions of subsection (1) and of sections 145A and 145J shall have effect accordingly.
 (3) Where the Secretary receives the documents and statement referred to in subsection (1)﻿(b), the Secretary shall transmit the documents to the responsible authority in the Convention country with a statement that the present whereabouts of the respondent are unknown.
@@ -1149,10 +1149,10 @@ Every application under section 145A(b) shall be heard and determined in a Famil
 **Enforcement of New Zealand orders overseas**
 
 ### 147 Provisional orders for confirmation overseas
-(1) On an application to a District Court in New Zealand for a maintenance order against a person who is proved—the court may, in the absence of that person, where after hearing the evidence it is satisfied of the truth of the matters stated in the application, make a provisional order which shall have no effect unless and until confirmed by a competent court in a place outside New Zealand.
+(1) On an application to the District Court in New Zealand for a maintenance order against a person who is proved—the court may, in the absence of that person, where after hearing the evidence it is satisfied of the truth of the matters stated in the application, make a provisional order which shall have no effect unless and until confirmed by a competent court in a place outside New Zealand.
   (a) to be resident in a country outside New Zealand; or
   (b) to have left New Zealand with the intention of residing in a country outside New Zealand—
-(2) Where a District Court in New Zealand has notice that a maintenance order made in New Zealand has been registered in a country outside New Zealand and it appears that the respondent is not resident in New Zealand, the court may, in any case where it has ground to make an order varying or extending the maintenance order, make instead a provisional order which shall have no effect unless and until confirmed by a competent court in a place outside New Zealand.
+(2) Where the District Court in New Zealand has notice that a maintenance order made in New Zealand has been registered in a country outside New Zealand and it appears that the respondent is not resident in New Zealand, the court may, in any case where it has ground to make an order varying or extending the maintenance order, make instead a provisional order which shall have no effect unless and until confirmed by a competent court in a place outside New Zealand.
 (3) No provisional order shall be made under this section unless—
   (a) it appears to the New Zealand court that the order is one which may be confirmed under the law of the country in which the respondent resides or intends to reside; and
   (b) in the case of a maintenance order in respect of a party to a marriage or civil union, the order could have been made as a final order if notice of an application had been duly served on the respondent and he had failed to appear at the hearing.
@@ -1185,14 +1185,14 @@ Every application under section 145A(b) shall be heard and determined in a Famil
 (1) Where a person in New Zealand—and that other person is for the time being subject to the jurisdiction of that Convention country, the first person may apply to the Secretary, in accordance with this section, to have the first person's claim for the recovery of maintenance from that other person transmitted to that Convention country.
   (a) claims to be entitled to recover in a Convention country maintenance from another person; or
   (b) seeks to apply against another person for the variation, suspension, or discharge of any order or other provision in force in a Convention country for the payment of maintenance—
-(2) An application to the Secretary under subsection (1) shall be made through the Registrar of a District Court, who shall—
+(2) An application to the Secretary under subsection (1) shall be made through a Registrar of the District Court, who shall—
   (a) assist the applicant in completing an application that will comply with the requirements of the law and practice of the Convention country; and
   (b) send the application to the Secretary, together with such other documents (if any) as are required by that law and practice.
 (3) On receiving an application under this section from a Registrar, the Secretary shall transmit it, together with any accompanying documents, to the responsible authority in the Convention country, unless he is satisfied that—
   (a) the application is not made in good faith; or
   (b) the application does not comply with the requirements of the law applied by that Convention country.
-(4) The Secretary may request the Registrar of a District Court to provide such information relating to the application as may be specified in the request, and it shall be the duty of the court to furnish the Secretary with the information that he requires.
-(5) Nothing in this section shall limit the jurisdiction of a District Court to make an order under section 157 against a person who is absent from New Zealand.
+(4) The Secretary may request a Registrar of the District Court to provide such information relating to the application as may be specified in the request, and it shall be the duty of the court to furnish the Secretary with the information that he requires.
+(5) Nothing in this section shall limit the jurisdiction of the District Court to make an order under section 157 against a person who is absent from New Zealand.
 
 **Miscellaneous provisions as to overseas maintenance**
 
@@ -1261,7 +1261,7 @@ A minor may bring and continue or defend any proceedings under this Act, and an 
   (c) to exclude any person from the court.
 
 ### 160 Applications may be heard together
-(1) An application under this Act may be joined with an application under the Property (Relationships) Act 1976, and, subject to any rules of procedure made under this Act or under the Family Courts Act 1980, it shall not be necessary to file separate applications.
+(1) An application under this Act may be joined with an application under the Property (Relationships) Act 1976, and, subject to any rules of procedure made under this Act or under the Family Court Act 1980, it shall not be necessary to file separate applications.
 (2) A court may hear and determine any proceedings before it under this Act in conjunction with any other proceedings under this Act or under the Care of Children Act 2004 or under the Property (Relationships) Act 1976 in any case where—
   (a) all the proceedings are between the same parties; or
   (b) all the proceedings are in respect of members of the same family.
@@ -1283,7 +1283,7 @@ In any proceedings under this Act (other than criminal proceedings), a court may
 
 ### 162B Fees and expenses of lawyer appointed under section 162 or 162A
 (1) The fees and expenses of a lawyer appointed under section 162 or 162A must—
-  (a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (a) be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by the Registrar of the court; and
   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
 (2) An invoice rendered by a lawyer appointed under section 162 or 162A for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
 (3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
@@ -1311,21 +1311,21 @@ In any proceedings under this Act (other than criminal proceedings), a court may
       (ii) the party is unable to afford goods or services that are expensive or of a high quality or standard according to normal community standards.
 
 ### 162D Enforcement of orders made under section 162C
-(1) The amount that a party is ordered to reimburse under section 162C is a debt due to the Crown by that party and may be enforced in a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
-(2) Despite section 113 or 123 of the District Courts Act 1947 or section 100A of the Judicature Act 1908, no court fee is payable by a person who seeks to enforce, on behalf of the Crown, an order referred to in subsection (1), but the fee that would otherwise be payable—
+(1) The amount that a party is ordered to reimburse under section 162C is a debt due to the Crown by that party and may be enforced in the District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
+(2) Despite section 219 or 230 of the District Court Act 2016 or section 156 of the Senior Courts Act 2016, no court fee is payable by a person who seeks to enforce, on behalf of the Crown, an order referred to in subsection (1), but the fee that would otherwise be payable—
   (a) is to be added to the amount sought to be enforced; and
   (b) must be paid to the Registrar of the court out of any proceeds that result from the enforcement.
 (3) For the purposes of section 14(1)﻿(b) of the Crown Proceedings Act 1950, the Secretary for Justice may, on behalf of the Crown, enforce a debt under this section.
 
 ### 163 Vexatious proceedings
-(1) A District Court or Family Court may dismiss any proceedings before it under this Act if it is satisfied that they are frivolous or vexatious or an abuse of the procedure of the court.
-(2) A District Court or Family Court may, if it is satisfied that a person has persistently instituted vexatious proceedings under this Act or any former Act (whether against the same person or against different persons), after giving the first-mentioned person an opportunity of being heard, order that no proceedings under this Act, or no such proceedings of any specified kind or against any specified person, shall be commenced by the first-mentioned person without the leave of the court.
+(1) The District Court or the Family Court may dismiss any proceedings before it under this Act if it is satisfied that they are frivolous or vexatious or an abuse of the procedure of the court.
+(2) The District Court or the Family Court may, if it is satisfied that a person has persistently instituted vexatious proceedings under this Act or any former Act (whether against the same person or against different persons), after giving the first-mentioned person an opportunity of being heard, order that no proceedings under this Act, or no such proceedings of any specified kind or against any specified person, shall be commenced by the first-mentioned person without the leave of the court.
 
 ### 164 Evidence
 [Repealed]
 
 ### 165 Power of District Court or Family Court to call witnesses
-(1) In any proceedings before it under this Act (not being criminal proceedings) a District Court or Family Court may of its own motion call as a witness any person whose evidence may in its opinion be of assistance to the court.
+(1) In any proceedings before it under this Act (not being criminal proceedings) the District Court or the Family Court may of its own motion call as a witness any person whose evidence may in its opinion be of assistance to the court.
 (2) The power conferred by subsection (1) shall include power to call as a witness any party to the proceedings or the spouse or civil union partner of any party to the proceedings.
 (3) A witness called by the court under this section shall have the same privilege to refuse to answer any question as the witness would have if the witness had been called by a party to the proceedings.
 (4) A witness called by the court under this section may be—
@@ -1349,20 +1349,20 @@ Every question of fact arising in any proceedings under this Act (not being crim
 (2) Where the court is satisfied that the respondent is entitled to or ought to be granted such relief, it may grant it accordingly.
 
 ### 169 Publication of reports of proceedings
-Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act (other than criminal proceedings under section 130)—
-  (a) in a Family Court:
+Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a report of any proceedings under this Act (other than criminal proceedings under section 130)—
+  (a) in the Family Court:
   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
 
 ### 170 Orders by consent
-In any proceedings before it under this Act (not being proceedings under Part 4), a District Court or a Family Court may make any order under this Act by the consent of all of the parties to the proceedings.
+In any proceedings before it under this Act (not being proceedings under Part 4), the District Court or the Family Court may make any order under this Act by the consent of all of the parties to the proceedings.
 
 ### 171 Costs
 (1) Subject to any other provision in this Act, the court, on the hearing of any proceedings before it under this Act, may make such order as to costs as it thinks fit.
-(2) An order made by a District Court or Family Court under subsection (1) shall be enforceable in the same manner as money ordered to be paid by a maintenance order under this Act, and all the provisions of this Act as to recovery of such money shall apply.
+(2) An order made by the District Court or the Family Court under subsection (1) shall be enforceable in the same manner as money ordered to be paid by a maintenance order under this Act, and all the provisions of this Act as to recovery of such money shall apply.
 (3) This section is subject to section 162B.
 
 ### 172 Dismissal of application in District Court or Family Court no bar to further proceedings
-Neither the dismissal of an application under this Act by a District Court or a Family Court nor the refusal of a District Court or a Family Court to make an order under this Act shall be a bar to the making of a further application in the same matter and against the same or any other respondent by the same or any other applicant.
+Neither the dismissal of an application under this Act by the District Court or the Family Court nor the refusal of the District Court or the Family Court to make an order under this Act shall be a bar to the making of a further application in the same matter and against the same or any other respondent by the same or any other applicant.
 
 ### 173 Rehearings
 (1) Where an order has been made or refused on an application under this Act (other than an application under Part 4), the court may, on the application of the applicant or respondent, grant a rehearing of the application on such conditions as it thinks fit.
@@ -1371,8 +1371,8 @@ Neither the dismissal of an application under this Act by a District Court or a 
 
 ## Part 10 — Appeals
 
-### 174 Appeals from decisions of District Courts and Family Courts
-(1AA) This subsection applies to a decision of a Family Court or District Court, in proceedings under this Act, to—
+### 174 Appeals from decisions of District Court and Family Court
+(1AA) This subsection applies to a decision of the Family Court or the District Court, in proceedings under this Act, to—
   (a) make or refuse to make an order; or
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
@@ -1382,10 +1382,10 @@ Neither the dismissal of an application under this Act by a District Court or a 
   (b) a decision under—
     (i) section 162 to appoint a lawyer to represent a child; or
     (ii) section 162A to appoint, or to direct the Registrar of the court to appoint, a lawyer to assist the court.
-(1B) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
-(2) On the ex parte application of the appellant, the District Court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(1B) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
+(2) On the ex parte application of the appellant, the District Court may order that the appellant must not be required under section 126(1) of the District Court Act 2016 to give the Registrar of the High Court security for costs.
 (2A) Subsection (2) overrides subsection (1A).
-(3) Notwithstanding subsection (1), where an order dissolving a marriage or civil union is made by a Family Court or a Registrar in undefended proceedings, no appeal shall lie to the High Court against the order.
+(3) Notwithstanding subsection (1), where an order dissolving a marriage or civil union is made by the Family Court or a Registrar in undefended proceedings, no appeal shall lie to the High Court against the order.
 (3A) Subsection (3) overrides subsection (1).
 (4) The High Court shall not extend the time for appeal against an order dissolving a marriage or civil union.
 (4A) Subsection (4) overrides subsection (1A).
@@ -1397,7 +1397,7 @@ Neither the dismissal of an application under this Act by a District Court or a 
 
 ### 175 Appeals from decisions of High Court
 (1) Subject to subsections (2) to (5), a party to any proceedings under this Act before the High Court (other than proceedings on an appeal under section 174) may appeal to the Court of Appeal, against any order or decision of the court or of a Judge of the court, within 28 days after the making of the order or decision.
-(2) Where an order dissolving a marriage or civil union is made in the High Court under section 34 or section 39(4) in any proceedings that have been transferred to that court under section 14 of the Family Courts Act 1980, section 42 of this Act shall apply in respect of that order and shall have effect as if, for the words “High Court”, there were substituted the words “Court of Appeal”.
+(2) Where an order dissolving a marriage or civil union is made in the High Court under section 34 or section 39(4) in any proceedings that have been transferred to that court under section 14 of the Family Court Act 1980, section 42 of this Act shall apply in respect of that order and shall have effect as if, for the words “High Court”, there were substituted the words “Court of Appeal”.
 (3) Notwithstanding subsection (1), where an order dissolving a marriage or civil union is made by the High Court in undefended proceedings, no appeal shall lie to the Court of Appeal against the order.
 (4) The Court of Appeal shall not extend the time for appeal against an order dissolving a marriage or civil union.
 (5) Subject to subsection (4), the Court of Appeal may extend the time for appeal on such terms and subject to such conditions as it thinks fit.
@@ -1441,8 +1441,8 @@ Neither the dismissal of an application under this Act by a District Court or a 
 (7) No distribution of any part of the estate lawfully made before the personal representative receives notice that an application for such an order has been made to the court shall be disturbed by reason of the application or of any order on the application, and no action shall lie against the personal representative by reason of his having made such a distribution.
 
 ### 182 Court may make orders as to settled property, etc
-(1) On, or within a reasonable time after, the making of an order under Part 4 of this Act or a final decree under Part 2 or Part 4 of the Matrimonial Proceedings Act 1963, a Family Court may inquire into the existence of any agreement between the parties to the marriage or civil union for the payment of maintenance or relating to the property of the parties or either of them, or any ante-nuptial or post-nuptial settlement made on the parties, and may make such orders with reference to the application of the whole or any part of any property settled or the variation of the terms of any such agreement or settlement, either for the benefit of the children of the marriage or civil union or of the parties to the marriage or civil union or either of them, as the court thinks fit.
-(2) Where an order under Part 4 of this Act, or a final decree under Part 2 or Part 4 of the Matrimonial Proceedings Act 1963, has been made and the parties have entered into an agreement for the payment of maintenance, a Family Court may at any time, on the application of either party or of the personal representative of the party liable for the payments under the agreement, cancel or vary the agreement or remit any arrears due under the agreement.
+(1) On, or within a reasonable time after, the making of an order under Part 4 of this Act or a final decree under Part 2 or Part 4 of the Matrimonial Proceedings Act 1963, the Family Court may inquire into the existence of any agreement between the parties to the marriage or civil union for the payment of maintenance or relating to the property of the parties or either of them, or any ante-nuptial or post-nuptial settlement made on the parties, and may make such orders with reference to the application of the whole or any part of any property settled or the variation of the terms of any such agreement or settlement, either for the benefit of the children of the marriage or civil union or of the parties to the marriage or civil union or either of them, as the court thinks fit.
+(2) Where an order under Part 4 of this Act, or a final decree under Part 2 or Part 4 of the Matrimonial Proceedings Act 1963, has been made and the parties have entered into an agreement for the payment of maintenance, the Family Court may at any time, on the application of either party or of the personal representative of the party liable for the payments under the agreement, cancel or vary the agreement or remit any arrears due under the agreement.
 (3) In the exercise of its discretion under this section, the court may take into account the circumstances of the parties and any change in those circumstances since the date of the agreement or settlement and any other matters which the court considers relevant.
 (4) The court may exercise the powers conferred by this section, notwithstanding that there are no children of the marriage or civil union.
 (5) An order made under this section may from time to time be reviewed by the court on the application of either party to the marriage or civil union or of either party's personal representative.
@@ -1488,9 +1488,9 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (g) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 
 ### 188 Rules of procedure
-(1) Subject to Part 9, the Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of District Courts in proceedings under this Act.
-(1A) Subject to Part 9, rules may be made under section 16A of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under this Act.
-(2) Without limiting the generality of the powers conferred by subsection (1) or section 16A of the Family Courts Act 1980, rules made under either of those provisions may:
+(1) Subject to Part 9, the Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of the District Court in proceedings under this Act.
+(1A) Subject to Part 9, rules may be made under section 16A of the Family Court Act 1980 regulating the practice and procedure of the Family Court in proceedings under this Act.
+(2) Without limiting the generality of the powers conferred by subsection (1) or section 16A of the Family Court Act 1980, rules made under either of those provisions may:
   (a) prescribe such forms as are necessary for the purposes of this Act:
   (b) prescribe the costs and charges to be paid by one party in the proceedings to the other party, in addition to money paid out of pocket:
   (c) prescribe fees payable to persons giving evidence in the proceedings and the persons liable to pay those fees; and authorise the refund or remission of those fees:
