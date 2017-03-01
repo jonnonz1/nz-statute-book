@@ -1,5 +1,5 @@
 # Cultural Property (Protection in Armed Conflict) Act 2012
-_Consolidation as at 2013-07-02_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Cultural Property (Protection in Armed Conflict) Act 2012.
@@ -15,7 +15,7 @@ This Act is the Cultural Property (Protection in Armed Conflict) Act 2012.
   - **Convention** means the Convention for the Protection of Cultural Property in the Event of Armed Conflict, done at The Hague on 14 May 1954, a copy of the English text of which is set out in Schedule 1
   - **First Protocol** means the Protocol to the Convention, done at The Hague on 14 May 1954, a copy of the English text of which is set out in Schedule 2
   - **First Protocol Party** means a party to the First Protocol and includes a state that accepts and applies the provisions of that Protocol in accordance with its terms (but only to the extent that it accepts and applies them)
-  - **grave violation offence** means an offence against section 7 where the act done is one mentioned in subsection (2)(a), (b), or (c) of that section
+  - **grave violation offence** means an offence against section 7 where the act done is one mentioned in subsection (2)﻿(a), (b), or (c) of that section
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **New Zealand national** means—
     (a) a New Zealand citizen; or
@@ -31,7 +31,7 @@ This Act is the Cultural Property (Protection in Armed Conflict) Act 2012.
   (a) movable or immovable property of great importance to the cultural heritage of every people:
   (b) buildings whose main and effective purpose is to preserve or exhibit movable property mentioned in paragraph (a):
   (c) centres containing a large amount of property mentioned in paragraph (a) or buildings mentioned in paragraph (b).
-(2) Examples of property that may fall within subsection (1)(a) include—
+(2) Examples of property that may fall within subsection (1)﻿(a) include—
   (a) monuments of architecture, art, or history (whether religious or secular):
   (b) archaeological sites:
   (c) groups of buildings that, as a whole, are of historical or artistic interest:
@@ -39,11 +39,11 @@ This Act is the Cultural Property (Protection in Armed Conflict) Act 2012.
   (e) manuscripts, books, and other objects of artistic, historical, or archaeological interest:
   (f) scientific collections:
   (g) collections of books or archives or of reproductions of anything mentioned in paragraphs (a) to (f).
-(3) Examples of property that may fall within subsection (1)(b) include—
+(3) Examples of property that may fall within subsection (1)﻿(b) include—
   (a) museums:
   (b) large libraries:
   (c) depositories of archives:
-  (d) refuges intended to shelter movable property mentioned in subsection (1)(a) in the event of armed conflict.
+  (d) refuges intended to shelter movable property mentioned in subsection (1)﻿(a) in the event of armed conflict.
 (4) In this Act, enhanced protection property means cultural property that is under enhanced protection in accordance with Chapter 3 of the Second Protocol.
 
 ### 5 Occupation of territory
@@ -64,7 +64,7 @@ This Act binds the Crown.
   (b) the act is done in a relevant situation of hostilities; and
   (c) the property in relation to which the act is done is property protected under the Convention or the Second Protocol; and
   (d) the person knows or has reason to believe that the property is,—
-    (i) in the case of an act mentioned in subsection (2)(a) or (b), enhanced protection property:
+    (i) in the case of an act mentioned in subsection (2)﻿(a) or (b), enhanced protection property:
     (ii) in any other case, cultural property.
 (2) The acts are—
   (a) making enhanced protection property the object of attack:
@@ -72,7 +72,7 @@ This Act binds the Crown.
   (c) the extensive destruction or the extensive appropriation of cultural property:
   (d) making cultural property the object of attack:
   (e) stealing, appropriating, or vandalising cultural property.
-(3) Reference in subsection (2)(b) to the use of property or surroundings in support of military action includes use for purposes that are likely to expose the property to destruction or damage in the event of armed conflict.
+(3) Reference in subsection (2)﻿(b) to the use of property or surroundings in support of military action includes use for purposes that are likely to expose the property to destruction or damage in the event of armed conflict.
 (4) A person does not commit an offence against subsection (1) if the person is acting by imperative military necessity or otherwise in accordance with the Convention and the Second Protocol.
 (5) In this section,—
   - **relevant situation of hostilities** means a situation involving armed conflict (of an international character or otherwise) or the occupation of territory, but only to the extent that the Second Protocol applies to that conflict or occupation
@@ -144,8 +144,8 @@ This Act binds the Crown.
 (4) The offences are—
   (a) a serious violation offence other than a grave violation offence:
   (b) an offence against section 8(1) where the offence aided, abetted, incited, counselled, or procured is a serious violation offence other than a grave violation offence:
-  (c) an offence against section 8(2)(a).
-(5) A person who commits an offence against section 8(2)(b) or (c) is liable on conviction,—
+  (c) an offence against section 8(2)﻿(a).
+(5) A person who commits an offence against section 8(2)﻿(b) or (c) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding half the maximum term to which the individual would have been liable if he or she had committed the serious violation offence in question:
   (b) in the case of a body corporate, to a fine not exceeding half the maximum fine to which the body would have been liable if it had committed the serious violation offence in question.
 
@@ -175,7 +175,7 @@ In this Part, unless the context otherwise requires,—
     (b) a Justice of the Peace, Community Magistrate, or Registrar who is for the time being authorised to act as an issuing officer under section 108 of the Search and Surveillance Act 2012
   - **Judge** means a District Court Judge or a Judge of the High Court
   - **Registrar** —
-    (a) means a Registrar of a District Court or the High Court; and
+    (a) means a Registrar of the District Court or the High Court; and
     (b) includes a Deputy Registrar of either court
   - **remove** means export or otherwise remove
   - **search warrant** has the meaning given by section 21(3)
@@ -252,15 +252,15 @@ In this Part, unless the context otherwise requires,—
 (2) An enhanced protection offence is—
   (a) an offence against section 15(1) or 17(1); or
   (b) an offence against section 16(1) where the offence aided, abetted, incited, counselled, or procured is an offence against section 15(1); or
-  (c) an offence against section 16(2)(a) where the offence that the person conspired to commit is an offence against section 15(1).
+  (c) an offence against section 16(2)﻿(a) where the offence that the person conspired to commit is an offence against section 15(1).
 (3) A person who commits a non-enhanced protection offence is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000, or to both:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 (4) A non-enhanced protection offence is—
   (a) an offence against section 15(2) or 17(2); or
   (b) an offence against section 16(1) where the offence aided, abetted, incited, counselled, or procured is an offence against section 15(2); or
-  (c) an offence against section 16(2)(a) where the offence that the person conspired to commit is an offence against section 15(2).
-(5) A person who commits an offence against section 16(2)(b) or (c) is liable on conviction to not more than half the maximum punishment to which the person would have been liable if the person had committed the removal offence in question.
+  (c) an offence against section 16(2)﻿(a) where the offence that the person conspired to commit is an offence against section 15(2).
+(5) A person who commits an offence against section 16(2)﻿(b) or (c) is liable on conviction to not more than half the maximum punishment to which the person would have been liable if the person had committed the removal offence in question.
 
 **Search, seizure, and forfeiture**
 
@@ -273,7 +273,7 @@ In this Part, unless the context otherwise requires,—
 (1) The provisions of the Customs and Excise Act 1996 apply to smuggled property, or property suspected of being smuggled property, as they apply to goods forfeited, or goods suspected of being forfeited, under that Act.
 (2) However, the following provisions of that Act do not apply to such property:
   (a) section 229 (which relates to delivery of goods seized on deposit of value):
-  (b) sections 231(3)(b), 233(1)(c), 234, 235, and 235C(b)(ii) (which relate to the grant of relief):
+  (b) sections 231(3)﻿(b), 233(1)﻿(c), 234, 235, and 235C(b)﻿(ii) (which relate to the grant of relief):
   (c) section 236(2) to (4) (which relate to orders for the restoration of goods forfeited):
   (d) section 237 (which relates to the disposal of forfeited goods).
 (3) Subsection (2) has effect whether or not the property is unlawfully imported, or unlawfully exported, within the meaning of the Customs and Excise Act 1996.
@@ -479,7 +479,7 @@ In this Part, Convention emblem means the distinctive emblem of the Convention (
     (ii) that a person is acting in an official capacity in execution of the Convention; or
     (iii) that a place or vehicle or other thing has a particular status under the Convention; and
   (b) use of the Convention emblem in that manner by the person is not authorised.
-(2) It is immaterial whether the person intended use of the emblem to indicate or suggest any of the things mentioned in subsection (1)(a).
+(2) It is immaterial whether the person intended use of the emblem to indicate or suggest any of the things mentioned in subsection (1)﻿(a).
 (3) A person commits an offence if—
   (a) the person places the Convention emblem on immovable cultural property; and
   (b) the person is authorised to use the Convention emblem in that manner; but
@@ -489,11 +489,11 @@ In this Part, Convention emblem means the distinctive emblem of the Convention (
   (b) by specific authority given by the Minister or a person acting on behalf of the Minister.
 (5) In determining whether use should or should not be authorised (whether by regulations or specific authority), regard must be had to the principles, objectives, and requirements of the Convention.
 (6) Use may be authorised by reference to the type of persons who may use the emblem, the type of property or place in respect of which it may be used, the type of use that may be made of it, the circumstances in which it may be used, whether the use involves the distinctive emblem itself or a design resembling it, or by any other means.
-(7) A specific authority given under subsection (4)(b)—
+(7) A specific authority given under subsection (4)﻿(b)—
   (a) may relate to a particular person or a particular class of persons:
   (b) may be given subject to conditions:
   (c) may be withdrawn by the Minister or a person acting on behalf of the Minister.
-(8) In the case of use authorised by regulations made under section 43, display of a notice referencing the regulations in question is sufficient for the purposes of subsection (3)(c).
+(8) In the case of use authorised by regulations made under section 43, display of a notice referencing the regulations in question is sufficient for the purposes of subsection (3)﻿(c).
 (9) In this section, use includes display, exhibit, or otherwise use.
 
 ### 37 Exceptions and defences
@@ -544,7 +544,7 @@ Nothing in this Act affects or limits the scope or application of any other enac
 
 ### 43 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations—
-  (a) prescribing the form mentioned in section 20(4)(b):
+  (a) prescribing the form mentioned in section 20(4)﻿(b):
   (b) prescribing the form of a search warrant for the purposes of section 23:
   (c) prescribing the form of a notice for the purposes of section 27:
   (d) illustrating the form of the distinctive emblem of the Convention (as described in the Convention):
@@ -563,11 +563,11 @@ The Governor-General may from time to time, by Order in Council, make regulation
 
 ### 46 Amendment to Flags, Emblems, and Names Protection Act 1981
 (1) This section amends the Flags, Emblems, and Names Protection Act 1981.
-(2) Schedule 3 is amended by adding the following item:Cultural Property (Protection in Armed Conflict) Act 2012: section 36.distinctive emblem of the Convention for the Protection of Cultural Property in the Event of Armed Conflict.
+(2) Schedule 3 is amended by adding the following item:The following table is small in size and has 2 columns. The table is an amendment to the table in Schedule 3 of the Flags, Emblems, and Names Protection Act 1981 and should be read with that table to provide understanding of the context.Cultural Property (Protection in Armed Conflict) Act 2012: section 36.distinctive emblem of the Convention for the Protection of Cultural Property in the Event of Armed Conflict.
 
 ### 47 Amendment to Mutual Assistance in Criminal Matters Act 1992
 (1) This section amends the Mutual Assistance in Criminal Matters Act 1992.
-(2) The Schedule is amended by adding the following item:31The Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict, done at The Hague on 26 March 1999.An offence against the following section of the Cultural Property (Protection in Armed Conflict) Act 2012:sectionsubject matter7Serious violations of the Second Protocol.
+(2) The Schedule is amended by adding the following item:The following table is small in size and has 4 columns. This table is an amendment to the table in the Schedule of the Mutual Assistance in Criminal Matters Act 1992 and should be read with that table to provide understanding of the context.31The Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict, done at The Hague on 26 March 1999.An offence against the following section of the Cultural Property (Protection in Armed Conflict) Act 2012:sectionsubject matter7Serious violations of the Second Protocol.
 
 ## Schedule 1 — Convention for the Protection of Cultural Property in the Event of Armed Conflict
 
