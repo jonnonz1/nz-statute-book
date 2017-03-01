@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -61,11 +61,14 @@ This Act does not affect—
 This Act binds the Crown.
 
 ### 6 Corporations and other entities not subject to Act
-A corporation, association, or company incorporated or registered under any Act must not—
+(1) A corporation, association, or company incorporated or registered under any Act must not—
   (a) be adjudicated bankrupt:
   (b) make a proposal to its creditors:
   (c) be the subject of a summary instalment order under this Act:
   (d) be admitted to the no asset procedure.
+(2) However,—
+  (a) Part 16 of the Companies Act 1993 applies to the liquidation of companies, overseas companies, and associations within the meaning of section 2(1) of that Act; and
+  (b) other bodies corporate may be put into liquidation under or in accordance with the Acts under which they are incorporated or registered.
 
 ## Part 2 — Nature of bankruptcy, and process of being made bankrupt
 
@@ -268,8 +271,8 @@ In sections 31 to 34, execution process means any of the following:
   (a) issuing or proceeding with any of the following writs or warrants under a judgment or order obtained against the debtor in any court in its civil jurisdiction (except a judgment or order for possession of any land or building obtained on the ground that the debtor is a trespasser or that the debtor's tenancy has expired):
     (i) a writ or warrant for the possession, seizure, or sale of any property:
     (ii) a writ of attachment:
-  (b) obtaining a garnishee order in favour of a judgment creditor under rule 638 of the District Courts Rules 1992:
-  (c) obtaining an order that a judgment creditor may sue a subdebtor under rule 639(2)﻿(c) of the District Courts Rules 1992:
+  (b) obtaining a garnishee order in favour of a judgment creditor under rule 19.78 of the District Court Rules 2014:
+  (c) obtaining an order that a judgment creditor may sue a subdebtor under rule 19.79(3)﻿(c) of the District Court Rules 2014:
   (d) having an interim charging order made final under rule 17.59 of the High Court Rules 2016:
   (e) beginning or continuing proceedings in any court for the appointment of a receiver of any property, except an application for the appointment of the Assignee as receiver and manager under section 50:
   (f) exercising any power of re-entry under a lease, or any power terminating a lease:
@@ -1049,7 +1052,7 @@ If the bankrupt defaults in making a payment required under section 147, the onu
 
 ### 152 Bankrupt must vacate land or buildings if required to do so
 (1) The Assignee may require the bankrupt and any of his or her relatives to vacate any land or building that is part of the property vested in the Assignee under the bankruptcy.
-(2) If the Assignee's demand is not complied with, the Assignee may apply to a District Court for an order for possession of the land or building.
+(2) If the Assignee's demand is not complied with, the Assignee may apply to the District Court for an order for possession of the land or building.
 
 ### 153 Bankrupt's right to inspect documents
 (1) The bankrupt may at any reasonable time inspect, and take extracts or copies of,—
@@ -1670,9 +1673,9 @@ If the Assignee rejects a creditor's claim, or part of it, the Assignee must, as
 (3) The bankrupt and any creditor may give notice to the court hearing the application, and, on doing so, become parties to the proceeding.
 
 ### 241 Which court may hear application in relation to creditor's claim
-(1) If the creditor's claim is for a sum of not more than $200,000, an application under section 237, 238, or 239 may be made to the District Court.
-(2) In that case, the provisions of the District Courts Act 1947 as to appeals and the transfer of proceedings to the High Court apply as if the application were an action and the amount of the creditor's claim in dispute were the amount of a claim in the action.
-(3) If the creditor's claim is for a sum of more than $200,000, an application under section 237, 238, or 239 may be made to the High Court.
+(1) If the creditor's claim is for a sum of not more than $350,000, an application under section 237, 238, or 239 may be made to the District Court.
+(2) In that case, the provisions of the District Court Act 2016 as to appeals and the transfer of proceedings to the High Court apply as if the application were an action and the amount of the creditor's claim in dispute were the amount of a claim in the action.
+(3) If the creditor's claim is for a sum of more than $350,000, an application under section 237, 238, or 239 may be made to the High Court.
 (4) In that case, the decision of the High Court may be taken on appeal to the Court of Appeal by—
   (a) any party to the proceeding, if the High Court gives that party leave to appeal:
   (b) any aggrieved person.
@@ -2513,7 +2516,7 @@ All instalments payable under a summary instalment order must be paid in the pre
 (2) After the summary instalment order has been made, a person must not begin or continue a proceeding unless—
   (a) the Assignee gives permission for a creditor to begin or continue the proceeding (in which case the Assignee may impose any conditions that the Assignee thinks appropriate); or
   (b) the debtor is in default under the order.
-(3) In the case of a proceeding in a District Court, unless subsection (2) applies, the court—
+(3) In the case of a proceeding in the District Court, unless subsection (2) applies, the court—
   (a) must halt the proceeding on receiving notice of the order; and
   (b) may award all or part of the creditor's costs incurred up to the time of the court's notification, and may certify accordingly for the purpose of the creditor proving the debt under this subpart.
 
@@ -2557,7 +2560,7 @@ A summary instalment order is not current if it has been discharged or all the i
 (1) A debtor who defaults in paying any sum due under a summary instalment order is presumed, unless the contrary is proved, to have—
   (a) been able to pay the sum from the date of the order; and
   (b) refused or neglected to pay it.
-(2) If the debtor defaults in making payment in accordance with the order, unless a District Court orders otherwise,—
+(2) If the debtor defaults in making payment in accordance with the order, unless the District Court orders otherwise,—
   (a) a proceeding that has been halted under section 352 may begin or continue:
   (b) any period during which a proceeding was halted under section 352 must be added to any period of limitation that applies to the proceeding.
 (3) The supervisor must notify the Assignee as soon as practicable of a default by the debtor in making payment in accordance with the order.
@@ -3179,7 +3182,7 @@ No action may be taken against the Assignee for malicious prosecution in relatio
 (2) In subsection (1)﻿(n), prescribing the form includes specifying the content, means of communication, or any other requirement of a statement of affairs, application, or notice without necessarily specifying the use of a particular form.
 
 ### 442 Rules
-(1) Rules may be made from time to time under the Judicature Act 1908—
+(1) Rules may be made from time to time under the Senior Courts Act 2016—
   (a) relating to the procedure of the court under this Act:
   (b) relating to appeals to the Court of Appeal under this Act:
   (c) to give effect to this Act.
