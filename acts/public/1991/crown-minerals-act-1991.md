@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2017-03-01_
 
 > Title
 
@@ -960,7 +960,7 @@ No right reserved to the Crown, by virtue of any enactment, to enter any land fo
 (10) Subsection (1)﻿(b) applies in relation to land registered in the name of Wharepakau as protected land under section 104 of the Ngāti Whare Claims Settlement Act 2012 as if that land were Māori land and as if the trustees were the local iwi authority of that land.
 
 ### 52 Permit holder may obtain order
-Where a permit holder or other person authorised to enter on land under section 49 has complied with the requirements of that section and, in the exercise of his or her rights under that section, is obstructed, hindered, or interfered with by an owner or occupier of the land, or any other person, the permit holder or person so authorised may apply to a District Court for an order directing that he or she or any other person having rights under section 49 be permitted to exercise those rights.
+Where a permit holder or other person authorised to enter on land under section 49 has complied with the requirements of that section and, in the exercise of his or her rights under that section, is obstructed, hindered, or interfered with by an owner or occupier of the land, or any other person, the permit holder or person so authorised may apply to the District Court for an order directing that he or she or any other person having rights under section 49 be permitted to exercise those rights.
 
 **Access to land other than for minimum impact activity**
 
@@ -1008,7 +1008,7 @@ For the purposes of sections 53 and 54, prospecting, exploration, or mining carr
   (c) will not or is not likely to have any prejudicial effect in respect of any possible future use of the surface of the land.
 
 ### 58 Disputes as to classification of land and activities
-(1) If any dispute arises as to whether or not—a party to the dispute may apply to a District Court for that court to determine the matter.
+(1) If any dispute arises as to whether or not—a party to the dispute may apply to the District Court for that court to determine the matter.
   (a) any land is included in a class of land referred to in section 55; or
   (b) any activity is a minimum impact activity; or
   (c) prospecting, exploration, or mining carried out below the surface of any land constitutes prospecting, exploration, or mining on or in land for the purposes of section 53 or section 54—
@@ -1220,7 +1220,7 @@ Subject to section 76(4), no proceedings lie against an arbitrator for or with r
 No person entitled to exercise a right of access by virtue of an access arrangement shall contravene the conditions of the arrangement.
 
 ### 78 Absentee or unknown owner of land
-(1) Where an owner or occupier of land with whom it is desired to enter into an access arrangement under this Part is—the person seeking the right of access may, after notifying Public Trust, apply to a District Court for an order authorising Public Trust to act as if it were the agent of the owner or occupier; and that court may make such an order.
+(1) Where an owner or occupier of land with whom it is desired to enter into an access arrangement under this Part is—the person seeking the right of access may, after notifying Public Trust, apply to the District Court for an order authorising Public Trust to act as if it were the agent of the owner or occupier; and that court may make such an order.
   (a) of unknown whereabouts and has no known agent; or
   (b) unknown,—
 (2) On the making of such an order, Public Trust shall, for the purposes of this Part, be deemed to be the agent of the owner or occupier in respect of whom the order was made, and notwithstanding the provisions of any Act, rule of law, deed, or instrument, may enter into an access arrangement on behalf of the owner or occupier.
@@ -1577,12 +1577,12 @@ Every permit holder must—
   (c) notice of the right of the permit holder to appeal (as set out in section 99L).
 
 ### 99L Right of appeal
-(1) A permit holder who has made an objection under section 99K may, in accordance with the rules of court, appeal to a District Court against the chief executive's determination of the objection.
+(1) A permit holder who has made an objection under section 99K may, in accordance with the rules of court, appeal to the District Court against the chief executive's determination of the objection.
 (2) An appeal must be made not later than 20 working days after the date on which the permit holder is notified of the chief executive's decision under section 99K(6).
 (3) The District Court may confirm, reverse, or modify the decision and, if applicable,—
   (a) amend the relevant royalty return or default assessment; and
   (b) specify the amount of any money to be paid by the permit holder to the Crown or to be refunded to the permit holder, as the case may be.
-(4) A decision of a District Court under subsection (3) may be appealed to the High Court, but only if—
+(4) A decision of the District Court under subsection (3) may be appealed to the High Court, but only if—
   (a) the ground of the appeal is that the decision is erroneous in point of law; or
   (b) the District Court has determined that an amount of money is payable to the Crown and the amount is more than $2,000.
 (5) To avoid doubt, an appeal may be taken under subsection (4) by the permit holder or the chief executive (on behalf of the Crown).
@@ -1720,8 +1720,8 @@ In sections 101B and 101C,—
   (e) prescribing the manner in which persons wishing to apply for permits in respect of any land are to mark out or identify the land and prescribing a graticular system for the purpose of defining areas or parts of areas comprised in permits, applications for permits, or extensions of permits:
   (f) prescribing registers to be kept under this Act, the form of such registers, the matters to be entered therein, and the means by which entries shall be verified:
   (g) providing for the keeping and provision of records, reports, information, and returns by permit holders for any purpose under this Act, and prescribing the nature of the records, reports, information, and returns, and the form, manner, and times in or at which they shall be kept or provided:
-  (ga) prescribing the information that must be provided under section 90A and the form, manner, and times in or at which that information must be provided:
-  (gb) prescribing the form, manner, and times in or at which the chief executive may publish any or all of the information that must be provided under section 90A:
+  (ga) prescribing the information that must be provided under section 90B and the form, manner, and times in or at which that information must be provided:
+  (gb) prescribing the form, manner, and times in or at which the chief executive may publish any or all of the information that must be provided under section 90B:
   (h) providing for the keeping by a holder of a permit of cores, specimens, or samples obtained in the course of activities carried out under the permit and for the examination, taking, and retention of such cores, specimens, or samples by authorised persons:
   (i) prescribing matters in respect of which fees are to be payable under this Act, the amount of the fees, the time and manner of their payment, and the persons liable to pay them, and providing for charges for late payment of fees:
   (j) authorising the refund or remission of any fees payable under this Act:
