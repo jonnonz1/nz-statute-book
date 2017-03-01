@@ -1,5 +1,5 @@
 # Habeas Corpus Act 2001
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Habeas Corpus Act 2001.
@@ -42,7 +42,7 @@ An application to challenge the legality of a person's detention may be made by 
   (a) no party to the proceeding is entitled to general or special discovery of the documents of any other party to the proceeding or to an order for security for costs; and
   (b) the High Court Rules concerning discovery and inspection of documents and security for costs do not apply.
 (6) No fee is payable to the High Court for filing any document in respect of an application.
-(7) Section 51E of the Judicature Act 1908 does not apply in respect of the form and manner of any application made under this Act.
+(7) Section 153 of the Senior Courts Act 2016 does not apply in respect of the form and manner of any application made under this Act.
 
 ### 8 Description of defendant by reference only to office
 A defendant may be described in an application by reference only to the defendant's office if the defendant is—
@@ -85,8 +85,8 @@ A defendant may be described in an application by reference only to the defendan
 (5) If the constable is not in uniform and a person in actual occupation of the premises requires the constable to produce evidence of his or her authority, the constable must, before entering on the premises, produce his or her badge or other evidence of membership of the Police.
 
 ### 13 Powers if person detained is young person
-(1) In dealing with an application in relation to a detained person who is under the age of 18 years, the High Court may exercise the powers that are conferred on a Family Court by the Care of Children Act 2004.
-(2) If the substantive issue in an application is the welfare of a person under the age of 16 years, the High Court may, on its own initiative or at the request of a party to the proceeding, transfer the application to a Family Court.
+(1) In dealing with an application in relation to a detained person who is under the age of 18 years, the High Court may exercise the powers that are conferred on the Family Court by the Care of Children Act 2004.
+(2) If the substantive issue in an application is the welfare of a person under the age of 16 years, the High Court may, on its own initiative or at the request of a party to the proceeding, transfer the application to the Family Court.
 (3) An application referred under subsection (2) must be dealt with by the Family Court in all respects as if it were an application to that court under the Care of Children Act 2004.
 
 ### 14 Determination of applications
@@ -107,14 +107,14 @@ A defendant may be described in an application by reference only to the defendan
 To avoid doubt, an application for a writ of habeas corpus is a civil proceeding for the purposes of the Courts (Remote Participation) Act 2010.
 
 ### 15 Finality of determinations
-(1) Subject to the rights of appeal conferred by section 16 of this Act and to sections 7 to 10 of the Supreme Court Act 2003, the determination of an application is final and no further application can be made by any person either to the same or to a different Judge on grounds requiring a re-examination by the court of substantially the same questions as those considered by the court when the earlier application was refused.
+(1) Subject to the rights of appeal conferred by section 16 of this Act and to sections 68 to 71 of the Senior Courts Act 2016, the determination of an application is final and no further application can be made by any person either to the same or to a different Judge on grounds requiring a re-examination by the court of substantially the same questions as those considered by the court when the earlier application was refused.
 (2) A person who has been released from detention in accordance with a writ of habeas corpus must not be re-arrested or detained again on substantially the same grounds as those considered by the court when the earlier release was ordered.
 (3) Subsection (2) has no application if the ground on which the earlier release was ordered was a jurisdictional or procedural defect that has since been corrected or no longer applies.
 
 **Appeals by certain unsuccessful parties**
 
 ### 16 Certain unsuccessful parties may appeal
-(1) The provisions of the Judicature Act 1908 relating to appeals to the Court of Appeal against decisions of the High Court in civil cases—
+(1) The provisions of the Senior Courts Act 2016 relating to appeals to the Court of Appeal against decisions of the High Court in civil cases—
   (a) apply with respect to a determination refusing an application for the issue of a writ of habeas corpus; but
   (b) do not apply to a final determination that orders the release from detention of a detained person unless the substantive issue is the welfare of a person under the age of 16 years.
 (1A) With the leave of the Supreme Court, a party to the proceeding in which the determination was made may appeal to the Supreme Court—
@@ -146,8 +146,8 @@ It is declared for the avoidance of doubt that all writs of habeas corpus other 
 (2) This section does not limit or affect any power or authority of the High Court or the Court of Appeal or the Supreme Court to punish any person for contempt of court in any case to which this section does not apply.
 
 ### 20 Rules
-(1) Rules not inconsistent with this Act may be made under section 51C of the Judicature Act 1908 regulating the practice and procedure of the High Court and the Court of Appeal and the Supreme Court in relation to applications under this Act.
-(2) Without limiting subsection (1), rules may be made under section 51C of the Judicature Act 1908 that amend the form in the Schedule or replace the form.
+(1) Rules not inconsistent with this Act may be made under section 148 of the Senior Courts Act 2016 regulating the practice and procedure of the High Court and the Court of Appeal and the Supreme Court in relation to applications under this Act.
+(2) Without limiting subsection (1), rules may be made under section 148 of the Senior Courts Act 2016 that amend the form in the Schedule or replace the form.
 
 ### 21 Supplementary procedure
 If a matter arises in relation to an application for which this Act does not provide, the High Court must dispose of it as nearly as is practicable in a manner consistent with this Act, and to the extent that they are not inconsistent with this Act, in accordance with the High Court Rules 2016.
