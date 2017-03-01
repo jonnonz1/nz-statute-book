@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > Title
 
@@ -249,13 +249,13 @@ Where any inspection is carried out under section 6, the person who carries out 
 
 ### 9 Objections to WorkSafe's requirements
 (1) Every person who is affected by any notice given under section 6(4)﻿(b) or section 8(1), or any requirement made under section 8(2), may, within 15 working days after receiving the notice or being made subject to the requirement, object to that notice or requirement.
-(2) Every objection under subsection (1) shall be made by lodging a written notice of objection with the Registrar of the District Court nearest to the place where the notice was given or the requirement made, or, with the consent of WorkSafe, with the Registrar of any other District Court.
+(2) Every objection under subsection (1) shall be made by lodging a written notice of objection with the Registrar of the office of the District Court nearest to the place where the notice was given or the requirement made, or, with the consent of WorkSafe, with the Registrar of any other office of the District Court.
 (3) Every notice of objection shall specify the grounds of the objection.
 (4) The objector shall cause a copy of the notice of objection to be served on WorkSafe, either before or immediately after it is lodged with the Registrar.
 (5) The Registrar of the court shall give notice of the time and place fixed for the hearing of the objection to the objector and WorkSafe.
 
 ### 10 Effect of notice or requirement pending hearing
-Subject to section 13, where a notice of objection is lodged under section 9, the notice or requirement to which the notice of objection relates shall be suspended until an order is made by a District Court under section 11(2), or until the withdrawal of the objection or the withdrawal of the notice or requirement, whichever occurs first.
+Subject to section 13, where a notice of objection is lodged under section 9, the notice or requirement to which the notice of objection relates shall be suspended until an order is made by the District Court under section 11(2), or until the withdrawal of the objection or the withdrawal of the notice or requirement, whichever occurs first.
 
 ### 11 Procedure on hearing of objection
 (1) On the hearing of an objection under section 9, both the objector and WorkSafe, either personally or by their counsel, shall be entitled to be present and be heard.
@@ -263,7 +263,7 @@ Subject to section 13, where a notice of objection is lodged under section 9, th
 (3) Subject to section 12, every order made under subsection (2) shall be final.
 
 ### 12 Appeal on question of law
-(1) Where any party to an objection under section 9 is dissatisfied with the decision of a District Court on that objection as being erroneous in point of law, that party may appeal to the High Court on the question of law only.
+(1) Where any party to an objection under section 9 is dissatisfied with the decision of the District Court on that objection as being erroneous in point of law, that party may appeal to the High Court on the question of law only.
 (2) Subject to subsection (3), every appeal under this section shall be heard and determined in accordance with rules of court.
 (3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
 (4) Subject to section 13, where a notice of appeal is filed pursuant to this section, the notice or requirement to which the notice of appeal relates shall be suspended until the appeal has been determined or abandoned.
@@ -271,13 +271,13 @@ Subject to section 13, where a notice of objection is lodged under section 9, th
 ### 13 WorkSafe may require immediate compliance
 (1) Notwithstanding sections 10 and 12(4), where a notice of objection is lodged under section 9 by any person in respect of any notice or requirement, WorkSafe may advise the objector that WorkSafe considers the situation to be one involving immediate danger to life or property, and on being so advised the objector shall immediately take active steps to comply with that notice or requirement.
 (2) Every person commits an offence who fails to comply immediately with any notice or requirement to which subsection (1) applies, and every such person shall be liable on conviction to a fine not exceeding $1,000 for every day or part of a day that such failure continues.
-(3) Without limiting the liability of any person to be convicted of an offence against subsection (2), both the High Court and any District Court shall each have jurisdiction to restrain any contravention or threatened contravention of subsection (1) by injunction on the application of WorkSafe, and to make such order in the matter as to costs and otherwise as it thinks fit.
+(3) Without limiting the liability of any person to be convicted of an offence against subsection (2), both the High Court and the District Court shall each have jurisdiction to restrain any contravention or threatened contravention of subsection (1) by injunction on the application of WorkSafe, and to make such order in the matter as to costs and otherwise as it thinks fit.
 (4) No person shall be precluded by any contract or agreement from doing or refraining from doing any such acts as may be necessary to comply with the provisions of this section, or be liable under any contract or agreement to any penalty or forfeiture for doing or refraining from doing any such act.
 
 ### 14 Appeal against decision on application for injunction
-(1) A party to proceedings in a District Court on an application under section 13(3) may appeal to the High Court against any decision of the District Court.
-(1A) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
-(2) On the ex parte application of the appellant, the District Court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(1) A party to proceedings in the District Court on an application under section 13(3) may appeal to the High Court against any decision of the District Court.
+(1A) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
+(2) On the ex parte application of the appellant, the District Court may order that the appellant must not be required under section 126(1) of the District Court Act 2016 to give the Registrar of the High Court security for costs.
 (2A) Subsection (2) overrides subsection (1A).
 (3) A party to any appeal under subsection (1) may, with the leave of the Court of Appeal, appeal to the Court of Appeal against any determination of the High Court on a question of law arising in an appeal under that subsection.
 (4) On an appeal to the Court of Appeal under this section, the Court of Appeal shall have the same power to adjudicate on the proceeding as the High Court had.
@@ -442,14 +442,14 @@ Sections 23A to 23D do not limit or override any new or existing agreement that 
 (2) In addition to any fine imposed pursuant to subsection (1), the court may make such order relating to compensation as it thinks fit.
 
 ### 27 Appeals in relation to conditions imposed
-(1) An electricity operator shall have a right of appeal to a District Court against all or any of the conditions imposed pursuant to section 24(2) by—
+(1) An electricity operator shall have a right of appeal to the District Court against all or any of the conditions imposed pursuant to section 24(2) by—
   (a) the local authority or other body or person having jurisdiction over the road; or
   (b) the owner of any pipe, telecommunications line, or works.
 (2) Every such appeal shall be made by giving notice of appeal within 40 working days after the date of notification of the conditions imposed, or within such further period as the court may allow on application made to it for that purpose either before or after the expiration of those 40 working days.
 
 ### 28 Determination of appeals
-(1) In its determination of any appeal under section 27, a District Court may confirm or modify or cancel any or all of the conditions imposed.
-(2) Subject to section 29, the decision of a District Court in the determination of an appeal under section 27 shall be final.
+(1) In its determination of any appeal under section 27, the District Court may confirm or modify or cancel any or all of the conditions imposed.
+(2) Subject to section 29, the decision of the District Court in the determination of an appeal under section 27 shall be final.
 
 ### 29 Appeal on question of law
 (1) Where any party to any appeal under section 27 is dissatisfied with the decision of the District Court as being erroneous in point of law, that party may appeal to the High Court on the question of law only.
@@ -462,7 +462,7 @@ Sections 23A to 23D do not limit or override any new or existing agreement that 
 (3) In this section, the term road has the meaning given to it in section 2, but also includes a motorway within the meaning of the Government Roading Powers Act 1989.
 
 ### 31 Rights of entry in respect of level crossings
-(1) Where—the electricity operator may, upon giving the owner and occupier of the level crossing not less than 10 working days' notice of its intention to do so, apply to a District Court for an order under this section.
+(1) Where—the electricity operator may, upon giving the owner and occupier of the level crossing not less than 10 working days' notice of its intention to do so, apply to the District Court for an order under this section.
   (a) an electricity operator wishes to enter upon any level crossing for the purpose of constructing or maintaining any works in, on, along, over, across, or under that level crossing; and
   (b) after taking all reasonable steps to do so, the electricity operator has been unable to negotiate an agreement for entry,—
 (2) On being satisfied that the construction or maintenance of any works is necessary for the purposes of distributing electricity, and that the electricity operator has taken all reasonable steps to negotiate an agreement for entry, and that, in relation to the construction of any works, no practical alternative route or site exists, the court may make an order authorising the electricity operator to—
@@ -1001,7 +1001,7 @@ An individual is entitled to be registered under this subpart if the individual 
   (d) issue a unique identifier (for example, a registration number) to the applicant, and notify the applicant of that identifier.
 (2) If the Board is not satisfied that the applicant is entitled to be registered under this subpart, the Board must notify the applicant of—
   (a) the Board's decision; and
-  (b) the applicant's right of appeal to a District Court against the decision.
+  (b) the applicant's right of appeal to the District Court against the decision.
 (3) As soon as practicable after receiving the Board's direction under subsection (1), the Registrar must enter the details of the registration in the register.
 
 ### 97 Registration subject to terms and conditions
@@ -1053,7 +1053,7 @@ A registered person is entitled to be issued with a practising licence under thi
   (c) direct the Registrar to enter details of that person's practising licence in the register.
 (2) If the Board is not satisfied that the applicant is entitled to be issued with a practising licence under this subpart, the Board must notify the applicant of—
   (a) the Board's decision; and
-  (b) the applicant's right of appeal to a District Court against the decision.
+  (b) the applicant's right of appeal to the District Court against the decision.
 (3) As soon as practicable after receiving the Board's direction under subsection (1), the Registrar must enter the details of the practising licence in the register.
 
 ### 103 Practising licence subject to terms and conditions
@@ -1100,7 +1100,7 @@ A registered person is entitled to be issued with a practising licence under thi
   (c) enter details of the renewal in the register.
 (3) If the Board is not satisfied that the registered person is entitled to a renewal of his or her practising licence, the Board must notify the person of—
   (a) the Board's decision; and
-  (b) the person's right of appeal to a District Court against the decision.
+  (b) the person's right of appeal to the District Court against the decision.
 (4) For the purposes of subsection (1)﻿(c), the Board may, if it thinks fit, disregard a breach of a term or condition of the practising licence.
 (5) The Board may require a registered person to complete a competence programme before it renews that person's practising licence (regardless of whether or not the Board is satisfied of the matters referred to in subsection (1)﻿(a) to (d)) if the person is required to complete a competence programme when applying for a renewal of the licence in accordance with a condition or requirement imposed by a notice published under section 85.
 (6) Despite subsection (1), if any fee or other money payable to the Board under this Act by the registered person has not been paid, the Board may refuse to renew that person's practising licence until that fee or other money is paid.
@@ -1762,7 +1762,7 @@ In all proceedings under this Part, the Board may, subject to section 156, recei
 ## Part 12 — Appeals
 
 ### 147ZA Appeals
-(1) A person who is dissatisfied with the whole or any part of any of the following decisions, directions, or orders may appeal to a District Court against the decision, direction, or order:
+(1) A person who is dissatisfied with the whole or any part of any of the following decisions, directions, or orders may appeal to the District Court against the decision, direction, or order:
   (a) any decision of the Board to decline to register the person or to decline to issue a licence to the person or to decline to renew the licence of the person:
   (b) any decision of the Board to decline to issue a limited certificate under section 78 to the person or to decline to renew the limited certificate of the person:
   (c) any decision of the Board to suspend or cancel the person's registration or licence:
@@ -1774,28 +1774,28 @@ In all proceedings under this Part, the Board may, subject to section 156, recei
 ### 147ZB Time for lodging appeal
 An appeal under section 147ZA must be brought within—
   (a) 20 working days after notice of the decision, direction, or order was given to, or served on, the appellant; or
-  (b) any further time that a District Court may allow on application made before or after the expiration of that period.
+  (b) any further time that the District Court may allow on application made before or after the expiration of that period.
 
 ### 147ZC Procedure on appeal
 (1) Every appeal under section 147ZA must be heard as soon as practicable after the appeal is lodged.
 (2) On the hearing of an appeal under section 147ZA, the District Court may—
   (a) confirm, reverse, or modify the decision, direction, or order of the Board; or
   (b) give any decision, or make any direction or order, that the Board could have given or made in respect of the matter.
-(3) Nothing in this section gives a District Court power to review any part of the decision, direction, or order of the Board other than the part against which the appellant has appealed.
-(4) Subject to section 147ZH, the decision of a District Court on any appeal under section 147ZA is final.
+(3) Nothing in this section gives the District Court power to review any part of the decision, direction, or order of the Board other than the part against which the appellant has appealed.
+(4) Subject to section 147ZH, the decision of the District Court on any appeal under section 147ZA is final.
 
 ### 147ZD Court may refer appeals back for reconsideration
-(1) A District Court may in any case, instead of determining any appeal under section 147ZA, direct the Board to reconsider, either generally or in respect of any specified matters, the whole or any part of the matter to which the appeal relates.
+(1) The District Court may in any case, instead of determining any appeal under section 147ZA, direct the Board to reconsider, either generally or in respect of any specified matters, the whole or any part of the matter to which the appeal relates.
 (2) In giving any direction under subsection (1), the District Court must—
   (a) advise the Board of its reasons for so doing; and
   (b) give to the Board any directions it thinks just as to the whole or any part of the matter that is referred back for reconsideration.
 (3) In reconsidering any matter referred back to the Board under subsection (1), the Board must have regard to the District Court's reasons for giving a direction under that subsection, and to the court's directions under subsection (2).
 
 ### 147ZE Costs
-On any appeal under section 147ZA, a District Court may make an order for the payment, by the Board or the appellant, of the costs incurred in respect of the appeal by the other party to the appeal.
+On any appeal under section 147ZA, the District Court may make an order for the payment, by the Board or the appellant, of the costs incurred in respect of the appeal by the other party to the appeal.
 
 ### 147ZF Power of court to prohibit publication of person's name or affairs
-(1) On any appeal under section 147ZA, a District Court may, if in the court's opinion it is proper to do so having regard to the interests of any person and to the public interest, make an order prohibiting the publication of the name or particulars of the affairs of any person.
+(1) On any appeal under section 147ZA, the District Court may, if in the court's opinion it is proper to do so having regard to the interests of any person and to the public interest, make an order prohibiting the publication of the name or particulars of the affairs of any person.
 (2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who commits a breach of any order made under subsection (1) or evades or attempts to evade the order.
 
 ### 147ZG Decision to continue in force pending appeal
