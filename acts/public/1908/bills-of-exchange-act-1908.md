@@ -1,5 +1,5 @@
 # Bills of Exchange Act 1908
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to bills of exchange
 
@@ -661,6 +661,9 @@ For the purposes of this Act, where a bill or note is required to be protested w
 
 ### 96 Bill drawn at sight to be deemed a bill payable on demand
 Every bill of exchange or promissory note drawn and purporting to be payable at sight or on presentation shall be stamped as and shall for all purposes be deemed to be a bill of exchange or promissory note payable on demand without any days of grace, any law or custom to the contrary notwithstanding.
+
+### 96A Actions on other lost negotiable instruments
+Section 70 applies to a negotiable instrument that is not a bill in the same way as it applies to a bill.
 
 ### 97 Special provision in case of Maori
 [Repealed]
