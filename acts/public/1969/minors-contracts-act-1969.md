@@ -1,5 +1,5 @@
 # Minors' Contracts Act 1969
-_Consolidation as at 2014-04-23_
+_Consolidation as at 2017-03-01_
 
 > An Act to restate and reform the law relating to minors' contracts
 
@@ -9,7 +9,7 @@ _Consolidation as at 2014-04-23_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **court** means the High Court or a District Court that has jurisdiction under section 14 or a Disputes Tribunal that has jurisdiction under section 14A
+  - **court** means the High Court, or the District Court if it has jurisdiction under section 14, or the Disputes Tribunal if it has jurisdiction under section 14A
   - **minor** means a person who has not attained the age of 18 years; and a person is of if he or she has attained the age of 18 years
   - **property** means land, money, goods, things in action, goodwill, and every valuable thing, whether real or personal, and whether situated in New Zealand or elsewhere; and includes obligations, easements, and every description of estate, interest, and profit, present or future, vested or contingent, arising out of or incident to property.
 (2)
@@ -37,7 +37,7 @@ This Act shall bind the Crown.
   (c) any indenture of apprenticeship entered into under section 95 of the Defence Act 1990, section 222A of the Post Office Act 1959, section 83B of the Government Railways Act 1949, section 175B of the Coal Mines Act 1925, or section 70 of the State Services Act 1962; or
   (d) any agreement entered into under section 4A of the Maori Housing Amendment Act 1938.
 (5) Nothing in this section shall apply to—
-  (a) any contract approved by a District Court pursuant to section 9; or
+  (a) any contract approved by the District Court pursuant to section 9; or
   (b) the compromise or settlement of any claim for money or damages made by or on behalf of any minor (whether alone or in conjunction with any other person).
 
 ### 6 Contracts of minors
@@ -59,7 +59,7 @@ This Act shall bind the Crown.
   (d) the age and the means (if any) of the minor:
   (e) all other relevant circumstances.
 (4) Nothing in this section shall apply to—
-  (a) any contract approved by a District Court pursuant to section 9; or
+  (a) any contract approved by the District Court pursuant to section 9; or
   (b) the compromise or settlement of any claim for money or damages made by or on behalf of any minor (whether alone or in conjunction with any other person).
 (5) Nothing in this section shall limit or affect section 20 of the Trustee Act 1956.
 
@@ -77,13 +77,13 @@ This Act shall bind the Crown.
 (2) Any order made under subsection (2) of section 5 or subsection (2) of section 6 or pursuant to section 7, or any provision of any such order, may be made upon and subject to such terms and conditions as the court thinks fit.
 
 ### 9 Minor may enter into contract with approval of District Court
-(1) Every contract entered into by a minor shall have effect as if the minor were of full age if, before the contract is entered into by the minor, it is approved under this section by a District Court.
-(2) An application to a District Court under this section may be made—
+(1) Every contract entered into by a minor shall have effect as if the minor were of full age if, before the contract is entered into by the minor, it is approved under this section by the District Court.
+(2) An application to the District Court under this section may be made—
   (a) by the minor or any other person who will be a party to the proposed contract; or
   (b) by a guardian of the minor (if the minor is under 18 years of age).
 (3) The court may, in its discretion, refer any such application to a guardian of the minor, or, where the court deems it necessary for the purposes of the application, to a solicitor nominated by the court, or to Public Trust or the Māori Trustee, or to any other person, and may make such order as it thinks fit for the payment of the reasonable costs and expenses of any person to whom the application is so referred.
 (4) Any person to whom any such application is referred under subsection (3) may file a report in the District Court setting out the results of his consideration and examination of the application and making in respect thereof such recommendations as he thinks proper, and may appear and be heard at the hearing of the application; but no such person shall be under any obligation to consider or examine any such application until his reasonable costs and expenses have been paid or secured to his satisfaction.
-(5) A District Court shall not approve a contract under this section where the contract relates to property held on trust and the court is of the opinion that it is a case in which it would be more appropriate for an application to be made under section 64 or section 64A of the Trustee Act 1956.
+(5) The District Court shall not approve a contract under this section where the contract relates to property held on trust and the court is of the opinion that it is a case in which it would be more appropriate for an application to be made under section 64 or section 64A of the Trustee Act 1956.
 
 **Miscellaneous provisions**
 
@@ -108,10 +108,10 @@ Every contract of guarantee or indemnity whereby any person (other than a minor)
 (5) Upon any minor attaining the age of 18 years or marrying or entering into a civil union or a de facto relationship under that age while any amount is held on trust for his benefit under subsection (4), the balance of that amount and of the income therefrom remaining in the hands of the trustee shall be paid to the minor except in so far as the court may have ordered before the payment is made that the whole or any part of that amount shall continue to be held on trust under that subsection:
   provided that where the trustee has made an application or received notice that an application has been made to the court for such an order he shall not make any payment under this subsection until the application has been disposed of.
 (6)
-(7) For the purposes of this section the expression court of competent jurisdiction means a court (other than a Disputes Tribunal) in which proceedings could be taken to enforce the claim or, in the case of a claim that could not be the subject of proceedings in New Zealand, a court in which proceedings could be taken to enforce a similar claim in New Zealand.
+(7) For the purposes of this section the expression court of competent jurisdiction means a court (other than the Disputes Tribunal) in which proceedings could be taken to enforce the claim or, in the case of a claim that could not be the subject of proceedings in New Zealand, a court in which proceedings could be taken to enforce a similar claim in New Zealand.
 (8) Nothing in this section shall limit or affect—
   (a) the Deaths by Accidents Compensation Act 1952; or
-  (b) section 50 of the District Courts Act 1947; or
+  (b) section 98 of the District Court Act 2016; or
   (c) the Accident Compensation Act 2001; or
   (d) section 149(3A) of the Employment Relations Act 2000.
 
@@ -122,23 +122,23 @@ Every contract of guarantee or indemnity whereby any person (other than a minor)
   (b) the trustee; or
   (c) any other person who adduces proof of circumstances which in the opinion of the court make it proper that he should make the application.
 
-### 14 Jurisdiction of District Courts
-(1) A District Court shall have jurisdiction to exercise any of the powers conferred by any of the provisions of sections 5 to 7 in any case where—
+### 14 Jurisdiction of District Court
+(1) The District Court has jurisdiction to exercise any of the powers conferred by any of the provisions of sections 5 to 7 in any case where—
   (a) the occasion for the exercise of the power arises in the course of any civil proceedings (other than an application made for the purposes of subsection (2) of section 5 or subsection (2) of section 6) properly before the court; or
-  (b) the value of the consideration for the promise or act of any minor under the contract is not more than $200,000; or
-  (c) the parties agree, in accordance with section 37 of the District Courts Act 1947, that a District Court shall have jurisdiction to hear and determine the application.
-(2) For the purposes of section 43 of the District Courts Act 1947, an application made to a District Court pursuant to subsection (2) of section 5 or subsection (2) of section 6 shall be deemed to be an action.
+  (b) the value of the consideration for the promise or act of any minor under the contract is not more than $350,000; or
+  (c) the parties agree, in accordance with section 81 of the District Court Act 2016, that the District Court has jurisdiction to hear and determine the application.
+(2) For the purposes of sections 86 to 89 of the District Court Act 2016, an application made to the District Court pursuant to subsection (2) of section 5 or subsection (2) of section 6 shall be deemed to be an action.
 
-### 14A Jurisdiction of Disputes Tribunals
-(1) A Disputes Tribunal established under the Disputes Tribunals Act 1988 shall have jurisdiction to exercise the powers conferred by any of the provisions of sections 5 to 7 in any case where—
+### 14A Jurisdiction of Disputes Tribunal
+(1) The Disputes Tribunal established under the Disputes Tribunal Act 1988 has jurisdiction to exercise the powers conferred by any of the provisions of sections 5 to 7 in any case where—
   (a) the occasion for the exercise of the power arises in the course of proceedings properly before that Tribunal; and
   (b) subject to subsection (3), the total amount in respect of which an order of the Tribunal is sought does not exceed $15,000.
-(2) Subject to subsection (3), an order of a Disputes Tribunal under section 7 shall not—and an order of a Tribunal that exceeds any such restriction shall be entirely of no effect.
+(2) Subject to subsection (3), an order of the Disputes Tribunal under section 7 shall not—and an order of the Tribunal that exceeds any such restriction shall be entirely of no effect.
   (a) require a person to pay an amount exceeding $15,000:
   (b) declare a person not liable to another for an amount exceeding $15,000:
   (c) vest any property exceeding $15,000 in value in any person:
   (d) direct the transfer or assignment or delivery of possession of any such property—
-(3) Where, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunals Act 1988, subsections (1) and (2) shall be read as if every reference in those subsections to $15,000 were a reference to $20,000.
+(3) Where, in respect of any proceedings properly before the Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunal Act 1988, subsections (1) and (2) shall be read as if every reference in those subsections to $15,000 were a reference to $20,000.
 
 ### 15 Act to be a code
 (1) The provisions of this Act shall have effect in place of the rules of the common law and of equity relating to the contractual capacity of minors and to the effect, validity, avoidance, repudiation, and ratification of contracts entered into by minors and to any contract of guarantee or indemnity in respect of any such contract.
@@ -151,8 +151,8 @@ Every contract of guarantee or indemnity whereby any person (other than a minor)
   (a) a trustee to pay money or deliver property to a minor otherwise than in accordance with the terms of the trust:
   (b) a minor to enter into an agreement whereby a trust is extinguished or the terms of a trust are varied:
   provided that nothing in this subsection shall prevent any contract approved pursuant to section 9 or subsection (2) from having effect according to its tenor.
-(2) Every agreement entered into by a minor who is or has been married, in a civil union, or in a de facto relationship whereby a trust is extinguished or the terms of a trust are varied shall have effect as if the minor were of full age if, before the agreement is entered into by the minor, it is approved under this subsection by a District Court.
-(3) An application to a District Court under subsection (2) may be made by the minor or any other person who will be a party to the proposed agreement, or by the trustee or trustees of the trust.
+(2) Every agreement entered into by a minor who is or has been married, in a civil union, or in a de facto relationship whereby a trust is extinguished or the terms of a trust are varied shall have effect as if the minor were of full age if, before the agreement is entered into by the minor, it is approved under this subsection by the District Court.
+(3) An application to the District Court under subsection (2) may be made by the minor or any other person who will be a party to the proposed agreement, or by the trustee or trustees of the trust.
 (4) Subsections (3) to (5) of section 9, with any necessary modifications, shall apply to applications under this section.
 
 ### 17 Insurances by minors and dealings by minors with policies
