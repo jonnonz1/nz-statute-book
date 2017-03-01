@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -674,7 +674,7 @@ If an appeal is brought against any decision or order of the Rulings Panel, the 
 
 ### 71 Appeal to Court of Appeal in certain cases
 (1) Any party to an appeal before the High Court under this Part who is dissatisfied with a decision or order of the High Court, may, with the leave of the High Court or of the Court of Appeal, appeal to the Court of Appeal.
-(2) Section 66 of the Judicature Act 1908 applies to the appeal.
+(2) Section 56 of the Senior Courts Act 2016 applies to the appeal.
 (3) In determining whether to grant leave to appeal under this section, the court to which the application for leave is made must have regard to the following matters:
   (a) whether any question of law or general principle is involved:
   (b) the importance of the issues to the parties:
@@ -950,17 +950,17 @@ The dispute resolution scheme may resolve disputes between members of the disput
 
 ### 97 Compliance with rules and binding settlements
 (1) Members of the dispute resolution scheme must comply with the rules of the scheme.
-(2) On the application of the person responsible for the dispute resolution scheme, a District Court may require a member of the scheme to do any of the following:
+(2) On the application of the person responsible for the dispute resolution scheme, the District Court may require a member of the scheme to do any of the following:
   (a) comply with the rules of the scheme:
   (b) comply with a binding settlement determined by the scheme in response to a complaint:
   (c) comply with a binding settlement determined by the scheme in an indemnity dispute.
-(3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court's order under subsection (2)﻿(b) may modify the terms of the binding settlement, but only to the extent that the modification results in a binding settlement that could have been made under the dispute resolution scheme.
-(4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.
+(3) If the District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court's order under subsection (2)﻿(b) may modify the terms of the binding settlement, but only to the extent that the modification results in a binding settlement that could have been made under the dispute resolution scheme.
+(4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by the District Court for the payment of a sum of money.
 (5) A reference in this section to a member includes a reference to a person who was a member of the dispute resolution scheme at the relevant time but is no longer a member at the time of the application or order.
 
 ### 98 Offence to fail to comply with District Court order
 (1) A member or former member of the dispute resolution scheme who, knowing that the member or former member is subject to an order made under section 97, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on conviction to a fine not exceeding $100,000.
-(2) Nothing in this section applies to an order or part of an order of a District Court referred to in section 97(4).
+(2) Nothing in this section applies to an order or part of an order of the District Court referred to in section 97(4).
 
 ### Subpart 2 — Financial statements of customer and community trusts
 
@@ -1434,7 +1434,7 @@ Unless the context otherwise requires, a reference in any agreement, contract, o
 Sections 146 to 156 amend the Commerce Act 1986.
 
 ### 146 Interpretation
-(1) Section 2(1) is amended by inserting the following definition in its appropriate alphabetical order:.
+(1) Section 2(1) is amended by inserting the following definition in its appropriate alphabetical order:
   - **Authority** means the Electricity Authority established under the Electricity Industry Act 2010
 (2) Section 2(1) is amended by repealing the definition of Electricity Commission.
 
@@ -1461,7 +1461,7 @@ Section 54B is amended by adding the following subsection as subsection (2):
 
 ### 151 Definition of consumer-owned
 (1) Section 54D(1)﻿(a) is amended by omitting section 3 of the Electricity Industry Reform Act 1998 and substituting clause 6 of Schedule 2 of the Electricity Industry Act 2010.
-(2) Section 54D(1) is amended by repealing paragraph (b) and substituting the following paragraph:.
+(2) Section 54D(1) is amended by repealing paragraph (b) and substituting the following paragraph:
   (b) the trustees of each customer trust or community trust, or the committee of shareholders of each customer co-operative, as the case may be, that is referred to in paragraph (a) are elected by the persons who are consumers of the supplier in accordance with subsections (2A) to (2C); and
 (3) Section 54D is amended by inserting the following subsections after subsection (2):
   (2A) The requirements in respect of elections for the purposes of subsection (1)﻿(b) are as follows:
@@ -1570,7 +1570,7 @@ Sections 162 to 164 amend the Electricity Act 1992.
 Section 1A is amended by repealing paragraph (b).
 
 ### 162 Interpretation
-(1) Section 2(1) is amended by repealing the definition of electrical installation and substituting the following definition:.
+(1) Section 2(1) is amended by repealing the definition of electrical installation and substituting the following definition:
   - **electrical installation** —
     (a) means—
       (i) in relation to a property with a point of supply, all fittings beyond the point of supply that form part of a system that is used to convey electricity to a point of consumption, or used to generate or store electricity; and
