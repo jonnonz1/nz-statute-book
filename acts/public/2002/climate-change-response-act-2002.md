@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2017-01-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -2279,7 +2279,7 @@ At any time after an emissions ruling is made, the EPA may, by notice, require a
 (2) An emissions ruling does not come into effect if any information on which it is based is not accurate in all material respects.
 
 ### 115 Appeal from decisions of EPA
-(1) An applicant who is dissatisfied with an emissions ruling, or a decision to decline to make an emissions ruling, may, within 20 working days of the date on which notice of the ruling or decision is given, appeal to a District Court against the ruling or decision.
+(1) An applicant who is dissatisfied with an emissions ruling, or a decision to decline to make an emissions ruling, may, within 20 working days of the date on which notice of the ruling or decision is given, appeal to the District Court against the ruling or decision.
 (2) The District Court may confirm, reverse, or modify the emissions ruling or decision appealed against.
 (3) An emissions ruling or decision appealed against under this section continues in force pending the determination of the appeal, and no person is excused from complying with any of the provisions of this Act on the ground that any appeal is pending.
 
@@ -2619,7 +2619,7 @@ If a body corporate is convicted of an offence under this Part, every director a
 (8) This section does not apply to any decision that the EPA makes under section 90 or of the EPA in relation to emissions rulings (including a decision to decline making a ruling) under sections 107 to 117.
 
 ### 145 Right of appeal to District Court
-(1) A person has a right of appeal to a District Court if affected by a decision of the EPA under section 144.
+(1) A person has a right of appeal to the District Court if affected by a decision of the EPA under section 144.
 (2) The court may confirm, reverse, or modify the decision appealed against.
 (3) Every decision appealed against under this section continues in force pending the determination of the appeal, and no person is excused from complying with any of the provisions of this Act on the ground that any appeal is pending.
 
