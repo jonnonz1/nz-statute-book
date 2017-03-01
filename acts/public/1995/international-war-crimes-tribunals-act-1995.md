@@ -1,5 +1,5 @@
 # International War Crimes Tribunals Act 1995
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2017-03-01_
 
 > An Act to provide for New Zealand to assist—athe International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991; andbthe International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan citizens responsible for genocide and other such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994; andcother ad hoc tribunals that may be established by the Security Council of the United Nations under chapter VII of the Charter of the United Nations for the prosecution of violations of international humanitarian law—in the performance of their functions
 
@@ -321,7 +321,7 @@ While a Tribunal is sitting in New Zealand, it may exercise such powers that the
 (2) Evidence given by a person on oath or affirmation administered by the Tribunal under subsection (1) shall, for the purposes of section 108 of the Crimes Act 1961 (which relates to perjury), be deemed to have been given as evidence in a judicial proceeding on oath.
 
 ### 39 Orders made by Tribunal not subject to review
-No application for review under Part 1 of the Judicature Amendment Act 1972 and no application for an order of mandamus or prohibition or certiorari or for a declaration or injunction may be brought in respect of any judgment or order or determination of a Tribunal made or given at a sitting of the Tribunal in New Zealand.
+No application for review under the Judicial Review Procedure Act 2016 and no application for an order of mandamus or prohibition or certiorari or for a declaration or injunction may be brought in respect of any judgment or order or determination of a Tribunal made or given at a sitting of the Tribunal in New Zealand.
 
 ### 40 Contempt of Tribunal
 (1) Every person commits an offence who, at any sitting of a Tribunal in New Zealand,—
