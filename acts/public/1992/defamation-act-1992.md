@@ -1,5 +1,5 @@
 # Defamation Act 1992
-_Consolidation as at 2014-08-08_
+_Consolidation as at 2017-03-01_
 
 > An Act to amend the law relating to defamation and other malicious falsehoods
 
@@ -16,7 +16,7 @@ _Consolidation as at 2014-08-08_
     (b) a librarian
   - **Judge** , in Parts 2, 3, and 4, means,—
     (a) in the case of any proceedings before the High Court, a Judge of that court:
-    (b) in the case of any proceedings before a District Court, a Judge of that court
+    (b) in the case of any proceedings before the District Court, a Judge of that court
   - **news medium** means a medium for the dissemination, to the public or to a section of the public, of news, or observations on news, or advertisements
   - **newspaper** means a paper—that is published, in New Zealand or elsewhere, periodically at intervals not exceeding 3 months
     (a) containing news or observations on news; or
@@ -143,9 +143,9 @@ In any proceedings for defamation against any person who has published the matte
 It is a defence to proceedings for defamation if the defendant alleges and proves that the plaintiff consented to the publication of the matter that is the subject of the proceedings.
 
 ### 23 Evidence of adequacy of redress
-(1) In proceedings for defamation, it is evidence of the reasonableness of a letter or statement by way of explanation or contradiction under section 18(2)(a), or of a retraction or statement of explanation or rebuttal, or of both explanation and rebuttal, under section 25, that the party by whom it was proposed has offered to have any issues as to its content or presentation determined, in chambers, by a Judge.
+(1) In proceedings for defamation, it is evidence of the reasonableness of a letter or statement by way of explanation or contradiction under section 18(2)﻿(a), or of a retraction or statement of explanation or rebuttal, or of both explanation and rebuttal, under section 25, that the party by whom it was proposed has offered to have any issues as to its content or presentation determined, in chambers, by a Judge.
 (2) In proceedings for defamation, it is evidence of the unreasonableness of any such statement, letter, or retraction that the party by whom it was proposed has refused an offer by any other party to have any issues as to its content or presentation determined, in chambers, by a Judge.
-(3) Any issue as to the content or presentation of a letter or statement by way of explanation or contradiction under section 18(2)(a), or of a retraction or statement of explanation or rebuttal, or of both explanation and rebuttal, under section 25, may, on the application of any person, be determined, in chambers, by a Judge.
+(3) Any issue as to the content or presentation of a letter or statement by way of explanation or contradiction under section 18(2)﻿(a), or of a retraction or statement of explanation or rebuttal, or of both explanation and rebuttal, under section 25, may, on the application of any person, be determined, in chambers, by a Judge.
 
 ## Part 3 — Remedies
 
@@ -269,7 +269,7 @@ In any proceedings for defamation, where the defendant alleges that, in so far a
   (b) the plaintiff intends to allege, in relation to any opinion contained in the matter that is the subject of the proceedings,—the plaintiff shall serve on the defendant a notice to that effect.
     (i) where the opinion is that of the defendant, that the opinion was not the genuine opinion of the defendant; or
     (ii) where the opinion is that of a person other than the defendant, that the defendant had reasonable cause to believe that the opinion was not the genuine opinion of that person,—
-(2) If the plaintiff intends to rely on any particular facts or circumstances in support of any allegation to which subsection (1)(b)(i) or (ii) applies, the notice required by that subsection shall include particulars specifying those facts and circumstances.
+(2) If the plaintiff intends to rely on any particular facts or circumstances in support of any allegation to which subsection (1)﻿(b)﻿(i) or (ii) applies, the notice required by that subsection shall include particulars specifying those facts and circumstances.
 (3) The notice required by subsection (1) shall be served on the defendant within 10 working days after the defendant's statement of defence is served on the plaintiff, or within such further time as the court may allow on application made to it for that purpose either before or after the expiration of those 10 working days.
 
 ### 40 Truth and honest opinion to be pleaded separately
@@ -315,10 +315,10 @@ The commencement of proceedings to recover damages for defamation shall be deeme
 (3) In this section publication has the same meaning as in section 46.
 
 ### 48 Consolidation of actions on application of defendants
-(1) The High Court, on the application of the defendants in any 2 or more proceedings for defamation commenced in that court or in a District Court by the same person in respect of the publication of the same or substantially the same matter, may make an order for the consolidation of those proceedings so that they may be tried together.
+(1) The High Court, on the application of the defendants in any 2 or more proceedings for defamation commenced in that court or in the District Court by the same person in respect of the publication of the same or substantially the same matter, may make an order for the consolidation of those proceedings so that they may be tried together.
 (2) Where any order is made under subsection (1) in respect of any proceedings for defamation, any defendant in any other proceedings for defamation commenced in respect of the same or substantially the same matter shall be entitled, at any time before the trial of the consolidated proceedings, on making a joint application with the defendants in those proceedings, to be joined in common proceedings with those defendants.
 (3) Proceedings that are consolidated under this section shall be tried in the High Court, and shall be tried at such time and place as the High Court may order.
-(4) Where any of the proceedings that are consolidated under this section have been commenced in a District Court, the order consolidating the proceedings shall be deemed to be also an order for their removal into the High Court.
+(4) Where any of the proceedings that are consolidated under this section have been commenced in the District Court, the order consolidating the proceedings shall be deemed to be also an order for their removal into the High Court.
 (5) In any proceedings that have been consolidated under this section, the following provisions shall apply:
   (a) the Judge or jury shall assess in one sum the whole amount of any damages that may be awarded:
   (b) notwithstanding paragraph (a), a separate verdict shall be given for or against each defendant in the same way as if the proceedings consolidated had been tried separately:
@@ -392,7 +392,7 @@ Subject to any provision to the contrary in any other enactment, the publication
 ### 5
 The publication of a fair and accurate report of the pleadings of the parties in any proceedings before any court in New Zealand, at any time after,—
 (a) in the case of proceedings before the High Court, a praecipe has been filed in those proceedings:
-(b) in the case of proceedings before a District Court, the filing of an application for a fixture for the hearing of those proceedings.
+(b) in the case of proceedings before the District Court, the filing of an application for a fixture for the hearing of those proceedings.
 
 ### 6
 The publication of a fair and accurate report of the proceedings of any court in New Zealand (whether those proceedings are preliminary, interlocutory, or final, and whether in open court or not), or of the result of those proceedings.
