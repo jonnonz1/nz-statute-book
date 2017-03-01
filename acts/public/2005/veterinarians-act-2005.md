@@ -1,5 +1,5 @@
 # Veterinarians Act 2005
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Veterinarians Act 2005.
@@ -736,9 +736,9 @@ For the purposes of a competence assessment, the Council may inspect a specified
 **Appeals**
 
 ### 64 Right of appeal
-(1) Any person may appeal to a District Court against any decision of the Council to decline to register the person.
-(2) A veterinarian may appeal to a District Court against any decision of the Council to decline to register the veterinarian as a specialist.
-(3) A specified person may appeal to a District Court against any decision of the Council to—
+(1) Any person may appeal to the District Court against any decision of the Council to decline to register the person.
+(2) A veterinarian may appeal to the District Court against any decision of the Council to decline to register the veterinarian as a specialist.
+(3) A specified person may appeal to the District Court against any decision of the Council to—
   (a) decline to issue a practising certificate to the person; or
   (b) suspend or cancel his or her registration; or
   (c) suspend or cancel his or her practising certificate; or
