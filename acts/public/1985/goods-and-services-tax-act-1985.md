@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2016-10-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -2444,7 +2444,7 @@ Section HD 15 of the Income Tax Act 2007, with any necessary modifications, appl
   (b) where the alteration in the law renders the fee, charge, or other amount prescribed by, or determined pursuant to, that Act or regulation exempt from tax or reduces the amount of tax charged or chargeable, the said fee, charge, or other amount so prescribed or determined shall be exempted from tax or reduced by the amount of tax no longer charged or chargeable:
   provided that where any such Act or regulation prescribes or determines either a maximum or a minimum amount in respect of any supply of goods and services, that maximum or, as the case may be, minimum amount shall, for the purposes of any such Act or regulation, be deemed to be increased or, as the case may be, decreased, by the amount of tax charged or, as the case may be, tax no longer charged by virtue of this subsection:
   provided further that this subsection shall not apply to any fee, charge, or other amount prescribed or determined which is required by virtue of that Act or regulation to be paid by any public authority to any person other than a public authority.
-(4) Where any alteration in the law takes place so as to operate retrospectively from any date, this section shall also apply retrospectively in the same manner and from the same date, and section 94A(1) of the Judicature Act 1908 shall apply to any money paid by a recipient to a supplier in excess of the amount which by virtue of the application of this section is properly payable in respect of that agreement, contract, Act or regulation, notwithstanding section 94A(2) of the Judicature Act 1908.
+(4) Where any alteration in the law takes place so as to operate retrospectively from any date, this section shall also apply retrospectively in the same manner and from the same date, and section 74A(1) of the Property Law Act 2007 shall apply to any money paid by a recipient to a supplier in excess of the amount which by virtue of the application of this section is properly payable in respect of that agreement, contract, Act or regulation, notwithstanding section 74A(2) of the Property Law Act 2007.
 (5) Where any supply is or becomes charged with tax pursuant to this Act, the amount of any increase in consideration in respect of that supply attributable to the tax charged on that supply shall be recoverable by the supplier from the recipient of the taxable supply.
 (6) This section does not apply to a supply of services that is treated by section 8(4B) as being made in New Zealand.
 
