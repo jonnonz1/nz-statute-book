@@ -1,5 +1,5 @@
 # Industry Training and Apprenticeships Act 1992
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2017-03-01_
 
 > Title
 
@@ -547,9 +547,9 @@ Every person who receives commercially sensitive information for the purposes of
 (2) The industry training organisation that is proposing to impose a levy or, if a levy order has been made, that is responsible for administering the levy must pay the reasonable costs of the Commission for determining disputes.
 
 ### 50 Appeals to District Court
-(1) If a dispute is unresolved following arbitration or mediation in accordance with the method specified in the levy order, or if a party wishes to appeal a decision of an arbitrator or mediator, the dispute may be referred, or the decision may be appealed, to a District Court.
+(1) If a dispute is unresolved following arbitration or mediation in accordance with the method specified in the levy order, or if a party wishes to appeal a decision of an arbitrator or mediator, the dispute may be referred, or the decision may be appealed, to the District Court.
 (2) A determination by the Commission under section 49 may be appealed on grounds of procedural error only.
-(3) An appeal under subsection (2) may be made to a District Court by the person disputing membership of the levy group or by the industry training organisation that is proposing to impose, or responsible for administering, the levy.
+(3) An appeal under subsection (2) may be made to the District Court by the person disputing membership of the levy group or by the industry training organisation that is proposing to impose, or responsible for administering, the levy.
 
 **Confirmation and expiry of orders**
 
