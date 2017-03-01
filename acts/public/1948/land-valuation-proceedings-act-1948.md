@@ -1,5 +1,5 @@
 # Land Valuation Proceedings Act 1948
-_Consolidation as at 2002-01-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to provide for the constitution of a Land Valuation Court, and to define the jurisdiction, powers, and procedure of the court; and for matters incidental thereto
 
@@ -88,7 +88,7 @@ It shall not only be the duty of the court to sit as a judicial body for the det
 The Judge of the court may, on the application of any party to any proceedings before the court, or of his own motion, state a case for the opinion of the Court of Appeal on any question of law arising in the proceedings.
 
 ### 18A Appeal to Court of Appeal in certain cases
-(1) Notwithstanding anything in any enactment, any party to any proceedings before the court who is dissatisfied with any award or order of the court may, with the leave of the court or of the Court of Appeal, appeal to the Court of Appeal; and section 66 of the Judicature Act 1908 shall apply to any such appeal.
+(1) Notwithstanding anything in any enactment, any party to any proceedings before the court who is dissatisfied with any award or order of the court may, with the leave of the court or of the Court of Appeal, appeal to the Court of Appeal; and section 56 of the Senior Courts Act 2016 shall apply to any such appeal.
 (2) In determining whether to grant leave to appeal under this section, the court to which the application for leave is made shall have regard to the following matters:
   (a) whether any question of law or general principle is involved:
   (b) the importance of the issues to the parties:
@@ -132,7 +132,7 @@ Before entering upon the exercise of the duties of their office the members and 
 
 ### 21 Filing of claims and other matters
 (1) Subject to subsection (2), every claim, objection, application, or other proceeding shall be filed in the appropriate office of the District Court.
-(2) Every objection to a valuation made by the Valuer-General shall be lodged with the Valuer-General. Where under the provisions of the Rating Valuations Act 1998 the Valuer-General files in a District Court a list of objections to be determined by the Land Valuation Tribunal, he shall also file therewith a copy of every objection set out in the list.
+(2) Every objection to a valuation made by the Valuer-General shall be lodged with the Valuer-General. Where under the provisions of the Rating Valuations Act 1998 the Valuer-General files in the District Court a list of objections to be determined by the Land Valuation Tribunal, he shall also file therewith a copy of every objection set out in the list.
 (3) Every claim, objection, application, or other proceeding shall contain or be accompanied by such particulars, information, or documents as may be prescribed or as may be required by the Land Valuation Tribunal.
 (4) Any claim, objection, application, or other proceeding may be amended by the Land Valuation Tribunal of its own motion or on the application of any person interested in the proceedings, at any time before the proceedings are finally determined, and upon or subject to such conditions as the Tribunal thinks fit.
 
@@ -230,7 +230,7 @@ The Land Valuation Tribunal may at any time dismiss any claim, objection, applic
 (2) This section shall bind the Crown.
 
 ### 38 Enforcement of orders
-For the purpose of enforcing any order of a Land Valuation Tribunal (other than an award on a claim for compensation under the Public Works Act 1981), a copy of the order signed by the District Court Judge who is the Chairman of the Tribunal may be filed upon payment of such fee as may be prescribed in any office of the High Court or of a District Court, as the Tribunal directs, whereupon the order shall have the effect of a judgment of the High Court or of the District Court, as the case may be, and may be enforced accordingly.
+For the purpose of enforcing any order of a Land Valuation Tribunal (other than an award on a claim for compensation under the Public Works Act 1981), a copy of the order signed by the District Court Judge who is the Chairman of the Tribunal may be filed upon payment of such fee as may be prescribed in any office of the High Court or of the District Court, as the Tribunal directs, whereupon the order shall have the effect of a judgment of the High Court or of the District Court, as the case may be, and may be enforced accordingly.
 
 ### 39 Members of court or of Land Valuation Tribunals not to be deemed to be public servants
 No person shall be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or of the Government Superannuation Fund Act 1956 by reason of his being a member of the court or of any Land Valuation Tribunal.
