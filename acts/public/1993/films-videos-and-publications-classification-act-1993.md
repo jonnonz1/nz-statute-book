@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2015-05-07_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -1094,8 +1094,8 @@ An application under section 109 or section 109A or section 109B may be made by 
 [Repealed]
 
 ### 115 Summons to be issued
-(1) Subject to section 136(2), where any publication is seized under section 108, a summons shall be issued calling on the person from whom it was seized to appear before a District Court presided over by a District Court Judge to show cause why the publication should not be destroyed.
-(2) Subject to section 136(2), where any publication is seized under a search warrant, a summons shall be issued calling on the owner or occupier of the place or thing searched to appear before a District Court presided over by a District Court Judge to show cause why the publication should not be destroyed.
+(1) Subject to section 136(2), where any publication is seized under section 108, a summons shall be issued calling on the person from whom it was seized to appear before the District Court presided over by a District Court Judge to show cause why the publication should not be destroyed.
+(2) Subject to section 136(2), where any publication is seized under a search warrant, a summons shall be issued calling on the owner or occupier of the place or thing searched to appear before the District Court presided over by a District Court Judge to show cause why the publication should not be destroyed.
 (3) It shall not be necessary to issue a summons under subsection (1) or subsection (2) in respect of any publication that the Classification Office or the Board has classified as an unrestricted publication or as a restricted publication.
 
 ### 116 Disposal of publications seized
