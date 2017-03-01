@@ -1,5 +1,5 @@
 # Cook Islands Act 1915
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to make better provision with respect to the government and laws of the Cook Islands
 
@@ -55,7 +55,7 @@ Each island forming part of the Cook Islands shall for all purposes be deemed to
 ### 6 Secretary for the Cook Islands
 [Repealed]
 
-### 7 Officers agsisting the Secretary
+### 7 Officers assisting the Secretary
 [Repealed]
 
 ### 8 Secretary and other officers belonging to New Zealand Public Service
@@ -85,7 +85,7 @@ Each island forming part of the Cook Islands shall for all purposes be deemed to
 ### 16 Regulations as to Cook Islands Public Service
 [Repealed]
 
-### 17 Payment from Publio Aooount and Cook Islands Treasury
+### 17 Payment from Public Account and Cook Islands Treasury
 [Repealed]
 
 ### 18 Appointment of acting officers by Resident Commissioner
@@ -644,7 +644,7 @@ Any proceedings in the High Court of New Zealand in the jurisdiction conferred o
 **Miscellaneous**
 
 ### 175 Commissioners of the High Court may be appointed in the Cook Islands
-Sections 47 to 49 of the Judicature Act 1908 (relating to Commissioners to administer oaths) shall in New Zealand be construed and operate as if the Cook Islands were a place beyond the jurisdiction of the High Court within the meaning of section 47 aforesaid, and Commissioners in the Cook Islands may be appointed by a Judge of the High Court accordingly.
+Sections 30 to 32 of the Senior Courts Act 2016 (relating to Commissioners to administer oaths) shall in New Zealand be construed and operate as if the Cook Islands were a place beyond the jurisdiction of the High Court of New Zealand, and Commissioners in the Cook Islands may be appointed by a Judge of the High Court of New Zealand accordingly.
 
 ## Part 5 — Criminal offences
 
@@ -1255,7 +1255,7 @@ Any person in lawful custody on any ground whatever in any island forming part o
   (b) every reference in that Act to the Court, or to the High Court or a Judge thereof, or to a District Court Judge or Justice, shall be read as a reference to the High Court of the Cook Islands or a Judge of that Court:
   (c) every reference in that Act to the Minister of Justice shall be read, in relation to the Cook Islands, as a reference to the Minister in Charge of the Justice Department of the Cook Islands:
   (d) the reference in the definition of the expression extradition offence in subsection (1) of section 2 of that Act to the crimes described in Schedule 1 to that Act shall be read as a reference to such of the criminal offences described in Part 5 of this Act as correspond to the crimes described in Part 1 of that Schedule, and also as a reference to such of the enactments specified in Part 2 of that Schedule as are in force in the Cook Islands:
-  (e) the references in subsection (2) of section 2 of that Act to sections 310, 311, and 312 of the Crimes Act 196 shall be read as references to sections 263, 264, 265, 268, and 268B of this Act, as the case may require:
+  (e) the references in subsection (2) of section 2 of that Act to sections 310, 311, and 312 of the Crimes Act 1961 shall be read as references to sections 263, 264, 265, 268, and 268B of this Act, as the case may require:
   (f) the references in subsections (3) and (4) of section 5 of that Act (as amended by section 5(2) of the Criminal Justice Amendment Act 1969) to Part 5A of the Criminal Justice Act 1954 and Part 4 of the Mental Health Act 1969 shall be read as references to sections 591 and 593 of this Act, as the case may require:
   (g) the references in sections 8 and 15 of that Act to the preliminary hearing of an information for an indictable offence shall be read as references to the trial of an offence punishable by the High Court in the ordinary course of its criminal jurisdiction and procedure:
   (h) the reference in section 8 of that Act to the Summary Proceedings Act 1957 shall be read as a reference to this Act, and the reference in that section (as amended by section 5(2) of the Criminal Justice Amendment Act 1969) to Part 5A of the Criminal Justice Act 1954 shall be construed as a reference to sections 590, 592, and 593 of this Act:
@@ -1359,7 +1359,7 @@ Any person in lawful custody on any ground whatever in any island forming part o
 ### 379 Applications to Court
 [Repealed]
 
-### 380 Exercise of supplementray jurisdiction
+### 380 Exercise of supplementary jurisdiction
 [Repealed]
 
 ### 381 Powers of Judges
