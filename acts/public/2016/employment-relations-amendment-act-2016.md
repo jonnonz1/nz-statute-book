@@ -1,5 +1,5 @@
 # Employment Relations Amendment Act 2016
-_Consolidation as at 2016-03-17_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Employment Relations Amendment Act 2016.
@@ -163,7 +163,7 @@ After section 135(5), insert:
 
 ### 14 New section 135A inserted (Chief executive or Labour Inspector may enforce payment of penalty)
 After section 135, insert:Chief executive or Labour Inspector may enforce payment of penalty
-  The chief executive or a Labour Inspector may recover in a District Court as a debt due to the Crown any penalty ordered by the Authority or the court under section 135 to be paid to the Crown.
+  The chief executive or a Labour Inspector may recover in the District Court as a debt due to the Crown any penalty ordered by the Authority or the court under section 135 to be paid to the Crown.
 
 ### 15 Section 139 amended (Power of court to order compliance)
 (1) After section 139(1), insert:
@@ -248,7 +248,7 @@ After section 142, insert:Additional provisions relating to enforcement of emplo
     (b) in the case of a body corporate, the greater of—
       (i) $100,000; or
       (ii) 3 times the amount of the financial gain made by the body corporate from the breach.
-  The chief executive or a Labour Inspector may recover in a District Court as a debt due to the Crown any pecuniary penalty ordered by the court under section 142E.
+  The chief executive or a Labour Inspector may recover in the District Court as a debt due to the Crown any pecuniary penalty ordered by the court under section 142E.
   An application for a pecuniary penalty order under this Part must be made within 12 months after the earlier of—
     (a) the date when the breach first became known to a Labour Inspector; and
     (b) the date when the breach should reasonably have become known to a Labour Inspector.
@@ -301,7 +301,7 @@ After section 142, insert:Additional provisions relating to enforcement of emplo
       (iii) the period or dates for which the order applies.
   (2) A person intending to apply for the leave of the court under section 142N(2) must give the chief executive at least 10 working days’ written notice of that intention.
   (3) The department, and any other person the court thinks fit, may attend and be heard at the hearing of an application for leave.
-  A person who breaches a banning order commits an offence and is liable on conviction by a District Court or the High Court to a fine not exceeding $200,000, a term of imprisonment not exceeding 3 years, or both.
+  A person who breaches a banning order commits an offence and is liable on conviction by the District Court or the High Court to a fine not exceeding $200,000, a term of imprisonment not exceeding 3 years, or both.
   To avoid doubt, in proceedings under this Part for a declaration of breach, pecuniary penalty order, compensation order, or banning order, the standard of proof is the standard of proof that applies in civil proceedings.
   (1) The court may make one kind of order under this Part against a person even though the court has made another kind of order, whether under this Part or another Part, against the person in relation to the same breach.
   (2) Without limiting subsection (1) and by way of example,—
@@ -420,7 +420,7 @@ After section 212(2), insert:
 After section 214, insert:Appeals against decisions under Part 9A
   (1) A party to a proceeding for a declaration of breach, pecuniary penalty order, compensation order, or banning order under Part 9A who is dissatisfied with the decision of the court may appeal to the Court of Appeal against the decision on a question of fact or law, or both.
   (2) An appeal under subsection (1) does not require the leave of the Court of Appeal.
-  (3) Section 66 of the Judicature Act 1908 applies to an appeal under subsection (1).
+  (3) Section 56 of the Senior Courts Act 2016 applies to an appeal under subsection (1).
   (4) In determining an appeal, the Court of Appeal may confirm, modify, or reverse the decision, or any part of the decision, appealed against.
   (5) An appeal under subsection (1) does not operate as a stay of proceedings to which the appeal relates unless the Court of Appeal orders otherwise.
 
