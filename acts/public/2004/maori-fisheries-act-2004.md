@@ -1,5 +1,5 @@
 # Maori Fisheries Act 2004
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2017-03-01_
 
 ## Preamble
 (1) By the Treaty of Waitangi, the Queen of England confirmed and guaranteed to the chiefs, tribes, and individual Maori the full, exclusive, and undisturbed possession of their fisheries for so long as they wished to retain them:
@@ -2379,10 +2379,10 @@ This Part provides a process for the resolution of disputes over specified decis
   (d) an application made under section 187:
   (e) an order made by a Judge under section 26M of Te Ture Whenua Maori Act 1993.
 (2) Until a matter referred to in subsection (1)﻿(a) to (d) has been determined under section 26C of Te Ture Whenua Maori Act 1993 and all rights of appeal for that matter have been exercised in full, a person who is a party to the matter or order must not—
-  (a) apply for review under Part 1 of the Judicature Amendment Act 1972; or
+  (a) apply for review under the Judicial Review Procedure Act 2016; or
   (b) commence proceedings for a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision.
 (3) Until all rights of appeal in relation to an order referred to in subsection (1)﻿(e) have been exercised in full, a person who is a party to the matter which is the subject of the order must not—
-  (a) apply for review under Part 1 of the Judicature Amendment Act 1972; or
+  (a) apply for review under the Judicial Review Procedure Act 2016; or
   (b) commence proceedings for a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision.
 
 ### Subpart 2 — Other matters relevant to disputed decisions
