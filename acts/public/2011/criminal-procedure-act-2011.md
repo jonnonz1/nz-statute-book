@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2017-01-08_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -22,20 +22,20 @@ The purpose of this Act is to—
   (b) provide for the use of electronic technology in relation to criminal procedure and the court record of criminal proceedings.
 
 ### 4 Overview
-(1) This Act provides for the following matters:Commencement of proceedingsCategory 1 offencesCategory 2 offencesCategory 3 offencesCategory 4 offencesProcedure may vary if proceeding joined with proceeding for more serious offencesPre-trial proceduresTrialGeneral provisionsAppealsJurisdiction of District CourtsMiscellaneous and transitional provisionsAmendments to other Acts
+(1) This Act provides for the following matters:Commencement of proceedingsCategory 1 offencesCategory 2 offencesCategory 3 offencesCategory 4 offencesProcedure may vary if proceeding joined with proceeding for more serious offencesPre-trial proceduresTrialGeneral provisionsAppealsJurisdiction of District CourtMiscellaneous and transitional provisionsAmendments to other Acts
   (a) for procedural purposes, there are 4 categories of offence (see section 6):
   (b) there are 2 types of trial process—Judge-alone trials and jury trials (see Part 4):
-  (c) all proceedings begin in a District Court by the filing of a charging document (see Part 2):
+  (c) all proceedings begin in the District Court by the filing of a charging document (see Part 2):
   (d) in general terms, a category 1 offence is an offence that is not punishable by imprisonment:
   (e) an infringement offence is a category 1 offence if proceedings in relation to that infringement offence are commenced by filing a charging document under section 14, rather than by issuing an infringement notice:
-  (f) all stages of a proceeding for a category 1 offence are dealt with by a District Court:
+  (f) all stages of a proceeding for a category 1 offence are dealt with by the District Court:
   (g) if the matter proceeds to trial, the trial will be a Judge-alone trial:
   (h) in general terms, a category 2 offence is an offence punishable by a term of imprisonment of less than 2 years:
-  (i) a trial for a category 2 offence will be in a District Court unless an order is made transferring the proceeding to the High Court for trial (see sections 68 and 70):
+  (i) a trial for a category 2 offence will be in the District Court unless an order is made transferring the proceeding to the High Court for trial (see sections 68 and 70):
   (j) if the matter proceeds to trial, the trial will be a Judge-alone trial:
   (k) in general terms, a category 3 offence is an offence punishable by a term of imprisonment of 2 years or more (other than a category 4 offence):
   (l) a defendant charged with a category 3 offence has a choice about whether or not to elect a trial by jury (see section 50):
-  (m) a trial for a category 3 offence will be in a District Court unless an order is made transferring the proceeding to the High Court for trial (see sections 68 and 70):
+  (m) a trial for a category 3 offence will be in the District Court unless an order is made transferring the proceeding to the High Court for trial (see sections 68 and 70):
   (n) the procedure for a category 3 offence generally depends on whether the defendant elects trial by jury:
   (o) if the defendant does not elect trial by jury, and the matter proceeds to trial, the trial will be a Judge-alone trial:
   (p) if the defendant elects trial by jury, and the matter proceeds to trial, the trial will be a jury trial (unless a Judge-alone trial is ordered under section 102 or 103):
@@ -57,7 +57,7 @@ The purpose of this Act is to—
     (vii) provisions relating to the Solicitor-General's responsibility for oversight and conduct of certain prosecutions; and
     (viii) public access and restrictions on reporting:
   (x) Part 6 contains provisions about appeals:
-  (y) Part 7 contains provisions about the jurisdiction of District Courts. These set out the jurisdiction of Community Magistrates and Justices to conduct various proceedings and to sentence offenders. They also require a District Court Judge conducting jury trials to hold a jury trial warrant under the District Courts Act 1947:
+  (y) Part 7 contains provisions about the jurisdiction of the District Court. These set out the jurisdiction of Community Magistrates and Justices to conduct various proceedings and to sentence offenders. They also require a District Court Judge conducting jury trials to hold a jury trial warrant under the District Court Act 2016:
   (z) Part 8 contains miscellaneous and transitional provisions. Among other things, provisions in this Part deal with contempt and costs orders for failure to comply with the requirements of this Act and rules and regulations made under it:
   (za) Part 9 contains amendments to other Acts.
 (2) This section is by way of explanation only. If a provision of this or any other Act is inconsistent with this section, the other provision prevails.
@@ -101,7 +101,7 @@ In this Act, unless the context otherwise requires,—
   - **jury trial** means a trial in accordance with subparts 2 and 3 of Part 4 and any other applicable provision of Part 5
   - **Justice** means a Justice of the Peace
   - **lawyer** means a person who holds a current practising certificate as a barrister or as a barrister and solicitor under the Lawyers and Conveyancers Act 2006
-  - **level of trial court** , in relation to a proceeding, means either the High Court or a District Court as determined under section 71, 72, 73, or 74, as the case may be
+  - **level of trial court** , in relation to a proceeding, means either the High Court or the District Court as determined under section 71, 72, 73, or 74, as the case may be
   - **permanent court record** means the permanent court record referred to in section 184
   - **Police employee** has the meaning given to it in section 4 of the Policing Act 2008
   - **private prosecution** means a proceeding against a defendant in respect of an offence that is not—and has a corresponding meaning
@@ -112,7 +112,7 @@ In this Act, unless the context otherwise requires,—
   - **public prosecution** means a proceeding in respect of an offence that is commenced by or on behalf of the Crown, and includes a proceeding in respect of an offence that is commenced by or on behalf of a Crown entity within the meaning of section 7 of the Crown Entities Act 2004
   - **Registrar** means the Registrar of a court; and includes a Deputy Registrar
   - **representative** , in relation to a corporation, means a person duly appointed by the corporation to represent it to do any act or thing specified by the corporation for the purposes of this Act
-  - **rules of court** means rules made under section 386 of this Act, section 51C of the Judicature Act 1908, and section 122 of the District Courts Act 1947, or any of those enactments
+  - **rules of court** means rules made under section 386 of this Act, section 148 of the Senior Courts Act 2016, and section 228 of the District Court Act 2016, or any of those enactments
   - **special plea** means a plea referred to in section 45(1)
   - **trial** ,—
     (a) in subpart 1 of Part 4, means a Judge-alone trial:
@@ -150,18 +150,18 @@ In this Act, unless the context otherwise requires,—
 ### 7 Act subject to other enactments
 (1) This Act must be read subject to any special provisions of any other enactment relating to the procedure in any particular case.
 (2) Except as expressly provided in the Armed Forces Discipline Act 1971, this Act does not apply to proceedings under that Act, or to proceedings on appeal from any decision under that Act.
-(3) Except as expressly provided in the Children, Young Persons, and Their Families Act 1989, this Act does not apply to proceedings in any Youth Court or to proceedings on appeal from any decision of a Youth Court.
+(3) Except as expressly provided in the Children, Young Persons, and Their Families Act 1989, this Act does not apply to proceedings in the Youth Court or to proceedings on appeal from any decision of the Youth Court.
 
 ### 8 Act binds the Crown
 This Act binds the Crown.
 
-**Jurisdiction of District Courts to conduct criminal proceedings**
+**Jurisdiction of District Court to conduct criminal proceedings**
 
-### 9 Jurisdiction of District Courts to conduct criminal proceedings
-(1) Subject to subsections (2) and (3) and section 114(2), a District Court has jurisdiction to deal with a proceeding for any offence.
-(2) If, in accordance with section 72 or 73, the level of trial court for a proceeding in respect of a category 2 or 3 offence is the High Court, a District Court has jurisdiction over the proceeding only until the time that it is transferred to the High Court under section 75.
-(3) In a proceeding in respect of a category 4 offence, a District Court has jurisdiction to deal with the proceeding only until it is transferred to the High Court under section 36.
-(4) Any reference in this Act or any other enactment to a District Court, or to a court where that reference includes a District Court, or to a Judge of a District Court, must be read subject to Part 7.
+### 9 Jurisdiction of District Court to conduct criminal proceedings
+(1) Subject to subsections (2) and (3) and section 114(2), the District Court has jurisdiction to deal with a proceeding for any offence.
+(2) If, in accordance with section 72 or 73, the level of trial court for a proceeding in respect of a category 2 or 3 offence is the High Court, the District Court has jurisdiction over the proceeding only until the time that it is transferred to the High Court under section 75.
+(3) In a proceeding in respect of a category 4 offence, the District Court has jurisdiction to deal with the proceeding only until it is transferred to the High Court under section 36.
+(4) Any reference in this Act or any other enactment to the District Court, or to a court where that reference includes the District Court, or to a Judge of the District Court, must be read subject to Part 7.
 (5) Nothing in this section limits or affects Part 6.
 
 **Who may conduct proceedings**
@@ -204,13 +204,13 @@ All matters to which this Act applies must be dealt with in accordance with this
 ### Subpart 1 — Filing a charging document
 
 ### 14 Commencement of criminal proceedings
-(1) A criminal proceeding in respect of an offence is commenced by filing a charging document in the District Court that is—
+(1) A criminal proceeding in respect of an offence is commenced by filing a charging document in the office of the District Court that is—
   (a) nearest to where the offence is alleged to have been committed; or
   (b) nearest to where the person filing the charging document believes the defendant can be found.
 (2) Despite subsection (1),—
-  (a) if all the parties to the proposed proceeding agree, the charging document may be filed in another District Court; and
-  (b) if 2 or more charging documents are to be filed in respect of the same defendant, they may all be filed in a District Court in which any 1 of them could be filed.
-(3) A failure to file a charging document in the correct District Court in accordance with this section does not invalidate any proceeding.
+  (a) if all the parties to the proposed proceeding agree, the charging document may be filed in another office of the District Court; and
+  (b) if 2 or more charging documents are to be filed in respect of the same defendant, they may all be filed in an office of the District Court in which any 1 of them could be filed.
+(3) A failure to file a charging document in the correct office of the District Court in accordance with this section does not invalidate any proceeding.
 
 ### 15 Any person may commence proceeding
 Any person may commence a proceeding.
@@ -357,25 +357,25 @@ If the Registrar accepts a charging document for filing under section 26 or the 
 
 ### 34 Warrant may be issued if summons cannot be served
 (1) This section applies if a charging document has been filed and a summons has been issued under section 28, 29, or 33 that has not been served on the defendant.
-(2) If the summons relates to a category 1 offence, a District Court Judge may issue a warrant to arrest the defendant and bring him or her before a District Court if the Judge is satisfied that reasonable efforts have been made to serve the summons on the defendant.
-(3) If the summons relates to a category 2, 3, or 4 offence, a judicial officer or Registrar may issue a warrant to arrest the defendant and bring him or her before a District Court if the judicial officer or Registrar is satisfied that reasonable efforts have been made to serve the summons on the defendant.
+(2) If the summons relates to a category 1 offence, a District Court Judge may issue a warrant to arrest the defendant and bring him or her before the District Court if the Judge is satisfied that reasonable efforts have been made to serve the summons on the defendant.
+(3) If the summons relates to a category 2, 3, or 4 offence, a judicial officer or Registrar may issue a warrant to arrest the defendant and bring him or her before the District Court if the judicial officer or Registrar is satisfied that reasonable efforts have been made to serve the summons on the defendant.
 
 ### Subpart 3 — Court dealing with proceeding before trial or transfer for trial
 
 ### 35 Court dealing with proceeding before trial or transfer for trial: categories 1 to 3
-(1) The proceeding for a category 1 offence before the trial must be heard and determined in the District Court in which the charging document was filed.
-(2) Subject to section 75, the proceeding for a category 2 or 3 offence before the trial must be heard and determined in the District Court in which the charging document was filed.
+(1) The proceeding for a category 1 offence before the trial must be heard and determined in the District Court at the place where the charging document was filed.
+(2) Subject to section 75, the proceeding for a category 2 or 3 offence before the trial must be heard and determined in the District Court at the place where the charging document was filed.
 (3) This section is subject to—
   (a) section 114(2); and
-  (b) any order made under section 4A of the District Courts Act 1947 or under section 157 of this Act; and
+  (b) any order made under section 72 of the District Court Act 2016 or under section 157 of this Act; and
   (c) section 139.
 
 ### 36 Court dealing with proceeding before transfer for trial: category 4
-(1) A defendant's first appearance in court for a category 4 offence before the proceeding is transferred under subsection (2) must be in the District Court in which the charging document was filed.
+(1) A defendant's first appearance in court for a category 4 offence before the proceeding is transferred under subsection (2) must be in the District Court at the place where the charging document was filed.
 (2) On the adjournment of the proceeding after the defendant's first appearance in court the court must transfer the proceeding to the High Court.
 (3) This section is subject to—
   (a) section 191; and
-  (b) any order made under section 4A of the District Courts Act 1947 or under section 157 of this Act.
+  (b) any order made under section 72 of the District Court Act 2016 or under section 157 of this Act.
 
 ## Part 3 — Procedure before trial
 
@@ -659,20 +659,20 @@ No proceeding that relates to a protocol offence is invalid only because it fail
 ### 71 Category 1 offences
 (1) This section applies to a proceeding for a category 1 offence.
 (2) The applicable procedure for trial is the Judge-alone trial procedure.
-(3) The trial court is the District Court that is dealing with the proceeding before the trial in accordance with section 35.
+(3) The trial court is the District Court at the place where the proceeding is being dealt with in accordance with section 35.
 (4) This section is subject to—
-  (a) any order made under section 4A of the District Courts Act 1947 or section 157 of this Act; and
+  (a) any order made under section 72 of the District Court Act 2016 or section 157 of this Act; and
   (b) section 139.
 
 ### 72 Category 2 offences
 (1) This section applies to a proceeding for a category 2 offence.
 (2) The applicable procedure for trial is the Judge-alone trial procedure.
-(3) The level of trial court is a District Court unless an order is made under section 68 or 70 that the proceeding be tried in the High Court.
+(3) The level of trial court is the District Court unless an order is made under section 68 or 70 that the proceeding be tried in the High Court.
 (4) The place of trial is,—
   (a) if the trial court is the High Court, the High Court at the place nearest to the court that is dealing with the proceeding under subpart 3 of this Part:
-  (b) if the trial court is a District Court, the court that is dealing with the proceeding under subpart 3 of this Part.
+  (b) if the trial court is the District Court, the court that is dealing with the proceeding under subpart 3 of this Part.
 (5) This section is subject to—
-  (a) any order made under section 4A of the District Courts Act 1947 or section 157 of this Act; and
+  (a) any order made under section 72 of the District Court Act 2016 or section 157 of this Act; and
   (b) section 139.
 
 ### 73 Category 3 offences
@@ -682,15 +682,15 @@ No proceeding that relates to a protocol offence is invalid only because it fail
     (i) the defendant does not elect trial by jury under section 50 (or withdraws his or her election under section 53); or
     (ii) an order is made under section 102 or 103; or
   (b) the jury trial procedure in any other case.
-(3) The level of trial court is a District Court unless an order is made under section 68 or 70 that the proceeding be tried in the High Court.
+(3) The level of trial court is the District Court unless an order is made under section 68 or 70 that the proceeding be tried in the High Court.
 (4) The place of trial is,—
   (a) if the trial court is the High Court, the High Court at the place nearest to the court that is dealing with the proceeding under subpart 3 of this Part:
-  (b) if the trial court is a District Court,—
+  (b) if the trial court is the District Court,—
     (i) the court that is dealing with the proceeding under subpart 3 of this Part; or
     (ii) if the trial procedure is jury trial, and the court that is dealing with the proceeding under subpart 3 of this Part does not have jury trial jurisdiction, the District Court with jury trial jurisdiction that is nearest to that court.
-(5) In this section, jury trial jurisdiction, when used in relation to a District Court, means a District Court that has jurisdiction in accordance with section 354(2) and (3) to conduct jury trials.
+(5) In this section, jury trial jurisdiction, when used in relation to the District Court, means the District Court at the place where the court has jurisdiction in accordance with section 354(2) and (3) to conduct jury trials.
 (6) This section is subject to—
-  (a) any order made under section 4A of the District Courts Act 1947 or section 157 of this Act; and
+  (a) any order made under section 72 of the District Court Act 2016 or section 157 of this Act; and
   (b) section 139; and
   (c) any regulations made under section 387 that prescribe a different or an alternative place of trial.
 
@@ -700,11 +700,11 @@ No proceeding that relates to a protocol offence is invalid only because it fail
   (a) the jury trial procedure; or
   (b) the Judge-alone trial procedure if an order is made under section 102 or 103.
 (3) The level of trial court is the High Court.
-(4) The trial court is the High Court at the place that is nearest to the District Court that is dealing with the proceeding immediately before it is transferred under section 36.
+(4) The trial court is the High Court at the place that is nearest to the District Court at the place where the court is dealing with the proceeding immediately before it is transferred under section 36.
 (5) This section is subject to—
   (a) any order made under section 157; and
   (b) section 139; and
-  (c) any regulations made under section 387 that prescribe a different place of trial.
+  (c) any regulations made under section 387 that prescribe a different or an alternative place of trial.
 
 ### 75 Transfer of certain proceedings for category 2 and 3 offences to trial court
 (1) The Registrar must transfer a proceeding for a category 2 or 3 offence to the trial court as soon as practicable after any order is made under section 68(1) or 70(4) that the trial is to be in the High Court.
@@ -740,7 +740,7 @@ If, as a result of any decision referred to in section 134(6), 135, or 140, the 
     (i) the evidence raises a complex admissibility issue and the decision about whether it is admissible is likely to make a substantial difference to the overall conduct of the proceeding; or
     (ii) the outcome of the pre-trial admissibility hearing may obviate the need for a trial; or
   (b) the complainant or witness is particularly vulnerable and resolving the admissibility issue is in the interests of justice; or
-  (c) the trial is to be in a District Court and the evidence has been obtained under an order made, or warrant issued, by the High Court.
+  (c) the trial is to be in the District Court and the evidence has been obtained under an order made, or warrant issued, by the High Court.
 (5) The court may grant a pre-trial admissibility hearing on any terms and subject to any conditions that the court thinks fit, and may make any order permitted under section 80.
 (6) If a pre-trial admissibility hearing is granted on the ground in subsection (4)﻿(c), that pre-trial hearing must be in the High Court.
 
@@ -883,7 +883,7 @@ If the defendant wishes to apply, under section 109(1)﻿(d) of the Evidence Act
 ### 95 By whom oral evidence of witness to be taken
 (1) If an oral evidence order is made, the court may direct that the evidence be taken at any court or place that the court considers suitable for the purpose before—
   (a) a District Court Judge; or
-  (b) a Registrar of a District Court; or
+  (b) a Registrar of the District Court; or
   (c) 1 or more Justices; or
   (d) 1 or more Community Magistrates; or
   (e) a High Court Judge; or
@@ -1081,7 +1081,7 @@ On a charge of murder, the jury—
 (1) If a defendant pleads guilty or is found guilty, the court may convict or deal with the defendant in any other manner authorised by law and—
   (a) adjourn the proceeding; or
   (b) sentence or otherwise deal with the defendant immediately.
-(2) Despite subsection (1), if the defendant is before a District Court the court must transfer the proceeding to the High Court (at the place determined in accordance with section 74(4) and (5) as if the High Court were the trial court) for the sentencing of the defendant if—
+(2) Despite subsection (1), if the defendant is before the District Court the court must transfer the proceeding to the High Court (at the place determined in accordance with section 74(4) and (5) as if the High Court were the trial court) for the sentencing of the defendant if—
   (a) section 81B of the Sentencing Act 2002 applies; or
   (b) section 90 of the Sentencing Act 2002 applies; or
   (c) the offence is a category 4 offence.
@@ -1277,6 +1277,7 @@ If a retrial or rehearing is ordered under section 125 or 126,—
 ### 133 Amendment of charge
 (1) A charge (including any of the particulars required to be specified in a charging document under section 16(2)) may be amended by the court at any stage in a proceeding before the delivery of the verdict or decision of the court.
 (2) The amendment may be made on the court's own motion or on the application of the prosecutor or the defendant.
+(3) A Registrar may, in respect of any offence other than a category 4 offence, exercise the power under subsection (1) if the prosecutor and the defendant consent to the amendment.
 
 ### 134 Procedure if charge amended before trial
 (1) This section applies if the court amends a charge before the trial.
@@ -1395,6 +1396,7 @@ Every person who is a party to any offence may be convicted either on a charge t
 ### 146 Withdrawal of charge
 (1) The prosecutor may, with the leave of the court, withdraw a charge before the trial.
 (2) The withdrawal of a charge under this section is not a bar to any other proceeding in the same matter.
+(3) A Registrar may, in respect of any offence other than a category 4 offence, exercise the power under subsection (1) if the defendant consents to the prosecutor withdrawing the charge.
 
 ### 147 Dismissal of charge
 (1) The court may dismiss a charge at any time before or during the trial, but before the defendant is found guilty or not guilty, or enters a plea of guilty.
@@ -1526,9 +1528,9 @@ An order for a retrial under section 151 or 154 may be granted subject to—
 **Transfer of proceedings to court at different place**
 
 ### 157 Transfer of proceedings to court at different place or different sitting
-(1) A District Court Judge may, on his or her own motion or on the application of the prosecutor or the defendant, transfer a proceeding to a District Court at a place or sitting other than that determined in accordance with section 35, 71, 72, or 73, as the case may be, if the court is satisfied that it is in the interests of justice that the proceeding be heard at that other place or sitting.
+(1) A District Court Judge may, on his or her own motion or on the application of the prosecutor or the defendant, transfer a proceeding to the District Court at a place or sitting other than that determined in accordance with section 35, 71, 72, or 73, as the case may be, if the court is satisfied that it is in the interests of justice that the proceeding be heard at that other place or sitting.
 (2) The High Court at a place may, on its own motion or on the application of the prosecutor or the defendant, transfer a proceeding to the High Court at a place or sitting other than that determined in accordance with section 72, 73, or 74, as the case may be, if the court is satisfied that it is in the interests of justice that the proceeding be heard at that other place or sitting.
-(3) With the consent of all parties, an order under this section may be made by a District Court presided over by 1 or more Justices or 1 or more Community Magistrates in respect of a proceeding for—
+(3) With the consent of all parties, an order under this section may be made by the District Court presided over by 1 or more Justices or 1 or more Community Magistrates in respect of a proceeding for—
   (a) a category 1 or 2 offence; or
   (b) a category 3 offence punishable by a term of imprisonment not exceeding 3 years, if the defendant has not elected a jury trial.
 (3A) A Registrar may exercise the power specified in subsection (3).
@@ -1668,13 +1670,13 @@ A defendant who has been remanded in custody on any charge may be brought before
 ### 171 Defendants under 16 must not be imprisoned pending hearing or sentence
 (1) Despite any other enactment, no person under the age of 16 years may be remanded to a prison pending any hearing in relation to any charge, or pending sentence.
 (2) In this section a reference to a prison does not include a police jail.
-(3) If a person under the age of 16 years is charged with or convicted of an offence in a District Court or the High Court, and the court remands the person for hearing or sentence, section 15 of the Bail Act 2000 applies.
+(3) If a person under the age of 16 years is charged with or convicted of an offence in the District Court or the High Court, and the court remands the person for hearing or sentence, section 15 of the Bail Act 2000 applies.
 (4) Nothing in subsection (1) applies in respect of any person who is subject to a sentence or term of imprisonment.
 
 ### 172 Defendants aged 16 must not be imprisoned pending hearing or sentence except in certain circumstances
 (1) Despite any other enactment, a person who has attained the age of 16 years but has not attained the age of 17 years must not be remanded to a prison pending any hearing in relation to any charge, or pending sentence, unless subsection (4) applies.
 (2) In this section a reference to a prison does not include a police jail.
-(3) If a person who has attained the age of 16 years but has not attained the age of 17 years is charged with or convicted of an offence in a District Court or the High Court, and the court remands the person for hearing or sentence, section 15 of the Bail Act 2000 applies.
+(3) If a person who has attained the age of 16 years but has not attained the age of 17 years is charged with or convicted of an offence in the District Court or the High Court, and the court remands the person for hearing or sentence, section 15 of the Bail Act 2000 applies.
 (4) Despite section 15(1) of the Bail Act 2000, the court may direct that a person who has attained the age of 16 years but has not attained the age of 17 years be detained in a prison if—
   (a) that person is charged with or convicted of—
     (i) a category 4 offence; or
@@ -1683,7 +1685,7 @@ A defendant who has been remanded in custody on any charge may be brought before
 (5) Nothing in subsection (1) applies in respect of any person who is subject to a sentence or term of imprisonment.
 
 ### 173 Remand of defendant under 17 in residence or care
-(1) This section applies to any person under the age of 17 years who is charged with or convicted of an offence in a District Court or High Court.
+(1) This section applies to any person under the age of 17 years who is charged with or convicted of an offence in the District Court or High Court.
 (2) Despite section 15 of the Bail Act 2000, the court may remand the person in the custody of the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989 if—
   (a) in the court's opinion it is desirable to do so by reason of special circumstances; and
   (b) the court is satisfied that the chief executive of that department is able and willing to keep the person in custody in accordance with this section.
@@ -1762,7 +1764,7 @@ If a retrial or rehearing is ordered—
   (b) on its own motion.
 (2) The decision of the court may be made,—
   (a) if sentence was imposed in the High Court, by the High Court Judge who imposed the sentence or, if that Judge is not available, by any High Court Judge; or
-  (b) if sentence was imposed in a District Court,—
+  (b) if sentence was imposed in the District Court,—
     (i) by the District Court Judge who imposed the sentence; or
     (ii) by any District Court Judge if the Judge who imposed the sentence is not available or the sentence was imposed by 1 or more Community Magistrates or Justices.
 (3) The court may, by order, remove the matter into the first appeal court described in section 297, and that court may deal with it as if it were an appeal on a question of law under section 296.
@@ -2086,7 +2088,7 @@ In this Part, unless the context otherwise requires,—
       (iii) a decision, on conviction, under section 208 to vary or revoke an order under any of those sections specified in subparagraph (ii).
 
 ### 213 Leave to appeal
-(1) All rights of appeal to the Supreme Court under this Part are subject to the Supreme Court Act 2003. See especially sections 12 to 14 of that Act.
+(1) All rights of appeal to the Supreme Court under this Part are subject to Part 4 of the Senior Courts Act 2016. See, especially, sections 73 to 75 of that Act.
 (2) Leave to appeal to any court other than the Supreme Court under this Part is required only if leave is expressly required by this Part or any other Act.
 (3) An appeal court's decision to give or refuse leave for the purposes of this Part is final unless otherwise expressly provided by this Part or any other Act.
 (4) The duty of an appeal court to determine an appeal is subject to any leave requirements being met.
@@ -2139,8 +2141,8 @@ The duty of an appeal court to determine an appeal under subparts 2 to 10 is sub
 
 ### 219 First appeal courts
 The first appeal court for an appeal under this subpart is—
-  (a) a District Court presided over by a District Court Judge, if the appeal is against a decision of a District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
-  (b) the High Court, if the appeal is against a decision of a District Court presided over by a District Court Judge, other than a decision—
+  (a) the District Court presided over by a District Court Judge, if the appeal is against a decision of the District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
+  (b) the High Court, if the appeal is against a decision of the District Court presided over by a District Court Judge, other than a decision—
     (i) made in proceedings for a category 3 offence after the defendant elected a jury trial; or
     (ii) made in proceedings for a category 4 offence; or
   (c) either the Court of Appeal or the Supreme Court, in any other case.
@@ -2173,7 +2175,7 @@ A first appeal court must determine a first appeal under this subpart by—
 
 ### 224 Second appeal courts
 The second appeal court for an appeal under this subpart is—
-  (a) the High Court, if the appeal is against a determination of a District Court; or
+  (a) the High Court, if the appeal is against a determination of the District Court; or
   (b) either the Court of Appeal or the Supreme Court, if the appeal is against a determination of the High Court; or
   (c) the Supreme Court, if the appeal is against a determination of the Court of Appeal.
 
@@ -2206,8 +2208,8 @@ Every determination of a second appeal under this subpart by the High Court is f
 
 ### 230 First appeal courts
 The first appeal court for an appeal under this subpart is—
-  (a) a District Court presided over by a District Court Judge, if the appeal is against a conviction entered by a District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
-  (b) the High Court, if the appeal is against a conviction entered by a District Court presided over by a District Court Judge, other than a conviction for—
+  (a) the District Court presided over by a District Court Judge, if the appeal is against a conviction entered by the District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
+  (b) the High Court, if the appeal is against a conviction entered by the District Court presided over by a District Court Judge, other than a conviction for—
     (i) a category 3 offence after the convicted person elected a jury trial; or
     (ii) a category 4 offence; or
   (c) either the Court of Appeal or the Supreme Court, in any other case.
@@ -2276,7 +2278,7 @@ The first appeal court for an appeal under this subpart is—
 
 ### 238 Second appeal courts
 The second appeal court for an appeal under this subpart is—
-  (a) the High Court, if the appeal is against a determination of a District Court; or
+  (a) the High Court, if the appeal is against a determination of the District Court; or
   (b) either the Court of Appeal or the Supreme Court, if the appeal is against a determination of the High Court; or
   (c) the Supreme Court, if the appeal is against a determination of the Court of Appeal.
 
@@ -2326,11 +2328,11 @@ The fact that a defendant has received a sentence indication does not affect the
 
 ### 247 First appeal courts
 The first appeal court for an appeal under this subpart is—
-  (a) a District Court presided over by a District Court Judge, if the appeal is against a sentence imposed by a District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
-  (b) the High Court, if the appeal is against a sentence imposed by a District Court presided over by a District Court Judge and if—
+  (a) the District Court presided over by a District Court Judge, if the appeal is against a sentence imposed by the District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
+  (b) the High Court, if the appeal is against a sentence imposed by the District Court presided over by a District Court Judge and if—
     (i) the sentence was for a category 1 or 2 offence; or
     (ii) the sentence was for a category 3 offence and the convicted person did not elect a jury trial; or
-  (c) the High Court, if the appeal is against a sentence imposed by a District Court presided over by a District Court Judge for a category 3 offence and if—
+  (c) the High Court, if the appeal is against a sentence imposed by the District Court presided over by a District Court Judge for a category 3 offence and if—
     (i) the convicted person elected a jury trial; and
     (ii) the convicted person pleaded guilty to the offence before the trial; and
     (iii) the sentence appealed against is not a sentence of imprisonment exceeding 5 years; or
@@ -2338,7 +2340,7 @@ The first appeal court for an appeal under this subpart is—
 
 ### 248 How to commence first appeal
 (1) A convicted person or prosecutor commences a first appeal under this subpart by filing in the first appeal court—
-  (a) a notice of appeal, if the court appealed to is a District Court, the High Court, or the Court of Appeal; or
+  (a) a notice of appeal, if the court appealed to is the District Court, the High Court, or the Court of Appeal; or
   (b) a notice of application for leave to appeal, if the court appealed to is the Supreme Court.
 (2) A notice of appeal or notice of application for leave to appeal must be filed within 20 working days after the date of the sentence appealed against.
 (3) In an appeal by a prosecutor, any document evidencing consent required under section 246 must be filed with the notice of appeal or notice of application for leave to appeal.
@@ -2380,7 +2382,7 @@ Except with the leave of the appeal court if that court considers it is in the i
 
 ### 254 Second appeal courts
 The second appeal court for an appeal under this subpart is—
-  (a) the High Court, if the appeal is against a determination of a District Court; or
+  (a) the High Court, if the appeal is against a determination of the District Court; or
   (b) either the Court of Appeal or the Supreme Court, if the appeal is against a determination of the High Court; or
   (c) the Supreme Court, if the appeal is against a determination of the Court of Appeal.
 
@@ -2427,13 +2429,13 @@ Every determination of a second appeal under this subpart by the High Court is f
 
 ### 261 First appeal courts
 The first appeal court for an appeal under this subpart is—
-  (a) a District Court presided over by a District Court Judge, if the finding of contempt was made by a District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
-  (b) the High Court, if the finding of contempt was made by a District Court presided over by a District Court Judge; or
+  (a) the District Court presided over by a District Court Judge, if the finding of contempt was made by the District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
+  (b) the High Court, if the finding of contempt was made by the District Court presided over by a District Court Judge; or
   (c) either the Court of Appeal or the Supreme Court, in any other case.
 
 ### 262 How to commence first appeal
 (1) A person commences a first appeal under this subpart by filing in the first appeal court—
-  (a) a notice of appeal, if the court appealed to is a District Court, the High Court, or the Court of Appeal; or
+  (a) a notice of appeal, if the court appealed to is the District Court, the High Court, or the Court of Appeal; or
   (b) a notice of application for leave to appeal, if the court appealed to is the Supreme Court.
 (2) A notice of appeal or notice of application for leave to appeal must be filed within 20 working days after—
   (a) the date of the finding of contempt, if the appeal is against the finding only:
@@ -2461,7 +2463,7 @@ The first appeal court for an appeal under this subpart is—
 
 ### 265 Second appeal courts
 The second appeal court for an appeal under this subpart is—
-  (a) the High Court, if the appeal is against a determination of a District Court; or
+  (a) the High Court, if the appeal is against a determination of the District Court; or
   (b) either the Court of Appeal or the Supreme Court, if the appeal is against a determination of the High Court; or
   (c) the Supreme Court, if the appeal is against a determination of the Court of Appeal.
 
@@ -2501,8 +2503,8 @@ A person affected by a decision to make or refuse to make a costs order may appe
 
 ### 272 First appeal courts
 The first appeal court for an appeal under this subpart is—
-  (a) a District Court presided over by a District Court Judge, if the appeal is against a decision of a District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
-  (b) the High Court, if the appeal is against a decision of a District Court presided over by a District Court Judge other than a decision—
+  (a) the District Court presided over by a District Court Judge, if the appeal is against a decision of the District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
+  (b) the High Court, if the appeal is against a decision of the District Court presided over by a District Court Judge other than a decision—
     (i) made in proceedings for a category 3 offence after the defendant elected a jury trial; or
     (ii) made in proceedings for a category 4 offence; or
   (c) either the Court of Appeal or the Supreme Court, in any other case.
@@ -2534,7 +2536,7 @@ A court is not required to suspend the commencement or continuation of a trial j
 
 ### 277 Second appeal courts
 The second appeal court for an appeal under this subpart is—
-  (a) the High Court, if the appeal is against a determination of a District Court; or
+  (a) the High Court, if the appeal is against a determination of the District Court; or
   (b) either the Court of Appeal or the Supreme Court, if the appeal is against a determination of the High Court; or
   (c) the Supreme Court, if the appeal is against a determination of the Court of Appeal.
 
@@ -2575,13 +2577,13 @@ In this subpart, suppression order means an order made under section 200, 202, o
 
 ### 284 First appeal courts
 The first appeal court for an appeal under this subpart is—
-  (a) a District Court presided over by a District Court Judge, if the appeal is against a decision of a District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
-  (b) the High Court, if the appeal is against a decision of a District Court presided over by a District Court Judge; or
+  (a) the District Court presided over by a District Court Judge, if the appeal is against a decision of the District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
+  (b) the High Court, if the appeal is against a decision of the District Court presided over by a District Court Judge; or
   (c) either the Court of Appeal or the Supreme Court, in any other case.
 
 ### 285 How to commence first appeal
 (1) A person commences a first appeal by filing in the first appeal court—
-  (a) a notice of appeal, if the court appealed to is a District Court, High Court, or Court of Appeal; or
+  (a) a notice of appeal, if the court appealed to is the District Court, High Court, or Court of Appeal; or
   (b) a notice of application for leave to appeal, if the court appealed to is the Supreme Court.
 (2) A notice of appeal or notice of application for leave to appeal must be filed within 20 working days after the date of the decision appealed against.
 (3) The first appeal court may, at any time, extend the time allowed for filing the notice of appeal or notice of application for leave to appeal.
@@ -2616,7 +2618,7 @@ A first appeal court must determine a first appeal by—
 
 ### 290 Second appeal courts
 The second appeal court for an appeal under this subpart is—
-  (a) the High Court, if the appeal is against a determination of a District Court; or
+  (a) the High Court, if the appeal is against a determination of the District Court; or
   (b) either the Court of Appeal or the Supreme Court, if the appeal is against a determination of the High Court; or
   (c) the Supreme Court, if the appeal is against a determination of the Court of Appeal.
 
@@ -2662,8 +2664,8 @@ Every determination of a second appeal under this subpart by the High Court is f
 
 ### 297 First appeal courts
 The first appeal court for an appeal under this subpart is—
-  (a) a District Court presided over by a District Court Judge, if the appeal is against a ruling by a District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
-  (b) the High Court, if the appeal is against a ruling by a District Court presided over by a District Court Judge, other than a ruling—
+  (a) the District Court presided over by a District Court Judge, if the appeal is against a ruling by the District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
+  (b) the High Court, if the appeal is against a ruling by the District Court presided over by a District Court Judge, other than a ruling—
     (i) made in proceedings for a category 3 offence after the person charged elected a jury trial; or
     (ii) made in proceedings for a category 4 offence; or
   (c) either the Court of Appeal or the Supreme Court, in any other case.
@@ -2686,7 +2688,7 @@ The first appeal court may, at any time before determining an appeal under this 
   (c) varying or substituting the sentence or remitting the sentence to the sentencing court with directions, if the decision relates to sentence and the court thinks the decision is erroneous; or
   (d) remitting the matter to the trial court in accordance with the opinion of the appeal court; or
   (e) making any other order that the court considers justice requires.
-(2) A District Court may order that a first appeal to that court be removed to the High Court, and the High Court then has the same powers under this subpart as if it were the first appeal court for the purpose of determining the appeal.
+(2) The District Court may order that a first appeal to that court be removed to the High Court, and the High Court then has the same powers under this subpart as if it were the first appeal court for the purpose of determining the appeal.
 (3) The High Court may order that a first appeal to that court be removed to the Court of Appeal, and the Court of Appeal then has the same powers under this subpart as if it were the first appeal court for the purpose of determining the appeal.
 (4) The first appeal court may give separate directions concerning each charge to which the appeal relates.
 
@@ -2719,7 +2721,7 @@ The first appeal court may, at any time before determining an appeal under this 
 
 ### 304 Second appeal courts
 The second appeal court for an appeal under this subpart is—
-  (a) the High Court, if the appeal is against a determination of a District Court; or
+  (a) the High Court, if the appeal is against a determination of the District Court; or
   (b) either the Court of Appeal or the Supreme Court, if the appeal is against a determination of the High Court; or
   (c) the Supreme Court, if the appeal is against a determination of the Court of Appeal.
 
@@ -2767,7 +2769,7 @@ A defendant who appeals under this subpart against a ruling may not appeal under
 
 ### 313 Solicitor-General may refer certain questions to Court of Appeal
 (1) The Solicitor-General may, with the leave of the Court of Appeal, refer a question of law to that court under this subsection if—
-  (a) the question arose in or in relation to a trial of a person in a District Court or the High Court for an offence (the criminal proceeding); and
+  (a) the question arose in or in relation to a trial of a person in the District Court or the High Court for an offence (the criminal proceeding); and
   (b) the criminal proceeding in the District Court or High Court has ended, whether because the person tried for the offence has been acquitted or convicted, the charge has been dismissed, or the proceeding has been stayed or otherwise brought to an end.
 (2) The fact that an appeal against conviction or sentence has been filed does not prevent the Solicitor-General referring a question to that court under subsection (1).
 (3) The Solicitor-General may, with the leave of the Court of Appeal, refer a question of law to that court under this subsection if—
@@ -2782,7 +2784,7 @@ A defendant who appeals under this subpart against a ruling may not appeal under
   (a) appoint counsel to assist the court; and
   (b) deal with the reference by way of a hearing involving oral submissions; and
   (c) determine the question referred.
-(5) For the purpose of section 99A of the Judicature Act 1908, a hearing of a reference under section 313 must be treated as an appeal.
+(5) For the purpose of section 178 of the Senior Courts Act 2016, a hearing of a reference under section 313 must be treated as an appeal.
 (6) The Court of Appeal’s determination of a reference under section 313 does not affect anything done in any proceeding to which the reference relates by another court before the date of that determination.
 
 ### 315 Rights of appeal to Supreme Court
@@ -2803,7 +2805,7 @@ A defendant who appeals under this subpart against a ruling may not appeal under
   (a) appoint counsel to assist the court; and
   (b) deal with the appeal or reference by way of a hearing involving oral submissions; and
   (c) determine the question referred.
-(6) For the purpose of section 99A of the Judicature Act 1908, a hearing of a reference by the Supreme Court under this section must be treated as an appeal.
+(6) For the purpose of section 178 of the Senior Courts Act 2016, a hearing of a reference by the Supreme Court under this section must be treated as an appeal.
 (7) The Supreme Court's determination of a reference under section 315 does not affect anything done in any proceeding to which the reference relates by another court before the date of that determination.
 (8) Section 314(4) to (6) apply with the necessary modifications if the Supreme Court directs the Court of Appeal to hear and determine a question.
 
@@ -2819,7 +2821,7 @@ The Solicitor-General may, with the leave of the Supreme Court, refer a question
   (a) appoint counsel to assist the court; and
   (b) deal with the reference by way of a hearing involving oral submissions; and
   (c) determine the question referred.
-(4) For the purpose of section 99A of the Judicature Act 1908, a hearing of a reference under section 317 must be treated as an appeal.
+(4) For the purpose of section 178 of the Senior Courts Act 2016, a hearing of a reference under section 317 must be treated as an appeal.
 (5) The Supreme Court’s determination of a reference under section 317 does not affect anything done in any proceeding to which the reference relates by another court before the date of that determination.
 
 ### 319 Power of Court of Appeal or Supreme Court to amend question referred
@@ -2885,7 +2887,7 @@ Any documents, exhibits, or other things connected with the trial of any person 
   (a) an application for leave to appeal; or
   (b) an appeal; or
   (c) proceedings preliminary or incidental to an application or appeal.
-(3) Subsection (2) is subject to section 15(2) of the Supreme Court Act 2003 and to section 331(3).
+(3) Subsection (2) is subject to section 76 of the Senior Courts Act 2016 and to section 331(3).
 
 ### 326 Right of attendance at hearing
 (1) This section applies to appeals and applications for leave to appeal under this Part.
@@ -2903,7 +2905,7 @@ Any documents, exhibits, or other things connected with the trial of any person 
 (3) A decision to deal with an application for leave just on the basis of written material must be in writing, be accompanied by reasons, and be provided by the Registrar to the parties.
 
 ### 328 Hearings in District Court or High Court
-(1) This section applies to applications for leave to appeal under this Part to a District Court or the High Court.
+(1) This section applies to applications for leave to appeal under this Part to the District Court or the High Court.
 (2) The court may decide whether an oral hearing of an application should be held or whether an application should be determined just on the basis of written material provided to the court.
 (3) A decision to deal with an application just on the basis of written material must be in writing, be accompanied by reasons, and be provided by the Registrar to the parties.
 
@@ -2925,7 +2927,7 @@ Any documents, exhibits, or other things connected with the trial of any person 
 (5) A decision to deal with an appeal just on the basis of written material must be in writing, be accompanied by reasons, and be provided by the Registrar to the parties.
 
 ### 330 Hearings in District Court or High Court
-An appeal under this Part to a District Court or the High Court must be dealt with by way of a hearing involving oral submissions.
+An appeal under this Part to the District Court or the High Court must be dealt with by way of a hearing involving oral submissions.
 
 **Hearings on papers**
 
@@ -2952,14 +2954,14 @@ An appeal under this Part to a District Court or the High Court must be dealt wi
 (2) A party may have an application for the exercise of a power under subsection (1) decided by the court if a Judge refuses to exercise the power in favour of the party.
 
 ### 333 Powers exercisable by Judges of Court of Appeal
-(1) Any 2 or more Judges of the Court of Appeal may act as the court to determine any application for leave to appeal.
-(2) A Judge of the Court of Appeal may exercise, in the same manner as it may be exercised by that court and subject to the same provisions, the power of that court to—
+(1) Any 2 or more Judges of the Court of Appeal (of whom at least 1 must hold office under section 45 of the Senior Courts Act 2016) may act as the court to determine any application for leave to appeal.
+(2) A Judge of the Court of Appeal (whether holding office under section 45 or 48 of the Senior Courts Act 2016) may exercise, in the same manner as it may be exercised by that court and subject to the same provisions, the power of that court to—
   (a) determine any application to extend the time for filing an application or notice:
   (b) allow a party to be present at any proceedings in cases where he or she is not entitled to be present without leave:
   (c) issue a warrant for the detention of the defendant pending a new trial:
   (d) grant bail to a party.
 (3) A party may have an application for the exercise of a power under subsection (2) decided by the court if a Judge refuses to exercise the power in favour of the party.
-(4) A Judge of the Court of Appeal may make any incidental orders and give any incidental directions that he or she thinks fit, other than an order or a direction that determines the appeal or disposes of any question or issue that is before the court in the appeal.
+(4) A Judge of the Court of Appeal (whether holding office under section 45 or 48 of the Senior Courts Act 2016) may make any incidental orders and give any incidental directions that he or she thinks fit, other than an order or a direction that determines the appeal or disposes of any question or issue that is before the court in the appeal.
 (5) An order or direction made or given by a Judge of the Court of Appeal under subsection (4) may be discharged or varied by the court but subsection (3) does not apply to the exercise of a power under subsection (4).
 
 **Powers of appeal court to receive evidence, etc**
@@ -3009,7 +3011,7 @@ An appeal under this Part to a District Court or the High Court must be dealt wi
 ### 339 Appeal against dismissal under section 338
 (1) An appellant may, with the leave of the relevant appeal court, appeal to that court against a dismissal of an appeal under section 338.
 (2) The relevant appeal court is—
-  (a) the High Court, if the appeal is against the dismissal of an appeal under that section by a District Court; or
+  (a) the High Court, if the appeal is against the dismissal of an appeal under that section by the District Court; or
   (b) the Court of Appeal, if the appeal is against the dismissal of an appeal under that section by the High Court; or
   (c) the Supreme Court, if the appeal is against the dismissal of an appeal under that section by the Court of Appeal.
 (3) An appellant commences an appeal under this section by filing a notice of application for leave to appeal in the relevant appeal court.
@@ -3030,7 +3032,7 @@ An appeal under this Part to a District Court or the High Court must be dealt wi
   (b) relating to a preliminary or incidental matter.
 
 ### 341 Delivery of judgment by District Court, High Court, or Court of Appeal
-(1) This section applies to a judgment of a District Court, the High Court, or the Court of Appeal under this Part.
+(1) This section applies to a judgment of the District Court, the High Court, or the Court of Appeal under this Part.
 (2) The court may—
   (a) deliver its judgment orally; or
   (b) reserve its judgment.
@@ -3117,46 +3119,46 @@ An appellant who has paid a fine or other monetary amount in accordance with a s
 (3) The court in which a conviction is entered may direct that there be no suspension under subsection (1) if it considers that the title to the property is not in dispute.
 (4) The first appeal court may set aside or vary any order made on conviction for the restitution of any property to any person, although the conviction itself is not set aside.
 
-## Part 7 — Provisions concerning jurisdiction of District Courts
+## Part 7 — Provisions concerning jurisdiction of District Court
 
 **Jurisdiction of District Court presided over by District Court Judge**
 
 ### 353 Jurisdiction of District Court Judges
-(1) Subject to section 354, the jurisdiction described in section 9(1) may be exercised by a District Court presided over by a District Court Judge.
+(1) Subject to section 354, the jurisdiction described in section 9(1) may be exercised by the District Court presided over by a District Court Judge.
 (2) Nothing in subsection (1) limits sections 360 to 362.
 
-**Jurisdiction of District Courts in relation to jury trials**
+**Jurisdiction of District Court in relation to jury trials**
 
-### 354 Jurisdiction of District Courts in relation to jury trials
-(1) This section applies if the trial of a proceeding is to be a jury trial and the level of trial court is a District Court.
-(2) Only a District Court at a place appointed under section 4(2A) of the District Courts Act 1947 has jurisdiction to conduct a jury trial.
-(3) Only a District Court presided over by a District Court Judge who holds a warrant under section 5B of the District Courts Act 1947 to conduct jury trials has jurisdiction to conduct the jury trial or exercise any of the powers of the court under subpart 8 of Part 3 in relation to the proceeding.
+### 354 Jurisdiction of District Court in relation to jury trials
+(1) This section applies if the trial of a proceeding is to be a jury trial and the level of trial court is the District Court.
+(2) Only the District Court at a place appointed under section 10(5) of the District Court Act 2016 has jurisdiction to conduct a jury trial.
+(3) Only the District Court presided over by a District Court Judge who holds a warrant under section 14 of the District Court Act 2016 to conduct jury trials has jurisdiction to conduct the jury trial or exercise any of the powers of the court under subpart 8 of Part 3 in relation to the proceeding.
 
 **Jurisdiction of District Court presided over by 1 or more Justices**
 
 ### 355 Jurisdiction of Justices
-(1) A District Court presided over by a Justice has jurisdiction in respect of an offence only if the enactment creating the offence or another enactment provides that jurisdiction may be exercised by a Justice.
-(2) A District Court presided over by 2 or more Justices has jurisdiction in respect of an offence if—
+(1) The District Court presided over by a Justice has jurisdiction in respect of an offence only if the enactment creating the offence or another enactment provides that jurisdiction may be exercised by a Justice.
+(2) The District Court presided over by 2 or more Justices has jurisdiction in respect of an offence if—
   (a) the enactment creating the offence or another enactment provides that jurisdiction may be exercised by a Justice or Justices:
   (b) the offence is an infringement offence.
-(3) A District Court presided over by a Justice or Justices does not have any jurisdiction in respect of an offence that is a continuing offence.
+(3) The District Court presided over by a Justice or Justices does not have any jurisdiction in respect of an offence that is a continuing offence.
 
 **Jurisdiction of District Court presided over by 1 or more Community Magistrates**
 
 ### 356 Jurisdiction of Community Magistrates
-(1) A District Court presided over by 1 or more Community Magistrates has jurisdiction in respect of—
-  (a) a category 1 offence in respect of which a District Court presided over by 1 or more Justices has jurisdiction under section 355(1) or (2)﻿(a); and
+(1) The District Court presided over by 1 or more Community Magistrates has jurisdiction in respect of—
+  (a) a category 1 offence in respect of which the District Court presided over by 1 or more Justices has jurisdiction under section 355(1) or (2)﻿(a); and
   (b) a category 1 offence, if the enactment creating the offence or another enactment states that the jurisdiction may be exercised by 1 or more Community Magistrates; and
   (c) a category 1 offence punishable by a fine not exceeding $40,000 unless the offence is prescribed by regulations made under section 387; and
   (d) an infringement offence.
-(2) A District Court presided over by 1 or more Community Magistrates does not have any jurisdiction in respect of a category 1 offence that is a continuing offence.
+(2) The District Court presided over by 1 or more Community Magistrates does not have any jurisdiction in respect of a category 1 offence that is a continuing offence.
 (3) Nothing in section 357 or 358 limits this section.
 
 ### 357 Jurisdiction of Community Magistrates to impose sentence in respect of certain category 2 offences
 (1) This section applies to any category 2 offence (not being a continuing offence) in respect of which—
   (a) the maximum term of imprisonment that can be imposed does not exceed 3 months:
   (b) the sentence that can be imposed relates to an offence punishable by a community-based sentence and not punishable by a term of imprisonment.
-(2) If a person who is charged with an offence to which this section applies pleads guilty to that offence, a District Court presided over by 1 or more Community Magistrates may, in accordance with the Sentencing Act 2002, do 1 or more of the following acts:
+(2) If a person who is charged with an offence to which this section applies pleads guilty to that offence, the District Court presided over by 1 or more Community Magistrates may, in accordance with the Sentencing Act 2002, do 1 or more of the following acts:
   (a) impose, under section 32 of that Act, a sentence of reparation on the offender:
   (b) subject to section 40(3) of that Act, sentence the offender to pay a fine:
   (c) impose, under section 45 of that Act, a sentence of supervision on the offender:
@@ -3174,11 +3176,11 @@ An appellant who has paid a fine or other monetary amount in accordance with a s
   (mb) make, under section 129B of that Act, an order that a written caution be issued and served:
   (n) make, under section 131(2)﻿(a) of that Act, an order that prohibits the offender from acquiring any interest in any motor vehicle within 12 months after the date of the order:
   (o) make, under section 131(3)﻿(a) of that Act, an order that sets aside the disposition by the offender of a motor vehicle or of an interest in a motor vehicle.
-(3) No District Court presided over by 1 or more Community Magistrates may impose on any person for any offence a sentence of imprisonment (within the meaning of section 4(1) of the Sentencing Act 2002).
-(4) A District Court presided over by 1 or more Community Magistrates does not have any jurisdiction to impose a sentence under this section in respect of a category 1 or 2 offence that is a continuing offence.
+(3) The District Court presided over by 1 or more Community Magistrates may not impose on any person for any offence a sentence of imprisonment (within the meaning of section 4(1) of the Sentencing Act 2002).
+(4) The District Court presided over by 1 or more Community Magistrates does not have any jurisdiction to impose a sentence under this section in respect of a category 1 or 2 offence that is a continuing offence.
 
 ### 358 Power to impose penalties provided for in Land Transport Act 1998
-(1) If a person who is charged with an offence to which section 357 applies pleads guilty to that offence, a District Court presided over by 1 or more Community Magistrates—
+(1) If a person who is charged with an offence to which section 357 applies pleads guilty to that offence, the District Court presided over by 1 or more Community Magistrates—
   (a) may, if that offence is an offence to which section 80 of the Land Transport Act 1998 applies, make, under that section, an order disqualifying the person from holding or obtaining a driver licence for any period that the court thinks fit, whether or not the court imposes any other penalty for the offence:
   (b) must, if that offence is a first or second offence to which section 32 of the Land Transport Act 1998 applies, make, in addition to any other penalties it may impose but subject to sections 81 and 94 of that Act, an order under section 32 of that Act disqualifying the person from holding or obtaining a driver licence for 6 months or more, unless the court, for special reasons relating to the offence, thinks fit to order otherwise:
   (ba) must, if that offence is an offence to which section 33 of the Land Transport Act 1998 applies, make, in addition to any other penalties it may impose but subject to sections 81 and 94 of that Act, an order under section 33 of that Act disqualifying the person from holding or obtaining a driver licence for 6 months or more, unless the court, for special reasons relating to the offence, thinks fit to order otherwise:
@@ -3194,45 +3196,52 @@ An appellant who has paid a fine or other monetary amount in accordance with a s
   (gc) must, if that offence is an offence to which section 65B(1) of the Land Transport Act 1998 applies, make an order authorising the person to apply for a zero alcohol licence that has effect for a period of 3 years from the date on which the licence is issued:
   (h) must, if the offence is one to which section 63 of the Land Transport Act 1998 applies, make, in addition to any other penalty the court may impose, and despite section 94 of that Act, an order under section 63 of that Act disqualifying the person from driving any vehicle being used in a transport service (other than a rental service) for any period exceeding 1 year but not exceeding 10 years that the court thinks fit:
   (i) must, if that offence is an offence to which section 79D of the Land Transport Act 1998 applies, make, in addition to any other penalties it may impose but subject to sections 81 and 94 of that Act, an order under section 79D of that Act disqualifying the person from holding or obtaining a transport service licence for 6 months or more, unless the court, for special reasons relating to the offence, thinks fit to order otherwise.
-(2) Nothing in this section restricts section 357 or any other duty or power of a District Court presided over by 1 or more Community Magistrates—
+(2) Nothing in this section restricts section 357 or any other duty or power of the District Court presided over by 1 or more Community Magistrates—
   (a) to disqualify any person from holding or obtaining a driver licence; or
   (b) to impose any other penalty.
 
 ### 359 Ancillary powers under subpart 3 of Part 5, Costs in Criminal Cases Act 1967, Sentencing Act 2002, and Land Transport Act 1998
-A District Court presided over by 1 or more Community Magistrates has, in exercising any power conferred on it by section 357 or 358,—
+The District Court presided over by 1 or more Community Magistrates has, in exercising any power conferred on it by section 357 or 358,—
   (a) power to make any suppression order under subpart 3 of Part 5:
   (b) power to make an order under section 4(3) of the Costs in Criminal Cases Act 1967:
   (c) all the powers and processes that a court has under the Sentencing Act 2002 or the Land Transport Act 1998 for the purpose of perfecting, or giving full effect to, any sentence imposed or order made under any of the provisions of those Acts referred to in section 357 or 358.
 
 ### 360 Power of Community Magistrates to decline jurisdiction
-(1) A District Court presided over by 1 or more Community Magistrates may decline jurisdiction in respect of an offence and may refer the case to a District Court presided over by a District Court Judge.
-(2) If, under subsection (1), a District Court declines jurisdiction in respect of an offence, that court must immediately adjourn the proceeding to a time and place then appointed.
-(3) A District Court to which a matter is referred under subsection (1) may complete or otherwise deal with the matter as if it had been brought before that court in the first instance.
+(1) The District Court presided over by 1 or more Community Magistrates may decline jurisdiction in respect of an offence and may refer the case to the District Court presided over by a District Court Judge.
+(2) If, under subsection (1), the District Court declines jurisdiction in respect of an offence, that court must immediately adjourn the proceeding to a time and place then appointed.
+(3) The District Court to which a matter is referred under subsection (1) may complete or otherwise deal with the matter as if it had been brought before that court in the first instance.
 
 ### 361 Jurisdiction of Justices and Community Magistrates to take pleas
-(1) A District Court presided over by 1 or more Justices or 1 or more Community Magistrates may—
+(1) The District Court presided over by 1 or more Justices or 1 or more Community Magistrates may—
   (a) receive a plea under section 37 from a defendant charged with an offence that is not a category 4 offence:
   (b) require a plea under section 39 from a defendant charged with an offence that is not a category 4 offence.
 (2) If the defendant indicates to the court exercising the power under subsection (1) that he or she wishes to plead guilty to an offence, the defendant must be brought before a Judge to enter a plea.
 (3) Subsection (2) does not apply if—
   (a) the defendant is entering a plea in respect of any offence to which section 357(1) applies; and
   (b) the court exercising jurisdiction under subsection (1) is presided over by 1 or more Community Magistrates.
-(4) Nothing in this section applies when a District Court presided over by 1 or more Justices or 1 or more Community Magistrates is exercising jurisdiction in accordance with section 355 or 356.
+(4) Nothing in this section applies when the District Court presided over by 1 or more Justices or 1 or more Community Magistrates is exercising jurisdiction in accordance with section 355 or 356.
 
 ### 362 Jurisdiction of Justices and Community Magistrates to make and renew interim suppression orders
-(1) Nothing in this section applies when a District Court presided over by 1 or more Justices, or 1 or more Community Magistrates, is exercising—
+(1) Nothing in this section applies when the District Court presided over by 1 or more Justices, or 1 or more Community Magistrates, is exercising—
   (a) jurisdiction in accordance with section 355 or 356; or
   (b) the power in section 359(a).
-(2) On a first appearance in court by a defendant, a District Court presided over by 1 or more Justices, or 1 or more Community Magistrates, may make a suppression order under subpart 3 of Part 5.
-(3) On a subsequent appearance in court by a defendant, a District Court presided over by 1 or more Justices, or 1 or more Community Magistrates, may make a suppression order under subpart 3 of Part 5 if both parties agree to the making of the order.
-(4) Despite section 208, a suppression order made by a District Court presided over by 1 or more Justices, or 1 or more Community Magistrates in the exercise of its jurisdiction under this section may only have effect for a limited period of up to 28 days from the date on which the order is made.
+(2) On a first appearance in court by a defendant, the District Court presided over by 1 or more Justices, or 1 or more Community Magistrates, may make a suppression order under subpart 3 of Part 5.
+(3) On a subsequent appearance in court by a defendant, the District Court presided over by 1 or more Justices, or 1 or more Community Magistrates, may make a suppression order under subpart 3 of Part 5 if both parties agree to the making of the order.
+(4) Despite section 208, a suppression order made by the District Court presided over by 1 or more Justices, or 1 or more Community Magistrates in the exercise of its jurisdiction under this section may only have effect for a limited period of up to 28 days from the date on which the order is made.
 (5) In this section, suppression order has the meaning given to it in section 194.
+
+### 362A Jurisdiction of Justices and Community Magistrates relating to amendment or withdrawal of charges
+(1) A presiding Justice or Community Magistrate (as the case may be) may exercise the power specified in—
+  (a) section 133 (amendment of charge) if the prosecutor and the defendant consent to the amendment:
+  (b) section 146 (withdrawal of charge) if the defendant consents to the prosecutor withdrawing the charge.
+(2) This section applies to category 1, 2, and 3 offences, but not to category 4 offences.
+(3) Nothing in this section applies when the District Court presided over by 1 or more Justices or 1 or more Community Magistrates is exercising jurisdiction in accordance with section 355 or 356.
 
 **Transfer to District Court presided over by District Court Judge**
 
 ### 363 Power to transfer matter to District Court presided over by District Court Judge
-(1) A District Court Judge may, in any case in which the District Court Judge considers it appropriate, order that any matter before a District Court presided over by 1 or more Justices or 1 or more Community Magistrates be transferred to a District Court presided over by a District Court Judge.
-(2) A District Court to which a matter is transferred under subsection (1) may complete or otherwise deal with the matter as if it had been brought before a court presided over by a District Court Judge in the first instance.
+(1) A District Court Judge may, in any case in which the District Court Judge considers it appropriate, order that any matter before the District Court presided over by 1 or more Justices or 1 or more Community Magistrates be transferred to the District Court presided over by a District Court Judge.
+(2) The District Court to which a matter is transferred under subsection (1) may complete or otherwise deal with the matter as if it had been brought before a court presided over by a District Court Judge in the first instance.
 
 ## Part 8 — Miscellaneous and transitional provisions
 
@@ -3255,21 +3264,12 @@ A District Court presided over by 1 or more Community Magistrates has, in exerci
 (9) Subsections (2) to (8) do not limit or affect the Costs in Criminal Cases Act 1967.
 
 ### 365 Contempt of court
-(1) This section applies if any person—
-  (a) wilfully insults a judicial officer, or any Registrar, or any officer of the court, or any juror, or any witness, during his or her sitting or attendance in court, or in going to or returning from the court; or
-  (b) wilfully interrupts the proceedings of a court or otherwise misbehaves in court; or
-  (c) wilfully and without lawful excuse disobeys any order or direction of the court in the course of the hearing of any proceedings.
-(2) If this section applies,—
-  (a) any constable or officer of the court, with or without the assistance of any other person, may, by order of a judicial officer, take the person into custody and detain him or her until the rising of the court; and
-  (b) the judicial officer may, if he or she thinks fit, sentence the person to—
-    (i) imprisonment for a period not exceeding 3 months; or
-    (ii) a fine not exceeding $1,000 for each offence.
-(3) Nothing in this section limits or affects any power or authority of a court to punish any person for contempt of court in any case to which this section does not apply.
+[Repealed]
 
 ### Subpart 2 — Conservation of the peace
 
 ### 366 Application for order for bond to keep the peace
-Any person may apply to a District Court presided over by a District Court Judge for an order requiring any other person to enter into a bond, either with or without sureties, for keeping the peace, on any of the following grounds:
+Any person may apply to the District Court presided over by a District Court Judge for an order requiring any other person to enter into a bond, either with or without sureties, for keeping the peace, on any of the following grounds:
   (a) that the applicant has cause to fear that the defendant will—
     (i) do bodily harm to the applicant or his or her wife, husband, civil union partner, or de facto partner or his or her child or any member of his or her household; or
     (ii) destroy or damage the applicant's house; or
@@ -3300,30 +3300,30 @@ Any person may apply to a District Court presided over by a District Court Judge
   (c) in the case of an application under section 366(c), the court is satisfied that there is just cause for fear that the defendant will, if not prevented, carry the threats into execution.
 
 ### 368 Form of, and entering into, bond
-(1) A bond under section 367 must be entered into by any of the parties to it before a District Court Judge, Justice, Community Magistrate, or Registrar of a District Court.
+(1) A bond under section 367 must be entered into by any of the parties to it before a District Court Judge, Justice, Community Magistrate, or Registrar of the District Court.
 (2) It is not necessary for all the parties to the bond to be present at the same time or place, and more than 1 copy or form of the bond may be authenticated.
 (3) The persons before whom a bond is entered into must give each of the persons entering into it before him or her a notice.
 (4) If a surety or sureties are required, the court may at any time, if it is satisfied that the defendant is unable to obtain the surety or sureties, order that the surety or, as the case may be, any or all of the sureties be dispensed with.
 
 ### 369 Making of order for bond where person charged with offence
 (1) This section applies if—
-  (a) a person is charged before a District Court presided over by a District Court Judge with an offence; and
+  (a) a person is charged before the District Court presided over by a District Court Judge with an offence; and
   (b) the evidence establishes 1 or more grounds that would justify the making of an order for a bond for keeping the peace.
 (2) Whether or not the defendant is convicted of the offence and whether or not any penalty is imposed on the defendant in respect of the offence, the court may make an order under section 367 as if an application had been made under section 366.
 
 ### 370 Refusal to enter into bond
 (1) If a defendant refuses to enter into a bond for keeping the peace when ordered or fails to obtain a surety or sureties as required by the order, the court may order that he or she be committed to a prison for any period not exceeding 2 months.
 (2) Despite subsection (1), a defendant who has failed to obtain the required surety or sureties must not be ordered to be committed to a prison if the defendant satisfies the court that he or she has taken reasonable steps to obtain them.
-(3) A defendant who has been committed to a prison must be immediately released if he or she enters into the bond, or obtains the required surety or sureties, or before the expiry of the period of his or her detention satisfies a District Court presided over by a District Court Judge that he or she has taken reasonable steps to obtain the surety or sureties.
+(3) A defendant who has been committed to a prison must be immediately released if he or she enters into the bond, or obtains the required surety or sureties, or before the expiry of the period of his or her detention satisfies the District Court presided over by a District Court Judge that he or she has taken reasonable steps to obtain the surety or sureties.
 
 ### 371 Persons imprisoned in default of finding sureties may be released on death of person for whose protection order made
 (1) This section applies if—
-  (a) the person for whose protection a District Court has required the defendant to find a surety or sureties of the peace dies; and
+  (a) the person for whose protection the District Court has required the defendant to find a surety or sureties of the peace dies; and
   (b) the defendant is then in a prison in default of finding the surety or sureties.
-(2) A District Court presided over by a District Court Judge may, if it thinks fit, order that the defendant be released from custody without finding the surety or sureties.
+(2) The District Court presided over by a District Court Judge may, if it thinks fit, order that the defendant be released from custody without finding the surety or sureties.
 
 ### 372 Forfeiture of bond
-(1) Any person who has obtained an order requiring any other person to enter into a bond for keeping the peace may apply to a District Court presided over by a District Court Judge for an order for forfeiture of the bond on the ground that the other person has failed to keep the condition of the bond.
+(1) Any person who has obtained an order requiring any other person to enter into a bond for keeping the peace may apply to the District Court presided over by a District Court Judge for an order for forfeiture of the bond on the ground that the other person has failed to keep the condition of the bond.
 (2) On the filing of the application the Registrar must—
   (a) fix a time and place for the hearing of the application; and
   (b) not less than 5 working days before the time fixed, cause to be served on every person bound by the bond a notice of that time and place.
@@ -3378,9 +3378,9 @@ No charging document, summons, conviction, sentence, order, bond, warrant, or ot
   (b) the defendant—
     (i) is convicted of a category 3 offence punishable by a term of imprisonment exceeding 3 years; and
     (ii) did not elect a jury trial.
-(2) No conviction or order or other process or proceeding is invalid by reason only that at the time the defendant was convicted the defendant should by reason of his or her age have been dealt with in a Youth Court.
+(2) No conviction or order or other process or proceeding is invalid by reason only that at the time the defendant was convicted the defendant should by reason of his or her age have been dealt with in the Youth Court.
 (3) On the application of either party, a retrial of the charge may be granted under section 177.
-(4) If, at the time appointed for the retrial, the defendant is still a child or young person within the meaning of the Children, Young Persons, and Their Families Act 1989, the court must remit the proceedings to a Youth Court to be dealt with in that court.
+(4) If, at the time appointed for the retrial, the defendant is still a child or young person within the meaning of the Children, Young Persons, and Their Families Act 1989, the court must remit the proceedings to the Youth Court to be dealt with in that court.
 
 ### 381 Payment of fees, fines, etc
 (1) Section 208 of the Summary Proceedings Act 1957 applies to all fees, fines, reparation, costs, and other money payable on any proceedings commenced by the filing of a charging document.
@@ -3398,7 +3398,7 @@ No charging document, summons, conviction, sentence, order, bond, warrant, or ot
 (7)
 
 ### 383 Enforcement of fines
-(1) If a District Court imposes 1 or more fines, Part 3 of the Summary Proceedings Act 1957 applies.
+(1) If the District Court imposes 1 or more fines, Part 3 of the Summary Proceedings Act 1957 applies.
 (2) If the High Court imposes 1 or more fines, section 19 of the Crimes Act 1961 applies.
 (3) In this section and section 384, fine has the meaning given to it in section 79 of the Summary Proceedings Act 1957.
 
@@ -3419,7 +3419,7 @@ A Judge or Registrar may, subject to any terms or conditions that the Judge or R
 **Rules and regulations**
 
 ### 386 Rules
-(1) The power to make rules of court under section 51C of the Judicature Act 1908 and section 122(1) of the District Courts Act 1947 includes the power to make rules regulating the practice and procedure of courts in the exercise of jurisdiction conferred by this Act.
+(1) The power to make rules of court under section 148 of the Senior Courts Act 2016 and section 228(1) of the District Court Act 2016 includes the power to make rules regulating the practice and procedure of courts in the exercise of jurisdiction conferred by this Act.
 (2) Without limiting the generality of subsection (1), rules made in accordance with that subsection may—
   (a) prescribe the manner in which applications and notices or notifications may be made or given (including whether orally or in writing), and the manner in which they may be responded to:
   (b) prescribe the manner in which charging documents, applications, notices, and other documents are to be filed:
@@ -3453,7 +3453,7 @@ A Judge or Registrar may, subject to any terms or conditions that the Judge or R
 (4) Rules made in accordance with subsection (1) may—
   (a) apply generally or only to a particular class of prosecutor or defendant, category of offence, class of document, or other matter or thing:
   (b) apply differently to different classes of prosecutor or defendant, categories of offence, or classes of document, or on any other differential basis.
-(5) Rules made in accordance with subsection (1) may regulate the practice and procedure in proceedings under this Act in the Supreme Court, the Court of Appeal, the High Court, and District Courts (including the practice and procedure for appeals).
+(5) Rules made in accordance with subsection (1) may regulate the practice and procedure in proceedings under this Act in the Supreme Court, the Court of Appeal, the High Court, and the District Court (including the practice and procedure for appeals).
 
 ### 387 Regulations
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
