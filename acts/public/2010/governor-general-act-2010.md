@@ -1,5 +1,5 @@
 # Governor-General Act 2010
-_Consolidation as at 2017-02-16_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Governor-General Act 2010.
@@ -115,8 +115,8 @@ If the Chief Justice, or the next most senior Judge of the New Zealand judiciary
 
 ### 17 Appeal against decision of authorised person
 (1) If a person who claims to be entitled to an annuity under section 9 is dissatisfied with a decision made by an authorised person under section 16, he or she may appeal against the decision to the High Court.
-(2) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947 apply, with all necessary modifications, to an appeal under subsection (1) as if it were an appeal under section 72 of that Act against a decision of a District Court.
-(3) The provisions of the Judicature Act 1908 relating to appeals to the Court of Appeal against a decision of the High Court apply to an order or decision of the High Court on an appeal under subsection (1).
+(2) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
+(3) The provisions of the Senior Courts Act 2016 relating to appeals to the Court of Appeal against a decision of the High Court apply to an order or decision of the High Court on an appeal under subsection (1).
 
 **Amendments to Civil List Act 1979**
 
