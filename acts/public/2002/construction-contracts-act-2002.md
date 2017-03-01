@@ -1,5 +1,5 @@
 # Construction Contracts Act 2002
-_Consolidation as at 2016-09-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Construction Contracts Act 2002.
@@ -61,7 +61,7 @@ In this Act, unless the context otherwise requires,—
     (b) includes, for the avoidance of doubt, any variations to that amount agreed to between the parties to the contract
   - **court** means—
     (a) the High Court; or
-    (b) a District Court in any proceeding in which the amount claimed or in issue does not exceed the amount to which the jurisdiction of the District Court is limited in civil cases
+    (b) the District Court in any proceeding in which the amount claimed or in issue does not exceed the amount to which the jurisdiction of the District Court is limited in civil cases
   - **customised components** , in relation to a building or structure, means components that are specifically designed or modified for that particular building or structure
   - **defendant** means a party—
     (a) against whom an adjudication determination is made; and
@@ -93,7 +93,7 @@ In this Act, unless the context otherwise requires,—
   - **scheduled amount** has the meaning set out in section 19
   - **tribunal** means—
     (a) an arbitral tribunal; or
-    (b) a Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988
+    (b) the Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988
   - **working day** means a day of the week (irrespective of whether or not work is actually carried out on that day) other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
@@ -817,13 +817,13 @@ An adjudicator may not be required to give evidence in any civil proceedings on 
 **Review of adjudicator's determination in respect of owner who is not respondent**
 
 ### 71A Owner who is not respondent may apply to District Court for review of adjudicator's determination
-(1) An owner who is not a respondent may apply to a District Court for a review of—
+(1) An owner who is not a respondent may apply to the District Court for a review of—
   (a) an adjudicator's determination that the owner is jointly and severally liable with the respondent to make a payment to the claimant; and
   (b) an adjudicator's approval for the issue of a charging order in respect of the construction site.
-(2) A District Court has the jurisdiction to hear and determine an application for review under this section despite any limits imposed on District Courts in their ordinary civil jurisdiction by sections 29 to 34 of the District Courts Act 1947.
+(2) The District Court has the jurisdiction to hear and determine an application for review under this section despite any limits imposed on the District Court in its ordinary civil jurisdiction by sections 74 to 79 of the District Court Act 2016.
 
 ### 71B Procedure for seeking review
-(1) An application for review under section 71A must be made by filing a notice, in the prescribed form (if any), in the District Court nearest to the place at which the adjudication proceedings to which the application for review relates were held.
+(1) An application for review under section 71A must be made by filing a notice, in the prescribed form (if any), in the office of the District Court nearest to the place at which the adjudication proceedings to which the application for review relates were held.
 (2) The notice must be filed—
   (a) within 20 working days after the date of the determination to which the application for review relates; or
   (b) within any further time that the District Court may allow on application made before or after the expiration of the period referred to in paragraph (a).
@@ -832,11 +832,11 @@ An adjudicator may not be required to give evidence in any civil proceedings on 
 (1) For the purpose of hearing the application for review, the District Court—
   (a) must conduct the review as a hearing de novo of the relevant dispute; and
   (b) has all the powers, duties, functions, and discretions of the adjudicator in making the determination to which the application for review relates; and
-  (c) has all the powers vested in a District Court in its civil jurisdiction.
+  (c) has all the powers vested in the District Court in its civil jurisdiction.
 (2) On hearing the application for review, the District Court may—
   (a) quash the determination, and substitute for it any other determination that the adjudicator could have made in respect of the original proceedings; or
   (b) refuse the application.
-(3) A District Court's determination under subsection (2)﻿(a)—
+(3) The District Court’s determination under subsection (2)﻿(a)—
   (a) has effect as if it were a determination made by an adjudicator for the purposes of this Act; and
   (b) is not a final determination of the dispute between the claimant and respondent to the adjudication under review.
 (4) Subsection (3)﻿(b) does not prevent any proceedings between the claimant and respondent to the adjudication under review from being heard and determined at the same time as the application for review under this section.
@@ -857,7 +857,7 @@ An application for review under section 71A does not operate as a stay of the ad
 (1)
 (2) A plaintiff may apply for an adjudicator's determination to be enforced by entry as a judgment in accordance with this subpart.
 (3) The application—
-  (a) may be made to a District Court; and
+  (a) may be made to the District Court; and
   (b) must be made in the manner provided by the rules of that court (if any).
 (4) Either before or immediately after making the application, the plaintiff must serve on the defendant—
   (a) a copy of the application; and
@@ -896,10 +896,10 @@ If the defendant takes no steps within 5 working days after the date on which a 
 **Miscellaneous**
 
 ### 77 Effect of entry of judgment
-To avoid doubt, an adjudicator's determination entered as a judgment may be enforced by execution in accordance with the District Courts Rules 1992.
+To avoid doubt, an adjudicator's determination entered as a judgment may be enforced by execution in accordance with the District Court Rules 2014.
 
 ### 78 Application of rules relating to charging orders
-To avoid doubt, the provisions of the District Courts Rules 1992 relating to charging orders apply to charging orders issued in accordance with this Act.
+To avoid doubt, the provisions of the District Court Rules 2014 relating to charging orders apply to charging orders issued in accordance with this Act.
 
 ## Part 5 — Miscellaneous provisions
 
@@ -916,11 +916,11 @@ Any notice or any other document required to be served on, or given to, any pers
   (d) the notice or document is sent in the manner (if any) prescribed in regulations made under this Act.
 
 ### 81 Rules of court
-(1) In addition to all other powers conferred by the District Courts Act 1947, the Governor-General may, by Order in Council, make rules regulating the practice and procedure of District Courts in proceedings under this Act.
+(1) In addition to all other powers conferred by the District Court Act 2016, the Governor-General may, by Order in Council, make rules regulating the practice and procedure of the District Court in proceedings under this Act.
 (2) Rules may be made under subsection (1) only with the concurrence of—
   (a) the Chief District Court Judge; and
-  (b) 2 or more members of the Rules Committee established under section 51B of the Judicature Act 1908 of whom at least 1 is a District Court Judge.
-(3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the District Courts Act 1947 apply, with all necessary modifications, to proceedings under this Act.
+  (b) 2 or more members of the Rules Committee established under section 155 of the Senior Courts Act 2016 of whom at least 1 is a District Court Judge.
+(3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the District Court Act 2016 apply, with all necessary modifications, to proceedings under this Act.
 
 ### 82 Regulations
 (1) The Governor-General may, by Order in Council, make regulations providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
