@@ -1,5 +1,5 @@
 # Maritime Security Act 2004
-_Consolidation as at 2016-11-29_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Maritime Security Act 2004.
@@ -297,7 +297,7 @@ The chief executive, or a recognised security organisation engaged under section
 ### 25 Review of decisions to not approve ship security plans
 (1) If the chief executive decides not to approve a ship security plan, or an amendment to a previously approved ship security plan, the company may request the chief executive to review his or her decision.
 (2) If the chief executive receives a request to review his or her decision, the chief executive must carry out his or her review and report the results of the review to the requesting company within 15 working days of the date on which the chief executive received the request.
-(3) If, after a review, the chief executive or recognised security organisation declines to approve a ship security plan, the company may appeal against that decision to a District Court under section 64.
+(3) If, after a review, the chief executive or recognised security organisation declines to approve a ship security plan, the company may appeal against that decision to the District Court under section 64.
 
 ### 26 Ship must have ship security plan on board
 The master and the company of a ship must ensure that the ship has on board a ship security plan that—
@@ -530,7 +530,7 @@ The chief executive must approve a port facility security plan, or any amendment
 ### 43 Review of decision not to approve port facility security plans
 (1) If the chief executive decides not to approve a port facility security plan, or an amendment to a previously approved port facility security plan, the port facility operator may request the chief executive to review his or her decision.
 (2) If the chief executive receives a request to review his or her decision, the chief executive must carry out the review and report the results of the review to the requesting port facility operator within 15 working days of the date on which the chief executive received the request.
-(3) If, after a review, the chief executive declines to approve a port facility security plan, the port facility operator may appeal against that decision to a District Court under section 64.
+(3) If, after a review, the chief executive declines to approve a port facility security plan, the port facility operator may appeal against that decision to the District Court under section 64.
 
 ## Part 3 — Preventive security measures
 
@@ -822,7 +822,7 @@ No employee of a port facility or an organisation servicing a port facility, or 
 **Appeal rights**
 
 ### 64 Right of appeal to District Court
-(1) A person has a right of appeal to a District Court if affected by a decision of the chief executive under section 23, section 25, section 41, or section 43.
+(1) A person has a right of appeal to the District Court if affected by a decision of the chief executive under section 23, section 25, section 41, or section 43.
 (2) The court may confirm, reverse, or modify the decision appealed against.
 (3) Every decision appealed against under this section continues in force pending the determination of the appeal, and no person is excused from complying with any of the provisions of this Act on the ground that any appeal is pending.
 (4) Even though an appeal under this section may have been determined in favour of the appellant, the chief executive may, subject to the like right of appeal, revoke the District Court's approval of a ship security plan or a port facility security plan if the chief executive has sufficient grounds supported by facts or evidence discovered since the hearing of the appeal.
