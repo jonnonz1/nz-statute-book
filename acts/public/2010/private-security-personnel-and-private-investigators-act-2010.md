@@ -1,5 +1,5 @@
 # Private Security Personnel and Private Investigators Act 2010
-_Consolidation as at 2015-03-06_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Private Security Personnel and Private Investigators Act 2010.
@@ -22,7 +22,7 @@ In this Act, unless the context otherwise requires,—
   - **confidential document destruction agent employee** has the meaning given to it in section 16
   - **consumer goods** has the same meaning as in section 5 of the Credit Contracts and Consumer Finance Act 2003
   - **credit bureau** means a person, or an association of persons whether incorporated or unincorporated, who, in consideration of the payment of a subscription, fee, or levy, supplies to a subscriber to the service provided by that person or association, or to a member of that association, but to no other person, information relating to the financial position of a person
-  - **creditor** has the same meaning as in section 5 of the Credit Contracts and Consumer Finance Act 2003, and includes a creditor referred to in section 83B(2)(b) of that Act
+  - **creditor** has the same meaning as in section 5 of the Credit Contracts and Consumer Finance Act 2003, and includes a creditor referred to in section 83B(2)﻿(b) of that Act
   - **crowd controller** has the meaning given to it in section 11
   - **crowd controller employee** has the meaning given to it in section 19
   - **Crown** has the meaning given to it in section 2(1) of the Public Finance Act 1989
@@ -90,7 +90,7 @@ In this Act, unless the context otherwise requires,—
     (i) a burglar alarm or similar warning device intended to immediately alert a person or persons to the presence of a person or persons in a particular place; or
     (ii) a locking device for a safe or a strongroom; or
   (b) installing, operating, causing to be operated, or repairing, on or in, or removing from, any premises or other place not owned or occupied by himself or herself or his or her firm or any of his or her partners, any camera or similar device for the purpose of detecting the commission of any offence by any person.
-(2) Subsection (1)(b) applies even if more than one purpose exists for the installation, operation, repair, or removal of the camera or similar device so long as one of the purposes is to detect the commission of any offence by any person.
+(2) Subsection (1)﻿(b) applies even if more than one purpose exists for the installation, operation, repair, or removal of the camera or similar device so long as one of the purposes is to detect the commission of any offence by any person.
 
 ### 7 Meaning of security consultant
 In this Act, security consultant means a person who for valuable consideration, either by himself or herself or in partnership with any other person, carries on a business—
@@ -112,7 +112,7 @@ In this Act, repossession agent means a person who for valuable consideration, e
   (b) monitoring in real time, elsewhere than on premises owned or occupied by himself or herself or his or her firm or any of his or her partners, any of the following:
     (i) a burglar alarm or similar warning device intended to immediately alert a person or persons to the presence of a person or persons in a particular place:
     (ii) a camera or similar device; or
-  (c) responding to any device in paragraph (b)(i) or (ii) that has been activated and that is on any part of any premises that are not owned or occupied by himself or herself or his or her firm or any of his or her partners.
+  (c) responding to any device in paragraph (b)﻿(i) or (ii) that has been activated and that is on any part of any premises that are not owned or occupied by himself or herself or his or her firm or any of his or her partners.
 (2) A person is not a property guard solely because he or she does the work described in section 8.
 
 ### 10 Meaning of personal guard
@@ -150,7 +150,7 @@ In this Act, security technician employee means an individual who in the course 
 
 ### 15 Meaning of security consultant employee
 In this Act, security consultant employee means an individual who in the course of his or her employment, or engagement as a contractor, by a security consultant—
-  (a) enters any premises that are not owned or occupied by the security consultant, the security consultant's firm, or any of the security consultant's partners for the purpose of selling or attempting to sell any device of the kind referred to in section 6(1)(a) or (b); or
+  (a) enters any premises that are not owned or occupied by the security consultant, the security consultant's firm, or any of the security consultant's partners for the purpose of selling or attempting to sell any device of the kind referred to in section 6(1)﻿(a) or (b); or
   (b) enters any premises that are not owned or occupied by the security consultant, the security consultant's firm, or any of the security consultant's partners for the purpose of advising the owner or occupier of the premises on the desirability of having installed on the premises any, or any further, such device; or
   (c) enters any premises that are not owned or occupied by the security consultant, the security consultant's firm, or any of the security consultant's partners for the purpose of advising the owner or occupier of the premises on the desirability of having guarded the premises or any other property that may from time to time be on the premises or dispatched from the premises.
 
@@ -170,7 +170,7 @@ In this Act, property guard employee means an individual who in the course of hi
   (b) monitors in real time, elsewhere than on premises owned or occupied by the property guard, the property guard's firm, or any of the property guard's partners, any of the following:
     (i) a burglar alarm or similar warning device intended to immediately alert a person or persons to the presence of a person or persons in a particular place:
     (ii) a camera or similar device; or
-  (c) responds to any device in paragraph (b)(i) or (ii) that has been activated and that is on any part of any premises that are not owned or occupied by the property guard, the property guard's firm, or any of the property guard's partners.
+  (c) responds to any device in paragraph (b)﻿(i) or (ii) that has been activated and that is on any part of any premises that are not owned or occupied by the property guard, the property guard's firm, or any of the property guard's partners.
 
 ### 18 Meaning of personal guard employee
 In this Act, personal guard employee means an individual who in the course of his or her employment, or engagement as a contractor, by a personal guard—
@@ -183,8 +183,8 @@ In this Act, personal guard employee means an individual who in the course of hi
   (b) keeps order in a place (more than merely being expected to draw the attention of others to behaviour that is inappropriate or threatens to become inappropriate):
   (c) removes any person from a place.
 (2) A person is not a crowd controller employee if—
-  (a) he or she is not employed or engaged primarily to do work of a kind specified in subsection (1)(a), (b), or (c), but performs that work incidentally to the principal work he or she performs; or
-  (b) he or she does the work specified in section 18(b) and no other work of a kind specified in subsection (1)(a), (b), or (c).
+  (a) he or she is not employed or engaged primarily to do work of a kind specified in subsection (1)﻿(a), (b), or (c), but performs that work incidentally to the principal work he or she performs; or
+  (b) he or she does the work specified in section 18(b) and no other work of a kind specified in subsection (1)﻿(a), (b), or (c).
 
 ### 20 Governor-General may by Order in Council exclude persons from definition of repossession employee, property guard employee, personal guard employee, and crowd controller employee
 (1) The Governor-General may, by Order in Council, made on the recommendation of the Minister, declare that certain persons or classes of persons are not any one of the classes of responsible employee described in sections 16A, 17, 18, and 19—
@@ -266,7 +266,7 @@ Nothing in this Act—
 (1) On receipt of an application under section 24 or 25, the Licensing Authority—
   (a) may make whatever inquiries it considers necessary in order to determine whether or not the application should be granted; and
   (b) without limiting paragraph (a), may provide a copy of the application to the chief investigator of the Complaints, Investigation, and Prosecution Unit and request the chief investigator to cause a report on the application to be prepared by the unit for the Licensing Authority.
-(2) For the purpose of preparing a report under subsection (1)(b) the chief investigator of the Complaints, Investigation, and Prosecution Unit and any person authorised by the chief investigator may make whatever inquiries he or she considers necessary in order to verify the information contained in the application.
+(2) For the purpose of preparing a report under subsection (1)﻿(b) the chief investigator of the Complaints, Investigation, and Prosecution Unit and any person authorised by the chief investigator may make whatever inquiries he or she considers necessary in order to verify the information contained in the application.
 
 ### 27 Notice of application for licence
 (1) The Licensing Authority must serve on the Police a notice of every application for a licence and the information contained in it.
@@ -303,7 +303,7 @@ Nothing in this Act—
   (a) the applicant; and
   (b) any person who has filed a notice of objection in accordance with section 28 or 29; and
   (c) if the Licensing Authority received a report on the application from the Complaints, Investigation, and Prosecution Unit, the chief investigator of the unit.
-(2) If the Licensing Authority received a report requested under section 26(1)(b) and suspects on the basis of that report that there may be grounds for refusing the application, the Licensing Authority must, not later than 10 working days before the date of the hearing, provide the applicant with a statement of the reasons for this.
+(2) If the Licensing Authority received a report requested under section 26(1)﻿(b) and suspects on the basis of that report that there may be grounds for refusing the application, the Licensing Authority must, not later than 10 working days before the date of the hearing, provide the applicant with a statement of the reasons for this.
 (3) At the hearing, the applicant, every objector, and, if the Licensing Authority received a report on the application from the Complaints, Investigation, and Prosecution Unit, the chief investigator of the unit or a person authorised by the chief investigator—
   (a) is entitled to appear, be heard, call evidence, and cross-examine and re-examine witnesses; and
   (b) may conduct his or her case personally or may be represented by counsel.
@@ -462,7 +462,7 @@ The Licensing Authority must, after issuing a licence, notify the Commissioner o
 (1) On receipt of an application, the Licensing Authority—
   (a) may make whatever inquiries it considers necessary in order to determine whether or not the application should be granted; and
   (b) without limiting paragraph (a), may provide a copy of the application to the chief investigator of the Complaints, Investigation, and Prosecution Unit and request the chief investigator to cause a report on the application to be prepared by the unit for the Licensing Authority.
-(2) For the purpose of preparing a report under subsection (1)(b) the chief investigator of the Complaints, Investigation, and Prosecution Unit and any person authorised by the chief investigator may make whatever inquiries he or she considers necessary in order to verify the information contained in the application.
+(2) For the purpose of preparing a report under subsection (1)﻿(b) the chief investigator of the Complaints, Investigation, and Prosecution Unit and any person authorised by the chief investigator may make whatever inquiries he or she considers necessary in order to verify the information contained in the application.
 
 ### 48 Notice of application for certificate of approval
 (1) The Licensing Authority must serve on the Police a notice of every application for a certificate of approval and the information contained in it.
@@ -557,12 +557,12 @@ The Licensing Authority must, after issuing a certificate of approval, notify th
 (2) The Licensing Authority may issue a temporary certificate of approval at any time after receiving a correct application for a certificate of approval under section 46 if,—
   (a) in the case of an applicant applying for a certificate as a responsible employee of a class in section 13, 14, 16A, 17, 18, or 19, the applicant is of or over the age of 18 years; and
   (b) the prescribed fee (if any) is paid; and
-  (c) except as provided for in subsection (3)(b), the application does not disclose any ground on which the applicant is disqualified under section 62; and
+  (c) except as provided for in subsection (3)﻿(b), the application does not disclose any ground on which the applicant is disqualified under section 62; and
   (d) there is no reason to believe that the application contains statements that are incorrect; and
   (e) in the opinion of the Licensing Authority there are no other reasons disclosed by the application why the applicant may be unsuitable to be a responsible employee of the class or classes to which the application relates.
 (3) The Licensing Authority may issue a temporary certificate of approval under this section even if—
   (a) the time for the Police to file an objection under section 49 has not expired; or
-  (b) the applicant has not met the requirements prescribed in regulations made under section 114(1)(h).
+  (b) the applicant has not met the requirements prescribed in regulations made under section 114(1)﻿(h).
 (4) A temporary certificate of approval issued under subsection (2) gives the holder all the rights and duties of a certificate of approval issued under section 54 to be a responsible employee of the class or classes to which the application relates.
 (5) A temporary certificate of approval is in force for a period of 3 months after the date of its issue, or until a certificate of approval is issued to the applicant under section 54, whichever comes first.
 
@@ -590,7 +590,7 @@ The Licensing Authority must, after issuing a certificate of approval, notify th
 ### 62 Grounds of disqualification for individual applicant
 The grounds of disqualification for an individual applicant for a licence, or an applicant for a certificate of approval, are that the individual—
   (a) has been ordered by a court to be detained in a hospital owing to his or her mental condition and is currently subject to such an order; or
-  (b) has ever had an order made in relation to him or her under section 34(1)(b) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, section 118 of the Criminal Justice Act 1985, or section 39J of the Criminal Justice Act 1954 (being an order imposed, instead of passing sentence, that the offender be treated or cared for in a manner that the offender's mental impairment requires, either in the offender's interest, or for the safety of the public, or for the safety of a person or class of person); or
+  (b) has ever had an order made in relation to him or her under section 34(1)﻿(b) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, section 118 of the Criminal Justice Act 1985, or section 39J of the Criminal Justice Act 1954 (being an order imposed, instead of passing sentence, that the offender be treated or cared for in a manner that the offender's mental impairment requires, either in the offender's interest, or for the safety of the public, or for the safety of a person or class of person); or
   (c) has ever been ordered by a court to be detained in a penal institution following conviction for an offence and that conviction or order has not been quashed on appeal; or
   (d) has ever been convicted of a specified offence as defined in section 4 of the Criminal Records (Clean Slate) Act 2004; or
   (e) has ever been disqualified from driving under section 65 of the Land Transport Act 1998 or an earlier equivalent provision; or
@@ -606,7 +606,7 @@ The grounds of disqualification for an individual applicant for a licence, or an
     (viii) offence under this Act of working while not holding a licence or relevant certificate of approval or employing or engaging a person without a relevant certificate of approval, or an offence under section 16, 34, or 52 of the Private Investigators and Security Guards Act 1974; or
   (g) holds a licence or certificate of approval that has been suspended; or
   (h) has, within the preceding 7 years, had a licence or certificate of approval cancelled under this Act or the Private Investigators and Security Guards Act 1974; or
-  (i) does not meet the requirements prescribed in regulations made under section 114(1)(h); or
+  (i) does not meet the requirements prescribed in regulations made under section 114(1)﻿(h); or
   (j) in the case of an applicant for a licence, has not, within the preceding 5 years, had 12 months' relevant experience as a licensee or responsible employee in the class or classes of private security business to which the application relates.
 
 **Grounds of disqualification: Company**
@@ -624,7 +624,7 @@ The grounds of disqualification for an individual applicant for a licence, or an
   (d) an officer of the company was, or is, an officer of another company (whether or not that other company is still in existence) that, within the preceding 7 years, had a licence cancelled under this Act or the Private Investigators and Security Guards Act 1974; or
   (e) any of the grounds of disqualification in section 62(a) to (h) apply to any officer of the company; or
   (f) every officer of the company is disqualified under section 62(i) and (j).
-(2) For the purposes of subsection (1)(e) and (f), section 62 must be read as if the officer were the applicant for the licence.
+(2) For the purposes of subsection (1)﻿(e) and (f), section 62 must be read as if the officer were the applicant for the licence.
 
 **Waiver of ground of disqualification**
 
@@ -679,7 +679,7 @@ A licensee or certificate holder or person who employs or engages any repossessi
 (1) A licensee or certificate holder or person who employs or engages any repossession employee or crowd controller employee must, when required to do so by a constable or a person authorised by the chief investigator of the Complaints, Investigation, and Prosecution Unit (authorised person),—
   (a) show the constable or authorised person without delay any record or document that is required by regulations made under this Act to be kept by the licensee or certificate holder:
   (b) make a copy of all or specified parts of a record or document of a kind referred to in paragraph (a) and give it to the constable or authorised person, or if that is impracticable, give the constable or authorised person the record or document or specified part of it.
-(2) If a licensee or certificate holder or person who employs or engages any repossession employee or crowd controller employee gives a constable or authorised person a record or document, or a specified part of it, under subsection (1)(b), the constable or authorised person must—
+(2) If a licensee or certificate holder or person who employs or engages any repossession employee or crowd controller employee gives a constable or authorised person a record or document, or a specified part of it, under subsection (1)﻿(b), the constable or authorised person must—
   (a) give a receipt for the record or document or specified part of it; and
   (b) return it within 2 hours.
 (3) A licensee or certificate holder or person who employs or engages any repossession employee or crowd controller employee commits an offence and is liable on conviction to a fine not exceeding $2,000 if the licensee or certificate holder or person fails without reasonable excuse to comply with subsection (1).
@@ -770,7 +770,7 @@ A licensee or certificate holder or person who employs or engages any repossessi
   (b) to the complainant (if any); and
   (c) if the Licensing Authority wishes the Police to attend, to the Commissioner of Police; and
   (d) if the Licensing Authority received a report from the Complaints, Investigation, and Prosecution Unit, the chief investigator of the unit.
-(4) If the Licensing Authority is holding a hearing under subsection (1)(b), the Licensing Authority must, not later than 10 working days before the date of the hearing, provide the licensee or certificate holder with a statement of the reasons for this.
+(4) If the Licensing Authority is holding a hearing under subsection (1)﻿(b), the Licensing Authority must, not later than 10 working days before the date of the hearing, provide the licensee or certificate holder with a statement of the reasons for this.
 (5) At the hearing, the following persons are entitled to appear, be heard, call evidence, and to cross-examine and re-examine witnesses:
   (a) the complainant (if any); and
   (b) the licensee or certificate holder; and
@@ -782,7 +782,7 @@ A licensee or certificate holder or person who employs or engages any repossessi
 **Powers of Authority: Licensees**
 
 ### 78 Disciplinary powers of Licensing Authority in respect of licensee
-(1) If, after a hearing in accordance with section 77, the Licensing Authority is satisfied that the grounds for disciplinary action in the complaint or under section 77(1)(b), as the case may be, have been proved, the Licensing Authority—
+(1) If, after a hearing in accordance with section 77, the Licensing Authority is satisfied that the grounds for disciplinary action in the complaint or under section 77(1)﻿(b), as the case may be, have been proved, the Licensing Authority—
   (a) must cancel the licence if section 79 applies:
   (b) may cancel the licence if section 80 applies:
   (c) may, in addition to cancellation under paragraph (a), or in addition to or instead of cancellation under paragraph (b), do all or any of the following things that may be appropriate:
@@ -805,7 +805,7 @@ A licensee or certificate holder or person who employs or engages any repossessi
   (b) the Commissioner of Police; and
   (c) any complainant; and
   (d) the chief investigator of the Complaints, Investigation, and Prosecution Unit.
-(7) If the Licensing Authority makes an order under subsection (1)(c)(viii), it must as soon as practicable also give notice in writing of the order to the officer to whom it relates.
+(7) If the Licensing Authority makes an order under subsection (1)﻿(c)﻿(viii), it must as soon as practicable also give notice in writing of the order to the officer to whom it relates.
 
 ### 79 Mandatory grounds for cancellation of licence
 (1) This section applies (and, under section 78, cancellation of the licence is mandatory) if—
@@ -813,7 +813,7 @@ A licensee or certificate holder or person who employs or engages any repossessi
   (b) the Licensing Authority is satisfied that the licence was issued by mistake or by reason of fraud on the part of the applicant for the licence.
 (2) Subsection (3) applies if—
   (a) the licensee is a company; and
-  (b) the reason that the Licensing Authority is satisfied that the licensee is unsuitable to be a licensee under subsection (1)(a) is because an officer of the company is disqualified under section 62.
+  (b) the reason that the Licensing Authority is satisfied that the licensee is unsuitable to be a licensee under subsection (1)﻿(a) is because an officer of the company is disqualified under section 62.
 (3) The Licensing Authority must not cancel the company's licence if—
   (a) the person became an officer of the company after the company obtained its licence; and
   (b) within 2 weeks of the person becoming an officer of the company, the company applied to the Licensing Authority under section 40(2) for the approval of the officer; and
@@ -833,7 +833,7 @@ A licensee or certificate holder or person who employs or engages any repossessi
     (ii) had an order imposed in relation to him or her by any court or tribunal outside New Zealand, instead of passing sentence, that he or she be treated or cared for in relation to his or her mental impairment:
   (g) a person specified in subsection (2) is adjudged bankrupt, or makes any assignment for the benefit of his or her creditors, or makes any composition with his or her creditors:
   (h) in the case of a licensee that is a company, the High Court makes an order for the winding up of the licensee, or the licensee passes a resolution for voluntary winding up:
-  (i) in the case of a licensee that is a company, the licensee fails to comply with an order made under section 78(1)(c)(viii) in respect of any officer of the company:
+  (i) in the case of a licensee that is a company, the licensee fails to comply with an order made under section 78(1)﻿(c)﻿(viii) in respect of any officer of the company:
   (j) the Licensing Authority determines that a false statement was made in the application for a licence of any person specified in subsection (2).
 (2) The persons referred to in subsection (1) are—
   (a) the licensee; and
@@ -842,7 +842,7 @@ A licensee or certificate holder or person who employs or engages any repossessi
 **Powers of Authority: Certificate holders**
 
 ### 81 Disciplinary powers of Licensing Authority in respect of holder of certificate of approval
-(1) If, after a hearing in accordance with section 77, the Licensing Authority is satisfied that the grounds for disciplinary action in the complaint or under section 77(1)(b), as the case may be, have been proved, the Licensing Authority—
+(1) If, after a hearing in accordance with section 77, the Licensing Authority is satisfied that the grounds for disciplinary action in the complaint or under section 77(1)﻿(b), as the case may be, have been proved, the Licensing Authority—
   (a) must cancel the certificate of approval if section 82 applies:
   (b) may cancel the certificate of approval if section 83 applies:
   (c) may, in addition to cancellation under paragraph (a), or in addition to or instead of cancellation under paragraph (b), do all or any of the following things that may be appropriate:
@@ -989,8 +989,8 @@ The chief executive of the responsible department must provide for the Licensing
   (a) that the information contained in the registers is available to members of the public to view at all reasonable times; and
   (b) that members of the public may copy or purchase all, or any part of, the information contained in the registers at no more than a reasonable cost.
 (2) Despite subsection (1),—
-  (a) no residential address recorded under section 97(2)(a) or (3)(a) may be made available to the public for inspection; and
-  (b) no copy of a register or part of a register provided to a member of the public may contain a residential address recorded under section 97(2)(a) or (3)(a).
+  (a) no residential address recorded under section 97(2)﻿(a) or (3)﻿(a) may be made available to the public for inspection; and
+  (b) no copy of a register or part of a register provided to a member of the public may contain a residential address recorded under section 97(2)﻿(a) or (3)﻿(a).
 
 ### 99 Statement by Licensing Authority as to contents of register
 A written statement of either of the following kinds signed by the Licensing Authority is, in any judicial proceedings, sufficient evidence, until the contrary is proved, of the matters referred to in the statement:
@@ -1017,7 +1017,7 @@ The functions of the Complaints, Investigation, and Prosecution Unit are—
 **General provisions**
 
 ### 102 Appeals to District Court
-(1) The following persons have a right of appeal to a District Court against a decision of the Licensing Authority under this Act:
+(1) The following persons have a right of appeal to the District Court against a decision of the Licensing Authority under this Act:
   (a) if an application is refused (whether in whole or in part), the applicant; and
   (b) if an applicant is dissatisfied with a condition imposed by the Authority under section 33(7) or 53(7), the applicant; and
   (c) if an application is granted (in whole or in part), a person who objected to the granting of the application; and
@@ -1028,7 +1028,7 @@ The functions of the Complaints, Investigation, and Prosecution Unit are—
   (h) if there was a complaint made by a constable under Part 4 but the licence or certificate of approval in relation to which the complaint was made was not suspended or cancelled, the Commissioner of Police.
 (2) An appeal under this section must be brought within 28 days after the date on which the appellant was notified in writing by the Licensing Authority of the decision appealed against, or within any further period that the court may allow.
 (3) The appeal—
-  (a) must be made by way of originating application in accordance with the District Courts Rules 2009; and
+  (a) must be made by way of originating application in accordance with the District Court Rules 2014; and
   (b) must be filed in the office of the District Court nearest to the registered office of the licensee (if a company) or principal place of business of the licensee (if not a company), or to the place of employment or engagement of the certificate holder, as the case may require.
 (4) On hearing the appeal, the court may—
   (a) confirm, vary, or reverse the decision appealed against; or
@@ -1121,17 +1121,17 @@ If the Licensing Authority is satisfied that a holder of a licence or certificat
   (h) prescribing the competency, knowledge, and skills required by applicants for licences and certificates of approval, applicants for renewal of licences and certificates of approval, and licensees and certificate holders, including, without limitation, by—
     (i) requiring that a particular course of study or training has been successfully completed:
     (ii) requiring a person to have met a specified standard or other measure of competency, knowledge, and skills:
-  (i) prescribe the organisation or organisations that may provide the courses of study or training referred to in paragraph (h)(i) and provide for the monitoring of those organisations by the Licensing Authority:
+  (i) prescribe the organisation or organisations that may provide the courses of study or training referred to in paragraph (h)﻿(i) and provide for the monitoring of those organisations by the Licensing Authority:
   (j) prescribing requirements and other matters relating to the making of emergency appointments under section 61:
   (k) requiring records or other documents to be kept by any class or classes of licensees, certificate holders, or persons other than licensees who employ or engage repossession employees or crowd controller employees under the Act:
   (l) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section or section 115, and prescribing the amount of any fine that may be imposed in respect of such offence, being an amount not exceeding $2,000 and, where the offence is a continuing one, a further amount not exceeding $20 for every day during which the offence has continued:
   (m) providing for any other matters contemplated by this Act, necessary for its full administration, or necessary for giving it full effect.
-(2) Regulations made under subsection (1)(h) may—
+(2) Regulations made under subsection (1)﻿(h) may—
   (a) prescribe different requirements in relation to—
     (i) different classes of private security business or different classes of responsible employees:
     (ii) different types of work within a class of private security business or class of responsible employees:
   (b) exempt certain persons or classes of persons from all or part of the prescribed requirements:
-  (c) without limiting paragraph (b), provide that a standard or other measure of competency, knowledge, and skills met within a certain period before a specified date be accepted as meeting the requirements prescribed under subsection (1)(h)(ii).
+  (c) without limiting paragraph (b), provide that a standard or other measure of competency, knowledge, and skills met within a certain period before a specified date be accepted as meeting the requirements prescribed under subsection (1)﻿(h)﻿(ii).
 
 ### 115 Codes of conduct
 (1) The Governor-General may, from time to time, by Order in Council made on the recommendation of the Minister, make regulations prescribing codes of conduct for licensees or certificate holders.
@@ -1176,9 +1176,9 @@ The following enactments are revoked:
 **Transitional and savings provisions**
 
 ### 122 Existing licences
-(1) A person who, immediately before the commencement of this Act, held a licence as a security guard under the Private Investigators and Security Guards Act 1974 for the classes of business described in section 4(1)(a) or (e) of that Act is deemed to hold a licence under this Act as a property guard and a confidential document destruction agent.
-(2) A person who, immediately before the commencement of this Act, held a licence as a security guard under the Private Investigators and Security Guards Act 1974 for the classes of business described in section 4(1)(b) or (c) of that Act is deemed to hold a licence under this Act as a security technician.
-(3) A person who, immediately before the commencement of this Act, held a licence as a security guard under the Private Investigators and Security Guards Act 1974 for the class of business described in section 4(1)(d) of that Act is deemed to hold a licence under this Act as a security consultant.
+(1) A person who, immediately before the commencement of this Act, held a licence as a security guard under the Private Investigators and Security Guards Act 1974 for the classes of business described in section 4(1)﻿(a) or (e) of that Act is deemed to hold a licence under this Act as a property guard and a confidential document destruction agent.
+(2) A person who, immediately before the commencement of this Act, held a licence as a security guard under the Private Investigators and Security Guards Act 1974 for the classes of business described in section 4(1)﻿(b) or (c) of that Act is deemed to hold a licence under this Act as a security technician.
+(3) A person who, immediately before the commencement of this Act, held a licence as a security guard under the Private Investigators and Security Guards Act 1974 for the class of business described in section 4(1)﻿(d) of that Act is deemed to hold a licence under this Act as a security consultant.
 (4) A person who, immediately before the commencement of this Act, held a licence as a private investigator under the Private Investigators and Security Guards Act 1974 is deemed to hold a licence under this Act as a private investigator.
 
 ### 123 Application of Act to, and expiry of, existing licences
@@ -1190,9 +1190,9 @@ The following enactments are revoked:
   (b) in every other case, on 2 June 2011.
 
 ### 124 Existing certificates of approval
-(1) A person who, immediately before the commencement of this Act, held a certificate of approval as a responsible employee in relation to a security guard licensed under the Private Investigators and Security Guards Act 1974 to carry on the classes of business described in section 4(1)(a) or (e) of that Act is deemed to hold a certificate of approval under this Act as a property guard employee and a confidential document destruction agent employee.
-(2) A person who, immediately before the commencement of this Act, held a certificate of approval as a responsible employee in relation to a security guard licensed under the Private Investigators and Security Guards Act 1974 to carry on the classes of business described in section 4(1)(b) or (c) of that Act is deemed to hold a certificate of approval under this Act as a security technician employee.
-(3) A person who, immediately before the commencement of this Act, held a certificate of approval as a responsible employee in relation to a security guard licensed under the Private Investigators and Security Guards Act 1974 to carry on the class of business described in section 4(1)(d) of that Act is deemed to hold a certificate of approval under this Act as a security consultant employee.
+(1) A person who, immediately before the commencement of this Act, held a certificate of approval as a responsible employee in relation to a security guard licensed under the Private Investigators and Security Guards Act 1974 to carry on the classes of business described in section 4(1)﻿(a) or (e) of that Act is deemed to hold a certificate of approval under this Act as a property guard employee and a confidential document destruction agent employee.
+(2) A person who, immediately before the commencement of this Act, held a certificate of approval as a responsible employee in relation to a security guard licensed under the Private Investigators and Security Guards Act 1974 to carry on the classes of business described in section 4(1)﻿(b) or (c) of that Act is deemed to hold a certificate of approval under this Act as a security technician employee.
+(3) A person who, immediately before the commencement of this Act, held a certificate of approval as a responsible employee in relation to a security guard licensed under the Private Investigators and Security Guards Act 1974 to carry on the class of business described in section 4(1)﻿(d) of that Act is deemed to hold a certificate of approval under this Act as a security consultant employee.
 (4) A person who, immediately before the commencement of this Act, held a certificate of approval as a responsible employee in relation to a private investigator is deemed to hold a certificate of approval under this Act as a private investigator employee.
 
 ### 125 Expiry of existing certificates of approval
@@ -1215,7 +1215,7 @@ The following enactments are revoked:
 (4) In the case of an applicant for a licence as a repossession agent, section 62(j) must be applied as if the ground for disqualification is that the individual has not, within the preceding 5 years, had 12 months' relevant experience—
   (a) of carrying on a business of repossessing consumer goods on behalf of a creditor (whether that business is carried on by himself or herself or in partnership with any other person); or
   (b) of repossessing consumer goods in the course of his or her employment, or engagement as a contractor, by a person who carries on a business referred to in paragraph (a) or by a creditor.
-(5) Subsection (4) also applies for the purposes of section 63(1)(f) (as well as section 62(j)).
+(5) Subsection (4) also applies for the purposes of section 63(1)﻿(f) (as well as section 62(j)).
 (6) Subsections (4) and (5) do not apply to applications for licences made after the day that is 5 years after the date on which this section comes into force.
 
 ### 127 Applications in progress
