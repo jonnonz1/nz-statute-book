@@ -1,27 +1,32 @@
-# Family Courts Act 1980
-_Consolidation as at 2014-03-31_
+# Family Court Act 1980
+_Consolidation as at 2017-03-01_
 
-> An Act to establish Family Courts as divisions of District Courts, and to provide for the constitution, jurisdiction, powers, and procedures of Family Courts
+> Title
 
-### 1 Short Title and commencement
-(1) This Act may be cited as the Family Courts Act 1980.
+### 1 Title and commencement
+(1) This Act is the Family Court Act 1980.
 (2) Except as provided in subsection (3), this Act shall come into force on 1 October 1981.
 (3) Section 6 shall come into force on the date on which this Act receives the Governor-General's assent.
 
+### 1A Purpose
+The purpose of this Act is to—
+  (a) establish a Family Court as a division of the District Court; and
+  (b) provide for the constitution, jurisdiction, powers, and procedures of the Family Court.
+
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **District Courts Rules** means the rules made under section 122 of the District Courts Act 1947
+  - **District Court Rules** means the rules made under section 228 of the District Court Act 2016
   - **Family Court Judge** includes the Principal Family Court Judge
-  - **Family Courts Rules** means the rules made under section 16A.
+  - **Family Court Rules** means the rules made under section 16A.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
 
-### 4 Establishment of Family Courts
-Every District Court shall have a division, to be known as the Family Court.
+### 4 Establishment of Family Court
+The District Court has a division known as the Family Court.
 
 ### 5 Appointment of Family Court Judges
-(1) The Governor-General shall from time to time, by warrant under his hand, appoint sufficient Family Court Judges to exercise the jurisdiction of Family Courts.
+(1) The Governor-General shall from time to time, by warrant under his hand, appoint sufficient Family Court Judges to exercise the jurisdiction of the Family Court.
 (2) A person shall not be appointed to be a Family Court Judge unless—
   (a) he is, or is eligible to be, a District Court Judge; and
   (b) he is, by reason of his training, experience, and personality, a suitable person to deal with matters of family law.
@@ -40,21 +45,23 @@ Every District Court shall have a division, to be known as the Family Court.
 (7) The Principal Family Court Judge is responsible for ensuring the orderly and expeditious discharge of the business of the court in consultation with the Chief District Court Judge.
 
 ### 7 Acting Family Court Judges
-(1) Whenever by reason of illness, absence from New Zealand, or any other cause the Principal Family Court Judge is prevented from exercising the duties of his office, the Governor-General may, by writing under his hand, appoint one of the Family Court Judges to act as the Principal Family Court Judge until the Principal Family Court Judge resumes his duties.
-(2) The Governor-General may at any time during the illness or absence of any Family Court Judge, or for any other temporary purpose, by warrant under his hand, appoint 1 or more District Court Judges (including any Judge appointed pursuant to section 10 of the District Courts Act 1947 and also including any acting District Court Judge appointed pursuant to section 10A of that Act) to be a Family Court Judge or Family Court Judges to hold office for such time as is specified in the warrant.
+(1) The Chief District Court Judge may authorise a Family Court Judge to act in place of the Principal Family Court Judge if—
+  (a) the Principal Family Court Judge is absent for any reason; or
+  (b) the office of the Principal Family Court Judge is vacant.
+(2) The Governor-General may at any time during the illness or absence of any Family Court Judge, or for any other temporary purpose, by warrant under his hand, appoint 1 or more District Court Judges (including any Judge appointed under section 31 of the District Court Act 2016) to be a Family Court Judge or Family Court Judges to hold office for such time as is specified in the warrant.
 
 ### 8 Counselling supervisors, counsellors, and other officers
-(1) There shall from time to time be appointed under the State Sector Act 1988, as an officer of the Ministry of Justice, a person whose principal responsibility shall be to perform such duties as the chief executive of the Ministry of Justice may direct to facilitate the proper functioning of the Family Courts and of counselling and related services.
-(2) Without limiting subsection (1), there may from time to time be appointed under the State Sector Act 1988 such counselling supervisors, counsellors, and other officers as may be necessary to enable Family Courts to perform any function conferred on them by any enactment.
-(3) Every such counselling supervisor, counsellor, and other officer, while performing any duty under the auspices of a Family Court, shall for the purposes of the District Courts Act 1947 be an officer of that court.
+(1) There shall from time to time be appointed under the State Sector Act 1988, as an officer of the Ministry of Justice, a person whose principal responsibility shall be to perform such duties as the chief executive of the Ministry of Justice may direct to facilitate the proper functioning of the Family Court and of counselling and related services.
+(2) Without limiting subsection (1), there may from time to time be appointed under the State Sector Act 1988 such counselling supervisors, counsellors, and other officers as may be necessary to enable the Family Court to perform any function conferred on it by any enactment.
+(3) Every such counselling supervisor, counsellor, and other officer, while performing any duty under the auspices of the Family Court, is for the purposes of the District Court Act 2016 an officer of that court.
 
 ### 9 Stationing of Judges and sittings of courts
 (1) Each Family Court Judge shall be stationed in such town and shall sit in such court as may from time to time be determined by the Principal Family Court Judge.
 (2) Notwithstanding anything in subsection (1), the fact that a Family Court Judge sits in any particular court shall be conclusive evidence of his authority to do so, and no exercise of any jurisdiction or power by a Family Court Judge shall be questioned on the ground that he was not stationed in the town or authorised to sit in the court where he exercised the jurisdiction or power.
-(3) Subject to subsection (4), sittings of a Family Court for the dispatch of its business shall be held on such days and at such times as may be appointed by the Judge exercising the jurisdiction of the court at the place at which the sittings are held.
-(4) The days appointed for regular sittings of a Family Court shall be subject to the approval of the Principal Family Court Judge.
+(3) Subject to subsection (4), sessions of the Family Court for the dispatch of its business shall be held on such days and at such times as may be appointed by the Judge exercising the jurisdiction of the court at the place at which the sessions are held.
+(4) The days appointed for regular sessions of the Family Court are subject to the approval of the Principal Family Court Judge.
 (5) In exercising his powers under this section, the Principal Family Court Judge shall consult with the Chief District Court Judge.
-(6) This section shall be read subject to section 9 of the District Courts Act 1947.
+(6) This section is subject to section 24 of the District Court Act 2016.
 
 ### 9A Duty of lawyers to promote conciliation
 (1) A lawyer acting for a party in any proceeding in the Family Court must, so far as possible, promote conciliation.
@@ -69,7 +76,7 @@ Every District Court shall have a division, to be known as the Family Court.
     (i) any right of appeal against a decision of the court; and
     (ii) the merits of pursuing any such appeal:
   (e) undertake any other task required by or under any other Act.
-(2) To facilitate the role set out in subsection (1)(b), the lawyer must meet with the child or young person and, if it is appropriate to do so, ascertain the child's or young person's views on matters affecting the child or young person relevant to the proceedings.
+(2) To facilitate the role set out in subsection (1)﻿(b), the lawyer must meet with the child or young person and, if it is appropriate to do so, ascertain the child's or young person's views on matters affecting the child or young person relevant to the proceedings.
 (3) However, subsection (2) does not apply if, because of exceptional circumstances, a Judge directs that it is inappropriate for the lawyer to meet with the child or young person.
 (4) A lawyer appointed to represent a child or young person in proceedings may—
   (a) call any person as a witness in the proceedings:
@@ -86,11 +93,11 @@ Every District Court shall have a division, to be known as the Family Court.
 
 ### 10 Avoidance of unnecessary formality
 (1) Family Court proceedings shall be conducted in such a way as to avoid unnecessary formality.
-(2) A Judge sitting in a Family Court may wear a gown, but must not wear a wig.
-(3) A lawyer appearing in a Family Court must not wear a gown or a wig.
+(2) A Judge sitting in the Family Court may wear a gown, but must not wear a wig.
+(3) A lawyer appearing in the Family Court must not wear a gown or a wig.
 
-### 11 Jurisdiction of Family Courts
-(1) A Family Court shall hear and determine all such proceedings as are to be heard and determined by such a court under or by virtue of any of the provisions of—
+### 11 Jurisdiction of Family Court
+(1) The Family Court must hear and determine all the proceedings that are to be heard and determined by the court under or by virtue of any of the provisions of—
   (a) the Marriage Act 1955:
   (b) the Adoption Act 1955:
   (c) the Care of Children Act 2004:
@@ -105,11 +112,11 @@ Every District Court shall have a division, to be known as the Family Court.
   (gd) the Civil Union Act 2004:
   (h) any other enactment for the time being in force.
 (1A)
-(2) Subject to subsection (3), any jurisdiction or power conferred on a Family Court under or by virtue of any enactment shall be exercised by a Family Court Judge.
-(3) Nothing in this section shall prevent a District Court, or a District Court Judge who is not a Family Court Judge, from exercising any jurisdiction or power that is vested in it or him under or by virtue of any enactment to the extent and in the manner specified in that enactment.
+(2) Subject to subsection (3), any jurisdiction or power conferred on the Family Court under or by virtue of any enactment shall be exercised by a Family Court Judge.
+(3) Nothing in this section shall prevent the District Court, or a District Court Judge who is not a Family Court Judge, from exercising any jurisdiction or power that is vested in it or him under or by virtue of any enactment to the extent and in the manner specified in that enactment.
 
 ### 11A Attendance at hearings
-(1) Unless the Act under which proceedings are brought provides otherwise, the only persons who may attend a hearing of proceedings in a Family Court are as follows:
+(1) Unless the Act under which proceedings are brought provides otherwise, the only persons who may attend a hearing of proceedings in the Family Court are as follows:
   (a) officers of the court:
   (b) parties to the proceedings:
   (c) lawyers representing parties to the proceedings:
@@ -117,21 +124,21 @@ Every District Court shall have a division, to be known as the Family Court.
   (e) accredited news media reporters:
   (f) persons whom the Family Court Judge permits to be present as support persons for a party on a request by that party:
   (g) any other persons whom the Family Court Judge permits to be present.
-(2) The Family Court Judge must agree to a request under subsection (1)(f) unless the Judge considers there is a good reason why the named support persons should not be permitted to be present.
+(2) The Family Court Judge must agree to a request under subsection (1)﻿(f) unless the Judge considers there is a good reason why the named support persons should not be permitted to be present.
 (3) No support persons may help a party conduct his or her case.
 (4) If, during a hearing, the Family Court Judge requests a person of any of the following kinds to leave the courtroom, the person must do so:
   (a) a witness:
   (b) an accredited news media reporter:
-  (c) a support person whom the Judge permitted to be present under subsection (1)(f).
+  (c) a support person whom the Judge permitted to be present under subsection (1)﻿(f).
 (5) Nothing in this section limits any other power of the court—
   (a) to hear proceedings in private; or
   (b) to permit a McKenzie friend to be present; or
   (c) to exclude any person from the court.
 
 ### 11B Publication of reports of proceedings
-(1) Any person may publish a report of proceedings in a Family Court.
+(1) Any person may publish a report of proceedings in the Family Court.
 (2) Subsection (1) is subject to subsection (3).
-(3) A person may not, without the leave of the court, publish a report of proceedings in a Family Court that includes identifying information where—
+(3) A person may not, without the leave of the court, publish a report of proceedings in the Family Court that includes identifying information where—
   (a) a person under the age of 18 years—
     (i) is the subject of the proceedings; or
     (ii) is a party to the proceedings; or
@@ -167,24 +174,24 @@ Every District Court shall have a division, to be known as the Family Court.
 
 ### 11D Meaning of vulnerable person
 For the purposes of section 11B, vulnerable person means—
-  (a) a person in respect of whom a Family Court has jurisdiction under Part 1 or 3 of the Protection of Personal and Property Rights Act 1988:
+  (a) a person in respect of whom the Family Court has jurisdiction under Part 1 or 3 of the Protection of Personal and Property Rights Act 1988:
   (b) a person in respect of whom a personal order has been made under the Protection of Personal and Property Rights Act 1988:
   (c) a person subject to a property order under the Protection of Personal and Property Rights Act 1988:
   (d) a donor of an enduring power of attorney who is involved in proceedings under Part 9 of the Protection of Personal and Property Rights Act 1988:
   (e) a person who is a proposed patient, patient, or restricted patient within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
-  (f) a person who has applied to a Family Court for the issue of a declaration under section 28 of the Births, Deaths, and Marriages Registration Act 1995:
+  (f) a person who has applied to the Family Court for the issue of a declaration under section 28 of the Births, Deaths, and Marriages Registration Act 1995:
   (g) a person who is a proposed care recipient or care recipient within the meaning of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
   (h) a person who has applied for a protection order under the Domestic Violence Act 1995, or in respect of whom a protection order has been made under that Act:
   (i) a person whom the court considers likely for any other reason to be particularly susceptible to any adverse consequences associated with the publication of a report of the proceedings that contains identifying information.
 
-### 12 Proceedings to be brought and dealt with under Family Courts Rules
-While any Family Courts Rules are in force, all proceedings in a Family Court (and all proceedings in a District Court under section 15 of this Act or section 151 of the Children, Young Persons, and Their Families Act 1989) must be brought and dealt with under those rules, except to the extent that the Act under which the proceedings are brought provides for them to be brought or dealt with under some other enactment.
+### 12 Proceedings to be brought and dealt with under Family Court Rules
+While any Family Court Rules are in force, all proceedings in the Family Court (and all proceedings in the District Court under section 15 of this Act or section 151 of the Children, Young Persons, and Their Families Act 1989) must be brought and dealt with under those rules, except to the extent that the Act under which the proceedings are brought provides for them to be brought or dealt with under some other enactment.
 
 ### 12A Evidence
 (1) This section applies to a proceeding—
   (a) under an Act specified in subsection (2); and
   (b) in a court described in subsection (3).
-(2) The Acts referred to in subsection (1)(a) are as follows:
+(2) The Acts referred to in subsection (1)﻿(a) are as follows:
   (a) Adoption Act 1955:
   (b) Care of Children Act 2004:
   (c) Child Support Act 1991:
@@ -193,11 +200,11 @@ While any Family Courts Rules are in force, all proceedings in a Family Court (a
   (f) Family Proceedings Act 1980:
   (g) Property (Relationships) Act 1976:
   (h) Protection of Personal and Property Rights Act 1988.
-(3) The courts referred to in subsection (1)(b) are as follows:
-  (a) a Family Court:
-  (b) a District Court that has concurrent jurisdiction with a Family Court:
-  (c) a District Court acting under section 15:
-  (d) a District Court hearing a proceeding under section 151 of the Children, Young Persons, and Their Families Act 1989:
+(3) The courts referred to in subsection (1)﻿(b) are as follows:
+  (a) the Family Court:
+  (b) the District Court having concurrent jurisdiction with the Family Court:
+  (c) the District Court acting under section 15:
+  (d) the District Court hearing a proceeding under section 151 of the Children, Young Persons, and Their Families Act 1989:
   (e) any other court hearing a proceeding that is—
     (i) under an Act specified in subsection (2); and
     (ii) not a criminal proceeding; and
@@ -205,39 +212,39 @@ While any Family Courts Rules are in force, all proceedings in a Family Court (a
 (4) The effect of section 5(3) of the Evidence Act 2006 is that that Act applies to the proceeding. However, the court hearing the proceeding may receive any evidence, whether or not admissible under the Evidence Act 2006, that the court considers may assist it to determine the proceeding.
 
 ### 13 Court may state case for High Court
-A Family Court may, on the application of any party to any proceedings before the court, or of its own motion, state a case for the opinion of the High Court on any question of law arising in any matter before the court.
+The Family Court may, on the application of any party to any proceedings before the court, or of its own motion, state a case for the opinion of the High Court on any question of law arising in any matter before the court.
 
 ### 14 Transfer of proceedings to High Court
-Subject to the Act under which any proceedings are brought, a Family Court may, on the application of any party to the proceedings, or of its own motion, order that the proceedings be transferred to the High Court if it is satisfied that, because of the complexity of the proceedings or of any question in issue in the proceedings, it is expedient that the proceedings be dealt with by the High Court; and in any such case the High Court shall have the same power to adjudicate on the proceedings as the Family Court had.
+Subject to the Act under which any proceedings are brought, the Family Court may, on the application of any party to the proceedings, or of its own motion, order that the proceedings be transferred to the High Court if it is satisfied that, because of the complexity of the proceedings or of any question in issue in the proceedings, it is expedient that the proceedings be dealt with by the High Court; and in any such case the High Court shall have the same power to adjudicate on the proceedings as the Family Court had.
 
-### 15 District Courts may exercise certain jurisdiction
-Notwithstanding anything in section 11, a District Court may—
-  (a) deal with any interlocutory matter relating to any proceedings that are being or are to be heard by a Family Court:
+### 15 District Court may exercise certain jurisdiction
+Notwithstanding anything in section 11, the District Court may—
+  (a) deal with any interlocutory matter relating to any proceedings that are being or are to be heard by the Family Court:
   (b) hear and determine any ex parte applications relating to any such proceedings:
   (c) by the consent of all the parties to the proceedings, make any order or exercise any power—
     (i) that, by virtue of any enactment or rule of law, may be made or exercised by the consent of all the parties; and
-    (ii) that could have been made or exercised by a Family Court.
+    (ii) that could have been made or exercised by the Family Court.
 
-### 16 Application of District Courts Act 1947
-(1) Subject to the succeeding provisions of this section, the District Courts Act 1947 shall apply, with any necessary modifications, to Family Courts and Family Court Judges in the same manner and to the same extent as it applies to District Courts and District Court Judges.
-(2) Where any of the provisions of this Act conflict with any of the provisions of the District Courts Act 1947, the provisions of this Act shall prevail.
-(3) Nothing in section 22 of the District Courts Act 1947 shall apply in respect of Family Court Judges or the business of Family Courts.
-(4) Nothing in sections 73 to 78 of the District Courts Act 1947 applies to Family Courts, Family Court Judges, or the business of Family Courts, except to the extent that some enactment other than that Act provides.
+### 16 Application of District Court Act 2016
+(1) Subject to subsections (2) to (4), the District Court Act 2016 applies, with any necessary modifications, to the Family Court and Family Court Judges in the same manner and to the same extent as it applies to the District Court and District Court Judges.
+(2) Where any of the provisions of this Act conflict with any of the provisions of the District Court Act 2016, the provisions of this Act prevail.
+(3) Nothing in sections 24 and 72 of the District Court Act 2016 applies in respect of Family Court Judges or the business of the Family Court.
+(4) Nothing in sections 125 to 130 of the District Court Act 2016 applies to the Family Court, Family Court Judges, or the business of the Family Court, except to the extent that an enactment other than that Act provides.
 
-### 16A Family Courts Rules
-(1) The Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of Family Courts in proceedings that the Family Court has jurisdiction to hear and determine.
+### 16A Family Court Rules
+(1) The Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of the Family Court in proceedings that the Family Court has jurisdiction to hear and determine.
 (2) Rules made under subsection (1) may—
-  (a) apply (with or without modification) specified District Courts rules to proceedings in a Family Court, or proceedings of a particular kind or description in a Family Court:
+  (a) apply (with or without modification) specified District Court rules to proceedings in the Family Court, or proceedings of a particular kind or description in the Family Court:
   (b)
   (c) prescribe the form and contents of documents:
   (d) prescribe any forms that are necessary for the purposes of this Act or any specified Act, or authorise any specified person or persons to prescribe or approve forms, and require the use of such forms:
   (e) prescribe 1 or more methods for serving documents:
   (f) prescribe 1 or more methods for giving notice:
-  (g) provide for the transfer of proceedings between Family Courts, or between a Family Court and any other court:
+  (g) provide for the transfer of proceedings between the Family Court and any other court:
   (h) provide for the keeping, searching, and transfer of records:
-  (i) provide for any other matters in respect of which rules regulating the practice or procedure of Family Courts are contemplated or specifically authorised by this Act or a specified Act.
+  (i) provide for any other matters in respect of which rules regulating the practice or procedure of the Family Court are contemplated or specifically authorised by this Act or a specified Act.
 (3) Subsection (2) does not limit the powers conferred by subsection (1).
-(4) For the purposes of subsection (2)(i), each of the following Acts is a specified Act:
+(4) For the purposes of subsection (2)﻿(i), each of the following Acts is a specified Act:
   (a) the Adoption Act 1955:
   (b) the Births, Deaths, Marriages, and Relationships Registration Act 1995:
   (c) the Child Support Act 1991:
@@ -255,14 +262,14 @@ Notwithstanding anything in section 11, a District Court may—
 
 ### 16B Regulations relating to court fees
 (1) The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) prescribing fees payable in respect of proceedings, or intended proceedings, in a Family Court:
-  (b) in order to promote access to justice, empowering Registrars or Deputy Registrars of Family Courts to waive, reduce, or postpone the payment of a fee required in connection with a proceeding or an intended proceeding, or to refund, in whole or in part, such a fee that has already been paid, if satisfied on the basis of criteria specified under paragraph (c) that—
+  (a) prescribing fees payable in respect of proceedings, or intended proceedings, in the Family Court:
+  (b) in order to promote access to justice, empowering Registrars or Deputy Registrars of the Family Court to waive, reduce, or postpone the payment of a fee required in connection with a proceeding or an intended proceeding, or to refund, in whole or in part, such a fee that has already been paid, if satisfied on the basis of criteria specified under paragraph (c) that—
     (i) the person otherwise responsible for payment of the fee is unable to pay or absorb the fee in whole or in part; or
     (ii) unless 1 or more of those powers are exercised in respect of a proceeding that concerns a matter of genuine public interest, the proceeding is unlikely to be commenced or continued:
   (c) prescribing, for the purposes of the exercise of a power under paragraph (b), the criteria—
     (i) for assessing a person’s ability to pay a fee; and
     (ii) for identifying proceedings that concern matters of genuine public interest:
-  (d) empowering Registrars or Deputy Registrars of Family Courts to postpone the payment of a fee pending the determination of—
+  (d) empowering Registrars or Deputy Registrars of the Family Court to postpone the payment of a fee pending the determination of—
     (i) an application for the exercise of a power specified in paragraph (b); or
     (ii) an application for review under section 16C:
   (e) providing for the postponement of the payment of a fee, including (without limitation) providing—
@@ -270,10 +277,10 @@ Notwithstanding anything in section 11, a District Court may—
     (ii) for restrictions to apply (after the expiry of the period of postponement and so long as the fee remains unpaid) on the steps that may be taken in the proceedings in respect of which the fee is payable:
   (f) providing for the manner in which an application for the exercise of a power specified in paragraph (b) or (d) is to be made, including, without limitation, requiring such an application to be in a form approved for the purpose by the chief executive of the Ministry of Justice.
   (g)
-(2) No fee is payable for an application for the exercise of a power specified in subsection (1)(b) or (d).
+(2) No fee is payable for an application for the exercise of a power specified in subsection (1)﻿(b) or (d).
 
 ### 16C Reviews of decisions of Registrars concerning fees
-(1) Any person who is aggrieved by a decision of a Registrar or Deputy Registrar under regulations made under section 16B(1)(b) may apply to a Family Court Judge for a review of that decision.
+(1) Any person who is aggrieved by a decision of a Registrar or Deputy Registrar under regulations made under section 16B(1)﻿(b) may apply to a Family Court Judge for a review of that decision.
 (2) An application under subsection (1) may be made within—
   (a) 20 working days after the date on which the applicant is notified of the decision of the Registrar or Deputy Registrar; or
   (b) any further time that the Judge allows on application made for that purpose either before or after the expiration of that period.
@@ -291,20 +298,20 @@ Fees and expenses for lawyers for child and lawyers to assist court
     (i) section 7 of the Care of Children Act 2004:
     (ii) section 226 of the Child Support Act 1991:
     (iii) section 159 of the Children, Young Persons, and Their Families Act 1989:
-    (iv) section 81(1)(b) of the Domestic Violence Act 1995:
+    (iv) section 81(1)﻿(b) of the Domestic Violence Act 1995:
     (v) section 162 of the Family Proceedings Act 1980:
     (vi) section 37A of the Property (Relationships) Act 1976; or
   (b) a lawyer appointed under any of the following provisions to assist the court:
     (i) section 130 of the Care of Children Act 2004:
     (ii) section 226A of the Child Support Act 1991:
     (iii) section 160 of the Children, Young Persons, and Their Families Act 1989:
-    (iv) section 81(1)(a) of the Domestic Violence Act 1995:
+    (iv) section 81(1)﻿(a) of the Domestic Violence Act 1995:
     (v) section 162A of the Family Proceedings Act 1980:
     (vi) section 65A of the Protection of Personal and Property Rights Act 1988.
 (2) The Governor-General may, from time to time, by Order in Council, make regulations for determining—
   (a) the fees payable to a lawyer in respect of the lawyer's appointment:
   (b) the expenses payable to a lawyer in respect of the lawyer's appointment.
-(3) Regulations under subsection (2)(a) may—
+(3) Regulations under subsection (2)﻿(a) may—
   (a) prescribe the maximum hourly rate or rates for the fee payable, and different rates may be prescribed depending on—
     (i) the complexity of the proceedings:
     (ii) the number of proceedings in which the lawyer is engaged during a specified period:
@@ -312,8 +319,8 @@ Fees and expenses for lawyers for child and lawyers to assist court
     (i) the complexity of the proceedings:
     (ii) the number of proceedings in which the lawyer is engaged during a specified period:
   (c) provide that any rate prescribed under paragraph (a), or any number of hours prescribed under paragraph (b), or both, may be increased by the court in a particular proceeding if the court is satisfied that the increase is justified because of exceptional circumstances.
-(4) If no regulations are made under subsection (2)(a) in respect of any lawyer, the fees payable to that lawyer are to be determined by the Registrar of the court.
-(5) Regulations under subsection (2)(b) may prescribe—
+(4) If no regulations are made under subsection (2)﻿(a) in respect of any lawyer, the fees payable to that lawyer are to be determined by the Registrar of the court.
+(5) Regulations under subsection (2)﻿(b) may prescribe—
   (a) the types of expenses for which a lawyer may claim reimbursement:
   (b) the rate of reimbursement of those expenses:
   (c) the circumstances in which expenses may be reimbursed.
@@ -330,7 +337,7 @@ Fees and expenses for report writers under Care of Children Act 2004
   (b) the expenses payable to a report writer for doing either or both of the following:
     (i) preparing a report:
     (ii) attending as a witness in the proceedings for which the report writer prepared the report.
-(8) Regulations under subsection (7)(a) may—
+(8) Regulations under subsection (7)﻿(a) may—
   (a) prescribe the maximum hourly rate or rates for the fee payable, and different rates may be prescribed depending on—
     (i) the type of report:
     (ii) the complexity of the proceedings:
@@ -340,8 +347,8 @@ Fees and expenses for report writers under Care of Children Act 2004
     (ii) the complexity of the proceedings:
     (iii) the number of proceedings in which the report-writer is engaged during a specified period:
   (c) provide that any rate prescribed under paragraph (a), or any number of hours prescribed under paragraph (b), or both, may be increased by the court in a particular proceeding if the court is satisfied that the increase is justified because of exceptional circumstances.
-(9) If no regulations are made under subsection (7)(a) in respect of any report writer, the fees payable to that report writer are to be determined by the Registrar of the court.
-(10) Regulations under subsection (7)(b) may prescribe the following:
+(9) If no regulations are made under subsection (7)﻿(a) in respect of any report writer, the fees payable to that report writer are to be determined by the Registrar of the court.
+(10) Regulations under subsection (7)﻿(b) may prescribe the following:
   (a) the types of expenses for which a report writer may claim reimbursement:
   (b) the rate of reimbursement of those expenses:
   (c) the circumstances in which expenses may be reimbursed.
