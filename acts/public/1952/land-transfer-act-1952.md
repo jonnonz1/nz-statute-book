@@ -1,5 +1,5 @@
 # Land Transfer Act 1952
-_Consolidation as at 2015-10-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to consolidate and amend certain enactments relating to the registration and transfer of title to land
 
@@ -1768,7 +1768,7 @@ The Registrar-General may, by special case, submit for the decision of the Court
 In the conduct of actions and proceedings under this Act in any court the same rules shall apply and there shall be the same rights of appeal as are in force or exist for the time being in respect of ordinary proceedings in the same court.
 
 ### 224 Rules of procedure
-Rules may be made in manner provided by the Judicature Amendment Act 1930 for regulating proceedings in the High Court under this Act.
+Rules may be made in manner provided by the Senior Courts Act 2016 for regulating proceedings in the High Court under this Act.
 
 **Offences**
 
@@ -2149,7 +2149,7 @@ Every interim certificate shall, after the expiration of 6 years from the date o
 If upon a requisition in writing made by the Registrar for any purpose mentioned in the last preceding section any person without reasonable cause refuses or neglects to comply with such requisition, he shall be liable to the penalties provided for by section 212 of the principal Act.
 
 ### 19 Instruments may be lodged although relative folium of register not reconstructed
-Until a folium of the new register is made in respect of any parcel of land the Registrar shall accept for registration or lodgment every instrument or document relating to such parcel of land that appears to be in order and that could have been registered or lodged if the old register had not been destroyed. He shall file and index every such instrument or document, and upon the making of a folium of the new register for such parcel of land he shall deal in the usual manner with all such instruments or documents that are then found to be in order affecting such parcel of land, in such a manner as to preserve their relative priorities in accordance with the provisions of the principal Act and of this Act.
+Until a folium of the new register is made in respect of any parcel of land the Registrar shall accept for registration or lodgement every instrument or document relating to such parcel of land that appears to be in order and that could have been registered or lodged if the old register had not been destroyed. He shall file and index every such instrument or document, and upon the making of a folium of the new register for such parcel of land he shall deal in the usual manner with all such instruments or documents that are then found to be in order affecting such parcel of land, in such a manner as to preserve their relative priorities in accordance with the provisions of the principal Act and of this Act.
 
 ### 20 Providing for copies of plans to be filed, without fees
 (1) The Registrar may acquire and file as records of his office such plans or copies of plans as shall appear to him to be desirable as evidencing or tending to evidence the boundaries of any land in the district comprised in any certificate of title or in any destroyed deposited plan, and no fee shall be payable for the checking or deposit of any such plan or copy of plan.
