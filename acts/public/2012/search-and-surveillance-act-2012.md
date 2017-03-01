@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2016-07-21_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -37,7 +37,7 @@ This Act is the Search and Surveillance Act 2012.
   - **controlled drug** has the same meaning as in section 2(1) of the Misuse of Drugs Act 1975
   - **Crown entity** has the same meaning as in section 7(1) of the Crown Entities Act 2004
   - **Customs officer** has the meaning given to it in section 2(1) of the Customs and Excise Act 1996
-  - **District Court Judge** means a Judge appointed under the District Courts Act 1947
+  - **District Court Judge** means a Judge appointed under the District Court Act 2016
   - **enforcement officer** means—
     (a) a constable; or
     (b) any person authorised by an enactment specified in column 2 of the Schedule, or by any other enactment that expressly applies any provision in Part 4, to exercise a power of entry, search, inspection, examination, or seizure
@@ -426,7 +426,7 @@ The conditions for making an examination order in a non-business context against
 (1) The provisions in subsection (2) apply to any application for an examination order as if—
   (a) any reference in those provisions to a search warrant were a reference to an examination order; and
   (b) any reference in those provisions to an issuing officer were a reference to a Judge; and
-  (c) any reference in those provisions to a District Court were a reference to a District Court or a High Court, as the case may be.
+  (c) any reference in those provisions to the District Court were a reference to the District Court or a High Court, as the case may be.
 (2) The provisions are—
   (a) section 98(2) (relating to requirements for further information); and
   (b) section 99 (relating to verification of application); and
@@ -596,7 +596,7 @@ The conditions for issuing a surveillance device warrant are that—
 (1) The provisions in subsection (2) apply to any application for a surveillance device warrant as if—
   (a) any reference in those provisions to a search warrant were a reference to a surveillance device warrant; and
   (b) any reference in those provisions to an issuing officer were a reference to a Judge; and
-  (c) any reference in those provisions to a District Court were a reference to a District Court or a High Court, as the case may be.
+  (c) any reference in those provisions to the District Court were a reference to the District Court or a High Court, as the case may be.
 (2) The provisions are—
   (a) section 98(2) (relating to requirements for further information); and
   (b) section 99 (relating to verification of application); and
@@ -1015,9 +1015,9 @@ An application for a search warrant must contain or be accompanied by a statemen
 (5) An issuing officer who allows an application for a search warrant to be made under subsection (3) must record the grounds for the application as soon as practicable.
 
 ### 101 Retention of documents
-(1) A copy (whether in electronic form or otherwise) of every written application for a search warrant, or (in the case of an oral application) the record of the application made by the issuing officer, must be retained under the control of the Registrar of the District Court at which, or under the control of the Registrar of the District Court that is closest to the place at which, the application was made, until,—
+(1) A copy (whether in electronic form or otherwise) of every written application for a search warrant, or (in the case of an oral application) the record of the application made by the issuing officer, must be retained under the control of the Registrar of the office of the District Court at which, or under the control of the Registrar of the office of the District Court that is closest to the place at which, the application was made, until,—
   (a) in a case where a search warrant is issued, the completion of any proceedings in respect of which the validity of the warrant may be in issue; or
-  (b) in any other case, the expiry of 2 years after the records were first retained under the control of the Registrar of a District Court.
+  (b) in any other case, the expiry of 2 years after the records were first retained under the control of the Registrar of the District Court.
 (2) An applicant to whom a search warrant is issued must retain (whether in electronic form or otherwise) the warrant, a copy of the application (if made in written form), copies of all documents tendered by the applicant in support of the application, and a copy of any search warrant report referred to in section 104 that is required to be prepared, until the later of the following dates:
   (a) the date of completion of any proceedings in respect of which the validity of the warrant may be in issue:
   (b) the date of destruction or transfer of the warrant and other documents under the Public Records Act 2005 or any other enactment or rule of law.
@@ -1667,7 +1667,7 @@ If a photograph or a copy of a seized or produced thing will be adequate for inv
 (2) Subsection (1) is subject to sections 63 and 136, and any other enactment or rule of law.
 
 ### 163 Application to District Court to dispose of seized property
-(1) Any person who seizes any thing, or to whom any thing is produced, or any other enforcement officer to whom the thing is transferred, may apply to a District Court for an order that the thing be disposed of (by sale or otherwise) in the manner, and at a time, that the court may direct if,—
+(1) Any person who seizes any thing, or to whom any thing is produced, or any other enforcement officer to whom the thing is transferred, may apply to the District Court for an order that the thing be disposed of (by sale or otherwise) in the manner, and at a time, that the court may direct if,—
   (a) in the applicant's opinion,—
     (i) the thing concerned is perishable or likely to deteriorate; or
     (ii) the cost of holding the thing is unreasonable having regard to its market value; and
