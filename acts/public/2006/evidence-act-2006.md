@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2017-02-24_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -37,10 +37,10 @@ This Act binds the Crown.
     (b) in sections 139 and 140, a subsisting conviction entered before or after the commencement of this Act by a New Zealand or foreign court or a court-martial conducted under New Zealand or foreign law
   - **copy** , in relation to a document, includes a copy of a copy and a copy that is not an exact copy of the document but is identical to the document in all relevant respects
   - **country** includes a State, territory, province, or other part of a country
-  - **court** includes the Supreme Court, the Court of Appeal, the High Court, and any District Court
+  - **court** includes the Supreme Court, the Court of Appeal, the High Court, and the District Court
   - **District Court** includes—
-    (a) a Family Court; and
-    (b) a Youth Court
+    (a) the Family Court; and
+    (b) the Youth Court
   - **document** means—
     (a) any material, whether or not it is signed or otherwise authenticated, that bears symbols (including words and figures), images, or sounds or from which symbols, images, or sounds can be derived, and includes—
       (i) a label, marking, or other writing that identifies or describes a thing of which it forms part, or to which it is attached:
@@ -1279,8 +1279,8 @@ If an application for directions is made under section 103, before giving any di
   (e) whether it is practical for the witness to be protected prior to the trial by any other means; and
   (f) whether there is other evidence that corroborates the witness’s evidence.
 (6) A pre-trial witness anonymity order may be made—
-  (a) by a District Court Judge who holds a warrant under the District Courts Act 1947 to conduct jury trials:
-  (b) if the preliminary hearing is held in a Youth Court, by a Judge referred to in section 274(2)﻿(a) of the Children, Young Persons, and Their Families Act 1989:
+  (a) by a District Court Judge who holds a warrant under the District Court Act 2016 to conduct jury trials:
+  (b) if the preliminary hearing is held in the Youth Court, by a Judge referred to in section 274(2)﻿(a) of the Children, Young Persons, and Their Families Act 1989:
   (c) by a High Court Judge.
 
 ### 111 Effect of pre-trial witness anonymity order
@@ -1721,7 +1721,7 @@ In this subpart, unless the context otherwise requires,—
   - **New Zealand subpoena** means a subpoena issued by a New Zealand court in a proceeding other than a specified proceeding
   - **prescribed** means prescribed by rules or regulations made under section 199 or 200
   - **relevant court** , in relation to leave to serve a New Zealand subpoena on a witness in Australia, or an application under section 154 for leave of that kind, means—
-    (a) a District Court, if the New Zealand subpoena is issued by a tribunal declared by the Minister of Justice under section 152 to be a New Zealand court; and
+    (a) the District Court, if the New Zealand subpoena is issued by a tribunal declared by the Minister of Justice under section 152 to be a New Zealand court; and
     (b) the New Zealand court that issued the subpoena, in every other case
   - **remote appearance medium** means—
     (a) an audio link; or
@@ -1753,7 +1753,7 @@ For the purposes of this subpart, the Minister of Justice may, by notice in the 
   (b) any tribunal of the Commonwealth of Australia or of a State or a territory of Australia to be an Australian court.
 
 ### 153 Act not to apply to certain proceedings in High Court of New Zealand and Federal Court of Australia
-Nothing in this subpart applies in relation to any proceedings to which Part 1A of the Judicature Act 1908 applies.
+Nothing in this subpart applies in relation to any proceedings to which Part 3 of the Trans-Tasman Proceedings Act 2010 applies.
 
 ### 153A Courts (Remote Participation) Act 2010 does not apply to remote appearances under this subpart
 Nothing in the Courts (Remote Participation) Act 2010 applies to the giving or taking of evidence, examination of a person giving evidence, or making or receipt of examination or submissions, by audio link or audiovisual link in accordance with sections 168 to 172 or 173 to 180.
@@ -1798,7 +1798,7 @@ A New Zealand subpoena served on a witness in Australia may require the witness 
 (4) The court which issued the subpoena may, on the application of the person by whom the subpoena was obtained or the witness, make an order—
   (a) specifying the amount to which the witness is entitled under this section; and
   (b) requiring the person who obtained the subpoena or the Crown, as the case may be, to pay the amount to the witness.
-(5) An order made under subsection (4) by a court which does not have the power to enforce its orders may be filed in any District Court and when filed, is enforceable as a judgment of the District Court.
+(5) An order made under subsection (4) by a court which does not have the power to enforce its orders may be filed in the District Court and when filed, is enforceable as a judgment of the District Court.
 
 ### 159 Subpoenas for production
 (1) A New Zealand subpoena that requires a witness in Australia to produce documents or things, but does not require the witness to give oral evidence, must state that the witness may comply with the subpoena by producing the documents or things at any registry of an Australian court not later than 10 days before the date specified in the subpoena as the date on which the documents or things are required for production in the New Zealand court.
@@ -1888,8 +1888,8 @@ Nothing in this Act limits or affects any right or power conferred by or under a
 (1) Unless the New Zealand court otherwise orders, the costs incurred in giving evidence, or making an examination or submissions, by audio link or audiovisual link, and transmitting the evidence, examination, or submissions, under a direction under section 168(1), must be paid by the applicant.
 (2) The New Zealand court may make an order specifying the amount payable by a party under subsection (1), and requiring the party to pay that amount.
 (3) An order made under subsection (2) by a New Zealand court that does not have the power to enforce its orders—
-  (a) may be filed in any District Court; and
-  (b) when so filed, is enforceable as a judgment of that District Court.
+  (a) may be filed in the District Court; and
+  (b) when so filed, is enforceable as a judgment of the District Court.
 
 ### 169 Powers of New Zealand court in Australia
 For the purposes of the taking of evidence or the receiving of examination or submissions by audio link or audiovisual link from Australia under section 168, the New Zealand court may exercise in Australia all its powers that it is permitted to exercise in Australia under Australian law.
@@ -2128,7 +2128,7 @@ Every witness required to attend for examination by an order made under section 
 ### Subpart 4 — Rules and regulations
 
 ### 199 Rules
-(1) In the case of the High Court and the Court of Appeal, rules may be made for the purposes of subpart 1 of this Part under section 51C of the Judicature Act 1908 that make provision for or relate to—
+(1) In the case of the High Court and the Court of Appeal, rules may be made for the purposes of subpart 1 of this Part under section 148 of the Senior Courts Act 2016 that make provision for or relate to—
   (a) the issuing of New Zealand subpoenas and the service of those subpoenas:
   (b) the hearing or disposal of applications for orders under any specified provisions in this Part:
   (c) the lodging of documents or things with an Australian court in compliance with a New Zealand subpoena that requires only the production of documents or things by a witness:
@@ -2140,7 +2140,7 @@ Every witness required to attend for examination by an order made under section 
 (2) In the case of any other New Zealand court, rules or, as the case may be, regulations may be made under the authority of any enactment that provides for the making of rules or regulations governing the practice and procedure of the court that make provision for or relate to any of the matters referred to in paragraphs (a), (c), and (e) to (h) of subsection (1).
 
 ### 200 Rules and regulations
-(1) Without limiting section 199 or the power to make rules of procedure conferred by the Judicature Act 1908, the District Courts Act 1947, and the Family Courts Act 1980,—
+(1) Without limiting section 199 or the power to make rules of procedure conferred by the Senior Courts Act 2016, the District Court Act 2016, and the Family Court Act 1980,—
   (a) rules may be made under those Acts prescribing anything that is required to be prescribed or necessary for carrying this Part into effect:
   (b) the Governor-General may, by Order in Council, make regulations prescribing anything that is required to be prescribed or necessary for carrying this Part into effect.
 (2) The Governor-General may, by Order in Council, make regulations—
@@ -2185,7 +2185,7 @@ The Governor-General may, by Order in Council, make regulations—
   (c) if they should be retained, whether any amendments to this Act are necessary or desirable.
 (2) The Law Commission must report on those matters to the Minister within 2 years of the date on which the reference occurs.
 (3) The Minister—
-  (a) may not set a date later than 1 December 2011 for the commencement of the initial periodic review of this Act under subsection (1) unless the Minister is satisfied that, because of the limited number of cases concerning the provisions of this Act decided by the superior courts of New Zealand or for any other reason, it is appropriate to defer the date of the initial periodic review; and
+  (a) may not set a date later than 1 December 2011 for the commencement of the initial periodic review of this Act under subsection (1) unless the Minister is satisfied that, because of the limited number of cases concerning the provisions of this Act decided by the senior courts of New Zealand or for any other reason, it is appropriate to defer the date of the initial periodic review; and
   (b) must not set a date later than 1 December 2014 under subsection (1).
 
 **Transitional provisions**
