@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -259,7 +259,7 @@ This Act binds the Crown.
     (a) means a chiropractor, clinical dental technician, dental technician, dentist, medical laboratory technologist, medical practitioner, medical radiation technologist, midwife, nurse, nurse practitioner, occupational therapist, optometrist, pharmacist, physiotherapist, or podiatrist; and
     (b) includes any person referred to in paragraph (a) who holds an interim practising certificate but only when acting in accordance with any conditions of such interim certificate; and
     (c) includes a member of any occupational group included in the definition of registered health professional by regulations made under section 322
-  - **Registrar** , in relation to an appeal to a District Court under Part 5, means a Registrar of a specified registry; and includes a Deputy Registrar of a specified registry
+  - **Registrar** , in relation to an appeal to the District Court under Part 5, means a Registrar of a specified registry; and includes a Deputy Registrar of a specified registry
   - **rehabilitation** —
     (a) means a process of active change and support with the goal of restoring, to the extent provided under section 70, a claimant's health, independence, and participation; and
     (b) comprises treatment, social rehabilitation, and vocational rehabilitation
@@ -268,7 +268,7 @@ This Act binds the Crown.
   - **self-employed person** means a natural person who has earnings as a self-employed person
   - **shareholder-employee** means a natural person who is a shareholder in, and an employee of, a close company
   - **specified maximum** , in relation to earnings, means the relevant prescribed maximum amount of earnings on which a levy is payable by or in respect of any person
-  - **specified registry** , in relation to an appeal under Part 5, means a registry of a District Court that is for the time being specified in regulations made under this Act for the purposes of sending or filing notices of appeal
+  - **specified registry** , in relation to an appeal under Part 5, means a registry of the District Court that is for the time being specified in regulations made under this Act for the purposes of sending or filing notices of appeal
   - **speech therapist** means a member of the New Zealand Speech Language Therapists Association (Incorporated)
   - **spouse** has the meaning set out in section 18(1) to (3); and, in relation to a deceased claimant, has the meaning set out in section 18(4) to (6)
   - **suffers** is affected in its interpretation by—
@@ -1594,7 +1594,7 @@ If the Corporation determines under section 107 that a claimant has vocational i
     (ii)
     (iii) the Corporation, if the Corporation is liable to provide the allowance and the Corporation agrees to the assignment; or
   (c) sections 4 and 5 of the Maori Housing Act 1935; or
-  (d) sections 84F to 84M of the District Courts Act 1947; or
+  (d) sections 154 to 161 of the District Court Act 2016; or
   (e) sections 87(2)﻿(b), 88AE(1)﻿(a), 103, 104, 105, 106, 106A, and 106B of the Summary Proceedings Act 1957; or
   (f) section 27Y of the Social Security Act 1964 (as saved by section 256(1) of the Child Support Act 1991) or sections 71 and 86A of the Social Security Act 1964; or
   (g) sections 105, 110, 118, and 121 of the Family Proceedings Act 1980 (as saved by section 259(1) of the Child Support Act 1991); or
@@ -1830,20 +1830,20 @@ The following persons are entitled to be present at the hearing, with a represen
 **Appeals**
 
 ### 149 Who may appeal against review decision
-(1) A claimant may appeal to a District Court against—
+(1) A claimant may appeal to the District Court against—
   (a) a review decision; or
   (b) a decision as to an award of costs and expenses under section 148.
-(2) The Corporation may appeal to a District Court against—
+(2) The Corporation may appeal to the District Court against—
   (a) a review decision; or
   (b) a decision as to an award of costs and expenses under section 148.
 (3) However, neither a claimant nor the Corporation may appeal to the District Court against a review decision on a decision by the Corporation under the Code on a complaint by the claimant.
-(4) The employer may appeal to a District Court against a review decision that an injury is a work-related personal injury.
+(4) The employer may appeal to the District Court against a review decision that an injury is a work-related personal injury.
 (5)
-(6) A person who had a right to be present and to be heard at a hearing because of section 142(d) may appeal to a District Court against a review decision that an injury is a work-related personal injury.
-(7) Any affected person may appeal to a District Court against a decision on the award of costs and expenses under section 148.
+(6) A person who had a right to be present and to be heard at a hearing because of section 142(d) may appeal to the District Court against a review decision that an injury is a work-related personal injury.
+(7) Any affected person may appeal to the District Court against a decision on the award of costs and expenses under section 148.
 
-### 150 District Courts rules and this Act apply to appeal
-An appeal under section 149 is dealt with in accordance with the District Courts rules made under section 122 of the District Courts Act 1947, as modified by this Act and any regulations made under it.
+### 150 District Court Rules and this Act apply to appeal
+An appeal under section 149 is dealt with in accordance with the District Court Rules made under section 228 of the District Court Act 2016, as modified by this Act and any regulations made under it.
 
 ### 151 Manner of bringing appeal
 (1) An appellant brings an appeal by sending a notice of appeal to, or filing a notice of appeal in, a specified registry.
@@ -1851,7 +1851,7 @@ An appeal under section 149 is dealt with in accordance with the District Courts
 (3) The notice must be received by the specified registry—
   (a) within 28 days after the date on which the reviewer gives a copy of the review decision to the appellant; or
   (b) in the case of a deemed review decision under section 146, within 28 days of the date specified in section 146(2); or
-  (c) within any longer time allowed by a District Court.
+  (c) within any longer time allowed by the District Court.
 
 ### 152 Corporation to provide names of persons entitled to be heard
 (1) As soon as practicable after receiving the notice of appeal, the Registrar must notify the Corporation that an appeal has been lodged and request the information described in subsection (2).
@@ -1959,11 +1959,11 @@ An appeal under section 149 is dealt with in accordance with the District Courts
 **Further appeals**
 
 ### 162 Appeal to High Court on question of law
-(1) A party to an appeal who is dissatisfied with the decision of a District Court as being wrong in law may, with the leave of the District Court, appeal to the High Court.
+(1) A party to an appeal who is dissatisfied with the decision of the District Court as being wrong in law may, with the leave of the District Court, appeal to the High Court.
 (2) The leave of the District Court must be sought within 21 days after the District Court's decision.
 (3) If the District Court refuses to grant leave, the High Court may grant special leave to appeal.
 (4) The special leave of the High Court must be sought within 21 days after the District Court refused leave.
-(5) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under this section as if it were an appeal under section 72 of that Act.
+(5) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under this section as if it were an appeal under section 124 of that Act.
 
 ### 163 Appeal to Court of Appeal on question of law
 (1) A party to an appeal before the High Court under section 162 who is dissatisfied with any determination or decision of the Court on the appeal as being wrong in law may, with the leave of the High Court, appeal to the Court of Appeal by way of case stated for the opinion of that court on a question of law only.
@@ -3694,7 +3694,7 @@ For the purposes of this Act, the Governor-General may, on the recommendation of
 ### 328 Regulations relating to reviews and appeals
 For the purposes of Part 5, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
   (a) prescribing rules for the conduct of reviews:
-  (b) prescribing rules for the lodging of notices in District Courts relating to appeals:
+  (b) prescribing rules for the lodging of notices in the District Court relating to appeals:
   (c) prescribing the form of a notice of appeal:
   (d) defining specified registry for the purposes of sending or filing notices of appeal:
   (e) prescribing rules for the conduct of appeals:
@@ -5124,7 +5124,7 @@ If the Corporation is determining earnings under this Part in relation to a self
 ### 53 Election for purposes of clause 52
 (1) A claimant must make an election under clause 52(5) or (8) within the period that is the later of the following:
   (a) within 1 month before the date on which the election would take effect; or
-  (b) within 1 month after the claimant has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or a District Court, whichever is applicable in the claimant's case.
+  (b) within 1 month after the claimant has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or the District Court, whichever is applicable in the claimant's case.
 (2) The Corporation may allow a claimant to exercise or revoke an election under clause 52(5) or (8) after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the claimant's circumstances have changed significantly since the end of the period.
 
 ### Part 3 — Lump sum compensation for permanent impairment
@@ -5333,7 +5333,7 @@ For the purposes of this Part, any child of the claimant who is born within 12 m
 ### 69 Election for purposes of clause 68
 (1) A surviving spouse or partner must make an election under clause 68(2) or (5) within the period that is the latest of the following:
   (a) within 1 month before the date on which the election would take effect; or
-  (b) within 1 month after the surviving spouse or partner has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or a District Court, whichever is applicable in the surviving spouse's or partner's case; or
+  (b) within 1 month after the surviving spouse or partner has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or the District Court, whichever is applicable in the surviving spouse's or partner's case; or
   (c) before 1 month before the surviving spouse or partner reaches New Zealand superannuation qualification age.
 (2) The Corporation may allow a surviving spouse or partner to exercise or revoke an election under clause 68(2) or (5) after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the surviving spouse's or partner's circumstances have changed significantly since the end of the period.
 
@@ -5380,7 +5380,7 @@ For the purposes of this Part, any child of the claimant who is born within 12 m
 ### 73 Election for purposes of clause 72
 (1) The other dependant must make an election under clause 72(5) or (8) within the period that is the latest of the following:
   (a) within 1 month before the date on which the election would take effect; or
-  (b) within 1 month after the other dependant has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or a District Court, whichever is applicable in the other dependant's case; or
+  (b) within 1 month after the other dependant has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or the District Court, whichever is applicable in the other dependant's case; or
   (c) before 1 month before the other dependant reaches New Zealand superannuation qualification age.
 (2) The Corporation may allow any other dependant to exercise or revoke an election under clause 72(5) or (8) after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the other dependant's circumstances have changed significantly since the end of the period.
 
