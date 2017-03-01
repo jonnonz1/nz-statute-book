@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -47,7 +47,7 @@ This Act is the Health Practitioners Competence Assurance Act 2003.
   (c) enable the responsible authority to order the suspension of a health practitioner if the authority is satisfied that the practitioner is unable to perform the functions required for the practice of his or her profession because of some mental or physical condition or if the practitioner has not complied with a requirement for a medical examination:
   (d) enable the Minister to confer protection on quality assurance activities conducted to improve the practices or competence of health practitioners and so protect the confidentiality of information that becomes known solely as a result of those activities and give those engaged in those activities immunity from civil liability.
 (4) Part 4 provides for the establishment by each authority of professional conduct committees to investigate complaints referred to the authority by the Health and Disability Commissioner. Professional conduct committees are also required to investigate the circumstances of certain offences committed by health practitioners. The Part also establishes a single tribunal, called the Health Practitioners Disciplinary Tribunal, to hear and determine charges brought against practitioners by the Director of Proceedings or by a professional conduct committee.
-(5) Part 5 provides for appeals to a District Court against the decisions of an authority, and for appeals to the High Court against decisions of the Health Practitioners Disciplinary Tribunal.
+(5) Part 5 provides for appeals to the District Court against the decisions of an authority, and for appeals to the High Court against decisions of the Health Practitioners Disciplinary Tribunal.
 (6) Part 6 continues certain registration authorities as authorities under the Act. It also establishes the Midwifery Council, the Osteopathic Council, and the Pharmacy Council. The Part also contains provisions that—
   (a) enable additional health professions to be designated under the Act and authorities to be appointed for such additional professions:
   (b) set out the functions of authorities. These include—
@@ -1167,7 +1167,7 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
 ## Part 5 — Appeals
 
 ### 106 Rights of appeal
-(1) A person may appeal to a District Court against any decision or direction of an authority to—
+(1) A person may appeal to the District Court against any decision or direction of an authority to—
   (a) decline to register the person as a health practitioner with the authority; or
   (b) decline to authorise a change to the existing scope of practice of the person; or
   (c) decline to issue a practising certificate to the person; or
@@ -1225,7 +1225,7 @@ Except as provided in section 113, the decision of a court on an appeal under th
 ### 113 Appeal on question of law
 (1) A party to an appeal under this Part may appeal against any determination of law arising in the appeal.
 (2) If the appeal is—
-  (a) from a District Court, it must be made to the High Court:
+  (a) from the District Court, it must be made to the High Court:
   (b) from the High Court, it must be made to the Court of Appeal.
 (3) The appeal must be heard and determined in accordance with the appropriate rules of court.
 (4) Part 6 of the Criminal Procedure Act 2011 applies to the appeal—
@@ -2150,7 +2150,7 @@ On the date that this section comes into force, the Pharmaceutical Society, the 
 
 ### 11 Privileges and immunities
 (1) Every person has the same privileges in relation to the giving of information to the Tribunal, the answering of questions put by the Tribunal, and the production of papers, documents, records, and things to the Tribunal that witnesses have in courts of law.
-(2) Witnesses and counsel appearing before the Tribunal have the same privileges and immunities that witnesses and counsel have in proceedings in a District Court.
+(2) Witnesses and counsel appearing before the Tribunal have the same privileges and immunities that witnesses and counsel have in proceedings in the District Court.
 
 ### 12 Non-attendance or refusal to co-operate
 (1) Every person commits an offence who, after being summoned to attend to give evidence before the Tribunal or to produce to the Tribunal any papers, documents, records, or things, without sufficient cause,—
