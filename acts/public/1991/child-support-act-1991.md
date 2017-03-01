@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-01_
 
 > Title
 
@@ -38,7 +38,7 @@ _Consolidation as at 2016-10-18_
   - **domestic maintenance** means any payment required to be made under this Act by any person towards the support of another person under section 58(2) or section 68(2)
   - **employee** has the same meaning as in paragraph (a) of the definition of employee in section YA 1 of the Income Tax Act 2007
   - **employer** has the same meaning as in paragraphs (a) and (b) of the definition of employer in section YA 1 of the Income Tax Act 2007
-  - **Family Court** means a division of a District Court known, in accordance with section 4 of the Family Courts Act 1980, as a Family Court
+  - **Family Court** means the division of the District Court known, in accordance with section 4 of the Family Court Act 1980, as the Family Court
   - **financial support** means—
     (a) child support payable under this Act; or
     (b) domestic maintenance payable under this Act; or
@@ -99,7 +99,7 @@ _Consolidation as at 2016-10-18_
       (v) young parent payment:
     (d) where the person is a sole parent within the meaning of the Social Security Act 1964 and the application for the benefit was made on or after 1 August 1991, an emergency benefit granted under section 61 of that Act,—
   - **source deduction payment** means a PAYE income payment (as defined in section RD 3 of the Income Tax Act 2007)
-  - **step-parent** , in relation to any child, means, in applying any provision of this Act relating to the liability of a person to pay child support, any person who has been declared to be a step-parent of the child by a Family Court under section 99
+  - **step-parent** , in relation to any child, means, in applying any provision of this Act relating to the liability of a person to pay child support, any person who has been declared to be a step-parent of the child by the Family Court under section 99
   - **tax year** has the meaning in section YA 1 of the Income Tax Act 2007
   - **taxable income** has the meaning in section YA 1 of the Income Tax Act 2007
   - **unincorporated body of persons** includes—
@@ -178,7 +178,7 @@ The objects of this Act are—
   (e) the person has, at any time in any proceeding before any court in New Zealand, or before any court or public authority in an overseas jurisdiction, or in writing signed by the person, acknowledged that he or she is a parent of the child and a court has not made a finding of paternity of the child that is to the contrary of that acknowledgment; or
   (f) a court has, under the Family Proceedings Act 1980, made a paternity order against the person in respect of the child; or
   (g) the person is the natural mother of the child; or
-  (h) the person has been declared to be a step-parent of the child by a Family Court under section 99; or
+  (h) the person has been declared to be a step-parent of the child by the Family Court under section 99; or
   (i) a New Zealand court, or a court or public authority of any overseas jurisdiction, has appointed the person to be a guardian of the child, or has declared the person to be a guardian of the child, by reason of being the father of the child, and that appointment has not been cancelled or set aside.
 (2) Notwithstanding subsection (1), where the Commissioner is satisfied that a person—that person shall not be a parent of the child for the purposes of this Act.
   (a) is not, despite being a person to whom that subsection applies, a parent of a particular child; and
@@ -864,7 +864,7 @@ Where the Commissioner accepts a voluntary agreement, the child support or, as t
 (3) A document that accompanies the notice must also be verified as required by the form of notice.
 (4) If any such election is made,—
   (a) nothing in this Part or any other provision of this Act shall apply to any money that becomes payable in accordance with the agreement after the date of the election; and
-  (b) any money payable in accordance with the agreement after the date of the election may, without prejudice to any mode of recovery, be recovered by any person in any District Court.
+  (b) any money payable in accordance with the agreement after the date of the election may, without prejudice to any mode of recovery, be recovered by any person in the District Court.
 (5) An election made under subsection (1) shall be irrevocable.
 
 ### 65 Child support voluntary agreement no bar to application for formula assessment
@@ -1063,7 +1063,7 @@ In assessing the annual rate at which child support or domestic maintenance is p
 (4) The notice must also include, or be accompanied by, statements that specifically draw to the attention of the recipient the recipient's right to—
   (a) object under section 90 or 91 if he or she is aggrieved by any of the particulars of the assessment; and
   (b) apply to the Commissioner under Part 6A; and
-  (c) apply to a Family Court under Part 7.
+  (c) apply to the Family Court under Part 7.
 (5) Despite anything in this section, the Commissioner may omit from a notice of assessment or any related communication the name of any parent or carer if—
   (a) he or she is satisfied that revealing the name to the recipient of the notice would be prejudicial to the safety of any parent, carer, or child; or
   (b) the parent is deceased, or is a parent in respect of whom an assessment has not been made.
@@ -1117,7 +1117,7 @@ In assessing the annual rate at which child support or domestic maintenance is p
 (4) The notice must contain sufficient information to enable the recipient to exercise his or her rights to object under section 90 or 91.
 (5) The notice must also include, or be accompanied by, statements that specifically draw to the attention of the recipient his or her right to—
   (a) object under section 90 or 91 if he or she is aggrieved by any of the particulars of the assessment; and
-  (b) apply to a Family Court under Part 7.
+  (b) apply to the Family Court under Part 7.
 
 ## Part 5A — Exemptions
 
@@ -1373,8 +1373,8 @@ The fact that an application is made by any person under this subpart does not s
 The Commissioner may, under this subpart, make a determination expressed to be retrospective to any day that the Commissioner considers appropriate, not being a day that precedes the start of the period of exemption.
 
 ### 89X Restriction on publication of reports of proceedings
-(1) No person may, without the leave of the Commissioner or a Family Court, publish a report of any proceedings under this subpart.
-(2) The Commissioner or a Family Court may grant leave under subsection (1) with or without conditions.
+(1) No person may, without the leave of the Commissioner or the Family Court, publish a report of any proceedings under this subpart.
+(2) The Commissioner or the Family Court may grant leave under subsection (1) with or without conditions.
 (3) Every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
@@ -1382,7 +1382,7 @@ The Commissioner may, under this subpart, make a determination expressed to be r
   (a) is of a bona fide professional or technical nature; and
   (b) is intended for circulation among members of the legal profession, employees of the Crown, relationship counsellors, mediators, or social workers.
 (5) Nothing in section 81 of the Tax Administration Act 1994 prevents the publication of a report of any proceedings under this subpart—
-  (a) with the leave of the Commissioner or a Family Court; or
+  (a) with the leave of the Commissioner or the Family Court; or
   (b) in accordance with subsection (4).
 
 ### Subpart 4 — Exemption for victims of sex offences
@@ -1391,7 +1391,7 @@ The Commissioner may, under this subpart, make a determination expressed to be r
 (1) A liable parent may, by notice in writing to the Commissioner, apply for an exemption from the payment of child support in relation to a particular child if—
   (a) either—
     (i) another person has been convicted of a sex offence; or
-    (ii) another person has been proved to have committed a sex offence before a Youth Court; and
+    (ii) another person has been proved to have committed a sex offence before the Youth Court; and
   (b) the liable parent is the victim of that sex offence; and
   (c) the liable parent believes that the child was conceived as a result of that sex offence.
 (2) For the purposes of this subpart,—
@@ -1404,18 +1404,18 @@ The Commissioner may, under this subpart, make a determination expressed to be r
   (b) the Commissioner is satisfied that the liable parent is a victim of a sex offence; and
   (c) the Commissioner is satisfied that either—
     (i) another person has been convicted of that sex offence; or
-    (ii) another person has been proved to have committed that sex offence before a Youth Court; and
+    (ii) another person has been proved to have committed that sex offence before the Youth Court; and
   (d) in the opinion of the Commissioner, it is likely that the child was conceived as a result of that sex offence.
 (2) If the Commissioner grants an exemption under subsection (1), the period of exemption commences on the day on which the Commissioner received the application for the exemption.
 (3) However, the period of exemption commences on the day on which the Commissioner receives a properly completed application for formula assessment under Part 1 in relation to the child if—
-  (a) that application for formula assessment was made on or after the day on which the person referred to in subsection (1)﻿(c) was convicted of the sex offence or was proved to have committed the sex offence before a Youth Court; and
+  (a) that application for formula assessment was made on or after the day on which the person referred to in subsection (1)﻿(c) was convicted of the sex offence or was proved to have committed the sex offence before the Youth Court; and
   (b) the liable parent made the application for the exemption under this subpart within 28 days after the date on which notice of the decision under section 17(1) was given by the Commissioner to the liable parent.
 (4) The Commissioner may, for the purpose of determining whether a person is eligible for an exemption under this section, obtain information from the Ministry of Justice, the New Zealand Police, or both in accordance with section 85K of the Tax Administration Act 1994.
 
 ### 89ZA Exemption is void if conviction quashed or finding is reversed or set aside
 (1) An exemption granted under section 89Z(1) is void from the beginning if,—
   (a) in the case of an application that is based on a conviction for a sex offence, that conviction is quashed on appeal; or
-  (b) in the case of an application that is based on a finding of a Youth Court that a sex offence has been proved to have been committed, that finding is reversed or set aside.
+  (b) in the case of an application that is based on a finding of the Youth Court that a sex offence has been proved to have been committed, that finding is reversed or set aside.
 (2) Subsection (1) does not prevent a liable parent from making a new application under section 89Y if, in the case of a conviction that is quashed,—
   (a) a court has directed a retrial in relation to the matter; and
   (b) a person has subsequently been convicted of the sex offence.
@@ -1500,7 +1500,7 @@ A person to whom an exemption has been granted in respect of a part or parts of 
 The Commissioner shall, as soon as practicable, notify the objector in writing—
   (a) whether the objection has been allowed or disallowed:
   (b) in a case where the objection has been allowed in whole or in part, the effect of allowing the objection, or that part of it:
-  (c) in a case where the objection has been disallowed in whole or in part, that the objector can appeal to a Family Court against that decision.
+  (c) in a case where the objection has been disallowed in whole or in part, that the objector can appeal to the Family Court against that decision.
 
 ### 94 Determination of objection not to affect other assessments or decisions
 The determination of an objection under this Part shall relate solely to the decision or assessment objected to, and shall not affect the right of the Commissioner to make any other decision or assessment in respect of the objector, or to amend the assessment objected to in a manner that is consistent with that determination.
@@ -1511,7 +1511,7 @@ The determination of an objection under this Part shall relate solely to the dec
   (a) the person has made an appeal under section 102 in relation to a child; and
   (b) a ground of the appeal is that the person was not a parent of the child; and
   (c) there is not a final decision of a court determining that ground of the appeal.
-(3) Where an objection has been made under this Part but the objection has not been finally determined, the objector may apply to a Family Court for an order under section 117 that the liability imposed on the objector under this Act be suspended in whole or in part, pending the final determination of the objection, and the court may make such order (if any) as it thinks appropriate.
+(3) Where an objection has been made under this Part but the objection has not been finally determined, the objector may apply to the Family Court for an order under section 117 that the liability imposed on the objector under this Act be suspended in whole or in part, pending the final determination of the objection, and the court may make such order (if any) as it thinks appropriate.
 (4) If, on the final determination of the objection, the court finds that the objector is liable to pay child support or domestic maintenance, that finding shall apply retrospectively to any period during which the liability was suspended, in whole or in part, under this section, unless the court for special reasons orders otherwise.
 
 ### 96 Objections to which this Part does not apply
@@ -1622,8 +1622,8 @@ The Commissioner may not make a determination under this Part in relation to an 
 ### 96L Subsequent applications
 (1) This section applies to a formula assessment of child support if—
   (a) a determination has been made in connection with that formula assessment under this Part or Part 6B; or
-  (b) an appeal has been heard by a Family Court under section 103B or 103C in connection with that formula assessment; or
-  (c) an application has been heard by a Family Court under section 104 in connection with that formula assessment.
+  (b) an appeal has been heard by the Family Court under section 103B or 103C in connection with that formula assessment; or
+  (c) an application has been heard by the Family Court under section 104 in connection with that formula assessment.
 (2) An application may be made under this Part in connection with a formula assessment to which this section applies only if the Commissioner is satisfied, in his or her discretion, after considering the matters referred to in subsection (3), that either—
   (a) a new matter has been submitted in support of that application that was not considered in relation to the previous application, determination, or appeal; or
   (b) the application is made on a ground for departing from the formula assessment that is different from the ground or grounds that were considered in relation to the previous application, determination, or appeal.
@@ -1652,8 +1652,8 @@ The Commissioner may, under this Part, make a determination expressed to be retr
   (b) the day on which the application for formula assessment to which the determination applies was made.
 
 ### 96P Restriction on publication of reports of proceedings
-(1) No person may, without the leave of the Commissioner or a Family Court, publish a report of any proceedings under this Part.
-(2) The Commissioner or a Family Court may grant leave under subsection (1) with or without conditions.
+(1) No person may, without the leave of the Commissioner or the Family Court, publish a report of any proceedings under this Part.
+(2) The Commissioner or the Family Court may grant leave under subsection (1) with or without conditions.
 (3) Every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
@@ -1661,7 +1661,7 @@ The Commissioner may, under this Part, make a determination expressed to be retr
   (a) is of a bona fide professional or technical nature; and
   (b) is intended for circulation among members of the legal profession, employees of the Crown, relationship counsellors, mediators, or social workers.
 (5) Nothing in section 81 of the Tax Administration Act 1994 prevents the publication of a report of any proceedings under this Part—
-  (a) with the leave of the Commissioner or a Family Court; or
+  (a) with the leave of the Commissioner or the Family Court; or
   (b) in accordance with subsection (4).
 
 ## Part 6B — Departure from formula assessment of child support initiated by Commissioner
@@ -1783,8 +1783,8 @@ The fact that the Commissioner has started proceedings under this Part does not 
 The Commissioner may, under this Part, make a determination expressed to be retrospective to any day that the Commissioner considers appropriate, not being a day that precedes the commencement of this section.
 
 ### 96ZF Restriction on publication of reports of proceedings
-(1) No person may, without the leave of the Commissioner or a Family Court, publish a report of any proceedings under this Part.
-(2) The Commissioner or a Family Court may grant leave under subsection (1) with or without conditions.
+(1) No person may, without the leave of the Commissioner or the Family Court, publish a report of any proceedings under this Part.
+(2) The Commissioner or the Family Court may grant leave under subsection (1) with or without conditions.
 (3) Every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
@@ -1792,7 +1792,7 @@ The Commissioner may, under this Part, make a determination expressed to be retr
   (a) is of a bona fide professional or technical nature; and
   (b) is intended for circulation among members of the legal profession, employees of the Crown, relationship counsellors, mediators, or social workers.
 (5) Nothing in section 81 of the Tax Administration Act 1994 prevents the publication of a report of any proceedings under this Part—
-  (a) with the leave of the Commissioner or a Family Court; or
+  (a) with the leave of the Commissioner or the Family Court; or
   (b) in accordance with subsection (4).
 
 ### 96ZG Application of certain provisions in Part 6A to proceedings under this Part
@@ -1805,7 +1805,7 @@ The following provisions of Part 6A apply to proceedings under this Part, with n
 **General provisions relating to jurisdiction**
 
 ### 97 Jurisdiction of courts
-The Supreme Court, the Court of Appeal, the High Court, District Courts, and Family Courts shall have jurisdiction in proceedings under this Act only where—
+The Supreme Court, the Court of Appeal, the High Court, the District Court, and the Family Court shall have jurisdiction in proceedings under this Act only where—
   (a) any party to the proceeding resides or is domiciled in New Zealand; or
   (b) any child to whom the proceeding relates resides or is domiciled in New Zealand.
 
@@ -1822,8 +1822,8 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
   (b) that the annual rate of child support payable in respect of a child to whom the order does not relate is greater than the rate which would have been payable if the order had not been made.
 
 ### 99 Declarations in respect of step-parents
-(1) A parent or carer of a child may apply to a Family Court for a declaration that a specified person is a step-parent of the child.
-(2) Any person who wishes to be declared to be a step-parent of a child for the purposes of this Act may apply to a Family Court for a declaration to that effect.
+(1) A parent or carer of a child may apply to the Family Court for a declaration that a specified person is a step-parent of the child.
+(2) Any person who wishes to be declared to be a step-parent of a child for the purposes of this Act may apply to the Family Court for a declaration to that effect.
 (3) Subject to section 125, the parties to the proceeding are—
   (a) the applicant for the declaration under this section; and
   (b) the person whom the application seeks to be declared to be a step-parent of the child (if that person is not the applicant); and
@@ -1835,7 +1835,7 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
   (d) whether or not that person was ever living with a parent of the child in a marriage, civil union or de facto relationship; and
   (e) whether that person has at any time been a guardian of the child.
 (5) For the purposes of subsection (4)﻿(a), a person shall not be taken to have assumed responsibility for the maintenance of a child by reason only of meeting the child maintenance liabilities of another person who is wholly or partially maintained by him or her.
-(6) When a Family Court makes a declaration under this section, the Commissioner shall, as soon as is practicable, take such action (if any) as is necessary to give effect to the decision.
+(6) When the Family Court makes a declaration under this section, the Commissioner shall, as soon as is practicable, take such action (if any) as is necessary to give effect to the decision.
 
 **Appeals from decisions of Commissioner in respect of objections under Part 6**
 
@@ -1846,29 +1846,29 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
 [Repealed]
 
 ### 102 Appeals against decisions of Commissioner
-(1) Where the Commissioner disallows an objection made under section 90, the objector may appeal to a Family Court against that decision.
+(1) Where the Commissioner disallows an objection made under section 90, the objector may appeal to the Family Court against that decision.
 (2) The appeal must be lodged within 2 months after the date upon which notice of disallowance of the objection is given to the objector by or on behalf of the Commissioner.
 (3) Subject to section 125, the parties to the appeal are the objector and the Commissioner.
 (4) A court hearing such an appeal may make such order as it considers appropriate in relation to the decision to which the appeal relates, including an order confirming or varying the decision.
 (5) When an order is made by a court under this section, the Commissioner shall, as soon as practicable, take such action as is necessary to give effect to the decision (whether by amending any assessment or otherwise).
 
 ### 103 Appeals against assessments
-(1) Where the Commissioner disallows in whole or in part an objection made under section 91 to an assessment, the objector may appeal to a Family Court against the assessment.
+(1) Where the Commissioner disallows in whole or in part an objection made under section 91 to an assessment, the objector may appeal to an office of the Family Court against the assessment.
 (2) The appeal must be lodged within 2 months after the date upon which notice of disallowance of the objection is given to the objector by or on behalf of the Commissioner.
 (3) Subject to section 125, the parties to the appeal are the objector and the Commissioner.
-(4) A Family Court hearing an appeal under this section shall make such order correcting the assessment to which the appeal relates as the circumstances require.
-(5) When a Family Court makes an order under this section, the Commissioner shall, as soon as practicable, take such action as is necessary to give effect to the decision (whether by amending the assessment or otherwise).
+(4) When hearing an appeal under this section, the Family Court must make such order correcting the assessment to which the appeal relates as the circumstances require.
+(5) When the Family Court makes an order under this section, the Commissioner shall, as soon as practicable, take such action as is necessary to give effect to the decision (whether by amending the assessment or otherwise).
 (6) In subsequently making any assessment in relation to a person affected by the assessment that was objected to, the Commissioner shall act on the basis of the decision of the court to the extent to which it is applicable.
 
 **Appeals in relation to determinations**
 
 ### 103A Appeal in relation to determination or decision under subpart 3 of Part 5A
-(1) A payee or a liable person may appeal to a Family Court against—
+(1) A payee or a liable person may appeal to the Family Court against—
   (a) a determination made by the Commissioner under subpart 3 of Part 5A; or
   (b) a decision made under that subpart to refuse to make a determination.
 (2) An appeal under this section must be lodged within—
   (a) 2 months after the date on which the determination or decision is made; or
-  (b) any further time that a Family Court may allow on application made before or after the expiration of that period.
+  (b) any further time that the Family Court may allow on application made before or after the expiration of that period.
 (3) The parties to an appeal are—
   (a) the appellant; and
   (b) the other party to the proceedings before the Commissioner resulting in the determination or decision; and
@@ -1876,21 +1876,21 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
 (4) An appeal under this section is by way of rehearing.
 
 ### 103B Appeal by respondent from determination under Part 6A
-(1) A receiving carer may appeal to a Family Court against a determination made by the Commissioner under Part 6A if the receiving carer is not the person who made the application for the determination under section 96B.
-(2) A liable parent may appeal to a Family Court against a determination made by the Commissioner under Part 6A if the liable parent is not the person who made the application for the determination under section 96B.
+(1) A receiving carer may appeal to the Family Court against a determination made by the Commissioner under Part 6A if the receiving carer is not the person who made the application for the determination under section 96B.
+(2) A liable parent may appeal to the Family Court against a determination made by the Commissioner under Part 6A if the liable parent is not the person who made the application for the determination under section 96B.
 (3) An appeal under this section must be lodged within—
   (a) 2 months after the date on which the determination is made; or
-  (b) any further time that a Family Court may allow on application made before or after the expiration of that period.
+  (b) any further time that the Family Court may allow on application made before or after the expiration of that period.
 (4) The parties to an appeal are, subject to section 125,—
   (a) the appellant; and
   (b) any other party to the proceedings under Part 6A.
 (5) An appeal under this section is by way of rehearing.
 
 ### 103C Appeal from determination under Part 6B
-(1) Any party referred to in section 96Q(2) may appeal to a Family Court against a determination made by the Commissioner under Part 6B.
+(1) Any party referred to in section 96Q(2) may appeal to the Family Court against a determination made by the Commissioner under Part 6B.
 (2) An appeal under this section must be lodged within—
   (a) 2 months after the date on which the determination is made; or
-  (b) any further time that a Family Court may allow on application made before or after the expiration of that period.
+  (b) any further time that the Family Court may allow on application made before or after the expiration of that period.
 (3) The parties to an appeal are—
   (a) the appellant; and
   (b) any other party to the proceedings before the Commissioner resulting in the determination; and
@@ -1898,19 +1898,19 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
 (4) An appeal under this section is by way of rehearing.
 
 ### 103D Powers of Family Court on appeal
-(1) In determining an appeal under any of sections 103A to 103C, a Family Court may—
+(1) In determining an appeal under any of sections 103A to 103C, the Family Court may—
   (a) confirm, modify, or reverse any determination or decision appealed against (in whole or in part):
   (b) make any decision that the Commissioner could have made in respect of the determination or decision appealed against:
   (c) exercise any of the powers that could have been exercised by the Commissioner.
 (2) Without limiting subsection (1),—
-  (a) in reversing a decision or part of a decision, a Family Court may make an order that the provisions of this Act relating to the formula assessment of child support should not be departed from:
-  (b) in reversing a decision made under subpart 3 of Part 5A to refuse to make a determination, a Family Court may exercise any of the powers that could have been exercised by the Commissioner to make a determination under that subpart.
+  (a) in reversing a decision or part of a decision, the Family Court may make an order that the provisions of this Act relating to the formula assessment of child support should not be departed from:
+  (b) in reversing a decision made under subpart 3 of Part 5A to refuse to make a determination, the Family Court may exercise any of the powers that could have been exercised by the Commissioner to make a determination under that subpart.
 (3) An order under this section may make different provision in relation to different child support years and in relation to different parts of a child support year.
 (4) Subject to section 98(2), an order made under this section does not operate so as to increase or reduce the amount of child support payable in relation to any child to whom the order does not apply, and the child support payable in relation to any child to whom the order does not apply must be calculated as if the order had not been made.
 (5) Every order made under this section must specify the period of time in which the order is to apply or specify the event the occurrence of which will cause the order to terminate.
 
 ### 103E Implementation of orders
-(1) When a decision of a Family Court making an order in determination of an appeal under section 103D becomes final, the Commissioner must, as soon as practicable, take the action necessary to give effect to the decision in relation to any—
+(1) When a decision of the Family Court making an order in determination of an appeal under section 103D becomes final, the Commissioner must, as soon as practicable, take the action necessary to give effect to the decision in relation to any—
   (a) formula assessment that has been made in relation to the child, the receiving carer, and the liable parent concerned (whether by amending the assessment or otherwise); or
   (b) exemption granted under this Act in relation to the payee and the liable person concerned (whether by amending an assessment or otherwise).
 (2) Subject to subsection (3), in subsequently making an assessment in relation to the child, the payee, and the liable person concerned while the order is in force, the Commissioner must act on the basis of the provisions of this Act as modified by the order.
@@ -1921,14 +1921,14 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
 **Orders for departure from formula assessment in special circumstances**
 
 ### 104 Application for departure from formula assessment in special circumstances
-(1) A receiving carer or a liable parent may apply to a Family Court for an order that all or some of the provisions of this Act relating to the formula assessment of child support be departed from in relation to a child.
+(1) A receiving carer or a liable parent may apply to the Family Court for an order that all or some of the provisions of this Act relating to the formula assessment of child support be departed from in relation to a child.
 (2) An application may be made only if—
   (a) a formula assessment is in force in relation to the child, the receiving carer, and the liable parent concerned; and
   (b) either—
     (i) the Commissioner has made a determination under Part 6A in relation to the matter and the person who applies under this section is the person who applied for that determination; or
     (ii) the Commissioner has refused to make a determination under Part 6A in relation to the matter; or
     (iia) the Commissioner has refused to make a determination under Part 6B in relation to the matter after having commenced proceedings under that Part; or
-    (iii) the receiving carer or the liable parent are parties to another application pending in a Family Court and the court is satisfied that it would be appropriate for the court to consider an application made under this section at the same time as it hears the other application; or
+    (iii) the receiving carer or the liable parent are parties to another application pending in the Family Court and the court is satisfied that it would be appropriate for the court to consider an application made under this section at the same time as it hears the other application; or
     (iv) the application relates, wholly or in part, to child support payable in the child support year ending on 31 March 1994 or any earlier child support year.
 (3) Subject to section 125, the parties to the application are the liable parent and the receiving carer.
 (4) Subject to section 117, the fact that an application is made by any person under this section does not suspend, interfere with, or affect—
@@ -1937,7 +1937,7 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
   (c) the right of the Commissioner to receive and recover any child support.
 
 ### 105 Matters as to which court must be satisfied before making order
-(1) Where an application is made to a Family Court under section 104 for an order in relation to a child and the court is satisfied that—the court may make the order.
+(1) Where an application is made to the Family Court under section 104 for an order in relation to a child and the court is satisfied that—the court may make the order.
   (a) 1 or more of the grounds for departure mentioned in subsection (2) exists or exist; and
   (b) it would be—to make a particular order of the type specified in section 106,—
     (i) just and equitable as regards the child, the receiving carer, and the liable parent; and
@@ -2035,11 +2035,11 @@ The amount that an order under section 106 on the ground in section 105(2)﻿(d)
 **Orders for provision of child support in form of lump sum**
 
 ### 108 Application for order for provision of child support in form of lump sum
-(1) Where a receiving carer wants a liable parent to provide, or a liable parent wants to provide, child support for a child otherwise than in the form of periodic amounts paid to the receiving carer, the receiving carer or the liable parent may apply to a Family Court for an order that the liable parent provide child support for the child otherwise than in the form of periodic amounts paid to the receiving carer.
+(1) Where a receiving carer wants a liable parent to provide, or a liable parent wants to provide, child support for a child otherwise than in the form of periodic amounts paid to the receiving carer, the receiving carer or the liable parent may apply to the Family Court for an order that the liable parent provide child support for the child otherwise than in the form of periodic amounts paid to the receiving carer.
 (2) An application—
   (a) may be made only if a formula assessment is in force in relation to the child, the receiving carer, and the liable parent; and
   (b) may be made by the receiving carer or the liable parent.
-(3) A Family Court may not hear the application until the following applications, proceedings, or appeals that are still pending have been heard and determined:
+(3) The Family Court may not hear the application until the following applications, proceedings, or appeals that are still pending have been heard and determined:
   (a) an application to the Commissioner under subpart 3 of Part 5A:
   (b) an application to the Commissioner under section 96B:
   (c) proceedings started by the Commissioner under section 96V:
@@ -2048,7 +2048,7 @@ The amount that an order under section 106 on the ground in section 105(2)﻿(d)
 (4) Subject to section 125, the parties to the application are the receiving carer and the liable parent.
 
 ### 109 Orders for provision of child support in form of lump sum
-(1) Where a receiving carer or a liable parent makes an application to a Family Court under section 108 and the court is satisfied that it would be—to make an order that the liable parent pay a lump sum towards the support of the child, the court may make the order.
+(1) Where a receiving carer or a liable parent makes an application to the Family Court under section 108 and the court is satisfied that it would be—to make an order that the liable parent pay a lump sum towards the support of the child, the court may make the order.
   (a) just and equitable as regards the child, the receiving carer, and the liable parent; and
   (b) otherwise proper,—
 (2) The Family Court may make either one, or both, of the following orders under this section:
@@ -2079,7 +2079,7 @@ The amount that an order under section 106 on the ground in section 105(2)﻿(d)
 (7) Subject to section 98(2), an order made under this section shall not operate so as to increase or reduce the amount of child support payable in relation to any child to whom the order does not apply, and the child support payable in relation to any such other child shall be calculated as if the order had not been made.
 
 ### 111 Effect of lump sum orders on formula assessment of child support
-(1) If a Family Court makes an order under section 109 that includes a statement that the child support ordered to be provided by the liable parent is to be credited against the liable parent's liability under any relevant formula assessment, when the decision of the court making the order becomes final, the Commissioner shall, as soon as practicable, take such action as is necessary to give effect to the order in relation to any relevant formula assessment that has been made (whether by amending the assessment or otherwise).
+(1) If the Family Court makes an order under section 109 that includes a statement that the child support ordered to be provided by the liable parent is to be credited against the liable parent's liability under any relevant formula assessment, when the decision of the court making the order becomes final, the Commissioner shall, as soon as practicable, take such action as is necessary to give effect to the order in relation to any relevant formula assessment that has been made (whether by amending the assessment or otherwise).
 (2) In subsequently making a relevant formula assessment, the Commissioner shall—
   (a) calculate what would, apart from the application of the order, be the annual rate of child support payable by the liable parent to the receiving carer entitled to child support; and
   (b) reduce that annual rate by the amount or percentage specified in the statement included in the order under section 110(3); and
@@ -2088,8 +2088,8 @@ The amount that an order under section 106 on the ground in section 105(2)﻿(d)
 **Discharge, suspension, revival, and variation of orders**
 
 ### 112 Discharge, suspension, revival, and variation of orders
-(1) A receiving carer or a liable parent or the Commissioner may apply to a Family Court for an order to discharge, suspend, revive, or vary any order made by a Family Court under section 103D or section 106 or section 109.
-(2) If an order under section 103D or section 106 or section 109 is in force in relation to a child (whether or not all things ordered to be done by the order have been done), a Family Court may, on receipt of an application made under subsection (1) or where it is satisfied that it ought to do so, by order—
+(1) A receiving carer or a liable parent or the Commissioner may apply to the Family Court for an order to discharge, suspend, revive, or vary any order made by the Family Court under section 103D or section 106 or section 109.
+(2) If an order under section 103D or section 106 or section 109 is in force in relation to a child (whether or not all things ordered to be done by the order have been done), the Family Court may, on receipt of an application made under subsection (1) or where it is satisfied that it ought to do so, by order—
   (a) discharge the order; or
   (b) suspend its operation wholly or in part and either until a further order or until a fixed time or the happening of a future event; or
   (c) if the operation of the order has been suspended under paragraph (b), revive its operation wholly or in part; or
@@ -2114,9 +2114,9 @@ The amount that an order under section 106 on the ground in section 105(2)﻿(d)
 **Orders to set aside voluntary agreements**
 
 ### 113 Power to set aside agreements
-(1) A Family Court may set aside a voluntary agreement if the court is satisfied, on application by a party to the agreement, that the concurrence of the party was obtained by fraud or undue influence or that the party was influenced in his or her decision to enter into the agreement by a mistake that was material to him or her.
+(1) The Family Court may set aside a voluntary agreement if the court is satisfied, on application by a party to the agreement, that the concurrence of the party was obtained by fraud or undue influence or that the party was influenced in his or her decision to enter into the agreement by a mistake that was material to him or her.
 (2) Subject to section 125, the parties to a proceeding under subsection (1) of this section are the parties to the agreement.
-(3) Where a voluntary agreement is set aside under subsection (1), a Family Court may make such orders as it considers just and equitable for the purpose of preserving or adjusting the rights of the party concerned or, as the case may be, the child concerned or a person who is or was a receiving carer, or a liable parent, in relation to the child.
+(3) Where a voluntary agreement is set aside under subsection (1), the Family Court may make such orders as it considers just and equitable for the purpose of preserving or adjusting the rights of the party concerned or, as the case may be, the child concerned or a person who is or was a receiving carer, or a liable parent, in relation to the child.
 (4) An order under subsection (3) may be made in the proceedings in which the order is set aside or in other proceedings brought on the application of a person who is or was a receiving carer, or a liable parent, in relation to the child concerned.
 (5) The Commissioner shall, as soon as practicable, take such action as is necessary to give effect to the order.
 
@@ -2138,7 +2138,7 @@ The Commissioner shall, as soon as practicable, take such action as is necessary
 **Urgent maintenance orders and suspension orders**
 
 ### 116 Urgent maintenance orders
-(1) Where, at any time after an application has been made to the Commissioner for formula assessment of child support for a child (whether or not the Commissioner has accepted or refused to accept the application), a Family Court is of the opinion that the child is in urgent need of financial assistance, the court may order the payment of such periodic or other amount towards the maintenance of the child as the court considers appropriate.
+(1) Where, at any time after an application has been made to the Commissioner for formula assessment of child support for a child (whether or not the Commissioner has accepted or refused to accept the application), the Family Court is of the opinion that the child is in urgent need of financial assistance, the court may order the payment of such periodic or other amount towards the maintenance of the child as the court considers appropriate.
 (2) An order under subsection (1) has effect for such period as is specified in the order, other than a period that ends after—
   (a) the final determination under this Act that child support is not payable for the child; or
   (b) if a determination is made under this Act that child support is payable for the child, the receipt by the carer of, or on account of, the first payment of such child support.
@@ -2146,7 +2146,7 @@ The Commissioner shall, as soon as practicable, take such action as is necessary
 (4) The Commissioner shall, as soon as practicable, take such action as is necessary to give effect to any order made under this section.
 
 ### 117 Suspension orders
-(1) Where a proceeding has been instituted in a Family Court or an objection has been made under Part 6, a party to the proceeding may apply to the court for an order under this section.
+(1) Where a proceeding has been instituted in the Family Court or an objection has been made under Part 6, a party to the proceeding may apply to the court for an order under this section.
 (2) If the court considers that it is desirable to do so taking into account the interests of the persons who may be affected by the outcome of the proceeding, the court may make such order suspending or altering the liability of any person to make payments under this Act as the court considers appropriate pending the hearing and final determination of the proceeding.
 (3) The court may, by order, vary or revoke an order made under subsection (2).
 (4) An order under subsection (2)—
@@ -2167,7 +2167,7 @@ The Commissioner shall, as soon as practicable, take such action as is necessary
     (ii) the day on which the application for formula assessment to which the order applies was made:
   (f) make an order imposing terms and conditions:
   (g) make an order at any time.
-(2) Neither the dismissal of an application or appeal under this Act by a Family Court or a District Court, nor the refusal of a Family Court or a District Court to make an order under this Act, shall be a bar to the making of a further application or appeal in the same matter and against the same or any other respondent by the same or any other applicant or appellant.
+(2) Neither the dismissal of an application or appeal under this Act by the Family Court or the District Court, nor the refusal of the Family Court or the District Court to make an order under this Act, shall be a bar to the making of a further application or appeal in the same matter and against the same or any other respondent by the same or any other applicant or appellant.
 (3) Where an order has been made or refused on an application or appeal under this Act, the court may, on the application of the applicant, appellant, or respondent, grant a rehearing of the application or appeal on such conditions as it thinks fit.
 (4) Rules of court may make provision with respect to the making of orders under this Act (whether as to their form or otherwise) for the purpose of facilitating their enforcement and the collection of any financial support payable under them.
 
@@ -2189,15 +2189,15 @@ The Commissioner shall, as soon as practicable, take such action as is necessary
 **Miscellaneous provisions**
 
 ### 120 Appeal from decisions of courts
-(1) A party to the proceeding may appeal to the High Court against an order or declaration of a Family Court made under this Act.
+(1) A party to the proceeding may appeal to the High Court against an order or declaration of the Family Court made under this Act.
 (1AA) However, no appeal may be made to the High Court under subsection (1) in relation to a decision under—
   (a) section 226 to appoint a lawyer to represent a child; or
   (b) section 226A to appoint, or to direct the Registrar to appoint, a lawyer to assist the court.
-(1A) The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
-(2) On the ex parte application of the appellant, the Family Court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(1A) The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
+(2) On the ex parte application of the appellant, the Family Court may order that the appellant must not be required under section 126(1) of the District Court Act 2016 to give the Registrar of the High Court security for costs.
 (2A) Subsection (2) overrides subsection (1A).
-(3) The Commissioner may appeal to the High Court, against the decision, against an order or declaration of a Family Court made under this Act in relation to any of the matters specified in section 102 or 103.
-(3A) The High Court Rules 2016 and sections 75 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (3) as if it were an appeal under section 72 of that Act.
+(3) The Commissioner may appeal to the High Court against an order or declaration of the Family Court made under this Act in relation to any of the matters specified in section 102 or 103.
+(3A) The High Court Rules 2016 and sections 127 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (3) as if it were an appeal under section 124 of that Act.
 (4) With the leave of the Court of Appeal, a party to an appeal under subsection (1) or subsection (3) may appeal to the Court of Appeal against all or part of any determination of the High Court made in the appeal.
 (5) On an appeal to the Court of Appeal under this section, the Court of Appeal shall have the same power to adjudicate on the proceeding as the High Court had.
 (6)
@@ -2218,8 +2218,8 @@ Where a court is considering an appeal under this Act against the disallowance b
 
 ### 123 Conduct of proceedings
 (1) The business of courts and of Judges shall, so far as is consistent with the due despatch of business, be arranged in such a manner as may be necessary for the separating of the hearing of proceedings under this Act from other business.
-(2) Section 11A of the Family Courts Act 1980 applies to the hearing of any application or appeal under this Act—
-  (a) in a Family Court:
+(2) Section 11A of the Family Court Act 1980 applies to the hearing of any application or appeal under this Act—
+  (a) in the Family Court:
   (b) in any other court, in which case—
     (i) references in that section to the Family Court or court must be read as references to that other court; and
     (ii) references in that section to the Family Court Judge or the Judge must be read as references to the Judge presiding at the hearing.
@@ -2227,8 +2227,8 @@ Where a court is considering an appeal under this Act against the disallowance b
 (4)
 
 ### 124 Publication of reports of proceedings
-Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Part—
-  (a) in a Family Court:
+Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a report of any proceedings under this Part—
+  (a) in the Family Court:
   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
 
 ### 125 Intervention in proceedings
@@ -2240,7 +2240,7 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
 Where a court makes an order under this Act, the Registrar or other responsible officer of the court shall, within 14 days after the day on which the order is made, send a certified or sealed copy of the order to the Commissioner.
 
 ### 127 Orders by consent
-In any proceeding before it under this Act, a Family Court or a District Court may make any order under this Act by the consent of all the parties to the proceeding.
+In any proceeding before it under this Act, the Family Court or the District Court may make any order under this Act by the consent of all the parties to the proceeding.
 
 ## Part 8 — Collection of financial support
 
@@ -2902,7 +2902,7 @@ Where a payer deducts an amount under this Part from any money payable to a liab
 (7) On the satisfaction of a charge that is registered under a registration Act in reliance on this section, the Commissioner must release the charge in the manner required by the registration Act, with such modifications as may be necessary.
 (7B) The Commissioner is not required to pay a fee for the release of a charge that is registered under a registration Act in reliance on this section.
 (8) Any charge created by this section which is registered against any property shall operate to secure any amount secured by any prior unregistered charge and unpaid at the time of registration of the charge, and also to secure any amount secured by any charge coming into existence after the registration of the charge, so that the registered charge shall operate to secure the total of all amounts for the time being owing by the payer under all charges created by this section.
-(9) If any amount constitutes by virtue of this section a charge on any property, a Family Court or a District Court may make such order as it thinks fit, either for the sale of that property or of any part thereof, or for the appointment of a receiver of the rents, profits, or income thereof, and for the payment of the amount of the charge and the costs of the Commissioner out of the proceeds of the sale or out of the rents, profits, or income.
+(9) If any amount constitutes by virtue of this section a charge on any property, the Family Court or the District Court may make such order as it thinks fit, either for the sale of that property or of any part thereof, or for the appointment of a receiver of the rents, profits, or income thereof, and for the payment of the amount of the charge and the costs of the Commissioner out of the proceeds of the sale or out of the rents, profits, or income.
 (10) Where any property has been sold under any such order, the Family Court or, as the case may be, the District Court may, on the application of the purchaser or the Commissioner, make an order vesting the property in the purchaser.
 (11) Every such vesting order shall have the same effect as if all persons entitled to the property had been free from all disability and had duly executed all proper conveyances, transfers, and assignments of the property for such estate or interest as is specified in the order; and in the case of land which is subject to the Land Transfer Act 1952 the purchaser's title thereto shall be registered accordingly.
 (12) This section shall apply subject to section 167.
@@ -2992,7 +2992,7 @@ Subject to section 180, no legal action may be taken by a payee in relation to a
 (3) Where the Commissioner receives an election under subsection (1) that complies with the requirements of this section, the amount of money that is or becomes unpaid and in arrear, to the extent that the payee has elected that the Commissioner not pursue payment,—
   (a) ceases to be a debt payable by the liable person to the Crown under this Act; and
   (b) becomes a debt payable by the liable person to the payee; and
-  (c) without prejudice to any mode of recovery and despite section 179, may be recovered by the payee in a District Court.
+  (c) without prejudice to any mode of recovery and despite section 179, may be recovered by the payee in the District Court.
 (4) An election made under this section is irrevocable from the time that the amount of child support or domestic maintenance is unpaid and in arrear.
 
 ### 180A Commissioner may write off benefit component of child support debt if receiving carer was social security beneficiary and recovery would cause serious hardship or be inefficient use of Commissioner's resources
@@ -3036,7 +3036,7 @@ Where—the Commissioner—
 ### 183 Warrant to seize property
 (1) Where any financial support that is payable by any person under this Act (and any penalty or interest imposed thereon under this Act) is in arrear and unpaid for not less than 14 days, a District Court Judge may issue a warrant to seize property against that person for the amount unpaid, or for so much of that amount as for the time being remains unpaid.
 (2) Every such warrant to seize property shall be in the prescribed form, with any necessary modifications.
-(3) Except to the extent that they are modified or varied by this section or by any rules of procedure made under this Act, the provisions of the District Courts Act 1947 that apply to warrants to seize property shall apply, with any necessary modifications, in respect of a warrant to seize property issued under this section.
+(3) Except to the extent that they are modified or varied by this section or by any rules of procedure made under this Act, the provisions of the District Court Act 2016 that apply to warrants to seize property shall apply, with any necessary modifications, in respect of a warrant to seize property issued under this section.
 (4) For the purpose of executing any warrant to seize property, the bailiff executing it may at any time enter on any premises, by force if necessary, if the bailiff has reasonable cause to believe that the property in respect of which it is issued is on those premises:
   provided that if any person in actual occupation of the premises requires the bailiff to produce evidence of his or her authority, the bailiff executing the warrant shall produce the warrant before entering on the premises.
 (5) Where a person against whom a warrant to seize property is issued pays or tenders to the bailiff executing the warrant the sum or sums therein mentioned together with the expenses of the seizure of property up to the time of the payment or tender, the warrant shall be deemed to be satisfied.
@@ -3044,12 +3044,12 @@ Where—the Commissioner—
 (7) The surplus of the sale, if any, shall be handed by the bailiff to the Registrar, who shall pay the amount to the person against whom the warrant to seize property is issued.
 (8)
 (9) No seizure of property made under the authority of this Act shall be deemed unlawful, nor shall any person making the same be deemed a trespasser, by reason of any defect or want of form in the warrant to seize property, nor shall any such person be deemed a trespasser from the beginning by reason of any irregularity afterwards committed by that person; but all persons aggrieved by any such defect or irregularity may recover satisfaction for the special damage by action at law.
-(10) Section 91 of the District Courts Act 1947 shall not apply in relation to a warrant to seize property issued under this section.
+(10) Section 175 of the District Court Act 2016 does not apply in relation to a warrant to seize property issued under this section.
 
 **Charging orders**
 
 ### 184 Charging orders
-(1) Where a person has a liability to pay financial support under this Act, a Family Court or a District Court may, in any case, at any time after the commencement of that liability, order that the financial support payable or to become payable under this Act shall be a charge on any property to which the person is entitled.
+(1) Where a person has a liability to pay financial support under this Act, the Family Court or the District Court may, in any case, at any time after the commencement of that liability, order that the financial support payable or to become payable under this Act shall be a charge on any property to which the person is entitled.
 (2) Subject in the case of any real property to registration under subsection (6), the property shall become subject to a charge accordingly in favour of the person to whom for the time being and from time to time the money is or becomes payable.
 (3) A charging order shall specify, in such a manner as to identify it, the property on which the charge is imposed.
 (4) A charging order may at any time be varied or discharged by the court.
@@ -3081,7 +3081,7 @@ The authority conferred on the court by section 184 to make a charging order sha
 **Receiving orders**
 
 ### 187 Receiving orders
-(1) If any amount constitutes, by virtue of section 184, a charge on any property, a Family Court or a District Court may make such order as it thinks fit, either for the sale of that property or of any part thereof, or for the appointment of Public Trust or any other person to be the receiver of the whole or any part of that property, or of the rents, profits, or income of the property, or of any part of that property:
+(1) If any amount constitutes, by virtue of section 184, a charge on any property, the Family Court or the District Court may make such order as it thinks fit, either for the sale of that property or of any part thereof, or for the appointment of Public Trust or any other person to be the receiver of the whole or any part of that property, or of the rents, profits, or income of the property, or of any part of that property:
   provided that neither Public Trust nor any other person shall, unless that person consents, be appointed under this section as a receiver.
 (2) Where any property has been sold under any such order, the High Court may, on the application of the purchaser or the Commissioner, make an order vesting the property in the purchaser.
 (3) Every such vesting order shall have the same effect as if all persons entitled to the property had been free from all disability and had duly executed all proper conveyances, transfers, and assignments of the property for such estate or interest as is specified in the order; and in the case of land which is subject to the Land Transfer Act 1952 the purchaser's title thereto shall be registered accordingly.
@@ -3092,7 +3092,7 @@ The authority conferred on the court by section 184 to make a charging order sha
 (1) A receiver appointed under section 187 may take and recover, by action or otherwise, the possession and receipt of the property in respect of which the receiver has been appointed, and of the rents, profits, and income from the property, so long as the receiving order remains in force.
 (2) The receiver may also, in the receiver's own name, grant leases of any land in respect of which the receiver has been appointed on such conditions as the receiver thinks fit, and for any term not exceeding 3 years or from year to year, or for a weekly, monthly, or other similar tenancy.
 (3) A lease granted pursuant to subsection (2) shall remain valid notwithstanding any subsequent discharge of the charge or of the receiving order.
-(4) Subject to any directions that may be given by a Family Court or a District Court, the receiver may also pay in respect of any such land all rates, taxes, interest, insurance premiums, and other outgoings (including all instalments of principal and interest under any table mortgage secured over the land) that are due at the time of the receiver's appointment or may fall due while the receiving order continues in force, and the cost of repairing and keeping in good repair and condition all buildings and other improvements on any such land; but the receiver shall not be bound to make any such payment or to repair or keep in good repair and condition any such buildings and improvements.
+(4) Subject to any directions that may be given by the Family Court or the District Court, the receiver may also pay in respect of any such land all rates, taxes, interest, insurance premiums, and other outgoings (including all instalments of principal and interest under any table mortgage secured over the land) that are due at the time of the receiver's appointment or may fall due while the receiving order continues in force, and the cost of repairing and keeping in good repair and condition all buildings and other improvements on any such land; but the receiver shall not be bound to make any such payment or to repair or keep in good repair and condition any such buildings and improvements.
 (5) Notwithstanding subsection (4), the receiver shall not expend in any one year (being a year commencing from the date of the receiver's appointment or any subsequent year), in repairing and keeping in good repair and condition all buildings and other improvements on the land, a sum exceeding $2,000, unless the expenditure is first authorised by the court.
 (6) The receiver shall make all payments pursuant to subsection (4) from the rents, profits, and income of the land received or to be received by the receiver, except in so far as any such payments are made pursuant to subsection (7).
 (7) The court may, on application by the receiver, authorise the receiver—
@@ -3105,7 +3105,7 @@ The authority conferred on the court by section 184 to make a charging order sha
   (a) to pay and satisfy all money from time to time accruing due under this Act; and
   (b) to hold the residue of the money so received until the charge or the receiving order is discharged, or the court sooner directs, and then to pay it to the person who would be entitled to the money if no such charge or receiving order was in force.
 (12) Despite subsection (11), if the receiver is Public Trust, the remuneration of the receiver is to be determined in accordance with Public Trust's scale of charges.
-(13) Subject to this Act, the appointment of a receiver by a Family Court or a District Court under this Part shall have the same effect, and the receiver shall have the same powers, duties, and liabilities, as if the receiver had been appointed by the High Court in the exercise of its jurisdiction in that behalf, and the Family Court or the District Court may give to the receiver any directions and confer upon the receiver any powers that the High Court may give to or confer upon any receiver so appointed by it.
+(13) Subject to this Act, the appointment of a receiver by the Family Court or the District Court under this Part shall have the same effect, and the receiver shall have the same powers, duties, and liabilities, as if the receiver had been appointed by the High Court in the exercise of its jurisdiction in that behalf, and the Family Court or the District Court may give to the receiver any directions and confer upon the receiver any powers that the High Court may give to or confer upon any receiver so appointed by it.
 
 **Provisions as to enforcement of financial support liability**
 
@@ -3113,7 +3113,7 @@ The authority conferred on the court by section 184 to make a charging order sha
 An order made under this Part for the purpose of enforcing payment of any money payable under this Act may be made in respect of arrears due under this Act up to the date of the order.
 
 ### 190 Power to issue summons to appear in court
-(1) Where a person who is liable to pay financial support under this Act refuses or fails to make payment of any financial support so payable, the Registrar of the District Court or Family Court nearest to the place where the person resides or carries on business, on the application of the Commissioner, supported by sufficient evidence of default, may, unless the Registrar knows that the person is undergoing a custodial sentence, as defined in section 4 of the Criminal Records (Clean Slate) Act 2004, issue a summons in the prescribed form to that person.
+(1) Where a person who is liable to pay financial support under this Act refuses or fails to make payment of any financial support so payable, the Registrar of the District Court or Family Court at the office of the court nearest to the place where the person resides or carries on business, on the application of the Commissioner, supported by sufficient evidence of default, may, unless the Registrar knows that the person is undergoing a custodial sentence, as defined in section 4 of the Criminal Records (Clean Slate) Act 2004, issue a summons in the prescribed form to that person.
 (2) A summons issued under subsection (1) shall require the person, unless the amount of arrears of financial support (including any penalty or other charge imposed thereon under this Act) due under this Act is sooner paid, to appear at the time and place appointed in the summons to be examined orally by the District Court or Family Court as to the person's means and the reason for the alleged default.
 (3) The liable person shall produce at the examination all books, papers, and the documents relating to the person's debts and to the person's default under this Act.
 (4) If a summons issued under this section cannot be served or if a person on whom such a summons has been served fails to appear before the District Court or Family Court at the time and place specified in the summons, or at any subsequent time and place to which the examination is adjourned, a District Court or Family Court Judge may issue a warrant to arrest the person and bring the person before the court as soon as possible.
@@ -3159,12 +3159,12 @@ Upon completion of an examination under section 190, the District Court or Famil
 (6) A person to whom a warrant under subsection (5) is issued may execute it forthwith but shall not be obliged to do so if that person believes that the liable person to be arrested cannot be brought before the District Court or Family Court within 72 hours after his or her arrest.
 (7) A warrant under subsection (5) shall cease to have effect if the amount due under this Act is paid.
 (8) An order made under subsection (1) shall have effect as if the liable person, following conviction, had been sentenced to community work.
-(9) Where a District Court or Family Court, acting under this section, orders a liable person to do community work, the person shall have the same right of appeal to the High Court against the order as the person would have had if the person had been convicted and sentenced by the District Court.
+(9) Where the District Court or Family Court, acting under this section, orders a liable person to do community work, the person shall have the same right of appeal to the High Court against the order as the person would have had if the person had been convicted and sentenced by the District Court.
 (10) Doing community work under this section shall not operate to extinguish or affect the liability of the respondent under this Act.
 (11) Section 30 of the Sentencing Act 2002 applies in relation to this section as if the District Court were imposing a sentence of imprisonment.
 
 ### 197 Application of Legal Services Act 2000
-Every liable person who is summoned or brought before a District Court or Family Court under section 190 or section 196 of this Act may apply for the grant of legal aid under the Legal Services Act 2000 as if the person had been charged with an offence, and that Act, with the necessary modifications, shall apply accordingly.
+Every liable person who is summoned or brought before the District Court or Family Court under section 190 or section 196 of this Act may apply for the grant of legal aid under the Legal Services Act 2000 as if the person had been charged with an offence, and that Act, with the necessary modifications, shall apply accordingly.
 
 ### 198 Liable person doing community work to be discharged on payment
 (1) If a liable person is doing community work under an order made under section 196(1), the person may pay, or cause to be paid, the amount due under this Act.
@@ -3172,7 +3172,7 @@ Every liable person who is summoned or brought before a District Court or Family
 
 ### 199 Arrest of liable person
 (1) Where a District Court Judge or, if a District Court Judge is not available and the case appears to be one of urgency, any Registrar (not being a constable), is satisfied on application in writing made by the Commissioner that there is reasonable cause to believe that any liable person is about to leave New Zealand with intent to avoid payment of any liability under this Act, the District Court Judge or Registrar may issue a warrant for the arrest of the person.
-(2) The liable person shall thereupon be brought as soon as possible before a District Court which, if it is satisfied that the liable person is likely to leave New Zealand with intent to avoid payment of any liability under this Act, may make any 1 or more of the following orders:
+(2) The liable person shall thereupon be brought as soon as possible before the District Court which, if it is satisfied that the liable person is likely to leave New Zealand with intent to avoid payment of any liability under this Act, may make any 1 or more of the following orders:
   (a) an order that the liable person give such security (including the provision of sureties) for the payment of that liability as the court specifies:
   (b) an order that the liable person do not leave New Zealand without the written permission of the court:
   (c) an order that the liable person surrender to the court for such period as the court specifies any tickets or travel documents in the person's possession.
@@ -3214,7 +3214,7 @@ Every person who in pursuance of this Act pays any financial support for or on b
 Where a payee has received, from a person who in relation to that payee is a liable person, an amount intended by both the liable person and the payee to be paid in complete or partial satisfaction of a liability of the liable person to pay financial support under this Act, the Commissioner shall disregard that payment for the purposes of this Act and the amount so paid shall not be credited by the Commissioner against the liability of the liable person to pay financial support under this Act.
 
 ### 207 Amounts paid where no liability to pay exists, etc
-(1) Where—the amount may be recovered from the payee by the person in a District Court.
+(1) Where—the amount may be recovered from the payee by the person in the District Court.
   (a) an amount of financial support is paid by a person to the Commissioner; and
   (b) the person is not liable, or subsequently becomes not liable, to pay the amount to the Commissioner; and
   (c) the Commissioner has paid the amount to a payee,—
@@ -3395,7 +3395,7 @@ In any proceedings under this Act (other than criminal proceedings), a court may
 
 ### 226B Fees and expenses of lawyer appointed under section 226 or 226A
 (1) The fees and expenses of a lawyer appointed under section 226 or 226A must—
-  (a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (a) be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by the Registrar of the court; and
   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
 (2) An invoice rendered by a lawyer appointed under section 226 or 226A for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
 (3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
@@ -3423,21 +3423,21 @@ In any proceedings under this Act (other than criminal proceedings), a court may
       (ii) the party is unable to afford goods or services that are expensive or of a high quality or standard according to normal community standards.
 
 ### 226D Enforcement of orders made under section 226C
-(1) The amount that a party is ordered to reimburse under section 226C is a debt due to the Crown by that party and may be enforced in a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
-(2) Despite section 113 or 123 of the District Courts Act 1947 or section 100A of the Judicature Act 1908, no court fee is payable by a person who seeks to enforce, on behalf of the Crown, an order referred to in subsection (1), but the fee that would otherwise be payable—
+(1) The amount that a party is ordered to reimburse under section 226C is a debt due to the Crown by that party and may be enforced in the District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
+(2) Despite section 219 or 230 of the District Court Act 2016 or section 156 of the Senior Courts Act 2016, no court fee is payable by a person who seeks to enforce, on behalf of the Crown, an order referred to in subsection (1), but the fee that would otherwise be payable—
   (a) is to be added to the amount sought to be enforced; and
   (b) must be paid to the Registrar of the court out of any proceeds that result from the enforcement.
 (3) For the purposes of section 14(1)﻿(b) of the Crown Proceedings Act 1950, the Secretary for Justice may, on behalf of the Crown, enforce a debt under this section.
 
 ### 227 Vexatious proceedings
-(1) A Family Court or District Court may dismiss any proceeding before it under this Act if it is satisfied that it is frivolous or vexatious or an abuse of the procedure of the court.
-(2) A Family Court or District Court may, if it is satisfied that a person has persistently instituted vexatious proceedings under this Act or any former Act (whether against the same person or against different persons), after giving the first-mentioned person an opportunity of being heard, order that no proceeding under this Act, or no such proceeding of any specified kind or against any specified person, shall be commenced by the first-mentioned person without the leave of the court.
+(1) The Family Court or District Court may dismiss any proceeding before it under this Act if it is satisfied that it is frivolous or vexatious or an abuse of the procedure of the court.
+(2) The Family Court or District Court may, if it is satisfied that a person has persistently instituted vexatious proceedings under this Act or any former Act (whether against the same person or against different persons), after giving the first-mentioned person an opportunity of being heard, order that no proceeding under this Act, or no such proceeding of any specified kind or against any specified person, shall be commenced by the first-mentioned person without the leave of the court.
 
 ### 228 Evidence
 [Repealed]
 
 ### 229 Power of Family Court or District Court to call witnesses
-(1) In any proceeding before it under this Act (not being criminal proceedings) a Family Court or District Court may of its own motion call as a witness any person whose evidence may in its opinion be of assistance to the court.
+(1) In any proceeding before it under this Act (not being criminal proceedings) the Family Court or District Court may of its own motion call as a witness any person whose evidence may in its opinion be of assistance to the court.
 (2) The power conferred by subsection (1) shall include power to call as a witness any party to the proceeding or the husband or wife of any party to the proceeding.
 (3) A witness called by the court under this section shall have the same privilege to refuse to answer any question as the witness would have if the witness had been called by a party to the proceeding.
 (4) A witness called by the court under this section may be examined and re-examined by the court, or by any barrister or solicitor assisting the court, and may be cross-examined by or on behalf of any party to the proceeding or by any barrister or solicitor appointed to represent a child who is involved in the proceeding.
@@ -3458,13 +3458,13 @@ Every question of fact arising in any proceeding under this Act (not being crimi
 (2) This section is subject to section 226B(4).
 
 ### 233 Court fees
-(1) Unless otherwise provided by regulations made under section 235, no court fees shall be taken by the Registrar of a Family Court or District Court in respect of any proceeding under this Act.
-(2) Where it appears to the Registrar of a Family Court or District Court that the payment of any fees prescribed as payable in respect of any proceeding under this Act, or of those fees in full, would cause undue hardship to the person liable for their payment, the Registrar may write off the whole or such part of the fees as the Registrar thinks fit, and may, without further appropriation than this section, refund all such fees that have already been paid or any part of such fees.
+(1) Unless otherwise provided by regulations made under section 235, no court fees shall be taken by a Registrar of the Family Court or District Court in respect of any proceeding under this Act.
+(2) Where it appears to a Registrar of the Family Court or District Court that the payment of any fees prescribed as payable in respect of any proceeding under this Act, or of those fees in full, would cause undue hardship to the person liable for their payment, the Registrar may write off the whole or such part of the fees as the Registrar thinks fit, and may, without further appropriation than this section, refund all such fees that have already been paid or any part of such fees.
 
 ### 234 Rules of procedure
-(1) The Governor-General may from time to time, by Order in Council, make rules and regulations regulating the practice and procedure of District Courts in proceedings under this Act.
-(1A) Rules may be made under section 16A of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under this Act.
-(2) Without limiting the generality of the powers conferred by subsection (1) of this section or section 16A of the Family Courts Act 1980, rules made under either of those provisions may—
+(1) The Governor-General may from time to time, by Order in Council, make rules and regulations regulating the practice and procedure of the District Court in proceedings under this Act.
+(1A) Rules may be made under section 16A of the Family Court Act 1980 regulating the practice and procedure of the Family Court in proceedings under this Act.
+(2) Without limiting the generality of the powers conferred by subsection (1) of this section or section 16A of the Family Court Act 1980, rules made under either of those provisions may—
   (a) prescribe such forms as are necessary for the purposes of this Act:
   (b) prescribe the costs and charges to be paid by one party in the proceeding to the other party, in addition to money paid out of pocket:
   (c) prescribe fees payable to persons giving evidence in the proceeding and the persons liable to pay those fees, and authorise the refund or writing-off of those fees:
