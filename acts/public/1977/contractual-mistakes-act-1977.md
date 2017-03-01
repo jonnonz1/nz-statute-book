@@ -1,5 +1,5 @@
 # Contractual Mistakes Act 1977
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to reform the law relating to the effect of mistakes on contracts
 
@@ -10,8 +10,8 @@ This Act may be cited as the Contractual Mistakes Act 1977.
 (1) In this Act, unless the context otherwise requires,—
   - **court** means, in relation to any matter, the court, tribunal, or arbitral tribunal by or before which the matter falls to be determined
   - **mistake** means a mistake, whether of law or of fact.
-(2) For the purposes of this Act, and without limiting the meaning of the term mistake of law, but subject to section 6(2)(a), a mistake in the interpretation of a document is a mistake of law.
-(3) There is a contract for the purposes of this Act where a contract would have come into existence but for circumstances of the kind described in section 6(1)(a).
+(2) For the purposes of this Act, and without limiting the meaning of the term mistake of law, but subject to section 6(2)﻿(a), a mistake in the interpretation of a document is a mistake of law.
+(3) There is a contract for the purposes of this Act where a contract would have come into existence but for circumstances of the kind described in section 6(1)﻿(a).
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -26,7 +26,7 @@ This Act shall bind the Crown.
   (a) the doctrine of non est factum:
   (b) the law relating to the rectification of contracts:
   (c) the law relating to undue influence, fraud, breach of fiduciary duty, or misrepresentation, whether fraudulent or innocent:
-  (d) the provisions of the Illegal Contracts Act 1970 or of sections 94A and 94B of the Judicature Act 1908:
+  (d) the provisions of the Illegal Contracts Act 1970 or of sections 74A and 74B of the Property Law Act 2007:
   (e) the Frustrated Contracts Act 1944.
 (3) Nothing in this Act shall deprive a court of the power to exercise its discretion to withhold a decree of specific performance in any case.
 
@@ -71,7 +71,7 @@ This Act shall bind the Crown.
     (d) the release, discharge, surrender, forfeiture, or abandonment, at law or in equity, of any debt, contract, or thing in action, or of any right, power, estate, or interest in or over any property; and for this purpose a debt, or any other right, estate, or interest, shall be deemed to have been released or surrendered when it has become irrecoverable or unenforceable by action through the lapse of time:
     (e) the exercise of a general power of appointment in favour of any person other than the donee of the power:
     (f) any transaction entered into by any person with intent thereby to diminish, directly or indirectly, the value of that person's own estate and to increase the value of the estate of any other person
-  - **mistaken contract** means a contract entered into in the circumstances described in section 6(1)(a).
+  - **mistaken contract** means a contract entered into in the circumstances described in section 6(1)﻿(a).
 
 ### 9 Jurisdiction of District Courts
 [Repealed]
