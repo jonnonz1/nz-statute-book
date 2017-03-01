@@ -1,5 +1,5 @@
 # Dog Control Act 1996
-_Consolidation as at 2014-07-28_
+_Consolidation as at 2017-03-01_
 
 > An Act—ato make better provision for the control of dogs; andbto make better provision in relation to damage caused by dogs; andcto repeal the Dog Control and Hydatids Act 1982 and its amendments
 
@@ -380,7 +380,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 (4) In determining any objection, the territorial authority may uphold, bring forward the date of termination, or immediately terminate the disqualification of any person and shall give written notice of its decision, the reasons for it, and the right of appeal under section 27 to the objector.
 
 ### 27 Appeal to District Court
-(1) Any person who has lodged an objection under section 26 and is dissatisfied with the decision of the territorial authority may, within 14 days of the date on which notice of that decision is, under section 26(4), given to that person, appeal to a District Court against that decision.
+(1) Any person who has lodged an objection under section 26 and is dissatisfied with the decision of the territorial authority may, within 14 days of the date on which notice of that decision is, under section 26(4), given to that person, appeal to the District Court against that decision.
 (2) The District Court, in hearing the appeal, shall consider the matters specified in section 26(3) and any submission by the territorial authority in support of its decision, and may uphold the determination, bring forward the date of termination, or immediately terminate the disqualification.
 
 ### 28 Effect of disqualification
@@ -393,7 +393,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
   (a) shall be disposed of in a manner that does not constitute an offence against this or any other Act; and
   (b) shall not be disposed of to any person who resides at the same address as the person disqualified.
 (3) Where any person has, within 14 days after the date on which the notice of disqualification under section 25(4) is given to that person, lodged an objection under section 26, subsection (1) of this section shall apply in relation to that person as if the reference in that subsection to section 25(4) were a reference to section 26(4).
-(4) Where any person has, within 14 days after the date on which the notice under section 26(4) is given to that person in respect of an objection to which subsection (3) of this section refers, lodged an appeal under section 27, subsection (1) of this section shall apply in relation to that person as if the reference in that subsection to the date on which the notice under section 25(4) was given to that person were a reference to the date of the decision of a District Court on that appeal.
+(4) Where any person has, within 14 days after the date on which the notice under section 26(4) is given to that person in respect of an objection to which subsection (3) of this section refers, lodged an appeal under section 27, subsection (1) of this section shall apply in relation to that person as if the reference in that subsection to the date on which the notice under section 25(4) was given to that person were a reference to the date of the decision of the District Court on that appeal.
 (5) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who—
   (a) fails to comply with subsection (1); or
   (b) fails, in disposing of a dog under subsection (1), to comply with subsection (2); or
@@ -965,7 +965,7 @@ The owner of any dog that attacks any person or any protected wildlife and cause
 (2) Where, under subsection (1), a dog is seized by any person other than a dog control officer or dog ranger, that person shall ensure that the dog is returned to its owner or delivered into the custody of a dog control officer or dog ranger.
 
 ### 61 Orders relating to dog seen worrying stock
-(1) Where complaint is made to a District Court by the owner of any stock or poultry, or the occupier of any land on which there is stock or poultry, that any dog has been seen at large among that stock or poultry, the court, if it is satisfied as to the grounds of the complaint, may order the owner to keep the dog under proper restraint or make an order for the destruction of the dog.
+(1) Where complaint is made to the District Court by the owner of any stock or poultry, or the occupier of any land on which there is stock or poultry, that any dog has been seen at large among that stock or poultry, the court, if it is satisfied as to the grounds of the complaint, may order the owner to keep the dog under proper restraint or make an order for the destruction of the dog.
 (2) Every person who fails to comply with an order made under subsection (1) requiring that person to keep a dog under proper restraint commits an offence and is liable on conviction to a fine not exceeding $150 for every day during which the default has continued; and, in addition, the court may make an order for the destruction of the dog.
 
 ### 62 Allowing dogs known to be dangerous to be at large unmuzzled
@@ -990,7 +990,7 @@ The owner of any dog that attacks any person or any protected wildlife and cause
   (c) if, had this section not been enacted, there could be no claim for the damage against the agency concerned or any of its officers or employees or the owner of the dog.
 
 ### 64 Procedure where order made for destruction of dog
-(1) If a District Court makes an order for the destruction of any dog, any person having custody or control of the dog must—
+(1) If the District Court makes an order for the destruction of any dog, any person having custody or control of the dog must—
   (a) cause the dog to be destroyed immediately; and
   (b) produce to the territorial authority within 1 month a certificate issued by a veterinarian, or a dog control officer or dog ranger, certifying that the dog has been destroyed.
 (2) Where any such person does not cause the dog to be destroyed forthwith, any constable, dog control officer, or dog ranger may seize and destroy the dog.
@@ -1071,7 +1071,7 @@ Every territorial authority, either singly or jointly with any 1 or more other t
 (1) Every dog removed under section 56 shall be kept in custody and given proper care and exercise, whether in the facilities provided under section 67 or otherwise but, except as provided in subsection (7) of this section, nothing in section 69 shall apply to the dog.
 (2) The owner of any dog which is, for the time being, kept in custody under subsection (1) may apply at any time to the territorial authority for the return of the dog.
 (3) Where application is made under subsection (2) and the territorial authority is satisfied the return of the dog will not result in a resumption of the nuisance, the territorial authority shall, subject to subsection (6), return the dog.
-(4) Any person who has sought the return of a dog under subsection (2) and is dissatisfied with the decision of the territorial authority may appeal to a District Court against that decision, and the District Court, in hearing the appeal, shall consider the matters specified in subsection (3) and any submission by the territorial authority in support of its decision and may uphold that decision or order the return of the dog.
+(4) Any person who has sought the return of a dog under subsection (2) and is dissatisfied with the decision of the territorial authority may appeal to the District Court against that decision, and the District Court, in hearing the appeal, shall consider the matters specified in subsection (3) and any submission by the territorial authority in support of its decision and may uphold that decision or order the return of the dog.
 (5) Subject to subsection (6), unless a dog is earlier returned pursuant to subsection (3) or subsection (4), the territorial authority shall keep the dog in custody until such time as it is satisfied—
   (a) that proper provision in relation to the dog has been made on the property specified in the notice issued under section 55; or
   (b) that the owner has made arrangements for the dog to be kept on a property other than the property from which it was removed.
@@ -1090,7 +1090,7 @@ Every territorial authority, either singly or jointly with any 1 or more other t
 (3) In every case to which subsection (1) applies, the territorial authority shall give written notice in the prescribed form to the person claiming the dog.
 (4) The owner of any dog which is, for the time being, kept in custody under subsection (2) may apply at any time to the territorial authority for the release of the dog.
 (5) Where application is made under subsection (4) and the territorial authority is satisfied that the release of the dog will not threaten the safety of any person, stock, poultry, domestic pet, or protected wildlife, the territorial authority shall, subject to subsection (7), return the dog.
-(6) Any person who has sought the return of a dog under subsection (4) and is dissatisfied with the decision of the territorial authority may appeal to a District Court against that decision, and the District Court, in hearing the appeal, shall consider the matters specified in subsection (5) and any submission by the territorial authority in support of its decision and may uphold that decision or order the return of the dog.
+(6) Any person who has sought the return of a dog under subsection (4) and is dissatisfied with the decision of the territorial authority may appeal to the District Court against that decision, and the District Court, in hearing the appeal, shall consider the matters specified in subsection (5) and any submission by the territorial authority in support of its decision and may uphold that decision or order the return of the dog.
 (7) Where the territorial authority has, under section 68(1)﻿(b), set fees for the sustenance of impounded dogs, the territorial authority may apply those fees to the sustenance of any dog kept in custody under this section and may require the payment of those fees before any dog is returned under subsection (5) or, unless the District Court orders otherwise, subsection (2) or subsection (6).
 (8) In any case where the territorial authority requires fees under subsection (7) of this section to be paid before any dog is returned, and those fees have not been paid within 7 days of the receipt by the owner of written notice that the dog will be returned upon payment of those fees, the territorial authority may dispose of the dog in the manner authorised by section 69(3), and subsections (4) to (6) of that section shall apply as if the dog had been disposed of under that section.
 
