@@ -1,5 +1,5 @@
 # Postal Services Act 1998
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2017-03-01_
 
 > An Act to regulate the provision of postal services
 
@@ -163,8 +163,8 @@ No action lies against any person for any act done in good faith in pursuance or
     (ii) permit that person to examine those records; and
     (iii) permit that person to produce or make a printout or copy of the records or any part of the records:
   (c) if requested in writing by the Secretary, produce to the Secretary all or part of the records kept by the postal operator under this section; and the Secretary may produce or make a printout or copy of the records or any part of the records.
-(5) Where a request is made to a postal operator under subsection (4)(c), the postal operator must comply with that request within 20 working days after receiving the request or within such further period as the Secretary in any particular case allows.
-(6) Every person must, on entering any premises under subsection (4)(a), and when requested at any subsequent time, produce—
+(5) Where a request is made to a postal operator under subsection (4)﻿(c), the postal operator must comply with that request within 20 working days after receiving the request or within such further period as the Secretary in any particular case allows.
+(6) Every person must, on entering any premises under subsection (4)﻿(a), and when requested at any subsequent time, produce—
   (a) evidence of that person's authority to enter the premises; and
   (b) evidence of that person's identity.
 
@@ -193,7 +193,7 @@ The detention, destruction, or disposal under this Act of a postal article does 
 (4) Subject to subsection (5), if a postal article is opened under this section, the postal operator must give notice to that effect, and of the reason for opening the postal article, to the person to whom the postal article is delivered.
 (5) If any postal article, on being opened under this section,—the provisions of this Act apply as if the postal article had been detained under section 5(1).
   (a) is found to have been posted in contravention of section 21 or section 22 or section 24; or
-  (b) is believed, on reasonable grounds, to be in contravention, or to have been posted in contravention, of any enactment referred to in section 5(1)(b), or of any other enactment (other than this Act),—
+  (b) is believed, on reasonable grounds, to be in contravention, or to have been posted in contravention, of any enactment referred to in section 5(1)﻿(b), or of any other enactment (other than this Act),—
 
 **Undeliverable postal articles**
 
@@ -340,13 +340,13 @@ A certificate purporting to be signed by the Secretary—is for all purposes suf
 **Appeals**
 
 ### 37 Right of appeal
-(1) Any person may appeal to a District Court against the following decisions of the Secretary:
+(1) Any person may appeal to the District Court against the following decisions of the Secretary:
   (a) a decision of the Secretary to decline to register that person as a postal operator:
   (b) a decision of the Secretary to cancel that person's registration as a postal operator.
-(2) Every appeal under this section must be made by giving notice of appeal within 20 working days after the date on which notice of the decision was communicated to the appellant, or within such further time as a District Court may allow on application made before or after the expiration of that period.
+(2) Every appeal under this section must be made by giving notice of appeal within 20 working days after the date on which notice of the decision was communicated to the appellant, or within such further time as the District Court may allow on application made before or after the expiration of that period.
 
 ### 38 Determination of appeals
-(1) In determining an appeal under section 37, a District Court may confirm or reverse the decision of the Secretary.
+(1) In determining an appeal under section 37, the District Court may confirm or reverse the decision of the Secretary.
 (2) The District Court's decision in the determination of an appeal under section 37 is final.
 
 ## Part 4 — Postal operators
@@ -376,11 +376,11 @@ A certificate purporting to be signed by the Secretary—is for all purposes suf
 (2) In addition to any fine imposed pursuant to subsection (1), the court may make any order relating to compensation that it thinks fit.
 
 ### 43 Appeals in relation to conditions imposed
-(1) A postal operator may appeal to a District Court against all or any of the conditions imposed pursuant to section 40(2) by the local authority or other body or person having jurisdiction over the road, street, reserve, or public place.
+(1) A postal operator may appeal to the District Court against all or any of the conditions imposed pursuant to section 40(2) by the local authority or other body or person having jurisdiction over the road, street, reserve, or public place.
 (2) Every appeal must be made by giving notice of appeal within 40 working days after the date of notification of the conditions imposed, or within such further period as the court allows on application made to it for that purpose either before or after those 40 working days have expired.
 
 ### 44 Determination of appeals
-(1) In determining any appeal under section 43, a District Court may confirm or modify or cancel any or all of the conditions imposed.
+(1) In determining any appeal under section 43, the District Court may confirm or modify or cancel any or all of the conditions imposed.
 (2) The District Court's decision in the determination of an appeal under section 43 is final.
 
 **Loss or delay of letters**
@@ -411,7 +411,7 @@ No person is entitled to compensation, and no liability is imposed on the Crown 
   (a) may be indefinite or for such period as is specified for that purpose in the notice:
   (b) may be unconditional or subject to such conditions as the Minister thinks fit and specifies in the notice.
 (3) The Minister may designate 1 or more postal operators under subsection (1).
-(4) Nothing in section 60(b) limits the powers of the Minister under subsection (2)(b) of this section or under section 54.
+(4) Nothing in section 60(b) limits the powers of the Minister under subsection (2)﻿(b) of this section or under section 54.
 
 ### 49 Effect of designation
 (1) A designated postal operator must—
@@ -420,7 +420,7 @@ No person is entitled to compensation, and no liability is imposed on the Crown 
   (c) pay to the Universal Postal Union and the Asian Pacific Postal Union any fees, charges, and other payments that New Zealand is required to pay because of New Zealand's membership of the Universal Postal Union or, as the case requires, the Asian Pacific Postal Union, including (without limitation) any mandatory charges prescribed by the Universal Postal Union or, as the case requires, the Asian Pacific Postal Union; and
   (d) comply with the requirements of any regulations made pursuant to section 60(b); and
   (e) comply with any condition imposed by the Minister in respect of the designation of that postal operator.
-(2) Where 2 or more postal operators are designated under section 48, each of those designated postal operators must pay such proportion of the fees, charges, and payments referred to in subsection (1)(c) as the Minister from time to time directs by notice in writing given by the Minister to each of those designated postal operators.
+(2) Where 2 or more postal operators are designated under section 48, each of those designated postal operators must pay such proportion of the fees, charges, and payments referred to in subsection (1)﻿(c) as the Minister from time to time directs by notice in writing given by the Minister to each of those designated postal operators.
 
 ### 50 Designated postal operators to comply with Government policy directions
 (1) The Minister may from time to time,—
@@ -456,7 +456,7 @@ Every designation pursuant to section 48—
 
 ### 54 Revocation, etc, of conditions
 The Minister may at any time—
-  (a) revoke, amend, or add to any condition imposed, pursuant to section 48(2)(b), on the designation of any postal operator:
+  (a) revoke, amend, or add to any condition imposed, pursuant to section 48(2)﻿(b), on the designation of any postal operator:
   (b) impose any condition on any such designation.
 
 **Disclosure of information by the corporation**
@@ -500,7 +500,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (b) requiring each designated postal operator to disclose, in the prescribed manner,—and prescribing the information that the postal operator must disclose:
     (i) information in relation to compliance by that postal operator with the obligations imposed on it by section 49(1) or section 50:
     (ii) information obtained by that postal operator in the course of acting as a representative of New Zealand at the Universal Postal Union and the Asian Pacific Postal Union;—
-  (c) prescribing the form of the financial statements required by any regulations made under paragraph (a)(ii):
+  (c) prescribing the form of the financial statements required by any regulations made under paragraph (a)﻿(ii):
   (d) prescribing rules and procedures to be followed by postal operators for the purposes of ensuring the orderly and efficient operation of the New Zealand postal system, including (without limitation) rules and procedures relating to—
     (i) the exchange of information relating to the addresses of customers of postal operators:
     (ii) dealing with postal articles bearing no address or a wrong or an incomplete or an illegible address, and misdelivered postal articles:
