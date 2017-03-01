@@ -1,5 +1,5 @@
 # Energy (Fuels, Levies, and References) Act 1989
-_Consolidation as at 2016-02-23_
+_Consolidation as at 2017-03-01_
 
 > Title
 
@@ -415,7 +415,7 @@ Every person commits an offence who,—
 **Search warrants**
 
 ### 37A Issue of search warrants
-(1) Any High Court Judge, District Court Judge, Community Magistrate, Justice of the Peace, or Registrar of a District Court may issue a search warrant for any land, building, or place if satisfied, on application in writing made on oath, that there are reasonable grounds for believing that there is at that land, building, or place any thing that is evidence of 1 or more of the following:
+(1) Any High Court Judge, District Court Judge, Community Magistrate, Justice of the Peace, or Registrar of the District Court may issue a search warrant for any land, building, or place if satisfied, on application in writing made on oath, that there are reasonable grounds for believing that there is at that land, building, or place any thing that is evidence of 1 or more of the following:
   (a) the commission of an offence under this Act by any person.
   (b)
 (2) The Judge, Community Magistrate, Justice, or Registrar may impose any reasonable conditions on the exercise of the warrant that he or she thinks fit.
