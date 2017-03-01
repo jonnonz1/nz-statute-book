@@ -1,5 +1,5 @@
 # Racing Act 2003
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Racing Act 2003.
@@ -1104,7 +1104,7 @@ As soon as practicable after 31 July in each year, the Authority must deliver to
 If an appeal is considered by the appeals tribunal to be frivolous or vexatious, the appeals tribunal may dismiss the appeal without a hearing, and make an order for the payment of costs or otherwise that it considers appropriate.
 
 ### 25 Privileges and immunities
-(1) Witnesses and counsel appearing before a judicial committee or an appeals tribunal have the same privileges and immunities that they would have in proceedings in a District Court.
+(1) Witnesses and counsel appearing before a judicial committee or an appeals tribunal have the same privileges and immunities that they would have in proceedings in the District Court.
 (2) No member of the Authority or person who is a member of any judicial committee or appeals tribunal is personally liable—
   (a) for any liability of the Authority, judicial committee, or appeals tribunal; or
   (b) for any act done or omitted to be done by the Authority, judicial committee, or appeals tribunal in good faith in the performance or intended performance of the functions, duties, or powers of the Authority, judicial committee, or appeals tribunal.
