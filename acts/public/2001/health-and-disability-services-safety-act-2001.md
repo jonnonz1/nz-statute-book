@@ -1,5 +1,5 @@
 # Health and Disability Services (Safety) Act 2001
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Health and Disability Services (Safety) Act 2001.
@@ -485,7 +485,7 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
 (2) The order must be signed by the Director-General; and must state—
   (a) why it has been served; and
   (b) the day on which it takes effect; and
-  (c) that the provider may challenge it in a District Court under section 51.
+  (c) that the provider may challenge it in the District Court under section 51.
 (3) Unless the Director-General is satisfied that it is necessary in the public interest for the order to take effect earlier, the day on which it takes effect must be at least 21 days after the day on which it is served.
 (4) The Director-General must take all reasonable steps to ensure that, promptly after the order is served, written notice of the matters stated in subsection (5), and oral notice of those matters in terms appropriate to the abilities and condition of the person given the notice, is given—
   (a) to every person for whom the provider has currently been providing health care services of the kind concerned (the patient); and
@@ -512,7 +512,7 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
   (a) the place to which it relates; and
   (b) why it has been served; and
   (c) the day on which it takes effect; and
-  (d) that the provider may challenge it in a District Court under section 51.
+  (d) that the provider may challenge it in the District Court under section 51.
 (3) Unless the Director-General is satisfied that it is necessary in the public interest for the order to take effect earlier, the day on which it takes effect must be at least 21 days after the day on which it is served.
 (4) The Director-General must take all reasonable steps to ensure that, promptly after the order is served, written notice of the matters stated in subsection (5), and oral notice of those matters in terms appropriate to the abilities and condition of the person given the notice, is given—
   (a) to every resident of the place concerned for whom health care services were being provided in the place; and
@@ -535,9 +535,9 @@ The Director-General may revoke a cessation order or a closing order if satisfie
 **Appeals**
 
 ### 51 Rights of appeal
-(1) A person may appeal to a District Court against the cancellation under section 30 of the person's certification to provide health care services of any kind.
-(2) An auditing agency may appeal to a District Court against the cancellation under section 37(1) of the agency's designation.
-(3) A person in respect of whom a cessation order or a closing order is served may appeal to a District Court against it.
+(1) A person may appeal to the District Court against the cancellation under section 30 of the person's certification to provide health care services of any kind.
+(2) An auditing agency may appeal to the District Court against the cancellation under section 37(1) of the agency's designation.
+(3) A person in respect of whom a cessation order or a closing order is served may appeal to the District Court against it.
 (4) An appeal against a cessation order or a closing order must be brought within 14 days after it is served.
 (5) The court's decision is final.
 
