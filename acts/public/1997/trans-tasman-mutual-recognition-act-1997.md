@@ -1,5 +1,5 @@
 # Trans-Tasman Mutual Recognition Act 1997
-_Consolidation as at 2014-11-12_
+_Consolidation as at 2017-03-01_
 
 > An Act to provide for the recognition in New Zealand of regulatory standards adopted in Australia regarding goods and occupations
 
@@ -28,7 +28,7 @@ _Consolidation as at 2014-11-12_
   - **deemed registration** has the meaning given to that term by section 24(2)
   - **equivalent occupation** has the meaning given to that term by section 14
   - **exemption period** means the period of 12 months from the date on which section 81 comes into force
-  - **extended exemption period** means any period specified in regulations made under section 82(1)(a)
+  - **extended exemption period** means any period specified in regulations made under section 82(1)﻿(a)
   - **goods** —
     (a) means goods of any kind; and
     (b) includes—
@@ -252,7 +252,7 @@ Residence or domicile in any particular participating jurisdiction is not a prer
   (a) annex to it either—
     (i) a document that is either the original or a facsimile copy of the instrument evidencing the applicant's existing registration; or
     (ii) if no such instrument exists, sufficient information to identify the applicant and the applicant's existing registration; and
-  (b) if a document accompanies a notice under paragraph (a)(i), certify in the notice that the document is either the original or a facsimile copy of the instrument evidencing the applicant's existing registration; and
+  (b) if a document accompanies a notice under paragraph (a)﻿(i), certify in the notice that the document is either the original or a facsimile copy of the instrument evidencing the applicant's existing registration; and
   (c) verify the statements and other information in the notice by statutory declaration.
 (4) The local registration authority may, at its discretion, permit a notice referred to in subsection (1) to be amended after it is given.
 
@@ -261,12 +261,12 @@ Residence or domicile in any particular participating jurisdiction is not a prer
   (a) grant registration on the ground referred to in section 17(1); or
   (b) postpone, under section 21, the grant of registration; or
   (c) refuse, under section 22, to grant registration.
-(2) If the local registration authority grants registration under subsection (1)(a), it must decide whether or not to impose conditions on the grant.
+(2) If the local registration authority grants registration under subsection (1)﻿(a), it must decide whether or not to impose conditions on the grant.
 (3) A local registration authority may impose conditions under subsection (2)—
   (a) for the purpose of achieving equivalence of occupations; or
   (b) for the purpose of imposing on the applicant's registration in New Zealand a condition that applies to the applicant's registration in an Australian jurisdiction; or
   (c) for any other purpose relating to the implementation of the Trans-Tasman mutual recognition principle in relation to occupations.
-(4) No condition imposed under subsection (3)(c) may be more onerous than a condition that the local registration authority would impose in similar circumstances, having regard to relevant qualifications, if the registration were effected apart from this Act.
+(4) No condition imposed under subsection (3)﻿(c) may be more onerous than a condition that the local registration authority would impose in similar circumstances, having regard to relevant qualifications, if the registration were effected apart from this Act.
 (5) If the local registration authority does not grant, postpone, or refuse registration within the period of 1 month after a notice is given under section 19, the applicant is entitled, subject to subsection (6), to registration immediately at the end of that period.
 (6) If an applicant who is entitled to registration under subsection (5) seeks a grant of registration from the local registration authority, the local registration authority may refuse to grant registration only if—
   (a) any ground set out in section 22(1) applies; and
@@ -294,8 +294,8 @@ Residence or domicile in any particular participating jurisdiction is not a prer
   (d) the authority determines—
     (i) that the occupation in which registration is sought is not an equivalent occupation; and
     (ii) that equivalence cannot be achieved by the imposition of conditions.
-(2) In making a determination under subsection (1)(d), the local registration authority must disregard the power of the Tribunal to make a declaration on the basis of section 30(1)(b).
-(3) A refusal to grant registration on the ground referred to in subsection (1)(d) takes effect at the end of a period that—
+(2) In making a determination under subsection (1)﻿(d), the local registration authority must disregard the power of the Tribunal to make a declaration on the basis of section 30(1)﻿(b).
+(3) A refusal to grant registration on the ground referred to in subsection (1)﻿(d) takes effect at the end of a period that—
   (a) is specified in the notice given under section 23(1); and
   (b) is no less than 2 weeks; and
   (c) commences on the day on which the notice is deemed to have been given to the applicant.
@@ -326,7 +326,7 @@ Residence or domicile in any particular participating jurisdiction is not a prer
   (a) for the purpose of achieving equivalence of occupations; or
   (b) for the purpose of imposing on the applicant's deemed registration in New Zealand a condition that applies to the applicant's registration in an Australian jurisdiction; or
   (c) for any other purpose relating to the implementation of the Trans-Tasman mutual recognition principle in relation to occupations.
-(3) No condition imposed under subsection (2)(c) may be more onerous than a condition that the local registration authority would impose in similar circumstances, having regard to relevant qualifications, if the registration were effected apart from this Act.
+(3) No condition imposed under subsection (2)﻿(c) may be more onerous than a condition that the local registration authority would impose in similar circumstances, having regard to relevant qualifications, if the registration were effected apart from this Act.
 
 ### 26 Activities under deemed registration
 (1) An applicant who is subject to deemed registration may carry on his or her occupation as if the applicant were subject to registration, but may do so only—
@@ -368,8 +368,8 @@ Residence or domicile in any particular participating jurisdiction is not a prer
     (ii) the activity or class of activity, if carried on by an individual not conforming to the appropriate standards, could reasonably be expected to expose persons in New Zealand to a real threat to their health or safety or could reasonably be expected to cause significant adverse effects on the environment in New Zealand; and
     (iii) it is not practicable to protect the health or safety of such persons from that threat or the environment from such adverse effects by regulating the manner in which services in the occupation are provided.
 (2) The proper officer of the Tribunal must cause a notice setting out the terms of a declaration under this section to be published promptly in the Gazette.
-(3) A declaration made on the basis of subsection (1)(b) has effect for no longer than 12 months.
-(4) The local registration authority must promptly give written notice to equivalent authorities in each other participating jurisdiction of a declaration made on the basis of subsection (1)(b).
+(3) A declaration made on the basis of subsection (1)﻿(b) has effect for no longer than 12 months.
+(4) The local registration authority must promptly give written notice to equivalent authorities in each other participating jurisdiction of a declaration made on the basis of subsection (1)﻿(b).
 (5) The local registration authority must give effect to a declaration made under subsection (1), and must from then on act in conformity with the declaration in relation to other individuals seeking registration.
 
 ### 31 Declarations by Ministers
@@ -421,11 +421,11 @@ If a local registration authority receives information under a provision of a la
 Nothing in this Act prevents an individual from seeking registration or being registered for an occupation under a law other than this Act.
 
 ### 39 Laws prescribing fees and conditions
-(1) In the absence of regulations made under section 40(1)(a),—and, if any law dealing with registration for a particular occupation prescribes more than 1 fee for registration or the renewal of registration, as the case requires, the applicant must pay the lower or the lowest of the fees prescribed.
+(1) In the absence of regulations made under section 40(1)﻿(a),—and, if any law dealing with registration for a particular occupation prescribes more than 1 fee for registration or the renewal of registration, as the case requires, the applicant must pay the lower or the lowest of the fees prescribed.
   (a) the fee prescribed for registration, in any law dealing with registration for a particular occupation, must be read as the fee for deemed registration for that occupation under this Act; and
   (b) the fee prescribed for the renewal of registration, in any law dealing with registration for a particular occupation, must be read as the fee for the renewal of registration for that occupation under this Act;—
-(2) If an applicant has paid a fee for deemed registration under a law referred to in subsection (1)(a), that applicant is not, despite anything in that law, required to pay a fee for registration under this Act.
-(3) In the absence of regulations made under section 40(1)(b), any condition in any law dealing with registration for a particular occupation, to the effect that an individual may not carry on the occupation unless a fee has been paid, must, subject to subsection (2), be read as applying to deemed registration or registration or the renewal of registration under this Act.
+(2) If an applicant has paid a fee for deemed registration under a law referred to in subsection (1)﻿(a), that applicant is not, despite anything in that law, required to pay a fee for registration under this Act.
+(3) In the absence of regulations made under section 40(1)﻿(b), any condition in any law dealing with registration for a particular occupation, to the effect that an individual may not carry on the occupation unless a fee has been paid, must, subject to subsection (2), be read as applying to deemed registration or registration or the renewal of registration under this Act.
 
 ### 40 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -470,8 +470,8 @@ For the purpose of promoting consistency between decisions made by the Tribunal 
 (1) The members of the Tribunal are—
   (a) the Chairperson; and
   (b) subject to subsection (2), 2 other individuals appointed from the panel by the Chairperson for the purposes of each review.
-(2) Instead of making 2 appointments under subsection (1)(b), the Chairperson may, if the Chairperson considers it desirable,—
-  (a) appoint 1 member of the Tribunal under subsection (1)(b); and
+(2) Instead of making 2 appointments under subsection (1)﻿(b), the Chairperson may, if the Chairperson considers it desirable,—
+  (a) appoint 1 member of the Tribunal under subsection (1)﻿(b); and
   (b) appoint, as another member of the Tribunal, a member of the Australian Tribunal, in accordance with arrangements made from time to time between the Chairperson and the President of the Australian Tribunal.
 
 ### 47 Appointment and term of office of Chairperson
@@ -489,7 +489,7 @@ For the purpose of promoting consistency between decisions made by the Tribunal 
 (7) The expiry of the term of office of the Chairperson does not affect any service being performed by the Chairperson on the Australian Tribunal.
 
 ### 48 Panel
-(1) The Minister of Justice must maintain a panel of not more than 15 individuals who may be appointed under section 46(1)(b).
+(1) The Minister of Justice must maintain a panel of not more than 15 individuals who may be appointed under section 46(1)﻿(b).
 (2) The Minister of Justice must consult the Minister before including any individual on the panel.
 (3) In considering the suitability of any individual for inclusion on the panel, the Minister of Justice and the Minister must have regard not only to his or her personal attributes but also to his or her knowledge of and experience in the different aspects of matters likely to come before the Tribunal.
 (4) The name of an individual must be removed from the panel if—
@@ -514,7 +514,7 @@ For the purpose of promoting consistency between decisions made by the Tribunal 
 ### 51 Remuneration and travelling allowances
 (1) The Tribunal is declared to be a statutory board within the meaning of the Fees and Travelling Allowances Act 1951.
 (2) Subject to subsection (3), there must be paid to members of the Tribunal remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act apply accordingly.
-(3) Subsection (2) does not apply to a District Court Judge who is a member of the Tribunal or to any member appointed under section 46(2)(b).
+(3) Subsection (2) does not apply to a District Court Judge who is a member of the Tribunal or to any member appointed under section 46(2)﻿(b).
 
 ### 52 Members of Tribunal not personally liable
 No member of the Tribunal is personally liable for any act done or omitted to be done by the Tribunal or any member of it in good faith in pursuance or intended pursuance of the functions, duties, powers, or authorities of the Tribunal.
@@ -531,7 +531,7 @@ No member of the Tribunal is personally liable for any act done or omitted to be
 **Conferences**
 
 ### 54 Conferences
-(1) If the Tribunal is of the opinion that it would be appropriate for the parties to a review to attend a conference—the Chairperson may nominate a member of the Tribunal appointed under section 46(1)(b) or section 46(2)(b) to chair the conference.
+(1) If the Tribunal is of the opinion that it would be appropriate for the parties to a review to attend a conference—the Chairperson may nominate a member of the Tribunal appointed under section 46(1)﻿(b) or section 46(2)﻿(b) to chair the conference.
   (a) for any purpose relating to the conduct of the review; or
   (b) for the purpose of—
     (i) identifying the matters in issue between the parties; and
@@ -554,7 +554,7 @@ No member of the Tribunal is personally liable for any act done or omitted to be
 (6) If the parties reach agreement on the matters in issue, and the Tribunal is satisfied that an order recording the terms of the agreement is within its powers under section 44(2), the Tribunal may, if it thinks fit, make such an order.
 
 ### 56 Conference chairperson's participation in hearing
-If—the Chairperson must appoint another individual under section 46(1)(b) or section 46(2)(b) to replace the conference chairperson on the Tribunal for the purposes of the hearing of the review.
+If—the Chairperson must appoint another individual under section 46(1)﻿(b) or section 46(2)﻿(b) to replace the conference chairperson on the Tribunal for the purposes of the hearing of the review.
   (a) a conference is held; and
   (b) either—
     (i) the Tribunal makes an order under section 44(1); or
@@ -619,9 +619,9 @@ The Tribunal must conduct any review with as little formality and technicality, 
   (a) by delivering it personally to the person summoned; or
   (b) by posting it by registered letter addressed to the person summoned at that person's usual place of residence.
 (2) The summons must,—
-  (a) if it is served under subsection (1)(a), be served at least 24 hours before the attendance of the witness is required; or
-  (b) if it is served under subsection (1)(b), be served at least 10 working days before the date on which the attendance of the witness is required.
-(3) If the summons is posted by registered letter, it is deemed for the purposes of subsection (2)(b) to have been served at the time when the letter would have been delivered in the ordinary course of post.
+  (a) if it is served under subsection (1)﻿(a), be served at least 24 hours before the attendance of the witness is required; or
+  (b) if it is served under subsection (1)﻿(b), be served at least 10 working days before the date on which the attendance of the witness is required.
+(3) If the summons is posted by registered letter, it is deemed for the purposes of subsection (2)﻿(b) to have been served at the time when the letter would have been delivered in the ordinary course of post.
 
 ### 66 Witnesses' allowances
 (1) Every witness attending before the Tribunal to give evidence under a summons is entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
@@ -631,8 +631,8 @@ The Tribunal must conduct any review with as little formality and technicality, 
 (5) If the Tribunal has of its own motion issued the witness summons, the fees, allowances, and travelling expenses payable to the witness must be paid by the Crown.
 
 ### 67 Privileges and immunities
-(1) Witnesses appearing before the Tribunal have the same privileges and immunities as witnesses have in proceedings in a District Court.
-(2) Counsel and agents appearing before the Tribunal have the same privileges and immunities as counsel have in proceedings in a District Court.
+(1) Witnesses appearing before the Tribunal have the same privileges and immunities as witnesses have in proceedings in the District Court.
+(2) Counsel and agents appearing before the Tribunal have the same privileges and immunities as counsel have in proceedings in the District Court.
 
 ### 68 Non-attendance or refusal to co-operate
 (1) Every person commits an offence who, after being summoned to attend to give evidence before the Tribunal or to produce to the Tribunal any papers, documents, records, or things, without reasonable excuse,—
@@ -651,7 +651,7 @@ The Tribunal must conduct any review with as little formality and technicality, 
 
 ### 70 Costs
 (1) The Tribunal may order any party to pay to any other party such costs and expenses (including witness expenses) incurred by that other party as the Tribunal considers reasonable.
-(2) Any such order as to costs may be filed in a District Court and may be enforced as a judgment of that court.
+(2) Any such order as to costs may be filed in the District Court and may be enforced as a judgment of that court.
 
 ### 71 Stating case for High Court
 (1) The Tribunal may, at any time, before or during the hearing or before delivering its decision, on the application of any party to the review or of its own motion, state a case for the opinion of the High Court on any question of law arising in the review.
@@ -770,10 +770,10 @@ This Act does not apply to any law, or any provision of any law, that relates to
 (1) The Governor-General may, from time to time, on the recommendation of the Minister, by Order in Council, make regulations—
   (a) continuing or reviving the effect of an exemption under section 86:
   (b) discontinuing an exemption continued or revived under this section.
-(2) The Minister must not recommend the making of regulations under subsection (1)(a) unless the Minister is satisfied that—
+(2) The Minister must not recommend the making of regulations under subsection (1)﻿(a) unless the Minister is satisfied that—
   (a) an additional period is necessary to enable legislative or other action to be taken to implement a recommendation of a ministerial council made in relation to goods or laws that are the subject of an exemption under section 86; and
   (b) no fewer than two-thirds of the then participating jurisdictions have endorsed the terms of the proposed regulations.
-(3) Regulations made under subsection (1)(a) may continue or revive an exemption—
+(3) Regulations made under subsection (1)﻿(a) may continue or revive an exemption—
   (a) wholly or partly; and
   (b) with or without modification.
 (4) A modification may only,—
@@ -783,7 +783,7 @@ This Act does not apply to any law, or any provision of any law, that relates to
   (b) in the case of an exemption relating to a law,—
     (i) modify the operation of the law while the exemption operates; or
     (ii) provide that the exemption does not apply in relation to particular goods if certain standards or conditions are complied with in relation to the goods.
-(5) No exemption may be continued or revived under regulations made under subsection (1)(a) for a period exceeding 12 months in total, whether the exemption is continued or revived in 1 set of regulations or in more than 1 set of regulations.
+(5) No exemption may be continued or revived under regulations made under subsection (1)﻿(a) for a period exceeding 12 months in total, whether the exemption is continued or revived in 1 set of regulations or in more than 1 set of regulations.
 
 ## Part 6 — Amendments to Law Practitioners Act 1982
 
