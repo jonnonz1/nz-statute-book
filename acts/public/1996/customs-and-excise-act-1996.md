@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2016-07-29_
+_Consolidation as at 2017-03-01_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -1814,9 +1814,9 @@ Section 101 applies to the recovery of unpaid duty—
 ### 101 Ranking of duty
 (1) Unpaid duty to which this section applies shall be paid in accordance with the following provisions of this section.
 (2) In the case of an individual who is declared bankrupt, the amount of any duty to which this section applies shall be paid in accordance with the requirements of section 274(5) of the Insolvency Act 2006.
-(3) In the case of a company that is in liquidation, the amount of any duty to which this section applies shall be paid in accordance with the requirements of section 312 of, and Schedule 7 of, the Companies Act 1993.
+(3) In the case of a company that is in liquidation, the amount of any duty to which this section applies shall be paid in accordance with the requirements of section 312 of the Companies Act 1993.
 (4) In the case of a company in respect of the property of which a receiver is appointed in circumstances to which section 30 of the Receiverships Act 1993 applies, the amount of duty to which this section applies shall be paid in accordance with the requirements of section 30(2) of the Receiverships Act 1993.
-(5) In the case of an unincorporated body of persons (including a partnership or a joint venture or the trustees of a trust) that is put into liquidation, the amount of any duty to which this section applies shall be paid in accordance with section 17B of the Judicature Act 1908.
+(5) In the case of an unincorporated body of persons (including a partnership or a joint venture or the trustees of a trust) that is put into liquidation, the amount of any duty to which this section applies shall be paid in accordance with the requirements of section 312 of the Companies Act 1993 (as applied by section 240B of that Act).
 (6) In the case of an unincorporated body of persons (including a partnership or a joint venture or the trustees of a trust) in respect of the property of which a receiver is appointed by the High Court, the amount of duty to which this section applies shall be paid in accordance with the directions of the court.
 (7) This section applies notwithstanding anything in any other Act.
 (8) Nothing in this section or in section 97 or section 99 derogates from section 102.
@@ -1881,7 +1881,7 @@ The liability of a person under a provision of this Act for the payment of duty 
 (1) If the chief executive has reasonable cause to believe that an importer, exporter, or licensee is about to leave New Zealand before duty owing by the importer, exporter, or licensee, as the case may be, becomes payable under this Act, the chief executive may, by notice in writing, require the importer, exporter, or licensee to pay the duty on such date that is earlier than the date on which the duty becomes payable as the chief executive fixes and notifies to the importer, exporter, or licensee.
 (2) A notice issued under subsection (1) constitutes a demand for payment and the duty becomes due and payable on the date fixed by the chief executive.
 (3) A person liable for the payment of the duty who is dissatisfied with a decision of the chief executive under this section may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
-(4) Section 109 of the District Courts Act 1947 or section 55 of the Judicature Act 1908, as the case may be, extends and applies in relation to a notice under this section as if it were a proceeding for the recovery of duty made in the ordinary course.
+(4) Section 210 of the District Court Act 2016 or section 40 of the Senior Courts Act 2016, as the case may be, extends and applies in relation to a notice under this section as if it were a proceeding for the recovery of duty made in the ordinary course.
 
 **Refunds, remissions, and drawbacks of duty**
 
@@ -3764,7 +3764,7 @@ Where under this Act a person is entitled to appeal to a Customs Appeal Authorit
 (2) If an Authority at any time during its consideration of an appeal in accordance with subsection (1) considers that an oral hearing should be held, the Authority shall fix a date, time, and place for the hearing of the appeal in accordance with section 257.
 
 ### 259 Authority's powers
-For the purposes of dealing with the matters before it, an Authority shall have the powers of a District Court, in the exercise of its civil jurisdiction, in respect of citing parties and conducting and maintaining order at the hearings of the Authority.
+For the purposes of dealing with the matters before it, an Authority shall have the powers of the District Court, in the exercise of its civil jurisdiction, in respect of citing parties and conducting and maintaining order at the hearings of the Authority.
 
 ### 260 Evidence
 (1) An Authority may receive as evidence any statement, document, information, or matter that, in the opinion of the Authority, may assist the Authority to deal effectually with the proceedings, whether or not it would be admissible in a court of law.
