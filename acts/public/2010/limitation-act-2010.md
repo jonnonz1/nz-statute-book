@@ -1,5 +1,5 @@
 # Limitation Act 2010
-_Consolidation as at 2014-09-13_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Limitation Act 2010.
@@ -36,8 +36,8 @@ In this Act, unless the context otherwise requires,—
   - **date on which the claim is filed** has the meaning given to it by section 6
   - **defendant** means a person against whom a claim is made
   - **Disputes Tribunal** means—
-    (a) a Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988; or
-    (b) a Motor Vehicle Disputes Tribunal exercising under section 89(1)(b)(iii) or (iv) of the Motor Vehicle Sales Act 2003 a Disputes Tribunal's jurisdiction under—
+    (a) the Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988; or
+    (b) a Motor Vehicle Disputes Tribunal exercising under section 89(1)﻿(b)﻿(iii) or (iv) of the Motor Vehicle Sales Act 2003 the Disputes Tribunal’s jurisdiction under—
       (i) section 39 or 47 of the Consumer Guarantees Act 1993; or
       (ii) section 9 of the Contractual Remedies Act 1979
   - **foreign country** means a country other than New Zealand
@@ -48,12 +48,12 @@ In this Act, unless the context otherwise requires,—
   - **land** —
     (a) includes an interest under a lease of real property; but
     (b) does not include an easement or a profit à prendre
-  - **late knowledge period** has the meaning given to it by section 11(3)(a)
+  - **late knowledge period** has the meaning given to it by section 11(3)﻿(a)
   - **limitation enactments** has the meaning given to it by section 39(1)
   - **limitation law** means—
     (a) a law that limits or excludes liability or bars a right to bring civil proceedings or to have a matter determined by arbitration by reference to the time when civil proceedings or an arbitration in respect of the matter are commenced; or
     (b) a law that provides that civil proceedings in respect of a matter may be commenced within an indefinite period
-  - **longstop period** has the meaning given to it by section 11(3)(b)
+  - **longstop period** has the meaning given to it by section 11(3)﻿(b)
   - **make** means to bring a claim by—
     (a) making it in a civil proceeding commenced in a court or tribunal in accordance with rules of court or other laws relating to the claim; or
     (b) referring the dispute relating to the claim to arbitration
@@ -67,7 +67,7 @@ In this Act, unless the context otherwise requires,—
     (b) does not include money or an interest under a lease of real property
   - **primary period** has the meaning given to it by section 11(1)
   - **specified court or tribunal** means—
-    (a) the High Court, a District Court, a Family Court, or a Disputes Tribunal; or
+    (a) the High Court, the District Court, the Family Court, or a Disputes Tribunal; or
     (b) the Employment Court, the Environment Court, or the Maori Land Court
   - **start date** , in relation to a period prescribed by this Act for a claim, means the date—adjusted in accordance with all relevant exceptions and modifications (if any) set out in this Act—on or after which the period starts
   - **trust** and have the same meanings respectively as in the Trustee Act 1956 as for the time being extended by any other enactment.
@@ -78,7 +78,7 @@ In this Act, unless the context otherwise requires,—
   (b) a claim in respect of an infringement after publication of the complete specification and before sealing of a patent sealed under the Patents Act 1953—the date on which the patent was sealed; and
   (ba) a claim in respect of an infringement after the complete specification becomes open to public inspection and before the patent is granted under the Patents Act 2013—the date on which the patent was granted; and
   (c) a claim in respect of an infringement (of a registered design or trade mark) in subsection (2)—the date on which the infringement was committed or occurred.
-(2) Subsection (1)(c) applies to—
+(2) Subsection (1)﻿(c) applies to—
   (a) an infringement of a design registered under the Designs Act 1953 and in respect of which proceedings may be taken in accordance with the proviso to section 7(5) or the proviso to section 21(2) of that Act because the infringement was committed on or after the date on which the certificate of registration is issued; and
   (b) an infringement of a registered trade mark (as defined in section 5(1) of the Trade Marks Act 2002) and in respect of which proceedings may be brought in accordance with section 100(a) or (b) of that Act because the infringement occurred on or after the date specified in whichever of those paragraphs applies.
 
@@ -138,7 +138,7 @@ Every defence prescribed by this Act—
   (f) under the Terrorism Suppression Act 2002.
 
 ### 13 Damages as well as, or in substitution for, injunction or specific performance
-Nothing in section 11 applies to damages under section 16A of the Judicature Act 1908.
+Nothing in section 11 applies to damages under section 13 of the Senior Courts Act 2016.
 
 ### 14 Late knowledge date (when claimant has late knowledge) defined
 (1) A claim's late knowledge date is the date (after the close of the start date of the claim's primary period) on which the claimant gained knowledge (or, if earlier, the date on which the claimant ought reasonably to have gained knowledge) of all of the following facts:
@@ -147,14 +147,14 @@ Nothing in section 11 applies to damages under section 16A of the Judicature Act
   (c) if the defendant’s liability or alleged liability is dependent on the claimant suffering damage or loss, the fact that the claimant had suffered damage or loss:
   (d) if the defendant’s liability or alleged liability is dependent on the claimant not having consented to the act or omission on which the claim is based, the fact that the claimant did not consent to that act or omission:
   (e) if the defendant's liability or alleged liability is dependent on the act or omission on which the claim is based having been induced by fraud or, as the case may be, by a mistaken belief, the fact that the act or omission on which the claim is based is one that was induced by fraud or, as the case may be, by a mistaken belief.
-(2) A claimant does not have late knowledge of a claim unless the claimant proves that, at the close of the start date of the claim's primary period, the claimant neither knew, nor ought reasonably to have known, all of the facts specified in subsection (1)(a) to (e).
+(2) A claimant does not have late knowledge of a claim unless the claimant proves that, at the close of the start date of the claim's primary period, the claimant neither knew, nor ought reasonably to have known, all of the facts specified in subsection (1)﻿(a) to (e).
 (3) The fact that a claimant did not know (or had not gained knowledge), nor ought reasonably to have known (or to have gained knowledge), of a particular fact may be attributable to causes that are or include fraud or a mistake of fact or law (other than a mistake of law as to the effect of this Act).
 
 ### 15 Defamation claims: primary period and late knowledge period each 2 years
-For a claim for defamation, 6 years in section 11(1) and 3 years in section 11(3)(a) must each be read as 2 years.
+For a claim for defamation, 6 years in section 11(1) and 3 years in section 11(3)﻿(a) must each be read as 2 years.
 
 ### 16 Special start dates for various money claims
-(1) For the purposes of section 11(1) and (3)(b), the primary and longstop periods of a claim specified in one of the following paragraphs have the start date specified in that paragraph:
+(1) For the purposes of section 11(1) and (3)﻿(b), the primary and longstop periods of a claim specified in one of the following paragraphs have the start date specified in that paragraph:
   (a) a claim for, or for arrears of, or for damages in respect of arrears of, interest or rent—the date on which the interest, rent, or arrears became payable:
   (b) a claim for conversion or wrongful detention made in respect of goods that have been the subject of 1 or more earlier instances of conversion or wrongful detention, and made by a person referred to in section 30 as the original claimant—the date of the original or first conversion or (as the case requires) wrongful detention:
   (c) a claim to recover a principal sum of money secured by a mortgage over property that is or includes a future interest, or a life insurance policy, that has not matured or been determined—the date on which the interest or policy matures or is determined:
@@ -165,18 +165,18 @@ For a claim for defamation, 6 years in section 11(1) and 3 years in section 11(3
   (h) a claim under section 213 of the Insolvency Act 2006—the date on which the assignee of the bankrupt was appointed:
   (i) a claim under section 301 of the Companies Act 1993—the date on which the liquidator of the company or overseas company was appointed:
   (j) a claim under section 54 of the Corporations (Investigation and Management) Act 1989 or section 138 of the Reserve Bank of New Zealand Act 1989—the date on which the corporation or bank was declared to be subject to statutory management.
-(2) When section 301 of the Companies Act 1993 applies, in accordance with section 55 of the Corporations (Investigation and Management) Act 1989 or section 139 of the Reserve Bank of New Zealand Act 1989, to a corporation or a registered bank subject to statutory management, the date in subsection (1)(i) must be read as the date on which the corporation or bank was declared to be subject to statutory management.
+(2) When section 301 of the Companies Act 1993 applies, in accordance with section 55 of the Corporations (Investigation and Management) Act 1989 or section 139 of the Reserve Bank of New Zealand Act 1989, to a corporation or a registered bank subject to statutory management, the date in subsection (1)﻿(i) must be read as the date on which the corporation or bank was declared to be subject to statutory management.
 
 ### 17 Discretion to allow relief for claim of abuse of minor or of gradual process, disease, or infection injury
 (1) This section applies to a claim—
   (a) of a kind specified in subsection (2) or (4); and
   (b) made in a civil proceeding commenced in a specified court or tribunal; and
   (c) against which the defendant could establish, or has established, a defence under this Part.
-(2) Subsection (1)(a) applies to a claim in respect of abuse of the claimant (A) when he or she was aged under 18 years, and that is wholly or partly sexual abuse of A by any 1 or more persons, or is wholly non-sexual abuse of A by 1 or more persons who are or include—
+(2) Subsection (1)﻿(a) applies to a claim in respect of abuse of the claimant (A) when he or she was aged under 18 years, and that is wholly or partly sexual abuse of A by any 1 or more persons, or is wholly non-sexual abuse of A by 1 or more persons who are or include—
   (a) a person who is, or has at any time been, a parent, step-parent, or legal guardian of A (B); or
   (b) a person who is, or has at any time been, a close relative or close associate of B (C).
 (3) Abuse, in the expressions sexual abuse and non-sexual abuse in subsection (2), means physical abuse, psychological abuse, or a combination of both.
-(4) Subsection (1)(a) also applies to a claim in respect of a personal injury—
+(4) Subsection (1)﻿(a) also applies to a claim in respect of a personal injury—
   (a) of the claimant (A) when he or she was of any age; and
   (b) caused by a gradual process, disease, or infection.
 (5) Personal injury, in subsection (4), means any physical, mental, or physical and mental injury (even if it causes the death), of the claimant.
@@ -213,7 +213,7 @@ Nothing in this Act affects any property or title in, right to, or ownership of,
 (1) It is a defence to a claim to recover land if the defendant proves that the date on which the claim is filed is at least—
   (a) 60 years after the date on which the claim accrued to the claimant or to some other person through whom the claimant claims, if the claimant is, or is a person claiming through, the Crown; and
   (b) 12 years after the date on which the claim accrued to the claimant or to some other person through whom the claimant claims, if the claimant is not, and is not a person claiming through, the Crown.
-(2) No claim to recover land accrues under this Act unless and until the land is in the possession (in this section called adverse possession) of a person in whose favour the period in subsection (1)(a) or (b) can run.
+(2) No claim to recover land accrues under this Act unless and until the land is in the possession (in this section called adverse possession) of a person in whose favour the period in subsection (1)﻿(a) or (b) can run.
 (3) For the purposes of this section, 1 or more joint tenants or tenants in common of any land can take adverse possession of the land as against the other tenant or tenants.
 
 ### 22 When claims accrue: current interests in land
@@ -239,7 +239,7 @@ Nothing in this Act affects any property or title in, right to, or ownership of,
 ### 24 When claims accrue: land held on trust
 (1) This Act applies to equitable interests in land, including interests in the proceeds of the sale of land held on trust for sale, in the same way as it applies to legal estates.
 (2) Accordingly a claim to recover the land is, for the purposes only of this Act, deemed to accrue to a person entitled in possession to an equitable interest of that kind in the same way and circumstances and on the same date as it would accrue if the person's interest were a legal estate in the land.
-(3) If land is held by a trustee (including one who is also tenant for life) on trust, including a trust for sale, and the period in section 21(1)(a) or (b) for the trustee to make a claim to recover the land has expired, the estate of the trustee is extinguished only if, and when, the claim to recover the land of every person entitled to a beneficial interest in the land or in the proceeds of sale has accrued and may be the subject of a defence under section 21.
+(3) If land is held by a trustee (including one who is also tenant for life) on trust, including a trust for sale, and the period in section 21(1)﻿(a) or (b) for the trustee to make a claim to recover the land has expired, the estate of the trustee is extinguished only if, and when, the claim to recover the land of every person entitled to a beneficial interest in the land or in the proceeds of sale has accrued and may be the subject of a defence under section 21.
 (4) If land held on trust for sale is in the possession of a person entitled to a beneficial interest in the land or in the proceeds of sale, not being a person solely and absolutely entitled to the land or the proceeds, no claim to recover the land is for the purposes of this Act deemed to accrue during that possession to a person in whom the land is vested as tenant for life, person having the powers of a tenant for life, or trustee, or to any person entitled to a beneficial interest in the land or the proceeds.
 
 ### 25 Restriction on redemption of mortgaged land
@@ -255,7 +255,7 @@ Nothing in this Act affects any property or title in, right to, or ownership of,
 For the purposes of this Act, no person is deemed to have been in possession of land by reason only of having made a formal entry on that land, and no continual or other claim upon or near land preserves a claim to recover that land.
 
 ### 27 Extinguishment of owner's title after specified period
-(1) A person's title to land is extinguished if the period in section 21(1)(a) or (b) ends before the person makes a claim to recover the land.
+(1) A person's title to land is extinguished if the period in section 21(1)﻿(a) or (b) ends before the person makes a claim to recover the land.
 (2) This section overrides section 43.
 
 ### 28 Claims relating to Maori customary land
@@ -294,13 +294,13 @@ For the purposes of this Act, no person is deemed to have been in possession of 
 (1) It is a defence to a claim made by or on behalf of a beneficiary to recover personal property held on trust if the defendant proves that the date on which the claim is filed is at least 6 years after,—
   (a) if the claim is to recover personal property in the estate of an individual who has died, or an interest or share in property of that kind, the date on which the claimant's right to receive the interest or share in the property accrued; and
   (b) if the claim is to recover personal property otherwise held on trust, the date on which the cause of action accrued.
-(2) A claim to which subsection (1) applies has both a late knowledge period and a longstop period, and sections 11(3)(a) and (b) and 14 apply to it,—
+(2) A claim to which subsection (1) applies has both a late knowledge period and a longstop period, and sections 11(3)﻿(a) and (b) and 14 apply to it,—
   (a) as if it were a money claim; and
   (b) as if the period in subsection (1) were its primary period.
 
 ### 32 Claim for account
 (1) It is a defence to a claim for an account (whether at common law, in equity, or under an enactment) if the defendant proves that the date on which the claim is filed is at least 6 years after the date the matter arose in respect of which the account is sought.
-(2) A claim to which subsection (1) applies has both a late knowledge period and a longstop period, and sections 11(3)(a) and (b) and 14 apply to it,—
+(2) A claim to which subsection (1) applies has both a late knowledge period and a longstop period, and sections 11(3)﻿(a) and (b) and 14 apply to it,—
   (a) as if it were a money claim; and
   (b) as if the period in subsection (1) were its primary period.
 
@@ -315,7 +315,7 @@ For the purposes of this Act, no person is deemed to have been in possession of 
 (2) This section also applies to a claim—
   (a) made by a person (A) who is liable (otherwise than in tort) to another person (B) in respect of a matter; and
   (b) for contribution from a third person (C) who is, or would if sued in time by B have been, liable (otherwise than in tort) to B (whether jointly with A or otherwise) in a coordinate way in respect of that matter.
-(3) C is liable to B in a coordinate way for the purposes of subsection (2)(b) if, and only if,—
+(3) C is liable to B in a coordinate way for the purposes of subsection (2)﻿(b) if, and only if,—
   (a) a common obligation underlies C's liability to B and A's liability to B; and
   (b) payment or other discharge of C's liability to B would have the effect of relieving A, in whole or in part, from A's liability to B.
 (4) It is a defence to A's claim for contribution from C if C proves that the date on which the claim is filed is at least 2 years after the date on which A's liability to B is quantified by an agreement, award, or judgment.
@@ -354,7 +354,7 @@ For the purposes of this Act, no person is deemed to have been in possession of 
   (e) Illegal Contracts Act 1970:
   (f) Minors' Contracts Act 1969.
 (2) It is a defence to the claim if the defendant proves that the date on which the claim is filed is at least 6 years after the date of the act or omission on which the claim is based.
-(3) The claim has both a late knowledge period and a longstop period, and sections 11(3)(a) and (b), and 14 apply to it,—
+(3) The claim has both a late knowledge period and a longstop period, and sections 11(3)﻿(a) and (b), and 14 apply to it,—
   (a) as if it were a money claim; and
   (b) as if the period in subsection (2) were its primary period.
 
@@ -367,7 +367,7 @@ For the purposes of this Act, no person is deemed to have been in possession of 
   (c) a claim for cancellation of an irregular transaction and for an order under section 207 of the Insolvency Act 2006—the date on which the assignee of the bankrupt, or appointee of the estate of the deceased debtor, was appointed:
   (d) a claim under section 301 of the Companies Act 1993—the date on which the liquidator of the company or overseas company was appointed:
   (e) a claim under section 54 of the Corporations (Investigation and Management) Act 1989 or section 138 of the Reserve Bank of New Zealand Act 1989—the date on which the corporation or bank was declared to be subject to statutory management.
-(2) When section 301 of the Companies Act 1993 applies, in accordance with section 55 of the Corporations (Investigation and Management) Act 1989 or section 139 of the Reserve Bank of New Zealand Act 1989, to a corporation or a registered bank subject to statutory management, the date in subsection (1)(d) must be read as the date on which the corporation or bank was declared to be subject to statutory management.
+(2) When section 301 of the Companies Act 1993 applies, in accordance with section 55 of the Corporations (Investigation and Management) Act 1989 or section 139 of the Reserve Bank of New Zealand Act 1989, to a corporation or a registered bank subject to statutory management, the date in subsection (1)﻿(d) must be read as the date on which the corporation or bank was declared to be subject to statutory management.
 
 ## Part 4 — General provisions
 
@@ -449,7 +449,7 @@ In section 45 and this section,—
   (c) if the defendant’s liability or alleged liability is dependent on the claimant suffering damage or loss, the fact that the claimant had suffered damage or loss:
   (d) if the defendant’s liability or alleged liability is dependent on the claimant not having consented to the act or omission on which the claim is based, the fact that the claimant did not consent to that act or omission:
   (e) if the defendant's liability or alleged liability is dependent on the act or omission on which the claim is based having been induced by fraud or, as the case may be, by a mistaken belief, the fact that the act or omission on which the claim is based is one that was induced by fraud or, as the case may be, by a mistaken belief.
-(2) It is a defence to a claim whose Part 3 period is disapplied by subsection (1), and that does not have a late knowledge period, if the defendant proves that the date on which the claim is filed is at least 3 years after the date on which the claimant gained knowledge (or, if earlier, the date on which the claimant ought reasonably to have gained knowledge) of all of the facts specified in subsection (1)(a) to (e).
+(2) It is a defence to a claim whose Part 3 period is disapplied by subsection (1), and that does not have a late knowledge period, if the defendant proves that the date on which the claim is filed is at least 3 years after the date on which the claimant gained knowledge (or, if earlier, the date on which the claimant ought reasonably to have gained knowledge) of all of the facts specified in subsection (1)﻿(a) to (e).
 (3) The fact that a claimant did not know (or had not gained knowledge), nor ought reasonably to have known (or to have gained knowledge), of a particular fact may be attributable to causes that are or include fraud or a mistake of fact or law (other than a mistake of law as to the effect of this Act).
 (4) Sections 44 to 47 apply to the 3-year period prescribed for a claim by subsection (2) of this section as if that period were a Part 3 period.
 
@@ -543,7 +543,7 @@ The following section is inserted after section 2:Act continues to apply despite
 ### 62 New heading and sections 23A to 23D
 The following heading and sections are inserted above the heading to Part 2:Longstop period of limitationActions to which longstop period of limitation appliesLongstop period of limitation1986 No 5 ss 80(5), 82(2); 1991 No 150 s 91; 2004 No 72 s 393Discretion to allow relief for action of abuse of infant or of gradual process, disease, or infection injuryLimitation Act 1969 s 50E(2) (NSW); Limitation of Actions Act 1958 s 27I(2) (Vic); Limitation Act 1980 s 33 (UK)Matters to be taken into account under section 23C
   (1) Section 23B applies to an action based on an act or omission before 1 January 2011 and to which this Act applied immediately before its repeal by section 57 of the Limitation Act 2010 so long as that action is neither—
-    (a) an action to which section 7(1) or 21(1)(a) or (b) applies; nor
+    (a) an action to which section 7(1) or 21(1)﻿(a) or (b) applies; nor
     (b) an action commenced before 1 January 2011.
   (2) Sections 23B to 23D also apply, in accordance with section 29, to arbitrations.
   (1) No action to which this section applies may be brought after the last to end of the following periods:
@@ -557,11 +557,11 @@ The following heading and sections are inserted above the heading to Part 2:Long
     (c) that is not an action that, at the close of 31 December 2010,—
       (i) was otherwise barred because of an applicable period of limitation; and
       (ii) had not been revived by an acknowledgment or part payment.
-  (2) Subsection (1)(a) applies to an action in respect of abuse of the plaintiff (A) when he or she was under a disability because he or she was an infant, and that is wholly or partly sexual abuse of A by any 1 or more persons, or is wholly non-sexual abuse of A by 1 or more persons who are or include—
+  (2) Subsection (1)﻿(a) applies to an action in respect of abuse of the plaintiff (A) when he or she was under a disability because he or she was an infant, and that is wholly or partly sexual abuse of A by any 1 or more persons, or is wholly non-sexual abuse of A by 1 or more persons who are or include—
     (a) a person who is, or has at any time been, a parent, step-parent, or legal guardian of A (B); or
     (b) a person who is, or has at any time been, a close relative or close associate of B (C).
   (3) Abuse, in the expressions sexual abuse and non-sexual abuse in subsection (2), means physical abuse, psychological abuse, or a combination of both.
-  (4) Subsection (1)(a) also applies to an action in respect of a personal injury—
+  (4) Subsection (1)﻿(a) also applies to an action in respect of a personal injury—
     (a) of the plaintiff (A) when he or she was of any age; and
     (b) caused by a gradual process, disease, or infection.
   (5) Personal injury, in subsection (4), means any physical, mental, or physical and mental injury (even if it causes the death), of the plaintiff.
