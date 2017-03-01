@@ -1,5 +1,5 @@
 # Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004
-_Consolidation as at 2016-07-21_
+_Consolidation as at 2017-03-01_
 
 ### 1 Title
 This Act is the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004.
@@ -29,7 +29,7 @@ In this Act, unless the context otherwise requires,—
   - **coroner** means a person who is not a District Court Judge, but holds office as the chief coroner, deputy chief coroner, or acting chief coroner, or as a coroner or relief coroner, under the Coroners Act 2006
   - **Deputy Commissioner** means a Deputy Judicial Conduct Commissioner appointed under section 8A
   - **District Court Judge** includes a District Court Judge who—
-    (a) holds office as the chief coroner or acting chief coroner, or as a relief coroner, under the Coroners Act 2006, or is (under section 8(d) of the District Courts Act 1947) a coroner by virtue of holding office as a District Court Judge; and
+    (a) holds office as the chief coroner or acting chief coroner, or as a relief coroner, under the Coroners Act 2006, or is (under section 22(a) of the District Court Act 2016) a coroner by virtue of holding office as a District Court Judge; and
     (b) is exercising the judicial authority conferred on a coroner by the Coroners Act 2006
   - **Head of Bench** means,—
     (a) in relation to the Supreme Court, the Chief Justice:
@@ -39,7 +39,7 @@ In this Act, unless the context otherwise requires,—
     (eaa) in relation to the Court Martial, the Judge Advocate General:
     (e) in relation to the Court Martial Appeal Court, the Chief High Court Judge:
     (ea) in relation to the Summary Appeal Court of New Zealand, the Judge Advocate General:
-    (f) in relation to a District Court, the Chief District Court Judge:
+    (f) in relation to the District Court, the Chief District Court Judge:
     (g) in relation to the Environment Court, the Principal Environment Judge:
     (h) in relation to the Maori Land Court, the Chief Judge of the Maori Land Court:
     (i) in relation to a coroner, the chief coroner
@@ -55,7 +55,7 @@ In this Act, unless the context otherwise requires,—
       (vii) a Judge of the Environment Court; or
       (viii) a Judge of the Maori Land Court; or
       (ix) a coroner; and
-    (b) includes a person who holds office as a temporary Judge, temporary Associate Judge, or acting Judge of any of those courts; but
+    (b) includes a person who holds office as an acting Judge, or an acting Associate Judge; but
     (c) does not include a retired Judge or a former Judge
   - **Judicial Conduct Commissioner** or —
     (a) means a Judicial Conduct Commissioner appointed under section 7; and
@@ -319,7 +319,7 @@ Part 2 of Schedule 2 applies in relation to Judicial Conduct Panels.
   (b) treated as an appeal under subsection (1).
 (3) The appeal must be—
   (a) by way of rehearing; and
-  (b) made within the time, in the form, and in the manner prescribed by rules of court made under section 51C of the Judicature Act 1908.
+  (b) made within the time, in the form, and in the manner prescribed by rules of court made under section 148 of the Senior Courts Act 2016.
 (4) For the purposes of the appeal, the Court of Appeal has all the powers of a Panel and may make any orders it thinks fit.
 (5) However, the court must not make an order revoking, in whole or in part, an order made under section 30(1) if the Panel was functioning at the time the appeal was lodged and the appellant could have applied to the Panel for an order to the same effect under section 30(3).
 
