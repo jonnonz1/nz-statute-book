@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-03-07_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -156,7 +156,7 @@ _Consolidation as at 2017-03-01_
   (c) does not include—
     (i) a medical device; or
     (ii) any food within the meaning of section 2 of the Food Act 1981; or
-    (iii) any radioactive material within the meaning of section 2(1) of the Radiation Protection Act 1965; or
+    (iii) any radioactive material within the meaning of section 5(1) of the Radiation Safety Act 2016; or
     (iv) any animal food in which a medicine (within the meaning of paragraph (a) or (b)) is incorporated; or
     (v) any animal remedy; or
     (vi) any substance or article of a kind or belonging to a class that is declared by regulations not to be a medicine for the purposes of this Act.
@@ -723,7 +723,7 @@ Section 17 does not apply in respect of the sale by wholesale of a medicine that
 
 ### 38 Restrictions on sale of medical devices
 (1) For the purposes of this section,—
-  (a) the term medical device includes an irradiating apparatus within the meaning of section 2(1) of the Radiation Protection Act 1965:
+  (a) the term medical device includes an irradiating apparatus within the meaning of section 5(1) of the Radiation Safety Act 2016:
   (b) a medical device is unsafe if the use of that device may be injurious to the health of the person using it or the person in respect of whom it is used:
   (c) 2 or more medical devices shall be deemed to be of the same kind, notwithstanding any minor differences or any difference in any name, if they are—
     (i) substantially similar to one another; and
