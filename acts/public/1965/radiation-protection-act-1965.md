@@ -1,5 +1,5 @@
 # Radiation Protection Act 1965
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-03-07_
 
 > An Act to consolidate and amend the Radioactive Substances Act 1949
 
