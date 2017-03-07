@@ -1,5 +1,5 @@
 # Carriage of Goods Act 1979
-_Consolidation as at 2014-06-17_
+_Consolidation as at 2017-03-07_
 
 > An Act to restate and reform the law relating to the carriage of goods within New Zealand
 
@@ -283,7 +283,7 @@ Subject, in the case of a contract for carriage by sea, to section 11 of the Sea
   (b) the agent plays some part in relation to the contract.
 
 ### 30 Certain other Acts not affected
-Nothing in this Act shall limit or affect any of the provisions of the Explosives Act 1957, the Restricted Drugs Act 1960, the Radiation Protection Act 1965, the Dangerous Goods Act 1974, or any other enactment relating to goods of a particular nature or class; and in any case where any of the provisions of this Act are inconsistent with any of the provisions of any such other enactment, the provisions of that other enactment shall prevail.
+Nothing in this Act shall limit or affect any of the provisions of the Explosives Act 1957, the Restricted Drugs Act 1960, the Radiation Safety Act 2016, the Dangerous Goods Act 1974, or any other enactment relating to goods of a particular nature or class; and in any case where any of the provisions of this Act are inconsistent with any of the provisions of any such other enactment, the provisions of that other enactment shall prevail.
 
 ### 31 Amendments and repeals
 (1) The enactments specified in Schedule 1 are hereby amended in the manner indicated in that schedule.
