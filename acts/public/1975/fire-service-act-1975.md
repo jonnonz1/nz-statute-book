@@ -1,5 +1,5 @@
 # Fire Service Act 1975
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2017-03-07_
 
 > An Act to establish the New Zealand Fire Service and to consolidate and amend the law relating to the protection of life and property from fire and to certain other emergency services
 
@@ -46,7 +46,7 @@ _Consolidation as at 2013-08-05_
   - **Gratuities Fund** means the Gratuities Fund established under section 57
   - **hazardous substance** means—
     (a) any hazardous substance as defined in section 2 of the Hazardous Substances and New Organisms Act 1996; and
-    (b) any infectious or radioactive substance that may impair human, animal, or plant health
+    (b) any radioactive material as defined in section 5(1) of the Radiation Safety Act 2016 or infectious substance that may impair human, animal, or plant health
   - **hazardous substance emergency** means the release or potential accidental release of any hazardous substance from any building or other premises, or from any receptacle, container, vessel, or pipe, or from any conveyance (whether motorised or not), where the release of that hazardous substance constitutes a contaminant
   - **household unit** has the meaning given by section 7 of the Building Act 2004
   - **industrial fire brigade** means an industrial fire brigade established under section 36
@@ -72,7 +72,7 @@ _Consolidation as at 2013-08-05_
         (iii) on the expiry of 60 days after completion of discharge overside of the goods insured from the overseas vessel at the final port of discharge,—
       (b) a contract of insurance in respect of any ship or vessel normally or customarily removed from the water and transported or stored upon land when not in use shall be deemed not to be marine insurance
   - **means of escape from fire** has the meaning given by section 7 of the Building Act 2004
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **member of the Fire Service** means every employee of the Commission; and includes any person who holds office by virtue of an appointment under any of the provisions of sections 17A, 17I(3), 17M, and 17W
   - **Minister** means the Minister of Internal Affairs
   - **National Commander** means the National Commander appointed under section 17M
@@ -193,7 +193,7 @@ The Commission has the following functions under this Act:
   (m) to monitor and evaluate the performance of Fire Authorities under the Forest and Rural Fires Act 1977.
 
 ### 14AB Duty to consult Fire Authority before finalising performance evaluation
-In performing its function under section 14A(2)(m), the National Rural Fire Authority must, before finalising an evaluation of a Fire Authority's performance, consult with the Fire Authority by giving it—
+In performing its function under section 14A(2)﻿(m), the National Rural Fire Authority must, before finalising an evaluation of a Fire Authority's performance, consult with the Fire Authority by giving it—
   (a) a copy of the draft evaluation; and
   (b) a reasonable opportunity to make—
     (i) written submissions on the draft evaluation; and
@@ -504,12 +504,12 @@ Every person who makes a delegation under section 73 of the Crown Entities Act 2
   (a) if the building has an automatic sprinkler system, to a place of safety inside or outside the building; and
   (b) in every other case, to a place of safety outside the building.
 (2) However, the owner of a relevant building is not required to provide and maintain an evacuation scheme for the building if—
-  (a) the building is used for a purpose specified in section 21A(1)(b) or (c); and
+  (a) the building is used for a purpose specified in section 21A(1)﻿(b) or (c); and
   (b) the building has an automatic sprinkler system.
 (3) Subsection (2) is subject to section 21E.
 (4) In this section,—
-  - **automatic sprinkler system** means an automatic sprinkler system that satisfies the minimum standard required by regulations made under section 92(2)(ne)
-  - **evacuation scheme** means an evacuation scheme that complies with regulations made under section 92(2)(nd)
+  - **automatic sprinkler system** means an automatic sprinkler system that satisfies the minimum standard required by regulations made under section 92(2)﻿(ne)
+  - **evacuation scheme** means an evacuation scheme that complies with regulations made under section 92(2)﻿(nd)
   - **owner** , in relation to a building for which a unit plan within the meaning of section 5(1) of the Unit Titles Act 2010 has been deposited, means the body corporate.
 
 ### 21C Owner must apply to National Commander for approval of evacuation scheme
@@ -582,7 +582,7 @@ An evacuation scheme is to be treated as having been approved under section 21C 
   (b) shall perform such functions and duties as the chief executive directs; and
   (c) shall have, in relation to that Fire Region, all the powers of the National Commander as are necessary for the purpose of performing that member's functions and duties; and
   (d) for the purposes of any of the matters set out in section 29 or any fire or other emergency, shall have all the powers of a Chief Fire Officer in respect of any Fire District within that Fire Region, whether or not that Fire District has a Chief Fire Officer, and the member so exercising the powers of Chief Fire Officer shall be deemed to be the Chief Fire Officer of that Fire District for the duration of time that those powers are exercised, and may delegate such powers to whomsoever that member in charge of the Fire Region considers appropriate.
-(3) The member of the Fire Service in charge of a Fire Region may, with the prior approval of the National Commander, delegate to any member of the Fire Service in charge of any Fire Area in that Fire Region such of the powers conferred by subsection (2)(c) on the member of the Fire Service in charge of that Fire Region as the National Commander approves.
+(3) The member of the Fire Service in charge of a Fire Region may, with the prior approval of the National Commander, delegate to any member of the Fire Service in charge of any Fire Area in that Fire Region such of the powers conferred by subsection (2)﻿(c) on the member of the Fire Service in charge of that Fire Region as the National Commander approves.
 (4) The fact that any member of the Fire Service in charge of a Fire Region performs any function or duty or exercises any power of the National Commander shall be sufficient evidence of that member's authority to do so.
 (5) The appointment as the member of the Fire Service in charge of a Fire Region may be held in conjunction with any other appointment in the Fire Service.
 
@@ -597,7 +597,7 @@ An evacuation scheme is to be treated as having been approved under section 21C 
   (b) shall perform such functions and duties as may be delegated to that member by the member of the Fire Service in charge of the Fire Region of which the Fire Area forms part; and
   (c) shall have, in relation to that Fire Area, all the powers of the member of the Fire Service in charge of the Fire Region of which the Fire Area forms part as are necessary for the purpose of performing that member's functions and duties; and
   (d) for the purposes of any of the matters set out in section 29 or any fire or other emergency, shall have all the powers of a Chief Fire Officer in any Fire District within that Fire Area, whether or not that Fire District has a Chief Fire Officer, and the member so exercising the powers of Chief Fire Officer shall be deemed to be the Chief Fire Officer of that district for the duration of time that those powers are exercised, and may delegate such powers to whomsoever that member in charge of the Fire Area may deem appropriate.
-(3) The member of the Fire Service in charge of a Fire Area may, with the prior approval of the member of the Fire Service in charge of the Fire Region in which that Fire Area is located, delegate to any other member of the Fire Service with Fire Service rank such of the powers conferred by subsection (2)(c) on the member of the Fire Service in charge of that Fire Area as the member of the Fire Service in charge of that Fire Region approves.
+(3) The member of the Fire Service in charge of a Fire Area may, with the prior approval of the member of the Fire Service in charge of the Fire Region in which that Fire Area is located, delegate to any other member of the Fire Service with Fire Service rank such of the powers conferred by subsection (2)﻿(c) on the member of the Fire Service in charge of that Fire Area as the member of the Fire Service in charge of that Fire Region approves.
 (4) The fact that any member of the Fire Service in charge of a Fire Area performs any function or duty or exercises any power of a member of the Fire Service in charge of a Fire Region shall be sufficient evidence of that member's authority to do so.
 (5) The appointment as the member of the Fire Service in charge of a Fire Area may be held in conjunction with any other appointment in the Fire Service.
 
@@ -809,11 +809,11 @@ The Commission shall continue to operate a fund to be known as the Rural Fire Fi
 (1) Subject to this section and to sections 46C and 46D and to any regulations made under this Act, the Commission—
   (a) shall, in accordance with sections 46C to 46G, make grants from the Rural Fire Fighting Fund to Fire Authorities for the purpose of assisting Fire Authorities to meet the costs incurred by Fire Authorities in respect of the control, restriction, suppression, or extinction of fires:
   (b) shall expend money from the Rural Fire Fighting Fund to meet the cost of legal proceedings taken by the Commission or any Fire Authority against any person whom the Commission believes was responsible, by reason of arson or negligence or failure to observe permit conditions, for causing the lighting of any fire (being a fire in respect of which a grant has been paid under paragraph (a)) or for permitting or causing any such fire to become out of control.
-(2) Where the whole or part of the costs of any legal proceedings are met by money expended from the Rural Fire Fighting Fund pursuant to subsection (1)(b), the Commission shall pay any money recovered by it in those proceedings either into the Rural Fire Fighting Fund or to a Fire Authority.
+(2) Where the whole or part of the costs of any legal proceedings are met by money expended from the Rural Fire Fighting Fund pursuant to subsection (1)﻿(b), the Commission shall pay any money recovered by it in those proceedings either into the Rural Fire Fighting Fund or to a Fire Authority.
 (3) In this section and in sections 46C, 46F, and 46G, Fire Authority means any fire authority within the meaning of the Forest and Rural Fires Act 1977.
 
 ### 46C Eligibility for grant assistance
-(1) Subject to sections 46D and 46E, the Commission may, under section 46B(1)(a), make a grant to a Fire Authority in respect of a fire if—
+(1) Subject to sections 46D and 46E, the Commission may, under section 46B(1)﻿(a), make a grant to a Fire Authority in respect of a fire if—
   (a) irrespective of cause, the fire originated in the district of the Fire Authority in an area other than—
     (i) a defence area; or
     (ii) a commercial or semi-commercial forest area; and
@@ -822,7 +822,7 @@ The Commission shall continue to operate a fund to be known as the Rural Fire Fi
     (i) the date of the fire; and
     (ii) the point of origin or probable point of origin of the fire; and
     (iii) the cause or likely cause of the fire; and
-  (ca) at the time the fire occurred, the most recent evaluation of the Fire Authority's performance under section 14A(2)(m) was considered satisfactory by the National Rural Fire Authority; and
+  (ca) at the time the fire occurred, the most recent evaluation of the Fire Authority's performance under section 14A(2)﻿(m) was considered satisfactory by the National Rural Fire Authority; and
   (d) the Fire Authority has submitted to the National Rural Fire Officer, within 3 months after the date of the fire, a claim on the Rural Fire Fighting Fund in relation to the costs of the fire; and
   (e) the Fire Authority has given to the National Rural Fire Officer such evidence and other particulars as, in the opinion of the National Rural Fire Officer, are necessary to determine—
     (i) the point of origin or the probable point of origin of the fire; and
@@ -846,11 +846,11 @@ The Commission shall continue to operate a fund to be known as the Rural Fire Fi
     (ii) any area of land on which trees, shrubs, plants, or grasses are maintained under section 134 of the Soil Conservation and Rivers Control Act 1941.
 
 ### 46D Proportionate share of claim
-(1) Any grant payable under section 46B(1)(a) shall, subject to sections 46E and 46F, be for the purpose of meeting such percentage or proportionate share of each assessed claim as may from time to time be determined by regulations made under this Act.
-(2) Notwithstanding subsection (1), any grant payable under section 46B(1)(a) before 31 March 1991, shall, subject to sections 46E and 46F, be for the purpose of meeting 95% of each assessed claim.
+(1) Any grant payable under section 46B(1)﻿(a) shall, subject to sections 46E and 46F, be for the purpose of meeting such percentage or proportionate share of each assessed claim as may from time to time be determined by regulations made under this Act.
+(2) Notwithstanding subsection (1), any grant payable under section 46B(1)﻿(a) before 31 March 1991, shall, subject to sections 46E and 46F, be for the purpose of meeting 95% of each assessed claim.
 
 ### 46E Deduction from claim
-(1) The Commission shall, subject to section 46F, deduct from the amount of each grant payable under section 46B(1)(a), being a grant determined after applying the provisions of section 46D, such amount as may from time to time be prescribed by regulations made under this Act in respect of each assessed claim.
+(1) The Commission shall, subject to section 46F, deduct from the amount of each grant payable under section 46B(1)﻿(a), being a grant determined after applying the provisions of section 46D, such amount as may from time to time be prescribed by regulations made under this Act in respect of each assessed claim.
 (2) Notwithstanding subsection (1), the amount deducted under that subsection in respect of each assessed claim made before 31 March 1991 shall be $5,000.
 
 ### 46F Claims in respect of minor fires
@@ -859,13 +859,13 @@ The Commission shall continue to operate a fund to be known as the Rural Fire Fi
   (b) a Fire Authority may, on or before 31 March in any subsequent year or as soon as practicable after that 31 March, submit on the Rural Fire Fighting Fund, a minor fires claim in respect of all fires within the Fire Authority's district at any time in the period of 12 months ending with that 31 March.
 (2) Each fire to which a claim under subsection (1) relates shall be—
   (a) a fire that was controlled, restricted, suppressed, or extinguished at a cost of less than the amount of the deduction, prescribed or specified for the purposes of section 46E; and
-  (b) a fire that has been notified to the National Rural Fire Officer under section 46C(1)(c) as if it were a fire to which that section applied; and
-  (c) a fire in respect of which the Fire Authority has reimbursed costs within 3 months after the date of the fire as if it were a fire to which section 46C(1)(h) applied; and
+  (b) a fire that has been notified to the National Rural Fire Officer under section 46C(1)﻿(c) as if it were a fire to which that section applied; and
+  (c) a fire in respect of which the Fire Authority has reimbursed costs within 3 months after the date of the fire as if it were a fire to which section 46C(1)﻿(h) applied; and
   (d) a fire that is not a petty fire (as defined in subsection (3)).
-(3) A fire is a petty fire for the purposes of subsection (2)(c) if the total cost of controlling, restricting, suppressing, or extinguishing that fire was less than the greater of $1,000 or the sum prescribed, for the purposes of this subsection, by regulations made under this Act.
+(3) A fire is a petty fire for the purposes of subsection (2)﻿(c) if the total cost of controlling, restricting, suppressing, or extinguishing that fire was less than the greater of $1,000 or the sum prescribed, for the purposes of this subsection, by regulations made under this Act.
 
 ### 46G Condition of payment of grant
-Where a grant is payable under section 46B(1)(a) to a Fire Authority, it shall be a condition of the payment of that grant, that the Fire Authority agrees to be joined with and represented by the Commission in any proceedings taken (whether by court action or otherwise) by the Commission against any person or persons whom the Commission believes was responsible, by reason of arson or negligence or failure to observe permit conditions, for causing the lighting of the fire (being a fire in respect of which the grant is being paid) or for permitting or causing that fire to become out of control.
+Where a grant is payable under section 46B(1)﻿(a) to a Fire Authority, it shall be a condition of the payment of that grant, that the Fire Authority agrees to be joined with and represented by the Commission in any proceedings taken (whether by court action or otherwise) by the Commission against any person or persons whom the Commission believes was responsible, by reason of arson or negligence or failure to observe permit conditions, for causing the lighting of the fire (being a fire in respect of which the grant is being paid) or for permitting or causing that fire to become out of control.
 
 ### 46H Funding of Rural Fire Fighting Fund
 There shall be paid into the Rural Fire Fighting Fund, in any financial year,—
@@ -933,8 +933,8 @@ The Rural Fire Fighting Fund shall be funded at such a level as will enable an e
     (i) the requirements of the Rural Fire Fighting Fund; and
     (ii) the actual net expenditure that, in the case of the Commission, is required to be met by way of the proceeds of levy in terms of section 47:
   (c) the desirability of ensuring, as far as is reasonably practicable, that any increases or decreases in the rate of the levy are designed to maintain the overall level of stability of the levy in the long term.
-(5) For the purposes of subsection (4)(b)(ii) the Minister shall take into consideration any shortfall in the levy as determined in accordance with section 47(3).
-(6) For the purposes of subsection (2)(b), the amount for which the property is insured for the contract of fire insurance shall be—
+(5) For the purposes of subsection (4)﻿(b)﻿(ii) the Minister shall take into consideration any shortfall in the levy as determined in accordance with section 47(3).
+(6) For the purposes of subsection (2)﻿(b), the amount for which the property is insured for the contract of fire insurance shall be—
   (a) in the case of residential building as defined in section 2(1) of the Earthquake Commission Act 1993, the amount for which that building is insured pursuant to section 18 of that Act:
   (b) in the case of personal property as defined in section 2(1) of the Earthquake Commission Act 1993, the amount for which that property is insured pursuant to section 20 of that Act:
   (c) in the case of other property, where the contract of fire insurance provides for the settlement of any claim for damage to or destruction of the property upon any basis more favourable to the insured person than its indemnity value or where there is no sum insured in the contract, be computed on the basis of the indemnity value of the property as stated by either of the following:
@@ -951,7 +951,7 @@ The Rural Fire Fighting Fund shall be funded at such a level as will enable an e
   (b) the Commission shall notify the owner in writing of—
     (i) its determination; and
     (ii) the owner's right of objection under paragraph (c):
-  (c) within 28 days after receiving the notice under paragraph (b), the owner may object in writing to the Commission's determination; and every such objection shall be supported by a valuation certificate that complies with subsection (6)(c)(ii):
+  (c) within 28 days after receiving the notice under paragraph (b), the owner may object in writing to the Commission's determination; and every such objection shall be supported by a valuation certificate that complies with subsection (6)﻿(c)﻿(ii):
   (d) if the owner furnishes a valuation certificate under paragraph (c), the Commission shall be liable to pay 50% of the costs incurred in obtaining the valuation, and the levy shall be computed on the basis of that valuation.
 (7) This section shall not apply to any contract of fire insurance that is limited to an excess over the indemnity value of the property or to any portion thereof which is in excess of the indemnity value.
 (8) Upon the making of any contract of fire insurance to which this section applies, the levy at the rate then declared, computed in respect of the period of the contract of fire insurance, shall thereupon become a debt due by the insurance company to the Commission.
@@ -1028,7 +1028,7 @@ The Commission may, at its discretion, from time to time enter into agreements w
 
 ### 54 Provision of superannuation for members of Fire Service
 (1)
-(2) Notwithstanding anything in this Act any person, being a person to whom section 18(2)(b) applies, who was a contributor to the Government Superannuation Fund under Part 2 of the Government Superannuation Fund Act 1956, shall be deemed to be, for the purposes of that Act, employed in the Government service so long as he continues in the service of the Commission; and the provisions of that Act shall apply to him in all respects as if his service with the Commission were Government service.
+(2) Notwithstanding anything in this Act any person, being a person to whom section 18(2)﻿(b) applies, who was a contributor to the Government Superannuation Fund under Part 2 of the Government Superannuation Fund Act 1956, shall be deemed to be, for the purposes of that Act, employed in the Government service so long as he continues in the service of the Commission; and the provisions of that Act shall apply to him in all respects as if his service with the Commission were Government service.
 (3) Subject to the Government Superannuation Fund Act 1956, nothing in subsection (2) shall entitle any such person to become a contributor to the Government Superannuation Fund after he has ceased to be a contributor.
 (4) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subsection (2), to a person to whom that subsection applies, the term controlling authority, in relation to that person, means the Commission.
 
@@ -1277,7 +1277,7 @@ Section 72C shall apply in respect of every person who is a member of the New Ze
   (c) by sending it by prepaid post addressed to the person at the usual or last known place of residence or business of the person.
 (2) If a notice or other document is to be served on a body (whether incorporated or not), service on an officer of the body in accordance with subsection (1) is service on the body.
 (3) If a notice or other document is to be served on a partnership, service on any 1 of the partners in accordance with subsection (1) or subsection (2) is service on the partnership.
-(4) If a notice or other document is sent by post to a person in accordance with subsection (1)(c), it must be treated as having been received by the person at the time at which the letter would have been delivered in the ordinary course of post.
+(4) If a notice or other document is sent by post to a person in accordance with subsection (1)﻿(c), it must be treated as having been received by the person at the time at which the letter would have been delivered in the ordinary course of post.
 
 ### 88 Offences
 (1) Every person commits an offence who—
