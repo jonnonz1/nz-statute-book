@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-03-07_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -158,7 +158,7 @@ Part 5
       (ii) the region adjacent to the area that is the subject of an application for a marine consent; and
     (b) which must also be published on the EPA's Internet site
   - **publicly notifiable activity** means a discretionary activity other than emergency dumping or a non-notified activity
-  - **radioactive waste or other radioactive matter** means any waste or other matter that contains any radioactive material within the meaning of the Radiation Protection Act 1965
+  - **radioactive waste or other radioactive matter** means any waste or other matter that contains any radioactive material within the meaning of the Radiation Safety Act 2016
   - **regional council** —
     (a) has the same meaning as in section 5 of the Local Government Act 2002; and
     (b) includes a unitary authority within the meaning of that Act
