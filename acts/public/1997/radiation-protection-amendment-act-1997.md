@@ -1,5 +1,5 @@
 # Radiation Protection Amendment Act 1997
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-03-07_
 
 > An Act to amend the Radiation Protection Act 1965
 
