@@ -1,5 +1,5 @@
 # Environment Act 1986
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2017-03-07_
 
 > An Act to—aprovide for the establishment of the office of Parliamentary Commissioner for the Environment:bprovide for the establishment of the Ministry for the Environment:censure that, in the management of natural and physical resources, full and balanced account is taken of—ithe intrinsic values of ecosystems; andiiall values which are placed by individuals and groups on the quality of the environment; andiiithe principles of the Treaty of Waitangi; andivthe sustainability of natural and physical resources; andvthe needs of future generations
 
@@ -118,7 +118,7 @@ For the purposes of the Government Superannuation Fund Act 1956, service as the 
   (e) on the direction of the House of Representatives, to inquire into any matter that has had or may have a substantial and damaging effect on the environment, and to report the results of the inquiry to the House:
   (f) to undertake and encourage the collection and dissemination of information relating to the environment:
   (g) to encourage preventive measures and remedial actions for the protection of the environment.
-(2) For the purposes of any inquiry held under subsection (1)(e), the Commissioner shall have the same powers as are conferred on commissions of inquiry by section 4 and sections 4B to 9 of the Commissions of Inquiry Act 1908; and those sections shall apply to all persons involved in any capacity in any such inquiry as if it were an inquiry conducted by a Commission under that Act.
+(2) For the purposes of any inquiry held under subsection (1)﻿(e), the Commissioner shall have the same powers as are conferred on commissions of inquiry by section 4 and sections 4B to 9 of the Commissions of Inquiry Act 1908; and those sections shall apply to all persons involved in any capacity in any such inquiry as if it were an inquiry conducted by a Commission under that Act.
 (3) The Commissioner shall have, in relation to any such inquiry, and any report on the results of the inquiry, the same immunities and privileges as are possessed by a District Court Judge in the exercise of the Judge's civil jurisdiction.
 
 ### 17 Matters to which regard to be given
