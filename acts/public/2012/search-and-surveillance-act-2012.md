@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-03-07_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3740,7 +3740,6 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 | Prostitution Reform Act 2003 | 30(1) | Constable may obtain warrant to enter and search place if issuing officer is satisfied that there is good cause to suspect offence against section 23 or 34 of Prostitution Reform Act 2003 has been or is likely to be committed at that place, or that it is necessary for constable to enter place to prevent or investigate such offence | All |
 | Psychoactive Substances Act 2013 | 77 | Constable may enter and search a place (except private premises), vehicle, or other thing without a warrant to search for evidence of offences against Psychoactive Substances Act 2013 | All (except subpart 3) |
 |  | 79 | Enforcement officer or constable may obtain and execute search warrant to search for evidence of offences against Psychoactive Substances Act 2013 | All (except sections 118 and 119 apply to constables only) |
-| Radiation Protection Act 1965 | 24(2) | Authorised officer of Ministry of Health who is refused entry to building believed to have radioactive material or irradiating apparatus or who believes that offence has been committed against Radiation Protection Act 1965 may obtain and execute search warrant | All (except that sections 118 and 119 apply to constables only) |
 | Radiocommunications Act 1989 | 120 | Authorised Ministry of Economic Development employee or constable may obtain warrant to enter and inspect and remove certain documents if issuing officer is satisfied that a person has committed or is committing offence against Radiocommunications Act 1989 or any regulations made under section 134(1)﻿(g) of that Act | All (except sections 118 and 119) |
 | Reserve Bank of New Zealand Act 1989 | 66I | Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that certain information supplied to Reserve Bank is false or misleading, or that a person has failed to comply with certain statutory requirements under Reserve Bank of New Zealand Act 1989 | All (except sections 118 and 119) |
 |  | 106(1) | Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that there has been non-compliance with any of certain provisions in Part 5 of Reserve Bank of New Zealand Act 1989 | All (except sections 118 and 119) |
