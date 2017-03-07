@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-03-07_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -752,7 +752,7 @@ A registrar of a court in New Zealand who knows that a person convicted in the c
     (ix) the Medicines Act 1981; or
     (x) the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
     (xi) the Misuse of Drugs Act 1975; or
-    (xii) the Radiation Protection Act 1965.
+    (xii) the Radiation Safety Act 2016.
 
 ### 68 Referral of complaints and notices of conviction to professional conduct committee
 (1) If the responsible authority decides, under section 65(2), to refer a complaint to a professional conduct committee, it must do so as soon as practicable after it makes that decision.
@@ -1100,7 +1100,7 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
     (ix) the Medicines Act 1981; or
     (x) the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
     (xi) the Misuse of Drugs Act 1975; or
-    (xii) the Radiation Protection Act 1965; or
+    (xii) the Radiation Safety Act 2016; or
     (xiii) this Act; or
   (b) has been entered by any court in New Zealand or elsewhere for an offence punishable by imprisonment for a term of 3 months or longer.
 (3) The Tribunal may not make an order under section 101 on the basis of a finding under subsection (1)﻿(c) if the responsible authority was aware of the conviction concerned at the date of the practitioner's registration.
