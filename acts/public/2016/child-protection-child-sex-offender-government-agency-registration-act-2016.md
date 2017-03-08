@@ -1,5 +1,5 @@
 # Child Protection (Child Sex Offender Government Agency Registration) Act 2016
-_Consolidation as at 2016-09-14_
+_Consolidation as at 2017-03-08_
 
 ### 1 Title
 This Act is the Child Protection (Child Sex Offender Government Agency Registration) Act 2016.
@@ -41,9 +41,11 @@ In this Act, unless the context otherwise requires,—
   - **registered residential address** , in relation to a registrable offender, means an address of premises at which the offender generally resides and that the offender has reported under a provision of subpart 2 of Part 2
   - **registrable offender** has the meaning given in section 7
   - **registration order** means an order imposed by a court under section 9
+  - **release conditions** has the meaning given in section 4 of the Parole Act 2002
   - **relevant personal information** means the information specified in section 16(1)
   - **reporting obligations** , in relation to a registrable offender, means the obligations imposed on the person by subpart 2 of Part 2
   - **reporting period** means the period, as determined under sections 34 to 38, during which a registrable offender must comply with the offender’s reporting obligations
+  - **sentence expiry date** has the meaning given in section 4 of the Parole Act 2002
   - **specified agency** has the meaning given in section 43(2)
   - **telecommunications service** has the meaning given in section 5 of the Telecommunications Act 2001.
 
@@ -68,14 +70,15 @@ This Act binds the Crown.
 (5) For the purposes of this section, it is irrelevant whether a person may lodge, or has lodged, an appeal in respect of a conviction or in respect of a sentence or order.
 
 ### 8 Who is a corresponding registrable offender?
-A corresponding registrable offender is a person who has been convicted of a corresponding offence in a foreign jurisdiction and,—
-  (a) in respect of that offence, has been sentenced to imprisonment; or
-  (b) as a consequence, has been required to report in that jurisdiction information about himself or herself to a person or body exercising functions substantially similar to those of the Commissioner under this Act, and to keep that information current for a particular period (and would, if the person were currently in that jurisdiction, still be required to report that information).
+A corresponding registrable offender is a person who, as a consequence of a conviction in a foreign jurisdiction for a corresponding offence,—
+  (a) has been sentenced to imprisonment; or
+  (b) has been required to report in that jurisdiction information about himself or herself to a person or body exercising functions substantially similar to those of the Commissioner under this Act, and to keep that information current for a particular period (and would, if the person were currently in that jurisdiction, still be required to report that information).
 
 **Registration orders**
 
 ### 9 Court may make registration order
-(1) If a court convicts a person of a qualifying offence and imposes a non-custodial sentence in respect of that offence, the court may order that the person must be placed on the register and must comply with the reporting obligations of this Act.
+(1) If a court imposes on a person a non-custodial sentence in respect of a conviction for a qualifying offence, the court may order that the person must be placed on the register and must comply with the reporting obligations of this Act.
+(1A) For the purposes of subsection (1), the date on which the person was charged with the offence is irrelevant.
 (2) A court may make an order under this section (a registration order) only if the court is satisfied that the person poses a risk to the lives or sexual safety of 1 or more children, or of children generally.
 (3) For the purpose of assessing the risk posed by the person, the court must consider the following matters:
   (a) the seriousness of the qualifying offence:
@@ -601,25 +604,51 @@ After section 348, insert:How appeal affects registration orders
 ### Part 1 — Provisions relating to Act as enacted
 
 ### 1 Retrospective application
-(1) This Act applies to registrable offenders who, on the date this Act comes into force, are, in respect of a qualifying offence,—
+(1) This clause applies to a person who, on 14 October 2016, is, in respect of a qualifying offence,—
   (a) serving, in custody, the sentence of imprisonment that was imposed for that offence; or
-  (b) serving, on parole or other form of conditional release from custody, the sentence of imprisonment that was imposed for that offence; or
-  (c) subject to an extended supervision order or an interim supervision order following that sentence; or
-  (d) subject to a public protection order or an interim detention order following that sentence.
-(2) This Act also applies to registrable offenders who, on the date this Act comes into force,—
-  (a) are residents of New Zealand or have demonstrated an intention to remain in New Zealand for 30 days or longer; and
-  (b) satisfy the definition of corresponding registrable offender in section 8 (the relevant conviction for a corresponding offence being one that occurred before the date on which this Act comes into force).
-(3) As soon as practicable after this Act comes into force, the chief executive of the Department of Corrections must cause written notice to be given to every registrable offender referred to in subclause (1)﻿(a) of—
+  (b) serving, on parole or on release from custody on release conditions, the sentence of imprisonment that was imposed for that offence; or
+  (c) subject to an extended supervision order or an interim supervision order following the sentence of imprisonment that was imposed for that offence; or
+  (d) subject to a public protection order or an interim detention order following the sentence of imprisonment that was imposed for that offence; or
+  (e) no longer serving the sentence of imprisonment that was imposed for that offence, but still subject to release conditions following the sentence expiry date of that sentence.
+(2) This clause applies to a person who—
+  (a) was convicted before 14 October 2016 of a qualifying offence; and
+  (b) on or after 14 October 2016, in respect of that conviction,—
+    (i) was or is sentenced to imprisonment; or
+    (ii) was or is sentenced to a non-custodial sentence and made subject to a registration order.
+(3) This clause applies to a person who—
+  (a) was convicted before 14 October 2016 of a corresponding offence in a foreign jurisdiction; and
+  (b) as a consequence of that conviction, on or after 14 October 2016,—
+    (i) was or is sentenced to imprisonment; or
+    (ii) was or is required to report in that jurisdiction information about himself or herself to a person or body performing functions substantially similar to those of the Commissioner under this Act, and to keep that information current for a particular period (and would, if the person were currently in that jurisdiction, still be required to report that information); or
+    (iii) was or is deported from that jurisdiction.
+(4) A person to whom this clause applies—
+  (a) is a registrable offender for the purposes of section 7(1) and this schedule (if subclause (1) or (2) applies); and
+  (b) is a corresponding registrable offender for the purposes of section 8 and a registrable offender for the purposes of section 7(2) and this schedule (if subclause (3) applies); and
+  (c) is subject to all other provisions of this Act with any necessary modifications.
+
+### 2 Notices to be given
+(1) As soon as practicable after 14 October 2016, the chief executive of the Department of Corrections must cause written notice to be given to every registrable offender referred to in clause 1(1)﻿(a) of—
   (a) the offender’s reporting obligations; and
   (b) the penalties for failing to comply with those obligations.
-(4) As soon as practicable after this Act comes into force, the Commissioner must cause written notice to be given to every registrable offender referred to in subclauses (1)﻿(b), (c), and (d) and (2) of—
+(2) Before, or as soon as practicable after, 13 March 2017, the Commissioner must cause written notice to be given to every registrable offender referred to in clause 1(1)﻿(b) to (e) of—
   (a) the offender’s reporting obligations; and
   (b) the penalties for failing to comply with those obligations.
-(5) A registrable offender referred to in subclause (1)﻿(b), (c), and (d) or (2) must make an initial report to the Commissioner of all relevant personal information within 72 hours of receiving notice under subclause (4), or within such longer period as may be specified in the notice.
-(6) Despite section 34, in the case of a registrable offender referred to in subclause (1)﻿(b), (c), and (d) or (2),—
-  (a) the offender’s reporting obligations begin when the offender receives notice under subclause (4); and
-  (b) for the purpose of calculating the length of the reporting period, the offender’s reporting period is taken to have begun on the later of the following events:
-    (i) when the person was sentenced for a qualifying offence or a corresponding offence:
-    (ii) when the person ceased to be in custody in relation to a qualifying offence or a corresponding offence.
+(3) Before, or as soon as practicable after, 13 March 2017, the Commissioner must cause written notice to be given to every registrable offender referred to in clause 1(2) and (3) who has not already been given notice under section 12, 14, or 15 of—
+  (a) the offender’s reporting obligations; and
+  (b) the penalties for failing to comply with those obligations.
+
+### 3 Reporting obligations
+(1) A registrable offender who receives a notice under clause 2(2) or (3) must make an initial report to the Commissioner of all relevant personal information within 72 hours of receiving the notice or within any longer period specified in the notice.
+(2) Despite section 34,—
+  (a) the offender’s reporting obligations begin when the offender receives the notice; and
+  (b) for the purpose of calculating the length of the reporting period, the offender’s reporting period is taken to have begun on the later of the following:
+    (i) the date on which the person was sentenced for a qualifying offence or a corresponding offence:
+    (ii) the date on which the person ceased to be in custody in relation to a qualifying offence or a corresponding offence.
+
+### 4 Application for registration order
+(1) This clause applies in respect of a person who was or is sentenced after 14 October 2016 and before 13 March 2017 to a non-custodial sentence for a qualifying offence (and regardless of the date on which the person was charged with and convicted of that offence).
+(2) Despite section 9(4), the Commissioner may, in respect of a person described in subclause (1), apply to the court that imposed the sentence for a registration order.
+(3) However, subclause (2) does not apply if, at the time of sentencing, the court declined to make a registration order because it was not satisfied that the person posed a risk to the lives or sexual safety of 1 or more children, or of children generally.
+(4) Section 9 applies, with any necessary modifications, to an application made under this clause.
 
 ## Schedule 2 — Qualifying offences
