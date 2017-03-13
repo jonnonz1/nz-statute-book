@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-03-13_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -2439,7 +2439,7 @@ There shall from time to time be appointed under the State Sector Act 1988 such 
 (6) Every person shall, on ceasing to be a warranted officer, surrender to the Director-General the warrant of appointment, and any badge of office, issued to the person.
 (7) No warranted officer appointed under subsection (2) shall, by virtue of the appointment, be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or of the Government Superannuation Fund Act 1956.
 (8) The Director-General shall give every warranted officer a written warrant, signed by or on behalf of the Director-General, evidencing the appointment; and the production of the warrant shall, in the absence of proof to the contrary, be conclusive evidence of the appointment.
-(9) Every person who is a constable, or a ranger appointed under section 38(1) of the Wildlife Act 1953, section 8(1) of the Reserves Act 1977, or section 40(1) of the National Parks Act 1980, or any person who is a fishery officer or an honorary fishery officer appointed under Part 6 of the Fisheries Act 1983 to exercise powers in relation to freshwater fisheries, shall be deemed to be a warranted officer; but, where such a person has been so appointed in respect of part of New Zealand only, the person shall be deemed to have been appointed a warranted officer for that part.
+(9) Every person who is a constable, or a ranger appointed under section 38(1) of the Wildlife Act 1953, section 8(1) of the Reserves Act 1977, or section 40(1) of the National Parks Act 1980, or any person who is a fishery officer or an honorary fishery officer appointed under Part 11 of the Fisheries Act 1996 to exercise powers in relation to freshwater fisheries, shall be deemed to be a warranted officer; but, where such a person has been so appointed in respect of part of New Zealand only, the person shall be deemed to have been appointed a warranted officer for that part.
 (10) There may be paid to any warranted officer appointed under subsection (2), out of money appropriated by Parliament for the purpose, reimbursement of actual and reasonable expenses incurred in the course of acting as a warranted officer, if the Director-General has given prior authorisation and has subsequently approved the amount of the expenses.
 
 ### 60 Acquisition of land for administrative purposes
