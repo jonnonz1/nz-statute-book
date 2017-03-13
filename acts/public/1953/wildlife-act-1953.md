@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-03-13_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -90,7 +90,7 @@ _Consolidation as at 2016-12-17_
   - **population management plan** means a plan approved under section 14F
   - **ranger** means a ranger appointed or deemed to be appointed under this Act; and includes a fish and game ranger
   - **sale** includes barter and exchange for consideration; and also includes offering or attempting to sell, or receiving for sale, or having in possession for sale, or exposing for sale, or sending or delivering for sale, or causing or allowing to be sold, offered, or exposed for sale; and has a corresponding meaning
-  - **take** , and all references thereto, include taking, catching, or pursuing by any means or device, and also include the attempt to take
+  - **take** , and all references thereto, includes taking, catching, or pursuing by any means or device, and also includes the attempt to take
   - **threatened species** means any marine wildlife that is for the time being declared by a notice under subsection (1A) to be a threatened species
   - **wildlife** means any animal that is living in a wild state; and includes any such animal or egg or offspring of any such animal held or hatched or born in captivity, whether pursuant to an authority granted under this Act or otherwise; but does not include any animals of any species specified in Schedule 6 (being animals that are wild animals subject to the Wild Animals Control Act 1977)
   - **wildlife district** means a wildlife district under this Act
@@ -563,18 +563,72 @@ Every fish and game ranger shall, by virtue of his or her office, be deemed to b
   (b) seize all nets, traps, firearms, ammunition, boats, vehicles, engines, instruments, appliances, or devices that are being used or are intended to be used or have been used in breach of this Act, or that he reasonably believes are so being used or are intended to be so used or have been so used:
   (c) seize any bag, container, or other article (including any coat or other similar article of clothing) that is being used for the purpose of carrying any animal or any part of any animal or any egg or nest thereof illegally taken or had in possession or that he reasonably believes is being so used:
   (d) stop any vehicle, or any riding or pack animal, or any boat, launch, or other vessel, or any aircraft while on the ground or on the water, or any other device for carriage or transportation, or stop in transit any parcel, package, case, bag, luggage, or other container that is or that he reasonably believes to be in the possession of the owner or of any other person (including any carrier or forwarding agent, whether by land, sea, or air), if he has reason to believe or suspect that any breach of this Act or of any regulations under this Act has been committed by the owner or by the person in possession thereof or by any other person, and, in the presence of the owner or other person as aforesaid or of any servant of any of them, search any such vehicle, riding or pack animal, boat, launch, or other vessel, or aircraft, or other device for carriage or transportation, and in such presence as aforesaid open and search any such parcel, package, case, bag, luggage, or other container:
-  (e) while in lawful execution of his duty, call upon any male person, not being under the age of 18 years, to aid or assist him when reasonable necessity exists for calling that assistance, and every person aiding or assisting any ranger pursuant to any such call shall while doing so be deemed to be and shall have all the powers of a ranger duly appointed under this Act:
+  (e) call on any person for assistance, and the person is authorised to assist the ranger—
+    (i) in the exercise of a search power in accordance with section 113 of the Search and Surveillance Act 2012; or
+    (ii) in the exercise of any other power if the person acts under the direction and supervision of the ranger:
   (f) at all times, without let or hindrance—
     (i) by any means whatever, enter upon, pass through, or remain on any land (other than a dwellinghouse or the enclosed garden or curtilage of any dwellinghouse) or any hut, tent, caravan, bach, or other erection (not being a permanent residence), or any shop, warehouse, factory, bond store, office, or any other premises of any description, or into or upon any lake, river, pond, lagoon, or other water (whether natural or artificially constructed):
     (ii) enter any vehicle, boat, launch, other vessel, or aircraft that is being used or is intended to be used or has been used in breach of this Act or that he reasonably believes is being or is intended to be or has been so used:
     (iii) search any land or any hut, tent, caravan, bach, or other erection (not being a permanent residence), or any shop, warehouse, factory, bond store, office, or other premises of any description, or any vehicle, boat, launch, other vessel, or aircraft referred to in subparagraph (ii), or any riding or pack animal, or other device for transportation or carriage found on the said land or on any such premises or on any such lake, river, pond, lagoon, or other water:
   provided that any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied on reasonable grounds that any breach of this Act or of any regulations under this Act has been or is being committed, or that preparation has been made to commit such a breach, within any of the hereinbefore excepted premises, may, by warrant under his hand, empower a ranger to enter those premises for the purpose of detecting that offence.
 (2) The production by a ranger of his warrant of appointment shall be sufficient evidence of that appointment.
-(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
+(3)
 
-### 40 Obstructing rangers
-(1) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67D who wilfully resists, impedes, or obstructs, or incites or encourages any other person to resist, impede, or obstruct, any ranger, or any person acting by his order and in his aid, in the execution of the powers conferred on that ranger by this Act, or by a warrant under this Act, or who wilfully uses abusive or threatening language or behaves in a threatening manner to any such ranger or person in the execution of those powers, or who wilfully fails to comply with the lawful demands of a ranger. For the purpose of this subsection any person who wilfully refuses to allow any ranger or other person acting by his order and in his aid to exercise any of the powers conferred by the last preceding section shall be deemed to obstruct that ranger or person.
-(2)
+### 39A Certain rangers to have additional powers
+(1) This section applies to a ranger who is not—
+  (a) a fish and game ranger; or
+  (b) a ranger appointed under section 38(2); or
+  (c) an honorary fishery officer, within the meaning given in section 2(1) of the Fisheries Act 1996.
+(2) A ranger to whom this section applies may exercise the powers provided in sections 39B to 39D.
+
+### 39B Power to seize evidential material
+A ranger to whom section 39A applies may seize any evidential material (as defined in section 3(1) of the Search and Surveillance Act 2012) that he or she reasonably believes relates to the investigation of a suspected offence against this Act or any regulations made under this Act.
+
+### 39C Powers to require people to stop and to stop things or articles in transit
+(1) In exercising a power or duty under this Act, a ranger to whom section 39A applies who is investigating a suspected offence against this Act or any regulations made under this Act may, if there is reasonable cause,—
+  (a) require a person to stop and to remain stopped for a period that is no longer than is reasonable in the circumstances; and
+  (b) stop, and keep stopped for a period that is no longer than is reasonable in the circumstances, any thing or any article in transit.
+(2) This section does not limit the power in section 39(1)﻿(d).
+
+### 39D Power to intervene to prevent offending
+(1) A ranger to whom section 39A applies who believes on reasonable grounds that a person is committing or is about to commit an offence against this Act or any regulations made under this Act may intervene, in a manner that is reasonable in the circumstances, to prevent the offence.
+(2) This section does not affect the power in section 39(1)﻿(f).
+
+### 39E Certain people to have power of arrest
+(1) The Director-General may issue to a ranger to whom section 39A applies a written authority stating that the ranger is authorised to exercise the power of arrest under section 39F.
+(2) The following people may also exercise the power of arrest under section 39F:
+  (a) every constable:
+  (b) every officer in command of any vessel, aircraft, or unit of the New Zealand Defence Force:
+  (c) every Customs officer (as defined in section 2(1) of the Customs and Excise Act 1996):
+  (d) every fishery officer appointed under section 196(1) of the Fisheries Act 1996.
+
+### 39F Power of arrest
+(1) A person authorised under section 39E (an arresting officer) may arrest a person without warrant if—
+  (a) the arresting officer believes on reasonable grounds that the person has committed or is committing an offence against a provision listed in section 67A(2) (which contains offences in respect of absolutely protected wildlife); or
+  (b) the arresting officer believes on reasonable grounds that the person has committed or is committing an offence in relation to absolutely protected wildlife against section 56(4) (which relates to liberating wildlife) or section 63A (which relates to hunting, killing, buying, or selling marine wildlife, or robbing or disturbing the nest of marine wildlife); or
+  (c) the arresting officer believes on reasonable grounds that the person is obstructing the investigation of an offence referred to in paragraph (a) or (b).
+(2) At the time of arrest, the arresting officer must, unless it is impracticable to do so,—
+  (a) identify himself or herself; and
+  (b) produce evidence that he or she is authorised under section 39E; and
+  (c) tell the person that the power is being exercised under this Act; and
+  (d) tell the person the reason for the arrest.
+(3) If the arresting officer is not a constable, the arresting officer must deliver the arrested person into the custody of a constable as soon as is reasonably practicable (unless the person is sooner released).
+
+### 39G Application of Search and Surveillance Act 2012
+Part 4 of the Search and Surveillance Act 2012 applies, with any necessary modifications, in relation to the exercise of a power under section 39(1) or any of sections 39B to 39F.
+
+### 40 Obstructing persons acting under this Act
+(1) A person must not—
+  (a) wilfully resist, impede, or obstruct a person acting under this Act; or
+  (b) wilfully incite or encourage another person to resist, impede, or obstruct a person acting under this Act; or
+  (c) wilfully use abusive or threatening language to, or behave in a threatening manner to, a person acting under this Act; or
+  (d) wilfully fail to comply with a lawful demand made by a person acting under this Act (including a requirement under section 39C(1)﻿(a)); or
+  (e) wilfully refuse to allow a person acting under this Act to exercise a power conferred on that person by or under this Act.
+(2) A person who does not comply with this section commits an offence and is liable on conviction to the penalty set out in section 67D.
+(3) In this section, a person acting under this Act means—
+  (a) a ranger exercising a power conferred on that ranger by or under this Act; and
+  (b) a person assisting a ranger under section 39(1)﻿(e); and
+  (c) a person authorised under section 39E(2) who is exercising the power of arrest in section 39F.
 
 **Powers of Minister**
 
@@ -816,7 +870,7 @@ Sections 149A, 149B, 149C(1) to (3), 160, and 161 of the Customs and Excise Act 
 (6) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(7) who wilfully obstructs or hinders or resists the Director-General or any authorised officer or servant of the Department in the exercise of any of the powers conferred by this section.
 
 ### 60 Protection of rangers and others
-A person who does any act in pursuance or intended pursuance of any of the functions conferred on him by or under this Act shall not be under any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, or mistake of law or fact, or on any other ground, unless he has acted, or omitted to act, in bad faith or without reasonable cause.
+A person who does any act in pursuance or intended pursuance of any of the functions or powers conferred on him by or under this Act shall not be under any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, or mistake of law or fact, or on any other ground, unless he has acted, or omitted to act, in bad faith or without reasonable cause.
 
 ### 61 Person in pursuit of wildlife to comply with demand by authorised officer
 (1) In any prosecution for an offence against this Act or against any regulations under this Act, proof that any person found in any area where any species of wildlife is usually prevalent had with him or under his control any firearm, net, trap, decoy, or other instrument or device capable of being used for the purpose of hunting or killing any such species shall be evidence from which the court may infer that that person was in pursuit of that species.
@@ -899,12 +953,21 @@ Every person who, without lawful authority, breaches or fails to comply with any
   (b) that the director or manager knew or could reasonably be expected to have known that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
 (2) Where any director or person concerned in the management of a body corporate is convicted of an offence against this Act by virtue of subsection (1), the director or person is liable to the penalty applicable to an individual who commits the offence.
 
-### 66 Offenders to give name and address to rangers, etc
-(1) Where any person is found offending against this Act or against any regulations or notification under or pursuant to this Act, it shall be lawful for any authorised person as defined in subsection (3) of section 61 to require the offender forthwith to desist from the offence and also to tell his real Christian name, surname, and place of abode.
+### 66 Continuing offence after being required to desist
+(1) Where any person is found offending against this Act or against any regulations or notification under or pursuant to this Act, it shall be lawful for any authorised person as defined in subsection (3) of section 61 to require the offender forthwith to desist from the offence.
 (2) Every person who, after being required to desist from offending under subsection (1), wilfully continues the offence commits a further offence against this Act and is liable on conviction to the penalty set out in section 67F(5).
-(3) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(5) who, after being required to give his or her Christian name, surname, and place of abode under subsection (1),—
-  (a) fails to give his or her real Christian name, or surname, or place of abode:
-  (b) gives a false name or place of abode.
+(3)
+
+### 66A Offenders to give identifying information
+(1) A ranger or an authorised person who believes on reasonable grounds that a person has committed, is committing, or is about to commit an offence against this Act or any regulations made under this Act may require the person to give information or produce evidence as follows:The following table is small in size and has 2 columns. Column 1 is headed Type of ranger or authorised person. Column 2 is headed Information or evidence that ranger or authorised person may require.Type of ranger or authorised personInformation or evidence that ranger or authorised person may requireAuthorised person who is not a rangerThe person’s full name and residential addressHonorary fish and game ranger, honorary fishery officer, or ranger appointed under section 38(2)The person’s full name and residential addressFish and game ranger, other than an honorary fish and game rangerThe person’s full name, residential address, and date of birthAll other rangersThe person’s full name, residential address, and date of birth, and evidence of that information
+(2) A person who is required to give information or produce evidence under subsection (1) must—
+  (a) give the information:
+  (b) produce the evidence within a reasonable time.
+(3) A person who contravenes subsection (2) commits an offence and is liable on conviction to the penalty set out in section 67F(5).
+(4) In this section,—
+  - **authorised person** has the meaning given in section 61(3)
+  - **honorary fish and game ranger** means a person appointed to be a fish and game ranger in an honorary capacity under section 26FA(2) of the Conservation Act 1987
+  - **honorary fishery officer** has the meaning given in section 2(1) of the Fisheries Act 1996.
 
 ### 67 Penalties for offences in respect of marine wildlife
 (1) Every person who—
@@ -1017,7 +1080,7 @@ A person convicted of an offence under section 40(1) (which relates to obstructi
   (e) section 61(6) (which relates to failing to produce various items):
   (f) section 65(1) (which provides for various miscellaneous offences):
   (g) section 66(2) (which relates to wilfully continuing an offence):
-  (h) section 66(3) (which relates to failing to give a name, or giving a false name or address).
+  (h) section 66A(3) (which relates to failing to give or produce evidence of identifying information or giving false identifying information).
 (7) Every person who commits an offence against any of the provisions listed in subsection (8) is liable on conviction to,—
   (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
   (b) in the case of a body corporate, a fine not exceeding $200,000.
@@ -1067,7 +1130,8 @@ Notwithstanding anything to the contrary in section 25 of the Criminal Procedure
   (d) section 59(5A) (which relates to interfering with vehicles, animals, equipment, or supplies brought onto land):
   (e) section 59(6) (which relates to obstructing the Director-General or an authorised officer in the exercise of powers):
   (f) section 65(2) (which relates to receiving wildlife):
-  (g) section 66(2) (which relates to failing to give a name and address, or giving a false name and address).
+  (g) section 66(2) (which relates to wilfully continuing an offence):
+  (h) section 66A(3) (which relates to failing to give or produce evidence of identifying information or giving false identifying information).
 (6) Sections 63A and 63B continue to apply as if this section had not been enacted.
 
 ### 68B Defences to offences in respect of marine wildlife
