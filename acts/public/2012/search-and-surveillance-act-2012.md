@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2017-03-07_
+_Consolidation as at 2017-03-13_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3764,7 +3764,7 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 13(1) | Warranted officer may exercise variety of entry and search powers for purpose of enforcing, or preventing or detecting offences against, Wild Animal Control Act 1977 | All (except subparts 2 and 3 and sections 118 and 119) |
 |  | 13(6) and (7) | Warranted officer may exercise variety of entry and search powers for purpose of enforcing, or preventing or detecting offences against, Wild Animal Control Act 1977 and may obtain a warrant to enter a dwellinghouse | All (except sections 118 and 119) |
 |  | 14(1) and (2) | Warranted officer may obtain and execute warrant to enter dwellinghouse for purpose of detecting offence if issuing officer is satisfied that there is probable cause to suspect that offence against Wild Animal Control Act 1977 has been, or is being, committed there | All (except sections 118 and 119) |
-| Wildlife Act 1953 | 39(1) | Ranger may exercise variety of entry, seizure, stopping, and related powers in connection with enforcement of Wildlife Act 1953 | All (except sections 118 and 119) |
+| Wildlife Act 1953 | 39(1), 39B to 39F | Ranger may exercise variety of entry, seizure, stopping, and related powers in connection with enforcement of Wildlife Act 1953. Specifically warranted rangers and specified enforcement officers from other government agencies may exercise arrest power | All |
 | Wine Act 2003 | 62(1) and (2) | Wine officer may enter any premises (other than dwellinghouse or marae) for purposes of determining whether Wine Act 2003 is being complied with | Subparts 1, 4, 7, 9, and 10 (except sections 118 and 119) |
 |  | 63(1)﻿(a) and (b) | Wine officer may exercise range of examination and inquiry powers at any place he or she may enter under section 62 of Wine Act 2003 | All (except subparts 2, 3, and 8 and sections 118 and 119) |
 |  | 65(1) | Wine officer or constable may obtain and execute search warrant at any place if issuing officer is satisfied that there are reasonable grounds for believing that there is at place a thing in respect of which offence under Wine Act 2003 has been, or is being, committed or thing that is being used, or is intended for use, in commission of such offence, or that is evidence of such offence | All (except sections 118 and 119) |
