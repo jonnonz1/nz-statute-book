@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-03-16_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -556,7 +556,7 @@ Except as provided in sections 54 and 55, nothing in this Act shall affect the l
 (7) At any time before the death of a person in respect of whom it has made an order under this section, and whether or not he or she is still subject to a property order, the court may, in respect of any property remaining subject to the trusts of a settlement made under this section, on being satisfied that any material fact was not disclosed to the court when the settlement was made, or on account of any substantial change in circumstances, by order vary the settlement in such manner as it thinks fit, and give any consequential directions.
 (8) Without limiting the provisions of section 111, rules of court may be made for all or any of the following purposes:
   (a) giving effect to the provisions of this section:
-  (b) compelling information to be furnished respecting, and production of, testamentary dispositions, and their lodgment in court:
+  (b) compelling information to be furnished respecting, and production of, testamentary dispositions, and their lodgement in court:
   (c) making representation orders.
 
 ## Part 6 — Procedure
@@ -924,9 +924,9 @@ If it appears to the manager of a person subject to a property order in New Zeal
   (a) a lawyer; or
   (b) an officer or employee of a trustee corporation authorised by the corporation for the purposes of this subsection; or
   (c) a legal executive who meets the requirements of subsection (9).
-(4A) If 2 people appoint each other as attorney, a witness to the signature of one person as donor (witness A) does not fail to be independent for the purposes of subsection (4) by reason only that the witness of the other person as donor (witness B)—
-  (a) is a lawyer or legal executive in the same firm as witness A; or
-  (b) is an officer or employee of the same trustee corporation as witness A.
+(4A) If 2 people appoint each other as attorney, the witness to the signature of one person as donor (witness A) does not fail to be independent for the purposes of subsection (4) by reason only that the witness to the signature of the other person as donor—
+  (a) is a lawyer or legal executive in the same firm, or an officer or employee of the same trustee corporation, as witness A; or
+  (b) is the same person as witness A, if, having regard to the matters listed in subsection (7)﻿(a) to (b), the witness is satisfied that witnessing both signatures does not constitute more than a negligible risk of a conflict of interest.
 (5) The signature of an attorney must be witnessed by a person other than the donor or the donor's witness.
 (6) Before the donor signs the instrument, the witness to the donor's signature must explain the effects and implications of the enduring power of attorney to the donor, and advise the donor of—
   (a) the matters referred to in the notes to the prescribed form of power of attorney:
@@ -934,10 +934,18 @@ If it appears to the manager of a person subject to a property order in New Zeal
   (c) in the case of a power of attorney in relation to property,—
     (i) the donor's right to appoint more than 1 attorney, or a trustee corporation, as attorney; and
     (ii) the donor's right to stipulate whether and, if so, how the attorney's dealings with the donor's property are to be monitored.
-(7) The witness to the donor's signature must certify on the prescribed form that—
+(6A) If regulations made under section 112(bab) prescribe a form of standard explanation for any of the matters required to be explained to a donor under subsection (6), the witness to the donor’s signature may give the explanation by—
+  (a) giving a copy of the form to the donor; and
+  (b) following any instructions in the form for giving a verbal explanation to the donor; and
+  (c) if the form and the instructions do not cover all of the matters in subsection (6), using other appropriate means to fulfil all of the requirements of that subsection.
+(7) The witness to the donor's signature must certify on the prescribed form for the certificate referred to in subsection (2)﻿(b) that—
   (a) the requirements of subsection (6) have been met; and
+  (ab) in the case of an enduring power of attorney signed by the donor after the commencement of this paragraph, the witness believes on reasonable grounds that the donor—
+    (i) understands the nature of the instrument; and
+    (ii) understands the potential risks and consequences of the instrument; and
+    (iii) is not acting under undue pressure or duress; and
   (b) the witness has no reason to suspect that the donor was or may have been mentally incapable at the time the donor signed the instrument; and
-  (c) the witness is independent of the attorney (or of each attorney) or that subsection (8)﻿(a) or (b) applies.
+  (c) the witness is independent of the attorney (or of each attorney) or that subsection (8)﻿(a) or (b) applies or, if subsection (4A)﻿(b) applies, the witness is satisfied that no more than a negligible risk of a conflict of interest arises.
 (8) Despite subsection (4),—
   (a) if the attorney is a trustee corporation, an officer or employee of that corporation authorised by the corporation for the purposes of this subsection may witness the donor's signature:
   (b) if the attorney is appointed in his or her capacity as a lawyer, another lawyer in the attorney's firm or a legal executive in that firm who meets the requirements of subsection (9) may witness the donor's signature.
@@ -958,6 +966,16 @@ If it appears to the manager of a person subject to a property order in New Zeal
 (4) A power of attorney delegating trustee powers, authorities, and discretions under section 31 of the Trustee Act 1956 shall not have effect as an enduring power of attorney.
 (5) A power of attorney that gives the attorney the right to appoint a substitute or a successor shall not have effect as an enduring power of attorney; but an enduring power of attorney may provide for successive attorneys, the appointment of one being conditional upon the cessation of the appointment of another.
 (6) A power of attorney executed before the commencement of this Act shall not have effect as an enduring power of attorney.
+
+### 95A Notice revoking earlier enduring power of attorney
+(1) If an enduring power of attorney states that it revokes an earlier enduring power of attorney and both powers of attorney are of the same kind, they both continue to have effect until the earlier power of attorney is revoked by notice given in the manner set out in subsection (2) or ceases to have effect by any of the other ways listed in section 106(1).
+(2) Notice revoking an earlier power of attorney is given when a copy of the later power of attorney is given to the attorney or attorneys appointed under the earlier power of attorney and, to avoid doubt, the notice may be given by a person other than the donor, for example, the donor’s lawyer or one of the attorneys appointed under the later power of attorney, including in the event that the donor becomes mentally incapable.
+(3) This section applies to any enduring power of attorney, whether executed before or after this section comes into force.
+(4) For the purposes of this section, of the same kind, in relation to 2 enduring powers of attorney, means—
+  (a) that both powers of attorney relate to—
+    (i) the donor’s property; or
+    (ii) the donor’s personal care and welfare; or
+  (b) if the earlier power of attorney relates to the donor’s property or the donor’s personal care and welfare, or both, the later power of attorney relates to both the donor’s property and the donor’s personal care and welfare.
 
 ### 96 Enduring power of attorney not revoked by donor's subsequent mental incapacity
 An enduring power of attorney shall not be revoked by the donor's subsequent mental incapacity, but shall continue to have effect according to its tenor.
@@ -1016,13 +1034,16 @@ An enduring power of attorney shall not be revoked by the donor's subsequent men
 ### 99A Attorney's duty to consult
 (1) When acting under an enduring power of attorney, the attorney must, as far as is practicable, consult—
   (a) the donor; and
-  (b) in relation to any particular matter, any person specified in the enduring power of attorney to be consulted, generally, in respect of matters of that kind, or in respect of that matter.
+  (b) in relation to any particular matter, any person specified in the enduring power of attorney to be consulted, generally, in respect of matters of that kind, or in respect of that matter; and
+  (c) any other attorney appointed by the donor under the enduring power of attorney (other than a successive attorney whose appointment has not taken effect); and
+  (d) any other attorney appointed by the donor under another enduring power of attorney (other than a successive attorney whose appointment has not taken effect).
 (2) An attorney acting under an enduring power of attorney in relation to the donor's personal care and welfare may, subject to any consultation under subsection (1), have regard to any advance directive given by the donor except to the extent that the directive would require the attorney to act in a manner contrary to section 98(4).
 (3) The attorney may follow any advice given under subsection (1), or any advance directive given by the donor, and is not liable for anything done or omitted in following that advice or directive, unless done or omitted in bad faith or without reasonable care.
 (4) The attorney may apply to a court for directions under section 101 in respect of any advice given under subsection (1) or any advance directive given by the donor.
 (5) The attorney is not liable in respect of anything done or omitted to be done in accordance with the court's directions.
 (6) Nothing in subsection (4) obliges the attorney to apply to a court for directions.
 (7) If a donor has, under an enduring power of attorney, appointed one attorney in relation to his or her property and another attorney in relation to his or her personal care and welfare, both attorneys must consult each other regularly to ensure that the donor's interests are not prejudiced through any breakdown in communication between them.
+(8) To avoid doubt, if the same attorney must be consulted under subsection (1)﻿(c) or (d) and subsection (7), the requirements of both subsections must be met in relation to that attorney.
 
 ### 99B Attorney must provide information on exercise of powers
 An attorney must promptly comply with any request for information relating to the exercise of the attorney's powers under the enduring power of attorney if—
@@ -1034,9 +1055,9 @@ An attorney must promptly comply with any request for information relating to th
 (2) An attorney who fails without reasonable excuse to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
 ### 99D Medical certification of incapacity
-(1) A certificate of the donor's mental incapacity under this Part must be—
-  (a) in the prescribed form; or
-  (b) if the certificate is issued outside New Zealand, in a form acceptable to the competent authority of the State concerned.
+(1) A certificate of the donor’s mental incapacity under this Part must—
+  (a) contain the prescribed information; or
+  (b) if the certificate is issued outside New Zealand, be in a form acceptable to the competent authority of the State concerned.
 (2) The donor may specify in an enduring power of attorney that the assessment of his or her mental capacity for the purposes of this Part be undertaken by a health practitioner with a specified scope of practice, but only if the scope of practice specified includes the assessment of a person's mental capacity.
 (3) The cost of any medical assessment or examination reasonably required for the purpose of certifying whether the donor is mentally incapable under this Part is recoverable as a debt from the donor's property.
 
@@ -1145,15 +1166,25 @@ A person dealing with an attorney acting under an enduring power of attorney in 
 (1A) In any proceedings commenced under section 101 or 102, the court may revoke the appointment of an attorney under an enduring power of attorney only on the motion of the donor or a party to the proceeding other than the attorney.
 (2) Where a court under paragraph (h) or paragraph (i) of section 102(2) determines that the donor of an enduring power of attorney was induced by undue influence or fraud to create the power or that the attorney is not suitable to be the donor's attorney, the court shall revoke the appointment of the attorney.
 
-### 106 Circumstances in which enduring power of attorney shall cease to have effect
+### 106 Circumstances in which enduring power of attorney ceases to have effect
 (1) An enduring power of attorney shall cease to have effect when—
   (a) the donor, by notice in writing to the attorney, revokes the power while mentally capable of doing so; or
+  (ab) it is revoked by notice given in the manner set out in section 95A to the attorney or attorneys; or
   (b) the donor dies; or
+  (ba) the donor, by notice in writing to the attorney, revokes the appointment of the attorney while mentally capable of doing so; or
+  (bb) in the case of an enduring power of attorney that appoints more than 1 attorney with joint but not several authority, the donor, by notice in writing to one of the attorneys, revokes the appointment of that attorney while mentally capable of doing so; or
   (c) the attorney gives notice of disclaimer in accordance with section 104; or
-  (d) the attorney dies, or is adjudged bankrupt, or becomes a special or committed patient under the Mental Health Act 1969, or becomes subject to a personal order or a property order, or otherwise becomes incapable of acting; or
-  (e) in the case of an enduring power of attorney that appoints more than 1 attorney with joint but not several authority, one of the attorneys dies, or is adjudged bankrupt, or becomes a special or committed patient under the Mental Health Act 1969, or becomes subject to a personal order or a property order, or otherwise becomes incapable of acting; or
+  (d) the attorney dies, or is adjudged bankrupt, or becomes subject to compulsory treatment or a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992, or becomes subject to a personal order or a property order, or otherwise becomes incapable of acting; or
+  (e) in the case of an enduring power of attorney that appoints more than 1 attorney with joint but not several authority, one of the attorneys dies, or is adjudged bankrupt, or becomes subject to compulsory treatment or a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992, or becomes subject to a personal order or a property order, or otherwise becomes incapable of acting; or
+  (ea) in the case of an enduring power of attorney that appoints more than 1 attorney with several authority or with joint and several authority, the last remaining attorney—
+    (i) has his or her appointment revoked by the donor under section 106A(1); or
+    (ii) dies, is adjudged bankrupt, becomes subject to compulsory treatment or a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992, is subject to a personal order or a property order, or otherwise becomes incapable of acting; or
   (f) a court revokes the appointment of the attorney pursuant to section 105.
-(2) In any case where the enduring power of attorney provides for successive attorneys, the appointment of one being conditional upon the cessation of the appointment of another, the provisions of paragraphs (c) to (f) of subsection (1) shall apply only in respect of the last such attorney.
+(2) In any case where the enduring power of attorney provides for successive attorneys, the appointment of one being conditional upon the cessation of the appointment of another, subsection (1)﻿(ba) to (f) applies only in respect of the last such attorney.
+
+### 106A Revocation of appointment of attorneys with several authority
+(1) If an enduring power of attorney appoints more than 1 attorney with several authority or with joint and several authority, the donor may, by notice in writing to 1 or more of the attorneys, revoke the appointment of that attorney or those attorneys while mentally capable of doing so.
+(2) To avoid doubt, if a donor revokes the appointment of 1 or more attorneys under subsection (1), the enduring power of attorney remains in effect if there is at least 1 remaining attorney.
 
 ### 107 Attorney's power to benefit self and others
 (1) An attorney under an enduring power of attorney must not, at any time while the donor is mentally incapable, act to the benefit of the attorney or of a person other than the donor, or recover any expenses from the donor's property, unless and only to the extent that—
@@ -1264,8 +1295,9 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (a) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 65, which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
   (b) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of the preparation of reports requested pursuant to section 76, which fees and expenses may differ according to the type of report and the time spent, and according to whether or not professional services are to be available in a specified number of proceedings during a specified period:
   (ba) prescribing forms for enduring powers of attorney for the purposes of Part 9:
+  (bab) prescribing a form of standard explanation for the purpose of explaining the effects and implications of an enduring power of attorney to a donor (which may include requirements for the content of the explanation and the manner in which it is to be given) under section 94A(6) and (6A):
   (bb) prescribing forms for certificates for the purposes of the witnessing requirements in section 94A(7):
-  (bc) prescribing forms for certificates for the purposes of any medical examination or assessment under Part 9:
+  (bc) prescribing information required for certificates for the purposes of any medical examination or assessment under Part 9:
   (bd) prescribing forms that may be used for the suspension and revocation of enduring powers of attorney for the purposes of Part 9:
   (be) prescribing the form for the certificate of non-revocation and non-suspension of the enduring power of attorney for the purposes of section 103C(6):
   (c) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
