@@ -1,5 +1,5 @@
 # Citizens Initiated Referenda Act 1993
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-03-21_
 
 > An Act to provide for the holding, on specific questions, of citizens initiated referenda, the results of which referenda will indicate the views held by the people of New Zealand on specific questions but will not be binding on the New Zealand Government
 
@@ -268,11 +268,11 @@ The Speaker, on receiving from the Clerk of the House of Representatives an indi
   (a) where the citizens initiated indicative referendum is held before the first general election has been held under the Electoral Act 1993, be deemed to be the lists compiled pursuant to section 101(1) of that Act; and
   (b) where the citizens initiated indicative referendum is held on or after polling day for the first general election held under the Electoral Act 1993, be deemed to be the electoral rolls for the time being in force under the Electoral Act 1993.
 (2) For the purposes of the indicative referendum,—
-  (a) a person shall, subject to subsection (3), be deemed not to be registered as an elector if that person became registered by reason of an application for registration as an elector under the Electoral Act 1993 received by the Registrar of the electoral district in respect of which the person became registered on or after the day appointed for the taking of the indicative referendum or on or after the day on which the voting period for the indicative referendum period ends; and
+  (a) a person shall, subject to subsection (3), be deemed not to be registered as an elector if that person became registered by reason of an application for registration as an elector under the Electoral Act 1993 received by the Electoral Commission on or after the day appointed for the taking of the indicative referendum or on or after the day on which the voting period for the indicative referendum period ends; and
   (b) section 88(2) of the Electoral Act 1993 shall, with such modifications as may be necessary, apply for the purposes of determining whether an application for registration was received on or after the day appointed for the taking of the indicative referendum or on or after the day on which the voting period for the indicative referendum period ends.
 (3) Where any person applies for registration as an elector of a district after a writ has been issued for the holding of the indicative referendum and before the day appointed for the taking of the indicative referendum,—
-  (a) the Registrar shall, if the registrar is satisfied that that person is qualified to be registered, forthwith enter the name of that person on the electoral roll; and
-  (b) the Registrar shall not be required to enter the name of that person on the main roll or any supplementary roll or composite roll used at the indicative referendum; and
+  (a) the Electoral Commission must, if the Electoral Commission is satisfied that that person is qualified to be registered, forthwith enter the name of that person on the electoral roll; and
+  (b) the Electoral Commission is not required to enter the name of that person on the main roll or any supplementary roll or composite roll used at the indicative referendum; and
   (c) that person may, at the indicative referendum, vote only by way of a special vote.
 
 ### 28 Voting paper
@@ -305,9 +305,9 @@ The selection shall be signed by the Returning Officer and shall be in form 4 of
 The appointment shall in each case be signed by the persons selected, and shall be in form 5 of the Schedule.
 
 ### 36 Powers and rights of scrutineers
-(1) Every scrutineer so appointed shall, for the purposes of the indicative referendum, have all the powers and rights of a scrutineer under the Electoral Act 1993, and shall make a declaration in form 1 of Schedule 2 of the Electoral Act 1993 (which form shall be used with all necessary modifications).
+(1) Every scrutineer so appointed shall, for the purposes of the indicative referendum, have all the powers and rights of a scrutineer under the Electoral Act 1993, and shall make a declaration in a form that the Electoral Commission has approved.
 (2) Without limiting subsection (1), a scrutineer so appointed—
-  (a) may be present at the office of the Registrar of Electors when the Registrar of Electors is performing his or her duties under section 172 of the Electoral Act 1993 (as applied by this Act) in relation to declarations in respect of special votes, but not more than 1 such scrutineer per answer shall be present at the office of the Registrar of Electors at any time; and
+  (a) may be present at the office of the Electoral Commission for the district when the Electoral Commission is performing its duties under section 172 of the Electoral Act 1993 (as applied by this Act) in relation to declarations in respect of special votes for the district, but not more than 1 such scrutineer per answer may be present at any time; and
   (b) may be present at the scrutiny of the rolls conducted by the Returning Officer under section 175 of the Electoral Act 1993 (as applied by this Act) but only 1 such scrutineer per answer, or such greater number as is permitted by the Returning Officer, shall be present at the scrutiny of the rolls at any time.
 (3) The number of scrutineers for each answer who may be present in a polling place may not exceed the number of issuing officers designated for the polling place.
 
@@ -432,7 +432,7 @@ If a group of at least 50 electors in an electoral district is dissatisfied with
 ### 50 Who may be respondents
 The person complained of is a respondent to the application if the person is—
   (a) the Returning Officer; or
-  (b) the Registrar of Electors.
+  (b) the Electoral Commission.
 
 **Making of application**
 
