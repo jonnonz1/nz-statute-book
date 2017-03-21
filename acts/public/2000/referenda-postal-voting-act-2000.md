@@ -1,5 +1,5 @@
 # Referenda (Postal Voting) Act 2000
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-03-21_
 
 ### 1 Title
 This Act is the Referenda (Postal Voting) Act 2000.
@@ -22,7 +22,7 @@ This Act comes into force on the day after the date on which it receives the Roy
   - **elector** means a person whose name lawfully appears on the referendum roll or the supplementary referendum roll
   - **Electoral Commission** means the Electoral Commission established by section 4B of the Electoral Act 1993
   - **electoral roll** , in relation to any district, and subject to sections 101 and 103 of the Electoral Act 1993,—
-    (a) means the forms that the Registrar keeps of applications for registration of persons registered under the Electoral Act 1993 as electors of that district; and
+    (a) means the forms that the Electoral Commission keeps of applications for registration of persons registered under the Electoral Act 1993 as electors of that district; and
     (b) includes the forms deemed by sections 89C and 89F of the Electoral Act 1993 to be applications for registration as an elector
   - **electorate code** means a number indicating the district for which any elector is qualified to be enrolled
   - **give public notice** means to do both of the following:
@@ -47,9 +47,6 @@ This Act comes into force on the day after the date on which it receives the Roy
   - **referendum** means a government initiated referendum or a citizens initiated referendum
   - **referendum material** means material that is prepared by the panel and presented to electors for the purpose of informing them about each proposal that is the subject of the referendum
   - **referendum roll** means the list of electors described in section 21(1)
-  - **Registrar** , in relation to any district,—
-    (a) means the Registrar of Electors appointed for that district under section 22 of the Electoral Act 1993; and
-    (b) includes the Registrar of Elector's deputy
   - **Registrar of Births and Deaths** means a registrar within the meaning of the Births, Deaths, Marriages, and Relationships Registration Act 1995
   - **Registrar of the court** means the Registrar of the High Court in Wellington
   - **respondent** means a respondent to an application
@@ -164,8 +161,8 @@ This Act applies if the Governor-General makes an Order in Council—
 ### 14 Preliminary referendum rolls
 (1) The preliminary referendum roll for each district is a list of all persons whose names are lawfully on the electoral roll for the district on a date to be appointed for the closing of the preliminary referendum rolls.
 (2) The Electoral Commission must appoint the date for the closing of the preliminary referendum rolls and give notice of it in the Gazette.
-(3) The Registrar of each district must print the preliminary referendum roll for the district as soon as practicable after that date.
-(4) No printed preliminary referendum roll is to list any person whose details are not published or available under the Electoral Act 1993 as a result of a direction by theElectoral Commission under section 115 of that Act.
+(3) The Electoral Commission must print the preliminary referendum roll for each district as soon as practicable after the appointed date.
+(4) No printed preliminary referendum roll is to list any person whose details are not published or available under the Electoral Act 1993 as a result of a direction by the Electoral Commission under section 115 of that Act.
 
 ### 15 Form of printed preliminary referendum rolls
 (1) Although every printed preliminary referendum roll is the main roll for the district, section 106 of the Electoral Act 1993, relating to the form of the main roll and supplementary rolls, does not apply to any printed referendum roll and this section applies instead.
@@ -180,14 +177,14 @@ This Act applies if the Governor-General makes an Order in Council—
 Although every printed preliminary referendum roll is the main roll for the district, section 110 of the Electoral Act 1993 does not apply to any printed preliminary referendum roll and sections 17 and 18 apply instead.
 
 ### 17 Public inspection of printed preliminary referendum rolls
-(1) Copies of the printed preliminary referendum roll must be kept at the office of the Registrar for the district.
+(1) Copies of the printed preliminary referendum roll must be kept at the office of the Electoral Commission for the district.
 (2) Any person may inspect the printed preliminary referendum roll—
-  (a) at the Registrar's office; and
+  (a) at the office of the Electoral Commission for the district; and
   (b) without payment; and
   (c) at any time between 9 am and 4 pm on any day on which the office is open for the transaction of business, until 4 pm on the day before the first day of the voting period.
 (3) Copies of the printed preliminary referendum roll must also be kept at such other places within the district as the Minister or the Electoral Commission directs.
 (4) Any person may inspect the printed preliminary referendum roll, without payment, at a place at which it is kept as a result of a direction under subsection (3).
-(5) Every person holding a copy of a printed preliminary referendum roll as a result of a direction under subsection (3) must return it to the office of the Registrar for the district before 4 pm on the day before the first day of the voting period.
+(5) Every person holding a copy of a printed preliminary referendum roll as a result of a direction under subsection (3) must return it to the office of the Electoral Commission for the district before 4 pm on the day before the first day of the voting period.
 (6) The right of inspection conferred by subsections (2) and (4) does not include the rights to copy or purchase the whole or any part of the printed preliminary referendum roll.
 
 ### 18 Public use of printed preliminary referendum rolls
@@ -262,10 +259,10 @@ At the request of the Returning Officer, the Electoral Commission must supply th
 (1) The Electoral Commission must supply the Returning Officer with the roll identifier number of every elector who is on the referendum roll or the supplementary referendum roll but who, at the commencement of the voting period, falls into a category described in subsections (2) to (4).
 (2) The first category is every elector—
   (a) who is dead; and
-  (b) whose death has been notified to a Registrar—
+  (b) whose death has been notified to the Electoral Commission—
     (i) by any Registrar of Births and Deaths; or
     (ii) by the father, mother, spouse, civil union partner, or de facto partner of the elector or by a sister or brother of the elector; and
-  (c) of whose identity the Registrar is satisfied.
+  (c) of whose identity the Electoral Commission is satisfied.
 (3) The second category is every elector who is disqualified from registration as an elector under section 80 of the Electoral Act 1993.
 (4) The third category is every elector whose name has been removed from a roll under—
   (a) section 95B or section 96 or section 97 of the Electoral Act 1993; or
@@ -614,7 +611,7 @@ At the end of a hearing, the court must do one of the following:
 
 ### 64 Rolls
 (1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000—
-  (a) who removes a copy of a printed preliminary referendum roll from any place where it is kept under section 17(1) or (3), except for the purpose of returning it to the Registrar for the district; or
+  (a) who removes a copy of a printed preliminary referendum roll from any place where it is kept under section 17(1) or (3), except for the purpose of returning it to the Electoral Commission; or
   (b) who fails, without reasonable excuse, to comply with section 17(5); or
   (c) who fails, without reasonable excuse, to comply with section 18(4).
 (2) Every person commits an offence and is liable on conviction to a fine not exceeding $50,000—
