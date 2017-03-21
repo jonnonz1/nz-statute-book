@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2017-03-13_
+_Consolidation as at 2017-03-21_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -352,7 +352,7 @@ As soon as practicable after 30 June in every year, every Board shall furnish th
   (b) 1 person to be appointed by the Minister on the recommendation of the Taranaki Maori Trust Board.
 (7) The Board whose area of jurisdiction includes the Whanganui National Park shall consist of—
   (a) not more than 11 persons appointed under subsection (2); and
-  (b) 1 person appointed by the Minister on the recommendation of the Whanganui River Maori Trust Board.
+  (b) 1 person appointed by the Minister on the recommendation of the trustees of Ngā Tāngata Tiaki o Whanganui (as defined by section 7 of the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017).
 (7A) The Board whose area of jurisdiction includes most of the Waikato claim area within the meaning of section 7 of the Waikato Raupatu Claims Settlement Act 1995 shall consist of not more than 12 persons, being—
   (a) not more than 11 persons appointed under subsection (2); and
   (b) the person who for the time being is recognised as the Head of Kahui Ariki, or a person appointed by the Minister on the nomination of the person so recognised.
