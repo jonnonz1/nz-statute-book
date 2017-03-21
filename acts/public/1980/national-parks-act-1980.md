@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2017-03-21_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -308,7 +308,7 @@ The Minister shall consult the Authority in respect of any notice requesting an 
     (iii) on any other matter relating to any national park,—
 (2) The Board having jurisdiction in respect of the Whanganui National Park shall, in carrying out its functions,—
   (a) have regard to the spiritual, historical, and cultural significance of the Wanganui River to the Whanganui iwi; and
-  (b) seek and have regard to the advice of the Whanganui River Maori Trust Board on any matter that involves the spiritual, historical, and cultural significance of the park to the Whanganui iwi.
+  (b) seek and have regard to the advice of the trustees of Ngā Tāngata Tiaki o Whanganui (as defined by section 7 of the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017) on any matter that involves the spiritual, historical, and cultural significance of the park to the Whanganui iwi.
 
 ### 31 Board may release recommendations, reports, or advice to public
 [Repealed]
