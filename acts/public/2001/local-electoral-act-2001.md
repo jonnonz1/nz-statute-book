@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-03-21_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -99,7 +99,6 @@ The purpose of this Act is to modernise the law governing the conduct of local e
   - **polling day** means the day on which the voting period for an election or poll ends
   - **region** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **regional council** has the same meaning as in section 5(1) of the Local Government Act 2002
-  - **Registrar of Electors** means a person who is a Registrar as defined in section 3(1) of the Electoral Act 1993
   - **roll** or , in relation to any local authority, means any list or roll made in a manner provided by law that contains the names of the persons entitled to vote at an election or poll
   - **Single Transferable Voting** means the electoral system described generally in section 5B
   - **subdivision** means a ward of a district of a territorial authority, a constituency of a region, a subdivision of a local board area or community, or any other division of a local government area for electoral purposes or for the purposes of any poll
@@ -661,7 +660,7 @@ In determining the matters specified in paragraphs (a) to (i) of section 19J(2),
     (i) the name of the elector is included on the most recently published electoral roll for any electoral district under the Electoral Act 1993 or is currently the subject of a direction by the Electoral Commission under section 115 of that Act (which relates to unpublished names); and
     (ii) the address for which the elector is registered as a parliamentary elector is within the local government area of the territorial authority or regional council; or
   (d) the address given by the elector who signed the demand—
-    (i) is confirmed by a Registrar of Electors as the address at which the elector is registered as a parliamentary elector; and
+    (i) is confirmed by the Electoral Commission as the address at which the elector is registered as a parliamentary elector; and
     (ii) is, if the demand was given to a territorial authority, within the district of the territorial authority; or
     (iii) is, if the demand was delivered to a regional council, within the region of the regional council; or
   (e) the elector has enrolled, or has been nominated, as a ratepayer elector and is qualified to vote as a ratepayer elector in elections of the territorial authority or, as the case may require, the regional council.
@@ -880,7 +879,7 @@ Two or more electors of a local government area or, in the case of an election i
     (i) the name of the elector is included on the most recently published electoral roll for any electoral district under the Electoral Act 1993 or is currently the subject of a direction by the Electoral Commission under section 115 of that Act (which relates to unpublished names); and
     (ii) the address for which the elector is registered as a parliamentary elector is within the local government area of the local authority; or
   (c) the address given by the elector who signed the demand is—
-    (i) confirmed by a Registrar of Electors as the address at which the elector is registered as a parliamentary elector; and
+    (i) confirmed by the Electoral Commission as the address at which the elector is registered as a parliamentary elector; and
     (ii) within the district of the local authority; or
   (d) the elector has enrolled, or has been nominated, as a ratepayer elector and is qualified to vote as a ratepayer elector in elections of the local authority.
 (3) Every elector who signs a demand must state, against his or her signature,—
@@ -2155,7 +2154,7 @@ Regulations made under section 139(1)﻿(c) may include (without limitation) pro
 Regulations made under section 139(1)﻿(f) may include (without limitation)—
   (a) provision for different forms of electoral rolls for different classes of local government areas, including (without limitation) divided local government areas, and local government areas containing 1 or more local board areas or communities:
   (b) requirements for residential electors or ratepayer electors, or any class of residential elector or ratepayer elector, to complete and deliver specified information (whether as a condition of enrolment or otherwise):
-  (c) requirements for the Electoral Commission or a Registrar of Electors to supply specified information in the prescribed manner to an electoral officer, or other electoral official, or any other class of person (with or without fee or on payment of a reasonable charge):
+  (c) requirements for the Electoral Commission to supply specified information in the prescribed manner to an electoral officer, or other electoral official, or any other class of person (with or without fee or on payment of a reasonable charge):
   (d) requirements concerning the procedures for enrolment of ratepayer electors:
   (e) provisions regulating the method and form of nomination of ratepayer electors for enrolment by organisations, bodies, societies or associations, or other persons (whether corporate or unincorporate):
   (f) provisions regulating the inspection, copying by and use of electoral rolls by local authorities, electoral officials, members of the public or any class of persons, either generally or for any specified purposes.
@@ -2284,7 +2283,7 @@ For the purposes of the triennial general election and any poll to be held on 13
 (3) This clause does not limit section 19B(1).
 
 ### 2 Calculation of number of Māori and general ward members
-(1) The number of members to be elected by the electors of 1 or more Māori wards of the district of a territorial authority (Māori ward members) is to be determined in accordance with the following formula:where—
+(1) The number of members to be elected by the electors of 1 or more Māori wards of the district of a territorial authority (Māori ward members) is to be determined in accordance with the following formula:nmm = mepd ÷ (mepd + gepd) × nmwhere—
   (nmm) is the number of Māori ward members
   (mepd) is the Māori electoral population of the district
   (gepd) is the general electoral population of the district
@@ -2307,7 +2306,7 @@ For the purposes of the triennial general election and any poll to be held on 13
   (f) the number of members proposed to be elected by the electors of each general constituency.
 
 ### 4 Calculation of number of Māori and general constituency members
-(1) The number of members to be elected by the electors of 1 or more Māori constituencies of a regional council (Māori constituency members) is to be determined in accordance with the following formula:where—
+(1) The number of members to be elected by the electors of 1 or more Māori constituencies of a regional council (Māori constituency members) is to be determined in accordance with the following formula:nmm = mepr ÷ (mepr + gepr) × nmwhere—
   (nmm) is the number of Māori constituency members
   (mepr) is the Māori electoral population of the region
   (gepr) is the general electoral population of the region
