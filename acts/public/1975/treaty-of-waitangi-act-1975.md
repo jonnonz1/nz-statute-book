@@ -1,5 +1,5 @@
 # Treaty of Waitangi Act 1975
-_Consolidation as at 2016-12-13_
+_Consolidation as at 2017-03-21_
 
 > An Act to provide for the observance, and confirmation, of the principles of the Treaty of Waitangi by establishing a Tribunal to make recommendations on claims relating to the practical application of the Treaty and to determine whether certain matters are inconsistent with the principles of the Treaty
 
@@ -162,7 +162,7 @@ The appointment of a Judge as Chairperson, the deputy of the Chairperson, or as 
 (1) This section applies in relation to—
   (a) any land or interest in land transferred to a State enterprise under section 23 of the State-Owned Enterprises Act 1986 or vested in a State enterprise by a notice in the Gazette under section 24 of that Act or by an Order in Council made under section 28 of that Act, whether or not the land or interest in land is still vested in a State enterprise:
   (b) any land or interest in land transferred to an institution within the meaning of section 159 of the Education Act 1989 under section 207 of that Act or vested in such an institution by an Order in Council made under section 215 of that Act, whether or not the land or interest in land is still vested in that institution.
-(2) Subject to section 8B, where a claim submitted to the Tribunal under section 6 relates in whole or in part to land or an interest in land to which this section applies, the Tribunal may—
+(2) Subject to section 8B, where a claim submitted to the Tribunal under section 6 relates in whole or in part to land or an interest in land to which this section applies, the Tribunal may,—
   (a) if it finds—include in its recommendation under section 6(3), a recommendation that that land or that part of that land or that interest in land be returned to Maori ownership (which recommendation shall be on such terms and conditions as the Tribunal considers appropriate and shall identify the Maori or group of Maori to whom that land or that part of that land or that interest in land is to be returned); or
     (i) that the claim is well-founded; and
     (ii) that the action to be taken under section 6(3) to compensate for or remove the prejudice caused by the ordinance or Act, or the regulations, order, proclamation, notice, or other statutory instrument, or the policy or practice, or the act or omission that was inconsistent with the principles of the Treaty, should include the return to Maori ownership of the whole or part of that land or of that interest in land,—
@@ -227,7 +227,7 @@ The appointment of a Judge as Chairperson, the deputy of the Chairperson, or as 
   (b) take all steps necessary to discharge or cancel any memorials or entries showing that the land or interest in land is subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 212 of the Education Act 1989.
 (4) Where—the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 shall cause a copy of the certificate to be lodged in the office of the Surveyor-General, and the Surveyor-General shall note the certificate upon the proper plans and records of the district affected.
   (a) the land or the land in which the interest in land exists is not subject to the Land Transfer Act 1952; and
-  (b) instruments relating to the land or the interest in land are not registerable under the Deeds Registration Act 1908,—
+  (b) instruments relating to the land or the interest in land are not registrable under the Deeds Registration Act 1908,—
 
 ### 8F Directions as to service
 (1) Where an application is made under section 8D, the applicant shall apply to the Tribunal ex parte for directions as to service.
@@ -249,7 +249,7 @@ The appointment of a Judge as Chairperson, the deputy of the Chairperson, or as 
 (3) The public notice shall—
   (a) describe the land or interest in land and its location; and
   (b) state that an application has been made under section 8D in respect of the land or interest in land; and
-  (c) indicate that—as the case may be.
+  (c) indicate that—as the case may be; and
     (i) the land or interest in land has been or was transferred to a State enterprise under section 23 of the State-Owned Enterprises Act 1986 or vested in a State enterprise by a notice in the Gazette under section 24 of that Act or by an Order in Council made under section 28 of that Act; or
     (ii) the land or interest in land has been or was transferred to an institution within the meaning of section 159 of the Education Act 1989 under section 207 of that Act or vested in such an institution by an Order in Council made under section 215 of that Act—
   (d) invite any Maori who considers that he or she, or any group of Maori of which he or she is a member, has grounds for a claim under section 6 in relation to the land or interest in land, to submit that claim to the Tribunal before a date specified in the notice (which date shall be not less than 90 days after the first or only publication of the notice in the Gazette ); and
