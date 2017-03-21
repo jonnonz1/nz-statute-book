@@ -1,5 +1,5 @@
 # Broadcasting Act 1989
-_Consolidation as at 2016-04-30_
+_Consolidation as at 2017-03-21_
 
 > An Act—ato provide for the maintenance of programme standards in broadcasting in New Zealand; andbto establish the Broadcasting Standards Authority and to define its functions and powers; andcto establish the Broadcasting Commission and to define its functions and powers; anddto enable political parties to broadcast election programmes for Parliamentary elections free of charge; andefto repeal the Broadcasting Act 1976; andgto provide for matters incidental thereto
 
@@ -644,274 +644,84 @@ The income of Te Reo Whakapuaki Irirangi shall be exempt from income tax.
 ### 68 Exception in respect of shareholding interests held immediately before 17 May 1989
 [Repealed]
 
-## Part 6 — Parliamentary election programmes
+## Part 6 — Electoral broadcasting
 
 ### 69 Interpretation
 (1) In this Part, unless the context otherwise requires,—
-  - **by-election** means a by-election within the meaning of section 3(1) of the Electoral Act 1993
-  - **candidate** has the meaning given to that term by section 3 of the Electoral Act 1993
-  - **constituency candidate** has the meaning given to that term by section 3 of the Electoral Act 1993
-  - **election** —
-    (a) means a general election; and
-    (b) includes, in sections 70, 79, 79A, 79C, and 80, a by-election
+  - **broadcaster** means—
+    (a) a television broadcaster:
+    (b) a radio broadcaster
+  - **broadcasting costs** , in relation to an election programme,—
+    (a) means the costs incurred in broadcasting the election programme; but
+    (b) does not include any production costs incurred in respect of that programme
+  - **candidate election programme** means an election programme referred to in section 70(3)
+  - **constituency candidate** has the meaning given to it by section 3(1) of the Electoral Act 1993, and includes a person who has declared his or her intention of becoming a constituency candidate
+  - **election** means—
+    (a) a general election:
+    (b) a by-election
   - **election period** , in relation to an election, means the period—
     (a) beginning with writ day; and
     (b) ending with the close of the day preceding polling day
-  - **election programme** means, subject to subsection (2), a programme that—
-    (a) encourages or persuades or appears to encourage or persuade voters to vote for a political party or the election of any person at an election; or
-    (b) encourages or persuades or appears to encourage or persuade voters not to vote for a political party or the election of any person at an election; or
-    (c) advocates support for a candidate or for a political party; or
-    (d) opposes a candidate or a political party; or
+  - **election programme** means a programme that—
+    (a) encourages or persuades, or appears to encourage or persuade, voters to vote for a party or the election of a constituency candidate; or
+    (b) encourages or persuades, or appears to encourage or persuade, voters not to vote for a party or the election of a constituency candidate; or
+    (c) advocates support for a constituency candidate or for a party; or
+    (d) opposes a constituency candidate or a political party; or
     (e) notifies meetings held or to be held in connection with an election
-  - **Electoral Commission** means the Electoral Commission established by section 4B of the Electoral Act 1993
-  - **free-to-air television broadcasting** means broadcasting of television programmes by means of radio waves propagated in space without artificial guide, where persons wishing to view programmes are not required to pay to do so
-  - **general election** means a general election within the meaning of the Electoral Act 1993
-  - **production costs** , in relation to an opening address or a closing address, includes the costs of linking between venues and broadcasting studios
-  - **Register** and means the Register of Political Parties established under section 62(2) of the Electoral Act 1993
-  - **RNZ** means Radio New Zealand Limited
-  - **TVNZ** means Television New Zealand Limited.
-(2) Notwithstanding section 2, for the purposes of the definition of the term election programme, the term programme includes visual images, whether or not combined with sounds, that consist predominantly of alphanumeric text.
+  - **party** means a political party
+  - **party election programme** means an election programme that is not a candidate election programme
+  - **production costs** , in relation to an election programme or election advertisement, means the costs incurred in the preparation, design, composition, and creation of the programme or advertisement (as the case may be)
+  - **programme** includes visual images, whether or not combined with sounds, that consist predominantly of alphanumeric text
+  - **publishing costs** , in relation to an election advertisement,—
+    (a) means the costs incurred in publishing an election advertisement; but
+    (b) does not include any production costs incurred in respect of that advertisement
+  - **Register of Political Parties** means the Register of Political Parties established under section 62(2) of the Electoral Act 1993.
+(2) In this Part, the following terms have the meanings given to them by section 3(1) of the Electoral Act 1993:
+  (a) by-election:
+  (b) candidate advertisement:
+  (c) election advertisement:
+  (d) Electoral Commission:
+  (e) general election:
+  (f) polling day:
+  (g) writ day.
 
 ### 69A Limited application of this Part to by-elections
-(1) Sections 70A to 77A do not apply in respect of by-elections.
-(2) If there is any inconsistency between subsection (1) and any other provision in this Part, subsection (1) prevails.
+[Repealed]
 
-### 70 Prohibition on paid election programmes
-(1) Except as provided in subsections (2) and (2A), no broadcaster shall permit the broadcasting, within or outside an election period, of an election programme.
-(2) Nothing in subsection (1) applies in respect of—
-  (a) an opening address or closing address that is broadcast—
-    (i) for a political party or group of related political parties; and
-    (ii) by TVNZ or RNZ during time allocated to that political party or group of related political parties under section 73(1); or
-  (b) an election programme broadcast for a political party or group of related political parties and paid for with money allocated to that political party or group of related political parties under section 74A; or
-  (c) an election programme—
-    (i) broadcast for a fee or other consideration; and
-    (ii) relating solely to 1 named constituency candidate at an election; and
-    (iii) used or appearing to be used to promote or procure the election of the candidate; and
-    (iv) broadcast by the candidate or with the candidate's authority within the election period; or
-  (d) any advertisement placed by the Electoral Commission, a Registrar of Electors, a Returning Officer, or other official for the purposes of the Electoral Act 1993; or
-  (e) any non-partisan advertisement broadcast, as a community service, by the broadcaster.
-(2A) Nothing in subsection (1) restricts the amount of money that a political party or group of related political parties may spend on the production costs of an election programme.
-(2B) Nothing in this Act derogates from section 206C of the Electoral Act 1993.
-(3) Nothing in subsection (1) restricts the broadcasting, in relation to an election, of news or of comments or of current affairs programmes.
-(4) For the purposes of subsection (2)﻿(c)﻿(ii), the term constituency candidate includes a person who has declared his or her intention of becoming a constituency candidate.
+**Provisions applying to broadcasters**
+
+### 70 Broadcasting election programmes
+(1) Except as provided in subsections (2) and (3), a broadcaster may not, at any time, broadcast an election programme.
+(2) A broadcaster may, for the purpose of a general election, broadcast an election programme if—
+  (a) the programme is promoted by a party or group of related parties; and
+  (b) the programme is broadcast during the election period; and
+  (c) the broadcasting costs are paid from money allocated to the party or group of related parties under section 79.
+(3) A broadcaster may, for the purposes of a general election or by-election, broadcast an election programme if that programme—
+  (a) is promoted by—
+    (i) a constituency candidate; or
+    (ii) a party with the authority of a constituency candidate; and
+  (b) relates solely to the constituency candidate at the election; and
+  (c) encourages or persuades, or appears to encourage or persuade, voters to vote for that candidate; and
+  (d) is broadcast during the election period for the election; and
+  (e) is broadcast for a fee that may, but need not, be paid from money allocated to a party or group of related parties under section 79.
+(4) Nothing in this section restricts—
+  (a) the broadcasting, in relation to an election, of news or comments or current affairs programmes; or
+  (b) the broadcasting of any non-partisan advertisement, as a community service, by a broadcaster.
 
 ### 70A Obligation of political parties to give notice to Electoral Commission
-(1) In every year in which a Parliament is due to expire, the Electoral Commission shall specify, by notice in the Gazette, a date by which any political party that considers that it will qualify for an allocation of time under section 73 or of money under section 74A, in respect of the election period that will apply in relation to the general election to be held in that year, must notify the Electoral Commission in writing that it considers itself to be so qualified.
-(2) The date specified under subsection (1) may be a date before the beginning of the election period.
-(3) Each political party that considers that it will qualify for an allocation of time under section 73 or of money under section 74A in respect of an election period shall notify the Electoral Commission in writing that it considers itself to be so qualified.
+[Repealed]
 
 ### 70B Time by which notice must be given
-Every notice given under section 70A(3) must be given not later than the date specified under section 70A(1).
+[Repealed]
 
 ### 70C Particulars of notice
-Every notice given under section 70A(3) shall state, among other things,—
-  (a) the full name of the political party; and
-  (b) the name and address of the person providing the notice and the capacity in which he or she provides the notice; and
-  (c) where the person providing the notice is not the Secretary of the political party, the name and address of the Secretary of the political party; and
-  (d)
-  (e) details of any relationships that may exist between that political party and any other political parties in New Zealand that the Electoral Commission may need to take into account in allocating time or money to political parties; and
-  (f) either—
-    (i) that the party is registered on the Register of Political Parties; or
-    (ii) that the party is intending to apply for registration on the Register of Political Parties in order to be registered at the date of dissolution or expiry of Parliament; and
-  (g) whether or not the political party intends to submit a list under section 127 of the Electoral Act 1993 for the general election to be held in that year.
+[Repealed]
 
 ### 70D Persons deemed to be candidates
 [Repealed]
 
-### 71 Opening addresses and closing addresses to be broadcast free
-(1) TVNZ and RNZ must each provide time, free of charge, for the broadcasting, in an election period, of the opening addresses and closing addresses of political parties.
-(2) TVNZ must broadcast opening addresses and closing addresses on 1 free-to-air channel with national coverage.
-(3) RNZ must broadcast opening addresses and closing addresses on the service known as National Radio.
-(4) Opening addresses and closing addresses must be broadcast in accordance with section 77A (which sets out when, and at what time, opening addresses and closing addresses are to be broadcast, and certain other provisions relating to the broadcasting of opening addresses and closing addresses).
-
-### 71A Electoral Commission to ascertain time available for opening addresses and closing addresses
-(1) During the term of each Parliament, or as soon as practicable after a Parliament is dissolved or expires, the Electoral Commission must require TVNZ and RNZ to supply a statement of the amount of time that each of them will provide, free of charge, for the broadcasting of the opening addresses and closing addresses of political parties at the next election.
-(2) The statement must be supplied to the Electoral Commission within such reasonable time as the Electoral Commission specifies. The Electoral Commission may at any time shorten or extend that deadline, whether before or after it has expired.
-(3) A statement provided in accordance with this section—
-  (a) may include proposals for the allocation, to political parties, of the time that will be provided for the broadcasting of opening addresses and closing addresses; and
-  (b) must state any conditions proposed in relation to the scheduling and duration of opening addresses and closing addresses within the time that the broadcaster will provide.
-(4) In making proposals under subsection (3)﻿(a), TVNZ or RNZ, as the case requires, must have regard to the provisions of section 75.
-
-### 72 Electoral Commission to refer statements to political parties
-(1) As soon as practicable after receiving statements from TVNZ and RNZ in accordance with section 71A, the Electoral Commission must give a copy of those statements to—
-  (a) each political party that has given a notice to the Electoral Commission under section 70A(3); and
-  (b) the Minister of Justice.
-(2) The Electoral Commission must ensure, as far as practicable, that each of the intended recipients receives copies of the statements on the same day.
-
-### 72A Limits on amount of time
-[Repealed]
-
-### 72B Radio election programmes confined to broadcasting stations that broadcast advertising programmes
-[Repealed]
-
-### 73 Allocation of time to political parties
-(1) In respect of each election period, the Electoral Commission must allocate to political parties, in such proportions as the Electoral Commission considers appropriate, the time that TVNZ and RNZ have made available for opening addresses and closing addresses in accordance with section 71A.
-(2) In allocating time to political parties under subsection (1), the Electoral Commission—
-  (a) must consider whether any proposals made under section 71A(3)﻿(a) for the allocation of broadcasting time can be adopted either in full or with modifications specified by the Electoral Commission; and
-  (b) must modify proposals made under section 71A(3)﻿(a) if, in the opinion of the Electoral Commission, the proposals are not consistent with the provisions of section 75.
-(3) The Electoral Commission must not allocate any time to an individual political party under this section if that political party has received an allocation of time under this section as part of a group of related political parties.
-(4) This section is subject to sections 75, 75A, and 76.
-
-### 73A Obligation of political parties to give notice to Authority
-[Repealed]
-
-### 74 Amount of public money to be allocated to political parties
-(1) The Minister of Justice shall notify the Electoral Commission, in respect of each election period, of the amount of money appropriated by Parliament for the purpose of enabling political parties to meet all or part of the costs of broadcasting election programmes.
-(2) Where a general election takes place after the year 1990, an amount of money equal to the amount of public money allocated under section 74A or section 77A in respect of the broadcasting of election programmes at the immediately preceding general election shall, unless an Act of Parliament expressly provides otherwise, be deemed to have been appropriated by Parliament for the purpose of enabling political parties to meet all or part of the costs of broadcasting election programmes at the first-mentioned general election.
-(3) Where an amount of money is deemed by subsection (2) to have been appropriated by Parliament for the purpose specified in that subsection, that amount shall be payable out of public money for that purpose without further appropriation than this subsection.
-
-### 74A Allocation of money to political parties
-(1) The Electoral Commission shall, in respect of each election period, decide the allocation to political parties of the amount of any money appropriated by Parliament, or deemed to have been appropriated by Parliament, for the purpose of enabling political parties to meet all or part of the costs of broadcasting election programmes during that election period.
-(2) The decision made under subsection (1)—
-  (a) shall set out the allocations (which shall be in such proportions as the Electoral Commission thinks fit); and
-  (b) may include conditions concerning the manner in which any political party is to expend its allocation.
-(3) Conditions included in a decision pursuant to subsection (2)﻿(b) may include conditions requiring the political party or group of related political parties to advise the Electoral Commission of the value of election programme bookings made by the political party or group of related political parties.
-(4) Where the Electoral Commission decides under subsection (1) to allocate a sum of money to a political party, the Electoral Commission shall supply a copy of its decision to—
-  (a) that political party; and
-  (b) the Secretary for Justice.
-(5) The Electoral Commission shall not under this section allocate any money to an individual political party if that political party has received an allocation of money under this section as part of a group of related political parties.
-
-### 74B Application and payment of allocation
-(1) Every political party to which an amount of money is allocated under section 74A—
-  (a) shall expend that money only for the purpose of meeting—
-    (i) the production costs of any election programme broadcast by the political party during the election period; or
-    (ii) the cost of the broadcasting time of any election programme broadcast by the political party during the election period; and
-  (b) shall, in expending that money for the purpose specified in paragraph (a), observe any conditions imposed by the Electoral Commission under section 74A.
-(2) Every political party to which an amount of money is allocated under section 74A must ensure that the Electoral Commission receives, no later than 50 working days after the end of the month in which the election was held,—
-  (a) all accounts issued to the political party in respect of the expenditure by that political party of its allocation; and
-  (b) any information in relation to those accounts that the Electoral Commission requires.
-(2A) No account that is received by the Electoral Commission from a political party after the end of the period specified in subsection (2) may be paid by the Electoral Commission, either in part or in full, from the amount of money allocated to that party under section 74A.
-(3) Any account submitted to the Electoral Commission under subsection (2) may be in respect of—
-  (a) the production costs of any election programme broadcast by the political party during the election period; or
-  (b) the cost of the broadcasting time of any election programme broadcast by the political party during the election period; or
-  (c) both.
-(4) When the Electoral Commission is satisfied in relation to any account that the account or any part of the account should be paid, the Electoral Commission shall, out of money appropriated by Parliament, or deemed to have been appropriated by Parliament, for the purpose of enabling political parties to meet all or part of the costs of broadcasting election programmes during the election period, pay to the person who issued the account the amount approved by the Electoral Commission for payment.
-(5) An amount of money that has been allocated to a political party under section 74A on or after the commencement of the Broadcasting Amendment Act 2004 and that is not paid out under subsection (4) must be repaid by the Electoral Commission to the Crown.
-
-### 75 Criteria in relation to allocation of time and money to political parties
-(1) The Electoral Commission must not allocate any time to a political party under section 73, or make an allocation of money to a political party under section 74A, in respect of an election unless—
-  (a) that party was registered on the Register of Political Parties at the time of the dissolution of Parliament for the election or, as the case requires, at the time that Parliament expired; and
-  (b) that party has given to the Electoral Commission, in relation to that election, a notice that complies with the requirements of sections 70A(3), 70B, and 70C.
-(2) The Electoral Commission shall, in allocating time to a political party under section 73 or in making under section 74A an allocation of money to a political party, have regard to—
-  (a) the number of persons who voted at the immediately preceding general election for that party and for candidates belonging to that political party; and
-  (b) the number of persons who voted at any by-election held since the immediately preceding general election for any candidate belonging to that political party; and
-  (c) the number of members of Parliament who were members of that political party immediately before the dissolution or expiration of Parliament; and
-  (d) any relationships that exist between a political party and any other political party; and
-  (e) any other indications of public support for that political party such as the results of public opinion polls and the number of persons who are members of that political party; and
-  (f) the need to provide a fair opportunity for each political party to which subsection (1) applies to convey its policies to the public by the broadcasting of election programmes on television.
-(3) Despite anything in subsection (1) or subsection (2), an allocation of time to a political party made under section 73 in respect of an election period, or a decision made under section 74A in respect of an election period, may be made before the beginning of the election period.
-
-### 75A Consultation with broadcasters
-(1) The Electoral Commission must not allocate time under section 73 or make an allocation of money under section 74A, or make a determination under section 77A(5)﻿(a), unless—
-  (a) the Electoral Commission has—
-    (i) consulted with those broadcasters that are likely to be affected by the allocation or determination; and
-    (ii) provided those broadcasters with the opportunity to give the Electoral Commission their comments on the proposed allocation or determination; and
-  (b) the Electoral Commission has considered those comments (if any).
-(2) If the Electoral Commission adopts in full, under section 73, a proposal made by TVNZ or RNZ under section 71A(3)﻿(a), the Electoral Commission is not required by subsection (1) to consult with that broadcaster.
-(3) If, after complying with subsection (1), the Electoral Commission later modifies an allocation or a determination, the Electoral Commission does not have to provide any broadcaster with a further opportunity to comment on the modified allocation or determination.
-(4) The failure of any broadcaster to make use of the opportunity to consult with, or to give comments to, the Electoral Commission under subsection (1), or to comply with any other request of the Electoral Commission,—
-  (a) does not prevent the Commission making—
-    (i) an allocation of time under section 73; or
-    (ii) an allocation of money under section 74A; or
-    (iii) a determination under section 77A(5)﻿(a); and
-  (b) does not affect the validity of any allocation or determination made under any of those sections.
-
-### 76 Consultation with political parties
-(1) The Electoral Commission must comply with subsection (2)—
-  (a) before allocating time to a political party under section 73; and
-  (b) before allocating any money under section 74A; and
-  (c) before making any determination under section 77A(5)﻿(a).
-(2) Before doing any of the things referred to in subsection (1), the Electoral Commission must grant to every political party that has given a notice to the Electoral Commission under section 70A(3) the opportunity to meet with and be heard by the Electoral Commission.
-(3) If, after complying with subsection (2), the Electoral Commission later modifies an allocation or a determination, the Electoral Commission does not have to provide any political party with any further opportunity to meet with and be heard by the Electoral Commission.
-(4) The failure of any political party to make use of the opportunity to meet with and be heard by the Electoral Commission under subsection (2), or to comply with any other request of the Electoral Commission,—
-  (a) does not prevent the Commission making—
-    (i) an allocation of time under section 73; or
-    (ii) an allocation of money under section 74A; or
-    (iii) a determination under section 77A(5)﻿(a); and
-  (b) does not affect the validity of any allocation or determination made under any of those sections.
-
-### 76A Power of Electoral Commission to vary allocations
-(1) If, after any allocation is made under section 73 or section 74A,—the Electoral Commission may, subject to subsection (4), vary the allocation under section 73 or section 74A, as the case may require.
-  (a) a broadcaster in respect of which an allocation of time has been made ceases to be a broadcaster; or
-  (b) a political party does not accept any allocation of time under section 73 or any allocation of money under section 74A; or
-  (c) the party ceases to be registered; or
-  (d) the party fails to submit a list of candidates for election to the seats reserved for those members of Parliament elected from lists pursuant to section 127 of the Electoral Act 1993; or
-  (da) the party fails to comply with any conditions imposed by the Electoral Commission under section 74A(2)﻿(b) requiring the political party or group of related political parties to advise the Electoral Commission of the value of election programme bookings made by the political party or group of related parties; or
-  (e) the relationship of the party with any other political party has changed to a significant extent; or
-  (f)
-(2) The varying of any allocation pursuant to this section shall not require the Electoral Commission to grant to any political party the opportunity to meet with and be heard by the Electoral Commission.
-(3) The Electoral Commission shall, in varying any allocation pursuant to this section, have regard to—
-  (a) the views of political parties received by the Electoral Commission in the course of consultations undertaken in accordance with section 76; and
-  (b) such of the matters referred to in sections 73, 74A, and 75, as the case may require.
-(4) Where effect has been given in whole or in part to an allocation made under section 73 or section 74A to a political party, the Electoral Commission shall not vary the allocation pursuant to this section unless—
-  (a) the registration of that political party is cancelled under section 70 of the Electoral Act 1993; or
-  (b) the secretary of a political party has failed to submit a list of candidates for election under section 127 of the Electoral Act 1993.
-  (c)
-
-### 76B Recovery of money from political party
-(1) Where effect has been given in whole or in part to an allocation made under section 74A and the Electoral Commission, acting under section 76A, varies that allocation, the Electoral Commission may determine that the whole or part of the money paid by or on behalf of the political party or to the political party as a result of that allocation be repaid to the Crown by the political party.
-(2) Where the Electoral Commission makes a determination under subsection (1),—
-  (a) the Electoral Commission shall give a copy of that determination to both the political party and the Secretary for Justice; and
-  (b) the Secretary for Justice may recover from the political party as a debt due to the Crown the amount specified in the determination as being repayable to the Crown by the political party.
-
-### 76C Procedure in relation to early elections
-(1) This section applies if, at the time Parliament is dissolved or expires, either—
-  (a) the Electoral Commission has not specified a date under section 70A(1) in respect of the election period that will apply in relation to the next general election; or
-  (b) the Electoral Commission has specified such a date, but that date has not yet passed.
-(2) If this section applies,—
-  (a) this Part applies subject to the modifications specified in section 76D; and
-  (b) any notice given by the Electoral Commission under section 70A(1) must be disregarded.
-
-### 76D Modifications to application of this Part if section 76C applies
-(1) At the earliest available opportunity, the Electoral Commission must specify, by notice in the Gazette, a date by which any political party that considers it will qualify for an allocation of time under section 73 or of money under section 74A, in respect of the election period that will apply in relation to the general election, must notify the Electoral Commission that it considers itself to be so qualified.
-(2) Each political party that considers it will qualify for an allocation of time under section 73 or of money under section 74A must notify the Electoral Commission, by any means that the party considers appropriate, that it considers itself to be so qualified.
-(3) For the purposes of subsection (2) and despite section 75(1), a party is eligible for an allocation of time under section 73 or of money under section 74A if—
-  (a) that party was registered on the Register of Political Parties at the time of the dissolution of Parliament for the election or, as the case requires, at the time that Parliament expired; and
-  (b) no later than the date specified under subsection (1), that party gives to the Electoral Commission, in relation to the election, a notice that complies with the requirements of subsection (4).
-(4) The requirements referred to in subsection (3)﻿(b) are—
-  (a) the notice must comply with the requirements of subsection (2):
-  (b) the notice must comply with the requirements of paragraphs (a), (b), (c), (e), and (g) of section 70C.
-(5) The Electoral Commission may set, for the consultation required under section 75A(1)﻿(a), any time period that is reasonable in the circumstances.
-(6) The Electoral Commission may require any political party that wishes to make use of the opportunity to meet with and be heard by the Electoral Commission under section 76(2) to make use of that opportunity within any reasonable period of time that the Electoral Commission specifies.
-
-### 77 Broadcasting of opening addresses and closing addresses
-(1) TVNZ and RNZ must act in accordance with the allocations of time under section 73 applying to them.
-(2) Subsection (3) applies if there is a dispute between any of the following concerning the time at which any election programme is to be broadcast free of charge:
-  (a) any broadcaster and any political party; or
-  (b) any broadcaster and any other broadcaster; or
-  (c) any political party and any other political party.
-(3) If there is a dispute,—
-  (a) the Electoral Commission is to decide the matter in dispute; and
-  (b) the Electoral Commission's decision is final.
-
-### 77A Opening addresses and closing addresses
-(1) Opening addresses and closing addresses for which time has been allocated to political parties under section 73 must be broadcast between 7 pm and 9 pm.
-(2) All closing addresses must be broadcast on the same night in the last week of the election period.
-(3) An advertising programme must not be broadcast—
-  (a) during an opening address:
-  (b) during a closing address:
-  (c) between different closing addresses.
-(4) An election programme that is not an opening address or a closing address must not be broadcast—
-  (a) during an opening address:
-  (b) between different opening addresses that are broadcast on the same night:
-  (c) during a closing address:
-  (d) between different closing addresses.
-(5) The Electoral Commission must—
-  (a) determine each amount to be paid to TVNZ or RNZ on account of the production costs of every opening address and every closing address broadcast under section 71; and
-  (b) pay that amount to the person who issued the account for the production costs of the opening address or closing address.
-(6) Each amount paid under subsection (5)﻿(b) must be paid out of public money appropriated by Parliament (or deemed by section 74(2) to have been appropriated by Parliament) for the purpose specified in section 74(1).
-
-### 77B Duration of television programmes
-[Repealed]
-
-### 78 Simulcasting of free-to-air television programmes
-[Repealed]
-
-### 79 Programme standards in relation to election programmes
-Nothing in section 4(1)﻿(d) applies in relation to an election programme broadcast pursuant to this Part.
-
-### 79A Hours during which election programmes prohibited
-(1) No broadcaster shall broadcast election programmes on television—
+### 71 Hours during which broadcast of election programmes prohibited
+(1) A television broadcaster may not broadcast election programmes—
   (a) during the hours between 6 am and noon on—
     (i) Sunday; or
     (ii) Anzac Day; or
@@ -919,37 +729,220 @@ Nothing in section 4(1)﻿(d) applies in relation to an election programme broad
     (i) Christmas Day; or
     (ii) Good Friday; or
     (iii) Easter Sunday.
-(2) No broadcaster shall broadcast election programmes on sound radio on—
+(2) A radio broadcaster may not broadcast election programmes on—
   (a) Christmas Day; or
   (b) Good Friday; or
   (c) Easter Sunday.
 
+### 71A Electoral Commission to ascertain time available for opening addresses and closing addresses
+[Repealed]
+
+### 72 Obligation to give identical terms to each party or constituency candidate
+(1) A broadcaster may not offer or give to any party terms for broadcasting time that are more favourable than those offered or given to any other party that buys, or expresses an interest in buying, comparable time from that broadcaster.
+(2) A broadcaster may not offer or give to any constituency candidate terms for broadcasting time that are more favourable than those offered or given to any other constituency candidate who buys, or expresses an interest in buying, comparable time from that broadcaster.
+
+### 72A Limits on amount of time
+[Repealed]
+
+### 72B Radio election programmes confined to broadcasting stations that broadcast advertising programmes
+[Repealed]
+
+### 73 Programme standards in relation to election programmes
+Section 4(1)﻿(d) does not apply in relation to an election programme broadcast under this Part.
+
+### 73A Obligation of political parties to give notice to Authority
+[Repealed]
+
+**Funding for election programmes and election advertisements in relation to general election**
+
+### 74 Public money to be appropriated for funding election programmes and election advertising in relation to general election
+(1) In relation to each general election, the Minister of Justice must give notice to the Electoral Commission of the amount of money appropriated by Parliament for the purpose of enabling parties to fund—
+  (a) all of the broadcasting costs incurred in relation to the broadcast of party election programmes; and
+  (b) all or part of the broadcasting costs incurred in relation to the broadcast of candidate election programmes; and
+  (c) all or part of the production costs, whenever incurred, in relation to—
+    (i) party election programmes; and
+    (ii) candidate election programmes; and
+  (d) all or part of the publishing costs incurred in relation to the publication of election advertisements on the Internet during the election period; and
+  (e) all or part of production costs, whenever incurred, in relation to election advertisements published on the Internet—
+    (i) during the election period; or
+    (ii) before and during the election period.
+(2) The Electoral Commission must decide, under section 79, how the amount in subsection (1) is to be allocated to parties.
+(3) For a general election that takes place after 2017 (a subsequent general election), an amount of money equal to the amount of public money allocated under section 79 at the immediately preceding general election must, unless an Act of Parliament expressly provides otherwise, be deemed to have been appropriated by Parliament for the purposes of enabling parties to fund the costs specified in subsection (1) incurred in relation to the subsequent general election.
+(4) An amount of money deemed by subsection (3) to have been appropriated by Parliament for the purposes specified in that subsection is payable out of public money for those purposes without further appropriation than this section.
+
+### 74A Allocation of money to political parties
+[Repealed]
+
+### 74B Application and payment of allocation
+[Repealed]
+
+### 75 Electoral Commission to set date for parties to notify qualification for allocation
+(1) In every year in which Parliament is due to expire, the Electoral Commission must specify, by notice in the Gazette, a date by which a party must notify the Electoral Commission that it considers itself qualified to receive an allocation of the money referred to in section 74.
+(2) The date specified under subsection (1) may be a date before the beginning of the election period that will apply in relation to the general election to be held in that year.
+
+### 75A Consultation with broadcasters
+[Repealed]
+
+### 76 Parties to give notice of qualification
+(1) A party that considers it will be qualified under section 78(1)﻿(b) to receive an allocation of the money referred to in section 74 must provide to the Electoral Commission a notice of qualification.
+(2) A notice must—
+  (a) be in writing; and
+  (b) be provided to the Electoral Commission no later than the date specified under section 75(1).
+(3) A notice must include—
+  (a) the full name of the party; and
+  (b) the contact details of the person providing the notice and the capacity in which he or she provides the notice; and
+  (c) the contact details of the secretary of the party, if the secretary is not providing the notice; and
+  (d) a statement that—
+    (i) the party is registered on the Register of Political Parties; or
+    (ii) the party has applied for registration on the Register of Political Parties; or
+    (iii) the party intends to apply for registration on the Register of Political Parties so as to be registered on that register at the date of dissolution or expiry of Parliament; and
+  (e) details of any relationships that may exist between the party and any other party in New Zealand that the Electoral Commission may need to take into account in allocating money to political parties; and
+  (f) whether the party intends to submit a list under section 127 of the Electoral Act 1993 for the general election to be held in that year.
+
+### 76A Power of Electoral Commission to vary allocations
+[Repealed]
+
+### 76B Recovery of money from political party
+[Repealed]
+
+### 76C Procedure in relation to early elections
+[Repealed]
+
+### 76D Modifications to application of this Part if section 76C applies
+[Repealed]
+
+### 77 Consultation with parties
+(1) Before making any allocation of the money referred to in section 74, the Electoral Commission must give to every party that has provided a notice under section 76 the opportunity to—
+  (a) meet with the Electoral Commission; and
+  (b) be heard by the Electoral Commission.
+(2) The failure of a party to make use of an opportunity afforded under subsection (1), or to comply with any request of the Electoral Commission, does not—
+  (a) prevent the Electoral Commission from making an allocation of money; or
+  (b) affect the validity of any allocation of money made, or not made, to a party.
+
+### 77A Opening addresses and closing addresses
+[Repealed]
+
+### 77B Duration of television programmes
+[Repealed]
+
+### 78 Criteria for allocating money to party
+(1) A party may only receive an allocation of the money referred to in section 74 if the party—
+  (a) has provided to the Electoral Commission a notice in accordance with section 76; and
+  (b) was registered on the Register of Political Parties at the time of the dissolution or expiry of Parliament.
+(2) In allocating money to a party, the Electoral Commission must have regard to—
+  (a) the number of persons who voted at the immediately preceding general election for that party and for candidates belonging to that party; and
+  (b) the number of persons who voted at any by-election held since the immediately preceding general election for any candidate belonging to that party; and
+  (c) the number of members of Parliament who were members of that party immediately before the dissolution or expiration of Parliament; and
+  (d) any relationships that exist between a party and any other party; and
+  (e) any other indications of public support for that party, such as the results of public opinion polls and the number of persons who are members of that party; and
+  (f) the need to provide a fair opportunity for each party to which subsection (1) applies to convey its policies to the public by the broadcasting of election programmes on television.
+
+### 79 Allocation decision
+(1) The Electoral Commission’s decision on how the money referred to in section 74 is to be allocated to parties—
+  (a) must set out the allocations (which must be in any proportions that the Electoral Commission thinks fit); and
+  (b) may include conditions as to the manner in which a party is to spend its allocation.
+(2) An allocation may be made to a group of related parties.
+(3) An allocation may not be made to an individual party if that party is to receive an allocation as part of a group of related parties.
+(4) A condition included in a decision under subsection (1)﻿(b) may require a party to advise the Electoral Commission of the value of election programme bookings made by the party.
+(5) If the Electoral Commission decides to allocate money to a party, the Electoral Commission must give a copy of its decision to—
+  (a) the party secretary; and
+  (b) the Secretary for Justice.
+(6) A decision under this section may be made—
+  (a) before the beginning of the relevant election period; or
+  (b) during the relevant election period.
+
+### 79A Hours during which election programmes prohibited
+[Repealed]
+
 ### 79B Obligation to give identical terms to each political party or candidate
-(1) No broadcaster shall offer or give to any political party terms for broadcasting time that are more favourable than those offered or given to any other political party that buys or expresses an interest in buying comparable time from that broadcaster.
-(2) No broadcaster shall offer or give to any candidate terms for broadcasting time that are more favourable than those offered or given to any other candidate who buys or expresses an interest in buying comparable time from that broadcaster.
+[Repealed]
 
 ### 79C Returns in relation to broadcasting time
-(1) After each election, every broadcaster must give the Electoral Commission a complete and accurate written statement of the election programmes broadcast by that broadcaster during the 3-month period immediately preceding polling day for the election.
-(2) The statement must be given to the Electoral Commission no later than 10 working days after the end of the month in which the election was held.
-(3) The statement must set out the following information in relation to each election programme:
-  (a) the candidate or political party for whom the election programme was broadcast:
-  (b) the length of the election programme and the time at which it was broadcast:
-  (c) the date on which the election programme was broadcast:
-  (d) the amount paid for the broadcasting of the election programme, and the rate or rates by which that amount was fixed.
-(4) The statement must be signed by or on behalf of the broadcaster.
+[Repealed]
 
 ### 79D Returns to be available for public inspection
-The Electoral Commission must, not later than 3 working days after it receives a statement under section 79C, make the statement available for public inspection, without payment, at any time between 9 am and 5 pm, on any day on which the office of the Electoral Commission is open.
+[Repealed]
 
-### 80 Offences
-Every person commits an offence and is liable on conviction to a fine not exceeding $100,000 who—other than pursuant to, and in conformity with, this Part.
-  (a) fails to comply with section 70 or section 77(1) or section 79A or section 79B or section 79C; or
-  (b) in an election period,—
-    (i) broadcasts an election programme for or on behalf of a political party; or
-    (ii) arranges for the broadcasting of an election programme for or on behalf of a political party—
+### 80 Electoral Commission may vary allocation
+(1) The Electoral Commission may vary a decision made under section 79 if a party to which an amount of money is allocated—
+  (a) does not accept that allocation; or
+  (b) ceases to be registered; or
+  (c) fails to submit a list of candidates for election under section 127 of the Electoral Act 1993; or
+  (d) fails to comply with any conditions imposed by the Electoral Commission under section 79(1)﻿(b).
+(2) The Electoral Commission may also vary a decision made under section 79 if there has been a significant change in the relationship between a party that has received an allocation of money and any other party.
+(3) The Electoral Commission may vary a decision made under section 79 without affording to any party the opportunity to—
+  (a) meet with the Electoral Commission; or
+  (b) comment on the proposed variation.
+(4) In varying a decision made under section 79, the Electoral Commission must have regard to—
+  (a) the views of parties received in the course of consultations undertaken in accordance with section 77; and
+  (b) the matters specified in sections 78 and 79(3).
+(5) If an allocation of money made to a party has been spent (in whole or in part), the Electoral Commission must not vary that allocation unless—
+  (a) the registration of the party is cancelled under section 70 of the Electoral Act 1993; or
+  (b) the party secretary has failed to submit a list of candidates for election under section 127 of the Electoral Act 1993.
 
-### 80A Duty to report suspected offences
-Where the Electoral Commission believes that any person has committed an offence against section 80, the Electoral Commission must report to the Police the facts upon which that belief is based.
+### 80A How allocation may be used
+(1) A party or group of related parties that receives an allocation under section 79(1)﻿(a)—
+  (a) may only use that money for the purposes specified in section 74(1); and
+  (b) must comply with any conditions imposed under section 79(1)﻿(b).
+(2) Nothing in this Part restricts the amount of money that a party or group of related parties may spend, subject to the expenditure limitations prescribed by or under the Electoral Act 1993, on—
+  (a) broadcasting costs in relation to candidate election programmes; or
+  (b) publication costs in relation to election advertisements; or
+  (c) production costs in relation to—
+    (i) party election programmes; or
+    (ii) candidate election programmes; or
+    (iii) election advertisements.
+
+### 80B Payment of allocation
+(1) A party to which an amount of money is allocated under section 79 must ensure that the Electoral Commission receives, no later than 50 working days after the end of the month in which the election was held,—
+  (a) all accounts issued to the party in respect of the expenditure by that party of its allocation; and
+  (b) any information in relation to those accounts that the Electoral Commission requires.
+(2) No account that the Electoral Commission receives from a party after the end of the period specified in subsection (1) may be paid by the Electoral Commission, either in part or in full, from the amount of money allocated to that party under section 79.
+(3) When the Electoral Commission is satisfied that any account or a part of any account should be paid, the Electoral Commission must, from the money it received under section 74(1), pay to the person who issued the account the amount approved by the Electoral Commission for payment.
+(4) An amount of money that has been allocated to a party under section 79 and that is not paid out under subsection (3) must be repaid by the Electoral Commission to the Crown.
+
+### 80C Apportionment of publishing costs incurred in relation to election advertisements published both before and during election period
+(1) This section applies if an election advertisement is published for a party or a candidate on the Internet both before the commencement of the election period and during the election period.
+(2) If this section applies, only the publishing costs attributable to the publication of the election advertisement during the election period are payable from money allocated under section 79.
+
+### 80D Cost funded from party allocation not party election expense
+(1) Any cost specified in section 74(1) that is paid by the Electoral Commission from the amount of money allocated to a party under section 79 is not an election expense of the party that must be included by the party in its return of election expenses under section 206I of the Electoral Act 1993.
+(2) However, any cost specified in section 74(1) incurred in relation to an election programme or election advertisement that is paid by the Electoral Commission from the amount of money allocated to a party under section 79 is,—
+  (a) to the extent that programme or advertisement is a candidate election programme or candidate advertisement, a candidate donation that must be included by the candidate in his or her return of donations under section 209 of the Electoral Act 1993; and
+  (b) to the extent that programme or advertisement is a candidate advertisement, an election expense of a candidate that must be included by the candidate in his or her return of election expenses under section 205K of the Electoral Act 1993.
+
+### 80E Return of party’s allocation expenses
+A party secretary must file with the Electoral Commission under section 206IA of the Electoral Act 1993 a return of expenses incurred by the party that have been funded from the party’s allocation.
+
+### 80F Recovery of money from party
+(1) Where effect has been given in whole or in part to an allocation made under section 79 and the Electoral Commission, acting under section 80, varies that allocation, the Electoral Commission may determine that all or part of the money paid on behalf of a party as a result of that allocation be repaid to the Crown by the party.
+(2) Where the Electoral Commission makes a determination under subsection (1),—
+  (a) the Electoral Commission must give a copy of that determination to both the party secretary and the Secretary for Justice; and
+  (b) the Secretary for Justice may recover from the party as a debt due to the Crown the amount specified in the determination as being repayable to the Crown by the party.
+
+### 80G Procedure in relation to early elections
+(1) This section applies if, at the time Parliament is dissolved or expires,—
+  (a) the Electoral Commission has not specified a date under section 75 in respect of the election period that will apply in relation to the next general election; or
+  (b) the Electoral Commission has specified such a date, but that date has not yet passed.
+(2) If this section applies, this Part applies subject to the modifications specified in section 80H.
+
+### 80H Modification to application of this Part if section 80G applies
+If section 80G applies,—
+  (a) section 75(1) applies as if the words In every year in which Parliament is due to expire were replaced with At the earliest available opportunity; and
+  (b) section 76(3) applies as if paragraph (d) were replaced with the words a statement that the party was registered on the Register of Political Parties at the time of the dissolution or expiry of Parliament (as the case may be); and; and
+  (c) the Electoral Commission may set, for the consultation required under section 77, any time that is reasonable in the circumstances.
+
+**Offences**
+
+### 80I Offences relating to broadcasting
+A person commits an offence and is liable on conviction to a fine not exceeding $100,000 if the person—
+  (a) fails to comply with—
+    (i) section 70; or
+    (ii) section 71; or
+    (iii) section 72; or
+  (b) in an election period, arranges for the broadcasting of an election programme for or on behalf of a political party that is contrary to section 70.
+
+### 80J Duty to report suspected offences
+If the Electoral Commission believes that any person has committed an offence against section 80I, the Electoral Commission must report to the New Zealand Police the facts upon which that belief is based.
 
 ## Part 7 — Miscellaneous provisions
 
