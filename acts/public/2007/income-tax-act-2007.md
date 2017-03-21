@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2017-02-21_
+_Consolidation as at 2017-03-21_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -2610,6 +2610,14 @@ When this section applies
 Income
 (2) The amount calculated under section FE 7(2) is treated as income of the reporting bank for the income year in which the measurement period falls.
 
+**Expenditure other than for entities’ purposes**
+
+### CH 11 Te Awa Tupua and Te Pou Tupua
+When this section applies
+(1) This section applies when Te Pou Tupua, as defined in the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017, incurs an amount of expenditure in an income year for a purpose outside the scope and effect of Part 2 of that Act.
+Income: amount of expenditure
+(2) Te Pou Tupua derives income in the income year equal to the amount of the expenditure.
+
 ### Subpart CO — Income from voluntary activities
 
 ### CO 1 Income from voluntary activities
@@ -4054,6 +4062,10 @@ Exempt income
 (1) To the extent to which it is applied for the purposes set out in the Te Urewera Act 2014, income derived by Te Urewera Board is exempt income.
 Definition
 (2) In this section, Te Urewera Board has the meaning given in section 7 of that Act.
+
+### CW 40C Te Pou Tupua
+(1) An amount of income derived by Te Pou Tupua (as defined in the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017) is exempt income.
+(2) However, subsection (1) does not apply for an amount of income under section CH 11 (Te Awa Tupua and Te Pou Tupua).
 
 ### CW 41 Charities: non-business income
 Exempt income
