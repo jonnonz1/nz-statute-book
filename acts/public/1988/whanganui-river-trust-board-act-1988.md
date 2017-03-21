@@ -1,5 +1,5 @@
 # Whanganui River Trust Board Act 1988
-_Consolidation as at 2011-09-16_
+_Consolidation as at 2017-03-21_
 
 > An Act to establish the Whanganui River Maori Trust Board
 
