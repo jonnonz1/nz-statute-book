@@ -1,5 +1,5 @@
 # Stamp and Cheque Duties Act 1971
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-03-30_
 
 > An Act to consolidate and amend the law relating to stamp duties
 
@@ -332,14 +332,24 @@ In this Part, unless the context otherwise requires,—
   - **leviable value** means, in respect of any registered security at the time of any payment of interest in respect of that registered security, the amount of that payment of interest
   - **money lent** has the meaning assigned to that term by section YA 1 of the Income Tax Act 2007; and has a corresponding meaning
   - **paid** and each has the meaning corresponding to paragraph (a) of the definition of pay in section YA 1 of the Income Tax Act 2007
-  - **registered security** means at any time any transaction involving money lent to an approved issuer that is—
-    (a) registered by the Commissioner under section 86H on the application of the approved issuer; or
-    (b) one of a class of transactions so registered.
+  - **registered security** means—
+    (a) at any time any transaction involving money lent to an approved issuer that is—
+      (i) registered by the Commissioner under section 86H on the application of the approved issuer; or
+      (ii) one of a class of transactions so registered; or
+    (b) a transaction involving money lent to an approved issuer that is treated by the Commissioner as a registered security because the approved issuer has paid interest under the transaction, and—
+      (i) the transaction is a notional loan under section FG 2 of the Income Tax Act 2007, and NRWT was not withheld from the interest under section RF 3 of that Act; or
+      (ii) an amount of the interest was apportioned to a New Zealand source under section YD 5(4) of the Income Tax Act 2007, and NRWT was not withheld from the amount under section RF 3 of that Act.
 
 ### 86G Application to register securities
 Any approved issuer may apply to the Commissioner, in writing and in such form as the Commissioner may approve, for registration of—as a registered security or registered securities for the purposes of this Part.
   (a) any transaction involving money lent to that approved issuer; or
   (b) any class of transactions involving money lent to that approved issuer—
+
+### 86GB Treatment of approved issuer levy when prepayments or transfer pricing adjustment made
+(1) A person may apply to the Commissioner for a refund of an amount of approved issuer levy if and to the extent to which—
+  (a) the levy is, or has been, paid by a person in relation to an amount that is treated as paid under section RZ 13(2) of the Income Tax Act 2007:
+  (b) a reduction in the interest payable, or an amount treated as interest under section FG 3 of that Act, arises through the application of a transfer pricing adjustment under section GC 7 of that Act.
+(2) The person may ask the Commissioner to apply some or all of the amount of a refund under this section to satisfy, or partly satisfy, a liability under the Inland Revenue Acts.
 
 ### 86H Registration of securities by Commissioner
 (1) Where—the Commissioner shall, within 20 working days after receipt of the application and by notice in writing,—
@@ -356,13 +366,13 @@ For the purposes of the NRWT rules of the Income Tax Act 2007, an exemption unde
     (ii) by the date specified in either section 86K or 86KA, or by a later date upon the payment of any interest or penalties imposed under Part 7 or 9 of the Tax Administration Act 1994 respectively; or
   (b) the registered security meets the requirements of section 86IB and the approved issuer provides a statement to the Commissioner—
     (i) showing the details prescribed by the Commissioner under section 86K(2) for a statement relating to payments of interest under such a registered security and provided to the Commissioner within the time given by subparagraph (ii); and
-    (ii) by the time that would be required by section 86K(1)(b) for a payment of the levy in relation to the payment of interest, or by a later date for the statement if that date is set by the Commissioner in a notice given to the approved issuer.
+    (ii) by the time that would be required by section 86K(1)﻿(b) for a payment of the levy in relation to the payment of interest, or by a later date for the statement if that date is set by the Commissioner in a notice given to the approved issuer.
 
 ### 86IB Zero rate of approved issuer levy—requirements for securities
 (1) A registered security meets the requirements of this section if—
   (a) the security is denominated in New Zealand dollars; and
   (b) the issue of the security—
-    (i) was under a regulated offer for the purposes of the Financial Markets Conduct Act 2013, an offer referred to in clause 19 of Schedule 1 of that Act, or an offer to the public for the purposes of the Securities Act 1978; and
+    (i) was under a regulated offer for the purposes of the Financial Markets Conduct Act 2013, an offer referred to in clause 19 or 21(b) of Schedule 1 of that Act, or an offer to the public for the purposes of the Securities Act 1978; and
     (ii) was not a private placement; and
   (c) the security is not an asset-backed security; and
   (d) the activities of the registrar and the paying agent for the security are carried on through a fixed establishment in New Zealand; and
@@ -377,6 +387,11 @@ For the purposes of the NRWT rules of the Income Tax Act 2007, an exemption unde
     (ii) is not associated with another member of the group; and
     (iii) is not part of an arrangement intended to temporarily increase the number of persons in the group; and
   (d) no person or group of associated persons holds more than 10% by value of the class of securities.
+
+### 86IC When payment of approved issuer levy compulsory
+An approved issuer must pay approved issuer levy if they pay interest under a transaction, and—
+  (a) the transaction is a notional loan under section FG 2 of the Income Tax Act 2007, and NRWT was not withheld from the interest under section RF 3 of that Act; or
+  (b) an amount of the interest was apportioned to a New Zealand source under section YD 5(4) of that Act, and NRWT was not withheld from the amount under section RF 3 of that Act.
 
 ### 86J Approved issuer levy
 Approved issuer levy shall be computed in respect of any registered security at any time at the rate of 2 cents for every $1 of the leviable value of the registered security at that time.
@@ -402,7 +417,7 @@ Approved issuer levy shall be computed in respect of any registered security at 
 (4) If the $500 total is reached at any time during a tax year, a person must—
   (a) pay to the Commissioner all approved issuer levy payments owed by the person for the period from the beginning of the year until the end of the month in which the $500 total is reached:
   (b) pay the amount required by paragraph (a) no later than the 20th of the month following the month in which the $500 total is reached:
-  (c) pay approved issuer levy payments for the rest of the year in accordance with section 86K(1)(b).
+  (c) pay approved issuer levy payments for the rest of the year in accordance with section 86K(1)﻿(b).
 (5) If a person is no longer required to pay the approved issuer levy, the person must—
   (a) pay to the Commissioner all approved issuer levy payments due and not paid:
   (b) pay the amount required by paragraph (a) no later than the 20th of the month following the month in which the person stops being required to pay the levy.
