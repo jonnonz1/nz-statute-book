@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-03-30_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -622,7 +622,7 @@ There shall continue to be a department of State, to be known as the Inland Reve
   (e) formally notifying.
 (2) Sections 14F and 14G set out the requirements for giving information or communicating by personal delivery, post, fax, or electronic means.
 (3) Despite sections 6, 14B(2)﻿(c), and 14C(2)﻿(a), and sections 16 and 20 of the Electronic Transactions Act 2002, when there are reasonable grounds to suppose an electronic communication will be received by a person, the consent of the person is not required in order for the Commissioner to communicate in electronic form.
-(4) Despite subsection (1), sections 14C to 14G apply when any other Act requires the Commissioner to give notice to a person, or a person to give notice to the Commissioner.
+(4) Despite subsection (1) and the references to this Act, the Income Tax Act 2007, and the Goods and Services Tax Act 1985, sections 14C to 14G apply when any other Act requires the Commissioner to give notice to a person, or a person to give notice to the Commissioner.
 
 ### 14B Asking, requesting, or informing
 (1) This section applies when a provision in this Act, the Income Tax Act 2007, or the Goods and Services Tax Act 1985 refers to or describes person A—
@@ -662,7 +662,7 @@ There shall continue to be a department of State, to be known as the Inland Reve
 (2) Sections 14B to 14D apply to a provision in the Acts referred to in subsection (1) that relates to or implements a double tax agreement or other agreement described in section BH 1 of the Income Tax Act 2007 only to the extent to which they are not inconsistent with the application of the agreement.
 
 ### 14F Giving information by personal delivery, post, fax, or electronic means
-(1) This section applies when a provision in this Act, the Income Tax Act 2007, or the Goods and Services Tax Act 1985 requires person A to deliver information to person B.
+(1) This section applies when a provision in this Act, the Income Tax Act 2007, or the Goods and Services Tax Act 1985 requires person A to communicate with person B by delivering the information in the way set out in subsections (2) to (5).
 (2) When the Commissioner is person A, the Commissioner may communicate with person B—
   (a) if person B is not a corporate body,—
     (i) by personal delivery to person B; or
@@ -1321,7 +1321,9 @@ An information holder who is required to disclose information in relation to a p
 
 ### 24BA Offshore persons’ bank accounts and tax file numbers
 (1) The Commissioner must not allocate a tax file number in response to an offshore person’s request unless the Commissioner first receives a current bank account number for the offshore person.
-(1B) Subsection (1) does not apply to a person who requires a tax file number only because they are a non-resident supplier of goods and services under the Goods and Services Tax Act 1985.
+(1B) Subsection (1) does not apply to a person who requires a tax file number only because—
+  (a) they are a non-resident supplier of goods and services under the Goods and Services Tax Act 1985:
+  (b) they are applying to be registered, or are registered, in accordance with section 54B of the Goods and Services Tax Act 1985.
 (1C) Subsection (1) does not apply to a person for whom a reporting entity under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 has conducted the customer due diligence procedures required for customer due diligence under that Act and regulations made under that Act.
 (1D) Despite subsection (1) and section 24B(3), a non-resident seasonal worker under the recognised seasonal employer (RSE) instructions has a tax code of NSW for the first month of a period of employment in New Zealand.
 (2) A person to whom subsection (1) applies must give their current bank account number to the Commissioner immediately if—
@@ -1644,6 +1646,14 @@ A share user under a share-lending arrangement who pays a replacement payment to
   (b) their share of an outstanding profit balance for the income year:
   (c) other necessary information for the income year.
 
+### 30E Statement to transferee by life insurer when transferring life insurance policies
+A life insurer (the transferor) that transfers a life insurance policy to another life insurer (the transferee) in an income year and, immediately before the transfer, has an amount (the transferred amount) of policyholder base allowable deductions for the life insurance policy and the income year must, at the time of the transfer, give to the transferee a statement in a form approved by the Commissioner showing—
+  (a) the names of the transferor and transferee; and
+  (b) a description identifying the contracts being transferred; and
+  (c) the date of the transfer; and
+  (d) the total of transferred amounts for the contracts; and
+  (e) details of the quantum, timing, and nature of the amounts making up the total transferred amount.
+
 ### 31 Maori authority to give notice of amounts distributed
 (1) A Maori authority that makes a taxable Maori authority distribution to a member must, at the time the distribution is made, give to the member a notice that contains the following details:
   (a) the name of the Maori authority:
@@ -1824,10 +1834,14 @@ For the purposes of section 32E(2)﻿(i), when the person is part of a group of 
   (a) either being an approved issuer or becoming an approved issuer under subsection (2B); and
   (b) applying under section 86G of the Stamp and Cheque Duties Act 1971 to register the security; and
   (c) paying the amount of the levy for the security under section 86I of that Act.
-(2B) To become an approved issuer, the person must notify the Commissioner that they wish to have approved issuer status.
+(2B) A person becomes an approved issuer by—
+  (a) notifying the Commissioner that they wish to have approved issuer status; or
+  (b) being treated as an approved issuer by the Commissioner because the person has paid interest under a security, and—
+    (i) the security is a notional loan under section FG 2 of the Income Tax Act 2007, and NRWT was not withheld from the interest under section RF 3 of that Act; or
+    (ii) an amount of the interest was apportioned to a New Zealand source under section YD 5(4) of the Income Tax Act 2007, and NRWT was not withheld from the amount under section RF 3 of that Act.
 (3) The Commissioner may revoke a person’s approved issuer status at a particular time if—
   (a) the Commissioner considers that the person has been responsible for serious default or neglect in complying with their obligations under the Inland Revenue Acts in the 2-year period leading up to that time; or
-  (b) the person applies for revocation of the status.
+  (b) subsection (2B)﻿(b) does not apply to the person, and the person asks for revocation of the status.
 (4) The Commissioner must notify the person of a revocation under subsection (3).
 (4B) If the Commissioner revokes a person's approved issuer status under subsection (3) within 20 working days of having been notified under subsection (2B), the revocation applies from the date of notification.
 (5) Despite subsection (3), the person continues to have approved issuer status for the purposes of the NRWT rules, an exemption under a double tax agreement, and Part 6B of the Stamp and Cheque Duties Act 1971, as applicable in relation to a payment of interest made after the date of revocation for money lent to the person under a registered security while the person was an approved issuer and before the date of the revocation.
@@ -2071,14 +2085,20 @@ An employer that is not required to furnish an employer monthly schedule electro
 (3) Any election made by a taxpayer for the purposes of this section shall continue in force unless and until it is altered by the taxpayer with the prior notified approval of the Commissioner.
 
 ### 39 Consequential adjustments on change in balance date
-(1) If the Commissioner approves a change to a new balance date that is earlier in the year than the original balance date, the change is effected by the taxpayer having a transitional year of the period from the original balance date up to and including the new balance date in the next succeeding year.
-(2) If the Commissioner approves a change to a new balance date that is later in the year than the original balance date, the change is effected by the taxpayer having a transitional year of the period from the original balance date up to and including the new balance date in the same year.
+(1) If the Commissioner approves a change to a new balance date that is earlier in the calendar year than the original balance date, the change is effected by the taxpayer having a transitional year of the period from the original balance date up to and including the new balance date in the next succeeding calendar year.
+(2) If the Commissioner approves a change to a new balance date that is later in the calendar year than the original balance date, the change is effected by the taxpayer having a transitional year of the period from the original balance date up to and including the new balance date in the same calendar year.
 (3) If the change in balance date means that a taxpayer has 2 corresponding income years for the same tax year, the figures for both corresponding income years are aggregated when the taxpayer's net income or net loss is determined.
 (4) For the purpose of giving effect to this section and section 38, the Commissioner may, for any corresponding income year, make any assessment that the Commissioner considers necessary.
-(5) For the tax year corresponding to the income year or years in which the change of balance date occurs, the basic tax rate for the purposes of the Income Tax Act 2007 and this Act is the rate that would apply if the person’s taxable income for the tax year were calculated using the formula—(365 ÷ income year days) × taxable income.
-(6) In the formula,—
-  (a) income year days is the total days in the income year or years that correspond to the tax year:
-  (b) taxable income is the person’s taxable income for the tax year.
+(5) For the tax year corresponding to the income year or income years in which the change of balance date occurs, the basic tax rate for the purposes of the Income Tax Act 2007 and this Act is the rate that would apply if the person’s taxable income for the tax year were calculated using a value for the person’s net income, or net loss, for the tax year equal to the total of—
+  (a) the amount that, if the person had no income or expenditure associated with each business activity affected by a change of balance date for the tax year, would be obtained by subtracting the person’s annual total deduction for the tax year from the person’s annual gross income for the tax year; and
+  (b) for each business activity affected by a change of balance date for the tax year, the amount given by subsection (6) for the tax year and the business activity.
+(6) The amount given by this subsection, for a tax year and a business activity affected by a change of balance date for the tax year, is calculated using the formula—unadjusted business net × year days ÷ income year days.
+(7) In the formula,—
+  (a) unadjusted business net is the amount that, if the person had no income or expenditure other than income and expenditure associated with the business activity, would be the difference between the person’s annual gross income for the tax year and the person’s annual total deduction for the tax year:
+  (b) year days is—
+    (i) 365, if subparagraph (ii) does not apply:
+    (ii) 366, if the income year or income years corresponding to the tax year include a 29 February:
+  (c) income year days is the total days in the income year or income years corresponding to the tax year.
 
 ### 39B Changes in return dates: taxpayers with provisional tax and GST liabilities
 (1) Subsection (2) applies if a provisional taxpayer—
@@ -2189,6 +2209,9 @@ An employer that is not required to furnish an employer monthly schedule electro
   (b) the amount of that income for each owner under subpart HB of that Act:
   (c) a summary of the deductions for each owner under subpart HB and section DV 22 of that Act.
 (3) There is no assessment of the company, but each owner must make a separate return of income under section 33 taking into account the amounts in subsection (2). Each owner is assessed separately.
+
+### 42C Income tax returns by undischarged bankrupt
+A person who is adjudicated bankrupt under the Insolvency Act 2006 and derives an amount of income in an income year while being a bankrupt must make a return of income for the income year, if not relieved of the requirement by section 33AA.
 
 ### 43 Income tax returns and assessments by executors or administrators
 (1) The executor or administrator of a deceased taxpayer must furnish the same returns of income and make the same assessments that the taxpayer was required to furnish or make, or would have been required to furnish or make, if the taxpayer had remained alive.
@@ -2815,9 +2838,7 @@ Where an FDPA company attaches an FDP credit to a dividend, the company shall in
   (d) the amount of any imputation penalty tax payable for the tax year:
   (e)
   (f)
-  (g) when the company is a policyholder credit account (PCA) company,—
-    (i) the opening balance and closing balance of the company’s policyholder credit account for the tax year:
-    (ii) the amount and source of all credits and debits to the company’s policyholder credit account for the tax year that have arisen as described in sections OA 5(7)﻿(a) and OA 6(7)﻿(a) of that Act:
+  (g)
   (h) when the company is a public unit trust or a group investment fund that derives category A income—
     (i) the opening and closing balances of the trust’s or fund’s ASC account for the tax year:
     (ii) the amount and source of all credits and debits that have arisen in the trust’s or fund’s ASC account as described in sections OA 5(6) and OA 6(6) of that Act:
@@ -3362,7 +3383,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (eb) communicating to a person who is an employee of the Department of Internal Affairs or the Ministry of Health information that—
     (i) the person is authorised by the department or Ministry to receive; and
     (ii) the Commissioner considers is not undesirable to disclose and is essential to enable the person to carry out any duty lawfully conferred on the person relating to the determination of the problem gambling levy rate:
-  (ec) communicating to a person who is an officer or employee of the Ministry of Business, Innovation and Employment, WorkSafe New Zealand, or an agency designated under section 28B of the Health and Safety in Employment Act 1992, information that—
+  (ec) communicating to a person who is an officer or employee of the Ministry of Business, Innovation and Employment, WorkSafe New Zealand, or an agency designated under section 191 of the Health and Safety at Work Act 2015, information that—
     (i) the person is authorised by the Ministry, WorkSafe New Zealand, or agency, as applicable, to receive under workplace legislation; and
     (ii) the Commissioner considers is not undesirable to disclose and is reasonably necessary to enable the person to carry out a function, duty, or power conferred on the person under or in relation to workplace legislation:
   (f) communicating to any person, being an officer, employee, or agent of the responsible department or of the Accident Compensation Corporation or of the Ministry of Justice, any information, being information—
@@ -3467,7 +3488,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
     (xvi) any regulations made under the Acts listed in subparagraphs (i) to (xv).
 
 ### 81A Disclosure of information under approved information sharing agreement
-Despite any other enactment in the Inland Revenue Acts, the Commissioner may supply personal information about an identifiable individual under an information sharing agreement approved by an Order in Council made under section 96J of the Privacy Act 1993 that is for the time being in force. The information sharing agreement may extend a restricted information sharing provision in an Inland Revenue Act, as contemplated by the Privacy Act 1993, without further authority than this section.
+Despite any other enactment in the Inland Revenue Acts, the Commissioner may supply information under an information sharing agreement approved by an Order in Council made under section 96J of the Privacy Act 1993 that is for the time being in force. The information sharing agreement may extend a restricted information sharing provision in an Inland Revenue Act, as contemplated by the Privacy Act 1993, without further authority than this section.
 
 ### 81BA Government agency communication
 (1) Despite section 81, the Commissioner may communicate information held by the Inland Revenue Department to another government agency if it is reasonable and practicable for the Commissioner to retrieve the information, and—
@@ -5276,6 +5297,12 @@ Where, whether before or after the commencement of this Act,—the validity of t
   (c) the taxpayer—
     (i) has not issued a notice of proposed adjustment to the Commissioner for an amount of a tax credit for research and development expenditure for the relevant tax year within the relevant response period; and
     (ii) has not asked for an assessment to be amended under section 113, having provided a detailed research and development statement under section 68D or 68E, as applicable, within the time limit referred to in paragraph (b).
+(1C) The Commissioner may not amend an assessment so as to increase an amount assessed when—
+  (a) a taxpayer furnishes—
+    (i) a return for an amount of ancillary tax for a period which, for the purposes of this section, is treated as the making of an assessment of the amount of the tax by the taxpayer:
+    (ii) a statement in relation to approved issuer levy payable under section 86K of the Stamp and Cheque Duties Act 1971 for a period which, for the purposes of this section, is treated as the making of an assessment of the levy by the taxpayer; and
+  (b) 4 years have passed from the end of the period in which the taxpayer furnished the return or statement, as applicable.
+(1D) For the purposes of the time bar in subsection (1C)﻿(b), a taxpayer who furnishes a statement referred to in subsection (1C)﻿(a)﻿(ii) is treated as having met the requirements for furnishing a tax return for non-resident withholding tax.
 (2) If the Commissioner is of the opinion that a tax return provided by a taxpayer—the Commissioner may amend the assessment at any time so as to increase its amount.
   (a) is fraudulent or wilfully misleading; or
   (b) does not mention income which is of a particular nature or was derived from a particular source, and in respect of which a tax return is required to be provided,—
@@ -7438,7 +7465,7 @@ Despite sections 173L and 173M, a taxpayer may not request a transfer under this
 ### 174AA Power of Commissioner in respect of small amounts of refunds or tax payable
 Despite any other provision of this Act or the Income Tax Act 2007, the Commissioner may write off tax, refrain from making an assessment of tax, refrain from collecting tax or refrain from refunding tax if—
   (a) the balance of the tax payable is not more than $20; or
-  (b) the tax paid, withheld, or deducted is $5 or less than the amount of the tax for which the taxpayer is liable.
+  (b) the tax paid, withheld, or deducted is not more than $5.
 
 ### 174A Partial refunds of GST
 (1) The Commissioner may refund overpaid GST that a person pays—even if other GST liabilities of the person in respect of the GST return period or periods remain the subject of a notice of proposed adjustment or an outstanding assessment or assessments.
