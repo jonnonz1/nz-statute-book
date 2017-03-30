@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-03-30_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -128,6 +128,7 @@ _Consolidation as at 2017-03-01_
     (a) which is carried on other than for the purposes of profit or gain to any proprietor, member, or shareholder; and
     (b) which is, by the terms of its constitution, rules, or other document constituting or governing the activities of that society, association, or organisation, prohibited from making any distribution whether by way of money, property, or otherwise howsoever, to any such proprietor, member, or shareholder
   - **non-resident** means a person to the extent that the person is not resident in New Zealand
+  - **non-taxable use** , for goods or services, means use of the goods or services for making exempt supplies or other than for making taxable supplies
   - **notice** , for an item of information, means the form or manner in which the item is notified or communicated, as described in section 14C or 14D of the Tax Administration Act 1994, as appropriate
   - **notify** —
     (a) means to give notice; and
@@ -178,7 +179,9 @@ _Consolidation as at 2017-03-01_
     (b) any revenue collected by that public authority as agent on behalf of the Crown
   - **secondhand goods** , does not include—
     (a) secondhand goods consisting of any fine metal; or
-    (b) secondhand goods which are, or to the extent to which they are, manufactured or made from gold, silver, platinum, or any other substance which, if it were of the required fineness, would be fine metal; or
+    (b) secondhand goods which are—
+      (i) manufactured or made from, or to the extent to which they are manufactured or made from, gold, silver, platinum, or other substance, that would be fine metal if it were of the required fineness; and
+      (ii) of a kind not manufactured for sale to the public; or
     (c) livestock
   - **service occupancy agreement** means a licence whereby a person occupies a dwelling for no consideration
   - **services** means anything which is not goods or money
@@ -195,6 +198,7 @@ _Consolidation as at 2017-03-01_
   - **tax year** means a tax year as defined in section YA 1 of the Income Tax Act 2007
   - **taxable period** , in relation to a registered person, means a taxable period determined under sections 15 to 15E
   - **taxable supply** means a supply of goods and services in New Zealand that is charged with tax under section 8 and includes a supply that section 11, 11A, 11AB or 11B requires to be charged at the rate of 0%
+  - **taxable use** , for goods or services, means use of the goods or services for making taxable supplies
   - **Taxation Review Authority** or means a Taxation Review Authority established under the Taxation Review Authorities Act 1994
   - **telecommunications services** means the transmission, emission or reception, and the transfer or assignment of the right to use capacity for the transmission, emission or reception, of signals, writing, images, sounds or information of any kind by wire, cable, radio, optical or other electromagnetic system, or by a similar technical system, and includes access to global information networks but does not include the content of the telecommunication
   - **telecommunications supplier** means a person whose principal activity is the supply of telecommunications services
@@ -270,8 +274,8 @@ _Consolidation as at 2017-03-01_
     (i) the contract does not provide for the delivery of a commodity; or
     (ii) the contract provides for the delivery of a commodity and the supply of the commodity is an exempt supply; or
     (iii) the contract provides for the delivery of money:
-  (kaa) the provision of a financial option:
-  (ka) the payment or collection of any amount of interest, principal, dividend, or other amount whatever in respect of any debt security, equity security, participatory security, credit contract, contract of life insurance, retirement scheme, or futures contract:
+  (kaa) the provision or transfer of ownership of a financial option:
+  (ka) the payment or collection of any amount of interest, principal, dividend, or other amount whatever in respect of any debt security, equity security, participatory security, credit contract, contract of life insurance, retirement scheme, financial option, or futures contract:
   (l) agreeing to do, or arranging, any of the activities specified in paragraphs (a) to (ka), other than advising thereon:
   (m) the investment in an entity, if—
     (i) the investment is in an equity security equal to or greater than 10% of all equity securities issued by the entity or in a participatory security equal to or greater than 10% of all participatory securities issued by the entity; and
@@ -356,13 +360,14 @@ _Consolidation as at 2017-03-01_
 ### 5 Meaning of term supply
 (1) For the purposes of this Act, the term supply includes all forms of supply.
 (2) For the purposes of this Act, where any goods acquired (whether in terms of a hire purchase agreement or otherwise) or produced by a person (that person being referred to hereafter in this subsection as the first person) are sold, under a power exercisable by another person (that person being referred to hereafter in this subsection as the second person), in or towards the satisfaction of a debt owed by the first person, those goods shall be deemed to be supplied in the course or furtherance of a taxable activity carried on by the first person (being deemed a registered person), unless—
-  (a) the first person has notified the second person that the supply of those goods would not be a taxable supply if those goods were sold by the first person (notwithstanding that the first person may not be the owner of those goods), and stating fully the reasons why that supply would not be a taxable supply; or
+  (a) the supply of those goods would not be a taxable supply if those goods were sold by the first person (notwithstanding that the first person may not be the owner of those goods) and the first person has furnished to the second person a statement in writing stating fully and correctly the reasons why that supply would not be a taxable supply; or
   (b) where the second person has not been notified as described in paragraph (a), that person may determine, in relation to any reasonable information held, that the supply of those goods would not have been a taxable supply if those goods had been sold by the first person (notwithstanding that the first person may not be the owner of those goods).
 (3) For the purposes of this Act, where a person ceases to be a registered person, any goods and services then forming part of the assets of a taxable activity carried on by that person shall be deemed to be supplied by that person in the course of that taxable activity at a time immediately before that person ceases to be a registered person, unless the taxable activity is carried on by another person who, pursuant to section 58, is deemed to be a registered person.
 (3A)
 (3B) For the purposes of this Act, when a person who is a non-resident ceases to be a registered person,—
   (a) any goods that are part of the assets of the taxable activity carried on by the person that are present in New Zealand at the time the person ceases to be registered are treated as supplied by the person in the course of the taxable activity at a time immediately before the person ceases to be registered:
   (b) any services that would be performed in New Zealand as part of the taxable activity carried on by the person at the time the person ceases to be registered are treated as performed by the person in the course of the taxable activity at a time immediately before the person ceases to be registered.
+(3C) For an asset affected by subsection (3) or (3B), if a transfer of ownership of the asset would be a financial service, the subsection deems the person to make a supply of the asset by a transfer of ownership.
 (4) For the purposes of this Act, a credit agreement to which subpart 2 of Part 4A of the Fair Trading Act 1986 applies shall not constitute a supply of goods and services unless the purchaser has failed to exercise the right under section 36M of that Act to cancel the agreement within the period made available to the purchaser by that section.
 (5) For the purposes of this Act, any contract that is a layby sale to which subpart 1 of Part 4A of the Fair Trading Act 1986 applies shall not constitute a supply of goods and services unless the goods which are the subject of the contract are delivered to the buyer and the property therein is transferred to the buyer:
   provided that a supply of services shall, in respect of any such contract, be deemed to have taken place where—
@@ -422,6 +427,8 @@ _Consolidation as at 2017-03-01_
   (a) to purchase a chip or otherwise participate in gambling played or conducted in a casino venue; or
   (b) as commission for participating in gambling played or conducted in a casino venue,—
 (11C) For the purposes of subsection (11B), the terms casino venue, chip, and gambling have the meanings set out in section 4(1) of the Gambling Act 2003.
+(11CB) For the purposes of this Act, if a registered person in the course of a taxable activity receives a prize from a racing club or racing code for the performance in a race of a horse or greyhound owned by the registered person, the prize is treated as being consideration for a service provided by the registered person to the racing club or racing code in the course of the taxable activity.
+(11CC) For the purposes of subsection (11CB), race, racing club, and racing code have the meaning set out in section 5(1) of the Racing Act 2003.
 (11D) Subsections (11E) to (11I) apply to a token, stamp or voucher that gives the recipient the right to receive goods and services, other than a token, stamp or voucher issued for no consideration.
 (11E) The issue or sale of a token, stamp or voucher is treated as a supply of goods and services.
 (11EA) A supply does not include the issue or sale of a token, stamp or voucher by a registered person to another registered person who subsequently issues or sells the token, stamp or voucher, unless the first-mentioned registered person is the person who supplies the goods and services on redemption of the token, stamp or voucher.
@@ -501,7 +508,7 @@ For the purpose of the definition of output tax and sections 8(1), 15A to 15E, 1
     (iii) as a Chairman or member of any local authority or any statutory board, council, committee, or other body, subject to subsection (4); or
   (d) any activity to the extent to which the activity involves the making of exempt supplies.
 (4) Despite subsection (3)﻿(b) and (c)﻿(iii), if a director, member, or other person referred to in those paragraphs is paid a fee or another amount in relation to their engagement, occupation, or employment in circumstances in which they are required to account for the payment to their employer, the payment is treated as consideration for a supply of services by the employer to the person who made the payment to the director, member, or other person.
-(5) For the purposes of subsections (3)﻿(b), (c)﻿(iii), and (4), if a person in carrying on a taxable activity, accepts an office, any services supplied by that person as holder of that office are deemed to be supplied in the course or furtherance of that taxable activity.
+(5) For the purposes of subsection (3)﻿(b) and (c)﻿(iii), if a person in carrying on a taxable activity, accepts an office, any services supplied by that person as holder of that office are deemed to be supplied in the course or furtherance of that taxable activity.
 
 ### 7 Act to bind Crown
 This Act shall bind the Crown.
@@ -553,7 +560,7 @@ This Act shall bind the Crown.
 (4) In this section, address means the physical residential or business address of a person to which invoices are sent, and does not include a post office box number.
 
 ### 8B Remote services: determining residence and status of recipients
-(1) Subsection (2) applies to determine whether a supply is made in New Zealand under section 8(3)﻿(c), or for the purposes of sections 10(14B), 11A(1)﻿(j), and 60C, when remote services are supplied to a person resident in New Zealand.
+(1) Subsection (2) applies to determine whether a supply is made in New Zealand under section 8(3)﻿(c), or for the purposes of sections 10(14B), 11A(1)﻿(j), 60C, and 60D, when remote services are supplied to a person resident in New Zealand.
 (2) A supplier must treat the recipient of the supply as a person resident in New Zealand if 2 of the following items are non-contradictory and support the conclusion that the person is resident in New Zealand:
   (a) the person’s billing address:
   (b) the internet protocol address of the device used by the person or another geolocation method:
@@ -569,7 +576,7 @@ This Act shall bind the Crown.
     (i) whether the supply is made in a low-value high-volume digital context:
     (ii) whether the supply is a single instance or a supply made as part of a continuing relationship between the recipient and the supplier:
   (b) the availability to the supplier of information about the recipient’s residence.
-(5) Subsection (6) applies to determine the treatment of a supply to a registered person of remote services described in section 8(3)﻿(c) when section 8(4) applies, and for the purposes of sections 11A(1)﻿(j) and 60C.
+(5) Subsection (6) applies to determine the treatment of a supply to a registered person of remote services described in section 8(3)﻿(c) when section 8(4D) applies, and for the purposes of sections 11A(1)﻿(j) , 60C, and 60D.
 (6) Having established the New Zealand residence of a recipient of a supply of services under subsection (2), a supplier must treat the recipient as not being a registered person unless the recipient—
   (a) notifies the supplier that they are a registered person:
   (b) provides their registration number or New Zealand business number.
@@ -611,7 +618,9 @@ This Act shall bind the Crown.
     (ii) a hire purchase agreement.
 (4)
 (5)
-(6) Subject to subsection (2)﻿(a), where goods are supplied under an agreement, other than an agreement to hire (as defined in subsection (3)﻿(c)), and the goods or part of them are appropriated under that agreement by the recipient in circumstances where the whole of the consideration is not determined at the time they are appropriated, that supply shall be deemed to take place when and to the extent that any payment under the agreement is due or is received or an invoice relating to the supply is issued by the supplier or the recipient, whichever is the earlier.
+(6) Subject to subsections (2)﻿(a) and (3), where the whole of the consideration (the price) for a supply under an agreement is not determined at the time of the agreement, and a supply is made under the agreement before the price is determined, the supply is deemed to take place, to the extent of a part of the price, at the earlier of when—
+  (a) a payment of the part of the price becomes due or is received:
+  (b) the supplier or recipient issues an invoice for the part of the price.
 (7) Notwithstanding anything in this section, where any public authority is deemed to have supplied goods and services pursuant to section 5(6), the supply shall, to the extent that the supply is brought to charge as revenue from the Crown, be deemed to take place in the taxable period in which the bringing to charge applies.
 (8) Despite subsection (1), if a local authority makes a supply to which section 5(7)﻿(a) applies, the supply is treated as taking place on the earlier of the following dates:
   (a) the date on which an instalment notice is issued if the instalment notice requires payment of an instalment by a particular date:
@@ -690,7 +699,7 @@ This Act shall bind the Crown.
   (b) equalisator betting is treated as the amount received by a racing club.
 (12A)
 (13) In subsection (12), equalisator betting, New Zealand Racing Board, racing club, racing betting, and sports betting have the meanings set out in section 5 of the Racing Act 2003.
-(14) If a supply of services is treated as having been made under section 5(10), the consideration for the supply is calculated using the formula—amounts received − prizeswhere—(a)amounts received is the total of all amounts in money received in relation to the supply—(b)prizes is the total amount of all prizes paid and payable in money in relation to the supply.
+(14) If a supply of services is treated as having been made under section 5(10), the consideration for the supply is calculated using the formula—amounts received − prizeswhere—(a)amounts received is the total of all amounts in money received in relation to the supply—(b)prizes is the total amount of all prizes paid and payable in money in relation to the supply, reduced by the total amount of input tax for supplies for which the prizes are treated as being consideration.
   (i) for gambling, by the person, society, licensed promoter, or organiser who under the Gambling Act 2003 conducts the gambling:
   (ii) for a prize competition, by the person who conducts the prize competition:
 (14B) If a supply of services is treated as having been made under section 5(10B), the consideration for the supply is calculated using the formula—amounts received from residents − prizes paid to residents.
@@ -750,7 +759,7 @@ This Act shall bind the Crown.
   (j) the goods are not situated in New Zealand at the time of supply and—
     (i) the goods are not situated in New Zealand at the time of delivery to the recipient:
     (ii) the recipient pays tax under section 12 on the importation of the goods into New Zealand; or
-  (k) the goods have been supplied in the course of repairing, renovating, modifying or treating goods to which section 11A(1)﻿(h) or 11A(1)﻿(i) applies and the goods supplied—
+  (k) the goods have been supplied in the course of repairing, renovating, modifying or treating goods to which paragraph (i) or section 11A(1)﻿(h) or (i) applies and the goods supplied—
     (i) are wrought into, affixed to, attached to or otherwise form part of those other goods; or
     (ii) are consumable goods that become unusable or worthless as a direct result of being used in the repair, renovation, modification or treatment process; or
   (ka) the goods are supplied for use on, or the use of, a pleasure craft, being a temporary import within the meaning of section 116 of the Customs and Excise Act 1996, that cause or enable the craft to sail, or that ensure the safety of passengers and crew on the craft; or
@@ -797,18 +806,22 @@ This Act shall bind the Crown.
     (i) records of the sale of the supply; and
     (ii) limitations on dealings in and the uses to which the boat or aircraft will be put before export; and
     (iii) the proposed and actual date of export.
-(8) The Commissioner may extend the 60-day period if the Commissioner is satisfied, upon the application of the supplier, that circumstances beyond the control of the supplier and the recipient have prevented, or will prevent, the export of the boat or aircraft within the period.
+(8) The Commissioner may extend the 60-day period if the Commissioner is satisfied, upon the written application of the supplier, that the export of the boat or aircraft within the period is or has been prevented by circumstances that are beyond the control of the supplier and the recipient or that relate to supplies to which subsection (1)﻿(k) or section 11A(1)﻿(ib) applies.
 (8B) Whether a supply of goods is zero-rated under subsection (1)﻿(mb) is determined at the time of settlement of the transaction relating to the supply.
 (8C) Despite subsections (1)﻿(mb) and (8B), a supplier may choose to apply the provisions of this Act applying before the changes made by the Taxation (GST and Remedial Matters) Act 2010 if they enter into a binding agreement before 1 April 2011 for which the time of supply is on or after that date.
 (8D) For the purposes of the zero-rating of land rules,—
-  (a) a supply that is an assignment or surrender of an interest in land, is a supply under subsection (1)﻿(mb) if it meets the requirements set out in that subsection:
-  (b) the supply of an interest in land is not a supply under subsection (1)﻿(mb), despite meeting the requirements set out in that subsection if—
-    (i) the supply is made periodically; and
-    (ii) for an amount paid or payable under the agreement for the supply in advance of, or contemporaneously with, the supply being made, the payment—
-      (A) totals 25% or less of the consideration specified in the agreement; and
-      (B) relates to the longer of 1 year and the shortest possible fixed term of the agreement; and
-      (C) is not itself a regular payment under the agreement:
-  (c) a supply of an interest in land by way of a procurement by a third party of an existing lease is a supply under subsection (1)﻿(mb) if it meets the requirements set out in that subsection.
+  (a) a supply that is an assignment or surrender of an interest in land is a supply under subsection (1)﻿(mb) if it meets the requirements set out in that subsection and paragraph (b) does not apply:
+  (ab) a supply that is a surrender of a right to a payment under an agreement for the supply of an interest in land is a supply under subsection (1)﻿(mb) if the supply of the interest in land meets the requirements set out in that subsection:
+  (b) a supply of an interest in land that meets the requirements of subsection (1)﻿(mb), and is made under an agreement providing for periodic payments for supplies of the interest in land, is not a supply under that subsection for the purposes of a payment for the supply paid or payable under the agreement if—
+    (i) each amount payable under the agreement that is not a regular payment is anticipated, when the agreement is entered, to be 25% or less of the consideration specified in the agreement (the term consideration) for all supplies of the interest in land during the period referred to in subparagraph (iv); and
+    (ii) the payment, if not a regular payment, is 25% or less of the term consideration; and
+    (iii) each amount that is paid or payable before the payment, and is not a regular payment, is 25% or less of the term consideration; and
+    (iv) the term consideration is treated as being the amount of consideration calculated under the agreement for supplies anticipated to be made during a period that is the longer of 1 year and the shortest possible fixed term of the agreement:
+  (c) a supply by a person who is the lessee under a lease agreement is a supply under subsection (1)﻿(mb), despite paragraph (b), if—
+    (i) the supply is to a person who is not the lessor supplying an interest in land under the lease agreement to the lessee; and
+    (ii) the supply is made under an arrangement that involves the lessee’s surrender of the interest in land to the lessor and the supply by the lessor of the interest in land under another lease agreement to a person other than the lessee; and
+    (iii) the supplies of the interest in land under the lease agreements meet the requirements set out in subsection (1)﻿(mb):
+  (d) a registered person who is a non-profit body that is resident in New Zealand and acquires goods is treated, to the extent to which the person acquires the goods with an intention of using them other than for making exempt supplies, as acquiring the goods with the intention of using them for making taxable supplies.
 (9) For the purpose of this section—
   - **aircraft** has the meaning set out in section 2 of the Civil Aviation Act 1990
   - **consumable stores** means—
@@ -844,7 +857,14 @@ This Act shall bind the Crown.
   (g) the services are supplied to overseas postal organisations for the delivery in New Zealand of postal articles mailed outside New Zealand; or
   (h) the services are supplied directly in connection with goods supplied from outside New Zealand and whose destination is outside New Zealand, including stores for craft, only if the goods are not removed from the ship or aircraft in which they arrived while the ship or aircraft is in New Zealand; or
   (i) the services are supplied directly in connection with goods referred to in section 116 of the Customs and Excise Act 1996; or
-  (j) the services are physically performed outside New Zealand or are the arranging of services that are physically performed outside New Zealand, other than a supply of remote services provided to a person resident in New Zealand who is not a registered person; or
+  (ib) the services are supplied directly in connection with goods to which section 11(1)﻿(i) applies; or
+  (j) the services—
+    (i) are physically performed outside New Zealand; and
+    (ii) are not remote services supplied to a New Zealand resident who is not a registered person; or
+  (jb) the services are the arranging of underlying services that—
+    (i) are physically performed outside New Zealand; and
+    (ii) are not remote services supplied to a New Zealand resident who is not a registered person; or
+  (jc) the services are a supply of services to which section 60(1C)﻿(a) applies, being a supply from an underlying supplier to an operator of a marketplace; or
   (k) subject to subsection (2), the services are supplied to a person who is a non-resident and who is outside New Zealand at the time the services are performed, not being services which are—
     (i) supplied directly in connection with—
       (A) land situated in New Zealand or any improvement to the land; or
@@ -888,6 +908,7 @@ This Act shall bind the Crown.
     (iii) verified to an internationally recognised standard; or
   (x) the services are remote services to which section 8(3)﻿(c) applies that are provided to a registered person and the supplier has chosen under section 8(4D) to treat the supply as made in New Zealand.
 (1B) Subsection (1)﻿(j) does not apply to a supply of services that is treated by section 8(4B) as being made in New Zealand unless the nature of the services is such that the services can be physically received at no time and place other than the time and place at which the services are physically performed.
+(1C) For the purposes of subsection (1)﻿(jb), the services that are the arranging of the underlying services may include more than 1 supply if the supplies are made to facilitate the supply of the underlying services.
 (2) Subsection (1)﻿(k) and (1)﻿(l) do not apply to a supply of services under an agreement that is entered into, whether directly or indirectly, with a person (person A) who is a non-resident if—
   (a) the performance of the services is, or it is reasonably foreseeable at the time the agreement is entered into that the performance of the services will be, received in New Zealand by another person (person B), including—
     (i) an employee of person A; or
@@ -1008,9 +1029,9 @@ A supply of services that is chargeable with tax under section 8 must be charged
   (a) a 6-month period, if subsection (2) applies:
   (b) a 2-month period:
   (c) a 1-month period, if subsection (3) or (4) applies.
-(2) A person's taxable period may be a 6-month period if—
-  (a) the person's taxable supplies in a 12-month period are no more, and are not likely to be more, than $500,000; and
-  (b) the person applies to the Commissioner to pay on this basis.
+(2) A person’s taxable period may be a 6-month period if the person applies to the Commissioner to pay on that basis and—
+  (a) the person’s taxable supplies in a 12-month period are no more, and are not likely to be more, than $500,000:
+  (b) the person makes 80% or more of the person’s taxable supplies for an income year during a period of 6 months or less that ends with, or less than 1 month before, the end of the income year and has not had a 6-month period as a taxable period under this paragraph in the 24-month period before the application.
 (3) A person's taxable period may be a 1-month period if the person applies to the Commissioner to pay on that basis.
 (4) A person's taxable period must be a 1-month period if the person's taxable supplies in a 12-month period are more, or are likely to be more, than $24,000,000.
 (5) For the purposes of subsections (2) and (4),—
@@ -1044,12 +1065,11 @@ A supply of services that is chargeable with tax under section 8 must be charged
   (c) if the person is a non-resident company that does not have a fixed establishment in New Zealand, 31 March.
 
 ### 15C Changes in taxable periods
-(1) A person to whom section 15(1)﻿(b) or (c) applies may apply to the Commissioner, in a way acceptable to the Commissioner, to change the person's taxable period to a 6-month period.
-(2) The factors that the Commissioner must consider in directing a change of taxable period are—
-  (a) the person's history in filing returns and paying tax liabilities:
-  (b) the person's financial reporting practices:
-  (c) the nature and volume of the person's taxable supplies:
-  (d) the previous use of a 6-month cycle.
+(1) A person to whom section 15(1)﻿(b) or (c) applies may change the person’s taxable period to a 6-month period if the person meets the requirements of section 15(2).
+(2) A person to whom section 15(1)﻿(a) applies, who does not meet the requirement of section 15(2)﻿(b) and fails to meet the requirement of section 15(2)﻿(a) in relation to a 12-month period, is required to change the person’s taxable period at the end of the taxable period ending on or after the end of the 12-month period, if subsection (2B) does not apply.
+(2B) A person who fails to meet the requirement of section 15(2)﻿(a) in relation to a 12-month period is relieved from the requirement under subsection (2) to change the person’s taxable period if the person—
+  (a) is likely to meet the requirement of section 15(2)﻿(a) in relation to the following 12-month period; and
+  (b) is not relieved by this subsection from a requirement under subsection (2) arising from a failure to meet the requirement of section 15(2)﻿(a) in relation to the preceding 12-month period.
 (3) A person to whom section 15(1)﻿(a) applies may apply to the Commissioner, in a way acceptable to the Commissioner, to change the person's taxable period to a 2-month period.
 (3B) A person to whom section 15(1)﻿(a) or (b) applies may apply to the Commissioner, in a way acceptable to the Commissioner, to change the person's taxable period to a 1-month period.
 (3C) A person to whom section 15(1)﻿(c) applies may apply to the Commissioner, in a way acceptable to the Commissioner, to change the person's taxable period to a 2-month period, unless section 15(4) applies.
@@ -1219,7 +1239,7 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
   (dc) an amount of output tax charged on a supply of remote services to the extent that the supplier has, in relation to the supply, incurred liability for, returned, and paid a consumption tax in another country or territory, when the remote services are—
     (i) physically performed in New Zealand; and
     (ii) supplied to a non-resident person in New Zealand who is not a registered person; and
-  (e) any amount calculated under sections 21D(1) and (3)﻿(a), and 21F; and
+  (e) any amount calculated under sections 21D(1) and (3)﻿(a), 21F, and 21FB(2); and
   (ea)
   (f) any amount of input tax in relation to any supply in respect of which paragraph (a) of, or the proviso to, subsection (2) has operated to deny a deduction of input tax, and that registered person has obtained, during the taxable period, a tax invoice in relation to that supply; and
   (g) any amount calculated in accordance with section 20A in relation to any goods and services so supplied during that taxable period; and
@@ -1244,13 +1264,18 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
   (b) input tax as defined in section 3A(1)﻿(b) may be deducted to the extent to which the goods are used for, or are available for use in, making taxable supplies other than—
     (i) the delivery of the goods to a person in New Zealand:
     (ii) arranging or making easier the delivery of the goods to a person in New Zealand.
-(3D) A registered person is not required to apportion input tax in an adjustment period if they make both taxable and exempt supplies and have reasonable grounds to believe that the total value of their exempt supplies will not be more than the lesser of—
+(3D) A registered person who makes both taxable and exempt supplies is not required to apportion input tax for an adjustment period between such supplies if the registered person has reasonable grounds to believe that the total value of exempt supplies will not exceed the lesser of—
   (a) $90,000:
   (b) 5% of the total consideration for all their taxable and exempt supplies for the adjustment period.
 (3E) A registered person who principally makes supplies of financial services may choose to use a fair and reasonable method of apportionment, as agreed with the Commissioner, in relation to the supply for an apportionment on acquisition. For this purpose,—
-  (a) the method must have regard to the tenor of subsections (3C) to (3J):
+  (a) the method must have regard to the tenor of subsections (3C), (3D), and (3G) to (3M):
   (b) the person may include a group of companies.
-(3F) The method used to calculate the amount that may be deducted on acquisition is set out in subsections (3C) to (3J). The rules for calculating adjustments are set out in sections 21 to 21H.
+(3EB) A registered person may choose to use, for apportioning input tax in relation to a supply of goods and services made to the registered person, a fair and reasonable method of apportionment that—
+  (a) has regard to the tenor of subsections (3C), (3D), and (3G) to (3M); and
+  (b) is agreed with the Commissioner by—
+    (i) the registered person, if the registered person reasonably expects to make supplies of goods or services with a value of more than $24,000,000 in a 12-month period that includes the month in which the registered person proposes the agreement:
+    (ii) an industry association, if the method is intended by the Commissioner and the industry association to be available to a person such as the registered person.
+(3F) The method used to calculate the amount that may be deducted on acquisition is set out in subsections (3C) to (3EB), and (3G) to (3M). The rules for calculating adjustments are set out in sections 21 to 21H.
 (3G) In determining the extent to which goods or services are used for making taxable supplies, a person must estimate at the time of acquisition how they intend to use the goods or services, choosing a determination method that provides a fair and reasonable result. The determination is expressed as a percentage of the total use.
 (3H) The extent to which a deduction for input tax is allowed is calculated using the formula—full input tax deduction × percentage intended use.
 (3I) In the formula in subsection (3H),—
@@ -1260,7 +1285,7 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
   (a) on acquisition,—
     (i) identify the nominal amount of tax (the nominal GST component) that would be chargeable on the value of the supply, as if the value were equal to the consideration charged for the supply, at the rate set out in section 8(1); and
     (ii) determine the extent to which they intend to use the goods or services as described in subsection (3G); and
-    (iii) account for output tax under section 20(4) for the proportion of the nominal GST component for any non-taxable use of the goods or services; and
+    (iii) treat as output tax, for attribution to a taxable period under section 20(4), an amount that is the same proportion of the nominal GST component as the proportion of the use of the goods and services that is non-taxable use; and
   (b) for later adjustment periods, make adjustments under the apportionment rules set out in sections 20G and 21 to 21H in relation to the taxable supply referred to in paragraph (a).
 (3JB) For a supply to which section 20G applies, the recipient must,—
   (a) on acquisition,—
@@ -1276,7 +1301,7 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
     (i) identify the nominal GST component that would have been chargeable on the value of the supply, as if the value were equal to the consideration charged for the supply, at the rate set out in section 8(1); and
     (ii) based on their percentage actual use of the services, account for output tax under subsection (4) for the proportion of the nominal GST component for any non-taxable use of the services:
   (c) is required to account for output tax under paragraph (a) or (b), then the recipient must, for later adjustment periods, make adjustments under the apportionment rules set out in sections 20G and 21 to 21H in relation to the taxable supply referred to in paragraph (a) or (b).
-(3K) For the purposes of subsections (3) and (3C), and the definitions of percentage actual use and percentage intended use in section 21G(1), to the extent to which a non-profit body that is resident in New Zealand uses goods or services other than for making exempt supplies, the goods or services are treated as being used for making taxable supplies.
+(3K) For the purposes of subsections (3), (3C), and (3J), and the definitions of percentage actual use and percentage intended use in section 21G(1), to the extent to which a non-profit body that is resident in New Zealand uses goods or services other than for making exempt supplies, the goods or services are treated as being used for making taxable supplies.
 (3L) For the purposes of subsection (3), for a non-resident person who is registered under section 54B, input tax may be deducted only to the extent to which the goods or services are used for, or are available for use in, making taxable supplies, treating all the supplies made by the person as if they were made and received in New Zealand.
 (3LB) Subsection (3LC) applies for the purposes of subsection (3) and despite subsection (3L), when a non-resident person who is registered under section 54B has paid tax under section 12(1) in relation to the importation of goods. However, subsection (3LC) does not apply if the non-resident person—
   (a) is the person in New Zealand who receives the goods; and
@@ -1289,7 +1314,7 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
     (i) to the extent that payment for the supply has been received during the taxable period, if the supply is a supply of goods and services which is deemed to take place under any one of sections 9(1), 9(3)﻿(a), 9(3)﻿(aa), 9(6), 9(8), 25(2)﻿(a), 25(4) and is not treated by section 8(4B) as being made in New Zealand; or
     (ib) to the extent that payment for the supply has been made during the taxable period, if the supply is a supply of services that is treated as being made in New Zealand by section 8(4B) together with any one of sections 9(1), 9(3)﻿(a), 9(3)﻿(aa), 9(6), 9(8), 25AA(2)﻿(a) or 25AA(3)﻿(a); or
     (ii) if the supply of goods and services is made during the taxable period by the registered person and neither of subparagraphs (i) and (ib) applies; or
-  (c) in the case of a registered person who is required to account for tax payable under section 21D(1) and (3)﻿(b), for the relevant adjustment period.
+  (c) in the case of a registered person who is required to account for tax payable under section 21D(1) and (3)﻿(b) or 21FB(4), for the relevant adjustment period.
 (4B) A person who is treated under section 5(23) as a supplier of goods under section 11(1)﻿(mb) is denied a deduction under subsection (3) in relation to the supply. However, this subsection does not apply to a person required to account for tax under section 5(23) who is either a registered person or later becomes a registered person and uses the relevant goods for making taxable supplies.
 (4C) For a supply of remote services to which section 8(3)﻿(c) applies, a recipient of the supply is denied a deduction of input tax in relation to the supply unless the recipient has obtained a tax invoice under section 24(5B).
 (4D) Subsection (4C) does not apply to a supply of remote services that is treated by section 5B as being made by the recipient and the recipient has accounted for the output tax charged on the supply.
@@ -1376,6 +1401,9 @@ If a person makes a return that includes a figure for the value of supplies char
 (1) A registered person must ascertain at the end of an adjustment period whether an adjustment is required to be made for any percentage difference in a supply of goods or services for the period in relation to the actual use of those goods or services for making taxable supplies.
 (2) Despite subsection (1), the person is not required to make an adjustment if—
   (a) section 20(3D) applies to them:
+  (ab) the person is a non-resident who has incurred input tax as defined in section 3A(1)﻿(b) for goods and who—
+    (i) exports the goods in or before the adjustment period; and
+    (ii) disposes of the goods overseas in the adjustment period or holds the goods overseas at the end of the adjustment period:
   (b) the value of the goods or services, excluding GST, is $5,000 or less:
   (c) the difference between the percentage intended use on acquisition and the percentage actual use for the relevant adjustment period is less than 10 percentage points, but this paragraph does not apply if the adjustment amounts to more than $1,000:
   (d) the difference between the previous actual use calculated for the most recent adjustment period in which an adjustment was made and the percentage actual use for the relevant adjustment period is less than 10 percentage points, but this paragraph does not apply if the adjustment amounts to more than $1,000.
@@ -1383,6 +1411,11 @@ If a person makes a return that includes a figure for the value of supplies char
 (4) For an adjustment to which sections 21A to 21H apply, a registered person who principally makes supplies of financial services may choose to use a fair and reasonable method, as agreed with the Commissioner, for making adjustments in subsequent adjustment periods. For this purpose,—
   (a) the method must have regard to the tenor of sections 21A to 21H:
   (b) the person may include a group of companies.
+(4B) A registered person may choose to use, for making adjustments to which sections 21A to 21H apply, a fair and reasonable method of calculating adjustments that—
+  (a) has regard to the tenor of sections 21A to 21H; and
+  (b) is agreed with the Commissioner by—
+    (i) the registered person, if the registered person reasonably expects to make supplies of goods or services with a value of more than $24,000,000 in a 12-month period that includes the month in which the registered person proposes the agreement:
+    (ii) an industry association, if the method is intended by the Commissioner and the industry association to be available to a person such as the registered person.
 (5) In determining the extent of percentage actual use and percentage intended use of a motor vehicle, a registered person may refer to a logbook as provided for in sections DE 6 to DE 11 of the Income Tax Act 2007.
 
 ### 21A When adjustments required
@@ -1429,7 +1462,7 @@ For the purposes of section 21A(b),—
   (b) percentage difference has the meaning set out in section 21G(1)﻿(c).
 (3) For the purposes of subsection (1) and section 20G,—
   (a) if the adjustment is positive and the percentage actual use is more than the person's percentage intended use or previous actual use, as applicable, the person is entitled to an additional deduction under section 20(3)﻿(e) or (hb), as applicable:
-  (b) if the adjustment is negative and the percentage actual taxable use is less than the person's percentage intended use or previous actual use, as applicable, the person must treat the amount as a positive amount of output tax and account for it under section 21A.
+  (b) if the adjustment is negative and the percentage actual taxable use is less than the person's percentage intended use or previous actual use, as applicable, the person must treat the amount as a positive amount of output tax and attribute it to a taxable period under section 20(4).
 
 ### 21E Concurrent uses of land
 (1) This section applies when a registered person simultaneously uses the same area of land during an adjustment period for making concurrent taxable and non-taxable supplies. The percentages determined under this section apply for the purposes of sections 21A and 21G.
@@ -1544,10 +1577,10 @@ For the purposes of section 21A(b),—
   (b) treat the supply as an exempt supply for that period and for subsequent periods, and for this purpose, the election to treat the supply as an exempt supply does not constitute a change of use for the purposes of section 21FB(4).
 
 ### 21HC Transitional rules relating to members of unit title bodies corporate
-(1) A member of a unit title body corporate that acquires a supply of goods or services (the corporate supply) on or before 26 February 2015 and in a taxable period ending on or after 1 November 2010 may make a deduction under section 20(3)﻿(hc) for the taxable period if—
+(1) A member of a unit title body corporate that acquires a supply of goods or services (the corporate supply) in a taxable period that ends on or after 1 November 2010 and before 3 November 2015, or that includes 3 November 2015, may make a deduction under section 20(3)﻿(hc) for the taxable period if—
   (a) at the time of the corporate supply, the unit title body corporate is not a registered person and the member is a registered person; and
   (b) the unit title body corporate acquires the corporate supply for the purpose of making a supply (the membership supply) under a power or duty set out in section 84 of the Unit Titles Act 2010 that the member uses in making taxable supplies; and
-  (c) before 3 November 2015, the member makes a return for the taxable period that treats part of the corporate supply as being acquired by the member for use in making taxable supplies; and
+  (c) the member makes a return for the taxable period that treats part of the corporate supply as being acquired by the member for use in making taxable supplies; and
   (d) the member maintains sufficient records to enable the Commissioner to ascertain—
     (i) the nature of the corporate supply and the membership supply; and
     (ii) the amount that the member pays to the unit title body corporate for the membership supply; and
@@ -1630,14 +1663,14 @@ Any company, being a registered person, shall, where any amount of tax has been 
   (b) the supplier is a non-resident supplier of remote services to which section 8(3)﻿(c) applies.
 (5B) Despite subsection (5), a supplier may choose to provide a tax invoice to the recipient of the services if—
   (a) the supplier is a non-resident supplier of remote services to which section 8(3)﻿(c) applies, and—
-    (i) section 8(4) was incorrectly applied to the treatment of the supply, so that the services were treated as being supplied in New Zealand when they should have been treated as being supplied outside New Zealand; or
+    (i) section 8(4D) was incorrectly applied to the treatment of the supply, so that the services were treated as being supplied in New Zealand when they should have been treated as being supplied outside New Zealand; or
     (ii) section 11A(1)﻿(x) was incorrectly applied to the treatment of the supply, so that the supply was not zero-rated when it should have been; and
   (b) the consideration in money for the supply, in New Zealand currency as at the time of the supply, does not exceed $1,000; and
   (c) the recipient—
     (i) notifies the supplier that they are a registered person:
     (ii) provides their registration number or New Zealand business number to the supplier.
 (5C) Subsection (5B) does not apply to the supply of a contract of insurance.
-(5D) If an election is made under subsection (5B) in circumstances where section 8(4) was incorrectly applied to the treatment of the supply, the supplier and the recipient are treated as agreeing that section 8(4) will not apply to the supply.
+(5D) If an election is made under subsection (5B) in circumstances where section 8(4D) was incorrectly applied to the treatment of the supply, the supplier and the recipient are treated as agreeing that section 8(4) will not apply to the supply.
 (6) Where the Commissioner is satisfied that there are or will be sufficient records available to establish the particulars of any supply or class of supplies, and that it would be impractical to require that a tax invoice be issued pursuant to this section, the Commissioner may determine that, subject to any conditions that the Commissioner may consider necessary,—
   (a) any 1 or more of the particulars specified in subsection (3) or subsection (4) shall not be contained on a tax invoice; or
   (b) a tax invoice is not required to be issued.
@@ -1767,6 +1800,14 @@ A registered person who receives a supply of services that is treated by section
   (a) less than the deduction actually claimed by the person, the amount of the deficiency is treated as being tax charged in relation to a taxable supply made by the person:
   (b) more than the deduction actually claimed by the person, the amount of the excess is a deduction under section 20(3) for the person.
 
+### 25AB Consequences of change in contract for secondhand goods
+(1) This section applies to a supply of secondhand goods to a registered person if—
+  (a) the supply is affected by an event referred to in section 25(1)﻿(a) to (c); and
+  (b) the registered person returns input tax on the supply as a deduction from the amount of output tax for a taxable period in the calculation of tax payable by the registered person for the taxable period; and
+  (c) as a result of the event referred to in paragraph (a), the amount of input tax on the supply returned by the registered person exceeds the correct amount of input tax for the supply; and
+  (d) the supplier does not provide a tax invoice or debit note in relation to the supply.
+(2) An amount equal to the amount of the excess referred to in subsection (1)﻿(c) is treated as being tax charged in relation to a taxable supply made by the registered person for the taxable period in which the event referred to in subsection (1)﻿(a) occurs.
+
 ### 25A Commissioner may approve use of symbols, etc, on electronically transmitted invoices and credit and debit notes
 (1) The Commissioner may, for the purpose of facilitating the electronic transfer of tax invoices and credit or debit notes, approve the use in any such electronic transfer of symbols, abbreviations, or other notations to represent any particulars required by section 24 or 25 to be contained in a tax invoice or a credit or debit note.
 (2) Any such approval—
@@ -1788,6 +1829,7 @@ A registered person who receives a supply of services that is treated by section
   (c) written off as a bad debt the whole or part of that amount not paid to that registered person,—
 (2) Where any amount in respect of which a deduction has been made in accordance with subsection (1) is at any time wholly or partly recovered by the registered person, that portion of the amount of the deduction allowable under subsection (1) as the amount of the bad debt recovered bears to the bad debt written off shall be deemed to be the tax charged in relation to a taxable supply made during the taxable period in which the bad debt is wholly or partly recovered.
 (3) This section does not apply when the taxable supply is one made by a principal to an agent as described in section 60(1B)﻿(a) if the agent has been paid for the supply described in section 60(1B)﻿(b).
+(4) This section does not apply when the taxable supply is made by an agent to a principal as described in section 60(2B)﻿(b).
 
 ### 26A Factored debts
 (1) This section applies to a registered person who—
@@ -1934,7 +1976,7 @@ A registered person who receives a supply of services that is treated by section
   (b) the person has received a refund under section 19C(8), 20(5) or 46; and
   (c) the Commissioner is satisfied that the person was entitled to receive the amount at the time of the refund but did not; and
   (d) the 4-year period beginning from the end of the year in which the refund was made has not ended.
-(4) The Commissioner may refund an overpayment of tax that is referred to in subsection (2) or (3) after the end of the 4-year period referred to in the subsection, if—
+(4) The Commissioner may refund an overpayment of tax that is referred to in subsection (1), (2), or (3) after the end of the 4-year period referred to in the subsection, if—
   (a) the overpayment of tax is the result of a clear mistake or simple oversight of the person; and
   (b) the refund is made—
     (i) within the period of 4 years beginning from the end of the 4-year period referred to in the subsection:
@@ -2015,9 +2057,9 @@ In any case where, upon the investigation by the Commissioner of the liability o
 ### 51B Persons treated as registered
 (1) For the purposes of Parts 3 and 6, and of Part 9 of the Tax Administration Act 1994, the following are treated as registered persons:
   (a) a person who is not otherwise a registered person but who supplies goods or services, representing that tax is charged on the supply:
-  (b) if goods are treated by section 5(2) as being supplied by a person—
-    (i) the person selling the goods, if subparagraph (ii) does not apply; or
-    (ii) the person whose goods are sold, if the person provides a notice under section 5(2)﻿(a) to the person selling the goods and the Commissioner considers that the notice is incorrect:
+  (b) if goods are supplied by a sale to which section 5(2) applies,—
+    (i) the person selling the goods, if the requirements of section 5(2)﻿(a) and (b) are not met and subparagraph (ii) does not apply; or
+    (ii) the person whose goods are sold, if the person provides to the person selling the goods a statement that does not meet the requirements of section 5(2)﻿(a):
   (c) a person whose registration has been cancelled under section 52(5) with effect from the original date of registration:
   (d) a non-resident person referred to in section 54B(2).
 (2) If a person referred to in subsection (1) represents that tax is being charged on a supply that they make in a taxable period, the person is liable to pay the amount of the tax.
@@ -2069,17 +2111,24 @@ The obligations and liabilities under this Act of any person in respect of anyth
   (a) the person—
     (i) is registered for a consumption tax in the country or territory in which they are resident; or
     (ii) if the country or territory in which the person is resident does not have a consumption tax, or has a consumption tax that does not apply to the person's activities, is carrying on a taxable activity, and has a level of taxable activity in a country or territory that would render them liable to be registered under section 51(1) if they were carrying out the taxable activity in New Zealand; and
-  (b) the amount of the person's input tax for the first taxable period after the date of registration in New Zealand is likely to be more than $500; and
-  (c) the person's taxable activity does not involve a performance of services in relation to which it is reasonably foreseeable that the performance of the services will be received in New Zealand by a person who is not a registered person; and
-  (d) the person—
-    (i) is not carrying on a taxable activity in New Zealand, or intending to carry on a taxable activity in New Zealand; and
-    (ii) is not, and does not intend to become, a member of a group of companies that is carrying on a taxable activity in New Zealand.
+  (b) for the first taxable period after the date of registration in New Zealand, the amount of the person’s input tax is likely to be more than $500 or the person is likely to be liable for tax levied under section 12(1) in relation to the importation of goods that are received by another person or that the person delivers to another person; and
+  (c) the person's taxable activity does not involve a performance of services in relation to which it is reasonably foreseeable that the performance of the services will be received in New Zealand by a person other than in the course of making taxable or exempt supplies; and
+  (d) the person is not making, or intending to make,—
+    (i) a taxable supply in New Zealand; or
+    (ii) a supply in New Zealand that would be a taxable supply if the person were registered under section 51, to a person in New Zealand who is not a registered person; and
+  (e) the person is not, and does not intend to become, a member of a group of companies that makes taxable supplies in New Zealand.
 (2) If a non-resident person who is registered under this section starts making taxable supplies, or becomes a member of a group of companies that is making taxable supplies, they are treated as registered on the date specified by the Commissioner under subsection (1), and not being registered under this section from the date on which they start making taxable supplies or the date on which they join the group, as applicable.
 (3) For timing purposes, the following days are treated as the end of a taxable period:
   (a) the day on which a person ceases to be eligible to be registered under this section:
   (b) the day on which a person who is otherwise registered becomes registered under this section.
+(4) Subsections (5) and (6) apply when a person—
+  (a) is registered under section 51; and
+  (b) has a branch or division; and
+  (c) makes a taxable supply in New Zealand.
+(5) The person may be treated in relation to their branch or division as a separate person who may, if they meet the requirements of subsection (1), apply to the Commissioner for registration under this section.
+(6) In relation to the registration of the person, section 56(6) does not apply to require the person and the branch or division to have, between themselves, consistent practices for taxable periods and accounting bases.
 
-### 54C Cancellation of registration of certain non-resident suppliers
+### 54C Cancellation of registration of certain non-residents
 (1) Section 52 applies to the cancellation of registration of a non-resident person registered under section 54B as modified by this section.
 (2) The Commissioner may, in addition to the powers provided under section 52(5) and (5A), cancel the person's registration if—
   (a) the Commissioner is satisfied that the person no longer meets the requirements of section 54B(1)﻿(a):
@@ -2130,10 +2179,10 @@ The obligations and liabilities under this Act of any person in respect of anyth
   (e) any input tax paid or payable by a member of the group shall be deemed to be paid or payable by the representative member; and
   (f) any obligation on any member of the group, other than the representative member, pursuant to section 16, shall be disregarded:
   provided that—
-    (g) all members of the group shall remain liable jointly and severally for any tax payable by the representative member; and
+    (g) a member of the group is liable jointly and severally with all other members of the group for all tax payable by the representative member for each taxable period, or part of a taxable period, in which the member is part of the group, even if the member is no longer part of the group or a representative member ceases to exist; and
     (h) the provisions of section 24, section 75, and Part 8 shall continue to apply to all such members of the group.
 (7B) Subsection (7), apart from paragraphs (b) and (e) to (h), does not apply to a group of companies in relation to a supply of services that is treated by section 8(4B) as being made in New Zealand.
-(8) Where the Commissioner is satisfied in relation to 2 or more registered persons (not each being companies) that—the Commissioner may deem those registered persons to be members of a group, and subsections (2) to (7) shall apply as if every reference in the said subsections to a group of companies were a reference to that group, and as if every reference in the said subsections (2) to (7) to companies were a reference to the members of the group.
+(8) If the members of a group of 2 or more registered persons include a person that is not a company or is a limited partnership and the Commissioner is satisfied in relation to the members of the group that—the Commissioner may deem those registered persons to be members of a group, and subsections (2) to (7) shall apply as if every reference in the said subsections to a group of companies were a reference to that group, and as if every reference in the said subsections (2) to (7) to companies were a reference to the members of the group.
   (a) one of them controls each of the others; or
   (b) one person controls all of them; or
   (c) 2 or more persons carrying on a taxable activity in partnership control all of them,—
@@ -2211,6 +2260,9 @@ The obligations and liabilities under this Act of any person in respect of anyth
   (b) a supply of those services from the operator of the marketplace to the recipient, treating the operator as if they were the underlying supplier of the services.
 (2) Subject to this section, for the purposes of this Act, where any registered person makes a taxable supply of goods and services to an agent who is acting on behalf of another person who is the principal for the purposes of that supply, that supply shall be deemed to be made to that principal and not to that agent:
   provided that that agent may nevertheless request that that agent be issued with a tax invoice and that registered person may issue a tax invoice or a credit note or a debit note as if the supply were made to that agent.
+(2B) Despite subsection (2), when a principal and their agent agree, and record their agreement in a document, either in relation to a particular supply or for a type of supply, that this subsection applies to a supply of goods or services, the supply by a person is treated for the purposes of the Act as 2 separate supplies, being—
+  (a) a supply of goods and services from the person to the agent, treating the agent as if they were the principal for the purpose of the supply; and
+  (b) a supply of those goods and services from the agent to the principal.
 (3) Where a tax invoice or a credit note or a debit note in relation to a supply has been issued—the agent shall maintain sufficient records to enable the name and address and registration number (if any) of the principal to be ascertained.
   (a) by an agent pursuant to subsection (1); or
   (b) to an agent pursuant to subsection (2),—
@@ -2264,7 +2316,7 @@ The obligations and liabilities under this Act of any person in respect of anyth
 (4) This section overrides section 60(1).
 
 ### 61 Liability for tax payable by company left with insufficient assets
-Section HD 15 of the Income Tax Act 2007, with any necessary modifications, applies for the purpose of this Act as if the terms income tax or tax read goods and services tax.
+Section HD 15 of the Income Tax Act 2007, with any necessary modifications, applies for the purpose of this Act as if the terms income tax or tax read goods and services tax and as if the term time bar referred to the time bar under section 108A of the Tax Administration Act 1994.
 
 ### 61A Company amalgamations
 (1) For the purposes of this section, the terms amalgamated company, amalgamating company, and amalgamation have the same meanings as in section YA 1 of the Income Tax Act 2007.
