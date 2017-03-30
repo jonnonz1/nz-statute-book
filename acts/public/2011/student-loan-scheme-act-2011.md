@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-03-30_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -2328,6 +2328,9 @@ The borrower’s adjusted net income does not include the amount of a main incom
 (1) This clause applies to a borrower to whom clause 12 does not apply if the borrower's employer makes a motor vehicle or a short term charge facility available to the borrower in the income year.
 (2) If the borrower's employer makes a motor vehicle available for the borrower’s private use (the benefit) and, under the terms of the borrower’s employment, the borrower would be entitled to a greater amount of employment income if the borrower chose not to receive the benefit, the borrower's adjusted net income for that income year includes an amount equal to the amount by which the borrower's employment income would be greater without the benefit.
 (3) If the borrower's employer makes any short term charge facility available to the borrower (the facility), and the total value for the income year of any such facilities (excluding any fringe benefit tax) is more than the lesser of $1,200 or 5% of the borrower's salary or wages, then the borrower's adjusted net income for the income year includes the total value of the facilities including any fringe benefit tax.
+(4) In calculating under subclause (3) the amount of fringe benefit tax on a facility, the person may use—
+  (a) the rate of fringe benefit tax used by the person’s employer in calculating the fringe benefit tax payable on the facility:
+  (b) the maximum basic rate of fringe benefit tax specified in the Income Tax Act 2007, schedule 1, part C, table 1.
 
 ### 13 Income from deposits in main income equalisation accounts
 [Repealed]
@@ -2336,6 +2339,9 @@ The borrower’s adjusted net income does not include the amount of a main incom
 If, in the income year, a borrower derives a pension or an annuity that is exempt income of the borrower under section CW 4 of the Act (Annuities under life insurance policies) or is a pension from a superannuation fund, the adjusted net income of the borrower for the income year—
   (a) includes half the amount of pension or annuity derived in the income year; and
   (b) does not include the other half of the amount of pension or annuity derived in the income year.
+
+### 14B Remission income of discharged bankrupt excluded
+[Repealed]
 
 ### 15 Payments from trusts, not being beneficiary income, and where borrower not settlor
 (1) For the purposes of calculating adjusted net income, a borrower must include all payments from trusts in the adjusted net income of the person derived in the income year in which the distribution is made where—
