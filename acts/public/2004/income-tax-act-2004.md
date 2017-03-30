@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2016-02-24_
+_Consolidation as at 2017-03-30_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -822,7 +822,9 @@ General test
   (a) the company provides money or money's worth to the person; and
   (b) if the person provides any money or money's worth to the company under the same arrangement, the market value of what the company provides is more than the market value of what the person provides.
 Release of debt
-(2) A company provides money's worth to a person if the person is released from an obligation to pay money to the company, either by agreement or by operation of law.
+(2) A company (the creditor) provides money’s worth to a person (the debtor) if the debtor is released from an obligation to pay money to the creditor, either by agreement or by operation of law, except to the extent to which—
+  (a) the obligation the debtor is released from is an amount of debt to which section EW 46B(3) (Consideration when debt forgiven within economic group) applies; and
+  (b) at the time the debtor is released, the debtor is a company that is a member of the same wholly-owned group as the creditor, and the debtor is described in section EW 46B(1)﻿(a) or (b).
 When shares are cancelled
 (2B) The market value of any transfer from the shareholder to the company on the cancellation of a share of the shareholder's rights as a shareholder is zero.
 Provision of services for less than market value
@@ -1413,6 +1415,22 @@ Subscriptions amount: share-for-share exchanges
 Subscriptions amount: no uplift for share-for-share exchanges
 (10) If subsection (9) applies, the subscriptions amount does not include the amount received to the extent to which it is more than the total available subscribed capital per share, calculated under the slice rule and calculated after deducting any ineligible capital amount described in subsections (13) and (14) of the shares in the other company at the date on which the amount is received.
 Subscriptions amount: company share capital reorganisation
+When subsection (10D) applies
+(10B) Subsection (10D) applies for a company (the calculation company) for which the calculation in subsection (1) is being performed if—
+  (a) section EW 46B(1)﻿(a) or (b) (Consideration when debt forgiven within economic group) applies to a creditor and debtor that are in the same wholly-owned group of companies as the calculation company; and
+  (b) the creditor is a non-resident company; and
+  (c) section EW 46B(3) does not apply; and
+  (d) the calculation company is the debtor, or the calculation company holds, before section OD 3 or OD 4 (which relate to voting interests and market value interests) is applied to the calculation company, voting interests or, if a market value exists for a company that is part of the wholly-owned group of companies, market value interests, in the debtor.
+When subsection (10D) applies
+(10C) Subsection (10D) also applies if section EW 46B(1)﻿(c) applies to a creditor or single creditor group under that section, and the company for which the calculation in subsection (1) is being performed (the calculation company)—
+  (a) is the creditor’s debtor, to whom section EW 46B(1)﻿(c) applies:
+  (b) has, before the application of section OD 3 or OD 4, either voting interests in the creditor’s debtor, to whom section EW 46B(1)﻿(c) applies or market value interests in the creditor’s debtor, to whom section EW 46B(1)﻿(c) applies, if a market value circumstance exists for the debtor.
+Subscriptions amount: debt forgiven within economic group
+(10D) For the calculation company, the subscriptions amount is treated as including the amount of debt to which section EW 46B(5) applies for the creditor, for the class of shares that the creditor has the most voting interests for, or, if the creditor is the single creditor group under section EW 46B(1)﻿(c), for the class of shares that a member of the group has the most voting interests for. The maximum subscriptions amount included for an amount of debt for a calculation company is,—
+  (a) if the calculation company is the debtor, the amount of debt:
+  (b) if the calculation company is not the debtor, the amount of debt multiplied by 1 of the following interests, determined before the application of section OD 3 or OD 4:
+    (i) the calculation company’s voting interests in the creditor’s debtor; or
+    (ii) the calculation company’s market value interest in the creditor’s debtor, if there is a market value circumstance.
 (11) Subsection (12) applies if a company receives an amount for the issue of shares in the class in the form of—
   (a) a shareholder giving up rights of membership in the company; or
   (b) a shareholder giving up rights of membership in a company associated with the company or that is in substance the same company.
@@ -1509,8 +1527,14 @@ Capital gain amount: amalgamated company inheriting gain
 (8) An amalgamated company is treated as deriving a capital gain amount at the time of the amalgamation equal to a capital gain amount of an amalgamating company to the extent to which—
   (a) the amalgamating company ceases to exist on the amalgamation; and
   (b) the amalgamating company's capital gain amount was available for distribution at the time and was not distributed to anyone other than the amalgamated company.
+Capital gain amount: consideration when debt forgiven within economic group
+(8B) The amount of a debt that section EW 46B (Consideration when debt forgiven within economic group) applies to does not give rise to a capital gain amount if section CD 32(10D) does not apply to it.
 Capital losses amount: when capital losses arise
-(9) For the purposes of this section, a company incurs a capital loss if it disposes of capital property for an amount of consideration less than the cost of the property to the company. The capital loss amount is the deficit.
+(9) For the purposes of this section, a company incurs a capital loss if it disposes of capital property for an amount of consideration that is less than—
+  (a) the adjusted tax value of the property at the date of disposal, if the property is an item of depreciable property; or
+  (b) the cost of the property to the company at the date of disposal, if the property is not an item of depreciable property.
+Capital loss amount
+(9B) The capital loss amount for a disposal referred to in subsection (9) is equal to the deficit referred to in that subsection for the disposal.
 Capital losses amount: company existing before 1 April 1988
 (10) In the case of a company that existed before 1 April 1988, the capital losses amount cannot be more than the total of—
   (a) the amount of the capital gains item in the formula in subsection (1) to the extent derived after 31 March 1988; and
@@ -2111,7 +2135,7 @@ General rule
   (b) at that time, the rights are an attributing interest in a FIF under sections EX 30 (Attributing interests in FIFs) and EX 31 (Direct income interests in FIFs); and
   (c) at that time, the rights are not exempt from being an attributing interest in a FIF under any of—
     (i) the CFC rules exemption in section EX 32 (CFC rules exemption):
-    (ii) the grey list exemption in section EX 33 (Exemptions: direct income interests in FIF in grey list country):
+    (ii) the grey list exemption in section EX 33(Exemptions: direct income interests in FIF in grey list country):
     (iib) the exemptions limited by income years in section EX 33B (Exemptions limited by income years: shares in certain grey list companies):
     (iic) the exemption for shares in a listed Australian company in section EX 33C (Exemption: shares in listed Australian company):
     (iid) the exemption for units in certain Australian unit trusts in section EX 33D (Exemption: units in certain Australian unit trusts):
@@ -4053,6 +4077,11 @@ Temporary change in workplace
   (c) reimburses the employee for transport costs that would have been incurred relating to travel by one or more of the employee's spouse, civil union partner, or de facto partner, and relatives for the purpose of visiting the employee in the temporary place of work; and
   (d) has a value that is no more than the amount that would be provided under the allowance described in subsection (1)﻿(b).
 
+### CX 17B Transport in vehicle other than motor vehicle
+A benefit that an employer provides to an employee in the form of transport of the employee in a vehicle is not a fringe benefit if the vehicle—
+  (a) is not a motor vehicle; and
+  (b) is not designed principally for the carriage of passengers.
+
 ### CX 18 Benefits to enable performance of duties
 The taxable value of a benefit that an employer provides to an employee by way of subsidised transport, or in the form of expenditure that an employer incurs on accommodation or transport provided to an employee, is zero if the expenditure—
   (a) relates to travel by the employee in order for them to perform their employment duties; and
@@ -4390,7 +4419,7 @@ An amount of share-lending collateral derived by a person under a share-lending 
 
 ### CX 44C Proceeds from disposal of certain shares by portfolio investment entities or New Zealand Superannuation Fund
 When this section applies
-(1) This section applies to income derived by a portfolio investment entity or by a life insurer, in relation to that part of the life insurer that is a portfolio investment-linked life fund, or the New Zealand Superannuation Fund from the disposal of a share if—
+(1) This section applies to income derived by a portfolio investment entity or by a life insurer, in relation to that part of the life insurer that is a portfolio investment-linked life fund,or the New Zealand Superannuation Fund from the disposal of a share if—
   (a) the share is issued by a company resident in New Zealand and not treated under a double tax agreement as not being resident in New Zealand or by a company—
     (i) resident in Australia and not treated as being resident in a country other than Australia in an agreement between Australia and another country that would be a double tax agreement if the agreement were negotiated between New Zealand and the other country; and
     (ii) included in an index that is an approved index under the ASX Market Rules, made under Chapter 7 of the Corporations Act 2001 (Aust); and
@@ -5563,7 +5592,7 @@ When subsection (2) applies
   (a) a person, other than a close company, carries on a business; and
   (b) a former employee has retired from their employment in the business or their employment has ended through redundancy or similar circumstances; and
   (c) they are paid a pension in consideration of their past services in the business; and
-  (d) they or their spouse, civil union partner or de facto partner has a right to receive the pension under a deed for a fixed period or for life or, in the case of the spouse, civil union partner or de facto partner, until the spouse, civil union partner or de facto partner enters a new marriage, civil union partner or de facto relationship.
+  (d) they or their spouse, civil union partner or de facto partner has a right to receive the pension under a deed for a fixed period or for life or, in the case of the spouse, civil union partner or de facto partner, until the spouse, civil union partner or de facto partnerenters a new marriage, civil union partner or de facto relationship.
 Deduction: not close company
 (2) The person is allowed a deduction for a reasonable amount paid as the pension to the former employee or their surviving spouse, civil union partner or de facto partner.
 When subsection (4) applies
@@ -5573,7 +5602,7 @@ When subsection (4) applies
   (c) the former employee's employment in the company was genuine; and
   (d) they have retired from the employment or their employment has ended through redundancy or similar circumstances; and
   (e) they are paid a pension in consideration of their past services in the business; and
-  (f) they or their spouse, civil union partner or de facto partner has a right to receive the pension under a deed for a fixed period or for life or, in the case of the spouse, civil union partner or de facto partner, until the spouse, civil union partner or de facto partner enters a new marriage, civil union or de facto relationship.
+  (f) they or their spouse, civil union partner or de facto partner has a right to receive the pension under a deed for a fixed period or for life or, in the case of the spouse, civil union partner or de facto partner, until the spouse, civil union partner or de facto partnerenters a new marriage, civil union or de facto relationship.
 Deduction: close company
 (4) The close company is allowed a deduction for the amount paid as the pension to the former employee or their surviving spouse, civil union partner or de facto partner.
 Amount of deduction under subsection (4)
@@ -5596,7 +5625,7 @@ Deduction
 (3) The person is allowed a deduction for their share of an amount, to the extent to which the amount is reasonable, paid as a pension to a former partner, or to the spouse, civil union partner or de facto partner of a deceased former partner, if—
   (a) the partnership in which the former partner was a partner (old partnership) carried on the same business as that now carried on either by the partnership that is paying the pension or by the person in business who is paying the pension; and
   (b) the former partner retired from the old partnership or their employment ended through retirement; and
-  (c) the former partner or their spouse, civil union partner or de facto partner has a right to receive the pension under a deed for a fixed period or for life or, in the case of the spouse, civil union partner or de facto partner, until the spouse, civil union partner or de facto partner enters a new marriage, civil union or de facto relationship; and
+  (c) the former partner or their spouse, civil union partner or de facto partner has a right to receive the pension under a deed for a fixed period or for life or, in the case of the spouse, civil union partner or de facto partner, until the spouse, civil union partner or de facto partnerenters a new marriage, civil union or de facto relationship; and
   (d) the pension is paid for the former partner's services in the old partnership.
 Link with subpart DA
 (4) This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
@@ -6156,7 +6185,7 @@ General rule
   (b) at that time, the rights are an attributing interest in a FIF under sections EX 30 (Attributing interests in FIFs) and EX 31 (Direct income interests in FIFs); and
   (c) at that time, the rights are not exempt from being an attributing interest in a FIF under any of—
     (i) the CFC regime exemption in section EX 32 (CFC rules exemption):
-    (ii) the grey list exemption in section EX 33 (Exemptions: direct income interests in FIF in grey list country):
+    (ii) the grey list exemption in section EX 33(Exemptions: direct income interests in FIF in grey list country):
     (iib) the exemptions limited by income years in section EX 33B (Exemptions limited by income years: shares in certain grey list companies):
     (iic) the exemption for shares in a listed Australian company in section EX 33C (Exemption: shares in listed Australian company):
     (iid) the exemption for units in certain Australian unit trusts in section EX 33D (Exemption; units in certain Australian unit trusts):
@@ -7446,6 +7475,11 @@ Timing of deduction
 (3) The deduction for the distribution is allocated to the income year for which the distribution is made.
 Link with subpart DA
 (4) This section supplements the general permission. The general limitations still apply.
+
+### DV 10C Cost base for shares when debt forgiven within economic group
+For a shareholder of a company that is a calculation company under section CD 32(10B) or (10C) (Available subscribed capital amount), an amount of the subscriptions amount under section CD 32(10D) for the calculation company is treated as expenditure incurred for the purchase of the shareholder’s shares in the calculation company. The maximum expenditure for the shareholder’s shares is the subscriptions amount under section CD 32(10D) for the calculation company multiplied by 1 of the following interests, determined before the application of section OD 3 or OD 4 (which relate to voting interests and market value interests):
+  (a) the shareholder’s voting interests in the calculation company; or
+  (b) the shareholder’s market value interest in the calculation company, if there is a market value circumstance.
 
 ### DV 11 Maori authorities: donations
 Deduction
@@ -9652,7 +9686,7 @@ Base value
 Adjusted tax value
 (7) Adjusted tax value is the item's adjusted tax value on the date on which the disposal or the event occurs.
 Amount of depreciation recovery income
-(8) Amount of depreciation recovery income is the amount described in section EE 41(1).
+(8) Amount of depreciation recovery income is the amount described in section EE 41(1)﻿(a).
 
 ### EE 43 Amount of depreciation recovery income when lost or stolen items recovered
 When this section applies
@@ -11901,10 +11935,10 @@ Consideration and amounts
 (1) A person using a spreading method must include, for the purpose of calculating and allocating income and expenditure under the financial arrangement,—
   (a) all consideration that has been paid, and all consideration that is or will be payable, to the person for or under the financial arrangement, ignoring—
     (i) non-contingent fees, if the relevant method is not the IFRS method described in section EW 15C:
-    (ii) non-integral fees, if the relevant method is the IFRS method described in section EW 15C or the equity-free fair value method in section EW 15E; and
+    (ii) non-integral fees, if the relevant method is the IFRS method described in section EW 15Cor the equity-free fair value method in section EW 15E; and
   (b) all consideration that has been paid, and all consideration that is or will be payable, by the person for or under the financial arrangement, ignoring—
     (i) non-contingent fees, if the relevant method is not the IFRS method described in section EW 15C:
-    (ii) non-integral fees, if the relevant method is the IFRS method described in section EW 15C or the equity-free fair value method in section EW 15E; and
+    (ii) non-integral fees, if the relevant method is the IFRS method described in section EW 15Cor the equity-free fair value method in section EW 15E; and
   (c) all amounts that have been remitted, and all amounts that are to be remitted, by the person under the financial arrangement; and
   (d) all amounts that would have been payable to the person under the financial arrangement if the amounts had not been remitted by law.
 Consideration in particular cases
@@ -12477,6 +12511,44 @@ Two points about subsections (1) and (2)
   (b) the means by which the debt is forgiven, whether in a will or otherwise, is immaterial.
 Consideration
 (4) The debtor is treated as having paid the debt on the date on which the creditor forgives it.
+
+### EW 46B Consideration when debt forgiven within economic group
+When this section applies
+(1) This section applies to the extent to which an amount of debt is forgiven and—
+  (a) the creditor is a member of the same wholly-owned group of companies as the debtor and the debtor is a New Zealand resident company:
+  (b) the creditor is a member of the same wholly-owned group of companies as the debtor and, for the debtor, a group of persons who are New Zealand resident companies (the NZ group) hold, before section OD 3 or OD 4 (which relate to measurement of voting interests and market value interests) is applied to the NZ group in relation to their interests,—
+    (i) common voting interests that add up to 100%; and
+    (ii) if a market value circumstance exists for a company that is part of a group of companies to which the debtor belongs, common market value interests that add up to 100%:
+  (c) if the debtor is a company, the creditor is not a member of the same wholly-owned group of companies as the debtor and the creditor has ownership interests or, as applicable, market value interests in the debtor:
+  (d) if the debtor is a partnership, the creditor has a partner’s interest in the income of the debtor:
+  (e) if the debtor is a look-through company, the creditor has an effective look-through interest in the debtor.
+Some points about this section
+(2) For the purposes of this section,—
+  (a) the means by which an amount of debt is forgiven is immaterial:
+  (b) a group of natural persons (the single creditor group) who are creditors or who have interests in the debtor are treated as one creditor holding the total debts and interests of the single creditor group, if each person has natural love and affection for the others. However, a trust may join the single creditor group if—
+    (i) the trust was established mainly to benefit a natural person for whom each person of the single creditor group has natural love and affection; and
+    (ii) the amount given by dividing the amount that the trust forgives the debtor by the trust’s proportional ownership ratio is less than the amount given by dividing the amount that the single creditor group forgives the debtor by the group’s proportional ownership ratio (for example: $100 forgiven by the trust ÷ 40% ownership is greater than $100 forgiven by group ÷ 50% ownership, so the trust may not join the group, even if the required natural love and affection exists):
+  (c) a group of persons (the single corporate creditor group) that are creditors or that have interests in the debtor are treated as 1 creditor holding the total debts and interests of the single corporate creditor group, if—
+    (i) each person is a member of the same wholly-owned group of companies; and
+    (ii) the debtor is not a member of the wholly-owned group of companies.
+When this section does not apply
+(3) This section does not apply if—
+  (a) the creditor and debtor are members of the same wholly-owned group of companies; and
+  (b) the creditor is a non-resident; and
+  (c) the debt has been held by a person that is not a member of the wholly-owned group of companies.
+Consideration: debtor
+(4) The debtor is treated as having paid the amount of debt on the date on which the creditor forgives it, if—
+  (a) the relevant debt, creditor, and debtor are described in subsection (1)﻿(a) or (b):
+  (b) the proportional debt ratio for the amount equals the proportional ownership ratio.
+Consideration: creditor
+(5) The creditor is treated as having been paid the amount of debt on the date on which the creditor forgives it, if—
+  (a) the relevant debt, creditor, and debtor are described in subsection (1)﻿(a) or (b):
+  (b) the proportional debt ratio for the amount equals the proportional ownership ratio.
+Some definitions
+(6) For the purposes of this section,—
+  - **nominal shares** are shares held by the trustee of a share purchase scheme, or employees or former employees of the debtor, if the total of those shares represent voting interests in the debtor that add up to no more than 3%, or, as applicable, market value interests in the company that add up to no more than 3%
+  - **proportional debt ratio** means, for a creditor and an amount of debt, the percentage that the creditor’s amount bears to the total amounts of debt to which this section applies forgiven at the time the creditor’s debt is forgiven
+  - **proportional ownership ratio** means the creditor’s percentage of the ownership interests or, as applicable, market value interests, total partner’s interests, or total effective look-through interests for the debtor, ignoring nominal shares.
 
 ### EW 47 Consideration when debtor released from obligation
 When this section applies
@@ -18788,10 +18860,19 @@ For the purpose of determining a person's effective interest in a company in res
 
 ### HG 10 Taxation of qualifying company
 Notwithstanding any other provision of this Act,—
-  (a) sections CW 9 to CW 11 do not apply to treat as exempt income any dividend derived by a company which has been at any time before the date of derivation a qualifying company, except to the extent that the dividend is a dividend to which section CW 9 applies; and
+  (a) sections CW 9 to CW 11 do not apply to treat as exempt income any dividend derived by a qualifying company, except to the extent that the dividend is a dividend to which section CW 9 applies; and
   (b) section IG 2(2) does not apply to permit any qualifying company to offset against its net income any amount on account of—
     (i) the loss of any other company; or
     (ii) a payment made to any other company,— unless the other company is also a qualifying company.
+
+### HG 10B Dividends derived by qualifying companies
+When this section applies
+(1) This section applies when a company derives a dividend (the derived dividend) after it becomes a qualifying company, if—
+  (a) the derived dividend is derived less than 7 years after the company ceases to be a qualifying company; and
+  (b) section CW 10 or CW 11 (which relate to exempt dividends) applies to the derived dividend; and
+  (c) the company paid a dividend that section HG 13(1)﻿(a) or (1A) applied to, when the company was a qualifying company.
+Dividend not exempt income
+(2) The derived dividend is not exempt income under section CW 10 or CW 11, except to the extent to which section CW 9 (Dividend derived by company from overseas) applies to it.
 
 ### HG 11 Taxation on election to become qualifying company
 (1) Where at any time any company not a qualifying company becomes a qualifying company, that company is liable to pay a special tax by way of an income tax known as qualifying company election tax.
@@ -19595,7 +19676,7 @@ When this section applies
 Investor return adjustment requirement
 (2) The investor return adjustment requirement is that the entity must make an adjustment referred to in subsection (3) to reflect the effect of the portfolio investor rate of an investor, as a member of a portfolio investor class, on—
   (a) the amount of the entity's portfolio entity tax liability for the portfolio investor class; and
-  (b) the amount of a rebate under section HL 26 or HL 27 allocated to the investor as a member of the portfolio investor class.
+  (b) the amount of a rebate under section HL 26 or HL 27allocated to the investor as a member of the portfolio investor class.
 Nature of adjustment
 (3) An adjustment reflecting the effect of the investor's portfolio investor rate must be made to—
   (a) the investor's portfolio investor interest in the portfolio investor class or another portfolio investor class—
@@ -19904,7 +19985,7 @@ Portfolio entity tax liability
   (b) zero, if paragraph (a) does not apply.
 Amount of rebate under section KI 1
 (2) For the purposes of section KI 1 (Rebate for portfolio tax rate entity relating to certain investors), the amount of a rebate for a portfolio tax rate entity for a calculation period is—
-  (a) the amount by which zero exceeds the total of the amounts calculated under subsection (3) for the calculation period and each portfolio investor class and each investor in the portfolio investor class to which the rebate relates, if the total is less than zero; or
+  (a) the amount by which zero exceeds the total of the amounts calculated under subsection (3)for the calculation period and each portfolio investor class and each investor in the portfolio investor class to which the rebate relates, if the total is less than zero; or
   (b) zero, if paragraph (a) does not apply.
 Calculation of amount for calculation period
 (3) The amount calculated under this subsection for an investor in a portfolio investor class and for a calculation period is the total of the amounts calculated using the formula in subsection (4) for—
@@ -21266,7 +21347,7 @@ A person who wishes to apply for a credit of tax, known as the guaranteed minimu
   (a) as if the calculation period were a specified period; and
   (b) using—
     (i) a value for specified income as directed by subsection (6)﻿(c); and
-    (ii) the amounts of family tax credit, in-work tax credit, child tax credit, parental tax credit, family credit abatement, and minimum family tax credit given by sections KD 2, KD 2AAA, and KD 3.
+    (ii) the amounts offamily tax credit, in-work tax credit, child tax credit, parental tax credit, family credit abatement, and minimum family tax credit given by sections KD 2, KD 2AAA, and KD 3.
 (7) The amount of any interim instalment by way of credit of tax under section KD 2 or, as the case may be, sections KD 2 and KD 3, in relation to any part of any elected period, that is shown in any certificate of entitlement issued to any person under subsection (4) is the amount that, but for this subsection, would be shown in that certificate of entitlement as the whole dollars comprised in that last-mentioned amount.
 (8) Where—the person is not entitled to make an application under subsection (2) in relation to that period and section KD 6 applies in relation to the person and the period.
   (a) a person—
@@ -27415,7 +27496,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **annual total deduction** is defined in section BC 3 (Annual total deduction)
   - **applicable basic tax rate** means,—
     (a) for a person other than a person to whom section 39 of the Tax Administration Act 1994 applies and for a tax year, the basic rate of income tax under schedule 1 (Basic rates of income tax and specified superannuation contribution withholding tax) that is applicable to the person's taxable income for the tax year; or
-    (b) for a person and for a tax year for which the person is filing a return under section 39 of the Tax Administration Act 1994 for a period that is less than or greater than 12 months, the basic rate of income tax under schedule 1 that would apply if the person's taxable income for the tax year were an amount calculated using the formula—
+    (b) for a person and for a tax year for which the person is filing a return under section 39 of the Tax Administration Act 1994 for a period that is less than or greater than 12 months, the basic rate of income tax under schedule 1that would apply if the person's taxable income for the tax year were an amount calculated using the formula—
   (a) is the number of days in the period for which the person is filing a return
   (b) is the person's taxable income for the period
   - **approved issuer** means a person for whom an approval under section NG 6 (Approval of person as approved issuer) is in force
@@ -28690,7 +28771,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (iii) does not include a repayment of money lent:
     (d) in sections DB 6 (Interest: not capital expenditure), DB 7 (Interest: most companies need no nexus with income), and DB 8 (Interest: money borrowed to acquire shares in group companies),—
       (i) includes expenditure incurred under the financial arrangements rules or the old financial arrangements rules; and
-      (ii) does not include interest to which section DB 1(1)﻿(c) (Taxes, other than GST, and penalties) applies:
+      (ii) does not include interest to which section DB 1(1)﻿(c)(Taxes, other than GST, and penalties) applies:
     (e) in the definition of exempt interest, includes a redemption payment:
     (f) for land, has the same meaning as estate
   - **interest instalment date** means an instalment date
@@ -29191,6 +29272,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (a) is defined in section MZ 5(4) (Application of excess tax to nil period) for the purposes of that section:
     (b) is defined in section MZ 6(3) (Application of excess tax for 2001-02 tax year) for the purposes of that section
   - **Niue International Trust Fund** means the trust governed by the Deed concerning the Niue International Trust Fund dated 25 October 2006 and signed by Her Majesty the Queen in right of New Zealand and the Governments of Niue and Australia
+  - **nominal share** is defined in section EW 46B (Consideration when debt forgiven within economic group) for the purposes of that section
   - **nominated company** , for a consolidated group, means the company for the time being nominated as agent of the group under section FD 4(2) (Formation of consolidated group) or FD 6 (Nominated companies)
   - **nominee** is defined in section OD 9(2) (Nominees are transparent)
   - **non-cash dividend** means a dividend to the extent to which it does not consist of—
@@ -29653,6 +29735,8 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (i) means any property, whether real or personal, legal or equitable, or tangible or intangible; and
       (ii) does not include a financial arrangement or foreign exchange:
     (e) in the old financial arrangements rules, is defined in section EZ 45 (Definitions)
+  - **proportional debt ratio** is defined in section EW 46B (Consideration when debt forgiven within economic group) for the purposes of that section
+  - **proportional ownership ratio** is defined in section EW 46B (Consideration when debt forgiven within economic group)
   - **proportional-stapling company** means a company if—
     (a) each share in the company that is not a fixed-rate share (a participating share) is stapled to a stapled debt security; and
     (b) for each participating share in the company, the amount payable for the issue of its stapled debt security is the same proportion of the available subscribed capital calculated under the slice rule of the participating share as it is for each other participating share
@@ -30468,7 +30552,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **trading stock** —
     (a) is defined in section EB 2 (Meaning of trading stock) for the purposes of—
       (ia) section CD 24B (Distribution to member of co-operative company based on member's transactions):
-      (i) section CD 37 (Cost of tangible property):
+      (i)
       (ii) section CH 1 (Adjustment for closing values of trading stock, livestock, and excepted financial arrangements):
       (iii) section CZ 9 (Available capital distribution amount: 1965 and 1985 to 1992):
       (iv) section DB 22 (Cost of non-specified mineral):
@@ -30486,17 +30570,20 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (xvi) section EX 47 (Codes: comparative value and deemed rate methods):
       (xvii) section EZ 22 (Meaning of new asset):
       (xviii) section EZ 23 (Meaning of New Zealand-new asset):
-      (xix) section FB 3 (Disposal of trading stock):
+      (xix)
       (xx) section FC 4 (Valuation adjustments where company acquires its shares):
       (xxi) section FC 10 (Taxation of hire purchase agreements):
       (xxii) section FD 10 (Special provisions relating to dispositions of property):
-      (xxiii) section FE 6 (Acquisition of property by amalgamated company on qualifying amalgamation):
-      (xxiv) section FG 4 (Rules for calculating New Zealand group debt percentage):
+      (xxiii)
+      (xxiv)
       (xxv) section HB 2 (Taxable income to be calculated generally as if group were single company):
       (xxvi) section HC 1 (Special partnerships):
-      (xxvii) section HF 1 (Profits of mutual associations in respect of transactions with members):
+      (xxvii)
       (xxviii) section HH 5 (Existing trusts becoming subject to tax):
       (xxix) the definitions of accrual expenditure, closing stock, cost, cost price, market value, produce transactions, and revenue account property:
+    (ab) in sections CD 37, FB 3, FE 6, FG 4, and HF 1 (which apply to livestock) means property that is—
+      (i) trading stock under section EB 2:
+      (ii) livestock:
     (b) in sections CG 6 (Receipts from insurance, indemnity, or compensation for trading stock), FF 13 (Trading stock), GD 1 (Sale of trading stock for inadequate consideration), GD 2 (Distribution of trading stock to shareholders of company), and GD 7 (Distribution of property to policyholders),—
       (i) includes anything produced or manufactured:
       (ii) includes anything acquired for the purposes of manufacture, sale, or exchange:
@@ -31018,7 +31105,7 @@ For the purposes only of the application of the credit account continuity provis
 (4) Subsection (1)﻿(c) does not apply for the purposes of sections HH 3C and HH 3D.
 
 ### OD 8 Further definitions of associated persons
-(1) For the purposes of sections CW 11B, DT 9 to DT 11, DT 15, EJ 14, GC 12, GD 2, and GD 15, associated persons, or persons associated with each other, are—
+(1) For the purposes of sections CW 11B,DT 9 to DT 11, DT 15, EJ 14, GC 12, GD 2, and GD 15, associated persons, or persons associated with each other, are—
   (a) any 2 companies where there is a group of persons—
     (i) the aggregate of whose voting interests in each company is equal to or exceeds 50%; or
     (ii) in any case where a market value circumstance exists in respect of either company, the aggregate of whose market value interests in each company is equal to or exceeds 50%; or
@@ -31036,7 +31123,7 @@ For the purposes only of the application of the credit account continuity provis
   (a) shares in a company or interests in a partnership held directly or indirectly by or for a company, partnership, or trust are deemed to be held proportionately by or for the shareholders, partners, or beneficiaries in the company, trust, or partnership; and
   (b) a person who is an individual is deemed to hold the shares in a company or the interests in a partnership which are held, or deemed to be held, by or for the person's relatives; and
   (c) shares in a company or interests in a partnership deemed to be held by a person by reason of the application of paragraph (a) are, for the purposes of applying paragraph (a) or (b), treated as being held directly by that person, but shares or interests deemed to be held by a person by reason of the application of paragraph (b) are not treated as being held by that person for the purpose of again applying paragraph (b) in order to make another person the deemed holder of those shares or interests.
-(3) In sections CX 6(1)﻿(b), CX 6B, DB 10, DS 4, DT 2, EC 10(4)﻿(b), EE 33 to EE 36, EE 50, EE 51, EW 45, EW 50, EZ 11, EZ 38, and FC 13, subpart FG, sections FH 1(2), GC 14B, GD 13, HK 11, HL 6, HL 9, KC 6, KH 2, and LC 1, subpart LF, and section NH 7, the definitions in section OB 1 of returning share transfer and share-lending arrangement, and sections OE 7, and OE 8, and in the international tax rules, associated persons or persons associated with each other are—50% or more, and for this purpose sections EX 8 to EX 10, EX 13, EX 17, EX 27, and GC 9 apply as if each reference to a CFC, controlled foreign company, or foreign company were a reference to a company and as if section GC 9(6) were omitted; or
+(3) In sections CX 6(1)﻿(b), CX 6B, DB 10, DS 4, DT 2, EC 10(4)﻿(b), EE 33 to EE 36, EE 50, EE 51, EW 45, EW 50, EZ 11, EZ 38, and FC 13, subpart FG, sections FH 1(2), GC 14B, GD 13, HK 11, HL 6, HL 9, KC 6, KH 2, and LC 1, subpart LF, and section NH 7, the definitions in section OB 1 of returning share transfer and share-lending arrangement, and sectionsOE 7, and OE 8, and in the international tax rules, associated persons or persons associated with each other are—50% or more, and for this purpose sections EX 8 to EX 10, EX 13, EX 17, EX 27, and GC 9 apply as if each reference to a CFC, controlled foreign company, or foreign company were a reference to a company and as if section GC 9(6) were omitted; or
   (a) any 2 companies where—
     (i) any group of persons—
       (A) has voting interests in each of those companies totalling in aggregate 50% or more; or
@@ -38858,3 +38945,170 @@ This Act is the Taxation (Tax Administration and Remedial Matters) Act 2011.
   (a) applies for the 2007–08 and later income years, unless paragraph (b) or (c) applies; or
   (b) applies for the first income year for which a person adopts IFRSs for the purposes of financial reporting and later income years, if that first income year is before the 2007–08 income year and the person chooses to apply the IFRS taxpayer method in a return of income for that first year; or
   (c) does not apply if a person's 2008–09 income year starts before 1 January 2008 and the person has not adopted IFRSs for the purposes of financial reporting before 1 January 2007.
+
+### 1 Title
+This Act is the Taxation (Annual Rates for 2016–17, Closely Held Companies, and Remedial Matters) Act 2017.
+
+### 2 Commencement
+(1) This Act comes into force on the day on which it receives the Royal assent, except as provided in this section.
+(2) Section 335 comes into force on the day on which the Taxation (Annual Rates for 2016–17, Closely Held Companies, and Remedial Matters) Bill is introduced.
+(3) Section 347(2) comes into force on 1 October 1986.
+(4) Section 297(1) comes into force on 14 December 1993.
+(5) Section 351(1) comes into force on 1 August 2003.
+(6) Sections 365, 386(1) and (2), 387, 388, 389, 390, 392, 393, and 394(5), (6), and (8) come into force on 1 April 2005.
+(7) Sections 385, 386(1) and (3), 391, and 394(2), (3), (4), and (7) come into force on 1 April 2006.
+(8) Sections 7, 8, 16, 20, 22(1), (9), and (10), 23(1), (2), (6), (8), and (9), 32, 38, 51, 64, 75, 94, 103, 114, 125, 128, 149(1) and (5), 150, 151, 162, 163, 168(1), 171(1), (2), (3), and (6), 172(1), 196, 206, 234, 256, 259, 263, 264, 288(9), (12), (13), (69), (90), (91), (113), (114), and (123), and 340 come into force on 1 April 2008.
+(9) Sections 40, 153(2), 189(2), 191, 198(1) and (3), 214(1), 220, 221, 224(1) and (3), 225(1), 228(2), 230, 236(1) and (3), 239(1), 288(7), (55), (56), (57), (74), (95), (97), (99), (102), (108), and (112), and 290 come into force on 1 April 2009.
+(10) Section 288(115) and (124) comes into force on 1 July 2009.
+(11) Sections 190 and 229 come into force on 6 October 2009.
+(12) Section 23(3) comes into force on 1 April 2010.
+(13) Sections 45, 49, 82, 88(1) and (4), and 288(6), (86), and (119) come into force on 1 July 2010.
+(14) Section 288(19), (76), (83), and (87) comes into force on 4 September 2010.
+(15) Sections 46, 71, 73, 74, 132, 149(2) and (6), 288(103), and 352(3) and (4) come into force on 1 April 2011.
+(16) Sections 29 and 33 come into force on 1 July 2011.
+(17) Section 360 comes into force on 1 October 2011.
+(18) Sections 347(3) and 351 come into force on 1 April 2012.
+(19) Section 140 comes into force on 2 November 2012.
+(20) Section 297(2) comes into force on 1 April 2013.
+(21) Section 50(2) and (3) comes into force on 20 May 2013.
+(22) Sections 68, 152, 165, 166, 173(1), (2), (3), and (7), 174(1), 367(3) and (4), and 380 come into force on 1 April 2014.
+(23) Section 352(5) and (8) comes into force on 30 June 2014.
+(24) Section 376 comes into force on 1 December 2014.
+(25) Sections 31, 80(1), (6), and (7), 81, 83, 85, 168(2) and (3), 169, 171(4), (5), and (7), 172(2), (3), and (4), 173(4), (5), and (8), 174(2), and 288(20), (21), (77), (78), (84), (85), (88), and (89) come into force on 1 April 2015.
+(26) Sections 9, 10, 11, 12, 30, and 108 come into force on 1 September 2015.
+(27) Section 297(3) comes into force on 3 December 2015.
+(28) Sections 80(2), (3), and (5), 175, 297(4) and (5), and 310 come into force on 1 April 2016.
+(29) Section 303 comes into force on 14 May 2016.
+(30) Sections 300, 301, and 325(1) come into force on 2 June 2016.
+(31) Section 104 comes into force on 1 July 2016.
+(32) Sections 194, 202, 207, 208, 209, 213, 214(4) and (7), 215(4) and (6), 288(51), 349, 353(3) and (5), 362, and 367 come into force on 1 October 2016.
+(33) Sections 13, 14, 17, 18, 19, 21, 22(5), (6), (7), and (8), 24, 28, 41, 44, 47, 52, 53, 54, 55, 59, 62, 63(3) and (4), 65, 66, 67, 69, 77, 78, 91, 95, 96, 97, 106, 107, 109, 110, 111, 113, 115, 117, 119, 120, 121, 122, 123, 124, 126, 127, 129, 130, 131, 133, 141, 143, 144, 145, 146, 147(1), (2), (3), and (5), 153(1), 154, 155, 156, 157, 158, 161, 164, 176, 177(3) and (4), 178(1) and (2), 179(1) and (2), 180, 181(1), (3), and (4), 182, 184(2), 185(1), (3), and (4), 186, 188, 189(1), (3), and (4), 192, 193, 195(1), (3), and (5), 197, 198(2) and (4), 199, 200, 201, 203(1), (3), and (5), 204, 210, 211, 212, 214(2), (3), and (6), 215(1), (2), (3), and (5), 216, 219, 222, 223, 224(2) and (4), 225(2), 226, 227, 228(1) and (3), 231, 232, 233, 235, 236(2) and (4), 237, 238, 239(2), (3), and (4), 240, 241, 243, 244, 246, 247, 249, 250, 251, 252, 253, 254, 257, 265, 266, 267, 268, 269, 270, 271, 275, 276, 277, 280, 282, 284, 288(2), (3), (4), (10), (11), (15), (16), (17), (18), (22), (24), (26), (27), (28), (29), (32), (33), (34), (35), (36), (37), (38), (39), (40), (41), (42), (44), (47), (48), (49), (50), (52), (59), (60), (61), (62), (63), (64), (65), (66), (67), (92), (93), (94), (98), (101), (105), (107), (109), (111), (116), (117), (118), and (121), 289, 291, 292, 293, 296, 302, 306, 307, 308, 309, 314, 315, 317, 318, 319, 320, 321, 322, 334, 336, 337, 338, 339, 341, 342, 353(1) and (4), 356(2), 357, and 375(2) come into force on 1 April 2017.
+(34) Sections 50(1), 76, and 343 come into force on 1 July 2017.
+(35) Sections 288(58) and 361 come into force on 1 April 2018.
+(36) Sections 299, 304, 305, 323, 324, 325(2) to (6), 327, 328, 329, 330, 331, 332, 333, 379, 383, 396, and 397 come into force on the date appointed by the Governor-General by Order in Council.
+(37) One or more Orders in Council may be made under subsection (36) appointing different dates for different provisions.
+
+### 384 Income Tax Act 2004
+Sections 385 to 394 amend the Income Tax Act 2004.
+
+### 385 Section CD 4 amended (What is a transfer of value?)
+(1) Replace section CD 4(2), other than the heading, with:
+  (2) A company (the creditor) provides money’s worth to a person (the debtor) if the debtor is released from an obligation to pay money to the creditor, either by agreement or by operation of law, except to the extent to which—
+    (a) the obligation the debtor is released from is an amount of debt to which section EW 46B(3) (Consideration when debt forgiven within economic group) applies; and
+    (b) at the time the debtor is released, the debtor is a company that is a member of the same wholly-owned group as the creditor, and the debtor is described in section EW 46B(1)﻿(a) or (b).
+(2) In section CD 4, list of defined terms, insert wholly-owned group of companies.
+(3) Subsections (1) and (2) apply for the 2006–07 and later income years, except for income years before the 2008–09 income year for which a person has taken a tax position in a return of income that is inconsistent with the amendment made by subsection (1).
+
+### 386 Section CD 32 amended (Available subscribed capital amount)
+(1) After section CD 32(10), insert:When subsection (10D) appliesWhen subsection (10D) appliesSubscriptions amount: debt forgiven within economic group
+  (10B) Subsection (10D) applies for a company (the calculation company) for which the calculation in subsection (1) is being performed if—
+    (a) section EW 46B(1)﻿(a) or (b) (Consideration when debt forgiven within economic group) applies to a creditor and debtor that are in the same wholly-owned group of companies as the calculation company; and
+    (b) the creditor is a non-resident company; and
+    (c) section EW 46B(3) does not apply; and
+    (d) the calculation company is the debtor, or the calculation company holds, before section OD 3 or OD 4 (which relate to voting interests and market value interests) is applied to the calculation company, voting interests or, if a market value exists for a company that is part of the wholly-owned group of companies, market value interests, in the debtor.
+  (10C) Subsection (10D) also applies if section EW 46B(1)﻿(c) applies to a creditor or single creditor group under that section, and the company for which the calculation in subsection (1) is being performed (the calculation company)—
+    (a) is the creditor’s debtor, to whom section EW 46B(1)﻿(c) applies:
+    (b) has, before the application of section OD 3 or OD 4, either voting interests in the creditor’s debtor, to whom section EW 46B(1)﻿(c) applies or market value interests in the creditor’s debtor, to whom section EW 46B(1)﻿(c) applies, if a market value circumstance exists for the debtor.
+  (10D) For the calculation company, the subscriptions amount is treated as including the amount of debt to which section EW 46B(5) applies for the creditor, for the class of shares that the creditor has the most voting interests for, or, if the creditor is the single creditor group under section EW 46B(1)﻿(c), for the class of shares that a member of the group has the most voting interests for. The maximum subscriptions amount included for an amount of debt for a calculation company is,—
+    (a) if the calculation company is the debtor, the amount of debt:
+    (b) if the calculation company is not the debtor, the amount of debt multiplied by 1 of the following interests, determined before the application of section OD 3 or OD 4:
+      (i) the calculation company’s voting interests in the creditor’s debtor; or
+      (ii) the calculation company’s market value interest in the creditor’s debtor, if there is a market value circumstance.
+(2) In section CD 32, list of defined terms, insert market value circumstance, market value interest, non-resident company, and voting interest.
+(3) Subsection (1) applies for the 2006–07 and later income years, except for income years before the 2008–09 income year for which a person has taken a tax position in a return of income that is inconsistent with the amendment made by subsection (1).
+
+### 387 Section CD 33 amended (Available capital distribution amount)
+(1) After section CD 33(8), insert:Capital gain amount: consideration when debt forgiven within economic group
+  (8B) The amount of a debt that section EW 46B (Consideration when debt forgiven within economic group) applies to does not give rise to a capital gain amount if section CD 32(10D) does not apply to it.
+(2) Replace section CD 33(9), other than the heading, with:Capital loss amount
+  (9) For the purposes of this section, a company incurs a capital loss if it disposes of capital property for an amount of consideration that is less than—
+    (a) the adjusted tax value of the property at the date of disposal, if the property is an item of depreciable property; or
+    (b) the cost of the property to the company at the date of disposal, if the property is not an item of depreciable property.
+  (9B) The capital loss amount for a disposal referred to in subsection (9) is equal to the deficit referred to in that subsection for the disposal.
+(3) In section CD 33, list of defined terms, insert deduction and depreciation loss.
+(4) Subsection (1) applies for a person for the 2005–06 and later income years, except for an income year before the 2008–09 income year for which the person takes a tax position in a return of income that is inconsistent with the amendment made by subsection (1).
+(5) Subsection (2) applies for the 2005–06 and later income years.
+
+### 388 New section CX 17B inserted (Transport in vehicle other than motor vehicle)
+(1) After section CX 17, insert:Transport in vehicle other than motor vehicleemployer, employee, fringe benefit, motor vehicle
+  A benefit that an employer provides to an employee in the form of transport of the employee in a vehicle is not a fringe benefit if the vehicle—
+    (a) is not a motor vehicle; and
+    (b) is not designed principally for the carriage of passengers.
+(2) Subsection (1) applies for the 2005–06 and later income years.
+
+### 389 New section DV 10C inserted (Cost base for shares when debt forgiven within economic group)
+(1) After section DV 10B, insert:Cost base for shares when debt forgiven within economic groupamount, company, expenditure, market value circumstance, market value interest, share, voting interest
+  For a shareholder of a company that is a calculation company under section CD 32(10B) or (10C) (Available subscribed capital amount), an amount of the subscriptions amount under section CD 32(10D) for the calculation company is treated as expenditure incurred for the purchase of the shareholder’s shares in the calculation company. The maximum expenditure for the shareholder’s shares is the subscriptions amount under section CD 32(10D) for the calculation company multiplied by 1 of the following interests, determined before the application of section OD 3 or OD 4 (which relate to voting interests and market value interests):
+    (a) the shareholder’s voting interests in the calculation company; or
+    (b) the shareholder’s market value interest in the calculation company, if there is a market value circumstance.
+(2) Subsection (1) applies for a person for the 2005–06 and later income years, except for an income year before the 2008–09 income year for which the person takes a tax position in a return of income that is inconsistent with the amendment made by this section.
+
+### 390 Section EE 42 amended (Amount of depreciation recovery income when item partly used for business)
+(1) In section EE 42(8), replace section EE 41(1) with section EE 41(1)﻿(a).
+(2) Subsection (1) applies for the 2005–06 and later income years, except as provided in subsection (3).
+(3) Subsection (1) does not apply for a person and an income year that is the 2005–06 or a later income year and a tax position taken by the person—
+  (a) before the date on which the Taxation (Annual Rates for 2016–17, Closely Held Companies, and Remedial Matters) Bill is introduced; and
+  (b) that is inconsistent with the amendment made by subsection (1).
+
+### 391 New section EW 46B inserted (Consideration when debt forgiven within economic group)
+(1) After section EW 46, insert:Consideration when debt forgiven within economic groupWhen this section appliesSome points about this sectionWhen this section does not applyConsideration: debtorConsideration: creditorSome definitionsamount, consideration, employee, group of persons, income, look-through company, look-through interest, market value interest, New Zealand resident, nominal share, non-resident, partner’s interests, partnership, pay, proportional debt ratio, proportional ownership ratio, share, trustee, voting interest, wholly-owned group of companies
+  (1) This section applies to the extent to which an amount of debt is forgiven and—
+    (a) the creditor is a member of the same wholly-owned group of companies as the debtor and the debtor is a New Zealand resident company:
+    (b) the creditor is a member of the same wholly-owned group of companies as the debtor and, for the debtor, a group of persons who are New Zealand resident companies (the NZ group) hold, before section OD 3 or OD 4 (which relate to measurement of voting interests and market value interests) is applied to the NZ group in relation to their interests,—
+      (i) common voting interests that add up to 100%; and
+      (ii) if a market value circumstance exists for a company that is part of a group of companies to which the debtor belongs, common market value interests that add up to 100%:
+    (c) if the debtor is a company, the creditor is not a member of the same wholly-owned group of companies as the debtor and the creditor has ownership interests or, as applicable, market value interests in the debtor:
+    (d) if the debtor is a partnership, the creditor has a partner’s interest in the income of the debtor:
+    (e) if the debtor is a look-through company, the creditor has an effective look-through interest in the debtor.
+  (2) For the purposes of this section,—
+    (a) the means by which an amount of debt is forgiven is immaterial:
+    (b) a group of natural persons (the single creditor group) who are creditors or who have interests in the debtor are treated as one creditor holding the total debts and interests of the single creditor group, if each person has natural love and affection for the others. However, a trust may join the single creditor group if—
+      (i) the trust was established mainly to benefit a natural person for whom each person of the single creditor group has natural love and affection; and
+      (ii) the amount given by dividing the amount that the trust forgives the debtor by the trust’s proportional ownership ratio is less than the amount given by dividing the amount that the single creditor group forgives the debtor by the group’s proportional ownership ratio (for example: $100 forgiven by the trust ÷ 40% ownership is greater than $100 forgiven by group ÷ 50% ownership, so the trust may not join the group, even if the required natural love and affection exists):
+    (c) a group of persons (the single corporate creditor group) that are creditors or that have interests in the debtor are treated as 1 creditor holding the total debts and interests of the single corporate creditor group, if—
+      (i) each person is a member of the same wholly-owned group of companies; and
+      (ii) the debtor is not a member of the wholly-owned group of companies.
+  (3) This section does not apply if—
+    (a) the creditor and debtor are members of the same wholly-owned group of companies; and
+    (b) the creditor is a non-resident; and
+    (c) the debt has been held by a person that is not a member of the wholly-owned group of companies.
+  (4) The debtor is treated as having paid the amount of debt on the date on which the creditor forgives it, if—
+    (a) the relevant debt, creditor, and debtor are described in subsection (1)﻿(a) or (b):
+    (b) the proportional debt ratio for the amount equals the proportional ownership ratio.
+  (5) The creditor is treated as having been paid the amount of debt on the date on which the creditor forgives it, if—
+    (a) the relevant debt, creditor, and debtor are described in subsection (1)﻿(a) or (b):
+    (b) the proportional debt ratio for the amount equals the proportional ownership ratio.
+  (6) For the purposes of this section,—
+    - **nominal shares** are shares held by the trustee of a share purchase scheme, or employees or former employees of the debtor, if the total of those shares represent voting interests in the debtor that add up to no more than 3%, or, as applicable, market value interests in the company that add up to no more than 3%
+    - **proportional debt ratio** means, for a creditor and an amount of debt, the percentage that the creditor’s amount bears to the total amounts of debt to which this section applies forgiven at the time the creditor’s debt is forgiven
+    - **proportional ownership ratio** means the creditor’s percentage of the ownership interests or, as applicable, market value interests, total partner’s interests, or total effective look-through interests for the debtor, ignoring nominal shares.
+(2) Subsection (1) applies for a person for the 2006–07 and later income years, except for an income year before the 2008–09 income year for which the person takes a tax position in a return of income that is inconsistent with the amendment made by subsection (1).
+
+### 392 Section HG 10 amended (Taxation of qualifying company)
+(1) In section HG 10(a), delete company which has been at any time before the date of derivation a.
+(2) Subsection (1) applies for the 2005–06 and later income years.
+
+### 393 New section HG 10B inserted (Dividends derived by qualifying companies)
+(1) After section HG 10, insert:Dividends derived by qualifying companiesWhen this section appliesDividend not exempt incomecompany, dividend, exempt income, qualifying company
+  (1) This section applies when a company derives a dividend (the derived dividend) after it becomes a qualifying company, if—
+    (a) the derived dividend is derived less than 7 years after the company ceases to be a qualifying company; and
+    (b) section CW 10 or CW 11 (which relate to exempt dividends) applies to the derived dividend; and
+    (c) the company paid a dividend that section HG 13(1)﻿(a) or (1A) applied to, when the company was a qualifying company.
+  (2) The derived dividend is not exempt income under section CW 10 or CW 11, except to the extent to which section CW 9 (Dividend derived by company from overseas) applies to it.
+(2) Subsection (1) applies for the 2005–06 and later income years.
+
+### 394 Section OB 1 amended (Definitions)
+(1) This section amends section OB 1.
+(2) Insert, in appropriate alphabetical order:
+  - **nominal share** is defined in section EW 46B (Consideration when debt forgiven within economic group) for the purposes of that section
+(3) Insert, in appropriate alphabetical order:
+  - **proportional debt ratio** is defined in section EW 46B (Consideration when debt forgiven within economic group) for the purposes of that section
+(4) Insert, in appropriate alphabetical order:
+  - **proportional ownership ratio** is defined in section EW 46B (Consideration when debt forgiven within economic group)
+(5) In the definition of trading stock, paragraph (a), repeal subparagraphs (i), (xix), (xxiii), (xxiv), and (xxvii).
+(6) In the definition of trading stock, after paragraph (a), insert:
+  (ab) in sections CD 37, FB 3, FE 6, FG 4, and HF 1 (which apply to livestock) means property that is—
+    (i) trading stock under section EB 2:
+    (ii) livestock:
+(7) Subsections (2), (3), and (4) apply for the 2006–07 and later income years.
+(8) Subsections (5) and (6) apply for the 2005–06 and later income years, except in relation to a tax position taken by a person before 5 December 2014 that is inconsistent with the amendments made by subsections (5) and (6).
