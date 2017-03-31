@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-03-31_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -48,6 +48,9 @@ In this Part and Parts 2 to 7, unless the context otherwise requires,—
   - **spouse** , in relation to a person (), includes a person with whom A has a de facto relationship (whether that person is of the same or a different sex as A) and a civil union partner
   - **student loan balance** means a consolidated loan balance, as that term is defined in section 4(1) of the Student Loan Scheme Act 2011
   - **supervisor** means a person who is appointed under section 345.
+
+### 3A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 4 Rights and powers under other Acts not affected
 This Act does not affect—
@@ -1810,7 +1813,9 @@ If a person who is a party to a netting agreement is bankrupt,—
   (b) that netted balance constitutes the amount that may be claimed in the bankruptcy or is payable to the bankrupt, as the case may be, in respect of the transactions that are included in the calculation.
 
 ### 258 Mutuality required for transactions under bilateral netting agreements
-Sections 255 to 263 apply to transactions that are subject to a bilateral netting agreement only if those transactions constitute mutual credits or mutual debts.
+(1) Sections 255 to 263 apply to transactions that are subject to a bilateral netting agreement only if those transactions constitute mutual credits or mutual debts.
+(2) Subsection (3) applies for the purpose of determining under this section whether there are mutual credits or mutual debts.
+(3) A debt or other liability incurred by a person (T) who holds property as a trustee is to be regarded as incurred by T in the same capacity as that in which T holds the property, if T incurs, and is authorised by the terms of the trust to incur, the debt or other liability acting as the trustee.
 
 ### 259 When mutuality required for transactions under recognised multilateral netting agreements
 (1) Sections 255 to 263 apply to transactions that are subject to a recognised multilateral netting agreement, whether or not those transactions constitute mutual credits or mutual debts.
@@ -3347,6 +3352,39 @@ A person who searches a public register for a purpose that is not a purpose set 
 
 ### 457 Crown and Assignee not liable for act or omission
 The Crown and the Assignee cannot be sued for any act or omission in relation to the maintenance of a public register under this subpart done or omitted to be done in good faith and with reasonable care.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Regulatory Systems (Commercial Matters) Amendment Act 2017
+
+### 1 Assignee’s final statement of receipts and payments
+The amendments made by sections 109, 119, and 122 of the Regulatory Systems (Commercial Matters) Amendment Act 2017—
+  (a) apply whether the bankruptcy commenced before or after the commencement of those sections; but
+  (b) do not apply if the final statement of receipts and payments was prepared before the commencement of those sections.
+
+### 2 Bilateral netting agreements
+Section 258(2) and (3), as inserted by section 110 of the Regulatory Systems (Commercial Matters) Amendment Act 2017,—
+  (a) applies to a bilateral netting agreement whether made before or after the commencement of section 258(2) and (3); but
+  (b) does not apply if the bankruptcy commenced before the commencement of section 258(2) and (3).
+
+### 3 Summary instalment orders: termination of supervisor’s appointment
+Section 348, as replaced by section 111 of the Regulatory Systems (Commercial Matters) Amendment Act 2017,—
+  (a) applies to a supervisor’s appointment whether made before or after the commencement of section 111 of that Act; but
+  (b) section 348(a)﻿(ii) applies only to offences committed after the commencement of section 111 of that Act.
+
+### 4 Summary instalment orders: cancellation of orders
+The amendments made by sections 112 to 115 of the Regulatory Systems (Commercial Matters) Amendment Act 2017 apply to a summary instalment order whether made before or after the commencement of those sections.
+
+### 5 No asset procedure
+The amendments made by sections 116 and 117 of the Regulatory Systems (Commercial Matters) Amendment Act 2017 apply only in cases where the debtor applies for entry to the no asset procedure after the commencement of those sections.
+
+### 6 Order of release for Assignee
+The amendments made by section 118 of the Regulatory Systems (Commercial Matters) Amendment Act 2017 apply to the estate of a bankrupt—
+  (a) whether the bankruptcy commenced before or after the commencement of that section; and
+  (b) if the bankruptcy commenced before the commencement of that section, even if the filing of the final statement of accounts and statement of financial position was advertised before the commencement of that section.
+
+### 7 Assignee’s general powers
+The amendment made by section 121 of the Regulatory Systems (Commercial Matters) Amendment Act 2017 applies only to bankruptcies that commence after the commencement of that section.
 
 ## Schedule 1 — Assignee's general powers
 
