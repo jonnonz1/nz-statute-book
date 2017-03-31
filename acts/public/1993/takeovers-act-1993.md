@@ -1,5 +1,5 @@
 # Takeovers Act 1993
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-03-31_
 
 > Title
 
@@ -17,7 +17,7 @@ _Consolidation as at 2014-12-01_
     (a) in relation to a company, means a person occupying the position of a director of the company, by whatever name called; and
     (b) in relation to a partnership (other than a special partnership or a limited partnership), means a partner; and
     (c) in relation to a special partnership or a limited partnership, means a general partner; and
-    (d) in relation to a body corporate or unincorporate not referred to in paragraphs (a) to (c), means a person occupying a position in the body corporate that is comparable with that of a director of a company; and
+    (d) in relation to a body corporate or unincorporate not referred to in paragraphs (a) to (c), means a person occupying a position in the body corporate or unincorporate that is comparable with that of a director of a company; and
     (e) in relation to any other person, means that person; and
     (f) includes a person in accordance with whose directions or instructions a person referred to in paragraphs (a) to (e) may be required or is accustomed to act in respect of the performance or exercise of duties or powers as, or comparable to those of, a director
   - **document** means any record of information; and includes—
@@ -29,7 +29,7 @@ _Consolidation as at 2014-12-01_
       (i) an equity security within the meaning of section 8 of the Financial Markets Conduct Act 2013, whether or not the security carries voting rights:
       (ii) a debt security, within the meaning of section 8 of the Financial Markets Conduct Act 2013, that carries the right to vote at any annual or general meeting of the code company:
       (iii) a managed investment product, within the meaning of section 8 of the Financial Markets Conduct Act 2013, that carries the right to vote at any annual or general meeting of the code company; and
-    (b) includes a financial product that is convertible, at the option of the product holder, into a financial product of the type referred to in paragraph (a)(i), (ii), or (iii)
+    (b) includes a financial product that is convertible, at the option of the product holder, into a financial product of the type referred to in paragraph (a)﻿(i), (ii), or (iii)
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **licensed market** has the meaning set out in section 6(1) of the Financial Markets Conduct Act 2013
   - **licensed market operator** has the meaning set out in section 6(1) of the Financial Markets Conduct Act 2013
@@ -38,7 +38,7 @@ _Consolidation as at 2014-12-01_
   - **overseas regulator** means a body in another country with functions corresponding to those of the Panel
   - **Panel** —
     (a) means the Takeovers Panel established under Part 1; or
-    (b) for the purposes of determining any matter or class of matter specified in a determination under section 7A, means the division of the Panel specified in the determination in accordance with section 7C(1)(a)
+    (b) for the purposes of determining any matter or class of matter specified in a determination under section 7A, means the division of the Panel specified in the determination in accordance with section 7C(1)﻿(a)
   - **quoted** , in relation to financial products of a person, means financial products of the person that are approved for trading on a licensed market (and, to avoid doubt, financial products do not cease to be quoted merely because trading in those financial products is suspended)
   - **Registrar** means a person who for the time being holds the office of Registrar of Companies or Deputy Registrar of Companies in accordance with the Companies Act 1993
   - **takeovers code** means the regulations made under section 19
@@ -62,8 +62,11 @@ _Consolidation as at 2014-12-01_
   (a) is a listed issuer that has financial products that confer voting rights quoted on a licensed market; or
   (b) was within paragraph (a) at any time during a period specified in the takeovers code (being a period not exceeding 12 months before any date or the occurrence of any event referred to in the code); or
   (c) has 50 or more shareholders and 50 or more share parcels.
-(2) However, if, as a result of a transaction or an event regulated under the code, a company that previously satisfied subsection (1)(c) ceases to have 50 or more shareholders and 50 or more share parcels, that company continues to be a code company for the purposes of Part 7 of the code.
+(2) However, if, as a result of a transaction or an event regulated under the code, a company that previously satisfied subsection (1)﻿(c) ceases to have 50 or more shareholders and 50 or more share parcels, that company continues to be a code company for the purposes of Part 7 of the code.
 (3) In this section, shareholder means a shareholder holding a financial product that confers a voting right.
+
+### 2B Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
@@ -99,8 +102,8 @@ The object of this Act is to—
 ### 7A Panel may act by divisions
 (1) The Panel or chairperson may determine that the powers of the Panel in relation to any matter or class of matters may be exercised by separate divisions of the Panel.
 (2) However, the Panel or chairperson must not determine that a separate division of the Panel may exercise—
-  (a) any power in connection with the performance of its functions under section 8(1)(a):
-  (b) the power of the Panel to grant an exemption under section 45(1)(c).
+  (a) any power in connection with the performance of its functions under section 8(1)﻿(a):
+  (b) the power of the Panel to grant an exemption under section 45(1)﻿(c).
 (3) The Panel or chairperson may revoke or amend a determination made under subsection (1).
 (4) Every determination (or revocation or amendment of a determination) must be recorded in writing and signed by 3 members or the chairperson.
 (5) The powers in this section are an exception to clause 14 of Schedule 5 of the Crown Entities Act 2004.
@@ -128,6 +131,7 @@ The object of this Act is to—
   (c) for the purposes of paragraph (a), to keep under review practices relating to takeovers of code companies:
   (d) to investigate any act or omission or practice for the purpose of exercising its powers and functions under Parts 3 and 4:
   (e) to make determinations and orders and make applications to the court in accordance with Part 3:
+  (eaa) to make determinations in relation to the reimbursement of expenses under sections 47 to 53:
   (ea) to co-operate with any overseas regulator and, for that purpose (but without limiting this function), to communicate, or make arrangements for communicating, to that overseas regulator information obtained by the Panel in the performance of its functions and powers (whether or not confidential) that the Panel considers may assist that overseas regulator in the performance of its functions:
   (eb) to consider applications for an order under section 236(1) of the Companies Act 1993 that affects the voting rights of a code company (within the meaning of that term in section 236A of the Companies Act 1993), and to indicate whether or not it has an objection to such an order:
   (f) to promote public understanding of the law and practice relating to takeovers:
@@ -214,7 +218,7 @@ The object of this Act is to—
 [Repealed]
 
 ### 18 Further provisions applying to Panel
-The provisions set out in the Schedule apply in respect of the Panel.
+The provisions set out in Schedule 1 apply in respect of the Panel.
 
 ## Part 2 — Takeovers code
 
@@ -333,7 +337,7 @@ A person must not communicate to any other person any information acquired in th
   (a) in accordance with section 31C; or
   (b) for the purposes of this Act, the Financial Markets Authority Act 2011, or any of the Acts listed in Schedule 1 of that Act; or
   (c) in accordance with the Official Information Act 1982 or the Privacy Act 1993; or
-  (d) in the course of any criminal proceedings (but subject to the limitation in section 31C(1)(b)).
+  (d) in the course of any criminal proceedings (but subject to the limitation in section 31C(1)﻿(b)).
 
 ### 31EA No privilege against self-incrimination
 Section 33B applies to information and documents provided under section 31A.
@@ -372,7 +376,7 @@ The court must determine the appeal by either dismissing the appeal or giving su
 
 ### 31K Requirements where appeal allowed
 To the extent that an appeal in respect of an act or decision of the Panel or Registrar, or any person authorised by the Panel or Registrar, under any of sections 31A to 31C is allowed or granted—
-  (a) the Panel or Registrar must ensure that, as soon as practicable after the decision on the appeal is given, all records made by the Panel or Registrar, or by a person authorised by the Panel or Registrar, under section 31A(1)(c) in respect of the act or decision are destroyed; and
+  (a) the Panel or Registrar must ensure that, as soon as practicable after the decision on the appeal is given, all records made by the Panel or Registrar, or by a person authorised by the Panel or Registrar, under section 31A(1)﻿(c) in respect of the act or decision are destroyed; and
   (b) no information acquired under paragraph (a) or paragraph (b) of section 31A(1) in respect of the act or decision is admissible in evidence in any proceedings.
 
 **Panel's powers for receiving evidence**
@@ -496,7 +500,7 @@ The Panel may decide whether to hold any meeting or any part of a meeting in pub
   (a) that it is satisfied that the person has acted or is acting or intends to act in compliance with the takeovers code; or
   (b) that it is not satisfied that the person has acted or is acting or intends to act in compliance with the takeovers code.
 (3A) If the Panel makes a determination under subsection (3), the Panel must, as soon as reasonably practicable, give written notice of its reasons for the determination to the person the determination concerns.
-(4) Where the Panel makes a determination on reasonable grounds under subsection (3)(b), the Panel may, at any time before the close of the second day after the date for which the meeting was convened,—
+(4) Where the Panel makes a determination on reasonable grounds under subsection (3)﻿(b), the Panel may, at any time before the close of the second day after the date for which the meeting was convened,—
   (a) make a temporary restraining order (relating to the non-compliance with the takeovers code) that is expressed to expire with the close of such day as shall be specified in the order, not being a day that is later than 21 days after the date on which the temporary restraining order is made:
   (b) make an order continuing any temporary restraining order (relating to the non-compliance with the takeovers code) made under subsection (2) until the close of such day as may be specified in the order, not being a day that is later than 21 days after the date on which the temporary restraining order is made:
   (c) make a permanent compliance order (relating to the non-compliance with the takeovers code):
@@ -584,8 +588,8 @@ The court may, on application by any person in accordance with section 35, grant
   (a) it is satisfied that the person has engaged in conduct of that kind; or
   (b) it appears to the court that, if an injunction is not granted, it is likely that the person will engage in conduct of that kind.
 (2) The court may grant an interim injunction restraining a person from engaging in conduct of a particular kind if in its opinion it is desirable to do so.
-(3) Subsections (1)(a) and (2) apply whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind.
-(4) Subsections (1)(b) and (2) apply whether or not—
+(3) Subsections (1)﻿(a) and (2) apply whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind.
+(4) Subsections (1)﻿(b) and (2) apply whether or not—
   (a) the person has previously engaged in conduct of that kind:
   (b) there is an imminent danger of substantial damage to any other person if that person engages in conduct of that kind.
 
@@ -665,7 +669,7 @@ In determining an appropriate pecuniary penalty, the court must have regard to a
   (a) the principles contained in the takeovers code; and
   (b) the nature and extent of the contravention; and
   (c) the likelihood, nature, and extent of any damage to the integrity or reputation of any of New Zealand's financial markets because of the contravention; and
-  (d) the nature and extent of any loss or damage suffered by a person referred to in section 33M(c)(i) because of the contravention; and
+  (d) the nature and extent of any loss or damage suffered by a person referred to in section 33M(c)﻿(i) because of the contravention; and
   (e) the circumstances in which the contravention took place; and
   (f) whether or not the person in contravention has previously been found by the court in proceedings under this Act to have engaged in any similar conduct.
 
@@ -678,7 +682,7 @@ If the court orders that a person pay a pecuniary penalty, and the proceedings w
 [Repealed]
 
 ### 35 Persons who may apply
-(1) Where the Panel makes a determination under section 32(3)(b) (a determination that the Panel is not satisfied that a person has acted or is acting or intends to act in compliance with the takeovers code) the following persons may, subject to subsection (2), make an application to the court under section 33F, 33I, or 33K:
+(1) Where the Panel makes a determination under section 32(3)﻿(b) (a determination that the Panel is not satisfied that a person has acted or is acting or intends to act in compliance with the takeovers code) the following persons may, subject to subsection (2), make an application to the court under section 33F, 33I, or 33K:
   (a) the Panel:
   (b) if the code company's financial products are, or were at any material time, quoted on a licensed market, the licensed market operator:
   (c) the code company concerned:
@@ -696,7 +700,7 @@ If the court orders that a person pay a pecuniary penalty, and the proceedings w
   (d) a person who was a member or financial product holder of the code company concerned at the time that the conduct to which the application relates occurred:
   (e) a person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire financial products in the code company in accordance with the takeovers code:
   (f) with the leave of the court, any other person.
-(4) If the Panel makes a determination under section 32(3)(b) (a determination that the Panel is not satisfied that a person has acted or is acting or intends to act in compliance with the takeovers code), the Panel may make an application to the court under section 33M.
+(4) If the Panel makes a determination under section 32(3)﻿(b) (a determination that the Panel is not satisfied that a person has acted or is acting or intends to act in compliance with the takeovers code), the Panel may make an application to the court under section 33M.
 
 ### 36 Orders
 [Repealed]
@@ -798,7 +802,7 @@ The Fair Trading Act 1986 does not apply to conduct in relation to any transacti
 **Management bans**
 
 ### 44F When court may make management banning orders
-The court may, on application by any person referred to in section 35(1)(a) to (g), make a management banning order against a person (A) if—
+The court may, on application by any person referred to in section 35(1)﻿(a) to (g), make a management banning order against a person (A) if—
   (a) A has been convicted of an offence against either section 44 or section 44C or a pecuniary penalty order has been made against A under this Act for a contravention of the takeovers code; or
   (b) A has, while a director of an incorporated or unincorporated body,—
     (i) persistently contravened this Act, the Companies Act 1993, the Financial Markets Conduct Act 2013, the Financial Markets Supervisors Act 2011, or the takeovers code; or
@@ -854,7 +858,7 @@ If conduct by a person constitutes grounds for making an order under any 1 or mo
     (ii) if the relevant person is a body corporate, a receiver or receiver and manager, having any powers that the court orders, of the property or of part of the property of that person:
   (h) if the relevant person is a natural person, an order requiring that person to deliver up to the court his or her passport and any other documents that the court thinks fit:
   (i) if the relevant person is a natural person, an order prohibiting that person from leaving New Zealand, without the consent of the court.
-(2) A reference in subsection (1)(e) or (g) to property of a person includes a reference to property that the person holds otherwise than as sole beneficial owner, for example,—
+(2) A reference in subsection (1)﻿(e) or (g) to property of a person includes a reference to property that the person holds otherwise than as sole beneficial owner, for example,—
   (a) as trustee for, as nominee for, or otherwise on behalf of or on account of, another person; or
   (b) in a fiduciary capacity.
 (3) An order may be expressed to operate for a specified period or until the order is discharged by a further order under this section.
@@ -879,7 +883,10 @@ A person commits an offence who contravenes an order by the court under section 
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against section 44H, 44J, or 44P of this Act.
 
 ### 44Q Jurisdiction of courts in New Zealand
-The High Court has exclusive jurisdiction to hear and determine proceedings in New Zealand under this Act, other than proceedings for offences against this Act or appeals under section 31G.
+The High Court has exclusive jurisdiction to hear and determine proceedings in New Zealand under this Act, other than the following:
+  (a) proceedings for offences against this Act:
+  (b) proceedings in relation to recovery or enforcement as referred to in sections 52 and 53:
+  (c) proceedings for appeals under section 31G.
 
 ### 44R Court may order payment of Panel's costs
 If the Panel brings proceedings under this Part and the court makes any order against a person under this Part, the court may also order that person to pay the Panel's costs and expenses in bringing the proceedings.
@@ -916,18 +923,20 @@ A person cannot be ordered to pay a pecuniary penalty and be liable for a fine u
 
 ## Part 4 — Miscellaneous
 
+**Exemptions and regulations**
+
 ### 45 Panel may grant exemptions
 (1) The Panel may, in its discretion and subject to such terms and conditions (if any) as it thinks fit, exempt from compliance with any provision of the takeovers code—
   (a) any person, transaction, or offer:
   (b) any class of persons, transactions, or offers associated with or involving a particular code company or entity:
   (c) any class of persons, transactions, or offers that is not associated with or does not involve a particular code company or entity.
-(2) An exemption may be granted in respect of past acts or omissions only under subsection (1)(a).
+(2) An exemption may be granted in respect of past acts or omissions only under subsection (1)﻿(a).
 (3) An exemption under this section is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(4) An exemption under subsection (1)(a) or (b) must, as soon as practicable after being granted, be—
+(4) An exemption under subsection (1)﻿(a) or (b) must, as soon as practicable after being granted, be—
   (a) published on an Internet site maintained by or on behalf of the Panel; and
   (b) notified (without incorporating the exemption) in the Gazette; and
   (c) made available in printed form for purchase on request by members of the public.
-(5) An exemption under subsection (1)(c) is of general application and must be published under section 6 of the Legislation Act 2012.
+(5) An exemption under subsection (1)﻿(c) is of general application and must be published under section 6 of the Legislation Act 2012.
 (6) The Panel’s reasons for granting an exemption under this section must be published together with the exemption, and the reasons must include—
   (a) why it is appropriate that the exemption is granted; and
   (b) how the exemption is consistent with the objectives of the takeovers code.
@@ -950,20 +959,63 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (cb) authorising the Panel to require payment of any costs incurred by the Panel:
   (d) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
-### 47 Amendment to Official Information Act 1982
-[Repealed]
+**Reimbursement of expenses incurred in connection with offer or takeover notice**
 
-### 48 Amendment to Public Finance Act 1989
-[Repealed]
+### 47 Interpretation for sections 48 to 53
+In sections 48 to 53, the following terms have the same meanings as in the takeovers code:
+  (a) equity security:
+  (b) offer:
+  (c) offeror:
+  (d) takeover notice:
+  (e) target company.
 
-### 49 Repeal of Companies Amendment Act 1963
-(1) The Companies Amendment Act 1963 is repealed.
-(2) Despite subsection (1), Part 1 of the Companies Amendment Act 1963 continues in force in respect of the acquisition of shares in a company in any case where notice of a takeover scheme has, before the commencement of this section, been served on the company under section 4 of the Companies Amendment Act 1963.
+### 48 Reimbursement of directors
+(1) Despite anything in the constitution of a target company, each director of the target company is entitled to be reimbursed by the target company for any expenses properly incurred by the director on behalf, and in the interests, of holders of equity securities of the target company in relation to the offer or takeover notice.
+(2) The amount to be reimbursed to a director is the amount—
+  (a) agreed between the director and the target company; or
+  (b) determined by the Panel on an application made by the director or the target company (see section 50).
 
-### 50 Amendment to Public Finance Act 1989
-[Repealed]
+### 49 Reimbursement of target company
+(1) A target company is entitled to be reimbursed by the offeror for any expenses properly incurred by the target company in relation to the offer or takeover notice, whether as a result of section 48 or otherwise.
+(2) The amount to be reimbursed to the target company is the amount—
+  (a) agreed between the target company and the offeror; or
+  (b) determined by the Panel on an application made by the target company or the offeror (see section 50).
 
-## Schedule  — Provisions applying to Takeovers Panel
+### 50 Determinations by Panel of amount to be reimbursed
+If the Panel receives an application under section 48(2)﻿(b) or 49(2)﻿(b), the Panel must (unless an agreement is reached beforehand under section 48(2)﻿(a) or 49(2)﻿(a))—
+  (a) determine the amount to be reimbursed for the purposes of section 48(2)﻿(b) or 49(2)﻿(b); and
+  (b) order that amount to be paid, as the case may be,—
+    (i) by the target company to the director; or
+    (ii) by the offeror to the target company.
+
+### 51 Appeals against Panel’s determination
+(1) The director or the target company may appeal to the High Court against the Panel’s determination for the purposes of section 48(2)﻿(b).
+(2) The target company or the offeror may appeal to the High Court against the Panel’s determination for the purposes of section 49(2)﻿(b).
+(3) An appeal under this section must be made—
+  (a) within 21 days of the date on which the appellant was notified of the Panel’s determination; or
+  (b) within any longer time allowed by the High Court.
+(4) The High Court must determine the appeal by either dismissing the appeal or giving such directions or making such determination in the matter as it thinks fit.
+
+### 52 Enforcement of agreement of amount to be reimbursed
+If the amount to be reimbursed is agreed, the amount is recoverable as a debt due in any court of competent jurisdiction, as the case may be,—
+  (a) by the director from the target company; or
+  (b) by the target company from the offeror.
+
+### 53 Enforcement of Panel’s order for payment of amount to be reimbursed
+(1) If the amount to be reimbursed is determined by the Panel, the Panel’s order under section 50 may be enforced as if it were a judgment by the court for the payment of a sum of money.
+(2) In this section, court means—
+  (a) the District Court, if the amount to be reimbursed is no more than $350,000; or
+  (b) the High Court, if the amount to be reimbursed is more than $350,000.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Regulatory Systems (Commercial Matters) Amendment Act 2017
+
+### 1 Application of sections 47 to 53
+(1) Sections 47 to 53 apply in relation to an offer or a takeover notice only if the takeover notice is received by the target company on or after the date on which this clause comes into force (and rule 49 of the takeovers code continues to apply in any other case accordingly).
+(2) In this clause, offer, takeover notice, and target company have the same meanings as in the takeovers code.
+
+## Schedule Schedule 1 — Provisions applying to Takeovers Panel
 
 ### 1 Term of office
 [Repealed]
