@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-03-31_
 
 > Title
 
@@ -44,7 +44,9 @@ The purposes of this Act are—
     (c) any mixture of gases
   - **gas appliance** means any appliance that uses, or is designed or intended to use, gas, whether or not it also uses, or is designed or intended to use, any other form of energy
   - **gas code of practice** or means a gas code of practice issued pursuant to section 37
-  - **gas distributor** means any person who supplies line function services to any gas retailer or other person by means of a distribution system and includes a gas distributor who is also a gas retailer providing line function services to itself
+  - **gas distributor** —
+    (a) means any person who supplies line function services, whether by means of a distribution system or by other means, to any gas retailer or to any other person or persons; and
+    (b) includes a gas distributor who is also a gas retailer providing line function services to itself
   - **gas installation** means an installation, including a gas appliance (other than a portable gas appliance that is designed to have within it, or attached to it, its own source of gas), that is connected or intended to be connected with any source (including any container) from which gas is supplied; and includes any associated fittings; but does not include any part of a distribution system
   - **gas measurement system** means a system for measuring the quantity of any gas or the energy content of any gas, whether by actual measurement or by estimation; and includes any equipment that forms part of, or is ancillary to, any such system
   - **gas operator** means—
