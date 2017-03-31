@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-03-31_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -191,6 +191,9 @@ In determining whether a company is a subsidiary of another company,—
   (d) shares held or a power exercisable by, or by a nominee for, that other company or its subsidiary (not being held or exercisable in the manner described in paragraph (c)) are not to be treated as held or exercisable by that other company if—
     (i) the ordinary business of that other company or its subsidiary, as the case may be, includes the lending of money; and
     (ii) the shares are held or the power is exercisable by way of security only for the purposes of a transaction entered into in the ordinary course of that business.
+
+### 8A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 9 Act binds the Crown
 This Act binds the Crown.
@@ -4000,7 +4003,9 @@ If a company in administration is a party to a netting agreement,—as the case 
     (ii) the amount that is payable to the company,—
 
 ### 239AEJ Mutuality required for transactions under bilateral netting agreements
-Sections 239AEI to 239AEP apply to transactions that are subject to a bilateral netting agreement only if those transactions constitute mutual credits, mutual debts, or other mutual dealings.
+(1) Sections 239AEI to 239AEP apply to transactions that are subject to a bilateral netting agreement only if those transactions constitute mutual credits, mutual debts, or other mutual dealings.
+(2) Subsection (3) applies for the purpose of determining under this section whether there are mutual credits, mutual debts, or other mutual dealings.
+(3) A debt or other liability incurred by a person (T) who holds property as a trustee is to be regarded as incurred by T in the same capacity as that in which T holds the property, if T incurs, and is authorised by the terms of the trust to incur, the debt or other liability acting as the trustee.
 
 ### 239AEK When mutuality required for transactions under recognised multilateral netting agreements
 (1) Sections 239AEI to 239AEP apply to transactions that are subject to a recognised multilateral netting agreement, whether or not those transactions constitute mutual credits, mutual debts, or other mutual dealings.
@@ -5081,7 +5086,9 @@ If a company that is a party to a netting agreement is in liquidation,—
   (b) that netted balance constitutes the amount that may be claimed in the liquidation or is payable to the company, as the case may be, in respect of the transactions that are included in the calculation.
 
 ### 310D Mutuality required for transactions under bilateral netting agreements
-Sections 310A to 310O apply to transactions that are subject to a bilateral netting agreement only if those transactions constitute mutual credits, mutual debts, or other mutual dealings.
+(1) Sections 310A to 310O apply to transactions that are subject to a bilateral netting agreement only if those transactions constitute mutual credits, mutual debts, or other mutual dealings.
+(2) Subsection (3) applies for the purpose of determining under this section whether there are mutual credits, mutual debts, or other mutual dealings.
+(3) A debt or other liability incurred by a person (T) who holds property as a trustee is to be regarded as incurred by T in the same capacity as that in which T holds the property, if T incurs, and is authorised by the terms of the trust to incur, the debt or other liability acting as the trustee.
 
 ### 310E When mutuality required for transactions under recognised multilateral netting agreements
 (1) Sections 310A to 310O apply to transactions that are subject to a recognised multilateral netting agreement, whether or not those transactions constitute mutual credits, mutual debts, or other mutual dealings.
@@ -6545,6 +6552,31 @@ Amendment(s) incorporated in the Act(s).
 
 ### 401 References to companies incorporated under Companies Act 1955
 A reference in any enactment to a company incorporated under the Companies Act 1955 or to which that Act applies must, unless the context otherwise requires, be read as including a company registered under this Act or to which this Act applies.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Regulatory Systems (Commercial Matters) Amendment Act 2017
+
+### 1 Financial assistance not exceeding 5% of shareholders’ funds
+This Act, as amended by section 17 of the Regulatory Systems (Commercial Matters) Amendment Act 2017, applies only to financial assistance given after the commencement of that section.
+
+### 2 Financial reporting and annual report amendments
+This Act, as amended by sections 20 to 27 of the Regulatory Systems (Commercial Matters) Amendment Act 2017, applies to a company or an overseas company in relation to the following accounting periods:
+  (a) an accounting period that commenced before, but ends on or after, the commencement of those sections:
+  (b) accounting periods that commence on or after the commencement of those sections.
+
+### 3 Variation of compromise
+Section 231(1A) (as inserted by section 29 of the Regulatory Systems (Commercial Matters) Amendment Act 2017)—
+  (a) applies to a compromise whether approved before or after the commencement of section 231(1A); but
+  (b) does not apply to a variation made before the commencement of section 231(1A).
+
+### 4 Mutuality required for transactions under bilateral netting agreements
+(1) Section 239AEJ(2) and (3) (as inserted by section 30 of the Regulatory Systems (Commercial Matters) Amendment Act 2017)—
+  (a) applies to a bilateral netting agreement whether made before or after the commencement of section 239AEJ(2) and (3); but
+  (b) does not apply if the administration of the company began before the commencement of section 239AEJ(2) and (3).
+(2) Section 310D(2) and (3) (as inserted by section 31 of the Regulatory Systems (Commercial Matters) Amendment Act 2017)—
+  (a) applies to a bilateral netting agreement whether made before or after the commencement of section 310D(2) and (3); but
+  (b) does not apply if the liquidation of the company began before the commencement of section 310D(2) and (3).
 
 ## Schedule 1 — Proceedings at meetings of shareholders
 
