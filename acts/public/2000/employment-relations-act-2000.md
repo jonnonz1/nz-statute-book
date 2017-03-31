@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-03-31_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -1099,7 +1099,7 @@ The object of this Part is—
 ### 67B Effect of trial provision under section 67A
 (1) This section applies if an employer terminates an employment agreement containing a trial provision under section 67A by giving the employee notice of the termination before the end of the trial period, whether the termination takes effect before, at, or after the end of the trial period.
 (2) An employee whose employment agreement is terminated in accordance with subsection (1) may not bring a personal grievance or legal proceedings in respect of the dismissal.
-(3) Neither this section nor a trial provision prevents an employee from bringing a personal grievance or legal proceedings on any of the grounds specified in section 103(1)﻿(b) to (h).
+(3) Neither this section nor a trial provision prevents an employee from bringing a personal grievance or legal proceedings on any of the grounds specified in section 103(1)﻿(b) to (j).
 (4) An employee whose employment agreement contains a trial provision is, in all other respects (including access to mediation services), to be treated no differently from an employee whose employment agreement contains no trial provision or contains a trial provision that has ceased to have effect.
 (5) Subsection (4) applies subject to the following provisions:
   (a) in observing the obligation in section 4 of dealing in good faith with the employee, the employer is not required to comply with section 4(1A)﻿(c) in making a decision whether to terminate an employment agreement under this section; and
@@ -2762,7 +2762,7 @@ For the purposes of sections 103(1)﻿(e) and 123(d), an employee is racially ha
 (2) For the purposes of subsection (1), conduct described in that section is engaged in for a prohibited health and safety reason if it is engaged in for a reason described in section 89 of the Health and Safety at Work Act 2015.
 (3) An employer may be found to have engaged in adverse conduct for a prohibited health and safety reason only if the prohibited health and safety reason was a substantial reason for the conduct.
 (4) For the purposes of subsection (3), a prohibited health and safety reason is presumed to be a substantial reason for the conduct unless the employer proves, on the balance of probabilities, that the reason was not a substantial reason for the conduct.
-(5) It is a defence to an action for a personal grievance under section 103(1)﻿(h)﻿(i) if the employer proves that—
+(5) It is a defence to an action for a personal grievance under section 103(1)﻿(j)﻿(i) if the employer proves that—
   (a) the conduct was reasonable in the circumstances; and
   (b) a substantial reason for the conduct was to comply with the requirements of the Health and Safety at Work Act 2015 or other relevant health and safety legislation (as defined in section 16 of that Act).
 (6) For the purposes of this section,—
@@ -3299,13 +3299,13 @@ To avoid doubt, in proceedings under this Part for a declaration of breach, pecu
   (b) has induced, whether by threats or promises or otherwise, the breach; or
   (c) has been in any way, directly or indirectly, knowingly concerned in, or party to, the breach; or
   (d) has conspired with others to effect the breach.
-(2) However, if the person in breach is a company, partnership, limited partnership, or sole trader, a person holding a position in relation to the person in breach may be treated as a person involved in a breach only if the person is an officer of the person in breach.
-(3) For the purposes of subsection (2), the following persons are to be treated as officers of a person in breach:
-  (a) a person occupying the position of a director of a company if the person in breach is a company:
-  (b) a partner if the person in breach is a partnership:
-  (c) a general partner if the person in breach is a limited partnership:
-  (d) a person occupying a position comparable with that of a director of a company if the person in breach is not a company, partnership, or limited partnership:
-  (e) any other person occupying a position in relation to the person in breach if the person is in a position to exercise significant influence over the management or administration of the person in breach.
+(2) However, if the breach is a breach by an entity such as a company, partnership, limited partnership, or sole trader, a person who occupies a position in the entity may be treated as a person involved in the breach only if that person is an officer of the entity.
+(3) For the purposes of subsection (2), the following persons are to be treated as officers of an entity:
+  (a) a person occupying the position of a director of a company if the entity is a company:
+  (b) a partner if the entity is a partnership:
+  (c) a general partner if the entity is a limited partnership:
+  (d) a person occupying a position comparable with that of a director of a company if the entity is not a company, partnership, or limited partnership:
+  (e) any other person occupying a position in the entity if the person is in a position to exercise significant influence over the management or administration of the entity.
 (4) This section does not apply to proceedings for offences.
 
 ### 142X Person involved in breach liable to penalty
