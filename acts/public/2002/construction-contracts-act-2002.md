@@ -1,5 +1,5 @@
 # Construction Contracts Act 2002
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-03-31_
 
 ### 1 Title
 This Act is the Construction Contracts Act 2002.
@@ -26,6 +26,7 @@ In this Act,—
   (b) provisions invalidating any contractual clause that makes payment to any party to a construction contract conditional on the payer first receiving payment from someone else are set out in section 13:
   (c) provisions confirming that parties are free to agree on a mechanism for determining payments are set out in section 14:
   (d) default provisions relating to payments are set out in sections 15 to 18:
+  (da) provisions relating to retentions are set out in sections 18A to 18I:
   (e) provisions establishing a procedure that allows a party to a construction contract to recover a payment by making a payment claim, and the party who is liable for that payment to respond by means of a payment schedule, are set out in sections 19 to 24:
   (f) provisions granting a party to a construction contract who is owed money a statutory right to suspend work until payment is made are set out in section 24A:
   (g) provisions relating to the adjudication of disputes are set out in sections 25 to 71:
@@ -199,6 +200,9 @@ This Act does not apply to—
 (2) Section 6(1A) does not apply to a construction contract that was entered into before 1 September 2016 unless—
   (a) the contract is renewed for a further term on or after 1 September 2016 (in which case that section applies only in relation to those obligations that are incurred or undertaken on or after 1 September 2016); or
   (b) the parties agree that section 6(1A) will apply.
+(3) Subpart 2A of Part 2 (which relates to retention money) does not apply to a construction contract that was entered into before 31 March 2017 unless—
+  (a) the contract is renewed for a further term on or after 31 March 2017 (in which case that subpart applies only in relation to retention money withheld during the further term); or
+  (b) the parties agree that subpart 2A will apply.
 
 **No contracting out**
 
@@ -262,6 +266,109 @@ A party who has agreed to carry out construction work under a construction contr
 
 ### 18 Due date for payment
 A payment (as that term is defined in section 19) under a construction contract becomes due and payable on the date occurring 20 working days after a payment claim is served under section 20 in relation to the payment.
+
+### Subpart 2A — Retention money
+
+### 18A Interpretation
+In this subpart, unless the context otherwise requires, retention money means an amount withheld by a party to a construction contract (party A) from an amount payable to another party to the contract (party B) as security for the performance of party B’s obligations under the contract.
+
+### 18B Application of this subpart
+(1) This subpart applies to commercial construction contracts where the amount of retention money is more than the de minimis amount.
+(2) Regulations may prescribe the de minimis amount for the purpose of subsection (1).
+
+### 18C Default arrangement: trust over retention money
+(1) All retention money must be held on trust by party A, as trustee, for the benefit of party B.
+(1A) However, see section 18D (which allows for an alternative arrangement, involving a complying instrument, to protect payment to party B if party A fails to pay).
+(2) Retention money held on trust may be held in the form of cash or other liquid assets that are readily converted into cash.
+(3) A trust over retention money ends when—
+  (a) the money is paid to party B; or
+  (b) party B, in writing, agrees to give up any claim to the money; or
+  (c) the money ceases to be payable to party B under the contract or otherwise by operation of law.
+
+### 18D Alternative arrangement: complying instrument protects payment of retention money
+Party A does not need to hold an amount of retention money on trust if and for so long as there is an instrument that complies with section 18FB in respect of the payment to party B of that amount.
+
+**Retention money: held on trust**
+
+### 18E Use of retention money
+(1) Party A must not appropriate any retention money held on trust to a use other than to remedy defects in the performance of party B’s obligations under the contract.
+(2) Retention money held in trust by party A—
+  (a) does not need to be paid into a separate trust account; and
+  (b) may be commingled with other moneys.
+
+### 18F Investment of retention money
+(1) Retention money held on trust may be invested by party A in accordance with the Trustee Act 1956 in relation to investment of trust funds.
+(2) If, upon the realisation of any investment, the amount received is—
+  (a) less than the amount invested, party A must make up the difference between the amount invested and the amount realised:
+  (b) more than the amount invested, party A may retain the benefit of the amount that exceeds the amount invested.
+(3) Party A may retain the benefit of any interest earned on retention money on or before the date on which it is payable under the contract.
+
+### 18FA Protection of retention money
+Retention money held on trust—
+  (a) is not available for the payment of debts of any creditor of party A (other than party B):
+  (b) is not liable to be attached or taken in execution under the order or process of any court at the instance of any creditor of party A (other than party B).
+
+**Retention money: payment protected by complying instrument**
+
+### 18FB Complying instruments
+(1) Subsections (2) to (4) set out what is required for an instrument in order for party A to rely, and continue to rely, on section 18D in relation to an amount of retention money.
+(2) The issuer of the instrument must be—
+  (a) a licensed insurer:
+  (b) a registered bank:
+  (c) any other person, who is not an associate of party A, prescribed or within a class prescribed in regulations.
+(3) The instrument must—
+  (a) be issued in favour of party B or endorsed with party B’s interest; and
+  (b) require the issuer to pay the retention money to party B if party A fails to pay that money on the date on which it is payable under the construction contract; and
+  (c) enable party B to enforce that promise against the issuer; and
+  (d) comply with any requirements that are prescribed in regulations and that apply in respect of the instrument.
+(4) The premium or other money that is payable, or that may become payable, to the issuer for the instrument must have been fully paid by party A and all terms and conditions must have been satisfied so that the instrument is, and remains, in effect.
+(5) An instrument may be of any kind (for example, insurance, a bond, or a guarantee) as long as it complies with the requirements in subsections (2) to (4).
+(6) Nothing in subsection (3)﻿(b) or (c) prevents the instrument from containing reasonable terms and conditions that relate to the manner or time in which party B must submit a claim.
+(7) Regulations for the purpose of this section may, without limitation,—
+  (a) apply for all instruments or for classes of instruments (and a class of instrument may be defined by reference to a construction contract or class of construction contract, including a contract entered into or renewed on or after a specified date):
+  (b) include minimum or prohibited terms and conditions for instruments (including terms and conditions that relate to the manner or time in which party B must submit a claim):
+  (c) prescribe forms for instruments.
+(8) In this section,—
+  - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
+  - **registered bank** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989.
+
+**Further provisions**
+
+### 18FC Accounting and records
+(1) Party A must keep proper accounting records of all retention money that—
+  (a) correctly record—
+    (i) all retention money held on trust; and
+    (ii) all amounts of retention money protected by instruments issued for the purpose of this subpart; and
+    (iii) all dealings and transactions in relation to retention money or instruments; and
+  (b) comply with generally accepted accounting practice; and
+  (c) are readily and properly auditable.
+(2) Party A must keep proper and readily verifiable records of all instruments issued for the purpose of this subpart, including—
+  (a) a copy of all instruments; and
+  (b) for each instrument,—
+    (i) a record of party B’s interest in the instrument, including the amount of retention money protected by the instrument; and
+    (ii) all amounts of retention money protected by the instrument; and
+    (iii) if the issuer’s liability under the instrument is limited to an amount, that amount; and
+    (iv) evidence that the premium or other money that is payable, or that may become payable, to the issuer for the instrument has been fully paid by party A; and
+    (v) any failure to comply with the terms and conditions of the instrument.
+(3) Subsection (2) does not limit subsection (1).
+(4) Party A must make the accounting and other records available for inspection by party B at all reasonable times and without charge.
+(5) Regulations may prescribe further methods of accounting for retention money or requirements for records.
+
+### 18G Interest on late payment
+(1) Interest on retention money is payable to party B from the date on which it is payable under the construction contract until the date on which it is paid.
+(2) The interest referred to in subsection (1) is payable—
+  (a) at the rate agreed under the construction contract; or
+  (b) if the parties have not agreed a rate under the construction contract, at the rate or rates prescribed in regulations.
+
+### 18H Protection of retention money
+[Repealed]
+
+### 18I Prohibited provisions
+(1) Any term in a construction contract is void that purports to—
+  (a) make the payment of retention money conditional on anything other than the performance of party B’s obligations under the contract; or
+  (b) make the date on which payment of retention money is payable later than the date on which party B has performed all of its obligations under the contract to the standard agreed under the contract; or
+  (c) require party B to pay any fees or costs for administering a trust or an instrument under this subpart.
+(2) Any provision in a construction contract is void if the purpose, or one of the purposes, of the provision is to avoid the application of any of the provisions of this subpart.
 
 ### Subpart 3 — Procedure for making and responding to payment claims
 
