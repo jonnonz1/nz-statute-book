@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2016-12-01_
+_Consolidation as at 2017-04-01_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -5531,7 +5531,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   (d) providing for matters relating to terms defined in this Act and related matters, including the following:
     (i) excluding dealing from being dealing in financial products for the purposes of this Act:
     (ii) declaring classes of services not to be financial services for the purposes of any provision of this Act:
-    (iii) excluding workplace savings schemes or Schedule 3 schemes (or any class of them) from being retirement schemes for the purposes of any enactment:
+    (iii)
     (iv) prescribing services for the purposes of the definition of prescribed intermediary services and applying subpart 4 or 5 of Part 6 (or both) to those services:
     (v) declaring interests or rights not to be securities for the purposes of this Act:
     (vi) prescribing circumstances for the purposes of section 6(3) (whether in relation to the redemption date, the interest rate, or both):
