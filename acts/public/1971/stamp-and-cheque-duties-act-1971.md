@@ -1,5 +1,5 @@
 # Stamp and Cheque Duties Act 1971
-_Consolidation as at 2017-03-30_
+_Consolidation as at 2017-04-01_
 
 > An Act to consolidate and amend the law relating to stamp duties
 
@@ -360,13 +360,16 @@ Any approved issuer may apply to the Commissioner, in writing and in such form a
 (2) Registration of any transaction or class of transactions under this section shall take effect from the date upon which the Commissioner received the duly completed application for registration made by the approved issuer in accordance with section 86G.
 
 ### 86I Application of approved issuer levy and zero-rating
-For the purposes of the NRWT rules of the Income Tax Act 2007, an exemption under a double tax agreement, and section 86J of this Act, and notwithstanding any provision of the NRWT rules of the Income Tax Act 2007, a payment of interest shall be treated as being paid by an approved issuer in respect of a registered security only where,—
+(1) For the purposes of the NRWT rules of the Income Tax Act 2007, an exemption under a double tax agreement, and section 86J of this Act, and notwithstanding any provision of the NRWT rules of the Income Tax Act 2007, a payment of interest shall be treated as being paid by an approved issuer in respect of a registered security only where,—
   (a) and to the extent that, payment is made by or on behalf of the approved issuer of approved issuer levy on the leviable value of the registered security at the time of the payment of interest—
     (i) at the rate specified in section 86J; and
     (ii) by the date specified in either section 86K or 86KA, or by a later date upon the payment of any interest or penalties imposed under Part 7 or 9 of the Tax Administration Act 1994 respectively; or
   (b) the registered security meets the requirements of section 86IB and the approved issuer provides a statement to the Commissioner—
     (i) showing the details prescribed by the Commissioner under section 86K(2) for a statement relating to payments of interest under such a registered security and provided to the Commissioner within the time given by subparagraph (ii); and
     (ii) by the time that would be required by section 86K(1)﻿(b) for a payment of the levy in relation to the payment of interest, or by a later date for the statement if that date is set by the Commissioner in a notice given to the approved issuer.
+(2) For the purposes of section 86G and subpart FG of the Income Tax Act 2007, when a payment is made by a New Zealand branch of a foreign bank that is notional interest under section FG 3 of that Act,—
+  (a) the payment is treated as made by an approved issuer; and
+  (b) the notional loan referred to in section FG 2(1) of that Act is a registered security.
 
 ### 86IB Zero rate of approved issuer levy—requirements for securities
 (1) A registered security meets the requirements of this section if—
