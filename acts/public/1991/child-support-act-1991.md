@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-04-01_
 
 > Title
 
@@ -3885,12 +3885,7 @@ Where an order of the court made under old section 106 or 109 affects, or will a
 After the commencement date, if any person applies for a variation of a court order that was made under old section 106, the application must be dealt with and completed on the basis that a new assessment applies to the parties.
 
 ### 8 Transitional regulations
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for either or both of the following purposes:
-  (a) prescribing how the new provisions and the old provisions must be applied or modified in order to ensure that notices of assessment for new formula assessments are given before the commencement date to all those to whom the new assessment will apply:
-  (b) prescribing assumptions that may be made concerning any element of the new formula, in order to ensure that new formula assessments are given before the commencement date, but any such assumption must be subject to correction by any party to whom it relates or applies.
-(2) Regulations made under this clause must include a date on which the regulations are repealed, and that date must be no later than 3 years after the date on which they are made.
-(3) The Minister may recommend the making of regulations under this clause only if satisfied that the regulations are consistent with the purposes of this Act and clauses 1 to 7 of this schedule, and are necessary or desirable for the orderly implementation of Part 1 of the Child Support Amendment Act 2013.
-(4) This clause expires and is repealed on 1 April 2017.
+[Repealed]
 
 ### Part 1A — Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Act 2016
 
