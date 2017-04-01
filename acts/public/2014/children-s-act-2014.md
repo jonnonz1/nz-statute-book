@@ -1,5 +1,5 @@
 # Vulnerable Children Act 2014
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-04-01_
 
 ### 1 Title
 This Act is the Vulnerable Children Act 2014.
@@ -125,8 +125,8 @@ The purpose of this Part is to require child protection policies (that must cont
   - **board** , in relation to a publicly-owned health and disability organisation that is a DHB, means the members of the board of that organisation (who number not less than the required quorum) acting together as a board
   - **child** means a person who is—
     (a) a child as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989 (because the person is a boy or girl under the age of 14 years); or
-    (b) a young person as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989 (because the person is—
-      (i) a boy or girl of or over the age of 14 years but under 17 years; and
+    (b) a young person as defined in paragraphs (a) and (e) of the definition of young person in section 2(1) of the Children, Young Persons, and Their Families Act 1989 (because the person is,—
+      (i) for the purposes of Parts 2 to 3A of that Act, a person of or over the age of 14 years but under the age of 18 years; and
       (ii) not a person who is or has been married or in a civil union)
   - **children's services** means services that are any of the following:
     (a) services provided to 1 or more children:
