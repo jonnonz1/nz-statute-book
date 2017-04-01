@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-04-01_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -4146,43 +4146,51 @@ In sections 280K and 280L, unless the context otherwise requires,—
   - **access a database** includes remote access to a database
   - **database** means any information recording system used by the Customs to store arrival or departure information.
 
-### 280M Direct access to database information for counter-terrorism investigation purposes
-(1) The purpose of this section is to facilitate access by the New Zealand Security Intelligence Service and the New Zealand Police, for counter-terrorism investigation purposes, to information stored in a database.
-(2) The chief executive may allow the following persons to access a database to search for information, including personal information, for counter-terrorism investigation purposes:
-  (a) the Director of Security:
-  (b) 1 or more suitable employees or officers of the New Zealand Security Intelligence Service designated by the Director of Security:
-  (c) the Commissioner of Police:
-  (d) 1 or more suitable Police employees designated by the Commissioner.
-(3) Before allowing access to a database in accordance with subsection (2), the chief executive must enter into a written agreement with the Director of Security or the Commissioner of Police (as the case may be).
-(4) Before entering into a written agreement under subsection (3), the chief executive must consult with the Privacy Commissioner.
-(5) The Director of Security and the Commissioner of Police must take all reasonable steps to ensure that—
-  (a) a record is kept of—
-    (i) every occasion on which persons access a database; and
-    (ii) the reason for accessing the database; and
-    (iii) the identity of the person who accessed the database; and
-  (b) every person who accesses a database—
-    (i) searches only for information for counter-terrorism investigation purposes; and
-    (ii) complies with the terms of the written agreement referred to in subsection (3).
-(6) In this section,—
-  - **access a database** includes remote access to a database
-  - **counter-terrorism investigation purposes** means the detection, investigation, and prevention of any actual, potential, or suspected—
-    (a) terrorist act; or
-    (b) facilitation of a terrorist act
-  - **database** means any information recording system used by the Customs to store information
-  - **Director of Security** means the Director of Security holding office under the New Zealand Security Intelligence Service Act 1969
+### 280M Direct access to database information for purposes of counter-terrorism and national security
+(1) The purpose of this section is to facilitate an agency’s access to information stored in a database for the purpose of assisting the agency to perform its functions related to, or involving, all or any of the following:
+  (a) the prevention, detection, or investigation of any potential, suspected, or actual—
+    (i) terrorist act; or
+    (ii) facilitation of a terrorist act:
+  (b) national security.
+(2) The chief executive of the Customs may, for the purpose of this section, allow the chief executive of an agency to access 1 or more databases to search for information, including personal information.
+(3) Before allowing the chief executive of an agency access to any database in accordance with subsection (2), the chief executive of the Customs must enter into a written agreement with the chief executive of the agency.
+(4) The written agreement must specify—
+  (a) the database or databases that may be accessed:
+  (b) the particular information that may be accessed:
+  (c) the particular purpose or purposes for which the information is accessed:
+  (d) how the information accessed is to be used by the agency to achieve those particular purposes:
+  (e) the positions or designations of the persons in the agency who may access the database or databases:
+  (f) the records to be kept in relation to each occasion on which a database is accessed:
+  (g) the safeguards that are to be applied for protecting personal information that is disclosed:
+  (h) the requirements relating to storage and disposal of information obtained by the agency from the database or databases:
+  (i) the circumstances (if any) in which the information may be disclosed by the agency to another specified agency, and how that disclosure may be made:
+  (j) the requirements for reviewing the agreement.
+(5) An agreement may be varied by the chief executive of the Customs and the chief executive of the agency.
+(6) Before entering into an agreement, or varying an agreement, the chief executive of the Customs must consult the Privacy Commissioner.
+(7) In this section,—
+  - **access** , in relation to a database, includes remote access to the database
+  - **agency** means—
+    (a) a department specified in Schedule 1 of the State Sector Act 1988, other than—
+      (i) the Government Communications Security Bureau; and
+      (ii) the New Zealand Security Intelligence Service:
+    (b) a departmental agency that is part of a department referred to in paragraph (a):
+    (c) the New Zealand Police:
+    (d) the New Zealand Defence Force
+  - **chief executive of an agency** —
+    (a) means the head of that agency; and
+    (b) includes the Commissioner of Police
+  - **database** means any information recording system or facility used by the Customs to store information
   - **information** —
     (a) means—
-      (i) any information held by the Customs that relates to goods, passengers, crew, or craft and their movements:
+      (i) any information held by the Customs that relates to goods, passengers, crew, or craft and the movements of the goods, passengers, crew, or craft:
       (ii) any other border-related information held by the Customs; and
     (b) includes, but is not limited to,—
       (i) arrival and departure information:
-      (ii) information the Customs is entitled to view under any of sections 38G to 38K:
-      (iii) information specified in section 282(1):
+      (ii) information specified in section 282(1):
+      (iii) biometric information:
       (iv) border information (as defined in section 282D):
-      (v) information collected or generated by the Customs in the course of preventing, detecting, or investigating border-related offences; but
-    (c) except as provided in paragraph (b)﻿(i) and (iii) to (iv), does not include information which the Customs is not entitled to view under sections 38G to 38K
+      (v) information collected or generated by the Customs in the course of preventing, detecting, or investigating a border-related offence (as defined in section 132B(1))
   - **terrorist act** has the same meaning as in section 5(1) of the Terrorism Suppression Act 2002.
-(7) This section is repealed on 1 April 2017.
 
 ### 281 Disclosure of information overseas
 (1) The chief executive may disclose any information specified in section 282(1) to an overseas agency, body, or person, whose functions include—
@@ -4804,6 +4812,9 @@ Any act done pursuant to and in accordance with the provisions of the Customs Du
 
 ### 293 Savings provision in relation to Customs officers
 A person who, immediately before the commencement of this Act, was an officer of Customs appointed in accordance with section 8 of the Customs Act 1966 shall be deemed to be a Customs officer appointed by the chief executive for the purposes of this Act.
+
+### 293A Saving of agreements made under section 280M before commencement of section 257 of Intelligence and Security Act 2017
+Every agreement made under section 280M between the chief executive and the Commissioner of Police that is in force immediately before the commencement of section 257 of the Intelligence and Security Act 2017 is to be treated as if it were made under section 280M as in force after the commencement of section 257 of that Act.
 
 **Transitional provisions**
 
