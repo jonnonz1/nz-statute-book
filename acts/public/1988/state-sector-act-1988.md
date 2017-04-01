@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-04-01_
 
 > Title
 
@@ -1388,3 +1388,13 @@ This order comes into force on 1 December 2015.
 
 ### 4 Application of consequential changes to reference provisions
 Sections 30H and 30I of the State Sector Act 1988 apply to enactments or other things coming into force, entered into, or created during the transitional period beginning 1 December 2015 and ending on 1 October 2016, after the name of the Ministry of Women’s Affairs is changed to the Ministry for Women.
+
+### 1 Title
+This order is the State Sector (Ministry for Vulnerable Children, Oranga Tamariki) Order 2016.
+
+### 2 Commencement
+This order comes into force on 1 April 2017.
+
+### 4 Application of consequential changes to reference provisions
+(1) This clause applies in respect of all functions that are transferred from the Ministry of Social Development to the Ministry for Vulnerable Children, Oranga Tamariki.
+(2) Sections 30H and 30I of the State Sector Act 1988 apply to enactments or other things coming into force, entered into, or created during the transitional period beginning 1 April 2017 and ending on 31 March 2018, after the transfer of functions referred to in subclause (1).
