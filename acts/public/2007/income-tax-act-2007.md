@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2017-03-30_
+_Consolidation as at 2017-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -729,51 +729,56 @@ Whether or not constructive trust
 (3) Subsection (1) applies whether or not the person holds the property as a trustee under a constructive trust.
 
 ### CB 32B Owners of look-through companies
-A person who has an effective look-through interest for a look-through company has an amount of income to the extent to which an amount of income results from the application of subpart HB (Look-through companies) to them and the look-through company.
+A person who has an effective look-through interest for a look-through company has an amount of income to the extent to which an amount of income results from the application of subpart HB (Look-through companies) or section HZ 8 (Retrospective transitional provision for market valuation under section HB 4) to them and the look-through company.
 
-### CB 32C Income for first year of look-through company
+### CB 32C Dividend income for first year of look-through company
+When this section applies
+(1) This section applies for an income year when, in the income year, the person has—
+  (a) an effective look-through interest for a look-through company (LTC) on the first day of that year, and the company existed in the previous income year, but was not a look-through company in that previous year:
+  (b) an effective look-through interest for a look-through company on the day after the LTC amalgamates in that year with a company that ceases to exist after the amalgamation (the amalgamating company), and the amalgamating company was not a look-through company immediately before the amalgamation.
 Income
-(1) A person has an amount of income for an income year equal to the amount given by the formula in subsection (3) if the income year is one in which the person has,—
-  (a) on the first day of that year, an effective look-through interest for a look-through company (LTC), and the company existed in the previous income year, but was not a look-through company in that previous year:
-  (b) on the day after a look-through company amalgamates in that year with a company that ceases to exist after the amalgamation (the amalgamating company), an effective look-through interest for the LTC, and the amalgamating company was not a look-through company immediately before the amalgamation.
-Exclusion
-(2) A person does not have income under this section if the income year is 1 of the first or second income year that starts on or after 1 April 2011, and—
-  (a) the LTC was a qualifying company that first becomes a look-through company for the income year; and
-  (b) subsection (1)﻿(b) does not apply for the income year.
-Income formula
-(3) For the purposes of subsection (1), the amount of income is a positive amount calculated using the following formula:untaxed reserves × effective interest.
+(2) The person has an amount of income under—
+  (a) subsection (4); or
+  (b) subsection (8), if—
+    (i) the relevant LTC was a qualifying company in the relevant previous year; and
+    (ii) a dividend under subsection (4) would not be fully imputed.
+Dividend
+(3) An amount of income under subsection (4) or (8) is treated as a dividend including an attached imputation credit, as provided by the relevant subsection.
+Formula
+(4) For the purposes of subsection (2)﻿(a), the amount of income is a positive amount calculated using the formula—(untaxed reserves + reserves imputation credit) × effective interest.
 Definition of items in formula
-(4) In the formula in subsection (3),—
-  (a) untaxed reserves is the amount given by the formula in subsection (5):
-  (b) effective interest is the person's effective look-through interest for a look-through company on the relevant day under subsection (1)﻿(a) or (b).
-Untaxed reserves formula
-(5) For the purposes of subsections (3) and (4), the amount of untaxed reserves is calculated using the following formula:dividends + balances − assessable income − (balances ÷ tax rate)− exit exemption.
+(5) In the formula in subsection (4),—
+  (a) untaxed reserves is the amount given by the formula in subsection (6):
+  (b) reserves imputation credit is the total amount of credits in the company’s imputation account, up to the maximum permitted ratio for the untaxed reserves under section OA 18 (Calculation of maximum permitted ratios) and is treated as an attached imputation credit included in the dividend calculated under this section:
+  (c) effective interest is the person’s effective look-through interest for an LTC on the relevant day under subsection (1)﻿(a) or (b).
+Formula
+(6) For the purposes of subsection (5)﻿(a), the amount of untaxed reserves is calculated using the formula—dividends – assessable income – exit exemption.
 Definition of items in formula
-(6) The items in the formula in subsection (5) are defined in subsections (7) to (11).
-Dividends
-(7) Dividends is the sum of the amounts that would be dividends if the following events occurred for the company or the amalgamating company (the company), immediately before it became a look-through company or amalgamated with a look-through company:
-  (a) it disposed of all of its property, other than cash, to an unrelated person at market value for cash; and
-  (b) it met all of its liabilities at market value, excluding income tax payable through disposing of the property or meeting the liabilities; and
-  (c) it was liquidated, with the amount of cash remaining being distributed to shareholders without imputation credits or FDP credits attached.
-Balances
-(8) Balances is the sum of the following amounts:
-  (a) the balance in the company's imputation credit account:
-  (b) the balance in the company's FDP account:
-  (c) an amount of income tax payable for an earlier income year but not paid before the relevant date, less refunds due for the earlier income year but paid after the relevant date.
-Assessable income
-(9) Assessable income is the total assessable income that the company would derive by taking the actions described in subsection (7)﻿(a) and (b) less the amount of any deduction that the company would have for taking those actions.
-Tax rate
-(10) Tax rate is the basic tax rate for the income year of the company that contains the relevant day described in subsection (12).
-Exit exemption
-(11) Exit exemption is the amount given by the formula in section CX 63(2) (Dividends derived after ceasing to be look-though company), treating the amount described in subsection (7) as a dividend paid by the company for the purposes of section CX 63(1), if section CX 63 would apply to a dividend paid by the company.
+(7) In the formula in subsection (6),—
+  (a) dividends is the sum of the amounts that would be dividends if the following events occurred for the company or the amalgamating company (the company), immediately before it became an LTC or amalgamated with an LTC:
+    (i) it disposed of all of its property, other than cash, to an unrelated person at market value for cash; and
+    (ii) it met all of its liabilities at market value, excluding income tax payable through disposing of the property or meeting the liabilities; and
+    (iii) it was liquidated, with the amount of cash remaining being distributed to shareholders without imputation credits attached:
+  (b) assessable income is the total assessable income that the company would derive by taking the actions described in paragraph (a)﻿(i) and (ii) less the amount of any deduction that the company would have for taking those actions:
+  (c) exit exemption is the amount given by the formula in section CX 63(2) (Dividends derived after ceased to be look-through company), treating the amount described in paragraph (a) as a dividend paid by the company for the purposes of section CX 63(1), if section CX 63 would apply to a dividend paid by the company.
+Formula
+(8) For the purposes of subsection (2)﻿(b), the amount of income is a positive amount calculated using the formula—((balances ÷ tax rate – balances) + balances imputation credit) × effective interest.
+Definition of items in formula
+(9) In the formula in subsection (8),—
+  (a) balances is the sum of the following amounts:
+    (i) the balance in the company’s imputation credit account:
+    (ii) an amount of income tax payable for an earlier income year but not paid before the relevant day, less refunds due for the earlier income year but paid after the relevant day:
+  (b) tax rate is the basic tax rate for the income year of the company that contains the relevant day described in subsection (10):
+  (c) balances imputation credit is the amount of the item balances in paragraph (a), and is treated as an attached imputation credit included in the dividend calculated under this section:
+  (d) effective interest is the person’s effective look-through interest for an LTC on the relevant day under subsection (1)﻿(a) or (b).
 Relevant day
-(12) In subsections (7) to (9) and (11), the relevant day for measuring items in the formula is—
+(10) In subsections (7) and (9)﻿(a), the relevant day for measuring relevant items in the formulas is—
   (a) the last day of the income year before the income year described in subsection (1)﻿(a), as applicable; or
-  (b) the day of the amalgamation described in subsection (1)﻿(b) as applicable.
+  (b) the day of the amalgamation described in subsection (1)﻿(b), as applicable.
 Income tax and refund
-(13) For the purposes of subsection (8)﻿(c),—
-  (a) income tax payable is income tax that would, when paid, give rise to a credit in the company's imputation credit account under sections OB 4 to OB 29 (which relate to imputation credits):
-  (b) a refund of income tax due is the amount that would, when paid, give rise to a debit to the company's imputation credit account under sections OB 30 to OB 59 (which relate to imputation debits).
+(11) For the purposes of subsection (9)﻿(a)﻿(ii),—
+  (a) income tax payable is income tax that would, when paid, give rise to a credit in the company’s imputation credit account under sections OB 4 to OB 29 (which relate to imputation credits):
+  (b) a refund of income tax due is the amount that would, when paid, give rise to a debit to the company’s imputation credit account under sections OB 30 to OB 59 (which relate to imputation debits).
 
 ### CB 33 Amounts derived by mutual associations
 When this section applies
@@ -1171,10 +1176,8 @@ Amount of dividend
 (2) The amount of the dividend is determined by a shareholder’s entitlement in the circumstances set out in section FL 2.
 
 ### CD 15 Tax credits linked to dividends
-Imputation and FDP credits
-(1) The amount of a dividend is increased by—
-  (a) an imputation credit attached to the dividend:
-  (b) a foreign dividend payment (FDP) credit attached to the dividend.
+Imputation credits
+(1) The amount of a dividend is increased by an imputation credit attached to the dividend.
 Relationship with sections CD 16 and CD 17
 (2) Subsection (1) is overridden by sections CD 16 and CD 17.
 When subsection (1) does not apply
@@ -1197,7 +1200,6 @@ Relationship with section FA 3
 (3) To the extent to which subsection (2) applies, section FA 3 (Recharacterisation of certain dividends: recovery of cost of shares held on revenue account) does not apply.
 Some definitions
 (4) In this section,—
-  - **imputation credit** includes an FDP credit
   - **unit trust manager** includes—
     (a) a person nominated by the unit trust manager; or
     (b) a trustee or a manager of a group investment fund that derives category A income; or
@@ -1213,7 +1215,7 @@ Credit not included
 Income
 (3) The amount of the imputation credit is income derived by the share supplier when the credit transfer notice is issued.
 Meaning of imputation credit
-(4) In this section, imputation credit includes an FDP credit.
+(4)
 
 ### CD 18 Dividend reduced if foreign tax paid on company’s income
 When this section applies
@@ -1456,7 +1458,9 @@ Meaning of flat-owning company
 
 ### CD 32 Employee benefits
 FBT rules
-(1) A fringe benefit subject to fringe benefit tax is not a dividend.
+(1) A benefit provided to an employee is not a dividend if—
+  (a) it is a fringe benefit subject to fringe benefit tax; or
+  (b) it would be a fringe benefit subject to fringe benefit tax if an election had not been made under section CX 17(4B) (Benefits provided to employees who are shareholders or investors).
 Board
 (2) An amount that is employment income under section CE 1B (General rule: accommodation provided by employers) is not a dividend.
 
@@ -1620,20 +1624,20 @@ When loan disregarded
 ### CD 40 Adjustment if dividend recovered by company
 When dividends recovered
 (1) If a company recovers a dividend from a shareholder under section 56 of the Companies Act 1993 or an equivalent provision of foreign law, this section applies to the extent necessary to ensure that—
-  (a) the recovered dividend and any attached imputation credit or FDP credit are disregarded for the purposes of this Act; and
+  (a) the recovered dividend and any attached imputation credit are disregarded for the purposes of this Act; and
   (b) the resulting refunds are made.
 Amendment of assessments
-(2) Section 113B of the Tax Administration Act 1994 requires the Commissioner, if given notice of the recovery of the dividend from a shareholder, to amend an assessment of the company or the shareholder in relation to income tax or under the imputation rules, the NRWT rules, the RWT rules, the FDP rules, or under subpart LP (Tax credits for supplementary dividends), as applicable.
+(2) Section 113B of the Tax Administration Act 1994 requires the Commissioner, if given notice of the recovery of the dividend from a shareholder, to amend an assessment of the company or the shareholder in relation to income tax or under the imputation rules, the NRWT rules, the RWT rules, or under subpart LP (Tax credits for supplementary dividends), as applicable.
 Refunds
 (3) If the Commissioner has been notified of the recovery and has amended an assessment as described in subsection (2), the Commissioner must refund any relevant—
-  (a) income tax, FDP, or FDP penalty tax of the shareholder; and
+  (a) income tax of the shareholder; and
   (b) non-resident withholding tax (NRWT) or resident withholding tax (RWT) of the company.
 Relationship with subpart RM
 (4) The refund is made despite sections RM 2 to RM 5 (which relate to refunds of excess tax) and RM 18 to RM 21 (which relate to limits on refunds), but subject to the other provisions of this Act.
 Adjustments to accounts
 (5) If the Commissioner has been notified of the recovery and has amended an assessment as described in subsection (2), a credit or debit (as applicable) arises as at the date of recovery, and must be recorded in—
   (a) the imputation credit account of the company; or
-  (b) if the shareholder is an imputation credit account (ICA) company or foreign dividend payment account (FDPA) company, the imputation credit account or FDP account of the shareholder.
+  (b) if the shareholder is an imputation credit account (ICA) company, the imputation credit account of the shareholder.
 
 ### CD 41 Adjustment if amount repaid later
 When released debt repaid
@@ -1719,7 +1723,7 @@ Subscriptions amount: reinvested exempt dividends
 (8) The subscriptions amount does not include—
   (a) an amount received by the company that is mainly attributable, directly or indirectly, to the company paying a dividend to a shareholder,—
     (i) if the dividend was exempt income of the shareholder under section CW 9 or CW 10, or a corresponding provision of an earlier Act; and
-    (ii) if the shareholder was not required to withhold and pay an amount of FDP from the dividend by section RG 3 (Obligation to pay FDP); and
+    (ii)
     (iii) to the extent to which the dividend is not fully credited; or
   (b) an amount received by the company if the amount is mainly attributable, directly or indirectly, to the payment by the company of a dividend to a controlled foreign company at a time when the company is also a controlled foreign company, regardless of whether either company is a grey list company or non-attributing Australian CFC.
 Subscriptions amount: share-for-share exchanges
@@ -1781,8 +1785,8 @@ Meaning of fully credited
 (26) In this section, the part of a dividend that is fully credited is the part that is calculated using the formula—dividend excluding credits × actual ratio ÷ maximum ratio.
 Definition of items in formula
 (27) In the formula in subsection (26),—
-  (a) dividend excluding credits is the dividend excluding any attached imputation credit or FDP credit:
-  (b) actual ratio is the total of the imputation ratio and FDP ratio of the dividend (section OZ 13 (Fully credited dividends: modifying actual ratio) may apply to modify this paragraph):
+  (a) dividend excluding credits is the dividend excluding any attached imputation credit:
+  (b) actual ratio is the imputation ratio of the dividend (section OZ 13 (Fully credited dividends: modifying actual ratio) may apply to modify this paragraph):
   (c) maximum ratio is the maximum imputation ratio specified in section OA 18 (Calculation of maximum permitted ratios).
 Meaning of qualifying share premium
 (28) In this section, qualifying share premium means an amount of premium paid to a company for the issue of a share by the company if—
@@ -1915,7 +1919,7 @@ When this section applies
     (iv) section CB 5 (Business of dealing in personal property); or
     (v) any other provision of this Act outside this subpart.
 Treatment of amount
-(2) For the purposes of the other rules, the amount derived by the person from the company is treated as if it were reduced, but not below zero, by the amount of any dividend derived by the person in relation to the cancellation, excluding any attached imputation credit or FDP credit.
+(2) For the purposes of the other rules, the amount derived by the person from the company is treated as if it were reduced, but not below zero, by the amount of any dividend derived by the person in relation to the cancellation, excluding any attached imputation credit.
 Non-taxable dividends
 (3) Subsection (2) does not apply to the extent to which the dividend is exempt income of the person under sections CW 9 and CW 10 (which relate to income from equity).
 Subsection (3)﻿(b): formula
@@ -2067,6 +2071,12 @@ Reduction of value of benefit in circumstances relating to non-resident
 (9) The value of a benefit arising from a period of employment is reduced, from the value that the benefit would have in the absence of this subsection,—value before reduction × period employed as non-resident ÷ period employed.
   (a) if, when the employee acquires the shares under the share purchase agreement or disposes of the rights under the share purchase agreement, the employee is a transitional resident; and
   (b) by an amount calculated using the formula—
+When subsection (11) applies
+(10) Subsection (11) applies when an employer to whom section RD 22(2B) (Returns for amounts of tax paid to Commissioner) and section 46(1) of the Tax Administration Act 1994 apply—
+  (a) has made an election under section RD 7B (Treatment of certain benefits under employee share agreements) to withhold and pay an amount of tax in relation to a benefit received by an employee under subsection (2) or (4); or
+  (b) is required to furnish an employer monthly schedule under section 46(6B) of that Act in relation to a benefit received by an employee under subsection (2) or (4).
+Deferral of income recognition
+(11) The employee is treated as deriving employment income in relation to the benefit in the PAYE income payment form period after the 1 in which they receive the benefit.
 
 ### CE 3 Restrictions on disposal of shares under share purchase agreements
 Effect of restrictions
@@ -2567,6 +2577,9 @@ Definition of item in formula
 (3) In the formula, capital contribution is the capital contribution that the person derives in the first year.
 Exception
 (4) This section does not apply for the capital contribution if the person has chosen, in accordance with section DB 64(1)﻿(c) (Capital contributions), to apply section DB 64 instead.
+
+### CG 9 Recovery of deductions for aircraft engine overhaul
+An amount of recovery income that a person has under section EJ 27 (Disposal of aircraft engine or aircraft) is income of the person.
 
 ### Subpart CH — Adjustments
 
@@ -4557,6 +4570,8 @@ When fringe benefit arises
     (iii) has a right to use the vehicle under an agreement or arrangement with the employee or a person associated with the employee.
 Exclusion: work-related vehicles
 (2) Subsection (1) does not apply when the vehicle is a work-related vehicle.
+Exclusion: election by close company
+(2B) Subsection (1) does not apply if the employee is a shareholder-employee of a close company and the close company made an election under section CX 17(4B) to apply subpart DE (Motor vehicle expenditure) instead of the FBT rules.
 Exclusion: emergency calls
 (3) Subsection (1) does not apply when the vehicle is used for an emergency call.
 Exclusion: absences from home
@@ -4651,14 +4666,31 @@ Benefit provided in connection with employment
 (1) If a company or a trustee of a group investment fund provides a non-cash benefit to an employee who holds shares in the company or who is an investor in the fund, the benefit is treated as having been provided in connection with the employment. The shares or investment may be held in the employee’s own right or beneficially.
 Whether fringe benefit or dividend
 (2) A company or a trustee of a group investment fund that has provided a non-cash benefit to an employee who holds shares in the company or who is an investor in the fund may choose to treat the benefit as a fringe benefit or a dividend. If the company or trustee does not make an election, the benefit is treated as a fringe benefit. If the company or trustee chooses to treat the benefit as a dividend, the FBT rules do not apply.
-Exclusion
+Exclusion: benefit provided to non-executive director
 (3) Neither subsection (1) nor subsection (2) applies to a non-cash benefit provided by a company to a non-executive director of the company.
 Non-cash benefits
 (4) Subsection (2) applies to non-cash benefits that would,—
   (a) in the absence of section CD 32 (Employee benefits), be dividends under section CD 4 (Transfers of value generally) if provided to a person in their capacity as a shareholder; and
   (b) in the absence of section CX 4, be unclassified benefits if provided to a person in their capacity as an employee.
-Notice of election
+Exclusion: election by close company
+(4B) Despite subsection (4), subsection (2) does not apply and the benefit is neither a fringe benefit nor a dividend in an income year if—
+  (a) the benefit—
+    (i) arises when a close company makes a motor vehicle available to a shareholder-employee for their private use; and
+    (ii) would, in the absence of this subsection, be a fringe benefit arising under section CX 6; and
+  (b) the total benefits the close company provides to all employees in the income year are 1 or 2 of the benefits described in paragraph (a); and
+  (c) the close company chooses to apply subpart DE (Motor vehicle expenditure) for the motor vehicle and the shareholder-employee instead of the FBT rules.
+When election may be made
+(4C) An election by a close company under subsection (4B) may be made for the income year which includes the day on which the close company—
+  (a) acquires the motor vehicle; or
+  (b) first starts using the motor vehicle for business use.
+Election continues to apply
+(4D) An election under subsection (4B) applies for the income year described in subsection (4C), and continues to apply until the end of the income year that includes the earlier of—
+  (a) the day on which the close company stops using the motor vehicle for business use; or
+  (b) the day on which the close company disposes of the motor vehicle.
+Notice of election under subsection (2)
 (5) The company or trustee must give notice to the Commissioner of the election referred to in subsection (2) in the time allowed for filing a fringe benefit tax return for the period in which the benefit was provided.
+Notice of election under subsection (4B)
+(5B) The close company must give notice to the Commissioner of an election referred to in subsection (4B) in the time allowed for filing a return of income for the income year in which the election was made.
 Relationship with subpart DG
 (6) Section DG 2(4) (Application of this subpart) may apply to require a company to treat a benefit under this section as a dividend.
 
@@ -5005,7 +5037,7 @@ Particular company
   (a) at all times in the income year, a company resident in New Zealand and not treated under and for the purposes of a double tax agreement as not resident in New Zealand; or
   (b) a company that meets the following requirements:
     (i) a company that, at all times in the income year, is resident in Australia and not treated as resident in a country other than Australia under an agreement between Australia and the other country, that would be a double tax agreement if negotiated between New Zealand and the other country; and
-    (ii) a company that, at the start of the income year or at the time the shares are first acquired in the income year, is included in an approved index under the ASX Market Rules made under Chapter 7 of the Corporations Act 2001 (Aust); and
+    (ii) a company that, at the start of the income year or at the time the shares are first acquired in the income year, is included on the official list of ASX Limited, a market licensee under Chapter 7 of the Corporations Act 2001 (Aust); and
     (iii) a company that, at all times in the income year, is required under the Income Tax Assessment Act 1997 (Aust) and the Income Tax Assessment Act 1936 (Aust) to maintain a franking account.
 Non-participating redeemable shares
 (4) This section does not apply to—
@@ -5087,7 +5119,7 @@ Exit dividends
 (4) Exit dividends is the sum of the amounts that would be dividends if the company, immediately after it ceased to be a look-through company,—
   (a) disposed of all of its property, other than cash, to an unrelated person at market value for cash; and
   (b) met all its liabilities at market value, excluding income tax payable through disposing of the property or meeting the liabilities; and
-  (c) were liquidated, with the amount of cash remaining being distributed to its shareholders without imputation credits or FDP credits attached.
+  (c) were liquidated, with the amount of cash remaining being distributed to its shareholders without imputation credits attached.
 Dividends after look-through
 (5) Dividends after look-through is the total dividends paid by the company after it ceases to be a look-through company and before it pays the dividend described in subsection (1) to the person.
 
@@ -5522,6 +5554,9 @@ Meaning of minister of religion
     (iii) whose accommodation is used as an integral part of performing their duties; and
   (b) does not include a member of a religious society or order referred to in section CW 25 (Value of board for religious society members).
 
+### CZ 34 Income arising from tax accounting provision for aircraft engine overhauls
+Income arising for a person under section DZ 23(2)﻿(b) (Aircraft maintenance: tax accounting provisions for expenditure incurred after 2016–17 income year) is income of the person.
+
 ## Part D — Deductions
 
 ### Subpart DA — General rules
@@ -5706,6 +5741,8 @@ Exclusion: interest related to tax
 (5) Subsection (1) does not apply to interest for which a person is denied a deduction under section DB 1.
 Consolidated groups
 (6) Section FM 12 (Expenditure when deduction would be denied to consolidated group) may apply to allow a deduction under this section to a company that is part of a consolidated group.
+Relationship with subpart DE
+(6BA) Subpart DE (Motor vehicle expenditure) overrides this section for expenditure to which that subpart relates, if a company is a close company that has chosen to apply that subpart instead of the FBT rules, in accordance with section CX 17(4B)﻿(c) (Benefits provided to employees who are shareholders or investors).
 Relationship with subpart DG
 (6B) Subpart DG (Expenditure related to use of certain assets) overrides this section for expenditure to which that subpart relates.
 Conduit financing arrangements
@@ -5726,6 +5763,8 @@ Application from income year of resident’s restricted amalgamation
 (5) Subsection (3) applies in the income year in which the resident’s restricted amalgamation occurs and in later income years.
 Consolidated groups
 (6) Section FM 12 (Expenditure when deduction would be denied to consolidated group) may apply to allow a deduction under this section to a company that is part of a consolidated group.
+Relationship with subpart DE
+(6BA) Subpart DE (Motor vehicle expenditure) overrides this section for expenditure to which that subpart relates, if a company is a close company that has chosen to apply that subpart instead of the FBT rules, in accordance with section CX 17(4B)﻿(c) (Benefits provided to employees who are shareholders or investors).
 Relationship with subpart DG
 (6B) Subpart DG (Expenditure related to use of certain assets) overrides this section for expenditure to which that subpart relates.
 Conduit financing arrangements
@@ -5785,9 +5824,9 @@ Deduction
 Link with subpart DA
 (2) This section supplements the general permission and overrides all the general limitations.
 
-### DB 13 Repayment of debt disposed of at discount to associate of debtor
+### DB 13 Repayment of debt in certain circumstances
 Deduction
-(1) When section EW 49(5)﻿(b) (Income and deduction when debt disposed of at discount to associate of debtor) applies, the debtor is allowed a deduction for the amount quantified in that subsection.
+(1) When section EW 49(5)﻿(b) (Income and deduction when debt disposed of at discount to associate of debtor) or EW 49B(5)﻿(b) (Guarantees within economic group) applies, the debtor is allowed a deduction for the amount quantified in the relevant subsection.
 Link with subpart DA
 (2) This section supplements the general permission and overrides all the general limitations.
 
@@ -5831,6 +5870,22 @@ Link with subpart DA and other subject matter
 A person is allowed a deduction for—
   (a) the amount of expenditure incurred as a replacement payment under a share-lending arrangement:
   (b) the amount of imputation credit attached under sections OB 64 (Replacement payments) and RE 25 (When amount of tax treated as imputation credit) to the replacement payment.
+
+### DB 18AA Square metre rate method
+When this section applies
+(1) A person may choose to apply this section to determine the amount of a deduction, in an income year, for the proportion of business use of a building (the premises) that is used partly for business purposes and partly for other purposes.
+Amount of deduction
+(2) The amount of the deduction allowed in an income year for the business use of the premises is calculated using the formula—(total premise costs × business proportion) + (business square metres × square metre rate).
+Definition of items in formula
+(3) In the formula,—
+  (a) total premise costs is the total amount of actual mortgage interest, rates, and rent that the person has paid with respect to the premises in the income year:
+  (b) business proportion is determined by dividing business square metres by the total area of the premises in square metres:
+  (c) business square metres is the total area, in square metres, of any separately identifiable parts of the premises that are used primarily for business purposes:
+  (d) square metre rate is the applicable square metre rate that is published by the Commissioner.
+No other deductions allowed
+(4) A person who makes an election to apply this section under subsection (1) is not entitled to claim any other deductions for the business use of the premises.
+Setting square metre rates
+(5) For the purposes of this section, the Commissioner must from time to time set and publish square metre rates.
 
 ### DB 18A Ring-fenced allocations: disposal of residential land within 2 years
 When this section applies
@@ -7058,21 +7113,30 @@ Apportions motor vehicle expenditure
 (1) This subpart sets out the rules for determining the proportion of business use of a motor vehicle to its total use when a person uses a motor vehicle partly for business purposes and partly for other purposes.
 Exclusions
 (2) This subpart does not apply—
-  (a) to a company:
+  (a) to a company, unless the company is a close company to which section CX 17(4B)﻿(b) and (c) (Benefits provided to employees who are shareholders or investors) applies:
   (b) to a person whose only income is income from employment:
   (c) to a motor vehicle that is used only—
     (i) for the purpose of deriving income; or
     (ii) for a purpose that constitutes a fringe benefit.
+Application of subpart to close companies
+(3) When this subpart applies to a close company to which section CX 17(4B)﻿(b) and (c) (Benefits provided to employees who are shareholders or investors) applies, business use of a motor vehicle by a shareholder-employee of the close company is treated as being business use by the close company.
 
 ### DE 2 Deductions for business use
 Deduction
 (1) A person is allowed a deduction for—
   (a) expenditure that they incur for the business use of a motor vehicle:
+  (ab) interest on amounts used to fund, directly or indirectly, expenditure the person incurs for the business use of a motor vehicle, if the person is a close company that has chosen to apply this subpart instead of the FBT rules, in accordance with section CX 17(4B)﻿(c) (Benefits provided to employees who are shareholders or investors):
   (b) an amount of depreciation loss for the business use of a motor vehicle.
+Costs method or kilometre rate method
+(1B) A person can choose under section DE 2B to calculate the total amount of the deduction described in subsection (1)—
+  (a) under subsections (2) and (4) (the costs method) by adding together—
+    (i) a deduction amount for expenditure, calculated under subsection (2); and
+    (ii) a deduction amount for depreciation loss, calculated as described in subsection (4); or
+  (b) by using the kilometre rate method described in section DE 12.
 Amount, and timing, of deduction: expenditure
 (2) The amount of the deduction allowed in an income year for the expenditure for the business use of the vehicle is calculated using the formula—expenditure × business proportion.
 Definition of item in formula
-(3) In the formula in subsection (2), business proportion is the proportion of business use of the motor vehicle for the income year, expressed as a decimal, calculated under sections DE 3 to DE 12.
+(3) In the formula in subsection (2), business proportion is the proportion of business use of the motor vehicle for the income year, expressed as a decimal, calculated under sections DE 3 to DE 11.
 Amount, and timing, of deduction: depreciation loss
 (4) The amount of the deduction allowed in an income year for the amount of depreciation loss for the business use of the vehicle is calculated—
   (a) using the formula in subsection (5), except in a case to which paragraph (b) or (c) applies; or
@@ -7083,7 +7147,7 @@ Calculation of deduction: depreciation loss generally
 Definition of items in formula
 (6) In the formula in subsection (5),—
   (a) standard calculation is the amount resulting from a calculation made for the motor vehicle under section EE 16 (Amount resulting from standard calculation):
-  (b) business proportion is the proportion of business use of the motor vehicle for the income year (expressed as a decimal) calculated under sections DE 3 to DE 12.
+  (b) business proportion is the proportion of business use of the motor vehicle for the income year (expressed as a decimal) calculated under sections DE 3 to DE 11.
 When subsection (8) applies
 (7) Subsection (8) applies when—
   (a) the amount of depreciation loss results from a calculation made for the motor vehicle under section EE 48(2) (Effect of disposal or event); and
@@ -7105,22 +7169,33 @@ Calculation of deduction: depreciation loss on disposal after business use
 Definition of items in formula
 (12) In the formula in subsection (11),—
   (a) disposal depreciation loss is the amount resulting from a calculation made for the vehicle under section EE 48(2):
-  (b) business proportion is the proportion of business use of the vehicle for the income year calculated under sections DE 3 to DE 12, expressed as a decimal.
+  (b) business proportion is the proportion of business use of the vehicle for the income year calculated under sections DE 3 to DE 11, expressed as a decimal.
 Link with subpart DA
 (13) This section supplements the general permission and overrides the private limitation. The other general limitations still apply.
 
+### DE 2B Election to use kilometre rate method or costs method
+Election to use kilometre rate method
+(1) A person may, in their return of income for an income year, choose to apply the kilometre rate method described in section DE 12 to calculate a deduction for the business use of a motor vehicle and for the income year that includes the latest of—
+  (a) 1 April 2017, unless the person disposes of the motor vehicle in that income year:
+  (b) the day on which they acquire the motor vehicle:
+  (c) the day on which they first start using the motor vehicle for business purposes.
+Election to use costs method
+(2) If a person does not make an election under subsection (1), they are treated as making an election in the return of income to use the costs method for the corresponding income year.
+Election cannot be revoked
+(3) An election made under subsection (1) or (2) in relation to a particular motor vehicle cannot be revoked, and applies for all subsequent income years until the end of the income year that includes the day on which the person disposes of the motor vehicle.
+
 ### DE 3 Methods for calculating proportion of business use
-The 3 methods that may be used to calculate the proportion of business use of a motor vehicle are—
+The 2 methods that may be used to calculate the proportion of business use of a motor vehicle are—
   (a) actual records, see section DE 5:
-  (b) a logbook, see sections DE 6 to DE 11:
-  (c) mileage rates, see section DE 12.
+  (b) a logbook, see sections DE 6 to DE 11.
+  (c)
 
 ### DE 4 Default method for calculating proportion of business use
 When this section applies
 (1) This section applies when—
   (a) a person has not maintained actual records to show the proportion of business use of a motor vehicle; or
   (b) a period is not a term to which a proportion of business use of a motor vehicle established by a logbook applies; or
-  (c) a person cannot use the mileage rate method.
+  (c) the person has not elected to use the kilometre rate method for the motor vehicle.
 Amount of deduction
 (2) The deduction under section DE 2 for expenditure or loss incurred is limited to the lesser of—
   (a) the proportion of actual business use of the vehicle; and
@@ -7182,13 +7257,18 @@ For the purpose of establishing the proportion of business use of a motor vehicl
   (a) the logbook is likely to be representative of the average travel for business purposes for the remainder of the logbook term; and
   (b) from the date of replacement, a person keeps a record of the total distance travelled by the replacement vehicle for each income year, or part of an income year, of the remaining logbook term.
 
-### DE 12 Mileage rate method
-Using mileage rates
-(1) If a person’s business travel is 5,000 kilometres or less in an income year, they may use the mileage rate method to calculate the expenditure or loss on a motor vehicle that represents the proportion of business use of the vehicle.
+### DE 12 Kilometre rate method
+When this section applies
+(1) This section applies for the purposes of calculating a deduction for the business use of a motor vehicle under section DE 2(1) if a person made an election under section DE 2B to apply this section.
 Amount of deduction
-(2) Under the mileage rate method, the person must keep details of the business use of the motor vehicle and calculate the mileage travelled for business purposes for the income year. The amount of the deduction under this method is found by multiplying the mileage rate by the distance that reflects the proportion of business use of the vehicle for the income year.
-Setting mileage rates
-(3) For the purposes of this section, the Commissioner must from time to time set and publish a mileage rate.
+(2) The amount of the deduction allowed for the business use of the vehicle in an income year is the sum of the amounts calculated under the following formula for each applicable kilometre rate for the vehicle for the income year:kilometre rate × kilometres travelled × business proportion.
+Definition of items in formula
+(3) In the formula,—
+  (a) kilometre rate is the applicable kilometre rate that is published by the Commissioner:
+  (b) kilometres travelled is the total number of kilometres the vehicle has travelled, for both business purposes and other purposes, to which the applicable kilometre rate applies:
+  (c) business proportion is the proportion of business use of the vehicle for the income year, calculated using a method described in sections DE 5 to DE 11, and expressed as a decimal.
+Setting kilometre rates
+(4) For the purposes of this section, the Commissioner must from time to time set and publish kilometre rates.
 
 ### Subpart DF — Government grants, funding, and compensation
 
@@ -7248,7 +7328,7 @@ Deduction
 Definition of items in formula
 (3) In the formula,—
   (a) amount paid is the amount paid by the person for a key aspect of social rehabilitation provided to them for the income year, to the extent to which the amount is less than the amount of personal service rehabilitation payment paid to them for the income year after taking into account any amount of tax withheld:
-  (b) tax rate is the rate of tax applying to the personal service rehabilitation payment under schedule 4, part I, clause 1 (Rates of tax for schedular payments).
+  (b) tax rate is the rate of tax applying to the personal service rehabilitation payment under section RD 10B (Amounts of tax for schedular payments).
 Link with subpart DA
 (4) This section supplements the general permission and overrides the capital limitation and private limitation for the amount described in subsection (2). The other general limitations still apply.
 
@@ -9442,6 +9522,64 @@ Deduction for payments of current claims
 Link with subpart DA
 (6) This section supplements the general permission. The general limitations still apply, except that the capital limitation does not apply for general insurance contracts after they are transferred to an insurer.
 
+### DW 5 Aircraft operators: aircraft engines and aircraft engine overhauls
+When this section applies
+(1) This section applies for a person when—
+  (a) the person carries on a business involving the operation of an aircraft that includes an aircraft engine; and
+  (b) the person is required to maintain and repair the aircraft engine and pieces of the aircraft engine, when operating the aircraft, and to perform successive aircraft engine overhauls of the aircraft engine at intervals no greater than the scheduled overhaul period for the aircraft engine.
+Deduction for aircraft engine overhaul
+(2) For expenditure incurred by the person in carrying out an aircraft engine overhaul of an aircraft engine—
+  (a) the person has a deduction to the extent to which the process does not produce a significant increase in the performance of the aircraft engine by comparison with the aircraft engine’s performance specifications before the aircraft engine overhaul:
+  (b) an amount for which the person does not have a deduction under paragraph (a)—
+    (i) is an increase in the cost of the aircraft to the person, if the aircraft engine is an unpriced aircraft engine; or
+    (ii) is an increase in the cost of the aircraft engine to the person, otherwise.
+Deduction for aircraft engine when acquired for price
+(3) A person who acquires an aircraft engine for use with an aircraft, other than as an unpriced aircraft engine with the aircraft, has a deduction of an amount given by subsection (4)—
+  (a) for expenditure incurred in acquiring the aircraft engine, if the aircraft engine is acquired other than under a finance lease; or
+  (b) for part of the value of the aircraft engine determined under section EW 32 (Consideration for agreement for sale and purchase (ASAP) of property or services, hire purchase agreement, specified option, or finance lease), if the aircraft engine is acquired under a finance lease.
+Amount of deduction under subsection (3)
+(4) The amount of the person’s deduction under subsection (3) is—
+  (a) equal to the estimated cost of an aircraft engine overhaul for the aircraft engine at the time of the acquisition, if—
+    (i) when the aircraft engine is acquired, the aircraft engine has not been used significantly since being manufactured or having an aircraft engine overhaul; and
+    (ii) the estimated cost is less than the amount referred to in paragraph (c); or
+  (b) equal to a fraction, calculated from the proportion of the scheduled overhaul period for the aircraft engine that is unexpired when the aircraft engine is acquired, of the estimated cost of an aircraft engine overhaul for the aircraft engine at the time of the acquisition, if the fraction of the estimated cost is less than the amount referred to in paragraph (c); or
+  (c) equal to the expenditure incurred in acquiring the aircraft engine, if the amount is not given by paragraph (a) or (b).
+Deduction for unpriced aircraft engine when acquired
+(5) A person who acquires an aircraft including an unpriced aircraft engine has a deduction of an amount given by subsection (6)—
+  (a) for part of the expenditure incurred in acquiring the aircraft, if the aircraft is acquired other than under a finance lease; or
+  (b) for part of the value of the aircraft determined under section EW 32, if the aircraft is acquired under a finance lease.
+Amount of deduction under subsection (5)
+(6) The amount of the person’s deduction under subsection (5) is—
+  (a) equal to the estimated cost of an aircraft engine overhaul for the aircraft engine at the time of the acquisition, based on market prices, if the aircraft engine, when acquired, has not been used significantly since being manufactured or having an aircraft engine overhaul; or
+  (b) equal to a fraction, calculated from the proportion of the scheduled overhaul period for the aircraft engine that is unexpired when the aircraft is acquired, of the estimated cost of an aircraft engine overhaul for the aircraft engine at the time of the acquisition based on market prices; or
+  (c) equal to a fraction, agreed with the Commissioner, of the expenditure incurred in acquiring the aircraft including the unpriced aircraft engine.
+Exception: person making election under section EJ 26
+(7) If a person has made an election under section EJ 26 (Allocation of expenditure on aircraft engine overhauls: election by operator of single aircraft),—
+  (a) the person is not allowed a deduction referred to in subsection (3) or (5); and
+  (b) each aircraft engine of the person is an unpriced aircraft engine for the purposes of this section.
+Expenditure on piece fitted to aircraft in aircraft engine overhaul
+(8) The amount of expenditure incurred by a person, in carrying out an aircraft engine overhaul, for a piece that is fitted as a replacement piece to the aircraft as part of the aircraft engine overhaul is—
+  (a) the adjusted tax value of the piece for the person before the piece is fitted, if the piece is an item of depreciable property before being fitted:
+  (b) the portion of the person’s expenditure on the piece that is unexpired before the piece is fitted, otherwise.
+Link with subpart DA
+(9) This section overrides the capital limitation. The other general limitations still apply.
+
+### DW 6 Aircraft operators: payments and adjustments under finance leases
+When this section applies
+(1) This section applies when a person leasing under a finance lease an aircraft engine, or an aircraft including an unpriced aircraft engine, meets the requirements of section DW 5(1) for being allowed a deduction for expenditure incurred in performing an aircraft engine overhaul of the aircraft engine.
+Payments during lease to lessor towards aircraft engine maintenance
+(2) If, during the term of the lease, the person pays an amount under the lease to the lessor towards the cost of aircraft engine overhauls,—
+  (a) the person does not have a deduction for the payment; and
+  (b) a payment of a corresponding amount by the lessor to the person when the person incurs expenditure in performing an aircraft engine overhaul of the aircraft engine is not income of the person.
+Deduction for surplus payments
+(3) If, at the end of the lease, the total amount of the payments referred to in subsection (2)﻿(a) exceed the total amount of the payments referred to in subsection (2)﻿(b), the person has a deduction for the income year in which the lease ends equal to the amount of the excess.
+Payments at end of lease by or to lessor for aircraft engine maintenance
+(4) If the lease requires the person to pay to the lessor, or the lessor to pay to the person, at the end of the lease an amount that is calculated from the cost of an aircraft engine overhaul and the proportion of the scheduled overhaul period for the aircraft engine that is expired when the lease ends,—
+  (a) an amount that the person is required to pay is allowed as a deduction of the person; and
+  (b) an amount that the person is entitled to receive is income of the person under section CG 4(2) (Receipts for expenditure or loss from insurance, indemnity, or otherwise).
+Relationship with section CG 4
+(5) This section overrides section CG 4.
+
 ### Subpart DX — Other expenditure
 
 ### DX 1 Testamentary annuities
@@ -9755,6 +9893,33 @@ Allocation to shareholders
 ((3)) For the purposes of subsection (2), if more than 1 shareholder referred to in subsection (1)﻿(b) acquires the asset, their share of the cost of the asset and the amount of depreciation loss is based on the proportion of their voting interests in the company.
 ExampleOn 31 March 2013, Boat Co has a boat with an acquisition cost of $85,000. The boat meets the various requirements set out in subpart DG. All the shares in BoatCo are owned by Michelle. The boat has a market value of $75,000, and an adjusted tax value of $55,000. BoatCo transfers the boat to Michelle without payment (which is treated as a dividend of $75,000). For depreciation purposes, BoatCo is treated as disposing of the boat for $55,000, and Michelle is treated as acquiring it for $85,000, and having been allowed a deduction of $30,000 for depreciation loss in past income years.
 
+### DZ 22 Aircraft maintenance: aircraft engines acquired before 2017–18 income year
+When this section applies
+(1) This section applies when—
+  (a) a person, before the 2017–18 income year, acquires an aircraft engine or an aircraft including an unpriced aircraft engine; and
+  (b) the person is required to perform aircraft engine overhauls of the aircraft engine when operating the aircraft; and
+  (c) the adjusted tax value of the aircraft engine or aircraft is reduced at the beginning of the 2017–18 income year by an amount under section EZ 23BA (Aircraft acquired before 2017–18 income year: adjusted tax value, base value, reduced; total deductions increased); and
+  (d) the person does not make an election under section EJ 26 (Allocation of expenditure on aircraft engine overhauls: election by operator of single aircraft) for the 2017–18 income year.
+Deduction if aircraft engine overhaul since acquisition
+(2) If the person has performed an aircraft engine overhaul of the aircraft engine before the beginning of the 2017–18 income year, the person has a deduction for the 2017–18 income year of an amount equal to the amount of the reduction referred to in subsection (1)﻿(c).
+Deduction in absence of aircraft engine overhaul since acquisition
+(3) If the person has not performed an aircraft engine overhaul of the aircraft engine before the beginning of the 2017–18 income year, the person has a deduction,—
+  (a) for the 2017–18 income year, of an amount equal to the amount of the reduction referred to in subsection (1)﻿(c), reduced by an amount that, as a proportion of the reduction, corresponds to the proportion of the scheduled overhaul period for the aircraft engine that is unexpired at the end of the 2017–18 income year:
+  (b) for an income year later than the 2017–18 income year, of an amount that, as a proportion of the reduction referred to in subsection (1)﻿(c), corresponds to the proportion of the scheduled overhaul period of the aircraft engine that is included in the income year.
+
+### DZ 23 Aircraft maintenance: tax accounting provisions for expenditure incurred after 2016–17 income year
+When this section applies
+(1) This section applies when a person has at the beginning of the 2017–18 income year an amount (the anticipated deduction) of a tax accounting provision, for expenditure on aircraft maintenance, that is included as a deduction in the calculation of the person’s taxable income for an earlier income year although the amount is not a deduction allowed by this Act for the earlier income year.
+Expenditure on aircraft maintenance other than aircraft engine overhauls
+(2) For the earliest income year, after the 2016–17 income year, in which the person incurs expenditure on the maintenance of an aircraft other than an aircraft engine overhaul, the person—
+  (a) is not allowed a deduction for the expenditure to the extent to which the expenditure in the income year is offset by an anticipated deduction for expenditure on such maintenance; and
+  (b) if the anticipated deduction for such expenditure exceeds the amount of the expenditure in the income year, derives income under section CZ 34 (Income arising from tax accounting provision for aircraft engine overhauls) equal to the amount of the excess.
+Expenditure on aircraft engine overhauls
+(3) For income years after the 2016–17 income year in which the person incurs expenditure on an aircraft engine overhaul, beginning with the earliest such income year,—
+  (a) the person is not allowed a deduction for the expenditure to the extent to which the expenditure in the income year is offset by an anticipated deduction for expenditure on an aircraft engine overhaul; and
+  (b) if the anticipated deduction exceeds the amount of the expenditure in the income year, the excess is carried forward as an anticipated deduction to the next income year in which the person incurs expenditure on an aircraft engine overhaul; and
+  (c) paragraphs (a) and (b) apply as required to income years until the amount of the anticipated deduction at the beginning of the 2017–18 income year is offset completely.
+
 ## Part E — Timing and quantifying rules
 
 ### Subpart EA — Matching rules: revenue account property, prepayments, and deferred payments
@@ -9786,6 +9951,7 @@ When this section applies
   (e) a specified lease or a lease to which section EJ 10 (Personal property lease payments) applies:
   (f) property that arises as a result of petroleum development expenditure or petroleum exploration expenditure to which sections EJ 12 to EJ 20 (which relate to petroleum mining) apply:
   (fb) property that arises as a result of mining development expenditure or mining exploration expenditure to which sections EJ 20B to EJ 20E (which relate to mineral mining) apply:
+  (fc) property fitted to an aircraft engine as part of an aircraft engine overhaul to which section DW 5 (Aircraft operators: aircraft engines and aircraft engine overhauls) applies:
   (g) a financial arrangement valued under subpart EW (Financial arrangements rules).
 Timing of deduction
 (2) A deduction for the cost of revenue account property of a person is allocated to the earlier of—
@@ -9813,11 +9979,13 @@ Exclusions
 Unexpired portion
 (3) The unexpired portion of a person’s expenditure at the end of an income year—
   (a) is income of the person in the income year under section CH 2 (Adjustment for prepayments); and
-  (b) is an amount for which the person is allowed a deduction in the following income year under section DB 50 (Adjustment for prepayments).
+  (b) is an amount for which the person is allowed a deduction in the following income year under section DB 50 (Adjustment for prepayments), if subsection (4B) does not apply.
 Unexpired portion: expenditure on goods
 (4) An amount of expenditure on goods is unexpired at the end of an income year if, by the end of the income year,—
   (a) the person has not used up the goods in deriving income; and
   (b) the goods are not destroyed or rendered useless for the purpose of deriving income.
+Expenditure on goods used in aircraft engine overhaul
+(4B) The unexpired portion of expenditure on pieces that are fitted to an aircraft engine as part of an aircraft engine overhaul is treated as being expenditure incurred in carrying out the aircraft engine overhaul for the purposes of sections DW 5 and DW 6 (which relate to the acquisition, overhaul, and leasing of aircraft engines).
 Unexpired portion: expenditure on services
 (5) An amount of expenditure on services is unexpired at the end of an income year if the services have not been performed by the end of the income year.
 Unexpired portion: expenditure on choses in action
@@ -9833,6 +10001,7 @@ When this section applies
   (a) a person is allowed a deduction in an income year for an amount of expenditure on employment income; and
   (b) the person has not paid the amount at the end of—
     (i) the 63rd day after the end of the income year; or
+    (ib) the income year, if they choose, in a return of income, to not use paragraph (i) or (ii); or
     (ii) the period described in subsection (3), for employment income paid to a shareholder-employee.
 Unpaid amount
 (2) The unpaid amount is—
@@ -11030,6 +11199,7 @@ The following property is not depreciable property:
   (d) financial arrangements:
   (e) excepted financial arrangements other than depreciable intangible property:
   (f) property that will not decline in value, as far as its owner is concerned, because, when they dispose of it, they have a right to be compensated for any decline in its value:
+  (fb) property that is a piece of an item of depreciable property that is an aircraft or an aircraft engine, if the expenditure on the piece is treated under section DW 5(8) (Aircraft operators: aircraft engines and aircraft engine overhauls) as being expenditure incurred in carrying out an aircraft engine overhaul:
   (g) property that its owner chooses, under section EE 8, to treat as not depreciable:
   (h) property that its owner chooses, under section EE 38, to deal with under that section:
   (i) property for whose cost a person other than the property’s owner is allowed a deduction:
@@ -11757,6 +11927,8 @@ Other items
   (b) this subsection does not apply to a transfer under a relationship agreement.
 Item leaving New Zealand permanently
 (11) The amount that a person derives from the event referred to in section EE 47(10) is described in section EZ 21(1) (Sections EE 45 and EE 47: permanent removal: allowance before 1 April 1995).
+Item fitted to aircraft or aircraft engine in aircraft engine overhaul
+(12) The amount that the person derives from the event referred to in section EE 47(11) is the adjusted tax value of the item before it is fitted as a replacement piece to an aircraft or aircraft engine as part of the aircraft engine overhaul.
 
 ### EE 46 Items for purposes of section EE 44
 Items to which sections EE 48 to EE 52 apply
@@ -11799,6 +11971,8 @@ Cessation of rights in intangible property
 (9) The eighth event is an occurrence that has the effect that the owner of an item of intangible property is no longer able, and will never be able, to exercise the rights that constitute or are part of the item.
 Item leaving New Zealand permanently
 (10) The ninth event is described in section EZ 21(2) (Sections EE 45 and EE 47: permanent removal: allowance before 1 April 1995).
+Item fitted to aircraft or aircraft engine in aircraft engine overhaul
+(11) The tenth event is the fitting of an item of property to an aircraft or aircraft engine as a replacement piece as part of an aircraft engine overhaul to which section DW 5 (Aircraft operators: aircraft engines and aircraft engine overhauls) applies.
 
 ### EE 48 Effect of disposal or event
 Amount of depreciation recovery income
@@ -11834,6 +12008,8 @@ Item to which this section applies
     (iii) section EE 50.
 Depreciation recovery income
 (2) If the consideration referred to in section EE 44 is less than or equal to the cost of the item to the person, the amount of depreciation recovery income that the person has is an amount calculated using the formula in subsection (3).
+No depreciation recovery income
+(2B) Despite subsections (1) and (2), there is no depreciation recovery income under this section for a motor vehicle which is dealt with under subpart DE if the person has made an election under section DE 2B(1) (Election to use kilometre rate method or costs method) to use the kilometre rate method described in section DE 12 (Kilometre rate method) for that vehicle.
 Formula
 (3) The formula is—(all deductions ÷ (base value − adjusted tax value))× amount of depreciation recovery income.
 Definition of items in formula
@@ -11970,7 +12146,7 @@ Cost
   (cb) expenditure is included in it if the item is a patent application, a patent, a design registration, a design registration application, plant variety rights, or a resource consent under the Resource Management Act 1991 and the expenditure has given rise under section CG 7B (Disposals or applications after earlier deductions) to a corresponding amount of income relating to the item; and
   (d) expenditure—
     (i) is not excluded from it if it is described in section EZ 22(2)﻿(a); and
-    (ii) is excluded from it if it is described in section EZ 22(2)﻿(b).
+    (ii) is excluded from it if it is described in section EZ 22(2)﻿(b) or EZ 23BA(2) (Aircraft acquired before 2017–18 income year: adjusted tax value, base value, reduced; total deductions increased).
 
 ### EE 58 Base value in section EE 56 when no previous deduction
 When this section applies
@@ -11985,7 +12161,7 @@ When this section applies
     (i) it was acquired by the person after the end of that income year; or
     (ii) it was an item described in section EZ 22(3) (Base value and total deductions in section EE 56: before 1 April 1995).
 Base value
-(2) Base value is the item’s market value when the person starts to use it, or to have it available for use, for the purpose of deriving assessable income or carrying on a business for the purpose of deriving assessable income.
+(2) Base value is the item’s market value when the person starts to use it, or to have it available for use, for the purpose of deriving assessable income or carrying on a business for the purpose of deriving assessable income, reduced for an item that is an aircraft engine or aircraft by an amount referred to in section EZ 23BA(2) (Aircraft acquired before 2017–18 income year: adjusted tax value, base value, reduced; total deductions increased) for the item.
 
 ### EE 59 Base value in section EE 56 when property is petroleum-related depreciable property
 When this section applies
@@ -12020,7 +12196,8 @@ First amount for purposes of subsection (1)
   (a) section EE 52(2):
   (b) section EE 44(2) of the Income Tax Act 2004:
   (c) section EG 19(5) of the Income Tax Act 1994:
-  (d) the provision described in section EZ 22(4) (Base value and total deductions in section EE 56: before 1 April 1995).
+  (d) the provision described in section EZ 22(4) (Base value and total deductions in section EE 56: before 1 April 1995); and
+  (e) section EZ 23BA(3) (Aircraft acquired before 2017–18 income year: adjusted tax value, base value, reduced; total deductions increased).
 Second amount for purposes of subsection (1)
 (3) The amount is all deductions for amounts of depreciation loss, calculated using the method described in subsection (4), that, in the period described in subsection (5),—
   (a) the person was allowed for the item and,—
@@ -13749,6 +13926,75 @@ Maximum amount of deduction allocated to income year
     (i) arise in other income years from which a loss balance may be carried forward under Part I to the current year; and
     (ii) have not been allocated to income years before the current year.
 
+### EJ 24 Allocation of expenditure on aircraft engine overhauls
+When this section applies
+(1) This section applies when a person is allowed a deduction under section DW 5 or DW 6 (which relate to the acquisition, overhaul, and leasing of aircraft engines) for expenditure incurred in acquiring an aircraft engine or in performing an aircraft engine overhaul of an aircraft engine or under a finance lease involving an aircraft engine.
+Allocation of deduction: general rule
+(2) A person who does not make an election under section EJ 25 or EJ 26 must allocate a proportion of the deduction for an acquisition or aircraft engine overhaul to each income year that includes a part of the scheduled overhaul period following the acquisition or aircraft engine overhaul, with the proportion for an income year being equal to the proportion of the scheduled overhaul period that occurs in the income year.
+Exception: allocation of deduction when early aircraft engine overhaul
+(3) If the person performs in an income year an aircraft engine overhaul during the scheduled overhaul period relating to the preceding acquisition or aircraft engine overhaul of the aircraft engine, the person must allocate to the income year the part of the deduction for the preceding acquisition or aircraft engine overhaul that would otherwise be allocated under subsection (2) to a later income year.
+Exception: allocation of deduction when lease ends
+(4) If the person leases an aircraft engine, or an aircraft including an unpriced aircraft engine, under a lease that ends before the end of the scheduled overhaul period relating to the preceding acquisition or aircraft engine overhaul of the aircraft engine, the person must allocate to the income year in which the lease ends the part of the deduction for the preceding acquisition or aircraft engine overhaul that would otherwise be allocated under subsection (2) to a later income year.
+
+### EJ 25 Allocation of expenditure on aircraft engine overhauls: election by IFRS user
+Election
+(1) A person may elect to quantify and allocate under this section the amount of a deduction allowed by section DW 5 or DW 6 (which relate to the acquisition, overhaul, and leasing of aircraft engines) in relation to an aircraft or aircraft engine and an income year if—
+  (a) the person is a New Zealand resident or holds a valid certificate of registration for the aircraft from the Director of Civil Aviation under the Civil Aviation Act 1990; and
+  (b) the person uses IFRS rules to prepare financial statements; and
+  (c) the aircraft is treated under the IFRS rules as being owned by the person or is leased by the person under a finance lease.
+Adjusted figures from financial statements
+(2) A person who elects to rely on this subsection must quantify and allocate deductions under section DW 5 or DW 6 for an assessment to which the election applies by using the figures relating to aircraft and aircraft engines used in the person’s financial statements and using methods and adjustments agreed with the Commissioner.
+Currency of election
+(3) An election under this section applies for each assessment that is made by the person—
+  (a) after the person—
+    (i) reaches any necessary agreement under subsection (2) with the Commissioner; and
+    (ii) notifies the Commissioner of the election when or before making a return based on the elected approach; and
+    (iii) is notified that the Commissioner accepts the election, if the Commissioner has previously notified the person under paragraph (d); and
+  (b) before the person’s return for an income year for which the person does not meet the requirements of subsection (1); and
+  (c) before the person notifies the Commissioner, when or before making a return based on an approach other than the elected approach, that the election is revoked; and
+  (d) before the person is notified that the Commissioner will not accept assessments based on the elected approach.
+Grounds for Commissioner’s refusal
+(4) The Commissioner may give to the person a notice referred to in subsection (3)﻿(d), or may refuse to give to the person a notice referred to in subsection (3)﻿(a)﻿(iii), if the Commissioner considers that the person has, in making an assessment, departed significantly from an agreement with the Commissioner or from the requirements of the IFRS rules.
+
+### EJ 26 Allocation of expenditure on aircraft engine overhauls: election by operator of single aircraft
+Election
+(1) A person may elect to quantify and allocate under this section the amount of a deduction allowed by section DW 5 or DW 6 (which relate to the acquisition, overhaul, and leasing of aircraft engines) in relation to an aircraft and an income year if—
+  (a) no more than 1 aircraft is operated in business by the person and persons who are associated with the person other than by blood relationship; and
+  (b) no more than 1 aircraft is operated in a particular business by the person and a person who is associated with the person by blood relationship.
+Expenditure on acquisition and overhaul of aircraft engines
+(2) A person who elects to rely on this subsection to the income year must—
+  (a) allocate a deduction under section DW 5(2) to the income year of the aircraft engine overhaul to which the deduction relates; and
+  (b) treat each aircraft engine as an unpriced aircraft engine for the purposes of section DW 5.
+Currency of election
+(3) An election under this section applies for each assessment that is made by the person—
+  (a) after the person notifies the Commissioner of the election, when or before making a return based on the approach required by subsection (2); and
+  (b) before the person’s return for the third consecutive income year in which the person does not meet the requirements of subsection (1); and
+  (c) before the person notifies the Commissioner, when or before making a return based on an approach other than the elected approach, that the election is revoked.
+
+### EJ 27 Disposal of aircraft engine or aircraft
+When this section applies
+(1) This section applies when a person—
+  (a) is allowed a deduction under section DW 5 or DZ 22 (which relate to deductions for expenditure on aircraft engine maintenance) in relation to an aircraft engine or an aircraft including an unpriced aircraft engine; and
+  (b) disposes of the aircraft engine or aircraft.
+Allocation of remaining deductions
+(2) The person must allocate to the income year in which the disposal occurs the part of the deduction under section DW 5 or DZ 22 for the preceding acquisition or aircraft engine overhaul that is not allocated to an earlier income year.
+Allocation of consideration
+(3) The person must allocate the consideration derived for the disposal between—
+  (a) the aircraft engine or aircraft as an item of depreciable property; and
+  (b) the unexpired portion of the scheduled overhaul period for the aircraft engine.
+Allocation of consideration by agreement
+(4) The allocation by the person under subsection (3) must be—
+  (a) the apportionment agreed with the purchaser; or
+  (b) a fair and reasonable apportionment, if there is no agreed apportionment under paragraph (a).
+Recovery income
+(5) The person derives from the disposal an amount of income equal to—
+  (a) the total amount of deductions under section DW 5 or DZ 22 allowed for the aircraft engine or aircraft and the latest scheduled overhaul period beginning before the disposal, if that amount is less than the amount described in paragraph (b); or
+  (b) the amount of consideration allocated under subsection (3) to the unexpired portion of the scheduled overhaul period for the aircraft engine, if paragraph (a) does not apply.
+Sections CC 11 and FA 9: consideration paid by lessee for lease asset
+(6) For the purposes of sections CC 11 and FA 9 (which relate to a lessee acquiring a lease asset when a lease ends), the amount of consideration paid by a lessee or an associated person of a lessee to acquire an aircraft engine or aircraft, after the term of a finance lease of the aircraft engine or aircraft, does not include the amount allocated under subsection (3) to the unexpired portion of the scheduled overhaul period for the aircraft engine or aircraft.
+Sections CC 12 and FA 10: consideration derived by lessor from disposal of lease asset
+(7) For the purposes of sections CC 12 and FA 10 (which relate to a lessor acquiring a lease asset when a lease ends), the amount of consideration received by the lessor for a disposal of an aircraft engine or aircraft after the term of a finance lease of the aircraft engine or aircraft does not include an amount of consideration allocated under subsection (3) to the unexpired portion of the scheduled overhaul period for the aircraft engine or aircraft.
+
 ### Subpart EK — Environmental restoration accounts
 
 ### EK 1 Environmental Restoration Funds Account
@@ -15220,7 +15466,21 @@ Original debt replaced with interest-free loan
 Repayment: income and deduction
 (5) If the debtor later repays the person associated with the debtor more than the amount the associated person paid for the debt, the excess amount paid by the debtor is—
   (a) income, under section CC 3(1) (Financial arrangements), of the person associated with the debtor; and
-  (b) a deduction that the debtor is allowed under section DB 13(1) (Repayment of debt disposed of at discount to associate of debtor).
+  (b) a deduction that the debtor is allowed under section DB 13(1) (Repayment of debt in certain circumstances).
+
+### EW 49B Guarantees for associated persons
+When this section applies
+(1) This section applies when a guarantor pays an amount under a guarantee (a guarantee payment) for an associated person’s debt (the debtor) to the debtor’s creditor.
+Repayment
+(2) For the debtor, the amount of the guarantee payment is treated as consideration paid or payable by the debtor for the debt.
+New debt
+(3) If the guarantor has recourse to the debtor in relation to the guarantee payment, the guarantor is treated as providing the debtor with an interest-free loan for the amount of the guarantee payment.
+No consideration paid
+(4) For the guarantor, the guarantee payment is treated as not being consideration paid or payable by the guarantor.
+Repayment: income and deduction
+(5) If the debtor later repays the guarantor more than the guarantee payment, the excess paid by the debtor is—
+  (a) income, under section CC 3(1) (Financial arrangements), of the guarantor; and
+  (b) a deduction that the debtor is allowed under section DB 13(1) (Repayment of debt in certain circumstances).
 
 ### EW 50 Income when debt forgiven to trustee
 When this section applies
@@ -16597,13 +16857,13 @@ Exemption
   (a) the rights are a share; and
   (b) the share is not a share that may not, or ordinarily may not, be disposed of unless together with rights in another company; and
   (c) the FIF is a company that meets the requirements of subsection (2).
-Australian listed company on approved index
+ASX-listed Australian company
 (2) The company must—
   (a) at all times in the year when the person holds a right in the company, be resident in Australia; and
   (b) at all times in the year when the person holds a right in the company, not be treated as resident in a country other than Australia under an agreement that—
     (i) is between Australia and that other country; and
     (ii) would be a double tax agreement if negotiated between New Zealand and that other country; and
-  (c) have shares included in an index that is an approved index under the ASX Operating Rules—
+  (c) be included on the official list of ASX Limited, a market licensee under Chapter 7 of the Corporations Act 2001 (Aust)—
     (i) at the beginning of an income year, if subparagraphs (ii) and (iii) do not apply; or
     (ii) at the earliest date in the income year on which the person owns shares in the company, if the person does not own shares in the company at the beginning of the income year; or
     (iii) at the beginning of the final month of the preceding income year if, in the first month of an income year, the shares are cancelled or transferred under a scheme of arrangement entered into under Part 5.1 of the Corporations Act 2001 (Aust); and
@@ -18909,6 +19169,24 @@ Definition of items in formula
   (b) cost is the cost of items of the kind to which the formula is applied:
   (c) estimated useful life is defined in section EE 63 (Meaning of estimated useful life).
 
+### EZ 23BA Aircraft acquired before 2017–18 income year: adjusted tax value, base value, reduced; total deductions increased
+When this section applies
+(1) This section applies when—
+  (a) a person, before the 2017–18 income year, acquires an aircraft engine or an aircraft including an unpriced aircraft engine; and
+  (b) the person is required to perform aircraft engine overhauls on the aircraft engine when operating an aircraft; and
+  (c) for the purposes of section EE 56 (Formula), the item base value used to calculate the adjusted tax value of the aircraft engine or aircraft for income years before the 2017–18 income year includes an amount corresponding to the cost of an aircraft engine overhaul of the aircraft engine; and
+  (d) the person does not make an election under section EJ 26 (Allocation of expenditure on aircraft engine overhauls: election by operator of single aircraft) for the 2017–18 income year.
+Base value reduced by cost of overhaul
+(2) The item base value referred to in subsection (1)﻿(c) for the aircraft engine or aircraft is reduced at the beginning of the 2017–18 income year by the included amount referred to in that paragraph.
+Adjusted tax value reduced by depreciated cost of overhaul
+(3) The adjusted tax value of the aircraft engine or aircraft is reduced at the beginning of the 2017–18 income year by the proportion of the adjusted tax value that corresponds to the depreciated cost to the person of the aircraft engine overhaul referred to in subsection (1)﻿(c).
+Total deductions increased by reduction in base value
+(4) For the purposes of section EE 56, the amount of the reduction in base value under subsection (2) is included as an increase in the item total deductions for the aircraft engine or aircraft.
+Fair and reasonable proportion of base value and adjusted tax value
+(5) For the purposes of subsections (2) and (3), the proportion of the base value or adjusted tax value that corresponds to the cost or depreciated cost to the person of the aircraft engine overhaul is the amount that is fair and reasonable, taking into consideration—
+  (a) the principles used in determining the amount of a deduction allowed under section DW 5 (Aircraft operators: aircraft engines and aircraft engine overhauls) for an aircraft engine or aircraft in the 2017–18 or a later income year:
+  (b) historical figures for the cost of an aircraft engine overhaul as a proportion of the cost of a similar aircraft and engine.
+
 ### EZ 23B Property acquired after depreciable property affected by Canterbury earthquakes
 When this section applies
 (1) This section applies for a person and an income year (the current year) before the 2019–20 income year when the person,—
@@ -20423,6 +20701,8 @@ Allocation and association
   (b) association is determined at the time of acquisition by the associated person.
 Exception
 (4) Subsection (2) does not apply if the consideration derived on the disposal is income of the lessee or an associated person under a provision of this Act other than this section.
+Payment relating to aircraft engine overhaul
+(5) Expenditure of a person that relates to an aircraft including an unpriced aircraft engine and is deductible under sections DW 5 and DW 6 (which relate to aircraft engine acquisitions and overhauls) is not included in an amount of consideration paid by the person for the aircraft, for the purposes of this section.
 
 ### FA 10 Treatment when lease ends: lessor acquiring asset
 When this section applies
@@ -20443,6 +20723,8 @@ Definition of items in formula
 (7) In the formula,—
   (a) outstanding balance is the amount of the outstanding balance of the loan on the date on which the lease is terminated:
   (b) release payment is the amount the lessee paid to be released from their obligations under the lease.
+Payment relating to aircraft engine overhaul
+(7B) Expenditure of a person that relates to an aircraft including an unpriced aircraft engine and is deductible for the person under sections DW 5 and DW 6 (which relate to aircraft engine acquisitions and overhauls) is not included in an amount of consideration paid by the person for the aircraft, for the purposes of this section.
 Relationship with section EE 45
 (8) Subsections (2) to (6) override section EE 45 (Consideration for purposes of section EE 44).
 
@@ -20470,6 +20752,8 @@ Adjustment positive
 (6) If the adjustment is positive, the amount is income of the relevant person under section CH 6 (Adjustments for certain finance and operating leases).
 Adjustment negative
 (7) If the adjustment is negative, the amount is a deduction of the relevant person under section DB 51B (Adjustments for leases that become finance leases).
+Payment relating to aircraft engine overhaul
+(8) Expenditure of a person that relates to an aircraft including an unpriced aircraft engine and is deductible for the person under sections DW 5 and DW 6 (which relate to aircraft engine acquisitions and overhauls) is not included in an amount of consideration paid by the person for the aircraft, for the purposes of this section.
 
 ### FA 11B Adjustments for certain operating leases
 When this section applies
@@ -22073,7 +22357,7 @@ Dividends
 (3) A dividend that 1 company that is part of a consolidated group pays to another group company continues to be taken into account for the purposes of—
   (a) the imputation rules:
   (b)
-  (c) sections FM 8(3)﻿(c), FM 27 to FM 30, GB 38, and OP 3 to OP 50 (which relate to dividends and consolidated groups):
+  (c) sections FM 8(3)﻿(c), GB 38, and OP 3 to OP 50 (which relate to dividends and consolidated groups):
   (d)
   (e) section 74 of the Tax Administration Act 1994.
 International tax rules
@@ -22084,7 +22368,7 @@ Balance of imputation credit account
 **Accounting generally**
 
 ### FM 7 Treatment of amounts derived or expenditure incurred
-Sections FM 8 to FM 30 set out the treatment of certain amounts derived or expenditure incurred while a company is part of a consolidated group. The treatment applies to the part of a company’s income year when the company is in the consolidated group.
+Sections FM 8 to FM 23 set out the treatment of certain amounts derived or expenditure incurred while a company is part of a consolidated group. The treatment applies to the part of a company’s income year when the company is in the consolidated group.
 
 ### FM 8 Transactions between group companies: income
 When this section applies
@@ -22289,50 +22573,13 @@ Relationship with sections FM 8 and FM 11
 [Repealed]
 
 ### FM 27 Refunds of FDP
-When this section applies
-(1) This section applies when a company becomes entitled in a tax year to a refund of a FDP paid by it to the Commissioner in an earlier tax year in relation to a foreign dividend received when the company was part of a consolidated group.
-Maximum amount of refund
-(2) The refund must not be more than the amount set out in the following paragraphs, as applicable:
-  (a) if the consolidated group has an FDP account at the time the entitlement arises, a credit balance in the group’s FDP account at the end of the tax year that is before the tax year in which the entitlement arises; or
-  (b) if the consolidated group does not have an FDP account at the time the entitlement arises, a credit balance in the group’s imputation credit account at the end of the tax year that is before the tax year in which the entitlement arises.
-Treatment of excess
-(3) If subsection (2) does not apply to some or all of the payment because it is more than the applicable credit balance, the amount in excess is credited to FDP payable by the company for a tax year in which it is part of the consolidated group.
-Earlier refunds of payments
-(4) The credit balance referred to in subsection (3) is treated as reduced by an earlier refund of FDP that is made in the tax year to the company or to another company in the same consolidated group at the time the dividend is paid or for the income year in which the refund is made.
-Refunds of income tax
-(5) Subsection (4) also applies in relation to a refund of income tax that is, under sections RM 13 to RM 17 (which relate to limit on refunds) no more than the credit balance described in subsection (2).
-Relationship with section RM 18
-(6) This section overrides section RM 18 (Limits on refunds related to foreign dividends). However, section RM 18 does not limit a refund of FDP to a company that is part of a consolidated group at the time the dividend is paid to the extent to which this section would not have limited the refund.
+[Repealed]
 
 ### FM 28 Refund when consolidated group has loss
-When this section applies
-(1) This section applies when—
-  (a) a company has paid FDP to the Commissioner in an income year and, at the time the dividend was paid, the company was part of a consolidated group; and
-  (b) the group has a tax loss component for the tax year that corresponds to the income year that may be used under section IA 3 and subpart ID (which relate to the treatment of tax losses); and
-  (c) the nominated company of the consolidated group has filed its return of income under section FM 3(3).
-Applying for refund
-(2) The company may apply to the Commissioner for a refund of the payment. The maximum refund is the smallest of the following amounts:
-  (a) the amount of the payment paid in the income year:
-  (b) the amount of the tax loss component multiplied by the rate set out in subsection (4)﻿(b):
-  (c) the credit balance of the group’s FDP account at the end of the tax year just ended.
-Tax loss component reduced
-(3) The amount of the tax loss component is reduced by an amount calculated using the formula—amount of refund ÷ tax rate.
-Definition of items in formula
-(4) In the formula,—
-  (a) amount of refund is the amount of the refund paid to the company:
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the tax year that corresponds to the income year.
-Relationship with section RM 21
-(5) This section overrides section RM 21 (Refunds when loss balances used to reduce net income).
+[Repealed]
 
 ### FM 29 Treatment of credit balance in consolidated group’s FDP account
-When this section applies
-(1) This section applies when a consolidated group has a credit balance in its FDP account at the end of a tax year.
-Credit and debit
-(2) The nominated company of the consolidated group may choose that some or all of the credit balance becomes—
-  (a) a credit in the imputation credit account of the group, or of the imputation group to which the consolidated group companies belong; and
-  (b) a debit in the FDP account of the consolidated group.
-How election made
-(3) The company makes the election by recording the debit in the consolidated group’s FDP account.
+[Repealed]
 
 ### FM 30 Application of certain provisions to consolidated groups
 When subsections (2) and (3) apply
@@ -22342,16 +22589,13 @@ Credit and debit balances
 Section OC 20: life insurance credit balance
 (3)
 Section OC 27: FDP credits
-(4) Section OC 27 (FDP credits attached to dividends) applies in relation to a consolidated group as if the reference to an FDPA company includes a reference to a company if, at the time a foreign dividend is paid to it, the company is part of a consolidated group that maintains an FDP account.
+(4)
 Sections OC 30 to OC 32, and others: liability for payments and penalties
-(5) Sections OA 2(5) and OC 30 to OC 32 (which relate to further FDP), and 103, 104, 139B, 140C, 140D, and 181 of the Tax Administration Act 1994 apply, modified as necessary in relation to a consolidated group and its FDP account as if—
-  (a) the group were a single company:
-  (b) a reference to a provision of this Act were a reference to the equivalent provision applying to a consolidated group:
-  (c) a reference to a liability of a company for further FDP, FDP penalty tax, and a late payment penalty were a reference to the joint and several liability for the payment, tax, or penalty of each company that is part of the group at the time the payment, tax or penalty becomes payable.
+(5)
 Section RA 19: amalgamations
 (6) Section RA 19 (Refunds of excess amounts or when amounts mistakenly paid) applies, modified as necessary, from the time of amalgamation when a consolidated group ends its existence on a resident’s restricted amalgamation that involves all companies in the consolidated group, whether or not with a company outside the consolidated group, in relation to tax paid by the consolidated group as if it and the amalgamated company were a single company.
 Sections 30 and 68 of Tax Administration Act 1994: FDP accounts
-(7) Sections 30 and 68 of the Tax Administration Act 1994 apply, modified as necessary, in relation to a consolidated group as if a reference to an FDPA company were a reference to a company that is part of a consolidated group that maintains an FDP account.
+(7)
 
 **Eligibility and restrictions**
 
@@ -22811,7 +23055,7 @@ Disposal of land within 2-year bright-line test or 10-year rule
 
 ### FO 18 When amalgamating companies are parties to financial arrangement
 When this section applies
-(1) This section applies when amalgamating companies are parties to a financial arrangement that exists on the date of the amalgamation of the companies.
+(1) This section applies when amalgamating companies are parties to a financial arrangement that exists on the date of the amalgamation of the companies and section FO 21 does not apply.
 Financial arrangement discharged
 (2) The financial arrangement is, for the purposes of section EW 31 (Base price adjustment formula), treated as having been discharged immediately before the amalgamation. The consideration for the discharge is as follows:
   (a) on a resident's restricted amalgamation,—
@@ -22857,6 +23101,17 @@ Definition of items in formula
     (ii) using a spreading method that the party chooses, if the method could have been used if the income year had ended immediately before the amalgamation:
   (d) expenditure accrued in year is the expenditure that the party accrues under the financial arrangement for the period described in paragraph (c) and calculated as described in that paragraph:
   (e) consideration paid is the consideration paid to the party under the financial arrangement before the date of the amalgamation.
+
+### FO 21 When amalgamating companies are parties to financial arrangements: economic groups
+When this section applies
+(1) This section applies when—
+  (a) amalgamating companies are parties to a financial arrangement that exists on the date of the amalgamation; and
+  (b) section EW 46C(1)﻿(a) or (b) (Consideration when debt forgiven within economic group) applies to the amalgamating companies as creditor and debtor for the financial arrangement; and
+  (c) section EW 46C(3) does not apply.
+Consideration: debtor
+(2) The debtor is treated as having paid the amount of the financial arrangement on the date of the amalgamation.
+Consideration: creditor
+(3) The creditor is treated as having been paid the amount of the financial arrangement on the date of the amalgamation.
 
 ### Subpart FZ — Terminating provisions
 
@@ -23618,7 +23873,7 @@ When section GB 36 applies
 Share disposal or issue arrangements
 (2) An arrangement is an arrangement to obtain a tax advantage if—
   (a) the arrangement is for the disposal or issue of shares; and
-  (b) a party to the arrangement might reasonably have expected that a dividend would be paid in relation to the shares with an imputation credit or foreign dividend payment (FDP) credit attached; and
+  (b) a party to the arrangement might reasonably have expected that a dividend would be paid in relation to the shares with an imputation credit attached; and
   (c) a party might reasonably have expected that a party will, or will not, be able to obtain a tax advantage from the credit; and
   (d) a purpose of the arrangement is that a party will obtain a tax advantage; and
   (e) the purpose is not a merely incidental one.
@@ -23627,39 +23882,28 @@ Dividend or credit streaming arrangements
   (a) the arrangement relates to 1 or more distributions by a company, including bonus issues, during 1 or more tax years; and
   (b) under the arrangement, the company streams—
     (i) the payment of dividends; or
-    (ii) the attachment of imputation credits; or
-    (iii) the attachment of FDP credits; or
-    (iv) the attachment of both imputation credits and FDP credits; and
+    (ii) the attachment of imputation credits; and
   (c) the streaming will give a higher credit value to a person who will obtain a tax advantage from the higher credit value than to a person who will not or may reasonably be expected to obtain a lesser benefit.
 Meaning of higher credit value
-(4) For the purposes of subsection (3)﻿(c), a dividend has a higher credit value than another dividend if any of the following applies:
+(4) For the purposes of subsection (3)﻿(c), a dividend has a higher credit value than another dividend if 1 or both of the following applies:
   (a) the dividend has an attached imputation credit and the other dividend does not:
-  (b) the imputation ratio of the dividend is higher than that of the other dividend:
-  (c) the dividend has an attached FDP credit and the other dividend does not:
-  (d) the FDP ratio of the dividend is higher than that of the other dividend:
-  (e) the dividend has attached both an imputation credit and an FDP credit and the other dividend does not have both types of credit attached:
-  (f) the combined imputation ratio and FDP ratio of the dividend is higher than that of the other dividend.
+  (b) the imputation ratio of the dividend is higher than that of the other dividend.
 
 ### GB 36 Reconstruction of imputation arrangements to obtain tax advantage
 Reconstruction of either type of arrangement
 (1) In the case of a share disposal or issue arrangement described in section GB 35(2), or a streaming arrangement described in section GB 35(3), if the Commissioner decides this subsection should apply, the following paragraphs apply:
   (a) a person who would get a tax credit advantage from the arrangement is denied it:
-  (b) a company that would get an account advantage from the arrangement has a debit to its imputation credit account or FDP account, as applicable, in the tax year in which the arrangement began.
+  (b) a company that would get an account advantage from the arrangement has a debit to its imputation credit account in the tax year in which the arrangement began.
 Reconstruction of streaming arrangement
-(2) In the case of a streaming arrangement described in section GB 35(3) in which the company is the only party, or if the Commissioner decides this subsection should apply, the company has a debit to its imputation credit account or FDP account, as applicable, in the tax year in which the arrangement began. Subsection (1) does not apply to the extent to which this subsection applies to the arrangement.
+(2) In the case of a streaming arrangement described in section GB 35(3) in which the company is the only party, or if the Commissioner decides this subsection should apply, the company has a debit to its imputation credit account in the tax year in which the arrangement began. Subsection (1) does not apply to the extent to which this subsection applies to the arrangement.
 Amount of adjustment
-(3) The amount of the credit or refund denied under subsection (1)﻿(a) and the debit arising under subsection (1)﻿(b) or (2) is in each case the amount of the imputation credit or FDP credit that the Commissioner determines is subject to the arrangement.
+(3) The amount of the credit or refund denied under subsection (1)﻿(a) and the debit arising under subsection (1)﻿(b) or (2) is in each case the amount of the imputation credit that the Commissioner determines is subject to the arrangement.
 Commissioner’s powers of determination
 (4) The Commissioner may make determinations for the purposes of this section under section 90AF of the Tax Administration Act 1994.
 Some definitions
 (5) In this section and section 90AF of the Tax Administration Act 1994,—
-  - **account advantage** means—
-    (a) a credit arising to an imputation credit account under sections OB 4 to OB 29 (which relate to credits arising to imputation credit accounts); or
-    (b) a credit arising to an FDP account under sections OC 6 to OC 12 (which relate to credits arising to FDP accounts)
-  - **tax credit advantage** means—
-    (a) a tax credit allowed under section LE 1 (Tax credits for imputation credits); or
-    (b) a tax credit allowed under section LF 1 (Tax credits for FDP credits); or
-    (c) a refund of FDP obtained under section LF 8 (Credits for persons who are non-resident or who receive exempt income).
+  - **account advantage** means a credit arising to an imputation credit account under sections OB 4 to OB 29 (which relate to credits arising to imputation credit accounts)
+  - **tax credit advantage** means a tax credit allowed under section LE 1 (Tax credits for imputation credits).
 
 ### GB 37 Arrangements for payment of dividend by other companies
 When this section applies
@@ -23697,13 +23941,7 @@ Arrangement for dividend from another company
 [Repealed]
 
 ### GB 41 FDPA arrangements for carrying amounts forward
-When this section applies
-(1) This section applies when—
-  (a) a share in a foreign dividend payment account (FDPA) company or another company has been subject to an arrangement, including an arrangement directly or indirectly altering rights attached to the share; and
-  (b) the arrangement allows the FDPA company to meet the requirements of section OC 24 (FDPA debit for loss of shareholder continuity); and
-  (c) a purpose of the arrangement is to defeat the intent and application of section OC 24.
-Company treated as not meeting requirements
-(2) The FDPA company is treated as not meeting the requirements of section OC 24 in relation to the share.
+[Repealed]
 
 ### GB 42 Maori authority credit arrangements to obtain tax advantage
 When section GB 43 applies
@@ -23856,12 +24094,12 @@ Arrangement treated as returning share transfer
   (a) the arrangement as a returning share transfer; and
   (b) a person affected by the arrangement as a share user or a share supplier, under the returning share transfer.
 
-### GB 50 Arrangements involving partners
+### GB 50 Arrangements involving partners and owners
 When this section applies
 (1) This section applies when—
-  (a) a partner of a partnership enters into an arrangement; and
+  (a) a partner of a partnership or an owner of a look-through company enters into an arrangement; and
   (b) the arrangement involves an amount of consideration (the arrangement amount of consideration) that is not a market value amount of consideration; and
-  (c) the arrangement has a purpose or effect of defeating the intent and application of subpart HG (Joint venturers, partners, and partnerships).
+  (c) the arrangement has a purpose or effect of defeating the intent and application of subparts HB and HG (which relate to joint venturers, partners, partnerships, and look-through companies).
 Market value amount substituted
 (2) A market value amount of consideration is substituted for the arrangement amount of consideration.
 
@@ -24184,6 +24422,14 @@ Exclusions
   (a) a company that is not resident in New Zealand; or
   (b) a company that is resident in New Zealand but is treated under and for the purposes of a double tax agreement, as not resident in New Zealand; or
   (c)
+Exclusion: loss of continuity
+(3) A company is not eligible to be a qualifying company unless, at all times in an income year, a group of persons holds for the QC continuity period, minimum QC interests in the company that add up to at least 50%.
+Exception for close relatives
+(4) For the purposes of subsection (3), a share transferred by a transferor to a close relative is treated as being held by a single notional person for the company from the time that the transferor acquired the share. A share subsequently transferred to a close relative of a subsequent transferor is similarly treated as held by the same single notional person.
+Some definitions
+(5) In this section—
+  - **minimum QC interest** , for a person and the QC continuity period, means the lowest voting interest or market value interest they have in the company during the QC continuity period
+  - **QC continuity period** means the period starting on the day that the Taxation (Annual Rates for 2016–17, Closely Held Companies, and Remedial Matters) Act 2017 receives the Royal assent and ending on the last day in the income year.
 
 ### HA 7 Shareholding requirements
 Natural persons, certain trustees, and qualifying companies
@@ -24294,33 +24540,31 @@ No resident passive income
 
 ### HA 15 Fully imputed distributions
 When this section applies
-(1) This section applies when a qualifying company with an imputation credit account or foreign dividend payment (FDP) account pays a dividend. However, this section does not apply to a non-cash dividend other than a taxable bonus issue.
+(1) This section applies when a qualifying company with an imputation credit account pays a dividend. However, this section does not apply to a non-cash dividend other than a taxable bonus issue.
 Calculating amount of fully imputed distribution
-(2) The amount of a fully imputed distribution is calculated using the formula—(attached imputation credit + attached FDP credit) ÷ tax rate.
+(2) The amount of a fully imputed distribution is calculated using the formula—attached imputation credit ÷ tax rate.
 Definition of items in formula
 (3) In the formula in subsection (2),—
   (a) attached imputation credit is the amount determined under subsection (4), and the amount is zero if no imputation credit is attached:
-  (b) attached FDP credit is the amount determined under subsection (5), and the amount is zero if no FDP credit is attached:
+  (b)
   (c) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) at the time the shareholder derives the dividend, modified as applicable by section OZ 14 (Dividends from qualifying companies).
 ICA companies
 (4) A qualifying company that is an imputation credit account (ICA) company is treated as having attached an imputation credit to the dividend. The amount of the imputation credit is the lesser of—
   (a) the maximum imputation credit that may be attached to the dividend under section OA 18 (Calculation of maximum permitted ratios) modified as applicable by section OZ 14; and
   (b) an amount calculated using the formula in subsection (6).
 FDPA companies
-(5) A qualifying company that is a foreign dividend payment account (FDPA) company is treated as having attached a FDP credit to the dividend. The amount of the FDP credit is the lesser of—
-  (a) the maximum FDP credit that may be attached to the dividend under section OA 18, taking into account any imputation credit attached to the dividend under subsection (4) modified as applicable by section OZ 14; and
-  (b) an amount calculated using the formula in subsection (6).
+(5)
 Formula
-(6) The formula referred to in subsections (4) and (5) is—attached credits × amount of dividend ÷ amount paid before credits attached.
+(6) The formula referred to in subsection (4) is—attached credits × amount of dividend ÷ amount paid before credits attached.
 Definition of items in formula
 (7) In the formula in subsection (6),—
-  (a) attached credits is the balance in the company’s imputation credit account or FDP account, as applicable, on the last day of the tax year in which the dividend is paid before a debit is made for any imputation credits or FDP credits, as applicable, that are attached:
-  (b) amount of the dividend is the amount before any imputation credits or FDP credits, as applicable, are attached:
-  (c) amount paid before credits attached is the total amount of dividends, excluding non-cash dividends other than taxable bonus issues, paid by the company during the tax year before any imputation credits or FDP credits, as applicable, are attached.
-Relationship with imputation rules and FDP rules
-(8) An imputation credit or an FDP credit may not be attached to a dividend by a qualifying company except under this section.
+  (a) attached credits is the balance in the company’s imputation credit account on the last day of the tax year in which the dividend is paid before a debit is made for any imputation credits that are attached:
+  (b) amount of the dividend is the amount before any imputation credits are attached:
+  (c) amount paid before credits attached is the total amount of dividends, excluding non-cash dividends other than taxable bonus issues, paid by the company during the tax year before any imputation credits are attached.
+Relationship with imputation rules
+(8) An imputation credit may not be attached to a dividend by a qualifying company except under this section.
 Relationship with sections HA 14 and HA 16
-(9) If part of the dividend is exempt income under sections HA 14 and HA 16, an imputation credit or FDP credit is treated as attached to the part that is not exempt income.
+(9) If part of the dividend is exempt income under sections HA 14 and HA 16, an imputation credit is treated as attached to the part that is not exempt income.
 
 ### HA 16 Dividends paid by qualifying companies to trustee shareholders
 When this section applies
@@ -24346,15 +24590,13 @@ Group companies: imputation credit accounts
   (a) the balance of the credit account on that day after any credits are attached under section HA 15; and
   (b) the largest debit to the credit account that would have arisen before that day if section OB 41 had applied.
 Group companies: FDP account
-(4) On the day before the date on which the status ends, the company’s FDP account is debited under section OC 24 (FDPA debit for loss of shareholder continuity) by the lesser of—
-  (a) the balance of the credit account on that day after any credits are attached under section HA 15; and
-  (b) the largest debit to the credit account that would have arisen before that day if section OC 24 had applied.
+(4)
 
 ### HA 19 Credit accounts and dividend statements
 When this section applies
 (1) This section applies when a qualifying company pays a dividend that is treated either as a fully imputed distribution under section HA 15 or as exempt income under sections HA 14 and HA 16.
 Credit accounts
-(2) For the purposes of sections OB 30 to OB 59 (which relate to imputation debits) and OC 13 to OC 26 (which relate to FDP debits), if an imputation credit or an FDP credit is attached to the dividend, the amount of the credit is debited to the company’s imputation credit account or FDP account, as applicable. The debit arises on the day the company pays the dividend.
+(2) For the purposes of sections OB 30 to OB 59 (which relate to imputation debits), if an imputation credit is attached to the dividend, the amount of the credit is debited to the company’s imputation account. The debit arises on the day the company pays the dividend.
 Dividend statements
 (3) For all dividends, whether or not credits have been attached, the company must complete the following statements detailing the extent to which the dividends are assessable income or exempt income:
   (a) a company dividend statement under section 67(1) of the Tax Administration Act 1994; and
@@ -24518,11 +24760,11 @@ Dividends
 (3) Dividends is the sum of the amounts that would be dividends if the company—
   (a) disposed of all its property, other than cash, to an unrelated person at market value for cash; and
   (b) met all its liabilities at market value, excluding income tax payable through disposing of the property or meeting the liabilities; and
-  (c) was liquidated, with the amount of cash remaining being distributed to its shareholders without imputation credits or FDP credits attached.
+  (c) was liquidated, with the amount of cash remaining being distributed to its shareholders without imputation credits attached.
 Balances
 (4) Balances is the sum of the following amounts:
   (a) the balance in the company’s imputation credit account:
-  (b) the balance in the company’s FDP account:
+  (b)
   (c) an amount of income tax payable for an earlier income year but not paid before the relevant date, less refunds due for the earlier income year but paid after the relevant date.
   (d)
 Assessable income
@@ -24618,6 +24860,8 @@ Receipt upon permanent cessation
 (5) Anything received by an owner in relation to permanent cessation or capital reduction, as described in subsection (3) or (4), is ignored.
 Cessation due to revocation or otherwise
 (6) A person is treated as disposing of all of their owner's interests for a look-through company to a single third party for a payment equal to the interests' market value, if the look-through company ceases to be a look-through company because of a revocation or otherwise, but excluding cessation as described in subsection (3). The company is treated as acquiring all of the person's interests immediately after the cessation, from the third party, for a payment equal to the interests' market value, and for the purposes of section CB 15 (Transactions between associated persons), the person disposing of, and the company acquiring, the interests are treated as associated persons.
+Market value of debts owed
+(7) In this section the market value of an owner’s interest in a financial arrangement as debtor must take into account the amount of any adjustment for credit impairment.
 
 ### HB 5 Disposal of owner’s interests
 When this section applies
@@ -24709,7 +24953,9 @@ Entering owner's cost base
 
 ### HB 11 Limitation on deductions by persons with interests in look-through companies
 When this section applies
-(1) This section applies for a look-through company (the LTC) and an income year when, but for this section, a deduction by virtue of section HB 1 or HB 12(2) or (3) would be allowed to a person who has an effective look-through interest for the LTC.
+(1) This section applies for a look-through company (the LTC) and an income year when,—
+  (a) but for this section, a deduction by virtue of section HB 1 or HB 12(2) or (3) would be allowed to a person who has an effective look-through interest for the LTC; and
+  (b) the LTC is a partner in a partnership that includes another look-through company, or the LTC is a member of a joint venture described in section HG 1 (Joint venturers) that includes another LTC.
 No deduction
 (2) The person is denied the deduction for an income year to the extent to which their look-through company deduction for the income year is greater than the amount (the owner’s basis) calculated using the formula in subsection (3) at the end of the income year.
 Owner’s basis
@@ -25843,8 +26089,8 @@ Excluded amounts
   (a) expenditure or loss that relates to a person entering a partnership by acquiring partner’s interests disposed of by another partner, to the extent to which sections HG 5 to HG 10 do not apply to the partner’s interests:
   (b) supplementary dividends, to the extent to which subpart LP (Tax credits for supplementary dividends) applies:
   (c)
-  (d) imputation credits, to the extent to which section LE 6 (Partners in partnerships) applies:
-  (e) FDP credits, to the extent to which section LF 4 (Partners in partnerships) applies.
+  (d) imputation credits, to the extent to which section LE 6 (Partners in partnerships) applies.
+  (e)
 
 ### HG 3 General provisions relating to disposals
 Relationship between disposal upon dissolution and disposal safe harbours
@@ -26444,7 +26690,7 @@ Further extension granted by Commissioner
 What this section does
 (1) This section is an additional rule for an entity that is a listed PIE other than a life fund PIE.
 Fully crediting distributions
-(2) When a listed PIE distributes an amount to an investor in an investor class, the distribution must be fully credited as described in section CD 43(26) (Available subscribed capital (ASC) amount) to the extent permitted by the imputation credits or FDP credits that the directors of the company determine are available.
+(2) When a listed PIE distributes an amount to an investor in an investor class, the distribution must be fully credited as described in section CD 43(26) (Available subscribed capital (ASC) amount) to the extent permitted by the imputation credits that the directors of the company determine are available.
 Relationship with section CX 56C
 (3) For the treatment of imputation credits when a shareholder chooses to include the distribution as income in their return of income, see section CX 56C(2) (Distributions to investors by listed PIEs).
 
@@ -27256,7 +27502,7 @@ Definition of items in formula
     (i) imputation credits:
     (ii) Maori authority credits:
     (iii) RWT credits:
-    (iv) FDP credits:
+    (iv)
   (c) rate is the basic rate for companies set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 
 **Elections and consequences**
@@ -27344,7 +27590,7 @@ Timing
 (6) The disposal and reacquisition is treated as occurring on the day before PIE status is lost.
 
 ### HM 76 Transition: FDPA companies
-When an FDPA company becomes a PIE during a tax year, the balance of the company’s FDP account at the end of the tax year for the purposes of section RM 21(2)﻿(c) (Refunds when loss balances used to reduce net income) is equal to the balance of the FDP account immediately before the company becomes a PIE.
+[Repealed]
 
 ### Subpart HR — Other entities
 
@@ -27693,6 +27939,14 @@ Meaning of QCST transitional process
   (b) the sole tradership is the same natural person who, at the end of the income year before the transitional income year, is the sole shareholder of the qualifying company; and
   (c) all assets and liabilities, and associated rights and obligations, of the qualifying company are moved to the sole tradership, excluding those that are inappropriate for a sole tradership.
 
+### HZ 4E Transition out of LTC regime for Taxation (Annual Rates for 2016–17, Closely Held Companies, and Remedial Matters) Act 2017
+When this section applies
+(1) This section applies when an entity that is a look-through company (an LTC) at the end of the 2016–17 income year ceases to be an LTC because of an amendment to LTC-related provisions, in section 288 of the Taxation (Annual Rates for 2016–17, Closely Held Companies, and Remedial Matters) Act 2017 (the cessation).
+Exemption
+(2) Section HB 4(6) (General provisions relating to disposals) does not apply to the cessation.
+Company steps into place
+(3) An entity that ceases to be an LTC is treated as having, as a company, the tax position it has, ignoring section HB 1(4) (Look-through companies are transparent), immediately before it ceases, and the owners are treated as not having that tax position.
+
 ### HZ 5 Transitional provisions for PIE rules
 Intention of new law
 (1) The PIE rules are the provisions of the Income Tax Act 2007 relating to portfolio investment entities in rewritten form, and are intended to have the same effect as the relevant corresponding provisions of the Income Tax Act 2007. Subsection (3) overrides this subsection.
@@ -27743,6 +27997,16 @@ No confirmation rulings
   (a) the new law applies to the arrangement or to the person and the arrangement; or
   (b) this subsection applies to the arrangement or to the person and the arrangement.
 
+### HZ 8 Retrospective transitional provision for market valuation under section HB 4
+When this section applies
+(1) This section applies for the 2017–18 income year if section HB 4 (General provisions relating to disposals) has applied for a person before the start of the 2017–18 income year.
+Income
+(2) The person has an amount of income for the 2017–18 income year calculated using the formula—retrospective amount – current amount.
+Definition of items in formula
+(3) In the formula,—
+  (a) retrospective amount is the amount of income, for the person’s owner’s interest in financial arrangements as debtor, that would result from the application of section HB 4 for income years before the 2017–18 income year, treating that section as amended, for the purposes of this definition, as provided by section 130 of the Taxation (Annual Rates for 2016–17, Closely Held Companies, and Remedial Matters) Act 2017 for those income years:
+  (b) current amount is the amount of income, for the person’s owner’s interest in financial arrangements as debtor from the application of section HB 4, for income years before the 2017–18 income year.
+
 ## Part I — Treatment of tax losses
 
 ### Subpart IA — General rules for tax losses
@@ -27786,9 +28050,9 @@ Paying shortfall penalties
 (1) A person who has a tax loss for a tax year may use some or all of the amount of the tax loss under section IW 1 (Shortfall penalties) to pay a shortfall penalty.
 Companies using tax losses
 (2) A company that has a tax loss for a tax year may—
-  (a) make the amount available to another company under section IC 5 (Company B using company A’s tax loss) to subtract from the other company’s net income for the tax year; or
-  (b) use the amount under section RG 6 (Using loss balances) to satisfy a liability for a foreign dividend payment (FDP) payable in the corresponding income year; or
-  (c) use the amount under sections FM 26 to FM 28, or RM 21, (which relate to FDP) to obtain a refund of an overpayment of FDP made in the corresponding income year.
+  (a) make the amount available to another company under section IC 5 (Company B using company A’s tax loss) to subtract from the other company’s net income for the tax year.
+  (b)
+  (c)
 Taxable distributions
 (3) The amount of a tax loss for a tax year of a beneficiary of a non-complying trust may be used under section HC 22 (Use of tax losses to reduce taxable distributions from non-complying trusts) to adjust the amount of a taxable distribution derived in the corresponding income year.
 Remaining loss balances carried forward
@@ -28827,7 +29091,7 @@ What this section applies to
   (c) section LB 3 (Tax credits for resident withholding tax):
   (cb) section LB 6 (Tax credits for RSCT):
   (cc) section LB 6B (Tax credits for RLWT):
-  (d) subpart LF (Tax credits for foreign dividend payment (FDP) credits):
+  (d)
   (db)
   (e) subpart LO (Tax credits for Maori authority credits):
   (f) section LS 1 (Tax credits for multi-rate PIEs):
@@ -28957,9 +29221,7 @@ Amount
 Definition of items in formula
 (4) In the formula,—
   (a) amount paid is the amount paid to the provider for providing a key aspect of social rehabilitation to the person for the period, to the extent to which the amount is equal to or less than the amount of the personal service rehabilitation payment for the period after taking into account any amount of tax withheld:
-  (b) tax rate is the rate of tax applying to the personal service rehabilitation payment under schedule 4, part I, clause 1 (Rates of tax for schedular payments) unless the payment is 1 of the following kinds, in which case the rate of tax is that set out in the subparagraph:
-    (i) for a payment to which section RD 18 (Schedular payments without notification) applies, the rate under schedule 4, part I, clause 1 together with any additional amount required to be withheld under section RD 18, determined using the rates set out in that section:
-    (ii) for a payment to which a special tax rate certificate applies, the rate applying to the payment as determined by the Commissioner under section 24N of the Tax Administration Act 1994.
+  (b) tax rate is the rate of tax applying to the personal service rehabilitation payment under section RD 10B (Amounts of tax for schedular payments).
 
 ### LB 8 Tax credits related to personal service rehabilitation payments: payers
 When this section applies
@@ -28973,9 +29235,7 @@ Definition of items in formula
 (3) In the formula,—
   (a) total tax withheld is the total amount of tax withheld from the personal service rehabilitation payment paid to the person for the period:
   (b) amount paid is the amount paid to the provider:
-  (c) tax rate is the rate of tax applying to the personal service rehabilitation payment under schedule 4, part I, clause 1 (Rates of tax for schedular payments) unless the payment is 1 of the following kinds, in which case the rate of tax is that set out in the subparagraph:
-    (i) for a payment to which section RD 18 (Schedular payments without notification) applies, the rate under schedule 4, part I, clause 1 together with any additional amount required to be withheld under section RD 18, determined using the rates set out in that section:
-    (ii) for a payment to which a special code applies, the rate applying to the payment as determined by the Commissioner under section 24N of the Tax Administration Act 1994.
+  (c) tax rate is the rate of tax applying to the personal service rehabilitation payment under section RD 10B (Amounts of tax for schedular payments).
 
 ### Subpart LC — Tax credits for natural persons
 
@@ -29153,7 +29413,7 @@ Priorities of amounts withheld and other deductions
 
 ### LE 1 Tax credits for imputation credits
 Amount of credit
-(1) A person whose assessable income for an income year includes an imputation credit has a tax credit for the tax year corresponding to the income year of an amount equal to the sum of the amount of the imputation credit and any credit carried forward from an earlier tax year. Section OZ 11 (Tax credits for imputation credits and FDP credits) may apply to modify this section.
+(1) A person whose assessable income for an income year includes an imputation credit has a tax credit for the tax year corresponding to the income year of an amount equal to the sum of the amount of the imputation credit and any credit carried forward from an earlier tax year. Section OZ 11 (Tax credits for imputation credits) may apply to modify this section.
 Multi-rate PIEs and their investors
 (1B) An investor in a multi-rate PIE who has an imputation credit attributed for use under section HM 54 (Use of tax credits other than foreign tax credits by investors) has a tax credit for the tax year of an amount equal to the amount of the imputation credit.
 Exclusion
@@ -29231,10 +29491,10 @@ Limitation on amount of credit
 Definition of items in formula
 (3) In the formula,—
   (a) partner’s income is the total assessable income of the person for the tax year derived as a partner of the partnership excluding—
-    (i) an imputation credit or a foreign dividend payment (FDP) credit attached to a dividend derived by the person:
+    (i) an imputation credit attached to a dividend derived by the person:
     (ii) a supplementary dividend derived by the person as a non-resident partner of the partnership:
   (b) partnership income is the total assessable income for the tax year of all the partners of the partnership excluding—
-    (i) all imputation credits and FDP credits attached to dividends derived by the partners:
+    (i) all imputation credits attached to dividends derived by the partners:
     (ii) all supplementary dividends derived by non-resident partners of the partnership:
   (c) partnership imputation credits is the total imputation credits attached to dividends and total supplementary dividends for the tax year derived by all partners of the partnership:
   (d) partner’s supplementary dividend is the total supplementary dividends for the tax year derived by the person as a non-resident partner of the partnership.
@@ -29257,7 +29517,7 @@ When credit more than liability
 
 ### LE 8 Application of imputation ratio
 When this section applies
-(1) This section applies when a person who has a tax credit under section LE 1 receives an imputation credit attached to a dividend, and the dividend has an imputation ratio greater than the maximum permitted ratio calculated under section OA 18 (Calculation of maximum permitted ratios). Section OZ 10 (Modifying ratios for imputation credits and FDP credits) may apply to modify this section.
+(1) This section applies when a person who has a tax credit under section LE 1 receives an imputation credit attached to a dividend, and the dividend has an imputation ratio greater than the maximum permitted ratio calculated under section OA 18 (Calculation of maximum permitted ratios). Section OZ 10 (Modifying ratios for imputation credits) may apply to modify this section.
 Amount of reduction
 (2) The person’s credit is reduced by an amount equal to the amount by which the credit is greater than the maximum permitted ratio.
 
@@ -29272,15 +29532,7 @@ Definition of items in formula
   (b) FIF income is the person's FIF income for the income year in which the imputation credit is received, to the extent to which the FIF income is for the attributing interest for which the imputation credit is received.
 
 ### LE 9 Application of combined imputation and FDP ratio
-When this section applies
-(1) This section applies when—
-  (a) a person who has a tax credit under section LE 1 receives an imputation credit and an FDP credit attached to a dividend; and
-  (b) an excess credit amount arises in relation to the dividend; and
-  (c) the FDP credit is equal to or less than the excess credit amount.
-Amount of reduction
-(2) The person’s credit for the dividend is reduced by an amount calculated using the formula—excess credit amount for dividend − attached FDP credit.
-Relationship with section OZ 10
-(3) Section OZ 10 (Modifying ratios for imputation credits and FDP credits) may apply to modify this section.
+[Repealed]
 
 ### LE 10 When income tax unpaid
 When this section applies
@@ -29299,109 +29551,34 @@ If a person who has a tax credit under section LE 1 does not meet the evidential
 ### Subpart LF — Tax credits for foreign dividend payment (FDP) credits
 
 ### LF 1 Tax credits for FDP credits
-Amount of credit
-(1) A person whose assessable income for an income year includes a foreign dividend payment (FDP) credit has a tax credit equal to the amount of the FDP credit for the tax year corresponding to the income year. Section OZ 11 (Tax credits for imputation credits and FDP credits) may apply to modify this section.
-Exclusion
-(2) For a returning share transfer, a share user does not have a tax credit for an imputation credit attached to a dividend derived in a period in which they hold a share acquired under the transfer. However, a person providing a share under a returning share transfer is allowed a tax credit for the amount of an imputation credit recorded in the credit transfer notice, see section LF 5.
-When amount adjusted
-(3) The amount of the person’s credit in subsection (1) may be reduced or increased if any of sections LF 2 to LF 9 apply.
-Multi-rate PIEs and their investors
-(4) For a multi-rate PIE and an investor in a multi-rate PIE, the amount of a tax credit is limited to the extent allowed under subpart HM (Portfolio investment entities).
-Arrangements for tax advantage
-(5) A person’s tax credit under this section is extinguished if either of the following sections apply:
-  (a) section GB 36 (Reconstruction of imputation arrangements to obtain tax advantage):
-  (b) section GB 38 (When sections GB 35 to GB 37 apply to consolidated groups).
-Relationship of sections in this subpart
-(6) Sections LF 1 to LF 7, LF 9, and LF 10 do not apply in relation to a non-resident or a person who receives exempt income as set out in section LF 8.
+[Repealed]
 
 ### LF 2 Trustees for minor beneficiaries
-When this section applies
-(1) This section applies when a person who has a tax credit under section LF 1 is the trustee of a trust for a minor who derives beneficiary income from the trust.
-Trustee treated as beneficiary
-(2) To the extent to which section HC 7(2) (Trustee income) applies, the person is treated as deriving the minor’s beneficiary income as a beneficiary.
+[Repealed]
 
 ### LF 3 Beneficiaries of trusts
-When this section applies
-(1) This section applies when a person who has a tax credit under section LF 1 is the beneficiary of a trust and, in that capacity, derives a dividend with an FDP credit attached.
-Limitation on amount of credit
-(2) The person’s tax credit is limited to an amount calculated using the formula—(person's distributions ÷ trust distributions)× (total beneficiary credits − person's supplementary dividend).
-Definition of items in formula
-(3) In the formula,—
-  (a) person’s distributions is the total distributions for the tax year made to the person in their capacity as beneficiary of the trust:
-  (b) trust distributions is the total distributions for the tax year made to all beneficiaries of the trust in their capacity as beneficiaries, and includes all supplementary dividends paid to them:
-  (c) total beneficiary credits is the total FDP credits attached to dividends and total supplementary dividends for the tax year paid to all beneficiaries of the trust in their capacity as beneficiaries:
-  (d) person’s supplementary dividend is the total supplementary dividends for the tax year paid to the person in their capacity as beneficiary of the trust.
+[Repealed]
 
 ### LF 4 Partners in partnerships
-When this section applies
-(1) This section applies when a person who has a tax credit under section LF 1 is a partner in a partnership and, through the partnership, derives a dividend with an FDP credit attached.
-Limitation on amount of credit
-(2) The person’s credit is limited to an amount calculated using the formula—(partner's income ÷ partnership income)× (partnership FDP credits − partner's supplementary dividend).
-Definition of items in formula
-(3) In the formula,—
-  (a) partner’s income is the total assessable income of the person for the tax year derived as a partner of the partnership excluding—
-    (i) an imputation credit or FDP credit attached to a dividend derived by the person:
-    (ii) a supplementary dividend derived by the person as a non-resident partner of the partnership:
-  (b) partnership income is the total assessable income for the tax year of all the partners of the partnership excluding—
-    (i) all imputation credits and FDP credits attached to any dividends derived by the partners:
-    (ii) all supplementary dividends derived by non-resident partners of the partnership:
-  (c) partnership FDP credits is the total FDP credits attached to dividends and total supplementary dividends derived for the tax year by all partners of the partnership:
-  (d) partner’s supplementary dividend is the total supplementary dividends for the tax year derived by the person as a non-resident partner of the partnership.
+[Repealed]
 
 ### LF 5 Credit transfer notices
-When this section applies
-(1) This section applies when a share supplier is given a credit transfer notice under section 30C of the Tax Administration Act 1994 by a share user under a share-lending arrangement.
-Amount of reduction
-(2) The share supplier’s tax credit is limited to the amount of FDP shown in the credit transfer notice.
+[Repealed]
 
 ### LF 6 Application of FDP ratio
-When this section applies
-(1) This section applies when a person who has a tax credit under section LF 1 receives an FDP credit attached to a dividend, and the dividend has an FDP ratio greater than the maximum permitted ratio calculated under section OA 18 (Calculation of maximum permitted ratios). Section OZ 10 (Modifying ratios for imputation credits and FDP credits) may apply to modify this section.
-Amount of reduction
-(2) The person’s credit is reduced by an amount equal to the amount by which the credit is greater than the maximum permitted ratio.
+[Repealed]
 
 ### LF 7 Application of combined imputation and FDP ratio
-When this section applies
-(1) This section applies when—
-  (a) a person who has a tax credit under section LF 1 receives an imputation credit and an FDP credit attached to a dividend; and
-  (b) an excess credit amount arises in relation to the dividend; and
-  (c) the FDP credit is equal to or less than the excess credit amount.
-Amount of reduction
-(2) The person’s credit is reduced by an amount calculated using the formula—excess credit amount for dividend − FDP credit attached.
-Relationship with section OZ 10
-(3) Section OZ 10 (Modifying ratios for imputation credits and FDP credits) may apply to modify this section.
+[Repealed]
 
 ### LF 8 Credits for persons who are non-resident or who receive exempt income
-When this section applies
-(1) This section applies for a tax year when a company resident in New Zealand pays a dividend with an FDP credit attached to a person as shareholder if—
-  (a) the person is non-resident; or
-  (b) the person is resident in New Zealand and the dividend is exempt income other than under sections CW 9 and CW 10 (which relate to dividends that are exempt income).
-Amount of tax credit
-(2) The person has a tax credit for the tax year equal to the amount of the FDP credit attached to the dividend.
-When amount altered
-(3) The amount of the person’s credit in subsection (2) may be reduced or increased to the extent to which—
-  (a) any of sections LF 2 to LF 7 apply:
-  (b) an FDP credit is used for a tax year to reduce the person’s liability under section RF 14 (Treatment of FDP credits).
-Arrangements for tax advantage
-(4) A person’s tax credit under this section is extinguished if sections GB 35 (Imputation arrangements to obtain tax advantage) and GB 36 (Reconstruction of imputation arrangements to obtain tax advantage) apply.
-Refunds
-(5) To obtain a refund of the credit, the person must—
-  (a) apply to the Commissioner for the refund after the 31 May that follows the end of the tax year; and
-  (b) meet the requirements of section 78D of the Tax Administration Act 1994.
+[Repealed]
 
 ### LF 9 When income tax unpaid
-When this section applies
-(1) This section applies when—
-  (a) a person has a tax credit under section LF 1 and an FDP credit is attached to a dividend; and
-  (b) the dividend is paid by a company that has a debit balance in its FDP account at the end of the tax year; and
-  (c) the company has not paid further income tax by the due date referred to in section OB 65(3) (Further income tax for ICA closing debit balance).
-Amount of reduction
-(2) The Commissioner may reduce the person’s credit by an amount equal to their proportion of the unpaid amount under subsection (1)﻿(c).
-When failure to pay remedied
-(3) To the extent to which a company remedies the failure after the due date, this section does not apply.
+[Repealed]
 
 ### LF 10 Evidential requirements
-If a person who has a tax credit under section LF 1 does not meet the evidential requirements of section 78D of the Tax Administration Act 1994, the person’s credit may be reduced.
+[Repealed]
 
 ### Subpart LH — Tax credits for expenditure on research and development
 
@@ -29562,29 +29739,7 @@ Associated persons
 (5) For the purposes of this section, the refund is treated as received by the person, whether it is received by the person, a person who paid the foreign income tax, or a person associated with either of them.
 
 ### LJ 8 Repaid foreign tax: effect on FDP liability
-Who this section applies to
-(1) This section applies to a person who receives a foreign dividend from a foreign dividend company, and the person or the company has—
-  (a) paid an amount of foreign income tax, or in relation to whom an amount of foreign income tax has been paid or withheld; and
-  (b) received a refund, amount, or benefit (the refund) determined directly or indirectly by reference to some or all of the payment of foreign income tax.
-When refund received before calculation of FDP
-(2) If the person or company receives the refund before the person calculates the amount of FDP payable under section RG 4 (Calculating amount of FDP) for a tax year, the formula is modified as follows:
-  (a) if the refund relates to foreign withholding tax on the dividend, the item foreign tax is the amount by which the foreign withholding tax paid is more than the amount of the refund:
-  (b) if the refund relates to foreign income tax taken into account in the item total tax paid in section LL 2(5) (Tax credits for underlying foreign tax) or the item tax withheld in section LL 6(3) (Foreign dividend company lower tier UFTCs), the foreign dividend company's calculation of UFTC is modified as follows:
-    (i) the item foreign tax paid is the amount by which the total income tax or foreign income tax paid by the foreign dividend company is more than the amount of the refund:
-    (ii) the item tax withheld is the amount by which the tax withheld and paid in relation to the standard dividend is more than the amount of the refund.
-When subsection (4) applies
-(3) Subsection (4) applies if—
-  (a) the person or company receives the refund after the person has calculated the amount of FDP payable for a tax year under section RG 4; and
-  (b) the person has taken the amount of foreign income tax paid or withheld into account in that calculation in the items foreign tax or underlying credit in section RG 4(1); and
-  (c) the person has not taken the refund into account in that calculation.
-When refund received after calculation of FDP
-(4) The person must recalculate the FDP liability for the tax year and pay the difference to the Commissioner as FDP.
-Date for payment
-(5) In subsection (4), the date for payment is 30 days after the later of—
-  (a) the date on which the person or the company receives the refund:
-  (b) the date for payment of FDP to the Commissioner in relation to the foreign dividend received for which the recalculation is required.
-Associated persons
-(6) For the purposes of this section, the refund is treated as received by the person or company, whether it is received by the person or company, a person who paid or withheld the foreign income tax, or a person associated with any of them.
+[Repealed]
 
 ### Subpart LK — Tax credits relating to attributed controlled foreign company income
 
@@ -29949,7 +30104,7 @@ Some definitions
 
 ### LP 5 Application of benchmark dividend rules and imputation credit ratio
 Applying benchmark dividend rules
-(1) The benchmark dividend rules in sections OB 61 and OC 28 (which relate to the allocation of imputation and FDP credits) and sections GB 35 and GB 36 (which relate to imputation arrangements to obtain a tax advantage) apply as if the company had never paid the supplementary dividend.
+(1) The benchmark dividend rules in section OB 61 (ICA benchmark dividend rules) and sections GB 35 and GB 36 (which relate to imputation arrangements to obtain a tax advantage) apply as if the company had never paid the supplementary dividend.
 Increase in imputation credit
 (2) The maximum permitted ratio referred to in section OB 60(5) (Imputation credits attached to dividends) and sections GB 35 and GB 36 apply to a dividend as if the imputation credit attached to the dividend were increased by an amount equal to the related supplementary dividend.
 Relationship with section OZ 12
@@ -30722,7 +30877,7 @@ Income
   (b) income to which section RD 3(2) to (4) (PAYE income payments) applies; or
   (c) income from a business carried on for profit; or
   (d) an amount paid or benefit provided—
-    (i) by a person (the claimant), who receives a personal service rehabilitation payment from which an amount of tax has been withheld at the rate specified in schedule 4, part I (Rates of tax for schedular payments) or under section RD 18 (Schedular payments without notification); and
+    (i) by a person (the claimant), who receives a personal service rehabilitation payment from which an amount of tax has been withheld at a rate specified in section RD 10B (Amounts of tax for schedular payments); and
     (ii) to another person for providing to the claimant a key aspect of social rehabilitation referred to in paragraph (c) of the definition of personal service rehabilitation payment in section YA 1 (Definitions).
 Exclusions from income
 (3) The following PAYE income payments are excluded from income under subsection (2):
@@ -30889,7 +31044,7 @@ Formula
 (2) The formula is—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $23,764:
+  (a) prescribed amount is $23,816:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -31450,7 +31605,7 @@ This Part provides some rules of general application for recording amounts as cr
 Types of account in this Part
 (1) The following accounts are dealt with in this Part:
   (a) an imputation credit account, see subparts OB and OP:
-  (b) a foreign dividend payment (FDP) account, see subparts OC and OP:
+  (b)
   (c)
   (d) a branch equivalent tax account, see subpart OE:
   (e) an available subscribed capital (ASC) account, see subpart OF:
@@ -31492,9 +31647,7 @@ Imputation credits
   (b) described in a row of table O1: imputation credits or table O19: imputation credits of consolidated imputation groups.
   (c)
 FDP credits
-(3) A credit is an FDP credit if it is an amount—
-  (a) set out in any of sections OA 7, OC 6 to OC 12, and OP 56 to OP 63:
-  (b) described in a row of table O3: FDP credits or table O21: FDP credits of consolidated FDP groups.
+(3)
 CTR credits
 (4)
 Branch equivalent tax credits
@@ -31520,9 +31673,7 @@ Imputation debits
   (a) set out in any of sections OA 7, OB 30 to OB 59, OP 28 to OP 50, and OZ 3:
   (b) described in a row of table O2: imputation debits or table O20: imputation debits of consolidated imputation groups.
 FDP debits
-(3) A debit is an FDP debit if it is an amount—
-  (a) set out in any of sections OA 7, OC 13 to OC 26, and OP 64 to OP 77:
-  (b) described in a row of table O4: FDP debits or table O22: FDP debits of consolidated FDP groups.
+(3)
 CTR debits
 (4)
 Branch equivalent tax debits
@@ -31546,7 +31697,7 @@ Balances carried forward
 Credit date
 (2) The credit date or debit date for an opening balance is,—
   (a) for an imputation credit account, the first day of the tax year:
-  (b) for an FDP account, the first day of the tax year:
+  (b)
   (c)
   (d) for a branch equivalent tax account of a BETA person, the first day of the income year:
   (e) for an ASC account, the first day of the tax year:
@@ -31567,7 +31718,7 @@ Continuity
 (3) A credit is treated as continuing to exist to the extent to which it is not reduced by an earlier or later debit arising in the account.
 Exclusions: qualifying companies
 (3B) Subsection (2) does not apply to a qualifying company. But, if section HA 11(1) (When requirements no longer met) applies to the company,—
-  (a) an adjustment must be made under section HA 18 (Treatment of dividends when qualifying company status ends) to the company's imputation credit account and FDP account, as applicable; and
+  (a) an adjustment must be made under section HA 18 (Treatment of dividends when qualifying company status ends) to the company's imputation credit account; and
   (b) the shareholder continuity requirements apply to the company from the day on which the status as a qualifying company ends.
 Exclusion: ASC accounts
 (4) Subsection (2) does not apply to a person who maintains an ASC account.
@@ -31576,11 +31727,11 @@ Modification: CTR accounts
 When continuity lost
 (6) For a memorandum account and for a company or consolidated group that maintains the account when the continuity of shareholding required by subsection (7) is lost, a debit arises under the relevant section in each subpart only to the extent to which an unused amount of credit remains in the memorandum account. The relevant sections are—
   (a) section OB 41 (ICA debit for loss of shareholder continuity):
-  (b) section OC 24 (FDPA debit for loss of shareholder continuity):
+  (b)
   (c)
   (d) section OK 15 (MACA debit for loss of shareholder continuity):
-  (e) section OP 42 (Consolidated ICA debit for loss of shareholder continuity):
-  (f) section OP 73 (Consolidated FDPA debit for loss of shareholder continuity).
+  (e) section OP 42 (Consolidated ICA debit for loss of shareholder continuity).
+  (f)
   (g)
 Shareholder continuity requirement
 (7) The shareholder continuity requirement is that, while some or all of the credit still exists, a group of persons must continue to hold—
@@ -31616,8 +31767,8 @@ Avoidance provisions
 ### OA 10 When credits or debits due to amalgamating company but not recorded
 When this section applies
 (1) This section applies on a resident’s restricted amalgamation if, at the time of the amalgamation, an amalgamating company maintains—
-  (a) an imputation credit account:
-  (b) an FDP account.
+  (a) an imputation credit account.
+  (b)
   (c)
   (d)
   (e)
@@ -31626,18 +31777,10 @@ Credits and debits due
 Exclusion: shareholder continuity rules
 (3) Subsection (2) does not apply to a debit for loss of shareholder continuity in an imputation credit account arising under section OB 41 (ICA debit for loss of shareholder continuity) and described in table O2: imputation debits, row 14 (debit for loss of shareholder continuity).
 Recording in imputation credit account
-(4) If the amalgamated company does not maintain a memorandum account referred to in subsection (1)﻿(b) and (e), the credit or debit is recorded in the imputation credit account of the amalgamated company. See sections OA 11 to OA 13.
+(4) The credit or debit is recorded in the imputation credit account of the amalgamated company.
 
 ### OA 11 FDP account on resident’s restricted amalgamation
-When this section applies
-(1) This section applies on a resident’s restricted amalgamation if—
-  (a) an amalgamating company ends its existence on amalgamation; and
-  (b) at the time of amalgamation, the company maintains an FDP account; and
-  (c) the amalgamated company does not maintain an FDP account.
-Credits and debits due
-(2) A credit or a debit due to the amalgamating company for the purposes of the FDP account but not recorded before the date of amalgamation is recorded in the imputation credit account of the amalgamated company, as appropriate,—
-  (a) under section OB 24 (ICA credit on resident’s restricted amalgamation) as described in table O1: imputation credits, row 22 (credit on resident’s restricted amalgamation); or
-  (b) under section OB 53 (ICA debit on resident’s restricted amalgamation) as described in table O2: imputation debits, row 26 (debit on resident’s restricted amalgamation).
+[Repealed]
 
 ### OA 12 CTR account on resident’s restricted amalgamation
 [Repealed]
@@ -31649,7 +31792,7 @@ Credits and debits due
 
 ### OA 14 Continuity of shareholding when group companies amalgamate
 What this section does
-(1) This section and sections OA 15 and OA 16 apply when all the companies in a consolidated group or consolidated imputation group amalgamate on a resident’s restricted amalgamation, and the amalgamation results in—
+(1) This section and section OA 15 apply when all the companies in a consolidated group or consolidated imputation group amalgamate on a resident’s restricted amalgamation, and the amalgamation results in—
   (a) the end of the group’s existence; and
   (b) the formation of an amalgamated company.
 Other company
@@ -31668,8 +31811,8 @@ Avoidance provisions
 ### OA 15 When credits or debits due to consolidated group but not recorded
 When this section applies
 (1) This section applies on a resident’s restricted amalgamation referred to in section OA 14 when, at the time of the amalgamation, a consolidated group maintains—
-  (a) an imputation credit account:
-  (b) an FDP account.
+  (a) an imputation credit account.
+  (b)
   (c)
   (d)
 Credits and debits due
@@ -31677,28 +31820,20 @@ Credits and debits due
 Exclusion: shareholder continuity rules
 (3) Subsection (2) does not apply to a debit for loss of shareholder continuity in an imputation credit account arising under section OP 42 (Consolidated ICA debit for loss of shareholder continuity) and described in table O20: imputation debits of consolidated imputation groups, row 16 (debit for loss of shareholder continuity).
 Recording in imputation credit account
-(4) If the amalgamated company does not maintain a memorandum account referred to in subsection (1)﻿(b) or (d), the credit or debit is recorded in the imputation credit account of the amalgamated company. See sections OA 16 and OA 17.
+(4) The credit or debit is recorded in the imputation credit account of the amalgamated company.
 
 ### OA 16 When FDP account ends on resident’s restricted amalgamation
-When this section applies
-(1) This section applies on a resident’s restricted amalgamation referred to in section OA 14 if—
-  (a) a consolidated group ends its existence on amalgamation; and
-  (b) at the time of amalgamation, the consolidated group maintains an FDP account; and
-  (c) the amalgamated company does not maintain an FDP account.
-Credits and debits due
-(2) A credit or a debit due to the group but not recorded before the date of amalgamation is recorded in the imputation credit account of the amalgamated company, as appropriate,—
-  (a) under section OB 24 (ICA credit on resident’s restricted amalgamation) as described in table O1: imputation credits, row 22 (credit on resident’s restricted amalgamation); or
-  (b) under section OB 53 (ICA debit on resident’s restricted amalgamation) as described in table O2: imputation debits, row 26 (debit on resident’s restricted amalgamation).
+[Repealed]
 
 ### OA 17 When policyholder credit account ends on resident’s restricted amalgamation
 [Repealed]
 
 ### OA 18 Calculation of maximum permitted ratios
 When this section applies
-(1) This section applies in relation to an imputation credit, an FDP credit, and a Maori authority credit, for the purposes of the calculation of—
+(1) This section applies in relation to an imputation credit and a Maori authority credit, for the purposes of the calculation of—
   (a) an imputation ratio; and
-  (b) an FDP ratio; and
-  (c) a combined imputation and FDP ratio; and
+  (b)
+  (c)
   (d)
   (e)
   (f) a Maori authority credit ratio.
@@ -31788,11 +31923,11 @@ No credit
   (b) income tax paid on income derived when the company is not an ICA company; or
   (c) income tax paid by a life insurer to satisfy its schedular income tax liability for schedular policyholder base income; or
   (d) income tax paid under sections LA 2 and LE 1 (which relate to tax credits for imputation credits and their use) by crediting an imputation credit; or
-  (e) income tax paid under subpart LA and section LF 1 (which relate to tax credits for FDP credits and their use) by crediting a foreign dividend payment (FDP) credit; or
+  (e)
   (eb)
   (f) income tax paid by a tax credit under subpart LP (Tax credits for supplementary dividends); or
   (g) further income tax applied under section OB 69 to pay income tax or provisional tax; or
-  (gb) further income tax applied under section OC 34 (Further income tax paid satisfying liability for income tax) to pay income tax; or
+  (gb)
   (h)
   (i) income tax paid as a trustee, unless paid on category A income of the type described in paragraph (c) of the definition of company in section YA 1 (Definitions).
 Credit date
@@ -31866,23 +32001,13 @@ Credit date
 (3) The credit date is the day the amount is attributed.
 
 ### OB 10 ICA dividend derived with FDP credit
-Credit
-(1) An ICA company has an imputation credit for the amount of an FDP credit attached to a dividend derived by the company when it is not a foreign dividend payment account (FDPA) company.
-Table reference
-(2) The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 8 (dividend derived with FDP credit).
-Credit date
-(3) The credit date is the day the dividend is paid.
+[Repealed]
 
 ### OB 11 ICA payment of FDP
 [Repealed]
 
 ### OB 12 ICA transfer from FDP account
-Credit
-(1) An ICA company has an imputation credit for an amount equal to the amount of an FDP debit transferred from its FDP account under section OC 18 (FDPA transfer to imputation credit account).
-Table references
-(2) The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 10 (transfer from FDP account). The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 7 (transfer to imputation credit account).
-Credit date
-(3) The credit date is the day the amount is transferred.
+[Repealed]
 
 ### OB 13 ICA transfer of debit balance on leaving wholly-owned group
 Election
@@ -32004,11 +32129,11 @@ Table reference
 Sections
 (3) The sections are—
   (a) section OA 10 (When credits or debits due to amalgamating company but not recorded) for imputation credits in the imputation credit account of an amalgamating company:
-  (b) section OA 11 (FDP account on resident’s restricted amalgamation) for an FDP credit in the FDP account of an amalgamating company because the amalgamated company does not maintain an FDP account:
+  (b)
   (c)
   (d)
-  (e) section OA 14 (Continuity of shareholding when group companies amalgamate) for imputation credits in the imputation credit account of a consolidated imputation group that ends its existence on the amalgamation:
-  (f) section OA 16 (When FDP account ends on resident’s restricted amalgamation) for an FDP credit in the FDP account of a consolidated FDP group because the amalgamated company does not maintain an FDP account.
+  (e) section OA 14 (Continuity of shareholding when group companies amalgamate) for imputation credits in the imputation credit account of a consolidated imputation group that ends its existence on the amalgamation.
+  (f)
   (g)
 
 ### OB 25 ICA reversal of tax advantage arrangement
@@ -32172,12 +32297,7 @@ Debit date
 (3) The debit date is the last day of the tax year.
 
 ### OB 36 ICA refund of FDP
-Debit
-(1) An ICA company has an imputation debit for the amount of a refund of FDP paid to the company when it is not an FDPA company.
-Table reference
-(2) The imputation debit in subsection (1) is referred to in table O2: imputation debits, row 8 (refund of FDP).
-Debit date
-(3) The debit date is the day the refund is made.
+[Repealed]
 
 ### OB 37 ICA refund of tax credit
 Debit
@@ -32186,7 +32306,7 @@ Debit
   (b) the amount of a refund to the company under section LA 6(2)﻿(e).
   (c)
 Exclusion: FDPA companies
-(1B) Despite subsection (1), an FDPA company does not have an imputation debit to the extent to which the amount transferred, refunded, or used is a tax credit under subpart LF (Tax credits for FDP credits).
+(1B)
 Table reference
 (2) The imputation debit in subsection (1) is referred to in table O2: imputation debits, row 9 (refund of tax credit).
 Debit date
@@ -32196,14 +32316,7 @@ Debit date
   (c)
 
 ### OB 38 ICA overpayment of FDP
-Debit
-(1) An ICA company has an imputation debit for an amount of overpaid FDP applied to pay an amount due under the Inland Revenue Acts. This subsection applies only to a company at a time when it is not an FDPA company. subsection (3) overrides this subsection.
-Table reference
-(2) The imputation debit in subsection (1) is referred to in table O2: imputation debits, row 10 (overpayment of FDP).
-No debit
-(3) The debit does not include an overpayment of FDP applied to satisfy a liability for income tax or provisional tax, or relating to a foreign dividend.
-Debit date
-(4) The debit date is the day the amount is applied.
+[Repealed]
 
 ### OB 39 ICA transfer for net foreign attributed income
 [Repealed]
@@ -32249,7 +32362,7 @@ Debit
 (1) An ICA company has an imputation debit for a breach of the benchmark dividend rules in section OB 61(5) for an amount calculated using the formula—(net dividends × imputation ratio) − attached credits.
 Definition of items in formula
 (2) In the formula,—
-  (a) net dividends is the total amount of all dividends paid by the company during the tax year, excluding the amount of imputation credits and FDP credits attached to the dividends:
+  (a) net dividends is the total amount of all dividends paid by the company during the tax year, excluding the amount of imputation credits attached to the dividends:
   (b) imputation ratio is the maximum permitted ratio calculated under section OA 18(2) (Calculation of maximum permitted ratios) for an imputation credit or, if less, the greatest imputation ratio of dividends paid by the company for the tax year:
   (c) attached credits is the total amount of all imputation credits attached to dividends paid by the company for the tax year.
 Table reference
@@ -32286,7 +32399,7 @@ First amount
 (4) The first amount is calculated using the formula—credits attached − imputation debits.
 Definition of items in formula
 (5) In the formula in subsection (4),—
-  (a) credits attached is the total amount of all imputation credits and FDP credits attached to dividends derived in the circumstances set out in subsection (2) by the company for the income year:
+  (a) credits attached is the total amount of all imputation credits attached to dividends derived in the circumstances set out in subsection (2) by the company for the income year:
   (b) imputation debits is the total amount of all imputation debits arising for the income year under—
     (i) section OB 41 in the company’s imputation credit account; or
     (ii) section OP 42 (Consolidated ICA debit for loss of shareholder continuity) in the imputation credit account of the consolidated imputation group of which the company is part.
@@ -32294,7 +32407,7 @@ Second amount
 (6) The second amount is calculated using the formula—(total dividends ÷ taxable income) × (tax liability − debits).
 Definition of items in formula
 (7) In the formula in subsection (6),—
-  (a) total dividends is the total amount of all dividends derived in the circumstances set out in subsection (2), including imputation credits and FDP credits attached to the dividends:
+  (a) total dividends is the total amount of all dividends derived in the circumstances set out in subsection (2), including imputation credits attached to the dividends:
   (b) taxable income is the taxable income of the company for the income year in which the dividends are derived:
   (c) tax liability is the company’s income tax liability for the income year:
   (d) debits is the imputation credits attached to the dividends that have been cancelled by an imputation debit arising during the income year under—
@@ -32405,11 +32518,11 @@ Table reference
 Sections
 (3) The sections are—
   (a) section OA 10 (When credits or debits due to amalgamating company but not recorded) for imputation debits in the imputation credit account of an amalgamating company:
-  (b) section OA 11 (FDP account on resident’s restricted amalgamation) for FDP debits in the FDP account of an amalgamating company because the amalgamated company does not maintain an FDP account:
+  (b)
   (c)
   (d)
-  (e) section OA 14 (Continuity of shareholding when group companies amalgamate) for imputation debits in the imputation credit account of a consolidated imputation group that ends its existence on the amalgamation:
-  (f) section OA 16 (When FDP account ends on resident’s restricted amalgamation) for FDP debits in the FDP account of a consolidated group because the amalgamated company does not maintain an FDP account.
+  (e) section OA 14 (Continuity of shareholding when group companies amalgamate) for imputation debits in the imputation credit account of a consolidated imputation group that ends its existence on the amalgamation.
+  (f)
   (g)
 
 ### OB 54 ICA tax advantage arrangement
@@ -32470,7 +32583,7 @@ Imputation ratio for dividend
 Definition of items in formula
 (4) In the formula in subsection (3),—
   (a) credit attached is the amount of the imputation credit attached to the dividend:
-  (b) net dividend paid is the amount of the dividend paid, excluding the amount of the imputation credit and FDP credit attached.
+  (b) net dividend paid is the amount of the dividend paid, excluding the amount of the imputation credit attached.
 Maximum permitted ratio
 (5) A dividend with an imputation credit attached must not have an imputation ratio that is more than the maximum permitted ratio calculated under section OA 18(2) (Calculation of maximum permitted ratios).
 Conversion of AUD dividend
@@ -32841,12 +32954,7 @@ Relationship with section OZ 15
 (6) Section OZ 15 (Attaching imputation credits and notional distributions: modifying amounts) may apply to modify subsection (2).
 
 ### OB 76 Statutory producer boards attaching FDP credits
-FDP credits attached
-(1) A statutory producer board that is an FDPA company may choose, for an income year, to attach an FDP credit to a cash distribution or a notional distribution. An FDP credit may be attached in conjunction with an imputation credit.
-Application of provisions
-(2) Sections OB 73 to OB 75 and OB 77 apply, modified as necessary, to the producer board, the distribution, and the FDP credit.
-Both credits at once
-(3) A producer board may choose to attach both an imputation credit and an FDP credit as part of 1 distribution.
+[Repealed]
 
 ### OB 77 When and how statutory producer board makes election
 Timing of election
@@ -32913,16 +33021,11 @@ Relationship with section OZ 15
 (5) Section OZ 15 (Attaching imputation credits and notional distributions: modifying amounts) may apply to modify subsection (2).
 
 ### OB 81 Co-operative companies attaching FDP credits
-Election
-(1) A co-operative company that is an FDPA company may choose, for an income year, to attach an FDP credit to a cash distribution. The FDP credit may be attached in conjunction with an imputation credit.
-Application of provisions
-(2) Sections OB 78 to OB 80 and section 64 of the Tax Administration Act 1994 apply, modified as necessary, to the co-operative company, the distribution, and the FDP credit.
-Both credits at once
-(3) A co-operative company may choose to attach both an imputation credit and an FDP credit as part of 1 distribution.
+[Repealed]
 
 ### OB 82 When and how co-operative company makes election
 One a year
-(1) A co-operative company may make an election under section OB 78, OB 79, or OB 81 in relation to a distribution for—
+(1) A co-operative company may make an election under section OB 78 or OB 79 in relation to a distribution for—
   (a) only 1 cash distribution during the income year:
   (b) only 1 notional distribution during the income year.
 Timing
@@ -32981,66 +33084,28 @@ Information to be included in notice
 ### Subpart OC — Foreign dividend payment accounts (FDPA)
 
 ### OC 1 General rules for companies with FDP accounts
-FDPA company
-(1) A company resident in New Zealand may choose to become a foreign dividend payment account (FDPA) company. This subsection does not apply to a multi-rate PIE.
-FDP accounts
-(2) An FDPA company must maintain a foreign dividend payment (FDP) account for a tax year. The account is a record of FDP credits and FDP debits that arise in the account during the tax year.
-Main credit
-(3)
-Main debit
-(4) An FDPA company has an FDP debit for the amount of an FDP credit attached to a dividend paid to the company’s shareholders.
-Treatment of FDP credit by shareholder
-(5) The amount of an FDP credit attached to a dividend derived by a shareholder is included in the amount of the dividend under section CD 15 (Tax credits linked to dividends).
-Refunds
-(6) When a dividend with an FDP credit attached is derived by a non-resident or by a person who is resident and the dividend is exempt income of the person, they are entitled to a refund under section LF 8 (Credits for persons who are non-resident or who receive exempt income).
-Shareholder continuity requirements
-(7) The carrying forward of a credit in a company’s FDP account is subject to the shareholder continuity requirements of section OA 8 (Shareholder continuity requirements for memorandum accounts).
-Imputation credits
-(8) If a company does not choose to become an FDPA company, a payment of FDP on a dividend derived from a non-resident company is accounted for under the imputation rules under section OB 11 (ICA payment of FDP).
+[Repealed]
 
 ### OC 2 FDP accounts
-General rules apply
-(1) The general rules on memorandum accounts set out in sections OA 2 and OA 3 (which relate to the treatment of memorandum accounts) apply to the FDP account of an FDPA company.
-Consolidated groups
-(2) Under section OP 54 (When credits and debits arise only in consolidated FDP group accounts), certain credits and debits do not arise in the account if the company is part of a consolidated group.
+[Repealed]
 
 ### OC 2B General rule for life insurer's policyholder base
-An FDP credit does not arise in relation to a life insurer's policyholder base. Similarly, an FDP debit does not arise in relation to a life insurer's policyholder base.
+[Repealed]
 
 ### OC 3 Choosing to become FDPA company
-Election
-(1) A company that chooses to become an FDPA company must notify the Commissioner of the election no later than 21 days after the date of the election or by a later date if the Commissioner allows.
-Effect of election
-(2) An FDPA company must maintain the FDP account referred to in section OC 1(2) from the date of election.
+[Repealed]
 
 ### OC 4 When company chooses to stop being FDPA company
-Election
-(1) An FDPA company may choose to stop being an FDPA company.
-When election made
-(2) An FDPA company may make an election under subsection (1) only in a tax year that is later than the tax year in which the company chooses under section OC 3 to become an FDPA company.
-When company’s status ends
-(3) The company ends its status as an FDPA company from the first day of the tax year after the tax year in which the election referred to in subsection (2) is made but only if the company—
-  (a) files an annual FDPA return for the year of election in the time allowed by section 71 of the Tax Administration Act 1994; and
-  (b) pays any further income tax payable under section OC 30 or OC 31 for the year of election.
+[Repealed]
 
 ### OC 5 When company emigrates
-Status ends
-(1) If an emigrating company is an FDPA company immediately before the time of emigration, its status as an FDPA company ends at the time of emigration.
-Further payments and returns
-(2) The company referred to in subsection (1) must—
-  (a) file an annual FDPA return for the tax year in which the company becomes non-resident; and
-  (b) pays any further income tax payable under sections OC 30 to OC 34 for the tax year.
+[Repealed]
 
 ### OC 6 FDPA payment of FDP
 [Repealed]
 
 ### OC 7 FDPA dividend derived with FDP credit
-Credit
-(1) An FDPA company has an FDP credit for the amount of an FDP credit attached to a dividend derived by the company.
-Table reference
-(2) The FDP credit in subsection (1) is referred to in table O3: FDP credits, row 4 (dividend derived with FDP credit).
-Credit date
-(3) The credit date is the day the dividend is paid.
+[Repealed]
 
 ### OC 8 FDPA payment of FDP for transfer from CTR account
 [Repealed]
@@ -33052,270 +33117,76 @@ Credit date
 [Repealed]
 
 ### OC 11 FDPA credit transfer to company
-Credit
-(1) An FDPA company has an FDP credit for the amount of a credit shown in a credit transfer notice given to the company.
-Table reference
-(2) The FDP credit in subsection (1) is referred to in table O3: FDP credits, row 8 (credit transfer).
-Credit date
-(3) The credit date is the day the notice is given.
+[Repealed]
 
 ### OC 12 FDPA reversal of tax advantage arrangement
-When this section applies
-(1) This section applies when it is established that an FDP credit in an FDPA company’s FDP account was incorrectly determined to be the subject of an arrangement to obtain a tax advantage.
-Credit
-(2) The company has an FDP credit for an amount equal to the amount of a debit in the company’s FDP account under section OC 25.
-Table references
-(3) The FDP credit in subsection (2) is referred to in table O3: FDP credits, row 9 (reversal of tax advantage arrangement). The FDP debit in subsection (2) is referred to in table O4: FDP debits, row 14 (tax advantage arrangement).
-Credit date
-(4) The credit date is the same as the debit date recorded for the debit.
+[Repealed]
 
 ### OC 13 FDPA payment of dividend
-Debit
-(1) An FDPA company has an FDP debit for the amount of an FDP credit attached to a dividend paid by the company.
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 2 (payment of dividend).
-Debit date
-(3) The debit date is the day the dividend is paid.
+[Repealed]
 
 ### OC 14 FDPA refund of FDP
-Debit
-(1) An FDPA company has an FDP debit for the amount of a refund of FDP paid to the company. Subsection (3) overrides this subsection.
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 3 (refund of FDP).
-No debit
-(3) The company does not have a debit for the amount of a refund to the extent to which it refunds FDP paid before a debit arises under section OC 24 (table O4: FDP debits, row 13 (debit for loss of shareholder continuity)).
-Debit date
-(4) The debit date is the day the refund is made.
+[Repealed]
 
 ### OC 15 FDPA overpayment of FDP
-Debit
-(1) An FDPA company has an FDP debit for the amount of an overpayment of FDP that is applied to pay an amount due under the Inland Revenue Acts. Subsection (3) overrides this subsection.
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 4 (overpayment of FDP).
-No debit
-(3) The company does not have a debit for the amount of an overpayment of FDP—
-  (a) that is applied to satisfy a liability for FDP; or
-  (b) that—
-    (i) relates to a payment of FDP before an FDP debit arises under section OC 24 (table O4: FDP debits, row 13 (debit for loss of shareholder continuity)); and
-    (ii) is no more than the debit for loss of shareholder continuity.
-Debit date
-(4) The debit date is the day the amount is applied.
+[Repealed]
 
 ### OC 16 FDPA refund of tax credit
-Debit
-(1) An FDPA company has an FDP debit for the amount of a transfer or refund to the company under section LA 6(2)﻿(d) or (e) (Remaining refundable credits: PAYE, RWT, and certain other items) to the extent to which the amount transferred or refunded is a tax credit under subpart LF (Tax credits for FDP credits).
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 5 (refund of tax credit).
-Debit date
-(3) The debit date is the day the transfer or refund is made.
+[Repealed]
 
 ### OC 17 FDPA credit transfer by company
-Debit
-(1) An FDPA company has an FDP debit for the amount of an FDP credit attached to a dividend paid by the company and shown in a credit transfer notice given by the company.
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 6 (credit transfer).
-Debit date
-(3) The debit date is the day the dividend is paid.
+[Repealed]
 
 ### OC 18 FDPA transfer to imputation credit account
-Election
-(1) An FDPA company may choose for a tax year to transfer some or all of a closing credit balance in the company’s FDP account to the imputation credit account of—
-  (a) the company; or
-  (b) an imputation group of which the company is part.
-Debit and credit
-(2) The amount transferred is—
-  (a) an FDP debit in the company’s FDP account; and
-  (b) an imputation credit under, as applicable,—
-    (i) section OB 12 (ICA transfer from FDP account) in the company’s imputation credit account; or
-    (ii) section OP 18 (Consolidated ICA transfer from group company’s FDP account) in the imputation credit account of the consolidated imputation group.
-Table references
-(3) The table references are as follows:
-  (a) the FDP debit in subsection (2)﻿(a) is referred to in table O4: FDP debits, row 7 (transfer to imputation credit account):
-  (b) the imputation credit in subsection (2)﻿(b)﻿(i) is referred to in table O1: imputation credits, row 10 (transfer from FDP account):
-  (c) the imputation credit in subsection (2)﻿(b)﻿(ii) is referred to in table O19: imputation credits of consolidated imputation groups, row 13 (transfer from group company’s FDP account).
-Method of election
-(4) The company makes the election by recording the credit balance transferred as—
-  (a) a debit in the company’s FDP account; and
-  (b) a credit in the imputation credit account of—
-    (i) the company; or
-    (ii) the imputation group.
-CTR companies
-(5)
-Debit date
-(6) The debit date is the last day of the tax year.
+[Repealed]
 
 ### OC 19 FDPA transfer to CTR account
 [Repealed]
 
 ### OC 20 Debit for policyholder base FDP credits
-Debit
-(1) An FDP company has an FDP debit for the amount of an FDP credit attached to a dividend derived by the company, to the extent to which it is derived by it as a life insurer and apportioned to their policyholder base.
-Table reference
-(2) The FDP debit in section (1) is referred to in table O4: FDP debits, row 9 (debit for policyholder base FDP credits).
-Debit date
-(3) The debit date is the last day of the tax year.
+[Repealed]
 
 ### OC 21 FDPA transfer to group account
-Debit
-(1) An FDPA company has an FDP debit for an amount equal to the amount of an FDP credit under section OP 59 (Consolidated FDPA group company’s credit) for the transfer of a credit to the FDP account of the consolidated group of which the company is part.
-Table references
-(2) The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 10 (transfer to group account). The FDP credit in subsection (1) is referred to in table O21: FDP credits of consolidated FDP groups, row 5 (group company’s credit).
-Debit date
-(3) The debit date is the same as the credit date recorded in the consolidated group’s FDP account.
+[Repealed]
 
 ### OC 22 FDPA breach of FDP ratio
-Debit
-(1) An FDPA company has an FDP debit for a breach of the benchmark dividend rules in section OC 28(4) for an amount calculated using the formula—net dividends × FDP ratio − credits attached.
-Definition of items in formula
-(2) In the formula,—
-  (a) net dividends is the total amount of all dividends paid by the company during the tax year, excluding imputation credits and FDP credits attached to the dividends:
-  (b) FDP ratio is the maximum permitted ratio calculated under section OA 18(2) (Calculation of maximum permitted ratios) or, if it is less, the greatest FDP ratio of dividends paid by the company during the tax year:
-  (c) credits attached is the total amount of all FDP credits attached to dividends paid by the company during the tax year.
-Table reference
-(3) The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 11 (breach of FDP ratio).
-Ratio change declaration
-(4) A debit under subsection (1) does not arise if the FDPA company provides a ratio change declaration under section OC 28(6).
-Debit date
-(5) The debit date is the last day of the tax year.
+[Repealed]
 
 ### OC 23 FDPA breach of FDP ratio by PCA company
 [Repealed]
 
 ### OC 24 FDPA debit for loss of shareholder continuity
-Debit
-(1) An FDPA company has an FDP debit for the amount equal to the amount of an FDP credit retained in the FDP account and unused at the time at which shareholder continuity is lost.
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 13 (debit for loss of shareholder continuity).
-When debit arises
-(3) The debit arises at the time shareholder continuity is lost.
-Qualifying companies
-(3B) This section does not apply to a qualifying company in circumstances other than those set out in section HA 18 (Treatment of dividends when qualifying company status ends), and that section overrides subsections (1) to (3).
-Avoidance arrangements
-(4) Section GB 41 (FDPA arrangements for carrying amounts forward) may apply to treat a company as not meeting the requirements of this section.
+[Repealed]
 
 ### OC 25 FDPA tax advantage arrangement
-Debit
-(1) An FDPA company has an FDP debit for the amount of a debit for a tax advantage arrangement determined under sections GB 35 and GB 36 (which relate to imputation arrangements to obtain tax advantage).
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 14 (tax advantage arrangement).
-Debit date
-(3) The debit date is the last day of the tax year in which the tax advantage arrangement began.
+[Repealed]
 
 ### OC 26 FDPA final balance
-Debit
-(1) An FDPA company has an FDP debit for a credit balance in the FDP account when the company stops being an FDPA company.
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 15 (final balance).
-Debit date
-(3) The debit date is the day the company stops being an FDPA company.
+[Repealed]
 
 ### OC 27 FDP credits attached to dividends
-Attaching FDP credits
-(1) When an FDPA company pays a dividend, it may attach an FDP credit to the dividend. Subsection (2) overrides this subsection.
-Exclusion
-(2)
-FDP ratio for dividend
-(3) A dividend with an FDP credit attached has an FDP ratio calculated using the formula—credit attached ÷ net dividends.
-Definition of items in formula
-(4) In the formula,—
-  (a) credit attached is the amount of FDP credit attached to the dividend:
-  (b) net dividends is the amount of dividends paid, excluding imputation credits and FDP credits.
-Maximum permitted ratio
-(5) A dividend with an FDP credit attached must not have an FDP ratio that is more than the maximum permitted ratio calculated under section OA 18(2) (Calculation of maximum permitted ratios).
+[Repealed]
 
 ### OC 28 FDPA benchmark dividend rules
-When this section applies
-(1) This section applies when an FDPA company pays a dividend on more than 1 occasion during a tax year. Subsection (2) overrides this subsection.
-Exclusions
-(2) This section does not apply to a dividend that is the subject of an election by—
-  (a) a statutory producer board under sections OB 73 to OB 75 (which relate to statutory boards’ notional distributions); and
-  (b) a co-operative company under sections OB 78 to OB 80 (which relate to co-operative companies’ notional distributions).
-Benchmark dividend
-(3) The first dividend of the tax year is the benchmark dividend.
-Same FDP ratio
-(4) The FDP ratio of a dividend paid after the benchmark dividend must be the same as the FDP ratio of the benchmark dividend. This subsection is modified by section OZ 9 (Benchmark dividends: ratio change).
-Breach of FDP ratio
-(5) A breach of subsection (4) gives rise to an FDP debit under section OC 22 (table O4: FDP debits, row 11 (breach of FDP ratio)) for an amount calculated using the formula in section OC 22(1).
-Ratio change declaration
-(6) An FDPA company may notify the Commissioner that the dividend is not part of an arrangement to obtain a tax advantage by providing a ratio change declaration stating that the dividend is not part of an arrangement to which sections GB 35 and GB 36 (which relate to imputation arrangements to obtain tax advantage) apply. The company must provide the declaration before the dividend is paid, or by a later date if the Commissioner allows. For the purposes of this subsection, the dividend must not be part of an arrangement to obtain a tax advantage. This subsection overrides subsection (5).
-Consolidated group
-(7) This section applies, modified as necessary, to a consolidated group as if it were a single company.
-Group debit
-(8) Under section OP 54 (When credits and debits arise only in consolidated FDP group accounts), a breach of an FDP ratio alternatively gives rise to an FDP debit under section OP 72 (Consolidated FDPA breach of FDP ratio) (table O22: FDP debits of consolidated group, row 10 (breach of FDP ratio)) if the company is part of a consolidated group.
-Treatment of group dividends
-(9) In the application of this section to a consolidated group, a dividend paid between group companies is disregarded.
+[Repealed]
 
 ### OC 29 FDP credits and imputation credits attached to dividends
-Attaching combined credits
-(1) When an FDPA company pays a dividend, it may attach both an FDP credit and an imputation credit to the dividend.
-Combined ratio
-(2) A dividend with combined credits attached has a combined imputation and FDP ratio calculated using the formula—combined credits attached ÷ net dividends.
-Definition of items in formula
-(3) In the formula in subsection (2),—
-  (a) combined credits attached is the total amount of FDP credits and the imputation credits attached to the dividend:
-  (b) net dividends is the amount of dividends paid, excluding the amount of FDP credits and the imputation credits.
-Maximum permitted ratio
-(4) A dividend with combined credits attached must not have a combined imputation and FDP ratio that is more than the maximum permitted ratio calculated under section OA 18(2) (Calculation of maximum permitted ratios).
-Breach of combined ratio breach
-(5) A breach of the maximum ratio referred to in subsection (4) gives rise to an excess credit amount that is calculated using the formula—net dividends × (combined ratio − maximum ratio).
-Definition of items in formula
-(6) In the formula in subsection (5),—
-  (a) net dividends is the amount of dividends paid, excluding FDP credits and the imputation credits:
-  (b) combined ratio is the combined imputation and FDP ratio of the dividend:
-  (c) maximum ratio is the maximum combined imputation and FDP ratio permitted under subsection (4).
-Relationship with section OZ 8
-(7) Section OZ 8 (Attaching imputation credits and FDP credits: maximum permitted ratio) may apply to modify this section.
+[Repealed]
 
 ### OC 30 Payment of further income tax for closing debit balance
-Liability
-(1) An FDPA company or consolidated FDP group is liable to pay further income tax for a closing debit balance in the FDP account of the company or the group.
-Due date
-(2) The company or group must pay the further income tax to the Commissioner no later than the 20 June following the end of the tax year.
-Application of other provisions
-(3)
-FDP credit for payment under subsection (1)
-(4) An FDPA company has an FDP credit for an amount of further income tax paid under subsection (1).
+[Repealed]
 
 ### OC 31 Payment of further income tax when company no longer New Zealand resident
-Liability
-(1) An FDPA company is liable to pay further income tax for a debit balance in the company's FDP account when the company stops being resident in New Zealand.
-Due date
-(2) The company must pay the further income tax to the Commissioner by the day the company stops being resident in New Zealand.
-Paramount section
-(3) A company to which this section applies that stops being an FDPA company on the last day of a tax year is liable for further income tax under this section and not under section OC 30.
-Application of other provisions
-(4)
-FDP credit for payment under subsection (1)
-(5) A company that stops being an FDPA company has an FDP credit for an amount of further income tax paid under this section.
+[Repealed]
 
 ### OC 32 Reduction of further income tax
-Debit at previous year-end
-(1) An FDPA company's liability for further income tax under section OC 30 or OC 31 may be reduced under subsection (2) if—
-  (a) a debit balance existed in the company’s FDP account at the end of a tax year; and
-  (b) a credit that arises in the account in the following tax year is less than the debit balance; and
-  (c) the company notifies the Commissioner.
-Amount of reduction
-(2) The liability is reduced by the amount that is the debit balance for the tax year less the total amount of credits for the following tax year.
+[Repealed]
 
 ### OC 33 Income tax paid satisfying liability for further income tax
-Election
-(1) On meeting the requirements of subsection (2), an FDPA company that is liable for further income tax may choose to satisfy the liability through a payment of income tax.
-Requirements
-(2) The company must pay the income tax—
-  (a) after the end of the tax year in which the relevant debit balance arises; and
-  (b) for an income year corresponding to a tax year in which the company is an FDPA company.
-Payment credited
-(3) The payment of income tax satisfies the company's liability to pay further income tax.
-When treated as paid
-(4) The further income tax is treated as paid on the day the Commissioner receives the payment of income tax.
+[Repealed]
 
 ### OC 34 Further income tax paid satisfying liability for income tax
-Election
-(1) A company that pays further income tax may choose to treat the payment as satisfying a liability of the company to pay income tax.
-FDPA company status
-(2) The liability referred to in subsection (1) must be for an income year that corresponds with a tax year in which the company is an FDPA company.
-Alternative for consolidated group
-(3) A company that is part of a consolidated FDP group may choose that the payment under subsection (1) satisfies a group liability for income tax owed by another group company when or after the payment is made.
+[Repealed]
 
 ### OC 35 Meaning of FDP reference period
 [Repealed]
@@ -33736,7 +33607,7 @@ Exclusion
   (a) the constitution or rules of the Maori authority prohibit a distribution of any kind to a member; or
   (b) the Maori authority derives only exempt income, disregarding exempt income under section CW 10 (Dividend within New Zealand wholly-owned group).
 Credits
-(3) Credits include an amount of income tax paid during a tax year, an imputation credit attached to a dividend derived by the Maori authority and, if the Maori authority is not also a foreign dividend payment account (FDPA) company, a foreign dividend payment (FDP) credit attached to a dividend derived.
+(3) Credits include an amount of income tax paid during a tax year and an imputation credit attached to a dividend derived by the Maori authority.
 Debits
 (4) Debits may include a refund of income tax and a Maori authority credit attached to a taxable Maori authority distribution paid by the Maori authority.
 General rules
@@ -33801,12 +33672,7 @@ Credit date
 (3) The credit date is the day the amount is attributed.
 
 ### OK 7 MACA dividend derived with FDP credit
-Credit
-(1) A Maori authority has a Maori authority credit for the amount of an FDP credit attached to a dividend derived by the Maori authority when it is not an FDPA company.
-Table reference
-(2) The Maori authority credit in subsection (1) is referred to in table O17: Maori authority credits, row 7 (dividend derived with FDP credit).
-Credit date
-(3) The credit date is the day the dividend is paid.
+[Repealed]
 
 ### OK 8 MACA resident withholding tax withheld
 Credit
@@ -33879,12 +33745,7 @@ Relationship with section OK 14B
 (5) This section does not apply to an amount that gives rise to a debit under section OK 14B.
 
 ### OK 14 MACA refund of FDP
-Debit
-(1) A Maori authority has a Maori authority debit for the amount of a refund of FDP paid to the Maori authority when it is not an FDPA company.
-Table reference
-(2) The Maori authority debit in subsection (1) is referred to in table O18: Maori authority debits, row 6 (refund of FDP).
-Debit date
-(3) The debit date is the day the refund is made.
+[Repealed]
 
 ### OK 14B MACA refund of tax credit
 Debit
@@ -33893,7 +33754,7 @@ Debit
   (b) the amount of a refund to the authority under section LA 6(2)﻿(e).
   (c)
 Exclusion
-(2) Despite subsection (1), a Maori authority that is an FDPA company does not have a Maori authority debit to the extent to which the amount transferred, refunded, or used is a tax credit under subpart LF (Tax credits for FDP credits).
+(2)
 Table reference
 (3) The Maori authority debit in subsection (1) is referred to in table O18: Maori authority debits, row 6B (refund of tax credit).
 Debit date
@@ -34080,8 +33941,8 @@ Particular credits
   (a) section OP 7, row 2 (payment of tax):
   (b) section OP 8, row 3 (deposit in tax pooling account):
   (bb) section OP 11B, row 6B (tax credit for research and development expenditure):
-  (c) section OP 12, row 7 (dividend derived with imputation credit):
-  (d) section OP 13, row 8 (dividend derived with FDP credit).
+  (c) section OP 12, row 7 (dividend derived with imputation credit).
+  (d)
   (e)
 Debits only in the group account
 (3) A debit listed in subsection (4) arises only in the imputation credit account of a consolidated imputation group and not in the imputation credit account of a group company.
@@ -34092,7 +33953,7 @@ Particular debits
   (c) section OP 32, row 6 (refund from tax pooling account):
   (d) section OP 33, row 7 (transfer within tax pooling account):
   (db) section OP 33B, row 7B (debit for transfer from tax pooling account for policyholder base liability):
-  (e) section OP 34, row 8 (refund of FDP):
+  (e)
   (f) section OP 35, row 9 (refund of tax credit):
   (g) section OP 37, row 11 (group company’s debit):
   (h) section OP 39, row 13 (replacement payment under share-lending arrangement):
@@ -34144,7 +34005,7 @@ No credit
   (c) income tax paid on income derived by a company that is not an imputation credit account (ICA) company; or
   (d) income tax paid by a life insurer to satisfy its schedular income tax liability for schedular policyholder base income; or
   (e) income tax paid under section LE 1 (Tax credits for imputation credits) by crediting an imputation credit; or
-  (f) income tax paid under section LF 1 (Tax credits for FDP credits) by crediting a foreign dividend payment (FDP) credit; or
+  (f)
   (fb)
   (g) income tax paid by crediting an amount under subpart LP (Tax credits for supplementary dividends); or
   (h) further income tax applied under section OB 65 or OB 66 (which relate to further income tax) to pay income tax or provisional tax; or
@@ -34200,14 +34061,7 @@ Credit date
 (3) The credit date is the day the dividend is paid.
 
 ### OP 13 Consolidated ICA dividend derived with FDP credit
-Credit
-(1) A consolidated imputation group has an imputation credit for the amount of an FDP credit attached to a dividend derived by a group company that—
-  (a) is part of a consolidated group without an FDP account; or
-  (b) does not have an FDP account and is not part of a consolidated group.
-Table reference
-(2) The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 8 (dividend derived with FDP credit).
-Credit date
-(3) The credit date is the day the dividend is paid.
+[Repealed]
 
 ### OP 14 Consolidated ICA payment of FDP
 [Repealed]
@@ -34237,20 +34091,10 @@ Credit date
 (3) The credit date is the day the interest or dividend relating to the resident passive income is paid.
 
 ### OP 18 Consolidated ICA transfer from group company’s FDP account
-Credit
-(1) A consolidated imputation group has an imputation credit for an amount equal to the amount of an FDP debit under section OC 18 (FDPA transfer to imputation credit account) transferred from the FDP account of a group company.
-Table references
-(2) The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 13 (transfer from group company’s FDP account). The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 7 (transfer to imputation credit account).
-Credit date
-(3) The credit date is the same as the debit date for the transfer.
+[Repealed]
 
 ### OP 19 Consolidated ICA transfer from group’s FDP account
-Credit
-(1) A consolidated imputation group has an imputation credit for an amount equal to the amount transferred under section FM 30(3) and (4) (Application of certain provisions to consolidated groups) from the FDP account of a consolidated group.
-Table reference
-(2) The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 14 (transfer from consolidated group’s FDP account).
-Credit date
-(3) The credit date is the same as the debit date for the transfer.
+[Repealed]
 
 ### OP 20 Consolidated ICA transfer from group company’s policyholder credit account
 [Repealed]
@@ -34419,14 +34263,7 @@ Debit date
 (3) The debit date is the last day of the tax year.
 
 ### OP 34 Consolidated ICA refund of FDP
-Debit
-(1) A consolidated imputation group has an imputation debit for the amount of a refund of FDP that relates to a dividend derived by a group company at a time when—
-  (a) the group company is part of a consolidated group without an FDP account; or
-  (b) the group company does not have an FDP account and is not part of a consolidated group.
-Table reference
-(2) The imputation debit in subsection (1) is referred to in table O20: imputation debits of consolidated imputation groups, row 8 (refund of FDP).
-Debit date
-(3) The debit date is the day the refund is made.
+[Repealed]
 
 ### OP 35 Consolidated ICA refund of tax credit
 Debit
@@ -34435,31 +34272,17 @@ Debit
   (b) the amount of a refund under section LA 6(2)﻿(e).
   (c)
 Exclusion
-(1B) Despite subsection (1), a consolidated imputation group does not have an imputation debit to the extent to which—
-  (a) the amount transferred, refunded, or used is a tax credit for a payment of FDP relating to a dividend derived by a group company; and
-  (b) the dividend was derived when the company—
-    (i) had an FDP account and was not part of a consolidated group; or
-    (ii) was part of a consolidated group with an FDP account.
+(1B)
 Table reference
 (2) The imputation debit in subsection (1) is referred to in table O20: imputation debits of consolidated imputation groups, row 9 (refund of tax credit).
 Debit date
 (3) The debit date is—
   (a) for a debit referred to in subsection (1)﻿(a), the day the amount is transferred:
-  (b) for a debit referred to in subsection (1)﻿(b), the day the amount is refunded:
+  (b) for a debit referred to in subsection (1)﻿(b), the day the amount is refunded.
   (c)
 
 ### OP 36 Consolidated ICA overpayment of FDP
-Debit
-(1) A consolidated imputation group has an imputation debit for the amount of an overpayment of FDP relating to a dividend derived by a group company in the following circumstances:
-  (a) the dividend is derived by the company at a time when—
-    (i) the company is part of a consolidated group without an FDP account; or
-    (ii) the company does not have an FDP account and is not part of a consolidated group; and
-  (b) the overpayment is applied to pay an amount due under the Inland Revenue Acts other than a liability for income tax or FDP; and
-  (c) the group does not have an FDP account when the amount is applied.
-Table reference
-(2) The imputation debit in subsection (1) is referred to in table O20: imputation debits of consolidated imputation groups, row 10 (overpayment of FDP).
-Debit date
-(3) The debit date is the day the amount is applied.
+[Repealed]
 
 ### OP 37 Consolidated ICA group company’s debit
 Debit
@@ -34550,13 +34373,13 @@ First amount
 (4) The first amount is calculated using the formula—credits attached − imputation debits.
 Definition of items in formula
 (5) In the formula in subsection (4),—
-  (a) credits attached is the total amount of all imputation credits and FDP credits attached to dividends derived by the group company in the income year in the circumstances set out in subsection (2):
+  (a) credits attached is the total amount of all imputation credits attached to dividends derived by the group company in the income year in the circumstances set out in subsection (2):
   (b) imputation debits is the amount of imputation debits in the income year under section OP 42 in the group’s imputation credit account.
 Second amount
 (6) The second amount is calculated using the formula—(total dividends ÷ taxable income) × (tax liability − continuity debits).
 Definition of items in formula
 (7) In the formula in subsection (6),—
-  (a) total dividends is the total amount of all dividends derived in the circumstances set out in subsection (2), including imputation credits and FDP credits attached to the dividends:
+  (a) total dividends is the total amount of all dividends derived in the circumstances set out in subsection (2), including imputation credits attached to the dividends:
   (b) taxable income is the taxable income of the group company for the tax year corresponding to the income year in which the dividends are derived:
   (c) tax liability is the group company’s income tax liability for the tax year corresponding to the income year in which the dividends are derived:
   (d) continuity debits is the amount of imputation credits attached to the dividends that have been cancelled by an imputation debit under section OP 42.
@@ -34615,66 +34438,19 @@ Debit date
 **Introductory provisions**
 
 ### OP 51 FDP accounts of consolidated FDP groups
-Consolidated group account
-(1) A consolidated group is a consolidated FDP group for a tax year if—
-  (a) a group company is a foreign dividend payment account (FDPA) company at a time during the tax year; or
-  (b) the group chooses to maintain an FDP account.
-Effect of election
-(2) If a consolidated FDP group makes an election under subsection (1)﻿(b), it must maintain the FDP account referred to in section OC 2 (FDP accounts) from the date of election.
-Notifying Commissioner
-(3) The nominated company of a consolidated FDP group must notify the Commissioner of an election under subsection (1)﻿(b)—
-  (a) no later than 21 days after the day of election; or
-  (b) by a later date if the Commissioner allows.
+[Repealed]
 
 ### OP 52 Choosing to stop being consolidated FDP group
-Election
-(1) The nominated company of a consolidated FDP group may choose that the group’s status as a consolidated FDP group is to end.
-When election made
-(2) The election referred to in subsection (1) may be made during a tax year that is later than the tax year in which the group chooses under section OP 51 to become a consolidated FDP group.
-When company’s status ends
-(3) The election referred to in subsection (1) takes effect from the first day of the tax year after the tax year in which the election referred to in subsection (2) is made, but only if,—
-  (a) the group—
-    (i) files an annual FDPA return for the year of election in the time allowed by section 71 of the Tax Administration Act 1994; and
-    (ii) pays further FDP, if any, under section OC 30 (Payment of further FDP for closing debit balance) for the year of election; and
-  (b) no group company is an FDPA company in the tax year after the year of election.
+[Repealed]
 
 ### OP 53 When group company emigrates
-When this section applies
-(1) This section applies when an FDPA company in a consolidated FDP group is an emigrating company.
-Status ends
-(2) The group’s status as a consolidated FDP group ends at the time of emigration of the company.
-Further payments and returns
-(3) The consolidated FDP group must—
-  (a) provide the annual FDPA return required for the group for the tax year in which the company becomes non-resident; and
-  (b) for a debit balance in the consolidated FDP group’s account at the time of emigration, pay further FDP payable for the tax year of an amount equal to the debit balance.
+[Repealed]
 
 ### OP 54 When credits and debits arise only in consolidated FDP group accounts
-Credits to group accounts
-(1) A credit listed in subsection (2) arises only in the FDP account of a consolidated FDP group and not in the FDP account of a group company.
-Particular credits
-(2) The credit referred to in subsection (1) is a credit under section OP 58, described in table O21, row 4.
-Debits only in group accounts
-(3) A debit listed in subsection (4) arises only in the FDP account of a consolidated FDP group and not in the FDP account of a group company.
-Particular debits
-(4) The debit referred to in subsection (3) is a debit under the following sections and described in the following rows of table O22: FDP debits of consolidated FDP groups:
-  (a) section OP 64, row 2 (payment of dividend):
-  (b) section OP 66, row 4 (refund of FDP):
-  (c) section OP 68, row 6 (refund of tax credit):
-  (d) section OP 72, row 10 (breach of FDP ratio):
-  (e) section OP 74, row 12 (debit for policyholder base FDP credits).
+[Repealed]
 
 ### OP 55 Provisions applying to consolidated FDP groups
-Single company, tax liabilities
-(1) The provisions set out in subsection (2) apply, modified as necessary, to a consolidated FDP group and to the FDP account of the group as if—
-  (a) the group were a single company; and
-  (b) a reference to a section of this Act were to an equivalent provision applicable to a consolidated group; and
-  (c) a reference to a company’s liability for further FDP, late payment penalty, or FDP penalty tax were a reference to a joint and several liability owed by group companies when the tax or penalty becomes payable.
-Other provisions
-(2) The provisions are—
-  (a) sections OC 30 and OC 31 (which relate to further FDP); and
-  (b) sections 103, 104, 139B, 140C, 140D, and 181 of the Tax Administration Act 1994.
-Consolidation provisions
-(3) Sections FM 3 and FM 4 (which relate to the liabilities of consolidated groups and group companies) overrides subsection (1)﻿(c).
+[Repealed]
 
 **FDP credits of consolidated FDP groups**
 
@@ -34685,39 +34461,13 @@ Consolidation provisions
 [Repealed]
 
 ### OP 58 Consolidated FDPA dividend derived with FDP credit
-Credit
-(1) A consolidated FDP group has an FDP credit for the amount of an FDP credit attached to a dividend derived by a group company.
-Table reference
-(2) The FDP credit in subsection (1) is referred to in table O21: FDP credits of consolidated FDP groups, row 4 (dividend derived with FDP credit).
-Credit date
-(3) The credit date is the day the dividend is paid.
+[Repealed]
 
 ### OP 59 Consolidated FDPA group company’s credit
-Credit
-(1) A consolidated FDP group has an FDP credit for the amount of a credit arising as follows:
-  (a) an FDP credit described in a row of table O3: FDP credits, arises in the FDP account of a group company; and
-  (b) an FDP debit described in a row of table O22: FDP debits of consolidated FDP groups, arises in the group FDP account; and
-  (c) the debit is not offset by a credit arising in the group account before or on the same date on which the credit arose in the group company’s account.
-Table reference
-(2) The FDP credit in subsection (1) is referred to in table O21: FDP credits of consolidated FDP groups, row 5 (group company’s credits).
-Offsetting debits
-(3) For the purposes of subsection (1)﻿(c), to determine whether the debit has been offset by a credit in the group account,—
-  (a) credits are treated as reducing debits in the order in which the credits arise; and
-  (b) a credit, whether some or all, is counted only once in determining whether a debit has been offset; and
-  (c) credits in the accounts of more than 1 group company become a credit to the group account—
-    (i) in the order of their credit date; and
-    (ii) as chosen by the group, if credits arise on the same credit date; and
-    (iii) on a pro rata basis, if no election is made under subparagraph (ii).
-Credit date
-(4) The credit date is immediately before the debit date for the debit to the group account.
+[Repealed]
 
 ### OP 60 Consolidated FDPA credit transfer to company
-Credit
-(1) A consolidated FDP group has an FDP credit for the amount of an FDP credit shown in a credit transfer notice given to a company that is part of the consolidated FDP group when the notice is given.
-Table reference
-(2) The FDP credit in subsection (1) is referred to in table O21: FDP credits of consolidated imputation groups, row 6 (credit transfer).
-Credit date
-(3) The credit date is the day the notice is given.
+[Repealed]
 
 ### OP 61 Consolidated FDPA transfer from group’s CTR account
 [Repealed]
@@ -34726,134 +34476,51 @@ Credit date
 [Repealed]
 
 ### OP 63 Consolidated FDPA reversal of tax advantage arrangement
-When this section applies
-(1) This section applies when it is established that an FDP credit in a consolidated FDP group’s FDP account was incorrectly determined to be the subject of an arrangement to obtain a tax advantage.
-Credit
-(2) The consolidated FDP group has an FDP credit for an amount equal to a debit in the group’s FDP account under section OP 76.
-Table references
-(3) The FDP credit in subsection (2) is referred to in table O21: FDP credits of consolidated FDP groups, row 9 (reversal of tax advantage arrangement). The FDP debit in subsection (2) is referred to in table O22: FDP debits of consolidated FDP groups, row 14 (tax advantage arrangement).
-Credit date
-(4) The credit date is the same as the debit date of the debit.
+[Repealed]
 
 **FDP debits of consolidated FDP groups**
 
 ### OP 64 Consolidated FDPA payment of dividend
-Debit
-(1) A consolidated FDP group has an FDP debit for the amount of an FDP credit attached to a dividend paid by a group company that is part of the group when the dividend is paid.
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 2 (payment of dividend).
-Debit date
-(3) The debit date is the day the dividend is paid.
+[Repealed]
 
 ### OP 65 Consolidated FDPA credit transfer by company
-Debit
-(1) A consolidated FDP group has an FDP debit for the amount of an FDP credit attached to a dividend paid to a company if—
-  (a) at the time of payment, the company is a part of the consolidated FDP group; and
-  (b) the amount is shown in a credit transfer notice given by the company.
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 3 (credit transfer notice).
-Debit date
-(3) The debit date is the day the dividend is paid.
+[Repealed]
 
 ### OP 66 Consolidated FDPA refund of FDP
-Debit
-(1) A consolidated FDP group has an FDP debit for a refund of FDP paid to a group company that is part of the group when it derived the dividend giving rise to the payment of FDP and the refund. Subsection (2) overrides this subsection.
-No debit
-(2) A debit under subsection (1) does not arise if—
-  (a) the payment of FDP giving rise to the refund was made before an FDP debit arises under section OP 73; and
-  (b) the debit for the refund is no more than the debit for loss of shareholder continuity.
-Table references
-(3) The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 4 (refund of FDP). The FDP debit in subsection (2)﻿(a) is referred to in table O22: FDP debits of consolidated FDP groups, row 11 (debit for loss of shareholder continuity).
-Debit date
-(4) The debit date is the day the refund is made.
+[Repealed]
 
 ### OP 67 Consolidated FDPA overpayment of FDP
-Debit
-(1) A consolidated FDP group has an FDP debit for an overpayment of FDP that is—
-  (a) paid by a group company that is part of the group at the time it derived the dividend giving rise to the overpayment of FDP; and
-  (b) applied to pay an amount due under the Inland Revenue Acts.
-No debit
-(2) Despite subsection (1), the debit does not include an overpayment of FDP to the extent to which it is—
-  (a) applied to satisfy a liability for FDP; or
-  (b) for a payment of FDP before an FDP debit arises under section OP 73, no more than the debit for loss of shareholder continuity.
-Table references
-(3) The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 5 (overpayment of FDP). The FDP debit in subsection (2)﻿(b) is referred to in table O22: FDP debits of consolidated FDP groups, row 11 (debit for loss of shareholder continuity).
-Debit date
-(4) The debit date is the day the amount is applied.
+[Repealed]
 
 ### OP 68 Consolidated FDPA refund of tax credit
-Debit
-(1) A consolidated FDP group has an FDP debit for the amount of a transfer or refund under section LA 6(2)﻿(d) or (e) (Remaining refundable credits: PAYE, RWT, and certain other items) to the extent to which the amount transferred or refunded is a tax credit under subpart LF (Tax credits for FDP credits) relating to a dividend derived by a group company that is part of the group at the time it derives the dividend.
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 6 (refund of tax credit).
-Debit date
-(3) The debit date is the day the transfer or refund is made.
+[Repealed]
 
 ### OP 69 Consolidated FDPA transfer to imputation credit account
-Debit
-(1) A consolidated FDP group has an FDP debit for a tax year for an amount equal to a closing credit balance transferred under section FM 29 (Treatment of credit balance in consolidated group’s FDP account) to the group’s imputation credit account.
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 7 (transfer to imputation credit account).
-Debit date
-(3) The debit date is the last day of the tax year.
+[Repealed]
 
 ### OP 70 Consolidated FDPA transfer to group’s CTR account
 [Repealed]
 
 ### OP 71 Consolidated FDPA group company’s debit
-Debit
-(1) A consolidated FDP group has an FDP debit for an amount to the extent to which it would, in the absence of subsection (2), give rise to—
-  (a) an FDP debit described in a row of table O4: FDP debits, in the FDP account of a group company; and
-  (b) an FDP debit that would create or increase a debit balance in the group company’s FDP account.
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 9 (group company’s debit).
-No debit for group company
-(3) The amount referred to in subsection (1) does not give rise to an FDP debit in the group company’s account although otherwise eligible to be one.
-Debit date
-(4) The debit date is the day that would be the debit date for the amount in the absence of subsection (3).
+[Repealed]
 
 ### OP 72 Consolidated FDPA breach of FDP ratio
-Debit
-(1) A consolidated FDP group has an FDP debit for a tax year for the amount of a debit that would arise under section OC 22 (FDPA breach of FDP ratio) in the FDP account of a group company in the absence of section OP 54(3).
-Table references
-(2) The group’s FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 10 (breach of FDP ratio). The group company’s FDP debit in subsection (1) is referred to in table O4: FDP debits, row 11 (breach of FDP ratio).
-Debit date
-(3) The debit date is the last day of the tax year.
+[Repealed]
 
 ### OP 73 Consolidated FDPA debit for loss of shareholder continuity
-Debit
-(1) A consolidated FDP group has an FDP debit for the amount of an FDP credit retained in the group’s FDP account and unused at the time at which shareholder continuity is lost.
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 11 (debit for loss of shareholder continuity).
-When debit arises
-(3) The debit arises at the time shareholder continuity is lost.
+[Repealed]
 
 ### OP 74 Consolidated FDPA debit for policyholder base FDP credits
-Debit
-(1) A consolidated FDP group has an FDP debit for the amount of an FDP credit attached to a dividend derived by a group company, to the extent to which it is derived by a group company that is a life insurer and apportioned to that life insurer's policyholder base.
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 12 (debit for policyholder base FDP credits).
-Debit date
-(3) The debit date is the last day of the tax year.
+[Repealed]
 
 ### OP 75 Consolidated FDPA breach of FDP ratio by PCA company
 [Repealed]
 
 ### OP 76 Consolidated FDPA tax advantage arrangement
-Debit
-(1) A consolidated FDP group has an FDP debit for the amount of a debit for a tax advantage arrangement determined under sections GB 35 and GB 36 (which relate to imputation arrangements to obtain a tax advantage).
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 14 (tax advantage arrangement).
-Debit date
-(3) The debit date is the last day of the tax year in which the arrangement began.
+[Repealed]
 
 ### OP 77 Consolidated FDPA final balance
-Debit
-(1) A consolidated FDP group has an FDP debit for a credit balance in the FDP account when the group stops being a consolidated FDP group.
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 15 (final balance).
-Debit date
-(3) The debit date is the day the group stops being a consolidated FDP group.
+[Repealed]
 
 **Table O21: FDP credits of consolidated FDP groups**
 
@@ -35026,15 +34693,15 @@ No imputation credit arises in the imputation credit account of an imputation cr
 ### OZ 2 No imputation debit for pre-imputation refund
 No imputation debit arises in the imputation credit account of an ICA company for a refund of income tax for a pre-imputation income year.
 
-### OZ 3 Overpaid income tax or foreign dividend payment for pre-imputation income year
+### OZ 3 Overpaid income tax for pre-imputation income year
 Debit
-(1) An ICA company has an imputation debit for an amount of overpaid income tax and foreign dividend payment (FDP) that is applied, when the company is not a foreign dividend payment account (FDPA) company, to satisfy the company’s income tax liability under section BB 1 (Imposition of income tax) for a pre-imputation income year. Subsection (2) overrides this subsection.
+(1) An ICA company has an imputation debit for an amount of overpaid income tax that is applied to satisfy the company’s income tax liability under section BB 1 (Imposition of income tax) for a pre-imputation income year. Subsection (2) overrides this section.
 No debit
-(2) The debit does not include an amount of overpaid income tax and FDP that is—
+(2) The debit does not include an amount of overpaid income tax that is—
   (a) paid before an imputation debit under section OB 41 (ICA debit for loss of shareholder continuity); and
   (b) no more than the debit for loss of shareholder continuity.
 Table references
-(3) The imputation debit in subsection (1) is referred to in table O2: imputation debits, row 11 (overpayment of income tax or FDP). The imputation debit in subsection (2)﻿(a) is referred to in table O2: imputation debits, row 14 (debit for loss of shareholder continuity).
+(3) The imputation debit in subsection (1) is referred to in table O2: imputation debits, row 11 (overpayment of income tax). The imputation debit in subsection (2)﻿(a) is referred to in table O2: imputation debits, row 14 (debit for loss of shareholder continuity).
 Debit date
 (4) The debit date is the day the amount is applied.
 
@@ -35104,7 +34771,7 @@ Application of modified sections OZ 8 to OZ 15
     (iv) a reference to an imputation credit had been replaced by a reference to a Maori authority credit:
     (v) a reference to a benchmark dividend had been replaced by a reference to a benchmark distribution:
     (vi) a reference to an imputation ratio had been replaced by a reference to a Maori authority credit ratio:
-    (vii) a reference to an FDP account or FDP credit or FDP ratio had been omitted:
+    (vii)
   (b) in section OZ 8(2), the reference to 30% had been replaced by a reference to 19.5%:
   (c) in section OZ 9,—
     (i) in subsection (1)﻿(b), the reference to sections OB 61(4) and OC 28(4) had been replaced by a reference to section OK 20(3):
@@ -35113,26 +34780,26 @@ Application of modified sections OZ 8 to OZ 15
   (d) in section OZ 10,—
     (i) in subsection (1)﻿(b), a reference to a ratio of 28/72 had been replaced by a reference to a ratio of 17.5/82.5 and a reference to a ratio of 30/70 had been replaced by a reference to a ratio of 19.5/80.5:
     (ii) subsection (1)﻿(b)﻿(ii) and (iii) were omitted:
-    (iii) in subsection (2), the reference to sections LE 8, LE 9, LF 6, and LF 7 had been replaced by a reference to section LO 3:
+    (iii) in subsection (2), the reference to section LE 8 had been replaced by a reference to section LO 3:
     (iv) in subsection (2), the reference to a ratio of 30/70 had been replaced by a reference to a ratio of 19.5/80.5:
   (e) in section OZ 11,—
     (i) in subsection (1)﻿(b)﻿(i), the reference to a ratio of 28/72 had been replaced by a reference to a ratio of 17.5/82.5 and the reference to a ratio of 30/70 had been replaced by a reference to a ratio of 19.5/80.5:
     (ii) subsection (1)﻿(b)﻿(ii) and (iii) had been omitted:
     (iii) in subsection (1)﻿(c), a reference to a new company tax rate person had been replaced by a reference to a Maori authority that uses a 17.5% basic tax rate for the 2011–12 income year or later income years:
     (iv) in subsection (2), in the formula, the figure 0.28 had been replaced by the figure 17.5:
-    (v) in subsection (3), the reference to section LE 1(1) or LF 1(1) had been replaced by a reference to section LO 1(1):
+    (v) in subsection (3), the reference to section LE 1(1) had been replaced by a reference to section LO 1(1):
     (vi) subsections (4) and (5) had been omitted:
   (f) in section OZ 13,—
     (i) in subsection (1), the reference to the ratio of 28/72 had been replaced by a reference to a ratio of 17.5/82.5 and the reference to a ratio of 30/70 had been replaced by a reference to a ratio of 19.5/80.5:
     (ii) in subsection (2), the reference to the ratio of 28/72 had been replaced by a reference to a ratio of 17.5/82.5.
 
-### OZ 8 Attaching imputation credits and FDP credits: maximum permitted ratio
+### OZ 8 Attaching imputation credits: maximum permitted ratio
 When this section applies
 (1) This section applies when—
   (a) a company pays a dividend in the transitional period; and
-  (b) the company has a credit balance in its imputation credit account and FDP account from income, expenditure, memorandum account debits, credits, and balances, refunds, tax, tax credits, transfers, amounts withheld, or other items dealt with, arising, or calculated using an old company tax rate.
+  (b) the company has a credit balance in its imputation credit account from income, expenditure, memorandum account debits, credits, and balances, refunds, tax, tax credits, transfers, amounts withheld, or other items dealt with, arising, or calculated using an old company tax rate.
 Rate applying for transitional period
-(2) If the amount of the imputation credit or FDP credit attached to the dividend is limited by the maximum permitted ratio set out in section OA 18 (Calculation of maximum permitted ratios), the company may choose to treat the item tax rate in the formula in section OA 18(2) as 30%.
+(2) If the amount of the imputation credit attached to the dividend is limited by the maximum permitted ratio set out in section OA 18 (Calculation of maximum permitted ratios), the company may choose to treat the item tax rate in the formula in section OA 18(2) as 30%.
 
 ### OZ 9 Benchmark dividends: ratio change
 When this section applies
@@ -35143,49 +34810,49 @@ When this section applies
     (i) was 1 to which section OZ 8 applied; or
     (ii) has a ratio of 30/70, for a reason other than the application of section OZ 8.
 When ratio treated as same as ratio for benchmark dividend
-(2) If, in the cases set out in subsection (3), the imputation ratio or FDP ratio of the later dividend is less than that of the relevant benchmark dividend, the ratio is treated as the same as that of the relevant benchmark dividend.
+(2) If, in the cases set out in subsection (3), the imputation ratio of the later dividend is less than that of the relevant benchmark dividend, the ratio is treated as the same as that of the relevant benchmark dividend.
 Cases
 (3) The cases referred to in subsection (2) are the following:
   (a) in the case of a benchmark dividend described in subsection (1)﻿(c)﻿(i), section OZ 8 does not apply to the later dividend through the lack of a relevant credit balance described in section OZ 8(1)﻿(b):
   (b) in the case of a benchmark dividend described in subsection (1)﻿(c)﻿(ii), the later dividend has a ratio of 28/72.
 
-### OZ 10 Modifying ratios for imputation credits and FDP credits
+### OZ 10 Modifying ratios for imputation credits
 When this section applies
 (1) This section applies when—
   (a) a person derives a dividend in the period from 1 October 2010 to 31 March 2013; and
-  (b) the dividend and the imputation credits and FDP credits attached to the dividend, as applicable, have—
-    (i) an imputation ratio greater than 28/72 and less than or equal to 30/70; or
-    (ii) an FDP ratio greater than 28/72 and less than or equal to 30/70; or
-    (iii) a combined imputation and FDP ratio greater than 28/72 and less than or equal to 30/70.
+  (b) the dividend and the imputation credits attached to the dividend, as applicable, have—
+    (i) an imputation ratio greater than 28/72 and less than or equal to 30/70.
+    (ii)
+    (iii)
 Ratio applying
-(2) For the purposes of sections LE 8, LE 9, LF 6, and LF 7 (which relate to tax credits for imputation credits and FDP credits), if the amount of the imputation credit or FDP credit, as applicable, is limited by the maximum permitted ratio set out in section OA 18 (Calculation of maximum permitted ratios), the relevant ratio is treated as 30/70.
+(2) For the purposes of section LE 8 (Application of imputation ratio), if the amount of the imputation credit is limited by the maximum permitted ratio set out in section OA 18 (Calculation of maximum permitted ratios), the ratio is treated as 30/70.
 
-### OZ 11 Tax credits for imputation credits and FDP credits
+### OZ 11 Tax credits for imputation credits
 When this section applies
 (1) This section applies when—
   (a) a person—
     (i) derives a dividend in the transitional period, if the person is a new company tax rate person that is not a multi-rate PIE:
     (ii) derives a dividend in the period from 1 October 2010 to 31 March 2013, if the person is a new company tax rate person that is a multi-rate PIE; and
-  (b) the dividend, and the imputation credits and FDP credits attached to the dividend, as applicable, have—
-    (i) an imputation ratio greater than 28/72 and less than or equal to 30/70; or
-    (ii) an FDP ratio greater than 28/72 and less than or equal to 30/70; or
-    (iii) a combined imputation and FDP ratio greater than 28/72 and less than or equal to 30/70; and
+  (b) the dividend, and the imputation credits attached to the dividend, have—
+    (i) an imputation ratio greater than 28/72 and less than or equal to 30/70; and
+    (ii)
+    (iii)
   (c) the person is a new company tax rate person in the period for the dividend.
-Imputation ratio and FDP ratio
-(2) For a ratio described in subsection (1)﻿(b)﻿(i) or (ii), the amount of the tax credit that the person has is calculated using the formula—dividend and credits × 0.28.
+Imputation ratio
+(2) For a ratio described in subsection (1)﻿(b)﻿(i), the amount of the tax credit that the person has is calculated using the formula—dividend and credits × 0.28.
 Definition of item in formula
-(3) In the formula in subsection (2), dividend and credits is the amount of the imputation credit or FDP credit, as applicable, included in the person's assessable income for the purposes of section LE 1(1) or LF 1(1) (which relate to tax credits for imputation credits and FDP credits), together with the amount of dividend to which the relevant credit is attached.
+(3) In the formula in subsection (2), dividend and credits is the amount of the imputation credit included in the person’s assessable income for the purposes of section LE 1(1) (Tax credits for imputation credits), together with the amount of dividend to which the credit is attached.
 Combined imputation and FDP ratio
-(4) For a ratio described in subsection (1)﻿(b)﻿(iii), the total amount of tax credit that the person has is calculated using the formula—dividend and credits × 0.28.
+(4)
 Definition of item in formula
-(5) In the formula in subsection (4), dividend and credits is the total amount of the imputation credit and FDP credit included in the person's assessable income for the purposes of sections LE 1(1) and LF 1(1), together with the amount of the dividend to which the credits are attached. For the purposes of the calculation of the total tax credit, imputation credits are reduced before FDP credits.
+(5)
 
 ### OZ 12 Tax credits for non-resident investors
 When this section applies
 (1) This section applies when—
   (a) a company pays or derives a dividend with an imputation credit attached in the transitional period; and
   (b) the dividend and imputation credit, to the extent to which, in the absence of subpart LP (Tax credits for supplementary dividends),—
-    (i) the combined imputation and FDP ratio is greater than 28/72 and less than or equal to 30/70; or
+    (i)
     (ii) the imputation ratio is greater than 28/72 and less than or equal to 30/70; and
   (c) section LP 2(1) (Tax credits for supplementary dividends) applies to the company, or the company is a supplementary dividend holding company.
 When ratio equal to old rate
@@ -35193,7 +34860,7 @@ When ratio equal to old rate
 When ratio less than old rate
 (3) For a ratio described in subsection (1)﻿(b)﻿(i) or (ii) that is less than 30/70, then, to the extent to which a part of the amount of the dividend and imputation credit has a ratio of 30/70 through the application of section OZ 8, any tax credit that the company has is calculated using the formula in section LP 2(2), treating 54/119 as 7/17.
 Benchmark calculations
-(4) In the application of sections GB 35, GB 36, OA 18, OB 60, OB 61, OC 28 (which relate to imputation and FDP credit ratios) under section LP 5 (Application of benchmark dividend rules and imputation credit ratio), the provisions apply using the ratio 30/70 and the old company tax rates.
+(4) In the application of sections GB 35, GB 36, OA 18, OB 60, OB 61 (which relate to imputation credit ratios) under section LP 5 (Application of benchmark dividend rules and imputation credit ratio), the provisions apply using the ratio 30/70 and the old company tax rates.
 Relationship with exempt income rules
 (5) If the company derives a dividend to which this section applies, item tax rate in the formula in section LP 8(2) (Relationship with exempt income rules) is treated as 30%, to the extent to which a part of the supplementary dividend was calculated as described in subsection (2) or (3).
 
@@ -35450,7 +35117,7 @@ Payment
 When this section applies
 (1) This section applies for a person (the payer) and the withholding of an amount of tax that is more than the amount required to be withheld and paid under this Part (the excess amount) or an amount mistakenly paid, when—
   (a) the payer withholds and pays to the Commissioner an excess amount of RWT or NRWT:
-  (b) the payer pays FDP of an excess amount:
+  (b)
   (c) a PAYE intermediary pays an amount of tax for an employer through an error, or when the payment is not funded by the employer, as described in section RM 7 (Refunds to PAYE intermediaries):
   (d) the result of a calculation for FBT made by an employer under sections RD 50 to RD 53 (which relate to attributed benefits and non-attributed benefits) is negative.
 Refunds
@@ -36217,7 +35884,7 @@ Meaning generally
   (b) does not include—
     (i) an amount attributed under section GB 29 (Attribution rule: calculation):
     (ii) an amount paid to a shareholder-employee in the circumstances set out in section RD 3B or RD 3C:
-    (iii) an amount paid or benefit provided, by a person (the claimant) who receives a personal service rehabilitation payment from which an amount of tax has been withheld at the rate specified in schedule 4, part I (Rates of tax for schedular payments) or under section RD 18 (Schedular payments without notification), to another person for providing a key aspect of social rehabilitation referred to in paragraph (c) of the definition of personal service rehabilitation payment in section YA 1 (Definitions).
+    (iii) an amount paid or benefit provided, by a person (the claimant), who receives a personal service rehabilitation payment from which an amount of tax has been withheld at a rate specified in section RD 10B.
 When subsections (3) and (4) apply: close companies and some others
 (2)
 Income in current tax year
@@ -36326,14 +35993,19 @@ When this section applies
     (ii) a pension:
     (iii) a retiring or other allowance:
     (iv) an annuity.
+  (d) a benefit under section CE 2(2) and (4) (Value and timing of benefits under share purchase agreements) in relation to which the employer has made an election under section RD 7B.
 Value or amount included in salary or wages
-(2) The value of the benefit or amount of the payment is treated as—
+(2) For the purposes of subsection (1)﻿(a) to (c), the value of the benefit or amount of the payment is treated as—
   (a) accruing from day to day; and
   (b) included in the employee’s salary or wages for the pay period or, as applicable, as part of their salary or wages for the pay period.
 When non-cash benefit treated as paid
 (3) If the employee receives the benefit otherwise than in cash, the value is treated as paid—
-  (a) for a benefit that constitutes the only salary or wages of the employee, on the last day of the pay period; or
-  (b) for all other benefits, when the last amount of salary or wages for the pay period is paid.
+  (a) for a benefit referred to in subsection (1)﻿(d),—
+    (i) for an employer described in section CE 2(10) (Value and timing of benefits under share purchase agreements), on the first day of the PAYE income payment form period in which the employee derives the benefit under section CE 2(11) (Value and timing of benefits under share purchase agreements); or
+    (ii) for employers not described in section CE 2(10), on the date the benefit vests in the employee:
+  (ab)
+  (b) for a benefit referred to in subsection (1)﻿(a) to (c) that constitutes the only salary or wages of the employee, on the last day of the pay period:
+  (c) for a benefit that paragraphs (a) and (b) do not apply to, when the last amount of salary or wages for the pay period is paid.
 
 ### RD 7 Extra pay
 Meaning
@@ -36348,6 +36020,7 @@ Meaning
     (ii) as a redundancy payment; or
     (iii) when the person retires from employment; or
     (iv) as a result of a retrospective increase in salary or wages, but only to the extent described in subsection (2); and
+  (bb) includes a benefit under section CE 2(2) or (4) (Value and timing of benefits under share purchase agreements) in relation to which the employer has made an election under section RD 7B to withhold an amount of tax; and
   (c) includes an amount of income that a person derives under section CE 9 (Restrictive covenants) or CE 10 (Exit inducements) if the income is derived in connection with an employment relationship between the person and the person who paid the amount; and
   (d) does not include a payment of exempt income.
 Limit on retrospective increase in salary or wages
@@ -36355,16 +36028,29 @@ Limit on retrospective increase in salary or wages
   (a) it accrues from the start of the increase until the start of the first pay period in which the increase is included in salary or wages; and
   (b) when a week ends with a Saturday, the total of the increase for the week, and of the salary or wages for the week excluding the increase, and of any other salary or wages that the person earns for the week, is more than $4.
 
+### RD 7B Treatment of certain benefits under employee share agreements
+When this section applies
+(1) This section applies, for an employee or a former employee, when—
+  (a) an employer has a share purchase agreement that applies for a class of their employees; and
+  (b) the employee who is a member of the class receives a benefit described in section CE 2(2) or (4) (Value and timing of benefits under share purchase agreements) in relation to the agreement.
+What this section does not apply to
+(2) This section does not apply to a benefit arising under a share purchase scheme approved by the Commissioner on meeting the criteria set out in sections DC 13 and DC 14 (which relate to loans to employees under share purchase schemes).
+Withholding amounts of tax
+(3) The employer may choose, in relation to the share purchase agreement, to withhold and pay an amount of tax for the benefit. The employer makes the election by—
+  (a) calculating the amount of tax that must be withheld and paying the amount to the Commissioner as described in section RD 4(1); and
+  (b) including the amount of the benefit in their employer monthly schedule under section RD 22(1); and
+  (c) making the disclosure referred to in paragraph (b) within the time required under section RD 6(3)﻿(a).
+
 ### RD 8 Schedular payments
 Meaning
 (1) A schedular payment—
   (a) means—
-    (i) a payment of a class set out in schedule 4 (Rates of tax for schedular payments); and
+    (i) a payment of a class set out in schedule 4 (Standard rates of tax for schedular payments); and
     (ii) in relation to a sale, the net amount paid after subtracting from the purchase price all commission, insurance, freight, classing charges and other expenses incurred by the seller in connection with the sale; and
   (b) does not include—
     (i) salary or wages; or
     (ii) an extra pay; or
-    (iii) a payment for services provided by a public authority, a local authority, a Maori authority, or a company, other than a non-resident contractor, a non-resident entertainer, or an agricultural, horticultural, or viticultural company; or
+    (iii) a payment for services provided by a public authority, a local authority, a Maori authority, or a company, other than a non-resident contractor, a non-resident entertainer, a company in relation to a payment described in schedule 4, part J or part W, or an agricultural, horticultural, or viticultural company; or
     (iv) a payment covered by an exemption certificate provided under section 24M of the Tax Administration Act 1994; or
     (v) a payment for services provided by a non-resident contractor who has full relief from tax under a double tax agreement, and is present in New Zealand for 92 or fewer days in a 12-month period; or
     (vi) a contract payment for a contract activity or service of a non-resident contractor when the total amount paid for those activities to the contractor or another person on their behalf is $15,000 or less in a 12-month period.
@@ -36390,12 +36076,29 @@ Relationship with section RD 17
 (2B) Despite subsection (2), a person must not choose a rate set out in schedule 2, part B, table 1 that is lower than the rate that would apply to the amount of extra pay under section RD 17.
 Schedular payments
 (3) The amount of tax for a schedular payment is determined—
-  (a) at the relevant rate set out in schedule 4 (Rates of tax for schedular payments); and
+  (a) under section RD 10B; and
   (b) on the basis of the gross amount of the payment, other than GST, whether—
     (i) some or all of the payment is income; and
     (ii) the full income tax liability lies with the person receiving the payment, or lies partly with an employee or subcontractor of the person.
 Tax tables
 (4) The Commissioner may provide tables for the calculation of an amount of tax for a PAYE income payment that may incorporate other relevant information.
+
+### RD 10B Amounts of tax for schedular payments
+When this section applies
+(1) This section applies to determine the amount of tax for a schedular payment for the purposes of section RD 10(3)﻿(a).
+Rate when no notification
+(2) The person making the schedular payment must withhold, as tax,—
+  (a) 45% of the schedular payment, if the person has not been notified of the payee’s name and tax file number under section 24L of the Tax Administration Act 1994 and paragraph (b) does not apply:
+  (b) 20% of the schedular payment, if the person has not been notified of the payee’s name and tax file number under section 24L of the Tax Administration Act 1994 and the payee is a company that is a non-resident contractor.
+Basic rates
+(3) If the person making the schedular payment has been notified of the payee’s name and tax file number under section 24L of the Tax Administration Act 1994, the tax rate that applies to a schedular payment is—
+  (a) the payee’s elected rate under section 24LB of the Tax Administration Act 1994, if the payee chooses an elected rate under that section and paragraph (c) of this subsection does not apply:
+  (b) the relevant rate set out in schedule 4 (Standard rates of tax for schedular payments), if the payee does not choose an elected rate under section 24LB of the Tax Administration Act 1994 and paragraph (c) of this subsection does not apply:
+  (c) if the Commissioner has provided the payee with a special tax rate certificate under section 24N of the Tax Administration Act 1994, the tax rate set out in the certificate.
+Commissioner prescribed tax rate and deduction amount
+(4) Despite subsection (3), if the person making the schedular payment has been notified of an applicable tax rate prescribed by the Commissioner under section 24LC(1) of the Tax Administration Act 1994, the person must use that prescribed and notified tax rate for the payment. The person must also deduct or extract from schedular payments payable to the payee, the amount prescribed under section 24LC(3) of that Act and pay it to the Commissioner.
+Non-resident entertainer rate
+(5) Despite subsections (2), (3), and (4), the tax rate, if the payee is a non-resident entertainer, is 0.20.
 
 ### RD 11 Reduction in certain circumstances
 Special circumstances
@@ -36507,18 +36210,7 @@ Definition of items in formula
     (iv) for secondary code ST, $70,001.
 
 ### RD 18 Schedular payments without notification
-When this section applies
-(1) This section applies when a person makes a schedular payment but the notification required under section 24L of the Tax Administration Act 1994 has not been provided to them.
-When this section does not apply
-(2) This section does not apply when a person other than a company incorporates a company to obtain a reduction in an amount of tax for a schedular payment.
-Additional amount of tax
-(3) The person must withhold, in addition to the amount calculated under section RD 10(3), an amount of tax for the schedular payment determined as follows:
-  (a) 5% of the amount of the schedular payment if—
-    (i) the person receiving the payment is a company that is a non-resident contractor; and
-    (ii) the non-resident contractor receives the payment other than as a result of a choice that is made for the purposes that include a purpose of defeating the intent and application of paragraph (b):
-  (b) 15% of the amount of the schedular payment in all other cases.
-Non-application to non-resident entertainers
-(4) This section does not apply if the schedular payment is made to a non-resident entertainer.
+[Repealed]
 
 ### RD 19 Schedular payments to non-resident entertainers
 When this section applies
@@ -37118,7 +36810,7 @@ Decision irrevocable
 ### RD 60 Close company option
 When this section applies
 (1) This section applies in an income year when an employer that is a close company provides a fringe benefit to a shareholder-employee if, in the preceding income year,—
-  (a) the gross amounts of tax for both PAYE income payments and employer's superannuation cash contributions withheld under section RA 5(1)﻿(a) and (c) (Tax obligations for employment-related taxes) for the tax year, as modified by section RA 20(2) (Amalgamation of companies), were no more than $500,000; or
+  (a) the gross amounts of tax for both PAYE income payments and employer's superannuation cash contributions withheld under section RA 5(1)﻿(a) and (c) (Tax obligations for employment-related taxes) for the tax year, as modified by section RA 20(2) (Amalgamation of companies), were no more than $1,000,000; or
   (b) the only benefit provided by the employer was a fringe benefit—
     (i) arising under section CX 6(1) (Private use of motor vehicle); and
     (ii) limited to making available to shareholder-employees 1 vehicle or 2 vehicles for their private use; or
@@ -37141,7 +36833,7 @@ More than 1 business
 ### RD 61 Small business option
 When this section applies
 (1) This section applies when an employer provides a fringe benefit to an employee who is not a shareholder-employee in a tax year if, for the preceding tax year,—
-  (a) the gross amounts of tax for both PAYE income payments and employer's superannuation cash contributions withheld under section RA 5(1)﻿(a) and (c) (Tax obligations for employment-related taxes) for the tax year were no more than $500,000; or
+  (a) the gross amounts of tax for both PAYE income payments and employer's superannuation cash contributions withheld under section RA 5(1)﻿(a) and (c) (Tax obligations for employment-related taxes) for the tax year were no more than $1,000,000; or
   (b) the employer did not employ any employees.
 Annual basis
 (2) The employer may choose to pay their FBT liability on an annual basis, informing the Commissioner of their decision no later than—
@@ -37322,10 +37014,12 @@ Exclusions from dividends
   (d) a dividend derived by a person who holds an RWT exemption certificate issued under section RE 27:
   (e) a dividend that is non-resident passive income:
   (f) a dividend derived by a non-resident other than a dividend that has a source in New Zealand:
+  (fb) a dividend paid by a company and derived by another company, if the dividend is fully imputed and the paying company chooses to exclude the dividend from being resident passive income:
   (g) a dividend paid by a company and derived by another company when both are part of the same group of companies at the time of the payment:
+  (gb) an amount treated as a dividend under section CB 32C (Dividend income for first year of look-through company):
   (h) a dividend that is excluded income under section CX 50B (Contributions to retirement savings schemes) or would be excluded income under that section in the absence of subsection (2)﻿(a) and (b):
   (i) a dividend other than a non-cash dividend that—
-    (i) has an imputation ratio, FDP ratio, or combined imputation and FDP ratio of 30/70 or more; and
+    (i) has an imputation ratio of 30/70 or more; and
     (ii) is paid by a unit trust or group investment fund (or RWT proxy on their behalf) that has not withheld RWT from any earlier dividend:
   (j) a dividend treated as derived by a person under section GB 1(3) (Arrangements involving dividend stripping).
 Beneficiary income
@@ -37498,6 +37192,11 @@ Modification for companies and portfolio investment entities for 2010–11 tax y
 ### RE 13 Dividends other than non-cash dividends
 When this section applies
 (1) This section applies when a person makes a payment of resident passive income that consists of a dividend other than a non-cash dividend.
+When this section does not apply
+(1B) This section does not apply if,—
+  (a) at the same time as making a payment of a dividend other than a non-cash dividend, the person also makes a payment of a non-cash dividend; and
+  (b) they choose to apply section RE 14B; and
+  (c) the requirements of section RE 14B are met.
 Calculation of amount of tax
 (2) The amount of tax for the payment that the person must withhold and pay to the Commissioner is calculated using the formula—(tax rate × (dividend paid + tax paid or credit attached))− tax paid or credit attached.
 Definition of items in formula
@@ -37506,14 +37205,19 @@ Definition of items in formula
   (b) dividend paid is the amount of the dividend paid before the amount of tax is determined:
   (c) tax paid or credit attached is the total of the following amounts:
     (i) if the dividend is paid in relation to shares issued by an imputation credit account (ICA) company, the amount of an imputation credit attached to the dividend:
-    (ii) if the dividend is paid in relation to shares issued by a company not resident in New Zealand, the amount of foreign withholding tax paid or payable on the amount of dividend:
-    (iii) if the dividend is paid in relation to shares issued by a company resident in New Zealand, the amount of an FDP credit attached to the dividend.
+    (ii) if the dividend is paid in relation to shares issued by a company not resident in New Zealand, the amount of foreign withholding tax paid or payable on the amount of dividend.
+    (iii)
 
 ### RE 14 Non-cash dividends other than certain share issues
 When this section applies
 (1) This section applies when a person makes a payment of resident passive income that consists of a non-cash dividend other than—
   (a) a bonus issue in lieu:
   (b) a share issued under a profit distribution plan.
+When this section does not apply
+(1B) This section does not apply if,—
+  (a) at the same time as making a payment of a relevant non-cash dividend the person also makes a payment of a dividend other than a non-cash dividend; and
+  (b) they choose to apply section RE 14B; and
+  (c) the requirements of section RE 14B are met.
 Calculation of amount of tax
 (2) The amount of tax for the payment that the person must pay under subsection (4) to the Commissioner is calculated using the formula—(tax rate × dividend paid ÷ (1 − tax rate)) − tax paid or credit attached.
 Definition of items in formula
@@ -37522,10 +37226,25 @@ Definition of items in formula
   (b) dividend paid is the amount of the dividend paid before the amount of tax is determined:
   (c) tax paid or credit attached is the total of the following amounts:
     (i) if the dividend is paid in relation to shares issued by an ICA company, the amount of an imputation credit attached to the dividend:
-    (ii) if the dividend is paid in relation to shares issued by a company not resident in New Zealand, the amount of foreign withholding tax paid or payable on the amount of dividend:
-    (iii) if the dividend is paid in relation to shares issued by a company resident in New Zealand, the amount of an FDP credit attached to the dividend.
+    (ii) if the dividend is paid in relation to shares issued by a company not resident in New Zealand, the amount of foreign withholding tax paid or payable on the amount of dividend.
+    (iii)
 Treatment as if amount of tax withheld
 (4) For the purposes of subsection (2), the person must pay to the Commissioner the amount calculated as if it were the amount of tax required to be withheld and paid under the RWT rules.
+
+### RE 14B Combined cash and non-cash dividends
+When this section applies
+(1) This section applies when a person has made an election in accordance with sections RE 13(1B) and RE 14(1B) and the amount of the cash dividend paid at the same time as the non-cash dividend is equal to or greater than the amount calculated by the formula in subsection (2).
+Calculation of amount of tax
+(2) The amount of tax for the payment of the cash dividend and the non-cash dividend that the person must withhold and pay to the Commissioner is calculated using the formula—(tax rate × (dividends + tax paid or credit attached)) − tax paid or credit attached.
+Definition of items in formula
+(3) In the formula,—
+  (a) tax rate is the basic rate set out in schedule 1, part D, clause 5 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
+  (b) dividends is the total amount of the cash dividend and the non-cash dividend paid before the amount of tax is determined:
+  (c) tax paid or credit attached is the total of the following amounts:
+    (i) if a dividend is paid in relation to shares issued by an ICA company, the total amount of imputation credits attached to the dividends:
+    (ii) if a dividend is paid in relation to shares issued by a company not resident in New Zealand, the amount of foreign withholding tax paid or payable on the total amount of the dividends.
+Treatment as if amount of tax withheld for 1 combined dividend
+(4) The total amount of the cash dividend and the non-cash dividend is treated as 1 payment of 1 dividend (the combined dividend), and the amount calculated under the formula in subsection (2) is the amount that is required to be withheld from the combined dividend and paid under the RWT rules.
 
 ### RE 15 Bonus issues in lieu and shares issued under profit distribution plans
 When this section applies
@@ -37542,8 +37261,8 @@ Definition of items in formula
     (ii) for a share issued under a profit distribution plan, the net amount offered by the company for the reacquisition of the share before the amount of tax is determined:
   (c) tax paid or credit attached is the total of the following amounts:
     (i) if the dividend is paid in relation to shares issued by an ICA company, the amount of an imputation credit attached to the dividend:
-    (ii) if the dividend is paid in relation to shares issued by a company not resident in New Zealand, the amount of foreign withholding tax paid or payable on the amount of dividend:
-    (iii) if the dividend is paid in relation to shares issued by a company resident in New Zealand, the amount of an FDP credit attached to the dividend.
+    (ii) if the dividend is paid in relation to shares issued by a company not resident in New Zealand, the amount of foreign withholding tax paid or payable on the amount of dividend.
+    (iii)
 
 ### RE 16 Taxable Maori authority distributions
 When this section applies
@@ -37562,14 +37281,14 @@ Definition of items in formulas
 When this section applies
 (1) This section applies when a person makes a payment of resident passive income that consists of a replacement payment under a share-lending arrangement.
 Calculation of amount of tax
-(2) The amount of tax for the payment is calculated using the formula—(tax rate × payment ÷ (1 − tax rate)) − credit attached− credit transferred − FDP credit transferred.
+(2) The amount of tax for the payment is calculated using the formula—(tax rate × payment ÷ (1 − tax rate)) − credit attached − credit transferred.
 Definition of items in formula
 (3) In the formula,—
   (a) tax rate is the basic rate set out in schedule 1, part D, clause 5 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
   (b) payment is the amount of the replacement payment excluding an imputation credit attached under section OB 64 (Replacement payments):
   (c) credit attached is the amount of an imputation credit attached to the replacement payment under section OB 64:
-  (d) credit transferred is the amount of an imputation credit shown in a credit transfer notice relating to the replacement payment:
-  (e) FDP credit transferred is the amount of an FDP credit shown in a credit transfer notice relating to the replacement payment.
+  (d) credit transferred is the amount of an imputation credit shown in a credit transfer notice relating to the replacement payment.
+  (e)
 
 ### RE 18 Payments made by RWT proxies
 Calculation of amount of tax
@@ -37639,10 +37358,7 @@ Payment derived by non-resident
 (3) For the purposes of determining person A’s liability under the RWT rules, the amount is treated as derived by a non-resident.
 
 ### RE 23 When amount of tax treated as FDP credit
-When this section applies
-(1) This section applies when a company withholds RWT for resident passive income consisting of a dividend other than a dividend treated as interest.
-FDP credit
-(2) The amount is treated as an FDP credit attached to the dividend by the company which is treated as a FDPA company for the purposes of sections LE 6, LF 1, LF 3, LF 4, and LF 9 (which relate to the amount and treatment of FDP credits), and section 185 of the Tax Administration Act 1994.
+[Repealed]
 
 ### RE 24 When amount of tax treated as Maori authority credit
 When this section applies
@@ -37906,15 +37622,15 @@ When this section applies
   (b) a supplementary dividend under subpart LP (Tax credits for supplementary dividends); or
   (c)
   (d) a fully imputed dividend; or
-  (e) an amount of a dividend that is fully credited for FDP.
+  (e)
   (f)
   (g) an amount paid by a foreign investment PIE to a notified foreign investor under section HM 44B (NRWT calculation option) to the extent to which the amount represents the fully imputed portion of a dividend and the related supplementary dividend derived by the PIE.
 Calculation of amount of tax
 (2) The amount of tax is calculated using the formula—dividend payment × 0.3.
 
-### RF 9 When dividends fully imputed or fully credited
+### RF 9 When dividends fully imputed
 When this section applies
-(1) This section applies for the purposes of sections RF 8, RF 10, and RF 11B to determine the extent to which a dividend is fully imputed or fully credited for FDP.
+(1) This section applies for the purposes of sections RF 8, RF 10, and RF 11B to determine the extent to which a dividend is fully imputed.
 Fully imputed
 (2) The extent to which a dividend is fully imputed is calculated using the formula—(imputation credit amount + supplementary dividend amount)× (1 − tax rate) ÷ tax rate.
 Definition of items in formula
@@ -37923,11 +37639,9 @@ Definition of items in formula
   (b) supplementary dividend amount is the amount of a supplementary dividend payable under subpart LP (Tax credits for supplementary dividends) for the dividend:
   (c) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2, (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the tax year in which the dividend is paid.
 Fully credited for FDP
-(4) The extent to which a dividend is fully credited for FDP is calculated using the formula—FDP credit amount ÷ tax rate.
+(4)
 Definition of items in formula
-(5) In the formula in subsection (4),—
-  (a) FDP credit amount is the amount of FDP credit attached to the dividend:
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2.
+(5)
 Fully credited for conduit tax relief
 (6)
 Definition of item in formula
@@ -37937,23 +37651,23 @@ Definition of item in formula
 When subsections (2) to (5) apply
 (1) Subsections (2) to (5) apply when a person makes a payment of non-resident passive income that consists of a non-cash dividend to the extent to which the amount is not fully imputed.
 When amount not taxable bonus issue
-(2) The amount of tax, when the payment is not a taxable bonus issue, is calculated using the formula—(rate A ÷ (1 − rate A) × dividend payment) + (rate B × amount paid).
+(2) The amount of tax, when the payment is not a taxable bonus issue, is calculated using the formula—rate A ÷ (1 − rate A) × dividend payment.
 Definition of items in formula
 (3) In the formula in subsection (2),—
   (a) rate A is the rate of tax set out in section RF 8:
-  (b) dividend payment is the amount of the dividend paid to the extent to which the amount of the dividend is not fully imputed or fully credited for FDP, as described in section RF 9(2) and (4), disregarding the amount of tax to be withheld:
-  (c) rate B is the rate set out in section RF 7:
-  (d) amount paid is the amount of the dividend paid to the extent to which the amount of the dividend is fully credited for FDP, as described in section RF 9(4), disregarding the amount of tax to be withheld.
+  (b) dividend payment is the amount of the dividend paid to the extent to which the amount of the dividend is not fully imputed, as described in section RF 9(2), disregarding the amount of tax to be withheld.
+  (c)
+  (d)
 When amount taxable bonus issue
-(4) The amount of tax, when the payment is a taxable bonus issue, is calculated using the formula—(rate A × dividend payment) + (rate B × amount paid).
+(4) The amount of tax, when the payment is a taxable bonus issue, is calculated using the formula—rate A × dividend payment.
 Definition of items in formula
 (5) In the formula in subsection (4),—
   (a) rate A is the rate of tax set out in section RF 8:
   (b) dividend payment is the amount of the dividend paid calculated under section CD 7(2), CD 7B(2), or CD 8(3) (which relate to bonus issues)—
     (i) other than a dividend referred to in the item bonus issue:
-    (ii) to the extent to which the amount of the dividend is not fully imputed or fully credited for FDP (as described in sections RF 9 and RF 14), before the amount of tax is withheld:
-  (c) rate B is the rate of tax set out in section RF 7:
-  (d) amount paid is the amount of the dividend calculated under section CD 7(2), CD 7B(2), or CD 8(3) together with the amount of an FDP credit attached to the dividend to the extent to which the amount of the dividend is fully credited for FDP, as described in section RF 9(4), before the amount of tax is withheld.
+    (ii) to the extent to which the amount of the dividend is not fully imputed (as described in section RF 9).
+  (c)
+  (d)
   (e)
 Fully imputed non-cash dividends
 (5B) When a payment of non-resident passive income consists of a non-cash dividend, the rate of NRWT payable on the amount is 0% to the extent to which the amount is fully imputed.
@@ -38127,7 +37841,7 @@ When threshold reached during tax year
   (b) for the remainder of the tax year, the amount of tax on a monthly basis.
 
 ### RF 14 Treatment of FDP credits
-A person who is required under the NRWT rules to withhold NRWT for non-resident passive income consisting of a dividend is treated as having withheld the amount of tax to the extent of an amount of an FDP credit attached to the dividend.
+[Repealed]
 
 ### RF 15 Commissioner’s power to vary amounts of tax
 Special circumstances
@@ -38371,7 +38085,7 @@ Refunds arising from mistakes
 (2)
 
 ### RM 3 Refunds for overpaid FDP
-If a company pays to the Commissioner FDP in relation to a foreign dividend paid to it, and the amount is more than the amount required to be paid under this Part, the Commissioner must refund the overpayment.
+[Repealed]
 
 ### RM 4 Overpayment on amended assessment
 Assessment increasing tax
@@ -38524,60 +38238,16 @@ No refund
 **Companies receiving foreign dividends**
 
 ### RM 18 Limits on refunds related to foreign dividends
-Maximum refund
-(1) Despite section RM 3, if the overpayment described in that section relates to an earlier tax year, the refund must be no more than the relevant credit balance as follows:
-  (a) for an FDPA company, the credit balance of the company’s FDP account at the end of the tax year that is before the tax year in which the entitlement to the refund arises:
-  (b) for an ICA company that is not an FDPA company, the credit balance of the company’s imputation credit account at the end of the tax year that is before that in which the entitlement to the refund arises:
-  (c) for a company described in paragraph (a) or (b) that ends its residence in New Zealand, the credit balance, just before the company stops being resident, of—
-    (i) the company’s imputation credit account arising as a debit under section OC 15 (FDPA overpayment of FDP); or
-    (ii) the company’s FDP account arising as a debit under section OC 26 (FDPA final balance).
-Treatment of amount not refunded
-(2) If the amount of a company’s overpayment is not refunded because it is more than the maximum allowed under subsection (1), the amount may still be used to reduce FDP for a foreign dividend paid to the company.
-Reductions in credit balances
-(3) For the purposes of this section, a credit balance referred to in subsection (1) is treated as reduced by an earlier refund under this section paid to the company in the tax year in which the entitlement to the refund arises. The refund of income tax under sections RM 13 to RM 17 in the same tax year must be no more than the relevant credit balance.
+[Repealed]
 
 ### RM 19 Treatment of financial arrangements
-When this section applies
-(1) This section applies when a company is entitled to a refund of FDP under section CD 50(10) to (13) (Outstanding balances of financial arrangements).
-Credit balance increased
-(2) The amount of the company’s credit balance under section RM 18(1) is treated as increased by the amount of a debit in the company’s imputation credit account or FDP account arising under section OB 41 or OC 24 (which relate to imputation debits and FDP debits for loss of shareholder continuity), as applicable, after the date on which the payment was made and before the date on which the credit balance is determined under section RM 18(1).
+[Repealed]
 
 ### RM 20 Treatment of amounts not refunded
-When this section applies
-(1) This section applies when, through the application of section RM 18(1), an overpayment is not refunded.
-Satisfying liabilities or retained
-(2) The amount prevented from being a refund is—
-  (a) applied to satisfy an income tax or provisional tax liability of the company for the tax year of an entitlement to a refund or FDP for a foreign dividend that is payable after the date on which the entitlement to the refund arises; and
-  (b) retained by the Commissioner to the extent to which paragraph (a) does not apply, whether because the company is liquidated or for another reason.
-Credit for provisional tax
-(3) Despite subsection (2), the amount may be credited on a provisional tax instalment date if residual income tax is treated under section 120KE(5) to (7) of the Tax Administration Act 1994 as payable on the date set out in Part 7 of that Act.
+[Repealed]
 
 ### RM 21 Refunds when loss balances used to reduce net income
-When subsection (2) applies
-(1) Subsection (2) applies when a company that is liable to pay FDP to the Commissioner has a loss balance that may be used under sections IA 2 to IA 9 (which relate to the treatment of tax losses) to reduce its net income for the income year in which the foreign dividend is paid.
-Refund
-(2) The company is entitled to a refund of an amount equal to the least of the following, as applicable:
-  (a) the amount of FDP that the company pays in the income year in which the foreign dividend is paid; or
-  (b) the amount of the loss balance multiplied by the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the income year in which the foreign dividend is paid; or
-  (c) the credit balance of the company’s FDP account at the end of the tax year that has just ended.
-Group company’s tax loss
-(3) This section also applies, treating the group of companies as the company, when—
-  (a) a company (group company A) pays FDP to the Commissioner; and
-  (b) another company (group company B) that is part of the same group of companies as group company A, has a tax loss for the income year in which the foreign dividend is paid or an earlier income year that may be used under sections IA 2 to IA 9 to reduce the net income of group company A; and
-  (c) group company B makes the tax loss available so that group company A is able to get a refund of some or all of the payment.
-Application and return requirements
-(4) For this section to apply,—
-  (a) the company must apply to the Commissioner; and
-  (b) the company must meet the return requirements of section 71B of the Tax Administration Act 1994 for the income year in which the dividend is paid; and
-  (c) if group company B’s tax loss is used, group company B must notify the Commissioner of its election to use the tax loss.
-Reduction in tax loss
-(5) When a refund is paid under this section, the amount of tax loss is reduced by an amount calculated using the formula—refund ÷ tax rate.
-Definition of items in formula
-(6) In the formula,—
-  (a) refund is the amount of the refund paid to group company A under this section:
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 for the income year that corresponds to the tax year referred to in subsection (2)﻿(c).
-Late payment penalties
-(7) Group company A is entitled to a refund of a late payment penalty imposed under section 139B of the Tax Administration Act 1994 in relation to the failure to pay the amount that is refunded.
+[Repealed]
 
 **Maori authorities**
 
@@ -39244,8 +38914,28 @@ In this Act, unless the context requires otherwise,—
       (i) acquire or dispose of property; or
       (ii) obtain or supply services; and
     (b) does not include a forward contract, a futures contract, an option, or a specified option
-  - **agricultural, horticultural, or viticultural company** means a company that carries on a business that comprises or includes performing any work or rendering a service set out in schedule 4, part C, clause 1(b) (Rates of tax for schedular payments)
+  - **agricultural, horticultural, or viticultural company** means a company that carries on a business that comprises or includes performing any work or rendering a service set out in schedule 4, part C, clause 1(b) (Standard rates of tax for schedular payments)
   - **air transport from New Zealand** is defined in section CW 56(3) (Non-resident aircraft operators) for the purposes of that section
+  - **aircraft engine** means—
+    (a) for an aircraft that is not a helicopter, an engine used for the propulsion of the aircraft:
+    (b) for a helicopter,—
+      (i) an engine used for the propulsion of, and generation of lift for, the helicopter:
+      (ii) the main transmission system:
+      (iii) the main rotor system:
+      (iv) the swash plate assembly:
+      (v) the anti-torque system:
+      (vi) the hydraulic system:
+      (vii) an assemblage consisting of 2 or more items referred to in subparagraphs (i) to (vi)
+  - **aircraft engine overhaul** —
+    (a) for an aircraft that is not a helicopter, means a process that involves removing, if necessary, an aircraft engine from the aircraft, dismantling the aircraft engine and testing pieces, replacing or restoring pieces on the basis of test results or use of the aircraft engine since installation of the piece, restoring the aircraft engine to a condition in which it meets its performance specifications for the scheduled overhaul period before the overhaul, reassembling the aircraft engine, fitting the aircraft engine to the aircraft, and testing the aircraft engine:
+    (b) for a helicopter, means a process that involves the application of the process described in paragraph (a) to—
+      (i) an engine:
+      (ii) the main transmission system:
+      (iii) the main rotor system:
+      (iv) the swash plate assembly:
+      (v) the anti-torque system:
+      (vi) the hydraulic system:
+      (vii) an assemblage consisting of 2 or more items referred to in subparagraphs (i) to (vi)
   - **airport** is defined in section HR 7(2) (Meaning of airport operator’s activities) for the purposes of that section
   - **airport asset** is defined in section HR 6(7) (Airport operator’s assets) for the purposes of that section
   - **airport authority** is defined in section 2 of the Airport Authorities Act 1966
@@ -39290,9 +38980,9 @@ In this Act, unless the context requires otherwise,—
     (b) further income tax:
     (c) imputation penalty tax:
     (d) penalty tax for a Maori authority payable under section 140DB of the Tax Administration Act 1994:
-    (e) FDP:
-    (f) further FDP:
-    (g) FDP penalty tax:
+    (e)
+    (f)
+    (g)
     (h) qualifying company election tax:
     (i) PAYE:
     (j) FBT:
@@ -39303,7 +38993,7 @@ In this Act, unless the context requires otherwise,—
     (m) NRWT
     (n)
   - **annual branch equivalent tax account return** means the return to be filed with the Commissioner by a company under sections 77 and 78 of the Tax Administration Act 1994
-  - **annual FDPA return** means the return to be filed with the Commissioner by a company under sections 71 and 72 of the Tax Administration Act 1994
+  - **annual FDPA return**
   - **annual gross income** is defined in section BC 2 (Annual gross income)
   - **annual ICA return** means the return to be filed with the Commissioner by a company under section 69 of the Tax Administration Act 1994
   - **annual income tax balance date** is defined in section EG 1(10) (Election to use balance date used in foreign country) for the purposes of that section
@@ -39524,7 +39214,11 @@ In this Act, unless the context requires otherwise,—
     (b) if no such rate can be obtained for that day, then the rate on the next day on which it can be obtained and that is no later than 5 working days after the first day; and
     (c) if no such rate of a spot contract can be obtained, the cross rate determined as at 3.00 pm New Zealand time on that day by applying the method outlined in paragraph 6(3)﻿(c) of determination G6D made under section 64E of the Income Tax Act 1976 (or in the corresponding paragraph of a determination issued in substitution for that determination); and
     (d) if no such rate can be obtained, the rate determined by applying the method set out in paragraph 6(2) of determination G9A made under section 64E of the Income Tax Act 1976 (or in the corresponding paragraph of a determination issued in substitution for that determination)
-  - **close relative** is defined in section FC 1(2) (What this subpart does) for the purposes of subpart FC (Distribution, transmission, and gifts of property)
+  - **close relative** ,—
+    (a) is defined in section FC 1(2) (Disposals to which this subpart applies) for the purposes of subpart FC (Distribution, transmission, and gifts of property):
+    (b) in section HA 6 (Corporate requirements), means, for a person—
+      (i) a spouse, civil union partner, or de facto partner of the person:
+      (ii) another person who is within the second degree of relationship to the person
   - **closely-held company** means, at any time, a company to which 1 of the following applies:
     (a) at the time there are 5 or fewer persons the total of whose direct voting interests in the company is more than 50%, treating all persons associated at the time as 1 person; or
     (b) at the time,—
@@ -39532,7 +39226,7 @@ In this Act, unless the context requires otherwise,—
       (ii) there are 5 or fewer persons the total of whose direct market value interests in the company is more than 50%, treating all persons associated at the time as 1 person
   - **closing stock** , for a person and for an income year, means trading stock of the person at the end of the income year
   - **combined imputation and CTR ratio**
-  - **combined imputation and FDP ratio** means the ratio set out in section OC 29 (FDP credits and imputation credits attached to dividends)
+  - **combined imputation and FDP ratio**
   - **combined tax and earner-related payment** means, for a PAYE income payment, the total of—
     (a) the amount of tax for the PAYE income payment required to be withheld and paid under the PAYE rules; and
     (b) the amount withheld from the PAYE income payment under—
@@ -39617,7 +39311,7 @@ In this Act, unless the context requires otherwise,—
       (iv) sections FO 18 to FO 20 (which relate to companies that are parties to financial arrangements):
       (v) section HC 31(4) (When existing trusts come into tax base)
   - **consolidated BETA group**
-  - **consolidated FDP group** is defined in section OP 51(1) (FDP accounts of consolidated FDP groups)
+  - **consolidated FDP group**
   - **consolidated group** means, at any time, a consolidated group formed under section FM 35 (Forming consolidated group) as it is constituted at that time
   - **consolidated imputation group** means—
     (a) an imputation group:
@@ -39638,7 +39332,7 @@ In this Act, unless the context requires otherwise,—
     (f) section LP 3(4) (Use of remaining credits); and
     (fb) section MX 7 (Reinstatement of R&D tax losses and R&D repayment tax); and
     (g) section OB 41 (ICA debit for loss of shareholder continuity); and
-    (h) section OC 24 (FDPA debit for loss of shareholder continuity); and
+    (h)
     (i)
     (j) section OK 15 (MACA debit for loss of shareholder continuity)
   - **contract activity or service** , for a non-resident contractor, means—
@@ -39650,7 +39344,7 @@ In this Act, unless the context requires otherwise,—
   - **contract payment** , for a non-resident contractor, means any payment other than—
     (a) a royalty; or
     (b) a payment made to the non-resident contractor by or on behalf of a person who is not associated with the contractor to reimburse costs incurred by the contractor; or
-    (c) a payment referred to in schedule 4, part E (Rates of tax for schedular payments)
+    (c) a payment referred to in schedule 4, part E (Standard rates of tax for schedular payments)
   - **contractor R&D consideration** is defined in section MX 3(5) (Wage intensity criteria)
   - **contribution** , in the FBT rules, means a contribution made—
     (a) directly; or
@@ -39686,9 +39380,7 @@ In this Act, unless the context requires otherwise,—
     (b) the market value of a petroleum permit, including an asset of the kind described in section CT 7(1)﻿(b) or (c) (Meaning of petroleum mining asset) attributable to the permit, held by the trust is at least 75% of the value of its assets minus its liabilities, as shown in the trust’s accounts prepared under generally accepted accounting practice
   - **controlling shareholder** is defined in section HD 15(9) (Asset stripping of companies) for the purposes of that section
   - **convert** , for a New Zealand emissions unit, means convert as defined in section 4(1) of the Climate Change Response Act 2002
-  - **convertible credit** means a credit that a person is allowed under Part L (Tax credits and other credits)—
-    (a) for an imputation credit; or
-    (b) for FDP, if the person is not entitled to a refund of the credit under Part R (General collection rules)
+  - **convertible credit**
   - **convertible note** means a document or a combination of documents that—
     (a) is issued or given by a company; and
     (b) creates or relates to money lent to the company, whether or not secured; and
@@ -39741,10 +39433,7 @@ In this Act, unless the context requires otherwise,—
     (b) does not include Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009) or Auckland Regional Holdings (as established by section 18 of the Local Government (Auckland) Amendment Act 2004 or the New Zealand Local Government Funding Agency Limited
   - **counted associate** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
   - **cover review period** is defined in section EY 30 (Transitional adjustments: life risk)
-  - **credit account continuity provisions** means—
-    (a) section OB 41 (ICA debit for loss of shareholder continuity); and
-    (b) section OC 24 (FDPA debit for loss of shareholder continuity)
-    (c)
+  - **credit account continuity provisions** means section OB 41 (ICA debit for loss of shareholder continuity)
   - **credit card repayment insurance** is defined in section EY 30 (Transitional adjustments: life risk)
   - **credit of tax** has the same meaning as
   - **credit transfer notice** means a credit transfer notice issued under section 30C of the Tax Administration Act 1994
@@ -39910,20 +39599,20 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in sections CD 3 to CD 20 (which relate to income from equity) for the purposes of this Act, except for the definition of investment society dividend:
     (b) in the RWT rules, does not include a dividend of the kind listed in section RE 2(5) (Resident passive income) and modified by section RE 2(6), as applicable:
     (c) in the NRWT rules,—
-      (i) includes an FDP credit attached to the dividend; and
+      (i)
       (ii) includes an amount paid to a shareholder that is a company and a person associated with the company paying the amount, if the amount is excluded from dividend treatment generally only as a result of sections CD 26(2)﻿(b) (Capital distributions on liquidation or emigration) and CD 44; and
       (iii) does not include the amount of any imputation credit attached to the dividend:
     (d) in subpart LP (Tax credits for supplementary dividends),—
       (i) includes an amount paid to a shareholder that is a company and a person associated with the company paying the amount, if the amount is excluded from dividend treatment generally only as a result of sections CD 26(2)﻿(b) and CD 44; and
       (ii) does not include any non-cash dividend; and
       (iii) does not include any dividend derived by a life insurer from a company treated as resident in New Zealand because of the Commissioner granting an application under section EY 49 (Non-resident life insurer becoming resident):
-    (e) in sections FM 30, GB 38, OP 58, and OP 64 to OP 68 (which relate to consolidated groups), subpart OE (Branch equivalent tax accounts (BETA)), in the FDP rules and the imputation rules, and in the definitions of benchmark dividend, combined imputation and FDP ratio, company dividend statement, excess credit amount, FDP credit, FDP ratio, foreign dividend, imputation credit, imputation ratio, pay, and shareholder dividend statement, does not include any amount treated as a dividend under section CB 34(5) (Amounts derived by members from mutual associations), GB 23 (Excessive remuneration to relatives), or GB 25 (Close company remuneration to shareholders, directors, or relatives):
-    (f) in sections FM 30, GB 38, OP 58, and OP 64 to OP 68 (which relate to consolidated groups), subpart OE (Branch equivalent tax accounts (BETA)), in the FDP rules and the imputation rules, and in the definitions of benchmark dividend, combined imputation and FDP ratio, company dividend statement, excess credit amount, FDP credit, FDP ratio, imputation credit, imputation ratio, pay, and shareholder dividend statement, does not include an amount treated as a dividend under section GB 1(3) (Arrangements involving dividend stripping)
+    (e) in section GB 38 (When sections GB 35 to GB 37 apply to consolidated groups), subpart OE (Branch equivalent tax accounts (BETA)), the imputation rules, and the definitions of benchmark dividend, company dividend statement, imputation credit, imputation ratio, pay, and shareholder dividend statement, does not include any amount treated as a dividend under section CB 34(5), GB 23, or GB 25 (which relate to mutual associations, family-owned businesses, and close companies):
+    (f) in section GB 38 (When sections GB 35 to GB 37 apply to consolidated groups), subpart OE (Branch equivalent tax accounts (BETA)), the imputation rules, and the definitions of benchmark dividend, company dividend statement, imputation credit, imputation ratio, pay, and shareholder dividend statement, does not include an amount treated as a dividend under section GB 1(3) (Arrangements involving dividend stripping)
   - **dividend treated as interest** means a dividend that is paid in relation to a share issued by a company that is at the time of payment—
     (a) a company not resident in New Zealand; or
     (b) a company whose constitution prohibits all of its income or property from being distributed to a proprietor, member, or shareholder of the company; or
     (c) a company all the income of which is exempt income other than under section CW 9 (Dividend derived by company from overseas) or CW 10 (Dividend within New Zealand wholly-owned group); or
-    (d) a company that, in New Zealand, is engaged solely in the business of life insurance referred to in section EY 8(2)﻿(c) (Meaning of life insurance) and is not a company that maintains an FDP account because of an election made under section OC 1 (General rules for companies with FDP accounts)
+    (d) a company that, in New Zealand, is engaged solely in the business of life insurance referred to in section EY 8(2)﻿(c) (Meaning of life insurance)
   - **donee organisation** means an entity described in section LD 3(2) (Meaning of charitable or other public benefit gift) or listed in schedule 32 (Recipients of charitable or other public benefit gifts)
   - **double tax agreement** is defined in section BH 1 (Double tax agreements)
   - **dwelling** —
@@ -39972,7 +39661,7 @@ In this Act, unless the context requires otherwise,—
     (b) in sections CW 17, CW 17B, CW 17C, CW 17CB, CW 17CC, and CW 18 (which relate to expenditure, reimbursement, and allowances of employees) includes a person to whom section RD 3(2) to (4) (PAYE income payments) applies:
     (c) in the FBT rules, and in the definition of shareholder-employee (paragraph (b)), does not include a person if the only PAYE income payment received or receivable is—
       (i) a payment referred to in section RD 5(1)﻿(b)﻿(iii), (3), (3B), (6)﻿(b), (bb), (bc), and (c) and (7) (Salary or wages):
-      (ii) a schedular payment referred to in schedule 4, parts A and I (Rates of tax for schedular payments) for which the person is liable for income tax under section BB 1 (Imposition of income tax):
+      (ii) a schedular payment referred to in schedule 4, parts A, I, and W (Standard rates of tax for schedular payments) for which the person is liable for income tax under section BB 1 (Imposition of income tax):
     (d) is defined in section DC 15 (Some definitions) for the purposes of sections DC 12 to DC 14 (which relate to share purchase schemes):
     (db) does not include an owner of a look-through company or a person who has a look-through interest for a look-through company, unless the owner or person is a working owner:
     (e) for an employer, means an employee of the employer
@@ -39991,7 +39680,7 @@ In this Act, unless the context requires otherwise,—
       (iv) the Crown:
     (c) in the FBT rules, does not include a person if the only PAYE income payment that they pay or are liable to pay is—
       (i) a payment referred to in section RD 5(1)﻿(b)﻿(iii), (3), (3B), (6)﻿(b), (bb), (bc), and (c), and (7) (Salary or wages):
-      (ii) a schedular payment referred to in schedule 4, parts A and I (Rates of tax for schedular payments):
+      (ii) a schedular payment referred to in schedule 4, parts A, I, and W (Standard rates of tax for schedular payments):
     (d) is defined in section RD 45(6) (Unclassified benefits) for the purposes of that section:
     (db) is defined in section CE 1(3)﻿(a) (Amounts derived in connection with employment) for the purposes of that section and sections CE 1B, and CW 16B to CW 16F (which relate to accommodation provided in connection with employment):
     (e) for an employee, means the employer of the employee
@@ -40076,7 +39765,7 @@ In this Act, unless the context requires otherwise,—
   - **excepted financial arrangement** —
     (a) is defined in section EW 5 (What is an excepted financial arrangement?) for the purposes of this Act except the old financial arrangements rules; and
     (b) is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
-  - **excess credit amount** means an amount calculated under section OC 29(5) (FDP credits and imputation credits attached to dividends) for a dividend with a combined imputation and FDP ratio
+  - **excess credit amount**
   - **excess debt entity** is defined in section FE 4 (Some definitions) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **excess debt outbound company** is defined in section FE 4 (Some definitions) for the purposes of subpart FE (Interest apportionment)
   - **excess expenditure** —
@@ -40086,7 +39775,7 @@ In this Act, unless the context requires otherwise,—
   - **exchange variation** is defined in section CZ 3(5) (Exchange variations on 8 August 1975) for the purposes of that section
   - **excluded ancillary tax** means—
     (a) imputation penalty tax:
-    (b) FDP penalty tax:
+    (b)
     (c) qualifying company election tax
     (d)
     (e)
@@ -40183,20 +39872,16 @@ In this Act, unless the context requires otherwise,—
     (b) because of its area and nature, is capable of being worked as a farming or agricultural business
   - **FBT** has the same meaning as
   - **FBT rules** means the provisions listed in section RD 25 (FBT rules and their application), and has the same meaning
-  - **FDP** means and refers to an amount payable under the FDP rules to the Commissioner in relation to a foreign dividend
-  - **FDP account** means a memorandum account referred to in section OA 2(1)﻿(b) (Memorandum accounts)
-  - **FDP credit** is a credit referred to in section OA 5(3) (Credits)
-  - **FDP debit** is a debit referred to in section OA 6(3) (Debits)
-  - **FDP penalty tax** means tax payable under section 140C of the Tax Administration Act 1994
-  - **FDP ratio** means the ratio set out in section OC 27 (FDP credits attached to dividends)
-  - **FDP reference period** is defined in section OC 35(2) (Meaning of FDP reference period) for the purposes of sections OC 23, and OC 36 to OC 39 (which relate to FDP credits and debits)
-  - **FDP rules** means—
-    (a) section GB 41 (FDPA arrangements for carrying amounts forward):
-    (b) sections LF 1, LF 5, and LF 8 to LF 10 (which relate to tax credits for FDP credits):
-    (c) subpart OC (Foreign dividend payment accounts (FDPA))
-    (d)
-  - **FDPA** means foreign dividend payment account
-  - **FDPA company** means a company that chooses under sections OC 1(1) and OC 3 (which relate to companies with FDP accounts) to maintain an FDP account
+  - **FDP**
+  - **FDP account**
+  - **FDP credit**
+  - **FDP debit**
+  - **FDP penalty tax**
+  - **FDP ratio**
+  - **FDP reference period**
+  - **FDP rules**
+  - **FDPA**
+  - **FDPA company**
   - **feature film** means a film that—
     (a) is produced mainly for exhibition in a cinema; and
     (b) is exhibited in 35mm gauge; and
@@ -40325,7 +40010,7 @@ In this Act, unless the context requires otherwise,—
       (ii) any security provided to the holder, including put or call options over the equity or an amount payable determined by reference to the amount of distributions payable:
       (iii) the variability or lack of variability of the distributions payable
   - **fixed-rate share** ,—
-    (a) in sections CD 22 (Returns of capital: off-market share cancellations), CX 55(4) (Proceeds from disposal of investment shares), GC 8, and GC 14 (which relate to transfer pricing arrangements between associated persons), and in the definitions of excluded fixed rate security and pre-1991 budget security, means a share issued by a company if the only dividend payable on the share, disregarding any dividend payable on the issue of the share, and any imputation credits or FDP credits attached to any dividend, is payable at a rate that—
+    (a) in sections CD 22 (Returns of capital: off-market share cancellations), CX 55(4) (Proceeds from disposal of investment shares), GC 8, and GC 14 (which relate to transfer pricing arrangements between associated persons), and in the definitions of excluded fixed rate security and pre-1991 budget security, means a share issued by a company if the only dividend payable on the share, disregarding any dividend payable on the issue of the share, and any imputation credits attached to any dividend, is payable at a rate that—
       (i) is described in paragraph (b), (c), or (d); and
       (ii) is not set with a purpose and does not have an effect of defeating the intent and application of any provision of this Act whose application is dependent on the measurement of voting and market value interests:
     (b) for the purposes of paragraph (a)﻿(i), the rate is a specific fixed percentage of the amount subscribed for the issue of the share:
@@ -40387,6 +40072,9 @@ In this Act, unless the context requires otherwise,—
   - **foreign investment zero-rate PIE** means a foreign investment PIE that—
     (a) meets the requirements of section HM 19B (Modified rules for foreign investment zero-rate PIEs); and
     (b) chooses under section HM 71B (Choosing to become a foreign investment PIE) to become a foreign investment zero-rate PIE
+  - **foreign LTC holder** means—
+    (a) a non-resident:
+    (b) a trustee of a trust, if the trust has a non-resident settlor, but only to the extent of the proportion of the trust’s ownership interests that is equal to the proportion of settlements, by value, made by non-resident settlors, ignoring settlements arising from services provided for less than market value
   - **foreign non-dividend income** means income that—
     (a) does not have a source in New Zealand; and
     (b) is not a dividend; and
@@ -40431,10 +40119,10 @@ In this Act, unless the context requires otherwise,—
   - **fully credited** is defined in section CD 43(26) (Available subscribed capital (ASC) amount) for the purposes of that section
   - **fully credited for conduit tax relief**
   - **fully imputed** ,—
-    (a) for the purposes of sections CB 26, CB 32C, CD 39, EX 20B, RF 8, RF 10, and schedule 6, table 1B (which relate to distributions by PIEs and certain dividends), means the amount calculated under section RF 9(2) (When dividends fully imputed or fully credited):
+    (a) for the purposes of sections CB 26, CB 32C, CD 39, EX 20B, RF 8, RF 10, and schedule 6, table 1B (which relate to distributions by PIEs and certain dividends), means the amount calculated under section RF 9(2) (When dividends fully imputed):
     (b) for the purposes of sections CW 15, HA 14, HA 16, and HA 19 (which relate to dividends paid by qualifying companies), and RE 2 (Resident passive income) means the amount calculated under section HA 15(2) (Fully imputed distributions)
   - **fund provider** , for a person and a KiwiSaver scheme or a complying superannuation fund of which they are a member, means the trustees of the scheme or fund
-  - **further FDP** means an amount that a company may be liable to pay under sections OC 30 to OC 34 (which relate to further FDP payable by companies)
+  - **further FDP**
   - **further income tax** means an amount of tax by way of further income tax that a company may be liable to pay under—
     (a) sections OB 65 to OB 70 (which relate to further tax payable by a company for a closing debit balance, or when the company stops being an ICA company):
     (b) sections OK 21 or OK 22 (which relate to further tax payable by a Maori authority for a closing debit balance, or when it stops being a Maori authority)
@@ -40471,11 +40159,18 @@ In this Act, unless the context requires otherwise,—
   - **government screen production payment**
   - **government stock** is defined in section DZ 11(3) (Film reimbursement scheme on or before 30 June 2001) for the purposes of that section
   - **Government Superannuation Fund** means the fund established under the Government Superannuation Fund Act 1956
+  - **grandparented charity** means, for an entity, a charity that, before 3 May 2016,—
+    (a) is an owner of the entity:
+    (b) has entered into an arrangement to become an owner of the entity
   - **grandparented consolidated company** , for a company that is part of a consolidated group and for an income year (the ), means a company that before 17 May 2006 chose to form or join the consolidated group, when—
     (a) the current income year is the 2005–06 or 2006–07 income year:
     (b) the company carries on a business, and the total amount of the company’s finance-related deductions allocated to the income year before the current income year (the previous income year) is—
       (i) zero, because no deductions are allocated to the previous income year; or
       (ii) less than 50% of the company’s total deductions allocated to the previous income year, calculated as if the company were not part of the group and determined under section FM 3 (Liability of consolidated groups and group companies)
+  - **grandparented Maori authority** means, for an entity, a Maori authority that, before 3 May 2016,—
+    (a) is an owner of the entity:
+    (b) has entered into an arrangement to become an owner of the entity:
+    (c) is a beneficiary of a trust that is an owner of the entity
   - **grandparented structure** means, for a person, any item on the following list, if the person acquired the item, or entered into a binding contract for the purchase or construction of the item, on or before 30 July 2009:
     (a) barns, including barns (drying):
     (b) carparks (buildings):
@@ -40621,7 +40316,7 @@ In this Act, unless the context requires otherwise,—
   - **income from personal exertion** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
   - **income interest** ,—
     (a) for a foreign company, is defined in sections EX 8 to EX 13 (which relate to the calculation of a person’s income interest):
-    (b) in subparts FE (Interest apportionment on thin capitalisation) and OE (Branch equivalent tax accounts (BETA)), and in the FDP rules and the imputation rules, means an income interest of 10% or greater under the rules in sections EX 14 to EX 17 (which relate to the 10% threshold and variations in the income interest level)
+    (b) in subparts FE (Interest apportionment on thin capitalisation) and OE (Branch equivalent tax accounts (BETA)), and in the imputation rules, means an income interest of 10% or greater under the rules in sections EX 14 to EX 17 (which relate to the 10% threshold and variations in the income interest level)
   - **income statement** means a statement issued by the Commissioner to a natural person that contains the information required by section 80E of the Tax Administration Act 1994
   - **income tax** means income tax imposed under section BB 1 (Imposition of income tax) except to the extent to which it has a different meaning under section YA 2 (Meaning of income tax varied)
   - **income tax liability** —
@@ -40659,10 +40354,12 @@ In this Act, unless the context requires otherwise,—
   - **inform** , for a mode of communication, has the meaning set out in section 14B of the Tax Administration Act 1994
   - **initial period** is defined in section FZ 3(4) (Income of lessor under specified lease) for the purposes of that section
   - **initial provisional tax liability** , means—
-    (a) for a person who is not a natural person, or a person who is a natural person and a trustee of a trust, a provisional tax liability for a tax year in which the person starts to derive income from a taxable activity, when they did not derive income from a taxable activity in any of the 4 previous tax years; and
+    (a) for a person who is not a natural person, or a person who is a natural person and a trustee of a trust, a provisional tax liability for a tax year in which the person starts to derive income from a taxable activity when—
+      (i) they did not derive income from a taxable activity in any of the 4 previous tax years; and
+      (ii) they have residual income tax of $60,000 or more in the tax year; and
     (b) for a person who is a natural person and not a trustee of a trust, a provisional tax liability for a tax year when—
       (i) they did not have residual income tax of more than $2,500 in any of the 4 previous tax years; and
-      (ii) they have residual income tax of $50,000 or more in the tax year; and
+      (ii) they have residual income tax of $60,000 or more in the tax year; and
       (iii) in the tax year, they stopped deriving income from employment and then started to derive income from a taxable activity
   - **initial treatment** is defined in section CU 7(3) (Some definitions)
   - **Inland Revenue Acts** means the Acts listed in the schedule of the Tax Administration Act 1994
@@ -40957,6 +40654,14 @@ In this Act, unless the context requires otherwise,—
     (c) that is not treated under, or for the purposes of, a double tax agreement as not resident in New Zealand; and
     (d) for which there are 5 or fewer look-through counted owners, treating look-through counted owners who are relatives, ignoring any later death or dissolution of marriage, union, or relationship, as 1 person; and
     (e) for which all owners have only look-through interests; and
+    (eb) for which an owner that is a trustee of a trust does not make a distribution to a company that is directly or indirectly a beneficiary of the trust; and
+    (ec) for which no owner is a tax charity, unless the tax charity is a grandparented charity for the entity; and
+    (ed) for which an owner that is a trustee of a trust does not make a distribution of income to a tax charity that is a beneficiary of the trust, unless the tax charity has no control or influence in relation to the operation of the entity and no control or influence in relation to the distributions of the trust; and
+    (ee) for which no owner is a Maori authority, unless the Maori authority is a grandparented Maori authority for the entity; and
+    (ef) for which an owner that is a trustee of a trust does not make a distribution to a Maori authority that is directly or indirectly a beneficiary of the trust, unless the Maori authority is a grandparented Maori authority for the entity; and
+    (eg) that, treating the entity as a company for the purposes of this definition, in the case where more than 50% of the total ownership interests in the entity are held by foreign LTC holders, the entity has a foreign-sourced amount for the income year that is not more than—
+      (i) $10,000; or
+      (ii) if 20% of the entity’s gross income for the year (the 20% gross amount) is greater than $10,000, the 20% gross amount; and
     (f) that is not a flat-owning company; and
     (g) for which an election under section HB 13 (Valid elections) has been received by the Commissioner
   - **look-through company deduction** is defined in section HB 11(12) (Limitation on deductions by persons with interests in look-through companies)
@@ -40965,17 +40670,17 @@ In this Act, unless the context requires otherwise,—
       (i) is not a trustee; and
       (ii) has a look-through interest for the entity:
     (b) is a natural person who has derived, as beneficiary income of a trust, income that arose from a direct or indirect beneficial interest in a look-through interest for the entity for the current income year or 1 of the last 3 income years:
+    (bb) is a natural person who,—
+      (i) on or after the first day of the 2017–18 income year, receives a distribution (the distribution) from a trust, other than a distribution sourced from income derived by the trust before the 2017–18 income year; and
+      (ii) the distribution is received in the current income year, or 1 of the last 3 income years if the relevant year is after the 2016–17 income year; and
+      (iii) the trust has a direct or indirect beneficial interest in a look-through interest for the entity in the current income year, or 1 of the last 3 income years if the relevant year is after the 2016–17 income year:
     (c) is a trustee of a trust that—
-      (i) has a look-through interest for the entity or that has a direct or indirect beneficial interest in a look-through interest for the entity, treating co-trustees as 1 person; and
-      (ii) has not distributed, as beneficiary income, all income that arose from a direct or indirect beneficial interest in a look-through interest for the entity for the current income year and all of the last 3 income years:
+      (i) has a look-through interest for the entity or has a direct or indirect beneficial interest in a look-through interest for the entity, treating co-trustees as 1 person; and
+      (ii) has no beneficiary that is a look-through counted owner:
     (d) is a natural person that has a voting interest or a market value interest in relation to a company that has derived, as beneficiary income from a trust, income that arose from a direct or indirect beneficial interest in a look-through interest for the entity for the current income year or 1 of the last 3 income years
   - **look-through interest** means a person's shares in an entity, or in a look-through company (LTC) treating the look-through company as a company for the purposes of this definition, if—
-    (a) every other shareholder in the entity or LTC has the same rights, proportionally, as the person to vote or participate in any decision-making concerning—
-      (i) the distributions to be made by the entity or LTC; and
-      (ii) the entity's or LTC's constitution; and
-      (iii) varying the capital of the entity or LTC; and
-      (iv) appointing or electing directors of the entity or LTC; and
-    (b) every other shareholder has the same rights, proportionally, as the person in relation to when the entity or LTC distributes its profits or its assets if the entity or LTC acquires, redeems, or cancels its shares, or reduces or returns its share capital, whether on liquidation or not; and
+    (a)
+    (b) every other shareholder has the same rights, proportionally, as the person in relation to a distribution by the entity or LTC; and
     (c) the entity or LTC has only shareholders that are natural persons, or corporate trustees
   - **loss** —
     (a) includes an amount of depreciation loss, except when any of paragraphs (b) to (d) applies:
@@ -41071,9 +40776,9 @@ In this Act, unless the context requires otherwise,—
       (ii) for any other financial arrangement, the date on which the last payment contingent on the financial arrangement is made:
     (b) in the old financial arrangements rules, is defined in section EZ 48 (Definitions)
   - **maximum account balance** is defined in section EK 23 (Other definitions) for the purposes of subpart EK (Environmental restoration accounts)
-  - **maximum deficit debit** is defined in section OC 36 (Meaning of maximum deficit debit) for the purposes of section OC 23 (FDPA breach of FDP ratio by PCA company)
+  - **maximum deficit debit**
   - **maximum payment** is defined in section EK 22 (Meaning of maximum payment) for the purposes of subpart EK (Environmental restoration accounts)
-  - **maximum permitted ratio** , for an imputation credit, an FDP credit, or a Maori authority credit, means a ratio calculated under section OA 18 (Calculation of maximum permitted ratios)
+  - **maximum permitted ratio** , for an imputation credit or a Maori authority credit, means a ratio calculated under section OA 18 (Calculation of maximum permitted ratios)
   - **maximum pooling value** is defined in section EE 65 (Meaning of maximum pooling value)
   - **measurement period** , for an income year of a reporting bank, means 1 of the measurement periods for the income year described in section FE 8 (Measurement dates) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **member** ,—
@@ -41121,6 +40826,7 @@ In this Act, unless the context requires otherwise,—
   - **minimum market value interest** —
     (a) is defined in section IA 5(6) (Restrictions on companies’ loss balances carried forward) for the purposes of Part I (Treatment of tax losses):
     (b) is defined in section LP 4(3) (Continuity rules for carrying credits forward) for the purposes of that section
+  - **minimum QC interest** is defined in section HA 6(5) (Corporate requirements) for the purposes of that section
   - **minimum voting interest** —
     (a) is defined in section IA 5(6) (Restrictions on companies’ loss balances carried forward) for the purposes of Part I (Treatment of tax losses):
     (b) is defined in section LP 4(3) (Continuity rules for carrying credits forward) for the purposes of that section
@@ -41444,7 +41150,7 @@ In this Act, unless the context requires otherwise,—
   - **paid work**
   - **parental entitlement period** means the period of time described in section MD 11(1)﻿(b)﻿(i) (Entitlement to parental tax credit)
   - **parental tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
-  - **Part F activity** is defined in schedule 4, part F, clause 7 (Rates of tax for schedular payments)
+  - **Part F activity** is defined in schedule 4, part F, clause 7 (Standard rates of tax for schedular payments)
   - **partial reinsurance** is defined in section EY 12(3) (Meaning of life reinsurance)
   - **participating share** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
   - **partner** , in relation to a partnership,—
@@ -41485,6 +41191,7 @@ In this Act, unless the context requires otherwise,—
     (h) the amount of an employer's superannuation cash contribution and the amount of ESCT withheld and paid; and
     (i) the amount of an employer's superannuation cash contribution and the amount of tax withheld and paid, other than that described in paragraph (h); and
     (j) other similar information that the Commissioner may require
+  - **PAYE income payment form period** means the payment period for which an employer must provide a PAYE income payment form under section RD 22(2) (Returns for amounts of tax paid to Commissioner)
   - **PAYE intermediary** , for an employer, means—
     (a) a person who—
       (i) is accredited as a PAYE intermediary by the Commissioner under section 15D or 15G of the Tax Administration Act 1994; and
@@ -41807,6 +41514,7 @@ In this Act, unless the context requires otherwise,—
       (ii) group investment funds; or
       (iii) life insurance companies; or
       (iv) superannuation funds
+  - **QC continuity period** is defined in section HA 6(5) (Corporate requirements) for the purposes of that section
   - **QCP transitional process** is defined in section HZ 4B(7) (Qualifying companies: transition into partnership)
   - **QCST transitional process** is defined in section HZ 4D(4) (Qualifying companies: transition into sole traderships)
   - **qualifying asset** is defined in section EZ 28 (Meaning of qualifying asset)
@@ -41874,11 +41582,11 @@ In this Act, unless the context requires otherwise,—
     (b) section HG 11(12) (Limitation on deductions by partners in limited partnerships) for the purposes of that section
   - **recovery** is defined in section CZ 29(5) (Accommodation expenditure: Canterbury earthquake relief) for the purposes of that section
   - **redemption payment** means the amount by which a payment made on the redemption of a commercial bill by the person who issued it is more than the money lent to the person, , in this definition, having the meaning given to it by section 2 of the Bills of Exchange Act 1908
-  - **reduced deficit debit** is defined in section OC 38 (Meaning of reduced deficit debit) for the purposes of section OC 23 (FDPA breach of FDP ratio by PCA company)
+  - **reduced deficit debit**
   - **redundancy payment**
   - **refundable tax credit** means—
     (a) a tax credit under subpart LB (Tax credits for payments, deductions, and family payments):
-    (b) a tax credit under subpart LF (Tax credits for foreign dividend payment (FDP) credits), excluding section LF 8 (Credits for persons who are non-resident or who receive exempt income):
+    (b)
     (bb)
     (c) a tax credit under subpart LO (Tax credits for Maori authority credits):
     (d) a tax credit under sections LS 2, LS 3(2), and LS 4(2) (which relate to multi-rate PIEs and certain of their investors), if the person with the tax credit is not a natural person or is a natural person having the tax credit as a beneficiary of a trust:
@@ -41987,7 +41695,7 @@ In this Act, unless the context requires otherwise,—
       (iiibb) section LB 6B (Tax credits for RLWT):
       (iiic) section LC 13 (Tax credits for independent earners):
       (iv) section LE 1 (Tax credits for imputation credits):
-      (v) section LF 1 (Tax credits for FDP credits):
+      (v)
       (vb)
       (vi) section LJ 2 (Tax credits for foreign income tax):
       (vii) section LK 1 (Tax credits relating to attributed CFC income):
@@ -42068,6 +41776,7 @@ In this Act, unless the context requires otherwise,—
     (h)
     (i) income to which section YD 8 (Apportionment of premiums derived by non-resident general insurers) applies
   - **schedular income tax liability** means the amount determined under section BC 7 (Income tax liability of person with schedular income)
+  - **scheduled overhaul period** , for an aircraft engine and an aircraft and an operator of the aircraft, means the maximum permitted interval between successive aircraft engine overhauls of the aircraft engine that the operator is required to perform
   - **schedular payment** is defined in section RD 8 (Schedular payments)
   - **schedular policyholder base income** means schedular policyholder base income described in section EY 2(3) (Policyholder base)
   - **schedular taxable income** , for a tax year and a person who has schedular income of a particular kind for the tax year, means the amount of taxable income that the person has in calculating the schedular income tax liability for the kind for the tax year
@@ -42163,7 +41872,7 @@ In this Act, unless the context requires otherwise,—
       (i) a holder of a share; and
       (ii) a member of a company, whether the company’s capital is divided into shares or not:
     (b) does not include a holder of a withdrawable share in a building society, except in the definitions of investment society dividend and withdrawable share:
-    (c) in subparts HA (Qualifying companies (QC)) and OE (Branch equivalent tax accounts (BETA)), in the FDP rules and the imputation rules, and in the definition of shareholder dividend statement, includes a sharemilker (as defined in section 2 of the Sharemilking Agreements Act 1937), to the extent to which the sharemilker derives payment for produce transactions directly from a co-operative dairy or milk company
+    (c) in subparts HA (Qualifying companies (QC)) and OE (Branch equivalent tax accounts (BETA)) and the imputation rules, and in the definition of shareholder dividend statement, includes a sharemilker (as defined in section 2 of the Sharemilking Agreements Act 1937), to the extent to which the sharemilker derives payment for produce transactions directly from a co-operative dairy or milk company
   - **shareholder agreement** , for a company,—
     (a) includes an arrangement to which the shareholders of the company are parties, in their capacity as shareholders; but
     (b) does not include an arrangement that is—
@@ -42183,7 +41892,7 @@ In this Act, unless the context requires otherwise,—
     (a) in sections EA 4 (Deferred payment of employment income) and EI 9 (Matching rule for employment income of shareholder-employee), and in the FBT rules and section 177A of the Tax Administration Act 1994, means a person who receives or is entitled to receive salary, wages, or other income to which section RD 3(2) to (4) (PAYE income payments) applies
     (b)
     (c)
-  - **shareholder FDP ratio** is defined in section OC 39 (Meaning of shareholder FDP ratio) for the purposes of sections OC 23 and OC 36 (which relate to FDP credits and debits)
+  - **shareholder FDP ratio**
   - **shareholder portion** is defined in section GB 52 (Arrangements involving residential land: companies’ shares) for the purposes of that section
   - **shareholding** is defined in—
     (a) section EX 52(15) (Fair dividend rate annual method) for the purposes of that section:
@@ -42367,11 +42076,11 @@ In this Act, unless the context requires otherwise,—
   - **tax account with the Commissioner** , for a person, means an account dealing with the person’s transactions with the Commissioner in relation to income tax
   - **tax advantage** , in sections GB 35 and GB 36 (which relate to imputation arrangements to obtain a tax advantage), GB 42 and GB 43 (which relate to Maori authority credit arrangements to obtain a tax advantage) and sections OB 61, OC 28, OD 21, and OK 20 (which relate to memorandum accounts), means—
     (a) the allowance, wholly or partly, of a tax credit under section LE 1 (Tax credits for imputation credits):
-    (b) the allowance, wholly or partly, of a tax credit under section LF 1 (Tax credits for FDP credits):
-    (c) the obtaining of a refund of FDP under section LF 8 (Credits for persons who are non-resident or who receive exempt income):
+    (b)
+    (c)
     (d) the allowance, wholly or partly, of a tax credit under section LO 1 (Tax credits for Maori authority credits):
     (e) the arising of a credit to an imputation credit account under sections OB 4 to OB 29 (which relate to credits arising to imputation credit accounts):
-    (f) the arising of a credit to an FDP account under sections OC 6 to OC 12 (which relate to credits arising to FDP accounts):
+    (f)
     (g) the arising of a credit to a Maori authority credit account under sections OK 2 to OK 9 (which relate to credits arising to Maori authority credit accounts)
   - **tax agent** means a person—
     (a) who prepares the annual returns required to be filed for 10 or more persons; and
@@ -42559,6 +42268,7 @@ In this Act, unless the context requires otherwise,—
     (e) subpart HC (Trusts):
     (f) subpart HZ (Terminating provisions):
     (g) sections LE 4, LE 5, LF 2, LF 3, and LO 2 (which relate to tax credits for beneficiary minors):
+    (gb) the definitions of look-through company and look-through counted owner:
     (h) sections 43B, 59, and 93B of the Tax Administration Act 1994
   - **trustee** ,—
     (a) for a trust,—
@@ -42598,6 +42308,7 @@ In this Act, unless the context requires otherwise,—
   - **unit trust manager** is defined in section CD 16(4) (Certain dividends not increased by tax credits) for the purposes of that section
   - **unlisted trust** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
   - **unlisted widely-held trust** means a widely-held trust the units or interests in which are not quoted on the official list of a recognised exchange
+  - **unpriced aircraft engine** , for a person and an aircraft, means an aircraft engine that the person acquires with the aircraft and that does not have, for the person, a price identified separately from the rest of the aircraft
   - **unwind** is defined in section HR 10 (What happens when vehicle stops being financial institution special purpose vehicle?)
   - **valuation premiums** is defined in section EY 29(7) (Shareholder base other profit: profit participation policies that are new business) for the purposes of that section
   - **variable principal debt instrument** ,—
@@ -42686,9 +42397,9 @@ Tax of other countries
   (b) includes a tax, imposed as a collection mechanism for the foreign tax, that is of substantially the same nature as provisional tax, pay-as-you-earn (PAYE), resident withholding tax (RWT), or non-resident withholding tax (NRWT).
 UFTC rules
 (6)
-FDP, imputation, and BETA rules
+Imputation and BETA rules
 (7) The term income tax, in relation to tax that has been paid by a person, includes provisional tax in—
-  (a) the FDP rules:
+  (a)
   (b) the imputation rules:
   (c) subpart OE (Branch equivalent tax accounts (BETA)).
 
@@ -43079,7 +42790,7 @@ Treatment of balances carried forward into 2001–02 tax year
 Notional single person treated as always existing
 (4) The notional single person is treated as having accumulated and as having always existed in relation to the balances, at the start of the 2001–02 tax year, of the unit trust’s—
   (a) imputation credit account:
-  (b) foreign dividend payment (FDP) account:
+  (b)
   (c) loss balances.
 
 ### YC 13 Corporate spin-outs
@@ -43209,8 +42920,8 @@ Credit account credits arising before 1 April 2002
 (12) Subsection (13) applies if—
   (a) an insurer undergoes demutualisation; and
   (b) the insurer or another company that is part of the same group of companies has, at the time of the commencement of the process of demutualisation, a credit that arose before 1 April 1992 in—
-    (i) its imputation credit account:
-    (ii) its FDP account.
+    (i) its imputation credit account.
+    (ii)
     (iii)
 Credit treated as arising on 1 April 1992
 (13) Despite section OZ 4 (Terminating modifications to debits for loss of shareholder continuity), for the purposes of Part O (Memorandum accounts), with effect from the date on which the insurer stops being a special corporate entity on the demutualisation, the credit is treated as having first arisen in the account on 1 April 1992 and not when it actually arose.
@@ -43228,7 +42939,7 @@ Loss balance continuity
   (a) holding, immediately after the changeover, the ownership interests in the subsidiary that the initial parent held immediately before the changeover; and
   (b) having held the ownership interests for the period for which the ownership interests were treated as held by the initial parent.
 Credit account continuity
-(3) If the initial owners hold a total of 66% or more of the ownership interests in the new parent immediately after the changeover, the new parent is treated for the purposes of subparts OB, OC, and OP (which relate to imputation credit accounts and FDP credit accounts) as—
+(3) If the initial owners hold a total of 66% or more of the ownership interests in the new parent immediately after the changeover, the new parent is treated for the purposes of subparts OB and OP (which relate to imputation credit accounts) as—
   (a) holding, immediately after the changeover, the ownership interests in the subsidiary that the initial parent held immediately before the changeover; and
   (b) having held the ownership interests for the period for which the ownership interests were treated as held by the initial parent.
 When subsection (5) applies
@@ -43924,19 +43635,19 @@ If an employee has notified their employer that the employee's tax code is SB un
 | 21–22 mths | 11 | 3rd, 5th, 7th, 9th, 11th, 13th, 15th, 17th, 19th, 21st months, month following final month |
 | 23–24 mths | 12 | 3rd, 5th, 7th, 9th, 11th, 13th, 15th, 17th, 19th, 21st, 23rd months, month following final month |
 
-## Schedule 4 — Rates of tax for schedular payments
+## Schedule 4 — Standard rates of tax for schedular payments
 
 ### 1
-A contract payment that relates to a non-resident contractor’s contract activity or service has a 0.15 rate of tax for each dollar of the payment, if the payment is—
+A contract payment that relates to a non-resident contractor’s contract activity or service has a standard rate of tax of 0.15 for each dollar of the payment, if the payment is—
 (a) to the non-resident contractor:
 (b) to an agent of the non-resident contractor:
 (c) to a person acting on behalf of the non-resident contractor.
 
 ### 1
-A payment of a company director’s fee, or an examiner’s fee, or an honorarium, has a 0.33 rate of tax for each dollar of the payment.
+A payment of a company director’s fee, or an examiner’s fee, or an honorarium, has a standard rate of tax of 0.33 for each dollar of the payment.
 
 ### 1B
-A payment has a 0.33 rate of tax for each dollar of the payment, if it is for work or services performed by—
+A payment has a standard rate of tax of 0.33 for each dollar of the payment, if it is for work or services performed by—
 (a) a local government elected representative:
 (b) an official of a community organisation, society, or club:
 (c) a chair or member of a committee, board, or council:
@@ -43950,7 +43661,7 @@ In this part, examiner’s fee means fees or remuneration for work or services t
 (d) examining a candidate’s practical work or performance.
 
 ### 1
-A payment for work or services referred to in the following paragraphs has a 0.15 rate of tax for each dollar of the payment:
+A payment for work or services referred to in the following paragraphs has a standard rate of tax of 0.15 for each dollar of the payment:
 (a) farming contract work:
 (b) cultivation contract work:
 (c) shearing:
@@ -43979,10 +43690,10 @@ In this part,—
   (g) threshing, chaffcutting, hay making, hay baling, or harvesting or gathering crops
 
 ### 1
-A payment for commercial cleaning or maintenance work has a 0.20 rate of tax for each dollar of the payment.
+A payment for commercial cleaning or maintenance work has a standard rate of tax of 0.20 for each dollar of the payment.
 
 ### 2
-A payment for work or services referred to in the following paragraphs has a 0.15 rate of tax for each dollar of the payment:
+A payment for work or services referred to in the following paragraphs has a standard rate of tax of 0.15 for each dollar of the payment:
 (a) mail delivery or collection:
 (b) transporting school children:
 (c) milk delivery:
@@ -44004,7 +43715,7 @@ In this part,—
   (c) is not premises that are used exclusively for residential purposes.
 
 ### 1
-A payment for labour-only building work, or for labour-only fishing boat work, has a 0.20 rate of tax for each dollar of the payment.
+A payment for labour-only building work, or for labour-only fishing boat work, has a standard rate of tax of 0.20 for each dollar of the payment.
 
 ### 2
 In this part,—
@@ -44016,28 +43727,28 @@ In this part,—
   (d) work or services connected with installing fibrous plaster, wallboard, insulating material, interior tiles, interior lining, floor tiles, carpet, linoleum, or floor coverings.
 
 ### 1
-A payment of a media contribution fee, or of a promotional appearance fee, has a 0.25 rate of tax for each dollar of the payment.
+A payment of a media contribution fee, or of a promotional appearance fee, has a standard rate of tax of 0.25 for each dollar of the payment.
 
 ### 2
-A payment that relates to media production work has a 0.20 rate of tax for each dollar of the payment, if part A of this schedule, and clauses 4 and 5 of this part do not apply to the payment.
+A payment that relates to media production work has a standard rate of tax of 0.20 for each dollar of the payment, if part A of this schedule, and clauses 4 and 5 of this part do not apply to the payment.
 
 ### 3
-A payment of a modelling fee has a 0.20 rate of tax for each dollar of the payment.
+A payment of a modelling fee has a standard rate of tax of 0.20 for each dollar of the payment.
 
 ### 4
-A payment for services connected with a non-resident entertainer providing or performing a Part F activity has a 0.20 rate of tax for each dollar of the payment, if the payment is—
+A payment for services connected with a non-resident entertainer providing or performing a Part F activity has a standard rate of tax of 0.20 for each dollar of the payment, if the payment is—
 (a) to the non-resident entertainer:
 (b) to an agent of the non-resident entertainer:
 (c) to a person acting on behalf of the non-resident entertainer.
 
 ### 5
-A payment for services connected with a New Zealand resident providing or performing a Part F activity has a 0.20 rate for each dollar of the payment, if clause 6 does not apply to the payment and it is—
+A payment for services connected with a New Zealand resident providing or performing a Part F activity has a standard rate of tax of 0.20 for each dollar of the payment, if clause 6 does not apply to the payment and it is—
 (a) to the New Zealand resident:
 (b) to an agent of the resident:
 (c) to a person acting on behalf of the resident.
 
 ### 6
-A payment for services connected with a New Zealand resident providing or performing a Part F activity has a 0.15 rate for each dollar of the payment, if the payment relates to shares of riding or driving fees and it is—
+A payment for services connected with a New Zealand resident providing or performing a Part F activity has a standard rate of tax of 0.15 for each dollar of the payment, if the payment relates to shares of riding or driving fees and it is—
 (a) to the New Zealand resident, and the resident is an apprentice jockey or an apprentice driver:
 (b) to an agent of the apprentice jockey or apprentice driver:
 (c) to a person acting on behalf of the apprentice jockey or apprentice driver.
@@ -44063,13 +43774,13 @@ In this part,—
 - **promotional appearance fee** means fees or remuneration that relate to a personal attendance for exhibiting or demonstrating goods
 
 ### 1
-A payment of commission or remuneration to an insurance agent or sub-agent, or to a salesperson has a 0.20 rate of tax for each dollar of the payment.
+A payment of commission or remuneration to an insurance agent or sub-agent, or to a salesperson has a standard rate of tax of 0.20 for each dollar of the payment.
 
 ### 1
-A payment that relates to a purchase of schedular natural products has a 0.25 rate of tax for each dollar of the payment, if the payment is made to the seller and it is not an exempt natural products payment.
+A payment that relates to a purchase of schedular natural products has a standard rate of tax of 0.25 for each dollar of the payment, if the payment is made to the seller and it is not an exempt natural products payment.
 
 ### 2
-A payment that relates to a purchase of game has a 0.25 rate of tax for each dollar of the payment, if the payment is made to the seller.
+A payment that relates to a purchase of game has a standard rate of tax of 0.25 for each dollar of the payment, if the payment is made to the seller.
 
 ### 3
 In this part,—
@@ -44090,7 +43801,18 @@ In this part,—
   (d) sphagnum moss.
 
 ### 1
-A personal service rehabilitation payment for a person under the Accident Compensation Act 2001 has a 0.105 rate of tax for each dollar of the payment.
+A personal service rehabilitation payment for a person under the Accident Compensation Act 2001 has a standard rate of tax of 0.105 for each dollar of the payment.
+
+### 1
+A payment by a person (the payer) to another person (the payee) has a standard rate of tax of 0.20 for each dollar of the payment if—
+(a) 1 of the payer’s main activities is the business of arranging for a person or persons to perform work or services directly for clients of the payer; and
+(b) the payment is made under an arrangement the performance of which, in whole or in part, involves the performance of work or services by the payee directly for a client of the payer, or directly for a client of another person; and
+(c) in the case of the payer and the payee being associated persons described in section YB 2 or YB 3, the payer has chosen to apply this part to the payment.
+
+### 1
+A payment to a person is treated as a schedular payment (a voluntary schedular payment) and has a standard rate of tax of 0.20 for each dollar of the payment if—
+(a) there is no obligation to withhold an amount from the payment under this Act or under the Tax Administration Act 1994; and
+(b) the payer and the payee have agreed that the payment is a voluntary schedular payment, and have recorded their agreement in a document.
 
 ## Schedule 5 — Fringe benefit values for motor vehicles
 
