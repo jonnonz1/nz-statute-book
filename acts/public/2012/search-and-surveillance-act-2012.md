@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2017-03-13_
+_Consolidation as at 2017-04-01_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3597,9 +3597,9 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 118(1) | Person exercising power of search conferred by section 111 of Biosecurity Act 1993 may seize things | Subparts 1, 5, 6, 7, 9, and 10 |
 | Boxing and Wrestling Act 1981 | 9 | Constable may obtain and execute search warrant to obtain evidence of offence against Boxing and Wrestling Act 1981 | Subparts 1, 3, 4, 7, 9, and 10 |
 | Chemical Weapons (Prohibition) Act 1996 | 23 | Constable or appointed person may apply for search warrant | Subparts 3 and 4 |
-| Children, Young Persons, and Their Families Act 1989 | 39(1) and (3) | Constable or social worker may obtain and execute place of safety warrant authorising search for, and removal of, child at risk of harm | Sections 99, 101, and 105 |
-|  | 40(1) and (4) | On application for order that child is in need of care and protection, constable or social worker may obtain and execute search warrant authorising search for and removal of child | Sections 99, 101, and 105 |
-|  | 386(1) | If child or young person absconds, constable or social worker may obtain and execute search warrant authorising search for, and removal and return of, child or young person | Sections 99, 101, and 105 |
+| Children, Young Persons, and Their Families Act 1989 | 39(1) and (3) | Constable or chief executive may obtain and execute place of safety warrant authorising search for, and removal of, child at risk of harm | Sections 99, 101, and 105 |
+|  | 40(1) and (4) | On application for order that child is in need of care and protection, constable or chief executive may obtain and execute search warrant authorising search for and removal of child | Sections 99, 101, and 105 |
+|  | 386(1) | If child or young person absconds, constable or chief executive may obtain and execute search warrant authorising search for, and removal and return of, child or young person | Sections 99, 101, and 105 |
 | Civil Aviation Act 1990 | 24(4) | Authorised person may obtain and execute warrant to enter dwellinghouse or marae for purposes of exercising powers of inspection conferred on Director of Civil Aviation by Civil Aviation Act 1990 | Subparts 1, 3, 4, 5, 7, 9, and 10 (except that sections 118 and 119 apply to constables only) |
 | Commerce Act 1986 | 98A(2) | Authorised employee of Commerce Commission may obtain and execute warrant to search for evidence of offence against most provisions of Commerce Act 1986 | All (except sections 118 and 119) |
 | Commodity Levies Act 1990 | 19(1) | Constable or designated person may obtain and execute warrant to enter and search for evidence of offence against Commodity Levies Act 1990 | All (except that sections 118 and 119 apply to constables only) |
