@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2016-06-02_
+_Consolidation as at 2017-04-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -141,7 +141,8 @@ This Act is the KiwiSaver Act 2006.
       (iv) for the purposes of contributions to complying superannuation funds, bonuses, commissions, and other amounts not included in an employee’s gross base salary or wages by the relevant complying superannuation fund; and
       (v) for the purposes of subpart 3A of Part 3 of this Act,—
         (A) salary or wages described in section RD 5(1)﻿(b)﻿(iii), (6)﻿(bd) to (bg), and (7) of the Income Tax Act 2007; and
-        (B) payments of weekly compensation, as defined in the Accident Compensation Act 2001, made by an employer, unless the employer chooses to not exclude the payments from this definition of salary or wages:
+        (B) payments of weekly compensation, as defined in the Accident Compensation Act 2001, made by an employer, unless the employer chooses to not exclude the payments from this definition of salary or wages; and
+      (vi) the amount of a benefit that an employee receives under section CE 2(2) or (4) of the Income Tax Act 2007 under a share purchase agreement when the amount is treated as an amount of extra pay of the employee:
     (b) it includes extra pay (as defined in section YA 1 of the Income Tax Act 2007), unless—
       (i) otherwise excluded under paragraph (a) of this definition; or
       (ii) the amount is a redundancy payment for the purposes of the Income Tax Act 2007
