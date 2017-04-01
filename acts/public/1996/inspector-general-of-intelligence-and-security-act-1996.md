@@ -1,5 +1,5 @@
 # Inspector-General of Intelligence and Security Act 1996
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2017-04-01_
 
 > An Act to increase the level of oversight and review of intelligence and security agencies by providing for the appointment of an Inspector-General of Intelligence and Security
 
@@ -154,43 +154,22 @@ Notwithstanding any other provision of this Act, but subject to section 8 of the
 **Advisory panel**
 
 ### 15A Advisory panel established
-This section establishes an advisory panel.
+[Repealed]
 
 ### 15B Function of advisory panel
-(1) The function of the advisory panel is to provide advice to the Inspector-General.
-(2) The advisory panel may provide advice—
-  (a) on request from the Inspector-General; or
-  (b) on its own initiative.
-(3) To assist the advisory panel to perform its function,—
-  (a) the advisory panel may ask the Inspector-General to provide information; and
-  (b) the Inspector-General may provide information to the advisory panel, whether in response to a request under paragraph (a) or on his or her own initiative.
-(4) The advisory panel may make a report to the Prime Minister on any matter relating to intelligence and security, if the advisory panel considers that the matter should be drawn to the attention of the Prime Minister.
+[Repealed]
 
 ### 15C Membership of advisory panel
-(1) The advisory panel consists of—
-  (a) 2 members appointed under subsection (2), one of whom must also be appointed as the chairperson of the panel; and
-  (b) the Inspector-General.
-(2) The members and chairperson appointed under this subsection are appointed by the Governor-General on the recommendation of the Prime Minister after consulting the Intelligence and Security Committee.
-(3) One of the members appointed under subsection (2) must be a lawyer within the meaning of the Lawyers and Conveyancers Act 2006 who has held a practising certificate as a barrister or barrister and solicitor for not less than 7 years.
-(4) Both of the members appointed under subsection (2) must have an appropriate security clearance.
-(5) A member appointed under subsection (2)—
-  (a) holds office for a term not exceeding 5 years; and
-  (b) may from time to time be reappointed; and
-  (c) may at any time resign office by notice in writing to the Prime Minister; and
-  (d) may be removed from office by notice in writing from the Prime Minister for misconduct, inability to perform the functions of office, or neglect of duty.
+[Repealed]
 
 ### 15D Remuneration of appointed members of advisory panel
-(1) A member of the advisory panel appointed under section 15C(1)﻿(a) is entitled—
-  (a) to receive remuneration not within paragraph (b) for services as a member at a rate and of a kind determined by the Minister in accordance with the fees framework; and
-  (b) in accordance with the fees framework, to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member.
-(2) For the purposes of subsection (1), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
+[Repealed]
 
 ### 15E Clerical and secretarial services
-(1) The Department of the Prime Minister and Cabinet is responsible for providing to the advisory panel the clerical and secretarial services necessary for the advisory panel to perform its function effectively and efficiently.
-(2) A person providing clerical and secretarial services under subsection (1) must have an appropriate security clearance.
+[Repealed]
 
 ### 15F Advisory panel to determine own procedure
-The advisory panel may determine its own procedure.
+[Repealed]
 
 **Complaints**
 
