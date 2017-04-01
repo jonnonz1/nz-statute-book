@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-04-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -38,6 +38,9 @@ In general terms, this Act is arranged as follows:
 
 ### 5 Act to bind the Crown
 This Act binds the Crown.
+
+### 5A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 6 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -334,6 +337,7 @@ Acute treatment, in relation to a claimant, means—
   (aa) any parental leave payments paid under Part 7A of the Parental Leave and Employment Protection Act 1987; or
   (b) any student allowance established in accordance with regulations made under section 303 of the Education Act 1989; or
   (c) any amount allocated to a person or persons, other than the person who is the employee in question, under sections CD 11, CW 63, DB 58, GB 23, and GB 24 of the Income Tax Act 2007; or
+  (cb) any benefit arising from a share purchase agreement under section CE 2(2) or (4) of the Income Tax Act 2007 when the employer makes an election under section RD 7B of that Act to withhold and pay tax in relation to the benefit; or
   (d) any amount deemed to be a dividend paid by any person, to the person who is the employee in question, under section GB 25 of the Income Tax Act 2007; or
   (e) any redundancy payment; or
   (f) any retiring allowance; or
@@ -378,6 +382,7 @@ The Corporation must treat the earnings of a private domestic worker as earnings
 (6) The dividend of the person as a shareholder of the company is determined by the Corporation in the following way:
   (a) first, determine the total amount the company pays or provides to the person in any capacity in the tax year; and
   (b) second, deduct the subsection (3) amount from that total amount, and the result is the dividend of the person as a shareholder of the company and is not earnings of the person.
+(7) For the purposes of this section, earnings as a shareholder-employee do not include a benefit arising under section CE 2(2) or (4) of the Income Tax Act 2007 in relation to which an employer has made an election under section RD 7B to withhold an amount of tax.
 
 ### 16 New Zealand
 (1) New Zealand means—
@@ -2201,22 +2206,18 @@ Nothing in this Act requires a self-employed person to pay a Work Account levy o
 The Corporation must include in its annual report under section 150 of the Crown Entities Act 2004 a report on the effectiveness of workplace incentive programmes in reducing the incidence and impact of work-related personal injuries.
 
 ### 175 Risk adjustment of Work Account levies
-(1) A Work Account levy determined for the purposes of sections 168, 168B, or 211 may be adjusted down, in accordance with regulations made under this Act, for a particular employer or a particular self-employed person on the basis of—
-  (a) an audit of the employer's or the self-employed person's safety management practices; or
-  (b) an assessment of the self-employed person's safety management capabilities (including, for example, practices and qualifications).
-(2) To avoid doubt, regulations may limit the application of subsection (1) to—
-  (a) any 1 or more industries or risk classes:
-  (b) particular types of employers or self-employed persons classified in the same industry or risk class.
+(1)
+(2)
 (3) A Work Account levy determined for the purposes of section 168 may be adjusted up, in accordance with regulations made under this Act, for a particular employer on the basis of an audit of the employer's safety management practices.
-(4) An audit of an employer's or a self-employed person's safety management practices must, and an assessment of a self-employed person's safety management capabilities may, be conducted in accordance with an audit tool or audit tools that—
+(4) An audit of an employer's safety management practices must be conducted in accordance with an audit tool or audit tools that—
   (a) are approved by the Minister; and
   (b) measure safety management practice or safety management capability, as the case may be, against independent New Zealand or foreign standards.
 (5) If any upward adjustment of levies under subsection (3) is to occur for a particular employer, sections 178 to 180 apply.
 (6) Adjustments to levies may be reassessed on the basis of any new audits or assessments.
-(7) Regulations made for the purposes of subsection (1)﻿(a) or (3) must, and regulations made for the purposes of subsection (1)﻿(b) may, provide for the following matters:
+(7) Regulations made for the purposes of subsection (3) must provide for the following matters:
   (a) the level or levels of levy adjustment for different levels of compliance assessed by the audit tool or tools:
   (b) the basis and conditions on which, and periods for which, Work Account levies may be adjusted:
-  (c) the frequency of, and circumstances under which, there may be additional audits or assessments of an employer's or a self-employed person's safety management practices or capabilities:
+  (c) the frequency of audits of an employer's safety management practices and the circumstances under which additional audits may be required:
   (d) the order in which applications for audits or assessments are to be dealt with:
   (e) the approval of auditors by the Corporation.
 (8) Section 331 (which prescribes consultation requirements for regulations relating to levy setting) applies in relation to the making of regulations for the purposes of this section as if the regulations prescribed rates of levies.
@@ -4371,6 +4372,30 @@ From the commencement of this Act,—
 ### 401 References to premiums under former Act include levies under this Act
 (1) Unless the context otherwise requires, all references in any enactment or document to premiums or levies paid or payable under any former Act must be read as including a reference to levies paid or payable under this Act.
 (2) Unless the context otherwise requires, all references in any enactment or document to levies paid or payable under this Act must be read as including a reference to premiums or levies paid or payable under any former Act.
+
+## Schedule 1AA — Transitional and savings provisions relating to amendments to this Act made by Accident Compensation Amendment Act 2015
+
+### 1 Transitional provision relating to risk adjustment of Work Account levies
+(1) This clause applies to any employer or self-employed person if the Work Account levy payable by that person immediately before the commencement of this schedule has been adjusted down in accordance with regulations made for the purposes of section 175(1).
+(2) A person to whom this clause applies continues to be eligible to pay a Work Account levy at an adjusted rate until—
+  (a) the person gives notice in writing to the Corporation that the person no longer wishes to pay the levy at the adjusted rate; or
+  (b) the person's adjusted levy is cancelled or discontinued in accordance with the regulations; or
+  (c) the period to which the adjustment relates expires.
+(3) For the purposes of subclause (2),—
+  (a) section 175, including the power to make regulations, continues to apply as if it had not been amended by the Accident Compensation Amendment Act 2015; and
+  (b) the regulations in force immediately before the commencement of this schedule in accordance with which the person's rate was adjusted, or the person's adjusted rate was continued, continue to apply until—
+    (i) they are replaced by regulations made under paragraph (a); or
+    (ii) this clause is repealed.
+(4) This clause is repealed on 30 June 2019.
+
+### 2 Transitional provision relating to Accredited Employers Programme
+(1) This clause applies to any employer who—
+  (a) is an accredited employer under the accredited employers programme framework established by the Minister under section 183; and
+  (b) is entitled to a safety management practices discount set out in regulations made under section 175.
+(2) For the purposes of calculating the premium payable by a person to whom this clause applies, the regulations made under section 175 that were in force immediately before the commencement of this schedule, and any replacement regulations made under clause 1(3)﻿(a), continue to apply until—
+  (a) the accredited employers programme framework is amended or revoked; or
+  (b) this clause is repealed.
+(3) This clause is repealed on 30 June 2019.
 
 ## Schedule 1 — Entitlements
 
