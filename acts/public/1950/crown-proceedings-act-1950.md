@@ -1,5 +1,5 @@
 # Crown Proceedings Act 1950
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-04-01_
 
 > An Act to consolidate and amend the law relating to the civil liabilities and rights of the Crown and officers of the Crown, and to civil proceedings by and against the Crown
 
@@ -61,6 +61,7 @@ This Act is subject to the Limitation Act 2010, and to any other enactment that�
 (4) Except as provided in subsection (4A) or (4B), any enactment which negatives or limits the amount of the liability of any government department or officer of the Crown in respect of any tort committed by that department or officer shall, in the case of proceedings against the Crown under this section in respect of a tort committed by that department or officer, apply in relation to the Crown as it would have applied in relation to that department or officer if the proceedings against the Crown had been proceedings against that department or officer.
 (4A) Despite certain Crown servants being immune from liability under section 86 of the State Sector Act 1988,—
   (a) a court may find the Crown itself liable in tort in respect of the actions or omissions of those servants; and
+  (ab) in relation to delegates performing functions or exercising powers of the chief executive under the Children, Young Persons, and Their Families Act 1989, a court may find the Crown liable in tort for the actions or omissions of those delegates; and
   (b) for the purpose of determining whether the Crown is so liable, the court must disregard the immunity in section 86.
 (4B) Despite specified persons being immune from liability under section 351 of the Food Act 2014,—
   (a) a court may find the Crown itself liable in tort in respect of the actions or omissions of those persons; and
