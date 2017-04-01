@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2017-03-30_
+_Consolidation as at 2017-04-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -852,7 +852,7 @@ This Act shall bind the Crown.
     (iii) the arrangement for the supply of the services is made before the goods are entered; and
     (iv) the services are reasonably expected to be completed within the period of 28 days that begins on the date of entry of the goods; or
   (d) the services are the insuring, or the arranging of the insurance, or the arranging of the transport of passengers or goods to which any one of paragraphs (a) to (cb) applies; or
-  (e) the services are supplied directly in connection with land situated outside New Zealand or any improvement to the land; or
+  (e) the services are supplied directly in connection with land situated outside New Zealand, or with an improvement to such land, or are supplied in connection with such land or improvement and are intended to enable or assist a change in the physical condition, or ownership or other legal status, of the land or improvement; or
   (f) the services are supplied directly in connection with moveable personal property, other than choses in action, situated outside New Zealand when the services are performed; or
   (g) the services are supplied to overseas postal organisations for the delivery in New Zealand of postal articles mailed outside New Zealand; or
   (h) the services are supplied directly in connection with goods supplied from outside New Zealand and whose destination is outside New Zealand, including stores for craft, only if the goods are not removed from the ship or aircraft in which they arrived while the ship or aircraft is in New Zealand; or
@@ -866,10 +866,9 @@ This Act shall bind the Crown.
     (ii) are not remote services supplied to a New Zealand resident who is not a registered person; or
   (jc) the services are a supply of services to which section 60(1C)﻿(a) applies, being a supply from an underlying supplier to an operator of a marketplace; or
   (k) subject to subsection (2), the services are supplied to a person who is a non-resident and who is outside New Zealand at the time the services are performed, not being services which are—
-    (i) supplied directly in connection with—
-      (A) land situated in New Zealand or any improvement to the land; or
-      (B) moveable personal property, other than choses in action or goods to which paragraph (h) or (i) applies, situated in New Zealand at the time the services are performed; or
-    (ii) the acceptance of an obligation to refrain from carrying on a taxable activity, to the extent that the activity would have occurred within New Zealand; or
+    (i) supplied directly in connection with land situated in New Zealand, or with an improvement to such land, or are supplied in connection with such land or improvement and are intended to enable or assist a change in the physical condition, or ownership or other legal status, of the land or improvement; or
+    (ii) supplied directly in connection with moveable personal property, other than choses in action or goods to which paragraph (h) or (i) applies, situated in New Zealand at the time the services are performed; or
+    (iii) the acceptance of an obligation to refrain from carrying on a taxable activity, to the extent to which the activity would have occurred within New Zealand; or
   (l) subject to subsection (2), the services are the supply of information to a person who is a non-resident and who is outside New Zealand at the time the services are performed, if the services are supplied directly in connection with moveable personal property situated in New Zealand at the time the services are performed; or
   (m) the services are supplied—
     (i) directly in connection with goods, the supply of which was subject to any one of section 11(1)﻿(a) to (eb); and
@@ -1041,7 +1040,7 @@ A supply of services that is chargeable with tax under section 8 must be charged
     (ii) a substantial and permanent reduction in the size or scale of a taxable activity carried on by the person:
     (iii) the replacement of plant or a capital asset used in a taxable activity carried on by the person:
   (c) the Governor-General, from time to time, may declare by Order in Council another amount as the limit applying to the value of a person's taxable supplies.
-(6) Despite subsections (1) to (4), the taxable period of a non-resident supplier whose only supplies are supplies of remote services to which section 8(3)﻿(c) applies, is a 6-month period. However, the supplier may apply to the Commissioner to pay on the basis of a 2-month period.
+(6) Despite subsections (1) to (4), the taxable period of a non-resident supplier whose only supplies are supplies of remote services to which section 8(3)﻿(c) applies, is a 3-month period, based on a first quarter ending on 31 March.
 
 ### 15A Change in registered person's taxable period
 [Repealed]
@@ -1246,6 +1245,7 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
   (h) any amount calculated in accordance with section 20C in relation to supplies of financial services in respect of that taxable period; and
   (hb) an amount calculated in accordance with section 20G in relation to the supply of an asset during the taxable period; and
   (hc) an amount calculated in accordance with section 21HC in relation to a supply acquired in the taxable period by a unit title body corporate of which the registered person is a member; and
+  (hd) the amount given by section 20H in relation to the supply during the taxable period of certain financial services:
   (i) any amount calculated in accordance with section 26; and
   provided that a registered person who is entitled to deduct an amount from the output tax attributable to a taxable period may deduct that amount from the output tax attributable to a later taxable period if the amount has not previously been deducted from the output tax of the registered person and—
     (a) the later tax period begins on or before the date that is the second anniversary of the earlier of the following:
@@ -1396,6 +1396,14 @@ If a person makes a return that includes a figure for the value of supplies char
 (6) For the purposes of subsection (5), all expenditure incurred in relation to the use of the asset is aggregated and included in the relevant adjustment unless section 21(2)﻿(c) or (d) applies to the aggregated amount.
 (7) Sections 8 and 21F apply to the disposal of the asset, treating the disposal as in the course or furtherance of a taxable activity.
 (8) For the purposes of this section, a registered person does not include a widely-held company, as that term is defined in section YA 1 of the Income Tax Act 2007.
+
+### 20H Goods and services tax incurred in making financial services for raising funds
+(1) A registered person who principally makes taxable supplies and who makes supplies of financial services in the course of an activity of raising funds that are intended for use by the registered person for expenditure in a taxable activity has a deduction under section 20(3)﻿(hc) of input tax for the supplies of financial services, if the financial services—
+  (a) are not referred to in section 11A(1)﻿(q) and (r); and
+  (b) do not give rise to a deduction under section 20(3) for the registered person in the absence of this section; and
+  (c) are the issue or allotment of a debt security or equity security, the renewal of a debt security or equity security, the payment of an amount of interest, principal, or dividend for a debt security or equity security, or the provision or variation of a guarantee of the performance of obligations in the issue, allotment, or renewal, of a debt security or equity security; and
+  (d) fail to raise the funds or do raise funds that are used by the registered person for expenditure in the taxable activity.
+(2) A non-resident person who is registered under section 54B does not have a deduction of input tax under subsection (1).
 
 ### 21 Adjustments for apportioned supplies
 (1) A registered person must ascertain at the end of an adjustment period whether an adjustment is required to be made for any percentage difference in a supply of goods or services for the period in relation to the actual use of those goods or services for making taxable supplies.
