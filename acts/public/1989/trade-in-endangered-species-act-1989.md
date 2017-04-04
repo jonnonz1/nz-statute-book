@@ -1,5 +1,5 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2017-02-24_
+_Consolidation as at 2017-04-04_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
@@ -226,7 +226,7 @@ For the purposes of this Act, where the holder of a permit or certificate undert
   (b) before or at the time of importation or introduction, in the case of importing or introducing from the sea—
 
 ### 27 Control of arrivals from overseas
-(1) Every person shall, on arriving in New Zealand, permit an Customs officer or any other Endangered Species Officer to inspect and examine any specimen of an endangered, threatened, or exploited species in that person's possession as part of that person's personal effects or baggage, and shall afford to that officer all reasonable facilities and assistance in carrying out any such inspection and examination, and shall produce any permit or certificate granted under this Part or Part 2 in respect of that specimen.
+(1) Every person shall, on arriving in New Zealand, permit a Customs officer or any other Endangered Species Officer to inspect and examine any specimen of an endangered, threatened, or exploited species in that person's possession as part of that person's personal effects or baggage, and shall afford to that officer all reasonable facilities and assistance in carrying out any such inspection and examination, and shall produce any permit or certificate granted under this Part or Part 2 in respect of that specimen.
 (2) Subject to section 30, where any person is found to be in possession of any specimen of an endangered, threatened, or exploited species, or a specimen that an Endangered Species Officer has reasonable cause to believe or suspect may be of an endangered, threatened, or exploited species, and has not been granted a permit or certificate in respect of that specimen under this Part or Part 2, that person shall—where that person has voluntarily disclosed the presence of the specimen to the officer as soon as practicable after the specimen arrives in New Zealand, for the purposes of this Act, he or she shall be taken not to have imported that specimen.
   (a) surrender the specimen to an officer; and
   (b) state to the officer his or her full name; and
@@ -429,7 +429,7 @@ Subject to subsection (1) of section 39 and subsections (1) and (2) of section 4
 
 ### 43 Duty of officers and employees of postal operators
 (1) It is the duty of all officers and employees of every postal operator within the meaning of the Postal Services Act 1998 to assist in carrying out the provisions of this Part and to prevent the import into and export from New Zealand of any specimen of an endangered, threatened, or exploited species otherwise than in accordance with this Act.
-(2) Where any postal article (within the meaning of the Postal Services Act 1998) is delivered, pursuant to section 10(2)﻿(c) of that Act, to the Director-General or to such other person as the Director-General has directed, the provisions of this Act, so far as applicable and with all necessary modifications, apply as if the postal article had been seized, pursuant to subsection (2) or subsection (3) of section 39 of this Act (whichever subsection is applicable), on the date on that delivery.
+(2) Where any postal article (within the meaning of the Postal Services Act 1998) is delivered, pursuant to section 10(2)﻿(c) of that Act, to the Director-General or to such other person as the Director-General has directed, the provisions of this Act, so far as applicable and with all necessary modifications, apply as if the postal article had been seized, pursuant to subsection (2) or subsection (3) of section 39 of this Act (whichever subsection is applicable), on the date of that delivery.
 
 ## Part 4 — Miscellaneous provisions
 
@@ -1517,6 +1517,7 @@ Amendment(s) incorporated in the Act(s).
 |  | Lamnidae—Mackerel sharks |  | Carcharodon carcharias |  | Great White Shark |  |
 |  |  |  | Lamna nasus |  | Porbeagle |  |
 | Myliobatiformes | Myliobatidae—Eagle and mobulid rays |  | Manta spp |  | Manta Rays |  |
+|  |  |  | Mobula spp |  | Devil Rays |  |
 | Orectolobiformes | Rhincodontidae—Whale sharks |  | Rhincodon typus |  | Whale Shark |  |
 
 | Order |  | Family |  | Genus, species, or subspecies |  | Common name | Exceptions/limitations |
