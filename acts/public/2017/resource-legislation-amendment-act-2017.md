@@ -1748,7 +1748,7 @@ In section 220(1)﻿(d),—
       (iv) posting it to the PO box address that the person has specified as an address for service:
       (v) leaving it at a document exchange for direction to the document exchange box number that the person has specified as an address for service:
       (vi) sending it to the fax number that the person has specified as an address for service.
-  (1A) However, if the document is to be served on a person to commence, or in the course of, court proceedings, subsection (1) does not apply if the court, whether expressly or in its rules or practices, requires a different method of service.
+  (1AA) However, if the document is to be served on a person to commence, or in the course of, court proceedings, subsection (1) does not apply if the court, whether expressly or in its rules or practices, requires a different method of service.
 (2) In section 352(4A)﻿(b), replace email address with electronic address.
 (3) In section 352(5), replace subsection (1)﻿(c) or (d) with subsection (1)﻿(b)﻿(iii) or (iv).
 
