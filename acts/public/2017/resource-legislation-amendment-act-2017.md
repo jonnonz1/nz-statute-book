@@ -141,7 +141,7 @@ After section 34A(1), insert:
 ### 19 Section 35A amended (Duty to keep records about iwi and hapu)
 (1) In section 35A(1)﻿(c), after kaitiakitanga, insert ; and.
 (2) After section 35A(1)﻿(c), insert:
-  (d) any Mana Whakahono a Rohe entered into under section 58M.
+  (d) any Mana Whakahono a Rohe entered into under section 58O.
 
 ### 20 Section 36 amended (Administrative charges)
 (1) In section 36(1), delete , subject to subsection (2),.
@@ -2901,7 +2901,7 @@ After section 113, insert:Appeals against decisions of boards of inquiryAppeal t
     (b) the board of inquiry whose decision is being appealed; and
     (c) the Environmental Protection Authority; and
     (d) a person who gives notice of intention to appear under section 113C; and
-    (e) a person who becomes a party to an appeal under section 113E.
+    (e) a person who becomes a party to an appeal under section 113I.
   The High Court may dismiss an appeal if—
     (a) the appellant does not appear at the hearing of the appeal; or
     (b) the appellant does not proceed with the appeal with due diligence and another party applies to the court to dismiss the appeal.
