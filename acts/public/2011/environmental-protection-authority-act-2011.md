@@ -1,5 +1,5 @@
 # Environmental Protection Authority Act 2011
-_Consolidation as at 2013-06-28_
+_Consolidation as at 2017-04-19_
 
 ### 1 Title
 This Act is the Environmental Protection Authority Act 2011.
@@ -94,6 +94,7 @@ The functions of the EPA are—
   (c) if requested by the Minister,—
     (i) to provide technical advice to the Government and Crown entities on any matter related to its functions under an environmental Act:
     (ii) to provide administrative assistance (including secretarial services) to a person or group of people appointed by the Minister to provide advice or report on any matter related to its functions under an environmental Act:
+    (iia) to provide secretarial and support services to a person appointed under an Act to make a decision requiring the application of provisions of the Resource Management Act 1991 as applied or modified by the Act under which the person is appointed:
     (iii) to contribute to and co-operate with international forums and carry out international obligations related to its functions under an environmental Act.
 
 ### 14 Limitation on power to contract
@@ -181,7 +182,7 @@ The Environmental Protection Authority established by section 42B of the Resourc
   (f) anything done, or omitted to be done, or that is to be done, by, or in relation to, the former EPA is to be treated as having been done, or omitted to be done, or to be done, by, or in relation to, the EPA; and
   (g) the commencement, continuation, or enforcement of proceedings by or against the former EPA may instead be carried out by or against the EPA without amendment to the proceedings; and
   (h) a matter or thing that would, but for this section, have been completed by the former EPA may be completed by the EPA.
-(2) The transfer of information from the former EPA to the EPA under subsection (1)(a) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(2) The transfer of information from the former EPA to the EPA under subsection (1)﻿(a) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
 (3) On and from the commencement of section 23, property owned by the Ministry for the Environment solely or principally for the purposes of the former EPA and identified as such by the chief executive of the Ministry is vested in the EPA.
 
 ### 25 References to EPA established by Resource Management Act 1991
@@ -217,31 +218,31 @@ The Crown is not liable to make a payment to, or otherwise compensate, any perso
   (h) anything done, or omitted to be done, or that is to be done, by, or in relation to, ERMA is to be treated as having been done, or omitted to be done, or to be done, by, or in relation to, the EPA; and
   (i) the commencement, continuation, or enforcement of proceedings by or against ERMA may instead be carried out by or against to EPA without amendment to the proceedings; and
   (j) a matter or thing that would, but for this section, have been completed by ERMA may be completed by the EPA.
-(2) The transfer of information from ERMA to the EPA under subsection (1)(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(2) The transfer of information from ERMA to the EPA under subsection (1)﻿(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
 (3) This section applies subject to section 32.
 
 ### 31 Certain delegations continue
 (1) The following delegations continue in effect as if they were made by the EPA:
-  (a) any delegation by ERMA under section 19(2)(b) of the Hazardous Substances and New Organisms Act 1996 to a committee continued under section 32(2) of this Act for the purposes of an application to which section 32(1) of this Act applies; and
+  (a) any delegation by ERMA under section 19(2)﻿(b) of the Hazardous Substances and New Organisms Act 1996 to a committee continued under section 32(2) of this Act for the purposes of an application to which section 32(1) of this Act applies; and
   (b) any other delegation by ERMA under section 19(2) of the Hazardous Substances and New Organisms Act 1996 that is in effect immediately before the commencement of section 26 of this Act.
-(2) However, a delegation to a member of ERMA or a number of people including a member of ERMA, other than a delegation to which subsection (1)(a) applies, is revoked on the commencement of section 26 of this Act.
+(2) However, a delegation to a member of ERMA or a number of people including a member of ERMA, other than a delegation to which subsection (1)﻿(a) applies, is revoked on the commencement of section 26 of this Act.
 (3) To avoid doubt, the EPA may revoke a delegation continued under subsection (1).
 
 ### 32 Applications to be completed
 (1) This section applies to—
   (a) an application made under Part 5 or 6A of the Hazardous Substances and New Organisms Act 1996 that has not been determined before the commencement of section 26 of this Act but for which—
-    (i) a hearing date has been fixed under section 59(1)(d) of the Hazardous Substances and New Organisms Act 1996 or a hearing has been commenced or held; or
-    (ii) a date for consideration of the application has been fixed under section 59(1)(d) of that Act, or consideration has commenced; and
+    (i) a hearing date has been fixed under section 59(1)﻿(d) of the Hazardous Substances and New Organisms Act 1996 or a hearing has been commenced or held; or
+    (ii) a date for consideration of the application has been fixed under section 59(1)﻿(d) of that Act, or consideration has commenced; and
   (b) the committee appointed by ERMA under clause 43 of Schedule 1 of that Act to hear and decide the application.
 (2) Despite sections 26, 27, and 30 of this Act, the application must be decided by the committee, and for that purpose only the committee—
   (a) continues in existence as if it were a committee appointed by the EPA; and
-  (b) continues to have all the necessary powers and functions delegated to it under section 19(2)(b) of the Hazardous Substances and New Organisms Act 1996.
-(3) However, if the EPA revokes the delegation referred to in subsection (2)(b), the committee ceases to exist.
+  (b) continues to have all the necessary powers and functions delegated to it under section 19(2)﻿(b) of the Hazardous Substances and New Organisms Act 1996.
+(3) However, if the EPA revokes the delegation referred to in subsection (2)﻿(b), the committee ceases to exist.
 (4) The decision of the committee is to be treated as a decision of the EPA.
 
 ### 33 Matters relating to continued committee
 (1) The EPA may appoint additional members to a committee continued under section 32.
-(2) A committee continued under section 32(2)(a) ceases to exist on the earlier of—
+(2) A committee continued under section 32(2)﻿(a) ceases to exist on the earlier of—
   (a) the day after the date on which the last application to be decided by the committee is decided; or
   (b) the date on which the committee receives written notice of the EPA's revocation of the delegation in accordance with section 76 of the Crown Entities Act 2004.
 (3) To avoid doubt, a continued committee need not include a member of the EPA.
@@ -270,10 +271,10 @@ Unless the context otherwise requires, in any enactment, agreement, deed, instru
   (b) an employee whose employment at the Ministry relates to the Minister of Commerce's functions under the Imports and Exports (Restrictions) Act 1988 that become functions of the EPA on the commencement of the Imports and Exports (Restrictions) Amendment Act 2011; and
   (c) an employee whose employment at the Ministry relates to the Minister of Commerce's functions under the Ozone Layer Protection Act 1996 that become functions of the EPA on the commencement of the Ozone Layer Protection Amendment Act 2011.
 (3) The EPA and the chief executive of the Ministry that employs the employee must consult the employee concerned before deciding whether to transfer an employee from the Ministry to the EPA.
-(4) An employee transferred under subsection (1)(a) becomes an employee of the EPA on the commencement of section 23 of this Act.
-(5) An employee transferred under subsection (1)(b) or (2)(a) becomes an employee of the EPA on the commencement of the Climate Change Response Amendment Act 2011.
-(6) An employee transferred under subsection (1)(c) or (2)(b) becomes an employee of the EPA on the commencement of the Imports and Exports (Restrictions) Amendment Act 2011.
-(7) An employee transferred under subsection (1)(d) or (2)(c) becomes an employee of the EPA on the commencement of the Ozone Layer Protection Amendment Act 2011.
+(4) An employee transferred under subsection (1)﻿(a) becomes an employee of the EPA on the commencement of section 23 of this Act.
+(5) An employee transferred under subsection (1)﻿(b) or (2)﻿(a) becomes an employee of the EPA on the commencement of the Climate Change Response Amendment Act 2011.
+(6) An employee transferred under subsection (1)﻿(c) or (2)﻿(b) becomes an employee of the EPA on the commencement of the Imports and Exports (Restrictions) Amendment Act 2011.
+(7) An employee transferred under subsection (1)﻿(d) or (2)﻿(c) becomes an employee of the EPA on the commencement of the Ozone Layer Protection Amendment Act 2011.
 
 ### 37 Terms and conditions of employment of transferred employees
 (1) This section applies to an employee transferred to the EPA under section 36.
@@ -340,7 +341,7 @@ The appointment of a person holding the office of Registrar under section 11 of 
   (g) a matter or thing relating to the function that would, but for this section, have been completed by a former agency may be completed by the EPA.
 (3) In this section, former agency means the chief executive of the Ministry for the Environment or the chief executive of the Ministry of Economic Development, but does not include the Registrar whose appointment is cancelled under section 44.
 (4) On and from the commencement of the Climate Change Response Amendment Act 2011, property owned by a former agency solely or principally for the purposes of the function and identified as such by the former agency is vested in the EPA.
-(5) The transfer of information from a former agency to the EPA under subsection (2)(a) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(5) The transfer of information from a former agency to the EPA under subsection (2)﻿(a) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
 
 ### 46 Delegations continued
 (1) This section applies to a delegation—
@@ -386,7 +387,7 @@ Despite the amendments made to section 93 of the Climate Change Response Act 200
   (g) a matter or thing relating to the function that would, but for this section, have been completed by a former agency may be completed by the EPA.
 (3) In this section, former agency means the chief executive of the Ministry for the Environment or the chief executive of the Ministry of Economic Development.
 (4) On and from the commencement of the Imports and Exports (Restrictions) Amendment Act 2011 or the Ozone Layer Protection Amendment Act 2011 (as applicable), property owned by a former agency solely or principally for the purposes of the function and identified as such by the former agency is vested in the EPA.
-(5) The transfer of information from a former agency to the EPA under subsection (2)(a) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(5) The transfer of information from a former agency to the EPA under subsection (2)﻿(a) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
 
 **Transfer of contracts**
 
