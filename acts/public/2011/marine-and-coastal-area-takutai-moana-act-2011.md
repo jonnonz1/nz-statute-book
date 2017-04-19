@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-04-19_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -296,7 +296,20 @@ This Act binds the Crown.
 ### 19 Crown deemed to be owner of abandoned structures
 (1) The Crown is deemed to be the owner of any structure that is abandoned in the common marine and coastal area.
 (2) For the purposes of this section, a structure is abandoned if the regional council with statutory functions in the part of the common marine and coastal area in which the structure is located has, after due inquiry, been unable to ascertain the identity or the whereabouts of the owner of the structure.
-(3) Where the ownership of a structure in the common marine and coastal area is uncertain, the regional council must undertake an inquiry under subsection (2) if there is no current resource consent in respect of the structure.
+(3) This subsection and subsections (3A) to (3C) apply—
+  (a) if the ownership is uncertain in respect of a structure in a part of the common marine and coastal area for which a regional council has responsibility; and
+  (b) there is no current resource consent in respect of the structure.
+(3A) The regional council must—
+  (a) undertake an inquiry under subsection (2); or
+  (b) remove the structure under section 12(7) of the Resource Management Act 1991.
+(3B) The regional council may take action under subsection (3A)﻿(b) if, in the opinion of the council, an inquiry under subsection (2) is not warranted because—
+  (a) the structure is likely to have no, or minimal, value to any owner or to the community; and
+  (b) efforts to locate the owner have not been successful, including, as a minimum,—
+    (i) a search of the relevant records held by the council; and
+    (ii) a reasonable effort to locate the owner from any contact details in those records.
+(3C) A regional council may determine whether to remove a structure, in whole or in part,—
+  (a) in accordance with the provisions of the regional coastal plan; or
+  (b) without complying with any conditions in the regional coastal plan or obtaining a resource consent if, in the council’s opinion, any adverse effects of removing the structure would be no more than minor.
 (4) Every inquiry under subsection (2) must be undertaken in accordance with regulations made under section 118.
 (5) Nothing in this section makes the Crown liable—
   (a) for any breaches committed, in respect of a structure, before the Crown became the deemed owner of the structure; or
