@@ -1,5 +1,5 @@
 # Health and Safety at Work Act 2015
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-04-19_
 
 ### 1 Title
 This Act is the Health and Safety at Work Act 2015.
@@ -2483,8 +2483,8 @@ The publication by the regulator of a notice under section 223(1) is conclusive 
 (7) No delegation affects or prevents the performance or exercise of any function or power by the Minister or affects the responsibility of the Minister for the actions of a person acting under the delegation.
 
 ### 230 Relationship between regulations relating to hazardous substances under this Act and Resource Management Act 1991
-(1) A person performing a function or exercising a power under the Resource Management Act 1991 that relates to the use, handling, manufacture, transport, storage, or disposal of any hazardous substance must comply with the provisions of any regulations for work involving hazardous substances made under this Act, except as provided in subsections (2) and (3).
-(2) Nothing in subsection (1) prevents any person lawfully imposing more stringent requirements on the use, handling, manufacture, or storage of any hazardous substance than may be required by regulations for work involving hazardous substances made under this Act where those requirements are considered necessary by that person for the purposes of the Resource Management Act 1991.
+(1)
+(2)
 (3) Nothing prescribed in regulations made under this Act for the safe use, handling, manufacture, or storage of hazardous substances applies in relation to any resource consent to which this subsection applies that is—
   (a) a land use consent relating to the use, handling, manufacture, or storage of any hazardous substance; or
   (b) a coastal permit to do something that would otherwise contravene section 15 of the Resource Management Act 1991; or
