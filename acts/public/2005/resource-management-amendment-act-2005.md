@@ -1,5 +1,5 @@
 # Resource Management Amendment Act 2005
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-04-19_
 
 ### 1 Title
 (1) This Act is the Resource Management Amendment Act 2005.
@@ -1355,27 +1355,16 @@ Section 307 of the principal Act is amended by omitting the words at Wellington.
   (bb) whether a provision or proposed provision of a district plan,—
     (i) contrary to section 75(3), does not, or is not likely to, give effect to a provision or proposed provision of a national policy statement, New Zealand coastal policy statement, or regional policy statement; or
     (ii) contrary to section 75(4), is, or is likely to be, inconsistent with a water conservation order or a regional plan for any matter specified in section 30(1); or
-(2) Section 310(g) of the principal Act is amended by adding the word ; or.
-(3) Section 310 of the principal Act is amended by inserting, after paragraph (g), the following paragraph:
-  (ga) whether a decision made by a consent authority under section 93 or section 94 to notify or not to notify an application for a resource consent was unauthorised or otherwise invalid; or
-(4) Section 310(h) of the principal Act is amended by omitting the words , except for an issue as to whether any of sections 93 to 94C have been, or will be contravened.
+(2)
+(3)
+(4)
 
 ### 116 Notification of application
 (1) Section 312(1) of the principal Act is amended by omitting the words on the Minister and.
 (2) Section 140 of the Resource Management Amendment Act 1993 is consequentially repealed.
 
 ### 117 Decision on application
-Section 313 of the principal Act is amended by adding, as subsections (2) and (3), the following subsections:
-  (2) If the Environment Court makes a declaration under section 310(ga) (which relates to a decision made by a consent authority under section 93 or section 94 to notify or not to notify an application for a resource consent), the Court may—
-    (a) make any interim order it considers necessary for the purpose of preserving the position of any party to the application under section 311 for a declaration; and
-    (b) make an order setting aside a part or the whole of the decision of the consent authority and—
-      (i) referring a part or the whole of the decision back to the consent authority to reconsider:
-      (ii) giving the consent authority any directions it thinks just as to the reconsideration of a part or the whole of its decision:
-    (c) make an order setting aside a part or the whole of a resource consent granted on the basis of a decision made by the consent authority under section 93 or section 94:
-    (d) despite section 319(2), make an order to prevent the exercise of a resource consent until a decision has been made by the consent authority in accordance with an order of the Court made under paragraph (a).
-  (3) If the Environment Court gives directions under subsection (2)﻿(b)﻿(ii),—
-    (a) the Court must give reasons for those directions; and
-    (b) the consent authority must, in reconsidering its decision in accordance with the directions of the Court, have regard to the reasons of the Court.
+[Repealed]
 
 ### 118 Cancellation of abatement notice
 Section 325A(7) of the principal Act is amended by omitting the words ; but nothing in section 325(3) shall apply in relation to a notice of appeal lodged under section 325(2) (as applied by this subsection).
