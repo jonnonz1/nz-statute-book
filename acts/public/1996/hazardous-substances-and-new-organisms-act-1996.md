@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2016-12-15_
+_Consolidation as at 2017-04-19_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -2728,8 +2728,8 @@ If a notice is published in the Gazette under section 141B or 141D in relation t
 
 ### 142 Relationship to other Acts
 (1) Nothing in this Act shall affect the requirements of the Biosecurity Act 1993 in relation to any organism.
-(2) Every person exercising a power or function under the Resource Management Act 1991 relating to the storage, use, disposal, or transportation of any hazardous substance shall comply with the provisions of this Act and with regulations and notices of transfer made under this Act.
-(3) Nothing in subsection (2) shall prevent any person lawfully imposing more stringent requirements on the storage, use, disposal, or transportation of any hazardous substance than may be required by or under this Act where such requirements are considered necessary by that person for the purposes of the Resource Management Act 1991.
+(2)
+(3)
 (4) Nothing in this Act shall apply to any resource consent, being—where that resource consent was granted before the coming into force of any regulations made under this Act (other than regulations made under Parts 11 to 16) until such time as the conditions on the resource consent are reviewed in accordance with section 128 of the Resource Management Act 1991.
   (a) a land use consent relating to the storage, use, disposal, or transportation of any hazardous substance; or
   (b) a coastal permit to do something that would otherwise contravene section 15 of the Resource Management Act 1991; or
