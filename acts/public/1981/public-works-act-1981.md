@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-04-19_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -51,6 +51,9 @@ In this Act, unless the context otherwise requires,—
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
 ### 3 Power to declare specific public work to be essential work
 [Repealed]
 
@@ -88,9 +91,7 @@ Without limiting the powers conferred on the Minister of Lands by any other Act,
 
 ### 4C Delegation of Minister's powers
 (1) Any Minister of the Crown may from time to time, either generally or particularly, delegate in writing to any officer of the Minister's department any of the powers conferred on the Minister by this Act, except the power of delegation conferred by this section.
-(2) Notwithstanding the provisions of subsection (1), the Minister of Lands may not delegate—
-  (a) the power to issue a notice of desire to acquire land under section 18(1); or
-  (b) the power to issue a notice of intention to take land under section 23(1).
+(2) Despite subsection (1), the Minister for Land Information must not delegate the power to issue a notice of intention to take land under section 23(1).
 (3) Any delegation under this section may be made to—
   (a) a specified person; or
   (b) a person of a specified class; or
@@ -255,6 +256,9 @@ Any notifying authority, as defined in section 59, may acquire any land under se
 (4) Not less than 15 working days' notice of the time and place so appointed shall be given to the objector and to the Minister or local authority, as the case may require.
 (5) Every such hearing shall be held in public unless the objector gives written notice to the Environment Court before the date of the hearing that he requires the hearing to be held in private.
 (6) At every such hearing the Minister or the local authority may be represented by counsel or by an officer of the Minister's department or local authority, as the case may require, and the objector may appear and act personally or by counsel or any duly authorised representative.
+(6A) The Environment Court may, whether or not the parties consent,—
+  (a) accept evidence that was presented at a hearing described in section 39(1) of the Resource Management Act 1991, or at a related inquiry or appeal heard by the court; and
+  (b) direct how evidence is to be given to the court.
 (7) The Environment Court shall—
   (a) ascertain the objectives of the Minister or local authority, as the case may require:
   (b) enquire into the adequacy of the consideration given to alternative sites, routes, or other methods of achieving those objectives:
@@ -564,7 +568,16 @@ In this Part and in Part 6, unless the context otherwise requires,—
     (d)
     (e) made the subject of negotiations under section 17 or a notice under section 18(1), in which case the date of notification shall be the date on which the negotiations commenced or the date of the service of the notice, as the case may be
   - **notifying authority** means any person or local authority who or which has the financial responsibility for any public work in respect of which any land has been notified
-  - **owner** , in relation to any land, includes any person who is in occupation of the land under any lease, sublease, or licence, or any renewal of it, granted by the owner of the fee simple, or the lessee, of the land (other than a weekly or monthly tenancy agreement); and also includes a tenant for life of the land and a beneficial owner of the land
+  - **owner** , in relation to land, includes—
+    (a) a person who occupies the land under a lease, sublease, or licence, or a renewal of a lease, sublease, or licence, that—
+      (i) is granted by the owner of the fee simple of the land or by the lessee of the land; and
+      (ii) is not—
+        (A) a weekly tenancy agreement; or
+        (B) a monthly tenancy agreement; or
+        (C) a tenancy to which the Residential Tenancies Act 1986 applies; or
+        (D) a statutory tenancy (as defined in section 207 of the Property Law Act 2007):
+    (b) a tenant for life of the land:
+    (c) a beneficial owner of the land
   - **respondent** means the Minister in the case of Government works and the local authority in the case of local works.
 
 **Entitlement**
@@ -690,7 +703,15 @@ Where land is taken or acquired from any person for the purpose of constructing 
 **Additional compensation**
 
 ### 72 Additional compensation for acquisition of notified dwelling
-(1) Subject to the provisions of this section, where any land that has been notified and that contains a dwelling used as a private residence is taken or acquired for the public work for which it was notified there shall be paid to the owner of the land the sum of $2,000 by way of solatium.
+(1) Compensation of up to $50,000 must be paid to the owner of land if—
+  (a) the land has been notified; and
+  (b) the land is taken or acquired for the public work for which it was notified; and
+  (c) the land contains a dwelling that is used as the land owner's principal place of residence; and
+  (d) the payment of compensation is not excluded by subsection (2) or (3).
+(1A) The amount of compensation paid under subsection (1) must be determined in accordance with section 72A.
+(1B) The compensation paid under subsection (1) must not in total exceed $50,000 regardless of—
+  (a) the number of owners of the land; or
+  (b) the nature of the estate or interest that the various owners of the land may hold.
 (2) Compensation shall not be paid under subsection (1) unless—
   (a) where the land has been acquired by an agreement which specifies a date for the giving of vacant possession, vacant possession of the land and all buildings and structures on the land has been given to the notifying authority on or before the specified date or such later date as the authority may in any case allow:
   (b) where—vacant possession of the land and all buildings and structures on the land has been given to the notifying authority within 1 month after the date on which the authority has served notice on the vendor or the person from whom the land was taken, as the case may be, that vacant possession is required, or within such longer period as the authority may in any case allow.
@@ -703,8 +724,90 @@ Where land is taken or acquired from any person for the purpose of constructing 
   (d) was not a willing party to the taking or acquisition of the land, or was a willing party to the taking or acquisition principally because the land had been notified.
 (4) If any payment of compensation under this section is to be made in respect of land that is owned by more than 1 person, the payment shall be made only to those owners who qualify for payment under subsection (3). If payment is to be made to more than 1 owner, the amount of the payment shall be apportioned between the owners in proportion to the shares in which they owned the land.
 (5) Subject to subsection (6), if any compensation is payable under this section to a lessee or sublessee of land under a lease or sublease which, on the date on which vacant possession was given to the notifying authority, will expire less than 5 years after that date, the amount of compensation shall be reduced so that the amount to be paid bears the same proportion to the amount of compensation that would otherwise be payable as the period from the date on which vacant possession was given to the date of expiry of the lease or sublease bears to a period of 5 years.
-(6) The amount of compensation under subsection (5) shall not be reduced under this subsection to less than the amount that the lessee or sublessee would have received under section 75 had he been a weekly or a monthly tenant.
+(6) The amount of compensation under subsection (5) shall not be reduced under this subsection to less than the amount that the lessee or sublessee would have received under section 75 if the lessee or sublessee had been a tenant (as defined in section 75(4)).
 (7) For the purposes of subsection (5), the date on which any lease or sublease containing a right of renewal will expire shall be deemed to be the date on which it would have expired if the right of renewal had been exercised.
+
+### 72A Amount of compensation to be paid under section 72
+(1) The amount of compensation paid under section 72(1) must be determined as follows:
+  (a) $35,000 must be paid to the owner of the land if the owner qualifies for compensation under section 72(1); and
+  (b) a further $10,000 must be paid to the owner if—
+    (i) the Minister or local authority, as applicable, and the owner, within 6 months after the negotiation start date, execute an agreement for the sale and purchase of the land under section 17; and
+    (ii) the agreement specifies a date on which vacant possession of the land, and all buildings and structures on the land, will be given to the notifying authority; and
+  (c) a further $5,000 may be paid to the owner if the Minister (if the land is taken or acquired for a Government work) or local authority (if the land is taken or acquired for a local work) decides, in his, her, or its discretion, that—
+    (i) the personal circumstances of the owner warrant such a payment and compensation is not otherwise paid under this Act for this purpose; or
+    (ii) the circumstances concerning the acquisition of the owner's principal place of residence warrant such a payment and compensation is not otherwise paid under this Act for this purpose.
+(2) In this section, negotiation start date means the earlier of the following:
+  (a) the date on which the notifying authority notifies the owner of land in writing that it intends to acquire the land under section 17:
+  (b) the date on which the notifying authority serves notice in relation to land in accordance with section 18(1)﻿(a).
+
+### 72B Definitions of terms used in sections 72C and 72D
+In this section and sections 72C and 72D, unless the context otherwise requires,—
+  - **category value** means the portion of total land value for each category of interest or estate in land (for example, for all leasehold interests in land)
+  - **individual value** means the portion of category value that is payable to a qualifying owner, determined by the percentage of the relevant category of interest or estate that is held by the owner in land
+  - **land** means all land that is acquired or taken from an owner under this Act by the Minister or a local authority for a particular notified public work
+  - **notification date** means the date on which land is notified
+  - **qualifying owners** means the owners of land who qualify for compensation under section 72C(1) and are not disqualified under section 72D(2)
+  - **total land value** means the total amount of compensation payable under this Act, as assessed in accordance with section 62, for land
+  - **vacant possession date** means the date on which vacant possession of land, and all buildings and structures on the land, is given to the notifying authority.
+
+### 72C Additional compensation for acquisition of notified land
+(1) Compensation must be paid to an owner of land if—
+  (a) the land has been notified; and
+  (b) the land is taken or acquired for the public work for which it was notified; and
+  (c) either of the following applies:
+    (i) the land does not contain a dwelling that was used as the owner of the land's principal place of residence for the period between the notification date and the vacant possession date:
+    (ii) the owner used a dwelling on the land as his or her principal place of residence for less than a substantial part of the period between the notification date and the vacant possession date; and
+  (d) the payment of compensation is not excluded by section 72D.
+(2) The compensation paid under subsection (1) must—
+  (a) equal 10% of the total land value; or
+  (b) be $250 if 10% of the total land value is equal to or less than $250; or
+  (c) be $25,000 if 10% of the total land value is equal to or more than $25,000.
+(3) However, the compensation paid under subsection (1) must not in total exceed $25,000 regardless of—
+  (a) the number of owners of the land; or
+  (b) the nature of the estate or interest each of the owners has in the land.
+(4) If compensation is paid under subsection (1) for land that is owned by more than 1 person, the compensation must be—
+  (a) paid only to the qualifying owners; and
+  (b) apportioned between the qualifying owners in proportion to the individual value each owner has in the land.
+(5) The amount of compensation paid under this section to an owner who is a lessee or sublessee of the land under a lease or sublease that will expire less than 5 years after the vacant possession date—
+  (a) must be reduced so that it bears the same proportion as the period from the vacant possession date to the date of expiry of the lease or sublease bears to a period of 5 years; but
+  (b) must not be reduced to less than the amount that the owner would have received under section 75 if the owner had been a tenant (as defined in section 75(4)).
+(6) For the purposes of subsection (5), the date on which a lease or sublease that contains a right of renewal will expire is deemed to be the date on which it would have expired if the right of renewal had been exercised.
+
+### 72D Circumstances in which compensation must not be paid under section 72C
+(1) Compensation must not be paid to an owner of land under section 72C(1) unless vacant possession of the land and all buildings and structures on the land is given to the notifying authority by that owner—
+  (a) on or before the vacant possession date, or any later date that the authority allows, if the land is acquired under an agreement that specifies a vacant possession date:
+  (b) within 1 month after the date on which the authority serves notice on the vendor or the person from whom the land is taken (as the case may be) that vacant possession is required, or within any longer period that the authority allows, if—
+    (i) the land is acquired under an agreement that does not specify a vacant possession date; or
+    (ii) no agreement for sale is entered into and the land is taken by Proclamation.
+(2) Compensation must not be paid under section 72C(1) unless the person giving vacant possession—
+  (a) is one of the following:
+    (i) an owner of the land on the notification date:
+    (ii) the spouse, civil union partner, or de facto partner of an owner of the land on the notification date:
+    (iii) the person beneficially interested in the land if an owner dies after the notification date; and
+  (b) was an owner of the land on the vacant possession date; and
+  (c) was an owner of the land for a substantial part of the period between the notification date and the vacant possession date; and
+  (d) was—
+    (i) not a willing party to the taking or acquisition of the land; or
+    (ii) a willing party to the taking or acquisition principally because the land had been notified.
+(3) Compensation must not be paid under section 72C(1) to an owner of land if that person is paid compensation for the loss of a dwelling on that land under section 72(1).
+
+### 72E Adjustment of compensation payable under section 72 or 72C
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend section 72, 72A, or 72C by doing any or all of the following:
+  (a) increasing the compensation limit in section 72(1) and (1B):
+  (b) increasing the compensation limits in section 72A(1)﻿(a) to (c):
+  (c) increasing or decreasing the percentages in section 72C(2)﻿(a) to (c):
+  (d) increasing the compensation limits in section 72C(2)﻿(b) and (c) and (3).
+(2) The Minister must not recommend the making of an Order in Council under this section unless the Minister is of the opinion that it is necessary or desirable to do so having regard to the following:
+  (a) the purposes of the compensation payable under sections 72 and 72C (including the differences between the acquisition of land that includes the owner’s home and the acquisition of land that does not include the owner’s home):
+  (b) national average land and house sale prices:
+  (c) the New Zealand Consumer Price Index:
+  (d) the level of solatium or similar compensation payable in comparable circumstances in jurisdictions outside New Zealand that have similar property rights and land acquisition regimes:
+  (e) changes to the matters referred to in paragraphs (b) to (d) since the compensation limits and percentages were last changed:
+  (f) comments received in response to public consultation under subsection (3).
+(3) Before recommending the making of an Order in Council under this section, the Minister must publicly consult about the proposed changes.
+(4) An Order in Council cannot be made under subsection (1)—
+  (a) until after the expiry of 5 years from the date of commencement of Part 3 of the Resource Legislation Amendment Act 2017; or
+  (b) more frequently than once every 5 years.
 
 ### 73 Assistance to purchase dwelling
 (1) Subject to the provisions of this section, where any land that—is taken or acquired for the public work for which it was notified and the market value of the owner's interest in the land is insufficient to enable the owner to acquire another private residence of a standard reasonably equivalent to the residence on the land so taken or acquired, there may, in the discretion of the notifying authority, be advanced to the owner by the authority, in addition to the compensation otherwise payable under this Act, such amount as the authority considers reasonable to assist the owner to acquire another private residence of a reasonably comparable standard.
@@ -739,7 +842,7 @@ Where land is taken or acquired from any person for the purpose of constructing 
 ### 75 Compensation for tenants of residential and business premises
 (1) Subject to the provisions of this section, where—there may, in the discretion of the notifying authority, be paid to the tenant by the authority such compensation as is provided for in subsection (2), on receiving an application in that behalf from the tenant.
   (a) any land has been notified; and
-  (b) the land was, on the date on which it was notified, occupied by a weekly or monthly tenant; and
+  (b) the land was, on the date on which it was notified, occupied by a tenant; and
   (c) the tenant was on that date in occupation of the land under a tenancy agreement which commenced before the land was taken or otherwise acquired by the notifying authority; and
   (d) the tenant occupied the land continuously from that date to the date on which he vacated the land so that vacant possession could be given to the notifying authority—
 (2) Subject to subsection (3), the amount of compensation payable under subsection (1) shall be—
@@ -750,6 +853,11 @@ Where land is taken or acquired from any person for the purpose of constructing 
 (3) Compensation shall not be paid under this section unless—
   (a) not less than 10 working days' notice of the proposed move has been given by the tenant to the notifying authority; and
   (b) application for payment by the tenant is made to the notifying authority before the expiry of 2 months after the date on which the transport costs were incurred or on which the abandonment or spoiling of floor coverings or soft furnishings occurred, as the case may be.
+(4) In this section, tenant means a person who has—
+  (a) a weekly tenancy agreement; or
+  (b) a monthly tenancy agreement; or
+  (c) a tenancy to which the Residential Tenancies Act 1986 applies; or
+  (d) a statutory tenancy (as defined in section 207 of the Property Law Act 2007).
 
 ### 76 Refund of expenses where acquisition of land abandoned
 (1) Subject to subsection (2), where—the notifying authority, the Minister, or the local authority, as the case may be, shall, on receiving an application in that behalf from the owner of the land, pay to the owner such sum of money as will fairly reimburse him for the actual and reasonable costs and expenses incurred by him as a direct result of the notification, the issue of the Proclamation or declaration that has been revoked, or the initiation of the negotiations, as the case may be.
@@ -1946,9 +2054,41 @@ Every person who wilfully obstructs any engineer, overseer, employee, or other p
 (4) Notwithstanding the repeal of any enactment by this section or by section 15(2) of the Public Works Amendment Act 1973, every railway the construction of which has been authorised or deemed to have been authorised under any such enactment or by any enactment continued in force by any such enactment shall be deemed to have been authorised to be constructed under section 164, and so much of the Acts as are set out in Schedule 9 of the Public Works Act 1928 shall continue in force and operate as if such repeal had not been made.
 
 ### 249 Transitional provision
-Every claim for compensation under the Public Works Act 1928 that—before 1 February 1982 shall be determined under this Act.
-  (a) has not been finally determined by agreement between the parties; or
-  (b) has not been heard or partly heard by the Land Valuation Tribunal—
+[Repealed]
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Part 3 of Resource Legislation Amendment Act 2017
+
+### 1 Interpretation
+In this schedule,—
+  - **amendment Act** means Part 3 of the Resource Legislation Amendment Act 2017
+  - **commencement date** means the date on which the amendment Act comes into force.
+
+### 2 New rule on evidence does not apply to hearings that have begun
+Section 24(6A) does not apply to any hearing of the Environment Court under section 24 that begins on or before the commencement date.
+
+### 3 Circumstances in which this Act applies as if unamended
+(1) If the Minister or a local authority, as applicable, and the owner of land have, before the commencement date, executed an agreement for the sale and purchase of the land under section 17, this Act continues to apply to the agreement, and to any claim for compensation for or in respect of the land, as if the amendments referred to in subclause (3) had not come into force.
+(2) If a Proclamation taking land has been issued in accordance with section 26 before the commencement date, this Act continues to apply to the Proclamation, and to any claim for compensation for or in respect of the land, as if the amendments referred to in subclause (3) had not come into force.
+(3) The amendments referred to in subclauses (1) and (2) are the amendments, made by the amendment Act, that repeal, amend, replace, or insert the following provisions:
+  (a) section 4C(2):
+  (b) section 24:
+  (c) section 59:
+  (d) section 72:
+  (e) sections 72A to 72E:
+  (f) section 75.
+
+### 4 Negotiation start date includes dates before commencement of amendment Act
+To avoid doubt, the dates specified in paragraphs (a) and (b) of the definition of negotiation start date in section 72A(2) include dates that occur before the commencement date.
+
+### 5 Extended time to comply with section 72A(1)﻿(b) in certain circumstances
+(1) If the negotiation start date that applies to the owner of land under section 72A(1)﻿(b)﻿(i) is 4 months or more before the commencement date, section 72A must be read as if—
+  (a) it requires the agreement referred to in that section to be executed within 2 months after the commencement date; and
+  (b) the deadline referred to in that section (within 6 months after the negotiation start date) does not apply.
+(2) However, no compensation must be paid to the owner of land under section 72A(1)﻿(b) if—
+  (a) the negotiation start date that applies to the owner under section 72A(1)﻿(b)﻿(i) is 6 months or more before the commencement date; and
+  (b) the notifying authority serves notice in relation to the owner's land in accordance with section 18(1)﻿(a) within 2 months after the commencement date.
 
 ## Schedule 1 — Notice of intention to take land for [description of public work] in [name of district]
 
