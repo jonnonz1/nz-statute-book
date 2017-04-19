@@ -1,5 +1,5 @@
 # Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2017-04-19_
 
 ## Preamble
 The Relationship of Waikato-Tainui with the Waikato River
@@ -88,10 +88,10 @@ The purpose of this Act is to—
   (b) all references to the 2008 deed in the trust deed for the Trust are deemed to include the 2009 deed, to the extent to which that is appropriate.
 (3) In this Act, unless the context requires another meaning,—
   - **1995 Act** means the Waikato Raupatu Claims Settlement Act 1995
-  - **2009 deed** means the deed of settlement between the Crown and Waikato-Tainui dated 17 December 2009
-  - **2008 deed** means the deed of settlement between the Crown and Waikato-Tainui dated 22 August 2008
-  - **1995 deed** means the deed of settlement between the Crown and Waikato dated 22 May 1995
   - **1992 deed** means the deed of settlement between Maori and the Crown dated 23 September 1992 in relation to Maori fishing claims
+  - **1995 deed** means the deed of settlement between the Crown and Waikato dated 22 May 1995
+  - **2008 deed** means the deed of settlement between the Crown and Waikato-Tainui dated 22 August 2008
+  - **2009 deed** means the deed of settlement between the Crown and Waikato-Tainui dated 17 December 2009
   - **appointer** means a person who appoints a member under clause 2 of Schedule 6
   - **authorised customary activities** means the activities specified in Schedule 3
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
@@ -221,7 +221,8 @@ This Act binds the Crown.
 ### 12 Effect of vision and strategy on Resource Management Act 1991 planning documents
 (1) The vision and strategy prevails over any inconsistent provision in—
   (a) a national policy statement issued under section 52 of the Resource Management Act 1991; and
-  (b) a New Zealand coastal policy statement issued under section 57 of the Resource Management Act 1991.
+  (b) a New Zealand coastal policy statement issued under section 57 of the Resource Management Act 1991; and
+  (c) a national planning standard published under section 58F of the Resource Management Act 1991, to the extent that it contains provisions referred to in section 58C(1)﻿(b) of that Act (which refers to matters that may be included in a national policy statement).
 (2) The Council must not review or amend under section 79 of the Resource Management Act 1991 the vision and strategy inserted in the Waikato Regional Policy Statement.
 (3) A local authority must not amend under section 55 of the Resource Management Act 1991 a document defined in section 55(1) of the Act if the amendment would make the document inconsistent with the vision and strategy.
 (4) A rule included in a regional or district plan for the purpose of giving effect to the vision and strategy prevails over a national environmental standard made under section 43 of the Resource Management Act 1991, if it is more stringent than the standard.
@@ -235,15 +236,16 @@ This Act binds the Crown.
 (3) The Council must—
   (a) review the Waikato Regional Policy Statement to see whether it is consistent with the vision and strategy; and
   (b) if the policy statement is inconsistent with the vision and strategy, initiate an amendment to it to make it consistent, using the process in Schedule 1 of the Resource Management Act 1991.
+(3A) A local authority must not amend under section 58I of the Resource Management Act 1991 a document defined in that section, to the extent that the document contains provisions referred to in section 58C(1)﻿(b) of that Act, if the amendment would make the document inconsistent with the vision and strategy.
 (4) Every local authority must—
   (a) review its regional or district plan to see whether it gives effect to the vision and strategy; and
   (b) if the regional or district plan does not give effect to the vision and strategy, initiate an amendment to it to ensure that it does so, using the process in Schedule 1 of the Resource Management Act 1991.
 (5) Subsection (6) applies if a joint management agreement between a local authority and the Trust is not in force when the local authority begins the process under subsection (3) or (4).
 (6) The local authority must,—
-  (a) as soon as practicable after the commencement of a review under subsection (3)(a) or (4)(a), convene a joint working party under section 46(2)(a); and
-  (b) decide jointly with the Trust on the final recommendation on whether to make an amendment to a Resource Management Act 1991 planning document, as provided for in section 46(2)(b); and
-  (c) decide jointly with the Trust on the final recommendation on the content of a Resource Management Act 1991 planning document to be notified under clause 5 of Schedule 1 of the Resource Management Act 1991, as provided for in section 46(2)(c); and
-  (d) discuss with the Trust the potential for the Trust to participate in the decisions on a Resource Management Act 1991 planning document under clause 10 of Schedule 1 of the Resource Management Act 1991, as provided for in section 46(2)(d).
+  (a) as soon as practicable after the commencement of a review under subsection (3)﻿(a) or (4)﻿(a), convene a joint working party under section 46(2)﻿(a); and
+  (b) decide jointly with the Trust on the final recommendation on whether to make an amendment to a Resource Management Act 1991 planning document, as provided for in section 46(2)﻿(b); and
+  (c) decide jointly with the Trust on the final recommendation on the content of a Resource Management Act 1991 planning document to be notified under clause 5 of Schedule 1 of the Resource Management Act 1991, as provided for in section 46(2)﻿(c); and
+  (d) discuss with the Trust the potential for the Trust to participate in the decisions on a Resource Management Act 1991 planning document under clause 10 of Schedule 1 of the Resource Management Act 1991, as provided for in section 46(2)﻿(d).
 
 ### 14 Effect of vision and strategy on resource consent conditions and designations
 (1) This section applies as follows:
@@ -272,7 +274,7 @@ This Act binds the Crown.
 (2) For the purposes of the Conservation Act 1987, the vision and strategy is a statement of general policy approved under section 17B of the Act.
 (3) For the purposes of the National Parks Act 1980, the vision and strategy is a statement of general policy adopted under section 44 of the Act.
 (4) For the purposes of the Reserves Act 1977, the vision and strategy is a statement of general policy approved under section 15A of the Act.
-(5) For the purposes of the Wild Animal Control Act 1977, the vision and strategy is a statement of general policy approved under section 5(1)(ca) of the Act.
+(5) For the purposes of the Wild Animal Control Act 1977, the vision and strategy is a statement of general policy approved under section 5(1)﻿(ca) of the Act.
 (6) For the purposes of the Wildlife Act 1953, the vision and strategy is a statement of general policy approved under section 14C of the Act.
 (7) A conservation management strategy or a conservation management plan made under an Act referred to in any of subsections (2) to (6) must not derogate from a statement of general policy created by any of subsections (2) to (6) for any longer than is necessary to amend the strategy or plan to make it consistent with the vision and strategy.
 (8) The process for reviewing and, if necessary, amending the strategy or plan must begin—
@@ -429,21 +431,21 @@ Sections 27 to 31 apply to applications to the Council for resource consent—
 (5) The board must consist of—
   (a) the persons named under subsection (4); and
   (b) the same number of other persons; and
-  (c) a chairperson appointed under section 149J(3)(b) of the Resource Management Act 1991.
+  (c) a chairperson appointed under section 149J(3)﻿(b) of the Resource Management Act 1991.
 (6) The Authority and the Minister must discuss the persons to be appointed to the board with a view to ensuring that the board contains members with an appropriate mix of skills, expertise, and experience.
 (7) Persons appointed under subsection (5) must be treated in the same manner as persons appointed under section 149J of the Resource Management Act 1991.
 
 ### 30 Section 100A of Resource Management Act 1991
 (1) This section applies if the Council receives a request under section 100A of the Resource Management Act 1991 to delegate the hearing of an application to a commissioner or commissioners.
-(2) The Council must delegate the hearing duties, functions, and powers only of the persons it must appoint under section 28(2)(a). It must not delegate the hearing duties, functions, and powers of the persons whom the Authority must appoint under section 28(2)(b).
-(3) The Council must ensure that the number of commissioners delegated to hear the application is equal to the number of members appointed under section 28(2)(b).
+(2) The Council must delegate the hearing duties, functions, and powers only of the persons it must appoint under section 28(2)﻿(a). It must not delegate the hearing duties, functions, and powers of the persons whom the Authority must appoint under section 28(2)﻿(b).
+(3) The Council must ensure that the number of commissioners delegated to hear the application is equal to the number of members appointed under section 28(2)﻿(b).
 (4) The commissioners delegated to hear the application are—
   (a) the commissioners to whom the Council delegates hearing duties, functions, and powers under subsection (2), who are appointed under section 100A of the Resource Management Act 1991; and
-  (b) the persons whom the Authority appoints under section 28(2)(b), who are deemed to be appointed under section 100A of the Resource Management Act 1991; and
-  (c) the independent chairperson appointed under section 28(2)(c), who is deemed to be appointed under section 100A of the Resource Management Act 1991.
+  (b) the persons whom the Authority appoints under section 28(2)﻿(b), who are deemed to be appointed under section 100A of the Resource Management Act 1991; and
+  (c) the independent chairperson appointed under section 28(2)﻿(c), who is deemed to be appointed under section 100A of the Resource Management Act 1991.
 
-### 31 Section 147(1)(c) of Resource Management Act 1991
-Section 28 applies if an application is lodged with the Environmental Protection Authority under section 145 of the Resource Management Act 1991 and a direction is made under section 147(1)(c) of the Act to refer the matter to the Council.
+### 31 Section 147(1)﻿(c) of Resource Management Act 1991
+Section 28 applies if an application is lodged with the Environmental Protection Authority under section 145 of the Resource Management Act 1991 and a direction is made under section 147(1)﻿(c) of the Act to refer the matter to the Council.
 
 **Waikato River Clean-up Trust function**
 
@@ -452,7 +454,7 @@ Section 28 applies if an application is lodged with the Environmental Protection
 (2) The Waikato River Clean-up Trust is established on the settlement date.
 (3) The object of the trust is the restoration and protection of the health and wellbeing of the Waikato River for future generations.
 (4) The terms of the trust are set out in Schedule 5.
-(5) The trustee of the trust is deemed to satisfy the requirements of section CW 41(5)(a) of the Income Tax Act 2007.
+(5) The trustee of the trust is deemed to satisfy the requirements of section CW 41(5)﻿(a) of the Income Tax Act 2007.
 
 **Administrative provisions**
 
@@ -516,8 +518,8 @@ The integrated river management plan for the Waikato River may be reviewed and a
   (d) may be reviewed and amended from time to time by the Trust.
 
 ### 40 Effect
-(1) A local authority served under section 39(2)(b) preparing, reviewing, or changing a Resource Management Act 1991 planning document must recognise the Waikato-Tainui environmental plan in the same manner as would be required under the Resource Management Act 1991 for any planning document recognised by an iwi authority.
-(2) A consent authority considering an application for a resource consent under section 104 of the Resource Management Act 1991 must have regard to the Waikato-Tainui environmental plan, if it considers that section 104(1)(c) applies to the plan.
+(1) A local authority served under section 39(2)﻿(b) preparing, reviewing, or changing a Resource Management Act 1991 planning document must recognise the Waikato-Tainui environmental plan in the same manner as would be required under the Resource Management Act 1991 for any planning document recognised by an iwi authority.
+(2) A consent authority considering an application for a resource consent under section 104 of the Resource Management Act 1991 must have regard to the Waikato-Tainui environmental plan, if it considers that section 104(1)﻿(c) applies to the plan.
 (3) A person carrying out functions or exercising powers under sections 12 to 14 of the Fisheries Act 1996 must recognise and provide for the Waikato-Tainui environmental plan to the extent to which its contents relate to the functions or powers.
 (4) A person carrying out functions or exercising powers under the conservation legislation in relation to the Waikato River and its catchment must have particular regard to the Waikato-Tainui environmental plan to the extent to which its contents relate to the functions or powers.
 
@@ -557,14 +559,14 @@ In working together to develop the joint management agreement, and in working to
 (1) This section applies to monitoring and enforcement relating to the Waikato River and activities within its catchment affecting the Waikato River.
 (2) The part of the joint management agreement on monitoring and enforcement must provide for the local authority and the Trust to—
   (a) meet no less than twice each year to—
-    (i) discuss and agree the priorities for the monitoring of those matters set out in section 35(2)(a) to (e) of the Resource Management Act 1991; and
-    (ii) discuss and agree the methods for and extent of the monitoring of those matters set out in section 35(2)(a) to (e) of the Resource Management Act 1991; and
-    (iii) discuss the potential for Waikato-Tainui to participate in the monitoring of those matters set out in section 35(2)(a) to (e) of the Resource Management Act 1991:
-  (b) meet no less than twice each year to discuss appropriate responses to address the outcomes of the monitoring of those matters set out in section 35(2)(a) to (e) of the Resource Management Act 1991, including—
+    (i) discuss and agree the priorities for the monitoring of those matters set out in section 35(2)﻿(a) to (e) of the Resource Management Act 1991; and
+    (ii) discuss and agree the methods for and extent of the monitoring of those matters set out in section 35(2)﻿(a) to (e) of the Resource Management Act 1991; and
+    (iii) discuss the potential for Waikato-Tainui to participate in the monitoring of those matters set out in section 35(2)﻿(a) to (e) of the Resource Management Act 1991:
+  (b) meet no less than twice each year to discuss appropriate responses to address the outcomes of the monitoring of those matters set out in section 35(2)﻿(a) to (e) of the Resource Management Act 1991, including—
     (i) the potential for review of Resource Management Act 1991 planning documents; and
     (ii) enforcement under the Resource Management Act 1991, including criteria for the commencement of prosecutions, applications for enforcement orders, the service of abatement notices, and the service of infringement notices:
   (c) agree appropriate procedures for reporting back to the Trust on the enforcement action taken by the local authority:
-  (d) discuss and agree the role of the Trust in the 5 yearly review provided for in section 35(2A) of the Resource Management Act 1991:
+  (d) discuss and agree the role of the Trust in the 5-yearly review provided for in section 35(2A) of the Resource Management Act 1991:
   (e) discuss the potential for persons nominated by the Trust to participate in enforcement action under the Resource Management Act 1991.
 (3) The local authority and the Trust each bears its own costs of complying with this section.
 (4) Schedule 7 of the Local Government Act 2002 does not apply to the local authority and the Trust when, under the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
@@ -572,7 +574,7 @@ In working together to develop the joint management agreement, and in working to
 ### 46 Preparation, review, change, or variation of Resource Management Act 1991 planning document
 (1) This section applies to preparing, reviewing, changing, or varying a Resource Management Act 1991 planning document to the extent to which those processes relate to the vision and strategy.
 (2) The part of the joint management agreement on preparing, reviewing, changing, or varying a Resource Management Act 1991 planning document must provide—
-  (a) that, before the preparation, review, change, or variation commences, the local authority and the Trust must convene a joint working party to discuss and recommend to the local authority––
+  (a) that, before the preparation, review, change, or variation commences, the local authority and the Trust must convene a joint working party to discuss and recommend to the local authority—
     (i) the process to be adopted for the preparation, review, change, or variation; and
     (ii) the general form and content of any document to be drafted for the purposes of consultation or notification under clause 5 of Schedule 1 of the Resource Management Act 1991:
   (b) that the local authority and the Trust must decide jointly on the final recommendation to the local authority on whether to commence a review of, and whether to make an amendment to, a Resource Management Act 1991 planning document:
@@ -589,7 +591,7 @@ In working together to develop the joint management agreement, and in working to
     (ii) discharge a contaminant or water into the Waikato River:
     (iii) discharge a contaminant onto or into land in circumstances that will result in the contaminant entering the Waikato River:
     (iv) discharge a contaminant onto or into land in circumstances that will result in another contaminant emanating as a result of natural processes from the former contaminant entering the Waikato River:
-    (v) alter, demolish, erect, extend, place, reconstruct, remove, or use a structure or part of structure in, on, under, or over the bed or banks of the Waikato River:
+    (v) alter, demolish, erect, extend, place, reconstruct, remove, or use a structure or part of a structure in, on, under, or over the bed or banks of the Waikato River:
     (vi) drill, excavate, tunnel, or otherwise disturb the bed or banks of the Waikato River:
     (vii) deposit a substance in, on, or under the bed or banks of the Waikato River:
     (viii) reclaim or drain the bed of the Waikato River:
@@ -619,7 +621,7 @@ In working together to develop the joint management agreement, and in working to
     (v) section 92 (requests for further information):
     (vi) sections 95 to 95F (notification of applications for resource consent):
     (vii) sections 127 and 128 (change, cancellation, or review of consent conditions).
-(3) The criteria developed and agreed under subsection (2)(d)—
+(3) The criteria developed and agreed under subsection (2)﻿(d)—
   (a) are additional to, and must not derogate from, the criteria that the local authority must apply under the Resource Management Act 1991:
   (b) do not impose a requirement on a consent authority to change, cancel, or review consent conditions.
 (4) The local authority and the Trust each bears its own costs of complying with this section.
@@ -633,8 +635,8 @@ In working together to develop the joint management agreement, and in working to
   (a) confirming that all matters relating to the joint management agreement have been agreed; or
   (b) identifying the nature of issues in dispute that the parties have not been able to resolve and the position of the parties on the issues; or
   (c) notifying an electronic or written agreement to extend the date by which a joint management agreement must be in force.
-(5) If notice is given under subsection (4)(a), the notice must also specify the date on which the joint management agreement is to come into force.
-(6) If notice is given under subsection (4)(b), the Minister and the Trust, in consultation with the local authority, must work together to resolve the issues.
+(5) If notice is given under subsection (4)﻿(a), the notice must also specify the date on which the joint management agreement is to come into force.
+(6) If notice is given under subsection (4)﻿(b), the Minister and the Trust, in consultation with the local authority, must work together to resolve the issues.
 (7) The working together may continue for a period of no more than 2 months, unless the Minister and the Trust agree in writing or electronically on a longer period.
 (8) If, at the end of 2 months, all matters relating to the joint management agreement have been resolved, the local authority and the Trust must finalise the joint management agreement and give written or electronic notice to the Minister specifying the date on which the joint management agreement is to come into force.
 (9) If, at the end of 2 months, an issue relating to the joint management agreement remains in dispute,—
@@ -644,12 +646,12 @@ In working together to develop the joint management agreement, and in working to
   (a) finalise the joint management agreement; and
   (b) give written or electronic notice to the Minister specifying the date on which the joint management agreement is to come into force.
 (11) The Minister may appoint a facilitator or take any other action that the Minister considers appropriate to promote the resolution of any issues in dispute between the local authority and the Trust.
-(12) If notice is given under subsection (4)(c), not less than 4 months before the extended date by which a joint management agreement must be in force, the local authority and the Trust must give written or electronic notice to the Minister—
+(12) If notice is given under subsection (4)﻿(c), not less than 4 months before the extended date by which a joint management agreement must be in force, the local authority and the Trust must give written or electronic notice to the Minister—
   (a) confirming that—
     (i) all matters relating to the joint management agreement have been agreed; and
     (ii) the joint management agreement will be in force on the extended date; or
   (b) identifying the nature of issues in dispute that the parties have not been able to resolve and the position of the parties on the issues.
-(13) If notice is given under subsection (12)(b), the Minister and the Trust, in consultation with the local authority, must work together to resolve the issues and the provisions of subsections (7) to (11) apply with any necessary modification.
+(13) If notice is given under subsection (12)﻿(b), the Minister and the Trust, in consultation with the local authority, must work together to resolve the issues and the provisions of subsections (7) to (11) apply with any necessary modification.
 (14) The local authority and the Trust may agree that a joint management agreement is to come into force in stages.
 (15) When the local authority and the Trust give notice to the Minister of the date on which the joint management agreement is to come into force, they must also give the Minister a copy of the agreement.
 (16) Schedule 7 of the Local Government Act 2002 does not apply to the local authority and the Trust when, in finalising the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
@@ -782,9 +784,9 @@ The provisions of this Act relating to joint management agreements do not preclu
 ### 62 Joint management agreement must include processes relating to customary activities
 (1) The joint management agreement between a local authority and the Trust must include the processes described in this section.
 (2) There must be processes for the local authority—
-  (a) to carry out the assessment required by section 58(3)(a); and
-  (b) to seek the Trust's views under section 58(3)(b); and
-  (c) to decide conditions under section 58(3)(c).
+  (a) to carry out the assessment required by section 58(3)﻿(a); and
+  (b) to seek the Trust's views under section 58(3)﻿(b); and
+  (c) to decide conditions under section 58(3)﻿(c).
 (3) There must be a process for the parties to explore—
   (a) whether other customary activities could be carried out by Waikato-Tainui on the Waikato River without the need for a statutory authorisation from the local authority; and
   (b) in particular, whether other customary activities could be provided for as permitted activities in relevant regional or district plans.
@@ -914,7 +916,7 @@ In sections 66 to 80,—
 (1) The Trust may give the Registrar-General a written or electronic direction that the sites of significance—
   (a) be registered in the name of Pootatau Te Wherowhero, rather than in the name of the Trust; or
   (b) be no longer registered in the name of Pootatau Te Wherowhero, and instead be registered in the name of the Trust.
-(2) This subsection applies if the Registrar-General receives a written or electronic direction that contains a recital that the direction is given under subsection (1)(a) or (b), is executed or purports to be executed by the Trust, and relates to land registrable or registered in the name of the Trust or in the name of Pootatau Te Wherowhero. In the absence of evidence to the contrary, the direction is sufficient evidence that the direction has been given under subsection (1)(a) or (b).
+(2) This subsection applies if the Registrar-General receives a written or electronic direction that contains a recital that the direction is given under subsection (1)﻿(a) or (b), is executed or purports to be executed by the Trust, and relates to land registrable or registered in the name of the Trust or in the name of Pootatau Te Wherowhero. In the absence of evidence to the contrary, the direction is sufficient evidence that the direction has been given under subsection (1)﻿(a) or (b).
 (3) The Registrar-General must give effect to the direction, notwithstanding the Land Transfer Act 1952 or any other enactment or rule of law.
 (4) If the sites of significance are registered in the name of Pootatau Te Wherowhero,—
   (a) the Trust has all the duties, powers, and rights of the registered proprietor of the land; and
@@ -947,8 +949,8 @@ In sections 66 to 80,—
   (a) to deal with an emergency:
   (b) to do routine maintenance:
   (c) to do soil conservation and river control.
-(8) The Council must consult the Trust before acting under subsection (7)(b) or (c).
-(9) In relation to subsection (7)(c),—
+(8) The Council must consult the Trust before acting under subsection (7)﻿(b) or (c).
+(9) In relation to subsection (7)﻿(c),—
   (a) the Council must have particular regard to the cultural significance of the land to Waikato-Tainui when deciding whether to propose to the trustees that it exercise the right:
   (b) the trustees must give consent if the exercise of the right is reasonably required for soil conservation and river control purposes but may impose conditions protecting the value of the land to Waikato-Tainui.
 (10) The Council is not liable to pay a charge to the Trust for the exercise of its rights under this section.
@@ -989,7 +991,7 @@ In sections 66 to 80,—
   (b) a person who, at the settlement date, holds quota for quota management stock for which the quota management area includes a reserve site:
   (c) a person who, at the settlement date, holds a current annual catch entitlement for quota management stock for which the quota management area includes a reserve site.
 (2) The person is entitled to access and use the reserve sites for the purpose for which the person holds the permit, quota, or catch entitlement, without requiring further permission from, or being liable for a charge by, the Trust.
-(3) The access and use right of a person described in subsection (1)(b) or (c) may be exercised by—
+(3) The access and use right of a person described in subsection (1)﻿(b) or (c) may be exercised by—
   (a) the owner of the quota to which the annual catch entitlement relates; or
   (b) an agent of the owner of the quota to which the annual catch entitlement relates; or
   (c) a purchaser of the annual catch entitlement; or
@@ -1057,8 +1059,8 @@ In sections 66 to 80,—
 (1) Sections 40, except section 40(4), and 42 of the Public Works Act 1981 apply to a managed property as if it were—
   (a) held by the Council for the public work of soil conservation and river control; and
   (b) acquired by the Council from the person from whom the land was first acquired for a public work.
-(2) If section 42(1)(a) or (b) of the Public Works Act 1981 applies to a managed property,—
-  (a) section 42(1)(c) and (d) do not apply; and
+(2) If section 42(1)﻿(a) or (b) of the Public Works Act 1981 applies to a managed property,—
+  (a) section 42(1)﻿(c) and (d) do not apply; and
   (b) the chief executive of LINZ or the local authority must instead transfer the managed property to the Trust for no financial or other consideration.
 (3) This section ceases to apply to a managed property disposed of under subsection (2).
 (4) Section 50 of the Public Works Act 1981 applies to a managed property.
@@ -1068,7 +1070,7 @@ In sections 66 to 80,—
   (b) is considering—
     (i) keeping the property itself for another public work; or
     (ii) disposing of the property under section 50 of the Public Works Act 1981 for a public work, whether of the same kind or not.
-(7) The Council and the Trust must discuss whether the public work referred to in subsection (6)(b)(i) or (ii) could be carried out if the property were transferred to the Trust instead of being kept by the Council or disposed of under section 50 of the Public Works Act 1981 and, if they agree it could, the Council must transfer the property to the Trust for no financial or other consideration.
+(7) The Council and the Trust must discuss whether the public work referred to in subsection (6)﻿(b)﻿(i) or (ii) could be carried out if the property were transferred to the Trust instead of being kept by the Council or disposed of under section 50 of the Public Works Act 1981 and, if they agree it could, the Council must transfer the property to the Trust for no financial or other consideration.
 
 ### 78 How various other Acts affect managed properties
 (1) In relation to the 1995 Act,—
@@ -1078,7 +1080,7 @@ In sections 66 to 80,—
 (3) In relation to the Crown Minerals Act 1991, a vesting under section 74 of this Act does not—
   (a) limit section 10 or 11; or
   (b) affect other rights to subsurface minerals.
-(4) In relation to the Estate and Gift Duties Act 1968, no gift duty is payable for the gift described in section 74(3), 77(2)(b), or 77(7) of this Act.
+(4) In relation to the Estate and Gift Duties Act 1968, no gift duty is payable for the gift described in section 74(3), 77(2)﻿(b), or 77(7) of this Act.
 (5) In relation to the Local Government Act 1974, the permission of a council under section 348 is not required for forming, granting, laying out, or reserving a private road, private way, or right of way required to fulfil the terms of this Act in relation to a managed property.
 (6) In relation to the Resource Management Act 1991, section 11 and Part 10 do not apply to—
   (a) a vesting under section 74 of this Act; or
@@ -1116,13 +1118,13 @@ In sections 66 to 80,—
   (b) identifying—
     (i) the matters that have been agreed; and
     (ii) the nature of issues in dispute that the parties have not been able to resolve and the position of the parties on the issues.
-(7) If notice is given under subsection (6)(a), the written document becomes the agreement on the day notice is given.
-(8) If notice is given under subsection (6)(b), the Council, the Minister, and the Trust must work together to resolve the issues.
+(7) If notice is given under subsection (6)﻿(a), the written document becomes the agreement on the day notice is given.
+(8) If notice is given under subsection (6)﻿(b), the Council, the Minister, and the Trust must work together to resolve the issues.
 (9) The working together may continue for a period of no more than 2 months.
 (10) If, at the end of 2 months, all matters relating to the agreement have been resolved and are contained in a written document signed by the Council, the Minister, and the Trust, the document becomes the agreement on the day it is signed.
 (11) If, at the end of 2 months, an issue relating to the agreement remains in dispute, the Minister must—
   (a) determine the issue; and
-  (b) on the basis of the determination, sign a written document containing the matters referred to in subsection (6)(b)(i) and the matters determined by the Minister; and
+  (b) on the basis of the determination, sign a written document containing the matters referred to in subsection (6)﻿(b)﻿(i) and the matters determined by the Minister; and
   (c) provide copies of the signed document to the Council and the Trust.
 (12) The document becomes the agreement on the date on which the Minister signs it.
 (13) The agreement is enforceable in accordance with its terms.
@@ -1132,8 +1134,8 @@ In sections 66 to 80,—
 
 ### 81 Definitions for sections 82 to 84
 In sections 82 to 84,—
-  (a) Huntly Power Station means the leasehold estate comprised in computer interest register 74694 (South Auckland) including all lessee's fixtures and improvements:
-  (b) owner means the registered proprietor of the Huntly Power Station on the date on which this section comes into force.
+  - **Huntly Power Station** means the leasehold estate comprised in computer interest register 74694 (South Auckland) including all lessee's fixtures and improvements
+  - **owner** means the registered proprietor of the Huntly Power Station on the date on which this section comes into force.
 
 ### 82 Right of first refusal over leasehold estate in Huntly Power Station
 (1) The owner must give the Trust a notice as described in subsection (2), if the owner proposes to transfer the Huntly Power Station, or any part of it, to any person other than—
@@ -1190,8 +1192,8 @@ In sections 82 to 84,—
 
 ### 85 Definitions for section 86
 In section 86,—
-  (a) owner means the original proprietor of the licence:
-  (b) licence means the existing privilege under the Crown Minerals Act 1991 registered under number 37152.
+  - **owner** means the original proprietor of the licence
+  - **licence** means the existing privilege under the Crown Minerals Act 1991 registered under number 37152.
 
 ### 86 Right of first refusal over licence
 (1) The owner must give the Trust a notice as described in subsection (2), if the owner proposes to transfer the licence to any person other than—
@@ -1589,7 +1591,7 @@ The trustee may pay or apply all or any of the capital of the trust to promote o
     (iii) as a manager or agent for or on behalf of the trustee in all or any matters relating to the management and the control of the trust and any business owned by the trustee or in which it is concerned:
     (iv) as a secretary of the trustee:
     (v) as an employee of the trustee in all or any matters relating to the trust; and
-  (m) to act on an opinion or advice or information obtained from a person referred to in subclause (l)(i); and
+  (m) to act on an opinion or advice or information obtained from a person referred to in subclause (l)﻿(i); and
   (n) to determine all questions and matters of doubt that may arise in the course of the administration, distribution, investment, liquidation, management, partition, realisation, or winding up of the trust fund or the trust in a manner conducive to the attainment of the object; and
   (o) generally to do all other lawful acts and things that are incidental or conducive to the attainment of the object; and
   (p) to pay from the assets of the trust costs incurred by the trustee in carrying out any of its duties or functions or exercising any of its authorities, discretions, or powers, except as prohibited by clause 12.
@@ -1689,7 +1691,7 @@ The Authority is a body corporate separate from—
 (2) In appointing members to the Authority, the Minister—
   (a) may seek recommendations from persons whom the Minister considers appropriate; and
   (b) must have regard to the members already appointed to the Authority to ensure that the membership reflects a balanced mix of knowledge and experience in relation to the Waikato River; and
-  (c) must ensure that at least 2 of the members appointed under subclause (1)(f) to (h) are ordinarily resident in the Waikato region.
+  (c) must ensure that at least 2 of the members appointed under subclause (1)﻿(f) to (h) are ordinarily resident in the Waikato region.
 (3) In recommending a person for appointment as a member of the Authority, a local authority must be satisfied that the person has the skills, knowledge, or experience to—
   (a) participate effectively in the governance of the Authority and the management of its functions; and
   (b) contribute to the achievement of the overarching purpose of the settlement to restore and protect the health and wellbeing of the Waikato River for future generations.
@@ -1717,7 +1719,7 @@ The Authority is a body corporate separate from—
   (b) may be reappointed for further terms of up to 3 years each.
 
 ### 4 Cessation of membership
-(1) A member whose term of appointment has ended under clause 3(3)(a) continues to hold office until—
+(1) A member whose term of appointment has ended under clause 3(3)﻿(a) continues to hold office until—
   (a) the member is reappointed; or
   (b) the appointer of the member appoints a successor for the member.
 (2) A member may resign from the Authority by giving 4 weeks’ written or electronic notice to—
@@ -1740,16 +1742,16 @@ The Authority is a body corporate separate from—
 (7) The appointer of the member must appoint a successor to the member as soon as reasonably practicable and within 4 weeks.
 
 ### 5 Vacancies in membership
-(1) This clause applies if there is a vacancy in the membership of the Authority because the appointer named in any of clause 2(1)(a) to (e)—
+(1) This clause applies if there is a vacancy in the membership of the Authority because the appointer named in any of clause 2(1)﻿(a) to (e)—
   (a) has not appointed a member; or
   (b) has not appointed a successor to a member.
 (2) The Trust may appoint an interim member until the appointer appoints a member or appoints a successor to a member.
-(3) The Crown must reduce its representation at meetings held while there is a vacancy to ensure that the number of members appointed under clause 2(1)(f) to (h) at meetings equals the number of members appointed under clause 2(1)(a) to (e).
+(3) The Crown must reduce its representation at meetings held while there is a vacancy to ensure that the number of members appointed under clause 2(1)﻿(f) to (h) at meetings equals the number of members appointed under clause 2(1)﻿(a) to (e).
 
 ### 6 Co-chairs
 (1) Two members of the Authority are to be co-chairs.
-(2) The members appointed under clause 2(1)(a) to (e) must designate one of their number to be one of the co-chairs.
-(3) The appointer of members under clause 2(1)(f) to (h) must designate one of those members to be one of the co-chairs.
+(2) The members appointed under clause 2(1)﻿(a) to (e) must designate one of their number to be one of the co-chairs.
+(3) The appointer of members under clause 2(1)﻿(f) to (h) must designate one of those members to be one of the co-chairs.
 (4) A co-chair—
   (a) holds office for a term of up to 3 years unless before his or her term as co-chair ends he or she ceases to be a member of the Authority; and
   (b) may hold office for further terms of up to 3 years each for so long as he or she continues to be a member of the Authority.
@@ -1784,9 +1786,9 @@ The Authority is a body corporate separate from—
 (3) A member has the right to attend any meeting, unless lawfully excluded.
 (4) A member unable to attend a meeting in person may attend by way of an electronic means.
 (5) The quorum for meetings is one of the following:
-  (a) the co-chair appointed from among the members appointed under clause 2(1)(a) to (e), 2 other members appointed under clause 2(1)(a) to (e), and 3 members appointed under clause 2(1)(f) to (h); or
-  (b) the co-chair appointed from among the members appointed under clause 2(1)(f) to (h), 2 other members appointed under clause 2(1)(f) to (h), and 3 members appointed under clause 2(1)(a) to (e); or
-  (c) both co-chairs, 2 members appointed under clause 2(1)(f) to (h), and 2 members appointed under clause 2(1)(a) to (e).
+  (a) the co-chair appointed from among the members appointed under clause 2(1)﻿(a) to (e), 2 other members appointed under clause 2(1)﻿(a) to (e), and 3 members appointed under clause 2(1)﻿(f) to (h); or
+  (b) the co-chair appointed from among the members appointed under clause 2(1)﻿(f) to (h), 2 other members appointed under clause 2(1)﻿(f) to (h), and 3 members appointed under clause 2(1)﻿(a) to (e); or
+  (c) both co-chairs, 2 members appointed under clause 2(1)﻿(f) to (h), and 2 members appointed under clause 2(1)﻿(a) to (e).
 (6) A meeting is properly constituted if a quorum is present.
 (7) At least a quorum must be present during the whole of the time at which the business is transacted at the meeting.
 (8) Members may bring to meetings such advisers as the Authority considers necessary to facilitate the efficient transaction of the meeting's business.
@@ -1808,7 +1810,7 @@ The Authority is a body corporate separate from—
 ### 10 Decisions by Minister and nominated person
 (1) If the members of the Authority are unable to reach a decision as described in clause 9(1), they must refer the matter to—
   (a) the Minister for the Environment or another Minister nominated by the Minister for the Environment; and
-  (b) a person nominated by the members appointed under clause 2(1)(a) to (e).
+  (b) a person nominated by the members appointed under clause 2(1)﻿(a) to (e).
 (2) The members of the Authority must provide the persons to whom the matter is referred under subclause (1) with a written statement of the matters in disagreement and the reasons for the disagreement.
 (3) The persons must work in good faith to resolve the matter.
 (4) If the persons reach agreement on a resolution of the matter, they must notify the Authority of the recommended resolution.
@@ -1906,16 +1908,16 @@ The Authority is a body corporate separate from—
 
 ### 17 First steps
 (1) The terms of membership of the initial members are as follows:
-  (a) for the purposes of clause 2(1)(a), the initial member is appointed for a term of 5 years:
-  (b) for the purposes of clause 2(1)(b) and (c), the initial members are appointed for terms of 2 years:
-  (c) for the purposes of clause 2(1)(d) and (e), the initial members are appointed for terms of 3 years:
-  (d) for the purposes of clause 2(1)(f) and (g), the initial members are appointed for terms of 2 years:
-  (e) for the purposes of clause 2(1)(h), the initial members are appointed for terms of 3 years.
+  (a) for the purposes of clause 2(1)﻿(a), the initial member is appointed for a term of 5 years:
+  (b) for the purposes of clause 2(1)﻿(b) and (c), the initial members are appointed for terms of 2 years:
+  (c) for the purposes of clause 2(1)﻿(d) and (e), the initial members are appointed for terms of 3 years:
+  (d) for the purposes of clause 2(1)﻿(f) and (g), the initial members are appointed for terms of 2 years:
+  (e) for the purposes of clause 2(1)﻿(h), the initial members are appointed for terms of 3 years.
 (2) The Authority must have its first meeting within 3 months of the commencement date.
 (3) The initial co-chairs are—
-  (a) the member appointed under clause 2(1)(a); and
-  (b) the member appointed under clause 2(1)(h) designated by the appointer of members under clause 2(1)(h) to be an initial co-chair.
-(4) For not less than 5 years following the commencement date, the member appointed under clause 2(1)(a) is the designated co-chair under clause 6(2).
+  (a) the member appointed under clause 2(1)﻿(a); and
+  (b) the member appointed under clause 2(1)﻿(h) designated by the appointer of members under clause 2(1)﻿(h) to be an initial co-chair.
+(4) For not less than 5 years following the commencement date, the member appointed under clause 2(1)﻿(a) is the designated co-chair under clause 6(2).
 
 ## Schedule 7 — Integrated river management plan
 
