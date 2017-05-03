@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-05-03_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -30,6 +30,7 @@ In this Act,—
   (g) provisions from Parts 1 and 1A of the 1987 Act about the following matters are set out in Part 4:
     (i) network operators and connection to, and misuse of, a network (subpart 1):
     (ii) maintenance of networks (subpart 2); and
+  (gaab) subpart 4 of Part 4 sets out provisions granting statutory rights for owners of existing electricity works (for example, power poles) to enter land where those works are situated and use the existing works for undertaking fibre optic works; and
   (gaa) provisions about undertakings required to be given by providers of certain telecommunications services involving fibre optic communications networks constructed in whole or in part using Crown investment funding, restrictions on unbundling in respect of such service providers, and the preparation and disclosure of information are set out in Part 4AA; and
   (ga) enforcement provisions are set out in Part 4A; and
   (gb) provisions facilitating the establishment of 1 or more complaints systems for the purpose of addressing complaints by consumers against service providers are set out in Part 4B; and
@@ -77,7 +78,8 @@ In this Act, unless the context otherwise requires,—
   - **existing works** —
     (a) means any works relating to the provision of telecommunications under the Post Office Act 1959 (or any former Act) that were wholly or partly in existence, or for which work on the construction, erection, or laying commenced, before 1 January 1988; and
     (b) includes, for the purposes of subpart 2 of Part 4, any works relating to any conveyance that constitutes broadcasting under the Post Office Act 1959 (or any former Act) that were wholly or partly in existence, or for which work on the construction, erection, or laying commenced, before 1 January 1988; but
-    (c) does not include any works that, after that date, have been altered or moved or added to in a way that substantially alters their character or location, as the case may be
+    (c) does not include any works that, after that date, have been altered or moved or added to in a way that substantially alters their character or location, as the case may be; and
+    (d) in subpart 4 of Part 4, has the same meaning as in section 155ZS
   - **fibre-to-the-premises access network** has the meaning set out in section 156AB
   - **financial year** means a period of 12 months beginning on 1 July in any year and ending on 30 June in the following year
   - **fixed PDN** —
@@ -182,6 +184,9 @@ In this Act, unless the context otherwise requires,—
   (a) designated services or specified services:
   (b) services supplied under a registered undertaking.
 (2) Schedule 2 sets out provisions that apply to telecommunications access codes.
+
+### 7A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 8 Act binds the Crown
 This Act binds the Crown.
@@ -1649,6 +1654,7 @@ Part 2 of the Commerce Act 1986 does not apply in respect of a TSO instrument or
 (3) A body corporate is not able to exert a substantial degree of influence over another body corporate for the purposes of subsection (2) just because—
   (a) those bodies corporate are in competition in the same market; or
   (b) one of them supplies goods or services to the other.
+(4) If any of the circumstances described in subsection (1)﻿(a) to (e) apply to 2 or more bodies corporate for part of a year, those bodies corporate must be treated as 1 person in respect of that part of the year to which the relevant circumstance applies.
 
 ### Subpart 2 — Amounts payable by liable persons to the Crown
 
@@ -1656,9 +1662,10 @@ Part 2 of the Commerce Act 1986 does not apply in respect of a TSO instrument or
 
 ### 80 Interpretation
 In this subpart, unless the context otherwise requires,—
-  - **financial statements** ,—
-  (a) except if section 79 applies, has the same meaning as in section 6 of the Financial Reporting Act 2013; and
-  (b) if section 79 applies, means a consolidated statement of financial performance of the 2 or more bodies corporate required by that section to be treated as 1 person, prepared in accordance with generally accepted accounting practice, as defined in section 8 of the Financial Reporting Act 2013
+  - **financial reporting standard** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
+  - **financial statements** —
+    (a) has the same meaning as in section 6 of the Financial Reporting Act 2013, unless section 79 applies; and
+    (b) if section 79 applies and an applicable financial reporting standard requires the bodies corporate to produce group financial statements (within the meaning of section 7 of the Financial Reporting Act 2013), means those financial statements
   - **minimum telecommunications revenue** means $10 million, or such other amount, as may be prescribed by regulations made under section 101(1)﻿(a), of gross revenue (as may be determined in accordance with any specifications set by the Commission) that a liable person receives during a financial year for supplying either or both of the following (excluding any amount paid to a liable person by the Crown as compensation for the cost of complying with a TSO instrument that contains a specified amount):
     (a) telecommunications services by means of its PTN:
     (b) telecommunications services by means that rely primarily on the existence of its PTN or any other PTN.
@@ -1670,12 +1677,19 @@ In this subpart, unless the context otherwise requires,—
   (a) the liable person was not trading in the financial year preceding financial year A; or
   (b) the liable person's telecommunications revenue for the year preceding financial year A was less than the minimum telecommunications revenue.
 (2) For the purpose of determining whether a person is a liable person to whom this subpart applies in respect of a financial year, the Commission may, by written notice to that person, require the person to provide to the Commission, within the time specified in the notice,—
-  (a) a copy of the person's financial statements for the year preceding financial year A; and
+  (a) the person’s financial statements for the year preceding financial year A, which may be the financial statements for—
+    (i) the financial year as defined in section 5; or
+    (ii) if the person has a different accounting period, the relevant period for that person, provided that the financial statements are for a period of 12 consecutive months ending not more than 6 months before 30 June in the year preceding financial year A; and
   (b) any further information specified by the Commission for the purpose of enabling it to verify the telecommunications revenue of that person for the year preceding financial year A; and
   (c) a certificate that complies with subsection (3).
 (3) A certificate complies with this subsection if—
   (a) it certifies the person's telecommunications revenue for the year preceding financial year A; and
   (b) it is signed by 2 directors of the person with the authority of the other directors.
+
+### 81A Application of subpart if non-liable person acquires assets of liable person
+(1) Subsection (2) applies if, during a financial year, a liable person disposes of assets used to generate qualified revenue and a person who acquires those assets is a non-liable person.
+(2) The acquirer of the assets must, in relation to revenue associated with those assets, pay the amount of the telecommunications development levy determined under section 88(b), and any further amounts that may be payable to the Crown under section 89, as if the acquirer were the liable person, regardless of whether any part of the revenue taken into account in calculating that liability was received before the person acquired the assets.
+(3) To avoid doubt, an acquirer of assets who does not receive the minimum telecommunications revenue is not a liable person.
 
 ### 82 Liable persons must produce information on qualified revenue
 Not later than 60 working days before the end of each financial year (financial year A), each liable person must provide to the Commission a copy of—
@@ -1687,10 +1701,10 @@ Not later than 60 working days before the end of each financial year (financial 
 ### 83 Liable persons must produce information for purposes of liability allocation determination
 (1) Not later than 60 working days after the end of each financial year, each liable person must provide to the Commission—
   (a) all prescribed information or, if there is no prescribed information, information specified by the Commission, for the purpose of enabling the Commission to make its determination in accordance with section 88(a); and
-  (b) a report that complies with subsection (2).
-(2) A report complies with this subsection if—
-  (a) it is prepared by a qualified auditor; and
-  (b) it includes a statement of the extent to which the information provided by the liable person under subsection (1)﻿(a) is correct and complete.
+  (b) either—
+    (i) a report on the information provided by the liable person under subsection (1)﻿(a), prepared by a qualified auditor in accordance with an auditing and assurance standard issued under section 12 of the Financial Reporting Act 2013, as specified by the Commission; or
+    (ii) an alternative form of assurance, as specified by the Commission, that the Commission is satisfied will enable it to make a determination.
+(2)
 
 ### 84 Commission to prepare draft liability allocation determination
 (1) The Commission must—
@@ -1752,7 +1766,7 @@ A final liability allocation determination must include—
 
 ### 91 Commission must notify final liability allocation determination before notifying TSO cost calculation determination
 (1) The Commission may determine the priority between the preparation of a liability allocation determination and the preparation of a TSO cost calculation determination and, accordingly, may comply with sections 84 to 88 and sections 94F to 94K in the sequence, as between those 2 sets of sections, as it thinks fit.
-(2) However, the Commission must publicly notify a final liability allocation determination for each financial year in accordance with section 87(1)﻿(b) before it publicly notifies any final TSO cost calculation determination for that financial year in accordance with section 94J(1)﻿(b).
+(2)
 
 **TSO cost calculation determination**
 
@@ -2583,6 +2597,171 @@ Before an FTTP service provider enters, or performs work in, any part of a multi
 ### 156 Notices to be in writing
 [Repealed]
 
+### Subpart 4 — Right of access to use existing electricity works for telecommunications and deploying fibre optic cable
+
+### 155ZR Purposes
+(1) The overall purpose of this subpart is to make a significant contribution to the work and personal lives of people residing in rural areas of New Zealand, in particular, by enabling existing electricity infrastructure to be used for deploying fibre optic cable and, by that means,—
+  (a) accelerate the roll-out of fibre-to-the-premises in those areas; and
+  (b) enable access to high-speed communications for businesses, for schools, and for individual purposes, including for accessing health, banking, and other services, and for establishing and maintaining social and support networks.
+(2) To those ends, the other purposes of this subpart are to—
+  (a) provide owners of existing works (including power poles, overhead lines, and other infrastructure connected with the generation, conversion, transformation, or conveyance of electricity) with a right to enter rural and other land on which those existing works are situated and use the works for the purposes of deploying, maintaining, and upgrading fibre optic cable for delivering telecommunications services; and
+  (b) ensure that the owners of the existing works provide the owners of the land on which those works are situated with direct benefits to offset the impact of the right of entry on the landowner’s own property rights; and
+  (c) ensure that owners of existing works and third parties are subject to open access obligations enforceable by the Commission and that owners of existing works may be subject to other regulatory action if they are not exercising their rights under this subpart and are refusing third party requests for arrangements enabling third parties to use those rights for deploying fibre optic cable.
+
+### 155ZS Interpretation
+In this subpart, unless the context otherwise requires,—
+  - **breakout point** means a point along a fibre optic cable where provision is made for the installation of 1 or more fibre optic connectors
+  - **connection point** means the primary residence or any other building that a landowner nominates for a fibre connection under this subpart
+  - **existing works** —
+    (a) has the same meaning as in section 2(1) of the Electricity Act 1992; and
+    (b) includes works comprising fibre optic cable installed on existing works before 1 December 2016 and used or intended to be used in connection with the conveyance of electricity (for example, fibre optic cable installed for the purposes of monitoring and ensuring control of the electricity network)
+  - **fibre optic works** —
+    (a) means fittings, including fibre optic cable and related materials, used or intended to be used in connection with installing, maintaining, or upgrading any part of a fibre-based network for telecommunications that incorporates fibre optic cable deployed on existing works; and
+    (b) means the installation, maintenance, or upgrading of any part of a fibre-based network for telecommunications as described in paragraph (a); but
+    (c) does not include fibre optic cable that falls within paragraph (b) of the definition of existing works, unless it is repurposed fibre
+  - **layer 1** means layer 1 of the OSI Model, which is normally associated with passive fibre optic network infrastructure
+  - **layer 1 service** means any service that operates at layer 1
+  - **layer 2** means layer 2 of the OSI model, which is normally associated with active fibre optic network infrastructure
+  - **layer 2 service** means any service that operates at layer 2
+  - **maintenance** means—
+    (a) repairs and other activities for the purpose of maintaining, or that have the effect of maintaining, fibre optic works; and
+    (b) the carrying out of any replacement or upgrade of fibre optic works
+  - **OSI Model** means the 7 layer model of network architecture known as the Open Systems Interconnection Model
+  - **point of supply** has the same meaning as in section 2(3) of the Electricity Act 1992
+  - **repurposed fibre** means fibre optic cable that falls within paragraph (b) of the definition of existing works but which, in addition to being used for purposes connected with the conveyance of electricity, may also be used for the purposes of exercising the rights under this subpart has the same meaning as in section 5
+  - **third party** means—
+    (a) a service provider:
+    (b) a network operator.
+
+### 155ZT Right for owners of existing works to enter land and carry out fibre optic works
+(1) An owner of existing works may enter land on which the works are situated for the purpose of accessing those works and carrying out fibre optic works.
+(2) The right of entry is subject to the conditions that the owner of the existing works—
+  (a) complies with the notice requirements in section 155ZZB(2)﻿(c) to (g); and
+  (b) provides the landowner with the capability to connect to a fibre-to-the-premises access network (whether by including, when the fibre optic cable is first being deployed on the existing works, a breakout point in a position that the owner of the existing works considers appropriate, or by any other means suitable for ensuring connectability between the landowner’s property and a network); and
+  (c) provides a single fibre connection to the connection point that meets the relevant requirements in section 155ZU.
+(3) The requirements in subsection (2)﻿(b) and (c) do not apply in relation to repurposed fibre.
+
+### 155ZU Fibre optic connections that owners of existing works must provide to landowners
+Standard connections
+(1) If the distance between the breakout point (or equivalent) and the connection point is 200 metres or less, the owner of the existing works must provide the landowner with a standard connection.
+(2) The owner of the existing works provides a standard connection by aerially installing up to, and including, 200 metres of fibre optic cable between the breakout point (or equivalent) and the connection point, at no cost to the landowner.
+Non-standard connections
+(3) If the distance between the breakout point (or equivalent) and the connection point is more than 200 metres, the owner of the existing works must provide the landowner with a non-standard installation.
+(4) The owner of the existing works provides a non-standard installation by—
+  (a) aerially installing up to, and including, 200 metres of fibre optic cable along the distance between the breakout point (or equivalent) and the connection point, at no cost to the landowner; and
+  (b) contributing 50% of the costs of aerially installing fibre optic cable over the remaining distance, up to, and including, 500 metres, between the 200 metres installed under paragraph (a) and the connection point.
+Rights and obligations of owner of existing works and landowner where aerial installation not possible
+(5) Despite subsections (1) to (4), if an aerial installation is not practicable and trenching is required at any point,—
+  (a) the landowner must provide, or meet the cost of, that trenching; and
+  (b) the obligation of the owner of the existing works is not affected, except to the extent that, in any place where the fibre optic cable cannot be installed aerially, the landowner is responsible for trenching in that place as provided in paragraph (a).
+Variations
+(6) Nothing in this section prevents an owner of existing works and a landowner from entering into an agreement to replace or vary the rights and obligations concerning the installation of a fibre connection to a building on the landowner’s property provided for in this section.
+(7) In this section, an equivalent, in relation to a breakout point, means any means by which the owner of the existing works provides the landowner with the capability to connect to a fibre-to-the-premises access network, as referred to in section 155ZT(2)﻿(b), other than by including a break-out point.
+
+**Third party use of existing works**
+
+### 155ZV Third party use of existing works for carrying out fibre optic works
+(1) An owner of existing works and a third party may enter into an arrangement for the third party to use the owner’s existing works for carrying out fibre optic works.
+(2) The right under subsection (1) applies only if the owner of the existing works remains responsible to any landowner on whose land the existing works are situated for the performance of all obligations and the discharge of all liabilities under this subpart relating to fibre optic works.
+(3) Subsection (2) is subject to section 155ZZC(3) (as if the reference to subsection (2) in that section were a reference to subsection (2) of this section).
+(4) Nothing in this section or sections 155ZW to 155ZZC affects an arrangement between the owner of existing works and a third party for the third party to use the existing works for the purposes of carrying out fibre optic works if—
+  (a) the arrangement is entered into before the date of commencement of this subpart; and
+  (b) the third party is not exercising the rights under this subpart.
+
+### 155ZW Third party request to use existing works for carrying out fibre optic works
+(1) A third party may request an owner of existing works who is not exercising the rights under this subpart to enter into an arrangement under section 155ZV.
+(2) A request must be made in writing.
+(3) The third party who makes the request must provide to the owner of the existing works any relevant information that the owner considers necessary to properly consider the request.
+(4) However, the third party may choose to withhold any information that the third party considers is commercially sensitive or subject to legal protection and, in that case, must substitute an explanation for the information withheld.
+
+### 155ZX Owner of existing works must consider request
+(1) An owner of existing works must consider a request as soon as practicable after receiving it.
+(2) In considering the request, the owner of the existing works must—
+  (a) act in good faith; and
+  (b) take into account the purposes of this subpart.
+
+### 155ZY Requirements on owner of existing works if request refused
+If the owner of the existing works refuses the request, the owner must—
+  (a) give a notice to the third party that records the refusal; and
+  (b) give a copy of the third party’s request and the notice under paragraph (a) to the Commission.
+
+### 155ZZ Minister may intervene
+(1) The Minister may require the Commission to report to the Minister about the information received under section 155ZY concerning—
+  (a) the requests made to existing works owners by third parties; and
+  (b) the requests refused.
+(2) The Minister may, after considering the Commission’s report, decide whether to recommend that regulation be imposed and, if so, the type or types of regulation.
+
+**Arrangements for third party to use existing works**
+
+### 155ZZA Conditions of right under section 155ZV
+(1) For the purpose of ensuring that an arrangement under section 155ZV does not increase the negative impacts for the landowner of having existing works on his or her property, every arrangement entered into under that section is subject to the conditions in subsections (2) and (3).
+Condition concerning communications
+(2) The owner of the existing works (and not the third party)—
+  (a) is the person responsible for all communications with the landowner concerning the existing works, in so far as the communications involve fibre optic works; and
+  (b) is the only person who may conduct those communications, unless—
+    (i) the landowner authorises the third party to conduct those communications, either generally or from time to time; or
+    (ii) it is necessary for the third party to communicate with the landowner because there are circumstances of probable danger to life or property or it is immediately necessary to maintain the continuity of telecommunications services.
+Condition concerning compensation
+(3) The owner of the existing works (and not the third party, except as provided in section 155ZZC(3)) must pay compensation to the landowner for damage, loss, or injury as provided in section 155ZZC.
+
+**Rights and obligations concerning exercise of rights**
+
+### 155ZZB Powers and duties of owners of existing works and landowners
+(1) The provisions of the Electricity Act 1992 specified in subsection (2) apply to the owner of existing works and the owner of the land on which those works are situated—
+  (a) as if every reference to existing works in those provisions included fibre optic works; and
+  (b) with all other necessary modifications.
+(2) The provisions of the Electricity Act 1992 are—
+  (a) section 22 (protection of existing works):
+  (b) section 22A (owners of land not responsible for maintenance):
+  (c) section 23 (rights of entry in respect of existing works):
+  (d) section 23A (line owner must give written notice of intention to maintain or complete existing works):
+  (e) section 23B (line owner must give notice of intention to inspect or operate existing works):
+  (f) section 23C (notice in emergencies):
+  (g) section 23D (land owner may set reasonable conditions on line owner’s entry):
+  (h) section 23E (agreements preserved):
+  (i) section 23F (disputes about land access).
+
+### 155ZZC Compensation for damage, etc
+(1) Every person who has a right in respect of, or interest in, any land or property that is damaged or injuriously affected by an owner of existing works or a third party exercising any of the statutory rights given by this subpart is entitled to full compensation for all loss, injury, or damage that the person suffers as a result.
+(2) The owner of the existing works is liable to the landowner for payment of the compensation, regardless of whether the owner of the existing works, a third party within the meaning of section 155ZS, or both those persons were responsible for the loss, injury, or damage.
+(3) However, subsection (2) does not prevent an owner of existing works from claiming an indemnity or a contribution from the third party where the owner of the existing works alleges that the third party was wholly or partly responsible.
+(4) If the landowner and the owner of the existing works are unable to reach an agreement concerning compensation for loss, injury, or damage suffered by the landowner,—
+  (a) a claim for compensation under this section may be made within the time and in the manner specified in the Public Works Act 1981; and
+  (b) the provisions of that Act, as far as they are applicable and with all necessary modifications, apply in relation to claims under this section.
+
+**Open access obligations**
+
+### 155ZZD Services provided using rights under subpart
+(1) An owner of existing works who provides a telecommunications service, relying on the rights under this subpart, using repurposed fibre optic cable must,—
+  (a) where capacity exists, offer a layer 1 service and provide that service on non-discriminatory terms; and
+  (b) if the owner of the existing works elects to offer a layer 2 service, provide that service on an open access basis and on non-discriminatory terms.
+(2) An owner of existing works who provides a telecommunications service, relying on the rights under this subpart, using fibre optic cable other than repurposed fibre optic cable must—
+  (a) offer a layer 2 service and provide that service on an open access basis and on non-discriminatory terms; and
+  (b) if the owner of the existing works elects to provide a layer 1 service, offer that service on an open access basis and on non-discriminatory terms.
+(3) If an owner of existing works enters into an arrangement with a third party under section 155ZV, the third party (and not the owner of the existing works) is under the obligations in this section.
+(4) In this section, non-discrimination, in relation to a service, means that the service provider must not treat access seekers differently or, where the service provider supplies itself with a service, must not treat itself differently from other access seekers, except to the extent that a particular difference in treatment is objectively justifiable and does not harm, and is unlikely to harm, competition in any telecommunications market; and non-discriminatory has a corresponding meaning.
+
+### 155ZZE Power to grant relief in respect of breach of open access obligations
+If, on the application of the Commission, it appears to the High Court that an owner of existing works or a third party intends to engage, is engaging, or has engaged in conduct that constitutes, or would constitute, a breach of section 155ZZD, the court may make orders on any terms and conditions that it thinks appropriate, including, without limitation, an order that the existing works owner or third party refrain from, or engage in, a particular conduct.
+
+### 155ZZF Undertaking under Part 4AA overrides open access obligations under subpart
+If a person uses the rights under this subpart as part of a build of infrastructure under the UFB initiative, the provisions of the deed of undertaking entered into by that person under Part 4AA override the open access obligations in this subpart.
+
+### 155ZZG Right of entry does not affect existing works owner’s rights and obligations under Electricity Act 1992
+The right of entry under section 155ZT does not affect any rights or obligations of the owner of the existing works under the Electricity Act 1992.
+
+### 155ZZH Regulations
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that—
+  (a) prescribe aesthetic standards concerning the way in which fibre optic technology and associated equipment must be installed when exercising the rights under this subpart; and
+  (b) prescribe procedural standards for how communications with landowners are undertaken and how persons exercising the rights given by this subpart must act when on private property; and
+  (c) prescribe protocols for ensuring the interoperability of equipment installed; and
+  (d) prescribe minimum clearance distances for fibre optic works that involve existing works; and
+  (e) impose regulation on the rights given by this subpart, in relation to existing works that the owners of those works may confer on third parties under this subpart.
+(2) The Minister must, before recommending the making of regulations under this section,—
+  (a) consult the Minister who is responsible for the administration of the Electricity Act 1992, the owners of existing works (or representatives of those persons) and other persons or their representatives who the Minister considers will be substantially affected by the regulations made in accordance with the recommendation; and
+  (b) in the case of regulations under subsection (1)﻿(e), consult the Commission after taking the steps in section 155ZZ.
+(3) Failure to comply with subsection (2) does not affect the validity of the regulations.
+
 ## Part 4AA — Services provided using networks developed with Crown funding: Undertakings regime and Commerce Act 1986 authorisations
 
 ### Subpart 1 — Preliminary provisions
@@ -2618,10 +2797,16 @@ In this Part, unless the context otherwise requires,—
   - **prescribed** means prescribed by the Commission
   - **relevant service** —
     (a) in subparts 2 and 3, means a wholesale telecommunications service that is provided using, or that provides access to unbundled elements of, an LFC fibre network; and
-    (b) in subpart 4, means a wholesale telecommunications service that is provided using, or that provides access to, unbundled elements of a network that is constructed with funding provided, in whole or in part, by the Crown as part of the Rural Broadband Initiative
+    (b) in subpart 4, means a wholesale telecommunications service that is provided using, or that provides access to, unbundled elements of a network that is constructed with funding provided, in whole or in part, by the Crown as part of the Rural Broadband Initiative; and
+    (c) in subpart 7, has the same meaning as in section 156AZE
   - **Rural Broadband Initiative** means the programme to develop enhanced broadband infrastructure in non-urban areas of New Zealand with the support of Crown grant funding
   - **service provider** means a provider of a relevant service
-  - **UFB initiative** means the competitive tender programme, known as the Ultra-fast Broadband Initiative, to develop fibre-to-the-premises broadband networks connecting 75% of New Zealand households, with the support of $1.5 billion of Crown investment funding
+  - **UFB 2** has the same meaning as in paragraph (b)﻿(i) of the definition of UFB initiative
+  - **UFB initiative** —
+    (a) means the competitive tender programme, known as the Ultra-fast Broadband Initiative, to develop fibre-to-the-premises broadband networks connecting 75% of New Zealand households, with the support of $1.5 billion of Crown investment funding; and
+    (b) includes—
+      (i) the extension to that programme known as UFB 2, to develop fibre-to-the-premises networks connecting at least 80% of New Zealand households; and
+      (ii) any other extension to that programme
   - **UFB partner** means a successful tenderer in the UFB initiative
   - **undertaking** means an undertaking under this Part.
 
@@ -2639,11 +2824,11 @@ The purposes of this subpart are to—
 (1) An LFC must enter into an undertaking in accordance with this subpart.
 (2) The undertaking must—
   (a) be executed by the LFC; and
-  (b) provide for the LFC to supply unbundled layer 1 services on all parts of its fibre-to-the-premises access network on and after 1 January 2020; and
+  (b) provide for the LFC to supply unbundled layer 1 services on all parts of its fibre-to-the-premises access network on and after the specified date; and
   (c) provide for the LFC to—
     (i) achieve non-discrimination in relation to the supply of relevant services; and
-    (ii) design and build the LFC fibre network in a way that enables equivalence in relation to the supply of unbundled layer 1 services to be achieved on and after 1 January 2020; and
-    (iii) achieve equivalence in relation to the supply of unbundled layer 1 services on and after 1 January 2020; and
+    (ii) design and build the LFC fibre network in a way that enables equivalence in relation to the supply of unbundled layer 1 services to be achieved on and after the specified date; and
+    (iii) achieve equivalence in relation to the supply of unbundled layer 1 services on and after the specified date; and
   (d) provide for the LFC to deal with the UFB partner on arm's-length terms (unless the UFB partner and the LFC are not separate entities); and
   (e) provide for the LFC to maximise the use of standard terms for the supply of services through the use of template, or model, agreements; and
   (f) provide for access seekers to have the same access to information from the LFC; and
@@ -2655,6 +2840,14 @@ The purposes of this subpart are to—
 (5) However, an undertaking must not—
   (a) provide for rules or obligations in respect of services that are not relevant services (including layer 1 services); or
   (b) specify the price or non-price terms of supply for any telecommunications service.
+(6) In this section,—
+  - **specified date** means,—
+    (a) in relation to UFB 1 LFCs, 1 January 2020, unless paragraph (c) applies; and
+    (b) in relation to UFB 2 LFCs, 1 January 2026; and
+    (c) in relation to UFB 1 LFCs that win contracts for UFB 2,—
+      (i) 1 January 2020 for the UFB 1 part of the relevant network; and
+      (ii) 1 January 2026 for the UFB 2 part of the relevant network
+  - **UFB 1** has the same meaning as in paragraph (a) of the definition of UFB initiative in section 156AB.
 
 ### 156AE Minister may determine further requirements for undertakings
 (1) The Minister may determine further requirements with which an undertaking must comply.
@@ -2856,6 +3049,9 @@ In this subpart, unless the context otherwise requires,—
 (2) The authorisations—
   (a) apply to any contract, arrangement, or understanding that is entered into before the date on which this section comes into force as if the authorisations were in force at the time of entry; but
   (b) do not apply to any contract, arrangement, or understanding that is entered into more than 2 years after the date on which this section comes into force.
+(2A) Despite subsection (2), the authorisations—
+  (a) apply to any contract, arrangement, or understanding that is entered into in respect of UFB 2 before the date on which this subsection comes into force, as if the authorisation were in force at the time of the entry; but
+  (b) do not apply to any contract arrangement or understanding in respect of UFB 2 that is entered into more than 2 years after the date on which this subsection comes into force.
 (3) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under section 58(1), (2), (5), and (6) of the Commerce Act 1986.
 (4) Sections 65 and 91 to 97 of the Commerce Act 1986 do not apply to the authorisations.
 (5) The effect of the authorisations is the same as that stated in section 58A(1) and (2) of the Commerce Act 1986.
@@ -2865,8 +3061,12 @@ In this subpart, unless the context otherwise requires,—
   (a) any acquisition by a UFB partner or a local fibre company owned partially by the Crown of the fibre optic network assets or undertaking of any telecommunications network company as part of an arrangement with the Crown under the UFB initiative; and
   (b) any acquisition by a UFB partner of the shares of any telecommunications network company (whether on a minority or an equal basis or otherwise) as part of an arrangement with the Crown, or with the Crown and another UFB partner, under the UFB initiative; and
   (c) any acquisition by the Crown of shares in, or assets of, Telecom pursuant to the selection of Telecom as a UFB partner in a particular region or regions.
-(2) The authorisations do not apply to any acquisition that is made more than 2 years after the date on which this section comes into force.
+(2) The authorisations do not apply to any acquisition that is made more than 2 years after the date on which this section comes into force, except an acquisition under UFB 2.
+(2A) The authorisations—
+  (a) apply to any acquisition under UFB 2 that is made before the date on which this subsection comes into force, as if the authorisation were in force at the time the acquisition was made; but
+  (b) do not apply to any acquisition under UFB 2 that is made more than 2 years after the date on which this subsection comes into force.
 (3) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under section 67(3)﻿(b) of the Commerce Act 1986 on the date on which this section comes into force.
+(3A) However, if the authorisations are for any acquisitions under UFB 2, the authorisations must be treated as if they were authorisations granted by the Commission under section 67(3)﻿(b) of the Commerce Act 1986 on the date on which this subsection comes into force.
 (4) Sections 91 to 97 of the Commerce Act 1986 do not apply to the authorisations.
 (5) The effect of the authorisations is the same as that stated in section 69 of the Commerce Act 1986.
 
@@ -3151,6 +3351,55 @@ The enactments specified in Schedule 4 are amended in the manner indicated in th
 
 ### 161 Transitional provision relating to repeal of section 5C of 1987 Act
 Despite any enactment or rule of law, any requirements under Part 2 or regulation 7 of the Telecommunications (Information Disclosure) Regulations 1999 (SR 1999/383) with which Telecom had to comply before the repeal of section 5C of the 1987 Act cease to have effect as if those regulations had not been made.
+
+## Schedule 1AA — Transitional, savings, and related matters
+
+### Part 1 — Provisions relating to Telecommunications (Property Access and Other Matters) Amendment Act 2017
+
+### 1 Interpretation
+In this Part,—
+  - **amendment Act** means the Telecommunications (Property Access and Other Matters) Amendment Act 2017
+  - **commencement date** means the date on which new subpart 3 of Part 4 comes into force
+  - **consent process** , in relation to an installation, means the process of sending to each affected party a request for that person’s consent to the FTTP service provider or network operator entering the relevant property and carrying out the installation
+  - **new subpart 3 of Part 4** means subpart 3 of Part 4 of the principal Act as replaced by section 13 of the amendment Act
+  - **principal Act** means the Telecommunications Act 2001.
+
+**Orders for FTTP services placed before commencement of new subpart 3 of Part 4: transitional provisions**
+
+### 2 Application of clauses 3 to 5 to installations ordered before commencement date
+Clauses 3 to 5 apply to an FTTP service provider or a network operator and an installation of an FTTP service where—
+  (a) the order for the installation was placed with a retail provider before the commencement date; and
+  (b) the installation is prescribed as a category 1 or category 2 installation for the purposes of new subpart 3 of Part 4.
+
+### 3 New subpart 3 of Part 4 applies if consent process not begun as at commencement date
+If the consent process has not begun as at the commencement date, then, despite section 155J(1)﻿(a), new subpart 3 of Part 4 applies as if the order had been placed after the commencement date.
+
+### 4 FTTP service provider or network operator may elect to use statutory procedure
+(1) If the consent process has begun as at the commencement date but no affected person has responded to the request for consent by that date, the FTTP service provider or network operator may elect to—
+  (a) obtain the necessary consents by continuing the process already begun; or
+  (b) meet the preconditions for exercising a statutory right of access under new subpart 3 of Part 4 by—
+    (i) giving affected persons the notice and the further information required under section 155K, 155L, or 155R (whichever applies) as documents in substitution for the request for consent previously made; and
+    (ii) proceeding in accordance with new subpart 3 of Part 4.
+(2) Subclause (1)﻿(b) does not affect the application of section 155J (general preconditions for statutory rights of access to apply) except to the extent that section 155J(1)﻿(a) requires the order for the installation to have been placed after the commencement date.
+
+### 5 Consent process begun and some responses received
+(1) If, as at the commencement date, the consent process has begun and 1 or more affected persons have given their consent but others have not responded to the request for consent, the FTTP service provider or network operator may elect to—
+  (a) obtain the consents of those who have not responded, by continuing the process already begun; or
+  (b) meet the preconditions for exercising a statutory right of access under new subpart 3 of Part 4 by—
+    (i) giving to the affected persons who have not responded the notice and the further information required under section 155K, 155L, or 155R (whichever applies) as documents in substitution for the request for consent given before the commencement date; and
+    (ii) proceeding in accordance with new subpart 3 of Part 4 in respect of those persons.
+(2) The FTTP service provider or network operator may, at its discretion, accept an affected person’s retraction of his or her consent given before the commencement date.
+(3) Subclause (1)﻿(b) does not affect the application of section 155J (general preconditions for statutory rights of access to apply) except to the extent that section 155J(1)﻿(a) requires the order for the installation to have been placed after the commencement date.
+
+**Exercise of Minister’s powers in connection with dispute resolution scheme**
+
+### 6 Action taken by Minister on dispute resolution scheme
+(1) Subclause (2) applies if, before the commencement of sections 13, 20, and 21 of the amendment Act, any action is taken by or on behalf of the Minister in doing any of the following:
+  (a) notifying in the Gazette the information that a person applying for approval of a scheme as the dispute resolution scheme must include in an application:
+  (b) seeking and accepting applications for approval of a scheme as the approved scheme:
+  (c) consulting industry bodies and other persons that the Minister considers would be likely to be substantially affected by a potential approval:
+  (d) approving a scheme as the approved scheme.
+(2) The action taken is deemed to have been taken by the Minister under, and for the purposes of, clauses 3 to 5 of Schedule 3C of the principal Act and bringing the amendment Act into operation.
 
 ## Schedule 1 — Designated services and specified services
 
@@ -3878,6 +4127,176 @@ An application under clause 13 must—
 | a | × c |
 | --- | --- |
 | b |  |
+
+## Schedule 3C — Dispute resolution scheme
+
+### 1 Purpose of dispute resolution scheme
+(1) The purpose of the dispute resolution scheme is to ensure that, if 2 or more persons have a dispute within section 155ZI in relation to an installation, they have access to a dispute resolution scheme for resolving that dispute.
+(2) To achieve the purpose, a scheme is to be established that—
+  (a) provides for a range of dispute resolution processes, including facilitative, evaluative, and determinative processes, so that—
+    (i) each dispute can be resolved through the process assessed to be the most appropriate to the particular dispute, having regard to the nature and circumstances of that dispute; and
+    (ii) if the dispute cannot be resolved by agreement between the parties, the dispute is determined by a neutral third party whose decision is legally binding on the FTTP service provider or a network operator (if either is a party to the dispute); and
+    (iii) the scheme combines both formality and flexibility in a manner most likely to achieve the purposes referred to in paragraph (b); and
+  (b) provides for disputes to be assessed promptly after they are received for the purposes of—
+    (i) identifying the process that is the most appropriate for resolving the dispute; and
+    (ii) ensuring that the dispute is resolved within the time provided in the rules of the scheme, whether by agreement between the parties or determination by a neutral third party.
+
+### 2 Interpretation
+In this schedule, unless the context otherwise requires,—
+  - **affected person** has the same meaning as in section 155D
+  - **approved scheme** is the disputes resolution scheme approved by the Minister under clause 5 (provided that the scheme's approval has not been withdrawn)
+  - **dispute resolution scheme** , at any time, means whichever of the following is in force under this schedule at the time:
+    (a) the approved scheme:
+    (b) the regulated scheme
+  - **installation** includes a proposed installation, an installation being carried out, and an installation that is completed (or claimed or disputed to be completed)
+  - **member** , in relation to the dispute resolution scheme, means an FTTP service provider or a network operator
+  - **provider** ,—
+    (a) in relation to a scheme, means the person responsible for that scheme; and
+    (b) in relation to a proposed scheme, means the person proposed to be responsible for that scheme
+  - **regulated scheme** means the scheme provided for in regulations made under clause 16.
+
+**Approved scheme: approval and withdrawal of approval**
+
+### 3 Application for approval
+(1) The provider of a scheme may apply to the Minister for approval of the scheme as the approved scheme.
+(2) The application must include—
+  (a) the rules of the scheme; and
+  (b) any other information that the Minister, by notice in the Gazette, prescribes as being required to be included in an application under this clause; and
+  (c) the prescribed fee (if any).
+(3) The Minister may ask an applicant to supply any further information or documentation in support of the application.
+
+### 4 Mandatory considerations for approval
+(1) When considering an application under clause 3, the Minister must have regard to the following considerations in light of the principles listed in subclause (2):
+  (a) whether the scheme is capable of meeting the purpose of the dispute resolution scheme as set out in clause 1:
+  (b) the views of persons who are required to be members:
+  (c) whether the scheme is capable of dealing with the wide range of disputes that persons and entities are entitled to refer to it:
+  (d) whether the applicant has adequate funding to enable it to operate the scheme according to its purpose and in accordance with its rules:
+  (e) whether the applicant’s directors and senior managers are competent to manage a dispute resolution scheme:
+  (f) whether the rules of the scheme are adequate and comply with—
+    (i) the principles listed in subclause (2); and
+    (ii) the requirements of clause 12 (rules of approved scheme).
+(2) The principles are—
+  (a) accessibility:
+  (b) independence:
+  (c) fairness:
+  (d) accountability:
+  (e) efficiency:
+  (f) effectiveness.
+
+### 5 Minister must decide application for approval
+(1) After considering an application made under clause 4, the Minister may—
+  (a) approve the scheme as the approved scheme; or
+  (b) decline the application.
+(2) The Minister may decide whether to approve the scheme or decline the application only after consulting—
+  (a) the industry bodies (if any) for the telecommunications industry; and
+  (b) any other persons (or their representatives) that the Minister considers are likely to be substantially affected by the approval.
+(3) A failure to consult the persons referred to in subclause (2) does not affect the validity of any approval of the scheme.
+(4) The Minister may approve a scheme if there is already another approved scheme, but in that case the approval does not take effect until the approval of the other scheme is withdrawn.
+
+### 6 Decision must be notified and publicised
+The Minister must, as soon as practicable after deciding an application,—
+  (a) notify the applicant of the decision; and
+  (b) if the decision is to approve the application, ensure that the approval is publicised.
+
+### 7 Rules of approved scheme not to change without ministerial approval
+(1) The rules of the approved scheme must not be changed unless the Minister approves the change.
+(2) If the provider of the approved scheme notifies the Minister of a proposed rule change, the rule change is deemed to be approved by the Minister 45 working days after the date of notification, unless the Minister declines approval within that 45-day period.
+(3) Despite subclause (2),—
+  (a) the Minister may require the provider of the approved scheme to provide further information before the Minister decides whether to approve or decline the proposed rule change; and
+  (b) if the Minister requires further information to be provided, the rule change is deemed to be approved by the Minister 45 working days after the Minister receives that information, unless the Minister declines approval within the 45-day period.
+(4) The Minister may decline approval for a rule change only on the grounds that, if the rules were changed as proposed, they would not comply with the principles listed in clause 4(2) or the purpose in clause 1.
+
+### 8 Notice of intention to withdraw approval
+(1) If the Minister proposes to withdraw approval for an approved scheme, the Minister must notify the provider.
+(2) The Minister's notice must—
+  (a) state that the Minister intends to withdraw approval of the scheme; and
+  (b) identify which of the 1 or more grounds described in subclause (3) apply; and
+  (c) state why the Minister considers those grounds apply; and
+  (d) specify the notice period, which must be at least 3 months, during which the provider may object, under clause 9, to the intended withdrawal.
+(3) The only grounds for withdrawing approval are as follows:
+  (a) the scheme is not, or is no longer, capable of meeting the purpose of the dispute resolution scheme as set out in clause 1:
+  (b) there has been a loss of broad support for the scheme:
+  (c) there has been a failure to comply with the rules of the scheme:
+  (d) the provider has not publicised the rules as required by clause 12(2):
+  (e) the provider has not supplied the Minister with either or both of the following:
+    (i) a report of a review as required by clause 14:
+    (ii) any further information requested by the Minister under clause 15:
+  (f) the provider has not notified the Minister before changing the rules of the scheme as required by clause 7:
+  (g) the scheme no longer complies with the principles listed in clause 4(2).
+(4) The Minister's notice may require the provider to—
+  (a) notify all members of the Minister's intention to withdraw approval of the scheme; or
+  (b) provide the Minister with a list of the names and business addresses of current members so that the Minister can, if the Minister wishes, notify all members of the Minister's intention to withdraw the scheme's approval.
+
+### 9 Objection to withdrawal of approval
+(1) During the notice period, the provider may object (with reasons) to the proposed withdrawal of approval.
+(2) The Minister must consider any objection that is received before the end of the notice period.
+
+### 10 Withdrawal of approval
+(1) If the Minister has given notice of intention to withdraw his or her approval, the Minister may withdraw the approval at any time after the expiry of the notice period.
+(2) When considering whether to withdraw approval, the Minister must have regard to the considerations referred to in clause 4(1) in light of the principles listed in clause 4(2).
+(3) The Minister must, as soon as practicable, withdraw the approval of an approved dispute resolution scheme if the provider requests that it be withdrawn, in which case the scheme is no longer approved from the date that is 6 months after the date of withdrawal of approval.
+
+### 11 Effect of withdrawal of approval
+On the date that the withdrawal of approval of a scheme takes effect, the members of the scheme become members of—
+  (a) any other approved scheme that is approved with effect from that date; or
+  (b) the regulated scheme.
+
+**Approved scheme: rules and obligations**
+
+### 12 Rules of approved scheme
+(1) The rules of the approved scheme must provide for, or set out, the following:
+  (a) who may refer disputes to the scheme for resolution:
+  (b) how disputes may be referred to the scheme:
+  (c) the kinds of disputes that the scheme will deal with:
+  (d) when a dispute referred to the scheme may be investigated under the scheme:
+  (e) that any investigation as part of a process for resolving a dispute must be undertaken in a way that is consistent with the rules of natural justice:
+  (f) when a neutral third party may make a determination on a dispute referred to the scheme:
+  (g) that a hearing for the purposes of making a determination on a dispute is to be conducted on the papers, unless the person making the determination thinks that an oral hearing is required:
+  (h) the procedure for conducting a hearing on the papers:
+  (i) the time within which a determination on a dispute is to be made:
+  (j) that a determination must be made in writing and include the reasons of the decision maker:
+  (k) that, in relation to a dispute, any information may be considered and any inquiry may be made, that is fair and reasonable in the circumstances:
+  (l) the kinds of remedial action that the scheme may require FTTP service providers or network operators to take in order to resolve disputes (for example, a requirement to compensate up to a certain amount stated in the rules, or to carry out reinstatement work, or, in the case of an affected person, to consent to a category 2 installation):
+  (m) when parties to a dispute are bound by an agreement or a determination under the scheme and what rights parties to a dispute (other than scheme members) have to appeal against a determination:
+  (n) that the scheme may stop investigating and resolving a dispute if any party to the dispute takes alternative court action against another party to the dispute:
+  (o) that the scheme will not charge any person (other than a scheme member) a fee for an investigation or assistance to resolve a dispute (including by determination, if the parties to the dispute are unable to resolve the dispute by agreement):
+  (p) how the provider will promote knowledge about, and access to, the scheme to members and persons entitled to make a complaint.
+(2) The responsible person of the approved scheme must publicise the rules.
+
+### 13 List of members
+The provider of the approved scheme must maintain and publicise a list of current members of the scheme.
+
+### 14 Five-yearly review
+(1) The provider of the approved scheme must ensure that, 2 years after the scheme starts and at least every 5 years after that, a review of the scheme is carried out and a report of the review is provided to the Minister within 3 months of its completion.
+(2) The report may be of an independent review or a review by the provider, whichever the Minister thinks appropriate, having regard to all the circumstances at the time, including the likely costs associated with an independent review and whether those are justified, having regard to the scheme’s operations and performance.
+
+### 15 Provision of information
+(1) The provider of the approved scheme must, on request by the Minister, provide information on the following:
+  (a) matters relating to any information or reports that the provider of the approved scheme is required to provide under the rules of the scheme:
+  (b) the scheme's compliance with the principles listed in clause 4(2).
+(2) Nothing in this clause or clause 14 authorises a breach of the Privacy Act 1993 or any obligation of confidentiality.
+
+**Regulated scheme: rules of scheme and appointment of provider**
+
+### 16 Regulations setting out rules of regulated schemes
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for the regulated scheme.
+(2) The regulations must—
+  (a) set out the rules of the scheme, which must comply with clause 12; and
+  (b) be consistent with the purpose in clause 1.
+(3) Before recommending that regulations be made, the Minister must consult—
+  (a) the industry bodies (if any) for the telecommunications industry; and
+  (b) any other persons (or their representatives) that the Minister considers are likely to be substantially affected by the recommendation.
+(4) However, a failure to consult the persons referred to in subclause (3) does not affect the validity of the regulations.
+
+### 17 Order in Council appointing provider of regulated scheme
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, appoint a person to provide the regulated scheme.
+(2) The Minister may make a recommendation under this clause only if the Minister is satisfied that the person appointed as the provider—
+  (a) is a formally constituted dispute resolution body; and
+  (b) is capable of providing the scheme in accordance with the purpose in clause 1 and the rules of the scheme.
+
+### 18 Notice of intention to revoke appointment
+(1) An appointment made by Order in Council may not be revoked on the ground that the Minister has approved, or intends to approve, an approved scheme under clause 5 unless the Minister has given the scheme provider at least 3 months' notice in writing of the intention to revoke the appointment.
+(2) Nothing in this clause limits the grounds on which the Minister may otherwise recommend the revocation of any appointment.
 
 ## Schedule 4 — Enactments amended
 
