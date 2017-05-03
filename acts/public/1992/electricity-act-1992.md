@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-05-03_
 
 > Title
 
@@ -356,6 +356,7 @@ Any existing works, lawfully fixed to or lawfully installed over or under any la
 (3) In this section, maintenance includes—
   (a) any repairs and any other activities for the purpose of maintaining, or that have the effect of maintaining, existing works; and
   (b) the carrying out of any replacement or upgrade of existing works as long as the land will not be injuriously affected as a result of the replacement or upgrade.
+(4) Further rights of entry, which concern the use of existing works to deploy and use fibre optic cable for telecommunications purposes, are provided for in the Telecommunications Act 2001 (see sections 155ZR to 155ZZH of that Act).
 
 ### 23A Line owner must give written notice of intention to maintain or complete existing works
 (1) An owner of existing works that intends to enter upon land for the purpose of maintaining or completing the works under section 23 must give reasonable notice (at least 10 working days before entry) of its intention to do so to the owner or occupier of the land.
