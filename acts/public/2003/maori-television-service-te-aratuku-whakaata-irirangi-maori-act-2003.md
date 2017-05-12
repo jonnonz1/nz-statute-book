@@ -1,5 +1,5 @@
 # Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003
-_Consolidation as at 2017-03-30_
+_Consolidation as at 2017-05-12_
 
 ## Preamble
 He kōrero whakataki
@@ -472,13 +472,11 @@ The purpose of an output agreement is—
 (2) Unless the responsible Ministers otherwise agree, an output agreement must contain the following information:
   (a) a clear description of the outputs to be produced under the agreement; and
   (b) an explanation of the conditions under which the Service will be paid for its outputs; and
-  (c) a description of the delivery standards that the board has agreed to meet; and
-  (d) the amount to be set aside for the operating costs of Te Mātāwai under clauses 11 and 12 of Schedule 1.
+  (c) a description of the delivery standards that the board has agreed to meet.
+  (d)
 (3) The output agreement must include any other relevant information, such as the purpose for which the outputs are required, that may assist the board and the responsible Ministers to interpret and implement the output agreement.
 (4) The output agreement must be consistent with the functions of the Service.
-(5) The amount specified under subsection (2)﻿(d) must be—
-  (a) determined in consultation with the chairperson of Te Mātāwai, on behalf of Te Mātāwai; and
-  (b) sufficient to meet the costs of the matters provided for in clauses 11 and 12 of Schedule 1.
+(5)
 
 ### 40 Formal requirements for output agreement
 (1) The output agreement must be in writing and dated and signed by—
