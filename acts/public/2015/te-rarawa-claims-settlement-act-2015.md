@@ -1,5 +1,5 @@
 # Te Rarawa Claims Settlement Act 2015
-_Consolidation as at 2015-09-22_
+_Consolidation as at 2017-05-12_
 
 ### 1 Title
 This Act is the Te Rarawa Claims Settlement Act 2015.
@@ -2664,6 +2664,33 @@ Sections 228 to 231 apply, by virtue of the reorganisation of the governance of 
 (1) If a relevant subsidiary makes an election under section HF 11 of the Income Tax Act 2007 to become a Maori authority, income derived by the subsidiary before the commencement of this Act that was exempt income under sections CW 41 and CW 42 of that Act must be treated as a taxable Maori authority distribution if, after the commencement of this Act, it is distributed by the subsidiary in an income year.
 (2) If this section applies, the distribution must be disregarded for the purposes of section HF 8 of the Income Tax Act 2007.
 
+### Subpart 6 — Te Rūnanga o Te Rarawa to become mandated iwi organisation
+
+### 232 Interpretation
+In this subpart, unless the context otherwise requires—
+  - **charitable trust** means the charitable trust of Te Rarawa, Te Runanga o Te Rarawa, with the registered number CC37801
+  - **Te Rūnanga o Te Rarawa** has the meaning given in section 12.
+
+### 233 Recognition of new mandated iwi organisation
+(1) Te Rūnanga o Te Rarawa is the mandated iwi organisation for Te Rarawa (listed as Te Rarawa in Schedule 3 of the Maori Fisheries Act 2004), in place of the charitable trust, as if Te Rūnanga o Te Rarawa were recognised as the mandated iwi organisation under section 13(1) of that Act.
+(2) Te Waka Pūpuri Pūtea Limited is the asset-holding company of Te Rūnanga o Te Rarawa.
+(3) Subsections (1) and (2) are deemed to have taken effect on and from the commencement of this Act.
+(4) However, any reference in the Maori Fisheries Act 2004 to the date on which the mandated iwi organisation is recognised must be treated as a reference to the date on which the first mandated iwi organisation for Te Rarawa was recognised.
+(5) On and from the commencement of this Act until the commencement of this section, Te Rūnanga o Te Rarawa is deemed to have—
+  (a) met the criteria in section 14 of the Maori Fisheries Act 2004 for continuing recognition as a mandated iwi organisation; and
+  (b) satisfied section 12(1)﻿(d) of the Maori Fisheries Act 2004.
+(6) To avoid doubt, on and from the commencement of this section, Te Rūnanga o Te Rarawa must—
+  (a) meet the criteria in section 14 of the Maori Fisheries Act 2004 for continuing recognition as a mandated iwi organisation; and
+  (b) satisfy section 12(1)﻿(d) of the Maori Fisheries Act 2004.
+
+### 234 Certain effects of recognition of new mandated iwi organisation
+(1) Any registered coastline entitlement held by the charitable trust immediately before the commencement of this Act is to be treated as a registered coastline entitlement held by Te Rūnanga o Te Rarawa.
+(2) Any coastline claim, agreement, or written statement of the charitable trust made under Part 1 of Schedule 6 of the Maori Fisheries Act 2004 before the commencement of this Act is to be treated as a coastline claim, agreement, or written statement of Te Rūnanga o Te Rarawa.
+(3) Subsections (1) and (2) are deemed to have taken effect on and from the commencement of this Act.
+
+### 235 Functions of Te Ohu Kai Moana Trustee Limited
+Te Ohu Kai Moana Trustee Limited must, in accordance with the Maori Fisheries Act 2004 (with any necessary modifications), take all actions required to provide administratively for the matters set out in sections 233(1) to (3) and 234, including making the appropriate changes to the iwi register.
+
 ## Schedule 1 — Hapū
 
 ## Schedule 2 — Te Rarawa cultural redress properties
@@ -2695,7 +2722,7 @@ Sections 228 to 231 apply, by virtue of the reorganisation of the governance of 
 | Tauroa Point site A | North Auckland Land District—Far North District32.7200 hectares, more or less, being Section 2 SO 471344. | Subject to being a historic reserve, as referred to in section 43(3).Subject to an unregistered research and collection permit NO-19715-FLO to Museum of New Zealand Te Papa Tongarewa (dated 22 February 2007). |
 | Tauroa Point site D | North Auckland Land District—Far North District17.4600 hectares, more or less, being Section 6 SO 471344. | Subject to being a recreation reserve, as referred to in section 44(3). |
 | Te Tāpairu Hirahira o Kahakaharoa | North Auckland Land District—Far North District424.2000 hectares, more or less, being Section 1 SO 491216. | Subject to being a historic reserve, as referred to in section 45(3). |
-| Mai i Waikanae ki Waikoropūpūnoa | North Auckland Land District—Far North District18.7500 hectares, more or less, being Section 2 SO 470146. Part Gazette notice C195138.1. | Subject to being a scenic reserve, as referred to in section 46(4).Subject to the protective covenant certificate C626733.1.Subject to Crown forestry licence registered as C312828.1F and held in computer interest register NA100A/1.Together with a right of way easement created by D592406A.2.Subject to a Notice pursuant to section 195(2) of the Climate Change Response Act 2002 registered as Instrument 9109779.1. |
+| Mai i Waikanae ki Waikoropūpūnoa | North Auckland Land District—Far North District18.7500 hectares, more or less, being Section 2 SO 470146. Part Gazette notice C195138.1. | Subject to being a scenic reserve, as referred to in section 46(4).Subject to the protective covenant certificate C626733.1.Subject to Crown forestry licence registered as C312828.1F and held in computer interest register NA100A/1.Together with a right of way easement created by D592406A﻿.﻿2.Subject to a Notice pursuant to section 195(2) of the Climate Change Response Act 2002 registered as Instrument 9109779.1. |
 | Mai i Hukatere ki Waimahuru | North Auckland Land District—Far North District80.8425 hectares, more or less, being Sections 8, 9, and 10 SO 469833. Part Gazette notice B342446.1 and Part Gazette 1966, p 1435. | Subject to being a scenic reserve, as referred to in section 47(4).Subject to the protective covenant certificate C626733.1.Subject to Crown Forestry licence registered as C312828.1F and held in computer interest register NA100A/1.Together with a right of way easement created by D145215.1 (affects the part formerly Lot 1 DP 136868).Subject to a Notice pursuant to section 195(2) of the Climate Change Response Act 2002 registered as Instrument 9109779.1 (affects the parts formerly Part Lot 1 DP 136869, Part Lot 1 DP 136868, and Part Lot 1 DP 137713). |
 | Mai i Ngāpae ki Waimoho | North Auckland Land District—Far North District44.2385 hectares, more or less, being Sections 1, 2, 3, and 4 SO 469833. Part Gazette 1966, p 1435. | Subject to being a scenic reserve, as referred to in section 48(4).Subject to the protective covenant certificate C626733.1.Subject to Crown Forestry licence registered as C312828.1F and held in computer interest register NA100A/1.Subject to a notice pursuant to section 91 of the Government Roading Powers Act 1989 created by Instrument D538881.1 (affects the part formerly Lot 1 DP 137714).Subject to a Notice pursuant to section 195(2) of the Climate Change Response Act 2002 registered as Instrument 9109779.1. |
 | Mai i Waimimiha ki Ngāpae | North Auckland Land District—Far North District72.1300 hectares, more or less, being Section 1 SO 469396. | Subject to being a scenic reserve, as referred to in section 49(3). |
