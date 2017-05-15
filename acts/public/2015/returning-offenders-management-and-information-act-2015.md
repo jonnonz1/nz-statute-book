@@ -1,5 +1,5 @@
 # Returning Offenders (Management and Information) Act 2015
-_Consolidation as at 2015-11-18_
+_Consolidation as at 2017-05-15_
 
 ### 1 Title
 This Act is the Returning Offenders (Management and Information) Act 2015.
@@ -22,6 +22,7 @@ The purpose of this Act is to obtain information from returning offenders and es
   - **Customs place** has the meaning given to it in section 9(1) of the Customs and Excise Act 1996
   - **detain** , in relation to a person, includes to move the person to a Customs place, Police station, or any other place being used for Police purposes
   - **determination notice** means a notice served under section 19
+  - **drug or alcohol condition** means a special condition under section 15(3)﻿(ba) of the Parole Act (as that provision is applied with all necessary modifications by sections 26(4), 27, and 34 of this Act)
   - **identifying particulars** has the same meaning as in section 32(5) of the Policing Act 2008
   - **overseas jurisdiction** —
     (a) excludes the islands and territories within the Realm of New Zealand; but
@@ -196,7 +197,8 @@ A returning prisoner must comply with the following conditions (the standard rel
 (4) The kinds of special conditions that the court may impose include, without limitation and with all necessary modifications, the conditions set out in section 15(3)﻿(a) to (f) of the Parole Act.
 (5) If a court imposes a special condition that is—
   (a) an electronic monitoring condition, section 15A of the Parole Act applies with all necessary modifications:
-  (b) a residential restriction, sections 33 to 36 of the Parole Act apply with all necessary modifications.
+  (b) a residential restriction, sections 33 to 36 of the Parole Act apply with all necessary modifications:
+  (c) a drug or alcohol condition, sections 16A to 16E, 71A, 72A, and 74A to 74C, and any rules made under section 74A, of the Parole Act apply with all necessary modifications.
 (6) A court must not impose a special condition requiring the returning prisoner to take prescription medicine unless the returning prisoner—
   (a) has been fully advised, by a person who is qualified to prescribe that medication, about the nature and likely or intended effect of the medication and any known risks; and
   (b) consents to taking the prescription medication.
@@ -292,3 +294,21 @@ A select committee to be determined by the Clerk of the House of Representatives
 
 ### 1 No transitional, savings, or related provisions for Act as enacted
 There are no transitional, savings, or related provisions for this Act, as enacted.
+
+### Part 2 — Provisions relating to Returning Offenders (Management and Information) (Drug and Alcohol Testing) Amendment Act 2016
+
+### 2 Interpretation
+In this Part,—
+  - **commencement date** means the date on which the Returning Offenders (Management and Information) (Drug and Alcohol Testing) Amendment Act 2016 comes into force
+  - **pre-commencement drug or alcohol condition** means a condition—
+    (a) that is imposed before the commencement date under section 26(1), 27(1), or 33(1); and
+    (b) that prohibits a returning offender from doing 1 or more of the following:
+      (i) using (as defined in section 4(1) of the Parole Act) a controlled drug:
+      (ii) using a psychoactive substance:
+      (iii) consuming alcohol.
+
+### 3 Testing and monitoring of returning offender subject to pre-commencement drug or alcohol condition
+(1) This clause applies if a returning offender is subject to a pre-commencement drug or alcohol condition.
+(2) On and from the commencement date, sections 16B to 16E, 71A, 72A, 74A, and 74B, and any rules made under section 74A, of the Parole Act apply in respect of the returning offender—
+  (a) as if the pre-commencement drug or alcohol condition were a drug or alcohol condition imposed by a court on or after the commencement date; and
+  (b) as if the court had complied with section 16A(3) of the Parole Act in respect of the condition.
