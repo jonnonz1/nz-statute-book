@@ -1556,7 +1556,7 @@ After Part 32, insert:State integrated schoolsInterpretation1975 No 129 s 2Part 
     (b) references in any thing, including (without limitation) enactments, rules, bylaws, deeds, agreements, proceedings, instruments, documents, and notices.
   (2) If this clause applies, every reference in any thing specified in subclause (1) to Careers New Zealand is, on or after the commencement of this clause, to be treated as a reference to the Commission unless the context otherwise requires.
   (3) This clause does not apply to any collective employment agreement with Careers New Zealand.
-  (1) Clauses 1 to 4 are repealed on 1 January 2018.
+  (1) Clauses 6 to 9 are repealed on 1 January 2018.
   (2) This clause is repealed on 2 January 2018.
 (3) In Schedule 1, after Part 4, insert:Provision relating to cohort entryDetermining mid-term dates under cohort entry policy for 2018
   (1) This clause applies for the 2018 school year.
