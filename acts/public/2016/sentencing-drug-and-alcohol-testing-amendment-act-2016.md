@@ -1,5 +1,5 @@
 # Sentencing (Drug and Alcohol Testing) Amendment Act 2016
-_Consolidation as at 2016-11-15_
+_Consolidation as at 2017-05-15_
 
 ### 1 Title
 This Act is the Sentencing (Drug and Alcohol Testing) Amendment Act 2016.
@@ -44,8 +44,7 @@ In section 4(1), insert in their appropriate alphabetical order:
   - **using** , in relation to a controlled drug and a person, excludes the person using the controlled drug as a prescription medication in accordance with section 8(2)﻿(c) or (d) of the Misuse of Drugs Act 1975
 
 ### 5 New section 4A inserted (Transitional, savings, and related provisions)
-After section 4, insert:Transitional, savings, and related provisions
-  The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+[Repealed]
 
 **Supervision**
 
@@ -66,8 +65,7 @@ After section 4, insert:Transitional, savings, and related provisions
     (i) using (as defined in section 4(1)) a controlled drug:
     (ii) using a psychoactive substance:
     (iii) consuming alcohol:
-(2) After section 54I(4), insert:
-  (4A) However, subsection (4)﻿(c) does not prevent the court from imposing a drug or alcohol condition, which would mean that the offender may be required, under section 80ZO(2)﻿(b), to submit to continuous monitoring.
+(2)
 
 **Offence: supervision**
 
@@ -254,8 +252,7 @@ After section 80ZM, insert:Drug or alcohol conditionsImposition, and effect, of 
 **Offence: post-imprisonment conditions**
 
 ### 15 Section 93 amended (Imposition of conditions on release of offender sentenced to imprisonment for short term)
-After section 93(2B), insert:
-  (2C) Subsection (2B) does not prevent the court from imposing a drug or alcohol condition, which would mean that the offender may be required, under section 80ZO(2)﻿(b), to submit to continuous monitoring.
+[Repealed]
 
 ### 16 New section 96A inserted (Offences related to post-imprisonment conditions that are drug or alcohol conditions)
 After section 96, insert:Offences related to post-imprisonment conditions that are drug or alcohol conditions
@@ -272,12 +269,7 @@ After section 96, insert:Offences related to post-imprisonment conditions that a
     (c) tampers with a drug or alcohol monitoring device required under section 80ZO(2)﻿(b) or does anything with the intention of interfering with the functioning of that device.
 
 ### 17 Consequential amendments and transitional provisions if this Act in force before Sentencing (Electronic Monitoring of Offenders) Amendment Act 2016
-(1) This section applies if this Act comes into force before the Sentencing (Electronic Monitoring of Offenders) Amendment Act 2016 comes into force.
-(2) Sections 4 and 10 and the Schedule of the Sentencing (Electronic Monitoring of Offenders) Amendment Act 2016 are repealed.
-(3) On the day that the Sentencing (Electronic Monitoring of Offenders) Amendment Act 2016 comes into force, the following are repealed:
-  (a) section 54I(4A) of the principal Act (as inserted by section 7(2) of this Act); and
-  (b) section 93(2C) of the principal Act (as inserted by section 15 of this Act).
-(4) Insert the Schedule 1AA set out in Part 1 of the Schedule of this Act as the first schedule to appear after the last section of the principal Act.
+[Repealed]
 
 ### 18 Consequential amendments and transitional provisions if Sentencing (Electronic Monitoring of Offenders) Amendment Act 2016 in force before this Act
 (1) This section applies if the Sentencing (Electronic Monitoring of Offenders) Amendment Act 2016 comes into force before this Act comes into force.
