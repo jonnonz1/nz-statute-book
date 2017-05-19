@@ -1,5 +1,5 @@
 # Education Act 1964
-_Consolidation as at 2016-10-29_
+_Consolidation as at 2017-05-19_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the education of the people of New Zealand
 
@@ -15,7 +15,6 @@ _Consolidation as at 2016-10-29_
   - **composite school** means a State school that provides primary education and secondary education
   - **continuing education** means education, including vocational education, provided for persons who are no longer required to attend school under the provisions of this Act, and who are not, unless otherwise expressly provided for by this Act, enrolled as pupils in any secondary school or department; but does not include education at a university or university college of agriculture or teachers college
   - **contributing school** means a State primary school that is for the time being established under this Act without provision for classes for pupils of forms 1 and 2 or either of those forms
-  - **correspondence school** or means any school or institution, or any classes, established by the Minister to provide instruction by correspondence
   - **Department** means the Ministry of Education
   - **Director-General** means the chief executive of the Ministry of Education
   - **Disciplinary Board** means the Teachers' Disciplinary Board established by section 158A
@@ -552,7 +551,7 @@ Every school established as a technical institute under any former Education Act
 Within 4 months after the date of the close of the instruction in any year, the controlling authority shall forward to the Director-General such details of the work and attendance, and of the receipts and expenditure, of classes in continuing education under its control as are prescribed by such regulations as may be made by the Governor-General from time to time by Order in Council under this Act, or (if no such details are so prescribed) as the Minister may determine.
 
 ### 96 Correspondence schools and classes for continuing education
-Having regard to the provision of continuing education, the Minister may establish any school or classes to provide instruction by correspondence for that purpose; and any school or class so established shall be controlled in such manner, and shall charge such fees for the instruction provided, as the Minister may determine.
+[Repealed]
 
 ### 96A Senior Technical Divisions
 [Repealed]
@@ -570,7 +569,7 @@ Having regard to the provision of continuing education, the Minister may establi
 (1) Having regard to the provision of special education in any locality or localities, the Minister may—provided that any special school established under paragraph (a) may be placed under the control of the education board of the district and shall, where so placed, be deemed to be a State primary school, save that it may, on the recommendation of the education board and with the approval of the Minister, be placed under the control of any person or persons appointed by the education board for the purpose instead of a school's board.
   (a) establish any special school:
   (b) establish, or authorise the establishment of, any special class, clinic, or service, either as a separate unit or in connection with any State primary school, secondary school, technical institute, community college or integrated school, or in connection with any public institution approved for the purpose by him:
-  (c) make provision for special educational facilities to be provided by any correspondence school established under section 105:
+  (c)
 (2) The Minister may likewise disestablish any special school, class, clinic, or service established under subsection (1), if he is dissatisfied with the manner in which the school, class, clinic, or service is being conducted, or if he considers that sufficient provision is made by another similarly established special school, class, clinic, or service, or by any other school or class in or reasonably near to the same locality:
   provided that in the last-mentioned case he shall, if the controlling authority of the school, class, clinic, or service so requires, give 3 months' notice of his intention to disestablish the same.
 
