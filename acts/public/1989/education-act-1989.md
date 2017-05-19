@@ -1,11 +1,41 @@
 # Education Act 1989
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-05-19_
 
 > An Act to reform the administration of education
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Education Act 1989.
 (2) Except as otherwise provided in this Act, this Act comes into force on 1 October 1989.
+
+## Part 1AA — Early childhood and compulsory education: statement of National Education and Learning Priorities
+
+### 1A Minister may issue statement of National Education and Learning Priorities
+(1) The Minister may, by notice in the Gazette, issue a statement of National Education and Learning Priorities for the early childhood and compulsory education sectors.
+(2) A statement issued under this section—
+  (a) must be consistent with the objectives set out in subsection (3); and
+  (b) may include statements of the diversity of education provision; and
+  (c) must specify the date on which it comes into effect; and
+  (d) remains in effect for a period of 5 years unless earlier withdrawn or replaced by notice in the Gazette; and
+  (e) must be published on an Internet site maintained by the Ministry.
+(3) The objectives of the system for education and learning that is provided for in the specified Parts (that is, early childhood and compulsory education) are—
+  (a) to focus on helping each child and young person to attain educational achievement to the best of his or her potential; and
+  (b) to promote the development, in each child and young person, of the following abilities and attributes:
+    (i) resilience, determination, confidence, and creative and critical thinking:
+    (ii) good social skills and the ability to form good relationships:
+    (iii) participation in community life and fulfilment of civic and social responsibilities:
+    (iv) preparedness for work; and
+  (c) to instil in each child and young person an appreciation of the importance of the following:
+    (i) the inclusion within society of different groups and persons with different personal characteristics:
+    (ii) the diversity of society:
+    (iii) cultural knowledge, identity, and the different official languages:
+    (iv) the Treaty of Waitangi and te reo Māori.
+(4) Before issuing a statement under this section, the Minister must consult with those stakeholders in the early childhood and compulsory education sectors that he or she considers ought to be consulted.
+(5) Minor changes to a statement issued under this section—
+  (a) may be made without fulfilling the consultation requirements in subsection (4); and
+  (b) do not, for the purposes of subsection (2)﻿(d), constitute a withdrawal or replacement of the statement being changed.
+(6) A statement issued under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012, and does not have to be presented to the House of Representatives under section 41 of that Act.
+(7) Except as provided in subsection (2)﻿(a), the objectives in subsection (3) do not affect or limit the way in which any person is required to exercise a power or perform a function under a specified Part.
+(8) In this section, specified Parts means this Part, Parts 2 to 3A, Parts 7 to 9, Parts 11 to 12A, Part 26, and Part 33.
 
 ## Part 1 — Rights to primary and secondary education
 
@@ -24,11 +54,12 @@ _Consolidation as at 2017-03-01_
     (a) a New Zealand citizen; or
     (b) the holder of a residence class visa granted under the Immigration Act 2009 who satisfies the criteria (if any) prescribed by regulations made under subsection (4); or
     (c) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not international students
-  - **enrolment scheme** means a scheme adopted (and not since abandoned) under section 11H; and includes any amendments to the scheme that have been adopted under section 11M
+  - **enrolment scheme** means a scheme adopted (and not since abandoned) under section 11H or developed under section 11IA; and includes any amendments to the scheme that have been adopted under section 11M
   - **government training establishment** has the same meaning as it has in section 159
   - **hostel** means a boarding establishment used mainly or solely for the accommodation of students enrolled at a registered school
   - **industry training organisation** has the same meaning as in section 2 of the Industry Training and Apprenticeships Act 1992
   - **institution** has the same meaning as it has in section 159
+  - **integration** means the conditions and procedures on and by which a private school may become established as part of the State system of education. and remain part of that system, on a basis that preserves and safeguards the special character of the education that the school provides, and has a corresponding meaning
   - **intermediate school** has the same meaning as in section 145(1)
   - **international student** , at any time, means a person who is not then a domestic student
   - **lead provider** means a provider of secondary-tertiary programmes that is recognised by the Minister by notice in the Gazette under section 31F as a lead provider
@@ -51,7 +82,7 @@ _Consolidation as at 2017-03-01_
   - **principal** means the chief executive of a State school; and, in relation to a school, a person enrolled at the school, or the enrolment of a person at a school, means the principal of the school
   - **provider group** means a group of providers of secondary-tertiary programmes that is recognised by the Minister by notice in the Gazette under section 31B as a provider group
   - **registered establishment** has the same meaning as it has in section 159
-  - **registered school** means a school that is a State school, a partnership school kura hourua, or a school registered under section 35A
+  - **registered school** means a school that is a State school, a State integrated school, a partnership school kura hourua, or a school registered under section 35A
   - **review officer** has the same meaning as it has in section 323
   - **secondary component** , in relation to a secondary-tertiary programme, means the portion of the programme that consists of participation in secondary education, whether or not provided by the school in which the participating student is enrolled
   - **secondary school** has the same meaning as in section 145(1)
@@ -60,6 +91,9 @@ _Consolidation as at 2017-03-01_
   - **serious criminal activity** means any offence involving fraud, violence, or harm to children, any sexual offence, or any crime involving dishonesty
   - **special education** means education or help from a special school, special class, special clinic, or special service
   - **sponsor** means a body approved by the Minister under section 158B to operate a partnership school kura hourua
+  - **State integrated school** means a school that—
+    (a) provides education with a special character; and
+    (b) has been established as a State integrated school under section 421
   - **State school** means a school that is a primary school, a composite school, a secondary school, or a special school
   - **student** , in relation to a school or institution, means a person enrolled at the school or institution
   - **tertiary component** , in relation to a secondary-tertiary programme, means the portion of the programme that consists of the participating student's apprenticeship training (as defined in section 13C of the Industry Training and Apprenticeships Act 1992), or participation in tertiary education that—
@@ -85,8 +119,11 @@ _Consolidation as at 2017-03-01_
   (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 (6)
 
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+
 ### 3 Right to free primary and secondary education
-Except as provided in this Act or the Private Schools Conditional Integration Act 1975, every person who is not an international student is entitled to free enrolment and free education at any State school or partnership school kura hourua during the period beginning on the person's fifth birthday and ending on 1 January after the person's 19th birthday.
+Except as provided in this Act, every person who is not an international student is entitled to free enrolment and free education at any State school or partnership school kura hourua during the period beginning on the person's fifth birthday and ending on 1 January after the person's 19th birthday.
 
 ### 3A Restriction on attendance at certain schools
 [Repealed]
@@ -151,7 +188,7 @@ The Minister may, by notice in the Gazette, exempt international students of a p
   (b) all international students, or international students of a specified kind or description:
   (c) all subjects, courses, and programmes; subjects, courses, and programmes of a specified kind or description; or specified subjects, courses, or programmes.
 (3) Within 28 days of the first day in any year on which an international student enrolled at a State school attends the school, the board shall pay to the Secretary the appropriate fee (if any) prescribed under subsection (1).
-(3A) The Minister may pay to the proprietors of an integrated school whose board has paid a fee under this section a portion of that fee, as determined in accordance with a formula prescribed under subsection (3B), for the purpose of reimbursing the proprietors for that part of the levy associated with the use of capital assets owned by the proprietors.
+(3A) The Minister may pay to the proprietors of a State integrated school whose board has paid a fee under this section a portion of that fee, as determined in accordance with a formula prescribed under subsection (3B), for the purpose of reimbursing the proprietors for that part of the levy associated with the use of capital assets owned by the proprietors.
 (3B) The Minister must, by notice in the Gazette, prescribe a formula for the payment of money under subsection (3A), and may prescribe different formulae to apply to different schools or classes of school.
 (4) If before 1 July in any year the Minister has not set under subsection (1) fees to be paid by boards in respect of international students enrolled at State schools in the following year, there shall be deemed to have been set under that subsection the fees set (or deemed to have been set) in the year before.
 
@@ -295,7 +332,7 @@ In sections 11C to 11PB, unless the context otherwise requires,—
   - **give notice** means to publish a notice in a daily or community newspaper circulating in the area served by the school
   - **reasonably convenient school** means a State school that a reasonable person living in the area in which the school is situated would judge to be reasonably convenient for a particular student, taking into account such factors as the age of the student, the distance to be travelled, the time likely to be spent in travel, the reasonably available modes of travel, common public transport routes, and relevant traffic hazards. The meaning may vary as between different schools depending on such matters as—
     (a) whether the school is a single sex or co-educational school:
-    (b) whether the school is an ordinary State school, a Kura Kaupapa Maori, a designated character school, an integrated school, or a special school:
+    (b) whether the school is an ordinary State school, a Kura Kaupapa Maori, a designated character school, a State integrated school, or a special school:
     (c) whether the school is a primary, intermediate, secondary, composite, or area school
   - **special programme** means a programme, or a programme of a type, that the Secretary has, by notice in the Gazette, approved as a special programme, and—
     (a) that provides—
@@ -378,7 +415,7 @@ In sections 11C to 11PB, unless the context otherwise requires,—
 (4) In addition to the consultation required by subsection (3),—
   (a) the board of a Kura Kaupapa Maori must consult with the persons and organisations that the board believes have an interest in fostering the school's adherence to Te Aho Matua and any special characteristics set out in the school's charter:
   (b) the board of a designated character school must consult with those persons and organisations that the board believes have an interest in fostering the aims, purposes, and objectives that constitute the school's different character:
-  (c) the board of an integrated school must consult with the school's proprietors.
+  (c) the board of a State integrated school must consult with the school's proprietors.
 (5) If the Secretary approves a proposed enrolment scheme for a State school, the school's board must pass a resolution adopting the scheme as soon as practicable.
 
 ### 11I Proposed enrolment schemes to be approved by Secretary
@@ -392,8 +429,17 @@ In sections 11C to 11PB, unless the context otherwise requires,—
 (2) If a board and the Secretary are unable to reach agreement about the content of the school's enrolment scheme or proposed enrolment scheme, the Secretary may require the board to amend the scheme or proposed scheme in the manner required by the Secretary.
 (3) A board that receives a requirement under subsection (2) must, as soon as practicable, change its enrolment scheme or proposed enrolment scheme to give effect to the Secretary's requirement, and the board need not obtain separate approval from the Secretary for the change.
 
+### 11IA Development of enrolment scheme by Secretary
+(1) If a board receives a notice under section 11H(1) and if an enrolment scheme is not developed by it within a reasonable period, the Secretary may develop an enrolment scheme for the school.
+(2) In developing an enrolment scheme, the Secretary must—
+  (a) follow the process set out in section 11H(3) and (4) as if he or she was the board; and
+  (b) be satisfied of the matters listed in section 11I(1).
+(3) A board must implement an enrolment scheme developed under this section.
+(4) The Secretary must specify, in the enrolment scheme, the date on which the scheme commences.
+(5) Section 11K(1) and (2) does not apply to an enrolment scheme made under this section.
+
 ### 11J Information about school's enrolment scheme
-(1) When the board of a State school adopts an enrolment scheme, it must give notice of the fact that it has adopted an enrolment scheme, and the notice must include—
+(1) When the board of a State school adopts an enrolment scheme or implements an enrolment scheme developed under section 11IA, it must give notice of the fact that it has adopted an enrolment scheme, and the notice must include—
   (a) a general description of the school's home zone; and
   (b) information about where copies of the enrolment scheme may be viewed and obtained.
 (2) Each year, the board of a school that has an enrolment scheme must give notice of—
@@ -409,6 +455,7 @@ In sections 11C to 11PB, unless the context otherwise requires,—
 ### 11K Commencement of enrolment scheme
 (1) An enrolment scheme for a primary school commences on the date 3 months after the day of its adoption, or on a later date specified in the scheme.
 (2) An enrolment scheme for a secondary or composite school commences on 1 January in the year following the year in which it was adopted, or on a later date specified in the scheme and agreed to by the Secretary.
+(2A) An enrolment scheme developed under section 11IA commences on the date specified in the scheme.
 (3) Despite subsections (1) and (2), the Secretary may, on application by a board, authorise the early commencement of an enrolment scheme if he or she considers that early commencement is appropriate.
 (4) If the Secretary gives authorisation for early commencement after the board has given notice of the enrolment scheme, the board must give notice showing the revised date on which the scheme will commence.
 
@@ -421,7 +468,7 @@ In sections 11C to 11PB, unless the context otherwise requires,—
   (b) give notice of the date on which the scheme ended or will end.
 
 ### 11M Amendment of enrolment scheme
-(1) The board of a State school that has adopted an enrolment scheme may amend it.
+(1) The board of a State school that has adopted an enrolment scheme or implemented an enrolment scheme under section 11IA may amend it.
 (2) A board must not amend a scheme unless it is satisfied that an enrolment scheme is still necessary in order to avoid overcrowding, or the likelihood of overcrowding, at the school.
 (3) If the board of a State school (school A) adopts or amends an enrolment scheme, the Secretary may require the board of any nearby State school that also has an enrolment scheme to develop a proposed amendment to its enrolment scheme in order to take into account the effect of school A's scheme.
 (4) Sections 11A to 11L apply to an amendment and a proposed amendment to an enrolment scheme as if it were an enrolment scheme or a proposed enrolment scheme (as the case may be).
@@ -475,11 +522,12 @@ In sections 11C to 11PB, unless the context otherwise requires,—
 
 ### 11P Secretary may direct board to enrol applicant
 (1) The Secretary may direct the board of any State school (including the board of the school at which the student was enrolled) to enrol a student whose enrolment has been annulled under section 11O.
-(2) The Secretary may direct the board of any State school to enrol an applicant whose application for enrolment it has declined if the Secretary is satisfied that—
-  (a) the board has declined the application on the ground that the applicant is not living in the school's home zone, but in fact the applicant is living in the school's home zone; or
-  (b) the consequences of not giving the direction would be so disadvantageous to the applicant that overriding the enrolment scheme in this case is justified.
+(2) The Secretary may direct the board of a State school to enrol an applicant whose application for enrolment it has declined if he or she is satisfied that—
+  (a) the board has declined the application on the ground that the applicant is not living in the school’s home zone, but in fact he or she is living in the zone; or
+  (b) not giving a direction would be so disadvantageous to the applicant that overriding the enrolment scheme is justified.
+(2A) The power in subsection (2)﻿(b) may only be exercised in exceptional circumstances.
 (3) The Secretary must not give a direction about a person under subsection (1) or subsection (2)﻿(b) unless he or she has taken all reasonable steps to consult the person's parents, the board of the proposed school, and (if appropriate, having regard to the age and maturity of the person) the person.
-(4) The Secretary may not direct the board of a Kura Kaupapa Maori, a designated character school, or an integrated school to enrol a person under this section unless the person's parents agree, and accept the special character of that school.
+(4) The Secretary may not direct the board of a Kura Kaupapa Maori, a designated character school, or a State integrated school to enrol a person under this section unless the person's parents agree, and accept the special character of that school.
 (5) A board must comply with a direction under this section, and the direction overrides the provisions of any enrolment scheme the school may have in place.
 
 ### 11PA Annual review of enrolment scheme
@@ -490,16 +538,17 @@ In sections 11C to 11PB, unless the context otherwise requires,—
 (3) The Secretary may at any time rescind an exemption given under subsection (2), and may require the board to conduct a review of its enrolment scheme within a period specified by the Secretary.
 
 ### 11PB Enrolment schemes of certain State schools
-(1) Sections 11A to 11PA apply to Kura Kaupapa Maori, designated character schools, integrated schools, and special schools, and to their enrolment schemes, subject to the following modifications:
+(1) Sections 11A to 11PA apply to Kura Kaupapa Maori, designated character schools, State integrated schools, State schools that are accredited as enrolling communities of online learning, and special schools, and to their enrolment schemes, subject to the following modifications:
   (a) all references to overcrowding or the likelihood of overcrowding must be read as if they were references to there being, or being likely to be, more applicants for enrolments at the school than there are places available; and
   (b) the enrolment scheme need not define a home zone for the school, nor provide for balloting of applicants who live outside any home zone, but must accord priority to applicants for whom the school is a reasonably convenient school; and
   (c) section 11J is modified as follows:
     (i) subsection (1) applies as if paragraph (a) read a general description of the enrolment scheme; and
     (ii) subsection (2) applies as if paragraphs (a) to (c) were replaced with the words the likely number of places available and the significant pre-enrolment dates and procedures that will apply; and
     (iii) subsection (3)﻿(b) does not apply; and
-  (d) in the case of a Kura Kaupapa Maori, the application of the sections must not result in inconsistency with section 155; and
+  (ca) in the case of an enrolling community of online learning operated by a State school, the application of the sections must not result in inconsistency with conditions set by the Minister under section 35X; and
+  (d) in the case of a Kura Kaupapa Maori, the application of the sections must not result in inconsistency with section 156; and
   (e) in the case of a designated character school, the application of the sections must not result in inconsistency with the school's charter or section 156; and
-  (f) in the case of an integrated school, the application of the sections must not result in inconsistency with the school's integration agreement or the Private Schools Conditional Integration Act 1975.
+  (f) in the case of a State integrated school, the application of the sections must not result in inconsistency with the school's integration agreement or Part 33.
 (2) Sections 11A to 11PA do not apply to any State school of a type specified by the Secretary by notice in the Gazette.
 
 ### 11Q Obligation to report to Parliament on enrolment schemes
@@ -551,7 +600,7 @@ The purpose of the provisions of this Act concerning the standing-down, suspensi
 ### 16 Secretary's powers when excluded student younger than 16
 (1) If the Secretary is satisfied that the board of a State school has excluded a student who is younger than 16 from the school under section 15(1)﻿(c), and that the principal has not arranged for the student to attend another school, the Secretary must either,—
   (a) if satisfied that it is not inappropriate for the student to return to the school from which the student has been excluded, lift the exclusion; or
-  (b) arrange for and, if necessary, direct the board of any other State school (that is not an integrated school) to enrol the student at the other school; or
+  (b) arrange for and, if necessary, direct the board of any other State school (that is not a State integrated school) to enrol the student at the other school; or
   (ba) arrange for and, if necessary, direct the sponsor of a partnership school kura hourua to enrol the student at the partnership school kura hourua; or
   (c) direct a parent of the student to enrol the student at a correspondence school.
 (2) The Secretary may not give a direction under subsection (1)﻿(b) or lift an exclusion under subsection (1)﻿(a) unless the Secretary has also made all reasonable attempts to consult the student, the student's parents, the board, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or able to advise on or help with, the student's education or welfare.
@@ -568,7 +617,7 @@ The purpose of the provisions of this Act concerning the standing-down, suspensi
   (b) extend the suspension conditionally for a reasonable period determined by the board when extending the suspension, in which case subsection (2) applies; or
   (c) expel the student.
 (2) If the board extends a suspension conditionally, the board must impose reasonable conditions aimed at facilitating the return of the student to school, and must take steps to facilitate the return of the student to school.
-(3) If a student fails to comply with any condition imposed under this section in respect of the lifting or extension of his or her suspension, the principal may request the board to reconsider the action it took under this section in that case and the board may confirm or reverse its earlier decisions or may modify its earlier decisions by taking any action specified in any of paragraphs (a) to (c) of subsection (1).
+(3) If a student fails to comply with any condition imposed under this section in respect of the lifting or extension of his or her suspension, the principal may request the board to reconsider the action it took under this section in that case and the board may confirm or reverse its earlier decisions or may modify its earlier decisions by taking any action specified in subsection (1)﻿(a) to (c).
 (4) If the board has not sooner lifted or extended it or expelled the student under subsection (1)﻿(c), the suspension of a student who is 16 or older ceases to have effect—
   (a) at the close of the seventh school day after the day of the suspension; or
   (b) if the suspension occurs within 7 school days before the end of a term, at the close of the tenth calendar day after the day of the suspension.
@@ -595,7 +644,7 @@ If a student has been suspended, the student, the student's parents, and their r
 ### 17D Re-enrolment of excluded or expelled student
 (1) The board of a State school from which a student has ever been excluded or expelled (whether under section 15 or section 17) may refuse to enrol the student at the school (unless, in the case of an exclusion, the Secretary has lifted the exclusion under section 16(1)﻿(a)).
 (2) Subject to sections 16(1)﻿(b) and 158R(1)﻿(b), the board of a State school may refuse to enrol a student who is for the time being excluded or expelled (whether under section 15 or 17) from another State school or a partnership school kura hourua.
-(3) The Secretary may, in the case of a student who has turned 16, direct the board of another State school (that is not an integrated school) to enrol a student at the school if—
+(3) The Secretary may, in the case of a student who has turned 16, direct the board of another State school (that is not a State integrated school) to enrol a student at the school if—
   (a) the student has been expelled from a State school under section 17; and
   (b) the Secretary has made all reasonable attempts to consult the student, the student's parents, the board, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or able to advise on or help with, the student's education or welfare.
 (3A) The Secretary may, in the case of a student who has turned 16, direct the sponsor of a partnership school kura hourua to enrol the student at the school if—
@@ -630,7 +679,7 @@ If a student has been suspended, the student, the student's parents, and their r
   (a) publish in the Gazette, and in such newspapers as the Secretary considers appropriate, a notice of his or her intention to make the rules; and
   (b) give interested persons a reasonable time to make representations about the proposed rules; and
   (c) consult such persons and groups as the Secretary considers appropriate.
-(3) If there is any conflict between rules made under this section and the provisions of clause 8 of Schedule 6, the rules override clause 8.
+(3) If there is any conflict between rules made under this section and the provisions of clause 40 of Schedule 6, the rules override clause 40.
 (4) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 18A Recommendation that student should attend particular school
@@ -741,7 +790,7 @@ For so long as a certificate under section 21 or section 22 continues in force�
 ### 25A Release from tuition on religious or cultural grounds
 (1) A student aged 16 and above, or the parent of a student aged under 16, may ask the principal to release the student from tuition in a particular class or subject.
 (1A) A request under subsection (1) must be made in writing, and at least 24 hours before the start of the tuition.
-(1B) This section applies only to students enrolled at a State school that is not an integrated school.
+(1B) This section applies only to students enrolled at a State school that is not a State integrated school.
 (2) Unless satisfied that—the principal shall not release the student.
   (a) the parent or student (as the case may be) has asked because of sincerely held religious or cultural views; and
   (b) the student will be adequately supervised (whether within or outside the school) during the tuition,—
@@ -1015,6 +1064,13 @@ The criteria for registration as a private school under section 35A are that the
   (b) an incorporated society or an incorporated trust board, the assessment under subsection (1) applies to its members.
 (3) When the management of a school registered under section 35A changes in its entirety or is transferred to a new entity, the new managers must give notice to the Secretary and an assessment under subsection (1) must be made of the new managers of the school.
 
+**Statement of National Education and Learning Priorities**
+
+### 35GA Manager must have regard to statement of National Education and Learning Priorities
+The manager of a school registered under section 35A must,—
+  (a) in operating the school, have regard to any statement of National Education and Learning Priorities; and
+  (b) ensure that, in developing and delivering the curriculum, the school’s principal and staff have regard to any statement of National Education and Learning Priorities.
+
 **Managers to advise Secretary of private school ceasing operation**
 
 ### 35H Managers must advise Secretary of school ceasing operation
@@ -1125,7 +1181,7 @@ As soon as practicable after the end of each financial year during which a schoo
   (b) a written statement of the reasons for the student's suspension or expulsion.
 (2) Unless the student is within a reasonable time reinstated at the school or enrolled at some other registered school, the Secretary must (if the student is younger than 16) and may (if the student is 16 or older)—
   (a) arrange for the student to be enrolled at some other reasonably convenient registered school that the student can attend; or
-  (b) direct the board of a State school that is not an integrated school to enrol the student at the school; and, in that case, the board must do so; or
+  (b) direct the board of a State school that is not a State integrated school to enrol the student at the school; and, in that case, the board must do so; or
   (c) direct a parent of the student to have the student enrolled at a correspondence school.
 (3) The Secretary must not give a direction under subsection (2) unless he or she has also made all reasonable attempts to consult the student, the student's parents, the board, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or able to advise on or help with, the student's education or welfare.
 (4) A direction under subsection (2)﻿(b) overrides section 11M.
@@ -1138,6 +1194,22 @@ As soon as practicable after the end of each financial year during which a schoo
 (2) A manager of a private school that is registered under section 35A as a school of a particular description or descriptions commits an offence if the school operates as a school of another description or of other descriptions.
 (3) The managers of a private school that is registered under section 35A commit an offence if the school ceases to operate before the managers tell the Secretary that it will cease to operate.
 (4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200 for every day or part of a day on which the offence took place.
+
+**Powers of entry and inspection**
+
+### 35S Entry where private school suspected of being unregistered
+(1) A person who holds an authorisation under section 78A(2), and who has reasonable cause to believe that any premises are being used as a private school in contravention of section 35R, may apply for a warrant to enter the premises.
+(2) An application for a warrant must be in writing, on oath, and be made to a District Court Judge, Justice of the Peace, or Registrar or Deputy Registrar of any court.
+(3) A warrant may be issued on an application under subsection (1) if the person issuing it is satisfied that there is reasonable cause to believe that the premises are being used as a private school in contravention of section 35R.
+(4) A warrant issued under subsection (3) must contain—
+  (a) a reference to this section; and
+  (b) the full name of the person authorised; and
+  (c) a description of the premises concerned; and
+  (d) the date on which it was issued and the date on which it expires.
+(5) A warrant issued under subsection (3) must authorise the person named in it, at any reasonable time within 4 weeks of the date on which it is issued, to enter and inspect the premises described in the warrant to ascertain whether those premises are being used as a private school in contravention of section 35R.
+(6) A person acting under a warrant under subsection (3) must retain the warrant and must show it, along with evidence of identity, to the occupier of the premises concerned—
+  (a) on first entering the premises; and
+  (b) whenever subsequently reasonably required to do so by that occupier.
 
 ## Part 4 — Specialist Education Services Board
 
@@ -1224,26 +1296,22 @@ In this Part, Part 7A, and Part 8, unless the context otherwise requires,—
   - **board** means a board of trustees constituted under Part 9; and
     (a) in relation to a school, means the school's board; and
     (b) in relation to a principal, means the board of the principal's school
-  - **board staff** means board staff within the meaning of section 92
   - **charter** means a charter of aims, purposes, and objectives that has been approved for a school under this Part; and, in relation to a school, means the school's charter (or, where it has no charter in fact, the charter it is deemed by section 61(12) to have)
-  - **Chief Review Officer** means the chief executive of the Education Review Office
-  - **domestic student** has the same meaning as in section 2(1)
+  - **community of learning** means a community of learning approved by the Minister in accordance with section 71C
   - **half-day** , in relation to a school, means a period of 2 hours or more during which the school is open for instruction
-  - **international student** has the same meaning as in section 2(1)
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
-  - **national education guidelines** means all the national education goals, foundation curriculum policy statements, national curriculum statements, national standards, and national administration guidelines, for the time being in force under section 60A
   - **parent** means a parent within the meaning of section 92
-  - **review officer** means an employee of the Education Review Office
   - **school** means a State school within the meaning of section 2
   - **Secretary** means the chief executive of the Ministry
-  - **Teachers Council** means the New Zealand Teachers Council established under Part 10A
   - **unsupervised access to students** , in relation to a school, means access to any student on the school's premises that is not access by, or supervised by, or otherwise observed by, or able to be directed (if necessary) by, any 1 or more of the following:
     (a) a registered teacher or holder of a limited authority to teach:
     (b) an employee of the school on whom a satisfactory Police vet has been conducted within the last 3 years:
     (c) a parent of the student.
 
-### 60A National education guidelines
+**Curriculum and performance**
+
+### 60A Curriculum statements and national performance measures
 (1) The Minister may from time to time, by notice in the Gazette, publish (in their entirety, or by way of a general description and an indication of where the full text can be obtained) all or any of the following:
   (a) national education goals, which are—
     (i) statements of desirable achievements by the school system, or by an element of the school system; and
@@ -1251,7 +1319,7 @@ In this Part, Part 7A, and Part 8, unless the context otherwise requires,—
   (aa) foundation curriculum policy statements, which are statements of policy concerning teaching, learning, and assessment that are made for the purposes of underpinning and giving direction to—
     (i) the way in which curriculum and assessment responsibilities are to be managed in schools:
     (ii) national curriculum statements and locally developed curriculum:
-  (b) national curriculum statements (that is to say statements of—during the years of schooling):
+  (b) national curriculum statements, which are statements of—during the years of schooling:
     (i) the areas of knowledge and understanding to be covered by students; and
     (ii) the skills to be developed by students; and
     (iii) desirable levels of knowledge, understanding, and skill, to be achieved by students,—
@@ -1267,14 +1335,14 @@ In this Part, Part 7A, and Part 8, unless the context otherwise requires,—
     (iv) set out transitional provisions for the purposes of national administration guidelines.
 (2) Without limiting the generality of subsection (1), a notice relating to a national curriculum statement may—
   (a) specify different commencement dates for different provisions or different purposes, which dates may differ according to the class or designation of a school, the group or year level of students attending a school, or any combination of such classes, designations, groups, or levels:
-  (b) specify a transitional period during which a board may elect to comply with an existing curriculum statement or the new curriculum statement, and specify a date on which a board must begin complying with the new curriculum statement:
-  (c) revoke any curriculum statement issued under this section, and revoke any corresponding statement (such as a syllabus) issued in the form of a notice and having effect under the Education Act 1964.
+  (b) specify a transitional period during which a board may elect to comply with an existing curriculum statement or the new curriculum statement, and specify a date on which a board must begin complying with the new curriculum statement.
+  (c)
 
 ### 60B Consultation about treatment of health curriculum
 (1) The board of every State school must, at least once in every 2 years, and after consultation with the school community, adopt a statement on the delivery of the health curriculum.
 (2) In this section,—
   - **school community** means,—
-    (a) in the case of an integrated school, the parents of students enrolled at the school, and the school's proprietors:
+    (a) in the case of a State integrated school, the parents of students enrolled at the school, and the school's proprietors:
     (b) in the case of any other State school, the parents of students enrolled at the school:
     (c) in every case, any other person whom the board considers is part of the school community for the purpose of this section
   - **statement on the delivery of the health curriculum** means a written statement of how the school will implement the health education components of the relevant national curriculum statements.
@@ -1339,7 +1407,7 @@ Once a school charter or updated school charter takes effect, the board must mak
 [Repealed]
 
 ### 65 Staff
-Subject to Part 8A and section 349, a board may from time to time, in accordance with the State Sector Act 1988, appoint, suspend, or dismiss staff.
+[Repealed]
 
 ### 65A Length of school year
 (1) The Minister may, before 1 July in any year, prescribe the number of half-days on which schools must be open during the next year; and different numbers may be prescribed for schools of different classes or descriptions.
@@ -1410,133 +1478,45 @@ Subject to Part 8A and section 349, a board may from time to time, in accordance
   (b) the delegation shall not limit or affect the exercise of the powers by the Minister.
 
 ### 65H Application of Crown Entities Act 2004
-(1) Every board is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) However, that Act applies to boards only to the extent that subsection (3) provides.
-(3) The provisions of that Act set out in Schedule 3 of that Act and Schedule 5A of this Act apply to boards and their Crown entity subsidiaries (within the meaning of that Act).
-(4) The trustees are the governing board for the purposes of those provisions of the Crown Entities Act 2004.
+[Repealed]
 
 ### 66 Delegations
-(1) The governing board of a board may delegate any of the functions or powers of the board or the governing board, either generally or specifically, to any of the following persons by resolution and written notice to the person or persons:
-  (a) a trustee or trustees:
-  (b) the principal or any other employee or employees, or office holder or holders, of the board:
-  (c) a committee consisting of at least 2 persons, at least 1 of whom is a trustee:
-  (d) any other person or persons approved by the board's responsible Minister:
-  (e) any class of persons comprised of any of the persons listed in paragraphs (a) to (d).
-(2) Subsection (1) does not apply to any functions or powers specified in this Act as not being capable of delegation.
-(3) The governing board must not delegate the general power of delegation.
-(4) A delegate to whom any functions or powers of a board or governing board are delegated may,—
-  (a) unless the delegation provides otherwise, perform the function or exercise the power in the same manner, subject to the same restrictions, and with the same effect as if the delegate were the board or the governing board; and
-  (b) delegate the function or power only—
-    (i) with the prior written consent of the governing board; and
-    (ii) subject to the same restrictions, and with the same effect, as if the subdelegate were the delegate.
-(5) A delegate who purports to perform a function or exercise a power under a delegation—
-  (a) is, in the absence of proof to the contrary, presumed to do so in accordance with the terms of that delegation; and
-  (b) must produce evidence of his or her authority to do so, if reasonably requested to do so.
-(6) No delegation in accordance with this Act—
-  (a) affects or prevents the performance of any function or the exercise of any power by the board or the governing board; or
-  (b) affects the responsibility of the governing board for the actions of any delegate acting under the delegation; or
-  (c) is affected by any change in the membership of the governing board or of any committee or class of persons.
-(7) A delegation may be revoked at will by—
-  (a) resolution of the governing board and written notice to the delegate; or
-  (b) any other method provided for in the delegation.
-(8) A delegation under subsection (4)﻿(b) may be revoked at will by written notice of the delegate to the subdelegate.
-(9) The governing board may, by resolution, appoint committees—
-  (a) to advise it on any matters relating to the board's functions and powers that are referred to the committee by the governing board; or
-  (b) to perform or exercise any of the board's functions and powers that are delegated to the committee.
-(10) A person must not be appointed as a member of a committee unless, before appointment, he or she discloses to the governing board the details of any financial interest that would disqualify the person from being a member of the committee under section 103A.
-(11) This section applies to each member of a committee who is not a trustee with necessary modifications.
-(12) Until revoked, a delegation to a committee continues in force, even if the membership of the board or committee changes.
+[Repealed]
 
 ### 66A No delegation of power to borrow
-The governing board of a board must not delegate any power to borrow money that it may have under section 160 or section 162 of the Crown Entities Act 2004.
+[Repealed]
 
 ### 66B Application of new acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules
-(1) The amendments made to sections 67 to 67B and 73 by Schedule 6 of the Crown Entities Act 2004 (being amendments that correspond with sections 160 to 164 of that Act) apply on and after 1 April 2005.
-(2) Until that date, the existing law applies (see the transitional provisions in sections 196 and 197 of the Crown Entities Act 2004).
+[Repealed]
 
 ### 67 Restrictions on borrowing
-(1) Sections 160 and 162 of the Crown Entities Act 2004 apply.
-(2) Therefore, a board must not borrow from any person, or amend the terms of any borrowing, other than as provided in—
-  (a) any regulations made under Part 4 of that Act; or
-  (b) any approval given jointly by the Minister of Education and the Minister of Finance; or
-  (c) this Act.
+[Repealed]
 
 ### 67A Restrictions on giving of guarantees and indemnities
-(1) Sections 160 and 163 of the Crown Entities Act 2004 apply.
-(2) Therefore, a board must not, with or without security, give a guarantee to, or indemnify, another person other than as provided in—
-  (a) any regulations made under Part 4 of that Act; or
-  (b) any approval given jointly by the Minister of Education and the Minister of Finance; or
-  (c) this Act.
+[Repealed]
 
 ### 67B Restrictions on use of derivatives
-(1) Sections 160 and 164 of the Crown Entities Act 2004 apply.
-(2) Therefore, a board must not enter into an agreement constituting a derivative, or amend the terms of that agreement, other than as provided in—
-  (a) any regulations made under Part 4 of that Act; or
-  (b) any approval given jointly by the Minister of Education and the Minister of Finance; or
-  (c) this Act.
+[Repealed]
 
 ### 68 Gifts
-(1) Any money or property that is gifted to a school may be accepted or disclaimed by the board in accordance with section 167 of the Crown Entities Act 2004.
-(1A) A limitation in this Act or that applies under the Crown Entities Act 2004 (such as a limitation on the form in which property may be held) does not apply during a period that is reasonable in the circumstances.
-(1B) Subsections (1) and (1A) apply to any gift that is received by the board for funding scholarships or bursaries, or for other educational purposes in connection with a school.
-(2) A board shall hold every such gift for the specific purpose declared by the giver.
-(3) Unless the giver has created a special trust, scholarships and bursaries from a gift shall be open to every student at the school.
-(4) If the school for which a gift was given closes, the Minister shall direct that the gift should apply to some other school.
+[Repealed]
 
 ### 69 Real property
-Except as provided in section 68, a board shall not acquire an interest in land, or any licence to occupy any land or premises, without the consent of the Minister.
+[Repealed]
 
 ### 70 Occupancy of property and buildings
-(1) The Secretary may from time to time, by notice in the Gazette, specify terms and conditions applying generally to land and buildings occupied by boards, and may from time to time, by written notice to a particular board, specify terms and conditions applying to land and buildings occupied by that board.
-(1A) A notice under subsection (1)—
-  (a) may apply to any land and buildings occupied by a board (regardless of who owns the property); but
-  (b) to the extent that it applies to the board of an integrated school, is subject to the Private Schools Conditional Integration Act 1975 and to the integration agreement for the time being in force between the Minister and the proprietors of the school.
-(2) Terms and conditions under subsection (1) may include such matters as standards of maintenance, standards of capital works, and minimum safety and health requirements.
-(3) Subsection (2) does not limit the generality of subsection (1).
-(4) Terms and conditions may be specified under subsection (1) in respect of a particular school or institution or schools or institutions, schools or institutions of particular classes or descriptions, or all schools and institutions.
-(5) A notice published in the Gazette under subsection (1) may publish the terms and conditions in their entirety, or by way of a general description and an indication of where the full text can be obtained.
-(6) Terms and conditions specified under subsection (1) apply to boards or a board (as the case may be) as if—
-  (a) the land and buildings were owned by the Crown and the Crown has leased them to the board; and
-  (b) the terms and conditions were part of the lease; and
-  (c) the Crown had empowered the Secretary to exercise the Crown's powers concerning the lease.
+[Repealed]
 
 ### 70A Minister may declare land to be no longer needed for educational purposes
-(1) The Minister may, by notice in the Gazette, declare any land of the Crown to be no longer needed for educational purposes.
-(2) On publication of a notice under subsection (1), any land referred to in the notice that was, immediately before publication of the notice, held for a purpose set out in subsection (3), ceases to be so held and may be disposed of as land no longer required for a public work.
-(3) Subsection (2) applies to land held—
-  (a) for education or educational purposes; or
-  (b) for, or for the purposes of, a school or other educational institution (whether or not any particular school or institution); or
-  (c) for any purpose related to or connected with a school or other educational institution (whether or not any particular school or institution); or
-  (d) for any similar purpose.
+[Repealed]
 
 ### 70B Leases and licences granted by boards
-(1) A board may, with the written consent of the Secretary, grant a lease or a licence to occupy to any person in respect of any land, buildings, or facilities occupied by the board.
-(2) The Secretary may agree to the grant of a lease or a licence by the board only if satisfied that—
-  (a) the land, building, or facilities are not needed or used for the purposes of the school during the time covered by the lease or licence; and
-  (b) the lease or licence is in the public interest; and
-  (c) the lease or licence—
-    (i) is for a purpose associated with educational outcomes and will bring educational benefit to the school or its community, or to any other school; or
-    (ii) is for a community purpose, and will bring no educational disadvantage to the school.
-(3) The Secretary must determine the terms and conditions of any lease or licence granted by a board, and may do so by either or both of the following:
-  (a) by notice in the Gazette specifying general terms and conditions that apply to all, or specified classes of, leases or licences:
-  (b) by written notice to the board.
-(4) Section 70(5) applies to a Gazette notice under subsection (3)﻿(a).
-(5) In relation to an integrated school, this section applies subject to the Private Schools Conditional Integration Act 1975 and to any integration agreement in force between the Minister and the proprietors of the school.
+[Repealed]
 
 ### 70C Other agreements to occupy school land or buildings
-(1) In this section, agreement means an agreement, other than a lease or a licence to occupy under section 70B, between a board and any other person for the use of land, buildings, or facilities occupied by the board.
-(2) A board may not enter into an agreement unless—
-  (a) the agreement is of a type permitted by Gazette notice under subsection (5); and
-  (b) the agreement is consistent with this section and any conditions set out in Gazette notices made under subsection (5).
-(3) It is a condition of every agreement that the board has the right to enter at any time the land, buildings, or facilities that are the subject of the agreement.
-(4) No person has the right under an agreement to use or occupy any land, buildings, or facilities in such a way as to unduly interfere with the use by the board for school purposes of that land or those buildings or facilities, or any other land, buildings, or facilities of the school.
-(5) The Secretary may, by notice in the Gazette,—
-  (a) identify the kinds of agreements (such as, for example, agreements for the use of playing fields) that boards may enter into; and
-  (b) specify conditions to which agreements, or specified types of agreements, are subject.
-(6) Section 70(5) applies to a Gazette notice under subsection (5)﻿(b).
-(7) In relation to an integrated school, this section applies subject to the Private Schools Conditional Integration Act 1975 and to any integration agreement in force between the Minister and the proprietors of the school.
+[Repealed]
 
-### 71 Courses and visits
+### 71 Courses, work experience, and visits outside school premises
 (1) Except as provided in this section, a board may authorise any students to—outside the school premises; and where the board has done so, a student shall be deemed to be attending the school while undertaking the course, obtaining the experience, or making the visit.
   (a) undertake courses of education; or
   (b) obtain work experience; or
@@ -1549,28 +1529,70 @@ Except as provided in section 68, a board shall not acquire an interest in land,
   (c) entitle a student to enter or remain in a workplace; or
   (d) require any person to pay any levy, fee, or charge, of any kind.
 
-### 72 Bylaws
-Subject to any enactment, the general law of New Zealand, and the school's charter, a school's board may make for the school any bylaws the board thinks necessary or desirable for the control and management of the school.
+### 71A Off-site locations for schools
+(1) This section applies to the use of off-site locations by schools to provide education to 1 or more students on a long-term or full-time basis.
+(2) The Minister may, by written notice to the board of a school, approve the use of an off-site location by the school.
+(3) The Minister may issue a notice under subsection (2) only if he or she is satisfied that the board and the owner or occupier of the off-site location have both agreed to that use and the terms of that use.
+(4) Except as provided in subsection (2), a school must not—
+  (a) use an off-site location; or
+  (b) host an off-site location for another school.
+(5) In any case, following notice of approval being given and before any use is made of the off-site location, the board must enter into a written agreement with the Secretary that sets out—
+  (a) who is responsible for the education provided at the off-site location:
+  (b) who is responsible for the welfare and safety of the students at that location:
+  (c) the terms agreed on any other matter the Secretary considers relevant in the particular case.
+(6) Off-site location means any premises outside the premises of the school that is to use the off-site location for the purpose described in subsection (1).
 
-### 73 Restrictions on acquisition of securities
-(1) Sections 160 and 161 of the Crown Entities Act 2004 apply.
-(2) Therefore, a board must not acquire securities other than—
-  (a) a debt security denominated in New Zealand dollars that is issued by a registered bank, or by any other entity, that satisfies a credit-rating test that is specified in either regulations made under Part 4 of that Act or a notice in the Gazette published by the Minister of Finance:
-  (b) a public security:
-  (c) as provided in—
-    (i) any regulations made under Part 4 of that Act; or
-    (ii) any approval given jointly by the Minister of Education and the Minister of Finance; or
-    (iii) this Act.
+**Land no longer needed for educational purposes**
 
-### 74 Work for other boards
-(1) Any 2 boards may agree in writing for—and for the other to pay the board acquiring and supplying the materials or doing the work.
-  (a) one of them to acquire materials for and supply them to the other; or
-  (b) one of them to do work for the other,—
-(2) An agreement under subsection (1) does not absolve a board from any responsibilities imposed by this Act.
+### 71B Minister may declare land to be no longer needed for educational purposes
+(1) The Minister may, by notice in the Gazette, declare any land of the Crown to be no longer needed for educational purposes.
+(2) On publication of a notice under subsection (1), any land referred to in the notice that was, immediately before publication of the notice, held for a purpose set out in subsection (3), ceases to be held and may be disposed of as land no longer required for a public work.
+(3) Subsection (2) applies to land held—
+  (a) for education or educational purposes; or
+  (b) for, or for the purposes of, a school or other educational institution (whether or not any particular school or institution); or
+  (c) for any purpose related to or connected with a school or other educational institution (whether or not any particular school or institution); or
+  (d) for any similar purpose.
 
-### 75 Functions and powers of boards
-(1) A school's board must perform its functions and exercise its powers in such a way as to ensure that every student at the school is able to attain his or her highest possible standard in educational achievement.
-(2) Except to the extent that any enactment or the general law of New Zealand provides otherwise, a school's board has complete discretion to control the management of the school as it thinks fit.
+**Communities of learning**
+
+### 71C Community of learning approved by Minister
+(1) The Minister may approve a community of learning for the purpose of the community entering an agreement under section 72.
+(2) A community of learning must consist of a group of 2 or more State or State integrated schools but may also include 1 or more of the following:
+  (a) licensed early childhood services (as defined in section 309):
+  (b) certificated playgroups:
+  (c) tertiary education organisations (which has the same meaning as organisation in section 159B(1)).
+(3) The Minister may approve a community of learning only if the Minister is satisfied that—
+  (a) the purpose of the group is to come together for the purpose of raising achievement for children and young people; and
+  (b) the membership of the group that will form the community is appropriate having regard to that purpose.
+
+### 72 Secretary may enter agreement with community of learning
+(1) The Secretary and the members of a community of learning approved by the Minister may enter a community of learning agreement.
+(2) The matters that a community of learning agreement may provide for include (without limitation) any or all of the following:
+  (a) the activities that the community of learning will undertake:
+  (b) the commitments of individual members of the group in carrying out the activities:
+  (c) any resources that may be provided to carry out the activities:
+  (d) any data collection requirements related to the activities:
+  (e) the format and content of the plans and annual reports required under sections 73 and 74.
+(3) Each member is jointly and severally liable for the obligations and responsibilities of the community of learning set out in the agreement.
+(4) A member that proposes to withdraw from a community of learning agreement must give the Secretary notice in writing of the withdrawal.
+(5) The Secretary must, by notice in the Gazette, list the members of each community of learning that have entered into a community of learning agreement with the Secretary and update the list to record any changes to membership of the community.
+
+### 73 Community of learning that has agreement with Secretary must also prepare plan
+(1) A community of learning that has a community of learning agreement with the Secretary must—
+  (a) prepare and maintain a plan to cover a period agreed to by the Secretary; and
+  (b) provide the Secretary with a copy of the plan.
+(2) The plan must have particular regard to any statement of National Education and Learning Priorities issued under section 1A.
+(3) A community of learning that changes a plan provided to the Secretary must provide the Secretary with a copy of the changed plan as soon as practicable.
+
+### 74 Report to Secretary by community of learning
+A community of learning that has a community of learning agreement with the Secretary must report annually to the Secretary regarding—
+  (a) its performance and progress in relation to the activities it has agreed to undertake; and
+  (b) the use of any resources provided to or by the community of learning in accordance with the agreement to carry out the activities.
+
+### 75 Performance review of community of learning
+The Chief Review Officer may review the performance of a community of learning under Part 28.
+
+**Powers and functions of principals**
 
 ### 75A Appointment of principals
 (1) The powers conferred on a board by section 65 include the power to appoint a principal.
@@ -1586,6 +1608,7 @@ Subject to any enactment, the general law of New Zealand, and the school's chart
 ### 77 Guidance and counselling
 The principal of a State school shall take all reasonable steps to ensure that—
   (a) students get good guidance and counselling; and
+  (ab) students in form 1 and above are provided with appropriate career education and guidance that is designed to prepare them to join the workforce or undertake further education or training when they leave school; and
   (b) a student's parents are told of matters that, in the principal's opinion,—
     (i) are preventing or slowing the student's progress through the school; or
     (ii) are harming the student's relationships with teachers or other students.
@@ -1602,11 +1625,15 @@ The principal of a State school shall take all reasonable steps to ensure that�
 (5) In this section, principal, in relation to a partnership school kura hourua, means the person to whom the sponsor of the school has assigned the role of managing enrolment records.
 (6) In subsection (5), partnership school kura hourua and sponsor have the meanings given by section 2(1).
 
+**Regulations**
+
 ### 78 Regulations relating to control and management of schools
 (1) Subject to the provisions of this Act and any other enactment, the Governor-General may from time to time make regulations providing for the control, management, organisation, conduct, and administration of schools.
 (2) Different provision may be made for schools of different classes or descriptions.
 (3) Regulations made under this section may give powers to, or impose duties on, boards, principals, or both.
 (4) Regulations made under this section prescribing a course of study shall not restrict the method by or manner in which any subject forming part of the course is to be taught, except to the extent necessary to ensure that the teaching of the subject is consistent with the general aims of the course.
+
+**Powers of entry and inspection**
 
 ### 78A Powers of entry and inspection
 (1) Any person holding an authorisation under subsection (2) may, at any reasonable time,—
@@ -1629,18 +1656,9 @@ The principal of a State school shall take all reasonable steps to ensure that�
   (b) meeting and talking with students enrolled there.
 
 ### 78B Entry where private school suspected of being unregistered
-(1) A person who holds an authorisation under section 78A(2), and who has reasonable cause to believe that any premises are being used as a private school in contravention of section 35R, may apply for a warrant to enter the premises.
-(2) An application for a warrant must be in writing, on oath, and be made to a District Court Judge, Justice of the Peace, or Registrar or Deputy Registrar of any court.
-(3) A warrant may be issued on an application under subsection (1) if the person issuing it is satisfied that there is reasonable cause to believe that the premises are being used as a private school in contravention of section 35R.
-(4) A warrant issued under subsection (3) must contain—
-  (a) a reference to this section; and
-  (b) the full name of the person authorised; and
-  (c) a description of the premises concerned; and
-  (d) the date on which it was issued and the date on which it expires.
-(5) A warrant issued under subsection (3) must authorise the person named in it, at any reasonable time within 4 weeks of the date on which it is issued, to enter and inspect the premises described in the warrant to ascertain whether those premises are being used as a private school in contravention of section 35R.
-(6) A person acting under a warrant under subsection (3) must retain the warrant and must show it, along with evidence of identity, to the occupier of the premises concerned—
-  (a) on first entering the premises; and
-  (b) whenever subsequently reasonably required to do so by that occupier.
+[Repealed]
+
+**Police vetting of non-teaching staff**
 
 ### 78C Police vetting of non-teaching and unregistered employees at schools
 The board of a State school, or the management of a school registered under section 35A, must obtain a Police vet of every person—
@@ -1667,6 +1685,8 @@ The board of a State school, or the management of a school registered under sect
   (b) must not take adverse action in relation to a person who is the subject of a Police vet until—
     (i) the person has validated the information contained in the vet; or
     (ii) the person has been given a reasonable opportunity to validate the information, but has failed to do so within a reasonable period.
+
+**Risk management schemes**
 
 ### 78D School risk management scheme
 (1) In this section, and in sections 78E and 78F,—
@@ -1709,39 +1729,52 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 ## Part 7A — Interventions in schools
 
 ### 78H Purpose of Part
-The purpose of this Part is to provide for a range of interventions that may be used to address risks to the operation of individual schools or to the welfare or educational performance of their students.
+The purpose of this Part is to provide for a range of interventions that may be used to address concerns about or risks to the operation of individual schools or to the welfare or educational performance of their students.
 
 ### 78I Application of interventions
 (1) The interventions in schools that are available are as follows:
   (a) a requirement by the Secretary for information:
   (b) a requirement by the Secretary for a board to engage specialist help:
   (c) a requirement by the Secretary for a board to prepare and carry out an action plan:
+  (ca) a requirement by the Secretary that the board attend a case conference to enable a particular issue or issues to be discussed and actions to be agreed:
+  (cb) a requirement by the Secretary that the board engage an appropriately qualified person to undertake a specialist audit of any aspect of the school’s affairs:
+  (cc) the issuing by the Secretary to the board of a performance notice requiring the board to carry out a specified action by a specified date:
+  (cd) the appointment by the Minister of a trustee (who may be the presiding trustee) to the board for a specified period of time:
   (d) the appointment by the Secretary, at the direction of the Minister, of a limited statutory manager:
   (e) the dissolution of a board by the Minister, and the appointment of a commissioner:
   (f) the dissolution of a board by the Secretary, and the appointment of a commissioner.
-(2) The Minister or Secretary (as the case may be) may apply any of the interventions described in subsection (1)﻿(b) to (e) to a school if he or she has reasonable grounds to believe that there is a risk to the operation of the school, or to the welfare or educational performance of its students.
+(1A) The Secretary may apply any of the interventions described in subsection (1)﻿(a) to (cc) to a school if he or she has reasonable grounds for concern about the operation of the school, or the welfare, or educational performance of its students.
+(2) The Minister or Secretary (as the case may be) may apply any of the interventions described in subsection (1)﻿(cd) to (e) to a school if he or she has reasonable grounds to believe that there is a risk to the operation of the school, or to the welfare or educational performance of its students.
 (3) The Minister or Secretary (as the case may be) may apply any of the interventions described in subsection (1) to a school if either of the following requests an intervention:
   (a) the board of the school:
-  (b) in the case of an integrated school, the school's proprietors.
+  (b) in the case of a State integrated school, the school's proprietors.
 (4) When applying an intervention, the Minister or Secretary (as the case may be) must apply whichever intervention he or she considers is reasonable to deal with the risk without intervening more than necessary in the affairs of the school.
 (5) The application of any one intervention does not preclude the application of any other intervention, either simultaneously or at any other time.
 
 ### 78J Requirement to provide information
 (1) The Secretary may, by written notice to the board of a school, require the board to provide specified information—
-  (a) as at a given time; or
+  (a) as at a given time or times; or
   (b) at specified intervals; or
   (c) both.
-(2) The Secretary may give a notice under subsection (1) only if he or she has reasonable grounds for concern about the operation of the school, or the welfare or educational performance of its students.
-(3) A board that receives a notice under subsection (1) must provide the Secretary with the information required—
-  (a) within or at the time or times specified in the notice; and
-  (b) in the form (if any) specified by the Secretary.
-(4) The Secretary may at any time amend or revoke a notice under subsection (1), and the amendment or revocation takes effect on the date specified in the notice.
+(1A) The Secretary may also require, in the notice, that an analysis of the specified information be provided.
+(2)
+(3) A board that receives a notice under subsection (1) must provide the Secretary with the information required and an analysis of the information (if this has been sought)—
+  (a) by the time or times, or at the intervals, or both, as specified in the notice; and
+  (b) in the form (if any) required by the Secretary.
+(4)
 
 ### 78K Specialist help
 (1) The Secretary may, by written notice to the board of a school, require the board to engage specified specialist help.
 (2) A notice given under subsection (1) must identify particular persons or organisations, or types of persons or organisations, whom the board must engage.
-(3) A board that receives a notice under subsection (1) must comply with the notice as soon as practicable, and must pay the fees and reasonable expenses of any person or organisations engaged to provide specialist help.
-(4) The Secretary may at any time amend or revoke a notice under subsection (1), and the amendment or revocation takes effect on the date specified in the notice.
+(2A) The Secretary may also require, in the notice, that the board provide to him or her a report or reports (for example, a progress report and a final report) on the specialist help—
+  (a) by the specified time or times; or
+  (b) at the specified intervals; or
+  (c) both.
+(3) A board that receives a notice under subsection (1) must—
+  (a) engage the specialist help as soon as practicable; and
+  (b) pay the fees and reasonable expenses of any person or organisation engaged to provide specialist help, unless the Secretary determines otherwise; and
+  (c) provide a report or reports to the Secretary at the time or times, or intervals, specified in the notice.
+(4)
 
 ### 78L Action plans
 (1) The Secretary may, by written notice to the board of a school, require the board to prepare and carry out an action plan, and every such notice must specify—
@@ -1753,6 +1786,55 @@ The purpose of this Part is to provide for a range of interventions that may be 
 (4) When the Secretary has approved an action plan, the board—
   (a) must implement it in accordance with its terms, unless or until the Secretary directs otherwise; and
   (b) must make the plan available as if it were part of the school's charter.
+
+### 78LA Case conference
+(1) The Secretary may, by written notice to the board of a school, require the board to attend a case conference on a specified date.
+(2) The notice must specify the issue or issues to be discussed.
+(3) A board that receives a notice under subsection (1) must attend the case conference.
+(4) The Secretary may invite any person to attend the case conference, if the Secretary considers that the person’s presence at the conference is desirable.
+(5) If the case conference results in the parties reaching agreement on any action or actions to address any issue or issues, the agreement—
+  (a) must be recorded in writing; and
+  (b) is binding on the parties.
+(6) If the Secretary and the board are not able to agree on an action or actions to address any issue or issues, the Secretary may, by written notice to the board,—
+  (a) require it to take a particular action or actions; and
+  (b) require it to provide to him or her a report or reports (for example, a progress report and a final report) on the action or actions taken—
+    (i) as at a given time or times; or
+    (ii) at specified intervals; or
+    (iii) both.
+(7) A board that receives a notice under subsection (6) must,—
+  (a) in relation to a requirement to take a particular action or actions, take the action or actions as soon as practicable; and
+  (b) if the notice includes a requirement to report to the Secretary, provide a report or reports at the time or times, or intervals, specified in the notice.
+
+### 78LB Specialist audit
+(1) The Secretary may, by written notice to the board of a school, require the board to engage an appropriately qualified person to undertake a specialist audit of any aspect of the school’s affairs.
+(2) A notice given under subsection (1) must identify particular persons or organisations, or types of persons or organisations, whom the board must engage.
+(3) The Secretary may also require, in the notice, that the board provide to him or her a report or reports (for example, a progress report and a final report) on the audit—
+  (a) as at a given time or times; or
+  (b) at specified intervals; or
+  (c) both.
+(4) A board that receives a notice under subsection (1) must—
+  (a) undertake the audit as soon as practicable; and
+  (b) pay the fees and reasonable expenses of any person or organisation engaged to undertake the audit, unless the Secretary determines otherwise; and
+  (c) provide a report or reports to the Secretary at the time or times, or intervals, specified in the notice.
+
+### 78LC Performance notice
+(1) The Secretary may, by written notice to the board of a school, issue a performance notice requiring the board to carry out a specified action by a specified date.
+(2) The Secretary may also require, in the notice, that the board provide to him or her a report or reports (for example, a progress report and a final report) on the action taken—
+  (a) as at a given time or times; or
+  (b) at specified intervals; or
+  (c) both.
+(3) A board that receives a notice under subsection (1) must—
+  (a) take the action by the date specified in the notice; and
+  (b) provide a report or reports to the Secretary at the time or times, or intervals, specified in the notice.
+
+### 78LD Appointment of additional trustee by Minister
+(1) The Minister may, by written notice to the board of a school, appoint an additional trustee of the board, and the Minister may also appoint that trustee as the presiding trustee.
+(2) The notice must specify a period of time for which the appointment is made.
+(3) A person who is ineligible to be a trustee under section 103 may not be appointed under this section.
+
+### 78LE Amendment and revocation of notices
+(1) The Secretary may at any time, by giving written notice to a board, amend or revoke a notice given by him or her under this Part.
+(2) The amendment or revocation takes effect on the date specified in the notice.
 
 ### 78M Limited statutory manager
 (1) The Minister may, by notice in the Gazette, direct the Secretary to appoint a limited statutory manager for the board of a school.
@@ -1770,7 +1852,7 @@ The purpose of this Part is to provide for a range of interventions that may be 
   (a) any functions, powers, or duties of the board specified in a notice under subsection (1) vest in the limited statutory manager; and
   (b) the board must take into consideration advice given by the limited statutory manager on any matter on which he or she is obliged to give advice; and
   (c) any conditions specified in the notice apply.
-(5) The board must pay the fees and expenses of a limited statutory manager appointed for it.
+(5) The board must pay the fees and expenses of a limited statutory manager appointed for it, unless the Secretary determines otherwise.
 (6) The Minister may at any time, by notice in the Gazette, amend a notice under subsection (1), and the amendment takes effect on and from the date given in the notice.
 (7) When the Minister is satisfied that the appointment of the limited statutory manager is no longer required, he or she must revoke the notice under subsection (1), in which case the appointment terminates from the date of the revocation.
 
@@ -1797,7 +1879,7 @@ The purpose of this Part is to provide for a range of interventions that may be 
 ### 78O Commissioners
 (1) A commissioner appointed under section 78N has all the functions, powers, and duties of the board that he or she is appointed to replace.
 (2) Anything that, if done by or on behalf of the board, must be done by affixing the board's seal, or by the signature of 2 or more trustees, or both, may be done by the signature of the commissioner.
-(3) The remuneration of the commissioner must be determined by the Secretary and paid for out of funds of the board.
+(3) The remuneration of the commissioner must be determined by the Secretary and paid for out of funds of the board, unless the Secretary determines otherwise.
 
 ### 78P Commissioner sets date for election of trustees
 (1) In the case of a commissioner appointed under section 78N(2), when the Secretary is satisfied that a commissioner is no longer required for the school, the commissioner must appoint a date for the election of trustees.
@@ -1808,17 +1890,17 @@ The purpose of this Part is to provide for a range of interventions that may be 
 No limited statutory manager, and no commissioner, is personally liable for any act done or omitted by him or her, or for any loss arising out of any act done or omitted by him or her, if the act or omission was in good faith and occurred in the course of carrying out his or her functions.
 
 ### 78R Annual review of interventions
-Within 1 year of the date of a notice under any of sections 78J(1), 78K(1), 78L(1), 78M(1), or 78N(1) or (3), the Secretary must review the operation of the intervention commenced by each notice, and after that must review the operation of the intervention annually.
+Within 1 year of the date of a notice under any of sections 78J(1), 78K(1), 78L(1), 78LA, 78LB, 78LC, 78LD, 78M(1), or 78N(1) or (3), the Secretary must review the operation of the intervention commenced by each notice, and after that must review the operation of the intervention annually.
 
-### 78S Application of interventions to integrated schools
-(1) The Secretary must, if practicable, consult with the proprietors of an integrated school before appointing a limited statutory manager or commissioner for the school, and must have regard to any recommendations made by the proprietors.
+### 78S Application of interventions to State integrated schools
+(1) The Secretary must, if practicable, consult with the proprietors of a State integrated school before appointing a limited statutory manager or commissioner for the school, and must have regard to any recommendations made by the proprietors.
 (2) If the Secretary considers that it is not practicable to consult with the proprietors before making an appointment, the Secretary must consult with the proprietors after making the appointment and must consider whether, in light of any recommendations made by the proprietors, a different person should be appointed in place of the original appointee.
 
 ### 78T Application of interventions to Kura Kaupapa Maori
 (1) Before applying any of the interventions in this Part to a Kura Kaupapa Maori, the Secretary must consult with te kaitiaki o Te Aho Matua (as defined in section 155B).
 (2) Subsection (1) applies only to Kura Kaupapa Maori that are required by their charters to operate in accordance with Te Aho Matua.
 
-## Part 8 — Financial
+## Part 8 — Financial matters, assets, and property
 
 ### 79 Grants for boards or sponsors
 (1) Subject to subsection (2), in each financial year, boards and sponsors must be paid, out of public money appropriated by Parliament for the purpose, such grants and supplementary grants, of such amounts, as the Minister determines.
@@ -1894,6 +1976,9 @@ Notwithstanding sections 79 to 81,—
 ### 87A Audit
 (1) Each board must submit its annual financial statements to the Auditor-General within 90 days after the end of each financial year.
 (2) The Auditor-General must audit the financial statements and provide an audit report on them to the board.
+
+### 87AB Annual report to be made available
+A board must ensure that its annual report is available to the public on an Internet site maintained by or on behalf of the board.
 
 ### 87B Report on performance of schools' sector
 (1) The Minister of Education must in each year, not later than 30 September, prepare and present to the House of Representatives a report on the performance of the schools' sector in the immediately preceding financial year ending on 31 December.
@@ -2052,7 +2137,7 @@ In determining for the purposes of section 79 the amount of any grant payable to
     (b) in relation to a combined board that administers special institutions, means those institutions or any of them; and
     (c) in relation to a trustee of a lone board that administers a special institution, means that institution; and
     (d) in relation to a trustee of a combined board that administers special institutions, means those institutions or any of them
-  - **integrated** , in relation to a school, or a school of a particular class, means for the time being established as an integrated school, or integrated school of that class, under the Private Schools Conditional Integration Act 1975
+  - **integrated** has the same meaning as in section 2(1)
   - **intermediate school** has the same meaning as in section 145(1)
   - **lone board** means a board that administers only 1 school or institution
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
@@ -2084,35 +2169,39 @@ In determining for the purposes of section 79 the amount of any grant payable to
   (b) omitting the name of an institution from it; or
   (c) substituting for the name of an institution any different name.
 
-### 93 Schools and special institutions to have boards of trustees
+**Requirement for board of trustees**
+
+### 93 State schools and special institutions to have boards of trustees
 (1) Except as provided in this Act, there shall be 1 board of trustees for every State school.
 (2) Whether or not it is a State school, every special institution shall have 1 board of trustees.
 (3) Notwithstanding subsections (1) and (2), a school or institution does not have to have a board of trustees while a commissioner holds office to act in place of its board of trustees.
 (4) Every board of trustees constituted under the School Trustees Act 1989 shall be deemed to have been constituted under this Act too.
 
+**Constitution of boards**
+
 ### 94 Constitution of boards of State schools
-(1) Subject to sections 94A, 94B, 94C, and 95(1), the board of a State school shall comprise—
+(1) Subject to sections 94A, 94B, 95(1), and 100, the board of a State school shall comprise—
   (a) no more than 7 and no fewer than 3 parent representatives; and
   (b) the principal of the school or, in the case of a combined board, the principal or principals of the schools administered by the board; and
   (c) except where the principal is the only member of the school staff, 1 staff representative; and
   (d) a number (determined by the board) of trustees either—
     (i) co-opted by the board; or
     (ii) appointed by bodies corporate approved by the board for the purpose; and
-  (e) in the case of a board that administers any integrated school, not more than 4 trustees appointed by the school's proprietors; and
+  (e) in the case of a board that administers any State integrated school, not more than 4 trustees appointed by the school's proprietors; and
   (f) in the case of a board that administers a school where students are enrolled full-time in classes above form 3, 1 student representative.
 (2) Notwithstanding subsection (1), but subject to section 95(1), except to the extent that a board has decided otherwise, it shall have—
   (a) 6 parent representatives, in the case of a board that administers more than 2 schools; and
   (b) 5 parent representatives, in every other case.
 
-### 94A Proprietors of integrated schools may vary number of trustees they appoint
-(1) Notwithstanding section 94(1), except as provided in this section, a board that administers any integrated school shall have 4 trustees appointed by the school's proprietors.
-(2) The proprietors of an integrated school may, by written notice to the board, consent to a reduction in the number of trustees the proprietors are entitled to appoint to the board.
+### 94A Proprietors of State integrated schools may vary number of trustees they appoint
+(1) Notwithstanding section 94(1), except as provided in this section, a board that administers any State integrated school must have 4 trustees appointed by the school's proprietors.
+(2) The proprietors of a State integrated school may, by written notice to the board, consent to a reduction in the number of trustees the proprietors are entitled to appoint to the board.
 (3) Every notice under subsection (2) shall either—
   (a) specify that it is to take effect on the occurrence of the earlier of the following events:
     (i) the going out of office under section 102(8) of trustees of the board:
     (ii) the appointment under section 78N(2) of a commissioner to act in the board's place; or
   (b) specify a day on which it is to take effect, and contain the dismissal (with effect on that day) of enough trustees appointed by the proprietors to give effect to the reduction consented to.
-(4) The proprietors of an integrated school may, by written notice to the board, require an increase (to no more than 4) in the number of trustees the proprietors are entitled to appoint to the board.
+(4) The proprietors of a State integrated school may, by written notice to the board, require an increase (to no more than 4) in the number of trustees the proprietors are entitled to appoint to the board.
 (5) A notice under subsection (4) shall take effect on the occurrence of the earlier of the following events:
   (a) the going out of office under section 102(8) of trustees of the board:
   (b) the appointment under section 78N(2) of a commissioner to act in the board's place.
@@ -2146,14 +2235,9 @@ In determining for the purposes of section 79 the amount of any grant payable to
 (9) A board that makes a decision under subsection (1) shall ensure that, as soon as is practicable after making it, the Secretary is given written notice of the nature of the decision and the day on which it was made.
 
 ### 94C Limitations on co-option and appointment of trustees
-(1)
-(2) No board shall co-opt a trustee if the effect of the co-option would be that the board did not have more parent representatives than the total number of trustees co-opted by the board or appointed.
-(3) No board shall—if the effect of the appointment of the maximum number of trustees under such approvals would be that the board could have a number of parent representatives that was not greater than the total number of trustees co-opted by the board or appointed.
-  (a) approve a body corporate for the purpose of appointing a specified number of trustees to the board; or
-  (b) modify an approval under section 94B(1)﻿(a) by increasing the number of trustees a body corporate may appoint to the board,—
-(4) No more than 1 non-permanently appointed member of the board staff may be co-opted on to the board at any one time.
+[Repealed]
 
-### 95 Boards of correspondence schools and certain other educational institutions
+### 95 Composition of boards of special institutions
 (1) The composition of the board of a special institution shall be determined by the Minister by notice in the Gazette.
 (2) A notice under subsection (1)—
   (a) may apply to a specified institution or institutions, or to institutions of a specified class or description:
@@ -2189,8 +2273,43 @@ In determining for the purposes of section 79 the amount of any grant payable to
 (2) Subsection (1) continues to apply to the membership of the board until the trustees go out of office under subsection (3).
 (3) A trustee appointed, elected, or co-opted under subsection (1) goes out of office—
   (a) at the close of the day before the date on which the trustees who have been elected under section 101 take office under section 102; or
-  (b) at the close of the day before the date on which the trustees who have been elected, appointed, or co-opted in accordance with a notice issued under section 105A take office.
+  (b) at the close of the day before the date on which the trustees who have been elected, appointed, or co-opted in accordance with a notice issued under section 98A take office.
 (4) Subject to section 103, any trustee appointed, elected, or co-opted under subsection (1) is eligible to be appointed, elected, or co-opted as a trustee.
+
+### 98A Minister may approve alternative constitution in certain cases
+(1) The Minister may from time to time, by notice in the Gazette, approve an alternative constitution under this section for the board of a State school, or a combined board of State schools.
+(2) The Minister may not approve an alternative constitution for a board unless the Minister has reasonable cause to believe that an alternative constitution is in the best interests of the school or schools governed by the board.
+(3) Subject to subsections (2) and (4), the Minister may not approve an alternative constitution unless—
+  (a) 1 of the following applies:
+    (i) the Chief Review Officer (as defined in section 2(1)), in a written report, recommends that the Minister consider devising an alternative constitution; or
+    (ii) 20% or more of the parents of children enrolled at the school or schools have requested an alternative constitution; or
+    (iii) the board (or if a board has been replaced by a commissioner, that commissioner) has requested an alternative constitution; or
+    (iv) the Minister has required the board to have an alternative constitution under section 110(1D) or 110A(3); and
+  (b) the Minister has consulted such persons or organisations as the Minister considers appropriate.
+(4) Subsection (3) does not apply if—
+  (a) the alternative constitution is the successor constitution for a board that was appointed or elected under section 98(1); or
+  (b) the alternative constitution is approved for a combined board before the date specified in a notice under section 110(1); or
+  (c) the alternative constitution is for the board of a continuing school and the Minister has given notice under section 156A(4)﻿(b).
+(5) In the case of a State integrated school, the Minister must consult the proprietor of the school when conducting the consultation required under subsection (3)﻿(b).
+(6) A constitution approved under this section applies instead of a constitution under section 94.
+
+### 98B Consequences of approval of alternative constitution
+(1) If an alternative constitution is approved under section 98A(1), the notice made under that section must establish a board comprising 1 or more persons who are to be elected or appointed as trustees in the manner specified in the notice, and the notice may (without limitation)—
+  (a) set out a procedure for any election, appointment, or co-option of trustees:
+  (b) set out the manner in which vacancies are to be filled:
+  (c) provide for the appointment of returning officers and set out their functions:
+  (d) set out other formal and procedural provisions for the purposes of any election, appointment, or co-option of trustees.
+(2) While a notice under section 98A(1) that approves an alternative constitution is in force, sections 94, 94A, 94B, 95, 96, 97, 98, 99, 101, 102, 104, and 105 do not apply in respect of the board concerned and the schools governed by it.
+(3) In their application to a board that has an alternative constitution under section 98A, the other sections and any schedules of this Act relating to boards must be read subject to (and subject also to all modifications necessary to give effect to) section 98A and to this section.
+
+### 98C Actions of boards not to be questioned for informality in membership
+The powers of a board are not affected by—
+  (a) any vacancy in its membership; or
+  (b) the discovery of any error or defect in the election, appointment, or co-option of any trustee; or
+  (c) the fact that any elected, appointed, or co-opted trustee acted as a trustee while he or she was a person who may not (under section 103(1)) become an elected, appointed, or co-opted trustee; or
+  (d) the fact that a person continued acting as a trustee after the person's office as a trustee became vacant or (in the case of a person whose election as a trustee has been declared invalid under section 101D or by a court) before the person's election was declared invalid.
+
+**Co-opted and appointed trustees**
 
 ### 99 Criteria for selecting co-opted and appointed trustees
 (1) It is desirable, so far as is reasonably practicable,—
@@ -2202,10 +2321,12 @@ In determining for the purposes of section 79 the amount of any grant payable to
   (b) that every board should have available from within its membership expertise and experience in management.
 (2) A board or person, when co-opting or appointing trustees, shall have regard to subsection (1).
 
-### 100 Availability of annual report
-At the same time as a board gives the Secretary the annual report as required by section 87, the board must—
-  (a) give notice to the school community, by whatever means the board considers will be most effective, of where and when a copy of the annual report is available for inspection; and
-  (b) ensure that a copy of the annual report is available for inspection at the school by members of the public during school opening hours.
+### 100 Limitations on co-option and appointment of trustees
+(1) A board must not co-opt a trustee if the effect of the co-option would be that the total number of trustees co-opted by the board or appointed was equal to or greater than the total number of parent representatives.
+(2) A board must not exercise its powers under section 94B(1)﻿(c) or (d) if doing so could result in the board having a number of parent representatives that was not greater than the total number of trustees co-opted by the board or appointed.
+(3) No more than 1 non-permanently appointed member of the board staff may be co-opted to the board at any one time.
+
+**Elections of trustees**
 
 ### 101 Elections of trustees
 (1) Before 1 September in every year, the board of a State school or of a special institution, that is required to have a student representative, must fix a day in September in that year for the holding of an election for a student representative.
@@ -2217,7 +2338,7 @@ At the same time as a board gives the Secretary the annual report as required by
     (ii) if the Minister has not, by notice in the Gazette published on or by 31 October in any year, specified a range of dates for those elections in that election year, on a date fixed by the board that is within the range of dates for those elections in the previous election year; and
   (b) in the case of a correspondence school, on the second Tuesday in July, unless the board, before 1 April in that year, fixes an earlier date for the election (being a date after 1 April).
 (4A) The notice referred to in subsection (4)﻿(a) may specify different ranges of dates, for elections under subsection (3), for boards that have, and for schools that have not, adopted staggered election cycles under section 101A.
-(5) If—are held after 31 October in the year before an election year and before 31 December in the election year, the board shall not hold an election (or, as the case requires, another election) under subsection (3) in the election year.
+(5) If—are held after 30 April in the year before an election year and before 31 December in the election year, the board shall not hold an election (or, as the case requires, another election) under subsection (3) in the election year.
   (a) the first elections of trustees for the board of a school established or integrated after the commencement of this section; or
   (b) elections under section 78P—
 (6) Notwithstanding anything in sections 94 to 98, where there are to be held (pursuant to subsection (3) or section 78P, or in respect of a newly established or integrated school or institution) both—no person may both stand or vote in one of the elections and stand or vote in the other.
@@ -2225,7 +2346,7 @@ At the same time as a board gives the Secretary the annual report as required by
   (b) an election of 1 or more staff representatives on the board,—
 (7) Subject to subsections (8) and (8A), the first elections for and first meetings of boards of schools and institutions established or integrated after the commencement of this Act shall be held on days fixed by the Minister by notice in the Gazette.
 (8) The days fixed by the Minister under subsection (7) for the first elections for and first meeting of the board of a school integrated after the commencement of this Act shall be days before the day on which the integration of the school takes effect.
-(8A) If the Minister approves an alternative constitution for a newly established school under section 105A, subsection (7) does not apply and the first elections (if any) for, and the first meeting of, the board of such a school must be held in accordance with a notice under section 105A.
+(8A) If the Minister approves an alternative constitution for a newly established school under section 98A, subsection (7) does not apply and the first elections (if any) for, and the first meeting of, the board of such a school must be held in accordance with a notice under section 98A.
 (9) The first elections (if any) for and first meeting of the board of a special institution (being a special institution that was established before the commencement of this section but that had not had a first election or meeting before that commencement) shall be held on a day or days specified by the Minister by notice in the Gazette.
 (10) This section is subject to section 101A (which provides for the election of some parent representatives at the mid-point of an election cycle under this section), and to section 101AB (which provides that elections are not to be held when a school is under notice of closure).
 
@@ -2251,6 +2372,31 @@ Nothing in this Act requires or permits the board of any school or special insti
   (b) the nature of the decision; and
   (c) the fact that they have a right to attend the meeting.
 
+### 101C Provisions relating to board with staggered election cycle where commissioner appointed
+(1) This section applies if a commissioner has been appointed in place of a board that has, or has decided to have, a staggered election cycle, and the commissioner has appointed a date under section 78P for the holding of elections of trustees for a new board.
+(2) Despite anything in section 102, the nomination forms and voting forms for the election must show which nominees are standing only until the next election, and which are standing until the election after the next election.
+(3) Despite anything in section 102, trustees who are elected only until the next election go out of office at the close of the day before the day on which the successor takes office following the election.
+(4) If the date that the commissioner has appointed under section 78P is a date that is within 6 months before the date on which an election is due to be held, the board does not have to hold an election on that date and this section applies as if that election were not due to be held.
+
+### 101D Validation and invalidation of elections of boards
+(1) Subsection (2) applies if—
+  (a) anything required to be done in connection with an election under this Act—
+    (i) has been done after the time it is required to be done; or
+    (ii) has not been done at all; or
+    (iii) has been done irregularly; and
+  (b) the Minister thinks the lateness, omission, or irregularity could not materially have affected the result of the election.
+(2) If this subsection applies, the Minister may, by notice in the Gazette, validate the lateness, omission, or irregularity.
+(3) Where anything required to be done in connection with an election under this Act cannot be done at or by the time at or by which it is required to be done, the Minister may, at any time, by notice in the Gazette, extend the time for doing it.
+(4) Subsection (5) applies if there occurs in connection with an election under this Act—
+  (a) any lateness, omission, or irregularity that is capable of being validated under this section, but which the Minister thinks would be improper or undesirable to validate; or
+  (b) any other irregularity that the Minister thinks could materially have affected the result of the election.
+(5) If this subsection applies to an election, the Minister may at any time within 60 days of the election, by notice in the Gazette,—
+  (a) declare the election invalid; and
+  (b) require a new election to be held on a day specified in the notice; and
+  (c) declare that the trustees holding office on the date of the invalid election remain in office until the close of the day before the day on which the new trustees take office.
+
+**Term of office of trustees**
+
 ### 102 Term of office
 (1) Elected trustees take office 7 days after their election, unless otherwise provided in this section.
 (2) Trustees elected for a board replacing a commissioner take office when the commissioner's appointment ends.
@@ -2270,6 +2416,8 @@ Nothing in this Act requires or permits the board of any school or special insti
   (a) if the term expires before the trustee goes out of office under subsection (8A), the trustee shall then go out of office; but
   (b) otherwise the trustee shall go out of office under that subsection.
 (11) This section is subject to sections 101A and 104.
+
+**Eligibility to be trustee**
 
 ### 103 Certain persons ineligible to be trustees
 (1) A person who—may not become an elected, appointed, or co-opted trustee.
@@ -2316,7 +2464,9 @@ Nothing in this Act requires or permits the board of any school or special insti
   (b) the Secretary may, by notice in the Gazette, issue guidelines setting out the basis on which applications for approval under paragraph (a) will be considered.
 
 ### 103B Requirements before appointment
-Before a person is elected, co-opted, or appointed as a trustee, the person must confirm to the governing board that he or she is, to the best of his or her knowledge, eligible to be a trustee, having regard to the grounds of ineligibility in section 103 or section 103A.
+Before a person is elected, co-opted, or appointed as a trustee, the person must confirm to the board that he or she is, to the best of his or her knowledge, eligible to be a trustee, having regard to the grounds of ineligibility in section 103 or section 103A.
+
+**Casual vacancies on boards**
 
 ### 104 When casual vacancies arise
 (1) When an elected, appointed, or co-opted trustee—the trustee's office becomes vacant.
@@ -2331,7 +2481,7 @@ Before a person is elected, co-opted, or appointed as a trustee, the person must
 (3) On any day when—the second trustee's office becomes vacant.
   (a) already 1 co-opted trustee is a member of the board staff; and
   (b) a second co-opted trustee becomes a member of the board staff,—
-(4) When the board of an integrated school receives a written notice from the school's proprietors dismissing any trustee appointed by them, the trustee's office becomes vacant.
+(4) When the board of a State integrated school receives a written notice from the school's proprietors dismissing any trustee appointed by them, the trustee's office becomes vacant.
 (5) When a trustee elected by students ceases to be enrolled full-time at the school or institution, the trustee's office becomes vacant.
 (6) If—every unfilled vacancy is a casual vacancy, and shall be deemed to have arisen on the day on which the elected trustees take office.
   (a) at any election of trustees fewer persons are elected than there are vacancies to be filled; and
@@ -2355,27 +2505,7 @@ Before a person is elected, co-opted, or appointed as a trustee, the person must
 (10) This Act applies to a trustee selected under this section to fill a casual vacancy of an elected trustee as if the person had been elected, and every reference to an elected trustee (except in subsection (6)) includes a reference to a trustee so selected.
 
 ### 105A Minister may approve alternative constitution in certain cases
-(1) The Minister may from time to time, by notice in the Gazette, approve an alternative constitution under this section for the board of a State school, or a combined board of State schools.
-(1A) The Minister may not approve an alternative constitution for a board unless the Minister has reasonable cause to believe that an alternative constitution is in the best interests of the school or schools governed by the board.
-(1B) Subject to subsections (1A) and (1C), the Minister may not approve an alternative constitution unless—
-  (a) 1 of the following applies:
-    (i) the Chief Review Officer, in a written report, recommends that the Minister consider devising an alternative constitution; or
-    (ii) 20% or more of the parents of children enrolled at the school or schools have requested an alternative constitution; or
-    (iii) the board has requested an alternative constitution; and
-  (b) the Minister has consulted such persons or organisations as the Minister considers appropriate.
-(1C) Subsection (1B) does not apply if—
-  (a) the alternative constitution is the successor constitution for a board that was appointed or elected under section 98(1); or
-  (b) the alternative constitution is approved for a combined board before the date specified in a notice under section 110(1); or
-  (c) the alternative constitution is for the board of a continuing school and the Minister has given notice under section 156A(4)﻿(b).
-(2) In the case of an integrated school, the Minister must consult with the proprietor of the school when conducting the consultation required under subsection (1)﻿(b).
-(3) A constitution approved under this section applies instead of a constitution under section 94.
-(4) A notice under this section must establish a board comprising 1 or more persons who are to be elected or appointed as trustees in the manner specified in the notice; and the notice may (without limitation)—
-  (a) set out a procedure for any election, appointment, or co-option of trustees:
-  (b) set out the manner in which vacancies are to be filled:
-  (c) provide for the appointment of returning officers and set out their functions:
-  (d) set out other formal and procedural provisions for the purposes of any election, appointment, or co-option of trustees.
-(5) While a notice that approves an alternative constitution under this section is in force, sections 94, 94A, 94B, 95, 96, 97, 98, 99, 101, 102, 104, and 105 do not apply in respect of the board concerned and the schools governed by it.
-(6) In their application to a board that has an alternative constitution under this section, the other sections and any schedules of this Act relating to boards must be read subject to this section and subject also to all modifications necessary to give effect to this section.
+[Repealed]
 
 ### 106 Commissioner may be appointed if board inactive or trustees too few
 [Repealed]
@@ -2390,19 +2520,25 @@ Before a person is elected, co-opted, or appointed as a trustee, the person must
 [Repealed]
 
 ### 109A Provisions relating to board with staggered election cycle where commissioner appointed
-(1) This section applies if a commissioner has been appointed in place of a board that has, or had decided to have, a staggered election cycle, and the commissioner has appointed a date under section 78P for the holding of elections of trustees for a new board.
-(2) Despite anything in section 102, the nomination forms and voting forms for the election must show which nominees are standing only until the next election, and which are standing until the election after the next election.
-(3) Despite anything in section 102, trustees who are elected only until the next election go out of office at the close of the day before the day on which the successor takes office following the election.
-(4) If the date that the commissioner has appointed under section 78P is a date that is within 6 months before the date on which an election is due to be held, the board does not have to hold an election on that date and this section applies as if that election were not due to be held.
+[Repealed]
+
+**Combining and splitting boards**
 
 ### 110 Boards may combine
-(1) Subject to section 111, if satisfied that—the Minister may, by notice in the Gazette, establish a single board (called a combined board) to administer all the schools or institutions concerned, with effect on a date specified in the notice.
-  (a) each of the boards concerned has made reasonable efforts to consult the parents of students (other than adult students) enrolled full-time at its school or schools (or institution or institutions) about combining with the other boards; and
-  (b) the consultation that has in fact taken place has been adequate in all the circumstances; and
-  (ba)
-  (c)
-  (d)
-  (e) the proposed combined board is appropriate in all the circumstances,—
+(1) The Minister may, by notice in the Gazette, establish a single board (a combined board) to administer a number of schools or institutions, with effect from a date specified in the notice.
+(1A) The Minister may establish a combined board if the restrictions in section 111 are met and the Minister—
+  (a) is satisfied of the matters in subsection (1B); or
+  (b) has reasonable cause to believe the circumstances in subsection (1C) exist and has consulted—
+    (i) the boards concerned; and
+    (ii) in the case of a State integrated school, the proprietor of that school.
+(1B) For the purposes of subsection (1A)﻿(a), the matters are that—
+  (a) each of the boards concerned has made reasonable efforts to consult the parents of students (other than adult students) enrolled full-time at its schools or institutions about combining with the other boards; and
+  (b) the consultation that has taken place has been adequate in all the circumstances; and
+  (c) the proposed combined board is appropriate in all the circumstances.
+(1C) For the purposes of subsection (1A)﻿(b), the circumstances are that the Minister must have reasonable cause to believe that—
+  (a) there are serious problems with the governance of 1 or more of the schools or institutions concerned; and
+  (b) those problems could be addressed by the combined board.
+(1D) When establishing a combined board for 4 or more schools, the Minister may require the combined board to have an alternative constitution.
 (2) Subject to subsection (3), this Act shall apply to a combined board as if—
   (a) the board had been in existence immediately before the day on which the notice establishing it was published; and
   (b) every trustee had resigned on that day.
@@ -2414,12 +2550,15 @@ Before a person is elected, co-opted, or appointed as a trustee, the person must
 ### 110A Minister may combine boards at establishment
 (1) A Minister may, by notice in the Gazette, establish a combined board for 2 or more schools that are newly established under section 146.
 (2) The combined board is the board of a newly established school for the purposes of section 98.
+(3) When establishing a combined board of 4 or more schools, the Minister may require the combined board to have an alternative constitution.
 
 ### 111 Restrictions on combining
 (1) No board that administers a special institution may combine with a board that does not.
 (2)
-(3) No board that administers an integrated school may combine with a board that does not.
-(4) No board that administers an integrated school may combine with any other board unless all the schools they administer have the same proprietors.
+(3) No board that administers a State integrated school may combine with a board that does not.
+(4) No board that administers a State integrated school may combine with any other board unless all the schools they administer have the same proprietors.
+(5) A board of a designated character school may only combine with a board of another designated character school and only if both schools have substantially the same aims, purposes, and objectives (that are required to be specified under section 156).
+(6) A board of a Kura Kaupapa Māori may only combine with another board of a Kura Kaupapa Māori.
 
 ### 112 Minister may split combined board
 (1) If satisfied, after consulting the Review Office and the board concerned, that in all the circumstances it is appropriate for a combined board to be split, the Minister may, by notice in the Gazette, establish 2 or more boards for the schools or institutions the combined board administers, with effect on a date specified in the notice.
@@ -2504,10 +2643,12 @@ Every notice under section 112(1) shall specify one of the boards it establishes
 ### 116A Appointment of principal of combined board
 [Repealed]
 
+**Miscellaneous provisions**
+
 ### 117 Other provisions applying to boards
 The provisions set out in Schedule 6 apply to boards.
 
-### 118 Regulations
+### 118 Regulations about board elections
 (1) Subject to section 116, the Governor-General may, by Order in Council, make regulations prescribing either or both of the following matters:
   (a) the manner in which elections of trustees are to be held:
   (b) subject to subsection (3), the manner in which returning officers are to be appointed for the purpose of the election of trustees.
@@ -2784,6 +2925,51 @@ Every reference in any—to the school committee, committee of management, or bo
   (ba) on behalf of a sponsor of a partnership school kura hourua any student enrolled at or attending the school; or
   (c) on behalf of the service provider of an early childhood service (as defined in section 309) any child enrolled at or attending the service,—
 
+### 139AB No seclusion at or on behalf of registered school or early childhood service
+(1) A person to whom this section applies must not seclude any student or child who is enrolled at or attending a registered school or an early childhood service.
+(2) This section applies to a teacher or any other person who is—
+  (a) employed by a board; or
+  (b) employed by the managers of a school registered under section 35A; or
+  (c) employed by the sponsor of a partnership school kura hourua; or
+  (d) employed or engaged by the service provider of an early childhood service; or
+  (e) providing education or care to children attending an early childhood service; or
+  (f) supervising or controlling any student or child on behalf of—
+    (i) a board; or
+    (ii) the managers of a school registered under section 35A; or
+    (iii) the sponsor of a partnership school kura hourua; or
+    (iv) the service provider of an early childhood service.
+(3) In this section,—
+  - **early childhood service** has the meaning given to it by section 309
+  - **seclude** , in relation to a student or child, means to place the student or child involuntarily alone in a room from which he or she cannot freely exit or from which the student or child believes that he or she cannot freely exit
+  - **service provider** has the meaning given to it by section 309.
+
+### 139AC Limits on use of physical restraint in schools
+(1) A teacher or authorised staff member must not physically restrain a student unless—
+  (a) the teacher or staff member reasonably believes that the safety of the student or of any other person is at serious and imminent risk; and
+  (b) the physical restraint is reasonable and proportionate in the circumstances.
+(2) In this section and in sections 139AD and 139AE,—
+  - **authorised staff member** means an employee of a registered school who is authorised by the employer to use physical restraint in accordance with this section
+  - **employer** means—
+    (a) a board:
+    (b) the managers of a school registered under section 35A:
+    (c) the sponsor of a partnership school kura hourua
+  - **physically restrain** , in relation to a student, means to use physical force to prevent, restrict, or subdue the movement of the student’s body or part of the student’s body
+  - **teacher** means a person who holds a teaching position (as defined in section 348) at a registered school.
+
+### 139AD Rules on physical restraint
+(1) The Secretary must make rules prescribing the practice and procedure to be followed by employers, principals, teachers, and authorised staff members in relation to physical restraint.
+(2) The rules must include—
+  (a) requirements to keep written records on the use of physical restraint, including requirements to notify, monitor, and report on the use of physical restraint; and
+  (b) a procedure for authorising staff members to use physical restraint in accordance with section 139AC.
+(3) Rules made under this section are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 139AE Guidelines on physical restraint
+(1) The Secretary must, by notice in the Gazette, issue guidelines on the use of physical restraint in registered schools.
+(2) The guidelines must include—
+  (a) best practice examples for the use of physical restraint; and
+  (b) other examples of best practice in behaviour management.
+(3) Employers, principals, teachers, and authorised staff members must have regard to the guidelines.
+
 ### 139AAA Surrender and retention of property
 (1) This section applies if a teacher or an authorised staff member has reasonable grounds to believe that a student has hidden or in clear view on or about the student's person, or in any bag or other container under the student's control, an item that is likely to—
   (a) endanger the safety of any person; or
@@ -2914,7 +3100,7 @@ Nothing in section 139AAA or 139AAB limits or affects any power to search any lo
 [Repealed]
 
 ### 141 Consequential amendments to Private Schools Conditional Integration Act 1975
-The Private Schools Conditional Integration Act 1975 is hereby consequentially amended in the manner indicated in Schedule 8.
+[Repealed]
 
 ### 142 Other consequential amendments, repeals, revocations, and savings
 (1) The provisions of the Education Act 1964 specified in Schedule 9 are hereby consequentially amended in the manner indicated in it.
@@ -3001,12 +3187,17 @@ The purpose of sections 144C to 144E is to help ensure the safety of students wh
 
 ## Part 12 — Establishment of schools
 
+### 145AAA Purpose of Part
+The purpose of this Part is to—
+  (a) enable the provision of a schooling network that assists parents to meet their obligations to enrol their children at school; and
+  (b) assist the efficient and effective use of the government’s investment in schooling; and
+  (c) recognise the role of diversity in the provision of schooling, including the provision of Māori medium education.
+
 ### 145 Interpretation
 (1) In this Part, unless the context otherwise requires,—
   - **board** means a board of trustees constituted under Part 9; and, in relation to a State school, means the school's board
   - **composite school** means a school established under section 146 as a composite school
   - **correspondence school** means a school for the time being designated under section 152(1) as a correspondence school
-  - **integrated school** means a school for the time being established as an integrated school under the Private Schools Conditional Integration Act 1975
   - **intermediate department** means a department established under section 149
   - **intermediate school** means a school established under section 146 as an intermediate school
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
@@ -3015,6 +3206,7 @@ The purpose of sections 144C to 144E is to help ensure the safety of students wh
   - **secondary school** means a school established under section 146 as a secondary school
   - **Secretary** means the chief executive of the Ministry
   - **single sex school** means a school maintained wholly or principally for students of one sex; and includes a school declared by notice under section 146A to be a boys' school or a girls' school
+  - **State integrated school** has the same meaning as in section 2(1)
   - **State school** means a school that is a primary, composite, or secondary school
   - **teachers college** means a college established under section 106 of the Education Act 1964.
 (2) For the purposes of this Act,—
@@ -3033,6 +3225,7 @@ The purpose of sections 144C to 144E is to help ensure the safety of students wh
   (a) describing the place where the school is to be located; and
   (ab) in the case of a secondary school, specifying whether it is a boys' school, a girls' school, or a co-educational school; and
   (b) specifying a name for the school,—
+(1A) A decision to establish a school under subsection (1) is in the Minister’s absolute discretion.
 (2) Every new school established under this section shall be established as a primary, intermediate, secondary, or composite school; and the notice establishing it shall specify which class of school it is.
 (3) A notice under subsection (1) establishing a new school may specify the class levels for which education may be given at the school and may provide for different class levels to be phased in over a specified period or periods.
 (4) A notice under subsection (1) establishing a new primary school may designate the school as a contributing school.
@@ -3049,7 +3242,7 @@ The purpose of sections 144C to 144E is to help ensure the safety of students wh
 (1) Subject to subsections (2) and (4), the name of a State school established after 31 December 1989 shall be the name specified in the notice establishing it.
 (2) Subject to subsection (4), the name of a State school whose class has been changed under section 153 shall be the name specified in the last notice changing its class.
 (3) Subject to subsections (2) and (4), the name of a State school established before 1 January 1990 shall be the name it had on 1 December 1989.
-(4) With the Secretary's written consent, the board of a State school may, subject to section 155(6), by resolution, change the school's name.
+(4) With the Secretary's written consent, the board of a State school may, subject to section 156AA(3)﻿(a)﻿(i), by resolution, change the school's name.
 (5) The Secretary shall not withhold consent to the change of a State school's name unless satisfied that the proposed new or amended name is inappropriate.
 
 ### 148 Normal schools, etc
@@ -3057,19 +3250,19 @@ The purpose of sections 144C to 144E is to help ensure the safety of students wh
   (a) designate 1 or more specified primary schools as normal or model schools for providers of pre-service teacher education:
   (b) designate within a specified primary school a normal or model school, or model class, for providers of pre-service teacher education:
   (c) revoke any designation under this section.
-(2) Nothing in subsection (1) applies to an integrated school.
+(2) Nothing in subsection (1) applies to a State integrated school.
 (3) Every school that was on 31 December 1989 designated a normal or model school under section 72 of the Education Act 1964 shall be deemed to have been designated a normal school under this section.
 (4) Every normal or model school, or model class, that was on 31 December 1989 designated within a primary school under section 72 of the Education Act 1964 shall be deemed so to have been designated under this Act.
 
 ### 149 Intermediate departments
 Subject to section 157, the Minister may, by notice in the Gazette,—
   (a) establish an intermediate department—
-    (i) within a composite school that is not an integrated school; or
-    (ii) to form part of a secondary school that is not an integrated school; or
+    (i) within a composite school that is not a State integrated school; or
+    (ii) to form part of a secondary school that is not a State integrated school; or
   (b) disestablish any intermediate department.
 
 ### 150 Contributing schools
-(1) Subject to section 157, and to section 33 of the Private Schools Conditional Integration Act 1975, the Minister shall from time to time determine which primary schools are to be contributing schools.
+(1) Subject to section 157, and to Part 33, the Minister shall from time to time determine which primary schools are to be contributing schools.
 (2) Where the Minister determines that a primary school is to be or cease to be a contributing school, the Minister shall give the board of the primary school written notice of the determination.
 (3) Subject to subsection (4), while a primary school is a contributing school, the board shall limit the education given at the school to the education described in the syllabus for—
   (a) classes not higher than standard 4; and
@@ -3080,7 +3273,7 @@ Subject to section 157, the Minister may, by notice in the Gazette,—
 (7) In determining that a school should be or should cease to be a contributing school, the Minister may provide for the provision of education at specified class levels to be phased in or phased out (as the case may require) over a specified period or periods.
 
 ### 151 Provision of education at composite schools
-Subject to section 157, and to section 33 of the Private Schools Conditional Integration Act 1975, the Minister may from time to time, by written notice to the board of a composite school, require the board to provide education for the class levels specified in the notice; and the board must provide education at the school accordingly.
+Subject to section 157, and to Part 33, the Minister may from time to time, by written notice to the board of a composite school, require the board to provide education for the class levels specified in the notice; and the board must provide education at the school accordingly.
 
 ### 152 Correspondence schools
 (1) Subject to subsection (2), the Minister may, by notice in the Gazette,—
@@ -3100,14 +3293,16 @@ Subject to section 157, and to section 33 of the Private Schools Conditional Int
   (c) declare an intermediate school to be a primary or secondary school; or
   (d) declare a primary or secondary school to be an intermediate school.
 (1A) The Minister may, by notice in the Gazette, specify the class levels for which education must be given at a school (whether it is an existing school or a school whose class has been changed under subsection (1)) and provide for class levels to be phased in over a specified period or periods.
-(2) Nothing in subsection (1) applies to an integrated school.
+(1B) A decision to change the class of a school under subsection (1) or to specify class levels (and, if relevant, to provide for the phasing in of these) under subsection (1A) is in the Minister’s absolute discretion.
+(2) Nothing in subsection (1) applies to a State integrated school.
 (3) A notice under subsection (1), shall specify a day (not earlier than the end of the term after the term during which the notice is published) on which it is to take effect; and the school shall become a school of the class concerned, and cease to be a school of the class it was, on the day specified.
 (4) Subject to sections 102(7) and 104, where an existing State school becomes a school of a different class, its board shall continue in office as constituted until the close of the seventh day after the first election following its change of class.
 
 ### 154 Closure of schools
-(1) Subject to section 157, and to section 17 of the Private Schools Conditional Integration Act 1975, where, after consulting the board of a State school, the Minister is satisfied that it should be closed, the Minister may, by written notice to the board, ask the board if it has any arguments in favour of the school's staying open.
+(1) Subject to section 157, and to section 438, where, after consulting the board of a State school, the Minister is satisfied that it should be closed, the Minister may, by written notice to the board, ask the board if it has any arguments in favour of the school's staying open.
 (2) The Minister may, after considering all arguments (if any) received from the board within 28 days after it got notice under subsection (1), by notice in the Gazette specifying a day on which the school will close, close the school; and the school shall cease to be established on the day specified.
 (2A) If the board of a State school at any time advises or indicates to the Minister in writing that it agrees to or does not oppose the proposed closure of the school, the Minister may (despite anything in subsection (1) or subsection (2) and regardless of whether the Minister has formally begun or completed the necessary consultation under subsection (1)) close the school by notice under subsection (2) at any time on or after receiving the board's written advice.
+(2B) A decision to close a school under subsection (2) is in the Minister’s absolute discretion.
 (3) Where a school is closed under this section,—
   (a) its board shall thereupon be deemed to have been dissolved; and
   (b) all assets, liabilities, and debts that the board had immediately before dissolution shall be deemed to have become assets, liabilities, and debts of the Minister.
@@ -3123,40 +3318,18 @@ Subject to section 157, and to section 33 of the Private Schools Conditional Int
   (c) remove the designation of a designated character school and redesignate it as a Kura Kaupapa Maori:
   (d) remove the designation of a Kura Kaupapa Maori or a designated character school while keeping the school established as a State school.
 (2) The designation or removal of designation of a school under this section takes effect on the date specified in the notice under subsection (1) and, on and from that date,—
-  (a) section 155 applies to a school that is designated as a Kura Kaupapa Maori; and
+  (a) section 156 applies to a school that is designated as a Kura Kaupapa Maori; and
   (b) section 156 applies to a school that is designated as a designated character school; and
-  (c) section 155 ceases to apply to a school that has its designation as a Kura Kaupapa Maori removed; and
+  (c) section 156 ceases to apply to a school that has its designation as a Kura Kaupapa Maori removed; and
   (d) section 156 ceases to apply to a school that has its designation as a designated character school removed.
 (3) The notice under subsection (1) may prescribe a new name for the redesignated school.
-(4) Section 155 applies in respect of a school that is, or is to be, redesignated as a Kura Kaupapa Maori in the same way as it would apply if the school were being established as a Kura Kaupapa Maori.
+(4) Section 156 applies in respect of a school that is, or is to be, redesignated as a Kura Kaupapa Maori in the same way as it would apply if the school were being established as a Kura Kaupapa Maori.
 (5) No school may have its designation as a Kura Kaupapa Maori removed unless the Minister has first consulted with te kaitiaki o Te Aho Matua (as identified under section 155B).
 (6) No State school may be designated as a Kura Kaupapa Maori unless the Minister has first consulted with te kaitiaki o Te Aho Matua on the ability of the school to operate in accordance with Te Aho Matua (as defined in section 155A).
 (7) Section 156 applies in respect of a school that is, or is to be, redesignated as a designated character school in the same way as it would apply if the school were being established as a designated character school.
 
 ### 155 Kura Kaupapa Maori
-(1) When establishing a State school the Minister may, by notice in the Gazette, designate the school under this section.
-(2) The Minister has absolute discretion to refuse to establish a school under this section.
-(3) The Minister may not establish a school under this section unless satisfied that—
-  (a) the parents of at least 21 people who would, if the school were established, be entitled to free enrolment there, want there to be established a school—
-    (i) in which te reo Maori (the Maori language) is the principal language of instruction; and
-    (ii) in which the charter of the school requires the school to operate in accordance with Te Aho Matua (as defined in section 155A); and
-    (iii) that has the special characteristics (if any) set out in its charter that will give the school a particular character (in this section called special characteristics); and
-  (b) if a school of that type is established, students enrolled at the school will get an education of a kind not available at any other State school that children of the parents concerned can conveniently attend.
-(3A) The Minister may not establish a State school as a Kura Kaupapa Maori unless he or she has first consulted with te kaitiaki o Te Aho Matua on the ability of the school to operate in accordance with Te Aho Matua (as defined in section 155A).
-(4) A notice under subsection (1) must—
-  (a) specify the name of the school, which must at all times begin with the words Te Kura Kaupapa Maori o; and
-  (b) state that the school will operate in accordance with Te Aho Matua; and
-  (c) summarise any special characteristics of the school; and
-  (d) specify the constitution of the board of the school.
-(5) After consultation with the board, the Minister may from time to time, by notice in the Gazette, amend the name of the school (but not so as to omit the words Te Kura Kaupapa Maori o), its special characteristics, or the constitution of the board.
-(6) Unless specifically provided otherwise, this Act and the Education Act 1964 apply to every school established under this section as if it were not so established.
-(7) The board of a school established under this section must ensure that—
-  (a) te reo Maori is the principal language of instruction at the school; and
-  (b) the school operates in accordance with Te Aho Matua.
-(8) The board may refuse to enrol any person whose parents do not accept that the school operates in accordance with Te Aho Matua.
-(9) A school established under this section may have an enrolment scheme, but—
-  (a) the Secretary must from time to time, by written notice to the board, fix a maximum roll for the school; and
-  (b) the board must ensure that the number of students enrolled at the school is not more than the maximum roll.
+When establishing a State school as a designated character school under sections 156 and 156AA, the Minister may also designate that designated character school as a Kura Kaupapa Māori.
 
 ### 155A Te Aho Matua
 (1) Te Aho Matua is a statement that sets out an approach to teaching and learning that applies to schools designated under section 155.
@@ -3178,7 +3351,7 @@ After the commencement of the Education (Te Aho Matua) Amendment Act 1999, the M
   - **existing Kura** means a Kura Kaupapa Maori established under section 155 before the commencement of the Education (Te Aho Matua) Amendment Act 1999
   - **new section 155** means section 155 as substituted by the Education (Te Aho Matua) Amendment Act 1999.
 (2) After the commencement of this section, existing Kura remain established as Kura Kaupapa Maori even if they would not be entitled to be established under new section 155.
-(3) Subsections (6), (7)﻿(a), and (9) of new section 155 apply to all existing Kura.
+(3) Section 156(6)﻿(a)﻿(i), (8), and (10) applies to all existing Kura.
 (4) In relation to an existing Kura other than one acknowledged under section 155E, the Minister may from time to time, after consultation with the board of the Kura, by notice in the Gazette, amend—
   (a) the aims, purposes, and objectives of the Kura; or
   (b) the constitution of the board.
@@ -3186,40 +3359,63 @@ After the commencement of the Education (Te Aho Matua) Amendment Act 1999, the M
 
 ### 155E Acknowledgment of adoption of Te Aho Matua
 (1) The Minister may from time to time, after consultation with the board of an existing Kura, by notice in the Gazette, acknowledge that the Kura operates in accordance with Te Aho Matua, and must, in the notice,—
-  (a) replace the aims, purposes, and objectives of the Kura by a statement that the school will operate in accordance with Te Aho Matua (as referred to in new section 155(4)﻿(b)); and
-  (b) summarise any special characteristics of the school (as referred to in new section 155(4)﻿(c)).
-(2) On publication of a notice under subsection (1), the Kura becomes subject to all the relevant provisions of new section 155.
+  (a) replace the aims, purposes, and objectives of the Kura by a statement that the school will operate in accordance with Te Aho Matua (as referred to in section 156AA(3)﻿(a)﻿(ii)); and
+  (b) summarise any special characteristics of the school (as referred to in section 156AA(3)﻿(a)﻿(iii)).
+(2) On publication of a notice under subsection (1), the Kura becomes subject to all the relevant provisions of section 156.
 
 ### 155F Protection of term Kura Kaupapa Maori
-(1) No registered school may use the term Kura Kaupapa Maori in its name unless the school is established under section 155.
+(1) No registered school may use the term Kura Kaupapa Maori in its name unless the school is established under section 156.
 (2) Subsection (1) does not apply to a registered school that, immediately before the commencement of this section, is not established under section 155 but uses the term Kura Kaupapa Maori in its name.
 
 ### 156 Designated character schools
-(1) Subject to subsection (2), the Minister may, by notice in the Gazette when establishing the school, designate a State school as a designated character school.
-(2) The Minister shall not establish a school as a designated character school unless satisfied that—
-  (a) the parents of at least 21 people who would, if the school were established, be entitled to free enrolment there, want the school to be established; and
-  (b) the parents want the school to have a character that is in some specific way or ways different from the character of ordinary State schools; and
-  (c) the parents have given the Minister a clear written description and explanation (expressed in the form of aims, purposes, and objectives for the school) of the way or ways; and
-  (d) students at a school with such a character would get an education of a kind that—
-    (i) differs significantly from the education they would get at an ordinary State school; and
-    (ii) is not available at any other State school that children of the parents concerned can conveniently attend; and
-  (e) it is desirable for students whose parents want them to do so to get such an education.
-(3) The Minister may in the Minister's absolute discretion refuse to establish a designated character school.
-(4) The notice establishing a designated character school shall specify the aims, purposes, and objectives that constitute its designated character; and every charter and proposed charter for the school shall be deemed to contain them.
-(5) The notice shall also specify the constitution of the school's board.
-(6) The Minister may from time to time, after consultation with the board of a designated character school, by notice in the Gazette amend—
-  (a) the aims, purposes, and objectives that constitute the school's designated character; or
-  (b) the constitution of its board.
-(7) The Secretary must from time to time, by written notice to the designated character school, fix a maximum roll of the school, and—
-  (a) the board must ensure that the number of students enrolled at the school is not more than the maximum roll; and
-  (b) the board may refuse the enrolments of people whose parents do not accept the aims, purposes, and objectives that constitute the school's designated character.
-(8) Except as provided in this section and section 11PB, this Act and the Education Act 1964 shall apply to every designated character school as if it is not a designated character school.
+(1) When establishing a State school, the Minister may designate the school as a designated character school.
+(2) The Minister must do so in accordance with this section and section 156AA.
+(3) The Minister may in the Minister’s absolute discretion refuse to establish a designated character school.
+(4) The Minister may not establish a school as a designated character school unless satisfied that, if the school is established,—
+  (a) for a school that will also be designated a Kura Kaupapa Māori under section 155,—
+    (i) te reo Māori will be the principal language of instruction at the school; and
+    (ii) the school will operate in accordance with Te Aho Matua (as defined in section 155A):
+  (b) for any other type of designated character school, the school will have a character that is in some specific way or ways different from the character of ordinary State schools (its different character):
+  (c) for any designated character school, it is desirable for students whose parents want them to do so to get such an education:
+  (d) for any designated character school, students at the school will get an education of a kind that differs significantly from the education they would get at an ordinary State school.
+(5) The Minister may not also designate a designated character school as a Kura Kaupapa Māori unless he or she has first consulted te kaitiaki o Te Aho Matua on the ability of the school to operate in accordance with Te Aho Matua.
+(6) The board of a designated character school must ensure,—
+  (a) for a Kura Kaupapa Māori, that—
+    (i) te reo Māori is the principal language of instruction at the school; and
+    (ii) the school operates in accordance with Te Aho Matua:
+  (b) for any other type of designated character school, that—
+    (i) the aims, purposes, and objectives of the school’s different character are set out in the school’s strategic plan under Schedule 6; and
+    (ii) the school operates consistently with its different character.
+(7) A designated character school that is a Kura Kaupapa Māori may have other special characteristics that give it a particular character (its special characteristics).
+(8) The Secretary must from time to time, by written notice to a designated character school, fix a maximum roll of the school, and the board must ensure that the number of students enrolled at the school is not more than the maximum roll.
+(9) A board of a designated character school may refuse to enrol students whose parents do not accept,—
+  (a) for a Kura Kaupapa Māori, that the school operates in accordance with Te Aho Matua:
+  (b) for any other type of designated character school, that the school operates consistently with its different character.
+(10) Except as provided in this section and section 11PB, this Act and the Education Act 1964 apply to every designated character school as if it were not a designated character school.
+
+### 156AA Process for establishing designated character schools
+(1) The Minister may, by notice in the Gazette when establishing a State school, designate the school as a designated character school (see section 156) and (if applicable) also designate a school as a Kura Kaupapa Māori (see section 155).
+(2) Before doing so, the Minister must be satisfied of the matters in section 156(4) and have undertaken consultation under section 156(5) (as relevant in each case).
+(3) The notice establishing a designated character school must,—
+  (a) for a Kura Kaupapa Māori,—
+    (i) specify the name of the school, which must at all times begin with the words Te Kura Kaupapa Māori o; and
+    (ii) state that the school will operate in accordance with Te Aho Matua; and
+    (iii) summarise any other special characteristics of the school:
+  (b) for any other type of designated character school, describe the different character of the school (as defined in section 156(4)﻿(b)):
+  (c) for any designated character school, state the constitution of the school’s board.
+(4) The Minister may from time to time, after consultation with the board of a designated character school, by notice in the Gazette,—
+  (a) for a Kura Kaupapa Māori,—
+    (i) amend the name of the school (but not so as to omit the words Te Kura Kaupapa Māori o):
+    (ii) amend the summary of special characteristics of the school:
+  (b) for any other type of designated character school, amend the description of the different character of the school:
+  (c) for any designated character school, amend the statement of the constitution of the board.
 
 ### 156A Minister may merge schools
-(1) Subject to sections 156B and 157, the Minister may, by notice in the Gazette, merge 1 or more State schools (merging schools) that are not integrated schools with another State school (the continuing school) that is not an integrated school, if the Minister is satisfied that—
+(1) Subject to sections 156B and 157, the Minister may, by notice in the Gazette, merge 1 or more State schools (merging schools) that are not State integrated schools with another State school (the continuing school) that is not a State integrated school, if the Minister is satisfied that—
   (a) each board of a school concerned has made reasonable efforts to consult the parents of students (other than adult students) enrolled full-time at the school about the proposed merger; and
   (b) the consultation that has taken place has been adequate in all the circumstances; and
   (c) the creation of a single school by the proposed merger is appropriate in the circumstances.
+(1A) A decision to merge a school under subsection (1) is in the Minister’s absolute discretion.
 (2) A notice under subsection (1) takes effect on a day (not earlier than the end of the term after the term during which the notice is published) specified in the notice, and has effect as follows:
   (a) the merging schools are part of the continuing school:
   (b) if the continuing school and each merging school are not already administered by a single board,—
@@ -3231,13 +3427,13 @@ After the commencement of the Education (Te Aho Matua) Amendment Act 1999, the M
   (a) during the period between a date specified in the notice and the date on which new trustees take office following an election (the interim period), the board of the continuing school is to be—
     (i) the board of the continuing school plus co-opted trustees representing each merging school (a continuing board); or
     (ii) a board appointed by the Minister (an appointed board); or
-  (b) the board of the continuing school is to have an alternative constitution approved under section 105A.
+  (b) the board of the continuing school is to have an alternative constitution approved under section 98A.
 
 ### 156AB Election or appointment of boards of continuing schools
 (1) If the notice under section 156A(4) provides that the board of the continuing school is to be a continuing board,—
   (a) the board of the continuing school must, within 28 days after the date of that notice, co-opt at least 1 trustee in respect of each of the merging schools so that each merging school is represented on the continuing board; and
   (b) each of those co-opted trustees holds office until the end of the interim period (unless replaced earlier); and
-  (c) section 94C (which limits the co-option and appointment of trustees) does not apply to trustees co-opted for an interim period.
+  (c) section 100 (which limits the co-option and appointment of trustees) does not apply to trustees co-opted for an interim period.
 (2) If the notice under section 156A(4) provides that the board of the continuing school is to be an appointed board,—
   (a) the notice must specify the constitution of the appointed board during the interim period, including how many trustees (if any) the board may co-opt; and
   (b) the Minister is not bound by section 94 in determining the constitution of the appointed board.
@@ -3250,10 +3446,10 @@ After the commencement of the Education (Te Aho Matua) Amendment Act 1999, the M
 (7) If the merger takes effect after 31 October in the year before an election year and before 31 December in that election year, a board that is required to hold an election under subsection (5) does not have to hold the election until the next election year.
 
 ### 156AC Alternative constitutions for continuing schools
-(1) If a notice under section 156A(4) provides that the board of the continuing school is to have an alternative constitution approved under section 105A, the notice must specify the date on which the alternative constitution is to take effect.
+(1) If a notice under section 156A(4) provides that the board of the continuing school is to have an alternative constitution approved under section 98A, the notice must specify the date on which the alternative constitution is to take effect.
 (2) The date in subsection (1) must be before the date that the notice under section 156A(1) takes effect.
 (3) The trustees of the continuing school go out of office at the close of the day before the date specified under subsection (1).
-(4) A board established under section 105A may make decisions and exercise powers both for the purposes of the continuing school before the merger and for the purpose of providing and preparing for the continuing school after the merger has taken effect.
+(4) A board established under section 98A may make decisions and exercise powers both for the purposes of the continuing school before the merger and for the purpose of providing and preparing for the continuing school after the merger has taken effect.
 
 ### 156B Restrictions on mergers in certain cases
 (1) A Kura Kaupapa Maori established after the commencement of the Education (Te Aho Matua) Amendment Act 1999 may not merge or be merged with another Kura Kaupapa Maori or other school unless the schools involved in the merger—
@@ -3296,7 +3492,7 @@ After the commencement of the Education (Te Aho Matua) Amendment Act 1999, the M
   (e) determine under section 150(1) that a particular school is to be or cease to be a contributing school; or
   (f) limit under section 151 the education given at a composite school; or
   (g) change under section 153(1) the class of a school—
-(3) The Minister shall not—without first consulting the boards of all State schools whose rolls might, in the opinion of the Minister, be affected if the Minister takes that action.
+(3) The Minister shall not—unless subsection (3A) applies, without first consulting the boards of all State schools whose rolls might, in the opinion of the Minister, be affected if the Minister takes that action.
   (a) establish a school under section 146(1); or
   (aa) declare a school to be a boys' school, a girls' school, or a co-educational school under section 146A(1); or
   (b) establish or disestablish an intermediate department under section 149; or
@@ -3306,6 +3502,7 @@ After the commencement of the Education (Te Aho Matua) Amendment Act 1999, the M
   (f) close a school under section 154; or
   (fa) redesignate, or remove a designation from, a school under section 154A; or
   (g) merge any school or schools with another under section 156A,—
+(3A) Subsection (3)﻿(f) and (g) does not apply if the relevant boards have already been consulted on a closure or merger option as part of a review of the provision of schooling in a particular area.
 (4)
 
 ### 157A Community education forums
@@ -3409,6 +3606,7 @@ In this Part, unless the context otherwise requires,—
 A sponsor of a partnership school kura hourua must—
   (a) provide a safe physical and emotional environment for students; and
   (b) ensure that the school delivers a curriculum that is in line with any foundation curriculum policy statements published under section 60A(1)﻿(aa); and
+  (ba) ensure that in the development and delivery of the curriculum, the school has regard to any statement of National Education and Learning Priorities issued by the Minister under section 1A.
   (c) assign the functions of the principal under the sections specified in section 158U(1) to an appropriately qualified person or to appropriately qualified persons; and
   (d) assign the role of supervising teaching practice to an appropriately qualified person; and
   (e) at intervals specified in the partnership school contract, inform parents of—
@@ -3508,7 +3706,7 @@ Despite sections 5 and 6 (as applied by section 158U), if the Secretary and the 
 ### 158R Secretary's powers when student younger than 16 is excluded from partnership school kura hourua
 (1) If the Secretary is satisfied that the sponsor of a partnership school kura hourua has excluded a student who is younger than 16 from the school under section 15(1)﻿(c) (as applied by section 158U), and that no person to whom the sponsor has assigned the functions of the principal under section 15(5) (as so applied) has arranged for the student to attend another school, the Secretary must,—
   (a) if satisfied that it is appropriate for the student to return to the school from which the student has been excluded, lift the exclusion; or
-  (b) arrange for and, if necessary, direct the board of a State school (that is not an integrated school) to enrol the student at the State school; or
+  (b) arrange for and, if necessary, direct the board of a State school (that is not a State integrated school) to enrol the student at the State school; or
   (c) arrange for and, if necessary, direct a sponsor of another partnership school kura hourua to enrol the student at the other school; or
   (d) direct a parent of the student to enrol the student at a correspondence school.
 (2) The Secretary may not give a direction under subsection (1)﻿(b), or lift an exclusion under subsection (1)﻿(a), unless the Secretary has also made all reasonable attempts to consult the student, the student's parents, the board, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or be able to advise on or help with, the student's education or welfare.
@@ -3541,8 +3739,8 @@ A sponsor of a partnership school kura hourua may authorise any students to do a
 **Application of Act to partnership schools kura hourua**
 
 ### 158U Application of this Act to partnership schools kura hourua
-(1) Sections 4 to 6, 13 to 15, 17 to 17C, 18 to 19, 25A (except subsection (1B)), 25AA, 25B, 27, 33, 78C to 78CD, and 139AAA to 139AAI (except section 139AAE(1)﻿(a)) apply to partnership schools kura hourua with any necessary modifications.
-(2) In their application to partnership schools kura hourua under subsection (1), sections 4 to 6, 13 to 15, 17 to 17C, 18 to 19, 25A (except subsection (1B)), 25AA, 25B, 27, 33, 78C to 78CD, and 139AAA to 139AAI (except section 139AAE(1)﻿(a)) must be read as if—
+(1) Sections 4 to 6, 13 to 15, 17 to 17C, 18 to 19, 25A (except subsection (1B)), 25AA, 25B, 27, 33, 78C to 78CD, 139AC to 139AE, and 139AAA to 139AAI (except section 139AAE(1)﻿(a)) apply to partnership schools kura hourua with any necessary modifications.
+(2) In their application to partnership schools kura hourua under subsection (1), sections 4 to 6, 13 to 15, 17 to 17C, 18 to 19, 25A (except subsection (1B)), 25AA, 25B, 27, 33, 78C to 78CD, 139AC to 139AE, and 139AAA to 139AAI (except section 139AAE(1)﻿(a)) must be read as if—
   (a) any references to a State school were references to a partnership school kura hourua; and
   (b) any references to a board or a board of a State school were references to a sponsor; and
   (c) any references to a principal were references to the person or persons to whom a sponsor has assigned the function or functions of the principal under the section in question; and
@@ -3553,7 +3751,7 @@ A sponsor of a partnership school kura hourua may authorise any students to do a
 (4) In its application to partnership schools kura hourua under subsection (1), section 25AA must also be read as if references to the health curriculum were references to the health curriculum delivered by a partnership school kura hourua.
 (5) In their application to partnership schools kura hourua under subsection (1), sections 139AAA to 139AAI must also be read as if the definition of teacher in section 139AAA(9) were replaced with the following definition:
   - **teacher** means—
-    (a) a person holding a teaching position (within the meaning of section 120) at a partnership school kura hourua; or
+    (a) a person holding a teaching position (within the meaning of section 348) at a partnership school kura hourua; or
     (b) a person to whom the sponsor of the partnership school kura hourua has assigned any of the functions of the principal.
 
 ### 158V Application of Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999 to partnership schools kura hourua
@@ -3819,6 +4017,37 @@ The Commission may not charge a commercial rate for any goods and services that 
   (f) to undertake any other function given by this Act, the Industry Training Act 1992, the Modern Apprenticeship Training Act 2000, or any other enactment.
   (g)
 (2) In addition, the Commission may provide information and other tertiary-related services to the Crown, provided that these functions are consistent with the Commission's statement of intent and are consistent with, and do not displace, any of its functions under subsection (1).
+
+### 159FA Offers of employment in equivalent positions for Careers New Zealand employees
+(1) During the period beginning on 1 June 2017 and ending with the close of 30 June 2017, the Commission must offer employment in an equivalent position to every person who is an employee of Careers New Zealand (other than the chief executive) immediately before the commencement of this section.
+(2) The terms and conditions of an offer must be equivalent to those applying to the relevant employee immediately before the offer.
+(3) In this section, employment in an equivalent position means employment that is—
+  (a) in substantially the same position; and
+  (b) in the same general locality; and
+  (c) on terms and conditions that are no less favourable than those applying to the employee immediately before the date the offer of employment is made to that employee; and
+  (d) on terms that treat the period of service with Careers New Zealand (and every other period of service recognised by Careers New Zealand as continuous service) as if it were continuous service with the Commission.
+
+### 159FB Effect of offers on certain agreements and entitlements
+(1) If a person accepts an offer,—
+  (a) nothing in this Act or any other enactment—
+    (i) binds the person to a collective agreement; or
+    (ii) entitles the person to be bound by or enforce a collective agreement:
+  (b) the change of employer does not constitute new employment for the purposes of—
+    (i) enrolling in a KiwiSaver scheme under the KiwiSaver Act 2006:
+    (ii) determining any entitlements under the Holidays Act 2003.
+(2) Subsection (1)﻿(a) does not apply to a collective agreement to the extent that the parties agree otherwise.
+
+### 159FC No compensation for technical redundancy of employees of Careers New Zealand
+(1) An employee of Careers New Zealand is not entitled to receive any payment or other benefit on the ground that—
+  (a) the employee’s position in Careers New Zealand has ceased to exist; or
+  (b) the employee declines to accept an offer of employment in an equivalent position.
+(2) This section overrides—
+  (a) Part 6A of the Employment Relations Act 2000; and
+  (b) any employee protection provision in any relevant employment agreement.
+
+### 159FD Repeal of sections 159FA to 159FD
+(1) Sections 159FA to 159FC are repealed on 1 January 2018.
+(2) This section is repealed on 2 January 2018.
 
 ### 159G Principles guiding how Commission operates
 In performing its functions, the Commission must, in addition to complying with section 159AB,—
@@ -7628,7 +7857,7 @@ A service provider for a home-based education and care service or a hospital-bas
   (a) the licensing of service providers to provide early childhood services of any kind, and the transfer of licences:
   (b) regulating the management, operation, and control of licensed early childhood services of any kind, and imposing duties on service providers.
 (2) Regulations made under subsection (1) may (without limitation) do all or any of the following:
-  (a) prescribe minimum standards relating to premises, facilities, programmes of education, practices in relation to children's learning and development, staffing and parental or caregiver participation (including adult:child ratios), health and safety, implementation of the curriculum framework, communication and consultation with parents, the operation or administration of those services, or any of them, to be complied with to ensure the health, comfort, care, education, and safety of children attending licensed early childhood services:
+  (a) prescribe minimum standards relating to premises, facilities, programmes of education, practices in relation to children's learning and development, staffing and parental or caregiver participation (including adult:child ratios), health and safety, practices in relation to behaviour management and limits on the use of physical restraint, implementation of the curriculum framework, communication and consultation with parents, the operation or administration of those services, or any of them, to be complied with to ensure the health, comfort, care, education, and safety of children attending licensed early childhood services:
   (b) authorise the Minister, after consultation with those organisations that appear to the Minister to be representative of persons likely to be substantially affected by these regulations, to prescribe criteria to be used by the Secretary to assess compliance with the minimum standards imposed by these regulations:
   (c) require the Secretary to publish a notice in the Gazette—
     (i) stating that criteria referred to in paragraph (b) have been prescribed; and
@@ -7663,7 +7892,7 @@ A service provider who operates a playgroup may, but need not, apply for a certi
 
 ### 319 Regulations relating to certification of playgroups
 (1) The Governor-General may, by Order in Council, make regulations providing for the certification of playgroups and these regulations may do all or any of the following:
-  (a) prescribe minimum standards relating to premises, facilities, programmes of education, practices in relation to children's learning and development, parental or caregiver participation (including adult:child ratios), health and safety, implementation of the curriculum framework, communication and consultation with parents, the operation and administration of playgroups, or any of them, to be complied with to ensure the health, comfort, care, education, and safety of children attending certificated playgroups:
+  (a) prescribe minimum standards relating to premises, facilities, programmes of education, practices in relation to children's learning and development, parental or caregiver participation (including adult:child ratios), health and safety, practices in relation to behaviour management and limits on the use of physical restraint, implementation of the curriculum framework, communication and consultation with parents, the operation and administration of playgroups, or any of them, to be complied with to ensure the health, comfort, care, education, and safety of children attending certificated playgroups:
   (b) authorise the Minister, after consultation with those organisations that appear to the Minister to be representative of persons likely to be substantially affected by these regulations, to prescribe criteria to be used by the Secretary to assess compliance with minimum standards imposed by these regulations:
   (c) require the Secretary to publish a notice in the Gazette—
     (i) stating that criteria referred to in paragraph (b) have been prescribed; and
@@ -7801,7 +8030,7 @@ Every person commits an offence, and is liable on conviction to a fine not excee
 ### 319J Centres situated on property owned by, or leased to, the Crown
 (1) The continued operation of an early childhood education and care centre on land owned by, or leased to, the Crown, and the occupation by an early childhood education and care centre of any building on any such land, may be governed by—
   (a) a lease or tenancy or licence between the Crown and the service provider who operates the centre under section 45 of the Public Works Act 1981; or
-  (b) a lease or licence between a board and the service provider under section 70B of the Education Act 1989; or
+  (b) a lease or licence between a board and the service provider under clause 36 of Schedule 6; or
   (c) a lease between a third party (to whom a lease has been granted by the Crown) and the service provider; or
   (d) an occupancy document notified to the service provider who operates the centre by the Secretary.
 (2) If subsection (1)﻿(d) applies to an early childhood education and care centre, the following provisions also apply:
@@ -8189,6 +8418,10 @@ In this Part and Schedule 21, unless the context otherwise requires,—
   (c) any period or periods (of which the employer is aware) for which that person has during that year been employed as a teacher by the employer at an early childhood education and care service.
 (4) The period referred to in subsection (3) is 20 half-days or any greater number of half-days the Education Council has allowed in any particular case, each being a half-day on which the school or early childhood education and care service at which the person was then employed was open for instruction.
 
+### 350A Special provision for chief executive of correspondence school
+(1) The chief executive of a correspondence school is not required to be registered.
+(2) This section overrides sections 349 and 350.
+
 ### 351 Restrictions on activities of teachers whose practising certificate or limited authority to teach is subject to interim suspension
 (1) This subsection applies to a person employed in a teaching position if—
   (a) he or she holds a practising certificate that is suspended under section 402; or
@@ -8236,7 +8469,8 @@ The Education Council must register an applicant under section 352 if satisfied 
 (1) The Education Council must cancel a person's registration if—
   (a) the Education Council is satisfied on reasonable grounds that the person no longer satisfies the requirements for registration as a teacher (as set out in section 353); or
   (b) the Education Council is satisfied on reasonable grounds that the registration was effected by mistake or obtained by fraud; or
-  (c) the Disciplinary Tribunal has ordered, under section 404(1)﻿(g), that the registration be cancelled.
+  (c) the Disciplinary Tribunal has ordered, under section 404(1)﻿(g), that the registration be cancelled; or
+  (d) the Competence Authority has ordered, under section 412(b), that the registration be cancelled.
 (2) The Education Council may not cancel a person's registration under subsection (1)﻿(a) or (b) without first—
   (a) taking all reasonable steps to ensure that the person is given notice of the reasons for the proposed cancellation; and
   (b) giving the person a reasonable opportunity to make submissions and be heard, either in person or by counsel or other representative, on the proposed cancellation.
@@ -8253,7 +8487,8 @@ The Education Council must deregister a person if—
 (2) If the Education Council is satisfied that any of the information contained in the register is incorrect, the Education Council must ensure that the information is corrected.
 (3) The Education Council may annotate the register following—
   (a) an interim suspension under section 402(2); or
-  (b) an action by a disciplinary body under section 401, 404, or 412.
+  (b) an action by a disciplinary body under section 401 or 404; or
+  (c) an action by the Competence Authority under section 412.
 (4) In the case where the register is annotated following an interim suspension, the annotation must be removed or corrected as soon as practicable after the matter is concluded (as specified in section 403(6)).
 
 ### 360 Matching of register information and information about payment of teacher salaries at payrolled schools
@@ -8321,7 +8556,7 @@ The Education Council must deregister a person if—
   (a) the Education Council is satisfied on reasonable grounds that the person no longer satisfies the requirements for holding a practising certificate (as set out in section 361(2)); or
   (b) the Education Council is satisfied on reasonable grounds that the practising certificate was issued by mistake or obtained by fraud; or
   (c) the Disciplinary Tribunal has ordered, under section 404(1)﻿(g), that the practising certificate be cancelled; or
-  (d) the Education Council has determined, under section 412, that the practising certificate be cancelled.
+  (d) the Competence Authority has ordered, under section 412(b), that the practising certificate be cancelled.
 (2) The Education Council may not cancel a person's practising certificate under subsection (1)﻿(a) or (b) without first—
   (a) taking all reasonable steps to ensure that the person is given notice of the reasons for the proposed cancellation; and
   (b) giving the person a reasonable opportunity to make submissions and be heard, either in person or by counsel or other representative, on the proposed cancellation.
@@ -8370,7 +8605,7 @@ The purpose of granting a limited authority to teach is to enable employers to h
   (a) the Education Council is satisfied on reasonable grounds that the person no longer satisfies the requirements for holding a limited authority to teach (as set out in section 366(2)); or
   (b) the Education Council is satisfied on reasonable grounds that the authorisation was granted by mistake or obtained by fraud; or
   (c) the Disciplinary Tribunal has ordered, under section 404(1)﻿(g), that the limited authority to teach be cancelled; or
-  (d) the Education Council has determined, under section 412, that the limited authority to teach be cancelled.
+  (d) the Competence Authority has ordered, under section 412(b), that the limited authority to teach be cancelled.
 (2) The Education Council may not cancel a person's limited authority to teach under subsection (1)﻿(a) or (b) without first—
   (a) taking all reasonable steps to ensure that the person is given notice of the reasons for the proposed cancellation; and
   (b) giving the person a reasonable opportunity to make submissions and be heard, either in person or by counsel or other representative, on the proposed cancellation.
@@ -8402,7 +8637,8 @@ The purpose of granting a limited authority to teach is to enable employers to h
 (2) If the Education Council is satisfied that any of the information contained in the list is incorrect, the Education Council must ensure that the information is corrected.
 (3) The Education Council may annotate the list following—
   (a) an interim suspension under section 402(2); or
-  (b) an action by a disciplinary body under section 401, 404, or 412.
+  (b) an action by a disciplinary body under section 401 or 404; or
+  (c) an action by the Competence Authority under section 412.
 (4) In the case where the list is annotated following an interim suspension, the annotation must be removed or corrected as soon as practicable after the matter is concluded (as specified in section 403(6)).
 
 ### 372 Fees and costs for granting limited authority to teach
@@ -8459,6 +8695,7 @@ The purpose of the Education Council is to ensure safe and high quality leadersh
 (1) In this Part, unless the context otherwise requires,—
   - **authorised person** means the holder of an authority
   - **authority** means a limited authority to teach granted under Part 31
+  - **Competence Authority** means the Competence Authority established by rules made under section 388
   - **Complaints Assessment Committee** means the Complaints Assessment Committee established by rules
   - **disciplinary body** means either or both of the Complaints Assessment Committee and the Disciplinary Tribunal
   - **Disciplinary Tribunal** means the Disciplinary Tribunal established by rules
@@ -8572,12 +8809,13 @@ The Education Council may establish advisory boards for specific aspects of its 
 (7) The code of ethics that the New Zealand Teachers Council prepared and that was in existence immediately before the commencement of this section is to be treated as the code of conduct prepared under this section until a code of conduct is prepared in accordance with subsection (1).
 
 ### 388 Education Council to make rules
-(1) The Education Council must, as soon as practicable after the commencement of this section, make rules providing for—
+(1) The Education Council must, as soon as practicable, make rules providing for—
   (a) a Complaints Assessment Committee to—
     (i) investigate complaints of misconduct about, and reports of convictions of, teachers; and
     (ii) carry out any other function, and exercise any power, given under this Act or delegated to it by the Education Council; and
   (b) a Disciplinary Tribunal to conduct hearings relating to misconduct by, and convictions of, individual teachers, and to exercise the powers given under this Act; and
-  (c) the practices and procedures of the disciplinary bodies; and
+  (ba) a Competence Authority to consider reports and complaints about teacher competence and to exercise the powers given under this Act; and
+  (c) the practices and procedures of the disciplinary bodies and the Competence Authority; and
   (d) the procedures of the Education Council for dealing with reports received under the mandatory reporting provisions in sections 392 to 395 and 397; and
   (e) the procedures relating to Police vetting, and in particular the rights of persons who are vetted.
 (2) The Education Council may make rules for any other purpose relating to the performance of its functions.
@@ -8775,13 +9013,26 @@ The Education Council may establish advisory boards for specific aspects of its 
   (a) any communications between the person and the representative in relation to the hearing are as privileged as they would have been if the representative had been a barrister or solicitor; and
   (b) the representative is treated as counsel for the purposes of subsection (2).
 
-### 409 Appeals
-(1) The teacher who is the subject of a decision by the Disciplinary Tribunal made under section 402(2) or 404, or a decision by the Education Council made under section 412, may appeal against that decision to the District Court.
+### 409 Appeals from decisions of disciplinary bodies
+(1) The teacher who is the subject of a decision by the Disciplinary Tribunal made under section 402(2) or 404 may appeal against that decision to the District Court.
 (2) The Complaints Assessment Committee may, with the leave of the Education Council, appeal to the District Court against a decision of the Disciplinary Tribunal made under section 402(2) or 404.
 (3) An appeal under this section must be made within 28 days after receipt of written notice of the decision, or any longer period that the court allows.
 (4) Section 356(3) to (6) applies to every appeal under this section as if it were an appeal under section 356(1).
 
 **Review of competence**
+
+### 410AA Competence Authority
+(1) The constitution of the Competence Authority must be set out in rules made under section 388, and those rules must be consistent with this section.
+(2) The Competence Authority may operate in panels, and more than 1 panel may operate at any one time.
+(3) The Competence Authority must include at least 1 person who is selected from a list, prepared by the Minister after consultation with the Education Council, of people who are not teachers, employers, or members of an employing body.
+(4) The majority of members on the Competence Authority, and on every panel of the Competence Authority, must hold practising certificates.
+(5) No member of the Competence Authority may be a member of the Complaints Assessment Committee or the Disciplinary Tribunal.
+(6) The rules must provide for the replacement of any member of the Competence Authority who, in relation to a particular complaint,—
+  (a) made the complaint; or
+  (b) is otherwise in a position of conflict of interest.
+(7) The rules must also provide for the Competence Authority to co-opt up to 2 members onto the Authority for their specialist knowledge and expertise in relation to a particular complaint.
+(8) Members co-opted onto the Competence Authority may be in addition to any limit on the number of members set in the rules.
+(9) When performing its functions and exercising its powers, the Competence Authority must act in accordance with the rules of natural justice.
 
 ### 410 Complaints about competence
 (1) A person who wishes to make a complaint about a teacher's competence must first make the complaint to the teacher's employer, unless one of the circumstances in subsection (2)﻿(a) to (d) applies.
@@ -8791,6 +9042,7 @@ The Education Council may establish advisory boards for specific aspects of its 
   (c) if the complaint has been made to the employer, but the complainant is not satisfied with the way in which the complaint is being, or was, dealt with; or
   (d) in any other exceptional circumstance.
 (3) The Education Council may investigate any matters that relate to teacher competence of its own motion as it sees fit.
+(3A) The Education Council may, after any investigation it decides to make, refer to the Competence Authority a complaint or other matter that relates to competence for a decision as to whether the required level of competence has been attained.
 (4) A complaint under this section by an employer or former employer must include a description of the competence issues leading to the complaint and the actions (if any) that the employer or former employer has undertaken in relation to them.
 (5) If the Education Council considers that a complaint under this section should first have been sent to the teacher's employer, it must refer it to the employer; and, in any other case, it must notify the employer (if the teacher is currently employed by an employer) that—
   (a) it has received a complaint about the teacher's competence; or (as the case may be)
@@ -8799,20 +9051,26 @@ The Education Council may establish advisory boards for specific aspects of its 
 (7) If the Education Council is satisfied that the employer has not responded, or has not been able to respond, to the complaint in a satisfactory way, the Education Council may investigate the complaint.
 (8) When a complaint about competence is made by a member of the Education Council, that member may not be involved in any investigation of the complaint.
 
-### 411 Investigation of mandatory reports about competence
-(1) When investigating a report under section 392, 393, or 395, the Education Council may require the teacher's employer or former employer to supply information in addition to the information supplied in the report, and in that case, the employer or former employer must supply it.
-(2) When a report is made under section 392, 393, or 395 by a member of the Education Council, that member must not be involved in any investigation of the report.
+### 411 Investigation by Education Council of mandatory reports relating to competence and referral to Competence Authority for decision
+(1AA) The Education Council may, after any investigation it decides to make, refer to the Competence Authority a report received by it under section 392, 393, or 395 that relates to competence.
+(1) When investigating a report that relates to competence under section 392, 393, or 395, the Education Council may require the teacher's employer or former employer to supply information in addition to the information supplied in the report, and in that case, the employer or former employer must supply it.
+(2) When a report that relates to competence is made under section 392, 393, or 395 by a member of the Education Council, that member must not be involved in any investigation of the report.
 
-### 412 Powers of Education Council after finding required level of competence not attained
-Following an investigation of a complaint under section 410, or following receipt of a report under section 392, 393, or 395 and any investigation of the report, the Education Council may, if satisfied that the teacher has not attained the required level of competence,—
+### 412 Powers of Competence Authority after finding required level of competence not attained
+Following any investigation of a complaint or other matter by the Education Council under section 410, or of a report by the Education Council under section 411, and referral to the Competence Authority, the Competence Authority may, if satisfied that a teacher has not attained the required level of competence,—
   (a) do any 1 or more of the following:
-    (i) impose conditions on the teacher's practising certificate or authority:
+    (i) impose conditions on the teacher’s practising certificate or authority:
     (ii) refer the teacher to an impairment process, which may involve either or both of the following:
       (A) assessment of an impairment:
       (B) assistance with an impairment:
     (iii) annotate the register or the list of authorised persons in a specified manner, in relation to any action taken under subparagraph (i):
-    (iv) impose conditions on any subsequent practising certificate or authority issued to the teacher; or
-  (b) cancel the teacher's practising certificate or authority.
+    (iv) direct the Education Council to impose conditions on any subsequent practising certificate or authority issued to the teacher; or
+  (b) order the Education Council to cancel the teacher’s registration, practising certificate, or authority.
+
+### 412A Appeals from decisions of Competence Authority
+(1) A teacher who is the subject of a decision by the Competence Authority made under section 412 may appeal against that decision to a District Court.
+(2) An appeal under this section must be made within 28 days after receipt of written notice of the decision, or any longer period that the court allows.
+(3) Section 356(3) to (6) applies to every appeal under this section as if it were an appeal under section 356(1).
 
 **Police vetting**
 
@@ -8825,7 +9083,441 @@ Following an investigation of a complaint under section 410, or following receip
   (a) identify the person or office holder within the Education Council to whom the results of the Police vet must be sent; and
   (b) ensure that strict confidentiality is observed for the Police vet.
 
-## Schedule 1 — Transitional provisions relating to special education
+## Part 33 — State integrated schools
+
+### 414 Interpretation
+(1) In this Part, unless the context otherwise requires,—
+  - **board** , in relation to a State integrated school, means its board of trustees established under Part 9
+  - **education with a special character** means education within the framework of a particular or general religious or philosophical belief, and associated with observances or traditions appropriate to that belief
+  - **effective date** , in relation to an integration agreement, means the date on which the integration of the school takes place
+  - **integration** has the same meaning as in section 2(1)
+  - **integration agreement** means an agreement entered into under section 421
+  - **land** has the same meaning as in the Land Transfer Act 1952
+  - **proprietor** means the body corporate that—
+    (a) has the primary responsibility for determining the special character of a school registered under section 35A and for supervising the maintenance of that special character; and
+    (b) owns, holds in trust, or leases the land and buildings that constitute the premises of the private school or a State integrated school
+  - **State integrated school** has the same meaning as in section 2(1).
+(2) Unless the context otherwise requires,—
+  (a) every reference in this Part to a State school is to be treated as excluding a State integrated school:
+  (b) every reference in the other Parts of this Act and in any other enactment or document to—
+    (i) a State primary school is to be treated as including a State integrated school that is a primary school:
+    (ii) a State secondary school is to be treated as including a State integrated school that is a secondary school:
+    (iii) a State school is to be treated as including a reference to a State integrated school.
+
+### 415 Part to bind the Crown
+This Part binds the Crown.
+
+**Conditional integration**
+
+### 416 Preservation of special character of State integrated schools
+(1) A State integrated school must on integration continue to have the right to reflect, through its teaching and conduct, the education with a special character provided by it.
+(2) Integration must not jeopardise the special character of a State integrated school.
+(3) The proprietor of a State integrated school must, subject to the provisions of the integration agreement,—
+  (a) continue to have the responsibility to supervise the maintenance and preservation of the education with a special character provided by the school:
+  (b) continue to have the right to determine what is necessary to preserve and safeguard the special character of the education provided by the school and described in the integration agreement.
+(4) If, in the opinion of a proprietor, the special character of the school as defined and described in the integration agreement has been or is likely to be jeopardised, or the education with a special character provided by the school as defined and described in the integration agreement is no longer preserved and safeguarded, the proprietor may invoke the powers conferred on the proprietor by this Part.
+
+### 417 State integrated schools part of State system
+(1) Subject to subsection (2),—
+  (a) on integration, a State integrated school becomes part of the State system of education in New Zealand; and
+  (b) a State integrated school is subject to all the provisions of this Act and of all regulations made under this Act; and
+  (c) a State integrated school is subject to all the provisions of the State Sector Act 1988 as if service in the employment of the board of the school were education service within the meaning of that Act.
+(2) In their application to State integrated schools, the enactments applied to State integrated schools by subsection (1) are subject to sections 416 and 475, and to the other provisions of this Part that relate to State integrated schools.
+
+**Procedure for establishing, disestablishing, merging, and closing State integrated schools**
+
+### 418 Application to negotiate integration
+(1) The proprietor of a school that is registered under section 35A, and any person who proposes to establish a school with the intention that it become a State integrated school, may apply to the Minister to enter into negotiations for integration under this Part.
+(2) If the Minister accepts an application to negotiate, the applicant and the Minister may enter into negotiations for an integration agreement under section 421.
+(3) If the Minister declines the application, the applicant may make a fresh application at any time.
+(4) Without limiting the factors that the Minister may consider, the Minister must, in considering an application, consider the nature, character, and capacity of the existing network of schools.
+(5) The Minister may, in the Minister’s absolute discretion,—
+  (a) accept applications to enter into negotiations for integration under this Part; and
+  (b) after giving any public notice that the Minister considers appropriate, decide not to consider applications from particular areas.
+
+### 419 Applications relating to proposed schools
+If a person who proposes to establish a school with the intention that it become a State integrated school makes an application under section 418, this Part applies to the application and to any subsequent negotiations and agreements prior to integration as if—
+  (a) the applicant were a proprietor; and
+  (b) the school were a school registered under section 35A.
+
+### 420 Negotiation of integration agreements
+(1) The Minister and an applicant may commence negotiations for an integration agreement under section 421 at any time after the Minister has accepted an application under section 418.
+(2) During the course of negotiations, the Minister may consult any interested persons or groups that the Minister considers appropriate.
+
+### 421 Integration agreements
+(1) The Minister (and only the Minister) may approve the establishment of a private school as a State integrated school.
+(2) The Minister must signify his or her approval by entering into an integration agreement with the proprietor.
+(3) No proprietor is competent to execute an integration agreement unless the proprietor is constituted as a body corporate.
+(4) Every integration agreement must record the agreement of the proprietor that no persons employed at the school and paid for their services in whole or in part out of money appropriated by Parliament may be—
+  (a) paid by the proprietor or the proprietor’s agents any remuneration additional to that provided for by this Act; or
+  (b) granted or permitted any condition of service more favourable than that permitted in the case of a person employed in a State school.
+
+### 422 Other matters that may be included in integration agreements
+(1) Without restricting the provisions that may be included in an integration agreement, any integration agreement may include provisions for all or any of the following matters:
+  (a) specifying the land and buildings that constitute the school to which the integration agreement refers:
+  (b) specifying any part of the land or buildings owned or leased by the proprietor and used in conjunction with the school before integration that do not constitute part of the school:
+  (c) describing the education with a special character for which the school is or was originally established:
+  (d) prescribing the religious or philosophical instruction and observances that are to form part of the school programme after integration:
+  (e) providing for the determination of the maximum number of students who may be enrolled in the school:
+  (f) permitting limitation of the number of children not given preference of enrolment under the provisions of section 442 who are required to be enrolled if places are available:
+  (g) any other particular matter that is relevant to the education with a special character for which the school was originally established:
+  (h) any other matter that is not contrary to the provisions of this Part.
+(2) Despite anything in subsection (1)﻿(e), when determining the basis of the limitation under subsection (1)﻿(f), regard must be had only to the necessity of preserving and safeguarding the education with a special character that the school provides.
+
+### 423 Integration agreements: machinery matters
+(1) Any proprietor may enter into integration agreements for the integration of more than 1 school.
+(2) There must be a separate integration agreement for each school that is to become a State integrated school.
+(3) If the Minister and the proprietor agree, the terms of an integration agreement may be varied by a supplementary agreement.
+(4) Despite section 421, the Minister’s power to enter into a supplementary agreement may be delegated under section 28 of the State Sector Act 1988.
+(5) An integration agreement is, for all purposes, a binding agreement between the proprietor and the Crown.
+
+### 424 Effective date of integration agreement
+(1) Every integration agreement must specify an effective date.
+(2) A State integrated school's board must take office on the effective date.
+(3) In any case where the requirements of this section are not met, the Minister may give notice to the proprietor of a new effective date as the Minister thinks fit, and the integration agreement must be interpreted accordingly.
+
+### 425 Notification of integration agreement
+Every integration agreement must be notified in the Gazette, and a copy of every integration agreement must be retained by the Secretary and must be available for inspection without charge by any member of the public on an Internet site maintained by the Secretary.
+
+### 426 Minister may require information to be provided
+(1) This section applies in any of the following situations:
+  (a) a proprietor or a potential proprietor has applied to integrate a school:
+  (b) the Minister holds reasonable concerns about the ability of a proprietor or potential proprietor to meet any obligation under an integration agreement or under this Part:
+  (c) a proprietor or potential proprietor has submitted a specific funding request to the Minister or the Secretary.
+(2) If this section applies, the Minister may require the relevant proprietor or potential proprietor to provide all or any of the following:
+  (a) all of the information needed to assess the financial and managerial capacity of the proprietor or potential proprietor:
+  (b) any other information that the Minister considers relevant to assessing—
+    (i) an application to integrate a school:
+    (ii) any concerns about the ability of a proprietor or potential proprietor to meet any obligation under an integration agreement or under this Part:
+    (iii) any funding request that a proprietor or potential proprietor has submitted.
+
+### 427 Cancellation of integration agreement
+(1) An integration agreement may be cancelled—
+  (a) by the Minister, in which case section 428 applies; or
+  (b) by the proprietor, in which case section 429 applies; or
+  (c) by agreement between the Minister and the proprietor, in which case section 430 applies.
+(2) On the cancellation of an integration agreement,—
+  (a) the school ceases to be a State integrated school; and
+  (b) the respective rights and obligations of the parties that arise by virtue of the integration agreement cease to have effect; and
+  (c) in the absence of an agreement to the contrary, the school is to be treated as provisionally registered as a school under section 35A.
+
+### 428 Cancellation by Minister
+The Minister may cancel an integration agreement under section 427(1)﻿(a) if—
+  (a) it appears to the Minister on reasonable grounds that the proprietor or the board of the State integrated school is not sufficiently carrying out the functions and obligations accepted by it under this Act or under the integration agreement; and
+  (b) the Minister has consulted the proprietor, the board, and other interested persons or groups as the Minister considers appropriate.
+
+### 429 Cancellation by proprietor
+(1) A proprietor may give notice of an intention to cancel an integration agreement under section 427(1)﻿(b) if—
+  (a) it appears to the proprietor on reasonable grounds that—
+    (i) the special character of the State integrated school has been or is likely to be jeopardised; or
+    (ii) the Minister or any board is not carrying out the functions and obligations accepted by the Minister or the board under this Act or the integration agreement; and
+  (b) the proprietor has consulted the Minister, the board, and any other interested persons or groups as the proprietor considers appropriate.
+(2) The notice of intention to cancel takes effect as a cancellation of the integration agreement under section 427(1)﻿(b) on the date that is 4 months after the date of the notice.
+
+### 430 Cancellation by agreement between parties
+The Minister and the proprietor may cancel an integration agreement under section 427(1)﻿(c) by mutual agreement, after consultation with other interested persons or groups as they consider appropriate.
+
+### 431 Mergers
+(1) A State integrated school may merge with another State integrated school (the merging schools) if—
+  (a) each school has the same proprietor; and
+  (b) each school has the same or a similar special character; and
+  (c) the proprietor has consulted the Minister; and
+  (d) the Minister determines that the schools may merge.
+(2) Before determining whether the State integrated schools may merge, the Minister must—
+  (a) be satisfied that—
+    (i) the proprietor has made reasonable efforts to consult its adult students or the parents of its full-time students (other than adult students) about the proposed merger; and
+    (ii) the consultation that has taken place for each school is adequate in the circumstances; and
+    (iii) the creation of a single school by the proposed merger (the continuing school) is appropriate in the circumstances; and
+  (b) consult the boards of all the other schools whose rolls might, in the opinion of the Minister, be affected by the proposed merger.
+(3) If the Minister determines that the State integrated schools may merge, the proprietor must apply under section 418 to negotiate an integration agreement for the school that is to be created by the merger.
+(4) If an integration agreement is negotiated, the Minister must give notice of the merger in the Gazette.
+(5) The notice takes effect on a day specified in the notice, and has effect as follows:
+  (a) the merging schools are part of the continuing school:
+  (b) if the continuing school and each merging school are not already administered by a single board,—
+    (i) the board of each merging school is dissolved; and
+    (ii) all rights, assets, liabilities, and debts of each merging school are vested in the board of the continuing school:
+  (c) the continuing school is a school of the class specified in the notice and provides education for the student class levels specified in the notice.
+(6) The notice does not affect the name of the continuing school.
+(7) Before a notice given under subsection (4) takes effect, the Minister must give notice in the Gazette of whether,—
+  (a) during the period between a date specified in the notice and the date on which new trustees take office, the board of the continuing school is to be—
+    (i) the board of the continuing school plus at least 1 co-opted trustee representing each of the merging schools; or
+    (ii) a board appointed by the Minister; or
+  (b) the board of the continuing school is to have an alternative constitution approved under section 98A.
+(8) The board of the continuing school must have no more than 4 members appointed by the proprietor.
+
+### 432 Closure of State integrated school
+If it appears to the Minister that for the reason set out in section 428(a) a State integrated school should be closed, the Minister may, after the consultation referred to in section 428(b), disestablish and close the school.
+
+### 433 Notification of cancellation or of closing of State integrated school
+When an integration agreement is cancelled under section 427, or when a State integrated school is closed under section 432, the Minister must give notice of the cancellation or closure in the Gazette.
+
+### 434 Disposal of assets on cancellation of integration agreement or closing of State integrated school
+(1) This section applies if expenses or capital expenditure appropriated by Parliament has been used to meet all or part of the cost of supplying a State integrated school with furniture, or equipment, or other chattels, and the integration agreement for that school is cancelled, or the school is closed.
+(2) If this section applies, the furniture, equipment, or chattels may be disposed of by the Secretary at his or her sole discretion, whether by sale or otherwise, and the disposition has effect as if the Secretary were the owner.
+(3) However, any sale must be by way of public auction or public tender.
+
+### 435 Repayment of moneys advanced
+(1) This section applies if—
+  (a) expenses or capital expenditure appropriated by Parliament has been advanced otherwise than by way of loan to be used to meet all or part of the cost of erecting any building or supplying or installing any fixture as part of a State integrated school; and
+  (b) the integration agreement for that school is cancelled, or the school is closed.
+(2) The current value of the contribution to the building or fixture from the money appropriated must be assessed by the Minister.
+(3) The amount assessed is to be treated as a debt due by the proprietor to the Crown, and is to be treated as a charge on the land of the State integrated school.
+(4) That charge may be registered without the payment of a fee against the land under the provisions of the Statutory Land Charges Registration Act 1928.
+(5) However, the Minister may, with the agreement of the Minister of Finance, approve the writing off of all or part of the debt.
+(6) For the purposes of the Statutory Land Charges Registration Act 1928, notice of any charge under subsection (3), and any certificate releasing the charge, may be signed by the Secretary.
+
+### 436 Moneys to be paid into Crown Bank Account
+(1) In the case of any sale made under section 434(2), the money received must be credited to a Crown Bank Account.
+(2) In the event of the cancellation of an integration agreement, or the closing of a State integrated school, any unspent money granted to the board of that school for that school under this Act or under regulations made under this Act or under any other Act must be credited to a Crown Bank Account.
+
+### 437 Certain assets remain vested in proprietors
+Subject to sections 434 to 436, if an integration agreement is cancelled, or a State integrated school is closed, any land, buildings, chattels, and other interests relating to the school that are vested in the proprietor remain vested in the proprietor.
+
+### 438 Restriction on cancellation of integration agreement or closure of State integrated schools
+No integration agreement may be cancelled in accordance with section 427, and (despite anything in section 154) no State integrated school may be closed under section 432, solely on the ground that adequate accommodation for the students exists in an adjacent State school.
+
+### 439 Compensation
+If an integration agreement is cancelled, or a State integrated school is closed, no compensation of any kind is due or payable to the proprietor.
+
+**Administration**
+
+### 440 Administration of State integrated schools
+(1) Except as provided in this Part, all the provisions of this Act and of any other enactment relating to the education of the people of New Zealand in State schools apply to a State integrated school.
+(2) Subject to sections 416 and 417, when a private school is integrated it must be controlled and managed and operate in all respects as if it were a State school.
+(3) The powers of control and management of the board of a State integrated school must be exercised subject to the provisions of sections 416 and 417.
+(4) To give effect to subsection (3), the board of a State integrated school must make provision for adequate consultation between the board and the proprietor of that school.
+
+**Enrolment, conditions of attendance, and instruction of students at State integrated schools**
+
+### 441 Free education
+Every student enrolled at a State integrated school must be given free education on the same terms and in accordance with the same conditions as students enrolled at a State school.
+
+### 442 Preference of enrolment
+The children of parents who have a particular or general philosophical or religious connection with a State integrated school must be preferred to other children for enrolment at the school.
+
+### 443 Participation in general school programmes
+By enrolling a student at a State integrated school, the parent is taken to have accepted as a condition of enrolment that the student is to participate in the general school programme that gives the school its special character.
+
+### 444 Instruction of students
+(1) Each State integrated school must instruct its students in accordance with the curricula and syllabuses prescribed under this Act or any regulations made under this Act.
+(2) However, the general school programme must reflect the education with a special character provided by the State integrated school, and religious and other examples may be used to reinforce teaching throughout the school day.
+
+### 445 Religious observances and religious instruction
+(1) Subject to the provisions of section 444, if religious observances and religious instruction form part of the education with a special character provided by a State integrated school, these must continue to form part of the general school programme in accordance with the terms and conditions prescribed in the integration agreement relating to that school.
+(2) If religious observances and religious instruction form part of the education with a special character provided by a State integrated school, that school—
+  (a) must be responsive to the sensitivities of students and parents of different religious or philosophical affiliations; and
+  (b) may not require a student of a different religious or philosophical affiliation to participate in religious observances and religious instruction concerned with particular observances if the parents of the student state at any time that they do not wish that student to participate.
+
+### 446 School transport assistance
+In providing school transport assistance for students enrolled at a State integrated school, the Secretary must have reasonable regard to the preference of parents to enrol their children at a State integrated school or at a State school.
+
+### 447 Attendance dues
+(1) The proprietor of a State integrated school may, if the integration agreement for the school so provides, enter into an agreement with the parents or other persons accepting responsibility for the education of a child providing that the parents or other persons must pay attendance dues as a condition of the child’s enrolment at the school.
+(2) The dues must be established for the State integrated school or group of State integrated schools at the rates, and subject to the conditions, that are approved by the Minister by notice in the Gazette.
+(3) Revenue received by the proprietor from attendance dues must be used solely for the following:
+  (a) paying, in respect of the school or group of schools in respect of which it is received, for improvements to the State integrated school or schools’ buildings and associated facilities that are required by any integration agreement or integration agreements under section 456(2)﻿(c):
+  (b) any capital works that may be required by the Minister under section 456(2)﻿(d):
+  (c) meeting debts, mortgages, liens, or other charges associated with the land and the buildings that constitute the premises of the State integrated school or schools.
+(4) No revenue received by the proprietor from attendance dues may be used to provide or improve the State integrated school buildings and associated facilities to a standard higher than that approved by the Secretary as appropriate for a comparable State school.
+
+### 448 Withdrawal and reinstatement of right to charge attendance dues
+(1) Should any proprietor use any revenue from attendance dues for any purpose other than one permitted by section 447, the Minister may, despite anything in the integration agreement, by notice in the Gazette, withdraw the right to charge attendance dues, and the board must, while the withdrawal continues, permit the attendance of children without the payment of attendance dues.
+(2) The Minister may, by notice in the Gazette, cancel any withdrawal at any time.
+
+### 449 Consequences of failure to pay attendance dues
+(1) If a parent, or other person who has accepted the responsibility for the education of a child, has entered into an agreement to pay attendance dues and fails to make a payment, the payment not made may be recoverable from that parent or person in any court of competent jurisdiction as a debt due to the proprietor.
+(2) Any failure to make payment constitutes grounds for the principal of the State integrated school to suspend the child from attendance at that school and to remove the child’s name from the school register.
+(3) However, no child may be suspended and have his or her name removed from the school register until arrangements have been made to the satisfaction of the Secretary for the child to be enrolled at some other school.
+
+### 450 Accounts for attendance dues
+(1) Each proprietor who is permitted to charge attendance dues must keep accounts in a manner approved by the Secretary showing—
+  (a) the total amount of attendance dues received; and
+  (b) how the attendance dues have been spent.
+(2) The accounts must be—
+  (a) balanced at a date each year approved by the Secretary; and
+  (b) audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
+(3) The proprietor must send a copy of the accounts, together with the auditor's report on them, to the Secretary by a date to be approved by the Secretary.
+
+### 451 Financial contributions
+(1) In addition to the power to collect attendance dues under section 447, the proprietor of a State integrated school may—
+  (a) conduct fund-raising activities within the school; and
+  (b) inform the parents of the financial obligations of the proprietor in the prospectus and in other ways; and
+  (c) request the parents of students attending the school to make regular financial contributions to the proprietor for the benefit of the proprietor in meeting any debt, mortgage, lien, and other charge associated with the land and buildings that constitute the school premises or are associated with the school.
+(2) Financial contributions other than attendance dues must be made on a voluntary basis and no student may be refused enrolment because of the unwillingness of the parents to contribute in this way.
+
+### 452 Restrictions on fund-raising
+No board of any State integrated school, nor the principal nor any member of the staff (whether employed or retained as a teacher or in any other capacity), nor any student of the school may take part during normal school hours in any school activity directed to raising funds for the benefit of the proprietor in meeting any debt, mortgage, lien, or other charge associated with the land and buildings that constitute the school premises or are associated with the school.
+
+### 453 Accounts of money raised under section 451
+The proprietor must—
+  (a) keep accounts of money raised by it and by a board, principal, staff member, or student under this section; and
+  (b) have the accounts audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013) at least once in every period of 12 months; and
+  (c) make a copy of the accounts and of the auditor's report on them available on request to the parents of students attending the State integrated school and to other contributors.
+
+### 454 Fund-raising
+Subject to the provisions of section 451, the board, the principal, staff members, and students of a State integrated school may take part in fund-raising activities in the same manner and for the same purposes for the benefit of the students of the school that are permitted in the case of State schools.
+
+### 455 Use of school office
+The school office of a State integrated school may be used for the purpose of communication between the proprietor of the school and the parents of students enrolled at the school, and for other purposes related to the benefit of the school and the students.
+
+**Proprietors of State integrated schools**
+
+### 456 Powers and responsibilities of proprietors
+(1) The proprietor of a State integrated school must exercise its powers under an integration agreement in a manner that is consistent with section 416.
+(2) Subject to subsection (1), the proprietor of a State integrated school—
+  (a) owns, holds upon trust, or leases the land and buildings that are specified in the integration agreement as constituting the school premises; and
+  (b) must accept and meet the liability for all mortgages, liens, and other charges upon the land and buildings; and
+  (c) must plan, pay for, and implement, over the period that may be specified in the integration agreement, the improvements to the school buildings and associated facilities that are required in accordance with the integration agreement to bring the buildings and associated facilities up to the minimum standard laid down by the Secretary for State schools; and
+  (d) must plan, implement, and pay for the capital works that are approved or required by the Minister, with a view to replacing, improving, or enlarging the school, its buildings, and its associated facilities to maintain the school, its buildings, and its associated facilities at the minimum standard laid down by the Secretary for comparable State schools; and
+  (e) may own, hold upon trust, or lease and control, and maintain any land, buildings, and associated facilities that, although not part of the school in terms of the integration agreement, are regarded by the proprietor as appropriate to maintain the special character of the school; and
+  (f) may, in conjunction with the board, make provision for the accommodation of students living away from home; and
+  (g) must insure all the buildings, chattels, and other assets owned, held upon trust, or leased by the proprietor for the purposes of the school against risks normally insured against with some reputable insurance company; and
+  (h) must arrange with its insurers that the policy of the insurance is endorsed to the effect that the benefit of the indemnity provided by the policy extends to the Minister for the buildings, chattels, and other assets paid for in whole or in part by a loan or grant made out of money appropriated by Parliament; and
+  (i) must, together with the proprietor’s agents and licensees, have at all reasonable times access to the school to ensure that the special character of the school is being maintained.
+
+### 457 Decision-making criteria for proprietors
+(1) When making a decision under a provision of this Part, a proprietor must take into account—
+  (a) the ability of the proprietor’s State integrated school or schools to continue to provide the level of education required; and
+  (b) the average per student cost of the continued operation of the proprietor’s State integrated school or schools relative to the average per student cost for other State schools; and
+  (c) the extent to which the proprietor’s State integrated school or schools provide for students whose needs are not met by other State schools; and
+  (d) the ability of the proprietor to meet any obligations regarding the proprietor’s State integrated school or schools over the next 7 years.
+(2) A proprietor must assess the proprietor’s compliance with subsection (1) at least once every 5 years.
+(3) However, the Secretary may direct a proprietor to carry out an assessment at any time if the Secretary considers it appropriate in the circumstances.
+(4) The proprietor must, as soon as practicable,—
+  (a) complete any assessment begun under subsection (2) or (3); and
+  (b) provide the Secretary with a copy of the assessment.
+
+### 458 Consequences of failure to arrange insurance
+Despite section 456(2)﻿(h), in any case where the proprietor has not arranged with the proprietor’s insurers for the benefit of any policy of insurance to extend to the Minister,—
+  (a) no money appropriated by Parliament may be used to pay any part of the cost of repairing or replacing any buildings, chattels, or other assets that have been destroyed or damaged from any cause whatsoever; and
+  (b) any additional charges by way of premium made by the insurer for the extension of the benefit of any policy of insurance to the Minister may not be met out of money appropriated by Parliament.
+
+### 459 Proprietors not to question curriculum or teaching methods
+The right of access specified in section 456(2)﻿(i) does not give a proprietor the right to question the curriculum or the teaching methods adopted by the teachers, both of which are, subject to the provisions of this Act, controlled by the principal of the State integrated school.
+
+### 460 Leases of land
+(1) The proprietor of a State integrated school must obtain the prior consent of the Minister before entering into a lease relating to land that is used, or to be used, for the school.
+(2) If the proprietor fails to obtain the prior consent of the Minister to a lease, the lease is not affected but the Minister may cancel the integration agreement under section 427.
+
+### 461 Assistance to proprietors
+(1) The Minister may, with the concurrence of the Minister of Finance, approve the granting of loans from capital expenditure that may be appropriated by Parliament for the purpose to the proprietor of any State integrated school.
+(2) The loans are to be made for the purposes and subject to the terms and conditions, including the writing off of any amount repayable, that the Minister, with the concurrence of the Minister of Finance, determines.
+
+### 462 Proprietors unable to meet obligations
+(1) In the event of the proprietor of a State integrated school becoming unable to meet the financial or other commitments accepted by them under the integration agreement, they must notify the Minister.
+(2) If the Minister is notified, the Minister may, after any consultation with the proprietor that the Minister thinks necessary,—
+  (a) cancel the integration agreement in accordance with section 427; or
+  (b) close the State integrated school under section 432; or
+  (c) arrange for the acquisition by the Crown, in accordance with the Public Works Act 1981, of any land, buildings, and chattels relating to the State integrated school that are owned or leased by the proprietor and that the Minister considers appropriate for the purpose of establishing a State school.
+(3) When the Minister acts in accordance with subsection (2)﻿(a) or (b), the provisions of this Act relating to the cancellation of an integration agreement or to the closure of a State integrated school apply.
+
+**Appointment and employment of teachers**
+
+### 463 Requirements in respect of appointments of teachers
+(1) The board of a State integrated school must appoint teachers in that school in accordance with the provisions of the State Sector Act 1988.
+(2) When a board delegates to a committee the power to appoint a teacher or to recommend the appointment of a teacher, that committee must contain at least 1 of the persons appointed to the board by the proprietor.
+
+### 464 Religious instruction: appointments to special positions relating to character of State integrated school
+Subject to the provisions of this section, where religious instruction forms part of the special character of a State integrated school,—
+  (a) if provided for by the integration agreement, an advertisement for the position of principal of that school must state that a willingness and an ability to take part in religious instruction appropriate to that school is a condition of appointment:
+  (b) if provided for by the integration agreement, the board of that school must—
+    (i) designate a position at that school as director of religious studies; and
+    (ii) state in any advertisement for that position that a willingness and an ability to take part in religious instruction appropriate to that school is a condition of appointment (a director of religious studies must be a member of the normal staffing entitlement of the school, as established by regulations made under this Act; and
+    (iii) carry out the teaching duties, if any, that may be provided for in the integration agreement):
+  (c) the board must—
+    (i) designate any other proportion of teaching positions in that school that may be provided for in the integration agreement as positions of importance carrying a responsibility for religious instruction; and
+    (ii) state in advertisements for the positions that a willingness and an ability to take part in religious instruction appropriate to that school is a condition of appointment:
+  (d) the board must state in any advertisement for a position at that school that a willingness and an ability to take part in religious instruction appropriate to that school is a condition of appointment if—
+    (i) that school is a primary school; and
+    (ii) the person holding the position of deputy principal of that school or a position of assistant principal at that school has responsibility for supervising the junior classes at that school; and
+    (iii) it is provided for by the terms of the integration agreement of that school.
+
+### 465 Effect of religious instruction requirements in advertisements
+If, in accordance with section 464, an advertisement for a position states a requirement that a willingness and an ability to take part in religious instruction is a condition of appointment, any person appointed to that position must accept that requirement as a condition of the person’s appointment.
+
+### 466 Restrictions on requirement for teacher to take part in religious instruction
+Except as provided in section 464, the appointment of a teacher to a position in a State integrated school may not be conditional on the willingness and ability of that teacher to take part in religious instruction, and no appointed teacher may be required to take part.
+
+### 467 Other special positions
+(1) If an integration agreement records that any teaching position in the State integrated school concerned is a special position that requires particular capabilities on the part of the teacher holding it, an advertisement for that position must require an appointee to possess those capabilities as a condition of appointment to that position.
+(2) Without limiting the generality of subsection (1), if any integration agreement relating to a State integrated primary school requires the person holding a position as assistant principal at that school (being a position the holder of which has responsibility for supervising senior classes at that school) to maintain programmes and activities that reflect the special character of that school, an advertisement for that position must require an appointee to maintain those programmes and activities as a condition of appointment to that position.
+(3) If, in accordance with subsection (1) or (2), an advertisement for a position makes any requirement a condition of appointment to that position, any person appointed to that position must accept that requirement as a condition of the person’s appointment to it.
+
+### 468 Selection for appointment
+In the case of a State integrated primary school, the person to be appointed to any of the positions specified in section 464 or to any position specified in section 467 must be selected in accordance with the provisions of section 469.
+
+### 469 Requirements in respect of appointments
+(1) Before appointing any person to a position in a State integrated primary school, being a position specified in section 464 or 467, the board must consult the proprietor, who must report to the board the names of those applicants (if any) who, in terms of the special character of the school or in terms of the advertisement calling for applicants with particular capabilities, are acceptable for appointment.
+(2) On receipt of the report required by subsection (1), the board may consider for appointment only those applicants who are stated in the report to be acceptable for appointment.
+
+### 470 Employment for special purposes
+(1) With the consent of the board, any retired teacher may undertake, in any State integrated school, voluntary tasks relating to the beliefs and instruction that are the foundation of that school's special character.
+(2) If religious instruction forms part of the education with a special character provided by a State integrated school, the proprietor of that school may employ any person, whether as a chaplain or otherwise, for duties relating to that instruction.
+(3) The salary of a person employed under subsection (2) must not be paid by the board or be in any way a charge on money appropriated by Parliament.
+(4) The proprietor must notify the board of the name of any person employed under subsection (2).
+
+### 471 Appointment of teachers on integration
+(1) If, in accordance with sections 421 and 424, an integration agreement is implemented in respect of any private school,—
+  (a) the contract of service of every teacher at that school is to be treated as being determined from the effective date of integration; and
+  (b) each of those teachers, if the teacher so wishes, is to be treated as being in the employment of the board of the State integrated school until the teacher is formally appointed to a teaching position under subsection (4), and the provisions of subsection (6) apply accordingly from the effective date of integration; and
+  (c) each teaching position at that school must, within 60 days after the effective date of integration, be advertised as required by the State Sector Act 1988.
+(2) Every advertisement must state that the teacher appointed to the position as at the effective date of integration, if the teacher so wishes, has an absolute right of appointment to that position irrespective of the qualifications of any other applicant.
+(3) The teacher previously appointed to the position advertised under subsection (1) must, if the teacher wishes to continue in that appointment, apply in the manner prescribed by the State Sector Act 1988 for appointment to that position.
+(4) A teacher who applies must be appointed to the position.
+(5) A teacher who does not so apply is to be treated as having relinquished the position.
+(6) A teacher who is appointed to a teaching position must—
+  (a) be paid out of expenses appropriated by Parliament for the purpose the same salary that a teacher with comparable service and qualifications would be paid for a comparable teaching position in a State school; and
+  (b) continue to be paid no less than the same salary, and to be accorded the same status, as the teacher received or was accorded on the day before the effective date of integration.
+
+### 472 Other employees
+(1) The contract of service of every person employed in a State integrated school in a capacity other than that as a teacher, is to be treated as being determined from the effective date of integration.
+(2) If the position in which that person was employed has a parallel or close parallel in a State school, that person may—
+  (a) be re-employed by the board in such parallel position; and
+  (b) be paid out of expenses appropriated by Parliament for the purpose the same salary as that person would be paid for comparable service in a State school.
+
+### 473 No compensation for determination of employment
+When a contract of employment of a teacher is treated as being determined under section 471(1)﻿(a), or when the contract of employment of a person other than a teacher is treated as being determined under section 472, no compensation of any kind is payable to the teacher or to any person employed otherwise than as a teacher in respect of the determination of the contract of employment.
+
+**General provisions**
+
+### 474 Grants to private schools before integration
+Any obligation or other commitment entered into by the managers of a private school before the integration of that school as a condition of a grant under this Act binds the proprietor of that school, whether or not the obligation or commitment is specified in the integration agreement.
+
+### 475 Relationship between this Part and other Parts and other enactments
+(1) If this Part deals with the same or a similar subject matter as other Parts of this Act, the State Sector Act 1988, or any regulations made under any of those Acts or under any enactment repealed by any of those Acts,—
+  (a) express provisions in this Part prevail in respect of State integrated schools; but
+  (b) this Part must be interpreted in a way that is consistent with the other Parts of this Act or any other enactments concerned whenever this construction is appropriate and reasonable.
+(2) Subject to sections 416 and 417, where any matter concerning State integrated schools is not dealt with by express provision in this Part, the appropriate provisions of other Parts of this Act, the State Sector Act 1988, and all regulations made under any of those Parts or Acts or under any enactment repealed by any of those Acts apply.
+
+### 476 Regulations relating to State integrated schools
+(1) The Governor-General may, by Order in Council, make regulations for the following purposes:
+  (a) prescribing a form of integration agreement:
+  (b) providing for the control, management, organisation, finance, and conduct of State integrated schools.
+(2) Where there is a conflict between regulations made under this section and regulations made under another section of this Act or under the Education Act 1964 or any enactment repealed by this Act or the Education Act 1964, the regulations made under this section apply.
+
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to use of off-site locations by schools
+
+### 1 Off-site locations for schools
+Any existing use of an off-site location by a school to provide education to 1 or more students on a long-term or full-time basis before section 71A comes into force must cease at the latest by the day that is 1 year after the date on which the section comes into force, unless continued use has been approved under that section.
+
+### Part 2 — Provisions relating to Competence Authority
+
+### 2 Transitional provision relating to Competence Authority
+(1) This clause applies on and after the date that the Competence Authority is established by rules under section 388(1)﻿(ba) (in this clause called the new Competence Authority).
+(2) The Competence Authority operating immediately before the establishment of the new Competence Authority (in this clause called the previous Competence Authority) is dissolved.
+(3) The members of the previous Competence Authority are to be treated as members of the new Competence Authority.
+(4) The Education Council Rules 2016 (LI 2016/122) relating to the previous Competence Authority that are in force immediately before the establishment of the new Competence Authority—
+  (a) are to be treated as rules made under section 388(1)﻿(ba) for the new Competence Authority, subject to any necessary modifications; and
+  (b) expire 12 months after the commencement of this clause, unless replaced earlier by rules made under section 388(1)﻿(ba).
+(5) All proceedings and matters relating to competence that involve the Education Council or the previous Competence Authority and that are yet to be determined or completed on the commencement of this clause are to be determined or completed as if this clause had not come into force.
+
+### Part 3 — Provisions relating to integration agreements
+
+### 3 Treatment of certain integration agreements
+(1) The integration agreement between Her Majesty the Queen and Te Aute Trust Board Incorporated and any integration agreement that was made under the Private Schools Conditional Integration Act 1975 and that is in force immediately before the commencement of this clause is to be treated as having been made under Part 33 of this Act.
+(2) However, all proceedings or any other matters that involve an integration agreement made under the Private Schools Conditional Integration Act 1975 and that are yet to be determined or completed on the commencement of this clause are to be determined or completed in accordance with the provisions of the Private Schools Conditional Integration Act 1975 that are in force immediately before the commencement of this clause.
 
 ## Schedule 2 — Administrative provisions applying to Board continued by section 37
 
@@ -8868,57 +9560,154 @@ Following an investigation of a complaint under section 410, or following receip
 | Section 180 | Local Authorities (Members' Interests) Act 1968 does not apply |
 | Sections 181, 188, 191, 193, 194, 195, 196, 197, 198, 199, 200 | Transitional and savings provisions and associated consequential amendments |
 
-## Schedule 6 — Other provisions applying to boards
+## Schedule 6 — Boards of trustees
 
-### 1 Status of board
+### 1 Interpretation
+In this schedule, unless the context otherwise requires,—
+  - **annual implementation plan** has the meaning given in clause 7
+  - **school** , in relation to a board, means the school or institution for which the board is constituted
+  - **school community** , in relation to a school, means—
+    (a) the parents, families, and whānau of the school’s students; and
+    (b) the Māori community associated with the school; and
+    (c) any other person, or group of persons, who the board considers is part of the school community for the purposes of the relevant provision
+  - **strategic plan** has the meaning given in clause 7.
+
+### 1A Things board can do
+[Repealed]
+
+**Validity of Acts**
+
+### 1B Acts in breach of statute are invalid
+[Repealed]
+
+### 1C Some natural person acts protected
+[Repealed]
+
+### 1D Acts that are not in best interests of board
+[Repealed]
+
+### 1E Dealings between boards and other persons
+[Repealed]
+
+### 1F Interpretation
+[Repealed]
+
+**Directions under section 107 of Crown Entities Act 2004**
+
+### 1G Directions under section 107 of Crown Entities Act 2004
+[Repealed]
+
+### Part 1 — Status and name of board
+
+### 2 Status of board
 (1) A board (and not the school) is a body corporate.
 (2) A board—
   (a) is accordingly a legal entity separate from its members, office holders, employees, and the Crown; and
   (b) continues in existence until it is dissolved in accordance with this Act.
 
-### 1A Things board can do
-(1) A board may do anything authorised by this Act.
+### 3 Names of boards
+The name of a board is The [name of school or institution] Board of Trustees.
+
+### Part 2 — Powers and functions of boards
+
+**Functions of board**
+
+### 4 Board is governing body of school
+(1) A board is the governing body of its school.
+(2) A board is responsible for the governance of the school, including setting the policies by which the school is to be controlled and managed.
+(3) Under section 76, the school's principal is the board's chief executive in relation to the school's control and management.
+
+### 5 Board’s objectives in governing school
+(1) A board’s primary objective in governing the school is to ensure that every student at the school is able to attain his or her highest possible standard in educational achievement.
+(2) To meet the primary objective, the board must—
+  (a) ensure that the school—
+    (i) is a physically and emotionally safe place for all students and staff; and
+    (ii) is inclusive of and caters for students with differing needs; and
+  (b) have particular regard to any statement of National Education and Learning Priorities issued under section 1A; and
+  (c) comply with its obligations under sections 60A (in relation to curriculum statements and national performance measures), 61 (in relation to teaching and learning programmes), and 62 (in relation to monitoring of student performance); and
+  (d) if the school is a member of a community of learning that has a community of learning agreement under section 72, comply with its obligations under that agreement as a member of that community; and
+  (e) comply with all of its other obligations under this or any other Act.
+
+### 6 Staff
+Subject to Parts 8A and 31, a board may, in accordance with the State Sector Act 1988, appoint, suspend, or dismiss school staff.
+
+### 7 One trustee to preside at meetings
+[Repealed]
+
+### 8 Meetings
+[Repealed]
+
+### 9 Validation and invalidation of elections of boards
+[Repealed]
+
+**Functions and powers generally**
+
+### 13 Board has complete discretion
+A board has complete discretion to perform its functions and exercise its powers as it thinks fit, subject to this and any other enactment and the general law of New Zealand.
+
+### 14 Things board can do
+(1) A board may do anything that it is authorised to do by this Act.
 (2) A board may do anything that a natural person of full age and capacity may do.
-(3) Subclause (2) applies except as provided in this Act or another Act or rule of law.
+(3) Subclause (2) applies except as provided in this Act or another enactment or rule of law.
 (4) A board may do an act under this clause only for the purpose of performing its functions.
 (5) References in this clause to this Act include the provisions of the Crown Entities Act 2004 that are applied by Schedule 5A of this Act.
 
-### 1B Acts in breach of statute are invalid
-(1) An act of a board is invalid, unless clause 1C applies, if it is—
-  (a) an act that is contrary to, or outside the authority of, an Act; or
-  (b) an act that is done otherwise than for the purpose of performing its functions.
-(2) Subclause (1) does not limit any discretion of a court to grant relief in respect of a minor or technical breach.
+### 15 Work for other boards or educational or social services
+(1) Two boards may agree in writing—
+  (a) for one of them (board A) to do either or both of the following:
+    (i) acquire materials for, and supply them to, the other:
+    (ii) do work for the other; and
+  (b) for the other board to pay board A for doing so.
+(2) An agreement under subclause (1) does not absolve a board from any responsibilities imposed by this Act.
+(3) A board may resolve to do work for other educational services and social services if—
+  (a) the board is a member of a community of learning; and
+  (b) the other members of the community of learning agree that the work will benefit—
+    (i) the members of the community of learning; or
+    (ii) the children or young people who are enrolled at a member of the community of learning.
 
-### 1C Some natural person acts protected
-(1) Clause 1B or any rule of law to similar effect does not prevent a person dealing with a board from enforcing a transaction that is a natural person act unless the person dealing with the board had, or ought reasonably to have had, knowledge—
-  (a) of an express restriction in an Act that makes the act contrary to, or outside the authority of, the Act; or
-  (b) that the act is done otherwise than for the purpose of performing the board's functions.
-(2) In this clause, natural person act—
-  (a) means an act that a natural person of full age and capacity can do (whether or not the act is something that is also authorised by an Act); and
-  (b) includes entry into a contract for, or relating to,—
-    (i) acquisition of financial products (within the meaning of section 7 of the Financial Markets Conduct Act 2013) or borrowing of money; or
-    (ii)
-    (iii) the purchase, leasing, or sale of, or other dealings with, property; or
-    (iv) the employment, or engagement of the services, of a person.
-(3) A person who relies on subclause (1) has the onus of proving that that person did not have, and ought not reasonably to have had, the knowledge referred to in that subsection.
-(4) A board must report, in its annual report, each transaction that the board has performed in the year to which the report relates that was invalid under clause 1B but enforced in reliance on subclause (1).
-(5) For the avoidance of doubt, this section does not affect any person's remedies (for example, remedies in contract) under the general law.
+### 16 Cultural diversity, Treaty of Waitangi, tikanga Māori, and te reo Māori
+(1) A board must take all reasonable steps to ensure that the policies and practices for its school reflect New Zealand’s cultural diversity and the unique position of the Māori culture.
+(2) In performing its functions and exercising its powers, a board must take all reasonable steps to act in a manner that is consistent with the principles of the Treaty of Waitangi.
+(3) Without limiting subclauses (1) and (2), a board must take all reasonable steps to provide instruction in tikanga Māori (Māori culture) and te reo Māori (the Māori language) for full-time students whose parents ask for it.
 
-### 1D Acts that are not in best interests of board
-It is irrelevant to the validity of an act that the act is not, or would not be, in the best interests of a board.
+### 17 Delegations
+(1) A board may delegate any of the functions or powers of the board or the trustees, either generally or specifically, to any of the following persons by resolution and written notice to the person or persons:
+  (a) a trustee or trustees:
+  (b) the principal or any other employee or employees, or office holder or holders of the board:
+  (c) a committee consisting of at least 2 persons at least 1 of whom is a trustee:
+  (d) any other person or persons approved by the Minister:
+  (e) any class of persons that comprises any of the persons listed in paragraphs (a) to (d).
+(2) Subclause (1) does not apply to any functions or powers specified in this Act as not being capable of delegation.
+(3) The board must not delegate the general power of delegation.
+(4) A delegate to whom any function or power is delegated may,—
+  (a) unless the delegation provides otherwise, perform the function or exercise the power in the same manner, subject to the same restrictions, and with the same effect as if the delegate were the board or the trustees; and
+  (b) delegate the function or power only—
+    (i) with the prior written consent of the board; and
+    (ii) subject to the same restrictions, and with the same effect, as if the subdelegate were the delegate.
+(5) A delegate who purports to perform a function or exercise a power under a delegation—
+  (a) is, in the absence of proof to the contrary, presumed to do so in accordance with the terms of that delegation; and
+  (b) must produce evidence of his or her authority to do so if reasonably requested to do so.
+(6) No delegation in accordance with this Act—
+  (a) affects or prevents the performance of any function or the exercise of any power by the board or the trustees; or
+  (b) affects the responsibility of the board for the actions of any delegate acting under the delegation; or
+  (c) is affected by any change in the membership of the board or of any committee or class of persons.
+(7) A delegation may be revoked at will by—
+  (a) resolution of the board and written notice to the delegate; or
+  (b) any other method provided for in the delegation.
+(8) A delegation under subclause (4)﻿(b) may be revoked at will by written notice of the delegate to the subdelegate.
+(9) The board may, by resolution, appoint committees—
+  (a) to advise it on any matters relating to the board's functions and powers that are referred to the committee by the board; or
+  (b) to perform or exercise any of the board's functions and powers that are delegated to the committee.
+(10) A person must not be appointed as a member of a committee unless, before appointment, he or she discloses to the board the details of any financial interest that would disqualify the person from being a trustee under section 103A.
+(11) This clause applies to each member of a committee who is not a trustee with any necessary modifications.
 
-### 1E Dealings between boards and other persons
-(1) A board may not assert against a person dealing with the board that—
-  (a) a person held out by the board to be a member, office holder, chief executive, employee, or agent of the board (as the case may be)—
-    (i) has not been duly appointed in that capacity or has ceased to be appointed in that capacity; or
-    (ii) does not have the authority to exercise a power that, given the nature of the board, a person appointed to that capacity customarily has authority to exercise; or
-    (iii) does not have the authority to exercise a power that the board holds him or her out as having; or
-  (b) a document issued on behalf of the board by a member, office holder, chief executive, employee, or agent of the board with actual or usual authority to issue the document is not valid or genuine.
-(2) However, a board may assert any of those matters if the person dealing with the board has, or ought reasonably to have had, knowledge of the matter.
-(3) Nothing in this clause affects a person's right to apply, in accordance with the law, for judicial review.
+### 18 Bylaws
+A board may make bylaws that the board thinks necessary or desirable for the control and management of the school.
 
-### 1F Interpretation
-In clauses 1B to 1E, unless the context otherwise requires,—
+**Validity of acts and liability**
+
+### 19 Interpretation
+In this clause and clauses 20 to 24, unless the context otherwise requires,—
   - **act** includes a transfer of property, rights, or interests to or by a board
   - **do** includes—
     (a) to do an act; and
@@ -8928,88 +9717,195 @@ In clauses 1B to 1E, unless the context otherwise requires,—
     (a) means the other party to the transaction, if the act of the board is a transaction; and
     (b) includes a person who has acquired property, rights, or interests from a board.
 
-### 1G Directions under section 107 of Crown Entities Act 2004
-(1) A board must comply with any direction given under section 107 of the Crown Entities Act 2004.
-(2) The board may be dissolved under section 78I(1)﻿(e) if it does not.
+### 20 Acts in breach of statute are invalid
+(1) An act of a board is invalid, unless clause 21 applies, if it is—
+  (a) an act that is contrary to, or outside the authority of, an Act; or
+  (b) an act that is done otherwise than for the purpose of performing its functions.
+(2) Subclause (1) does not limit any discretion of a court to grant relief in respect of a minor or technical breach.
 
-### 2 Boards exempt from taxation
-(1) Every board is hereby deemed to be the agent of the Crown in respect of its property and the exercise of its functions, and is entitled accordingly to all the privileges the Crown enjoys in respect of exemption from taxation and the payment of fees or charges, and from other obligations.
+### 21 Some natural person acts protected
+(1) Clause 20, or any rule of law to similar effect, does not prevent a person dealing with a board from enforcing a transaction that is a natural person act unless the person dealing with the board knew, or ought reasonably to have known,—
+  (a) that an express restriction in an Act makes the act contrary to, or outside the authority of, the Act; or
+  (b) that the act was done otherwise than for the purpose of performing the board’s functions.
+(2) In this clause, natural person act—
+  (a) means an act that a natural person of full age and capacity can do (whether or not the act is something that is also authorised by an Act); and
+  (b) includes entry into a contract for, or relating to,—
+    (i) acquisition of financial products (within the meaning of section 7 of the Financial Markets Conduct Act 2013) or borrowing of money; or
+    (ii) the purchase, leasing, or sale of, or other dealings with, property; or
+    (iii) the employment, or engagement of the services, of a person.
+(3) A person who relies on subclause (1) has the onus of proving that that person did not have, and ought not reasonably to have had, the knowledge referred to in that subclause.
+(4) A board must report, in its annual report, each transaction that the board has performed in the year to which the report relates that was invalid under clause 20 but enforced in reliance on subclause (1).
+(5) To avoid doubt, this clause does not affect any person's remedies (for example, remedies in contract) under the general law.
+
+### 22 Acts that are not in best interests of board
+It is irrelevant to the validity of an act that the act is not, or may not be, in the best interests of a board.
+
+### 23 Dealings between boards and other persons
+(1) A board may not assert against a person dealing with the board that—
+  (a) a person held out by the board to be a member, office holder, chief executive, employee, or agent of the board (as the case may be)—
+    (i) has not been duly appointed in that capacity or has ceased to be appointed in that capacity; or
+    (ii) does not have the authority to exercise a power that, given the nature of the board, a person appointed to that capacity customarily has authority to exercise; or
+    (iii) does not have the authority to exercise a power that the board holds him or her out as having; or
+  (b) a document issued on behalf of the board by a member, office holder, chief executive, employee, or agent of the board who has actual or usual authority to issue the document is not valid or genuine.
+(2) However, a board may assert any of those matters if the person dealing with the board has, or ought reasonably to have had, knowledge of the matter.
+(3) Nothing in this clause affects a person's right to apply, in accordance with the law, for judicial review.
+
+### 24 Trustees not personally liable
+(1) A trustee is not personally liable for—
+  (a) any act done or omitted by the board; or
+  (b) any loss to the board arising out of any act done or omitted by the trustee.
+(2) However, subclause (1) applies only if the act or omission was (so far as the trustee's involvement is concerned) in good faith in carrying out or intending to carry out the functions of the board.
+
+### Part 3 — Financial and property matters and application of Crown Entities Act 2004
+
+### 25 Board to be financially responsible
+A board must perform its functions and exercise its powers in a way that is financially responsible.
+
+### 26 Application of Crown Entities Act 2004
+(1) Every board is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+(2) However, that Act applies to boards only to the extent that subclause (3) provides.
+(3) The provisions of the Crown Entities Act 2004 set out in Schedule 3 of that Act and Schedule 5A of this Act apply to boards and their Crown entity subsidiaries (within the meaning of the Crown Entities Act 2004).
+
+### 27 Directions under section 107 of Crown Entities Act 2004
+(1) A board must comply with any direction given under section 107 of the Crown Entities Act 2004.
+(2) If the board does not comply with a direction, it may be dissolved under section 78I(1)﻿(e).
+
+### 28 Restrictions on acquisition of securities
+(1) Sections 160 and 161 of the Crown Entities Act 2004 apply.
+(2) Under section 161 of that Act, a board must not acquire securities—
+  (a) other than—
+    (i) a debt security denominated in New Zealand dollars that is issued by a registered bank, or by any other entity, that satisfies a credit-rating test that is specified in either regulations made under Part 4 of that Act or a notice in the Gazette published by the Minister of Finance; or
+    (ii) a public security; or
+  (b) otherwise than as provided in—
+    (i) any regulations made under Part 4 of that Act; or
+    (ii) any approval given jointly by the Minister of Education and the Minister of Finance; or
+    (iii) this Act.
+
+### 29 Restrictions on borrowing
+(1) Sections 160 and 162 of the Crown Entities Act 2004 apply.
+(2) Under sections 160 and 162 of that Act, a board must not borrow from any person, or amend the terms of any borrowing, otherwise than as provided in—
+  (a) any regulations made under Part 4 of that Act; or
+  (b) any approval given jointly by the Minister of Education and the Minister of Finance; or
+  (c) this Act.
+
+### 30 No delegation of power to borrow
+A board must not delegate any power to borrow money that it may have under section 160 or 162 of the Crown Entities Act 2004.
+
+### 31 Restrictions on giving of guarantees and indemnities
+(1) Sections 160 and 163 of the Crown Entities Act 2004 apply.
+(2) Under sections 160 and 163 of that Act, a board must not, with or without security, give a guarantee to, or indemnify, another person otherwise than as provided in—
+  (a) any regulations made under Part 4 of that Act; or
+  (b) any approval given jointly by the Minister of Education and the Minister of Finance; or
+  (c) this Act.
+
+### 32 Restrictions on use of derivatives
+(1) Sections 160 and 164 of the Crown Entities Act 2004 apply.
+(2) Under sections 160 and 164 of that Act, a board must not enter into an agreement constituting a derivative, or amend the terms of that agreement, otherwise than as provided in—
+  (a) any regulations made under Part 4 of that Act; or
+  (b) any approval given jointly by the Minister of Education and the Minister of Finance; or
+  (c) this Act.
+
+### 33 Gifts
+(1) Any money or property that is gifted to a school may be accepted or disclaimed by the board in accordance with section 167 of the Crown Entities Act 2004.
+(2) A limitation that is provided in this Act or that applies under the Crown Entities Act 2004 (such as a limitation on the form in which property may be held) does not apply during a period that is reasonable in the circumstances.
+(3) Subclauses (1) and (2) apply to any gift that is received by the board for funding scholarships or bursaries, or for other educational purposes in connection with a school.
+(4) A board must hold every such gift for the specific purpose declared by the giver.
+(5) Unless the giver has created a special trust, scholarships and bursaries from a gift must be open to every student at the school.
+(6) If the school for which a gift was given closes, the Minister must direct that the gift should apply to another school.
+
+### 34 Real property
+Except as provided in clause 33, a board must not acquire an interest in land, or any licence to occupy any land or premises, without the consent of the Minister.
+
+### 35 Occupancy of property and buildings
+(1) The Secretary may from time to time, by notice in the Gazette, specify terms and conditions applying generally to land and buildings occupied by boards, and may from time to time, by written notice to a particular board, specify terms and conditions applying to land and buildings occupied by that board.
+(2) A notice under subclause (1)—
+  (a) may apply to any land and buildings occupied by a board (regardless of who owns the property); but
+  (b) to the extent that it applies to the board of a State integrated school, is subject to Part 33 and to the integration agreement for the time being in force between the Minister and the proprietor of the school.
+(3) Terms and conditions under subclause (1) may include such matters as standards of maintenance, standards of capital works, and minimum safety and health requirements.
+(4) Subclause (3) does not limit the generality of subclause (1).
+(5) Terms and conditions may be specified under subclause (1) in respect of—
+  (a) a particular school or institution or particular schools or institutions; or
+  (b) schools or institutions of particular classes or descriptions; or
+  (c) all schools and institutions.
+(6) A notice published in the Gazette under subclause (1) may contain the terms and conditions in their entirety or provide a general description of those terms and conditions and indicate where the full text can be obtained.
+(7) Terms and conditions specified under subclause (1) apply to boards or a board (as the case may be) as if—
+  (a) the land and buildings were owned by the Crown and the Crown has leased them to the board; and
+  (b) the terms and conditions were part of the lease; and
+  (c) the Crown had empowered the Secretary to exercise the Crown's powers concerning the lease.
+
+### 36 Leases and licences granted by boards
+(1) A board may, with the written consent of the Secretary, grant a lease or a licence to occupy to any person in respect of any land, buildings, or facilities occupied by the board.
+(2) The Secretary may agree to the grant of a lease or a licence by the board only if satisfied that—
+  (a) the land, building, or facilities are not needed or used for the purposes of the school during the time covered by the lease or licence; and
+  (b) the lease or licence is in the public interest; and
+  (c) the lease or licence—
+    (i) is for a purpose associated with educational outcomes and will bring educational benefit to the school or its community, or to any other school; or
+    (ii) is for a community purpose, and will bring no educational disadvantage to the school.
+(3) The Secretary must determine the terms and conditions of any lease or licence granted by a board by doing either or both of the following:
+  (a) publishing a notice in the Gazette that specifies the general terms and conditions that apply to all, or specified classes of, leases or licences:
+  (b) giving written notice to the board.
+(4) Clause 35(6) applies to a Gazette notice under subclause (3)﻿(a).
+(5) In relation to a State integrated school, this clause applies subject to Part 33 and to any integration agreement in force between the Minister and the proprietor of the school.
+
+### 37 Other agreements to occupy school land or buildings
+(1) In this clause, agreement means an agreement, other than a lease or a licence to occupy under clause 36, between a board and any other person for the use of land, buildings, or facilities occupied by the board.
+(2) A board may not enter into an agreement unless—
+  (a) the agreement is of a type permitted by Gazette notice under subclause (5); and
+  (b) the agreement is consistent with this clause and any conditions specified by Gazette notice under subclause (5).
+(3) It is a condition of every agreement that the board has the right to enter, at any time, the land, buildings, or facilities that are the subject of the agreement.
+(4) No person has the right under an agreement to use or occupy any land, buildings, or facilities in such a way as to unduly interfere with the use, by the board for school purposes, of that land or those buildings or facilities, or any other land, buildings, or facilities of the school.
+(5) The Secretary may, by notice in the Gazette,—
+  (a) identify the kinds of agreements (for example, agreements for the use of playing fields) that boards may enter into; and
+  (b) specify conditions to which agreements, or specified types of agreements, are subject.
+(6) Clause 35(6) applies to a Gazette notice under subclause (5)﻿(b).
+(7) In relation to a State integrated school, this clause applies subject to Part 33 and to any integration agreement in force between the Minister and the proprietor of the school.
+
+### 38 Boards exempt from taxation
+(1) Every board is taken to be the agent of the Crown in respect of its property and the exercise of its functions, and is accordingly entitled to all the privileges the Crown enjoys in respect of exemption from taxation and the payment of fees or charges, and from other obligations.
 (2) Nothing in subclause (1) exempts a board from—
   (a) the payment of goods and services tax under the Goods and Services Tax Act 1985; or
   (b) any obligation imposed by that Act.
 
-### 3 Names of boards
-The name of a board is The [name of school or institution] Board of Trustees.
+### Part 4 — Meetings and procedure
 
-### 4 Trustees not personally liable
-No trustee is personally liable for—if the act or omission was (so far as the trustee's involvement is concerned) in good faith in pursuance or intended pursuance of the functions of the board.
-  (a) any act done or omitted by the board; or
-  (b) any loss to the board arising out of any act done or omitted by the trustee,—
+### 39 Affixing of board's seal
+(1) A board's common seal must not be affixed to a document except pursuant to a resolution of the board.
+(2) The affixing of a board's common seal to a document must be countersigned by at least 2 trustees.
 
-### 5 Affixing of board's seal
-(1) A board's common seal shall not be affixed to a document except pursuant to a resolution of the board.
-(2) The affixing of a board's common seal to a document shall be countersigned by at least 2 trustees.
+### 40 Meetings
+(1) A board must hold a meeting not later than 3 months after its previous meeting, at a time and place determined at the previous meeting.
+(2) If, at any meeting of the board, the board does not determine a time and place for its next meeting, the time and place of its next meeting must be determined—
+  (a) by the presiding trustee for the time being appointed under clause 41; or
+  (b) if no trustee is for the time being appointed to preside and a trustee who presided at the board's previous meeting is still a trustee, by that trustee; and
+  (c) in any other case, by the principal.
+(3) When a casual vacancy occurs, the person for the time being appointed under clause 41, or, where there is no such person, the principal, must fix a place for a meeting of the board to deal with the vacancy on a day that is—
+  (a) within 28 days of the vacancy occurring, if it occurs during any period of 6 months commencing on 1 October in a year before an election year; or
+  (b) within 8 weeks of the vacancy occurring, if it occurs at any other time.
+(4) No business may be transacted at any meeting of the board unless more than half the trustees then holding office are present.
+(5) At a meeting of the board,—
+  (a) the person for the time being appointed under clause 41 must preside if present; or
+  (b) if that person is not present, a trustee (not being the principal or a staff or student representative) appointed by the board at the meeting must preside.
+(6) Every question before a board must be decided by a majority of the votes cast on it by the trustees who are present.
+(7) At a meeting of the board, the person presiding has a deliberative vote on every question and, on any question where deliberative votes for and against are equal, also has a casting vote.
+(8) Subject to subclause (11), a trustee who has a pecuniary interest in any matter or any interest that may reasonably be regarded as likely to influence a trustee in carrying out his or her duties and responsibilities as a trustee must be excluded from any meeting of the board while it discusses, considers, considers anything relating to, or decides the matter.
+(9) Subject to subclause (11), a trustee who is a member of the board staff must be excluded from any meeting of the board while it discusses, considers, considers anything relating to, or decides any matter relating to the trustee's employment by the board, or to the course of action to be taken following the hearing of a complaint against the trustee (being a complaint against the trustee in the trustee's capacity as a member of the board staff).
+(10) Subject to subclause (11), a trustee who is a student enrolled at the school or institution must be excluded from any meeting of the board while it discusses, considers, considers anything relating to, or decides any matter relating to the trustee as an individual student.
+(11) A trustee may attend any meeting of the board to give evidence, make submissions, or answer questions.
+(12) A meeting of the board may be held—
+  (a) by more than half the trustees then holding office being assembled together at the time and place appointed for the meeting; or
+  (b) by means of audio, audiovisual, or electronic communication, but only if—
+    (i) all of the trustees who wish to participate in the meeting have access to the technology needed to participate in the meeting; and
+    (ii) a quorum of members can simultaneously communicate with each other throughout the meeting.
+(13) A resolution signed or assented to in writing (whether sent by post, courier, or electronic communication) by all members is as valid and effectual as if it had been passed at a meeting of the board correctly called and constituted.
+(14) The resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
+(15) Except as provided in this Act, every board must determine its own procedures.
 
-### 6 Actions of boards not to be questioned for informality in membership
-The powers of a board are not affected by—
-  (a) any vacancy in its membership; or
-  (b) the discovery of any error or defect in the election, appointment, or co-option of any trustee; or
-  (c) the fact that any elected, appointed, or co-opted trustee acted as a trustee while a person who may not (in terms of section 103(1)) become an elected, appointed, or co-opted trustee; or
-  (d) the fact that a person continued acting as a trustee after the person's office as a trustee became vacant and (in the case of a person whose election as a trustee has been declared invalid under clause 9 or by a court), before the person's election was declared invalid.
-
-### 7 One trustee to preside at meetings
+### 41 One trustee to preside at meetings
 (1) Every board must appoint a trustee (not being the principal or a staff or student representative) to preside at meetings of the board.
 (2) The appointment must be made—
   (a) at the board's first meeting in any year, unless it is an election year, in which case it must be at the first meeting held after the election; and
-  (b) when the board has resolved that it has no confidence in the person for the time being appointed; and
-  (c) when the person for the time being appointed ceases to be a trustee, or resigns the task by notice in writing to the board.
-
-### 8 Meetings
-(1) Every board shall hold a meeting not later than 3 months after its previous meeting, at a time and place determined at the previous meeting.
-(2) Where a board does not at any meeting determine a time and place for its next meeting, the time and place of its next meeting shall be determined—
-  (a) by the person for the time being appointed under clause 7; or
-  (b) where no such person is for the time being appointed, and a trustee who presided at the board's previous meeting is still a trustee, by the trustee; and
-  (c) where no such person is for the time being appointed, and either—by the principal.
-    (i) such a person presided at the board's last meeting; or
-    (ii) the trustee who presided at the board's last meeting is no longer a trustee,—
-(3) When a casual vacancy occurs, the person for the time being appointed under clause 7 or, where there is no such person, the principal must fix a place for a meeting of the board to deal with the vacancy, and a time for the meeting that is—
-  (a) within 28 days of the vacancy occurring, if it occurs during any period of 6 months commencing on 1 October in a year before an election year; or
-  (b) within 8 weeks of the vacancy occurring, if it occurs at any other time.
-(4) No business shall be transacted at any meeting of a board unless more than half the trustees then holding office are present.
-(5) At a meeting of a board,—
-  (a) the person for the time being appointed under clause 7 shall preside if present; and
-  (b) otherwise, a trustee (not being the principal or a staff or student representative) appointed by the board at the meeting shall preside.
-(6) Every question before a board shall be decided by a majority of the votes cast on it by trustees present.
-(7) At a meeting of a board, the person presiding has a deliberative vote on every question and, on any question where deliberative votes for and against are equal, also has a casting vote.
-(8) Subject to subclause (11), a trustee who has a pecuniary interest in any matter or any interest that may reasonably be regarded as likely to influence a trustee in carrying out his or her duties and responsibilities as a trustee shall be excluded from any meeting of the board while it discusses, considers, considers anything relating to, or decides, the matter.
-(9) Subject to subclause (11), a trustee who is a member of the board staff shall be excluded from any meeting of the board while it discusses, considers, considers anything relating to, or decides, any matter relating to the trustee's employment by the board, or to the course of action to be taken following the hearing of a complaint against the trustee (being a complaint against the trustee in the trustee's capacity as a member of the board staff).
-(10) Subject to subclause (11), a trustee who is a student enrolled at the school or institution shall be excluded from any meeting of the board while it discusses, considers, considers anything relating to, or decides, any matter relating to the trustee as an individual student.
-(11) A trustee may attend any meeting of the board to give evidence, make submissions, or answer questions.
-(11A) A meeting of the board may be held—
-  (a) by more than half the trustees then holding office being assembled together at the time and place appointed for the meeting; or
-  (b) by means of audio, audio and visual, or electronic communication provided that—
-    (i) all of the trustees who wish to participate in the meeting have access to the technology needed to participate in the meeting; and
-    (ii) a quorum of members can simultaneously communicate with each other throughout the meeting.
-(11B) A resolution signed or assented to in writing (whether sent by post, delivery, or electronic communication) by all members is as valid and effectual as if it had been passed at a meeting of the board duly called and constituted.
-(11C) The resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
-(12) Except as provided in this Act, every board shall determine its own procedures.
-
-### 9 Validation and invalidation of elections of boards
-(1) Where—the Minister may, by notice in the Gazette, validate the lateness, omission, or irregularity.
-  (a) anything required to be done in connection with an election under this Act—
-    (i) has been done after the time it is required to be done; or
-    (ii) has not been done at all; or
-    (iii) has been done irregularly; and
-  (b) the Minister thinks the lateness, omission, or irregularity could not materially have affected the result of the election,—
-(2) Where anything required to be done in connection with an election under this Act cannot be done at or by the time at or by which it is required to be done, the Minister may, at any time, by notice in the Gazette, extend the time for doing it.
-(3) Subclause (3A) applies if there occurs in connection with an election under this Act—
-  (a) any lateness, omission, or irregularity that is capable of being validated under this clause, but which the Minister thinks would be improper or undesirable to validate; or
-  (b) any other irregularity that the Minister thinks could materially have affected the result of the election.
-(3A) If this subclause applies to an election, the Minister may at any time within 60 days of the election, by notice in the Gazette,—
-  (a) declare the election invalid; and
-  (b) require a new election to be held on a day specified in the notice; and
-  (c) declare that the trustees holding office on the date of the invalid election remain in office until the close of the day before the day on which the new trustees take office.
-(4) Every notice under this clause shall have effect according to its tenor.
+  (b) if the board has resolved that it has no confidence in the person for the time being appointed; and
+  (c) if the person for the time being appointed ceases to be a trustee, or resigns the task by notice in writing to the board.
 
 ## Schedule 7 — New Zealand Teachers Council and members
 
