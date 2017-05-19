@@ -1,5 +1,5 @@
 # Private Schools Conditional Integration Act 1975
-_Consolidation as at 2016-10-29_
+_Consolidation as at 2017-05-19_
 
 > An Act to make provision for the conditional and voluntary integration of private schools into the State system of education in New Zealand on a basis which will preserve and safeguard the special character of the education provided by them
 
