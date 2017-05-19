@@ -1,5 +1,5 @@
 # Education Amendment Act 2010
-_Consolidation as at 2010-05-19_
+_Consolidation as at 2017-05-19_
 
 ### 1 Title
 This Act is the Education Amendment Act 2010.
@@ -18,7 +18,7 @@ This Part amends the Education Act 1989.
   (2) In this Part, and Parts 2 and 3, unless the context otherwise requires, a special school, special class, special clinic, or special service means a school, class, clinic, or service established under section 98(1) of the Education Act 1964 as a special school, special class, special clinic, or special service respectively.
 
 ### 5 Enrolment of foreign students
-Section 4(1)(b) is amended by omitting concerned; but and substituting concerned.
+Section 4(1)﻿(b) is amended by omitting concerned; but and substituting concerned.
 
 ### 6 Special education
 The compare note for section 9 is repealed.
@@ -27,7 +27,7 @@ The compare note for section 9 is repealed.
 The compare note for section 10 is repealed.
 
 ### 8 How a school defines its home zone
-Section 11E(2)(c) is amended by omitting which and substituting that.
+Section 11E(2)﻿(c) is amended by omitting which and substituting that.
 
 ### 9 Amendment of enrolment scheme
 Section 11M(3) is amended by omitting enrolment scheme, in order and substituting enrolment scheme in order.
@@ -58,11 +58,11 @@ Section 35A is amended by repealing subsection (9) and substituting the followin
 ### 16 Interpretation
 (1) Section 60 is amended by omitting and Part 8 and substituting Part 7A, and Part 8.
 (2) Paragraph (a) of the definition of board in section 60 is amended by omitting school means and substituting school, means.
-(3) Section 60 is amended by repealing the definition of domestic student and substituting the following definition:.
+(3) Section 60 is amended by repealing the definition of domestic student and substituting the following definition:
   - **domestic student** has the same meaning as in section 2(1)
-(4) Section 60 is amended by repealing the definition of foreign student and substituting the following definition:.
+(4) Section 60 is amended by repealing the definition of foreign student and substituting the following definition:
   - **foreign student** has the same meaning as in section 2(1)
-(5) Section 60 is amended by inserting the following definitions in their appropriate alphabetical order:.
+(5) Section 60 is amended by inserting the following definitions in their appropriate alphabetical order:
   - **Teachers Council** means the New Zealand Teachers Council established under Part 10A
   - **unsupervised access to students** , in relation to a school, means access to any student on the school's premises that is not access by, or supervised by, or otherwise observed by, or able to be directed (if necessary) by, any 1 or more of the following:
     (a) a registered teacher or holder of a limited authority to teach:
@@ -79,7 +79,7 @@ Section 65B(1) is amended by omitting half days and substituting half-days.
 Section 65D(3) and (5) are amended by omitting half day and substituting in each case half-day.
 
 ### 20 Restrictions on acquisition of securities
-Section 73(2)(c)(ii) is amended by omitting Finance: or and substituting Finance; or.
+Section 73(2)﻿(c)﻿(ii) is amended by omitting Finance: or and substituting Finance; or.
 
 ### 21 New sections 78C to 78CD substituted
 Sections 78C to 78CB are repealed and the following sections substituted:Police vetting of non-teaching and unregistered employees at schoolsPolice vetting of contractors and their employees who work at schoolsPolice vet must be obtained before person has unsupervised access to studentsFurther Police vets to be obtained under this Part every 3 yearsProcedures relating to Police vets
@@ -114,7 +114,7 @@ Section 78N is amended by adding the following subsection:
 
 ### 24 Interpretation
 (1) The definition of board in section 92(1) is amended by omitting Part; and— and substituting Part; and,—.
-(2) The definition of principal in section 92(1) is amended by omitting 94(c) and substituting 94(1)(c).
+(2) The definition of principal in section 92(1) is amended by omitting 94(c) and substituting 94(1)﻿(c).
 (3) Paragraph (c) of the definition of special institution in section 92(1) is amended by omitting a hospital and substituting or a hospital.
 (4) The definition of State school in section 92(1) is amended by omitting secondary school; and— and substituting secondary school; and,—.
 
@@ -122,12 +122,12 @@ Section 78N is amended by adding the following subsection:
 Section 98(1) is amended by omitting members shall be— and substituting members are,—.
 
 ### 26 Elections of trustees
-(1) Section 101(4) is amended by repealing paragraph (a) and substituting the following paragraph:.
+(1) Section 101(4) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) in the case of a school that is not a correspondence school,—
     (i) on a date fixed by the board that is within the range of dates for those elections in that election year that is specified by the Minister by notice in the Gazette; or
     (ii) if the Minister has not, by notice in the Gazette published on or by 31 October in any year, specified a range of dates for those elections in that election year, on a date fixed by the board that is within the range of dates for those elections in the previous election year; and
 (2) Section 101 is amended by inserting the following subsection after subsection (4):
-  (4A) The notice referred to in subsection (4)(a) may specify different ranges of dates, for elections under subsection (3), for boards that have, and for schools that have not, adopted staggered election cycles under section 101A.
+  (4A) The notice referred to in subsection (4)﻿(a) may specify different ranges of dates, for elections under subsection (3), for boards that have, and for schools that have not, adopted staggered election cycles under section 101A.
 (3) Section 101(10) is amended by adding , and to section 101AB (which provides that elections are not to be held when a school is under notice of closure).
 
 ### 27 New section 101AB inserted
@@ -149,7 +149,7 @@ Section 112(3) is amended by omitting subsection (4) of this section and substit
 The following section is inserted after section 112:Splitting boards that were combined at establishment
   (1) A Minister who, under section 112(1), is splitting a board that was combined under section 110A at establishment for 2 or more schools may designate 1 of the boards established under section 112(1) as being identical to the board that was established under section 110A, except that it need not be a combined board.
   (2) A board that is designated under subsection (1) is to be treated, for the purposes of section 98, as if it were the board of a newly established school.
-  (3) This section overrides section 112(3)(b) and (4)(a).
+  (3) This section overrides section 112(3)﻿(b) and (4)﻿(a).
 
 ### 32 Applications for registration as teacher
 The compare note for section 121 is repealed.
@@ -167,7 +167,7 @@ The following section is inserted after section 128:Matching of register informa
       (i) the person's employer; and
       (ii) the person's registration status; and
     (b) the Ministry, in regard to regular teachers in receipt of salaries at payrolled schools, to identify their salary entitlement or eligibility, if any, for an allowance on the basis of their registration, if any.
-  (2) For the purpose set out in subsection (1)(a), the Teachers Council may from time to time, in accordance with arrangements under the Privacy Act 1993 previously agreed between the Secretary and the Teachers Council,—
+  (2) For the purpose set out in subsection (1)﻿(a), the Teachers Council may from time to time, in accordance with arrangements under the Privacy Act 1993 previously agreed between the Secretary and the Teachers Council,—
     (a) require the Secretary to supply all or any of the following information in regard to all or any regular teachers in receipt of salaries at payrolled schools:
       (i) surname:
       (ii) first name:
@@ -178,7 +178,7 @@ The following section is inserted after section 128:Matching of register informa
       (vii) payroll number:
       (viii) registration number; and
     (b) compare the information supplied under paragraph (a) with the information contained in the register.
-  (3) For the purpose set out in subsection (1)(b), the Secretary may from time to time, in accordance with arrangements under the Privacy Act 1993 previously agreed between the Secretary and the Teachers Council,—
+  (3) For the purpose set out in subsection (1)﻿(b), the Secretary may from time to time, in accordance with arrangements under the Privacy Act 1993 previously agreed between the Secretary and the Teachers Council,—
     (a) require the Teachers Council to supply all or any of the following information in regard to all or any people registered as teachers:
       (i) surname:
       (ii) first name:
@@ -199,7 +199,7 @@ The compare note for section 137 is repealed.
 Section 139AE(k) is amended by omitting and other people employed in schools and early childhood services.
 
 ### 38 Powers of Complaints Assessment Committee
-Section 139AT(2) is amended by repealing paragraph (c) and substituting the following paragraph:.
+Section 139AT(2) is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) refer the teacher concerned to an impairment process which may involve either or both of the following:
     (i) assessment of an impairment:
     (ii) assistance with an impairment:
@@ -232,19 +232,19 @@ The following section is inserted after section 139AU:Duration of interim suspen
   (4) A teacher whose practising certificate or authority is subject to an interim suspension under section 139AU that is renewed under subsection (3) may, at any time during a further period of interim suspension, make representations in respect of the interim suspension to the Disciplinary Tribunal at a hearing, if he or she believes that there is an unreasonable delay in concluding the matter.
   (5) A hearing under subsection (4) is a hearing before the Disciplinary Tribunal, and sections 139AX to 139AZB apply to it.
   (6) For the purposes of this section, a matter is concluded when the latest of the following occurs in relation to the complaint:
-    (a) the Complaints Assessment Committee has carried out whatever action it decides to take under section 139AT(2)(a) to (d):
-    (b) the Complaints Assessment Committee has carried out whatever action it decides to take under section 139AV(2)(a) to (d):
-    (c) the Disciplinary Tribunal has carried out whatever action it decides to take under section 139AW(1)(a) to (i), if the Complaints Assessment Committee has referred the matter to the Disciplinary Tribunal under any of sections 139AT(3) or (4) or 139AV(3).
+    (a) the Complaints Assessment Committee has carried out whatever action it decides to take under section 139AT(2)﻿(a) to (d):
+    (b) the Complaints Assessment Committee has carried out whatever action it decides to take under section 139AV(2)﻿(a) to (d):
+    (c) the Disciplinary Tribunal has carried out whatever action it decides to take under section 139AW(1)﻿(a) to (i), if the Complaints Assessment Committee has referred the matter to the Disciplinary Tribunal under any of sections 139AT(3) or (4) or 139AV(3).
 
 ### 41 Investigation by Complaints Assessment Committee of reports of convictions
-Section 139AV(2) is amended by repealing paragraph (c) and substituting the following paragraph:.
+Section 139AV(2) is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) refer the teacher concerned to an impairment process which may involve either or both of the following:
     (i) assessment of an impairment:
     (ii) assistance with an impairment:
 
 ### 42 Complaints about competence
 (1) Section 139AZC(8) is amended by omitting may— and substituting may do any of the following:.
-(2) Section 139AZC(8) is amended by repealing paragraph (b) and substituting the following paragraph:.
+(2) Section 139AZC(8) is amended by repealing paragraph (b) and substituting the following paragraph:
   (b) refer the teacher to an impairment process which may involve either or both of the following:
     (i) assessment of an impairment:
     (ii) assistance with an impairment:
@@ -274,7 +274,7 @@ Section 207(5) is amended by adding the following paragraphs:
   (g) section 354 of the Resource Management Act 1991.
 
 ### 48 Annual report
-Section 220(2A)(e)(ii) is amended by omitting institution: and substituting institution; and.
+Section 220(2A)﻿(e)﻿(ii) is amended by omitting institution: and substituting institution; and.
 
 ### 49 Disclosure of enrolment information by institutions
 Section 226A(9) is amended by omitting section 226A of the Education Act 1989 and substituting this section.
@@ -283,11 +283,11 @@ Section 226A(9) is amended by omitting section 226A of the Education Act 1989 an
 The heading after section 229D is repealed.
 
 ### 51 Export education levy
-Section 238H(2)(d) is amended by omitting provider; and and substituting provider.
+Section 238H(2)﻿(d) is amended by omitting provider; and and substituting provider.
 
 ### 52 Definitions
 (1) The definition of secondary school in section 246 is repealed.
-(2) Section 246 is amended by inserting the following definition in its appropriate alphabetical order:.
+(2) Section 246 is amended by inserting the following definition in its appropriate alphabetical order:
   - **relevant school** means—
     (a) a secondary school (as that term is defined in section 2(1)); or
     (b) a composite school (as that term is defined in section 2(1)); or
@@ -295,14 +295,14 @@ Section 238H(2)(d) is amended by omitting provider; and and substituting provide
     (d) a special school (as that term is defined in section 2(2), except that a special school is not deemed to be a primary school for the purposes of this Part, despite the proviso to section 98(1) of the Education Act 1964)
 
 ### 53 Functions of Authority
-(1) Section 253(1)(a) is amended by omitting secondary and substituting relevant.
-(2) Section 253(1)(b) is amended by—
+(1) Section 253(1)﻿(a) is amended by omitting secondary and substituting relevant.
+(2) Section 253(1)﻿(b) is amended by—
   (a) omitting secondary and substituting relevant; and
   (b) omitting or private training establishment.
-(3) Section 253(1)(c) is amended by omitting secondary and substituting relevant.
-(4) Section 253(1)(d) is amended by omitting and private training establishments.
-(5) Section 253(1)(e) is amended by omitting , secondary schools, and private training establishments.
-(6) Section 253(1)(f) is amended by omitting , secondary schools, or private training establishments.
+(3) Section 253(1)﻿(c) is amended by omitting secondary and substituting relevant.
+(4) Section 253(1)﻿(d) is amended by omitting and private training establishments.
+(5) Section 253(1)﻿(e) is amended by omitting , secondary schools, and private training establishments.
+(6) Section 253(1)﻿(f) is amended by omitting , secondary schools, or private training establishments.
 (7) Section 253 is amended by inserting the following subsection after subsection (1):
   (1A) In this section, institution means an institution, government training establishment, registered establishment, or relevant school.
 
@@ -333,7 +333,7 @@ Section 266(2) is amended by omitting secondary and substituting relevant.
 Section 268(1) is amended by omitting secondary and substituting relevant.
 
 ### 62 Continuation of Board
-Section 281(2)(b) is amended by omitting members; and and substituting members.
+Section 281(2)﻿(b) is amended by omitting members; and and substituting members.
 
 ### 63 New section 283C substituted
 Section 283C is repealed and the following section substituted:Contents of statement of intent
@@ -344,7 +344,7 @@ Section 283C is repealed and the following section substituted:Contents of state
 ### 64 Recipients of allowances or student loans may be required to provide information
 (1) The heading to section 307 is amended by inserting , and other persons, after loans.
 (2) Section 307(1) is amended by inserting and sections 307AAA and 307AA after this section.
-(3) Section 307(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
+(3) Section 307(1) is amended by inserting the following definitions in their appropriate alphabetical order:
   - **change in the recipient's circumstances** includes a change in another person's circumstances that—
     (a) the recipient knows about; and
     (b) the recipient knows materially affects his or her entitlement to a statutory allowance or student loan, or a particular rate of statutory allowance or a particular amount of a student loan
@@ -377,17 +377,17 @@ The following section is inserted after section 307:Suspension or refusal for no
     (c) wilfully fails to comply with section 307(6).
 
 ### 67 Use of student allowance information for purposes of Social Security Act 1964
-Section 307A(2)(e) is amended by omitting information, about and substituting information about.
+Section 307A(2)﻿(e) is amended by omitting information, about and substituting information about.
 
 ### 68 Interpretation
-(1) Section 309 is amended by repealing the definition of hospital-based education and care service and substituting the following definition:.
+(1) Section 309 is amended by repealing the definition of hospital-based education and care service and substituting the following definition:
   - **hospital-based education and care service** means the provision of education or care to 3 or more children under the age of 6 who are receiving hospital care within the meaning of section 4(1) of the Health and Disability Services (Safety) Act 2001
-(2) Section 309 is amended by repealing the definition of playgroup and substituting the following definition:.
+(2) Section 309 is amended by repealing the definition of playgroup and substituting the following definition:
   - **playgroup** means a group that meets on a regular basis to facilitate children's play and in respect of which—
     (a) no child attends for more than 4 hours on any day; and
     (b) more than half the children attending on any occasion have a parent or caregiver present in the same play area at the same time; and
     (c) the total number of children attending on any occasion is not greater than 4 times the number of parents and caregivers present in the same play area at the same time
-(3) Section 309 is amended by inserting the following definition in its appropriate alphabetical order:.
+(3) Section 309 is amended by inserting the following definition in its appropriate alphabetical order:
   - **unsupervised access to children** , in relation to a licensed early childhood service, means access to any child that is not access by, or supervised by, or otherwise observed by, or able to be directed (if necessary) by, any 1 or more of the following:
     (a) a registered teacher or holder of a limited authority to teach:
     (b) an employee of the service on whom a satisfactory Police vet has been conducted within the last 3 years:
@@ -472,8 +472,7 @@ The validity of any action of the Authority must be determined as if at all mate
   (b) every other reference in Part 20 of the Education Act 1989 to a secondary school were a reference to a relevant school, within the meaning of that term as inserted in section 246 of that Act by section 52 of this Act.
 
 ### 77 Validation in respect of change of proprietor of integrated school
-(1) For the purposes of the Education Act 1989, actions done under that Act or under the Private Schools Conditional Integration Act 1975 before the commencement of this Act are not invalid solely because of a defect or error in the processes relating to a change of proprietor of an integrated school.
-(2) In this section, integrated school and proprietor have the same meanings as in section 2(1) of the Private Schools Conditional Integration Act 1975.
+[Repealed]
 
 **Consequential amendments to Privacy Act 1993**
 
