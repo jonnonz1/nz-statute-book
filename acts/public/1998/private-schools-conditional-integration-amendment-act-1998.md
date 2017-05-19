@@ -1,5 +1,5 @@
 # Private Schools Conditional Integration Amendment Act 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-05-19_
 
 > An Act to amend the Private Schools Conditional Integration Act 1976
 
@@ -16,7 +16,7 @@ This section substituted ss 5 and 6 and inserted s 6A in the principal Act.
 
 ### 4 Integration agreement
 (1) This subsection substituted ss 7(1) and 7(2) of the principal Act.
-(2) This subsection amended s 7(6)(b) of the principal Act.
+(2) This subsection amended s 7(6)﻿(b) of the principal Act.
 (3) The following enactments are consequentially repealed:
   (a) Section 4(2) of the Private Schools Conditional Integration Amendment Act 1977:
   (b) Section 2(1) of the Private Schools Conditional Integration Amendment Act 1986.
@@ -47,16 +47,16 @@ This section amended s 17 of the principal Act.
 This section amended s 18 of the principal Act.
 
 ### 13 Powers and responsibilities of Proprietors
-(1) This section amended s 40(2)(a) of the principal Act.
-(2) This section amended s 40(2)(e) of the principal Act.
-(3) This section substituted s 40(2)(g) of the principal Act.
+(1) This section amended s 40(2)﻿(a) of the principal Act.
+(2) This section amended s 40(2)﻿(e) of the principal Act.
+(3) This section substituted s 40(2)﻿(g) of the principal Act.
 
 ### 14 Leases of land
 This section inserted s 40A in the principal Act.
 
 ### 15 Proprietors unable to meet obligations
-(1) This subsection amended s 44(1)(a) of the principal Act.
-(2) This subsection substituted s 44(1)(c) of the principal Act.
+(1) This subsection amended s 44(1)﻿(a) of the principal Act.
+(2) This subsection substituted s 44(1)﻿(c) of the principal Act.
 
 ### 16 Repeal of provisions relating to Loreto Hall
 (1) Section 59 of the principal Act is amended by repealing subsections (3) to (9).
