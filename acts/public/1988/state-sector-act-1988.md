@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2017-05-19_
 
 > Title
 
@@ -45,7 +45,7 @@ In this Act, unless the context otherwise requires,—
   - **education service** means—
     (a) service in the employment of—
       (i) any State school; or
-      (ii) any integrated school within the meaning of the Private Schools Conditional Integration Act 1975; or
+      (ii) any integrated school within the meaning of Part 33 of the Education Act 1989; or
       (iii) any tertiary institution (unless the institution is a sponsor within the meaning of section 2(1) of the Education Act 1989 and the employment relates to its functions as a sponsor under that Act or to a partnership school contract (as defined in Part 12A of that Act)); or
       (iv) any other educational institution for which a separate employer for the purposes of this Act is designated by any enactment or by the Minister:
     (b) service as a registered teacher in the employment of any free kindergarten association that controls a free kindergarten within the meaning of section 120 of the Education Act 1989:
