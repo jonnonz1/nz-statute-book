@@ -1,5 +1,5 @@
 # Customs and Excise (Tobacco Products—Budget Measures) Amendment Act 2016
-_Consolidation as at 2016-05-30_
+_Consolidation as at 2017-05-29_
 
 ### 1 Title
 This Act is the Customs and Excise (Tobacco Products—Budget Measures) Amendment Act 2016.
@@ -44,8 +44,7 @@ In section 303(3C) of the Education Act 1989, replace 2017 with 2021.
 **Application of Income Tax Act 2007**
 
 ### 8 Application of section MF 7 (Orders in Council)
-(1) Section MF 7(1)﻿(a), (2), and (2B) of the Income Tax Act 2007 (as amended or inserted by section 94(2), (4), and (5) of the Taxation (Budget Measures) Act 2010) apply for Working for Families entitlements for the 2018–19, 2019–20, 2020–21, and 2021–22 tax years.
-(2) Subsection (1) does not limit section 94(6) of the Taxation (Budget Measures) Act 2010 or section 3(1) of the Income Tax (Working for Families Indexation—Budget Measures) Amendment Act 2012.
+[Repealed]
 
 **Amendment to New Zealand Superannuation and Retirement Income Act 2001**
 
