@@ -363,7 +363,7 @@ After section 17B, insert:Review and reassessmentFull reviewFull review: purpose
     (b) at the chief executive’s discretion.
   (2) The chief executive must give notice of a decision to start a limited review as soon as practicable after the decision is made, and that notice must include the date on which the limited review started or will start.
   (1) If the chief executive starts a limited review under section 17M, the chief executive must investigate, in relation to an anti-dumping or a countervailing duty, 1 or more of the matters referred to in section 17L.
-  (2) However, if the matters in section 17L(1)﻿(c) and (d) are both to be investigated, the chief executive must not start a limited review and must instead start a full review under subpart 1.
+  (2) However, if the matters in section 17L(c) and (d) are both to be investigated, the chief executive must not start a limited review and must instead start a full review under subpart 1.
   (3) The chief executive must, within 150 days after starting a limited review, give the notified parties written advice of the essential facts and conclusions that are likely to form the basis for a determination to be made by the Minister under section 17O(1).
   (4) The chief executive must give interested parties a reasonable opportunity—
     (a) to present, in writing, all evidence relevant to the limited review and, on justification being shown, to present that evidence orally; and
