@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2017-03-31_
+_Consolidation as at 2017-05-30_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -1587,10 +1587,9 @@ Any requirement under this Act that the Assignee give notice to a creditor is sa
 (1) The Assignee must prepare a final statement of receipts and payments—
   (a) as soon as practicable after the distribution of the final dividend has been determined; or
   (b) when the whole of the bankrupt's property has been realised, if there are insufficient assets to pay all the proofs of debt.
-(2) The final statement of receipts and payments must—
-  (a) show in detail the receipts and payments in respect of the bankrupt's estate; and
-  (b) be able to be inspected without fee by any creditor or other person who has an interest.
-(3) The Assignee must publish the final statement of receipts and payments in the prescribed manner, and advertise in the prescribed manner that it has been published.
+(2) The final statement of receipts and payments must show in detail the receipts and payments in respect of the bankrupt’s estate.
+(3) The Assignee must provide a copy of the final statement of receipts and payments to any creditor, or other person who has an interest, if the creditor or other person requests a copy.
+(4) The copy must be provided within 20 working days after the Assignee receives the request.
 
 ### 229 Auditor-General may audit Assignee's accounts
 The Auditor-General may, at the Auditor-General's discretion, audit—
@@ -2499,16 +2498,26 @@ In addition to an order for the payment of the debts in instalments, the Assigne
 ### 347 Assignee may require supervisor or past supervisor to provide documents
 The Assignee may, by written notice, require the supervisor or a past supervisor to provide the Assignee within a reasonable period with any document relating to the debtor's property, conduct, or dealings in the supervisor's or past supervisor's possession or under his or her control.
 
-### 348 Termination of appointment for failure to supervise adequately
-The Assignee may terminate the supervisor's appointment if the Assignee considers that the supervisor has failed to supervise the debtor's compliance adequately, and may appoint a replacement supervisor.
+### 348 Termination of supervisor’s appointment
+The Assignee may—
+  (a) terminate the supervisor’s appointment if the Assignee considers—
+    (i) that the supervisor has failed to supervise the debtor’s compliance adequately; or
+    (ii) that, after being appointed, the supervisor has been convicted of an offence involving dishonesty; and
+  (b) appoint a replacement supervisor accordingly.
 
 ### 349 Period of instalments
 The payment of instalments under a summary instalment order may be spread over a period of—
   (a) up to 3 years; or
   (b) up to 5 years, if justified by special circumstances.
 
-### 350 Variation or discharge of order
-The debtor or any creditor or the supervisor may at any time apply to the Assignee to vary or discharge a summary instalment order, and the Assignee may make an order as the Assignee thinks appropriate.
+### 350 Variation or cancellation of order by Assignee on application from debtor, creditor, or supervisor
+The debtor or any creditor or the supervisor may at any time apply to the Assignee to vary or cancel a summary instalment order, and the Assignee may make an order as the Assignee thinks appropriate.
+
+### 350A Cancellation of order by Assignee without application
+The Assignee may (without an application from any person) cancel a summary instalment order if satisfied that the debtor—
+  (a) is in default under the order; or
+  (b) is able immediately to pay the debtor’s unsecured debts (excluding any student loan balance); or
+  (c) cannot be located.
 
 ### 351 Effect of order
 All instalments payable under a summary instalment order must be paid in the prescribed manner.
@@ -2520,7 +2529,7 @@ All instalments payable under a summary instalment order must be paid in the pre
   (c) notified to the supervisor.
 (2) After the summary instalment order has been made, a person must not begin or continue a proceeding unless—
   (a) the Assignee gives permission for a creditor to begin or continue the proceeding (in which case the Assignee may impose any conditions that the Assignee thinks appropriate); or
-  (b) the debtor is in default under the order.
+  (b) the debtor is in default under the order or the order has been cancelled.
 (3) In the case of a proceeding in the District Court, unless subsection (2) applies, the court—
   (a) must halt the proceeding on receiving notice of the order; and
   (b) may award all or part of the creditor's costs incurred up to the time of the court's notification, and may certify accordingly for the purpose of the creditor proving the debt under this subpart.
@@ -2536,7 +2545,7 @@ The supervisor must send a notice of the summary instalment order to every credi
 (2) The register must be maintained in accordance with subpart 5 of Part 7.
 
 ### 355 Meaning of current summary instalment order
-A summary instalment order is not current if it has been discharged or all the instalments required to be paid under the order have been paid in accordance with the order.
+A summary instalment order is not current if it has been cancelled or all the instalments required to be paid under the order have been paid in accordance with the order.
 
 ### 356 Creditor's claim
 (1) A creditor who has proved his or her debt to the satisfaction of the supervisor is entitled to be included as a creditor in the administration of the debtor's estate under the summary instalment order for the amount of the debt.
@@ -2615,14 +2624,16 @@ The Assignee must not admit a debtor to the no asset procedure if the Assignee i
   (d) a creditor intends applying for the debtor's adjudication as a bankrupt and it is likely that the outcome for the creditor if the debtor is adjudicated bankrupt will be materially better than if the debtor is admitted to the no asset procedure.
 
 ### 365 Assignee must notify creditors
-If a debtor has applied to the Assignee for entry to the no asset procedure, the Assignee must as soon as practicable send a summary of the debtor's assets and liabilities to each known creditor of the debtor.
+[Repealed]
 
 ### 366 Restrictions on debtor obtaining credit after application made
 A debtor who has applied for entry to the no asset procedure must not obtain credit (including hire purchase credit), either alone or jointly with another person, of more than $100 without first informing the credit provider that the debtor has applied for entry to the no asset procedure.
 
 ### 367 When debtor admitted to no asset procedure
 (1) A debtor is admitted to the no asset procedure when the Assignee sends the debtor a written notice in the prescribed form.
-(2) The Assignee must as soon as practicable notify creditors and advertise in the prescribed manner that the debtor has been admitted to the no asset procedure.
+(2) The Assignee must, as soon as practicable,—
+  (a) notify each known creditor of the debtor that the debtor has been admitted to the no asset procedure and send each of them a summary of the debtor’s assets and liabilities; and
+  (b) advertise in the prescribed manner that the debtor has been admitted to the no asset procedure.
 
 ### 368 Public register of persons admitted to no asset procedure
 (1) The Assignee must maintain a public register of persons admitted to the no asset procedure and persons discharged from that procedure under section 377.
@@ -2930,8 +2941,8 @@ An Assignee is not liable in any action or proceeding for any thing the Assignee
   (d) rates for the exercise of particular functions or powers:
   (e) rates by reference to any other criteria that may be specified.
 
-### 408 Assignee must apply for order of release
-(1) After advertising the filing of the final statement of accounts and statement of financial position for the estate of a bankrupt (see section 228), the Assignee must apply to the court for an order releasing the Assignee from the administration of that estate.
+### 408 Assignee may apply for order of release
+(1) After preparing the final statement of receipts and payments in relation to the estate of a bankrupt (see section 228), the Assignee may apply to the court for an order releasing the Assignee from the administration of the estate.
 (2) The Assignee must advertise his or her intention to apply for an order of release, and the time when the application will be heard.
 (3) The court must hear the application not earlier than 10 working days before, and not later than 20 working days after, the Assignee advertises the application under subsection (2).
 (4) On hearing the application, the court—
@@ -3164,7 +3175,7 @@ No action may be taken against the Assignee for malicious prosecution in relatio
   (f) prescribing the steps an undischarged bankrupt must take to obtain the Assignee's consent to leaving New Zealand and the circumstances in which, and the conditions on which, the Assignee may consent:
   (g) prescribing the steps an undischarged bankrupt must take to obtain the Assignee's consent for the purposes of section 149 (which concerns the prohibition of a bankrupt entering business) and the circumstances in which, and the conditions on which, the Assignee may consent:
   (h) prescribing the accounts that must be kept by the Assignee, the audit of those accounts, and the fees payable for the audit:
-  (i) prescribing the manner of publication of the Assignee's final statement of receipts and payments:
+  (i)
   (j) prescribing the manner of advertising under this Act:
   (k) providing for the appointment, retirement, removal, discharge, and control of trustees under subpart 2 of Part 5, and for the accounts that must be kept by them, and for the audit of those accounts:
   (l) providing for any matters contemplated by subpart 3 of Part 5, necessary for its administration, or necessary for giving it full effect:
