@@ -1,5 +1,5 @@
 # Building Amendment Act 2012
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2017-05-30_
 
 ### 1 Title
 This Act is the Building Amendment Act 2012.
@@ -49,10 +49,10 @@ Section 4(2) is amended by adding the following paragraph:
     (iv) building work for which a building consent is not required complies with the building code.
 
 ### 6 Interpretation
-(1) Section 7 is amended by repealing the definition of building consent and substituting the following definition:.
+(1) Section 7 is amended by repealing the definition of building consent and substituting the following definition:
   - **building consent** means a commercial building consent, a low-risk building consent, a simple residential building consent, or a standard building consent
 (2) Section 7 is amended by repealing the definition of code compliance certificate.
-(3) Section 7 is amended by inserting the following definitions in their appropriate alphabetical order:.
+(3) Section 7 is amended by inserting the following definitions in their appropriate alphabetical order:
   - **approved quality assurance system** means a quality assurance system that has been approved under sections 52O and 52Q
   - **approved risk profile** means a risk profile that has been approved under sections 52O and 52P
   - **commercial building consent** means a consent granted under section 52S
@@ -68,7 +68,7 @@ Section 4(2) is amended by adding the following paragraph:
   - **simple residential building consent** means a consent granted under section 52K
   - **simple residential building work** has the meaning given to it by regulations made under this Act
   - **standard building consent** means a consent granted under section 52N
-(4) Section 7 is amended by inserting the following definitions in their appropriate alphabetical order:.
+(4) Section 7 is amended by inserting the following definitions in their appropriate alphabetical order:
   - **independently qualified person** means a person—
     (a) who is accepted by a territorial authority as being qualified to—
       (i) carry out or supervise all or some of the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule; and
@@ -78,34 +78,34 @@ Section 4(2) is amended by adding the following paragraph:
   - **owner-builder exemption** means the exemption for owner-builders set out in section 90D
   - **owner-builder status** means the status of a person as an owner-builder
   - **prescribed** means prescribed by regulations made under this Act
-(5) Section 7 is amended by repealing the definition of restricted building work and substituting the following definition:.
+(5) Section 7 is amended by repealing the definition of restricted building work and substituting the following definition:
   - **restricted building work** means any building work that is—
     (a) building work of a kind declared by the Governor-General by Order in Council to be restricted building work; or
     (b) design work of a kind declared by the Governor-General by Order in Council to be restricted building work
-(6) Section 7 is amended by repealing the definition of territorial authority and substituting the following definition:.
+(6) Section 7 is amended by repealing the definition of territorial authority and substituting the following definition:
   - **territorial authority** —
     (a) means a city council or district council named in Part 2 of Schedule 2 of the Local Government Act 2002; and,—
       (i) in relation to land within the district of a territorial authority, or a building on or proposed to be built on any such land, means that territorial authority; and
       (ii) in relation to any part of a coastal marine area (within the meaning of the Resource Management Act 1991) that is not within the district of a territorial authority, or a building on or proposed to be built on any such part, means the territorial authority whose district is adjacent to that part; and
     (b) includes the Minister of Conservation or the Minister of Local Government, as the case may be, in any case in which the Minister of Conservation or the Minister of Local Government is the territorial authority under section 22 of the Local Government Act 2002
 (7) Paragraph (d) of the definition of building work in section 7 is amended by adding ; and.
-(8) The definition of building work in section 7 is amended by adding the following paragraph:.
+(8) The definition of building work in section 7 is amended by adding the following paragraph:
   (e) includes design work that is specified in the regulations made under section 401A defining low-risk building work, simple residential building work, and commercial building work
-(9) Paragraph (b)(ii) of the definition of owner in section 7 is amended by omitting and 97 and substituting 97, and 176(c).
-(10) Paragraph (c)(iii) of the definition of plans and specifications in section 7 is amended by omitting procedures for inspection and routine maintenance and substituting inspection, maintenance, and reporting procedures.
-(11) Paragraph (a)(i) of the definition of specified system in section 7 is repealed and the following subparagraph substituted:.
+(9) Paragraph (b)﻿(ii) of the definition of owner in section 7 is amended by omitting and 97 and substituting 97, and 176(c).
+(10) Paragraph (c)﻿(iii) of the definition of plans and specifications in section 7 is amended by omitting procedures for inspection and routine maintenance and substituting inspection, maintenance, and reporting procedures.
+(11) Paragraph (a)﻿(i) of the definition of specified system in section 7 is repealed and the following subparagraph substituted:
   (i) is contained in, or attached to, a building; and
 
 ### 7 Building: what it means and includes
-Section 8(3) is amended by repealing paragraph (c) and substituting the following paragraph:.
+Section 8(3) is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) a consent completion certificate; and
 
 ### 8 Building: what it does not include
-Section 9 is amended by inserting the following paragraph after paragraph (ab):.
+Section 9 is amended by inserting the following paragraph after paragraph (ab):
   (ac) security fences, oil interception and containment systems, wind turbines, gantries, and similar machinery and other structures (excluding dams) not intended to be occupied that are part of, or related to, a NUO system; or
 
 ### 9 Role of chief executive
-Section 11 is amended by inserting the following paragraph after paragraph (c):.
+Section 11 is amended by inserting the following paragraph after paragraph (c):
   (ca) has the functions set out in section 168A in relation to the implementation, administration, and review of this Act; and
 
 ### 10 New subpart 4 of Part 1 added
@@ -135,18 +135,18 @@ Part 1 is amended by adding the following subpart:Outline of responsibilities un
     (b) issuing building consents and certificates in accordance with the requirements of this Act.
 
 ### 11 Outline of this Part
-(1) Section 15(1) is amended by inserting the following paragraph after paragraph (d):.
+(1) Section 15(1) is amended by inserting the following paragraph after paragraph (d):
   (da) for different types of building consent:
-(2) Section 15(1)(i) is amended by omitting code compliance certificate and substituting consent completion certificate.
+(2) Section 15(1)﻿(i) is amended by omitting code compliance certificate and substituting consent completion certificate.
 
 ### 12 Limits on certain powers of building consent authority in cases involving bans under section 26
-Section 28(2)(b) and (3) are amended by omitting code compliance certificate and substituting in each case consent completion certificate.
+Section 28(2)﻿(b) and (3) are amended by omitting code compliance certificate and substituting in each case consent completion certificate.
 
 ### 13 Applications for national multiple-use approval relating to design work that is restricted building work
 Section 30C(3) is amended by omitting memorandum and substituting certificate of work.
 
 ### 14 Content of application
-Section 33(1) is amended by repealing paragraph (a) and substituting the following paragraph:.
+Section 33(1) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) any fees and charges imposed by the territorial authority under section 219; and
 
 ### 15 Territorial authority may issue development contribution notice
@@ -154,7 +154,7 @@ Section 36 is amended by repealing subsection (2) and substituting the following
   (2) The territorial authority may issue a notice, in the prescribed form, to the effect that a consent completion certificate for the building work will not be issued unless the development contribution is paid (development contribution notice).
 
 ### 16 New heading substituted
-The heading above section 40 is repealed and the following heading substituted:Building consents: General provisions.
+The heading above section 40 is repealed and the following heading substituted:Building consents: General provisions
 
 ### 17 New sections 41 to 52Y substituted
 Sections 41 to 52 are repealed and the following sections substituted:Types of building consentWhen building consent is not requiredBuilding work for which building consent is not required under Schedule 1Meaning of urgent building workOwner must apply for certificate of acceptance if building work carried out urgentlyEnergy work that requires building consentWhen to apply for building consentWhich type of building consent to apply forHow to apply for building consentReferral of certain applications for building consent to New Zealand Fire Service CommissionNew Zealand Fire Service Commission may give advice on applications referred under section 49Processing application for building consentGrant of building consentNotice of refusal of application for building consentIssue of building consentMinor variations to building consentChanges to plans and specifications that have national multiple-use approvalLapse of building consentBuilding consent authority may re-designate consent in certain casesLow-risk building consentApplication for low-risk building consentGrant of low-risk building consentResponsibility of building consent authority in relation to building work carried out under low-risk building consentSimple residential building consentApplication for simple residential building consentGrant of simple residential building consentResponsibility of building consent authority in relation to building work carried out under simple residential building consentStandard building consentApplication for standard building consentGrant of standard building consentCommercial building consentApproval required before application for commercial building consent may be madeApproved risk profileApproved quality assurance systemApplication for commercial building consentGrant of commercial building consentOwner must notify building consent authority of change affecting risk profileAmendment to approved risk profile or approved quality assurance system after grant of building consentOwner must provide building consent authority with information relating to quality assurance systemPowers ancillary to building consent authority's power of inspection of commercial building workSafety system commissioning reviewsOffence to make false or misleading statement in relation to commercial building work
@@ -184,11 +184,11 @@ Sections 41 to 52 are repealed and the following sections substituted:Types of b
       (ii) if it did not comply with the building code immediately before the building work began, continues to comply at least to the same extent as it did then comply:
     (c) the building work does not breach any other enactment:
     (d) the building to which the building work relates is not a building that is required to be licensed under the Hazardous Substances and New Organisms Act 1996.
-  (3) In subsection (1)(b), authorised person means a person who is authorised under the Plumbers, Gasfitters, and Drainlayers Act 2006 to do the work, except for a person who is authorised under section 15, 16, 19, or 25 of that Act.
-  In section 42(1)(c), urgent building work means building work that has to be carried out urgently—
+  (3) In subsection (1)﻿(b), authorised person means a person who is authorised under the Plumbers, Gasfitters, and Drainlayers Act 2006 to do the work, except for a person who is authorised under section 15, 16, 19, or 25 of that Act.
+  In section 42(1)﻿(c), urgent building work means building work that has to be carried out urgently—
     (a) for the purpose of saving or protecting life or health or preventing serious damage to property; or
     (b) to ensure that a specified system in a building that is covered by a compliance schedule, or would be covered if a compliance schedule were issued in respect of the building, is maintained in a safe condition or is made safe.
-  (1) If, in reliance on section 42(1)(c), building work is carried out without a building consent having been obtained in respect of that work, the owner must, as soon as practicable after completion of the building work, apply for a certificate of acceptance under section 96.
+  (1) If, in reliance on section 42(1)﻿(c), building work is carried out without a building consent having been obtained in respect of that work, the owner must, as soon as practicable after completion of the building work, apply for a certificate of acceptance under section 96.
   (2) A person commits an offence if the person fails to apply for a certificate of acceptance in accordance with subsection (1).
   (3) A person who commits an offence under this section is liable to a fine not exceeding $5,000.
   (1) A building consent is generally not required for energy work except for—
@@ -260,7 +260,7 @@ Sections 41 to 52 are repealed and the following sections substituted:Types of b
   (2) The issue of a building consent does not, of itself,—
     (a) relieve the owner of the building or proposed building to which the building consent relates of any duty or responsibility under any other Act relating to or affecting the building or proposed building; or
     (b) permit the construction, alteration, demolition, or removal of the building or proposed building if that construction, alteration, demolition, or removal would be in breach of any other Act.
-  (3) If a building consent authority does not, within the time limit for granting the building consent, receive from the territorial authority any document or information required for compliance with subsection (1)(b) or (c), the building consent authority may grant the building consent despite that subsection.
+  (3) If a building consent authority does not, within the time limit for granting the building consent, receive from the territorial authority any document or information required for compliance with subsection (1)﻿(b) or (c), the building consent authority may grant the building consent despite that subsection.
   (4) However, the building consent authority must, on receiving the document or the information referred to in subsection (3), provide the owner with the document or information.
   (1) An application for a minor variation to a building consent—
     (a) is not required to be made in a prescribed form; but
@@ -271,7 +271,7 @@ Sections 41 to 52 are repealed and the following sections substituted:Types of b
     (b) is not required to issue an amended building consent.
   (1) When applying for a building consent in reliance on plans and specifications for which a national multiple-use approval has been issued, or for an amendment to such a building consent under section 52C, changes may be made to those plans and specifications if—
     (a) the changes are permitted under the terms of the national multiple-use approval; or
-    (b) the changes are minor customisations permitted by regulations made under section 402(1)(kc).
+    (b) the changes are minor customisations permitted by regulations made under section 402(1)﻿(kc).
   (2) If any other changes are made to the plans and specifications referred to in subsection (1), the national multiple-use approval does not apply.
   A building consent lapses and is of no effect if the building work to which it relates does not commence within—
     (a) 12 months after the date of issue of the building consent; or
@@ -283,7 +283,7 @@ Sections 41 to 52 are repealed and the following sections substituted:Types of b
     (c) the owner has applied for an amendment to the building consent and the proposed building work will not fall within the scope of the original consent.
   (3) A building consent authority that re-designates a consent as a standard building consent may—
     (a) issue a notice to fix under section 164 in respect of building work already done:
-    (b) issue a certificate of acceptance under section 96(1)(e).
+    (b) issue a certificate of acceptance under section 96(1)﻿(e).
   An application for a low-risk building consent must comply with the requirements set out in Schedule 1A.
   (1) A building consent authority must grant a low-risk building consent if—
     (a) the application for the consent complies with the requirements set out in Schedule 1A; and
@@ -304,7 +304,7 @@ Sections 41 to 52 are repealed and the following sections substituted:Types of b
       (ii) the building work in the prescribed aspects (the prescribed aspects) of the plans and specifications accompanying the application will comply with the building code if it is completed in accordance with the plans and specifications accompanying the application; and
       (iii) the building work is within the class of building work for which the person named in the application as the licensed building practitioner is licensed.
   (2) In considering an application for a simple residential building consent, a building consent authority is required to consider the building work only in the prescribed aspects and is not required to consider any other aspects.
-  (3) Subsections (1)(b)(ii) and (2) do not limit the power of the building consent authority to refuse to grant the consent if the authority considers that any aspect of the work (whether a prescribed aspect or not) will result in significant non-compliance with the building code.
+  (3) Subsections (1)﻿(b)﻿(ii) and (2) do not limit the power of the building consent authority to refuse to grant the consent if the authority considers that any aspect of the work (whether a prescribed aspect or not) will result in significant non-compliance with the building code.
   (1) A building consent authority that has issued a simple residential consent—
     (a) must, in accordance with regulations made under this Act, make the prescribed inspections of the building work; but
     (b) incurs no liability to any person by reason only that the authority did not make inspections of the building work over and above the prescribed inspections.
@@ -344,9 +344,9 @@ Sections 41 to 52 are repealed and the following sections substituted:Types of b
     (b) amend the approved risk profile and, as necessary, the approved quality assurance system to accommodate the changes to the approved risk profile:
     (c) amend the approved quality assurance system.
   (2) The building consent authority may make an amendment—
-    (a) under subsection (1)(a) if the authority is no longer satisfied that the grounds for approving the risk profile under section 52P(2) are met:
-    (b) under subsection (1)(b) if the authority is no longer satisfied that the grounds for approving the risk profile under section 52P(2) and the approved quality assurance system under section 52Q(2) are met:
-    (c) under subsection (1)(c) if the authority is no longer satisfied that the grounds for approving the quality assurance system under section 52Q(2) are met.
+    (a) under subsection (1)﻿(a) if the authority is no longer satisfied that the grounds for approving the risk profile under section 52P(2) are met:
+    (b) under subsection (1)﻿(b) if the authority is no longer satisfied that the grounds for approving the risk profile under section 52P(2) and the approved quality assurance system under section 52Q(2) are met:
+    (c) under subsection (1)﻿(c) if the authority is no longer satisfied that the grounds for approving the quality assurance system under section 52Q(2) are met.
   (3) An approved risk profile or approved quality assurance system that is amended under this section takes effect as if it were the approved risk profile or approved quality assurance system that accompanied the application for the building consent.
   (4) A building consent authority that makes an amendment under this section must give written notice of the amendment to the owner.
   (1) A commercial building consent is subject to the condition that the owner must provide to the building consent authority that issued the consent information that the authority may reasonably require—
@@ -372,18 +372,18 @@ Sections 41 to 52 are repealed and the following sections substituted:Types of b
   (5) The application must be accompanied by a statutory declaration, in the prescribed form, as to owner-builder status—
     (a) if the building work includes restricted building work to be carried out by the owner-builder; or
     (b) if any accompanying plans or specifications contain design work that is restricted building work and that has been carried out by the owner-builder.
-(2) Section 45(1) is amended by repealing paragraph (d) and substituting the following paragraph:.
+(2) Section 45(1) is amended by repealing paragraph (d) and substituting the following paragraph:
   (d) be accompanied by any fees and charges imposed by the building consent authority under section 240; and
 
 ### 19 Grant of building consent
-Section 49(2)(a) is amended by inserting or fee after charge.
+Section 49(2)﻿(a) is amended by inserting or fee after charge.
 
 ### 20 Applicant for building consent liable to pay levy
 Section 53 is amended by adding the following subsection:
   (4) The chief executive may, in his or her discretion, refund all or part of the levy if the building consent lapses by paying the refund to the applicant or to the relevant building consent authority.
 
 ### 21 Payment of levy if building work completed in stages
-Section 57(2)(b) is amended by omitting code compliance certificate and substituting consent completion certificate.
+Section 57(2)﻿(b) is amended by omitting code compliance certificate and substituting consent completion certificate.
 
 ### 22 New headings and sections 84 to 84D substituted
 Section 84 and the heading above section 84 are repealed and the following headings and sections substituted:Who may carry out or supervise simple residential building workWho may carry out or supervise simple residential building workOffences relating to carrying out or supervising simple residential building workOffence to engage another person to carry out or supervise simple residential building work if person is not licensed building practitionerOwner must notify names of or change in licensed building practitioners engaged in simple residential building workWho may carry out or supervise restricted building workWho may carry out or supervise restricted building work
@@ -417,7 +417,7 @@ Section 85 is repealed and the following section substituted:Offences relating t
   (2) A person who is a licensed building practitioner commits an offence if he or she—
     (a) carries out restricted building work and is not licensed to carry out restricted building work of that kind; or
     (b) supervises restricted building work and is not licensed to carry out or supervise the carrying out of restricted building work of that kind.
-  (3) Subsection (1) and (2)(a) do not apply to a person to whom the owner-builder exemption applies in respect of the restricted building work in question.
+  (3) Subsection (1) and (2)﻿(a) do not apply to a person to whom the owner-builder exemption applies in respect of the restricted building work in question.
   (4) A person who commits an offence under this section is liable to a fine not exceeding $20,000.
 
 ### 24 Offence to engage another person to carry out or supervise restricted building work if person is not licensed building practitioner
@@ -447,7 +447,7 @@ The following section is inserted after section 87:Notices to building consent a
     (b) when the owner-builder ceases to carry out the restricted building work.
   (4) A notice under this section must—
     (a) be in the prescribed form; and
-    (b) if it is a notice required under subsection (2) or (3)(a), be accompanied by a statutory declaration as to owner-builder status; and
+    (b) if it is a notice required under subsection (2) or (3)﻿(a), be accompanied by a statutory declaration as to owner-builder status; and
     (c) be given—
       (i) before the building work begins, if it is a notice required by subsection (2):
       (ii) as soon as practicable, if it is a notice required by subsection (3).
@@ -478,8 +478,8 @@ The following subpart is inserted after section 90:Restricted building work carr
     (b) resides, or intends to reside, in the household unit in relation to which the restricted building work is carried out; and
     (c) carries out the restricted building work himself or herself or with the assistance of his or her unpaid friends and family members; and
     (d) has not, under the owner-builder exemption, carried out restricted building work in relation to a different household unit within the previous 3 years.
-  (2) For the purposes of subsection (1)(b), reside includes temporarily reside.
-  For the purposes of section 90B(1)(a), relevant interest, in relation to the land or the building on which restricted building work is carried out, means a legal or equitable interest in the land or building; and includes—
+  (2) For the purposes of subsection (1)﻿(b), reside includes temporarily reside.
+  For the purposes of section 90B(1)﻿(a), relevant interest, in relation to the land or the building on which restricted building work is carried out, means a legal or equitable interest in the land or building; and includes—
     (a) a right of occupancy of the land or building or part of the building; or
     (b) a right, power, or privilege over, or in connection with, the land or building.
   (1) A person who is an owner-builder in relation to restricted building work may carry out that restricted building work without being supervised by a licensed building practitioner.
@@ -489,7 +489,7 @@ The following subpart is inserted after section 90:Restricted building work carr
 The heading to subpart 5 of Part 2 is amended by omitting Code compliance certificates and substituting Consent completion certificates.
 
 ### 31 New heading substituted
-The heading above section 91 is omitted and the following heading substituted:Consent completion certificates.
+The heading above section 91 is omitted and the following heading substituted:Consent completion certificates
 
 ### 32 Building consent authority that grants building consent to issue code compliance certificate
 (1) The heading to section 91 is amended by omitting code compliance certificate and substituting consent completion certificate.
@@ -511,7 +511,7 @@ Section 92 is repealed and the following section substituted:Application for con
 
 ### 34 Time in which building consent authority must decide whether to issue code compliance certificate
 (1) The heading to section 93 is amended by omitting code compliance certificate and substituting consent completion certificate.
-(2) Section 93(1), (2)(a), (3), and (4) are amended by omitting code compliance certificate and substituting in each case consent completion certificate.
+(2) Section 93(1), (2)﻿(a), (3), and (4) are amended by omitting code compliance certificate and substituting in each case consent completion certificate.
 
 ### 35 New sections 94 to 94C substituted
 Section 94 is repealed and the following sections are substituted:Issue of consent completion certificate for work under low-risk building consentIssue of consent completion certificate for work under simple residential building consentIssue of consent completion certificate for work under standard building consentIssue of consent completion certificate for work under commercial building consent
@@ -585,13 +585,14 @@ Section 94 is repealed and the following sections are substituted:Issue of conse
 (2) Section 95A is amended by omitting code compliance certificate and substituting consent completion certificate.
 
 ### 38 Territorial authority may issue certificate of acceptance in certain circumstances
-(1) Section 96(1)(c) and (d)(iii) are amended by omitting code compliance certificate and substituting in each case consent completion certificate.
-(2) Section 96(1)(d)(iv) is amended by omitting 2010. and substituting 2010; or.
+(1) Section 96(1)﻿(c) is amended by omitting code compliance certificate and substituting consent completion certificate.
+(1A) In section 96(1)﻿(c), after consent) apply, insert ; or.
+(2)
 (3) Section 96(1) is amended by adding the following paragraph:
-  (e) if a building consent authority has under section 52F re-designated the building consent relating to the work.
+  (d) if a building consent authority has under section 52F re-designated the building consent relating to the work.
 
 ### 39 How to apply for certificate of acceptance
-Section 97 is amended by repealing paragraph (d) and substituting the following paragraph:.
+Section 97 is amended by repealing paragraph (d) and substituting the following paragraph:
   (d) be accompanied by any fees and charges imposed by the territorial authority under section 219; and
 
 ### 40 Requirement for compliance schedule
@@ -635,7 +636,7 @@ Section 105 is amended by repealing paragraph (e) and substituting the following
     (b) as a result of an amendment to this Act or any regulation made under it, the compliance schedule—
       (i) no longer complies with the requirements of this Act or any regulations made under it; or
       (ii) contains information that is no longer required under this Act or any regulations made under it.
-  (2A) An application under subsection (2)(b) must be made before the next anniversary of the issue of the compliance schedule following the amendment of the Act or regulation that results in the compliance schedule becoming non-compliant or containing information that is no longer required.
+  (2A) An application under subsection (2)﻿(b) must be made before the next anniversary of the issue of the compliance schedule following the amendment of the Act or regulation that results in the compliance schedule becoming non-compliant or containing information that is no longer required.
 (2) Section 106(3) is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) pay any fees and charges imposed by the territorial authority under section 219.
 
@@ -643,10 +644,10 @@ Section 105 is amended by repealing paragraph (e) and substituting the following
 Section 107 is amended by repealing subsection (5).
 
 ### 47 Annual building warrant of fitness
-(1) Section 108(3)(c) and (d) are amended by omitting a licensed building practitioner and substituting in each case an independently qualified person.
+(1) Section 108(3)﻿(c) and (d) are amended by omitting a licensed building practitioner and substituting in each case an independently qualified person.
 (2) Section 108(4) is amended by adding or, if the compliance schedule relates only to a cable car, publicly display the copy of the building warrant of fitness in or near the cable car.
 (3) Section 108 is amended by repealing subsection (7) and substituting the following subsection:
-  (7) In subsection (3)(d), a reference to an independently qualified person is a reference to the independently qualified person or independently qualified persons who carried out or supervised the inspection, maintenance, and reporting procedures stated in the compliance schedule during the previous 12 months.
+  (7) In subsection (3)﻿(d), a reference to an independently qualified person is a reference to the independently qualified person or independently qualified persons who carried out or supervised the inspection, maintenance, and reporting procedures stated in the compliance schedule during the previous 12 months.
 
 ### 48 Territorial authority must consider recommendation to amend compliance schedule
 Section 109 is amended by omitting a licensed building practitioner and substituting an independently qualified person.
@@ -658,13 +659,13 @@ Section 110(a) is amended by omitting licensed building practitioner and substit
 Section 111 is amended by repealing subsection (2).
 
 ### 51 Meaning of dangerous building
-Section 121(1)(b) is amended by omitting because of fire hazard or the occupancy of the building.
+Section 121(1)﻿(b) is amended by omitting because of fire hazard or the occupancy of the building.
 
 ### 52 Issue of notice to fix
-(1) Section 164(1)(c) is amended by omitting with. and substituting with; or.
+(1) Section 164(1)﻿(c) is amended by omitting with. and substituting with; or.
 (2) Section 164(1) is amended by adding the following paragraph:
   (d) in the case of commercial building work, an approved quality assurance system has not been complied with.
-(3) Section 164(2)(c) is amended by omitting schedule. and substituting schedule; or.
+(3) Section 164(2)﻿(c) is amended by omitting schedule. and substituting schedule; or.
 (4) Section 164(2) is amended by adding the following paragraph:
   (d) to properly comply with the approved quality assurance system.
 
@@ -675,25 +676,25 @@ The following section is inserted before section 169:Chief executive's functions
     (b) review the Act as necessary.
 
 ### 54 Meaning of party
-(1) Section 176 is amended by repealing paragraph (c) and substituting the following paragraph:.
+(1) Section 176 is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) the owner or, if there is more than 1 owner, any of the owners:
-(2) Section 176 is amended by inserting the following paragraph after paragraph (d):.
+(2) Section 176 is amended by inserting the following paragraph after paragraph (d):
   (da) any person to whom a notice to fix relating to the relevant building work has been issued under section 164:
 
 ### 55 Application for determination
-(1) Section 177(2)(c) and (d) are amended by omitting code compliance certificate and substituting in each case consent completion certificate.
+(1) Section 177(2)﻿(c) and (d) are amended by omitting code compliance certificate and substituting in each case consent completion certificate.
 (2) Section 177(2) is amended by adding the following paragraph:
   (g) in the case of commercial building work,—
     (i) a risk profile or an approved risk profile:
     (ii) a quality assurance system or an approved quality assurance system.
 
 ### 56 Appeals to District Court
-Section 208(1) is amended by repealing paragraph (aa) and substituting the following paragraph:.
+Section 208(1) is amended by repealing paragraph (aa) and substituting the following paragraph:
   (aa) a direction as to costs given under section 190(2); or
 
 ### 57 Territorial authority must keep information about buildings
-(1) Section 216(2)(b)(iva) is amended by omitting memoranda and substituting records of work and certificates of work.
-(2) Section 216(2)(b) is amended by inserting the following paragraphs after paragraph (iva):.
+(1) Section 216(2)﻿(b)﻿(iva) is amended by omitting memoranda and substituting records of work and certificates of work.
+(2) Section 216(2)﻿(b) is amended by inserting the following paragraphs after paragraph (iva):
   (ivb) statutory declarations provided by owner-builders:
   (ivc) if applicable, the specified intended life of the building:
 (3) Section 216 is amended by inserting the following subsection after subsection (2):
@@ -709,13 +710,13 @@ Section 208(1) is amended by repealing paragraph (aa) and substituting the follo
   (4) A territorial authority must keep the information referred to in subsection (2A) at least for the life of the building to which the information relates.
 
 ### 58 Access to certain information kept by territorial authority
-Section 217(1)(a) is amended by omitting and (2) and substituting to (2A).
+Section 217(1)﻿(a) is amended by omitting and (2) and substituting to (2A).
 
 ### 59 Territorial authority may impose fee or charge and must collect levy
-Section 219(1)(a) is amended by omitting charge and substituting charge (or both).
+Section 219(1)﻿(a) is amended by omitting charge and substituting charge (or both).
 
 ### 60 Inspections by territorial authority
-The definition of inspection in section 222(4) is amended by repealing paragraph (a)(iii) and substituting the following subparagraphs:.
+The definition of inspection in section 222(4) is amended by repealing paragraph (a)﻿(iii) and substituting the following subparagraphs:
   (iii) a notice to fix has been complied with; or
   (iv) in the case of work carried out under a commercial building consent, the approved quality assurance system is being complied with:
 
@@ -724,13 +725,13 @@ Section 223(2) is amended by repealing paragraph (c) and substituting the follow
   (c) any person engaged in the building work, including an owner-builder and any unpaid friend or family member of the owner-builder engaged to assist him or her in the building work.
 
 ### 62 Duties of building consent authority
-(1) Section 238(1)(c) is amended by omitting “subsection (2)” and substituting “subsections (2) and (2A)”.
-(2) Section 238(2)(b) is amended by inserting the following subparagraphs after subparagraph (iv):.
+(1) Section 238(1)﻿(c) is amended by omitting “subsection (2)” and substituting “subsections (2) and (2A)”.
+(2) Section 238(2)﻿(b) is amended by inserting the following subparagraphs after subparagraph (iv):
   (iva) if applicable, the intended life of the building:
   (ivb) statutory declarations provided by an owner-builder:
-  (ivc) records of work and certificates of work provided by licensed building practitioners under section 45(2) or 88(1)(a):
+  (ivc) records of work and certificates of work provided by licensed building practitioners under section 45(2) or 88(1)﻿(a):
 (3) Section 238 is amended by inserting the following subsection after subsection (2):
-  (2A) The information referred to in subsection (1)(b) also includes the following information issued or received by the building consent authority in respect of a building:
+  (2A) The information referred to in subsection (1)﻿(b) also includes the following information issued or received by the building consent authority in respect of a building:
     (a) consent completion certificates:
     (b) in the case of a building for which a commercial building consent has been granted,—
       (i) approved risk profiles:
@@ -740,10 +741,10 @@ Section 223(2) is amended by repealing paragraph (c) and substituting the follow
     (c) any other records that relate to the information referred to in paragraphs (a) and (b).
 
 ### 63 Building consent authority may impose fee or charge and must collect levy
-Section 240(1)(a) is amended by omitting charge and substituting charge (or both).
+Section 240(1)﻿(a) is amended by omitting charge and substituting charge (or both).
 
 ### 64 Regional authorities may impose fee or charge and recover costs, and must collect levy
-Section 243(1)(a) is amended by omitting charge and substituting charge (or both).
+Section 243(1)﻿(a) is amended by omitting charge and substituting charge (or both).
 
 ### 65 New subpart 9 of Part 3 added
 Part 3 is amended by adding the following subpart:Fees, charges, and additional costsWhat fees and charges may be imposedAuthority may increase fee or charge to meet additional costAuthority may waive or refund fee or chargeValidity of previous fees, charges, and additional costs
@@ -782,13 +783,13 @@ The following heading and sections are inserted after section 314:Code of ethics
     (b) carry out or supervise building work only within his or her competence.
 
 ### 70 Grounds for discipline of licensed building practitioners
-(1) Section 317(1)(c) is amended by inserting (other than as an owner-builder) after carried out.
-(2) Section 317(1)(da) is amended by inserting (other than as an owner-builder) after—
+(1) Section 317(1)﻿(c) is amended by inserting (other than as an owner-builder) after carried out.
+(2) Section 317(1)﻿(da) is amended by inserting (other than as an owner-builder) after—
   (a) carry out; and
   (b) carried out.
-(3) Section 317(1)(da)(i) is amended by omitting memorandum, in accordance with section 45(2)(b), and substituting certificate of work.
-(4) Section 317(1)(da)(ii) is amended by omitting memorandum and substituting record of work.
-(5) Section 317(1)(e)(iii) is amended by omitting genuine. and substituting genuine; or.
+(3) Section 317(1)﻿(da)﻿(i) is amended by omitting memorandum, in accordance with section 45(2)﻿(b), and substituting certificate of work.
+(4) Section 317(1)﻿(da)﻿(ii) is amended by omitting memorandum and substituting record of work.
+(5) Section 317(1)﻿(e)﻿(iii) is amended by omitting genuine. and substituting genuine; or.
 (6) Section 317(1) is amended by adding the following paragraphs:
   (f) a licensed building practitioner has failed, without good reason, to provide to the owner the record of work referred to in clause 1(b) of Schedule 1E or clause 1(b) of Schedule 1F; or
   (g) a licensed building practitioner has breached the code of ethics prescribed under section 314A; or
@@ -797,13 +798,13 @@ The following heading and sections are inserted after section 314:Code of ethics
 
 ### 71 Board's functions
 Section 343 is amended by adding the following subsection as subsection (2):
-  (2) The Board may, in accordance with clause 34 of Schedule 3, delegate any or all of its functions under subsection (1)(b) or (c) to a subcommittee of the Board appointed under that clause.
+  (2) The Board may, in accordance with clause 34 of Schedule 3, delegate any or all of its functions under subsection (1)﻿(b) or (c) to a subcommittee of the Board appointed under that clause.
 
 ### 72 Protecting safety of members of public using premises open to public or intended for public use
-Section 363(1)(b)(i) and (c)(i) are amended by omitting code compliance certificate and substituting in each case consent completion certificate.
+Section 363(1)﻿(b)﻿(i) and (c)﻿(i) are amended by omitting code compliance certificate and substituting in each case consent completion certificate.
 
 ### 73 Public use of premises may be allowed before issue of code compliance certificate in some circumstances
-Section 363A(1)(b) and (6) and the heading to section 363A are amended by omitting code compliance certificate and substituting in each case consent completion certificate.
+Section 363A(1)﻿(b) and (6) and the heading to section 363A are amended by omitting code compliance certificate and substituting in each case consent completion certificate.
 
 ### 74 Section 363B repealed
 Section 363B is repealed.
@@ -821,11 +822,11 @@ Section 388 is amended by adding the following subsection:
 Section 391 is amended by omitting or a code compliance certificate and substituting , a code compliance certificate, or a consent completion certificate.
 
 ### 78 Building consent authority not liable
-Section 392(1) is amended by repealing paragraph (d) and substituting the following paragraph:.
+Section 392(1) is amended by repealing paragraph (d) and substituting the following paragraph:
   (d) a code compliance certificate or a consent completion certificate issued under this Act:
 
 ### 79 Limitation defences
-Section 393(3)(a) is amended by omitting or a code compliance certificate and substituting , a code compliance certificate, or a consent completion certificate.
+Section 393(3)﻿(a) is amended by omitting or a code compliance certificate and substituting , a code compliance certificate, or a consent completion certificate.
 
 ### 80 Regulations: acceptable solutions, verifications, etc, that must be complied with in order to comply with building code
 Section 401(2) is amended by omitting code compliance certificate and substituting consent completion certificate.
@@ -854,29 +855,29 @@ The following section is inserted above section 402:Order in Council declaring w
   (4) Building work or design work is not restricted building work if it relates to an application for a building consent made before the commencement of an order under subsection (1) declaring building work or design work of the same kind to be restricted building work.
 
 ### 83 Regulations: general
-(1) Section 402(1)(d) is amended by omitting performance of the Registrar's functions and substituting licensing, disciplining, and registration of building practitioners.
-(2) Section 402(1) is amended by inserting the following paragraph after paragraph (d):.
+(1) Section 402(1)﻿(d) is amended by omitting performance of the Registrar's functions and substituting licensing, disciplining, and registration of building practitioners.
+(2) Section 402(1) is amended by inserting the following paragraph after paragraph (d):
   (da) providing for waivers and refunds of the whole or any part of a fee or charge referred to in paragraph (d):
-(3) Section 402(1)(e) is amended by omitting for, or in connection with, the costs of the operation and administration of the Board.
+(3) Section 402(1)﻿(e) is amended by omitting for, or in connection with, the costs of the operation and administration of the Board.
 (4) Section 402(1) is amended by repealing paragraph (n).
-(5) Section 402(1) is amended by repealing paragraph (o) and substituting the following paragraph:.
+(5) Section 402(1) is amended by repealing paragraph (o) and substituting the following paragraph:
   (o) prescribing systems or parts of systems that amount to specified systems for the purposes of this Act:
 
 ### 84 Transitional provision for building consents granted under former Act
-Section 433(2)(b) is amended by omitting code compliance certificate and substituting consent completion certificate.
+Section 433(2)﻿(b) is amended by omitting code compliance certificate and substituting consent completion certificate.
 
 ### 85 Transitional provision for code compliance certificates in respect of building work carried out under building consent granted under former Act
 (1) The heading to section 436 is amended by omitting code compliance certificates and substituting consent completion certificates.
-(2) Section 436(2) and (3)(b)(i) are amended by omitting code compliance certificate and substituting in each case consent completion certificate.
+(2) Section 436(2) and (3)﻿(b)﻿(i) are amended by omitting code compliance certificate and substituting in each case consent completion certificate.
 
 ### 86 Transitional provision for issue of certificate of acceptance
-Section 437(1)(b)(ii) is amended by omitting code compliance certificate and substituting consent completion certificate.
+Section 437(1)﻿(b)﻿(ii) is amended by omitting code compliance certificate and substituting consent completion certificate.
 
 ### 87 Transitional provision for code compliance certificates and compliance schedules issued under former Act
 Section 438(2), (4), and (5) are repealed.
 
 ### 88 Schedule 1 amended
-(1) The Schedule 1 heading is amended by omitting s 41(1)(b) and substituting s 42(1)(b).
+(1) The Schedule 1 heading is amended by omitting s 41(1)﻿(b) and substituting s 42(1)﻿(b).
 (2) Paragraph (ad) of Schedule 1 is amended by omitting section 3 of the Plumbers, Gasfitters, and Drainlayers Act 1976 and substituting section 6 of the Plumbers, Gasfitters, and Drainlayers Act 2006.
 
 ### 89 New Schedules 1A to 1H inserted
@@ -919,11 +920,11 @@ Schedule 3 is amended by adding the following clause:Appointment of subcommittee
   (d) any employee or agent of the Department of Conservation.
 
 ### 93 Consequential and other amendments
-(1) Section 10B(3)(b) of the Resource Management Act 1991 is amended by inserting or a consent completion certificate after “code compliance certificate”.
-(2) Section 10B(3)(c) of the Resource Management Act 1991 is amended by inserting or a consent completion certificate after “code compliance certificate”.
+(1) Section 10B(3)﻿(b) of the Resource Management Act 1991 is amended by inserting or a consent completion certificate after “code compliance certificate”.
+(2) Section 10B(3)﻿(c) of the Resource Management Act 1991 is amended by inserting or a consent completion certificate after “code compliance certificate”.
 (3) Section 208(b) of the Local Government Act 2002 is amended by omitting code compliance certificate and substituting consent completion certificate.
-(4) Section 209(1)(b) of the Local Government Act 2002 is amended by omitting 52 and substituting 52E.
-(5) Section 34(2) of the Historic Places Act 1993 is amended by omitting 34(1)(b) and substituting 35(1)(b).
+(4) Section 209(1)﻿(b) of the Local Government Act 2002 is amended by omitting 52 and substituting 52E.
+(5) Section 34(2) of the Historic Places Act 1993 is amended by omitting 34(1)﻿(b) and substituting 35(1)﻿(b).
 
 ### 94 Local Government (Auckland Transitional Provisions) Fees and Charges Regulations 2010 amended
 (1) This section amends the Local Government (Auckland Transitional Provisions) Fees and Charges Regulations 2010.
