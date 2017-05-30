@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-05-30_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -220,7 +220,7 @@ Every registered society or branch shall deliver to any person on request, on pa
 **Trustees and officers**
 
 ### 28 Appointment of trustees
-(1) Every registered society and branch shall have 1 or more trustees, who shall from time to time be appointed by a resolution of a majority of the members entitled to vote who are present personally or by proxy (where proxies are allowed by the rules) at a meeting of the society or branch.
+(1) Every registered society and branch is to have 1 or more trustees, who must be appointed from time to time by a resolution of a majority of the members of the society or branch entitled to vote and voting on the matter.
 (2) As soon as practicable after any trustee of a registered society or branch dies, or resigns his office or is removed from office, a new trustee shall be appointed in his place in the manner prescribed by subsection (1).
 (3) A registered society or branch may at any time by resolution passed in the same manner remove any trustee and appoint a new trustee in his place.
 (4) No act done by any person appointed as a trustee shall be invalidated by any irregularity or defect in the mode of his appointment, or by the fact that there is any vacancy in the full number of the trustees.
@@ -364,7 +364,7 @@ Sections 67B to 67E of the Life Insurance Act 1908 shall, with all necessary mod
 **Investment, funds, and property**
 
 ### 49 Duties of trustees in relation to investments
-(1) The trustees of a registered society or branch may, with the consent given either generally or specifically by the committee or by a majority of the members of the society or branch present and entitled to vote in general meeting, from time to time invest the funds of the society or branch or any part of them in accordance with this Act.
+(1) The trustees of a registered society or branch may, with the consent given either generally or specifically by the committee or by a resolution of a majority of the members of the society or branch entitled to vote and voting on the matter, from time to time invest the funds of the society or branch or any part of them in accordance with this Act.
 (2) Without limiting the matters to which a trustee may have regard pursuant to Part 2 of the Trustee Act 1956, in the exercise of his powers of investment a trustee of a registered society or branch shall have regard—but shall not be obliged to make any investment that he considers to be of an undesirable nature or that he would otherwise regard as being imprudent.
   (a) to the need to ensure that sufficient funds are readily available to meet the operating expenses and other outgoings of the society or branch:
   (b) to a consideration of whether or not any investment is consistent with the objectives of the society or branch and is within its rules:
@@ -377,7 +377,7 @@ Sections 67B to 67E of the Life Insurance Act 1908 shall, with all necessary mod
 (1) The rules of a registered society with branches, and of any registered branch of that society, may provide for the investment of funds of the society or of that branch—
   (a) by the trustees of the society; or
   (b) by the trustees of any branch of that society.
-(2) The consent required for any such investment shall be the consent given either generally or specifically by the committee or by a majority of the members of the society or branch by whose trustees the funds are invested, being members present and entitled to vote in general meeting.
+(2) The consent required for any such investment shall be the consent given either generally or specifically by the committee or by a resolution of a majority of the members of the society or branch by whose trustees the funds are invested, being members entitled to vote and voting on the matter.
 
 ### 51 Borrowing powers, overdrafts
 (1) Except as provided in this Act and notwithstanding anything to the contrary in the rules of a society or branch, no registered society or branch shall be entitled to borrow money nor shall any person lend money to any registered society or branch.
@@ -621,8 +621,8 @@ It shall be the duty of every branch of a registered society to supply the secre
 ### 82 Special resolutions
 (1) For the purposes of this Act, a special resolution, in relation to a registered society or branch, is a resolution passed—
   (a) at a general meeting of which notice, specifying the intention to propose that resolution, has been duly given in accordance with the rules of the society or branch; and
-  (b) by not less than 75% of those members of the society for the time being entitled under the society's rules to vote who vote either in person or by proxy at the meeting or, in the case of a meeting of delegates appointed by members, by not less than 75% of the votes of the delegates who vote at the meeting.
-(2) Notwithstanding anything to the contrary in the rules of a registered society, at any general meeting referred to in this section other than a meeting of delegates, proxy voting shall be permitted on any resolution which, if passed as mentioned in subsection (1) would be a special resolution, and the procedure adopted by a registered society for proxy voting on any such resolution shall comply with such requirements as may from time to time be imposed by the Registrar; but no proxy need be a member of the society in order to cast a valid vote under this section.
+  (b) by not less than 75% of those members of the society for the time being entitled under the society's rules to vote who vote on the matter or, in the case of a meeting of delegates appointed by members, by not less than 75% of the votes of the delegates who vote on the matter.
+(2)
 (3) A copy of every special resolution signed by the chairman of the meeting and countersigned by the secretary, shall be sent to the Registrar and, subject to subsection (4), shall forthwith be registered; but until that copy is so registered the special resolution shall not take effect.
 (4) Where, in accordance with subsection (3), there is sent to the Registrar a copy of a special resolution passed at a meeting of a registered friendly society for the purpose of—the Registrar shall not register the copy before the expiry of a period of 6 weeks commencing with the day on which he receives it, or, where objection has been made under section 85, he shall not register the copy until the period specified in subsection (3) of that section has expired.
   (a) amalgamating with another registered society or societies; or
@@ -1265,6 +1265,20 @@ Where a credit union is wound up pursuant to section 138, the liability of a pre
 ### 147 Changes of name
 (1) Subject to this Act, a registered society or branch or credit union may, by ordinary resolution, change its name with the approval in writing of the Registrar.
 (2) No change of name shall affect any right, duty, or obligation of the society, branch, or credit union, or of any member or officer thereof.
+
+### 147A Meetings may be held using audio, audio and visual, or electronic communication
+The rules of a registered society or branch or of a credit union may (without limitation) provide for meetings to be held using audio, audio and visual, or electronic communication.
+
+### 147B Postal, electronic, and proxy voting
+(1) This section applies to any matter that is to be determined by a vote of members of a registered society or branch or of a credit union.
+(2) The rules of the registered society or branch or of the credit union—
+  (a) may (without limitation) permit voting in 1 or more of the following ways:
+    (i) by post:
+    (ii) by electronic means (for example, by email or by the use of an Internet site):
+    (iii) by proxy; and
+  (b) must set out the procedures to be followed in relation to any voting permitted under paragraph (a).
+(3) Rules under this section that permit voting by post or electronic means may permit or require votes cast by post or electronic means to be cast in advance of any meeting at which the matter in question is to be determined.
+(4) Subsection (3) applies despite any enactment (for example, sections 64(3), 65(1)﻿(a), and 82(1) of this Act) that requires a resolution to be passed, or a matter to be otherwise determined, at a meeting.
 
 ### 148 Exemptions from Customs duty
 No Customs duties shall be chargeable on regalia, emblems, certificates, almanacs, and banners being the property of any registered society or branch.
