@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2017-03-31_
+_Consolidation as at 2017-05-30_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -138,7 +138,7 @@ _Consolidation as at 2017-03-31_
   (b) in at least 1 issue of a newspaper circulating in the area in which is situated—
     (i) the place of business in New Zealand of the overseas company; or
     (ii) if the overseas company has more than 1 place of business in New Zealand, the principal place of business in New Zealand of the overseas company.
-(3) However, subsections (1) and (2) do not apply to the public notice required to be given by the Registrar under sections 319(1)﻿(c), 320(1), 328(3)﻿(a), and 360A(2)﻿(b).
+(3) However, subsections (1) and (2) do not apply to the public notice required to be given by the Registrar under sections 319(1)﻿(c), 320(1), 328(3)﻿(a), 341(4)﻿(b), and 360A(2)﻿(b).
 (4) The public notice required to be given by the Registrar under the provisions referred to in subsection (3) must be given by publishing the notice in at least 1 issue of the Gazette.
 (5) The Registrar must ensure that a copy of the notice referred to in subsection (4) is available on an Internet site maintained by or on behalf of the Registrar, at all reasonable times, for a period of not less than 20 working days.
 
@@ -209,7 +209,7 @@ A company must have—
   (c) 1 or more shareholders, having limited or unlimited liability for the obligations of the company; and
   (d) 1 or more directors, of whom at least 1 must—
     (i) live in New Zealand; or
-    (ii) live in an enforcement country and be a director of a company that is registered (except as the equivalent of an overseas company) in that enforcement country.
+    (ii) live in an enforcement country and be a director of a body corporate that is incorporated in that enforcement country under a law that is equivalent to this Act.
 
 **Method of incorporation**
 
@@ -231,11 +231,14 @@ Any person may, either alone or together with another person, apply for registra
   (b) in relation to every director of the proposed company,—
     (i) his or her full name and date and place of birth; and
     (ii) his or her residential address; and
-    (iii) if the residential address is in an enforcement country, whether the director is a director of a company that is registered (except as the equivalent of an overseas company) in that enforcement country and, if so, the prescribed information; and
+    (iii)
   (c) the full name and residential address of every shareholder of the proposed company, and the number of shares to be issued to every shareholder; and
   (ca) the proposed company's ultimate holding company information; and
   (d) the registered office of the proposed company; and
   (e) the address for service of the proposed company.
+(3) If no directors of the proposed company live in New Zealand, the application must, in relation to at least 1 director who lives in an enforcement country,—
+  (a) confirm that the director is a director of a body corporate that is incorporated in that enforcement country under a law that is equivalent to this Act; and
+  (b) include the prescribed information in respect of that body corporate.
 
 ### 13 Registration
 As soon as the Registrar receives a properly completed application for registration of a company, the Registrar must—
@@ -903,14 +906,18 @@ For the purposes of section 78, a disclosure document is a document that sets ou
 ### 80 Financial assistance not exceeding 5% of shareholders' funds
 (1) Financial assistance may be given under section 76(1)﻿(c), only if—
   (a) the amount of the financial assistance, together with any other financial assistance given by the company pursuant to this paragraph, repayment of which remains outstanding, would not exceed 5% of the aggregate of amounts received by the company in respect of the issue of shares and reserves as disclosed in the relevant statements or records, and the company receives fair value in connection with the assistance; and
-  (b) within 10 working days of providing the financial assistance, the company sends to each shareholder a notice containing the following particulars:
-    (i) the class and number of shares in respect of which the financial assistance has been provided:
-    (ii) the consideration paid or payable for the shares in respect of which the financial assistance has been provided:
-    (iii) the identity of the person receiving the financial assistance and, if that person is not the beneficial owner of the shares in respect of which the financial assistance has been provided, the identity of that beneficial owner:
-    (iv) the nature and, if quantifiable, the amount of the financial assistance.
+  (b) within 10 working days of providing the financial assistance, the company sends a notice containing the particulars set out in subsection (1B) to—
+    (i) the licensed market operator of each licensed market on which the shares of the company are quoted; or
+    (ii) each shareholder of the company, if the shares of the company are not quoted on any licensed market.
 (1A) In subsection (1), relevant statements or records means—
   (a) financial statements of the company prepared for the most recently completed accounting period in accordance with generally accepted accounting practice; or
   (b) if those financial statements have not been prepared, the accounting records of the company.
+(1B) The particulars referred to in subsection (1)﻿(b) are as follows:
+  (a) the class and number of shares in respect of which the financial assistance has been provided:
+  (b) the consideration paid or payable for the shares in respect of which the financial assistance has been provided:
+  (c) the identity of the person receiving the financial assistance and, if that person is not the beneficial owner of the shares in respect of which the financial assistance has been provided, the identity of that beneficial owner:
+  (d) the nature and, if quantifiable, the amount of the financial assistance.
+(1C) The licensed market operator must ensure that the notice under subsection (1)﻿(b)﻿(i) is notified in accordance with its arrangements for notifying disclosures made to it (see section 314 of the Financial Markets Conduct Act 2013).
 (2) If a company fails to comply with subsection (1)﻿(b),—
   (a) the company commits an offence and is liable on conviction to the penalty set out in section 373(1); and
   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(1).
@@ -1398,6 +1405,11 @@ The taking of action by a company affecting the rights attached to shares is not
 (2) However, a company does not have to hold its first annual meeting in the calendar year of its registration but must hold that meeting within 18 months after its registration.
 (3)
 (4) The company must hold the meeting on the date on which it is called to be held.
+(5) However, it is not necessary for the board of a company to call, or for a company to hold, an annual meeting of shareholders under this section if—
+  (a) there is nothing required to be done at that meeting; and
+  (b) the board has resolved that it is in the interests of the company to rely on this subsection (having regard to whether there is any particular issue that the shareholders should be given an opportunity to discuss, comment on, or ask questions about); and
+  (c) the constitution of the company does not require the meeting to be called or held.
+(6) Subsections (1) to (4) are subject to subsection (5).
 
 ### 121 Special meetings of shareholders
 A special meeting of shareholders entitled to vote on an issue—
@@ -1417,7 +1429,8 @@ A special meeting of shareholders entitled to vote on an issue—
   (a) in the case of a resolution under section 207I or 207J, the shareholders who together hold not less than 95% of the votes entitled to be cast on the resolution:
   (b) in any other case, the shareholders referred to in subsection (1).
 (3A) Any resolution in writing under this section may consist of 1 or more documents in similar form (including letters, telegrams, cables, facsimiles, telex messages, electronic mail, or other similar means of communication) each signed or assented to by or on behalf of 1 or more of the shareholders specified in subsection (3).
-(4) It shall not be necessary for a company to hold an annual meeting of shareholders under section 120 if everything required to be done at that meeting (by resolution or otherwise) is done by resolution in accordance with subsections (2) and (3).
+(4) It is not necessary for the board of a company to call, or for a company to hold, an annual meeting of shareholders under section 120 if everything required to be done at that meeting (by resolution or otherwise) is done by resolution in accordance with subsections (2) and (3).
+(4A) Section 120(5) does not limit subsection (4).
 (5) Within 5 working days of a resolution being passed under this section, the company must send to every shareholder who did not sign the resolution or on whose behalf the resolution was not signed,—
   (a) a copy of the resolution; and
   (b) if the resolution was a special resolution required by section 106(1)﻿(a) or (b), a statement setting out the rights of shareholders under section 110.
@@ -2210,6 +2223,12 @@ ExampleABC Limited has an accounting period of 1 April 2014 to 31 March 2015. AB
   (d) every other company with 10 or more shareholders unless the company has opted out of compliance with the provision in accordance with section 207I; and
   (e) every other company with fewer than 10 shareholders if the company has opted into compliance with the provision in accordance with section 207K.
 (2) However, section 201 does not apply to a company or an overseas company in relation to a balance date if the company or overseas company has, on that date, 1 or more subsidiaries (see section 202).
+(3) Further, section 201 does not apply to a company or an overseas company (A) in relation to a balance date if,—
+  (a) on the balance date, A has no subsidiaries but is a subsidiary of a body corporate (B) that is—
+    (i) incorporated in New Zealand; or
+    (ii) registered or deemed to be registered under Part 18; and
+  (b) group financial statements in relation to a group comprising B, A, and all other subsidiaries of B that comply with generally accepted accounting practice are completed in relation to the balance date under this Act or any other enactment; and
+  (c) A has not opted into compliance with section 201 as referred to in subsection (1)﻿(e).
 
 ### 201 Financial statements must be prepared
 Every company or overseas company to which this section applies (A) must ensure that, within 5 months after the balance date of A, financial statements that comply with generally accepted accounting practice are—
@@ -2221,17 +2240,20 @@ Every company or overseas company to which this section applies (A) must ensure 
   (a) completed in relation to that group and that balance date; and
   (b) dated and signed on behalf of A by 2 directors of A, or, if A has only 1 director, by that director.
 (2) Group financial statements are not required under subsection (1) in relation to a balance date if,—
-  (a) on the balance date, A is a subsidiary of a body corporate that is incorporated in New Zealand (B); and
-  (b) group financial statements in relation to a group comprising B, A, and all other subsidiaries of B that comply with generally accepted accounting practice are completed in relation to that balance date under this Act or any other enactment.
+  (a) on the balance date, A is a subsidiary of a body corporate (B) that is—
+    (i) incorporated in New Zealand; or
+    (ii) registered or deemed to be registered under Part 18; and
+  (b) group financial statements in relation to a group comprising B, A, and all other subsidiaries of B that comply with generally accepted accounting practice are completed in relation to that balance date under this Act or any other enactment; and
+  (c) A has not opted into compliance with this section as referred to in section 200(1)﻿(e).
 
 ### 203 Recognition of financial reporting requirements of overseas countries
-(1) Subsection (2) applies if the Registrar notifies a large overseas company (A) that the Registrar is satisfied that—
+(1) Subsection (2) applies if the Registrar notifies an overseas company (A) that the Registrar is satisfied that—
   (a) the financial statements of A comply with the requirements of the law in force in the country where A is incorporated or constituted; and
   (b) those requirements are—
     (i) substantially the same as those of this Act; or
     (ii) sufficiently equivalent, in relation to the quality of financial reporting they achieve, to the requirements of this Act.
 (2) The financial statements must be treated as complying with generally accepted accounting practice.
-(3) Subsection (4) applies if the Registrar notifies a large overseas company (A) that the Registrar is satisfied that—
+(3) Subsection (4) applies if the Registrar notifies an overseas company (A) that the Registrar is satisfied that—
   (a) the group financial statements of the group that comprises A and its subsidiaries comply with the law in force in the country where A is incorporated or constituted; and
   (b) those requirements are—
     (i) substantially the same as those of this Act; or
@@ -2257,15 +2279,17 @@ Every company or overseas company to which this section applies (A) must ensure 
 (1) Section 207 applies to—
   (a) every large company unless subsection (2) applies; and
   (b) every company that is a public entity; and
-  (c) every large overseas company; and
+  (c) every large overseas company unless subsection (3) applies; and
   (d) every company with 10 or more shareholders unless the company has opted out of compliance with that section in accordance with section 207I; and
   (e) every company with fewer than 10 shareholders if the company has opted into compliance with the section in accordance with section 207K.
-(2) Subsection (1)﻿(a) does not apply to a large company (A) if—
-  (a) A has opted out of compliance with section 207 in accordance with section 207J; or
-  (b) the following requirements are satisfied:
-    (i) A is a wholly-owned subsidiary of another company (B) or of a large overseas company (B); and
-    (ii) group financial statements in relation to a group comprising B, A, and all other subsidiaries of B that comply with generally accepted accounting practice are completed and signed within the time specified in section 202; and
-    (iii) a copy of the group financial statements referred to in subparagraph (ii) and a copy of the auditor's report on those statements are delivered for registration under this Act or for lodgement under another Act.
+(2) Subsection (1)﻿(a) does not apply to a large company (A) if A has opted out of compliance with section 207 in accordance with section 207J.
+(3) Subsection (1)﻿(c) does not apply to a large overseas company (B) in relation to a balance date if—
+  (a) financial statements or group financial statements are prepared in respect of B under section 201 or 202 in relation to the balance date; and
+  (b) section 204 does not apply to B in relation to the balance date; and
+  (c) under the law in force in the country where B is incorporated or constituted,—
+    (i) qualifying financial statements are required to be prepared in respect of B in relation to the balance date; but
+    (ii) the qualifying financial statements so prepared are not required to be audited.
+(4) In subsection (3)﻿(c), qualifying financial statements means financial statements that are equivalent, or substantially equivalent, to the financial statements or group financial statements referred to in subsection (3)﻿(a).
 
 ### 207 Financial statements must be audited
 (1) Every company or overseas company to which this section applies (A) must ensure that the financial statements or group financial statements prepared in respect of A under section 201, 202, or 204 (if any) are audited by a qualified auditor.
@@ -2297,7 +2321,9 @@ If the auditor's report indicates that the requirements of this Act have not bee
     (ii) a body corporate incorporated outside New Zealand; or
     (iii) a person not ordinarily resident in New Zealand.
 (2) However, section 207E does not apply to a company or an overseas company (A) if the following requirements are satisfied:
-  (a) A is a subsidiary of a company that is incorporated in New Zealand (B); and
+  (a) A is a subsidiary of a body corporate (B) that is—
+    (i) incorporated in New Zealand; or
+    (ii) registered or deemed to be registered under Part 18; and
   (b) group financial statements in relation to a group comprising B, A, and all other subsidiaries of B that comply with generally accepted accounting practice are completed and signed within the time specified in section 202; and
   (c) a copy of the group financial statements referred to in paragraph (b) and a copy of the auditor's report on those statements are delivered for registration under this Act or for lodgement under another Act.
 (3) For the purposes of subsection (1), a person is ordinarily resident in New Zealand if that person—
@@ -2305,7 +2331,7 @@ If the auditor's report indicates that the requirements of this Act have not bee
   (b) is living in New Zealand and the place where that person usually lives, and has been living for the immediately preceding 12 months, is in New Zealand, whether or not that person has on occasions been away from New Zealand during that 12-month period.
 
 ### 207E Financial statements must be registered
-(1) A company or an overseas company to which this section applies must ensure that, within 5 months after the balance date of the company or overseas company, copies of its financial statements or group financial statements completed in relation to that balance date under section 201, 202, or 204 together with a copy of the auditor's report on those statements (if any) are delivered to the Registrar for registration.
+(1) A company or an overseas company to which this section applies must ensure that, within 5 months after the balance date of the company or overseas company, copies of its financial statements or group financial statements completed in relation to that balance date under section 201, 202, or 204 (if any) together with a copy of the auditor's report on those statements (if any) are delivered to the Registrar for registration.
 (2) The company or overseas company must, when the financial statements or group financial statements are registered, pay to the Registrar the prescribed registration fee (if any).
 (3) Any person may, on payment of the prescribed fee (if any), inspect the copies of the financial statements, group financial statements, and auditor's report on those statements delivered to the Registrar under this section.
 
@@ -2513,18 +2539,25 @@ The Registrar must pay all infringement fees received into a Crown Bank Account.
   (e) every company with fewer than 10 shareholders if the company has opted into compliance with this section in accordance with section 207K (in relation to the accounting period referred to in subsection (2)).
 (2) The board of every company to which this section applies must, within 5 months after the balance date of the company, prepare an annual report on the affairs of the company during the accounting period ending on that date.
 (3) If the board of a company fails to comply with subsection (2), every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
+(4) However, the board of a large company (within the meaning of section 198) is not required to prepare an annual report on the affairs of the company during an accounting period if—
+  (a) the company is not required to prepare any financial statements or group financial statements for the accounting period under Part 11, Part 7 of the Financial Markets Conduct Act 2013, or any other enactment; and
+  (b) shareholders who together hold at least 95% of the voting shares (within the meaning of section 198) agree that the annual report need not be prepared for the accounting period.
 
 ### 209 Obligation to make annual report available to shareholders
-(1) The board of a company must send to every shareholder of the company, not less than 20 working days before the date fixed for holding the annual meeting of shareholders,—
+(1) The board of a company must send to every shareholder of the company—
   (a) a copy of the annual report; or
   (b) a notice containing the statements specified in subsection (3).
+(1AA) The copy of the annual report or the notice referred to in subsection (1)﻿(b) must be sent—
+  (a) not less than 20 working days before the date fixed for holding the annual meeting of shareholders; or
+  (b) if, under section 120(5) or 122(4), it is not necessary to hold an annual meeting, within 20 working days after the date on which the annual report is prepared.
 (1A) Subsection (1) does not apply if the annual report is not required to be prepared under section 208.
 (2) Subsection (1) is subject to section 212.
 (3) The notice referred to in subsection (1)﻿(b) must contain—
   (a) a statement to the effect that the shareholder has a right to receive from the company, free of charge, a copy of the annual report if the shareholder, within 15 working days of receiving the notice, makes a request to the company to receive a copy of the annual report; and
   (b) a statement to the effect that the shareholder may obtain a copy of the annual report by electronic means; and
   (c) a statement as to how the shareholder may obtain a copy of the annual report by electronic means (for example, from a specified website address); and
-  (d) a statement as to whether the board of the company has prepared, in relation to the same accounting period as the annual report, a concise annual report and, if so, a statement—
+  (d) if the board of the company has prepared, in relation to the same accounting period as the annual report, a concise annual report, a statement—
+    (iaaa) that the board of the company has prepared, in relation to the same accounting period as the annual report, a concise annual report; and
     (i) to the effect that the shareholder has a right to receive from the company, free of charge, a copy of the concise annual report if the shareholder, within 15 working days of receiving the notice, makes a request to the company to receive a copy of the concise annual report; and
     (ii) to the effect that the shareholder may obtain a copy of the concise annual report by electronic means; and
     (iii) as to how the shareholder may obtain a copy of the concise annual report by electronic means (for example, from a specified website address).
@@ -2562,7 +2595,7 @@ The Registrar must pay all infringement fees received into a Crown Bank Account.
 (3) If the board of a company fails to comply with this section, every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
 
 ### 209C Alternative obligations for FMC reporting entities
-(1) This section applies, in respect of a company (company A) that is an FMC reporting entity, on and after the date on which FMC regulations impose obligations on any company in relation to the way in which it must make its annual report available (including by electronic means).
+(1) This section applies, in respect of a company (company A) that is an FMC reporting entity, on and after the date on which FMC regulations impose obligations on any company in relation to when, to whom, or the manner in which it must make its annual report available (including by electronic means).
 (2) If company A is an issuer of regulated products within the meaning of the FMC Act that is required to comply with those FMC regulations, sections 209 to 209B do not apply to an annual report to which the FMC regulations apply.
 (3) If company A is not an issuer of regulated products within the meaning of the FMC Act that is required to comply with those FMC regulations, the board of the company may elect, in respect of an annual report, to comply with the FMC regulations instead of with sections 209 to 209B (as if company A were an issuer of that type).
 (4) If subsection (3) applies,—
@@ -2573,9 +2606,9 @@ The Registrar must pay all infringement fees received into a Crown Bank Account.
     (a) means a report prepared under section 208; and
     (b) includes a concise annual report (if any)
   - **FMC Act** means the Financial Markets Conduct Act 2013
-  - **FMC regulations** means regulations made under section 543(1)﻿(e) of the FMC Act that impose obligations on any FMC reporting entities in relation to the way in which an entity must make its annual report available under either or both of sections 96 and 97 of the FMC Act (including by electronic means)
+  - **FMC regulations** means regulations made under section 543(1)﻿(e) and (ea) of the FMC Act that impose obligations on any FMC reporting entities in relation to when, to whom, or the manner in which an entity must make its annual report available under either or both of sections 96 and 97 of the FMC Act (including by electronic means)
   - **FMC reporting entity** has the same meaning as in section 451 of the FMC Act.
-(6) Regulations may be made under section 543(1)﻿(e) of the FMC Act for the purpose of this section.
+(6) Regulations may be made under section 543(1)﻿(e) and (ea) of the FMC Act for the purpose of this section.
 
 ### 210 Information for shareholders who elect not to receive annual report
 [Repealed]
@@ -2833,6 +2866,7 @@ In this Part, unless the context otherwise requires,—
 (1) A compromise approved under section 230 may be varied either—
   (a) in accordance with any procedure for variation incorporated in the compromise as approved; or
   (b) by the approval of a variation of the compromise in accordance with this Part which, for that purpose, shall apply with such modifications as may be necessary as if any proposed variation were a proposed compromise.
+(1A) A variation made as referred to in subsection (1)﻿(a) must be notified to the Registrar and can have no effect before that happens.
 (2) The provisions of this Part shall apply to any compromise that is varied in accordance with this section.
 
 ### 232 Powers of court
@@ -5573,6 +5607,19 @@ Subpart 2 of Part 11 imposes obligations on large overseas companies (within the
 (2) The Registrar must remove an overseas company from the overseas register as soon as practicable after—
   (a) the date specified in the notice given in accordance with subsection (1)﻿(b); or
   (b) receipt of a notice given by a liquidator in accordance with the provisions of Schedule 9.
+(3) The Registrar may (in any event) remove an overseas company from the overseas register if satisfied that it has ceased to carry on business in New Zealand.
+(4) Before an overseas company can be removed from the overseas register under subsection (3), the Registrar must—
+  (a) give notice to the overseas company—
+    (i) that the Registrar intends to remove the overseas company from the overseas register under subsection (3); and
+    (ii) that the overseas company may, within 20 working days after the date of the notice, deliver to the Registrar an objection to its removal on the ground that it is still carrying on business in New Zealand; and
+  (b) give public notice—
+    (i) that the Registrar intends to remove the overseas company from the overseas register under subsection (3); and
+    (ii) that any person may, within 20 working days after the date of the public notice, deliver to the Registrar an objection to the overseas company’s removal on the ground that the overseas company is still carrying on business in New Zealand.
+(5) Subsection (4) does not apply if the Registrar is satisfied that the overseas company has been dissolved, or has otherwise ceased to exist as a company, under or by virtue of the laws of any other country.
+(6) If any person objects to the removal of the overseas company as referred to in subsection (4)﻿(a)﻿(ii) or (b)﻿(ii), the Registrar must not proceed with the removal unless the Registrar is satisfied that—
+  (a) the objection has been withdrawn; or
+  (b) the facts on which the objection is based are not, or are no longer, correct; or
+  (c) the objection is frivolous or vexatious.
 
 ### 342 Liquidation of overseas company
 (1) An application may be made to the court for the liquidation of an overseas company in accordance with Part 16, subject to the modifications and exclusions set out in Schedule 9.
@@ -5580,7 +5627,9 @@ Subpart 2 of Part 11 imposes obligations on large overseas companies (within the
   (a) is registered under this Part; or
   (b) has given public notice of an intention to cease to carry on business in New Zealand in accordance with section 341(1)﻿(a); or
   (c) has given notice to the Registrar of the date on which it will cease to carry on business in New Zealand in accordance with section 341(1)﻿(b); or
+  (ca) has objected as referred to in section 341(4)﻿(a)﻿(ii); or
   (d) has been dissolved, or otherwise ceased to exist as a company, under or by virtue of the laws of any other country.
+(3) An application may be made under subsection (1) whether or not the Registrar has acted under section 341(3) to (6).
 
 ### 343 Attorneys of overseas companies
 (1) Sections 19 to 21 of the Property Law Act 2007 apply, with all necessary modifications, in relation to a power of attorney executed by an overseas company registered under this Part, to the same extent as if the company was a natural person and as if the commencement of the liquidation of the company was an event revoking the power of attorney within the meaning of those sections.
@@ -6515,7 +6564,7 @@ A requirement imposed by any provision of this Act that directors of a company m
     (ii) forms to be signed by specified persons:
   (b) prescribing requirements, not inconsistent with this Act, with which documents delivered for registration must comply:
   (ba) prescribing a country, State, or territory outside New Zealand as an enforcement country for the purposes of section 10(d) if the country, State, or territory has an agreement with New Zealand that allows for the recognition and enforcement there of New Zealand judgments imposing regulatory regime criminal fines:
-  (bb) prescribing information required for the purposes of section 12(2)﻿(b)﻿(iii) and paragraph (ga) of Schedule 4:
+  (bb) prescribing information required for the purposes of section 12(3)﻿(b) and paragraph (ga) of Schedule 4:
   (bc) prescribing information required for the purposes of section 94A(e):
   (c) regulating, in a manner not inconsistent with this Act, the conduct of liquidations:
   (ca) prescribing countries, States, or territories outside New Zealand for the purposes of section 151(2)﻿(eb):
@@ -6633,6 +6682,7 @@ A meeting of shareholders may be held by a quorum of the shareholders—
 (3A) A shareholder may appoint more than 1 proxy for a particular meeting, provided that more than 1 proxy is not appointed to exercise the rights attached to a particular share held by the shareholder.
 (4) No proxy is effective in relation to a meeting unless a copy of the notice of appointment is produced before the start of the meeting.
 (5) The constitution of a company may provide that a proxy is not effective unless it is produced by a specified time before the start of a meeting if the time specified is not earlier than 48 hours before the start of the meeting.
+(6) For the purposes of subclause (5), the constitution may provide for different matters for different kinds of proxies (for example, a different specified time for the production of a proxy by electronic means).
 
 ### 7 Postal votes
 (1) Subject to the constitution of the company, a shareholder may exercise the right to vote at a meeting by casting a postal vote in accordance with the provisions of this clause.
@@ -6640,6 +6690,9 @@ A meeting of shareholders may be held by a quorum of the shareholders—
 (2) The notice of a meeting at which shareholders are entitled to cast a postal vote must state the name of the person authorised by the board to receive and count postal votes at that meeting.
 (3) If no person has been authorised to receive and count postal votes at a meeting, or if no person is named as being so authorised in the notice of the meeting, every director is deemed to be so authorised.
 (4) A shareholder may cast a postal vote on all or any of the matters to be voted on at the meeting by sending a notice of the manner in which his or her shares are to be voted to a person authorised to receive and count postal votes at that meeting. The notice must reach that person not less than 48 hours before the start of the meeting.
+(4A) Despite subclause (4),—
+  (a) the constitution of a company may specify a time by which postal votes that are cast using electronic means must reach the person who is authorised to receive and count postal votes at the meeting; and
+  (b) that time may be less than 48 hours before the start of the meeting.
 (5) It is the duty of a person authorised to receive and count postal votes at a meeting—
   (a) to collect together all postal votes received by him or her or by the company; and
   (b) in relation to each resolution to be voted on at the meeting, to count—
@@ -6864,7 +6917,7 @@ Except as provided in this schedule and in any regulations made under this Act, 
 (1) The total sum to which priority is to be given under any, or all, of paragraphs (a) to (e) of clause 1(2) must not, in the case of any one employee, exceed $22,160 or any greater amount that is prescribed under subclause (2) at the commencement of the liquidation.
 (2) The sum stated in subclause (1) must be adjusted as follows:
   (a) subject to paragraph (d), an adjustment must be made, by the Governor-General by Order in Council, after the 3-year period starting on 1 July 2006 and ending on 30 June 2009 and after every 3-year period following that (an adjustment period):
-  (b) subject to paragraph (d), the Order in Council must be made within 3 months of the end of an adjustment period:
+  (b) subject to paragraph (d), the Order in Council must be made within 4 months of the end of an adjustment period:
   (c) each adjustment must reflect any overall percentage increase, over the relevant adjustment period, in average weekly earnings (total, private sector), calculated by reference to the last Quarterly Employment Survey published by Statistics New Zealand (or, if that survey ceases to be published, a survey certified by the Government Statistician as an equivalent to that survey) within the relevant adjustment period:
   (d) if, in an adjustment period, there is no change, or an overall decrease, in the percentage movement in average weekly earnings (total, private sector), as so calculated, no adjustment may be made for that adjustment period:
   (e) if, in accordance with paragraph (d), no adjustment is made, the next adjustment made for any succeeding adjustment period must reflect any overall percentage increase in average weekly earnings (total, private sector) between the date of the last adjustment and the end of the relevant adjustment period for which the adjustment is to be made:
