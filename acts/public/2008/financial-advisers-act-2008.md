@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-05-30_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -1470,6 +1470,7 @@ The disciplinary committee's notice of complaint to the financial adviser concer
   (g) order that A must pay a fine not exceeding $10,000:
   (h) take no action.
 (4) No fine may be imposed under subsection (3)﻿(g) in relation to an act or omission that constitutes an offence for which A has been convicted by a court.
+(4A) A fine imposed under subsection (3)﻿(g) is recoverable in any court as a debt due to the FMA.
 (5) In any case to which subsection (2) applies, the disciplinary committee may order that A must pay costs and expenses of, and incidental to, the investigation by the FMA and the disciplinary committee’s proceeding.
 (6) The disciplinary committee may publicly notify the action in any way that it thinks fit.
 (7) This section applies whether or not A is an authorised financial adviser at the time of the complaint, the investigation, or the disciplinary proceeding.
