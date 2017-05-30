@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-05-30_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -299,9 +299,11 @@ The FMA may give a direction under section 15B in relation to an applicant regar
 (1) The Registrar must deregister a financial service provider after a notice period in accordance with sections 19 and 20, if the Registrar is satisfied that the provider—
   (a) is no longer qualified to be registered in accordance with section 13; or
   (aa) has failed to notify the Registrar of the name, business address, and membership number, as required by section 16(1)﻿(ab); or
+  (ab) is required by section 48 to be a member of an approved dispute resolution scheme but is not a member of any such scheme as required; or
   (b) is not in the business of providing a financial service (at any time after the expiry of 3 months after registration); or
   (c) has been registered because of a false or misleading representation or omission; or
   (d) has proffered an application fee or annual confirmation fee or levy that has subsequently been dishonoured, declined, or reversed.
+(1AA) Subsection (1)﻿(ab) does not apply in respect of any time before the end of the period of 10 working days referred to in section 16(1)﻿(ab).
 (1A) The Registrar may, if the Registrar considers it necessary or desirable after taking into account section 18A, refer consideration of whether a financial service provider should be deregistered to the FMA for the FMA's direction.
 (1B) The Registrar must deregister a financial service provider if the FMA gives a direction under section 18B(3)﻿(c)﻿(i).
 (2) The Registrar must deregister a financial service provider if the provider so requests in writing, with effect from any future date requested. The Registrar must notify any relevant licensing authority of this deregistration.
