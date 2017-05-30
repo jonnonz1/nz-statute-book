@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2017-05-30_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -341,7 +341,7 @@ The explanatory note of an Order in Council made under section 30(2) must indica
 ### 32 Rates of payment of New Zealand superannuation payable to people resident in specified Pacific countries
 (1) The rate of New Zealand superannuation payable under section 31 is,—
   (a) in the case of a person who has resided in New Zealand for 20 or more years since turning 20 years, the base rate:
-  (b) in the case of a person who has resided in New Zealand for 10 or more years but fewer than 20 years since turning 20 years, an amount calculated using the following formula:The following table contains a formulaa × b20where—ais the base ratebis the whole number of years the person has resided in New Zealand since turning 20 years:
+  (b) in the case of a person who has resided in New Zealand for 10 or more years but fewer than 20 years since turning 20 years, an amount calculated using the following formula:a × b ÷ 20where—ais the base ratebis the whole number of years the person has resided in New Zealand since turning 20 years:
   (c) in the case of a person who is resident in a specified Pacific country and was being paid New Zealand superannuation immediately before 1 October 1999 under section 17 or section 17B of the Social Welfare (Transitional Provisions) Act 1990 as it was immediately before that date, the higher of—
     (i) the amount he or she was being paid immediately before that date; and
     (ii) the appropriate amount payable under paragraph (a) or paragraph (b).
@@ -423,7 +423,7 @@ The Fund is the property of the Crown.
 (3) Part 2 of the Public Finance Act 1989 (including, without limitation, section 26W) applies to the matters that are included in the economic and fiscal update under this section as if they were required to be included under that Act.
 
 ### 43 Amount of required annual capital contribution
-The required annual capital contribution for each financial year is—The following table is small in size and contains a formula.a × that year’s GDP − b100where—
+The required annual capital contribution for each financial year is—a ÷ 100 × that year’s GDP − bwhere—
   (a) is the percentage of that year’s GDP that, if the same percentage of the GDP that is projected for each of the next 40 years were contributed (by way of either or both of annual required capital contributions and annual expense payments under section 45) each year for the next 40 years, would be just sufficient, taking into account the Fund balance at the start of that year and projected Fund investment income over the next 40 years, to enable the Fund to meet the expected net cost of the New Zealand superannuation entitlements payable out of the Fund over the next 40 years
   (GDP) is the projected annual gross domestic product of New Zealand
   (b) is the expected net cost of the New Zealand superannuation entitlements payable out of the Fund in the year
@@ -718,9 +718,12 @@ The functions of the Commissioner are as follows:
   (b) to monitor the effects of retirement income policies that are being implemented in New Zealand:
   (c) to review the retirement income policies being implemented by the Government and to report to the Minister by 31 December 2007 and at 3-yearly intervals thereafter, in accordance with section 84:
   (d) to advise on retirement income issues, when requested to do so by the Minister:
+  (da) to promote education, and publish information, about financial matters to assist individuals to make financial decisions confidently and informedly:
+  (db) to advise on financial capability issues, when requested to do so by the Minister:
   (e) to monitor the effectiveness of persons (whether referred to as ombudsmen or by any other term) who have been appointed (other than under statutory authority) to consider complaints and disputes about savings and investments; and to consider any issues addressed to the Commissioner by any such person and, if appropriate, to make recommendations to any person:
   (f) to collect and publish information for the purpose of enabling the fulfilment of any of the functions referred to in this section:
-  (g) to perform such other functions as are conferred on the Commissioner by this Act or any other enactment.
+  (g) to perform such other functions as are conferred on the Commissioner by this Act or any other enactment:
+  (h) to perform any additional function that the Minister directs under section 112 of the Crown Entities Act 2004.
 
 ### 84 Periodic reviews
 (1) For each review to be conducted under section 83(c), the Minister must, not later than 12 months before the date on which the review is required to be completed, specify, by notice in writing addressed to the Commissioner,—
