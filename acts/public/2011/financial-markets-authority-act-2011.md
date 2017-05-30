@@ -1,5 +1,5 @@
 # Financial Markets Authority Act 2011
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-05-30_
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
@@ -39,13 +39,13 @@ In this Act, unless the context otherwise requires,—
     (c) also includes any of the following:
       (i) a body corporate that is related to a person referred to in paragraph (a) or (b) (within the meaning of section 12(2) of the Financial Markets Conduct Act 2013); or
       (ii) a director or senior manager of a person referred to in paragraph (a) or (b) (within the meaning of those terms in section 4 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 but applied even if the person referred to in those paragraphs is not a financial service provider); or
-      (iii) a person who was previously a person referred to in any of paragraphs (a), (b), or (c)(i) or (ii), in respect of any action, event, or circumstance while the person was such a person; but
+      (iii) a person who was previously a person referred to in any of paragraphs (a), (b), or (c)﻿(i) or (ii), in respect of any action, event, or circumstance while the person was such a person; but
     (d) does not include any class or classes of persons declared by the Governor-General by Order in Council not to be financial markets participants
   - **financial products** has the same meaning as in section 7 of the Financial Markets Conduct Act 2013
   - **financial service** has the same meaning as in section 5 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008
   - **FMA** means the Financial Markets Authority established by Part 2
   - **involved in a contravention** has the same meaning as in section 533 of the Financial Markets Conduct Act 2013
-  - **issuer** has the same meaning as in section 11(1)(b) of the Financial Markets Conduct Act 2013
+  - **issuer** has the same meaning as in section 11(1)﻿(b) of the Financial Markets Conduct Act 2013
   - **law enforcement or regulatory agency** means any of the following:
     (a) any department of State that, with the authority of the Prime Minister, is responsible for the administration of any part of the financial markets legislation:
     (b) the Commerce Commission:
@@ -102,7 +102,7 @@ The FMA's main objective is to promote and facilitate the development of fair, e
   (f) to co-operate with—
     (i) any other law enforcement or regulatory agency (including under section 30):
     (ii) overseas regulators (including under section 30 or 31).
-(2) Subsection (1)(b) and (c) do not limit the functions, powers, and duties conferred or imposed on any other person in respect of financial markets legislation.
+(2) Subsection (1)﻿(b) and (c) do not limit the functions, powers, and duties conferred or imposed on any other person in respect of financial markets legislation.
 (3) The fact that some other person has functions, powers, and duties in respect of financial markets legislation does not limit or restrict the FMA's functions, powers, and duties in respect of that legislation.
 (4) Except as expressly provided otherwise in this or any other Act, the FMA must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
   (a) this Act; and
@@ -116,7 +116,7 @@ The board of the FMA consists of not fewer than 5, and not more than 9, members.
 ### 11 Associate members
 (1) The Minister may appoint any person to be an associate member of the board of the FMA after consulting the chairperson.
 (2) The Minister may appoint no more than 5 associate members.
-(3) Subsection (1) applies despite section 28(1)(b) of the Crown Entities Act 2004.
+(3) Subsection (1) applies despite section 28(1)﻿(b) of the Crown Entities Act 2004.
 (4) An associate member may be appointed only in relation to a matter or a class of matters to be specified in the member's notice of appointment, and for the period, not exceeding 5 years, that is specified in that instrument.
 (5) An associate member may not be appointed as chairperson, deputy chairperson, or a temporary deputy chairperson under clause 5 of Schedule 5 of the Crown Entities Act 2004.
 
@@ -209,7 +209,7 @@ In any proceeding under this Act or any other enactment, a certificate purportin
   (c) if necessary, to reproduce, or assist in reproducing, in usable form, information recorded or stored in any document or class of documents specified in the notice (within the time and in the manner specified in the notice); or
   (d) to appear before the FMA, or a specified person, at a time and place specified in the notice to give evidence, either orally or in writing, and produce any document or class of documents specified in the notice.
 (2) The FMA may also exercise its powers under subsection (1) for the purposes of complying with the request of an overseas regulator under section 31 or otherwise co-operating with an overseas regulator.
-(3) Information supplied in response to a notice under subsection (1)(a) must be—
+(3) Information supplied in response to a notice under subsection (1)﻿(a) must be—
   (a) given in writing; and
   (b) signed in the manner specified in the notice.
 (4) If a document is produced in response to a notice under subsection (1), the FMA, or the person to whom the document is produced, may—
@@ -276,7 +276,7 @@ In any proceeding under this Act or any other enactment, a certificate purportin
 ### 31 Power of FMA to act on requests of overseas regulators
 (1) An overseas regulator may request the FMA to inquire into any matter related to the functions of that overseas regulator.
 (2) The FMA may obtain information, documents, or evidence that, in the FMA's opinion, is likely to assist the FMA in complying with that request by—
-  (a) exercising its powers under section 25 or authorising a person under section 52 to exercise powers under section 25(1)(a) to (c); or
+  (a) exercising its powers under section 25 or authorising a person under section 52 to exercise powers under section 25(1)﻿(a) to (c); or
   (b) exercising its powers to receive evidence.
 (3) If the powers under section 25 are exercised for the purposes of complying with that request, or otherwise co-operating with an overseas regulator, that fact must be specified in the notice that is served under section 25.
 (4) The FMA may transmit the information, documents, or evidence obtained by it to the overseas regulator in the manner that the FMA thinks fit.
@@ -328,23 +328,23 @@ In any proceeding under this Act or any other enactment, a certificate purportin
   (f) any other matters it considers relevant.
 
 ### 35 Requirements for FMA exercising person’s right of action
-(1) The FMA may commence proceedings under section 34(1)(a) without the leave of the High Court only if—
+(1) The FMA may commence proceedings under section 34(1)﻿(a) without the leave of the High Court only if—
   (a) person A has not yet commenced proceedings in respect of the matter; and
   (b) the FMA serves written notice on person A of its intention to commence proceedings; and
   (c) within 30 working days of the FMA giving that notice, person A does not—
     (i) commence proceedings; or
     (ii) give written notice to the FMA that it objects to the FMA commencing the proceedings.
-(2) However, the FMA may commence proceedings under section 34(1)(a) before the 30-working-day period referred to in subsection (1)(c) expires (without the leave of the High Court) if person A gives written notice to the FMA that he, she, or it consents to the FMA commencing the proceedings.
-(3) The FMA may exercise a power under section 34(1)(b) only if—
+(2) However, the FMA may commence proceedings under section 34(1)﻿(a) before the 30-working-day period referred to in subsection (1)﻿(c) expires (without the leave of the High Court) if person A gives written notice to the FMA that he, she, or it consents to the FMA commencing the proceedings.
+(3) The FMA may exercise a power under section 34(1)﻿(b) only if—
   (a) person A gives written notice to the FMA that he, she, or it consents to the FMA taking over the proceedings (in which case the High Court may, on an application from the FMA, make an order under section 38 to facilitate the takeover); or
   (b) the leave of the High Court is given under section 36.
 
 ### 36 High Court may grant leave in certain circumstances
 (1) The FMA may, with the leave of the High Court,—
-  (a) commence proceedings under section 34(1)(a) if person A objects under section 35(1)(c)(ii); or
-  (b) take over proceedings under section 34(1)(b) if proceedings have been commenced by person A.
+  (a) commence proceedings under section 34(1)﻿(a) if person A objects under section 35(1)﻿(c)﻿(ii); or
+  (b) take over proceedings under section 34(1)﻿(b) if proceedings have been commenced by person A.
 (2) The High Court must give leave if it is satisfied that it is in the public interest for—
-  (a) the FMA to exercise a power under section 34(1)(a) or (b) (as the case may be); and
+  (a) the FMA to exercise a power under section 34(1)﻿(a) or (b) (as the case may be); and
   (b) the FMA, rather than person A, to control the conduct of the proceedings.
 (3) Despite subsections (1) and (2), if person A is an individual, this section does not apply (and, accordingly, the High Court may not give leave under this section).
 (4) The High Court must, when considering whether to give leave, have regard to—
@@ -364,7 +364,7 @@ In any proceeding under this Act or any other enactment, a certificate purportin
   (b) giving directions for the conduct of the proceedings:
   (c) requiring person A or the directors of person A to provide information or assistance in relation to the proceedings:
   (d) directing that any amount ordered to be paid by a defendant in the proceedings must be applied first to pay, in whole or in part, the FMA's actual costs in commencing or taking over the proceedings under this subpart and in conducting those proceedings:
-  (e) subject to paragraph (d), directing that any amount ordered to be paid by a defendant in the proceedings must be paid, in whole or part, to any persons referred to in section 34(3)(b) or (c) instead of to person A.
+  (e) subject to paragraph (d), directing that any amount ordered to be paid by a defendant in the proceedings must be paid, in whole or part, to any persons referred to in section 34(3)﻿(b) or (c) instead of to person A.
 (2) If the FMA proposes to exercise a power under this subpart, the High Court may grant interim relief on the application of the FMA, whether or not the FMA has given the required notice, obtained leave, or satisfied any other requirements for its exercise of a power under this subpart.
 (3) The High Court may grant that interim relief on the conditions it thinks fit, including (without limitation) conditions as to the giving of notice or making of an application for leave.
 
@@ -385,7 +385,7 @@ In any proceeding under this Act or any other enactment, a certificate purportin
 No proceedings commenced or taken over under this subpart may be settled, compromised, or discontinued without the approval of the High Court.
 
 ### 42 Special limitation provision
-If the FMA applies for the leave of the High Court to commence proceedings under section 34(1)(a), the date on which that application for leave is filed must, for the purposes of—
+If the FMA applies for the leave of the High Court to commence proceedings under section 34(1)﻿(a), the date on which that application for leave is filed must, for the purposes of—
   (a) the Limitation Act 2010, be treated as being the date on which the claim is filed in relation to those proceedings:
   (b) the Limitation Act 1950 (as applied under section 59 of the Limitation Act 2010), be treated as being the date on which the proceedings are brought.
 
@@ -393,7 +393,7 @@ If the FMA applies for the leave of the High Court to commence proceedings under
 (1) The FMA may exercise a power under section 34 regardless of whether the date on which the relevant claim accrued, or the date of the act or omission on which the relevant claim is based, was before or after the commencement of this section.
 (2) In subsection (1), claim has the same meaning as in section 4 of the Limitation Act 2010.
 (3) To avoid doubt, if a person ceased to be a financial markets participant before the commencement of this section, the person must still be treated as being a person who has been a financial markets participant as referred to in section 34.
-(4) The FMA may exercise the power to take over specified proceedings under section 34(1)(b) regardless of whether those proceedings were commenced before or after the commencement of this section.
+(4) The FMA may exercise the power to take over specified proceedings under section 34(1)﻿(b) regardless of whether those proceedings were commenced before or after the commencement of this section.
 
 ### Subpart 4 — Other powers
 
@@ -417,15 +417,15 @@ If the FMA applies for the leave of the High Court to commence proceedings under
 
 ### 46 FMA may accept undertakings
 (1) The FMA may accept a written undertaking given by, or on behalf of, a person in connection with a matter in relation to which the FMA is performing or exercising any of its functions, powers, or duties for the purposes of this Act or any other enactment.
-(1A) An undertaking may be given in connection with the FMA making a statement under section 9(1)(a)(v) (but this subsection does not limit subsection (1)).
+(1A) An undertaking may be given in connection with the FMA making a statement under section 9(1)﻿(a)﻿(v) (but this subsection does not limit subsection (1)).
 (2) The person may withdraw or vary the undertaking with the consent of the FMA.
 
 ### 46A Undertaking may include requirements as to compensation or penalties
 (1) An undertaking under section 46 may include—
   (a) an undertaking to pay compensation to any person or otherwise take action to avoid, remedy, or mitigate any actual or likely adverse effects arising from a contravention, involvement in a contravention, or possible contravention, or involvement in a contravention of any provision of the financial markets legislation:
   (b) an undertaking to pay to the FMA an amount in lieu of a pecuniary penalty.
-(2) The FMA must ensure that each amount paid under subsection (1)(b) is paid into a Crown Bank Account (after deducting the FMA's actual costs incurred in connection with the matter).
-(3) If an undertaking referred to in subsection (1)(b) is given, the FMA must give notice of that undertaking on its Internet site (whether or not it gives notification of other undertakings given in relation to the same matter).
+(2) The FMA must ensure that each amount paid under subsection (1)﻿(b) is paid into a Crown Bank Account (after deducting the FMA's actual costs incurred in connection with the matter).
+(3) If an undertaking referred to in subsection (1)﻿(b) is given, the FMA must give notice of that undertaking on its Internet site (whether or not it gives notification of other undertakings given in relation to the same matter).
 (4) The notice under subsection (3) must include—
   (a) a statement of the amount that has been undertaken to be paid; and
   (b) a brief description of the circumstances and nature of the alleged contravention to which the undertaking relates.
@@ -521,17 +521,17 @@ If the FMA applies for the leave of the High Court to commence proceedings under
 **FMA may authorise person to obtain information or documents**
 
 ### 52 Power to authorise person to obtain information or documents
-(1) The FMA may, in accordance with section 53, authorise any person to exercise any of the powers under section 25(1)(a) to (c) if exercising that power is for the purpose of—
+(1) The FMA may, in accordance with section 53, authorise any person to exercise any of the powers under section 25(1)﻿(a) to (c) if exercising that power is for the purpose of—
   (a) this Act or any Act listed in Schedule 1 or any enactment made under any of those Acts; or
   (b) complying with the request of an overseas regulator under section 31 or otherwise co-operating with an overseas regulator.
 (2) An authorisation under subsection (1) may relate to a particular case, or a class or classes of cases, specified by the FMA.
-(3) For the purposes of subsection (1), a notice served under section 25(1)(a) to (c) may require the information or documents (as the case may be) to be supplied or produced to a person authorised under subsection (1) (rather than to the FMA).
-(4) The fact that any person authorised by the FMA exercises, or attempts to exercise, any of the powers in section 25(1)(a) to (c) is sufficient evidence that the exercise of the power has been authorised by the FMA unless there is evidence to the contrary.
+(3) For the purposes of subsection (1), a notice served under section 25(1)﻿(a) to (c) may require the information or documents (as the case may be) to be supplied or produced to a person authorised under subsection (1) (rather than to the FMA).
+(4) The fact that any person authorised by the FMA exercises, or attempts to exercise, any of the powers in section 25(1)﻿(a) to (c) is sufficient evidence that the exercise of the power has been authorised by the FMA unless there is evidence to the contrary.
 (5) Section 73 of the Crown Entities Act 2004 does not limit this section.
 
 ### 53 Requirements for persons authorised to obtain information or documents
-(1) The FMA must not authorise a person under section 52 unless the FMA is satisfied that the person is suitably qualified or trained, or the person is a member of a class of persons who are suitably qualified or trained, to exercise a power under section 25(1)(a) to (c).
-(2) A person authorised by the FMA to exercise a power under section 25(1)(a) to (c) must, if requested at the time of exercising the power, produce evidence of that person's authority to exercise the power.
+(1) The FMA must not authorise a person under section 52 unless the FMA is satisfied that the person is suitably qualified or trained, or the person is a member of a class of persons who are suitably qualified or trained, to exercise a power under section 25(1)﻿(a) to (c).
+(2) A person authorised by the FMA to exercise a power under section 25(1)﻿(a) to (c) must, if requested at the time of exercising the power, produce evidence of that person's authority to exercise the power.
 
 ### 54 Non-disclosure of information or documents from exercise of powers under section 25 except in certain circumstances
 (1) A person authorised under section 52 must not publish or disclose to any other person any information or documents acquired in the course of exercising powers under section 25 except—
@@ -595,10 +595,10 @@ Without limiting any other statutory protection from liability, no person is lia
   (e) the publication or disclosure of the information or document is to an overseas regulator under subpart 2 or otherwise for the purpose of assisting the FMA to co-operate with an overseas regulator; or
   (f) the publication or disclosure of the information or document is to a person who the FMA is satisfied has a proper interest in receiving the information or document; or
   (g) the publication or disclosure of the information or document is with the consent of the person to whom the information or document relates or of the person to whom the information or document is confidential.
-(4) The FMA must not publish or disclose, or direct an authorised person to publish or disclose, any information or document under subsection (3)(f) unless the FMA is satisfied that appropriate protections are or will be in place for the purpose of maintaining the confidentiality of the information or document (in particular, information that is personal information within the meaning of the Privacy Act 1993).
+(4) The FMA must not publish or disclose, or direct an authorised person to publish or disclose, any information or document under subsection (3)﻿(f) unless the FMA is satisfied that appropriate protections are or will be in place for the purpose of maintaining the confidentiality of the information or document (in particular, information that is personal information within the meaning of the Privacy Act 1993).
 
 ### 60 Conditions relating to publication or disclosure of information or documents
-(1) The FMA may, by written notice to a person to whom any information or document is published or disclosed under section 59(3)(c), (f), or (g), impose any conditions in relation to the publication, disclosure, or use of the information or document by the person.
+(1) The FMA may, by written notice to a person to whom any information or document is published or disclosed under section 59(3)﻿(c), (f), or (g), impose any conditions in relation to the publication, disclosure, or use of the information or document by the person.
 (2) The FMA must, in considering what conditions to impose, have regard to whether conditions are necessary or desirable in order to protect the privacy of any individual.
 (3) Conditions imposed under subsection (1) may include, without limitation, conditions relating to—
   (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 1993):
@@ -613,14 +613,14 @@ Without limiting any other statutory protection from liability, no person is lia
   (a) refuses or fails, without reasonable excuse, to comply with a notice under section 25; or
   (b) in purported compliance with a notice under section 25, supplies information, or produces a document, or gives evidence, knowing it to be false or misleading; or
   (c) resists, obstructs, or delays a person acting under a warrant issued under section 29; or
-  (d) having been required under a notice under section 25(1)(d) to appear before the FMA or a specified person referred to in that paragraph, for the purposes of any matter, without reasonable excuse—
+  (d) having been required under a notice under section 25(1)﻿(d) to appear before the FMA or a specified person referred to in that paragraph, for the purposes of any matter, without reasonable excuse—
     (i) refuses or fails to appear; or
     (ii) refuses to take an oath or affirmation as a witness; or
     (iii) refuses to answer any question; or
     (iv) refuses or fails to provide any document or information that the person is required to provide; or
   (e) deceives or attempts to deceive or knowingly misleads the FMA or a specified person referred to in section 25(5) in providing evidence to either of them; or
   (f) wilfully acts in contravention of any order made by the FMA under section 44.
-(2) A body corporate commits an offence under subsection (1)(d) if it is required to appear under section 25(1)(d) and, without reasonable excuse, an authorised representative on its behalf refuses or fails to appear, refuses to take an oath or affirmation as a witness, refuses to answer any question, or refuses or fails to provide any document or information that the body corporate is required to provide.
+(2) A body corporate commits an offence under subsection (1)﻿(d) if it is required to appear under section 25(1)﻿(d) and, without reasonable excuse, an authorised representative on its behalf refuses or fails to appear, refuses to take an oath or affirmation as a witness, refuses to answer any question, or refuses or fails to provide any document or information that the body corporate is required to provide.
 (3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $300,000.
 
 **Other miscellaneous provisions**
@@ -643,9 +643,9 @@ Without limiting any other statutory protection from liability, no person is lia
   (c) be served on an overseas company in a manner provided for in section 390 of the Companies Act 1993:
   (d) be served on any other body corporate in a manner in which it could be served if the body corporate were a company within the meaning of the Companies Act 1993.
 (2) In the absence of proof to the contrary, a notice, document, or notification sent to a person in accordance with—
-  (a) subsection (1)(a)(ii) must be treated as having been served on the person when it would have been delivered in the ordinary course of post; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted:
-  (b) subsection (1)(a)(iii) must be treated as having been served on the person on the second working day after the day on which it is sent.
-(3) Section 392 of the Companies Act 1993 applies for the purposes of subsection (1)(b) to (d).
+  (a) subsection (1)﻿(a)﻿(ii) must be treated as having been served on the person when it would have been delivered in the ordinary course of post; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted:
+  (b) subsection (1)﻿(a)﻿(iii) must be treated as having been served on the person on the second working day after the day on which it is sent.
+(3) Section 392 of the Companies Act 1993 applies for the purposes of subsection (1)﻿(b) to (d).
 (4) If a person is absent from New Zealand, a notice served on the person's agent in New Zealand in accordance with subsection (1) must be treated as having been served on the person.
 (5) If a person has died, the notice may be served, in accordance with subsection (1), on his or her personal representative.
 
@@ -679,7 +679,7 @@ Nothing in this Part limits the Privacy Act 1993.
     (i) by financial markets participants in connection with the performance or exercise by the FMA of any function, power, or duty under this Act or any other enactment:
     (ii) on an application or a request to the FMA to perform or exercise any function, power, or duty under this Act or any other enactment:
   (b) prescribing the amounts of those fees and charges or the manner in which those fees and charges are to be calculated:
-  (c) authorising the FMA to require payment of any costs incurred by the FMA in connection with an application or a request referred to in paragraph (a)(ii).
+  (c) authorising the FMA to require payment of any costs incurred by the FMA in connection with an application or a request referred to in paragraph (a)﻿(ii).
 (2) Any Order in Council made under subsection (1) may authorise the FMA to refund or waive, in whole or in part and on any conditions as may be prescribed, payment of any fee, charge, or cost payable in relation to any person or class of persons.
 (3) The FMA may refuse to perform or exercise a function, power, or duty until the prescribed fee, charge, or cost is paid.
 (4) Any fee, charge, or cost payable to the FMA is recoverable by the FMA in any court of competent jurisdiction as a debt due to the FMA.
@@ -736,7 +736,7 @@ In this subpart, unless the context otherwise requires,—
     (b) the pay and conditions of which are, in their overall effect, no less favourable to the employee than those applying to the employee immediately before the date of the employee’s transfer to that position
   - **transferred employee** means a person who,—
     (a) immediately before the commencement date, is employed by the Commission; and
-    (b) is transferred to the FMA under section 72(1)(f).
+    (b) is transferred to the FMA under section 72(1)﻿(f).
 
 **Disestablishment of Securities Commission**
 
@@ -757,12 +757,12 @@ In this subpart, unless the context otherwise requires,—
   (g) anything done, or omitted to be done, or that is to be done, by or in relation to the Commission is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to the FMA; and
   (h) the commencement, continuation, or enforcement of proceedings by or against the Commission may instead be commenced, continued, or enforced by or against the FMA without amendment to the proceedings; and
   (i) the completion of a matter or thing that would, but for this section, have been completed by the Commission may be completed by the FMA.
-(2) The transfer of information from the Commission to the FMA under subsection (1)(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(2) The transfer of information from the Commission to the FMA under subsection (1)﻿(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
 (3) The disestablishment of the Commission does not, by itself, affect any of the following matters:
   (a) any decision made, or anything done or omitted to be done, by the Commission in relation to the performance or exercise of its functions, powers, or duties under any enactment:
   (b) any proceedings commenced by or against the Commission:
   (c) any other matter or thing arising out of the Commission’s performance or exercise, or purported performance or exercise, of its functions, powers, or duties under any enactment.
-(4) Despite subsection (1)(a), it is a function of the FMA to perform or exercise any functions, powers, or duties of the Commission that are necessary or desirable for it to perform or exercise, on a temporary basis, for the purpose of effectively managing the transition of functions from the Commission to the FMA.
+(4) Despite subsection (1)﻿(a), it is a function of the FMA to perform or exercise any functions, powers, or duties of the Commission that are necessary or desirable for it to perform or exercise, on a temporary basis, for the purpose of effectively managing the transition of functions from the Commission to the FMA.
 
 ### 73 References to Securities Commission
 (1) A reference (express or implied) to the Commission in any enactment (other than this Act), or in any instrument, register, record, notice, security, document, or communication made, given, passed, or executed before or on the commencement date, must be read as a reference to the FMA.
@@ -817,7 +817,7 @@ Nothing effected or authorised by sections 71 to 74—
   (b) anything done, or omitted to be done, or that is to be done, by or in relation to the Government Actuary is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to the chief executive of the department; and
   (c) the commencement, continuation, or enforcement of proceedings by or against the Government Actuary may instead be commenced, continued, or enforced by or against the chief executive of the department without amendment to the proceedings; and
   (d) the completion of a matter or thing that would, but for this section, have been completed by the Government Actuary may be completed by the chief executive of the department.
-(3) The transfer of information from the Government Actuary to the FMA under subsection (1)(a), or from the Government Actuary to the department under subsection (2)(a), does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(3) The transfer of information from the Government Actuary to the FMA under subsection (1)﻿(a), or from the Government Actuary to the department under subsection (2)﻿(a), does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
 (4) The disestablishment of the office of the Government Actuary does not, by itself, affect any of the following matters:
   (a) any decision made, or anything done or omitted to be done, by the Government Actuary in relation to the performance or exercise of his or her functions, powers, or duties under any enactment:
   (b) any proceedings commenced by or against the Government Actuary:
@@ -973,7 +973,7 @@ Every exemption granted under section 35A (as in force before the commencement o
   (a) published on an Internet site maintained by or on behalf of the FMA; and
   (b) notified in the Gazette; and
   (c) made available in printed form for purchase on request by members of the public.
-(4) A notification in the Gazette for the purpose of subsection (3)(b) does not have to include the text of the exemption.
+(4) A notification in the Gazette for the purpose of subsection (3)﻿(b) does not have to include the text of the exemption.
 (5) The FMA's reasons for granting an exemption under section 35A (including why the exemption is appropriate) must be published together with the exemption.
 (6) In this section, class exemption means an exemption that is of general application and applies in respect of a class of issuers.
 
@@ -1077,8 +1077,8 @@ The Financial Markets Authority may require payment to it of a charge or charges
   (c) the publication in the Gazette of a notice in respect of a notice under section 4B or 35A of the Act.
 
 ### 15 Exercise of FMA's powers under Securities Act 1978
-(1) If the FMA makes an order under section 44B(2)(a) or (b) of the Act, the Registrar must, upon receiving a copy of that order, place the order on the register of documents maintained under regulation 8.
-(2) If the FMA makes an order under section 44B(2)(c) of the Act that the broker cease to act as a broker in respect of all contributory mortgages previously allotted, the Registrar must, upon receiving a copy of that order, place the order on the register of documents maintained under regulation 8, and the registration of the broker named in the order is cancelled for the period specified in the order.
+(1) If the FMA makes an order under section 44B(2)﻿(a) or (b) of the Act, the Registrar must, upon receiving a copy of that order, place the order on the register of documents maintained under regulation 8.
+(2) If the FMA makes an order under section 44B(2)﻿(c) of the Act that the broker cease to act as a broker in respect of all contributory mortgages previously allotted, the Registrar must, upon receiving a copy of that order, place the order on the register of documents maintained under regulation 8, and the registration of the broker named in the order is cancelled for the period specified in the order.
 (3) If a broker fails to comply with the requirements of regulation 12 or 14, the Registrar may notify the FMA of the failure.
 
 ### 4 Costs payable to Financial Markets Authority
@@ -1091,7 +1091,7 @@ The FMA is authorised to require payment to it of the costs incurred by the FMA 
 ### 4 Fees and costs payable to FMA for advice or decisions
 (1) A person (A) must pay the fees set out in regulation 6 and the costs set out in regulation 7 on each occasion that advice is sought from the FMA in respect of—
   (a) an application by A for an exemption under section 36E of the Act:
-  (b) an application by A for an exemption under section 37C(1)(c) of the Act.
+  (b) an application by A for an exemption under section 37C(1)﻿(c) of the Act.
 (2) A person must pay the fees set out in regulation 6 and the costs set out in regulations 7 and 8 for the following matters:
   (a) for a decision by the FMA on whether or not to approve proposed market rules provided under section 36F of the Act:
   (b) for a decision by the FMA on whether or not to approve changes to market rules for registered markets provided under section 36J of the Act:
