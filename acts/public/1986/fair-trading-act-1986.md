@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-05-30_
 
 > Title
 
@@ -264,13 +264,13 @@ No person shall, in trade, in connection with the supply or possible supply of g
   (b) the publication of any information or matter relating to the supply or possible supply or the promotion of the supply or use of goods or services or the sale or grant or the possible sale or grant or the promotion of the sale or grant of an interest in land by—
     (i) that publisher or, where that publisher is a body corporate, by any interconnected body corporate; or
     (ii) any person who is a party to any contract, arrangement, or understanding with that publisher relating to the content, nature or tenor of the information or matter.
-(2) Nothing in sections 9 to 14 applies to the broadcasting of any information or matter by a broadcasting body, not being—
+(2) Nothing in sections 9 to 14 applies to the broadcasting of any information or matter by a broadcaster, not being—
   (a) the broadcasting of an advertisement; or
   (b) the broadcasting of any information or matter relating to the supply or possible supply or the promotion of the supply or use of goods or services or the sale or grant or the possible sale or grant or the promotion of the sale or grant of an interest in land by—
-    (i) that broadcasting body, or where that broadcasting body is a body corporate, by any interconnected body corporate; or
-    (ii) any person who is a party to any contract, arrangement, or understanding with that broadcasting body relating to the content, nature or tenor of the information or matter.
+    (i) that broadcaster, or where that broadcaster is a body corporate, by any interconnected body corporate; or
+    (ii) any person who is a party to any contract, arrangement, or understanding with that broadcaster relating to the content, nature or tenor of the information or matter.
 (3) For the purposes of this section—
-  (a) the expressions broadcasting and broadcasting body shall have the same meanings as they have in section 2 of the Broadcasting Act 1976:
+  (a) broadcasting and broadcaster have the same meanings as in section 2(1) of the Broadcasting Act 1989:
   (b) newspaper has the meaning given to that term by section 2 of the Films, Videos, and Publications Classification Act 1993:
   (ba) publisher, in relation to a newspaper, means its proprietor:
   (c) any 2 or more bodies corporate are to be treated as interconnected if one of them is a body corporate of which the other is a subsidiary (within the meaning of section 5 of the Companies Act 1993), or if both of them are subsidiaries (within the meaning of that section) of one and the same body corporate; and interconnected body corporate shall be construed accordingly.
@@ -1691,7 +1691,10 @@ Nothing in sections 48B to 48L or any co-operation arrangement prevents the Comm
   - **financial product** —
     (a) has the same meaning as in section 7 of the Financial Markets Conduct Act 2013; and
     (b) includes, in relation to any provision of sections 9 to 13, any class or classes of financial product declared by regulations made under section 548(1)﻿(a) of that Act to be a financial product for the purposes of the provision of Part 2 of that Act that corresponds to that provision of this Act
-  - **financial service** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013.
+  - **financial service** —
+    (a) has the same meaning as in section 5 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008; and
+    (b) includes a market service within the meaning of section 6(1) of the Financial Markets Conduct Act 2013; but
+    (c) does not include, in relation to any provision of sections 9 to 13, any class or classes of services declared by regulations made under section 548(1)﻿(d)﻿(ii) of the Financial Markets Conduct Act 2013 not to be financial services for the purposes of the provision of Part 2 of that Act that corresponds to that provision of this Act.
 
 ### 48Q No pecuniary penalty and fine for same conduct involving financial products or financial services
 (1) A person cannot be ordered to pay a pecuniary penalty, or be liable for a fine, under the Financial Markets Conduct Act 2013 and be liable for a fine under this Act for the same conduct.
