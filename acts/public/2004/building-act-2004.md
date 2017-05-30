@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-05-30_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -447,7 +447,7 @@ Under this Act, the chief executive—
     (i) the territorial authority is also a building consent authority; and
     (ii) an owner applies to the territorial authority for a building consent; and
   (b) issues project information memoranda; and
-  (c) grants exemptions under Schedule 1; and
+  (c) grants exemptions under clause 2 of Schedule 1; and
   (d) grants waivers and modifications of the building code; and
   (e) issues certificates of acceptance; and
   (f) issues and amends compliance schedules; and
@@ -1481,12 +1481,8 @@ If a building consent authority refuses to issue a code compliance certificate, 
     (i) the work was done by the owner or any predecessor in title of the owner; and
     (ii) a building consent was required for the work but not obtained; or
   (b) if section 42 (which relates to building work that had to be carried out urgently) applies; or
-  (c) if subsections (3) and (4) of section 91 (which apply if a building consent authority that is not a territorial authority or a regional authority is unable or refuses to issue a code compliance certificate in relation to building work for which it granted a building consent) apply; or
-  (d) if—
-    (i) the work affects premises to which section 362A applies; and
-    (ii) a building consent for the work was obtained before 31 March 2005; and
-    (iii) the territorial authority is unable or refuses to issue a code compliance certificate for the work; and
-    (iv) the application for the certificate of acceptance was made before 31 March 2010.
+  (c) if subsections (3) and (4) of section 91 (which apply if a building consent authority that is not a territorial authority or a regional authority is unable or refuses to issue a code compliance certificate in relation to building work for which it granted a building consent) apply.
+  (d)
 (2) A territorial authority may issue a certificate of acceptance only if it is satisfied, to the best of its knowledge and belief and on reasonable grounds, that, insofar as it could ascertain, the building work complies with the building code.
 (3) This section—
   (a) does not limit section 40 (which provides that a person must not carry out any building work except in accordance with a building consent); and
@@ -2518,7 +2514,7 @@ In sections 177 to 190, party, in relation to a determination, means any or all 
 (3) Subsection (1)﻿(b) applies to any power of decision of a territorial authority in respect of, or under, all or any of the following:
   (a) any waiver or modification of the building code under section 67:
   (b) a certificate of acceptance under section 96:
-  (c) an exemption from building consent requirements under paragraph (k) of Schedule 1:
+  (c) an exemption from building consent requirements under clause 2 of Schedule 1:
   (d) an amendment to a compliance schedule under section 106, 107, or 109:
   (e) a notice to fix:
   (f) sections 112, 113, 115, and 116 (which relate to alterations to, or changes in the use of, a building) and 124 and 129 (which relate to dangerous, earthquake-prone, and insanitary buildings):
