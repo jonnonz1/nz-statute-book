@@ -1,5 +1,5 @@
 # Dumping and Countervailing Duties Act 1988
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2017-05-30_
 
 > An Act to provide for the imposition of dumping and countervailing duties
 
@@ -72,7 +72,7 @@ This Act shall apply to investigations initiated under section 10 on or after th
   (a) there is any consideration payable for or in respect of the goods other than their price; or
   (b) the price is influenced by a relationship between the buyer, or a related person, and the seller, or a related person; or
   (c) in the opinion of the Secretary, the buyer, or a person related to the buyer, will, directly or indirectly, be reimbursed, be compensated, or otherwise receive a benefit for, or in respect of, the whole or any part of the price.
-(3) Where goods are imported into New Zealand and are purchased by the importer from the exporter (whether before or after exportation) for a particular price and the Secretary is satisfied, after having regard to—that the importer, whether directly or through a related person, sells those goods in New Zealand (whether in the condition in which they were imported or otherwise) at a loss, the Secretary may treat the sale of those goods as indicating that the importer or a related person will, directly or indirectly, be reimbursed, be compensated, or otherwise receive a benefit for, or in respect of, the whole or any part of the price for the purposes of subsection (2)(c).
+(3) Where goods are imported into New Zealand and are purchased by the importer from the exporter (whether before or after exportation) for a particular price and the Secretary is satisfied, after having regard to—that the importer, whether directly or through a related person, sells those goods in New Zealand (whether in the condition in which they were imported or otherwise) at a loss, the Secretary may treat the sale of those goods as indicating that the importer or a related person will, directly or indirectly, be reimbursed, be compensated, or otherwise receive a benefit for, or in respect of, the whole or any part of the price for the purposes of subsection (2)﻿(c).
   (a) the amount of the price paid or to be paid for the goods by the importer; and
   (b) such other amounts as the Secretary determines to be costs necessarily incurred in the importation and sale of the goods; and
   (c) the likelihood that the amounts referred to in paragraph (a) and paragraph (b) will be able to be recovered within a reasonable time; and
@@ -158,7 +158,7 @@ This Act binds the Crown.
 (3) For the purposes of subsection (1), the following amounts shall not be included in the amount of the subsidy:
   (a) any application fee or other fees or costs necessarily incurred in order to qualify for, or to receive the benefit of, the subsidy:
   (b) any export taxes, duties, or other charges levied on the export of the goods to New Zealand that are specifically intended to offset the subsidy.
-(4) For the purposes of subsection (2)(d), adequate remuneration shall be determined in relation to prevailing market conditions in the country concerned for the goods or services, taking into account price, quality, availability, marketability, transportation, and other conditions of the provision or purchase.
+(4) For the purposes of subsection (2)﻿(d), adequate remuneration shall be determined in relation to prevailing market conditions in the country concerned for the goods or services, taking into account price, quality, availability, marketability, transportation, and other conditions of the provision or purchase.
 (5) Where the Secretary is satisfied that sufficient information has not been furnished or is not available to enable the amount of the subsidy to be ascertained for the purposes of this Act, the amount of the subsidy shall be such amount as is determined by the Secretary having regard to all available information that the Secretary considers to be reliable.
 
 ### 8 Material injury
@@ -254,13 +254,13 @@ For the purposes of this Act, reference to a notice means a notice—
   (e) New Zealand producers who previously expressed support for the application for the investigation have withdrawn that support in writing to such an extent that, by reason of section 10(3), the investigation could not have been initiated,—
   (f) terminate the investigation with respect to those goods; and
   (g) give notice of such termination.
-(2) For the purposes of subsection (1)(a), evidence of dumping or subsidisation shall be insufficient where,—
+(2) For the purposes of subsection (1)﻿(a), evidence of dumping or subsidisation shall be insufficient where,—
   (a) in the case of dumping, the margin of dumping is,—
     (i) in the case of goods of Singaporean origin, less than 5% (expressed as a percentage of the export price); or
     (ii) in the case of goods of any other origin, less than 2% (expressed as a percentage of the export price); or
   (b) in the case of subsidisation, the amount of the subsidy is less than 1% of the value of the goods at the time of import; or
   (c) in the case of either dumping or subsidisation, the volume of imports of dumped or subsidised goods, expressed as a percentage of total imports of like goods into New Zealand, is negligible, having regard to New Zealand's obligations as a party to the WTO Agreement.
-(2A) For the purposes of subsection (2)(c), in applying Article 5.8 of the Agreement on the Implementation of Article VI of the General Agreement on Tariffs and Trade 1994, annexed to the WTO Agreement, in relation to goods of Singaporean origin,—
+(2A) For the purposes of subsection (2)﻿(c), in applying Article 5.8 of the Agreement on the Implementation of Article VI of the General Agreement on Tariffs and Trade 1994, annexed to the WTO Agreement, in relation to goods of Singaporean origin,—
   (a) the first reference in Article 5.8 to 3 per cent must be read as a reference to 5 per cent; and
   (b) accordingly, if the volume of goods of Singaporean origin dumped is found to account for less than 5% of the total imports of like goods into New Zealand, the volume of goods dumped must normally be regarded as negligible.
 (3) Where—the Secretary may initiate a further investigation and all the provisions of this Act shall have effect accordingly.
@@ -282,7 +282,7 @@ For the purposes of this Act, reference to a notice means a notice—
   (a) in respect of those goods that are dumped, a duty to be known as anti-dumping duty:
   (b) in respect of those goods that are subsidised, a duty to be known as countervailing duty.
 (2) Anti-dumping duty or countervailing duty, as the case may be, imposed under subsection (1), shall be collected and paid on the demand of the Customs on and from the day after the date on which the notice under subsection (1) is published in the Gazette.
-(3) Notwithstanding subsection (1)(b), no countervailing duty may be imposed under this section if to do so would be inconsistent with New Zealand's obligations as a party to the WTO Agreement.
+(3) Notwithstanding subsection (1)﻿(b), no countervailing duty may be imposed under this section if to do so would be inconsistent with New Zealand's obligations as a party to the WTO Agreement.
 (4) The anti-dumping duty or countervailing duty in the case of goods to which this section applies shall be a rate or amount determined by the Minister,—
   (a) in the case of dumped goods, not exceeding the difference between the export price of the goods and their normal value; and
   (b) in the case of subsidised goods, not exceeding the amount of the subsidy on the goods.
@@ -302,18 +302,15 @@ For the purposes of this Act, reference to a notice means a notice—
 (10) Without limiting the ability of the Minister to require refunds in other circumstances, where a reassessment under subsection (6) results in a lower duty being imposed on any goods, the Minister may require the Customs to refund, with effect from the date of initiation of the reassessment (or, in the case of a reassessment carried out under paragraph (c) of that subsection, from the date of initiation of the review referred to in that paragraph), the difference between the duty paid and the lower duty.
 
 ### 14AA Temporary suspension of anti-dumping duties on residential building material
-(1) In this section, specified period means the period beginning on 1 June 2014 and ending on the close of 31 May 2017.
+(1) In this section, specified period means the period beginning on 1 June 2014 and ending on the close of 30 June 2019.
 (2) During the specified period,—
   (a) no new anti-dumping duty may be imposed under section 14(1) or 16(1) or (2) on any residential building material:
-  (b) existing anti-dumping duties on the following items are suspended:
-    (i) standard plasterboard from Thailand:
-    (ii) reinforcing steel bar and coil from Thailand:
-    (iii) wire nails from the People’s Republic of China.
-(3) If the Minister notifies a rate or amount of anti-dumping duty on any residential building material during the specified period, the new duty is imposed and takes effect on and from 1 June 2017.
-(4) If the Minister varies the rate or amount of any existing anti-dumping duty on any residential building material during the specified period, the new rate takes effect on and from 1 June 2017.
+  (b) existing anti-dumping duties on standard plasterboard from Thailand are suspended.
+(3) If the Minister notifies a rate or amount of anti-dumping duty on any residential building material during the specified period, the new duty is imposed and takes effect on and from 1 July 2019.
+(4) If the Minister varies the rate or amount of any existing anti-dumping duty on any residential building material during the specified period, the new rate takes effect on and from 1 July 2019.
 (5) To avoid doubt,—
   (a) this section does not affect the Minister’s power to terminate an existing notice under section 14(7):
-  (b) any anti-dumping duty on an item of the kind referred to in subsection (2)(b) that was imposed and payable before the specified period remains payable.
+  (b) any anti-dumping duty on an item of the kind referred to in subsection (2)﻿(b) that was imposed and payable before the specified period remains payable.
 
 ### 14A Refund of excess anti-dumping duty paid
 (1) An importer may apply to the Minister for a refund of excess anti-dumping duty paid in respect of goods imported during an importation period.
@@ -360,7 +357,7 @@ For the purposes of this Act, reference to a notice means a notice—
     (i) the goods are being dumped or subsidised; and
     (ii) by reason thereof material injury to an industry has been or is being caused or is threatened or the establishment of an industry has been or is being materially retarded; and
   (b) the Minister is satisfied that action under this section is necessary to prevent material injury being caused during the period of investigation,—
-(2) Notwithstanding subsection (1), at any time after the Secretary has initiated an investigation under section 11(3)(b), the Minister may, by notice, give a provisional direction that payment of duty in respect of the goods the subject of the investigation shall be secured in accordance with sections 156 and 157 of the Customs and Excise Act 1996.
+(2) Notwithstanding subsection (1), at any time after the Secretary has initiated an investigation under section 11(3)﻿(b), the Minister may, by notice, give a provisional direction that payment of duty in respect of the goods the subject of the investigation shall be secured in accordance with sections 156 and 157 of the Customs and Excise Act 1996.
 (3) A provisional direction given under subsection (1) or subsection (2) shall in all cases cease to have effect following the final determination made by the Minister pursuant to section 13.
 (4) When a provisional direction given under subsection (1) or subsection (2) ceases to have effect, any security given pursuant to the provisional direction shall be released, except to the extent that duties are payable on goods imported prior to the direction ceasing to have effect.
 (5) Where the amount of anti-dumping duty or countervailing duty imposed pursuant to a provisional direction under subsection (1) or subsection (2) exceeds the amount of duty determined under section 14(4), the amount of the excess shall be remitted by the Customs if so required by the Minister.
