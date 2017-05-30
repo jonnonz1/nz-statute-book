@@ -1,5 +1,5 @@
 # Building Societies Act 1965
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-05-30_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to building societies
 
@@ -58,6 +58,9 @@ _Consolidation as at 2017-03-01_
 (3) For the purposes of any enactment in this Act which provides that an officer of a society who is in default shall be liable on conviction to imprisonment or to a fine, the expression officer who is in default means any officer of the society who knowingly and wilfully authorises or permits the default, refusal, or contravention mentioned in the enactment.
 (4)
 (5) Any reference in this Act to contravention of any provision of this Act, or of any regulations or directions thereunder, shall include a reference to failure to comply with that provision.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 3 Registrar of Building Societies
 For the purposes of this Act, there shall from time to time be appointed under the State Sector Act 1988 a Registrar of Building Societies.
@@ -811,23 +814,18 @@ Every society must comply with subpart 2 of Part 7 of the Financial Markets Cond
 ### 103 Duty to make annual return
 (1) Every society shall, in the first 3 months of each financial year, send to the Registrar for registration a return relating to its affairs for the previous financial year:
   provided that a society need not make a return under this subsection in the financial year in which it is incorporated.
-(2) The annual return shall contain such information and be in such form as may be prescribed, and must be signed by 2 of the directors and by the manager or secretary of the society.
+(2) The annual return shall contain such information and be in such form as may be prescribed.
+(2A) The annual return must be signed by—
+  (a) the manager or secretary of the society; and
+  (b) a second person who is authorised to sign by the directors of the society and who is any of the following:
+    (i) a director of the society:
+    (ii) a qualified statutory accountant (as defined in section 5(1) of the Financial Reporting Act 2013):
+    (iii) a lawyer (as defined in section 6 of the Lawyers and Conveyancers Act 2006).
 (3)
 (4) If a society fails to comply with any of the provisions of this section or of any regulations made for the purposes thereof, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
 
 ### 104 Annual return to disclose loans or other investments to certain officers or companies
-(1) The annual return shall also contain particulars showing the amount of any loans or other investments made by the society during the relevant financial year—
-  (a) to any director or the manager or secretary of the society; or
-  (b) to any person who, after the making of the loan or other investment, became a director or the manager or secretary of the society; or
-  (c) to a company or other body corporate in which, when the loan or other investment was made, or at any later time in the relevant financial year, a director or manager or secretary of the society held (either directly or through a nominee),—
-    (i) in the case of a company registered under the Companies Act 1993, shares on which the amount paid under the constitution of the company or under the terms of issue exceeded 2.5% of the amount paid on the issued shares of the company under the constitution or under the terms of issue; or
-    (ii) in the case of any other body corporate, shares or other equity instruments on which the amount paid under the terms of issue exceeded 2.5% of the amount paid on the issue of all shares and equity instruments of the body corporate; or
-  (d) to a company or other body corporate of which, when the loan or other investment was made, or at any later time in the relevant financial year, a director or the manager or secretary of the society was a director, general manager, secretary, or other similar officer.
-(2)
-(3) It shall be the duty of every director and of the manager and the secretary of a society to give notice in writing to the society of such matters relating to his or her employment by or other interest in any company or other body corporate as may be necessary for the purposes of subsection (1); and, subject to subsection (4), a person who fails to comply with this subsection commits an offence against this Act.
-(4) In any proceedings against a person in respect of an offence against subsection (3), it shall be a defence to prove that at the time of the alleged offence he or she did not know that the society had made a loan or other investment to the body corporate in question, and that at that time reasonable arrangements were in operation to bring to his or her notice any loan or other investment made by the society to any body corporate.
-(5) If the requirements of subsection (1) are not complied with, it shall be the duty of the society's auditors to include in their report, so far as they are reasonably able to do so, a statement giving the required particulars.
-(6) In this section, the expression the relevant financial year means the financial year to which the annual return relates.
+[Repealed]
 
 ### 105 Additional annual return of certain transactions
 [Repealed]
@@ -1375,6 +1373,15 @@ The District Court has jurisdiction in relation to—
 (7) For the purposes and without limiting the operation of the Acts Interpretation Act 1924, a resolution passed before the commencement of this Act in accordance with any of the provisions of the Building Societies Act 1908 shall be treated as a resolution that could have been passed under the corresponding provisions of this Act if it would have fallen to be so treated if passed after the commencement of this Act as a special resolution.
 (8)
 (9)
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Regulatory Systems (Commercial Matters) Amendment Act 2017
+
+### 1 Annual returns
+This Act, as amended by sections 5 and 6 of the Regulatory Systems (Commercial Matters) Amendment Act 2017, applies to a society in relation to annual returns relating to its affairs for the following financial years:
+  (a) a financial year that commenced before, but ends on or after, the commencement of this clause:
+  (b) financial years that commence on or after the commencement of this clause.
 
 ## Schedule 1 — Standard rules for meetings
 
