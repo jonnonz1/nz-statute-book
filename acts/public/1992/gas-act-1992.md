@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2017-03-31_
+_Consolidation as at 2017-05-30_
 
 > Title
 
@@ -572,10 +572,11 @@ The dispute resolution scheme may resolve disputes between members of the disput
 (1) Every gas distributor and every gas retailer must be a member of the dispute resolution scheme, unless exempt under subsection (3).
 (2) A person commits an offence and is liable on conviction to a fine not exceeding $100,000 if the person knowingly refuses or fails to become a member of the dispute resolution scheme.
 (3) A person need not be a member of a dispute resolution scheme if—
-  (a) the person is a member of a class of industry participants identified in regulations made under section 43S(1) as a class that need not be a member; or
+  (a) the person is a member of a class of industry participants identified in regulations made under subsection (3A) as a class that need not be a member; or
   (b) the Minister of Consumer Affairs exempts the person by issuing an individual exemption notice in the Gazette that—
     (i) identifies the person that is exempt from the obligation to be a member; and
     (ii) gives reasons for the exemption.
+(3A) The Governor-General may, on the recommendation of the Minister of Consumer Affairs made after consultation with the Minister of Energy and Resources, make regulations exempting, on any terms and conditions, any class of industry participants identified in regulations as a class that need not be a member of the dispute resolution scheme.
 (4) The Minister of Consumer Affairs may grant an individual exemption to a person only if he or she is satisfied that membership of the dispute resolution scheme by the person is not necessary in order to meet the purpose of the dispute resolution scheme because complaints are unlikely to be made against the person or because complaints should be made in another forum, and the person is unlikely to be involved in indemnity disputes.
 (5) The Minister of Consumer Affairs may amend or revoke an individual exemption, by issuing a notice in the Gazette that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Minister—
   (a) has given notice of the proposed amendment or revocation to the exempt person (where possible) and given the person a reasonable opportunity to comment on the proposal; and
@@ -770,7 +771,7 @@ Sections 43L and 43N (which relate to consultation and assessments) do not apply
   (d) require disclosed information, or information from which disclosed information is derived (in whole or in part), to be certified, in the prescribed form and manner, by persons belonging to any specified class of persons:
   (e) prescribe when and for how long information must be disclosed:
   (f) exempt or provide for exemptions (including provide for the revocation of exemptions), on any terms and conditions, of any person or class of persons from all or any of the requirements in regulations or rules made under this subpart:
-  (fa) exempt or provide for exemptions (including provide for the revocation of exemptions), on any terms and conditions, of any class of persons from all or any of the requirements in sections 43EA to 43EC (which relate to dispute resolution):
+  (fa)
   (g) provide for the supply of information for the purpose of administration and enforcement of this Act, and regulations and rules made under this Act:
   (h) provide for transitional provisions:
   (i) provide for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
