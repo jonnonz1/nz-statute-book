@@ -1,5 +1,5 @@
 # Energy Efficiency and Conservation Act 2000
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-05-30_
 
 ### 1 Title
 This Act is the Energy Efficiency and Conservation Act 2000.
@@ -244,12 +244,7 @@ Every transferred employee becomes, on his or her transfer, an employee of the A
   (c) consult with such persons as the Minister in each case considers appropriate.
 
 ### 37 Incorporation of material by reference
-(1) Regulations made under section 36 may incorporate the following information by reference:
-  (a) standards, requirements, or recommended practices of international organisations:
-  (b) any other written material or document that, in the opinion of the Minister, is too large or impractical to be printed as part of the regulations.
-(2) Material incorporated into regulations by reference under subsection (1) forms part of the regulations for all purposes.
-(3) Unless otherwise provided in the regulations, every amendment to material incorporated by reference that is made by the person or organisation originating the material is, subject to subsection (4), part of the regulations.
-(4) The Minister must, by notice in the Gazette, specify the date on which an amendment to material incorporated by reference takes effect.
+[Repealed]
 
 ### 38 Confidentiality of information
 (1) This section applies to information supplied to the Authority in accordance with regulations made under section 36(1)﻿(f).
