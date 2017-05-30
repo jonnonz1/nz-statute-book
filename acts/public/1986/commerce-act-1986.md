@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-05-30_
 
 > Title
 
@@ -188,7 +188,7 @@ Section 36A, and Parts 6 and 7, in so far as they relate to a contravention of, 
 Neither the Crown nor a body corporate that is an instrument of the Crown in respect of the Government of New Zealand is immune, and neither the Crown nor such a body corporate may claim immunity, from the jurisdiction of the courts of New Zealand and Australia in relation to a contravention of section 46A of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia and in relation to Parts VI and XII of that Act in so far as they relate to a contravention of that section.
 
 ### 6C Application of Evidence Amendment Act 1980
-Nothing in the Evidence Amendment Act 1980 applies in relation to the application of section 46A of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia or Parts VI and XII of that Act in so far as they relate to a contravention of that section.
+[Repealed]
 
 ### 7 Law relating to restraint of trade and breaches of confidence not affected
 (1) Nothing in this Act limits or affects any rule of law relating to restraint of trade not inconsistent with any of the provisions of this Act.
@@ -2118,7 +2118,8 @@ A cease and desist order may be made under section 74A only if—
 In accordance with this Part, the District Court shall hear and determine proceedings for offences against sections 86B, 87B, 100, and 103.
 
 ### 77 Additional lay members of High Court for purposes of appellate jurisdiction in respect of Commission determinations
-(1) For the purposes of the exercise by the court of its jurisdiction and powers under this Part, there shall be lay members of the court who shall be persons appointed from time to time by the Governor-General.
+(1) This section applies for the purposes of the exercise by the court of its jurisdiction and powers under sections 91 to 97.
+(1A) There are to be lay members of the court appointed from time to time by the Governor-General.
 (2) No person shall be appointed as a lay member of the court unless, in the opinion of the Governor-General, that person is qualified for appointment by virtue of that person's knowledge or experience in industry, commerce, economics, law, or accountancy.
 (3) A lay member of the court shall hold office for such term, not exceeding 5 years, as the Governor-General shall specify in that member's instrument of appointment, but may from time to time be reappointed.
 (4) There shall be paid to such lay members, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if the court were a statutory Board within the meaning of that Act.
