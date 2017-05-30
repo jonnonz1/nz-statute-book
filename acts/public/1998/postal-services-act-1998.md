@@ -1,5 +1,5 @@
 # Postal Services Act 1998
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-05-30_
 
 > An Act to regulate the provision of postal services
 
@@ -12,14 +12,22 @@ _Consolidation as at 2017-03-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **corporation** means New Zealand Post Limited, a company incorporated under the Companies Act 1993 pursuant to the State-Owned Enterprises Act 1986; and includes any subsidiary of that company
+  - **courier service** means a service for the conveyance or delivery of articles by courier if—
+    (a) the sender requests that the article be conveyed or delivered by courier; and
+    (b) both of the following are features of the service:
+      (i) conveyance or delivery on an expedited basis; and
+      (ii) the article is tracked throughout the conveyance or delivery process
   - **designated postal operator** means a postal operator that is designated, pursuant to section 48, as a postal administration for New Zealand
   - **foreign country** means any country other than New Zealand
-  - **letter** —
-    (a) means any form of written communication, or any other document or article,—
-      (i) that is addressed to a specific person or a specific address; and
-      (ii) that is to be conveyed other than by electronic means; and
-      (iii) for which a charge of not more than 80 cents (inclusive of goods and services tax) is made in respect of carrying, taking charge of, or sending it; and
-    (b) includes an envelope, packet, package, or wrapper containing such a communication, document, or article
+  - **letter** means any form of written communication, or any other document or article (including any envelope, packet, package, or wrapper containing that communication, document, or article),—
+    (a) that is addressed to a specific person or a specific address; and
+    (b) that is to be conveyed or delivered other than by electronic means or courier service; and
+    (c) that does not exceed—
+      (i) 260 mm in height; or
+      (ii) 385 mm in length; or
+      (iii) 20 mm in thickness; or
+      (iv) 1 kg in weight; and
+    (d) for which a charge is made in respect of carrying, taking charge of, or sending it
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means, subject to any enactment, the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **postage stamp** means an adhesive label, or a mark or design, that is affixed to or impressed or printed on stationery to indicate payment of the fee chargeable for the carriage of a postal article
@@ -50,6 +58,7 @@ _Consolidation as at 2017-03-01_
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (2) An article is taken to have been posted when, for the purpose of being conveyed or delivered by a postal operator, it has been put into a public letterbox, or delivered at a postal outlet, or accepted for the purpose of being conveyed by post by an employee or agent of a postal operator in the course of his or her duty or authority.
+(2A) However, an article to be conveyed or delivered by courier service is not an article that has been posted.
 (3) A postal article is taken to be delivered to the addressee when it is delivered by a postal operator at the addressee's house or office, or into the addressee's letterbox or rural delivery box, or into the proper private box at a postal outlet, or to the addressee's employee or agent or other person considered to be authorised to receive the article, or according to the usual manner of delivering postal articles to the addressee.
 (4) Unless the context otherwise requires, a reference in this Act to a person concerned in the management of another person means—
   (a) a director of that person:
