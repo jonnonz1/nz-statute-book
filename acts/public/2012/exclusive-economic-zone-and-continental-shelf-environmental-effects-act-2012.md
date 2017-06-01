@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2017-03-07_
+_Consolidation as at 2017-06-01_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -37,20 +37,22 @@ Part 2
   (a) imposes, in section 25, a duty on every person to avoid, remedy, or mitigate the adverse effects of their activities on the environment and a duty to provide sufficient training, supervision, and resources to their employees (if any) to ensure compliance with the Act; and
   (b) clarifies, in section 26, that compliance with the Act does not mean a person need not comply with other legal requirements and vice versa.
 Part 3
-(6) Subpart 1 provides for the making of regulations—
-  (a) prescribing standards for activities, the effects of activities, and the environment; and
-  (b) classifying areas of the exclusive economic zone and continental shelf; and
-  (c) classifying activities as permitted, discretionary, or prohibited; and
-  (d) prescribing administrative requirements.
-(7) Subpart 1 also provides for—
-  (a) a process for developing regulations; and
-  (b) matters that the Minister must take into account in developing regulations; and
-  (c) information principles that apply to the Minister in developing regulations.
-(8) Subpart 2 sets out the standard process for applying for a marine consent for a non-notified activity, the standard process for applying for a marine consent for a publicly notifiable activity, and matters that the EPA must consider in deciding whether to grant or refuse to grant a consent, and provides for the review of the conditions and duration of consents.
-(8A) Subpart 3 adapts the standard process for obtaining a marine consent for marine discharge consents and marine dumping consents.
+(6) Part 3 provides for the making of regulations for the purposes of this Act.
+Part 3A
+(7) Subpart 1 provides for activities to be permitted, discretionary, or prohibited activities.
+(8) Subpart 2 provides for the Minister to make EEZ policy statements that state objectives and policies to support decision-making on applications for marine consents.
+(8A) Subparts 2A to 2D set out the processes for—
+  (a) applying for marine consents; and
+  (b) disclosure and notification of applications for marine consents and the making of submissions; and
+  (c) consideration of applications for marine consents, including the appointment of boards of inquiry for applications relating to publicly notifiable section 20 activities; and
+  (d) deciding applications for marine consents, including the matters that must be considered by the marine consent authority deciding the application.
+(8B) Subpart 2E sets out matters relating to marine consents, including their nature, when they commence, their duration, and their review, correction, and cancellation.
 (9) Subpart 3 sets out the process for applying for consent for an activity that straddles the boundary between the territorial sea and the exclusive economic zone, including a cross-boundary activity that includes a matter of national significance.
+(9A) Subpart 4 sets out the processes for acceptance of decommissioning plans and for amendment of accepted plans.
 Part 4
-(10) Subpart 1 provides for objections to the EPA and appeals to the High Court on a question of law.
+(10) Subpart 1 provides for objections to decisions of marine consent authorities.
+(10A) Subparts 1A and 1B provide for appeals to the High Court on questions of law against decisions of the EPA and of boards of inquiry.
+(10B) Subpart 1C provides for representation at proceedings before the High Court.
 (11) Subpart 2 provides for enforcement of the Act by providing for—
   (a) the Environment Court to issue enforcement orders under section 115; and
   (b) enforcement officers to serve abatement notices under section 125; and
@@ -70,11 +72,12 @@ Part 5
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **abatement notice** means a notice served under section 125
+  - **accepted decommissioning plan** means a decommissioning plan accepted under section 100B
   - **activity** ,—
     (a) in relation to the exclusive economic zone and continental shelf, means an activity described in section 20 or subpart 2 of Part 2; and
     (b) in relation to the sea above the continental shelf beyond the outer limits of the exclusive economic zone, means an activity described in subpart 2 of Part 2
   - **adaptive management approach** has the meaning given in section 64(2)
-  - **applicant** means a person who makes an application for a marine consent under section 38 or 87B
+  - **applicant** means a person who makes an application for a marine consent under section 38
   - **chief executive** means the chief executive of the department
   - **consent holder** or , in relation to a consent, means the person who has been granted a consent under section 62 or to whom a consent has been transferred under section 75
   - **continental shelf** has the same meaning as in section 2(1) of the Continental Shelf Act 1964
@@ -87,12 +90,17 @@ Part 5
   - **discretionary activity** means an activity that is a discretionary activity under section 36(1)
   - **disturb** includes excavate, drill, tunnel, or dredge
   - **dumping** —
-    (a) means,—
-      (i) in relation to waste or other matter, its deliberate disposal or storage; and
-      (ii) in relation to a ship, an aircraft, or a structure, its deliberate disposal or abandonment; but
+    (a) means—
+      (i) any deliberate disposal into the sea of waste or other matter from ships, aircraft, and structures at sea; and
+      (ii) any deliberate disposal into the sea of ships, aircraft, and structures at sea; and
+      (iii) any storage of waste or other matter in the seabed and the subsoil of the seabed from ships, aircraft, and structures at sea; and
+      (iv) any abandonment or toppling at site of structures at sea for the sole purpose of deliberate disposal; but
     (b) does not include—
-      (i) the disposal into the sea of waste or other matter from a ship, an aircraft, or a structure, or the equipment of a ship, an aircraft, or a structure, if the disposal is incidental to, or derived from, the normal operation of the ship, aircraft, structure, or equipment; or
-      (ii) the disposal or storage of waste or other matter directly arising from, or related to, a mining activity
+      (i) the disposal into the sea of waste or other matter incidental to, or derived from, the normal operations of ships, aircraft, and structures at sea and their equipment, other than waste or other matter transported by or to ships, aircraft, and structures at sea, operating for the purpose of disposal of such matter or derived from the treatment of such waste or other matter on such ships, aircraft, and structures; or
+      (ii) placement of matter for a purpose other than the mere disposal of the matter, but only if the placement is not contrary to the aims of the 1996 Protocol to the London Convention; or
+      (iii) abandonment in the sea of matter (for example, cables, pipelines, and marine research devices) placed for a purpose other than the mere disposal of it; and
+    (c) does not include the disposal or storage of waste or other matter directly arising from, or related to, the exploration, exploitation, and associated offshore processing of seabed mineral resources
+  - **EEZ policy statement** means a statement issued under section 37D
   - **emergency dumping consent** means a marine consent granted under section 20H
   - **enforcement officer** means an enforcement officer appointed under section 138
   - **enforcement order** means an order made under section 115
@@ -117,12 +125,21 @@ Part 5
     (b) does not include incinerating on board a ship or structure at sea waste or other matter that has been generated during the normal operation of a ship or a structure while at sea
   - **information** includes analysis
   - **information principles** means the information principles set out in sections 34 and 61
+  - **London Convention** means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter (1972)
   - **Māori Advisory Committee** means the committee established under section 18 of the Environmental Protection Authority Act 2011
   - **marine consent** or means—
-    (a) a marine consent granted under section 62; or
-    (b) an emergency dumping consent, a marine discharge consent, or a marine dumping consent
-  - **marine discharge consent** means a marine consent granted under section 87F to discharge harmful substances
-  - **marine dumping consent** means a marine consent granted under section 87F to dump waste or other matter
+    (a) a marine consent (including a marine discharge consent or a marine dumping consent) granted under section 62; or
+    (b) an emergency dumping consent
+  - **marine consent authority** , in relation to an application for a marine consent, means,—
+    (a) in the case of a non-notified activity, the EPA:
+    (b) in the case of a publicly notifiable activity that is a section 20 activity,—
+      (i) a board of inquiry appointed under section 52:
+      (ii) the EPA—
+        (A) before a board of inquiry is appointed:
+        (B) in respect of any matter that is outside the scope of the functions, powers, and duties of the board of inquiry:
+    (c) in the case of a publicly notifiable activity other than a section 20 activity, the EPA
+  - **marine discharge consent** means a marine consent granted under section 62 to discharge harmful substances
+  - **marine dumping consent** means a marine consent granted under section 62 to dump waste or other matter
   - **mineral** has the meaning given in section 2(1) of the Crown Minerals Act 1991
   - **mining activity** means an activity carried out for, or in connection with,—
     (a) the identification of areas of the seabed likely to contain mineral deposits; or
@@ -142,28 +159,27 @@ Part 5
     (c) a company registered under the Companies Act 1993
   - **non-notified activity** means a discretionary activity that—
     (a) is described in regulations as non-notified; or
-    (b) is an activity for which regulations provide that an application for a marine consent is not to be publicly notified
+    (b) is an activity for which regulations provide that an application for a marine consent is not to be publicly notified; or
+  (c) is the subject of an application to which section 38(3) applies
   - **notice of review** means a notice served under section 78
   - **offshore installation** —
     (a) includes an artificial structure used or intended to be used in or on, or anchored or attached to, the seabed for the purpose of the exploration for, or the exploitation or associated processing of, any mineral; but
     (b) does not include a ship or a pipeline
-  - **permitted activity** means an activity that is permitted under section 35(1)
+  - **permitted activity** means an activity that is a permitted activity under section 35(1)
   - **person** , subject to section 5, includes the Crown, a corporation sole, and also a body of persons, whether incorporated or unincorporated
   - **prescribed** means prescribed by regulations, and, in relation to forms, means prescribed by regulations or approved by the chief executive of the EPA
-  - **prohibited activity** means an activity that is prohibited under section 37(1)
+  - **prohibited activity** means an activity that is a prohibited activity under section 37(1)
   - **protected customary rights group** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
-  - **public notice** means a notice—
-    (a) published in a daily newspaper in—
-      (i) each of the cities of Auckland, Wellington, Christchurch, and Dunedin; and
-      (ii) the region adjacent to the area that is the subject of an application for a marine consent; and
-    (b) which must also be published on the EPA's Internet site
+  - **public notice** has the meaning given in section 7A
   - **publicly notifiable activity** means a discretionary activity other than emergency dumping or a non-notified activity
+  - **publicly notifiable application** means an application for a marine consent for a publicly notifiable activity
   - **radioactive waste or other radioactive matter** means any waste or other matter that contains any radioactive material within the meaning of the Radiation Safety Act 2016
   - **regional council** —
     (a) has the same meaning as in section 5 of the Local Government Act 2002; and
     (b) includes a unitary authority within the meaning of that Act
   - **regulations** means regulations made under this Act
   - **review** means a review of the conditions or duration of a consent under section 76
+  - **section 20 activity** means an activity referred to in section 20(2) or (4)
   - **sedentary species** means living organisms that, at their harvestable stage,—
     (a) are immobile on or under the seabed; or
     (b) are unable to move except in constant physical contact with the seabed or subsoil
@@ -177,11 +193,12 @@ Part 5
   - **submarine cable** has the same meaning as in section 2 of the Submarine Cables and Pipelines Protection Act 1996
   - **submarine pipeline** has the same meaning as in section 2 of the Submarine Cables and Pipelines Protection Act 1996
   - **submission** means a written or an electronic submission
-  - **submitter** means a person who makes a submission under section 46
+  - **submitter** means a person who makes a submission under section 47
   - **threatened species** includes any species that—
     (a) falls within the definition of threatened species in section 2(1) of the Biosecurity Act 1993; or
     (b) is declared to be a threatened species or an at-risk species by the Minister of Conservation under section 19
   - **toxic or hazardous waste** means any waste or other matter specified as toxic or hazardous waste by regulations made under this Act
+  - **treat** , in relation to waste or other matter, means to treat so as to avoid, remedy, or mitigate the adverse effects of dumping
   - **wāhi tapu** has the same meaning as in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **warship** has the same meaning as in section 2(1) of the Maritime Transport Act 1994
   - **waste or other matter** means material and substances of any kind, form, or description
@@ -231,6 +248,19 @@ Part 5
   (m) Submarine Cables and Pipelines Protection Act 1996:
   (n) Wildlife Act 1953.
 
+### 7A Meaning of public notice
+(1) If this Act requires the Environmental Protection Authority to give public notice of something, the EPA must—
+  (a) publish on its Internet site a notice that—
+    (i) includes all the information that is required to be publicly notified; and
+    (ii) is in the prescribed form (if any); and
+  (b) publish a short summary of the notice, along with details of the Internet site where the notice can be accessed, in 1 or more newspapers circulating in—
+    (i) the cities of Auckland, Wellington, Christchurch, and Dunedin; and
+    (ii) the region adjacent to the area that is the subject of the matter to which the notice relates.
+(2) The notice and the short summary of the notice must be worded in a way that is clear and concise.
+
+### 7B Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+
 ### 8 Act binds the Crown
 (1) This Act binds the Crown, except as provided in this section and section 9.
 (2) This Act does not apply to any work or activity of the Crown that the Minister of Defence certifies is necessary for reasons of national security.
@@ -265,7 +295,7 @@ Part 5
 (1A) However, the following provisions of this Act do apply to warships and other ships of the New Zealand Defence Force:
   (a) subparts 2 (as if those ships were New Zealand ships), 3, and 4 of Part 2:
   (b) regulations made under sections 29A and 29C:
-  (c) subpart 2A of Part 3:
+  (c) subparts 2A to 2E of Part 3A, to the extent that they relate to marine dumping consents and marine discharge consents:
   (d) sections 134 to 134M.
 (2) In this section, a ship that is being used for commercial purposes, or both commercial and governmental purposes, is not being used for wholly governmental purposes.
 
@@ -281,7 +311,7 @@ Part 5
   (c) avoiding, remedying, or mitigating any adverse effects of activities on the environment.
 (3) In order to achieve the purpose, decision-makers must—
   (a) take into account decision-making criteria specified in relation to particular decisions; and
-  (b) apply the information principles to the development of regulations and the consideration of applications for marine consent.
+  (b) apply the information principles to the development of regulations under section 27, 29A, 29B, or 29E and the consideration of applications for marine consent.
 
 ### 11 International obligations
 This Act continues or enables the implementation of New Zealand's obligations under various international conventions relating to the marine environment, including—
@@ -292,10 +322,10 @@ This Act continues or enables the implementation of New Zealand's obligations un
 
 ### 12 Treaty of Waitangi
 In order to recognise and respect the Crown's responsibility to give effect to the principles of the Treaty of Waitangi for the purposes of this Act,—
-  (a) section 18 (which relates to the function of the Māori Advisory Committee) provides for the Māori Advisory Committee to advise the Environmental Protection Authority so that decisions made under this Act may be informed by a Māori perspective; and
+  (a) section 18 (which relates to the function of the Māori Advisory Committee) provides for the Māori Advisory Committee to advise marine consent authorities so that decisions made under this Act may be informed by a Māori perspective; and
   (b) section 32 requires the Minister to establish and use a process that gives iwi adequate time and opportunity to comment on the subject matter of proposed regulations; and
-  (c) sections 33 and 59, respectively, require the Minister and the EPA to take into account the effects of activities on existing interests; and
-  (d) section 45 requires the Environmental Protection Authority to notify iwi authorities, customary marine title groups, and protected customary rights groups directly of consent applications that may affect them.
+  (c) sections 33 and 59, respectively, require the Minister and a marine consent authority to take into account the effects of activities on existing interests; and
+  (d) section 46 requires the Environmental Protection Authority to notify iwi authorities, customary marine title groups, and protected customary rights groups directly of consent applications that may affect them.
 
 ### Subpart 3 — Functions, duties, and powers
 
@@ -307,10 +337,11 @@ In order to recognise and respect the Crown's responsibility to give effect to t
   (b) to monitor compliance with this Act:
   (c) to enforce the requirements of this Act, and of regulations made and consents granted under it:
   (d) to approve forms for the purposes of—
-    (i) subparts 2, 2A, and 3 of Part 3, which deal with marine consents:
+    (i) Part 3A, which deals with marine consents:
     (ii) sections 101 to 103, which deal with objections:
     (iii) sections 125 to 128, which deal with abatement notices:
   (e) to promote public awareness of the requirements of this Act:
+  (ea) to provide advice and administrative and secretarial services to boards of inquiry:
   (f) to perform any other function specified in this Act.
 (2) However, the EPA may not approve a form for a purpose if a form has been prescribed by regulations for the same purpose.
 
@@ -321,9 +352,10 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
 The Environmental Protection Authority has all the powers that are reasonably necessary to enable it to carry out its functions under this Act.
 
 ### 16 Restriction on Environmental Protection Authority's power to delegate
-Despite section 17 of the Environmental Protection Authority Act 2011, the Environmental Protection Authority must not delegate its power to decide an application for a marine consent under section 62 or to make a decision under section 81 or 82 on a review of a consent granted under section 62, except to—
+(1) Despite section 17 of the Environmental Protection Authority Act 2011, the Environmental Protection Authority must not delegate its power to decide an application for a marine consent under section 62 or to make a decision under section 81 or 82 on a review of a consent granted under section 62, except to—
   (a) a committee appointed under clause 14 of Schedule 5 of the Crown Entities Act 2004; or
   (b) a board of inquiry as provided for in section 99(2).
+(2) In subsection (1), a reference to a marine consent does not include a marine discharge consent or a marine dumping consent.
 
 ### 17 Environmental Protection Authority to keep records
 (1) The Environmental Protection Authority must keep records and make available information—
@@ -346,7 +378,9 @@ Despite section 17 of the Environmental Protection Authority Act 2011, the Envir
 **Māori Advisory Committee**
 
 ### 18 Function of Māori Advisory Committee
-The Māori Advisory Committee may provide advice to the Environmental Protection Authority in accordance with sections 19 and 20 of the Environmental Protection Authority Act 2011.
+The Māori Advisory Committee may provide advice as follows:
+  (a) to the Environmental Protection Authority in accordance with sections 19 and 20 of the Environmental Protection Authority Act 2011:
+  (b) to a marine consent authority, if its advice is sought under section 56(1)﻿(b).
 
 **Power of Minister of Conservation**
 
@@ -364,6 +398,7 @@ The Māori Advisory Committee may provide advice to the Environmental Protection
 (2) The activities referred to in subsection (1) are—
   (a) the construction, placement, alteration, extension, removal, or demolition of a structure on or under the seabed:
   (b) the construction, placement, alteration, extension, removal, or demolition of a submarine pipeline on or under the seabed:
+  (ba) the abandonment of a submarine pipeline that is on or under the seabed:
   (c) the placement, alteration, extension, or removal of a submarine cable on or from the seabed:
   (d) the removal of non-living natural material from the seabed or subsoil:
   (e) the disturbance of the seabed or subsoil in a manner that is likely to have an adverse effect on the seabed or subsoil:
@@ -498,13 +533,11 @@ No person may dump toxic or hazardous waste—
   (d) the effects of the activity on the environment and existing interests are of the same or similar character, intensity, and scale as the effects that existed before the coming into force of the new regulations; and
   (e) the activity requires a marine consent as a result of the amendment or replacement of the regulations described in paragraph (a).
 (2) The activity may continue without a marine consent for a prescribed period or, if no period is prescribed for the activity, for 6 months from the date on which the new regulations come into force.
-(3) If the activity is one that is described in section 20 and the person undertaking the activity applies for a marine consent within the period described in subsection (2), the activity may continue after the period has expired until—
+(3) If the activity is a section 20 activity or a discharge of a harmful substance, and the person undertaking the activity applies for a marine consent within the period described in subsection (2), the activity may continue after the period has expired until—
   (a) the application is decided under section 62 and any appeals are determined; or
-  (b) the application is returned as incomplete by the EPA under section 41 and any objections and appeals are determined.
-(4) If the activity is a discharge of a harmful substance and the person undertaking the activity applies for a marine consent within the period described in subsection (2), the activity may continue after the period has expired until—
-  (a) the application is decided under section 87F and any appeals are determined; or
-  (b) the application is returned as incomplete by the EPA under section 41 and any objections and appeals are determined.
-(5) If the application for a marine consent described in subsection (3) or (4) is returned by the EPA under section 41, subsection (3) or (4) (as the case requires) applies to any new application that replaces the returned application.
+  (b) the application is returned as incomplete by the EPA under section 43 and any objections and appeals are determined.
+(4) If the application for a marine consent described in subsection (3) is returned by the EPA under section 43, subsection (3) applies to any new application that replaces the returned application.
+(5)
 
 ### 22 Planned petroleum activities may commence
 (1) This section applies to a planned petroleum activity if—
@@ -515,15 +548,13 @@ No person may dump toxic or hazardous waste—
 (3) However, before the activity may commence, the person intending to undertake the activity must—
   (a) prepare an impact assessment for the activity; and
   (b) provide the impact assessment to the EPA.
-(4) Section 41 applies to the impact assessment as if it were an application for a marine consent.
+(4) Sections 40 to 43 apply to the impact assessment as if it were an application for a marine consent.
 (5) If the person intending to undertake the activity complies with subsection (3), the activity may continue for a prescribed period or, if no period is prescribed for the activity, for 6 months from the date on which the new regulations come into force.
 (6) If the person undertaking the activity applies for a marine consent within the period described in subsection (5), the activity may continue after the period has expired until the application—
   (a) is decided under section 62 and any appeals are determined; or
-  (b) is returned as incomplete by the EPA under section 41 and any objections and appeals are determined.
-(7) If the activity is a discharge of a harmful substance and the person undertaking the activity applies for a marine consent within the period described in subsection (5), the activity may continue after the period has expired until—
-  (a) the application is decided under section 87F and any appeals are determined; or
-  (b) the application is returned as incomplete by the EPA under section 41 and any objections and appeals are determined.
-(8) If the application for a marine consent described in subsection (6) or (7) was returned by the EPA under section 41, subsection (6) or (7) (as the case requires) applies to any new application that replaces the returned application.
+  (b) is returned as incomplete by the EPA under section 43 and any objections and appeals are determined.
+(7) If the application for a marine consent described in subsection (6) is returned by the EPA under section 43, subsection (6) applies to any new application that replaces the returned application.
+(8)
 (9) In this section, planned petroleum activity means a mining activity undertaken in relation to petroleum if, before the new regulations come into force,—
   (a) the exploration, prospecting, or mining for petroleum with which the activity is involved is authorised by a permit that is granted under section 25 of the Crown Minerals Act 1991 or authorised by an existing privilege preserved under clause 12 of Schedule 1 of that Act; and
   (b) the activity had not commenced.
@@ -557,14 +588,14 @@ No person may dump toxic or hazardous waste—
     (i) training and supervision to all of the person's employees who are engaged in the activity in order to ensure compliance with this Act, regulations, and any marine consent; and
     (ii) sufficient resources to the person's employees to ensure compliance with this Act, regulations, and any marine consent, including establishing appropriate management systems.
 (3) The duties referred to in subsection (2) are not enforceable against any person, and no person is liable to any other person for a breach of a duty.
-(4) However, despite subsection (3), an enforcement order may be made or an abatement notice may be served under Part 3 to require a person to comply with subsection (2)﻿(a) if adverse effects result or are likely to result from a breach of this Act, regulations, or a marine consent.
+(4) However, despite subsection (3), an enforcement order may be made or an abatement notice may be served under Part 4 to require a person to comply with subsection (2)﻿(a) if adverse effects result or are likely to result from a breach of this Act, regulations, or a marine consent.
 
 ### 26 Relationship with other legal requirements
 To avoid doubt,—
   (a) compliance with this Act does not remove the need to comply with all other applicable Acts, regulations, and rules of law; and
   (b) compliance with any Act, regulations, or rule of law does not remove the need to comply with this Act.
 
-## Part 3 — Requirements and consents
+## Part 3 — Regulations
 
 ### Subpart 1 — Regulations
 
@@ -663,6 +694,15 @@ To avoid doubt,—
     (ii) an activity of brief duration; or
     (iii) a dumping activity.
 
+**Decommissioning plans**
+
+### 29E Decommissioning plans
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing 1 or more of the following:
+  (a) information that must be included in a decommissioning plan under section 100A(2):
+  (b) the process for dealing with a decommissioning plan under section 100B(1)﻿(a):
+  (c) the criteria against which a decommissioning plan must be assessed under section 100B(1)﻿(b).
+(2) However, the Minister must not recommend the making of regulations under this section unless section 32 has been complied with.
+
 **Regulations generally**
 
 ### 30 Regulations
@@ -685,11 +725,11 @@ To avoid doubt,—
 (3) Different requirements or standards may apply in relation to different activities and different classes of the same activity.
 
 ### 32 Process for developing or amending regulations
-(1) Before making a recommendation to the Governor-General under section 27, 29A, or 30(1)﻿(a) or (c), the Minister must comply with subsection (2).
+(1) Before making a recommendation to the Governor-General under section 27, 29A, 29E, or 30(1)﻿(a) or (c), the Minister must comply with subsection (2).
 (2) The Minister must—
   (a) notify the public, iwi authorities, regional councils, and persons whose existing interests are likely to be affected of—
     (i) the proposed subject matter of the regulations; and
-    (ii) in the case of regulations to which section 27 or 29A applies, the Minister's reasons for considering that the regulations are consistent with the purpose of the Act; and
+    (ii) in the case of regulations to which section 27, 29A, or 29E applies, the Minister's reasons for considering that the regulations are consistent with the purpose of the Act; and
   (b) establish a process that the Minister considers gives the public, iwi authorities, and persons whose existing interests are likely to be affected adequate time and opportunity to comment on the subject matter of the proposed regulations.
 (3) However, the Minister need not comply with subsection (2) if the Minister is recommending the making of an amendment to regulations that has no more than a minor effect or that corrects errors or makes minor technical changes.
 
@@ -731,17 +771,23 @@ To avoid doubt,—
   (b) the effects of the discharge or dumping on human health if the discharge or dumping takes place; and
   (c) in relation to the dumping of waste or other matter,—
     (i) any alternative methods of disposal that could be used; and
-    (ii) whether there are practical opportunities to reuse, recycle, or treat the waste.
+    (ii) whether there are practical opportunities to reuse, recycle, or treat the waste or other matter.
+
+**Types of activities**
+
+## Part 3A — Activities and consents
+
+### Subpart 1 — Activities
 
 **Types of activity**
 
 ### 35 Permitted activities
 (1) An activity is a permitted activity if it is described in regulations as a permitted activity.
-(2) A person may undertake a permitted activity without a marine consent provided that the activity complies with any terms and conditions specified for the activity in regulations.
-(3) A person intending to undertake a permitted activity must notify the Environmental Protection Authority before undertaking the activity if required to do so by regulations made under this Act.
+(2) A person may undertake a permitted activity without a marine consent if the activity complies with any terms and conditions specified (for the activity) in regulations.
+(3) A person intending to undertake a permitted activity must notify the Environmental Protection Authority before undertaking the activity if required to do so by regulations.
 
 ### 36 Discretionary activities
-(1) An activity is a discretionary activity if this Act or regulations—
+(1) An activity is a discretionary activity if regulations—
   (a) describe the activity as discretionary; or
   (b) allow the activity with a marine consent; or
   (c) do not classify the activity as permitted, discretionary, or prohibited.
@@ -749,97 +795,164 @@ To avoid doubt,—
 (3) Subsection (2) is subject to section 21.
 
 ### 37 Prohibited activities
-(1) An activity is a prohibited activity if it is described in this Act or regulations as a prohibited activity.
-(2) No person may apply for a marine consent for a prohibited activity and a consent for a prohibited activity must not be granted.
-(3) No person may undertake a prohibited activity.
-(4) Subsection (3) is subject to section 23.
+(1) An activity is a prohibited activity if it is described in regulations as a prohibited activity.
+(2) No person may apply for a marine consent for a prohibited activity.
+(3) No marine consent may be granted for a prohibited activity.
+(4) Subject to section 23, no person may undertake a prohibited activity.
 
-### Subpart 2 — Marine consents
+### Subpart 2 — EEZ policy statements
 
-### 37A Application of this subpart
-This subpart applies only in relation to an activity described in section 20.
+**EEZ policy statements**
+
+### 37A Purpose and scope of EEZ policy statements
+(1) The purpose of EEZ policy statements is to state objectives and policies to support decision-making on applications for marine consents in accordance with the purpose of this Act.
+(2) An EEZ policy statement may apply to all or part of the exclusive economic zone and the continental shelf.
+(3) In determining whether it is desirable to prepare an EEZ policy statement, the Minister may have regard to—
+  (a) the actual or potential effects of the use, development, or protection of natural resources:
+  (b) New Zealand’s obligations under any international conventions that relate to the marine environment:
+  (c) the matters in subpart 2 of Part 1:
+  (d) any other relevant matter.
+
+### 37B Notification of, and consultation on, proposed EEZ policy statement
+Before issuing an EEZ policy statement, the Minister must—
+  (a) notify the public, iwi authorities, regional councils, and persons whose existing interests may be affected of—
+    (i) the proposed statement; and
+    (ii) the Minister’s reasons for considering that the proposed statement will support decision-making on applications for marine consents; and
+  (b) establish a process that the Minister considers gives the public, iwi authorities, regional councils, and persons whose existing interests are likely to be affected adequate time and opportunity to comment on the subject matter of the proposed statement.
+
+### 37C Matters to be considered by Minister when determining whether to issue EEZ policy statement
+In determining whether to issue the EEZ policy statement, the Minister must consider—
+  (a) the actual or potential effects of the use, development, or protection of natural resources; and
+  (b) New Zealand’s obligations under any international conventions that relate to the marine environment; and
+  (c) the matters in subpart 2 of Part 1; and
+  (d) any submissions received on the proposed EEZ policy statement; and
+  (e) any other matter that the Minister considers relevant.
+
+### 37D Revision, withdrawal, and approval of proposed EEZ policy statements
+(1) The Minister, after considering the matters in section 37C, may make any changes, or no changes, to the proposed EEZ policy statement, as he or she thinks fit.
+(2) The Minister may withdraw all or part of a proposed EEZ policy statement at any time before the statement is approved under subsection (4).
+(3) The Minister must notify the persons mentioned in section 37B(a) of any withdrawal under subsection (2), including the reasons for the withdrawal.
+(4) The Governor-General may, by Order in Council, on the recommendation of the Minister, approve an EEZ policy statement.
+(5) The Minister must, as soon as practicable after an EEZ policy statement has been approved,—
+  (a) issue the statement by notice in the Gazette; and
+  (b) publicly notify the statement; and
+  (c) send a copy of the statement to the EPA; and
+  (d) provide every person who made a submission on the proposal with a copy of the approved statement.
+
+### 37E Changes to, or review or revocation of, EEZ policy statements
+(1) The Minister may review, change, or revoke an EEZ policy statement in accordance with sections 37B to 37D as if the review, change, or revocation were a proposed EEZ policy statement.
+(2) Despite subsection (1), the Minister may amend an EEZ policy statement without regard to sections 37B to 37D if the amendment is of minor effect or corrects a minor error.
+(3) When an EEZ policy statement is reviewed, the Minister must give notice of the review in the Gazette.
+(4) If an EEZ policy statement has been changed, the Minister must—
+  (a) issue the revised statement by notice in the Gazette; and
+  (b) send a copy of the revised statement to the EPA; and
+  (c) provide every person who made a submission on the proposal with a copy of the approved statement.
+(5) When an EEZ policy statement is revoked, the Minister must notify the revocation by notice in the Gazette.
+
+### 37F Incorporation of material by reference in EEZ policy statements
+An EEZ policy statement may incorporate material by reference under sections 150 to 157.
+
+### 37G EEZ policy statement is disallowable instrument
+An EEZ policy statement is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### Subpart 2A — Applying for marine consents
 
 **Application for marine consent**
 
 ### 38 Application for marine consent
-(1) Any person may apply to the Environmental Protection Authority for a marine consent to undertake a discretionary activity.
+(1) Any person may apply to the Environmental Protection Authority for a marine consent, a marine discharge consent, or a marine dumping consent to undertake a discretionary activity.
 (2) An application must—
   (a) be made in the prescribed form; and
   (b) fully describe the proposal; and
-  (c) include an impact assessment prepared in accordance with section 39.
-(3) This section does not apply to the following activities:
-  (a) the discharge of harmful substances:
-  (b) the dumping of waste or other matter.
+  (c) include an impact assessment prepared in accordance with section 39 and any requirements prescribed in regulations; and
+  (d) if the application relates to an activity referred to in section 20(2)﻿(a), (b), or (c), include a description in general terms of how and when it is proposed that the structure, submarine pipeline, or submarine cable will be dealt with at the end of its life.
+(3) If the application relates to an activity that is to be undertaken in connection with the decommissioning of an offshore installation used in connection with petroleum production, or a structure, submarine pipeline, or submarine cable associated with such an installation,—
+  (a) the application must include an accepted decommissioning plan that covers the activity; and
+  (b) the proposed carrying out of the activity must be in accordance with that plan.
 
 ### 39 Impact assessment
 (1) An impact assessment must—
-  (a) describe the activity for which consent is sought; and
+  (a) describe the activity (or activities) for which consent is sought; and
   (b) describe the current state of the area where it is proposed that the activity will be undertaken and the environment surrounding the area; and
-  (c) identify the effects of the activity on the environment and existing interests (including cumulative effects and effects that may occur in New Zealand or in the sea above or beyond the continental shelf beyond the outer limits of the exclusive economic zone; and
-  (d) identify persons whose existing interests are likely to be adversely affected by the activity; and
-  (e) describe any consultation undertaken with persons described in paragraph (d) and specify those who have given written approval to the activity; and
-  (f) include copies of any written approvals to the activity; and
-  (g) specify any possible alternative locations for, or methods for undertaking, the activity that may avoid, remedy, or mitigate any adverse effects; and
-  (h) specify the measures that the applicant intends to take to avoid, remedy, or mitigate the adverse effects identified.
-(2) An impact assessment must contain the information required by subsection (1) in—
+  (c) identify persons whose existing interests are likely to be adversely affected by the activity; and
+  (d) identify the effects of the activity on the environment and existing interests (including cumulative effects and effects that may occur in New Zealand or in the sea above or beyond the continental shelf beyond the outer limits of the exclusive economic zone); and
+  (e) identify the effects of the activity on the biological diversity and integrity of marine species, ecosystems, and processes; and
+  (f) identify the effects of the activity on rare and vulnerable ecosystems and habitats of threatened species; and
+  (g) describe any consultation undertaken with persons described in paragraph (c) and specify those persons who have given written approval to the activity; and
+  (h) include copies of any written approvals to the activity; and
+  (i) specify any possible alternative locations for, or methods for undertaking, the activity that may avoid, remedy, or mitigate any adverse effects; and
+  (j) specify the measures that could be taken to avoid, remedy, or mitigate the adverse effects identified (including measures that the applicant intends to take).
+(2) An impact assessment must also,—
+  (a) if it relates to an application for a marine discharge consent, describe the effects of the activity on human health:
+  (b) if it relates to an application for a marine dumping consent,—
+    (i) describe the effects of the activity on human health; and
+    (ii) specify any practical opportunities to reuse, recycle, or treat the waste or other matter:
+  (c) if it relates to any other application, describe the effects on human health that may arise from the effects of the activity on the environment.
+(3) An impact assessment must contain the information required under subsections (1) and (2) in—
   (a) such detail as corresponds to the scale and significance of the effects that the activity may have on the environment and existing interests; and
   (b) sufficient detail to enable the Environmental Protection Authority and persons whose existing interests are or may be affected to understand the nature of the activity and its effects on the environment and existing interests.
-(3) The impact assessment complies with subsection (1)﻿(c) and (d) if the Environmental Protection Authority is satisfied that the applicant has made a reasonable effort to identify the matters described in those paragraphs.
-(4) The measures that must be specified under subsection (1)﻿(h) include any measures required by another marine management regime and any measures required by or under the Health and Safety at Work Act 2015 that may have the effect of avoiding, remedying, or mitigating the adverse effects of the activity on the environment or existing interests.
+(4) The impact assessment complies with subsections (1)﻿(c) to (f) and (2) if the Environmental Protection Authority is satisfied that the applicant has made a reasonable effort to identify the matters described in those provisions.
+(5) The measures that must be specified under subsection (1)﻿(j) include any measures required by another marine management regime and any measures required by or under the Health and Safety at Work Act 2015 that may have the effect of avoiding, remedying, or mitigating the adverse effects of the activity on the environment or existing interests.
 
-### 40 Obligation to deal with application promptly
-After receiving an application for a marine consent, the Environmental Protection Authority must deal with the application as promptly as is reasonable in the circumstances.
+### 40 Environmental Protection Authority must determine if application complete
+The Environmental Protection Authority must, within 20 working days after receiving an application, determine whether the application complies with section 38.
 
-### 41 Environmental Protection Authority may return incomplete application
-(1) If the Environmental Protection Authority decides that an application does not include an impact assessment that complies with section 39 or any information required by this Act, it may return the application to the applicant as incomplete.
-(2) The EPA may seek advice under section 44 to assist it in determining whether an impact assessment complies with section 39.
-(3) The EPA must return an incomplete application and give the applicant a written explanation for its finding that the application is incomplete within 10 working days after the application is received by the EPA.
-(4) If, after the EPA returns an application as incomplete, the application is sent to the EPA again, the application is to be treated as a new application.
-(5) The applicant may object under section 101 to a decision under subsection (1).
+### 41 Environmental Protection Authority may commission independent review of impact assessment
+(1) The Environmental Protection Authority may commission an independent review of an impact assessment for the purpose of determining whether the impact assessment complies with section 39.
+(2) If the EPA intends to commission a review, it must—
+  (a) advise the applicant in writing; and
+  (b) include, with that advice, the EPA’s reasons for wanting to commission a review.
+(3) The applicant may object under section 101 to a decision by the EPA to commission a review.
+(4) The EPA must, as soon as is reasonably practicable after receiving the results of a review, send a copy of the results to the applicant.
 
-### 42 Request for further information
-(1) The Environmental Protection Authority may request an applicant to provide further information relating to an application.
-(2) A request may be made at any reasonable time before a hearing under section 50 or, if no hearing is to be held, before the EPA makes a decision on the application.
-(3) A request must be in writing and set out the EPA's reasons for requesting further information.
-(4) The EPA must provide a copy of the information provided by the applicant to every submitter as soon as practicable after the later of—
-  (a) the day on which the EPA receives the information:
-  (b) the date on which the submitter makes a submission.
+### 42 Environmental Protection Authority may ask applicant to complete incomplete application
+(1) If the Environmental Protection Authority considers that an application does not comply with section 38 (including because the impact assessment does not comply with section 39 or any requirements prescribed in regulations), the EPA may, in writing, request further information from an applicant to complete an application.
+(2) An applicant must, within 5 working days after receiving a request under subsection (1),—
+  (a) provide the information; or
+  (b) write to the EPA telling it that the applicant refuses to provide the information.
+(3) The EPA must continue to process an application even if the applicant—
+  (a) does not respond to the request; or
+  (b) refuses to provide the information.
 
 ### 42A Joint processing and decision making on related applications
-(1) This section applies if the Environmental Protection Authority receives more than 1 application for a marine consent in relation to the same proposal (related applications) and at least 1 of the applications must be publicly notified under section 45(2).
-(2) The EPA may extend a time period that applies to the processing of an application for a non-notified activity in order to ensure that—
-  (a) the application and a related application are heard (if both are to be heard) at the same time and place:
-  (b) the EPA makes its decisions on the related applications on the same date.
+[Repealed]
 
-### 43 Response to request
-(1) An applicant who receives a request under section 42(1) must, within 5 working days after the date of the request,—
-  (a) provide the information; or
-  (b) write to the Environmental Protection Authority telling it that the applicant agrees to provide the information; or
-  (c) write to the EPA telling it that the applicant refuses to provide the information.
-(2) After the EPA receives the applicant's letter under subsection (1)﻿(b), the EPA must—
-  (a) set a reasonable time within which the applicant must provide the information; and
-  (b) write to the applicant telling it the date by which the applicant must provide the information.
-(3) The EPA must consider the application under section 59 even if the applicant—
-  (a) does not respond to the request; or
-  (b) agrees to provide the information under subsection (1)﻿(b) but does not do so; or
-  (c) refuses to provide the information under subsection (1)﻿(c).
+### 43 Environmental Protection Authority must return incomplete application
+(1) The EPA must, within 20 working days after an incomplete application is received by the EPA,—
+  (a) return the incomplete application; and
+  (b) give the applicant a written explanation for its finding that the application is incomplete.
+(2) If, after the EPA returns an application as incomplete, the application is sent to the EPA again, the application must be treated as a new application.
+(3) The applicant may object under section 101 to a decision under subsection (1).
 
-### 44 Environmental Protection Authority may obtain advice or information
-(1) The Environmental Protection Authority may—
-  (a) commission an independent review of the impact assessment:
-  (b) commission any person to provide a report on a matter described in paragraph (d):
-  (c) seek advice from the Māori Advisory Committee on any matter related to the application:
-  (d) seek advice or information from any person on any aspect of—
-    (i) an application for a marine consent; or
-    (ii) the activity to which an application relates.
-(2) The EPA must tell an applicant in writing that it intends to commission a review or report or seek advice and include reasons for wanting to commission a review or report or seek advice.
-(3) Subsection (1) applies at any reasonable time before a hearing or, if no hearing is to be held, before a decision on the application is made.
-(4) The applicant for a consent may object under section 101 to a decision to commission a review or a report, or to seek advice.
-(5) The EPA must, as soon as is reasonably practicable after receiving the advice or report (including a report on the results of a review), notify the applicant and every submitter that the advice or report is available at the EPA's office.
+### 44 Joint processing and decision making on related applications
+(1) This section applies if—
+  (a) the Environmental Protection Authority receives more than 1 application for a marine consent in relation to the same proposal (related applications); and
+  (b) at least 1 of the related applications must be publicly notified under section 46(1)﻿(b)﻿(i); and
+  (c) the EPA considers that—
+    (i) the related applications should be heard (if more than 1 are to be heard) at the same time and place; or
+    (ii) decisions on the related applications should be made on the same date.
+(2) The EPA may extend a time period that applies to the processing of the related applications in order to ensure that—
+  (a) they are heard (if more than 1 are to be heard) at the same time and place:
+  (b) decisions on the related applications are made on the same date.
+(3) However, the EPA may not extend the time period beyond the latest date that applies to any of the related applications.
+(4) If any of the related applications is a publicly notifiable application for a section 20 activity, the EPA must delegate its functions under sections 50 to 75 in relation to any other applications to the board of inquiry to allow all of the applications to be determined together unless the applicant requests otherwise.
 
 **Disclosure and hearings of applications for marine consents for non-notified activities**
 
 ### 44A Copy of consent applications for non-notified activities
+[Repealed]
+
+### 44B Hearings in respect of consent applications for non-notified applications
+[Repealed]
+
+**Public notification and hearings of applications for marine consents for publicly notifiable activities**
+
+### 44C Application of sections 45 to 58
+[Repealed]
+
+### Subpart 2B — Disclosure and notification
+
+### 45 Copy of application for non-notified activity
 If the Environmental Protection Authority is satisfied that an application for a marine consent for a non-notified activity is complete, the EPA—
   (a) must serve a copy of the application on any of the following that the EPA considers may be affected by the application:
     (i) iwi authorities:
@@ -851,135 +964,145 @@ If the Environmental Protection Authority is satisfied that an application for a
     (iii) other persons that the EPA considers have existing interests that may be affected by the application:
     (iv) regional councils whose regions may be affected by the application.
 
-### 44B Hearings in respect of consent applications for non-notified applications
-(1) The Environmental Protection Authority may conduct a hearing on an application for a marine consent for a non-notified activity if the EPA considers it necessary or desirable.
-(2) Despite subsection (1), the EPA must conduct a hearing if the applicant requests a hearing.
-(3) The Schedule applies to hearings of applications for marine consents for non-notified activities.
+**Submissions**
 
-**Public notification and hearings of applications for marine consents for publicly notifiable activities**
-
-### 44C Application of sections 45 to 58
-Sections 45 to 58 apply to applications for marine consents for publicly notifiable activities.
-
-### 45 Public notice of consent applications
-(1) If the Environmental Protection Authority is satisfied that an application for a marine consent is complete, it must give public notice of the application and also must serve a copy of the notice on—
-  (a) Ministers with responsibilities that may be affected by the activity for which consent is sought:
-  (b) Maritime New Zealand:
-  (c) any of the following that the EPA considers may be affected by the application:
-    (i) iwi authorities:
-    (ii) customary marine title groups:
-    (iii) protected customary rights groups:
-  (d) other persons that the EPA considers have existing interests that may be affected by the application:
-  (e) regional councils whose regions may be affected by the application.
-(2) The application must be notified within 10 working days after the date on which the EPA is satisfied that the application is complete.
-(3) The notice must—
+### 46 Copy of application for publicly notified activity
+(1) If the Environmental Protection Authority is satisfied that an application for a marine consent for a publicly notifiable activity is complete, it must,—
+  (a) if the application is for a section 20 activity, immediately notify the Minister in writing that an application has been made (to allow a board of inquiry to be appointed under section 52); and
+  (b) within 20 working days,—
+    (i) give public notice of the application; and
+    (ii) serve a copy of the notice on—
+      (A) every other Minister with responsibilities that may be affected by the activity for which consent is sought:
+      (B) Maritime New Zealand:
+      (C) iwi authorities that the EPA considers may be affected by the application:
+      (D) customary marine title groups that the EPA considers may be affected by the application:
+      (E) protected customary rights groups that the EPA considers may be affected by the application:
+      (F) other persons that the EPA considers have existing interests that may be affected by the application:
+      (G) regional councils whose regions may be affected by the application.
+(2) The notice under subsection (1)﻿(b)﻿(i) must—
   (a) be in the prescribed form; and
   (b) give a summary of the application for consent; and
   (c) specify where the application is available for inspection.
 
-**Submissions**
-
-### 46 Making of submissions
+### 47 Making of submissions
 (1) Any person may make a submission to the Environmental Protection Authority about an application for a marine consent.
 (2) A submission must be in the prescribed form.
 (3) A submitter must provide a copy of the submission to the applicant as soon as is reasonably practicable after serving it on the EPA.
 
-### 47 Time limit for submissions
-Submissions must be made not later than 20 working days after public notification of the application under section 45.
+### 48 Time limit for submissions
+Submissions must be made not later than 30 working days after public notification of the application under section 46.
 
-### 48 Advice of submissions to applicant
-As soon as is reasonably practicable after the closing date for submissions, the Environmental Protection Authority must give the applicant a list of all the submissions that it has received.
+### 49 Advising applicants of submissions
+As soon as is reasonably practicable after the closing date for submissions, the Environmental Protection Authority must give the applicant a list of all the submissions that it has received in relation to the relevant application.
 
-### 49 Meetings and mediation to resolve matters before decision
-(1) The Environmental Protection Authority may request the applicant for a marine consent and 1 or more submitters to meet to discuss any matters in dispute in relation to the application for consent, or to enter mediation to resolve a dispute.
-(2) The person who conducts the meeting or mediation must report to the EPA and the persons who were at the meeting or mediation on the outcome of the meeting or mediation.
+### Subpart 2C — Considering applications
+
+**Non-notified activities**
+
+### 50 Hearings in respect of applications for non-notified activities
+(1) The Environmental Protection Authority must conduct a hearing on an application for a marine consent for a non-notified activity if the applicant requests a hearing.
+(2) The EPA may conduct a hearing, even if the applicant does not request one, if the EPA considers it necessary or desirable.
+(3) Schedule 2 applies to hearings of applications for marine consents for non-notified activities.
+
+**Publicly notifiable activities other than section 20 activities**
+
+### 51 Hearings in respect of applications for publicly notifiable activities other than section 20 activities
+(1) If an application is for a publicly notifiable activity other than a section 20 activity, the Environmental Protection Authority must conduct a hearing on an application if the applicant or a submitter requests a hearing.
+(2) The EPA may conduct a hearing, even if neither the applicant nor any submitter requests one, if the EPA considers it necessary or desirable.
+(3) Schedule 3 applies to hearings under this section.
+
+**Publicly notifiable section 20 activities**
+
+### 52 Minister must appoint boards of inquiry for applications for publicly notifiable section 20 activities
+(1) As soon as practicable on being notified in accordance with section 46(1)﻿(a), the Minister must appoint a board of inquiry to—
+  (a) decide an application for a section 20 activity; and
+  (b) complete the performance or exercise of the functions, duties, and powers prescribed in this Part, in relation to the application (including any appeals in relation to the matter that are filed in any court).
+(2) The Minister may, as the Minister sees fit, set terms of reference about administrative matters relating to the inquiry.
+(3) The Minister must appoint 3 to 5 suitable persons to be members of the board of inquiry.
+(4) The Minister may, if he or she considers it appropriate,—
+  (a) invite the EPA to nominate persons to be members of the board:
+  (b) appoint a member of the EPA board to be a member of the board of inquiry.
+(5) In appointing a person to the board, the Minister must consider the need for the board to have available to it from its members, knowledge, skill, and experience relating to—
+  (a) this Act; and
+  (b) the activity or type of activities that the board will be considering; and
+  (c) tikanga Māori; and
+  (d) legal expertise; and
+  (e) relevant technical expertise.
+(6) The Minister must appoint a chairperson.
+(7) The chairperson may (but need not) be a current, former, or retired Environment Court Judge or a retired High Court Judge.
+(8) Schedule 4 applies to boards of inquiry and applications considered by a board of inquiry.
+(9) A member of a board of inquiry is not liable for anything the member does, or omits to do, in good faith in performing or exercising the functions, duties, and powers of the board.
+
+**Provisions that apply to all applications**
+
+### 53 Obligation to deal with application promptly
+(1) A marine consent authority must deal with any application for a marine consent as promptly as is reasonable in the circumstances.
+(2) If section 38(3) applies to the application (and it is not returned under section 43), the Environmental Protection Authority must decide the application no more than 9 months after it determines under section 40 that the application is complete.
+
+### 54 Request for further information
+(1) A marine consent authority may request that an applicant provide further information relating to an application.
+(2) A request may be made at any reasonable time—
+  (a) before a hearing under section 50 or 51 or Schedule 4; or
+  (b) if no hearing is held, before the marine consent authority makes a decision on the application.
+(3) A request must be in writing and set out the marine consent authority’s reasons for requesting further information.
+(4) The marine consent authority must, in the case of a publicly notified application, provide a copy of the information provided by the applicant to every submitter as soon as practicable after the later of—
+  (a) the date on which it receives the information; and
+  (b) the date on which the submitter makes a submission.
+
+### 55 Response to request
+(1) An applicant who receives a request under section 54(1) must, within 5 working days after the date of the request,—
+  (a) provide the information; or
+  (b) write to the marine consent authority telling it that the applicant agrees to provide the information; or
+  (c) write to the marine consent authority telling it that the applicant refuses to provide the information.
+(2) After the marine consent authority receives the applicant's letter under subsection (1)﻿(b), the marine consent authority must—
+  (a) set a reasonable time within which the applicant must provide the information; and
+  (b) write to the applicant advising the applicant of the date by which the applicant must provide the information.
+(3) The marine consent authority must consider the application under section 59 even if the applicant—
+  (a) does not respond to the request; or
+  (b) agrees to provide the information under subsection (1)﻿(b) but does not do so; or
+  (c) refuses to provide the information under subsection (1)﻿(c).
+
+### 56 Marine consent authority may obtain advice or information
+(1) A marine consent authority may—
+  (a) commission an independent review of an impact assessment (if no review was commissioned under section 41):
+  (b) seek advice from the Māori Advisory Committee on any matter related to the application:
+  (c) seek advice or information from any person on any aspect of—
+    (i) an application for a marine consent; or
+    (ii) the activity to which an application relates:
+  (d) commission any person to provide a report on any aspect of—
+    (i) an application for a marine consent; or
+    (ii) the activity to which an application relates.
+(2) The marine consent authority must advise an applicant in writing—
+  (a) if it intends to commission a review or report or seek advice or information; and
+  (b) of the reasons for wanting to do so.
+(3) Subsection (1) applies at any reasonable time—
+  (a) before a hearing is held; or
+  (b) if no hearing is to be held, before a decision on the application is made.
+(4) An applicant may object under section 101 to a decision to commission a review or a report, or to seek advice or information.
+(5) The marine consent authority must, as soon as is reasonably practicable after receiving any advice or report under this section, notify the applicant and every submitter that the advice or report is available at the EPA’s office.
+
+### 57 Meetings and mediation to resolve matters before decision
+(1) The marine consent authority may request that an applicant for a marine consent and 1 or more submitters—
+  (a) meet to discuss any matters in dispute in relation to the application for consent; or
+  (b) enter mediation to resolve any matters in dispute in relation to the application for consent.
+(2) The person who conducts the meeting or mediation must report on the outcome of the meeting or mediation to—
+  (a) the marine consent authority; and
+  (b) the persons who were at the meeting or mediation.
 (3) The report must set out—
   (a) the matters that were agreed at the meeting or mediation; and
   (b) the matters that were not resolved.
-(4) The report must not include anything communicated or made available at the meeting or during the mediation on a without prejudice basis.
-
-**Hearings**
-
-### 50 Obligation to hold hearing
-The Environmental Protection Authority—
-  (a) may conduct a hearing on an application for a consent if the EPA considers it necessary or desirable; but
-  (b) must conduct a hearing if the applicant or a submitter requests a hearing.
-
-### 51 Hearing date and notice
-(1) If a hearing of an application for a marine consent is to be held, the Environmental Protection Authority must fix a commencement date and time and the place of the hearing.
-(2) The date for the commencement of any hearing must not be later than 40 working days after the closing date for submissions on the application.
-(3) The EPA must give at least 20 working days' notice of the commencement date and time and the place of a hearing to—
-  (a) the applicant; and
-  (b) every submitter on the application who stated that he or she wished to be heard and who has not subsequently advised that he or she does not wish to be heard.
-(4) The EPA may give directions as to evidence and the general conduct of the hearing.
-
-### 52 Time limit for hearing
-A hearing must be completed not later than 40 working days after the first day of the hearing.
-
-### 53 Hearings to be public and without unnecessary formality
-(1) A hearing must be held in public unless the Environmental Protection Authority directs, under section 158(3)﻿(a), that the whole or part of a hearing is to be held with the public excluded.
-(2) The EPA must establish a procedure for a hearing that is appropriate and fair in the circumstances.
-(3) In determining an appropriate and fair procedure for a hearing, the EPA must—
-  (a) avoid unnecessary formality; and
-  (b) recognise tikanga Māori where appropriate, and receive evidence written or spoken in Māori, and Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016 applies accordingly.
-(4) No person may question a party or witness unless the EPA gives permission.
-
-### 54 Persons who may be heard at hearings
-(1) At a hearing, the applicant and every submitter who stated that he or she wished to be heard at the hearing may speak (either personally or through a representative) and call evidence.
-(2) However, the Environmental Protection Authority may, if it considers that there is likely to be excessive repetition, limit the circumstances in which parties having the same interest in a matter may speak or call evidence in support.
-(3) The Environmental Protection Authority may proceed with a hearing even if the applicant or a submitter who stated that he or she wished to be heard fails to appear at the hearing if the EPA considers it fair and reasonable to do so.
-
-### 55 Provisions relating to hearings
-(1) The following provisions of the Commissions of Inquiry Act 1908 apply to every hearing:
-  (a) section 4 (which gives powers to maintain order):
-  (b) section 4B (which relates to evidence):
-  (c) section 4D (which gives power to summon witnesses):
-  (d) section 5 (which relates to the service of a summons):
-  (e) section 6 (which relates to the protection of witnesses):
-  (f) section 7 (which relates to allowances for witnesses).
-(2) Every summons to a witness to appear at a hearing must be in the prescribed form and be signed on behalf of the Environmental Protection Authority or by the chairperson of the committee that is to conduct the hearing.
-(3) All allowances for a witness must be paid by the party on whose behalf the witness is called.
-(4) At a hearing, the following persons must give to the EPA any information and advice that is relevant and reasonably necessary to decide the application if the EPA asks for it:
-  (a) a person who reviewed the impact assessment or provided advice under section 44:
-  (b) a person who is heard or represented at the hearing.
-
-### 56 Control of hearings
-The Environmental Protection Authority may exercise a power under section 57 or 58 after considering whether the scale and significance of the hearing makes the exercise of the power appropriate.
-
-### 57 Directions to provide evidence within time limits
-(1) The Environmental Protection Authority may direct the applicant to provide briefs of evidence to the EPA before the hearing.
-(2) The applicant must provide its briefs of evidence at least 15 working days before the hearing.
-(3) The EPA may direct a submitter who is intending to call expert evidence to provide briefs of the evidence to the EPA before the hearing.
-(4) The submitter must provide the briefs of evidence at least 10 working days before the hearing.
-(5) The EPA must, as soon as practicable after the EPA receives the briefs of evidence, give—
-  (a) a copy of the applicant's brief of evidence to every submitter; and
-  (b) a copy of a submitter's briefs of evidence to the applicant.
+(4) The report must not include anything communicated or made available on a without prejudice basis at the meeting or during the mediation.
 
 ### 58 Directions before or at hearings
-(1) Before or at the hearing, the Environmental Protection Authority may do 1 or more of the following:
-  (a) specify the order of business at the hearing, including the order in which evidence and submissions are presented:
-  (b) direct that evidence and submissions be—
-    (i) recorded; or
-    (ii) taken as read; or
-    (iii) limited to matters in dispute:
-  (c) direct the applicant, when presenting evidence or a submission, to present it within a time limit:
-  (d) direct a submitter, when presenting evidence or a submission, to present it within a time limit.
-(2) At the hearing, the EPA may seek advice on an application or the activity to which the application relates under section 44(1), if the applicant agrees.
-(3) The EPA must provide copies of the advice to the applicant and submitters.
-(4) At the hearing, the EPA may direct a person presenting a submission not to present—
-  (a) the whole submission, if all of it is irrelevant or not in dispute; or
-  (b) any part of the submission that is irrelevant or not in dispute.
-(5) Before or at the hearing, the EPA may direct that a submission or a part of a submission be struck out if the EPA considers—
-  (a) that the submission, or the part, is frivolous or vexatious; or
-  (b) that the submission, or the part, discloses no reasonable or relevant case; or
-  (c) that it would be an abuse of the hearing process to allow the whole submission, or the part, to be taken further.
-(6) If the EPA gives a direction under subsection (5), it must record the reasons for the direction and give a copy of the reasons to the submitter whose submission is affected by the direction.
+[Repealed]
+
+### Subpart 2D — Decisions
 
 **Decisions**
 
-### 59 Environmental Protection Authority’s consideration of application
-(1) This section and sections 60 and 61 apply when the Environmental Protection Authority is considering an application for a marine consent and submissions on the application.
-(2) The EPA must take into account—
+### 59 Marine consent authority’s consideration of application
+(1) This section and sections 60 and 61 apply when a marine consent authority is considering an application for a marine consent and submissions on the application.
+(2) If the application relates to a section 20 activity (other than an activity referred to in section 20(2)﻿(ba)), a marine consent authority must take into account—
   (a) any effects on the environment or existing interests of allowing the activity, including—
     (i) cumulative effects; and
     (ii) effects that may occur in New Zealand or in the waters above or beyond the continental shelf beyond the outer limits of the exclusive economic zone; and
@@ -994,69 +1117,93 @@ The Environmental Protection Authority may exercise a power under section 57 or 
   (h) the nature and effect of other marine management regimes; and
   (i) best practice in relation to an industry or activity; and
   (j) the extent to which imposing conditions under section 63 might avoid, remedy, or mitigate the adverse effects of the activity; and
-  (k) relevant regulations; and
-  (l) any other applicable law; and
-  (m) any other matter the EPA considers relevant and reasonably necessary to determine the application.
-(3) The EPA must have regard to—
+  (k) relevant regulations (other than EEZ policy statements); and
+  (l) any other applicable law (other than EEZ policy statements); and
+  (m) any other matter the marine consent authority considers relevant and reasonably necessary to determine the application.
+(2A) If the application is for a marine discharge consent, the EPA must take into account—
+  (a) the matters described in subsection (2), except paragraph (c); and
+  (b) the effects on human health of the discharge of harmful substances if consent is granted.
+(2B) If the application is for a marine dumping consent or relates to an activity referred to in section 20(2)﻿(ba), the EPA must take into account—
+  (a) the matters described in subsection (2), except paragraphs (c), (f), (g), and (i); and
+  (b) the effects on human health of the dumping of waste or other matter, or the abandonment of the pipeline, if consent is granted; and
+  (c) any alternative methods of disposal of the waste, other matter, or pipeline that could be used; and
+  (d) whether there are practical opportunities to reuse, recycle, or treat the waste, other matter, or pipeline.
+(3) The marine consent authority must have regard to—
+  (aa) EEZ policy statements; and
   (a) any submissions made and evidence given in relation to the application; and
-  (b) any advice, reports, or information it has sought and received in relation to the application; and
+  (b) any advice, reports, or information sought under this Part and received in relation to the application; and
   (c) any advice received from the Māori Advisory Committee.
-(4) When considering an application affected by section 74, the EPA must also have regard to the value of the investment in the activity of the existing consent holder.
-(5) Despite subsection (3), the EPA must not have regard to—
+(4) When considering an application affected by section 74, the marine consent authority must also have regard to the value of the investment in the activity of the existing consent holder.
+(5) Despite subsection (3), the marine consent authority must not have regard to—
   (a) trade competition or the effects of trade competition; or
   (b) the effects on climate change of discharging greenhouse gases into the air; or
   (c) any effects on a person's existing interest if the person has given written approval to the proposed activity.
-(6) Subsection (5)﻿(c) does not apply if the person has given written approval but the person withdraws the approval by giving written notice to the EPA—
+(6) Subsection (5)﻿(c) does not apply if the person has given written approval but the person withdraws the approval by giving written notice to the marine consent authority—
   (a) before the date of the hearing, if there is one; or
-  (b) if there is no hearing, before the EPA decides the application.
+  (b) if there is no hearing, before the marine consent authority decides the application.
 
 ### 60 Matters to be considered in deciding extent of adverse effects on existing interests
-In considering the effects of an activity on existing interests under section 59(2)﻿(a), the Environmental Protection Authority must have regard to—
+In considering the effects of an activity on existing interests under section 59(2)﻿(a), a marine consent authority must have regard to—
   (a) the area that the activity would have in common with the existing interest; and
   (b) the degree to which both the activity and the existing interest must be carried out to the exclusion of other activities; and
   (c) whether the existing interest can be exercised only in the area to which the application relates; and
   (d) any other relevant matter.
 
 ### 61 Information principles
-(1) When considering an application for a marine consent, the Environmental Protection Authority must—
+(1) When considering an application for a marine consent, a marine consent authority must—
   (a) make full use of its powers to request information from the applicant, obtain advice, and commission a review or a report; and
   (b) base decisions on the best available information; and
   (c) take into account any uncertainty or inadequacy in the information available.
-(2) If, in relation to making a decision under this Act, the information available is uncertain or inadequate, the EPA must favour caution and environmental protection.
-(3) If favouring caution and environmental protection means that an activity is likely to be refused, the EPA must first consider whether taking an adaptive management approach would allow the activity to be undertaken.
-(4) Subsection (3) does not limit section 63 or 64.
+(2) If, in relation to making a decision under this Act, the information available is uncertain or inadequate, the marine consent authority must favour caution and environmental protection.
+(3) If favouring caution and environmental protection means that an activity is likely to be refused, the marine consent authority must first consider whether taking an adaptive management approach would allow the activity to be undertaken.
+(4) Subsection (3) does not—
+  (a) apply to an application for—
+    (i) a marine dumping consent; or
+    (ii) a marine discharge consent; or
+    (iii) a marine consent in relation to an activity referred to in section 20(2)﻿(ba); or
+  (b) limit section 63 or 64.
 (5) In this section, best available information means the best information that, in the particular circumstances, is available without unreasonable cost, effort, or time.
 
 ### 62 Decisions on applications for marine consents
-(1) After complying with sections 59 to 61, the EPA may—
+(1) After complying with sections 59 to 61, a marine consent authority may—
   (a) grant an application for a marine consent, in whole or in part, and issue a consent; or
   (b) refuse the application.
-(2) To avoid doubt, the EPA may refuse an application for a consent if it considers that it does not have adequate information to determine the application.
-(3) If the EPA grants the application, it may issue the consent subject to conditions under section 63.
+(1A) However, the marine consent authority must refuse an application for a marine dumping consent or an application relating to an activity referred to in section 20(2)﻿(ba) if—
+  (a) the marine consent authority considers that the waste, other matter, or pipeline may be reused, recycled, or treated without—
+    (i) more than minor adverse effects on human health or the environment; or
+    (ii) imposing costs on the applicant that are unreasonable in the circumstances; or
+  (b) the waste, other matter, or pipeline is identified in such a way that it is not possible to assess the potential effects of dumping or abandoning it on human health or the environment; or
+  (c) the marine consent authority considers that dumping the waste or other matter or abandoning the pipeline is not the best approach to its disposal in the circumstances.
+(2) To avoid doubt, the marine consent authority may refuse an application for a consent if it considers that it does not have adequate information to determine the application.
+(3) If the marine consent authority grants the application, it may issue the consent subject to conditions under section 63.
 
 ### 63 Conditions of marine consents
-(1) The Environmental Protection Authority may grant a marine consent on any condition that it considers appropriate to deal with adverse effects of the activity authorised by the consent on the environment or existing interests.
-(2) The conditions that the EPA may impose include, but are not limited to, conditions—
+(1) A marine consent authority may grant a marine consent on any condition that it considers appropriate to deal with adverse effects of the activity authorised by the consent on the environment or existing interests.
+(2) The conditions that the marine consent authority may impose include, but are not limited to, conditions—
   (a) requiring the consent holder to—
     (i) provide a bond for the performance of any 1 or more conditions of the consent:
     (ii) obtain and maintain public liability insurance of a specified value:
     (iii) monitor, and report on, the exercise of the consent and the effects of the activity it authorises:
     (iv) appoint an observer to monitor the activity authorised by the consent and its effects on the environment:
     (v) make records related to the activity authorised by the consent available for audit:
-  (b) that together amount or contribute to an adaptive management approach.
-(3) However, the EPA must not impose a condition on a consent if the condition would be inconsistent with this Act or any regulations.
-(4) To avoid doubt, the EPA may not impose a condition to deal with an effect if the condition would conflict with a measure required in relation to the activity by another marine management regime or the Health and Safety at Work Act 2015.
+  (b) that, if section 64 applies, together amount or contribute to an adaptive management approach.
+(3) However, the marine consent authority must not impose a condition on a consent if the condition would be inconsistent with this Act or any regulations.
+(4) To avoid doubt, the marine consent authority may not impose a condition to deal with an effect if the condition would conflict with a measure required in relation to the activity by another marine management regime or the Health and Safety at Work Act 2015.
 
 ### 64 Adaptive management approach
-(1) The Environmental Protection Authority may incorporate an adaptive management approach into a marine consent granted for an activity.
+(1AA) This section does not apply to—
+  (a) a marine dumping consent; or
+  (b) a marine discharge consent; or
+  (c) a marine consent in relation to an activity referred to in section 20(2)﻿(ba).
+(1) A marine consent authority may incorporate an adaptive management approach into a marine consent granted for an activity.
 (2) An adaptive management approach includes—
   (a) allowing an activity to commence on a small scale or for a short period so that its effects on the environment and existing interests can be monitored:
   (b) any other approach that allows an activity to be undertaken so that its effects can be assessed and the activity discontinued, or continued with or without amendment, on the basis of those effects.
-(3) In order to incorporate an adaptive management approach into a marine consent, the EPA may impose conditions under section 63 that authorise the activity to be undertaken in stages, with a requirement for regular monitoring and reporting before the next stage of the activity may be undertaken or the activity continued for the next period.
+(3) In order to incorporate an adaptive management approach into a marine consent, a marine consent authority may impose conditions under section 63 that authorise the activity to be undertaken in stages, with a requirement for regular monitoring and reporting before the next stage of the activity may be undertaken or the activity continued for the next period.
 (4) A stage may relate to the duration of the consent, the area over which the consent is granted, the scale or intensity of the activity, or the nature of the activity.
 
 ### 65 Bonds
-(1) A bond required under section 63(2)﻿(a)﻿(i) may be given for the performance of any 1 or more conditions of a marine consent that the Environmental Protection Authority considers appropriate and may continue after the expiry of the consent to secure the ongoing performance of conditions relating to long-term effects, including—
+(1) A bond required under section 63(2)﻿(a)﻿(i) may be given for the performance of any 1 or more conditions of a marine consent that a marine consent authority considers appropriate and may continue after the expiry of the consent to secure the ongoing performance of conditions relating to long-term effects, including—
   (a) a condition relating to the alteration, demolition, or removal of structures:
   (b) a condition relating to remedial, restoration, or maintenance work:
   (c) a condition providing for ongoing monitoring of long-term effects.
@@ -1064,10 +1211,10 @@ In considering the effects of an activity on existing interests under section 59
   (a) require that the bond be given before the consent is exercised or at any other time:
   (b) provide that the liability of the holder of the consent be not limited to the amount of the bond:
   (c) require the bond to be given to secure performance of conditions of the consent, including conditions relating to any adverse effects on the environment or existing interests that become apparent during or after the expiry of the consent:
-  (d) require the holder of the consent to provide such security as the EPA thinks fit for the performance of any condition of the bond:
-  (e) require the holder of the consent to provide a guarantor (acceptable to the EPA) to bind itself to pay for the carrying out of a condition in the event of a default by the holder or the occurrence of an adverse environmental effect requiring remedy:
-  (f) provide that the bond may be varied, cancelled, or renewed at any time by agreement between the holder and the EPA.
-(3) If the EPA considers that an adverse effect may continue or arise at any time after the expiration of a marine consent, the EPA may require that a bond continue for a specified period that the EPA thinks fit.
+  (d) require the holder of the consent to provide such security as the marine consent authority thinks fit for the performance of any condition of the bond:
+  (e) require the holder of the consent to provide a guarantor (acceptable to the marine consent authority) to bind itself to pay for the carrying out of a condition in the event of a default by the holder or the occurrence of an adverse environmental effect requiring remedy:
+  (f) provide that the bond may be varied, cancelled, or renewed at any time by agreement between the holder and the marine consent authority.
+(3) If the marine consent authority considers that an adverse effect may continue or arise at any time after the expiration of a marine consent, the marine consent authority may require that a bond continue for a specified period that the marine consent authority thinks fit.
 
 ### 66 Monitoring conditions
 (1) A condition imposed under section 63(2)﻿(a)﻿(iii) may require the consent holder to do 1 or more of the following:
@@ -1090,25 +1237,29 @@ In considering the effects of an activity on existing interests under section 59
 ### 68 Time limits for Environmental Protection Authority's decision
 (1) The Environmental Protection Authority must make its decision on an application for a marine consent for a publicly notifiable activity as soon as is reasonably practicable and,—
   (a) if a hearing is held, no later than 20 working days after the conclusion of the hearing; or
-  (b) if a hearing is not held, no later than 20 working days after the closing date for making submissions under section 47.
+  (b) if a hearing is not held, no later than 20 working days after the closing date for making submissions under section 48.
 (2) The EPA must make its decision on an application for a marine consent for a non-notified activity as soon as is reasonably practicable and no later than 50 working days after the date on which the EPA is satisfied that the application is complete.
 
-### 69 Decision of Environmental Protection Authority to be in writing
-Every decision of the EPA on an application for a marine consent must be in writing and include reasons for the decision.
+### 69 Decision of marine consent authority to be in writing
+Every decision of a marine consent authority on an application for a marine consent must—
+  (a) be in writing; and
+  (b) include the reasons for the decision.
 
-### 70 Notification of Environmental Protection Authority's decision
-(1) The Environmental Protection Authority must—
+### 70 Notification of marine consent authority’s decision
+(1) The marine consent authority must—
   (a) give a copy of its decision on an application for a marine consent to—
     (i) the applicant; and
     (ii) all submitters; and
     (iii) the Māori Advisory Committee; and
-    (iv) any other person or organisation that the EPA considers appropriate; and
+    (iv) any other person or organisation that the marine consent authority considers appropriate; and
   (b) give public notice of the decision.
 (2) The notice must—
   (a) be in the prescribed form; and
   (b) give a summary of the decision; and
   (c) specify where the full decision is available for inspection.
-(3) The EPA must comply with this section as soon as practicable after it has made its decision.
+(3) The marine consent authority must comply with this section as soon as practicable after it has made its decision.
+
+### Subpart 2E — Consents
 
 ### 71 When marine consent commences
 (1) A marine consent that has been granted commences—
@@ -1132,10 +1283,13 @@ Every decision of the EPA on an application for a marine consent must be in writ
 **Duration of marine consent**
 
 ### 73 Duration of marine consent
-(1) The duration of a marine consent is—
+(1) The duration of a marine consent (other than a marine discharge consent or a marine dumping consent) is—
   (a) 35 years after the date of the granting of the consent; or
   (b) a period less than 35 years that is specified in the consent.
-(2) When determining the duration of the consent, the Environmental Protection Authority must—
+(1A) The duration of a marine discharge consent or a marine dumping consent is—
+  (a) the term specified in the consent, which must not be more than 35 years; or
+  (b) if no term is specified, 5 years after the date of the granting of the consent.
+(2) When determining the duration of the consent, a marine consent authority must—
   (a) comply with sections 59 and 61; and
   (b) take into account the duration sought by the applicant; and
   (c) take into account the duration of any other legislative authorisations granted or required for the activity that is the subject of the application for consent.
@@ -1151,10 +1305,10 @@ Every decision of the EPA on an application for a marine consent must be in writ
   (c) the application is made in the period that—
     (i) begins 6 months before the expiry of the existing consent; and
     (ii) ends 3 months before the expiry of the existing consent; and
-  (d) the EPA, in its discretion, allows the holder to continue to undertake the activity under the existing consent.
+  (d) a marine consent authority, in its discretion, allows the holder to continue to undertake the activity under the existing consent.
 (3) The holder may continue to undertake the activity under the existing consent until—
   (a) a new consent is granted and all appeals are determined; or
-  (b) a new consent is declined and all appeals are determined.
+  (b) a new consent is refused and all appeals are determined.
 
 **Transfer of marine consents**
 
@@ -1163,6 +1317,12 @@ Every decision of the EPA on an application for a marine consent must be in writ
   (a) may transfer the whole or any part of the consent to another person; but
   (b) may not transfer the whole or any part of the consent to another location.
 (2) The transfer of a marine consent has no effect until written notice of the transfer is given to the Environmental Protection Authority.
+
+**EPA responsibility for marine consents granted by board of inquiry**
+
+### 75A Residual powers of EPA
+(1) This section applies to a marine consent that has been granted by a board of inquiry under section 62(1)﻿(a).
+(2) The EPA has all the functions, duties, and powers in relation to the marine consent as if it had granted the consent itself.
 
 **Review of duration and conditions of marine consent**
 
@@ -1194,7 +1354,7 @@ Every decision of the EPA on an application for a marine consent must be in writ
 
 ### 78 Public notice of review
 (1) If the Environmental Protection Authority serves a notice of review of a publicly notifiable activity on a consent holder, the EPA must also give public notice of its intention to review the conditions or duration of a marine consent.
-(2) The EPA must serve a copy of the public notice on the persons specified in section 45(1) and that provision applies as if reference to an application for a marine consent were reference to a notice of review.
+(2) The EPA must serve a copy of the public notice on the persons specified in section 46(1)﻿(b)﻿(ii) and that provision applies as if reference to an application for a marine consent were reference to a notice of review.
 (3) The public notice must—
   (a) be in the prescribed form; and
   (b) give a summary of the notice of review; and
@@ -1204,14 +1364,14 @@ Every decision of the EPA on an application for a marine consent must be in writ
   (b) 10 working days after the date on which the EPA serves the notice of review on the consent holder, if paragraph (a) does not apply.
 
 ### 78A Copy of notice of review of non-notified activity
-If the Environmental Protection Authority serves a notice of review of a non-notified activity on a consent holder, the EPA must serve a copy of the notice on the persons specified in section 44A(a) as if the reference in that paragraph to an application for a marine consent were a reference to a notice of review.
+If the Environmental Protection Authority serves a notice of review of a non-notified activity on a consent holder, the EPA must serve a copy of the notice on the persons specified in section 45(a) as if the reference in that paragraph to an application for a marine consent were a reference to a notice of review.
 
 ### 79 Further information, advice, submissions, and hearing
-(1) Sections 42 to 44 and 45 to 58 apply, with all necessary modifications, to a review of a marine consent for a publicly notifiable activity as if—
+(1) Sections 44 to 56 (other than sections 45, 50, 52, and 53) apply, with all necessary modifications, to a review of a marine consent for a publicly notifiable activity as if—
   (a) the notice of review were an application for a marine consent; and
   (b) the consent holder were the applicant for the marine consent.
-(1A) Sections 42 to 44B (and the Schedule) apply, with all necessary modifications, to a review of a marine consent for a non-notified activity as if the notice of review were an application for a marine consent.
-(2) However, section 44(1)﻿(a) does not apply to a review.
+(1A) Sections 45, 50, and 54 to 56 apply, with all necessary modifications, to a review of a marine consent for a non-notified activity as if the notice of review were an application for a marine consent.
+(2) However, section 56(1)﻿(a) does not apply to a review.
 
 ### 80 Matters to be considered in review
 When reviewing the conditions of a marine consent, the Environmental Protection Authority—
@@ -1251,8 +1411,10 @@ When reviewing the conditions of a marine consent, the Environmental Protection 
   (b) make changes to the conditions of a consent that are more than minor.
 (5) The consent holder may object, under section 101, to a decision by the EPA to change consent conditions.
 
+**Minor corrections of marine consents**
+
 ### 84 Minor corrections of marine consents
-The EPA may issue an amended consent to correct minor mistakes or defects in a consent within 15 working days after the granting of the consent.
+A marine consent authority may issue an amended consent to correct minor omissions, errors, or other defects in a consent within 15 working days after the granting of the consent.
 
 **Cancellation of marine consents**
 
@@ -1280,7 +1442,7 @@ The EPA may issue an amended consent to correct minor mistakes or defects in a c
   (a) the request were an application for a marine consent; and
   (b) the references to a marine consent and to the activity were references only to the change or cancellation of a condition and the effects of the change or cancellation respectively.
 (3) However, if the EPA considers that the requested change or cancellation is likely—
-  (a) to affect the existing interests of only some of the persons described in subsection (4), it may notify those persons and may, but need not, give public notice of the request under section 45; or
+  (a) to affect the existing interests of only some of the persons described in subsection (4), it may notify those persons and may, but need not, give public notice of the request under section 46; or
   (b) to be limited to minor matters, it may deal with the request under section 83.
 (4) For the purposes of determining who is adversely affected by the change or cancellation, the EPA must consider, in particular, every person who—
   (a) made a submission on the original application; and
@@ -1291,83 +1453,34 @@ The EPA may issue an amended consent to correct minor mistakes or defects in a c
 ### Subpart 2A — Marine discharge consents and marine dumping consents
 
 ### 87A Application
-(1) This subpart applies in relation to an activity described in subpart 2 of Part 2.
-(2) Subpart 2 of this Part applies in relation to an activity described in subsection (1) only as set out in this subpart.
+[Repealed]
 
 ### 87B Application for marine discharge consent or marine dumping consent
-(1) Any person may apply to the Environmental Protection Authority for a marine discharge consent or a marine dumping consent to undertake a discretionary activity.
-(2) An application must—
-  (a) be made in the prescribed form; and
-  (b) fully describe the proposal; and
-  (c) include an impact assessment prepared in accordance with section 39 and any regulations.
+[Repealed]
 
 ### 87C Process before Environmental Protection Authority makes decision
-(1) Sections 40 to 58 apply to an application made under section 87B.
-(2) However, section 43(3) applies as if the reference to section 59 were a reference to section 87D.
+[Repealed]
 
 ### 87D Environmental Protection Authority's consideration of application
-(1) This section and sections 87E and 87F apply when the Environmental Protection Authority is considering an application for a marine discharge consent or a marine dumping consent and submissions on the application.
-(2) The EPA must take into account,—
-  (a) in relation to the discharge of harmful substances,—
-    (i) the matters described in section 59(2), except paragraph (c); and
-    (ii) the effects on human health of the discharge of harmful substances if consent is granted; and
-  (b) in relation to the dumping of waste or other matter,—
-    (i) the matters described in section 59(2), except paragraphs (c), (f), (g), and (i); and
-    (ii) the effects on human health of the dumping of waste or other matter if consent is granted; and
-    (iii) any alternative methods of disposal that could be used; and
-    (iv) whether there are practical opportunities to reuse, recycle, or treat the waste.
-(3) Section 59(3) applies to the application for a marine discharge consent or a marine dumping consent.
+[Repealed]
 
 ### 87E Information principles relating to discharges and dumping
-(1) When considering an application for a marine dumping consent or a marine discharge consent, the Environmental Protection Authority must—
-  (a) make full use of its powers to request information from the applicant, obtain advice, and commission a review or a report; and
-  (b) base decisions on the best available information; and
-  (c) take into account any uncertainty or inadequacy in the information available.
-(2) If, in relation to making a decision on the application, the information available is uncertain or inadequate, the EPA must favour caution and environmental protection.
-(3) In this section, best available information means the best information that, in the particular circumstances, is available without unreasonable cost, effort, or time.
+[Repealed]
 
 ### 87F Decision on application for marine discharge consent or marine dumping consent
-(1) After complying with sections 87D and 87E, the Environmental Protection Authority may—
-  (a) grant an application for a marine discharge consent or a marine dumping consent, in whole or in part, and issue a consent; or
-  (b) refuse the application.
-(2) However, the EPA must refuse an application for a marine dumping consent if—
-  (a) the EPA considers that the waste or other matter may be reused, recycled, or treated without—
-    (i) adverse effects on human health or the environment that are more than minor; or
-    (ii) imposing costs on the applicant that are unreasonable in the circumstances; or
-  (b) the waste or other matter is identified in such a way that it is not possible to assess the potential effects of dumping the waste or other matter on human health or the environment; or
-  (c) the EPA considers that dumping the waste or other matter is not the best approach to the disposal of the waste or other matter in the circumstances.
-(3) To avoid doubt, the EPA may refuse an application for a marine discharge consent or a marine dumping consent if the EPA considers that it does not have adequate information to determine the application.
-(4) If the EPA grants the application, it may issue the consent subject to conditions under section 63, but not under section 63(2)﻿(b).
+[Repealed]
 
 ### 87G Conditions and decision-making process
-The following provisions apply to a marine dumping consent or a marine discharge consent granted under section 87F:
-  (a) sections 65 to 67, which relate to conditions:
-  (b) sections 68 to 72, which relate to time limits for making decisions, the form and notification of the decision, commencement of the consent, and the nature of the consent.
+[Repealed]
 
 ### 87H Duration of marine discharge consents and marine dumping consents
-(1) The duration of a marine discharge consent or a marine dumping consent is the term specified in the consent.
-(2) However, the duration must not be more than 35 years.
-(3) If no duration is specified in a consent, its duration is 5 years.
-(4) When determining the duration of a consent, the Environmental Protection Authority must comply with sections 73(2)﻿(b) and (c), 87D, and 87E.
+[Repealed]
 
 ### 87I Exercise of consents, transfer, review, and minor changes
-(1) The following provisions apply to a marine dumping consent or a marine discharge consent granted under section 87F:
-  (a) sections 74 and 75, which relate to the exercise of a consent while applying for a new consent and the transfer of consents:
-  (b) sections 76 to 82, which relate to the review of the conditions and duration of consents:
-  (c) sections 83 to 86, which relate to minor changes and corrections to consent conditions, and the lapsing and cancellation of consents not exercised.
-(2) However,—
-  (a) section 80(a) applies as if—
-    (i) the reference to sections 59 and 60 were a reference to section 87D; and
-    (ii) the reference to section 61 were a reference to section 87E; and
-  (b) section 81(2) applies as if Sections 63 to 71 were replaced with Sections 63 (but not subsection (2)﻿(b)) and 65 to 71.
+[Repealed]
 
 ### 87J Change or cancellation of marine dumping consent or marine discharge consent on application by consent holder
-(1) The holder of a marine dumping consent or a marine discharge consent granted under section 87F may request the Environmental Protection Authority to change or cancel a condition of the consent.
-(2) Sections 87B to 87G apply, with all necessary modifications, as if—
-  (a) the request were an application for a marine dumping consent or a marine discharge consent; and
-  (b) the references to a marine dumping consent or a marine discharge consent were references only to the change or cancellation of a condition; and
-  (c) the references to the activity were references only to the effects of the change or cancellation.
-(3) Section 87(3) to (6) apply to the request.
+[Repealed]
 
 ### Subpart 3 — Marine consents for cross-boundary activities
 
@@ -1375,13 +1488,16 @@ The following provisions apply to a marine dumping consent or a marine discharge
 In this subpart, unless the context otherwise requires,—
   - **assessment of environmental effects** means the assessment of effects on the environment required by section 88(2)﻿(b) of the Resource Management Act 1991
   - **coastal marine area** has the meaning given to it by section 2(1) of the Resource Management Act 1991
-  - **consent authority** has the meaning given to it by section 2(1) of the Resource Management Act 1991
   - **cross-boundary activity** means an activity that is carried out partly in the exclusive economic zone or in or on the continental shelf and partly in New Zealand
   - **joint application for consent** or means an application that comprises both an application for a resource consent under the Resource Management Act 1991 and an application for a marine consent under this Act
-  - **relevant consent authority** means—
-    (a) the consent authority responsible for a district or region in which part of a cross-boundary activity is or is intended to be undertaken; or
+  - **processing** , in relation to an application, means processing—
+    (a) before a hearing is held; or
+    (b) if no hearing is held, before a decision is made on the application
+  - **relevant resource consent authority** means—
+    (a) the resource consent authority responsible for a district or region in which part of a cross-boundary activity is or is intended to be undertaken; or
     (b) the Minister of Conservation, in relation to the coastal marine areas of the Kermadec Islands, the Snares Islands, the Bounty Islands, the Antipodes Islands, the Auckland Islands, Campbell Island, and the islands adjacent to Campbell Island
   - **resource consent** has the meaning given to it by section 2(1) of the Resource Management Act 1991.
+  - **resource consent authority** means a consent authority as that term is defined in section 2(1) of the Resource Management Act 1991
 
 ### 89 Application of this subpart
 (1) This subpart applies to a proposal to undertake a cross-boundary activity that cannot be carried out without—
@@ -1399,41 +1515,50 @@ A person who intends to undertake a cross-boundary activity may—
   (b) apply for a marine consent and a resource consent for a cross-boundary activity separately, whether concurrently or at different times.
 
 ### 91 Joint application for consent for cross-boundary activity
-(1) This section applies if a person makes a joint application for consent.
-(2) The joint application must be sent to both the relevant consent authority and the Environmental Protection Authority.
+(1) If a person makes a joint application for consent, the joint application must be sent to—
+  (a) the relevant resource consent authority; and
+  (b) the Environmental Protection Authority.
+(2)
 (3) The joint application must include an assessment of effects that complies with section 88(2)﻿(b) of the Resource Management Act 1991 and section 39 of this Act.
 (4) The joint application may specify that the application for resource consent is lodged with the EPA under section 145 of the Resource Management Act 1991.
 
 ### 92 Separate applications for consents for cross-boundary activity
-Subpart 2 applies to an application for a marine consent if a person—
+Subparts 2A to 2D apply to an application for a marine consent if a person—
   (a) applies separately for consents for a cross-boundary activity, as described in section 90(b); or
   (b) applies for a marine consent in relation to a cross-boundary activity and does not apply for a resource consent for the activity.
 
 ### 93 Environmental Protection Authority may require joint application
 (1) At any time before or during the processing of an application for a marine consent for a cross-boundary activity, the Environmental Protection Authority may decide (whether on a request by the applicant or on its own initiative) that the application ought to be processed and heard (if a hearing is held) with an application for resource consent for the activity.
+(1A) However, the EPA cannot make a decision under subsection (1) if the application for a marine consent has been referred to a board of inquiry.
 (2) Subsection (1) applies despite a decision by an applicant to apply separately for resource and marine consents under section 90(b) and despite section 92.
 (3) In the case described in subsection (1), the EPA may decide—
-  (a) not to continue with the processing or hearing of the application for a marine consent until the application for resource consent is lodged with it and the relevant consent authority; or
-  (b) to return the application for a marine consent to the applicant as incomplete under section 41.
+  (a) not to continue with the processing or hearing of the application for a marine consent until the application for resource consent is lodged with it and the relevant resource consent authority; or
+  (b) to return the application for a marine consent to the applicant under section 43 as if it were incomplete.
 (4) The EPA must inform the applicant of its decision under subsection (1) as soon as practicable after making the decision.
 (5) If the EPA makes the decision in subsection (3)﻿(a) and the applicant then lodges an application for a resource consent for the cross-boundary activity, the application for resource consent and the application for a marine consent are a new joint application for consent made on the date on which the application for a resource consent was lodged.
 
-### 94 Decision to separate joint application for consent
-(1) At any time during the processing of a joint application for consent, the Environmental Protection Authority may decide that the application for a resource consent and the application for a marine consent that comprise the joint application must cease to be processed as a joint application and continue to be processed separately.
-(2) Subsection (1) applies only if—
-  (a) the EPA and the relevant consent authority agree that the applications are sufficiently unrelated that a joint process is not necessary; or
-  (b) one application must be publicly notified, but not the other; or
-  (c) a hearing is required for one application but not the other; or
-  (d) the joint processing of the applications for resource consent and marine consent that comprise the joint application for consent is not administratively efficient.
-(3) In any case described in subsection (1),—
-  (a) the relevant consent authority must resume processing the application for resource consent under the Resource Management Act 1991; and
-  (b) the EPA must resume processing the application for a marine consent under subpart 2.
+### 94 Joint processing must cease when application for resource consent referred to Environment Court
+(1)
+(2)
+(3)
 (4) The EPA must cease processing a joint application for consent if—
   (a) the Minister for the Environment or the Minister of Conservation (in relation to a proposal of national significance) directs that the application for a resource consent be referred to the Environment Court for decision under section 142(2)﻿(b) or 147(1)﻿(b) of the Resource Management Act 1991; or
   (b) the relevant consent authority agrees to the applicant's request made under section 87D of the Resource Management Act 1991 to allow the application to be determined by the Environment Court.
 (5) In the case described in subsection (4)﻿(a), section 149T of the Resource Management Act 1991 applies to the application for resource consent.
 (6) In the case described in subsection (4)﻿(b), sections 87F(2) to (5) and 87G to 87I of the Resource Management Act 1991 apply to the application for resource consent.
-(7) In both cases described in subsection (4), the EPA must resume processing the application for a marine consent under subpart 2.
+(7) In both cases described in subsection (4), the EPA must resume processing the application for a marine consent under subpart 2A.
+
+### 94A Environmental Protection Authority may decide to separate joint application
+(1) The Environmental Protection Authority may decide that the application for a resource consent and the application for a marine consent that comprise the joint application must cease to be processed as a joint application and continue to be processed separately.
+(2) However, the EPA cannot make a decision under subsection (1) if the joint application for consent has been referred to a board of inquiry.
+(3) Subsection (1) applies only if—
+  (a) the EPA and the relevant resource consent authority agree that the applications are sufficiently unrelated that a joint process is not necessary; or
+  (b) one application must be publicly notified, but not the other; or
+  (c) a hearing is required for one application, but not the other; or
+  (d) the joint processing of the applications for resource consent and marine consent that comprise the joint application for consent is not administratively efficient.
+(4) In any case described in subsection (1),—
+  (a) the relevant resource consent authority must resume processing the application for resource consent under the Resource Management Act 1991; and
+  (b) the EPA must resume processing the application for a marine consent under subpart 2A.
 
 **Processing of joint application**
 
@@ -1442,43 +1567,40 @@ Sections 96 and 97 apply to the processing of a joint application for consent wh
 
 ### 96 Environmental Protection Authority to administer process
 (1) The Environmental Protection Authority is responsible for ensuring the efficient and co-ordinated processing of a joint application for consent for a cross-boundary activity.
-(2) The EPA must, in relation to the joint application, liaise with the relevant consent authority to—
-  (a) prepare a request for further information under section 42 so that, where practicable, the request covers all the information needed in relation to the whole cross-boundary activity; and
-  (b) ensure that if both applications must be publicly notified, they are notified jointly by the EPA and the relevant consent authority; and
+(2) The EPA must, in relation to the joint application, liaise with the relevant resource consent authority to—
+  (a) prepare a request for further information under section 54 so that, where practicable, the request covers all the information needed in relation to the whole cross-boundary activity; and
+  (b) ensure that, if both applications must be publicly notified, they are notified jointly by the EPA and the relevant resource consent authority; and
   (c) set a closing date for the making of submissions (if applicable); and
-  (d) receive submissions and provide copies of them to the consent authority; and
-  (e) set the hearing time, date, and venue, and (if applicable) notify submitters of those matters; and
-  (f) set the procedure for the hearing; and
-  (g) provide general administrative services.
+  (d) receive submissions and provide copies of them to the relevant resource consent authority; and
+  (e) provide general administrative services.
 (3) The EPA may extend a time period that applies to the processing of the application for a marine consent in order to ensure that (where applicable)—
   (a) the application for a marine consent is notified jointly with the application for resource consent:
-  (b) submissions on the applications close on the same date:
-  (c) the applications are heard (if there is a hearing) at the same time and place.
-(4) Section 160(1) and (2) do not apply to the exercise by the EPA of the power to extend a time period under subsection (3).
+  (b) submissions on the applications close on the same date.
 
 ### 97 Relevant consent authority and EPA to share information
 (1) The Environmental Protection Authority and the relevant consent authority must provide each other with copies of all information and reports relating to the application received by them after the joint application has been made.
 (2) The EPA and the relevant consent authority must provide the information as soon as practicable after they receive the information or report.
 
 ### 98 Separate decisions on marine consent and resource consent applications
-(1) The Environmental Protection Authority must decide the application for a marine consent that is part of a joint application for consent.
-(2) Sections 59 to 71 apply to the application for a marine consent.
-(3) The relevant consent authority must decide the application for a resource consent that is part of a joint application.
-(4) Sections 104 to 116 of the Resource Management Act 1991 apply to the application for resource consent.
+(1) Subject to sections 99 and 99A,—
+  (a) the relevant marine consent authority must decide an application for a marine consent, a marine discharge consent, or marine dumping consent that is part of a joint application for consent; and
+  (b) the relevant resource consent authority must decide the application for a resource consent that is part of a joint application.
+(2) Sections 59 to 71 apply to an application for a marine consent, a marine discharge consent, or a marine dumping consent.
+(3) Sections 104 to 116 of the Resource Management Act 1991 apply to the application for a resource consent.
 
 **Nationally significant cross-boundary activities**
 
 ### 99 Application for consent for nationally significant cross-boundary activity referred to board of inquiry
 (1) This section applies if the application for a resource consent for the part of the cross-boundary activity that is to be carried out in the coastal marine area is or is part of a proposal of national significance referred to a board of inquiry under section 142(2)﻿(a) or 147(1)﻿(a) of the Resource Management Act 1991.
 (2) The Environmental Protection Authority may delegate to the board of inquiry the EPA's functions in relation to an application for a marine consent that relates to the part of the activity that is to be carried out in the exclusive economic zone or in or on the continental shelf.
-(3) If the EPA delegates its functions under subsection (2), sections 44B, 50 to 58, and 68 of this Act do not apply to the application for a marine consent and, instead,—
+(3) If the EPA delegates its functions under subsection (2), sections 50 and 51 of this Act do not apply to the application for a marine consent and, instead,—
   (a) the EPA must process the application for a marine consent together with the associated application for a resource consent; and
   (b) the provisions of the Resource Management Act 1991 specified in subsection (5) apply to the processing of the application for a marine consent as if the application were part of the associated application for a resource consent.
 (4) If subsection (3) applies,—
-  (a) the EPA must, if the application must be publicly notified under section 45(2) of this Act,—
+  (a) the EPA must, if the application must be publicly notified under section 46 of this Act,—
     (i) notify the application, if it has not already been notified; and
-    (ii) receive submissions made under section 46; and
-  (b) the board of inquiry must apply sections 59 to 67 in making its decision on the application as if the board were the EPA.
+    (ii) receive submissions made under section 47; and
+  (b) the board of inquiry must apply sections 59 to 67 in making its decision on the application as if the board were a marine consent authority.
 (5) The provisions referred to in subsection (3)﻿(b) are—
   (a) section 149L (which deals with the conduct of the inquiry):
   (b) section 149Q (which requires the board to produce a draft report) except subsections (2)﻿(e) and (f) and (3)﻿(b) and (c):
@@ -1487,6 +1609,38 @@ Sections 96 and 97 apply to the processing of a joint application for consent wh
   (da) section 149S (which allows the Minister to extend the time by which the board must report), but not subsection (4)﻿(b):
   (e) section 149V (which provides for appeals against decisions to be on questions of law only) as if the reference to section 149R(4)﻿(a) to (f) were a reference to section 149R(4)﻿(a), (d), (e), and (f).
 (6) An application for a resource consent is associated with an application for a marine consent if the applications relate to the same cross-boundary activity.
+
+### 99A Joint applications for section 20 activity and for nationally significant activity to be referred to board of inquiry
+(1) This section applies to a joint application for consent if—
+  (a) the application for a marine consent is for a section 20 activity; and
+  (b) the application for a resource consent that is or is part of a proposal of national significance is to be referred to a board of inquiry under section 142(2)﻿(a) or 147(1)﻿(a) of the Resource Management Act 1991.
+(2) The responsible Ministers must, as soon as practicable after being notified in accordance with section 46(1)﻿(a), appoint a board of inquiry to—
+  (a) decide the joint application; and
+  (b) perform or exercise the functions, duties, and powers of a marine consent authority, prescribed in subparts 2C to 2E, in relation to the application (including any appeals in relation to the matter that are filed in any court).
+(3) The responsible Ministers must appoint 3 to 5 suitable persons to be members of the board of inquiry.
+(4) The Minister may, if he or she considers it appropriate, invite the EPA to nominate persons to be members of the board.
+(5) In appointing a person to the board, the responsible Ministers must consider the need for the board to have available to it, from its members,—
+  (a) knowledge, skill, and experience relating to—
+    (i) this Act and the Resource Management Act 1991; and
+    (ii) the matter or type of matter that the board will be considering; and
+    (iii) tikanga Māori; and
+  (b) legal expertise; and
+  (c) technical expertise in relation to the matter or type of matter that the board will be considering.
+(6) The EPA must—
+  (a) process the application for a marine consent together with the associated application for a resource consent; and
+  (b) publicly notify the application under section 46(1)﻿(a) if the application has not already been notified; and
+  (c) receive submissions made under section 47.
+(7) Sections 50 to 52 do not apply to the application for a marine consent.
+(8) Despite subsection (7), clauses 1 to 4 and 14 of Schedule 4 do apply to the processing of the application for a marine consent.
+(9) The following provisions of the Resource Management Act 1991 apply to the processing of the application for a marine consent as if the application were part of the associated application for a resource consent:
+  (a) section 149L (which deals with the conduct of the inquiry):
+  (b) section 149R (which requires the board to produce a final report), but not subsections (3)﻿(e) and (f) and (4)﻿(b) and (c):
+  (c) section 149RA(1) and (2) (which allows the board to make minor corrections to board decisions and resource consents):
+  (d) section 149S (which allows the Minister for the Environment to extend the time by which the board must report), but not subsection (4)﻿(b):
+  (e) section 149V (which provides for appeals against decisions to be on questions of law only) as if the reference in that section to section 149R(4)﻿(a) to (f) were a reference to section 149R(4)﻿(a), (d), (e), and (f).
+(10) In this section, responsible Ministers means—
+  (a) the Minister; and
+  (b) the Minister for the time being responsible for the administration of the Resource Management Act 1991.
 
 ### 100 EPA must provide board of inquiry with necessary information
 (1) This section applies if an application for a marine consent is to be decided by a board of inquiry.
@@ -1503,17 +1657,59 @@ Sections 96 and 97 apply to the processing of a joint application for consent wh
   (c) the applicant; and
   (d) every submitter.
 
+### Subpart 4 — Decommissioning plans
+
+### 100A Submitting decommissioning plan for acceptance
+(1) The owner or operator of an offshore installation used in connection with petroleum production, or a structure, submarine pipeline, or submarine cable associated with such an installation, may submit a decommissioning plan to the Environmental Protection Authority for acceptance.
+(2) The decommissioning plan must—
+  (a) identify the offshore installations, structures, submarine pipelines, and submarine cables that are to be decommissioned; and
+  (b) fully describe how they are to be decommissioned; and
+  (c) if it is a revised decommissioning plan referred to in section 100C, identify the changes from the accepted decommissioning plan that it is intended to replace; and
+  (d) include any other information required by the regulations.
+(3) The regulations may elaborate on what information is required to be included in the plan under subsection (2)﻿(a) to (c).
+
+### 100B Assessment and acceptance of decommissioning plan
+(1) When a decommissioning plan is submitted, the Environmental Protection Authority must—
+  (a) deal with the plan in accordance with the process prescribed by the regulations; and
+  (b) assess the plan against the criteria prescribed by the regulations.
+(2) Having assessed the plan, the EPA must,—
+  (a) if it is satisfied that the plan meets those criteria, accept the plan as the accepted decommissioning plan for the installations, structures, pipelines, and cables to which it relates; or
+  (b) otherwise, refuse to accept the plan.
+(3) To avoid doubt, the EPA may refuse to accept a plan if it considers that it does not have adequate information to determine whether it meets the criteria.
+(4) The EPA must give to the owner or operator—
+  (a) written notice of its decision under subsection (2); and
+  (b) if it refuses to accept the plan, written reasons for that decision.
+
+### 100C Amendment of accepted decommissioning plan
+(1) If the owner or operator of an offshore installation, structure, submarine pipeline, or submarine cable wishes to amend the accepted decommissioning plan (the current plan), it may submit a revised decommissioning plan to the Environmental Protection Authority under section 100A.
+(2) If the EPA accepts the revised plan under section 100B(2)﻿(a),—
+  (a) the current plan ceases to be the accepted decommissioning plan; and
+  (b) the revised plan becomes the accepted decommissioning plan in its place.
+
+### 100D Requirement for public consultation
+(1) Regulations made for the purposes of section 100B must provide for public consultation in relation to a decommissioning plan that has been submitted for acceptance.
+(2) However, in relation to a revised decommissioning plan referred to in section 100C, the regulations may provide for either or both of the following:
+  (a) that public consultation is required only in relation to the changes from the current plan (as defined in section 100C) to the revised plan:
+  (b) that public consultation is not required if the EPA is satisfied that the effect on the environment and existing interests of implementing the revised decommissioning plan would not be materially different from, or would be less than, the effect of implementing the current plan.
+(3) Regulations are to be regarded as providing for public consultation in relation to a plan if the regulations—
+  (a) require the EPA to publicly notify the plan; and
+  (b) allow any person who wishes to make a submission about the plan a reasonable opportunity to do so; and
+  (c) require the owner or operator of the offshore installation, structure, submarine pipeline, or submarine cable to consider each submission and either—
+    (i) amend the plan in response to the submission; or
+    (ii) explain to the EPA why it does not propose to amend the plan in response to the submission.
+
 ## Part 4 — Objections, appeals, and enforcement
 
-### Subpart 1 — Objections and appeals
+### Subpart 1 — Objections to decisions of marine consent authority
 
 **Objections**
 
 ### 101 Right of objection to Environmental Protection Authority against certain decisions
-(1) An applicant for a marine consent may object to a decision of the Environmental Protection Authority to—
-  (a) return an incomplete application under section 41:
-  (b) commission a review or report, or seek advice under section 44.
-(2) A submitter whose submission or part of whose submission is struck out under section 58(5) may object to the decision of the EPA to strike out the submission or part of the submission.
+(1) An applicant for a marine consent may object to a decision of a marine consent authority—
+  (a) under section 40 that an application is incomplete; or
+  (b) under section 41 to commission a review; or
+  (c) under section 56 to commission a review or seek advice.
+(2) A submitter whose submission or part of whose submission is struck out may object to the decision of a marine consent authority to strike out the submission or part of the submission.
 (3) A consent holder may object to a decision of the EPA to—
   (a) change a condition of a consent or cancel a consent under section 81:
   (b) shorten or refuse to extend the duration of a consent under section 82:
@@ -1523,31 +1719,33 @@ Sections 96 and 97 apply to the processing of a joint application for consent wh
   (f) refuse to change or cancel a condition as requested by the consent holder under section 87.
 
 ### 102 Procedure for making or hearing objection
-(1) An objection made under section 101 must be made in writing to the Environmental Protection Authority not later than 15 working days after the decision is notified to the person affected by the decision.
+(1) An objection made under section 101 must be made in writing to a marine consent authority not later than 15 working days after the decision is notified to the person affected by the decision.
 (2) The notice of objection must set out the reasons for the objection.
-(3) The EPA must—
+(3) The marine consent authority must—
   (a) give the person who made the objection an opportunity to be heard; and
   (b) consider and decide the objection within 20 working days after receipt of the notice of objection.
 
 ### 103 Decision on objection
-(1) The Environmental Protection Authority may—
+(1) A marine consent authority may—
   (a) dismiss the objection; or
   (b) uphold the objection in whole or in part.
-(2) Not later than 5 working days after the EPA makes a decision on an objection, it must send a copy of the decision to—
+(2) Not later than 5 working days after the marine consent authority makes a decision on an objection, it must send a copy of the decision to—
   (a) the person who made the objection; and
-  (b) any other person the EPA considers appropriate.
+  (b) any other person the marine consent authority considers appropriate.
 (3) A decision must include the reasons for the decision.
 
 ### 104 Appeals against decisions on objections
 (1) Any person who has made an objection under section 101 may appeal to the High Court against the decision on the objection only on a question of law.
 (2) This section does not apply to a person who has exercised a right of appeal under section 105 relating to the same matter.
 
+### Subpart 1A — Appeals against Environmental Protection Authority decisions
+
 **Appeal to High Court on question of law**
 
 ### 105 Appeals on question of law
 (1) The applicant for a consent or any submitter on an application for a consent may appeal to the High Court against the whole or a part of a decision of the Environmental Protection Authority to—
   (a) grant an application for a consent; or
-  (b) decline an application; or
+  (b) refuse an application; or
   (c) impose any conditions on a consent.
 (2) The holder of a consent or any submitter on the review of a consent may appeal to the High Court against the whole or a part of a decision of the Environmental Protection Authority to—
   (a) change a condition of a consent under section 81(1); or
@@ -1586,20 +1784,7 @@ The parties to an appeal before the High Court are—
   (d) a person who becomes a party to an appeal under section 109.
 
 ### 109 Representation at proceedings
-(1) The following persons may be a party to any proceedings before the High Court under this Act:
-  (a) the Attorney-General, representing a relevant aspect of the public interest:
-  (b) the relevant consent authority in relation to proceedings affecting a cross-boundary activity to which subpart 3 of Part 3 applies.
-(2) A person described in subsection (1) may become a party to the proceedings by giving notice to the High Court and to all other parties within 15 working days after—
-  (a) the period for lodging a notice of appeal ends, if the proceedings are an appeal:
-  (b) the proceedings are commenced, in any other case.
-(3) The notice given under subsection (2) must state—
-  (a) the proceedings in which the person has an interest; and
-  (b) whether the person supports or opposes the proceedings and the reasons for that support or opposition; and
-  (c) if applicable, the grounds for seeking representation under subsection (1)﻿(a); and
-  (d) an address for service.
-(4) A person who becomes a party to the proceedings under this section may appear and call evidence in accordance with subsection (5).
-(5) Evidence must not be called under subsection (4) unless it is on matters within the scope of the appeal or other proceeding.
-(6) A person who becomes a party to the proceedings under this section may not oppose the withdrawal or abandonment of the proceedings unless the proceedings were brought by a person who made a submission in the previous proceedings on the same matter.
+[Repealed]
 
 ### 110 Dismissal of appeal
 The High Court may dismiss an appeal if—
@@ -1617,6 +1802,89 @@ The High Court Rules 2016 apply if a procedural matter is not provided for by se
 
 ### 113 Appeal to Court of Appeal
 Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies to a decision of the High Court on an appeal filed under section 105 of this Act as if the decision had been made under section 300 of the Criminal Procedure Act 2011.
+
+### Subpart 1B — Appeals against decisions of boards of inquiry
+
+**Appeal to High Court on question of law**
+
+### 113A Appeals on question of law
+(1) The applicant for a consent or any submitter on an application for a consent may appeal to the High Court against the whole or a part of a decision of a board of inquiry to—
+  (a) grant an application for a consent; or
+  (b) refuse an application; or
+  (c) impose any conditions on a consent.
+(2) An appeal lodged under this section may be only on a question of law.
+(3) This section is in addition to the rights provided for in section 101.
+
+### 113B Notice of appeal
+(1) An appellant must file a notice of appeal with the Registrar of the High Court in Wellington within 15 working days after the date on which the appellant is notified of the decision of a board of inquiry.
+(2) The appellant must also serve a copy of the notice of the appeal on the board of inquiry and the EPA within the time limit specified in subsection (1).
+(3) The notice of appeal must specify—
+  (a) the decision or part of the decision appealed against; and
+  (b) the error of law alleged by the appellant; and
+  (c) the grounds of appeal with sufficient particularity for the court and other parties to understand them; and
+  (d) the relief sought.
+(4) The appellant must serve a copy of the notice of appeal on—
+  (a) the applicant or consent holder, if the appellant is not the applicant or consent holder; and
+  (b) any submitter on the application for consent, or a change of the consent conditions, or a review of consent conditions.
+(5) The appellant must comply with subsection (4) no later than 5 working days after the appeal is filed.
+(6) The board of inquiry must send a copy of the whole of the decision appealed against to the Registrar of the High Court as soon as is reasonably practicable after receiving the notice of appeal.
+
+### 113C Right to appear and be heard on appeal
+(1) The applicant for, or holder of, the consent to which the appeal relates and any submitters who wish to appear on an appeal to the High Court must give notice of intention to appear to—
+  (a) the appellant; and
+  (b) the Registrar of the High Court; and
+  (c) the Environmental Protection Authority; and
+  (d) the board of inquiry.
+(2) The notice to appear must be served within 10 working days after the person is served with the notice of appeal.
+
+### 113D Parties to appeal
+The parties to an appeal before the High Court are—
+  (a) the appellant; and
+  (b) the board of inquiry whose decision is being appealed; and
+  (c) the Environmental Protection Authority; and
+  (d) a person who gives notice of intention to appear under section 113C; and
+  (e) a person who becomes a party to an appeal under section 113I.
+
+### 113E Dismissal of appeal
+The High Court may dismiss an appeal if—
+  (a) the appellant does not appear at the hearing of the appeal; or
+  (b) the appellant does not proceed with the appeal with due diligence and another party applies to the court to dismiss the appeal.
+
+### 113F Date of hearing
+(1) An appeal is ready for hearing when the appellant notifies the Registrar of the High Court that the notice of appeal has been served on all parties to the proceedings.
+(2) The Registrar must arrange a hearing date as soon as practicable after being notified that the notice of appeal has been served on all parties to the proceedings.
+
+### 113G Application of High Court Rules 2016
+The High Court Rules 2016 apply if a procedural matter is not provided for by sections 113A to 113F.
+
+**Appeal to Supreme Court**
+
+### 113H Appeal to Supreme Court
+(1) Any party to an appeal under section 113D may apply to the Supreme Court for leave to appeal a decision of the High Court under this subpart, but only on a question of law.
+(2) The Supreme Court may—
+  (a) grant leave; or
+  (b) deny leave; or
+  (c) remit the appeal to the Court of Appeal.
+(3) No appeal may be made from any appeal determined by the Court of Appeal under subsection (2)﻿(c).
+(4) An application for leave for the purposes of subsection (1) must be filed no later than 10 working days after the determination of the High Court.
+
+### Subpart 1C — Proceedings generally
+
+### 113I Representation at proceedings
+(1) The following persons may be a party to any proceedings before the High Court under this Act:
+  (a) the Attorney-General, representing a relevant aspect of the public interest:
+  (b) the relevant resource consent authority in relation to proceedings affecting a cross-boundary activity to which subpart 3 of Part 3A applies.
+(2) A person described in subsection (1) may become a party to the proceedings by giving notice to the High Court and to all other parties within 15 working days after—
+  (a) the period for lodging a notice of appeal ends, if the proceedings are an appeal:
+  (b) the proceedings are commenced, in any other case.
+(3) The notice given under subsection (2) must state—
+  (a) the proceedings in which the person has an interest; and
+  (b) whether the person supports or opposes the proceedings and the reasons for that support or opposition; and
+  (c) if applicable, the grounds for seeking representation under subsection (1)﻿(a); and
+  (d) an address for service.
+(4) A person who becomes a party to the proceedings under this section may appear and call evidence in accordance with subsection (5).
+(5) Evidence must not be called under subsection (4) unless it is on matters within the scope of the appeal or other proceeding.
+(6) A person who becomes a party to the proceedings under this section may not oppose the withdrawal or abandonment of the proceedings unless the proceedings were brought by a person who made a submission in the previous proceedings on the same matter.
 
 ### Subpart 2 — Enforcement
 
@@ -1883,7 +2151,7 @@ A person commits an offence against this Act who breaches, or permits a breach o
   (d) an order (other than an enforcement order) made by the Environment Court or the High Court.
 (2) A person commits an offence against this Act who—
   (a) wilfully obstructs, hinders, resists, or deceives any person in the execution of a power conferred on that person by or under this Act; or
-  (b) contravenes or permits a contravention of a summons or order to give evidence issued or made under section 55.
+  (b) contravenes or permits a contravention of a summons or order to give evidence issued or made under a provision of the Commissions of Inquiry Act 1908 as applied by clause 4 of Schedule 2, clause 5 of Schedule 3, or clause 9 of Schedule 4.
 
 **Penalties**
 
@@ -1954,8 +2222,8 @@ Only an enforcement officer may file a charging document in respect of an offenc
 (3) This section overrides any other enactment that is inconsistent with this section.
 
 ### 137 Limitation period
-(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date on which the breach giving rise to the offence first became known, or should have become known, to the enforcement officer.
-(2) The period of 6 months does not run while the person charged (being a natural person) is beyond the outer limits of the territorial sea.
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the breach giving rise to the offence first became known, or should have become known, to the enforcement officer.
+(2) The period of 12 months does not run while the person charged (being a natural person) is beyond the outer limits of the territorial sea.
 (3)
 
 **Appointment and powers of enforcement officers**
@@ -1987,11 +2255,12 @@ Only an enforcement officer may file a charging document in respect of an offenc
   (a) a place, vehicle, vessel, or structure in New Zealand or the exclusive economic zone, except a dwellinghouse or marae; and
   (b) a structure located on the continental shelf in connection with the exploration of the continental shelf or the exploitation of its natural resources; and
   (c) a vessel in the waters above the continental shelf that is beyond the exclusive economic zone.
-(2) The inspection power authorises the person exercising it to—
+(2) The power to enter and inspect allows the person to—
   (a) inspect any item found in a place, vehicle, vessel, or structure entered in accordance with subsection (1):
   (b) take a sample of any substance:
-  (c) conduct examinations, tests, inquiries, and demonstrations:
-  (d) require the production of, and copy, any document or part of a document.
+  (c) seize anything that may be lawfully seized:
+  (d) conduct examinations, tests, inquiries, and demonstrations:
+  (e) require the production of, and copy, any document or part of a document.
 (3) The purpose for which the power to enter and inspect may be exercised is to determine whether the following are being complied with:
   (a) this Act, any regulations, or a marine consent:
   (b) an abatement notice:
@@ -2014,13 +2283,14 @@ The following persons are not liable for any loss or damage caused or any expens
   (a) the Crown:
   (b) the chief executive of the Environmental Protection Authority:
   (c) the Environmental Protection Authority:
-  (d) an enforcement officer.
+  (d) an enforcement officer:
+  (e) a board of inquiry appointed under section 52, 99, or 99A.
 
 **Cost recovery**
 
 ### 143 Principles of cost recovery
 (1) The Environmental Protection Authority must take all reasonable steps to recover so much of the direct and indirect costs incurred in performing its functions and providing services under this Act as are not provided for by money appropriated by Parliament for the purpose.
-(2) The functions and services include those performed in relation to—
+(2) The functions and services include (but are not limited to) those performed in relation to—
   (a) assisting a person in the preparation of an application for a marine consent, whether or not the application is made:
   (b) receiving, processing, and deciding applications for marine consents:
   (c) receiving impact assessments provided under section 22, 161, or 166:
@@ -2078,14 +2348,16 @@ Costs may be recovered for the purpose of section 143(1) by 1 or more of the fol
 **Service of documents**
 
 ### 148 Service of documents
-(1) If a notice or other document is to be served on a person under this Act or regulations, it may be served by—
-  (a) delivering it personally to the person (other than a Minister of the Crown); or
-  (b) delivering it at the usual or last known place of residence or business of the person; or
-  (c) sending it by pre-paid post addressed to the person at the usual or last known place of residence or business of the person; or
-  (d) posting it to the post office box address that the person has specified as an address for service; or
-  (e) leaving it at a document exchange for direction to the document exchange box number that the person has specified as an address for service; or
-  (f) sending it to the fax number that the person has specified as an address for service; or
-  (g) sending it to the email address that the person has specified as an address for service.
+(1) If a notice or other document is to be served on a person for the purposes of this Act,—
+  (a) it must, if the person has specified an electronic address as an address for service for the matter to which the document relates, be served by sending it to the electronic address; and
+  (b) it may, if paragraph (a) does not apply, be served by any of the following methods:
+    (i) delivering it personally to the person, except if the person is a Minister of the Crown:
+    (ii) delivering it at the usual or last known place of residence or business of the person:
+    (iii) sending it by pre-paid post addressed to the person at the usual or last known place of residence or business of the person:
+    (iv) sending it to the usual or last known electronic address of the person:
+    (v) posting it to the post office box address that the person has specified as an address for service:
+    (vi) leaving it at a document exchange for direction to the document exchange box number that the person has specified as an address for service:
+    (vii) sending it to the fax number that the person has specified as an address for service.
 (2) However, subsection (1) does not apply in relation to proceedings before a court.
 (3) A Minister of the Crown may be served by service on the chief executive of the appropriate department of State.
 (4) A body corporate or an unincorporated body may be served by service on an officer, or at the registered office, of the body.
@@ -2199,6 +2471,11 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
     (b) a department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of any specified Act
   - **specified Act** means any Act specified in section 7(2) other than the Crown Minerals Act 1991.
 
+### 158BA EPA and WorkSafe to share information
+(1) The Environmental Protection Authority may provide WorkSafe with any information that the EPA holds and that the EPA considers may assist WorkSafe in the performance of WorkSafe’s functions under the WorkSafe New Zealand Act 2013.
+(2) WorkSafe may provide the EPA with any information that WorkSafe holds and that it considers may assist the EPA in the performance of the EPA’s functions under this Act.
+(3) If any information provided by the EPA under subsection (1) is the subject of a direction made under section 158, that section continues to apply to the information and WorkSafe must comply with that section.
+
 **Waivers and extension of time limits**
 
 ### 159 Power of waiver and extension of time limits
@@ -2231,22 +2508,22 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
 (3) The holder of the permit described in subsection (1)﻿(b) must—
   (a) prepare an impact assessment for the activity; and
   (b) provide the impact assessment to the EPA no later than 2 months after this Act comes into force.
-(4) Section 41 applies to the impact assessment as if it were an application for a marine consent.
+(4) Section 43 applies to the impact assessment as if it were an application for a marine consent.
 (5) If the holder of the permit described in subsection (1)﻿(b) complies with subsection (3), the activity may continue without a marine consent after the date on which this Act comes into force only—
   (a) until the close of the later of—
     (i) the date that is 6 months after that date; or
     (ii) 1 May 2013; but
   (b) if the person undertaking the activity applied for a marine consent within the period described in paragraph (a), until the application—
     (i) is decided under section 62 and any appeals are determined; or
-    (ii) is returned as incomplete by the EPA under section 41 and any objections or appeals are determined.
-(6) If the application for a marine consent described in subsection (5)﻿(b) was returned by the EPA under section 41, subsection (5) applies to any new application that replaces the returned application.
+    (ii) is returned as incomplete by the EPA under section 43 and any objections or appeals are determined.
+(6) If the application for a marine consent described in subsection (5)﻿(b) was returned by the EPA under section 43, subsection (5) applies to any new application that replaces the returned application.
 (7) Subsection (5) overrides section 20.
 
 ### 162 Existing petroleum mining activities involving structures or pipelines
 (1) This section applies to an existing activity that requires a marine consent as a result of this Act coming into force if the activity—
   (a) involves an existing structure or an existing submarine pipeline; and
   (b) is associated with mining for petroleum authorised by a petroleum mining permit granted under section 25 of the Crown Minerals Act 1991 before the date on which this Act comes into force or authorised by an existing privilege preserved under clause 12 of Schedule 1 of that Act.
-(2) However, despite subsection (1), this section does not apply to any of the activities described in subsection (3) unless the Environmental Protection Authority provides a ruling to the effect that the adverse effects on the environment or existing interests of an activity are likely to be minor or less than minor.
+(2) However, despite subsection (1), this section does not apply to any of the activities described in subsection (3) where the activity has adverse effects on the environment or existing interests unless the Environmental Protection Authority provides a ruling to the effect that the adverse effects are likely to be minor or less than minor.
 (3) The activities referred to in subsection (2) are—
   (a) any activity that is part of an activity described in subsection (1), such as placing a structure or drilling a well, that had not commenced before this Act comes into force; or
   (b) any change in the character, intensity, or scale of the activity described in subsection (1) made on or after the date on which this Act comes into force; or
@@ -2267,8 +2544,8 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
     (ii) 1 May 2013; but
   (b) if the person undertaking the activity applies for a marine consent within the period described in paragraph (a), until the application—
     (i) is decided under section 62 and any appeals are determined; or
-    (ii) is returned as incomplete under section 41 and any objections or appeals are determined.
-(4) If the application for a marine consent described in subsection (3)﻿(b) was returned by the EPA under section 41, subsection (3) applies to any new application that replaces the returned application.
+    (ii) is returned as incomplete under section 43 and any objections or appeals are determined.
+(4) If the application for a marine consent described in subsection (3)﻿(b) was returned by the EPA under section 43, subsection (3) applies to any new application that replaces the returned application.
 (5) Subsection (3) overrides section 20.
 
 ### 164 Existing activities that become prohibited
@@ -2281,11 +2558,11 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
 **Transitional provisions relating to discharges and dumping**
 
 ### 164A Dumping permits issued under Maritime Transport Act 1994
-A permit issued before the commencement of this section by the Director of Maritime New Zealand under section 262 of the Maritime Transport Act 1994 must be treated as if it were a marine dumping consent granted under section 87F of this Act on the same terms and conditions as apply to the permit.
+A permit issued before the commencement of this section by the Director of Maritime New Zealand under section 262 of the Maritime Transport Act 1994 must be treated as if it were a marine dumping consent granted under this Act on the same terms and conditions as apply to the permit.
 
 ### 164B Provisions of discharge management plans approved under Maritime Transport Act 1994 become marine discharge consents
 (1) This section applies to a discharge management plan for an offshore installation approved before the commencement of this section by the Director of Maritime New Zealand in accordance with rule 200.7 of Part 200 of the Marine Protection Rules.
-(2) The provisions of the discharge management plan that specify the following matters must be treated as if they were a marine discharge consent granted under section 87F for a term that is the same as the remaining duration of the discharge management plan:
+(2) The provisions of the discharge management plan that specify the following matters must be treated as if they were a marine discharge consent granted under this Act for a term that is the same as the remaining duration of the discharge management plan:
   (a) harmful substances that may be discharged in accordance with the discharge management plan:
   (b) a method for continuously measuring the oil content of production water, displacement water, or offshore processing drainage discharged from the offshore installation:
   (c) procedures for reporting oil spills:
@@ -2336,15 +2613,15 @@ A permit issued before the commencement of this section by the Director of Marit
 (3) However, before the activity may commence, the person intending to undertake the activity must—
   (a) prepare an impact assessment for the activity; and
   (b) provide the impact assessment to the EPA.
-(4) Section 41 applies to the impact assessment as if it were an application for a marine consent.
+(4) Section 43 applies to the impact assessment as if it were an application for a marine consent.
 (5) If the person intending to undertake the activity complies with subsection (3), the activity may continue without a marine consent after the date on which this Act comes into force—
   (a) until the close of the later of—
     (i) the date that is 12 months after that date; or
     (ii) 1 May 2014; but
   (b) if the person undertaking the activity applies for a marine consent within the period described in paragraph (a), until the application—
     (i) is decided under section 62 and any appeals are determined; or
-    (ii) is returned as incomplete by the EPA under section 41 and any objections or appeals are determined.
-(6) If the application for a marine consent described in subsection (5)﻿(b) was returned by the EPA under section 41, subsection (5) applies to any new application that replaces the returned application.
+    (ii) is returned as incomplete by the EPA under section 43 and any objections or appeals are determined.
+(6) If the application for a marine consent described in subsection (5)﻿(b) was returned by the EPA under section 43, subsection (5) applies to any new application that replaces the returned application.
 (7) Subsections (2) and (5) override section 20.
 (8) In this section, planned petroleum activity means an activity involved with the exploration, prospecting, or mining for petroleum if,—
   (a) before the Act comes into force, the exploration, prospecting, or mining for petroleum with which the activity is involved is authorised by a permit that was granted under section 25 of the Crown Minerals Act 1991 or authorised by an existing privilege preserved under clause 12 of Schedule 1 of that Act; and
@@ -2467,7 +2744,29 @@ Replace section 7A with:Relationship with Resource Management Act 1991Relationsh
 (1) This section amends the Search and Surveillance Act 2012.
 (2) In the Schedule, after the item relating to the Electricity Industry Act 2010, insert:The following table is small in size and has 3 columns. This table is an amendment to the table in the Schedule of the Search and Surveillance Act 2012 and should be read with that table to provide understanding of the context.Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012141(1) and (2)Enforcement officer may enter and inspect a place, vehicle, vessel, or structure to determine whether Act, regulations, marine consent, abatement notice, or enforcement order are being complied withAll (except subparts 2 and 8 and sections 118 and 119)
 
-## Schedule  — Hearings of applications for marine consents for non-notified activities
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Part 5 of Resource Legislation Amendment Act 2017
+
+### 1 Matters pending on commencement day
+(1) All pending consent applications and pending proceedings must be dealt with and determined as if this Act had not been amended by Part 5 of the Resource Legislation Amendment Act 2017.
+(2) All pending reviews must be continued and completed as if this Act had not been amended by Part 5 of the Resource Legislation Amendment Act 2017.
+(3) In this clause,—
+  - **commencement day** means the day on which Part 5 of the Resource Legislation Amendment Act 2017 comes into force
+  - **pending consent application** means an application for a marine consent that—
+    (a) was made under section 38 or 87B before the commencement day; and
+    (b) as at the commencement day,—
+      (i) had not been returned as incomplete under section 41(3) (or that section as applied by section 87C); and
+      (ii) had not been finally determined
+  - **pending proceeding** means an objection, appeal, or proceeding under Part 4 of this Act that was commenced before the commencement day and as at that day had not been finally determined
+  - **pending review** means a review under section 76 that was commenced before the commencement day and as at that day had not been completed.
+
+### 2 Certain provisions inserted by Resource Legislation Amendment Act 2017 do not apply until decommissioning regulations date
+(1) Section 38(3) does not apply in relation to an application made before the decommissioning regulations date.
+(2) Subpart 4 of Part 3A does not apply until the decommissioning regulations date.
+(3) In this clause, decommissioning regulations date means the date on which the first regulations made under section 29E come into force.
+
+## Schedule 2 — Hearings of applications for marine consents for non-notified activities
 
 ### 1 Hearing date and notice
 (1) If a hearing of an application for a marine consent for a non-notified activity is to be held, the Environmental Protection Authority must fix a commencement date and time and the place of the hearing.
@@ -2519,3 +2818,219 @@ The Environmental Protection Authority may exercise a power under clause 6 or 7 
   (c) direct the applicant, when presenting evidence or his or her own submission, to present it within a time limit.
 (2) At the hearing, the EPA may seek advice or information under section 44(1) on an application or the activity to which the application relates, if the applicant agrees.
 (3) The EPA must provide copies of the advice or information to the applicant.
+
+## Schedule 3 — EPA hearings for publicly notifiable activities other than section 20 activities
+
+### 1 Hearing date and notice
+(1) If a hearing of an application for a marine consent is to be held, the Environmental Protection Authority must fix the commencement date and the time and place of the hearing.
+(2) The date for the commencement of any hearing must not be later than 40 working days after the closing date for submissions on the application.
+(3) The EPA must give at least 20 working days’ notice of the commencement date, time, and place of a hearing to—
+  (a) the applicant; and
+  (b) every submitter on the application who stated that he or she wished to be heard and who has not subsequently advised that he or she does not wish to be heard.
+(4) The EPA may give directions as to evidence and the general conduct of the hearing.
+
+### 2 Time limit for hearing
+A hearing must be completed not later than 40 working days after the first day of the hearing.
+
+### 3 Hearings to be public and without unnecessary formality
+(1) A hearing must be held in public unless the Environmental Protection Authority directs, under section 158(3)﻿(a), that the whole or part of a hearing is to be held with the public excluded.
+(2) The EPA must establish a procedure for a hearing that is appropriate and fair in the circumstances.
+(3) In determining an appropriate and fair procedure for a hearing, the EPA must—
+  (a) avoid unnecessary formality; and
+  (b) recognise tikanga Māori where appropriate, and receive evidence written or spoken in Māori, and the Māori Language Act 1987 applies accordingly.
+(4) No person may question a party or witness unless the EPA gives permission to do so.
+
+### 4 Persons who may be heard at hearings
+(1) At a hearing, the applicant and every submitter who stated that he or she wished to be heard at the hearing may speak (either personally or through a representative) and call evidence.
+(2) However, the Environmental Protection Authority may, if it considers that excessive repetition is likely, limit the circumstances in which parties having the same interest in a matter may speak or call evidence in support.
+(3) The Environmental Protection Authority may proceed with a hearing even if the applicant or a submitter who stated that he or she wished to be heard fails to appear at the hearing if the EPA considers it fair and reasonable to do so.
+
+### 5 Provisions relating to hearings
+(1) The following provisions of the Commissions of Inquiry Act 1908 apply to every hearing:
+  (a) section 4 (which gives powers to maintain order):
+  (b) section 4B (which relates to evidence):
+  (c) section 4D (which gives power to summon witnesses):
+  (d) section 5 (which relates to the service of a summons):
+  (e) section 6 (which relates to the protection of witnesses):
+  (f) section 7 (which relates to allowances for witnesses).
+(2) Every summons to a witness to appear at a hearing must be in the prescribed form and be signed on behalf of the Environmental Protection Authority or by the chairperson of the committee that is to conduct the hearing.
+(3) All allowances for a witness must be paid by the party on whose behalf the witness is called.
+(4) At a hearing, the following persons must give to the EPA any information and advice that is relevant and reasonably necessary to decide the application if the EPA asks for it:
+  (a) a person who reviewed the impact assessment or provided advice under section 41 or 56:
+  (b) a person who is heard or represented at the hearing.
+
+### 6 Control of hearings
+The Environmental Protection Authority may exercise a power under clause 7 or 8 after considering whether the scale and significance of the hearing make the exercise of the power appropriate.
+
+### 7 Directions to provide evidence within time limits
+(1) The Environmental Protection Authority may direct the applicant to provide briefs of evidence to the EPA before the hearing.
+(2) The applicant must provide its briefs of evidence at least 15 working days before the hearing.
+(3) The EPA may direct a submitter who intends to call expert evidence to provide briefs of the evidence to the EPA before the hearing.
+(4) The submitter must provide the briefs of evidence at least 10 working days before the hearing.
+(5) The EPA must, as soon as practicable after the EPA receives the briefs of evidence, give—
+  (a) a copy of the applicant's brief of evidence to every submitter; and
+  (b) a copy of a submitter's briefs of evidence to the applicant.
+
+### 8 Directions before or at hearings
+(1) Before or at the hearing, the Environmental Protection Authority may do 1 or more of the following:
+  (a) direct that a conference of a group of experts be held:
+  (b) direct that a conference be held with—
+    (i) any of the submitters who wish to be heard at a hearing; or
+    (ii) the applicant; or
+    (iii) in the case of a cross-boundary application, any relevant resource consent authority; or
+    (iv) any combination of such persons:
+  (c) specify the order of business at the hearing, including the order in which evidence and submissions are presented:
+  (d) direct that evidence and submissions be—
+    (i) recorded; or
+    (ii) taken as read; or
+    (iii) limited to matters in dispute:
+  (e) direct the applicant, when presenting evidence or a submission, to present it within a time limit:
+  (f) direct a submitter, when presenting evidence or a submission, to present it within a time limit.
+(2) At the hearing, the EPA may, under section 56(1), seek advice on an application or the activity to which the application relates, if the applicant agrees.
+(3) The EPA must provide copies of the advice to the applicant and submitters.
+(4) At the hearing, the EPA may direct a person presenting a submission not to present—
+  (a) the whole submission, if none of it is relevant or in dispute; or
+  (b) any part of the submission that is not relevant or not in dispute.
+(5) Before or at the hearing, the EPA may direct that a submission or a part of a submission be struck out if the EPA considers that—
+  (a) the submission, or the part, is frivolous or vexatious; or
+  (b) the submission, or the part, discloses no reasonable or relevant case; or
+  (c) it would be an abuse of the hearing process to allow the whole submission, or the part, to be taken further.
+(6) If the EPA gives a direction under subclause (5), it must record the reasons for the direction and give a copy of the reasons to the submitter whose submission is affected by the direction.
+
+## Schedule 4 — Boards of inquiry for publicly notifiable section 20 activities
+
+**General**
+
+### 1 EPA must provide board with necessary information
+(1) The EPA must provide the board of inquiry with each of the following things as soon as is reasonably practicable after the board is appointed and the things are received:
+  (a) the application:
+  (b) all the information received by the EPA that relates to the application:
+  (c) the submissions received by the EPA on the application.
+(2) The EPA must also—
+  (a) prepare or commission a report on the key issues relating to the application and the activity, including—
+    (i) any relevant provisions in regulations; and
+    (ii) a statement on whether the application covers all aspects of the activity for which a marine consent is required:
+  (b) provide a copy of the report to—
+    (i) the board of inquiry; and
+    (ii) the applicant; and
+    (iii) every submitter.
+
+### 2 EPA must provide support to board
+(1) The EPA must provide all reasonable administrative and secretarial services that are necessary to enable a board of inquiry to discharge its functions and responsibilities under this Act.
+(2) The EPA may—
+  (a) make decisions regarding administrative and support matters that are incidental or ancillary to the conduct of an inquiry under this schedule; or
+  (b) allow the board of inquiry to make those decisions.
+(3) The EPA must have regard to the purposes of minimising costs and avoiding unnecessary delay when performing its functions under subclause (2)﻿(a) or (b).
+
+### 3 EPA may provide board with advice
+The EPA may provide a board of inquiry with—
+  (a) technical advice:
+  (b) an estimate of the amount of funding required to process an application.
+
+### 4 How board must carry out duties
+A board of inquiry must—
+  (a) carry out its duties in a timely and cost-effective manner:
+  (b) conduct its inquiry in accordance with any terms of reference set by the Minister under section 52(2):
+  (c) have regard to the most recent estimate provided to the board of inquiry by the EPA under clause 3(b).
+
+**Hearings**
+
+### 5 Hearings
+(1) The board of inquiry must conduct a hearing on an application if the applicant or a submitter requests a hearing.
+(2) The board of inquiry may conduct a hearing, even if no applicant or submitter requests one, if the board considers it necessary or desirable.
+(3) The board of inquiry—
+  (a) must keep a full record of any hearings or proceedings:
+  (b) may direct that a conference of a group of experts be held:
+  (c) may direct that a conference be held with—
+    (i) any of the submitters who wish to be heard at a hearing; or
+    (ii) the applicant; or
+    (iii) in the case of a cross-boundary application, any relevant resource consent authority; or
+    (iv) any combination of the persons described in paragraphs (i) to (iii).
+
+### 6 Hearing date and notice
+(1) If a hearing is to be held, the EPA must—
+  (a) fix the commencement date, time, and place of the hearing; and
+  (b) give 20 working days’ notice of the commencement date, time, and place of the hearing to—
+    (i) the applicant; and
+    (ii) every submitter on the application who stated that he or she wished to be heard and who has not subsequently advised that he or she does not wish to be heard.
+(2) The board of inquiry may give directions as to evidence and the general conduct of the hearing.
+
+### 7 Hearings to be public and without unnecessary formality
+(1) A hearing must be held in public unless the Environmental Protection Authority, under section 158(3)﻿(a), directs that the whole or part of a hearing is to be held with the public excluded.
+(2) The board of inquiry must establish a procedure for a hearing that is appropriate and fair in the circumstances.
+(3) In determining an appropriate and fair procedure for a hearing, the board of inquiry must—
+  (a) avoid unnecessary formality; and
+  (b) where appropriate, recognise tikanga Māori; and
+  (c) receive evidence written or spoken in te reo Māori (and the Māori Language Act 1987 applies accordingly to the evidence so received).
+(4) No person may question a party or witness unless the board of inquiry gives permission to do so.
+
+### 8 Persons who may be heard at hearings
+(1) At a hearing, the applicant and every submitter who stated that he or she wished to be heard at the hearing may speak (either personally or through a representative) and call evidence.
+(2) However, the board of inquiry may, if it considers that excessive repetition is likely, limit the circumstances in which parties having the same interest in a matter may speak or call evidence in support.
+(3) The board of inquiry may proceed with a hearing even if the applicant or a submitter who stated that he or she wished to be heard fails to appear at the hearing if the board of inquiry considers it fair and reasonable to do so.
+
+### 9 Provisions relating to hearings
+(1) The following provisions of the Commissions of Inquiry Act 1908 apply to every hearing:
+  (a) section 4 (which gives powers to maintain order):
+  (b) section 4B (which relates to evidence):
+  (c) section 4D (which gives power to summon witnesses):
+  (d) section 5 (which relates to the service of a summons):
+  (e) section 6 (which relates to the protection of witnesses):
+  (f) section 7 (which relates to allowances for witnesses).
+(2) Every summons to a witness to appear at a hearing must be in the prescribed form and be signed on behalf of the board of inquiry or by the chairperson of the committee that is to conduct the hearing.
+(3) All allowances for a witness must be paid by the party on whose behalf the witness is called.
+(4) At a hearing, the following persons must give to the board of inquiry any information and advice that is relevant and reasonably necessary to decide the application if the board of inquiry asks for it:
+  (a) a person who reviewed the impact assessment or provided advice under section 41 or 56:
+  (b) a person who is heard or represented at the hearing.
+
+### 10 Control of hearings
+A board of inquiry may exercise a power under clause 11 or 12 after considering whether the scale and significance of the hearing make the exercise of the power appropriate.
+
+### 11 Directions to provide evidence within time limits
+(1) A board of inquiry may direct the applicant to provide briefs of evidence to the board before the hearing.
+(2) The applicant must provide its briefs of evidence at least 15 working days before the hearing.
+(3) The board of inquiry may direct a submitter who intends to call expert evidence to provide briefs of the evidence to the board before the hearing.
+(4) The submitter must provide the briefs of evidence at least 10 working days before the hearing.
+(5) The board of inquiry must, as soon as practicable after the board receives the briefs of evidence, give—
+  (a) a copy of the applicant’s brief of evidence to every submitter; and
+  (b) a copy of a submitter's briefs of evidence to the applicant.
+
+### 12 Directions before or at hearings
+(1) Before or at the hearing, the board of inquiry may do 1 or more of the following:
+  (a) specify the order of business at the hearing, including the order in which evidence and submissions are presented:
+  (b) direct that evidence and submissions be—
+    (i) recorded; or
+    (ii) taken as read; or
+    (iii) limited to matters in dispute:
+  (c) direct the applicant, when presenting evidence or a submission, to present it within a time limit:
+  (d) direct a submitter, when presenting evidence or a submission, to present it within a time limit.
+(2) At the hearing, the board of inquiry may seek advice on an application or the activity to which the application relates under section 56(1), if the applicant agrees.
+(3) The board of inquiry must provide copies of the advice to the applicant and submitters.
+(4) At the hearing, the board of inquiry may direct a person presenting a submission not to present—
+  (a) the whole submission, if none of it is relevant or in dispute; or
+  (b) any part of the submission that is not relevant or not in dispute.
+(5) Before or at the hearing, the board of inquiry may direct that a submission or a part of a submission be struck out if the board considers that—
+  (a) the submission, or the part, is frivolous or vexatious; or
+  (b) the submission, or the part, discloses no reasonable or relevant case; or
+  (c) it would be an abuse of the hearing process to allow the whole submission, or the part, to be taken further.
+(6) If the board of inquiry gives a direction under subclause (5), it must record the reasons for the direction and give a copy of the reasons to the submitter whose submission is affected by the direction.
+
+### 13 Board to produce report
+(1) As soon as practicable after the board of inquiry has completed its inquiry on a matter, but not later than 9 months after the relevant application was publicly notified, the board of inquiry must—
+  (a) make its decision; and
+  (b) produce a written report; and
+  (c) send its report to the EPA.
+(2) The report must—
+  (a) state the board's decision; and
+  (b) give reasons for the decision; and
+  (c) include a statement of the principal issues that were in contention; and
+  (d) include the main findings on the principal issues that were in contention.
+(3) For the purposes of subclause (1), the 9-month period excludes the period starting on 20 December in any year and ending on 10 January in the following year.
+
+**Remuneration**
+
+### 14 Remuneration, allowances, and expenses
+(1) The Fees and Travelling Allowances Act 1951 (the 1951 Act) applies to a board of inquiry appointed under section 52 as if the board were a statutory board within the meaning of the 1951 Act.
+(2) The Minister may direct that a member of a board of inquiry be paid the following out of money appropriated by Parliament for the purpose:
+  (a) remuneration by way of fees, salary, or allowances under the 1951 Act; and
+  (b) travelling allowances and travelling expenses under the 1951 Act for time spent travelling in the service of the board.
