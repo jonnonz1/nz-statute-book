@@ -1,5 +1,5 @@
 # Extradition Act 1999
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-06-01_
 
 > An Act to consolidate and amend the law relating to the extradition of persons to and from New Zealand
 
@@ -1060,7 +1060,7 @@ An extradition treaty made between New Zealand and another country after the com
   (d) section 8 of the Crimes of Torture Act 1989:
   (e) section 14 of the Maritime Crimes Act 1999:
   (f) section 10 of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001:
-  (g) section 101B of this Act:
+  (g) sections 101B and 101C of this Act:
   (ga) section 69 of the Terrorism Suppression Act 2002:
   (h) section 21 of the Mercenary Activities (Prohibition) Act 2004:
   (i) section 145C of the Films, Videos, and Publications Classification Act 1993:
@@ -1084,6 +1084,21 @@ An extradition treaty made between New Zealand and another country after the com
   - **migrants protocol** means the Protocol against the Smuggling of Migrants, by Land, Sea and Air, supplementing the United Nations Convention Against Transnational Organised Crime, done at New York on 15 November 2000
   - **TOC convention** means the United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000
   - **trafficking protocol** means the Protocol to Prevent, Suppress and Punish Trafficking of Persons, especially Women and Children, supplementing the United Nations Convention Against Transnational Organised Crime, done at New York on 15 November 2000.
+
+### 101C Certain offences involving trading in children or child prostitution deemed to be included in extradition treaties
+(1) For the purposes of this Act and any Order in Council in force under section 15 or section 104,—
+  (a) every offence against section 98AA of the Crimes Act 1961 is deemed to be an offence described in any extradition treaty concluded before the commencement of section 10 of the Crimes Amendment Act 2005 and for the time being in force between New Zealand and any foreign country that is a party to the protocol referred to in subsection (5); and
+  (b) every offence against section 144A of the Crimes Act 1961 is deemed to be an offence described in any extradition treaty concluded before the commencement of section 10 of the Crimes Amendment Act 2005 and for the time being in force between New Zealand and any foreign country that is a party to the protocol referred to in subsection (5); and
+  (c) every offence against section 23(1) of the Prostitution Reform Act 2003 is deemed to be an offence described in any extradition treaty concluded before the commencement of section 10 of the Crimes Amendment Act 2005 and for the time being in force between New Zealand and any foreign country that is a party to the protocol referred to in subsection (5); and
+  (d) every offence against section 27A of the Adoption Act 1955 is deemed to be an offence described in any extradition treaty concluded before the commencement of section 6 of the Adoption Amendment Act 2011 and for the time being in force between New Zealand and any foreign country that is a party to the protocol referred to in subsection (5).
+(2) A person whose surrender is sought from New Zealand in respect of an act that amounts to an offence deemed by subsection (1) to be an offence described in an extradition treaty is liable to be surrendered in accordance with this Act and the applicable extradition treaty, whether the act occurred before or after the commencement referred to in subsection (1)﻿(a), (b), (c), or (d), as the case requires.
+(3) Subsection (2) does not apply in respect of an act that, had it occurred within the jurisdiction of New Zealand, would not, at the time that it occurred, have constituted an offence under New Zealand law.
+(4) A certificate given and signed by the Minister of Foreign Affairs and Trade that a foreign country is a party to the protocol referred to in subsection (5) is, in the absence of proof to the contrary, sufficient evidence of that fact.
+(5) The protocol to which this section applies is the Optional Protocol to the United Nations Convention on the Rights of the Child on the sale of children, child prostitution, and child pornography adopted by the General Assembly of the United Nations at New York on 25 May 2000.
+(6) For the purposes of this section, a foreign country includes a territory if—
+  (a) the foreign country's government is responsible for the territory's international relations; and
+  (b) an extradition treaty is in force between New Zealand and the foreign country; and
+  (c) the protocol referred to in subsection (5) extends to the territory.
 
 **Regulations**
 
