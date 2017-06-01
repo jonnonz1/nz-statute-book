@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2017-03-07_
+_Consolidation as at 2017-06-01_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -3061,7 +3061,7 @@ In this Part, unless the context otherwise requires,—
 (4) No person may export waste or other matter to another country for dumping at sea or incineration at sea.
 (5) No person may take waste or other matter on board a ship or an aircraft in New Zealand, or within the internal waters of New Zealand or New Zealand continental waters, for the purpose of dumping that waste or other matter within any of those waters unless the dumping is authorised by—
   (a) a resource consent granted under the Resource Management Act 1991; or
-  (b) a marine consent granted under section 87F of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
+  (b) a marine consent granted under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
   (c) a permit granted under section 262.
 (6) This section does not—
   (a) require the Director to obtain a permit under section 262 or 262A before he or she exercises a power conferred by section 248 or 249; or
