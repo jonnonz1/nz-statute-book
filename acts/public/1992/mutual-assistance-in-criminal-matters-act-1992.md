@@ -1,5 +1,5 @@
 # Mutual Assistance in Criminal Matters Act 1992
-_Consolidation as at 2016-02-04_
+_Consolidation as at 2017-06-01_
 
 > An Act to facilitate the provision and obtaining of international assistance in criminal matters
 
@@ -889,20 +889,13 @@ Where, pursuant to section 51, a foreign country requests the assistance of the 
 |  | 10 |  | training prospective mercenary |  |  |  |  |
 |  | 11 |  | training mercenary |  |  |  |  |
 |  | 12 |  | mercenary taking part in hostilities or concerted act of violence |  |  |  |  |
-| 29The Optional Protocol to the Convention on the Rights of the Child on the Sale of Children, Child Prostitution and Child Pornography, adopted by the General Assembly of the United Nations at New York on 25 May 2000 |  |  |  |  |  | An offence against the following section of the Adoption Act 1955: |  |
+| 29Optional Protocol to the United Nations Convention on the Rights of the Child on the sale of children, child prostitution, and child pornography |  |  |  |  |  | An offence against any of the following sections of the Crimes Act 1961 |  |
 |  | section |  | subject matter |  |  |  |  |
-|  | 27A |  | Offence to induce consent |  |  |  |  |
-|  |  |  |  |  |  | An offence—aagainst any of the following sections of the Films, Videos, and Publications Classification Act 1993:sectionsubject matter124(1)knowingly making or supplying objectionable publications, etc127(4)knowing exhibition to persons under 18129(3)knowing distribution of objectionable publication in public place131A(1)knowingly having possession of objectionable publication; and |  |
-| section |  | subject matter |  |  |  |  |  |
-| 124(1) |  | knowingly making or supplying objectionable publications, etc |  |  |  |  |  |
-| 127(4) |  | knowing exhibition to persons under 18 |  |  |  |  |  |
-| 129(3) |  | knowing distribution of objectionable publication in public place |  |  |  |  |  |
-| 131A(1) |  | knowingly having possession of objectionable publication; and |  |  |  |  |  |
-|  |  |  |  |  |  | bthat involves child pornography (as defined in section 145A(1) of that Act) |  |
-|  |  |  |  |  |  | An offence—aagainst the following section of the Customs and Excise Act 1996:sectionsubject matter209(1A)knowing importation or exportation of objectionable publications; and |  |
-| section |  | subject matter |  |  |  |  |  |
-| 209(1A) |  | knowing importation or exportation of objectionable publications; and |  |  |  |  |  |
-|  |  |  |  |  |  | bthat involves child pornography (as defined section 145A(1) of the Films, Videos, and Publications Classification Act 1993) |  |
+|  | 98AA |  | Dealing in people under 18 for sexual exploitation, removal of body parts, or engagement in forced labour |  |  |  |  |
+|  | 144A |  | Sexual conduct with children and young people outside New Zealand |  |  |  |  |
+|  |  |  |  |  |  | An offence against the following section of the Prostitution Reform Act 2003 |  |
+|  | section |  | subject matter |  |  |  |  |
+|  | 23(1) |  | Breach of prohibitions on use in prostitution of people under 18 |  |  |  |  |
 | 30The Convention for the Suppression of Acts of Nuclear Terrorism, adopted by the General Assembly of the United Nations at New York on 13 April 2005 |  |  |  |  |  | An offence against the following section of the Terrorism Suppression Act 2002 |  |
 |  | section |  | subject matter |  |  |  |  |
 |  | 13E |  | offences involving radioactive material and radioactive devices |  |  |  |  |
