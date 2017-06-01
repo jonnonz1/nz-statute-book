@@ -1,5 +1,5 @@
 # Crimes Amendment Act 2005
-_Consolidation as at 2011-08-17_
+_Consolidation as at 2017-06-01_
 
 ### 1 Title
 (1) This Act is the Crimes Amendment Act 2005.
@@ -13,7 +13,7 @@ _Consolidation as at 2011-08-17_
 ## Part 1 — Amendments to principal Act
 
 ### 3 Interpretation
-(1) Section 2(1) of the principal Act is amended by inserting, in their appropriate alphabetical order, the following definitions:.
+(1) Section 2(1) of the principal Act is amended by inserting, in their appropriate alphabetical order, the following definitions:
   - **for a material benefit** , in relation to doing a thing, means—
     (a) after having obtained a material benefit for doing the thing; or
     (b) intending to obtain a material benefit for doing the thing
