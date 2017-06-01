@@ -1,5 +1,5 @@
 # Environmental Protection Authority Act 2011
-_Consolidation as at 2017-04-19_
+_Consolidation as at 2017-06-01_
 
 ### 1 Title
 This Act is the Environmental Protection Authority Act 2011.
@@ -145,8 +145,10 @@ The functions of the EPA are—
 (3) The EPA must not appoint one of its own members to be a member of the committee.
 (4) The EPA must appoint 1 member of the committee to be the chairperson of the committee.
 
-### 19 Function of Māori Advisory Committee
-(1) The function of the Māori Advisory Committee is to provide advice and assistance to the EPA on matters relating to policy, process, and decisions of the EPA under an environmental Act or this Act.
+### 19 Functions of Māori Advisory Committee
+(1) The functions of the Māori Advisory Committee are—
+  (a) to provide advice and assistance to the EPA on matters relating to policy, process, and decisions of the EPA under an environmental Act or this Act; and
+  (b) to provide advice to a marine consent authority when the committee’s advice is sought under section 56(1)﻿(b) of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
 (2) The advice and assistance must be given from the Māori perspective and come within the terms of reference of the committee as set by the EPA under section 20.
 
 ### 20 Terms of reference of Māori Advisory Committee
