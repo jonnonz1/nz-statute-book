@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-06-01_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -1342,21 +1342,13 @@ Any Civil Defence Emergency Management Group established under section 12(1)﻿(
 (2) A Recovery Co-ordinator who remains in office under subclause (1) may continue to exercise powers under section 30 (as it read immediately before the commencement of the Civil Defence Emergency Management Amendment Act 2016) and section 30 remains in force for the purposes of this clause.
 
 ### 4 Appointment of persons to give notice of local transition period
-(1) Despite section 25(1)﻿(b) (as inserted by section 13 of the Civil Defence Emergency Management Amendment Act 2016), a Civil Defence Emergency Management Group may (but is not required to) appoint a person to give notice of a local transition period for its area during the period—
-  (a) beginning with the date on which this clause commences; and
-  (b) ending with the close of 31 May 2017.
-(2) During the period specified in subclause (1), “must” must be read as “may” in clause 18B(c) of the national civil defence emergency management plan as set out in the Schedule of the National Civil Defence Emergency Management Plan Order 2015 (as inserted by section 43 and Schedule 3 of the Civil Defence Emergency Management Amendment Act 2016).
+[Repealed]
 
 ### 5 Appointment of Group Recovery Managers
-(1) Despite section 29(1) (as inserted by section 17 of the Civil Defence Emergency Management Amendment Act 2016), a Civil Defence Emergency Management Group may (but is not required to) appoint a Group Recovery Manager for its area during the period—
-  (a) beginning with the date on which this clause commences; and
-  (b) ending with the close of 31 May 2017.
-(2) During the period specified in subclause (1), “must” must be read as “may” in clause 18B(a) of the national civil defence emergency management plan as set out in the Schedule of the National Civil Defence Emergency Management Plan Order 2015 (as inserted by section 43 and Schedule 3 of the Civil Defence Emergency Management Amendment Act 2016).
+[Repealed]
 
 ### 6 Form of certain notices
-Despite sections 94E(5)﻿(c) and 94F(1)﻿(c) and (2)﻿(c) (as inserted by section 27 of the Civil Defence Emergency Management Amendment Act 2016), a notice referred to in either of those sections may be in a form that the person giving the notice considers appropriate if the notice is given during the period—
-  (a) beginning with the date on which this clause commences; and
-  (b) ending with the close of 31 May 2017.
+[Repealed]
 
 ### 7 Repeals
 (1) Clauses 4, 5, and 6 are repealed on 1 June 2017.
