@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-06-01_
 
 > Title
 
@@ -934,7 +934,7 @@ In this Part, a self-employed person is not to be treated as having returned to 
   (b) the day is not within 28 days after the date on which the child in respect of whom the employee took parental leave was born.
 (3) An employee is treated as having returned to work, and all parental leave payments received by the employee in respect of a period after the date on which the employee is treated as having returned to work are recoverable under section 71X as an overpayment, if the employee—
   (a) performs paid work for his or her employer within 28 days after the date of birth of the child; or
-  (b) performs more than a total of 40 hours of paid work for his or her employer during a period of parental leave.
+  (b) performs more than a total of 40 hours of paid work for his or her employer during a period of paid parental leave.
 (4) Subsections (2)﻿(b) and (3)﻿(a) do not apply to an employee if the parental leave payment the employee receives is in respect of a child born before the end of the 36th week of gestation.
 
 **Entitlement to parental leave payment**
@@ -973,6 +973,11 @@ In this Part, a self-employed person is not to be treated as having returned to 
   (a) the person’s parental leave payment must be suspended for the period in relation to which a preterm baby payment is made to the person; and
   (b) the requirement in section 71J(1) that a parental leave payment be made for a continuous period does not apply; and
   (c) any week in relation to which a preterm baby payment is made must not be counted when determining the date on which the parental leave payment ends under section 71L(1)﻿(a).
+(5A) A person may return to work as an employee or a self-employed person after becoming entitled to a preterm baby payment, in which case—
+  (a) either,—
+    (i) if the person receives a preterm baby payment, the preterm baby payment period ends on the date on which the person returns to work; or
+    (ii) if the person does not receive a preterm baby payment, the person’s parental leave payment period is suspended on the date on which the person returns to work; and
+  (b) the person’s parental leave payment period resumes on the date on which the person resumes parental leave (which must be no later than the original expected date of delivery, had the child not been born prematurely).
 (6) Subsection (4)﻿(c) does not apply to the biological mother of a preterm baby.
 (7) Sections 71E, 71G to 71IA, 71M to 71S, 71U to 71ZB, and 72B apply to a preterm baby payment as if that payment were a parental leave payment.
 
@@ -1060,14 +1065,19 @@ A person is not entitled to a parental leave payment in respect of a child if—
     (i) the date the person commences parental leave; and
     (ii) the date of confinement; and
   (b) in any other case, on the date on which the person becomes the primary carer in respect of the child.
-(2) Despite subsection (1), if a preterm baby payment is payable in respect of a child, and if no parental leave payment has been made in respect of that child, the period in relation to which a parental leave payment is payable does not begin until the day after the date on which the preterm baby payment period ends.
+(2) Despite subsection (1),—
+  (a) an employee who takes a period of paid leave at the start of his or her parental leave period may elect to start his or her parental leave payment period on the day after the date on which that period of paid leave ends:
+  (b) if a person becomes entitled to a preterm baby payment under section 71DA(1) and that person’s parental leave payment period has not begun, subsection (3) applies instead of subsection (1).
+(3) If this subsection applies, the period in relation to which a parental leave payment is payable to the person in respect of the child does not begin until the earlier of—
+  (a) the date the person commences parental leave; and
+  (b) the original expected date of delivery, had the child not been born prematurely.
 
 ### 71L End of parental leave payment
 (1) A parental leave payment is payable to a person in respect of a child for a period that ends on the earlier of—
   (a) 18 weeks after the date on which parental leave payments began in accordance with section 71K; or
   (b) the date on which the person returns to work as an employee or a self-employed person; or
   (c) the date on which the person ceases to be the primary carer in respect of the child.
-(2) Subsections (1)﻿(b) and (c) do not apply, and parental leave payments continue to be payable until the date specified in subsection (1)﻿(a), if the person receiving the parental leave payments is the biological mother of the child to whom the payments relate and—
+(2) Subsection (1)﻿(c) does not apply, and parental leave payments continue to be payable until the earlier of the dates specified in subsection (1)﻿(a) and (b), if the person receiving the parental leave payments is the biological mother of the child to whom the payments relate and—
   (a) she has a miscarriage or ceases to be the primary carer in respect of the child; or
   (b) the child dies.
 (3) This section is subject to section 71EA (effect of transfer of entitlement to spouse or partner) and section 71DA(5)﻿(c) (entitlement to preterm baby payment).
@@ -1092,16 +1102,18 @@ A person is not entitled to a parental leave payment in respect of a child if—
 (2)
 
 ### 71N Annual adjustment of parental leave payment rates
-(1) The rates of parental leave payment that apply to eligible employees under section 71M(1)﻿(a) and eligible self-employed persons under section 71M(1A)﻿(a) must be adjusted as at 1 July each year by any percentage movement upward in average ordinary time weekly earnings using the method specified in subsection (2).
-(2) The adjustment required by subsection (1) must be made as follows:
-  (a) the percentage movement on which the adjustment is based must be the annual percentage movement in the February average ordinary time weekly earnings (employees) immediately before the 1 July date on which the adjustment is to take effect, as published in the Quarterly Employment Survey; and
+(1) The rates of parental leave payment that apply to eligible employees under section 71M(1)﻿(a) and eligible self-employed persons under section 71M(1A)﻿(a) and persons who are eligible for a parental leave payment as an employee and as a self-employed person under section 71M(1B) are adjusted, by this section, by increasing the rate by the same percentage as any percentage movement upward in average ordinary time weekly earnings as calculated under subsection (2).
+(2) The adjustment required by subsection (1) is calculated as follows:
+  (a) the percentage movement is the annual percentage movement in the February average ordinary time weekly earnings (employees) immediately before the 1 July date on which the adjustment is to take effect, as published in the Quarterly Employment Survey; and
   (b) if, in that 12-month period, there is a downward percentage movement in average ordinary time weekly earnings (employees), as published in that survey,—
     (i) no adjustment takes effect under subsection (1) on the following 1 July; and
-    (ii) an adjustment on any succeeding 1 July must be based on the percentage movement in the February average ordinary time weekly earnings (employees) between the February series before the date of the last adjustment and the February series before the 1 July date on which the next adjustment is to take effect; and
+    (ii) an adjustment on any succeeding 1 July is the percentage movement in the February average ordinary time weekly earnings (employees) between the February series before the date of the last adjustment and the February series before the 1 July date on which the next adjustment is to take effect; and
   (c) any correction to the Quarterly Employment Survey that is published after 15 May in the current year must be disregarded until the adjustment that takes effect on 1 July in the following year.
 (3) In subsection (2), Quarterly Employment Survey means the Quarterly Employment Survey published by Statistics New Zealand or, if that survey ceases to be published, any measure certified by the Government Statistician as being equivalent to that survey.
-(4) The minimum rate of parental leave payment that applies to self-employed persons under section 71M(1A)﻿(b)﻿(ii) must be set as at 1 July each year as a weekly amount that is equivalent to 10 hours' work at the highest rate of the minimum wage that applies under the Minimum Wage Act 1983 at that date.
-(5) The Minister must publish the adjusted rates for employees and the rates set for self-employed persons on an Internet site maintained by or on behalf of the department.
+(4) The minimum rate of parental leave payment that applies to self-employed persons under section 71M(1A)﻿(b)﻿(ii) is adjusted, by this section, as at 1 July each year, as a weekly amount that is equivalent to 10 hours' work at the highest rate of the minimum wage that applies under the Minimum Wage Act 1983 at that date.
+(5) The Minister must, as soon as practicable after 1 July each year,—
+  (a) publish the adjusted rates for employees and self-employed persons on an Internet site maintained by or on behalf of the department; and
+  (b) advise the Chief Parliamentary Counsel of those rates.
 
 ### 71O Discretionary increases in payment amount by Order in Council
 (1) The Governor-General may, at any time, by Order in Council made on the recommendation of the Minister, increase the rate of parental leave payment that applies under section 71M(1)﻿(a) and section 71M(1A)﻿(a).
