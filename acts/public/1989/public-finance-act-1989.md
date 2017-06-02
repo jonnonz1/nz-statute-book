@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2017-06-02_
 
 > Title
 
@@ -2283,6 +2283,7 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 | Company | Sections of Crown Entities Act 2004 (relating to financial powers) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | 161 | 162 | 163 | 164 | 165 |
+| City Rail Link Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Crown Asset Management Limited |  | ✓ | ✓ | ✓ |  |
 | Crown Fibre Holdings Limited |  |  |  |  |  |
 | Education Payroll Limited | ✓ | ✓ | ✓ | ✓ |  |
