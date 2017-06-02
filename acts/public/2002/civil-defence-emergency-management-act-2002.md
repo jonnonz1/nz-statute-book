@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2017-06-01_
+_Consolidation as at 2017-06-02_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -1351,8 +1351,7 @@ Any Civil Defence Emergency Management Group established under section 12(1)﻿(
 [Repealed]
 
 ### 7 Repeals
-(1) Clauses 4, 5, and 6 are repealed on 1 June 2017.
-(2) This clause is repealed on 2 June 2017.
+[Repealed]
 
 ## Schedule 1 — Lifeline utilities
 
