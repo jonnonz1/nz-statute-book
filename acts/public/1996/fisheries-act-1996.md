@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-06-03_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -422,7 +422,7 @@ All persons exercising or performing functions, duties, or powers under this Act
 (4) Nothing in this section prevents the Minister from considering a proposal under Part 9.
 
 ### 12 Consultation
-(1) Before doing anything under any of sections 11(1), 11(4), 11A(1), 13(1), 13(4), 13(7) , 14(1), 14(3), 14(6) , 14B(1), 15(1), and 15(2) or recommending the making of an Order in Council under section 13(9) or section 14(8) or section 14A(1), the Minister shall—
+(1) Before doing anything under any of sections 11(1), 11(4), 11A(1), 13(1), 13(4), 13(7) , 14(1), 14(3), 14(6), 14B(1), 15(1), and 15(2) or recommending the making of an Order in Council under section 13(9) or section 14(8) or section 14A(1), the Minister shall—
   (a) consult with such persons or organisations as the Minister considers are representative of those classes of persons having an interest in the stock or the effects of fishing on the aquatic environment in the area concerned, including Maori, environmental, commercial, and recreational interests; and
   (b) provide for the input and participation of tangata whenua having—and have particular regard to kaitiakitanga.
     (i) a non-commercial interest in the stock concerned; or
@@ -634,7 +634,7 @@ If the Minister determines under section 17B to make a stock subject to the quot
 (5) For the purposes of subsection (1), the Crown is a quota owner except in relation to its unencumbered quota.
 
 ### 23 Effect of increase in total allowable commercial catch
-(1) If the total allowable commercial catch for any stock has been increased under section 20 and any person (in this section called an eligible person) holds preferential allocation rights for that stock, the chief executive shall deduct from every person owning quota for that stock as at the date the increase takes effect the number of quota shares calculated in accordance with the following formula:where—ais the number of quota shares for the stock owned by any person immediately before the increase in the total allowable commercial catch takes effect; andbis the total allowable commercial catch for the stock (in kilogrammes) applying immediately before the increase takes effect; andcis the lesser of—dis the number of quota shares to be deducted from each person's holdings and transferred to the Crown in accordance with this section.
+(1) If the total allowable commercial catch for any stock has been increased under section 20 and any person (in this section called an eligible person) holds preferential allocation rights for that stock, the chief executive shall deduct from every person owning quota for that stock as at the date the increase takes effect the number of quota shares calculated in accordance with the following formula:a × {1 − [b ÷ (b + c)]} = dwhere—ais the number of quota shares for the stock owned by any person immediately before the increase in the total allowable commercial catch takes effect; andbis the total allowable commercial catch for the stock (in kilogrammes) applying immediately before the increase takes effect; andcis the lesser of—dis the number of quota shares to be deducted from each person's holdings and transferred to the Crown in accordance with this section.
   (a) the amount of the increase in the total allowable commercial catch for the stock (in kilogrammes):
   (b) the total of all preferential allocation rights for the stock (in kilogrammes); and
 (2) Immediately after deducting quota shares under subsection (1), the chief executive shall transfer to each eligible person a number of quota shares which shall be calculated in accordance with the following formula:a ÷ b × c × 100 000 000 ÷ (d + c) = ewhere—ais the eligible person's current preferential allocation rights for the stock (in kilogrammes); andbis the total of all preferential allocation rights for the stock (in kilogrammes); andcis the lesser of—dis the total allowable commercial catch for the stock (in kilogrammes) applying immediately before the increase takes effect; andeis the number of quota shares to be transferred from the Crown to the eligible person in accordance with this section.
@@ -643,7 +643,7 @@ If the Minister determines under section 17B to make a stock subject to the quot
 (3) Every person who was, immediately before the commencement of this section, entitled to quota under section 28OE(1)﻿(a) of the Fisheries Act 1983 is entitled to a preferential allocation right equivalent to the amount (in kilogrammes) of the reduction in that person's provisional maximum individual transferable quota for the stock under section 28N of that Act less the amount (in kilogrammes) of any quota allocated to that person under section 28OE(1)﻿(a) of that Act, but that preferential allocation right (which entitles the holder to receive quota shares under subsection (2))—
   (a) shall have effect only while that person continues to be registered on the Quota Register as the owner of shares for that stock, and those shares have been continuously owned by that person since the commencement of this section; and
   (b) is personal to the eligible person who holds the right and is not transferable in any circumstances.
-(4) The amount of an eligible person's preferential allocation right must be reduced in accordance with the following formula:where—ais the eligible person's current preferential allocation right for the stock (in kilogrammes)bis the total of all preferential allocation rights for the stock (in kilogrammes)cis the lesser of—dis the amount of the reduction in the eligible person's preferential allocation right (in kilogrammes).
+(4) The amount of an eligible person's preferential allocation right must be reduced in accordance with the following formula:(a ÷ b) × c = dwhere—ais the eligible person's current preferential allocation right for the stock (in kilogrammes)bis the total of all preferential allocation rights for the stock (in kilogrammes)cis the lesser of—dis the amount of the reduction in the eligible person's preferential allocation right (in kilogrammes).
   (a) the amount of the increase in the total allowable commercial catch for the stock (in kilogrammes):
   (b) the total of all preferential allocation rights for the stock (in kilogrammes)
 (4A) An eligible person's preferential allocation right expires if the amount of that right equals zero.
@@ -5607,9 +5607,9 @@ For the purpose of this Act, the chief executive may from time to time, by notic
 
 ### 314 Repeals of provisions of Fisheries Act 1983
 (1) The following provisions of the Fisheries Act 1983 are hereby repealed:
-  (a) section 2 (the interpretation section):
-  (b) section 2A (as inserted by section 3 of the Fisheries Amendment Act 1986) (which provides that the Act binds the Crown):
-  (c) section 3 (which relates to the application of the Act to the exclusive economic zone):
+  (a)
+  (b)
+  (c)
   ((d)–(zo)) Amendment(s) incorporated in the Act(s).
 (2) The following enactments are hereby consequentially repealed:
   (a) Amendment(s) incorporated in the Act(s):
@@ -5755,8 +5755,7 @@ A provision of any regulation made under this Act, or of any notice made under s
 [Repealed]
 
 ### 338 Transitional fishing year for packhorse rock lobster
-(1) Notwithstanding section 2, for the purpose of this Act and the Fisheries (Catch Against Quota) Regulations 1993, the period of 18 months commencing on 1 April next following the commencement of this section is hereby deemed to be a fishing year in relation to packhorse rock lobster (Jasus verreauxi).
-(2) Notwithstanding section 2, for the purposes of this Act and the Fisheries (Catch Against Quota) Regulations 1993, the fishing year for packhorse rock lobster (Jasus verreauxi) shall, after the expiration of the fishing year defined by subsection (1), be a period of 12 months commencing on 1 October in every year.
+[Repealed]
 
 ### 339 Transitional provisions relating to monthly and opening balances
 [Repealed]
