@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aspecify principles governing the operation of State enterprises; andbauthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcestablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
@@ -389,7 +389,7 @@ For the purposes of section 27C, the following provisions of Part 2 of the Publi
 (d) form B in Schedule 3.
 
 ### 2
-For the purposes of section 27C, section 23(1)﻿(b) of the Public Works Act 1981 shall have effect as if, for subparagraphs (ii) and (iii), there were substituted the following subparagraph:.
+For the purposes of section 27C, section 23(1)﻿(b) of the Public Works Act 1981 shall have effect as if, for subparagraphs (ii) and (iii), there were substituted the following subparagraph:
 (ii) a statement that the land is to be resumed under section 27C of the State-Owned Enterprises Act 1986 pursuant to a recommendation of the Waitangi Tribunal; and
 
 ### 3
