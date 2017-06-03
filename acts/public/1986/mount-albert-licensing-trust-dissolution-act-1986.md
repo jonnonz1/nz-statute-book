@@ -1,5 +1,5 @@
 # Mount Albert Licensing Trust Dissolution Act 1986
-_Consolidation as at 1986-05-07_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision for the winding-up and dissolution of the Mount Albert Licensing Trust and the inclusion of its trust area in the trust area of the Portage Licensing Trust
 
