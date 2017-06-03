@@ -1,5 +1,5 @@
 # Finance Act 1981
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2017-06-03_
 
 > An Act to validate the acquisition on behalf of Her Majesty the Queen of shares in Winstone Samsung Industries Limited
 
