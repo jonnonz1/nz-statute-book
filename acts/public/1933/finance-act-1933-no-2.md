@@ -1,5 +1,5 @@
 # Finance Act 1933 (No 2)
-_Consolidation as at 1994-10-07_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision with respect to public finance and other matters
 
