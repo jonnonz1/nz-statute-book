@@ -1,5 +1,5 @@
 # Sentencing Amendment Act 2007
-_Consolidation as at 2014-01-22_
+_Consolidation as at 2017-06-03_
 
 ### 1 Title
 This Act is the Sentencing Amendment Act 2007.
@@ -12,9 +12,9 @@ This Act amends the Sentencing Act 2002.
 
 ### 4 Interpretation
 (1) Section 4(1) is amended by repealing the definition of home detention.
-(2) Section 4(1) is amended by repealing the definition of probation area and substituting the following definition:.
+(2) Section 4(1) is amended by repealing the definition of probation area and substituting the following definition:
   - **probation area** means an area designated by the chief executive of the Department of Corrections for the administration of release conditions, community-based sentences, sentences of home detention, or orders
-(3) Section 4(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
+(3) Section 4(1) is amended by inserting the following definitions in their appropriate alphabetical order:
   - **curfew address** means the address, specified by a court, where an offender must remain during the curfew period
   - **curfew period** means the periods, specified by a court, during which an offender sentenced to community detention must remain at the curfew address
   - **detention conditions** means the standard conditions of a sentence of home detention set out in section 80C and any special conditions imposed by the court on an offender under section 80D
@@ -25,19 +25,17 @@ This Act amends the Sentencing Act 2002.
   - **sentence term** , in relation to a sentence of community detention, is the period that the sentence of community detention is in force
   - **sentencing guidelines** means sentencing guidelines produced by the Sentencing Council in force under the Sentencing Council Act 2007
   - **short-term sentence** has the same meaning as in section 4(1) of the Parole Act 2002
-(4) Section 4(2) is amended by inserting the following paragraph after paragraph (a):.
+(4) Section 4(2) is amended by inserting the following paragraph after paragraph (a):
   (ab) an offender is subject to a sentence of home detention from the date the sentence commences in accordance with section 80W, 80X, or 80Y until the sentence ends in accordance with section 80Z, except when the sentence is suspended under section 80ZG(2):
-(5) Section 4(2)(b) is amended by omitting section 75 or section 76 until the date that it expires in accordance with section 75 and substituting section 75, 75A, or 76 until the date that it expires in accordance with section 75A.
-(6) Section 4(2) is amended by inserting the following paragraph after paragraph (b):.
+(5) Section 4(2)﻿(b) is amended by omitting section 75 or section 76 until the date that it expires in accordance with section 75 and substituting section 75, 75A, or 76 until the date that it expires in accordance with section 75A.
+(6) Section 4(2) is amended by inserting the following paragraph after paragraph (b):
   (ba) except as provided in paragraph (c), an offender is subject to a sentence of community detention from the date that the sentence commences in accordance with section 75, 75B, or 76 until the date that it expires:
 
 ### 5 New section 6A inserted
-The following section is inserted after section 6:Application of sentencing guidelines
-  (1) A sentencing guideline applies to the sentencing of an offender in a District Court, the High Court, Court of Appeal, or Supreme Court for an offence on or after the date on which the guideline comes into force, whether or not the guideline was in force when the offence was committed.
-  (2) For the purposes of this section, District Court does not include a Youth Court.
+[Repealed]
 
 ### 6 Principles of sentencing or otherwise dealing with offenders
-(1) Section 8(c) and (d) are repealed.
+(1)
 (2) Section 8(g) is amended by inserting , in accordance with the hierarchy of sentences and orders set out in section 10A after in the circumstances.
 
 ### 7 New heading and section 10A inserted
@@ -87,14 +85,13 @@ Sections 19 and 20 are repealed and the following sections substituted:Permitted
     (b) the offender requires the imposition of standard conditions or any of the special conditions available under a sentence of supervision or intensive supervision to address the causes of his or her offending.
 
 ### 12 New heading and section 21A inserted
-The following heading and section are inserted after section 21:Sentencing guidelinesCourt must adhere to sentencing guidelines
-  When sentencing an offender, a court must impose a sentence that is consistent with any sentencing guidelines that are relevant in the offender's case, unless the court is satisfied that it would be contrary to the interests of justice to do so.
+[Repealed]
 
 ### 13 Pre-sentence reports
-(1) Section 26(2) is amended by repealing paragraph (e) and substituting the following paragraph:.
+(1) Section 26(2) is amended by repealing paragraph (e) and substituting the following paragraph:
   (e) in the case of a proposed sentence of supervision, intensive supervision, or home detention, recommendations on the appropriate conditions of that sentence:
-(2) Section 26(2)(f) is amended by inserting , intensive supervision, or home detention after sentence of supervision.
-(3) Section 26(2)(g) is amended by inserting , intensive supervision, or home detention after sentence of supervision.
+(2) Section 26(2)﻿(f) is amended by inserting , intensive supervision, or home detention after sentence of supervision.
+(3) Section 26(2)﻿(g) is amended by inserting , intensive supervision, or home detention after sentence of supervision.
 (4) Section 26(2) is amended by repealing paragraph (h) and substituting the following paragraph:
   (h) in the case of a proposed sentence of community work,—
     (i) information regarding the availability of community work of a kind referred to in section 63 in the area in which the offender will reside; and
@@ -120,12 +117,11 @@ The following section is inserted after section 26:Additional requirements when 
       (i) if the residence is a family residence, every person of or over the age of 16 who ordinarily lives there; and
       (ii) in the case of any other residence, every person whom the probation officer identifies as being a relevant occupant for the purposes of subsection (3); or
     (b) in relation to an address that the probation officer is considering as a curfew address,—
-      (i) if the address is a residence, every person referred to in paragraph (a)(i) and (ii); and
+      (i) if the address is a residence, every person referred to in paragraph (a)﻿(i) and (ii); and
       (ii) in the case of any other place, the person or persons whom the probation officer identifies as being authorised to give consent for the purposes of subsection (3).
 
 ### 15 General requirement to give reasons
-Section 31 is amended by inserting the following subsection after subsection (1):
-  (1A) If sentencing guidelines indicate that a sentence of a particular kind, or within a particular range, would normally be appropriate for the offence, a court must give reasons for deciding on a sentence of a different kind or outside that range.
+[Repealed]
 
 ### 16 Power to impose fine instead of imprisonment or community-based sentence
 (1) The heading to section 39 is amended by inserting , sentence of home detention, after imprisonment.
@@ -143,13 +139,13 @@ Section 44 is repealed and the following section substituted:Community-based sen
   (2) In sentencing an offender to a community-based sentence, a court may have regard to the potential effect that a particular sentence may have in contributing to the development of an offender's work and living skills.
 
 ### 18 Sentence of supervision
-(1) Section 45(1) is amended by inserting the following paragraph after paragraph (a):.
+(1) Section 45(1) is amended by inserting the following paragraph after paragraph (a):
   (ab) the offender is convicted of an offence and the enactment prescribing the offence expressly provides that a sentence of home detention may be imposed on conviction; or
 (2) Section 45(2) is amended by omitting 2 years and substituting 1 year.
 
 ### 19 Standard conditions of supervision
 Section 49 is amended by repealing subsection (2) and substituting the following subsection:
-  (2) The conditions in subsection (1)(c) to (f) do not apply to the extent that they are inconsistent with—
+  (2) The conditions in subsection (1)﻿(c) to (f) do not apply to the extent that they are inconsistent with—
     (a) any special conditions imposed by the court; or
     (b) in the case of an offender who is also subject to a sentence of community detention, any condition of that sentence.
 
@@ -157,26 +153,26 @@ Section 49 is amended by repealing subsection (2) and substituting the following
 Section 51 is amended by inserting that is not residential in nature after the following.
 
 ### 21 Other special conditions
-(1) Section 52(2) is amended by inserting the following paragraph after paragraph (b):.
+(1) Section 52(2) is amended by inserting the following paragraph after paragraph (b):
   (ba) conditions requiring the offender to undertake training in basic work and living skills:
 (2) Section 52 is amended by inserting the following subsection after subsection (3):
   (3A) No court may impose a condition under this section that the offender submit to electronic monitoring.
 (3) Section 52(5) is amended by adding ; but the failure to take the medication may give rise to a ground for variation or cancellation of the sentence of supervision under section 54.
 
 ### 22 Variation or cancellation of sentence of supervision
-(1) Section 54(1)(c) is amended by omitting subparagraph (i) and substituting the following subparagraph:.
+(1) Section 54(1)﻿(c) is amended by omitting subparagraph (i) and substituting the following subparagraph:
   (i) the rehabilitation and reintegration of the offender would be advanced by the remission, suspension, or variation of special conditions, or the imposition of additional special conditions; or
-(2) Section 54(3) is amended by repealing paragraph (a) and substituting the following paragraph:.
+(2) Section 54(3) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) remit, suspend, or vary any special conditions imposed by the court, or impose additional special conditions:
 
 ### 23 Application of section 54 during epidemic
-(1) Subsection 54A(1)(a) is amended by inserting special after an order under section 54(3) varying the.
-(2) Section 54A(1)(b) is amended by inserting special after any probation officer may himself or herself vary the.
+(1) Subsection 54A(1)﻿(a) is amended by inserting special after an order under section 54(3) varying the.
+(2) Section 54A(1)﻿(b) is amended by inserting special after any probation officer may himself or herself vary the.
 (3) Section 54A(1) is amended by adding ; and and also by adding the following paragraph:
   (c) a probation officer may vary or suspend any standard conditions of a sentence of supervision.
-(4) Section 54A(2) is amended by omitting subsection (1) and substituting subsection (1)(a) or (b).
+(4) Section 54A(2) is amended by omitting subsection (1) and substituting subsection (1)﻿(a) or (b).
 (5) Section 54A is amended by adding the following subsection:
-  (3) Any variation or suspension of a standard condition under subsection (1)(c) has effect until the earlier of—
+  (3) Any variation or suspension of a standard condition under subsection (1)﻿(c) has effect until the earlier of—
     (a) the revocation of the epidemic management notice; or
     (b) the date on which a probation officer rescinds the variation or suspension.
 
@@ -209,7 +205,7 @@ The following heading and sections are inserted after section 54A:Intensive supe
     (h) the offender must not engage, or continue to engage, in any employment or occupation in which a probation officer has directed the offender not to engage or continue to engage:
     (i) the offender must not associate with any specified person, or with persons of any specified class, with whom a probation officer has, in writing, directed the offender not to associate:
     (j) the offender must take part in a rehabilitative and reintegrative needs assessment if and when directed to do so by a probation officer.
-  (2) The conditions in subsection (1)(d) to (g) do not apply if, and to the extent that, they are inconsistent with—
+  (2) The conditions in subsection (1)﻿(d) to (g) do not apply if, and to the extent that, they are inconsistent with—
     (a) any special condition imposed by the court; or
     (b) in the case of an offender who is also subject to a sentence of community detention, any condition of that sentence.
   A court may impose any special condition or conditions related to a programme if the court is satisfied that—
@@ -229,7 +225,7 @@ The following heading and sections are inserted after section 54A:Intensive supe
     (a) there is a significant risk of further offending by the offender; and
     (b) standard conditions alone would not adequately reduce that risk; and
     (c) the imposition of special conditions would reduce the likelihood of further offending by the offender through the rehabilitation and reintegration of the offender.
-  (2) A court may only impose a condition of the kind described in subsection (3)(d) (which relates to judicial monitoring) if it is also satisfied that, because of the special circumstances of the offender, this is necessary to assist the offender's compliance with the sentence.
+  (2) A court may only impose a condition of the kind described in subsection (3)﻿(d) (which relates to judicial monitoring) if it is also satisfied that, because of the special circumstances of the offender, this is necessary to assist the offender's compliance with the sentence.
   (3) The conditions referred to in subsections (1) and (2) comprise—
     (a) any conditions that the court thinks fit relating to the offender's place of residence (which may include a condition that the offender not move residence), finances, or earnings:
     (b) conditions requiring the offender to take prescription medication:
@@ -256,25 +252,25 @@ The following heading and sections are inserted after section 54A:Intensive supe
     (a) remit, suspend, or vary any special conditions imposed by the court, or impose additional special conditions:
     (b) cancel the sentence:
     (c) cancel the sentence and substitute any other sentence (including another sentence of intensive supervision) that could have been imposed on the offender at the time when the offender was convicted of the offence for which the sentence was imposed.
-  (4) If the court varies a special condition or imposes an additional special condition under subsection (3)(a), section 54I applies.
-  (5) When determining a substitute sentence under subsection (3)(c), the court must take into account the portion of the original sentence that remains unserved at the time of the order.
+  (4) If the court varies a special condition or imposes an additional special condition under subsection (3)﻿(a), section 54I applies.
+  (5) When determining a substitute sentence under subsection (3)﻿(c), the court must take into account the portion of the original sentence that remains unserved at the time of the order.
   (6) If the court cancels a sentence, the sentence expires on the date that the order is made or on any other date that the court may specify.
   (7) If an application is made under this section for the remission, suspension, or variation of any special condition imposed by the court, a probation officer may suspend the special condition until the application has been heard and disposed of.
   (1) While an epidemic management notice is in force,—
     (a) a probation officer who has applied in accordance with section 72 for an order under section 54K(3) varying the special conditions subject to which a sentence of intensive supervision was imposed by the court on an offender may himself or herself vary those conditions; and
     (b) any probation officer may himself or herself vary the special conditions subject to which a sentence of intensive supervision was imposed by the court on an offender if the offender has applied in accordance with section 72 for an order under section 54K(3) varying those conditions; and
     (c) a probation officer may vary or suspend any standard conditions of a sentence of intensive supervision.
-  (2) A variation under subsection (1)(a) or (b) has effect until the application concerned has been heard or disposed of.
-  (3) Any variation or suspension of a standard condition under subsection (1)(c) has effect until the earlier of—
+  (2) A variation under subsection (1)﻿(a) or (b) has effect until the application concerned has been heard or disposed of.
+  (3) Any variation or suspension of a standard condition under subsection (1)﻿(c) has effect until the earlier of—
     (a) the revocation of the epidemic management notice; or
     (b) the date on which a probation officer rescinds the variation or suspension.
 
 ### 25 Sentence of community work
-Section 55(1) is amended by inserting the following paragraph after paragraph (a):.
+Section 55(1) is amended by inserting the following paragraph after paragraph (a):
   (ab) if the offender is convicted of an offence and the enactment prescribing the offence expressly provides that a sentence of home detention may be imposed on conviction; or
 
 ### 26 Guidance on use of sentence of community work
-Section 56(1)(a) is amended by omitting to make compensation to the community and substituting to be held accountable to the community by making compensation to it.
+Section 56(1)﻿(a) is amended by omitting to make compensation to the community and substituting to be held accountable to the community by making compensation to it.
 
 ### 27 Concurrent and cumulative sentences of community work
 (1) Section 57 is amended by inserting the following subsection after subsection (2):
@@ -333,7 +329,7 @@ The following heading and sections are inserted after section 69A:Community dete
   (1) A court may impose a sentence of community detention if the court is satisfied—
     (a) that a sentence of community detention—
       (i) would reduce the likelihood of further offending by restricting the offender's movements during specified periods, including, but not limited to, offending of a particular type or at a particular time; or
-      (ii) would achieve 1 or more of the purposes set out in section 7(1)(a), (b), (e), or (f); and
+      (ii) would achieve 1 or more of the purposes set out in section 7(1)﻿(a), (b), (e), or (f); and
     (b) that an electronically monitored curfew is appropriate, taking into account the nature and the seriousness of the offence and the circumstances and the background of the offender.
   (2) A court may sentence an offender to community detention if—
     (a) the court is satisfied that—
@@ -364,15 +360,15 @@ The following heading and sections are inserted after section 69A:Community dete
       (iii) to attend a restorative justice conference or other process relating to the offender's offending; or
       (iv) to carry out any undertaking arising from any restorative justice process; or
     (d) with the approval of a probation officer and subject to any conditions imposed by the probation officer, on humanitarian grounds.
-  (3) A probation officer may only give an approval under subsection (2)(c) if the offender is serving a sentence of supervision or intensive supervision together with the sentence of community detention.
+  (3) A probation officer may only give an approval under subsection (2)﻿(c) if the offender is serving a sentence of supervision or intensive supervision together with the sentence of community detention.
   (4) A probation officer may approve an alternative curfew address under section 69K, pending determination of an application to vary the curfew address under section 69I.
-  (1) The purpose of an electronic monitoring condition imposed as a condition under section 69E(1)(e) is to deter the offender from breaching the condition that the offender remain at the curfew address during the curfew period and to monitor compliance with that condition.
+  (1) The purpose of an electronic monitoring condition imposed as a condition under section 69E(1)﻿(e) is to deter the offender from breaching the condition that the offender remain at the curfew address during the curfew period and to monitor compliance with that condition.
   (2) Information about an offender that is obtained through electronic monitoring, may be used only for the purposes referred to in subsection (1) and for the following purposes:
     (a) to verify compliance with the condition that the offender remain at the curfew address during the curfew period:
     (b) to detect non-compliance with that condition:
     (c) to provide evidence of non-compliance with that condition and the commission of offences during the curfew period:
     (d) to verify that the offender has not tampered or otherwise interfered with the ability of the electronic monitoring equipment to operate effectively and accurately.
-  (3) Information may be collected during the whole of the sentence term but may be used only if it was collected for 1 or more of the purposes set out in this section and, except for information collected for the purpose in subsection (2)(d), was collected during the curfew period.
+  (3) Information may be collected during the whole of the sentence term but may be used only if it was collected for 1 or more of the purposes set out in this section and, except for information collected for the purpose in subsection (2)﻿(d), was collected during the curfew period.
   (4) Any information obtained by electronic monitoring outside the curfew period must be destroyed as soon as practicable.
   An offender commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,500, who—
     (a) fails, without reasonable excuse, to comply with any condition of a sentence of community detention; or
@@ -395,18 +391,18 @@ The following heading and sections are inserted after section 69A:Community dete
     (b) vary the curfew address; or
     (c) cancel the sentence; or
     (d) cancel the sentence and substitute any other sentence (including another sentence of community detention) that could have been imposed on the offender at the time that the offender was convicted of the offence for which the sentence was imposed.
-  (4) When determining a substitute sentence to be imposed under subsection (3)(d), the court must take into account the portion of the original sentence that remains unserved at the time of the order.
+  (4) When determining a substitute sentence to be imposed under subsection (3)﻿(d), the court must take into account the portion of the original sentence that remains unserved at the time of the order.
   (5) If the court cancels the sentence, the sentence expires on the date that the order is made or on any other date that the court may specify.
   (6) If an application is made under this section for the suspension or variation of the curfew period, a probation officer may suspend the curfew period until the application has been heard and disposed of.
   (1) While an epidemic management notice is in force,—
     (a) a probation officer who has applied in accordance with section 72 for an order under section 69I(3) varying the curfew period subject to which a sentence of community detention was imposed by the court on an offender may himself or herself vary the curfew period; and
     (b) any probation officer may himself or herself vary the curfew period subject to which a sentence of community detention was imposed by the court on an offender if the offender has applied in accordance with section 72 for an order under section 69I(3) to vary the curfew period; and
     (c) a probation officer may vary or suspend any conditions of a sentence of community detention.
-  (2) A variation under subsection (1)(a) or (b) has effect until the application concerned has been heard or disposed of.
-  (3) Any variation or suspension of a condition under subsection (1)(c) has effect until the earlier of—
+  (2) A variation under subsection (1)﻿(a) or (b) has effect until the application concerned has been heard or disposed of.
+  (3) Any variation or suspension of a condition under subsection (1)﻿(c) has effect until the earlier of—
     (a) the revocation of the epidemic management notice; or
     (b) the date on which a probation officer rescinds the variation or suspension.
-  (1) This section applies if a probation officer or an offender who is subject to a sentence of community detention intends to apply, or has applied, for a variation of conditions under section 69I on the ground specified in section 69I(1)(b) (which relates to the offender's curfew address).
+  (1) This section applies if a probation officer or an offender who is subject to a sentence of community detention intends to apply, or has applied, for a variation of conditions under section 69I on the ground specified in section 69I(1)﻿(b) (which relates to the offender's curfew address).
   (2) A probation officer may approve an alternative curfew address at which the offender must remain during the curfew period pending the determination of an application.
   (3) If a probation officer approves an alternative curfew address before an application under section 69I has been made, the probation officer must make an application to the court under that section within 5 working days.
   (4) Subsection (3) does not apply if an offender makes an application under section 69I within the 5-day period specified in subsection (3).
@@ -421,7 +417,7 @@ The following section is inserted after section 70:Offence to breach conditions 
     (b) fails, without reasonable excuse, to report when required to do so under section 78 or 80.
 
 ### 35 Offences relating to breach of sentence of community work
-Section 71(1)(d) is amended by inserting or 69A after section 69.
+Section 71(1)﻿(d) is amended by inserting or 69A after section 69.
 
 ### 36 Jurisdiction and procedure
 (1) Section 72(1) is amended by omitting or section 68 and substituting , 54K, 68, or 69I.
@@ -435,7 +431,7 @@ Section 74 is amended by inserting the following subsection after subsection (3)
     (c) the conditions that apply, including those that apply for the duration of the sentence term and those that only apply during the curfew period.
 
 ### 38 Commencement of community-based sentences
-(1) Section 75(2)(a) is amended by omitting the remainder of this section and substituting sections 75A and 75B.
+(1) Section 75(2)﻿(a) is amended by omitting the remainder of this section and substituting sections 75A and 75B.
 (2) Section 75 is amended by inserting the following subsection after subsection (2):
   (2A) If the commencement date of a sentence of community work is deferred under section 57A, the sentence commences on the date specified in the order of the court.
 (3) Section 75 is amended by repealing subsections (3) to (8).
@@ -446,7 +442,7 @@ The following sections are inserted after section 75:Commencement of cumulative 
     (a) at least 1 of the sentences must commence on the day that sentence is imposed; and
     (b) the commencement date for the subsequent sentence is the date of the completion of the hours of community work under the first sentence of community work to be served.
   (2) If a sentence of community work is imposed cumulatively on another sentence of community work to which the offender is already subject, the commencement date for the subsequent sentence is the date of the completion of the hours of community work under the first sentence of community work to be served.
-  (3) To avoid doubt, if a sentence of community work is imposed cumulatively on another sentence of community work, hours of work done under either of the sentences on the date referred to in subsections (1)(b) or (2) are not counted towards the hours of work required to be done under the other sentence.
+  (3) To avoid doubt, if a sentence of community work is imposed cumulatively on another sentence of community work, hours of work done under either of the sentences on the date referred to in subsections (1)﻿(b) or (2) are not counted towards the hours of work required to be done under the other sentence.
   (4) If a sentence of community work is imposed cumulatively on another sentence of community work (the first sentence), whether or not imposed at the same time, and the first sentence is subsequently quashed,—
     (a) the commencement date for the subsequent sentence is the date on which the subsequent sentence was imposed; and
     (b) any hours of work completed under the quashed sentence must be treated as having been done under the subsequent sentence.
@@ -458,7 +454,7 @@ The following sections are inserted after section 75:Commencement of cumulative 
     (a) at least 1 of the sentences must commence on the day that sentence is imposed; and
     (b) the commencement date for the subsequent sentence is the date of the completion of the term of community detention under the first sentence of community detention to be served.
   (2) If a sentence of community detention is imposed cumulatively on another sentence of community detention to which the offender is already subject, the commencement date for the subsequent sentence is the date of the completion of the term of community detention under the first sentence of community detention to be served.
-  (3) To avoid doubt, if a sentence of community detention is imposed cumulatively on another sentence of community detention, any period during which the offender was subject to either of the sentences referred to in subsections (1)(b) or (2) is not counted towards the term of the other sentence.
+  (3) To avoid doubt, if a sentence of community detention is imposed cumulatively on another sentence of community detention, any period during which the offender was subject to either of the sentences referred to in subsections (1)﻿(b) or (2) is not counted towards the term of the other sentence.
   (4) If a sentence of community detention is imposed cumulatively on another sentence of community detention (the first sentence), whether or not imposed at the same time, and the first sentence is subsequently quashed,—
     (a) the commencement date for the subsequent sentence is the date on which the subsequent sentence was imposed; and
     (b) any period during which the offender was subject to the quashed sentence must be treated as having been served under the subsequent sentence.
@@ -472,8 +468,8 @@ Section 76 is amended by repealing subsection (3) and substituting the following
   (3A) An offender who is sentenced to community detention must report within 24 hours, unless the 24 hours elapses on a weekend or public holiday, in which case the offender must report on the next working day.
 
 ### 41 Effect of subsequent sentence of imprisonment
-(1) Section 78(4) is amended by inserting or 54I(3)(b) after section 52(2)(b).
-(2) Section 78(5) is amended by repealing paragraphs (a) and (b) and substituting the following paragraphs:.
+(1) Section 78(4) is amended by inserting or 54I(3)﻿(b) after section 52(2)﻿(b).
+(2) Section 78(5) is amended by repealing paragraphs (a) and (b) and substituting the following paragraphs:
   (a) except as provided in paragraph (b), the offender must report to a probation officer as soon as practicable, and not later than 72 hours, after being released from detention; and
   (b) an offender who is sentenced to community detention must report within 24 hours after being released from detention, unless the 24 hours elapses on a weekend or public holiday, in which case the offender must report on the next working day; and
   (c) the sentence does not resume until the offender has reported to a probation officer as required by paragraphs (a) or (b)
@@ -484,7 +480,7 @@ Section 79 is amended by adding the following subsections:
   (4) No period during which a sentence of community detention is suspended under section 78(2) or (7) is counted towards the period under section 69B(2).
 
 ### 43 Resumption of community-based sentence if sentence of imprisonment quashed
-Section 80(3) is amended by repealing paragraphs (a) and (b) and substituting the following paragraphs:.
+Section 80(3) is amended by repealing paragraphs (a) and (b) and substituting the following paragraphs:
   (a) except as provided in paragraph (b), the offender must report to a probation officer as soon as practicable, and not later than 72 hours, after being released from detention; and
   (b) an offender who is sentenced to community detention must report within 24 hours after being released from detention, unless the 24 hours elapses on a weekend or public holiday, in which case the offender must report on the next working day; and
   (c) the sentence resumes when the offender has reported as required by paragraphs (a) or (b)
@@ -542,7 +538,7 @@ The following subparts are inserted after section 80:Home detentionSentence of h
     (a) there is a significant risk of further offending by the offender; and
     (b) standard conditions alone would not adequately reduce the risk; and
     (c) the imposition of special conditions would reduce the likelihood of further offending by the offender through the rehabilitation and reintegration of the offender.
-  (3) A court may only impose a condition of the kind described in subsection (4)(d) (which relates to judicial monitoring) if it is also satisfied that, because of the special circumstances of the offender, this is necessary to assist the offender's compliance with the sentence.
+  (3) A court may only impose a condition of the kind described in subsection (4)﻿(d) (which relates to judicial monitoring) if it is also satisfied that, because of the special circumstances of the offender, this is necessary to assist the offender's compliance with the sentence.
   (4) The special conditions referred to in subsection (1) or (2) are—
     (a) any conditions that the court thinks fit relating to the offender's finances or earnings:
     (b) conditions requiring the offender to take prescription medication:
@@ -571,7 +567,7 @@ The following subparts are inserted after section 80:Home detentionSentence of h
       (i) the rehabilitation and reintegration of the offender would be advanced by the remission, suspension, or variation of any special conditions, or the imposition of additional special conditions; or
       (ii) the continuation of the sentence is no longer necessary in the interests of the community or the offender.
   (2) A probation officer may apply for an order under subsection (4) if an offender, who is subject to a sentence of home detention, is convicted of an offence punishable by imprisonment.
-  (3) If an offender is subject to special detention conditions in relation to 2 or more sentences of home detention at the same time, a probation officer must apply for an order under subsection (4)(a) if he or she is satisfied that—
+  (3) If an offender is subject to special detention conditions in relation to 2 or more sentences of home detention at the same time, a probation officer must apply for an order under subsection (4)﻿(a) if he or she is satisfied that—
     (a) any of the special conditions are incompatible with each other; or
     (b) in light of all the conditions to which the offender is subject under the sentences, it is unreasonable to expect the offender to comply with 1 or more of the special conditions.
   (4) On an application under subsection (1), (2), or (3), the court may, if it is satisfied that the grounds on which the application is based have been established,—
@@ -581,12 +577,12 @@ The following subparts are inserted after section 80:Home detentionSentence of h
     (d) cancel the sentence and substitute any other sentence (including another sentence of home detention) that could have been imposed on the offender at the time that the offender was convicted of the offence for which the sentence was imposed.
   (5) An application under subsection (1), (2), or (3) may be made at any time before or after the sentence commences.
   (6) Section 72 applies, with any necessary modifications, to an application under this section.
-  (1) If the court cancels a sentence of home detention under section 80F(4)(d), the court may at the same time cancel any sentence of community work that the offender is serving concurrently with the sentence of home detention.
-  (2) When determining a substitute sentence under section 80F(4)(d), the court must take into account the portion of the original sentence that remains unserved at the time of the order.
-  (3) If the court varies a special condition or imposes a new special condition under section 80F(4)(a), section 80D applies.
+  (1) If the court cancels a sentence of home detention under section 80F(4)﻿(d), the court may at the same time cancel any sentence of community work that the offender is serving concurrently with the sentence of home detention.
+  (2) When determining a substitute sentence under section 80F(4)﻿(d), the court must take into account the portion of the original sentence that remains unserved at the time of the order.
+  (3) If the court varies a special condition or imposes a new special condition under section 80F(4)﻿(a), section 80D applies.
   (4) If the court cancels the sentence, the sentence expires on the date that the order is made or on any other date that the court may specify.
   (5) If an application is made under section 80F for the remission, suspension, or variation of any special condition of a sentence of home detention, a probation officer may suspend the condition until the application has been heard and disposed of.
-  (1) This section applies if a probation officer or an offender who is subject to a sentence of home detention intends to apply, or has applied, for a variation of conditions under section 80F on the ground in section 80F(1)(c) (which relates to the offender's home detention residence).
+  (1) This section applies if a probation officer or an offender who is subject to a sentence of home detention intends to apply, or has applied, for a variation of conditions under section 80F on the ground in section 80F(1)﻿(c) (which relates to the offender's home detention residence).
   (2) A probation officer may approve an alternative residence in which the sentence of home detention must be served pending the determination of an application.
   (3) If a probation officer approves an alternative residence before an application under section 80F has been made, the probation officer must make an application to the court under that section within 5 working days.
   (4) Subsection (3) does not apply if an offender makes an application under section 80F within the 5-day period specified in subsection (3).
@@ -671,7 +667,7 @@ The following subparts are inserted after section 80:Home detentionSentence of h
     (b) accompanies a person described in paragraph (a); or
     (c) is authorised in writing by a probation officer and has produced that written authority to an occupant of the residence.
   (1) An offender commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,500, who breaches, without reasonable excuse, any post-detention conditions imposed under section 80N or 80R.
-  (2) In the case of a condition of the kind referred to in section 80P(2)(b) (which involves prescription medication), an offender does not breach his or her conditions for the purposes of this section if he or she withdraws consent to taking prescription medication.
+  (2) In the case of a condition of the kind referred to in section 80P(2)﻿(b) (which involves prescription medication), an offender does not breach his or her conditions for the purposes of this section if he or she withdraws consent to taking prescription medication.
   Any member of the police or any probation officer may arrest, without warrant, an offender who the member or officer has reasonable grounds to believe has breached any of his or her detention conditions or post-detention conditions.
   (1) The court may defer the start date of a sentence of home detention for a specified period of up to 2 months—
     (a) on humanitarian grounds; or
@@ -736,20 +732,20 @@ The following subparts are inserted after section 80:Home detentionSentence of h
     (b) the cost of all other entitlements of the offender under that Act must be met from the Earners' Account in the case of an offender who is an earner and from the Non-Earners' Account in all other cases.
   (1) This section applies if an offender who is subject to a sentence of home detention is subsequently sentenced to a term of imprisonment.
   (2) If this section applies, the sentence of home detention is suspended until the earlier of the following events—
-    (a) it resumes under subsection (4)(b); or
+    (a) it resumes under subsection (4)﻿(b); or
     (b) it is cancelled under subsection (6).
   (3) No period during which a sentence of home detention is suspended under subsection (2) is counted towards the period under section 80A(3).
   (4) If the sentence or sentences of imprisonment are quashed and that results in the offender no longer being detained under a sentence of imprisonment,—
     (a) the offender must report to a probation officer as soon as practicable and not later than 72 hours after being released from detention; and
     (b) the sentence of home detention resumes when the offender has reported as required under paragraph (a).
   (5) The Registrar of the court in which the sentence or sentences of imprisonment are quashed must notify the chief executive of the Department of Corrections.
-  (6) If the sentence of home detention never resumes under subsection (4)(b), it is cancelled when the offender ceases to be detained under the sentence of imprisonment.
+  (6) If the sentence of home detention never resumes under subsection (4)﻿(b), it is cancelled when the offender ceases to be detained under the sentence of imprisonment.
   (1) While an epidemic management notice is in force,—
     (a) a probation officer who has applied for an order under section 80F(4) varying the special conditions subject to which a sentence of home detention was imposed by the court on an offender may himself or herself vary those conditions; and
     (b) any probation officer may himself or herself vary the special conditions subject to which a sentence of home detention was imposed by the court on an offender if the offender has applied for an order under section 80F(4) varying those conditions; and
     (c) a probation officer may vary or suspend any standard conditions of a sentence of home detention.
-  (2) A variation under subsection (1)(a) or (b) has effect until the application concerned has been heard and disposed of.
-  (3) Any variation or suspension of a standard condition under subsection (1)(c) has effect until the earlier of—
+  (2) A variation under subsection (1)﻿(a) or (b) has effect until the application concerned has been heard and disposed of.
+  (3) Any variation or suspension of a standard condition under subsection (1)﻿(c) has effect until the earlier of—
     (a) the revocation of the epidemic management notice; or
     (b) the date a probation officer rescinds the variation or suspension.
   (1) While an epidemic management notice is in force,—
@@ -772,45 +768,39 @@ The following subparts are inserted after section 80:Home detentionSentence of h
   (3) After hearing submissions on whether the sentence should be varied or cancelled at the hearing, the Judge may vary or cancel the sentence of intensive supervision or home detention in accordance with section 54K or 80F (whichever is applicable) as if an application had been made under either of those sections.
 
 ### 45 New section 81A inserted
-The following section is inserted after section 81:Manner of expression of sentence of imprisonment
-  (1) This section applies if a court sentences an offender to a determinate sentence of imprisonment that is a long-term sentence as defined in section 4(1) of the Parole Act 2002.
-  (2) The court must, in addition to stating the term of the sentence imposed, state the minimum period of the sentence that the offender must serve under section 84 of the Parole Act 2002 before he or she may be released on parole at the discretion of the Parole Board.
+[Repealed]
 
 ### 46 Imposition of minimum period of imprisonment in relation to determinate sentence of imprisonment
-Section 86 and the heading above section 86 are repealed.
+[Repealed]
 
 ### 47 Offender must be notified that sentence of preventive detention will be considered, and reports must be obtained
 Section 88 is amended by adding the following subsection:
-  (3) To avoid doubt, a health assessor's report under subsection (1)(b) may take into account any statement of the offender or any other person concerning any conduct of the offender, whether or not that conduct constitutes an offence and whether or not the offender has been charged with, or convicted of, an offence in respect of that conduct.
+  (3) To avoid doubt, a health assessor's report under subsection (1)﻿(b) may take into account any statement of the offender or any other person concerning any conduct of the offender, whether or not that conduct constitutes an offence and whether or not the offender has been charged with, or convicted of, an offence in respect of that conduct.
 
 ### 48 Warrant of commitment for sentence of imprisonment
 Section 91 is amended by repealing subsections (4) and (5).
 
 ### 49 Imposition of conditions on release of offender sentenced to imprisonment for short term
-(1) Section 93(1) is amended by omitting 12 months and substituting 6 months.
-(2) Section 93(2) is amended by omitting 12 months but not more than 24 months and substituting 6 months but not more than 12 months.
+(1)
+(2)
 (3)
-(4) The definition of special conditions in section 93(2B) is amended by inserting , or a residential restriction condition as referred to in section 15(3)(ab) of that Act after section 15(3)(f) of that Act.
-(5) Section 93(5) is amended by omitting 24 months and substituting 12 months.
+(4) The definition of special conditions in section 93(2B) is amended by inserting , or a residential restriction condition as referred to in section 15(3)﻿(ab) of that Act after section 15(3)﻿(f) of that Act.
+(5)
 
 ### 50 Heading and sections 97 to 99 repealed
 The heading above section 97 and sections 97, 98, and 99 are repealed.
 
 ### 51 Court may defer start date of sentence of imprisonment
-Section 100(1)(b) and (2) are repealed.
+Section 100(1)﻿(b) and (2) are repealed.
 
 ### 52 Non-association order
-Section 112 is amended by repealing subsection (5) and substituting the following subsection:
-  (5) The court must not make a non-association order if the offender is already detained under a sentence of imprisonment—
-    (a) of more than 12 months if imposed after the commencement of this section; or
-    (b) of more than 24 months if imposed before the commencement of this section.
+[Repealed]
 
 ### 53 Cumulative orders and sentences
-Section 114 is amended by repealing subsection (2) and substituting the following subsection:
-  (2) If the court imposes a non-association order on an offender who is already detained under a sentence of imprisonment for 12 months or less if imposed after the commencement of this section or for 24 months or less if imposed before the commencement of this section, the non-association order is cumulative on the other sentence.
+[Repealed]
 
 ### 54 Effect of subsequent sentences on non-association order
-Section 119 is amended by omitting 24 months in each place where it appears and substituting in each case 12 months.
+[Repealed]
 
 ## Part  — Transitional provisions
 
@@ -838,7 +828,7 @@ The enactments listed in the Schedule are amended in the manner set out in that 
 ## Schedule Schedule — Amendments to other enactments
 
 ### 46A Person detained or required to remain at residence to attend to give bodily sample
-(1) An agreement reached, under section 24A(4)(b) or section 39A(3)(b)(ii), between a person serving a sentence of imprisonment by way of home detention or a sentence of home detention imposed under section 80A of the Sentencing Act 2002, or on parole subject to residential restrictions imposed under section 15 of the Parole Act 2002, and a member of the police to vary the date on which a bodily sample is to be taken, pursuant to a compulsion order or databank compulsion notice, is of no effect unless it has been approved by the probation officer supervising that person.
+(1) An agreement reached, under section 24A(4)﻿(b) or section 39A(3)﻿(b)﻿(ii), between a person serving a sentence of imprisonment by way of home detention or a sentence of home detention imposed under section 80A of the Sentencing Act 2002, or on parole subject to residential restrictions imposed under section 15 of the Parole Act 2002, and a member of the police to vary the date on which a bodily sample is to be taken, pursuant to a compulsion order or databank compulsion notice, is of no effect unless it has been approved by the probation officer supervising that person.
 (2) Subsection (3) applies if—
   (a) a condition is included in a suspect compulsion order or juvenile compulsion order under section 24A(5); or
   (b) a statement is included in a databank compulsion notice under section 39A(4).
