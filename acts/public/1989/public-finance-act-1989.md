@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2017-06-02_
+_Consolidation as at 2017-06-03_
 
 > Title
 
@@ -2275,7 +2275,6 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 | Pacific Co-operation Foundation |  |  |  |  |  |  |  |  |
 | Pacific Island Business Development Trust |  |  |  |  |  |  |  |  |
 | Reserves Boards as defined in section 2 of the Reserves Act 1977 |  |  |  |  |  |  |  |  |
-| Sentencing Council |  |  |  |  |  |  |  |  |
 | Te Ariki trust |  |  |  |  |  |  |  |  |
 
 ## Schedule 4A — Non-listed companies in which Crown is majority or sole shareholder
