@@ -1,5 +1,5 @@
 # National Expenditure Adjustment Amendment Act 1963
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-06-03_
 
 > An Act to amend the National Expenditure Adjustment Act 1932
 
