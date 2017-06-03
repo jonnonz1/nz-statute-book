@@ -1,5 +1,5 @@
 # Government Superannuation Fund Amendment Act (No 2) 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-06-03_
 
 > An Act to amend the Government Superannuation Fund Act 1956
 
@@ -49,7 +49,7 @@ _Consolidation as at 2007-09-03_
   (e) So much of Schedule 1 to the Public Finance Act 1989 as relates to section 95 of the principal Act.
 
 ### 12 Annual subsidies after 1 July 1991 from Government and from funds or accounts out of which contributors' salaries are paid
-This section will substitute section 95 of the principal Act, as from a date to be appointed by Order in Council.
+[Repealed]
 
 ### 13 Regulations
 [Repealed]
