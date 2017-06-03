@@ -1,5 +1,5 @@
 # Marine and Power Engineers' Institute Industrial Disputes Act 1974
-_Consolidation as at 1974-07-10_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision with respect to industrial disputes involving members of the New Zealand Institute of Marine and Power Engineers
 
