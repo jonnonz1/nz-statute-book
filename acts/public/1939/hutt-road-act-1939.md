@@ -1,5 +1,5 @@
 # Hutt Road Act 1939
-_Consolidation as at 2003-07-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to abolish the Wellington City and Suburban Highways Board of Control, to repeal certain enactments making special provision for the construction and maintenance of the Hutt Road and certain other roads and streets situated in or near to the City of Wellington, and to make provision for matters incidental thereto
 
