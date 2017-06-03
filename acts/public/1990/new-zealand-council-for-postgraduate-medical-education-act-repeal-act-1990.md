@@ -1,5 +1,5 @@
 # New Zealand Council for Postgraduate Medical Education Act Repeal Act 1990
-_Consolidation as at 1990-03-20_
+_Consolidation as at 2017-06-03_
 
 > An Act to dissolve the New Zealand Council for Postgraduate Medical Education and to repeal the New Zealand Council for Postgraduate Medical Education Act 1978
 
