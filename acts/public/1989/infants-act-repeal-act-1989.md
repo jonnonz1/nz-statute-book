@@ -1,5 +1,5 @@
 # Infants Act Repeal Act 1989
-_Consolidation as at 1989-12-19_
+_Consolidation as at 2017-06-03_
 
 > An Act to repeal the Infants Act 1908
 
