@@ -1,5 +1,5 @@
 # Taranaki Harbours Act 1965
-_Consolidation as at 1978-01-18_
+_Consolidation as at 2017-06-03_
 
 > An Act to constitute the Taranaki Harbours Board and the Taranaki Harbours District and to provide for matters incidental thereto
 
