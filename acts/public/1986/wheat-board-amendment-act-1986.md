@@ -1,5 +1,5 @@
 # Wheat Board Amendment Act 1986
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-06-03_
 
 > An Act to amend the Wheat Board Act 1965 to provide a new method of grading wheat, and to provide for the removal of regulatory controls on the wheat and flour industry and the eventual abolition of the New Zealand Wheat Board
 
@@ -43,10 +43,10 @@ _Consolidation as at 2007-09-03_
   (b) The sale or disposal of all real and personal property belonging to the Board.
 (2) The winding up required by subsection (1) of this section shall be effected by the earlier of—
   (a) The close of the 31st day of January 1989; or
-  (b) Where an Order in Council is made under section 13(2)(b) of this Act, the day before the date appointed in that Order in Council as the day on which section 13 of this Act is to come into force.
+  (b) Where an Order in Council is made under section 13(2)﻿(b) of this Act, the day before the date appointed in that Order in Council as the day on which section 13 of this Act is to come into force.
 (3) The Board shall cause to be prepared final accounts of the Board as at the earlier of—which accounts shall include inventories of all real and personal property belonging to the Board and all real and personal property sold or disposed of by the Board pursuant to subsection (1) of this section since the 31st day of January 1987.
   (a) The 31st day of January 1989; or
-  (b) Where an Order in Council is made under section 13(2)(b) of this Act, the day before the date appointed in that Order in Council as the day on which section 13 of this Act is to come into force,—
+  (b) Where an Order in Council is made under section 13(2)﻿(b) of this Act, the day before the date appointed in that Order in Council as the day on which section 13 of this Act is to come into force,—
 (4) The Board shall not sell or otherwise dispose of any real or personal property pursuant to subsection (1) of this section without the prior approval of the Minister of Commerce or of some other person authorised in writing by the Minister of Commerce for that purpose, and the proceeds from any such sale or disposition shall be paid into the Consolidated Account.
 
 ### 13 Dissolution of Wheat Board
