@@ -1,5 +1,5 @@
 # Forests Amendment Act 1996
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-06-03_
 
 > An Act to amend the Forests Act 1949
 
@@ -21,7 +21,7 @@ The principal Act is hereby amended by inserting, after section 68, the followin
   (8) The District Land Registrar shall—as the case may be.
     (a) Enter a memorial of the supply contract upon the register against the title of the owner or occupier whose land is specified in the supply contract and upon the outstanding duplicate of the instrument evidencing title (if any) of the owner or occupier; or
     (b) Constitute the supply contract a separate folium of the register,—
-  (9) A memorial under subsection (8)(a) of this section may sufficiently describe the contract as a supply contract under the Forests Act 1949.
+  (9) A memorial under subsection (8)﻿(a) of this section may sufficiently describe the contract as a supply contract under the Forests Act 1949.
   Any supply contract registered pursuant to section 68A of this Act shall,—
     (a) As against all subsequent owners or occupiers of the land, burden the land against which it is registered and shall bind those persons and be enforceable against them as if they had been parties to the supply contract:
     (b) As against all other persons acquiring any estate or interest in the land, other than an estate or interest to which paragraph (a) of this section applies, be deemed to be a covenant running with the land and be binding accordingly.
