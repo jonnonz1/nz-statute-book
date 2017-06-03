@@ -1,5 +1,5 @@
 # Sport and Recreation New Zealand Act 2002
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-06-03_
 
 ### 1 Title
 This Act is the Sport and Recreation New Zealand Act 2002.
@@ -109,25 +109,19 @@ The Minister may not give a direction to the Agency under section 103 of the Cro
 **Nominations advisory group**
 
 ### 18 Nominations advisory group
-(1) The Minister must appoint a nominations advisory group after the first vacancy occurs in the membership of the board that is deemed to have been appointed under section 14.
-(2) The Minister may alter the nominations advisory group.
+[Repealed]
 
 ### 19 Functions of nominations advisory group
-The functions of the nominations advisory group are to—
-  (a) recommend to the Minister persons to be appointed as members of the board; and
-  (b) advise the Minister concerning the membership of the board.
+[Repealed]
 
 ### 20 Nominations advisory group’s recommendations and advice
-(1) This section applies to decisions made by the Minister concerning the membership of the board after the appointment of the nominations advisory group.
-(2) The Minister must, before making a decision to which this section applies, take into account the nominations advisory group’s recommendations and advice concerning the membership of the board.
-(3) The acts and decisions of the board are valid even if the appointment of any member is defective as a result of a breach of subsection (2) by the Minister.
+[Repealed]
 
 ### 21 Membership of nominations advisory group
-(1) The Minister may, at any time, appoint or discharge a member of the nominations advisory group and, if the Minister thinks fit, appoint another member in a discharged member’s place.
-(2) A member of the nominations advisory group may resign office by notice in writing to the Minister.
+[Repealed]
 
 ### 22 Nominations advisory group to regulate own procedure
-Subject to any direction given by the Minister, the nominations advisory group may regulate its own procedure.
+[Repealed]
 
 **Delegation by board**
 
@@ -258,60 +252,36 @@ In addition to the matters in section 118(2) of the Crown Entities Act 2004, the
 (3) In this section,—
   - **trust** means the New Zealand High Performance Sports Centres Trust created by deed of trust dated 30 June 2000 between the Hillary Commission and the New Zealand Sports Foundation Incorporated.
 
-## Part 3 — Dissolution of Hillary Commission, consequential amendments, and repeal
+## Part 3 — Consequential amendments and repeal
 
 **Dissolution of Hillary Commission**
 
 ### 53 Hillary Commission dissolved
-The Hillary Commission is dissolved.
+[Repealed]
 
 ### 54 Assets and liabilities vest in Agency
-All rights, assets, liabilities, and debts that the Hillary Commission had immediately before the commencement of this Act are deemed to be the rights, assets, liabilities, and debts of the Agency on that commencement.
+[Repealed]
 
 ### 55 Transfer of employees
-(1) The Agency and the chief executive of the Ministry of Economic Development may, after consulting the employee concerned, agree to the transfer of an employee from the Office of Tourism and Sport in the Ministry of Economic Development to the Agency.
-(2) The Agency may, after consulting the employee concerned, transfer a person who is employed by the Hillary Commission immediately before the commencement of this Act to the Agency.
+[Repealed]
 
 ### 56 Terms and conditions of employment of transferred employees
-(1) The employment of a transferred employee must be on terms and conditions no less favourable to the transferred employee than those applying to the employee immediately before the date of the person’s transfer to the Agency.
-(2) Subsection (1)—
-  (a) continues to apply to the terms and conditions of employment of a transferred employee until those terms and conditions are varied by agreement between the transferred employee and the Agency; but
-  (b) does not apply to a transferred employee who receives any subsequent employment with the Agency.
+[Repealed]
 
 ### 57 Continuity of employment
-(1) Every transferred employee becomes an employee of the Agency on the date of transfer.
-(2) However, for the purposes of this Act and every enactment, law, determination, contract, and agreement relating to the employment of the employee,—
-  (a) the contract of employment of that employee is deemed to have been unbroken; and
-  (b) the employee’s period of service with the previous employer, and every other period of service of that employee that is recognised by the previous employer as continuous service, is deemed to have been a period of service with the Agency.
-(3) In this section and section 58, previous employer means the Ministry of Economic Development or the Hillary Commission (as the case may be).
+[Repealed]
 
 ### 58 Restriction of compensation for technical redundancy
-(1) An employee is not entitled to receive any payment or other benefit on the ground that his or her position with the previous employer has ceased to exist if—
-  (a) the position ceases to exist as a result of the transfer of functions from the previous employer to the Agency; and
-  (b) in connection with the transfer of functions,—
-    (i) the employee is offered equivalent employment in the Agency (whether or not the employee accepts the offer); or
-    (ii) the employee is offered, and accepts, other employment in the Agency.
-(2) Equivalent employment to the employee’s employment with the previous employer is employment in the Agency—
-  (a) in substantially the same position; and
-  (b) in the same general locality; and
-  (c) on terms and conditions of employment that are no less favourable than those that apply to the employee immediately before the offer of equivalent employment (including any service-related, redundancy, and superannuation conditions); and
-  (d) on terms that treat the period of service with the previous employer (and any other service recognised by the previous employer as continuous service) as if it were continuous service with the Agency.
+[Repealed]
 
 ### 59 Final report and accounts
-(1) As soon as reasonably practicable after the commencement of this Act, the Agency must arrange for the final report of the Hillary Commission to be delivered to the Minister.
-(2) The report must—
-  (a) describe the Hillary Commission’s operations for the period beginning on 1 July 2002 and ending immediately before the commencement of this Act; and
-  (b) include—
-    (i) financial statements of the Hillary Commission prepared, in accordance with Part 5 of the Public Finance Act 1989, for that period; and
-    (ii) an audit report prepared by the Auditor-General and a management statement relating to those financial statements.
-(3) The Minister must present a copy of the report to the House of Representatives under section 44A of the Public Finance Act 1989.
+[Repealed]
 
 ### 60 References to Hillary Commission
-Unless the context otherwise requires, in any enactment, agreement, deed, instrument, application, notice, or in any other document in force immediately before the commencement of this Act, every reference to the Hillary Commission is, on and after that commencement, to be read as a reference to the Agency.
+[Repealed]
 
 ### 61 Proceedings of Hillary Commission
-(1) Any proceedings to which the Hillary Commission is a party before the commencement of this Act may be continued, completed, and enforced by or against the Agency.
-(2) This section is for the avoidance of doubt.
+[Repealed]
 
 **Consequential amendments**
 
