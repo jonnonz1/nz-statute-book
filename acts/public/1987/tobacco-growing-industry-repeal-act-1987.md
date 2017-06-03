@@ -1,5 +1,5 @@
 # Tobacco Growing Industry Repeal Act 1987
-_Consolidation as at 1987-02-22_
+_Consolidation as at 2017-06-03_
 
 > An Act to abolish the Tobacco Board
 
