@@ -1,5 +1,5 @@
 # Local Restoration Polls Act 1990
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-06-03_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Local Restoration Polls Act 1990.
@@ -100,7 +100,7 @@ For the purposes of section 139 of the Electoral Act 1956, election expenses, in
 
 ### 23 Sections of Electoral Act 1956 applied
 (1) The sections of the Electoral Act 1956 described in subsection (2), as far as they are applicable and with the necessary modifications, shall apply to a petition for an inquiry under section 24.
-(2) The sections of the Electoral Act 1956 referred to in subsection (1) are sections 158 to 160, 161, 162(1), (2), (4), (5), 166, 167, 168, 173 to 181, 182(1)(a), (b), and 183.
+(2) The sections of the Electoral Act 1956 referred to in subsection (1) are sections 158 to 160, 161, 162(1), (2), (4), (5), 166, 167, 168, 173 to 181, 182(1)﻿(a), (b), and 183.
 
 ### 24 Petition for inquiry
 (1) Where any 50 electors in a no-licence district are dissatisfied with the result of the local restoration poll in their district, they may, within 20 working days after the Returning Officer for the no-licence district has made a public declaration in accordance with section 116(1) of the Electoral Act 1956 (as applied by this Act), file a petition in the High Court for an inquiry as to the conduct of the poll or of any person connected with it.
