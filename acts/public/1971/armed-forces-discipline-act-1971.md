@@ -1,5 +1,5 @@
 # Armed Forces Discipline Act 1971
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand and the Parliament of the United Kingdom relating to the discipline of Her Majesty’s Armed Forces of New Zealand, and to provide for the discipline of and the administration of justice within those forces
 
@@ -2314,9 +2314,7 @@ The purpose of the Discipline Committee is to produce sentencing guidelines for 
     (iv) other matters relating to sentencing practice:
     (v) grounds for departure from the sentencing guidelines; and
   (b) any functions that are incidental and related to, or consequential on, its functions set out in paragraph (a).
-(2) In performing its functions, the Discipline Committee must ensure that any sentencing guidelines it produces are, to the extent that they are applicable, consistent with the following:
-  (a) the Sentencing Act 2002; and
-  (b) any guidelines published by the Sentencing Council established under the Sentencing Council Act 2007.
+(2) In performing its functions, the Discipline Committee must ensure that any sentencing guidelines it produces are, to the extent that it is applicable, consistent with the Sentencing Act 2002.
 (3) The Discipline Committee must carry out its functions independently of the Minister.
 
 ### 163 Chief of Defence Force must publish sentencing guidelines
