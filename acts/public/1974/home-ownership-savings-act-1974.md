@@ -1,5 +1,5 @@
 # Home Ownership Savings Act 1974
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to encourage saving for home ownership
 
@@ -24,8 +24,6 @@ _Consolidation as at 2013-07-01_
   - **housing purposes** , in relation to a depositor, means the acquisition by him of a dwelling in New Zealand or land in New Zealand on which to erect a dwelling being in either case a dwelling for his occupation
   - **interest subsidy** means a subsidy payable under section 7
   - **Minister** means the Minister of Housing
-  - **Ordinary Farm Ownership Account** means an Ordinary Farm Ownership Savings Account as defined in section 2(1) of the Farm Ownership Savings Act 1974
-  - **Ordinary Fishing Vessel Ownership Account** means an Ordinary Fishing Vessel Ownership Account as defined in section 2 of the Fishing Vessel Ownership Savings Act 1977
   - **Ordinary Home Ownership Account** means a savings account under that name with an authorised savings institution
   - **purchase grant** means a grant payable under section 6 and includes any additional purchase grant payable under section 7A
   - **qualifying date** , in relation to the Home Ownership Account of any depositor, means—
@@ -34,8 +32,6 @@ _Consolidation as at 2013-07-01_
       (ii) if on 31 December 1981 there was not a qualifying date in respect of the account, 1 January 1982:
     (b) where the account is opened on or after 1 January 1982, the date on which the account is opened
   - **qualifying year** , in relation to the Home Ownership Account of any depositor, means a period of 12 months ending on the first, second, third, fourth, or fifth anniversary of the qualifying date in respect of that account
-  - **Special Farm Ownership Account** means a Special Farm Ownership Account as defined in section 2(1) of the Farm Ownership Savings Act 1974
-  - **Special Fishing Vessel Ownership Account** means a Special Fishing Vessel Ownership Account as defined in section 2 of the Fishing Vessel Ownership Savings Act 1977
   - **Special Home Ownership Account** means a savings account under that name with an authorised savings institution
   - **terminating date** , in relation to any depositor or to any Home Ownership Account, means—whichever is the earlier
     (a) the date of payment of a purchase grant to the depositor:
@@ -69,7 +65,7 @@ Notwithstanding any other provision in this Act, no person shall open a Home Own
 (5) Where a depositor withdraws the whole or any part of the money standing to the depositor's credit in the depositor's Ordinary Home Ownership Account to be used by the depositor as a deposit under a conditional agreement to acquire a dwelling, and the agreement fails to become binding and the depositor restores all or part of the amount of the withdrawal into that account as soon as practicable, the amount of the withdrawal, to the extent to which it has been so restored, shall be deemed not to have been withdrawn from the account for the purpose of calculating the amount of the depositor's eligible savings if, in relation to each such conditional contract respectively, the depositor has made only 1 withdrawal from the depositor's account.
 
 ### 4 Notice of conditions
-The terms and conditions upon which applications for benefits will be considered, benefits allowed and paid, and balances in Farm Ownership Accounts and Ordinary Fishing Vessel Ownership Accounts transferred to Ordinary Home Ownership Accounts shall be in accordance with regulations made under this Act or, in default of any such regulations and so far as any such regulations do not extend, in accordance with the written directions of the Minister.
+The terms and conditions upon which applications for benefits will be considered and benefits allowed and paid shall be in accordance with regulations made under this Act or, in default of any such regulations and so far as any such regulations do not extend, in accordance with the written directions of the Minister.
 
 ### 5 Ineligible depositors
 (1) Notwithstanding anything in this Act but subject to subsections (2) to (4), no depositor shall be eligible for any benefits where, in the opinion of the Corporation, the depositor or, in the case of a joint Ordinary Home Ownership Account, either of the depositors—
@@ -103,10 +99,10 @@ The terms and conditions upon which applications for benefits will be considered
 
 ### 7A Capitalisation of interest subsidy
 (1) Every depositor who is entitled to receive an interest subsidy under section 7 may, when applying for a purchase grant under section 6, elect to receive an additional purchase grant under this section in lieu of the interest subsidy.
-(2) Every such additional purchase grant shall be an amount calculated in accordance with the following formula, or such other formula as may be fixed from time to time by Order in Council:a × (1.085)n − 1(1.085)n × 0.085where—ais the amount of the annual interest subsidy; andnis the number of years in respect of which that annual interest subsidy is payable.
+(2) Every such additional purchase grant shall be an amount calculated in accordance with the following formula, or such other formula as may be fixed from time to time by Order in Council: a × (1.085)n − 1(1.085)n × 0.085where—ais the amount of the annual interest subsidy; andnis the number of years in respect of which that annual interest subsidy is payable.
 
 ### 8 Preservation of benefits
-Where, by reason of an Order in Council made pursuant to section 3(2)(a), section 6(1), the proviso to section 7(2), or section 7A(2), the benefits payable to depositors are reduced, in so far as those benefits are calculated by reference to the eligible savings of a depositor at the date the Order in Council comes into force, those benefits shall be calculated as if the Order in Council had not been made.
+Where, by reason of an Order in Council made pursuant to section 3(2)﻿(a), section 6(1), the proviso to section 7(2), or section 7A(2), the benefits payable to depositors are reduced, in so far as those benefits are calculated by reference to the eligible savings of a depositor at the date the Order in Council comes into force, those benefits shall be calculated as if the Order in Council had not been made.
 
 ### 9 Disposition of dwelling within 5 years of payment of purchase grant
 [Repealed]
@@ -122,7 +118,7 @@ Where 2 depositors have a joint Ordinary Home Ownership Account and the Corporat
 (2) Any account purported to have been so opened shall be deemed not to be an Ordinary Home Ownership Account.
 
 ### 12 Transferability
-(1) Subject to this Act, balances in an Ordinary Farm Ownership Account or an Ordinary Fishing Vessel Ownership Account may be transferred to an Ordinary Home Ownership Account.
+(1)
 (2) Balances in an Ordinary Home Ownership Account with any authorised savings institution may be transferred to an Ordinary Home Ownership Account with any other authorised savings institution.
 (3) Any transfer of an Ordinary Home Ownership Account of any depositor from one authorised savings institution to another authorised savings institution shall not affect the calculation of eligible savings or the rights of the depositor.
 
@@ -150,14 +146,13 @@ Where at the time a depositor opens a Special Home Ownership Account he is also 
   (b) except for interest which may from time to time accrue and be payable in respect of the balance in the Ordinary Home Ownership Account, no other deposits shall be made thereafter in the Ordinary Home Ownership Account.
 
 ### 14C Transferability
-(1) Subject to this Act, balances in a Special Farm Ownership Account or a Special Fishing Vessel Ownership Account with an authorised savings institution may be transferred to a Special Home Ownership Account with the same authorised savings institution:
-  provided that this subsection shall not apply unless the whole of the balance in the Special Farm Ownership Account or the Special Fishing Vessel Ownership Account is transferred and that account is closed.
-(2) Where the balance in any Special Farm Ownership Account or the Special Fishing Vessel Ownership Account is transferred pursuant to subsection (1), the authorised savings institution shall forthwith inform the Commissioner accordingly.
+(1)
+(2)
 (3) Balances in a Special Home Ownership Account with any authorised savings institution may be transferred to a Special Home Ownership Account with any other authorised savings institution.
 (4) Any transfer of a Special Home Ownership Account of any depositor from one authorised savings institution to another authorised savings institution shall not affect the calculation of eligible savings or the rights of the depositor.
 
 ### 14D Withdrawal and transfers from Special Home Ownership Account
-(1) Subject to this section and section 14C and section 14C of the Farm Ownership Savings Act 1974 or section 17 of the Fishing Vessel Ownership Savings Act 1977, no money shall be withdrawn or transferred from a Special Home Ownership Account.
+(1) Subject to this section, no money shall be withdrawn or transferred from a Special Home Ownership Account.
 (2) A depositor may at any time withdraw or transfer any amount from his Special Home Ownership Account if, after the amount is withdrawn or transferred, the balance of the account is not reduced to an amount less than the closing balance of the account at 31 March immediately preceding the date of that withdrawal or transfer.
 (3) In any case where subsection (2) does not apply—
   (a) where the withdrawal or transfer (not being a transfer allowed under section 14C) is made otherwise than pursuant to a withdrawal certificate, the balance of the Special Home Ownership Account is to be withdrawn and the account closed:
