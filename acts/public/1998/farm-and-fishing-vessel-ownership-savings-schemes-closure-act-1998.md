@@ -1,5 +1,5 @@
 # Farm and Fishing Vessel Ownership Savings Schemes (Closure) Act 1998
-_Consolidation as at 1998-05-22_
+_Consolidation as at 2017-06-03_
 
 > An Act to close the savings schemes provided for by the Farm Ownership Savings Act 1974 and the Fishing Vessel Ownership Savings Act 1977
 
@@ -36,7 +36,7 @@ The principal Act is amended by adding the following Part:Closure of Farm Owners
     (a) The Corporation must issue to the depositor a withdrawal certificate under section 14F for the balance of the Account (less the amount of any deposit referred to in subsection (4)) as at the time of its closure, notwithstanding that the depositor would not otherwise be entitled to receive a withdrawal certificate under Part 2; and
     (b) Nothing in sections 14I to 14L (which impose certain restrictions where a withdrawal certificate has been issued, and may require the payment of withdrawal tax under Part I of the Income Tax Act 1994 if those restrictions are breached) applies in respect of the withdrawal for which the withdrawal certificate is issued.
   (4) If a person with a Special Farm Ownership Account makes any deposit into that Account during the period 15 May 1998 to 30 June 1998 (both dates inclusive), the amount of the deposit, to the extent that it is not subsequently withdrawn in accordance with section 14D(2) before the closure of the Account under this section,—
-    (a) Is to be excluded from the withdrawal certificate given under subsection (3)(a); and
+    (a) Is to be excluded from the withdrawal certificate given under subsection (3)﻿(a); and
     (b) Falls to be treated as withdrawal income subject to withdrawal tax in accordance with Part IZ of the Income Tax Act 1996.
   If a depositor with a Farm Ownership Account makes any deposit into that Account on or after 30 June 1998, the provisions of Parts 1 to 3 continue to apply to that depositor and that Account, unless and until the Account is closed under section 19.
 
@@ -69,6 +69,6 @@ The principal Act is amended by inserting, after section 29, the following Part:
     (a) The Corporation must issue to the depositor a withdrawal certificate under section 20 for the balance of the Account (less the amount of any deposit referred to in subsection (4)) as at the time of its closure, notwithstanding that the depositor would not otherwise be entitled to receive a withdrawal certificate under Part 2; and
     (b) Nothing in sections 23 to 25 (which impose certain restrictions where a withdrawal certificate has been issued, and may require the payment of withdrawal tax under Part I of the Income Tax Act 1994 if those restrictions are breached) applies in respect of the withdrawal for which the withdrawal certificate is issued.
   (4) If a person with a Special Fishing Vessel Ownership Account makes any deposit into that Account during the period 15 May 1998 to 30 June 1998 (both dates inclusive), the amount of the deposit, to the extent that it is not subsequently withdrawn in accordance with section 18(2) before the closure of the Account under this section,—
-    (a) Is to be excluded from the withdrawal certificate given under subsection (3)(a); and
+    (a) Is to be excluded from the withdrawal certificate given under subsection (3)﻿(a); and
     (b) Falls to be treated as withdrawal income subject to withdrawal tax in accordance with Part IZ of the Income Tax Act 1996.
   If a depositor with a Fishing Vessel Ownership Account makes any deposit into that Account on or after 30 June 1998, the provisions of Parts 1 and 2 continue to apply to that depositor and that Account, unless and until the Account is closed under section 30.
