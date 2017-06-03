@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2017-05-15_
+_Consolidation as at 2017-06-03_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -99,7 +99,6 @@ The purposes of this Act are—
       (ii) disobedience of a court order; or
       (iii) contempt of court
   - **sentence term** , in relation to a sentence of community detention, is the period that the sentence of community detention is in force
-  - **sentencing guidelines** means sentencing guidelines produced by the Sentencing Council in force under the Sentencing Council Act 2007
   - **short-term sentence** has the same meaning as in section 4(1) of the Parole Act 2002
   - **staff member of a prison** means a staff member within the meaning of section 3(1) of the Corrections Act 2004
   - **tainted property** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
