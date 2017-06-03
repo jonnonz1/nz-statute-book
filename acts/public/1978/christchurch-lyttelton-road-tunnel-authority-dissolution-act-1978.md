@@ -1,5 +1,5 @@
 # Christchurch–Lyttelton Road Tunnel Authority Dissolution Act 1978
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to abolish tolls for use of the Christchurch–Lyttelton Road Tunnel and to dissolve the Christchurch–Lyttelton Road Tunnel Authority
 
