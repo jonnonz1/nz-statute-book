@@ -1,5 +1,5 @@
 # Sentencing Council Act 2007
-_Consolidation as at 2007-11-01_
+_Consolidation as at 2017-06-03_
 
 ### 1 Title
 This Act is the Sentencing Council Act 2007.
@@ -77,8 +77,8 @@ The purposes of the Council are,—
   (c) 2 District Court Judges appointed by the Chief District Court Judge in consultation with the Chief Justice:
   (d) the chairperson of the Parole Board:
   (e) 5 members who are not Judges, appointed by the Governor-General on the recommendation of the House of Representatives.
-(2) The Chief Justice must appoint one of the Judges appointed under subsection (1)(a), (b), or (c) as the chairperson of the Council.
-(3) The Governor-General must, on the recommendation of the House of Representatives, appoint one of the members appointed under subsection (1)(e) as the deputy chairperson of the Council.
+(2) The Chief Justice must appoint one of the Judges appointed under subsection (1)﻿(a), (b), or (c) as the chairperson of the Council.
+(3) The Governor-General must, on the recommendation of the House of Representatives, appoint one of the members appointed under subsection (1)﻿(e) as the deputy chairperson of the Council.
 (4) The Chairperson may delegate any of his or her functions, either generally or specifically, to the deputy chairperson.
 (5) Appointments under subsections (1), (2), and (3) must be made by written notice by the appointing authority to the person appointed (with a copy sent to the Council and the Minister).
 (6) The notice must—
@@ -103,9 +103,9 @@ The Acts set out in Schedule 2 are amended in the manner set out in that schedul
   (a) except as provided in subsection (3), contain the title, or other short description of the subject matter, of the guideline or each guideline in the group, as the case may be; and
   (b) state that submissions on the draft guideline or guidelines may be made in writing by any person or in any other way the Council may direct; and
   (c) specify how a copy of the draft guideline or group of guidelines may be obtained, which may include, but must not be limited to, obtaining the draft guidelines from an Internet website; and
-  (d) specify the closing date for the receipt by the Council of submissions on the draft guideline or group of guidelines, which may be a date no earlier than 6 weeks after the date on which the notice is first published in a daily newspaper under subsection (1)(a); and
+  (d) specify the closing date for the receipt by the Council of submissions on the draft guideline or group of guidelines, which may be a date no earlier than 6 weeks after the date on which the notice is first published in a daily newspaper under subsection (1)﻿(a); and
   (e) specify the address of the place to which submissions on the draft guideline or group of guidelines may be delivered or sent.
-(3) If the notice published or given under subsection (1) is for the inaugural guidelines, the notice is not required to contain the matters described in subsection (2)(a).
+(3) If the notice published or given under subsection (1) is for the inaugural guidelines, the notice is not required to contain the matters described in subsection (2)﻿(a).
 
 ### 14 Statement to accompany draft guideline or group of guidelines
 A draft guideline or group of guidelines that is available for inspection must be accompanied by a statement of the guidelines' likely effect on the prison population.
@@ -146,7 +146,7 @@ Every guideline comes into force on the date that is 20 working days after the l
 (1) The Council must comply with subsection (2) if—
   (a) the last date on which a guideline or group of guidelines could have been disapplied under section 18 or 19 has passed; and
   (b) the guideline or guidelines were not disapplied.
-(2) The Council must, as soon as practicable after the date referred to in subsection (1)(a) and before the guidelines come into force under section 21,—
+(2) The Council must, as soon as practicable after the date referred to in subsection (1)﻿(a) and before the guidelines come into force under section 21,—
   (a) arrange for the publication in the Gazette of a notice showing the titles of the guidelines, the date on which the guidelines were produced by the Council, the date on which they will come into force, and where copies of the guidelines are available for inspection and purchase; and
   (b) make copies of the guidelines available on the Internet in an electronic form that is publicly accessible at all reasonable times for inspection and downloading free of charge; and
   (c) make copies of the guidelines available for purchase at a reasonable price.
@@ -167,7 +167,7 @@ Every guideline comes into force on the date that is 20 working days after the l
 ## Schedule 1 — Provisions relating to Sentencing Council
 
 ### 1 Criteria for recommendation by House of Representatives
-It is considered desirable that any person put forward for appointment under section 10(1)(e) should have the appropriate knowledge, skills, and experience to assist the Council to achieve its purposes and perform its functions, including expertise in 1 or more of the following areas:
+It is considered desirable that any person put forward for appointment under section 10(1)﻿(e) should have the appropriate knowledge, skills, and experience to assist the Council to achieve its purposes and perform its functions, including expertise in 1 or more of the following areas:
   (a) criminal justice matters:
   (b) policing:
   (c) the assessment of risk of reoffending:
@@ -201,10 +201,10 @@ It is considered desirable that any person put forward for appointment under sec
 A judicial member may be removed as a member at any time under the general law that applies to removal from office as a Judge.
 
 ### 7 Replacement of judicial members
-(1) A member appointed under section 10(1)(a), (b), or (c) may be replaced as a member before the expiry of his or her term,—
-  (a) in the case of a member appointed under section 10(1)(a), by the President of the Court of Appeal in consultation with the Chief Justice; and
-  (b) in the case of a member appointed under section 10(1)(b), by the Chief High Court Judge in consultation with the Chief Justice; and
-  (c) in the case of a member appointed under section 10(1)(c), by the Chief District Court Judge in consultation with the Chief Justice.
+(1) A member appointed under section 10(1)﻿(a), (b), or (c) may be replaced as a member before the expiry of his or her term,—
+  (a) in the case of a member appointed under section 10(1)﻿(a), by the President of the Court of Appeal in consultation with the Chief Justice; and
+  (b) in the case of a member appointed under section 10(1)﻿(b), by the Chief High Court Judge in consultation with the Chief Justice; and
+  (c) in the case of a member appointed under section 10(1)﻿(c), by the Chief District Court Judge in consultation with the Chief Justice.
 (2) The replacement must be made by written notice to the member (with a copy to the Council).
 (3) The notice must state the date on which the replacement takes effect, which must not be earlier than the date on which the notice is received.
 
@@ -218,13 +218,13 @@ A member of the Council is not entitled to compensation or other payment or bene
 
 ### 10 Resignation of members
 (1) A member of the Council may resign from office by written notice to—
-  (a) in the case of a member appointed under section 10(1)(a), the President of the Court of Appeal; and
-  (b) in the case of a member appointed under section 10(1)(b), the Chief High Court Judge; and
-  (c) in the case of a member appointed under section 10(1)(c), the Chief District Court Judge; and
-  (d) in the case of a member appointed under section 10(1)(e), the Minister.
+  (a) in the case of a member appointed under section 10(1)﻿(a), the President of the Court of Appeal; and
+  (b) in the case of a member appointed under section 10(1)﻿(b), the Chief High Court Judge; and
+  (c) in the case of a member appointed under section 10(1)﻿(c), the Chief District Court Judge; and
+  (d) in the case of a member appointed under section 10(1)﻿(e), the Minister.
 (2) The notice under subclause (1) must be signed by the member and the member must provide a copy of it to the Council.
 (3) The resignation is effective on receipt, by the appropriate person as provided by subclause (1), of the notice or at any later time specified in the notice.
-(4) In relation to a resignation under subclause (1)(d), the Minister must table a copy of the notice of resignation in the House of Representatives.
+(4) In relation to a resignation under subclause (1)﻿(d), the Minister must table a copy of the notice of resignation in the House of Representatives.
 
 ### 11 Members ceasing to hold office
 (1) A member of the Council ceases to hold office if he or she—
@@ -246,7 +246,7 @@ A member of the Council is not entitled to compensation or other payment or bene
   (b) an employee of the Council:
   (c) any other person or persons approved by its governing body.
 (2) The Council's governing body must not delegate—
-  (a) the power to produce sentencing and parole guidelines under section 9(1)(a) and (b):
+  (a) the power to produce sentencing and parole guidelines under section 9(1)﻿(a) and (b):
   (b) the general power of delegation.
 
 ### 14 Procedure generally
@@ -276,6 +276,6 @@ The chief executives of the Ministry of Justice and the Department of Correction
 
 ### 20 Application of certain provisions of Crown Entities Act 2004
 (1) For the purposes of the application of the provisions of the Crown Entities Act 2004 listed in sections 45M and 45N and Schedule 4 of the Public Finance Act 1989, the responsible Minister is the Minister of Justice.
-(2) A request for information under section 133 of the Crown Entities Act 2004 may not be refused under section 134(1)(b) of that Act (which relates to the refusal to supply information relating to the carrying out of statutorily independent functions) if the request for information by the responsible Minister relates to the operations and performance of the Council.
+(2) A request for information under section 133 of the Crown Entities Act 2004 may not be refused under section 134(1)﻿(b) of that Act (which relates to the refusal to supply information relating to the carrying out of statutorily independent functions) if the request for information by the responsible Minister relates to the operations and performance of the Council.
 
 ## Schedule 2 — Amendments to other enactments
