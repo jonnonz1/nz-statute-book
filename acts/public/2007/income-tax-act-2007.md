@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2017-06-03_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -39637,8 +39637,8 @@ In this Act, unless the context requires otherwise,—
   - **election commencement year** , for an interest holder and an elective attributing CFC, or elective attributing FIF, of the interest holder for an accounting period, means the first year for which the election under section EX 73 (Election that CFC not non-attributing active CFC or FIF not non-attributing active FIF) for the accounting period was effective
   - **election day worker** means a person to whom all the following apply:
     (a) the person is engaged as a Deputy Returning Officer, poll clerk, interpreter, or usher, or for any other purpose, for—
-      (i) an election or poll held under the provisions of the Electoral Act 1993 or the Local Electoral Act 2001 or the Local Restoration Polls Act 1990; or
-      (ii) an election or poll to which any of the provisions of the Electoral Act 1993 or the Local Electoral Act 2001 or the Local Restoration Polls Act 1990 applies; or
+      (i) an election or poll held under the provisions of the Electoral Act 1993 or the Local Electoral Act 2001; or
+      (ii) an election or poll to which any of the provisions of the Electoral Act 1993 or the Local Electoral Act 2001 applies; or
       (iii) an election or poll held simultaneously with and in the same premises as an election or poll referred to in subparagraph (i) or (ii); and
     (b) the person is paid by the authority controlling the election or poll; and
     (c) the person’s payment is exclusively for work done or services rendered immediately before, on, or immediately after the day on which the election or poll is held
