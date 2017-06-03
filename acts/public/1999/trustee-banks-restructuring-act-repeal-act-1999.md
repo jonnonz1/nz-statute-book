@@ -1,5 +1,5 @@
 # Trustee Banks Restructuring Act Repeal Act 1999
-_Consolidation as at 1999-05-21_
+_Consolidation as at 2017-06-03_
 
 > An Act to repeal the Trustee Banks Restructuring Act 1988
 
@@ -113,9 +113,9 @@ For the purposes of the Inland Revenue Acts and any other enactment that imposes
 
 ### 15 Ownership accounts
 (1) On and after the appointed day, a trustee bank’s successor company is deemed to be an authorised savings institution for the purposes of—
-  (a) the Farm Ownership Savings Act 1974:
+  (a)
   (b) the Home Ownership Savings Act 1974:
-  (c) the Fishing Vessel Ownership Savings Act 1977.
-(2) A Farm Ownership Account (within the meaning of section 2(1) of the Farm Ownership Savings Act 1974) subsisting with a trustee bank immediately before the appointed day is, on and after the appointed day, deemed to be a Farm Ownership Account with that trustee bank’s successor company, and the provisions of that Act apply with any necessary modifications.
+  (c)
+(2)
 (3) A Home Ownership Account (within the meaning of section 2(1) of the Home Ownership Savings Act 1974) subsisting with a trustee bank immediately before the appointed day is, on and after the appointed day, deemed to be a Home Ownership Account with that trustee bank’s successor company, and the provisions of that Act apply with any necessary modifications.
-(4) A Fishing Vessel Ownership Account (within the meaning of section 2(1) of the Fishing Vessel Ownership Savings Act 1977) subsisting with a trustee bank immediately before the appointed day is, on and after the appointed day, deemed to be a Fishing Vessel Ownership Account with that trustee bank’s successor company, and the provisions of that Act apply with any necessary modifications.
+(4)
