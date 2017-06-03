@@ -1,5 +1,5 @@
 # Municipal Insurance Act 1960
-_Consolidation as at 2003-07-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to confer certain powers on City Councils, Borough Councils, and Town Councils in relation to insurance
 
