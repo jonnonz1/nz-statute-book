@@ -1,5 +1,5 @@
 # Finance Act (No 2) 1952
-_Consolidation as at 2003-04-30_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision with respect to public finance and other matters
 
