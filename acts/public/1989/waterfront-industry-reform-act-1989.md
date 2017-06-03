@@ -1,5 +1,5 @@
 # Waterfront Industry Reform Act 1989
-_Consolidation as at 2002-01-01_
+_Consolidation as at 2017-06-03_
 
 > An Act—ato reform the law relating to employment on the waterfront, and, in particular,—ito remove the special procedures regulating the conduct of relations between workers and employers in the waterfront industry; andiito provide for an orderly transition from the existing statutory framework regulating employment on the waterfront; andbto provide for the dissolution of the Waterfront Industry Commission; andcto repeal the Waterfront Industry Commission Act 1976; anddto make provision incidental thereto
 
@@ -31,8 +31,8 @@ The Waterfront Industry Commission is dissolved as from the close of 30 Septembe
 (1) Until the close of the specified date, the Commission shall have, in addition to the functions conferred on it by the Waterfront Industry Commission Act 1976, the function of providing to the liquidator such advice and assistance as the liquidator may require in the performance of the liquidator's duties and functions under this Act.
 (2) In continuing to carry out its functions, the Commission shall take into account the provisions of this Act and, in making any decision, shall give due regard to—
   (a) the need for the Commission and its business to be wound up in an orderly manner; and
-  (b) the plan prepared by the liquidator under section 10(b)(i); and
-  (c) any advice given by the liquidator under section 10(b)(ii).
+  (b) the plan prepared by the liquidator under section 10(b)﻿(i); and
+  (c) any advice given by the liquidator under section 10(b)﻿(ii).
 
 ### 6 Power of Commission to impose levy
 The Commission may, in addition to the powers conferred on it by section 11 of the Waterfront Industry Commission Act 1976, impose a levy either on a national basis or on a port by port basis, as the Commission thinks appropriate, on the owners, agents, or masters of ships, and on any other employers of waterside workers, for the purpose of meeting its obligations under section 24.
@@ -207,7 +207,7 @@ Before exercising any power in relation to the liquidator's functions and duties
 The enactments specified in the Schedule are repealed as from the close of the specified date.
 
 ### 37 Consequential amendment
-Amendment(s) incorporated in the Act(s).
+Amendment(s) incorporated in the Acts.
 
 **Savings and transitional provisions**
 
