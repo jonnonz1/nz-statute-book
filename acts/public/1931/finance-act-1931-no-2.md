@@ -1,5 +1,5 @@
 # Finance Act 1931 (No 2)
-_Consolidation as at 1975-04-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision with respect to public finance and other matters
 
