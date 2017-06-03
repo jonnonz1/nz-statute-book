@@ -1,5 +1,5 @@
 # Taxation Acts Repeal Act 1986
-_Consolidation as at 1995-04-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to repeal certain taxation Acts
 
@@ -23,14 +23,14 @@ The following enactments are hereby repealed:
 (2) The Orders in Council set out in Schedule 2 are hereby revoked.
 
 ### 5 Savings
-(1) For all purposes whatever in respect of any— which at the commencement of this Act has been already assessed or paid or is still assessable or payable in accordance with the provisions of any enactment hereby repealed, that enactment and all the provisions thereof, including its penal provisions, and all Orders in Council, warrants, and other acts of authority originating thereunder, shall, notwithstanding the repeal thereof, be deemed to remain in full force and effect; and all proceedings under any such enactment, including proceedings for the recovery of any fine or penalty in respect of any offence committed, whether before or after the commencement of this Act, may be instituted or continued accordingly as if the enactment concerned had not been repealed.
+(1) For all purposes whatever in respect of any—which at the commencement of this Act has been already assessed or paid or is still assessable or payable in accordance with the provisions of any enactment hereby repealed, that enactment and all the provisions thereof, including its penal provisions, and all Orders in Council, warrants, and other acts of authority originating thereunder, shall, notwithstanding the repeal thereof, be deemed to remain in full force and effect; and all proceedings under any such enactment, including proceedings for the recovery of any fine or penalty in respect of any offence committed, whether before or after the commencement of this Act, may be instituted or continued accordingly as if the enactment concerned had not been repealed.
   (a) motor spirits duty; and
   (b) sales tax; and
   (c) international departure tax; and
   (d) domestic air travel tax; and
   (e) film hire tax,—
 (2) All proceedings in respect of offences committed or alleged to be committed, whether before or after the commencement of this Act, against any enactment hereby repealed may be instituted or continued as if this Act had not been passed.
-(3) Where, pursuant to section 29(2)(b) of the Sales Tax Act 1974, any wholesaler or manufacturing retailer has an accounting period longer than 1 calendar month, the last day of any accounting period that would, apart from this subsection, be on or after 1 October 1986 shall be 30 September 1986.
+(3) Where, pursuant to section 29(2)﻿(b) of the Sales Tax Act 1974, any wholesaler or manufacturing retailer has an accounting period longer than 1 calendar month, the last day of any accounting period that would, apart from this subsection, be on or after 1 October 1986 shall be 30 September 1986.
 
 ## Schedule 1 — Consequential repeals
 
