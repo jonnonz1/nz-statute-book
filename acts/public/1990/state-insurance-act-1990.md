@@ -1,5 +1,5 @@
 # State Insurance Act 1990
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to enable a private company to be incorporated under the Companies Act 1955, and to vest the assets and liabilities of the State Insurance Office and the State Insurance General Manager in that company, and to repeal the State Insurance Act 1963
 
@@ -76,7 +76,7 @@ Nothing effected or authorised by this Act—
 (1) Nothing in any other enactment or rule of law prevents—
   (a) the use by the company or by a related company of the word State or the words State Insurance:
   (b) the use before the close of 31 December 1990 by the company or a related company of the words State Insurance Office or State Insurance General Manager in substitution for the name of the company or related company in a document or form that is printed or that is partly printed and partly written.
-(2) Without limiting section 7, a reference in a document or form to which subsection (1)(b) applies to the words State Insurance Office or State Insurance General Manager shall be deemed to be a reference to the company or a related company, as the case may be.
+(2) Without limiting section 7, a reference in a document or form to which subsection (1)﻿(b) applies to the words State Insurance Office or State Insurance General Manager shall be deemed to be a reference to the company or a related company, as the case may be.
 (3) For the purposes of this section, the expression related company has the same meaning as in section 2(5) of the Companies Act 1955.
 
 ### 11 Registers
