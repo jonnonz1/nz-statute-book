@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -7190,8 +7190,8 @@ In any proceedings against a person for refusing or failing to provide a tax ret
     (cb) where the person is a tax pooling intermediary, money that is paid to the Commissioner, on the date the Commissioner receives the payment;—
     (d) a Home Lay-by Account within the meaning of the Post Office Act 1959; or
     (e)
-    (f) a Farm Ownership Account within the meaning of the Farm Ownership Savings Act 1974; or
-    (g) a Fishing Vessel Ownership Account within the meaning of the Fishing Vessel Ownership Savings Act 1977
+    (f)
+    (g)
   - **bank** means—
     (a) any building society registered under the Building Societies Act 1965, in respect of any deposits with the building society:
     (b) any person (not being a person of the kind referred to in paragraph (a)) that is a bank within the meaning of the Banking Act 1982
