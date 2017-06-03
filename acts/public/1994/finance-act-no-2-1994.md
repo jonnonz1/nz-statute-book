@@ -1,5 +1,5 @@
 # Finance Act (No 2) 1994
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -13,9 +13,9 @@ This Act may be cited as the Finance Act (No 2) 1994.
 
 ### 3 Local Authorities Loans Board: appointment of certain members
 (1) For the avoidance of doubt, it is hereby declared that—
-  (a) no appointment under section 4(1)(d) of the Local Authorities Loans Act 1956 (being an appointment made before the commencement of this Act) of a member of the Local Authorities Loans Board constituted by section 4(1) of that Act (hereafter in this section and section 4 of this Act referred to as the Board) is invalid by reason only that it was made for a fixed term; and
+  (a) no appointment under section 4(1)﻿(d) of the Local Authorities Loans Act 1956 (being an appointment made before the commencement of this Act) of a member of the Local Authorities Loans Board constituted by section 4(1) of that Act (hereafter in this section and section 4 of this Act referred to as the Board) is invalid by reason only that it was made for a fixed term; and
   (b) except as provided in subsection (2), the term of every member of the Board appointed for a fixed term before that commencement ended on the expiration of the term.
-(2) Every member of the Board holding office under the said section 4(1)(d) immediately before 1 July 1992 shall be deemed to have been appointed for a term expiring with the close of 19 May 1994; and the validity of every action of the Board taken before 20 May 1994 shall be determined accordingly.
+(2) Every member of the Board holding office under the said section 4(1)﻿(d) immediately before 1 July 1992 shall be deemed to have been appointed for a term expiring with the close of 19 May 1994; and the validity of every action of the Board taken before 20 May 1994 shall be determined accordingly.
 
 ### 4 Local Authorities Loans Board: validating certain decisions
 (1) Every matter determined by the Board that was, at a time before 1 April 1994,—by all the persons who were then members of the Board is hereby deemed to have been as validly and effectually determined as if it had been determined at a meeting of the Board duly called and constituted.
@@ -40,9 +40,9 @@ This Act may be cited as the Finance Act (No 2) 1994.
   (b) the easements, created by the declaration (published in the Gazette on 17 April 1969 at page 750) that the land described in subsection (4) was taken for a mental hospital, over the land described in Schedule 3 of that declaration; and
   (c) the easements over the land described in subsection (5) taken by the declaration published in the Gazette on 18 December 1969 at page 2636; and
   (d) the easements over the land described in subsection (6) taken by the declaration published in the Gazette on 22 October 1970 at page 1919.
-(4) The land referred to in subsection (3)(b) is all that parcel of land containing 35.2 perches, situated in Block III, Waikouaiti Survey District, being part Lots 5 and 6 on Deposited Plan 2084, being part Section 2 as delineated on Plan SO 15930, taken for a mental hospital by Gazette notice 341208 (Otago Registry).
-(5) The land referred to in subsection (3)(c) is all that piece of land containing 1 acre 1 rood 0.7 perches, situated in Block XII, Waikouaiti Survey District, Otago RD, being part Sections 67A, 67B, 67C, 67D, 68, 69, and 70; as the same is more particularly delineated on the plan marked M.O.W. 23032 (SO 15929) deposited in the office of the Minister of Works in Wellington, and thereon coloured yellow.
-(6) The land referred to in subsection (3)(d) is all that piece of land containing 23.3 perches, situated in Block III, Waikouaiti Survey District, Otago RD, being part Sections 49A and 50; as the same is more particularly delineated on the plan marked M.O.W. 23033 (SO 15930) deposited in the office of the Minister of Works in Wellington, and thereon coloured yellow.
+(4) The land referred to in subsection (3)﻿(b) is all that parcel of land containing 35.2 perches, situated in Block III, Waikouaiti Survey District, being part Lots 5 and 6 on Deposited Plan 2084, being part Section 2 as delineated on Plan SO 15930, taken for a mental hospital by Gazette notice 341208 (Otago Registry).
+(5) The land referred to in subsection (3)﻿(c) is all that piece of land containing 1 acre 1 rood 0.7 perches, situated in Block XII, Waikouaiti Survey District, Otago RD, being part Sections 67A, 67B, 67C, 67D, 68, 69, and 70; as the same is more particularly delineated on the plan marked M.O.W. 23032 (SO 15929) deposited in the office of the Minister of Works in Wellington, and thereon coloured yellow.
+(6) The land referred to in subsection (3)﻿(d) is all that piece of land containing 23.3 perches, situated in Block III, Waikouaiti Survey District, Otago RD, being part Sections 49A and 50; as the same is more particularly delineated on the plan marked M.O.W. 23033 (SO 15930) deposited in the office of the Minister of Works in Wellington, and thereon coloured yellow.
 (7) The District Land Registrar of the Otago Land Registration District shall do all things, and make all entries in the registers, necessary to give effect to subsection (1).
 
 ## Part 2 — Confirmation and validation of subordinate legislation
