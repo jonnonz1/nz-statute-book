@@ -1,5 +1,5 @@
 # Finance Act (No 3) 1940
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision with respect to public finance and other matters
 
