@@ -1,5 +1,5 @@
 # Parole Amendment Act 2007
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2017-06-03_
 
 ### 1 Title
 This Act is the Parole Amendment Act 2007.
@@ -11,26 +11,15 @@ This Act comes into force on a day to be appointed by the Governor-General by Or
 This Act amends the Parole Act 2002.
 
 ### 4 Interpretation
-(1) Section 4(1) is amended by inserting the following definitions in their appropriate alphabetical order:
-  - **initial period** means the period that commenced on 30 June 2002 and ended with the close of the day that is immediately before the commencement of section 48 of the Parole Amendment Act 2007
-  - **parole guidelines** means parole guidelines made by the Sentencing Council under the Sentencing Council Act 2007.
-(2) Section 4(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
+(1)
+(2) Section 4(1) is amended by inserting the following definitions in their appropriate alphabetical order:
   - **residential restrictions** means the special conditions described in section 33
   - **standard extended supervision conditions** means the standard extended supervision conditions set out in section 107JA.
-(3) Section 4(1) is amended by repealing the definitions of long-term sentence and short-term sentence and substituting the following definitions:.
-  - **long-term sentence** means a sentence of imprisonment that is—
-    (a) a determinate sentence, whenever imposed, that is longer than 12 months (subject to subsection (3)); or
-    (b) an indeterminate sentence, whenever imposed; or
-    (c) a notional single sentence that is longer than 12 months (subject to subsection (3))
-  - **short-term sentence** means a sentence of imprisonment that is—
-    (a) a determinate sentence, whenever imposed, of 12 months or less (subject to subsection (3)); or
-    (b) a notional single sentence of 12 months or less (subject to subsection (3))
+(3)
 (4) Section 4(1) is amended by repealing the definitions of detention conditions, home detention, and standard detention conditions.
 (5) The definition of special conditions in section 4(1) is amended by adding , and includes residential restrictions.
 (6) The definition of variation in section 4(1) is amended by omitting or detention conditions.
-(7) Section 4 is amended by adding the following subsections:
-  (3) For the purpose only of classifying a sentence (including a notional single sentence) in terms of the definitions of long-term sentence or short-term sentence, the length of every determinate sentence imposed in the initial period is deemed to be reduced by one half.
-  (4) To avoid any doubt, subsection (3) is limited to the purpose stated in that subsection and does not otherwise affect the length of the sentence.
+(7)
 
 ### 5 Overview of release
 (1) Section 6 is amended by repealing subsection (3) and substituting the following subsection:
@@ -40,12 +29,12 @@ This Act amends the Parole Act 2002.
 (2) Section 6(5) is repealed.
 
 ### 6 Guiding principles
-(1) Section 7(2)(a) is amended by omitting or detention conditions.
-(2) Section 7(2)(b) is amended by inserting , subject to any of sections 13 to 13AE, after must.
+(1) Section 7(2)﻿(a) is amended by omitting or detention conditions.
+(2) Section 7(2)﻿(b) is amended by inserting , subject to any of sections 13 to 13AE, after must.
 
 ### 7 Part applies to all offenders
-(1) Section 8(1)(c) is amended by omitting or for home detention.
-(2) Section 8(1)(d) is amended by omitting or home detention,.
+(1) Section 8(1)﻿(c) is amended by omitting or for home detention.
+(2) Section 8(1)﻿(d) is amended by omitting or home detention,.
 
 ### 8 General rules about information to be given to offenders
 Section 13 is amended by inserting the following subsection after subsection (5):
@@ -68,7 +57,7 @@ The following sections are inserted after section 13:Application for confidentia
       (ii) any officials specified in the order by name or position, being officials who require access to the information to perform their functions in relation to the Board's determination of the current matter or the implementation of that determination:
     (b) forbid the disclosure or publication (other than to the persons mentioned in paragraph (a)) of any particulars that identify, or may lead to the identification of, any person who is the source of the information:
     (c) require the members of the Board involved in considering and determining the current matter to receive the information in the absence of any person other than—
-      (i) any officials who are permitted access to the information under paragraph (a)(ii) and whose presence the members consider necessary; and
+      (i) any officials who are permitted access to the information under paragraph (a)﻿(ii) and whose presence the members consider necessary; and
       (ii) if the members receive the oral evidence of the person who is the source of the information, that person.
   (4) To avoid doubt, anything that may not be disclosed or published under a confidentiality order may not be disclosed—
     (a) to the offender; or
@@ -91,12 +80,12 @@ The following sections are inserted after section 13:Application for confidentia
 
 ### 11 Special conditions
 (1) Section 15(1) is amended by omitting , or if the standard detention conditions apply to the offender.
-(2) Section 15(3) is amended by inserting the following paragraph after paragraph (a):.
+(2) Section 15(3) is amended by inserting the following paragraph after paragraph (a):
   (ab) residential restrictions:
 
 ### 12 Electronic monitoring
-(1) Section 15A(1) is amended by omitting (whether imposed as a special condition under section 15 or as a standard detention condition under section 36) and substituting imposed under section 15(3)(f).
-(2) Section 15A(2)(a) is amended by omitting , detention conditions,.
+(1) Section 15A(1) is amended by omitting (whether imposed as a special condition under section 15 or as a standard detention condition under section 36) and substituting imposed under section 15(3)﻿(f).
+(2) Section 15A(2)﻿(a) is amended by omitting , detention conditions,.
 (3) Section 15A(2) is amended by adding the following paragraph:
   (d) to verify that the offender has not tampered or otherwise interfered with the ability of the electronic monitoring equipment to operate effectively and accurately.
 (4) Section 15A(4) is amended by repealing paragraph (c) and substituting the following paragraph:
@@ -109,15 +98,14 @@ Section 17(2) is amended by omitting or who is on home detention.
 
 ### 14 Conditions applying to release at statutory release date
 Section 18 is amended by inserting the following subsection before subsection (2A):
-  (2AA) Despite subsection (2)(a), if the Board imposes any special conditions on the offender that the Board considers incompatible with all or any of the standard release conditions, the Board may suspend the incompatible standard release conditions during the period in which those special conditions are in force, and time runs on the suspended conditions during that period.
+  (2AA) Despite subsection (2)﻿(a), if the Board imposes any special conditions on the offender that the Board considers incompatible with all or any of the standard release conditions, the Board may suspend the incompatible standard release conditions during the period in which those special conditions are in force, and time runs on the suspended conditions during that period.
 
 ### 15 New section 23 substituted
 Section 23 is repealed and the following section substituted:No consideration for parole of offenders on compassionate release
   An offender who is released on compassionate release may not be considered for parole by the Board.
 
 ### 16 Early referral and consideration for parole
-(1) Section 25(1) is amended by omitting exceptional circumstances and substituting special circumstances relating to the offender.
-(2) Section 25(5)(b) is amended by inserting (as that section was in force in the initial period) after section 86.
+[Repealed]
 
 ### 17 Direction for release on parole
 Section 28 is amended by inserting the following subsection before subsection (1):
@@ -128,11 +116,11 @@ Section 29 is repealed and the following section substituted:Release conditions 
   (1) In releasing an offender on parole, the Board—
     (a) must impose the standard release conditions on the offender; and
     (b) may impose any special conditions on that offender that the Board specifies.
-  (2) Despite subsection (1)(a), if the Board imposes any special conditions on the offender that the Board considers incompatible with all or any of the standard release conditions, the Board may suspend the incompatible standard release conditions during the period in which those special conditions are in force, and time runs on the suspended conditions during that period.
+  (2) Despite subsection (1)﻿(a), if the Board imposes any special conditions on the offender that the Board considers incompatible with all or any of the standard release conditions, the Board may suspend the incompatible standard release conditions during the period in which those special conditions are in force, and time runs on the suspended conditions during that period.
   (3) The standard release conditions imposed on an offender are in force—
     (a) in the case of an offender who is subject to 1 or more determinate sentences, for the period that the Board specifies; and
     (b) in the case of an offender who is subject to an indeterminate sentence, for the rest of the offender's life.
-  (4) The period that the Board specifies under subsection (3)(a) may not be less than 6 months and may not extend for more than 6 months after the offender's statutory release date.
+  (4) The period that the Board specifies under subsection (3)﻿(a) may not be less than 6 months and may not extend for more than 6 months after the offender's statutory release date.
   (5) If the Board imposes special conditions on an offender, the special conditions are in force for the period that the Board specifies for the conditions.
   (6) Special conditions imposed on an offender who is subject to 1 or more determinate sentences may not be in force for a longer period than the offender's standard release conditions.
 
@@ -146,16 +134,16 @@ The following sections are inserted after section 29:Release conditions for pers
     (a) ask the Department of Corrections for a progress report on the offender's compliance with the conditions:
     (b) require the offender to attend a hearing notified to the offender in writing.
   (3) Each power specified in subsection (2) may be exercised on 1 or more occasions during the specified period, but may not be exercised more frequently than at 3-monthly intervals.
-  (4) A hearing that an offender is required to attend under subsection (2)(b)—
+  (4) A hearing that an offender is required to attend under subsection (2)﻿(b)—
     (a) is a special condition imposed on the offender; and
     (b) is conducted in accordance with any directions given by the Board, including, without limitation, that the offender attend otherwise than in person (for instance, by telephone or video link); and
     (c) is not subject to sections 43 to 50B; but
     (d) is subject to section 13 (which is about the information to be given to, or withheld from, the offender).
-  (5) At a hearing that an offender is required to attend under subsection (2)(b), the Board may, if it considers it appropriate to do so, take 1 or more of the following actions:
+  (5) At a hearing that an offender is required to attend under subsection (2)﻿(b), the Board may, if it considers it appropriate to do so, take 1 or more of the following actions:
     (a) vary any special conditions previously imposed on the offender:
     (b) impose new special conditions on the offender:
     (c) if the offender is on parole or compassionate release, and if the Board is satisfied of the matters stated in section 62, make an order in respect of the offender that has the same effect as an interim recall order under that section.
-  (6) Sections 57 and 58 apply, with any necessary modifications, to any action taken under subsection (5)(a) or (b).
+  (6) Sections 57 and 58 apply, with any necessary modifications, to any action taken under subsection (5)﻿(a) or (b).
   (7) In this section, specified period, in relation to an offender released from detention, means a period of—
     (a) 12 months from the date of release, if the offender is released on parole or compassionate release:
     (b) 6 months from the date of release, if the offender is released at the statutory release date.
@@ -163,7 +151,7 @@ The following sections are inserted after section 29:Release conditions for pers
 ### 20 New heading and sections 33 to 35 substituted
 (1) The heading above section 33 is repealed, and the following heading substituted: Residential restrictions.
 (2) Sections 33 to 37 are repealed and the following sections substituted:Residential restrictionsPrior report on suitability of residential restrictionsResidential restrictions only to be imposed if residence suitable and occupants consent
-  (1) The Board may impose on an offender the special conditions referred to in section 15(3)(ab) (residential restrictions) if the residence in which it is proposed that the offender reside is in an area in which a residential restriction scheme is operated by the chief executive.
+  (1) The Board may impose on an offender the special conditions referred to in section 15(3)﻿(ab) (residential restrictions) if the residence in which it is proposed that the offender reside is in an area in which a residential restriction scheme is operated by the chief executive.
   (2) An offender on whom residential restrictions are imposed is required—
     (a) to stay at a specified residence:
     (b) to be under the supervision of a probation officer and to co-operate with, and comply with any lawful direction given by, that probation officer:
@@ -172,15 +160,15 @@ The following sections are inserted after section 29:Release conditions for pers
       (ii) at all times:
     (d) to submit, in accordance with the directions of a probation officer, to the electronic monitoring of compliance with his or her residential restrictions:
     (e) to keep in his or her possession the licence issued under section 53(3) and, if requested to do so by a member of the police or a probation officer, must produce the licence for inspection.
-  (3) Any conditions imposed under subsection (2)(c)(ii) may not be imposed for longer than the shortest of the following periods:
+  (3) Any conditions imposed under subsection (2)﻿(c)﻿(ii) may not be imposed for longer than the shortest of the following periods:
     (a) the period for which the standard release conditions apply:
     (b) 12 months:
     (c) if those conditions have previously been imposed on the offender in respect of the same release from detention, 12 months less the time for which those conditions have previously been imposed.
-  (4) An offender may, despite any conditions imposed under subsection (2)(c), leave the residence to which the residential restrictions relate—
+  (4) An offender may, despite any conditions imposed under subsection (2)﻿(c), leave the residence to which the residential restrictions relate—
     (a) to seek urgent medical or dental treatment; or
     (b) to avoid or minimise a serious risk of death or injury to the offender or any other person; or
     (c) for humanitarian reasons approved by a probation officer.
-  (5) In any case where the conditions are of the kind specified in subsection (2)(c)(ii), the offender may, with the approval of a probation officer, leave the residence to which the residential restrictions relate—
+  (5) In any case where the conditions are of the kind specified in subsection (2)﻿(c)﻿(ii), the offender may, with the approval of a probation officer, leave the residence to which the residential restrictions relate—
     (a) to comply with any special conditions; or
     (b) to seek or engage in employment; or
     (c) to attend training or other rehabilitative or reintegrative activities or programmes; or
@@ -219,7 +207,7 @@ Section 42 is amended by omitting from paragraph (b) ; or and also by repealing 
 
 ### 23 Start of process
 (1) Section 43(1) is amended by omitting or home detention and also by repealing paragraph (d).
-(2) Section 43(2)(d) is repealed.
+(2) Section 43(2)﻿(d) is repealed.
 
 ### 24 Information for victims
 Section 44(d) is repealed.
@@ -247,7 +235,7 @@ Section 47 is repealed and the following section substituted:Interviews of offen
   (3) The offender may have a support person with him or her, and the support person may, with the consent of the offender and the permission of the member conducting the interview, speak in support of the offender.
 
 ### 28 Decisions must be notified
-(1) Section 50(1)(a) is amended by omitting or to commence home detention.
+(1) Section 50(1)﻿(a) is amended by omitting or to commence home detention.
 (2) Section 50 is amended by omitting or detention in each place where it appears.
 
 ### 29 Decisions to be notified to certain victims
@@ -261,7 +249,7 @@ Section 52(1) is amended by omitting or from home detention.
 
 ### 32 Licence issued on release
 (1) Section 53(1) is amended by omitting or from home detention.
-(2) Section 53(1)(a) is amended by omitting (if any).
+(2) Section 53(1)﻿(a) is amended by omitting (if any).
 (3) Section 53 is amended by repealing subsection (3) and substituting the following subsection:
   (3) An offender subject to residential restrictions must, before the restrictions come into force, be issued with a licence that sets out—
     (a) the residential restrictions; and
@@ -291,10 +279,10 @@ Section 57(2) is amended by inserting , or withheld from, after to be given to.
 
 ### 37 Board determines application for variation or discharge
 (1) Section 58(1) is amended by omitting or detention condition.
-(2) Section 58(2)(b) is amended by omitting or detention.
+(2) Section 58(2)﻿(b) is amended by omitting or detention.
 
 ### 38 Making recall application
-(1) Section 60(2)(c) is amended by omitting , home detention,.
+(1) Section 60(2)﻿(c) is amended by omitting , home detention,.
 (2) Section 60 is amended by inserting the following subsection after subsection (2):
   (2A) The Commissioner of Police may make a recall application in respect of any offender described in subsection (1) or (2) on the ground stated in section 61(a).
 (3) Section 60 is amended by repealing subsection (4) and substituting the following subsection:
@@ -303,7 +291,7 @@ Section 57(2) is amended by inserting , or withheld from, after to be given to.
 ### 39 Grounds for recall
 (1) Section 61(b) is amended by omitting or detention conditions.
 (2) Section 61(c) is amended by inserting , whether or not this has resulted in a conviction after imprisonment.
-(3) Section 61 is amended by repealing paragraph (d) and substituting the following paragraph:.
+(3) Section 61 is amended by repealing paragraph (d) and substituting the following paragraph:
   (d) in the case of an offender who is subject to residential restrictions,—
     (i) the offender is jeopardising the safety of any person at his or her residence; or
     (ii) a suitable residence in an area in which a residential restriction scheme is operated by the chief executive is no longer available; or
@@ -319,15 +307,15 @@ Section 62(1) is amended by repealing paragraph (c) and substituting the followi
 Section 65(3) is amended by inserting , or withheld from, after to be given to.
 
 ### 42 Board may make final recall order
-Section 66(4)(b) is amended by omitting or detention conditions.
+Section 66(4)﻿(b) is amended by omitting or detention conditions.
 
 ### 43 Review of decisions
-Section 67(2) is amended by inserting the following paragraphs before paragraph (a):.
+Section 67(2) is amended by inserting the following paragraphs before paragraph (a):
   (aa) a decision under section 13AB to make, or refuse to make, a confidentiality order; or
   (aab) a decision under section 13AE to vary or rescind, or to refuse to vary or rescind, a confidentiality order; or
 
 ### 44 Powers of court on appeal
-Section 70(2)(b)(ii) is amended by omitting or standard detention.
+Section 70(2)﻿(b)﻿(ii) is amended by omitting or standard detention.
 
 ### 45 Offence to breach conditions
 (1) Section 71(1) is amended by omitting release conditions or detention conditions and substituting standard release conditions or any special conditions.
@@ -347,28 +335,16 @@ Section 72 is repealed and the following section substituted:Offence to refuse e
 Section 73(2) is amended by omitting or detention conditions.
 
 ### 48 Non-parole periods
-(1) Section 84 is amended by repealing subsections (1) and (2) and substituting the following subsections:
-  (1) The non-parole period of a long-term sentence (being a determinate sentence other than a notional single sentence or a sentence to which subsection (2) applies) is,—
-    (a) if the sentence is imposed after the initial period, 12 months or two-thirds of the length of the sentence (whichever is longer):
-    (b) if the sentence is imposed in the initial period, one-third of the length of the sentence.
-  (2) The non-parole period of a sentence in respect of which the court has imposed a minimum term of imprisonment (whether under section 86 (as in force in the initial period), 89, or 103 of the Sentencing Act 2002) is the minimum term imposed.
-(2) Section 84(5) is amended by repealing paragraph (a) and substituting the following paragraph:
-  (a) every short-term sentence within the notional single sentence must be treated as if it had a non-parole period of—
-    (i) two-thirds of its length, if the sentence is imposed after the initial period:
-    (ii) one-third of its length, if the sentence is imposed in the initial period; and.
+[Repealed]
 
 ### 49 New section 86 substituted
-Section 86 is repealed and the following section substituted:Release date of sentence
-  (1) The release date of every determinate sentence, including every notional single sentence, is its sentence expiry date.
-  (2) For the purpose of applying subsection (1), the length of every short-term sentence imposed in the initial period (other than any such sentence imposed in that period that forms part of a notional single sentence that is a long-term sentence) is deemed to be reduced by one half.
-  (3) An indeterminate sentence does not have a release date.
-  (4) This section is subject to section 87.
+[Repealed]
 
 ### 50 Meaning of pre-sentence detention
-(1) Section 91(5) is amended by repealing paragraph (a) and substituting the following paragraph:.
+(1) Section 91(5) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) under legal custody in accordance with the Corrections Act 2004 and serving a sentence of imprisonment; or
 (2) Section 91 is amended by repealing subsection (6) and substituting the following subsection:
-  (6) In subsection (5)(a), serving a sentence of imprisonment includes time spent in a prison following an application for a recall order, but only if—
+  (6) In subsection (5)﻿(a), serving a sentence of imprisonment includes time spent in a prison following an application for a recall order, but only if—
     (a) a final recall order is made following that application; and
     (b) the offender was not, immediately before the application for the recall order was made, subject to conditions related to the offender's home detention under a direction of the Board given before the commencement of section 72 of the Parole Amendment Act 2007 or in accordance with that section, whether those conditions were suspended or not.
 
@@ -378,7 +354,7 @@ Section 86 is repealed and the following section substituted:Release date of sen
 (3) Section 94(c) is repealed.
 
 ### 52 Application of this Part to offenders subject to pre-cd sentences
-Section 97(1)(b) is amended by inserting (as in force before the commencement of section 72 of the Parole Amendment Act 2007) after section 35.
+Section 97(1)﻿(b) is amended by inserting (as in force before the commencement of section 72 of the Parole Amendment Act 2007) after section 35.
 
 ### 53 Variation and cancellation of final release dates
 Section 106(6) is amended by inserting (directed by the Board before the commencement of section 72 of the Parole Amendment Act 2007 or in accordance with that section) after home detention.
@@ -387,9 +363,9 @@ Section 106(6) is amended by inserting (directed by the Board before the commenc
 Section 107A(c) is amended by omitting standard release conditions and substituting standard extended supervision conditions.
 
 ### 55 Meaning of relevant offence
-(1) Section 107B(2) is amended by inserting the following paragraph after paragraph (o):.
+(1) Section 107B(2) is amended by inserting the following paragraph after paragraph (o):
   (oa) section 135 (indecent assault), but only if the victim of the offence was under the age of 16 at the time of the offence:
-(2) Section 107B(2)(v) is repealed.
+(2) Section 107B(2)﻿(v) is repealed.
 
 ### 56 Meaning of eligible offender
 Section 107C is amended by adding the following subsection:
@@ -400,7 +376,7 @@ Section 107F is amended by adding the following subsection:
   (3) To avoid doubt, in addressing the matters listed in subsection (2), the health assessor may take into account any statement of the offender or any other person concerning any conduct of the offender, whether or not that conduct constitutes an offence and whether or not the offender has been charged with, or convicted of, an offence in respect of that conduct.
 
 ### 58 Procedure following application for extended supervision order
-Section 107G(5)(b) is amended by inserting unless the parties otherwise consent after 8 days.
+Section 107G(5)﻿(b) is amended by inserting unless the parties otherwise consent after 8 days.
 
 ### 59 Hearings relating to extended supervision orders
 Section 107H is amended by inserting the following subsection after subsection (6):
@@ -451,10 +427,10 @@ Section 107K is amended by repealing subsections (1) to (3) and substituting the
   (3) When the Board imposes special conditions under this section,—
     (a) the Board must specify the duration of those conditions which may (subject to paragraph (b)) be for the full term of the order, or any lesser period; and
     (b) any residential restrictions may apply only within the first 12 months of the term of the order; and
-    (c) if the Board considers that any special conditions imposed on the offender are incompatible with all or any of the standard extended supervision conditions, the Board may (despite section 107J(1)(a)) suspend those incompatible standard extended supervision conditions during the period in which those special conditions are in force, and time runs on the suspended conditions during that period.
+    (c) if the Board considers that any special conditions imposed on the offender are incompatible with all or any of the standard extended supervision conditions, the Board may (despite section 107J(1)﻿(a)) suspend those incompatible standard extended supervision conditions during the period in which those special conditions are in force, and time runs on the suspended conditions during that period.
 
 ### 63 Commencement and expiry of extended supervision order
-(1) Section 107L(1)(a) is amended by inserting under a sentence of imprisonment after detained.
+(1) Section 107L(1)﻿(a) is amended by inserting under a sentence of imprisonment after detained.
 (2) Section 107L is amended by repealing subsection (2) and substituting the following subsections:
   (2) Any standard release conditions to which the offender is subject when the extended supervision order comes into force are discharged.
   (2A) Any special conditions (including any special conditions imposed under section 107IA) to which the offender is subject when an extended supervision order comes into force continue in force—
@@ -469,28 +445,25 @@ Section 107K is amended by repealing subsections (1) to (3) and substituting the
   (1) The conditions of an offender's extended supervision order are suspended, and time ceases to run on the order during—
     (a) any period that the offender is under legal custody in accordance with the Corrections Act 2004; and
     (b) any subsequent period following the offender's release (if applicable) until the offender's statutory release date.
-(2) Section 107P(2)(a) is amended by inserting and in place of any other release conditions that would otherwise apply after statutory release date.
+(2) Section 107P(2)﻿(a) is amended by inserting and in place of any other release conditions that would otherwise apply after statutory release date.
 
 ### 65 Effect of new sentence on offender subject to extended supervision order
 Section 107Q(1) is amended by inserting or a sentence of home detention after community-based sentence.
 
 ### 66 Functions of Board
-(1) Section 109(1)(b) is repealed.
-(2) Section 109(1)(d)(iii) is repealed.
-(3) Section 109(1)(e)(i) is amended by omitting and detention conditions.
-(4) Section 109(1)(e)(ii) is amended by omitting , home detention,.
-(5) Section 109(1) is amended by inserting the following paragraph after paragraph (d):.
+(1) Section 109(1)﻿(b) is repealed.
+(2) Section 109(1)﻿(d)﻿(iii) is repealed.
+(3) Section 109(1)﻿(e)﻿(i) is amended by omitting and detention conditions.
+(4) Section 109(1)﻿(e)﻿(ii) is amended by omitting , home detention,.
+(5) Section 109(1) is amended by inserting the following paragraph after paragraph (d):
   (da) to monitor the compliance by offenders with their release conditions in accordance with section 29B:
 
 ### 67 New sections 109A and 109B inserted
-The following sections are inserted after section 109:Board must follow parole guidelinesApplication of parole guidelines
-  (1) In directing the release of an offender and imposing any conditions on an offender, the Board must follow any parole guidelines that are relevant to the offender's case unless the Board is satisfied that it would be contrary to the interests of justice to do so.
-  (2) Whenever the Board declines to follow relevant parole guidelines, the Board must state in writing in its order or determination why it considers that following the guidelines would be contrary to the interests of justice.
-  A parole guideline applies to the release of an offender on or after the date on which the guideline comes into force, whether or not the guideline was in force when the offender's sentence was imposed or when the offence to which the sentence relates was committed.
+[Repealed]
 
 ### 68 Panel conveners
-(1) Section 114(3)(a) is amended by omitting release conditions, parole, or home detention and substituting release conditions or parole.
-(2) Section 114(3)(d) is amended by omitting under section 67 and substituting under sections 46(2) and 67.
+(1) Section 114(3)﻿(a) is amended by omitting release conditions, parole, or home detention and substituting release conditions or parole.
+(2) Section 114(3)﻿(d) is amended by omitting under section 67 and substituting under sections 46(2) and 67.
 
 ### 69 Decisions of Board
 Section 116(3) is amended by omitting or detention.
@@ -500,7 +473,7 @@ Section 117 is amended by adding the following subsection:
   (3) This section is subject to sections 13AA to 13AE.
 
 ### 71 New heading and sections 118A to 118D inserted
-The following heading and sections are inserted after section 118:Summoning witnessesPower to summon witnesses1908 No 25 s 4DService of summons1908 No 25 s 5Protection of witnesses1908 No 25 s 6Offences1908 No 25 s 9.
+The following heading and sections are inserted after section 118:Summoning witnessesPower to summon witnesses1908 No 25 s 4DService of summons1908 No 25 s 5Protection of witnesses1908 No 25 s 6Offences1908 No 25 s 9
   (1) The chairperson or a panel convenor may, for the purposes of any matter before the Board, issue a summons requiring any person to—
     (a) attend and give evidence; and
     (b) produce any books, papers, documents, records, or things in the person's possession or control that are relevant to the subject of the matter before the Board.
@@ -512,7 +485,7 @@ The following heading and sections are inserted after section 118:Summoning witn
     (b) leaving it at the witness's usual place of residence; or
     (c) posting it by registered post addressed to the witness at the witness's usual place of residence.
   (2) The summons must be served at least 10 days before the day on which the witness is required to attend.
-  (3) A summons served under subsection (1)(c) must be treated as having been served at the time when the letter would be delivered in the ordinary course of post.
+  (3) A summons served under subsection (1)﻿(c) must be treated as having been served at the time when the letter would be delivered in the ordinary course of post.
   Every witness giving evidence before the Board has the same privileges and immunities as a witness in a court of law.
   (1) Every person commits an offence who, after being summoned to attend to give evidence before the Board or to produce to it any books, papers, documents, records, or things, without sufficient cause,—
     (a) fails to attend in accordance with the summons; or
@@ -535,7 +508,7 @@ The following heading and sections are inserted after section 118:Summoning witn
 (3) The principal Act, as in force immediately before the commencement of this section, applies to the home detention of a specified offender and accordingly governs—
   (a) the offender's rights, liabilities (including, without limitation, the offender's liability to recall), and obligations in respect of that home detention; and
   (b) the exercise of any powers in respect of that home detention (including, without limitation, powers to impose, vary, or discharge conditions, and to release the offender on parole).
-(4) To avoid doubt, nothing in this section prevents the application, in respect of a specified application or a specified offender, of sections 7(2)(b), 13(5A), 13AA to 13AE, 60(2A), 61(c), 67(2), 117(3), and 118A to 118D of the principal Act as amended or inserted by this Act.
+(4) To avoid doubt, nothing in this section prevents the application, in respect of a specified application or a specified offender, of sections 7(2)﻿(b), 13(5A), 13AA to 13AE, 60(2A), 61(c), 67(2), 117(3), and 118A to 118D of the principal Act as amended or inserted by this Act.
 
 ### 73 Transitional provisions relating to hearings
 Sections 44, 47, and 49 of the principal Act, as in force immediately before the commencement of this section, continue to apply to any matter that relates to a hearing in respect of which the Board has, before that commencement, given 1 or more notices under section 43(2) of the principal Act.
