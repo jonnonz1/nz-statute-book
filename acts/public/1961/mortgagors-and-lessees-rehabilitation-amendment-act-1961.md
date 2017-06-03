@@ -1,5 +1,5 @@
 # Mortgagors and Lessees Rehabilitation Amendment Act 1961
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-06-03_
 
 > An Act to amend the Mortgagors and Lessees Rehabilitation Act 1936
 
