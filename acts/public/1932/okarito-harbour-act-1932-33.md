@@ -1,5 +1,5 @@
 # Okarito Harbour Act 1932–33
-_Consolidation as at 1933-03-05_
+_Consolidation as at 2017-06-03_
 
 > An Act to make special provision for the control and management of the harbour of Okarito
 
