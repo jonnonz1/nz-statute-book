@@ -1,5 +1,5 @@
 # Local Authority Reorganisation (Property Transfers) Act 1990
-_Consolidation as at 1990-07-04_
+_Consolidation as at 2017-06-03_
 
 > An Act to provide for the modification or cancellation of certain arrangements arrived at or entered into in the light of the reorganisation or proposed reorganisation of certain local authorities
 
