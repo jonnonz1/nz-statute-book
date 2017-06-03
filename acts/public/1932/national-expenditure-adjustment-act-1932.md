@@ -1,5 +1,5 @@
 # National Expenditure Adjustment Act 1932
-_Consolidation as at 1972-01-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision, firstly, for the further adjustment of public expenditure by the reduction of rates of salaries, wages, pensions and allowances; secondly, for the making of commensurate reductions in rates of interest, rent, and other fixed charges; thirdly, for the imposition of a special stamp duty on receipts of income derived from securities issued by the Government of New Zealand or by local or public authorities; fourthly, for determining the rates of interest that may be paid on deposits by any savings bank, building society, or investment society; and lastly, for determining the conditions on which trading companies may accept money on deposit
 
