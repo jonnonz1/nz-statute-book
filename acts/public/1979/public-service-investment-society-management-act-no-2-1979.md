@@ -1,5 +1,5 @@
 # Public Service Investment Society Management Act (No 2) 1979
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to make further provision for the protection of depositors and creditors of the Public Service Investment Society Limited and its associated companies, and for matters incidental thereto
 
@@ -98,7 +98,7 @@ While any body corporate to which this Act applies remains under the management 
 (1) The manager (if any) in respect of any body corporate to which this Act applies shall have,—and, notwithstanding the provisions of the rules of the Society or the articles of the company, may exercise alone all such powers.
   (a) all the powers of the board of management or board of directors, as the case may require, and the members in general meeting of the body corporate; and
   (b) without limiting the generality of paragraph (a), the power, notwithstanding the financial position of the body corporate, to borrow and raise money whether on the security of real or personal property of the body corporate or not—
-(2) Notwithstanding section 6(1)(c), the statutory manager of any body corporate to which this Act applies may petition for the winding up of that body corporate.
+(2) Notwithstanding section 6(1)﻿(c), the statutory manager of any body corporate to which this Act applies may petition for the winding up of that body corporate.
 (3) In addition to the powers conferred by subsections (1) and (2), any such manager shall have—
   (a) the power to admit to proof against any corporate body to which this Act applies all debts, including those—
     (i) that are payable on a contingency; or
@@ -181,7 +181,7 @@ If it appears to any manager appointed under this Act that any person has been g
 ### 25 Application of Industrial and Provident Societies Act 1908 and Companies Act 1955
 (1) The manager in respect of any body corporate to which this Act applies shall notify the Registrar of Industrial and Provident Societies or the Registrar of Companies, as the case may require, of his appointment as manager and of the termination of his appointment.
 (2) Notwithstanding anything to the contrary in the Industrial and Provident Societies Act 1908 or the Companies Act 1955, it shall not be obligatory on the manager to furnish in respect of the Society or any company of which he is manager any annual or other return required by either of those Acts.
-(3) Subject to the provisions of this Act, all the provisions of the Industrial and Provident Societies Act 1908 (other than sections 8(a)(iv) and 13), and all rules and regulations under that Act, shall, so far as they are applicable, and with the necessary modifications, apply to the Society while it is subject to the provisions of this Act.
+(3) Subject to the provisions of this Act, all the provisions of the Industrial and Provident Societies Act 1908 (other than sections 8(a)﻿(iv) and 13), and all rules and regulations under that Act, shall, so far as they are applicable, and with the necessary modifications, apply to the Society while it is subject to the provisions of this Act.
 (4) Subject to the provisions of this Act, all the provisions of the Companies Act 1955 and all rules and regulations under that Act, shall, so far as they are applicable, and with the necessary modifications, apply to any company to which this Act applies:
   provided that, except as otherwise provided in this Act, the provisions of the Companies Act 1955 specified in Schedule 2 shall not so apply.
 
