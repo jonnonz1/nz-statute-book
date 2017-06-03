@@ -1,5 +1,5 @@
 # Mortgagors and Lessees Rehabilitation Act 1936
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to provide for the adjustment of the liabilities of mortgagors and lessees in certain cases, and for matters incidental thereto
 
