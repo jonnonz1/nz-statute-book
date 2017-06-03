@@ -1,5 +1,5 @@
 # Auckland Harbour Bridge Authority Dissolution Act 1983
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to abolish tolls for use of the Auckland Harbour Bridge and to dissolve the Auckland Harbour Bridge Authority
 
