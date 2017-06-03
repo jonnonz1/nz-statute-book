@@ -1,5 +1,5 @@
 # Education Law Amendment Act 1933
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-06-03_
 
 > An Act to amend the Education Act 1914, and to make Provision with respect to certain Education Authorities.
 
