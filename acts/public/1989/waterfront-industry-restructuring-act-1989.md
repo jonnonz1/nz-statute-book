@@ -1,5 +1,5 @@
 # Waterfront Industry Restructuring Act 1989
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision for changes in relation to employment on the New Zealand waterfront
 
@@ -191,7 +191,7 @@ Where any local authority which is liable to pay any levy imposed under section 
 ### 31 Liability for levy payments where shares or undertaking transferred
 (1) Except as provided in subsection (2), where any port company shares in respect of which a levy is imposed by section 21 or any port related commercial undertaking in respect of which a levy is imposed by section 25 are transferred,—
   (a) the liability for payment of the levy shall remain with the local authority disposing of the shares or undertaking; and
-  (b) notwithstanding any determination made under section 26(1)(a) before the date of the transfer, the Authority may, by notice to the local authority, require immediate payment of the amount of the levy or vary the basis for instalment payment of the levy.
+  (b) notwithstanding any determination made under section 26(1)﻿(a) before the date of the transfer, the Authority may, by notice to the local authority, require immediate payment of the amount of the levy or vary the basis for instalment payment of the levy.
 (2) Where—the liability to pay any levy that has not been paid shall become a liability of the local authority to which the shares or undertaking is transferred.
   (a) any port company shares are transferred pursuant to a local government reorganisation Order in Council; or
   (b) a port related commercial undertaking is transferred to a local authority pursuant to a local government reorganisation Order in Council before it is transferred to a port company,—
@@ -202,7 +202,7 @@ For the purposes of the Income Tax Act 1976, no person shall be entitled to dedu
 **Levy on harbour board land**
 
 ### 33 Levy on harbour board land
-There is hereby imposed on each local authority that holds harbour board land a levy of such percentage of the net income of that local authority from that land for the period beginning on 28 July 1989 and ending with the close of 30 June 1992 as the Authority determines under section 37(1)(a).
+There is hereby imposed on each local authority that holds harbour board land a levy of such percentage of the net income of that local authority from that land for the period beginning on 28 July 1989 and ending with the close of 30 June 1992 as the Authority determines under section 37(1)﻿(a).
 
 ### 34 Initial statement of anticipated net income from harbour board land
 (1) Every harbour board shall, not later than one month after the commencement of this Act, provide to the Authority a statement of its anticipated net income from harbour board land for the period specified in section 33.
@@ -233,7 +233,7 @@ There is hereby imposed on each local authority that holds harbour board land a 
   (b) whether the levy imposed under section 33, or any amount of that levy, is to be paid in one payment or by instalments; and
   (c) in relation to any amount that is to be paid by instalments, the amount of each instalment and the date on which each instalment is to be paid.
 (2) In making a determination under any provision of subsection (1), the Authority shall have regard in each case to the Authority's estimated expenditure and estimated income from sources other than levies under section 33.
-(3) In making any determination under subsection (1)(a), the Authority—
+(3) In making any determination under subsection (1)﻿(a), the Authority—
   (a) may determine different percentages in respect of different pieces of harbour board land (whether or not related to the same harbour), or that no amount by way of levy shall be payable in respect of any land; and
   (b) may consider, but is not required to consider, the likely expenditure in relation to the waterside workers, tally clerks, and shipwrights ordinarily employed at any port in determining the percentage that is to apply in respect of any harbour board land.
 (4) No determination made under this section shall come into force until the Minister has, by notice in the Gazette, approved that determination.
@@ -286,7 +286,7 @@ Where any local authority is required to make any payment of levy under this Act
 (1) In the event of any dispute about—the matter may be referred to arbitration by the Authority or any local authority or group of local authorities affected by the matter.
   (a) the value of port company shares; or
   (b) the net income of any harbour board land; or
-  (c) the amounts or dates of payment of instalments payable under section 26(1)(a) or section 37(1)(b) (but not the percentages applicable by virtue of a determination under section 37(1)(a)); or
+  (c) the amounts or dates of payment of instalments payable under section 26(1)﻿(a) or section 37(1)﻿(b) (but not the percentages applicable by virtue of a determination under section 37(1)﻿(a)); or
   (d) the distribution of any surplus under section 42,—
 (2) Where any matter is so referred,—
   (a) one assessor shall be appointed by the Authority; and
