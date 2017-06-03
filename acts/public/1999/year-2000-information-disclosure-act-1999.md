@@ -1,5 +1,5 @@
 # Year 2000 Information Disclosure Act 1999
-_Consolidation as at 1999-05-05_
+_Consolidation as at 2017-06-03_
 
 > An Act to provide protection from civil liability for statements relating to Year 2000 date processing
 
@@ -60,17 +60,17 @@ For the purposes of this Act, a Year 2000 information disclosure statement means
     (ii) a data storage device from which the statement is capable of being reproduced in writing (for example, a computer floppy disk or Internet website):
     (iii) writing communicated electronically (for example, a fax or email); and
   (g) is not made in a contract.
-(2) A statement complies with subsection (1)(b) and (c) if the statement includes the following words: This statement is a Year 2000 information disclosure statement for the purposes of the Year 2000 Information Disclosure Act 1999. A person may be protected by that Act from civil liability for this statement in certain circumstances.
-(3) Subsection (2) does not prevent other words being used to comply with subsection (1)(b) and (c).
+(2) A statement complies with subsection (1)﻿(b) and (c) if the statement includes the following words:This statement is a Year 2000 information disclosure statement for the purposes of the Year 2000 Information Disclosure Act 1999. A person may be protected by that Act from civil liability for this statement in certain circumstances.
+(3) Subsection (2) does not prevent other words being used to comply with subsection (1)﻿(b) and (c).
 
 ### 7 Republished Year 2000 information disclosure statements
 For the purposes of this Act, a republished Year 2000 information disclosure statement is a statement that—
   (a) is the republication of—
     (i) the complete original Year 2000 information disclosure statement; or
-    (ii) parts of the original Year 2000 information disclosure statement, including the parts that contain the information required by section 6(1)(b), (c), and (e), together with a statement describing where the original Year 2000 information disclosure statement can be obtained; and
+    (ii) parts of the original Year 2000 information disclosure statement, including the parts that contain the information required by section 6(1)﻿(b), (c), and (e), together with a statement describing where the original Year 2000 information disclosure statement can be obtained; and
   (b) is made on or after 15 May 1999, but before the close of 30 June 2001; and
   (c) is made in 1 or more of the following forms:
-    (i) the forms specified in section 6(1)(f):
+    (i) the forms specified in section 6(1)﻿(f):
     (ii) orally:
     (iii) speech communicated electronically (for example, a telephone call, radio broadcast, or television broadcast).
 
@@ -125,7 +125,7 @@ Sections 8(1) and 9(1) do not apply if the civil liability or civil proceedings 
   (b) does not necessarily mean that there is a cause of action in the particular circumstances to which the exception applies.
 
 ### 18 Imputed knowledge
-(1) To establish in civil proceedings for the purposes of section 10 the matter in paragraph (b)(i) or (ii) of that section, it is sufficient to show the circumstances in subsection (2) or subsection (3), as the case may require.
+(1) To establish in civil proceedings for the purposes of section 10 the matter in paragraph (b)﻿(i) or (ii) of that section, it is sufficient to show the circumstances in subsection (2) or subsection (3), as the case may require.
 (2) In the case of a company, the circumstances are—
   (a) that a director, employee, or agent of the company engaged in conduct in relation to the Year 2000 information disclosure statement; and
   (b) that the director, employee, or agent was, in engaging in that conduct, acting within the scope of his or her actual or apparent authority; and
