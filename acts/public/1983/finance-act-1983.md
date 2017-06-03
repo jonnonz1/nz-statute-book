@@ -1,5 +1,5 @@
 # Finance Act 1983
-_Consolidation as at 1987-07-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision with respect to public finances and other matters
 
