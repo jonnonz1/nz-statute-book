@@ -1,5 +1,5 @@
 # Finance Act 1947
-_Consolidation as at 1989-04-02_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision with respect to public finance and other matters
 
