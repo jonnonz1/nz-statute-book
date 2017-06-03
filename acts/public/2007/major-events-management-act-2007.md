@@ -1,5 +1,5 @@
 # Major Events Management Act 2007
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-06-03_
 
 ### 1 Title
 This Act is the Major Events Management Act 2007.
@@ -36,7 +36,6 @@ In this Act, unless the context otherwise requires,—
   - **clean zone** means an area that has been declared by notice in the Gazette under section 16(1) to be a clean zone
   - **Commerce Minister** means the Minister responsible for the administration of the Trade Marks Act 2002
   - **court** means the High Court
-  - **Economic Development Minister** means the Minister responsible for the administration of the Ministry of Economic Development Act 2000
   - **emblem** means an identifying device, seal, indicium, image, mark, trade mark, badge, symbol, design, logotype, or sign; and includes any printed or other visual representation of the emblem—
     (a) on a flag, banner, sign, or other printed or written material; or
     (b) made by way of a pictorial representation or other visual image; or
@@ -47,6 +46,7 @@ In this Act, unless the context otherwise requires,—
   - **major event organiser** means the person identified by Order in Council under section 7(1) as the major event organiser of a major event
   - **major event sponsor** means a person who has the written authorisation of the major event organiser to make a representation suggesting an association between the major event and that person, or goods or services provided by that person
   - **major event word** means any word that has been declared by Order in Council under section 8(1) to be a major event word for a major event
+  - **Minister** means the Minister of the Crown for the time being responsible for the administration of this Act
   - **proper name** , in relation to any town or road or other place, means the name assigned or approved in respect of that place by the New Zealand Geographic Board or the Surveyor-General or a territorial authority under any Act
   - **protection period** means the period for which the protection under section 10 applies in relation to a major event, as declared by Order in Council under section 8(1)
   - **registering authority** includes the following Commission and officers, and also includes any officer acting on behalf of the following Commission and officers:
@@ -75,15 +75,15 @@ This Act binds the Crown.
 ### Subpart 1 — Declaration of major event
 
 ### 7 Declaration of major event
-(1) The Governor-General may, by Order in Council made on the recommendation of the Economic Development Minister after consultation with the Commerce Minister and the Sports Minister, declare that an event is a major event.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister after consultation with the Commerce Minister and the Sports Minister, declare that an event is a major event.
 (2) An Order in Council under subsection (1) must identify the major event and the major event organiser.
-(3) The Economic Development Minister may only make a recommendation if—
+(3) The Minister may only make a recommendation if—
   (a) an event organiser has applied for an event to be declared to be a major event under this Act; and
   (b) the event activities will take place, at least in part, in New Zealand; and
   (c) the Minister is satisfied that the event organiser has the capacity and the intention to—
     (i) successfully and professionally stage and manage the event; and
     (ii) use all practicable measures available under the existing law to prevent unauthorised commercial exploitation of the major event and to protect its intellectual property and other legal rights (including, for example, registering relevant trade marks).
-(4) Before making a recommendation, the Economic Development Minister must take into account whether the event will—
+(4) Before making a recommendation, the Minister must take into account whether the event will—
   (a) attract a large number of international participants or spectators and therefore generate significant tourism opportunities for New Zealand:
   (b) significantly raise New Zealand's international profile:
   (c) require a high level of professional management and co-ordination:
@@ -94,14 +94,14 @@ This Act binds the Crown.
 ### Subpart 2 — Ambush marketing by association protections
 
 ### 8 Declaration of major event emblems and words
-(1) The Governor-General may, by Order in Council made on the recommendation of the Economic Development Minister, declare any or all of the following:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, declare any or all of the following:
   (a) an emblem to be a major event emblem:
   (b) a word, words if combined with other words, or a combination of words to be a major event word or major event words.
-(2) The Economic Development Minister may only make a recommendation after consultation with—
+(2) The Minister may only make a recommendation after consultation with—
   (a) the Commerce Minister; and
   (b) the major event organiser; and
   (c) persons the Minister considers are likely to be substantially affected by the recommendation.
-(3) Before making a recommendation, the Economic Development Minister must take into account the extent to which, in relation to the major event, emblems and words require protection in order to—
+(3) Before making a recommendation, the Minister must take into account the extent to which, in relation to the major event, emblems and words require protection in order to—
   (a) obtain maximum benefits for New Zealanders:
   (b) prevent unauthorised commercial exploitation at the expense of either a major event organiser or a major event sponsor.
 (4) A failure to comply with subsection (2)﻿(c) does not affect the validity of an Order in Council made under subsection (1).
@@ -171,10 +171,10 @@ ExamplesThe Football World Cup finals are to be held in New Zealand in 2007. The
 ### Subpart 3 — Ambush marketing by intrusion protections
 
 ### 16 Declaration of clean zones, clean transport routes, and clean periods
-(1) By notice in the Gazette, the Economic Development Minister may declare, in relation to a major event, either or both of the following:
+(1) By notice in the Gazette, the Minister may declare, in relation to a major event, either or both of the following:
   (a) clean zones, and the clean periods that relate to those clean zones:
   (b) clean transport routes, and the clean periods that relate to those clean transport routes.
-(2) Before issuing a notice, the Economic Development Minister must take into account the extent to which, in relation to the major event, clean zones or clean transport routes, and clean periods, are required in order to—
+(2) Before issuing a notice, the Minister must take into account the extent to which, in relation to the major event, clean zones or clean transport routes, and clean periods, are required in order to—
   (a) obtain maximum benefits for New Zealanders:
   (b) prevent unauthorised commercial exploitation at the expense of either a major event organiser or a major event sponsor.
 (3) A notice under subsection (1) may declare an area as a clean zone for a clean period only to the extent that—
@@ -195,7 +195,7 @@ ExamplesThe Football World Cup finals are to be held in New Zealand in 2007. The
   (a) billboards; or
   (b) the venue of a major event activity; or
   (c) land the public ordinarily has access to (for example, a railway station or a venue's car park).
-ExamplesThe Football World Cup finals are to be held in New Zealand in 2007. The Football World Cup finals are declared to be a major event under section 7.Example 1: Clean zone and clean periodThe final game of the Football World Cup is to be held at the rugby stadium located in Phillipstown in Christchurch between 3 pm and 7 pm on Saturday, 9 June 2007.The Police and the Christchurch City Council have decided, in the particular circumstances of this major event activity, that in order to host safely the final game of the Football World Cup, it is necessary to close Stevens Street, Talfourd Place, and Lismore Street to vehicles from 12.01 am to 11.59 pm on Saturday, 9 June 2007. Falsgrove Street (between Lismore Street and Stevens Street) will also be closed for parts of that day.After taking into account the matters set out in section 16(2) and looking at the requirements of the particular event, the Economic Development Minister decides to declare a clean zone and a clean period for the final game of the Football World Cup in accordance with section 16(1).The Minister declares the clean zone to be the area bordered by, and including, the footpaths on the north side of Stevens Street, the west side of Wilsons Road North (between Stevens Street and Lismore Street), the south side of Lismore Street (between Wilsons Road North and Falsgrove Street), and the west side of Falsgrove Street (between Lismore Street and Stevens Street).The stadium and its surrounds, including the stadium car park, (all of which are within the area described above) are included in the clean zone. However, none of the private land or private buildings within the area described above is included in the clean zone.The Minister declares the clean period for this clean zone to start at 12.01 am on Saturday, 9 June 2007 and finish at 11.59 pm on Saturday, 9 June 2007.Example 2: Clean transport routes and clean periodsIn accordance with section 16(1), the Economic Development Minister also decides to declare 2 clean transport routes and a clean period for the final game of the Football World Cup.State Highway 73 and the Christchurch Southern Motorway 73 are declared to be a clean transport route from the point on the Christchurch Southern Motorway that is 5 km in a straight line (in a south-westerly direction) from the corner of Falsgrove and Lismore Street, to the point on State Highway 73 that is 5 km in a straight line (in a south-easterly direction) from the corner of Lismore Street and Wilsons Road North.All of State Highway 74A is within 5 km of the clean zone and therefore all of this highway is also declared to be a clean transport route.Both clean transport routes are declared to include the areas directly proximate to the highways and motorway that do not consist of private land or private buildings.It appears that very few people will be using the railway lines to the north of State Highway 73 to travel to or from the clean zone. Therefore, the Minister decides not to declare this railway line to be a clean transport route.The clean period for the clean transport routes is declared to start at 8 am on Saturday, 9 June 2007 and finish at 11 pm on Saturday, 9 June 2007.
+ExamplesThe Football World Cup finals are to be held in New Zealand in 2007. The Football World Cup finals are declared to be a major event under section 7.Example 1: Clean zone and clean periodThe final game of the Football World Cup is to be held at the rugby stadium located in Phillipstown in Christchurch between 3 pm and 7 pm on Saturday, 9 June 2007.The Police and the Christchurch City Council have decided, in the particular circumstances of this major event activity, that in order to host safely the final game of the Football World Cup, it is necessary to close Stevens Street, Talfourd Place, and Lismore Street to vehicles from 12.01 am to 11.59 pm on Saturday, 9 June 2007. Falsgrove Street (between Lismore Street and Stevens Street) will also be closed for parts of that day.After taking into account the matters set out in section 16(2) and looking at the requirements of the particular event, the Minister decides to declare a clean zone and a clean period for the final game of the Football World Cup in accordance with section 16(1).The Minister declares the clean zone to be the area bordered by, and including, the footpaths on the north side of Stevens Street, the west side of Wilsons Road North (between Stevens Street and Lismore Street), the south side of Lismore Street (between Wilsons Road North and Falsgrove Street), and the west side of Falsgrove Street (between Lismore Street and Stevens Street).The stadium and its surrounds, including the stadium car park, (all of which are within the area described above) are included in the clean zone. However, none of the private land or private buildings within the area described above is included in the clean zone.The Minister declares the clean period for this clean zone to start at 12.01 am on Saturday, 9 June 2007 and finish at 11.59 pm on Saturday, 9 June 2007.Example 2: Clean transport routes and clean periodsIn accordance with section 16(1), the Minister also decides to declare 2 clean transport routes and a clean period for the final game of the Football World Cup.State Highway 73 and the Christchurch Southern Motorway 73 are declared to be a clean transport route from the point on the Christchurch Southern Motorway that is 5 km in a straight line (in a south-westerly direction) from the corner of Falsgrove and Lismore Street, to the point on State Highway 73 that is 5 km in a straight line (in a south-easterly direction) from the corner of Lismore Street and Wilsons Road North.All of State Highway 74A is within 5 km of the clean zone and therefore all of this highway is also declared to be a clean transport route.Both clean transport routes are declared to include the areas directly proximate to the highways and motorway that do not consist of private land or private buildings.It appears that very few people will be using the railway lines to the north of State Highway 73 to travel to or from the clean zone. Therefore, the Minister decides not to declare this railway line to be a clean transport route.The clean period for the clean transport routes is declared to start at 8 am on Saturday, 9 June 2007 and finish at 11 pm on Saturday, 9 June 2007.
 
 ### 17 No street trading in clean zone without authorisation
 (1) No person may engage in street trading in a clean zone during a clean period without the written authorisation of the major event organiser.
@@ -714,9 +714,9 @@ Commonwealth Games
 Five Ring Olympic symbol
 Five Ring Olympic symbol with a Fern Leaf
 International Olympic Committee
+National Olympic Committee
 New Zealand Commonwealth Games Team
 New Zealand Commonwealth Youth Games Team
-National Olympic Committee
 New Zealand Olympic and Commonwealth Games Association Incorporated
 New Zealand Olympic Committee Incorporated
 New Zealand Olympic Team
