@@ -1,5 +1,5 @@
 # Finance Act (No 2) 1989
-_Consolidation as at 1990-08-31_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision with respect to public finance and other matters
 
@@ -34,16 +34,16 @@ In this Part, unless the context otherwise requires,—
     (i) equity securities; and
     (ii) debt securities—
   (b) the date on which the equity securities and debt securities shall be issued.
-(2) On the date specified in each Order in Council pursuant to subsection (1)(b) Radio New Zealand Limited or Television New Zealand Limited, as the case may require, shall issue to the Ministers in equal proportions—
+(2) On the date specified in each Order in Council pursuant to subsection (1)﻿(b) Radio New Zealand Limited or Television New Zealand Limited, as the case may require, shall issue to the Ministers in equal proportions—
   (a) fully paid up equity securities of such kind, number, nominal value, and terms as are specified in the order:
   (b) debt securities of such kind, number, nominal value, and terms as are specified in the order.
-(3) Nothing in subsections (1)(b) and (2) of section 60 of the Companies Act 1955 shall apply in respect of equity securities issued pursuant to subsection (2).
+(3) Nothing in subsections (1)﻿(b) and (2) of section 60 of the Companies Act 1955 shall apply in respect of equity securities issued pursuant to subsection (2).
 
 ### 5 Application of State-Owned Enterprises Act 1986
 (1) The State-Owned Enterprises Act 1986 shall apply, with all necessary modifications, to each vesting of assets and liabilities that takes place by virtue of an Order in Council made under section 3(3) and to each asset or liability so vested as if—
   (a) that vesting were the transferring of assets and liabilities pursuant to section 23(1) of that Act; and
   (b) the terms and conditions under which the assets and liabilities were vested were agreed between the Ministers and the State enterprise in which they were vested.
-(2) For the purpose of section 23(2) and (5)(c) of the State-Owned Enterprises Act 1986, every Order in Council made under section 3(3) shall be deemed to be a contract entered into pursuant to section 23(1) of that Act.
+(2) For the purpose of section 23(2) and (5)﻿(c) of the State-Owned Enterprises Act 1986, every Order in Council made under section 3(3) shall be deemed to be a contract entered into pursuant to section 23(1) of that Act.
 
 ### 6 Additional provisions relating to vesting of assets and liabilities of Broadcasting Corporation in the Crown
 (1) Nothing effected or authorised by this Part—
