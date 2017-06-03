@@ -1,5 +1,5 @@
 # Public Safety Conservation Act Repeal Act 1987
-_Consolidation as at 1987-07-20_
+_Consolidation as at 2017-06-03_
 
 > An Act to repeal the Public Safety Conservation Act 1932
 
