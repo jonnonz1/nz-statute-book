@@ -1,5 +1,5 @@
 # Finance Act (No 2) 1990 Amendment Act 1997
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-06-03_
 
 > An Act to amend the Finance Act (No 2) 1990
 
@@ -20,4 +20,4 @@ This section substituted s 8 of the principal Act.
 This section inserted s 9A of the principal Act.
 
 ### 5 Repeal
-Schedule 2 of the Department of Justice (Restructuring) Act 1995 is consequentially amended by repealing the item relating to section 8(5)(a) of the Finance Act (No 2) 1990.
+Schedule 2 of the Department of Justice (Restructuring) Act 1995 is consequentially amended by repealing the item relating to section 8(5)﻿(a) of the Finance Act (No 2) 1990.
