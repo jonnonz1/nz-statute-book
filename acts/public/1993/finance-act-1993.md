@@ -1,5 +1,5 @@
 # Finance Act 1993
-_Consolidation as at 2001-10-16_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision with respect to public finances and other matters
 
