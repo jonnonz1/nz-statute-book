@@ -1,5 +1,5 @@
 # Ministry of Economic Development Act 2000
-_Consolidation as at 2000-09-07_
+_Consolidation as at 2017-06-03_
 
 ### 1 Title
 This Act is the Ministry of Economic Development Act 2000.
