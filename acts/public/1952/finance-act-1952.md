@@ -1,5 +1,5 @@
 # Finance Act 1952
-_Consolidation as at 1978-04-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision with respect to public finance and other matters
 
@@ -11,7 +11,7 @@ This Act may be cited as the Finance Act 1952.
 (2) The Minister of Finance may from time to time, on behalf of Her Majesty the Queen,—upon or subject to such terms and conditions as the Minister thinks fit.
   (a) advance moneys to the Tasman Pulp and Paper Company Limited; and
   (b) give in respect of any advances made to the company by any other person any guarantee, indemnity, or security, pursuant to section 86 of the Public Finance Act 1977—
-(3) All money required to be paid by the Minister of Finance under subsection (1) or subsection (2)(a) shall be paid out of the Loans Account from money appropriated by Parliament for the purpose.
+(3) All money required to be paid by the Minister of Finance under subsection (1) or subsection (2)﻿(a) shall be paid out of the Loans Account from money appropriated by Parliament for the purpose.
 (4) The Minister of Finance may from time to time, on behalf of Her Majesty the Queen, enter into agreements with the Tasman Pulp and Paper Company Limited for the purpose of giving full effect to the provisions of this section.
 
 ### 3 Transfer of surplus in Consolidated Fund to National Development Loans Account
