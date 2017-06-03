@@ -1,5 +1,5 @@
 # Statutes Amendment Act 1943
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-06-03_
 
 > An Act to amend certain enactments of the Parliament of New Zealand
 
