@@ -1,5 +1,5 @@
 # Consumer Council Act Repeal Act 1988
-_Consolidation as at 1988-10-27_
+_Consolidation as at 2017-06-03_
 
 > An Act to abolish the Consumer Council and the Consumers Institute, to provide for the establishment of an incorporated society to succeed those bodies, and to repeal the Consumer Council Act 1966
 
