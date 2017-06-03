@@ -1,5 +1,5 @@
 # Flags, Emblems, and Names Protection Act 1981
-_Consolidation as at 2015-10-21_
+_Consolidation as at 2017-06-03_
 
 > An Act to declare the New Zealand Ensign to be the New Zealand Flag and to make provision relating to its use and to the use of certain other flags, and to make better provision for the protection of certain names and emblems of Royal, national, international, commercial, or other significance
 
@@ -247,6 +247,14 @@ Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or
   (b) the word or name is the surname (not being a surname taken or used for the purpose of defeating the intention of this section) of a foundation member of the company or incorporated society;—
 (6) Nothing in this section shall prohibit or affect the use by any person of any name, title, style, designation, or word if, immediately before the commencement of this section, that use was expressly authorised by any consent, permission, approval, or authority given by any person lawfully entitled to give it.
 
+### 20AAA Unauthorised use of King George the Fifth Memorial Children’s Health Camps Federation emblem
+(1) In this section, Foundation means the charitable trust established by deed dated 31 March 1999 with the name Children's Health Camps—The New Zealand Foundation for Child and Family Health and Development.
+(2) Despite the repeal of section 14 of the Children’s Health Camps Board Dissolution Act 1999, the emblem of the King George the Fifth Memorial Children's Health Camps Federation is to be the emblem of the Foundation.
+(3) No person may,—
+  (a) for the purposes of sale, apply or cause to be applied to any article the emblem of the Foundation or any colourable imitation of that emblem without the prior written consent of the Foundation; or
+  (b) knowing that the emblem of the Foundation or any colourable imitation of that emblem has been applied to any article without the prior written consent of the Foundation, sell that article, cause it to be sold, offer or expose that article for sale, or cause it to be offered or exposed for sale.
+(4) A person who contravenes subsection (3) commits an offence and is liable on conviction to a fine not exceeding $2,000.
+
 ### 20A Unauthorised use of emblems, words, and names relating to Olympic Games and Commonwealth Games
 [Repealed]
 
@@ -269,9 +277,10 @@ Nothing in this Act shall prohibit or affect the use by any person of any emblem
 Nothing in this Act shall limit or affect any of the enactments specified in Schedule 3 relating to the protection of various emblems and names.
 
 ### 24 General penalty
-Every person who commits an offence against this Act is liable on conviction,—
+(1) Every person who commits an offence against this Act is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $50,000 and, where the offence is a continuing one, to a further fine not exceeding $5,000 for every day during which the offence has continued.
+(2) This section does not apply to an offence against section 20AAA.
 
 ### 25 Consent of Attorney-General required to certain prosecutions
 No charging document for an offence against any of sections 11 to 15 may be filed without the consent of the Attorney-General.
@@ -299,7 +308,6 @@ The Governor-General may, from time to time, by Order in Council,—
 | Enactment or order | Emblem, name, or words protected |
 | --- | --- |
 | Broadcasting Act 1976: section 15 | Broadcasting Corporation of New Zealand |
-| Children’s Health Camps Board Dissolution Act 1999: section 14 | Emblem of the King George the Fifth Memorial Children’s Health Camps Federation |
 | Commonwealth Games Symbol Protection Act 1974 | The Xth British Commonwealth Games symbol |
 | Cultural Property (Protection in Armed Conflict) Act 2012: section 36 | Distinctive emblem of the Convention for the Protection of Cultural Property in the Event of Armed Conflict |
 | Gambling Act 2003: section 267 | New Zealand Lotteries Commission |
@@ -310,7 +318,6 @@ The Governor-General may, from time to time, by Order in Council,—
 | Museum of New Zealand Te Papa Tongarewa Act 1992: section 23 | Museum of New Zealand, Te Papa Tongarewa, National Art Gallery, National Museum |
 | National War Memorial Act 1992: section 15 | National War Memorial, War Memorial, Carillon, and Hall of Memories |
 | New Zealand Antarctic Institute Act 1996: section 11 | New Zealand Antarctic Institute, Ross Dependency Research Committee, New Zealand Antarctic Programme |
-| New Zealand Export-Import Corporation Act 1974: section 30 | New Zealand Export-Import Corporation |
 | New Zealand Film Commission Act 1978: section 34 | New Zealand Film Commission |
 | New Zealand International Convention Centre Act 2013: section 15 | New Zealand International Convention Centre, NZICC |
 | Prohibited Marks Order 1957 (SR 1957/179) | Green Cross for Safety symbol |
