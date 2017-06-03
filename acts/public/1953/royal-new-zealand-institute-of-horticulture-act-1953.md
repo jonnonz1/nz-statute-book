@@ -1,5 +1,5 @@
 # Royal New Zealand Institute of Horticulture Act 1953
-_Consolidation as at 1989-12-19_
+_Consolidation as at 2017-06-03_
 
 > An Act to consolidate and amend certain enactments relating to the Royal New Zealand Institute of Horticulture
 
