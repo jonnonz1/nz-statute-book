@@ -1,5 +1,5 @@
 # New Zealand Export-Import Corporation Dissolution Act 1992
-_Consolidation as at 1992-04-11_
+_Consolidation as at 2017-06-03_
 
 > An Act to dissolve the New Zealand Export-Import Corporation and to provide for matters incidental thereto
 
