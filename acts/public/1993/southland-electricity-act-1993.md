@@ -1,5 +1,5 @@
 # Southland Electricity Act 1993
-_Consolidation as at 2005-04-01_
+_Consolidation as at 2017-06-03_
 
 > An Act—ato provide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbto provide for the vesting in that company of the assets and liabilities of the Southland Electric Power Supply; andcto provide for related matters
 
@@ -89,7 +89,7 @@ Failure by the company to comply with any provision contained in this Part shall
 ### 11 Application of Companies Act 1955
 In the application of the Companies Act 1955 to the company, the following provisions shall, so long as the shareholding Ministers are the members of the company, be construed as if references in those provisions to 7 members were references to 2 members:
   (a) section 41, as to carrying on business when the number of members is reduced below the legal minimum:
-  (b) section 211(4)(c), as to the appointment of a liquidator by the court when the number of members is reduced below the legal minimum.
+  (b) section 211(4)﻿(c), as to the appointment of a liquidator by the court when the number of members is reduced below the legal minimum.
 
 ### 12 Shareholding Ministers may subscribe for additional shares
 Subject to subsection (2) of section 10, each shareholding Minister may, from time to time, on behalf of the Crown, subscribe for or otherwise acquire shares in the capital of the company in addition to the shares subscribed for or acquired under that section.
@@ -144,9 +144,9 @@ Any money required to be paid by a shareholding Minister on subscribing for or o
   (b) vest in the company—
     (i) pursuant to and on a date specified in an Order in Council made for the purposes of this section; or
     (ii) pursuant to and on a date specified in a notice in the Gazette given for the purposes of this section by the shareholding Ministers or by a person authorised in writing by those Ministers.
-(2) Every notice given under subsection (1)(b)(ii) may be given on such terms and conditions as the shareholding Ministers or a person authorised in writing by those Ministers, as the case may be, thinks fit, and shall have effect according to its tenor.
-(3) Notwithstanding any other provision of this Act, no land that is subject to a lease or licence pursuant to section 66 or section 66AA of the Land Act 1948 shall be transferred to the company pursuant to section 16(1)(a).
-(4) Subject to subsection (5), but notwithstanding any other provision of this Act, no land for the time being held, managed, or administered under the Conservation Act 1987 or under any enactment specified in Schedule 1 of that Act shall be transferred to the company pursuant to section 16(1)(a).
+(2) Every notice given under subsection (1)﻿(b)﻿(ii) may be given on such terms and conditions as the shareholding Ministers or a person authorised in writing by those Ministers, as the case may be, thinks fit, and shall have effect according to its tenor.
+(3) Notwithstanding any other provision of this Act, no land that is subject to a lease or licence pursuant to section 66 or section 66AA of the Land Act 1948 shall be transferred to the company pursuant to section 16(1)﻿(a).
+(4) Subject to subsection (5), but notwithstanding any other provision of this Act, no land for the time being held, managed, or administered under the Conservation Act 1987 or under any enactment specified in Schedule 1 of that Act shall be transferred to the company pursuant to section 16(1)﻿(a).
 (5) Nothing in subsection (4) prevents the granting, to the company, of a licence to occupy any land to which that subsection applies if the Minister of Conservation consents to the granting of that licence.
 (6) All land that is subject to the Land Act 1948 or the Forests Act 1949 and that is transferred to the company pursuant to this Act shall cease to be subject to the Land Act 1948 or the Forests Act 1949, as the case may be, from the date of that transfer, unless otherwise expressly provided by this Act or any other Act.
 (7) Nothing in this Act or in any transfer of land to the company pursuant to this Act shall derogate from the provisions of section 10 or section 11 of the Crown Minerals Act 1991.
@@ -216,7 +216,7 @@ Where any land is transferred to the company pursuant to this Act, the use of th
 (4) Upon a controlling interest in the company ceasing to be held by Ministers of the Crown on behalf of the Crown,—
   (a) the Auditor-General shall cease to be the auditor of the company and of the subsidiaries of the company (if any):
   (b) the directors of the company and of every subsidiary of the company shall appoint an auditor or auditors of the company and of every subsidiary of the company, and every such appointment shall be deemed to have been made by the directors to fill a casual vacancy in the office of auditor under section 163(5) of the Companies Act 1955.
-(5) Notwithstanding anything in subsection (4)(a), where, in respect of the company and its subsidiaries (if any), consolidated financial accounts have been submitted to the Auditor-General for audit, the Auditor-General shall continue to be the auditor of the company and every subsidiary of the company until that audit has been completed.
+(5) Notwithstanding anything in subsection (4)﻿(a), where, in respect of the company and its subsidiaries (if any), consolidated financial accounts have been submitted to the Auditor-General for audit, the Auditor-General shall continue to be the auditor of the company and every subsidiary of the company until that audit has been completed.
 
 ### 31 Certain provisions not to apply if Crown ceases to hold controlling interest in company
 Upon a controlling interest in the company ceasing to be held by Ministers of the Crown on behalf of the Crown, sections 4, 5, 6(3), 7, 8, and 29 shall cease to apply in respect of the shareholding Ministers, the board, and the company.
@@ -242,6 +242,6 @@ Amendment(s) incorporated in the Act(s).
   (d) the State-Owned Enterprises Amendment Act (No 2) 1992.
 
 ### 37 Saving
-Notwithstanding the repeal, by section 36(2)(a), of the Southland Electric Power Supply Act 1936, until the undertaking referred to in section 9 of that Act is transferred to the company pursuant to this Act, section 9 of the Southland Electric Power Supply Act 1936 shall continue to apply in respect of that undertaking as if section 36 of this Act had not been enacted.
+Notwithstanding the repeal, by section 36(2)﻿(a), of the Southland Electric Power Supply Act 1936, until the undertaking referred to in section 9 of that Act is transferred to the company pursuant to this Act, section 9 of the Southland Electric Power Supply Act 1936 shall continue to apply in respect of that undertaking as if section 36 of this Act had not been enacted.
 
 ## Schedule Schedule — Enactments amended
