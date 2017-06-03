@@ -1,12 +1,12 @@
 # Statutes Repeal Act 1907
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-06-03_
 
-> AN ACT for promoting the Revision of the Statute Law by repealing Enactments which have ceased to be in Force or have become unnecessary.
+> An Act for promoting the revision of the Statute Law by repealing enactments which have ceased to be in force or have become unnecessary.
 
 ## Preamble
-WHEREAS it is expedient that certain enactments which may be regarded as spent, or have ceased to be in force otherwise than by express specific repeal by Parliament, or have by lapse of time or otherwise become unnecessary, should be expressly and specifically repealed:
+Whereas it is expedient that certain enactments which may be regarded as spent, or have ceased to be in force otherwise than by express specific repeal by Parliament, or have by lapse of time or otherwise become unnecessary, should be expressly and specifically repealed:
 
-### 1 Short Title
+### 1 Short title
 This Act may be cited as the Statutes Repeal Act 1907.
 
 ### 2 Repeals
