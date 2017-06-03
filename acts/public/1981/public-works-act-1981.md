@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2017-04-19_
+_Consolidation as at 2017-06-03_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -2052,6 +2052,7 @@ Every person who wilfully obstructs any engineer, overseer, employee, or other p
 (2) The Order in Council fixing a day upon which section 36 of the Finance Act 1933 (No 2) shall come into force, published in Gazette 1934, Volume 1, at page 424 is hereby revoked.
 (3) Notwithstanding the repeal of any enactment by this section, the powers and duties conferred on the Maori Trustee by section 104 of the Public Works Act 1928 (as substituted by section 6 of the Public Works Amendment Act 1962 and amended by section 2 of the Public Works Amendment Act 1964) shall, in respect of land taken for the purposes of a public work before 1 January 1975, continue and be exercised as if the said section 104 had not been repealed by section 12(8) of the Maori Purposes Act 1974.
 (4) Notwithstanding the repeal of any enactment by this section or by section 15(2) of the Public Works Amendment Act 1973, every railway the construction of which has been authorised or deemed to have been authorised under any such enactment or by any enactment continued in force by any such enactment shall be deemed to have been authorised to be constructed under section 164, and so much of the Acts as are set out in Schedule 9 of the Public Works Act 1928 shall continue in force and operate as if such repeal had not been made.
+(5) Despite the repeal of the Southland Electricity Act 1993 by section 3(1) of the Statutes Repeal Act 2017, section 20 of the Southland Electricity Act 1993 (which relates to the modification of sections 40 to 42 of this Act) continues to apply to the transfer of land or an interest in land to the company pursuant to the Southland Electricity Act 1993 as if that section had not been repealed.
 
 ### 249 Transitional provision
 [Repealed]
