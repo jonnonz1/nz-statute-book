@@ -1,5 +1,5 @@
 # Finance Act 1987
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -16,13 +16,13 @@ _Consolidation as at 2008-04-01_
   (a) the Building Performance Guarantee Corporation Act 1977:
   (b) so much of Schedule 3 of the State Services Act 1962 as relates to the Building Performance Guarantee Corporation of New Zealand established by section 3(1) of the Building Performance Guarantee Corporation Act 1977 (hereafter in this section referred to as the Guarantee Corporation):
   (c) so much of Schedule 3 of the Flags, Emblems, and Names Protection Act 1981 as relates to the Building Performance Guarantee Corporation Act 1977 or the Guarantee Corporation:
-  (d) subsections (3)(b) and (5) of section 24 of the Official Information Amendment Act 1987:
+  (d) subsections (3)﻿(b) and (5) of section 24 of the Official Information Amendment Act 1987:
   (e) so much of Part 2 of Schedule 1 of the Ombudsmen Act 1975 as relates to the Guarantee Corporation.
 (2) The Building Performance Guarantee Corporation Commencement Order 1978 is hereby revoked.
 (3) The Guarantee Corporation is hereby abolished.
 (4) All rights, assets, liabilities, and debts that the Guarantee Corporation had immediately before the commencement of this section shall, on that commencement, be deemed to have become rights, assets, liabilities, and debts of Housing New Zealand Corporation (hereafter in this section referred to as the Housing Corporation); and the Housing Corporation shall have all the powers that are reasonably necessary or expedient to enable it to satisfy those liabilities.
 (5) Without limiting the generality of subsection (4), the Housing Corporation may, in its discretion, do anything in respect of any land, residential building, or other property, that it considers necessary or desirable to do to mitigate its liability or contingent liability under any indemnity given by the Guarantee Corporation under the Building Performance Guarantee Corporation Act 1977 or to satisfy or attempt to satisfy any claim made by any person in respect of any such indemnity.
-(6) Notwithstanding subsection (1)(a), Part 4 of the Building Performance Guarantee Act 1977 shall apply to claims made to the Housing Corporation in respect of indemnities given by the Guarantee Corporation under the Building Performance Guarantee Corporation Act 1977.
+(6) Notwithstanding subsection (1)﻿(a), Part 4 of the Building Performance Guarantee Act 1977 shall apply to claims made to the Housing Corporation in respect of indemnities given by the Guarantee Corporation under the Building Performance Guarantee Corporation Act 1977.
 
 ### 3 Authorising Crown shareholding in Maori Development Corporation Limited
 (1) In this section, the Corporation means Maori Development Corporation Limited.
