@@ -1,5 +1,5 @@
 # State Sector Amendment Act (No 2) 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-06-03_
 
 ### 1 Title
 (1) This Act is the State Sector Amendment Act (No 2) 2004.
@@ -23,7 +23,7 @@ This Act comes into force on 25 January 2005.
 (3) Section 2 of the principal Act is amended by inserting, after paragraph (a) in the definition of State services, the following paragraphs:.
   (ab) includes a Crown entity; and
   (ac) includes a Crown Research Institute; and
-(4) Section 2 of the principal Act is amended by repealing paragraph (c)(vi) of the definition of State services, and substituting the following paragraph:.
+(4) Section 2 of the principal Act is amended by repealing paragraph (c)﻿(vi) of the definition of State services, and substituting the following paragraph:.
   (vi) any tertiary education institution
 (5) Section 2 of the principal Act is amended by inserting, after the definition of strike, the following definition:.
   - **tertiary education institution** means an institution within the meaning of section 159(1) of the Education Act 1989
@@ -58,7 +58,7 @@ The principal Act is amended by repealing section 9, and substituting the follow
 ### 8 Exercise of functions and powers in respect of other State services
 (1) Section 11 of the principal Act is amended by repealing subsection (4), and substituting the following subsection:
   (4) The Commissioner may, if requested by the head of any part of the State services, and must, if requested by the Minister in charge of, or responsible for, any part of the State services, exercise in respect of that part of the State services any of the functions and powers that the Commissioner may exercise in respect of Departments under any provision of sections 6 to 8.
-(2) Section 11(5)(a) of the principal Act is amended by inserting, before the words any other Act, the words this or.
+(2) Section 11(5)﻿(a) of the principal Act is amended by inserting, before the words any other Act, the words this or.
 (3) Section 11 of the principal Act is amended by adding the following subsection:
   (6) The Commissioner may, if requested by the head of any part of the State services that does not form part of the Public Service, or of any corporation listed in the First Schedule of the State-Owned Enterprises Act 1986, provide assistance in respect of the conditions of employment of its employees.
 
@@ -74,15 +74,15 @@ The principal Act is amended by repealing Part 4, and substituting the following
     (b) approving the entry of employees in the Public Service to the executive leadership programme; and
     (c) approving the development programme for each employee participating in the executive leadership programme, in consultation with the employee concerned.
   (3) Despite section 33, the Commissioner may request the chief executive of a Department of the Public Service who is the employer of an employee selected for the executive leadership programme to make that employee available for the training and development necessary to give effect to the employee's development programme.
-  (1) Each chief executive of a Department of the Public Service is responsible for developing senior leadership and management capability in his or her Department and in doing so must have regard to any guidance by the Commissioner under section 47(1)(b).
+  (1) Each chief executive of a Department of the Public Service is responsible for developing senior leadership and management capability in his or her Department and in doing so must have regard to any guidance by the Commissioner under section 47(1)﻿(b).
   (2) Each chief executive of a Department of the Public Service must, in relation to the executive leadership programme,—
     (a) co-operate with the Commissioner in making employees available for selection for the executive leadership programme; and
     (b) comply with any reasonable request by the Commissioner under section 47(3); and
     (c) co-operate with the Commissioner, to the extent reasonable, to give effect to any secondment that the Commissioner proposes under section 49.
-  (1) The Commissioner may arrange for the secondment of any employee selected for the executive leadership programme to a Department of the Public Service or another organisation in the State services, subject to the agreement of the employee and the chief executives concerned, for the purpose of giving effect to any part of the development programme for that employee referred to in section 47(2)(c).
+  (1) The Commissioner may arrange for the secondment of any employee selected for the executive leadership programme to a Department of the Public Service or another organisation in the State services, subject to the agreement of the employee and the chief executives concerned, for the purpose of giving effect to any part of the development programme for that employee referred to in section 47(2)﻿(c).
   (2) Sections 60, 61, and 65 do not apply to the secondment.
-  (1) The Commissioner may promote the strategy for the development of senior leaders and managers developed for the Public Service under section 47(1)(a) to organisations in the State services that are not part of the Public Service.
-  (2) The Commissioner may issue to organisations in the State services that are not part of the Public Service any guidance he or she has issued to chief executives of Departments of the Public Service under section 47(1)(b).
+  (1) The Commissioner may promote the strategy for the development of senior leaders and managers developed for the Public Service under section 47(1)﻿(a) to organisations in the State services that are not part of the Public Service.
+  (2) The Commissioner may issue to organisations in the State services that are not part of the Public Service any guidance he or she has issued to chief executives of Departments of the Public Service under section 47(1)﻿(b).
   (3) The Commissioner may, in consultation with the employee's chief executive, invite any employee in an organisation in the State services that is not part of the Public Service to participate in training and development activities provided for employees of Public Service Departments.
 
 ### 10 General principles
@@ -102,14 +102,14 @@ The principal Act is amended by repealing section 57, and substituting the follo
     (c) the Parliamentary Counsel Office:
     (d) the Parliamentary Service.
   (2) The Commissioner may set those minimum standards by issuing a code of conduct and applying it to any agency referred to in subsection (1), by written notice to the agency.
-  (3) A code may be applied to an agency referred to in subsection (1)(b) to (d) with any variations that the Commissioner thinks appropriate, taking into consideration the legal or commercial context of the agency.
+  (3) A code may be applied to an agency referred to in subsection (1)﻿(b) to (d) with any variations that the Commissioner thinks appropriate, taking into consideration the legal or commercial context of the agency.
   (1) An agency (including its employees) must comply with any standards that apply to it under section 57.
-  (2) However, an agency referred to in section 57(1)(b) to (d) may derogate from a particular standard if the agency has—
+  (2) However, an agency referred to in section 57(1)﻿(b) to (d) may derogate from a particular standard if the agency has—
     (a) obtained the prior written approval of its responsible Minister to the derogation; and
     (b) sent a copy of the approval to the Commissioner.
   (3) This section does not prevent an agency from applying additional or detailed standards that are consistent with the standards applied to the agency.
   The Commissioner may advise the responsible Minister if, in the opinion of the Commissioner, a serious breach of any minimum standard applied to an agency under section 57 has occurred, or is likely to occur.
-  (1) The Commissioner may, when acting under sections 57 to 57B in respect of any agency referred to in section 57(1)(b) to (d), exercise the powers in sections 7 to 9 that the Commissioner may exercise in respect of Departments, including the powers in section 25.
+  (1) The Commissioner may, when acting under sections 57 to 57B in respect of any agency referred to in section 57(1)﻿(b) to (d), exercise the powers in sections 7 to 9 that the Commissioner may exercise in respect of Departments, including the powers in section 25.
   (2) The Commissioner's powers include providing advice and guidance on matters like the interpretation of the standards and the application of a code of conduct in specific cases.
 
 ### 12 Equal employment opportunities
