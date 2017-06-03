@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-06-03_
 
 > Title
 
@@ -10,6 +10,9 @@ _Consolidation as at 2017-03-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **Agency** means the New Zealand Transport Agency established under section 93 of the Land Transport Management Act 2003
+  - **Auckland Harbour Bridge** means the bridge structure across the Waitemata Harbour, Auckland, between Birkenhead and Westhaven, that carries the road between the State Highway route positions 01N-0414/09.02 and 01N-0414/10.82, and includes all associated road approaches and on-ramps and off-ramps, but does not include—
+    (a) any land or water over which the bridge passes on a structure where there is air space between the land or water and the structure:
+    (b) any building, structure, or other work not forming part of the bridge (which includes any building, structure, or work exclusively used for purposes other than the carriage of motor vehicles) or not forming part of such road approaches, on-ramps, or off-ramps
   - **Commissioner** means the Commissioner of Police
   - **council-controlled organisation** means a council-controlled organisation within the meaning of the Local Government Act 2002
   - **Crown Bank Account** has the same meaning as in the Public Finance Act 1989
@@ -20,6 +23,7 @@ _Consolidation as at 2017-03-01_
   - **local road** means any road (other than a State highway) in the district of a territorial authority
   - **Minister** means the Minister of Transport
   - **Ministry** means the Ministry of Transport
+  - **motor vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **motorway** —
     (a) means a motorway declared as such by the Governor-General in Council under section 138 of the Public Works Act 1981 or under section 71 of this Act; and
     (b) includes all bridges, drains, culverts, or other structures or works forming part of any motorway so declared; but
@@ -748,6 +752,16 @@ The engineer in charge of the construction or maintenance of any motorway shall 
   (c) fails to comply with any condition specified in any authorisation granted under section 84; or
   (d) uses or makes any unauthorised crossing place on to a motorway,—
 (2) The owner or person in charge of any animal or thing which is on a motorway in breach of section 82(2) shall not be guilty of an offence under subsection (1) if the owner or person proves that the presence of the animal or thing on the motorway in breach of that subsection was not due to any negligence on his or her part.
+
+### 87A Auckland Harbour Bridge
+The Auckland Harbour Bridge is declared to be a motorway within the meaning of this Act, and the provisions of this Act and of any other Act and of any regulations relating to motorways accordingly apply to the Auckland Harbour Bridge.
+
+### 87B Auckland Harbour Bridge to be properly lighted
+The Agency must at all times ensure that the Auckland Harbour Bridge is adequately lighted so as to provide for the safety of ships and aircraft in the vicinity of the Auckland Harbour Bridge.
+
+### 87C Installation of services on Auckland Harbour Bridge
+(1) No person or body may provide, install, maintain, or repair any water main, gas pipe, or other pipe, or any power or telecommunications line, wire, or cable on the Auckland Harbour Bridge without the consent of the Agency, which may be given subject to such conditions as the Agency considers necessary for the protection and safety of the Auckland Harbour Bridge and of traffic using the Auckland Harbour Bridge.
+(2) The person or body responsible for any installation on the Auckland Harbour Bridge must pay to the Agency an annual amount for the use of the Auckland Harbour Bridge as may be agreed upon by the Agency and the person or body.
 
 **Limited access roads**
 
