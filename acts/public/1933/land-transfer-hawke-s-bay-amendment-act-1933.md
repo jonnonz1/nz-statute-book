@@ -1,5 +1,5 @@
 # Land Transfer (Hawke's Bay) Amendment Act 1933
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-06-03_
 
 > An Act to amend the Land Transfer (Hawke's Bay) Act 1931
 
@@ -17,9 +17,7 @@ In this Act—
 (2) This section is in substitution for section 3 of the special Act, and that section is hereby repealed accordingly.
 
 ### 4 Registrar may apply to Hawke's Bay Adjustment Court for declaratory order in respect of matters concerning the new register
-(1) The Registrar may at his discretion at any time apply to the Hawke's Bay Adjustment Court for an order under section 12 of the Hawke's Bay Earthquake Act 1931 to define the rights and liabilities of any person or persons in or in relation to any land or interest in land within the district, if the definition of such right or liability by that Court would facilitate the making of the new register for the district.
-(2) Notice of every such application shall be given by the Registrar by registered letter to every person known or believed by him to be entitled to any right or to be subject to any liability in respect of any land the subject-manner of the application.
-(3) Every such application, until disposed of by the Court, shall be effective as a caveat by the Registrar, and he shall make an entry in the register that such application has been made.
+[Repealed]
 
 ### 5 Modification of section 44 of principal Act for purposes of special Act
 The Registrar shall have power, and from the passing of the special Act shall be deemed to have had power, to act under the provisions of section 44 of the principal Act without the necessity of complying with the proviso to subsection (2) thereof; and he may dispense with copying any outstanding duplicate of any instrument.
