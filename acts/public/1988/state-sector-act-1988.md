@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2017-05-19_
+_Consolidation as at 2017-06-03_
 
 > Title
 
@@ -1170,6 +1170,9 @@ The enactments specified in Schedule 5 are hereby amended in the manner indicate
 ### 88 Repeals and transitional provision
 (1) The enactments specified in Schedule 6 are hereby repealed.
 (2) Every reference in any other enactment to the State Services Act 1962 or the State Services Conditions of Employment Act 1977 shall hereafter be read as a reference to the State Sector Act 1988.
+(3) The entitlement of an officer or employee in the State services under any superannuation arrangement that applied to that officer or employee on 25 January 2005 is not affected by—
+  (a) the repeal of sections 84 to 84D and the substitution of sections 84 to 84B of this Act by section 16(1) of the State Sector Amendment Act (No 2) 2004; or
+  (b) the amendments to Acts that are contained in Schedule 6 of the Crown Entities Act 2004.
 
 ### 89 Revocations
 The regulations and orders specified in Schedule 7 are hereby revoked.
@@ -1201,62 +1204,34 @@ Every person who, at the commencement of this Act, holds any position in the Pub
 Every award and every agreement relating to the terms and conditions of employment of employees in the State services which was in force immediately before the commencement of this Act shall continue in force after the commencement of 1 April 1988 notwithstanding any of the other provisions of this Act. Any such award or agreement shall have effect according to its tenor.
 
 ### 96 Determinations and orders
-(1) Every determination and every order of the Arbitration Commission or the Labour Court, being a determination or order relating to terms and conditions of employment of employees of the State services, which was made under the State Services Act 1962 or the State Services Conditions of Employment Act 1977 and which was in force immediately before the commencement of this Act,—
-  (a) shall continue in force, except so far as other provision is duly made under this Act fixing the terms and conditions of employment to which that determination or order relates; and
-  (b) shall be deemed to be an award or an agreement registered under Part 7 of the Labour Relations Act 1987; but
-  (c) the rates of remuneration included in a determination or order deemed by this subsection to be an award or an agreement registered under Part 7 of the Labour Relations Act 1987 shall be paid rates.
-(2) An award or an agreement fixing the terms and conditions of employment of the employees of any department may be delivered to the Arbitration Commission for registration under Part 7 of the Labour Relations Act 1987 at any time before the close of 30 June 1988.
-(3) Except as provided in subsection (6), where an award or agreement fixing the terms and conditions of employment of employees of the State services has not been delivered to the Arbitration Commission for registration before the close of 30 June 1988, no award or agreement fixing conditions of employment of those employees may be registered until after the expiry date of the determination or order deemed to be an award or agreement under subsection (1).
-(4) Where any dispute arises between the parties over any matters to be incorporated into the award or agreement that will supersede a determination that is deemed by this section to be an award or agreement, either party may, before the close of 30 June 1988, invoke the disputes procedure set out in Schedule 6 of the Labour Relations Act 1987.
-(5) In making a decision on the dispute, the disputes committee or the Labour Court shall determine—
-  (a) whether the matter or matters in dispute are identical terms or conditions of employment to which section 94 applies; and
-  (b) if so, whether they should be incorporated in the proposed award or agreement.
-(6) Where, as at the close of 30 June 1988, the only matters not settled in relation to the completion of an award or agreement are matters that have been referred to a disputes committee under subsection (4), that award or agreement may, notwithstanding any of the other provisions of this section, be delivered to the Arbitration Commission for registration forthwith upon the decision of the disputes committee or the Labour Court being advised to the parties.
-(7) Except as provided in subsection (8), every award or agreement registered by the Arbitration Commission under this section shall come into force on 1 July 1988.
-(8) The Commission may make an adjustment, with effect from the commencement of 1 April 1988, to the salaries of any person or group of persons who, at the commencement of this Act,—
-  (a) held positions to which section 12(1)﻿(a) of the Higher Salaries Commission Act 1977 applied; or
-  (b) belonged to a group or class of employees whose salary scale had been the subject of an adjustment that took effect on 10 November 1987 but who have not received an adjustment of at least 7% to their salaries as a result of that adjustment.
-(9) Any such adjustment made by the Commission under subsection (8) shall be incorporated into the award or agreement that is to come into force on 1 July 1988.
-(10) Except where there is only 1 employer involved, every document registered under this section shall be an award.
+[Repealed]
 
 ### 97 Clauses relating to disputes of rights and personal grievances
-Every determination or order deemed to be registered under Part 7 of the Labour Relations Act 1987 by section 96 of this Act shall be deemed to include—
-  (a) with effect from the commencement of 1 April 1988, the clauses set out in Schedule 6 of that Act (which clauses relate to disputes of rights); and
-  (b) with effect from the commencement of 1 July 1988, the clauses set out in Schedule 7 of that Act (which clauses relate to settlement of personal grievances).
+[Repealed]
 
 ### 98 Expiry date of determinations and orders
-Every determination or order—shall be deemed to include an expiry date which shall be the first date upon which any of the conditions of employment contained in that determination or order could have been amended under section 6 of the State Services Conditions of Employment Act 1977 other than by way of amending determination under section 24 of the State Services Conditions of Employment Act 1977.
-  (a) deemed to be registered under Part 7 of the Labour Relations Act 1987 by section 96(1) of this Act; or
-  (b) delivered for registration under section 96(2) or (6) of this Act,—
+[Repealed]
 
 ### 99 Mandatory registration
-(1) Any award or agreement delivered to the Arbitration Commission for registration under section 96, shall, subject to subsection (2) of this section, be registered by the Arbitration Commission notwithstanding that the award or agreement does not comply with the requirements of section 150 or section 164 of the Labour Relations Act 1987.
-(2) Notwithstanding subsection (1), an award or agreement to which that subsection applies may not be registered if any matter contained in it is contrary to any enactment.
+[Repealed]
 
 ### 100 Recognition of service organisations as unions
-Every organisation recognised immediately before the commencement of this Act as a service organisation under the State Services Conditions of Employment Act 1977 shall be deemed to be registered under the Labour Relations Act 1987 as a union of workers with the coverage recognised under the State Services Conditions of Employment Act 1977 on 31 March 1988, notwithstanding that it may have fewer than 1 000 financial members, and section 30 of the Labour Relations Act 1987 shall apply to each such organisation accordingly.
+[Repealed]
 
 ### 101 Union rules
-(1) Every union that is deemed to be registered under the Labour Relations Act 1987 by section 100 of this Act shall, within the period of 12 months beginning on 1 April 1988, amend its rules so as to ensure that they comply with the requirements as to rules of unions contained in that Act, and any amendment made to the rules after the date of commencement of this Act shall so comply.
-(2) If, at the end of the period of 12 months specified in subsection (1), the Registrar of Unions is satisfied that any rule or rules of any union or employers organisation do not comply with the requirements of the Labour Relations Act 1987, the Registrar may amend the rule or rules so as to ensure that it or they comply with those requirements, but any union or organisation affected by such an amendment may appeal to the Labour Court against the Registrar's decision to amend or against any part of that decision.
-(3) Nothing in this section affects the immediate application, as from the commencement of this Act, of those sections of the Labour Relations Act 1987 which deem certain rules to be included in the rules of unions.
-(4) The Registrar of Unions shall not exercise the power conferred by section 40(2) of the Labour Relations Act 1987 in respect of any union rules that are in force at the date of commencement of this Act until the expiration of the period of 12 months specified in subsection (1) of this section.
+[Repealed]
 
 ### 102 Deferring operation of sections of the Labour Relations Act 1987
-Sections 49 and 52 of the Labour Relations Act 1987 shall not, until 1 April 1989, apply in respect of any organisation that has been deemed to be a union by section 100.
+[Repealed]
 
 ### 103 Union membership
-(1) Where, at the commencement of this Act, any determination contains a membership clause, that clause shall continue to have effect according to its tenor notwithstanding—
-  (a) the repeal of the provisions under which it was made; and
-  (b) the provisions of the Labour Relations Act 1987 relating to the insertion of union membership clauses in awards or agreements.
-(2) The provisions of the Labour Relations Act 1987 relating to union membership clauses shall apply in respect of the insertion of any union membership clause in any award or agreement after the commencement of this Act, including the replacement of any membership clause to which subsection (1) applies.
-(3) Every service organisation that is deemed to be a union by section 100 shall, for a period of 12 months beginning on 1 April 1988, have exclusive and unchangeable coverage of the persons in respect of whom it was recognised under the State Services Conditions of Employment Act 1977 immediately before the commencement of this Act.
+[Repealed]
 
 ### 104 Causes of action
-All matters and proceedings commenced under or in accordance with the State Services Conditions of Employment Act 1977 and pending or in progress at the commencement of this Act may be continued and completed as if this Act had not been passed.
+[Repealed]
 
 ### 105 Rights of employees of Public Service
-Notwithstanding the repeal of the State Services Act 1962, the provisions of sections 45 to 47, 55 to 59, and 70A and of Part 4 (other than the provisions of section 64(1)﻿(a)) of that Act shall, until the close of 30 June 1988, continue to apply to employees in the Public Service as if this Act had not been passed.
+[Repealed]
 
 ### 106 Application of repealed provisions
 (1) The following provisions of the State Services Act 1962, namely, the provisions of—shall continue to apply for the purposes of this Act only to the extent that they are expressly referred to and expressly applied by this Act or any other Act.
@@ -1269,33 +1244,26 @@ Notwithstanding the repeal of the State Services Act 1962, the provisions of sec
 (2) Where, before the commencement of this Act, any person was required by or under any Act or instructions, in force at the commencement of this Act, to retire from any office or employment on attaining a specified age, nothing in this Act entitles that person to continue in that office or employment after attaining that age.
 
 ### 107 Grading reviews of employees of Public Service
-(1) Notwithstanding anything in this Act, if, immediately before 1 July 1988, any person has lodged an application under section 45 of the State Services Act 1962 for a review of the grading of the position that that person occupied, the provisions of that Act, so far as they are applicable to such an application and any rights of review or rights of appeal flowing therefrom, shall continue to apply to that application and to any such rights of review and appeal as if the State Services Act 1962 had not been repealed by this Act.
-(2) The decision on any application for review shall be implemented by the chief executive of the department affected in the same manner as if the State Services Act 1962 were still in force and as if that chief executive were the Commission.
+[Repealed]
 
 ### 108 Appeal rights of employees of Public Service
-(1) Notwithstanding anything in this Act if, immediately before 1 July 1988, an appeal under section 57 or section 64 of the State Services Act 1962 is pending or if there is a right to such an appeal, either to the State Services Commission or to the Public Service Appeal Board, the provisions of that Act, so far as they are applicable, shall continue to apply to that appeal as if the State Services Act 1962 had not been repealed.
-(2) Notwithstanding anything in this Act, if, immediately before 1 April 1988,—the provisions of that Act, so far as they are applicable, shall continue to apply to that appeal as if the State Services Act 1962 had not been repealed.
-  (a) an appeal under section 64(1)﻿(a) of the State Services Act 1962 is pending; or
-  (b) there is a right to such an appeal,—
-(3) The decision on any appeal to which subsection (1) or subsection (2) of this section applies shall be binding on the employee, the Commission, and on any chief executive who may be affected and shall be implemented as if the State Services Act 1962 were still in force.
+[Repealed]
 
 ### 109 Apprenticeships preserved
-(1) Every indenture of apprenticeship entered into under the State Services Act 1962 before the date of the commencement of this Act and still subsisting immediately before that date shall continue in force on the same terms and conditions (but subject to any necessary modifications) as if the State Services Act 1962 had not been repealed.
-(2) In any such case, as from the commencement of this Act, the chief executive shall be the employer or the master for the purposes of the indenture of apprenticeship, and every reference in the indenture of apprenticeship to the Commission shall be read as a reference to the chief executive.
-(3) The repeal of section 14 of the State Services Conditions of Employment Amendment Act 1987 shall not affect any indenture of apprenticeship continued in force by that section.
+[Repealed]
 
 ### 110 Provisions relating to Commission
 (1) Every reference in any enactment or document to the Public Service Commissioner or to the Public Service Commission or to the office of either of them shall, after the commencement of this Act, unless the context otherwise requires, be read as references to the State Services Commission under this Act or the Office of the State Services Commission, as the case may be.
 (2) Every reference to the State Services Commission in any enactment passed or document made before or after the passing of this Act shall, unless the context otherwise requires, be read as a reference to the State Services Commission continued by this Act.
-(3) Every person who, immediately before the commencement of this Act, held office as a member of the Commission shall be deemed to have been appointed under section 12.
-(4) The person who, immediately before the commencement of this Act, held office as the Chairman of the Commission shall be deemed to have been appointed as Chief Commissioner under section 12(2).
+(3)
+(4)
 
 ### 111 General liabilities of Commission
 (1) All references to the Commission in any manual, or document whatever (not being an enactment) that is subsisting immediately before the commencement of this Act, shall, unless the Commission declares otherwise, be read as a reference to the appropriate department or chief executive, as the case may require.
 (2) All contracts, engagements, and liabilities and all rights and authorities of any nature whatever that, immediately before the commencement of this Act, existed between an individual in the Public Service and the Commission shall, unless the context otherwise requires, continue to exist as if the chief executive of the department in which the individual is employed were the Commission.
 
 ### 112 Savings
-Without limiting the provisions of the Acts Interpretation Act 1924, it is hereby declared that the repeal of the State Services Conditions of Employment Amendment Act 1987 does not affect the amendments made by sections 16(1), 16(4), 18, 20(1), and 23 of that Act or the rights conferred by sections 19, 21, and 22 of that Act.
+[Repealed]
 
 ## Schedule 1 — Departments of the Public Service
 
