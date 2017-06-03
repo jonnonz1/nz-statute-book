@@ -1,5 +1,5 @@
 # Tourist Hotel Corporation of New Zealand Act 1989
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2017-06-03_
 
 > An Act to enable the Tourist Hotel Corporation of New Zealand to dispose of any of its property or business and to enable the Corporation to be constituted as a company under the Companies Act 1955
 
@@ -57,7 +57,7 @@ This Act binds the Crown.
 (6) Except as provided in this section, the Companies Act 1955 shall apply to the company and in the application of the Companies Act 1955 to the company, if the Ministers are the only persons who hold shares in the capital of the company, the following provisions of that Act shall be construed as if references to 7 members were references to 2 members:
   (a) section 41, as to carrying on business when the number of members is reduced below the legal minimum:
   (b) section 217(d), as to winding up by the court when the number of members is reduced below the legal minimum:
-  (c) section 219(1)(a)(i), as to the presentation of a winding-up petition by a contributory when the number of members is reduced below the legal minimum.
+  (c) section 219(1)﻿(a)﻿(i), as to the presentation of a winding-up petition by a contributory when the number of members is reduced below the legal minimum.
 (7) Nothing in this section prevents the name of the company being changed in accordance with the provisions of the Companies Act 1955.
 
 ### 7 Crown shareholding
