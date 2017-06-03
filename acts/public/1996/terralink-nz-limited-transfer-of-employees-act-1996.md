@@ -1,5 +1,5 @@
 # Terralink NZ Limited (Transfer of Employees) Act 1996
-_Consolidation as at 1996-07-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to provide for the transfer of employees from the Department of Survey and Land Information to Terralink NZ Limited
 
