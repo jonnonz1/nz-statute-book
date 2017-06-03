@@ -1,5 +1,5 @@
 # Post Office Act Repeal Act 1987
-_Consolidation as at 1998-01-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to repeal the Post Office Act 1959 and to make provision incidental thereto
 
@@ -13,11 +13,11 @@ _Consolidation as at 1998-01-01_
 (3) The Orders in Council specified in Schedule 2 are hereby consequentially revoked.
 
 ### 3 Financial provisions
-(1) On the commencement of this Act, all money remaining in— shall be transferred to the Consolidated Account.
+(1) On the commencement of this Act, all money remaining in—shall be transferred to the Consolidated Account.
   (a) the Post Office Account kept under section 169 of the Post Office Act 1959:
   (b) the Reserve Fund held by the Post Office pursuant to section 181 of that Act:
   (c) the depreciation reserve established pursuant to section 180 of that Act—
-(2) Notwithstanding the provisions of section 2,— shall continue in existence until the date appointed by the Governor-General by Order in Council pursuant to subsection (3) in respect of the fund.
+(2) Notwithstanding the provisions of section 2,—shall continue in existence until the date appointed by the Governor-General by Order in Council pursuant to subsection (3) in respect of the fund.
   (a) the Sick Benefit Fund provided for in section 182 of the Post Office Act 1959; and
   (b) the Fine Fund provided for in section 185 of that Act; and
   (c) the Suspense Account Fund provided for in section 184 of that Act,—
@@ -27,7 +27,7 @@ _Consolidation as at 1998-01-01_
 **Sick Benefit Fund**
 
 ### 4 Post Office Employees’ Sick Benefit Fund Regulations 1969
-Notwithstanding the provisions of section 2,— shall remain in force until the date appointed by the Governor-General in relation to the Sick Benefit Fund under section 3(3), and shall then expire together with the amendments to those regulations made by sections 5 to 8.
+Notwithstanding the provisions of section 2,—shall remain in force until the date appointed by the Governor-General in relation to the Sick Benefit Fund under section 3(3), and shall then expire together with the amendments to those regulations made by sections 5 to 8.
   (a) the Post Office Employees’ Sick Benefit Fund Regulations 1969:
   (b) the Post Office Employees’ Sick Benefit Fund Regulations 1969, Amendment No 1:
   (c) the Post Office Employees’ Sick Benefit Fund Regulations 1969, Amendment No 2:
@@ -55,7 +55,7 @@ The Post Office Employees’ Sick Benefit Fund Regulations 1969 are hereby amend
 
 ### 8 Miscellaneous amendments to Post Office Employees’ Sick Benefit Fund Regulations 1969
 (1) The Post Office Employees’ Sick Benefit Fund Regulations 1969 (in subsections (2) and (3) of this section referred to as the principal regulations) are hereby amended by revoking regulation 15 (as substituted by regulation 2 of the Post Office Employees’ Sick Benefit Fund Regulations 1969, Amendment No 3).
-(2) Regulation 16(1)(a) of the principal regulations (as substituted by regulation 2 of the Post Office Employees’ Sick Benefit Fund Regulations 1969, Amendment No 1) is hereby amended by omitting the words Post Office, and substituting the words employer of that employee.
+(2) Regulation 16(1)﻿(a) of the principal regulations (as substituted by regulation 2 of the Post Office Employees’ Sick Benefit Fund Regulations 1969, Amendment No 1) is hereby amended by omitting the words Post Office, and substituting the words employer of that employee.
 (3) The principal regulations are hereby amended by omitting every reference to the Postmaster-General, and every reference to the Director-General, and substituting in each case a reference to the responsible Minister.
 
 ### 9 Transitional provision in respect of union membership
