@@ -1,5 +1,5 @@
 # Finance Act 1955
-_Consolidation as at 1985-04-02_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision with respect to public finance and other matters
 
