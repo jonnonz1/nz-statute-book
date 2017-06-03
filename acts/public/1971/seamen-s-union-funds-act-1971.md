@@ -1,5 +1,5 @@
 # Seamen's Union Funds Act 1971
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to provide for the management of the assets of the deregistered New Zealand Seamen's Industrial Union of Workers, and for matters incidental thereto
 
