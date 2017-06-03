@@ -1,5 +1,5 @@
 # Rugby World Cup 2011 (Empowering) Act 2010
-_Consolidation as at 2014-12-04_
+_Consolidation as at 2017-06-03_
 
 ### 1 Title
 This Act is the Rugby World Cup 2011 (Empowering) Act 2010.
@@ -120,7 +120,7 @@ In this Act, unless the context otherwise requires,—
   (b) if, for the nominated period, the owner or person responsible for the household unit—
     (i) provides and displays, in accordance with regulations made under this Act, an evacuation notice and information on how to call emergency services; and
     (ii) ensures that a smoke alarm is at all times installed in the household unit and is in good working order.
-(2) Despite section 5(2)(a), if a household unit is used during the nominated period for transient accommodation, that use is not to be treated as a change of use for the purposes of sections 114 and 115 of the Building Act 2004 and regulations made under that Act.
+(2) Despite section 5(2)﻿(a), if a household unit is used during the nominated period for transient accommodation, that use is not to be treated as a change of use for the purposes of sections 114 and 115 of the Building Act 2004 and regulations made under that Act.
 (3) In this section,—
   - **household unit** has the meaning given in section 7 of the Building Act 2004
   - **nominated period** means the period prescribed for the purpose of this section by regulations made under this Act
@@ -132,11 +132,11 @@ In this Act, unless the context otherwise requires,—
   (b) for which, unless there is other lawful authority for the activity or facility, the Authority has granted—
     (i) an approval or made a declaration under Part 3 or 4:
     (ii) a Rugby World Cup liquor licence under Part 5.
-(2) Despite section 5(2)(c), the following persons or bodies may apply to the Minister to declare by notice in the Gazette that an activity or a facility to which subsection (1) applies is a major maritime event for the purposes of sections 200A and 200B of the Maritime Transport Act 1994:
+(2) Despite section 5(2)﻿(c), the following persons or bodies may apply to the Minister to declare by notice in the Gazette that an activity or a facility to which subsection (1) applies is a major maritime event for the purposes of sections 200A and 200B of the Maritime Transport Act 1994:
   (a) the regional council that has jurisdiction over the area for which a declaration is sought:
   (b) the Commissioner of Police.
 (3) If the Minister makes a declaration under subsection (2), sections 200A and 200B of the Maritime Transport Act 1994 apply, except to the extent that this section provides otherwise.
-(4) If a notice given under subsection (2) provides for the regional council to make a determination of the kind provided for by section 200A(2)(e) of the Maritime Transport Act 1994, the regional council must first consult the Commissioner of Police, if the Police are not the applicant.
+(4) If a notice given under subsection (2) provides for the regional council to make a determination of the kind provided for by section 200A(2)﻿(e) of the Maritime Transport Act 1994, the regional council must first consult the Commissioner of Police, if the Police are not the applicant.
 (5) Section 200A(6) of the Maritime Transport Act 1994 does not apply to any application made under this section.
 (6) In this section, Minister means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Maritime Transport Act 1994.
 
@@ -309,7 +309,7 @@ Applications for approvals and declarations under section 19 or 20 must be—
     (ii) identify the condition that is the subject of the request or the new condition that is sought; and
     (iii) provide information as to why the change or cancellation of the condition is requested or a new condition is sought; and
     (iv) include an assessment of how the change or cancellation of a condition or provision of a new condition is likely to promote the matters set out in section 11(2); and
-    (v) include the information required by subsections (1) and (2)(c)(iv) and (vii).
+    (v) include the information required by subsections (1) and (2)﻿(c)﻿(iv) and (vii).
 
 ### 23 Information to be supplied with applications for test approvals or declarations
 An application made under section 20 must include—
@@ -319,7 +319,7 @@ An application made under section 20 must include—
   (b) a statement as to why a test approval or declaration is required and how it is to be used for the purpose of testing, as part of the preparation for the Rugby World Cup 2011, that an activity or facility is adequate and appropriate to achieve the intended outcome; and
   (c) information as to the steps the applicant will take to ensure, as far as is reasonably practicable, the health and safety of those carrying out the activity or using the facility; and
   (d) any other information relevant to the test event for which the test approval or declaration is required; and
-  (e) in the case of an application to change the conditions of a test approval or declaration, the information required under section 22(2)(d).
+  (e) in the case of an application to change the conditions of a test approval or declaration, the information required under section 22(2)﻿(d).
 
 **Overlapping applications**
 
@@ -344,7 +344,7 @@ An application made under section 20 must include—
   (b) the statutory time limits applying to the relevant statutory person or body recommence from the date that the statutory body or person receives the documentation.
 (7) If the relevant statutory person or body is requested to reinstate and determine the application under subsection (5),—
   (a) it must treat the decision and reasons of the Authority as irrelevant for the purposes of the decision on the application; but
-  (b) it may have regard to any other relevant information that is transferred under subsection (6)(a).
+  (b) it may have regard to any other relevant information that is transferred under subsection (6)﻿(a).
 
 ### Subpart 2 — Jurisdiction, public notification, and making of submissions
 
@@ -362,12 +362,12 @@ Criteria
   (c) it is unlikely that, but for this Part, the application could be determined in time to enable the activity to be undertaken or the facility constructed for the Rugby World Cup 2011 or the test event, as the case may be.
 
 ### 26 Preliminary consideration of applications relating to tournament venues
-In determining an application that relates to a tournament venue, the Authority must disregard the criteria set out in section 25(3)(b) and (c).
+In determining an application that relates to a tournament venue, the Authority must disregard the criteria set out in section 25(3)﻿(b) and (c).
 
 ### 27 Notice of preliminary decision
 (1) The Authority must give notice to the applicant of its determination under section 25(1), advising whether or not the application is to be determined under this Act, and the reasons for the decision.
 (2) The Authority must give notice of its decision not later than 5 working days after receiving—
-  (a) the application from the administrative secretariat under section 17(4)(b); or
+  (a) the application from the administrative secretariat under section 17(4)﻿(b); or
   (b) any further information requested under section 25(2).
 
 **Notification of applications**
@@ -379,7 +379,7 @@ In determining an application that relates to a tournament venue, the Authority 
     (i) on the relevant statutory person or body; and
     (ii) on Rugby New Zealand 2011 Limited; and
     (iii) on the New Zealand Fire Service.
-(2) However, subsection (1)(a) does not apply if the enactment or statutory planning instrument that would apply, but for this Act, makes no provision for public notice to be given of an application made under that enactment or statutory planning instrument.
+(2) However, subsection (1)﻿(a) does not apply if the enactment or statutory planning instrument that would apply, but for this Act, makes no provision for public notice to be given of an application made under that enactment or statutory planning instrument.
 (3) Despite subsection (2), the Authority may give public notice of an application to which that subsection applies if it considers that there are special circumstances that warrant public notice being given.
 (4) If public notice is not given, the Authority must, without delay, give written notice to the persons with a right to be heard, as provided for in section 32(2), of—
   (a) the decision not to publicly notify the application; and
@@ -440,7 +440,7 @@ In determining an application that relates to a tournament venue, the Authority 
   (c) any person who lodged a submission under section 30.
 
 ### 33 Commencement of any hearing
-(1) If an application is publicly notified under section 28, the Authority must, not later than 5 working days after the closing date for submissions notified under section 29(1)(f), give written notice to the persons with a right to be heard as to—
+(1) If an application is publicly notified under section 28, the Authority must, not later than 5 working days after the closing date for submissions notified under section 29(1)﻿(f), give written notice to the persons with a right to be heard as to—
   (a) whether the Authority is to conduct a hearing; and
   (b) if so, the date of its commencement, which must be not later than 5 working days after the date on which the written notice is given under this subsection.
 (2) If an application is not publicly notified, the Authority must, not later than 5 working days after giving written notice to the persons with a right to be heard under section 28(4), give those persons written notice as to—
@@ -582,7 +582,7 @@ An approval, a declaration, a test approval or declaration, or a change to the c
   (b) is, or is likely to be, noxious, dangerous, offensive, or objectionable to such an extent that it has, or is likely to have,—
     (i) an adverse effect on the environment that is not of a temporary nature; or
     (ii) a serious prejudicial effect on the proper conduct of the Rugby World Cup 2011.
-(2) If the Authority considers it necessary or desirable to avoid, mitigate, or remedy an effect of a kind described in subsection (1)(b), an interim injunctive order may be made—
+(2) If the Authority considers it necessary or desirable to avoid, mitigate, or remedy an effect of a kind described in subsection (1)﻿(b), an interim injunctive order may be made—
   (a) without requiring service of the application on the person against whom the order is sought; and
   (b) without holding a hearing.
 (3) Before making an order, the Authority must consider—
@@ -963,8 +963,8 @@ Any person entitled to be heard may be represented by counsel or by a duly autho
 (1) A person who wishes to exercise a right of appeal to the High Court under this Act must file a notice of appeal with the Registrar of the High Court not later than 5 working days after notice is given of the relevant determination of the Authority.
 (2) At the same time as a notice of appeal is filed under subclause (1), the appellant must serve a copy of the notice, as appropriate, on—
   (a) the Authority, in the case of an appeal under section 48(1) or 94; and
-  (b) the Authority and on every person who had a right to be heard by the Authority under section 32(2) and who exercised that right, in the case of an appeal under section 48(2)(a) or (b); and
-  (c) the Authority, the statutory person or body that applied for the order, the person against whom the order is made, and any other party to the proceedings before the Authority, in the case of an appeal under section 48(2)(c) or 58(2).
+  (b) the Authority and on every person who had a right to be heard by the Authority under section 32(2) and who exercised that right, in the case of an appeal under section 48(2)﻿(a) or (b); and
+  (c) the Authority, the statutory person or body that applied for the order, the person against whom the order is made, and any other party to the proceedings before the Authority, in the case of an appeal under section 48(2)﻿(c) or 58(2).
 (3) Every notice of appeal must specify—
   (a) the determination or part of the determination that is appealed against; and
   (b) the error of law alleged by the appellant; and
