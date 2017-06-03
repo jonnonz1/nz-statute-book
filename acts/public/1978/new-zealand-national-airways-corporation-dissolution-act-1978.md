@@ -1,5 +1,5 @@
 # New Zealand National Airways Corporation Dissolution Act 1978
-_Consolidation as at 1978-12-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to give effect to the merger of Air New Zealand Limited and the New Zealand National Airways Corporation by authorising Air New Zealand Limited to assume the functions of the Corporation and providing for the dissolution of the Corporation
 
