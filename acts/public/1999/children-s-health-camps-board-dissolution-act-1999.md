@@ -1,5 +1,5 @@
 # Children's Health Camps Board Dissolution Act 1999
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to—adissolve the Children's Health Camps Board; andbtransfer its assets and liabilities to a foundation incorporated under Part 2 of the Charitable Trusts Act 1957; andcprovide for incidental matters
 
@@ -85,7 +85,7 @@ For the purposes of any enactment specified in the Schedule of the Tax Administr
 Subject to this Act, the Trustee Act 1956 applies to the Foundation.
 
 ### 14 Protection of emblem
-(1) Despite the revocation of the Health Camps Federation Emblem Order 1954 (by section 45(2)(a) of the Children's Health Camps Act 1972), the emblem of the King George the Fifth Memorial Children's Health Camps Federation is to be the emblem of the Foundation.
+(1) Despite the revocation of the Health Camps Federation Emblem Order 1954 (by section 45(2)﻿(a) of the Children's Health Camps Act 1972), the emblem of the King George the Fifth Memorial Children's Health Camps Federation is to be the emblem of the Foundation.
 (2) No person may,—
   (a) for the purposes of sale, apply or cause to be applied to any article the emblem of the Foundation or any colourable imitation of that emblem without the prior written consent of the Foundation; or
   (b) knowing that the emblem of the Foundation or any colourable imitation of that emblem has been applied to any article without the prior written consent of the Foundation, sell that article, or cause it to be sold, or offer or expose that article for sale, or cause it to be offered or exposed for sale.
