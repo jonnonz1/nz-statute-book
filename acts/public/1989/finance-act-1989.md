@@ -1,5 +1,5 @@
 # Finance Act 1989
-_Consolidation as at 1997-04-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision with respect to public finance and other matters
 
@@ -28,8 +28,8 @@ This Part relates to the period commencing on 1 April 1989 and ending with 30 Ju
   (c) a statement showing the amounts outstanding (including accretions from investments by way of bonus shares or capitalised interest) of any money paid out of the Public Account by way of advances or loans to, or for the purchase of shares or the provision of fixed capital in, any company or government agency; and
   (d) a statement of the public debt, together with a statement of all guarantees, indemnities, and securities given by the Minister of Finance on behalf of the Crown that remain contingent liabilities at the end of the transitional quarter; and
   (e) such other information and statements as would be required, by sections 46, 56, and 86 and any other provision of the Public Finance Act 1977 or any other provision of any other Act, to be included in the statement of the public accounts for the transitional quarter if that statement were a statement of the public accounts for a financial year.
-(3) The statement specified in subsection (2)(a) shall include all payments made, and money received, by imprestees that can be incorporated in the books of the Treasury for the transitional quarter. Imprests that are unaccounted for at the end of the transitional quarter shall be shown as imprests outstanding.
-(4) The payments referred to in subsection (2)(a) shall not include the investment of any money under section 41(3) or section 50 of the Public Finance Act 1977. The total of such investments outstanding at the end of the transitional quarter shall be shown in the public accounts for the transitional quarter in such manner as the Minister of Finance directs.
+(3) The statement specified in subsection (2)﻿(a) shall include all payments made, and money received, by imprestees that can be incorporated in the books of the Treasury for the transitional quarter. Imprests that are unaccounted for at the end of the transitional quarter shall be shown as imprests outstanding.
+(4) The payments referred to in subsection (2)﻿(a) shall not include the investment of any money under section 41(3) or section 50 of the Public Finance Act 1977. The total of such investments outstanding at the end of the transitional quarter shall be shown in the public accounts for the transitional quarter in such manner as the Minister of Finance directs.
 (5) Nothing in section 65 of the Public Finance Act 1977 shall apply in respect of the statement of the public accounts for the transitional quarter.
 
 ### 5 Audit Office report on public accounts
