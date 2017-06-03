@@ -1,5 +1,5 @@
 # Hawke's Bay Earthquake Relief Funds Act 1931
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision for the administration and control of funds raised wholly or partly by private subscription for the benefit of persons injuriously affected by the Hawke's Bay earthquake
 
