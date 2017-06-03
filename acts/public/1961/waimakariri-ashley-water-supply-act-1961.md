@@ -1,5 +1,5 @@
 # Waimakariri - Ashley Water Supply Act 1961
-_Consolidation as at 2003-07-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to constitute the Waimakariri - Ashley Water Supply District and the Waimakariri - Ashley Water Supply Board, and to define its functions and powers
 
