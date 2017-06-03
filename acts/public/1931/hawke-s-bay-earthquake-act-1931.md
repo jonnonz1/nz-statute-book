@@ -1,5 +1,5 @@
 # Hawke's Bay Earthquake Act 1931
-_Consolidation as at 2007-08-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision for various matters arising out of the Hawke's Bay earthquake
 
