@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2017-06-03_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -1928,8 +1928,8 @@ A registered person who receives a supply of services that is treated by section
       (ii) on any day following the day referred to in subparagraph (i) is on deposit or is deposited, before any revocation (under subsection (4)) of the notice so given, with the person to the credit of the registered person,—
     (d) a Home Layby Account within the meaning of the Post Office Act 1959; or
     (e) a Home Ownership Account within the meaning of the Home Ownership Savings Act 1974; or
-    (f) a Farm Ownership Account within the meaning of the Farm Ownership Savings Act 1974; or
-    (g) a Fishing Vessel Ownership Account within the meaning of the Fishing Vessel Ownership Savings Act 1977
+    (f)
+    (g)
   - **bank** means—
     (a)
     (b)
