@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2017-05-03_
+_Consolidation as at 2017-06-09_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -30,6 +30,7 @@ In this Act,—
   (g) provisions from Parts 1 and 1A of the 1987 Act about the following matters are set out in Part 4:
     (i) network operators and connection to, and misuse of, a network (subpart 1):
     (ii) maintenance of networks (subpart 2); and
+  (gaaa) subpart 3 of Part 4 sets out provisions granting statutory rights of access to private property for the purpose of installing certain fibre optic and other technology in circumstances where the consent of multiple parties would otherwise be required, together with provisions for establishing a dispute resolution scheme to deal with disputes relating to those rights of access (see also Schedule 3C); and
   (gaab) subpart 4 of Part 4 sets out provisions granting statutory rights for owners of existing electricity works (for example, power poles) to enter land where those works are situated and use the existing works for undertaking fibre optic works; and
   (gaa) provisions about undertakings required to be given by providers of certain telecommunications services involving fibre optic communications networks constructed in whole or in part using Crown investment funding, restrictions on unbundling in respect of such service providers, and the preparation and disclosure of information are set out in Part 4AA; and
   (ga) enforcement provisions are set out in Part 4A; and
@@ -2441,158 +2442,426 @@ A network operator, in maintaining, repairing, altering, or removing a line that
 (1) Any existing works or existing lines owned by a network operator that are fixed to, or installed over or under, land that is not owned by the network operator are deemed to be lawfully fixed or installed, and continue to be lawfully fixed or installed, until the network operator otherwise decides.
 (2) No person other than the network operator has an interest in any of those works or lines by reason only of having an interest in the land.
 
-### Subpart 3 — Access to multi-unit complexes to which fibre-to-the-premises is to be deployed
+### Subpart 3 — Access to property, involving rights of multiple parties, to deploy fibre optic media and other technology
 
-### 155A Overview
-(1) This subpart provides a statutory right of access to multi-unit complexes that fibre-to-the-premises service providers may use if an access agreement is not negotiated.
-(2) This subpart does not limit the statutory rights of access in sections 120 to 127.
+**Preliminary**
 
-### 155B Interpretation
-In this subpart, unless the context otherwise requires,—
-  - **access order** means an order of the District Court referred to in section 155I
-  - **Code** means the Code that has been approved under section 155K, and includes any amendment to the Code that is approved under that section
-  - **consumer** , in relation to a consumer complaints system, includes an owner or occupier
-  - **consumer complaints system** , in relation to an FTTP service provider, means either of the following:
-    (a) an industry-based complaints system that has been established by the telecommunications industry and that has been approved by the Minister for the purposes of resolution of complaints under this subpart and the Code; or
-    (b) a consumer complaints system facilitated by Part 4B
-  - **fibre-to-the-premises access network** has the same meaning as in section 156AB
-  - **FTTP service provider** means the owner or operator of a fibre-to-the-premises access network
-  - **maintenance** has the same meaning as in section 117
-  - **multi-unit complex** means—
-    (a) a building that contains 2 or more distinct units (including the land on which the building is sited); or
-    (b) a group of buildings that are used communally (including the land on which those buildings are sited)
-  - **owner** , in relation to any part of a multi-unit complex, means any 1 or more of the following:
-    (a) a person who has a freehold or a leasehold interest in that part of the complex:
-    (b) any body corporate under the Unit Titles Act 2010 or the registered proprietor of the complex to which the unit plan relates:
-    (c) any other person who has a legal right to grant access to the building or to approve the performance of work in the building
-  - **preliminary notice** means a notice that complies with section 155F
-  - **second notice** means a notice that complies with section 155H.
+### 155A Purpose
+The purpose of this subpart is to enable more people and businesses to obtain the benefits of fibre-to-the-premises and other technology, within a shorter time frame, by—
+  (a) recognising that, when more than 1 person’s consent is required for an FTTP service provider or a network operator to access a property because each of those persons has some form of legal right in respect of that property, and there are difficulties in obtaining those consents, the process of installing infrastructure (such as fibre optic media) is delayed and opportunities to realise the benefits of that technology are missed; and
+  (b) providing for a tiered system of statutory rights of access—
+    (i) that FTTP service providers and network operators may use to access property and carry out installations in those situations; and
+    (ii) that imposes different requirements for different methods of installation in order to ensure that the requirements are appropriate to the methods and their impact on the property; and
+  (c) providing for a scheme for efficiently and effectively resolving disputes that may arise about rights and obligations under this subpart.
+
+### 155B Overview
+(1) This subpart—
+  (a) provides statutory rights of access that FTTP service providers and network operators may use to access private property that is subject to legal rights of multiple persons in order to install, maintain, repair, and upgrade fibre optic media in circumstances where, but for those rights, the service providers or network operators would need to obtain the consent of more than 1 person (an affected person) to enter the property and carry out that work (for example, where a driveway is shared by several neighbours, or where a building is a company share property or part of a unit title development); and
+  (b) enables the statutory rights of access to be applied to service providers and network operators in order to install, maintain, repair, or upgrade prescribed other technology (see sections 155E and 155ZO(1)﻿(b)); and
+  (c) sets out general preconditions for the statutory rights of access to apply, including that the installation does not involve affected persons paying for any costs of the installation (see section 155J); and
+  (d) sets out particular preconditions that an FTTP service provider or a network operator must satisfy before exercising the statutory rights, and provides that those preconditions—
+    (i) depend on whether the method that the service provider or network operator intends to use for installing the fibre optic media or prescribed other technology is prescribed as a category 1 installation or category 2 installation:
+    (ii) require the service provider or network operator to give every affected person, and the person who placed the order with a retail provider for the FTTP service to be installed, a preliminary notice of its intention to enter property and carry out a category 1 installation, but do not require it to obtain the consent of any of those persons (see section 155K):
+    (iii) require the service provider or network operator to give every affected person, and the person who placed the order for the FTTP service to be installed, a preliminary notice of its intention to enter a property and carry out a category 2 installation and, unless any affected person objects within the time allowed, deem each affected person to have consented to the entry and installation (see sections 155L to 155P):
+    (iv) in the case of a body corporate administered property, require the service provider or network operator to satisfy the preconditions for a category 2 installation, regardless of whether the installation is a category 1 or a category 2 installation (see sections 155Q to 155X); and
+  (e) provides for the grounds on which an affected person may object to a category 2 installation and, for body corporate administered properties, also provides additional grounds for objection (see sections 155N and 155T); and
+  (f) in the case of a body corporate administered property,—
+    (i) provides a separate statutory right of access for FTTP service providers and network operators to enter the property in order to design installations (see section 155Q); and
+    (ii) requires the body corporate to give to all owners of flats and units forming part of the property the body corporate’s reasons for objecting to an installation (see section 155W); and
+  (g) provides for how FTTP service providers and network operators must exercise their statutory rights of access (see sections 155Z to 155ZB); and
+  (h) for non-prescribed methods of installation, confirms that the rights that an FTTP service provider or a network operator has to enter property and carry out work for the purposes of the installation are the rights (if any) that it has under the general law and any relevant enactments (see section 155ZC); and
+  (i) provides for statutory rights of access for FTTP service providers and network operators to re-enter property for the purpose of inspecting, maintaining, repairing, or upgrading all or part of a fibre-to-the premises access network if certain preconditions are met (see sections 155ZD and 155ZE); and
+  (j) provides for a dispute resolution scheme to be established for resolving disputes relating to the statutory rights of access given by this subpart (see sections 155ZG to 155ZN and Schedule 3C); and
+  (k) provides for methods of installation to be prescribed as category 1 or category 2 installations for the purposes of the subpart, depending on the impact that the method of installation may have on the property, and for other matters to be prescribed by regulations for the purposes specified in section 155ZO; and
+  (l) grants the body corporate of a unit title development an exemption from the duty to maintain fibre networks installed as part of the UFB initiative (which would otherwise arise under the Unit Titles Act 2010) (see section 155ZP).
+(2) This section is a guide only to the general scheme and effect of this subpart.
 
 **Statutory right of access to multi-unit complexes**
 
-### 155C Nature of statutory right of access to multi-unit complexes
-(1) The right of access conferred by this subpart is that an FTTP service provider may, for the purpose of constructing, erecting, laying, maintaining, or upgrading all or any part of a fibre-to-the-premises access network,—
-  (a) enter a multi-unit complex at reasonable times, with or without any person who is, or any thing that is, reasonably necessary; and
-  (b) perform work that is reasonably necessary for the purpose of constructing, erecting, laying, maintaining, or upgrading all or any part of a fibre-to-the-premises access network.
-(2) This right of access applies only—
-  (a) if the service provider has complied with sections 155D to 155I in respect of each part of the multi-unit complex accessed under this subpart; and
-  (b) to authorise the matters referred to in subsection (1).
+### 155C Status of examples
+(1) An example used in this subpart is only illustrative of the provision to which it relates. It does not limit the provision.
+(2) If an example and the provision to which it relates are inconsistent, the provision prevails.
 
-### 155D Preconditions before statutory right of access to multi-unit complexes may be exercised
-Before an FTTP service provider enters, or performs work in, any part of a multi-unit complex under this subpart, the service provider must first—
-  (a) have agreed to be bound by the Code; and
-  (b) have taken all reasonable steps to negotiate an agreement for entry with the owner in accordance with the Code; and
-  (c) have served a preliminary notice on each owner of that part of the multi-unit complex in accordance with section 155F; and
-  (d) have served a second notice in accordance with section 155H on each owner of that part of the multi-unit complex who has not opted out in accordance with section 155G; and
-  (e) have obtained an access order from the District Court under section 155I in respect of each owner of that part of the multi-unit complex who has opted out in accordance with section 155G; and
-  (f) be a member of a consumer complaints system that provides for the resolution of complaints about compliance with this subpart and the Code.
+### 155D Interpretation
+(1) In this subpart, unless the context otherwise requires,—company share property means a building (including the land on which it is sited) owned by a flat or office owning company (within the meaning of Part 7A of the Land Transfer Act 1952) that issues licences to shareholders to occupy or use specified residential flats or offices forming part of the building
+  - **affected person** , in relation to property and a category 1 or category 2 installation,—
+    (a) means a person whose consent an FTTP service provider or a network operator would, but for this subpart, have to obtain before entering the property or carrying out the installation; and
+    (b) does not include the person who placed the order with a retail provider for the FTTP service to be installedExampleA flat-owning company owns a property comprising a block of 20 flats (and the land on which it is built). It is a company share property.The flats are situated at the end of a driveway. Three easements over the driveway enable residents of the flats as well as 2 neighbours, each living in a stand-alone house on either side of the driveway, to access their respective properties.Mark rents one of the flats. He wants an Ultra-fast Broadband connection, so he obtains his landlord’s agreement to place an order for an FTTP service to be installed to the flat. Mark, acting as agent for the landlord, places the order with a retail provider. To get fibre optic media from the road through to Mark’s flat, the FTTP service provider has to use a method of installation that depends on the service provider being able to carry out work on the driveway.The body corporate and the neighbours on either side of the driveway are the only affected persons in relation to the installation. This is because they are the persons whose consent to the entry and installation would be required at law,—in the case of the body corporate, as the owner of the property in which the installation is to be carried out and also as a person with rights under an easement over the driveway:in the case of each of the 2 neighbours, as persons with rights under their easements over the driveway.Mark’s landlord, on whose behalf Mark is acting when he places the order for an FTTP service, is not an affected person because of the exclusion in paragraph (b). (However, this subpart does expressly provide certain rights for the person with a legal interest in the shared property who has placed the order for the FTTP service to be installed, for example, rights to receive certain notices.)Mark is not an affected person because he does not have any legal interest in the flat and is therefore not a person whose consent the FTTP service provider would have been required to obtain were it not for this subpart.
+  - **body corporate administered property** means—
+    (a) a company share property:
+    (b) a unit title development:
+    (c) real property owned under another legal structure (if any) that—
+      (i) comprises 2 or more distinct units (for example, within a building) or a group of buildings used communally; and
+      (ii) is administered by a body corporate
+  - **category 1 installation** means a method of installation prescribed as a category 1 installation
+  - **category 2 installation** means a method of installation prescribed as a category 2 installation
+  - **dispute resolution scheme** has the same meaning as in section 155ZG
+  - **fibre-to-the-premises access network** has the same meaning as in section 156AB
+  - **FTTP service** means a telecommunications service delivered over fibre optic media to an end-user’s premises
+  - **FTTP service provider** means the owner or operator of a fibre-to-the-premises access network
+  - **installing** and , in relation to fibre optic media or other prescribed technology, includes maintaining, repairing, and upgrading that media or technology
+  - **maintaining, repairing, or upgrading** has the same meaning as in section 155ZD(5)
+  - **maintenance** has the same meaning as in section 117
+  - **non-prescribed installation** means a method of installation that is not prescribed as a category 1 or a category 2 installation
+  - **prescribed** means prescribed by regulations made under section 155ZO or clause 16 of Schedule 3C
+  - **prescribed other technology** means technology prescribed under section 155ZO(1)﻿(b)
+  - **property** means real property in respect of which more than 1 person has a legal right
+  - **UFB initiative** has the same meaning as in section 156AB
+  - **unit owner** includes a person who is a shareholder in a flat or office owning company (within the meaning of Part 7A of the Land Transfer Act 1952) and who has a licence to occupy or use a specified residential flat or office forming part of a building under a licence from the company
+  - **unit title development** has the same meaning as in section 5(1) of the Unit Titles Act 2010.
+(2) In this subpart, unless the context otherwise requires, a reference to a person who places an order for an FTTP service to be installed is a reference to the owner of the property (or, in the case of a body corporate administered property, the unit owner) to which the order relates, regardless of whether the owner places the order himself or herself or authorises another person (for example, a tenant) to place the order as agent on the owner’s behalf.
 
-### 155E How statutory right of access to multi-unit complex must be exercised
-(1) The entry to a multi-unit complex under section 155C must only be made by an officer, employee, or agent (including a contractor) of the FTTP service provider authorised by it in writing.
-(2) The person entering must produce evidence of his or her authority and identity—
-  (a) on initial entry; and
-  (b) after the initial entry, on request.
-(3) Subsections (1) and (2) are subject to the terms and conditions of any access order from the District Court under section 155I.
-(4) In this section, evidence of authority has the same meaning as in section 118, with any necessary modifications.
+### 155E References to fibre optic media, etc, include other prescribed technology
+In this subpart, unless otherwise stated or the context otherwise requires,—
+  (a) a reference to an installation of fibre optic media or an FTTP service includes a reference to the installation of a prescribed other technology or a service involving the installation of a prescribed other technology; and
+  (b) a reference to a fibre-to-the-premises access network includes a reference to a network—
+    (i) that comprises prescribed other technology; or
+    (ii) of which prescribed other technology forms a part.
 
 **Process**
 
-### 155F Requirements in respect of preliminary notice
-(1) A preliminary notice must—
-  (a) contain the matters specified in subsection (2); and
-  (b) comply with the Code; and
-  (c) be served on each person who is known by the service provider to be a current owner; and
-  (d) be left in a prominent place on the land.
-(2) The matters that must be included in the first notice are—
-  (a) an explanation of the infrastructure the service provider is seeking to deploy, maintain, or upgrade, and the benefits of that work:
-  (b) what the initial investigation would entail, including initial indications of the areas the service provider may want to access during the investigation, if known:
-  (c) the date and time of the intended investigation:
-  (d) an explanation that if the service provider does not hear from the owner within 20 working days (or any longer period agreed between the service provider and the owner), the owner will be deemed to have consented in principle to the investigation:
-  (e) an explanation that the owner can opt out of the access regime, and details as to reasonable grounds for opting out and the process for doing so:
-  (f) the contact details of the service provider to be used by the owner if the owner wishes to opt out or to negotiate an alternative time or date for the investigation:
-  (g) an explanation that, if the owner opts out on unreasonable grounds, the service provider may apply to the District Court for an access order:
-  (h) an assurance that the service provider has agreed to be bound by the Code and will, when entering the building, comply with the requirements in the Code, and an Internet link to the Code:
-  (i) an explanation that, if the owner or occupier believes that the service provider has breached the Code, the owner or occupier may complain to a consumer complaints system:
-  (j) an explanation of the process of making a complaint.
+### 155F Relationship with other statutory rights of access
+This subpart does not limit the statutory rights of access for existing works provided for in sections 120 to 127.
 
-### 155G Opting out of providing access under subpart
-(1) An owner may opt out of the access regime in this subpart by—
-  (a) serving an opt-out notice on the service provider within 20 working days of receiving a preliminary notice or a second notice (or any longer period agreed between the service provider and the owner); or
-  (b) denying access to a service provider.
-(2) An opt-out notice must be in writing and sent to the contact address given by the service provider.
-(3) The service provider has no right of access under this subpart after an opt-out happens unless the service provider obtains an access order granted by the District Court.
+### 155G Notices under this subpart
+A notice required to be given to a person under this subpart must, unless otherwise stated,—
+  (a) be in writing; and
+  (b) be given in the prescribed manner.
 
-### 155H Requirements in respect of second notice
-(1) A second notice must—
-  (a) contain the matters specified in subsection (2); and
-  (b) comply with the Code; and
-  (c) be served on each person who is known by the service provider to be a current owner, and left in a prominent place on the land,—
-    (i) no earlier than 10 working days after the earlier of—
-      (A) the expiration of the 20-working-day period referred to in section 155F(2)﻿(d) (or any longer period agreed between the service provider and the owner); or
-      (B) the date of notification by the owner that the owner consents to the work as proposed in the preliminary notice; and
-    (ii) no later than 21 working days before the time proposed in the notice for the start of the work.
-(2) The second notice must give the owner all the key information relating to the proposed work, including—
-  (a) an explanation of the exact details of the proposed work, including—
-    (i) the areas in which it will occur; and
-    (ii) the nature of the work, including whether it will require structural work; and
-    (iii) the nature of any fixed infrastructure that will be installed in the process:
-  (b) details of the proposed timing of the work and the length of time it is intended to take:
-  (c) an explanation of ongoing access requirements for repairs and maintenance:
-  (d) details of any costs to the owner associated with the work:
-  (e) an explanation that the owner can opt out, and details as to reasonable grounds for opting out and the process for doing so:
-  (f) the contact details of the service provider to be used if the owner wishes to opt out or negotiate an alternative time or date for the work:
-  (g) an explanation that, if the owner opts out on unreasonable grounds, the service provider may apply to the District Court for an access order:
-  (h) an assurance that the service provider has agreed to be bound by the Code and will, when entering the building, comply with the requirements in the Code, and an Internet link to the Code:
-  (i) an explanation that, if the owner or occupier believes that the service provider has breached the Code, the owner or occupier may complain to a consumer complaints system:
-  (j) an explanation of the process of making a complaint.
+**Nature and application of statutory rights of access under subpart**
 
-### 155I Access orders from District Court
-(1) If an owner has opted out, the service provider may apply to the District Court for an access order that authorises the service provider, for the purpose of constructing, erecting, laying, maintaining, or upgrading all or any part of a fibre-to-the-premises access network, to—
-  (a) enter a multi-unit complex at reasonable times, with or without any person who is, or any thing that is, reasonably necessary; and
-  (b) perform work that is reasonably necessary for the purpose of constructing, erecting, laying, maintaining, or upgrading all or any part of a fibre-to-the-premises access network.
-(2) The District Court may grant an access order only if the court is satisfied that the owner has unreasonably opted out.
-(3) The District Court must, in making that decision, consider whether the service provider has taken reasonable steps to negotiate an agreement for entry with the owner before applying to the court.
-(4) An access order may be made on any terms and conditions that the District Court thinks fit.
-(5) Sections 120(2), and 122 to 124 apply with necessary modifications.
+### 155H How long statutory rights of access apply for
+The statutory rights of access given by this subpart apply,—
+  (a) in relation to FTTP service providers and network operators installing fibre optic media, for the period starting on the date that this subpart comes into force and ending on 1 January 2025; and
+  (b) in relation to FTTP service providers and network operators exercising certain ongoing rights of access to installed fibre optic media, for the periods specified in section 155ZD; and
+  (c) in relation to network operators and installations of prescribed other technology, for the prescribed period.
+
+### 155I Nature of statutory rights of access
+(1) The statutory rights of access given by this subpart are that an FTTP service provider or a network operator may, for the purpose of carrying out a category 1 or category 2 installation of fibre optic media as part of a fibre-to-the-premises access network,—
+  (a) enter property at reasonable times, and may enter the property with a person who is, or thing that is, reasonably necessary for the purposes of carrying out the installation; and
+  (b) perform work that is reasonably necessary for the purposes of that installation.
+(2) The statutory rights of access referred to in subsection (1) apply only if—
+  (a) the general preconditions stated in section 155J are satisfied (regardless of whether the installation is a category 1 or a category 2 installation); and
+  (b) the FTTP service provider or network operator has complied with the particular preconditions,—
+    (i) for a category 1 installation, stated in section 155K:
+    (ii) for a category 2 installation, stated in section 155L:
+    (iii) for an installation in a body corporate administered property (regardless of whether the installation is a category 1 or a category 2 installation), stated in section 155R.
+(3) If an installation is in a property other than a body corporate administered property and involves both category 1 and category 2 methods of installation, the whole installation must be treated as a category 2 installation and (in addition to complying with the general preconditions stated in section 155J) must comply with the particular preconditions stated in section 155L.
+(4) If an installation involves more than 1 method of installation and all methods are prescribed as category 1 methods, the FTTP service provider or network operator must treat the whole installation as a category 1 installation.
+(5) If an installation involves more than 1 method of installation and all methods are prescribed as category 2 methods, the FTTP service provider or network operator must treat the whole installation as a category 2 installation.
+(6) A further statutory right of access is given to FTTP service providers and network operators for designing installations in body corporate administered properties (see section 155Q).
 
 **Code**
 
-### 155J Preparation of Code
-(1) The Minister must prepare a Code relating to access to multi-unit complexes by FTTP service providers under this subpart or by agreement.
-(2) The minimum matters that must be included in the Code are—
-  (a) guidance on reasonable processes and time frames for negotiating access with owners; and
-  (b) guidance as to cost sharing between service providers and owners, and processes for agreeing final cost splits; and
-  (c) guidance as to reasonable grounds for opting out; and
-  (d) guidance as to ongoing costs and reasonable conditions of ongoing access.
-(3) The Code may contain any other provisions that are necessary or desirable.
-(4) The Minister must, before recommending that the Governor-General approve a Code, consult service providers, and any other persons, that the Minister reasonably considers may be likely to be representative of the persons to be affected by the Code.
+### 155J General preconditions for statutory rights of access to apply
+(1) The general preconditions for the statutory rights of access given by this subpart to apply are that—
+  (a) a person has, after the commencement of this subpart, placed an order with a retail provider for an FTTP service to be installed; and
+  (b) the installation involves 1 or more affected persons; and
+  (c) no affected person is liable to pay for the costs of the installation, or part of those costs, without the affected person’s express agreement; and
+  (d) the FTTP service provider or network operator carrying out the installation is a member of the dispute resolution scheme.
+(2) In relation to subsection (1)﻿(a), see clauses 2 to 5 of Schedule 1AA, which provide for how FTTP service providers and network operators may treat orders for FTTP services placed before the commencement of this subpart (as replaced by section 13 of the Telecommunications (Property Access and Other Matters) Amendment Act 2017), for the purpose of obtaining access to property.
 
-### 155K Approval and status of Code
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, approve a Code.
-(2) The order may refer to, but need not contain, the Code, and must be published in the Gazette.
-(3) The order and the Code are disallowable instruments for the purposes of the Legislation Act 2012.
-(4) The order, but not the Code, is a legislative instrument for the purposes of the Legislation Act 2012.
-(5) The Code must be presented to the House of Representatives no later than 16 days after the date on which it is approved.
-(6) If any provision of the Code conflicts with this or any other Act, or with any regulation made under this or any other Act, the Act or regulation prevails.
-(7) The Minister may at any time prepare an amendment to the Code, and subsections (1) to (6) apply accordingly.
-(8) The Minister must ensure that the Code, and every amendment to it,—
-  (a) is published on an Internet site that is publicly available at all reasonable times; and
-  (b) is available for purchase in hard copy, at no more than a reasonable cost, from the head office of the Ministry.
+**Particular preconditions for category 1 and category 2 installations (in properties other than body corporate administered properties)**
+
+### 155K Particular preconditions before exercising statutory right of access to carry out category 1 installation
+(1) Before an FTTP service provider or a network operator enters a property and carries out a category 1 installation, the service provider or network operator must first give a preliminary notice to—
+  (a) each affected person; and
+  (b) the person who placed the order with a retail provider for an FTTP service to be installed.
+(2) The preliminary notice must—
+  (a) be given not less than 5 working days before the service provider or network operator enters the property to carry out the installation; and
+  (b) state when the service provider or network operator is intending to enter the property and carry out the installation; and
+  (c) include a general explanation of what will be involved in carrying out the installation; and
+  (d) identify any access areas that the service provider or network operator may want to use when carrying out the installation; and
+  (e) comply with the prescribed requirements (if any).
+(3) This section does not apply to a category 1 installation in a body corporate administered property (see sections 155Q and 155R).
 
 **Consumer complaints system**
 
-### 155L Compliance with rules and binding settlements
-(1) A service provider who is a member of a consumer complaints system must comply with the rules of that system that relate to complaints about access to multi-unit complexes.
-(2) On the application of the consumer complaints adjudicator or other person responsible for a consumer complaints system, the District Court may require a member of the system to do either or both of the following:
-  (a) comply with the rules of the system that relate to complaints about access to multi-unit complexes:
-  (b) comply with a binding settlement determined by the system in response to a complaint about access to multi-unit complexes.
-(3) If the District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court's order under subsection (2)﻿(b) may modify the terms of the binding settlement, but only to the extent that the modification results in a binding settlement that could have been made under the consumer complaints system.
-(4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by the District Court for the payment of a sum of money.
-(5) A reference in this section to a member includes a reference to a person who was a member of the consumer complaints system at the relevant time but is no longer a member at the time of the application or order.
+### 155L Particular preconditions before exercising statutory right of access to carry out category 2 installation
+(1) Before an FTTP service provider or a network operator enters a property and carries out a category 2 installation under this subpart, the service provider or network operator must—
+  (a) first give a preliminary notice and a high-level design plan of the installation that set out the information described in section 155M to—
+    (i) each affected person; and
+    (ii) the person who placed the order with a retail provider for the FTTP service to be installed; and
+  (b) not have received an objection under section 155N from any affected person.
+(2) This section does not apply to a category 2 installation in a body corporate administered property (see section 155R).
 
-### 155M Offence to fail to comply with District Court order
-(1) A member or former member of a consumer complaints system who, knowing that the member or former member is subject to an order made under section 155L, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on conviction to a fine not exceeding $100,000.
-(2) Nothing in this section applies to an order or part of an order of the District Court referred to in section 155L(4).
+### 155M Requirements in respect of preliminary notice and design plan for category 2 installations
+(1) The preliminary notice about a category 2 installation given to each person under section 155L(1)﻿(a) must—
+  (a) state when the FTTP service provider or network operator is intending to enter the property and carry out the installation; and
+  (b) include a general explanation of what will be involved in carrying out the installation; and
+  (c) identify any access areas that the service provider or network operator may want to use when carrying out the installation; and
+  (d) set out the grounds on which an affected person may object to the FTTP service provider or network operator entering the property and carrying out the installation under this subpart; and
+  (e) state how an affected person may object and the time within which an objection must be made; and
+  (f) comply with the prescribed requirements (if any).
+(2) The high-level design plan required under section 155L(1)﻿(a) must describe or illustrate—
+  (a) where the installation method (or, if more than 1, where each installation method) is to be used on the property; and
+  (b) where the network equipment (if any) associated with that installation method is proposed to be put.
+
+**Objections to exercise of statutory right of access to carry out category 2 installations**
+
+### 155N Grounds and time for objecting to exercise of statutory right of access to carry out category 2 installation
+(1) An affected person may object to the FTTP service provider or network operator exercising a statutory right of access to enter property and carry out a category 2 installation, on 1 or more of the following grounds:
+  (a) the person disputes ownership of property that the proposed installation will make use of or disturb:
+  (b) the person can demonstrate that the installation will have a materially negative impact on the value of the person’s property:
+  (c) the person can identify ways in which the proposed installation will unreasonably impact on the person’s enjoyment of the property, or worsen an existing problem with the property, other than by having a visual impact alone:
+  (d) the person can demonstrate that the proposed installation will impede the person’s plans for development of the property:
+  (e) the person has an easement over the property affected and can demonstrate that the proposed installation will have an enduring impact on the terms and conditions of that easement:
+  (f) the prescribed grounds (if any).
+(2) An affected person who wants to object to a network operator exercising a statutory right of access under this section must do so by giving a notice of objection to the FTTP service provider or network operator within 15 working days after receiving the preliminary notice and high-level design plan for the installation under section 155L(1)﻿(a).
+(3) Nothing in this section, or any other provision of this subpart, affects the right of a person to cancel an order that the person has placed for an FTTP service to be installed.
+
+### 155O Effect of objection to exercise of statutory right of access for category 2 installation
+(1) If the FTTP service provider, network operator, or person who placed the order with a retail provider for the FTTP service to be installed (in each case, person A) disputes the validity of an affected person’s objection under section 155N, person A may refer the dispute to the dispute resolution scheme.
+(2) If person A refers the dispute to the dispute resolution scheme, the FTTP service provider or network operator has no statutory right of access to enter the property and carry out the installation unless there is a binding resolution of the dispute under the rules of the scheme or an order of the District Court allows it to exercise that right.
+
+### 155P Deemed consent to category 2 installation
+Each affected person is deemed to have consented to an FTTP service provider or a network operator entering the property and carrying out a category 2 installation if the preconditions in sections 155J and 155L are satisfied.
+
+**Statutory rights of access to body corporate administered properties**
+
+### 155Q Statutory right of access to common areas of body corporate administered properties for designing installations
+(1) The statutory right of access given by this section applies after a person has placed an order with a retail provider for an FTTP service to be installed in a body corporate administered property.
+(2) For the purpose of inspecting the property, to design an installation, an FTTP service provider or a network operator—
+  (a) has a statutory right to enter those areas of the property that are owned by the body corporate on behalf of unit owners as common property and that unit owners are able to freely access on a day-to-day basis; and
+  (b) may, with the permission of the body corporate (which must not be unreasonably withheld), enter other areas of the property owned by the body corporate on behalf of unit holders as common property.
+(3) Before entering any area of the property that is not common property (for example, a person’s unit in a unit title development or a flat or an office in a building owned by a flat or office owning company within the meaning of Part 7A of the Land Transfer Act 1952), the FTTP service provider or network operator must obtain the permission of the owner or another person who has the legal right to occupy or exclusively use that area of the property.ExampleThe owner of an apartment on the top floor of a 3-storey apartment building places an order with a retail provider for an FTTP service to be installed. There are 3 external access ways on the building, one running along the back of each floor, and external staircases that link the access ways. Apartment owners can use these access ways and stairs to move between floors. The FTTP service provider wants to find out whether it will be possible to carry out the installation to the apartment using external conduit alone.The access ways and staircases are owned and held by the body corporate of the building as common property and there are no barriers restricting free access to those parts of the building. The FTTP service provider therefore has a statutory right to enter the property and inspect the external access ways and staircases up to the top floor for the purposes of finding out whether it will be possible to use external conduit and to design a suitable installation.
+
+### 155R Particular preconditions before exercising statutory right of access to body corporate administered property for carrying out category 1 and 2 installations
+Before an FTTP service provider or a network operator enters a body corporate administered property and carries out a category 1 or a category 2 installation in reliance on a statutory right of access under this subpart, the service provider or network operator must—
+  (a) first give the body corporate a preliminary notice and high-level design plan in accordance with section 155S; and
+  (b) not have received an objection under section 155T.
+
+### 155S Requirements in respect of preliminary notice and design plan given to body corporate
+(1) The preliminary notice and high-level design plan given to a body corporate about a category 1 or category 2 installation under section 155R must include the information set out in section 155M as if each reference to an affected person were a reference to the body corporate and each reference to a category 2 installation were a reference to a category 1 or category 2 installation.
+(2) However, in complying with section 155M(1)﻿(d), the statement of grounds for objection must include the grounds stated in section 155T as well as those in section 155N.
+
+### 155T Grounds and time for body corporate objecting to statutory right of access to carry out category 1 or category 2 installation
+The body corporate may object to a category 1 or category 2 installation under section 155R within the same time and on the same grounds as stated in section 155N as well as on 1 or more of the following additional grounds:
+  (a) the body corporate considers that the installation will result in unacceptable disruption to the availability of telecommunications services to unit owners during business hours:
+  (b) the body corporate considers that there is a real likelihood the installation as designed would breach 1 or more enactments applying to the body corporate and the property (for example, the Building Code, the Heritage New Zealand Pouhere Taonga Act 2014, or the Health and Safety at Work Act 2015):
+  (c) the body corporate considers that the proposed installation will prevent it from meeting its existing contractual obligations and the body corporate can provide documentation confirming this:
+  (d) any prescribed grounds.
+
+### 155U FTTP service provider or network operator may extend time for body corporate objections
+(1) An FTTP service provider or a network operator may, on its own initiative or at the request of the body corporate, extend the time for a body corporate to object to a category 1 or category 2 installation under section 155T.
+(2) If a body corporate wants to request an extension under this section, it must do so by giving a notice to the FTTP service provider or network operator before the end of the 15-working-day period allowed for objecting under section 155T (as set out in section 155N).
+(3) An FTTP service provider or a network operator must not unreasonably withhold permission if it receives a request for an extension under subsection (2).
+
+### 155V Effect of body corporate objections
+If an FTTP service provider or a network operator disputes the validity of a body corporate’s objection under section 155T,—
+  (a) the service provider or network operator may refer the dispute to the dispute resolution scheme; and
+  (b) section 155O(2) applies.
+
+### 155W Requirement for governing bodies to give unit owners reasons for objections
+(1) A body corporate that objects to an installation under section 155T must notify each unit owner of its reasons for deciding to object.
+(2) The notice must—
+  (a) be in writing; and
+  (b) be given not later than 10 working days after the body corporate lodges its objection.
+
+### 155X Deemed consent of body corporate to category 1 or category 2 installation
+The body corporate of a body corporate administered property is deemed to have consented to an FTTP service provider or a network operator entering the property and carrying out a category 1 or category 2 installation if the preconditions in sections 155J and 155R are met.
+
+**Exercising statutory rights of access for category 1 and category 2 installations**
+
+### 155Y Application of sections 155Z to 155ZB
+Sections 155Z to 155ZB apply to category 1 and category 2 installations, regardless of the type of property accessed or to be accessed.
+
+### 155Z How statutory rights of access must be exercised
+(1) An FTTP service provider or a network operator must comply with the following requirements when exercising its statutory right of access under this subpart to enter property and carry out an installation:
+  (a) the owner and the occupier of the property must be given reasonable notice of the service provider’s or network operator’s intention to enter the property to start the installation if,—
+    (i) the FTTP service provider or network operator did not, in the preliminary notice given under section 155K, 155L, or 155R, specify a fixed date for entering the property and carrying out the installation; or
+    (ii) the FTTP service provider or network operator specified a date in that preliminary notice but that date has changed; and
+  (b) from the start to the completion of the installation, entry to the property must be made at reasonable times; and
+  (c) entry to the property must be made only by an officer, employee, or agent of the service provider or network operator authorised by it in writing; and
+  (d) the person authorised to enter must produce evidence of his or her authority and identity if asked to do so.
+(2) In subsection (1), evidence of authority has the same meaning as in section 118, with any necessary modifications.
+
+### 155ZA Restrictions on use of access areas during installations, reinstatements, etc
+(1) An FTTP service provider or a network operator using an access area to carry out a category 1 or category 2 installation, or to carry out any of the work specified in subsection (2), may restrict or block other persons from using the access area only for—
+  (a) the period or periods of time prescribed (if any); or
+  (b) if no period of time is prescribed, the period of time reasonably necessary to complete the installation or work.
+(2) The work referred to in subsection (1) is—
+  (a) reinstating property under section 155ZB; or
+  (b) performing any act or operation under section 155ZD(1)﻿(a); or
+  (c) extending an installation under section 155ZD(1)﻿(b)﻿(i); or
+  (d) permanently reinstating an area under section 155ZD(1)﻿(b)﻿(ii).
+
+### 155ZB Obligation to reinstate property
+An FTTP service provider or a network operator must, as soon as practicable after completing an installation, reinstate the area of the property impacted or disturbed by the installation as closely as reasonably possible to its original condition before the installation.
+
+**Non-prescribed installations**
+
+### 155ZC Non-prescribed installations
+If an FTTP service provider or a network operator wants to enter property and carry out a non-prescribed installation involving 1 or more affected persons,—
+  (a) none of the statutory rights of access under this subpart applies; and
+  (b) the service provider or network operator must obtain rights to enter the property and carry out the installation in accordance with the general law and any relevant enactment applying at the time.
+
+**Ongoing rights of access to installed fibre infrastructure**
+
+### 155ZD Ongoing rights of access
+(1) The rights of access given by this section are for an FTTP service provider or a network operator to,—
+  (a) at any time before or after 1 January 2025, for an indefinite period, re-enter property to perform any act or operation necessary for the purpose of inspecting, maintaining, repairing, or upgrading all or any part of a fibre-to-the-premises access network that the service provider or network operator owns and that was installed (whether by the service provider or network operator who owns the fibre-to-the-premises network at the time of the re-entry or a previous owner) at any time after 1 July 2012; and
+  (b) at any time before 1 January 2025, re-enter property to—
+    (i) extend an installation that forms part of a fibre-to-the-premises access network described in paragraph (a) if the extension does not involve a change to the design plan originally provided under this subpart to affected persons and the person who placed the order for the FTTP service to be installed; or
+    (ii) permanently reinstate an area where, at the time of installing, maintaining, repairing, or upgrading part of the fibre-to-the-premises access network, the service provider or network operator reinstated the property on an interim basis only, until a permanent reinstatement could be undertaken.
+(2) The rights of access apply if—
+  (a) the FTTP service provider or network operator who entered the property and carried out the original installation did so after obtaining the consent of more than 1 person, or entered the property under this subpart; and
+  (b) the FTTP service provider or network operator complies with the conditions in section 155ZE; and
+  (c) neither of the circumstances in subsection (3) applies.
+(3) The rights of access given by this section do not apply if—
+  (a) the FTTP service provider or network operator has rights of access equivalent to the rights in subsection (1) under 1 or more easements in respect of the part of the fibre-to-the-premises access network that the service provider wants to access; or
+  (b) the part of the fibre-to-the-premises access network that the FTTP service provider or network operator wants to access was installed in breach of legal rights or obligations in that the service provider or network operator that carried out the original installation—
+    (i) failed to obtain all necessary consents for the installation; or
+    (ii) acted outside the terms of 1 or more consents given by persons in respect of the installation.
+(4) To avoid doubt, this section applies, with all necessary modifications, to a network operator and prescribed other technology that is installed in reliance on the rights of access given by this subpart.
+(5) In this section, maintaining, repairing, or upgrading includes—
+  (a) any repairs and any other activities for the purpose of maintaining, or that have the effect of maintaining, part of the fibre-to-the-premises access network; and
+  (b) the carrying out of any replacement or upgrade of existing works, as long as the land will not be injuriously affected as a result of the replacement or upgrade.
+
+### 155ZE Conditions of ongoing rights
+(1) The rights of access given by section 155ZD are subject to the following conditions:
+  (a) entry to the property must be made only by a person who—
+    (i) is an officer, employee, or agent of the FTTP service provider or network operator; and
+    (ii) is authorised by the service provider or network operator, in writing, to make that entry; and
+  (b) the owner and the occupier of the property must be given reasonable notice of the intention to enter the property; and
+  (c) entry must be made at reasonable times; and
+  (d) the person entering must produce evidence of his or her authority and identity, if asked to do so; and
+  (e) the property must be reinstated as provided in section 155ZB.
+(2) The conditions in subsection (1) do not apply if entry on the land is—
+  (a) necessary in circumstances of probable danger to life or property; or
+  (b) immediately necessary to maintain the continuity or safety of the supply of telecommunications.
+
+**Protection of interests in installations**
+
+### 155ZF Protection of interests in installations
+(1) This section applies to a category 1 or category 2 installation that forms part of a fibre-to-the-premises access network, including any work in relation to or in connection with the installation, if—
+  (a) it is fixed to, or installed under or over, land that is not owned by the FTTP service provider or network operator; and
+  (b) the service provider or network operator carried out the installation after 1 July 2012; and
+  (c) the FTTP service provider or network operator entered the property and carried out the installation after obtaining the required consents or entered the property under this subpart; and
+  (d) neither of the circumstances described in section 155ZD(3) applied in relation to the installation so as to disentitle the FTTP service provider or network operator from exercising the statutory rights of access.
+(2) If this section applies,—
+  (a) the installation and work are deemed to be lawfully fixed or installed and continue to be lawfully fixed or installed until the FTTP service provider or network operator decides otherwise; and
+  (b) no person other than the FTTP service provider or network operator has an interest in the installation or work by reason only of having an interest in the land.
+
+**Dispute resolution process**
+
+### 155ZG Dispute resolution scheme
+(1) The dispute resolution scheme is—
+  (a) the approved scheme defined in clause 2 of Schedule 3C; or
+  (b) the regulated scheme provided for in regulations made under clause 16 of Schedule 3C.
+(2) The procedures for referring disputes to the dispute resolution scheme are as set out in the rules of the dispute resolution scheme.
+
+### 155ZH FTTP service providers and network operators exercising statutory access rights must be members of dispute resolution scheme
+(1) Every FTTP service provider and network operator that relies on a statutory right of access under this subpart (other than an FTTP service provider or network operator and that is referred to in subsection (2)),—
+  (a) in order to install fibre optic media, must be a member of the dispute resolution scheme and must remain a member of the scheme until 1 January 2026:
+  (b) in order to install a prescribed other technology, must be a member of the dispute resolution scheme for the period that—
+    (i) starts on the day after the date on which the order prescribing that technology as other technology for the purposes of this subpart comes into force; and
+    (ii) ends on the date that is 10 years later.
+(2) Subsection (1) does not apply to an FTTP service provider or network operator that relies only on the statutory rights of access given to them by this subpart for the purpose of performing acts or operations necessary for the purpose of inspecting, maintaining, repairing, or upgrading a fibre-to-the-premises access network.
+(3) Despite subsection (1), an FTTP service provider or a network operator does not need to be a member of the dispute resolution scheme if the Minister exempts that person by issuing an individual exemption notice in the Gazette that—
+  (a) identifies the person that is exempt from the obligation to be a member; and
+  (b) gives reasons for the exemption.
+(4) The Minister may grant an individual exemption to a person only if he or she is satisfied that membership of the dispute resolution scheme by the person is not necessary in order to meet the purpose of the dispute resolution scheme (as set out in clause 1 of Schedule 3C) because—
+  (a) that person has permanently stopped carrying out installations; and
+  (b) all disputes involving that person that have been referred to the scheme (if any) have been dealt with; and
+  (c) it is unlikely that other disputes involving that person are yet to be referred to the scheme.
+(5) The Minister may amend or revoke an individual exemption by issuing a notice in the Gazette that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Minister—
+  (a) first notifies the exempt person (where possible) of the proposed amendment or revocation and gives the person a reasonable opportunity to comment on the proposal; and
+  (b) is satisfied that the amendment or revocation is necessary or desirable in order to meet the purpose of the dispute resolution scheme.
+(6) The Ministry must ensure that an up-to-date list of all exemptions is available at all reasonable times on an Internet site maintained by or on behalf of the Ministry.
+(7) An exemption that is granted, amended, or revoked under this section is not a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+
+### 155ZI Disputes may be referred to dispute resolution scheme
+(1) A dispute between the following persons about their rights and obligations under this subpart in relation to an installation may be referred to the dispute resolution scheme by any of the parties to the dispute:
+  (a) a dispute between an FTTP service provider or a network operator and—
+    (i) a person who places an order with a retail provider for an FTTP service to be installed:
+    (ii) the body corporate of a body corporate administered property:
+    (iii) an affected person; and
+  (b) a dispute between a person who places an order with a retail provider for an FTTP service to be installed and an affected person; and
+  (c) a dispute between an FTTP service provider or a network operator and a person affected by a re-entry under section 155ZD(1)﻿(b).
+(2) Subsection (1)﻿(b) does not apply if the person who places the order with the retail provider is a unit owner or person occupying a unit in a body corporate administered property.
+(3) Disputes that may be referred to the dispute resolution scheme include disputes about—
+  (a) whether a statutory right of access under this subpart applies for an FTTP service provider or a network operator to enter a property and carry out a proposed installation:
+  (b) the validity of a person’s grounds for objecting to an FTTP service provider or a network operator exercising a statutory right of access under this subpart to carry out a category 2 installation (or, in the case of a body corporate administered property, a category 1 or category 2 installation):
+  (c) whether an FTTP service provider or a network operator has complied with requirements under this subpart when exercising a statutory right of access (including the requirement to reinstate property when an installation is completed):
+  (d) other matters provided for in the rules of the scheme.
+ExampleThis example refers to the situation set out in the example in section 155D(1) concerning the meaning given to the term affected person.The method that the FTTP service provider has to use in order to get fibre optic media from the road to Mark’s flat via the driveway is prescribed as a category 2 installation. The FTTP service provider therefore gives the flat-owning company and each of the 2 neighbours a notice and high-level design plan that set out the information required under section 155R.Within 15 working days after receiving the notice, 1 of the neighbours objects, on the grounds that the work involved may worsen a subsidence problem in one corner of that person’s property (section 155N). The body corporate also objects, on the ground that it considers the installation will result in an unacceptable disruption to telephone services, during business hours, for other flat owners (section 155T(a)).The FTTP service provider is unable to reach an agreed settlement with either the neighbour or the body corporate concerning the validity of their objections and therefore refers each dispute to the dispute resolution scheme. After further unsuccessful attempts to settle each dispute, the FTTP service provider requests that a determination be made on each dispute under the rules of the scheme.The person determining the disputes concludes that there are no grounds for the body corporate’s objection. This determination is binding on the FTTP service provider as a member of the scheme (section 155ZJ(2)) but not on the body corporate, which can, within 5 working days of being notified of the determination, appeal against it to the District Court (sections 155ZK and 155ZL).However, the neighbour’s objection is determined to be valid, meaning that the FTTP service provider cannot exercise a statutory right of access to carry out the installation. This is binding on the FTTP service provider and it cannot appeal to the District Court (section 155ZJ(2)).The owner of Mark’s flat, as the person who placed the order for the installation, does not have a right to refer a dispute to the dispute resolution scheme, either in relation to the body corporate’s objection or in relation to the neighbour’s objection (subsection (2) of this section). Any dispute between the owner of Mark’s flat and the body corporate over the body corporate’s objection to the FTTP service provider entering the block of flats and carrying out the installation would be a matter to be resolved in accordance with the relevant provisions (if any) of the owner’s licence and the rules of the body corporate (or, if the flat is part of a unit title development instead of a company share property, in accordance with the provisions of Part 4 of the Unit Titles Act 2010).Mark does not have any right to refer a dispute to the dispute resolution scheme under this section either. He is not the person who placed the order for the installation (see section 155D(2)) and he is not an affected person (see section 155D(1)).
+
+### 155ZJ Determinations binding on members and certain other parties
+(1) This section applies if a dispute is referred to the dispute resolution scheme and a determination is made on the dispute under the rules of the scheme.
+(2) The determination is binding on each party to the dispute that is a member of the dispute resolution scheme (except to the extent that it may be modified by the District Court under section 155ZM(3)), and the scheme member has no right of appeal against the determination.
+(3) The determination is binding on each party to the dispute who is not a member of the dispute resolution scheme, except if one of those parties lodges an appeal against the determination under section 155ZK and the court modifies or reverses the determination.
+
+### 155ZK Appeals against determinations
+(1) A party to the dispute that is not a member of the scheme may, within the time allowed under section 155ZL(1), appeal to the District Court against a determination.
+(2) The court may confirm, modify, or reverse the decision appealed against.
+(3) The decision of the court on the appeal is binding on all persons named as parties in the determination, and there is no right of appeal against the court’s decision.
+
+### 155ZL Procedure on appeal
+(1) An appeal under section 155ZK must be brought and determined in accordance with the rules of court, except that—
+  (a) an appeal must be brought within 5 working days after the determination appealed against is notified to the party wanting to lodge the appeal, or any further time the court allows on an application made before or after that period ends; and
+  (b) the dispute resolution scheme, as the maker of the determination appealed against, is not entitled to be represented at the hearing of the appeal; and
+  (c) the court on appeal may not refer the determination back to the dispute resolution scheme for any purpose.
+(2) The court may hear all evidence provided and representations made by or on behalf of any party to the appeal that the court considers relevant to the appeal, whether or not the evidence would be admissible in a court.
+
+### 155ZM Compliance with rules, binding settlements, and determinations
+(1) Members of the dispute resolution scheme and each party to a dispute that is referred to the scheme must comply with the rules of the scheme.
+(2) On the application of the person responsible for the dispute resolution scheme, the District Court may require a member of the dispute resolution scheme or other person who is a party to a dispute to—
+  (a) comply with the rules of the scheme:
+  (b) comply with the terms of a binding settlement or determination made under the rules of the scheme.
+(3) If the District Court is satisfied that the terms of a binding settlement or determination are manifestly unreasonable, the court's order under subsection (2)﻿(b) may modify the terms of the binding settlement or determination, but only to the extent that the modification results in a binding settlement or determination that could have been made under the dispute resolution scheme.
+(4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by the District Court for the payment of a sum of money.
+(5) A reference in this section to a member includes a reference to a person who was a member of the dispute resolution scheme at the relevant time but is no longer a member at the time of the application or order.
+
+### 155ZN Levy for regulated dispute resolution scheme
+(1) This section applies if the dispute resolution scheme is the regulated scheme.
+(2) Every FTTP service provider and network operator that relies on a statutory right of access under this subpart (or a prescribed class of those persons) must pay to the Minister in each financial year or part financial year (as the case may require) a prescribed levy.
+(3) Subsection (2) does not apply to an FTTP service provider or network operator that relies on the statutory rights of access given by section 155ZD(1)﻿(b) only).
+(4) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for the levy.
+(5) The levy must be prescribed on the basis that the costs of establishing and operating the dispute resolution scheme should be met fully out of the levy.
+(6) The Governor-General, in making regulations under this section, has the same powers as those set out in section 11(3).
+
+**Regulations and exemption**
+
+### 155ZO Regulations
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with subsections (2) to (4), make regulations for all or any of the following purposes in respect of this subpart:
+  (a) prescribing, for the purposes of section 155G, how notices may or must be given and other matters relating to that procedure (including when the notice is treated as having been received or as having been given for the purposes of this subpart):
+  (b) prescribing other technology for the purposes of this subpart:
+  (c) prescribing how long statutory rights of access apply for a prescribed other technology for the purposes of section 155H(c):
+  (d) prescribing requirements for preliminary notices for the purposes of section 155K(2) or 155M(1):
+  (e) prescribing methods of installation as category 1 installations (including requirements applying to those installations) for the purposes of this subpart:
+  (f) prescribing methods of installation as category 2 installations (including requirements applying to those installations) for the purposes of this subpart:
+  (g) prescribing grounds on which affected persons may object to category 2 installations for the purposes of section 155N:
+  (h) prescribing grounds on which the body corporate of a body corporate administered property may object to a category 1 or category 2 installation for the purposes of section 155T:
+  (i) prescribing when grounds for objection apply, do not apply, or apply with modifications:
+  (j) prescribing periods of time for the purposes of section 155ZA, including—
+    (i) different periods of time for each category of installation:
+    (ii) different periods of time for each type of work specified in section 155ZA(2) in relation to each category of installation:
+    (iii) different times in the day during which any prescribed period of time applies:
+    (iv) the number of occasions, during any period of time, that an FTTP service provider may restrict or block other persons from using an access area:
+  (k) prescribing fees payable by members of the dispute resolution scheme in respect of any matter relating to disputes under this subpart, or the manner in which such fees may be calculated:
+  (l) prescribing how information may or must be given to, provided to, or served on any person under this subpart and other matters relating to that procedure (including when the information is treated as received or as having been given, provided, or served for the purposes of this subpart and the regulations):
+  (m) providing for any other matters contemplated for this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Before recommending regulations prescribing other technology under subsection (1)﻿(b), the Minister must—
+  (a) consult the persons or organisations that appear to the Minister to be representative of the interests of those persons likely to be substantially affected by the regulations; and
+  (b) be satisfied that the technology proposed—
+    (i) is to be deployed on a large scale; and
+    (ii) will provide benefits to New Zealand; and
+    (iii) cannot be installed without the consent of multiple parties first being obtained and this requirement is preventing, or is likely to prevent, the benefits to New Zealand of the technology being realised.
+(3) Before recommending regulations prescribing a method of installation as a category 1 installation under subsection (1)﻿(e), the Minister must be satisfied that the installation will not have any lasting, substantial, physical impact on the property.
+(4) Before recommending regulations prescribing a method of installation as a category 2 installation under subsection (1)﻿(f), the Minister must be satisfied that—
+  (a) any disruption that the installation may cause for users of the property will be temporary; and
+  (b) any lasting, substantial, physical impact that the installation may have on the property is justifiable in support of the mass market roll-out of a telecommunications network.Examples of category 1 and category 2 installationsExamples of category 1 installations are—an installation that uses existing equipment such as ducts or conduit:an aerial installation:an installation that only disturbs soft surfaces and where those surfaces can easily be restored.Examples of category 2 installations are—micro-trenching where the width of the cut is not more than the prescribed width:an installation that is predominantly below the surface, such as directional drilling, where the physical impact is limited to access points, or entry and exit points, that do not exceed the prescribed size:open trenching where the size of the trench, once reinstated, is not more than the prescribed size.
+(5) A failure to comply with this section does not affect the validity of the regulations made.
+
+### 155ZP Exemption from body corporate duties of repair and maintenance
+(1) A body corporate is exempted from any obligation to repair and maintain fibre network equipment installed in its complex if that network was installed as part of the UFB initiative.
+(2) Subsection (1) applies despite—
+  (a) section 138 of the Unit Titles Act 2010:
+  (b) the terms of any licence, lease, or other instrument that, but for this section, would require a body corporate to repair and maintain that equipment.
+
+### 155ZQ Relationship to other enactments
+The provisions of this subpart do not affect or limit the scope or application of any other enactment regulating acts or omissions in relation to accessing property and installing fibre optic media or other technology, except to the extent that the enactment is inconsistent with, or modified by, this Act.
 
 ### 156 Notices to be in writing
 [Repealed]
