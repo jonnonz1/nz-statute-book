@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2017-06-29_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
