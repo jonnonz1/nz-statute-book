@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2017-06-30_
 
 > Title
 
