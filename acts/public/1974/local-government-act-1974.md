@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-01_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -5110,12 +5110,12 @@ If a land drainage scheme or water race scheme is not repaired or maintained in 
 [Repealed]
 
 ### 647 Fire hydrants
-(1) In every part of the district in which there is a water supply provided under section 130 of the Local Government Act 2002, the council shall fix fire hydrants in the main pipes, other than trunk mains, of the waterworks at the most convenient places for extinguishing any fire as the council determines, or, in any part of the district that is included in a fire district under section 26 of the Fire Service Act 1975, as the New Zealand Fire Service Commission approves, and shall keep those fire hydrants in effective working order.
+(1) In every part of the district in which there is a water supply provided under section 130 of the Local Government Act 2002, the council shall fix fire hydrants in the main pipes, other than trunk mains, of the waterworks at the most convenient places for extinguishing any fire as the council determines with the approval of Fire and Emergency New Zealand, and shall keep those fire hydrants in effective working order.
 (2) Where a water supply is provided in the district or in any part of the district by any other local authority, the council may arrange with that local authority to fix fire hydrants in the main pipes, other than trunk mains, situated in the district or in that part, as the case may be.
-(3) Fire hydrants shall be fixed at such distances from each other as the council decides or, in the case of hydrants fixed in any part of the district that is included in a fire district of the New Zealand Fire Service Commission, as that Commission approves.
-(4) The council shall put near each fire hydrant a conspicuous notice or a mark of a kind approved by the New Zealand Fire Service Commission, in the case of a hydrant fixed in any part of the district that is included in a fire district of that Commission, or, in any other case, approved by the council, showing the situation of the hydrant, and that notice may, if the council thinks fit, be put on any building.
+(3) Fire hydrants shall be fixed at such distances from each other as the council decides with the approval of Fire and Emergency New Zealand.
+(4) The council shall put near each fire hydrant a conspicuous notice or a mark of a kind approved by Fire and Emergency New Zealand showing the situation of the hydrant, and that notice may, if the council thinks fit, be put on any building.
 (5) In this section the term trunk main means a main used for the purpose of conveying water from a source of supply to a filter or reservoir, or from one filter or reservoir to another filter or reservoir, or for the purpose of conveying water in bulk from one part of the limits of supply to another part of those limits, or for the purpose of giving or taking a supply of water in bulk.
-(6) Where the council is dissatisfied with any decision of the New Zealand Fire Service Commission under this section, it may, within 1 month after receiving notice of the decision, appeal against that decision to the District Court, whose decision shall be final.
+(6) Where the council is dissatisfied with any decision of Fire and Emergency New Zealand under this section, it may, within 1 month after receiving notice of the decision, appeal against that decision to the District Court, whose decision shall be final.
 
 ### 648 Pipes to be kept charged with water
 (1) Except in case of unusual drought, or of accident, or of shortage from any cause of the water supply, or during necessary repairs, connections, or inspections, or in a case of a state of emergency declared under the Civil Defence Emergency Management Act 2002, the council must at all times keep charged with water the pipes in which fire hydrants are fixed by the council under section 647.
