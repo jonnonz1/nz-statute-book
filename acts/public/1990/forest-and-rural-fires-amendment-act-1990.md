@@ -1,5 +1,5 @@
 # Forest and Rural Fires Amendment Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-07-01_
 
 > An Act to amend the Forest and Rural Fires Act 1977
 
@@ -42,8 +42,8 @@ This section substituted s 10 of the principal Act.
 
 ### 9 Duties of Fire Authorities
 (1) This subsection amended s 12(3) of the principal Act.
-(2) This subsection amended s 12(4)(g) of the principal Act.
-(3) This subsection amended s 12(4)(h) of the principal Act.
+(2) This subsection amended s 12(4)﻿(g) of the principal Act.
+(3) This subsection amended s 12(4)﻿(h) of the principal Act.
 
 ### 10 Joint, etc, exercise of statutory control powers
 (1) This subsection amended s 14(3) of the principal Act.
@@ -61,13 +61,13 @@ This section amended s 15(3) of the principal Act.
 (2) This subsection amended Schedule 3 of the State-Owned Enterprises Act 1986.
 
 ### 14 Fire control measures
-This section amended s 19(1)(a) of the principal Act.
+This section amended s 19(1)﻿(a) of the principal Act.
 
 ### 15 Prohibition of fires during extreme fire hazard
 This section amended s 20(1) of the principal Act.
 
 ### 16 Prohibition of certain operations during period of fire hazard
-This section amended s 21(1)(c) of the principal Act.
+This section amended s 21(1)﻿(c) of the principal Act.
 
 ### 17 Restricted or prohibited fire seasons
 This section substituted s 22(1) of the principal Act.
@@ -135,13 +135,13 @@ This section amended s 67(1) of the principal Act.
 This section repealed s 68 of the principal Act.
 
 ### 36 Repeals
-Sections 2(1)(a) and 7 of the Forest and Rural Fires Amendment Act 1987 are hereby repealed.
+Sections 2(1)﻿(a) and 7 of the Forest and Rural Fires Amendment Act 1987 are hereby repealed.
 
 ### 37 Transitional provisions in relation to documents, etc
 (1) Without limiting any other provision of this Act or of the Acts Interpretation Act 1924, it is hereby declared that—
   (a) The repeal or amendment or substitution of any provision of any Act by any provision of this Act shall not affect any document made or anything whatsoever done under the provision so repealed or amended or substituted and every such document or thing, so far as it is subsisting or in force at the time of the repeal or amendment or substitution and could have been made or done under the Forest and Rural Fires Act 1977 (as amended by this Act) shall continue to have effect as if it had been made or done under the corresponding provision of the Forest and Rural Fires Act 1977) (as amended by this Act); and
   (b) Any Order in Council which has been made under section 4 or section 7 or section 8 or section 22 of the Forest and Rural Fires Act 1977, so far as that Order in Council is subsisting or in force at the time of the repeal or amendment or substitution of that section by this Act, shall continue to have effect as if it were a notice in the Gazette published under the corresponding provision of the Forest and Rural Fires Act 1977 (as amended by this Act).
-(2) Where any Order in Council continues to have effect by virtue of subsection (1)(b) of this section, the National Rural Fire Authority may, by notice in the Gazette made under the corresponding provision of the Forest and Rural Fires Act 1977 (as amended by this Act), amend any such Order in Council or declare that it shall cease to have effect.
+(2) Where any Order in Council continues to have effect by virtue of subsection (1)﻿(b) of this section, the National Rural Fire Authority may, by notice in the Gazette made under the corresponding provision of the Forest and Rural Fires Act 1977 (as amended by this Act), amend any such Order in Council or declare that it shall cease to have effect.
 
 ### 38 Validation
 Any action taken under the Forest and Rural Fires Act 1977 in the period beginning with the 1st day of October 1990 and ending with the close of the 31st day of December 1990 which would have been valid if the provisions of this Act and of the Fire Service Amendment Act 1990 that come into force on the 1st day of January 1991 had come into force on the 1st day of October 1990 is hereby declared to be and always to have been valid.
