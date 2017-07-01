@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -89,9 +89,9 @@ _Consolidation as at 2017-03-01_
   - **evidential breath-testing device** means a device of a kind approved for the purpose of evidential breath tests by the Minister of Police, by notice in the Gazette
   - **financial year** , in relation to the Agency, means the period of 12 months commencing on 1 July and ending with the close of 30 June
   - **fire brigade** includes—
-    (a) a volunteer fire brigade, a defence fire brigade, and an industrial fire brigade (as those terms are defined in section 2 of the Fire Service Act 1975); and
-    (b) an airport fire brigade; and
-    (c) the employed firefighters or other members of any fire brigade referred to in this definition
+    (a) a defence fire brigade and an industry brigade (as those terms are defined in section 6 of the Fire and Emergency New Zealand Act 2017); and
+    (b) employed firefighters or other members of a defence fire brigade or an industry brigade; and
+    (c) employees, volunteers, and contractors of Fire and Emergency New Zealand who are operational personnel delivering designated services (as those terms are defined in section 6 of the Fire and Emergency New Zealand Act 2017)
   - **former enactment** means a provision of the Transport Act 1962, or of Part 2 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, or of the Land Transport Act 1993, repealed by this Act
   - **goods** means all kinds of movable personal property; and includes articles sent by post, and animals
   - **goods service** —
@@ -662,7 +662,7 @@ If an enforcement officer, acting in the course of his or her official duties, b
     (vii) providing for the removal of vehicles from parking places or transport stations or roads where those vehicles are using those places or stations in breach of the bylaws, and requiring the payment of the reasonable cost of such removal:
   (p) providing that, subject to the erection of the prescribed signs, vehicles on roads must travel in 1 specified direction only:
   (q) prohibiting, subject to the erection of the prescribed signs, vehicles on a roadway turning from facing or travelling in 1 direction to facing or travelling in the opposite direction, or prohibiting vehicles on a road, other than vehicles of a specified class, from turning to the right or to the left:
-  (r) prescribing, subject to the marking of lanes on the roadway, that on any road any traffic lane may be used or any turning movement may be made only by buses, taxis, or vehicles of other specified classes or vehicles carrying specified classes of loads or no fewer than a specified number of occupants:
+  (r) prescribing, subject to the marking of lanes on the roadway, that on any road any traffic lane may be used or any turning movement may be made only by vehicles of specified classes or vehicles carrying specified classes of loads or no fewer than a specified number of occupants:
   (s) prohibiting, either absolutely or conditionally, the crossing of any bridge or culvert by horses, cattle, sheep, pigs, or other animals, or vehicles and regulating the times at which or the manner in which any horses, cattle, sheep, pigs, or other animals, or vehicles, may cross or be taken over any bridge or culvert:
   (t) prescribing the routes by which and the times at which horses, cattle, sheep, pigs, or other animals, or specified classes of vehicles, may pass over any road:
   (u) prohibiting the driving of loose horses, cattle, sheep, pigs, or other animals along any road, otherwise than at the times and by the routes so prescribed, except with the permission of the Minister or of the relevant road controlling authority, as the case may be, and on the conditions that the Minister or the relevant road controlling authority, as the case may be, thinks fit:
@@ -1079,7 +1079,7 @@ Despite section 30L(1) and (2), the Agency may grant the licence on such conditi
 (3) If no vehicle has been operated under a transport service licence for a period of 2 years, the licence is deemed to have been surrendered.
 (4) No transport service licence for a transport service operated by any of the following may be suspended or revoked for any reason:
   (a) the Armed Forces; or
-  (b) the Fire Services Commission; or
+  (b) Fire and Emergency New Zealand; or
   (c) the Police; or
   (d) any emergency service organisation approved by the Agency for the purposes of this section.
 
@@ -1229,7 +1229,7 @@ Nothing in this Part applies in respect of any rail service vehicle.
   (b) must have at least 10 hours of continuous rest time.
 (3) In any cumulative work period, a driver may not exceed 70 hours of work time.
 (4) To avoid doubt, the rules may extend the limits for a cumulative work day or period for a specified activity or service.
-(5) This section does not apply to a driver of an ambulance service, a fire brigade, or a rural fire party who is proceeding to or returning from an incident attended in response to a priority call specified in the rules.
+(5) This section does not apply to a driver of an ambulance service or a fire brigade who is proceeding to or returning from an incident attended in response to a priority call specified in the rules.
 
 ### 30ZD Records must be kept
 (1) A person who employs a person to drive a vehicle referred to in section 30ZB, and any self-employed driver who drives a vehicle referred to in section 30ZB, must keep—
@@ -3524,8 +3524,8 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 (3) A copy of the Gazette containing an appointment, warrant, order, or other act of authority made under this Act is evidence in all courts that the appointment, warrant, order, or other act has been duly made or performed under the authority of this Act.
 
 ### 145 Evidence of approved vehicle surveillance equipment
-(1) In proceedings for a moving vehicle offence, an image produced by means of an exposure taken by approved vehicle surveillance equipment and showing or recording a motor vehicle on a road, the speed of the vehicle, the location of the vehicle, the colour or form of a traffic control device, the fact that a toll has not been paid in respect of the vehicle, and the date and time when the image was taken, or showing or recording any of those things, is, in the absence of proof to the contrary, sufficient evidence of that fact or event.
-(2) The production in proceedings for a moving vehicle offence of an image purporting to be an image referred to in subsection (1) is, in the absence of proof to the contrary, sufficient evidence that the image was produced by means of an exposure taken by approved vehicle surveillance equipment.
+(1) In proceedings for a moving vehicle offence or a special vehicle lane offence, an image produced by means of an exposure taken by approved vehicle surveillance equipment and showing or recording a motor vehicle on a road, the speed of the vehicle, the location of the vehicle, the colour or form of a traffic control device, the fact that a toll has not been paid in respect of the vehicle, and the date and time when the image was taken, or showing or recording any of those things, is, in the absence of proof to the contrary, sufficient evidence of that fact or event.
+(2) The production, in proceedings for a moving vehicle offence or a special vehicle lane offence, of an image purporting to be an image referred to in subsection (1) is, in the absence of proof to the contrary, sufficient evidence that the image was produced by means of an exposure taken by approved vehicle surveillance equipment.
 
 ### 145A Evidence and proof
 In any proceedings for an offence against Part 6A,—
