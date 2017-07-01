@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2017-05-03_
+_Consolidation as at 2017-07-01_
 
 > Title
 
@@ -59,7 +59,6 @@ The purposes of this Act are—
   - **existing works** ,—
     (a) in relation to works owned by the Corporation, means any works constructed before 1 January 1988; and includes any works that were wholly or partly in existence, or work on the construction of which commenced, before 1 January 1988:
     (b) in relation to works owned by any other person, means any works constructed before 1 January 1993; and includes any works that were wholly or partly in existence, or work on the construction of which commenced, before 1 January 1993
-  - **fire brigade** has the same meaning as in section 2 of the Fire Service Act 1975; and includes a defence fire brigade and an industrial fire brigade within the meaning of that Act
   - **fittings** means everything used, or designed or intended for use, in or in connection with the generation, conversion, transformation, conveyance, or use of electricity
   - **infringement fee** , in relation to an infringement offence, means the amount prescribed by regulations made under section 169 as the infringement fee for the offence
   - **infringement notice** means a notice given under section 165B
@@ -312,9 +311,10 @@ Subject to section 13, where a notice of objection is lodged under section 9, th
 (3) If an accident relates to a specified matter, a person required to provide notification of any accident under section 16 may notify the Secretary in accordance with that section instead of WorkSafe.
 
 ### 17 Interference with scene of accident
-(1) No person shall interfere in any way with the scene of any accident to which section 16 applies without the permission of WorkSafe, or if WorkSafe is not present, a constable or a member of a fire brigade, except to the extent that the person believes is necessary to avoid or minimise further injury or damage or to restore the safe supply of electricity.
+(1) No person shall interfere in any way with the scene of any accident to which section 16 applies without the permission of WorkSafe, or if WorkSafe is not present, a constable or an employee, volunteer, or contractor of Fire and Emergency New Zealand carrying out designated services, except to the extent that the person believes is necessary to avoid or minimise further injury or damage or to restore the safe supply of electricity.
 (2) Where any person does interfere in any way with the scene of any accident to which section 16 applies, the person shall as soon as practicable notify WorkSafe of the action the person has taken.
 (3) Nothing in subsection (1) applies in respect of any person who is investigating the accident pursuant to the Health and Safety at Work Act 2015.
+(4) In subsection (1), designated services has the same meaning as in section 6 of the Fire and Emergency New Zealand Act 2017.
 
 ### 18 Inquiries into accidents
 (1) WorkSafe may conduct an inquiry into any accident to which section 16 applies to establish the cause of the accident.
