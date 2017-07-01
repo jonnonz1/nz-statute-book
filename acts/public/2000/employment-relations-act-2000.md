@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2017-03-31_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -3453,7 +3453,7 @@ A person who wishes to access mediation services must contact an office of the d
   (a) mediation under this Part; and
   (b) agreed terms of settlement under section 149(1).
 (2) Despite subsection (1), a person who is employed or engaged by the chief executive to provide mediation services and who holds a general authority to sign agreed terms of settlement under section 149(1) must not sign agreed terms of settlement in which a party agrees to forgo all, or part, of the party's entitlements specified in subsection (3).
-(3) This section applies to wages or holiday pay or other money payable by the employer to the employee under the Minimum Wage Act 1983, the Holidays Act 2003, or the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016.
+(3) This section applies to wages or holiday pay or other money payable by the employer to the employee under the Minimum Wage Act 1983, the Holidays Act 2003, the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016, or the Care and Support Workers (Pay Equity) Settlement Act 2017.
 
 ### 149 Settlements
 (1) Where a problem is resolved, whether through the provision of mediation services or otherwise, any person—may, at the request of the parties to the problem, and under that general authority, sign the agreed terms of settlement.
@@ -3629,6 +3629,7 @@ If a matter before the Authority relates principally to an alleged breach of emp
   (m) actions for the recovery of penalties—
     (i) under this Act for a breach of an employment agreement:
     (ii) under this Act for a breach of any provision of this Act (being a provision that provides for the penalty to be recovered in the Authority):
+    (iia) under the Care and Support Workers (Pay Equity) Settlement Act 2017:
     (iii) under section 76 of the Holidays Act 2003:
     (iiia) under section 25 of the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016:
     (iv) under section 10 of the Minimum Wage Act 1983:
@@ -4326,6 +4327,7 @@ The functions of the chief executive under this Act are—
 ### 223 Labour Inspectors
 (1) The chief executive may designate as Labour Inspectors such employees of the department as the chief executive from time to time considers necessary for the purposes of—
   (a) this Act; and
+  (ab) the Care and Support Workers (Pay Equity) Settlement Act 2017; and
   (b) the Equal Pay Act 1972; and
   (c) the Holidays Act 2003; and
   (ca) the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016; and
@@ -4578,6 +4580,7 @@ A person is not liable to pay an infringement fee and penalty under this Act for
 (4) The Acts to which this section applies are—
   (a) this Act:
   (b) the Accident Compensation Act 2001:
+  (ba) the Care and Support Workers (Pay Equity) Settlement Act 2017:
   (c) the Equal Pay Act 1972:
   (d) the Holidays Act 2003:
   (da) the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016:
@@ -4817,7 +4820,7 @@ The supply of water to the inhabitants of a city, district, or other place.
 The disposal of sewage.
 
 ### 6
-The work of a fire brigade within the meaning of the Fire Service Act 1975 (but excluding the work performed by members of volunteer fire brigades).
+The delivery of designated services (within the meaning of section 6 of the Fire and Emergency New Zealand Act 2017) by employees of Fire and Emergency New Zealand.
 
 ### 7
 The provision of all necessary services in connection with the arrival, berthing, loading, unloading, and departure of ships at a port.
