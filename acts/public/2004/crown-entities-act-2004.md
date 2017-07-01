@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1904,13 +1904,13 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 |  | s 161 | s 162 | s 163 | s 164 |  |
 | Accident Compensation Corporation | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Callaghan Innovation | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Careers New Zealand |  |  |  |  |  |
 | Civil Aviation Authority of New Zealand |  |  |  |  | ✓ |
 | District Health Boards |  |  |  |  |  |
 | Earthquake Commission | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Education New Zealand |  |  |  |  |  |
 | Energy Efficiency and Conservation Authority |  |  |  |  |  |
 | Environmental Protection Authority |  |  |  |  |  |
+| Fire and Emergency New Zealand |  |  |  |  | ✓ |
 | Health Promotion Agency |  |  |  |  |  |
 | Health Quality and Safety Commission |  |  |  |  |  |
 | Health Research Council of New Zealand |  |  |  |  |  |
@@ -1918,7 +1918,6 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Maritime New Zealand |  |  |  |  | ✓ |
 | New Zealand Antarctic Institute |  |  |  |  |  |
 | New Zealand Blood Service |  |  |  |  |  |
-| New Zealand Fire Service Commission |  |  |  |  | ✓ |
 | New Zealand Qualifications Authority |  |  |  |  | ✓ |
 | New Zealand Tourism Board |  |  |  |  |  |
 | New Zealand Trade and Enterprise |  |  |  |  |  |
