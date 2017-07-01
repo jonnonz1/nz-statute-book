@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -866,7 +866,7 @@ Despite section 46(1), the Governor-General may, by Order in Council made on the
 (6) For the purposes of subsection (5), emergency vehicle means a vehicle that is used for attendance at emergencies and operated—
   (a) as a Police vehicle:
   (b) as an ambulance service vehicle:
-  (c) as a fire service vehicle.
+  (c) as a vehicle for the delivery of designated services (as defined in section 6 of the Fire and Emergency New Zealand Act 2017) by an employee, volunteer, or contractor of Fire and Emergency New Zealand.
 
 ### 53 Enforcement of tolls
 A toll operator may deny a motor vehicle physical access to its toll road, or past the toll payment point, if—
