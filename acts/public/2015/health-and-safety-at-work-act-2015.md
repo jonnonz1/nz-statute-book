@@ -1,5 +1,5 @@
 # Health and Safety at Work Act 2015
-_Consolidation as at 2017-04-19_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Health and Safety at Work Act 2015.
@@ -218,7 +218,6 @@ In this Act, unless the context otherwise requires,—
     (b) includes—
       (i) all airspace within the territorial limits of New Zealand:
       (ii) the Ross Dependency
-  - **New Zealand Fire Service** means the New Zealand Fire Service established by section 3 of the Fire Service Act 1975
   - **New Zealand ship** has the same meaning as in section 2(1) of the Maritime Transport Act 1994
   - **New Zealand Transport Agency** means the Agency established by section 93 of the Land Transport Management Act 2003
   - **non-disturbance notice** means a notice issued under section 108
@@ -252,7 +251,7 @@ In this Act, unless the context otherwise requires,—
     (e) Maritime New Zealand:
     (f) the EPA:
     (g) a local authority:
-    (h) the New Zealand Fire Service:
+    (h) Fire and Emergency New Zealand:
     (i) a medical officer of health:
     (j) the Ministry of Health:
     (k) ACC:
@@ -1123,7 +1122,7 @@ For the purposes of this subpart, adverse conduct is engaged in for a prohibited
 (4) In this section,—
   - **emergency services worker** includes a person who has a legal duty (under any enactment, employment agreement, other binding agreement or arrangement, or other source) to, at the scene of an emergency, provide 1 or more of the following services:
     (a) ambulance services, first aid, or medical or paramedical care:
-    (b) services provided by or on behalf of a fire brigade (within the meaning of section 2(1) of the Fire Service Act 1975) to save life or property
+    (b) designated services (as defined in section 6 of the Fire and Emergency New Zealand Act 2017)
   - **organise or take, or threaten to organise or take, any action** against a person includes not taking a particular action or threatening not to take a particular action in relation to that person.
 
 ### 93 Misrepresentation
