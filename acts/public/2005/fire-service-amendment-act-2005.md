@@ -1,5 +1,5 @@
 # Fire Service Amendment Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 (1) This Act is the Fire Service Amendment Act 2005.
@@ -13,8 +13,8 @@ _Consolidation as at 2007-09-03_
 Section 3(1A) of the principal Act is repealed.
 
 ### 4 Functions and powers of Commission as National Rural Fire Authority
-(1) Section 14A(2)(e) of the principal Act is repealed.
-(2) Section 14A(2)(j) of the principal Act is amended by omitting the words for the purpose of approval of rural fire plans prepared by Fire Authorities.
+(1) Section 14A(2)﻿(e) of the principal Act is repealed.
+(2) Section 14A(2)﻿(j) of the principal Act is amended by omitting the words for the purpose of approval of rural fire plans prepared by Fire Authorities.
 (3) Section 14A(2) of the principal Act is amended by adding the following paragraphs:
   (k) to set, in consultation with Fire Authorities, minimum standards for Fire Authorities in relation to the following matters:
     (i) the training, equipping, and clothing of Fire Officers (as defined in section 2 of the Forest and Rural Fires Act 1977) and any other persons required by a Fire Authority to attend a fire:
@@ -26,14 +26,14 @@ Section 3(1A) of the principal Act is repealed.
 
 ### 5 New section 14AB inserted
 The principal Act is amended by inserting, after section 14A, the following section:Duty to consult Fire Authority before finalising performance evaluation
-  In performing its function under section 14A(2)(m), the National Rural Fire Authority must, before finalising an evaluation of a Fire Authority's performance, consult with the Fire Authority by giving it—
+  In performing its function under section 14A(2)﻿(m), the National Rural Fire Authority must, before finalising an evaluation of a Fire Authority's performance, consult with the Fire Authority by giving it—
     (a) a copy of the draft evaluation; and
     (b) a reasonable opportunity to make—
       (i) written submissions on the draft evaluation; and
       (ii) oral submissions on the draft evaluation through a representative.
 
 ### 6 Responsibilities of National Rural Fire Officer
-Section 17X(1)(d) of the principal Act is amended by omitting the words which shall, among other things, approve, for the purpose of claims on the Rural Fire Fighting Fund, the fire plans of each Fire Authority (which plans shall be in accordance with the Rural Fire Management Code of Practice).
+Section 17X(1)﻿(d) of the principal Act is amended by omitting the words which shall, among other things, approve, for the purpose of claims on the Rural Fire Fighting Fund, the fire plans of each Fire Authority (which plans shall be in accordance with the Rural Fire Management Code of Practice).
 
 ### 7 Functions of Commission in relation to the promotion of fire safety
 Section 21 of the principal Act is amended by renumbering subsection (5) (inserted by section 149 of the Hazardous Substances and New Organisms Act 1996) as subsection (4A).
@@ -56,12 +56,12 @@ The principal Act is amended by repealing section 21A, and substituting the foll
     (a) if the building has an automatic sprinkler system, to a place of safety inside or outside the building; and
     (b) in every other case, to a place of safety outside the building.
   (2) However, the owner of a relevant building is not required to provide and maintain an evacuation scheme for the building if—
-    (a) the building is used for a purpose specified in section 21A(1)(b) or (c); and
+    (a) the building is used for a purpose specified in section 21A(1)﻿(b) or (c); and
     (b) the building has an automatic sprinkler system.
   (3) Subsection (2) is subject to section 21E.
   (4) In this section,—
-    - **automatic sprinkler system** means an automatic sprinkler system that satisfies the minimum standard required by regulations made under section 92(2)(ne)
-    - **evacuation scheme** means an evacuation scheme that complies with regulations made under section 92(2)(nd)
+    - **automatic sprinkler system** means an automatic sprinkler system that satisfies the minimum standard required by regulations made under section 92(2)﻿(ne)
+    - **evacuation scheme** means an evacuation scheme that complies with regulations made under section 92(2)﻿(nd)
     - **owner** , in relation to a building for which a unit plan within the meaning of section 2 of the Unit Titles Act 1972 has been deposited, means the body corporate.
   (1) The owner of a relevant building must apply to the National Commander for approval of the evacuation scheme provided for the building under section 21B.
   (2) The application must be in writing in the prescribed form.
@@ -100,12 +100,12 @@ The principal Act is amended by repealing section 21A, and substituting the foll
 Section 28(3B) of the principal Act is amended by omitting the word an in the second place where it occurs.
 
 ### 10 Eligibility for grant assistance
-(1) Section 46C(1)(b) of the principal Act is repealed.
-(2) Section 46C(1) of the principal Act is amended by inserting, after paragraph (c), the following paragraph:.
-  (ca) at the time the fire occurred, the most recent evaluation of the Fire Authority's performance under section 14A(2)(m) was considered satisfactory by the National Rural Fire Authority; and
+(1) Section 46C(1)﻿(b) of the principal Act is repealed.
+(2) Section 46C(1) of the principal Act is amended by inserting, after paragraph (c), the following paragraph:
+  (ca) at the time the fire occurred, the most recent evaluation of the Fire Authority's performance under section 14A(2)﻿(m) was considered satisfactory by the National Rural Fire Authority; and
 
 ### 11 Regulations
-(1) Section 92(2) of the principal Act is amended by inserting, after paragraph (nb), the following paragraphs:.
+(1) Section 92(2) of the principal Act is amended by inserting, after paragraph (nb), the following paragraphs:
   (nc) prescribing, for the purposes of section 21A, the minimum amounts of hazardous substances stored or processed in a relevant building:
   (nd) prescribing, for the purposes of section 21B, the matters to be included in an evacuation scheme:
   (ne) prescribing, for the purposes of section 21B, the minimum standards required for automatic sprinkler systems:
@@ -115,4 +115,4 @@ Section 28(3B) of the principal Act is amended by omitting the word an in the se
 (2) Section 92(3) of the principal Act is repealed.
 
 ### 12 Consequential amendment to Forest and Rural Fires Act 1977
-Section 56(2)(a)(iii) of the Forest and Rural Fires Act 1977 is repealed.
+Section 56(2)﻿(a)﻿(iii) of the Forest and Rural Fires Act 1977 is repealed.
