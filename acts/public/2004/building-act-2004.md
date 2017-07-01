@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -37,7 +37,7 @@ This Act has the following purposes:
 (1) This section applies to—
   (a) the Minister; and
   (b) the chief executive; and
-  (c) a territorial authority or regional authority (but only to the extent that the territorial authority or regional authority is performing functions or duties, or exercising powers, in relation to the grant of waivers or modifications of the building code and the adoption and review of policy on dangerous, earthquake-prone, and insanitary buildings or, as the case may be, dangerous dams).
+  (c) a territorial authority or regional authority (but only to the extent that the territorial authority or regional authority is performing functions or duties, or exercising powers, under subpart 6A of Part 2 (which relates to earthquake-prone buildings) or in relation to the grant of waivers or modifications of the building code or the adoption and review of policy on dangerous and insanitary buildings or dangerous dams).
 (2) In achieving the purpose of this Act, a person to whom this section applies must take into account the following principles that are relevant to the performance of functions or duties imposed, or the exercise of powers conferred, on that person by this Act:
   (a) when dealing with any matter relating to 1 or more household units,—
     (i) the role that household units play in the lives of the people who use them, and the importance of—
@@ -100,6 +100,11 @@ This Act has the following purposes:
     (iv) amendments to other enactments and the repeal of the Building Act 1991:
     (v) transitional provisions.
 (3) This section is intended only as a guide to the general scheme and effect of this Act.
+
+**Transitional, savings, and related provisions**
+
+### 5A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 **Application of Act to the Crown**
 
@@ -177,6 +182,8 @@ In this Act, unless the context otherwise requires,—
   - **dam owner accreditation body** means the person referred to in section 256
   - **dam safety assurance programme** means a dam safety assurance programme prepared by an owner of a dam under section 140
   - **determination** means a determination made by the chief executive under subpart 1 of Part 3
+  - **earthquake-prone building** has the meaning given in section 133AB
+  - **earthquake rating** has the meaning given in section 133AC
   - **employee** includes,—
     (a) in relation to a Crown organisation, the chief executive or principal officer (however described) of that organisation; and
     (b) in relation to the New Zealand Defence Force, a member of the Armed Forces (as that term is defined in section 2(1) of the Defence Act 1990)
@@ -184,6 +191,11 @@ In this Act, unless the context otherwise requires,—
     (a) gasfitting; or
     (b) prescribed electrical work
   - **energy work certificate** means a certificate of the kind referred to in section 19(1)﻿(e)
+  - **engineering assessment** , in relation to a building or a part of a building, means an engineering assessment of the building or part that complies with the requirements of the EPB methodology
+  - **EPB exemption notice** means an exemption notice issued under section 133AN
+  - **EPB methodology** means the methodology for identifying earthquake-prone buildings that is set by the chief executive under section 133AV
+  - **EPB notice** means an earthquake-prone building notice issued under section 133AL
+  - **EPB register** means the register of earthquake-prone buildings established and maintained under section 273(1)﻿(aab)
   - **estimated value** , in relation to building work, means the estimated aggregate of the consideration, determined in accordance with section 10 of the Goods and Services Tax Act 1985, of all goods and services to be supplied for the building work
   - **falsework** , in relation to building work or the maintenance of a building,—
     (a) means any temporary structure or framework used to support materials, equipment, or an assembly; and
@@ -195,7 +207,14 @@ In this Act, unless the context otherwise requires,—
   - **former Act** means the Building Act 1991
   - **functional requirements** , in relation to a building, means those functions that the building is required to perform for the purposes of this Act
   - **gasfitting** has the meaning given to it by section 4 of the Plumbers, Gasfitters, and Drainlayers Act 2006
+  - **heritage building** means a building that is included on—
+    (a) the New Zealand Heritage List/Rārangi Kōrero maintained under section 65 of the Heritage New Zealand Pouhere Taonga Act 2014; or
+    (b) the National Historic Landmarks/Ngā Manawhenua o Aotearoa me ōna Kōrero Tūturu list maintained under section 81 of the Heritage New Zealand Pouhere Taonga Act 2014
+  - **heritage dam** means a dam that is included on—
+    (a) the New Zealand Heritage List/Rārangi Kōrero maintained under section 65 of the Heritage New Zealand Pouhere Taonga Act 2014; or
+    (b) the National Historic Landmarks/Ngā Manawhenua o Aotearoa me ōna Kōrero Tūturu list maintained under section 81 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **high potential impact dam** means a dam that has been classified under section 134B as having high potential impact
+  - **high seismic risk** has the meaning given in section 133AD
   - **household unit** —
     (a) means a building or group of buildings, or part of a building or group of buildings, that is—
       (i) used, or intended to be used, only or mainly for residential purposes; and
@@ -219,10 +238,12 @@ In this Act, unless the context otherwise requires,—
   - **large dam** means a dam that has a height of 4 or more metres and holds 20 000 or more cubic metres volume of water or other fluid
   - **licensed building practitioner** means a building practitioner whose name is, for the time being, entered in the register established and maintained under section 298(1)
   - **low potential impact dam** means a dam that has been classified under section 134B as having low potential impact
+  - **low seismic risk** has the meaning given in section 133AD
   - **means of escape from fire** , in relation to a building that has a floor area,—
     (a) means continuous unobstructed routes of travel from any part of the floor area of that building to a place of safety; and
     (b) includes all active and passive protection features required to warn people of fire and to assist in protecting people from the effects of fire in the course of their escape from the fire
   - **medium potential impact dam** means a dam that has been classified under section 134B as having medium potential impact
+  - **medium seismic risk** has the meaning given in section 133AD
   - **Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act
   - **minor customisation** , in relation to an application for a building consent that incorporates plans and specifications that have national multiple-use approval, means a minor modification, addition, or variation to those plans and specifications that is permitted by regulations made under section 402(1)﻿(kc)
@@ -279,6 +300,7 @@ In this Act, unless the context otherwise requires,—
   - **prescribed** means prescribed by regulations made under this Act
   - **prescribed electrical work** has the meaning given to it by section 2(1) of the Electricity Act 1992
   - **prescribed fee** includes a fee calculated in accordance with a rate or method prescribed for this purpose in regulations made under this Act
+  - **priority building** has the meaning given in section 133AE
   - **product certification accreditation body** means the person referred to in section 261(2)
   - **property** —
     (a) includes land, buildings, and goods; but
@@ -309,6 +331,7 @@ In this Act, unless the context otherwise requires,—
       (ii) the support of materials used in connection with the work; and
     (b) includes any plank, coupling, fastening, fitting, or device used in connection with the construction, erection, or use of scaffolding
   - **scope of accreditation** , in relation to a building consent authority that is not a territorial authority, means the scope of technical competence for which the building consent authority is accredited by a building consent accreditation body in accordance with section 252
+  - **seismic work** , in relation to a building or a part of a building that is subject to an EPB notice, means the building work required to ensure that the building or part is no longer earthquake prone
   - **sitework** means work on a building site, including earthworks, preparatory to, or associated with, the construction, alteration, demolition, or removal of a building
   - **small heated pool** means a heated pool (such as a spa pool or a hot tub) that—
     (a) has a water surface area of 5 m2 or less; and
@@ -410,15 +433,17 @@ Under this Act, the chief executive—
   (a) issues acceptable solutions or verification methods and reviews those documents; and
   (b) warns against, or bans the use of, particular building methods or products; and
   (ba) determines applications for national multiple-use approvals; and
-  (c) specifies the kinds of applications for a building consent that must be copied to the New Zealand Fire Service Commission under section 46; and
+  (c) specifies the kinds of applications for a building consent that must be copied to Fire and Emergency New Zealand under section 46; and
   (ca) has the functions set out in section 168A in relation to the implementation, administration, and review of this Act; and
   (d) monitors and reports annually to the Minister in accordance with section 169; and
+  (da) monitors, in accordance with section 169A, the application and effectiveness of subpart 6A of Part 2 (which relates to earthquake-prone buildings); and
   (e) publishes guidance information on the requirements of this Act and the building code; and
   (f) registers building consent authorities that have been accredited to allow them to perform functions under Parts 2 and 3; and
   (fa) accepts (and withdraws acceptance of) independently qualified pool inspectors for the purpose of section 162D; and
   (g) makes determinations under subpart 1 of Part 3; and
   (h) reviews the operation of territorial authorities, regional authorities, and building consent authorities in relation to their functions under this Act; and
   (i) grants and revokes accreditation of building consent authorities or appoints a building consent accreditation body to do so; and
+  (ia) sets a methodology under section 133AV for identifying earthquake-prone buildings; and
   (j) grants and revokes accreditation of dam owners or appoints a dam owner accreditation body to do so; and
   (k) appoints a product certification accreditation body under section 261; and
   (l) disseminates information and provides educational programmes on matters relating to building control; and
@@ -839,7 +864,7 @@ An owner may apply to a territorial authority for a project information memorand
   (d) details of any authorisation in respect of the proposed building work that the territorial authority, on its own behalf and on behalf of any network utility operator (if the territorial authority is acting as agent for a network utility operator by prior agreement with the network utility operator), is authorised to refuse or require under any Act, except this Act, and, in respect of each authorisation,—
     (i) a statement of the requirements to be met in order for the authorisation to be granted or imposed; and
     (ii) the conditions to which an authorisation will be subject; and
-  (e) if the territorial authority considers that the owner of the building or proposed building to which the project information memorandum relates is likely to be required, under section 21A of the Fire Service Act 1975, to make provision for a scheme that provides for evacuation from the scene of a fire, a statement to that effect; and
+  (e) if the territorial authority considers that the owner of the building or proposed building to which the project information memorandum relates is likely to be required, under section 76 of the Fire and Emergency New Zealand Act 2017, to make provision for a scheme that provides for evacuation from the scene of a fire, a statement to that effect; and
   (f) if the territorial authority considers that notification to Heritage New Zealand Pouhere Taonga is likely to be required under section 39, a statement to that effect; and
   (g) either—
     (i) confirmation, subject to this Act, that building work may be carried out subject to the requirements of a building consent and subject also to all other necessary authorisations being obtained; or
@@ -947,7 +972,7 @@ If a project information memorandum contains information previously supplied to 
     (i) a copy of that national multiple-use approval; and
     (ii) details of any proposed minor customisations; and
   (c) contain or be accompanied by any other information that the building consent authority reasonably requires; and
-  (d) be accompanied by any fees and charges imposed by the building consent authority under section 240; and
+  (d) be accompanied by any fees and charges imposed by the building consent authority under section 219 or 240 (as applicable); and
   (e) in the case of an application for a building consent that relates to restricted building work, state the name of each licensed building practitioner who, as far as the applicant is aware at the time the application is made, will be involved in carrying out or supervising the restricted building work that is the subject of the application; and
   (f) if the owner applies for a project information memorandum for the building work under section 32 and the project information memorandum is then issued, be accompanied by—
     (i) the project information memorandum; and
@@ -991,17 +1016,17 @@ If a project information memorandum contains information previously supplied to 
   (b) the changes are minor customisations permitted by regulations made under section 402(1)﻿(kc).
 (2) If any other changes are made to the plans and specifications referred to in subsection (1), the national multiple-use approval does not apply.
 
-### 46 Copy of certain applications for building consent must be provided to New Zealand Fire Service Commission
+### 46 Copy of certain applications for building consent must be provided to Fire and Emergency New Zealand
 (1) This section applies to an application for a building consent that is of a kind specified by the chief executive by notice published in the Gazette.
 (2) A copy of the notice must be given by the chief executive to every building consent authority as soon as practicable after it is so published.
-(3) A building consent authority must, on receipt of an application to which this section applies, provide a copy of the application to the New Zealand Fire Service Commission.
+(3) A building consent authority must, on receipt of an application to which this section applies, provide a copy of the application to Fire and Emergency New Zealand.
 
-### 47 New Zealand Fire Service Commission may give advice on applications under section 46
-(1) The New Zealand Fire Service Commission may, within 10 working days after receiving a copy of an application for a building consent under section 46, provide the building consent authority concerned with a memorandum that sets out advice on the following matters in respect of the building to which the application relates:
+### 47 Fire and Emergency New Zealand may give advice on applications under section 46
+(1) Fire and Emergency New Zealand may, within 10 working days after receiving a copy of an application for a building consent under section 46, provide the building consent authority concerned with a memorandum that sets out advice on the following matters in respect of the building to which the application relates:
   (a) provisions for means of escape from fire:
   (b) the needs of persons who are authorised by law to enter the building to undertake fire-fighting.
-(2) The New Zealand Fire Service Commission must not, in the memorandum referred to in subsection (1), set out advice that provides for the building to meet performance criteria that exceed the requirements of the building code.
-(3) If the New Zealand Fire Service Commission does not provide a memorandum within the period specified in subsection (1), the building consent authority may proceed to determine the application without the memorandum.
+(2) Fire and Emergency New Zealand must not, in the memorandum referred to in subsection (1), set out advice that provides for the building to meet performance criteria that exceed the requirements of the building code.
+(3) If Fire and Emergency New Zealand does not provide a memorandum within the period specified in subsection (1), the building consent authority may proceed to determine the application without the memorandum.
 
 ### 48 Processing application for building consent
 (1) After receiving an application for a building consent that complies with section 45, a building consent authority must, within the time limit specified in subsection (1A),—
@@ -1012,7 +1037,7 @@ If a project information memorandum contains information previously supplied to 
   (b) in all other cases, within 20 working days after receipt by the building consent authority of the application.
 (2) A building consent authority may, within the period specified in subsection (1A), require further reasonable information in respect of the application, and, if it does so, the period is suspended until it receives that information.
 (3) In deciding whether to grant or refuse an application for a building consent, the building consent authority must have regard to—
-  (a) a memorandum provided by the New Zealand Fire Service Commission under section 47 (if any); and
+  (a) a memorandum provided by Fire and Emergency New Zealand under section 47 (if any); and
   (b) whether a building method or product to which a current warning or ban under section 26(2) relates will, or may, be used or applied in the building work to which the building consent relates.
 (4) Subsection (3) does not limit section 49(1).
 
@@ -1316,7 +1341,7 @@ All restricted building work must be carried out or supervised by a licensed bui
   (a) carries out restricted building work and is not licensed to carry out restricted building work of that kind; or
   (b) supervises restricted building work and is not licensed to carry out or supervise the carrying out of restricted building work of that kind.
 (3) Subsection (1) and (2)﻿(a) do not apply to a person to whom the owner-builder exemption applies in respect of the restricted building work in question.
-(4) A person who commits an offence under this section is liable to a fine not exceeding $20,000.
+(4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $20,000.
 
 ### 86 Offence to engage another person to carry out or supervise restricted building work if person is not licensed building practitioner
 (1) A person commits an offence if that person—
@@ -1466,7 +1491,7 @@ For the purposes of section 90B(1)﻿(a), relevant interest, in relation to the 
 A code compliance certificate must be issued—
   (a) by a building consent authority; and
   (b) in the prescribed form; and
-  (c) on payment of any fees and charges imposed by the building consent authority under section 240.
+  (c) on payment of any fees and charges imposed by the building consent authority under section 219 or 240 (as applicable).
 
 ### 95A Refusal to issue code compliance certificate
 If a building consent authority refuses to issue a code compliance certificate, the building consent authority must give the applicant written notice of—
@@ -1695,6 +1720,7 @@ An owner of a building for which a compliance schedule has been issued must—
     (i) means of escape from fire; or
     (ii) access and facilities for persons with disabilities; and
   (c) the improvements referred to in paragraph (b) outweigh any detriment that is likely to arise as a result of the building not complying with the relevant provisions of the building code.
+(3) This section is subject to section 133AT.
 
 ### 113 Buildings with specified intended lives
 (1) This section applies if a proposed building, or an existing building proposed to be altered, is intended to have a life of less than 50 years.
@@ -1782,9 +1808,9 @@ In sections 118 to 120, unless the context otherwise requires, building includes
 ### 120 Symbols of access must be displayed
 If any provision required by section 118 is made at a building in compliance with that section, a notice or sign that indicates in accordance with the international symbols of access that provision is made for the needs of persons with disabilities must be displayed outside the building or so as to be visible from outside it.
 
-### Subpart 6 — Special provisions for certain categories of buildings
+### Subpart 6 — Special provisions for dangerous, affected, and insanitary buildings
 
-**Definitions of dangerous, affected, earthquake-prone, and insanitary buildings**
+**Interpretation and application**
 
 ### 121 Meaning of dangerous building
 (1) A building is dangerous for the purposes of this Act if,—
@@ -1793,7 +1819,7 @@ If any provision required by section 118 is made at a building in compliance wit
     (ii) damage to other property; or
   (b) in the event of fire, injury or death to any persons in the building or to persons on other property is likely.
 (2) For the purpose of determining whether a building is dangerous in terms of subsection (1)﻿(b), a territorial authority—
-  (a) may seek advice from members of the New Zealand Fire Service who have been notified to the territorial authority by the Fire Service National Commander as being competent to give advice; and
+  (a) may seek advice from employees, volunteers, and contractors of Fire and Emergency New Zealand who have been notified to the territorial authority by the board of Fire and Emergency New Zealand as being competent to give advice; and
   (b) if the advice is sought, must have due regard to the advice.
 
 ### 121A Meaning of affected building
@@ -1802,14 +1828,7 @@ A building is an affected building for the purposes of this Act if it is adjacen
   (b) a dangerous dam within the meaning of section 153.
 
 ### 122 Meaning of earthquake-prone building
-(1) A building is earthquake prone for the purposes of this Act if, having regard to its condition and to the ground on which it is built, and because of its construction, the building—
-  (a) will have its ultimate capacity exceeded in a moderate earthquake (as defined in the regulations); and
-  (b) would be likely to collapse causing—
-    (i) injury or death to persons in the building or to persons on any other property; or
-    (ii) damage to any other property.
-(2) Subsection (1) does not apply to a building that is used wholly or mainly for residential purposes unless the building—
-  (a) comprises 2 or more storeys; and
-  (b) contains 3 or more household units.
+[Repealed]
 
 ### 123 Meaning of insanitary building
 A building is insanitary for the purposes of this Act if the building—
@@ -1820,10 +1839,18 @@ A building is insanitary for the purposes of this Act if the building—
   (c) does not have a supply of potable water that is adequate for its intended use; or
   (d) does not have sanitary facilities that are adequate for its intended use.
 
-**Powers of territorial authorities in respect of dangerous, affected, earthquake-prone, or insanitary buildings**
+### 123A Application of this subpart to parts of buildings
+(1) If a territorial authority is satisfied that only part of a building is dangerous (within the meaning of section 121) or insanitary (within the meaning of section 123),—
+  (a) the territorial authority may exercise any of its powers or perform any of its functions under this subpart in respect of that part of the building rather than the whole building; and
+  (b) for the purpose of paragraph (a), this subpart applies with any necessary modifications.
+(2) To the extent that a power or function of a territorial authority under this subpart relates to affected buildings,—
+  (a) the territorial authority may exercise the power or perform the function in respect of all or part of an affected building; and
+  (b) for the purpose of paragraph (a), this subpart applies with any necessary modifications.
 
-### 124 Dangerous, affected, earthquake-prone, or insanitary buildings: powers of territorial authority
-(1) This section applies if a territorial authority is satisfied that a building in its district is a dangerous, affected, earthquake-prone, or insanitary building.
+**Powers of territorial authorities in respect of dangerous, affected, or insanitary buildings**
+
+### 124 Dangerous, affected, or insanitary buildings: powers of territorial authority
+(1) This section applies if a territorial authority is satisfied that a building in its district is a dangerous, affected, or insanitary building.
 (2) In a case to which this section applies, the territorial authority may do any or all of the following:
   (a) put up a hoarding or fence to prevent people from approaching the building nearer than is safe:
   (b) attach in a prominent place on, or adjacent to, the building a notice that warns people not to approach the building:
@@ -1831,7 +1858,7 @@ A building is insanitary for the purposes of this Act if the building—
     (i) reduce or remove the danger; or
     (ii) prevent the building from remaining insanitary:
   (d) issue a notice that complies with section 125(1A) restricting entry to the building for particular purposes or restricting entry to particular persons or groups of persons.
-(3) This section does not limit the powers of a territorial authority.
+(3)
 
 ### 125 Requirements for notice requiring building work or restricting entry
 (1) A notice issued under section 124(2)﻿(c) must—
@@ -1851,7 +1878,7 @@ A building is insanitary for the purposes of this Act if the building—
   (b) an occupier of the building; and
   (c) every person who has an interest in the land on which the building is situated under a mortgage or other encumbrance registered under the Land Transfer Act 1952; and
   (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 137 of the Land Transfer Act 1952; and
-  (e) any statutory authority, if the land or building has been classified; and
+  (e) every statutory authority that has exercised a statutory power to classify or register, for any purpose, the building or the land on which the building is situated; and
   (f) Heritage New Zealand Pouhere Taonga, if the building is a heritage building.
 (3) However, the notice, if fixed on the building, is not invalid because a copy of it has not been given to any or all of the persons referred to in subsection (2).
 
@@ -1868,7 +1895,7 @@ A building is insanitary for the purposes of this Act if the building—
 ### 127 Building work includes demolition of building
 Any work required or authorised to be done under section 124(2)﻿(c) or section 126 may include the demolition of all or part of a building.
 
-### 128 Prohibition on using dangerous, affected, earthquake-prone, or insanitary building
+### 128 Prohibition on using dangerous, affected, or insanitary building
 (1) This section applies if a territorial authority has done any of the following:
   (a) put up a hoarding or fence in relation to a building under section 124(2)﻿(a):
   (b) attached a notice warning people not to approach a building under section 124(2)﻿(b):
@@ -1877,7 +1904,7 @@ Any work required or authorised to be done under section 124(2)﻿(c) or section
   (a) use or occupy the building; or
   (b) permit another person to use or occupy the building.
 
-### 128A Offences in relation to dangerous, affected, earthquake-prone, or insanitary buildings
+### 128A Offences in relation to dangerous, affected, or insanitary buildings
 (1) A person who fails to comply with a notice issued under section 124(2)﻿(c) that is given to that person under section 125(2)—
   (a) commits an offence; and
   (b) is liable to a fine not exceeding $200,000.
@@ -1887,7 +1914,7 @@ Any work required or authorised to be done under section 124(2)﻿(c) or section
 
 ### 129 Measures to avoid immediate danger or to fix insanitary conditions
 (1) This section applies if, because of the state of a building,—
-  (a) immediate danger to the safety of people is likely in terms of section 121 or section 122 or section 123; or
+  (a) immediate danger to the safety of people is likely in terms of section 121 or 123; or
   (b) immediate action is necessary to fix insanitary conditions.
 (2) The chief executive of a territorial authority may, by warrant issued under his or her signature, cause any action to be taken that is necessary in his or her judgment to—
   (a) remove that danger; or
@@ -1910,10 +1937,10 @@ Any work required or authorised to be done under section 124(2)﻿(c) or section
     (ii) confirmation of the warrant by the District Court is not required; and
   (b) the owner pays the costs referred to in section 129(3)﻿(a).
 
-**Policy on dangerous, earthquake-prone, and insanitary buildings**
+**Policy on dangerous and insanitary buildings**
 
-### 131 Territorial authority must adopt policy on dangerous, earthquake-prone, and insanitary buildings
-(1) A territorial authority must, within 18 months after the commencement of this section, adopt a policy on dangerous, earthquake-prone, and insanitary buildings within its district.
+### 131 Territorial authority must adopt policy on dangerous and insanitary buildings
+(1) A territorial authority must, within 18 months after the commencement of this section, adopt a policy on dangerous and insanitary buildings within its district.
 (2) The policy must state—
   (a) the approach that the territorial authority will take in performing its functions under this Part; and
   (b) the territorial authority's priorities in performing those functions; and
@@ -1937,6 +1964,386 @@ Any work required or authorised to be done under section 124(2)﻿(c) or section
 This subpart does not apply to—
   (a) a building that is a dam; or
   (b) a part of a building that is a dam.
+
+### Subpart 6A — Special provisions for earthquake-prone buildings
+
+**Application and interpretation**
+
+### 133AA Buildings to which this subpart applies
+(1) This subpart applies to all buildings except the following:
+  (a) a building that is used wholly or mainly for residential purposes (but see subsection (2)):
+  (b) a farm building (being a shed or other building that is located on a farm and used primarily for farming activities or an ancillary purpose):
+  (c) a stand-alone retaining wall (being a retaining wall that is not integral to the structure of a building):
+  (d) a fence:
+  (e) a monument (including a statue), unless the monument is capable of being entered by a person:
+  (f) a wharf:
+  (g) a bridge:
+  (h) a tunnel:
+  (i) a storage tank:
+  (j) a building that is a dam:
+  (k) a part of a building that is a dam.
+(2) Despite subsection (1)﻿(a), this subpart applies to a building described in that subsection if the building—
+  (a) comprises 2 or more storeys; and
+  (b) either—
+    (i) is a hostel, boardinghouse, or other specialised accommodation; or
+    (ii) contains 3 or more household units.
+
+### 133AB Meaning of earthquake-prone building
+(1) A building or a part of a building is earthquake prone if, having regard to the condition of the building or part and to the ground on which the building is built, and because of the construction of the building or part,—
+  (a) the building or part will have its ultimate capacity exceeded in a moderate earthquake; and
+  (b) if the building or part were to collapse, the collapse would be likely to cause—
+    (i) injury or death to persons in or near the building or on any other property; or
+    (ii) damage to any other property.
+(2) Whether a building or a part of a building is earthquake prone is determined by the territorial authority in whose district the building is situated: see section 133AK.
+(3) For the purpose of subsection (1)﻿(a), ultimate capacity and moderate earthquake have the meanings given to them by regulations.
+
+### 133AC Meaning of earthquake rating
+(1) In this Act, earthquake rating, in relation to a building or a part of a building that a territorial authority has determined is earthquake prone, means the degree to which the building or part meets the requirements of the building code—
+  (a) that relate to how a building is likely to perform in an earthquake; and
+  (b) that would be used to design a new building on the same site; and
+  (c) as they apply on the day on which this section comes into force.
+(2) The earthquake rating of a building or a part of a building—
+  (a) is determined by a territorial authority in accordance with the EPB methodology (see section 133AK); and
+  (b) is specified on the EPB notice issued for the building or part and recorded in the EPB register; and
+  (c) determines the form of the EPB notice issued for the building or part (see section 401C(a)).
+(3) An earthquake rating may be expressed as a percentage or a percentage range.ExamplesIf a territorial authority determines that a building meets 25% of the requirements of the building code referred to in subsection (1), the earthquake rating of the building is 25%.If a territorial authority determines that a building meets between 0% and 10% of the requirements of the building code referred to in subsection (1), the earthquake rating of the building is the range of 0% to 10%.
+
+### 133AD Meaning of low, medium, and high seismic risk
+(1) For the purposes of this Act, the area in which a building is located has—
+  (a) a low seismic risk if the area has a Z factor that is less than 0.15; and
+  (b) a medium seismic risk if the area has a Z factor that is greater than or equal to 0.15 and less than 0.3; and
+  (c) a high seismic risk if the area has a Z factor that is greater than or equal to 0.3.
+(2) For the purpose of subsection (1), the Z factor of an area is the seismic hazard factor that would be used to design a new building on a site in that area in accordance with the following, as they relate to calculating Z factors and as they apply on the day on which this section comes into force:
+  (a) the building code; and
+  (b) verification methods; and
+  (c) standards incorporated by reference into the building code or a verification method.
+(3) The seismic risk of an area affects—
+  (a) the time frame within which a territorial authority must—
+    (i) apply the EPB methodology to identify buildings or parts of buildings in the area that are potentially earthquake prone (see section 133AG); and
+    (ii) report to the chief executive on its progress towards that objective; and
+  (b) the deadline for completing seismic work on a building or a part of a building in the area, if it is subject to an EPB notice (see section 133AM).
+
+### 133AE Meaning of priority building
+(1) In this subpart, priority building means any of the following that are located in an area of medium or high seismic risk:
+  (a) a hospital building that is likely to be needed in an emergency (within the meaning of the Civil Defence Emergency Management Act 2002) to provide—
+    (i) emergency medical services; or
+    (ii) ancillary services that are essential for the provision of emergency medical services:
+  (b) a building that is likely to be needed in an emergency for use as an emergency shelter or emergency centre:
+  (c) a building that is used to provide emergency response services (for example, policing, fire, ambulance, or rescue services):
+  (d) a building that is regularly occupied by at least 20 people and that is used as any of the following:
+    (i) an early childhood education and care centre licensed under Part 26 of the Education Act 1989:
+    (ii) a registered school or an integrated school (within the meaning of the Education Act 1989):
+    (iii) a private training establishment registered under Part 18 of the Education Act 1989:
+    (iv) a tertiary institution established under section 162 of the Education Act 1989:
+  (e) any part of an unreinforced masonry building that could—
+    (i) fall from the building in an earthquake (for example, a parapet, an external wall, or a veranda); and
+    (ii) fall onto any part of a public road, footpath, or other thoroughfare that a territorial authority has identified under section 133AF(2)﻿(a):
+  (f) a building that a territorial authority has identified under section 133AF(2)﻿(b) as having the potential to impede a transport route of strategic importance (in terms of an emergency response) if the building were to collapse in an earthquake.
+(2) For the purposes of subsection (1)﻿(a) and (b), the likelihood of a building being needed in an emergency for a particular purpose must be assessed having regard to—
+  (a) any national civil defence emergency management plan made under section 39 of the Civil Defence Emergency Management Act 2002; and
+  (b) the civil defence emergency management group plan approved under section 48 of the Civil Defence Emergency Management Act 2002 that covers the district in which the building is situated.
+(3) If only part of a building meets the criteria set out in subsection (1), only that part of the building is a priority building.
+(4) Whether a building is a priority building affects—
+  (a) the deadline by which a territorial authority must identify whether the building or a part of the building is potentially earthquake prone (see section 133AG); and
+  (b) the deadline for completing seismic work on the building or a part of the building, if it is subject to an EPB notice (see section 133AM).
+
+### 133AF Role of territorial authority in identifying certain priority buildings
+(1) This section applies to a territorial authority whose district includes any area of medium or high seismic risk.
+(2) The territorial authority,—
+  (a) for the purpose of section 133AE(1)﻿(e) (prioritising parts of unreinforced masonry buildings), must use the special consultative procedure in section 83 of the Local Government Act 2002 to identify any part of a public road, footpath, or other thoroughfare in an area of medium or high seismic risk—
+    (i) onto which parts of an unreinforced masonry building could fall in an earthquake; and
+    (ii) that has sufficient vehicle or pedestrian traffic to warrant prioritising the identification and remediation of those parts of unreinforced masonry buildings; and
+  (b) for the purpose of section 133AE(1)﻿(f) (prioritising buildings that could impede a strategic transport route),—
+    (i) may, in its discretion, initiate the special consultative procedure in section 83 of the Local Government Act 2002 to identify buildings for that purpose; but
+    (ii) must not identify buildings for that purpose other than in accordance with the special consultative procedure.
+(3) However, a territorial authority is not required to act under subsection (2)﻿(a) if there is no reasonable prospect of any thoroughfare in its district satisfying the criteria set out in subsection (2)﻿(a)﻿(i) and (ii).
+(4) If a territorial authority is required by subsection (2)﻿(a) or decides under subsection (2)﻿(b) to use the special consultative procedure in section 83 of the Local Government Act 2002, it must use the procedure within a time frame that enables the territorial authority to meet the applicable time frame under section 133AG(4) for identifying potentially earthquake-prone priority buildings in its district.
+
+**Identifying earthquake-prone buildings**
+
+### 133AG Territorial authority must identify potentially earthquake-prone buildings
+(1) Within the applicable time frame under subsection (4), a territorial authority—
+  (a) must apply the EPB methodology to buildings in its district to identify buildings or parts of buildings that are potentially earthquake prone; and
+  (b) may, if it has reason to suspect that a building or a part of a building in its district may be earthquake prone, identify the building or part as potentially earthquake prone, whether or not by reference to any aspect of the EPB methodology.
+(2) Until the end of the applicable time frame, a territorial authority must report to the chief executive on its progress towards identifying buildings or parts of buildings within its district that are potentially earthquake prone as follows:
+  (a) if the whole district is of low seismic risk, every 3 years; or
+  (b) if the district includes an area of medium seismic risk, but no areas of high seismic risk, every 2 years; or
+  (c) if the district includes an area of high seismic risk, every year.
+(3) After the end of the applicable time frame, a territorial authority may, if it has reason to suspect that a building or a part of a building in its district may be earthquake prone, identify the building or part as potentially earthquake prone, whether or not by reference to the EPB methodology.
+(4) The applicable time frame is the period commencing on the day on which this section comes into force (the commencement date) and ending on,—
+  (a) for each area of low seismic risk, the expiry of 15 years after the commencement date; and
+  (b) for each area of medium seismic risk, the expiry of the following period after the commencement date:
+    (i) 5 years for priority buildings; and
+    (ii) 10 years for other buildings; and
+  (c) for each area of high seismic risk, the expiry of the following period after the commencement date:
+    (i) 2 years and 6 months for priority buildings; and
+    (ii) 5 years for other buildings.
+
+### 133AH Territorial authority must request engineering assessment of potentially earthquake-prone buildings
+(1) If a territorial authority identifies a building or a part of a building as potentially earthquake prone, the territorial authority must ask the owner of the building or part to provide an engineering assessment of the building or part.
+(2) The request must—
+  (a) be in writing; and
+  (b) be dated; and
+  (c) identify the building or the part of a building that the territorial authority has identified as potentially earthquake prone; and
+  (d) explain the basis on which the territorial authority has identified the building or the part of the building as potentially earthquake prone; and
+  (e) explain the owner’s obligations under section 133AI; and
+  (f) state whether the building is a priority building; and
+  (g) state the due date for the engineering assessment, which must be 12 months after the date of the request; and
+  (h) explain that if the owner is not reasonably able to provide an engineering assessment by the due date (for example, because of a shortage of people qualified to conduct engineering assessments), the owner may apply under section 133AJ for an extension of up to 12 months; and
+  (i) explain the consequences of the owner failing to provide the engineering assessment by the due date; and
+  (j) explain what will happen if the territorial authority determines that the building or the part of the building is earthquake prone.
+
+### 133AI Obligations of owners on receiving request for engineering assessment
+(1) If a territorial authority asks the owner of a building or a part of a building to provide an engineering assessment of the building or part under section 133AH, the owner must, by the due date (which may be extended under section 133AJ),—
+  (a) provide to the territorial authority an engineering assessment of the building or part that complies with the requirements of the EPB methodology; or
+  (b) provide to the territorial authority evidence of a factual error in the basis on which the territorial authority has identified the building or part as potentially earthquake prone; or
+  (c) notify the territorial authority that the owner does not intend to provide an engineering assessment.
+(2) If a territorial authority is satisfied that it has incorrectly identified a building or a part of a building as potentially earthquake prone, the territorial authority must cancel the request for an engineering assessment and give the owner of the building or part written notice of that fact.
+(3) If an owner fails to comply with subsection (1), or notifies the territorial authority under subsection (1)﻿(c) that the owner does not intend to provide an engineering assessment of a building or a part of a building,—
+  (a) the territorial authority must, under section 133AK(4), proceed as if it had determined the building or part to be earthquake prone; and
+  (b) the EPB notice issued for the building or part must, under section 133AL(4), be in the form that is prescribed for the category of earthquake ratings that includes the lowest earthquake ratings; and
+  (c) the territorial authority may obtain an engineering assessment of the building or part and recover, as a debt due from the owner of the building or part, the costs of doing so.
+
+### 133AJ Owners may apply for extension of time to provide engineering assessment
+(1) This section applies if—
+  (a) a territorial authority asks the owner of a building or a part of a building to provide an engineering assessment of the building or part under section 133AH; and
+  (b) the owner is unable to provide an engineering assessment by the due date (for example, because of a shortage of people qualified to conduct engineering assessments).
+(2) The owner may, no later than 2 months before the due date, apply to the territorial authority for an extension of up to 12 months from the due date.
+(3) The territorial authority must deal with the application promptly, by—
+  (a) granting the extension and notifying the owner in writing of the revised due date for the engineering assessment; or
+  (b) notifying the owner in writing that the extension has not been granted.
+(4) A territorial authority must not extend the due date for an engineering assessment more than once.
+
+### 133AK Territorial authority must determine whether building is earthquake prone
+(1) If a territorial authority receives an engineering assessment of a building or a part of a building in response to a request made under section 133AH, the territorial authority must determine, in accordance with the EPB methodology,—
+  (a) whether the building or part is earthquake prone; and
+  (b) if the building or part is earthquake prone, its earthquake rating.
+(2) If the territorial authority determines that the building or part is not earthquake prone, the territorial authority must promptly notify the owner in writing of its decision.
+(3) If the territorial authority determines that the building or part is earthquake prone, the territorial authority must promptly—
+  (a) issue an EPB notice for the building or part under section 133AL; and
+  (b) record the details of the decision in the EPB register and update other information in the EPB register as necessary.
+(4) If a territorial authority asks the owner of a building or a part of a building to provide an engineering assessment of the building or part under section 133AH, and either does not receive it by the due date or is notified that the owner does not intend to provide it by the due date,—
+  (a) the territorial authority—
+    (i) must proceed as if it had determined the building or part to be earthquake prone; and
+    (ii) need not determine the earthquake rating of the building or part; and
+  (b) this Act applies as if the territorial authority had determined the building or part to be earthquake prone.
+
+**Remediation of earthquake-prone buildings**
+
+### 133AL Territorial authority must issue EPB notice for earthquake-prone buildings
+(1) This section applies if a territorial authority makes any of the following decisions:
+  (a) determining under section 133AK or 133AY or clause 2 of Schedule 1AA that a building or a part of a building is earthquake prone; or
+  (b) revoking an exemption under section 133AN; or
+  (c) revoking an extension under section 133AO; or
+  (d) determining under section 133AQ or 133AY that the earthquake rating of a building or a part of a building that is subject to an EPB notice is different from the earthquake rating (if any) of the building or part that is stated in the notice or the EPB register.
+(2) The territorial authority must promptly issue an EPB notice for the building or the part of the building, which must—
+  (a) be dated; and
+  (b) be in the prescribed form; and
+  (c) identify the building or the part of a building determined to be earthquake prone; and
+  (d) specify whether the building or part is a priority building; and
+  (e) specify the earthquake rating of the building or part (unless this has not been determined: see section 133AK(4) and clause 2 of Schedule 1AA); and
+  (f) state that the owner of the building or part is required to carry out building work to ensure that the building or part is no longer earthquake prone (seismic work); and
+  (g) state the deadline for completing seismic work (see section 133AM); and
+  (h) state that the owner of the building or part may apply under section 133AN for an exemption from the requirement to carry out seismic work; and
+  (i) if the building is a heritage building to which section 133AO applies, state that the owner of the building or part may apply under that section for an extension of time to complete seismic work; and
+  (j) state that the owner is not required to complete seismic work if the territorial authority determines or is satisfied, in accordance with section 133AQ, that the building or part is not earthquake prone.
+(3) If the earthquake rating of a building or a part of a building is a percentage range that spans more than 1 prescribed category of earthquake ratings, the notice issued for the building or part must be in the form prescribed for the category that includes the lowest point in the percentage range.
+(4) If the territorial authority is proceeding under section 133AK(4) as if it had determined a building or a part of a building to be earthquake prone (because the owner has not provided an engineering assessment),—
+  (a) the notice must be in the form prescribed for the category of earthquake ratings that includes the lowest earthquake ratings (see section 401C(a)); and
+  (b) the notice must state—
+    (i) that the territorial authority has not determined whether the building or part is earthquake prone, but is proceeding as if it had; and
+    (ii) that the earthquake rating of the building or part has not been determined.
+(5) The territorial authority must give a copy of the notice to—
+  (a) the owner of the building or the part of the building; and
+  (b) every person who has an interest in the land on which the building is situated under a mortgage or other encumbrance registered under the Land Transfer Act 1952; and
+  (c) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 137 of the Land Transfer Act 1952; and
+  (d) every statutory authority that has exercised a statutory power to classify or register, for any purpose, the building or the land on which the building is situated; and
+  (e) Heritage New Zealand Pouhere Taonga, if the building is a heritage building.
+(6) However, the notice is not invalid because a copy of it has not been given to any or all of the persons referred to in subsection (5).
+
+### 133AM Deadline for completing seismic work
+(1) The owner of a building or a part of a building that is subject to an EPB notice must complete seismic work on the building or part on or before the deadline specified in this section.
+(2) The deadline is the expiry of whichever of the following periods, as measured from the date of the first EPB notice issued for the building or the part of the building (rather than any replacement EPB notice), is applicable:
+  (a) in an area of low seismic risk, 35 years for any building; and
+  (b) in an area of medium seismic risk, 12 years and 6 months for a priority building and 25 years for any other building; and
+  (c) in an area of high seismic risk, 7 years and 6 months for a priority building and 15 years for any other building.
+(3) However,—
+  (a) if clause 2 of Schedule 1AA applies to the building or the part of the building, the deadline is the deadline determined in accordance with that clause; and
+  (b) if the building or the part of the building is a heritage building for which an extension is granted under section 133AO, the deadline is the expiry of the period of the extension, as measured from the deadline that would apply under paragraph (a) or subsection (2) if no extension were granted.
+(4) To avoid doubt, seismic work may include the demolition of a building or part of a building.
+
+### 133AN Owner may apply for exemption from requirement to carry out seismic work
+(1) The owner of a building or a part of a building that is subject to an EPB notice may apply to a territorial authority for an exemption from the requirement to carry out seismic work on the building or part.
+(2) An application must be in writing and must be accompanied by any fee imposed by the territorial authority under section 219.
+(3) The territorial authority must deal with the application promptly, by doing one of the following:
+  (a) if the territorial authority is satisfied that the building or the part of the building has the prescribed characteristics (see section 401C(b)),—
+    (i) granting the exemption and issuing an EPB exemption notice; and
+    (ii) recording the details of the exemption in the EPB register and updating other information in the EPB register as necessary; or
+  (b) notifying the owner in writing that the exemption has not been granted.
+(4) An EPB exemption notice must—
+  (a) identify the building or the part of the building that is subject to an EPB notice; and
+  (b) state that the owner of the building or the part of the building is exempt from the requirement to carry out seismic work on the building or part; and
+  (c) give the territorial authority's reasons for granting the exemption.
+(5) A territorial authority may review an exemption at any time, and may revoke it if satisfied that the building no longer has the prescribed characteristics.
+(6) An exemption stays in force until the territorial authority revokes it.
+(7) As soon as practicable after revoking an exemption, a territorial authority must—
+  (a) reissue an EPB notice under section 133AL for the building or the part of the building that is earthquake prone; and
+  (b) record the details of the revocation in the EPB register and update other information in the EPB register as necessary.
+
+### 133AO Owners of certain heritage buildings may apply for extension of time to complete seismic work
+(1) This section applies to a building if—
+  (a) the building or a part of the building is subject to an EPB notice; and
+  (b) the building is—
+    (i) included as a Category 1 historic place on the New Zealand Heritage List/Rārangi Kōrero maintained under section 65 of the Heritage New Zealand Pouhere Taonga Act 2014; or
+    (ii) included on the National Historic Landmarks/Ngā Manawhenua o Aotearoa me ōna Kōrero Tūturu list maintained under section 81 of the Heritage New Zealand Pouhere Taonga Act 2014.
+(2) The owner of the building or the part of the building (the owner) may apply to the territorial authority for an extension of time to complete seismic work on the building or part.
+(3) An application must be in writing and must be accompanied by any fee imposed by the territorial authority under section 219.
+(4) The territorial authority may, by notice in writing to the owner, extend by up to 10 years the deadline for completing seismic work that applies under section 133AM(2) or (3)﻿(a).
+(5) If the territorial authority grants an extension, the owner must—
+  (a) take all reasonably practicable steps to manage or reduce the risks associated with the building or the part of the building being earthquake prone; and
+  (b) comply with any conditions imposed by the territorial authority for the purpose of managing or reducing the risks referred to in paragraph (a).
+(6) If the owner fails to comply with subsection (5), the territorial authority may revoke the extension.
+(7) As soon as practicable after granting or revoking an extension, a territorial authority must—
+  (a) reissue an EPB notice under section 133AL for the building or the part of the building; and
+  (b) record the details of the extension or revocation in the EPB register and update other information in the EPB register as necessary.
+
+### 133AP EPB notices and EPB exemption notices to be attached to earthquake-prone buildings
+(1) As soon as practicable after issuing an EPB notice or an EPB exemption notice for a building or a part of a building, the territorial authority must—
+  (a) attach, or require the owner of the building or part to attach, the notice in a prominent place on or adjacent to the building; and
+  (b) remove, or authorise the owner of the building or part to remove, any superseded EPB notice or EPB exemption notice that is attached on or adjacent to the building.
+(2) If an EPB notice or an EPB exemption notice ceases to be attached in a prominent place on or adjacent to a building, or becomes illegible,—
+  (a) the owner of the building or the part of the building to which the notice relates must notify the territorial authority of that fact; and
+  (b) the territorial authority must issue a replacement notice; and
+  (c) subsection (1) applies to the replacement notice.
+(3) Subsection (2) does not apply if the removal of the notice is authorised by or under this subpart.
+
+### 133AQ Territorial authority may assess information relating to earthquake-prone building status at any time
+(1) This section applies if, at any time,—
+  (a) the owner of a building or a part of a building sends to the territorial authority an engineering assessment of the building or part (whether or not the building or part is already subject to an EPB notice); or
+  (b) a territorial authority is satisfied, on the basis of evidence other than an engineering assessment, that a building or a part of a building that is subject to an EPB notice is not earthquake prone.
+(2) As soon as practicable after receiving an engineering assessment under this section for a building or a part of a building, the territorial authority must determine, in accordance with the EPB methodology,—
+  (a) whether the building or part is earthquake prone; and
+  (b) if the building or part is earthquake prone, its earthquake rating.
+(3) If the territorial authority determines or is satisfied that the building or part is not earthquake prone, the territorial authority must promptly—
+  (a) notify the owner in writing of its decision; and
+  (b) if the building or part is already subject to an EPB notice,—
+    (i) remove the building from the EPB register; and
+    (ii) remove, or authorise the owner of the building or part to remove, any EPB notice or EPB exemption notice attached on or adjacent to the building.
+(4) If the territorial authority determines that the building or part is earthquake prone, the territorial authority must promptly—
+  (a) notify the owner in writing of its decision; and
+  (b) if the building or part is not already subject to an EPB notice, issue an EPB notice for the building or part under section 133AL; and
+  (c) if the building or part is already subject to an EPB notice,—
+    (i) if the earthquake rating has changed, reissue an EPB notice under section 133AL for the building or part; and
+    (ii) if the earthquake rating has not changed, notify the owner in writing of that fact; and
+  (d) record the details of the decision in the EPB register and update other information in the EPB register as necessary.
+
+**Powers of territorial authorities in respect of earthquake-prone buildings**
+
+### 133AR Territorial authority may impose safety requirements
+(1) If a territorial authority determines that a building or a part of a building in its district is earthquake prone, the territorial authority may do any or all of the following:
+  (a) put up a hoarding or fence to prevent people from approaching the building or part nearer than is safe:
+  (b) attach in a prominent place, on or adjacent to the building or part, a notice that warns people not to approach the building or part:
+  (c) issue a notice that complies with subsection (2) restricting entry to the building or part for particular purposes or restricting entry to particular persons or groups of persons.
+(2) A notice issued under subsection (1)﻿(c)—
+  (a) must be in writing; and
+  (b) must be fixed to the building in question; and
+  (c) must be given in the form of a copy to the persons listed in section 133AL(5); and
+  (d) may be issued for a period of up to 30 days; and
+  (e) may be reissued, but not more than once, for a further period of up to 30 days.
+(3) However, a notice issued under subsection (1)﻿(c), if fixed on the building, is not invalid because a copy of it has not been given to any or all of the persons listed in section 133AL(5).
+(4) If, in relation to a building or a part of a building, a territorial authority has put up a hoarding or fence or attached a notice under subsection (1)﻿(b) or (c), no person may, other than in accordance with the terms of a notice issued under subsection (1)﻿(c),—
+  (a) use or occupy the building or part; or
+  (b) permit another person to use or occupy the building or part.
+
+### 133AS Territorial authority may carry out seismic work
+(1) This section applies if seismic work on a building or a part of a building that is subject to an EPB notice is not completed by the deadline that applies under section 133AM, or is not proceeding with reasonable speed in the light of that deadline.
+(2) The territorial authority may apply to the District Court for an order authorising the territorial authority to carry out seismic work on the building or the part of the building.
+(3) Before the territorial authority applies to the District Court under subsection (2), the territorial authority must give the owner of the building or the part of the building not less than 10 days' written notice of its intention to do so.
+(4) If a territorial authority carries out seismic work on a building or a part of a building under the authority of an order made under subsection (2),—
+  (a) the owner of the building or part is liable for the costs of the work; and
+  (b) the territorial authority may recover those costs from the owner; and
+  (c) the amount recoverable by the territorial authority becomes a charge on the land on which the work was carried out.
+(5) Seismic work authorised to be done under this section may include the demolition of a building or part of a building.
+
+### 133AT Alterations to buildings subject to EPB notice
+(1) This section applies instead of section 112 in relation to an application for a building consent for the alteration of a building or a part of a building that is subject to an EPB notice.
+(2) A building consent authority must not grant a building consent for the alteration of the building or part unless the building consent authority is satisfied that,—
+  (a) after the alteration, the building will comply, as nearly as is reasonably practicable, with the provisions of the building code that relate to—
+    (i) means of escape from fire; and
+    (ii) access and facilities for persons with disabilities (if this is a requirement in terms of section 118); and
+  (b) after the alteration, the building will,—
+    (i) if it complied with the other provisions of the building code immediately before the building work began, continue to comply with those provisions; or
+    (ii) if it did not comply with the other provisions of the building code immediately before the building work began, continue to comply at least to the same extent as it did then comply; and
+  (c) in the case of a substantial alteration, the alteration includes the necessary seismic work. An alteration of a building is a substantial alteration if the territorial authority is satisfied that the alteration meets criteria prescribed under section 401C(c).
+(3) Despite subsection (2)﻿(a), a territorial authority may, by written notice to the owner of the building or part, specify 1 or more of the provisions of the building code referred to in subsection (2)﻿(a) and allow the alteration of the building or part without the building complying with the specified provisions if the territorial authority is satisfied that—
+  (a) the alteration includes the necessary seismic work; and
+  (b) if the building were required to comply with the specified provisions, it would be unduly onerous for the owner in the circumstances; and
+  (c) the permitted non-compliance with the specified provisions is no more than is reasonably necessary in the light of the objective of ensuring that the building or part is no longer earthquake prone; and
+  (d) after the alteration, the building will continue to comply with the specified provisions, and other provisions of the building code, to at least the same extent as it complied with those provisions immediately before the building work began.
+(4) When making the assessments required by subsection (3)﻿(b) and (c), the territorial authority must take into account the matters (if any) prescribed under section 401C(d).
+
+**Offences**
+
+### 133AU Offences in relation to earthquake-prone buildings
+Failure to complete seismic work
+(1) The owner of a building or a part of a building that is subject to an EPB notice who fails to complete seismic work on the building or part by the deadline that applies under section 133AM—
+  (a) commits an offence; and
+  (b) is liable on conviction to a fine not exceeding $200,000.
+Failures relating to EPB notices and EPB exemption notices
+(2) A person commits an offence if—
+  (a) a territorial authority requires the person to attach an EPB notice or an EPB exemption notice on or adjacent to a building under section 133AP; and
+  (b) the person—
+    (i) fails to attach the notice in accordance with that section; or
+    (ii) attaches the notice otherwise than in accordance with that section.
+(3) A person commits an offence if—
+  (a) the person is required under section 133AP(2)﻿(a) to notify the territorial authority when an EPB notice or an EPB exemption notice ceases to be attached on or adjacent to a building or becomes illegible; and
+  (b) the person fails to notify the territorial authority in accordance with that section.
+(4) A person who commits an offence under subsection (2) or (3) is liable on conviction to a fine not exceeding $20,000.
+Failure to comply with safety requirements
+(5) A person who fails to comply with section 133AR(4) commits an offence and is liable on conviction—
+  (a) to a fine not exceeding $200,000; and
+  (b) in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part of a day during which the offence continues.
+
+**Methodology for identifying earthquake-prone buildings (EPB methodology)**
+
+### 133AV Chief executive must set methodology for identifying earthquake-prone buildings (EPB methodology)
+(1) The chief executive must set a methodology for identifying earthquake-prone buildings (the EPB methodology) that specifies how territorial authorities are to—
+  (a) identify the buildings or parts of buildings in their district that are potentially earthquake prone; and
+  (b) determine whether a potentially earthquake-prone building or part of a building is earthquake prone and, if it is, its earthquake rating.
+(2) The methodology—
+  (a) may specify buildings, parts of buildings, or classes of buildings or parts of buildings that are potentially earthquake prone; and
+  (b) may specify a method for identifying buildings, parts of buildings, or classes of buildings or parts of buildings that are potentially earthquake prone; and
+  (c) must specify the requirements for an engineering assessment of a building or a part of a building; and
+  (d) must specify how a territorial authority may use engineering or other tests completed before the commencement of this section to determine whether a building or a part of a building is earthquake prone or potentially earthquake prone.
+(3) The chief executive must set the methodology no later than 1 month after the commencement of this section.
+(4) The methodology may incorporate material by reference in accordance with sections 405 to 413.
+(5) The chief executive may amend or replace the methodology at any time.
+(6) If the chief executive amends or replaces the methodology, sections 133AW and 133AX apply in respect of the amendment or replacement with any necessary modifications.
+
+### 133AW Consultation requirements for setting EPB methodology
+(1) Before setting the EPB methodology, the chief executive must do everything reasonably practicable on his or her part to consult territorial authorities and any other persons or organisations that appear to the chief executive to be representative of the interests of persons likely to be substantially affected by the setting of the methodology.
+(2) The process for consultation should, to the extent practicable in the circumstances, include—
+  (a) giving adequate and appropriate notice of the intention to set the methodology; and
+  (b) giving a reasonable opportunity for territorial authorities and other interested persons to make submissions; and
+  (c) giving adequate and appropriate consideration to submissions.
+(3) A failure to comply with this section does not affect the validity of the methodology.
+
+### 133AX Notification and availability of EPB methodology
+(1) As soon as practicable after the chief executive has set the EPB methodology, the chief executive must—
+  (a) notify territorial authorities that the methodology has been set; and
+  (b) publicly notify that the methodology has been set; and
+  (c) make the methodology available on the Internet in a form that is publicly accessible at all reasonable times; and
+  (d) make the methodology available in printed form for purchase on request by members of the public.
+(2) The methodology is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+**Miscellaneous**
+
+### 133AY What territorial authority must do if definition of ultimate capacity or moderate earthquake amended
+(1) This section applies if the definition of ultimate capacity or moderate earthquake, as set out in regulations made for the purpose of section 133AB (meaning of earthquake-prone building), is amended or replaced.
+(2) As soon as is reasonably practicable after the definition is amended or replaced, a territorial authority—
+  (a) must consider whether any decision that it has made under this subpart should be reassessed in the light of the changes to the definition; and
+  (b) may remake the decision.
+(3) Section 133AQ(3) and (4) applies if a decision is remade under this section.
 
 ### Subpart 7 — Safety of dams
 
@@ -2214,7 +2621,7 @@ The owner of a dam who has reasonable grounds for believing that the dam is, or 
   (a) put up a hoarding or fence to prevent people from approaching the dam nearer than is safe:
   (b) attach in a prominent place on, or adjacent to, the dam a notice that warns people not to approach the dam:
   (c) give written notice requiring work to be carried out on the dam, within a time stated in the notice (which must not be less than 10 days after the notice is given under section 155), to reduce or remove the danger.
-(2) This section does not limit the powers of a regional authority under this Part.
+(2)
 (3) A person commits an offence if the person fails to comply with a notice given under subsection (1)﻿(c).
 (4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000.
 
@@ -2227,7 +2634,7 @@ The owner of a dam who has reasonable grounds for believing that the dam is, or 
   (b) an occupier of the dam; and
   (c) every person who has an interest in the land on which the dam is situated under a mortgage or other encumbrance registered under the Land Transfer Act 1952; and
   (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 137 of the Land Transfer Act 1952; and
-  (e) any statutory authority, if the land or dam has been classified; and
+  (e) every statutory authority that has exercised a statutory power to classify or register, for any purpose, the dam or the land on which the dam is situated; and
   (f) Heritage New Zealand Pouhere Taonga, if the dam is a heritage dam.
 (3) However, the notice, if fixed on the dam, is not invalid because a copy of it has not been given to any or all of the persons referred to in subsection (2).
 
@@ -2417,9 +2824,12 @@ The chief executive must—
   (d) any other functions and duties of the chief executive under this Act.
 (2) The chief executive must, in each year, make a report to the Minister on the performance of his or her functions under subsection (1).
 
+### 169A Chief executive must monitor application and effectiveness of subpart 6A of Part 2 (earthquake-prone buildings)
+The chief executive must monitor the application of subpart 6A of Part 2 and its effectiveness in regulating earthquake-prone buildings.
+
 ### 170 Chief executive must consult in performing certain functions
 The chief executive must, in performing his or her functions, consult with,—
-  (a) in the case of functions that involve advice, approval, and determinations about fire safety and fire-engineering practice, the New Zealand Fire Service Commission:
+  (a) in the case of functions that involve advice, approval, and determinations about fire safety and fire-engineering practice, Fire and Emergency New Zealand:
   (b) in the case of disability issues, the chief executive of the department of State responsible for disability issues.
 
 ### 171 Chief executive may seek advice from building advisory panel
@@ -2475,7 +2885,8 @@ The chief executive must, in performing his or her functions, consult with,—
   (b) any of the following persons to assist them in the performance of their functions and duties, and in the exercise of their powers (if any), in relation to dams:
     (i) regional authorities:
     (ii) owners of dams:
-    (iii) licensed building practitioners.
+    (iii) licensed building practitioners; and
+  (c) owners of buildings and members of the public in relation to the application of subpart 6A of Part 2.
 (2) Any information published by the chief executive under this section—
   (a) is only a guide; and
   (b) if used, does not relieve any person of the obligation to consider any matter to which that information relates according to the circumstances of the particular case.
@@ -2517,7 +2928,8 @@ In sections 177 to 190, party, in relation to a determination, means any or all 
   (c) an exemption from building consent requirements under clause 2 of Schedule 1:
   (d) an amendment to a compliance schedule under section 106, 107, or 109:
   (e) a notice to fix:
-  (f) sections 112, 113, 115, and 116 (which relate to alterations to, or changes in the use of, a building) and 124 and 129 (which relate to dangerous, earthquake-prone, and insanitary buildings):
+  (f) sections 112, 113, 115, and 116 (which relate to alterations to, or changes in the use of, a building) and 124 and 129 (which relate to dangerous, affected, and insanitary buildings):
+  (fa) any power of decision of a territorial authority under subpart 6A of Part 2, other than a power of decision under section 133AS (territorial authority may carry out seismic work):
   (g) a certificate for public use under section 363A:
   (h) a certificate under section 224(f) of the Resource Management Act 1991.
 (4) Subsection (1)﻿(b) applies to any power of decision under this Act of a regional authority in respect of a dam.
@@ -2552,7 +2964,7 @@ In sections 177 to 190, party, in relation to a determination, means any or all 
   (a) on his or her own initiative; and
   (b) without an application for a determination being made under that section.
 (2) The chief executive—
-  (a) may give a direction under subsection (1) either before or after a decision or a power that relates to the matter is made or, as the case may be, is exercised by any person referred to in section 177; and
+  (a) may give a direction under subsection (1) either before or after a decision or a power that relates to the matter is made or exercised (as the case may be); and
   (b) must,—
     (i) in a case where a direction is given after the decision is made, or the power is exercised, confirm, reverse, or modify the decision or the exercise of the power in his or her determination; or
     (ii) in a case where a direction is given before the decision is made, or the power is exercised, determine the matter in his or her determination.
@@ -2874,7 +3286,7 @@ A person who fails to comply with a notice served on that person under section 2
   (a) any application for a building consent made to the territorial authority; and
   (b) any building consent granted under that application.
 (2) Subsection (1) does not apply in the case of dams.
-(3) A territorial authority must, in performing its functions as a building consent authority, provide to the New Zealand Fire Service Commission a copy of every application for a building consent of a kind specified by notice under section 46.
+(3) A territorial authority must, in performing its functions as a building consent authority, provide to Fire and Emergency New Zealand a copy of every application for a building consent of a kind specified by notice under section 46.
 (4) Subsection (1)—
   (a) is subject to the territorial authority's power to transfer, under section 233, any or all of its functions, duties, or powers under this Act to another territorial authority; and
   (b) does not apply to any function so transferred by the territorial authority.
@@ -2914,7 +3326,7 @@ A territorial authority must, for the purpose of ensuring that it complies with 
     (iv) code compliance certificates:
     (iva) records of work and certificates of work provided by licensed building practitioners under section 45(2) or 88(1)﻿(a):
     (ivb) statutory declarations provided by owner-builders:
-    (ivc) if applicable, the specified intended life of the building:
+    (ivc)
     (v) compliance schedules:
     (vi) building warrants of fitness:
     (vii) energy work certificates relating to building work:
@@ -2945,8 +3357,8 @@ A territorial authority must, for the purpose of ensuring that it complies with 
   (b) may charge a reasonable fee for the use of those facilities.
 (5) Subsection (4) is subject to section 44A of the Local Government Official Information and Meetings Act 1987.
 
-### 218 Territorial authority must provide information to chief executive for purpose of facilitating performance of chief executive's function under section 169
-(1) For the purpose of facilitating the performance of the chief executive's function under section 169 (which relates to monitoring current and emerging trends in building design, etc), a territorial authority must provide information to the chief executive in accordance with the regulations.
+### 218 Territorial authority must provide information to chief executive for purpose of facilitating performance of chief executive's function under sections 169 and 169A
+(1) For the purpose of facilitating the performance of the chief executive's function under section 169 (which relates to monitoring current and emerging trends in building design, etc) and section 169A (which relates to monitoring the application and effectiveness of subpart 6A of Part 2 (earthquake-prone buildings)), a territorial authority must provide information to the chief executive in accordance with the regulations.
 (2) However, a territorial authority is only required to provide information under subsection (1) about its functions, duties, and powers under this Act.
 
 ### 219 Territorial authority may impose fee or charge and must collect levy
@@ -2997,7 +3409,8 @@ A territorial authority must, for the purpose of ensuring that it complies with 
     (iv) any residential pool (or the immediate pool area); and
   (b) to enter premises for—
     (i) the purpose of inspecting the building; or
-    (ii) the purpose of determining whether the building is dangerous, earthquake prone, or insanitary within the meaning of subpart 6 of Part 2; and
+    (ii) the purpose of determining whether the building is dangerous or insanitary within the meaning of subpart 6 of Part 2; or
+    (iii) the purpose of determining whether the building or a part of the building is earthquake prone or potentially earthquake prone within the meaning of subpart 6A of Part 2; and
   (c) to enter premises for the purpose of determining whether section 162C is being complied with.
 (2) An authorised officer must, on entering private land under subsection (1), and when requested at any subsequent time, produce to the occupier of the land written evidence of the authorised officer's identity.
 (3) The powers conferred by this section are in addition to, and do not limit, the powers conferred by section 173 of the Local Government Act 2002.
@@ -3107,7 +3520,7 @@ This subpart applies to a building consent authority that—
 ### 238 Duties of building consent authority
 (1) A building consent authority must, in performing its functions under Part 2,—
   (a) obtain a project information memorandum before granting a building consent; and
-  (b) provide to the New Zealand Fire Service Commission a copy of every application for a building consent of a kind specified by notice under section 46; and
+  (b) provide to Fire and Emergency New Zealand a copy of every application for a building consent of a kind specified by notice under section 46; and
   (c) provide to the territorial authority for the relevant district copies of the information referred to in subsection (2).
 (2) The information is—
   (a) plans and specifications submitted to the building consent authority in relation to an application for a building consent; and
@@ -3422,6 +3835,7 @@ An application for accreditation under section 263 must—
 ### 273 Chief executive must keep registers
 (1) The chief executive must establish and maintain the following registers:
   (aaa) a register of national multiple-use approvals:
+  (aab) a register of earthquake-prone buildings for the purposes of subpart 6A of Part 2 (the EPB register):
   (a) a register of building consent authorities for the purposes of section 191:
   (b)
   (c) a register of accredited dam owners notified to the chief executive under section 260:
@@ -3433,6 +3847,7 @@ An application for accreditation under section 263 must—
 (3) Each register may be kept—
   (a) as an electronic register (for example, on the Ministry's website); or
   (b) in any other manner that the chief executive thinks fit.
+(3A) The EPB register must be kept in a manner that enables territorial authorities, as well as the chief executive, to record and update information in the register.
 (4) Each register must be operated at all reasonable times unless—
   (a) the chief executive suspends the operation of the register, in whole or in part, in accordance with subsection (5); or
   (b) otherwise provided in regulations made under section 402.
@@ -3442,6 +3857,7 @@ An application for accreditation under section 263 must—
 The purpose of each register is—
   (a) to enable members of the public to know,—
     (iaa) in the case of the register of national multiple-use approvals, the names and contact details of the persons who have been issued with national multiple-use approvals, together with a description of each approval and any conditions that have been imposed; and
+    (iab) in the case of the EPB register, information relating to buildings or parts of buildings that territorial authorities have determined to be earthquake prone; and
     (i) in the case of the register of building consent authorities, the names and contact details of those building consent authorities and, if applicable, the scope of their accreditation; and
     (ii)
     (iii) in the case of the register of accredited dam owners, the names and contact details of those dam owners; and
@@ -3454,6 +3870,30 @@ The register of building consent authorities referred to in section 273(1)﻿(a)
   (a) details of any limits imposed by the chief executive, under section 203(2)﻿(c), on the functions that those authorities may perform:
   (b) any prescribed information:
   (c) in the case of building consent authorities that are not territorial authorities, the scope of accreditation of each of those authorities.
+
+### 275A Content of EPB register
+(1) The EPB register must contain the following information for each building or part of a building that a territorial authority determines is earthquake prone:
+  (a) the name of the territorial authority that made the decision:
+  (b) the address of, and any other details necessary to identify, the building or the part of the building determined to be earthquake prone:
+  (c) whether the building is a priority building:
+  (d) the date of the EPB notice issued for the building or part:
+  (e) the earthquake rating of the building or part, as determined by the territorial authority:
+  (f) the deadline for completing seismic work that applies under section 133AM (unless an exemption from the requirement to carry out seismic work is in force under section 133AN):
+  (g) the details of any exemption from the requirement to carry out seismic work that is in force under section 133AN:
+  (h) the details of any extension of time for completing seismic work that is in force under section 133AO, including a summary of any conditions imposed by the territorial authority for the purpose of section 133AO(5)﻿(b):
+  (i) any information prescribed under section 401C(e).
+(2) If the territorial authority is proceeding under section 133AK(4) as if it had determined the building or the part of the building to be earthquake prone (because the owner has not provided an engineering assessment),—
+  (a) subsection (1)﻿(e) does not apply; and
+  (b) the register must contain statements to the following effect:
+    (i) that the territorial authority has not determined whether the building or part is earthquake prone, but is proceeding as if it had because the owner has not provided an engineering assessment; and
+    (ii) that the EPB notice issued for the building or part is in the form prescribed for the category of earthquake ratings that includes the lowest earthquake ratings (see section 401C(a)); and
+    (iii) that the earthquake rating of the building or part has not been determined.
+
+### 275B Modification of chief executive’s obligation to make EPB register available for public inspection
+(1) This section applies to information that is required to be kept in the EPB register by regulations made under section 401C(e) (the prescribed information).
+(2) Despite section 273(2), the chief executive need not make the prescribed information available for public inspection, or include the prescribed information in a copy of all or part of the register supplied to a person under that section, unless the regulations require the information to be made available for public inspection.
+(3) However, the chief executive may supply any prescribed information contained in the EPB register to an entity in the State services (within the meaning of the State Sector Act 1988) if the chief executive is satisfied that it is necessary or desirable for the entity to have the information to assist in the exercise of its powers or the performance of its functions under any enactment.
+(4) This section does not limit the Official Information Act 1982.
 
 **Chief executive may review territorial authorities**
 
@@ -4568,7 +5008,8 @@ The continued existence of anything, or the intermittent repetition of any actio
 ### 381 District Court may grant injunctions for certain continuing breaches
 (1) On the application of any person referred to in subsection (2), the District Court may grant an injunction or make some other appropriate order if it appears to the District Court that—
   (a) a person is committing or is about to commit a breach of section 40 or section 168; or
-  (b) a building is dangerous, earthquake prone, or insanitary in terms of subpart 6 of Part 2 and the territorial authority has failed to take appropriate action; or
+  (b) a building is dangerous or insanitary in terms of subpart 6 of Part 2 and the territorial authority has failed to take appropriate action; or
+  (ba) a building or a part of a building is earthquake prone in terms of subpart 6A of Part 2 and the territorial authority has failed to take appropriate action; or
   (c) a dam is dangerous in terms of subpart 7 of Part 2 and the regional authority has failed to take appropriate action.
 (2) The persons are—
   (a) the chief executive; or
@@ -4767,6 +5208,17 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (3) The Minister may recommend the making of an order under this section only if the Minister is satisfied that the kind of building work or design work in question is (or is likely to be) critical to the integrity of a building or part of a building.
 (4) Building work or design work is not restricted building work if it relates to an application for a building consent made before the commencement of an order under subsection (1) declaring building work or design work of the same kind to be restricted building work.
 
+### 401C Regulations: earthquake-prone buildings
+The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that,—
+  (a) for the purpose of section 133AL,—
+    (i) prescribe categories of earthquake ratings:
+    (ii) prescribe the form of EPB notice to be issued for buildings or parts of buildings in each earthquake ratings category:
+    (iii) prescribe the form of EPB notice to be issued for a building or a part of a building to which clause 2 of Schedule 1AA (which is a transitional provision) applies:
+  (b) prescribe the age, construction type, use, level of occupancy, location in relation to other buildings or building types, and any other characteristics that a building or a part of a building must have for a territorial authority to grant an exemption under section 133AN from the requirement to carry out seismic work on the building or part:
+  (c) prescribe the criteria for determining whether a building alteration is a substantial alteration for the purpose of section 133AT(2)﻿(c):
+  (d) prescribe the matters that a territorial authority must take into account when making the assessments required by section 133AT(3)﻿(b) and (c) (for the purpose of deciding whether to allow the alteration of a building or a part of a building that is subject to an EPB notice without the building complying with specified provisions of the building code):
+  (e) prescribe information that must be kept in the EPB register, and specify whether the chief executive is required to make that information available for public inspection (see section 275B).
+
 ### 402 Regulations: general
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:Building levy:Licensing:Acceptance of independently qualified pool inspectors:General matters:
   (a) prescribing the rate of the levy to be paid under section 53:
@@ -4813,7 +5265,8 @@ The Governor-General may, by Order in Council made on the recommendation of the 
     (i) building work; or
     (ii) building inspection work:
   (o) prescribing systems or parts of systems that amount to specified systems for the purposes of this Act:
-  (p) defining moderate earthquake for the purposes of sections 122 and 153:
+  (p) defining moderate earthquake for the purposes of sections 133AB and 153:
+  (pa) defining ultimate capacity for the purposes of section 133AB (meaning of earthquake-prone building):
   (q) defining moderate flood for the purposes of section 153:
   (qa) defining earthquake threshold event for the purposes of section 153A:
   (qb) defining flood threshold event for the purposes of section 153A:
@@ -4873,7 +5326,7 @@ Any regulations made under section 402(1)﻿(n) must not come into force earlier
 
 **Incorporation of material by reference**
 
-### 405 Incorporation of material by reference into regulations, certain Orders in Council, acceptable solutions, and verification methods
+### 405 Incorporation of material by reference into certain instruments, solutions, and methods
 (1) The following material may be incorporated by reference into any instrument:
   (a) standards, requirements, or recommended practices of national or international organisations:
   (b) any other written material that, in the opinion of the Minister or, as appropriate, the chief executive, is too large or is impractical to include in, or print as part of, the instrument concerned.
@@ -4886,7 +5339,8 @@ Any regulations made under section 402(1)﻿(n) must not come into force earlier
 (4) In this section and in sections 406 to 413, instrument means—
   (a) any regulations; and
   (b) any acceptable solution or verification method; and
-  (c) any Order in Council made under section 41 or 285.
+  (c) any Order in Council made under section 41 or 285; and
+  (d) the EPB methodology set under section 133AV.
 
 ### 406 Effect of amendments to, or replacement of, material incorporated by reference
 An amendment to, or replacement of, material incorporated by reference in an instrument has legal effect as part of the instrument only if—
@@ -5266,6 +5720,48 @@ A territorial authority or a regional authority must, by 31 May 2006, apply to b
 (2) In conducting the review, the chief executive must consider—
   (a) the extent to which the building code complies with and meets the requirements of this Act; and
   (b) the extent to which the building code is stated in sufficient detail to provide clear guidance on performance standards that buildings must meet to ensure compliance with the building code.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+**Transitional provisions relating to Building (Earthquake-prone Buildings) Amendment Act 2016**
+
+### 1 Interpretation
+In this schedule,—
+  - **amendment Act** means the Building (Earthquake-prone Buildings) Amendment Act 2016
+  - **commencement date** means the day on which section 24 of the amendment Act (which inserts subpart 6A of Part 2) comes into force.
+
+### 2 Notices given under section 124 before commencement date
+(1) This clause applies to a building or a part of a building if, before the commencement date, a territorial authority issued a written notice under section 124(2)﻿(c)﻿(i) (the old notice) requiring work to be carried out on the building or part, by a deadline stated in the old notice (the old deadline), to reduce or remove the danger associated with the building or part being earthquake prone (the seismic work).
+(2) If subpart 6A of Part 2 does not apply to the building (see section 133AA),—
+  (a) the old notice is revoked on the commencement date; and
+  (b) the territorial authority must notify the owner of the building of that fact.
+(3) If subpart 6A of Part 2 does apply to the building,—
+  (a) the territorial authority is deemed to have determined that the building or the part of the building is earthquake prone; and
+  (b) the territorial authority need not determine the earthquake rating of the building or part; and
+  (c) the territorial authority must, as soon as practicable after the commencement date,—
+    (i) issue an EPB notice for the building or the part of the building under section 133AL; and
+    (ii) record the details of the building or the part of the building in the EPB register and update other information in the EPB register as necessary (but the territorial authority need not record the earthquake rating of the building or part); and
+  (d) the deadline for completing the seismic work is determined as follows:
+    (i) if the old deadline is earlier than the deadline calculated under section 133AM(2), the deadline for completing the seismic work is the old deadline (subject to subclause (5)); and
+    (ii) if the old deadline is on or after the deadline calculated under section 133AM(2), the deadline for completing the seismic work is the deadline calculated under section 133AM(2); and
+  (e) until the territorial authority issues an EPB notice, the old notice must be treated as if it were an EPB notice issued under this Act.
+(4) To avoid doubt, for the purpose of subclause (3)﻿(d) the deadline calculated under section 133AM(2) is the expiry of the relevant period as measured from the date of the EPB notice and not from the date of the old notice.
+(5) If an old deadline is preserved by subclause (3)﻿(d)﻿(i) but the period given for completing the seismic work under the old notice is shorter than the relevant period specified in section 133AM(2) (for example, an old notice issued for a building in an area of medium seismic risk required the owner to complete seismic work within 20 years after the date of that notice, but the period specified in section 133AM(2) that is relevant to the building is 25 years),—
+  (a) the owner of the building or the part of the building may apply to the territorial authority to have the relevant period specified in section 133AM(2) applied retrospectively to the date of the old notice (which would have the effect of extending the deadline for completing the seismic work); and
+  (b) in deciding whether to grant the application, the territorial authority must have regard to the particular circumstances and any guidance issued by the chief executive under section 175 for that purpose; and
+  (c) if the territorial authority grants the application, the deadline is the expiry of the relevant period specified in section 133AM(2), as measured from the date of the old notice and not from the date of the EPB notice.
+(6) If a territorial authority grants an application under subclause (5), the territorial authority must—
+  (a) issue or reissue (as applicable) an EPB notice for the building or part under section 133AL; and
+  (b) record the details of the decision in the EPB register and update other information in the EPB register as necessary.
+
+### 3 Policy adopted under section 131 before commencement date
+(1) This clause applies to a policy under section 131 (policy on dangerous, earthquake-prone, and insanitary buildings) that is adopted by a territorial authority before the commencement date.
+(2) To the extent that the policy applies to earthquake-prone buildings, the policy ceases to apply on the commencement date.
+(3) As soon as is reasonably practicable after the commencement date, the territorial authority must amend or replace the policy to remove references to earthquake-prone buildings.
+(4) Section 132 applies to an amendment or a replacement made under subclause (3), except that the special consultative procedure in section 83 of the Local Government Act 2002 (see section 132(2)) does not apply unless the amendment or replacement materially affects the policy as it applies to dangerous and insanitary buildings.
+
+### 4 Effect of certain references to parts of buildings
+The fact that provisions added to this Act by the amendment Act refer separately to buildings and parts of buildings does not limit or affect any other provision of this Act in terms of how that provision applies in respect of parts of buildings.
 
 ## Schedule 1 — Building work for which building consent not required
 
