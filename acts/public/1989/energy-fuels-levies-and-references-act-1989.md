@@ -1,11 +1,14 @@
 # Energy (Fuels, Levies, and References) Act 1989
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-01_
 
 > Title
 
 ### 1 Title and commencement
 (1) This Act is the Energy (Fuels, Levies, and References) Act 1989.
 (2) Except as provided in section 3(4), this Act shall come into force on 2 January 1990.
+
+### 1AAA Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 1A Act binds the Crown
 This Act binds the Crown.
@@ -14,6 +17,7 @@ This Act binds the Crown.
 In this Act, unless the context otherwise requires,—
   - **biofuel** means any gaseous or liquid fuel produced from biomass that can be used as a fuel for engines
   - **distribution** includes sale
+  - **EECA** means the Energy Efficiency and Conservation Authority established under section 20 of the Energy Efficiency and Conservation Act 2000
   - **energy** means work or heat that is or may be produced or derived from coal, electricity, gas, geothermal activity, petroleum, petroleum products, uranium, wind, biomass, sun, water, or any other fuel (including engine fuel) or any other source
   - **engine fuel** means any gaseous or liquid fuel that can be used as a fuel for engines, and includes biofuel, diesel, petrol (which is called motor spirit in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996)), synthetic fuel, and blends of these
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
@@ -90,8 +94,15 @@ Any consent, licence, permit, approval, or remission, given or granted by the Mi
   (b) the dissemination of information concerning safety in relation to the industries to which the levies relate by the Ministry; and
   (ba) compliance by the Crown with New Zealand’s obligation, under Article 2 of the International Energy Agreement, to maintain the emergency reserve commitment set out in that Article; and
   (c) the recovery of those levies.
+(2A) Despite subsections (1) and (2), levies recovered under sections 23 and 24 may be applied for the purpose of meeting a portion of the costs of the EECA, in performing its functions and exercising its powers and duties under the Energy Efficiency and Conservation Act 2000, where the size of the portion to be met by each levy under this Act is determined by the Minister.
 (3) Levies recovered under section 24 may be applied for the purpose of meeting the reasonable costs and expenses incurred by the Crown for the purpose set out in subsection (2)﻿(ba) on and from 1 July 2013, even though subsection (2)﻿(ba) commences after that date.
 (4) In this section, International Energy Agreement has the meaning given in section 2 of the International Energy Agreement Act 1976.
+
+### 14A Energy Efficiency and Conservation Authority consultation about request for appropriation
+(1) The EECA must, before submitting a request to the Minister seeking an appropriation of public money for the following year, or any change to an appropriation for the current year, that relates to costs that are intended to be recovered by way of a levy under section 23 or 24, consult about that request with—
+  (a) those persons who are liable to pay the levy; and
+  (b) any other representatives of persons whom the EECA believes to be significantly affected by the levy.
+(2) The EECA must, at the time when the request is submitted, report to the Minister on the outcome of that consultation.
 
 ### 15 Levies payable by owners of coal mines
 [Repealed]
@@ -122,14 +133,15 @@ Any consent, licence, permit, approval, or remission, given or granted by the Mi
 (4) All electricity measurements made for the purpose of supplying a return and calculating the levy payable under this section shall be made in such manner and by the use of such methods as may be approved by the Secretary.
 
 ### 23 Gas levies
-(1) In this section, unless the context otherwise requires, expressions defined in the Gas Act 1992 shall have the meanings so defined.
-(2) Nothing in this section shall apply to gas sold for use as a feedstock or for the generation of electricity or to liquefied petroleum gas.
-(3) Not later than 30 days after the last days of March, June, September, and December in each year—shall supply the Secretary with true and accurate returns of the energy content of all such gas that has been so sold during the immediately preceding period of 3 months ended with the said last days of March, June, September, and December, respectively, together with the levy calculated in accordance with this section.
-  (a) every person or body who or which sells piped gas to a gas retailer (whether or not that gas retailer is also a gas wholesaler); and
-  (b) every gas retailer who sells piped gas which is not subject to a levy pursuant to paragraph (a)—
-(4) Notwithstanding anything in subsection (3), any person or body who or which has sold, during any period referred to in that subsection in respect of which a levy would, apart from this subsection, be payable under this section by that person or body, less than 10 000 gigajoules of gas need not supply a return, nor pay any levy, in respect of that period.
-(5) The levy payable on all piped gas that has been so sold during the said periods of 3 months shall be 2 cents for each complete gigajoule or such lesser amount for each complete gigajoule as may be prescribed.
-(6) All gas measurements made for the purpose of supplying a return and calculating the levy payable under this section shall be made by the use of methods approved by the Secretary.
+(1) A gas retailer who sells piped gas must, not later than 30 days after the last day of March, June, September, and December in each year,—
+  (a) supply the Secretary with a return of the energy content of all piped gas sold by the retailer during the preceding 3-month period ending with the last day of March, June, September, and December, respectively; and
+  (b) pay to the Secretary the levy for the relevant 3-month period calculated in accordance with this section and with regulations made under section 33.
+(2) The levy for the relevant 3-month period is payable, for each complete gigajoule of piped gas sold, at the rate or amount calculated or ascertained in accordance with this section and with regulations made under section 33.
+(3) However, the levy is not payable on, and a return is not required to include,—
+  (a) piped gas of a prescribed type; or
+  (b) piped gas that is to be used for a prescribed purpose.
+(4) All gas measurements made for the purpose of supplying a return and calculating the levy payable under this section must be made by the use of methods approved by the Secretary.
+(5) In this section, unless the context otherwise requires, expressions defined in the Gas Act 1992 have the meanings so defined.
 
 ### 24 Petroleum or engine fuel monitoring levy
 (1) A levy is payable at the rate prescribed under section 33 for each complete litre of petroleum or engine fuel of a type specified in regulations made under section 35(1)﻿(fa).
@@ -192,8 +204,11 @@ All money received by the Secretary or the New Zealand Customs Service under thi
 ### 33 Regulations prescribing levy rates
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing, for levies that are payable under this Part,—
   (a) amounts or rates of the levies; or
-  (b) formulas for calculating amounts or rates of the levies.
-(2) However, an amount or rate prescribed, or calculated using a prescribed formula, must not exceed any maximum amount or rate set out in this Part.
+  (b) methods of calculating or ascertaining amounts or rates of the levies.
+(1A) Regulations made under subsection (1) may—
+  (a) specify the periods for which amounts or rates of the levies apply; and
+  (b) include, in any prescribed method of calculating or ascertaining amounts or rates of the levies, provisions relating to any shortfall in recovering, or over-recovery of, the actual costs of EECA from a previous levy period.
+(2) However, an amount or rate prescribed, or calculated using a prescribed method, must not exceed any maximum amount or rate set out in this Part.
 (3) Before recommending that regulations be made under this section, the Minister must consult persons or organisations considered by the Minister to represent the persons affected by the levy concerned.
 (4)
 
@@ -316,6 +331,7 @@ It is hereby declared that the levies payable under this Part are exclusive of g
   (eg) prescribing the records that are required to be kept under section 35B and the length of time they must be kept:
   (eh) prescribing the form of search warrants issued under section 37A:
   (f) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amounts of the fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $10,000:
+  (faa) prescribing any matter that section 23(3) provides is to be prescribed:
   (fa) prescribing, in respect of the levy that is payable under section 24, the types of petroleum or engine fuels for which the levy is payable:
   (g) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (1A)
@@ -509,6 +525,18 @@ After the commencement of this section, all regulations made under the Ministry 
 
 ### 39 Transitional provisions in relation to levies
 Notwithstanding the repeal of the Ministry of Energy Act 1977 effected by this Act, any levies that are, immediately before the commencement of this section, payable to the Secretary of Energy, shall from the commencement of this section, become payable to the Secretary as if they were payable under this Act.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Energy Innovation (Electric Vehicles and Other Matters) Amendment Act 2017
+
+### 1 Provision in relation to Energy Efficiency and Conservation Authority consultation about request for appropriation
+Section 14A applies to requests in respect of the financial year beginning 1 July 2018 and later financial years.
+
+### 2 Provision in relation to gas levies
+(1) Section 23 (as in force immediately before commencement) continues to apply in respect of piped gas sold in the 3-month period ending with 30 June 2017.
+(2) A person, body, or gas retailer referred to in subsection (3) of section 23 (as in force immediately before commencement) remains liable to supply the Secretary, not later than 30 days after 30 June 2017, with the return and levy referred to in that subsection.
+(3) In this clause, commencement means 1 July 2017.
 
 ## Schedule 1 — Enactments amended
 
