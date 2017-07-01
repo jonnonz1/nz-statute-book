@@ -1,5 +1,5 @@
 # Forest and Rural Fires Act 1977
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-01_
 
 > An Act to consolidate and amend the law relating to the safeguarding of life and property by the prevention, detection, control, restriction, suppression and extinction of fire in forest and rural areas and other areas of vegetation
 
