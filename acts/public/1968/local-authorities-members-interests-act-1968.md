@@ -1,5 +1,5 @@
 # Local Authorities (Members' Interests) Act 1968
-_Consolidation as at 2016-12-13_
+_Consolidation as at 2017-07-01_
 
 > An Act to consolidate and amend the law relating to the making of contracts between local authorities and the members thereof, and to the restrictions on the actions of such members when matters in which they have a pecuniary interest are under consideration
 
@@ -101,9 +101,9 @@ Every person commits an offence who does any act as a member of any local author
   (g) the Council of the Victoria University of Wellington:
   (gg)
   (h) the Council of Lincoln University:
-  (i) any Fire Board:
-  (j) any Fire Committee:
-  (k) any Fire Brigade Committee—
+  (i)
+  (j)
+  (k)
 
 ### 7 Penalty for discussing or voting when pecuniarily interested
 (1) Where any person does any act in contravention of or fails to comply with any provision of subsection (1) of section 6, he commits an offence and is liable on conviction to a fine not exceeding $100.
