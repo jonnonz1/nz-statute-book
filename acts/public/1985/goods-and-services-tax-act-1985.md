@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2017-07-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -380,7 +380,7 @@ _Consolidation as at 2017-06-03_
   (a) the New Zealand Transport Agency, if the levy is paid under section 228 of that Act; or
   (b) the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011, if the levy is recovered under section 230 of that Act.
 (6A) For the purposes of this Act, any registration fee paid pursuant to section 243(1)﻿(b)﻿(i) of the Land Transport Act 1998 and any licence fees paid pursuant to section 244(2) of that Act are deemed to be consideration for a supply of services in the course or furtherance of a taxable activity carried on by the New Zealand Transport Agency.
-(6AB) For the purposes of this Act, a levy that is paid to the New Zealand Fire Service Commission under section 48 of the Fire Service Act 1975 and is not a penalty surcharge or interest payable under that Act is treated as being consideration for a supply of services to the insured person in the course or furtherance of a taxable activity carried on by the Commission.
+(6AB) For the purposes of this Act, a levy that is paid to Fire and Emergency New Zealand under subpart 2 of Part 3 of the Fire and Emergency New Zealand Act 2017 and is not a shortfall penalty (within the meaning of that Act) or interest payable under that Act is treated as being consideration for a supply of services to the levy payer or policyholder in the course or furtherance of a taxable activity carried on by the Commission.
 (6AC) For the purposes of this Act, a levy that is paid under the Waste Minimisation Act 2008 is treated as being consideration for a supply of services in the course or furtherance of a taxable activity. For the purposes of this subsection, the payment of the levy includes, and is for, the following transactions:
   (a) a payment made by a waste disposal facility user to a waste disposal facility operator; and
   (b) a payment made by a waste disposal facility operator to the Secretary for the Ministry for the Environment; and
@@ -1832,7 +1832,7 @@ A registered person who receives a supply of services that is treated by section
 (1AA) Subsection (1) also applies if a registered person sells a debt to a third party and then reacquires the debt.
 (1AB) A registered person who is required to account for tax payable on a payments basis under either section 19 or section 19A must apply this section only to supplies made by the person to which any one of sections 9(2)﻿(b), 9(3)﻿(b) and 26A applies.
 (1A) Where a registered person has, in respect of the supply by that registered person of any contract of insurance (being a supply charged with tax pursuant to section 8(1)),—that registered person shall make a deduction under section 20(3) of the tax fraction of that amount or that part of that amount written off.
-  (a) paid any amount to the Earthquake and War Damage Commission pursuant to the Earthquake and War Damage Act 1944 or to the Fire Service Commission pursuant to the Fire Service Act 1975; and
+  (a) paid any amount to the Earthquake and War Damage Commission pursuant to the Earthquake and War Damage Act 1944 or to the Fire Service Commission pursuant to the Fire Service Act 1975 or to Fire and Emergency New Zealand pursuant to the Fire and Emergency New Zealand Act 2017; and
   (b) sought to recover that amount, together with the consideration for that supply, from the recipient of that supply; and
   (c) written off as a bad debt the whole or part of that amount not paid to that registered person,—
 (2) Where any amount in respect of which a deduction has been made in accordance with subsection (1) is at any time wholly or partly recovered by the registered person, that portion of the amount of the deduction allowable under subsection (1) as the amount of the bad debt recovered bears to the bad debt written off shall be deemed to be the tax charged in relation to a taxable supply made during the taxable period in which the bad debt is wholly or partly recovered.
