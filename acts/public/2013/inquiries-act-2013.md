@@ -1,5 +1,5 @@
 # Inquiries Act 2013
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Inquiries Act 2013.
@@ -387,9 +387,7 @@ The Acts specified in Schedule 2 are amended in the manner indicated in that sch
 | Engineering Associates Act 1961 | s 25 |
 | Environment Act 1986 | s 16 |
 | Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 | s 55 |
-| Fire Service Act 1975 | s 86 |
 | Fisheries Act 1996 | ss 181, 221 |
-| Forest and Rural Fires Act 1977 | ss 59, 64A |
 | Gambling Act 2003 | s 225 |
 | Hazardous Substances and New Organisms Act 1996 | ss 3, 61 |
 | Health Act 1956 | s 124 |
