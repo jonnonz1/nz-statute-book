@@ -1,5 +1,5 @@
 # Radiation Safety Act 2016
-_Consolidation as at 2016-10-18_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Radiation Safety Act 2016.
@@ -432,7 +432,7 @@ A person who has management or control of a controlled radiation source must,—
 (2) In this section, approved person means—
   (a) the Director-General; or
   (b) an enforcement officer; or
-  (c) the chief executive of the New Zealand Fire Service; or
+  (c) a person approved by the board of Fire and Emergency New Zealand; or
   (d) a person approved by the Director.
 
 **Records**
@@ -671,7 +671,7 @@ In this subpart, unless the context otherwise requires,—
   - **emergency management powers** , in relation to the Police, means any powers conferred on the Police under any enactment that relates to the functions of the Police described in section 9(h) of the Policing Act 2008
   - **enforcement officer** means—
     (a) an enforcement officer within the meaning of section 5(1); or
-    (b) any constable, chief fire officer, or person exercising the powers of a chief fire officer under section 28, 28A, or 29 of the Fire Service Act 1975; or
+    (b) any constable, or an employee, volunteer, or contractor of Fire and Emergency New Zealand exercising functions under the Fire and Emergency New Zealand Act 2017 or regulations made under that Act; or
     (c) a person appointed, for the purpose of enforcing the provisions of the Hazardous Substances and New Organisms Act 1996, by a person referred to in section 97 of that Act
   - **non-invasive radioactivity testing** means the non-invasive testing of a person for the purpose of determining whether the person is so contaminated that the person has become a source of radiation
   - **non-invasive testing** means the testing of a person by visual inspection, screening devices, or other means that do not involve physical contact, except where the physical contact is minor or transitory in nature
@@ -681,10 +681,10 @@ In this subpart, unless the context otherwise requires,—
 (1) The Director may declare a radiation emergency if—
   (a) the Director has reasonable grounds to believe there is a radiation danger; and
   (b) a state of emergency is not in force under the Civil Defence Emergency Management Act 2002; and
-  (c) the radiation danger is not being dealt with under the Fire Service Act 1975; and
+  (c) the radiation danger is not being dealt with under the Fire and Emergency New Zealand Act 2017; and
   (d) the Police are not exercising any emergency management powers in response to the radiation danger.
 (2) Despite subsection (1),—
-  (a) subsection (1)﻿(c) does not apply if the fire officer in control of the emergency and an enforcement officer jointly decide that the provision does not apply:
+  (a) subsection (1)﻿(c) does not apply if the employee, volunteer, or contractor of Fire and Emergency New Zealand who is in control of the emergency and an enforcement officer jointly decide that the provision does not apply:
   (b) subsection (1)﻿(d) does not apply if the member of the Police in control of the emergency and an enforcement officer jointly decide that the provision does not apply.
 (3) The Director must specify the area to which the declaration of a radiation emergency applies.
 (4) A declaration of a radiation emergency—
@@ -701,10 +701,10 @@ In this subpart, unless the context otherwise requires,—
 (1) An enforcement officer may declare a radiation emergency on site if—
   (a) the officer has reasonable grounds to believe there is a radiation danger; and
   (b) a state of emergency is not in force under the Civil Defence Emergency Management Act 2002; and
-  (c) the radiation danger is not being dealt with under the Fire Service Act 1975; and
+  (c) the radiation danger is not being dealt with under the Fire and Emergency New Zealand Act 2017; and
   (d) the Police are not exercising any emergency management powers in response to the radiation danger.
 (2) Despite subsection (1),—
-  (a) subsection (1)﻿(c) does not apply if the fire officer in control of the emergency and an enforcement officer jointly decide that the provision does not apply:
+  (a) subsection (1)﻿(c) does not apply if the employee, volunteer, or contractor of Fire and Emergency New Zealand who is in control of the emergency and an enforcement officer jointly decide that the provision does not apply:
   (b) subsection (1)﻿(d) does not apply if the member of the Police in control of the emergency and an enforcement officer jointly decide that the provision does not apply.
 (3) The enforcement officer must declare the radiation emergency by—
   (a) identifying himself or herself to any people in the vicinity; and
@@ -714,7 +714,7 @@ In this subpart, unless the context otherwise requires,—
 (5) The declaration of a radiation emergency under this section ceases on the earliest of the following times:
   (a) 48 hours after the time of declaration:
   (b) when a state of emergency is declared under the Civil Defence Emergency Management Act 2002:
-  (c) when the radiation emergency is managed under the Fire Service Act 1975:
+  (c) when the radiation emergency is managed under the Fire and Emergency New Zealand Act 2017:
   (d) when the Police exercise their emergency management powers in response to the emergency.
 (6) Despite subsection (5), a declaration of a radiation emergency may be extended by the Director for a period of up to 10 days.
 (7) If a declaration of emergency under the Hazardous Substances and New Organisms Act 1996 is in force at the same time as a declaration under this section is in force, the declaration under this section overrides the declaration under that Act.
@@ -751,7 +751,7 @@ In this subpart, unless the context otherwise requires,—
   (b) only to the extent that those powers are reasonably necessary to eliminate or reduce the extent of the damage caused by the radiation danger.
 (4) If an enforcement officer enters private property pursuant to the powers conferred by subsection (1), he or she must advise the occupier of the property as soon as practicable.
 (5) Every person who is required by an enforcement officer, under subsection (1), to take any action, or not to take any action, must comply with that requirement.
-(6) In subsection (1)﻿(f), person includes the New Zealand Defence Force or New Zealand Fire Service.
+(6) In subsection (1)﻿(f), person includes the New Zealand Defence Force or Fire and Emergency New Zealand.
 
 ### 58 Compensation for property requisitioned or destroyed
 (1) This section applies if an enforcement officer or a person acting at the enforcement officer’s request requisitions property from a person under section 57(1)﻿(i) for use in responding to an emergency or destroys property under section 57(1)﻿(j) in order to prevent or limit the extent of an emergency.
