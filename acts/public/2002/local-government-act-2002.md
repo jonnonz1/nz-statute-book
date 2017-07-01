@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -2169,7 +2169,7 @@ Without limiting section 145, a territorial authority may make bylaws for its di
     (iv) land drainage:
     (v) cemeteries:
     (vi) reserves, recreation grounds, or other land under the control of the territorial authority:
-  (c) subject to sections 20 to 22 of the Forest and Rural Fires Act 1977, of preventing the spread of fires involving vegetation.
+  (c)
 
 ### 147 Power to make bylaws for alcohol control purposes
 (1) In this section,—
@@ -2348,6 +2348,23 @@ Regulations under section 259 may do any or all of the following:
 (3) The council need not use the special consultative procedure set out in section 83 to amend or revoke the bylaw to remove the inconsistency, despite anything in this Act.
 (4) A council must not make a bylaw that is inconsistent with a document.
 
+### 152B Effect of Fire and Emergency New Zealand Act 2017 on bylaws
+(1) If a territorial authority is satisfied, after consultation with Fire and Emergency New Zealand, that it is appropriate to amend or revoke a relevant fire bylaw, the territorial authority may, despite anything in this Act, amend or revoke the bylaw by resolution publicly notified without being required to—
+  (a) consult in accordance with section 82; or
+  (b) use the special consultative procedure set out in section 83.
+(2) In subsection (1), relevant fire bylaw means a bylaw that—
+  (a) relates to the removal of fire hazards; or
+  (b) declares prohibited or restricted fire seasons; or
+  (c) prohibits or otherwise regulates or controls the lighting of fires in open air; or
+  (d) relates to the prevention of the spread of fires involving vegetation.
+(3) If any bylaw made by a territorial authority is inconsistent with the Fire and Emergency New Zealand Act 2017 or any regulations or notice under that Act,—
+  (a) the Act, regulations, or notice prevails and the bylaw has no effect to the extent of the inconsistency; and
+  (b) the territorial authority must amend or revoke the bylaw to remove the inconsistency.
+(4) The territorial authority may, despite anything in this Act, amend or revoke the bylaw to remove the inconsistency by resolution publicly notified, without being required to—
+  (a) consult in accordance with section 82; or
+  (b) use the special consultative procedure set out in section 83.
+(5) A territorial authority must not make a bylaw that is inconsistent with the Fire and Emergency New Zealand Act 2017 or any regulations or notice under that Act.
+
 **The Crown bound by certain bylaws**
 
 ### 153 The Crown bound by certain bylaws
@@ -2355,8 +2372,8 @@ Regulations under section 259 may do any or all of the following:
   (a) section 146(a)﻿(iii), in relation to trade wastes:
   (b) section 146(a)﻿(iv), in relation to solid wastes:
   (c) section 146(b)﻿(ii), in relation to water supply:
-  (d) section 146(b)﻿(iii), in relation to stormwater from any building and drainage from any infrastructure:
-  (e) section 146(c), in relation to fires in the open air.
+  (d) section 146(b)﻿(iii), in relation to stormwater from any building and drainage from any infrastructure.
+  (e)
 (2) The Crown is not bound by bylaws made by a local authority under any other provision of this Part.
 (3) However, the Crown is bound by any bylaw if non-compliance with that bylaw by the Crown would be likely to have an adverse effect on public health or safety.
 
@@ -3394,7 +3411,7 @@ Every person commits an offence and is liable on conviction to the penalty speci
 Every person commits an offence and is liable on conviction to the penalty specified in section 242(2) who intentionally—
   (a) prevents the following persons from carrying out their statutory functions or duties:
     (i) an enforcement officer; or
-    (ii) a member of the Fire Service established under the Fire Service Act 1975; or
+    (ii)
     (iii) a person authorised or employed to carry out the provisions of this Act; or
   (b) obstructs or impedes a person—
     (i) from carrying out the provisions of this Act; or
