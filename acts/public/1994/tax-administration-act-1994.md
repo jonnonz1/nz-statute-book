@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2017-06-29_
+_Consolidation as at 2017-07-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -88,6 +88,7 @@ _Consolidation as at 2017-06-29_
     (b) a late payment penalty; or
     (c) a shortfall penalty; or
     (cb) a promoter penalty; or
+    (cc) a penalty under section 142H or 142I; or
     (d) a non-electronic filing penalty; or
     (e) a civil penalty under section 215 of the KiwiSaver Act 2006
   - **collective agreement** is defined in section 130(6) for the purposes of that section
@@ -114,6 +115,12 @@ _Consolidation as at 2017-06-29_
   - **Corporation** is defined in section 82(9) for the purposes of that section
   - **correct tax position** means the correct tax position established under 1 or more tax laws
   - **credit report** is defined in section 85N for the purposes of Part 4
+  - **CRS applied standard** means the CRS standard as modified by section 185O for the determination of requirements under this Act
+  - **CRS publication** means the Standard for Automatic Exchange of Financial Account Information in Tax Matters, published by the Organisation for Economic Co-operation and Development
+  - **CRS standard** means the Common Standard on Reporting and Due Diligence for Financial Account Information, as amended from time to time, which is a standard—
+    (a) developed by the Organisation for Economic Co-operation and Development and the Group of Twenty countries; and
+    (b) agreed by the Council for the Organisation for Economic Co-operation and Development on 15 July 2014; and
+    (c) contained in Part IIB of the CRS publication
   - **date interest starts** is defined in section 120C for the purposes of Part 7
   - **day of determination of final liability** —
     (a) for the purposes of Part 8, means,—
@@ -183,6 +190,7 @@ _Consolidation as at 2017-06-29_
   - **exploratory well expenditure** , in section 91(1), has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **family notice of entitlement** , in relation to any person, means a notice issued by the Commissioner under section 80KD for the estimated entitlement of the person to a tax credit under the family scheme in subparts MA to MF and MZ of the Income Tax Act 2007
   - **family trust** is defined in section 173M(5) for the purpose of that section
+  - **FATCA agreement** means the Agreement between the Government of New Zealand and the Government of the United States of America to Improve International Tax Compliance and to Implement FATCA, commonly known as the intergovernmental agreement, which was brought into force for New Zealand by the Double Tax Agreements (United States of America—FATCA) Order 2014 (LI 2014/209), as amended from time to time
   - **first payment period** , in section 47 and 173, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **foreign account information-sharing agreement** has the same meaning as in section YA 1 of the Income Tax Act 2007
@@ -210,10 +218,11 @@ _Consolidation as at 2017-06-29_
   - **incremental late payment penalty** means a late payment penalty imposed under section 139B(2)﻿(b)
   - **inflation-indexed instrument** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **inform** , for a mode of communication, has the meaning set out in section 14B
+  - **information** , for the purpose of Part 11B, includes a self-certification
   - **information holder** is defined in section 20B(1) for the purposes of sections 20B to 20F
   - **information requisition** is defined in section 21(8) for the purposes of that section
   - **initial late payment penalty** means a late payment penalty imposed under section 139B(2)﻿(a)
-  - **Inland Revenue Acts** means the Acts specified in the Schedule of this Act, and includes any Acts (whether repealed or not) that before the commencement of this Act were specified in Schedule 1 of the Inland Revenue Department Act 1974
+  - **Inland Revenue Acts** means the Acts specified in Schedule 1 of this Act, and includes any Acts (whether repealed or not) that before the commencement of this Act were specified in Schedule 1 of the Inland Revenue Department Act 1974
   - **Inland Revenue officer** is defined in section 81(8) for the purposes of section 81
   - **instalment date** , in sections 120KB to 120KE, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **interest concession provisional taxpayer** is defined in section 120KBB(4) for the purposes of Part 7
@@ -237,6 +246,11 @@ _Consolidation as at 2017-06-29_
   - **legal personal representative** is defined in section 81 for the purposes of that section
   - **legal practitioner** is defined in section 20 for the purposes of that section
   - **life insurer** , in section 112, has the same meaning as in paragraph (a) of the definition of that term in section YA 1 of the Income Tax Act 2007
+  - **maintain** , for a financial institution to which the CRS applied standard or the FATCA agreement applies in relation to a financial account, includes,—
+    (a) if the financial account is a custodial account, holding custody over the assets in the financial account, including by holding assets in street name for an account holder in the financial institution:
+    (b) if the financial account is a depository account, having an obligation to make payments with respect to the financial account, other than as agent for another financial institution:
+    (c) if the financial account is an equity or debt interest, being the financial institution in which the interest is held:
+    (d) if the account is a cash value insurance contract or an annuity contract, having an obligation to make payments with respect to the contract
   - **Maori authority distribution penalty tax** means tax payable under section 140CB
   - **Minister** means the Minister of Finance
   - **new provisional taxpayer** means a person who has an initial provisional tax liability as described in section YA 1 of the Income Tax Act 2007
@@ -269,6 +283,17 @@ _Consolidation as at 2017-06-29_
     (a) except if paragraph (b) applies, on or before the relevant due date:
     (b) if the Commissioner sets a new due date for performing the tax obligation, on or before the new due date
   - **outstanding tax** , in sections 139BA, 176, 177, 177A, 177B and 177C, means tax that is payable before or after a due date
+  - **passive income** , in the application of the CRS applied standard to a person or entity for a period, means an amount that is not income from a transaction entered into in the ordinary course of the business of a dealer in financial assets and that is—
+    (a) a dividend:
+    (b) interest:
+    (c) income equivalent to interest:
+    (d) rent or a royalty, other than rent or a royalty derived in the active conduct of a business conducted, partly or wholly, by employees of the person or entity:
+    (e) an annuity:
+    (f) for financial assets that give rise to amounts included under paragraphs (a) to (e), the amount by which gains from the sales or exchanges of the financial assets in the period exceed losses from the sales or exchanges:
+    (g) the amount by which gains from the transactions in financial assets in the period exceed losses from the transactions:
+    (h) the amount by which gains from the foreign currency transactions in the period exceed losses from the transactions:
+    (i) the amount by which gains from the swaps in the period exceed losses from the swaps:
+    (j) an amount received under a cash value insurance contract
   - **PAYE period** means or , as applicable
   - **payment** , in sections 67 and 120U, has a corresponding meaning to paragraph (a) of the definition of pay in section YA 1 of the Income Tax Act 2007
   - **period of deferral** , in respect of deferrable tax, means the period that starts on the later of—and ends at the expiry of the day that, in relation to the deferrable tax, is the day of determination of final liability
@@ -1217,7 +1242,10 @@ An information holder who is required to disclose information in relation to a p
   (ed) is an employer to whom section RD 13B of that Act applies in relation to the treatment of a tax credit for a payroll donation:
   (f) is a company that is an ICA company, a BETA person, a PCA company, or a PCA person:
   (fb) is a resident foreign trustee of a foreign trust in any income year:
-  (fc) is a borrower under section 4(1) of the Student Loan Scheme Act 2011 who has adjusted net income as defined in section 73 of that Act,—
+  (fc) is a borrower under section 4(1) of the Student Loan Scheme Act 2011 who has adjusted net income as defined in section 73 of that Act:
+  (fd) must meet requirements under Part 11B, including requirements expressed as being imposed on an entity other than a person, of—
+    (i) a financial institution, as defined in the FATCA agreement:
+    (ii) a financial institution, as defined in the CRS applied standard,—
   (g) the assessable income derived by that person from the carrying on of that business, or the carrying on of that other activity, or the making or holding or disposing of that investment; and
   (h) the deductions of that person in the carrying on of that business, or the carrying on of that other activity, or the making or holding or disposing of that investment; and
   (i) every fringe benefit, and the taxable value of every fringe benefit, provided by the person to any person in relation to whom the person is an employer, and every fringe benefit provided by the person to any person who in relation to another person is an employee, those records to include (without limiting the generality of the preceding provisions of this paragraph) details of the recipient of the fringe benefit, the occasion of the providing of it, and the amount (if any) paid or payable by the employee for the receipt or enjoyment of it; and
@@ -1232,6 +1260,8 @@ An information holder who is required to disclose information in relation to a p
   (l) every employer's superannuation cash contribution, and the taxable value of that contribution, made by the person to any superannuation fund, those records to include (without limiting the generality of the preceding provisions of this paragraph) details of the recipient of the employer's superannuation cash contribution, the occasion of making it, and any related tax credit under section MK 1(2) of the Income Tax Act 2007; and
   (lb) every retirement scheme contribution, and the taxable value of that contribution, made by the person to any retirement savings scheme, those records to include, without limiting the generality of the preceding provisions of this paragraph, details of the recipient of the retirement scheme contribution and the occasion of making it; and
   (lc) the person’s compliance with Part 11B; and
+  (ld) a failure by the person to obtain a self-certification as required by the CRS applied standard; and
+  (le) steps taken by the person and evidence relied upon by the person in performing obligations under Part 11B relating to the CRS applied standard; and
   (m) the financial position of the foreign trust; and
   (n) adjusted net income under the Student Loan Scheme Act 2011,—
 (2BA) A taxpayer required by subsection (2) to keep and retain a record must keep and retain the record—
@@ -4016,6 +4046,7 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
   (k) the assessment corrects a tax position taken by the taxpayer or an associated person as a consequence or result of an incorrect tax position taken by another taxpayer, and, at the time the Commissioner makes the assessment, the Commissioner has made, or is able to make, an assessment for that other taxpayer for the correct amount of tax payable by that other taxpayer; or
   (ka) the assessment corrects a tax position taken by the taxpayer in relation to a tax position taken by a look-through company in a return of income under section 42B, and the Commissioner and the company have completed the disputes process for that return of income and that tax position; or
   (l) the assessment results from an income statement under Part 3A; or
+  (lba) the assessment is of a penalty under section 142H or 142I; or
   (lb) the assessment extinguishes all or part of a taxpayer's tax loss in accordance with section 177C(5); or
   (m) the assessment includes a calculation by the Commissioner of a tax credit identified in subparts MA to MF and MZ of the Income Tax Act 2007.
 
@@ -5214,7 +5245,7 @@ The fact that there has been an application for a private ruling or a product ru
 (3) An assessment made under subsection (1) is subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 8A of this Act applies accordingly.
 
 ### 94A Assessment of shortfall penalties
-(1) The Commissioner may make or amend an assessment of a civil penalty in the same way as the Commissioner may make or amend an assessment of the tax in respect of which the penalty is imposed.
+(1) The Commissioner may make or amend an assessment of a civil penalty other than under section 142H or 142I in the same way as the Commissioner may make or amend an assessment of the tax in respect of which the penalty is imposed.
 (2) The Commissioner must assess a shortfall penalty in the same way as the tax to which it relates, but separately from the tax. However, this subsection does not apply to a penalty under section 141ED.
 (3) The Commissioner may assess a shortfall penalty before or after unpaid tax has been assessed, or has become assessable or payable, or has been paid.
 (4) If the Commissioner assesses a shortfall penalty in respect of unpaid income tax before the passing of the annual taxing Act, the unpaid income tax shall be calculated by reference to the rates determined by the last preceding annual taxing Act.
@@ -5230,6 +5261,10 @@ The fact that there has been an application for a private ruling or a product ru
 (3) For the purposes of subsection (2),—
   (a) where a shortfall penalty is imposed in respect of a partnership, the part of that penalty imposed on each partner shall be in proportion to the partner's share or interest in the partnership; and
   (b) where a shortfall penalty is imposed in respect of a group of persons (other than a partnership), that penalty shall be imposed in such proportions as the Commissioner determines on any 1 or more of the persons in that group.
+
+### 94C Assessment of penalties under sections 142H and 142I
+(1) The Commissioner may, for a financial institution having obligations under Part 11B for financial accounts maintained by the financial institution, make an assessment of the amount of a penalty under section 142H that, in the Commissioner’s judgement, ought to be imposed and the financial institution is liable to pay the penalty assessed, except so far as the financial institution establishes in proceedings challenging the assessment that the assessment is excessive or that the financial institution is not chargeable with the penalty.
+(2) The Commissioner may, for a person or entity having obligations under Part 11B for the provision of information relating to a person or entity for a financial account, make an assessment of the amount of a penalty under section 142I that, in the Commissioner’s judgement, ought to be imposed and the person or entity is liable to pay the penalty assessed, except so far as the person or entity establishes in proceedings challenging the assessment that the assessment is excessive or that the person or entity is not chargeable with the penalty.
 
 ### 95 Assessment of withdrawal tax
 [Repealed]
@@ -6844,6 +6879,41 @@ Deferrable tax is due and payable on the day which is the 30th day after the las
 ### 142G Due date for payment of non-electronic filing penalty
 A non-electronic filing penalty under section 139AA is due and payable on the 5th day of the month following the month in which the employer was required to furnish an employer monthly schedule in a prescribed electronic format.
 
+### 142H Failures of financial institutions to meet requirements under Part 11B and CRS applied standard
+(1) If a financial institution fails to meet a requirement under Part 11B and the CRS applied standard for financial accounts maintained by the financial institution, other than a requirement referred to in subsection (3), the financial institution is liable to pay a penalty of $300 for each failure to which subsection (2) does not apply and for which no penalty under subsection (5) is imposed.
+(2) A financial institution is not liable to pay a penalty under subsection (1) for a failure that—
+  (a) the financial institution proves is due to circumstances outside the control of the financial institution:
+  (b) occurs before 1 July 2019, if the Commissioner is satisfied that the financial institution makes reasonable efforts to meet the requirement and reasonable efforts to correct the failure within a reasonable period of time after the financial institution becomes aware of the failure.
+(3) If a financial institution fails to meet a requirement under Part 11B and the CRS applied standard to obtain self-certifications when opening a financial account, the financial institution is liable to pay a penalty of $300 for each account if subsection (4) does not apply to the failure and no penalty under subsection (5) is imposed for the failure.
+(4) A financial institution is not liable to pay a penalty under subsection (3) for a failure that occurs before 1 July 2019 for an account if the Commissioner is satisfied that the financial institution makes reasonable efforts to meet the requirement and makes reasonable efforts to correct the failure for the account within a reasonable period of time after the financial institution becomes aware of the failure.
+(5) If a financial institution fails to take reasonable care to meet a requirement of a financial institution under Part 11B and the CRS applied standard for financial accounts, and no penalty under subsections (1) and (3) is imposed for the failure, the financial institution is liable to pay a penalty of—
+  (a) $20,000 for the first failure:
+  (b) $40,000 for each further failure.
+(6) The total amount of penalties for a reporting period for which a financial institution is liable must not exceed—
+  (a) $10,000, for penalties under subsections (1) and (3):
+  (b) $100,000, for penalties under subsection (5).
+(7) The due date for payment of a penalty imposed under this section is the later of—
+  (a) 30 days after the date on which the Commissioner issues the notice of assessment for the penalty:
+  (b) the date specified by the Commissioner in the notice of assessment as being the due date for payment of the penalty.
+
+### 142I Failures to meet requirements under Part 11B to provide information, including self-certifications
+(1) This section applies to a person or entity (the information provider) required under Part 11B to provide information, including a self-certification, relating to a person or entity for a financial account.
+(2) The information provider is liable to pay a penalty of $1,000 if the information provider—
+  (a) provides false information, other than a self-certification, relating to the information provider:
+  (b) signs or otherwise affirms a false self-certification for the information provider:
+  (c) provides false information, other than a self-certification, relating to another person or entity:
+  (d) provides a false self-certification for another person or entity:
+  (e) fails to provide information, other than a self-certification, relating to the information provider within a reasonable time after receiving a request for which the information is required to be provided:
+  (f) fails to sign, or otherwise affirm, and provide a self-certification relating to the information provider within a reasonable time after receiving a request for which the self-certification is required to be provided:
+  (g) fails to provide information, other than a self-certification, relating to another person or entity within a reasonable time after receiving a request for which the information is required to be provided:
+  (h) fails to provide a self-certification relating to another person or entity within a reasonable time after receiving a request obliging the self-certification to be provided:
+  (i) after providing a person or entity with a self-certification or other information, fails to inform the person or entity of a material change in the circumstances relating to the self-certification or information within a reasonable time after the information provider becomes aware of the change.
+(3) An information provider is not liable to pay a penalty under subsection (2) for a failure to provide information, including a self-certification, within the control of the information provider, if the Commissioner is satisfied that the failure occurred through no fault of the information provider.
+(4) An information provider is not liable to pay a penalty under subsection (2) for a failure to provide information, including a self-certification, relating to another person or entity and not within the control of the information provider, if the Commissioner is satisfied that the information provider makes reasonable efforts to meet the requirement.
+(5) The due date for payment of a penalty imposed under this section is the later of—
+  (a) 30 days after the date on which the Commissioner issues the notice of assessment for the penalty:
+  (b) the date specified by the Commissioner in the notice of assessment as being the due date for payment of the penalty.
+
 **Criminal penalties**
 
 ### 143 Absolute liability offences
@@ -6863,6 +6933,7 @@ A non-electronic filing penalty under section 139AA is due and payable on the 5t
   (a) the person did not have the information in the person's knowledge, possession or control; and
   (b) no non-resident, who under section 17(1C) was controlled directly or indirectly by the person, had the information in the non-resident's knowledge, possession or control.
 (2B) No person may be convicted of an offence against subsection (1)﻿(ab) if the relevant failure to register occurred through no fault of the person.
+(2C) No person may be convicted of an offence against subsection (1) if the requirement with which the person fails to comply is a requirement under the CRS applied standard and Part 11B.
 (3) A person who is convicted of an offence against subsection (1) is liable—
   (a) the first time the person is convicted in relation to a particular type of offence, to a fine not exceeding $4,000:
   (b) the second time the person is convicted of the same type of offence, to a fine not exceeding $8,000:
@@ -6873,13 +6944,14 @@ A non-electronic filing penalty under section 139AA is due and payable on the 5t
 (1) A person commits an offence against this Act if the person—
   (a) knowingly does not keep the documents required to be kept by a tax law; or
   (ab) knowingly fails to register with a foreign government agency as required by Part 11B; or
+  (ac) knowingly fails to provide information, including a self-certification, to another person when required to do so under Part 11B; or
   (b) knowingly does not provide information (including tax returns and tax forms) to the Commissioner or any other person when required to do so by a tax law; or
   (c) knowingly provides altered, false, incomplete, or misleading information (including tax returns and tax forms) to the Commissioner or any other person in respect of a tax law or a matter or thing relating to a tax law; or
   (d) knowingly applies or permits the application of the amount of a deduction or withholding of tax made or deemed made under a tax law for any purpose other than in payment to the Commissioner; or
   (e) knowingly does not make a deduction or withholding of tax required to be made by a tax law; or
   (f) knowingly issues 2 tax invoices (as defined in the Goods and Services Tax Act 1985) in respect of the same taxable supply; or
   (g) in relation to a recipient of a supply of remote services from a non-resident supplier, and for the purposes of avoiding the payment of goods and services tax, knowingly provides altered, false, or misleading information relating to their residence in New Zealand or their status as a registered person.
-(2) No person may be convicted of an offence against subsection (1)﻿(b) for knowingly not providing information (other than tax returns and tax forms) to the Commissioner if the person proves that, as and when the person was required by the Commissioner to provide the information—
+(2) No person may be convicted of an offence against subsection (1)﻿(ac) for knowingly failing to provide information, including a self-certification, to another person or against subsection (1)﻿(b) for knowingly not providing information (other than tax returns and tax forms) to the Commissioner if the person proves that, as and when the person was required to provide the information—
   (a) the person did not have the information in the person's knowledge, possession or control; and
   (b) no non-resident, who under section 17(1C) was controlled directly or indirectly by the person, had the information in the non-resident's knowledge, possession or control.
 (3)
@@ -7188,7 +7260,7 @@ In any proceedings against a person for refusing or failing to provide a tax ret
       (i) on the day on which a notice to the person is given under subsection (1) in relation to the taxpayer, is on deposit or is deposited with the person to the credit of the taxpayer; or
       (ii) on any day following the day referred to in subparagraph (i) is on deposit or is deposited, before any revocation (under subsection (4)) of the notice so given, with the person to the credit of the taxpayer,—
     (cb) where the person is a tax pooling intermediary, money that is paid to the Commissioner, on the date the Commissioner receives the payment;—
-    (d) a Home Lay-by Account within the meaning of the Post Office Act 1959; or
+    (d) a Home Lay-by Account within the meaning of the Post Office Act 1959
     (e)
     (f)
     (g)
@@ -7939,10 +8011,15 @@ An account called the Listed PAYE Intermediary Bank Account is established by th
 ## Part 11B — Foreign account information-sharing agreements
 
 ### 185E Purpose
-The purpose of this Part is to give effect to and implement foreign account information-sharing agreements.
+(1) The purpose of this Part is to give effect to and implement foreign account information-sharing agreements.
+(2) Sections 185F to 185M impose requirements on a person relating to information that is the subject of the FATCA agreement.
+(3) Sections 185N and 185O impose requirements on a person relating to information that is the subject of the CRS applied standard.
+(4) Sections 185P to 185R impose requirements on a person relating to either of the FATCA agreement and the CRS applied standard.
 
-### 185F Permitted choices in relation to foreign account information-sharing agreements
-(1) This section applies for a person, as described in a foreign account information-sharing agreement (the agreement), if—
+**FATCA agreement**
+
+### 185F Permitted choices in relation to FATCA agreement
+(1) This section applies for a person, as described in the FATCA agreement (the agreement), if—
   (a) the agreement describes or contemplates a choice or a course of action or inaction (a permitted choice) in relation to them:
   (b) a choice made by the New Zealand government under the agreement allows, as described or contemplated in the agreement, the person a permitted choice.
 (2) The person is authorised to make, do, or not do, as described or contemplated by the agreement, the permitted choice, and to do or not do anything necessarily incidental to giving effect to the permitted choice.
@@ -7956,22 +8033,22 @@ The purpose of this Part is to give effect to and implement foreign account info
   (c) an election to report on accounts under Annex 1.IV.A of the foreign account information-sharing agreement:
   (d) an election to report on accounts under Annex 1.V.A of the foreign account information-sharing agreement.
 
-### 185G Obligations related to foreign account information-sharing agreements: registration
-A person, as described in a foreign account information-sharing agreement (the agreement), is required to comply with the relevant registration requirements described or contemplated in the agreement.
+### 185G Obligations related to FATCA agreement: registration
+A person, as described in the FATCA agreement (the agreement), is required to comply with the relevant registration requirements described or contemplated in the agreement.
 
-### 185H Obligations related to foreign account information-sharing agreements: due diligence
-A person, as described in a foreign account information-sharing agreement (the agreement), is required to apply the relevant due diligence procedures described or contemplated in the agreement.
+### 185H Obligations related to FATCA agreement: due diligence
+A person, as described in the FATCA agreement (the agreement), is required to apply the relevant due diligence procedures described or contemplated in the agreement.
 
-### 185I Obligations related to foreign account information-sharing agreements: information for NZ competent authority
-(1) A person, as described in a foreign account information-sharing agreement (the agreement), must obtain and provide information to the New Zealand competent authority if that information and its providing and obtaining is described or contemplated in the agreement in relation to the person, and including obtaining and providing—
+### 185I Obligations related to FATCA agreement: information for NZ competent authority
+(1) A person, as described in the FATCA agreement (the agreement), must obtain and provide information to the New Zealand competent authority if that information and its providing and obtaining is described or contemplated in the agreement in relation to the person, and including obtaining and providing—
   (a) the information that the New Zealand competent authority is obliged to obtain and exchange with a foreign competent authority:
   (b) other information that the person is authorised to obtain and provide to the New Zealand competent authority.
 (2) Information described in subsection (1) must be obtained and provided in accordance with—
   (a) the agreement; and
   (b) regulations made by Order in Council by the Governor-General for the purposes of this Part under section 224.
 
-### 185J Obligations related to foreign account information-sharing agreements: information for third parties
-(1) A person, as described in a foreign account information-sharing agreement (the agreement), must obtain and provide information to a foreign competent authority if that information and its providing and obtaining is described or contemplated in the agreement in relation to the person, and it is validly requested from the person by the foreign competent authority.
+### 185J Obligations related to FATCA agreement: information for third parties
+(1) A person, as described in the FATCA agreement (the agreement), must obtain and provide information to a foreign competent authority if that information and its providing and obtaining is described or contemplated in the agreement in relation to the person, and it is validly requested from the person by the foreign competent authority.
 (2) A person, as described in the agreement, must obtain and provide information to a third party if that information and its providing and obtaining is described or contemplated in the agreement in relation to the person, and the person is authorised to obtain and provide it to the third party (for example: an agreement may contemplate a choice to provide certain information to a third party. If the person chooses to provide that information, section 185F applies to authorise that choice. The person would then have to provide that information to the third party in accordance with their choice and the agreement).
 (3) Information described in subsections (1) and (2) must be obtained and provided in accordance with—
   (a) the agreement; and
@@ -7981,11 +8058,78 @@ A person, as described in a foreign account information-sharing agreement (the a
 The information in section 185I(1)﻿(a) and (b) must be provided to the New Zealand competent authority in the prescribed form or electronic format.
 
 ### 185L Foreign account information-sharing agreements: anti-avoidance
-If a person enters into an arrangement, and a main purpose of the person in entering into the arrangement is to avoid an obligation under this Part, then the arrangement is treated as having no effect for the purposes of applying this Part.
+[Repealed]
 
 ### 185M Timeframes not specified
 (1) If an instrument described in section 185I(2)﻿(a) and (b) does not specify, or is discretionary as to, the period to which the information in section 185I(1)﻿(a) and (b) must relate, then the information must relate to a tax year.
 (2) If an instrument described in section 185I(2)﻿(a) and (b) does not specify, or is discretionary as to, a time when the information in section 185I(1)﻿(a) and (b) must be provided, then the information must be provided within 3 months of the end of the period that the information relates to.
+
+**CRS standard**
+
+### 185N Requirements for financial institution
+(1) A financial institution must comply with this section for a period in which the financial institution is—
+  (a) resident in New Zealand under the CRS applied standard:
+  (b) a branch located in New Zealand under the CRS applied standard.
+(2) For the purposes of subsection (1), the requirements for a financial institution that is resident in New Zealand do not include requirements for a branch of the financial institution that is not located in New Zealand.
+(3) The financial institution must, for each reporting period and each financial account that is maintained by the financial institution in the reporting period,—
+  (a) perform the due diligence procedures, and obtain the information, required by the CRS applied standard; and
+  (b) for each new financial account, obtain the information referred to in subsection (4) for each account holder or controlling person identified by the financial institution as being—
+    (i) a resident of a foreign jurisdiction other than a reportable jurisdiction; and
+    (ii) a person or entity who would be a reportable person if the foreign jurisdiction were a reportable jurisdiction.
+(4) The information required under subsection (3)﻿(b) to be obtained for an account holder or controlling person is—
+  (a) the date of birth for an individual; and
+  (b) the taxpayer identification number issued by the foreign jurisdiction for the person or entity, except if the domestic law of the foreign jurisdiction does not require the collection of the TIN.
+(5) The financial institution must, for each reporting period, give to the Commissioner a report of the information that the CRS applied standard and subsection (11) require the financial institution to provide to the competent authority.
+(6) The report by the financial institution for a reporting period must be given to the Commissioner by the 30 June following the 31 March that is the end of the reporting period, except as given by subsection (7).
+(7) The first report by the financial institution for information with respect to a financial account that is maintained by a financial institution in a reporting period must be given to the Commissioner by—
+  (a) 30 June 2018, if the financial account is identified before that date as being a reportable account that is a pre-existing individual account and a high value account:
+  (b) 30 June 2019, if the financial account is identified before that date as being a reportable account that is a pre-existing entity account or that is a pre-existing individual account and a lower value account.
+(8) For the purposes of this section, a financial account is not an undocumented account except in a situation described in Section III, subparagraph B(5) or C(5)﻿(c) of the CRS applied standard.
+(9) In determining the aggregate balance or value of financial accounts, the financial institution must apply the rules in Section VII, subparagraph C(1) to (3) of the CRS applied standard.
+(10) The financial institution may choose that the reporting requirements given by the CRS applied standard for financial accounts held or controlled by a resident of a reportable jurisdiction apply to all financial accounts maintained by the financial institution and held or controlled by a resident of a foreign jurisdiction.
+(11) A financial institution that makes the election referred to in subsection (10) must comply with the chosen reporting requirements in each report for a reporting period.
+(12) A financial institution that chooses to review pre-existing entity accounts, whether all such accounts or a clearly identified group of such accounts, must complete the review by the date given in Section V, subparagraph D(1) of the CRS applied standard for completion of the review of pre-existing entity accounts with the specified aggregate account balance or value.
+(13) A financial institution that chooses to treat a discretionary beneficiary of a trust as not being a controlling person for the trust until the beneficiary receives a distribution must have reasonable safeguards and procedures for identifying when a distribution is made to the beneficiary.
+(14) The financial institution is not permitted to choose for a report for a reporting period—
+  (a) to use a reporting period other than a period ending with 31 March:
+  (b) to give the average balance of a financial account for a reporting period as being the balance for the financial account for the reporting period.
+(15) A report for a reporting period must be in the prescribed electronic format.
+
+### 185O Application of Common Reporting Standard
+(1) This section provides for the application of the CRS standard in determining the requirements for a person or entity under the Inland Revenue Acts.
+(2) The CRS standard is modified for the purposes of determining the requirements for a person or entity under the Inland Revenue Acts in the ways specified in Schedule 2.
+(3) The CRS standard is treated as applying at a time—
+  (a) as modified by subsection (2); and
+  (b) consistently with the Commentary on the CRS standard contained in Part IIIB of the CRS publication, as amended at the time.
+(4) In the application of the CRS standard at a time, a term defined in the CRS standard and used in the Inland Revenue Acts has the meaning that it has at the time under the CRS standard, as modified by subsection (2).
+(5) A person or entity may make an election that is consistent with the CRS standard if the election is not contrary to the Inland Revenue Acts.
+(6) A person or entity that makes an election referred to in subsection (5) must meet the requirements of the CRS applied standard consistently with the election.
+
+**Foreign account information-sharing agreements generally**
+
+### 185P Requirements for persons to provide information to financial institution
+(1) This section applies to a person or entity connected with a financial account if the financial institution that maintains the financial account is required under the FATCA agreement or CRS applied standard (the account requirements) to perform due diligence for the financial account.
+(2) When a financial institution requests a person or entity (the institution contact) to provide information that the financial institution is required to obtain under the account requirements for the financial account, the institution contact must—
+  (a) provide to the financial institution the required information for the institution contact; and
+  (b) make reasonable efforts to obtain the required information for each other person or entity connected with the financial account, and provide the information to the financial institution.
+(3) When a person or entity connected with the financial account (the secondary contact) is asked by an institution contact or other person or entity (the requesting person) to provide information related to the financial account and referred to in subsection (2)﻿(b), the secondary contact must—
+  (a) provide the requesting person with the required information for the secondary contact; and
+  (b) make reasonable efforts to obtain the required information for each other person or entity connected with the financial account and the secondary contact, and provide the information to the requesting person.
+(4) If a person or entity provides information to another person or entity as required by this section, the person or entity must, within a reasonable time of becoming aware of a material change in circumstances affecting that information, provide details of the material change to—
+  (a) the other person or entity, if the other person or entity is still connected with the financial account and responsible as a requesting person for the information; or
+  (b) the financial institution, if paragraph (a) does not apply.
+
+### 185Q Requirements and penalties for entities that are not persons
+(1) If the FATCA agreement or CRS applied standard, or a related provision in this Act, is expressed as imposing a requirement or penalty on an entity that is not a person, the meeting of the requirement or the payment of the penalty for the entity is treated as being a joint and several requirement,—
+  (a) if the entity is a trust, for each trustee:
+  (b) if the entity is a partnership, for each partner:
+  (c) if the entity is a joint venture, for each member of the joint venture:
+  (d) if the entity is a legal relationship between persons or entities that is not referred to in paragraphs (a) to (c), for each person or entity in the relationship.
+(2) If the FATCA agreement or CRS applied standard, or a related provision in this Act is expressed as requiring information to be provided to an entity that is not a person, the requirement is treated as being to provide the information to the persons given for the entity by subsection (1)﻿(a) to (d).
+
+### 185R Foreign account information-sharing agreements: anti-avoidance
+(1) If a main purpose of a person in entering an arrangement is to avoid a requirement under this Part, the arrangement is treated as having no effect in relation to the person’s requirements under this Part.
+(2) The person has the requirements under this Part that the Commissioner considers to be appropriate in the absence of the arrangement.
 
 ## Part 12 — Offences and penalties
 
@@ -8313,7 +8457,9 @@ The person who, on 1 April 1995, holds office as Commissioner of Inland Revenue 
   (c) an Assistant Commissioner of Stamp Duties; or
   (d) a District Commissioner of Stamp Duties—
 
-## Schedule  — Inland Revenue Acts
+## Schedule 1 — Inland Revenue Acts
+
+## Schedule 2 — Application of CRS standard
 
 ### 1 Short Title
 This Act may be cited as the Tax Administration Amendment Act (No 2) 1996, and shall be read together with and deemed part of the Tax Administration Act 1994 (in this Act referred to as the principal Act).
