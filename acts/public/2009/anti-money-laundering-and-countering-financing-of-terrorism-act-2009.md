@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -23,9 +23,10 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
 ### 4 Overview
 (1) This section is a guide to the general scheme and effect of this Act, but does not affect the interpretation or application of the other provisions of the Act.
 (2) Part 1 deals with preliminary matters such as definitions of terms used in the Act. It sets out the purpose of the Act and the extent to which it applies to reporting entities.
-(3) Part 2 deals with AML/CFT requirements and compliance and has 6 subparts, as follows:
+(3) Part 2 deals with AML/CFT requirements and compliance and has 7 subparts, as follows:
   (a) subpart 1 includes provisions dealing with requirements on reporting entities to conduct due diligence on customers and certain other persons, the ability of reporting entities to rely on third parties to carry out customer due diligence and other AML/CFT functions, and prohibitions on establishing or continuing business relationships and setting up facilities in certain circumstances:
   (b) subpart 2 includes provisions dealing with requirements on reporting entities to report suspicious transactions, protection of persons making suspicious transaction reports, and disclosure of information relating to such reports:
+  (ba) subpart 2A sets out requirements on reporting entities to report certain prescribed transactions:
   (c) subpart 3 sets out requirements on reporting entities to keep records and includes provisions concerning the storage and destruction of records:
   (d) subpart 4 deals with reporting entities’ internal policies and procedures relating to the prevention of money laundering and the financing of terrorism, including provisions setting out requirements for reporting entities to have an AML/CFT programme for detecting and managing the risk of money laundering and the financing of terrorism, to carry out a risk assessment before conducting customer due diligence or establishing an AML/CFT programme, and to review, audit, and report on their risk assessment and AML/CFT programmes:
   (e) subpart 5 deals with codes of practice and includes provisions relating to the preparation of codes by AML/CFT supervisors, approval of codes of practice, and their legal effect:
@@ -93,6 +94,7 @@ In this Act, unless the context otherwise requires,—
       (iv) related to 1 or more of the entities in subparagraph (iii) through the provision of common products or services; or
       (v) an entity or class of entities prescribed by regulations; and
     (e) each member of the group satisfies any conditions that may be prescribed by regulations and that apply to that member
+  - **domestic physical cash transaction** means a transaction in New Zealand involving the use of physical currency
   - **domestic wire transfer** has the meaning set out in section 27(7)
   - **existing customer** , in relation to a reporting entity, means a person who was in a business relationship with the reporting entity immediately before the commencement of Part 2
   - **facility** —
@@ -141,6 +143,15 @@ In this Act, unless the context otherwise requires,—
   - **identity information** means information obtained under sections 15, 19, 23, and 27(1) and (2) and any other information relating to identity prescribed by sections 29(2)﻿(g) and 30(b)
   - **individual** means a natural person, other than a deceased natural person
   - **intermediary institution** , in relation to a wire transfer, is a person that participates in a transfer of funds that takes place through more than 1 institution but is not an ordering institution or a beneficiary institution
+  - **international wire transfer** means a wire transfer where—
+    (a) at least 1 of the following institutions is in New Zealand:
+      (i) the ordering institution:
+      (ii) the intermediary institution:
+      (iii) the beneficiary institution; and
+    (b) at least 1 of the following institutions is outside New Zealand:
+      (i) the ordering institution:
+      (ii) the intermediary institution:
+      (iii) the beneficiary institution
   - **KiwiSaver scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **law enforcement purposes** means—
     (a) the administration of this Act:
@@ -148,7 +159,7 @@ In this Act, unless the context otherwise requires,—
       (i) any offence under this Act; or
       (ii) a money laundering offence; or
       (iii) any offence under section 143B of the Tax Administration Act 1994; or
-      (iv) any serious offence (within the meaning of section 243(1) of the Crimes Act 1961):
+      (iv) an offence within the meaning of section 243(1) of the Crimes Act 1961:
     (c) the enforcement of the Proceeds of Crime Act 1991 or the Criminal Proceeds (Recovery) Act 2009:
     (d) the enforcement of the Misuse of Drugs Act 1975:
     (e) the enforcement of the Terrorism Suppression Act 2002:
@@ -190,6 +201,10 @@ In this Act, unless the context otherwise requires,—
     (c) having regard to information that is public or readily available,—
       (i) any individual who is known to have joint beneficial ownership of a legal entity or legal arrangement, or any other close relationship, with a person referred to in paragraph (a); or
       (ii) any individual who has sole beneficial ownership of a legal entity or legal arrangement that is known to exist for the benefit of a person described in paragraph (a)
+  - **prescribed transaction** , in relation to a reporting entity, means a transaction conducted through the reporting entity in respect of—
+    (a) an international wire transfer of a value greater than the applicable threshold value; or
+    (b) a domestic physical cash transaction of a value greater than the applicable threshold value
+  - **prescribed transaction report** means a report made under section 48A
   - **registered bank** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989
   - **regulations** means regulations made under this Act
   - **reporting entity** —
@@ -563,7 +578,7 @@ If, in relation to a customer, a reporting entity is unable to conduct customer 
     (ii) relevant to the enforcement of the Misuse of Drugs Act 1975; or
     (iii) relevant to the enforcement of the Terrorism Suppression Act 2002; or
     (iv) relevant to the enforcement of the Proceeds of Crime Act 1991 or the Criminal Proceeds (Recovery) Act 2009; or
-    (v) relevant to the investigation or prosecution of a serious offence within the meaning of section 243(1) of the Crimes Act 1961.
+    (v) relevant to the investigation or prosecution of an offence within the meaning of section 243(1) of the Crimes Act 1961.
 (2) If this section applies, the reporting entity must, as soon as practicable, but no later than 3 working days after forming its suspicion, report the transaction or proposed transaction to the Commissioner, in accordance with section 41.
 (3) Nothing in subsection (2) requires any lawyer to disclose any privileged communication (as defined in section 42).
 
@@ -583,7 +598,7 @@ If, in relation to a customer, a reporting entity is unable to conduct customer 
   (c) any Police employee or Police employees for the time being holding any specified office or specified class of offices.
 
 ### 42 Privileged communication defined
-(1) For the purposes of section 40(3), a communication is a privileged communication only if—
+(1) For the purposes of sections 40(3) and 48A(2), a communication is a privileged communication only if—
   (a) it is a confidential communication, whether oral or written, passing between—
     (i) a lawyer in his or her professional capacity and another lawyer in that capacity:
     (ii) a lawyer in his or her professional capacity and his or her client:
@@ -599,7 +614,7 @@ If, in relation to a customer, a reporting entity is unable to conduct customer 
   (b) relevant to the enforcement of the Misuse of Drugs Act 1975; or
   (c) relevant to the enforcement of the Terrorism Suppression Act 2002; or
   (d) relevant to the enforcement of the Proceeds of Crime Act 1991 or the Criminal Proceeds (Recovery) Act 2009; or
-  (e) relevant to the investigation or prosecution of a serious offence within the meaning of section 243(1) of the Crimes Act 1961.
+  (e) relevant to the investigation or prosecution of an offence within the meaning of section 243(1) of the Crimes Act 1961.
 (2) A person may report a transaction referred to in subsection (1) to the Commissioner.
 
 ### 44 Protection of persons reporting suspicious transactions
@@ -662,6 +677,34 @@ An AML/CFT supervisor that has, in the performance and exercise of its functions
     (v) the Reserve Bank of New Zealand Act 1989:
     (vi) the Financial Markets Conduct Act 2013.
     (vii)
+
+### Subpart 2A — Prescribed transaction reports
+
+### 48A Reporting entities to report certain prescribed transactions
+(1) Despite any other enactment or rule of law, but subject to any regulations made under section 154, if a person conducts a prescribed transaction through a reporting entity, the reporting entity must (as soon as practicable, but not later than 10 working days after the transaction) report the transaction to the Commissioner in accordance with section 48B.
+(2) Nothing in subsection (1) requires any lawyer to disclose any privileged communication (as defined in section 42).
+
+### 48B Prescribed transaction reports
+(1) Except as provided in subsection (2), a report made under section 48A(1) must—
+  (a) be in the form or forms (if any) prescribed by regulations made under section 153(c); and
+  (b) contain the following information:
+    (i) a description of the nature of the transaction:
+    (ii) the amount of the transaction and the currency in which it was denominated:
+    (iii) the date on which the transaction was conducted:
+    (iv) the parties to the transaction:
+    (v) if applicable, the name of the facility through which the transaction was conducted, and any other facilities (whether or not provided by the reporting entity) directly involved in the transaction:
+    (vi) any other information prescribed by regulations made under section 153(c); and
+  (c) be signed by a person authorised by the reporting entity to sign prescribed transaction reports (unless the report is provided by electronic means other than an electronic copy of the signed report); and
+  (d) be forwarded, in writing, to the Commissioner—
+    (i) by way of secure electronic transmission specified or provided by the Commissioner for this purpose; or
+    (ii) by another means (including, without limitation, by way of transmission by post, fax, or email) that may be agreed from time to time between the Commissioner and the reporting entity concerned.
+(2) The Commissioner may confer the authority to receive a prescribed transaction report under subsection (1) on—
+  (a) any specified Police employee; or
+  (b) Police employees of any specified rank or class; or
+  (c) any Police employee or Police employees for the time being holding any specified office or specified class of offices.
+
+### 48C Sections 43 to 48 apply to prescribed transactions
+Sections 43 to 48 apply, with all necessary modifications, to prescribed transactions.
 
 ### Subpart 3 — Record keeping
 
@@ -743,6 +786,7 @@ A reporting entity’s AML/CFT programme must be based on the risk assessment un
     (iii) any other employee that is engaged in AML/CFT related duties; and
   (c) complying with customer due diligence requirements (including ongoing customer due diligence and account monitoring); and
   (d) reporting suspicious transactions; and
+  (da) reporting prescribed transactions; and
   (e) record keeping; and
   (f) setting out what the reporting entity needs to do, or continue to do, to manage and mitigate the risks of money laundering and the financing of terrorism; and
   (g) examining, and keeping written findings relating to,—
@@ -941,6 +985,7 @@ In this Part, a civil liability act occurs when a reporting entity fails to comp
   (b) fails to adequately monitor accounts and transactions:
   (c) enters into or continues a business relationship with a person who does not produce or provide satisfactory evidence of the person’s identity:
   (d) enters into or continues a correspondent banking relationship with a shell bank:
+  (da) fails to report transactions in accordance with subpart 2A of Part 2:
   (e) fails to keep records in accordance with the requirements of subpart 3 of Part 2:
   (f) fails to establish, implement, or maintain an AML/CFT programme:
   (g) fails to ensure that its branches and subsidiaries comply with the relevant AML/CFT requirements.
@@ -1026,7 +1071,7 @@ The powers in sections 85 to 89 are in addition to, and do not derogate from, an
 (2) For a civil liability act specified in section 78(b), (c), (d), or (g), the maximum amount of a pecuniary penalty under this Act is,—
   (a) in the case of an individual, $100,000; and
   (b) in the case of a body corporate, $1 million.
-(3) For a civil liability act specified in section 78(a), (e), or (f), the maximum amount of a pecuniary penalty under this Act is,—
+(3) For a civil liability act specified in section 78(a), (da), (e), or (f), the maximum amount of a pecuniary penalty under this Act is,—
   (a) in the case of an individual, $200,000; and
   (b) in the case of a body corporate, $2 million.
 (4) In determining an appropriate pecuniary penalty, the court must have regard to all relevant matters, including—
@@ -1042,7 +1087,7 @@ The powers in sections 85 to 89 are in addition to, and do not derogate from, an
 ### 91 Offence and penalties for civil liability act
 A reporting entity that engages in conduct constituting a civil liability act commits an offence if the reporting entity engages in that conduct knowingly or recklessly.
 
-**Offences relating to suspicious transaction reports**
+**Offences relating to suspicious transaction reports and prescribed transaction reports**
 
 ### 92 Failing to report suspicious transaction
 A reporting entity commits an offence if—
@@ -1052,15 +1097,15 @@ A reporting entity commits an offence if—
     (ii) relevant to the enforcement of the Misuse of Drugs Act 1975; or
     (iii) relevant to the enforcement of the Terrorism Suppression Act 2002; or
     (iv) relevant to the enforcement of the Proceeds of Crime Act 1991 or the Criminal Proceeds (Recovery) Act 2009; or
-    (v) relevant to the investigation or prosecution of a serious offence within the meaning of section 243(1) of the Crimes Act 1961; and
+    (v) relevant to the investigation or prosecution of an offence within the meaning of section 243(1) of the Crimes Act 1961; and
   (c) the reporting entity fails to report the transaction or the proposed transaction to the Commissioner as soon as practicable, but no later than 3 working days, after forming that suspicion.
 
-### 93 Providing false or misleading information in connection with suspicious transaction report
-A person commits an offence who, in making a suspicious transaction report or in supplying information in connection with that report,—
+### 93 Providing false or misleading information in connection with suspicious transaction reports or prescribed transaction reports
+A person commits an offence who, in making a suspicious transaction report or a prescribed transaction report, or in supplying information in connection with a suspicious transaction report or a prescribed transaction report,—
   (a) makes any statement that the person knows is false or misleading in a material particular; or
   (b) omits from any statement any matter or thing without which the person knows that the statement is false or misleading in a material particular.
 
-### 94 Unlawful disclosure of suspicious transaction report
+### 94 Unlawful disclosure of suspicious transaction reports or prescribed transaction reports
 (1) A person commits an offence who contravenes section 46—
   (a) for the purpose of obtaining, directly or indirectly, an advantage or a pecuniary gain for that person or any other person; or
   (b) with intent to prejudice any investigation into—
@@ -1068,7 +1113,7 @@ A person commits an offence who, in making a suspicious transaction report or in
     (ii) the financing of terrorism or the possible financing of terrorism.
 (2) A person commits an offence who—
   (a) is an officer or employee or a former officer or employee of a reporting entity, a person appointed as an AML/CFT compliance officer under section 56(3), or an auditor for a reporting entity; and
-  (b) has become aware, or became aware, in the course of that person’s duties as such an officer or employee, that any investigation into any transaction or proposed transaction that is the subject of a suspicious transaction report is being, or may be, conducted by the Police; and
+  (b) has become aware, or became aware, in the course of that person’s duties as such an officer or employee, that any investigation into any transaction or proposed transaction that is the subject of a suspicious transaction report or a prescribed transaction report is being, or may be, conducted by the Police; and
   (c) knows that he or she is not legally authorised to disclose the information; and
   (d) discloses that information to any other person—
     (i) for the purpose of obtaining, directly or indirectly, an advantage or a pecuniary gain for that person or any other person; or
@@ -1076,14 +1121,14 @@ A person commits an offence who, in making a suspicious transaction report or in
       (A) the commission or possible commission of a money laundering offence; or
       (B) the financing of terrorism or the possible financing of terrorism.
 
-### 95 Failure to keep or retain adequate records relating to suspicious transaction
-A reporting entity commits an offence if the reporting entity fails to keep or retain adequate records relating to a suspicious transaction.
+### 95 Failure to keep or retain adequate records relating to suspicious transactions or prescribed transactions
+A reporting entity commits an offence if the reporting entity fails to keep or retain adequate records relating to a suspicious transaction or a prescribed transaction.
 
-### 96 Obstruction of investigation relating to suspicious transaction report
-A person commits an offence if the person obstructs any investigation relating to any suspicious transaction report without lawful justification or excuse.
+### 96 Obstruction of investigation relating to suspicious transaction reports or prescribed transaction reports
+A person commits an offence if the person obstructs any investigation relating to any suspicious transaction report or prescribed transaction report without lawful justification or excuse.
 
-### 97 Contravention of section 47(1)
-A person commits an offence if the person acts in contravention of section 47(1) without lawful justification or excuse.
+### 97 Contravention of section 47(1) or 48A(1)
+A person commits an offence if the person acts in contravention of section 47(1) or 48A(1) without lawful justification or excuse.
 
 ### 98 Defence
 (1) It is a defence to a charge against a person in relation to a contravention of, or a failure to comply with, Part 2 if the defendant proves that—
@@ -1097,7 +1142,7 @@ A person commits an offence if the person acts in contravention of section 47(1)
   (b) specifying the reasonable steps that the defendant will claim to have taken.
 (4) In any such prosecution, evidence that the defendant took a step not specified in the written notice required by subsection (3) is not, except with the leave of the court, admissible for the purpose of supporting a defence under subsection (1).
 
-### 99 Time limit for prosecution of offences relating to civil liability act and suspicious transaction reports
+### 99 Time limit for prosecution of offences relating to civil liability act and suspicious transaction reports or prescribed transaction reports
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under any of sections 91 to 97 of this Act ends on the date that is 3 years after the date on which the offence was committed.
 
 ### 100 Penalties
@@ -1110,7 +1155,8 @@ A reporting entity or person who commits an offence under any of sections 91 to 
 **Other offences relating to non-compliance with AML/CFT requirements**
 
 ### 101 Structuring transaction to avoid application of AML/CFT requirements
-A person commits an offence if the person structures a transaction (other than a transaction that involves the cross-border transportation of cash) to avoid the application of any AML/CFT requirements.
+(1) A person commits an offence if the person structures a transaction (other than a transaction that involves the cross-border transportation of cash) to avoid the application of any AML/CFT requirements.
+(2) For the purposes of this section, transaction includes, but is not limited to, a suspicious transaction or a prescribed transaction.
 
 ### 102 Offence to obstruct AML/CFT supervisor
 A person commits an offence if the person wilfully obstructs any AML/CFT supervisor in the exercise of any power conferred or the performance of any function imposed on that supervisor by this Act.
@@ -1438,18 +1484,19 @@ The financial intelligence functions of the Commissioner are to—
   (c) provide feedback to reporting entities on the quality and timeliness of their suspicious transaction reporting:
   (d) enforce requirements to provide suspicious transaction reports:
   (e) analyse suspicious transaction reports to assess whether any should be referred to investigative branches of the New Zealand Police and to other law enforcement agencies for criminal investigation:
-  (f) access, directly or indirectly, on a timely basis the financial, administrative, and law enforcement information that the Commissioner requires to properly undertake his or her financial intelligence functions, including the analysis of suspicious transaction reports:
-  (g) refer to investigative branches of the New Zealand Police and to other law enforcement agencies any suspicious transaction reports that, in the view of the Commissioner, indicate grounds for criminal investigation:
-  (h) refer suspicious transaction reports and feedback provided to reporting entities on any suspicious transaction reports to AML/CFT supervisors:
+  (f) access, directly or indirectly, on a timely basis the financial, administrative, and law enforcement information that the Commissioner requires to properly undertake his or her financial intelligence functions, including the analysis of suspicious transaction reports and prescribed transaction reports:
+  (g) refer to investigative branches of the New Zealand Police and to other law enforcement agencies any suspicious transaction reports and prescribed transaction reports that, in the view of the Commissioner, indicate grounds for criminal investigation:
+  (h) refer suspicious transaction reports and prescribed transaction reports and feedback provided to reporting entities on any suspicious transaction reports and prescribed transaction reports to AML/CFT supervisors:
   (i) receive, analyse, and (if appropriate) refer to law enforcement agencies any cash reports:
   (j) receive, analyse, and (if appropriate) refer to law enforcement agencies any suspicious property reports:
+  (ja) receive, analyse, and (if appropriate) refer to investigative branches of the New Zealand Police and to other law enforcement agencies, any prescribed transaction reports:
   (k) produce risk assessments relating to money laundering offences and the financing of terrorism to be used by the Ministry, the Ministry of Justice, AML/CFT supervisors, and the New Zealand Customs Service:
   (l) co-operate with the Ministry, the Ministry of Justice, AML/CFT supervisors, the New Zealand Customs Service, and any other relevant agencies to help ensure the effective implementation of the requirements under this Act and regulations.
 
 ### 143 Powers relating to financial intelligence functions of Commissioner
 The Commissioner may—
-  (a) order production of or access to all records, documents, or information from any reporting entity that is relevant to analysing a suspicious transaction report received by the Commissioner, with or without a court order; and
-  (b) share suspicious transaction reports, cash reports, suspicious property reports, and other financial information and intelligence with domestic and international authorities for the purposes of this Act and regulations.
+  (a) order production of or access to all records, documents, or information from any reporting entity that is relevant to analysing a suspicious transaction report or a prescribed transaction report received by the Commissioner, with or without a court order; and
+  (b) share suspicious transaction reports, prescribed transaction reports, cash reports, suspicious property reports, and other financial information and intelligence with domestic and international authorities for the purposes of this Act and regulations.
 
 ### 144 Delegation of powers of Commissioner
 (1) The Commissioner may from time to time in writing, either generally or particularly, delegate to a constable of a level of position not less than inspector the Commissioner's powers under section 143(a).
@@ -1466,7 +1513,7 @@ The Commissioner may—
     (ii) relevant to the enforcement of the Misuse of Drugs Act 1975; or
     (iii) relevant to the enforcement of the Terrorism Suppression Act 2002; or
     (iv) relevant to the enforcement of the Proceeds of Crime Act 1991 or the Criminal Proceeds (Recovery) Act 2009; or
-    (v) relevant to the investigation or prosecution of a serious offence within the meaning of section 243(1) of the Crimes Act 1961; and
+    (v) relevant to the investigation or prosecution of an offence within the meaning of section 243(1) of the Crimes Act 1961; and
   (b) setting out any circumstances in which a suspicious transaction report relating to such a transaction may be made orally in accordance with section 41(2), and the procedures for making such an oral report.
 (2) Suspicious transaction guidelines must be issued in such manner as the Commissioner from time to time determines.
 (3) The Commissioner may issue an amendment or revocation of any suspicious transaction guidelines.
@@ -1551,6 +1598,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (a) exempting or providing for the exemption of any transaction, product, or service or class of transactions, products, or services from all or any of the provisions of this Act:
   (b) excluding certain relationships or banking services from the application of section 29 (which relates to correspondent banking relationships):
   (c) exempting a reporting entity from its obligation to obtain some or all of the information set out in section 27(1) in relation to a specified transfer or transaction:
+  (ca) exempting a reporting entity or a class of reporting entity from the obligation to report under section 48A in relation to international wire transfers:
   (d) exempting certain movements of cash from the application of subpart 6 of Part 2:
   (e) prescribing threshold values for the purposes of sections 68 and 69 and the person or class of persons, transaction or class of transactions, financial activity or class of financial activities to which that threshold value applies:
   (f) declaring an account or arrangement to be, or not to be, a facility and the circumstances and conditions in which an account or arrangement is to be, or not to be, a facility for the purposes of this Act:
