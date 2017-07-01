@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2017-07-01_
 
 > Title
 
@@ -36,7 +36,6 @@ The purposes of this Act are—
   - **dwellinghouse** means any building or part of a building occupied as a separate dwelling; but does not include a meter box or gas measurement system located on the exterior of the building or the part of the building
   - **electric works** means any works within the meaning of the Electricity Act 1992
   - **existing fittings** means any fittings installed before 1 January 1993; and includes any fittings that were partly installed, or work on the installation of which commenced, before 1 January 1993
-  - **fire brigade** has the same meaning as in section 2 of the Fire Service Act 1975; and includes a defence fire brigade and an industrial fire brigade within the meaning of that Act
   - **fittings** means everything used, or designed or intended for use, in or in connection with the supply, distribution, compression, or use of gas
   - **gas** means any fuel that is supplied through pipes or in containers and is a gas at a temperature of 15°C and an absolute pressure of 101.325 kilopascals; and includes—
     (a) biogas, coal gas, liquefied petroleum gas, natural gas, oil gas, producer gas, refinery gas, reformed natural gas, and tempered liquefied petroleum gas:
@@ -282,9 +281,10 @@ Subject to section 14, where a notice of objection is lodged under section 10, t
 (3) If an accident relates to a specified matter, a person required to provide notification of any accident under section 17 may notify the Secretary in accordance with that section instead of WorkSafe.
 
 ### 18 Interference with scene of accident
-(1) No person shall interfere in any way with the scene of any accident to which section 17 applies without the permission of WorkSafe, or if WorkSafe is not present, a constable or a member of a fire brigade, except to the extent that the person believes is necessary to avoid or minimise further injury or damage or to restore the safe supply of gas.
+(1) No person shall interfere in any way with the scene of any accident to which section 17 applies without the permission of WorkSafe, or if WorkSafe is not present, a constable or an employee, volunteer, or contractor of Fire and Emergency New Zealand carrying out designated services, except to the extent that the person believes is necessary to avoid or minimise further injury or damage or to restore the safe supply of gas.
 (2) Where any person does interfere in any way with the scene of any accident to which section 17 applies, the person shall as soon as practicable notify WorkSafe of the action the person has taken.
 (3) Nothing in subsection (1) applies in respect of any person who is investigating the accident pursuant to the Health and Safety at Work Act 2015.
+(4) In subsection (1), designated services has the same meaning as in section 6 of the Fire and Emergency New Zealand Act 2017.
 
 ### 19 Inquiries into accidents
 (1) WorkSafe may conduct an inquiry into any accident to which section 17 applies to establish the cause of the accident.
