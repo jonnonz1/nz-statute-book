@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2017-07-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -6130,6 +6130,7 @@ Deduction: financial arrangement debt: amount of income
 (2) A person who derives assessable income from a financial arrangement to which the financial arrangements rules apply is allowed a deduction for an amount owing under the financial arrangement, but only to the extent to which—
   (a) the amount is a bad debt and a requirement of subsection (1)﻿(a) is met; and
   (b) the amount is attributable to the income; and
+  (bb) the person is not associated with the debtor, or is associated with the debtor but the debtor has no deductions for the financial arrangement; and
   (c) subsection (5) does not limit the deduction.
 Deduction: financial arrangement debt: dealers and holders
 (3) A person is allowed a deduction, quantified in subsection (3B), for an amount of a bad debt owing under a financial arrangement to which the financial arrangement rules apply, if—
@@ -15402,6 +15403,7 @@ When this section applies
 Some points about this section
 (2) For the purposes of this section,—
   (a) the means by which an amount of debt is forgiven is immaterial:
+  (ab) the debt includes an amount accrued and unpaid at the time of the forgiveness:
   (b) a group of natural persons (the single creditor group) who are creditors or who have interests in the debtor are treated as one creditor holding the total debts and interests of the single creditor group, if each person has natural love and affection for the others. However, a trust may join the single creditor group if—
     (i) the trust was established mainly to benefit a natural person for whom each person of the single creditor group has natural love and affection; and
     (ii) the amount given by dividing the amount that the trust forgives the debtor by the trust’s proportional ownership ratio is less than the amount given by dividing the amount that the single creditor group forgives the debtor by the group’s proportional ownership ratio (for example: $100 forgiven by the trust ÷ 40% ownership is greater than $100 forgiven by the group ÷ 50% ownership, so the trust may not join the group, even if the required natural love and affection exists):
@@ -40034,7 +40036,9 @@ In this Act, unless the context requires otherwise,—
     (i) in section EX 46(10)﻿(a) and subpart FE (Interest apportionment on thin capitalisation), means a share meeting the requirements of paragraph (f)﻿(i) and (iii)
   - **flat-owning company** is defined in section CD 31(2) (Flat-owning companies) for the purposes of that section, section HA 6 (Corporate requirements), and the definition of
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
-  - **foreign account information-sharing agreement** means a double tax agreement that facilitates the exchange of information named Agreement between the Government of the United States of America and the Government of New Zealand to Improve International Tax Compliance and to Implement FATCA
+  - **foreign account information-sharing agreement** means a double tax agreement that facilitates the automatic exchange by the parties of information relating to financial accounts, including—
+    (a) the Agreement between the Government of New Zealand and the Government of the United States of America to Improve International Tax Compliance and to Implement FATCA brought into force for New Zealand by the Double Tax Agreements (United States of America—FATCA) Order 2014 (LI 2014/209), as amended from time to time:
+    (b) the multilateral Convention on Mutual Administrative Assistance in Tax Matters, as amended by 2010 Protocol which was brought into force for New Zealand by the Double Tax Agreements (Mutual Administrative Assistance) Order 2013 (SR 2013/437), as amended from time to time
   - **foreign ASAP** means a financial arrangement that is an agreement for the sale and purchase of property or services and, at the time the ASAP is entered into 50% or more of the consideration in New Zealand dollars is in a foreign currency, measured using spot rates at that time
   - **foreign attributed income** means a company’s income for the income year that is—
     (a) attributed CFC income:
