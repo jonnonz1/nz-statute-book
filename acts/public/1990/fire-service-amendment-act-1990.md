@@ -1,5 +1,5 @@
 # Fire Service Amendment Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-07-01_
 
 > An Act to amend the Fire Service Act 1975
 
@@ -119,7 +119,7 @@ _Consolidation as at 2007-09-03_
 ### 32 Income of Commission
 (1)
 (2) The following enactments are hereby consequentially repealed:
-  (a) Section 47A(1)(c) of the principal Act (as inserted by section 6 of the Fire Service Amendment Act 1986):
+  (a) Section 47A(1)﻿(c) of the principal Act (as inserted by section 6 of the Fire Service Amendment Act 1986):
   (b) Section 5 of the Fire Service Amendment Act 1986:
   (c) The Fire Service Amendment Act (No 3) 1987.
 (3) This section shall come into force on the 1st day of July 1991.
@@ -263,7 +263,7 @@ Where—the National Rural Fire Authority shall cause the amount of the grant to
   (b) The National Rural Fire Authority has, under section 68(1) or section 68(3) of this Act, made a determination approving a grant,—
 
 ### 70 Transitional provision in relation to National Rural Fire Officer
-Where, before the commencement of this section, the Commission has, pursuant to a directive from the Minister under section 14(2)(h) of this Act (as enacted in 1975) appointed any person to be, for the purposes of the principal Act and the Forest and Rural Fires Act 1977, the National Rural Fire Officer, that person, if in office on the commencement of this section, shall be deemed to have been appointed under section 17W of the principal Act (as enacted by section 15 of this Act) for a term of 3 years beginning on the date of that person's appointment by the Commission.
+Where, before the commencement of this section, the Commission has, pursuant to a directive from the Minister under section 14(2)﻿(h) of this Act (as enacted in 1975) appointed any person to be, for the purposes of the principal Act and the Forest and Rural Fires Act 1977, the National Rural Fire Officer, that person, if in office on the commencement of this section, shall be deemed to have been appointed under section 17W of the principal Act (as enacted by section 15 of this Act) for a term of 3 years beginning on the date of that person's appointment by the Commission.
 
 ### 71 Validation
 Any action taken under the principal Act in the period beginning with the 1st day of October 1990 and ending with the close of the 31st day of December 1990 which would have been valid if the provisions of this Act and of the Forest and Rural Fires Amendment Act 1990 that come into force on the 1st day of January 1991 had come into force on the 1st day of October 1990 is hereby declared to be and always to have been valid.
