@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2017-06-02_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -55,7 +55,7 @@ In this Act, unless the context otherwise requires,—
     (a) is the result of any happening, whether natural or otherwise, including, without limitation, any explosion, earthquake, eruption, tsunami, land movement, flood, storm, tornado, cyclone, serious fire, leakage or spillage of any dangerous gas or substance, technological failure, infestation, plague, epidemic, failure of or disruption to an emergency service or a lifeline utility, or actual or imminent attack or warlike act; and
     (b) causes or may cause loss of life or injury or illness or distress or in any way endangers the safety of the public or property in New Zealand or any part of New Zealand; and
     (c) cannot be dealt with by emergency services, or otherwise requires a significant and co-ordinated response under this Act
-  - **emergency services** means the New Zealand Police, New Zealand Fire Service, National Rural Fire Authority, rural fire authorities, and providers of health and disability services
+  - **emergency services** means the New Zealand Police, Fire and Emergency New Zealand, and providers of health and disability services
   - **Group Controller** means a person appointed as a Group Controller under section 26
   - **Group Recovery Manager** means a person appointed as a Group Recovery Manager under section 29
   - **hazard** means something that may cause, or contribute substantially to the cause of, an emergency
@@ -260,8 +260,8 @@ Each member of a Civil Defence Emergency Management Group—
 (3) For the purposes of subsection (1)﻿(g) and (h), legislative provisions relevant to the purpose of this Act include, but are not limited to, the provisions in the following Acts that may be relevant to civil defence emergency management:
   (a) Biosecurity Act 1993:
   (b) Building Act 2004:
-  (c) Fire Service Act 1975:
-  (d) Forest and Rural Fires Act 1977:
+  (c) Fire and Emergency New Zealand Act 2017:
+  (d)
   (e) Hazardous Substances and New Organisms Act 1996:
   (f) Health Act 1956:
   (g) Health and Safety at Work Act 2015:
@@ -289,7 +289,7 @@ Each member of a Civil Defence Emergency Management Group—
 (1) A Civil Defence Emergency Management Group must establish and maintain a Civil Defence Emergency Management Co-ordinating Executive Group consisting of—
   (a) the chief executive officer of each member local authority or a person acting on the chief executive officer's behalf; and
   (b) a senior Police employee who is assigned for the purpose by the Commissioner of Police; and
-  (c) a senior member of the Fire Service who is assigned for the purpose by the National Commander; and
+  (c) a senior employee, volunteer, or contractor of Fire and Emergency New Zealand who is assigned for the purpose by the board of Fire and Emergency New Zealand; and
   (d) the chief executive or a senior member of a provider of health and disability services operating in the area; and
   (e) any other persons that may be co-opted by the Civil Defence Emergency Management Group.
 (1A) A person co-opted under subsection (1)﻿(e) may include a senior ambulance service officer.
