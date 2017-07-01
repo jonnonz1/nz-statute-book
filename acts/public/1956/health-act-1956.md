@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-01_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -1004,7 +1004,7 @@ Drinking-water standards (and any amendments to those standards) come into force
 
 ### 69T Duties where risk to water is actual or foreseeable
 If any drinking-water supplier considers that its ability to maintain an adequate supply of drinking water is or may be at imminent risk for any reason, it must—
-  (a) notify the medical officer of health, the New Zealand Fire Service, and the territorial authorities and regional councils in the area where the water is supplied of the circumstances giving rise to the risk; and
+  (a) notify the medical officer of health, Fire and Emergency New Zealand, and the territorial authorities and regional councils in the area where the water is supplied of the circumstances giving rise to the risk; and
   (b) request that 1 or more of those territorial authorities and regional councils exercise its powers under any enactment (for example, by making a bylaw to restrict the use of water for other than essential purposes) to assist that supplier to continue to provide an adequate supply of drinking water; and
   (c) if the supplier is a bulk supplier, notify the drinking-water supplier to which the bulk supplier supplies water of the circumstances giving rise to the risk.
 
@@ -1566,9 +1566,9 @@ Every compliance order must state—
   (f) section 69X (duty to test new water sources):
   (g) section 69ZI (duty to notify medical officer of health of source and quality of raw water).
 (4) Every person commits an offence who, without reasonable excuse, takes any water from a fire hydrant, unless—
-  (a) that person is a firefighter (as defined in section 2 of the Fire Service Act 1975); or
-  (b) that person is a member of a volunteer fire brigade (as defined in section 2 of the Fire Service Act 1975); or
-  (c) that person takes the water for the purposes of firefighting; or
+  (a) that person is an employee, volunteer, or contractor of Fire and Emergency New Zealand and is carrying out an operational activity; or
+  (b)
+  (c)
   (d) that person—
     (i) has the written approval of the drinking-water supplier who supplies water to the hydrant; and
     (ii) has been assessed by that drinking-water supplier as being competent to take water from that hydrant in a way that does not endanger the networked system of which the hydrant forms a part or the water in that system.
