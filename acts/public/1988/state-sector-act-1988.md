@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2017-07-01_
 
 > Title
 
@@ -1271,6 +1271,7 @@ Every award and every agreement relating to the terms and conditions of employme
 
 | Departmental agency | Host department |
 | --- | --- |
+| Social Investment Agency | State Services Commission |
 
 ## Schedule 2 — State enterprises
 
