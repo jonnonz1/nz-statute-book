@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-01_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -2206,9 +2206,9 @@ If the Minister is satisfied that section 84 has been complied with, the Ministe
   (a) the New Zealand Defence Force:
   (b) a Civil Defence Emergency Management Group established under the Civil Defence Emergency Management Act 2002:
   (c) the New Zealand Police:
-  (d) the New Zealand Fire Service:
-  (e) the National Rural Fire Authority:
-  (f) rural fire authorities:
+  (d) Fire and Emergency New Zealand:
+  (e)
+  (f)
   (g) DHBs, as defined in section 6 of the New Zealand Public Health and Disability Act 2000.
 (2) An emergency is,—
   (a) for the purposes of subsection (1)﻿(a), an emergency relating to—
@@ -2459,9 +2459,9 @@ If the council is satisfied that section 93 has been complied with, the council 
   (a) the New Zealand Defence Force:
   (b) a Civil Defence Emergency Management Group established under the Civil Defence Emergency Management Act 2002:
   (c) the New Zealand Police:
-  (d) the New Zealand Fire Service:
-  (e) the National Rural Fire Authority:
-  (f) rural fire authorities:
+  (d) Fire and Emergency New Zealand:
+  (e)
+  (f)
   (g) DHBs, as defined in section 6 of the New Zealand Public Health and Disability Act 2000.
 (2) An emergency is,—
   (a) for the purposes of subsection (1)﻿(a), an emergency relating to—
