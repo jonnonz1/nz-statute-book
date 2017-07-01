@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2017-04-19_
+_Consolidation as at 2017-07-01_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -895,7 +895,7 @@ In this section and in sections 64 and 65,—
       (ii) a biosecurity emergency declared under section 144 of the Biosecurity Act 1993; or
       (iii) an emergency or a special emergency declared under section 49B or 136 of the Hazardous Substances and New Organisms Act 1996; or
       (iv) a marine oil spill response under the Maritime Transport Act 1994; or
-      (v) an emergency within the meaning of section 2(1) of the Fire Service Act 1975; or
+      (v) an emergency within the meaning of section 6 of the Fire and Emergency New Zealand Act 2017; or
       (vi) emergency works described in section 330 of the Resource Management Act 1991
   - **existing** , in relation to an activity, means an activity for which, before the effective date, any necessary resource consents have been granted, whether or not any or all of them have been given effect to before the effective date.
 
