@@ -1,5 +1,5 @@
 # Fire Service Act 1975
-_Consolidation as at 2017-03-07_
+_Consolidation as at 2017-07-01_
 
 > An Act to establish the New Zealand Fire Service and to consolidate and amend the law relating to the protection of life and property from fire and to certain other emergency services
 
