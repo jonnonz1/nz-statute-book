@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2017-05-19_
+_Consolidation as at 2017-07-01_
 
 > An Act to reform the administration of education
 
@@ -3795,7 +3795,7 @@ The State Sector Act 1988 does not apply to an institution that is a sponsor if 
   (d) contributes to the sustainable economic and social development of the nation; and
   (e) strengthens New Zealand's knowledge base and enhances the contribution of New Zealand's research capabilities to national economic development, innovation, international competitiveness, and the attainment of social and environmental goals; and
   (f) provides for a diversity of teaching and research that fosters, throughout the system, the achievement of international standards of learning and, as relevant, scholarship.
-(2) In making decisions under this Part, Parts 13A to 18, and Part 19, and under the provisions of Parts 18A and 20 to 24 that relate to tertiary education, the Minister, the Commission, the Qualifications Authority, and Careers New Zealand must take into account the objects specified in subsection (1), so far as is practicable in the circumstances.
+(2) In making decisions under this Part, Parts 13A to 18, and Part 19, and under the provisions of Parts 18A and 20 to 24 that relate to tertiary education, the Minister, the Commission, and the Qualifications Authority must take into account the objects specified in subsection (1), so far as is practicable in the circumstances.
 
 ### 159 Interpretation
 (1) In this Part and Part 13A to Part 24, and in Schedules 13 to 17, unless the context otherwise requires,—
@@ -3912,7 +3912,7 @@ The State Sector Act 1988 does not apply to an institution that is a sponsor if 
 (4) As soon as practicable after issuing a tertiary education strategy, the Minister must give public notice of it.
 
 ### 159AB Importance of tertiary education strategy
-In exercising their functions under this Act or any other enactment, the Commission, the Qualifications Authority, and Careers New Zealand must have regard to the tertiary education strategy.
+In exercising their functions under this Act or any other enactment, the Commission and the Qualifications Authority must have regard to the tertiary education strategy.
 
 ### 159AC Revocation and replacement or amendment of tertiary education strategy
 (1) The Minister may, at any time, revoke and replace, or amend, a tertiary education strategy.
@@ -3928,7 +3928,7 @@ In exercising their functions under this Act or any other enactment, the Commiss
 (3) This section is for the avoidance of doubt.
 
 ### 159AE Ministry may hold and disseminate information
-Any information collected and held by the Commission, the Qualifications Authority, or Careers New Zealand may be held by the Ministry on behalf of the relevant agency and be disclosed by the Ministry to—
+Any information collected and held by the Commission or the Qualifications Authority may be held by the Ministry on behalf of the relevant agency and be disclosed by the Ministry to—
   (a) the agency on whose behalf it is held; and
   (b) any other person or agency that is entitled to receive it.
 
@@ -3992,7 +3992,8 @@ The purpose of this Part is to establish—
 (5) Subsection (4) does not limit section 29 of the Crown Entities Act 2004.
 
 ### 159E Charging
-The Commission may not charge a commercial rate for any goods and services that it provides unless the Minister has given his or her approval.
+(1) The Commission may charge a commercial rate for any goods and services that it provides under section 159F(1)﻿(bc) to (bg).
+(2) However, the Commission may not charge a commercial rate for any other goods and services that it provides unless the Minister approves.
 
 **Functions of Commission**
 
@@ -4010,6 +4011,15 @@ The Commission may not charge a commercial rate for any goods and services that 
   (b) to provide advice to the Minister on the activities and performance of tertiary education organisations and the tertiary education sector generally; and
   (ba) to develop details of how to implement funding mechanisms; and
   (bb) to implement funding mechanisms; and
+  (bc) to establish and maintain a database of information about occupations and about post-compulsory education and training:
+  (bd) to make that information available to the public and to institutions, private training establishments, students, and other interested bodies and persons:
+  (be) to provide—
+    (i) training and assistance to persons who advise about occupations; and
+    (ii) career advice and associated counselling relating to post-compulsory education and training:
+  (bf) to liaise with, and monitor the needs of, institutions, private training establishments, students and other bodies and persons with respect to—
+    (i) information, training, and advice relating to occupations; and
+    (ii) career advice and associated counselling relating to post-compulsory education and training:
+  (bg) to provide support services for the purpose of promoting transition education that prepares students for employment, or further education and training, or both:
   (c) to provide advice to the Minister on the implementation of policy and on the operational implications of new policy initiatives; and
   (d) to monitor the performance of organisations that receive funding from the Commission including by measuring performance against specified outcomes; and
   (da) to undertake any functions that the Minister directs the Commission to undertake under section 159J; and
@@ -7127,50 +7137,19 @@ The chief executive is responsible for—
 ## Part 22 — Careers New Zealand
 
 ### 278 Interpretation
-In this Part and Schedule 17, unless the context otherwise requires,—
-  - **Board** means the Board of the Service
-  - **general manager** means the general manager of the Service
-  - **Service** means the Service continued by section 279.
+[Repealed]
 
 ### 279 Careers New Zealand is service for purposes of this Part
-(1) There is to continue to be a Service for the purposes of this Part and the Service is to be known as Careers New Zealand.
-(2) The Service is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(3) The Crown Entities Act 2004 applies to the Service except to the extent that this Act expressly provides otherwise.
-(4) The members of the Service are the Board for the purposes of the Crown Entities Act 2004.
-(5)
-(6) The Service is the same body as the Service that existed under this section immediately before the commencement of sections 40 and 41 of the Education Amendment Act 2011.
+[Repealed]
 
 ### 280 Functions of Service
-(1) The functions of the Service are—
-  (a) to establish and maintain a database of information about occupations and about post-compulsory education and training:
-  (b) to make that information available to the public and to institutions, private training establishments, students, and other interested bodies and persons:
-  (c) to provide—
-    (i) training and assistance to persons who advise about occupations; and
-    (ii) career advice and associated counselling relating to post-compulsory education and training:
-  (d) to liaise with, and monitor the needs of, institutions, private training establishments, students and other bodies and persons with respect to—
-    (i) information, training, and advice relating to occupations; and
-    (ii) career advice and associated counselling relating to post-compulsory education and training:
-  (e) to provide support services for the purpose of promoting transition education that prepares students for employment, or further education and training, or both.
-(2) On and after the day on which the Board's first statement of intent takes effect, the Service shall not perform any of its functions otherwise than in accordance with the Board's statement of intent.
-(3) Before the day on which the Board's first statement of intent takes effect, the Service shall not administer any scheme, activity, or programme, otherwise than in accordance with the Board's charter for the time being.
+[Repealed]
 
 ### 281 Continuation of Board
-(1) A Board will continue to manage the affairs of the Service and the Board is to be constituted in accordance with this section.
-(2) The Board comprises—
-  (a) a chairperson; and
-  (b) 6 members.
-  (c)
-(3)
-(4)
-(5)
+[Repealed]
 
 ### 282 Duties of Board
-It is the duty of the Board in managing the affairs of the Service—
-  (a) to ensure that the database referred to in section 280(a) is well researched, accurate, and up-to-date:
-  (b) to publicise, as widely as practicable, the services that it provides:
-  (c) to make those services available on an equitable basis to all institutions, private training establishments, students, and other bodies and persons:
-  (d)
-  (e) to be flexible and responsive to the needs of individuals and the community.
+[Repealed]
 
 ### 283 Charter of Service
 [Repealed]
@@ -7197,14 +7176,7 @@ It is the duty of the Board in managing the affairs of the Service—
 [Repealed]
 
 ### 283H Minister may dismiss Board where non-compliance not rectified
-(1) The Minister may, by notice in the Gazette, appoint a person to act in place of the Board if the Board is dismissed under the Crown Entities Act 2004 for breach of its collective duties.
-(2) The Minister may, by notice in the Gazette, revoke a notice under subsection (1) (or this subsection) and appoint some different person to act in place of the Board.
-(3) Until a notice under subsection (1) or subsection (2) is revoked (by notice in the Gazette)—
-  (a)
-  (b) the person for the time being appointed to act in place of the Board—
-    (i) shall have and may exercise and perform all the powers and functions of the Board and the Service in the same manner as if he or she were the Board or the Service, as the case may be; and
-    (ii)
-  (c) the provisions of the Crown Entities Act 2004, and section 286A, apply to the person as if he or she were a board under the Crown Entities Act 2004, with necessary modifications.
+[Repealed]
 
 ### 283I Minister to publish certain documents and directions
 [Repealed]
@@ -7216,39 +7188,28 @@ It is the duty of the Board in managing the affairs of the Service—
 [Repealed]
 
 ### 286 Powers of Board
-(1)
-(2) The Board has power for the purpose of the performance of the functions of the Service to charge for services provided by the Service.
+[Repealed]
 
 ### 286A Child care allowances
-A member may be paid any allowances in respect of child care that the Board determines.
+[Repealed]
 
 ### 286B Chief executive
-(1) The Board must from time to time appoint a chief executive of the Board, on terms and conditions agreed by the Board and the person appointed.
-(2) Section 117 of the Crown Entities Act 2004 also applies.
+[Repealed]
 
 ### 286C Membership of Government Superannuation Fund
-Employment by the Service is Government service within the meaning of the Government Superannuation Fund Act 1956.
+[Repealed]
 
 ### 286D Employees transferring from Ministry and education boards
-(1) Every person who,—on that commencement becomes an employee of the Service.
-  (a) before the commencement of this section and while an employee of the Ministry or an education board, received from the Secretary written notice that the person is designated to become an employee of the Service; and
-  (b) immediately before that commencement was still an employee of the Ministry or that education board,—
-(2) If a person has become an employee of the Service under subsection (1), the person's period of continuous service in the Public Service or, as the case may be, the education service so ended must be treated for all purposes other than superannuation as service in the employment of the Service.
+[Repealed]
 
 ### 286E Board may not delegate power to appoint general manager
-(1) The Board may not delegate the power to appoint a general manager.
-(2) This section applies despite the power of delegation in section 73 of the Crown Entities Act 2004.
+[Repealed]
 
 ### 286F Delegations to general manager
-A delegation to the member who is the general manager continues to have effect,—
-  (a) as if made to the general manager for the time being (subject to paragraph (b)), if the general manager to whom it was made ceases to hold office; and
-  (b) as if made to the person for the time being acting in place of the general manager, if there is no general manager for the time being, or if the general manager is absent from duty.
+[Repealed]
 
 ### 286G Taxation
-(1) The Service is deemed to be the agent of the Crown in respect of its property and the performance of its functions and is entitled accordingly to all the privileges the Crown enjoys in respect of exemption from taxation and the payment of fees or charges, and from other obligations.
-(2) Subsection (1) does not exempt the Service from—
-  (a) the payment of goods and services tax under the Goods and Services Tax Act 1985; or
-  (b) any obligation imposed by that Act.
+[Repealed]
 
 ## Part 23 — Tertiary Research Board
 
@@ -9518,6 +9479,45 @@ Any existing use of an off-site location by a school to provide education to 1 o
 ### 3 Treatment of certain integration agreements
 (1) The integration agreement between Her Majesty the Queen and Te Aute Trust Board Incorporated and any integration agreement that was made under the Private Schools Conditional Integration Act 1975 and that is in force immediately before the commencement of this clause is to be treated as having been made under Part 33 of this Act.
 (2) However, all proceedings or any other matters that involve an integration agreement made under the Private Schools Conditional Integration Act 1975 and that are yet to be determined or completed on the commencement of this clause are to be determined or completed in accordance with the provisions of the Private Schools Conditional Integration Act 1975 that are in force immediately before the commencement of this clause.
+
+### Part 4 — Provisions relating to Careers New Zealand
+
+### 4 Interpretation
+In this schedule, unless the context otherwise requires,—
+  - **assets** has the same meaning as in clause 2 of Schedule 20
+  - **Careers New Zealand** means the Service that was continued under section 279 (as it read immediately before the commencement of this clause)
+  - **Commission** means the Tertiary Education Commission established under section 159C
+  - **liabilities** has the same meaning as in clause 2 of Schedule 20.
+
+### 5 Dissolution
+Careers New Zealand is dissolved.
+
+### 6 Assets and liabilities
+(1) The assets and liabilities of Careers New Zealand vest in the Commission.
+(2) All money payable to or by Careers New Zealand becomes payable to or by the Commission.
+(3) Anything done, omitted to be done, or to be done by, or in relation to, Careers New Zealand is to be treated as having been done, having been omitted to be done, or having to be done by, or in relation to, the Commission.
+(4) However, any individual or collective employment agreement with Careers New Zealand ceases to apply.
+
+### 7 Transfer of information
+(1) All information held by Careers New Zealand is transferred to the Commission.
+(2) The transfer does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+
+### 8 Proceedings
+(1) All proceedings or any other matters involving Careers New Zealand that are yet to be determined or completed on the commencement of this clause are to be determined or completed by the Commission in accordance with the provisions of this Act as in force immediately before the commencement of this clause as if the Commission were Careers New Zealand.
+(2) No action may be taken in relation to any breach of contract, lease, or licence arrangement arising from—
+  (a) the vesting of assets or liabilities in the Commission:
+  (b) the cessation of any individual or collective employment agreement.
+
+### 9 References to Careers New Zealand
+(1) This clause applies to—
+  (a) things that are in force or existing immediately before the commencement of this clause; and
+  (b) references in any thing, including (without limitation) enactments, rules, bylaws, deeds, agreements, proceedings, instruments, documents, and notices.
+(2) If this clause applies, every reference in any thing specified in subclause (1) to Careers New Zealand is, on or after the commencement of this clause, to be treated as a reference to the Commission unless the context otherwise requires.
+(3) This clause does not apply to any collective employment agreement with Careers New Zealand.
+
+### 10 Repeal of clauses 6 to 9 and this clause
+(1) Clauses 6 to 9 are repealed on 1 January 2018.
+(2) This clause is repealed on 2 January 2018.
 
 ## Schedule 2 — Administrative provisions applying to Board continued by section 37
 
