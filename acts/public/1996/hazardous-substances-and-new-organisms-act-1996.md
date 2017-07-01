@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2017-04-19_
+_Consolidation as at 2017-07-01_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -985,7 +985,7 @@ The Authority may, for a deemed approval under section 255,—
 (1) For the purposes of section 30(c) and sections 47 to 49, emergency means—
   (a) an event involving the release of a new organism for which a national pest management plan has been approved under section 66 of the Biosecurity Act 1993; or
   (b) a state of emergency declared under the Civil Defence Emergency Management Act 2002; or
-  (c) an emergency as defined in section 2 of the Fire Service Act 1975; or
+  (c) an emergency as defined in section 6 of the Fire and Emergency New Zealand Act 2017; or
   (d) an emergency declared under Part 9; or
   (e) a marine oil spill emergency under the Maritime Transport Act 1994.
 (2) Sections 47 and 48 apply to every foreseeable emergency where the importation, release, or use of the hazardous substance or new organism in that emergency is also foreseeable.
@@ -1696,7 +1696,7 @@ Without affecting any other method of proof, the production in any proceedings o
 (5) In this section, approved person means—
   (a) the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Agricultural Compounds and Veterinary Medicines Act 1997:
   (b) a person specified in section 97:
-  (ba) the chief executive of the New Zealand Fire Service:
+  (ba) the board of Fire and Emergency New Zealand:
   (c) an enforcement officer.
 
 ### 82B Delegation by approved person
@@ -2163,7 +2163,7 @@ Subject to the rights of appeal in section 125, any person on whom a compliance 
   (j) knowingly personates any enforcement officer; or
   (k) wilfully obstructs any enforcement officer in the course of his or her duties; or
   (l) falsely informs a person that an emergency exists where that person knows the information to be false; or
-  (m) knowingly labels any package or container in such a manner that the label could in an emergency wrongly indicate the presence of hazardous substances to an enforcement officer, fire services officer, or constable.
+  (m) knowingly labels any package or container in such a manner that the label could in an emergency wrongly indicate the presence of hazardous substances to an enforcement officer, an employee, volunteer, or contractor of Fire and Emergency New Zealand, or constable.
 (2)
 
 ### 109A Time for filing charging document
@@ -2495,14 +2495,14 @@ In this Part, unless the context otherwise requires,—
   - **emergency** means—
     (a) actual or imminent danger to human health or safety; or
     (b) a danger to the environment or chattels so significant that immediate action is required to remove the danger—arising from a hazardous substance or new organism
-  - **enforcement officer** includes any constable, and any Chief Fire Officer or person exercising the powers of a Chief Fire Officer under section 28 or section 28A or section 29 of the Fire Service Act 1975.
+  - **enforcement officer** includes any constable, and any employee, volunteer, or contractor of Fire and Emergency New Zealand exercising powers under the Fire and Emergency New Zealand Act 2017.
 
 ### 136 Declaration of emergency
 (1) Where any enforcement officer has reasonable grounds to believe that—the enforcement officer may declare a hazardous substance or new organisms emergency.
   (a) there is an emergency; and
   (b) either,—
     (i) no state of emergency has been declared under the Civil Defence Emergency Management Act 2002; or
-    (ii) the emergency is not being dealt with under the Fire Service Act 1975; or
+    (ii) the emergency is not being dealt with under the Fire and Emergency New Zealand Act 2017; or
     (iii) no emergency has been declared under section 144 of the Biosecurity Act 1993; or
     (iv) no other enforcement officer has declared an emergency under this Act; and
   (c) all or any of the powers set out in section 137 should be exercised in order to—
@@ -2520,7 +2520,7 @@ In this Part, unless the context otherwise requires,—
 (4) Any emergency declared under this section shall cease—whichever is the sooner.
   (a) 48 hours after the time of declaration; or
   (b) when a state of emergency is declared under the Civil Defence Emergency Management Act 2002; or
-  (c) when the emergency is treated by a Chief Fire Officer as an emergency under the Fire Service Act 1975; or
+  (c) when the emergency is treated by Fire and Emergency New Zealand as an emergency under the Fire and Emergency New Zealand Act 2017; or
   (d) when an emergency is declared under section 144 of the Biosecurity Act 1993,—
 (5) Where the conditions which caused the emergency to be declared under subsection (1) still exist 48 hours after the time of declaration of the emergency and the emergency has not been treated as an emergency under any of the provisions in paragraphs (b), (c), and (d) of subsection (4), 1 further declaration of emergency may be made under this Act and the provisions of subsection (4) shall apply accordingly.
 (6) Any emergency declared under this section shall have effect over the area specified under subsection (2)﻿(c).
