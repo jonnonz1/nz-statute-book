@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -1264,7 +1264,7 @@ The purposes of sections 121 to 126 are—
 (3) The levy must be prescribed on the basis that the following costs should be met fully out of the levy:
   (a) the costs of the Authority in performing its functions and exercising its powers and duties under this Act and any other enactment; and
   (b) the costs that are associated with the Whirinaki agreement referred to in section 127, and any costs incurred by the Crown that are associated with the Whirinaki generating plant after the Whirinaki agreement is terminated; and
-  (c) a portion of the costs of the Energy Efficiency and Conservation Authority in performing its functions and exercising its powers and duties under the Energy Efficiency and Conservation Act 2000 in relation to the encouragement, promotion, and support of electricity efficiency, where the size of the portion to be met by levies under this Act is determined by the Minister; and
+  (c) a portion of the costs of the Energy Efficiency and Conservation Authority in performing its functions and exercising its powers and duties under the Energy Efficiency and Conservation Act 2000 where the size of the portion to be met by levies under this Act is determined by the Minister; and
   (d) the costs incurred by the Crown before 1 May 2014 in promoting to customers the benefits of comparing and switching retailers, subject to both of the following limits:
     (i) a limit of $5 million per financial year; and
     (ii) an overall limit of $15 million for the period commencing on 1 November 2010 and ending with 30 April 2014; and
@@ -1276,6 +1276,7 @@ The purposes of sections 121 to 126 are—
 (4) The levy may be prescribed on the basis that any actual cost that could have been, but has not been, recovered as a levy shortfall for a year may be recovered (along with any financing charge) over any period of up to 5 years.
 (5) The regulations may—
   (a) specify the amount of the levy or method of calculating or ascertaining the amount of the levy:
+  (aa) include, in the method of calculating or ascertaining the amount of the levy, provisions related to any shortfall in recovering, or over-recovery of, the actual costs from a previous year:
   (b) include or provide for including in the levy any shortfall in recovering the actual costs:
   (c) refund or provide for refunds of any over-recovery of those actual costs:
   (d) provide for different levies for different classes of industry participants:
@@ -1287,13 +1288,20 @@ The purposes of sections 121 to 126 are—
 (7) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Authority on behalf of the Crown.
 (8) The Authority must pay into a Crown Bank Account, and separately account for, each levy payment.
 
-### 129 Consultation about request for appropriation
-(1) The Authority and the Energy Efficiency and Conservation Authority must, before submitting a request to the Minister seeking an appropriation of public money for the following year, or any change to an appropriation for the current year, that relates to costs that are intended to be recovered by way of levies under section 128, consult about that request with—
+### 129 Authority consultation about request for appropriation
+(1) The Authority must, before submitting a request to the Minister seeking an appropriation of public money for the following year, or any change to an appropriation for the current year, that relates to costs that are intended to be recovered by way of levies under section 128, consult about that request with—
   (a) those industry participants who are liable to pay a levy under that section; and
   (b) any other representatives of persons whom the Authority believes to be significantly affected by a levy.
-(2) Each Authority must, at the time when the request is submitted, report to the Minister on the outcome of that consultation.
+(2) The Authority must, at the time when the request is submitted, report to the Minister on the outcome of that consultation.
 (3) The Ministry must consult in a like manner in respect of a levy to recover costs referred to in section 128(3)﻿(g).
 (4) This section applies to requests in respect of the financial year beginning 1 July 2011 and later financial years.
+
+### 129A Energy Efficiency and Conservation Authority consultation about request for appropriation
+(1) The Energy Efficiency and Conservation Authority must, before submitting a request to the Minister seeking an appropriation of public money for the following year, or any change to an appropriation for the current year, that relates to costs that are intended to be recovered by way of levies under section 128(3)﻿(c), consult about that request with—
+  (a) those industry participants who are liable to pay a levy under that section; and
+  (b) any other representatives of persons whom the Energy Efficiency and Conservation Authority believes to be significantly affected by a levy.
+(2) The Energy Efficiency and Conservation Authority must, at the time when the request is submitted, report to the Minister on the outcome of that consultation.
+(3) This section applies to requests in respect of the financial year beginning 1 July 2018 and later financial years.
 
 **Specific authorisations for purposes of Commerce Act 1986**
 
@@ -1313,6 +1321,18 @@ The purposes of sections 121 to 126 are—
 No claim for damages may be made against a distributor or the owner of the national grid in relation to damage caused by, or arising from, an outage that resulted from the distributor or grid owner complying with—
   (a) the regulations or the Code; or
   (b) any instruction issued by the Authority or the system operator under the regulations or the Code that the distributor or grid owner was obliged to comply with.
+
+### Subpart 2A — Secondary networks
+
+### 131A Application of electricity industry legislation to secondary networks
+(1) This Act, the regulations, and the Electricity Industry Participation Code apply, with all necessary modifications, to a secondary network provider as if that provider were a distributor.
+(2) In this section,—
+  - **secondary network** means equipment that—
+    (a) is used, designed, or intended for use in, or in connection with, the conveyance of electricity; and
+    (b) is indirectly connected to the national grid
+  - **secondary network provider** means a business that—
+    (a) is engaged in the conveyance of electricity on a secondary network; and
+    (b) provides services that are substantially similar to the services provided by a distributor.
 
 ### Subpart 3 — Transitional and consequential provisions
 
