@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2016-07-01_
+_Consolidation as at 2017-07-01_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -53,8 +53,8 @@ _Consolidation as at 2016-07-01_
 (1) A ratepayer who, at the commencement of a rating year, was the ratepayer of a residential property is entitled, on application in that year, to a rebate of—whichever amount is smaller.
   (a) so much of the rates payable for that rating year in respect of the property as represents—
     (i) two-thirds of the amount by which those rates exceed $160, reduced by—
-    (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded $24,470, that last-mentioned amount being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
-  (b) $610,—
+    (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded $24,790, that last-mentioned amount being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
+  (b) $620,—
 (1A) A ratepayer who, at the commencement of a rating year, was the ratepayer of a residential property, and later during that year becomes the ratepayer of another residential property, is entitled to a rates rebate under subsection (1). The amount of the rebate must be apportioned according to the amount of time the ratepayer was the ratepayer of each residential property during the rating year.
 (2) The Governor-General may from time to time, by Order in Council, amend the provisions of subsection (1) by substituting any amount for any amount specified in that subsection.
 
