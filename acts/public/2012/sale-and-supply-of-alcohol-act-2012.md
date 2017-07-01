@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -109,7 +109,6 @@ This Act is the Sale and Supply of Alcohol Act 2012.
     (b) at any particular time, includes a person who,—
       (i) at that time, is authorised by an enactment other than this Act to enter the premises; or
       (ii) enters the premises to deal with an emergency occurring at that time
-  - **fire service** means the New Zealand Fire Service established by section 3 of the Fire Service Act 1975
   - **former licensing Act** means an enactment—
     (a) that is the Sale of Liquor Act 1989; or
     (b) that was repealed by a former licensing Act
@@ -260,13 +259,13 @@ Nothing in this Act applies to the sale or supply of alcohol by a person, in the
   (a) a canteen or mess, or any other place in a naval ship or defence area (within the meaning of section 2(1) of the Defence Act 1990), where the consumption and possession of alcohol is authorised by or under the Defence Act 1990 or by the Chief of Defence Force:
   (b) an amenity set up and conducted by the Armed Forces Canteen Council constituted by section 3(1) of the Armed Forces Canteens Act 1948:
   (c) a police canteen established with the authority of the Commissioner of Police:
-  (d) a canteen established with the authority of the New Zealand Fire Service Commission constituted by section 4(1) of the Fire Service Act 1975.
+  (d) a canteen established with the authority of Fire and Emergency New Zealand.
 (2) The competent authority must put in place and (so far as is reasonably practicable) ensure that there is implemented on premises of a kind described in subsection (1) a code of practice, following as closely as is reasonably possible the requirements of this Act relating to the sale, supply, or keeping for sale or supply, of alcohol on premises for which a club licence is held.
 (3) For the purposes of subsection (2), the competent authority,—
   (a) for a canteen or mess, or any other place in a naval ship or defence area (within the meaning of section 2(1) of the Defence Act 1990), where the consumption and possession of alcohol is authorised by or under the Defence Act 1990 or by the Chief of Defence Force, means the Chief of Defence Force:
   (b) for an amenity set up and conducted by the Armed Forces Canteen Council constituted by section 3(1) of the Armed Forces Canteens Act 1948, means the Chief of Defence Force:
   (c) for a police canteen established with the authority of the Commissioner of Police, means the Commissioner of Police:
-  (d) for a canteen established with the authority of the New Zealand Fire Service Commission constituted by section 4(1) of the Fire Service Act 1975, means the chief executive appointed under section 17A or section 17I(3) of that Act.
+  (d) for a canteen established with the authority of the board of Fire and Emergency New Zealand, means that board.
 
 ### 11 Authorised sales of alcohol at international airports exempted
 This Act is subject to section 96 of the Civil Aviation Act 1990.
@@ -960,7 +959,7 @@ An application for a licence—
   (b) must be made in the prescribed form and manner; and
   (c) must contain the prescribed particulars; and
   (d) if it relates to any premises, must be accompanied by a statement by the applicant that—
-    (i) the owner of the building in which the premises are situated provides and maintains an evacuation scheme as required by section 21B of the Fire Service Act 1975; or
+    (i) the owner of the building in which the premises are situated provides and maintains an evacuation scheme as required by section 76 of the Fire and Emergency New Zealand Act 2017; or
     (ii) because of the building's current use, its owner is not required to provide and maintain such a scheme; or
     (iii) because of the nature of the building, its owner is exempt from the requirement to provide and maintain such a scheme; and
   (e) must be accompanied by the prescribed fee; and
@@ -1227,7 +1226,7 @@ The licensing authority or licensing committee concerned must not renew a licenc
   (c) must be made in the prescribed form and manner; and
   (d) must contain the prescribed particulars; and
   (e) if it relates to any premises, must be accompanied by a statement by the applicant that—
-    (i) the owner of the building in which the premises are situated provides and maintains an evacuation scheme as required by section 21B of the Fire Service Act 1975; or
+    (i) the owner of the building in which the premises are situated provides and maintains an evacuation scheme as required by section 76 of the Fire and Emergency New Zealand Act 2017; or
     (ii) because of the building's current use, its owner is not required to provide and maintain such a scheme; or
     (iii) because of the nature of the building, its owner is exempt from the requirement to provide and maintain such a scheme; and
   (f) must be accompanied by the prescribed fee.
@@ -1457,7 +1456,7 @@ The licensing committee concerned may issue a special licence subject to particu
 ### 152 Suspension of certain decisions (by licensing committee or licensing authority) to grant licence or manager's certificate
 (1) This section applies to every decision to grant an application for a licence or a manager's certificate if—
   (a) an objection to the application has been duly filed and has not been withdrawn; or
-  (b) a report has been submitted by the Police or an inspector or a member of the fire service or a Medical Officer of Health recommending that the application be refused.
+  (b) a report has been submitted by the Police or an inspector or an employee, volunteer, or contractor of Fire and Emergency New Zealand or a Medical Officer of Health recommending that the application be refused.
 (2) A decision to which this section applies has no effect during the period allowed for filing an appeal against the decision and, if an appeal is filed against the decision, also has no effect while the appeal is pending.
 (3) Where an appeal relates to a decision to which this section applies but is limited to 1 or more conditions that form part of the decision, the appellate tribunal may, subject to any conditions the appellate tribunal thinks fit to impose, order that the decision is to have effect while the appeal is pending.
 (4) An order under subsection (3) may only be made if the appellate tribunal is satisfied that all parties to the appeal agree to the order, including any conditions imposed by the tribunal.
@@ -1835,7 +1834,7 @@ For the purposes of this Act, the chief executive of the territorial authority i
   (e) an application for a special licence under section 137:
   (f) an appeal against a decision of a licensing committee to the licensing authority under section 154.
 (2) With the leave of the chairperson of the licensing committee or the licensing authority (as the case may be), any of the following persons may appear and be heard, whether personally or by counsel, in any proceedings stated in subsection (1):
-  (a) a member of the fire service authorised to undertake fire safety inspections:
+  (a) an employee, volunteer, or contractor of Fire and Emergency New Zealand authorised to undertake fire safety inspections:
   (b) a person authorised in that behalf by any territorial authority:
   (c) any other person who satisfies the licensing committee or the licensing authority that he or she has an interest in the proceedings, apart from any interest in common with the public.
 (3) Any of the following persons may appear and be heard, whether personally or by counsel, and call, examine, or cross-examine witnesses, in any proceedings stated in subsection (1):
@@ -2623,8 +2622,8 @@ A District Court presided over by 1 or more Community Magistrates has jurisdicti
 (6) Instead of making an order under subsection (5), the licensing authority may adjourn the application for any period it thinks fit to give the manager an opportunity to remedy any matters that the licensing authority may require to be remedied within that period.
 
 ### 286 Suspension of licence for non-compliance with public health or fire precaution requirements
-(1) A Medical Officer of Health or any member of the fire service authorised to enter buildings under section 21F or 29 of the Fire Service Act 1975 may apply to the licensing committee for the suspension of the licence if he or she has reason to believe that, because of the failure of the holder of any on-licence or club licence to comply with any requirements described in subsection (2), the health of persons using the premises is likely to be injured or their safety is likely to be endangered.
-(2) The requirements are those relating to public health or to the escape of people in the event of fire (whether in accordance with an evacuation scheme for public safety which meets the requirements of section 21B of the Fire Service Act 1975 or by other means) other than requirements under the Building Act 2004.
+(1) A Medical Officer of Health or any person appointed as a FENZ inspector under section 166 of the Fire and Emergency New Zealand Act 2017 may apply to the licensing committee for the suspension of the licence if he or she has reason to believe that, because of the failure of the holder of any on-licence or club licence to comply with any requirements described in subsection (2), the health of persons using the premises is likely to be injured or their safety is likely to be endangered.
+(2) The requirements are those relating to public health or to the escape of people in the event of fire (whether in accordance with an evacuation scheme for public safety which meets the requirements of section 76 of the Fire and Emergency New Zealand Act 2017 or by other means) other than requirements under the Building Act 2004.
 (3) The licensing committee must give notice in writing to the licensee calling upon the licensee to appear before the committee at a time and place to be specified in the notice, being not earlier than 7 working days after the giving of the notice, to show cause why the licence should not be suspended.
 (4) If, after hearing the licensee (if he or she appears), the licensing committee is satisfied that the licensee has failed to comply with any requirement referred to in subsection (2), it may order the licensee to do all such things as may be necessary to meet those requirements within any reasonable time it may specify, and, in the case of default, may suspend the licence until those requirements have been met.
 (5) Despite subsection (3), if, in any case to which that subsection applies, the licensing committee is satisfied that, because of the licensee's failure to comply with any requirement referred to in subsection (2), the health of people using the premises to which the application relates is likely to be injured, or their safety is likely to be endangered, the committee must suspend the licence until it is satisfied that all things necessary or desirable to remedy the default have been done.
