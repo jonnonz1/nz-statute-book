@@ -1,5 +1,5 @@
 # Forest and Rural Fires Amendment Act 1989
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-07-01_
 
 > An Act to amend the Forest and Rural Fires Act 1977
 
