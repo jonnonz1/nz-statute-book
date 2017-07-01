@@ -1,5 +1,5 @@
 # Forest and Rural Fires Amendment Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 (1) This Act is the Forest and Rural Fires Amendment Act 2005.
@@ -9,7 +9,7 @@ _Consolidation as at 2007-09-03_
 This Act comes into force on the day after the date on which it receives the Royal assent.
 
 ### 3 Interpretation
-(1) Section 2(1) of the principal Act is amended by repealing the definition of Fire Authority, and substituting the following definition:.
+(1) Section 2(1) of the principal Act is amended by repealing the definition of Fire Authority, and substituting the following definition:
   - **Fire Authority** ,—
     (a) in relation to a rural fire district, means—
       (i) the rural fire committee in which the administration of the district is vested; or
@@ -20,7 +20,7 @@ This Act comes into force on the day after the date on which it receives the Roy
     (d) in relation to a territorial area, means the territorial authority having jurisdiction for the area:
     (e) in relation to an area subject to an agreement made under section 14(1) or section 14(2), means the party appointed to act, to the extent provided by the agreement:
     (f) in relation to an area in respect of which a territorial authority exercises the powers of a Fire Authority under section 9(b), means the territorial authority to the extent provided by the agreement between the New Zealand Fire Service Commission, the National Rural Fire Authority, and the territorial authority
-(2) Section 2(1) of the principal Act is amended by repealing the definition of fire safety margin, and substituting the following definition:.
+(2) Section 2(1) of the principal Act is amended by repealing the definition of fire safety margin, and substituting the following definition:
   - **fire safety margin** ,—
     (a) in relation to a State area (other than land administered by the Minister of Conservation pursuant to section 9A of the Foreshore and Seabed Endowment Revesting Act 1991), means the land outside the State area that is within 1 km of the boundary of the State area, excluding any land—
       (i) specified in a Gazette notice given under section 11B:
@@ -29,11 +29,11 @@ This Act comes into force on the day after the date on which it receives the Roy
     (b) in relation to a forest area, means the land outside the forest area but within such a distance (not exceeding 1 km) from the boundary of the forest area as is approved by the Fire Authority for the area; but
     (c) does not include any land being the whole or part of a defence area within the meaning of the Defence Act 1990
 (3) The definition of State area in section 2(1) of the principal Act is amended by—
-  (a) omitting from paragraph (a)(vi) the word and, and substituting the word but ; and
+  (a) omitting from paragraph (a)﻿(vi) the word and, and substituting the word but ; and
   (b) repealing paragraph (b).
-(4) The definition of State area in section 2(1) of the principal Act is amended by adding to paragraph (c) the following subparagraph:.
+(4) The definition of State area in section 2(1) of the principal Act is amended by adding to paragraph (c) the following subparagraph:
   (x) any fire safety margin attached to a State area by operation of this Act
-(5) Section 2(1) of the principal Act is amended by repealing the definition of territorial area, and substituting the following definition:.
+(5) Section 2(1) of the principal Act is amended by repealing the definition of territorial area, and substituting the following definition:
   - **territorial area** means the land within the boundaries of a territorial authority that is not otherwise included in—
     (a) a rural fire district; or
     (b) a fire district within the meaning of the Fire Service Act 1975; or
@@ -59,17 +59,17 @@ The principal Act is amended by inserting, after section 11, the following secti
 
 ### 5 Amendments consequential on new section 11A
 (1) Section 23 of the principal Act is amended by—
-  (a) omitting from subsection (1)(a)(iii) the word of in the first place where it occurs, and substituting the words attached to ; and
-  (b) omitting from subsection (1)(b)(i) the word of in the first place where it occurs, and substituting the words attached to.
-(2) Section 25(2)(a) of the principal Act is amended by omitting the word thereof, and substituting the words attached to a State area.
-(3) Section 35(1)(a) of the principal Act is amended by omitting the words external fire safety margin of any, and substituting the words fire safety margin attached to a.
+  (a) omitting from subsection (1)﻿(a)﻿(iii) the word of in the first place where it occurs, and substituting the words attached to ; and
+  (b) omitting from subsection (1)﻿(b)﻿(i) the word of in the first place where it occurs, and substituting the words attached to.
+(2) Section 25(2)﻿(a) of the principal Act is amended by omitting the word thereof, and substituting the words attached to a State area.
+(3) Section 35(1)﻿(a) of the principal Act is amended by omitting the words external fire safety margin of any, and substituting the words fire safety margin attached to a.
 (4) The heading to section 46A of the principal Act is amended by omitting the word of in the second place where it occurs, and substituting the words attached to.
 (5) Section 46A(1) of the principal Act is amended by omitting the words of the State in both places where they occur, and substituting in each case the words attached to the State.
 
 ### 6 Duties of Fire Authorities
 (1) Section 12 of the principal Act is amended by repealing subsection (1), and substituting the following subsections:
   (1) Every Fire Authority must promote and carry out fire control measures in its district.
-  (1A) Every Fire Authority must comply with the standards set by the National Rural Fire Authority under section 14A(2)(k) of the Fire Service Act 1975.
+  (1A) Every Fire Authority must comply with the standards set by the National Rural Fire Authority under section 14A(2)﻿(k) of the Fire Service Act 1975.
 (2) Section 12 of the principal Act is amended by repealing subsection (4), and substituting the following subsections:
   (4) A Fire Authority must keep and maintain a current fire plan for its district.
   (4A) A fire plan must contain the prescribed information.
@@ -86,5 +86,5 @@ Section 43 of the principal Act is amended by inserting, after subsection (1), t
     (b) to a recovery made under this section.
 
 ### 9 Regulations
-Section 67(2) of the principal Act is amended by repealing paragraph (g), and substituting the following paragraph:.
+Section 67(2) of the principal Act is amended by repealing paragraph (g), and substituting the following paragraph:
   (g) prescribing the content of fire plans:
