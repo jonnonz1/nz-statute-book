@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -63,6 +63,7 @@ The purpose of this Act is to—
     (a) a trailer with a gross vehicle mass of 3 500 kilograms or less:
     (b) any of the following for the period of the applicable exemption in respect of the vehicle or class of vehicle:
       (i) light electric RUC vehicles exempted by an Order in Council made under section 37:
+      (ia) heavy electric RUC vehicles exempted by an Order in Council made under section 37A:
       (ii) any 1 or more classes of RUC vehicles specified by an Order in Council made under section 38:
       (iii) a particular RUC vehicle exempted by the RUC collector by notice in the Gazette under section 39:
       (iv) a light RUC vehicle exempted by the RUC collector under section 40
@@ -72,6 +73,9 @@ The purpose of this Act is to—
   - **former Act** means the Road User Charges Act 1977
   - **gross vehicle mass** , in relation to a RUC vehicle, has the same meaning as in Part 2 of the VDAM Rule 2002
   - **GST** means goods and services tax payable under the Goods and Services Tax Act 1985
+  - **heavy electric RUC vehicle** means a RUC vehicle with—
+    (a) a gross vehicle mass of more than 3 500 kilograms; and
+    (b) motive power wholly or partly derived from an external source of electricity
   - **heavy RUC vehicle** means a motor vehicle or trailer with a gross vehicle mass of more than 3 500 kilograms
   - **hubodometer** means a distance recorder that—
     (a) is of a kind approved by the RUC collector under section 48; and
@@ -445,6 +449,13 @@ If the RUC collector is satisfied that the person held liable for a debt relatin
 (2) An order made under subsection (1)—
   (a) must specify the date on which the exemption expires; and
   (b) may, from time to time, be amended to provide for a later date.
+
+### 37A Exemption of heavy electric RUC vehicles by Order in Council
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, specify the period during which road user charges are not payable in respect of heavy electric RUC vehicles.
+(2) The Minister must not recommend the making of an order under this section unless the Minister is satisfied that the purpose of the exemption is to encourage and support the uptake of heavy electric RUC vehicles.
+(3) An order made under this section must specify the date on which the period of exemption ends, and that date must be no later than,—
+  (a) in the case of the first order made under this section, 31 December 2025; and
+  (b) in the case of any subsequent order made under this section, the date that is 5 years after the date on which the period of exemption starts.
 
 ### 38 Exemption of RUC vehicles unsuitable for regular road use by Order in Council
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, specify any 1 or more classes of RUC vehicles in respect of which road user charges are not payable.
