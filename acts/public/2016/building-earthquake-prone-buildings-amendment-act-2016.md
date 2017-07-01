@@ -1,5 +1,5 @@
 # Building (Earthquake-prone Buildings) Amendment Act 2016
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Building (Earthquake-prone Buildings) Amendment Act 2016.
