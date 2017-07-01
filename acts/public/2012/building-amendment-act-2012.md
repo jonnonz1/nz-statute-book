@@ -1,5 +1,5 @@
 # Building Amendment Act 2012
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Building Amendment Act 2012.
