@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2017-04-19_
+_Consolidation as at 2017-07-01_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -634,7 +634,7 @@ In achieving the purpose of this Act, all persons exercising functions and power
     (ii) the reasonable needs of a person’s animals for drinking water,—
   (c) in the case of geothermal water, the water, heat, or energy is taken or used in accordance with tikanga Maori for the communal benefit of the tangata whenua of the area and does not have an adverse effect on the environment; or
   (d) in the case of coastal water (other than open coastal water), the water, heat, or energy is required for an individual's reasonable domestic or recreational needs and the taking, use, or diversion does not, or is not likely to, have an adverse effect on the environment; or
-  (e) the water is required to be taken or used for firefighting purposes.
+  (e) the water is required to be taken or used for emergency or training purposes in accordance with section 48 of the Fire and Emergency New Zealand Act 2017.
 
 **Discharges**
 
