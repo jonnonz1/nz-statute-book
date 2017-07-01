@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2017-07-01_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3646,6 +3646,11 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 109A(1) and 109B | Constable or inspector may obtain and execute search warrant to search for evidence of offences against section 126 or 131A of Films, Videos, and Publications Classification Act 1993 | All (except sections 118 and 119) |
 | Financial Markets Authority Act 2011 | 29(1) and (3) | Specified person may enter and search place, vehicle, or other thing by consent or with warrant to ascertain if person is contravening financial markets legislation | All (except sections 118 and 119) |
 | Financial Transactions Reporting Act 1996 | 44 | Constable may obtain and execute search warrant to search for evidence of offence against Financial Transactions Reporting Act 1996 or any regulations made under that Act | All |
+| Fire and Emergency New Zealand Act 2017 | 170(1) | FENZ inspector may enter and inspect land and buildings for the purposes specified in section 170(2) of the Fire and Emergency New Zealand Act 2017 | All (except subpart 3 and sections 118 and 119) |
+|  | 171(1) | FENZ inspector may enter homes and marae with the consent of an occupier or pursuant to a warrant | All (except sections 118 and 119) |
+|  | 172(2) | FENZ inspector who has entered land or a building may seize, destroy, suppress, or take a sample of a material, substance, structure, or thing that the inspector reasonably believes is likely to imminently cause an emergency | All (except subpart 3 and sections 118 and 119) |
+|  | 173(1) | FENZ inspector who has entered land or a building may, if the inspector believes on reasonable grounds that it is necessary, take or remove a sample of any material, substance, or thing for analysis, or seize and retain any material, substance, or thing for the purpose of assessing compliance with the requirements under fire safety legislation | All (except subpart 3 and sections 118 and 119) |
+|  | 174(1) | FENZ may authorise a specified person to enter and search any land, building, vehicle, or other thing, with consent or pursuant to a warrant, if FENZ is satisfied that there are reasonable grounds to believe an offence has been committed under fire safety legislation and that the search will find evidential material | All (except sections 118 and 119) |
 | Fisheries Act 1996 | 199(1) | Fishery officer may examine any vessel, vehicle, premises, or other place in the course of enforcement and administration of Fisheries Act 1996 | All (except subparts 2, 3, and 8 and section 119) |
 |  | 199A | Fishery officer may enter, examine, and search any thing that relates to suspected offence against Fisheries Act 1996 | All (except subparts 3 and 8) |
 |  | 200(1) | Fishery officer may enter dwellinghouse or surrounds or Māori reservation (under power conferred elsewhere in Fisheries Act 1996) if authorised to do so by issuing officer | Subparts 1, 3, 7, 9, and 10 |
