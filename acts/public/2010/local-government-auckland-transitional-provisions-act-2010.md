@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-02_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -24,10 +24,7 @@ An Order in Council made under any provision of section 5 or Part 1 is a legisla
 (1)
 (2) Subsection (1) expires at the close of 31 October 2013.
 (3) Any regulations made under subsection (1) that are in force on 31 October 2013 expire at the close of that day.
-(4) The Governor-General may, by Order in Council made on the recommendation of the Minister for the Environment, make regulations to—
-  (a) prescribe matters in respect of the preparation of the first Auckland combined plan that may be in addition to or in place of the provisions of Part 4:
-  (b) provide that, subject to any conditions specified in the regulations, during a specified period or in specified circumstances, specified provisions of Part 4, or of the Resource Management Act 1991, do not apply, or apply with modifications, to the preparation of the first Auckland combined plan:
-  (c) make provision for a situation in respect of the preparation of the first Auckland combined plan for which no or insufficient provision is made by Part 4.
+(4)
 (5) The Minister for the Environment must not recommend the making of regulations under subsection (4) unless he or she is satisfied that the regulations—
   (a) are necessary or desirable for the efficient and orderly development of the first Auckland combined plan; and
   (b) address unforeseen situations or unforeseen issues arising in the preparation of that plan; and
