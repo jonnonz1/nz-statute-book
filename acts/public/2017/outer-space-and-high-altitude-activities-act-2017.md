@@ -1110,6 +1110,6 @@ Section 88(3)﻿(a) is satisfied in relation to any regulations if action of the
 
 ## Schedule 2 — Amendment to Search and Surveillance Act 2012
 
-| Outer Space and High-altitude Activities Act 2017 | 60 | Powers of enforcement officers | Subparts 1, 4, 6, 7, 9, and 10 (except for sections 118 and 119) |
+| Outer Space and High-altitude Activities Act 2017 | 60 | Powers of enforcement officers | Subparts 1, 4, 5, 6, 7, 9, and 10 (except for sections 118 and 119) |
 | --- | --- | --- | --- |
 |  | 61 | Provisions relating to entry to dwellinghouse or marae | Subparts 1, 3, 4, 5, 7, 9, and 10 (except that sections 118 and 119 apply only in respect of warrant issued to a named constable or to every constable) |
