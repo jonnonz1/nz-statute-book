@@ -1052,7 +1052,7 @@ All infringement fees paid in respect of infringement offences must be paid into
 ### 91 Amendment to Summary Proceedings Act 1957
 (1) This section amends the Summary Proceedings Act 1957.
 (2) In section 2(1), definition of infringement notice, after the second paragraph (jb), insert:
-  (jc) section 82 of the Outer Space and High-altitude Activities Act 2017; or
+  (jba) section 82 of the Outer Space and High-altitude Activities Act 2017; or
 
 **Amendment to Health and Safety at Work Act 2015**
 
