@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -19,7 +19,7 @@ This Act is the Corrections Act 2004.
     (c) any arbitrator or umpire, or any person or body of persons authorised by law to make an inquiry and take evidence on oath:
     (d) any legal tribunal by which any legal right or liability can be established:
     (e) any person acting as a court or tribunal having the power to hold a judicial proceeding:
-    (f) any family group conference within the meaning of section 2(1) of the Children, Young Persons, and Their Families Act 1989:
+    (f) any family group conference within the meaning of section 2(1) of the Oranga Tamariki Act 1989:
     (g)
     (h) any other person or body of persons the proceedings, or any part of the proceedings, of whom or of which are deemed to be a judicial proceeding for the purposes of section 108 of the Crimes Act 1961 (which relates to perjury)
   - **authorised property** means property that is declared by rules made under section 45A as property that prisoners may be issued with or allowed to keep
@@ -73,7 +73,7 @@ This Act is the Corrections Act 2004.
     (a) means the transport of persons in custody—
       (i) to or from a prison or Police station; or
       (ii) to or from any place at which their attendance is or has been required for judicial purposes; or
-      (iii) to or from a residence (within the meaning of the Children, Young Persons, and Their Families Act 1989); or
+      (iii) to or from a residence (within the meaning of the Oranga Tamariki Act 1989); or
       (iv) in connection with any temporary removal from custody under section 62; or
       (v) for the purposes of the Mental Health (Compulsory Assessment and Treatment) Act 1992; and
     (b) includes their custody, control, and supervision during that transport, and any custody, control, and supervision while they are at any place to or from which they are transported (other than a prison or Police station) that is incidental to that transport
@@ -576,10 +576,10 @@ The chief executive must appoint as many suitable employees of the department as
 
 ### 34A Detention of child or young person serving sentence of imprisonment
 (1) Notwithstanding anything in this Act,—
-  (a) any young person who is serving a sentence of imprisonment may be detained under that sentence in any residence approved by the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989 and the chief executive; and
+  (a) any young person who is serving a sentence of imprisonment may be detained under that sentence in any residence approved by the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989 and the chief executive; and
   (b) any child who is serving a sentence of imprisonment must be detained under that sentence in such a residence.
 (2) The provisions of this Act and of the Parole Act 2002, and regulations made under those Acts, continue to apply, with any necessary modifications, to a child or young person who is detained for the time being in a residence in accordance with subsection (1).
-(3) For the purposes of this section, the terms child, young person, and residence have the same meanings as they have in the Children, Young Persons, and Their Families Act 1989.
+(3) For the purposes of this section, the terms child, young person, and residence have the same meanings as they have in the Oranga Tamariki Act 1989.
 
 ### 35 Detention during transit
 (1) While any prisoner or other person in custody is being taken to or from any prison, he or she may be detained in any other prison or in a Police station or hospital.
@@ -1179,7 +1179,7 @@ The chief executive must ensure that in every corrections prison, so far as is r
   (d) the chief executive is satisfied that there are appropriate facilities available to accommodate the child’s placement.
 (3) In considering whether placing the child with the mother is in the best interests of the child, the chief executive must have regard to the principles in section 5 of the Care of Children Act 2004 to the extent that those principles are relevant.
 (4) The chief executive must—
-  (a) consult the chief executive of the department responsible for administering the Children, Young Persons, and Their Families Act 1989 before deciding whether to approve a child’s placement; and
+  (a) consult the chief executive of the department responsible for administering the Oranga Tamariki Act 1989 before deciding whether to approve a child’s placement; and
   (b) seek the advice of a child development specialist before deciding whether to approve or end a child’s placement, unless it is clear from the circumstances that it is not necessary to seek that advice.
 (5) The chief executive may end the child’s placement if the chief executive considers that—
   (a) subsection (2)﻿(b)﻿(i) or (ii) is not being met; or
@@ -2450,7 +2450,7 @@ The information referred to in section 180A(1) is, for each prisoner detained in
 ### 182C Definition of specified agency
 For the purposes of section 182A, specified agency means—
   (a) the Department of Corrections:
-  (b) the Department of Child, Youth and Family Services:
+  (b) the department responsible for administering the Oranga Tamariki Act 1989:
   (c) Housing New Zealand Corporation:
   (d) the Ministry of Social Development:
   (e) the New Zealand Police:
