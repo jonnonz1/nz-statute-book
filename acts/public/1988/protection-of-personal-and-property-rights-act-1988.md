@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2017-03-16_
+_Consolidation as at 2017-07-14_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -29,7 +29,7 @@ In this Act, unless the context otherwise requires,—
     (d) a brother or sister of that person, or of the spouse or other person referred to in paragraph (a), whether of the full-blood or of the half-blood; and
     (e) an aunt or uncle of that person, or of the spouse or other person referred to in paragraph (a):
     (f) a nephew or niece of that person, or of the spouse or other person referred to in paragraph (a)
-  - **social worker** means a person employed under Part 5 of the State Sector Act 1988 in the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989 as a social worker
+  - **social worker** means a person employed under Part 5 of the State Sector Act 1988 in the department for the time being responsible for the administration of the Oranga Tamariki Act 1989 as a social worker
   - **trustee corporation** means the Māori Trustee, Public Trust, and every trustee company within the meaning of the Trustee Companies Act 1967
   - **welfare guardian** means a person appointed under section 12 as a welfare guardian.
 
