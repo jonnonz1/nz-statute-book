@@ -1,5 +1,5 @@
 # Electronic Transactions Act 2002
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Electronic Transactions Act 2002.
