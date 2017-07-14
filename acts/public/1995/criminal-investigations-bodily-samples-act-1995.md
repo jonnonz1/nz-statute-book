@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -123,7 +123,7 @@ This Act binds the Crown.
 ### 4A Detained under sentence of imprisonment
 (1) For the purposes of section 4 and Part 3, a person is detained under a sentence of imprisonment if he or she has been convicted of an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule and in relation to that offence he or she is detained under a sentence of imprisonment—
   (a) in a prison; or
-  (b) in a residence administered by the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989; or
+  (b) in a residence administered by the department for the time being responsible for the administration of the Oranga Tamariki Act 1989; or
   (c) in, or on leave from, a hospital—
     (i) under section 46 of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
     (ii) following an application under section 45(2) of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
@@ -202,7 +202,7 @@ Subject to section 8, every notice given pursuant to section 6(2)﻿(a)—
 (1) Nothing in section 6—
   (a) applies in respect of a suspect who is a child or was a child at the time the offence in relation to which the request is made was committed; or
   (b) makes a person of the kind referred to in paragraph (a) capable of consenting to the taking of a bodily sample in response to a request made under that section.
-(1A) However, a suspect who is a child, or was a child at the time the offence is alleged to have been committed, may consent to the taking of a buccal sample as a result of a Part 2A request if, in accordance with section 272 of the Children, Young Persons, and Their Families Act 1989, he or she may not be lawfully prosecuted under the Criminal Procedure Act 2011 for that offence.
+(1A) However, a suspect who is a child, or was a child at the time the offence is alleged to have been committed, may consent to the taking of a buccal sample as a result of a Part 2A request if, in accordance with section 272 of the Oranga Tamariki Act 1989, he or she may not be lawfully prosecuted under the Criminal Procedure Act 2011 for that offence.
 (2) Where a suspect request is made under section 6 to a suspect who is of or over the age of 14 years but under 17 years, that section and section 7 shall apply subject to the following modifications:
   (a) the constable who makes the suspect request shall take all reasonable steps to ensure that a copy of the notice required by section 6(2)﻿(a) to be handed to the suspect is also given to a parent of the suspect; and
   (b) the constable who makes the suspect request shall, in addition to informing the suspect of the matters specified in section 6(2)﻿(b), inform the suspect—
@@ -334,7 +334,7 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
       (A) that is alleged to have been committed when the suspect was aged 12 or 13 years; and
       (B) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years; or
     (iii) an offence (other than murder or manslaughter)—
-      (A) that is alleged to have been committed when the suspect was aged 12 or 13 years, and was for the purposes of section 272(1)﻿(c) of the Children, Young Persons, and Their Families Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
+      (A) that is alleged to have been committed when the suspect was aged 12 or 13 years, and was for the purposes of section 272(1)﻿(c) of the Oranga Tamariki Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
       (B) for which the maximum penalty available is or includes imprisonment for at least 10 years but less than 14 years); and
   (c) in the case of a suspect who was of or over the age of 14 years at the time the offence in relation to which the application is made was committed,—
     (i) a suspect request has been made to the suspect in respect of that offence, or a related offence; but
@@ -347,7 +347,7 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
   (a) the applicant shall serve notice of the application on—
     (i) the respondent; and
     (ii) a parent or other person having the care of the respondent; and
-    (iii) where a lay advocate is for the time being appointed in respect of the respondent under section 326 of the Children, Young Persons, and Their Families Act 1989, that lay advocate; and
+    (iii) where a lay advocate is for the time being appointed in respect of the respondent under section 326 of the Oranga Tamariki Act 1989, that lay advocate; and
   (b) the following persons are entitled to appear and to adduce evidence at the hearing of the application:
     (i) the applicant:
     (ii) the respondent:
@@ -377,7 +377,7 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
 (2) Where a Judge appoints a lawyer under subsection (1), the Judge shall, so far as practicable, appoint a lawyer who is, by reason of personality, cultural background, training, and experience, suitably qualified to represent the respondent.
 (3) Where,—the Judge shall, where possible, appoint that lawyer under this section to represent the respondent.
   (a) pursuant to subsection (1), a Judge is required to appoint a lawyer to represent a respondent in any proceedings; and
-  (b) a lawyer has been appointed, pursuant to section 323 of the Children, Young Persons, and Their Families Act 1989, to represent the respondent in any proceedings,—
+  (b) a lawyer has been appointed, pursuant to section 323 of the Oranga Tamariki Act 1989, to represent the respondent in any proceedings,—
 
 ### 22 Further provisions relating to appointment of lawyer for respondent
 (1) A lawyer appointed pursuant to section 21 to represent a respondent in any proceedings on an application made under section 18 shall have, in relation to the representation of that respondent in those proceedings, the same rights, powers, duties, privileges, and immunities that the lawyer would have had if he or she had not been appointed pursuant to section 21 but had been retained by that respondent to provide legal representation.
@@ -394,7 +394,7 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
       (A) that is alleged to have been committed when the respondent was aged 12 or 13 years; and
       (B) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years; or
     (iii) an offence (other than murder or manslaughter)—
-      (A) that is alleged to have been committed when the respondent was aged 12 or 13 years, and was for the purposes of section 272(1)﻿(c) of the Children, Young Persons, and Their Families Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
+      (A) that is alleged to have been committed when the respondent was aged 12 or 13 years, and was for the purposes of section 272(1)﻿(c) of the Oranga Tamariki Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
       (B) for which the maximum penalty available is or includes imprisonment for at least 10 years but less than 14 years); and
   (c) where the respondent was of or over the age of 14 years at the time the offence in relation to which the application is made was committed,—
     (i) a suspect request has been made to the respondent in respect of that offence, or a related offence; and
@@ -463,11 +463,11 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
 **Authority to obtain buccal sample from suspect**
 
 ### 24C Authority to obtain buccal sample from suspect
-(1) In a criminal investigation in respect of an offence committed or believed to have been committed by a suspect who is a child or was a child at the time the offence was committed and for which, in accordance with section 272 of the Children, Young Persons, and Their Families Act 1989, that suspect may not be lawfully prosecuted under the Criminal Procedure Act 2011, a buccal sample may be taken from that suspect, for the purposes of the investigation, on behalf of any constable, only if—
+(1) In a criminal investigation in respect of an offence committed or believed to have been committed by a suspect who is a child or was a child at the time the offence was committed and for which, in accordance with section 272 of the Oranga Tamariki Act 1989, that suspect may not be lawfully prosecuted under the Criminal Procedure Act 2011, a buccal sample may be taken from that suspect, for the purposes of the investigation, on behalf of any constable, only if—
   (a) both the suspect and a parent of the suspect have consented to the taking of a buccal sample under section 24G; and
   (b) the sample is taken in accordance with the procedures set out in Part 4.
 (2) This section is subject to section 72.
-(3) Every reference in this Part to an offence for which a suspect who is or was a child at the time the offence was committed may not be lawfully prosecuted is a reference to an offence for which, in accordance with section 272 of the Children, Young Persons, and Their Families Act 1989, that suspect may not be lawfully prosecuted under the Criminal Procedure Act 2011.
+(3) Every reference in this Part to an offence for which a suspect who is or was a child at the time the offence was committed may not be lawfully prosecuted is a reference to an offence for which, in accordance with section 272 of the Oranga Tamariki Act 1989, that suspect may not be lawfully prosecuted under the Criminal Procedure Act 2011.
 
 **Obtaining buccal sample from suspect**
 
@@ -476,7 +476,7 @@ A constable may request that a suspect give a buccal sample (being a Part 2A req
   (a) there is good cause to suspect that the suspect has committed or may have committed an offence for which the suspect may not lawfully be prosecuted (because the suspect is a child or was a child at the time the offence was committed); and
   (b) the suspect—
     (i) is under the age of 17 years; and
-    (ii) is a person in relation to whom an application for a declaration for care or protection may be made on the ground set out in section 14(1)﻿(e) of the Children, Young Persons, and Their Families Act 1989 if the suspect’s involvement in the offence tends to be confirmed by the analysis of a buccal sample; and
+    (ii) is a person in relation to whom an application for a declaration for care or protection may be made on the ground set out in section 14(1)﻿(e) of the Oranga Tamariki Act 1989 if the suspect’s involvement in the offence tends to be confirmed by the analysis of a buccal sample; and
   (c) a constable has reasonable grounds to believe that the analysis of a buccal sample from the suspect would tend to confirm or disprove the suspect’s involvement in the commission of the offence.
 
 ### 24E Police obligations if Part 2A request made
@@ -492,7 +492,7 @@ If a constable makes a Part 2A request, the Police must—
     (vi) that if the suspect or a parent of the suspect consents to the taking of the buccal sample, he or she may, at any time before the buccal sample is taken, withdraw his or her consent to it being taken; and
     (vii) that the suspect and any parent of the suspect may wish to consult a lawyer before deciding whether or not to consent to the buccal sample being taken; and
     (viii) that the suspect or any parent of the suspect is able to consult with any person (not being a constable) that he or she wishes before deciding whether or not to consent to the buccal sample being taken; and
-    (ix) that the sample will be analysed and may, if it tends to confirm the suspect’s involvement in the offence, be used to make an application for a declaration that the suspect is in need of care or protection on the ground set out in section 14(1)﻿(e) of the Children, Young Persons, and Their Families Act 1989, but may not be used to prosecute the suspect for any offence.
+    (ix) that the sample will be analysed and may, if it tends to confirm the suspect’s involvement in the offence, be used to make an application for a declaration that the suspect is in need of care or protection on the ground set out in section 14(1)﻿(e) of the Oranga Tamariki Act 1989, but may not be used to prosecute the suspect for any offence.
 
 ### 24F Form and content of notice
 A notice given under section 24E(a) must—
@@ -506,7 +506,7 @@ A notice given under section 24E(a) must—
     (vi) a statement that the suspect and any parent of the suspect may wish to consult a lawyer before consenting to the taking of the buccal sample:
     (vii) a statement that the suspect or any parent of the suspect is able to consult with any person (not being a constable) that he or she wishes before consenting to the buccal sample being taken:
     (viii) a statement that, if the suspect or a parent of the suspect consents to the taking of the sample, he or she may, at any time before the buccal sample is taken, withdraw his or her consent to it being taken:
-    (ix) a statement that the sample will be analysed and may, if it tends to confirm the suspect’s involvement in the offence, be used to make an application for a declaration that the suspect is in need of care or protection on the ground set out in section 14(1)﻿(e) of the Children, Young Persons, and Their Families Act 1989, but may not be used to prosecute the suspect for any offence:
+    (ix) a statement that the sample will be analysed and may, if it tends to confirm the suspect’s involvement in the offence, be used to make an application for a declaration that the suspect is in need of care or protection on the ground set out in section 14(1)﻿(e) of the Oranga Tamariki Act 1989, but may not be used to prosecute the suspect for any offence:
     (x) a summary of section 49A relating to who may take the buccal sample:
     (xi) a statement that a buccal sample may be taken in the presence of a parent:
     (xii) a summary of section 52A relating to who must be present if the suspect takes a buccal sample himself or herself:
@@ -632,9 +632,9 @@ Subject to sections 60, 60A, and 62, the following information may be stored on 
   (ab) any DNA profile derived from a bodily sample taken from a person under Part 2B if—
     (i) that person is convicted of the triggering offence, or of a related imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule (unless the conviction is subsequently quashed); and
     (ii) the offence of which the person is convicted is an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule; and
-    (iii) in the case of a person who was a young person on the date of the offence, a sentence of imprisonment or of a non-custodial nature is imposed for the offence or the Youth Court makes an order under section 283 of the Children, Young Persons, and Their Families Act 1989:
+    (iii) in the case of a person who was a young person on the date of the offence, a sentence of imprisonment or of a non-custodial nature is imposed for the offence or the Youth Court makes an order under section 283 of the Oranga Tamariki Act 1989:
   (ac) any DNA profile derived from a bodily sample taken from a young person under Part 2B if—
-    (i) the Youth Court made an order under section 282 of the Children, Young Persons, and Their Families Act 1989 discharging the charge relating to the offence after finding that the offence was proved; and
+    (i) the Youth Court made an order under section 282 of the Oranga Tamariki Act 1989 discharging the charge relating to the offence after finding that the offence was proved; and
     (ii) the offence in relation to which the order was made is a relevant offence, or a related offence:
   (b) subject to section 36, any DNA profile derived from a bodily sample taken from any person pursuant to this Part.
 
@@ -643,12 +643,12 @@ Subject to sections 60, 60A, and 62, the following information may be stored on 
 (2) In the case of a person's DNA profile stored under section 26(a) or (ab), the storage of the profile is subject to subsection (4) if—
   (a) the person was a young person on the date of the offence; and
   (b) any of the following applies:
-    (i) the Youth Court made an order under 1 or more of paragraphs (a) to (n) of section 283 of the Children, Young Persons, and Their Families Act 1989; or
-    (ii) the Youth Court made an order under section 283(o) of the Children, Young Persons, and Their Families Act 1989 but no court imposed a sentence of imprisonment for the offence; or
+    (i) the Youth Court made an order under 1 or more of paragraphs (a) to (n) of section 283 of the Oranga Tamariki Act 1989; or
+    (ii) the Youth Court made an order under section 283(o) of the Oranga Tamariki Act 1989 but no court imposed a sentence of imprisonment for the offence; or
     (iii) the District Court (rather than the Youth Court) convicted the person of the offence but did not impose a sentence of imprisonment.
 (3) In the case of a profile stored under section 26(ac), the storage of the profile is subject to subsection (4) if—
   (a) the person was a young person on the date of the offence; and
-  (b) the Youth Court made an order under section 282 of the Children, Young Persons, and Their Families Act 1989 discharging the charge relating to the offence after finding that the offence was proved.
+  (b) the Youth Court made an order under section 282 of the Oranga Tamariki Act 1989 discharging the charge relating to the offence after finding that the offence was proved.
 (4) The retention periods and effect of certain subsequent offences are as follows:The following table is small in size and has 3 columns. Column 1 is headed Sentence or order. Column 2 is headed Retention period for order or conviction. Column 3 is headed Retention period for subsequent offence.Sentence or orderRetention period for order or convictionRetention period for subsequent offenceSection 26(a) or (ab): section 283(a) to (n) order made by the Youth Court10 years after date of that section 283 orderIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(a) or (ab): section 283(o) order made by the Youth Court but no imprisonment10 years after date of section 283(o) orderIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(a) or (ab): convicted by the District Court but no imprisonment10 years after date of convictionIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(ac): section 282 order made after offence proved4 years after date of section 282 orderIf a section 283 order is subsequently made during that 4-year period, a further retention period of 10 years applies and runs concurrently with the 4-year period.If the person is subsequently convicted by the District Court without imprisonment during that 4-year period, a further retention period of 10 years applies and runs concurrently with the 4-year period.If another section 282 order is subsequently made during that 4-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the first 4-year period.
 (5) A person's DNA profile stored under section 26 may, unless otherwise provided by this Act, be stored indefinitely on a DNA profile databank if any of the following apply:
   (a) if the profile is stored in relation to an offence and a court imposes a sentence of imprisonment for the offence:
@@ -665,7 +665,7 @@ Subject to sections 60, 60A, and 62, the following information may be stored on 
 (1) This section applies to a person if,—
   (a) before the commencement of this section,—
     (i) a DNA profile of the person was taken and stored on a DNA databank under Part 2 when the person was a young person; and
-    (ii) the Youth Court made an order in relation to the person under section 282 or 283 of the Children, Young Persons, and Their Families Act 1989 in relation to an offence but no court imposed a sentence of imprisonment for the offence; and
+    (ii) the Youth Court made an order in relation to the person under section 282 or 283 of the Oranga Tamariki Act 1989 in relation to an offence but no court imposed a sentence of imprisonment for the offence; and
   (b) within 10 years after the date of that order, the person is not convicted of an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule.
 (2) The person’s DNA profile must be removed from the DNA databank and destroyed if the person applies in writing to the Commissioner requesting the removal of the profile.
 
@@ -936,7 +936,7 @@ Where subsection (4)﻿(c) or subsection (6)﻿(b) of section 37 applies in resp
 (2) The Registrar of the court in which the notice of hearing is filed must advise the following persons of the time and place for the hearing:
   (a) the person to whom the notice relates:
   (b) if the person to whom the notice relates is under the age of 17 years, a parent or other person having the care of that person:
-  (c) if a lay advocate has been appointed under section 326 of the Children, Young Persons, and Their Families Act 1989 in respect of the person to whom the notice relates, that lay advocate:
+  (c) if a lay advocate has been appointed under section 326 of the Oranga Tamariki Act 1989 in respect of the person to whom the notice relates, that lay advocate:
   (d) the constable in charge of the Police station where the constable who filed the notice of hearing is stationed.
 
 ### 41C Appearance at databank compulsion notice hearing
@@ -947,7 +947,7 @@ Where subsection (4)﻿(c) or subsection (6)﻿(b) of section 37 applies in resp
 (2) If a person to whom a databank compulsion notice relates is under the age of 17 years, the following persons, as well as the persons listed in subsection (1), are entitled to appear and to adduce evidence at the databank compulsion notice hearing:
   (a) any person who is a parent or other person having the care of the person to whom the databank compulsion notice relates:
   (b) any lawyer representing a person referred to in paragraph (a):
-  (c) a lay advocate of the person to whom the databank compulsion notice relates, if any has been appointed under section 326 of the Children, Young Persons, and Their Families Act 1989:
+  (c) a lay advocate of the person to whom the databank compulsion notice relates, if any has been appointed under section 326 of the Oranga Tamariki Act 1989:
   (d) with the leave of the Judge, any other person.
 (3) The provisions of sections 21 and 22 (which relate to the appointment of a lawyer to represent a respondent who is under the age of 17 years) apply, with any necessary modifications, to a databank compulsion notice hearing if the person to whom the hearing relates is under the age of 17 years.
 
@@ -1083,7 +1083,7 @@ Where subsection (4)﻿(c) or subsection (6)﻿(b) of section 37 applies in resp
 ### 46 Person in custody to attend to give bodily sample
 (1) This section applies to a person in respect of whom a compulsion order has been made, or a databank compulsion notice has been issued, if that person is detained—
   (a) in the custody of the Police; or
-  (b) in the custody of the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989; or
+  (b) in the custody of the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989; or
   (c) in custody in any prison; or
   (d) in a hospital under the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
   (e) in a facility under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
@@ -1344,7 +1344,7 @@ Subject to any regulations made under this Act, on the taking of a fingerprick s
     (v) on any person or thing reasonably believed to have been associated with the commission of the offence; and
   (b) a bodily sample is taken pursuant to Part 2 from any person in respect of that offence; and
   (c) the person from whom the bodily sample is taken is charged with that offence, or a related offence,—
-(2) Subsection (1) applies with all necessary modifications to a buccal sample taken as a result of a Part 2A request if an application is made for a declaration that the suspect from whom the buccal sample is taken is in need of care or protection on the ground set out in section 14(1)﻿(e) of the Children, Young Persons, and Their Families Act 1989.
+(2) Subsection (1) applies with all necessary modifications to a buccal sample taken as a result of a Part 2A request if an application is made for a declaration that the suspect from whom the buccal sample is taken is in need of care or protection on the ground set out in section 14(1)﻿(e) of the Oranga Tamariki Act 1989.
 
 ### 58 Analysis of bodily sample
 If any bodily sample taken pursuant to this Act is analysed on behalf of any constable, that sample shall be analysed in accordance with the prescribed procedure (if any).
@@ -1424,8 +1424,8 @@ If any bodily sample taken pursuant to this Act is analysed on behalf of any con
 ### 61A Disposal of buccal samples and identifying information obtained under Part 2A
 (1) The Commissioner must ensure that a buccal sample taken from a suspect as a result of a Part 2A request, and the information referred to in subsection (2), is destroyed,—
   (a) in a case where the results of analysis of the buccal sample do not tend to confirm the suspect’s involvement in the offence in relation to which the buccal sample was taken, as soon as practicable after the Police receive those results; or
-  (b) in a case where the results of analysis of the buccal sample tend to confirm the suspect’s involvement in the offence in relation to which the buccal sample was taken but an application is not made for a declaration that the suspect is in need of care or protection on the ground set out in section 14(1)﻿(e) of the Children, Young Persons, and Their Families Act 1989, not later than 60 days after the Police receive the results of analysis of the buccal sample; or
-  (c) in the case where the results of analysis of the buccal sample tend to confirm the suspect’s involvement in the offence in relation to which the buccal sample was taken and an application has been made for a declaration that the suspect is in need of care or protection on the ground set out in section 14(1)﻿(e) of the Children, Young Persons, and Their Families Act 1989, as soon as practicable after a decision is made by the Family Court in relation to that application (whether or not a declaration is made).
+  (b) in a case where the results of analysis of the buccal sample tend to confirm the suspect’s involvement in the offence in relation to which the buccal sample was taken but an application is not made for a declaration that the suspect is in need of care or protection on the ground set out in section 14(1)﻿(e) of the Oranga Tamariki Act 1989, not later than 60 days after the Police receive the results of analysis of the buccal sample; or
+  (c) in the case where the results of analysis of the buccal sample tend to confirm the suspect’s involvement in the offence in relation to which the buccal sample was taken and an application has been made for a declaration that the suspect is in need of care or protection on the ground set out in section 14(1)﻿(e) of the Oranga Tamariki Act 1989, as soon as practicable after a decision is made by the Family Court in relation to that application (whether or not a declaration is made).
 (2) The information is—
   (a) every record of any analysis of the buccal sample carried out on behalf of any constable; and
   (b) every record to the extent that it contains—
@@ -1528,7 +1528,7 @@ Notwithstanding any other enactment or rule of law, no person shall be capable o
 
 ### 75 Fees and expenses of lay advocate
 Where, pursuant to section 18(3)﻿(b)﻿(vi) or section 41C(2)﻿(c), any person appears at the hearing of an application for a juvenile compulsion order or at a databank compulsion notice hearing for a person under the age of 17 years,—
-  (a) the fees and expenses of that person in connection with that appearance shall be deemed, for the purposes of section 328A of the Children, Young Persons, and Their Families Act 1989, to be fees and expenses of that person in his or her capacity as a lay advocate; and
+  (a) the fees and expenses of that person in connection with that appearance shall be deemed, for the purposes of section 328A of the Oranga Tamariki Act 1989, to be fees and expenses of that person in his or her capacity as a lay advocate; and
   (b) the provisions of that section of that Act shall apply in relation to those fees and expenses accordingly.
 
 ### 76 Information relating to bodily samples to be included in annual report of Police
