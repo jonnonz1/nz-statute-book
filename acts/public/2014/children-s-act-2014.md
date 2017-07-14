@@ -1,5 +1,5 @@
 # Vulnerable Children Act 2014
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Vulnerable Children Act 2014.
@@ -26,7 +26,7 @@ The purpose of this Part is to—
     (a) is under the age of 18 years; and
     (b) is not married or in a civil union
   - **children’s agencies** mean those departments of State or instruments of the Crown that are, with the authority of the Prime Minister, for the time being responsible (alone, or with 1 or more other departments or instruments) for the administration of all or any provisions of 1 or more of the following Acts:
-    (a) Children, Young Persons, and Their Families Act 1989:
+    (a) Oranga Tamariki Act 1989:
     (b) Education Act 1989:
     (c) New Zealand Public Health and Disability Act 2000:
     (d) Policing Act 2008:
@@ -55,7 +55,7 @@ In this Part, improving the well-being of vulnerable children, in relation to th
 (3) An instrument recording priorities set or changed under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012, and does not have to be presented to the House of Representatives under section 41 of that Act.
 
 ### 8 Preparation of vulnerable children’s plan
-(1) The chief executives of the children’s agencies must after priorities are set or changed under section 7 work together to do both of the following no later than a date specified (under this subsection and, if applicable, section 12(1)﻿(b)) by the responsible Minister:
+(1) The chief executives of the children’s agencies must after priorities are set or changed under section 7 work together, under the co-ordination of the chief executive of the department responsible for the administration of the Oranga Tamariki Act 1989, to do both of the following no later than a date specified (under this subsection and, if applicable, section 12(1)﻿(b)) by the responsible Minister:
   (a) develop a draft vulnerable children’s plan; and
   (b) submit it to the responsible Minister for approval.
 (2) The responsible Minister must, after consulting the children’s Ministers about the draft plan,—
@@ -67,7 +67,17 @@ In this Part, improving the well-being of vulnerable children, in relation to th
   (b) by 1 or more other means of publication (for example, on Internet sites maintained by or on behalf of children's agencies) each of which has been approved by the responsible Minister and notified in the Gazette.
 
 ### 9 Content of vulnerable children’s plan
-The vulnerable children’s plan (and any draft of it) must set out steps that will be taken by chief executives of the children’s agencies to work together to achieve the Government’s priorities for improving the well-being of vulnerable children.
+(1) The vulnerable children’s plan (and any draft of it) must set out steps that will be taken by chief executives of the children’s agencies to work together to achieve the Government’s priorities for improving the well-being of vulnerable children.
+(2) Without limiting subsection (1), the vulnerable children’s plan (and any draft of it) must—
+  (a) set out the outcomes aligned with the Government’s priorities to be achieved in relation to children and young persons who have early risk factors for future involvement in the statutory care, protection, and youth justice systems under the Oranga Tamariki Act 1989:
+  (b) set out the steps that the chief executives of the children’s agencies will take to achieve those outcomes:
+  (c) apply to children and young persons receiving assistance or in care or receiving transition support from the department (irrespective of whether those persons are in need of care or protection) under Parts 2 and 7 of the Oranga Tamariki Act 1989 and to children and young persons who are subject to proceedings or orders under Part 4 of that Act (which relates to youth justice):
+  (d) specify the steps that the chief executives of the children’s agencies will take to improve the well-being of children and young persons referred to in paragraph (c), including—
+    (i) participation by the children’s agencies (and any contracted or related service providers) in assessment, planning, and decision making in relation to those children and young persons:
+    (ii) the provision of services (including any contracted or related services where appropriate) to those children and young persons:
+  (e) apply also to any other persons aged less than 21 years who have been in care under the Oranga Tamariki Act 1989 or who are eligible for support under section 386A of that Act:
+  (f) set out the steps that the chief executives of the children’s agencies will take to improve the well-being of persons aged under 21 years referred to in paragraph (e).
+(3) In this section, in care has the same meaning as in section 7(4) of the Oranga Tamariki Act 1989.
 
 ### 10 Duration of vulnerable children’s plan
 The vulnerable children’s plan—
@@ -76,7 +86,7 @@ The vulnerable children’s plan—
 
 ### 11 Effect of vulnerable children’s plan
 (1) Once the vulnerable children’s plan has come into effect, the chief executive of each children’s agency must—
-  (a) report (jointly with each of the other chief executives of the children’s agencies) to the responsible Minister, by a date in each year specified by the responsible Minister, on whether the agency has, or on the extent to which the agency has, before that date (and after the periods covered by all earlier reports, if any, under this paragraph), implemented the plan while it has been in force; and
+  (a) report (jointly with each of the other chief executives of the children’s agencies) to the responsible Minister, by a date in each year specified by the responsible Minister, on whether the agency has, or on the extent to which the agency has, before that date (and after the periods covered by all earlier reports, if any, under this paragraph), implemented the plan while it has been in force and the progress that has been made in achieving the outcomes set out in the plan; and
   (b) ensure that a copy of every implementation report required by paragraph (a) is included in the agency's next annual report (under section 43 of the Public Finance Act 1989 or another enactment) and is available on an Internet site maintained by or on behalf of the agency.
 (2) The vulnerable children’s plan—
   (a) does not—
@@ -123,11 +133,7 @@ The purpose of this Part is to require child protection policies (that must cont
 ### 15 Interpretation
 (1) In this Part, unless the context otherwise requires,—
   - **board** , in relation to a publicly-owned health and disability organisation that is a DHB, means the members of the board of that organisation (who number not less than the required quorum) acting together as a board
-  - **child** means a person who is—
-    (a) a child as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989 (because the person is a boy or girl under the age of 14 years); or
-    (b) a young person as defined in paragraphs (a) and (e) of the definition of young person in section 2(1) of the Children, Young Persons, and Their Families Act 1989 (because the person is,—
-      (i) for the purposes of Parts 2 to 3A of that Act, a person of or over the age of 14 years but under the age of 18 years; and
-      (ii) not a person who is or has been married or in a civil union)
+  - **child** means a person who is under the age of 18 years
   - **children's services** means services that are any of the following:
     (a) services provided to 1 or more children:
     (b) services to adults in respect of 1 or more children:
@@ -197,7 +203,7 @@ Every school board must—
 ### 19 Content of child protection policy
 Every child protection policy required by this Part must—
   (a) apply to the provision of children's services by the service, board, or independent person that adopts the policy; and
-  (b) be written, and contain provisions (whether or not it contains provisions on any other matter or matters) on the identification and reporting of child abuse and neglect in accordance with section 15 of the Children, Young Persons, and Their Families Act 1989.
+  (b) be written, and contain provisions (whether or not it contains provisions on any other matter or matters) on the identification and reporting of child abuse and neglect in accordance with section 15 of the Oranga Tamariki Act 1989.
 
 ### 20 Effect of child protection policy
 A child protection policy—
@@ -234,7 +240,8 @@ The purpose of this Part is to reduce the risk of harm to children by requiring 
     (a) the Ministry of Social Development:
     (b) the Ministry of Health:
     (c) the Ministry of Education:
-    (d) the Ministry of Justice
+    (d) the Ministry of Justice:
+    (e) the department responsible for the administration of the Oranga Tamariki Act 1989
   - **local authority** means a local authority, as defined in section 2(1) of the Local Government Official Information and Meetings Act 1987, to which Parts 1 to 6 of that Act apply
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **non-core worker** means a children's worker who is not a core worker
