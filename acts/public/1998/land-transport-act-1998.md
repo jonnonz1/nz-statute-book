@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-07-14_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -2415,7 +2415,7 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 
 ### 91A Interpretation
 In this section and in sections 91C to 91H, unless the context otherwise requires,—
-  - **defendant** means the person who is required to pay a traffic fine, and includes a young person within the meaning of the Children, Young Persons, and Their Families Act 1989
+  - **defendant** means the person who is required to pay a traffic fine, and includes a young person within the meaning of the Oranga Tamariki Act 1989
   - **resolved** , in relation to a defendant's obligation to pay a traffic fine, has the same meaning as in section 79 of the Summary Proceedings Act 1957
   - **served personally** , in relation to a warning notice or a driver licence stop order, means served in the way described in section 91B(1)﻿(a)
   - **traffic fine** —
