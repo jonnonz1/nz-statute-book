@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -1254,7 +1254,7 @@ There is no presumption of law that a person is incapable of sexual connection b
   - **aunt** , in relation to a person, includes a half-sister of one of the person's parents
   - **foster parent** includes a former foster parent
   - **guardian** —
-    (a) means guardian by virtue of the Guardianship Act 1968 or the Children, Young Persons, and Their Families Act 1989; and
+    (a) means guardian by virtue of the Guardianship Act 1968 or the Oranga Tamariki Act 1989; and
     (b) includes a former guardian
   - **step-parent** includes a former step-parent
   - **uncle** , in relation to a person, includes a half-brother of one of the person's parents.
