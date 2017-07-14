@@ -1,5 +1,5 @@
 # District Court Act 2016
-_Consolidation as at 2016-10-17_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the District Court Act 2016.
@@ -106,7 +106,7 @@ The court must have a seal, and each Registrar of the court is responsible for t
 The court has the following divisions:
   (a) a general division, to exercise the ordinary civil and criminal jurisdiction of the court, including common law and equitable jurisdiction and admiralty jurisdiction:
   (b) a division known as the Family Court, to exercise the jurisdiction conferred by section 11 of the Family Court Act 1980:
-  (c) a division known as the Youth Court, to exercise the jurisdiction conferred by section 272 of the Children, Young Persons, and Their Families Act 1989:
+  (c) a division known as the Youth Court, to exercise the jurisdiction conferred by section 272 of the Oranga Tamariki Act 1989:
   (d) a division known as the Disputes Tribunal, to exercise the jurisdiction conferred by section 10 of the Disputes Tribunal Act 1988 and a provision of any other enactment.
 
 **Court offices**
@@ -175,7 +175,7 @@ A person may be appointed as a Judge if—
 ### 17 Restrictions on Judges
 (1) A Judge must not practise as a lawyer.
 (2) A Judge must not undertake any other paid employment or hold any other office (whether paid or not) without the approval of the Chief District Court Judge.
-(3) However, subsection (1) does not apply to another office if an enactment permits or requires the office to be held by a Judge.
+(3) However, subsection (2) does not apply to another office if an enactment permits or requires the office to be held by a Judge.
 (4) The Chief District Court Judge may approve other employment or any other office only if he or she is satisfied that the other employment or office is consistent with judicial office.
 
 ### 18 Protocol relating to activities of Judges
@@ -193,7 +193,7 @@ A person may be appointed as a Judge if—
 (2) A Judge exercises the jurisdiction of the court by—
   (a) hearing and determining proceedings in the court; and
   (b) exercising the powers conferred by this Act or any other enactment on the court or Judges of the court.
-(3) Nothing in subsection (1) limits section 436 of the Children, Young Persons, and Their Families Act 1989.
+(3) Nothing in subsection (1) limits section 436 of the Oranga Tamariki Act 1989.
 
 ### 20 Exercise of jurisdiction
 The jurisdiction of the court may be exercised by—
@@ -283,7 +283,7 @@ A Judge may resign from office at any time by written notice to the Attorney-Gen
 (1) The Governor-General may, on the advice of the Attorney-General, appoint 1 or more acting Judges.
 (2) Only a former Judge under the age of 75 years is eligible for appointment as an acting Judge.
 (3) Before advising the Governor-General to make an appointment under subsection (1), the Attorney-General must have received a certificate signed by the Chief District Court Judge certifying that the appointment is necessary for the proper conduct of the court.
-(4) Despite section 435 of the Children, Young Persons, and Their Families Act 1989, any person appointed under subsection (1) may at the same time or at any subsequent time during the term of that person’s appointment be designated as a Youth Court Judge, and the designation takes effect during any period when and in any place where that person is entitled to act as a Judge.
+(4) Despite section 435 of the Oranga Tamariki Act 1989, any person appointed under subsection (1) may at the same time or at any subsequent time during the term of that person’s appointment be designated as a Youth Court Judge, and the designation takes effect during any period when and in any place where that person is entitled to act as a Judge.
 (5) In this section, former Judge means a person who has retired or resigned from holding office as a District Court Judge.
 
 ### 32 Term of appointment of acting Judge
@@ -370,7 +370,7 @@ A Community Magistrate must not—
   (e) be an officer of the High Court or of the District Court; or
   (f) be a party to a prison management contract entered into under section 198(1) of the Corrections Act 2004 or to a security contract entered into under section 166 of the Corrections Act 2004; or
   (g) be a security officer as defined in section 3(1) of the Corrections Act 2004; or
-  (h) be a social worker as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989.
+  (h) be a social worker as defined in section 2(1) of the Oranga Tamariki Act 1989.
 
 **Immunity for Community Magistrates**
 
