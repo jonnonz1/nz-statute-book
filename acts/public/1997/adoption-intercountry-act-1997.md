@@ -1,5 +1,5 @@
 # Adoption (Intercountry) Act 1997
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 > An Act—ato implement in the law of New Zealand the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption; andbto provide for the approval of organisations as accredited bodies to whom functions may be delegated under the Convention; andcto make other provision for intercountry adoption and other matters related to adoption
 
@@ -12,7 +12,7 @@ In this Act, unless the context otherwise requires,—
   - **chief executive** means the chief executive of the department
   - **Contracting State** means, subject to Article 45 of the Convention, a country for which the Convention is for the time being in force as between that country and New Zealand
   - **Convention** means the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption signed at The Hague on 29 May 1993, a copy of the English text of which is set out in the Schedule
-  - **department** means the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989
+  - **department** means the department for the time being responsible for the administration of the Oranga Tamariki Act 1989
   - **New Zealand accredited body** means an organisation approved as an accredited body under Part 2 and the Convention
   - **New Zealand Central Authority** has the meaning given by section 5
   - **organisation** means any body or organisation, whether incorporated or unincorporated.
