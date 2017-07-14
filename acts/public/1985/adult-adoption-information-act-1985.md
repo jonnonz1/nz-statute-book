@@ -1,5 +1,5 @@
 # Adult Adoption Information Act 1985
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2017-07-14_
 
 > An Act to provide for greater access to information relating to adoptions and to the parties to adoptions by adult adopted persons and their birth parents, and for other related matters
 
@@ -20,7 +20,7 @@ In this Act, unless the context otherwise requires,—
   - **approved person** means a person for the time being approved under section 12(1); and includes a person whose name is for the time being notified under section 12(2)
   - **birth parent** , in relation to any other person, means a person who is that other person's biological mother or father
   - **chief executive** means the chief executive of the Department
-  - **Department** means the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989
+  - **Department** means the department for the time being responsible for the administration of the Oranga Tamariki Act 1989
   - **identifying information** , in relation to any person, means that person's name or address; and includes any information that is likely to enable any other person to ascertain that person's name or address
   - **original birth certificate** , in relation to any person, means a birth certificate (within the meaning of the Births, Deaths, Marriages, and Relationships Registration Act 1995) containing information recorded under that Act or a former Act (within the meaning of that Act) relating to the person's birth, bearing on its face the words ISSUED FOR THE PURPOSES OF THE ADULT ADOPTION INFORMATION ACT 1985; and includes any such certificate from which there have been omitted, in accordance with this Act, any details relating to either or both of the person's birth parents
   - **Registrar-General** means the Registrar-General appointed under the Births, Deaths, Marriages, and Relationships Registration Act 1995
@@ -56,8 +56,8 @@ In this Act, unless the context otherwise requires,—
   (b) the Registrar-General is satisfied that that parent is dead,—
 
 ### 5 Certificates for persons adopted before commencement of Act
-(1) The Registrar-General shall inform every applicant to whom this subsection is applied by section 4(1)(b) of the existence, effect, and date of expiry of the endorsements concerned, and, notwithstanding section 63 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, shall send the applicant an original birth certificate from which there have been removed all details relating to the applicant's birth parents, and every reference to any surname registered for the applicant.
-(2) Notwithstanding section 63 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, but subject to subsection (3), the following provisions shall apply to every application under section 4(1) made by an applicant to whom this subsection is applied by section 4(1)(c):
+(1) The Registrar-General shall inform every applicant to whom this subsection is applied by section 4(1)﻿(b) of the existence, effect, and date of expiry of the endorsements concerned, and, notwithstanding section 63 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, shall send the applicant an original birth certificate from which there have been removed all details relating to the applicant's birth parents, and every reference to any surname registered for the applicant.
+(2) Notwithstanding section 63 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, but subject to subsection (3), the following provisions shall apply to every application under section 4(1) made by an applicant to whom this subsection is applied by section 4(1)﻿(c):
   (a) the Registrar-General shall notify the applicant in writing,—
     (i) if the applicant lives within New Zealand, of the counselling available in the area in which the applicant lives, from social workers and approved persons and organisations; and
     (ii) that except where the applicant lives outside New Zealand, an original birth certificate will not be given to the applicant until the applicant has received counselling:
@@ -74,7 +74,7 @@ In this Act, unless the context otherwise requires,—
   (b) the Registrar-General is not satisfied that that parent is dead.
 
 ### 6 Certificates for persons adopted after commencement of Act
-Notwithstanding section 63 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, the following provisions shall apply to every application under section 4(1) by an applicant to whom this section is applied by section 4(1)(d):as the case requires; and the applicant shall be entitled to uplift it at any reasonable time.
+Notwithstanding section 63 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, the following provisions shall apply to every application under section 4(1) by an applicant to whom this section is applied by section 4(1)﻿(d):as the case requires; and the applicant shall be entitled to uplift it at any reasonable time.
   (a) the Registrar-General shall notify the applicant in writing—
     (i) of the counselling available in the area in which the applicant lives, from social workers and approved persons and organisations; and
     (ii) that if within 28 days the applicant notifies the Registrar-General in writing that the applicant desires counselling from a social worker or a specified approved person or organisation, an original birth certificate will be sent to the appropriate office of the Department or that person or organisation; and
@@ -137,7 +137,7 @@ Notwithstanding section 63 of the Births, Deaths, Marriages, and Relationships R
 
 ### 11 Access to information on medical grounds
 (1) For the purposes of this section,—
-  - **doctor** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **doctor** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **medical** includes psychiatric
   - **relative** , in relation to any other person, means a person who is by blood the grandparent, parent, child, grandchild, or (whether of the whole or half blood) brother, sister, or cousin, of that other person
   - **unknown relative** , in relation to any person, means a relative whose name and address are unknown to that person by virtue of the confidentiality attendant upon the adoption of that person, that relative, or some other person who is a relative of them both.
@@ -158,7 +158,7 @@ Notwithstanding section 63 of the Births, Deaths, Marriages, and Relationships R
 (2) Any approved organisation may from time to time notify the chief executive of the name of any member or employee authorised to act on behalf of that organisation; and may at any time notify the chief executive that the authority of that member or employee has been withdrawn.
 
 ### 12A Fees
-(1) Regulations made under section 13(1)(a) may prescribe fees for—
+(1) Regulations made under section 13(1)﻿(a) may prescribe fees for—
   (a) the making of any application or request under this Act to the Registrar-General, the chief executive, or a social worker; or
   (b) the approval of any person or organisation under section 12; or
   (c) the doing of any other act under this Act by the Registrar-General, the chief executive, or a social worker.
