@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2017-05-15_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -696,7 +696,7 @@ Sections 43 to 50 apply to every hearing of the Board concerning an offender who
   (d)
   (e) in the case of an offender currently detained in, or on leave from, a hospital, a report from the responsible clinician (or the most suitable other health professional to provide such a report) concerning the offender and any care programmes that the hospital has put, or intends to put, in place for the offender; and
   (ea) in the case of an offender currently detained in, or on leave from, a secure facility, a report from the compulsory care co-ordinator concerning the offender and the care and rehabilitation plan that has been, or is to be, put in place for the offender; and
-  (f) in the case of an offender currently detained in a social welfare residence (as described in section 11), a report from the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989.
+  (f) in the case of an offender currently detained in a social welfare residence (as described in section 11), a report from the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989.
 (2) The Board must take all reasonable steps to give notice to the following people that a hearing is pending:
   (a) the offender:
   (b) every victim of the offender:
@@ -1284,7 +1284,7 @@ Pre-cd sentences do not have non-parole periods under this Act and, except for t
   (c) any charge that the person faced at any time between his or her arrest and before conviction.
 (2) The types of detention that are pre-sentence detention are detention under an order made under section 24(2) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 and detention on remand pursuant to a court order—
   (a) in a prison (or in a Police station in accordance with section 35 of the Corrections Act 2004):
-  (b) in a residence established under section 364 of the Children, Young Persons, and Their Families Act 1989, or detention in Police custody under section 238(1)﻿(e) of that Act:
+  (b) in a residence established under section 364 of the Oranga Tamariki Act 1989, or detention in Police custody under section 238(1)﻿(e) of that Act:
   (c) in a hospital or secure facility under any of sections 23, 35, 38(2), and 44(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003:
   (d) in a hospital or secure facility pursuant to an order under—
     (i) section 171(2) or 184T(3) or (4) of the Summary Proceedings Act 1957; or
