@@ -1,5 +1,5 @@
 # Crimes of Torture Act 1989
-_Consolidation as at 2014-12-12_
+_Consolidation as at 2017-07-14_
 
 > Title
 
@@ -113,7 +113,7 @@ In this Part, unless the context otherwise requires,—
     (c) a court cell:
     (d) a hospital:
     (e) a secure facility as defined in section 9(2) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
-    (f) a residence established under section 364 of the Children, Young Persons, and Their Families Act 1989:
+    (f) a residence established under section 364 of the Oranga Tamariki Act 1989:
     (fa) a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014:
     (g) premises approved under the Immigration Act 2009:
     (h) a service penal establishment as defined in section 2 of the Armed Forces Discipline Act 1971
@@ -254,7 +254,7 @@ The Minister may, at any time, by notice in the Gazette, designate a Central Nat
 (2) Despite anything in subsection (1), such information may be disclosed for the purpose of—
   (a) enabling New Zealand to fulfil its obligations under the Optional Protocol:
   (b) giving effect to this Act.
-(3) Nothing in this Act prevents a National Preventive Mechanism or the Central National Preventive Mechanism from making public statements in relation to any matter contained in a report presented to the House of Representatives under section 27(c)(i) or section 36(1) that the National Preventive Mechanism or the Central National Preventive Mechanism considers is in the public interest.
+(3) Nothing in this Act prevents a National Preventive Mechanism or the Central National Preventive Mechanism from making public statements in relation to any matter contained in a report presented to the House of Representatives under section 27(c)﻿(i) or section 36(1) that the National Preventive Mechanism or the Central National Preventive Mechanism considers is in the public interest.
 (4) No information disclosed under subsection (2) or public statement made under subsection (3) may include information about an identifiable individual without that individual's consent.
 
 ### 34 Powers of National Preventive Mechanism
@@ -264,8 +264,8 @@ Where a National Preventive Mechanism has powers in relation to the exercise of 
 Where a National Preventive Mechanism has protections, privileges, and immunities in relation to the exercise of any powers and functions under any other Act, the National Preventive Mechanism has, in relation to the exercise of its functions under this Part, the same protections, privileges, and immunities.
 
 ### 36 Publication of National Preventive Mechanism report
-(1) As soon as practicable after receiving a report under section 27(c)(ii) the Minister must present a copy of that report to the House of Representatives.
-(2) As soon as practicable after a report of a National Preventive Mechanism has been presented to the House of Representatives under subsection (1) or section 27(c)(i), the National Preventive Mechanism must—
+(1) As soon as practicable after receiving a report under section 27(c)﻿(ii) the Minister must present a copy of that report to the House of Representatives.
+(2) As soon as practicable after a report of a National Preventive Mechanism has been presented to the House of Representatives under subsection (1) or section 27(c)﻿(i), the National Preventive Mechanism must—
   (a) publicly notify where copies of the report may be inspected and purchased; and
   (b) make copies of the report available to the public at the place set out in the public notification, on request, for inspection free of charge and for purchase at a reasonable cost.
 
