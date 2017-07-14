@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -4558,7 +4558,7 @@ The chief executive may approve any premises for the purpose of detention under 
 ### 331 Form of custody of persons detained without warrant overnight
 Every person who is placed in custody under section 313 and is to be detained overnight must be detained,—
   (a) in the case of a person under 18 years of age who is not married or in a civil union, in—
-    (i) a residence (within the meaning of section 2(1) of the Children, Young Persons, and Their Families Act 1989) or other premises under the control of, or approved by, the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989; or
+    (i) a residence (within the meaning of section 2(1) of the Oranga Tamariki Act 1989) or other premises under the control of, or approved by, the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989; or
     (ii) any other premises agreed to by an immigration officer and the person’s parent, guardian, or responsible adult; or
   (b) in any other case, in—
     (i) premises approved by the chief executive under section 330; or
@@ -4567,7 +4567,7 @@ Every person who is placed in custody under section 313 and is to be detained ov
 ### 332 Form of custody of persons detained under warrant of commitment
 Every person who is to be detained in custody under a warrant of commitment must be detained,—
   (a) in the case of a person under 18 years of age who is not married or in a civil union, in a place approved for the purpose by the District Court Judge before whom the person is brought, being—
-    (i) a residence (within the meaning of section 2(1) of the Children, Young Persons, and Their Families Act 1989) or other premises under the control of, or approved by, the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989; or
+    (i) a residence (within the meaning of section 2(1) of the Oranga Tamariki Act 1989) or other premises under the control of, or approved by, the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989; or
     (ii) any other premises agreed to by an immigration officer and the person's parent, guardian, or responsible adult; or
     (iii) premises approved by the chief executive under section 330; or
   (b) in any other case,—
@@ -5078,7 +5078,7 @@ For the purposes of section 370(3), or any other proceedings under this Act, it 
     (i) a parent, guardian, or relative of the minor; or
     (ii) a person suggested by the minor; or
     (iii) any other person having responsibility for the minor or who is otherwise suitable to represent the minor’s interests; or
-    (iv) if no appropriate person is otherwise available under this subsection, a person designated by the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989; and
+    (iv) if no appropriate person is otherwise available under this subsection, a person designated by the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989; and
   (d) except in the case of a parent or guardian of the minor, the person agrees in writing to be nominated as a responsible adult.
 (5) Should the need arise, and after such consultation as is reasonable in the circumstances, a substitute responsible adult may be nominated in accordance with the requirements of this section.
 (6) The role of a responsible adult—
