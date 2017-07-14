@@ -1,5 +1,5 @@
 # Health and Disability Services (Safety) Act 2001
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Health and Disability Services (Safety) Act 2001.
@@ -87,7 +87,7 @@ The purpose of this Act is to—
 ### 8 Services to which Act does not apply
 (1) This Act does not apply to services provided in premises that are—
   (a) a prison within the meaning of section 3(1) of the Corrections Act 2004; or
-  (b) a residence established under section 364 of the Children, Young Persons, and Their Families Act 1989; or
+  (b) a residence established under section 364 of the Oranga Tamariki Act 1989; or
   (c) a children's health camp operated by Children's Health Camps—The New Zealand Foundation for Child and Family Health and Development.
 (2) This Act does not apply to services provided in any premises (other than any particular premises specified in the order as being premises to which this Act applies) that are premises of a kind for the time being declared by the Governor-General by Order in Council to be premises to which this Act does not apply.
 (3) An order under subsection (2) may be amended or revoked by Order in Council; but the amending or revoking order must not come into force any sooner than 12 months after it is made.
