@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-07-14_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -91,8 +91,8 @@ Every person exercising or performing a function, duty or power under this Act m
       (i) whose care is primarily the responsibility of the person; and
       (ii) who is being maintained as a member of that person's family; and
       (iii) who is financially dependent on that person:
-    (b) does not include a child in respect of whom payments are being made under section 363 of the Children, Young Persons, and Their Families Act 1989:
-    (c) despite paragraph (b), includes a child or a young person (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989)—
+    (b) does not include a child in respect of whom payments are being made under section 363 of the Oranga Tamariki Act 1989:
+    (c) despite paragraph (b), includes a child or a young person (as defined in section 2(1) of the Oranga Tamariki Act 1989)—
       (i) of whom the person is a parent within the meaning of that Act; and
       (ii) to whom section 361 of that Act applies; and
       (iii) who, under section 362 of that Act, is placed in the charge of the person:
@@ -167,7 +167,7 @@ Every person exercising or performing a function, duty or power under this Act m
       (x) any amount of output tax charged in respect of a supply of goods and services made by that person:
       (xi) any amount of goods and services tax payable by the Commissioner of Inland Revenue to that person:
       (xii) any debt insurance payment or any health or disability insurance payment:
-      (xiii) any money received under the Children, Young Persons, and Their Families Act 1989 in respect of the care of a child or young person (as those terms are defined in that Act):
+      (xiii) any money received under the Oranga Tamariki Act 1989 in respect of the care of a child or young person (as those terms are defined in that Act):
       (xiv) any lump sum payment received by the person—
         (A) under a contract of insurance on the life of the person's deceased spouse or partner; or
         (B) where the person is a dependent child, under a contract of insurance on the life of his or her deceased parent or step-parent; or
@@ -271,7 +271,7 @@ Every person exercising or performing a function, duty or power under this Act m
   - **principal caregiver** , in relation to a dependent child, means the person who, in the opinion of the chief executive, has the primary responsibility for the day to day care of the child, other than on a temporary basis, but does not include—
     (a) any body of persons (whether incorporated or unincorporated); or
     (b) any person who is the proprietor of, or employed in,—
-      (i) a residence established under the Children, Young Persons, and Their Families Act 1989; or
+      (i) a residence established under the Oranga Tamariki Act 1989; or
       (ii)
       (iii) any other institution in which the child is being cared for
   - **psychologist** means a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology
@@ -1225,7 +1225,7 @@ The chief executive may, in his or her discretion, pay a child disability allowa
 ### 40D Supported living payment: on ground of caring for patient requiring care: eligibility
 (1) A person is entitled to a supported living payment under this section if he or she satisfies the criteria in subsections (2) and (3), and the chief executive is satisfied that the person is required to give full-time care and attention at home to some other person (other than the person's spouse or partner) (in this section and sections 40E, 40H, and 40HA called the patient) who would otherwise have to receive care that is, or is equivalent to,—
   (a) hospital care, rest home care, or residential disability care, within the meaning of the Health and Disability Services (Safety) Act 2001; or
-  (b) care of the kind referred to in section 141 of the Children, Young Persons, and Their Families Act 1989 (which is a section relating to care of severely disabled children and young persons).
+  (b) care of the kind referred to in section 141 of the Oranga Tamariki Act 1989 (which is a section relating to care of severely disabled children and young persons).
 (2) An applicant must not be granted a supported living payment under this section unless,—
   (a) in the case of an applicant without a dependent child, he or she is aged at least 18 years:
   (b) in any other case, he or she is aged at least 20 years.
@@ -2487,11 +2487,11 @@ Notwithstanding anything to the contrary in this Act, where a beneficiary, or an
   (c) at least 28 days have elapsed since the date on which the warrant was issued.
 (2) Excluded beneficiary, in subsection (1), means,—
   (a) for the purposes of subsections (3) to (6), a beneficiary who is—
-    (i) a young person (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989); or
+    (i) a young person (as defined in section 2(1) of the Oranga Tamariki Act 1989); or
     (ii) a beneficiary who is not receiving a main benefit under this Act, New Zealand superannuation, or a veteran’s pension; or
     (iii) a beneficiary (for example, one who is receiving a main benefit under this Act, New Zealand superannuation, or a veteran’s pension, but) who falls within a class, description, or kind of beneficiary excluded from the operation of all of the provisions of this section by regulations made under section 132L; and
   (b) for the purposes of subsections (7) and (8), a beneficiary who is—
-    (i) a young person (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989); or
+    (i) a young person (as defined in section 2(1) of the Oranga Tamariki Act 1989); or
     (ii) a beneficiary who falls within a class, description, or kind of beneficiary excluded from the operation of all of the provisions of this section by regulations made under section 132L.
 (3) The chief executive must as soon as practicable give the beneficiary a notice (to be delivered in accordance with section 86J) that—
   (a) allows a period of 10 working days within which the beneficiary may dispute that he or she is the person to whom the warrant to arrest applies or take steps to resolve the warrant; and
@@ -4694,7 +4694,7 @@ In this Part and in Schedule 26,—
     (a) means the parents or guardians or other person who had the care of the young person most recently before the young person turned 16 years; and
     (b) includes any other parent, or guardian or former guardian, willing to have financial responsibility for the young person; but
     (c) does not include—
-      (i) the chief executive of the department responsible for administering the Children, Young Persons, and Their Families Act 1989 in his or her official capacity; or
+      (i) the chief executive of the department responsible for administering the Oranga Tamariki Act 1989 in his or her official capacity; or
       (ii) any body or organisation approved under section 396 of that Act
   - **service costs** has the same meaning as in section 61E(1)
   - **specified beneficiary** means a person who is married, in a civil union, or in a de facto relationship and receives in his or her own right—
@@ -4731,7 +4731,7 @@ In this Part and in Schedule 26,—
   (a) each of his or her parents (and guardians (if any)) is unable to support him or her financially; or
   (b) his or her relationship with his or her parents (and guardians (if any)) has broken down, and none of them is prepared to support him or her financially; or
   (c) he or she has ceased to be subject to—
-    (i) an agreement under section 140 of the Children, Young Persons, and Their Families Act 1989; or
+    (i) an agreement under section 140 of the Oranga Tamariki Act 1989; or
     (ii) an order under section 78, 101, or 283(n) of that Act; or
     (iii) a sole guardianship order under section 110 of that Act; or
   (d) the chief executive is satisfied that (for some other good and sufficient reason) the young person cannot reasonably be expected to be financially dependent on his or her parents or any other person.
