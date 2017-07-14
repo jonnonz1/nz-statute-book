@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2017-07-03_
+_Consolidation as at 2017-07-14_
 
 > An Act to reform the administration of education
 
@@ -711,11 +711,11 @@ If a student has been suspended, the student, the student's parents, and their r
 (4) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 18A Recommendation that student should attend particular school
-(1) The Secretary may, on the recommendation of the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989, direct the board of a State school to enrol at the school any person; and in that case the board must do so.
+(1) The Secretary may, on the recommendation of the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989, direct the board of a State school to enrol at the school any person; and in that case the board must do so.
 (2) No direction may be given under subsection (1) unless the Secretary has taken all reasonable steps to consult—
   (a) the person's parents; and
   (b) the board of the school concerned; and
-  (c) the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989, and any other person or organisation that, in the Secretary's opinion, may be interested in, or able to advise on or help with, the person's education or welfare.
+  (c) the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989, and any other person or organisation that, in the Secretary's opinion, may be interested in, or able to advise on or help with, the person's education or welfare.
 (3) A board must comply with a direction under subsection (1), and the direction overrides the provisions of any enrolment scheme the school may have in place.
 
 ### 19 Principal may preclude student for health reasons
@@ -776,18 +776,18 @@ If a student has been suspended, the student, the student's parents, and their r
     (ii) the person's conduct; and
     (iii) the benefit (if any) the person is likely to get from available schools,—
 (2) The Secretary shall not exempt under subsection (1) any person who has neither completed the work of form 2 nor enrolled for a class above form 2.
-(3) The Secretary shall tell the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989 the name and address of every person exempted under subsection (1).
+(3) The Secretary shall tell the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989 the name and address of every person exempted under subsection (1).
 (4) If satisfied that it is in the best interests of any person to do so, the Secretary may revoke the person's certificate under subsection (1).
 
-### 22A Secretary may exempt from enrolment persons placed in residence or programme under Children, Young Persons, and Their Families Act 1989
-(1) On an application from the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989, the Secretary may, by a certificate given to the chief executive of that department, exempt a person from the requirements of section 20 if satisfied that the requirements set out in subsection (2) have been met.
+### 22A Secretary may exempt from enrolment persons placed in residence or programme under Oranga Tamariki Act 1989
+(1) On an application from the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989, the Secretary may, by a certificate given to the chief executive of that department, exempt a person from the requirements of section 20 if satisfied that the requirements set out in subsection (2) have been met.
 (2) The requirements referred to in subsection (1) are that the person—
   (a) has been placed—
-    (i) in a residence established under section 364 of the Children, Young Persons, and Their Families Act 1989; or
+    (i) in a residence established under section 364 of the Oranga Tamariki Act 1989; or
     (ii) in a residential programme instituted by, and operated under contract with, the chief executive of that department where the person would otherwise be in a residence established under section 364 of that Act; and
   (b) will receive education services appropriate to the person's needs.
 (3) The Secretary may at any time revoke a certificate granted under subsection (1)—
-  (a) on notification by the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989 that the person exempted has been released from a residence other than for a temporary period; or
+  (a) on notification by the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989 that the person exempted has been released from a residence other than for a temporary period; or
   (b) if the Secretary is no longer satisfied that the person exempted meets the requirements of subsection (2); or
   (c) at the request of the chief executive of that department and if satisfied that an exemption from section 20 is no longer required.
 (4) A certificate under subsection (1) continues in force until revoked under this section.
@@ -886,7 +886,7 @@ The principal of a State school—
   (a) while enrolled at a registered school, does not attend as provided in section 25; or
   (b) while enrolled at a correspondence school, does not do the work of the course in which the student is enrolled,—
 (2) Notwithstanding subsection (1), a fine imposed for an offence against that subsection shall not exceed $300 for a first offence against the subsection (or section 120(1) of the Education Act 1964), or $3,000 for a second or subsequent offence.
-(3) The imposition of a penalty under this section does not affect or restrict the operation of any provision of the Children, Young Persons, and Their Families Act 1989.
+(3) The imposition of a penalty under this section does not affect or restrict the operation of any provision of the Oranga Tamariki Act 1989.
 
 ### 30 Employment of school-age children
 (1) No person shall employ any person who has not turned 16 at any time—unless there has been produced to the employer a certificate of exemption, or other satisfactory evidence that the person is exempted (otherwise than under section 21(1)) from enrolment at any school.
@@ -2185,7 +2185,7 @@ In determining for the purposes of section 79 the amount of any grant payable to
   - **special institution** means an institution that is—
     (a) for the time being specified in Schedule 5; or
     (b) a correspondence school; or
-    (c) an institution (other than an institution that is part of a school) situated in a health camp, an institution under the control of the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989, or a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001)
+    (c) an institution (other than an institution that is part of a school) situated in a health camp, an institution under the control of the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989, or a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001)
   - **State school** means an institution that is a primary school, a composite school, or a secondary school; and,—
     (a) in relation to a lone board that administers a school, means that school; and
     (b) in relation to a combined board that administers schools, means those schools or any of them; and
@@ -7742,7 +7742,7 @@ In this Part, unless the context otherwise requires,—
 (2) Subject to subsections (3) and (4), premises of the following kind are not early childhood education and care centres:
   (a) registered schools (within the meaning of section 2(1)):
   (b) hostels (within the meaning of section 2(1)):
-  (c) residences (within the meaning of section 2(1) of the Children, Young Persons, and Their Families Act 1989):
+  (c) residences (within the meaning of section 2(1) of the Oranga Tamariki Act 1989):
   (d) institutions under the control of the Ministry of Health or a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000:
   (e) hospital care institutions (within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001):
   (f) children's health camps operated by Children's Health Camps—The New Zealand Foundation for Child and Family Health and Development:
