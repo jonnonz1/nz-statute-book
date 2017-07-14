@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -51,7 +51,7 @@ In this Act, unless the context otherwise requires,—
     (a) a spouse, civil union partner, or de facto partner of the victim:
     (b) a parent or another close relative or a legal guardian of the victim:
     (ba) a person whom the victim nominates by notice in writing as his or her support person (not being a person accused of the offence, or the offender):
-    (c) a Social Worker (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) if—
+    (c) a Social Worker (as defined in section 2(1) of the Oranga Tamariki Act 1989) if—
       (i) the victim is a child or young person who is in the custody or under the guardianship or in the care of the chief executive or another person under that Act; or
       (ii) the victim is a child who is not married or in a civil union and who is placed under the guardianship of the court by an order under section 31(1)﻿(a) of the Care of Children Act 2004, and the Social Worker is appointed the agent of the court by an order under section 31(1)﻿(b) or section 33(1)﻿(c)﻿(ii) of that Act:
     (d) a welfare guardian of the victim, or manager of the property of the victim, appointed under the Protection of Personal and Property Rights Act 1988:
@@ -517,7 +517,7 @@ As soon as practicable after receiving a notice under section 32 in respect of a
   (a) means detention in a prison (or in a Police station or other place of confinement, in accordance with section 35 of the Corrections Act 2004); and
   (b) includes, if a child or young person is serving a sentence of imprisonment, detention of the child or young person under that sentence in a residence of the kind referred to in section 34A of the Corrections Act 2004; but
   (c) does not include—
-    (i) detention of a child or young person in Police custody, or in the custody of the chief executive, an Iwi Social Service, or a Cultural Social Service, and pending hearing, under section 238(1)﻿(d) or (e) of the Children, Young Persons, and Their Families Act 1989; and
+    (i) detention of a child or young person in Police custody, or in the custody of the chief executive, an Iwi Social Service, or a Cultural Social Service, and pending hearing, under section 238(1)﻿(d) or (e) of the Oranga Tamariki Act 1989; and
     (ii) detention of a kind referred to in section 37(1)﻿(a) or (b) of this Act.
 
 ### 35A Notice of cessation of, or absconding from, or death during, home detention of offender
