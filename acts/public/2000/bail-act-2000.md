@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2017-05-15_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -195,7 +195,7 @@ No defendant of or over the age of 17 years who is found guilty of, or pleads gu
 (2) Subsection (1) is subject to—but no other enactment.
   (a) sections 7 (except subsection (5)), 9 to 12, and 16 to 17A; and
   (b) section 175 of the Criminal Procedure Act 2011,—
-(3) Subject to sections 171(1) and 172(1) of the Criminal Procedure Act 2011 and to the Children, Young Persons, and Their Families Act 1989, this section applies in respect of a defendant who is under the age of 17 years and who is charged with or convicted of any offence in the District Court or the High Court.
+(3) Subject to sections 171(1) and 172(1) of the Criminal Procedure Act 2011 and to the Oranga Tamariki Act 1989, this section applies in respect of a defendant who is under the age of 17 years and who is charged with or convicted of any offence in the District Court or the High Court.
 
 **Special provisions in respect of bail for drug dealing offences**
 
@@ -528,7 +528,7 @@ Nothing in this Act prevents a defendant, who has previously applied for bail wi
 (1) An authorised person may give a defendant a notice under section 30T(1) in any of the following ways:
   (a) by giving the notice personally and in writing to the defendant:
   (b) by giving the notice personally and orally to the defendant, then, unless the notice requires the defendant only to undergo breath screening, as soon as practicable recording it in writing and giving a copy to the defendant:
-  (c) if the notice is given under section 30T(1)﻿(a), by giving the notice by telephone or other means of electronic communication (as defined in section 5 of the Electronic Transactions Act 2002) to the defendant, then as soon as practicable recording it in writing (if it is not already in writing) and giving a copy to the defendant.
+  (c) if the notice is given under section 30T(1)﻿(a), by giving the notice by telephone or other means of electronic communication (as defined in section 209 of the Contract and Commercial Law Act 2017) to the defendant, then as soon as practicable recording it in writing (if it is not already in writing) and giving a copy to the defendant.
 (2) An automated system must, in response to a defendant contacting it as required by a notice given under section 30T(1)﻿(c) and subsection (1), give the defendant a spoken or written response notice specifying whether the defendant is required to undergo testing.
 (3) A notice given by an authorised person under subsection (1)﻿(c), or a response notice that is given by an automated system under subsection (2) and that requires a defendant to undergo testing, must specify the name and location of a testing facility to which the defendant is required to report to undergo testing, and the time or times when the defendant is required to report, under section 30V.
 
@@ -646,7 +646,7 @@ Nothing in this Act prevents a defendant, who has previously applied for bail wi
   (a) must surrender himself or herself to Police custody if, for any reason (including the withdrawal of the consent of a relevant occupant), he or she is unable to remain at the EM address and no suitable temporary EM address is available; and
   (b) may surrender himself or herself to Police custody pending determination of an application under section 33 or 34 to vary the EM address or revoke the EM condition.
 (2) The Police must bring a defendant on bail with an EM condition who surrenders himself or herself to Police custody before a judicial officer at the earliest opportunity.
-(3) If a defendant on bail with an EM condition who is under the age of 17 years surrenders himself or herself to Police custody, sections 234(c), 235, and 236 of the Children, Young Persons, and Their Families Act 1989 apply with any necessary modifications.
+(3) If a defendant on bail with an EM condition who is under the age of 17 years surrenders himself or herself to Police custody, sections 234(c), 235, and 236 of the Oranga Tamariki Act 1989 apply with any necessary modifications.
 
 ### 35 Defendant on bail may be arrested without warrant in certain circumstances
 (1) Any constable may arrest without warrant a defendant who has been released on bail by a court or Registrar or Police employee if the constable believes on reasonable grounds that—
