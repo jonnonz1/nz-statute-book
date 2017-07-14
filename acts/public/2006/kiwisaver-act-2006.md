@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -34,7 +34,7 @@ This Act is the KiwiSaver Act 2006.
     (a) the contribution made by the Crown under section 226:
     (b) the amount of tax credit under section MK 1 of the Income Tax Act 2007 that is treated as a Crown contribution for a member under section MK 5 of that Act
   - **CYPFA guardian** , of a person, means any other person—
-    (a) appointed by an order under section 110(1)﻿(a) to (d) of the Children, Young Persons, and Their Families Act 1989 as the sole guardian, or as a guardian of the person in addition to any other guardians (whether or not guardians by virtue of that Act), of the person; or
+    (a) appointed by an order under section 110(1)﻿(a) to (d) of the Oranga Tamariki Act 1989 as the sole guardian, or as a guardian of the person in addition to any other guardians (whether or not guardians by virtue of that Act), of the person; or
     (b) whose sole guardianship of the person arises under section 119 of that Act (about the death of a guardian appointed under section 110(1)﻿(e) of that Act who, on his or her death, was the person's sole guardian)
   - **deduction rate** means the rate at which deductions must be made under section 66 or 66A, as the case may be
   - **default investment product** , in relation to a default KiwiSaver scheme, means the investment product specified as the default investment product of the scheme under an instrument of appointment to which section 132 applies
