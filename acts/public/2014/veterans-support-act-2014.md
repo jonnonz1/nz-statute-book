@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -1481,7 +1481,7 @@ A veteran with total lower body mobility impairment or with severe lower body mo
     (a) whose care is primarily the responsibility of that person; and
     (b) who is being maintained as a member of that person’s family; and
     (c) who is financially dependent on that person; and
-    (d) who is not a child in respect of whom payments are being made under section 363 of the Children, Young Persons, and Their Families Act 1989
+    (d) who is not a child in respect of whom payments are being made under section 363 of the Oranga Tamariki Act 1989
   - **employment income** —
     (a) means any salary, wage, allowance, bonus, gratuity, extra salary, compensation for loss of office or employment, emolument (of whatever kind), or other benefit in money, for, or in connection with, the employment or service of the person; and
     (b) includes,—
