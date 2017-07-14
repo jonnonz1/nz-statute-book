@@ -1,5 +1,5 @@
 # Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
@@ -54,7 +54,7 @@ The purposes of this Act are—
   - **care recipient** has the meaning given to it by section 6(1)
   - **care recipient liable to detention under a sentence** has the meaning given to it by section 6(6)
   - **care recipient no longer subject to the criminal justice system** has the meaning given to it by section 6(3)
-  - **child** has the same meaning as in section 2(1) of the Children, Young Persons, and Their Families Act 1989
+  - **child** has the same meaning as in section 2(1) of the Oranga Tamariki Act 1989
   - **Code of Rights** means the Code of Health and Disability Services Consumers' Rights for the time being in force under the Health and Disability Commissioner Act 1994
   - **compulsory care order** means an order made under section 45 or an order made under section 25(1)﻿(b) or section 34(1)﻿(b)﻿(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; and includes the order as varied from time to time
   - **co-ordinator** means a compulsory care co-ordinator appointed under section 140; and, in relation to a function, duty, or power, means the person appointed under that section who is responsible for the geographical area in which the function is to be performed, or the duty or power is to be exercised
@@ -88,7 +88,7 @@ The purposes of this Act are—
     (b) trying to explain to the care recipient the recommendations and requirements of persons exercising authority over the care recipient
   - **welfare guardian** has the same meaning as in section 2 of the Protection of Personal and Property Rights Act 1988
   - **without notice** , in relation to an application, has the same meaning as ex parte
-  - **young person** has the same meaning as in section 2(1) of the Children, Young Persons, and Their Families Act 1989.
+  - **young person** has the same meaning as in section 2(1) of the Oranga Tamariki Act 1989.
 (2) If this section comes into force before the commencement of section 114(1) of the Health Practitioners Competence Assurance Act 2003, then, until that commencement, subsection (1) must be read as if, for the definitions of medical practitioner and psychologist, there were substituted the following definitions:
   - **medical practitioner** means a medical practitioner registered under the Medical Practitioners Act 1995
   - **psychologist** means a psychologist registered under the Psychologists Act 1981
@@ -1138,8 +1138,8 @@ The fact that an appeal has been brought against an order made under this Act do
   (a) a provision of this Act prevails over a provision of the Protection of Personal and Property Rights Act 1988; and
   (b) a power or other form of authority conferred under this Act prevails over a power or other form of authority conferred under that Act.
 
-### 138 Orders under Children, Young Persons, and Their Families Act 1989
-An order made under the Children, Young Persons, and Their Families Act 1989 in respect of a child or young person does not stop the application of the provisions of this Act to that child or young person.
+### 138 Orders under Oranga Tamariki Act 1989
+An order made under the Oranga Tamariki Act 1989 in respect of a child or young person does not stop the application of the provisions of this Act to that child or young person.
 
 ### 139 Certain orders under Criminal Procedure (Mentally Impaired Persons) Act 2003 prevail over orders under this Act
 (1) If a person becomes subject to an order under section 38(2)﻿(c) or section 44(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, any order under this Act in respect of that person is suspended during the currency of that order under the Criminal Procedure (Mentally Impaired Persons) Act 2003.
