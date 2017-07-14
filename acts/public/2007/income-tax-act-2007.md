@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-07-14_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -1627,7 +1627,7 @@ When dividends recovered
   (a) the recovered dividend and any attached imputation credit are disregarded for the purposes of this Act; and
   (b) the resulting refunds are made.
 Amendment of assessments
-(2) Section 113B of the Tax Administration Act 1994 requires the Commissioner, if given notice of the recovery of the dividend from a shareholder, to amend an assessment of the company or the shareholder in relation to income tax or under the imputation rules, the NRWT rules, the RWT rules, or under subpart LP (Tax credits for supplementary dividends), as applicable.
+(2) Section 113B of the Tax Administration Act 1994 requires the Commissioner, if given notice of the recovery of the dividend from a shareholder, to amend an assessment of the company or the shareholder in relation to income tax, or under the imputation rules, the NRWT rules, the RWT rules, or under subpart LP (Tax credits for supplementary dividends), as applicable.
 Refunds
 (3) If the Commissioner has been notified of the recovery and has amended an assessment as described in subsection (2), the Commissioner must refund any relevant—
   (a) income tax of the shareholder; and
@@ -4024,6 +4024,7 @@ Exempt income
     (iii) a funeral grant:
     (iv) a survivor’s grant:
     (v) a childcare payment:
+  (ba) a payment under section 363 of the Oranga Tamariki Act 1989:
   (c) a participation allowance under regulations made under the Social Security Act 1964:
   (d) a disabled workshop payment:
   (e) an amount derived by a trustee of a trust created for the benefit of persons harmed by thalidomide, or a distribution to a beneficiary from the trust:
@@ -25607,7 +25608,7 @@ Some definitions
     (a) the assistance is provided at below market rates; or
     (b) an amount payable for the assistance is payable on demand and the right to demand is not exercised or is deferred
   - **guardian** has the meaning set out in section 15 of the Care of Children Act 2004, and persons are connected by guardianship if 1 is the guardian of the other, but guardian does not include a guardian appointed under—
-    (a) section 110(1)﻿(a) to (d) of the Children, Young Persons, and their Families Act 1989; or
+    (a) section 110(1)﻿(a) to (d) of the Oranga Tamariki Act 1989; or
     (b) section 31 of the Care of Children Act 2004; or
     (c) section 53 of the Public Trust Office Act 1957 by a court order; or
     (d) section 7(4) of the Adoption Act 1955
@@ -30629,7 +30630,7 @@ Payments and benefits excluded from family scheme income
   (i) a payment under an insurance contract, other than a payment for a loss of income:
   (j) compensation for a loss other than a loss of income:
   (k) lump sum compensation under the Accident Compensation Act 2001:
-  (kb) a payment of a foster care allowance under section 363 of the Children, Young Persons, and Their Families Act 1989:
+  (kb) a payment of a foster care allowance under section 363 of the Oranga Tamariki Act 1989:
   (l) a monetary benefit under the Social Security Act 1964 that is exempt income:
   (m) a pension or allowance under the Veterans' Support Act 2014 that is exempt income:
   (n) a payment that is exempt income under section CW 33(1)﻿(c), (e), or (f) (Allowances and benefits):
@@ -30736,7 +30737,7 @@ General meaning
   (b) does not include—
     (i) a body of persons, incorporated or otherwise:
     (ii) the spouse, civil union partner, or de facto partner of a person eligible to be a transitional resident who has not made an election under section HR 8(4) (Transitional residents):
-    (iii) a person who is the proprietor of, or employed in, a residence established under the Children, Young Persons, and Their Families Act 1989, or a residential disability care institution as defined in section 58(4) of the Health and Disability Services (Safety) Act 2001, or another institution in which a child is cared for.
+    (iii) a person who is the proprietor of, or employed in, a residence established under the Oranga Tamariki Act 1989, or a residential disability care institution as defined in section 58(4) of the Health and Disability Services (Safety) Act 2001, or another institution in which a child is cared for.
 Meaning for abating WFF tax credit, family tax credit, child tax credit
 (2) For the purposes of sections MD 3 and MZ 1 (which relate to family tax credit and the child tax credit), a person is a principal caregiver of a dependent child if the person—
   (a) lives apart from another person who qualifies under section MC 2 in relation to the dependent child; and
@@ -30844,7 +30845,7 @@ The first requirement for an entitlement to an in-work tax credit is that the pe
 When child financially dependent
 (1) The second requirement for an entitlement to an in-work tax credit is that the person referred to in section MD 4 is the principal caregiver for a child who is financially dependent on them.
 Inclusions
-(2) A child for whom payments are made under section 363 of the Children, Young Persons, and Their Families Act 1989, or a child for whom a benefit is paid under section 28 or 29 of the Social Security Act 1964, is treated as financially dependent on the person.
+(2) A child for whom payments are made under section 363 of the Oranga Tamariki Act 1989, or a child for whom a benefit is paid under section 28 or 29 of the Social Security Act 1964, is treated as financially dependent on the person.
 Relationship with section MC 8
 (3) Subsection (2) overrides section MC 8 (Continuing requirements).
 
@@ -34862,7 +34863,7 @@ When ratio equal to old rate
 When ratio less than old rate
 (3) For a ratio described in subsection (1)﻿(b)﻿(i) or (ii) that is less than 30/70, then, to the extent to which a part of the amount of the dividend and imputation credit has a ratio of 30/70 through the application of section OZ 8, any tax credit that the company has is calculated using the formula in section LP 2(2), treating 54/119 as 7/17.
 Benchmark calculations
-(4) In the application of sections GB 35, GB 36, OA 18, OB 60, OB 61 (which relate to imputation credit ratios) under section LP 5 (Application of benchmark dividend rules and imputation credit ratio), the provisions apply using the ratio 30/70 and the old company tax rates.
+(4) In the application of sections GB 35, GB 36, OA 18, OB 60, and OB 61 (which relate to imputation credit ratios) under section LP 5 (Application of benchmark dividend rules and imputation credit ratio), the provisions apply using the ratio 30/70 and the old company tax rates.
 Relationship with exempt income rules
 (5) If the company derives a dividend to which this section applies, item tax rate in the formula in section LP 8(2) (Relationship with exempt income rules) is treated as 30%, to the extent to which a part of the supplementary dividend was calculated as described in subsection (2) or (3).
 
@@ -35994,7 +35995,7 @@ When this section applies
     (i) a superannuation payment:
     (ii) a pension:
     (iii) a retiring or other allowance:
-    (iv) an annuity.
+    (iv) an annuity; or
   (d) a benefit under section CE 2(2) and (4) (Value and timing of benefits under share purchase agreements) in relation to which the employer has made an election under section RD 7B.
 Value or amount included in salary or wages
 (2) For the purposes of subsection (1)﻿(a) to (c), the value of the benefit or amount of the payment is treated as—
@@ -39501,9 +39502,9 @@ In this Act, unless the context requires otherwise,—
       (ii) who is maintained as a member of that person's family; and
       (iii) who is financially dependent on that person:
     (b) does not include a child in relation to whom—
-      (i) a payment is made under section 363 of the Children, Young Persons, and Their Families Act 1989:
+      (i) a payment is made under section 363 of the Oranga Tamariki Act 1989:
       (ii) a benefit is being paid under section 28 or 29 of the Social Security Act 1964:
-    (c) despite paragraph (b)﻿(i), includes a child or a young person, as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989,—
+    (c) despite paragraph (b)﻿(i), includes a child or a young person, as defined in section 2(1) of the Oranga Tamariki Act 1989,—
       (i) of whom the person is a parent within the meaning of that Act; and
       (ii) to whom section 361 of that Act applies; and
       (iii) who, under section 362 of that Act, is placed in the charge of the person
