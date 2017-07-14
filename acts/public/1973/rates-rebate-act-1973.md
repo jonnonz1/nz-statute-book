@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-07-14_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -15,7 +15,7 @@ _Consolidation as at 2017-07-01_
       (i) whose care is primarily the responsibility of the ratepayer or his or her spouse or partner; and
       (ii) who is being maintained as a member of the ratepayer's family; and
       (iii) who is financially dependent on the ratepayer or his or her spouse or partner; and
-      (iv) who is not a person in respect of whom payments were being made under section 363 of the Children, Young Persons, and Their Families Act 1989; or
+      (iv) who is not a person in respect of whom payments were being made under section 363 of the Oranga Tamariki Act 1989; or
     (b) a relative of the ratepayer (other than a child to whom paragraph (a) applies or the spouse or partner of the ratepayer) by blood, marriage, by or through a civil union or de facto relationship, or by adoption who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable and who, at the commencement of that year, receives a social security benefit under the Social Security Act 1964
   - **income** , in relation to any ratepayer and to any preceding tax year,—
     (a) includes all money received by the ratepayer from any source for the use or advantage of the ratepayer; and
