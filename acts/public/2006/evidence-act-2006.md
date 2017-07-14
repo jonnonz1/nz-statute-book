@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -662,7 +662,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
   (b) a communication between the party’s legal adviser and any other person:
   (c) information compiled or prepared by the party or the party’s legal adviser:
   (d) information compiled or prepared at the request of the party, or the party’s legal adviser, by any other person.
-(3) If the proceeding is under, or to be under, Part 2 of the Children, Young Persons, and Their Families Act 1989 or the Care of Children Act 2004 (other than a criminal proceeding under that Part or that Act), a Judge may, if satisfied that it is in the best interests of the child to do so, determine that subsection (2) does not apply in respect of any communication or information that the Judge specifies.
+(3) If the proceeding is under, or to be under, Part 2 of the Oranga Tamariki Act 1989 or the Care of Children Act 2004 (other than a criminal proceeding under that Part or that Act), a Judge may, if satisfied that it is in the best interests of the child to do so, determine that subsection (2) does not apply in respect of any communication or information that the Judge specifies.
 
 ### 57 Privilege for settlement negotiations, mediation, or plea discussions
 (1) A person who is a party to, or a mediator in, a dispute of a kind for which relief may be given in a civil proceeding has a privilege in respect of any communication between that person and any other person who is a party to the dispute if the communication—
@@ -1280,7 +1280,7 @@ If an application for directions is made under section 103, before giving any di
   (f) whether there is other evidence that corroborates the witness’s evidence.
 (6) A pre-trial witness anonymity order may be made—
   (a) by a District Court Judge who holds a warrant under the District Court Act 2016 to conduct jury trials:
-  (b) if the preliminary hearing is held in the Youth Court, by a Judge referred to in section 274(2)﻿(a) of the Children, Young Persons, and Their Families Act 1989:
+  (b) if the preliminary hearing is held in the Youth Court, by a Judge referred to in section 274(2)﻿(a) of the Oranga Tamariki Act 1989:
   (c) by a High Court Judge.
 
 ### 111 Effect of pre-trial witness anonymity order
