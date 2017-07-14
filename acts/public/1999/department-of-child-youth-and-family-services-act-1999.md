@@ -1,37 +1,37 @@
 # Department of Child, Youth and Family Services Act 1999
-_Consolidation as at 2005-07-01_
+_Consolidation as at 2017-07-14_
 
-> An Act— a to provide for the transfer of staff and resources from the Department of Social Welfare to the new Department of Child, Youth and Family Services; and b to facilitate the transfer of the administration of the Children, Young Persons, and Their Families Act 1989 and functions under certain other enactments; and c to amend related enactments and to provide for related matters
+> An Act—ato provide for the transfer of staff and resources from the Department of Social Welfare to the new Department of Child, Youth and Family Services; andbto facilitate the transfer of the administration of the Oranga Tamariki Act 1989 and functions under certain other enactments; andcto amend related enactments and to provide for related matters
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Department of Child, Youth and Family Services Act 1999.
 (2) This Act comes into force on 1 October 1999.
 
 ### 2 Maori name of Department of Child, Youth and Family Services
-The name of the Department of Child, Youth and Family Services is, in the Maori language, Te Tari Awhina i te Tamaiti, te Rangatahi, tae atu ki te Whanau.
+[Repealed]
 
 ## Part 1 — Preliminary provisions and transfer of employees
 
 ### 3 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **chief executive** means, subject to any enactment, the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989
+  - **chief executive** means, subject to any enactment, the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Oranga Tamariki Act 1989
   - **contract** includes a licence
   - **designated party** means any of the following:
-    (a) a Minister of the Crown, in his or her capacity as the Minister responsible for the administration of the Children, Young Persons, and Their Families Act 1989:
+    (a) a Minister of the Crown, in his or her capacity as the Minister responsible for the administration of the Oranga Tamariki Act 1989:
     (b) the Director-General of Social Welfare, in his or her capacity as a person with functions under, or connected with the administration of,—
       (i) the Adoption Act 1955; or
       (ii) the Care of Children Act 2004; or
       (iii) the Disabled Persons Community Welfare Act 1975; or
       (iv) the Adult Adoption Information Act 1985; or
       (v) the Protection of Personal and Property Rights Act 1988; or
-      (vi) the Children, Young Persons, and Their Families Act 1989; or
+      (vi) the Oranga Tamariki Act 1989; or
       (vii) the Adoption (Intercountry) Act 1997:
     (c) a Social Worker employed by the Department of Social Welfare, in his or her capacity as a person with functions connected with—
       (i) the Adoption Act 1955; or
       (ii) the Care of Children Act 2004; or
       (iii) the Adult Adoption Information Act 1985; or
       (iv) the Protection of Personal and Property Rights Act 1988; or
-      (v) the Children, Young Persons, and Their Families Act 1989
+      (v) the Oranga Tamariki Act 1989
   - **designated successor** means,—
     (a) in relation to a person specified in paragraph (a) of the definition of the term designated party, the responsible Minister:
     (b) in relation to the person specified in paragraph (b) of the definition of the term designated party, the chief executive of the responsible department:
@@ -41,12 +41,12 @@ In this Act, unless the context otherwise requires,—
     (b) the Children, Young Persons and Their Families Service (formerly called the New Zealand Children and Young Persons Service):
     (c) the New Zealand Community Funding Agency
   - **premises** includes land
-  - **responsible department** means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989
-  - **responsible Minister** means, subject to any enactment, the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989
+  - **responsible department** means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Oranga Tamariki Act 1989
+  - **responsible Minister** means, subject to any enactment, the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of the Oranga Tamariki Act 1989
   - **specified right of appeal** means any of the following:
     (a) a right of appeal under section 12 or section 13A or section 20 of the Adoption Act 1955; or
     (b) a right of appeal under section 143 or section 145 of the Care of Children Act 2004; or
-    (c) a right of appeal under section 341 or section 342 or section 347 of the Children, Young Persons, and Their Families Act 1989; or
+    (c) a right of appeal under section 341 or section 342 or section 347 of the Oranga Tamariki Act 1989; or
     (d) a right of appeal under section 20 of the Adoption (Intercountry) Act 1997
   - **specified right of review** means a right of review under section 21 of the Disabled Persons Community Welfare Act 1975
   - **transferred employee** means any employee of the Department of Social Welfare who transfers (in circumstances to which section 61A of the State Sector Act 1988 applies) to the responsible department.
@@ -86,23 +86,23 @@ No transferred employee is entitled to receive any compensation for redundancy o
 ### 9 Savings relating to brands, logos, marks, etc
 All names, brands, stamps, logos, emblems, marks, forms, and other representations or documents that were, immediately before the date of commencement of this Act, in use by the Department of Social Welfare for the purposes of 1 or more of the designated units—
   (a) continue to have effect in relation to anything done before that date; and
-  (b) may continue to be used, and are to have effect, for the purposes of the functions, duties, and powers of the responsible Minister, the responsible department, or the chief executive of the responsible department under the Children, Young Persons, and Their Families Act 1989 or other appropriate enactment.
+  (b) may continue to be used, and are to have effect, for the purposes of the functions, duties, and powers of the responsible Minister, the responsible department, or the chief executive of the responsible department under the Oranga Tamariki Act 1989 or other appropriate enactment.
 
 ### 10 Saving of certain appointments
 Nothing in this Act affects the appointment of any person as—
-  (a) a member of a Care and Protection Resource Panel under section 428 of the Children, Young Persons, and Their Families Act 1989; or
+  (a) a member of a Care and Protection Resource Panel under section 428 of the Oranga Tamariki Act 1989; or
   (b) a member of a grievance panel under regulation 29 of the Children, Young Persons, and Their Families (Residential Care) Regulations 1996.
 
 ### 11 References to functions being transferred to responsible department
 (1) Unless the context otherwise requires, in any regulation, rule, order, agreement, deed, instrument, application, notice, direction, contract, lease, or other document in force at the commencement of this Act, the references specified in subsections (2) to (4) must be read in the manner indicated in those subsections.
 (2) Every reference to the Director-General of Social Welfare (or the chief executive of the Department of Social Welfare), when used in relation to 1 or more of the designated units, is a reference to the chief executive of the responsible department.
-(3) Every reference to the Director-General of Social Welfare (or the chief executive of the Department of Social Welfare), when used in relation to his or her functions, duties, or powers under the Children, Young Persons, and Their Families Act 1989, is a reference to the chief executive of the responsible department.
+(3) Every reference to the Director-General of Social Welfare (or the chief executive of the Department of Social Welfare), when used in relation to his or her functions, duties, or powers under the Oranga Tamariki Act 1989, is a reference to the chief executive of the responsible department.
 (4) Every reference to any designated unit, where the unit is referred to in its own right and the reference does not apply to other units of the Department of Social Welfare, is a reference to the responsible department.
 (5) Unless the context otherwise requires, when used in relation to the following enactments, every reference to the Department of Social Welfare is a reference to the responsible department:
   (a) the Adoption Act 1955:
   (b) the Care of Children Act 2004:
   (c) the Adult Adoption Information Act 1985:
-  (d) the Children, Young Persons, and Their Families Act 1989:
+  (d) the Oranga Tamariki Act 1989:
   (e) the Adoption (Intercountry) Act 1997.
 (6) Unless the context otherwise requires, every reference to a Social Worker employed in the Department of Social Welfare, when used in relation to any enactment, is a reference to a Social Worker employed by the responsible department.
 
