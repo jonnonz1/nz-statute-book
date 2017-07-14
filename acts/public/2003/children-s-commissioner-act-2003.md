@@ -1,5 +1,5 @@
 # Children's Commissioner Act 2003
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Children's Commissioner Act 2003.
@@ -23,10 +23,10 @@ The purposes of this Act are—
   - **child** , except in section 13, means a person under the age of 18 years
   - **Commissioner** means the Children's Commissioner (formerly known as the Commissioner for Children) continued by this Act
   - **Convention** means the United Nations Convention on the Rights of the Child, a copy of the English text of which is set out in Schedule 2
-  - **investigation** includes an inquiry undertaken under section 12(1)(l)
-  - **Minister** means, subject to any enactment, the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989
+  - **investigation** includes an inquiry undertaken under section 12(1)﻿(l)
+  - **Minister** means, subject to any enactment, the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of the Oranga Tamariki Act 1989
   - **officeholder** means the individual who, for the time being, holds office as Commissioner.
-(2) Terms not defined in this Act but defined in the Children, Young Persons, and Their Families Act 1989 have the same meaning in this Act.
+(2) Terms not defined in this Act but defined in the Oranga Tamariki Act 1989 have the same meaning in this Act.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -47,7 +47,7 @@ This Act binds the Crown.
 ### 7 Appointment of Commissioner
 (1)
 (2)
-(3) Before recommending the appointment of a Commissioner under section 28(1)(b) of the Crown Entities Act 2004, the Minister must—
+(3) Before recommending the appointment of a Commissioner under section 28(1)﻿(b) of the Crown Entities Act 2004, the Minister must—
   (a) notify the vacancy or prospective vacancy in a manner sufficient to enable suitably qualified individuals to apply for appointment; and
   (b) have regard to the desirability of consulting any organisations or persons that, in the opinion of the Minister, have a special interest in the functions of the Commissioner; including, without limitation, organisations representing children and children themselves.
 (4)
@@ -70,11 +70,11 @@ In performing or exercising the Commissioner's functions or powers under this Ac
   (a) the Convention:
   (b) the principle that the Commissioner should give serious consideration to the views of children and take those views into account:
   (c) the principle that the Commissioner should recognise the diversity of children in New Zealand:
-  (d) the principles stated in sections 5 and 6 of the Children, Young Persons, and Their Families Act 1989, so far as they are applicable and with all necessary modifications.
+  (d) the principles stated in sections 5 and 6 of the Oranga Tamariki Act 1989, so far as they are applicable and with all necessary modifications.
 
 ### 12 General functions of Commissioner
 (1) The general functions of the Commissioner are—
-  (a) to investigate any decision or recommendation made, or any act done or omitted (other than a decision, recommendation, or act to which section 13(1)(a) applies), in respect of any child in that child's personal capacity:
+  (a) to investigate any decision or recommendation made, or any act done or omitted (other than a decision, recommendation, or act to which section 13(1)﻿(a) applies), in respect of any child in that child's personal capacity:
   (b) to promote the establishment of accessible and effective complaints mechanisms for children and to monitor the nature and level of complaints:
   (c) to raise awareness and understanding of children's interests, rights, and welfare:
   (d) to raise awareness and understanding of the Convention:
@@ -96,8 +96,8 @@ In performing or exercising the Commissioner's functions or powers under this Ac
   (a) this Act; and
   (b) any other Act that expressly provides for the functions, powers, or duties of the Commissioner (other than the Crown Entities Act 2004).
 
-### 13 Functions in relation to Children, Young Persons, and Their Families Act 1989
-(1) The Commissioner has the following functions in relation to the Children, Young Persons, and Their Families Act 1989:
+### 13 Functions in relation to Oranga Tamariki Act 1989
+(1) The Commissioner has the following functions in relation to the Oranga Tamariki Act 1989:
   (a) to investigate any decision or recommendation made, or any act done or omitted, under that Act in respect of any child or young person in that child's or young person's personal capacity:
   (b) to monitor and assess—
     (i) the policies and practices of the department; and
@@ -105,11 +105,11 @@ In performing or exercising the Commissioner's functions or powers under this Ac
   (c) to encourage the development, within the department, of policies and services that are designed to promote the welfare of children and young persons:
   (d) on the Commissioner's own initiative or at the request of the Minister, to advise the Minister on any matter that relates to the administration of that Act or regulations made under that Act:
   (e) to keep under review, and make recommendations on, the working of that Act.
-(2) In this section, child has the same meaning as in section 2(1) of the Children, Young Persons, and Their Families Act 1989.
+(2) In this section, child has the same meaning as in section 2(1) of the Oranga Tamariki Act 1989.
 
 ### 14 Commissioner to develop means of consulting with children
-(1) The Commissioner must develop means of consulting with children from time to time for the purpose of ensuring the views of children are taken into account in the exercise or performance of the Commissioner's functions (other than the Commissioner's functions under section 12(1)(a) or section 13(1)(a)).
-(2) The Commissioner must, where practicable, consult with children, using the means developed under subsection (1), before the Commissioner makes any significant recommendation in the exercise or performance of the Commissioner's functions under section 12(1)(f), (g), (i), or (l) or under section 13(1)(d) or (e).
+(1) The Commissioner must develop means of consulting with children from time to time for the purpose of ensuring the views of children are taken into account in the exercise or performance of the Commissioner's functions (other than the Commissioner's functions under section 12(1)﻿(a) or section 13(1)﻿(a)).
+(2) The Commissioner must, where practicable, consult with children, using the means developed under subsection (1), before the Commissioner makes any significant recommendation in the exercise or performance of the Commissioner's functions under section 12(1)﻿(f), (g), (i), or (l) or under section 13(1)﻿(d) or (e).
 
 ### 15 Capacity and powers
 [Repealed]
@@ -132,7 +132,7 @@ In conducting an investigation, the Commissioner must have regard to the questio
 (3) If the Commissioner determines that the subject matter should be dealt with, in whole or in part, by one of the officers specified in subsection (4), the Commissioner must, without delay, refer the subject matter or, as the case requires, the appropriate part of the subject matter to that officer.
 (4) The statutory officers referred to in subsection (1) are—
   (a) the Chief Commissioner under the Human Rights Act 1993:
-  (b) the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989:
+  (b) the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989:
   (c) the Commissioner of Police:
   (d) the Health and Disability Commissioner:
   (e) the Chief Ombudsman exercising jurisdiction under the Ombudsmen Act 1975:
@@ -164,14 +164,14 @@ In conducting an investigation, the Commissioner must have regard to the questio
   (a) this Act; or
   (b) the Commissioner's obligations under any other enactment; or
   (c) information privacy principle 6 of the Privacy Act 1993.
-(3) The power conferred by subsection (2)(a) does not extend to—
+(3) The power conferred by subsection (2)﻿(a) does not extend to—
   (a) any matter that might prejudice—
     (i) the security, defence, or international relations of New Zealand (including New Zealand's relations with the Government of any other country or with any international organisation); or
     (ii) any interest protected by section 7 of the Official Information Act 1982; or
     (iii) the maintenance of the law, including the prevention, investigation, or detection of offences; or
   (b) any matter that might involve the disclosure of the deliberations of Cabinet; or
   (c) any information, answer, document, paper, or thing obtained by the Commissioner by reason only of compliance with a requirement made under section 20(1).
-(4) The power conferred by subsection (2)(c) is subject to sections 27 to 29 of the Privacy Act 1993.
+(4) The power conferred by subsection (2)﻿(c) is subject to sections 27 to 29 of the Privacy Act 1993.
 
 ### 23 Consultation with other statutory officers
 (1) Despite anything in section 22, the Commissioner may consult with any of the statutory officers specified in subsection (3) about any matter that relates to the functions of the Commissioner, including (without limitation) consultation—
@@ -181,7 +181,7 @@ In conducting an investigation, the Commissioner must have regard to the questio
 (2) For the purposes of any consultation under subsection (1), the Commissioner may disclose to the officer concerned any information the Commissioner considers necessary for that purpose.
 (3) The statutory officers referred to in subsection (1) are—
   (a) the Chief Commissioner under the Human Rights Act 1993:
-  (b) the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989:
+  (b) the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989:
   (c) the Commissioner of Police:
   (d) the Health and Disability Commissioner:
   (e) the Chief Ombudsman exercising jurisdiction under the Ombudsmen Act 1975:
@@ -213,7 +213,7 @@ The Commissioner may regulate the procedure for any investigation under this Act
   (a) an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
   (b) the offence of conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
   (c) the offence of attempting to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
-(5) Nothing in subsection (3) applies to any report made by the Commissioner to a court under section 12(1)(g).
+(5) Nothing in subsection (3) applies to any report made by the Commissioner to a court under section 12(1)﻿(g).
 (5A) Sections 122 to 126 of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
 (5B) This section contains an exception to section 121 of the Crown Entities Act 2004.
 (6) Anything said or any information supplied or any document, paper, or thing produced by a person in the course of an investigation by the Commissioner under this Act is privileged in the same manner as if the investigation were a proceeding in a court.
@@ -233,16 +233,16 @@ The provisions in Schedule 1 apply to the Commissioner.
 ## Part 3 — Transitional and miscellaneous provisions
 
 ### 31 Continuation of office, appointment of Commissioner, and employment of employees
-(1) The office continued by section 6 is the office of Commissioner for Children as established by section 410 of the Children, Young Persons, and Their Families Act 1989, and, accordingly, every reference to the Commissioner for Children in an enactment or document made before the commencement of this Act is a reference to the Children's Commissioner continued by section 6.
-(2) On the commencement of this Act, the person who, immediately before that commencement, held office as Commissioner for Children under the Children, Young Persons, and Their Families Act 1989 is to be taken to have been appointed as Commissioner under this Act—
+(1) The office continued by section 6 is the office of Commissioner for Children as established by section 410 of the Oranga Tamariki Act 1989, and, accordingly, every reference to the Commissioner for Children in an enactment or document made before the commencement of this Act is a reference to the Children's Commissioner continued by section 6.
+(2) On the commencement of this Act, the person who, immediately before that commencement, held office as Commissioner for Children under the Oranga Tamariki Act 1989 is to be taken to have been appointed as Commissioner under this Act—
   (a) for a term that, immediately before that commencement, represented the remainder of the person's term as Commissioner for Children; and
   (b) subject to the conditions of employment, determined under section 417 of that Act, that applied to the person immediately before that commencement; and
   (c) subject to any determination made under section 47 of the Crown Entities Act 2004 (with any such determination prevailing if, and to the extent that, it is more favourable to the person than any of the conditions of employment referred to in paragraph (b)).
-(3) The Remuneration Authority is not obliged to make a determination under section 47 of the Crown Entities Act 2004 of the salary and allowances of the person to whom subsection (2) applies before the time that that person's salary and allowances would have been next reviewed under the conditions of employment referred to in subsection (2)(b).
+(3) The Remuneration Authority is not obliged to make a determination under section 47 of the Crown Entities Act 2004 of the salary and allowances of the person to whom subsection (2) applies before the time that that person's salary and allowances would have been next reviewed under the conditions of employment referred to in subsection (2)﻿(b).
 (4) This Act does not affect the employment of any person who, immediately before the commencement of this Act, was an employee of the Commissioner for Children.
 
-### 32 Application of Act to matters commenced under Children, Young Persons, and Their Families Act 1989
-(1) The Commissioner may continue or complete any act, matter, or thing commenced by the Commissioner for Children under the Children, Young Persons, and Their Families Act 1989 but not completed on the commencement of this Act.
+### 32 Application of Act to matters commenced under Oranga Tamariki Act 1989
+(1) The Commissioner may continue or complete any act, matter, or thing commenced by the Commissioner for Children under the Oranga Tamariki Act 1989 but not completed on the commencement of this Act.
 (2) The provisions of this Act apply with all necessary modifications to the continuation or completion of any act, matter, or thing referred to in subsection (1).
 
 ### 33 Review of Commissioner's operations and performance
