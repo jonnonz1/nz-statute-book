@@ -1,10 +1,12 @@
-# Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2017-04-01_
+# Oranga Tamariki Act 1989
+_Consolidation as at 2017-07-14_
 
-> An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
+> Title
 
-### 1 Short Title and commencement
-(1) This Act may be cited as the Children, Young Persons, and Their Families Act 1989.
+### 1 Title and commencement
+(1) This Act may be cited as—
+  (a) the Oranga Tamariki Act 1989; or
+  (b) the Children’s and Young People’s Well-being Act 1989.
 (2) This Act shall come into force on 1 November 1989.
 
 ### 2 Interpretation
@@ -12,7 +14,7 @@ _Consolidation as at 2017-04-01_
   - **care and protection co-ordinator** means a care and protection co-ordinator appointed by the chief executive pursuant to section 423
   - **care and protection resource panel** means a care and protection resource panel established pursuant to section 428
   - **chief executive** means, subject to any enactment, the person holding office as the chief executive of the department
-  - **child** means a boy or girl under the age of 14 years
+  - **child** means a person under the age of 14 years
   - **child abuse** means the harming (whether physically, emotionally, or sexually), ill-treatment, abuse, neglect, or deprivation of any child or young person
   - **child and family support service** means any organisation or body approved by the chief executive as a child and family support service pursuant to section 396(3)
   - **Commissioner** means the Children's Commissioner continued under section 6 of the Children's Commissioner Act 2003
@@ -40,7 +42,7 @@ _Consolidation as at 2017-04-01_
   - **enforcement officer** means—
     (a) any constable:
     (b) an enforcement officer (as defined in section 2(1) of the Land Transport Act 1998):
-    (c) any person acting in the course of his or her official duties (being duties that consist of or include the detection, investigation, or prosecution of offences) as an officer or employee of—
+    (c) any person acting in the course of their official duties (being duties that consist of or include the detection, investigation, or prosecution of offences) as an officer or employee of—
       (i) the Public Service (as defined in section 2(1) of the State Sector Act 1988); or
       (ii) a local authority
   - **ex parte** application means an application made without notice to the respondent to the application
@@ -99,8 +101,8 @@ _Consolidation as at 2017-04-01_
         (A) a criminal investigation, the commission of an offence, or criminal proceedings; or
         (B) any process associated with a criminal investigation, the commission of an offence, or criminal proceedings; or
         (C) Parts 4 and 5 of this Act; or
-      (ii) in any other case, has the meaning given in paragraph (a):
-    (e) does not include a person who is or has been married or in a civil union
+      (ii) in any other case, has the meaning given in paragraph (a)
+    (e)
   - **youth advocate** means a barrister or solicitor appointed pursuant to section 323 to represent a child or young person
   - **youth justice co-ordinator** means a youth justice co-ordinator appointed by the chief executive pursuant to section 425.
 (1A) In this Act, any reference to the chief executive includes a person who is a delegate of the chief executive or a subdelegate of that delegate irrespective of whether the provision in which the chief executive is referred to contains a reference to a delegate of the chief executive.
@@ -213,14 +215,14 @@ In all matters relating to the administration or application of this Act (other 
 
 ### 7A Delegations made under section 41 of State Sector Act 1988 to social workers
 (1) A delegation made under section 41 of the State Sector Act 1988 by the chief executive of any of the functions or powers in the Act to a social worker is subject to this section.
-(2) Despite section 41(2) of that Act, a social worker may not subdelegate any functions or powers delegated to him or her.
+(2) Despite section 41(2) of that Act, a social worker may not subdelegate any functions or powers delegated to them.
 (3) Section 7F applies to any delegation made to a social worker.
 
 ### 7B Delegations made under section 41 of State Sector Act 1988 to persons who are not social workers
 A delegation made under section 41 of the State Sector Act 1988 by the chief executive of any of the functions or powers in the Act to a person who is not a social worker is subject to section 7D, and sections 7F and 7G apply to the delegation.
 
 ### 7C Delegation of functions and powers conferred by court order or warrant
-(1) The chief executive may delegate his or her functions and powers under all or any of sections 39, 40, 122, 157, 181, 205, or 386 to a social worker or to any other person, even though those functions and powers are conferred by a court order or a warrant that is made or issued after the delegation is made.
+(1) The chief executive may delegate the chief executive’s functions and powers under all or any of sections 39, 40, 122, 157, 181, 205, or 386 to a social worker or to any other person, even though those functions and powers are conferred by a court order or a warrant that is made or issued after the delegation is made.
 (2) The following apply to a delegation referred to in this section:
   (a) section 41 of the State Sector Act 1988, as if the delegation were made under that section; and
   (b) if the delegation is to a social worker, sections 7A and 7F; and
@@ -287,7 +289,7 @@ Section 86 of the State Sector Act 1988 applies to a person outside the Public S
     (iii) the existence of rights of appeal against the order or the finding on which the order is based.
 (2) Where, in any proceedings under this Act, a child or young person, or any parent or guardian or other person having the care of a child or young person, appears before the Family Court or the Youth Court, the barrister or solicitor representing that child or young person or other person shall—
   (a) explain to the person whom that barrister or solicitor represents, in a manner and in language that can be understood by that person, the nature of the proceedings, including, in the case of proceedings in the Youth Court, the nature and legal implications of the allegations; and
-  (b) satisfy himself or herself that the person whom that barrister or solicitor represents understands the proceedings; and
+  (b) satisfy themselves that the person whom that barrister or solicitor represents understands the proceedings; and
   (c) where the court makes any order under section 83(1) or section 84 or section 283, explain to the person whom that barrister or solicitor represents, in a manner and in language that can be understood by that person, the matters specified in subparagraphs (i) to (iii) of subsection (1)﻿(c).
 
 ### 11 Child’s or young person’s participation and views
@@ -297,16 +299,16 @@ Section 86 of the State Sector Act 1988 applies to a person outside the Public S
   (c) the preparation or review of a plan for a child or young person (a planning process) under this Act:
   (d) the taking of any other action or making of any other decision (any other process) under this Act that would or does significantly affect a child or young person who is the subject of that process.
 (2) In proceedings or a process to which this section applies,—
-  (a) the child or young person must be encouraged and assisted to participate in the proceedings or process to the degree appropriate for his or her age and level of maturity unless, in the view of a person specified in subsection (3), that participation is not appropriate, having regard to the matters to be heard or considered; and
-  (b) the child or young person must be given reasonable opportunities to freely express his or her views on matters affecting him or her; and
-  (c) if a child or young person has difficulties in expressing his or her views or being understood (for example, because of his or her age or language, or because of a disability), support must be provided to assist him or her to express his or her views and to be understood; and
+  (a) the child or young person must be encouraged and assisted to participate in the proceedings or process to the degree appropriate for their age and level of maturity unless, in the view of a person specified in subsection (3), that participation is not appropriate, having regard to the matters to be heard or considered; and
+  (b) the child or young person must be given reasonable opportunities to freely express their views on matters affecting them; and
+  (c) if a child or young person has difficulties in expressing their views or being understood (for example, because of their age or language, or because of a disability), support must be provided to assist them to express their views and to be understood; and
   (d) any views that the child or young person expresses (either directly or through a representative) must be taken into account.
 (3) The following persons must either perform the duties imposed by subsection (2)﻿(a) to (c) or be satisfied, before undertaking any proceeding or process involving the child or young person, that those duties have been performed by another person:
   (a) for proceedings before a court, the Judge or other person presiding and the barrister or solicitor representing the child or young person:
   (b) for the process for convening, and the proceedings of, a family group conference, the person responsible for convening the conference:
   (c) for a planning process, the person directed by the court to prepare or review the plan:
   (d) for any other process, the person responsible for taking the action or making the decision.
-(4) Despite anything to the contrary in this Act and subject to subsection (5), a person providing support to a child or young person under subsection (2)﻿(c) is entitled to be present at a proceeding or a meeting relating to a process referred to in subsection (1) at which the child or young person is present, to continue to provide that support to him or her but for no other purpose.
+(4) Despite anything to the contrary in this Act and subject to subsection (5), a person providing support to a child or young person under subsection (2)﻿(c) is entitled to be present at a proceeding or a meeting relating to a process referred to in subsection (1) at which the child or young person is present, to continue to provide that support to them but for no other purpose.
 (5) If the person responsible for a proceeding or process referred to in subsection (1) considers it is impracticable or inappropriate for the person providing support to be present at the proceeding or meeting, that person may not be present.
 (6) This section is not limited by section 5(d) (which sets out a principle relating to ascertaining, considering, and giving weight to the wishes of the child or young person).
 (7) In this section, support includes support from a member of the child’s or young person’s family group or other person supporting the child or young person, a specialist service provider, or any other service under this Act.
@@ -377,16 +379,16 @@ Any person who believes that any child or young person has been, or is likely to
 No civil, criminal, or disciplinary proceedings shall lie against any person in respect of the disclosure or supply, or the manner of the disclosure or supply, by that person pursuant to section 15 of information concerning a child or young person (whether or not that information also concerns any other person), unless the information was disclosed or supplied in bad faith.
 
 ### 17 Investigation of report of ill-treatment or neglect of child or young person
-(1) If the chief executive or a constable receives a report under section 15 relating to a child or young person, he or she must,—
+(1) If the chief executive or a constable receives a report under section 15 relating to a child or young person, they must,—
   (a) as soon as practicable after receiving the report, if it appears that an investigation is necessary or desirable, commence an investigation or arrange for an investigation to be commenced into the matters contained in the report to the extent that an investigation is necessary or desirable; and
   (b) as soon as practicable after an investigation has commenced, consult a care and protection resource panel in relation to the investigation; and
   (c) unless it is impracticable or undesirable to do so, as soon as practicable after a decision is made not to investigate or the investigation has concluded, inform the person who made the report—
     (i) whether the report has been investigated; and
     (ii) if so, whether any further action has been taken.
-(2) If, after an investigation, the chief executive or constable reasonably believes that the child or young person is in need of care or protection, he or she must, as soon as practicable, notify a care and protection co-ordinator in accordance with section 18.
+(2) If, after an investigation, the chief executive or constable reasonably believes that the child or young person is in need of care or protection, they must, as soon as practicable, notify a care and protection co-ordinator in accordance with section 18.
 
 ### 18 Referral of care or protection cases to care and protection co-ordinator or youth justice co-ordinator
-(1) If the chief executive or a constable believes, after inquiry, that any child or young person is in need of care or protection (otherwise than on the ground specified in section 14(1)﻿(ba) or (e)), he or she must immediately report the matter to a care and protection co-ordinator, who must convene a family group conference under section 20.
+(1) If the chief executive or a constable believes, after inquiry, that any child or young person is in need of care or protection (otherwise than on the ground specified in section 14(1)﻿(ba) or (e)), they must immediately report the matter to a care and protection co-ordinator, who must convene a family group conference under section 20.
 (2) If the chief executive suspects that any child is in need of care or protection on the ground specified in section 14(1)﻿(e), the chief executive may refer the matter to the appropriate enforcement agency.
 (3) Where any enforcement officer believes, after inquiry, that any child is in need of care or protection on the ground specified in section 14(1)﻿(e), that enforcement officer shall forthwith report the matter to a youth justice co-ordinator, who after consulting with that enforcement officer, and if that enforcement officer believes that the making of an application for a declaration under section 67 in respect of that child is required in the public interest, shall convene a family group conference in accordance with section 247.
 
@@ -396,29 +398,31 @@ No civil, criminal, or disciplinary proceedings shall lie against any person in 
   (b) is the parent of a subsequent child; and
   (c) has, or is likely to have, the care or custody of the subsequent child; and
   (d) is not a person to whom subsection (7) applies.
-(2) If the chief executive believes on reasonable grounds that a person is a person to whom this section applies, the chief executive must, after informing the person (where practicable) that he or she is to be assessed under this section, assess whether the person meets the requirements of subsection (3) in respect of the subsequent child.
+(2) If the chief executive believes on reasonable grounds that a person is a person to whom this section applies, the chief executive must, after informing the person (where practicable) that the person is to be assessed under this section, assess whether the person meets the requirements of subsection (3) in respect of the subsequent child.
 (3) A person meets the requirements of this subsection if,—
-  (a) in a case where the parent’s own act or omission led to him or her being a person described in section 18B, the parent is unlikely to inflict on the subsequent child the kind of harm that led to the parent being so described; or
+  (a) in a case where the parent’s own act or omission led to the parent being a person described in section 18B, the parent is unlikely to inflict on the subsequent child the kind of harm that led to the parent being so described; or
   (b) in any other case, the parent is unlikely to allow the kind of harm that led to the parent being a person described in section 18B to be inflicted on the subsequent child.
 (4) Following the assessment,—
   (a) if subsection (5) applies, the chief executive must apply for a declaration under section 67 that the subsequent child is in need of care or protection on the ground in section 14(1)﻿(ba); or
   (b) in any other case, the chief executive must decide not to apply as described in paragraph (a), and must instead apply under section 18C for confirmation of the decision not to apply under section 67.
-(5) The chief executive must apply as described in subsection (4)﻿(a) if the chief executive is not satisfied that the person, following assessment under this section, has demonstrated that he or she meets the requirements of subsection (3).
+(5) The chief executive must apply as described in subsection (4)﻿(a) if the chief executive is not satisfied that the person, following assessment under this section, has demonstrated that the person meets the requirements of subsection (3).
 (6) No family group conference need be held before any application referred to in subsection (4) is made to the court, and nothing in section 70 applies.
-(7) This subsection applies to the parent of a subsequent child if, since he or she last became a person described in section 18B,—
+(7) This subsection applies to the parent of a subsequent child if, since the parent last became a person described in section 18B,—
   (a) the parent has been assessed under this section in relation to a subsequent child and, following that assessment,—
     (i) the court has confirmed, under section 18C, a decision made under subsection (4)﻿(b); or
-    (ii) the chief executive applied for a declaration under section 67 that the child was in need of care or protection on the ground in section 14(1)﻿(ba), but the application was refused on the ground that the court was satisfied that the parent had demonstrated that he or she met the requirements of subsection (3); or
-  (b) the parent was, before this section came into force, subject to an investigation carried out by a social worker under section 17 in relation to a child who would, at that time, have fallen within the definition of a subsequent child, and the social worker did not at that time form the belief that the child was in need of care or protection on a ground in section 14(1)﻿(a) or (b).
+    (ii) the chief executive applied for a declaration under section 67 that the child was in need of care or protection on the ground in section 14(1)﻿(ba), but the application was refused on the ground that the court was satisfied that the parent had demonstrated that the parent met the requirements of subsection (3); or
+  (b) the parent was, before this section came into force, subject to an investigation carried out by a social worker under section 17 in relation to a child who would, at that time, have fallen within the definition of a subsequent child, and—
+    (i) the social worker did not at that time form the belief that the child was in need of care or protection on a ground in section 14(1)﻿(a) or (b) (as in force at that time); or
+    (ii) a family group conference was held, the parent addressed the concerns raised to the satisfaction of the chief executive, and the parent subsequently maintained care of the child.
 
 ### 18B Person described in this section
 (1) A person described in this section is a person—
-  (a) who has been convicted under the Crimes Act 1961 of the murder, manslaughter, or infanticide of a child or young person who was in his or her care or custody at the time of the child’s or young person’s death; or
-  (b) who has had the care of a child or young person removed from him or her on the basis described in subsection (2)﻿(a) and (b) and, in accordance with subsection (2)﻿(c), there is no realistic prospect that the child or young person will be returned to the person’s care.
+  (a) who has been convicted under the Crimes Act 1961 of the murder, manslaughter, or infanticide of a child or young person who was in the person’s care or custody at the time of the child’s or young person’s death; or
+  (b) who has had the care of a child or young person removed from that person on the basis described in subsection (2)﻿(a) and (b) and, in accordance with subsection (2)﻿(c), there is no realistic prospect that the child or young person will be returned to the person’s care.
 (2) Subsection (1)﻿(b) applies, in relation to a child or young person removed from the care of a person, if—
   (a) the court has declared under section 67, or a family group conference has agreed, that the child or young person is in need of care or protection on a ground in section 14(1)﻿(a) or (b); and
   (b) the court has made an order under section 101 (not being an order to which section 102 applies) or 110 of this Act, or under section 48 of the Care of Children Act 2004; and
-  (c) the court has determined (whether at the time of the order referred to in paragraph (b) or subsequently), or, as the case requires, the family group conference has agreed, that there is no realistic prospect that the child or young person will be returned to the person’s care.
+  (c) the court has determined (whether at the time of the order referred to in paragraph (b) or subsequently), or, as the case requires, the family group conference has agreed, that there is no realistic possibility that the child or young person will be returned to the person’s care.
 (3) If a person is a person described in this section on more than 1 of the grounds listed in subsection (1), the references in section 18A(3) to the kind of harm that led a person to being a person described in this section is taken to be a reference to any or all of those kinds of harm.
 
 ### 18C Confirmation of decision not to apply for declaration under section 67
@@ -434,13 +438,13 @@ No civil, criminal, or disciplinary proceedings shall lie against any person in 
   (d) adjourn the hearing and require the chief executive to—
     (i) provide such information as the court specifies, within the period specified by the court; or
     (ii) reconsider all or any aspect of the assessment and report to the court within a period specified by the court.
-(5) The court may confirm the decision of the chief executive under section 18A(4)﻿(b) only if it is satisfied, on the basis of the written material before it (and, if the court has heard any person under subsection (3), any other material heard), that the parent in respect of whom the application is made has demonstrated that he or she meets the requirements of section 18A(3).
+(5) The court may confirm the decision of the chief executive under section 18A(4)﻿(b) only if it is satisfied, on the basis of the written material before it (and, if the court has heard any person under subsection (3), any other material heard), that the parent in respect of whom the application is made has demonstrated that the parent meets the requirements of section 18A(3).
 (6) Except as provided in this section, nothing in Part 3 applies in respect of an application for, or a decision of a court on, confirmation of a decision made under section 18A(4)﻿(b).
 
 ### 18D Court declining to confirm decision
 If, under section 18C(4)﻿(b), the court declines to confirm the chief executive’s decision under section 18A(4)﻿(b), the court must give written reasons for its decision, and the application for confirmation—
   (a) must be treated as an application for a declaration under section 67 on the ground in section 14(1)﻿(ba); and
-  (b) must be served and heard in accordance with Part 3 and the rules of court, except that, although section 70 does not apply, if a family group conference is convened pursuant to section 72(3), the chief executive (or his or her representative) is entitled to attend the conference as if he or she were entitled to do so under section 22(1)﻿(a) to (h).
+  (b) must be served and heard in accordance with Part 3 and the rules of court, except that, although section 70 does not apply, if a family group conference is convened pursuant to section 72(3), the chief executive (or the chief executive’s representative) is entitled to attend the conference as if the chief executive were entitled to do so under section 22(1)﻿(a) to (h).
 
 ### 19 Referral of care or protection cases to care and protection co-ordinator by other persons or by court
 (1) Where—believes that any child or young person is in need of care or protection on 1 or more of the grounds specified in section 14(1) (other than on the ground specified in section 14(1)﻿(ba)), that body, organisation, or court may refer the matter to a care and protection co-ordinator.
@@ -493,7 +497,8 @@ Every care and protection co-ordinator shall, before convening any family group 
   (d) if the conference was convened on the basis of a report under section 18(1),—
     (i) the person who made the report (A); or
     (ii) if A was a delegate of the chief executive, a person acting for A (who must also be a person who has been delegated the chief executive’s power to make reports under section 18(1)); or
-    (iii) if A was a constable, another constable acting for him or her:
+    (iii) if A was a constable, another constable acting for A:
+  (da) if the conference is convened under any other provision of this Part (or under section 207D(3), 207K(2), or 207Q(2)), the chief executive or the chief executive’s delegate:
   (e) where the conference has been convened on the basis of a referral of a matter under section 19(1)﻿(a) by any body or organisation, a representative of that body or organisation:
   (f) where the conference has been convened or reconvened, for the purposes of section 145, in respect of a child or young person, a representative of the person who has the care of that child or young person pursuant to an agreement to which that section applies, or who it is proposed should have the care of that child or young person pursuant to such an agreement:
   (g) if the child or young person is under the guardianship of the court under the Care of Children Act 2004, any person appointed as agent for the court under that Act, or any representative of that person:
@@ -509,7 +514,7 @@ Every care and protection co-ordinator shall, before convening any family group 
 ### 24 Care and protection co-ordinator to ascertain views of persons unable to attend family group conference
 (1) Every care and protection co-ordinator who convenes a family group conference under this Part shall take all reasonable steps to ascertain the views of the following persons in relation to the matters to be considered at the conference:
   (a) any person who is excluded from attendance at the conference pursuant to paragraph (a)﻿(i) or paragraph (b) of section 22(1):
-  (b) any person who is entitled to attend the conference but who has notified the care and protection co-ordinator that he or she or it is unable, for any reason, to do so.
+  (b) any person who is entitled to attend the conference but who has notified the care and protection co-ordinator that the person is unable, for any reason, to do so.
 (2) Where, in respect of any family group conference, a care and protection co-ordinator ascertains the views of any person pursuant to subsection (1), that co-ordinator shall ensure that those views are made known at that conference.
 
 ### 25 Notification of convening of family group conference
@@ -552,7 +557,7 @@ The functions of a family group conference convened under this Part are as follo
     (i) communicate that decision, recommendation, or plan to—
       (A) the person who made the report (A); or
       (B) if A was a delegate of the chief executive, a person acting for A (who must also be a person who has been delegated the chief executive’s power to make reports under section 18(1)); or
-      (C) if A was a constable, another constable acting for him or her; and
+      (C) if A was a constable, another constable acting for A; and
     (ii) communicate that decision, recommendation, or plan to every person who will be directly involved in its implementation; and
     (iii) seek the agreement of the persons described in paragraph (a)﻿(i)﻿(A), (B), or (C) (as relevant in any case) and paragraph (a)﻿(ii) to that decision, recommendation, or plan:
   (b) where the conference was convened under section 19(2)﻿(a) on the basis of a referral from any body, organisation, or court,—
@@ -572,7 +577,7 @@ The functions of a family group conference convened under this Part are as follo
     (ii) in any other case, report the matter to the chief executive:
   (d) shall, where proceedings have been commenced under this Act in any court in relation to the child or young person in respect of whom the conference was convened, report the matter to that court:
   (e) shall, in every case, consult with a care and protection resource panel.
-(2) If a care and protection co-ordinator makes a report under subsection (1)﻿(c)﻿(i) or (ii), the person to whom that report is made may take any action under this Act that he or she considers appropriate.
+(2) If a care and protection co-ordinator makes a report under subsection (1)﻿(c)﻿(i) or (ii), the person to whom that report is made may take any action under this Act that the person considers appropriate.
 
 ### 32 Records of decisions, recommendations, and plans of family group conferences to be made available to interested persons
 (1) Every care and protection co-ordinator who convenes a family group conference under this Part shall ensure that a copy of every record made pursuant to section 29(3) in relation to that conference is given or sent to—
@@ -687,7 +692,7 @@ Where—unless the Police consider that it is impracticable, unreasonable, or cl
 (3) Where a child or young person is placed in the custody of the chief executive pursuant to section 39 or section 40 or section 42, the chief executive may, at any time, release the child or young person from that custody.
 
 ### 44 Parent or guardian may apply for release of or access to child or young person
-(1) Where a child or young person is placed in the custody of the chief executive pursuant to section 39 or section 40 or section 42, any parent or guardian or other person previously having the care of the child or young person may apply to the court for the release of that child or young person, or for access to that child or young person while he or she is in the custody of the chief executive, and the court may make any order that it is empowered to make under section 46.
+(1) Where a child or young person is placed in the custody of the chief executive pursuant to section 39 or section 40 or section 42, any parent or guardian or other person previously having the care of the child or young person may apply to the court for the release of that child or young person, or for access to that child or young person while the child or young person is in the custody of the chief executive, and the court may make any order that it is empowered to make under section 46.
 (2) An application may be made under subsection (1) at any time before the child or young person is released from the custody of the chief executive or is brought before the court in accordance with section 45.
 
 ### 45 Child or young person placed in custody of chief executive to be brought before court within 5 days unless sooner released
@@ -718,7 +723,7 @@ Where an application is made to the court under section 44, or a child or young 
   (f) the details of any further action that the person who placed the child or young person in that custody has taken, or is proposing to take, in relation to the child or young person.
 
 ### 48 Unaccompanied children and young persons
-(1) Where a child or young person is found unaccompanied by a parent or guardian or other person who usually has the care of the child or young person in a situation in which the child's or young person's physical or mental health is being, or is likely to be, impaired, a constable may, using such force as may reasonably be necessary, take the child or young person and—place the child or young person in the custody of the the chief executive (acting through his or her delegate) by delivering the child or young person to a social worker.
+(1) Where a child or young person is found unaccompanied by a parent or guardian or other person who usually has the care of the child or young person in a situation in which the child's or young person's physical or mental health is being, or is likely to be, impaired, a constable may, using such force as may reasonably be necessary, take the child or young person and—place the child or young person in the custody of the the chief executive (acting through the chief executive’s delegate) by delivering the child or young person to a social worker.
   (a) with the consent of the child or young person, deliver the child or young person into the custody of a parent or guardian or other person usually having the care of the child or young person; or
   (b) if—
     (i) the child or young person does not wish to be returned to a parent or guardian or other person having the care of the child or young person; or
@@ -767,7 +772,7 @@ Any order under section 49 may be made on such terms and conditions as the court
 
 ### 54 Child or young person entitled to have adult present
 Every child or young person who is medically examined under section 53 is entitled to have present during that examination 1 adult—
-  (a) who is nominated for that purpose by that child or young person or, if the age or level of maturity of the child or young person makes it impracticable for him or her to make such a nomination, by the chief executive; and
+  (a) who is nominated for that purpose by that child or young person or, if the age or level of maturity of the child or young person makes it impracticable for that child or young person to make such a nomination, by the chief executive; and
   (b) who consents to be present.
 
 ### 55 Restrictions on internal examinations and examinations under general anaesthetic
@@ -792,7 +797,7 @@ Where any person prepares a report pursuant to section 52 or section 56, the fee
 
 ### 59 Application for production of documents relevant to investigation of whether child or young person in need of care or protection
 (1) Subject to subsection (4), the chief executive or a constable may apply to the court for an order requiring a person to produce a document for inspection by the chief executive or that constable if—
-  (a) he or she believes on reasonable grounds that any person has, in that person’s possession, custody, or power, any document that contains, or he or she thinks is likely to contain, information necessary or relevant for the purpose of determining whether any child or young person is in need of care or protection (otherwise than on the ground specified in section 14(1)﻿(e)); and
+  (a) they believe on reasonable grounds that any person has, in that person’s possession, custody, or power, any document that contains, or they think is likely to contain, information necessary or relevant for the purpose of determining whether any child or young person is in need of care or protection (otherwise than on the ground specified in section 14(1)﻿(e)); and
   (b) that person has refused to allow that document to be inspected.
 (2) Subject to section 60, notice of an application under subsection (1) for an order for the production of a document shall be given by the applicant to the person in respect of whom the order is sought and to such other person or persons as the court directs.
 (3) The applicant and every person to whom notice of an application under subsection (1) is given shall be entitled to appear and be heard on the hearing of the application.
@@ -945,12 +950,12 @@ Section 104, section 105 (other than paragraph (a), paragraph (b)﻿(i), and par
 (3) The person so returning the child or young person may impose such conditions relating to the supervision of the child or young person as that person thinks fit.
 (4) Subject to subsection (5), where,—the person may direct that other person to return the child or young person to the custody of that person.
   (a) pursuant to subsection (2), a child or young person is returned to the custody of another person; and
-  (b) at any time before the order made under section 78 expires or is discharged, the person so returning the child or young person considers that it is no longer desirable in the interests of the child or young person that he or she be in the custody of that other person,—
+  (b) at any time before the order made under section 78 expires or is discharged, the person so returning the child or young person considers that it is no longer desirable in the interests of the child or young person that the child or young person be in the custody of that other person,—
 (5) No person shall—without first consulting with the barrister or solicitor representing that child or young person.
   (a) return a child or young person to the custody of any other person pursuant to subsection (2); or
   (b) issue a direction under subsection (4) in relation to a child or young person—
 (6) If a person gives a direction under subsection (4),—
-  (a) the chief executive (acting through his or her delegate) may—
+  (a) the chief executive (acting through the chief executive’s delegate) may—
     (i) remove the child or young person to whom the direction relates, using such force as is reasonably necessary for the purpose; and
     (ii) place the child or young person with a person or, if the person giving the direction is the chief executive, in a residence, as the person giving the direction thinks appropriate; and
   (b) section 105(2) and (3) applies (as applicable and with all necessary modifications) to the removal of the child or young person.
@@ -971,6 +976,10 @@ Section 104, section 105 (other than paragraph (a), paragraph (b)﻿(i), and par
   (g) make a custody order under section 101:
   (h) make an order under section 110 appointing a guardian of the child or young person.
 (2) Where the court makes an order under subsection (1)﻿(c), sections 74 to 77 shall apply, with all necessary modifications, with respect to that order as if it were a direction made under section 74(1).
+(2A) If the court makes an order under section 101 (other than an order to which section 102 applies) or an order under section 110 on a specified ground (as defined in section 18B(4)), the court may determine that there is no realistic possibility that the child or young person will be returned to the parent or guardian or person having the care of the child or young person before the care or protection order was made.
+(2B) A determination under subsection (2A) may be made either—
+  (a) at the same time as the making of an order referred to in subsection (2A); or
+  (b) on an application made at any subsequent time, in accordance with the relevant rules of court (if any), by a person who may make an application under section 68.
 
 ### 84 Power to make other orders where declaration made on ground of child's offending
 (1) Where the court makes a declaration under section 67 in relation to a child, and the declaration is made on the ground specified in section 14(1)﻿(e), the court may, in addition to or instead of making any order referred to in section 83(1), make any 1 or more of the following orders:
@@ -1067,9 +1076,9 @@ Where an order is made under section 91 or section 92 in relation to a child or 
 ### 95 Conditions of support order or interim support order
 (1) If a court makes an order under section 91 or 92 directing that support be provided to a child or young person, the following conditions apply:
   (a) the support person may, at all reasonable times, visit and enter the building or place in which the child or young person is living:
-  (b) the child or young person must not reside at an address at which, or with a person with whom, the support person has directed him or her not to reside:
+  (b) the child or young person must not reside at an address at which, or with a person with whom, the support person has directed them not to reside:
   (c) the parent or guardian or other person having the care of the child or young person and with whom the child or young person is residing must ensure that the support person knows at all times the address at which the child or young person is residing:
-  (d) in the case of a child or young person who is the subject of a declaration made on a ground in section 14(1)﻿(d) or (e), he or she must not associate with any specified person or any specified class of persons that the support person has, in writing, warned him or her not to associate with.
+  (d) in the case of a child or young person who is the subject of a declaration made on a ground in section 14(1)﻿(d) or (e), the child or young person must not associate with any specified person or any specified class of persons that the support person has, in writing, warned them not to associate with.
 (2) For the purposes of this section and section 97, support person means any of the following people who are to provide or are providing support to a child or young person:
   (a) a person who has been delegated the chief executive’s functions or powers under section 93:
   (b) a person named in the order:
@@ -1087,7 +1096,7 @@ Where an order is made under section 91 or section 92 in relation to a child or 
 
 ### 97 Court may impose conditions in respect of parent, guardian, etc, of child or young person
 (1) If a court makes an order under section 91 or 92 directing that support be provided to a child or young person of or over the age of 14 years and under 16 years, the court may impose any conditions the court thinks fit for the purposes of—
-  (a) assisting any parent or guardian or other person having the care of the child or young person, or any other person residing with the child or young person, to carry out his or her duties and responsibilities; and
+  (a) assisting any parent or guardian or other person having the care of the child or young person, or any other person residing with the child or young person, to carry out their duties and responsibilities; and
   (b) promoting co-operation between the parents or guardians or other persons, the child or young person, and the support person.
 (2) The court shall not impose any conditions under subsection (1) unless the parent or guardian or other person having the care of, or residing with, the child or young person has been given an opportunity to make representations to the court and the court has regard to those representations.
 
@@ -1103,7 +1112,7 @@ The court shall not impose any condition under section 96 or section 97 requirin
 If, under section 91, the chief executive or any other person or organisation is directed to provide support to a child or young person, the chief executive, person, or organisation must, on the expiry of the period stated in the order in which the direction is made, provide a written report to the court containing—
   (a) an assessment of the effectiveness of the order; and
   (b) a description of the child’s or young person’s response to it; and
-  (c) any other information that he, she, or it considers relevant.
+  (c) any other information that they consider or it considers relevant.
 
 ### 100 Failure to observe conditions of support order
 (1) Where the court makes an order under section 91 or section 92 directing any person or organisation to provide support to a child or young person, the chief executive or that person or organisation may, in any case where the child or young person or a parent or guardian or other person having the care of, or residing with, the child or young person has failed to comply with a condition of the order (including any condition imposed under section 96 or section 97), apply to the court for a declaration that the child or young person or the parent or guardian or other person having the care of, or residing with, the child or young person has failed to comply with the condition.
@@ -1144,7 +1153,7 @@ Where the court makes an order under section 101 placing a child or young person
   (c) for the purposes of section 92 of the Care of Children Act 2004,—
     (i) the order constitutes an order about the role of providing day-to-day care for the child or young person; and
     (ii) the person in whose custody the child or young person is placed is a person who, under the order, has the role of providing day-to-day care for the child or young person.
-(2) Any custody order shall be sufficient authority for any constable or the chief executive (acting through his or her delegate) or any other person authorised in that behalf by the chief executive to place the child or young person to whom the order relates—
+(2) Any custody order shall be sufficient authority for any constable or the chief executive (acting through the chief executive’s delegate) or any other person authorised in that behalf by the chief executive to place the child or young person to whom the order relates—
   (a) where the order places the child or young person in the custody of the chief executive, with such person, or in such residence, as the principal manager of the department for the area in which the court is situated may direct:
   (b) where the order places the child or young person in the custody of an iwi social service or a cultural social service, with such person as the convener of the social service directs:
   (c) where the order places the child or young person in the custody of the director of a child and family support service, with such person or in such residence as that director directs:
@@ -1161,8 +1170,8 @@ Where the court makes an order under section 101 placing a child or young person
     (i) to be placed in any residence:
     (ii) to be placed in any school or other institution that provides care or training or physical or mental health care:
     (iii) to undertake employment or any training for employment:
-  (c) the chief executive (acting through his or her delegate), may arrange for the child or young person to live temporarily with the parents or guardians or other person previously having the care of the child or young person or with any other person, on such terms and conditions as the delegate may specify:
-  (d) the chief executive (acting through his or her delegate), may at any time cancel any arrangement made under paragraph (b) or paragraph (c) and, after any such cancellation, may remove the child or young person to a residence or to such other place as the delegate may decide, using such force as is reasonably necessary for that purpose.
+  (c) the chief executive (acting through the chief executive’s delegate), may arrange for the child or young person to live temporarily with the parents or guardians or other person previously having the care of the child or young person or with any other person, on such terms and conditions as the delegate may specify:
+  (d) the chief executive (acting through the chief executive’s delegate), may at any time cancel any arrangement made under paragraph (b) or paragraph (c) and, after any such cancellation, may remove the child or young person to a residence or to such other place as the delegate may decide, using such force as is reasonably necessary for that purpose.
 (2) For the purpose of removing any child or young person pursuant to subsection (1)﻿(d), a delegate may enter and search any dwellinghouse, building, aircraft, ship, carriage, vehicle, premises, or place, with or without assistance and by force if necessary.
 (3) A delegate exercising any powers under subsection (2) shall, on first entering any dwelling house, building, aircraft, ship, carriage, vehicle, premises, or place, and, if requested, at any subsequent time—
   (a) produce evidence of identity; and
@@ -1214,7 +1223,7 @@ Where an order made under section 101 placing a child or young person in the cus
 (3) An application under this section must be treated as if it were an application under section 125 for the variation or discharge of an order made under Part 2, and, for that purpose, must be served and heard in accordance with Part 3 (with any necessary modifications).
 (4) On an application under this section, the court may make the orders applied for only if—
   (a) the court is satisfied that—
-    (i) the person has been unable to effectively exercise his or her guardianship responsibilities or responsibilities to provide day-to-day care to the child or young person under the orders made under the Care of Children Act 2004; and
+    (i) the person has been unable to effectively exercise their guardianship responsibilities or responsibilities to provide day-to-day care to the child or young person under the orders made under the Care of Children Act 2004; and
     (ii) that inability is due to the conduct of the parents or other guardians of the child or young person, and that conduct forms a pattern of behaviour; and
     (iii) the child's or young person's welfare is being threatened or seriously disturbed as a result; and
   (b) following an application under section 29A of the Care of Children Act 2004, the court will at the same time revoke both the person's appointment as a guardian under that Act and any associated parenting orders under section 48 of that Act.
@@ -1233,7 +1242,7 @@ Where the court makes an order under section 110 appointing the chief executive 
 
 ### 113A Special guardianship orders
 (1) The court may make an order under this section appointing a person referred to in section 110(4) as a special guardian of a child or young person only if—
-  (a) the appointment is made for the purpose of providing the child or young person with a long-term, safe, nurturing, stable, and secure environment that enhances his or her interests; and
+  (a) the appointment is made for the purpose of providing the child or young person with a long-term, safe, nurturing, stable, and secure environment that enhances their interests; and
   (b) either—
     (i) the child or young person has no other guardian; or
     (ii) the special guardian either replaces, or is additional to, an existing guardian of the child or young person.
@@ -1246,7 +1255,7 @@ Where the court makes an order under section 110 appointing the chief executive 
     (ii) section 114(2)﻿(b) and (c) applies as if the special guardian were a sole guardian; and
   (b) the order must specify the access and other rights (not being custody or guardianship rights), including any terms and conditions that apply to those rights, of each existing guardian in relation to the child or young person.
 (2) Where a special guardianship order specifies the access and other rights of any existing guardian,—
-  (a) no existing guardian may apply for an order under section 121(2)﻿(d) or (e) concerning his or her access or other rights in relation to the child or young person, but any other parent or person may apply for orders under that section in relation to the child or young person, as if the special guardian were a sole guardian; and
+  (a) no existing guardian may apply for an order under section 121(2)﻿(d) or (e) concerning their access or other rights in relation to the child or young person, but any other parent or person may apply for orders under that section in relation to the child or young person, as if the special guardian were a sole guardian; and
   (b) section 122 applies to any access rights specified in the order as if those access rights had been granted by an order made under section 121.
 (3) If a person who is appointed as the sole guardian of a child or young person is also appointed as a special guardian, the provisions of this Act relating to sole guardians apply, except that—
   (a) sections 134 and 135 (about reviewing plans) do not apply to the court plan that was prepared for the purposes of section 128; and
@@ -1332,7 +1341,7 @@ On the death of any person (being a person referred to in subsection (1)﻿(e) o
 (3) Any order made under subsection (1) or subsection (2) may be made on such terms and conditions as the court thinks fit.
 
 ### 122 Enforcement of access rights
-(1) The court may at any time, on the application of any person entitled to access to a child or young person under an order made under section 121, issue a warrant authorising the chief executive or any constable or any other person named in the warrant to take possession of the child or young person and deliver him or her to the person entitled to access in accordance with the order.
+(1) The court may at any time, on the application of any person entitled to access to a child or young person under an order made under section 121, issue a warrant authorising the chief executive or any constable or any other person named in the warrant to take possession of the child or young person and deliver that child or young person to the person entitled to access in accordance with the order.
 (1A) The function of executing a warrant issued in the name of the chief executive may be performed by a social worker or any other person authorised under a delegation to carry out that function (see section 7C).
 (2) The power conferred on the court by subsection (1) may, if the court thinks fit, be exercised on the making of the order.
 (3) Where, pursuant to this section, the court declines to enforce a right of access under an order made under section 121, it may of its own motion vary or discharge the order accordingly.
@@ -1361,7 +1370,7 @@ For the purpose of executing any warrant issued under section 122, any delegate 
   (b) all parties to the proposed application agree to the making of the application.
 (1B) Leave may be given for the purpose of subsection (1A) only if—
   (a) in the case of an application for discharge, there has been a significant change in the circumstances of the child or young person to whom the order relates; and
-  (b) in the case of an application for variation, there has been a significant change in the circumstances of the child or young person to whom the order relates, or in the circumstances of his or her parents or any guardian.
+  (b) in the case of an application for variation, there has been a significant change in the circumstances of the child or young person to whom the order relates, or in the circumstances of their parents or any guardian.
 (2) Any 1 or more of the persons specified in section 126 may, subject to that section, apply to the court for the variation, suspension, or discharge of any support order or interim support order made under section 91 or section 92, or for the variation, suspension, or cancellation of any condition of any such order.
 
 ### 126 Persons who may apply for variation or discharge of order
@@ -1431,9 +1440,9 @@ The following persons may make an application under section 125 in respect of an
 
 ### 129 Court to direct who is to prepare plan
 (1) Where, pursuant to section 128, the court is required to obtain a plan in respect of any order, the plan shall be prepared by such person as the court directs.
-(1A) Where—the plan shall be of no effect unless it has been prepared in consultation with the chief executive or his or her representative, and contains an express statement to the effect.
+(1A) Where—the plan shall be of no effect unless it has been prepared in consultation with the chief executive or the chief executive’s representative, and contains an express statement to the effect.
   (a) a person is directed, pursuant to subsection (1), to prepare a plan; and
-  (b) that person is not the chief executive (acting through his or her delegate); and
+  (b) that person is not the chief executive (acting through the chief executive’s delegate); and
   (c) that plan has any implications for the chief executive,—
 (1B) For the purposes of subsection (1A), a plan has implications for the chief executive if it proposes that—
   (a) the chief executive be required to provide services or assistance pursuant to a services order under section 86; or
@@ -1455,8 +1464,8 @@ The following persons may make an application under section 125 in respect of an
   (d) state the responsibilities and personal objectives of the child or young person:
   (e) state the responsibilities and personal objectives of any parent, guardian, or other person who, under the plan, will have the care of the child or young person:
   (ea) set out the following:
-    (i) the responsibilities and personal objectives of any parent, guardian, or other person who, under the plan, will not have the care of the child or young person, but who had the care of the child or young person previously and wishes to have the child or young person returned to his or her care:
-    (ii) the steps that each such parent, guardian, or other person must take, or the behavioural changes each must make, before the child or young person can be returned to his or her care:
+    (i) the responsibilities and personal objectives of any parent, guardian, or other person who, under the plan, will not have the care of the child or young person, but who had the care of the child or young person previously and wishes to have the child or young person returned to that person’s care:
+    (ii) the steps that each such parent, guardian, or other person must take, or the behavioural changes each must make, before the child or young person can be returned to that person’s care:
     (iii) the time frames within which those steps or changes must be taken or made:
     (iv) the time within which a decision will be made about whether to return the child or young person to the care of any parent, guardian, or other person:
   (f) contain such other matters relating to the education, employment, recreation, and welfare of the child or young person as are relevant.
@@ -1495,7 +1504,8 @@ The court may order that the whole or any part of a plan given to any person pur
   (b) state, in respect of those objectives that are yet to be achieved, what action is required to achieve those objectives:
   (c) state, in respect of any order made by the court under this Part in relation to the child or young person to whom the plan relates, whether that order should continue in force, or be varied, suspended, or discharged, and whether any condition of that order should be continued in force, or be varied, suspended, or discharged, and the reasons for those recommendations:
   (d) state whether the court should make any other order under this Part in relation to that child or young person, and the reasons for that recommendation:
-  (e) state, in respect of those persons who were required to be given a copy of the plan pursuant to section 132, whether each of those persons agrees with the recommendations contained in the report.
+  (e) state, in respect of those persons who were required to be given a copy of the plan pursuant to section 132, whether each of those persons agrees with the recommendations contained in the report:
+  (f) contain the matters referred to in section 186(2A).
 (4) On the request of a person who is required to review a plan, for the purpose of reviewing the plan a care and protection co-ordinator—
   (a) must convene a family group conference, unless the plan relates only to a services order under section 86; and
   (b) may convene a family group conference if the plan relates only to a services order.
@@ -1592,7 +1602,7 @@ Where a parent or guardian or person having the care of a child or young person�
   (a) a family group conference is held to consider whether such an agreement should be made; and
   (b) in the case of a proposed agreement under section 141 or 142, the family group conference has thoroughly explored what services and supports, such as those provided or funded by the Ministry of Health, are available to, or in respect of, the child or young person in his or her home environment; and
   (c) the family group conference approves the making of the agreement; and
-  (d) a care and protection co-ordinator issues a certificate to the effect,—
+  (d) a care and protection co-ordinator (or if section 261 applies, a youth justice co-ordinator) issues a certificate to the effect,—
     (i) in all cases, that the requirements of paragraphs (a) and (c) have been complied with; and
     (ii) in the case of a proposed agreement under section 141 or 142, that the family group conference has thoroughly explored the matters referred to in paragraph (b); and
     (iii) in all cases, that the co-ordinator is satisfied that, having regard to the objects, considerations, and principles in sections 4, 5, 6, and 13, the agreement is an appropriate care option for the child or young person.
@@ -1644,7 +1654,7 @@ The following proceedings may be heard and determined in the District Court in a
 ### 152 Service of application for declaration
 (1) Subject to section 155, every application for a declaration under section 67 that a child or young person is in need of care or protection shall be served, in accordance with rules of court, on the following persons:
   (a) each parent or guardian of the child or young person:
-  (b) if the child or young person is not residing with any of his or her parents or guardians, any person with whom the child or young person is living and who has had the care of the child or young person for a period of not less than 6 months immediately before the application was made:
+  (b) if the child or young person is not residing with any of their parents or guardians, any person with whom the child or young person is living and who has had the care of the child or young person for a period of not less than 6 months immediately before the application was made:
   (c) if the child or young person is in the custody or under the guardianship of the chief executive, the principal manager of the department for the area in which the child or young person is residing:
   (d) if the child or young person is in the custody or under the guardianship of an iwi social service or a cultural social service, that social service:
   (e) if the child or young person is in the custody of the director of a child and family support service, that director:
@@ -1674,7 +1684,7 @@ Where any person cannot be served with an application in accordance with section
 
 ### 157 Court may require child or young person to attend hearing
 (1) Where the court considers that the presence of the child or young person in respect of whom any application is made under Part 2 or Part 3A is necessary to enable the court to hear and determine that application, the court may direct the Registrar to issue a summons in a form prescribed by rules of court requiring the person who has custody of the child or young person to ensure that the child or young person is present at the hearing.
-(2) In any case where a summons under this section has been served on any person, a Family Court Judge may, if the child or young person in respect of whom the summons is issued does not appear at the hearing when required to do so, issue a warrant authorising the chief executive or any constable or any other person named in the warrant to take possession of that child or young person and bring him or her before the court.
+(2) In any case where a summons under this section has been served on any person, a Family Court Judge may, if the child or young person in respect of whom the summons is issued does not appear at the hearing when required to do so, issue a warrant authorising the chief executive or any constable or any other person named in the warrant to take possession of that child or young person and bring the child or young person before the court.
 (2A) The function of executing a warrant issued in the name of the chief executive may be performed by a social worker or any other person authorised under a delegation to carry out that function (see section 7C).
 (3) Section 123 shall apply, with all necessary modifications, in relation to every warrant issued under subsection (2) as if every such warrant were a warrant issued under section 122.
 (4) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, being required pursuant to a summons issued under this section to ensure that a child or young person appears before the court, fails to take all reasonable steps to ensure that the child or young person so appears.
@@ -1682,7 +1692,11 @@ Where any person cannot be served with an application in accordance with section
 **Joint hearings**
 
 ### 158 Applications may be heard together
-The court may hear and determine an application for a declaration under section 67 or an application under section 125 (which relates to the variation, suspension, and discharge of orders made under Part 2) or an application under Part 3A in conjunction with any application under the Adoption Act 1955 or the Care of Children Act 2004 or the Family Proceedings Act 1980 or the Domestic Violence Act 1995 in any case where all the applications relate to the same child or young person (whether or not any or all of those applications also relate to any other person).
+(1) The court may hear and determine an application for a declaration under section 67 or an application under section 125 (which relates to the variation, suspension, and discharge of orders made under Part 2) or an application under Part 3A in conjunction with any application under the Adoption Act 1955 or the Care of Children Act 2004 or the Family Proceedings Act 1980 or the Domestic Violence Act 1995 in any case where all the applications relate to the same child or young person (whether or not any or all of those applications also relate to any other person).
+(2) If the court, on hearing an application under section 125 for discharge of a care or protection order, together with an application for an order under section 48 of the Care of Children Act 2004, makes an order under section 48 of that Act, the court may determine that there is no realistic possibility that the child or young person will be returned to the parent or guardian or other person having the care of the child or young person before the order was made.
+(3) A determination under subsection (2) may be made—
+  (a) at the same time as the making of an order under section 48 of the Care of Children Act 2004; or
+  (b) on an application made at any subsequent time, in accordance with the relevant rules of court (if any), by a person who may make an application under section 68.
 
 **Appointment of persons to represent child or young person or assist court**
 
@@ -1721,7 +1735,7 @@ In any proceedings in the Family Court under Part 2 or 3A, the court may—
 
 ### 163 Appointment of lay advocate
 (1) The court may, at any stage of any proceedings under Part 2 or Part 3A, on application by any party to the proceedings or of its own motion, appoint, in respect of the child or young person who is the subject of those proceedings, any person, not being a barrister or solicitor, to appear in support of that child or young person in those proceedings and, if the court thinks desirable, for such other purposes (including any other proceedings under this Act or any other enactment) as the court may specify.
-(2) Where the court appoints a lay advocate under subsection (1), it shall, so far as practicable, appoint a person who has, by reason of personality, cultural background, knowledge, and experience, sufficient standing in the culture of the child or young person in respect of whom the appointment is to be made to enable that person to carry out his or her duties under this Act.
+(2) Where the court appoints a lay advocate under subsection (1), it shall, so far as practicable, appoint a person who has, by reason of personality, cultural background, knowledge, and experience, sufficient standing in the culture of the child or young person in respect of whom the appointment is to be made to enable that person to carry out their duties under this Act.
 (3) The court may make an appointment under subsection (1) notwithstanding that the child or young person is represented in the proceedings by a barrister or solicitor.
 (4) Notwithstanding that the proceedings in respect of which any lay advocate was appointed under subsection (1) have been disposed of or that the appointment is no longer required for any other purpose specified by the court pursuant to that subsection, the court may, if the court is satisfied that it is necessary or desirable in the interests of the child or young person to do so,—for such purpose as the court may specify.
   (a) extend that lay advocate's appointment; or
@@ -1781,7 +1795,7 @@ In any proceedings in the Family Court under Part 2 or 3A, the court may—
   (c) to exclude any person from the court.
 
 ### 167 Child or young person may give evidence in private
-In any proceedings in a court under Part 2 or Part 3A relating to a child or young person, the Judge hearing the proceedings may, if he or she thinks it desirable to do so,—
+In any proceedings in a court under Part 2 or Part 3A relating to a child or young person, the Judge hearing the proceedings may, if the Judge thinks it desirable to do so,—
   (a) require all or any of the following persons to withdraw from the court while the child or young person gives evidence:
     (i) any parent or guardian or other person having the care of the child or young person:
     (ii) any other person:
@@ -1878,7 +1892,7 @@ The Family Court Judge who presides over a mediation conference shall be entitle
     (i) is entitled to practise as a psychologist, or in the speciality of psychological medicine or psychiatry, in that person's country of permanent residence; and
     (ii) has qualifications that, in the view of the appropriate registering body in New Zealand, are at least equivalent to those required of a person referred to in paragraph (a) or paragraph (b).
 (4) Every child or young person who is examined under section 178(1) is, where practicable, entitled to have present during that examination 1 adult—
-  (a) who is nominated for that purpose by that child or young person or, if the age or level of maturity of the child or young person makes it impracticable for him or her to make such a nomination, by the chief executive; and
+  (a) who is nominated for that purpose by that child or young person or, if the age or level of maturity of the child or young person makes it impracticable for that child or young person to make such a nomination, by the chief executive; and
   (b) who consents to be present.
 
 ### 180 Fees for reports prepared under section 178
@@ -1888,7 +1902,7 @@ Where any person prepares a report pursuant to section 178, the fees and expense
 (1) If, at any stage of the hearing of any proceedings under Part 2,—the court may, if it considers it expedient, make an order for the detention and examination of that child or young person in a psychiatric hospital for such period, not exceeding 5 days, as the court thinks fit.
   (a) 2 medical practitioners have certified or given evidence that a psychiatric assessment of any child of or over the age of 10 years, or of any young person to whom the proceedings relate, should be obtained, and it appears to the court that it would not be practicable for such assessment to be carried out outside a psychiatric hospital; or
   (b) 2 psychiatric reports (whether obtained pursuant to section 178(1) or otherwise) recommending detention of any such child or young person in a psychiatric hospital for further observation are available to the court,—
-(2) Where an order is made under subsection (1), a Family Court Judge may, on application made at any time before the expiry of the period specified in the order, if he or she is satisfied that it is necessary to detain the child or young person to whom the order relates in a psychiatric hospital for longer than that period for the purpose of completing the assessment or observation of that child or young person pursuant to that order, extend the period for which that child or young person may be detained in that hospital for such period, not exceeding 14 days, as the Judge thinks fit.
+(2) Where an order is made under subsection (1), a Family Court Judge may, on application made at any time before the expiry of the period specified in the order, if the Judge is satisfied that it is necessary to detain the child or young person to whom the order relates in a psychiatric hospital for longer than that period for the purpose of completing the assessment or observation of that child or young person pursuant to that order, extend the period for which that child or young person may be detained in that hospital for such period, not exceeding 14 days, as the Judge thinks fit.
 (3) The examination required by an order made under subsection (1) shall be carried out by a medical practitioner holding a specialist psychiatric appointment or holding vocational registration in the speciality of psychological medicine or psychiatry.
 (4) An order made under subsection (1) in respect of any child or young person is sufficient authority—
   (a) for the detention of the child or young person by the chief executive or any constable for the purpose of ensuring compliance with the order:
@@ -2137,7 +2151,7 @@ In this Part, unless the context otherwise requires,—
 
 ### 207D Chief executive may transfer protection order
 (1) The chief executive may transfer a protection order (the home order) to a participating State if,—
-  (a) in his or her opinion, a protection order to the same or a similar effect as the home order could be made under the child welfare law of that State; and
+  (a) in the chief executive’s opinion, a protection order to the same or a similar effect as the home order could be made under the child welfare law of that State; and
   (b) the home order is not subject to an appeal to the High Court, or to any review proceedings; and
   (c) the interstate officer of the participating State has consented in writing to the transfer and to the proposed terms of the protection order to be transferred (the interstate order); and
   (d) any consent required under section 207F has been given; and
@@ -2189,10 +2203,10 @@ In deciding whether to transfer a protection order, the chief executive must hav
 ### 207I Notice of decision to transfer
 (1) As soon as practicable but in any event no later than 3 working days after deciding to transfer a protection order, the chief executive must give a notice of the decision to—
   (a) each parent of the child or young person concerned; and
-  (b) the child or young person concerned, unless he or she is incapable of understanding the notice because of his or her level of maturity.
+  (b) the child or young person concerned, unless the child or young person is incapable of understanding the notice because of their level of maturity.
 (2) A notice must also—
   (a) state that the decision may be reviewed on certain grounds if, within 13 working days after the date of the decision, review proceedings are brought in the High Court and served on the chief executive; and
-  (b) inform the child, young person, or parent on whom it is served that he or she may bring review proceedings (or, as the case requires, have review proceedings brought on his or her behalf) and how, in general terms, the review proceedings may be brought.
+  (b) inform the child, young person, or parent on whom it is served that the child, young person, or parent may bring review proceedings (or, as the case requires, have review proceedings brought on their behalf) and how, in general terms, the review proceedings may be brought.
 (3) Nothing in this section requires the chief executive to give a person a notice if the chief executive is not able to locate the person after having made all reasonable efforts to locate the person.
 
 ### 207J Review of decision to transfer
@@ -2271,7 +2285,7 @@ The following provisions apply to an appeal to the High Court under section 341 
 ### 207R Service of application
 (1) As soon as possible after the chief executive files in a court an application under section 207Q, the Registrar of the court must serve a copy of the application on—
   (a) each parent of the child or young person concerned or other person with whom the child or young person concerned is living; and
-  (b) the child or young person concerned, unless he or she is incapable of understanding the application because of his or her level of maturity.
+  (b) the child or young person concerned, unless the child or young person is incapable of understanding the application because of their level of maturity.
 (2) Section 155 (Court may dispense with service) applies, with any necessary modification, to the service of a copy of the application.
 (3) A person served with proceedings under subsection (1) is entitled to appear and be heard as a party to the proceedings.
 
@@ -2279,7 +2293,7 @@ The following provisions apply to an appeal to the High Court under section 341 
 In considering an application under section 207Q, the court must have regard to—
   (a) whether any other proceedings relating to the child or young person are pending, or have previously been heard and determined, under the child welfare law in the participating State; and
   (b) the place or places where any of the matters giving rise to the proceedings in the court occurred; and
-  (c) the place of residence, or likely place of residence, of the child or young person, his or her parents, and of any other people who are significant to the child or young person; and
+  (c) the place of residence, or likely place of residence, of the child or young person, their parents, and of any other people who are significant to the child or young person; and
   (d) the principles referred to in sections 5, 6, and 13; and
   (e) whether the chief executive or an interstate officer is in the better position to exercise powers and responsibilities under a protection order relating to the child or young person; and
   (f) the desirability of a protection order being an order under the child welfare law of the place where the child or young person resides.
@@ -2426,7 +2440,7 @@ If the court revokes the registration of an order under section 207ZF,—
 (1) This section applies to information—
   (a) to which section 207ZM applies; and
   (b) that, if disclosed, would be likely to identify, or lead to the identification of, a person (a notifier) who notified the interstate officer of the person's belief that a child or young person was in need of care or protection.
-(2) This section does not apply to information that is or may be evidence of any grounds that the notifier had for his or her belief.
+(2) This section does not apply to information that is or may be evidence of any grounds that the notifier had for their belief.
 (3) The chief executive, or an officer or employee of the department, must not disclose information to which this section applies unless—
   (a) the notifier has consented in writing to the disclosure; or
   (b) the disclosure is to enable—
@@ -2450,7 +2464,7 @@ A document that purports to be the written consent of an interstate officer (or 
 ### 208 Principles
 Subject to section 5, any court which, or person who, exercises any powers conferred by or under this Part or Part 5 or sections 351 to 360 shall be guided by the following principles:
   (a) the principle that, unless the public interest requires otherwise, criminal proceedings should not be instituted against a child or young person if there is an alternative means of dealing with the matter:
-  (b) the principle that criminal proceedings should not be instituted against a child or young person solely in order to provide any assistance or services needed to advance the welfare of the child or young person, or his or her family, whanau, or family group:
+  (b) the principle that criminal proceedings should not be instituted against a child or young person solely in order to provide any assistance or services needed to advance the welfare of the child or young person, or their family, whanau, or family group:
   (c) the principle that any measures for dealing with offending by children or young persons should be designed—
     (i) to strengthen the family, whanau, hapu, iwi, and family group of the child or young person concerned; and
     (ii) to foster the ability of families, whanau, hapu, iwi, and family groups to develop their own means of dealing with offending by their children and young persons:
@@ -2459,7 +2473,7 @@ Subject to section 5, any court which, or person who, exercises any powers confe
     (i) whether or not to impose sanctions in respect of offending by a child or young person; and
     (ii) the nature of any such sanctions:
   (f) the principle that any sanctions imposed on a child or young person who commits an offence should—
-    (i) take the form most likely to maintain and promote the development of the child or young person within his or her family, whanau, hapu, and family group; and
+    (i) take the form most likely to maintain and promote the development of the child or young person within their family, whanau, hapu, and family group; and
     (ii) take the least restrictive form that is appropriate in the circumstances:
   (fa) the principle that any measures for dealing with offending by a child or young person should so far as it is practicable to do so address the causes underlying the child's or young person's offending:
   (g) the principle that—
@@ -2523,8 +2537,8 @@ A constable may arrest a child or young person without a warrant if—
 
 ### 215 Child or young person to be informed of rights before questioned by enforcement officer
 (1) Subject to sections 233 and 244, every enforcement officer shall, before questioning any child or young person whom there are reasonable grounds to suspect of having committed an offence, or before asking any child or young person any question intended to obtain an admission of an offence, explain to that child or young person—
-  (a) subject to subsection (2), if the circumstances are such that the enforcement officer would have power to arrest the child or young person without warrant, that the child or young person may be arrested if, by refusing to give his or her name and address to the enforcement officer, the child or young person cannot be served with a summons; and
-  (b) subject to subsection (2), that the child or young person is not obliged to accompany the enforcement officer to any place for the purpose of being questioned, and that if the child or young person consents to do so, that he or she may withdraw that consent at any time; and
+  (a) subject to subsection (2), if the circumstances are such that the enforcement officer would have power to arrest the child or young person without warrant, that the child or young person may be arrested if, by refusing to give their name and address to the enforcement officer, the child or young person cannot be served with a summons; and
+  (b) subject to subsection (2), that the child or young person is not obliged to accompany the enforcement officer to any place for the purpose of being questioned, and that if the child or young person consents to do so, the child or young person may withdraw that consent at any time; and
   (c) that the child or young person is under no obligation to make or give any statement; and
   (d) that if the child or young person consents to make or give a statement, the child or young person may withdraw that consent at any time; and
   (e) that any statement made or given may be used in evidence in any proceedings; and
@@ -2540,7 +2554,7 @@ Subject to sections 233 and 244, where—that enforcement officer shall explain 
 ### 216 Enforcement officer to explain rights to child or young person who is to be charged with offence
 Subject to sections 233 and 244, where—the enforcement officer shall explain to that child or young person—
   (a) an enforcement officer is questioning a child or young person in relation to the commission or possible commission of an offence by that child or young person; and
-  (b) that enforcement officer makes up his or her mind to charge that child or young person with an offence,—
+  (b) that enforcement officer decides to charge that child or young person with an offence,—
   (c) except where the child or young person is under arrest, the matters specified in paragraphs (a) and (b) of section 215(1); and
   (d) the matters specified in paragraphs (c) to (f) of section 215(1).
 
@@ -2563,7 +2577,7 @@ Nothing in section 215 or section 215A or section 216 or section 217 limits or a
   (a) every child or young person who is being questioned by an enforcement officer in relation to the commission or possible commission of an offence by that child or young person:
   (b) every child or young person—
     (i) who has been arrested pursuant to section 214; or
-    (ii) whom any enforcement officer has made up his or her mind to charge with the commission of an offence; or
+    (ii) whom any enforcement officer has decided to charge with the commission of an offence; or
     (iii) who has been detained in the custody of an enforcement officer following arrest pursuant to section 214.
 (2) Subject to sections 223 to 225 and sections 233 and 244, no oral or written statement made or given to any enforcement officer by a child or young person to whom this section applies is admissible in evidence in any proceedings against that child or young person for an offence unless—
   (a) before the statement was made or given, the enforcement officer has explained in a manner and in language that is appropriate to the age and level of understanding of the child or young person,—
@@ -2632,7 +2646,7 @@ Notwithstanding any other enactment or rule of law, no evidence of any communica
     (ii) the child or young person refuses or fails to nominate any person in accordance with section 231,—
 (2) Subject to sections 233 and 244, every person who is informed pursuant to subsection (1)﻿(a) that a child or young person has been taken to an enforcement agency office or arrested—
   (a) is entitled to visit that child or young person at the enforcement agency office; and
-  (b) shall, as soon as practicable after that person arrives at the enforcement agency office to visit the child or young person, have explained to him or her by an enforcement officer, in language that can be understood by that person, the matters specified in paragraphs (c) to (f) of section 215(1); and
+  (b) shall, as soon as practicable after that person arrives at the enforcement agency office to visit the child or young person, have explained to that person by an enforcement officer, in language that can be understood by that person, the matters specified in paragraphs (c) to (f) of section 215(1); and
   (c) subject to subsection (3), is entitled to consult privately with that child or young person during that visit.
 (3) Nothing in subsection (2)﻿(c) entitles any person to consult privately with a child or young person (being a child or young person who has been arrested)—
   (a) in the absence of any enforcement officer who is for the time being guarding that child or young person; or
@@ -2691,7 +2705,7 @@ Subject to sections 235, 236, and 244, where a child or young person is arrested
       (B) interference with any witness in respect of any such offence; or
   (b) the child or young person has been arrested under section 214A and is likely to continue to breach any condition of bail.
 (2) A child or young person shall be placed in the custody of the chief executive pursuant to this section by—
-  (a) delivering the child or young person to the chief executive (acting through his or her delegate); and
+  (a) delivering the child or young person to the chief executive (acting through the chief executive’s delegate); and
   (b) presenting to the delegate, on the prescribed form, details relating to—
     (i) the identity of the child or young person; and
     (ii) the circumstances of the arrest of the child or young person; and
@@ -2700,7 +2714,7 @@ Subject to sections 235, 236, and 244, where a child or young person is arrested
 (4) No constable shall exercise the power conferred by subsection (1) merely because the constable believes that any child or young person is in need of care or protection (as defined in section 14).
 
 ### 236 Young person who is arrested may be detained in Police custody
-(1) Notwithstanding the provisions of sections 234 and 235 but subject to section 244, where the chief executive (acting through his or her delegate) and a constable, being a senior sergeant or a constable who is of or above the level of position of inspector, are satisfied on reasonable grounds—the young person may, on the joint certificate in the prescribed form of the delegate and that constable, be detained in Police custody for a period exceeding 24 hours and until appearance before the court.
+(1) Notwithstanding the provisions of sections 234 and 235 but subject to section 244, where the chief executive (acting through the chief executive’s delegate) and a constable, being a senior sergeant or a constable who is of or above the level of position of inspector, are satisfied on reasonable grounds—the young person may, on the joint certificate in the prescribed form of the delegate and that constable, be detained in Police custody for a period exceeding 24 hours and until appearance before the court.
   (a) that a young person who has been arrested is likely to abscond or be violent; and
   (b) that suitable facilities for the detention in safe custody of that young person are not available to the chief executive,—
 (2) If a joint certificate is issued under subsection (1), there shall, within 5 days after the day on which the certificate is issued, be furnished by the delegate to the chief executive and by the constable to the Commissioner of Police—
@@ -2761,7 +2775,7 @@ The Youth Court or the High Court may, from time to time, review any order made 
 ### 242 Order under section 238 sufficient authority for detention of child or young person
 (1) The making of an order under section 238(1)﻿(d) for the detention of a child or young person in the custody of the chief executive shall be sufficient authority—
   (a) for the detention of the child or young person in a residence under this Act; and
-  (b) for the detention of the child or young person in Police custody for a period of not more than 24 hours at any one time if the chief executive (acting through his or her delegate) and a constable, being a senior sergeant or a constable who is of or above the level of position of inspector, are satisfied on reasonable grounds—
+  (b) for the detention of the child or young person in Police custody for a period of not more than 24 hours at any one time if the chief executive (acting through the chief executive’s delegate) and a constable, being a senior sergeant or a constable who is of or above the level of position of inspector, are satisfied on reasonable grounds—
     (i) that the child or young person is likely to abscond or be violent; and
     (ii) that suitable facilities for the detention in safe custody of that child or young person are not available to the chief executive.
 (2) The making of an order under section 238(1)﻿(e) for the detention of a young person in Police custody shall be sufficient authority for the detention of the young person in Police custody.
@@ -2778,7 +2792,7 @@ Nothing in sections 214 to 243 limits or affects any provision of the Immigratio
 **Prosecution of children and young persons**
 
 ### 245 Proceedings not to be instituted against young person unless youth justice co-ordinator consulted and family group conference held
-(1) Where a young person is alleged to have committed an offence, and the offence is such that if the young person is charged he or she will be required pursuant to section 272 to be brought before the Youth Court then, unless the young person has been arrested, no charging document in respect of that offence may be filed unless—
+(1) Where a young person is alleged to have committed an offence, and the offence is such that if the young person is charged the young person will be required pursuant to section 272 to be brought before the Youth Court then, unless the young person has been arrested, no charging document in respect of that offence may be filed unless—
   (a) the person intending to commence the proceedings believes that the institution of criminal proceedings against the young person for that offence is required in the public interest; and
   (b) consultation in relation to the matter has taken place between—
     (i) the person intending to commence the proceedings or another person acting on that person's behalf; and
@@ -2897,7 +2911,7 @@ Where—a youth justice co-ordinator shall, subject to sections 248 to 250, fix 
 (4) Failure to notify any person in accordance with this section shall not affect the validity of the proceedings of a family group conference unless it is shown that the failure is likely to have materially affected the outcome of that conference.
 
 ### 254 Youth justice co-ordinator to ascertain views of persons unable to attend family group conference
-(1) Every youth justice co-ordinator who convenes a family group conference shall take all reasonable steps to ascertain the views of any person who is entitled to attend the conference but who has notified the youth justice co-ordinator that he or she or it is unable, for any reason, to do so.
+(1) Every youth justice co-ordinator who convenes a family group conference shall take all reasonable steps to ascertain the views of any person who is entitled to attend the conference but who has notified the youth justice co-ordinator that they are unable, for any reason, to do so.
 (2) Where, in respect of any family group conference, a youth justice co-ordinator ascertains the views of any person pursuant to subsection (1), that co-ordinator shall ensure that those views are made known at that conference.
 
 ### 255 Youth justice co-ordinator must ensure that relevant information and advice made available to family group conference
@@ -3104,7 +3118,7 @@ Sections 37 and 38 (which relate to privilege and the publication of the proceed
 (1) This section applies if a young person—
   (a) is charged with murder or manslaughter; or
   (b) is charged with a category 3 or 4 offence, other than murder or manslaughter, and elects to be tried by a jury; or
-  (c) is to have a jury trial and be tried with a person with whom he or she is jointly charged, in accordance with section 277.
+  (c) is to have a jury trial and be tried with a person with whom the young person is jointly charged, in accordance with section 277.
 (2) All applicable pre-trial processes must take place before the Youth Court, up to and including—
   (a) in the case of a charge relating to a category 3 offence or category 4 offence (other than murder or manslaughter), transferring to the trial court after an adjournment for trial callover in accordance with section 57(3)﻿(b) of the Criminal Procedure Act 2011; and
   (b) in the case of a charge of murder or manslaughter, transferring the proceeding to the High Court in accordance with section 36(2) of the Criminal Procedure Act 2011.
@@ -3119,10 +3133,10 @@ Sections 37 and 38 (which relate to privilege and the publication of the proceed
 (1) This section applies if—
   (a) a child aged 12 or 13 years charged with an offence specified in section 272(1)﻿(b) or (c) elects trial by jury; or
   (b) a young person charged with a category 3 or 4 offence, other than murder or manslaughter, elects trial by jury.
-(2) The child or young person may, without leave of the court, withdraw that election at any time before the proceeding is transferred to the trial court after an adjournment for trial callover in accordance with section 57(3)﻿(b) of the Criminal Procedure Act 2011 and, if the child or young person does so, the proceedings continue in the Youth Court as if he or she had not made that election.
-(3) If the Youth Court proposes to adjourn the proceeding for trial callover, or the child or young person at any time before the proceeding is adjourned for trial callover indicates to the court that he or she wishes to plead guilty to the offence, the Youth Court must give that child or young person the opportunity of forgoing the right to trial by jury and of electing to have the charge heard and determined in the Youth Court by a Youth Court Judge.
+(2) The child or young person may, without leave of the court, withdraw that election at any time before the proceeding is transferred to the trial court after an adjournment for trial callover in accordance with section 57(3)﻿(b) of the Criminal Procedure Act 2011 and, if the child or young person does so, the proceedings continue in the Youth Court as if the child or young person had not made that election.
+(3) If the Youth Court proposes to adjourn the proceeding for trial callover, or the child or young person at any time before the proceeding is adjourned for trial callover indicates to the court that they wish to plead guilty to the offence, the Youth Court must give that child or young person the opportunity of forgoing the right to trial by jury and of electing to have the charge heard and determined in the Youth Court by a Youth Court Judge.
 (4) If a young person elects to have the charge heard and determined in the Youth Court by a Youth Court Judge, the Youth Court has the jurisdiction to hear and determine the charge and otherwise deal with the young person in accordance with this Act.
-(5) If a child elects to have the charge heard and determined in the Youth Court by a Youth Court Judge, the Youth Court has the jurisdiction to hear and determine the charge and otherwise deal with the child in accordance with this Act as if he or she were a young person (but subject to section 272A(1)﻿(a), (c), and (d)).
+(5) If a child elects to have the charge heard and determined in the Youth Court by a Youth Court Judge, the Youth Court has the jurisdiction to hear and determine the charge and otherwise deal with the child in accordance with this Act as if the child were a young person (but subject to section 272A(1)﻿(a), (c), and (d)).
 
 ### 277 Provisions applicable where child, young person, or adult jointly charged
 (1) If a child or young person is charged with any offence jointly with any other person or persons (whether 1 or more young persons, adults, or children), this section applies.
@@ -3186,7 +3200,7 @@ Where, in any proceedings under this Part in respect of any charging document fi
   (b) if not discharged earlier, the charge is deemed to be discharged if, and when, an application for a declaration under section 67 on that ground in respect of the child and the offence first comes before a Family Court Judge.
 (4) A person to whom a matter in respect of a child is referred under subsection (2) must—
   (a) consider whether to make an application for a declaration under section 67 on that ground in respect of the child and offence or to deal with the matter in some other way; and
-  (b) give effect to his or her decision under paragraph (a), and ensure the Youth Court is advised promptly of the outcome of the referral.
+  (b) give effect to the decision under paragraph (a), and ensure the Youth Court is advised promptly of the outcome of the referral.
 (5) Before referring a matter to the person who commenced the proceedings under subsection (2), the court may—
   (a) direct a youth justice co-ordinator to convene a family group conference for the purpose of considering whether the making of an application for a declaration under section 67 on that ground in respect of the child and the offence would serve the public interest better than the continuation of the proceedings under this Part (in which case sections 250 to 259 apply to the conference with all necessary modifications); and
   (b) adjourn the proceedings until the conference has been held.
@@ -3236,7 +3250,7 @@ The Youth Court before which a charge against a young person is proved may, subj
   (j) make an order that could have been made by a court other than the Youth Court under section 128 or 129 of the Sentencing Act 2002 (which relate to confiscation of motor vehicles) if the young person were an adult and had been convicted of the offence in a court other than the Youth Court, and, if the court makes the order, the following sections of that Act apply (to the extent they are applicable and subject to any necessary modifications):
     (i) section 128 or 129 (as the case may be):
     (ii) sections 129EA, 130, 131 to 136, 137, and 138 to 142:
-  (ja) make an order requiring the young person (if he or she is, or is soon to be, a parent or guardian or other person having the care of a child), or a parent or guardian or other person having the care of the young person, or both, to attend, in a manner specified by the court, and for a specified period of not more than 6 months, a specified parenting education programme:
+  (ja) make an order requiring the young person (if the young person is, or is soon to be, a parent or guardian or other person having the care of a child), or a parent or guardian or other person having the care of the young person, or both, to attend, in a manner specified by the court, and for a specified period of not more than 6 months, a specified parenting education programme:
   (jb) make an order requiring the young person to attend, in a manner specified by the court, and for a specified period of not more than 12 months, a specified mentoring programme:
   (jc) make an order requiring the young person to attend, in a manner specified by the court, and for a specified period of not more than 12 months, a specified alcohol or drug rehabilitation programme:
   (k) make an order placing the young person under the supervision of the chief executive, or any person or organisation specified in the order, for a period not exceeding 6 months:
@@ -3246,7 +3260,7 @@ The Youth Court before which a charge against a young person is proved may, subj
   (o) exercise the powers conferred by one of the following subparagraphs:
     (i) the court may order that the young person be brought before the District Court for sentence or decision, and may enter a conviction before doing so; and the Sentencing Act 2002 applies accordingly if—
       (A) the young person is of or over the age of 15 years; or
-      (B) the young person is of or over the age of 14 years and under the age of 15 years and the charge proved against him or her is a charge in respect of a category 4 offence or category 3 offence for which the maximum penalty available is or includes imprisonment for life or for at least 14 years:
+      (B) the young person is of or over the age of 14 years and under the age of 15 years and the charge proved against the young person is a charge in respect of a category 4 offence or category 3 offence for which the maximum penalty available is or includes imprisonment for life or for at least 14 years:
     (ii) the court may, in the case of a young person charged with a category 4 offence or an offence for which the maximum penalty available is or includes imprisonment for life and if the court considers that a sentence of imprisonment for life may be appropriate, order that the young person be brought before the High Court for sentence or decision and may enter a conviction before doing so; and the Sentencing Act 2002 applies accordingly if the young person is of or over the age of 14 years.
 
 ### 284 Factors to be taken into account on sentencing
@@ -3256,7 +3270,7 @@ The Youth Court before which a charge against a young person is proved may, subj
   (c) the attitude of the young person towards the offence:
   (d) the response of the young person's family, whanau, or family group to—
     (i) the causes underlying the young person's offending, and the measures available for addressing those causes, so far as it is practicable to do so.
-    (ii) the young person himself or herself as a result of that offending:
+    (ii) the young person themselves as a result of that offending:
   (e) any measures taken or proposed to be taken by the young person, or the family, whanau, or family group of the young person, to make reparation or apologise to any victim of the offending:
   (f) the effect of the offence on any victim of the offence, and the need for reparation to be made to that victim:
   (g) any previous offence proved to have been committed by the young person (not being an offence in respect of which an order has been made under section 282 or section 35 of the Children and Young Persons Act 1974), any penalty imposed or order made in relation to that offence, and the effect on the young person of the penalty or order:
@@ -3318,7 +3332,7 @@ No order may be made under section 283 in respect of a parent or guardian or oth
   (b) substitutes under section 316(2)﻿(b) any other order under section 283 that it could have made when the supervision with residence order was made.
 
 ### 290 Judge must record in writing reasons for supervision with residence or transfer order
-A Judge exercising the jurisdiction of the court to make an order under section 283(n) or (o) must when making the order record in writing his or her reasons for doing so.
+A Judge exercising the jurisdiction of the court to make an order under section 283(n) or (o) must when making the order record in writing the Judge’s reasons for doing so.
 
 ### 290A Restriction on who may provide residential component of specified programme or activity
 (1) This section applies to a court considering whether to impose under section 307(1)﻿(b) or 311(2) a condition that a young person undertake a specified programme or activity as a condition of—
@@ -3327,7 +3341,7 @@ A Judge exercising the jurisdiction of the court to make an order under section 
 (2) The court must not impose the condition unless the residential component of the specified programme or activity is to be provided by—
   (a) the chief executive; or
   (b) a body or organisation approved under section 396.
-(3) The residential component of a specified programme or activity means any component of the programme or activity that cannot be undertaken satisfactorily by a young person unless he or she resides—
+(3) The residential component of a specified programme or activity means any component of the programme or activity that cannot be undertaken satisfactorily by a young person unless the young person resides—
   (a) where that component is provided; and
   (b) with, and under the control of, the provider.
 
@@ -3417,15 +3431,15 @@ Where—the young person is, unless the charge is discharged under section 282, 
 (1) This section applies if a person has made an application under section 296B(1) for a declaration that a young person has without reasonable excuse failed to comply satisfactorily with a requirement of an order specified in section 296A(1) (a breach application).
 (2) The person may make, to the court dealing with the breach application, an application in writing and on oath for a warrant to arrest, and to bring before that court, the young person to whom the breach application relates if the person believes on reasonable grounds that—
   (a) all reasonable efforts have been made to locate or, as the case requires, to serve the breach application on, that young person, but those efforts have failed; or
-  (b) the breach application has been served on that young person, but he or she has failed to appear before that court.
+  (b) the breach application has been served on that young person, but the young person has failed to appear before that court.
 (3) The court dealing with the breach application may, on an application under subsection (2), issue a warrant to arrest, and to bring before that court, the young person to whom the breach application relates if satisfied that—
   (a) all reasonable efforts have been made to locate or, as the case requires, to serve the breach application on, that young person, but those efforts have failed; or
-  (b) the breach application has been served on that young person, but he or she has failed to appear before that court.
+  (b) the breach application has been served on that young person, but the young person has failed to appear before that court.
 
 ### 296D Execution of warrant under section 296C
 (1) A warrant under section 296C may be executed only by a constable.
 (2) The warrant must be directed to a constable by name or generally to every constable, but in either case may be executed by any constable.
-(3) For the purpose of executing the warrant, the constable executing it may at any time enter on to any premises, by force if necessary, if he or she has reasonable grounds to believe that the young person against whom it is issued is on those premises.
+(3) For the purpose of executing the warrant, the constable executing it may at any time enter on to any premises, by force if necessary, if the constable has reasonable grounds to believe that the young person against whom it is issued is on those premises.
 (4) Sections 445A (person executing warrant to produce evidence of authority and identity) and 445B (authority to use facsimile copy of warrant) apply to the warrant.
 
 ### 296E Variation and cancellation
@@ -3493,8 +3507,8 @@ If a young person is placed under the supervision of the chief executive by an o
     (iii) to attend a family group conference or other process relating to the young person's offending; or
     (iv) to carry out any undertaking, or implement a decision, recommendation, or plan, arising from a family group conference or other process relating to the young person's offending; or
   (d) with the approval of the chief executive and subject to any conditions imposed by the chief executive, on humanitarian grounds.
-(6) On or after imposing, and making an order under section 296G also subject to, a curfew condition, the court may, if satisfied that other conditions of the order are likely to be insufficient to secure the young person's compliance with the order, make the order also subject to a condition that the young person must for a specified period not exceeding 6 months submit to electronic monitoring of his or her compliance with the curfew condition.
-(7) A Judge exercising the jurisdiction of the court to impose an electronic monitoring condition under subsection (6) must when imposing the condition record in writing his or her reasons for doing so.
+(6) On or after imposing, and making an order under section 296G also subject to, a curfew condition, the court may, if satisfied that other conditions of the order are likely to be insufficient to secure the young person's compliance with the order, make the order also subject to a condition that the young person must for a specified period not exceeding 6 months submit to electronic monitoring of the young person’s compliance with the curfew condition.
+(7) A Judge exercising the jurisdiction of the court to impose an electronic monitoring condition under subsection (6) must when imposing the condition record in writing the Judge’s reasons for doing so.
 
 ### 296K Electronic monitoring
 (1) The purposes of an electronic monitoring condition imposed under section 296J(6) are to—
@@ -3512,7 +3526,7 @@ If a young person is placed under the supervision of the chief executive by an o
 (7) Functions or powers delegated under subsection (5) must be regarded as functions or powers of the Commissioner of Police for the purposes of section 17(1) of the Policing Act 2008.
 
 ### 296L Powers to detain and return, and arrest, young person breaching curfew condition
-(1) A constable or the chief executive (acting through his or her delegate) may (using such reasonable force as may be necessary) detain without warrant and return to the curfew address a young person subject to a curfew condition under section 296J and found at a place other than the curfew address if the constable or delegate believes on reasonable grounds that the young person has failed to comply with the curfew condition by—
+(1) A constable or the chief executive (acting through the chief executive’s delegate) may (using such reasonable force as may be necessary) detain without warrant and return to the curfew address a young person subject to a curfew condition under section 296J and found at a place other than the curfew address if the constable or delegate believes on reasonable grounds that the young person has failed to comply with the curfew condition by—
   (a) leaving, or being taken without authority, from the curfew address; or
   (b) refusing or neglecting to return to the curfew address.
 (2) A constable may (using such reasonable force as may be necessary) arrest without warrant a young person subject to a curfew condition under section 296J and found at a place other than the curfew address if the constable believes on reasonable grounds that the young person has failed to comply with the curfew condition by—
@@ -3568,7 +3582,7 @@ Where a court finds a charge against a young person proved, and that young perso
   (a) by a parent or guardian (not being the chief executive) of the young person; or
   (b) if there is no such parent or guardian in New Zealand or no such parent or guardian can be found with reasonable diligence or is capable of giving consent, by a person in New Zealand who has been acting in the place of a parent; or
   (c) if there is no person in New Zealand who has been so acting, or if no such person can be found with reasonable diligence or is capable of giving consent, by a District Court Judge or the chief executive.
-(4) This subsection applies if the court is satisfied that a programme that a young person is required by an order under section 283(jc) to attend is unable to be provided to the young person while he or she lives with the parents or guardians or other persons having the care of the young person.
+(4) This subsection applies if the court is satisfied that a programme that a young person is required by an order under section 283(jc) to attend is unable to be provided to the young person while they live with the parents or guardians or other persons having the care of the young person.
 (5) If subsection (4) applies, the court may, to enable the programme referred to in subsection (4) to be provided to the young person, make an order placing the young person in the custody of the chief executive, an iwi social service, a cultural social service, or the director of a child and family support service.
 (6) The court must not make an order under subsection (5) placing a young person in the custody of a person (other than the chief executive) or organisation unless that person or organisation consents to the making of the order.
 (7) A custody order under subsection (5) has the same effect as if the young person had been placed in the custody of the relevant person or organisation under an order under section 101, except that—
@@ -3597,7 +3611,7 @@ Where a court finds a charge against a young person proved, and that young perso
 
 ### 302 Application of Accident Compensation Act 2001 to young persons performing work under community work order
 When a young person performs any service or does any work for the purposes of a community work order, the following provisions apply:
-  (a) if the young person suffers any personal injury for which he or she has cover under the Accident Compensation Act 2001 arising out of and in the course of performing that service or doing that work,—
+  (a) if the young person suffers any personal injury for which the young person has cover under the Accident Compensation Act 2001 arising out of and in the course of performing that service or doing that work,—
     (i) the personal injury is deemed, for the purposes of section 97 of that Act only, to be a work-related personal injury; and
     (ii) the Crown is liable to pay compensation to which the young person is entitled under that section:
   (b) the cost of all other entitlements of the young person under that Act must be met from the Earners' Account in the case of a young person who is an earner and from the Non-Earners' Account in all other cases.
@@ -3615,11 +3629,11 @@ If a young person is placed under the supervision of the chief executive by an o
 ### 305 Conditions of supervision order
 (1) If the court makes an order under section 283(k), the following conditions apply:
   (a) the supervisor may, at all reasonable times, visit and enter the building or place in which the young person is living:
-  (b) the young person must report to the supervisor as and when he or she is required to do so by the supervisor:
-  (c) the young person must not reside at an address at which the supervisor has directed him or her not to reside:
+  (b) the young person must report to the supervisor as and when the young person is required to do so by the supervisor:
+  (c) the young person must not reside at an address at which the supervisor has directed them not to reside:
   (d) the young person may only continue in employment, or continue to engage in any occupation, approved by the supervisor:
-  (e) the young person must ensure that the supervisor knows at all times the address at which he or she is residing:
-  (f) the young person must not associate with any specified person or any specified class of persons that the supervisor has, in writing, warned him or her not to associate with.
+  (e) the young person must ensure that the supervisor knows at all times the address at which the young person is residing:
+  (f) the young person must not associate with any specified person or any specified class of persons that the supervisor has, in writing, warned them not to associate with.
 (2) For the purposes of this section and section 306, supervisor means any of the following people who are to provide or are providing supervision of a young person:
   (a) a person who has been delegated the chief executive’s functions or powers under section 283(k):
   (b) the person named in the order:
@@ -3647,7 +3661,7 @@ If a young person is placed under the supervision of the chief executive by an o
 (2) If the court makes an order under subsection (1) in respect of a young person, it may at the same time or before that order expires make an order under section 283(k)—
   (a) placing that young person under the supervision of the chief executive or such person or organisation as is specified in the order for such period (not exceeding 6 months) as the court may specify; and
   (b) that must come into force on the expiry of the order made under subsection (1).
-(3) This subsection applies if the court is satisfied that a programme or activity that a young person is required by a condition of an order under subsection (1) to take part in or undertake is unable to be provided to the young person while he or she lives with the parents or guardians or other persons having the care of the young person.
+(3) This subsection applies if the court is satisfied that a programme or activity that a young person is required by a condition of an order under subsection (1) to take part in or undertake is unable to be provided to the young person while they live with the parents or guardians or other persons having the care of the young person.
 (4) If subsection (3) applies, the court may, to enable the programme or activity referred to in subsection (3) to be provided to the young person, make an order placing the young person in the custody of the chief executive, an iwi social service, a cultural social service, or the director of a child and family support service.
 (5) The court must not make an order under subsection (4) placing a young person in the custody of a person (other than the chief executive) or organisation unless that person consents to the making of the order.
 (6) A custody order under subsection (4) has the same effect as if the young person had been placed in the custody of the relevant person or organisation under an order under section 101, except that—
@@ -3684,7 +3698,7 @@ If a young person is placed under the supervision of the chief executive by an o
 (1) If the court has given a direction under section 308A in respect of a young person and in respect of specified conditions of an order, the chief executive must prepare and furnish to the court a written progress report on the young person's compliance with those conditions.
 (2) The written progress report must be furnished to the court before the young person's compliance with those conditions is monitored judicially for the first time.
 (3) The progress report—
-  (a) must contain information on the young person's compliance with those conditions and on his or her progress in achieving the goals of the plan prepared under section 335 in respect of the order the conditions of which are the subject of the direction; and
+  (a) must contain information on the young person's compliance with those conditions and on the young person’s progress in achieving the goals of the plan prepared under section 335 in respect of the order the conditions of which are the subject of the direction; and
   (b) may contain any other information that the chief executive considers relevant to the judicial monitoring of the young person's compliance with those conditions.
 (4) The chief executive must prepare and furnish to the court further progress reports at specified intervals of not less than 3 months if directed to do so by the court.
 
@@ -3719,7 +3733,7 @@ If a young person is placed under the supervision of the chief executive by an o
   (c) for the purposes of section 91 of the Care of Children Act 2004,—
     (i) the order constitutes an order about the role of providing day-to-day care for the child or young person; and
     (ii) the chief executive is a person who, under the order, has the role of providing day-to-day care for the child or young person.
-(2) Any order made under section 311(1) shall be sufficient authority for any constable or the chief executive (acting through his or her delegate) or any other person authorised in that behalf by the chief executive to take the young person to whom the order relates to such residence as is specified in the plan prepared under section 335 in relation to that young person and approved by the court, and to use such force as is reasonably necessary for that purpose.
+(2) Any order made under section 311(1) shall be sufficient authority for any constable or the chief executive (acting through the chief executive’s delegate) or any other person authorised in that behalf by the chief executive to take the young person to whom the order relates to such residence as is specified in the plan prepared under section 335 in relation to that young person and approved by the court, and to use such force as is reasonably necessary for that purpose.
 (3) Where the court makes an order under section 311 placing a young person in the custody of the chief executive, the chief executive may, with the approval of the court, transfer the young person from any residence to any other residence, and may, for that purpose, use such force as is reasonably necessary.
 
 ### 313 Court may make orders for access and exercise of other rights by parents and other persons
@@ -3756,7 +3770,7 @@ Where a young person who is subject to an order made under section 311(1) abscon
 (2) Where an order made under section 311(1) expires or is cancelled pursuant to section 316, custody of the young person shall revert to the person having custody of the young person immediately before the order was made.
 
 ### 318 Search without warrant
-(1) For the purpose of exercising the powers conferred by section 312 in respect of any young person, any constable or the chief executive (acting through his or her delegate) or any other person authorised in that behalf by the chief executive may, without a warrant, enter and search, by force if necessary, any dwelling house, building, aircraft, ship, carriage, vehicle, premises, or place, and remove the young person.
+(1) For the purpose of exercising the powers conferred by section 312 in respect of any young person, any constable or the chief executive (acting through the chief executive’s delegate) or any other person authorised in that behalf by the chief executive may, without a warrant, enter and search, by force if necessary, any dwelling house, building, aircraft, ship, carriage, vehicle, premises, or place, and remove the young person.
 (2) A person who exercises any powers under this section shall, on entering any dwelling house, building, aircraft, ship, carriage, vehicle, premises or place, and, if requested at any subsequent time,—
   (a) produce evidence of identity; and
   (b) disclose that those powers are being exercised under this section.
@@ -3820,7 +3834,7 @@ No young person who has been placed in the custody of the chief executive pursua
 (2) For the purposes of section 293, the Youth Court and its officers have all the powers and duties of the District Court and its officers respectively, and Part 3 of the Summary Proceedings Act 1957 shall apply accordingly with all necessary modifications and the following specific modification, namely, that where any child or young person is examined as to the means of that child or young person under that Part of that Act any parent or guardian or other person having the care of that child or young person may be present.
 (3) In any provisions so applied, District Court Judge, Judge, and judicial officer, for the purposes of this Act, mean a Youth Court Judge exercising jurisdiction in the Youth Court.
 (4) Any officer of the District Court may act as an officer of the Youth Court.
-(5) For the avoidance of doubt, it is hereby declared that, in any case where a child or young person first appears before the Youth Court following his or her arrest, the following powers may be exercised in relation to the child or young person by a Justice or Community Magistrate:
+(5) For the avoidance of doubt, it is hereby declared that, in any case where a child or young person first appears before the Youth Court following their arrest, the following powers may be exercised in relation to the child or young person by a Justice or Community Magistrate:
   (a) the powers conferred by section 238(1):
   (b) where the child or young person is legally represented in the proceedings, the powers conferred by section 246(b).
 
@@ -3839,7 +3853,7 @@ A Youth Court Judge may dismiss any charge charging a young person with the comm
   (b) a youth advocate has been appointed to represent the child or young person in any previous proceedings,—
 
 ### 324 Further provisions relating to youth advocate
-(1) A youth advocate appointed to represent a child or young person in any proceedings shall have, in relation to the representation of that child or young person in those proceedings and on any other occasion on which that youth advocate represents that child or young person, the same rights, powers, duties, privileges, and immunities that the youth advocate would have had if he or she had not been appointed pursuant to section 323 but had been retained by that child or young person to provide legal representation.
+(1) A youth advocate appointed to represent a child or young person in any proceedings shall have, in relation to the representation of that child or young person in those proceedings and on any other occasion on which that youth advocate represents that child or young person, the same rights, powers, duties, privileges, and immunities that the youth advocate would have had if they had not been appointed pursuant to section 323 but had been retained by that child or young person to provide legal representation.
 (2) Where—that youth advocate shall, if the young person agrees, be entitled to represent the young person—
   (a) a youth advocate is appointed to represent a young person in any proceedings; and
   (b) in those proceedings the court makes, in respect of that young person, any order under section 283,—
@@ -3862,7 +3876,7 @@ A Youth Court Judge may dismiss any charge charging a young person with the comm
 
 ### 326 Appointment of lay advocate
 (1) Where a child or young person appears before the Youth Court charged with an offence, the court may, on application by any person entitled to make representations in those proceedings on behalf of any person, or of its own motion, appoint any person, not being a barrister or solicitor, to appear in support of that child or young person in those proceedings.
-(2) Where the court appoints a lay advocate under subsection (1), it shall, so far as practicable, appoint a person who has, by reason of personality, cultural background, knowledge, and experience, sufficient standing in the culture of the child or young person in respect of whom the appointment is to be made to enable that person to carry out his or her duties under this Act.
+(2) Where the court appoints a lay advocate under subsection (1), it shall, so far as practicable, appoint a person who has, by reason of personality, cultural background, knowledge, and experience, sufficient standing in the culture of the child or young person in respect of whom the appointment is to be made to enable that person to carry out their duties under this Act.
 (3) The court may make an appointment under subsection (1) notwithstanding that the child or young person is represented in the proceedings by a barrister or solicitor.
 
 ### 327 Functions of lay advocate
@@ -3891,7 +3905,7 @@ Subsections (2) and (3) of section 324 shall apply, with all necessary modificat
   (h) any youth justice co-ordinator:
   (i) the chief executive:
   (j) any lay advocate who appears in support of the child or young person or any parent or guardian or other person having the care of the child or young person:
-  (ja) a victim of the offence or alleged offence, or his or her representative:
+  (ja) a victim of the offence or alleged offence, or the victim’s representative:
   (jb) any 1 or more support persons (subject to any limitation on numbers imposed by the Judge) for the victim of the offence, or the victim's representative:
   (k) witnesses:
   (l) accredited news media reporters:
@@ -4123,9 +4137,10 @@ Subject to sections 43, 81, 104, and 114(2)﻿(c), the chief executive or, as th
 
 ### 363 Payment to person or organisation providing care
 (1) The chief executive shall from time to time determine the rates of payment to persons and organisations in whose charge a child or young person is placed pursuant to section 362.
+(1A) The purpose of a payment is to meet the reasonable needs of the child or young person.
 (2) Where, pursuant to section 362, any person (being the chief executive or an iwi social service or a cultural social service or the director of a child and family support service) places a child or young person in the charge of a person or organisation, it is the duty of the first-mentioned person to ensure that the payments specified in subsection (1) are made and that any additional payments necessary to meet the reasonable needs of the child or young person are made.
 (3) Subject to any limits that are determined from time to time by the chief executive, the chief executive or, as the case requires, an iwi social service or a cultural social service or the director of a child and family support service may make payments under this section at a higher rate in cases where there is special need.
-(4) Subsections (1) to (3) do not apply, and must be treated as never having applied, in respect of a child's or young person's placement with his or her parent (before or after the commencement of this subsection) if—
+(4) Subsections (1) to (3) do not apply, and must be treated as never having applied, in respect of a child's or young person's placement with their parent (before or after the commencement of this subsection) if—
   (a) the child or young person is or was a child or young person to whom section 361 applies or applied; and
   (b) under section 362, the child or young person is or was placed in the charge of the parent.
 (5) The minimum rates of payment determined under subsection (1) in respect of the board and lodgings of children and young persons must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate is the rate as at that date adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December 1 year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
@@ -4353,13 +4368,13 @@ For the purposes of sections 384B to 384K,—
   - **manager** means the person for the time being in charge of a residence
   - **member of staff** means every person employed as a member of staff of a residence; and includes the manager of the residence
   - **pat down search** means a search of a clothed child or young person in a residence in which the person conducting the search may do the following:
-    (a) run or pat his or her hand over the body of the person being searched, whether inside or outside the clothing (other than any underclothing) of that person:
-    (b) insert his or her hand inside any pocket or pouch in the clothing (other than the underclothing) of the person being searched:
+    (a) run or pat the person’s hand over the body of the person being searched, whether inside or outside the clothing (other than any underclothing) of that person:
+    (b) insert the person’s hand inside any pocket or pouch in the clothing (other than the underclothing) of the person being searched:
     (c) for the purpose of permitting a visual inspection, require the person being searched to do all or any of the following:
-      (i) open his or her mouth:
-      (ii) display the palms of his or her hands:
-      (iii) display the soles of his or her feet:
-      (iv) lift or rub his or her hair:
+      (i) open the child’s or young person’s mouth:
+      (ii) display the palms of the child’s or young person’s hands:
+      (iii) display the soles of the child’s or young person’s feet:
+      (iv) lift or rub the child’s or young person’s hair:
       (v) remove, raise, lower, or open any outer clothing (including, without limitation, any coat, jacket, jumper, or cardigan) worn by the person being searched, except where the person has no other clothing, or only underclothing, under that outer clothing:
       (vi) turn out any pocket or pouch, and display any hem, cuff, lining, or fold, in any outer clothing worn by that person:
       (vii) remove any head covering, gloves, or footwear (including socks or stockings) being worn by that person:
@@ -4369,7 +4384,7 @@ For the purposes of sections 384B to 384K,—
   - **scanner search** means a search of a child or young person by means of an electronic device passed over the clothed body of the person being searched and that does not include any touching (except any accidental touching) of the person being searched
   - **strip search** means a search where the person conducting the search may require the child or young person being searched—
     (a) to undress, or to remove any specified items of clothing and underclothing, and be visually examined; and
-    (b) to have his or her clothing searched
+    (b) to have the child’s or young person’s clothing searched
   - **unauthorised item** means any article, drug, or substance—
     (a) that is a harmful item; or
     (b) that may not be lawfully possessed by any child or young person in the residence.
@@ -4382,7 +4397,7 @@ The manager may cause to be inspected, in accordance with the regulations, any m
   (d) any material that would be likely to be offensive or harmful to the person for whom the mail was intended.
 
 ### 384C Child or young person may be searched to detect unauthorised items
-(1) A member of staff, who believes on reasonable grounds that a child or young person in the residence has in his or her possession any unauthorised item, may carry out any of the following types of searches for the purpose of detecting that item:
+(1) A member of staff, who believes on reasonable grounds that a child or young person in the residence has in their possession any unauthorised item, may carry out any of the following types of searches for the purpose of detecting that item:
   (a) a scanner search of the child or young person:
   (b) a pat down search of the child or young person:
   (c) a search of any room or sleeping area assigned to the child or young person.
@@ -4393,14 +4408,14 @@ The manager may cause to be inspected, in accordance with the regulations, any m
 (4) Nothing in subsection (3) requires that a member of staff make a request if the same request has been made to the child or young person within the previous hour.
 
 ### 384D Use of dogs for searching
-(1) In exercising a power of search conferred by sections 384B and 384C, a member of staff may have with him or her, and use for the purposes of searching, any dog trained for that purpose.
+(1) In exercising a power of search conferred by sections 384B and 384C, a member of staff may have with the staff member, and use for the purposes of searching, any dog trained for that purpose.
 (2) A dog must not be used unless it is under the control of another person (being a Police employee, or a Customs officer, or a member of the Armed Forces, or an employee of the Department of Corrections), who may accompany the member of staff for the purposes of the search.
 (3) A member of staff who uses a dog for the purposes of searching any child or young person must conduct the search with decency and sensitivity and in a manner that—
   (a) affords to the child or young person being searched the greatest degree of dignity consistent with the purpose of the search; and
   (b) prevents the dog coming into physical contact with the child or young person during the search.
 
 ### 384E Child or young person may be strip searched
-(1) A member of staff may, if that member of staff believes on reasonable grounds that a child or young person has in his or her possession a harmful item, conduct a strip search of that child or young person for the purposes of detecting the harmful item—
+(1) A member of staff may, if that member of staff believes on reasonable grounds that a child or young person has in their possession a harmful item, conduct a strip search of that child or young person for the purposes of detecting the harmful item—
   (a) if that member believes on reasonable grounds that a strip search is necessary in order to detect the item; and
   (b) if a scanner search or a pat down search of the child or young person has already been carried out for that purpose.
 (2) A child or young person required to undress or remove any clothing and underclothing under subsection (1) may be required to remain undressed or partly undressed only as long as is reasonably necessary for the purposes of the search.
@@ -4437,7 +4452,7 @@ The manager must ensure that a record is made in the daily log kept in accordanc
   (b) in the case of a search carried out under section 384C or section 384E, the details of any physical force used for the purpose of carrying out the search, and of the circumstances giving rise to the use of force.
 
 ### 384J Child or young person may make complaint
-A child or young person who has had his or her mail inspected under section 384B or has been searched under section 384C or section 384E may make a complaint about that inspection or search in accordance with the regulations.
+A child or young person who has had their mail inspected under section 384B or has been searched under section 384C or section 384E may make a complaint about that inspection or search in accordance with the regulations.
 
 ### 384K Power to seize articles, etc, found on inspection or search
 (1) Any unauthorised item found during any inspection or search may be seized in accordance with the regulations by the member of staff referred to in subsection (2).
@@ -4456,7 +4471,7 @@ A child or young person who has had his or her mail inspected under section 384B
   (b) refuses or neglects to return to a residence:
   (c) leaves or is taken without authority from the care of any person or organisation in whose charge that child or young person was placed pursuant to section 362:
   (d) refuses or neglects to return to the care of any such person or organisation.
-(2) Any child or young person to whom this section applies may be detained without warrant by any constable or the chief executive (acting through his or her delegate) and returned to any residence or to the care of any person or organisation, as the case may be, or otherwise dealt with in accordance with this Act.
+(2) Any child or young person to whom this section applies may be detained without warrant by any constable or the chief executive (acting through the chief executive’s delegate) and returned to any residence or to the care of any person or organisation, as the case may be, or otherwise dealt with in accordance with this Act.
 (3) A child or young person to whom this section applies, unless that child or young person was being detained pursuant to section 238(1)﻿(d) or (e) or section 34A of the Corrections Act 2004, does not, by reason only of an act or omission referred to in subsection (1), commit an offence against section 120 of the Crimes Act 1961.
 (4) For the purpose of detaining without warrant any child or young person who leaves or is taken without authority from a residence under this Act, every member of the staff of any such residence shall, if it is administered by the Crown, have the powers conferred on the chief executive by subsection (2).
 (5) Subsection (6) applies if a young person in respect of whom a supervision with residence order is made under section 283(n)—
@@ -4487,8 +4502,8 @@ A child or young person who has had his or her mail inspected under section 384B
   (b) provide, or arrange for the provision of, that advice and assistance to the person, to the extent that it reasonably relates to the period before the person leaves care or custody.
 (3) If a person to whom this section applies requests advice or assistance after he or she leaves the care or custody of an iwi social service, a cultural social service, or the director of a child and family support service, the agency that receives the request must refer the request to the chief executive.
 (4) If a person to whom this section applies has left the care or custody referred to in subsection (1), the chief executive—
-  (a) must provide, or arrange the provision of, such advice and non-financial assistance as the chief executive in his or her discretion considers necessary to enable the person to achieve independence; and
-  (b) may provide, or arrange the provision of, such financial assistance as the chief executive in his or her discretion considers necessary to enable the person to achieve independence, but only if the chief executive has first considered what other financial assistance is available to the person.
+  (a) must provide, or arrange the provision of, such advice and non-financial assistance as the chief executive in the chief executive’s discretion considers necessary to enable the person to achieve independence; and
+  (b) may provide, or arrange the provision of, such financial assistance as the chief executive in the chief executive’s discretion considers necessary to enable the person to achieve independence, but only if the chief executive has first considered what other financial assistance is available to the person.
 (5) Without limiting subsection (4), the assistance provided may include any of the following:
   (a) giving information:
   (b) assisting the person to obtain accommodation, enrol in education or training, or obtain employment:
@@ -4497,7 +4512,7 @@ A child or young person who has had his or her mail inspected under section 384B
   (e) contributing to the expenses incurred by the person in living near the place where he or she is or will be—
     (i) employed or seeking employment; or
     (ii) receiving education or training:
-  (f) making a grant to assist the person to meet expenses connected with his or her education or training.
+  (f) making a grant to assist the person to meet expenses connected with their education or training.
 (6) Financial assistance provided to a person under subsection (4)﻿(b) must be paid directly to the person unless the chief executive considers it appropriate to pay all or any of it to the person who is caring for the person in respect of whom the financial assistance is provided.
 (7) If the chief executive is providing financial assistance to a person that includes making a contribution or grant with respect to a course of education or training, the chief executive may—
   (a) continue to do so even though the person reaches the age of 20 years before completing the course; and
@@ -4539,7 +4554,7 @@ The chief executive may, from time to time, make grants or provide financial ass
 (3) A confirmed or modified decision is for all purposes to be treated as the decision of the chief executive under section 388A(2).
 
 ### 389B Appeal against decisions about financial or other assistance to permanent caregivers
-(1) A permanent caregiver who has applied for a review of a decision under section 388A(2) may appeal to the Family Court against the decision if he or she—
+(1) A permanent caregiver who has applied for a review of a decision under section 388A(2) may appeal to the Family Court against the decision if that caregiver—
   (a) has not received notification of the outcome of the review within 3 months after the application was lodged; or
   (b) is dissatisfied with the outcome of the review.
 (2) An appeal under this section may be made only on the ground that the decision is wrong or unreasonable, or both.
@@ -4568,7 +4583,7 @@ The chief executive may, from time to time, make grants or provide financial ass
 
 ### 392 Manager may be appointed under Protection of Personal and Property Rights Act 1988 to manage property of children and young persons subject to guardianship or custody order
 (1) The Family Court shall have jurisdiction under Part 3 of the Protection of Personal and Property Rights Act 1988 to appoint a manager in respect of the property, or any specified part of the property, of any child or young person to whom this section applies, and the provisions of that Act shall apply accordingly.
-(2) For the purposes of section 25 of the Protection of Personal and Property Rights Act 1988, a child or young person to whom this section applies shall be deemed to lack the competence to manage his or her own affairs in relation to his or her property.
+(2) For the purposes of section 25 of the Protection of Personal and Property Rights Act 1988, a child or young person to whom this section applies shall be deemed to lack the competence to manage their own affairs in relation to their property.
 
 **Maintenance**
 
@@ -4592,18 +4607,18 @@ The chief executive may, from time to time, make grants or provide financial ass
 
 ### 395 Police to be notified of deaths
 Where a child or young person to whom this section applies dies, the following provisions shall apply:
-  (a) where the child or young person was, at the time of his or her death, in the care or custody or under the guardianship of an iwi social service or a cultural social service or the director of a child and family support service, that social service or, as the case requires, that director shall give notice of the death—
+  (a) where the child or young person was, at the time of their death, in the care or custody or under the guardianship of an iwi social service or a cultural social service or the director of a child and family support service, that social service or, as the case requires, that director shall give notice of the death—
     (i) forthwith on learning of it, to a constable:
-    (ii) within 24 hours of learning of it, to the principal manager of the department for the area in which the child or young person was residing at the time of his or her death:
-  (b) where the child or young person was, at the time of his or her death, in the charge of any person or organisation pursuant to section 362, that person or organisation shall give notice of the death—
+    (ii) within 24 hours of learning of it, to the principal manager of the department for the area in which the child or young person was residing at the time of their death:
+  (b) where the child or young person was, at the time of their death, in the charge of any person or organisation pursuant to section 362, that person or organisation shall give notice of the death—
     (i) forthwith on learning of it, to a constable:
-    (ii) within 24 hours of learning of it, to the principal manager of the department for the area in which the child or young person was residing at the time of his or her death:
-  (c) where the child or young person was, at the time of his or her death, residing in a residence established under section 364, the person in charge of that residence shall, on learning of that death, forthwith notify a constable.
+    (ii) within 24 hours of learning of it, to the principal manager of the department for the area in which the child or young person was residing at the time of their death:
+  (c) where the child or young person was, at the time of their death, residing in a residence established under section 364, the person in charge of that residence shall, on learning of that death, forthwith notify a constable.
 
 ### 395A Victims to be notified of deaths
 (1) This section applies if—
   (a) a child or young person dies; and
-  (b) at the time of his or her death, the child or young person was—
+  (b) at the time of their death, the child or young person was—
     (i) on remand or the subject of an order under section 283(n) (supervision with residence order); and
     (ii) residing in a residence established under section 364.
 (2) The chief executive must make all reasonable efforts to notify each victim of the offence committed by the child or young person of the death of that child or young person.
@@ -4652,7 +4667,7 @@ The chief executive shall not decline an application for an approval under secti
     (ii) any officer or employee of the social service or support service:
   (c) communicate with any person having the care of any child or young person who is in the care or custody or under the guardianship of that social service or support service and with that child or young person:
   (d) examine any documents or records that are held by that social service or support service and that relate to any child or young person who is in the care or custody or under the guardianship of the social service or support service.
-(2) A person intending to enter any premises must give reasonable notice of his or her intention to do so to the social service or support service concerned.
+(2) A person intending to enter any premises must give reasonable notice of their intention to do so to the social service or support service concerned.
 (3) The person must on entering any premises, and if requested at any subsequent time, produce—
   (a) evidence of that person's authority to enter the premises; and
   (b) evidence of that person's identity.
@@ -4702,7 +4717,7 @@ The chief executive may from time to time, on behalf of the Crown, enter into a 
   (b) interview any officer or employee of the service:
   (c) communicate with any person to whom the service is providing, or has provided, any service:
   (d) examine any documents or records that are held by the service and that relate to the provision by that service of any service to which the approval granted under section 403 relates.
-(2) A person intending to enter any premises must give reasonable notice of his or her intention to do so to the service concerned.
+(2) A person intending to enter any premises must give reasonable notice of their intention to do so to the service concerned.
 (3) The person must, on entering any premises under this section, and when requested at any subsequent time, produce—
   (a) evidence of that person's authority to enter the premises; and
   (b) evidence of that person's identity.
@@ -4770,12 +4785,12 @@ The chief executive may from time to time, on behalf of the Crown, enter into a 
     (ii) a cultural social service:
     (iii) a child and family support service:
     (iv) a community service.
-(2) A person shall not be appointed to be a care and protection co-ordinator unless that person is, by reason of his or her personality, training, and experience, suitably qualified to exercise or perform the functions, duties, and powers conferred or imposed on a care and protection co-ordinator by or under this Act.
+(2) A person shall not be appointed to be a care and protection co-ordinator unless that person is, by reason of their personality, training, and experience, suitably qualified to exercise or perform the functions, duties, and powers conferred or imposed on a care and protection co-ordinator by or under this Act.
 (3) An employee of an approved service—
   (a) may be appointed as a care and protection co-ordinator for a term of not more than 3 years, but the term may be renewed by the chief executive from time to time; and
-  (b) may have his or her appointment as a care and protection co-ordinator cancelled (without compensation) by the chief executive on any ground that the chief executive considers justifies removal from the office; but the removal may only take place after consultation with the person's employer and after a process that accords with the principles of natural justice has been completed; and
-  (c) ceases to be appointed as a care and protection co-ordinator (and no compensation is payable with respect to that loss of office) if he or she ceases to be an employee of the relevant approved service under which he or she was originally appointed; and
-  (d) must perform his or her duties as a care and protection co-ordinator independently of his or her employer; and
+  (b) may have their appointment as a care and protection co-ordinator cancelled (without compensation) by the chief executive on any ground that the chief executive considers justifies removal from the office; but the removal may only take place after consultation with the person's employer and after a process that accords with the principles of natural justice has been completed; and
+  (c) ceases to be appointed as a care and protection co-ordinator (and no compensation is payable with respect to that loss of office) if the co-ordinator ceases to be an employee of the relevant approved service under which the co-ordinator was originally appointed; and
+  (d) must perform their duties as a care and protection co-ordinator independently of his or her employer; and
   (e) in performing those duties, must have regard to any guidance for care and protection co-ordinators that is issued by the chief executive.
 
 ### 424 Duties of care and protection co-ordinator
@@ -4794,12 +4809,12 @@ The duties of a care and protection co-ordinator are as follows:
 (1A) Youth justice co-ordinators may—
   (a) be appointed under the State Sector Act 1988; or
   (b) be employees of an approved service (as defined in section 423(1A)﻿(b)).
-(2) A person shall not be appointed to be a youth justice co-ordinator unless that person is, by reason of his or her personality, training, and experience, suitably qualified to exercise or perform the functions, duties, and powers conferred or imposed on a youth justice co-ordinator by or under this Act.
+(2) A person shall not be appointed to be a youth justice co-ordinator unless that person is, by reason of their personality, training, and experience, suitably qualified to exercise or perform the functions, duties, and powers conferred or imposed on a youth justice co-ordinator by or under this Act.
 (3) An employee of an approved service—
   (a) may be appointed as a youth justice co-ordinator for a term of no more than 3 years, but the term may be renewed by the chief executive from time to time; and
-  (b) may have his or her appointment as a youth justice co-ordinator cancelled (without compensation) by the chief executive on any grounds that the chief executive considers justifies removal from the office; but the removal may only take place after consultation with the person's employer and after a process that accords with the principles of natural justice has been completed; and
-  (c) ceases to be appointed as a youth justice co-ordinator (and no compensation is payable with respect to that loss of office) if he or she ceases to be an employee of the relevant approved service under which he or she was originally appointed; and
-  (d) must perform his or her duties as a youth justice co-ordinator independently of his or her employer; and
+  (b) may have their appointment as a youth justice co-ordinator cancelled (without compensation) by the chief executive on any grounds that the chief executive considers justifies removal from the office; but the removal may only take place after consultation with the person's employer and after a process that accords with the principles of natural justice has been completed; and
+  (c) ceases to be appointed as a youth justice co-ordinator (and no compensation is payable with respect to that loss of office) if the co-ordinator ceases to be an employee of the relevant approved service under which the co-ordinator was originally appointed; and
+  (d) must perform their duties as a youth justice co-ordinator independently of their employer; and
   (e) in performing those duties, must have regard to any guidance for youth justice co-ordinators that is issued by the chief executive.
 
 ### 426 Duties of youth justice co-ordinator
@@ -4812,7 +4827,7 @@ The duties of a youth justice co-ordinator are as follows:
   (f) to perform such other duties as may be prescribed by or under this Act or any other Act.
 
 ### 427 Delegation of functions of care and protection co-ordinator or youth justice co-ordinator to social worker
-(1) A care and protection co-ordinator or a youth justice co-ordinator may, from time to time, delegate to any social worker (being a social worker who is, in the opinion of that co-ordinator, suitable by reason of his or her training or experience to carry out that function or power) any function or power of that co-ordinator under this Act.
+(1) A care and protection co-ordinator or a youth justice co-ordinator may, from time to time, delegate to any social worker (being a social worker who is, in the opinion of that co-ordinator, suitable by reason of that social worker’s training or experience to carry out that function or power) any function or power of that co-ordinator under this Act.
 (1A) Subsection (1) does not apply to a care and protection co-ordinator, or to a youth justice co-ordinator, who is an employee of an approved service (as defined in section 423(1A)﻿(b)).
 (2) Every delegation under subsection (1)—
   (a) shall be in writing:
@@ -4856,10 +4871,10 @@ The District Court has a division known as the Youth Court.
 ### 434 Principal Youth Court Judge
 (1) The Governor-General must, on the advice of the Attorney-General, appoint a Principal Youth Court Judge.
 (2) The appointment must be for a period of 8 years, and the person is not eligible for reappointment as Principal Youth Court Judge.
-(3) A person's appointment as Principal Youth Court Judge ceases if he or she ceases to hold office as a District Court Judge.
+(3) A person's appointment as Principal Youth Court Judge ceases if the person ceases to hold office as a District Court Judge.
 (4) With the prior approval of the Governor-General, the Principal Youth Court Judge may resign that office but continue in office as a District Court Judge.
 (5) To avoid doubt, a person does not cease to hold office as a District Court Judge solely because the term of the person's appointment as Principal Youth Court Judge has come to an end.
-(6) Despite subsection (2), the Principal Youth Court Judge continues in office until his or her successor comes into office.
+(6) Despite subsection (2), the Principal Youth Court Judge continues in office until the Judge’s successor comes into office.
 (7) The Principal Youth Court Judge is responsible for ensuring the orderly and expeditious discharge of the business of the court in consultation with the Chief District Court Judge.
 (8) The Chief District Court Judge may authorise a Youth Court Judge to act in place of the Principal Youth Court Judge if—
   (a) the Principal Youth Court Judge is absent for any reason; or
@@ -4873,10 +4888,10 @@ The District Court has a division known as the Youth Court.
 
 ### 435A Stationing of Judges and sittings of courts
 (1) Each Youth Court Judge must be stationed in the town, and must sit in the court, that may from time to time be determined by the Principal Youth Court Judge.
-(2) Despite subsection (1), the fact that a Youth Court Judge sits in any particular court is conclusive evidence of the Judge's authority to do so, and no exercise of any jurisdiction or power by a Youth Court Judge may be questioned on the ground that the Judge was not stationed in the town or authorised to sit in the court where he or she exercised the jurisdiction or power.
+(2) Despite subsection (1), the fact that a Youth Court Judge sits in any particular court is conclusive evidence of the Judge's authority to do so, and no exercise of any jurisdiction or power by a Youth Court Judge may be questioned on the ground that the Judge was not stationed in the town or authorised to sit in the court where the Judge exercised the jurisdiction or power.
 (3) Sittings of the Youth Court for the dispatch of its business must be held on the days and times that may be appointed by the Judge exercising the jurisdiction of the court at the place at which the sittings are held.
 (4) However, the days appointed for regular sittings of the Youth Court are subject to the approval of the Principal Youth Court Judge.
-(5) In exercising his or her powers under this section, the Principal Youth Court Judge must consult with the Chief District Court Judge.
+(5) When exercising powers under this section, the Principal Youth Court Judge must consult with the Chief District Court Judge.
 (6) This section is subject to section 24 of the District Court Act 2016.
 
 ### 436 District Court Judge may exercise jurisdiction in absence of Youth Court Judge
@@ -4953,12 +4968,12 @@ No person who furnishes a report to any court for the purposes of any proceeding
 
 ### 445A Person executing warrant to produce evidence of authority and identity
 Any person executing any warrant issued under section 122 or section 157(2) or section 205(2)﻿(b) or section 296C—
-  (a) shall have that warrant with him or her; and
+  (a) shall have that warrant with them; and
   (b) shall produce it on initial entry and, if requested, at any subsequent time; and
-  (c) shall identify himself or herself to any person in or on the dwellinghouse, building, aircraft, ship, carriage, vehicle, premises, or place who questions his or her right to enter or search the same or to take possession of the child or young person; and
-  (d) if he or she is a constable who is not in uniform, shall produce evidence that he or she is a constable; and
-  (e) if he or she is a social worker, shall produce evidence that he or she is a social worker; and
-  (f) if he or she is a person (not being a social worker) authorised by the warrant to take possession of the child or young person, shall produce evidence that he or she is the person so authorised.
+  (c) shall identify themselves to any person in or on the dwellinghouse, building, aircraft, ship, carriage, vehicle, premises, or place who questions their right to enter or search the same or to take possession of the child or young person; and
+  (d) if the person is a constable who is not in uniform, shall produce evidence that the person is a constable; and
+  (e) if the person is a social worker, shall produce evidence that the person is a social worker; and
+  (f) if they are a person (not being a social worker) authorised by the warrant to take possession of the child or young person, shall produce evidence that they are the person so authorised.
 
 ### 445B Authority to use facsimile copy of warrant
 (1) In this section, the term facsimile copy, in relation to a warrant, means a copy of the warrant that is produced by a facsimile machine, computer, or other electronic device when the warrant is sent by facsimile transmission.
@@ -5015,7 +5030,7 @@ Sections 101 and 105 of the Search and Surveillance Act 2012 apply, with any nec
 **Regulations**
 
 ### 447 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (aa) declaring a law of a participating State to be a child welfare law for the purposes of Part 3A:
   (ab) declaring a law to be an interstate law in relation to a participating State for the purposes of Part 3A:
   (ac) declaring the holder of an office or position to be the interstate officer in relation to a participating State for the purposes of Part 3A:
@@ -5029,14 +5044,53 @@ The Governor-General may from time to time, by Order in Council, make regulation
     (iii) providing for the seizure, disposal, safe keeping, or return of any article, drug, or substance found during a search or inspection:
     (iv) prescribing conditions on the disposal of any seized article, drug, or substance:
     (v) prescribing procedures by which a child or young person may lay a complaint in relation to an inspection of mail or a search, and how the complaint is to be dealt with:
+  (cb) prescribing, in relation to a young person’s entitlement to remain living with a caregiver under sections 386AAD and 386AAE, requirements and standards for support arrangements:
+  (cc) prescribing, in relation to providing advice and assistance to young persons under sections 386A and 386B,—
+    (i) processes and criteria for needs assessments:
+    (ii) the types of advice, assistance, and services to be available for young persons:
+    (iii) the manner or means of providing advice, assistance, and services to young persons:
   (d) providing for the administration, management, and control of any centre that is established to provide for the part-time care, training, or occupation of children or young persons:
+  (da) prescribing the circumstances in which amounts are payable and the amounts payable under section 363 or to or on behalf of a young person as financial assistance under section 386AAG or 386B, including—
+    (i) advances or reimbursements of reasonable costs:
+    (ii) allowances, which may vary in accordance with different criteria:
+  (db) prescribing, in relation to a youth advocate appointed under section 248A, the following:
+    (i) eligibility criteria for appointment:
+    (ii) the process for appointment by the chief executive:
+    (iii) the amounts payable for preparation for and attendance at a family group conference referred to in section 245:
   (e) prescribing the amounts payable to—
     (i)
     (ii) any lay advocate appointed under section 163 or section 326:
     (iii) any youth advocate appointed under section 323:
   (f) prescribing forms of applications, licences, notices, or other documents for the purposes of this Act, or authorising the chief executive to prescribe or approve forms, and requiring the use of such forms:
+  (fa) prescribing the actions or steps that must be taken by the chief executive or the chief executive’s delegates, or bodies or organisations approved under section 396, to help ensure that children and young persons in care or custody under Part 2 or 4 of this Act receive an appropriate standard of care that is consistent with the application of the principles in sections 4A, 5, 13, and 208, including actions and steps relating to—
+    (i) the provision of care, services, and support to address the rights and needs of children and young persons in care:
+    (ii) the assessment and monitoring of care arrangements and residences, including youth justice residences:
+    (iii) the assessment, training, and support of caregivers and care providers:
+    (iv) the creation and maintenance of records for a child or young person recording important matters in their life (including significant life events and significant achievements) occurring while they are in care, and the provision of access to those records for the child or young person:
+    (v) the manner in which care standards are monitored or reported on, within the department, by the organisations approved under section 396, and by the agency or body referred to in section 447A:
+  (fb) providing for the appointment by the Minister of a person or an organisation (independent of the department) to review the outcomes produced by the 1 or more complaints mechanisms established, amended, or replaced by the chief executive under section 7(2)﻿(bad), and establishing a review mechanism—
+    (i) that is intended to be—
+      (A) accessible and timely:
+      (B) have the necessary capability (including required cultural competence to ensure that reviews of outcomes are undertaken effectively); and
+    (ii) for which 1 or more of the following are specified:
+      (A) the types of complaints whose outcomes under a complaint process may be the subject of a review:
+      (B) the classes of complainants (or other persons) who may seek a review of the outcome of a complaint:
+      (C) the procedures to be adopted in conducting reviews:
+      (D) who is qualified for appointment to conduct a review, and matters relating to their appointment and term of office:
+      (E) the method of determining the remuneration of a person appointed to conduct a review:
+      (F) the powers of the reviewer on reviewing the outcomes of a complaints process (which may, without limitation, include a power for the reviewer to set aside the outcome of the complaints mechanism, a power to award compensation up to a specified limit, a power to substitute the reviewer’s decision as the outcome, and any other remedies specified in the regulations that may be granted by the reviewer):
+      (G) how the costs of undertaking the review are to be apportioned:
+      (H) any other matters that are necessary or desirable to establish or operate the review process.
   (g) conferring rights of review of any decision or determination made or any requirements or conditions imposed under regulations made pursuant to this section:
+  (ga) designating, after consultation with the Privacy Commissioner, the Children’s Commissioner, and persons representing the affected organisations,—
+    (i) organisations or classes of organisations as child welfare and protection agencies:
+    (ii) persons or classes of persons as independent persons:
+  (gb) prescribing transitional arrangements in relation to standards of care for children and young persons and any other matters provided for in regulations:
   (h) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) The Minister must,—
+  (a) within 12 months of the commencement of subsection (1)﻿(fa), recommend the making of regulations under that provision; and
+  (b) not recommend the revocation of regulations made under subsection (1)﻿(fa) without recommending new regulations to be made under that provision; and
+  (c) regularly review the regulations in force under subsection (1)﻿(fa).
 
 ### 448 Rules of procedure
 (1) The Governor-General may, by Order in Council, make rules regulating the practice and procedure of the Youth Court under this Act.
@@ -5050,6 +5104,15 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (2) Rules to which this subsection applies that regulate the practice or procedure of the Youth Court continue to regulate the practice or procedure of the Youth Court as if they had been made under section 448(1).
 (3) Rules to which this subsection applies that regulate the practice or procedure of the High Court continue to regulate the practice or procedure of the High Court until any rules referred to in section 448(2)﻿(a) come into force.
 (4) Rules to which this subsection applies that regulate the practice or procedure of the District Court continue to regulate the practice or procedure of the District Court until any rules referred to in section 448(2)﻿(b) come into force.
+
+**Periodic review of legislation, government policy, and other arrangements**
+
+### 448B Periodic review of legislation, government policy, and other arrangements
+The Minister must, not later than 1 July 2022, and on at least 1 occasion during each 3-year period after that date, report to Parliament on the following matters:
+  (a) whether existing legislation, government policy, and other arrangements that affect the accountability of the Minister, the chief executive, and other persons or bodies carrying out functions under this Act ensures that—
+    (i) the needs of children and young persons with whom the department is concerned are met; and
+    (ii) the needs of Māori children and young persons with whom the department is concerned are met:
+  (b) whether any amendments to legislation, or government policies or other arrangements referred to in paragraph (a), are necessary or desirable in order to ensure the needs of the children and young persons, or particular groups of children and young persons, referred to in paragraph (a)﻿(i) or (ii) are met.
 
 ## Part 11 — Amendments to other enactments, repeals, savings, and transitional provisions
 
@@ -5179,6 +5242,73 @@ Section 314 as amended by the Children, Young Persons, and Their Families Amendm
   (f) a social worker suspecting something:
   (g) any reference similar to those in paragraphs (a) to (f).
 
+### Part 3 — Provisions relating to Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017
+
+### 4 New definition of young person not to apply to criminal proceedings underway at commencement date
+(1) For the purpose of this clause, commencement date means the date on which section 7(4) of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 comes into force.
+(2) Any defendant aged 17 years in criminal proceedings that are underway in the District Court or High Court on the commencement date must be dealt with by that court as if section 7(4) of this Act had not come into force.
+
+### 5 Protections for young persons aged 17 years in criminal investigations
+(1) For the purpose of this clause, commencement date means the date on which section 7(4) of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 comes into force.
+(2) Sections 215 to 232 of this Act apply to investigations of alleged offending by persons aged 17 years only if the offending occurred or is alleged to have occurred on or after the commencement date.
+
+### 6 Application of complaints mechanism
+A complaints mechanism established under section 7(2)﻿(bad) of this Act applies to any act or omission that occurred on or after 1 January 2008.
+
+### 7 Previous definition of child or young person in need of care or protection applies to proceedings underway
+(1) For the purpose of this clause, commencement date means the date on which section 17 of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 comes into force.
+(2) Section 14 of this Act (as it read before the commencement date) continues to apply to any proceeding that, immediately before the commencement date, had been brought but not determined.
+
+### 8 Application of sections 17(2A), 18AAA, 21(2), and 30(1)﻿(aaa)
+(1) For the purpose of this clause, commencement date means the date on which sections 20, 21, 28, and 33 of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 come into force.
+(2) Sections 17(2A), 18AAA, 21(2), and 30(1)﻿(aaa) of this Act apply to any investigation still underway or commenced on or after the commencement date.
+
+### 9 Determinations under section 18B(2)﻿(c)
+A determination made under section 18B(2)﻿(c) before the commencement of section 24 of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 that there is no realistic prospect that a child or young person will be returned to a person’s care, is to be treated, on and after the commencement of section 24 of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017, as a determination that there is no realistic possibility that a child or young person will be returned to a person’s care.
+
+### 10 Information sharing
+(1) For the purpose of this clause, commencement date means the date on which section 41 of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 comes into force.
+(2) Sections 65A to 66Q of this Act apply to any information whether it existed or was created before, on, or after the commencement date.
+
+### 11 Applications for declaration made under section 68 before commencement date to be determined under previous provisions
+(1) For the purpose of this clause, commencement date means the date on which section 42 of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 comes into force.
+(2) An application for a declaration made under section 68 of this Act before the commencement date must be determined under section 68 and any related provisions as those provisions read before the commencement date.
+
+### 12 When custody order ceases to have effect
+(1) For the purpose of this clause, commencement date means the day after the date on which the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 receives the Royal assent.
+(2) Section 108(c) of this Act applies to any custody order made before or after 1 April 2017 and that expires after the commencement date, even if the order or any other document relating to the order contains words to the effect that the order ceases to have effect when the young person attains the age of 17 years.
+
+### 13 Agreements for extended care of severely disabled children and young persons and agreements with persons providing residential disability care
+(1) For the purpose of this clause, commencement date means the date on which section 76 of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 comes into force.
+(2) Any agreement made under section 141 or 142 of this Act before the commencement date continues to have effect until it is terminated or expires and this Act continues to apply to those agreements as if the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 had not been enacted.
+
+### 14 Youth justice principles
+(1) For the purpose of this clause, commencement date means the date on which section 101(8) of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 comes into force.
+(2) Section 208(3) and (4) of this Act applies only if offending occurred or is alleged to have occurred on or after the commencement date.
+
+### 15 Review of detention of young persons in residence or Police custody
+(1) For the purpose of subclause (2), commencement date means the date on which section 105 of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 comes into force.
+(2) Section 241(2) of this Act applies to any order made under section 238(1)﻿(e), whether made before or after the commencement date.
+(3) For the purpose of subclause (4), commencement date means the date on which section 106(1) of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 comes into force.
+(4) Section 242(1A) of this Act applies to any child or young person detained in a residence on or after the commencement date, whether the order for detention of that child or young person was made before or after the commencement date.
+
+### 16 Consideration of restorative justice actions by Family Group Conferences
+(1) For the purpose of this clause, commencement date means the date on which section 111(3) of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 comes into force.
+(2) Section 258(2) and (3) of this Act applies to any Family Group Conference that takes place on or after the commencement date, including a conference that has been adjourned from an earlier date.
+
+### 17 Factors to be taken into account on sentencing
+(1) For the purpose of this clause, commencement date means the date on which section 119 of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 comes into force.
+(2) Section 284(1A) of this Act applies only if the offending occurred on or after the commencement date.
+
+### 18 Moving to independence
+(1) For the purpose of this clause, commencement date means the date on which sections 128 to 130 of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 come into force.
+(2) Section 386AAD of this Act applies only to persons who are aged under 18 years on the commencement date.
+(3) Any young person receiving advice and assistance under section 386A of this Act immediately before the commencement date is to be treated as receiving advice and assistance under new section 386A on or after the commencement date.
+(4) Section 386C of this Act applies only to persons who are subject to any process or proceeding under this Act on or after the commencement date.
+
+### 19 References to Children, Young Persons, and Their Families Act 1989
+Unless the context otherwise requires, every reference to the Children, Young Persons, and Their Families Act 1989 in any document is, after the commencement of section 138 of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017, to be read as a reference to the Oranga Tamariki Act 1989.
+
 ## Schedule 1 — Provisions applied to Youth Court and to proceedings in Youth Court
 
 ### 1
@@ -5209,7 +5339,7 @@ Section 10, 13, Part 2, subparts 1 to 4 of Part 3, subparts 1 and 3 of Part 4, a
 Part 3 of the Bail Act 2000 except that—
 (a) neither a Justice nor a Community Magistrate may exercise any of the powers conferred by section 33:
 (b) the provisions of section 30 apply as if there were inserted in that section, as subsections (1A) and (1B), the following subsections:
-(“(1A)) Despite anything in subsection (1), if the hearing is adjourned for the purpose of enabling a family group conference to be held under the provisions of the Children, Young Persons, and Their Families Act 1989, the defendant must be excused from attending at the time and place to which the hearing is adjourned if, before that time, the Youth Justice Co-ordinator convening that conference notifies the court, in writing, that the proceedings of that family group conference will not be completed by that time.
+(“(1A)) Despite anything in subsection (1), if the hearing is adjourned for the purpose of enabling a family group conference to be held under the provisions of the Oranga Tamariki Act 1989, the defendant must be excused from attending at the time and place to which the hearing is adjourned if, before that time, the Youth Justice Co-ordinator convening that conference notifies the court, in writing, that the proceedings of that family group conference will not be completed by that time.
 (“(1B)) If, under subsection (1A), the defendant is excused from attending any hearing, and the court adjourns that hearing, the Registrar must notify the defendant of the time and place to which the hearing is adjourned.”
 
 ### 3A
