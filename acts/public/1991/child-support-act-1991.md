@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2017-07-14_
 
 > Title
 
@@ -202,8 +202,8 @@ The objects of this Act are—
 
 ### 8 Who may apply for formula assessment
 (1) Any parent or carer of a qualifying child may apply to the Commissioner for a formula assessment of child support payable in respect of the child.
-(2) However, if a qualifying child is a child in respect of whom payments are being made under section 363 of the Children, Young Persons, and Their Families Act 1989, then, despite subsection (1), the only person who may apply for a formula assessment in relation to the child is either of the following:
-  (a) the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989; or
+(2) However, if a qualifying child is a child in respect of whom payments are being made under section 363 of the Oranga Tamariki Act 1989, then, despite subsection (1), the only person who may apply for a formula assessment in relation to the child is either of the following:
+  (a) the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989; or
   (b) a body or organisation approved under section 396 of that Act.
 
 ### 9 Social security beneficiaries must apply for formula assessment
@@ -296,7 +296,7 @@ The objects of this Act are—
 (2) If 2 or more people who live together each provide ongoing daily care to a child,—
   (a) only 1 of those people may be treated as a carer, and the care provided by the other persons must be treated as part of the care provided by the first person; and
   (b) if 1 of the people is a parent of the child, that person must be treated as the carer.
-(3) The parents of a qualifying child in respect of whom payments are being made under section 363 of the Children, Young Persons, and Their Families Act 1989 are deemed to provide no ongoing daily care to the child.
+(3) The parents of a qualifying child in respect of whom payments are being made under section 363 of the Oranga Tamariki Act 1989 are deemed to provide no ongoing daily care to the child.
 
 ### 15 How Commissioner establishes proportions of care
 (1) For the purpose of section 14, the Commissioner must (subject to subsection (3)) rely on the content of any care order or agreement relating to a qualifying child when establishing the proportion of ongoing daily care that a carer provides to the child.
@@ -377,7 +377,7 @@ The objects of this Act are—
     (ii) the day before the date on which a properly completed application for formula assessment is received by the Commissioner from a carer in place of the carer who has died:
   (b) the day before the date on which the receiving carer ceases to provide at least 35% of ongoing daily care to the child:
   (c) the day before the date on which the receiving carer starts to live, or resumes living, with the liable parent of the child in a marriage, civil union, or de facto relationship:
-  (d) in any case to which section 8(2) applies, the day before the date on which the carer ceases to be under a duty to make payments under section 363 of the Children, Young Persons, and Their Families Act 1989 in respect of the child:
+  (d) in any case to which section 8(2) applies, the day before the date on which the carer ceases to be under a duty to make payments under section 363 of the Oranga Tamariki Act 1989 in respect of the child:
   (e)
   (f) in a case where a voluntary agreement made in relation to the child between the liable parent and the carer is accepted by the Commissioner, the day before the date on which that voluntary agreement first applies, in accordance with section 59.
 (4) Subsection (5) applies if the Commissioner accepts an election under section 27 to end a formula assessment as it applies in respect of a qualifying child.
