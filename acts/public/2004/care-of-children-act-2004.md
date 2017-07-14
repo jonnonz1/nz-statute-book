@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -122,7 +122,7 @@ In this Act, unless the context otherwise requires,—
   - **country** includes any State, territory, province, or other part of a country
   - **court** means a court having jurisdiction in the proceedings, under section 125
   - **day-to-day care** includes care that is provided only for 1 or more specified days or parts of days
-  - **department** means the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989
+  - **department** means the department for the time being responsible for the administration of the Oranga Tamariki Act 1989
   - **faxed copy** , in relation to a warrant issued under this Act, means a copy of the warrant that is produced by a fax machine, computer, or other electronic device when the warrant is sent by facsimile transmission
   - **guardian** and have the meanings given to them by section 15
   - **High Court** includes a Judge of that court
@@ -255,12 +255,12 @@ For the purposes of this Act, guardianship of a child means having (and therefor
 (1) No appointment of an additional guardian of a child may be made under section 23 if the child—
   (a) has a testamentary guardian appointed by the court under section 26(3); or
   (b) has a court-appointed guardian because of an appointment under section 27; or
-  (c) is or has been involved in proceedings under Part 2 of the Children, Young Persons, and Their Families Act 1989; or
+  (c) is or has been involved in proceedings under Part 2 of the Oranga Tamariki Act 1989; or
   (d) is or has been an applicant for, or the subject of, a protection order under the Domestic Violence Act 1995.
 (2) No appointment of an additional guardian of a child may be made under section 23 if a parent authorised by section 21 to make the appointment—
   (a) has already appointed an additional guardian for the child under section 23; or
   (b) has been deprived of his or her guardianship by an order under section 29; or
-  (c) is or has been involved in proceedings concerning a child under this Act, a former Act corresponding to this Act, or Part 2 of the Children, Young Persons, and Their Families Act 1989; or
+  (c) is or has been involved in proceedings concerning a child under this Act, a former Act corresponding to this Act, or Part 2 of the Oranga Tamariki Act 1989; or
   (d) is or has been a respondent or associated respondent in proceedings under the Domestic Violence Act 1995.
 (3) No appointment of an additional guardian of a child may be made under section 23 unless the child, or a parent of the child, is either a New Zealand citizen or a person who is ordinarily resident in New Zealand.
 (4) No appointment of an additional guardian of a child may be made under section 23 if any of the statutory declarations required by section 23(5) cannot be made in the affirmative.
@@ -273,7 +273,7 @@ For the purposes of this Act, guardianship of a child means having (and therefor
   (c) a parent of the child and a guardian of the child.
 (2) A spouse or partner of a parent is an eligible spouse or partner of a parent in relation to a parent of a child and an appointment under this section only if the parent is making the appointment (either alone, or with the other parent, or a guardian, of the child) and the spouse or partner—
   (a) shares responsibility for the child’s day-to-day care, and has done so for not less than 1 year; and
-  (b) is not, and has never been, involved in proceedings concerning a child under this Act, a former Act corresponding to this Act, or Part 2 of the Children, Young Persons, and Their Families Act 1989; and
+  (b) is not, and has never been, involved in proceedings concerning a child under this Act, a former Act corresponding to this Act, or Part 2 of the Oranga Tamariki Act 1989; and
   (c) is not, and has never been, either a respondent or an associated respondent in proceedings under the Domestic Violence Act 1995; and
   (d) has never been convicted of an offence involving harm to a child, including (without limitation),—
     (i) an offence involving violence (that is, physical abuse or sexual abuse), ill-treatment, abuse, neglect, or deprivation in relation to a child; or
@@ -358,7 +358,7 @@ The declarations required by section 23(5)﻿(a) are statutory declarations by e
 
 ### 29A Revocation of appointment as guardian
 (1) The court may, on application, revoke the appointment under section 27 of a person as a guardian of a child or young person if—
-  (a) the person is a permanent caregiver (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) who is not a special guardian (as defined in that Act); and
+  (a) the person is a permanent caregiver (as defined in section 2(1) of the Oranga Tamariki Act 1989) who is not a special guardian (as defined in that Act); and
   (b) the application is made at the same time as an application referred to in section 110A of that Act; and
   (c) a guardianship order under section 110 of that Act, and a special guardianship order under section 113A of that Act, are made.
 (2) If the court revokes an appointment under this section, it must discharge, under section 56, the associated parenting order under section 48 that confers on the person the role of providing day-to-day care for the child and any associated parenting order that provides for any specified person to have contact with the child.
@@ -403,7 +403,7 @@ The declarations required by section 23(5)﻿(a) are statutory declarations by e
   (c) any of the following applies:
     (i) the application seeks an order appointing the chief executive to be the agent of the court, either generally or for a particular purpose, in respect of the child who is the subject of the application; or
     (ii) the application does not seek an order of the kind described in subparagraph (i), but the court considers, at any stage of the proceedings, that it is likely to make such an order; or
-    (iii) the child who is the subject of the application is in the custody or under the guardianship or in the care of the chief executive or any other person under the Children, Young Persons, and Their Families Act 1989; or
+    (iii) the child who is the subject of the application is in the custody or under the guardianship or in the care of the chief executive or any other person under the Oranga Tamariki Act 1989; or
     (iv) a warrant in respect of the child who is the subject of the application has been issued under any of sections 39, 40, 122, 157(2), 205(2)﻿(b), and 386 of that Act.
 (2) When this section applies,—
   (a) the court must give notice of the application to the chief executive; and
@@ -581,7 +581,7 @@ In sections 46E and 46F, family dispute resolution, family dispute resolution fo
   (b) is without notice; or
   (c) is for a consent order; or
   (d) seeks the enforcement of an existing order; or
-  (e) relates to a child who is the subject of proceedings already begun under Part 2 of the Children, Young Persons, and Their Families Act 1989; or
+  (e) relates to a child who is the subject of proceedings already begun under Part 2 of the Oranga Tamariki Act 1989; or
   (f) is accompanied by an affidavit that provides evidence of either of the following matters:
     (i) that at least 1 of the parties to the family dispute is unable to participate effectively in family dispute resolution:
     (ii) that at least 1 of the parties to the family dispute, or a child of one of the parties, has been subject to domestic violence by one of the other parties to the dispute.
@@ -795,7 +795,7 @@ If a court proposes to make a parenting order that does not give a parent the ro
   (a) a person affected by the order:
   (b) a person acting on behalf of the child.
 (4) Subsections (1) and (2) apply to orders of the kind referred to in those subsections whether or not the orders were made after the commencement of this Act, but nothing in those subsections applies to—
-  (a) any order under the Children, Young Persons, and Their Families Act 1989; or
+  (a) any order under the Oranga Tamariki Act 1989; or
   (b) any interim order or adoption order under the Adoption Act 1955.
 (5) Subsection (2) does not limit section 29.
 
@@ -814,7 +814,7 @@ If a court proposes to make a parenting order that does not give a parent the ro
 In this section and sections 59 and 60,—
   - **approved provider** means a supervised contact service provider who is—
     (a) approved—
-      (i) by the chief executive as a community service under section 403 of the Children, Young Persons, and Their Families Act 1989; or
+      (i) by the chief executive as a community service under section 403 of the Oranga Tamariki Act 1989; or
       (ii) by the Secretary; or
       (iii) by an officer of the court appointed under section 8(2) of the Family Court Act 1980; and
     (b) nominated by the court or Registrar for the particular case
@@ -1460,8 +1460,8 @@ In any proceedings under this Act (other than criminal proceedings), a court may
 (5) However, no order under section 135A may be made—
   (a) in any proceedings commenced by an application under section 105 or a request under section 111; or
   (b) against—
-    (i) the Crown, whether acting through the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989 or otherwise; or
-    (ii) a person in whose custody the child concerned has been placed pursuant to an order made under the Children, Young Persons, and Their Families Act 1989; or
+    (i) the Crown, whether acting through the department for the time being responsible for the administration of the Oranga Tamariki Act 1989 or otherwise; or
+    (ii) a person in whose custody the child concerned has been placed pursuant to an order made under the Oranga Tamariki Act 1989; or
   (c) in respect of an appointment under section 130, where a lawyer has been appointed under that section to provide to the court independent advice on any complex legal issue.
 
 ### 131A Advice from chief executive or social worker
@@ -1742,7 +1742,7 @@ Except as provided in section 145(1)﻿(b), an order or decision of the High Cou
 
 ### 148 Other Acts not affected
 (1) Nothing in this Act affects the following Acts:
-  (a) Children, Young Persons, and Their Families Act 1989:
+  (a) Oranga Tamariki Act 1989:
   (b) Family Proceedings Act 1980.
 (2) This section is subject to sections 66 and 149 to 151 and Schedules 2 to 4.
 
