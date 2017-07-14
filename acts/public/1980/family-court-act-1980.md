@@ -1,5 +1,5 @@
 # Family Court Act 1980
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 > Title
 
@@ -105,7 +105,7 @@ The District Court has a division known as the Family Court.
   (e) the Property (Relationships) Act 1976:
   (f) the Family Proceedings Act 1980:
   (g) the Child Support Act 1991:
-  (ga) the Children, Young Persons, and Their Families Act 1989:
+  (ga) the Oranga Tamariki Act 1989:
   (gb) the Law Reform (Testamentary Promises) Act 1949:
   (gc) the Family Protection Act 1955:
   (gd) the Wills Act 2007:
@@ -155,7 +155,7 @@ The District Court has a division known as the Family Court.
       (A) any person under the age of 18 years who is the subject of the proceedings, or who is referred to in the proceedings:
       (B) any vulnerable person who is the subject of the proceedings:
       (C) any parties or applicants in the proceedings where subsubparagraph (A) or (B) applies:
-      (D) any school that a person who is the subject of proceedings under the Children, Young Persons, and Their Families Act 1989 is or was attending, or any other particulars likely to lead to the identification of that school:
+      (D) any school that a person who is the subject of proceedings under the Oranga Tamariki Act 1989 is or was attending, or any other particulars likely to lead to the identification of that school:
   (b) a publication of statistical information relating to the proceedings.
 (5) The court may grant leave under subsection (3) with or without conditions.
 (6) Every person who contravenes this section commits an offence against this Act and is liable on conviction,—
@@ -170,7 +170,7 @@ The District Court has a division known as the Family Court.
   (b) an applicant in the proceedings:
   (c) a person who is the subject of the proceedings:
   (d) a person who is related to, or associated with, a person referred to in paragraphs (a) to (c) or who is, or may be, in any other way concerned in the matter to which the proceedings relate (for example, a support person for a party).
-(2) For the purposes of section 11B in relation to proceedings under the Children, Young Persons, and Their Families Act 1989, identifying information also includes the name or particulars likely to lead to the identification of any school that a person the subject of the proceedings is or was attending.
+(2) For the purposes of section 11B in relation to proceedings under the Oranga Tamariki Act 1989, identifying information also includes the name or particulars likely to lead to the identification of any school that a person the subject of the proceedings is or was attending.
 
 ### 11D Meaning of vulnerable person
 For the purposes of section 11B, vulnerable person means—
@@ -185,7 +185,7 @@ For the purposes of section 11B, vulnerable person means—
   (i) a person whom the court considers likely for any other reason to be particularly susceptible to any adverse consequences associated with the publication of a report of the proceedings that contains identifying information.
 
 ### 12 Proceedings to be brought and dealt with under Family Court Rules
-While any Family Court Rules are in force, all proceedings in the Family Court (and all proceedings in the District Court under section 15 of this Act or section 151 of the Children, Young Persons, and Their Families Act 1989) must be brought and dealt with under those rules, except to the extent that the Act under which the proceedings are brought provides for them to be brought or dealt with under some other enactment.
+While any Family Court Rules are in force, all proceedings in the Family Court (and all proceedings in the District Court under section 15 of this Act or section 151 of the Oranga Tamariki Act 1989) must be brought and dealt with under those rules, except to the extent that the Act under which the proceedings are brought provides for them to be brought or dealt with under some other enactment.
 
 ### 12A Evidence
 (1) This section applies to a proceeding—
@@ -195,7 +195,7 @@ While any Family Court Rules are in force, all proceedings in the Family Court (
   (a) Adoption Act 1955:
   (b) Care of Children Act 2004:
   (c) Child Support Act 1991:
-  (d) Children, Young Persons, and Their Families Act 1989:
+  (d) Oranga Tamariki Act 1989:
   (e) Domestic Violence Act 1995:
   (f) Family Proceedings Act 1980:
   (g) Property (Relationships) Act 1976:
@@ -204,7 +204,7 @@ While any Family Court Rules are in force, all proceedings in the Family Court (
   (a) the Family Court:
   (b) the District Court having concurrent jurisdiction with the Family Court:
   (c) the District Court acting under section 15:
-  (d) the District Court hearing a proceeding under section 151 of the Children, Young Persons, and Their Families Act 1989:
+  (d) the District Court hearing a proceeding under section 151 of the Oranga Tamariki Act 1989:
   (e) any other court hearing a proceeding that is—
     (i) under an Act specified in subsection (2); and
     (ii) not a criminal proceeding; and
@@ -248,7 +248,7 @@ Notwithstanding anything in section 11, the District Court may—
   (a) the Adoption Act 1955:
   (b) the Births, Deaths, Marriages, and Relationships Registration Act 1995:
   (c) the Child Support Act 1991:
-  (d) the Children, Young Persons, and Their Families Act 1989:
+  (d) the Oranga Tamariki Act 1989:
   (da) the Civil Union Act 2004:
   (e) the Domestic Actions Act 1975:
   (f) the Domestic Violence Act 1995:
@@ -297,14 +297,14 @@ Fees and expenses for lawyers for child and lawyers to assist court
   (a) a lawyer appointed under any of the following provisions to represent a child or young person:
     (i) section 7 of the Care of Children Act 2004:
     (ii) section 226 of the Child Support Act 1991:
-    (iii) section 159 of the Children, Young Persons, and Their Families Act 1989:
+    (iii) section 159 of the Oranga Tamariki Act 1989:
     (iv) section 81(1)﻿(b) of the Domestic Violence Act 1995:
     (v) section 162 of the Family Proceedings Act 1980:
     (vi) section 37A of the Property (Relationships) Act 1976; or
   (b) a lawyer appointed under any of the following provisions to assist the court:
     (i) section 130 of the Care of Children Act 2004:
     (ii) section 226A of the Child Support Act 1991:
-    (iii) section 160 of the Children, Young Persons, and Their Families Act 1989:
+    (iii) section 160 of the Oranga Tamariki Act 1989:
     (iv) section 81(1)﻿(a) of the Domestic Violence Act 1995:
     (v) section 162A of the Family Proceedings Act 1980:
     (vi) section 65A of the Protection of Personal and Property Rights Act 1988.
