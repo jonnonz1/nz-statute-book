@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 > Title
 
@@ -283,7 +283,7 @@ In sections 21A and 21B,—
     (a) the guardians of a person; or
     (b) if any guardians are unavailable, the other guardian or guardians; or
     (c) if, on the application of 1 guardian, the Family Court has consented to a change in the person’s names, that guardian; or
-    (d) if all guardians are unavailable, the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989.
+    (d) if all guardians are unavailable, the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989.
 
 ### 21A Application for registration of name change
 (1) The following persons may apply for registration of a name change:
