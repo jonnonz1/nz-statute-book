@@ -1,5 +1,5 @@
 # Adoption Act 1955
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the adoption of children
 
@@ -16,7 +16,7 @@ In this Act, unless the context otherwise requires,—
   - **Commonwealth country** means a country that is a member of the British Commonwealth of Nations; and includes every territory for whose international relations the Government of that country is responsible; and also includes the Republic of Ireland as if that country were a member of the British Commonwealth of Nations
   - **Commonwealth representative** means an Ambassador, High Commissioner, Minister, Chargé d'Affaires, Consular Officer, Trade Commissioner, or Tourist Commissioner of a Commonwealth country (including New Zealand); and includes any person lawfully acting for any such officer; and also includes any diplomatic secretary on the staff of any such Ambassador, High Commissioner, Minister, or Chargé d'Affaires
   - **court** means the Family Court or the District Court in its civil jurisdiction; and includes the High Court acting in its jurisdiction on appeal under this Act
-  - **department** means the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989
+  - **department** means the department for the time being responsible for the administration of the Oranga Tamariki Act 1989
   - **interim order** means an interim order made under this Act
   - **Maori** means a person who is a Maori within the meaning of Te Ture Whenua Maori Act 1993
   - **publish** , in relation to any advertisement, means—
@@ -63,7 +63,7 @@ Upon any application for an adoption order, if the court considers that the appl
   provided that, where application to the court for an adoption order is made before the expiration of 1 month from the date of the grant of the approval, the approval shall remain in force until the application is abandoned or dismissed or an order is made by the court on the application.
 (3) An interim order may be made by the court in respect of a child notwithstanding that a social worker has refused to grant an approval under this section.
 (4) This section shall not apply in any case where—
-  (a) the child is in the home pursuant to any provision of the Children, Young Persons, and Their Families Act 1989 or to an order made pursuant to that Act; or
+  (a) the child is in the home pursuant to any provision of the Oranga Tamariki Act 1989 or to an order made pursuant to that Act; or
   (b) the child is in the home pursuant to an order made pursuant to the Care of Children Act 2004; or
   (c) the child is in the home of one of the child's parents and a step-parent of the child; or
   (d) the child is in the home of a relative of the child (not being a relative who, in the absence of special circumstances, is prohibited, by reason of age or sex, from adopting the child).
