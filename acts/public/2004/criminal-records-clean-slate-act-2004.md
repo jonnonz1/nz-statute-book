@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -255,7 +255,7 @@ This Act binds the Crown.
     (ii) as a Judge, Justice of the Peace, or Community Magistrate; or
     (iii) as a Police employee, prison officer, probation officer, or security officer; or
   (e) the eligible individual has made an application to act in a role predominantly involving the care and protection of, but not predominantly involving the delivery of education to, a child or young person (for example, a foster parent or a caregiver of children or young persons); or
-  (f) the eligible individual's criminal record or information about an eligible individual's criminal record is relevant to an investigation under section 17 of the Children, Young Persons, and Their Families Act 1989 of a report of ill-treatment or neglect of a child or young person or in relation to any procedure under Part 2 of that Act arising from an investigation of that kind (including, without limitation, holding a family group conference or the Family Court’s consideration of an application for a declaration that a child or young person is in need of care or protection); or
+  (f) the eligible individual's criminal record or information about an eligible individual's criminal record is relevant to an investigation under section 17 of the Oranga Tamariki Act 1989 of a report of ill-treatment or neglect of a child or young person or in relation to any procedure under Part 2 of that Act arising from an investigation of that kind (including, without limitation, holding a family group conference or the Family Court’s consideration of an application for a declaration that a child or young person is in need of care or protection); or
   (g) the eligible individual's criminal record or information about an eligible individual's criminal record is relevant to the undertaking of research that requires access to criminal history information to be given to any employee or person contracted to a government department or law enforcement agency or to any person undertaking research approved by a government department or law enforcement agency.
 
 **Limits on use of criminal records**
