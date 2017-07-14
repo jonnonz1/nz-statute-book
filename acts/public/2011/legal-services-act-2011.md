@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -27,8 +27,8 @@ The purpose of this Act is to promote access to justice by establishing a system
     (b) as defined in regulations if the person is charged with or convicted of a prescribed offence
   - **civil proceedings** includes—
     (a) proceedings under the Marriage Act 1955, the Adoption Act 1955, the Domestic Actions Act 1975, the Property (Relationships) Act 1976, the Family Proceedings Act 1980, the Domestic Violence Act 1995, the Care of Children Act 2004, or subparts 5, 7, 8, and 9 of Part 1 of the Weathertight Homes Resolution Services Act 2006; and
-    (b) proceedings under the Children, Young Persons, and Their Families Act 1989, other than proceedings in respect of an offence; and
-    (c) despite paragraph (b), proceedings under Part 2 of the Children, Young Persons, and Their Families Act 1989 on the ground specified in section 14(1)﻿(e) of that Act
+    (b) proceedings under the Oranga Tamariki Act 1989, other than proceedings in respect of an offence; and
+    (c) despite paragraph (b), proceedings under Part 2 of the Oranga Tamariki Act 1989 on the ground specified in section 14(1)﻿(e) of that Act
   - **Commissioner** means the Legal Services Commissioner appointed under section 70
   - **community legal services** means any 1 or more of the following services that a community law centre provides under a contract between the centre and the Secretary:
     (a) legal services:
@@ -97,7 +97,7 @@ The purpose of this Act is to promote access to justice by establishing a system
     (f) to enable—
       (i) a person to apply for a protection order under Part 2 of the Domestic Violence Act 1995, or an order relating to property under Part 3 of that Act; or
       (ii) a person who has applied for an order described in subparagraph (i) to appeal, or respond to an appeal, against the determination of the person's application; or
-    (g) in respect of a proceeding under Part 2 or 3A of the Children, Young Persons, and Their Families Act 1989; or
+    (g) in respect of a proceeding under Part 2 or 3A of the Oranga Tamariki Act 1989; or
     (h) in respect of a proceeding that is specified in section 7(1)﻿(j) to (n) and that involves, or is connected with, the recognition of a person as a refugee or protected person
   - **specified legal services** means legal services specified by the Secretary under section 68(2)﻿(b)
   - **Tribunal** means the Legal Aid Tribunal established under section 62
@@ -140,7 +140,7 @@ Legal aid may be granted in respect of the following criminal matters:
   (c) appeals to the Judicial Committee of the Privy Council in civil proceedings in any case where—
     (i) the applicant has succeeded in the Court of Appeal and is the respondent in the appeal to the Privy Council, if the grant of aid is approved by the Minister; or
     (ii) the Attorney-General certifies that a question of law of exceptional public importance is involved and that the grant of aid is desirable in the public interest:
-  (d) proceedings commenced by way of application in the Youth Court under Part 7 of the Children, Young Persons, and Their Families Act 1989 or in respect of any review of any determination of, or any order made in, the Youth Court in any such proceedings:
+  (d) proceedings commenced by way of application in the Youth Court under Part 7 of the Oranga Tamariki Act 1989 or in respect of any review of any determination of, or any order made in, the Youth Court in any such proceedings:
   (e) in any case where the Commissioner considers that the case is one that requires legal representation (having regard to the nature of the proceedings and to the applicant's personal interest) and considers that the applicant would suffer substantial hardship if aid were not granted, proceedings in—
     (i) the Māori Land Court; or
     (ii) the Māori Appellate Court; or
@@ -217,7 +217,7 @@ Legal aid may be granted in respect of the following criminal matters:
 (4) Subsection (1)﻿(c)﻿(i) does not apply in respect of—
   (a) an appeal; or
   (b) a proceeding to which section 6(c) applies.
-(5) Despite subsection (1)﻿(a), the Commissioner may not grant legal aid to a child or a young person (as those terms are defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) in respect of any proceedings against that child or young person for an offence, if those proceedings are heard in the Youth Court.
+(5) Despite subsection (1)﻿(a), the Commissioner may not grant legal aid to a child or a young person (as those terms are defined in section 2(1) of the Oranga Tamariki Act 1989) in respect of any proceedings against that child or young person for an offence, if those proceedings are heard in the Youth Court.
 
 ### 9 Prescribed offences
 (1) If an applicant is charged with or convicted of a prescribed offence, the Commissioner must determine, in the manner set out in regulations, whether the applicant has sufficient means to enable him or her to obtain legal assistance unless subsection (2) applies.
