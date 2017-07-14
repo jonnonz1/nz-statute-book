@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -65,7 +65,7 @@ In this Act, unless the context otherwise requires,—
     (c) that resulted in the death of a member of the victim’s immediate family, or in a member of the victim’s immediate family being incapable
   - **offender** has the meaning given to it by section 5
   - **penal institution** has the same meaning as in section 2(1) of the Penal Institutions Act 1954
-  - **parent** has the same meaning as in section 2(1) of the Children, Young Persons, and Their Families Act 1989
+  - **parent** has the same meaning as in section 2(1) of the Oranga Tamariki Act 1989
   - **person arrested and detained under the Armed Forces Discipline Act 1971 pending release or trial** means a person who, in accordance with that Act, and in or outside New Zealand, is—
     (a) arrested for an alleged offence, and detained before being delivered into civil custody, service custody, or other custody, in connection with the offence; or
     (b) in any of those kinds of custody pending release, or pending trial for the alleged offence by a court of competent jurisdiction in or outside New Zealand
@@ -283,8 +283,8 @@ Nothing in this subpart prevents a person under control or supervision from comp
     (b) an amount due under an order of reparation
   - **order of reparation** means—
     (a) an order under section 106, section 108, or section 110 of the Sentencing Act 2002; or
-    (b) an order under section 84(1)﻿(b) of the Children, Young Persons, and Their Families Act 1989; or
-    (c) an order under section 283(f) or (g) of the Children, Young Persons, and Their Families Act 1989; or
+    (b) an order under section 84(1)﻿(b) of the Oranga Tamariki Act 1989; or
+    (c) an order under section 283(f) or (g) of the Oranga Tamariki Act 1989; or
     (d) an order that—
       (i) requires the payment of an amount to compensate, or to make restitution to, the victim of an offence against an enactment; and
       (ii) is declared by the Governor-General, by Order in Council, to be an order of reparation for the purposes of Part 3 of the Summary Proceedings Act 1957.
