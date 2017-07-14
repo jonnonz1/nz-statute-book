@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -3187,7 +3187,7 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
 (9) The information may be supplied in such form as is determined by agreement between the Corporation and the Director-General, or the Corporation and each chief executive.
 
 ### 283 Disclosure of information by Corporation for injury prevention purposes
-(1) The purpose of this section is to facilitate the disclosure of information by the Corporation to the Department of Child, Youth and Family Services for the purpose of preventing or limiting injury to children or young persons arising through unlawful activity.
+(1) The purpose of this section is to facilitate the disclosure of information by the Corporation to the department responsible for administering the Oranga Tamariki Act 1989 for the purpose of preventing or limiting injury to children or young persons arising through unlawful activity.
 (2) For the purpose of this section, the Corporation may provide information to that agency about claimants and other persons if the Corporation believes on reasonable grounds that it is reasonably necessary to achieve the purpose of this section.
 (3) Information must be provided under subsection (2) in accordance with an agreement between the Corporation and the chief executive of that department.
 
