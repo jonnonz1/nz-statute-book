@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -105,7 +105,7 @@ This Act is the Search and Surveillance Act 2012.
     (d) an escapee from lawful custody within the meaning of section 120 of the Crimes Act 1961:
     (e) a special patient or restricted patient within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992 who has escaped or failed to return on the expiry or cancellation of a period of leave:
     (f) a care recipient or special care recipient within the meaning of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003 who has escaped or failed to return on the expiry or cancellation of a period of leave:
-    (g) a young person within the meaning of the Children, Young Persons, and Their Families Act 1989 who is subject to an order made under section 311(1) of that Act and who is absconding from the custody of the chief executive (as defined in that Act)
+    (g) a young person within the meaning of the Oranga Tamariki Act 1989 who is subject to an order made under section 311(1) of that Act and who is absconding from the custody of the chief executive (as defined in that Act)
   - **vehicle** means any conveyance that is capable of being moved under a person's control, whether or not the conveyance is used for the carriage of persons or goods, and includes a motor vehicle, aircraft, train, ship, or bicycle
   - **visual surveillance device** —
     (a) means any electronic, mechanical, electromagnetic, optical, or electro-optical instrument, apparatus, equipment, or other device that is used or is capable of being used to observe, or to observe and record, a private activity; but
@@ -3597,9 +3597,6 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 118(1) | Person exercising power of search conferred by section 111 of Biosecurity Act 1993 may seize things | Subparts 1, 5, 6, 7, 9, and 10 |
 | Boxing and Wrestling Act 1981 | 9 | Constable may obtain and execute search warrant to obtain evidence of offence against Boxing and Wrestling Act 1981 | Subparts 1, 3, 4, 7, 9, and 10 |
 | Chemical Weapons (Prohibition) Act 1996 | 23 | Constable or appointed person may apply for search warrant | Subparts 3 and 4 |
-| Children, Young Persons, and Their Families Act 1989 | 39(1) and (3) | Constable or chief executive may obtain and execute place of safety warrant authorising search for, and removal of, child at risk of harm | Sections 99, 101, and 105 |
-|  | 40(1) and (4) | On application for order that child is in need of care and protection, constable or chief executive may obtain and execute search warrant authorising search for and removal of child | Sections 99, 101, and 105 |
-|  | 386(1) | If child or young person absconds, constable or chief executive may obtain and execute search warrant authorising search for, and removal and return of, child or young person | Sections 99, 101, and 105 |
 | Civil Aviation Act 1990 | 24(4) | Authorised person may obtain and execute warrant to enter dwellinghouse or marae for purposes of exercising powers of inspection conferred on Director of Civil Aviation by Civil Aviation Act 1990 | Subparts 1, 3, 4, 5, 7, 9, and 10 (except that sections 118 and 119 apply to constables only) |
 | Commerce Act 1986 | 98A(2) | Authorised employee of Commerce Commission may obtain and execute warrant to search for evidence of offence against most provisions of Commerce Act 1986 | All (except sections 118 and 119) |
 | Commodity Levies Act 1990 | 19(1) | Constable or designated person may obtain and execute warrant to enter and search for evidence of offence against Commodity Levies Act 1990 | All (except that sections 118 and 119 apply to constables only) |
@@ -3736,6 +3733,9 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 65(1) | Ranger may stop and search boats or vehicles, or certain animals, or aircraft, and search premises and possessions, in national park if he or she has reasonable cause to believe offence has been committed against National Parks Act 1980 or any bylaws under that Act and that evidence will be found in course of search | All (except subpart 3 and sections 118 and 119) |
 |  | 66(1) | Authorised person may stop and search boat outside national park if he or she has reasonable cause to believe offence has been committed against National Parks Act 1980 or any bylaws under that Act and that evidence is on boat | All (except subpart 3) |
 | Non-bank Deposit Takers Act 2013 | 52(1) | Appointed person may enter and search any place by consent or with warrant for purpose of investigating whether offence committed | All (except sections 118 and 119) |
+| Oranga Tamariki Act 1989 | 39(1) and (3) | Constable or chief executive may obtain and execute place of safety warrant authorising search for, and removal of, child at risk of harm | Sections 99, 101, and 105 |
+|  | 40(1) and (4) | On application for order that child is in need of care and protection, constable or chief executive may obtain and execute search warrant authorising search for and removal of child | Sections 99, 101, and 105 |
+|  | 386(1) | If child or young person absconds, constable or chief executive may obtain and execute search warrant authorising search for, and removal and return of, child or young person | Sections 99, 101, and 105 |
 | Overseas Investment Act 2005 | 56(3) | Regulator may obtain search warrant to search place or thing if there are reasonable grounds to believe offence under Overseas Investment Act 2005 has been, or is being, committed at place or thing or there is on, under, or over place or thing evidence of offence against that Act | All (except sections 118 and 119) |
 | Ozone Layer Protection Act 1996 | 23(1) | Constable may obtain and execute search warrant to search for evidence of offence against Ozone Layer Protection Act 1996 | All (except sections 118 and 119) |
 |  | 25 | If any constable or officer seizes any substance or goods under Ozone Layer Protection Act 1996, subparts 1, 6, 7, 9, and 10 of Part 4 of Search and Surveillance Act 2012 apply | Subparts 1, 6, 7, 9, and 10 |
