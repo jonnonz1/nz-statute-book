@@ -1,5 +1,5 @@
 # Te Rarawa Claims Settlement Act 2015
-_Consolidation as at 2017-05-12_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Te Rarawa Claims Settlement Act 2015.
@@ -2575,7 +2575,7 @@ Nothing given effect to or authorised by this subpart—
   (e) invalidates or discharges a contract.
 
 ### 217 Status of contracts and other instruments
-(1) In subsection (2), contracts and other instruments means contracts, agreements, conveyances, deeds, leases, licences, other instruments, undertakings, approvals granted under sections 396 and 403 of the Children, Young Persons, and Their Families Act 1989, and notices entered into by, made with, given to or by, or addressed to Te Runanga (whether alone or with another person) before the commencement of this Act and having effect immediately before that date.
+(1) In subsection (2), contracts and other instruments means contracts, agreements, conveyances, deeds, leases, licences, other instruments, undertakings, approvals granted under sections 396 and 403 of the Oranga Tamariki Act 1989, and notices entered into by, made with, given to or by, or addressed to Te Runanga (whether alone or with another person) before the commencement of this Act and having effect immediately before that date.
 (2) Contracts and other instruments are binding on, and enforceable by, against, or in favour of, the trustee as if the contract or other instrument were entered into by, made with, given to or by or addressed to or by the trustees and not Te Runanga.
 
 ### 218 Status of existing securities
