@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -150,7 +150,7 @@ In this Act, unless the context otherwise requires,—
 ### 7 Act subject to other enactments
 (1) This Act must be read subject to any special provisions of any other enactment relating to the procedure in any particular case.
 (2) Except as expressly provided in the Armed Forces Discipline Act 1971, this Act does not apply to proceedings under that Act, or to proceedings on appeal from any decision under that Act.
-(3) Except as expressly provided in the Children, Young Persons, and Their Families Act 1989, this Act does not apply to proceedings in the Youth Court or to proceedings on appeal from any decision of the Youth Court.
+(3) Except as expressly provided in the Oranga Tamariki Act 1989, this Act does not apply to proceedings in the Youth Court or to proceedings on appeal from any decision of the Youth Court.
 
 ### 8 Act binds the Crown
 This Act binds the Crown.
@@ -1619,7 +1619,7 @@ An order for a retrial under section 151 or 154 may be granted subject to—
 (3) If this subsection applies, the court may—
   (a) order that, unless he or she consents to give evidence or to be sworn or to answer the questions put to him or her, as the case may be, he or she be detained in custody for any period not exceeding 7 days; and
   (b) issue a warrant for his or her arrest and detention in accordance with the order.
-(4) If the person is under the age of 20 years, the warrant issued under subsection (3)﻿(b) may direct that the person be detained in the custody of the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989.
+(4) If the person is under the age of 20 years, the warrant issued under subsection (3)﻿(b) may direct that the person be detained in the custody of the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989.
 (5) Subsection (6) applies if a person detained under subsection (3), on being brought up at the adjourned hearing, again refuses to give evidence or to be sworn or, having been sworn, to answer the questions put to him or her.
 (6) If this subsection applies, the court, if it thinks fit, may again direct the witness to be detained in custody for the period referred to in subsection (3), until he or she consents to give evidence or to be sworn or to answer as described in subsection (2).
 (7) The power in subsection (6) may be exercised more than once.
@@ -1686,31 +1686,31 @@ A defendant who has been remanded in custody on any charge may be brought before
 
 ### 173 Remand of defendant under 17 in residence or care
 (1) This section applies to any person under the age of 17 years who is charged with or convicted of an offence in the District Court or High Court.
-(2) Despite section 15 of the Bail Act 2000, the court may remand the person in the custody of the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989 if—
+(2) Despite section 15 of the Bail Act 2000, the court may remand the person in the custody of the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989 if—
   (a) in the court's opinion it is desirable to do so by reason of special circumstances; and
   (b) the court is satisfied that the chief executive of that department is able and willing to keep the person in custody in accordance with this section.
-(3) If a person is remanded in the custody of the chief executive, that person may, until he or she is brought up for hearing or sentence, be placed in any residence under the Children, Young Persons, and Their Families Act 1989, or under the care of any suitable person pursuant to this Act.
-(4) This section is subject to the Children, Young Persons, and Their Families Act 1989.
+(3) If a person is remanded in the custody of the chief executive, that person may, until he or she is brought up for hearing or sentence, be placed in any residence under the Oranga Tamariki Act 1989, or under the care of any suitable person pursuant to this Act.
+(4) This section is subject to the Oranga Tamariki Act 1989.
 
 ### 174 Remand of defendant under 17 years for assessment report
-(1) Any court may remand a defendant who is under 17 years in the custody of the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989 for the purposes of an assessment report under section 38 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 if—
+(1) Any court may remand a defendant who is under 17 years in the custody of the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989 for the purposes of an assessment report under section 38 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 if—
   (a) the court is satisfied that the chief executive is able and willing to keep the defendant in custody for the purpose of the assessment report for any period, not exceeding 14 days, that the court thinks fit; and
   (b) the court would (in the absence of section 171 or 172) have remanded the defendant to a prison in accordance with section 38(2)﻿(b) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 for the purposes of the assessment report.
 (2) If, in any case to which section 38(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 applies, the defendant is under the age of 17 years, the provisions of section 38(2)﻿(c) to (4) and sections 40 to 44 of that Act must be read as if—
   (a) any reference to remand to a prison were a reference to remand to the custody of the chief executive; and
   (b) any reference to the manager of a prison were a reference to the chief executive; and
   (c) any reference to penal custody were a reference to the custody of the chief executive.
-(3) If a person is remanded in the custody of the chief executive under subsection (1), that person may, until he or she is brought up for hearing or sentence, be placed in any residence under the Children, Young Persons, and Their Families Act 1989, or under the care of any suitable person pursuant to that Act.
+(3) If a person is remanded in the custody of the chief executive under subsection (1), that person may, until he or she is brought up for hearing or sentence, be placed in any residence under the Oranga Tamariki Act 1989, or under the care of any suitable person pursuant to that Act.
 
 ### 175 Remand of defendants aged 17 to 20 years
 (1) This section applies to a person who is remanded pending hearing or sentence and who appears to the court to be of or over the age of 17 years but under the age of 20 years.
 (2) Despite section 15 of the Bail Act 2000, the court may—
-  (a) remand the defendant in the custody of the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989 if—
+  (a) remand the defendant in the custody of the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989 if—
     (i) in the court's opinion it is desirable to do so by reason of special circumstances; and
     (ii) the court is satisfied that the chief executive of that department is able and willing to keep the person in custody in accordance with this section; or
   (b) direct that the defendant be detained in a prison if, in the court's opinion, no other course is desirable having regard to all of the circumstances.
-(3) If a person is remanded in the custody of the chief executive, that person may, until he or she is brought up for hearing or sentence, be placed in any residence under the Children, Young Persons, and Their Families Act 1989, or under the care of any suitable person pursuant to that Act.
-(4) This section is subject to the Children, Young Persons, and Their Families Act 1989.
+(3) If a person is remanded in the custody of the chief executive, that person may, until he or she is brought up for hearing or sentence, be placed in any residence under the Oranga Tamariki Act 1989, or under the care of any suitable person pursuant to that Act.
+(4) This section is subject to the Oranga Tamariki Act 1989.
 
 **Stay of proceedings**
 
@@ -3380,7 +3380,7 @@ No charging document, summons, conviction, sentence, order, bond, warrant, or ot
     (ii) did not elect a jury trial.
 (2) No conviction or order or other process or proceeding is invalid by reason only that at the time the defendant was convicted the defendant should by reason of his or her age have been dealt with in the Youth Court.
 (3) On the application of either party, a retrial of the charge may be granted under section 177.
-(4) If, at the time appointed for the retrial, the defendant is still a child or young person within the meaning of the Children, Young Persons, and Their Families Act 1989, the court must remit the proceedings to the Youth Court to be dealt with in that court.
+(4) If, at the time appointed for the retrial, the defendant is still a child or young person within the meaning of the Oranga Tamariki Act 1989, the court must remit the proceedings to the Youth Court to be dealt with in that court.
 
 ### 381 Payment of fees, fines, etc
 (1) Section 208 of the Summary Proceedings Act 1957 applies to all fees, fines, reparation, costs, and other money payable on any proceedings commenced by the filing of a charging document.
