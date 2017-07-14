@@ -1,5 +1,5 @@
 # Families Commission Act 2003
-_Consolidation as at 2014-03-25_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Families Commission Act 2003.
@@ -102,10 +102,10 @@ In the exercise and performance of its powers and functions, the Commission must
   (b) of the Pacific Islands peoples of New Zealand:
   (c) of other ethnic and cultural groups in New Zealand:
   (d) of groups that represent families, or 1 or more kinds of family members, and of groups that have a particular interest in families or in any 1 or more matters related to the Commission's functions.
-(2) Examples of groups referred to in subsection (1)(d) are groups that represent the interests of any of the following:
+(2) Examples of groups referred to in subsection (1)﻿(d) are groups that represent the interests of any of the following:
   (a) spouses, civil union partners, and de facto partners:
   (b) parents, fathers, and mothers:
-  (c) children and young persons (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989), and older persons who are under the age of 18 years:
+  (c) children and young persons (as defined in section 2(1) of the Oranga Tamariki Act 1989), and older persons who are under the age of 18 years:
   (d) grandparents and the elderly:
   (e) caregivers:
   (f) men and women:
