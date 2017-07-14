@@ -1,5 +1,5 @@
 # Family Proceedings Act 1980
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 > An Act to revise the law relating to matrimonial and domestic proceedings
 
@@ -78,7 +78,7 @@ In this Act, unless the context otherwise requires,—
   - **Secretary** means the chief executive of the Ministry of Justice
   - **separation order** means a separation order made under Part 3
   - **social worker** means—
-    (a) a social worker employed as such under Part 5 of the State Sector Act 1988 in the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989; or
+    (a) a social worker employed as such under Part 5 of the State Sector Act 1988 in the department for the time being responsible for the administration of the Oranga Tamariki Act 1989; or
     (b) a community officer appointed under section 4 of the Maori Community Development Act 1962; or
     (c) an honorary community officer appointed under section 5 of the Maori Community Development Act 1962.
 
