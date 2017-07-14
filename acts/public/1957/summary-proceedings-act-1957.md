@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-07-14_
 
 > Title
 
@@ -588,8 +588,8 @@ Where a document is served on any person who is a Maori within the meaning of Te
   - **offender levy** means a levy imposed under section 105B of the Sentencing Act 2002
   - **order of reparation** means—
     (a) an order made under section 106, 108, or 110 of the Sentencing Act 2002; or
-    (b) an order made in respect of a child, or any parent or guardian of that child, under section 84(1)﻿(b) of the Children, Young Persons, and Their Families Act 1989; or
-    (c) an order made in respect of a young person, or any parent or guardian of that young person, under section 283(f) or (g) of the Children, Young Persons, and Their Families Act 1989; or
+    (b) an order made in respect of a child, or any parent or guardian of that child, under section 84(1)﻿(b) of the Oranga Tamariki Act 1989; or
+    (c) an order made in respect of a young person, or any parent or guardian of that young person, under section 283(f) or (g) of the Oranga Tamariki Act 1989; or
     (d) an order that—
       (i) requires the payment of any amount as compensation or restitution to the victim of an offence against any enactment; and
       (ii) is declared by the Governor-General, by Order in Council, to be an order of reparation for the purposes of this Part
@@ -1104,7 +1104,7 @@ If a defendant is arrested under a warrant for arrest issued for the purpose of 
   (b) sentence a defendant to a sentence of home detention under subsection (1)﻿(c).
 (3) If a Community Magistrate considers that the issue of a warrant of commitment or a sentence of home detention is appropriate in any case, the Community Magistrate must refer the matter to a District Court Judge (in which case sections 167 to 170 of the Criminal Procedure Act 2011, to the extent that they are applicable and with the necessary modifications, apply).
 (4) Despite subsection (1), a period of imprisonment or a sentence of home detention must not be imposed on the defendant for a fine if—
-  (a) the fine was imposed for a traffic offence (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) not punishable by imprisonment; and
+  (a) the fine was imposed for a traffic offence (as defined in section 2(1) of the Oranga Tamariki Act 1989) not punishable by imprisonment; and
   (b) at the date of the commission of the offence, the defendant was a young person within the meaning of that Act.
 (5) If a District Court Judge or Community Magistrate exercises any power conferred by subsection (1) and considers it appropriate to do so, he or she may also make an order under section 88AG for the return of the defendant.
 (6) The remission of the whole or any part of an amount of reparation does not affect the right of the person who suffered the harm, loss, or damage to bring civil proceedings, or make claims under any accident compensation legislation applicable at the time of the offending, to recover the amount so remitted.
