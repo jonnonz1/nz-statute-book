@@ -1,5 +1,5 @@
 # Criminal Disclosure Act 2008
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Criminal Disclosure Act 2008.
@@ -27,7 +27,7 @@ This Act binds the Crown.
   - **brief of evidence** means—
     (a) a written statement, whether signed or unsigned, made by a witness that is intended to be used by the prosecutor or the defendant for the purpose of a hearing or trial; and
     (b) a document prepared by the prosecutor or the defendant from a statement or statements made by a witness and that is intended to be used by the prosecutor or the defendant as the basis for eliciting the testimony of the witness at a hearing or trial
-  - **child** means a child as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989
+  - **child** means a child as defined in section 2(1) of the Oranga Tamariki Act 1989
   - **counsel** means a barrister and solicitor as those terms are defined in section 2(1) of the Law Practitioners Act 1982
   - **court** has the meaning given to it in section 7
   - **criminal proceedings** —
@@ -55,7 +55,7 @@ This Act binds the Crown.
     (b) includes any Deputy Registrar of that court
   - **relevant** has the meaning given to it in section 8
   - **working day** has the same meaning as in section 5 of the Criminal Procedure Act 2011
-  - **young person** means a young person as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989.
+  - **young person** means a young person as defined in section 2(1) of the Oranga Tamariki Act 1989.
 (2) In this Act, a reference to information means any recorded information—
   (a) in whatever form it is contained, for example, in a report, statement, list, or interview; and
   (b) in whatever medium it is recorded, for example, in hard copy, electronic form, or as a sound or visual recording.
@@ -99,7 +99,7 @@ For the purposes of this Act, criminal proceedings are commenced at the earliest
   (b) a summary of the defendant's right to apply for further information under subsection (2); and
   (c) the maximum penalty, and the minimum penalty (if one is provided for), for the offence; and
   (d) a list of the defendant's previous convictions that are known to the prosecutor; and
-  (e) a list of any previous offences proved to have been committed by the defendant and of a kind to which section 284(1)﻿(g) of the Children, Young Persons, and Their Families Act 1989 applies, that are known to the prosecutor.
+  (e) a list of any previous offences proved to have been committed by the defendant and of a kind to which section 284(1)﻿(g) of the Oranga Tamariki Act 1989 applies, that are known to the prosecutor.
 (2) At any time after criminal proceedings are commenced or, in the case of a child or young person who appears in the Youth Court in relation to the commission or possible commission of an offence, at any time after that person's first appearance in the Youth Court, the prosecutor must, if requested by the defendant in writing, as soon as is reasonably practicable disclose the following information to the defendant:
   (a) the names of any witnesses whom the prosecutor intends to call at the hearing or trial; and
   (b) a list of the exhibits that are proposed to be produced on behalf of the prosecution at the hearing or trial; and
@@ -144,7 +144,7 @@ For the purposes of this Act, criminal proceedings are commenced at the earliest
 (7) To avoid doubt, a reference in subsection (1) to pleading not guilty includes—
   (a)
   (b) requesting a hearing in accordance with section 21(6) of the Summary Proceedings Act 1957 (unless the request is accompanied by an admission of liability); or
-  (c) denying the charge during any appearance before the Youth Court under Part 4 of the Children, Young Persons, and Their Families Act 1989.
+  (c) denying the charge during any appearance before the Youth Court under Part 4 of the Oranga Tamariki Act 1989.
 
 ### 14 Request for additional disclosure
 (1) At any time after the duty to make full disclosure has arisen under section 13, the defendant may request that the prosecutor disclose any particular information, identified by the defendant with as much particularity as possible.
