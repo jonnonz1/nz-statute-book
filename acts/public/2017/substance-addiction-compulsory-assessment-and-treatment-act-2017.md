@@ -1,5 +1,5 @@
 # Substance Addiction (Compulsory Assessment and Treatment) Act 2017
-_Consolidation as at 2017-02-21_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Substance Addiction (Compulsory Assessment and Treatment) Act 2017.
@@ -33,7 +33,7 @@ In this Act, unless the context otherwise requires,—
   - **Area Director** or means a person appointed under section 88, and, in relation to a function, duty, or power, means the person appointed under that section who is responsible for the geographical area in which the function is to be performed, or the duty or power is to be exercised
   - **authorised officer** means a health professional designated under section 91
   - **brain injury** means an acquired, enduring neurocognitive impairment
-  - **chief executive** means the chief executive of the department responsible for the administration of the Children, Young Persons, and Their Families Act 1989
+  - **chief executive** means the chief executive of the department responsible for the administration of the Oranga Tamariki Act 1989
   - **child or young person** means a person under 18 years of age
   - **compulsory status** has the meaning given by section 11
   - **compulsory treatment certificate** means a certificate dated and signed under section 23
@@ -248,8 +248,8 @@ If a person who has been given a notice under section 19(2)﻿(c) refuses to att
 
 ### 24 Restriction on signing compulsory treatment certificate for child or young person
 An approved specialist may sign a compulsory treatment certificate in respect of a child or young person—
-  (a) only after the specialist has confirmed, with the department responsible for the administration of the Children, Young Persons, and Their Families Act 1989, whether that department has any involvement with the child or young person (and the extent of any involvement); and
-  (b) only if satisfied that appropriate treatment for the severe substance addiction of the child or young person cannot be given in accordance with an order or other determination under the Children, Young Persons, and Their Families Act 1989.
+  (a) only after the specialist has confirmed, with the department responsible for the administration of the Oranga Tamariki Act 1989, whether that department has any involvement with the child or young person (and the extent of any involvement); and
+  (b) only if satisfied that appropriate treatment for the severe substance addiction of the child or young person cannot be given in accordance with an order or other determination under the Oranga Tamariki Act 1989.
 
 ### 25 Approved specialist to notify Area Director and arrange patient’s detention
 (1) As soon as practicable after an approved specialist dates and signs a compulsory treatment certificate, the approved specialist must—
@@ -325,7 +325,7 @@ As soon as practicable after a responsible clinician is assigned to a patient, a
 (4) If the Judge is not satisfied that the criteria for compulsory treatment are met, the Judge must dismiss the application and order that the patient be immediately released from compulsory status.
 
 ### 33 Restriction on making compulsory treatment order in respect of child or young person
-The court may make a compulsory treatment order for a child or young person only if satisfied that appropriate treatment for the severe substance addiction of the child or young person cannot be given pursuant to an order or other determination under the Children, Young Persons, and Their Families Act 1989.
+The court may make a compulsory treatment order for a child or young person only if satisfied that appropriate treatment for the severe substance addiction of the child or young person cannot be given pursuant to an order or other determination under the Oranga Tamariki Act 1989.
 
 ### 34 Right to apply to court for urgent review of patient's status
 (1) A patient or any person specified in subsection (2) may at any time apply to the court for an urgent review of the patient’s status on any of the following grounds:
@@ -577,7 +577,7 @@ Every child or young person who is examined by a medical practitioner under sect
 (3) The information required by subsection (1) to be given to any person must be given—
   (a) orally and, where practicable, in writing; and
   (b) where practicable, in a manner and in language that the person understands.
-(4) If, at the time the child or young person became subject to compulsory status, the child or young person was in the custody or under the guardianship or in the care of the chief executive or any other person under the Children, Young Persons, and Their Families Act 1989, the information described in subsection (1) must also be given, in writing, to the chief executive or to that other person.
+(4) If, at the time the child or young person became subject to compulsory status, the child or young person was in the custody or under the guardianship or in the care of the chief executive or any other person under the Oranga Tamariki Act 1989, the information described in subsection (1) must also be given, in writing, to the chief executive or to that other person.
 
 **Complaints**
 
@@ -695,7 +695,7 @@ In this subpart, party, —
 ### 78 Court may call for report on patient
 (1) The court may, if it is satisfied that it is necessary for the proper determination of an application, request any person it considers qualified to do so to prepare a report on any relevant aspect of the patient's condition.
 (2) However, a report under subsection (1) may address the question of whether, in relation to the patient, the criteria for compulsory treatment is met or continues to be met only if the report is prepared by an approved specialist.
-(3) Without limiting the generality of subsection (1), in the case of a child or young person, the court may direct the chief executive to locate the information, if any, that the department responsible for the administration of the Children, Young Persons, and Their Families Act 1989 holds about the background, circumstances, and needs of the child or young person and to provide that information to the court.
+(3) Without limiting the generality of subsection (1), in the case of a child or young person, the court may direct the chief executive to locate the information, if any, that the department responsible for the administration of the Oranga Tamariki Act 1989 holds about the background, circumstances, and needs of the child or young person and to provide that information to the court.
 (4) In deciding whether to request a report under subsection (1), the court may ascertain and have regard to the wishes of the patient and any other party.
 (5) The Registrar must give a copy of a report obtained under this section to the lawyers for the parties or, if a party is not represented by a lawyer, to that party.
 (6) The court must order that a copy of a report given to a lawyer under subsection (5) must not be given or shown to the person for whom the lawyer is acting if the court has reason to believe that disclosure of the contents of the report may pose a serious threat to the health or safety of any other person.
@@ -732,10 +732,10 @@ Despite any other provision of this subpart, the court may determine an applicat
   (b) it is practicable to provide the services of an interpreter.
 (2) The court must ensure, as far as is reasonably practicable, that the interpreter provided is competent.
 
-### 85 Appeals from decisions of Family Courts
+### 85 Appeals from decisions of Family Court
 (1) If, in an application to which this subpart applies, the Family Court has made or has refused to make an order, or has otherwise determined or has dismissed the application, a party may appeal to the High Court.
-(2) The High Court Rules and sections 74 to 76 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
-(3) Despite subsection (2), on the appellant's application without notice, the Family Court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(2) The High Court Rules and sections 126 to 128 of the District Court Act 2016, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 124 of that Act.
+(3) Despite subsection (2), on the appellant's application without notice, the Family Court may order that the appellant must not be required under section 126(1) and (2) of the District Court Act 2016 to give the Registrar of the High Court security for costs.
 
 ### Subpart 7 — Administration and public assistance
 
@@ -1032,7 +1032,7 @@ Sections 30, 31, and 34 of the Crimes Act 1961 apply, with any necessary modific
 (3) Guidelines or standards issued under subsection (1) are not disallowable instruments for the purposes of the Legislation Act 2012 and do not have to be presented to the House of Representatives under section 41 of that Act.
 
 ### 117 Rules
-Rules may be made under section 16A of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under this Act.
+Rules may be made under section 16A of the Family Court Act 1980 regulating the practice and procedure of the Family Court in proceedings under this Act.
 
 ### 118 Regulations
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
