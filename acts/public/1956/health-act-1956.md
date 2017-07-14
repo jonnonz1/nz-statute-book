@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-07-14_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -241,7 +241,7 @@ In this section and sections 22C to 22H, unless the context otherwise requires,�
 (2) The persons and purposes referred to in subsection (1)﻿(a) are as follows:
   (a) any medical officer of a prison within the meaning of the Corrections Act 2004, for the purposes of exercising or performing any of that person's powers, duties, or functions under that Act:
   (b) any probation officer within the meaning of the Corrections Act 2004, for the purposes of exercising or performing any of that person's powers, duties, or functions under any enactment:
-  (c) a Social Worker or a Care and Protection Co-ordinator within the meaning of the Children, Young Persons, and Their Families Act 1989, for the purposes of exercising or performing any of that person's powers, duties, or functions under that Act:
+  (c) a Social Worker or a Care and Protection Co-ordinator within the meaning of the Oranga Tamariki Act 1989, for the purposes of exercising or performing any of that person's powers, duties, or functions under that Act:
   (d) any employee of the department for the time being responsible for the administration of the Social Security Act 1964, for the purposes of administering section 75 of the Social Security Act 1964:
   (e) any member of the New Zealand Defence Force, for the purposes of administering the Armed Forces Discipline Act 1971 or the Defence Act 1990:
   (f) any constable, for the purposes of exercising or performing any of that person's powers, duties, or functions:
@@ -772,7 +772,7 @@ In this Part, unless the context otherwise requires,—
   - **medical officer of health** includes any medical officer of health whose health district includes any place to which any intended action or other thing relates (whether or not the action or thing also has effect in another health district)
   - **medium drinking-water supply** means a drinking-water supply that is used to supply drinking water to between 5 001 and 10 000 people (inclusive) for at least 60 days per year
   - **minor drinking-water supply** means a drinking-water supply that is used to supply drinking water to between 501 and 5 000 people (inclusive) for at least 60 days per year
-  - **neighborhood drinking-water supply** means a drinking-water supply that is used to supply drinking water to—
+  - **neighbourhood drinking-water supply** means a drinking-water supply that is used to supply drinking water to—
     (a) between 25 and 100 people (inclusive) for at least 60 days per year; or
     (b) any number of persons for at least 60 days per year if—
       (i) the number of those persons when multiplied by the number of days per year during which those persons receive water from that supply is 6 000 or greater; but
