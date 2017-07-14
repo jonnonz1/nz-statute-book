@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -317,15 +317,15 @@ The explanatory note of an Order in Council made under section 27(1) must indica
   (b) criminal prosecution proceedings that are commenced against the person in respect of the offence for which the particulars were taken are completed with an outcome (for example, an acquittal) that is not an outcome (specified in section 34A) that authorises continued storage.
 (3) In this section and section 34A,—
   - **criminal prosecution proceedings** against a person in respect of the offence for which particulars were taken, means proceedings—
-    (a) commenced against the person in respect of that offence or offences including that offence under the Criminal Procedure Act 2011 (alone or, if the person is a child or a young person as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989, in conjunction with that Act); and
+    (a) commenced against the person in respect of that offence or offences including that offence under the Criminal Procedure Act 2011 (alone or, if the person is a child or a young person as defined in section 2(1) of the Oranga Tamariki Act 1989, in conjunction with that Act); and
     (b) some or all of which (for example, any pre-trial proceedings) are heard or determined, at first instance, in the District Court, the High Court, or the Youth Court, or a combination of those courts
   - **the offence for which the particulars were taken** includes (without limitation) an offence that arose from the same event or series of events as, and that replaces, that offence.
 
 ### 34A Outcomes authorising continued storage of certain particulars
 The outcomes mentioned in section 34(2)﻿(b) are as follows:
   (a) the person admits to, and completes a programme of diversion (being a programme conducted by the Police) for, the offence for which the particulars were taken:
-  (b) the person is convicted of the offence for which the particulars were taken (for example, by virtue of the District Court or the High Court entering a conviction, or the Youth Court entering a conviction and making an order under section 283(o) of the Children, Young Persons, and Their Families Act 1989):
-  (c) the Youth Court makes an order under any of paragraphs (a) to (n) of section 283 of the Children, Young Persons, and Their Families Act 1989 in respect of the person and the offence for which the particulars were taken:
+  (b) the person is convicted of the offence for which the particulars were taken (for example, by virtue of the District Court or the High Court entering a conviction, or the Youth Court entering a conviction and making an order under section 283(o) of the Oranga Tamariki Act 1989):
+  (c) the Youth Court makes an order under any of paragraphs (a) to (n) of section 283 of the Oranga Tamariki Act 1989 in respect of the person and the offence for which the particulars were taken:
   (d) the person is discharged under section 106 of the Sentencing Act 2002 in respect of the offence for which the particulars were taken.
 
 **Other Police powers**
