@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Amendment Act (No 2) 2016
-_Consolidation as at 2016-11-07_
+_Consolidation as at 2017-07-14_
 
 ### 1 Title
 This Act is the Children, Young Persons, and Their Families Amendment Act (No 2) 2016.
@@ -9,7 +9,7 @@ This Act is the Children, Young Persons, and Their Families Amendment Act (No 2)
 (2) Any provision that has not earlier been brought into force comes into force on the day that is 2 years after the date on which this Act receives the Royal assent.
 
 ### 3 Principal Act
-This Act amends the Children, Young Persons, and Their Families Act 1989 (the principal Act).
+This Act amends the Oranga Tamariki Act 1989 (the principal Act).
 
 ### 4 Section 2 amended (Interpretation)
 (1) In section 2(1), insert in their appropriate alphabetical order:
