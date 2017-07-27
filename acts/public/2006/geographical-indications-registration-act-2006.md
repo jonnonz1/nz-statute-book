@@ -1,5 +1,5 @@
 # Geographical Indications (Wine and Spirits) Registration Act 2006
-_Consolidation as at 2016-11-26_
+_Consolidation as at 2017-07-27_
 
 ### 1 Title
 This Act is the Geographical Indications (Wine and Spirits) Registration Act 2006.
