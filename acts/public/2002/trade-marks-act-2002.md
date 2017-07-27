@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-07-27_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -85,7 +85,6 @@ In this Act,—
       (ii) a book, map, plan, graph, or drawing:
       (iii) a photograph, film, or negative; and
     (b) information electronically recorded or stored, and information derived from that information
-  - **geographical indication** has the same meaning as in section 2(1) of the Geographical Indications Act 1994
   - **infringing goods** , in relation to a registered trade mark, are goods that bear, or goods the packaging of which bears, a sign that is identical with or similar to the registered trade mark and—
     (a) the application of the sign to the goods or their packaging is an infringement of the registered trade mark; or
     (b) the sign has been used in relation to the goods or their packaging in a way that infringes the registered trade mark
@@ -111,13 +110,13 @@ In this Act,—
     (c) in relation to a certification trade mark that is registered, means the person who certifies the goods or services to which the certification trade mark relates; and
     (d) in relation to an unregistered trade mark, means the person who owns all of the rights in the mark
   - **Paris Convention** means the Convention for the Protection of Industrial Property signed at Paris on 20 March 1883, as revised or amended from time to time
-  - **protected geographical indication** means a geographical indication that is entered on the Register of Protected Geographical Indications established under section 8 of the Geographical Indications Act 1994
   - **protected international trade mark (New Zealand)** means a trade mark that is entitled to protection in New Zealand under the Madrid Protocol
   - **qualified person** , in relation to a deceased owner, means a person who satisfies the Commissioner—
     (a) that he or she has obtained or is entitled to obtain probate of the will of the deceased owner or letters of administration in his or her estate in the place where the deceased owner was domiciled at his or her death, or that he or she is the legal representative of the deceased owner in that place:
     (b) that probate of the will of the deceased owner or letters of administration in his or her estate have not been granted or resealed in New Zealand:
     (c) that the interests of the creditors of the deceased owner, and of all persons beneficially interested under his or her will or on his or her intestacy, will be adequately safeguarded if the Commissioner registers the qualified person as the owner of the trade mark
   - **register** means the register of trade marks kept under section 181
+  - **registered geographical indication** has the same meaning as in section 7(1) of the Geographical Indications (Wine and Spirits) Registration Act 2006
   - **registered trade mark** means a trade mark that is on the register
   - **regulations** means, except in sections 54 to 56, 63, 79, and 80, regulations in force under this Act
   - **series of trade marks** means a number of trade marks for the same goods or description of goods or the same services or description of services (as the case may be) that—
@@ -131,7 +130,6 @@ In this Act,—
     (a) a brand, colour, device, heading, label, letter, name, numeral, shape, signature, smell, sound, taste, ticket, or word; and
     (b) any combination of signs
   - **specification** means the goods or services specified on the application for the registration of the trade mark in relation to which the registered trade mark is to be used or is proposed to be used
-  - **specified goods** has the same meaning as in section 2(1) of the Geographical Indications Act 1994
   - **trade mark** —
     (a) means any sign capable of—
       (i) being represented graphically; and
@@ -202,6 +200,7 @@ This Act binds the Crown.
 ### 11 Additional matters that relate to rights attaching to registered trade marks
 Subject to section 100, the rights referred to in section 10—
   (a) are subject to any conditions entered on the register in relation to the registered trade mark; and
+  (ab) are subject to any lawful use of a registered geographical indication; and
   (b) accrue from the deemed date of registration of the trade mark; and
   (c) are conferred in respect of each of the registered trade mark's component parts that are registered as separate trade marks; and
   (d) are to be exercised by joint owners, if any, of the registered trade mark as if they were the rights of a single person.
@@ -263,10 +262,18 @@ A collective trade mark may be registered in the name of a collective associatio
 (1) In determining the distinctive character of a trade mark, the Commissioner or the court, as the case may be, must consider whether or not the trade mark is, or is to be, limited in whole or in part to 1 or more specified colours.
 (2) A trade mark that is, or is to be, registered without limitation of colour is, or will be, registered for all colours.
 
-### 20 Trade mark that contains protected geographical indication must not be registered
-The Commissioner must not register a trade mark that—
-  (a) contains a protected geographical indication in respect of specified goods; and
-  (b) relates to specified goods that do not originate from the place indicated in the protected geographical indication.
+### 20 Trade mark that contains geographical indication must not be registered in certain circumstances
+(1) The Commissioner must not register a trade mark if—
+  (a) a registered geographical indication for a wine or spirit exists under the Geographical Indications (Wine and Spirits) Registration Act 2006 and—
+    (i) the trade mark contains the registered geographical indication for a wine or spirit; and
+    (ii) the trade mark relates to a wine or spirit that does not originate in the place of geographical origin to which the registered geographical indication relates; and
+    (iii) the use of the trade mark is likely to deceive or confuse; or
+  (b) an application for registration of a geographical indication for a wine or spirit has been made in good faith under the Geographical Indications (Wine and Spirits) Registration Act 2006 and—
+    (i) the trade mark contains the geographical indication that is the subject of the application for registration; and
+    (ii) the trade mark relates to a wine or spirit that does not originate in the place of geographical origin to which the geographical indication relates; and
+    (iii) the use of the trade mark is likely to deceive or confuse; and
+    (iv) if registered, the deemed date of registration of the geographical indication is earlier than the deemed date of registration of the trade mark (if registered).
+(2) This section does not apply if the Commissioner or the court, as the case may be, considers that a case of honest concurrent use exists that, in the opinion of the Commissioner or the court, makes it proper for the trade mark to be registered, subject to any conditions that the Commissioner or the court may impose.
 
 ### 21 Trade mark that contains commonly used chemical names must not be registered
 (1) The Commissioner must not register, in respect of a chemical substance or preparation, a trade mark that contains the commonly used and accepted name of any single chemical element or single chemical compound.
@@ -521,6 +528,12 @@ The registration of a trade mark may be renewed in accordance with section 59 fo
   (a) there has been no genuine use of the trade mark that has been removed during the 2 years immediately before its removal; or
   (b) no deception or confusion would be likely to arise from the use of the trade mark that is the subject of the application by reason of any previous use of the trade mark that has been removed.
 
+### 60A Status of geographical indication removed from register for non-payment of renewal fee
+(1) A geographical indication that has been removed from the register for non-payment of the renewal fee must be taken into account for a period of 1 year after the date of expiry of the registered geographical indication when determining the registrability of a later trade mark application.
+(2) Subsection (1) does not apply if the Commissioner is satisfied that, in the case of a foreign geographical indication,—
+  (a) the geographical indication is not, or has ceased to be, protected in its country of origin; or
+  (b) the geographical indication has fallen into disuse in its country of origin.
+
 **Voluntary cancellation of registration of trade mark**
 
 ### 61 Voluntary cancellation of registration of trade mark
@@ -698,7 +711,7 @@ Nothing in this Act prevents a licensee from assigning or transmitting the right
 Nothing in this Act affects—
   (a) the law relating to passing off; or
   (b) rights under the Fair Trading Act 1986; or
-  (c) rights under the Geographical Indications Act 1994.
+  (c) rights under the Geographical Indications (Wine and Spirits) Registration Act 2006.
 
 **Acts amounting to infringement**
 
@@ -783,6 +796,9 @@ A trade mark registered in respect of goods is not infringed by its use in relat
 ### 98 When owner or licensee consents to use of registered trade mark
 (1) For the purposes of section 97(a), the owner or licensee is deemed to have consented to the use of a trade mark if a person with whom the owner or licensee has an arrangement that relates to the use of the trade mark by the owner or licensee has consented to its use (whether or not that consent is subject to any conditions).
 (2) Subsection (1) applies only to the use of a trade mark in relation to a medicine that is imported by the Crown under section 32A of the Medicines Act 1981.
+
+### 98A No infringement through use of registered geographical indication
+A registered trade mark is not infringed by the lawful use of a registered geographical indication registered under the Geographical Indications (Wine and Spirits) Registration Act 2006.
 
 **When infringement proceedings may be brought**
 
