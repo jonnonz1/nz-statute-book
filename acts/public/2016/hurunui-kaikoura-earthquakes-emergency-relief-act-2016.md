@@ -1,5 +1,5 @@
 # Hurunui/Kaikōura Earthquakes Emergency Relief Act 2016
-_Consolidation as at 2016-12-05_
+_Consolidation as at 2017-07-31_
 
 ### 1 Title
 This Act is the Hurunui/Kaikōura Earthquakes Emergency Relief Act 2016.
@@ -60,45 +60,22 @@ This subpart applies subject to the limitation set out in section 18 (which rela
 ### Subpart 2 — Emergency activities undertaken by certain rural landowners and occupiers
 
 ### 9 Application of this subpart
-(1) This subpart applies to activities undertaken on rural land to which 1 or more of the district or regional plans of any of the following local authorities apply:
-  (a) the Hurunui District Council, the Kaikoura District Council, the Marlborough District Council, and the Canterbury Regional Council:
-  (b) a local authority specified for the purposes of this section in an Order in Council made under section 23.
-(2) In this subpart, rural land means land that—
-  (a) is within the district of—
-    (i) the Hurunui District Council, the Kaikoura District Council, or the Marlborough District Council; or
-    (ii) a local authority referred to in subsection (1)﻿(b); and
-  (b) either—
-    (i) has rural zoning status (however described) in the relevant district plan; or
-    (ii) is used for the primary purpose of livestock or horticultural farming.
+[Repealed]
 
 ### 10 Owner or occupier of rural land may take emergency preventive or remedial actions
-(1) Subsection (2) applies if,—
-  (a) because of or in connection with the Hurunui/Kaikōura earthquakes, a sudden event or an adverse effect on the environment has caused, is causing, or is likely to cause loss of life or injury to humans, loss of life or serious detriment to the health or well-being of animals, or serious damage to land or property; and
-  (b) the owner or occupier of rural land—
-    (i) considers, on reasonable grounds, that immediate preventive or remedial measures are required on the owner’s or occupier’s rural land to avoid, remedy, or mitigate the loss, injury, detriment, or damage; and
-    (ii) undertakes an activity to give effect to the measures; and
-  (c) in the circumstances, the activity is proportionate to the loss, injury, detriment, or damage or the risk of the loss, injury, detriment, or damage; and
-  (d) the activity will not cause significant adverse effects beyond the boundaries of the owner’s or occupier’s rural land.
-(2) The activity is deemed to be a permitted activity for the purposes of the relevant district or regional plan (or both).
-(3) Subsection (2) applies whether or not the sudden event or adverse effect was foreseeable.
+[Repealed]
 
 ### 11 Requirement for owner or occupier to give notice
-(1) An owner or occupier of rural land who has acted under section 10 must give written notice to the relevant consent authority that the activity has been undertaken.
-(2) Notice must be given within 60 working days from the start of the undertaking of the activity.
-(3) If the owner or occupier fails to comply with subsection (2), the permitted activity status of the activity is revoked as from the date on which the notice period ends.
+[Repealed]
 
 ### 12 Duty to gather information, monitor, and keep records
-Nothing in this subpart limits or affects a local authority’s duties under section 35 of the RMA.
+[Repealed]
 
 ### 13 Enforcement proceedings
-For the purposes of activities undertaken under this subpart, only the relevant local authority may take enforcement proceedings (including declaratory proceedings) under Part 12 of the RMA, including in any case where it is alleged that the owner or occupier of rural land has breached section 16 or 17 of the RMA.
+[Repealed]
 
 ### 14 Repeal of subpart and its effect
-(1) This subpart is repealed on 31 July 2017.
-(2) The repeal does not affect the permitted activity status conferred on an activity under section 10(2).
-(3) However,—
-  (a) subsection (2) does not limit or affect the operation of the RMA (including the ability to change the status of the permitted activity in a district or regional plan) after the repeal of this subpart; and
-  (b) section 13 continues to apply, despite its repeal, for the purposes of taking any enforcement proceedings in relation to the permitted activity.
+[Repealed]
 
 ### Subpart 3 — Rehabilitation of Kaikōura harbour
 
