@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-08-08_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -1352,6 +1352,11 @@ Any Civil Defence Emergency Management Group established under section 12(1)﻿(
 
 ### 7 Repeals
 [Repealed]
+
+### Part 2 — Provision relating to Civil Defence Emergency Management Amendment Act 2017
+
+### 8 Continuation of national civil defence emergency management strategy to 2019
+Despite section 34(1)﻿(b), the national civil defence emergency management strategy that took effect on 10 January 2008, unless it is earlier amended or replaced, remains current (in effect) until the close of 9 April 2019.
 
 ## Schedule 1 — Lifeline utilities
 
