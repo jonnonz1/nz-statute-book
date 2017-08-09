@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2017-08-09_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -149,7 +149,7 @@ This Act has the following additional purposes:
     (e) in relation to any other person, that person
   - **disclosure document** means any of the following:
     (a) a PDS:
-    (b) a disclosure document under clause 26 of Schedule 1:
+    (b) a limited disclosure document under clause 26 of Schedule 1:
     (c) information made available under subpart 4 of Part 3:
     (d) a disclosure statement or other information made available under subpart 4 of Part 6
   - **discretionary investment management service** has the meaning set out in section 392
@@ -251,6 +251,7 @@ This Act has the following additional purposes:
   - **licensed market services** means those market services—
     (a) that are required to be licensed under Part 6; or
     (b) for which a person holds a licence under Part 6 (whether or not required to do so)
+  - **limited disclosure document** or , in relation to an offer referred to in clause 26(1) of Schedule 1, means a limited disclosure document for the offer required by regulations made for the purposes of that clause
   - **listed issuer** means—
     (a) a person that is a party to a listing agreement with a licensed market operator in relation to a licensed market (and includes a licensed market operator that has financial products quoted on its own licensed market):
     (b) a person to which paragraph (a) previously applied, in respect of any action or event or circumstance to which this Act applied at that time
@@ -324,7 +325,9 @@ This Act has the following additional purposes:
     (a) financial products of a listed issuer, means financial products of the issuer that are approved for trading on a licensed market (and, to avoid doubt, financial products do not cease to be quoted merely because trading in those products is suspended):
     (b) derivatives, means derivatives that are approved for trading on a licensed market (and, to avoid doubt, derivatives do not cease to be quoted merely because trading in those products is suspended)
   - **redeemable** has the meaning set out in subsection (5)
-  - **register entry** , in relation to a regulated offer, means the entry for the offer in the register of offers of financial products
+  - **register entry** ,—
+    (a) in relation to a regulated offer, means the entry for the offer in the register of offers of financial products:
+    (b) in relation to an offer referred to in clause 26(1) of Schedule 1, means the entry for the offer in the register of offers of financial products that is required by regulations made for the purposes of that clause
   - **register of managed investment schemes** means the register of managed investment schemes kept under Schedule 2
   - **register of offers of financial products** means the register of offers of financial products kept under Schedule 2
   - **registered bank** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989
@@ -559,7 +562,7 @@ This Act has the following additional purposes:
   (e) there is another body corporate to which A and B are both related.
 
 ### 13 Miscellaneous interpretation provisions relating to statements and information
-(1) In this Act, a reference to a statement or other information that is false, misleading, deceptive, or confusing includes a reference to a statement or information that is false, misleading, deceptive, or confusing (as the case may be) by reason of—
+(1) In this Act and the regulations, a reference to a statement or other information that is false, misleading, deceptive, or confusing includes a reference to a statement or information that is false, misleading, deceptive, or confusing (as the case may be) by reason of—
   (a) the form or context in which the statement or information is made, published, or provided; or
   (b) the omission of any other information that is material in the form and context in which it is made, published, or provided.
 (2) For the purpose of considering whether a PDS, a register entry, or any other document or communication provided under this Act is false, misleading, deceptive, or confusing, a statement or other information must be treated as being included in the PDS, register entry, or other document or communication if it—
@@ -1225,16 +1228,20 @@ In any proceeding against a person (A) for a contravention of section 89 in rela
 **Duty to update register of offers of financial products and register of managed investment schemes**
 
 ### 95 Duty to notify changes to Registrar
-(1) An issuer of regulated products must notify the Registrar of a prescribed change within 5 working days after becoming aware of the change.
-(2) In this section, prescribed change, in respect of regulated products,—
-  (a) means a prescribed change that relates to the issuer, any offeror of those products, the regulated products, or any registered scheme to which those products relate; but
-  (b) does not include a change in respect of which the FMA is required to notify the Registrar (for example, an order made under subpart 1 of Part 8).
+(1) An issuer of regulated products must notify the Registrar of a prescribed change within the prescribed period.
+(2) In this section,—
+  - **prescribed change** , in respect of regulated products,—
+    (a) means a prescribed change that relates to the issuer, any offeror of those products, the regulated products, or any registered scheme to which those products relate; but
+    (b) does not include a change in respect of which the FMA is required to notify the Registrar (for example, an order made under subpart 1 of Part 8)
+  - **prescribed period** , in respect of a prescribed change, means—
+    (a) the period (if any) that is prescribed in respect of the change; or
+    (b) 5 working days after the issuer becomes aware of the change (if paragraph (a) does not apply).
 (3) An issuer that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
 (4) The offence in this section is an infringement offence (see subpart 5 of Part 8).
 
 **Disclosure to particular persons**
 
-### 96 Information to be made available to investors or other prescribed persons
+### 96 Information to be made available to investors, FMA, Registrar, or other prescribed persons
 (1) Every issuer of regulated products must, at the request of a prescribed person or at the prescribed times or on the occurrence of the prescribed events, make available to a prescribed person the information that is required to be made available under this section by the regulations.
 (2) The information must be made available in the prescribed manner.
 (3) An issuer that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
@@ -1244,7 +1251,11 @@ In any proceeding against a person (A) for a contravention of section 89 in rela
 **Public disclosure**
 
 ### 97 Information to be made publicly available
-Every issuer of regulated products must, at the prescribed times or on the occurrence of the prescribed events and otherwise in the prescribed manner, make publicly available the information that is required to be made publicly available by the regulations.
+(1) Every issuer of regulated products must, at the prescribed times or on the occurrence of the prescribed events and otherwise in the prescribed manner, make publicly available the information that is required to be made publicly available by the regulations.
+(2) An issuer commits an offence and is liable on conviction to a fine not exceeding $50,000 if—
+  (a) the regulations made for the purposes of this section require the issuer to make information publicly available by lodging that information with the Registrar; and
+  (b) the issuer contravenes this section by failing to lodge that information with the Registrar in accordance with subsection (1).
+(3) The offence in this section is an infringement offence (see subpart 5 of Part 8).
 
 ### 98 Issuer must provide information to Registrar
 (1) An issuer of regulated products must lodge with the Registrar a copy of any information made, or to be made, publicly available under section 97 before the date that is 5 working days after that information is made available under that section.
@@ -1294,7 +1305,7 @@ Every issuer of regulated products must, at the prescribed times or on the occur
   (i) section 89 (advertising for regulated offers):
   (j) sections 97 and 99 (ongoing disclosure):
   (k) clauses 13 and 17 of Schedule 1 (restrictions on advertising for small offers and small schemes):
-  (l) clause 26 of Schedule 1 (offeror must comply with disclosure and other requirements):
+  (l) any provision of regulations made for the purposes of clause 26 of Schedule 1 that is prescribed by the regulations to be a Part 3 offer provision and stated to give rise to civil liability under this subsection:
   (m) clause 27 of Schedule 1 (false or misleading statements and omissions).
 (4) A contravention of any of the following may give rise to civil liability (see subpart 3 of Part 8), including a pecuniary penalty not exceeding $200,000 in the case of an individual or $600,000 in any other case:
   (a) section 55 (offeror obligations if notice of withdrawal is given):
@@ -1304,7 +1315,8 @@ Every issuer of regulated products must, at the prescribed times or on the occur
   (e) section 85 (dealing with applications on expiry):
   (f) section 87(3) (money for financial products must be dealt with in prescribed manner and repaid as soon as practicable if required):
   (g) section 88 (offering financial products in entity that does not exist):
-  (h) clause 28 of Schedule 1 (certain persons must inform offeror about deficiencies in disclosure document under clause 26).
+  (ga) any provision of regulations made for the purposes of clause 26 of Schedule 1 that is prescribed by the regulations to be a Part 3 offer provision and stated to give rise to civil liability under this subsection:
+  (h) clause 28 of Schedule 1 (certain persons must inform offeror about disclosure deficiencies).
 
 ## Part 4 — Governance of financial products
 
@@ -1598,7 +1610,7 @@ The issuer of a debt security must ensure that the supervisor—
 (1) Every restricted scheme registered under clause 22 of Schedule 4 must meet the following registration requirements in addition to those in section 127:
   (a) it must be—
     (i) a KiwiSaver scheme; or
-    (ii) a superannuation scheme or workplace scheme or both (in respect of all sections of the scheme); and
+    (ii) a superannuation scheme or workplace savings scheme or both (in respect of all sections of the scheme); and
   (b) it must—
     (i) admit as members (both in its conditions of entry of scheme participants and in the way in which those conditions are applied on entry) only 1 or more of the classes of persons referred to in subsection (2); or
     (ii) be closed to new members; and
@@ -1635,7 +1647,7 @@ The manager of a registered scheme must ensure that, until all of the managed in
 ### 134 Changes to registration as particular type of registered scheme
 (1) The FMA may direct the removal of the registration of a registered scheme as a particular type of scheme—
   (a) if the FMA is satisfied that the scheme does not meet the registration requirements for that type of scheme that apply to it under sections 128 to 132; or
-  (b) on the written request of the manager of the scheme, if the supervisor certifies, or the trustees of a restricted scheme certify, that—
+  (b) on the written request of the manager of the scheme, if the supervisor certifies or, if there is no supervisor, the manager certifies that—
     (i) the removal has been approved by a special resolution of the scheme participants (subject to any restrictions in the governing document); or
     (ii) there is no material adverse effect on scheme participants from the removal.
 (2) The FMA must not direct removal under subsection (1)﻿(a) unless—
@@ -1766,7 +1778,7 @@ A director or senior manager of a manager of a registered scheme—
   (b) the contracting out does not affect the liability of the manager for the performance of those functions.
 
 ### 147 Duty of manager to provide reports to supervisor or FMA
-The manager of a registered scheme must, at the prescribed times or on the occurrence of the prescribed events and otherwise in the prescribed manner, prepare and provide to the supervisor (or, in the case of a restricted scheme, the FMA) reports that contain the information that is required to be provided by the regulations.
+The manager of a registered scheme must, at the prescribed times or on the occurrence of the prescribed events and otherwise in the prescribed manner, prepare and provide to the supervisor (or, if there is no supervisor, the FMA) reports that contain the information that is required to be provided by the regulations.
 
 ### 148 Duty of manager to provide requested information and reports to supervisor
 (1) If requested by the supervisor of a registered scheme (or a person authorised by the supervisor to exercise its powers under this section), the manager must—
@@ -1779,8 +1791,8 @@ The manager of a registered scheme must, at the prescribed times or on the occur
 
 ### 149 Duty of manager to report contravention or possible contravention of issuer obligations
 If a manager of a registered scheme has reasonable grounds to believe that it has contravened, may have contravened, or is likely to contravene any of its issuer obligations in a material respect, the manager must, as soon as practicable,—
-  (a) report the contravention or possible contravention to the supervisor (or, in the case of a restricted scheme, the FMA); and
-  (b) advise the supervisor (or, in the case of a restricted scheme, the FMA) of the steps (if any) that the manager has taken or intends to take in light of the contravention or possible contravention and the date by which the steps were taken or are to be taken.
+  (a) report the contravention or possible contravention to the supervisor (or, if there is no supervisor, the FMA); and
+  (b) advise the supervisor (or, if there is no supervisor, the FMA) of the steps (if any) that the manager has taken or intends to take in light of the contravention or possible contravention and the date by which the steps were taken or are to be taken.
 
 ### 150 Restriction on use of reports on contraventions
 A report provided by a manager under section 149 is not admissible as evidence in a criminal proceeding against the manager, except in a criminal proceeding that concerns the falsity of the report.
@@ -1927,7 +1939,7 @@ The manager of a registered scheme must ensure that the supervisor—
 
 ### 165 Changes to statement of investment policy and objectives
 (1) The manager of a registered scheme may amend or replace a statement of investment policy and objectives only after giving prior written notice to the supervisor.
-(2) This section does not apply to a restricted scheme.
+(2) This section does not apply if the scheme does not have a supervisor.
 
 ### 166 Lodging of statement of investment policy and objectives and changes to statement
 (1) The manager of a registered scheme must, except in the prescribed circumstances,—
@@ -1947,7 +1959,7 @@ The manager of a registered scheme must ensure that the supervisor—
 (1) This section applies to a registered scheme if—
   (a) the managed investment products under the scheme are transferable or redeemable; and
   (b) the manager (or any person to whom the manager has contracted some or all of its functions as a manager)—
-    (i) makes or includes an error in the calculation of the price at which the managed investment products are transferred or redeemed; or
+    (i) makes or includes an error in the calculation of the price at which the managed investment products are issued or redeemed; or
     (ii) fails to comply with the methodology for pricing the managed investment products as set out in the governing document or notices issued by the FMA under subpart 4 of Part 9; and
   (c) the pricing error or non-compliance is material.
 (2) If this section applies, the manager must ensure that—
@@ -2002,7 +2014,7 @@ The manager of a registered scheme to which section HM 48 of the Income Tax Act 
 (3) The supervisor must not consent to a transaction or transactions under this section unless 1 of the following applies and the supervisor certifies to that effect:
   (a) the supervisor considers that the transaction or transactions are in the best interests of the scheme participants; or
   (b) the transaction or transactions are approved by, or contingent on approval by, a special resolution of the class of scheme participants affected, or potentially affected, by the transaction or transactions.
-(4) However, in the case of a restricted scheme, subsection (1) does not apply to a transaction or series of transactions if 1 of the following applies and the manager certifies to that effect:
+(4) However, if the registered scheme does not have a supervisor, subsection (1) does not apply to a transaction or series of transactions if 1 of the following applies and the manager certifies to that effect:
   (a) the transaction or transactions are in the best interests of the scheme participants; or
   (b) section 174 applies to the transaction or transactions or all related party benefits to be given; or
   (c) the transaction or transactions are approved by, or contingent on approval by, a special resolution of the class of scheme participants affected, or potentially affected, by the transaction or transactions.
@@ -2052,7 +2064,7 @@ The fact that a transaction is consented to, approved by scheme participants, or
 (1) Sections 179 to 182 apply to both of the following types of transfer (a transfer):
   (a) the transfer of a scheme participant from one KiwiSaver scheme or superannuation scheme or workplace savings scheme to another KiwiSaver scheme or superannuation scheme or workplace savings scheme:
   (b) the transfer of a scheme participant from one section of a KiwiSaver scheme to another section of the same scheme:
-  (c) the transfer of a scheme participant from one section of a superannuation scheme or workplace savings scheme to another section of the same scheme (but only the scheme is registered as a superannuation scheme or workplace savings scheme in respect of both sections).
+  (c) the transfer of a scheme participant from one section of a superannuation scheme or workplace savings scheme to another section of the same scheme (but only if the scheme is registered as a superannuation scheme or workplace savings scheme in respect of both sections).
 (2) In sections 179 to 182,—
   (a) a person proposed to be transferred is a proposed transferee:
   (b) the scheme, or section of the scheme, from which the person is proposed to be transferred is the old scheme:
@@ -2226,7 +2238,7 @@ Sections 185 to 192 apply to—
 (1) The FMA may direct that the registration of a registered scheme be cancelled—
   (a) if satisfied on reasonable grounds that the scheme does not meet the registration requirements under section 127; or
   (b) if the FMA has reasonable cause to believe that the scheme has no scheme participants; or
-  (c) on the written request of the manager of the scheme (subject to subsection (4)), if the supervisor certifies, or the trustees of a restricted scheme certify, that—
+  (c) on the written request of the manager of the scheme (subject to subsection (4)), if the supervisor certifies or, if there is no supervisor, the manager certifies that—
     (i) the cancellation has been approved by a special resolution of the scheme participants (subject to any restriction in the governing document); or
     (ii) there is no material adverse effect on the scheme participants from the cancellation; or
   (d) if the scheme has been wound up or dissolved or has otherwise ceased to exist.
@@ -2408,17 +2420,17 @@ This subpart applies in relation to debt securities offered under a regulated of
 (3) The court may give any other directions that it thinks fit for the purpose of facilitating the winding up (and, if there is any conflict between those directions and the provisions of the governing document, those directions prevail).
 
 ### 212 Initial steps in winding up of registered scheme
-(1) If a registered scheme is to be wound up, the supervisor or (in the case of a restricted scheme) the trustees must, within 10 working days after a winding-up resolution or an order by the court that the scheme be wound up is made,—
+(1) If a registered scheme is to be wound up, the supervisor or (if there is no supervisor) the manager must, within 10 working days after a winding-up resolution or an order by the court that the scheme be wound up is made,—
   (a) give a copy of any order or resolution to the FMA; and
   (b) in the case of a KiwiSaver scheme or a complying superannuation fund,—
     (i) give a copy of any order or resolution to the Commissioner of Inland Revenue; and
     (ii) give notice to the Commissioner of Inland Revenue of the name, tax file number, and address of each member of the registered scheme.
 (2) See sections 50 to 52 of the KiwiSaver Act 2006 (which set out the effect of notice to the Commissioner of Inland Revenue in relation to members of a KiwiSaver scheme) and subpart 3 of Part 2 of that Act (which relates to the transfer of members’ interests to another KiwiSaver scheme).
-(3) A supervisor or trustee that contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $50,000.
+(3) A supervisor or manager that contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $50,000.
 (4) The offence in this section is an infringement offence (see subpart 5 of Part 8).
 
 ### 213 Winding-up report
-(1) The person who was the supervisor of the relevant registered scheme or, in the case of a restricted scheme, the persons who were the trustees immediately before the scheme was wound up—
+(1) The person who was the supervisor of the relevant registered scheme or, if there was no supervisor, the person who was the manager of the relevant registered scheme immediately before the scheme was wound up—
   (a) must, within 4 months after the date on which the winding up takes effect, ensure that final financial statements of the scheme, showing the financial position of the scheme as at the date on which the winding up takes effect, are prepared in accordance with generally accepted accounting practice and audited; and
   (b) must, within 20 working days after the final financial statements have been audited, ensure that—
     (i) a copy of those financial statements is sent to the FMA and to every person who was a scheme participant immediately before it was wound up; and
@@ -2471,6 +2483,7 @@ This subpart applies in relation to debt securities offered under a regulated of
   (d) the amount of the product (if any); and
   (e) the due date of the product (if any); and
   (f) all other prescribed particulars (if any).
+(1A) However, a register is not required to contain the information specified in a paragraph in subsection (1) if the circumstances prescribed in respect of that paragraph apply.
 (2) No notice of any trust, expressed, implied, or constructive, may be entered on a register kept under this subpart (except in the prescribed circumstances).
 (3) Every register kept under this subpart is prima facie evidence of the matters required by this Act to be entered in it.
 (4) An issuer that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
@@ -2589,6 +2602,7 @@ If a provision of sections 221 to 225 is inconsistent with a provision in the Co
   (u) section 195(3)﻿(b) (manager must notify scheme participants of direction):
   (v) sections 198 to 200, and 202 to 204 (duties to report problems):
   (w) section 206(2) (FMA’s directions to supervisor):
+  (wa) section 219 (auditor must advise if auditor considers that subpart is not being complied with):
   (x) section 225 (restriction on use of information in registers).
 
 ## Part 5 — Dealing in financial products on markets
@@ -2756,8 +2770,8 @@ Section 242 does not apply to disclosure that is required by—
   (a) an enactment or any rule of law; or
   (b) the FMA when exercising a power under this Act or any other enactment.
 
-### 247 Exception for disclosure in connection with preparing PDS or disclosure document
-Section 242 does not apply to disclosure that is necessary, in connection with an offer of financial products for sale, in order to assist in the preparation of a PDS, a register entry, or a disclosure document under clause 26 of Schedule 1 for that offer.
+### 247 Exception for disclosure in connection with preparing PDS or limited disclosure document
+Section 242 does not apply to disclosure that is necessary, in connection with an offer of financial products for sale, in order to assist in the preparation of a PDS, a register entry, or a limited disclosure document for that offer.
 
 ### 248 Exceptions in respect of underwriting agreements
 (1) Section 241 does not apply to the acquisition of the financial products of a listed issuer under an underwriting or a sub-underwriting agreement.
@@ -3089,7 +3103,7 @@ No listed issuer is liable for any false or misleading information made availabl
     (vi) a prescribed acquisition or disposal; or
   (b) in any other case, 5 trading days after the acquisition or disposal.
 (3) This section does not apply to specified derivatives.
-(4) This section is subject to sections 299 to 303.
+(4) This section is subject to sections 299 to 303A.
 (5) In this section,—
   - **dividend reinvestment plan** means a plan of the kind referred to in clause 10 of Schedule 1
   - **share top-up plan** means a plan established by an issuer under which previously issued shares of the issuer are offered, whether by the issuer or another person, only to some or all existing holders of the same class of shares, and those shares are sold in consideration for a direction made to the issuer to apply amounts that are payable to each existing holder from dividends declared by the issuer to the purchase of the shares.
@@ -3102,7 +3116,7 @@ No listed issuer is liable for any false or misleading information made availabl
 (3) In this subpart, specified derivative, in relation to a director or senior manager of a listed issuer, means—
   (a) a quoted derivative where the underlying is a financial product of the listed issuer or a related body corporate; or
   (b) a derivative that is treated as being a quoted financial product of the listed issuer under section 233.
-(4) This section is subject to sections 299 to 303.
+(4) This section is subject to sections 299 to 303A.
 
 ### 299 What disclosure required
 (1) The director or senior manager must disclose the relevant interest, acquisition, or disposal—
@@ -3137,6 +3151,15 @@ A director or senior manager who has, or who acquires or disposes of, a relevant
     (i) is not a licensed market; and
     (ii) has primary jurisdiction for the listing requirements for the listed issuer and the quotation of its financial products; and
   (b) in relation to which no licensed market has primary jurisdiction for the listing requirements for the listed issuer and the quotation of its financial products.
+
+### 303A Extended time for disclosure for trustees, executors, and administrators
+(1) This section applies if—
+  (a) a person (A) is a director or senior manager of a listed issuer; and
+  (b) A acquires a relevant interest in—
+    (i) a quoted financial product of the listed issuer or a related body corporate; or
+    (ii) a specified derivative; and
+  (c) the relevant interest is acquired merely because A is the trustee of a testamentary trust or the executor or administrator of the estate of a deceased person.
+(2) The time limit for disclosure in section 297 or 298 in respect of the acquisition of the relevant interest does not apply and the disclosure must instead be given before the expiry of 14 days after the grant of administration under the Administration Act 1969.
 
 ### 304 Listed issuer must keep interests register
 (1) A listed issuer must keep an interests register for disclosures made to it under this subpart.
@@ -3224,15 +3247,19 @@ A person must not, if it is not the case, hold out that—
 **General obligations of licensed market operator**
 
 ### 314 General obligations in respect of licensed markets
-A licensed market operator must,—
+(1) A licensed market operator must,—
   (a) to the extent that is reasonably practicable, do all things necessary to ensure that each of its licensed markets is a fair, orderly, and transparent market; and
   (b) have adequate arrangements for operating its licensed markets, including arrangements—
-    (i) for notifying disclosures made to it under subparts 4, 5, and 6 and under an alternative disclosure obligation and for continuing to make those disclosures available; and
+    (i) for notifying disclosures made to it under a disclosure obligation and for continuing to make those disclosures available; and
     (ii) for handling conflicts between the commercial interests of the licensed market operator and the need for the licensed market operator to ensure that the markets operate in the way referred to in paragraph (a); and
     (iii) for monitoring the conduct of participants on or in relation to the markets; and
     (iv) for enforcing compliance with the relevant market rules (for example, by having a sufficiently independent adjudicative body to adjudicate on contraventions of market rules that are referred to it); and
   (c) have sufficient resources (including financial, technological, and human resources) to operate its licensed markets properly; and
   (d) have adequate arrangements for ensuring that the criteria specified in section 316(c) or 317(1)﻿(d), as the case may be, continue to be met.
+(2) In subsection (1)﻿(b)﻿(i), disclosure obligation means—
+  (a) any provision of subpart 4, 5, or 6 that requires information to be notified or disclosed to a licensed market operator:
+  (b) an alternative disclosure obligation:
+  (c) a provision of this Act, the regulations, or another enactment that requires information to be notified or disclosed to a licensed market operator for the purpose of the information being made available to participants in a licensed market.
 
 **Issue of licence**
 
@@ -3563,11 +3590,14 @@ To avoid doubt, market rules are not—
   (ab) providing that section 451(d) does not apply in respect of persons that are listed issuers only in respect of a licensed market or class of licensed markets, and providing for replacement or modified requirements to apply relating to accounting records and financial reporting:
   (b) providing for replacement or modified provisions to apply in respect of the licensed market or class of licensed markets (for example, instead of having continuous disclosure provisions in the listing rules and requiring listed issuers to comply with those provisions, having periodic or event-based disclosure or some other way of dealing with any information asymmetries in the market):
   (c) stating which provisions of the regulations (if any) are Part 5 market provisions for the purposes of this Act and, if so, whether the provisions give rise to civil liability under section 385(3) or (4) (see Part 8, in which Part 5 market provisions are specified to be civil liability provisions), including which provisions are alternative disclosure obligations for the purposes of section 314:
-  (d) providing that a financial product market must not be treated as a licensed market for the purposes of any provision or provisions of this Act or any other specified enactment.
+  (d) providing that a financial product market must not be treated as a licensed market for the purposes of any provision or provisions of this Act or any other specified enactment:
+  (e) providing that issuers of a specified class must not be treated as listed issuers for the purposes of any provision or provisions of this Act or any other specified enactment:
+  (f) providing that, in specified circumstances, financial products must not be treated as quoted financial products for the purposes of any provision or provisions of this Act or any other specified enactment.
 (2) Any regulations made under subsection (1) must specify the licensed market or class of licensed market to which they apply.
 (3) The Minister must, in relation to a recommendation under this section,—
   (a) have regard to the matters set out in section 308; and
-  (b) be satisfied, in relation to any recommendation relating to subsection (1)﻿(a) or (d), that the extent to which the regulations disapply any enactment to a licensed market is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
+  (b) be satisfied, in relation to any recommendation relating to subsection (1)﻿(a) or (d), that the extent to which the regulations disapply any enactment to a licensed market is not broader than is reasonably necessary to address the matters that gave rise to the regulations; and
+  (c) be satisfied, in relation to any recommendation relating to subsection (1)﻿(e) or (f), that the extent to which the regulations disapply any enactment to issuers or financial products is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
 
 ### Subpart 8 — Operation of licensed markets
 
@@ -3715,6 +3745,7 @@ A licensed market operator that refuses or fails, without reasonable excuse, to 
   (b) is duly completed; and
   (c) is executed, in New Zealand, by the transferor (whether or not it is also executed by the transferee).
 (2) However, subsection (1) does not apply if the specified financial products impose a liability to the issuer on the transferee.
+(2A) An indemnity given by the product holder of a financial product to the issuer in respect of any liability of the issuer for the acts, omissions, or obligations of the holder is not a liability for the purpose of subsection (2).
 (3) In this subpart, authorised transaction means an acquisition or disposal of financial products in which each of the parties is, or is acting through the agency of, any of the following persons (who are acting in the ordinary course of business):
   (a) a person authorised to undertake trading activities on a licensed market:
   (b) a lawyer in practice on his or her own account:
@@ -3934,6 +3965,7 @@ The FMA must, after receiving an application under section 395, issue a licence 
   (b) have regard to whether the applicant, or 1 or more of the applicant's directors or senior managers, is a licensed provider (within the meaning of section 4 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008) or a member of a QFE group; and
   (c) have regard to whether the provision of the market service to which the application relates is merely incidental to the provision of another market service that is or will be covered by a licence; and
   (d) consult all prescribed persons or classes of prescribed persons (if any).
+(1A) The FMA must make a decision under section 396 in the prescribed manner (if any).
 (2) The FMA must not refuse to issue a licence, or include limits or restrictions under section 403(3)﻿(a) that are materially more restrictive than those requested in the application, unless—
   (a) the FMA gives the applicant no less than 10 working days' written notice of the following matters before it exercises the power:
     (i) that the FMA may refuse to issue the licence or impose the limits or restrictions; and
@@ -3959,7 +3991,7 @@ The FMA must, after receiving an application under section 395, issue a licence 
 (1) A licence may, in its conditions, authorise 1 or more named related bodies corporate of the licensee to provide a market service covered by the licence if the FMA is satisfied that—
   (a) arrangements are or will be in place to ensure that the licensee will maintain appropriate control or supervision over the provision of that service by the related body corporate under the licence; and
   (b) the related body corporate is capable of effectively performing that service (having regard to the proposed conditions of licence); and
-  (c) there is no reason to believe that the related body corporate will not comply with the market services licensee obligations; and
+  (c) there is no reason to believe that the related body corporate is likely to contravene the market services licensee obligations; and
   (d) the related body corporate is, or will be, registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 on and from commencing to provide that service; and
   (e) the related body corporate meets the eligibility criteria and other requirements prescribed by the regulations for the purposes of this section (if any).
 (2) The licence may also, in its conditions, determine that, for the purposes of 1 or more provisions of this Part, notices or reports need to be given to or by, or powers or duties may be exercised or performed by, only—
@@ -4334,7 +4366,7 @@ Regulations made under this subpart may apply to a derivatives issuer (whether o
 
 ### 448 Regulations regulating holding and application of investor funds and property by derivatives issuers
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with subsection (2), make regulations for the purposes of—
-  (a) regulating the receipt of money and property from investors by derivatives issuers and the application of that money and property:
+  (a) regulating the receipt of money and property from, or on account of, investors by derivatives issuers and the application of that money and property:
   (b) prescribing requirements relating to the deposit of that money and property in separate investors' funds accounts or safe custody:
   (c) specifying the duties and obligations of derivatives issuers in relation to investors' funds accounts, including obligations to make payments into those accounts:
   (d) providing for the protection of money deposited into investors' funds accounts and property deposited in safe custody from claims against derivatives issuers:
@@ -4479,10 +4511,10 @@ Accounting records kept under this subpart, or copies of them, must be retained 
 
 ### 461A Financial statements for registered schemes and funds
 (1) This section applies to every manager of a registered scheme.
-(2) If the liabilities of the manager and the scheme are not limited to a particular group of assets (a separate fund), the manager must ensure that, within 4 months after the balance date of the manager, financial statements that comply with generally accepted accounting practice are—
+(2) If the liabilities of the manager and the scheme are not limited to a particular group of assets (a separate fund), the manager must ensure that, within 4 months after the balance date of the scheme, financial statements that comply with generally accepted accounting practice are—
   (a) completed in relation to the scheme and that balance date; and
   (b) dated and signed on behalf of the manager by 2 directors of the manager or, if the manager has only 1 director, by that director.
-(3) If the liabilities of the manager or the scheme are limited to a separate fund, the manager must ensure that, within 4 months after the balance date of the manager, financial statements that comply with generally accepted accounting practice are—
+(3) If the liabilities of the manager or the scheme are limited to a separate fund, the manager must ensure that, within 4 months after the balance date of the scheme, financial statements that comply with generally accepted accounting practice are—
   (a) completed in relation to the scheme and that balance date; and
   (b) completed in relation to the separate fund and that balance date; and
   (c) dated and signed on behalf of the manager by 2 directors of the manager or, if the manager has only 1 director, by that director.
@@ -4531,7 +4563,8 @@ An auditor must, in carrying out an audit for the purposes of section 461D, comp
 **Lodgement of financial statements**
 
 ### 461H Lodgement of financial statements
-(1) Every FMC reporting entity must ensure that, within 4 months after the balance date of the entity, copies of the financial statements or group financial statements that are required to be prepared under this subpart, together with a copy of the auditor's report on those statements, are delivered to the Registrar for lodgement.
+(1) Every FMC reporting entity must ensure that, within 4 months after the balance date of the entity, copies of the financial statements or group financial statements that are required to be prepared under any of sections 460, 461, and 461B, together with a copy of the auditor's report on those statements, are delivered to the Registrar for lodgement.
+(1A) Every manager of a registered scheme must ensure that, within 4 months after the balance date of the scheme, copies of the financial statements that are required to be prepared under section 461A, together with a copy of the auditor's report on those statements, are delivered to the Registrar for lodgement.
 (2) An FMC reporting entity that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
 (3) The offence in this section is an infringement offence (see subpart 5 of Part 8).
 
@@ -4556,7 +4589,7 @@ An auditor must, in carrying out an audit for the purposes of section 461D, comp
 (2) The External Reporting Board must have regard to which FMC reporting entities are considered to have a higher level of public accountability under section 461K.
 (3) Nothing in this section or section 461K requires any particular class of FMC reporting entity to be included within a particular tier of financial reporting (for example, some entities referred to in section 461K(1) could be included in one tier while other entities referred to in that subsection could be included in another tier).
 
-### 461K FMA reporting entities considered to have higher level of public accountability
+### 461K FMC reporting entities considered to have higher level of public accountability
 (1) The following FMC reporting entities are considered to have a higher level of public accountability than other FMC reporting entities:
   (a) issuers of equity securities or debt securities under a regulated offer:
   (b) managers of registered schemes, but only in respect of financial statements of a scheme or fund prepared under section 461A:
@@ -4596,7 +4629,7 @@ An auditor must, in carrying out an audit for the purposes of section 461D, comp
 
 ### 462 When FMA may make stop orders
 (1) The FMA may make a stop order if it is satisfied that—
-  (a) a PDS, a register entry, or a disclosure document under clause 26 of Schedule 1 for an offer of financial products—
+  (a) a PDS, a register entry, or a limited disclosure document for an offer of financial products—
     (i) is false or misleading, or is likely to mislead or confuse, in a material particular; or
     (ii) contains any material misdescription or material error or any material matter that is not clearly legible; or
     (iii) does not comply with this Act or the regulations; or
@@ -4980,7 +5013,14 @@ A civil liability order under section 497 may—
   (a) a person (A) contravenes any of sections 82, 99, 427, 460 to 461B, 461D, and 461H or clause 27 of Schedule 1; and
   (b) a person (B) is a director of A who is treated as being in contravention under section 534.
 (2) In any proceeding under this subpart against B, it is a defence if B proves that B took all reasonable and proper steps to ensure that A complied with the provision referred to in subsection (1)﻿(a).
-(3) Subsection (2) does not limit any defence that B may have under section 499(1)﻿(a) or 500 (as a person who is treated as contravening a provision referred to in subsection (1)﻿(a)).
+(3) Subsection (2) does not limit any defence that B may have under section 499 or 500 (as a person who is treated as contravening a provision referred to in subsection (1)﻿(a)).
+
+### 501A Additional defence for licensees who are treated as contravening
+(1) This section applies if—
+  (a) an authorised body (A) contravenes any market services licensee obligation; and
+  (b) a person (B) is the licensee who is treated as being in contravention under section 400(3).
+(2) In any proceeding under this subpart against B, it is a defence if B proves that B took all reasonable and proper steps to ensure that A complied with the market services licensee obligation.
+(3) Subsection (2) does not limit any defence that B may have under section 499 or 500 (as a person who is treated as contravening a market services licensee obligation).
 
 ### 502 Conduct still contravenes even if defence is available
 In this Act, conduct must still be treated as contravening a civil liability provision even if the conduct does not lead to any liability under this subpart because of the availability of a defence.
@@ -5298,7 +5338,7 @@ An aggrieved person that considers that any of the following decisions of the FM
   (b) an issuer has contravened section 99 (defective ongoing disclosure); or
   (c) a licensee or an authorised body has contravened section 427 (defective disclosure statement); or
   (ca) an FMC reporting entity has contravened any of sections 460 to 461B, 461D, and 461H (financial reporting obligations); or
-  (d) an entity that provided a disclosure document under clause 26 of Schedule 1 has contravened clause 27 of that schedule (defective disclosure document).
+  (d) an entity that provided a limited disclosure document under clause 26 of Schedule 1 has contravened clause 27 of that schedule (defective disclosure).
 (2) However, this section does not apply in the prescribed circumstances.
 (3) For the purposes of subpart 3, every director of the offeror, issuer, licensee, authorised body, FMC reporting entity, or entity at the time of the contravention must be treated as also having contravened the provision referred to in subsection (1)﻿(a), (b), (c), (ca), or (d) (as the case may be).
 (4) Every director that is treated as contravening a provision under this section may, under subpart 3, be ordered to pay to the Crown a pecuniary penalty, ordered to pay compensation under section 495, or subject to any other order under subpart 3.
@@ -5369,14 +5409,20 @@ Nothing in this Act limits or diminishes any liability that any person may incur
     (xii) prescribing provisions for the purposes of section 474(1)﻿(c):
   (b) amending any of the dollar amounts specified in Schedule 1 (other than the amounts in clause 12 of that schedule (small offers)) by increasing those amounts:
   (c) providing for the matters referred to in clause 26 of Schedule 1, including prescribing—
-    (i) the circumstances in which a disclosure document is required:
-    (ii) the information to be contained in, or to accompany, a disclosure document, who must prepare the disclosure document, and requirements as to the layout or method of presentation of a disclosure document:
-    (iii) the period within which the disclosure document must be provided, the person or persons to whom it must be provided, and other matters relating to the manner in which it is provided:
+    (i) the circumstances in which a limited disclosure document is required:
+    (ii) the information to be contained in, or to accompany, a limited disclosure document, who must prepare the disclosure document, and requirements as to the layout or method of presentation of a disclosure document:
+    (iii) the period within which the limited disclosure document must be provided, the person or persons to whom it must be provided, and other matters relating to the manner in which it is provided:
+    (iiia) requirements relating to an entry for the offer in the register of offers of financial products:
+    (iiib) information that must be provided, the person or persons to whom it must be provided, and other matters relating to the manner in which it is provided:
+    (iiic) limits or restrictions that apply in connection with an offer, financial products, or investors:
     (iv) requirements and other matters relating to certificates, acknowledgements, consents, approvals, and governance:
     (v) other conditions that must be complied with:
-    (vi) the circumstances in which the requirements, conditions, and other matters referred to in subparagraphs (iv) and (v) apply:
-  (d) prescribing changes that must be notified under section 95:
-  (e) prescribing the information that must be made available under section 96 or 97, the times or events referred to in either of those sections, the persons who may make a request under section 96, the persons to whom information must be made available under section 96, and the manner of making the information available (including prescribing the manner in which the information is to be presented, calculated, or prepared):
+    (vi) the circumstances in which the requirements, conditions, and other matters referred to in subparagraphs (iiia) to (v) apply:
+    (vii) matters for the purposes of clause 26(6) of Schedule 1 (including requirements, conditions, or other matters that an issuer must comply with or ensure are met):
+    (viii) which provisions of the regulations made for the purposes of clause 26 of Schedule 1 (if any) are Part 3 offer provisions for the purposes of this Act and, if a provision is so prescribed, stating whether the provision gives rise to civil liability under section 101(3) or (4) (see Part 8, in which Part 3 offer provisions are specified to be civil liability provisions):
+  (d) prescribing changes that must be notified under section 95 and a period or periods within which those changes must be notified:
+  (e) prescribing the information that must be made available under section 96 or 97, the times or events referred to in either of those sections, and the manner of making the information available (including prescribing the manner in which the information is to be presented, calculated, or prepared):
+  (ea) prescribing the persons who may make a request under section 96 and the persons to whom information must be made available under section 96 (for example, investors, a supervisor, the FMA, or the Registrar):
   (f) prescribing circumstances for the purposes of section 98(2)﻿(b):
   (g) prescribing matters for the purposes of section 100, including prescribing circumstances, prescribing the manner of providing the product or confirmation information, and prescribing information as confirmation information:
   (h) prescribing matters in connection with money relating to financial products that is held in trust (including prescribing, for the purposes of section 87(3)﻿(a), requirements relating to the investment of money that is held in trust and providing for how interest or other income from that investment is to be paid, retained, or otherwise dealt with):
@@ -5390,6 +5436,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   (n) prescribing matters for the purposes of the definitions of relevant person, relevant time, and prescribed transaction in clause 49 of Schedule 1:
   (o) prescribing forms and information for the purposes of clause 46 of Schedule 1.
 (2) Subsection (1)﻿(a)﻿(v) and (x) and (f) are subject to section 550 (which provides for certain procedural requirements relating to regulations made under those provisions).
+(3) A time or an event prescribed under subsection (1)﻿(e) in respect of regulated products may be any time, or any event that occurs, on or after the time at which the products are first offered under a regulated offer or otherwise become regulated products (regardless of whether or not the products have been issued).
 
 ### 544 Regulations for purposes of Part 4 (governance of financial products)
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with section 549, make regulations for all or any of the following purposes:Reporting to supervisorParticular types of schemesContents of governing documentsMeetings of product holdersCustodiansManagement of registered schemesRegisters and keeping copies of documentsMiscellaneous
@@ -5421,6 +5468,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
     (iv) circumstances for the purposes of section 215(2)﻿(c):
     (v) requirements for the purposes of section 215(3), including requirements relating to the keeping of records in respect of derivatives, the audit or review of those records, the inspection of those records, and making copies of, or extracts from, those records available:
     (vi) particulars for the purposes of section 217(1)﻿(f):
+    (via) circumstances in which information specified in a paragraph in section 217(1) is not required to be contained in a register:
     (vii) circumstances for the purposes of section 217(2):
     (viii) requirements for the purposes of section 218, including when an audit or a review must be carried out, the prescribed manner in which the audit or review must be carried out, and the required scope or extent of the audit or review:
     (ix) circumstances for the purposes of section 221(2)﻿(c):
@@ -5430,7 +5478,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
 (2) A provision prescribed for the purposes of subsection (1)﻿(d) or (h) may, without limitation, do any of the following (including to supplement, or to add to, duties and powers prescribed by this Act, the Financial Markets Supervisors Act 2011, and, in relation to KiwiSaver schemes, the KiwiSaver Act 2006):
   (a) specify the duties and powers of the supervisor of the debt security or the scheme:
   (b) specify the duties of the issuer of the debt security or the manager of the scheme.
-(3) Subsection (1)﻿(k), (o), (r), (s), and (v)﻿(iii), (iv), and (ix) are subject to section 550 (which provides for certain procedural requirements relating to regulations made under those subparagraphs).
+(3) Subsection (1)﻿(k), (o), (r), (s), and (v)﻿(iii), (iv), (via), and (ix) are subject to section 550 (which provides for certain procedural requirements relating to regulations made under those subparagraphs).
 
 ### 545 Regulations for purposes of Part 5 (dealing in financial products on markets)
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with section 549, make regulations for all or any of the following purposes:Insider conduct and market manipulationSubstantial holding disclosureDirectors' and senior managers' disclosure obligationsLicensed marketsTransfer of transferable financial products
@@ -5493,6 +5541,9 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   (i) prescribing requirements as to the form, layout, or method of presentation of those disclosure statements (including the length of the whole or any part of the statement, the size of type used, and when information may be incorporated by reference):
   (j) determining when disclosure is required, and when minimum disclosure may be given, under that subpart (including by requiring disclosure only on request) and what minimum disclosure must be given:
   (k) prohibiting or restricting the combining of disclosure statements:
+  (ka) prescribing the information that must be made available under section 426A, the times or events referred to in that section, the persons who may make a request, the persons to whom information must be made available, and the manner of making the information available (including prescribing the manner in which the information is to be presented, calculated, or prepared):
+  (kb) prescribing circumstances for the purposes of section 427(3)﻿(a):
+  (kc) prescribing conditions for the purposes of section 427(3)﻿(b) (for example, requiring a corrective statement or a warning notice to be provided to an investor or requiring some other specified action to be taken to avoid or mitigate any actual or potential adverse effects of making the defective disclosure as referred to in section 427(1)):
   (l) prescribing the matters that must be contained in a client agreement required for the purposes of subpart 5 of Part 6:
   (m) prescribing provisions to be implied in a client agreement (see subsection (3)):
   (n) prescribing matters relating to the reporting of limit breaks:
@@ -5580,7 +5631,7 @@ The Minister must consult the FMA before making a recommendation under this subp
   (d) subsection (2)﻿(g), be satisfied that the extent to which the application of section 534 is reduced is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
 (2) The provisions are—
   (a) sections 543(1)﻿(a)﻿(v) and (x), and (f), and 548(1)﻿(b) (regulations may prescribe circumstances in which requirements do not apply):
-  (b) section 544(1)﻿(k), (o), (r), (s), and (v)﻿(iii), (iv), and (ix) (regulations may prescribe circumstances in which requirements do not apply):
+  (b) section 544(1)﻿(k), (o), (r), (s), and (v)﻿(iii), (iv), (via), and (ix) (regulations may prescribe circumstances in which requirements do not apply):
   (c) section 545(1)﻿(a), (g), (j), and (m) (regulations may provide for exemptions from certain requirements):
   (d) section 546(1)﻿(b) and (c) (regulations may prescribe exemptions relating to requirement to be licensed):
   (e) section 546(1)﻿(o) (regulations may prescribe circumstances in which requirements do not apply):
@@ -5625,7 +5676,7 @@ Different matters may be prescribed, prohibited, restricted, specified, or requi
 
 ### 556 FMA may grant exemptions
 (1) The FMA may, on the terms and conditions (if any) that it thinks fit, exempt any person or class of persons or any transaction or class of transactions from compliance with any provision or provisions of—
-  (a) Parts 2 to 7 and any of the schedules; or
+  (a) Parts 2 to 7, subpart 8 of Part 8, and any of the schedules; or
   (b) any regulations.
 (2) To avoid doubt, an exemption may extend to exempt from compliance with any provision that is implied into a deed or an agreement by or under any other provision referred to in subsection (1).
 (3) Nothing in subpart 6 or 7 limits subsection (1).
@@ -6022,7 +6073,7 @@ An offer of financial products to a person (A) does not require disclosure under
 (1) An offer of specified financial products to an eligible person under an employee share purchase scheme does not require disclosure under Part 3 of this Act if—
   (a) the offer is made as part of the remuneration arrangements for the eligible person or is otherwise made in connection with the employment or engagement of the eligible person; and
   (b) raising funds for the issuer is not the primary purpose of the offer to the eligible person; and
-  (c) the total number of specified financial products issued or transferred under all of the issuer's employee share purchase schemes to eligible persons in any 12-month period does not exceed,—
+  (c) the total number of specified financial products issued or transferred under all of the issuer's employee share purchase schemes in any 12-month period does not exceed,—
     (i) in the case of an offer of voting products or options over voting products, 10% of the voting products of the issuer as at the start of the 12-month period:
     (ii) in the case of any other offer of specified financial products, 10% of the specified financial products of the issuer that are of the same class as at the start of the 12-month period.
 (2) In this clause,—
@@ -6032,8 +6083,8 @@ An offer of financial products to a person (A) does not require disclosure under
   - **specified financial products** means—
     (a) equity securities; or
     (b) prescribed financial products.
-(3) In calculating the total number of specified financial products issued or transferred under all of the issuer's employee share purchase schemes to eligible persons for the purposes of subclause (1)﻿(c), an issue or a sale to a person must be disregarded if the issue or sale results from an offer that—
-  (a) does not require disclosure under Part 3 of this Act because of any other exclusion under this schedule; or
+(3) In calculating the total number of specified financial products issued or transferred under all of the issuer's employee share purchase schemes for the purposes of subclause (1)﻿(c), an issue or a sale to a person must be disregarded if the issue or sale results from an offer that—
+  (a) does not require disclosure under Part 3 of this Act for any reason other than as a result of the application of this clause; or
   (b) is not received in New Zealand; or
   (c) is a regulated offer that is separate from the offer under the employee share purchase scheme.
 
@@ -6053,8 +6104,8 @@ If, under any of clauses 3 to 8, an offer of financial products to a person (A) 
     (i) at the time the price of the specified financial products is set, the issuer has no information that is not publicly available that would, or would be likely to, have a material adverse effect on the realisable price of the financial products if the information were publicly available; and
     (ii) the right to acquire, or require the issuer to issue, specified financial products is offered to all holders of financial products of the issuer of the same class, other than product holders who are resident outside New Zealand and who are excluded by the issuer to avoid a risk of breaching the laws of the relevant overseas country; and
     (iii) every product holder to whom the right is offered is given a reasonable opportunity to accept it; and
-    (iv) the specified financial products issued to a product holder are issued on the terms disclosed to the holder; and
-    (v) the specified financial products issued to a product holder are subject to the same rights as the financial products issued to all holders of financial products of the same class who agree to receive the financial products.
+    (iv) the specified financial products issued or transferred to a product holder are issued on the terms disclosed to the holder; and
+    (v) the specified financial products issued or transferred to a product holder are subject to the same rights as the financial products issued to all holders of financial products of the same class who agree to receive the financial products.
 (2) In this clause,—
   - **dividend** means,—
     (a) in relation to equity securities in a company within the meaning of section 2(1) of the Companies Act 1993, a dividend within the meaning of section 53 of that Act; and
@@ -6160,6 +6211,13 @@ An offer of managed investment products does not require disclosure under Part 3
   (d) in the case of an offer by way of issue, it is a term of the offer that the issuer will take any necessary steps to ensure that the financial products are, immediately after the issue, quoted; and
   (e) in the case of an offer by way of sale, the financial products are quoted at the time of the offer and the offeror has reasonable grounds to believe that the financial products will, immediately after the sale, remain quoted; and
   (f) the market rules of the licensed market on which the financial products are quoted contain continuous disclosure provisions.
+(1A) An offer of options to acquire, by way of issue, financial products (and the offer of those option underlyings) does not require disclosure under Part 3 of this Act if—
+  (a) the options and option underlyings are equity securities, debt securities, or managed investment products; and
+  (b) the option underlyings are of the same class as quoted financial products that have been quoted on a licensed market at all times during the 3-month period before the time of the offer; and
+  (c) trading in those quoted financial products on the licensed market on which they are quoted was not suspended for more than a total of 5 trading days during the 3-month period referred to in paragraph (b); and
+  (d) it is a term of the offer that the issuer will take any necessary steps to ensure that, immediately after the option underlyings are issued, the option underlyings are quoted; and
+  (e) the market rules of the licensed market on which the option underlyings are quoted contain continuous disclosure provisions.
+(1B) In this clause, option underlyings, in relation to an offer of options, means the underlying financial products to which the options relate.
 (2) However, this clause does not apply to the financial products of an issuer if the FMA has made an order under section 474 in respect of the issuer.
 
 **Exclusions for derivatives**
@@ -6213,23 +6271,29 @@ The purposes of clauses 26 to 29 are to—
 ### 26 Disclosure and other requirements
 (1) This clause applies to a person (A) who offers financial products to another person (B) without disclosure under Part 3 of this Act in reliance upon any of clauses 3 to 24.
 (2) A must ensure that—
-  (a) B or a prescribed person or both are provided with a disclosure document that complies with subclause (4); and
+  (a) B or a prescribed person or both are provided with a limited disclosure document (an LDD) that complies with subclause (4); and
+  (aa) the prescribed requirements (if any) relating to an entry for the offer in the register of offers of financial products (a register entry) are complied with; and
+  (ab) B or a prescribed person or both are provided with any other prescribed information in the prescribed manner; and
+  (ac) all prescribed limits or restrictions (if any) applying in connection with the offer, the financial products, or the investors are met; and
   (b) B or a prescribed person or both have, in the prescribed manner, given a certificate or an acknowledgement that is required by the regulations (if any); and
   (c) the directors of A or a prescribed person or both have, in the prescribed manner, given any consents or approvals that are required by the regulations (if any); and
   (d) all governance requirements (for example, relating to governing documents and supervision) that are required by the regulations (if any) are complied with; and
   (e) all other prescribed conditions (if any) are complied with (for example, restrictions on advertising and publicity, a requirement to keep records, or a requirement to provide information relating to the offer to the Registrar or the FMA).
 (3) A must perform the duty under subclause (2)﻿(a) in the prescribed manner.
-(4) The disclosure document under subclause (2)﻿(a) must—
+(4) The LDD must—
   (a) contain, or be accompanied by, the prescribed information (if any); and
   (b) comply with all requirements of the regulations relating to the form and presentation of the document.
-(5) Subclauses (2)﻿(a) and (3) apply only if the regulations require a disclosure document to be provided.
-(6) A contravention of this clause does not prevent the exclusion referred to in subclause (1) from continuing to apply (but may give rise to consequences under Part 8 of this Act).
+(5) Subclauses (2)﻿(a) and (3) apply only if the regulations require an LDD to be provided.
+(6) The following apply if A is not the issuer of the financial products:
+  (a) the issuer must, if required by the regulations, ensure that a requirement, a condition, or any other matter of a kind referred to in any of paragraphs (a) to (e) of subclause (2) is complied with (and the issuer must perform that duty in the prescribed manner):
+  (b) the regulations may provide for a requirement, a condition, or any other matter of a kind referred to in any of paragraphs (a) to (e) of subclause (2) to be complied with by A or the issuer or both (and, accordingly, A or the issuer or both must so comply).
+(7) A contravention of a requirement prescribed for the purposes of this clause does not prevent the exclusion referred to in subclause (1) from continuing to apply (but may give rise to consequences under Part 8 of this Act or an offence under clause 28A).
 
 ### 27 False or misleading statements and omissions
-(1) A person must not provide a disclosure document to a person under clause 26 if—
+(1) A person must not provide an LDD to a person if—
   (a) there is—
-    (i) a statement in the disclosure document that is false or misleading or is likely to mislead; or
-    (ii) an omission from the disclosure document of information that is required to be contained in the disclosure document by the regulations; and
+    (i) a statement in the LDD, any application form that accompanies the LDD, or the register entry that is false or misleading or is likely to mislead; or
+    (ii) an omission from the LDD or the register entry of information that is required to be contained in the LDD or the register entry by this Act or the regulations; and
   (b) the matter referred to in paragraph (a) is materially adverse from the point of view of an investor.
 (2) For the purposes of this clause, a statement about a future matter (including the doing of, or refusing to do, an act) must be taken to be misleading if the person making the statement does not have reasonable grounds for making it.
 (3) Subclause (2) does not limit the meaning of a reference to a misleading statement.
@@ -6239,18 +6303,20 @@ The purposes of clauses 26 to 29 are to—
 ### 27A Offeror is FMC reporting entity in prescribed circumstances
 A person to whom clause 26 applies is an FMC reporting entity in the prescribed circumstances.
 
-### 28 Persons who must inform offeror about deficiencies in disclosure document under clause 26
+### 28 Persons who must inform offeror about deficiencies in limited disclosure document
 (1) A person referred to in subclause (2) must, in relation to an offer of financial products made without disclosure under Part 3 of this Act in reliance upon any of clauses 3 to 24, notify the offeror in writing as soon as practicable if the person becomes aware at any time before the end of the application period that—
-  (a) a material statement in the disclosure document is false or misleading or is likely to mislead; or
-  (b) there is a material omission from the disclosure document of information that is required to be contained in the disclosure document by this Act or the regulations.
+  (a) a material statement in the LDD or the register entry is false or misleading or is likely to mislead; or
+  (b) there is a material omission from the LDD or the register entry of information that is required to be contained in the LDD or the register entry by this Act or the regulations.
 (2) The persons are—
   (a) each director of the offeror:
   (b) the issuer (if the offeror is not the issuer) and each director of the issuer:
   (c) a person who is required to give a consent or an approval as referred to in clause 26(2)﻿(c).
 (3) A person referred to in subclause (2)﻿(c) is required to notify the offeror of matters under this clause only if the matters relate to the matter to which the person's consent or approval relates.
-(4) In this clause,—
-  - **application period** means the period in which applications for financial products under the disclosure document may be made
-  - **disclosure document** means a disclosure document under clause 26.
+(4) In this clause, application period means the period in which applications for financial products under the LDD may be made.
+
+### 28A Failure to lodge or give information to Registrar or FMA
+(1) A person who fails to comply with a requirement under clause 26 to lodge or otherwise give any information or other document to the Registrar or the FMA commits an offence and is liable on conviction to a fine not exceeding $50,000.
+(2) The offence in this clause is an infringement offence (see subpart 5 of Part 8).
 
 ### 29 Regulations may prevent exclusions from applying in inappropriate circumstances
 (1) An exclusion under any of clauses 3 to 24 does not apply—
@@ -6581,7 +6647,7 @@ Each register established under this schedule (the register) must be kept by the
 **Miscellaneous**
 
 ### 13 Lodging or giving documents or otherwise notifying Registrar
-(1) If this Act requires a document or notification to be lodged with or given to the Registrar, the document or notification must be lodged or given in the manner specified by the Registrar (who, for example, may specify a form to be used or require notification by electronic means, or may specify any of the matters referred to in section 548(1)﻿(p)﻿(i) to (iv)).
+(1) If a document or notification required by or for the purposes of this Act must or may be lodged with or given to the Registrar, the document or notification must be lodged or given in the manner specified by the Registrar (who, for example, may specify a form to be used or require notification by electronic means, or may specify any of the matters referred to in section 548(1)﻿(p)﻿(i) to (iv)).
 (2) The Registrar may refuse to perform or exercise a function, power, or duty in relation to the document or notification if subclause (1) is not complied with.
 
 ### 14 Certificate of lodgement or registration
@@ -6668,7 +6734,9 @@ The trustees of an approved Schedule 3 scheme must, at the prescribed times or o
 (1) This schedule provides for transitional provisions as follows:
   (a) Part 1 provides for whether the former law (in particular, the Securities Act 1978) or the new law (this Act) applies to an offer of financial products:
   (b) Part 2 provides for the former law to continue to apply to securities allotted under the Securities Act 1978 until an effective date, at which point ongoing requirements of this Act may apply:
-  (c) Part 3 provides for miscellaneous transitional provisions relating to the enactment of this Act (for example, provisions relating to the licensing of financial product markets).
+  (c) Part 3 provides for miscellaneous transitional provisions relating to the enactment of this Act (for example, provisions relating to the licensing of financial product markets):
+  (d) Part 4 provides for a transitional provision relating to the Regulatory Systems (Commercial Matters) Amendment Act 2017:
+  (e) Part 5 provides for transitional provisions relating to the Financial Markets Conduct Regulations 2014.
 (2) Subclause (1) is only a guide to the general scheme and effect of this schedule.
 
 ### 2 Transitional provisions subject to transitional regulations and exemptions
@@ -6728,6 +6796,17 @@ Despite clauses 4 to 8, no offer or allotment of managed investment products may
 
 ### 10 All offers and allotments under old law must cease within 2 years of commencement
 Despite clauses 4 to 8, no offer or allotment of securities may be made under the former enactments after the 2-year date (and this Act applies to all offers and acquisitions of financial products made after that date).
+
+### 10A Banks’ regulatory capital
+(1) This clause applies in respect of convertible securities offered and allotted before the close of the 2-year date (unless the issuer makes an election as referred to in clause 7(3)).
+(2) Despite clauses 7 and 10,—
+  (a) the former enactments apply, as if this Act had not been enacted, to any offer and allotment of the convertible securities and the specified equity securities to which the convertible securities relate; and
+  (b) an allotment of those specified equity securities may be made before, on, or after the 2-year date; and
+  (c) in the case of a specified equity security that is allotted after the 2-year date, clause 20 applies to the security on and after its allotment.
+(3) In this clause, convertible security and specified equity security have the same meanings as in the Securities Act (Banks’ Regulatory Capital) Exemption Notice 2014 (as in force before its revocation).
+(4) In this clause, former enactments—
+  (a) has the same meaning as in clause 4(2); and
+  (b) includes the Securities Act (Banks’ Regulatory Capital) Exemption Notice 2014 and the Securities Act (Heartland Bank Regulatory Capital) Exemption Notice (No 3) 2016 as in force on 30 November 2016 (as if those notices continued in force after their revocation).
 
 ### 11 FMA may continue to perform and exercise functions, duties, and powers
 If the former enactments continue to apply to an offer of securities, the FMA may continue to perform and exercise all of its functions, duties, and powers conferred or imposed on it by or under the former enactments as if this Act had not been enacted (for example, it may grant, vary, or revoke an exemption under section 70B of the 1978 Act).
@@ -7150,3 +7229,49 @@ The reference to regulations in section 471(1)﻿(a) must be treated as includin
 
 ### 62 Amendment to section 46 of Trustee Act 1956 does not affect existing proceedings
 Nothing in the amendment made to section 46 of the Trustee Act 1956 by section 150 and the Schedule of the Financial Markets (Repeals and Amendments) Act 2013 affects any proceeding commenced before that amendment comes into force, and any such proceeding must be decided as if the amendment had not been made.
+
+### Part 4 — Transitional provisions relating to Regulatory Systems (Commercial Matters) Amendment Act 2017
+
+### 63 Financial reporting for registered schemes and funds
+Sections 461A and 461H of this Act, as amended by sections 80 and 81 of the Regulatory Systems (Commercial Matters) Amendment Act 2017, apply to a registered scheme (and any separate fund) in relation to the following accounting periods of the scheme:
+  (a) an accounting period that commenced before, but ends on or after, the commencement of this clause:
+  (b) accounting periods that commence on or after the commencement of this clause.
+
+### Part 5 — Transitional provisions relating to Financial Markets Conduct Regulations 2014
+
+### 64 Definition
+In clauses 65 to 70, Regulations means the Financial Markets Conduct Regulations 2014.
+
+### 65 Certification as to eligible investors under Financial Advisers Act 2008
+(1) This clause applies to a certification that is referred to in clause 3(4) of Schedule 1 of the Regulations and that is in effect immediately before that subclause is revoked.
+(2) The certification remains in effect after the revocation (subject to any revocation under section 5F of the Financial Advisers Act 2008).
+
+### 66 Service disclosure statement and investment proposal for existing DIMS
+(1) This clause applies in relation to a DIMS provided by a person (A) to an investor (B) if, immediately before the commencement of this clause, clause 6 of Schedule 1 of the Regulations (clause 6) applies in relation to the DIMS.
+(2) The following apply after the revocation of clause 6:
+  (a) A is not required to provide an SDS under sections 423 and 424 to B if A, under clause 6, was not required to do so before the revocation:
+  (b) A is not required to provide an investment proposal under regulation 206 of the Regulations to B if A, under clause 6, was not required to do so before the revocation:
+  (c) regulation 226(1)﻿(a) of the Regulations does not apply to a client agreement if, under clause 6, that paragraph did not apply to the client agreement before the revocation:
+  (d) section 437(2) to (4) does not apply to an investment authority if, under clause 6, those subsections did not apply to the investment authority before the revocation.
+(3) In this clause,—
+  - **investment proposal** has the same meaning as in regulation 206(2) of the Regulations
+  - **SDS** has the same meaning as in the Regulations.
+
+### 67 Existing licences continue and cover supervision
+(1) If, immediately before the revocation of clause 8 of Schedule 1 of the Regulations, that clause applies to a licence,—
+  (a) the licence continues in effect on and after that revocation; and
+  (b) if the licence is treated as covering certain matters under clause 8(2) of that schedule, the licence must be treated as continuing to cover those matters.
+(2) This clause applies despite clause 8(4) of Schedule 1 of the Regulations, but nothing in this clause affects the duration of the licence under section 12 of the Financial Markets Supervisors Act 2011 or prevents the FMA from exercising any power in relation to the licence.
+
+### 68 Extension of licences to cover substantially the same matters under new law
+(1) If, immediately before the revocation of clause 9 of Schedule 1 of the Regulations, that clause applies to a licence, the following apply on and after that revocation:
+  (a) if, immediately before that revocation, the licence is subject to a variation under clause 9(3) of that schedule, the licence continues to be subject to the variation; and
+  (b) if the licence continues to be subject to conditions, limitations, or restrictions under clause 9(4) of that schedule, the licence must be treated as continuing to be subject to the conditions, limitations, or restrictions.
+(2) This clause applies despite clause 9(7) of Schedule 1 of the Regulations, but nothing in this clause prevents the FMA from exercising any power in relation to the licence.
+
+### 69 Governance requirements for PIE call fund units, PIE term fund units, and bank notice products that are specified units
+(1) This clause applies to a security if, immediately before the commencement of this clause, clause 19 of Schedule 1 of the Regulations applies to the security.
+(2) Clauses 20(1), 21, 22, and 30 of this schedule do not apply to the security if clause 28 of Schedule 8 of the Regulations applies in respect of the managed investment scheme to which the security relates.
+
+### 70 Certain superannuation schemes that elect to be treated as registered
+If, immediately before the revocation of clause 30A of Schedule 1 of the Regulations, that clause applies to a scheme and to the interests in the scheme, that clause continues to apply to the scheme and the interests on and after that revocation.
