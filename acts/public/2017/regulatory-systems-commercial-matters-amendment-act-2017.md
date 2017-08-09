@@ -1,5 +1,5 @@
 # Regulatory Systems (Commercial Matters) Amendment Act 2017
-_Consolidation as at 2017-08-08_
+_Consolidation as at 2017-08-09_
 
 ### 1 Title
 This Act is the Regulatory Systems (Commercial Matters) Amendment Act 2017.
