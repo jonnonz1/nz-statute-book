@@ -759,7 +759,7 @@ Despite section 25 of the 2017 Act, in the period between the commencement of th
   (a) a reporting entity must comply with sections 40, 41, and 43 to 48 (as they read before the commencement of section 25 of the 2017 Act) (which relate to suspicious transaction reports); and
   (b) a reporting entity and any other person may rely on section 42 of the principal Act (as inserted by section 25 of the 2017 Act); and
   (c) a reporting entity must not comply with sections 39A, 41, and 43 to 48 (as inserted by section 25 of the 2017 Act); and
-  (d) for the purposes of giving effect to paragraphs (a) and (c), section 42 (as inserted by section 25 of the 2017 Act) and sections 139, 140, 140A, 142, 143, 144, 145, 146, 147, 148, 153, 154, and 154A (as amended or inserted by sections 50 to 49A of the 2017 Act) apply with any necessary modifications; and
+  (d) for the purposes of giving effect to paragraphs (a) and (c), section 42 (as inserted by section 25 of the 2017 Act) and sections 139, 140, 140A, 142, 143, 144, 145, 146, 147, 148, 153, and 154 (as amended or inserted by sections 50 to 61 of the 2017 Act) apply with any necessary modifications; and
   (e) subject to paragraphs (b) and (d), for the purposes of, and to the extent necessary for, giving effect to paragraphs (a) and (c), this Act (as it read before the enactment of the 2017 Act) continues in force.
 
 ### 6 Treatment of existing suspicious transaction reports
