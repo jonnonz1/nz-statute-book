@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-08-11_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -71,7 +71,7 @@ The purpose of this Act is to—
     (a) means a failure of the system to perform as intended in terms of accuracy, security, reliability, verifiability, or any other performance indicator; and
     (b) includes a permanent failure, a temporary failure, or the failure of the system on a particular occasion or in particular circumstances
   - **former Act** means the Road User Charges Act 1977
-  - **gross vehicle mass** , in relation to a RUC vehicle, has the same meaning as in Part 2 of the VDAM Rule 2002
+  - **gross vehicle mass** , in relation to a RUC vehicle, has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **GST** means goods and services tax payable under the Goods and Services Tax Act 1985
   - **heavy electric RUC vehicle** means a RUC vehicle with—
     (a) a gross vehicle mass of more than 3 500 kilograms; and
@@ -787,7 +787,9 @@ Following a vehicle inspection of a RUC vehicle, the vehicle inspector must repo
     (iv) in the case of invoices for fuel and maintenance in respect of the RUC vehicle or RUC vehicles, for a period of 6 years from the date of the invoice:
     (v) in the case of invoices relating to cartage by, or use of, the RUC vehicle or RUC vehicles, 6 years from the date of the invoice; and
   (c) produce the records for inspection if required by the RUC collector under section 66.
-(3) Records required to be kept under subsection (2) may not be used as evidence in a prosecution for a work time or logbook offence under the Land Transport Act 1998, except as provided for under Part 4B of the Land Transport Act 1998.
+(3) Records required to be kept under subsection (2)—
+  (a) may be used as evidence in a prosecution relating to compliance with requirements in relation to heavy vehicles or heavy traffic in the Land Transport Act 1998 or in regulations or rules made under that Act; but
+  (b) may not be used as evidence in a prosecution for a work time or logbook offence under the Land Transport Act 1998, except as provided for under Part 4B of that Act.
 (4) A person commits an offence if the person, without reasonable excuse, fails to comply with subsection (2).
 (5) A person who commits an offence against subsection (4) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $25,000:
@@ -984,6 +986,8 @@ The Governor-General may, by Order in Council, appoint the Agency as the RUC col
   (c) an owner or operator of a RUC vehicle that is registered under an alternative payment scheme.
 (3) Different rates of administration fees may be prescribed for different types or forms of RUC licence, different payment methods, or on any other differential basis.
 (4) Regulations made under subsection (1) may—
+  (aaa) provide for the fixing of fees (including a means by which they may be calculated and ascertained, or a rate at which they may be calculated or ascertained):
+  (aab) provide for the imposition by the person to whom the fees are payable of reasonable charges in connection with the administration of any payment:
   (a) authorise the RUC collector to refund or waive administration fees in any particular case or class of case:
   (b) prescribe the recipient to whom administration fees are payable under this Act.
 (5) However, if there is no prescribed recipient to whom administration fees are to be paid, administration fees must be paid into a Crown bank account.
