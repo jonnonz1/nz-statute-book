@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2017-08-11_
 
 > Title
 
@@ -901,7 +901,7 @@ Except as otherwise expressly provided in this Act, this Act shall apply to the 
 The Secretary, the Agency and every local authority shall upon request by any of them supply such information as is requested for the purposes of enabling the Secretary, the Agency or the local authority to perform any of its functions, duties, or powers under this Act.
 
 ### 109 Penalty for breach of bylaws
-(1) Every person who commits a breach of any bylaw made or deemed to have been made under this Act is liable to a fine not exceeding $500.
+(1) Every person who commits a breach of any bylaw made or deemed to have been made under this Act is liable to a fine not exceeding $1,000.
 (2) Where a person commits a continuing breach of any bylaw, then, notwithstanding anything in any other Act, the District Court, on application by the Agency or by a territorial authority where the bylaw was made by the territorial authority acting pursuant to a delegation under section 62, may grant an injunction restraining the further continuance of the breach by that person.
 (3) An injunction may be granted under subsection (2),—
   (a) notwithstanding that proceedings for the offence constituted by the breach have not been taken; or
