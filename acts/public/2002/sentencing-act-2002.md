@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-08-11_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -2774,7 +2774,7 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 ### 128 Confiscation of motor vehicle
 (1) This section applies if a person is convicted of any of the following offences:
   (a) an offence punishable by imprisonment for a term of more than 12 months, or by imprisonment for life:
-  (b) an offence against any of the provisions of sections 35(1)﻿(a), 35(1)﻿(b), 36A(1)﻿(a) or (c), 38(1), 39(1), 52(1)﻿(aa), 52(1)﻿(c) (but only in relation to failing to stop in accordance with section 114(2) or failing to give particulars in accordance with section 114(3)), or 56 to 60 of the Land Transport Act 1998 (which relate to driving offences).
+  (b) an offence against any of the provisions of sections 35(1)﻿(a), 35(1)﻿(b), 36A(1)﻿(a) or (c), 38(1), 39(1), 52(6), 52A(1), or 56 to 60 of the Land Transport Act 1998 (which relate to driving offences).
 (2) A court may exercise the power in subsection (3) if a person is convicted of an offence referred to in subsection (1) and the court by or before which the offender is convicted is satisfied—
   (a) that a motor vehicle—
     (i) was used to commit or facilitate the commission of the offence, whether or not the offender was the driver or person in charge; or
@@ -2792,12 +2792,12 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
   (c) the nature and extent of the offender's interest, or, as the case requires, the interest of the substitute for the offender, in the motor vehicle, and the nature and extent of any other person's interest in it:
   (d) any other considerations that the court thinks fit.
 
-### 129 Confiscation of motor vehicle after second offence
+### 129 Confiscation of motor vehicle after subsequent offence
 (1) This section applies if,—
-  (a) on or after 26 July 1996, a person commits an offence (the first offence) against any of sections 32(1)﻿(a) or (b), 35(1)﻿(a) or (b), 36(1), 36AA, 36A(1)﻿(a) or (c), 39(1), 56(1) or (2), 57A(1), 58(1), 60(1), 61(1) or (2), or 62(1) of the Land Transport Act 1998 (which relate to driving offences) or section 171 of the Crimes Act 1961 (but only where the manslaughter involved the use of a motor vehicle); and
-  (b) within 4 years after the date of the commission of that offence, the person commits a further offence (the second offence) against any of those provisions of the Land Transport Act 1998.
-(2) For the purpose of subsection (1), it does not matter whether or not the second offence is of the same kind as the first offence, but it must be an offence that arises from a different incident from the one that gave rise to the first offence.
-(3) If the court by or before which the offender is convicted of the second offence is satisfied that any motor vehicle owned by the offender or in which the offender has any interest was being driven by, or in the charge of, the offender at the material time, the court must order that the motor vehicle be confiscated.
+  (a) on or after 26 July 1996, a person commits an offence (the first offence) against any of sections 32(1)﻿(a) or (b), 35(1)﻿(a) or (b), 36(1), 36AA, 36A(1)﻿(a) or (c), 39(1), 52(6), 52A(1), 56(1) or (2), 57A(1), 58(1), 60(1), 61(1) or (2), or 62(1) of the Land Transport Act 1998 (which relate to driving offences) or section 171 of the Crimes Act 1961 (but only where the manslaughter involved the use of a motor vehicle); and
+  (b) within 4 years after the date of the commission of that offence, the person commits a subsequent offence against any of those provisions of the Land Transport Act 1998.
+(2) For the purpose of subsection (1), it does not matter whether or not the subsequent offence is of the same kind as the first offence, but it must be an offence that arises from a different incident from the one that gave rise to the first offence.
+(3) If the court by or before which the offender is convicted of the subsequent offence is satisfied that any motor vehicle owned by the offender or in which the offender has any interest was being driven by, or in the charge of, the offender at the material time, the court must order that the motor vehicle be confiscated.
 (4) Despite subsection (3), the court must not make an order under that subsection if it will result in extreme hardship to the offender or undue hardship to any other person.
 (5) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 that corresponds to an offence specified in subsection (1) must be treated as a conviction for an offence specified in that subsection.
 
