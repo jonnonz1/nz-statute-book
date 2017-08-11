@@ -1,5 +1,5 @@
 # Land Transport (Road Safety and Other Matters) Amendment Act 2011
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2017-08-11_
 
 ### 1 Title
 This Act is the Land Transport (Road Safety and Other Matters) Amendment Act 2011.
@@ -28,15 +28,15 @@ This Act amends the Land Transport Act 1998.
 (5) Paragraph (c) of the definition of infringement offence in section 2(1) is amended by omitting Schedule 2 of the Transport Act 1962 and substituting regulations made under this Act.
 (6) Paragraph (c) of the definition of moving vehicle offence in section 2(1) is amended by omitting , or against the Transport Act 1962 or any regulations or bylaws made under that Act,.
 (7) The definition of parking warden in section 2(1) is amended by omitting section 7(1) of the Transport Act 1962 and substituting section 128D.
-(8) Paragraph (b)(iii) of the definition of passenger service in section 2(1) is amended by omitting made and substituting made; or.
+(8) Paragraph (b)﻿(iii) of the definition of passenger service in section 2(1) is amended by omitting made and substituting made; or.
 (9) Section 2(1) is amended by repealing the definition of positive evidential breath test and substituting the following definition:.
   - **positive** , in relation to an evidential breath test, means an evidential breath test that indicates,—
     (a) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, that the breath of the person who underwent the test contains alcohol; or
     (b) in the case of a person who is apparently younger than 20, that the breath of the person who underwent the test contains alcohol; or
     (c) in the case of any other person, that the proportion of alcohol in the breath of the person who underwent the test exceeds 400 micrograms of alcohol per litre of breath
 (10) The definition of qualifying bylaw in section 2(1) is amended by—
-  (a) omitting section 22AB(1)(b) and substituting section 22AB(1)(a); and
-  (b) omitting , section 72(1)(d) of the Transport Act 1962, section 684(1)(13) of the Local Government Act 1974,.
+  (a) omitting section 22AB(1)﻿(b) and substituting section 22AB(1)﻿(a); and
+  (b) omitting , section 72(1)﻿(d) of the Transport Act 1962, section 684(1)﻿(13) of the Local Government Act 1974,.
 (11) Paragraph (e) of the definition of road in section 2(1) is amended by omitting paragraph (d): and substituting paragraph (d); and.
 (12) The definition of speed limit in section 2(1) is amended by omitting the Transport Act 1962,.
 (13) Paragraph (b) of the definition of transport service in section 2(1) is amended by repealing subparagraph (i) and substituting the following subparagraph:.
@@ -85,7 +85,7 @@ This Act amends the Land Transport Act 1998.
   - **stationary vehicle offence** means—
     (a) parking in any portion of a road in breach of—
       (i) any Act or regulation; or
-      (ii) any bylaw made under section 22AB(1)(m) to (o):
+      (ii) any bylaw made under section 22AB(1)﻿(m) to (o):
     (b) any offence specified as a stationary vehicle offence in regulations made under this Act
   - **towage fee** , in respect of a parking offence, means an amount specified as the towage fee in respect of that offence by the Secretary by notice in the Gazette; and, for the purposes of this definition, the Secretary may prescribe different rates of towage fees in respect of different classes of persons, vehicles, products, or any other property or item, or on the basis of different times of use, or different distances, or on any other differential basis
   - **zero alcohol licence** means a licence that—
@@ -105,7 +105,7 @@ This Act amends the Land Transport Act 1998.
     (b) ends only after a continuous period of rest of at least 10 hours is taken.
 
 ### 5 Drivers to be licensed
-Section 5(1)(c) is amended by omitting a limited licence and substituting an alcohol interlock licence, a zero alcohol licence, or a limited licence.
+Section 5(1)﻿(c) is amended by omitting a limited licence and substituting an alcohol interlock licence, a zero alcohol licence, or a limited licence.
 
 ### 6 Drivers not to exceed specified alcohol limits
 (1) Section 11 is amended by repealing paragraph (c) and substituting the following paragraph:.
@@ -213,14 +213,14 @@ The following section is inserted after section 24:Authorised persons may reques
     (c) the chief executive, for the purpose of protecting a person who is, has been, or will be—
       (i) a fishery officer; or
       (ii) approved by the chief executive to undertake activities for the Ministry.
-  (2) The Agency may create and issue a driver licence for an assumed identity if the Agency receives a request under subsection (1)(a), (b), or (c).
+  (2) The Agency may create and issue a driver licence for an assumed identity if the Agency receives a request under subsection (1)﻿(a), (b), or (c).
   (3) New identity information is created by the Agency by omitting, amending, or adding to—
     (a) birth information, description information, name change information, or address information (including, if necessary, the creation of other identities to support the person's new identity information); and
     (b) operational or administrative information as necessary, so that it supports the information described in paragraph (a).
   (4) The Agency may omit, amend, or add information as necessary if the Agency receives notification that the driver licence is no longer required, or has been compromised, from—
-    (a) the Commissioner, in relation to the driver licence created as a result of a request under subsection (1)(a); or
-    (b) the Director of Security, in relation to new identity information created as a result of a request under subsection (1)(b); or
-    (c) the chief executive, in relation to the driver licence created as a result of a request under subsection (1)(c).
+    (a) the Commissioner, in relation to the driver licence created as a result of a request under subsection (1)﻿(a); or
+    (b) the Director of Security, in relation to new identity information created as a result of a request under subsection (1)﻿(b); or
+    (c) the chief executive, in relation to the driver licence created as a result of a request under subsection (1)﻿(c).
   (5) In this section,—
     - **chief executive** , , and have the same meanings as in section 2(1) of the Fisheries Act 1996
     - **Director of Security** , , and have the same meanings as in section 2(1) of the New Zealand Security Intelligence Service Act 1969
@@ -253,10 +253,10 @@ Section 30 is amended by repealing subsection (5) and substituting the following
     (d) in the case where a court authorises the issue of a limited licence, issue a limited licence to the person.
 
 ### 15 Interpretation
-Paragraph (e)(ii) of the definition of adverse decision in section 30V is repealed.
+Paragraph (e)﻿(ii) of the definition of adverse decision in section 30V is repealed.
 
 ### 16 Agency may grant exemptions or approve alternative fatigue management schemes
-Section 30ZA(1)(c) is amended by omitting all and substituting specified.
+Section 30ZA(1)﻿(c) is amended by omitting all and substituting specified.
 
 ### 17 New sections 30ZB and 30ZC substituted
 Sections 30ZB and 30ZC are repealed and the following sections are substituted:Application of subpartLimits on work time
@@ -283,14 +283,14 @@ Sections 30ZB and 30ZC are repealed and the following sections are substituted:A
   (4) To avoid doubt, the rules may extend the limits for a cumulative work day or period for a specified activity or service.
   (5) This section does not apply to a driver of an ambulance service, a fire brigade, or a rural fire party who is proceeding to or returning from an incident attended in response to a priority call specified in the rules.
 
-### 18 Contravention of section 5(1)(c)
-(1) Section 32(1)(b) is amended by omitting a limited licence and substituting an alcohol interlock licence, a zero alcohol licence, or a limited licence.
-(2) Section 32(2)(a) is amended by omitting prescribed for a driver licence or endorsement and substituting approved by the Agency.
+### 18 Contravention of section 5(1)﻿(c)
+(1) Section 32(1)﻿(b) is amended by omitting a limited licence and substituting an alcohol interlock licence, a zero alcohol licence, or a limited licence.
+(2) Section 32(2)﻿(a) is amended by omitting prescribed for a driver licence or endorsement and substituting approved by the Agency.
 
 ### 19 Contravention of section 7 or 22 involving injury or death
 (1) The heading to section 36 is amended by omitting or death.
-(2) Section 36(1)(a) is amended by omitting or the death of.
-(3) Section 36(1)(b) is amended by omitting or death of.
+(2) Section 36(1)﻿(a) is amended by omitting or the death of.
+(3) Section 36(1)﻿(b) is amended by omitting or death of.
 
 ### 20 New section 36AA inserted
 The following section is inserted after section 36:Contravention of section 7 by causing death of another person
@@ -304,14 +304,14 @@ The following section is inserted after section 36:Contravention of section 7 by
 
 ### 21 Contravention of section 22A
 (1) Section 36A is amended by repealing subsections (2) and (3) and substituting the following subsections:
-  (2) A person commits an indictable offence if the person commits an offence against subsection (1)(a) or (c) and by that act or omission causes—
+  (2) A person commits an indictable offence if the person commits an offence against subsection (1)﻿(a) or (c) and by that act or omission causes—
     (a) an injury to another person; or
     (b) the death of another person.
   (3) If a person is convicted of an indictable offence specified—
-    (a) under subsection (2)(a),—
+    (a) under subsection (2)﻿(a),—
       (i) the person is liable to imprisonment for a term not exceeding 5 years or a fine not exceeding $20,000; and
       (ii) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more:
-    (b) under subsection (2)(b),—
+    (b) under subsection (2)﻿(b),—
       (i) the person is liable to imprisonment for a term not exceeding 10 years or a fine not exceeding $20,000; and
       (ii) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
 (2) Section 36A is amended by adding the following subsection:
@@ -333,10 +333,10 @@ The following section is inserted after section 55:Offences concerning alcohol i
   (2) If this section applies,—
     (a) the person who holds the alcohol interlock licence to which the alcohol interlock device applies commits an offence; or
     (b) the person who tampered with, or attempted to tamper with, the alcohol interlock device or used the alcohol interlock device in contravention of an order made under section 65A(2) commits an offence.
-  (3) It is a defence to proceedings for an offence against subsection (2)(a) if the person who holds an alcohol interlock licence establishes that the person—
+  (3) It is a defence to proceedings for an offence against subsection (2)﻿(a) if the person who holds an alcohol interlock licence establishes that the person—
     (a) did not tamper with, or attempt to tamper with, the alcohol interlock device or use the alcohol interlock device in contravention of an order made under section 65A(2); and
-    (b) was not involved in the commission of the offence against subsection (2)(b).
-  (4) The maximum penalty on conviction for an offence against subsection (2)(a) or (b) is a fine not exceeding $3,000.
+    (b) was not involved in the commission of the offence against subsection (2)﻿(b).
+  (4) The maximum penalty on conviction for an offence against subsection (2)﻿(a) or (b) is a fine not exceeding $3,000.
 
 ### 25 Contravention of specified breath or blood alcohol limit by person younger than 20
 (1) Section 57 is amended by inserting the following subsection after subsection (1):
@@ -363,7 +363,7 @@ The following section is inserted after section 57:Contravention of specified br
   (c) if—
     (i) the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A; and
     (ii) the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken under section 72 or 73, contains evidence of the use of a qualifying drug.
-(2) Section 61(2A) is amended by inserting or (2)(c) after subsection (2)(b).
+(2) Section 61(2A) is amended by inserting or (2)﻿(c) after subsection (2)﻿(b).
 (3) Section 61(3) is amended by omitting or subsection (2) and substituting or (2) that causes bodily injury to another person.
 (4) Section 61 is amended by inserting the following subsection after subsection (3):
   (3AA) If a person is convicted of an offence against subsection (1) or (2) that causes the death of another person,—
@@ -374,7 +374,7 @@ The following section is inserted after section 57:Contravention of specified br
 
 ### 28 Defences
 Section 64 is amended by repealing subsection (3) and substituting the following subsection:
-  (3) In any proceedings against any person for an offence against section 52(1)(c) arising out of circumstances in which an enforcement officer exercised powers under section 121(2) and in respect of which a breath screening test or an evidential breath test or a blood test was undergone by the person, it is no defence that—
+  (3) In any proceedings against any person for an offence against section 52(1)﻿(c) arising out of circumstances in which an enforcement officer exercised powers under section 121(2) and in respect of which a breath screening test or an evidential breath test or a blood test was undergone by the person, it is no defence that—
     (a) the breath screening test or evidential breath test indicated that,—
       (i) in the case of a person apparently younger than 20, the person’s breath did not contain alcohol; or
       (ii) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, the person's breath did not contain alcohol; or
@@ -395,7 +395,7 @@ Section 64 is amended by repealing subsection (3) and substituting the following
 ### 30 New sections 65A and 65B inserted
 The following sections are inserted after section 65:Alcohol interlock requirements for repeat offences or certain first time offences involving use of alcoholMandatory zero alcohol requirements for repeat offences involving use of alcohol
   (1) This section applies if—
-    (a) a court convicts a person of an offence involving the use of alcohol against any of sections 56(1), 56(2), 57(1), 57(2), 58(1)(a), 60(1)(a) to (c), 61(1), 61(2), and 62(1)(a); and
+    (a) a court convicts a person of an offence involving the use of alcohol against any of sections 56(1), 56(2), 57(1), 57(2), 58(1)﻿(a), 60(1)﻿(a) to (c), 61(1), 61(2), and 62(1)﻿(a); and
     (b) either—
       (i) the person convicted has previously been convicted of such an offence committed within 5 years of the date of the commission of the offence being dealt with by the court; or
       (ii) the offence for which the person is convicted under paragraph (a) involves either or both of the following:
@@ -416,12 +416,12 @@ The following sections are inserted after section 65:Alcohol interlock requireme
   (3) The imposition of a mandatory disqualification under this section is subject to section 81.
   (4) A person who is subject to an order under subsection (2) and does not apply for an interlock licence is to be treated as a person with a licence of no effect.
   (1) This section applies if—
-    (a) a court convicts a person of an offence against any of sections 56(1), 56(2), 57(1), 57(2), 57AA, 58(1)(a), 60(1)(a) to (c), 61(1), 61(2), and 62(1)(a); and
+    (a) a court convicts a person of an offence against any of sections 56(1), 56(2), 57(1), 57(2), 57AA, 58(1)﻿(a), 60(1)﻿(a) to (c), 61(1), 61(2), and 62(1)﻿(a); and
     (b) the person convicted has previously been convicted of such an offence committed within 5 years of the date of the commission of the offence being dealt with by the court.
   (2) If this section applies, the court must make an order authorising the person to apply for a zero alcohol licence that has effect for a period of 3 years from the issue of the licence.
   (3) A person authorised under subsection (2) may apply for a zero alcohol licence,—
     (a) in the case of a person who is subject to 1 or more orders of disqualification, no earlier than the day after the end of the last period of disqualification to which the person is subject; or
-    (b) in the case of a person who is subject to an order made under section 65A(2)(b), when the Agency makes an order under section 100A(1).
+    (b) in the case of a person who is subject to an order made under section 65A(2)﻿(b), when the Agency makes an order under section 100A(1).
   (4) A person who is subject to an order under subsection (2) and does not apply for a zero alcohol licence is to be treated as a person with a licence of no effect under section 29(1).
 
 ### 31 Blood test fee
@@ -433,28 +433,28 @@ Section 67(1) is amended by omitting sections 56(2), 57(2), 57A, and substitutin
   (a) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, the person has undergone a breath screening test under section 68 and it appears to the officer that the breath of the person who underwent the test contains alcohol; or
   (aa) in the case of a person who is apparently younger than 20, the person has undergone a breath screening test under section 68 and it appears to the officer that the breath of the person who underwent the test contains alcohol; or
   (ab) in the case of any other person, the person has undergone a breath screening test under section 68 and it appears to the officer that the proportion of alcohol in the breath of the person who underwent the test exceeds 400 micrograms of alcohol per litre of breath; or
-(3) Section 69(1)(b) is repealed.
+(3) Section 69(1)﻿(b) is repealed.
 
 ### 33 Who must give blood specimen at places other than hospital or surgery
 (1) Section 72(4) is amended by omitting to be divided into 2 parts in accordance with section 74(1) and substituting for the purposes of the relevant blood specimen collecting procedure.
-(2) Section 72(4)(a) is amended by omitting to so and substituting to do so.
+(2) Section 72(4)﻿(a) is amended by omitting to so and substituting to do so.
 
 ### 34 Who must give blood specimen in hospital or surgery
-(1) Section 73(3)(a) is amended by inserting take a blood specimen or after may.
+(1) Section 73(3)﻿(a) is amended by inserting take a blood specimen or after may.
 (2) Section 73(4) is amended by omitting to be divided into 2 parts in accordance with section 74(1) and substituting for the purposes of the relevant blood specimen collecting procedure.
-(3) Section 73(5) is amended by omitting subsection (3)(b) and substituting subsection (3).
+(3) Section 73(5) is amended by omitting subsection (3)﻿(b) and substituting subsection (3).
 (4) Section 73(7) is amended by omitting analyst and substituting laboratory.
 
 ### 35 Procedure for dealing with blood specimens
 (1) Section 74 is amended by repealing subsections (1) and (2) and substituting the following subsection:
   (1) A blood specimen taken under section 72 or 73 must be dealt with in accordance with the relevant blood specimen collecting procedure.
 (2) Section 74(3) is amended by omitting both parts of the blood specimen to an approved analyst for the analysis of 1 of those parts and the custody of the other and substituting the blood specimen to an approved laboratory for its analysis and custody in accordance with the relevant blood specimen collecting procedure.
-(3) Section 74(4)(a) is amended by omitting both parts of the blood specimen to an approved analyst for the analysis of 1 of those parts and the custody of the other and substituting the blood specimen to an approved laboratory for its analysis and custody in accordance with the relevant blood specimen collecting procedure.
-(4) Section 74(4)(b) is amended by omitting give and substituting if, at the time the blood specimen is taken, there is more than 1 approved laboratory, give.
-(5) Section 74(4)(b) is amended by repealing subparagraph (i) and substituting the following subparagraph:.
+(3) Section 74(4)﻿(a) is amended by omitting both parts of the blood specimen to an approved analyst for the analysis of 1 of those parts and the custody of the other and substituting the blood specimen to an approved laboratory for its analysis and custody in accordance with the relevant blood specimen collecting procedure.
+(4) Section 74(4)﻿(b) is amended by omitting give and substituting if, at the time the blood specimen is taken, there is more than 1 approved laboratory, give.
+(5) Section 74(4)﻿(b) is amended by repealing subparagraph (i) and substituting the following subparagraph:.
   (i) identifying the approved laboratory to whom the blood specimen was (or is being) delivered or posted; and
-(6) Section 74(5)(b)(i) is amended by omitting analyst and substituting laboratory.
-(7) Section 74(5)(b) is amended by repealing subparagraph (ii) and substituting the following subparagraph:
+(6) Section 74(5)﻿(b)﻿(i) is amended by omitting analyst and substituting laboratory.
+(7) Section 74(5)﻿(b) is amended by repealing subparagraph (ii) and substituting the following subparagraph:
   (ii) that laboratory must send by registered post, personal delivery, or delivery by courier the blood specimen, held for the purpose, to the private analyst specified in the application.
 (8) Section 74(6) is amended by omitting analyst and substituting laboratory.
 (9) Section 74(8) is amended by omitting analyst and substituting laboratory.
@@ -473,41 +473,41 @@ Section 67(1) is amended by omitting sections 56(2), 57(2), 57A, and substitutin
   (c) the practitioner has reasonable grounds to suspect that the person is in the hospital or doctor’s surgery as a result of—
     (i) an accident or incident involving a motor vehicle:
     (ii) an injury or a medical condition arising subsequent to an accident or incident involving a motor vehicle; and
-(3) Section 75(4)(b) is amended by omitting both parts of the specimen (or both specimens) to a specified approved analyst and substituting the specimen to a specified approved laboratory.
+(3) Section 75(4)﻿(b) is amended by omitting both parts of the specimen (or both specimens) to a specified approved analyst and substituting the specimen to a specified approved laboratory.
 (4) Section 75(4) is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) that, if at the time the blood specimen was taken more than 1 approved laboratory exists, the practitioner or medical officer has notified the Commissioner in writing of the approved laboratory to which the specimen was delivered or posted.
-(5) Section 75(5)(a) is amended by omitting bottle and substituting container.
+(5) Section 75(5)﻿(a) is amended by omitting bottle and substituting container.
 (6) Section 75(6) is amended by omitting a part of.
 
 ### 37 Presumptions relating to blood specimens
-Section 76(1)(c) is amended by omitting bottle in each place where it appears and substituting in each case container.
+Section 76(1)﻿(c) is amended by omitting bottle in each place where it appears and substituting in each case container.
 
 ### 38 Presumptions relating to alcohol-testing
-Section 77(3)(a)(ii) is amended by omitting older and substituting older, or holds an alcohol interlock licence or a zero alcohol licence,.
+Section 77(3)﻿(a)﻿(ii) is amended by omitting older and substituting older, or holds an alcohol interlock licence or a zero alcohol licence,.
 
 ### 39 Circumstances in which certificate not admissible in proceedings
-(1) Section 79(2)(a) is amended by omitting 1 part of.
-(2) Section 79(2)(b) is amended by omitting that part of.
+(1) Section 79(2)﻿(a) is amended by omitting 1 part of.
+(2) Section 79(2)﻿(b) is amended by omitting that part of.
 (3) Section 79(3) is amended by omitting 1 part of.
-(4) Section 79(3)(b) is amended by omitting the part of in each place where it appears.
-(5) Section 79(4)(c) is amended by repealing subparagraph (i) and substituting the following subparagraph:.
+(4) Section 79(3)﻿(b) is amended by omitting the part of in each place where it appears.
+(5) Section 79(4)﻿(c) is amended by repealing subparagraph (i) and substituting the following subparagraph:.
   (i) in the case of a defendant who (at the time of the commission of the offence) was younger than 20 or held an alcohol interlock licence or a zero alcohol licence, no alcohol; or
 
 ### 40 Failure to keep or produce records or comply with conditions of exemption or approval
 (1) Section 79N(a) is amended by omitting a vehicle and substituting any vehicle.
-(2) Section 79N(a)(i) is amended by omitting ; and and substituting ; or.
-(3) Section 79N(a)(ii) is amended by omitting ; and and substituting ; or.
+(2) Section 79N(a)﻿(i) is amended by omitting ; and and substituting ; or.
+(3) Section 79N(a)﻿(ii) is amended by omitting ; and and substituting ; or.
 
 ### 41 Failure to comply with prescribed work time restrictions or rest time requirements
-(1) Section 79O(a)(i) is amended by omitting a vehicle and substituting any vehicle.
-(2) Section 79O(a)(i)(A) is amended by omitting ; and and substituting ; or.
-(3) Section 79O(a)(i)(B) is amended by omitting ; and and substituting ; or.
+(1) Section 79O(a)﻿(i) is amended by omitting a vehicle and substituting any vehicle.
+(2) Section 79O(a)﻿(i)﻿(A) is amended by omitting ; and and substituting ; or.
+(3) Section 79O(a)﻿(i)﻿(B) is amended by omitting ; and and substituting ; or.
 (4) Section 79O(b) is amended by omitting a vehicle and substituting any vehicle.
-(5) Section 79O(b)(i) is amended by omitting ; and and substituting ; or.
-(6) Section 79O(b)(ii) is amended by omitting ; and and substituting ; or.
+(5) Section 79O(b)﻿(i) is amended by omitting ; and and substituting ; or.
+(6) Section 79O(b)﻿(ii) is amended by omitting ; and and substituting ; or.
 (7) Section 79O(c) is amended by omitting a vehicle and substituting any vehicle.
-(8) Section 79O(c)(i) is amended by omitting ; and and substituting ; or.
-(9) Section 79O(c)(ii) is amended by omitting ; and and substituting ; or.
+(8) Section 79O(c)﻿(i) is amended by omitting ; and and substituting ; or.
+(9) Section 79O(c)﻿(ii) is amended by omitting ; and and substituting ; or.
 
 ### 42 Defences to work time offences
 Section 79P is amended by adding the following subsections:
@@ -523,13 +523,13 @@ The following section is inserted after section 79P:Matters to be taken into acc
 
 ### 44 Failure to discharge duties regarding logbooks
 (1) Section 79Q(a) is amended by omitting a vehicle and substituting any vehicle.
-(2) Section 79Q(a)(i) is amended by omitting ; and and substituting ; or.
-(3) Section 79Q(a)(ii) is amended by omitting ; and and substituting ; or.
+(2) Section 79Q(a)﻿(i) is amended by omitting ; and and substituting ; or.
+(3) Section 79Q(a)﻿(ii) is amended by omitting ; and and substituting ; or.
 
 ### 45 Offences and proceedings concerning logbooks
-(1) Section 79R(4)(a) is amended by omitting a vehicle and substituting any vehicle.
-(2) Section 79R(4)(a)(i) is amended by omitting ; and and substituting ; or.
-(3) Section 79R(4)(a)(ii) is amended by omitting ; and and substituting ; or.
+(1) Section 79R(4)﻿(a) is amended by omitting a vehicle and substituting any vehicle.
+(2) Section 79R(4)﻿(a)﻿(i) is amended by omitting ; and and substituting ; or.
+(3) Section 79R(4)﻿(a)﻿(ii) is amended by omitting ; and and substituting ; or.
 
 ### 46 New section 79V inserted
 The following section is inserted after section 79U:Search warrants in relation to offences against section 79T or 79U
@@ -555,7 +555,7 @@ Section 82(3) is repealed.
 
 ### 49 New licence or endorsement to be issued if disqualified driver qualifies for specified vehicle classes
 (1) The heading to section 84 is amended by omitting or endorsement.
-(2) Section 84(1)(a) is amended by omitting section 83(1) and substituting section 82A or 83(1).
+(2) Section 84(1)﻿(a) is amended by omitting section 83(1) and substituting section 82A or 83(1).
 (3) Section 84 is amended by repealing subsection (2) and substituting the following subsection:
   (2) If this section applies, then the Agency must issue a new licence to that person to authorise that person to drive the relevant class of motor vehicle and all lower classes of motor vehicles for which that person held a licence immediately before he or she was disqualified.
 
@@ -564,7 +564,7 @@ Section 82(3) is repealed.
 (2) Section 87 is amended by repealing subsection (1) and substituting the following subsections:
   (1) This section applies to the following orders:
     (a) an order disqualifying a person from holding or obtaining a driver licence:
-    (b) an order under section 65A(2)(b)(i) (authorising the person to apply for an alcohol interlock licence):
+    (b) an order under section 65A(2)﻿(b)﻿(i) (authorising the person to apply for an alcohol interlock licence):
     (c) an order under section 65B(2) (authorising the person to apply for a zero alcohol licence):
     (d) an order under section 99 (reducing a disqualification):
     (e) an order under section 105 (authorising the issue of a limited licence).
@@ -597,17 +597,7 @@ Section 87E is repealed and the following section substituted:Procedure for susp
   (4) A person whose driver licence has been suspended under subsection (3) may not hold or obtain a driver licence while the suspension is in force.
   (5) If the person does not hold a current driver licence, the person is disqualified from holding or obtaining a driver licence for a period of 3 months or, if longer than 3 months, the period calculated under section 90A.
   (6) A suspension or disqualification under this section begins on the date specified in the notice, which may not be earlier than the date on which the notice is served on the person.
-(2) The following section is inserted in its appropriate order:Calculation of demerit points
-  (1) The period of suspension or disqualification under section 90(3) or (5) must be calculated in accordance with the following formula:A = B × Cwhere—Ais the total period of suspension in monthsBis 3 monthsCis the number of lots of 100 demerit points that a person has accumulated.ExampleA person commits 4 infringements in the following order: 1) the first infringement attracts 20 demerit points; 2) the second infringement attracts 50 demerit points; 3) the third infringement attracts 35 demerit points; and 4) the fourth infringement attracts 35 demerit points. The person's total is 140 demerit points. The person has accumulated enough demerit points for the first 3 infringements to exceed the 100-demerit-point threshold (20 + 50 + 35 = 105). In accordance with the formula, the person is suspended for 3 months (A = B × C = 3 × 1 = 3). After the person has served the suspension, the 105 demerit points accumulated by the person for the first 3 infringements are cancelled, leaving the 35 demerit points of the fourth infringement recorded against the person (140 – 105 = 35). If the person subsequently commits 2 more infringements, each attracting 50 demerit points, the person would have a total of 135 demerit points (35 + 50 + 50 = 135), which would exceed the 100-demerit-point threshold and result in another 3-month suspension (A = B × C = 3 × 1 = 3), leaving no demerit points recorded against the person (135 – 135 = 0).
-  (2) For the purposes of the formula in subsection (1),—
-    (a) C must be determined as follows:
-      (i) the demerit points recorded against a person for an infringement must be treated as indivisible; and
-      (ii) the demerit points recorded against a person for each infringement must be added together in the order in which the person committed the infringements until a total of 100 demerit points is reached or exceeded; and
-    (b) if the total of demerit points in the group of infringements used to determine a lot of 100 demerit points exceeds 100 demerit points, the excess demerit points from that group of infringements may not be used to determine a subsequent lot of 100 demerit points.
-  (3) If a person accumulates additional demerit points that have not been included when calculating the period of suspension under subsection (1), and the additional demerit points would result in an additional period of suspension or disqualification, the Agency must, by another notice in writing given to the person, inform that person of the additional period of suspension or disqualification.
-  (4) The additional period of suspension or disqualification takes effect from whichever is the later of—
-    (a) the end of the existing period of suspension or disqualification; or
-    (b) the date the additional notice is served.
+(2)
 
 ### 54 Cancellation and reinstatement of demerit points
 Section 91 is amended by repealing subsection (2) and substituting the following subsection:
@@ -619,7 +609,7 @@ Section 92 is amended by repealing subsection (4) and substituting the following
     (a) within 21 days after being required to do so, pay to the person in charge of the course the fee usually charged for that course; and
     (b) within 90 days after being required to do so, complete the course; and
     (c) if the person has successfully completed the course, provide the court with evidence that verifies that the person has successfully completed the course.
-  (5) Despite subsection (4)(b), if a person is unable to complete an appropriate driving improvement course approved by the Agency owing to factors beyond the person's control, the court may—
+  (5) Despite subsection (4)﻿(b), if a person is unable to complete an appropriate driving improvement course approved by the Agency owing to factors beyond the person's control, the court may—
     (a) grant an extension as the court considers appropriate in the circumstances; or
     (b) suspend or cancel the order requiring the person to complete the course.
 
@@ -630,14 +620,14 @@ Section 92 is amended by repealing subsection (4) and substituting the following
 (4) Section 93(6) is amended by omitting prescribed and substituting approved.
 
 ### 57 Mandatory 28-day suspension of driver licence in certain circumstances
-(1) Section 95(1)(a)(i) is amended by inserting 57A, after 56(1) or (2),.
-(2) Section 95(1)(a)(ii)(B) is amended by omitting ; and and substituting ; or.
+(1) Section 95(1)﻿(a)﻿(i) is amended by inserting 57A, after 56(1) or (2),.
+(2) Section 95(1)﻿(a)﻿(ii)﻿(B) is amended by omitting ; and and substituting ; or.
 (3) Section 95 is amended by adding the following subsection:
   (9) For the purposes of this section, driver licence includes a foreign driver licence.
 
 ### 58 New section 95A inserted
 The following section is inserted after section 95:Extension of 28-day suspension period of driver licence under section 95
-  (1) A Police employee holding the office of constable and who is of or above the position of inspector may, after giving notice in writing to the person whose driver licence has been suspended, apply to a District Court Judge for an order extending the 28-day suspension period referred to in section 95(2)(b).
+  (1) A Police employee holding the office of constable and who is of or above the position of inspector may, after giving notice in writing to the person whose driver licence has been suspended, apply to a District Court Judge for an order extending the 28-day suspension period referred to in section 95(2)﻿(b).
   (2) An application must specify the circumstances that make it necessary to extend the 28-day suspension period.
   (3) The maximum number of applications that may be made under this section in respect of a suspended driver licence is 3.
   (4) A District Court may order that the driver licence be suspended for a further period not exceeding 28 days.
@@ -648,7 +638,7 @@ The following section is inserted after section 95:Extension of 28-day suspensio
 ### 59 Vehicle seized and impounded for 28 days in certain circumstances
 (1) Section 96(1) is amended by inserting the following paragraph after paragraph (b):.
   (ba) in the case of a person who is the holder of an alcohol interlock licence, the person operated that vehicle contrary to the conditions of that licence; or
-(2) Section 96(1)(d) is amended by repealing subparagraph (ii) and substituting the following subparagraph:
+(2) Section 96(1)﻿(d) is amended by repealing subparagraph (ii) and substituting the following subparagraph:
   (ii) had received convictions for 2 or more previous offences against any of sections 56(1) or (2), 57, 57AA, 57A, 58(1), 60(1), or 61(1) or (2) within the last 4 years.
 
 ### 60 Impoundment of vehicle used in transport service
@@ -695,16 +685,16 @@ Section 104(2) is amended by inserting or endorsement after driver licence.
     (b) refer the applicant to the right of appeal under section 106.
 
 ### 67 Enforcement officers may enforce transport legislation
-Section 113(1)(a) is amended by omitting the Transport Act 1962,.
+Section 113(1)﻿(a) is amended by omitting the Transport Act 1962,.
 
 ### 68 Enforcement officers may give directions prohibiting driving of vehicles
-(1) Section 115(1)(a) is amended by omitting Agency and substituting Minister.
-(2) Section 115(1)(b) is amended by omitting Agency and substituting Minister.
-(3) Section 115(3)(a) is amended by omitting Agency and substituting Minister.
+(1) Section 115(1)﻿(a) is amended by omitting Agency and substituting Minister.
+(2) Section 115(1)﻿(b) is amended by omitting Agency and substituting Minister.
+(3) Section 115(3)﻿(a) is amended by omitting Agency and substituting Minister.
 (4) Section 115(6) is amended by omitting Agency in each place where it appears and substituting in each case Minister.
 
 ### 69 Powers of entry
-Section 119(3)(d) is amended by omitting subparagraph (c) and substituting (c).
+Section 119(3)﻿(d) is amended by omitting subparagraph (c) and substituting (c).
 
 ### 70 Enforcement officer may immobilise vehicle, etc, if driver incapable of proper control of vehicle
 The heading to section 121 is amended by omitting if driver incapable of proper control of vehicle and substituting in specified circumstances.
@@ -729,19 +719,19 @@ The following sections are inserted after section 128C:Appointment of parking wa
       (i) enter, or authorise another person to enter, the vehicle for the purpose of moving it or preparing it for movement; and
       (ii) move, or authorise another person to move, the vehicle to any place where it does not constitute a traffic hazard.
   (2) Every person commits an offence and is liable to a fine not exceeding $1,000 who—
-    (a) fails to comply with any direction given under subsection (1)(b); or
-    (b) gives, in response to a direction given under subsection (1)(b), any information that the person knows to be false.
+    (a) fails to comply with any direction given under subsection (1)﻿(b); or
+    (b) gives, in response to a direction given under subsection (1)﻿(b), any information that the person knows to be false.
   (3) Every person to whom any direction is given under the authority of subsection (1) must comply with the direction, and no person may do any act that is for the time being forbidden by any direction given under the authority of subsection (1).
   (4) A person who is authorised by a parking warden to enter a vehicle for the purpose of moving it or preparing it for movement or to move a vehicle to a place where it does not constitute a traffic hazard may do so, but must do everything reasonably necessary to ensure that the vehicle is not damaged while doing so.
   (5) Every person commits an offence and is liable for a fine not exceeding $1,000 if the person—
-    (a) has possession of a vehicle as a result of its being moved under subsection (1)(d); and
+    (a) has possession of a vehicle as a result of its being moved under subsection (1)﻿(d); and
     (b) fails to deliver possession of the vehicle, as soon as practicable, to a person who produces satisfactory evidence, at any reasonable time, to the effect that the person was lawfully entitled to possession of the vehicle immediately before it was moved.
 
 ### 72 Owner liability for moving vehicle offences
 (1) The heading to section 133 is amended by adding and special vehicle lane offences.
 (2) Section 133(1) is amended by inserting or a special vehicle lane offence after vehicle offence.
 (3) Section 133(2) is amended by omitting it is to be conclusively presumed that and substituting in the absence of proof to the contrary, it must be presumed that.
-(4) Section 133(2)(a) is amended by omitting accordingly.
+(4) Section 133(2)﻿(a) is amended by omitting accordingly.
 (5) Section 133(3) is amended by inserting or a special vehicle lane offence after vehicle offence.
 (6) Section 133(5) is amended by inserting or a special vehicle lane offence after offence.
 
@@ -753,11 +743,11 @@ The following section is inserted after section 133:Owner liability for stationa
       (i) was registered as the owner, or one of the owners, of the vehicle involved in the offence in a register kept under section 18 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986; or
       (ii) was the registered person in respect of the vehicle under Part 17 of this Act:
     (c) the person who, at the time of the alleged offence, was lawfully entitled to possession of the vehicle involved in the offence (whether or not jointly with any other person).
-  (2) Subject to subsection (4), in any proceedings taken against a person under subsection (1)(b) or (c), in the absence of proof to the contrary, it must be presumed that—
+  (2) Subject to subsection (4), in any proceedings taken against a person under subsection (1)﻿(b) or (c), in the absence of proof to the contrary, it must be presumed that—
     (a) the person was the driver, person in charge, and user of the vehicle at the time of the alleged offence (whether or not the person is an individual); and
     (b) the acts or omissions of the driver, person in charge, or user of the vehicle at that time were the acts or omissions of the first-mentioned person.
   (3) It is a defence to proceedings taken against a person for a stationary vehicle offence if the person proves that another person has, by virtue of an order under the Summary Proceedings Act 1957, become liable to pay a fine or costs, or both, in respect of the offence.
-  (4) It is a defence to proceedings taken against a person under subsection (1)(b) or (c) if—
+  (4) It is a defence to proceedings taken against a person under subsection (1)﻿(b) or (c) if—
     (a) the person proves that, at the time the alleged offence was committed,—
       (i) he or she was not lawfully entitled to possession of the vehicle (either jointly with any other person or individually); or
       (ii) another person was unlawfully in charge of the vehicle; and
@@ -770,7 +760,7 @@ The following section is inserted after section 133:Owner liability for stationa
   (a) an offence against—
     (i) section 32 that involves driving while disqualified or contrary to the conditions of a licence, an alcohol interlock licence, a zero alcohol licence, or a limited licence; or
     (ii) section 44 that involves giving information that the person knows to be false or misleading; or
-(2) Section 136(3)(b) is amended by inserting the following subparagraph after subparagraph (ii):.
+(2) Section 136(3)﻿(b) is amended by inserting the following subparagraph after subparagraph (ii):.
   (iia) the chain of responsibility under Part 6C; or
 
 ### 75 Issue of infringement notice
@@ -778,7 +768,7 @@ Section 139 is amended by adding the following subsections:
   (6) If a parking warden has reason to believe that the user of a vehicle has committed an infringement offence that may be enforced by a parking warden under section 128E,—
     (a) the user of the vehicle may be proceeded against for the alleged offence under the Summary Proceedings Act 1957; or
     (b) the parking warden may issue an infringement notice in respect of the alleged offence.
-  (7) For the purposes of any proceedings in respect of an infringement offence that is an offence against a bylaw made under section 9(1)(e) or (g) of the Airport Authorities Act 1966, enforcement officer includes officers appointed by an airport authority.
+  (7) For the purposes of any proceedings in respect of an infringement offence that is an offence against a bylaw made under section 9(1)﻿(e) or (g) of the Airport Authorities Act 1966, enforcement officer includes officers appointed by an airport authority.
 
 ### 76 New section 139A inserted
 The following section is inserted after section 139:Towage fees if parking offences prosecuted1962 No 135 s 43A.
@@ -824,7 +814,7 @@ Section 151(a) is amended by inserting or the Governor-General after Minister.
 The following section is inserted after section 152:Governor-General may make ordinary rules1990 No 98 s 34A.
   (1) Despite anything in this Part, the Governor-General may, by Order in Council, on the recommendation of the Minister, make, amend, or revoke an ordinary rule for any of the purposes for which the Minister may make, amend, or revoke an ordinary rule under this Part.
   (2) The Minister must have regard to the criteria specified in section 164(2) before making a recommendation under subsection (1).
-  (3) Section 161(1)(a) and (2) do not apply to an ordinary rule made by Order in Council under subsection (1).
+  (3) Section 161(1)﻿(a) and (2) do not apply to an ordinary rule made by Order in Council under subsection (1).
   (4) An ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) must be published as if the Minister had made the rule or the amendment to the rule.
   (5) The Minister may amend or revoke an ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) as if the Minister had made the ordinary rule or the amendment to the ordinary rule under this Part.
   (6) An Order in Council made under subsection (1)—
@@ -889,11 +879,11 @@ Section 165 is repealed and the following section substituted:Incorporation by r
   (ia) specifying the criteria that—
     (i) a person must meet to install or remove an alcohol interlock device:
     (ii) a person with an alcohol interlock licence must meet to apply for the removal of an alcohol interlock device from the person's vehicle:
-  (ib) specifying the circumstances in which the Agency may authorise the removal of an alcohol interlock device, whether or not the relevant person has met any criteria specified under paragraph (ia)(ii):
-(2) Section 167(2)(a)(iv) is amended by inserting or contrary to an alcohol interlock licence or a zero alcohol licence after limited licence.
+  (ib) specifying the circumstances in which the Agency may authorise the removal of an alcohol interlock device, whether or not the relevant person has met any criteria specified under paragraph (ia)﻿(ii):
+(2) Section 167(2)﻿(a)﻿(iv) is amended by inserting or contrary to an alcohol interlock licence or a zero alcohol licence after limited licence.
 
 ### 88 Regulations relating to fees and charges for land transport
-Section 168(1)(a) is amended by omitting the Transport Act 1962,.
+Section 168(1)﻿(a) is amended by omitting the Transport Act 1962,.
 
 ### 89 New section 168C inserted
 The following section is inserted after section 168B:Piloting fees1962 No 135 s 78A.
@@ -903,11 +893,11 @@ The following section is inserted after section 168B:Piloting fees1962 No 135 s 
   (2) Any fee payable to the Commissioner under subsection (1) constitutes a debt due to the Crown and may be recovered accordingly in any court of competent jurisdiction.
 
 ### 90 Agency to maintain register of driver licences
-(1) Section 199(2)(a) is amended by inserting gender, after address,.
+(1) Section 199(2)﻿(a) is amended by inserting gender, after address,.
 (2) Section 199(2) is amended by inserting the following paragraph after paragraph (i):.
   (ia) information about any court order under this Act authorising the issue of an alcohol interlock licence or zero alcohol licence to the holder:
 (3) Section 199 is amended by repealing subsection (4) and substituting the following subsection:
-  (4) A person (being the licence holder or another person who obtains the consent of the licence holder) who applies to the Agency and pays the prescribed fee (if any), is entitled to information about the driver licence that is referred to in subsection (2)(b) or (p).
+  (4) A person (being the licence holder or another person who obtains the consent of the licence holder) who applies to the Agency and pays the prescribed fee (if any), is entitled to information about the driver licence that is referred to in subsection (2)﻿(b) or (p).
 (4) Section 199 (as amended by section 87(6) of the Human Tissue Act 2008) is amended by adding the following subsection:
   (12) For the purposes of this section, driver licence includes (but is not limited to) an alcohol interlock licence, a zero alcohol licence, and a limited licence.
 
@@ -985,13 +975,13 @@ The following regulations are revoked:
 | --- | --- | --- | --- |
 | 1A | 7(2) | Fee to issue zero alcohol licence | 66.40 |
 
-| 31(1)(c) | Person fails to produce zero alcohol licence | – | – | 400 | – |
+| 31(1)﻿(c) | Person fails to produce zero alcohol licence | – | – | 400 | – |
 | --- | --- | --- | --- | --- | --- |
 
 | 55A(2) | Person who tampers with, or attempts to tamper with, an alcohol interlock device, or uses an alcohol interlock device in contravention of an order made under section 65A of the Act | – | – | 1,000 | – |
 | --- | --- | --- | --- | --- | --- |
 
-| 31(1)(c) | Person fails to produce zero alcohol licence | 25 |
+| 31(1)﻿(c) | Person fails to produce zero alcohol licence | 25 |
 | --- | --- | --- |
 
 | 57AA(1) or (2) | Holder of alcohol interlock licence or zero alcohol licence contravenes specified breath or blood alcohol limit | 50 |
@@ -1047,12 +1037,12 @@ The following regulations are revoked:
 | more than 11 000 kg but not more than 12 000 kg | 6,500 |
 | more than 12 000 kg but not more than 13 000 kg | 8,000 |
 | more than 13 000 kg | 10,000 |
-| *If the infringement offence notice is issued in respect of an offence against section 23(1)(a) (being an offence of operating a motor vehicle in excess of the maximum weight specified in a distance licence or a supplementary licence or a time licence), the infringement fee may not exceed $3,000 or any lesser applicable amount that is specified in this table. |  |
+| *If the infringement offence notice is issued in respect of an offence against section 23(1)﻿(a) (being an offence of operating a motor vehicle in excess of the maximum weight specified in a distance licence or a supplementary licence or a time licence), the infringement fee may not exceed $3,000 or any lesser applicable amount that is specified in this table. |  |
 
 | Distance recorder offence | Infringement fee ($)* |
 | --- | --- |
 | Subject to section 23(3A), operating a motor vehicle, or being the owner of a motor vehicle on a road, when the reading of a distance recorder exceeds the maximum reading specified in the licence carried in the vehicle at the time of the offence (being an offence against section 23(1) or (2)). | An amount calculated at 3 times the road user charges payable for the particular vehicle type number as specified in Part 1 of Schedule 3. For the purposes of this calculation, the road user charges must be determined on the difference between the reading on the distance recorder and the maximum reading specified in the licence, in integral multiples of 1 000 kilometres. |
-| *If the infringement offence notice is issued in respect of an offence against section 23(1)(a) (being an offence of operating a motor vehicle where the reading on the distance recorder exceeds the maximum reading specified in the distance licence), the infringement fee may not exceed $3,000. |  |
+| *If the infringement offence notice is issued in respect of an offence against section 23(1)﻿(a) (being an offence of operating a motor vehicle where the reading on the distance recorder exceeds the maximum reading specified in the distance licence), the infringement fee may not exceed $3,000. |  |
 
 | 36AA | Causing death of another person |
 | --- | --- |
@@ -1077,34 +1067,34 @@ A person may not drive a motor vehicle, and a person in charge of a motor vehicl
   (a) the Land Transport Act 1998 or any regulations or rules made under that Act; or
   (b) these bylaws.
 
-| 6. | 3(1)(a) | Fee to reinstate a licence | 66.40 |
+| 6. | 3(1)﻿(a) | Fee to reinstate a licence | 66.40 |
 | --- | --- | --- | --- |
 
 ### 10 Offences parking wardens may enforce
-For the purposes of sections 128E(1)(b)(iii) and 167(1)(i) of the Act, the offences set out in Schedule 7 are offences that a parking warden may enforce.
+For the purposes of sections 128E(1)﻿(b)﻿(iii) and 167(1)﻿(i) of the Act, the offences set out in Schedule 7 are offences that a parking warden may enforce.
 
 | Government Roading Powers Act 1989: |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| 87(1)(a) | Acts in contravention of or fails to comply in any respect with any provision of section 82 of the Government Roading Powers Act 1989 (restrictions on use of motorways) | – | – | 250 | – |
+| 87(1)﻿(a) | Acts in contravention of or fails to comply in any respect with any provision of section 82 of the Government Roading Powers Act 1989 (restrictions on use of motorways) | – | – | 250 | – |
 | Land Transport Act 1998: |  |  |  |  |  |
 | 16B(a) | Using equipment in a motor vehicle that interferes with operation of speed measuring device | – | – | 50 | – |
 | 16B(b) | Possessing equipment in a motor vehicle that is designed to interfere with operation of speed measuring device | – | – | 50 | – |
 | 22A(3A) | Contravention, without reasonable excuse, of a bylaw made under section 22AB or 22AC | 1,000 | – | 150 | – |
-| 31(1)(a) | Driving without appropriate current driver licence | – | – | 400 | – |
-| 31(1)(b) | Driving contrary to conditions of driver licence | – | – | 400 | – |
-| 31(1)(c) | Failing to produce driver licence | – | – | 55 | – |
-| 34(1)(b) | Operating vehicle without displaying current evidence of vehicle inspection or certificate of loading, where the vehicle is a heavy motor vehicle or is used in a transport service | – | – | 600 | – |
-| 34(1)(b) | Operating vehicle without displaying current evidence of vehicle inspection or certificate of loading, where the vehicle is not a heavy motor vehicle or is not used in a transport service | – | – | 200 | – |
-| 36A(1)(b) | Without reasonable excuse, intentionally pouring on, placing on, or allowing to spill onto a road any petrol, oil, or diesel fuel, etc | – | – | 600 | – |
+| 31(1)﻿(a) | Driving without appropriate current driver licence | – | – | 400 | – |
+| 31(1)﻿(b) | Driving contrary to conditions of driver licence | – | – | 400 | – |
+| 31(1)﻿(c) | Failing to produce driver licence | – | – | 55 | – |
+| 34(1)﻿(b) | Operating vehicle without displaying current evidence of vehicle inspection or certificate of loading, where the vehicle is a heavy motor vehicle or is used in a transport service | – | – | 600 | – |
+| 34(1)﻿(b) | Operating vehicle without displaying current evidence of vehicle inspection or certificate of loading, where the vehicle is not a heavy motor vehicle or is not used in a transport service | – | – | 200 | – |
+| 36A(1)﻿(b) | Without reasonable excuse, intentionally pouring on, placing on, or allowing to spill onto a road any petrol, oil, or diesel fuel, etc | – | – | 600 | – |
 | 42(1) | Failing to secure load | – | – | 600 | – |
 | 44(1) | Making a false or misleading statutory declaration, etc | – | – | 750 | – |
 | 46(1) | Contravening requirements, conditions, or directions about traffic surveys | – | – | 500 | – |
 | 47(3) | Failing to report damage to other vehicles or property | – | – | 370 | – |
 | 50(1) | Failing to release vehicle towed away, in certain circumstances | – | – | 280 | – |
-| 52(1)(a) | Removing, obscuring, or rendering indistinguishable a notice directing that vehicle not be driven on road | – | – | 600 | – |
-| 52(1)(b) | Driving vehicle contrary to notice under section 115 | – | – | 600 | – |
-| 52(1)(c) or (d) | Failing to comply with direction or requirement concerning off-loading of heavy motor vehicle or securing of load on heavy motor vehicle | – | – | 750 | – |
-| 52(1)(c) | Failing to comply with direction to stop heavy motor vehicle or to drive heavy motor vehicle to weighing device | – | – | 1,000 | – |
+| 52(1)﻿(a) | Removing, obscuring, or rendering indistinguishable a notice directing that vehicle not be driven on road | – | – | 600 | – |
+| 52(1)﻿(b) | Driving vehicle contrary to notice under section 115 | – | – | 600 | – |
+| 52(1)﻿(c) or (d) | Failing to comply with direction or requirement concerning off-loading of heavy motor vehicle or securing of load on heavy motor vehicle | – | – | 750 | – |
+| 52(1)﻿(c) | Failing to comply with direction to stop heavy motor vehicle or to drive heavy motor vehicle to weighing device | – | – | 1,000 | – |
 | 53(1) | Obstruction, etc, in relation to inspection of vehicle required to have evidence of vehicle inspection or certificate of loading | – | – | 370 | – |
 | 79M | Failure to pay passenger service fares | – | – | 150 | – |
 | 79R | Person produces logbook with 1 to 5 omissions | – | – | 150 | – |
@@ -1150,7 +1140,7 @@ For the purposes of sections 128E(1)(b)(iii) and 167(1)(i) of the Act, the offen
 | 7 | Parking on a clearway | $60 |
 | 8 | Parking on a bus-only lane | $60 |
 | 9 | All other parking offences | $40 |
-| Towage fee: If expenses are incurred by an enforcement authority in respect of the movement or proposed movement under section 113(2)(c) or 128E of the Act of the vehicle involved in the offence (whether or not the vehicle is in fact moved), the infringement fee is the total of the amount specified above in respect of the offence and the amount of the appropriate towage fee (including any goods and services tax payable in respect of the towage fee). |  |  |
+| Towage fee: If expenses are incurred by an enforcement authority in respect of the movement or proposed movement under section 113(2)﻿(c) or 128E of the Act of the vehicle involved in the offence (whether or not the vehicle is in fact moved), the infringement fee is the total of the amount specified above in respect of the offence and the amount of the appropriate towage fee (including any goods and services tax payable in respect of the towage fee). |  |  |
 
 | 16B(a) | Using in a motor vehicle equipment that interferes with operation of speed measuring device | 25 |
 | --- | --- | --- |
@@ -1160,7 +1150,7 @@ For the purposes of sections 128E(1)(b)(iii) and 167(1)(i) of the Act, the offen
 
 | Provision | Brief description of offence |
 | --- | --- |
-| Section 34(1)(b) of the Land Transport Act 1998 | Operating motor vehicle without displaying current evidence of vehicle inspection |
+| Section 34(1)﻿(b) of the Land Transport Act 1998 | Operating motor vehicle without displaying current evidence of vehicle inspection |
 | Section 5 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 | Using or permitting on road unlicensed motor vehicle or motor vehicle that does not have registration plates affixed in prescribed manner |
 | Section 17 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 | Using or permitting on road motor vehicle that has unauthorised, deceptive, or obscured registration plates, or unauthorised licence |
 | Clause 8.7(2) of Land Transport (Road User) Rule 2004 | Failure to display light on parked goods-service vehicle |
