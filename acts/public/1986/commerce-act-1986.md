@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2017-08-15_
 
 > Title
 
@@ -16,7 +16,7 @@ The purpose of this Act is to promote competition in markets for the long-term b
   - **acquire** ,—
     (a) in relation to goods, includes obtain by way of gift, purchase, or exchange; and also includes take on lease, hire, or hire purchase:
     (b) in relation to services, includes accept:
-    (c) in relation to interests in land, includes obtain by way of gift, purchase, exchange, lease or licence
+    (c) in relation to interests in land, includes obtain by way of gift, purchase, exchange, lease, or licence
   - **arrive at** , in relation to an understanding, includes reach, and enter into
   - **assets** includes intangible assets
   - **associate member** means a member appointed under section 11(1)
@@ -27,14 +27,16 @@ The purpose of this Act is to promote competition in markets for the long-term b
     (b) in the course of which—otherwise than free of charge
       (i) goods or services are acquired or supplied; or
       (ii) any interest in land is acquired or disposed of—
+  - **cartel provision** means a provision described in section 30A(1)
   - **chairperson** means the chairperson of the Commission
   - **clearance** means a clearance given by the Commission under Part 5, or by the court on appeal under Part 6 against a determination of the Commission
+  - **collaborative activity** has the meaning given in section 31(4)
   - **Commission** —
     (a) means the Commerce Commission established under Part 1; or
     (b) for the purposes of determining any matter or class of matter specified in a direction under section 16(1), means the Division of the Commission specified in the direction in accordance with section 16(5)
   - **Commissioner** means a Commissioner appointed under section 74AA(1)
   - **court** means the High Court of New Zealand
-  - **covenant** means a convenant (including a promise not under seal) annexed to or running with an estate or interest in land (whether at law or in equity and whether or not for the benefit of other land); and has a corresponding meaning
+  - **covenant** means a covenant (including a promise not under seal) annexed to or running with an estate or interest in land (whether at law or in equity and whether or not for the benefit of other land); and has a corresponding meaning
   - **credit instrument** means any agreement (whether in writing or not) acknowledging an obligation to pay a sum or sums of money on demand or at any future time or times
   - **deputy chairperson** means the deputy chairperson of the Commission
   - **document** means a document in any form whether signed or initialled or otherwise authenticated by its maker or not; and includes—
@@ -54,7 +56,13 @@ The purpose of this Act is to promote competition in markets for the long-term b
       (iii) minerals, trees, and crops, whether on, under, or attached to land or not:
       (iv) gas and electricity:
       (v) to avoid doubt, water and computer software
+  - **international liner shipping service** —
+    (a) means a service exclusively for the carriage of goods by sea from a place in New Zealand to a place outside New Zealand, or from a place outside New Zealand to a place in New Zealand, that—
+      (i) operates at regular intervals on a fixed route or fixed routes in accordance with an advertised schedule; and
+      (ii) is supplied, as its capacity allows, to any paying customer; but
+    (b) excludes a service for the carriage of goods to or from a ship or the loading or unloading of a ship
   - **local authority** includes every local authority and every public body or other authority created by or pursuant to any public Act or local Act
+  - **market allocating** has the meaning given in section 30A(4)
   - **member of the Commission** —
     (a) means a member appointed under section 9(2); and
     (b) means the Telecommunications Commissioner appointed under section 9 of the Telecommunications Act 2001; and
@@ -64,7 +72,9 @@ The purpose of this Act is to promote competition in markets for the long-term b
   - **place** includes any premises, building, aircraft, ship, carriage, vehicle, or receptacle
   - **prescribed** means prescribed by regulations under this Act or by the Commission
   - **price** , includes valuable consideration in any form, whether direct or indirect; and includes any consideration that in effect relates to the acquisition or supply of goods or services or the acquisition or disposition of any interest in land, although ostensibly relating to any other matter or thing
+  - **price fixing** has the meaning given in section 30A(2)
   - **provision** , in relation to an understanding or arrangement, means any matter forming part of or relating to the understanding or arrangement
+  - **restricting output** has the meaning given in section 30A(3)
   - **services** includes any rights (including rights in relation to, and interests in, real or personal property), benefits, privileges, or facilities that are or are to be provided, granted, or conferred in trade; and, without limiting the generality of the foregoing, also includes the rights, benefits, privileges, or facilities that are or are to be provided, granted, or conferred under any of the following classes of contract:but does not include rights or benefits in the form of the supply of goods or the performance of work under a contract of service
     (a) a contract for, or in relation to,—
       (i) the performance of work (including work of a professional nature), whether with or without the supply of goods; or
@@ -105,7 +115,7 @@ The purpose of this Act is to promote competition in markets for the long-term b
 (3) Where any provision of this Act is expressed to render a provision of a contract or a covenant unenforceable if the provision of the contract or the covenant has or is likely to have a particular effect, that provision of this Act applies in relation to the provision of the contract or the covenant at any time when the provision of the contract or the covenant has or is likely to have that effect, notwithstanding that—
   (a) at an earlier time the provision of the contract or the covenant did not have that effect or was not regarded as likely to have that effect; or
   (b) the provision of the contract or the covenant will not or may not have that effect at a later time.
-(4) In this Act—
+(4) In this Act,—
   (a) a reference to the acquisition of goods includes a reference to the acquisition of property in, or rights in relation to, goods in pursuance of a supply of the goods:
   (b) a reference to the supply or acquisition of goods or services includes a reference to agreeing to supply or acquire goods or services:
   (c) a reference to the supply or acquisition of goods includes a reference to the supply or acquisition of goods together with other property or services or both:
@@ -113,14 +123,14 @@ The purpose of this Act is to promote competition in markets for the long-term b
   (e) a reference to the resupply of goods acquired from a person includes a reference to—
     (i) a supply of the goods to another person in an altered form or condition; and
     (ii) a supply to another person of other goods in which the goods have been incorporated.
-(5) For the purposes of this Act—
+(5) For the purposes of this Act,—
   (a) a provision of a contract, arrangement or understanding, or a covenant shall be deemed to have had, or to have, a particular purpose if—
     (i) the provision was or is included in the contract, arrangement or understanding, or the covenant was or is required to be given, for that purpose or purposes that included or include that purpose; and
     (ii) that purpose was or is a substantial purpose:
   (b) a person shall be deemed to have engaged, or to engage, in conduct for a particular purpose or a particular reason if—
     (i) that person engaged or engages in that conduct for that purpose or reason or for purposes or reasons that included or include that purpose or reason; and
     (ii) that purpose or reason was or is a substantial purpose or reason.
-(6) In this Act—
+(6) In this Act,—
   (a) a reference to a contract shall be construed as including a reference to a lease of, or a licence in respect of, any land or a building or part of a building, and shall be so construed notwithstanding any express reference in this Act to any such lease or licence:
   (b) a reference to making or entering into a contract, in relation to such a lease or licence, shall be read as a reference to granting or taking the lease or licence:
   (c) a reference to a party to a contract, in relation to such a lease or licence, shall be read as including a reference to any person bound by, or entitled to the benefit of, any provision contained in the lease or licence.
@@ -128,9 +138,9 @@ The purpose of this Act is to promote competition in markets for the long-term b
   (a) one of them is a body corporate of which the other is a subsidiary (within the meaning of section 5 of the Companies Act 1993); or
   (b) both of them are subsidiaries (within the meaning of that section) of the same body corporate; or
   (ba) both of them are entities referred to by any of the paragraphs (other than paragraph (e)) of the definition of transferor in section 2(1) of the Health Sector (Transfers) Act 1993; or
-  (c) both of them are interconnected with bodies corporate that, in accordance with paragraph (a) or paragraph (b), are interconnected—
+  (c) both of them are interconnected with bodies corporate that, in accordance with paragraph (a) or paragraph (b), are interconnected,—
 (7A) For the purposes of subsection (7)﻿(a) and (b), no body corporate may be regarded as a subsidiary (within the meaning of section 5 of the Companies Act 1993) of the Crown.
-(8) For the purposes of this Act—
+(8) For the purposes of this Act,—
   (a) any contract or arrangement entered into, or understanding arrived at by an association or body of persons, shall be deemed to have been entered into or arrived at by all the persons who are members of the association or body:
   (b) any recommendation made by an association or body of persons to its members or to any class of its members shall, notwithstanding anything to the contrary in the constitution or rules of the association or body of persons, be deemed to be an arrangement made between those members or the members of that class and between the association or body of persons and those members or the members of that class.
 (9) Nothing in subsection (8) applies to—
@@ -138,7 +148,7 @@ The purpose of this Act is to promote competition in markets for the long-term b
   (b) to any member of an association or body of persons who establishes that he had no knowledge and could not reasonably have been expected to have had knowledge of the contract, arrangement, or understanding.
 
 ### 3 Certain terms defined in relation to competition
-(1) In this Act competition means workable or effective competition.
+(1) In this Act, competition means workable or effective competition.
 (1A) Every reference in this Act, except the reference in section 36A(2)(b) and (c), to the term market is a reference to a market in New Zealand for goods or services as well as other goods or services that, as a matter of fact and commercial common sense, are substitutable for them.
 (1B) The reference in section 36A(2)(b) to the term market, in relation to a market in Australia, is a reference to a market in Australia for goods or services as well as other goods or services that, as a matter of fact and commercial common sense, are substitutable for them.
 (1C) The reference in section 36A(2)(c) to the term market in relation to a market in New Zealand and Australia, is a reference to a market in New Zealand and Australia for goods or services as well as other goods or services that, as a matter of fact and commercial common sense, are substitutable for them.
@@ -162,10 +172,13 @@ The purpose of this Act is to promote competition in markets for the long-term b
 ### 3A Commission to consider efficiency
 Where the Commission is required under this Act to determine whether or not, or the extent to which, conduct will result, or will be likely to result, in a benefit to the public, the Commission shall have regard to any efficiencies that the Commission considers will result, or will be likely to result, from that conduct.
 
-### 4 Application of Act to conduct outside New Zealand
+### 4 Application of Act
+(1AA) For the purposes of this Act,—
+  (a) a person engages in conduct in New Zealand if any act or omission forming part of the conduct occurs in New Zealand; and
+  (b) a person (person A) engages in conduct in New Zealand if another person (person B) engages in conduct in New Zealand, and the conduct of person B is deemed (by virtue of section 90) to be the conduct of person A.
 (1) This Act extends to the engaging in conduct outside New Zealand by any person resident or carrying on business in New Zealand to the extent that such conduct affects a market in New Zealand.
 (2) Without limiting subsection (1), section 36A extends to the engaging in conduct outside New Zealand by any person resident or carrying on business in Australia to the extent that such conduct affects a market, not being a market exclusively for services, in New Zealand.
-(3) Without limiting subsection (1), section 47 extends to the acquisition outside New Zealand by a person (whether or not the person is resident or carries on business in New Zealand) of the assets of a business or shares to the extent that the acquisition affects a market in New Zealand.
+(3)
 
 ### 5 Application of Act to the Crown
 (1) Subject to this section, this Act shall bind the Crown in so far as the Crown engages in trade.
@@ -180,12 +193,15 @@ Where the Commission is required under this Act to determine whether or not, or 
 ### 6A Special provisions relating to application of Act to the Crown in right of Australia and to Australian Crown corporations
 Section 36A, and Parts 6 and 7, in so far as they relate to a contravention of, or confer powers that may be exercised in relation to, that section, apply to—
   (a) the Crown in right of the Commonwealth of Australia, each of the States of the Commonwealth of Australia, and the Northern Territory and the Australian Capital Territory, in so far as the Crown engages in trade; and
-  (b) every body corporate that is an authority of the Commonwealth of Australia within the meaning of section 4 of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia in so far as it engages in trade; and
+  (b) every body corporate that is an authority of the Commonwealth of Australia within the meaning of section 4 of the Competition and Consumer Act 2010 of the Parliament of the Commonwealth of Australia in so far as it engages in trade; and
   (c) every body corporate established for a purpose of a State of the Commonwealth of Australia by or under a law of that State in so far as it engages in trade; and
   (d) every body corporate in which a State of the Commonwealth of Australia or in which a body corporate referred to in paragraph (c) has a controlling interest in so far as it engages in trade.
 
-### 6B Crown and Crown corporations not immune from jurisdiction in relation to certain provisions of Trade Practices Act 1974
-Neither the Crown nor a body corporate that is an instrument of the Crown in respect of the Government of New Zealand is immune, and neither the Crown nor such a body corporate may claim immunity, from the jurisdiction of the courts of New Zealand and Australia in relation to a contravention of section 46A of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia and in relation to Parts VI and XII of that Act in so far as they relate to a contravention of that section.
+### 6B Crown and Crown corporations not immune from jurisdiction in relation to certain provisions of Competition and Consumer Act 2010
+Neither the Crown nor a body corporate that is an instrument of the Crown in respect of the Government of New Zealand is immune, and neither the Crown nor such a body corporate may claim immunity, from the jurisdiction of the courts of New Zealand and Australia in relation to a contravention of section 46A of the Competition and Consumer Act 2010 of the Parliament of the Commonwealth of Australia and in relation to Parts VI and XII of that Act in so far as they relate to a contravention of that section.
+
+### 6C Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 6C Application of Evidence Amendment Act 1980
 [Repealed]
@@ -351,51 +367,80 @@ In addition to the functions conferred on the Commission by this Act, the Commis
   (b) the persons are interconnected bodies corporate.
 
 ### 29 Contracts, arrangements, or understandings containing exclusionary provisions prohibited
-(1) Subject to subsection (1A), for the purposes of this Act, a provision of a contract, arrangement, or understanding is an exclusionary provision if—
-  (a) it is a provision of a contract or arrangement entered into, or understanding arrived at, between persons of whom any 2 or more are in competition with each other; and
-  (b) it has the purpose of preventing, restricting, or limiting the supply of goods or services to, or the acquisition of goods or services from, any particular person or class of persons, either generally or in particular circumstances or on particular conditions, by all or any of the parties to the contract, arrangement, or understanding, or if a party is a body corporate, by a body corporate that is interconnected with that party; and
-  (c) the particular person or the class of persons to which the provision relates is in competition with 1 or more of the parties to the contract, arrangement or understanding in relation to the supply or acquisition of those goods or services.
-(1A) A provision of a contract, an arrangement, or an understanding that would, but for this subsection, be an exclusionary provision under subsection (1) is not an exclusionary provision if it is proved that the provision does not have the purpose, or does not have or is not likely to have the effect, of substantially lessening competition in a market.
-(2) For the purposes of subsection (1)﻿(a) and (c), a person is in competition with another person if that person or any interconnected body corporate is, or is likely to be, or, but for the relevant provision, would be or would be likely to be, in competition with the other person, or with an interconnected body corporate, in relation to the supply or acquisition of all or any of the goods or services to which that relevant provision relates.
-(3) No person shall enter into a contract, or arrangement, or arrive at an understanding, that contains an exclusionary provision.
-(4) No person shall give effect to an exclusionary provision of a contract, arrangement, or understanding.
-(5) Subsection (4) applies to an exclusionary provision of a contract or arrangement made, or understanding arrived at, whether before or after the commencement of this Act.
-(6) No exclusionary provision of a contract, whether made before or after the commencement of this Act, is enforceable.
+[Repealed]
 
-**Price fixing**
+**Cartel provisions**
 
-### 30 Certain provisions of contracts, etc, with respect to prices deemed to substantially lessen competition
-(1) Without limiting the generality of section 27, a provision of a contract, arrangement, or understanding shall be deemed for the purposes of that section to have the purpose, or to have or to be likely to have the effect, of substantially lessening competition in a market if the provision has the purpose, or has or is likely to have the effect of fixing, controlling, or maintaining, or providing for the fixing, controlling, or maintaining, of the price for goods or services, or any discount, allowance, rebate, or credit in relation to goods or services, that are—
-  (a) supplied or acquired by the parties to the contract, arrangement, or understanding, or by any of them, or by any bodies corporate that are interconnected with any of them, in competition with each other; or
-  (b) resupplied by persons to whom the goods are supplied by the parties to the contract, arrangement, or understanding, or by any of them, or by any bodies corporate that are interconnected with any of them in competition with each other.
-(2) The reference in subsection (1)﻿(a) to the supply or acquisition of goods or services by persons in competition with each other includes a reference to the supply or acquisition of goods or services by persons who, but for a provision of any contract, arrangement, or understanding would be, or would be likely to be, in competition with each other in relation to the supply or acquisition of the goods or services.
+### 30 Prohibition on entering into or giving effect to cartel provision
+No person may—
+  (a) enter into a contract or arrangement, or arrive at an understanding, that contains a cartel provision; or
+  (b) give effect to a cartel provision.
 
-### 31 Joint venture pricing exempt from application of section 30
-(1) For the purposes of this section—
-  (a) joint venture means an activity in trade—
-    (i) carried on by 2 or more persons, whether or not in partnership; or
-    (ii) carried on by a body corporate for the purpose of enabling 2 or more persons to carry on that activity jointly by means of their joint control, or by means of their ownership of shares in the capital, of that body corporate or an interconnected body corporate:
-  (b) a reference to a contract or arrangement entered into, or an understanding arrived at for the purposes of a joint venture shall, in relation to a joint venture by way of an activity carried on by a body corporate in terms of paragraph (a)﻿(ii), be read as including a reference to the memorandum and articles of association, rules, or other document that constitute or constitutes, or is or are to constitute, that body corporate.
-(2) Nothing in section 30 applies to a provision of a contract or arrangement entered into, or an understanding arrived at for the purposes of a joint venture, to the extent that the provision relates to—
-  (a) the joint supply by the parties to the joint venture, or the supply by the parties to the joint venture in proportion to their respective interests in the joint venture, of goods jointly produced by those parties in pursuance of the joint venture; or
-  (b) the joint supply by the parties to the joint venture of services in pursuance of the joint venture, or the supply by the parties to the joint venture in proportion to their respective interests in the joint venture, of services in pursuance of, and made available as a result of, the joint venture; or
-  (c) in the case of a joint venture carried on by a body corporate in terms of subsection (1)﻿(a)﻿(ii),—
-    (i) the supply by that body corporate of goods produced by it in pursuance of the joint venture; or
-    (ii) the supply by that body corporate of services in pursuance of the joint venture, not being services supplied on behalf of the body corporate by a person who is the owner of shares in the capital of the body corporate, or a body corporate that is interconnected with such a person.
+### 30A Meaning of cartel provision and related terms
+(1) A cartel provision is a provision, contained in a contract, arrangement, or understanding, that has the purpose, effect, or likely effect of 1 or more of the following in relation to the supply or acquisition of goods or services in New Zealand:
+  (a) price fixing:
+  (b) restricting output:
+  (c) market allocating.
+(2) In this Act, price fixing means, as between the parties to a contract, arrangement, or understanding, fixing, controlling, or maintaining, or providing for the fixing, controlling, or maintaining of,—
+  (a) the price for goods or services that any 2 or more parties to the contract, arrangement, or understanding supply or acquire in competition with each other; or
+  (b) any discount, allowance, rebate, or credit in relation to goods or services that any 2 or more parties to the contract, arrangement, or understanding supply or acquire in competition with each other.
+(3) In this Act, restricting output means preventing, restricting, or limiting, or providing for the prevention, restriction, or limitation of,—
+  (a) the production or likely production by any party to a contract, arrangement, or understanding of goods that any 2 or more of the parties to the contract, arrangement, or understanding supply or acquire in competition with each other; or
+  (b) the capacity or likely capacity of any party to a contract, arrangement, or understanding to supply services that any 2 or more parties to the contract, arrangement, or understanding supply or acquire in competition with each other; or
+  (c) the supply or likely supply of goods or services that any 2 or more parties to a contract, arrangement, or understanding supply in competition with each other; or
+  (d) the acquisition or likely acquisition of goods or services that any 2 or more parties to a contract, arrangement, or understanding acquire in competition with each other.
+(4) In this Act, market allocating means allocating between any 2 or more parties to a contract, arrangement, or understanding, or providing for such an allocation of, either or both of the following:
+  (a) the persons or classes of persons to or from whom the parties supply or acquire goods or services in competition with each other:
+  (b) the geographic areas in which the parties supply or acquire goods or services in competition with each other.
 
-### 32 Certain recommendations as to prices for goods and services exempt from application of section 30
-Nothing in section 30 applies to a provision of a contract, arrangement, or understanding, to the extent that the provision recommends or provides for the recommending of the price for, or a discount, allowance, rebate or credit in relation to goods or services where the parties to the contract, or arrangement, or understanding include not less than 50 persons (bodies corporate that are interconnected being counted as a single person) who supply or acquire, in trade, goods or services to which the provision applies.
+### 30B Additional interpretation relating to cartel provisions
+In this Act, in relation to a cartel provision,—
+  (a) if a person is a party to a contract, arrangement, or understanding, each of the person's interconnected bodies corporate is taken to be a party to the contract, arrangement, or understanding; and
+  (b) if a person (person A) or any of person A's interconnected bodies corporate supplies or acquires goods or services in competition with another person (person B) or any of person B's interconnected bodies corporate, person A is taken to supply or acquire those goods or services in competition with person B; and
+  (c) a reference to persons in competition with each other for the supply or acquisition of goods or services includes a reference to—
+    (i) persons who are, or are likely to be, in competition with each other in relation to the supply or acquisition of those goods or services; and
+    (ii) persons who, but for a cartel provision relating to those goods or services, would, or would be likely to, be in competition with each other in relation to the supply or acquisition of those goods or services.
 
-### 33 Joint buying and promotion arrangements exempt from application of section 30
-Nothing in section 30 applies to a provision of a contract, arrangement, or understanding that—
-  (a) relates to the price for goods or services to be collectively acquired, whether directly or indirectly, by parties to the contract, arrangement, or understanding; or
-  (b) provides for joint advertising of the price for the resupply of goods so acquired.
+### 30C Cartel provisions generally unenforceable
+(1) No cartel provision is enforceable.
+(2) However, nothing in subsection (1) affects the enforceability of a cartel provision in any contract to which section 31, 32, 33, 44A(4) and (5), or 44B applies.
+
+### 31 Exception for collaborative activity
+Exception for entering into cartel provision
+(1) Nothing in section 30(a) applies to a person in relation to a cartel provision if, at the time of entering into or arriving at the contract, arrangement, or understanding that contains the provision,—
+  (a) the person and 1 or more other parties to the contract, arrangement, or understanding are involved in a collaborative activity; and
+  (b) the cartel provision is reasonably necessary for the purpose of the collaborative activity.
+Exceptions for giving effect to cartel provision
+(2) Nothing in section 30(b) applies to a person in relation to a cartel provision if, at the time of giving effect to the cartel provision,—
+  (a) the person and 1 or more other parties to the contract, arrangement, or understanding that contains the provision are involved in a collaborative activity; and
+  (b) the cartel provision is reasonably necessary for the purpose of the collaborative activity.
+(3) Nothing in section 30(b) applies to a person in relation to a cartel provision that constitutes a restraint of trade if—
+  (a) the person and 1 or more other parties to the contract, arrangement, or understanding were involved in a collaborative activity that has ended; and
+  (b) the cartel provision was reasonably necessary for the purpose of the collaborative activity; and
+  (c) the collaborative activity did not end because the lessening of competition between any 2 or more parties became its dominant purpose.
+Meaning of collaborative activity
+(4) In this Act, collaborative activity means an enterprise, venture, or other activity, in trade, that—
+  (a) is carried on in co-operation by 2 or more persons; and
+  (b) is not carried on for the dominant purpose of lessening competition between any 2 or more of the parties.
+(5) The purpose referred to in subsection (4)﻿(b) may be inferred from the conduct of any relevant person or from any other relevant circumstance.
+
+### 32 Exception for vertical supply contracts
+(1) Nothing in section 30 applies to a person in relation to a cartel provision in a contract, if—
+  (a) the contract is entered into between a supplier or likely supplier of goods or services and a customer or likely customer of that supplier; and
+  (b) the cartel provision—
+    (i) relates to the supply or likely supply of the goods or services to the customer or likely customer, including to the maximum price at which the customer or likely customer may resupply the goods or services; and
+    (ii) does not have the dominant purpose of lessening competition between any 2 or more of the parties to the contract.
+(2) The purpose referred to in subsection (1)﻿(b)﻿(ii) may be inferred from the conduct of any relevant person or from any other relevant circumstance.
+
+### 33 Exception for joint buying and promotion agreements
+A provision in a contract, arrangement, or understanding does not have the purpose, effect, or likely effect of price fixing if the provision—
+  (a) relates to the price for goods or services to be collectively acquired, whether directly or indirectly, by some or all of the parties to the contract, arrangement, or understanding; or
+  (b) provides for joint advertising of the price for the resupply of goods or services acquired in accordance with paragraph (a); or
+  (c) provides for a collective negotiation of the price for goods or services followed by individual purchasing at the collectively negotiated price; or
+  (d) provides for an intermediary to take title to goods and resell or resupply them to another party to the contract, arrangement, or understanding.
 
 ### 34 Certain provisions of covenants with respect to prices deemed to substantially lessen competition
-(1) Without limiting the generality of section 28, a covenant shall be deemed for the purposes of that section to have the purpose, or to have or to be likely to have the effect, of substantially lessening competition in a market if the covenant has the purpose or has or is likely to have the effect of fixing, controlling, or maintaining, or providing for the fixing, controlling or maintaining of the price for goods or services, or any discount, allowance, rebate, or credit in relation to goods or services, that are—
-  (a) supplied or acquired by the persons giving the covenant or the persons entitled to the benefit of the covenant, or by any of them, or by bodies corporate that are interconnected with any of them, in competition with each other; or
-  (b) resupplied by persons to whom the goods are supplied by the persons giving the covenant or the persons entitled to the benefit of the covenant, or by any of them, or by bodies corporate that are interconnected with any of them, in competition with each other.
-(2) The reference in subsection (1)﻿(a) to the supply or acquisition of goods or services by persons in competition with each other includes a reference to the supply or acquisition of goods or services by persons who, but for the covenant, would be in competition with each other in relation to the supply or acquisition of the goods or services.
+[Repealed]
 
 **Practices substantially lessening competition conditional upon authorisation**
 
@@ -435,7 +480,7 @@ The existence of any of the purposes specified in section 36 or section 36A, as 
 
 ### 37 Resale price maintenance by suppliers prohibited
 (1) No person shall engage in the practice of resale price maintenance.
-(2) For the purposes of this section a person engages in the practice of resale price maintenance if that person (in this section referred to as the supplier) does any of the acts referred to in subsection (3).
+(2) For the purposes of this section, a person engages in the practice of resale price maintenance if that person (in this section referred to as the supplier) does any of the acts referred to in subsection (3).
 (3) The acts referred to for the purposes of subsection (2) are—
   (a) the supplier making it known to another person that the supplier will not supply goods to the other person unless the other person agrees not to sell those goods at a price less than a price specified by the supplier:
   (b) the supplier inducing, or attempting to induce, another person not to sell, at a price less than a price specified by the supplier, goods supplied to the other person by the supplier or by a third person who, directly or indirectly, has obtained the goods from the supplier:
@@ -493,7 +538,7 @@ For the purposes of section 38,—
   (b) during a period ending immediately before the supplier so acted, the supplier had been supplying goods of the kind withheld either to—
     (i) the person in respect of whom the contravention is alleged; or
     (ii) a person carrying on a similar business to that person; and
-  (c) during a period of 6 months immediately before the supplier so acted, the supplier became aware of a matter or circumstance capable of constituting a reason referred to in section 37(3)﻿(d) or (e)—
+  (c) during a period of 6 months immediately before the supplier so acted, the supplier became aware of a matter or circumstance capable of constituting a reason referred to in section 37(3)﻿(d) or (e),—
 (2) Nothing in subsection (1) applies in respect of terms imposed by a supplier that are disadvantageous or treatment that is less favourable than the supplier accords other persons if the terms or treatment consists only of a requirement by the supplier as to the time at which, or the form in which, payment was to be made or as to the giving of security to secure payment.
 
 ### 43 Statutory exceptions
@@ -553,6 +598,48 @@ Nothing in this Part applies—
 (4) A person is not able to exert a substantial degree of influence over the activities of another person for the purposes of subsection (3) by reason only of the fact that—
   (a) those persons are in competition in the same market; or
   (b) one of them supplies goods or services to the other.
+
+### 47A Declaration relating to acquisition by overseas person
+(1) The Commission may apply to the High Court for a declaration under this section if an overseas person acquires, whether directly or indirectly, a controlling interest in a New Zealand body corporate through the acquisition outside New Zealand of the assets of a business or shares.
+(2) The High Court may make a declaration that it is satisfied that—
+  (a) the overseas person has acquired a controlling interest in a New Zealand body corporate through the acquisition outside New Zealand of the assets of a business or shares; and
+  (b) the acquisition of that controlling interest has, or is likely to have, the effect of substantially lessening competition in a market in New Zealand.
+(3) A declaration may not be made in respect of an acquisition if—
+  (a) the application for the declaration is made more than 12 months after the date of the acquisition; or
+  (b) the Commission has given a clearance, or granted an authorisation, under Part 5 in respect of the acquisition (see section 69).
+(4) Nothing in this section limits the Commission's functions or powers under any other provision of this Act.
+(5) In this section and in sections 47B to 47D,—
+  - **controlling interest** means, in the context of an overseas person having a controlling interest in a New Zealand body corporate, that the overseas person—
+    (a) controls the composition of the board of the body corporate; or
+    (b) is in a position to exercise, or control the exercise of, more than 20% of the maximum number of votes that can be exercised at a meeting of the body corporate; or
+    (c) holds more than 20% of the issued shares of the body corporate, other than shares that carry no right to participate beyond an entitlement to a specified amount in a distribution of either profits or capital; or
+    (d) is entitled to receive more than 20% of every dividend paid on shares issued by the body corporate, other than shares that carry no right to participate beyond an entitlement to a specified amount in a distribution of either profits or capital; or
+    (e) is the holding company (as defined in section 5(2) of the Companies Act 1993) of the body corporate; or
+    (f) holds assets in circumstances where the holding of those assets results in the overseas person having effective control of the body corporate
+  - **New Zealand body corporate** means a body corporate (whether incorporated overseas or in New Zealand) that carries on business in New Zealand
+  - **overseas person** means a person, whether a body corporate or otherwise, that is neither resident nor carrying on business in New Zealand.
+
+### 47B Orders against New Zealand bodies corporate following declaration under section 47A
+(1) The Commission may apply to the High Court for an order under this section in respect of a New Zealand body corporate—
+  (a) at the same time as the Commission applies for a declaration under section 47A in relation to an overseas person who has a controlling interest in the body corporate; or
+  (b) at any time while that application is pending or after the declaration has been made.
+(2) If the High Court makes a declaration under section 47A in relation to an overseas person, it may make an order under this section requiring any New Zealand body corporate in which the person has a controlling interest to—
+  (a) cease carrying on business in New Zealand, in the market to which the declaration relates, no later than 6 months after the date of the declaration or any longer period specified by the court; or
+  (b) dispose of shares or other assets specified by the court; or
+  (c) take any other action (including disposing of shares or other assets) that the court considers, in all the circumstances, is consistent with the purpose of this Act.
+(3) Contravention of an order made under this section is a contravention of this section.
+
+### 47C Application by Commission for declaration or order
+(1) An application for a declaration under section 47A, or for an order under section 47B, may be made only by the Commission.
+(2) On making an application under section 47A, the Commission must give notice of the application to the relevant overseas person and New Zealand body corporate.
+(3) On making an application under section 47B, the Commission must give notice to any New Zealand body corporate to which the application relates.
+
+### 47D Revocation and variation of declarations and orders
+(1) The Commission, or the overseas person or New Zealand body corporate to which a declaration made under section 47A relates, may apply to the High Court to have the declaration revoked.
+(2) The Commission, or the overseas person or any New Zealand body corporate to which an order under section 47B relates, may apply to the High Court to have the order revoked or varied.
+(3) The High Court may, if it is satisfied that there has been a material change of circumstances, do either or both of the following:
+  (a) revoke a declaration:
+  (b) revoke or vary any order.
 
 ### 48 Bare transfer of market dominance excluded
 [Repealed]
@@ -1799,17 +1886,17 @@ The section 52P determinations that specify how information disclosure regulatio
 (2) A person who wishes to give effect to a provision of a contract or arrangement or understanding to which that person considers section 27 would apply, or might apply, may apply to the Commission for an authorisation to do so, and the Commission may grant an authorisation for that person to give effect to the provision of the contract or arrangement or understanding.
 (3) A person who wishes to require the giving of, or to give, a covenant to which that person considers section 28 would apply, or might apply, may apply to the Commission for an authorisation to do so, and the Commission may grant an authorisation for that person to require the giving of, or to give, the covenant.
 (4) A person who wishes to carry out or enforce a covenant to which that person considers section 28 would apply, or might apply, may apply to the Commission for an authorisation to do so, and the Commission may grant an authorisation for that person to carry out or enforce the covenant.
-(5) A person who wishes to enter into a contract or arrangement, or arrive at an understanding to which that person considers section 29 would apply, or might apply, may apply to the Commission for an authorisation for that person to enter into the contract or arrangement or arrive at the understanding.
-(6) A person who wishes to give effect to an exclusionary provision of a contract or arrangement or understanding to which that person considers section 29 would apply, or might apply, may apply to the Commission to do so, and the Commission may grant an authorisation for that person to give effect to the exclusionary provision of the contract or arrangement or understanding.
+(5)
+(6)
 (7) A person who wishes to engage in the practice of resale price maintenance to which that person considers section 37 would apply, or might apply, may apply to the Commission for an authorisation to do so, and the Commission may grant an authorisation for that person to engage in the practice.
 (8) A person who wishes to do an act to which that person considers section 38 would apply, or might apply, may apply to the Commission for an authorisation to do so, and the Commission may grant an authorisation for that person to do that act.
 
 ### 58A Effect of authorisation
-(1) While an authorisation under subsection (1) or subsection (5) of section 58 remains in force, as the case may be, nothing in section 27 or section 29, as the case may be, shall prevent the applicant from—
+(1) While an authorisation under section 58(1) remains in force, nothing in section 27, 30, or 30C prevents an applicant from—
   (a) entering into, or in accordance with the authorisation, giving effect to or enforcing any provision of the contract to which the authorisation relates; or
   (b) entering into, or in accordance with the authorisation, giving effect to the arrangement to which the authorisation relates; or
   (c) arriving at, or in accordance with the authorisation, giving effect to the understanding to which the authorisation relates.
-(2) While an authorisation under subsection (2) or subsection (6) of section 58 remains in force, as the case may be, nothing in section 27 or section 29, as the case may be, shall prevent the applicant from—
+(2) While an authorisation under section 58(2) remains in force, nothing in section 27, 30, or 30C prevents an applicant from—
   (a) in accordance with the authorisation, giving effect to or enforcing the contract to which the authorisation relates; or
   (b) in accordance with the authorisation, giving effect to the arrangement or understanding.
 (3) While an authorisation under subsection (3) of section 58 remains in force, nothing in section 28 shall prevent the applicant from—
@@ -1835,10 +1922,10 @@ The section 52P determinations that specify how information disclosure regulatio
 
 ### 59 Contracts or covenants subject to authorisation not prohibited under certain conditions
 (1) Despite anything in this Act, but subject to section 59B,—
-  (a) a contract to which section 27 or section 29 applies may be entered into if the requirements of subsection (2) are complied with:
+  (a) a contract to which section 27 applies may be entered into if the requirements of subsection (2) are complied with:
   (b) a covenant to which section 28 applies may be required to be given, or may be given, if the requirements of subsection (2) are complied with.
 (2) For the purposes of subsection (1), the requirements that must be met are,—
-  (a) in the case of a contract to which section 27 or section 29 applies, that the contract is subject to a condition that the provision, or exclusionary provision, as the case may be, does not come into force unless and until authorisation is granted to give effect to the provision, or exclusionary provision and that application must be made for that authorisation within 15 working days after the contract is entered into:
+  (a) in the case of a contract to which section 27 applies, that the contract is subject to a condition that the provision does not come into force unless and until authorisation is granted to give effect to it and that an application must be made for that authorisation within 15 working days after the contract is entered into:
   (b) in the case of a covenant to which section 28 applies, that the covenant is subject to the condition that it does not have effect unless and until authorisation is granted to give effect to it and that application must be made for that authorisation within 15 working days after the covenant is made.
 
 ### 59A When Commission may grant authorisation
@@ -1847,10 +1934,8 @@ The section 52P determinations that specify how information disclosure regulatio
   (b) to give effect to a provision of a contract or arrangement entered into, or an understanding arrived at, even though the applicant has already given, or is already giving, effect to the provision before the Commission makes a determination in respect of the application for that authorisation; or
   (c) to require the giving of, or to give, a covenant even though the covenant has been given before the Commission makes a determination in respect of the application for that authorisation; or
   (d) to do an act or engage in conduct referred to in section 37 or section 38 even though the applicant has already done the act or is already engaging in the conduct before the Commission makes a determination in respect of the application for that authorisation.
-(2) Subject to subsection (3), all of the parties to the contract, arrangement, or understanding must, unless and until authorisation is granted, discontinue—
-  (a) giving effect to the provision of the contract, arrangement, or understanding:
-  (b) engaging in conduct referred to in section 37 or section 38.
-(3) The parties to the contract, arrangement, or understanding may do any of the things set out in subsection (2) as long as any of the parties establishes to the satisfaction of the Commission that discontinuing any of those things would, or would be likely to, result in exceptional hardship to any of the parties.
+(2)
+(3)
 
 ### 59B Contraventions not prevented by granting of authorisation under section 59 or section 59A
 Nothing in section 59 or section 59A prevents conduct that occurred before an authorisation was granted in respect of it and that would otherwise have constituted a contravention of this Act from continuing to constitute a contravention.
@@ -1863,6 +1948,7 @@ Nothing in section 59 or section 59A prevents conduct that occurred before an au
   (c) give notice of the application to any other person who, in the Commission's opinion, is likely to have an interest in the application:
   (d) give public notice of the application in such manner as the Commission thinks fit.
 (3) Any person who has an interest in any application in respect of which a notice is given under subsection (2)﻿(d) may give written notice to the Commission of that person's interest and the reason therefor.
+(3A) In relation to any application, the Commission may consult with any person who, in the opinion of the Commission, is able to assist it to determine the application.
 (4) On receipt of an application that does not comply with subsection (1), the Commission may, at its discretion, either—
   (a) accept the application and take the steps referred to in subsection (2) in respect of that application; or
   (b) return the application to the person by or on whose behalf it was made; or
@@ -1876,21 +1962,18 @@ Nothing in section 59 or section 59A prevents conduct that occurred before an au
 (1) The Commission shall, in respect of an application for an authorisation under section 58, make a determination in writing—
   (a) granting such authorisation as it considers appropriate:
   (b) declining the application.
+(1A) If authorisation is not granted within 120 working days after the date on which the application is registered, the Commission is deemed to have declined the application, subject to any alternative timetable agreed between the Commission and the applicant.
 (2) Any authorisation granted pursuant to section 58 may be granted subject to such conditions not inconsistent with this Act and for such period as the Commission thinks fit.
 (3) The Commission shall take into account any submissions in relation to the application made to it by the applicant or by any other person.
 (4) The Commission shall state in writing its reasons for a determination made by it.
 (5) Before making a determination in respect of an application for an authorisation, the Commission shall comply with the requirements of section 62.
-(6) The Commission shall not make a determination granting an authorisation pursuant to an application under section 58(1) to (4) unless it is satisfied that—as the case may be, to which the application relates, will in all the circumstances result, or be likely to result, in a benefit to the public which would outweigh the lessening in competition that would result, or would be likely to result or is deemed to result therefrom.
+(6) The Commission shall not make a determination granting an authorisation pursuant to an application under section 58(1) to (4) unless it is satisfied that—as the case may be, to which the application relates, will in all the circumstances result, or be likely to result, in a benefit to the public which would outweigh the lessening in competition that would result, or would be likely to result therefrom.
   (a) the entering into of the contract or arrangement or the arriving at the understanding; or
   (b) the giving effect to the provision of the contract, arrangement or understanding; or
   (c) the giving or the requiring of the giving of the covenant; or
   (d) the carrying out or enforcing of the terms of the covenant—
 (6A) For the purposes of subsection (6), a lessening in competition includes a lessening in competition that is not substantial.
-(7) The Commission shall not make a determination granting an authorisation pursuant to an application under section 58(5) or (6) unless it is satisfied that—as the case may be, to which the application relates, will in all the circumstances result, or be likely to result, in such a benefit to the public that—
-  (a) the entering into of the contract or arrangement or the arriving at the understanding; or
-  (b) the giving effect to the exclusionary provision of the contract, or arrangement or understanding—
-  (c) the contract or arrangement or understanding should be permitted to be entered into or arrived at; or
-  (d) the exclusionary provision should be permitted to be given effect to.
+(7)
 (8) The Commission shall not make a determination granting an authorisation pursuant to an application under section 58(7) or (8) unless it is satisfied that—as the case may be, will in all the circumstances result, or be likely to result, in such a benefit to the public that—
   (a) the engaging in the practice of resale price maintenance to which the application relates; or
   (b) the act or conduct to which the application relates—
@@ -1904,13 +1987,11 @@ Nothing in section 59 or section 59A prevents conduct that occurred before an au
   (b) any person to whom a notice has been given pursuant to section 60(2)﻿(c):
   (c) any person who has given a notice pursuant to section 60(3) and who in the opinion of the Commission has such an interest in the application as to justify the Commission sending a copy of the draft determination to that person:
   (d) any other person who in the opinion of the Commission may assist the Commission in its determination of the application.
-(3) The applicant and each other person to whom a copy of the draft determination is sent shall notify the Commission within 10 working days after a date fixed by the Commission (not being a date earlier than the day on which the notice is sent) whether the applicant or other person wishes the Commission to hold a conference in relation to the draft determination.
-(4) If each of the persons to whom a draft determination was sent under subsection (2)—the Commission may make the determination at any time after the expiration of that period.
-  (a) notifies the Commission within the period of 10 working days prescribed in subsection (3) that the person does not wish the Commission to hold a conference in relation to the draft determination; or
-  (b) does not notify the Commission within that period that the person wishes the Commission to hold such a conference—
-(5) If any of the persons to whom a draft determination was sent under subsection (2) notifies the Commission, in writing, within the period of 10 working days prescribed in subsection (3) that he or she wishes the Commission to hold a conference in relation to the draft determination, the Commission must appoint a date, time, and place for the holding of the conference and give notice of the date, time, and place so appointed to each of the persons to whom a draft determination was sent under subsection (2).
-(6) The Commission may, of its own motion, determine to hold a conference in relation to the draft determination and must appoint a date, time, and place for the holding of the conference and give notice of the date, time, and place so appointed to each of the persons to whom the draft determination was sent under subsection (2).
-(7) Where the Commission is of the opinion that 2 or more applications for authorisations that are made by the same person, or by bodies corporate that are interconnected with each other, involve the same or substantially similar issues, the Commission may treat the applications as if they constitute a single application, and may prepare a single draft determination in relation to the applications and hold a single conference in relation to that draft determination.
+(3)
+(4)
+(5)
+(6) Before determining the application, the Commission may determine to hold a conference and, if so, must appoint a date, time, and place for the holding of the conference and give notice of the date, time, and place so appointed to each of the persons to whom the draft determination was sent under subsection (2).
+(7) Where the Commission is of the opinion that 2 or more applications for authorisations that are made by the same person, or by bodies corporate that are interconnected with each other, involve the same or substantially similar issues, the Commission may treat the applications as if they constitute a single application, and may prepare a single draft determination in relation to the applications and, if appropriate, hold a single conference in relation to that draft determination.
 
 ### 63 Commission may grant provisional authorisation
 [Repealed]
@@ -1931,15 +2012,40 @@ Nothing in section 59 or section 59A prevents conduct that occurred before an au
 (1) Subject to subsection (2), if at any time after the Commission has granted an authorisation under section 58 the Commission is satisfied that—the Commission may revoke or amend the authorisation or revoke the authorisation and grant a further authorisation in substitution for it.
   (a) the authorisation was granted on information that was false or misleading in a material particular; or
   (b) there has been a material change of circumstances since the authorisation was granted; or
-  (c) a condition upon which the authorisation was granted has not been complied with—
+  (c) a condition upon which the authorisation was granted has not been complied with,—
 (2) The Commission shall not revoke or amend an authorisation or revoke an authorisation and substitute a further authorisation pursuant to subsection (1) unless the person to whom the authorisation was granted and any other person who in the opinion of the Commission is likely to have an interest in the matter is given a reasonable opportunity to make submissions to the Commission and the Commission has regard to those submissions.
+
+### 65A Commission may give clearances relating to cartel provisions
+(1) A person who proposes to enter into a contract or arrangement, or arrive at an understanding, that contains, or may contain, a cartel provision may apply to the Commission for a clearance under this section.
+(2) The Commission must give a clearance under this section if it is satisfied that—
+  (a) the applicant and any other party to the proposed contract, arrangement, or understanding are or will be involved in a collaborative activity; and
+  (b) every cartel provision in the contract, arrangement, or understanding is reasonably necessary for the purpose of the collaborative activity; and
+  (c) entering into the contract or arrangement, or arriving at the understanding, or giving effect to any provision of the contract, arrangement, or understanding, will not have, or would not be likely to have, the effect of substantially lessening competition in a market.
+(3) For the purpose of subsection (2), it is not necessary for the Commission to determine whether a particular provision is in fact a cartel provision, providing there are reasonable grounds for believing it might be.
+(4) If clearance is not given within 30 working days after the date on which the application is registered in accordance with section 60(2)﻿(a), the Commission is deemed to have declined to give the clearance, subject to any alternative timetable agreed between the Commission and the person applying for clearance.
+
+### 65B Effect of clearance under section 65A
+The effect of a clearance given under section 65A is that—
+  (a) a party to the contract, arrangement, or understanding to which the clearance relates does not contravene section 27 or 30 by entering into the contract or arrangement, or arriving at the understanding; and
+  (b) a person does not contravene section 27 or 30 by giving effect to any cartel provision in the contract, arrangement, or understanding to which the clearance relates; and
+  (c) section 30C(1) does not apply to any cartel provision in the contract, arrangement, or understanding.
+
+### 65C Procedures relating to clearances
+(1) Section 60 (except subsections (2)﻿(c) and (3)) applies to an application for a clearance under section 65A in the same way as it applies to an application for an authorisation made under section 58.
+(2) Every clearance given under section 65A must be given by way of written notice to the applicant.
+
+### 65D Revocation of clearances
+(1) The Commission may revoke a clearance given under section 65A if it is satisfied that—
+  (a) the clearance was given on information that was false or misleading in a material particular; or
+  (b) there has been a material change of circumstances.
+(2) The Commission must not revoke a clearance unless the person to whom the clearance was given, and any other person who in the opinion of the Commission is likely to have an interest in the matter, is given a reasonable opportunity to make submissions to the Commission and the Commission has had regard to those submissions.
 
 **Business acquisitions**
 
 ### 66 Commission may give clearances for business acquisitions
 (1) A person who proposes to acquire assets of a business or shares may give the Commission a notice seeking clearance for the acquisition.
 (2) Subsections (1), (2)﻿(a) and (b), (4), and (5) of section 60 shall apply in respect of every notice given under subsection (1) as if the notice was an application under section 58.
-(3) Within 10 working days after the date of registration of the notice, or such longer period as the Commission and the person who gave the notice agree, the Commission shall either—
+(3) Within 40 working days after the date of registration of the notice, or such longer period as the Commission and the person who gave the notice agree, the Commission shall either—
   (a) if it is satisfied that the acquisition will not have, or would not be likely to have, the effect of substantially lessening competition in a market, by notice in writing to the person by or on whose behalf the notice was given, give a clearance for the acquisition; or
   (b) if it is not satisfied that the acquisition will not have, or would not be likely to have, the effect of substantially lessening competition in a market, by notice in writing to the person by or on whose behalf the notice was given, decline to give a clearance for the acquisition.
 (4) If the period specified in subsection (3) expires without the Commission having given a clearance for the acquisition and without having given a notice under subsection (3)﻿(b), the Commission shall be deemed to have declined to give a clearance for the acquisition.
@@ -1968,7 +2074,7 @@ Nothing in section 59 or section 59A prevents conduct that occurred before an au
 (5) The Commission may consult with any person who, in the opinion of the Commission, is able to assist it in making a determination under section 66 or section 67, as the case may be.
 
 ### 69 Effect of clearance or authorisation
-Nothing in section 27 or section 47 applies to the acquisition of assets of a business or shares if the assets or shares are acquired in accordance with a clearance or an authorisation and while the clearance or authorisation is in force.
+Nothing in section 27, 47, or 47A applies to the acquisition of assets of a business or shares if the assets or shares are acquired in accordance with a clearance or an authorisation and while the clearance or authorisation is in force.
 
 ### 69A Commission may accept undertakings
 (1) In giving a clearance or granting an authorisation under section 66 or section 67, the Commission may accept a written undertaking given by or on behalf of the person who gave a notice under section 66(1) or section 67(1), as the case may be, to dispose of assets or shares specified in the undertaking.
@@ -2141,7 +2247,7 @@ In accordance with this Part, the District Court shall hear and determine procee
   (f) an order granting the leave of the court to appeal to the Court of Appeal.
 
 ### 78 Lay members of High Court in certain cases
-(1) For the purposes of the exercise by the High Court of its jurisdiction and powers under sections 80 to 85 in respect of proceedings which relate to any of sections 27 to 29, 36, 36A, 37, 38, or 47, a Judge of the court may, of his own motion or on the application of any party to the proceedings, require any person or persons appointed as a lay member or lay members of the High Court pursuant to section 77, to hear and determine the proceedings as an additional lay member or additional lay members of the court.
+(1) For the purposes of the exercise by the High Court of its civil jurisdiction under section 47A, 47B, or 47D or sections 80 to 85 in respect of proceedings that relate to section 27, 28, 30, 36, 36A, 37, 38, 47, or 47B, a Judge of the court may, of his own motion or on the application of any party to the proceedings, require any person or persons appointed as a lay member or lay members of the High Court pursuant to section 77, to hear and determine the proceedings as an additional lay member or additional lay members of the court.
 (2) Where a lay member of the High Court is required pursuant to subsection (1) to hear and determine any proceedings as an additional lay member of the court, that person shall for the purposes of those proceedings be a lay member of the court.
 (3) The provisions of subsections (10) to (13) of section 77 shall apply in respect of any proceedings to which this section applies as if the proceedings to which those provisions refer were proceedings in the High Court under sections 80 to 85.
 (4) Notwithstanding anything in the foregoing provisions of this section, a Judge of the court sitting alone shall have jurisdiction—
@@ -2152,7 +2258,7 @@ In accordance with this Part, the District Court shall hear and determine procee
     (iv) an order in any proceedings where the matter in issue is substantially a question of law only:
     (v) an order made on the application of any party directing that any proceedings should be heard and determined by a Judge alone on the ground that the matter in issue is substantially a question of law only:
     (vi) an order granting the leave of the court to appeal to the Court of Appeal:
-  (b) to determine any question as to the application of section 30 arising in any proceedings:
+  (b)
   (c) to exercise the power to make an order directing the payment of a pecuniary penalty pursuant to section 80 or section 83:
   (d) to exercise the power to grant an injunction pursuant to section 81 or section 84:
   (e) to exercise the power to make an order for the payment of damages in proceedings under section 82 or section 84A:
@@ -2171,10 +2277,11 @@ In any proceedings under this Part for a pecuniary penalty—
 ### 79B Relationship between pecuniary penalties and criminal liability
 (1) Once criminal proceedings against a person for an offence under section 86B or 87B are determined, the High Court may not order the person to pay a pecuniary penalty in respect of the conduct, events, transactions, or other matters that were the subject of the criminal proceedings.
 (2) Once civil proceedings against a person for a pecuniary penalty under this Part are determined, the person may not be convicted of an offence under section 86B or 87B in respect of the conduct, events, transactions, or other matters that were the subject of the civil proceedings.
+(3) Any uncompleted proceedings for an order under this Act that a person pay a pecuniary penalty must be stayed if criminal proceedings are started or have already been started against the person for the same act or omission, or substantially the same act or omission, in respect of which the pecuniary penalty order is sought.
 
 **Restrictive trade practices**
 
-### 80 Pecuniary penalties
+### 80 Pecuniary penalties relating to restrictive trade practices
 (1) If the court is satisfied on the application of the Commission that a person—the court may order the person to pay to the Crown such pecuniary penalty as the court determines to be appropriate.
   (a) has contravened any of the provisions of Part 2; or
   (b) has attempted to contravene such a provision; or
@@ -2188,40 +2295,37 @@ In any proceedings under this Part for a pecuniary penalty—
   (b) in the case of a body corporate, the nature and extent of any commercial gain.
 (2B) The amount of any pecuniary penalty must not, in respect of each act or omission, exceed,—
   (a) in the case of an individual, $500,000; or
-  (b) in the case of a body corporate, the greater of—
-    (i) $10,000,000; or
-    (ii) either—
+  (b) in any other case, the greater of the following:
+    (i) $10 million:
+    (ii) either,—
       (A) if it can be readily ascertained and if the court is satisfied that the contravention occurred in the course of producing a commercial gain, 3 times the value of any commercial gain resulting from the contravention; or
-      (B) if the commercial gain cannot be readily ascertained, 10% of the turnover of the body corporate and all of its interconnected bodies corporate (if any).
+      (B) if the commercial gain cannot readily be ascertained, 10% of the turnover of the person and all its interconnected bodies corporate (if any) in each accounting period in which the contravention occurred.
+(2C) In proceedings relating to a contravention of section 30, if the defendant claims that an exception in section 31, 32, or 33 applies, it is for the defendant to prove, on the balance of probabilities, that the relevant exception applies.
 (3)
 (4)
 (5) Proceedings under this section may be commenced within 3 years after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered. However, no proceedings under this section may be commenced 10 years or more after the matter giving rise to the contravention.
 (6) Where conduct by any person constitutes a contravention of 2 or more provisions of Part 2, proceedings may be instituted under this Act against that person in relation to the contravention of any 1 or more of the provisions; but no person shall be liable to more than 1 pecuniary penalty under this section in respect of the same conduct.
 
-### 80A Body corporate not to indemnify certain persons in respect of pecuniary penalties
-(1) A body corporate must not indemnify a director, servant, or agent of the body corporate or an interconnected body corporate in respect of—
-  (a) liability for payment of a pecuniary penalty under section 80 that arises out of a provision of a contract, arrangement, or understanding that is deemed, under section 30, to have the purpose, or to have or to be likely to have the effect, of substantially lessening competition in a market; or
-  (b) costs incurred by that director, servant, or agent in defending or settling any proceeding relating to that liability.
+### 80A Restriction on indemnities relating to contraventions of section 30
+(1) A body corporate must not indemnify any director, employee, or agent, or former director, employee, or agent, of the body corporate or of any of its interconnected bodies corporate (person A) in respect of—
+  (a) any pecuniary penalty imposed on person A by the court under section 80 in respect of a contravention of section 30; or
+  (b) any costs incurred by person A in defending any civil proceedings in which the pecuniary penalty referred to in paragraph (a) is imposed.
 (2) An indemnity given in contravention of subsection (1) is void.
-(3) In this section,—
-  - **agent** includes a former agent
-  - **director** includes a former director
-  - **indemnify** includes relieve or excuse from liability, whether before or after the liability arises; and has a corresponding meaning
-  - **servant** includes a former servant.
+(3) In this section, indemnify includes relieve or excuse from liability, whether before or after the liability arises; and indemnity has a corresponding meaning.
 
 ### 80B Pecuniary penalties for contravention of section 80A
-(1) If the court is satisfied on the application of the Commission that a body corporate has acted in contravention of section 80A, the court may order the body corporate to pay to the Crown any pecuniary penalty that the court determines to be appropriate.
+(1) If the court is satisfied on the application of the Commission that a person has acted in contravention of section 80A, the court may order the person to pay to the Crown any pecuniary penalty that the court determines to be appropriate.
 (2) The amount of any pecuniary penalty must not, in respect of each act or omission, exceed 2 times the value of any indemnity given in contravention of section 80A.
 (3)
 (4)
 (5) Proceedings under this section may be commenced within 3 years after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered. However, no proceedings under this section may be commenced 10 years or more after the matter giving rise to the contravention.
 
 ### 80C Court may order certain persons to be excluded from management of body corporate
-The court may make an order that a person must not, without the leave of the court, be a director or promoter of, or in any way, either directly or indirectly, be concerned or take part in the management of, a body corporate for a period not exceeding 5 years as may be specified in the order, if the court is satisfied on the application of the Commission that—
-  (a) the person has entered into a contract or arrangement, or arrived at an understanding, containing a provision that is deemed by section 30(1) to have the purpose, or to have or to be likely to have the effect, of substantially lessening competition in a market:
-  (b) the person has given effect to a provision of a contract, arrangement, or understanding that is deemed by section 30(1) to have the purpose, or to have or to be likely to have the effect, of substantially lessening competition in a market:
-  (c) the person has entered into a contract or arrangement, or arrived at an understanding, that contains an exclusionary provision:
-  (d) the person has given effect to an exclusionary provision of a contract, arrangement, or understanding.
+The court may make an order that a person must not, without the leave of the court, be a director or promoter of, or in any way, either directly or indirectly, be concerned or take part in the management of, a body corporate for a period not exceeding 5 years as may be specified in the order, if the court is satisfied on the application of the Commission that the person has, in contravention of section 30,—
+  (a) entered into a contract or arrangement, or has arrived at an understanding, that contains a cartel provision; or
+  (b) given effect to a contract, arrangement, or understanding that contains a cartel provision.
+  (c)
+  (d)
 
 ### 80D Application for order under section 80C
 (1) The Commission must give not less than 10 days' notice of its intention to apply for an order under section 80C to the person against whom the order is sought.
@@ -2238,7 +2342,7 @@ The court may make an order that a person must not, without the leave of the cou
 (3)
 
 ### 81 Injunctions may be granted by court for contravention of Part 2
-The court may, on the application of the Commission or any other person, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute any of the following—
+The court may, on the application of the Commission or any other person, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute any of the following:
   (a) a contravention of any of the provisions of Part 2:
   (b) any attempt to contravene such a provision:
   (c) aiding, abetting, counselling, or procuring any other person to contravene such a provision:
@@ -2247,7 +2351,7 @@ The court may, on the application of the Commission or any other person, grant a
   (f) conspiring with any other person to contravene such a provision.
 
 ### 82 Actions for damages for contravention of Part 2
-(1) Every person is liable in damages for any loss or damage caused by that person engaging in conduct that constitutes any of the following—
+(1) Every person is liable in damages for any loss or damage caused by that person engaging in conduct that constitutes any of the following:
   (a) a contravention of any of the provisions of Part 2:
   (b) aiding, abetting, counselling, or procuring the contravention of such a provision:
   (c) inducing by threats, promises, or otherwise the contravention of such a provision:
@@ -2263,14 +2367,15 @@ The court may, on the application of the Commission or any other person, grant a
 
 **Business acquisitions**
 
-### 83 Pecuniary penalties
-(1) If the court is satisfied on the application of the Commission that a person—the court may order the person to pay to the Crown such pecuniary penalty as the court determines to be appropriate, not exceeding $500,000 in the case of a person not being a body corporate, or $5,000,000 in the case of a body corporate, in respect of each such act or omission.
-  (a) has contravened section 47:
-  (b) has attempted to contravene that section:
-  (c) has aided, abetted, counselled, or procured any other person to contravene that section:
-  (d) has induced, or attempted to induce, any other person, whether by threats or promises or otherwise, to contravene that section:
-  (e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by any other person of that section:
-  (f) has conspired with any other person to contravene that section,—
+### 83 Pecuniary penalties relating to business acquisitions
+(1) The court may, on the application of the Commission, order a person to pay a pecuniary penalty to the Crown if the court is satisfied that the person—
+  (a) has contravened section 47 or 47B; or
+  (b) has attempted to contravene either of those sections; or
+  (c) has aided, abetted, counselled, or procured any other person to contravene either of those sections; or
+  (d) has induced, or attempted to induce, any other person, whether by threats or promises or otherwise, to contravene either of those sections; or
+  (e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by any other person of either of those sections; or
+  (f) has conspired with any other person to contravene either of those sections.
+(1A) The amount of pecuniary penalty must not, in respect of each act or omission, exceed $500,000 in the case of an individual, or $5 million in any other case.
 (2) In determining an appropriate penalty under this section, the court shall have regard to all relevant matters, including—
   (a) the nature and extent of the act or omission:
   (b) the nature and extent of any loss or damage suffered by any person as a result of the act or omission:
@@ -2305,14 +2410,14 @@ The court may, on the application of the Commission or any other person, grant a
 
 ### 84A Actions for damages for contravention of Part 3
 (1) Every person is liable in damages for any loss or damage caused by that person engaging in conduct that constitutes any of the following:
-  (a) a contravention of section 47:
-  (b) aiding, abetting, counselling, or procuring the contravention of that section:
-  (c) inducing by threats, promises, or otherwise the contravention of that section:
-  (d) being in any way directly or indirectly, knowingly concerned in, or party to, the contravention of that section:
-  (e) conspiring with any other person in the contravention of that section.
+  (a) a contravention of section 47 or 47B:
+  (b) aiding, abetting, counselling, or procuring the contravention of section 47 or 47B:
+  (c) inducing by threats, promises, or otherwise the contravention of section 47 or 47B:
+  (d) being in any way directly or indirectly, knowingly concerned in, or party to, the contravention of section 47 or 47B:
+  (e) conspiring with any other person in the contravention of section 47 or 47B.
 (2) An action under subsection (1) may be commenced at any time within 3 years from the time when the cause of action arose.
 
-### 85 Court may order divestiture of assets or shares in respect of contravention of Part 3
+### 85 Court may order divestiture of assets or shares in respect of contravention of section 47
 (1) In any case where the court, on the application of the Commission, is satisfied that any person—it may, by order,—
   (a) has contravened section 47; or
   (b) has been found in any other proceedings under this Part to have contravened section 47,—
@@ -2367,7 +2472,7 @@ For the purposes of sections 85A and 85B, the court must not take into account a
   (a) failing to disclose information required to be disclosed:
   (b) failing to disclose information in the form or within the time required:
   (c) disclosing information under an information disclosure requirement that is false or misleading.
-(3) The amount of pecuniary penalty must not, in respect of each act or omission, exceed $500,000 in the case of an individual, or $5,000,000 in the case of a body corporate.
+(3) The amount of pecuniary penalty must not, in respect of each act or omission, exceed $500,000 in the case of an individual, or $5,000,000 in any other case.
 (4) In determining the amount of pecuniary penalty, the court must have regard to all relevant matters, including—
   (a) the nature and extent of the contravention; and
   (b) the circumstances in which the contravention took place (including whether the contravention was intentional, inadvertent, or caused by negligence); and
@@ -2383,7 +2488,7 @@ For the purposes of sections 85A and 85B, the court must not take into account a
 (1) A person commits an offence if—
   (a) the person, knowing that particular goods or services are subject to information disclosure regulation, intentionally contravenes any information disclosure requirement relating to those goods or services; or
   (b) the person is subject to an order under section 86A and fails to comply with the order by the date, or within the period, specified.
-(2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in the case of a body corporate.
+(2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in any other case.
 (3)
 
 ### 86C Orders where negotiate/arbitrate regulation applies
@@ -2409,7 +2514,7 @@ For the purposes of sections 85A and 85B, the court must not take into account a
   (b) means either or both of the following:
     (i) failing to comply with the requirements for prices, whether by charging a price for the goods or services that is higher than the maximum price permitted, or by receiving more revenue than is permitted, or in any other way:
     (ii) refusing or failing to comply with any quality standards required under the price-quality regulation.
-(3) The amount of pecuniary penalty must not, in respect of each act or omission, exceed $500,000 in the case of an individual, or $5,000,000 in the case of a body corporate.
+(3) The amount of pecuniary penalty must not, in respect of each act or omission, exceed $500,000 in the case of an individual, or $5,000,000 in any other case.
 (4) In setting the amount of pecuniary penalty, the court must take into account all of the following matters:
   (a) the nature and extent of the contravention:
   (b) the nature and extent of any loss or damage suffered by any person as a result of the contravention:
@@ -2429,7 +2534,7 @@ For the purposes of sections 85A and 85B, the court must not take into account a
 (1) A person commits an offence if—
   (a) the person, knowing that particular goods or services are subject to price-quality regulation, intentionally contravenes a price-quality requirement in respect of the goods or services; or
   (b) the person is subject to an order under section 87C(1)﻿(b) and fails to comply with the order.
-(2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in the case of a body corporate.
+(2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in any other case.
 (3)
 
 ### 87C Injunction and other orders relating to price-quality regulation
@@ -2469,16 +2574,19 @@ For the purposes of sections 85A and 85B, the court must not take into account a
 (6) Notwithstanding any enactment or rule of law, where a contract is entered into in contravention of this Act by reason that the contract contains a particular provision, or the contract contains a provision which if given effect to would contravene this Act, the enforceability of any other provision of the contract shall not be affected by the existence of that provision.
 (7) In this section, a reference to a contravention of this Act includes a reference to contravening the requirements of any type of regulation under Part 4.
 
-### 90 Conduct by servants or agents
-(1) Where, in proceedings under this Part in respect of any conduct engaged in by a body corporate, being conduct in relation to which any of the provisions of this Act applies, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, servant or agent of the body corporate, acting within the scope of his actual or apparent authority, had that state of mind.
-(2) Any conduct engaged in on behalf of a body corporate—shall be deemed, for the purposes of this Act, to have been engaged in also by the body corporate.
-  (a) by a director, servant, or agent of the body corporate, acting within the scope of his actual or apparent authority; or
-  (b) by any other person at the direction or with the consent or agreement (whether express or implied) of a director, servant, or agent of the body corporate, given within the scope of the actual or apparent authority of the director, servant or agent—
-(3) Where, in a proceeding under this Part in respect of any conduct engaged in by a person other than a body corporate, being conduct in relation to which a provision of this Act applies, it is necessary to establish the state of mind of the person, it is sufficient to show that a servant or agent of the person, acting within the scope of his actual or apparent authority, had that state of mind.
-(4) Any conduct engaged in on behalf of a person other than a body corporate—shall be deemed, for the purposes of this Act, to have been engaged in also by the first-mentioned person.
-  (a) by a servant or agent of the person acting within the scope of his actual or apparent authority; or
-  (b) by any other person at the direction or with the consent or agreement (whether express or implied) of a servant or agent of the first-mentioned person, given within the scope of the actual or apparent authority of the servant or agent—
-(5) A reference in this section to the state of mind of a person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the person's reasons for that intention, opinion, belief or purpose.
+### 90 Conduct by employees, agents, and others
+(1) In proceedings under this Part in respect of conduct engaged in by a person other than an individual (person A), if it is necessary to establish the state of mind of person A it is sufficient to show that a director, employee, or agent of person A, acting within the scope of the director’s, employee’s, or agent’s actual or apparent authority, had that state of mind.
+(2) Conduct by a person (person B) is deemed for the purposes of this Act also to be the conduct of a person other than an individual (person A) if, at the time of the conduct,—
+  (a) person B was a director, employee, or agent of person A, acting within the scope of person B’s actual or apparent authority; or
+  (b) person B was a person who was acting on the direction, or with the consent or agreement (express or implied), of a director, employee, or agent of person A who was acting within the scope of the director’s, employee’s, or agent’s actual or apparent authority.
+(3) In civil proceedings under this Part in respect of conduct engaged in by an individual (person C), if it is necessary to establish the state of mind of person C it is sufficient to show that an employee or agent of person C, acting within the scope of the employee’s or agent’s actual or apparent authority, had that state of mind.
+(4) In civil proceedings under this Part, conduct by a person (person B) is deemed for the purposes of this Act also to be the conduct of an individual (person C) if, at the time of the conduct,—
+  (a) person B was acting at the direction, or with the consent or agreement (express or implied), of person C; or
+  (b) person B was an employee or agent of person C and acting within the scope of person B’s actual or apparent authority; or
+  (c) person B was a person who was acting on the direction, or with the consent or agreement (express or implied), of an employee or agent of person C who was acting within the scope of the employee’s or agent’s actual or apparent authority.
+(5) A reference in this section to the state of mind of a person includes a reference to—
+  (a) the knowledge, intention, opinion, belief, or purpose of the person and the person's reasons for that intention, opinion, belief, or purpose; and
+  (b) the state of mind of a person outside New Zealand.
 
 **Appeals from determinations of Commission**
 
@@ -2493,13 +2601,17 @@ For the purposes of sections 85A and 85B, the court must not take into account a
 (2) Every such appeal shall be made by giving notice of appeal within 20 working days after the date of the determination appealed against or within such further time as the court may allow.
 
 ### 92 Persons entitled to appeal
-The following persons may exercise the right of appeal pursuant to section 91—
-  (a) in the case of an appeal against a determination of the Commission in relation to an application for an authorisation under section 58, the applicant and any person who participated in any conference held by the Commission under section 62 in relation to the authorisation:
+The following persons may exercise the right of appeal pursuant to section 91:
+  (a) in the case of an appeal against a determination of the Commission in relation to an application for an authorisation under section 58 or 67, the applicant and any other person who—
+    (i) has a direct and significant interest in the application; and
+    (ii) participated in the Commission's processes leading up to the determination:
   (b) in the case of an appeal against a determination of the Commission revoking or amending an authorisation pursuant to section 65(1) or revoking an authorisation and substituting a further authorisation pursuant to that subsection, the person to whom the authorisation was granted:
-  (c) in the case of an appeal against a determination of the Commission under section 66 or section 67 in relation to a notice seeking a clearance or an authorisation, as the case may be,—
-    (i) the person who sought the clearance or the authorisation; and
-    (ii) any person whose assets, or the shares in which, are proposed to be acquired pursuant to the clearance or authorisation; and
-    (iii) any person who participated in any conference held by the Commission under section 69B in relation to the clearance or authorisation:
+  (ba) in the case of an appeal against a determination of the Commission under section 65A,—
+    (i) the person who applied for the clearance; and
+    (ii) any other person who is a party to the contract, arrangement, or understanding to which the application for clearance relates:
+  (c) in the case of an appeal against a determination of the Commission under section 66 in relation to a notice seeking a clearance,—
+    (i) the person who sought the clearance; and
+    (ii) any person whose assets, or the shares in which, are proposed to be acquired pursuant to the clearance:
   (d) in the case of an appeal against a determination made under section 52P, any supplier or consumer (as defined in section 52C) of goods or services to which the determination relates:
   (e)
   (f) in the case of an appeal against a determination of a Commissioner under section 74A, any person against whom a cease and desist order was made.
@@ -2540,10 +2652,11 @@ In determining an appeal under section 91(1), the court may do any of the follow
 ## Part 7 — Miscellaneous provisions
 
 ### 98 Commission may require person to supply information or documents or give evidence
-Where the Commission considers it necessary or desirable for the purposes of carrying out its functions and exercising its powers under this Act, the Commission may, by notice in writing served on any person, require that person—
+(1) Where the Commission considers it necessary or desirable for the purposes of carrying out its functions and exercising its powers under this Act, the Commission may, by notice in writing served on any person, require that person—
   (a) to furnish to the Commission, by writing signed by that person or, in the case of a body corporate, by a director or competent servant or agent of the body corporate, within the time and in the manner specified in the notice, any information or class of information specified in the notice; or
   (b) to produce to the Commission, or to a person specified in the notice acting on its behalf in accordance with the notice, any document or class of documents specified in the notice; or
   (c) to appear before the Commission at a time and place specified in the notice to give evidence, either orally or in writing, and produce any document or class of documents specified in the notice.
+(2) For the purposes of subsection (1), the Commission’s powers under this Act include the power to investigate whether an exception or exemption from this Act (whether under this Act or any other enactment) applies to a person or to a person’s conduct.
 
 ### 98A Power to search
 (1) The Commission may, from time to time, authorise an employee of the Commission to search under a warrant issued under subsection (2) any place named in the warrant for the purpose of ascertaining whether a person has engaged in or is engaging in conduct that constitutes or may constitute a contravention of this Act, not being a contravention of section 99A.
@@ -2574,7 +2687,7 @@ The Commission may exercise any power under sections 98 and 98A notwithstanding 
 (1) Where the Commission considers it necessary or desirable for the purposes of carrying out its functions and exercising its powers under this Act in relation to section 36A, the Commission may by notice in writing served on any person who is ordinarily resident in Australia or who carries on business in Australia, require that person—
   (a) to furnish to the Commission, by writing signed by that person or, in the case of a body corporate, by a director or competent servant or agent of the body corporate, within the time and in the manner specified in the notice, any information or class of information specified in the notice; or
   (b) to produce to the Commission, or to a person specified in the notice acting on its behalf in accordance with the notice, any document or class of documents specified in the notice.
-(2) A person who is required to furnish information or a class of information or produce any document or class of documents to the Commission pursuant to this section complies with this section if that person furnishes the information or that class of information or produces the document or that class of documents to the Australian Competition and Consumer Commission in accordance with the Trade Practices Act 1974.
+(2) A person who is required to furnish information or a class of information or produce any document or class of documents to the Commission pursuant to this section complies with this section if that person furnishes the information or that class of information or produces the document or that class of documents to the Australian Competition and Consumer Commission in accordance with the Competition and Consumer Act 2010.
 
 ### 99 Powers of Commission to take evidence
 (1) For the purposes of carrying out its functions and exercising its powers under this Act, the Commission may receive in evidence any statement, document, information, or matter that may in its opinion assist it to deal effectively with the matter before it, whether or not the same would be otherwise admissible in a court of law.
@@ -2584,9 +2697,9 @@ The Commission may exercise any power under sections 98 and 98A notwithstanding 
 (5) Where any person has appeared as a witness before the Commission pursuant to a notice in that behalf, or has given evidence before the Commission, whether pursuant to a notice or not, the Commission may, if it thinks fit, order any sum to be paid to that witness on account of his expenses, not exceeding the amount that would be payable to him if his attendance had been as a witness for the Crown in a criminal case in accordance with the regulations for the time being in force for the payment of witnesses for the Crown in criminal cases.
 
 ### 99A Commission may receive information and documents on behalf of Australian Competition and Consumer Commission
-(1) Where the Australian Competition and Consumer Commission requires any person resident or carrying on business in New Zealand to furnish any information or any class of information or produce any document or class of documents to it pursuant to section 155A of the Trade Practices Act 1974, the information or class of information may be furnished or the document or class of documents may be produced to the Commission for transmission to the Australian Competition and Consumer Commission.
+(1) Where the Australian Competition and Consumer Commission requires any person resident or carrying on business in New Zealand to furnish any information or any class of information or produce any document or class of documents to it pursuant to section 155A of the Competition and Consumer Act 2010, the information or class of information may be furnished or the document or class of documents may be produced to the Commission for transmission to the Australian Competition and Consumer Commission.
 (2) The Commission shall deliver the information or class of information furnished or the document or class of documents produced to it to the Australian Competition and Consumer Commission as soon as practicable.
-(3) Every person who—commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
+(3) Every person who—commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in any other case.
   (a) refuses or fails, without reasonable excuse, to comply with a requirement referred to in subsection (1); or
   (b) in purported compliance with such a requirement, furnishes information or produces a document knowing it to be false or misleading—
 
@@ -2743,8 +2856,10 @@ The Commission must not provide information to an overseas regulator that the Co
   (b) refuse to take an oath or make an affirmation as a witness; or
   (c) refuse to answer any question; or
   (d) refuse to produce to the Commission any book or document that that person is required to produce.
-(4) Any person who contravenes subsection (1) or subsection (2) or subsection (3) commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
-(5) Proceedings for an offence against subsection (4) may be commenced within 6 months after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
+(4) A person who contravenes subsection (1), (2), or (3) commits an offence and is liable on conviction to,—
+  (a) in the case of an individual, a fine not exceeding $100,000:
+  (b) in any other case, a fine not exceeding $300,000.
+(5) Proceedings for an offence against subsection (4) may be commenced within 3 years after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
 
 ### 104 Determinations of Commission
 (1) Any determination, clearance, authorisation, or decision given by the Commission under or for the purposes of this Act shall be sufficiently given if it is in writing under the seal of the Commission or is signed by 1 or more members of the Commission or by an employee of the Commission authorised for the purpose.
@@ -2793,14 +2908,14 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (a) prescribing the procedure to be followed under this Act in respect of applications and notices to, and proceedings of, the Commission:
   (b) prescribing forms of applications, notices, and other documents required for the purposes of this Act, and requiring the use of such forms:
   (c) prescribing fees to be paid for the purposes of this Act:
-  (ca) authorising the Commission in its discretion, or on such grounds as may be prescribed, to refund a part of the prescribed fee paid by a person who gives a notice under section 67(1) in any case where the Commission gives a clearance under that section:
-  (cb) authorising the Commission to refund a part of a prescribed fee paid by a person in any case where a written undertaking is obtained or accepted from that person:
-  (cc) requiring the Commission to refund, within a prescribed time, all or any part of a fee paid in respect of an application under section 58, or in respect of a notice under section 66(1) or 67(1), that is more than the cost to the Commission of determining that application or notice:
-  (cd) prescribing a class or classes of persons who are exempt from the requirement to pay any fee prescribed for an application under section 58 or for a notice under section 66(1) or 67(1):
+  (ca) authorising the Commission, in its discretion or on any grounds that are prescribed, to refund any part of a prescribed fee paid by a person in connection with an application under Part 5 for an authorisation or a clearance:
+  (cb)
+  (cc) requiring the Commission to refund, within a prescribed time, all or any part of a fee paid in respect of an application under section 58 or 65A, or in respect of a notice under section 66(1) or 67(1), that is more than the cost to the Commission of determining that application or notice:
+  (cd) prescribing a class or classes of persons who are exempt from the requirement to pay any fee prescribed for an application under section 58 or 65A or for a notice under section 66(1) or 67(1):
   (d) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
 ### 109 Commission may prescribe forms
-For the purposes of this Act the Commission may from time to time prescribe forms of applications, notices, and other documents required for the purposes of this Act.
+For the purposes of this Act, the Commission may from time to time prescribe forms of applications, notices, and other documents required for the purposes of this Act.
 
 ### 110 Repeals, revocations, savings, and consequential amendments
 (1) The enactments specified in Schedule 2 are hereby amended in the manner indicated in that schedule.
@@ -2841,6 +2956,48 @@ For the purposes of this Act the Commission may from time to time prescribe form
 
 ### 118 Lay members of High Court appointed pursuant to Commerce Act 1975 deemed to be lay members of High Court appointed under this Act
 [Repealed]
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Commerce (Cartels and Other Matters) Amendment Act 2017
+
+### 1 Interpretation
+(1) In this Part, Amendment Act 2017 means the Commerce (Cartels and Other Matters) Amendment Act 2017.
+(2) In this Part,—
+  (a) a reference to section 30, section 58A, section 65A, or section 80A (or a provision of that section) is a reference to that section (or provision) as amended, inserted, or substituted by the Amendment Act 2017 (subject to paragraph (b)); and
+  (b) a reference to a former section (for example, former section 30) is a reference to that section as in force immediately before the commencement of this clause.
+
+### 2 Transitional provisions for cartel prohibition under section 30
+(1) Section 30(a) (which relates to entering into a contract or an arrangement, or arriving at an understanding, that contains a cartel provision) applies only to contracts, arrangements, or understandings that are entered into or arrived at after section 30 comes into force.
+(2) Section 30(b) (which relates to giving effect to a cartel provision in a contract, arrangement, or understanding) applies only to conduct occurring after section 30 comes into force, but applies whether the contract, arrangement, or understanding is entered into or arrived at before or after section 30 comes into force, and whether or not the contract, arrangement, or understanding has been suspended at any time.
+(3) Subclauses (4) to (6) apply to a contract, arrangement, or understanding that was entered into or arrived at before the commencement of section 30 and that, at the time of that commencement, contained or may have contained a cartel provision.
+(4) Despite subclause (2), no proceedings under section 80, 80B, 80C, 81, or 82 may be commenced for a contravention of section 30(b) or 80A occurring during the transitional period.
+(5) However,—
+  (a) proceedings under former section 80 or 80C, or section 81 or 82, may be commenced in relation to conduct occurring during the transitional period as if former sections 30 to 33 were still in force during the transitional period; and
+  (b) proceedings under section 80B may be commenced for a contravention of former section 80A occurring during the transitional period.
+(6) Former sections 30 to 33, 80, 80A, and 80C continue to have effect as if those sections had not been repealed or amended by the Amendment Act 2017, and section 89 continues to apply, for the purpose of—
+  (a) investigating a contravention to which subclause (5) applies:
+  (b) commencing or completing proceedings to which subclause (5) applies:
+  (c) imposing a penalty or other remedy or making an order in proceedings to which subclause (5) applies.
+(7) In this section, transitional period means the 9-month period starting on the commencement of section 30.
+
+### 3 Transitional provision for authorisations under section 58
+Section 58A(1) and (2) applies to an authorisation that is given either before or after section 12 of the Amendment Act 2017 comes into force.
+
+### 4 Transitional provision relating to amendments to Shipping Act 1987
+(1) This clause applies to a contract, arrangement, or understanding, or to a proposed contract, arrangement, or understanding, in so far as it contains a provision to which the exception in section 44(2) applies.
+(2) At any time before section 33 of the Amendment Act 2017 comes into force, any carrier (as defined in section 2 of the Shipping Act 1987) who is a party to the contract, arrangement, or understanding may apply to the Commission for the following:
+  (a) an authorisation under section 58, in which case the Commission may grant the authorisation in accordance with that section:
+  (b) a clearance under section 65A, in which case the Commission may grant the clearance in accordance with that section, except that the clearance may be granted in respect of a contract, arrangement, or understanding that has already been entered into or arrived at (and not just in relation to proposed contracts, arrangements, or understandings).
+(3) This clause is repealed at the close of the day immediately before section 33 of the Amendment Act 2017 comes into force.
+(4) Despite the repeal of this clause, any application made pursuant to subclause (2) before its repeal may continue to be dealt with by the Commission as if the clause had not been repealed.
+
+### 5 Transitional provision for offences and contraventions under repealed or amended provisions
+(1) This clause applies to an offence committed under, or a contravention of, any provision of this Act repealed or amended by the Amendment Act 2017 before the commencement of the provision that repealed or amended that provision.
+(2) The provisions repealed or amended by the Amendment Act 2017 continue to have effect as if they had not been repealed or amended for the purpose of—
+  (a) investigating an offence or a contravention to which this clause applies:
+  (b) commencing or completing proceedings for an offence or a contravention to which this clause applies:
+  (c) imposing a penalty, or making an order, in relation to an offence or a contravention to which this clause applies.
 
 ## Schedule 1 — Classes of merger or takeover proposals requiring prior clearance or authorisation by the Commission
 
