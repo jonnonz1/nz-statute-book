@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-08-15_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -2509,7 +2509,7 @@ The Minister may from time to time, by notice in the Gazette,—
   (c) whether there is likely to be a substantial degree of benefit accruing to consumers generally, or to a significant group of consumers, as a result of the application of the proposed tariff,—
 
 ### 91 Application of Commerce Act 1986
-(1) Nothing in sections 27 to 29 of the Commerce Act 1986 shall apply to or in respect of—
+(1) Nothing in sections 27 to 30 of the Commerce Act 1986 shall apply to or in respect of—
   (a) the negotiation or conclusion of any contract, arrangement, or understanding so far as it contains a provision relating to international carriage by air, so long as that provision is not given effect to before its authorisation under section 88; or
   (b) any provision of a contract, arrangement, or understanding relating to international carriage by air so long as it is not given effect to before its authorisation under section 88.
 (2) Every authorisation by the Minister under section 88 or section 90 and every issue or amendment of a commission regime under section 89 is hereby declared to be a specific authorisation by an enactment for the purposes of section 43 of the Commerce Act 1986.
