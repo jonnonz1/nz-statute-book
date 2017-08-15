@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-08-15_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
