@@ -1,5 +1,5 @@
 # Telecommunications (Property Access and Other Matters) Amendment Act 2017
-_Consolidation as at 2017-06-09_
+_Consolidation as at 2017-08-18_
 
 ### 1 Title
 This Act is the Telecommunications (Property Access and Other Matters) Amendment Act 2017.
