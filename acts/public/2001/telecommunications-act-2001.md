@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2017-06-09_
+_Consolidation as at 2017-08-18_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -3338,6 +3338,25 @@ In this subpart, unless the context otherwise requires,—
 (3A) However, if the authorisations are for any acquisitions under UFB 2, the authorisations must be treated as if they were authorisations granted by the Commission under section 67(3)﻿(b) of the Commerce Act 1986 on the date on which this subsection comes into force.
 (4) Sections 91 to 97 of the Commerce Act 1986 do not apply to the authorisations.
 (5) The effect of the authorisations is the same as that stated in section 69 of the Commerce Act 1986.
+
+### Subpart 7 — Commerce Act 1986 authorisations in respect of Rural Broadband Initiative 2 and Mobile Black Spot Fund
+
+### 156AZE Interpretation for this subpart
+In this subpart, unless the context otherwise requires,—
+  - **MBSF** means the Mobile Black Spot Fund announced by the Minister on 12 March 2015
+  - **RBI2** means the extension of the Rural Broadband Initiative announced by the Minister on 12 March 2015
+  - **relevant service** means,—
+    (a) in relation to RBI2, a wholesale telecommunications service that is provided using, or that provides access to, infrastructure forming part of a broadband network where infrastructure was constructed with funding provided, in whole or in part, by the Crown as part of RBI2; and
+    (b) in relation to MBSF, a wholesale service that is provided using, or that provides access to, a cellular mobile telephone network constructed, in whole or in part, with money provided by the Crown as part of the MBSF
+  - **service provider** means a provider of a relevant service.
+
+### 156AZF Restrictive trade practices authorisations in respect of transactional arrangements for RBI2 and MBSF
+(1) Any contract, arrangement, or understanding between the Crown and 1 or more service providers to provide funding for those service providers, in accordance with RBI2 or the MBSF, is authorised.
+(2) The authorisation applies to any contract, arrangement, or understanding that is entered into before the date on which this section comes into force as if the authorisation were in force at the time that it was entered into.
+(3) The authorisation does not apply to a contract, arrangement, or understanding that is entered into later than 6 months after the date on which this section comes into force.
+(4) The authorisation must be treated as if it were an authorisation granted by the Commission under section 58(1), (2), (5), and (6) of the Commerce Act 1986.
+(5) Sections 65 and 91 to 97 of the Commerce Act 1986 do not apply to the authorisation.
+(6) The effect of the authorisation is the same as the effect stated in section 58A(1) and (2) of the Commerce Act 1986.
 
 ## Part 4A — Enforcement
 
