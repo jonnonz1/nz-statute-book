@@ -463,7 +463,7 @@ After section 80O(e), insert:
   (ea) the offender must not leave or attempt to leave New Zealand without the prior written consent of a probation officer:
   (eb) the offender must, if a probation officer directs, allow the collection of biometric information:
 
-### 65 New subpart 2C of Part 2 inserted
+### 65 New subpart 2BA of Part 2 inserted
 After section 80ZM, insert:Biometric informationPurpose of collecting biometric information
   (1) Biometric information collected under section 49(1)﻿(fa), 54F(1)﻿(gb), 59A, 69E(1)﻿(db), 80C(2)﻿(cb), or 80O(eb) may only be used for the purpose of helping—
     (a) to manage offenders to ensure public safety; and
