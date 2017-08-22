@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-08-22_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -23,6 +23,7 @@ This Act is the Corrections Act 2004.
     (g)
     (h) any other person or body of persons the proceedings, or any part of the proceedings, of whom or of which are deemed to be a judicial proceeding for the purposes of section 108 of the Crimes Act 1961 (which relates to perjury)
   - **authorised property** means property that is declared by rules made under section 45A as property that prisoners may be issued with or allowed to keep
+  - **biometric information** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
   - **chief executive** means the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **complainant** means a person who makes a complaint under subpart 6 of Part 2
   - **complaint** —
@@ -633,18 +634,20 @@ A prisoner must promptly obey every lawful order given to him or her by—
   (a) an officer; or
   (b) a staff member.
 
-### 41 Photographing and measuring of prisoner
-(1) A prisoner may, if an officer directs,—
-  (a) be photographed:
-  (b) have his or her measurements taken:
-  (c) have his or her fingerprints taken:
-  (d) be required to undergo any other prescribed procedure designed to create a record to enable the subsequent identification of the prisoner.
+### 41 Collection of biometric information, etc, from prisoner
+(1) An officer may direct that a prisoner submit to—
+  (a) photographs being taken of the prisoner:
+  (b) biometric information being collected from the prisoner:
+  (c) measurements being taken from the prisoner:
+  (d) any other prescribed procedure designed to create a record to enable the subsequent identification of the prisoner.
 (2) No procedure that purports to authorise the taking of a bodily sample from a prisoner may be prescribed for the purposes of subsection (1)﻿(d).
 (3) The powers conferred by subsection (1)—
-  (a) may be exercised only for the purpose of facilitating the management and security of the prison; and
+  (a) may be exercised only for the purpose of—
+    (i) facilitating the management and security of the prison; and
+    (ii) verifying the identity of prisoners upon release into the community to ensure public safety; and
   (b) must be exercised subject to the provisions of this Act and any other enactment.
-(4) If necessary, reasonable force may be used by an officer to compel the prisoner to submit to the taking of photographs, measurements, fingerprints, or other prescribed procedures.
-(5) The chief executive must ensure that, if the prisoner is a person accused of an offence and is subsequently acquitted, all photographs (including any negatives or digital or other records of the photographs) and fingerprints taken during the prisoner's detention in respect of the charge, and any record of identifying information created in reliance on subsection (1) during that period, are immediately destroyed.
+(4) If necessary, reasonable force may be used by an officer to compel the prisoner to submit to the taking of photographs, the collection of biometric information, the taking of measurements, or other prescribed procedures.
+(5) The chief executive must ensure that, if the prisoner is a person accused of an offence and subsequently acquitted, all information collected or taken from the prisoner under this section during the prisoner’s detention in respect of the charge, and any record of identifying information created in reliance on subsection (1) during that period, are immediately destroyed.
 
 ### 42 Certain information to be given to recently received prisoners
 (1) The manager of a prison must ensure that, on the reception of a prisoner in the prison, or reasonably promptly after the prisoner is received, the prisoner is given, in writing, relevant information on the operation and rules of the prison made under section 33, rules about authorised property made under section 45A, and the entitlements of prisoners.
@@ -1778,7 +1781,11 @@ If, under section 124, a prisoner submits to a prescribed procedure, the prison 
   (j) makes an allegation against any staff member, security officer, prisoner, or any other person lawfully in the prison, knowing that the allegation is false:
   (k) combines with other prisoners for a purpose that is likely to endanger the security or good order of the prison:
   (l) escapes from any prison or from lawful custody:
-  (m) contrary to a direction given under section 41, refuses to submit to being photographed or to having his or her measurements or fingerprints taken, or to undergo a prescribed identification procedure:
+  (m) contrary to a direction given under section 41, refuses to submit to—
+    (i) photographs being taken of the prisoner:
+    (ii) biometric information being collected from the prisoner:
+    (iii) measurements being taken from the prisoner:
+    (iv) any other prescribed procedure designed to create a record to enable the subsequent identification of the prisoner.
   (n) being a prisoner who is temporarily removed from prison under section 62, is in breach of any condition imposed under section 64.
 (2) If an allegation referred to in subsection (1)﻿(j) is against a staff member of a prison or a security officer,—
   (a) a charge alleging an offence under that provision may only be laid,—
@@ -2903,7 +2910,11 @@ Regulations made under section 200(1)﻿(c) may include (without limitation) pro
     (ii) accused and convicted persons who are under a specified age from persons of that kind who are of or over that age, except in circumstances specified in the regulations:
     (iii) male and female prisoners:
   (b) regulating communication with, and the visual recording of, prisoners:
-  (c) regulating the photographing of prisoners and the taking of measurements and fingerprints, and prescribing other identification procedures:
+  (c) regulating—
+    (i) the photographing of prisoners:
+    (ii) the collection of biometric information from prisoners:
+    (iii) the taking of measurements from prisoners:
+  (ca) prescribing procedures to enable the identification of prisoners other than those that may be regulated under paragraph (c):
   (d) regulating the holding of prisoners' property in prisons generally and, in particular, liability in respect of the loss of, damage to, or destruction of such property, and the seizure, disposal, or return of—
     (i) property found in the possession of a prisoner on his or her admission to a prison, or brought into a prison after a prisoner's admission:
     (ii) any thing discovered as a result of any search conducted under this Act:
